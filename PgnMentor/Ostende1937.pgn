@@ -1,0 +1,820 @@
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "1"]
+[White "List, Paul"]
+[Black "Reynolds, Arthur"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D26"]
+
+1.Nf3 d5 2.c4 dxc4 3.e3 c5 4.Bxc4 Nc6 5.d4 e6 6.O-O Nf6 7.Nc3 Be7 8.Qe2 O-O
+9.Rd1 a6 10.dxc5 Qa5 11.a3 Qxc5 12.e4 b5 13.Ba2 Qh5 14.Bf4 b4 15.axb4 Bxb4
+16.Rac1 e5 17.Bg5 Bg4 18.Bxf6 Bxc3 19.Rxc3 Nb4 20.Be7 Nxa2 21.Ra3 Bxf3 22.Qxf3 Qxf3
+23.gxf3 Rfe8 24.Rd7 Nc1 25.Kf1 a5 26.Bg5 Rac8 27.Rd1  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "1"]
+[White "Koltanowski, George"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 d6 3.Nc3 Bf5 4.Nh4 e6 5.Nxf5 exf5 6.Bg5 Be7 7.Qd3 Qd7 8.Bxf6 Bxf6
+9.Nd5 Bd8 10.Qe3+ Qe6 11.g3 c6 12.Qxe6+ fxe6 13.Nc3 Ba5 14.O-O-O Bxc3 15.bxc3 b5
+16.f3 d5 17.e4 O-O 18.exf5 exf5 19.Bd3 g6 20.Rhe1 Kf7 21.Kd2 Nd7 22.a4 a6
+23.Ra1 Nb6 24.axb5 axb5 25.h4 h5 26.g4 hxg4 27.fxg4 fxg4 28.Rxa8 Rxa8 29.Rg1 Nc4+
+30.Bxc4 bxc4 31.Rxg4 Ra1 32.Rf4+ Ke6 33.Ke2 Rh1 34.Kd2 Rh2+ 35.Kd1 Rh3 36.Kd2 Rg3
+37.Rf8 Rg4 38.Rh8 Rg2+ 39.Kd1 Rh2 40.Rh7 Rh3 41.Kd2 Kf6 42.Rc7 Rxh4 43.Rxc6+ Kg7
+44.Ke3 g5 45.Kf3 Rh2 46.Kg4 Rg2+ 47.Kf5 g4 48.Rg6+ Kf7 49.Rxg4 Rxg4 50.Kxg4 Kg6
+51.Kf4 Kf6  1/2-1/2
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "1"]
+[White "Grob, Henry"]
+[Black "Landau, Salo"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B72"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 g6 7.Be3 Bg7 8.Rb1 Ng4
+9.Bxg4 Bxg4 10.Qd2 Ne5 11.b3 Rc8 12.h3 Bd7 13.Nce2 O-O 14.O-O Re8 15.c4 Nc6
+16.Rbd1 a6 17.f3 Qc7 18.Kh1 Nxd4 19.Nxd4 Red8 20.Qf2 Qa5 21.f4 Qh5 22.Nf3 f5
+23.e5 Bc6 24.Bb6 Re8 25.exd6 exd6 26.Rxd6 Re4 27.Qd2 h6 28.Rd8+ Rxd8 29.Qxd8+ Kh7
+30.Qd2 Re7 31.Kh2 Rd7 32.Qe3 Be4 33.Bd4 Bxf3 34.Bxg7 Bxg2 35.Kxg2 Rxg7 36.Qe5 Qh4
+37.Re1 Qd8 38.Re2 Qd3 39.Qe3 Qd6 40.Rd2 Qc7 41.Qe5 Qxe5 42.fxe5 Re7 43.Rd5 g5
+44.Kf3 Kg6 45.b4 Kh5 46.c5 Kh4 47.a4 h5 48.b5 Re6 49.Rd4+ Kxh3 50.Rd1 Kh2
+51.Rd2+ Kh3 52.Rd1 Kh2  1/2-1/2
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "1"]
+[White "Keres, Paul"]
+[Black "Fine, Reuben"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D41"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4+
+9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Bc4 Nd7 12.O-O b6 13.Rad1 Bb7 14.Rfe1 Rc8 15.Bb3 Nf6
+16.Qf4 Qc7 17.Qh4 Rfd8 18.Re3 b5 19.Rde1 a5 20.a4 b4 21.d5 exd5 22.e5 Nd7
+23.Ng5 Nf8 24.Nxh7 Nxh7 25.Rh3 Qc1 26.Qxh7+ Kf8 27.Re3 d4 28.Qh8+ Ke7 29.Qxg7 Rf8
+30.Qf6+ Ke8 31.e6  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "1"]
+[White "Dyner, Israel"]
+[Black "Dunkelblum, Arthur"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D63"]
+
+1.c4 Nf6 2.Nc3 e6 3.d4 d5 4.Bg5 Be7 5.Nf3 O-O 6.e3 Nbd7 7.Rc1 c6 8.cxd5 Nxd5
+9.Bxe7 Qxe7 10.Bd3 Nxc3 11.Rxc3 e5 12.dxe5 Nxe5 13.Nxe5 Qxe5 14.Qc2 g6 15.O-O Be6
+16.Bc4 Bxc4 17.Rxc4 Rfd8 18.Qb3 Qe7 19.Rd1 Rd7 20.Rcd4  1/2-1/2
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "2"]
+[White "Fine, Reuben"]
+[Black "Tartakower, Saviely"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E37"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.a3 Bxc3+ 6.Qxc3 Ne4 7.Qc2 O-O 8.e3 Nd7
+9.Bd3 e5 10.cxd5 Nef6 11.e4 Re8 12.Nf3 Nxd5 13.O-O N5b6 14.a4 a5 15.Rd1 exd4
+16.Nxd4 Ne5 17.Be2 Qe7 18.b3 c6 19.Be3 Qf6 20.h3 g5 21.Rac1 Ng6 22.Nf3 Nd7
+23.Bxg5 Qg7 24.Nd4 Qe5 25.Nf5 Nf6 26.Bc4 Be6 27.f3 Bxf5 28.exf5 Nf4 29.Re1 Qd4+
+30.Qf2 Qxf2+ 31.Kxf2 N4d5 32.g4 Kg7 33.Bd2 h6 34.Rxe8 Rxe8 35.Bxa5 Nf4 36.Kg3 N6d5
+37.Re1 Rxe1 38.Bxe1 Kf6 39.Bd2 Ke5 40.a5 h5 41.h4 f6 42.Bc1 c5 43.Bd2 hxg4
+44.fxg4 Ke4 45.Bxf4 Nxf4 46.h5 Nxh5+ 47.gxh5 Kxf5 48.Kh4  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "2"]
+[White "Dunkelblum, Arthur"]
+[Black "Koltanowski, George"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D73"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.cxd5 cxd5 6.Nc3 Nc6 7.Nf3 Bg7 8.Ne5 Nxe5
+9.dxe5 Ng4 10.Qxd5 Bxe5 11.Qxd8+ Kxd8 12.Bd2 Rb8 13.O-O Bd7 14.Rfd1 Ke8 15.h3 Nf6
+16.Be3 b6 17.Bd4  1/2-1/2
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "2"]
+[White "Reynolds, Arthur"]
+[Black "Grob, Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A30"]
+
+1.c4 c5 2.g3 Nc6 3.Bg2 e6 4.Nc3 a6 5.Nf3 Nf6 6.O-O Be7 7.d4 cxd4 8.Nxd4 h5
+9.Nxc6 bxc6 10.e4 e5 11.Qe2 h4 12.Be3 c5 13.Nd5 Nxd5 14.exd5 d6 15.f4 hxg3
+16.hxg3 Bf6 17.Rae1 O-O 18.Be4 exf4 19.Rxf4 Bg5 20.Rf2 f5 21.Bd3 Bd7 22.Qh5 Bxe3
+23.Rxe3 Qf6 24.Rh2 Rae8 25.Qh7+ Kf7 26.Qh5+ g6 27.Qh7+ Qg7 28.Qxg7+ Kxg7
+29.Rhe2 Rxe3 30.Rxe3 Kf6 31.Kf2 Rh8 32.Kg2 a5 33.b3 Rb8 34.Kf2 Rh8 35.Kg2 Re8
+36.Rf3 Re1 37.Rf2 Kg5 38.Kf3 Rh1 39.Bf1 Rh8 40.Re2 Kf6 41.Rb2 g5 42.Re2 Rh7
+43.Rf2 Be8 44.Ke3 Bg6 45.Kd2 Re7 46.Bd3 Re5 47.Rh2 Re8 48.Rf2 g4 49.Re2 Re5
+50.Rh2 Kg7 51.Rf2 Kh6 52.Rh2+ Bh5 53.Rf2 Kg5 54.Rf1 Bg6 55.Rf2 Re8 56.Rh2 Rg8
+57.Ke3 Ra8 58.Bc2 Rf8 59.Kd2 f4 60.gxf4+ Rxf4 61.Bxg6 Kxg6 62.Ke3 Rf8 63.Rh4 Kg5
+64.Rh7 g3 65.Rg7+ Kh4 66.Rg6 Kh3 67.Rh6+ Kg4  0-1
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "2"]
+[White "Keres, Paul"]
+[Black "List, Paul"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 Ne4 5.Qc2 d5 6.e3 c5 7.Bd3 Qa5 8.O-O Bxc3
+9.bxc3 Nf6 10.Rb1 Nbd7 11.Ne5 dxc4 12.Nxc4 Qc7 13.e4 b5 14.Rxb5 Ba6 15.e5 O-O
+16.Nd6 c4 17.Bxc4 Bxb5 18.Bxb5 Nd5 19.c4 Ne7 20.Ba3 a6 21.Ba4 f5 22.exf6 Nxf6
+23.Qe2 Ng6 24.Qxe6+ Kh8 25.g3 Qa5 26.Bc6 Rab8 27.Bc5 Qc7 28.Re1 h6 29.h4 h5
+30.Ne4 Nxe4 31.Bxf8 Rxf8 32.Bxe4 Qa5 33.Bxg6  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "2"]
+[White "Landau, Salo"]
+[Black "Dyner, Israel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D95"]
+
+1.d4 Nf6 2.c4 c6 3.Nf3 d5 4.e3 g6 5.Nc3 Bg7 6.Qb3 O-O 7.Bd2 Ne4 8.cxd5 Nxc3
+9.dxc6 Nxc6 10.Bxc3 b6 11.Rd1 Bf5 12.Ba6 Be4 13.O-O Bd5 14.Qc2 Na5 15.b3 Bb7
+16.Bd3 Rc8 17.Qb2 Bxf3 18.gxf3 e5 19.Be2 Qg5+ 20.Kh1 exd4 21.Bxd4 Bxd4 22.Rxd4 Qf6
+23.Rfd1 Nc6 24.R4d2 Qh4 25.Bf1 Rcd8 26.f4 Qg4 27.Rxd8 Rxd8 28.Rxd8+ Nxd8
+29.Qe2 Qxe2 30.Bxe2 Kf8 31.Kg2 Ke7 32.Kf3 Nc6 33.Ke4 Kd6 34.f5 Ne5 35.Kf4 f6
+36.h4 Ke7 37.Bc4 Nd7 38.Bg8 Nf8 39.Kg4 h5+ 40.Kf4 gxf5 41.Kxf5 Nd7 42.Bc4  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "3"]
+[White "Keres, Paul"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A53"]
+
+1.Nf3 Nf6 2.c4 d6 3.Nc3 Bg4 4.d4 Nbd7 5.e4 e5 6.Be2 Be7 7.O-O O-O 8.Be3 c6
+9.Ne1 Bxe2 10.Qxe2 Re8 11.Rd1 Bf8 12.f3 Qa5 13.Nc2 Rad8 14.d5 cxd5 15.Nxd5 Rc8
+16.Nc3 a6 17.Rc1 Qc7 18.Na3 Qa5 19.Nab1 Rc6 20.Rfd1 Rec8 21.b3 Nc5 22.Nd5 Nxd5
+23.exd5 R6c7 24.Qb2 Qb4 25.Nd2 Nd3 26.Qc3 Qxc3 27.Rxc3 Nb4 28.Ne4 Nxa2 29.Rc2 Nb4
+30.Re2 b5 31.c5 dxc5 32.d6 Rd7 33.Bxc5 a5 34.g4 Rc6 35.Bxb4 axb4 36.g5 h6
+37.Rg2 Kh7 38.Kh1 hxg5 39.Rxg5 f6 40.Rg2 f5 41.Ng5+ Kg8 42.Rd5 Rc1+ 43.Rg1 Rxg1+
+44.Kxg1 Bxd6 45.Kf1 g6 46.Ne6 Kf7 47.Nc5 Rc7 48.Nd3 Ke6 49.Rxb5 Rc3 50.Ke2 Rxb3
+51.Rb6 Kd5 52.h4 e4 53.fxe4+ fxe4 54.Nc1 Rb2+ 55.Kd1 Rh2 56.Rb5+ Kc4 57.Rb6 Kc5
+58.Ra6 Rxh4 59.Ne2 Rh2 60.Ra5+ Kc4 61.Rg5 b3 62.Rxg6 b2 63.Nc3 Kxc3 64.Rg3+ Kc4  0-1
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "3"]
+[White "Grob, Henry"]
+[Black "Dyner, Israel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B72"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Bg7 7.Be3 O-O 8.h4 h5
+9.f3 Nc6 10.Qd2 Nxd4 11.Bxd4 Be6 12.Nd1 d5 13.e5 Nd7 14.Qe3 Nxe5 15.g4 Nc4
+16.Bxc4 Bxd4 17.Qxd4 dxc4 18.Qe3 hxg4 19.h5 Qa5+ 20.Nc3 gxh5 21.O-O-O Rfd8
+22.Rdg1 Rd6 23.a4 Rad8 24.fxg4 Bxg4 25.Qxe7 Qc5 26.Qxb7 Qe3+ 27.Kb1 Rb6 28.Qc7 Rdb8
+29.Nb5 a6 30.Re1 Qg5 31.Re5 Qf6 32.Qc5 axb5 33.Rg5+  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "3"]
+[White "Fine, Reuben"]
+[Black "Landau, Salo"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E15"]
+
+1.Nf3 Nf6 2.g3 b6 3.d4 Bb7 4.c4 e6 5.Bg2 Qc8 6.O-O c5 7.d5 exd5 8.cxd5 Bxd5
+9.Nc3 Bc6 10.e4 Be7 11.e5 Ng8 12.Re1 Qb7 13.Qd3 Na6 14.Ne4 Nc7 15.Nh4 Kf8
+16.Nd6 Bxd6 17.Qxd6+ Ke8 18.Nf5 Bxg2 19.Nxg7+ Kd8 20.e6 Nxe6 21.Rxe6 Nh6
+22.Rxh6 Bh1 23.f3 Qxf3 24.Qf6+ Kc7 25.Qxf3 Bxf3 26.Rf6 Bd5 27.Bf4+ Kb7 28.Rf5 Kc6
+29.b3 Rhg8 30.Rd1 Bxb3 31.axb3 Rxg7 32.Rd6+ Kb5 33.Rxd7 a5 34.Rfxf7 Rxf7
+35.Rxf7 h5 36.Rf6  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "3"]
+[White "List, Paul"]
+[Black "Koltanowski, George"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D95"]
+
+1.Nf3 Nf6 2.c4 g6 3.d4 Bg7 4.Nc3 d5 5.e3 O-O 6.Qb3 e6 7.Bd3 Nc6 8.Bd2 Na5
+9.Qa4 Nxc4 10.Bxc4 dxc4 11.Qxc4 b6 12.O-O Bb7 13.Qe2 Nd7 14.e4 c5 15.Bg5 Bf6
+16.Bh6 Bg7 17.Bxg7 Kxg7 18.Rfd1 Qe7 19.Qe3 Rfd8 20.Rd2 cxd4 21.Rxd4 e5 22.Rd2 Nf6
+23.Rad1 Rxd2 24.Rxd2 Rd8 25.Rxd8 Qxd8 26.h3 Qd6 27.a3 h6  1/2-1/2
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "3"]
+[White "Reynolds, Arthur"]
+[Black "Dunkelblum, Arthur"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A34"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 g6 4.Bg2 Bg7 5.Nf3 d5 6.cxd5 Nxd5 7.O-O O-O 8.Qb3 Nb6
+9.d3 Nc6 10.Qb5 Nd7 11.Be3 Nd4 12.Qa4 e5 13.Rfc1 h6 14.Bxd4 cxd4 15.Nd5 Nb6
+16.Nxb6 Qxb6 17.Qb3 Qa5 18.Qa3 Qd8 19.Qc5 Re8 20.Nd2 Bf8 21.Qc7 Qxc7 22.Rxc7 Bd6
+23.Rc2 Rb8 24.Ne4 Be7 25.Nd2 Be6 26.Rac1 Rbc8 27.Rxc8 Rxc8 28.Rxc8+ Bxc8
+29.Nc4 f6 30.Na5 Be6 31.Bxb7 Bxa2 32.b3 Kf8 33.Bd5 Bc5 34.Nc6 Ke8 35.Be6 Bb6
+36.Nb4 Bb1  1/2-1/2
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "4"]
+[White "List, Paul"]
+[Black "Fine, Reuben"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A34"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 d5 4.cxd5 Nxd5 5.d4 Nxc3 6.bxc3 g6 7.e3 Bg7 8.Bb5+ Nd7
+9.O-O a6 10.Be2 O-O 11.a4 b6 12.Ba3 Qc7 13.Qb3 Bb7 14.Rab1 Rab8 15.Rfd1 e6
+16.Rd2 Rfc8 17.Rc1 b5 18.axb5 axb5 19.Ne1 Bd5 20.Qd1 Qa5 21.Bb2 cxd4 22.cxd4 Bb3
+23.Ra1 Qb4 24.Nd3 Bxd1 25.Nxb4 Bxe2 26.Rxe2 Bf8 27.Nd3 Nb6 28.f3 Nc4 29.Kf2 Ra8
+30.Rxa8 Rxa8 31.Ne5 Nxe5 32.dxe5 b4 33.Bd4 b3 34.Rb2 Ra2 35.Ke2 Ba3 36.Rxa2 bxa2
+37.Kd3 Bc5 38.Ba1 Kg7 39.g4 h5 40.h3 Kf8 41.e4 Bf2 42.Ke2 Bg3 43.Ke3 Ke7
+44.Kd4 f6 45.exf6+ Kxf6 46.g5+ Kxg5  0-1
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "4"]
+[White "Tartakower, Saviely"]
+[Black "Dunkelblum, Arthur"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Bd3 Bxd3 5.Qxd3 e6 6.f4 Nh6 7.Ne2 Qa5+ 8.Nd2 Qb5
+9.c4 dxc4 10.Nxc4 Be7 11.O-O Nd7 12.b3 Nb6 13.a4 Qa6 14.Ba3 Bxa3 15.Rxa3 O-O
+16.Ng3 Rad8 17.a5 Nc8 18.f5 Nxf5 19.Nxf5 exf5 20.Qxf5 Qb5 21.Rd1 Rd5 22.Ne3 Rdd8  1/2-1/2
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "4"]
+[White "Dyner, Israel"]
+[Black "Reynolds, Arthur"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.Nc3 e5 4.d5 Nf6 5.e4 Bc5 6.Bg5 h6 7.Bxf6 Qxf6 8.Nf3 g5
+9.h3 h5 10.Qa4+ Bd7 11.Qxc4 Na6 12.Qb3 O-O-O 13.Bxa6 bxa6 14.O-O-O g4 15.d6 Qf4+
+16.Nd2 Be6 17.Nd5 Bxd6 18.Nxf4 Bxb3 19.Nxb3 exf4 20.hxg4 hxg4 21.Kc2 Rdg8
+22.Kd3 g3 23.f3 Rh2 24.Rhg1 Be5 25.Nd4 Rd8 26.Kc4 Kb7 27.b4 Kb6 28.a4 c6
+29.Rd2 Rd6 30.Rd3 f6 31.Rd2 Rxd4+ 32.Rxd4 Bxd4 33.a5+ Kc7 34.Kxd4 Rh5  1/2-1/2
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "4"]
+[White "Koltanowski, George"]
+[Black "Landau, Salo"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D06"]
+
+1.d4 d5 2.Nf3 Nf6 3.e3 Bf5 4.c4 e6 5.Qb3 Qc8 6.Nc3 c6 7.Bd2 Be7 8.Rc1 Nbd7
+9.Be2 O-O 10.Nh4 Bg4 11.cxd5 Bxe2 12.dxc6 Nc5 13.dxc5 Ba6 14.cxb7 Bxb7 15.O-O Nd7
+16.Nf3 Nxc5 17.Qc2 Ba6 18.Na4 Bxf1 19.Nxc5 Qxc5 20.Qxc5 Bxc5 21.Rxc5 Bd3
+22.Bc3 f6 23.Ne1 Bb1 24.Ra5 Rfd8 25.f3 Kf7 26.Kf2 Rd7 27.g4 Rc8 28.e4 Rc6
+29.h4 e5 30.Ng2 Bd3 31.a3 Bc4 32.Ne3 Be6 33.Nc2 Rxc3 34.bxc3 Rd2+ 35.Ke3 Rxc2
+36.Rxa7+ Kg6 37.Kd3 Rf2 38.Ke3 Ra2 39.Kd3 Bb3 40.c4 Bd1 41.c5 Bxf3 42.c6 Bxg4
+43.c7 Kh5  0-1
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "4"]
+[White "Grob, Henry"]
+[Black "Keres, Paul"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Nc3 Nxe4 5.Nxe4 d5 6.Bb5 dxe4 7.Nxe5 Qd5 8.Bxc6+ bxc6
+9.d4 Ba6 10.c3 f6 11.Ng4 Rb8 12.Ne3 Qb5 13.b4 Bd6 14.a3 Qd3 15.Qxd3 Bxd3
+16.Nf5 Bf8 17.Bf4 Kd7 18.h4 a5 19.Kd2 g6 20.Ne3 Ra8 21.g4 Bd6 22.Ng2 Be7
+23.Be3 Ra6 24.Nf4 Bc4 25.Kc2 g5 26.hxg5 axb4 27.cxb4 c5 28.gxf6 cxd4 29.Bxd4 Bxf6
+30.Kc3 Rc6 31.Bxf6 Bb5+ 32.Kd4 Rxf6 33.Ke3 Rhf8 34.Rxh7+ Kc8 35.Nd5 Rf3+
+36.Kd4 Bd7 37.Rc1 Kd8 38.Ne3 Rxf2 39.Rch1 Rd2+ 40.Kc5 Rf3 41.Rh8+ Be8 42.R8h3 Rd3
+43.Rxf3 exf3 44.Rd1 Rd7 45.Rf1 Rd3 46.Rd1 Rd7 47.Rf1 Rd3 48.Rxf3 Rxa3 49.g5 Bg6
+50.Rf8+ Ke7 51.Rf3  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "5"]
+[White "Koltanowski, George"]
+[Black "Keres, Paul"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A81"]
+
+1.d4 e6 2.Nf3 f5 3.g3 Nf6 4.Bg2 c5 5.c4 cxd4 6.Nxd4 Be7 7.O-O O-O 8.Nc3 Nc6
+9.Nc2 b6 10.Bf4 Bb7 11.Nb5 Na5 12.b3 a6 13.Bc7 Qc8 14.Bd6 Bxg2 15.Kxg2 Nc6
+16.Nc3 b5 17.cxb5 Bxd6 18.Qxd6 axb5 19.Nb4 Qb7 20.Nxc6 Rfc8 21.f3 Rxc6 22.Qd2 Rac8
+23.Rfc1 b4 24.Nd1 Qa6 25.Rxc6 Rxc6 26.Ne3 Rc3 27.Nc2 Qb6 28.a3 Rxb3 29.Nxb4 Qa7
+30.Qc1 Qd4 31.Rb1 Rc3 32.Qb2 Qe3 33.Nd3 Rc8 34.Qe5 Qa7 35.Rb3 h6 36.Rc3 Rb8
+37.Qc7 Ra8 38.Qxa7 Rxa7 39.Nb4 Kf7 40.Kf2 Ne8 41.Ke1 Nd6 42.Nc2 Ra4 43.Rb3 Ra5
+44.Ne3 Ke7 45.Kd2 g5 46.Nc2 h5 47.Rb4 Nb5 48.Rb3 g4 49.Ke3 gxf3 50.Kxf3 e5
+51.e3 Ke6 52.h3 Kd5 53.Rd3+ Nd4+ 54.Kf2 Ke4 55.Nb4 Nc2 56.Rd2 Nxb4 57.axb4 Ra3
+58.Rb2 Rxe3 59.b5 Ra3 60.b6 Ra8 61.Rb5 Rb8 62.b7 Kd4 63.Kf3 d5 64.g4 e4+
+65.Kf4 fxg4 66.hxg4 h4 67.g5 h3 68.Kg3 e3 69.Rb1 Kc3 70.Kf3 d4 71.Ke2 h2
+72.Rc1+ Kb4 73.Kd3 Rxb7 74.Rh1 Kc5 75.Rxh2 Kd5 76.g6 Rb3+ 77.Ke2 Rb2+ 78.Kf3 Rb7
+79.Rg2 Rg7 80.Rg5+ Kc4 81.Ke2 Kc3 82.Rc5+ Kb4 83.Rd5 Kc4 84.Rg5 Kc3 85.Rc5+ Kb3
+86.Rd5  1/2-1/2
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "5"]
+[White "Grob, Henry"]
+[Black "Fine, Reuben"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Nc3 d6 6.Bg5 h6 7.Bxf6 Qxf6 8.Nd5 Qd8
+9.c3 Ne7 10.d4 exd4 11.cxd4 Bb6 12.Nxb6 axb6 13.Qb3 O-O 14.O-O Nc6 15.Qc3 Na5
+16.Bd3 d5 17.exd5 Qxd5 18.Qxc7 Nc6 19.Qxb6 Bg4 20.Be2 Rfe8 21.Bd1 Re7 22.Ne5 Nxe5
+23.dxe5 Bxd1 24.Rfxd1 Qxe5 25.h3 Ra6 26.Qd4 Qxd4 27.Rxd4 Re2 28.Rb4 Rf6 29.Rf1 b6
+30.g4 Kf8 31.Kg2 Ke8 32.Kg3 Rd6 33.a4 g5 34.Kf3 Rc2 35.Kg2 Kd7 36.Rb5 Kc6
+37.Rf5 Rxb2 38.Rc1+ Kb7 39.Rxf7+ Ka6 40.Rc8 Ka5 41.Rc4 Ka6 42.Re4 Ra2 43.h4 gxh4
+44.Kh3 Rd1 45.Kxh4 Rh1+ 46.Kg3 h5 47.gxh5 Rxh5 48.Kg4 Rh1 49.f4 Rg1+ 50.Kf5 Rga1
+51.Rf8 Rc1 52.Rfe8 Rca1 53.Rb4 Kb7 54.Re7+ Kc6 55.Rc4+ Kd5 56.Rc8 Kd4 57.Rd8+ Kc3
+58.Rc7+ Kb3 59.Rb8 Rxa4 60.Rxb6+ Ka3 61.Rc3+ Ka2 62.Re6 Rf1 63.Re4 Ra5+ 64.Ke6 Rh1
+65.Re5 Rh6+ 66.Kf5 Rh5+ 67.Kf6 Ra6+ 68.Kg7 Rh1 69.f5 Rb1 70.Re2+ Ka1 71.Re6 Rg1+
+72.Kf7 Ra7+ 73.Re7 Ra6 74.Rce3  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "5"]
+[White "Dunkelblum, Arthur"]
+[Black "Landau, Salo"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D28"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 dxc4 4.e3 e6 5.Bxc4 c5 6.O-O Nc6 7.Qe2 a6 8.Nc3 b5
+9.Bb3 Bb7 10.Rd1 Qb6 11.a3 Rd8 12.dxc5 Rxd1+ 13.Bxd1 Bxc5 14.b4 Be7 15.Bb2 O-O
+16.Bb3 Rd8 17.Rd1 Rxd1+ 18.Bxd1 Ne8 19.Qd3 Qd8 20.Qxd8 Nxd8 21.Nb1 Nd6 22.Nbd2 Bd5
+23.Ne1 f6 24.Bf3 Bxf3 25.Nexf3 e5 26.e4 Nc6 27.Ne1 Kf7 28.Kf1 Bd8 29.Ke2 Bb6
+30.Nc2 Ke6 31.f3 g6 32.Ne3 f5 33.Nd5 Bd8 34.Kd3 fxe4+ 35.fxe4 Ne7 36.Nxe7 Bxe7
+37.Nb3 Nc4 38.Bc1 Bf8 39.Kc2 Kd7 40.Kd3 Kc6 41.Kc3 Be7 42.Kd3 Bh4 43.Ke2 Be7
+44.Kd3 Kb6 45.Be3+ Kb7 46.Bc1 Kc6 47.Ke2 Bf8 48.Kd3 Kb7 49.Kc3 Kc7 50.Kc2 Kd7
+51.Kd3 Ke6 52.Ke2 Be7 53.Kd3 Bd6 54.Nd2 Nb6 55.Nb3 Nd7 56.Be3 Nf6 57.Bc5 Bc7  1/2-1/2
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "5"]
+[White "Dyner, Israel"]
+[Black "List, Paul"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nf6 6.Nf3 Nc6 7.d3 Bb4 8.O-O O-O
+9.a3 Be7 10.b4 a6 11.Bb2 h6 12.Na4 Bd6 13.Rc1 Qe7 14.Nc5 Nd8 15.Nd2 a5 16.Nc4 axb4
+17.axb4 Nd7 18.d4 Re8 19.Nxd7 Bxd7 20.Nxd6 cxd6 21.dxe5 dxe5 22.Rc7 Ne6 23.Rxd7  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "5"]
+[White "Tartakower, Saviely"]
+[Black "Reynolds, Arthur"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D23"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 dxc4 4.Qa4+ Nc6 5.e3 g6 6.Bxc4 Bg7 7.Ne5 O-O 8.Nxc6 bxc6
+9.O-O e5 10.dxe5 Ng4 11.f4 Qh4 12.h3 Nh6 13.Qc2 g5 14.Qf2 Qh5 15.Nc3 g4 16.h4 Be6
+17.Bxe6 fxe6 18.Qe1 Rad8 19.Ne4 Qg6 20.Ng3 Qd3 21.b3 Rf7 22.Ba3 Rfd7 23.Rc1 Qa6
+24.Bb4 Qxa2 25.f5 Qxb3 26.f6 Bf8 27.Bxf8 Kxf8 28.Ne4 Qd5 29.Nc5 Qxe5 30.Nxd7+ Rxd7
+31.Qb4+ Kf7 32.Rcd1 Rd6 33.Rxd6 Qxd6 34.Qe4 Nf5 35.Qxg4 Qg3 36.Qxg3 Nxg3
+37.Ra1 a5 38.Rxa5 Kxf6 39.Ra7 Nf5 40.Rxc7 h5 41.Kf2 Nxh4 42.Rxc6 Ng6 43.Rc7 h4
+44.Kf3  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "6"]
+[White "List, Paul"]
+[Black "Grob, Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C86"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 b5 6.Bb3 Be7 7.O-O O-O 8.c3 d6
+9.a4 Bd7 10.d3 Na5 11.Bc2 c5 12.Nbd2 Qc7 13.Nb3 Rfb8 14.axb5 axb5 15.Nxa5 Rxa5
+16.Bg5 h6 17.Bd2 Bg4 18.h3 Be6 19.Nh2 Rxa1 20.Rxa1 d5 21.exd5 Bxd5 22.Ng4 Nxg4
+23.Qxg4 Rb6 24.Qe2 Rg6 25.f3 Qb7 26.Rf1 Re6 27.Be3 Bd6 28.Qf2 Qc7 29.Qd2 b4
+30.Bb1 b3 31.Qd1 Qb7 32.Qd2 f5 33.Qf2 Qc7 34.Bd2 f4 35.Qe2 Re7 36.Rd1 Bb7
+37.Be1 Kf8 38.Bf2 Qc6 39.Qd2 Qc8 40.Re1 Bd5 41.Rc1 Rc7 42.Re1 Bf7 43.d4 exd4
+44.cxd4 c4 45.Qa5 Re7 46.Be4 Qb8 47.Ra1 g6 48.Be1 Kg8 49.Bc3 Re8 50.Bc6 Rd8
+51.Bd5 Be7 52.Bxf7+ Kxf7 53.Ra4 Qd6 54.Qb5 Rc8 55.Ra6 Qd8 56.Qe5 g5 57.Qf5+ Ke8
+58.Rxh6 Bf8 59.Qe6+ Qe7 60.Qxc8+ Kf7 61.Qxc4+ Kg7 62.Re6 Qa7 63.Ra6 Qe7 64.d5+ Kh7
+65.Qd3+ Kg8 66.Qg6+  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "6"]
+[White "Fine, Reuben"]
+[Black "Dunkelblum, Arthur"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D37"]
+
+1.Nf3 Nf6 2.c4 e6 3.d4 d5 4.Nc3 Be7 5.e3 O-O 6.Bd3 c5 7.O-O dxc4 8.Bxc4 a6
+9.Qe2 b5 10.Bd3 Nbd7 11.a4 b4 12.Ne4 Bb7 13.Ned2 cxd4 14.exd4 a5 15.Nc4 Nb6
+16.Nce5 Nbd5 17.Be3 Qb6 18.Nc4 Qd8 19.Rad1 Nd7 20.Nfe5 N7b6 21.Nxb6 Nxb6
+22.Qh5 f5 23.Bb5 Nd5 24.Rfe1 Nf6 25.Qe2 Bd5 26.Nc6 Qd6 27.Nxe7+ Qxe7 28.Bf4 Rfc8
+29.Rc1 Ne4 30.Bc4 Qd7 31.Bxd5 exd5 32.Qb5 Nf6 33.Rxc8+ Qxc8 34.Re7 Qf8 35.Rc7 Re8
+36.Be5 Re7 37.Qxa5 Rxc7 38.Qxc7 Ng4 39.Qb8 Qxb8 40.Bxb8 Nf6 41.a5  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "6"]
+[White "Reynolds, Arthur"]
+[Black "Koltanowski, George"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A35"]
+
+1.c4 Nf6 2.g3 c5 3.Bg2 Nc6 4.Nc3 e5 5.Nf3 Be7 6.O-O O-O 7.Nd5 d6 8.Nxe7+ Qxe7
+9.d3 h6 10.b3 d5 11.cxd5 Nxd5 12.Bb2 Rd8 13.Qb1 b6 14.Rc1 Bb7 15.Kf1 Nd4
+16.Nxd4 exd4 17.Bxd5 Rxd5 18.Rc2 Re8 19.Ke1 Re5 20.e4 Rxe4+ 21.dxe4 Qxe4+  0-1
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "6"]
+[White "Keres, Paul"]
+[Black "Dyner, Israel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B50"]
+
+1.e4 c5 2.Nf3 d6 3.b4 cxb4 4.d4 g6 5.Bb5+ Bd7 6.Bc4 Qc8 7.Nbd2 Bg7 8.O-O Nf6
+9.e5 dxe5 10.dxe5 Ng4 11.Qe2 O-O 12.h3 Nh6 13.a3 Nc6 14.axb4 Nxb4 15.Rb1 Nc6
+16.Ba3 Nf5 17.Qe4 Be6 18.Bxe6 Qxe6 19.g4 Nh6 20.Rxb7 Nxe5 21.Rxe7 Nxf3+ 22.Qxf3 Qf6
+23.Qe2 Rfd8 24.Ne4 Qc6 25.Re1 Bf8 26.Qf3 Bxe7 27.Bxe7 Rdc8 28.Qf4  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "6"]
+[White "Landau, Salo"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D56"]
+
+1.d4 d5 2.c4 Nf6 3.Nc3 e6 4.Bg5 Be7 5.e3 h6 6.Bh4 O-O 7.Nf3 Ne4 8.Bxe7 Qxe7
+9.Qc2 Nxc3 10.Qxc3 b6 11.cxd5 exd5 12.Rc1 c6 13.Be2 Bb7 14.Ne5 c5 15.dxc5 bxc5
+16.O-O Rc8 17.Bf3 Nd7 18.Nxd7 Qxd7 19.Rfd1 Qc6 20.Qa3 c4 21.Rd4 Rab8 22.Rcd1 Qb6
+23.h3 Rc5 24.R1d2 Ra5 25.Qe7 Rxa2 26.Rf4 Rf8 27.Bh5 f5 28.Bg4 Rf7 29.Qe8+ Rf8
+30.Qe7 Rf7 31.Qe8+ Rf8 32.Qe7  1/2-1/2
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "7"]
+[White "Tartakower, Saviely"]
+[Black "List, Paul"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A30"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 b6 4.Bg2 Bb7 5.O-O c5 6.c4 cxd4 7.Nxd4 Bxg2 8.Kxg2 Qc8
+9.b3 Qb7+ 10.f3 Be7 11.Nc3 d5 12.cxd5 Nxd5 13.Nxd5 Qxd5 14.e4 Qd7 15.Bb2 Bf6
+16.f4 Bxd4 17.Qxd4 Qxd4 18.Bxd4 O-O 19.Rfd1 Na6 20.Rac1 Rfd8 21.a3 f6 22.b4 Rd7
+23.Be3 Rad8 24.Rxd7 Rxd7 25.Rc8+ Kf7 26.Ra8 Rb7 27.Kf3 Ke7 28.Rh8 h6 29.g4 Nc7
+30.Rc8 Kd7 31.Rf8 Ke7 32.Rc8  1/2-1/2
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "7"]
+[White "Dyner, Israel"]
+[Black "Fine, Reuben"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D39"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Bb4 5.Bg5 dxc4 6.e4 c5 7.Bxc4 cxd4 8.Bxf6 Qxf6
+9.Qxd4 Qxd4 10.Nxd4 a6 11.a3 Be7 12.Rc1 Bd7 13.O-O Nc6 14.Nxc6 Bxc6 15.g3 Bf6
+16.Rfe1 Bd4 17.Rcd1 O-O-O 18.Rc1 Kb8 19.Bf1 Rd7 20.Bg2 Rc8 21.h4 Rdc7 22.Red1 Bf6
+23.Re1 Be5 24.Re3 Bd7 25.Rd1 Be8 26.Rc1 Rc6 27.Rd3 Rb6 28.f4 Bxc3 29.bxc3 Rb3
+30.e5 Bb5 31.Re3 Rxa3 32.Be4 Bc6 33.Bxc6 Rxc6 34.Kf2 b5 35.h5 Rb3 36.h6 gxh6
+37.g4 Rc4 38.Rf3 b4 39.f5 Rbxc3 40.Rfxc3 Rxc3 41.fxe6 fxe6 42.Rh1 b3  0-1
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "7"]
+[White "Koltanowski, George"]
+[Black "Grob, Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A90"]
+
+1.d4 f5 2.g3 Nf6 3.Bg2 e6 4.Nh3 d5 5.O-O Bd6 6.c4 c6 7.Nc3 Nbd7 8.Qd3 Nf8
+9.f3 dxc4 10.Qxc4 e5 11.Ng5 Qe7 12.dxe5 Bxe5 13.f4 Bxc3 14.bxc3 h6 15.Nf3 Be6
+16.Qb4 Bd5 17.Qxe7+ Kxe7 18.Ba3+ Ke8 19.Nh4 Be6 20.Bh3 Ng4 21.e4 Ne3 22.exf5 Nxf1
+23.fxe6 Ne3 24.e7 Nd7 25.Re1 Nc4 26.Nf5 Kf7 27.Nxh6+ Rxh6 28.Bxd7 Nxa3 29.e8=Q+ Rxe8
+30.Bxe8+ Kf8 31.f5 Rd6 32.Bg6 Rd8 33.h4 Nb5 34.Re3 Nc7 35.Bh5 Rd2 36.a3 Ra2
+37.c4 Rc2 38.Re4 Rc3 39.g4 Rxa3 40.g5 Rd3 41.f6 gxf6 42.gxf6 Rd6 43.Re7 Rxf6
+44.Rxc7 b5 45.c5 Rf5 46.Bg6 Rxc5 47.h5 Rd5 48.h6 Rg5+ 49.Kf2 Rxg6 50.Rc8+ Ke7
+51.h7 Rh6 52.h8=Q Rxh8 53.Rxh8 a5 54.Ke3 Kd6 55.Kd4 c5+ 56.Ke4 c4 57.Kd4 a4
+58.Rh6+ Kc7 59.Kc5 a3 60.Kxb5 a2 61.Ra6  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "7"]
+[White "Landau, Salo"]
+[Black "Reynolds, Arthur"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D28"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 a6 6.O-O c5 7.Qe2 Nc6 8.Rd1 b5
+9.Bb3 c4 10.Bc2 Nb4 11.Nc3 Nxc2 12.Qxc2 Nd5 13.e4 Nb4 14.Qe2 Nd3 15.b3 Bb4
+16.Bd2 O-O 17.bxc4 bxc4 18.Qe3 f5 19.a3 Bd6 20.Ne1 e5 21.Nxd3 exd4 22.Qf3 fxe4
+23.Qxe4 Bf5 24.Qd5+ Kh8 25.Ne5 Bxe5 26.Qxe5 dxc3 27.Bxc3 Qg5 28.Rd7 Rf6 29.Ra7 Rg8
+30.Qe7 Bh3 31.Qe4 Rg6 32.g3 Qf5 33.Qxf5 Bxf5 34.Re1 h6 35.Ree7 Bd3 36.f3 Kh7
+37.Kf2 h5 38.Rf7 Kh6 39.f4 h4 40.f5 hxg3+ 41.hxg3 Rb6 42.g4 Kg5 43.Kg3 Rb3
+44.Bd2+  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "7"]
+[White "Dunkelblum, Arthur"]
+[Black "Keres, Paul"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E60"]
+
+1.d4 Nf6 2.Nf3 c5 3.e3 g6 4.Be2 Bg7 5.O-O O-O 6.c4 d5 7.cxd5 Nxd5 8.dxc5 Na6
+9.Bxa6 bxa6 10.Nd4 Qc7 11.Nb3 Rd8 12.Qe2 a5 13.Bd2 a4 14.Ba5 Qc6 15.Bxd8 Ba6
+16.Na5 Qe6 17.Qd2 Bxf1 18.Nc3 Bxg2 19.Kxg2 Rxd8 20.Kh1 a3 21.Rd1 axb2 22.Nxd5 Rxd5  0-1
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "8"]
+[White "Keres, Paul"]
+[Black "Landau, Salo"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D41"]
+
+1.Nf3 d5 2.c4 e6 3.d4 Nf6 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4+
+9.Bd2 Qa5 10.Rb1 Bxd2+ 11.Qxd2 Qxd2+ 12.Kxd2 O-O 13.Be2 b6 14.Rhc1 Bb7 15.Ke3 Nc6
+16.Rc3 Rac8 17.Rbc1 Rfd8 18.Bb5 Na5 19.Ne5 Rxc3+ 20.Rxc3 Rc8 21.Rxc8+ Bxc8
+22.g4 f6 23.Nd3 Kf7 24.Nb4 Ke7 25.f4 Bb7 26.h4 h6 27.Nc2 Bc8 28.Kd3 a6 29.Ba4 b5
+30.Bb3 Nxb3 31.axb3 a5 32.b4 a4 33.Na3 Bd7 34.Nb1 Bc6 35.Nc3 Kd6 36.d5 exd5
+37.exd5 Bxd5 38.Nxb5+ Kc6 39.Nd4+ Kb6 40.g5 fxg5  1/2-1/2
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "8"]
+[White "Dyner, Israel"]
+[Black "Koltanowski, George"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E68"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 O-O 5.Bg2 c6 6.O-O d6 7.Nc3 Nbd7 8.e4 e5
+9.dxe5 dxe5 10.Qc2 h6 11.b3 Re8 12.Rd1 Qe7 13.Bb2 Nh5 14.Rd2 Nf8 15.Rad1 Be6
+16.a3 Rad8 17.Rxd8 Rxd8 18.Rxd8 Qxd8 19.Qd1 Qxd1+ 20.Nxd1  1/2-1/2
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "8"]
+[White "Fine, Reuben"]
+[Black "Reynolds, Arthur"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E33"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Nc6 5.Nf3 O-O 6.Bd2 d6 7.a3 Bxc3 8.Bxc3 Re8
+9.Rd1 Qe7 10.e3 e5 11.d5 Nb8 12.Nd2 Nbd7 13.e4 Nh5 14.g3 f5 15.exf5 e4 16.Be2 Ndf6
+17.O-O Bxf5 18.Rfe1 Qf7 19.Nf1 Ng4 20.Ne3 Nxe3 21.fxe3 Qg6 22.Bf1 Bg4 23.Rd4 Bf5
+24.Bg2 Nf6 25.Rf1 Ng4 26.Bd2 Ne5 27.Rf4 Nd3 28.Rf1 h5 29.Bc3 Re7 30.Qe2 Rf8
+31.Qd2 Ref7 32.Rf4 Nxf4 33.exf4 h4 34.Qe3 hxg3 35.hxg3 Re7 36.Rd2 Bg4 37.Rf2 Rfe8
+38.Kh2 Qf5 39.Bd4 g6 40.Bc3 Rh7+ 41.Kg1 Kf7 42.c5 Bf3 43.Bxf3 exf3 44.Qxf3 Qh3
+45.Bd2 Reh8 46.f5 Qh1+ 47.Qxh1 Rxh1+ 48.Kg2 R8h2+ 49.Kf3 Rxf2+ 50.Kxf2 gxf5
+51.c6 bxc6  0-1
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "8"]
+[White "List, Paul"]
+[Black "Dunkelblum, Arthur"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E12"]
+
+1.Nf3 Nf6 2.d4 b6 3.c4 e6 4.Nc3 Bb7 5.Bg5 Bb4 6.Rc1 h6 7.Bd2 O-O 8.e3 d5
+9.Be2 Nbd7 10.O-O Be7 11.cxd5 Nxd5 12.Qa4 a6 13.Rfd1 c5 14.dxc5 Nxc5 15.Qg4 Nf6
+16.Qh3 Qb8 17.Nd4 Nh7 18.f4 e5 19.Nf5 Bf6 20.b4 Ne4 21.Nxe4 Bxe4 22.Ng3 Bd5
+23.Nh5 Be6 24.Qf3 exf4 25.exf4 Bd4+ 26.Kh1 Nf6 27.f5 Bxa2 28.Bf4 Qd8 29.Bc7 Bd5
+30.Nxf6+ Qxf6 31.Qxd5 Bb2 32.Rc6 Qe7 33.Bf3 Rae8 34.h3 Qxb4 35.Bd6 Re1+ 36.Kh2 Qh4
+37.g3  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "8"]
+[White "Grob, Henry"]
+[Black "Tartakower, Saviely"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.Bc4 Be6 4.Bxe6 fxe6 5.d4 exd4 6.Nxd4 Qf6 7.Qh5+ g6 8.Qb5+ Nd7
+9.Qxb7 Rb8 10.Qxa7 Ne7 11.c3 c5 12.Nf3 Nc8 13.Qa4 Nb6 14.Qc2 Bg7 15.O-O O-O
+16.Bg5 Qf7 17.Nbd2 d5 18.Be3 Rfc8 19.exd5 exd5 20.Qd1 Ra8 21.a4 Ra6 22.a5 Rca8
+23.Nb3 Nc4 24.Bxc5 Nxb2 25.Qc2 Nc4 26.Bb4 Nde5 27.Nxe5 Bxe5 28.Qd3 Bc7 29.Rae1 Ne5
+30.Qd4 Nc6 31.Qh4 Bd8 32.Qh3 Bf6 33.Nc5 R6a7 34.a6 Rb8 35.Qg3 Raa8 36.Qd6 Nxb4
+37.cxb4 Rxb4 38.Nd7 Bc3 39.Re7 Rxa6 40.Qxa6 Qxe7 41.Qc8+ Kg7 42.Qxc3+ d4
+43.Qc5 Qxc5 44.Nxc5 Rc4 45.Nd3 Kf6 46.f3 Ke6 47.Rd1 Rc3 48.Nf4+ Ke5 49.Ne2 Rc4
+50.Kf2 g5 51.g4 h6 52.Kg3 Ra4 53.h4 Rb4 54.hxg5 hxg5 55.Rxd4 Rxd4 56.Nxd4 Kxd4
+57.f4 gxf4+ 58.Kxf4 Kd5 59.Kf5 Kd6 60.Kf6 Kd7 61.Kf7 Kd8 62.g5  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "9"]
+[White "Reynolds, Arthur"]
+[Black "Keres, Paul"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nb6 6.Nf3 Nc6 7.O-O Be7 8.d4 exd4
+9.Nb5 Bf6 10.Bf4 Nd5 11.e4 Nxf4 12.gxf4 a6 13.e5 axb5 14.exf6 Qxf6 15.Re1+ Be6
+16.f5 Qxf5 17.Nxd4 Nxd4 18.Qxd4 O-O 19.Bxb7 Rxa2 20.Rxa2 Bxa2 21.Qe5 Qg6+
+22.Kh1 c6 23.f3 Bd5 24.Re3 f5  0-1
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "9"]
+[White "Tartakower, Saviely"]
+[Black "Dyner, Israel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D52"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.Bg5 Nbd7 6.e3 Be7 7.Qc2 h6 8.Bh4 a6
+9.a3 O-O 10.h3 dxc4 11.Bxc4 b5 12.Ba2 c5 13.dxc5 Nxc5 14.Rd1 Qb6 15.b4 Na4
+16.Bb1 Rd8 17.Rxd8+ Qxd8 18.Nxa4 bxa4 19.O-O Bb7 20.Rd1 Qc8 21.Qxa4 Qc3 22.Nd4 Rd8
+23.Qa5 g5 24.Bg3 Nd5 25.Qa4 Nb6 26.Qc2 Qxc2 27.Bxc2 Rc8 28.Bb3 Nc4 29.Nxe6 fxe6
+30.Rd7 Bd5 31.Rxe7 Nd2 32.Bxd5 Rc1+ 33.Kh2 Nf1+ 34.Kg1 Nxg3+ 35.Kh2 Nf1+
+36.Kg1 Nxe3+ 37.Kh2 Nf1+ 38.Kg1 exd5 39.Rd7 Kf8 40.a4 Ke8 41.Ra7 d4 42.b5 d3
+43.Ra8+ Ke7 44.bxa6 Ng3+ 45.Kh2 Nf1+ 46.Kg1 d2 47.a7 Ne3+ 48.Kh2 Rh1+ 49.Kxh1 d1=Q+
+50.Kh2 Qd5  1-0
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "9"]
+[White "Koltanowski, George"]
+[Black "Fine, Reuben"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D04"]
+
+1.d4 Nf6 2.Nf3 d5 3.e3 c5 4.c3 Nbd7 5.Nbd2 Qc7 6.Qa4 g6 7.dxc5 Qxc5 8.Bd3 Bg7
+9.O-O O-O 10.e4 Qc7 11.exd5 Nc5 12.Qc2 Nxd5 13.Ne4 Nxd3 14.Qxd3 Rd8 15.Qe2 b6
+16.Ng3 Bb7 17.Re1 e5 18.Bd2 Rac8 19.Rad1 Re8 20.Nd4 Qb8 21.Ndf5 gxf5 22.Nxf5 Re6
+23.Qh5 Qc7 24.Re4 Rg6 25.Bg5 Nf6 26.Bxf6 Bxf6 27.Rg4 Rd8  0-1
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "9"]
+[White "Landau, Salo"]
+[Black "List, Paul"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E44"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Bb7 6.a3 Be7 7.d5 b5 8.dxe6 fxe6
+9.Nxb5 O-O 10.Ng3 a6 11.Nd4 Nc6 12.Nf3 Ng4 13.Be2 a5 14.O-O Bd6 15.Ne1 Nf6
+16.f4 e5 17.Kh1 exf4 18.exf4 Rb8 19.Nf3 Bc5 20.Bd3 d6 21.Ne4 Nxe4 22.Bxe4 Ne7
+23.Bxb7 Rxb7 24.Ng5 Qc8 25.Re1 c6 26.Ne6 Bf2 27.Re2 Rf6 28.Nxg7 Qg4 29.Qd3 Rb3
+30.Qe4 Rh3 31.f5 Qg3 32.Qh4 Qxh2+  0-1
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1937.??.??"]
+[Round "9"]
+[White "Dunkelblum, Arthur"]
+[Black "Grob, Henry"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D52"]
+
+1.Nf3 d5 2.d4 e6 3.c4 Nf6 4.Nc3 c6 5.Bg5 Nbd7 6.e3 Qa5 7.Nd2 Bb4 8.Qc2 dxc4
+9.Bxf6 Nxf6 10.Nxc4 Qd8 11.Be2 O-O 12.O-O Qe7 13.a3 Bxc3 14.Qxc3 Rd8 15.Bf3 Bd7
+16.Rfd1 Be8 17.e4 Rac8 18.b4 Nd7 19.e5 Nb6 20.Nd6 Ra8 21.Be2 f5 22.Bf3 Nc8
+23.Nc4 g5 24.g3 Rd7 25.Rd2 Bg6 26.a4 Nb6 27.Nd6 Rf8 28.a5 Nd5 29.Qb3 g4 30.Bg2 a6
+31.Re1 h5 32.Red1 h4 33.Bxd5 exd5 34.Qe3 Kg7 35.Qf4 hxg3 36.fxg3 Qe6 37.Rg2 Rh8
+38.Rf1 Rh5 39.Rd2 Kg8 40.Rdf2 Rdh7 41.Kh1 Re7 42.Kg1 Rg7 43.Qd2 Rd7 44.Rf4 Kh8
+45.R1f2 Kg7 46.Qc1 Rxd6 47.exd6 Rh8 48.Qd2 Re8 49.d7 Qxd7 50.Re2 Re4 51.Rf1 Qe6
+52.Rxe4 dxe4 53.Qc3 Qd5 54.Rc1 Bf7 55.Qe3 Qd8 56.Rc5 Bd5 57.Qf4 Kg6 58.Kf2 Qh8
+59.Qd6+ Kg5 60.Qe7+ Kg6  1/2-1/2

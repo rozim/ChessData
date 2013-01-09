@@ -1,0 +1,811 @@
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "1"]
+[White "Wemmers, Carl"]
+[Black "Von Minckwitz, Johannes"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.b5 Na5 6.Be2 d6 7.O-O Nf6 8.Nc3 O-O
+9.d4 exd4 10.Nxd4 Qe8 11.Qd3 Qe5 12.Nf3 Qh5 13.Bg5 Qg6 14.Bxf6 Qxf6 15.Nd5 Qh6
+16.Nd4 Be6 17.Nf5 Bxf5 18.exf5 Rfe8 19.f6 gxf6 20.Qf3 Kg7 21.Bd3 Re5 22.Nxb6 axb6
+23.Qg4+ Rg5 24.Qd7 Rh5 25.h3 Rc5 26.Rae1 f5 27.Bxf5 Qf6 28.Bd3 Rd8 29.Qg4+ Kh8
+30.Re3 Rg5 31.Qe4 Rg7 32.Rg3 d5 33.Qe2 c6 34.Rxg7 Qxg7 35.Re1 cxb5 36.Bxb5 Nc6
+37.Qh5 Qg6 38.Qf3 Nd4 39.Qc3 Qg7 40.Qd3 Ne6 41.Qe3 Rg8 42.g3 Qd4 43.Bd3 Qxe3
+44.Rxe3 Kg7 45.Re5 Rd8 46.f4 h6 47.Kf2 Rd6 48.Ke3 f6 49.Rh5 Rd8 50.Rh4 Rh8
+51.c4 d4+ 52.Kd2 Ra8 53.Rg4+ Kf7 54.Bg6+ Ke7 55.Bb1 Ra3 56.h4 h5 57.Rg8 Nc5
+58.Rg7+ Ke6 59.f5+ Kd6 60.Rg6 Ke5 61.g4 hxg4 62.Rxg4 Rh3 63.Rg2 d3 64.Kc1 Rxh4
+65.Kd2 Rh3  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "1"]
+[White "Schwarz, Adolf"]
+[Black "Fritz, Alexander"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.Nc3 d6 6.d3 Bg4 7.Be3 Qe7 8.h3 Bh5
+9.Bb5 Bb6 10.Nd5 Qd7 11.Bg5 O-O-O 12.Bxf6 Bxf3 13.Qxf3 gxf6 14.Qxf6 Rde8
+15.Nxb6+ axb6 16.Qh4 Reg8 17.f4 Rg7 18.Rf2 Rhg8 19.Raf1 exf4 20.Bxc6 bxc6
+21.Kh2 Qe6 22.Qxf4 Qxa2 23.c3 Kb7 24.d4 h5 25.Re1 Qe6 26.Qf5 Qh6 27.d5 Qg5
+28.Qxg5 Rxg5 29.dxc6+ Kxc6 30.Re3 h4 31.Ref3 R8g7 32.Rf4 Re5 33.Rxh4 Kc5
+34.Rhf4 Kc4 35.Rxf7 Re7 36.Rxg7 Rxg7 37.g4  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "1"]
+[White "Paulsen, Wilfried"]
+[Black "Anderssen, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A00"]
+
+1.e3 c5 2.c4 e6 3.Nc3 f5 4.g3 Nf6 5.Bg2 Be7 6.Nge2 O-O 7.O-O a6 8.d4 Qc7
+9.d5 e5 10.b3 d6 11.Qc2 g6 12.e4 Rf7 13.Bd2 fxe4 14.Nxe4 Nxe4 15.Bxe4 Bh3
+16.Bg2 Bxg2 17.Kxg2 Nd7 18.Nc3 Nf6 19.f4 exf4 20.Rxf4 Bf8 21.Raf1 Bg7 22.Ne4 Qe7
+23.Ng5 Rff8 24.Ne6 Nh5 25.Rxf8+ Bxf8 26.Bg5 Qd7 27.Qf2 Bg7 28.g4 Rf8 29.Qxf8+ Bxf8
+30.Rxf8+  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "Stern, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C02"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Qb6 5.Nf3 Nc6 6.Be2 cxd4 7.cxd4 Bb4+ 8.Nc3 Nge7
+9.O-O Nf5 10.Na4 Qd8 11.a3 Be7 12.b4 a6 13.Bb2 Bd7 14.Rc1 b5 15.Nc5 h5 16.Bd3 Bxc5
+17.Rxc5 Nh4 18.Nxh4 Qxh4 19.f4 Ke7 20.f5 Rac8 21.g3 Qh3 22.Rf4  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "1"]
+[White "Hammacher, Eduard"]
+[Black "Metger, Johannes"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nc3 Nc6 3.Nf3 Bb4 4.Bb5 Nf6 5.Nd5 Bc5 6.d3 h6 7.O-O d6 8.Ne1 O-O
+9.Bxc6 bxc6 10.Ne3 d5 11.exd5 cxd5 12.Kh1 Qe7 13.Qe2 c6 14.c3 a5 15.f4 exf4
+16.Rxf4 Re8 17.d4 Bd6 18.Rh4 g5 19.Rxh6 Kg7 20.Rxf6 Qxf6 21.Qf3 Qh6 22.h3 Qh4
+23.Nd3 g4 24.Qf2 Bg3 25.Nf5+ Bxf5 26.Qxf5 gxh3 27.Qxh3 Rh8 28.Qxh4 Rxh4+
+29.Kg1 Rah8 30.Kf1 Re8 31.Nf2 Rh1+ 32.Nxh1 Re1+  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "2"]
+[White "Fritz, Alexander"]
+[Black "Von Minckwitz, Johannes"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.Bxc6+ bxc6 7.h3 g6 8.Be3 Bg7
+9.Qd2 O-O 10.Nc3 Be6 11.Ne2 c5 12.b3 a5 13.Bh6 a4 14.bxa4 Rxa4 15.Bxg7 Kxg7
+16.c4 Nd7 17.g4 c6 18.Nc3 Ra3 19.Ke2 Qa8 20.Nh4 d5 21.cxd5 cxd5 22.Nf5+ Kh8
+23.exd5 Bxd5 24.Nxd5 Qxd5 25.Ne3 Qe6 26.Qb2 Rfa8 27.Nc4 R3a6 28.Rhb1 Kg8
+29.f3 Nf6 30.Kf2 Nd5 31.Kg3 f6 32.a3 Nf4 33.Qc2 Rd8 34.Rb3 Qd5 35.Ne3 Qc6
+36.Rab1 h5 37.Qc4+ Kh8 38.Rb7 h4+ 39.Kf2 Nxd3+ 40.Ke2 Nf4+ 41.Kf2 Nxh3+ 42.Ke2 Nf4+
+43.Kf2 Rd2+ 44.Ke1 Re2+ 45.Qxe2 Nxe2 46.Kxe2 Rxa3 47.g5 Ra2+ 48.Ke1 Ra8 49.Ng4 fxg5
+50.Kf2 Rf8 51.Nxe5 Qe6 52.Nd7 Re8 53.Nb8 Qe2+ 54.Kg1 Qe3+ 55.Kg2 Qd2+  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "2"]
+[White "Stern, Adolf"]
+[Black "Hammacher, Eduard"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 Bc5 6.c3 d6 7.d4 b5 8.Bxb5 axb5
+9.dxc5 dxc5 10.Qxd8+ Nxd8 11.Nxe5 Nxe4 12.f3 Nd6 13.Nd3 Ne6 14.Be3 c4 15.Nc5 O-O
+16.Na3 Re8 17.Kf2 c6 18.Nc2 Nf5 19.Nxe6 Bxe6 20.Bc5 Rad8 21.Rad1 Rd5 22.Rxd5 Bxd5
+23.Nb4 f6 24.Rd1 Ne7 25.Bxe7 Rxe7 26.Nxd5 cxd5 27.Rxd5 Rb7 28.Ke3 Kf7 29.Rh5 b4
+30.Kd4 bxc3 31.Kxc3 Ra7 32.a3 Rb7 33.Rh4 Rb3+ 34.Kc2 Re3 35.Re4  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "2"]
+[White "Anderssen, Adolf"]
+[Black "Metger, Johannes"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C14"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.Qd2 a6 8.Nd1 c5
+9.c3 Nc6 10.f4 cxd4 11.cxd4 Qb4 12.Qxb4 Nxb4 13.Ne3 Nb6 14.Nf3 Bd7 15.a3 Nc6
+16.Bd3 Rc8 17.O-O O-O 18.f5 exf5 19.Bxf5 Be6 20.Rad1 h6 21.Bb1 Na5 22.Nf5 Bxf5
+23.Bxf5 Rc6 24.Rde1 g6 25.Bh3 Nac4 26.Rf2 f5 27.exf6 Rcxf6 28.Re7 Nd6 29.Be6+ Kh8
+30.Ne5 Nf5 31.Bxf5 gxf5 32.Rxb7 Rc8 33.g4 f4 34.h4 Rc1+ 35.Kh2 Nc4 36.g5 hxg5
+37.hxg5 Rb6 38.Rxb6 Nxb6 39.Rxf4 Rc2+ 40.Kg3 Rxb2 41.g6 Nc4 42.Rf8+ Kg7 43.Rf7+  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "2"]
+[White "Paulsen, Louis"]
+[Black "Paulsen, Wilfried"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D26"]
+
+1.d4 d5 2.e3 e6 3.Nf3 Nf6 4.c4 dxc4 5.Bxc4 Be7 6.O-O O-O 7.Nc3 b6 8.Re1 Bb7
+9.e4 Nbd7 10.Bb3 h6 11.Bc2 Re8 12.Qd3 Nf8 13.Bd2 a5 14.Rad1 Ng6 15.Bc1 Ba6
+16.Qd2 Nh5 17.a3 Nhf4 18.g3 Nh5 19.e5 Bb7 20.Qe3 Rf8 21.Be4 Bxe4 22.Qxe4 Qe8
+23.Qg4 f5 24.exf6 Nxf6 25.Qxe6+ Qf7 26.Qxf7+ Rxf7 27.Ne5 Nxe5 28.dxe5 Ng4
+29.f4 Bc5+ 30.Kg2 h5 31.Ne4 Bf8 32.h3 Nh6 33.e6 Re7 34.Nc3 c6 35.Re4 g6 36.Be3 Nf5
+37.Bxb6 Rb7 38.Na4 c5 39.Rd7 Rbb8 40.g4 hxg4 41.hxg4 Nd6 42.Re2 Nc4 43.Bc7 Re8
+44.e7 Bg7 45.Rd8 Kf7 46.Rxa8 Rxa8 47.Bd8 Ke8 48.Nxc5 Bxb2 49.Ne6 Rc8 50.Rxb2 Nxb2
+51.Ng7+  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "2"]
+[White "Schwarz, Adolf"]
+[Black "Wemmers, Carl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.Nc3 d6 6.d3 Bg4 7.Be3 Bb6 8.Kh1 h6
+9.Ne2 Bxf3 10.gxf3 g5 11.Ng3 Qd7 12.Bb5 Qh3 13.Rg1 O-O-O 14.Bxc6 bxc6 15.a4 d5
+16.a5 Bxe3 17.fxe3 dxe4 18.fxe4 Qe6 19.Qf3 Ne8 20.Rgf1 Nd6 21.Nf5 Nxf5 22.Qxf5 Rhf8
+23.Rf2 Qxf5 24.Rxf5 f6 25.Raf1 Rd6 26.Rxe5 fxe5 27.Rxf8+ Kd7 28.Rf7+ Kd8
+29.Kg2 c5 30.Rf5 Re6 31.Kf3 Ke7 32.c3 a6 33.d4 cxd4 34.exd4 exd4 35.cxd4 Rc6
+36.Ke3 Rc2 37.Rf2 Rc4 38.Kd3 Rb4 39.Kc3 Rb5 40.b4 g4 41.d5 Rb8 42.Rf5 Rg8
+43.Kc4 g3 44.hxg3 Rxg3 45.Re5+ Kf7 46.Re6 h5 47.Rc6 h4 48.Rxc7+ Kf6 49.Rc6+ Kg7
+50.Kd4 Rb3 51.Ke5 h3 52.Rc7+ Kg6 53.Rc2 Rxb4 54.d6 Kf7 55.Rc7+ Ke8 56.Rh7  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "3"]
+[White "Hammacher, Eduard"]
+[Black "Wemmers, Carl"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.d3 d6 6.Bg5 a6 7.Bxf6 Qxf6 8.Bxc6+ bxc6
+9.h3 Rb8 10.Na4 Ba7 11.Qd2 O-O 12.b3 Qg6 13.Qg5 Qxg5 14.Nxg5 f5 15.Rf1 h6
+16.Nf3 fxe4 17.dxe4 Bxh3 18.Nh4 Rf4 19.f3 Rxh4 20.gxh3 Rxh3 21.O-O-O Be3+
+22.Kb1 Rf8 23.Rd3 Rhxf3 24.Rxf3 Rxf3  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "3"]
+[White "Paulsen, Wilfried"]
+[Black "Fritz, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.Bb5 Bc5 5.O-O d6 6.d4 exd4 7.Nxd4 Bd7 8.Nf5 O-O
+9.Bg5 Ne5 10.Bd3 c6 11.Kh1 h6 12.Bxf6 Qxf6 13.f4 Nxd3 14.Qxd3 Bxf5 15.exf5 d5
+16.Rae1 Rfe8 17.Nd1 Re7 18.Qc3 Rae8 19.Re5 Bd6 20.Rxe7 Qxe7 21.h3 Qe2 22.Kg1 Bc7
+23.b4 Bb6+ 24.Nf2 Re3 25.Qb2 Rg3  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "3"]
+[White "Stern, Adolf"]
+[Black "Metger, Johannes"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Bd6 5.Be3 Nf6 6.Nf3 O-O 7.O-O Bg4 8.Kh1 Qd7
+9.Nbd2 Nc6 10.c3 Ne7 11.Qc2 Ng6 12.Bxg6 fxg6 13.Ne5 Qf5 14.Qxf5 gxf5 15.f4 Be2
+16.Rfe1 Bg4 17.b3 c6 18.h3 Bh5 19.a4 a5 20.c4 Rad8 21.Reb1 Be8 22.c5 Bxe5
+23.fxe5 Ne4 24.Nxe4 dxe4 25.g3 g5 26.Rf1 f4 27.gxf4 gxf4 28.Bxf4 Rxd4 29.Bh6 Rf3
+30.Kg2 Bh5 31.Rad1 Rd5 32.e6 Rxf1 33.Rxf1 Bf3+ 34.Kf2 Rd1 35.Re1 Rxe1 36.Kxe1 Bg2
+37.Kf2 Bxh3 38.Ke3 Bxe6 39.Kxe4 Bxb3 40.Bd2 Bxa4 41.Bxa5 Kf7 42.Kf5 Bc2+
+43.Kg5 Bd3 44.Kh6  1/2-1/2
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "3"]
+[White "Schwarz, Adolf"]
+[Black "Von Minckwitz, Johannes"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.Nc3 d6 6.d3 Bg4 7.Be3 O-O 8.Ne2 Nh5
+9.Ng3 Nxg3 10.hxg3 Na5 11.Bxc5 dxc5 12.Qe1 Nxc4 13.dxc4 Bxf3 14.gxf3 Qd4
+15.b3 Qb2 16.Qe3 b6 17.Qe2 Rad8 18.a4 Rd4 19.Rad1 Rfd8 20.Rxd4 Qxd4 21.Re1 Qd2
+22.Kf1 f6 23.Qxd2 Rxd2 24.Rc1 Kf7 25.Ke1 Rd6 26.Ke2 Ke6 27.Ke3 g5 28.Rh1 Rd7
+29.Rh6 a5 30.Rh1 Rg7 31.f4 exf4+ 32.gxf4 gxf4+ 33.Kxf4 Ke7 34.Rh6 Kf7 35.e5 fxe5+
+36.Kxe5 Rg5+ 37.Kf4 Rg7 38.Kf5 Kf8 39.Ke5 Re7+ 40.Re6 Rxe6+ 41.Kxe6 Kg7 42.f4 h5
+43.Ke7  1/2-1/2
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "3"]
+[White "Paulsen, Louis"]
+[Black "Anderssen, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B40"]
+
+1.e4 c5 2.b3 e6 3.Nf3 Nc6 4.Bb2 a6 5.Be2 Nf6 6.e5 Nd5 7.Nc3 Nxc3 8.Bxc3 Be7
+9.O-O f6 10.Bd3 O-O 11.Re1 Qe8 12.Be4 Nxe5 13.Nxe5 fxe5 14.Bxe5 d6 15.Bg3 Qf7
+16.c3 Ra7 17.d4 b6 18.Qd3 g6 19.Rad1 Rd7 20.Qe3 Rdd8 21.Bf3 cxd4 22.Qxd4 b5
+23.Qb6 Qg7 24.Bg4 Qf6 25.Rd3 h5 26.Bf3 e5 27.h4 Kh8 28.Rd5 Kh7 29.Red1 Rfe8
+30.R5d3 Rf8 31.Qc7 Rd7 32.Qc6 Rfd8 33.Qb6 Rf8 34.c4 bxc4 35.bxc4 Rdd8 36.Re3 Rf7
+37.a4 Rd7 38.Bc6 Bd8 39.Qb4 a5 40.Qb5 Rde7 41.c5 Bc7 42.cxd6 Bxd6 43.Qxa5 Bg4
+44.Rd2 Bc7 45.Qb5 Rf8 46.Be4 Rc8 47.Rc3 Bb6 48.Rxc8 Bxc8 49.a5 Bd4 50.Rc2 Bf5
+51.Rc6 Qg7 52.Qd3 Qf7 53.a6 Bxe4 54.Qxe4 Qf5 55.Qe2 Rf7 56.Rd6 Qc8 57.Qe4 Qf5
+58.Qe2 Kg7 59.Rd5 Qb1+ 60.Kh2 Kh7 61.Rb5 Qa1 62.Rb7 Rg7 63.Qb5 Kh6 64.Qe8 Kh7
+65.Rb8 Kh6 66.Qh8+ Rh7 67.Qf8+ Rg7 68.Rb7 e4 69.Qh8+  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "4"]
+[White "Paulsen, Louis"]
+[Black "Hammacher, Eduard"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O d6 6.d4 exd4 7.Nxd4 Bd7 8.Nf5 Bxf5
+9.exf5 Qd7 10.Re1+ Kf8 11.Bd3 Re8 12.Bg5 Rxe1+ 13.Qxe1 Ne5 14.Be4 Nxe4 15.Qxe4 f6
+16.Bh4 c6 17.Na4 Bb6 18.Nxb6 axb6 19.f4 Ng4 20.Re1 Kf7 21.Qe2 h5 22.h3 Qxf5
+23.hxg4 hxg4 24.Bg3 Qd7 25.Qd3 f5 26.Qb3+ d5 27.Qxb6 Ra8 28.Bh4 Re8 29.Rxe8 Kxe8
+30.Qa5 Kf7 31.Qd8 Qe6 32.Qc7+ Kg6 33.Qe7 Qe4 34.Qxe4 fxe4 35.Kf2 d4 36.Ke2 Kf5
+37.g3 Ke6 38.Bd8 Kd5 39.Kd2 g6 40.Bb6 c5 41.a3 Kc6 42.Bd8 Kb5 43.b3 b6 44.a4+ Kc6
+45.a5 bxa5 46.Bxa5 Kb5 47.Bd8 Kb4 48.Be7 Kb5 49.c3 e3+ 50.Kd3 e2 51.Kxe2 dxc3
+52.Kd3 Kb4 53.Kc2 Kb5 54.Kxc3  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "4"]
+[White "Wemmers, Carl"]
+[Black "Paulsen, Wilfried"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Nc3 b5 7.Bb3 d6 8.d3 O-O
+9.Bd2 Na5 10.Qe2 c6 11.Nd1 Nxb3 12.axb3 Be6 13.Ng5 h6 14.Nxe6 fxe6 15.f4 exf4
+16.Rxf4 e5 17.Rf5 Qd7 18.Ne3 Kh7 19.Rf3 d5 20.exd5 Nxd5 21.Rxf8 Rxf8 22.Nxd5 Qxd5
+23.Be3 Rf6 24.Rxa6 Bc5 25.Ra1 e4 26.Rd1 Re6 27.d4 Bb6 28.c4 Qd7 29.Qh5 Rg6
+30.c5 Bc7 31.Rf1 Qe6 32.Qf5 Qxf5 33.Rxf5 Rf6 34.Rxf6 gxf6 35.g3 f5 36.Bf4 Ba5
+37.Kf2 h5 38.Ke3 Kg6 39.d5 cxd5 40.Kd4 Kf6 41.Kxd5 Ke7 42.Ke5 Kd7 43.Kxf5 Kc6
+44.Kxe4 Kxc5 45.Be3+ Kd6 46.Kf5 Bd8 47.Bg5 Bb6 48.Bf6 Bg1 49.h3 Bh2 50.g4 hxg4
+51.hxg4  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "4"]
+[White "Anderssen, Adolf"]
+[Black "Fritz, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.c4 Bg4
+9.Nc3 Bxf3 10.gxf3 Nf6 11.Be3 Nb4 12.Be2 dxc4 13.Bxc4 c6 14.Kh1 Qd7 15.Rg1 O-O-O
+16.Bxf7 Bd6 17.Qb3 Nfd5 18.Rxg7 Rdf8 19.Nxd5 Nxd5 20.Be6 Qxe6 21.Qxb7+ Kd8
+22.Bg5+ Be7 23.Rc1 Rhg8 24.Bxe7+ Nxe7 25.Rxe7 Qxe7 26.Qa8+ Kc7 27.Rxc6+ Kd7
+28.Qb7+ Ke8 29.Rc8+ Kf7 30.Rc7 Re8 31.Qd5+ Kf8 32.Qf5+ Kg7 33.Rxe7+ Rxe7
+34.h4 h6 35.h5 Kh8 36.Qf6+ Rgg7 37.d5 Re1+ 38.Kh2 Rg1 39.Qf8+ Kh7 40.Qf5+ Kh8
+41.Qh3 R1g5 42.f4 Rg4 43.f5 Rf4 44.f3 Rd4 45.f6 Rd2+ 46.Kh1 Rd1+  1/2-1/2
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "4"]
+[White "Metger, Johannes"]
+[Black "Von Minckwitz, Johannes"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Bb4 4.Bb5 Nf6 5.O-O Bxc3 6.bxc3 O-O 7.d3 d6 8.Bg5 Ne7
+9.Nh4 Ng6 10.Nxg6 fxg6 11.Bc4+ Kh8 12.f4 Qe7 13.f5 gxf5 14.exf5 d5 15.Bb3 Bd7
+16.Kh1 c6 17.Qe1 Qd6 18.Qg3 Rae8 19.Rae1 b5 20.a4 bxa4 21.Bxa4 c5 22.Bxd7 Nxd7
+23.d4 Qb8 24.Qh4 cxd4 25.f6 gxf6 26.Rxf6 Qc7 27.cxd4 Nxf6 28.Bxf6+ Rxf6 29.Qxf6+ Qg7
+30.Qxg7+ Kxg7 31.dxe5 Kg6 32.Kg1 Re7 33.Kf2 Kf5 34.Ra1 Kxe5 35.Ke3 Rc7 36.Kd3 Rg7
+37.Re1+ Kd6 38.Re2 a5 39.c3 a4 40.Ra2 Kc5  1/2-1/2
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "4"]
+[White "Stern, Adolf"]
+[Black "Schwarz, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Nf6 5.Bf4 Nc6 6.Ne2 Bd6 7.Bxd6 Qxd6 8.c3 O-O
+9.O-O Ng4 10.Ng3 f5 11.Qf3 Ne7 12.h3 Nh6 13.Nd2 Ng6 14.Ne2 c6 15.Qg3 f4 16.Qh2 Bf5
+17.Bxf5 Nxf5 18.g3 Rae8 19.Rae1 fxg3 20.fxg3 Re3 21.Qf2 Rd3 22.Nf3 Ne3 23.Nc1 Nxf1
+24.Nxd3 Nxg3 25.Qg2 Nf4 26.Nxf4 Qxf4 27.Ne5 Ne4 28.Rf1 Qxf1+ 29.Qxf1 Rxf1+
+30.Kxf1 g5 31.Kg2 Kg7 32.Kf3 h5 33.Ke3 Nd6 34.Kf3 Kf6 35.Ke2 Kf5 36.Kf3 Nc4
+37.Nd3 Nd2+ 38.Ke2 Ne4 39.Kf3 g4+ 40.hxg4+ hxg4+ 41.Kg2 Nd6 42.Kg3 Ke4 43.Nc5+ Kf5
+44.Nd3 Kg5 45.Ne5 Nf5+ 46.Kf2 Kf4 47.Nd3+ Kg5 48.Ne5 Kh4 49.Kg2 Ne3+ 50.Kh2 g3+
+51.Kg1 Kh3 52.Nd3 Ng2 53.b3 Nh4 54.Ne5 g2 55.a4 Kg3  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "5"]
+[White "Paulsen, Louis"]
+[Black "Metger, Johannes"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bb5 Bxd4 8.cxd4 d5
+9.Nc3 Be6 10.O-O O-O 11.f3 Qg6 12.Qd2 f5 13.e5  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "5"]
+[White "Hammacher, Eduard"]
+[Black "Von Minckwitz, Johannes"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C48"]
+
+1.e4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.Bb5 Bc5 5.O-O d6 6.d4 exd4 7.Nxd4 Bd7 8.Nf5 O-O
+9.Bg5 a6 10.Bd3 Bxf5 11.exf5 Ne5 12.Ne4 Ned7 13.Kh1 d5 14.Bxf6 gxf6 15.Ng3 Kh8
+16.f4 Rg8 17.Qh5 Qf8 18.Qh4 Qg7 19.Be2 Rae8 20.Bf3 c6 21.Rae1 Be3 22.Re2 Re7
+23.Rfe1 Rge8 24.Nf1 Bc5 25.Rxe7 Rxe7 26.Rxe7 Bxe7 27.Ne3 Nb6 28.Qe1 Qf8 29.b3 Nc8
+30.Qc3 Nd6 31.Qd3 Qd8 32.a4 Qa5 33.h3 Qe1+ 34.Kh2 Ne4 35.Bxe4 dxe4 36.Qd4 Qf2
+37.Qd7 Qxf4+ 38.Kh1 Bd6 39.g3 Qxg3 40.Qe8+ Kg7  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "5"]
+[White "Anderssen, Adolf"]
+[Black "Wemmers, Carl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.a4 a6 6.a5 Ba7 7.O-O d6 8.c3 Nf6 9.d3 O-O
+10.Bg5 Be6 11.Nbd2 h6 12.Bh4 Qe7 13.Bg3 Nh7 14.Bxe6 Qxe6 15.Nc4 Ne7 16.Ne3 f5
+17.exf5 Nxf5 18.Nxf5 Rxf5 19.Re1 Raf8 20.d4 e4 21.Nd2 d5 22.f3 Nf6 23.Qb3 e3
+24.Re2 Nh5 25.Nf1 c6 26.Rxe3 Qf6 27.Rae1 Rg5 28.Qc2 Nxg3 29.Nxg3 Bb8 30.Re6 Qf4
+31.Rg6 Qh4 32.Rxg5 Qxg5 33.Qf2 Bxg3 34.hxg3 Qg6 35.Re5 Qb1+ 36.Kh2 Qc1 37.Qe3 Qxe3
+38.Rxe3 Kf7 39.g4 Rd8 40.Kg3 g5 41.Kf2 Re8 42.Rd3 Kf6 43.g3 Re7 44.Re3 Rxe3
+45.Kxe3 Kf7 46.f4 Kf6 47.Kd3 Kf7 48.c4 Ke6 49.f5+ Kf6 50.cxd5 cxd5 51.Kc3  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "5"]
+[White "Paulsen, Wilfried"]
+[Black "Schwarz, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C02"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Qc7 7.O-O cxd4 8.cxd4 Nge7
+9.Bf4 Nf5 10.Nc3 Qb6 11.Na4 Qd8 12.Rc1 Be7 13.g4 Nh4 14.Nxh4 Bxh4 15.Nc5 Rb8
+16.Rc3 O-O 17.Rh3 Be7 18.Nxd7 Qxd7 19.g5 g6 20.Be3 Rfc8 21.Bd3 Qd8 22.f4 Qf8
+23.Qg4 Nb4 24.Bb1 Nc2 25.Bf2 Nb4 26.a3 Nc6 27.Be3 h5 28.gxh6 Kh8 29.Kh1 Bd8
+30.Rg1 Ne7 31.Rf3 Nf5 32.Rh3 Rc6 33.Qg2 Nxe3 34.Rxe3 Rbc8 35.f5 exf5 36.Bxf5 R8c7
+37.Bd3 Rc1 38.Qxd5 Bg5 39.Rf3 Qxh6 40.Rxc1 Rxc1+ 41.Kg2 Bf4 42.Qd8+ Kh7 43.h4 f5
+44.Qe7+ Kh8 45.Qf6+ Kh7 46.e6 Bd6 47.e7 Qd2+ 48.Rf2 Qxd3 49.Qf7+ Kh6 50.Qxg6+ Kxg6
+51.e8=Q+ Kf6 52.Qh8+ Ke7 53.Qg7+ Ke8 54.Qg6+ Kd7 55.Qxf5+ Qxf5 56.Rxf5 Rc2+
+57.Kf3 Rxb2 58.h5 Bxa3 59.Rf7+ Ke6 60.Rh7 Be7 61.Ke4 a5 62.Rh6+ Kd7 63.Kd5 a4
+64.Rh8 a3 65.h6 Rh2 66.Kc4 Bd8 67.Rg8 Rxh6 68.Rg3 Be7  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "5"]
+[White "Fritz, Alexander"]
+[Black "Stern, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B00"]
+
+1.e4 b6 2.d4 Bb7 3.Bd3 e6 4.Be3 Nf6 5.Nd2 c5 6.Ne2 c4 7.Nxc4 Nxe4 8.Bf4 d6
+9.f3 Nf6 10.Ng3 Nc6 11.c3 Nd5 12.Bd2 Qh4 13.O-O Nxd4 14.Ne4 Nf4 15.Ncxd6+ Bxd6
+16.Nxd6+ Ke7 17.Bxf4 Qxf4 18.Nxb7 Nc6 19.Be4 Rac8 20.Qa4 Qc7 21.Qa3+ Kf6
+22.Bxc6 Qxc6 23.Nd6 Rcd8 24.Ne4+ Kg6 25.Rad1 f5 26.Rd6 Qc8 27.Nf2 Rxd6 28.Qxd6 Rd8
+29.Qe7 Re8 30.Qh4 Qa6 31.Nh3 h6 32.Nf4+ Kh7 33.Qh5 Re7 34.Qg6+ Kh8 35.Qh5 Kg8
+36.Ng6 Rd7 37.Ne5 Rd2 38.Qf7+  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "6"]
+[White "Schwarz, Adolf"]
+[Black "Paulsen, Louis"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B00"]
+
+1.e4 b6 2.d4 Bb7 3.Bd3 Nf6 4.Nc3 e6 5.Nf3 c5 6.Bg5 cxd4 7.Nxd4 h6 8.Bh4 g5
+9.Bg3 d5 10.Ndb5 Na6 11.exd5 Nxd5 12.Ne4 Nf4 13.Bxf4 gxf4 14.Qf3 Nc5 15.O-O-O a6
+16.Qxf4 Nxd3+ 17.Rxd3 axb5 18.Rxd8+ Rxd8 19.Nf6+ Ke7 20.Qc7+ Kxf6 21.Qxd8+ Kg6
+22.Qxb6 Bd5 23.Qxb5 Bd6 24.Rd1 Bf4+ 25.Kb1 Rd8 26.Qe2 Bg5 27.c4 Bxc4 28.Qc2+ f5
+29.Rxd8 Bxd8 30.Qxc4  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "6"]
+[White "Paulsen, Wilfried"]
+[Black "Hammacher, Eduard"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A10"]
+
+1.e3 f5 2.c4 Nf6 3.Nc3 e5 4.a3 a5 5.g3 Bc5 6.Bg2 c6 7.Nge2 O-O 8.d4 exd4
+9.exd4 Bb6 10.d5 d6 11.O-O Bd7 12.Bf4 Be8 13.dxc6 Bxc6 14.Bxd6 Re8 15.c5 Bxg2
+16.Kxg2 Bc7 17.Qb3+ Kh8 18.Rad1 Qc8 19.Nf4 Nc6 20.Nb5 Bd8 21.Rfe1 Ne7 22.Kg1 Qc6
+23.Nd4 Qd7 24.Nf3 Qc8 25.Ne5 a4 26.Nf7+  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "6"]
+[White "Metger, Johannes"]
+[Black "Fritz, Alexander"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C62"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Qxd4 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Bg5 Nf6 8.Nc3 Be7
+9.O-O-O O-O 10.Rhe1 h6 11.Bh4 Nd7 12.Bxe7 Qxe7 13.g3 Qf6 14.Qe3 Rfe8 15.Nh4 Re6
+16.f3 Rae8 17.Ng2 Nb6 18.h4 a5 19.Nf4 Re5 20.Nd3 R5e7 21.Nf4 Re5 22.Nd3 R5e7
+23.Nf4 Re5 24.Qd4 Kf8 25.Rd2 d5 26.Nd3 R5e7 27.e5 Qxf3 28.Rf2 Qxg3 29.Ne2 Qh3
+30.Nef4 Qg4 31.Rg2 Qf5 32.Ng6+ fxg6 33.Rf2 Nc4 34.Rxf5+ gxf5 35.b3 Nb6 36.Nf4 Kg8
+37.e6 Bd7 38.Rg1 Bc8 39.Nh5 c5 40.Rxg7+ Kh8 41.Qf6  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "6"]
+[White "Wemmers, Carl"]
+[Black "Stern, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A40"]
+
+1.e4 b6 2.d4 Bb7 3.d5 e6 4.c4 Na6 5.Nf3 d6 6.Nc3 Qd7 7.Bd3 g6 8.Bc2 Bg7 9.Be3 Bxc3+
+10.bxc3 c6 11.Qd4 f6 12.e5 c5 13.Qd1 O-O-O 14.Ba4 Qf7 15.exf6 Qxf6 16.Qd2 h6
+17.O-O Nc7 18.dxe6 Qxe6 19.Bf4 g5 20.Bg3 Qxc4 21.Bb3 Qg4 22.Rfe1 Nf6 23.h3 Qd7
+24.Qd3 Nh5 25.Rad1 Nxg3 26.fxg3 Rhf8 27.Nh2 Rfe8 28.Qg6 Qc6 29.Nf3 d5 30.Qxc6 Bxc6
+31.Ne5 Re6 32.Bc2 Kb7 33.Bf5 Re7 34.Ng4 Rxe1+ 35.Rxe1 Rd6 36.Re7 b5 37.Rh7 d4
+38.Rxh6 Rxh6 39.Nxh6 dxc3 40.h4 g4 41.Nxg4 Bd7 42.Be4+ Kb6 43.h5 Ne6 44.Ne5 Bc8
+45.h6 Nf8 46.g4 Bxg4 47.Nxg4 Ka5 48.Ne5  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "6"]
+[White "Von Minckwitz, Johannes"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d4 Bxd4 6.Nxd4 Nxd4 7.f4 d6 8.fxe5 dxe5
+9.Bg5 Be6 10.Na3 Qe7 11.c3 Bxc4 12.Nxc4 Ne6 13.Bxf6 gxf6 14.Qa4+ c6 15.Ne3 Rg8
+16.Kh1 Nc5 17.Qc2 O-O-O 18.Rad1 Rxd1 19.Rxd1 Rd8 20.b4 Ne6 21.g3 Rxd1+ 22.Nxd1 Qd7
+23.h4 c5 24.Ne3 Kb8 25.a3 Qc6 26.Kh2 Ng7 27.Qd3 Ne6 28.b5 Qc7 29.Qc4 Qd6
+30.Qe2 Qd8 31.a4 b6 32.Nc4 Qd7 33.Qc2 Ng7 34.Ne3 Kc8 35.Kg2 Kd8 36.Qf2 Qd6
+37.Nc4 Qe6 38.Ne3 Kd7 39.Qd2+ Ke8 40.Nd5 Qd6 41.Qh6 Ne6 42.Nxf6+ Kd8 43.Nd5 Nf4+  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "7"]
+[White "Stern, Adolf"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A10"]
+
+1.e3 f5 2.c4 e6 3.Nf3 Nf6 4.Be2 Be7 5.Nc3 O-O 6.O-O d6 7.d4 h6 8.Ne1 Nbd7
+9.Qc2 a6 10.Nd3 Nh7 11.Nf4 Ndf6 12.Ng6 Rf7 13.f3 Nf8 14.Nxf8 Rxf8 15.e4 c6
+16.Be3 Bd7 17.Rad1 fxe4 18.fxe4 Qc7 19.c5 dxc5 20.e5 Nd5 21.Nxd5 cxd5 22.Qg6 Be8
+23.Qxe6+ Kh8 24.Qxd5 Rxf1+ 25.Rxf1 cxd4 26.Rc1 Bc6 27.Qxd4 Rd8 28.Qc3 Rd5
+29.Bf3 Qxe5 30.Bxd5 Qxd5 31.Qd2 Qxa2 32.Bd4 Bg5 33.Be3 Bxe3+ 34.Qxe3 Qxb2
+35.Rxc6 bxc6 36.Qe8+ Kh7 37.Qe4+ g6 38.Qxc6 Qd4+ 39.Kf1 Qd3+ 40.Ke1 h5 41.Qc7+ Kh6
+42.Qf4+ Kg7 43.Qe5+ Kf7 44.h4 Qb1+ 45.Kd2 Qb4+ 46.Kc2 Qxh4 47.Qd5+ Kg7 48.Kb3 Qf6
+49.Ka4 Qb2  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "7"]
+[White "Von Minckwitz, Johannes"]
+[Black "Paulsen, Wilfried"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B46"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 Nc6 4.d4 cxd4 5.Nxd4 a6 6.Be3 Nf6 7.Bd3 Bb4 8.O-O O-O
+9.Nce2 Ne5 10.h3 b6 11.a3 Be7 12.Ng3 Bb7 13.Nf3 Nxd3 14.Qxd3 d5 15.exd5 Nxd5
+16.c4 Nxe3 17.Qxe3 Qc7 18.Rac1 Bc5 19.Qe2 Qxg3 20.Qe5 Qxe5  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "7"]
+[White "Fritz, Alexander"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Be3 d5 7.Nd2 e5 8.Ne2 Be7
+9.c3 O-O 10.h3 dxe4 11.Nxe4 Nd5 12.Bc5 Kh8 13.Bc4 Bxc5 14.Nxc5 Nce7 15.Qb3 b6
+16.O-O-O Be6 17.Nxe6 fxe6 18.Rhf1 Qc7 19.Bd3 Rad8 20.Qc2 h6 21.g4 Qc5 22.Ng3 Nf4
+23.Ne4 Qd5 24.Be2 Qxa2 25.Rd6 Ned5 26.g5 Rxd6 27.Nxd6 Nxe2+ 28.Qxe2 Nxc3
+29.Qc4 Qb1+  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "7"]
+[White "Hammacher, Eduard"]
+[Black "Schwarz, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.exd5 Nxd5 5.Nf3 Nxc3 6.dxc3 Qxd1+ 7.Kxd1 e4 8.Ng5 Bf5
+9.Bc4 Bg6 10.f5 Bh5+ 11.Ke1 Be7 12.Nxe4 Nc6 13.Bf4 O-O-O 14.h3 Bh4+ 15.Kf1 Rhe8
+16.Bd3 f6 17.Nc5 Ne5 18.Be4 Nc4 19.Bxb7+ Kb8 20.Bc6 Re7 21.Ne6 Rd1+ 22.Rxd1 Bxd1
+23.g3 Bg5 24.Rh2 Bxf4 25.Nxf4 Bxc2 26.Nd5 Bd3+ 27.Kg1 Re1+ 28.Kf2 Rf1+ 29.Kg2 Rxf5
+30.Nf4 g5 31.Bd7 Be4+ 32.Kg1 Re5 33.b3 Nb6 34.Rd2 Nxd7 35.Ne2 Kc8  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "7"]
+[White "Metger, Johannes"]
+[Black "Wemmers, Carl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Nxe5 7.d4 Bd6 8.f4 Nc6
+9.e5 Be7 10.d5 Nxd5 11.Nxd5 f5 12.Be3 d6 13.Bc4 Kh8 14.Rf3 dxe5 15.Rh3 Qd6
+16.fxe5 Qg6 17.Nf4 Qe8 18.Qf3 Nxe5 19.Rxh7+  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "8"]
+[White "Wemmers, Carl"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B45"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be3 Bb4 7.Bd3 d5 8.Nxc6 bxc6
+9.exd5 exd5 10.Bd4 O-O 11.O-O Bd6 12.f4 Ng4 13.h3 Nh6 14.Qh5 f5 15.Rae1 Bd7
+16.Bxg7 Kxg7 17.Rf3 Rf6 18.g4 Rg6 19.Kh1 fxg4 20.Rff1 Qf6 21.Bxg6 hxg6 22.Qg5 Qxg5
+23.fxg5 Nf5  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "8"]
+[White "Von Minckwitz, Johannes"]
+[Black "Stern, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Qxd4 Bd7 5.Bg5 f6 6.Be3 Nc6 7.Qd2 Be7 8.Nc3 Be6
+9.Bb5 Kf7 10.Bxc6 bxc6 11.O-O c5 12.Rad1 Rb8 13.b3 g5 14.Ne1 h5 15.f4 Kg7
+16.Nf3 Bg4 17.fxg5 Bxf3 18.Rxf3 fxg5 19.Rdf1 Nh6 20.Nd5 Kg6 21.Qd3 h4 22.e5+ Kh5
+23.Rf6  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "8"]
+[White "Hammacher, Eduard"]
+[Black "Fritz, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C48"]
+
+1.e4 e5 2.Nc3 Nc6 3.Nf3 Bc5 4.Bb5 Nf6 5.O-O O-O 6.Nxe5 Nxe5 7.d4 Bb4 8.dxe5 Bxc3
+9.exf6 Bxf6 10.f4 d6 11.c3 g6 12.Bd3 Bg7 13.f5 d5 14.Qg4 dxe4 15.Bxe4 c6
+16.Bc2 Kh8 17.Rf3 gxf5 18.Qh5 Qd6 19.Rh3 Qg6 20.g4 Qxg4+ 21.Qxg4 fxg4 22.Rxh7+ Kg8
+23.Bh6 Bxh6 24.Rxh6 f5 25.Rd1 Kf7 26.Bb3+ Ke7 27.Re1+ Kd7 28.Kf2 Kc7 29.Be6 Bxe6
+30.Rhxe6 Rad8 31.Kg3 Rd3+ 32.Kg2 f4 33.Rf1 Rd2+ 34.Rf2 Rfd8 35.Kf1 Rxf2+
+36.Kxf2 Rd2+ 37.Re2 Rxe2+ 38.Kxe2 Kd6 39.Kf2 Kd5 40.Kg2 Ke4 41.Kf2 c5 42.Ke2 c4
+43.a4 a5 44.Kf2 Kd3 45.Kg2 Ke2  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "8"]
+[White "Paulsen, Wilfried"]
+[Black "Metger, Johannes"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A00"]
+
+1.e3 d5 2.b3 e6 3.Bb2 Nf6 4.g3 Be7 5.Bg2 c5 6.d4 Nc6 7.dxc5 Bxc5 8.Ne2 Bd7
+9.O-O O-O 10.Nd2 b5 11.c4 bxc4 12.bxc4 dxc4 13.Bxf6 gxf6 14.Nxc4 Rc8 15.Nc3 Ne5
+16.Nxe5 fxe5 17.Ne4 Bb5 18.Qh5 f6 19.Rfd1 Qe8 20.Qxe8 Bxe8 21.Rdc1  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "8"]
+[White "Anderssen, Adolf"]
+[Black "Schwarz, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E57"]
+
+1.a3 d5 2.d4 Nf6 3.Nf3 e6 4.Bg5 Be7 5.e3 c5 6.c4 cxd4 7.exd4 Nc6 8.Nc3 dxc4
+9.Bxc4 O-O 10.O-O b6 11.Qd3 Bb7 12.Rad1 Nd5 13.Bxe7 Ncxe7 14.Ne2 Ng6 15.Bxd5 Bxd5
+16.Qe3 Rc8 17.Nc3 Bb7 18.Rd2 Ne7 19.Ng5 h6 20.Nge4 Nd5 21.Qg3 Nxc3 22.Nxc3 Bd5
+23.f4 Qd7 24.h3 Rc6 25.Qe3 Rd8 26.Re1 Rd6 27.Qg3 Kh8 28.Qd3 Bc6 29.Red1 Ba4
+30.Nxa4 Qxa4 31.f5 Rd5 32.fxe6 fxe6 33.Qe3 Qd7 34.Rf2 e5 35.Rdf1 exd4 36.Rf8+ Rxf8
+37.Rxf8+ Kh7 38.Qe4+ g6 39.Re8 Qd6 40.Re6 Qc5 41.Qxg6+  1-0
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "9"]
+[White "Stern, Adolf"]
+[Black "Paulsen, Wilfried"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A03"]
+
+1.e3 d5 2.f4 e6 3.Nf3 g6 4.Be2 Bg7 5.Nc3 Ne7 6.O-O O-O 7.d4 b6 8.e4 dxe4
+9.Nxe4 Bb7 10.Nf2 Nd7 11.c3 Nf5 12.Bd3 Nd6 13.Re1 c5 14.Ne4 Nf6 15.Nxd6 Qxd6
+16.dxc5 Qxc5+ 17.Be3 Qc6 18.Bd4 Rfd8 19.Qe2 Qd6 20.Bxf6 Bxf6 21.Be4 Bxe4
+22.Qxe4 Qd5 23.Qxd5 Rxd5 24.Rad1 Rad8 25.Rxd5 Rxd5 26.Kf2 a5 27.c4 Rd6 28.b3 Bc3
+29.Re3 Bb4 30.Ke2 Kg7 31.Rd3 Kf6 32.g4 h6 33.Ne5 Ke7 34.g5 hxg5 35.fxg5 Rxd3
+36.Kxd3  1/2-1/2
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "9"]
+[White "Anderssen, Adolf"]
+[Black "Hammacher, Eduard"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Bd3 Nf6 6.Nf3 O-O 7.O-O h6 8.Ne2 Bg4
+9.Ne5 Bxe2 10.Qxe2 Nc6 11.c3 Bd6 12.f4 Ne7 13.Rf3 Nh7 14.Rg3 f5 15.Qh5 Rf6
+16.Be3 Qe8 17.Qh3 Nf8 18.Be2 Nc6 19.Rf1 Rd8 20.Bh5 Qe6 21.Rff3 Kh8 22.Qh4 Be7
+23.Rh3 Kh7 24.Qe1 g6 25.g4 gxh5 26.Rxh5 fxg4 27.f5 Nxe5 28.Rf4 Rxf5 29.Rfxf5 Nf3+
+30.Rxf3 gxf3 31.Rxh6+ Qxh6 32.Bxh6 f2+ 33.Qxf2 Kxh6 34.Qf4+ Kg7 35.Qxc7 Rd7
+36.Qe5+ Bf6  1/2-1/2
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "9"]
+[White "Von Minckwitz, Johannes"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 a6 5.Ba4 Be7 6.d3 b5 7.Bb3 d6 8.h3 Na5
+9.O-O Nxb3 10.axb3 Bb7 11.Be3 O-O 12.Qe2 b4 13.Na4 Nd7 14.Nh2 f5 15.exf5 Rxf5
+16.f4 Rf8 17.Ng4 exf4 18.Rxf4 a5 19.Re1 Nf6 20.Nxf6+ Rxf6 21.Rg4 Rf7 22.Bd4 Bf6
+23.Bxf6 Qxf6 24.Rf1 Re7 25.Qf2 Qe6 26.Rf4 Qc8 27.Rf7 Qe8 28.Rxe7 Qxe7 29.Re1 Qg5
+30.Rf1 Bd5 31.Kh2 h6 32.Qg3 Qxg3+ 33.Kxg3 Rf8 34.Re1 Kf7 35.Rf1+ Ke7 36.Re1+ Kd7
+37.Rb1 Rf6 38.Rg1 Kc6 39.d4 Be4 40.c4 Bc2 41.d5+ Kb7 42.Ra1 Bxb3 43.c5 Ka6
+44.c6 Kb5  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "9"]
+[White "Metger, Johannes"]
+[Black "Schwarz, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D40"]
+
+1.c4 e6 2.e3 Nf6 3.a3 d5 4.d4 c5 5.Nf3 Nc6 6.Nc3 dxc4 7.Bxc4 cxd4 8.exd4 Be7
+9.O-O O-O 10.Be3 b6 11.Qe2 Bb7 12.Rad1 Nb8 13.Ne5 Nc6 14.f4 Qc8 15.Bd3 Bd6
+16.Nb5 Bb8 17.Rc1 Qe8 18.Nc3 Ne7 19.Ng4 Nxg4 20.Qxg4 f5 21.Qe2 Nd5 22.Bd2 Qd7
+23.Rce1 Rf6 24.Qf2 Nxc3 25.Bxc3 Rg6 26.g3 Qd5 27.Be4 fxe4 28.Re3 Qf5 29.Qg2 Bd5  0-1
+
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.??.??"]
+[Round "9"]
+[White "Fritz, Alexander"]
+[Black "Wemmers, Carl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.Nxe5 Nxe5
+9.dxe5 c6 10.Be3 Bc5 11.Nd2 Nxd2 12.Qxd2 Qb6 13.Bxc5 Qxc5 14.c3 Bf5 15.Kh1 O-O
+16.Qf4 Bg6 17.a4 f6 18.axb5 fxe5 19.Qxe5 axb5 20.Rxa8 Rxa8 21.Qg5 Qxf2 22.Bxd5+ Kh8
+23.Qc1 Qc5 24.Bf3 Re8 25.Qd2 h6 26.Rd1 Kh7 27.h3 Qc4 28.Qd7 c5 29.Qc7 Rf8
+30.Qg3 Rf6 31.Kh2 b4 32.Rd8 Qf4 33.Rc8 bxc3 34.bxc3 Qe3 35.Bd5 Qxg3+ 36.Kxg3 c4
+37.Bg8+ Kh8 38.Bxc4+ Kh7 39.Bg8+ Kh8 40.Bd5+ Kh7 41.c4 Bf5 42.Rc6 Rxc6 43.Bxc6 Kg6
+44.Bf3 Kf6 45.Kh4 Ke5 46.c5 Bc2 47.c6 Kd6 48.Kg4 Bg6 49.Kf4 Be8 50.Kf5 Bf7
+51.h4 Be8 52.h5 Bf7 53.g3 Be8 54.Bd5 Kxd5 55.c7 Bd7+ 56.Kg6 Kd6 57.Kxg7 Kxc7
+58.Kxh6 Kd8 59.Kg7 Ke7 60.h6 Bf5 61.g4 Bc2 62.g5  1-0

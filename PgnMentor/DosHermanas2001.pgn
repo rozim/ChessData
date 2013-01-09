@@ -1,0 +1,792 @@
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.19"]
+[Round "1"]
+[White "Sokolov,I"]
+[Black "Smirin,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2659"]
+[BlackElo "2691"]
+[ECO "E70"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Bd3 Nc6 6.Nge2 O-O 7.O-O Bd7 8.Bc2 e5
+9.d5 Nb4 10.Bb1 a5 11.f3 Kh8 12.Be3 Ng8 13.c5 Bh6 14.Bf2 Qe7 15.cxd6 cxd6
+16.Na4 f5 17.Nb6 fxe4 18.Bxe4 Rae8 19.Nxd7 Qxd7 20.a3 Na6 21.Qe1 Qd8 22.Nc3 Nf6
+23.Rd1 Nd7 24.Bd3 Nac5 25.Bb5 Re7 26.b4 axb4 27.axb4 Nb3 28.Ne4 Nf6 29.Nxf6 Rxf6
+30.Qc3 Nd4 31.Rxd4 exd4 32.Bxd4 Re5 33.Bxe5 dxe5 34.Qxe5 Bf8 35.Rb1 Bd6 36.Qc3 Kg7
+37.Bf1 Qb6+ 38.Kh1 Qf2 39.Qe1  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.19"]
+[Round "1"]
+[White "Illescas Cordoba,M"]
+[Black "Dreev,A"]
+[Result "1-0"]
+[WhiteElo "2562"]
+[BlackElo "2685"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 e6 8.Ne5 Bh7
+9.Bd3 Bxd3 10.Qxd3 Nd7 11.f4 c5 12.Be3 Qa5+ 13.Bd2 Qc7 14.O-O-O Ngf6 15.f5 cxd4
+16.Nxd7 Qxd7 17.fxe6 fxe6 18.Rhe1 O-O-O 19.Qc4+ Qc6 20.Qxe6+ Qxe6 21.Rxe6 Rd5
+22.Rf1 Kd7 23.Ree1 d3 24.c3 Bc5 25.Nf5 Re8 26.Rxe8 Nxe8 27.c4 Re5 28.Rf3 Ke6
+29.Ng3 Be7 30.Bc3 Bxh4 31.Bxe5 Kxe5 32.Re3+ Kf6 33.Rxe8 Bxg3 34.Kd2  1-0
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.19"]
+[Round "1"]
+[White "Gurevich,M"]
+[Black "Almasi,Z"]
+[Result "1/2-1/2"]
+[WhiteElo "2688"]
+[BlackElo "2640"]
+[ECO "A36"]
+
+1.c4 c5 2.g3 g6 3.Bg2 Bg7 4.Nc3 Nc6 5.d3 e6 6.e4 Nge7 7.Nge2 d6 8.Rb1 O-O
+9.O-O Rb8 10.a3 b6 11.b4 Bb7 12.Bf4 Nd4 13.bxc5 bxc5 14.Nb5 e5 15.Bg5 f6
+16.Nbxd4 cxd4 17.Bd2 Bc6 18.Qc2 Rc8  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.19"]
+[Round "1"]
+[White "Azmaiparashvili,Z"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2670"]
+[BlackElo "2559"]
+[ECO "D12"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.Nc3 e6 6.Bd3 Bxd3 7.Qxd3 Nbd7 8.O-O Bb4
+9.Bd2 a5 10.a3 Be7 11.b4 axb4 12.axb4 O-O 13.Rab1 Nb6 14.c5 Nc4 15.b5 e5
+16.Nxe5 Nxe5 17.dxe5 Nd7 18.Qc2 Nxe5 19.Ne2 Nc4 20.Bb4 Bf6 21.Rfd1 Re8 22.Ng3 Be5
+23.Nf5 Qf6 24.e4 dxe4 25.bxc6 bxc6 26.Nd6 Nxd6 27.cxd6 Red8 28.Qxc6 e3 29.Qf3 Qxf3
+30.gxf3 e2 31.Rd2 Rab8  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.19"]
+[Round "1"]
+[White "Krasenkow,M"]
+[Black "Radjabov,T"]
+[Result "0-1"]
+[WhiteElo "2655"]
+[BlackElo "2533"]
+[ECO "E90"]
+
+1.Nf3 Nf6 2.d4 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.h3 e5 7.d5 Nbd7 8.Bg5 h6 9.Be3 Nc5
+10.Nd2 a5 11.a3 Ne8 12.b4 axb4 13.axb4 Rxa1 14.Qxa1 Nd7 15.c5 f5 16.Nc4 f4
+17.Bc1 dxc5 18.bxc5 Nxc5 19.Ba3 b6 20.Bxc5 bxc5 21.Qa5 f3 22.g3 Qe7 23.Bd3 h5
+24.h4 Bh6 25.Na4 Nd6 26.Nxc5 g5 27.Ne6 Bxe6 28.dxe6 Nxc4 29.Bxc4 gxh4 30.Rxh4 Rb8
+31.Ba2 Rb2 32.Qa4 Re2+ 33.Kd1 Rxf2 34.Rxh5 Rf1+ 35.Kc2 Qc5+ 36.Kb3 Qe3+ 37.Kb4 Qd4+
+38.Kb3 Qd3+ 39.Kb4 Bd2+ 40.Kc5 Rc1+  0-1
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.20"]
+[Round "2"]
+[White "Almasi,Z"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2640"]
+[BlackElo "2533"]
+[ECO "C05"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Be7 4.Ngf3 Nf6 5.e5 Nfd7 6.Bd3 c5 7.c3 Nc6 8.O-O a5
+9.Re1 cxd4 10.cxd4 Qb6 11.Nb1 Nxd4 12.Nxd4 Qxd4 13.Nc3 Qb6 14.Qg4 O-O 15.Bh6 g6  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.20"]
+[Round "2"]
+[White "Smirin,I"]
+[Black "Krasenkow,M"]
+[Result "1-0"]
+[WhiteElo "2691"]
+[BlackElo "2655"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.c3 a6 6.Ba4 b5 7.Bc2 Bb7 8.Qe2 d5
+9.e5 d4 10.Be4 Ng6 11.cxd4 cxd4 12.d3 Be7 13.Nbd2 Qc7 14.Nb3 O-O 15.Bd2 Rfc8
+16.Rac1 Qb6 17.h4 h6 18.h5 Nf8 19.Nfxd4 Nxd4 20.Nxd4 Rxc1 21.Rxc1 Qxd4 22.Bxb7 Rb8
+23.Be3 Qxe5 24.d4 Qd6 25.Qf3 Rd8 26.a3 a5 27.Rc6 Qd7 28.Ra6 b4 29.Rxa5 bxa3
+30.bxa3 Rb8 31.Be4 f5 32.Bd3 Rb3 33.Qd1 Rxa3 34.Rxa3 Bxa3 35.Qb3 f4 36.Qxa3 fxe3
+37.fxe3 Qc7 38.Be4 Qg3 39.Kf1 Qh4 40.Bf3 Nh7 41.Ke2 Ng5 42.Qe7 Kh7 43.Qb7 Nxf3
+44.Qxf3 Kg8 45.Kd3 Qe1 46.Kc4 Qc1+ 47.Kb5 Qc2 48.Kb6 Qc4 49.g4 Kh7 50.Qe4+ Kg8
+51.Qe5 Qb3+ 52.Kc7 Kf7 53.Kd8 Qa3 54.Qf4+ Kg8 55.Ke8 Qb3 56.Ke7 Kh8 57.Qe5 Qb7+
+58.Kxe6 Qc8+ 59.Kf7 Qb7+ 60.Kf8 Qf3+ 61.Qf4 Qa8+ 62.Ke7 Qb7+ 63.Kd8 Qa8+
+64.Kc7 Qa5+ 65.Kc6 Qa4+ 66.Kc5 Qc2+ 67.Kd6 Qc8 68.Qf7 Qc3 69.Qe8+ Kh7 70.Qe4+ Kh8
+71.d5 Qf6+ 72.Kd7  1-0
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.20"]
+[Round "2"]
+[White "Vallejo Pons,F"]
+[Black "Sokolov,I"]
+[Result "1-0"]
+[WhiteElo "2559"]
+[BlackElo "2659"]
+[ECO "C87"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 d6 7.Bxc6+ bxc6 8.d4 exd4
+9.Nxd4 Bd7 10.Qf3 O-O 11.Nc3 Rb8 12.b3 Re8 13.Bb2 Bf8 14.Rad1 Qc8 15.Nf5 Bxf5
+16.exf5 d5 17.Ne2 Qd8 18.Ng3 Qd6 19.h3 Rxe1+ 20.Rxe1 d4 21.Rd1 c5 22.c3 Qd5
+23.Qd3 dxc3 24.Qc2 Qc6 25.Bxc3 Re8 26.Qd3 Be7 27.Re1 Kf8 28.Re2 Nd5 29.Qf3 Bf6
+30.Bxf6 gxf6 31.Rxe8+ Kxe8 32.Nh5 Ke7 33.Qe4+ Kd6 34.g4 Qb5 35.Ng7 Ne7 36.Ne6 Qc6
+37.Qf4+ Kd7 38.Nf8+ Ke8 39.Nxh7 Kd7 40.h4 Nd5  1-0
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.20"]
+[Round "2"]
+[White "Dreev,A"]
+[Black "Azmaiparashvili,Z"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2670"]
+[ECO "D24"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 c5 4.d5 Nf6 5.Nc3 e6 6.e4 exd5 7.e5 Ne4 8.Qxd5 Nxc3
+9.Qxd8+ Kxd8 10.bxc3 Nc6 11.Bxc4 Be6 12.Bxe6 fxe6 13.Ng5 Kd7 14.Be3 Nxe5
+15.O-O-O+ Kc6 16.Bf4 Ng6 17.Bg3 e5 18.Nf7 Rg8 19.h4 h5 20.Rhe1 Be7 21.Kc2 Bf6
+22.Bxe5 Nxe5 23.Nxe5+ Bxe5 24.Rxe5 Raf8 25.f3 g6 26.Re6+ Kc7 27.Re7+ Kc6
+28.Re6+ Kc7 29.Rd5 Rf5 30.Ree5 b6 31.Kd3 Rf4 32.Re4 Rf5 33.Re7+ Kc6 34.Rde5 Rf4
+35.Re4 g5 36.hxg5 Rxe4 37.Rxe4 Rxg5 38.Re2  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.20"]
+[Round "2"]
+[White "Gurevich,M"]
+[Black "Illescas Cordoba,M"]
+[Result "1-0"]
+[WhiteElo "2688"]
+[BlackElo "2562"]
+[ECO "D97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Qb3 dxc4 5.Qxc4 Bg7 6.e4 O-O 7.Be2 Na6 8.Nf3 c5
+9.d5 e6 10.O-O exd5 11.exd5 Bf5 12.Bf4 Qb6 13.Be5 Rad8 14.Rac1 Qxb2 15.Nb5 Qb4
+16.Nd6 Ne4 17.Bxg7 Kxg7 18.Nxf5+ gxf5 19.Qc2 Rxd5 20.Bc4 Rdd8 21.Nh4 Kh8
+22.Nxf5 Nd2 23.Bxa6 bxa6 24.Rfe1 Rfe8 25.Rxe8+ Rxe8 26.Nd6 Re7 27.Qf5 Qb2
+28.Qc8+ Kg7 29.Nf5+  1-0
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.21"]
+[Round "3"]
+[White "Sokolov,I"]
+[Black "Dreev,A"]
+[Result "0-1"]
+[WhiteElo "2659"]
+[BlackElo "2685"]
+[ECO "D43"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.Bg5 h6 6.Bh4 dxc4 7.e4 g5 8.Bg3 b5 9.Be2 Bb7
+10.h4 b4 11.Na4 Nxe4 12.Be5 Rg8 13.Qc2 c5 14.Bxc4 g4 15.Bb5+ Nd7 16.dxc5 b3
+17.Qd3 gxf3 18.c6 Bb4+ 19.Bc3 Bxc3+ 20.bxc3 fxg2 21.Rg1 b2 22.Rd1 Qxh4 23.Qxd7+ Kf8
+24.Qd4 b1=Q 25.Rxb1 Rd8 26.cxb7 Rxd4 27.b8=Q+ Rd8 28.Qxa7 Qh2 29.Ke2 Rd2+
+30.Ke3 Rg3+ 31.Kxe4 Rg4+  0-1
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.21"]
+[Round "3"]
+[White "Azmaiparashvili,Z"]
+[Black "Gurevich,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2670"]
+[BlackElo "2688"]
+[ECO "A80"]
+
+1.d4 f5 2.Bg5 h6 3.Bh4 g5 4.e3 Nf6 5.Bg3 d6 6.h4 g4 7.Ne2 Nh5 8.Nf4 Nxf4
+9.Bxf4 Bg7 10.Bc4 e5 11.dxe5 dxe5 12.Qxd8+ Kxd8 13.Bh2 Ke7 14.Nd2 Nd7 15.f3 h5
+16.O-O-O Nb6 17.Rhf1 Bd7 18.Be2 Be6 19.e4 f4 20.g3 Bh6 21.gxf4 Bxf4 22.Bxf4 exf4
+23.fxg4 hxg4 24.Rxf4 Rxh4 25.Nf1 Nd7 26.Ne3 Rf8 27.Rxg4 Bxg4 28.Bxg4 Nf6
+29.Nf5+ Ke6 30.Nxh4+ Nxg4 31.Nf5 Nf6 32.Re1 Ke5 33.Nh4 Rf7 34.Ng6+ Ke6 35.Nf4+ Ke5
+36.Nd3+ Kd4 37.Rf1 Kxe4 38.Nc5+ Ke5 39.Nxb7 Rh7 40.Na5 Nd5 41.Rd1 c5 42.Nc4+ Ke6
+43.b3 Rh2 44.a3 Nb6 45.Nxb6 axb6 46.Kb2 b5 47.a4 b4 48.a5 Rh7 49.a6 Ra7 50.Rh1 Kd5
+51.Rh6 Kd4 52.Kc1 Ra8 53.Kd2 Ra7 54.c3+ bxc3+ 55.Kc2 Ra8 56.Rh4+ Kd5 57.Ra4 Kc6
+58.Kxc3 Kb6 59.Kc4 Rh8  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.21"]
+[Round "3"]
+[White "Krasenkow,M"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2559"]
+[ECO "A11"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bg4 4.c4 e6 5.cxd5 Bxf3 6.Bxf3 cxd5 7.O-O Nc6 8.d3 Nf6
+9.Be3 Bd6 10.Qb3 Qd7 11.Nc3 O-O 12.Rfc1 Rfc8 13.Nb5 Be5 14.d4 Bb8 15.Qd1 h6
+16.a3 a6 17.Nc3 b5 18.Na2 Bd6 19.Qd2 Qd8 20.Bf4 Bxf4 21.Qxf4  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.21"]
+[Round "3"]
+[White "Illescas Cordoba,M"]
+[Black "Almasi,Z"]
+[Result "1/2-1/2"]
+[WhiteElo "2562"]
+[BlackElo "2640"]
+[ECO "B36"]
+
+1.Nf3 c5 2.c4 Nc6 3.d4 cxd4 4.Nxd4 g6 5.e4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7
+9.Bg5 Qa5 10.Qd2 Be6 11.Rc1 O-O 12.O-O a6 13.b3 b5 14.Nd5 Qxd2 15.Nxe7+ Kh8
+16.Bxd2 Nxe4 17.Ba5 Rae8 18.Nc6 bxc4 19.Bxc4 Bxc4 20.bxc4 Rc8 21.Ne7 Rb8
+22.Rc2 Rb7 23.Nd5 Rc8 24.Re1 Nf6 25.Nxf6 Bxf6 26.Bc3 Bxc3 27.Rxc3 Rb4 28.Rec1 Kg7
+29.g3 Rb2 30.Rd1 Rc6 31.a3 Re2 32.Rd5 Re4 33.c5 dxc5 34.Rdxc5  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.21"]
+[Round "3"]
+[White "Radjabov,T"]
+[Black "Smirin,I"]
+[Result "0-1"]
+[WhiteElo "2533"]
+[BlackElo "2691"]
+[ECO "E97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.b4 Nh5 10.Re1 a5 11.bxa5 f5 12.Nd2 Nf6 13.f3 Rxa5 14.Nb3 Ra8 15.c5 f4 16.a4 g5
+17.Ba3 Ng6 18.a5 Nh4 19.cxd6 cxd6 20.Bb4 h5 21.Nd2 g4 22.Nc4 Ra6 23.Kh1 Nh7
+24.fxg4 Nxg2 25.Kxg2 hxg4 26.Kh1 Qh4 27.Nd2 Ng5 28.Rg1 Nh3 29.Rf1 Rf6 30.Qe1 Qh5
+31.Rc1 Rh6 32.Nd1 Ra8 33.Nf2 f3 34.Nxh3 Qxh3 35.Rf2 g3 36.Nxf3 gxf2 37.Qxf2 Rg6
+38.Bxd6 Rxd6 39.Ng5 Qd7 40.Bg4 Qe7 41.Bxc8 Qxg5 42.Rg1 Qf6 43.Bf5 Rxa5 44.Qc2 Ra8
+45.Qc7 b5 46.Qb7 Rad8 47.Qxb5 Rb6 48.Qc5 Rdb8 49.Rg6 Qxg6 50.Bxg6 Rxg6 51.Qc2 Bh6
+52.h4 Rf8 53.Qc4 Rf4 54.d6+ Kh8 55.Qc8+ Rg8 56.Qh3 Rxe4  0-1
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.22"]
+[Round "4"]
+[White "Illescas Cordoba,M"]
+[Black "Azmaiparashvili,Z"]
+[Result "1-0"]
+[WhiteElo "2562"]
+[BlackElo "2670"]
+[ECO "B07"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 e5 4.dxe5 dxe5 5.Qxd8+ Kxd8 6.Bc4 Ke8 7.Nf3 Bd6 8.Bg5 Nbd7
+9.h3 h6 10.Be3 Bb4 11.O-O-O Bxc3 12.bxc3 Nxe4 13.Rhe1 Nd6 14.Bb3 g5 15.h4 g4
+16.Nh2 h5 17.f4 e4 18.Nf1 Nf5 19.Bd4 Nxd4 20.Rxd4 f5 21.Red1 Ke7 22.Rd5 a5
+23.Rxf5 a4 24.Bc4 c6 25.Ng3 b5 26.Rf7+ Ke8 27.Nf5 bxc4 28.Nd6+ Kd8 29.Nxc8 Kxc8
+30.Rdxd7 Ra5 31.Ra7 Rxa7 32.Rxa7 Rh6 33.Kd2 e3+ 34.Kxe3 Re6+ 35.Kd4 Re2 36.f5 Rxg2
+37.f6 Rf2 38.Ke5 Kd8 39.Rxa4 Ke8 40.Ra8+ Kf7 41.Ra7+ Kf8 42.Rh7 g3 43.Rxh5 Rxc2
+44.Ke6 Re2+ 45.Kf5 g2 46.Rg5 Kf7 47.Rg7+ Kf8 48.a4 Rf2+ 49.Ke5 Re2+ 50.Kd4 Ra2
+51.h5 Rxa4 52.Rxg2 Ra5 53.Rh2 Rf5 54.h6 Kg8 55.Kxc4 Kh7 56.f7 Rxf7 57.Kc5 Rf4
+58.Rh3 Rf6 59.Rh4  1-0
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.22"]
+[Round "4"]
+[White "Vallejo Pons,F"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2559"]
+[BlackElo "2533"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Nbd7 6.Nf3 h6 7.Nxf6+ Nxf6 8.Be3 Nd5
+9.Bd2 c5 10.Bb5+ Bd7 11.Qe2 Bxb5 12.Qxb5+ Qd7 13.Qxd7+ Kxd7 14.c4 Nf6 15.Ne5+ Ke8
+16.Be3 Rc8 17.Ke2 cxd4 18.Bxd4 Bc5 19.Rad1 Ke7 20.f4 Bxd4 21.Rxd4 Rhd8 22.Rhd1 Rxd4
+23.Rxd4 Rc7 24.b4 Ne8 25.g3 f6 26.Nf3 b6 27.Nh4  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.22"]
+[Round "4"]
+[White "Dreev,A"]
+[Black "Krasenkow,M"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2655"]
+[ECO "D92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bf4 O-O 6.Rc1 dxc4 7.e3 c5 8.Bxc4 cxd4
+9.Nxd4 Bd7 10.O-O Nc6 11.Nb3 Na5 12.Be2 Rc8 13.Bf3 b5 14.Qe2 b4 15.Nd5 Nxb3
+16.axb3 Nxd5 17.Bxd5 Qb6 18.Bc4 Be6 19.Rfd1 a5 20.h3 Bxc4 21.Rxc4 Qa6 22.Rdc1 a4
+23.Kf1 Rxc4 24.Qxc4 Qf6 25.Rc2 a3 26.bxa3 bxa3 27.Ra2 Qb2 28.b4 Qb1+ 29.Ke2 e5
+30.Bg5 h6 31.Be7 Re8 32.Bc5 Rd8 33.Qc2 Qh1 34.e4 Ra8 35.b5 Qxg2 36.Rxa3 Rc8
+37.b6 Bf8 38.Rc3 Bxc5 39.Rxc5 Rxc5 40.Qxc5 Qxe4+ 41.Kd2 Qf3 42.Qc8+ Kg7 43.b7 Qxf2+
+44.Kc3 Qd4+ 45.Kb3 Qd3+ 46.Kb4 Qd4+ 47.Kb5 Qd5+ 48.Kb6 Qd6+ 49.Qc6 Qd8+ 50.Qc7 Qd4+
+51.Qc5 Qd8+ 52.Kc6  1-0
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.22"]
+[Round "4"]
+[White "Gurevich,M"]
+[Black "Sokolov,I"]
+[Result "0-1"]
+[WhiteElo "2688"]
+[BlackElo "2659"]
+[ECO "D10"]
+
+1.d4 Nf6 2.c4 c6 3.Nc3 d5 4.e3 a6 5.Qc2 g6 6.Bd3 Bg7 7.Nf3 O-O 8.O-O Bg4
+9.Ne5 Be6 10.b3 c5 11.Ne2 cxd4 12.exd4 Nc6 13.Nxc6 bxc6 14.Bf4 Nh5 15.Be5 dxc4
+16.Bxc4 Bf5 17.Qc3 Nf6 18.Ng3 Bd7 19.Rfe1 Bh6 20.h3 Nd5 21.Qf3 a5 22.Ne4 Nb6
+23.Nc5 Bd2 24.Re2 Bb4 25.Bd3 Nd5 26.a3 Bxc5 27.dxc5 f6 28.Bb2 e5 29.Bc4 Be6
+30.Rd2 Qe7 31.Rc1 Rfd8 32.g3 Rd7 33.h4 Kg7 34.Qe2 Rad8 35.Qe1 Bg4 36.Bf1 Qe6
+37.b4 axb4 38.axb4 Bf3 39.Kh2 Rb8 40.b5 cxb5 41.Bh3 Qc6 42.Bxd7 Qxd7 43.c6 Qf5
+44.c7 Rc8 45.Rc5 Nf4 46.Qf1 b4 47.Rc4 Bg2 48.Qxg2 Nxg2 49.Kxg2 Qe6 50.Rc1 Qf7
+51.Rdc2 Qd5+ 52.Kg1 h6 53.Rc4 Qd2 54.R4c2 Qd7 55.Rc4 g5 56.hxg5 hxg5 57.Rxb4 Rxc7
+58.Rxc7 Qxc7 59.Ba3 Qc3 60.Ra4 Kg6 61.Ra6 Qd3 62.Ra7 Qd1+ 63.Kg2 Qd5+ 64.Kg1 Qd4
+65.Rc7 Qa1+ 66.Bc1 f5 67.Kg2 Qa8+ 68.Kg1 f4 69.gxf4 gxf4 70.Rc3 Kf5 71.Kf1 Qa1
+72.Rc7 Qa6+ 73.Kg2 Qa8+ 74.f3 Qa2+ 75.Kf1 Qa6+  0-1
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.22"]
+[Round "4"]
+[White "Almasi,Z"]
+[Black "Smirin,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2640"]
+[BlackElo "2691"]
+[ECO "B82"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb3 Nf6 6.Nc3 e6 7.Be3 Qc7 8.Bd3 a6
+9.f4 d6 10.Qf3 b5 11.O-O-O Bb7 12.Kb1 h5 13.Rhe1 Be7 14.Bf2 Nd7 15.Qh3 Nf6
+16.Bh4 b4 17.Ne2 e5 18.Qg3 Rg8 19.Bg5 O-O-O 20.Bxf6 Bxf6 21.Bc4 Kb8 22.f5 Rc8
+23.Bd5 Nd4 24.Nexd4 Bxd5 25.exd5 exd4 26.Qd3 Qc4 27.Qxc4 Rxc4 28.Na5 Rc5
+29.Nc6+ Kb7 30.Nxb4 Rgc8 31.Re2 a5 32.Nd3 Rxd5 33.Rf1 Kc7 34.a3 Rb5 35.Rf3 Kd7
+36.Ka2 Bg5 37.Rh3 Rh8 38.Rf3 Rc8 39.Rh3 Rh8 40.Rf3  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.23"]
+[Round "5"]
+[White "Sokolov,I"]
+[Black "Illescas Cordoba,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2659"]
+[BlackElo "2562"]
+[ECO "D92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bf4 O-O 6.Rc1 c5 7.dxc5 dxc4 8.Qxd8 Rxd8
+9.e3 Na6 10.c6 bxc6 11.Bxc4 Nd5 12.Be5 Nab4 13.Bxg7 Kxg7 14.O-O Nb6 15.Be2 Be6
+16.Nd4 Bc4 17.Bxc4 Nxc4 18.Na4 Nb6 19.Nxb6 axb6 20.Nxc6 Nxc6 21.Rxc6 Rxa2
+22.Rxb6 Rd2 23.Rb1 Ra7 24.g3 Rc7 25.Rf1 Rcc2 26.Rb7 e6 27.b4  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.23"]
+[Round "5"]
+[White "Smirin,I"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2691"]
+[BlackElo "2559"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.c4 Be7 6.d4 Bg4 7.Nc3 Nxc3 8.bxc3 O-O
+9.Bd3 Nd7 10.O-O Nf6 11.Rb1 b6 12.Re1 Re8 13.Bg5 Qd7 14.h3 Bf5 15.Bxf5 Qxf5
+16.Bxf6 Bxf6 17.Qa4 Red8 18.Qd1 Qg6 19.Rb2  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.23"]
+[Round "5"]
+[White "Azmaiparashvili,Z"]
+[Black "Almasi,Z"]
+[Result "1/2-1/2"]
+[WhiteElo "2670"]
+[BlackElo "2640"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.b3 a6 6.Bxc6 Nxc6 7.Bb2 b5 8.Na3 Nd4
+9.c4 Qa5 10.d3 Nxf3+ 11.Qxf3 Bb7 12.Nc2 Qd2 13.Rac1 Bd6 14.Bxg7 Rg8 15.Bb2 Qh6
+16.g3 f5 17.Ne3 b4 18.Qe2 O-O-O 19.f3 Rg5 20.e5 Be7 21.Ng2 Qg7 22.Rc2 h5
+23.Bc1 Rg6 24.Nf4 Rg5 25.Ng2 Rg6 26.Nf4 Rg5  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.23"]
+[Round "5"]
+[White "Radjabov,T"]
+[Black "Dreev,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2533"]
+[BlackElo "2685"]
+[ECO "D46"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Bd3 O-O 8.O-O dxc4
+9.Bxc4 a6 10.Bd3 c5 11.Bd2 cxd4 12.exd4 h6 13.Qc1 Re8 14.Bf4 Qc7 15.Bxd6 Qxd6
+16.Re1 b6 17.Ne4 Nxe4 18.Bxe4 Rb8 19.Qc6 Qxc6 20.Bxc6 Rd8 21.Rac1 Nf6  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.23"]
+[Round "5"]
+[White "Krasenkow,M"]
+[Black "Gurevich,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2688"]
+[ECO "A88"]
+
+1.Nf3 d6 2.d4 f5 3.g3 Nf6 4.Bg2 g6 5.c4 Bg7 6.Nc3 O-O 7.O-O c6 8.d5 e5 9.dxe6 Bxe6
+10.Qd3 Nbd7 11.Rd1 Nc5 12.Qxd6 Qxd6 13.Rxd6 Rfe8 14.Ng5 Bxc4 15.Be3 Ne6 16.Nxe6 Bxe6
+17.Rd2 Nd7  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.24"]
+[Round "6"]
+[White "Azmaiparashvili,Z"]
+[Black "Sokolov,I"]
+[Result "1-0"]
+[WhiteElo "2670"]
+[BlackElo "2659"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bc4 Ne5 8.Be2 d5
+9.O-O O-O 10.f4 N5c6 11.e5 Qg6 12.Qd2 Bxd4 13.cxd4 h5 14.Nc3 Bf5 15.Bf3 Rad8
+16.Ne2 Bg4 17.Ng3 h4 18.f5 Bxf5 19.Nh5 h3 20.Rf2 Qh7 21.g4 Bg6 22.Nf4 Be4
+23.Rc1 Ng6 24.Nh5 Rde8 25.Bg5 Ngxe5 26.dxe5 Nxe5 27.Be2 c6 28.Bf6 Qg6 29.g5 Nd3
+30.Nxg7 Nxf2 31.Bh5 Qh7 32.Qxf2 Bg2 33.Bg4 Qe4 34.Nf5 Re5 35.Qh4  1-0
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.24"]
+[Round "6"]
+[White "Illescas Cordoba,M"]
+[Black "Krasenkow,M"]
+[Result "1-0"]
+[WhiteElo "2562"]
+[BlackElo "2655"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Be3 Qa5
+9.Qd2 Nc6 10.Rc1 cxd4 11.cxd4 Qxd2+ 12.Kxd2 O-O 13.d5 Rd8 14.Ke1 Na5 15.Bg5 Bd7
+16.Bd3 Rdc8 17.Ke2 e6 18.Be3 exd5 19.exd5 Rd8 20.Rc5 b6 21.Rc7 Bg4 22.h3 Bxf3+
+23.Kxf3 Be5 24.Rc2 Rab8 25.Ke4 f6 26.f4 Bd6 27.Kf3 Rbc8 28.Rxc8 Rxc8 29.Bd4 Kf7
+30.h4 Bc5 31.Rc1 Rc7 32.Ba6 Bd6 33.Rxc7+ Bxc7 34.g4 h6 35.g5 hxg5 36.hxg5 fxg5
+37.fxg5 Bb8 38.Bc3 Bd6 39.Ke4 Ba3 40.Bd2 Ke7 41.Ke5 Bd6+ 42.Ke4 Ba3 43.Bf4 b5
+44.Bxb5 Nb7 45.Kf3 Nd6 46.Bd3 Kf7 47.Be3 a5 48.Bd2 a4 49.Bc2 Nc4 50.Bf4 Nb6
+51.Ke4 Bc5 52.Be5 Nc4 53.Bf6 Nd6+ 54.Kd3 a3 55.Kc3 Be3 56.Kb4 Bc1 57.Kc5 Bf4
+58.Bd3 Nc8 59.Kc6 Nd6 60.Bd8 Nf5 61.Bxf5 gxf5 62.d6 Bd2 63.d7 Kg6 64.Kd5  1-0
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.24"]
+[Round "6"]
+[White "Dreev,A"]
+[Black "Smirin,I"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2691"]
+[ECO "E81"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Nge2 a6 7.Be3 Nbd7 8.Qd2 c5
+9.dxc5 dxc5 10.Rd1 Qa5 11.Nc1 Qc7 12.Nd3 b6 13.Bf4 e5 14.Bg5 Re8 15.Be2 Nf8
+16.Nd5 Nxd5 17.cxd5 Nd7 18.Rc1 Qd6 19.b4 cxb4 20.Qxb4 Qb8 21.O-O Bf8 22.Qb2 Bb7
+23.a4 a5 24.Nf2 Bc5 25.Bb5 Qd6 26.Bxd7 Qxd7 27.Rxc5 bxc5 28.Ng4 Ra6 29.Nh6+ Kf8
+30.f4 Bxd5 31.exd5 f5 32.Rd1 Qxa4 33.Qc1 Rd6 34.h4 Qb3 35.Qa1 Rxd5 36.Rb1 Qe3+
+37.Kh1 Qd4 38.Qxa5 exf4 39.Rb7 Rd7 40.Rxd7 Qxd7 41.Qxc5+ Re7 42.Ng8 Kxg8
+43.Qxe7  1-0
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.24"]
+[Round "6"]
+[White "Gurevich,M"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteElo "2688"]
+[BlackElo "2533"]
+[ECO "A36"]
+
+1.c4 g6 2.Nc3 Bg7 3.g3 c5 4.Bg2 Nc6 5.e3 e5 6.d3 Nge7 7.Nge2 d6 8.Rb1 O-O
+9.O-O Be6 10.Nd5 Rb8 11.Nec3 a6 12.b3 b5 13.Bb2 Qd7 14.Qd2 f5 15.f4 Bf7 16.Rbe1 Kh8
+17.Kh1 Bg8 18.Ba1 Rbe8 19.Ne2 bxc4 20.bxc4 h6 21.Rb1 Rb8 22.Rbc1 Rbe8 23.Rb1 Rb8
+24.Nxe7 Nxe7 25.Qa5 Nc6 26.Qa4 Rxb1 27.Rxb1 Rb8 28.Rxb8 Nxb8 29.Qb3 Nc6 30.Bc3 Qc7
+31.Bd5 Ne7 32.Bf3 Be6 33.Kg1 Bd7 34.Qb7 Qxb7 35.Bxb7 Bc8 36.Bxc8 Nxc8 37.Ba5 Kg8
+38.fxe5 dxe5 39.Nc1 e4 40.dxe4 Nd6 41.exf5 Nxc4 42.Bd8 gxf5 43.Be7 Nxe3 44.Bxc5 Nc4
+45.Nd3 Kf7 46.Kf2 Ke6 47.Nf4+ Kf7 48.Ke2 Be5 49.Kd3 Nb2+ 50.Kc2 Nc4 51.Kb3 Nd2+
+52.Kb4 Ne4 53.Be3 Bc3+ 54.Kc4 Bd2 55.Bxd2 Nxd2+ 56.Kc5 Ke7 57.Kb6 Kd6 58.Kxa6 Kc6
+59.Ng6 Kc5 60.Nh4 Nf1 61.Nf3 Kb4 62.Kb6 Ka3 63.Kc5 Ne3 64.Kd6 Kxa2 65.Ke5 Kb3
+66.Kf4 Nf1 67.h3 Kc4 68.Nh4 Kd5 69.Nxf5 h5 70.h4  1-0
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.24"]
+[Round "6"]
+[White "Almasi,Z"]
+[Black "Vallejo Pons,F"]
+[Result "1-0"]
+[WhiteElo "2640"]
+[BlackElo "2559"]
+[ECO "C25"]
+
+1.e4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nge2 f5 7.exf5 Bxf5 8.O-O Nge7
+9.Bg5 Qd7 10.b4 a6 11.Bxe7 Nxe7 12.Bxb7 Rb8 13.Bg2 Rxb4 14.Rb1 Rxb1 15.Qxb1 Bh3
+16.Bxh3 Qxh3 17.Qb3 Qd7 18.Nd5 Nxd5 19.Qxd5 c6 20.Qc4 d5 21.Qxa6 O-O 22.Qa4 Qb7
+23.Nc1 Ra8 24.Qg4 Kh8 25.Qe6 Qb6 26.Nb3 Qb5 27.c4 Qb7 28.Nc5 Qb6 29.Nd7 Qc7
+30.Nc5 Bf8 31.Nd7 Bg7 32.Rc1 Rd8 33.Nc5 Qa7 34.Qxc6 dxc4 35.Ne6 Rb8 36.Rxc4 Bh6
+37.Ra4 Qe7 38.Ra8  1-0
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.25"]
+[Round "7"]
+[White "Smirin,I"]
+[Black "Gurevich,M"]
+[Result "1-0"]
+[WhiteElo "2691"]
+[BlackElo "2688"]
+[ECO "C05"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nf6 5.e5 Nfd7 6.c3 Nc6 7.Bd3 g6 8.h4 Qb6
+9.h5 g5 10.Nxg5 cxd4 11.cxd4 Nxd4 12.Ndf3 Nxf3+ 13.Nxf3 h6 14.O-O Qb4 15.Be3 Nc5
+16.Nd4 Nxd3 17.Qxd3 Bd7 18.b3 Bg7 19.f4 O-O 20.Rf3 Rfc8 21.Rd1 Rc7 22.Rg3 Kh8
+23.Kh2 Rg8 24.Bf2 Rgc8 25.Qe2 Rc1 26.Qg4 Qf8 27.Rxc1 Rxc1 28.Rd3 f6 29.Nxe6 Bxe6
+30.Qxe6 fxe5 31.Rxd5 Rc2 32.Bh4 Qxf4+ 33.Bg3 Qf6 34.Qe8+ Qf8 35.Qxf8+ Bxf8
+36.Bxe5+ Kg8 37.a4 Kf7 38.Bf4 Ke6 39.Re5+ Kd7 40.Rf5 Ke8 41.Rf6 Rf2 42.Bg5 Rxf6
+43.Bxf6 Kf7 44.Bd4 Ke6 45.Bxa7 Kf5 46.Kh3 Kg5 47.g4 Kf4 48.Bd4 Ke4 49.Bf6 Kf3
+50.g5 hxg5 51.Bxg5 Ke4 52.Kg4 Kd3 53.Kf5 Kc3 54.Kg6 Kxb3 55.Kf7  1-0
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.25"]
+[Round "7"]
+[White "Krasenkow,M"]
+[Black "Azmaiparashvili,Z"]
+[Result "0-1"]
+[WhiteElo "2655"]
+[BlackElo "2670"]
+[ECO "D43"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.Nc3 dxc4 5.Qa4+ c6 6.Qxc4 b5 7.Qb3 Nbd7 8.Bg5 h6
+9.Bxf6 Nxf6 10.e3 a6 11.Rc1 Bd7 12.e4 c5 13.dxc5 Qa5 14.e5 Ne4 15.a3 Bxc5
+16.Rc2 Rc8 17.Bd3 Nxc3 18.bxc3 Qxa3 19.Qb1 Be7  0-1
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.25"]
+[Round "7"]
+[White "Radjabov,T"]
+[Black "Illescas Cordoba,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2533"]
+[BlackElo "2562"]
+[ECO "E70"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 g6 4.e4 Bg7 5.Bd3 O-O 6.Nge2 Nc6 7.O-O Nd7 8.Be3 e5
+9.d5 Nd4 10.Qd2 c5 11.dxc6 bxc6 12.Rad1  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.25"]
+[Round "7"]
+[White "Vallejo Pons,F"]
+[Black "Dreev,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2559"]
+[BlackElo "2685"]
+[ECO "B67"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7
+9.f3 Qc7 10.Kb1 Be7 11.h4 Na5 12.Nb3 Nxb3 13.axb3 Bc6 14.Ne2 h6 15.Be3 d5
+16.e5 Nd7 17.f4 h5 18.Nd4 Nc5 19.Bd3 g6 20.Qf2 Bd7 21.Rd2  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.25"]
+[Round "7"]
+[White "Sokolov,I"]
+[Black "Almasi,Z"]
+[Result "1/2-1/2"]
+[WhiteElo "2659"]
+[BlackElo "2640"]
+[ECO "E12"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.a3 Bb7 5.Nc3 d5 6.Bg5 Be7 7.Qa4+ Bc6 8.Qb3 dxc4
+9.Qxc4 O-O 10.Bxf6 Bxf6 11.e4 b5 12.Qd3 a6 13.h4 g6 14.h5 Nd7 15.hxg6 hxg6
+16.Qe3 Bg7 17.Ng5 e5 18.dxe5 Nxe5 19.f4 Nc4 20.Bxc4 bxc4 21.Qh3  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.26"]
+[Round "8"]
+[White "Azmaiparashvili,Z"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteElo "2670"]
+[BlackElo "2533"]
+[ECO "B07"]
+
+1.g3 g6 2.d4 Bg7 3.Bg2 d6 4.Nc3 Nf6 5.e4 O-O 6.Nge2 e5 7.h3 exd4 8.Nxd4 Nc6
+9.Be3 Re8 10.O-O Bd7 11.Re1 Nxd4 12.Bxd4 Bc6 13.Qd2 Nd7 14.Rad1 Bxd4 15.Qxd4 Qf6
+16.Qxf6 Nxf6 17.f4 Re7 18.Re2 Rae8 19.Rde1 Kf8 20.Kf2 Re6 21.Bf3 Nd7 22.b4 b6
+23.Re3 Kg7 24.Nd5 Bxd5 25.exd5 Rxe3 26.Rxe3 Rxe3 27.Kxe3 Kf6 28.h4 Ke7 29.Kd4 h5
+30.Kc4 f5 31.Kb5 Nb8 32.c3 Kd7 33.Bd1 Kc8 34.c4 a6+ 35.Ka4 Nd7 36.Kb3 Kb7
+37.Be2 Nf6 38.Bf3 Ka7 39.Kc3 Kb7 40.Kd4 Ka7 41.Be2 Kb7 42.Bd3 Ka7 43.Bc2 Kb7
+44.a4 Ka7 45.a5 bxa5 46.bxa5 Kb7 47.c5 Ka7 48.Bd3 Kb7 49.c6+ Ka7 50.Be2 Ng4
+51.Bxg4 hxg4  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.26"]
+[Round "8"]
+[White "Illescas Cordoba,M"]
+[Black "Smirin,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2562"]
+[BlackElo "2691"]
+[ECO "E92"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.Be3 exd4 8.Nxd4 Re8
+9.f3 c6 10.Bf2 d5 11.exd5 cxd5 12.c5 Nc6 13.O-O Nh5 14.Qd2 Be5 15.g3 Bh3
+16.Rfd1 Nf6 17.Bb5 Rc8 18.Re1 h5 19.Bxc6 bxc6 20.Re2 Bb8 21.Rae1 Rxe2 22.Ncxe2 Nh7
+23.Nf4 Bd7 24.Kg2  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.26"]
+[Round "8"]
+[White "Gurevich,M"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2688"]
+[BlackElo "2559"]
+[ECO "D31"]
+
+1.c4 e6 2.Nc3 d5 3.d4 c6 4.e4 dxe4 5.Nxe4 Bb4+ 6.Bd2 Qxd4 7.Bxb4 Qxe4+ 8.Be2 Na6
+9.Bc3 f6 10.Qd6 Ne7 11.O-O-O e5 12.Bh5+ Ng6 13.Qd8+ Kf7 14.Rd7+ Ke6 15.Rd6+ Kf7
+16.Rd7+ Ke6 17.Rd6+ Kf7  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.26"]
+[Round "8"]
+[White "Almasi,Z"]
+[Black "Dreev,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2640"]
+[BlackElo "2685"]
+[ECO "B67"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7
+9.f4 b5 10.Bxf6 gxf6 11.Kb1 b4 12.Nce2 Qb6 13.Nxc6 Bxc6 14.Ng3 h5 15.h4  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.26"]
+[Round "8"]
+[White "Sokolov,I"]
+[Black "Krasenkow,M"]
+[Result "1-0"]
+[WhiteElo "2659"]
+[BlackElo "2655"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Be3 Qa5
+9.Qd2 Nc6 10.Rc1 cxd4 11.cxd4 Qxd2+ 12.Kxd2 O-O 13.d5 Rd8 14.Ke1 Na5 15.Bg5 Bd7
+16.Bd3 Rdc8 17.Ke2 e6 18.Be3 exd5 19.exd5 Rd8 20.Rc5 b6 21.Rc7 Bg4 22.h3 Bxf3+
+23.gxf3 Be5 24.Rc2 f5 25.f4 Bf6 26.Rd1 Rd6 27.Ba6 Kg7 28.Rc7+ Kh6 29.Bc1 Re8+
+30.Kf3 Re7 31.Rxe7 Bxe7 32.Ba3 Rxd5 33.Rxd5 Bxa3 34.Rd7 Nc6 35.Bb5 Ne7 36.Rxa7 Bc5
+37.a4 Kg7 38.Rc7 Bd6 39.Rd7 Bc5 40.Ke2 Kh6 41.Kd3 Ng8 42.Rf7 Bxf2 43.Bc4 Bg1
+44.Ke2  1-0
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.27"]
+[Round "9"]
+[White "Smirin,I"]
+[Black "Azmaiparashvili,Z"]
+[Result "1/2-1/2"]
+[WhiteElo "2691"]
+[BlackElo "2670"]
+[ECO "C71"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c4 Nf6 6.d4 exd4 7.Nxd4 Bd7 8.Nc3 Be7
+9.Nf5 O-O 10.O-O Be6 11.Nxe7+ Nxe7 12.Bb3 Nd7 13.Be3 Nc5 14.Bxc5 dxc5 15.Qh5 f5
+16.Rad1 Qe8 17.Qxe8 Rfxe8 18.Rfe1 Kf8 19.Nd5 Bxd5 20.cxd5 fxe4 21.Rxe4 Ng6
+22.Bc2 Rad8 23.f4 Rd6 24.Rxe8+ Kxe8 25.g3 Ne7 26.Bxh7 g6 27.h4 c6 28.Re1 cxd5
+29.f5 gxf5 30.Bxf5 Kf7 31.Rf1 Rf6 32.Bc2 c4 33.g4 d4 34.Be4 b5 35.g5 Rxf1+
+36.Kxf1  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.27"]
+[Round "9"]
+[White "Vallejo Pons,F"]
+[Black "Illescas Cordoba,M"]
+[Result "1-0"]
+[WhiteElo "2559"]
+[BlackElo "2562"]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.O-O Bd7 6.c3 g6 7.Re1 Bg7 8.Nbd2 O-O
+9.Nf1 h6 10.Bd2 Nh5 11.Ba4 a6 12.h3 b5 13.Bc2 Qf6 14.Ne3 Nf4 15.h4 Ne7 16.g3 Nh3+
+17.Kg2 g5 18.hxg5 hxg5 19.Qe2 Bh6 20.Nh2 Qg6 21.Rh1 g4 22.Nexg4 Bxd2 23.Qxd2 f5
+24.exf5 Nxf5 25.Kxh3 Nh6 26.Bd1 Rf7 27.Kg2 Bc6+ 28.Kg1 Nf5 29.Bb3 Kg7 30.Bxf7 Kxf7
+31.d4 Rh8 32.d5 Bb7 33.Rd1 Qh5 34.Qe2 Ke7 35.Rd2 c6 36.Nxe5 Qxe2 37.Rxe2 dxe5
+38.Rxe5+  1-0
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.27"]
+[Round "9"]
+[White "Radjabov,T"]
+[Black "Sokolov,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2533"]
+[BlackElo "2659"]
+[ECO "D51"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Nbd7 5.Bg5 h6 6.Bh4 dxc4 7.e3 Nb6 8.Ne5 Be7
+9.Nxc4 O-O 10.Nxb6 axb6 11.Bc4 c6 12.O-O b5 13.Bb3 b4 14.Ne2 b6 15.Qc2 Bb7
+16.Rfd1 Qe8 17.Rac1 Rc8 18.Bxf6 Bxf6 19.Qe4 Qe7 20.Bc2 g6 21.Qf3 c5 22.Be4 Ba6
+23.b3 Bxe2 24.Qxe2 cxd4 25.Rxc8 Rxc8 26.exd4 Rd8 27.Qe3 Bg5 28.Qe1 Kg7 29.Bf3 Qd6
+30.Qe5+ Qxe5 31.dxe5 Rc8 32.Be4 Bf4 33.g3 Bxe5 34.Kg2 g5 35.g4 Rc7 36.Bd3 Kf6
+37.Bb1 Ke7 38.h3 Rc8 39.Be4 Bd6 40.Bb1 h5 41.Be4 hxg4 42.hxg4 Bc5 43.Bb1 Rh8
+44.Be4 Kf6 45.Bd3 Ke5 46.Bb1 Ra8 47.Re1+ Kf6 48.Rd1 Ke7 49.Rd2 Rh8 50.Rd1 Rh4
+51.f3 Rh8 52.Be4 Be3 53.Re1 Bf4 54.Re2 Rh2+ 55.Kf1 Rh1+ 56.Kg2 Ra1 57.Rc2 Bd6
+58.Re2 Bc5 59.Rd2 Rg1+ 60.Kh2 Re1 61.Bc6 Be3 62.Rc2 f5 63.Bb5 Kf6 64.Re2 Bf4+
+65.Kg2 Rd1 66.Bc4 Rd6 67.Re1 Be5 68.Re2 Rd4 69.Rf2 Ke7 70.Re2 Kd6 71.gxf5 exf5
+72.Re1 Rd2+ 73.Re2 Rd1 74.Re3 Ra1 75.Re2 g4 76.fxg4 fxg4 77.Bf7 Bd4 78.Kh2 Rg1
+79.Rg2 Rf1 80.Rd2 Ke5 81.Bh5 Be3 82.Re2 Kf4 83.Bxg4 Kxg4 84.Rxe3 Rf2+ 85.Kg1 Rxa2
+86.Re6 b5 87.Re5 Ra5 88.Kf2 Kf4 89.Re8 Ra3 90.Ke2 Rxb3 91.Kd2 Rc3  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.27"]
+[Round "9"]
+[White "Dreev,A"]
+[Black "Gurevich,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2688"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Ba6 5.Qb3 Be7 6.Nc3 d5 7.cxd5 Nxd5 8.Bd2 O-O
+9.Rd1 Nxc3 10.Bxc3 Nd7 11.g3 Bb7 12.Bg2 Be4 13.O-O Qc8 14.Ne1 Qb7 15.Bxe4 Qxe4
+16.Qc2 Qb7 17.Nd3 Rfd8 18.Rc1 Rac8 19.Rfd1 h6 20.Bb4 Bf6 21.Bc3 Nf8 22.e3 Nd7
+23.Qe2 Qe4 24.b4 Be7 25.Bb2 Bd6 26.Rc2 a5 27.b5 c5 28.Rdc1 Qb7 29.dxc5 Nxc5
+30.Nxc5 Rxc5 31.a4 Rxc2 32.Qxc2 Bc5 33.Rd1 Rd5 34.Qb3 Rxd1+ 35.Qxd1 Qe4 36.h3 e5
+37.Bc3 Kh7 38.Qg4 Qb1+ 39.Kg2 f6 40.e4 Qa2 41.Qf5+ Kg8  1/2-1/2
+
+[Event "GMA"]
+[Site "Dos Hermanas ESP"]
+[Date "2001.04.27"]
+[Round "9"]
+[White "Krasenkow,M"]
+[Black "Almasi,Z"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2640"]
+[ECO "D12"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.Bd3 Bxd3 6.Qxd3 e6 7.Nc3 Nbd7 8.O-O Be7
+9.e4 dxe4 10.Nxe4 Nxe4 11.Qxe4  1/2-1/2

@@ -1,0 +1,106 @@
+[Event "cm4"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "01"]
+[White "Yudasin L"]
+[Black "Kramnik V"]
+[Result "0-1"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5
+8.exd5 Ne7 9.a4 Nf5 10.c3 g6 11.Be2 Bg7 12.O-O O-O 13.Qb3 Re8 14.Qb4 e4
+15.Bf4 Be5 16.Bxe5 Rxe5 17.Rad1 Nh4 18.Kh1 Qg5 19.Rg1 Bg4 20.Bxg4 Qxg4
+21.Rde1 Qf4 22.Qxd6 Nf5 23.Qc7 e3 24.Rxe3 Qxe3 25.Nd6 Re7 26.Nxf5 gxf5
+27.Qd6 Qe5 28.Qb4 Rae8 29.Qh4 f6 30.h3 Qxd5 0-1
+
+[Event "cm4"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "02"]
+[White "Kramnik V"]
+[Black "Yudasin L"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Qa4+ Bd7 6.Qh4 Nxc3 7.dxc3 Nc6
+8.e4 e5 9.Qxd8+ Rxd8 10.Bc4 f6 11.Be3 Na5 12.Be2 Be6 13.Nd2 b6
+14.b4 Nb7 15.f3 h5 16.a3 Bh6 17.Bxh6 1/2-1/2
+
+[Event "cm4"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "03"]
+[White "Yudasin L"]
+[Black "Kramnik V"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5
+8.exd5 Ne7 9.c3 Nf5 10.a4 g6 11.Bd3 Bg7 12.O-O O-O 13.Qb3 Re8 14.Re1 b6
+15.a5 a6 16.axb6 Rb8 17.Na3 Rxb6 18.Qa4 Ne7 19.Nc4 Rb5 20.Na5 Rb6
+21.Qa2 Bf5 22.Bf1 Bc8 23.Bd2 Nf5 24.b4 Bh6 25.Bxh6 Nxh6 26.Qd2 Nf5
+27.Nc4 Rb8 28.Ne3 Nxe3 29.Qxe3 Qb6 30.Ra5 Qxe3 31.fxe3 Re7 32.Rea1 Rc7
+33.R1a3 Bb7 34.Bxa6 Bxa6 35.Rxa6 Rbc8 36.Rxd6 Rxc3 37.Rxc3 Rxc3 38.Rc6 Rxe3
+39.d6 Kg7 40.b5 Kf6 41.d7+ Ke7 42.Rd6 Kd8 43.Rf6 Kxd7 44.Rxf7+ Ke6
+45.Rxh7 Rb3 46.Rb7 Rb2 47.b6 e4 48.Rb8 e3 49.Kf1 Kf6 50.h4 Kg7
+51.g4 Kh7 52.Rb7+ Kg8 53.Ke1 Kh8 54.h5 gxh5 55.gxh5 e2 56.h6 Kg8
+57.Rg7+ Kh8 58.b7 Rb1+ 59.Kxe2 Rb2+ 60.Kd3 Rb3+ 61.Kc4 Rb4+
+62.Kxb4 1/2-1/2
+
+[Event "cm4"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "04"]
+[White "Kramnik V"]
+[Black "Yudasin L"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Qa4+ Bd7 6.Qh4 Nxc3 7.dxc3 Nc6
+8.e4 e5 9.Bg5 Be7 10.Bc4 h6 11.Bxe7 Qxe7 12.O-O-O Qxh4 13.Nxh4 Rd8
+14.Bd5 Ke7 15.Nf3 Kf6 16.Rd3 Be8 17.Rhd1 b6 18.b4 Nb8 19.Kb2 Bb5
+20.R3d2 Ba4 21.Bb3 Rxd2+ 22.Nxd2 Bc6 23.f3 Rd8 24.a4 Ke7 25.Nc4 1/2-1/2
+
+[Event "cm4"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "05"]
+[White "Yudasin L"]
+[Black "Kramnik V"]
+[Result "0-1"]
+[ECO "B45"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Nxc6 bxc6 7.e5 Nd5
+8.Ne4 Qc7 9.f4 Qa5+ 10.Bd2 Qb6 11.Bd3 Be7 12.Rb1 Ba6 13.Qe2 Bxd3 14.Qxd3 f5
+15.exf6 gxf6 16.f5 O-O-O 17.a3 Rhe8 18.Kf1 exf5 19.Ng3 f4 20.Nf5 Bf8
+21.b4 Ne3+ 22.Bxe3 fxe3 23.Ke2 d5 24.Rhf1 Re4 25.c3 Bd6 26.Rf3 Bb8
+27.g3 Rde8 28.Rbf1 a5 29.Ng7 R8e7 30.Nh5 axb4 31.cxb4 Rd4 32.Qf5+ Kb7
+33.Qxf6 Qa6+ 34.Ke1 Ree4 35.Qg7+ Ka8 36.Rf8 Rd1+ 37.Kxd1 e2+ 0-1
+
+[Event "cm4"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "06"]
+[White "Kramnik V"]
+[Black "Yudasin L"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Qa4+ Bd7 6.Qh4 Nxc3 7.dxc3 Nc6
+8.e4 e5 9.Bg5 Be7 10.Bc4 h6 11.Bxe7 1/2-1/2
+
+[Event "cm4"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "07"]
+[White "Yudasin L"]
+[Black "Kramnik V"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Nd5 Nxd5
+8.exd5 Nb8 9.c4 Be7 10.Be2 a6 11.Nc3 O-O 12.O-O f5 13.f4 Bf6 14.g3 Nd7
+15.Qc2 exf4 16.gxf4 Bd4+ 17.Kh1 Nc5 18.Bf3 Bd7 19.Rb1 b5 20.b4 Ne4
+21.Nxe4 fxe4 22.Bxe4 bxc4 23.Qxc4 Qf6 24.Rd1 Rae8 25.Qxd4 Rxe4 26.Qxe4 Bf5
+27.Qd4 Bxb1 28.Qxf6 gxf6 29.a3 Be4+ 30.Kg1 Rc8 31.Bb2 Kf7 1/2-1/2
+

@@ -1,0 +1,982 @@
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Adams, Michael"]
+[Black "Jussupow, Artur"]
+[Result "1/2-1/2"]
+[WhiteElo "2505"]
+[BlackElo "2610"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Nc5 10.c3 d4 11.Bxe6 Nxe6 12.cxd4 Ncxd4 13.a4 Be7 14.Nxd4 Nxd4 15.Ne4 O-O
+16.axb5 Nxb5 17.Be3 Qc8 18.Qc2 Qe6 19.f4 Rad8 20.Ra4 Rd7 21.Rfa1 Qd5 22.h3 f6
+23.exf6 Bxf6 24.Nxf6+ Rxf6 25.Rxa6 Rxa6 26.Rxa6 Nd4 27.Qa4 Rd8 28.Bxd4 Qxd4+
+29.Qxd4 Rxd4 30.Rc6 Rd2 31.b3 Rd3 32.b4 Rd4 33.b5 Rd5 34.Rxc7 Rxb5 35.Kf2 g5
+36.fxg5  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Adams, Michael"]
+[Black "Nikolic, Predrag"]
+[Result "1/2-1/2"]
+[WhiteElo "2505"]
+[BlackElo "2600"]
+[ECO "C07"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nf6 5.exd5 Nxd5 6.Nb3 Nd7 7.Be2 Be7 8.O-O O-O
+9.c4 N5f6 10.Bf4 b6 11.Qd2  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Adams, Michael"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[WhiteElo "2505"]
+[BlackElo "2615"]
+[ECO "B06"]
+
+1.e4 d6 2.d4 g6 3.Nc3 Bg7 4.Be3 a6 5.Qd2 b5 6.h4 h5 7.f3 Nf6 8.O-O-O Nbd7
+9.Nh3 Nb6 10.Bd3 b4 11.Ne2 a5 12.Nf2 c6 13.Kb1 Qc7 14.e5 Nfd5 15.exd6 exd6
+16.Bg5 Be6 17.Ne4 Kd7 18.Bf4 Nxf4 19.Nxf4 Nd5 20.Nxe6 fxe6 21.Ng5 Bxd4 22.Bxg6 Be3
+23.Qd3 Bxg5 24.hxg5 Nf4 25.Qe4 d5 26.g3 Nxg6 27.Qxg6 Qxg3 28.Qf7+ Kd6 29.Rde1 Rae8
+30.g6 Rhf8 31.Rxe6+ Rxe6 32.Qxf8+ Kd7 33.Qf7+ Kd6 34.Qf8+  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Adams, Michael"]
+[Black "Spraggett, Kevin"]
+[Result "1-0"]
+[WhiteElo "2505"]
+[BlackElo "2585"]
+[ECO "B16"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.c3 Bf5 7.Nf3 e6 8.g3 Nd7
+9.Bg2 Bg7 10.O-O O-O 11.Nh4 Bg6 12.a4 a5 13.Bf4 Nb6 14.Qb3 Bd3 15.Rfd1 Bc4
+16.Qc2 Nd5 17.b3 Nxf4 18.bxc4 Nxg2 19.Nxg2 Qc7 20.Rab1 b6 21.d5 cxd5 22.cxd5 Rac8
+23.dxe6 fxe6 24.Nf4 Rfe8 25.Qb3 Bh6 26.Nxe6 Qxc3 27.Qxc3 Rxc3 28.Rxb6 Rc4
+29.Rd7 Rc1+ 30.Kg2 Rc2 31.Kf3 Ra2 32.Nc7 Ree2 33.Rb8+ Bf8 34.Kg4 Rxf2 35.h4 Rxa4+
+36.Kh3 Raa2 37.Ne6  1-0
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Chandler, Murray G"]
+[Black "Adams, Michael"]
+[Result "0-1"]
+[WhiteElo "2585"]
+[BlackElo "2505"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Nf6 3.c4 c6 4.dxc6 Nxc6 5.Nf3 e5 6.d3 e4 7.dxe4 Qxd1+ 8.Kxd1 Nxe4
+9.Be3 Bf5 10.Nh4 O-O-O+ 11.Kc1 Be6 12.Nc3 Nxc3 13.bxc3 b6 14.Nf3 Bc5 15.Bxc5 bxc5
+16.Rb1 Rhe8 17.Be2 Bh3 18.gxh3 Rxe2 19.Rb2 Rxb2 20.Kxb2 Rd3 21.Ng5 Rd2+ 22.Ka3 Rxf2
+23.Rd1 h6 24.Ne4 Rxh2 25.Rg1 Re2 26.Nxc5 g6 27.Rg3 Ne5 28.Kb3 Kc7 29.Na6+ Kb6
+30.Nb4 Re4 31.Rg1 a5 32.Nd5+ Kc5 33.Rd1 Nxc4 34.Nf6 Rf4 35.Nd7+ Kc6 36.a4 g5
+37.Nb8+ Kc7 38.Nd7 Nd6 39.Ne5 Rf5 40.Ng4 h5 41.Ne3 Rf3 42.Nd5+ Kc6 43.h4 gxh4
+44.Ne7+ Kd7 45.Nc8 Kxc8 46.Rxd6 h3 47.Rd4 h2 48.Rh4 Rf2 49.Rxh5 f5 50.Kc4 Rd2
+51.Kc5 f4 52.Kc6 Kd8 53.c4 f3 54.c5 Rg2 55.Kb6 Rb2+ 56.Kc6 f2  0-1
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Chandler, Murray G"]
+[Black "Dolmatov, Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2615"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 Bxf6 7.Nf3 O-O 8.Qd2 b6
+9.O-O-O Bb7 10.Bd3 Nd7 11.h4 Be7 12.Rh3 Nf6 13.Nxf6+ Bxf6 14.Ng5 h6 15.f4 c5
+16.Qe2 cxd4 17.Bh7+ Kh8 18.Be4 Bxe4 19.Qxe4 g6 20.Nf3 h5 21.Ne5 Qe7 22.Rxd4 Rad8
+23.Rhd3 Rxd4 24.Rxd4 Bxe5 25.Qxe5+ Kg8 26.g3 Rd8 27.Rxd8+ Qxd8 28.b3 Qe7
+29.Kb2 f6  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Chandler, Murray G"]
+[Black "Gulko, Boris F"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2610"]
+[ECO "C64"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 Nf6 5.d4 Bb6 6.Bxc6 dxc6 7.Nxe5 O-O 8.Bg5 Qe8
+9.Qf3 Nxe4 10.Qxe4 f6 11.Bf4 fxe5 12.Bxe5 Bf5 13.Qe3 Qe7 14.Nd2 c5 15.O-O cxd4
+16.cxd4 c5 17.Nc4 cxd4 18.Bxd4 Qxe3 19.Bxe3 Bc7 20.Rfd1 Be6 21.Nd6 Rfd8 22.Nxb7 Rxd1+
+23.Rxd1 Bxa2 24.Rd7 Be5 25.b4 a6 26.f4 Bc3 27.Bd4 Bxd4+ 28.Rxd4 Rc8 29.Rd2 Rc1+
+30.Kf2 Bc4 31.Nd6 Kf8 32.Ke3 Be6 33.f5 Bd7 34.g4 Ke7 35.Kf4 h6 36.Ke5 Rg1
+37.Rd4 Rh1 38.Rd2 Rb1 39.Rd4 Rh1 40.Rd2 Rb1 41.Rd4  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Chandler, Murray G"]
+[Black "Jussupow, Artur"]
+[Result "1-0"]
+[WhiteElo "2585"]
+[BlackElo "2610"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Nc5 10.c3 d4 11.Bxe6 Nxe6 12.cxd4 Ncxd4 13.a4 Be7 14.Nxd4 Nxd4 15.Ne4 O-O
+16.axb5 Nxb5 17.Be3 Qc8 18.Qd5 Rd8 19.Qc6 Qf5 20.f4 h5 21.h3 Rab8 22.Rfd1 Bh4
+23.Qc2 Kh8 24.Qc4 Qg6 25.Kh1 Be7 26.Bc5 Bh4 27.Qe2 Rxd1+ 28.Rxd1 Re8 29.Qf3 Qf5
+30.Bg1 Kg8 31.Nc5 g6 32.Qc6 Qc8 33.e6 Rxe6 34.Nxe6 Qxe6 35.Qxe6 fxe6 36.Ra1 Bg3
+37.Rxa6 Kf7 38.Bh2 Bf2 39.Rc6 Ke7 40.Bg1 Bg3 41.Rc5 c6 42.Rxc6 Bxf4 43.Rb6 Nc7
+44.Bh2 g5 45.Bxf4 gxf4 46.Kg1 Nd5 47.Rb7+ Kf6 48.Kf2 Ke5 49.Kf3 Kd4 50.Ra7 Ke5
+51.Ra4 Kf5 52.Rd4 Ke5 53.Rc4 Kf5 54.b4 e5 55.b5 Nb6 56.Rc6  1-0
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Chandler, Murray G"]
+[Black "Nikolic, Predrag"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2600"]
+[ECO "C19"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3 b6 8.a4 Ba6
+9.Bb5+ Bxb5 10.axb5 a5 11.dxc5 bxc5 12.c4 Nd7 13.cxd5 exd5 14.O-O O-O 15.Re1 Nb6
+16.e6 f6 17.Ba3 Rc8 18.Nd2 a4 19.Rc1 Re8 20.c4 Nf5 21.Qh5 g6 22.Qg4 Qd6 23.h4 Rxe6
+24.Rxe6 Qxe6 25.cxd5 Qxd5 26.Ne4 Kg7 27.Bb2 Nd4 28.Nxc5 Rxc5 29.Rxc5 Qxc5
+30.Bxd4 Qxb5 31.Qe6 Nd5 32.Bxf6+ Nxf6 33.Qe7+ Kg8 34.Qe6+ Kg7 35.Qe7+ Kg8
+36.Qe6+ Kg7  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Chandler, Murray G"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2615"]
+[ECO "C59"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6 7.dxc6 bxc6 8.Be2 h6
+9.Nh3 Bc5 10.d3 O-O 11.Nc3 Nb7 12.O-O Nd5 13.Bf3 Bb6 14.Qe2 Re8 15.Re1 Nc5
+16.Nf4 Nb4 17.Nh5 Ne6 18.Be3 Bd7 19.Ne4 Nd5 20.Nd6 Bxe3 21.fxe3 Rf8 22.Qf2 Ng5
+23.Nc4 Qe7 24.d4 f6 25.h4 Nxf3+ 26.Qxf3 Rae8 27.c3 Be6 28.e4 Qd7 29.exd5 Bxd5
+30.Qf1 Qg4 31.Nd6 Rd8 32.Nxg7 Kxg7 33.Nf5+ Kh8 34.Qf2 exd4 35.cxd4 Rde8 36.Ne3 Qxd4
+37.Rad1 Qb6 38.Qf4 Re7 39.Rd4 Rg7 40.Nxd5 cxd5 41.Re2 f5 42.Kh2 Qf6 43.Qe5 Qg6
+44.Rxd5 Kh7 45.Kg1 f4 46.Rd6 Qb1+ 47.Re1 Qc2 48.Re2 Qb1+ 49.Re1 Qc2  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Chandler, Murray G"]
+[Black "Spraggett, Kevin"]
+[Result "0-1"]
+[WhiteElo "2585"]
+[BlackElo "2585"]
+[ECO "B32"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.Be2 a6 7.N5c3 Nf6 8.Be3 Be6
+9.O-O Rc8 10.Bf3 h6 11.Qd2 Ne7 12.Rd1 Ng6 13.a4 Be7 14.a5 O-O 15.g3 Kh7 16.Na4 Rc6
+17.Nbc3 Ng4 18.Nb6 Bg5 19.Bxg5 hxg5 20.Qe2 Nf6 21.Ncd5 g4 22.Bg2 Ne8 23.Qd2 Rh8
+24.Ra3 Kg8 25.c4 Nf8 26.Rd3 Rh6 27.Ne3 Nh7 28.Nf5 Bxf5 29.exf5 Ng5 30.Qe3 Qe7
+31.b4 Nc7 32.Kf1 Qf6 33.c5 dxc5 34.Nd7 Qxf5 35.Bxc6 bxc6 36.Qxe5 Qxe5 37.Nxe5 cxb4
+38.Nxg4 Re6 39.Ne3 Nb5 40.Rd8+ Kh7 41.Rc8 Ne4 42.Rc1 Nbc3 43.Nf5 Rf6 44.g4 g6
+45.Nd4 Rxf2+ 46.Kg1 Rd2 47.Nf3 Ne2+ 48.Kf1 Nxc1 49.Nxd2 Nxd2+ 50.Ke1 Ndb3
+51.Rxc6 Nd3+ 52.Kd1 Nf2+ 53.Ke1 Nd3+ 54.Kd1 Nb2+ 55.Ke1 Nxa5 56.Rxa6 Nbc4
+57.Ra8 f5 58.Kf2 b3 59.Rb8 b2 60.h4 f4 61.Rb5 Kh6 62.Kg2 g5 63.Kh3 Nc6 64.hxg5+ Kg6
+65.Kh4 Nd4 66.Rb8 Nf3+ 67.Kh3 Nfd2  0-1
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Dolmatov, Sergey"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[WhiteElo "2615"]
+[BlackElo "2505"]
+[ECO "B14"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.Qb3 Bg7 7.cxd5 O-O 8.Be2 Nbd7
+9.Bf3 Nb6 10.Nge2 Bf5 11.O-O a5 12.Bf4 Bd3 13.d6 exd6 14.Qd1 Ba6 15.b3 h6
+16.h3 Nh7 17.g3 Rc8 18.Bg2 Re8 19.Re1 Nf6 20.Rc1 Qd7 21.Qd2 Kh7 22.Be3 d5
+23.Nf4 Rc7 24.Nd3 Bxd3 25.Qxd3 Rcc8 26.a4 Bf8 27.Bd2 Rxe1+ 28.Rxe1 Qd8 29.Ne2 Na8
+30.Nf4 b6 31.Qb5 Rc2 32.Be3 Bb4 33.Rc1 Rxc1+ 34.Bxc1 Kg7 35.Be3 Bd6 36.Nxd5 Nc7
+37.Nxc7 Qxc7 38.Qc6 Qe7 39.Qxb6 Bxg3 40.Qxa5 Bd6 41.Qb5 g5 42.a5  1-0
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Dolmatov, Sergey"]
+[Black "Chandler, Murray G"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2585"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Bxf6 gxf6 10.Nd5 Bg7 11.Bd3 Ne7 12.Nxe7 Qxe7 13.c3 f5 14.Nc2 O-O 15.Qh5 f4
+16.g3 f5 17.O-O-O Bb7 18.Rhe1 fxg3 19.hxg3 d5 20.exd5 Qf6 21.g4 e4 22.Bf1 Rac8
+23.gxf5 b4 24.Rxe4 bxc3 25.b3 Rcd8 26.Bc4 Kh8 27.Re6 Qxf5 28.Qxf5 Rxf5 29.d6 Bf6  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Dolmatov, Sergey"]
+[Black "Gulko, Boris F"]
+[Result "1-0"]
+[WhiteElo "2615"]
+[BlackElo "2610"]
+[ECO "B00"]
+
+1.e4 Nc6 2.d4 e5 3.dxe5 Nxe5 4.Nc3 Bc5 5.Bf4 Ng6 6.Bg3 d6 7.h4 h5 8.Qd2 Nf6
+9.O-O-O Qe7 10.Nd5 Nxd5 11.exd5 O-O 12.Be2 Bg4 13.Bxg4 hxg4 14.h5 Ne5 15.Bh4 Qd7
+16.h6 Qf5 17.hxg7 Kxg7 18.Ne2 Rh8 19.Ng3 Qg6 20.Qf4 f6 21.Ne4 Raf8 22.Nxc5 dxc5
+23.Bg3 Rxh1 24.Rxh1 Rd8 25.Qa4 Rxd5 26.Qxa7 Qg5+ 27.Kb1 Qd2 28.a3 Qe2 29.Qxb7 Rd1+
+30.Rxd1 Qxd1+ 31.Ka2 Nc4 32.Bxc7 Qxc2 33.Be5+ Kg6 34.Bc3 Nd6 35.Qd7 Ne4 36.Qxg4+ Kf7
+37.Qf3 Nxc3+ 38.Qxc3 Qxf2 39.Qc4+ Ke7 40.g4 Kd6 41.a4 Qd2 42.Qa6+ Ke5 43.Qb5 Qd5+
+44.Qb3 Qd4 45.a5 Qxg4 46.a6 Qe4 47.a7 Kf5 48.Qb5 Qd5+ 49.Ka3 Kg5 50.b4 f5
+51.Qxc5 Qd3+ 52.Ka4 Qa6+ 53.Qa5 Qc6+ 54.Qb5 Qf6 55.Ka5 Qd8+ 56.Qb6 Qd5+ 57.Qc5 Qa2+
+58.Kb6 Qe6+ 59.Qc6 Qe3+ 60.Kb7 Qe7+ 61.Ka6 Qe2+ 62.b5 Qa2+ 63.Kb6  1-0
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Dolmatov, Sergey"]
+[Black "Jussupow, Artur"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2610"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Bd6 6.O-O O-O 7.c4 Bxe5 8.dxe5 Nc6
+9.cxd5 Qxd5 10.Qc2 Nb4 11.Bxe4 Nxc2 12.Bxd5 Bf5 13.g4 Bxg4 14.Be4 Nxa1 15.Bf4 f5
+16.Bd5+ Kh8 17.Rc1 c6 18.Bg2 Rfd8 19.f3 Bh5 20.Na3 Rd4 21.Be3 Rb4 22.Nc4 Ra4
+23.Na3 Rb4 24.Nc4  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Dolmatov, Sergey"]
+[Black "Nikolic, Predrag"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2600"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Be6 10.d4 Bxb3 11.axb3 Re8 12.d5 Nb8 13.c4 c6 14.dxc6 Nxc6 15.Bg5 bxc4
+16.bxc4 Nd7 17.Be3 Qb8 18.Re2 Rc8 19.Nc3 Nb4 20.b3 Rc7 21.Ne1 Rb7 22.Rb1 Nf8
+23.Rd2 Ne6 24.Nc2 Nc6 25.b4 Nxb4 26.Rxb4 Rxb4 27.Nxb4 Qxb4 28.Nd5 Qb7 29.Nxe7+ Qxe7
+30.Rxd6 a5 31.Qd5 Nc7 32.Qc6 Ra6 33.Bb6 Ne8 34.Qc8 Qxd6 35.Qxa6 Qc6 36.Qxa5 Qxc4
+37.Qxe5 Qc1+ 38.Kh2 Qc6 39.Be3 f6 40.Qf5 g6 41.Qg4 Kf7 42.f3 h5 43.Qg3 Ng7
+44.Qb8 Ne6 45.Kg1 Qc3 46.Qa7+ Kg8 47.Qb6 Kf7 48.Qa7+ Kg8 49.Kh1 h4 50.Qb8+  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Adams, Michael"]
+[Black "Chandler, Murray G"]
+[Result "0-1"]
+[WhiteElo "2505"]
+[BlackElo "2585"]
+[ECO "B45"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.e5 Nd5 8.Ne4 Qc7
+9.f4 Qb6 10.Bd3 Ba6 11.Bxa6 Qxa6 12.Qe2 Qxe2+ 13.Kxe2 f5 14.Ng5 Rb8 15.a3 h6
+16.Nf3 g5 17.fxg5 hxg5 18.Nxg5 Rh4 19.g3 Rg4 20.Nf3 Re4+ 21.Kd3 c5 22.b3 d6
+23.Ng5 Rd4+ 24.Ke2 Kd7 25.exd6 c4 26.b4 Rg4 27.Kf2 Bxd6 28.Nf7 Bc7 29.Re1 Rf8
+30.Ne5+ Bxe5 31.Rxe5 Rh8 32.Kg2 Kd6 33.Re2 Rd4 34.Bg5 e5 35.Rae1 e4 36.h4 Ke5
+37.Rf2 c3 38.Ref1 Rf8 39.h5 e3 40.Re2 f4 41.Bxf4+ Nxf4+ 42.gxf4+ Ke4 43.Rfe1 Rd2
+44.Kg1 Rg8+ 45.Kf1 Rg3 46.h6 Rh3  0-1
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Adams, Michael"]
+[Black "Gulko, Boris F"]
+[Result "1/2-1/2"]
+[WhiteElo "2505"]
+[BlackElo "2610"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 Nf6 5.O-O O-O 6.d4 Bb6 7.Bg5 h6 8.Bh4 d6
+9.Bxc6 bxc6 10.dxe5 dxe5 11.Nbd2 Bg4 12.Qe2 g5 13.Bg3 Nd7 14.h3 Bh5 15.Qc4 Kh7
+16.Qxc6 Nc5 17.Bxe5 f5 18.Nd4 Qe8 19.Nc4 fxe4 20.Qxe8 Rfxe8 21.Bg3 Nd3 22.Nxb6 cxb6
+23.b3 a6 24.a4 Red8 25.Nc2 Rac8 26.c4 Nc5 27.Rfb1 Rd3 28.a5 bxa5 29.Rxa5 Rxb3
+30.Rxb3 Nxb3 31.Rxa6 Rxc4 32.Ne3 Rc1+ 33.Kh2 Nd2 34.Be5 Nf1+ 35.Nxf1 Rxf1
+36.g4 Bf7 37.Kg2 Rd1 38.Ra7  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Dolmatov, Sergey"]
+[Black "Speelman, Jonathan S"]
+[Result "1-0"]
+[WhiteElo "2615"]
+[BlackElo "2615"]
+[ECO "E54"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.Bd3 dxc4 8.Bxc4 O-O
+9.O-O Nbd7 10.Bg5 Bxc3 11.bxc3 Qc7 12.Bd3 Qxc3 13.Rc1 Qa5 14.Ne5 Nxe5 15.Rc5 Qa3
+16.dxe5 Qxc5 17.Bxf6 Re8 18.Bxh7+ Kxh7 19.Qh5+ Kg8 20.Qg5 Qf8 21.Rd1 b6 22.Rd4 Ba6
+23.Rg4 Be2 24.Bxg7 Bxg4 25.Bxf8+ Kxf8 26.Qxg4 Rac8 27.h4 Ke7 28.Qg5+ Kd7
+29.Qf4 a5 30.Qxf7+ Kc6 31.Qf3+ Kc5 32.Qe3+ Kc6 33.Qf3+ Kc5 34.Qa3+ Kc4 35.Qb3+ Kc5
+36.a4 Rb8 37.Qc3+ Kd5 38.f4 Ke4 39.Qf3+ Kd4 40.Qc6 Ke3 41.Qc1+ Ke2 42.h5 Rec8
+43.Qf1+ Kd2 44.Qb5 Ke3 45.g3 Kd4 46.Kg2 Kc3 47.h6 Rh8 48.Qd7 b5 49.axb5 a4
+50.b6 a3 51.Qa4 Kb2 52.Qb4+ Ka2 53.h7 Rbc8 54.b7 Rc2+ 55.Kf3 Rb2 56.Qc4+ Rb3+
+57.Kg4 Kb2 58.Qc8 Rxh7 59.b8=Q Rg7+ 60.Kh5 Rxg3 61.Qd6 Rh3+ 62.Kg6 Rbg3+
+63.Kf7 Rh7+ 64.Kxe6 Rh6+ 65.Kf5 Rxd6 66.exd6 a2 67.d7 a1=Q 68.Qb7+  1-0
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Dolmatov, Sergey"]
+[Black "Spraggett, Kevin"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2585"]
+[ECO "B60"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Qb6 7.Be3 Qxb2 8.Ndb5 Qb4
+9.Bd2 Qc5 10.Be3 Qb4 11.Bd2 Qc5 12.Be3  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Gulko, Boris F"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2505"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 Qe8 7.f3 d6 8.e4 e5
+9.Be3 Nc6 10.Ne2 a5 11.d5 Ne7 12.h4 a4 13.h5 Nd7 14.g4 b6 15.Ng3 Nc5 16.Rc1 f6
+17.Rc2 Nb3 18.Nf5 Ra7 19.Rg2 Qd8 20.Nxe7+  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Gulko, Boris F"]
+[Black "Chandler, Murray G"]
+[Result "0-1"]
+[WhiteElo "2610"]
+[BlackElo "2585"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6 7.Bg5 Bb7 8.f3 h6
+9.Bh4 d5 10.cxd5 exd5 11.e3 Re8 12.Nh3 Qe7 13.Bf2 c5 14.Bb5 Bc6 15.Be2 Bd7
+16.O-O Bxh3 17.gxh3 Nbd7 18.Kh1 Nh5 19.Rg1 Ndf6 20.dxc5 bxc5 21.Rae1 Rab8
+22.Bh4 Qe5 23.Qxe5 Rxe5 24.f4 Rxe3 25.Bf2 Rxh3 26.Bf1 Rxb2 27.Bxh3 Rxf2 28.Re7 Nxf4
+29.Bf1 h5 30.Rxa7 Ng4 31.Bg2 Ne3 32.Bxd5 Nfxd5 33.a4 Nf4 34.h3 Nf1 35.Rg5 h4  0-1
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Gulko, Boris F"]
+[Black "Dolmatov, Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2615"]
+[ECO "A10"]
+
+1.c4 f5 2.g3 Nf6 3.Bg2 c6 4.Nf3 d6 5.Nc3 g6 6.d3 Bg7 7.e4 O-O 8.exf5 Bxf5
+9.d4 Ne4 10.O-O Nxc3 11.bxc3 Nd7 12.Re1 e5 13.Ba3 c5 14.dxc5 dxc5 15.Nh4 e4
+16.Bxe4 Bxe4 17.Rxe4 Nf6 18.Re5 Qxd1+ 19.Rxd1 Ng4 20.Rxc5  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Gulko, Boris F"]
+[Black "Jussupow, Artur"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2610"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6 7.Bg5 Bb7 8.Nh3 h6
+9.Bh4 d5 10.cxd5 exd5 11.e3 Nbd7 12.Bd3 c5 13.f3 Qe7 14.Bf5 g5 15.Bg3 Rfe8
+16.Kf2 cxd4 17.Qxd4 Nc5 18.Rad1 Bc8 19.Bb1 Bd7 20.b4 Ne6 21.Qd2 Ng7 22.Rhe1 Bf5
+23.Kg1 Bxb1 24.Rxb1 Nf5 25.Qd3 Qe6 26.Nf2 Rac8 27.e4 Nxg3 28.hxg3 dxe4 29.Nxe4 Red8
+30.Qb3 Nxe4 31.Qxe6 fxe6 32.Rxe4 Rd2 33.Rxe6 Rcc2 34.Rxh6 Rxg2+ 35.Kh1 Rxg3
+36.Rg1 Kg7 37.Rxg3 Kxh6 38.f4 gxf4 39.Rg4 Rc3 40.Rxf4 Kg5 41.Rf7 Rxa3 42.Kg2 Kg6
+43.Rf4 Re3 44.Kf2 Re5 45.Kf3 Kg5 46.Rc4 Kf6 47.Rc6+ Ke7 48.Rc7+ Kd6 49.Rxa7 Kd5
+50.Rb7 Kc6 51.Rh7 Kb5 52.Rh6 Re7 53.Rg6 Re8 54.Rh6 Rb8 55.Ke3 Kxb4 56.Kd2 Kb3
+57.Kc1 Ka2 58.Rh2+  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Gulko, Boris F"]
+[Black "Nikolic, Predrag"]
+[Result "0-1"]
+[WhiteElo "2610"]
+[BlackElo "2600"]
+[ECO "D28"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 Nf6 5.Bxc4 e6 6.Qe2 c5 7.dxc5 Bxc5 8.O-O Nc6
+9.e4 b5 10.Bb3 e5 11.Be3 Bxe3 12.Qxe3 O-O 13.Nbd2 Qe7 14.Rac1 Bb7 15.Rc5 Nd7
+16.Rc3 Rfc8 17.Rfc1 Nd8 18.Rxc8 Rxc8 19.Rxc8 Bxc8 20.Qc3 Bb7 21.Qc7 Kf8 22.Bd5 Nc5
+23.Qxe5 Qxe5 24.Nxe5 Bxd5 25.exd5 Ke7 26.b4 Na4 27.Ne4 f5 28.Nc5 Kd6 29.Nxa4 Kxe5
+30.Nc5 Kxd5 31.Nxa6 Kc4 32.f4 Nc6 33.a3 Kb3 34.Nc7 Na7 35.Kf2 Kxa3 36.Nd5 Nc6
+37.g4 fxg4 38.Kg3 Kb3 39.Kxg4 Nxb4 40.Nc7 Kc4 41.Kf5 Nd3 42.Na6 Nc5  0-1
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Gulko, Boris F"]
+[Black "Speelman, Jonathan S"]
+[Result "1-0"]
+[WhiteElo "2610"]
+[BlackElo "2615"]
+[ECO "E91"]
+
+1.d4 d6 2.Nf3 g6 3.c4 Bg7 4.Nc3 Bg4 5.e3 Nf6 6.Be2 O-O 7.h3 Bf5 8.Nd2 a6
+9.e4 Bc8 10.O-O c6 11.Nf3 b5 12.e5 Ne8 13.Bf4 Nd7 14.exd6 exd6 15.a3 bxc4
+16.Bxc4 Nb6 17.Ba2 Be6 18.Bxe6 fxe6 19.Bh2 Nd5 20.Qe2 Qd7 21.Rfe1 Nec7 22.Nxd5 cxd5
+23.Rac1 Rae8 24.a4 Bh6 25.Rc3 Rb8 26.Qc2 Rfc8 27.Bg3 Ne8 28.Rxc8 Rxc8 29.Qe2 Nc7
+30.b3 Rb8 31.Qd3 Rb6 32.Bh4 Rc6 33.Bg5 Bg7 34.Qd2 Qe8 35.Bh6 Bxh6 36.Qxh6 Qf8
+37.Qd2 Kg7 38.Rc1 Qa8 39.h4 h6 40.Nh2 Ne8 41.Ng4 h5 42.Qh6+ Kf7 43.Qh7+ Kf8
+44.Re1 hxg4 45.Rxe6 Qc8 46.Qe7+  1-0
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Jussupow, Artur"]
+[Black "Dolmatov, Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2615"]
+[ECO "E16"]
+
+1.d4 e6 2.Nf3 Nf6 3.c4 b6 4.g3 Ba6 5.Nbd2 Bb7 6.Bg2 Be7 7.O-O O-O 8.Qc2 d5
+9.cxd5 exd5 10.Ne5 c5 11.dxc5 bxc5 12.Ndc4 Qc7 13.Bf4 g5 14.Bxg5 dxc4 15.Qf5 Bxg2
+16.Bxf6 Bxf6 17.Qxf6 Bxf1 18.Qg5+ Kh8 19.Qf6+  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Jussupow, Artur"]
+[Black "Gulko, Boris F"]
+[Result "0-1"]
+[WhiteElo "2610"]
+[BlackElo "2610"]
+[ECO "D86"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 Nc6
+9.O-O b6 10.Bg5 Bb7 11.Qd2 Qd6 12.Rad1 Na5 13.Bd3 c5 14.d5 e6 15.c4 Ba6 16.Qc2 exd5
+17.exd5 Qd7 18.Ng3 Rae8 19.Bd2 Nb7 20.Ne4 Nd6 21.Nxd6 Qxd6 22.Qa4 Bc8 23.Qxa7 Be5
+24.h3 Bd4 25.Kh1 Qf6 26.Be3 Bxh3 27.Bxd4 cxd4 28.d6 Re5 29.f4 Re3 30.Qb7 Qh4
+31.Kg1 Bxg2 32.Qxg2 Rg3 33.Be4 Rxg2+ 34.Bxg2 Qf6 35.d7 Qd6 36.f5 Qxd7 37.Bd5 Qe7
+38.Rf3 Qe5 39.Rdf1 g5 40.f6 Re8 41.Kh1 g4 42.Rf5 Qe3 43.Rh5 Re5 44.Rh2 d3
+45.Bxf7+ Kxf7 46.Rxh7+ Kg6 47.f7 Kxh7 48.f8=Q Qh3+  0-1
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Jussupow, Artur"]
+[Black "Nikolic, Predrag"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2600"]
+[ECO "D16"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 dxc4 4.Nc3 c6 5.a4 Bg4 6.Ne5 Bh5 7.g3 e6 8.Bg2 Bb4
+9.O-O Nd5 10.Qc2 Be7 11.Nxc4 Nb4 12.Qb3 O-O 13.a5 N8a6 14.Rd1 Kh8 15.Bf4 f6
+16.Rd2 g5 17.Be3 b5 18.axb6 axb6 19.Qd1 Nd5 20.Rc2 b5 21.Nxd5 cxd5 22.Nd2 Nb4
+23.Rcc1 Qd7 24.Nb3 Rxa1 25.Rxa1 Bg6 26.Qd2 Rb8 27.Rc1 Nc6 28.f3  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Jussupow, Artur"]
+[Black "Speelman, Jonathan S"]
+[Result "1-0"]
+[WhiteElo "2610"]
+[BlackElo "2615"]
+[ECO "D03"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 Be7 4.Nbd2 h6 5.Bh4 d5 6.e3 Nbd7 7.c3 c5 8.Bd3 b6
+9.Ne5 Nxe5 10.dxe5 Nd7 11.Bxe7 Qxe7 12.f4 Bb7 13.Qe2 O-O-O 14.O-O-O f6 15.exf6 gxf6
+16.e4 d4 17.c4 h5 18.g3 Kb8 19.Nf3 b5 20.Rhe1 Nb6 21.Nd2 bxc4 22.Nxc4 e5
+23.Kb1 Nxc4 24.Bxc4 f5 25.exf5 e4 26.Ba6 Rhe8 27.Qb5 e3 28.f6 Qe4+ 29.Rd3 Ka8
+30.Bxb7+ Qxb7 31.Qxc5 Qe4 32.Qc4 Rf8 33.Ka1 Qd5 34.Qxd5+ Rxd5 35.Rexe3 Rxf6
+36.Re2 h4 37.b3 hxg3 38.hxg3 Rh6 39.Kb2 Rh1 40.Rf2 Re1 41.f5 Re3 42.Kc2 Re7
+43.f6 Rf7 44.g4 Kb7 45.Rf4 Kc6 46.Rdxd4 Rxd4 47.Rxd4 Rxf6 48.Rd2  1-0
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Jussupow, Artur"]
+[Black "Spraggett, Kevin"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2585"]
+[ECO "E73"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 Nbd7 7.Qd2 a6 8.Nf3 Rb8
+9.e5 dxe5 10.dxe5 Ng4 11.e6 fxe6 12.Rd1 Qe8 13.O-O Nge5 14.Nd4 Nb6 15.c5 Nbc4
+16.Qc1 b5 17.b3 Na5 18.Bh6 Qf7 19.Bxg7 Qxg7 20.Qe3 Nac6 21.Nxc6 Nxc6 22.Rfe1 e5
+23.Bf3 Nd4 24.Bd5+ e6 25.Qxe5 Qxe5 26.Rxe5 exd5 27.Rxd4 c6 28.f3 Bd7 29.a3 Rbe8
+30.Rxe8 Rxe8 31.Kf2 a5 32.Ne2 Kg7 33.Rd3 Kf6 34.Re3 Rb8 35.Nd4 b4 36.a4 g5
+37.g3 Rf8 38.Re1 h6 39.Rh1 Re8 40.h4 g4 41.f4 Re4 42.Rd1 h5 43.Rd2 Be8  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Nikolic, Predrag"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[WhiteElo "2600"]
+[BlackElo "2505"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Qe7 5.Nf3 Nc6 6.Nc3 d5 7.a3 Bxc3 8.Bxc3 Ne4
+9.Qc2 O-O 10.Bg2 Rd8 11.O-O a5 12.b3 Nxc3 13.Qxc3 e5 14.dxe5 d4 15.Qb2 Bg4
+16.Rfd1 Qc5 17.Rd2 a4 18.b4 Qxc4 19.Rc1 Qb3 20.Qa1 Bf5 21.Nh4 Bd7 22.Rd3 Qe6
+23.Nf3 Nxe5 24.Nxe5 Qxe5 25.Qxd4 Qxd4 26.Rxd4 Bb5 27.Bxb7 Rxd4 28.Bxa8 Bxe2
+29.Rxc7 g5 30.f3 Kg7 31.Kf2 Ba6 32.Rc6 Bd3 33.Rc5 Bg6 34.Rd5 Rc4 35.Rc5 Rd4
+36.Rd5 Rc4 37.Rxg5 Rc3 38.Ra5 Rxa3 39.Ke1 Re3+ 40.Kd2 Rd3+ 41.Ke2 Rb3 42.Rxa4 Rb2+
+43.Kd1 Rxh2 44.Ra6 Bd3 45.Rd6 Bb5 46.Kc1 h5 47.Rd4 Kh6 48.Rh4 Rf2 49.g4 Ba4
+50.Rxh5+ Kg7 51.Be4 Kf6 52.b5  1-0
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Nikolic, Predrag"]
+[Black "Chandler, Murray G"]
+[Result "1/2-1/2"]
+[WhiteElo "2600"]
+[BlackElo "2585"]
+[ECO "A81"]
+
+1.d4 f5 2.g3 Nf6 3.Bg2 e6 4.Nh3 d5 5.O-O Bd6 6.Bf4 O-O 7.c4 c6 8.Nd2 Be7
+9.Nf3 Ne4 10.Ne5 g5 11.Be3 Nd7 12.Qc1 h6 13.f3 Nd6 14.c5 Nf7 15.Ng6 Re8 16.Nxe7+ Qxe7
+17.Nf2 e5 18.dxe5 Qxe5 19.Bd2 Qd4 20.b4 Rxe2 21.Bc3 Qe3 22.Qxe3 Rxe3 23.Bd4 Re6
+24.Nd3 Nf8 25.f4 Re2 26.Rfe1 Rxe1+ 27.Rxe1 Be6 28.a4  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Nikolic, Predrag"]
+[Black "Dolmatov, Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2600"]
+[BlackElo "2615"]
+[ECO "A88"]
+
+1.d4 f5 2.g3 Nf6 3.Bg2 d6 4.Nf3 g6 5.O-O Bg7 6.c4 O-O 7.Nc3 c6 8.b3 Qa5 9.Bd2 Qc7
+10.d5 Na6 11.Rc1 Nc5 12.Be3 Nce4 13.Nxe4 Nxe4 14.Bd4 e5 15.dxe6 Bxe6 16.Bxg7 Qxg7
+17.Qd4 Qxd4 18.Nxd4 Kf7 19.Rfd1 Rad8 20.e3 a5 21.Ne2 Nc5 22.Nc3 Ke7 23.Rd4 Kd7
+24.Kf1 Kc7 25.Ke1 Bg8 26.Kd1 Rfe8 27.Kc2 Ne6 28.Rd2 Nc5 29.Kb2 Re5 30.Rd4 Ne6
+31.Rd2 Nc5 32.Rd4 Ne6 33.Rd2  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Nikolic, Predrag"]
+[Black "Gulko, Boris F"]
+[Result "0-1"]
+[WhiteElo "2600"]
+[BlackElo "2610"]
+[ECO "E68"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.O-O Nbd7 7.Nc3 e5 8.e4 exd4
+9.Nxd4 Re8 10.Re1 Ng4 11.f3 Nge5 12.b3 Nc5 13.Be3 f5 14.Qd2 fxe4 15.Bg5 Qd7
+16.Nxe4 Nxe4 17.Rxe4 Nf7 18.Rxe8+ Qxe8 19.Be3 c5 20.Nc2 Bxa1 21.Nxa1 Bd7
+22.Nc2 Bc6 23.Bf2 Ne5 24.Qd1 Qe6 25.Ne3 Rf8 26.f4 Bxg2 27.Kxg2 Nc6 28.Qf3 Re8
+29.f5 Qe4 30.Nd5 Qxf3+ 31.Kxf3 Rf8 32.f6 Nb4 33.Nxb4 Rxf6+ 34.Ke2 cxb4 35.Bxa7 Rf8  0-1
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Nikolic, Predrag"]
+[Black "Jussupow, Artur"]
+[Result "0-1"]
+[WhiteElo "2600"]
+[BlackElo "2610"]
+[ECO "A18"]
+
+1.c4 e6 2.Nc3 Nf6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.d4 e5 8.Qe2 Be7
+9.dxe5 Qg6 10.Nh3 Bxh3 11.gxh3 Nc6 12.Bf4 Rd8 13.Qe3 Nb4 14.cxb4 Bxb4+ 15.Ke2 Bd2
+16.Qg3 Qe4+ 17.Be3 Qxc4+ 18.Kf3 Qc6+ 19.Ke2 Bxe3 20.fxe3 Qxh1 21.Qxg7 Rf8
+22.Rc1 Rd7  0-1
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Nikolic, Predrag"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[WhiteElo "2600"]
+[BlackElo "2615"]
+[ECO "D53"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nc3 Be7 5.Bg5 h6 6.Bxf6 Bxf6 7.Qd2 Nc6 8.e3 a6
+9.cxd5 exd5 10.Be2 O-O 11.O-O Re8 12.Rfc1 Be7 13.Qd1 Na7 14.Ne5 c6 15.Bh5 Rf8
+16.a4  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Nikolic, Predrag"]
+[Black "Spraggett, Kevin"]
+[Result "1-0"]
+[WhiteElo "2600"]
+[BlackElo "2585"]
+[ECO "E64"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 c5 5.d5 d6 6.Bg2 O-O 7.O-O Na6 8.Nc3 Nc7
+9.Re1 Rb8 10.a4 b6 11.e4 a6 12.Bf1 e5 13.dxe6 Nxe6 14.h3 Bb7 15.Bg2 Re8 16.Qd3 Qc7
+17.Be3 Rbd8 18.Rad1 Qb8 19.Kh2 b5 20.b3 Nc7 21.Bf4 bxc4 22.bxc4 Qa8 23.Nd5 Ne6
+24.Be3 Bc6 25.a5 Nd7 26.Rb1 Qa7 27.Red1 Kh8 28.Qd2 Bxd5 29.Qxd5 Nf6 30.Qd3 Rb8
+31.Rxb8 Rxb8 32.e5 dxe5 33.Nxe5 Qc7 34.Qd6 Rc8 35.Qxc7 Rxc7 36.Rd6  1-0
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Speelman, Jonathan S"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2505"]
+[ECO "A34"]
+
+1.Nf3 Nf6 2.c4 b6 3.Nc3 c5 4.e4 d6 5.d4 cxd4 6.Nxd4 Bb7 7.Nd5 e6 8.Nxf6+ Qxf6
+9.Nb5 Qd8 10.Be2 a6 11.Nc3 Be7 12.Bf4 O-O 13.O-O Qc7 14.Qd2 Nd7 15.Rfd1 Ne5
+16.Rac1 Rfd8 17.Be3 Nd7 18.b3 Rac8 19.Bg5 Bxg5 20.Qxg5 Nf6 21.Bf3 h6 22.Qe3 Qc5
+23.Qd2 Qe5 24.Qe3 Qc5 25.Qd2  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Speelman, Jonathan S"]
+[Black "Chandler, Murray G"]
+[Result "1-0"]
+[WhiteElo "2615"]
+[BlackElo "2585"]
+[ECO "A37"]
+
+1.Nf3 c5 2.g3 g6 3.Bg2 Bg7 4.O-O Nc6 5.c4 e6 6.Nc3 Nge7 7.d3 O-O 8.Bd2 b6
+9.a3 d5 10.Rb1 Bb7 11.cxd5 exd5 12.b4 c4 13.b5 Na5 14.Na4 Rc8 15.d4 Nb3 16.Bb4 Re8
+17.e3 a6 18.bxa6 Bxa6 19.Nd2 Nc6 20.Nxb3 cxb3 21.Qxb3 Bc4 22.Qb2 Nxb4 23.axb4 Bxf1
+24.Rxf1 Rc4 25.Nc3 Qd6 26.Nxd5 Rec8 27.b5 Bf8 28.Qa1 Be7 29.Nxe7+ Qxe7 30.Bc6 h5
+31.h4 g5 32.Qd1 gxh4 33.Qxh5 hxg3 34.Qg4+ Kh7 35.Be4+ Kh6 36.Qh3+  1-0
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Speelman, Jonathan S"]
+[Black "Dolmatov, Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2615"]
+[ECO "C08"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Ngf3 a6 6.dxc5 Bxc5 7.Nb3 Be7 8.Bd3 Nf6
+9.h3 O-O 10.O-O Nc6 11.Re1 Re8 12.Bg5 h6 13.Bxf6 Bxf6 14.Rxe8+ Qxe8 15.c3 Qd8
+16.Bc2 Ne7 17.Nbd4 Qd6 18.Qd3 g6 19.Re1 Bd7 20.Qe3 Kg7 21.Ne5 Bxe5 22.Qxe5+ Qxe5
+23.Rxe5 Kf6 24.Re3 Nc6 25.Bb3 Be6 26.Ne2 g5 27.f3 Rd8 28.Rd3 b5 29.Nd4 Nxd4
+30.cxd4 Rc8 31.Rc3 Rxc3 32.bxc3 Ke7 33.Kf2 f6 34.Kg3 Kf7 35.h4 Kg6 36.Bc2+ Kg7
+37.f4 Kf7 38.Bd1 Kg6 39.Bf3 Kg7 40.Bh5 Bd7 41.a3 Be6 42.Be8 Kf8 43.Bg6 Kg7
+44.Bh5 Bd7 45.Bg4 Bxg4 46.Kxg4 gxh4 47.f5  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Speelman, Jonathan S"]
+[Black "Gulko, Boris F"]
+[Result "1-0"]
+[WhiteElo "2615"]
+[BlackElo "2610"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Qb6 7.Nb3 e6 8.Bf4 Ne5
+9.Be3 Qc7 10.f4 Nc6 11.g4 d5 12.e5 Nd7 13.Nb5 Qd8 14.h4 f6 15.Nd6+ Bxd6 16.exd6 Nb6
+17.g5 O-O 18.Qd2 Na4 19.O-O-O a6 20.g6 Qxd6 21.gxh7+ Kh8 22.h5 Bd7 23.Bd3 d4
+24.h6 gxh6 25.Qg2 Nb4 26.Rdg1 Nxd3+ 27.Kb1  1-0
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Speelman, Jonathan S"]
+[Black "Jussupow, Artur"]
+[Result "1-0"]
+[WhiteElo "2615"]
+[BlackElo "2610"]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.O-O O-O 7.Nbd2 a6 8.Bb3 Be6
+9.Nc4 h6 10.Re1 Ne7 11.d4 exd4 12.cxd4 Ba7 13.d5 Bg4 14.Be3 Bxe3 15.Nxe3 Bh5
+16.Nf1 Ng6 17.Ng3 Bxf3 18.Qxf3 Nd7 19.Rac1 Nde5 20.Qe3 c6 21.dxc6 bxc6 22.Nf5 Nh4
+23.Red1 Nxf5 24.exf5 a5 25.Qd4 Re8 26.Ba4 Rc8 27.h3 Qf6 28.Rc3 Qxf5 29.Qxd6 Re6
+30.Qd2 Rce8 31.Bb3 R6e7 32.Bc2 Qf6 33.Re3 Qg5 34.Qd4 c5 35.Qc3 g6 36.Ba4 Rb8
+37.Rde1 f6 38.Qxa5 Kf8 39.Rd1 c4  1-0
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Speelman, Jonathan S"]
+[Black "Nikolic, Predrag"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2600"]
+[ECO "D16"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 dxc4 4.Nc3 c6 5.a4 Bg4 6.Ne5 Bh5 7.f3 Nfd7 8.Nxc4 e5
+9.Ne4 Bb4+ 10.Bd2 Qe7 11.h4 exd4 12.Bxb4 Qxb4+ 13.Kf2 O-O 14.Qxd4 b5 15.Ng3 Nf6
+16.e4 bxc4 17.e5 c5 18.Qc3 Nd5 19.Qxb4 cxb4 20.Bxc4 Nb6 21.Bb3 Bg6 22.Rhd1 Na6
+23.a5 Nc5 24.axb6 Nxb3 25.Rxa7 Nc5 26.Rd5 Na4 27.Rxa8 Rxa8  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Speelman, Jonathan S"]
+[Black "Spraggett, Kevin"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2585"]
+[ECO "E90"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.h3 e5 7.d5 Nbd7 8.Bg5 h6 9.Be3 Nc5
+10.Nd2 a5 11.Be2 c6 12.a3 Nfd7 13.b4 f5 14.exf5 gxf5 15.dxc6 bxc6 16.bxc5 f4
+17.Nde4 fxe3 18.O-O exf2+ 19.Rxf2 Rxf2 20.Kxf2 Nxc5 21.Nxc5  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Spraggett, Kevin"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[WhiteElo "2585"]
+[BlackElo "2505"]
+[ECO "A25"]
+
+1.g3 Nf6 2.Bg2 e5 3.c4 Nc6 4.Nc3 Bb4 5.Nd5 O-O 6.a3 Bd6 7.Nc3 Re8 8.d3 Bf8
+9.e3 Ne7 10.e4 c6 11.Bg5 Ng6 12.Nge2 h6 13.Bd2 Ne7 14.f4 exf4 15.gxf4 d5
+16.e5 Ng4 17.h3 d4 18.hxg4 dxc3 19.Bxc3 Bxg4 20.d4 Ng6 21.O-O Nh4 22.Be4 Nf5
+23.Bxf5 Bxf5 24.Ng3 Be6 25.b3 f5 26.Qd3 Qd7 27.a4 Qf7 28.Rad1 Rad8 29.Rd2 Rd7
+30.Qf3 Red8 31.Rfd1 Kh7 32.Nf1 g5 33.Ne3 g4 34.Qh1 Rc7 35.Kf1 b6 36.Bb2 Qg6
+37.d5 cxd5 38.Nxd5 Bxd5 39.cxd5 Bb4 40.d6 Rg7 41.Rc2 Bc5 42.Rd3 a5 43.Bd4 h5
+44.Bxc5 bxc5 45.Rh2 Kh6 46.e6 c4 47.e7 Rb8 48.d7 cxd3 49.d8=Q  1-0
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Spraggett, Kevin"]
+[Black "Chandler, Murray G"]
+[Result "1-0"]
+[WhiteElo "2585"]
+[BlackElo "2585"]
+[ECO "A28"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e4 d6 5.d3 Bg4 6.h3 Bxf3 7.Qxf3 Nd4 8.Qd1 g6
+9.g3 h5 10.h4 Bh6 11.Bxh6 Rxh6 12.Bh3 Kf8 13.O-O Kg7 14.Ne2 c5 15.Nxd4 cxd4
+16.f4 Qe7 17.Rf2 Ng8 18.Qd2 exf4 19.Rxf4 Qe5 20.Kh2 Rh8 21.Raf1 Nh6 22.Qb4 b6
+23.Qa4 Rhe8 24.Qc6 Rad8 25.b4 Re7 26.a4 Rb8 27.R1f2 Rf8 28.Rf6 Rd8 29.R6f4 Rf8
+30.Kg2 f6 31.a5 bxa5 32.bxa5 Qxa5 33.Qxd6 Qe5 34.Qa6 f5 35.Qa1 Ref7 36.Ra2 fxe4
+37.Rxe4 Qb8 38.Qxd4+ Kh7 39.Rae2 a5 40.c5 Rd8 41.Qc4 Qb1 42.Re7 Rf8 43.c6 Qa1
+44.c7 Rxe7 45.Rxe7+ Kh8 46.c8=Q Qf1+ 47.Kh2 Ng4+ 48.Q4xg4  1-0
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Spraggett, Kevin"]
+[Black "Dolmatov, Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2615"]
+[ECO "A21"]
+
+1.c4 f5 2.g3 Nf6 3.Bg2 c6 4.d3 e5 5.Nf3 d6 6.Nc3 Be7 7.O-O O-O 8.b4 a6 9.a4 Kh8
+10.Rb1 Be6 11.b5 axb5 12.axb5 Qc7 13.bxc6 bxc6 14.Qb3  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Spraggett, Kevin"]
+[Black "Gulko, Boris F"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2610"]
+[ECO "A36"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 Nc6 4.Bg2 g6 5.d3 Bg7 6.Be3 d6 7.Qc1 Nd4 8.Nf3 Ng4
+9.Bd2 h5 10.h3 Ne5 11.Nxe5 Bxe5 12.Rb1 a5 13.e3 Nc6 14.a3 Bd7 15.Qc2 f5 16.h4 O-O
+17.Nd5 Rb8 18.Bc3 b5 19.cxb5 Rxb5 20.O-O e6 21.Bxe5 Nxe5 22.Nf4 Qb6 23.Rfd1 Rc8
+24.Qe2 Kf7 25.e4 Bc6 26.Nh3 Re8 27.Rd2 Rb3 28.Rbd1 Ng4 29.d4 cxd4 30.Rxd4 Rxb2
+31.Qe1 d5 32.exd5 Bxd5 33.Qc3 Rb1 34.Ng5+ Kf8 35.Rxd5 exd5 36.Rxb1 Qxb1+
+37.Bf1 Ne5 38.Qc5+ Re7 39.Qc8+ Kg7 40.Ne6+ Kf7 41.Ng5+ Kg7 42.Ne6+ Kf6 43.Ng5 Kg7
+44.Ne6+  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Spraggett, Kevin"]
+[Black "Jussupow, Artur"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2610"]
+[ECO "D35"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Be7 4.cxd5 exd5 5.Bf4 Nf6 6.e3 Bf5 7.Qb3 Nc6 8.a3 Rb8
+9.Nf3 O-O 10.Be2 a6 11.O-O b5 12.Ne5 Na5 13.Qd1 Rb6 14.Bd3 Bxd3 15.Nxd3 Nc4
+16.Nb1 Re6 17.b3 Na5 18.Nd2 Ne4 19.Nxe4 dxe4 20.Rc1 exd3 21.Bxc7 Qd5 22.Bxa5 Bxa3
+23.Rc3 Bd6 24.Qf3 Qg5 25.Rxd3 b4 26.d5 Rh6 27.g3 Qe7 28.Rc1 Qd7 29.Rd4 Rf6
+30.Qe2 Be5 31.Rxb4 Qxd5 32.Bc7 Bxc7 33.Rxc7 h5 34.Rbc4 g6 35.R7c5 Qb7 36.Qc2 Qf3
+37.h4 Rd6 38.Rd4 Rxd4 39.exd4 Kh7 40.Re5 Rd8 41.Qc4 Rd6 42.Re3 Qf5 43.Kg2 Rf6
+44.f3 Qa5 45.Re2 Qa1 46.Re4  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Spraggett, Kevin"]
+[Black "Nikolic, Predrag"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2600"]
+[ECO "A25"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 f5 4.Bg2 Nf6 5.e3 g6 6.Nge2 Bg7 7.d4 e4 8.O-O O-O
+9.f3 exf3 10.Bxf3 b6 11.Nf4 Bb7 12.b3 Re8 13.Re1 Qc8 14.Bb2 Nd8 15.Nfd5 Nxd5
+16.Nxd5 c6 17.Nc3 Ne6 18.Bg2 Qd8 19.b4 Qe7 20.a3 Qf7 21.Qd3 Rad8 22.Rf1  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Spraggett, Kevin"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2615"]
+[ECO "A21"]
+
+1.c4 e5 2.Nc3 d6 3.g3 f5 4.Bg2 Nf6 5.d3 Be7 6.Nf3 O-O 7.O-O Kh8 8.Bd2 Na6
+9.Rb1 c6 10.b4 Nc7 11.b5 c5 12.Bg5 Ng8 13.Bc1 Bf6 14.Bb2 Ne7 15.Qc2 b6 16.Nd2 Rb8
+17.a4 Bb7 18.Bxb7 Rxb7 19.e3 d5 20.a5 Ne6 21.axb6 axb6 22.cxd5 Nxd5 23.Nxd5 Qxd5
+24.e4 Qd7 25.exf5 Ng5 26.h4 Nh3+ 27.Kh2 Qxf5 28.Ne4 Bxh4 29.f4 Nxf4 30.gxf4 exf4
+31.Rf3 Qh5 32.Qg2 Rbf7 33.Kg1 Bf6 34.Rh3 Bh4 35.Rf1 Rg8 36.Qh2 Qg6+ 37.Kh1 Bg3
+38.Nxg3 fxg3 39.Rxh7+ Qxh7 40.Qxh7+ Kxh7 41.Rxf7 Kg6 42.Rb7 Kf5 43.Rf7+ Kg4
+44.Kg2 g5 45.Rf3 Ra8 46.Rxg3+ Kf5 47.Kf3 Ra4 48.Rg1 Rb4 49.Bc1 g4+ 50.Ke3 Rxb5
+51.Rf1+ Ke5 52.Rf8 Rb3 53.Kd2 b5 54.Kc2 c4 55.Bb2+ Kd5 56.Bc3 Ra3 57.Rd8+ Ke6
+58.d4 Ra2+ 59.Kb1 Ra3 60.Kc2 Ra2+ 61.Kb1 Ra3  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Adams, Michael"]
+[Black "Dolmatov, Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2505"]
+[BlackElo "2615"]
+[ECO "C08"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Ngf3 Nf6 6.dxc5 Bxc5 7.Nb3 Be7 8.Be2 O-O
+9.O-O Bf5 10.Re1 Nc6 11.c3 Ne4 12.Be3 Bg6 13.Nbd4 Bf6 14.Qa4 Qc7 15.Rac1 Rfd8
+16.Bf1 a6 17.g3 b5 18.Qd1 Na5 19.a4 bxa4 20.Qxa4 Nc4 21.Bf4 Qc8 22.b3 Ncd6
+23.Qa3 Nb5 24.Qb2 Qb7 25.Nxb5 axb5 26.Be5 b4 27.Bxf6 Nxf6 28.cxb4 Qxb4 29.Nd4 Rdc8
+30.Red1 h6 31.Bh3 Rxc1 32.Rxc1 Bd3 33.Nc6 Qb6 34.Nd4 Ra4 35.Nc6 Be4 36.b4 d4
+37.b5 d3 38.Bf1 Ng4 39.h3 Nf6 40.h4 Ra8 41.Ne5 Rd8 42.Rd1  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Gulko, Boris F"]
+[Black "Spraggett, Kevin"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2585"]
+[ECO "A65"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Nge2 c5 7.d5 e6 8.Ng3 exd5
+9.cxd5 h5 10.Bg5 Qb6 11.Qd2 Nh7 12.Be3 Nd7 13.Nge2 Ne5 14.Nf4 a6 15.Be2 Qa5
+16.O-O b5 17.Qc2 Bd7 18.Bd2 Qb6 19.Be3 Nc4 20.Bxc4 bxc4 21.Rab1 Rab8 22.Qd2 Qa5
+23.Nfe2 Rfe8 24.Bh6 Bh8 25.Qf4 Qc7 26.Qg3 Nf6 27.h3 Rb6 28.Bf4 Bg7 29.Rfd1 a5
+30.Rd2 a4 31.Re1 Qb8 32.Nd1 Bc8 33.Nec3 a3 34.bxa3 Nd7 35.a4  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Jussupow, Artur"]
+[Black "Chandler, Murray G"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2585"]
+[ECO "D05"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 d5 4.Bd3 Nbd7 5.O-O c5 6.b3 Bd6 7.Bb2 Qc7 8.Nbd2 e5
+9.dxe5 Nxe5 10.Nxe5 Bxe5 11.Bb5+ Kf8 12.Bxe5 Qxe5 13.Qe2 g6 14.Rae1 Kg7 15.e4 dxe4
+16.Nxe4 Qxe4 17.Qxe4 Nxe4 18.Rxe4 Be6 19.Bc4  1/2-1/2
+
+[Event "Hastings8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Jussupow, Artur"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2505"]
+[ECO "B07"]
+
+1.d4 d6 2.e4 Nf6 3.Bd3 e5 4.c3 d5 5.dxe5 Nxe4 6.Nf3 Nc6 7.Nbd2 Nc5 8.Nb3 Bg4
+9.O-O Qd7 10.Re1 O-O-O 11.Nxc5 Bxc5 12.b4 Bb6 13.a4 a5 14.b5 Ne7 15.Be3 Bxe3
+16.Rxe3 Kb8 17.Qe1 Bxf3 18.Rxf3 Ng6 19.Rd1 Qe6 20.Re3 Rhe8 21.Bxg6 hxg6 22.h3 g5
+23.Rd4 Qf5 24.Kh2  1/2-1/2

@@ -1,0 +1,169 @@
+[Event "London m1"]
+[Site "London"]
+[Date "1876.??.??"]
+[Round "?"]
+[White "Steinitz, William"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Bc4 d5 7.exd5 Bg7 8.d4 O-O
+9.Bxf4 Nxd5 10.Bxd5 Qxd5 11.O-O c5 12.Nc3 Qxd4+ 13.Qxd4 cxd4 14.Nd5 Nc6 15.Nxc6 bxc6
+16.Ne7+ Kh8 17.Nxc6 Bb7 18.Ne5 Rac8 19.Rf2 Be4 20.Rd1 f5 21.Nd3 Rfe8 22.Re2 Kg8
+23.Ne1 Kf7 24.Bg3 Re6 25.Bf2 Bxc2 26.Rxe6 Bxd1 27.Rd6 Ke7 28.Ra6 Rc7 29.Kf1 Rd7
+30.Ra3 Ke6 31.Nd3 Bf8 32.Ra5 Bc2 33.Ke2 Kf6 34.Ra6+ Kg7 35.Rxa7 Rxa7 36.Bxd4+ Kf7
+37.Bxa7 Bd6 38.Be3 Ke6 39.Kd2 Bxd3 40.Kxd3 Kd5 41.a4 f4 42.Bf2 g3 43.Bg1 Bb4
+44.Ke2 Ba5 45.Kf3 Kc4 46.Kxf4 Bc7+ 47.Kg5 Bd8+ 48.Kg4 Bc7 49.Be3 Be5 50.a5 Kb5
+51.b4 Bd6 52.Bc5 Be5 53.Kf5 Bc3 54.h5 Ka6 55.Ke6  1-0
+
+[Event "London m1"]
+[Site "London"]
+[Date "1876.??.??"]
+[Round "?"]
+[White "Steinitz, William"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 Be7 7.h3 O-O 8.Qe2 Ne8
+9.g4 b5 10.Bc2 Bb7 11.Nbd2 Qd7 12.Nf1 Nd8 13.Ne3 Ne6 14.Nf5 g6 15.Nxe7+ Qxe7
+16.Be3 N8g7 17.O-O-O c5 18.d4 exd4 19.cxd4 c4 20.d5 Nc7 21.Qd2 a5 22.Bd4 f6
+23.Qh6 b4 24.g5 f5 25.Bf6 Qf7 26.exf5 gxf5 27.g6 Qxg6 28.Bxg7 Qxh6+ 29.Bxh6 Rf6
+30.Rhg1+ Rg6 31.Bxf5 Kf7 32.Bxg6+ hxg6 33.Ng5+ Kg8 34.Rge1  1-0
+
+[Event "London m2"]
+[Site "London"]
+[Date "1876.??.??"]
+[Round "?"]
+[White "Blackburne, Joseph Henry"]
+[Black "Zukertort, Johannes Hermann"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Bd3 d5 7.Qe2 Be7 8.Nc3 O-O
+9.O-O Re8 10.e5 Bg4 11.Qd2 Nd7 12.f4 Nc5 13.f5 Nxd3 14.cxd3 g6 15.f6 Bf8
+16.Qg5 Qd7 17.Rf4 Bf5 18.d4 c5 19.Rh4 Bd3 20.Qg3 cxd4 21.Rxd4 Bc4 22.Rh4 Qf5
+23.Bf4 d4 24.Na4 Bb5 25.b3 Bxa4 26.bxa4 Rab8 27.Re1 Rb1 28.Bc1 Bb4 29.Rf1 Qxf1+
+30.Kxf1 Rxc1+ 31.Ke2 Rxe5+ 32.Qxe5 Re1+ 33.Kd3 Rxe5 34.Rxd4 Bd6  0-1
+
+[Event "London m2"]
+[Site "London"]
+[Date "1876.??.??"]
+[Round "?"]
+[White "Zukertort, Johannes Hermann"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.d3 d4 5.fxe5 dxc3 6.exf6 Qxf6 7.bxc3 Qxc3+ 8.Bd2 Qf6
+9.Nf3 Nc6 10.Be2 Bc5 11.c3 Bg4 12.d4 Bxf3 13.Bxf3 Nxd4 14.cxd4 Qxd4 15.Rf1 O-O-O
+16.Rb1 f5 17.Qc2 Rhe8 18.Qb2 Rxe4+ 19.Bxe4 Qxe4+ 20.Kd1 Be3 21.Re1 Qa4+  0-1
+
+[Event "London m2"]
+[Site "London"]
+[Date "1876.??.??"]
+[Round "?"]
+[White "Zukertort, Johannes Hermann"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.O-O O-O 7.Nc3 Nc6 8.Nb5 Be7
+9.Bf4 a6 10.Nxc7 Ra7 11.Be5 b5 12.Nxb5 axb5 13.Bxb5 Qb6 14.a4 Ne4 15.c3 Bg4
+16.Bf4 Bd6 17.Bxd6 Nxd6 18.Bxc6 Bxf3 19.Qxf3 Qxc6 20.b3 Ne4 21.Rfc1 Rb7 22.b4 Qc4
+23.Qe3 Re8 24.f3 Nf6 25.Qf4 Rbe7 26.b5 Re6 27.h4 Nh5 28.Qg5 g6 29.Rab1 f6
+30.Qg4 f5 31.Qg5 Kg7 32.Rb4 Re1+  0-1
+
+[Event "London m1"]
+[Site "London"]
+[Date "1876.??.??"]
+[Round "?"]
+[White "Steinitz, William"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.d3 Bb4 5.fxe5 Nxe4 6.dxe4 Qh4+ 7.Ke2 Bxc3 8.bxc3 Bg4+
+9.Nf3 dxe4 10.Qd4 Bh5 11.Ke3 Bxf3 12.Bb5+ c6 13.gxf3 cxb5 14.Qxe4 Qh6+ 15.Kf2 Qc6
+16.Qd4 Na6 17.Ba3 b4 18.Bxb4 Nxb4 19.Qxb4 Rc8 20.Rab1 b6 21.Rb3 Rd8 22.Re1 Rd5
+23.Re4 Qh6 24.h4 g5 25.e6 fxe6 26.Qa4+ Ke7 27.Qxa7+ Rd7 28.Qxb6 Rc8 29.Qe3 Kf7
+30.Rb5 Rcd8 31.Rxg5 Rd2+ 32.Kg3 R2d6 33.Rf4+ Ke7 34.Qe5 Rd5 35.Rg7+ Ke8 36.Qf6 Qxf6
+37.Rxf6 R8d6 38.Rxh7 Rc5 39.Rg6 Kf8 40.h5 Rdd5 41.Rxe6 Rxh5 42.Rxh5 Rxh5
+43.a4 Rc5 44.Re3 Rc4 45.Kf2 Kf7 46.Ke2 Kf6 47.Kd3 Rxa4 48.c4 Ra1 49.c5 Ra4
+50.Re4 Ra1 51.Kc4 Ra4+ 52.Kd5 Ra3 53.c6  1-0
+
+[Event "London m1"]
+[Site "London"]
+[Date "1876.??.??"]
+[Round "2"]
+[White "Blackburne, Joseph Henry"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5 Bb4+ 6.Bd2 Qxe4+ 7.Be2 Kd8 8.O-O Bxd2
+9.Qxd2 Nf6 10.N1c3 Qe5 11.Rfe1 a6 12.Na3 Qd4 13.Qg5 Rg8 14.Rad1 h6 15.Qg3 Qe5
+16.Qh4 Qg5 17.Qc4 Ne5 18.Qb4 Nc6 19.Qb3 Rf8 20.Nc4 b5 21.Bf3 Bb7 22.Nd5 Rb8
+23.Qa3 Rg8 24.Ne5 Nxe5 25.Qe7+ Kc8 26.Rxe5 Nxd5 27.Qxf7 Qd8 28.Bxd5 Bxd5
+29.Rexd5 d6 30.R5d3 Qe8 31.Qd5 Rf8 32.Qd4 Rf6 33.Re3 Qc6 34.Rde1 Kb7 35.Rc3 Qd7
+36.Rce3 Rbf8 37.f3 R8f7 38.Re8 Qc6 39.c3 Rf5 40.R8e7 Rd5 41.Qh4 Qc5+ 42.Kf1 g5
+43.Qe4 Rxe7 44.Qxe7 Rd2 45.Re2 Rd1+ 46.Re1 Qc4+ 47.Qe2 Rxe1+ 48.Kxe1 Qxa2
+49.Qe4+ d5 50.Qc2 Qc4 51.Qd2 a5 52.g3 b4 53.f4 gxf4 54.gxf4 bxc3 55.bxc3 a4
+56.Kd1 a3 57.Kc1 Kc6 58.Kb1 Qb3+ 59.Ka1 Kd6 60.Qc1 Ke7 61.Qd2 Kf7 62.Qc1 c5
+63.Qd2 Kf6 64.Qc1 Kf5 65.Qd2 Qb2+ 66.Qxb2 axb2+ 67.Kxb2 Kxf4  0-1
+
+[Event "London m1"]
+[Site "London"]
+[Date "1876.??.??"]
+[Round "4"]
+[White "Blackburne, Joseph Henry"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5 Bb4+ 6.Bd2 Qxe4+ 7.Be2 Kd8 8.O-O Bxd2
+9.Qxd2 a6 10.N1c3 Qe5 11.Na3 b5 12.Bf3 Nge7 13.Rad1 Qf5 14.Rfe1 Rb8 15.Qe2 d6
+16.Ne4 Bd7 17.Qe3 f6 18.g4 Qg6 19.Nxd6 cxd6 20.Rxd6 Kc7 21.Bxc6 Nxc6 22.Qg3 Kc8
+23.Red1 Rb7 24.Qg2 Nb8 25.R1d4 h5 26.Qd5 Qg5 27.Qxg5 fxg5 28.Rg6 Bxg4 29.Rxg5 Re8
+30.Kg2 Rf7 31.h3 Bd7 32.Kg3 Re2 33.Rxh5 Rexf2 34.Rc5+ Nc6 35.Rd3 Kc7 36.Nb1 Kb6
+37.Rcd5 Nb8 38.Nd2 Bc6 39.Ne4 Re2 40.Nc3 Rxc2 41.Rd2 Rxc3+ 42.bxc3 Bxd5 43.Rxd5 Rc7
+44.Rd3 Nc6 45.Kf4 Rf7+ 46.Ke4 Rf2 47.a3 Ra2 48.c4 bxc4 49.Rg3 Rd2 50.Rxg7 Rd4+
+51.Kf5 c3  0-1
+
+[Event "London m1"]
+[Site "London"]
+[Date "1876.??.??"]
+[Round "6"]
+[White "Blackburne, Joseph Henry"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5 Bb4+ 6.Bd2 Qxe4+ 7.Be2 Kd8 8.O-O Bxd2
+9.Qxd2 a6 10.N5a3 Qd4 11.Qg5+ Qf6 12.Qd2 Qxb2 13.Nc4 Qd4 14.Qc1 Nge7 15.Nbd2 d6
+16.Rd1 Be6 17.Qa3 Nd5 18.Nb3 Qc3 19.Bf1 Ndb4 20.Ne3 Re8 21.Rd2 Bxb3 22.Rad1 Rxe3
+23.fxe3 Nxc2 24.Qc1 Qxe3+ 25.Kh1 Ba4 26.Bc4 N2d4 27.Re1 Qf4 28.Rf1 Qh6 29.Qb2 Qe3
+30.Bxf7 Bb5 31.Rfd1 Nf5 32.a4 Ne5 33.axb5 Nxf7 34.Re2 Qh6 35.Qb3 axb5 36.g4 Nd4
+37.Rxd4 Ra1+ 38.Kg2 Qf6 39.Rde4 Ne5 40.Rf2 Qg6 41.Ref4 c6 42.Qe3 Kc7 43.h3 h5
+44.Rf5 hxg4 45.Rg5 gxh3+ 46.Kh2 Ra3 47.Qxe5 dxe5 48.Rxg6 b4 49.Rb2 c5 50.Rf2 Rd3
+51.Rc2 b6 52.Re6 b3 53.Rb2 c4 54.Rxe5 Kc6 55.Rg5 Rd5 56.Rxg7 Kc5 57.Kxh3 Kb4
+58.Rb1 b5 59.Rg4 Rd2 60.Rg5 b2 61.Kg3 c3 62.Kf3 Kc4 63.Rgg1 Kb3 64.Ke3 Rd8
+65.Rgf1 c2 66.Ke2 Ka2  0-1

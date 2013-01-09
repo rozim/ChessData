@@ -1,0 +1,825 @@
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "1"]
+[White "Sadler, Matthew"]
+[Black "Sherbakov, Ruslan"]
+[Result "1-0"]
+[WhiteElo "2535"]
+[BlackElo "2580"]
+[ECO "A84"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 Nd7 5.Nf3 f5 6.Qc2 Nh6 7.Be2 Bd6 8.h3 Nf6 9.Bd2 Nf7
+10.g4 O-O 11.Rg1 Ne4 12.gxf5 exf5 13.Qb3 f4 14.cxd5 Nxd2 15.Kxd2 fxe3+ 16.fxe3 Bf5
+17.e4 Bf4+ 18.Kc2 Bg6 19.Rxg6 hxg6 20.Qxb7 Nd6 21.Qxc6 Rc8 22.Qa6 Kh8 23.Bd3 Qd7
+24.Nh4 Rf6 25.e5 Bxe5 26.dxe5 Rf2+ 27.Kb3 Rb8+ 28.Ka3 Rb6 29.Nxg6+ Kg8 30.Qa5 Rfxb2
+31.Rf1 Nf7 32.Qc5 Qd8 33.Ne7+ Kh8 34.Rxf7 Rh6 35.Kxb2  1-0
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "1"]
+[White "Barua, Dibyendu"]
+[Black "Krasenkow, Michal"]
+[Result "1/2-1/2"]
+[WhiteElo "2510"]
+[BlackElo "2595"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Be2 c6 5.a4 a5 6.Be3 Nf6 7.h4 h5 8.f3 Na6 9.Nh3 Bxh3
+10.Rxh3 Nb4 11.Nb1 e6 12.c3 Na6 13.Qb3 Qc7 14.Bf4 Nd7 15.Na3 e5 16.Be3 exd4
+17.cxd4 Qb6 18.Qxb6 Nxb6 19.Nc4 Nxc4 20.Bxc4 Nb4 21.O-O-O d5 22.exd5 Nxd5
+23.Bxd5 cxd5 24.Rd3 Rc8+ 25.Kb1 Rc4 26.b3 Rc6 27.Rh1 Kd7 28.Rc1 Rhc8 29.Rxc6 Rxc6
+30.Kb2 Bf6 31.Bf2 Be7 32.Re3 Re6 33.Rxe6 Kxe6 34.Kc2 Bd6 35.Kd3 Kf5 36.Be1 b6
+37.Ke2 f6 38.Bf2 g5 39.Be1 Kf4 40.Bf2 Bb4 41.hxg5 fxg5 42.Kd3 g4 43.fxg4 Kxg4
+44.Ke2 Be7 45.Ke3 Bd6 46.Ke2 Bh2 47.Kd3 Bf4 48.Ke2 Bg5 49.Be1 Bf4 50.Bf2 Bg3
+51.Bg1 Bh4 52.Bh2 Bg3 53.Bg1 Bf4 54.Bf2 Bh2 55.Be3 Bd6 56.Bf2 Kf4 57.Kd3 Be7
+58.Be1 Kg4 59.Ke2 Bh4 60.Bxh4 Kxh4 61.Kf3 Kg5 62.g3 Kf5 63.Ke3  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "1"]
+[White "Hebden, Mark"]
+[Black "Rogers, Ian"]
+[Result "0-1"]
+[WhiteElo "2560"]
+[BlackElo "2595"]
+[ECO "D40"]
+
+1.Nf3 c5 2.c4 Nc6 3.e3 Nf6 4.d4 cxd4 5.exd4 d5 6.Nc3 e6 7.Bd3 dxc4 8.Bxc4 Be7
+9.O-O O-O 10.Be3 b6 11.Qe2 Bb7 12.Rfd1 Nb4 13.Ne5 Rc8 14.Rac1 Nbd5 15.Bd3 Rc7
+16.Bg5 h6 17.Bd2 Nxc3 18.bxc3 Qd5 19.f3 Rfc8 20.Kh1 Qd8 21.Re1 Ba3 22.Rcd1 Bb2
+23.Nc4 Bxc3 24.Bxc3 Bd5 25.Nxb6 axb6 26.Bb4 Bc4 27.Bxc4 Rxc4 28.Bc5 Ra4 29.Qb5 Rxa2
+30.Bxb6 Qd6 31.Bc5 Qf4 32.Qb3 Rca8 33.Qe3 Qxe3 34.Rxe3 Nd5 35.Ree1 R8a6 36.g3 g5
+37.Kg1 Kg7 38.Rb1 Kg6 39.Rec1 R6a4 40.Rb7 Ne3 41.Kh1 g4 42.fxg4 Nxg4 43.d5 Rxh2+
+44.Kg1 Raa2 45.dxe6 Rhg2+ 46.Kh1 Rxg3  0-1
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "1"]
+[White "Nunn, John DM"]
+[Black "Gurevich, Ilya"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2575"]
+[ECO "B44"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 Be7
+9.Be2 O-O 10.O-O b6 11.Be3 Bb7 12.Qb3 Nd7 13.Rfd1 Nc5 14.Qc2 Qc7 15.Qd2 Rfd8
+16.Nc2 Ne5 17.f3 Ncd7 18.Rac1 Rac8 19.Nd4 Qb8 20.b3 Nf6 21.Qe1 Re8 22.Qg3 Bd8
+23.Qh3 Bc7  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "1"]
+[White "Arakhamia, Ketevan"]
+[Black "Hennigan, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2440"]
+[BlackElo "2415"]
+[ECO "A24"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.Nc3 e5 7.d3 Re8 8.Rb1 c6
+9.b4 d5 10.cxd5 cxd5 11.d4 e4 12.Ne5 Bf5 13.Qb3 Nbd7 14.Bf4 Nb6 15.Rbd1 Rc8
+16.f3 exf3 17.Bxf3 Be6 18.Nd3 Bg4 19.Nc5 Bxf3 20.exf3 Nh5 21.Bc1 Re7 22.Bg5 Nf6
+23.Rfe1 Rxe1+ 24.Rxe1 Rc7 25.Qd1 h6 26.Bf4 Re7 27.Rxe7 Qxe7 28.Qe2 Qf8 29.Nb5 Nfd7
+30.Qd3 g5 31.Bd6 Qa8 32.Kg2 a6 33.Nc3 Qc8 34.Qf5 Qc6 35.Nxd7 Nxd7 36.Bc5 b6
+37.Nxd5 Bf8 38.Bxf8 Kxf8 39.Qe4 Qd6 40.a3 a5 41.Kf2 axb4 42.axb4 Nf6 43.Nxf6 Qxf6
+44.Qa8+ Kg7 45.Qd5 Kf8 46.b5 Qe7 47.Qc6 Kg7 48.Qc3 Qd6 49.d5+ Kg8 50.Qc6 Qb4
+51.Qe8+ Kg7 52.Qe5+ Kg8 53.d6 Qd2+ 54.Kg1 Qd1+ 55.Kg2 Qd2+ 56.Kh3 h5 57.f4 gxf4
+58.Qg5+ Kf8 59.Qe7+ Kg7 60.d7 fxg3 61.hxg3 Qd5 62.Kh2 Qd2+ 63.Kh3 Qd5 64.Kh2  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "2"]
+[White "Hebden, Mark"]
+[Black "Sadler, Matthew"]
+[Result "1-0"]
+[WhiteElo "2560"]
+[BlackElo "2535"]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 d6 3.f4 Nc6 4.Nf3 g6 5.Bb5 Bd7 6.O-O Bg7 7.Kh1 a6 8.Bxc6 Bxc6
+9.Qe1 Nf6 10.d3 Qd7 11.Bd2 b6 12.Rb1 Rc8 13.e5 Ng4 14.Ne4 dxe5 15.Bc3 O-O
+16.fxe5 f5 17.Neg5 e6 18.h3 Bxf3 19.Rxf3 h6 20.hxg4 hxg5 21.Qe3 Qa4 22.Qxg5 Qxg4
+23.Qe7 f4 24.Rbf1 g5 25.Rh3 Rce8 26.Qb7 b5 27.a3 Qe2 28.Re1 Qxc2 29.Qe4 Rf5
+30.Qc6 Rff8 31.Qf3 Re7 32.Qh5 Rf5 33.Qg6 Qf2 34.Rg1 f3 35.g4 Rff7 36.Rh2 Qe3
+37.Bd2 Qxe5 38.Bc3 Qd5 39.Qh7+ Kf8 40.Qh8+  1-0
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "2"]
+[White "Krasenkow, Michal"]
+[Black "Arakhamia, Ketevan"]
+[Result "1-0"]
+[WhiteElo "2595"]
+[BlackElo "2440"]
+[ECO "E90"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.h3 e5 7.d5 Nh5 8.Nh2 Qe8 9.Be2 Nf4
+10.Bf3 f5 11.Nf1 Na6 12.Ng3 Nc5 13.O-O Ncd3 14.exf5 gxf5 15.Nh5 Bh6 16.Nxf4 Nxf4
+17.Kh2 Bg7 18.Bxf4 exf4 19.Qd2 Bd7 20.Rae1 Be5 21.Ne2 Qg6 22.Nxf4 Qg5 23.g3 Rf6
+24.Re2 Rh6 25.Rfe1 Re8 26.Bg2 Kf7 27.Qa5 Rh4 28.Qxc7 Rxf4 29.Rxe5 dxe5 30.gxf4 Qxf4+
+31.Kg1 Re7 32.d6 e4 33.c5 Ke6 34.Qxb7 Rg7 35.Qb3+ Kf6 36.Re3 Qe5 37.Qc3 Qxc3
+38.Rxc3 f4 39.c6 Bxc6 40.Rxc6 f3 41.Rc4 Rxg2+ 42.Kf1 Rh2 43.Ke1 e3 44.Rf4+ Ke6
+45.Re4+ Kxd6 46.Rxe3 Rxh3 47.Ra3 Rh1+ 48.Kd2 Rb1 49.b3 Rb2+ 50.Ke3 Re2+ 51.Kxf3 Re7
+52.Ra5 Ke6 53.Kg4 Rb7 54.f4 Kf6 55.Ra6+ Kf7 56.Kg5 Kg7 57.Ra5 Kf7 58.Kf5 Kg7
+59.Kg5 Kf7 60.Ra6 Kg7 61.f5 Kf7 62.b4 Rxb4 63.Rxa7+ Kg8 64.a4 Rb6 65.a5 Rc6
+66.a6 Rb6 67.Ra8+ Kg7 68.a7  1-0
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "2"]
+[White "Rogers, Ian"]
+[Black "Hennigan, Michael"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2415"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.O-O d5 6.d3 Ne7 7.c4 Ng6 8.Nc3 Be7
+9.b3 O-O 10.Ba3 Bd6 11.Re1 d4 12.Na4 e5 13.Bxc5 Nf4 14.g3 Nh3+ 15.Kg2 Bg4
+16.Qd2 f5 17.Ng1 Nxg1 18.Kxg1 Bf3 19.Bxd6 Qxd6 20.Qg5 f4 21.Rec1 Rf6 22.Kf1 Rg6
+23.c5 Qc7  0-1
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "2"]
+[White "Gurevich, Ilya"]
+[Black "Barua, Dibyendu"]
+[Result "0-1"]
+[WhiteElo "2575"]
+[BlackElo "2510"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O Qh4 8.c4 O-O-O
+9.c5 g5 10.Be3 Nf6 11.Nd2 Rg8 12.Nf3 Qh5 13.Ne5 Qxd1 14.Raxd1 Be6 15.f4 gxf4
+16.Bxf4 Ne4 17.c6 f6 18.cxb7+ Kxb7 19.Nc4 f5 20.Na5+ Kb6 21.Rc1 c5 22.b4 c4
+23.Bxe4 fxe4 24.a3 Rg6 25.b5 Kxa5 26.Bc7+ Ka4 27.Bxd8 Bg7 28.Kh1 Bxd4 29.Rb1 e3
+30.Rb4+ Kxa3 31.Be7 Ka2 32.Re1 Bg4 33.h3 Re6 34.Ra4+ Kb2 35.Bg5 Kb3 36.Ra6 Rxa6
+37.bxa6 Bf5 38.Bxe3 Bxe3 39.Rxe3+ c3 40.Kh2 Be4  0-1
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "2"]
+[White "Sherbakov, Ruslan"]
+[Black "Nunn, John DM"]
+[Result "0-1"]
+[WhiteElo "2580"]
+[BlackElo "2590"]
+[ECO "E97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O Nc6 8.d5 Ne7
+9.Nd2 a5 10.Rb1 Bd7 11.b3 Ne8 12.a3 f5 13.b4 axb4 14.axb4 Nf6 15.f3 c6 16.dxc6 Nxc6
+17.Nb5 Be6 18.Qc2 Rc8 19.Qd3 Nh5 20.g3 Qg5 21.Nb3 f4 22.g4 Rfd8 23.Bd2 Nf6
+24.Be1 Ne8 25.Rc1 Qe7 26.Qd2 h5 27.gxh5 Qg5+ 28.Kh1 Qxh5 29.Na5 Rd7 30.Nxc6 bxc6
+31.Nc3 Bf6 32.Bf2 Rh7 33.Bg1 Bh3 34.b5 c5 35.b6 Bh4 36.Nd5 Qg5 37.Bd3 Ng7
+38.Ra1 Ne6 39.Ra7 Qh5 40.Rxh7 Kxh7 41.Qe2 Bxf1 42.Qxf1 Kh6 43.Be2 Bd8 44.Qb1 Qh4
+45.Bf1 Rb8 46.Qb5 Qe1 47.Qe8 Bf6 48.Qxe6 Qxf1 49.Qg4 Bd8 50.h3 Qe1 51.Qe6 Qg3
+52.Qxd6 Qxh3+ 53.Bh2 Bh4  0-1
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "3"]
+[White "Sadler, Matthew"]
+[Black "Rogers, Ian"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2595"]
+[ECO "A52"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.Bf4 Bb4+ 5.Nd2 d6 6.Nf3 dxe5 7.Bxe5 Bxd2+ 8.Qxd2 Qxd2+
+9.Kxd2 Nxf2 10.Rg1 O-O 11.Bxc7 Na6 12.Be5 Ne4+ 13.Ke3 Bf5 14.g4 Bg6 15.Nh4 Rfe8
+16.Nxg6 Nac5 17.Nf4 Rxe5 18.Bg2 Rae8 19.Bf3 Nd6+ 20.Kd4 b6 21.Nd3 R5e6 22.Bd5 Rxe2
+23.Nxc5 bxc5+ 24.Kxc5 Ne4+ 25.Bxe4 R8xe4 26.b3 h5 27.gxh5 Re5+ 28.Kc6 Rxh5
+29.Rgd1  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "3"]
+[White "Nunn, John DM"]
+[Black "Hebden, Mark"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2560"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 Bb7
+9.d3 d6 10.Nbd2 Nb4 11.Nf1 c5 12.Ng3 Rc8 13.Bd2 Nc6 14.Nf5 Ne8 15.Nxe7+ Nxe7
+16.c3 Ng6 17.d4 Nf6 18.Bc2 Re8 19.d5 c4 20.b4 Rb8 21.h3 Bc8 22.Nh2 Bd7 23.Nf1 h6
+24.Ng3 Rf8 25.Qc1 Nh7 26.axb5 Bxb5 27.Ba4 Nh4 28.Bxb5 axb5 29.Ra6 f5 30.exf5 Ra8
+31.Qa3 Nf6 32.Ra1 Rb8 33.Rd1 Qd7 34.Ra7 Rb7 35.Ra8 Rbb8 36.Ra7 Rb7 37.Ra8 Rbb8  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "3"]
+[White "Barua, Dibyendu"]
+[Black "Sherbakov, Ruslan"]
+[Result "0-1"]
+[WhiteElo "2510"]
+[BlackElo "2580"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bf1 d5 7.exd5 Qxd5 8.Nc3 Qd8
+9.Ne4 Ng6 10.b3 Be7 11.Bb2 e5 12.Ng3 O-O 13.Bd3 f5 14.Nxe5 Ncxe5 15.Bxe5 Nxe5
+16.Rxe5 Bf6 17.Rxc5 Qd4 18.Rc3 Qb6 19.Rc4 Be6 20.Rb1 Bd4 21.Rxd4 Qxd4 22.Qf3 b5
+23.Ne2 Qe5 24.Nf4 Bf7 25.h4 g6 26.g3 Rad8 27.Qb7 Rd6 28.a4 Be8 29.a5 h6 30.Qc7 g5
+31.Ng2 Bc6 32.Re1 Qd5 33.Bf1 Rd7 34.Qb6 f4 35.c4 Qf3 36.gxf4 Rxf4 37.Re6 Rdd4
+38.Qb8+ Kf7 39.Re2 Rg4 40.Qc7+ Rd7 41.Qh2 gxh4 42.cxb5 axb5 43.b4 h3 44.Re3 Qd1  0-1
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "3"]
+[White "Hennigan, Michael"]
+[Black "Krasenkow, Michal"]
+[Result "0-1"]
+[WhiteElo "2415"]
+[BlackElo "2595"]
+[ECO "B08"]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Nc3 Nf6 5.Be3 O-O 6.Qd2 c6 7.Bh6 Bg4 8.Bxg7 Kxg7
+9.Ng5 h6 10.h3 Bh5 11.g4 hxg5 12.Be2 Rh8 13.Qxg5 Bxg4 14.Bxg4 e5 15.O-O-O Nxg4
+16.Qxg4 Rh4 17.Qg3 Qe7 18.Rd3 Na6 19.Rhd1 Rah8 20.dxe5 Qxe5 21.Qg2 Nc5 22.Rxd6 Rxh3
+23.R6d4 Qf4+ 24.Kb1 Rh2 25.Qg3 Rxf2 26.Qxf4 Rxf4 27.b4 Rh3 28.Kb2 Rff3 29.bxc5 Rxc3
+30.Rd7 Rhf3 31.Rxb7 Rxc5 32.Rxa7 g5 33.Rg1 Rf4 34.a4 Rxe4 35.Rf1 Rf4 36.Rxf4 gxf4
+37.Rd7 Kg6 38.Kb3 f3 39.Rd1 Kg5 40.c4 Kf4 41.Kb4 Re5 42.a5 f2 43.Rf1 Kf3
+44.a6 Kg2 45.a7 Re8 46.Rxf2+ Kxf2 47.Kc5 Ra8  0-1
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "3"]
+[White "Arakhamia, Ketevan"]
+[Black "Gurevich, Ilya"]
+[Result "1-0"]
+[WhiteElo "2440"]
+[BlackElo "2575"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Qb6 6.Nb3 Qc7 7.O-O Nf6 8.f4 d6
+9.Nc3 Nc6 10.Qf3 Be7 11.Be3 O-O 12.Rae1 Rb8 13.Qg3 b5 14.e5 dxe5 15.fxe5 Nh5
+16.Qf3 g6 17.Bh6 Bb7 18.Bxf8 Nxe5 19.Qe3 Nxd3 20.Bxe7 Nxe1 21.Qc5 Qxc5+ 22.Nxc5 b4
+23.N3a4 Nxg2 24.Bd6 Rc8 25.Nxb7 Ne3 26.Rc1 Rc4 27.b3 Rg4+ 28.Kf2 Nf5 29.Rd1 f6
+30.c4 bxc3 31.Nxc3 e5 32.Nd5 Rh4 33.Kg1 Rg4+ 34.Kh1 Kg7 35.Bc5 Re4 36.Nc3 Rh4
+37.Nd8 Nf4 38.Rd7+ Kh6 39.Ne4 g5 40.Nf7+ Kh5 41.Nxf6+ Kg6 42.Ne4  1-0
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "4"]
+[White "Gurevich, Ilya"]
+[Black "Hennigan, Michael"]
+[Result "1-0"]
+[WhiteElo "2575"]
+[BlackElo "2415"]
+[ECO "B68"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7
+9.f4 Be7 10.Nf3 b5 11.e5 b4 12.exf6 bxc3 13.Qxc3 gxf6 14.f5 d5 15.fxe6 fxe6
+16.Bh4 Nb4 17.Kb1 Rc8 18.Qd2 Rxc2 19.Qh6 Qa5 20.a3 Qa4 21.Qh5+ Kd8 22.Nd4 Be8
+23.Qf3 Bg6 24.Ka1 e5 25.Nf5 Rxb2 26.Bc4 Bxf5 27.Kxb2 Qc2+ 28.Ka1 Qxc4 29.axb4 Be4
+30.Qa3 Bxb4 31.Bxf6+ Kd7 32.Qh3+ Kd6 33.Rc1 Qd4+ 34.Ka2 Rb8 35.Be7+ Kxe7
+36.Rc7+ Kf8 37.Qh6+ Ke8 38.Qe6+  1-0
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "4"]
+[White "Sherbakov, Ruslan"]
+[Black "Arakhamia, Ketevan"]
+[Result "0-1"]
+[WhiteElo "2580"]
+[BlackElo "2440"]
+[ECO "E97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O Nc6 8.d5 Ne7
+9.Nd2 a5 10.Rb1 Nd7 11.a3 f5 12.b4 Kh8 13.f3 Ng8 14.Bd3 f4 15.Qc2 h5 16.Be2 g5
+17.c5 dxc5 18.bxc5 Nxc5 19.Nb5 Na6 20.Nc4 g4 21.Bb2 Re8 22.d6 c6 23.d7 Bxd7
+24.Nbd6 Qc7 25.Bc3 Nc5 26.Nxe8 Bxe8 27.Rfd1 Bg6 28.Rd6 Kh7 29.Rbd1 Qe7 30.Nb6 Re8
+31.Bc4 Qg5 32.Kh1 Nf6 33.Re1 Bf8 34.Rdd1 h4 35.Bxa5 h3 36.Bb4 Qh5 37.fxg4 Nxg4
+38.Nd7 hxg2+ 39.Qxg2 Nxe4 40.Rxe4 Nf2+ 41.Kg1 Nh3+ 42.Qxh3 Qxh3 43.Nf6+ Kh8
+44.Re2 Bxb4 45.axb4 Rf8 46.Nd7 Rd8 47.Rd6 Rxd7 48.Be6 Qf3  0-1
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "4"]
+[White "Rogers, Ian"]
+[Black "Krasenkow, Michal"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2595"]
+[ECO "D31"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 dxc4 5.e3 b5 6.a4 Bb4 7.Bd2 a5 8.axb5 Bxc3
+9.Bxc3 cxb5 10.b3 Bb7 11.d5 Nf6 12.bxc4 b4 13.Bxf6 Qxf6 14.Qa4+ Nd7 15.Nd4 e5
+16.Nb3 Ke7 17.Be2 Qd6 18.Bg4 Nb6 19.c5 Qxd5 20.cxb6 Bc6 21.Qa2 Qxg2 22.Rf1 Qxg4
+23.Nxa5 Bb5 24.Qb2 Qe4 25.b7 Ra6 26.Rg1 Rd8 27.Qc1 Qd3 28.Qb2 Kf6  0-1
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "4"]
+[White "Hebden, Mark"]
+[Black "Barua, Dibyendu"]
+[Result "1/2-1/2"]
+[WhiteElo "2560"]
+[BlackElo "2510"]
+[ECO "D12"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.cxd5 cxd5 6.Qb3 Qc8 7.Bd2 Nc6 8.Bb5 e6
+9.Bb4 Bxb4+ 10.Qxb4 Bd3 11.Bxc6+ Qxc6 12.Nc3 Nd7 13.Rc1 Qb6 14.Qa3 Ba6 15.Kd2 f6
+16.Rhe1 Kf7 17.e4 dxe4 18.Nxe4 Rhd8 19.Rc3 Kg8 20.Kc1 Rac8 21.Kb1 Rxc3 22.Qxc3 Bb5
+23.Qb3 Nf8 24.Nc5 Bc6 25.Qxb6 axb6 26.Nxe6 Nxe6 27.Rxe6 Kf7 28.Re3 g5 29.h3 h5
+30.Kc1 Bxf3 31.Rxf3 Rxd4 32.Rb3 Rd6 33.g4 h4 34.Kc2 Rc6+ 35.Kd2 Rd6+ 36.Ke2 Rc6
+37.Kf3 Ke6 38.Rb5 Kf7 39.Ke4 Kg6 40.a3 Re6+ 41.Kf3 Rc6 42.Kg2 Rd6 43.a4 Rc6
+44.Kf3 Rd6 45.Ke3 Re6+ 46.Kd4 Rc6 47.b3 Re6 48.f3 Rc6 49.b4 Re6 50.a5 bxa5
+51.bxa5 Re7 52.Kc4 Rc7+ 53.Rc5 Re7 54.Rb5 Rc7+ 55.Rc5 Re7 56.Kd4 Re1 57.Rb5 Ra1
+58.Kc4 Ra3 59.Rf5 Ra1 60.Rb5 Ra3 61.Rf5 Ra1 62.Rb5  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "4"]
+[White "Sadler, Matthew"]
+[Black "Nunn, John DM"]
+[Result "0-1"]
+[WhiteElo "2535"]
+[BlackElo "2590"]
+[ECO "E81"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 Nc6 7.Nge2 a6 8.Qd2 Bd7
+9.h4 h5 10.O-O-O b5 11.Nd5 bxc4 12.Nxf6+ exf6 13.Bh6 f5 14.Bxg7 Kxg7 15.Nc3 fxe4
+16.fxe4 Bg4 17.Be2 Qd7 18.Nd5 Rae8 19.Bf3 f5 20.exf5 Bxf5 21.Qc3 Ne7 22.Nxe7 Qxe7
+23.Rde1 Qf6 24.Rxe8 Rxe8 25.Qxc4 c5 26.Qxa6 cxd4 27.Kd1 Rc8 28.Re1 Bc2+ 29.Ke2 d3+
+30.Kf2 d2 31.Qb7+ Kh6 32.Re7 Qxh4+ 33.Kg1 Qe1+ 34.Kh2 Qh4+ 35.Kg1 Qe1+ 36.Kh2 Rc4
+37.g3 Qf2+ 38.Bg2 d1=Q 39.Rh7+ Kg5 40.Qe7+ Qf6 41.Qe3+ Rf4 42.Ra7 Qdd4  0-1
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "5"]
+[White "Arakhamia, Ketevan"]
+[Black "Hebden, Mark"]
+[Result "0-1"]
+[WhiteElo "2440"]
+[BlackElo "2560"]
+[ECO "A49"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d4 d6 6.b3 a5 7.a4 Nc6 8.Bb2 Bf5
+9.Nbd2 Qc8 10.Re1 Bh3 11.Bh1 Qf5 12.e4 Qh5 13.Nh4 Ng4 14.Nf1 e5 15.f3 Nh6
+16.d5 Nb4 17.Ne3 Rae8 18.f4 Ng4 19.fxe5 Nxe3 20.Rxe3 Qh6 21.Re1 Bxe5 22.Bxe5 Rxe5
+23.c3 Na6 24.Nf3 Bg4 25.Qd2 Qxd2 26.Nxd2 b6 27.Bg2 Rfe8 28.Reb1 Be2 29.b4 Bd3
+30.Rb2 f5 31.exf5 axb4 32.cxb4 gxf5 33.Bf3 Be2 34.Bg2 Kg7 35.Rc1 R8e7 36.Kf2 Kf6
+37.Nf3 Re4 38.Ng1 Rc4 39.Re1 Bd3 40.Rxe7 Kxe7 41.a5 Nxb4 42.axb6 cxb6 43.Ne2 Be4
+44.Bxe4 fxe4 45.Rd2 Kf6 46.Nf4 Ke5 47.Rd1 Rc2+ 48.Kg1 Na2 49.Re1 b5  0-1
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "5"]
+[White "Hennigan, Michael"]
+[Black "Sherbakov, Ruslan"]
+[Result "1-0"]
+[WhiteElo "2415"]
+[BlackElo "2580"]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Ba4 c6 6.Nxe5 d6 7.Nf3 Bg4 8.d3 Be7
+9.Be3 Nxf3+ 10.gxf3 Bh5 11.Nb1 d5 12.c3 Qd6 13.Nd2 O-O 14.Bc2 h6 15.Nf1 dxe4
+16.dxe4 Qe6 17.Ng3 Rfd8 18.Qe2 Bg6 19.Bd2 Bc5 20.Bb3 Qe7 21.O-O-O a5 22.Bc2 Re8
+23.Rhe1 a4 24.f4 Nd7 25.f5 Bh7 26.Rg1 Kh8 27.Nh5 Rg8 28.Qf3 Ne5 29.Qf4 f6
+30.Kb1 Nc4 31.Bc1 a3 32.b3 Nb2 33.Rde1 Bd6 34.Qh4 Rad8 35.f4 Bc5 36.Rg2 Nd3
+37.Rd1 Qxe4 38.Rgd2 Qxf5 39.Rxd3 Rxd3 40.Bxd3 Qd5 41.Qh3 Rd8 42.Kc2 Be3 43.f5 Bxc1
+44.Kxc1 Qc5 45.Be4 Rxd1+ 46.Kxd1 Qg1+ 47.Ke2 Qg5 48.Qf3 Bg8 49.c4 b5 50.Bd3 Qh4
+51.Nf4 Qxh2+ 52.Qf2 Qh1 53.Qg2 Qa1 54.Ng6+ Kh7 55.Nf8+ Kh8 56.Ng6+ Kh7 57.Ke3 Qc1+
+58.Qd2 Qg1+ 59.Qf2 Qa1 60.Nf8+ Kh8 61.Ne6 Qe5+ 62.Kd2 bxc4 63.bxc4 Qb2+ 64.Bc2 Qb4+
+65.Kd3 Qd6+ 66.Kc3 Qb8 67.Qg2 Qb2+ 68.Kd3 Qb7 69.Qg3 Qd7+ 70.Kc3 Qa7 71.Kb4 h5
+72.Qc7 Qg1 73.Kxa3 h4 74.Qxc6 Qc1+ 75.Kb3 Qe3+ 76.Ka4 Qf2 77.Be4 Qxa2+ 78.Kb4 Qd2+
+79.Kb5 Bf7 80.Kb6 Qb4+ 81.Kc7 h3 82.c5 h2 83.Qb7 Qe1 84.Qd5 Qg1 85.c6 Qa7+
+86.Kd8 Qb8+ 87.Ke7 Qa7+ 88.Qd7 Qe3 89.Kxf7 Qxe4 90.Qe8+ Kh7 91.Nf8+  1-0
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "5"]
+[White "Krasenkow, Michal"]
+[Black "Gurevich, Ilya"]
+[Result "1/2-1/2"]
+[WhiteElo "2595"]
+[BlackElo "2575"]
+[ECO "A16"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Qa4+ Bd7 6.Qh4 Nxc3 7.dxc3 Nc6 8.Qg3 f6
+9.e4 e5 10.h4 Qe7 11.h5 g5 12.Be2 Nd8 13.Nh2 Ne6 14.Bg4 O-O-O 15.O-O Qf7
+16.Rd1 Bd6 17.Qf3 Kb8 18.g3 Rhg8 19.Bf5 Nf8 20.Bxd7 Rxd7 21.Be3 Ne6 22.Ng4 Qxh5
+23.Qf5 Qf7 24.Nxf6 Rf8 25.Nxd7+ Qxd7 26.Qh3 Qf7 27.Rd5 h5 28.Rad1 g4 29.Qh4 Be7
+30.Qh2 Bf6 31.Qg2 h4 32.gxh4 Qh5 33.Qg3 c6 34.Rd6 Bxh4 35.Qh2 Kc8 36.R1d2 Nf4
+37.Bxf4 exf4 38.f3 Rh8 39.Kf1 Qe5 40.Qg2 Bg3 41.fxg4 Rh2  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "5"]
+[White "Nunn, John DM"]
+[Black "Rogers, Ian"]
+[Result "1-0"]
+[WhiteElo "2590"]
+[BlackElo "2595"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.f3 b5 8.Qd2 Nbd7
+9.g4 h6 10.O-O-O Bb7 11.h4 b4 12.Nce2 d5 13.Ng3 Bd6 14.Rg1 Qc7 15.g5 hxg5
+16.hxg5 Bxg3 17.gxf6 Nxf6 18.Qxb4 Bd6 19.Qa4+ Kf8 20.Bd3 Nd7 21.Nb3 Bc6 22.Qa5 Ne5
+23.Bc5 Kg8 24.Bxd6 Qxd6 25.Nd4 Bb7 26.Kb1 Rc8 27.Be2 g6 28.f4 Nc6 29.Qb6 Qc7
+30.Qxc7 Rxc7 31.exd5 Nxd4 32.Rxd4 exd5 33.f5 Kg7 34.fxg6 fxg6 35.Bd3 Rh6
+36.Rb4 a5 37.Ra4 Rc5 38.b4 Bc6 39.b5 Bxb5 40.Rxa5 Bxd3 41.Rxc5 Be4 42.a4 Rh8
+43.Kb2 Kf6 44.a5 Ra8 45.Kc3 Ke5 46.Kb4 Kd6 47.c4 d4 48.Rg4 Re8 49.Rf4 Re6
+50.Rb5  1-0
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "5"]
+[White "Barua, Dibyendu"]
+[Black "Sadler, Matthew"]
+[Result "0-1"]
+[WhiteElo "2510"]
+[BlackElo "2535"]
+[ECO "B52"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nc6 6.c3 Nf6 7.Qe2 e6 8.Rd1 Be7
+9.d4 cxd4 10.cxd4 d5 11.e5 Ne4 12.Ne1 f6 13.f3 Ng5 14.Be3 Nf7 15.f4 O-O 16.Nc3 Rac8
+17.Bf2 Nh6 18.Rd3 fxe5 19.fxe5 Nf5 20.Rad1 Qe8 21.g4 Nh4 22.Rh3 Ng6 23.Ng2 Nf4
+24.Nxf4 Rxf4 25.Be3 Rf8 26.Qd3 Qg6 27.Qxg6 hxg6 28.Ne2 g5 29.Rc1 Nb4 30.Rxc8 Rxc8
+31.Nc3 Rc4 32.Bf2 Bd8 33.a3 Nc2 34.Rd3 a6 35.Ne2 b5 36.Kg2 Kf7 37.Rf3+ Kg8
+38.Rd3 Bb6 39.h4 gxh4 40.g5 Kh7 41.Kh3 b4 42.a4 b3 43.a5 Bxa5 44.Nf4 Be1
+45.Bg1 Rc6 46.Rxb3 Bd2 47.Nh5 Bxg5 48.Rb7 Bh6 49.Kg4 Kg6  0-1
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "6"]
+[White "Sadler, Matthew"]
+[Black "Arakhamia, Ketevan"]
+[Result "0-1"]
+[WhiteElo "2535"]
+[BlackElo "2440"]
+[ECO "A65"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 c5 7.d5 e6 8.Qd2 exd5 9.cxd5 b6
+10.a4 Na6 11.Nh3 Nb4 12.Nf2 h6 13.Be3 h5 14.Bb5 Ba6 15.O-O Bxb5 16.axb5 a6
+17.bxa6 Nxa6 18.Ra3 Nc7 19.Rfa1 Rxa3 20.Rxa3 b5 21.e5 dxe5 22.Bxc5 Re8 23.d6 Ne6
+24.Bb4 Nd4 25.Nfe4 Nxe4 26.Nxe4 f5 27.Nc3 e4 28.fxe4 fxe4 29.Nd5 Rf8 30.Bc5 Qg5
+31.Nf6+ Rxf6  0-1
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "6"]
+[White "Hebden, Mark"]
+[Black "Hennigan, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2560"]
+[BlackElo "2415"]
+[ECO "D00"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.Be2 c5 7.dxc5 Qa5 8.Nd2 Qxc5
+9.Nb3 Qb6 10.a4 Nc6 11.a5 Qd8 12.O-O Bf5 13.a6 bxa6 14.Nd4 Nxd4 15.exd4 a5
+16.g4 Be6 17.Be5 Ne4 18.Nxe4 Bxe5 19.Nc5 Bc7 20.f4 Qd6 21.Qd2 Rab8 22.c3 Bc8
+23.Rf2 f6 24.Raf1 Kg7 25.Bd1 Bb6 26.Qe3 e6 27.Ba4 Rf7 28.g5 fxg5 29.fxg5 Rf5
+30.Rxf5 gxf5 31.Re1 Bc7 32.Qh3 Rxb2 33.Re5 Qf8 34.Nxe6+ Bxe6 35.Qh6+ Kg8
+36.Qxe6+ Qf7 37.Qc8+ Kg7 38.Be8 Rb8 39.Bxf7 Rxc8 40.Re7 Bd6 41.Rd7 Rc7 42.Rxd6 Kxf7
+43.Rf6+ Kg7 44.Rxf5 Rxc3 45.Rxd5 a4 46.Rd7+  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "6"]
+[White "Rogers, Ian"]
+[Black "Gurevich, Ilya"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2575"]
+[ECO "D92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bf4 O-O 6.Rc1 dxc4 7.e3 Be6 8.Ne5 c5
+9.dxc5 Qxd1+ 10.Nxd1 Rc8 11.Bxc4 Bxc4 12.Rxc4 Nfd7 13.c6 bxc6 14.Nd3 Nb6
+15.Rc2 Na6 16.a3 c5 17.O-O c4 18.Ne5 f6 19.Nf3 Nc5 20.Nc3 Nd3 21.Bg3 f5 22.Rb1 e5
+23.h3 e4 24.Nd2 Rc6 25.Kf1 Rd8 26.Ke2 Rd7 27.Bh2 Bxc3 28.Rxc3 Nxf2 29.b3 Nd3
+30.Nxc4 Nd5 31.Rc2 a5 32.g4 fxg4 33.hxg4 Rf7 34.Rf1 Rxf1 35.Kxf1 a4 36.bxa4 Rxc4
+37.Rxc4 Nxe3+ 38.Ke2 Nxc4 39.Bc7 Kf7 40.a5 Nc5  0-1
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "6"]
+[White "Nunn, John DM"]
+[Black "Barua, Dibyendu"]
+[Result "1-0"]
+[WhiteElo "2590"]
+[BlackElo "2510"]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Ba4 c6 6.O-O Nxf3+ 7.Qxf3 d6 8.d3 h6
+9.Qe2 Be6 10.Bb3 Bxb3 11.axb3 g6 12.f4 Bg7 13.fxe5 dxe5 14.Qf3 Qe7 15.Be3 a6
+16.Kh1 Nd7 17.Qh3 h5 18.Rf3 O-O 19.g4 hxg4 20.Qxg4 Nf6 21.Qh4 Qe6 22.Bc5 Rfe8
+23.Rg1 Nh5 24.Ne2 Rab8 25.Ng3 Nxg3+ 26.Rgxg3 b6 27.Be3 Qd7 28.Rh3 Kf8 29.Qh7 Rb7
+30.Qxg6 Re6 31.Rh8+  1-0
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "6"]
+[White "Sherbakov, Ruslan"]
+[Black "Krasenkow, Michal"]
+[Result "1/2-1/2"]
+[WhiteElo "2580"]
+[BlackElo "2595"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bb5+ c6 8.Ba4 b5
+9.Bb3 b4 10.Qf3 O-O 11.Ne2 a5 12.O-O Ba6 13.Rd1 a4 14.Bc2 b3 15.Bd3 c5 16.e5 Bxd3
+17.Qxd3 Nc6 18.Ba3 cxd4 19.cxd4 Nxe5 20.dxe5 Qxd3 21.Rxd3 Bxe5 22.Rf1 bxa2
+23.Nc3 Rfd8 24.Rxd8+ Rxd8 25.Nxa2 Rd2 26.Nc1 Bd6 27.Bxd6 exd6 28.Re1 a3 29.Kf1 a2
+30.Nb3 Rb2 31.Na1 Rb1 32.Ke2 d5 33.Rd1 d4 34.g3 d3+ 35.Rxd3 Rxa1 36.Ra3 Rh1
+37.Rxa2 Rxh2 38.Kf1 Rh5 39.Kg2 Kg7 40.Ra6 Rb5 41.Rc6 h5 42.Ra6 g5 43.Rc6 Rb4
+44.Ra6 f6 45.Ra7+ Kg6 46.Ra8 h4 47.gxh4 Rxh4 48.Ra6 Rd4 49.Rb6 Kf5 50.Kg3 Ke5
+51.Rb5+ Ke4 52.f3+ Ke3 53.Rb3+ Ke2 54.Rb2+ Kd3 55.Rb3+ Kc4 56.Rb6  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "7"]
+[White "Barua, Dibyendu"]
+[Black "Rogers, Ian"]
+[Result "0-1"]
+[WhiteElo "2510"]
+[BlackElo "2595"]
+[ECO "B14"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.Qb3 Nc6 8.Bg5 dxc4
+9.Bxc4 O-O 10.Rd1 Be7 11.Bd3 b6 12.O-O Bb7 13.Bb1 g6 14.Ne5 Rc8 15.Rfe1 Na5
+16.Qb5 Nd5 17.Bh6 Nxc3 18.bxc3 Re8 19.Qd3 Qd5 20.Qg3 Rxc3 21.f3 Bd6 22.h4 Nc6
+23.Qf4 f5 24.Be4 Qb5 25.h5 Nxe5 26.dxe5 Bxe5 27.Qg5 fxe4 28.hxg6 Rc2 29.Rd8 exf3
+30.Rxe5 Rxg2+ 31.Qxg2 fxg2 32.Rxb5 Rxd8 33.gxh7+ Kxh7  0-1
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "7"]
+[White "Hennigan, Michael"]
+[Black "Sadler, Matthew"]
+[Result "1/2-1/2"]
+[WhiteElo "2415"]
+[BlackElo "2535"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nf3 Qc7 8.a4 Be7
+9.a5 O-O 10.Be2 Nc6 11.Bb6 Qd7 12.Nd2 d5 13.exd5 Nxd5 14.Nxd5 Qxd5 15.O-O Be6
+16.Nc4 Qb5 17.b3 e4 18.Qd2 Qf5 19.c3 Bg5 20.Qc2 Qg6 21.f4 Bh4 22.Rad1 Bd8
+23.Bc5 Bh3 24.Ne3 Be7 25.Bb6 Bd8 26.Rxd8 Raxd8 27.f5 Qg5 28.Kh1 Rd2 29.Qxd2 Bxg2+
+30.Kg1 Bf3+ 31.Kf2 Qh4+ 32.Kg1 Qg5+ 33.Kf2 Qh4+  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "7"]
+[White "Gurevich, Ilya"]
+[Black "Sherbakov, Ruslan"]
+[Result "1/2-1/2"]
+[WhiteElo "2575"]
+[BlackElo "2580"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e5 4.Bc4 d6 5.d3 Be7 6.Nd2 Nf6 7.Nf1 Bg4 8.f3 Be6
+9.Ne3 Nd4 10.a4 O-O 11.O-O Nh5 12.Ncd5 Bg5 13.c3 Nc6 14.g3 Bxe3+ 15.Bxe3 Ne7
+16.Bg5 Bxd5 17.Bxd5 h6 18.Bxe7 Qxe7 19.f4 g6 20.fxe5 dxe5 21.Qb3 Rab8 22.Rf3 Nf6
+23.Raf1 Nxd5 24.Qxd5 Rbc8 25.Rf6 Kg7 26.Rd6 Rc7 27.a5 h5 28.h4 f6 29.Kg2 Rf7
+30.Rf3 Rf8 31.Rf2 Rf7 32.c4 Rd7 33.Rfxf6 Qxf6 34.Rxd7  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "7"]
+[White "Krasenkow, Michal"]
+[Black "Hebden, Mark"]
+[Result "1-0"]
+[WhiteElo "2595"]
+[BlackElo "2560"]
+[ECO "E62"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.d4 Nc6 7.Nc3 Rb8 8.e4 Bg4
+9.Be3 Nd7 10.Ne2 Na5 11.Rc1 c5 12.b3 Nc6 13.d5 Nb4 14.a3 Nd3 15.Qxd3 Bxf3
+16.Bxf3 Ne5 17.Qd1 Nxf3+ 18.Kg2 Ne5 19.b4 Ng4 20.Bd2 b6 21.h3 Nf6 22.Qc2 e6
+23.Nc3 exd5 24.exd5 Qd7 25.Rfe1 cxb4 26.axb4 a6 27.Qd3 b5 28.c5 dxc5 29.bxc5 b4
+30.c6 Qf5 31.Qxf5 gxf5 32.d6 bxc3 33.Bxc3 Nd5 34.Ba5 Bh6 35.c7 Bxc1 36.cxb8=Q Rxb8
+37.d7 Nf6 38.d8=Q+ Rxd8 39.Bxd8 Bb2 40.Re2 Bc3 41.Re3 Bb2 42.Bxf6 Bxf6 43.Rf3 a5
+44.Rxf5 Bc3 45.Rb5 Kg7 46.Rb6 h5 47.Kf3 f6 48.g4 Kg6 49.Ke4 hxg4 50.hxg4 Kg5
+51.f3  1-0
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "7"]
+[White "Arakhamia, Ketevan"]
+[Black "Nunn, John DM"]
+[Result "1/2-1/2"]
+[WhiteElo "2440"]
+[BlackElo "2590"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 d6 7.Bf4 e5 8.Bg5 a6
+9.Na3 b5 10.Bxf6 gxf6 11.Nd5 Bg7 12.c3 f5 13.exf5 Bxf5 14.Nc2 Ne7 15.Nce3 Be6
+16.g3 Nxd5 17.Nxd5 O-O 18.Bg2 a5 19.O-O Rb8 20.Qh5 f5 21.Rad1 Kh8 22.Rd2 Bf7
+23.Qh3 Bg6  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "8"]
+[White "Nunn, John DM"]
+[Black "Hennigan, Michael"]
+[Result "1-0"]
+[WhiteElo "2590"]
+[BlackElo "2415"]
+[ECO "B67"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7
+9.f3 b5 10.Nxc6 Bxc6 11.h4 Qc7 12.Kb1 Be7 13.h5 h6 14.Be3 Rb8 15.Bd3 b4 16.Ne2 d5
+17.e5 Nd7 18.f4 Bb5 19.Nd4 Bxd3 20.cxd3 Bc5 21.Nb3 Bxe3 22.Qxe3 O-O 23.Rc1 Qb6
+24.Qxb6 Nxb6 25.Rc6 d4 26.g3 Kh7 27.Rhc1 g6 28.hxg6+ Kxg6 29.Nxd4 Rfd8 30.Rd6 Rxd6
+31.exd6 Rd8 32.Rc6 Nd5 33.Rxa6 Kh5 34.Nf3 f6 35.Nd4 Kg4 36.Nxe6 Rd7 37.Nc5 Rd8
+38.d7 Kxg3 39.Rd6  1-0
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "8"]
+[White "Rogers, Ian"]
+[Black "Sherbakov, Ruslan"]
+[Result "1-0"]
+[WhiteElo "2595"]
+[BlackElo "2580"]
+[ECO "A01"]
+
+1.b3 e5 2.Bb2 Nc6 3.e3 Nf6 4.Bb5 Bd6 5.a3 O-O 6.Be2 Be7 7.c4 e4 8.Nc3 d5
+9.cxd5 Ne5 10.Nxe4 Nxe4 11.Bxe5 Qxd5 12.Nf3 Bg4 13.Bxc7 Rac8 14.Bf4 Bf6 15.Ra2 Be6
+16.Bc4 Rxc4 17.bxc4 Qxc4 18.Rc2 Qb5 19.Qc1 g5 20.a4 Qd3 21.Be5 Bb3 22.Rc8 Rxc8
+23.Qxc8+ Kg7 24.Bxf6+ Nxf6 25.Qc1 Nd5 26.Nd4 Bxa4 27.f3 Nf4 28.Kf2 Qxd4 29.exd4 Nd3+
+30.Ke3 Nxc1 31.Rxc1 Bc6 32.Rc5 Kf6 33.d5  1-0
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "8"]
+[White "Sadler, Matthew"]
+[Black "Krasenkow, Michal"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2595"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 cxd4
+9.cxd4 O-O 10.Be2 Qa5+ 11.Bd2 Qxa2 12.O-O Nd7 13.Bb4 a5 14.Ra1 Qe6 15.Qc2 Nf6
+16.Bd3 Nh5 17.Bc4 Qd7 18.Rfd1 Nf4 19.Ne5 Bxe5 20.dxe5 Qg4 21.f3 Qg5 22.Rxa5 Rxa5
+23.Bxa5 Qxe5 24.Bb4 Be6 25.Bf1 Rc8 26.Qd2 Bb3 27.Rb1 Ba4 28.Ba3 Rc2 29.Qd8+ Kg7
+30.Qxe7 Nh3+  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "8"]
+[White "Hebden, Mark"]
+[Black "Gurevich, Ilya"]
+[Result "1/2-1/2"]
+[WhiteElo "2560"]
+[BlackElo "2575"]
+[ECO "B40"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 a6 4.g3 d6 5.Bg2 Nf6 6.O-O Be7 7.d4 cxd4 8.Nxd4 Bd7
+9.b3 Nc6 10.Nde2 b5 11.Nf4 Rc8 12.Bb2 Ne5 13.Nd3 Qc7 14.Qe2 O-O 15.Rfc1  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "8"]
+[White "Barua, Dibyendu"]
+[Black "Arakhamia, Ketevan"]
+[Result "1-0"]
+[WhiteElo "2510"]
+[BlackElo "2440"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g3 Be7 7.Bg2 a6 8.O-O O-O
+9.a4 Qc7 10.a5 Nc6 11.Nb3 Ne5 12.h3 Rb8 13.f4 Nc4 14.Qe2 Nd7 15.Kh2 Bf6 16.Rf3 b5
+17.axb6 Ndxb6 18.Rd3 Re8 19.Nd1 Bb7 20.Nd4 e5 21.Nf5 d5 22.Nf2 exf4 23.Bxf4 Be5
+24.Qg4 g6 25.exd5 Bxf4 26.gxf4 Bc8 27.Nh6+ Kg7 28.Qh4 f5 29.Rc3 Qc5 30.Nd3 Qd4
+31.Re1 Bd7 32.Rb3 Ne3 33.Rb4 Nbc4 34.Rxb8 Rxb8 35.b3 Nb6 36.Qe7+ Kxh6 37.Qxe3 Qc3
+38.Qe7 Re8 39.Qg5+ Kg7 40.Rxe8 Bxe8 41.Qe7+  1-0
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "9"]
+[White "Hennigan, Michael"]
+[Black "Barua, Dibyendu"]
+[Result "1-0"]
+[WhiteElo "2415"]
+[BlackElo "2510"]
+[ECO "C62"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 d6 4.d4 Bg4 5.Bb5 exd4 6.Qxd4 a6 7.Bxc6+ bxc6 8.h3 Bd7
+9.O-O Ne7 10.Nh4 c5 11.Qd3 Nc6 12.Nf5 g6 13.Nh6 Bg7 14.Nd5 Ne5 15.Qg3 c6
+16.Nc3 Qe7 17.b3 Rd8 18.Bd2 Qf8 19.Qh4 Qe7 20.Bg5 f6 21.Bd2 Nf7 22.Nxf7 Qxf7
+23.Qg3 O-O 24.Rad1 d5 25.Bf4 d4 26.Na4 f5 27.e5 Bc8 28.Nxc5 Qd5 29.b4 a5
+30.a3 Rfe8 31.Rfe1 axb4 32.axb4 Qc4 33.Qb3 Be6 34.Qxc4 Bxc4 35.Nb7 Bf8 36.Nxd8 Rxd8
+37.Bd2 Kf7 38.Ra1 Ke6 39.Ra7 h5 40.Rc7 Bd5 41.c4 dxc3 42.Bxc3 Rb8 43.Ra7 f4
+44.Rb1 f3 45.gxf3 Bxf3 46.b5 cxb5 47.Ra6+ Kd5 48.Bb4 Bxb4 49.Rxb4 g5 50.e6 g4
+51.e7 Kc5 52.Rf4 Re8 53.Ra7 Bc6 54.Rf8 Kd6 55.Rf6+ Kd5 56.Rc7  1-0
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "9"]
+[White "Gurevich, Ilya"]
+[Black "Sadler, Matthew"]
+[Result "0-1"]
+[WhiteElo "2575"]
+[BlackElo "2535"]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.O-O Be7 8.f4 O-O
+9.a4 Nc6 10.Be3 Qc7 11.Kh1 Re8 12.Bf3 Rb8 13.Qd2 Bd7 14.Nb3 b6 15.Rad1 Bc8
+16.Qf2 Nd7 17.Qg3 Bf8 18.f5 Nce5 19.Be2 Kh8 20.Nd4 Bb7 21.Qh3 exf5 22.Nxf5 Nc5
+23.Bd3 Qd7 24.Rf4 g6 25.Rh4 f6 26.Bxc5 bxc5 27.Bxa6 Bxa6 28.Nd5 Qf7 29.Nfe3 g5
+30.Rh5 Be2 31.Nxf6 Bxh5 32.Nxh5 g4 33.Nxg4 Nxg4 34.Qxg4 Rxb2 35.h3 Rxc2 36.Rd5 Re5  0-1
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "9"]
+[White "Krasenkow, Michal"]
+[Black "Nunn, John DM"]
+[Result "1/2-1/2"]
+[WhiteElo "2595"]
+[BlackElo "2590"]
+[ECO "D79"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c6 5.Bg2 d5 6.cxd5 cxd5 7.Nc3 O-O 8.Ne5 e6
+9.O-O Nfd7 10.f4 f6 11.Nd3 Nc6 12.e3 f5 13.Qe2 Nf6 14.b3 Re8 15.a4 Bd7 16.Ba3 Ne4
+17.Bxe4 dxe4 18.Ne5 Ne7 19.Nc4 Bc6 20.Nd6 Rf8 21.g4 Nd5 22.Nxd5 exd5 23.b4 a6
+24.b5 axb5 25.Nxb5 Rf7 26.Bc5 fxg4 27.Qxg4 Bd7 28.Qe2 b6 29.Bb4 g5 30.Nd6 Rf6
+31.Qa2 gxf4 32.Qxd5+ Be6 33.Qxe4 Rg6+ 34.Kh1 fxe3 35.Rg1 Ra5 36.Rxg6 Bd5
+37.Re6 Bxe4+ 38.Rxe4 Ra8 39.Rg1 Qf6 40.Rxe3 Kh8 41.d5 Qd4 42.Nf7+ Kg8 43.Nh6+ Kh8
+44.Nf7+ Kg8 45.Nh6+ Kh8 46.Rxg7 Qxe3 47.Rg2 Rf8  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "9"]
+[White "Arakhamia, Ketevan"]
+[Black "Rogers, Ian"]
+[Result "1/2-1/2"]
+[WhiteElo "2440"]
+[BlackElo "2595"]
+[ECO "C16"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 b6 5.Qg4 Bf8 6.Nf3 Qd7 7.a4 Nc6 8.Bb5 a6 9.Bxc6 Qxc6
+10.O-O Ne7 11.a5 Ng6 12.axb6 cxb6 13.h4 h5 14.Qg3 Ne7 15.Bg5 Nf5 16.Qf4 a5
+17.Rfc1 Ba6 18.Nb1 Be2 19.c4 Bxf3 20.cxd5 Qxd5 21.Nc3 Qb7 22.gxf3 Bb4 23.Nb5 O-O
+24.Qe4 Qd7 25.Qc6 Qxc6 26.Rxc6 Rac8 27.Rac1 Rxc6 28.Rxc6 Rb8 29.Rc7 Rf8 30.Rc6 f6
+31.exf6 gxf6 32.Be3 Kf7 33.Rxb6 Nxh4 34.Nc7 e5 35.dxe5 fxe5 36.f4 Rg8+ 37.Kf1 exf4
+38.Bxf4 Nf3 39.Nd5 h4 40.Rf6+ Ke8 41.Rh6 Rg1+ 42.Ke2 Nd4+ 43.Kd3 Nf5 44.Rh8+ Kd7
+45.Ke4 Nd6+ 46.Bxd6 Bxd6 47.Rxh4 Re1+ 48.Kf3 Kc6 49.Nc3 Bb4 50.Re4 Bxc3 51.Rc4+ Kb5
+52.Rxc3 Ka4 53.Rc8 Re7 54.Kg3 Re2 55.Rb8 Re3+  1/2-1/2
+
+[Event "Hastings9394"]
+[Site "Hastings"]
+[Date "1993.??.??"]
+[Round "9"]
+[White "Sherbakov, Ruslan"]
+[Black "Hebden, Mark"]
+[Result "1-0"]
+[WhiteElo "2580"]
+[BlackElo "2560"]
+[ECO "E97"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Nd2 Ne8 10.b4 f5 11.c5 Kh8 12.a4 Ng8 13.a5 f4 14.Ba3 Nh6 15.b5 g5 16.f3 Rf6
+17.Nc4 dxc5 18.Bxc5 Rg6 19.g4 fxg3 20.hxg3 g4 21.f4 exf4 22.Rxf4 Bxc3 23.Bd4+ Bxd4+
+24.Qxd4+ Kg8 25.Raf1 Nd6 26.Qf2 Bd7 27.Ne5 Rg7 28.Nxd7 Rxd7 29.e5 Ndf7 30.Qe3 Qe7
+31.e6 Ng5 32.Rf6 Rxd5 33.Bc4 Rc5 34.Kh1 Rd8 35.Qxc5 Qxc5 36.e7+ Kg7 37.exd8=Q Nf3
+38.R6xf3 gxf3 39.Qd7+ Kg6 40.Bd3+ Kg5 41.Qd8+  1-0

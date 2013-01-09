@@ -1,0 +1,627 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.25"]
+[Round "1"]
+[White "Schelfhout, Willem"]
+[Black "Euwe, Max"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C15"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.Bd3 dxe4 6.Bxe4 c5 7.dxc5 Qxd1+ 8.Rxd1 Nbd7
+9.Bf3 Bxc3+ 10.bxc3 Nxc5 11.Ne2 Bd7 12.Bxf6 gxf6 13.O-O Rc8 14.Rfe1 b6 15.Nd4 e5
+16.Bd5 O-O 17.Ne2 Be6 18.c4 Na4 19.Rd3 Bxd5 20.cxd5 Rxc2 21.Ng3 Rc3 22.Rd2 Nc5
+23.Nf5 Rd8 24.f3 Kf8 25.Red1 b5 26.Kf2 e4 27.Rd4 Re8 28.fxe4 Nxe4+ 29.Kg1 Rc2
+30.d6 Nc3 31.d7 Rd8 32.R1d2 Rxd2 33.Rxd2 Na4 34.Rd5 Nb6 35.Rxb5 Rxd7 36.a4 Rd5
+37.Rxd5 Nxd5 38.Kf2 Ke8 39.Kf3 Kd7 40.Kg4 a6 41.g3 Nb6 42.Kh5 Nxa4 43.Kh6 Nc5
+44.Kxh7 a5 45.Kg7 a4 46.Kxf7 a3 47.Ne3 a2 48.Nc2 Ne4 49.g4 Kd6 50.h4 Kc5
+51.h5 Kc4 52.h6 Kc3 53.Na1 Kb2 54.Kg7 Ng5 55.Kxf6 Kxa1 56.Kxg5 Kb1 57.Kg6 a1=Q
+58.g5 Qh8 59.h7 Kc2 60.Kh6 Kd3 61.g6 Qf6  0-1
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.25"]
+[Round "1"]
+[White "Maroczy, Geza"]
+[Black "Reti, Richard"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.exd5 exd5 5.Bd3 Nc6 6.Nf3 Bg4 7.Be3 Be7 8.Qd2 O-O
+9.h3 Bxf3 10.gxf3 Nh5 11.O-O-O f5 12.f4 Qd7 13.Rdg1 Kh8 14.Rg2 Nd8 15.Rhg1 Ne6
+16.Be2 Nf6 17.Bf3 c6 18.Ne2 Bd6 19.Kb1 Qc7 20.h4 Rf7 21.h5 Ne4 22.Qc1 b5
+23.Rh1 a5 24.Rgg1 b4 25.Rg6 Rf6 26.Rxf6 Nxf6 27.Ng3 Bxf4 28.Nxf5 Re8 29.Rg1 Bxe3
+30.fxe3 Rf8 31.Nh4 Ng8 32.Bg4 Ng5 33.Bf5 Nf3 34.Nxf3 Rxf5 35.Ne5 Rxh5 36.Qf1 Nf6
+37.Qa6 g6 38.Nxc6 Rh2 39.Rc1 Rf2 40.Ne5 Nd7 41.Nd3 Rf8 42.Qe6 Nf6 43.Nf4 Qf7
+44.Rf1 Qxe6 45.Nxe6 Rf7 46.Ng5 Rf8 47.Ne6 Rf7  1/2-1/2
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.25"]
+[Round "1"]
+[White "Tartakower, Saviely"]
+[Black "Weenink, Henri Gerard"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A03"]
+
+1.f4 d5 2.e3 c5 3.b3 Nf6 4.Bb2 Nbd7 5.Nf3 e6 6.Be2 b6 7.O-O Bb7 8.Ne5 Qc7
+9.d4 Bd6 10.Nd2 Ne4 11.c4 f6 12.Nxd7 Qxd7 13.cxd5 Nxd2 14.Qxd2 Bxd5 15.dxc5 Bxc5
+16.b4 Be7 17.Rfd1 Qb7 18.Bh5+ g6 19.Bg4 Kf7 20.a3 Rac8 21.Rac1 h5 22.Bh3 Bb3
+23.Re1 Rhd8 24.Qe2 Qe4 25.Qa6 Rxc1 26.Bxc1 Ra8 27.Qe2 Rc8 28.Bd2 Rc2 29.Rc1 Ra2
+30.Rc3 Qd5 31.e4 Qd4+ 32.Qe3 Rxd2 33.Qxd4 Rxd4 34.Rxb3 Rxe4 35.g3 Re2 36.Bf1 Rc2
+37.Bd3 Rd2 38.Bc4 Rd4 39.Ba6  1/2-1/2
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.26"]
+[Round "2"]
+[White "Marchand, Max"]
+[Black "Maroczy, Geza"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Bd6 5.Nf3 Nf6 6.O-O O-O 7.Bg5 Bg4 8.c3 Nbd7
+9.Nbd2 c6 10.Qc2 Qc7 11.Rfe1 Rfe8 12.h3 Bh5 13.Rxe8+ Rxe8 14.Re1 Bg6 15.Rxe8+ Nxe8
+16.Nh4 Nf8 17.Nxg6 hxg6 18.Nf3 Qd7 19.Qe2 Qe6 20.Kf1 Qxe2+ 21.Kxe2 Ne6 22.Bd2 Nf4+
+23.Bxf4 Bxf4  1/2-1/2
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.26"]
+[Round "2"]
+[White "Reti, Richard"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D08"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 c5 5.e3 Nc6 6.exd4 cxd4 7.Bd3 Nge7 8.O-O Bg4
+9.Re1 Ng6 10.h3 Bxf3 11.Qxf3 Bb4 12.Bd2 O-O 13.Bxb4 Nxb4 14.Bxg6 hxg6 15.Qb3 Qa5
+16.Nd2 Rad8 17.Ne4 d3 18.Qc3 b6 19.Red1 Nc6 20.Qxa5 bxa5 21.f4 Rd4 22.Nd6 f6
+23.Rac1 fxe5 24.fxe5 Nxe5 25.c5 Rb8 26.Rd2 Nd7 27.Kf2 Nxc5 28.Rxc5 Rxd6 29.Rxa5 Rf8+
+30.Ke3 Re8+ 31.Kf2  1/2-1/2
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.26"]
+[Round "2"]
+[White "Weenink, Henri Gerard"]
+[Black "Schelfhout, Willem"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.c4 Nc6 6.Nc3 Nxc3 7.bxc3 Be7 8.d4 O-O
+9.Bd3 Bf6 10.h4 Re8+ 11.Kf1 Ne7 12.h5 Bf5 13.Bxf5 Nxf5 14.g4 Nh4 15.Ng1 Qe7
+16.f4 Qe4 17.Rh2 h6 18.Qe2 c5 19.Qxe4 Rxe4 20.Rb1 Rae8 21.Re2 b6 22.g5 Bd8
+23.Kf2 Nf5 24.Kf3 Rxe2 25.Nxe2 g6 26.hxg6 fxg6 27.gxh6 Bf6 28.dxc5 dxc5 29.Rb3 Kh7
+30.Ra3 Re7 31.Ng3 Nd6 32.Rb3 Kxh6 33.Rb2 Bxc3 34.Rc2 Bd4 35.f5+ Kg7 36.fxg6 Kxg6
+37.Bf4 Rf7 38.Kg4 Ne8 39.Re2 Ng7 40.Bg5 Rf2 41.Rxf2 Bxf2 42.Bf4 Bxg3 43.Bxg3 Nf5
+44.Bf4 Kf6 45.Kf3 Ke6 46.Ke4 Nd6+ 47.Kd3 Kd7 48.a4  1/2-1/2
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.27"]
+[Round "3"]
+[White "Maroczy, Geza"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.Qe2 Nc5 11.Rd1 Nxb3 12.axb3 O-O 13.h3 Qc8 14.Bg5 f6 15.exf6 Bxf6
+16.Bxf6 Rxf6 17.Kh2 Qf8 18.Nbd2 Re8 19.Qf1 Bc8 20.Re1 Qd6+ 21.Kh1 Ref8 22.Re3 g5
+23.Qe1 h5 24.Nxg5 Rxf2 25.Rf3 R2xf3 26.Ngxf3 Qg6 27.Qh4 Re8 28.Re1 Rxe1+
+29.Qxe1 Bf5 30.Nh4 Qe6 31.Qg3+ Kh8 32.Nxf5 Qxf5 33.Qxc7 Qe6 34.Nf3 b4 35.Qf4 bxc3
+36.Qf8+ Qg8 37.Qh6+ Qh7 38.Qxc6 cxb2 39.Qe8+  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.27"]
+[Round "3"]
+[White "Marchand, Max"]
+[Black "Weenink, Henri Gerard"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A32"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.Nc3 cxd4 5.Nxd4 Qb6 6.Nb3 Bb4 7.Bd2 Bxc3 8.Bxc3 Ne4
+9.Qd4 Nxc3 10.Qxc3 O-O 11.c5 Qc7 12.Nd4 b6 13.Nb5 Qc6 14.e4 a6 15.Nd6 bxc5
+16.Rd1 Qb6 17.Be2 Nc6 18.e5 Nd4 19.Bc4 Rb8 20.Rd2 f6 21.f4 fxe5 22.fxe5 Qd8
+23.h4 Rf4 24.Qg3 Qf8 25.Rf1 Rxf1+ 26.Bxf1 Nf5 27.Nxf5 exf5 28.Bc4+ Kh8 29.e6 Rb6
+30.exd7 Bxd7 31.Qc7 Qe7+ 32.Kf1 Qxh4 33.Qxb6 Qxc4+ 34.Kg1 Be8 35.Qb8 Qe4
+36.Kf1 h6 37.Re2  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.27"]
+[Round "3"]
+[White "Tartakower, Saviely"]
+[Black "Schelfhout, Willem"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nf6 7.h4 h6 8.Bd3 Bxd3
+9.Qxd3 e6 10.Ne5 Nbd7 11.f4 Be7 12.Bd2 O-O 13.O-O-O Nxe5 14.fxe5 Nd5 15.Qe4 Qe8
+16.c4 f5 17.exf6 Nxf6 18.Qxe6+ Qf7 19.Rde1 Rfe8 20.Nf5 Bf8 21.Qxf7+ Kxf7
+22.Ref1 Ke6 23.h5 Nxh5 24.Rxh5 g6 25.d5+ Kd7 26.dxc6+ bxc6 27.Rxh6 Bxh6 28.Nxh6 Rf8
+29.Rd1 Ke6 30.Bb4 Rfd8 31.Re1+ Kd7 32.Re7+ Kc8 33.Nf7 Rg8 34.Ba5  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.28"]
+[Round "4"]
+[White "Euwe, Max"]
+[Black "Marchand, Max"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A85"]
+
+1.d4 e6 2.c4 f5 3.Nc3 Nf6 4.e3 Bb4 5.Bd2 b6 6.Bd3 Bb7 7.f3 c5 8.a3 Bxc3 9.Bxc3 d6
+10.Ne2 O-O 11.Qc2 Qe7 12.O-O-O Na6 13.Kb1 Rac8 14.d5 g6 15.dxe6 Qxe6 16.g4 fxg4
+17.Bxg6 Bxf3 18.Bf5 Qe7 19.Rhg1 Rc7 20.Rdf1 Qxe3 21.Rxf3 Qxf3 22.Bxf6 Rxf6
+23.Bxg4 Qf2 24.Be6+ Kf8 25.Rg8+ Ke7 26.Qxh7+  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.28"]
+[Round "4"]
+[White "Schelfhout, Willem"]
+[Black "Maroczy, Geza"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C30"]
+
+1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.Nc3 Nc6 5.Bb5 Ne7 6.fxe5 dxe5 7.d3 O-O 8.Bg5 Qd6
+9.Qd2 Nd4 10.Bc4 c6 11.Rf1 b5 12.Bb3 a5 13.a3 Nxb3 14.cxb3 Ng6 15.O-O-O b4
+16.axb4 axb4 17.Ne2 Be6 18.Kc2 Bd4 19.Nexd4 Qc5+ 20.Kb1 exd4 21.Rc1 Ra1+
+22.Kxa1 Qa5+ 23.Kb1 Bxb3  0-1
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.28"]
+[Round "4"]
+[White "Weenink, Henri Gerard"]
+[Black "Reti, Richard"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A52"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.e4 h5 5.Be2 Nc6 6.h3 Ngxe5 7.Be3 Bb4+ 8.Nd2 d6
+9.Qc2 Be6 10.O-O-O Qe7 11.Nb3 a5 12.Kb1 a4 13.Nc1 a3 14.b3 Ba5 15.Nd3 Nxd3
+16.Bxd3 O-O 17.g4 b5 18.cxb5 Nb4 19.Qc1 Bxb3 20.axb3 a2+ 21.Ka1 Qe5+ 22.Qb2 Qxb2+
+23.Kxb2 Nxd3+ 24.Kc2 Ne1+ 25.Kb2 Rfb8 26.Ne2 Rxb5 27.Rhxe1 Bxe1 28.Rxe1 hxg4
+29.hxg4 a1=Q+ 30.Rxa1 Rxa1 31.Kxa1 Rxb3 32.Ka2 Rb5 33.Nc3 f6 34.Ka3 c5  1/2-1/2
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.29"]
+[Round "5"]
+[White "Marchand, Max"]
+[Black "Schelfhout, Willem"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D06"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 c5 4.cxd5 cxd4 5.Qxd4 Qxd5 6.Nc3 Qxd4 7.Nxd4 e5 8.Ndb5 Na6
+9.g3 Bd7 10.Bg2 Bc6 11.O-O Bc5 12.a3 Bxg2 13.Kxg2 O-O 14.b4 Be7 15.Bb2 Rfc8
+16.Rac1 Kf8 17.Kf3 Ne8 18.Nd5 Rxc1 19.Rxc1 f6 20.Rd1 Kf7 21.e4 Ke6 22.Ke3 Bd6
+23.f4 g6 24.Nxf6 Bxb4 25.axb4 Nxf6 26.fxe5 Ne8 27.Rd4 Nac7 28.Nd6 b5 29.Nxe8 Nxe8
+30.Rd5 a6 31.Rc5 Kd7 32.h4 Nc7 33.Bc3 Rc8 34.Bd2 Re8 35.Kd3 Re6 36.Rc1 h5
+37.Bg5 Rc6 38.Rf1 Re6 39.Rf7+ Kc6 40.Bf6 Re8 41.Rg7 Ne6 42.Rxg6 a5 43.bxa5 Kc5
+44.a6 b4 45.a7 Kb5 46.Be7 Nc7 47.Bxb4  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.29"]
+[Round "5"]
+[White "Maroczy, Geza"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.Bd3 Qc7 8.O-O e6
+9.Qe2 Ngf6 10.Bd2 Bd6 11.Rfe1 O-O-O 12.Rad1 Kb8 13.Bg5 Bf4 14.c3 Rde8 15.Bxf4 Qxf4
+16.Ne5 Nxe5 17.Qxe5+ Qxe5 18.dxe5 Nd5 19.Bxg6 hxg6 20.c4 Nb6 21.b3 Kc7 22.Ne4 Nd7
+23.Ng5 Re7 24.f4 Nc5 25.b4 Na4 26.Ne4 Rd7 27.Rxd7+ Kxd7 28.Re3 a6 29.Nd6 b5
+30.cxb5 axb5 31.Rd3 Ke7 32.Nb7 Rc8 33.Rd6 c5 34.bxc5 Nxc5 35.Nxc5 Rxc5 36.Rb6 g5
+37.Rb7+ Ke8 38.Rb8+ Kd7 39.fxg5 Rxe5 40.Rb7+ Ke8 41.g6 fxg6 42.Rxg7 Re1+
+43.Kf2 Ra1 44.Ra7 b4 45.Ra4 Kf7 46.Rxb4 Rxa2+ 47.Kf3  1/2-1/2
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.29"]
+[Round "5"]
+[White "Reti, Richard"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D34"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O
+9.dxc5 Bxc5 10.Na4 Be7 11.Be3 Be6 12.Nd4 Nxd4 13.Bxd4 Qa5 14.a3 Rfd8 15.b4 Qb5
+16.Rc1 Ne4 17.Nc3 Nxc3 18.Rxc3 a5 19.bxa5 Qxa5 20.Qd3 Rdc8 21.Rb3 Bxa3 22.Rxb7 Bc5
+23.Rb5 Qa7 24.Rxc5 Rxc5 25.Qe3 Rac8 26.Qe5 Kf8 27.Qxg7+ Ke7 28.Qxh7 Qa2 29.Bxc5+ Rxc5
+30.Qd3  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.30"]
+[Round "6"]
+[White "Schelfhout, Willem"]
+[Black "Reti, Richard"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Nf3 Be7 6.Qe2 Nxc3 7.dxc3 O-O 8.Be3 Bg4
+9.O-O-O c6 10.h3 Bh5 11.Qd2 Nd7 12.g4 Bg6 13.Bd3 Qc7 14.Rhe1 Rae8 15.Bf4 Qa5
+16.Kb1 Nc5 17.Nd4 Bxd3 18.cxd3 Ne6 19.Nf5 d4 20.Nxe7+ Rxe7 21.c4 Qxd2 22.Bxd2 c5
+23.h4 Rfe8 24.g5 Nf8 25.Bf4 Ng6 26.Bg3 Nxe5 27.Re4 b6 28.Rde1 Nc6 29.Rxe7 Rxe7
+30.Rxe7 Nxe7 31.a3 Nc6 32.Kc2 f6 33.Kd2 fxg5 34.hxg5 Kf7 35.Ke2 Ke6 36.Bf4 Kf5
+37.Kf3 Ne5+ 38.Bxe5 Kxe5 39.Kg4 a6 40.b3 a5 41.a4 g6  0-1
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.30"]
+[Round "6"]
+[White "Tartakower, Saviely"]
+[Black "Marchand, Max"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C00"]
+
+1.c4 e6 2.e4 d5 3.exd5 exd5 4.cxd5 Nf6 5.Bb5+ Nbd7 6.Nc3 Bd6 7.Qe2+ Qe7 8.Nf3 Qxe2+
+9.Kxe2 O-O 10.Bxd7 Bxd7 11.d4 Rfe8+ 12.Be3 b5 13.a4 bxa4 14.Nxa4 Nxd5 15.Nc5 Bg4
+16.Kd2 Rab8 17.Nd3 f5 18.Nfe5 Bxe5 19.dxe5 Rbd8 20.Ra4 a5 21.f3 Bh5 22.Ke2 f4
+23.Nxf4 Nxe3 24.Kxe3 Rxe5+ 25.Re4 Rxe4+ 26.fxe4 Bf7 27.Rc1 Rc8 28.Rc5 a4
+29.Kd4 Kf8 30.Nd3 Ke7 31.Ra5 Rd8+ 32.Kc3 Bb3 33.Nc5 Rd1 34.Nd3 Rg1 35.Rg5 g6
+36.h4 Rh1 37.g3 Rh2 38.Rc5 Kd6 39.Kd4 Rg2 40.Rg5 Rh2 41.Ke3 Bc4 42.Nf2 Rg2
+43.g4 c5 44.h5 Rg3+ 45.Kd2 Rf3 46.Nd1 Bf7 47.hxg6 Bxg6 48.Nc3 Rf2+ 49.Kc1 Rf4
+50.Rd5+ Kc6 51.e5 Rxg4 52.Rd6+ Kb7 53.e6 Rc4 54.e7 a3 55.Rxg6 a2 56.e8=Q Rxc3+
+57.Kd2 hxg6 58.Qb5+ Kc8 59.Qa6+ Kd7 60.bxc3  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.30"]
+[Round "6"]
+[White "Euwe, Max"]
+[Black "Weenink, Henri Gerard"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 d6 5.d4 Bd7 6.O-O Be7 7.Bg5 O-O 8.Bxc6 Bxc6
+9.dxe5 dxe5 10.Qe2 Nd7 11.Bxe7 Qxe7 12.Rad1 f5 13.exf5 Rae8 14.Rfe1 Rxf5
+15.Nd4 Rf6 16.Qd3 Nf8 17.Nxc6 Rxc6 18.Nd5 Qf7 19.Qb3 Ng6 20.f4 e4 21.f5 Nh4
+22.Ne7+ Kf8 23.Qxf7+ Kxf7 24.Nxc6 bxc6 25.Rd7+ Kf6 26.Rxc7 e3 27.Rxc6+ Kxf5
+28.Rc3  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.31"]
+[Round "7"]
+[White "Weenink, Henri Gerard"]
+[Black "Maroczy, Geza"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.g3 a6 7.Bg2 Qc7 8.O-O d6
+9.Re1 Be7 10.Nxc6 bxc6 11.b3 O-O 12.Bb2 Rd8 13.Qe2 Nd7 14.Rad1 a5 15.e5 d5
+16.Nb1 a4 17.Rd4 axb3 18.axb3 Ra2 19.Bc1 Qxe5 20.Qd1 Qf5 21.Nc3 Ra1 22.Rf4 Qg6
+23.h4 Ba3 24.Ne2 Bxc1 25.Nxc1 e5 26.Ra4 Rxa4 27.bxa4 Qd6 28.Nb3 Nf6 29.Qd2 Bf5
+30.Qc3 Ne4 31.Bxe4 Bxe4 32.Nc5 Qf6 33.Nxe4 dxe4 34.Rxe4  1/2-1/2
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.31"]
+[Round "7"]
+[White "Reti, Richard"]
+[Black "Marchand, Max"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D52"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 Be7 6.Nf3 c6 7.Bd3 dxc4 8.Bxc4 b5
+9.Bd3 a6 10.O-O Bb7 11.Qe2 c5 12.Rfd1 Qb6 13.a4 c4 14.Bc2 O-O 15.e4 Rfe8
+16.Ne5 Rad8 17.axb5 axb5 18.Be3 Ra8 19.f3 Rxa1 20.Rxa1 Nxe5 21.dxe5 Bc5 22.Bxc5 Qxc5+
+23.Qf2 Qxe5 24.Qb6 Ba8 25.Qxb5 Qd4+ 26.Kf1 Qd2 27.Bd1 Rd8 28.Be2 Qf4 29.g3 Qh6
+30.Qa5 Rf8 31.Qxa8 Qxh2 32.Qa7 Qxg3 33.Qf2 Qf4 34.Bxc4 h5 35.Ne2 Qd2 36.b3 g6
+37.Qd4 Qg5 38.b4 Nh7 39.Rd1 h4 40.Kf2 h3 41.Ng3 e5 42.Qe3 Qh4 43.Qb6 Nf6
+44.Ke2 Kg7 45.Qg1 Rc8 46.Nf5+  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1920.05.31"]
+[Round "7"]
+[White "Euwe, Max"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D53"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 Be7 6.Nf3 Ne4 7.Bxe7 Qxe7 8.cxd5 Nxc3
+9.bxc3 exd5 10.Qb3 c6 11.c4 dxc4 12.Bxc4 O-O 13.O-O Nb6 14.Bd3 Be6 15.Qc2 g6
+16.Rab1 Rac8 17.Rfc1 Rc7 18.Nd2 Rfc8 19.Qc5 Qxc5 20.dxc5 Rd7 21.Ne4 Rxd3
+22.cxb6 axb6 23.Rxb6 Rcd8 24.h3 Rd1+ 25.Rxd1 Rxd1+ 26.Kh2 Bxa2 27.Rxb7 Kg7
+28.Rc7 Rc1 29.Kg3 Bd5 30.Nd6 g5 31.e4 Be6 32.Kf3 c5 33.Ke3 c4 34.Nb5 Re1+
+35.Kf3 Rd1 36.Rc5  1/2-1/2
+
+[Event "Amsterdam m1"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Oskam, Gerard"]
+[Black "Euwe, Max"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.Re1 Nc5 7.Nc3 Be7 8.Nxe5 Nxe5
+9.Rxe5 O-O 10.d4 Nxa4 11.Nxa4 b5 12.Nc3 Bd6 13.Rh5 Bb7 14.Qd3 f5 15.Qh3 Qe8
+16.Bd2 Qg6 17.f3 Rae8 18.Kf1 b4 19.Ne2 f4 20.Rc1 Bc6 21.Kf2 Bb5 22.Ng1 Be5
+23.Rxe5 Rxe5 24.Bxb4 Rh5 25.Qg4 Rg5 26.Qh3 Re8 27.g3 fxg3+ 28.hxg3 Rh5 29.Qg2 Qh6  0-1
+
+[Event "Amsterdam m1"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe, Max"]
+[Black "Oskam, Gerard"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D55"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 b6 7.cxd5 exd5 8.Rc1 Bb7
+9.Qa4 a6 10.Bd3 Nbd7 11.Ne5 Nxe5 12.dxe5 Ne4 13.Bxe7 Qxe7 14.Nxe4 dxe4 15.Bb1 Qxe5
+16.O-O Rfd8 17.Qc2 c5 18.f3 exf3 19.Qxh7+ Kf8 20.Qh8+ Ke7 21.Qh4+ f6 22.gxf3 Qxe3+
+23.Qf2 Qg5+ 24.Qg3 Qxg3+ 25.hxg3 Rd2 26.Rf2 Rad8 27.Re1+ Kf7 28.Bf5 Rxf2
+29.Kxf2 Rd2+ 30.Re2 Rxe2+ 31.Kxe2 Ke7 32.Ke3 Kd6 33.Kf4 c4 34.Bc2 Bc8 35.g4 g5+
+36.Ke4 Bb7+ 37.Kf5 Bxf3 38.Kxf6 Bxg4 39.Kxg5 Be2 40.Kf4 Kc5 41.Ke3 Bf1 42.Bf5 b5
+43.Be4 a5 44.Bf5 Bg2 45.Bg6 Bd5 46.Bf5 c3 47.bxc3 Bxa2 48.Kd2 Bb3 49.Bd7 a4
+50.Bxb5 a3 51.Kc1  1/2-1/2
+
+[Event "Amsterdam m2"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Wiersma, Eelke"]
+[Black "Euwe, Max"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 Be7 6.O-O b5 7.Bb3 O-O 8.d3 d6
+9.Be3 Na5 10.Ne2 Nh5 11.Ng3 Nxg3 12.fxg3 Nxb3 13.axb3 f5 14.exf5 Bxf5 15.Qd2 h6
+16.h3 Kh7 17.Rae1 Bc8 18.Qe2 Bb7 19.Nh2 Qd7 20.Ng4 Qc6 21.Qd2 Rxf1+ 22.Rxf1 Rf8
+23.Rxf8 Bxf8 24.Qf2 h5 25.Nh2 Be7 26.Nf3 Qd5 27.Nd2 Kg8 28.Ne4 Qf7 29.Ng5 Qxf2+
+30.Kxf2 Kf8 31.c4 bxc4 32.bxc4 Bc8 33.Ne4 Bf5 34.Kf3 Kf7 35.Bd2 Bxe4+ 36.Kxe4 Ke6
+37.Bc3 c6 38.b3 d5+ 39.cxd5+ cxd5+ 40.Kf3 Kf5 41.Ba5 e4+ 42.dxe4+ dxe4+ 43.Ke2 Bd6
+44.Be1 g6 45.Bf2 Ke5 46.g4 hxg4 47.Bg3+ Kd5 48.Bxd6 Kxd6 49.hxg4 Ke5 50.Ke3 g5
+51.b4 Kd5 52.g3 Ke5 53.Ke2 Kd4  0-1
+
+[Event "Amsterdam m2"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe, Max"]
+[Black "Wiersma, Eelke"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 d6 5.Nxd4 Nxd4 6.Qxd4 Nf6 7.O-O Be7 8.b3 O-O
+9.Bb2 Ne8 10.f4 Bf6 11.e5 dxe5 12.fxe5 Qxd4+ 13.Bxd4 Be7 14.Nc3 c5 15.Nd5 cxd4
+16.Nxe7+ Kh8 17.Bxf7 Nc7 18.Rf4 Be6 19.Ng6+ hxg6 20.Rh4+  1-0
+
+[Event "Amsterdam m1"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe, Max"]
+[Black "Oskam, Gerard"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C13"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Ne4 6.Nxe4 dxe4 7.Be3 f5 8.Qh5+ g6
+9.Qh6 Bf8 10.Qf4 Qe7 11.O-O-O Nc6 12.h4 h6 13.Qg3 Qf7 14.Bc4 Ne7 15.Ne2 c6
+16.f3 b5 17.Bb3 a5 18.c3 exf3 19.gxf3 a4 20.Bc2 Nd5 21.Bd2 Rg8 22.Rhg1 Ba6
+23.Nf4 Ne7 24.b4 g5 25.Nd3 g4 26.a3 Nd5 27.Bb1 h5 28.Ba2 O-O-O 29.Bxd5 cxd5
+30.f4 Kb8 31.Be3 Qc7 32.Nc5 Bc8 33.Qf2 Be7 34.Qe2 Qc6 35.Bf2 Bxc5  1/2-1/2
+
+[Event "Amsterdam m1"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Oskam, Gerard"]
+[Black "Euwe, Max"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D00"]
+
+1.d4 d5 2.e3 Nf6 3.Bd3 c5 4.c3 Nc6 5.f4 Bg4 6.Nf3 e6 7.Nbd2 Bd6 8.g3 Rc8
+9.O-O Nd7 10.Qe1 O-O 11.e4 cxd4 12.Nxd4 Qb6 13.Qf2 e5 14.exd5 Ne7 15.fxe5 Nxe5
+16.Be4 f5 17.Ne6 fxe4 18.Qxb6 Rxf1+ 19.Kxf1 axb6 20.Nxe4 Bb8 21.Nf4 Rd8 22.Be3 Nc4
+23.Bd4 Bxf4 24.gxf4 Nxd5 25.b3 Nce3+ 26.Kf2 Nc2 27.Rg1 Nxd4 28.cxd4 Bf5 29.Kf3 Bxe4+
+30.Kxe4 Nc3+ 31.Kd3 Nb5 32.Kc4 Nxd4 33.Rd1 b5+  0-1
+
+[Event "Amsterdam m2"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Wiersma, Eelke"]
+[Black "Euwe, Max"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.d4 exd4 6.Qxd4 Qxd4 7.Nxd4 Bd7 8.Nc3 O-O-O
+9.Bd2 Bd6 10.O-O-O Ne7 11.f4 f6 12.Rde1 Ng6 13.Rhf1 Rhe8 14.Nf5 Bxf5 15.exf5 Ne7
+16.g4 Nd5 17.Nxd5 cxd5 18.Rxe8 Rxe8 19.Kd1 Kd7 20.Re1 Rxe1+ 21.Kxe1 d4 22.Ke2 Kc6
+23.Kf3 Kd5 24.h4 c5 25.g5 c4 26.c3 d3 27.h5 h6 28.gxf6 gxf6 29.Be1 b5 30.b4 cxb3
+31.axb3 Bc5 32.Bh4 a5 33.b4 Bd4 34.bxa5 Bxc3 35.a6 Kc6 36.a7 Kb7 37.Bf2 b4  0-1
+
+[Event "Amsterdam m2"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Wiersma, Eelke"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D32"]
+
+1.d4 d5 2.Nf3 c5 3.c4 e6 4.Nc3 cxd4 5.Nxd4 e5 6.Nf3 d4 7.Nd5 Nf6 8.Bg5 Be6
+9.e4 dxe3  1-0
+
+[Event "Amsterdam m2"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Euwe, Max"]
+[Black "Wiersma, Eelke"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 d6 5.d4 exd4 6.Nxd4 Bd7 7.O-O Nxd4 8.Qxd4 Bxb5
+9.Nxb5 a6 10.Nc3 Be7 11.b3 O-O 12.Bb2 Nd7 13.Nd5 Bf6 14.Nxf6+ Qxf6 15.Qxf6 Nxf6
+16.Bxf6 gxf6 17.Rad1 Rfe8 18.Rfe1 Re7 19.f3 Rae8 20.Kf2 Kg7 21.Rd5 Re5 22.g4 Rxd5
+23.exd5 Rxe1 24.Kxe1 f5 25.Kf2 f4 26.Ke2 Kf6 27.Kd3 Ke5 28.c4 h6 29.h4 a5
+30.a3 c5 31.dxc6 bxc6 32.b4 a4 33.Kc3 c5 34.b5 d5 35.cxd5 Kxd5 36.Kd3 c4+
+37.Kc3 Kc5 38.b6 Kxb6 39.Kxc4 Kc6 40.g5 h5 41.Kd4 Kd6 42.Ke4 Kc5 43.Ke5 Kc4
+44.Kf6  1-0
+
+[Event "Amsterdam m1"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Oskam, Gerard"]
+[Black "Euwe, Max"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 Qe7+
+9.Qe2 Qxe2+ 10.Bxe2 cxd5 11.O-O O-O 12.Bf3 c6 13.Bg5 Ba6 14.Be2 Bxc3 15.Bxa6 Bxb2
+16.Rab1 Rab8 17.Bf4 Rb6 18.Bd3 Ba3 19.Be3 c5 20.Rxb6 axb6 21.Rb1 Bb4 22.a3 Ba5
+23.Rb5 d4 24.Bf4 Nd5 25.Be5 Re8 26.Bxd4 Re1+ 27.Bf1 Nf4 28.f3 Ne2+ 29.Kf2 Nxd4
+30.Rxa5 Rxf1+  0-1
+
+[Event "Amsterdam m1"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Oskam, Gerard"]
+[Black "Euwe, Max"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D32"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.e4 dxe4 6.d5 f5 7.Bb5+ Bd7 8.Nh3 Bxb5
+9.Nxb5 Qa5+ 10.Nc3 Na6 11.f3 Nf6 12.O-O Be7 13.Ng5 O-O 14.d6 Bd8 15.Qb3+ c4
+16.Qxc4+ Kh8 17.Nf7+ Rxf7 18.Qxf7 Bb6+ 19.Kh1 e3 20.Re1 f4 21.Rb1 Nb4 22.Qc4 Nh5
+23.Re2 Ng3+ 24.hxg3 Qh5+ 25.Kg1 fxg3 26.Rxe3 Qh2+ 27.Kf1 Qh1+ 28.Ke2 Qxg2+
+29.Kd1 Qc2+ 30.Ke1 g2 31.Qg4 Nd3+ 32.Rxd3 Bf2+  0-1
+
+[Event "Amsterdam m1"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "?"]
+[White "Oskam, Gerard"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D03"]
+
+1.d4 d5 2.Bg5 Bf5 3.Nf3 Nf6 4.c4 e6 5.e3 h6 6.Bxf6 Qxf6 7.Qb3 Nc6 8.Qxb7 Kd7
+9.cxd5 exd5 10.Bb5  1-0
+
+[Event "Amsterdam m"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "1"]
+[White "Euwe, Max"]
+[Black "Reti, Richard"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C56"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5 7.Bxd5 Qxd5 8.Nc3 Qa5
+9.Nxd4 Nxd4 10.Qxd4 f5 11.Bg5 Qc5 12.Qd8+ Kf7 13.Nxe4 fxe4 14.Rad1 Bd6 15.Qxh8 Qxg5
+16.f4 Qh4 17.Rxe4 Bh3 18.Qxa8 Bc5+ 19.Kh1 Bxg2+ 20.Kxg2 Qg4+ 21.Kf1 Qf3+
+22.Ke1 Qf2+  0-1
+
+[Event "Amsterdam m"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "2"]
+[White "Reti, Richard"]
+[Black "Euwe, Max"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A83"]
+
+1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 g6 5.f3 exf3 6.Nxf3 Bg7 7.Bd3 c5 8.d5 Qb6
+9.Qd2 Qxb2 10.Rb1 Nxd5 11.Nxd5 Qxb1+ 12.Kf2 Qxh1 13.Bxe7 d6 14.Bxd6 Nc6 15.Bb5 Bd7
+16.Bxc6 bxc6 17.Qe2+  1-0
+
+[Event "Amsterdam m"]
+[Site "Amsterdam"]
+[Date "1920.??.??"]
+[Round "3"]
+[White "Euwe, Max"]
+[Black "Reti, Richard"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B10"]
+
+1.e4 c6 2.b3 d5 3.exd5 cxd5 4.Bb2 Nc6 5.g3 e5 6.Bg2 Be6 7.Qe2 Qc7 8.Nf3 f6
+9.O-O Bd6 10.Nc3 a6 11.d4 Nge7 12.dxe5 Bxe5 13.Nxe5 fxe5 14.Rad1 O-O-O 15.Rfe1 h5
+16.Na4 e4 17.f3 h4 18.fxe4 hxg3 19.exd5 Bxd5 20.Bxd5 Nxd5 21.Qe6+ Kb8 22.Rxd5 Rde8
+23.Qxe8+ Rxe8 24.Rxe8+ Ka7 25.Rdd8 b6 26.Ba3 gxh2+ 27.Kh1 Qf7 28.Re7+ Nxe7
+29.Rd7+ Ka8 30.Nxb6+ Kb8 31.Bd6+  1-0

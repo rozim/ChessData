@@ -1,0 +1,224 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1889.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Burn, Amos"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Nf6 5.Nf3 Bd6 6.O-O O-O 7.c3 c6 8.Be3 Be6
+9.Nbd2 Nbd7 10.Qc2 Qc7 11.h3 Bf4 12.Rae1 Rfe8 13.Bxf4 Qxf4 14.Ne5 Nf8 15.Ndf3 Ng6  1/2-1/2
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1889.??.??"]
+[Round "?"]
+[White "Gunsberg, Isidor"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.Qe2 Be7 5.c3 d6 6.d3 Bd7 7.Ba4 Qc8 8.Nbd2 Nd8
+9.Bb3 Be6 10.Nf1 c6 11.Ng3 Qc7 12.O-O O-O 13.Bc2 Re8 14.d4 Bf8 15.Nh4 g6
+16.Bg5 Bg7 17.Qd2 Bc4 18.Rfe1 Ne6 19.b3 Nxg5 20.Qxg5 Be6 21.Qd2 Rad8 22.Nf3 Bc8
+23.a4 Nd7 24.Rad1 Nf8 25.b4 Bg4 26.Qe3 exd4 27.cxd4 d5 28.h3 dxe4 29.Nxe4 Be6
+30.Bb3 Qb6 31.d5 Qxe3 32.Rxe3 Bxd5 33.Bxd5 cxd5 34.Rxd5 Rxd5 35.Nf6+ Bxf6  0-1
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1889.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Bauer, Johann"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A03"]
+
+1.f4 d5 2.e3 Nf6 3.b3 e6 4.Bb2 Be7 5.Bd3 b6 6.Nf3 Bb7 7.Nc3 Nbd7 8.O-O O-O
+9.Ne2 c5 10.Ng3 Qc7 11.Ne5 Nxe5 12.Bxe5 Qc6 13.Qe2 a6 14.Nh5 Nxh5 15.Bxh7+ Kxh7
+16.Qxh5+ Kg8 17.Bxg7 Kxg7 18.Qg4+ Kh7 19.Rf3 e5 20.Rh3+ Qh6 21.Rxh6+ Kxh6
+22.Qd7 Bf6 23.Qxb7 Kg7 24.Rf1 Rab8 25.Qd7 Rfd8 26.Qg4+ Kf8 27.fxe5 Bg7 28.e6 Rb7
+29.Qg6 f6 30.Rxf6+ Bxf6 31.Qxf6+ Ke8 32.Qh8+ Ke7 33.Qg7+ Kxe6 34.Qxb7 Rd6
+35.Qxa6 d4 36.exd4 cxd4 37.h4 d3 38.Qxd3  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1889.??.??"]
+[Round "?"]
+[White "Burn, Amos"]
+[Black "Van Foreest, Arnold E"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D32"]
+
+1.d4 d5 2.Nf3 e6 3.c4 Nf6 4.Nc3 c5 5.e3 a6 6.dxc5 Bxc5 7.cxd5 exd5 8.Be2 Nc6
+9.O-O O-O 10.Qa4 Be6 11.Rd1 Qc7 12.Bd2 Rfd8 13.Be1 b5 14.Qc2 Ne7 15.Rac1 Rac8
+16.Bd3 Qb7 17.Qb1 Bd6 18.Ne2 h6 19.Ned4 Kh8 20.Bc3 Rf8 21.Nf5 Nxf5 22.Bxf5 Ng8
+23.Bxe6 fxe6 24.Nh4 Ne7 25.Ng6+ Nxg6 26.Qxg6 Qe7 27.Qxh6+ Kg8 28.Qh3 Qf7
+29.f4 Qg6 30.Bd4 Kf7 31.Qf3 Ke7 32.Qg3 Qxg3 33.hxg3 g6 34.Kf2 Rxc1 35.Rxc1 e5
+36.Bc3 g5 37.Kf3 gxf4 38.exf4 exf4 39.g4 Kd7 40.Re1 Rg8 41.Bf6 a5 42.g5 a4
+43.Kg4 a3 44.bxa3 Ra8 45.g6 Rxa3 46.Kf5 Rg3 47.Bg5  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1889.??.??"]
+[Round "?"]
+[White "Loman, Rudolf"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C79"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.Nc3 b5 7.Bb3 Bg4 8.h3 Bh5
+9.d3 Nd4 10.Kh2 g5 11.g4 Nxg4+ 12.hxg4 Bxg4 13.Bxf7+ Kxf7 14.Nxg5+ Qxg5 15.Bxg5 Bxd1
+16.f4 Bg4 17.fxe5+ Kg6 18.Bf6 Bg7 19.Rf4 h5 20.Raf1 Raf8 21.R1f2 dxe5  0-1
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1889.??.??"]
+[Round "?"]
+[White "Mason, James"]
+[Black "Van Foreest, Arnold E"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 f5 6.d3 Nxc3 7.bxc3 d4 8.c4 Nc6
+9.Qe2 Bb4+ 10.Kf2 O-O 11.g3 Be6 12.Nf3 h6 13.Bg2 Bc5 14.Ke1 Qd7 15.h4 Rae8
+16.Kd1 b6 17.Bf4 Re7 18.Nd2 Nb4 19.Nb3 Rd8 20.a3 Nc6 21.Qf3 Nb8 22.Re1 Qe8
+23.Nxc5 bxc5 24.Qe2 Qa4 25.Qd2 Nd7 26.Ke2 Nb6 27.Kf2 Kh7 28.Bf3 Rf8 29.Kg1 a6
+30.Qg2 Qe8 31.Rab1 Qf7 32.Qd2 Bxc4 33.dxc4 Qxc4 34.Qd3 Qa4 35.h5 Nc4 36.Bg4 Kh8
+37.Bd1 Nd6 38.Bf3 Nb5 39.Bc6 c4 40.Bxb5 axb5 41.Qxd4 Qxc2 42.Rxb5 Ra8 43.Rb2 Qa4
+44.Qc5 Qxa3 45.Qxa3 Rxa3 46.Rc1  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1889.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Bauer, JH."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A03"]
+
+1.f4 d5 2.e3 Nf6 3.b3 e6 4.Bb2 Be7 5.Bd3 b6 6.Nf3 Bb7 7.Nc3 Nbd7 8.O-O O-O
+9.Ne2 c5 10.Ng3 Qc7 11.Ne5 Nxe5 12.Bxe5 Qc6 13.Qe2 a6 14.Nh5 Nxh5 15.Bxh7+ Kxh7
+16.Qxh5+ Kg8 17.Bxg7 Kxg7 18.Qg4+ Kh7 19.Rf3 e5 20.Rh3+ Qh6 21.Rxh6+ Kxh6
+22.Qd7 Bf6 23.Qxb7 Kg7 24.Rf1 Rab8 25.Qd7 Rfd8 26.Qg4+ Kf8 27.fxe5 Bg7 28.e6 Rb7
+29.Qg6 f6 30.Rxf6+ Bxf6 31.Qxf6+ Ke8 32.Qh8+ Ke7 33.Qg7+  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1889.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Van Foreest, Arnold E"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D37"]
+
+1.Nf3 g6 2.d4 d5 3.c4 e6 4.Nc3 Nf6 5.Bf4 Nc6 6.a3 a6 7.e3 Bg7 8.h3 O-O 9.c5 Re8
+10.Be2 b6 11.cxb6 cxb6 12.Rc1 Bb7 13.O-O Nh5 14.Bh2 e5 15.Nxe5 Nxe5 16.dxe5 Bxe5
+17.Bxh5 Bxh2+ 18.Kxh2 Qd6+ 19.Kh1 gxh5 20.Qxh5 Re6 21.Rcd1 Rh6 22.Qg4+ Rg6
+23.Qd4 Rd8 24.Rd2 Qe6 25.e4 Qe7 26.exd5 Qg5 27.f4 Qh4 28.Qe5 f5 29.Re1 Rf8
+30.Rde2 Bc8 31.Qd4 Qg3 32.Qf2 Qxf2 33.Rxf2 Rd6 34.Re5 Kg7 35.Rfe2 Kf6 36.Kg1 Bd7
+37.Kf2 Rf7 38.Ke3 Kg7 39.Kd4 h5 40.b4 Kf6 41.a4 Rf8 42.g4 hxg4 43.hxg4 Rc8
+44.Rh2 Kg7 45.gxf5 b5 46.axb5 axb5 47.Ne4 Rc4+ 48.Ke3 Ra6 49.f6+ Rxf6 50.Rh7+  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1889.??.??"]
+[Round "?"]
+[White "Van Vliet, Louis"]
+[Black "Lasker, Emanuel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Bg4 4.dxe5 Nd7 5.exd6 Bxd6 6.Be2 Ngf6 7.Nc3 Qe7 8.Nd2 h5
+9.f3 Be6 10.Nb5 Be5 11.c3 Rh6 12.Nd4 Rg6 13.Nxe6 Rxg2 14.Bf1 Rxh2 15.Rxh2 Bxh2
+16.Nxg7+ Kf8 17.Nf5 Qe5 18.Qe2 Nb6 19.Qg2 Nfd5 20.Nc4 Nxc4 21.Bh6+ Ke8 22.Qg8+ Kd7
+23.Qxf7+ Kc8 24.O-O-O  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1889.??.??"]
+[Round "?"]
+[White "Bauer, Johann"]
+[Black "Loman, Rudolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.a4 b4
+9.a5 Nxd4 10.Nxd4 exd4 11.Qxd4 c6 12.Re1 Be6 13.Be3 Nc5 14.Nd2 Rb8 15.f4 Nxb3
+16.Nxb3 Kd7 17.Qa7+ Qc7 18.Qxa6 Bd6 19.Bb6 Qb7 20.Qd3 g6 21.c3 Ra8 22.Qd4 bxc3
+23.bxc3 Qa6 24.Nd2 Rhe8 25.h3 Re7 26.Rad1 Rae8 27.Ne4 c5 28.Qa4+  1-0
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1889.??.??"]
+[Round "?"]
+[White "Leather"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B23"]
+
+1.Nc3 d5 2.g3 Nf6 3.Bg2 c5 4.d3 e6 5.e4 h6 6.Nge2 d4 7.Nb1 Bd7 8.f4 Bc6 9.Nd2 Nbd7
+10.Nf3 Be7 11.h3 Qc7 12.a3 Rd8 13.b3 Nh7 14.O-O f5 15.Ne1 Nhf6 16.e5 Nd5
+17.Bd2 O-O 18.Kh2 Rf7 19.b4 b6 20.Nf3 Nf8 21.Qe1 Ba4 22.Rc1 Qd7 23.Kh1 Rc8
+24.bxc5 bxc5 25.c4 dxc3 26.Nxc3 Nxc3 27.Rxc3 Bd8 28.Qc1 Ba5 29.Rxc5 Bxd2
+30.Nxd2 Rxc5 31.Qxc5 Qxd3 32.Qb4 Bc2 33.Rc1 Rd7 34.Nf3 g5 35.Qc5 Bd1 36.Rc3 Qb1
+37.Rc1 Qb2 38.Qc3 Qxc3 39.Rxc3 Bxf3 40.Bxf3 gxf4 41.gxf4 Rd4 42.Bh5 Rxf4
+43.Rc7 Re4 44.Bf7+ Kh8 45.Rc8 Rxe5 46.Bxe6 Kg7 47.Rc7+ Kf6 48.Bxf5 Rxf5 49.Rxa7 Rf2
+50.Ra4 Ng6 51.Kg1 Ra2 52.Kf1 Rh2 53.Kg1 Rxh3  0-1
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1889.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Mason, James"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Be2 Bb4 5.O-O d6 6.d3 h6 7.Bd2 Be6 8.Qc1 Ne7
+9.Nd1 Bxd2 10.Nxd2 g5 11.f3 Ng6 12.Re1 Nf4 13.Bf1 h5 14.g3 Nh3+ 15.Bxh3 Bxh3
+16.Re2 Be6 17.Nf2 Nd7 18.Nf1 Qe7 19.Qe3 a6 20.c3 O-O-O 21.b4 Rdg8 22.a4 g4
+23.fxg4 Bxg4 24.Nxg4 Rxg4 25.Qf3 Rhg8 26.Ne3 R4g5 27.Nf5 Qe6 28.a5 d5 29.Rb1 c6
+30.c4 dxc4 31.dxc4 h4 32.b5 hxg3 33.h4 Rxf5 34.exf5 Qxc4 35.bxc6 bxc6 36.Qe4 Rg4
+37.Qxc4 Rxc4 38.Rg2 Rxh4  1/2-1/2
+
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1889.??.??"]
+[Round "?"]
+[White "NN"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.d5 Be7 5.Be3 Ngf6 6.Bd3 Ng4 7.c4 Nxe3 8.fxe3 Nc5
+9.Bc2 Bh4+ 10.Kd2 c6 11.Nc3 cxd5 12.Nxd5 Be7 13.Qe2 a5 14.Raf1 O-O 15.h4 a4
+16.Ng5 f6 17.Qh5 h6 18.Nf3 Kh7 19.Nh2 Be6 20.Qf3 Rb8 21.g4 b5 22.Kc1 bxc4
+23.Qe2 Qc8 24.Qxc4 Qb7 25.Qc3 Rfc8 26.Qa3 Nb3+ 27.Kd1 Qb5 28.Nc3 Qa5 29.axb3 Rxc3
+30.bxc3 Qxc3 31.Qxa4 Bxb3 32.Bxb3 Qd3+ 33.Ke1 Rxb3  0-1

@@ -1,0 +1,851 @@
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "1"]
+[White "Steiner, Lajos"]
+[Black "Johner, Paul F"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C90"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 Na5
+9.Bc2 c5 10.d4 Qc7 11.h3 Nc6 12.Be3 O-O 13.Nbd2 Nd8 14.Nf1 Kh8 15.Ng3 g6
+16.Qd2 Ne6 17.Rad1 Bb7 18.d5 Ng7 19.Nxe5 dxe5 20.d6 Bxd6 21.Qxd6 Qxd6 22.Rxd6 Ne6
+23.Bxc5 Nxc5 24.Rxf6 Rad8 25.Rd1 Rxd1+ 26.Bxd1 Rd8 27.Bb3 Nxb3 28.axb3 Rd1+
+29.Kh2 Kg7 30.Rb6 Bc8 31.Rc6 Be6 32.Rxa6 Rd2 33.Rb6 Rxf2 34.Rxb5 h5 35.h4 Kf6
+36.Kg1 Rf4 37.Rb4 Rxh4 38.Nf1 Rf4 39.Nd2 h4 40.c4 g5 41.c5 g4 42.c6 Ke7 43.Rb6 g3
+44.c7 Kd7 45.Nf3 Kxc7 46.Rb5 f6 47.Ra5 Rxe4 48.Ra4 Re2 49.Rxh4 e4 50.Rh7+ Kd6
+51.Rg7 exf3  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "1"]
+[White "Saemisch, Fritz"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E14"]
+
+1.d4 Nf6 2.Nf3 b6 3.c4 Bb7 4.e3 e6 5.Bd3 Bb4+ 6.Bd2 Bxd2+ 7.Nbxd2 d6 8.O-O Nbd7
+9.Qc2 O-O 10.Rad1 Qe7 11.Ng5 h6 12.Nh7 Rfd8 13.Nxf6+ Nxf6 14.Ne4 c5 15.Nxf6+ Qxf6
+16.dxc5 bxc5 17.Rd2 Rab8 18.Rfd1 Bc6 19.b3 Qe5 20.Qb2 Qxb2 21.Rxb2 a5 22.Rbd2 Kf8
+23.Bc2 Ke7 24.f3 a4 25.Kf2 axb3 26.Bxb3 f5 27.Ke2 Rb4 28.Kd3 Ba4 29.Bxa4 Rxa4
+30.Rb1 Ra3+ 31.Ke2 Rc3 32.a4 Ra3 33.Rb7+ Rd7 34.Rdb2 Rxa4 35.Rxd7+ Kxd7 36.Rb7+ Kc6
+37.Rxg7 Rxc4 38.Rg6 Kd5 39.Rxh6 Rc2+ 40.Kf1 c4 41.Rh8 c3 42.h4 Rd2 43.Ke1 Rxg2
+44.Rc8 c2 45.h5 Rh2 46.h6 Rxh6 47.Rxc2 Rh1+ 48.Kd2 Rh2+ 49.Kd3 Rxc2  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "1"]
+[White "Bluemich, Max"]
+[Black "Nimzowitsch, Aaron "]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A04"]
+
+1.Nf3 c5 2.g3 Nc6 3.Bg2 e5 4.e4 Be7 5.O-O d6 6.c3 Bg4 7.d3 Qd7 8.Re1 Nf6
+9.Nbd2 Rd8 10.Qa4 O-O 11.Qc2 Qc7 12.Nc4 h6 13.Ne3 Bd7 14.Nh4 Rfe8 15.f4 Qb8
+16.Nhf5 Bf8 17.Qf2 Bxf5 18.Nxf5 d5 19.Rf1 dxe4 20.dxe4 Qc8 21.Qf3 Qe6 22.fxe5 Nd7
+23.Qg4 Ndxe5 24.Qe2 Qc4 25.Qxc4 Nxc4 26.b3 Nd6 27.Nxd6 Bxd6 28.Be3 b6 29.Rad1 Be5
+30.Bd2 Rd3 31.Rf3 Rd6 32.Kf1 Red8 33.Ke2 c4 34.bxc4 Na5 35.Rff1 Nxc4 36.Bf4 Rxd1
+37.Rxd1 Rxd1 38.Kxd1 Bxf4  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "1"]
+[White "Von Holzhausen, Walther"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Ng3 h5 6.h4 Bg4 7.Be2 e6 8.Bxg4 Nxg4
+9.Bf4 Qb6 10.Nf3 Qxb2 11.O-O b6 12.Re1 Be7 13.c4 Qxf2+ 14.Kh1 Qb2 15.Re2 Qb4
+16.Qc2 Nd7 17.Rb1 Qa5 18.Rbe1 O-O 19.Bd2 Bb4 20.Ng5 Ndf6 21.Bxb4 Qxb4 22.Nxh5 g6
+23.Nxf6+ Nxf6 24.Rf1 Nh7 25.Rxe6 Nxg5 26.hxg5 fxe6 27.Qxg6+ Kh8 28.Qh6+ Kg8  1/2-1/2
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "1"]
+[White "Yates, Frederick"]
+[Black "Rubinstein, Akiba"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B02"]
+
+1.e4 Nf6 2.e5 Nd5 3.Bc4 Nb6 4.Bb3 c5 5.Qe2 Nc6 6.Nf3 d5 7.exd6 e6 8.Nc3 Bxd6
+9.Ne4 Be7 10.d3 Nd5 11.O-O O-O 12.Bd2 b6 13.Rad1 Bb7 14.Rfe1 Qd7 15.Bc1 Rad8
+16.Ng3 Rfe8 17.Qe4 Nf6 18.Qh4 Nd4 19.Ne5 Qc7 20.Nh5 Nxh5 21.Qxh5 Bd6 22.Ng4 Nxb3
+23.axb3 f5 24.Ne3 Qc6 25.Qh3 b5 26.Nf1 e5 27.Bg5 Rd7 28.f4 Rf7 29.Qg3 Re6
+30.Qf2 Rg6 31.Nd2 exf4 32.Nf3 h6 33.h4 hxg5 34.hxg5 Qd7 35.Rd2 Bxf3 36.Qxf3 Rxg5
+37.Rde2 Qb7 38.Re8+ Bf8 39.Qh3 Rg3 40.Qh2 g6 41.Kf2 Rh7 42.Qg1 Qd5  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "2"]
+[White "Tartakower, Saviely"]
+[Black "Saemisch, Fritz"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A05"]
+
+1.Nf3 Nf6 2.b3 b6 3.Bb2 e6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.d3 c5 8.Nbd2 d6
+9.e4 Nc6 10.Qe2 Rc8 11.e5 dxe5 12.Nxe5 Nd4 13.Qd1 Bxg2 14.Kxg2 Qd5+ 15.Nef3 Rfd8
+16.Re1 Qb7 17.Kg1 Rc7 18.Rc1 Rd5 19.Ne4 Nxe4 20.dxe4 Rd8 21.Nxd4 cxd4 22.Qd3 e5
+23.f4 f6 24.Rf1 f5 25.Rce1 Qc6 26.Rf2 exf4 27.exf5 fxg3 28.hxg3 Bf6 29.Re4 Qd5
+30.Rfe2 h6 31.Re8+ Kf7 32.Rxd8 Qxd8 33.Re4 Qc8 34.Qf3 Re7 35.Rxe7+ Bxe7 36.Qe4 Bf6
+37.Qd5+ Ke8 38.Qe4+ Kf7 39.g4 Qc5 40.Kf1 Be5 41.Bc1 Kf6 42.Kg2 Qc3 43.Bf4 Qc7
+44.Bd2 Qd6 45.Kf3 Qd7 46.Be1 Qd6 47.Bh4+ g5 48.fxg6 Kg7 49.Ke2 Bf6 50.Bxf6+ Qxf6
+51.Kd3 Qxg6 52.Qxg6+ Kxg6 53.Kxd4 Kg5 54.c4 Kxg4 55.b4 Kf5 56.Kd5 Kf6 57.c5 bxc5
+58.bxc5 h5 59.Kd6 h4 60.c6 h3 61.c7 h2 62.c8=Q h1=Q 63.Qe6+ Kg7 64.Kc7 Qh2+
+65.Kb7 Qf2 66.a4 Qc5 67.Ka6 Qd4 68.Qe7+ Kg6 69.a5 Kh5 70.Qc7 Kh4 71.Kb7 Kh3
+72.a6 Kg2 73.Ka8 Kf1 74.Qe7 Qb6 75.Qf7+ Ke1 76.Qxa7 Qd8+  1/2-1/2
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "2"]
+[White "Johner, Paul F"]
+[Black "Nimzowitsch, Aaron "]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E50"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 Nc6 7.O-O Bxc3 8.bxc3 d6
+9.Nd2 b6 10.Nb3 e5 11.f4 e4 12.Be2 Qd7 13.h3 Ne7 14.Qe1 h5 15.Bd2 Qf5 16.Kh2 Qh7
+17.a4 Nf5 18.g3 a5 19.Rg1 Nh6 20.Bf1 Bd7 21.Bc1 Rac8 22.d5 Kh8 23.Nd2 Rg8
+24.Bg2 g5 25.Nf1 Rg7 26.Ra2 Nf5 27.Bh1 Rcg8 28.Qd1 gxf4 29.exf4 Bc8 30.Qb3 Ba6
+31.Re2 Nh4 32.Re3 Bc8 33.Qc2 Bxh3 34.Bxe4 Bf5 35.Bxf5 Nxf5 36.Re2 h4 37.Rgg2 hxg3+
+38.Kg1 Qh3 39.Ne3 Nh4 40.Kf1 Re8  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "2"]
+[White "Rubinstein, Akiba"]
+[Black "Von Holzhausen, Walther"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D06"]
+
+1.d4 d5 2.Nf3 c5 3.c4 cxd4 4.cxd5 Qxd5 5.Nc3 Qa5 6.Nxd4 a6 7.g3 e5 8.Nb3 Qb4
+9.Bg2 Nf6 10.a3 Qb6 11.Be3 Qc7 12.Na4 Nc6 13.Nb6 Rb8 14.Rc1 Ng4 15.Nd5 Qd7
+16.Bb6 Bd6 17.O-O O-O 18.Qd2 Qe6 19.Rfd1 e4 20.Nc5 Bxc5 21.Bxc5 Qf5 22.f3 e3
+23.Nxe3 Nxe3 24.Qxe3 Be6 25.Bxf8 Rxf8 26.Qb6 Qe5 27.e4 f5 28.f4 Qb8 29.e5  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "2"]
+[White "Steiner, Lajos"]
+[Black "Yates, Frederick"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D64"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Be7 5.Bg5 Nbd7 6.e3 c6 7.Rc1 O-O 8.Qc2 Re8
+9.Bd3 Nf8 10.Ne5 Ng6 11.O-O Nd7 12.Bxe7 Qxe7 13.f4 a6 14.Bxg6 hxg6 15.c5 g5
+16.Rf3 f5 17.Nxd7 Bxd7 18.Qb3 Rab8 19.Qb6 Rec8 20.Na4 Be8 21.Qa5 Bh5 22.Rf2 Kh7
+23.Qd2 Rh8 24.Rc3 Rbf8 25.Rb3 Rf7 26.Rb6 Qf6 27.b3 Rg8 28.Qb4 gxf4 29.exf4 Qe7
+30.Nb2 Kh8 31.Qe1 g5 32.Nd3 Rfg7 33.Qe5 Kh7 34.g3 Bg4 35.fxg5 Qxg5 36.Nf4 Re8
+37.b4 Qh6 38.a4 Bd1 39.b5 Bxa4 40.bxa6 bxa6 41.Rxa6 Bb5 42.Ra3 Rge7 43.Rfa2 Bc4
+44.Ra1 Qg7 45.Re3 Kg8 46.Rae1 Qxe5 47.Rxe5 Kf7 48.h3 Ba6 49.Kf2 Bc8 50.g4 fxg4
+51.hxg4 Ra7 52.Rh5 Ra2+ 53.Kg3 Ra3+ 54.Kh4 Ra4 55.Rh7+ Kg8 56.Rc7 Rxd4 57.Nh5 Rf8
+58.Kg5 e5 59.Nf6+ Rxf6 60.Kxf6 Rf4+ 61.Kxe5 Rf8 62.Ra1  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "2"]
+[White "Alekhine, Alexander"]
+[Black "Bluemich, Max"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A48"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.Nbd2 O-O 5.e3 d6 6.Bc4 Nc6 7.c3 a6 8.Qe2 Bg4
+9.h3 Bd7 10.Nh2 Qc8 11.f4 e5 12.fxe5 dxe5 13.O-O Nh5 14.Rxf7 Rxf7 15.Bxf7+ Kxf7
+16.Qc4+ Be6 17.d5 Bxd5 18.Rf1+ Nf6 19.Qxd5+ Qe6 20.Qf3 Qf5 21.Bxf6  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "3"]
+[White "Bluemich, Max"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A04"]
+
+1.Nf3 Nf6 2.g3 b6 3.Bg2 Bb7 4.O-O c5 5.d3 g6 6.e4 d6 7.Nc3 Bg7 8.Bd2 O-O
+9.Qc1 d5 10.exd5 Nxd5 11.Nxd5 Bxd5 12.Bh6 Nc6 13.Bxg7 Kxg7 14.Re1 Rc8 15.Qe3 f6
+16.c3 e5 17.Red1 Re8 18.Nh4 Bxg2 19.Nxg2 Qd6 20.Rd2 Rcd8 21.Rad1 Re7 22.Ne1 Qe6
+23.b3 Qh3 24.Qf3 Rd6 25.Qg2 Qe6 26.f3 Red7 27.Qf2 Ne7 28.Rc1 f5 29.Re2 Qf6
+30.Qe3 Nc6 31.Rcc2 h5 32.Qf2 Qg5 33.Kh1 Rd8 34.Qe3 Qf6 35.Rg2 Kf7 36.Rge2 h4
+37.Kg1 hxg3 38.hxg3 f4 39.gxf4 exf4 40.Qe4 Rd5 41.Ng2 Rxd3 42.Qxf4 Rxf3 43.Qxf6+ Rxf6
+44.Re3 Ne7 45.Rce2 Nf5 46.Rh3 Rd1+ 47.Kh2 Rfd6 48.Rf3 R1d2 49.Rff2 Rxe2 50.Rxe2 Rd3
+51.c4 g5 52.Ne1 Rc3 53.Rf2 Kf6 54.Kg2 g4  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "3"]
+[White "Von Holzhausen, Walther"]
+[Black "Steiner, Lajos"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B53"]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nd7 4.c4 cxd4 5.Nxd4 Ngf6 6.Nc3 Nc5 7.f3 g6 8.Be3 Bg7
+9.Qd2 h6 10.Be2 Ne6 11.Nb3 g5 12.Rd1 Bd7 13.c5 dxc5 14.Nxc5 Nxc5 15.Bxc5 Qc7
+16.Bd4 Bc6 17.Nb5 Bxb5 18.Bxb5+ Kf8 19.Rc1 Qd8 20.O-O a6 21.Ba4 b5 22.Bb3 Nh5
+23.Rfd1 Bxd4+ 24.Qxd4 Qxd4+ 25.Rxd4 Nf4 26.Kf1 Kg7 27.g3 Ng6 28.Rc7 Rhd8
+29.Rxd8 Rxd8 30.Ke2 Rd6 31.Ke3 e6 32.f4 gxf4+ 33.gxf4 Kf8 34.f5 Ne5 35.fxe6 fxe6
+36.Ra7 Nd3 37.Kf3 Nxb2 38.Kg4 Nd3 39.Kh5 Nc5 40.e5 Rd2 41.h4 Re2 42.Kxh6 Rxe5
+43.Kg6 Re3 44.h5 Nxb3 45.axb3 Rxb3 46.Rxa6 Ke7 47.Ra7+ Kd6 48.h6 Rh3 49.h7 b4
+50.Ra8 Kd5 51.Ra5+ Kc4 52.Rh5 Rxh5 53.Kxh5 Kc3 54.h8=Q+ Kc2 55.Qc8+ Kb2 56.Qxe6 b3
+57.Kg4 Kc2 58.Qc4+  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "3"]
+[White "Saemisch, Fritz"]
+[Black "Rubinstein, Akiba"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 e6 3.Bf4 c5 4.e3 Nc6 5.c3 Nf6 6.Bd3 Qb6 7.Qc1 Bd7 8.Nbd2 Rc8
+9.Qb1 Be7 10.h3 O-O 11.Ne5 Rfd8 12.Bh2 Be8 13.O-O g6 14.Kh1 Nd7 15.Nxd7 Rxd7
+16.Nf3 Rdd8 17.Re1 a6 18.Qc1 Kg7 19.Qd2 Qa7 20.Qe2 cxd4 21.exd4 Qb6 22.Bf4 Rd7
+23.Ne5 Rdd8 24.Nxc6 Rxc6 25.Qd2 f6 26.Re2 Bf7 27.Rae1 Rd7 28.g4 Qd8 29.Bg3 Bf8
+30.f3 Be7 31.Rh2 b5 32.a3 Rb7 33.h4 Bd6 34.Bxd6 Qxd6 35.f4 Rc8 36.h5 gxh5
+37.Rg1 Kh8 38.f5 Rg8 39.Qh6 exf5 40.Bxf5 Bg6 41.Bxg6 Rxg6 42.Qxh5 Rbg7 43.Qf5 Rg5
+44.Qd3 Qd7 45.Re1 Rxg4 46.Qf1 Qf7 47.Rh6 R7g5 48.Qh3 Qg8 49.Rxf6 Rg3 50.Qh2 Rg2
+51.Qh3 R5g3 52.Qxg2 Rxg2 53.Rf8 Qxf8 54.Kxg2 Qf4 55.Re2 h5  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "3"]
+[White "Nimzowitsch, Aaron "]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B02"]
+
+1.e4 Nf6 2.d3 c5 3.c4 Nc6 4.Nc3 e6 5.f4 d5 6.e5 d4 7.Ne4 Nxe4 8.dxe4 g5 9.Nf3 gxf4
+10.Bxf4 Qc7 11.Bd3 Bd7 12.O-O O-O-O 13.a3 Be8 14.Qe1 Rg8 15.Qh4 h6 16.Bg3 Qb6
+17.Rf2 Qb3 18.Rd2 Na5 19.Rc1 Qb6 20.Rf1 Nb3 21.Re2 a5 22.Bf4 a4 23.h3 Na5
+24.Bd2 Nc6 25.Qe1 Qb3 26.Qb1 Bg7 27.Bf4 Ne7 28.Bd2 Nc6 29.Bf4 Na5 30.Nd2 Qb6
+31.Qc2 Qc7 32.Nf3 Kb8 33.Qc1 b5 34.cxb5 c4 35.Bd2 Rc8 36.Bxa5 Qxa5 37.Rc2 Bxb5
+38.Bxc4 d3 39.Rc3 d2 40.Qc2 Bxc4 41.Rxc4 Rxc4 42.Qxc4 Rc8 43.Qe2 Qb6+ 44.Qf2 Qxf2+
+45.Kxf2 Rc2 46.Ke2 Rxb2 47.Nxd2 Bxe5 48.Rb1 Rxb1 49.Nxb1 Kc7 50.Nd2 Kc6 51.Kd3 Kc5
+52.g4 Bf4 53.Nb1 Be5  1/2-1/2
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "3"]
+[White "Yates, Frederick"]
+[Black "Johner, Paul F"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C48"]
+
+1.e4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.Bb5 Nd4 5.Bc4 Bc5 6.d3 d6 7.h3 Be6 8.Nxd4 Bxd4
+9.Bb3 c6 10.Ne2 Bb6 11.Ng3 O-O 12.Qf3 Qd7 13.Bg5 Bd8 14.O-O a5 15.c4 h6 16.Be3 c5
+17.a4 Nh7 18.Nf5 Bxf5 19.exf5 Bg5 20.Bd1 Kh8 21.Bxg5 Nxg5 22.Qh5 Nh7 23.g4 Qc6
+24.Re1 Rae8 25.Re3 Qb6 26.Rb1 e4 27.dxe4 Rxe4 28.Rxe4 Nf6 29.Qh4 Nxe4 30.Qe7 Qd8
+31.Qxe4 Re8 32.Qd3  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "4"]
+[White "Tartakower, Saviely"]
+[Black "Nimzowitsch, Aaron "]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A06"]
+
+1.Nf3 Nf6 2.b3 d5 3.Bb2 c5 4.e3 e6 5.Bb5+ Bd7 6.Bxd7+ Nbxd7 7.O-O Bd6 8.d3 Qc7
+9.Nc3 a6 10.e4 O-O 11.Re1 d4 12.Ne2 Rad8 13.Bc1 h6 14.g3 Kh7 15.Bf4 e5 16.Bd2 b5
+17.c4 Ng8 18.Nh4 Ne7 19.g4 g6 20.Ng3 Ng8 21.Ng2 f6 22.h4 Nb8 23.Kh2 Nc6 24.Rh1 Nce7
+25.h5 g5 26.Qf3 Rb8 27.cxb5 axb5 28.Rhc1 Ra8 29.Rc2 Qd7 30.Qd1 Rfc8 31.f3 Ra3
+32.Bc1 Ra7 33.Ne1 Nc6 34.Bd2 Rca8 35.Nf5 Nge7 36.Nxd6 Qxd6 37.Rac1 Nb4 38.Bxb4 cxb4
+39.Qd2 Kg7 40.Kg1 Kf7 41.Rc5 Rxa2 42.Qxb4 Rb8 43.Ng2 Rb7 44.Qe1 Rb2 45.Qa5 Rxb3
+46.Qa8 Rd7 47.Rc6 Rd8 48.Qa7 Qa3 49.Qb6 Nxc6 50.Rxc6 Qe7 51.Rc7 Rd7 52.Rc8 Kg7
+53.Qb8 Qf7 54.f4 Rb1+ 55.Kh2 gxf4 56.Rc2 Ra7 57.Nh4 Ra2 58.Qc8 Rc1  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "4"]
+[White "Steiner, Lajos"]
+[Black "Saemisch, Fritz"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C64"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.Nc3 Nd4 5.Nxe5 Qg5 6.Ng4 h5 7.Ne3 Nxb5 8.Nxb5 Bxe3
+9.Nxc7+ Kd8 10.Nxa8 Qxg2 11.Rf1 Bf4 12.d3 Bxh2 13.Qd2 Bb8 14.Qa5+ b6 15.Qb4 Ne7
+16.Be3 Nc6 17.Bxb6+ Ke8 18.Qc4 axb6 19.Nxb6 Qf3 20.Nxc8 h4 21.d4 h3 22.Qd3 Qg2
+23.O-O-O h2 24.Rh1 Bf4+ 25.Kb1 Rh3 26.Qc4 Qg4 27.a3 Kd8 28.Nb6 Bc7 29.d5 Ne5
+30.Qc5 d6 31.Qa5 g5 32.Qa8+ Ke7 33.Qa7 Kd8 34.Na8 Qc8 35.Rd4 Bb8 36.Qa5+ Ke7
+37.Nb6 Qg4 38.Qa8 Rh8 39.Rdd1 Kf6 40.Qb7 Kg6 41.a4 Nf3 42.Qd7 Qxd7 43.Nxd7 Ba7
+44.Rd3 g4 45.a5 Bxf2 46.Rxf3 gxf3 47.Kc1 Kg5 48.e5 Kf4 49.e6 Be3+ 50.Kb1 fxe6
+51.dxe6 Bg1  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "4"]
+[White "Yates, Frederick"]
+[Black "Von Holzhausen, Walther"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Nc3 Nbd7 5.Bc4 Be7 6.O-O O-O 7.h3 c6 8.Bb3 Qc7
+9.Bg5 Re8 10.Re1 Nf8 11.Qd3 Nh5 12.Ne2 Bxg5 13.Nxg5 Re7 14.g4 Nf6 15.f4 h6
+16.Nf3 exf4 17.e5 dxe5 18.dxe5 N6d7 19.Nxf4 Nxe5 20.Rxe5 Rxe5 21.Qc3 Qb6+
+22.Kg2 Re3 23.Qd2 Be6 24.Nd4 Re4 25.Ndxe6 Nxe6 26.Nxe6 fxe6 27.Rd1 Rf8 28.c3 Qe3
+29.Qxe3 Rxe3 30.Rd2 g5 31.Rd6 Rf6 32.Bc4 Kg7 33.a4 Re5 34.a5 Rxa5 35.Rd7+ Rf7
+36.Rd6 Re5 37.Bxe6 Re2+ 38.Kg1 Re7 39.Bf5 Rxb2 40.Kf1 Re3  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "4"]
+[White "Rubinstein, Akiba"]
+[Black "Bluemich, Max"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E62"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 O-O 5.Bg2 d6 6.Nc3 Nc6 7.d5 Nb8 8.Nd4 e5
+9.dxe6 fxe6 10.O-O e5 11.Nc2 Nc6 12.h3 Be6 13.Nd5 Qd7 14.Kh2 h6 15.Be3 Kh7
+16.b3 Rf7 17.Qd2 Bf5 18.Nxf6+ Rxf6 19.Nb4 Rf7 20.Nxc6 bxc6 21.Qa5 a6 22.Rad1 Be6
+23.Rd2 Qe8 24.Rfd1 Bc8 25.Qa4 Bb7 26.Be4 Qd7 27.Bg2 Raf8 28.Kg1 Qe8 29.Qb4 Qa8
+30.Qa4 c5 31.Bd5 Bxd5 32.cxd5 Rb8 33.Qe4 a5 34.Rc2 Rff8 35.Rc4 Rb6 36.g4 Bf6
+37.Kg2 Bg5 38.Bxg5 hxg5 39.e3 Qd8 40.Kg3 Kg7 41.Rh1 Rb4 42.Rb1 Qf6 43.Rf1 Rh8
+44.Kg2 Rhb8 45.Kg3 Rh8 46.f3 Rhb8 47.Rf2 Qe7 48.Kg2 Qe8 49.Qc2 Qf7 50.Rxb4 axb4
+51.Qc4 Ra8 52.Kg3 Re8 53.Qe4 Qd7 54.Rh2 Qb5 55.Rf2 Qa6 56.h4 gxh4+ 57.Kxh4 Rh8+
+58.Kg3 Qc8 59.f4 Qd8 60.g5 Rh5 61.Qf3 Qc8 62.Rh2 Rxh2 63.Kxh2 Qa8 64.fxe5 Qxa2+
+65.Kh3 dxe5 66.Qf6+ Kh7 67.Qe7+ Kg8 68.Qd8+ Kg7 69.Qxc7+ Kg8 70.Qd8+ Kh7
+71.Qe7+ Kg8 72.Qe6+ Kh7 73.Qf7+ Kh8 74.Qf8+ Kh7 75.Qh6+ Kg8 76.Qxg6+ Kf8
+77.Qf6+ Kg8 78.g6 Qa7 79.d6 c4 80.Qd8+  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "4"]
+[White "Johner, Paul F"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 b6 3.Bg5 Bb7 4.e3 e6 5.Bd3 h6 6.Bh4 c5 7.O-O Be7 8.Nbd2 d6
+9.Qe2 O-O 10.c3 Nh5 11.Bxe7 Qxe7 12.a4 Nc6 13.Ba6 Rad8 14.Bxb7 Qxb7 15.Rfd1 Nf6
+16.e4 Rd7 17.e5 dxe5 18.Nxe5 Rd5 19.Nxc6 Qxc6 20.dxc5 bxc5 21.Nf3 Rb8 22.Rxd5 Qxd5
+23.Ne5 Rd8 24.Nc4 Qb7 25.Rd1 Rd5 26.Ne3 Rxd1+ 27.Nxd1 Qb3 28.a5 Qa4 29.a6 Nd5
+30.g3 c4 31.Ne3 Nxe3 32.Qxe3 Qxa6 33.Qc5 Qa1+ 34.Kg2 Qxb2 35.Qxc4 a5 36.Qc6 Qa2
+37.c4 a4 38.Qa8+ Kh7 39.Qe4+ f5 40.Qxe6 Qc2 41.Qa6 f4 42.c5 Qe4+ 43.f3 Qc2+
+44.Kh3 Qf5+ 45.Kg2 Qc2+ 46.Kh3 Qb3 47.Qe2  1/2-1/2
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "5"]
+[White "Bluemich, Max"]
+[Black "Steiner, Lajos"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B27"]
+
+1.Nf3 g6 2.e4 Bg7 3.d4 c5 4.c3 cxd4 5.cxd4 Nc6 6.Be3 d5 7.e5 Nh6 8.Bd3 Nf5
+9.Bxf5 Bxf5 10.Nc3 O-O 11.Qd2 Nb4 12.O-O Nc2 13.Rac1 Nxe3 14.Qxe3 Rc8 15.Nh4 Be6
+16.f4 Bh6 17.Rcd1 Qb6 18.Na4 Qa5 19.Nc5 Bg4 20.Ra1 b6 21.Nb3 Qb5 22.Qg3 Bd7
+23.f5 Qe2 24.Rae1 Qxb2 25.e6 Bb5 26.fxg6 fxg6 27.Nxg6 Rxf1+ 28.Rxf1 Bxf1
+29.Nxe7+ Kh8 30.Nxc8 Ba6 31.Qe5+ Bg7 32.Qf4 Qb1+ 33.Nc1 Qb4 34.Qh4 Qxd4+
+35.Qxd4 Bxd4+ 36.Kh1 Bxc8 37.e7 Bd7 38.Nd3 Bc5  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "5"]
+[White "Saemisch, Fritz"]
+[Black "Yates, Frederick"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 h6 4.Bh4 c5 5.e3 Nc6 6.c3 b6 7.Nbd2 Bb7 8.Bd3 Be7
+9.a3 Rc8 10.Rc1 d5 11.O-O O-O 12.Qe2 Nd7 13.Bg3 c4 14.Bc2 f5 15.Ne5 Ncxe5
+16.Bxe5 Nxe5 17.dxe5 Qc7 18.f4 b5 19.Nf3 a5 20.Nd4 Qb6 21.g4 Bc5 22.gxf5 exf5
+23.Qh5 g6 24.Qxh6 Rc7 25.Rf3 Rh7 26.Qg5 Rh5 27.Qg2 Kg7 28.Rg3 b4 29.axb4 axb4
+30.Kh1 Bxd4 31.Rg1 Rh6 32.exd4 b3 33.Bd1 Ra8 34.Bh5 Ra6 35.Bxg6 Rxg6 36.Rxg6+ Qxg6
+37.Qh3 Bc8 38.Qh4 Qxg1+ 39.Kxg1 Rg6+ 40.Kf2 Be6 41.Qd8 Kh7 42.Qf8 Rg7 43.h4 Bf7
+44.h5 Be6 45.Qf6 Bd7 46.h6  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "5"]
+[White "Von Holzhausen, Walther"]
+[Black "Johner, Paul F"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B84"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 a6 7.a4 b6 8.f4 Bb7
+9.Bf3 Qc7 10.Nb3 Nbd7 11.O-O Be7 12.Kh1 O-O 13.Qe2 Rac8 14.Bd2 Rfd8 15.Rae1 Bf8
+16.e5 Ne8 17.Bxb7 Qxb7 18.exd6 Nxd6 19.Nd4 Nf6 20.f5 Nc4 21.Nf3 exf5 22.Bg5 Re8
+23.Qd3 Ne4 24.Nd1 f6 25.Bc1 b5 26.axb5 axb5 27.Nd4 Rcd8 28.b3 Bc5 29.bxc4 Rxd4
+30.Qb3 b4 31.Be3 Nd2 32.Bxd2 Rxe1 33.Bxe1 Rxd1 34.c3 Ra1 35.Qb2 Qa8 36.cxb4 Ra2
+37.Qxa2 Qxa2 38.bxc5 Qxc4 39.Kg1 Qxc5+ 40.Bf2 Qd5 41.g3 g5 42.Ba7 Kg7 43.Bf2 Kg6
+44.Ba7 Kh5 45.h3 Kg6 46.Rf2 Qd7 47.Bb8 Qd8 48.Rb2 Qd4+ 49.Rf2 Qb6  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "5"]
+[White "Nimzowitsch, Aaron "]
+[Black "Rubinstein, Akiba"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A34"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nb4 6.Bc4 e6 7.O-O N8c6 8.d3 Nd4
+9.Nxd4 cxd4 10.Ne2 a6 11.Ng3 Bd6 12.f4 O-O 13.Qf3 Kh8 14.Bd2 f5 15.Rae1 Nc6
+16.Re2 Qc7 17.exf5 exf5 18.Nh1 Bd7 19.Nf2 Rae8 20.Rfe1 Rxe2 21.Rxe2 Nd8 22.Nh3 Bc6
+23.Qh5 g6 24.Qh4 Kg7 25.Qf2 Bc5 26.b4 Bb6 27.Qh4 Re8 28.Re5 Nf7 29.Bxf7 Qxf7
+30.Ng5 Qg8 31.Rxe8 Bxe8 32.Qe1 Bc6 33.Qe7+ Kh8 34.b5 Qg7 35.Qxg7+ Kxg7 36.bxc6 bxc6
+37.Nf3 c5 38.Ne5 Bc7 39.Nc4 Kf7 40.g3 Bd8 41.Ba5 Be7 42.Bc7 Ke6 43.Nb6 h6
+44.h4 g5 45.h5 g4 46.Be5  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "5"]
+[White "Alekhine, Alexander"]
+[Black "Tartakower, Saviely"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A44"]
+
+1.d4 c5 2.d5 d6 3.e4 e5 4.Nc3 Be7 5.Bd3 Bg5 6.Nf3 Bxc1 7.Qxc1 Nh6 8.h3 f5
+9.Qg5 O-O 10.Qxd8 Rxd8 11.Ng5 g6 12.f4 exf4 13.O-O Na6 14.Rxf4 Nb4 15.Rh4 Nxd3
+16.Rxh6 Nxb2 17.Rxh7 Nc4 18.exf5 Bxf5 19.Rxb7 Re8 20.Nh7 Re3 21.Nf6+ Kf8
+22.Nh7+ Kg8 23.Nb5 g5 24.Nf6+ Kh8 25.Rf1 Bxc2 26.Rc1 Na5 27.Rc7 Bg6 28.Nxd6 Rf8
+29.Ng4 Re2 30.Rxa7 Rxa2 31.Rxc5 Nb3 32.Rxa2 Nxc5 33.Ne5 Kg7 34.Ra7+ Kh6 35.Rc7 Nd3
+36.Nxd3 Bxd3 37.Nf7+ Kh5 38.d6 Bg6 39.d7 Bxf7 40.Rc8 Be6 41.Rxf8 Bxd7 42.Rf7 Ba4
+43.Kf2 Kg6 44.Ra7 Bc2 45.Ra6+ Kg7 46.Ke3 Kf7 47.Kd4 Kg7 48.Ke5 Bd3 49.Ra3 Bc2
+50.Rg3 Kg6 51.h4 Kh5 52.Rxg5+ Kxh4 53.Kf4 Bd1 54.g3+ Kh3 55.g4  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "6"]
+[White "Johner, Paul F"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B83"]
+
+1.d4 e6 2.Nf3 c5 3.e4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 Be7 7.O-O O-O 8.f4 Nc6
+9.Be3 Bd7 10.Bf3 a6 11.Qe2 Qc7 12.Qf2 Na5 13.Nxe6 fxe6 14.Bb6 Qc4 15.Bxa5 d5
+16.Bb6 dxe4 17.Be2 Qb4 18.Bd4 Bc6 19.a3 Qa5 20.b4 Qf5 21.Qg3 Rf7 22.Nd1 Nh5
+23.Bxh5 Qxh5 24.Ne3 a5 25.Ng4 Rd8 26.c3 Bb5 27.Rfe1 Bh4 28.Qh3 Rxf4 29.Ne5 Bxe1
+30.Qxe6+ Kh8 31.Rxe1 Rdf8 32.c4 Qe2 33.Ng6+ hxg6 34.Qh3+ Kg8 35.Qe6+ Kh7
+36.Qh3+ Qh5 37.Qxh5+ gxh5 38.cxb5 axb4 39.Bc5 Re8 40.Bxb4 e3 41.g3 Rf5 42.a4 Re4
+43.Bd6 e2 44.Bb8 Kg8 45.Kg2 Kf7 46.Bf4 g5 47.Bd2 Rxa4 48.Be3 Ra2 49.b6 Ke6
+50.h3 Rf1  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "6"]
+[White "Von Holzhausen, Walther"]
+[Black "Saemisch, Fritz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B83"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e6 7.O-O Be7 8.Kh1 Bd7
+9.Nb3 O-O 10.Bg5 Qb8 11.Qd2 Rd8 12.Rad1 Be8 13.Qe3 a6 14.a4 Qc7 15.Qg3 Kh8
+16.f4 h6 17.Qh3 Nh7 18.Bxe7 Qxe7 19.g4 Rac8 20.Rd2 Nb4 21.Nd4 Kg8 22.Nd1 Nc6
+23.Nf3 e5 24.f5 Ng5 25.Nxg5 Qxg5 26.Ne3 Nd4 27.Bd3 d5 28.exd5 Bxa4 29.Rdf2 f6
+30.Qg3 h5 31.h4  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "6"]
+[White "Rubinstein, Akiba"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A47"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 b6 4.h3 Bb7 5.Nbd2 Bd6 6.Bxd6 cxd6 7.e3 O-O 8.Be2 d5
+9.O-O Nc6 10.c3 Ne4 11.Nxe4 dxe4 12.Nd2 f5 13.f4 g5 14.Nc4 d5 15.Ne5 Nxe5
+16.dxe5 Kh8 17.a4 Rg8 18.Qd2 gxf4 19.Rxf4 Qg5 20.Bf1 Qg3 21.Kh1 Qg7 22.Qd4 Ba6
+23.Rf2 Qg3 24.Rc2 Bxf1 25.Rxf1 Rac8 26.b3 Rc7 27.Re2 Rcg7 28.Rf4 Rc7 29.Rc2 Rcg7
+30.Re2 Rg6 31.Qb4 Rh6 32.h4 Qg7 33.c4 Rg6 34.Qd2 Rg3 35.Qe1 Rxg2  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "6"]
+[White "Steiner, Lajos"]
+[Black "Nimzowitsch, Aaron "]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e5 4.Bc4 d6 5.h3 Be6 6.d3 Be7 7.O-O h6 8.Nd5 Nf6
+9.Nh4 Nxd5 10.exd5 Bxd5 11.Nf5 Bxc4 12.dxc4 g6 13.Nxh6 Qd7 14.Qd5 Nd8 15.Be3 f5
+16.Ng8 Bh4 17.g3 Qe6 18.Rad1 Rxg8 19.gxh4 f4 20.Bxf4 Qxd5 21.Rxd5 exf4 22.Rxd6 Ke7
+23.Rfd1 b6 24.Rd7+ Kf6  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "6"]
+[White "Yates, Frederick"]
+[Black "Bluemich, Max"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Nxc6 bxc6 7.Bd3 d5 8.O-O Be7
+9.Qf3 O-O 10.Re1 d4 11.Ne2 Nd7 12.Qg3 Bf6 13.Rf1 Ne5 14.f4 Nxd3 15.cxd3 Re8
+16.Qf3 Ba6 17.Ng3 Rb8 18.e5 Be7 19.f5 Qd5 20.f6 Qxf3 21.Rxf3 Bf8 22.Ne4 g6
+23.b3 Red8 24.Rh3 Rd5 25.Bf4 h6 26.Rf1 g5 27.Rg3 Rbb5 28.Nxg5 hxg5 29.Rxg5+ Bg7
+30.Rf3 Rxe5 31.Bxe5 Rxe5 32.Rxe5 Bh6 33.Rh5 Be3+ 34.Kh1  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "7"]
+[White "Nimzowitsch, Aaron "]
+[Black "Yates, Frederick"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A28"]
+
+1.c4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.e4 Bc5 5.Nxe5 O-O 6.Nf3 Re8 7.d3 d5 8.cxd5 Nxd5
+9.Be2 Nf6 10.O-O Bg4 11.Na4 Bd6 12.Be3 Qe7 13.Nd2 Qe5 14.f4 Bxe2 15.Qxe2 Qb5
+16.b3 Nb4 17.Nc4 Bf8 18.Nc3 Qd7 19.Ne5 Qe6 20.d4 Nd7 21.a3 Nxe5 22.fxe5 Na6
+23.b4 c6 24.Qf3 Rad8 25.Ne2 Nc7 26.Nf4 Qd7 27.Rf2 Nb5 28.Ne2 Qc7 29.a4 Nxd4
+30.Nxd4 Bxb4 31.Nf5 Qxe5 32.Bd4 Rxd4 33.Nxd4 Bc5 34.Rd1 Rd8 35.Kf1 h6 36.Qf5 Qxf5
+37.Rxf5 Bxd4 38.Ke2 Kf8 39.a5 Ke7 40.Rd3 b5 41.axb6 axb6 42.Rdf3 f6 43.Rg3 Kf7
+44.Ra3 Rd7 45.Ra8 b5 46.h4 b4 47.Rb8 g6 48.Ra5 Be5 49.Rb6 Ke7 50.Ra8 c5 51.Rh8 Bd6
+52.Rxh6 Ke6 53.Kd3 Ke5 54.Ke3 Rc7 55.h5 c4 56.Rb5+ Bc5+ 57.Ke2 g5 58.Rh8 Kxe4
+59.h6 f5 60.Rxc5 Rxc5 61.Re8+ Kd4 62.h7 c3 63.h8=Q+ Kc4 64.Qg8+ Kb5 65.Rb8+  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "7"]
+[White "Bluemich, Max"]
+[Black "Von Holzhausen, Walther"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A12"]
+
+1.Nf3 Nf6 2.c4 c6 3.g3 d5 4.b3 Bf5 5.Bg2 h6 6.O-O e6 7.Bb2 Nbd7 8.d3 Be7
+9.Nbd2 O-O 10.Rc1 Rc8 11.Re1 Bh7 12.a3 Re8 13.b4 Bd6 14.e4 dxe4 15.dxe4 e5
+16.Qe2 c5 17.Bc3 Qc7 18.b5 Nf8 19.Bh3 Rcd8 20.Nh4 Ne6 21.Bxe6 Rxe6 22.Ng2 Ree8
+23.f3 Nd7 24.Ne3 Nf8 25.Nd5 Qc8 26.Qg2 Ne6 27.Nb3 Bg6 28.Re2 b6 29.a4 Nd4
+30.Rb2 f5 31.Nd2 Kh7 32.a5 fxe4 33.Nxe4 Bxe4 34.fxe4 Bc7 35.Ra1 Rf8 36.axb6 Bxb6
+37.Rf1 Qe6 38.Rbf2 Kg8 39.Rxf8+ Rxf8 40.Rxf8+ Kxf8 41.Qf2+ Qf7 42.Bxd4 exd4
+43.Kg2 Qxf2+ 44.Kxf2 Kf7 45.Nf4 g5 46.Nd3 Ke6 47.Kf3 h5 48.h3 Kf6 49.g4 h4
+50.e5+ Ke7 51.Nf2 Ke6 52.Ne4 Kxe5 53.Nxg5 d3 54.Ke3 d2 55.Nf3+ Ke6 56.Nxd2 Bd8
+57.Nf3 Be7 58.Kf4 Bd6+ 59.Ke4 Bg3 60.Ng1 Kf6 61.Ne2 Bc7 62.Kd5 Bb6 63.Nf4 Bc7
+64.Ne6 Bh2 65.Nxc5 Kg5 66.Ne6+ Kf6 67.c5 Ke7 68.c6 Bg3 69.g5 Be1 70.c7 Kd7
+71.g6 Bc3 72.Nd4  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "7"]
+[White "Alekhine, Alexander"]
+[Black "Steiner, Lajos"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D03"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e3 Qb6 5.Qc1 Ne4 6.Bf4 Nc6 7.c3 d5 8.Bd3 Bd6
+9.Bxe4 Bxf4 10.dxc5 Qxc5 11.Bxd5 exd5 12.exf4 O-O 13.O-O Bg4 14.Nbd2 Rfe8
+15.Nb3 Qb6 16.Nfd4 a5 17.f5 Be2 18.Re1 Bc4 19.Qd2 a4 20.Nxc6 bxc6 21.f6 c5
+22.Qg5 Qxf6 23.Qxf6 Rxe1+ 24.Rxe1 gxf6 25.Nxc5 Ra5 26.Nd7 Bxa2 27.Nxf6+ Kg7
+28.Nh5+ Kh6 29.g4 Rb5 30.Re2 Bc4 31.Rd2 Kg5 32.f3 f5 33.h3 Rb3 34.Kf2 a3
+35.bxa3 Rxc3 36.a4 Rc1 37.a5 Ra1 38.Kg3 fxg4 39.hxg4 Rg1+ 40.Rg2 Ra1 41.Rb2 Rg1+
+42.Kf2 Ra1 43.Rb7 Rxa5 44.Kg3 Ra1 45.f4+ Kg6 46.Rg7+ Kh6 47.f5 d4 48.Rd7 d3
+49.Nf6 Rg1+ 50.Kf2 Ra1 51.Ne4 Bb5 52.Rd5 Ra4 53.Kf3 Bc4 54.Rd7 Bg8 55.Nf6 Bc4
+56.Rxh7+  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "7"]
+[White "Saemisch, Fritz"]
+[Black "Johner, Paul F"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 b6 3.Bg5 Bb7 4.Nbd2 h6 5.Bh4 e6 6.e3 c5 7.c3 Be7 8.Bd3 O-O
+9.O-O d6 10.Qe2 Nh5 11.Bg3 Nxg3 12.hxg3 Nc6 13.Rfd1 d5 14.Rac1 c4 15.Bb1 f5
+16.e4 fxe4 17.Nxe4 Rxf3 18.Qxf3 dxe4 19.Qxe4 Qd6 20.Re1 Nd8 21.Qh7+ Kf8 22.Qh8+ Kf7
+23.f4 Bf6 24.Re2 Qd5 25.Rce1 Qh5 26.Qh7 Bd5 27.f5 Qg4 28.Bc2 Qxg3 29.Rf1 e5
+30.dxe5 Bxe5 31.Qg6+ Kf8 32.Qxg3 Bxg3 33.Be4 Bxe4 34.Rxe4 Nf7 35.Rxc4 Rd8
+36.Rg4 Rd3 37.f6 g5 38.Rf3 Rxf3 39.gxf3 Bf4 40.Rg2 Ne5 41.Re2 Nxf3+ 42.Kg2 Ne5
+43.Re4 Kf7 44.Ra4 a5 45.b4 Nc4 46.bxa5 Nxa5 47.Kf3 Kxf6 48.Rb4 Bc7 49.a4 h5
+50.c4 Nc6 51.Rb1 g4+ 52.Ke4 h4 53.c5 bxc5 54.Rb7 Bd8 55.Kf4 g3 56.Kf3 Ke5  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "7"]
+[White "Tartakower, Saviely"]
+[Black "Rubinstein, Akiba"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A05"]
+
+1.Nf3 Nf6 2.b3 e6 3.Bb2 Be7 4.e3 b6 5.d4 Bb7 6.Bd3 d6 7.Nbd2 Nbd7 8.e4 O-O
+9.c4 c5 10.d5 e5 11.O-O Re8 12.Ne1 Nf8 13.f4 exf4 14.Rxf4 Ng6 15.Rf2 Nd7
+16.Nc2 Nde5 17.Nf3 Bf6 18.Ne3 Bc8 19.Nxe5 Nxe5 20.Qe2 Bh4 21.g3 Bg5 22.Bxe5 Bxe3
+23.Qxe3 Rxe5 24.Qf4 Qe7 25.Raf1 Bh3 26.Rb1 Bd7 27.h4 Be8 28.Re1 f6 29.g4 h6
+30.h5 Bd7 31.Rg2 Re8 32.Rf1 Rg5 33.Kh2 Re5 34.Qd2 Rb8 35.a4 a6 36.Kg1 Qd8
+37.Ra1 Qc7 38.Kh2 Rbe8 39.Qf4 Qb7 40.Kh1 R8e7 41.Rb2 a5 42.Rf1 Bc8 43.Rg2 Re8
+44.Kh2 Qe7 45.Rff2 Rg5 46.Rg3 Bd7 47.Kg1 Re5 48.Kh2 Rf8 49.Rgg2 Be8 50.Qd2 Bf7
+51.Kg1 Kh8 52.Rf5 Bg8 53.Rgf2 Re8 54.Qf4 Qd8 55.Rxe5 Rxe5 56.Kg2 Bh7 57.Kf3 Qe7
+58.Re2 Kg8 59.Rh2 Kf7 60.Re2 Rg5 61.Rh2 Qe5 62.Qxe5 Rxe5 63.Kf4 g6 64.hxg6+ Kxg6
+65.Be2 Kg7 66.Bf3 Bg6 67.Rh1  1/2-1/2
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "8"]
+[White "Von Holzhausen, Walther"]
+[Black "Nimzowitsch, Aaron "]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B32"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 d5 5.Bb5 dxe4 6.Nxc6 Qxd1+ 7.Kxd1 a6 8.Nd4+ axb5
+9.Nxb5 Bg4+ 10.Ke1 Rd8 11.N1c3 e5 12.h3 Bh5 13.g4 Bg6 14.Nc7+ Kd7 15.N7d5 Kc6
+16.Ne3 Bb4 17.Bd2 Ne7 18.h4 h6 19.g5 Nf5 20.Nxf5 Bxf5 21.Rg1 Rd4 22.a3 Rhd8
+23.axb4 Rxd2 24.Rd1 Rxd1+ 25.Nxd1 Bg4 26.Ne3 Bf3 27.c4 b5 28.b3 Rd3 29.Rg3 g6
+30.Rg1 Kb7 31.cxb5 Kb6 32.Rg3 Kxb5 33.Rh3 Kxb4 34.Kf1 Rxb3 35.Kg1 Rb2 36.Nd5+ Kc4
+37.Ne3+ Kd3 38.Ng2 Rb1+ 39.Kh2 Ke2 40.Kg3 Rg1 41.Rh2 Kf1 42.Kh3 Bxg2+  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "8"]
+[White "Saemisch, Fritz"]
+[Black "Bluemich, Max"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A48"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.e3 O-O 5.Nbd2 d6 6.c3 Nbd7 7.Bc4 c6 8.Qc2 b5
+9.Be2 Nb6 10.h3 Bd7 11.Nh2 Rc8 12.Rd1 c5 13.dxc5 Rxc5 14.Bxf6 Bxf6 15.Ne4 Rd5
+16.Nxf6+ exf6 17.Rxd5 Nxd5 18.Qd2 Be6 19.Bxb5 Nc7 20.Ba4 Bxa2 21.b3 Bb1 22.O-O Bf5
+23.Rd1 Ne6 24.b4 Qc8 25.f3 Nd8 26.Qd4 Kg7 27.g4 Be6 28.g5 Bxh3 29.Qxf6+ Kg8
+30.Rxd6 Ne6 31.Bb3 Qb8 32.Bxe6 Bxe6 33.Qd4 Qb5 34.f4 a5 35.bxa5 Qxa5 36.Kf2 Qf5
+37.Nf3 Qh3 38.Rd8 Bg4 39.Rxf8+ Kxf8 40.Qd8+ Kg7 41.Qf6+ Kf8 42.Qd8+ Kg7 43.Qd4+ Kf8
+44.Qd8+ Kg7 45.Qd4+ Kf8  1/2-1/2
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "8"]
+[White "Johner, Paul F"]
+[Black "Rubinstein, Akiba"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D21"]
+
+1.d4 d5 2.c4 e6 3.Nf3 dxc4 4.e4 c5 5.Bxc4 cxd4 6.Nxd4 a6 7.Be3 Nf6 8.Nd2 b5
+9.Bb3 Bb7 10.f3 Bd6 11.a4 Be5 12.Nf1 Nc6 13.Nxc6 Qxd1+ 14.Bxd1 Bxc6 15.Rc1 Bd7
+16.b3 O-O 17.Ng3 bxa4 18.bxa4 Rfb8 19.O-O a5 20.Rf2 Rb4 21.Rd2 Be8 22.Ne2 Bxa4
+23.f4 Bxd1 24.fxe5 Bxe2 25.exf6 Bb5 26.Rcd1 h6 27.Bd4 gxf6 28.Bxf6 Rxe4 29.h4 h5
+30.Rc1 Rf4 31.Be5 Rf5 32.Rc5 Bc6 33.Rd3 Be4 34.Rxa5 Rf1+ 35.Kh2 Rxa5 36.Rd8+ Kh7
+37.Rh8+ Kg6 38.Rg8+ Kh6  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "8"]
+[White "Steiner, Lajos"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D55"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Be7 5.Bg5 O-O 6.e3 h6 7.Bxf6 Bxf6 8.Qc2 c5
+9.dxc5 Qa5 10.Be2 Qxc5 11.O-O Nc6 12.Rac1 dxc4 13.Ne4 Qf5 14.Nxf6+ Qxf6 15.Bxc4 e5
+16.Bb5 Ne7 17.Qc7 e4 18.Nd4 Ng6 19.Rc5 b6 20.Rc3 Bf5 21.Bc6 Rad8 22.Qb7 Nf4
+23.Nxf5 Ne2+ 24.Kh1 Qxf5 25.Rb3 Qxf2 26.Rb1 Rd3 27.Bxe4 Rxb3 28.axb3 Qxe3
+29.Bf3 Nd4 30.Bd5 Qd3 31.Be4 Qxb3 32.h3 Qe3 33.Bd5 Ne2 34.Rd1 Ng3+ 35.Kh2 Qf4
+36.Bc6 Ne4+ 37.Kg1 Qe3+ 38.Kh2 Qg3+ 39.Kg1 Nf2 40.Rf1 Nxh3+ 41.Kh1 Nf2+ 42.Kg1 Ng4  0-1
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "8"]
+[White "Yates, Frederick"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B03"]
+
+1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.d4 d6 5.exd6 cxd6 6.Be3 g6 7.Nc3 Bg7 8.Nf3 Nc6
+9.h3 O-O 10.Qd2 d5 11.c5 Nc4 12.Bxc4 dxc4 13.O-O Nb4 14.Bh6 Bf5 15.Bxg7 Kxg7
+16.Ne2 Bd3 17.Rfd1 a5 18.Ne5 Qd5 19.Rac1 Nxa2 20.Nf4 Qxd4 21.Rxc4 Qxe5 22.Nxd3 Qh5
+23.Nf4 Qe5 24.Rd4 Nb4 25.Nd5 Nxd5 26.Rxd5 Qf6 27.Rd7 Rfc8 28.Qe3 Qxb2 29.Rxe7 Rf8
+30.Red7 Qb1 31.Kh2 a4 32.Rxb7 Qf5 33.Ra7 Qf6 34.Kg1 a3 35.Qxa3 Qe7 36.Rxa8 Rxa8
+37.Qxa8 Qxc5  1/2-1/2
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "9"]
+[White "Rubinstein, Akiba"]
+[Black "Steiner, Lajos"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E91"]
+
+1.Nf3 g6 2.e4 Bg7 3.d4 c5 4.d5 d6 5.c4 Nd7 6.Nc3 Ngf6 7.Be2 O-O 8.O-O a6
+9.a4 Rb8 10.h3 Ne8 11.Bf4 Ne5 12.Qd2 Nxf3+ 13.Bxf3 Qa5 14.Bg5 Bf6 15.Be3 Bd7
+16.Be2 e5 17.dxe6 fxe6 18.Rfd1 Rd8 19.f3 Bc6 20.Nd5 Qxd2 21.Nxf6+ Nxf6 22.Rxd2 Rd7
+23.a5 e5 24.b4 cxb4 25.Rb1 Kg7 26.Rxb4 h6 27.Rb3 g5 28.Rbd3 Ne8 29.Bd1 Rdf7
+30.Bb3 Rf6 31.c5 Bb5 32.Rc3 Kg6 33.Rc1 h5 34.Rcd1 g4 35.cxd6 gxh3 36.d7 Bxd7
+37.Rxd7 hxg2 38.R1d2  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "9"]
+[White "Nimzowitsch, Aaron "]
+[Black "Saemisch, Fritz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A28"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e4 Bb4 5.d3 d6 6.g3 Bg4 7.Be2 h6 8.Be3 Bxc3+
+9.bxc3 Qd7 10.Qc2 O-O 11.Qd2 Nh7 12.h3 Bxh3 13.Ng1 Bg4 14.f3 Be6 15.d4 exd4
+16.cxd4 d5 17.cxd5 Bxd5 18.exd5 Qxd5 19.Rd1 Rfe8 20.Kf2 Nf6 21.Rh4 Ne7 22.Bd3 Nf5
+23.Bxf5 Qxf5 24.Kg2 Re7 25.Bf2 Rae8 26.Rf4 Qg6 27.d5 Re5 28.Rd4 Rd8 29.Qa5 Nh5
+30.Qxc7 Rde8 31.d6  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "9"]
+[White "Bluemich, Max"]
+[Black "Johner, Paul F"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A07"]
+
+1.Nf3 d5 2.g3 Bf5 3.Bg2 c6 4.b3 Nd7 5.Bb2 Qc7 6.c4 dxc4 7.bxc4 e5 8.d3 Ngf6
+9.Nbd2 Bc5 10.O-O O-O 11.a4 Rfe8 12.e4 Bg4 13.Qc2 Rad8 14.d4 exd4 15.Nxd4 Ne5
+16.N2b3 Bxd4 17.Nxd4 Qb6 18.h3 c5 19.a5 Qa6 20.Nb5 Nf3+ 21.Bxf3 Bxf3 22.Nc7 Qc6
+23.Nxe8 Nxe8 24.Rae1 Qd7 25.Qc3 Bh5 26.Kg2 f6 27.e5 Qc6+ 28.Kh2 Bf7 29.Rd1 Rxd1
+30.Rxd1 Qe4 31.exf6 gxf6 32.Rd8 Kg7 33.Qe3 Qc2 34.Qg5+ Bg6 35.Rd7+ Kg8 36.Qd5+ Kh8
+37.Qxc5  1-0
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "9"]
+[White "Tartakower, Saviely"]
+[Black "Yates, Frederick"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A05"]
+
+1.Nf3 Nf6 2.b3 g6 3.Bb2 Bg7 4.e4 d6 5.Bc4 O-O 6.Qe2 e5 7.h3 Nc6 8.d3 Bd7
+9.Qd2 Qe7 10.Nc3 Nd4 11.b4 Nxf3+ 12.gxf3 Nh5 13.Ne2 c5 14.bxc5 dxc5 15.f4 Bc6
+16.O-O-O b5 17.Bd5 Bxd5 18.exd5 Rfe8 19.fxe5 Bxe5 20.d4 cxd4 21.Bxd4 Rad8
+22.Qa5 Rxd5 23.Be3 Red8 24.Rxd5 Rxd5 25.c4 Rd3 26.Qxb5 a6 27.Qc5 Qb7 28.Kc2 Qe4
+29.Qxe5 Qxe5 30.Kxd3 Qf5+ 31.Kd2 Qa5+ 32.Nc3 Nf6 33.Rc1 h5 34.Bd4 Ne4+ 35.Kd3 Nxc3
+36.Rxc3 Qf5+ 37.Kd2 Qf4+ 38.Be3 Qd6+ 39.Kc2 f5 40.c5 Qc6 41.Rc4 Kf7 42.a4 Ke7
+43.h4 Kd7 44.Kd2 Kc8 45.Ke1 a5 46.Rd4 Qf6 47.Kf1 Qe7 48.Kg2 Qb7+ 49.Kh2  1/2-1/2
+
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1926.??.??"]
+[Round "9"]
+[White "Alekhine, Alexander"]
+[Black "Von Holzhausen, Walther"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D12"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.e3 Bf5 5.Bd3 Bxd3 6.Qxd3 e6 7.Nc3 Nbd7 8.O-O Bd6
+9.e4 dxe4 10.Nxe4 Nxe4 11.Qxe4 Nf6 12.Qe2 O-O 13.Bg5 h6 14.Bd2 Qc7 15.Bc3 Rfe8
+16.Rad1 Rad8 17.a3 Nh7 18.Rd3 Be7 19.Ne5 Bd6 20.Rfd1 Re7 21.c5 Bxe5 22.dxe5 Rd5
+23.Rxd5 exd5 24.f4 f5 25.Qh5 Qd7 26.g4 Rf7 27.g5 hxg5 28.fxg5 Nf8 29.g6 Re7
+30.Kh1 Re6  1/2-1/2

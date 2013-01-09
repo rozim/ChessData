@@ -1,0 +1,2151 @@
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.03"]
+[Round "1"]
+[White "Pritzel, ACM."]
+[Black "Bengtsson, Fr G"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6 5.d4 Nd7 6.Bxc6 bxc6 7.dxe5 dxe5 8.Qe2 a5
+9.Rd1 Ba6 10.Qe1 Bd6 11.Bd2 Qb8 12.b3 a4 13.Nc3 axb3 14.axb3 O-O 15.Be3 Qd8
+16.Ra2 Qe7 17.Rda1 Bb7 18.Rxa8 Bxa8 19.Ra7 c5 20.Nb5 Rc8 21.Qa1 Bxe4 22.Qd1 h6
+23.Nd2 Bc6 24.Nxd6 Qxd6 25.Qe2 f5 26.f3 Kh8 27.Nc4 Qe6 28.Ra1 e4 29.f4 Bb5
+30.Rd1 Nb6 31.Bxc5 Bxc4 32.bxc4 Nxc4 33.Rd4 Nd6 34.Qa6 e3 35.Kf1 Re8 36.Bxd6 e2+
+37.Ke1 Qe3 38.Be5 Qg1+ 39.Kxe2 Qxd4 40.Qxh6+  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.03"]
+[Round "1"]
+[White "Olson, E."]
+[Black "Juhl, J."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C14"]
+
+1.d4 e6 2.e4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.Bd3 c5 8.Nb5 Nb6
+9.Nd6+ Kd8 10.c3 Nc6 11.Bb5 Kc7 12.dxc5 Nd7 13.Bxc6 bxc6 14.Qd4 f6 15.Nxc8 Raxc8
+16.exf6 gxf6 17.b4 Qg7 18.Qf4+ e5 19.Qg3 Qh6 20.h4 Rhg8 21.Qh3 Qg6 22.Kf1 Rg7
+23.Nf3 Qd3+ 24.Kg1 Qxc3 25.Kh2 Rcg8 26.Rhg1 e4 27.Rac1 Qb2 28.Rb1 Qxf2 29.Rbf1 Qb2
+30.Rb1 Qc3 31.Rb3 Qc4 32.Nd2 Qe2 33.Nf1 Ne5 34.Rg3 Nf3+ 35.Kh1 Nxg1 36.Qh2 Kb7
+37.b5 Qxf1  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.03"]
+[Round "1"]
+[White "Nilsson, Oscar"]
+[Black "Jacobsen, Egil"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 cxd5
+9.O-O O-O 10.Bg5 Bb7 11.Qf3 Rb8 12.Rad1 h6 13.Bxf6 Bxf6 14.Qf5 g6 15.Qh3 Bg7
+16.f4 Bc8 17.Qf3 d4 18.Ne4 Rxb2 19.Ng3 Rxa2 20.f5 gxf5 21.Nxf5 Ra5 22.Qe4 Rxf5
+23.Rxf5 Re8 24.Rd5 Bd7 25.Qh7+ Kf8 26.Rf1 Qe7 27.Rh5 Bg4 28.Rb5 c5 29.Bc4 Be6
+30.Bxe6 Qxe6 31.Rxc5 Rd8 32.Rc7 a6 33.Rcxf7+ Qxf7 34.Rxf7+ Kxf7 35.Qf5+ Kg8
+36.Qe6+ Kh8 37.Qxa6 Rf8 38.g4 Rf6 39.Qc8+ Rf8 40.Qd7 Rf6 41.Kg2 Rf8 42.h4 Bf6
+43.Qe6 Bg7 44.g5 Kh7 45.Kh3 Rf2 46.Qc6 Rf8 47.Kg4 Rf2 48.Kh5 hxg5 49.Qe4+ Kh8
+50.hxg5  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.03"]
+[Round "1"]
+[White "Malmgren, B."]
+[Black "Nissen, H."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D34"]
+
+1.d4 d5 2.Nf3 c5 3.c4 e6 4.cxd5 exd5 5.Nc3 Be6 6.g3 Nf6 7.Bg2 Be7 8.O-O Nc6
+9.dxc5 Bxc5 10.Bg5 Be7 11.Nd4 O-O 12.Nxe6 fxe6 13.Bh3 Qd7 14.e4 d4 15.Qb3 Kf7
+16.Rad1 h6 17.Bxf6 Bxf6 18.f4 Na5 19.Qb5 Nc6 20.e5 Be7 21.Qc4 Na5 22.Rxd4 Nxc4
+23.Rxd7 b6 24.Nb5 Rfd8 25.Nc7 Rxd7 26.Bxe6+ Kg6 27.Bxd7 Bc5+ 28.Kh1 Rd8 29.Rd1 Be7
+30.Be8+ Kf5 31.Rxd8 Bxd8 32.Bd7+ Kg6 33.Nd5 Kf7 34.b3 Nb2 35.e6+ Kf8 36.Bb5 Nd1
+37.Kg2 Bf6 38.Kf1 Nc3 39.e7+  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.03"]
+[Round "1"]
+[White "Brodersen, V."]
+[Black "Rask, B."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A54"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Nbd7 4.Nf3 e5 5.Bg5 Be7 6.e3 O-O 7.Bd3 b6 8.Qc2 exd4
+9.exd4 Bb7 10.O-O-O h6 11.Bh4 Re8 12.Rde1 Nf8 13.d5 c6 14.dxc6 Bxc6 15.Nd4 Rc8
+16.Nxc6 Rxc6 17.Qa4 Qd7 18.Bxf6 Bxf6 19.Nd5 Rec8 20.Kb1 Qd8 21.Qxa7 Ne6 22.Bf5 Ra8
+23.Qb7 Nd4 24.Re4 Rxc4 25.Bd7 Rb8 26.Qa6 Rc5 27.Re8+ Qxe8 28.Bxe8 Rxd5 29.Bxf7+  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.03"]
+[Round "1"]
+[White "Brekke, Jac"]
+[Black "Aalheim, T."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D05"]
+
+1.d4 d5 2.Nf3 c5 3.e3 e6 4.b3 Nc6 5.Bb2 Nf6 6.Bd3 Bd6 7.O-O O-O 8.c4 Nb4
+9.Be2 b6 10.Nbd2 Bb7 11.a3 Na6 12.Ne5 Rc8 13.Rc1 Nc7 14.Bd3 Nce8 15.f4 g6
+16.Qe2 Ng7 17.g4 Ne4 18.cxd5 exd5 19.Bxe4 dxe4 20.Qg2 f5 21.Ndc4 Be7 22.Rcd1 Qe8
+23.d5 Qd8 24.d6 Bf6 25.g5 Bxe5 26.Nxe5 Ba6 27.Rfe1 c4 28.Qd2 c3 29.Bxc3 Bd3
+30.Nxd3 exd3 31.Qxd3 h6 32.d7 Rxc3 33.Qxc3 hxg5 34.Rd6 Kh7 35.Rc1 gxf4 36.exf4 Qe7
+37.Rcd1 Rd8 38.Qg3 Qe4 39.Re1  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.03"]
+[Round "1"]
+[White "Berndtsson Kullberg, Karl"]
+[Black "Owesson, B."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B43"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.Be2 Nf6 7.O-O Be7 8.Be3 b5
+9.Bf3 Qe5 10.Nde2 Bb7 11.Bf4 Qc5 12.Ng3 e5 13.Be3 Qc7 14.Nf5 g6 15.Nxe7 Kxe7
+16.Qd2 d6 17.Bg5 Nd7 18.Rad1 Rhd8 19.Be2 Nc5 20.f4 Nd7 21.fxe5 dxe5 22.Kh1 h6
+23.Bxf6+ Nxf6 24.Qxh6 Rxd1 25.Bxd1 Rd8 26.Qg5 Qd6 27.Be2 Rc8 28.Rd1 Qb6 29.Qxe5+ Kf8
+30.Rd6 Rc6 31.Nd5 Nxd5 32.Qh8+ Ke7 33.Rxd5 Re6 34.Rd4 Rf6 35.c3 Rd6 36.Qe5+ Re6
+37.Qg5+ Ke8 38.Bf3 Qc7 39.h3 Qb6 40.h4 Qc7 41.h5 Re5 42.Rd8+ Qxd8 43.Qxe5+ Kf8
+44.Qh8+ Ke7 45.Qxd8+ Kxd8 46.h6  1-0
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.03"]
+[Round "1"]
+[White "Giersing, Johannes Hjalmar"]
+[Black "Lowenborg, Otto"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D00"]
+
+1.d4 Nf6 2.Nf3 d6 3.Nc3 d5 4.e3 e6 5.Be2 c5 6.O-O Nc6 7.b3 Be7 8.Bb2 cxd4
+9.exd4 a6 10.Bd3 Qc7 11.Ne2 b5 12.Qd2 Ne4 13.Qe3 f5 14.Rac1 O-O 15.c4 f4
+16.Nxf4 Qxf4 17.cxd5 Nxf2 18.Kxf2 Nb4 19.dxe6 Bg5 20.Qe2 Bb7 21.Rc5 Bxf3
+22.gxf3 Qxh2+ 23.Ke1 Nxd3+ 24.Qxd3 Qxb2 25.Rc2 Qa3 26.d5 Rac8 27.Rh1 h6 28.Rhh2 Qd6
+29.Rhe2 Rcd8 30.Re4 Qg3+ 31.Ke2 Rxd5 32.e7 Rxd3 33.exf8=Q+ Kxf8  0-1
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.03"]
+[Round "1"]
+[White "Marchand, Max"]
+[Black "Nyholm, Gustaf"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Bxc3 7.bxc3 d6 8.Bg5 Qe7
+9.Re1 Nd8 10.d4 Ne6 11.Bc1 c6 12.Bf1 Qc7 13.g3 Re8 14.Bg2 Nf8 15.Nh4 Be6
+16.f4 Rad8 17.Ba3 exf4 18.gxf4 Bg4 19.Qd3 Qa5 20.Bc1 Qh5 21.Qg3 Ng6 22.Nxg6 hxg6
+23.Bd2 d5 24.e5 Ne4 25.Bxe4 dxe4 26.Rxe4 Bf5 27.Ree1 Bxc2 28.Rac1 Qf5 29.Qg2 Bd3
+30.Re3 Bc4 31.Rg3 Bd5 32.Qe2 b5 33.Rg5 Qh3 34.a3 Bc4 35.Qe3 Qxe3+ 36.Bxe3 a5
+37.Kf2 Ra8 38.f5 gxf5 39.Rcg1 g6 40.h4 Re6 41.h5 Kh7 42.Rh1 Kg7 43.Rgg1 Rh8
+44.Bg5 Rxh5 45.Rxh5 gxh5 46.Bf6+ Kh6 47.Rg8 c5 48.Rd8 cxd4 49.cxd4 b4 50.axb4 axb4
+51.d5 Rb6 52.d6 Be6 53.d7 Bxd7 54.Rxd7 b3 55.Rd1 f4 56.Kf3 b2 57.Rb1 Rb4
+58.Be7 Rb7 59.Ba3 Rb3+ 60.Kxf4 Rxa3 61.Rxb2 Ra1 62.Rb6+ Kg7 63.Kg5 Re1  1/2-1/2
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.03"]
+[Round "1"]
+[White "Johner, Paul F"]
+[Black "Svensson, SO."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D53"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Bg5 Be7 5.e3 Nbd7 6.Nc3 a6 7.Rc1 b6 8.cxd5 exd5
+9.Bd3 O-O 10.Ne5 Bb7 11.f4 Rc8 12.Qf3 c5 13.O-O h6 14.Bh4 Re8 15.g4 Nxg4
+16.Qxg4 Nxe5 17.fxe5 Bxh4 18.Rxf7 Kxf7 19.Qg6+ Kg8 20.Qh7+ Kf7 21.Rf1+ Bf6
+22.Rxf6+ Qxf6 23.exf6 Rg8 24.Qg6+ Kf8 25.f7  1-0
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.03"]
+[Round "1"]
+[White "Jacobson, Ernst"]
+[Black "Krause, Orla Hermann"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 Bb4 5.Bg5 h6 6.Bxf6 Qxf6 7.d5 Ne7 8.a3 Bxc3+
+9.bxc3 d6 10.Qc1 Qg6 11.Qe3 O-O 12.Nd2 f5 13.f3 Bd7 14.c4 b6 15.Nb1 fxe4
+16.fxe4 Rf4 17.Nd2 Raf8 18.O-O-O Ba4 19.g3 R4f6 20.Bd3 c5 21.Rdf1 a6 22.Rxf6 Rxf6
+23.Rf1 Rxf1+ 24.Bxf1 Bd7 25.Be2 b5 26.cxb5 axb5 27.c4 bxc4 28.Nxc4 Nc8 29.Bd1 Bb5
+30.Nd2 Nb6 31.Qc3 Qe8 32.Qa5 Nc4 33.Nxc4 Bxc4 34.Qa4 Bb5 35.Qa7 Bd3 36.Bc2 Bxc2
+37.Kxc2 Qb5 38.Qc7 Qc4+ 39.Kb2 Qxe4 40.Qxd6 c4 41.Qe6+ Kh7 42.g4 Qd4+ 43.Kc1 Qc3+
+44.Kd1 Qd3+ 45.Ke1 Qe3+  1/2-1/2
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.04"]
+[Round "2"]
+[White "Jacobson, Ernst"]
+[Black "Marchand, Max"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B73"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 g6 7.Be3 Bg7 8.O-O O-O
+9.f3 Qb6 10.Rb1 Ng4 11.Nd5 Nxe3 12.Nxb6 Nxd1 13.Nxc6 bxc6 14.Nxa8 Bd4+ 15.Kh1 Nf2+
+16.Kg1 Nxe4+ 17.Kh1 Nd2 18.Rbd1 Nxf1 19.Rxd4 Ne3 20.c3 Nd5 21.Bc4 e5 22.Rd2 Ne3
+23.Be2 d5 24.Nc7 f5 25.Na6 Bxa6 26.Bxa6 c5 27.Kg1 Kg7 28.Kf2 f4 29.b3 Kf6
+30.c4 d4 31.Bb7 a5 32.Bc6 g5 33.h3 h5 34.Bb5 g4 35.hxg4 hxg4 36.fxg4 e4 37.Re2 Nxg4+
+38.Ke1 e3  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.04"]
+[Round "2"]
+[White "Pritzel, ACM."]
+[Black "Olson, E."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.dxe5 dxe5 5.Bc4 c6 6.Nc3 Be7 7.O-O Ngf6 8.Qe2 O-O
+9.a3 b5 10.Ba2 a5 11.Rd1 Qc7 12.Bg5 Ba6 13.Nb1 Rad8 14.Nbd2 h6 15.Bxf6 Nxf6
+16.Nf1 Bc5 17.h3 Nh5 18.Rxd8 Rxd8 19.Rd1 Rxd1 20.Qxd1 Qe7 21.Qd2 b4 22.axb4 axb4
+23.Ne3 Nf6 24.Nf5 Qd7 25.Qxd7 Nxd7 26.Nd2 Kf8 27.Bc4 Bc8 28.Nb3 Be7 29.Na5 Nb8
+30.Nxe7 Kxe7 31.f3 Be6 32.Kf2 Bxc4 33.Nxc4 Nd7 34.Ke3 Ke6 35.Kd2 Nc5 36.Na5 Kd6
+37.Nc4+ Ke6 38.Na5 Kd6 39.b3 Nd7 40.Kd3 Nb8 41.Kc4 Na6 42.Nb7+ Kc7 43.Nc5 Nb8
+44.Kxb4 Kb6 45.h4 h5 46.g4 g6 47.gxh5 gxh5 48.c3 Kc7 49.Ka5 Kd8 50.Kb6 Kc8
+51.c4 Nd7+ 52.Nxd7  1-0
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.04"]
+[Round "2"]
+[White "Lowenborg, Otto"]
+[Black "Johner, Paul F"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 cxd5
+9.O-O O-O 10.Bg5 c6 11.Qf3 Be7 12.Rae1 h6 13.Bxh6 gxh6 14.Qe3 Kg7 15.Qxe7 Qxe7
+16.Rxe7 c5 17.b3 Be6 18.Re1 c4 19.Bxc4 dxc4 20.R1xe6 cxb3 21.cxb3 Rfd8 22.Re1 Rd2
+23.R7e2 Rxe2 24.Nxe2 Rd8 25.Ng3 Rd2 26.Re2 Rd1+ 27.Nf1 Nd5 28.Rd2 Rxd2 29.Nxd2 Nc3
+30.a4 Kf6 31.Nc4 Ke6 32.f3 Kd5 33.Kf2 Kd4 34.Nd6 f6 35.Nf5+ Kd3 36.Nxh6 Kc2
+37.h4 Kxb3 38.Nf5 Nd5 39.g3 Nc7 40.h5 Ne6 41.Nd4+  1-0
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.04"]
+[Round "2"]
+[White "Nyholm, Gustaf"]
+[Black "Giersing, Johannes Hjalmar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C90"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Be7 7.Re1 d6 8.c3 Bg4
+9.d3 O-O 10.Nbd2 Qd7 11.Nf1 Rad8 12.Ne3 Be6 13.Bc2 d5 14.exd5 Nxd5 15.Nxd5 Qxd5
+16.Qe2 Bg4 17.Qe4 Qxe4 18.dxe4 Bxf3 19.gxf3 Bd6 20.a4 Rfe8 21.axb5 axb5 22.Bd3 Rb8
+23.Ra6 Ne7 24.Be3 Ng6 25.Kf1 h6 26.Ra5 c6 27.Ra6 Rec8 28.Rd1 Be7 29.Bc2 Rc7
+30.Rda1 Kf8 31.Ra8 Rcc8 32.R8a7 Ke8 33.Bb3 c5 34.Bd5 Nf4 35.Bxf4 exf4 36.b3 Rb6
+37.Ra8 Rcb8 38.Bc6+ Kd8 39.Kg2 Bf6 40.Rxb8+ Rxb8 41.Ra7 Rb6 42.Bd5 Bxc3 43.Rxf7 g5
+44.h4 Bf6 45.hxg5 hxg5 46.Kh3 Be7 47.Kg4 Kd7 48.Rh7 Rd6 49.Kf5 Rb6 50.e5 Ra6
+51.Rh8 Rb6 52.Ra8 Rh6 53.Ra7+ Ke8 54.e6 Kf8 55.Ra8+ Kg7 56.Re8 Bd6 57.e7 Bxe7
+58.Rxe7+  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.04"]
+[Round "2"]
+[White "Aalheim, T."]
+[Black "Brodersen, V."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A21"]
+
+1.c4 e5 2.Nc3 Bc5 3.e3 Nc6 4.g3 f5 5.Bg2 Nf6 6.Nge2 e4 7.d4 Bb4 8.Nf4 O-O
+9.Bd2 d6 10.h4 g6 11.Nh3 d5 12.Bf1 Ne7 13.Ng5 c6 14.h5 h6 15.Nh3 g5 16.f4 exf3
+17.Qxf3 g4 18.Qf4 Kh7 19.e4 Nfg8 20.Ng5+ hxg5 21.Qxg5 Bxc3 22.bxc3 fxe4 23.Be2 Qd6
+24.h6 Qf6 25.Qh5 Qf2+ 26.Kd1 Qf5 27.Qh2 Be6 28.Bf4 dxc4 29.Rf1 Nd5 30.Kd2 Nxf4
+31.gxf4 Rad8 32.Rab1 Qa5 33.Rxb7+ Kh8  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.04"]
+[Round "2"]
+[White "Bengtsson, Fr G"]
+[Black "Owesson, B."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B24"]
+
+1.e4 c5 2.Nc3 e6 3.g3 Nc6 4.Bg2 g6 5.Nge2 Bg7 6.O-O Nge7 7.d3 d5 8.exd5 exd5
+9.Nf4 d4 10.Ncd5 Nxd5 11.Nxd5 O-O 12.Nf4 Qd6 13.Re1 Bd7 14.Nh3 Be6 15.Bf4 Qd7
+16.Ng5 Rfe8 17.Qd2 Bd5 18.Bh3 f5 19.Ne4 b6 20.Nd6 Ne5 21.Bxe5 Rxe5 22.Nc4 Bxc4
+23.dxc4 Rae8 24.Rxe5 Rxe5 25.Re1 Qe7 26.Rxe5 Qxe5 27.Bg2 Bf8 28.b3 Bd6 29.Bd5+ Kg7
+30.Qg5 Be7 31.Qd2 g5 32.Kg2 h5 33.a4 a5 34.Bc6 Kg6 35.Be8+ Kh6 36.Qd1 Qe4+
+37.Kg1 g4 38.Bf7 h4 39.Bd5 Qe5 40.Kf1  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.04"]
+[Round "2"]
+[White "Jacobsen, Egil"]
+[Black "Malmgren, B."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B76"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be3 g6 7.f3 Bg7 8.Qd2 O-O
+9.g4 Bd7 10.h4 h5 11.Nxc6 bxc6 12.gxh5 Nxh5 13.Bh6 Rb8 14.Bxg7 Kxg7 15.O-O-O Qa5
+16.Bc4 Qe5 17.Kb1 Be6 18.Bb3 c5 19.Rhg1 Nf4 20.Rg5 Qf6 21.e5 dxe5 22.Ne4 Rfd8
+23.Qxd8 Rxd8 24.Rxd8 Bxb3 25.Nxf6 exf6 26.Rg1 Be6 27.Ra8 Bd5 28.Rxa7 Bxf3
+29.Rc7 e4 30.Rxc5 e3 31.a4 e2 32.Kc1  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.04"]
+[Round "2"]
+[White "Juhl, J."]
+[Black "Nilsson, Oscar"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.Re1 Nc5 7.Nxe5 Nxe5 8.Rxe5+ Be7
+9.c3 Nxa4 10.Qxa4 O-O 11.d4 d5 12.Nd2 Bd6 13.Re1 Bf5 14.Nf1 c6 15.Ng3 Re8
+16.Bd2 Qh4 17.Qb3 b5 18.Qd1 Be4 19.Qc1 h6 20.b3 f5 21.f3 f4 22.Nh1 Bd3 23.Nf2 Bf5
+24.c4 Rac8 25.cxd5 cxd5 26.Rxe8+ Rxe8 27.Qc6 Re2 28.Qxd5+ Be6 29.Qa8+ Kh7
+30.Be1 Bb4 31.Qc6 Bxe1 32.Ne4 Bf5 33.Nf6+ gxf6  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.04"]
+[Round "2"]
+[White "Nissen, H."]
+[Black "Brekke, Jac"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nc3 Bg4 6.h3 Bxf3 7.Qxf3 Bc5 8.d3 Qf6
+9.Qe2 Ne7 10.Be3 Bxe3 11.Qxe3 Ng6 12.g3 Qd6 13.O-O-O Qb4 14.f4 f6 15.f5 Nf8
+16.g4 b5 17.g5 Nd7 18.Rhg1 Qe7 19.gxf6 Qxf6 20.Rg3 O-O 21.Rdg1 Rf7 22.Nd1 Kh8
+23.Nf2 a5 24.Ng4 Qd6 25.Qg5 a4 26.f6 Nxf6 27.Nxe5 Re7 28.Nf3 Ng8 29.Nh4 Rf7
+30.Nf5 Qg6 31.Qh4 Qf6 32.Qh5 a3 33.Rxg7 axb2+ 34.Kb1 Rxg7 35.Rxg7 h6 36.Rg6 Qc3
+37.Nxh6 Qe1+ 38.Kxb2 Qb4+ 39.Kc1 Qe1+ 40.Qd1 Qf2 41.Nxg8 Qf4+ 42.Kb1  1-0
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.04"]
+[Round "2"]
+[White "Krause, Orla Hermann"]
+[Black "Svensson, SO."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 d6 6.d4 Bd7 7.O-O Be7 8.Bxc6 Bxc6
+9.Qe2 exd4 10.Nxd4 Qd7 11.Nf5 O-O-O 12.Nxg7 Rhg8 13.Nh5 Nxh5 14.Qxh5 f5 15.f3 fxe4
+16.fxe4 Rg6 17.Qf5 Rdg8 18.g3 Bf6 19.Nd5 Bd4+ 20.Kg2 Re8 21.Qxd7+ Bxd7 22.c3 Bb6
+23.Re1 Ba7 24.Be3 b6 25.Bd4 c5 26.Bf6 Kb7 27.Bh4 Bc6 28.c4 b5 29.b3 Rge6  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.04"]
+[Round "2"]
+[White "Rask, B."]
+[Black "Berndtsson Kullberg, Karl"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2 Qe7 6.d3 Nf6 7.Bg5 Be6 8.Nc3 Nbd7
+9.O-O-O O-O-O 10.d4 h6 11.Bh4 g5 12.Bg3 Nb6 13.Qb5 Nh5 14.d5 Nxg3 15.hxg3 Bd7
+16.Qa5 Kb8 17.Bb5 Bg7 18.Rhe1 Qf6 19.Bxd7 Rxd7 20.Nd4 a6 21.Nc6+ Kc8 22.Re4 Qxf2
+23.Rde1 Bf6 24.Nb5 axb5 25.Qa7 bxc6 26.dxc6 Re7  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.05"]
+[Round "3"]
+[White "Brekke, Jac"]
+[Black "Jacobsen, Egil"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D04"]
+
+1.d4 d5 2.Nf3 c5 3.e3 Nc6 4.b3 Nf6 5.Bb2 Bg4 6.Be2 e6 7.Nbd2 Bd6 8.O-O O-O
+9.c4 Rc8 10.Rc1 Ne7 11.Ne5 Bf5 12.g4 Bg6 13.f3 Nd7 14.f4 f6 15.Nxg6 hxg6
+16.Bf3 cxd4 17.Bxd4 e5 18.Bb2 exf4 19.cxd5 fxe3 20.Ne4 Qb6 21.Kh1 f5 22.Nxd6 Qxd6
+23.Qd4 Qf6 24.d6 Qxd4 25.Bxd4 Rxc1 26.Rxc1 Nc8 27.Bd5+ Kh7 28.Be6 Ncb6 29.Bxe3 Re8
+30.gxf5 gxf5 31.Bxf5+ g6 32.Bxb6 gxf5 33.Rc7 axb6 34.Rxd7+ Kg8 35.Rxb7 Re1+
+36.Kg2 Re2+ 37.Kf3  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.05"]
+[Round "3"]
+[White "Brodersen, V."]
+[Black "Nissen, H."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A85"]
+
+1.d4 e6 2.c4 f5 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 b6 7.Bd3 Bb7 8.O-O Ne4
+9.Bxe7 Qxe7 10.Bxe4 fxe4 11.Nd2 d5 12.f3 exf3 13.Rxf3 Nd7 14.Qe2 Rxf3 15.Nxf3 Rf8
+16.e4 dxe4 17.Nxe4 Rf4 18.Neg5 Bxf3 19.Nxf3 Nf6 20.Re1 Re4 21.Qd2 Rxe1+ 22.Qxe1 Qd6
+23.Qe3 c5 24.Ng5 Qxh2+ 25.Kxh2 Ng4+ 26.Kg3 Nxe3 27.dxc5 bxc5 28.b3 Nf5+ 29.Kf4 Nd6
+30.Nxe6 Nb7 31.Ke5 Kf7 32.Kd5 Kf6 33.Nxc5 Nd8 34.Ne4+ Kf5 35.c5 h5 36.b4 g5
+37.b5 h4 38.c6 Ne6 39.g4+ hxg3 40.Nxg3+ Kf6 41.Kd6 Nf4 42.a4  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.05"]
+[Round "3"]
+[White "Malmgren, B."]
+[Black "Juhl, J."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.d4 e6 2.e4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Qg4 c5 6.Nf3 cxd4 7.Nxd4 Nxe5 8.Qg3 Nbc6
+9.Bb5 Bd7 10.Bxc6 Nxc6 11.Ndb5 Rc8 12.Bf4 Qb6 13.Bc7 Rxc7 14.Qxc7 Qxc7 15.Nxc7+ Kd8
+16.N7b5 a6 17.Na3 b5 18.Nab1 Bc5 19.Nd2 Bd4 20.Nb3 Bb6 21.O-O g5 22.a4 b4
+23.Ne2 h5 24.Rfd1 g4 25.Ned4 Ne5 26.Nc1 h4 27.Nce2 Nc4 28.b3 Nd6 29.c3 bxc3
+30.Nxc3 g3 31.Nf3 gxf2+ 32.Kf1 Nf5 33.Ne5 Ne3+ 34.Ke2 Rh5 35.Nxd7 Kxd7 36.Ne4 Re5  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.05"]
+[Round "3"]
+[White "Nilsson, Oscar"]
+[Black "Pritzel, ACM."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4 d6 6.Nc3 Ne7 7.Bg5 f6 8.Be3 a6
+9.Bc4 Nc6 10.Qd5 Qe7 11.O-O-O Ne5 12.Bb3 c6 13.Qd2 Be6 14.f4 Nc4 15.Bxc4 Bxc4
+16.Rhe1 Qc7 17.Qf2 Be7 18.Bb6 Qc8 19.e5 dxe5 20.Bc5 Qf5 21.Bxe7 Bd5 22.Bd6 Rd8
+23.Nxd5 cxd5 24.g4 Qxg4 25.fxe5 Qg5+ 26.Kb1 f5 27.Qb6 Rd7 28.e6 Rd8 29.Qc7  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.05"]
+[Round "3"]
+[White "Olson, E."]
+[Black "Bengtsson, Fr G"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D04"]
+
+1.d4 d5 2.Nf3 Nf6 3.e3 c5 4.b3 Nc6 5.Bb2 Bg4 6.Be2 e6 7.Nbd2 Bd6 8.Ne5 Bxe2
+9.Qxe2 O-O 10.O-O Rc8 11.a3 Qb6 12.c4 cxd4 13.Nxc6 Rxc6 14.Bxd4 Qc7 15.f4 e5
+16.fxe5 Bxe5 17.Nf3 Bxd4 18.Nxd4 Rc5 19.cxd5 Nxd5 20.e4 Qe5 21.Qf2 Nf6 22.Rae1 Ng4
+23.Nf3 Nxf2 24.Nxe5 Nh3+ 25.gxh3 Rxe5 26.Re3 Rfe8 27.Rd1 R5e7 28.Rd5 g6 29.Kf2 Kg7
+30.Kf3  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.05"]
+[Round "3"]
+[White "Owesson, B."]
+[Black "Rask, B."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 d6 6.d3 Be7 7.O-O O-O 8.c3 Nd7
+9.Be3 f5 10.exf5 Nf6 11.Bb3+ Kh8 12.Ng5 d5 13.f4 Bxf5 14.fxe5 Ng4 15.Nf3 Ngxe5
+16.Nxe5 Nxe5 17.d4 Ng6 18.Nd2 c6 19.Rf2 Bd6 20.Raf1 Qh4 21.g3 Qh3 22.Re1 Rae8
+23.Qf1 Bxg3 24.hxg3 Qxg3+ 25.Rg2 Rxe3 26.Rxg3 Rxg3+ 27.Kh2 Rg4 28.Re3 Rh4+
+29.Kg3 Rg4+ 30.Kh2 Rh4+ 31.Kg3  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.05"]
+[Round "3"]
+[White "Berndtsson Kullberg, Karl"]
+[Black "Aalheim, T."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 cxd5
+9.O-O O-O 10.Bg5 c6 11.Qf3 Be7 12.Rfe1 Be6 13.Ne2 Qd7 14.Nd4 Rae8 15.Nf5 Bd8
+16.Rad1 Bxf5 17.Bxf5 Rxe1+ 18.Rxe1 Re8 19.Rd1 Qe7 20.g3 Qe5 21.b3 g6 22.Bxf6 Qxf6
+23.Bg4 Qd6 24.Qc3  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.05"]
+[Round "4"]
+[White "Juhl, J."]
+[Black "Brekke, Jac"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.c3 b5 7.Bc2 d6 8.d4 Bg4
+9.d5 Nb8 10.h3 Bh5 11.Be3 Bg6 12.Nbd2 c6 13.dxc6 Nxc6 14.a4 O-O 15.Nh4 Nh5
+16.Nxg6 fxg6 17.Nf3 Kh8 18.Qd5 Rc8 19.axb5 axb5 20.Qxb5 Qd7 21.Ra6 Rxf3 22.Rxc6 Rcf8
+23.Bd1 Rxh3 24.gxh3 Qxh3 25.Qe2 Ng3 26.fxg3 Qxg3+ 27.Kh1 Qh3+ 28.Kg1 Qg3+
+29.Qg2 Qxe3+ 30.Kh2 Qh6+  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.05"]
+[Round "4"]
+[White "Aalheim, T."]
+[Black "Owesson, B."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nc3 Bc5 3.Bc4 d6 4.d3 Nc6 5.Nf3 Nf6 6.h3 Be6 7.Bb3 Qe7 8.Be3 Bb6
+9.Ne2 O-O 10.Bg5 Bxb3 11.axb3 Nd8 12.Ng3 Qe6 13.Nf5 Ne8 14.Be7 f6 15.Bxf8 Kxf8
+16.g4 g6 17.Ng3 Nf7 18.Qd2 Ng7 19.Ke2 Qe7 20.Ne1 Ne6 21.Ng2 Nd4+ 22.Kf1 Qd7
+23.Qd1 Qb5 24.h4 Qc5 25.Ne3 Ne6 26.g5 fxg5 27.h5 Kg7 28.hxg6 hxg6 29.Qf3 Nf4
+30.Qg4 Qc6 31.Ngf5+ Kf6 32.Ke1 d5 33.exd5 Nxd5 34.Nxd5+ Qxd5 35.Ng3 Rf8 36.Kd2 Ke7
+37.Qe4 Qc5 38.Raf1 Qd6 39.Qc4 Qf6 40.Kc1 Nd6 41.Rh7+ Kd8 42.Qa4 Qf4+ 43.Kb1 Qxa4
+44.bxa4 Rf4 45.Rh8+ Ke7 46.f3 g4 47.fxg4 Rxg4 48.Ne2 Nf5 49.Nc3 Ke6 50.Ne4 Rg2
+51.Rf8 Ke7 52.Rg8 Kf7 53.Rh8 Kg7 54.Re8 Kf7 55.Rxe5 Bd4 56.Rexf5+ gxf5 57.Rxf5+ Ke6
+58.Rg5 Re2 59.a5 a6 60.c3 Be5 61.Nc5+ Kd6 62.Nxb7+ Kc6 63.Nd8+ Kd7 64.Nf7 Bf6
+65.Rc5 Be7 66.Rh5 Bf6 67.Ng5 Re5 68.Ne4 Bg7 69.Rxe5 Bxe5 70.d4 Bf4 71.Kc2 Kc6
+72.c4 Be3 73.Kd3 Bf4 74.Nc5 Bc1 75.b4 Bf4 76.Nxa6 Kb7 77.Nc5+ Ka7 78.b5 Bg3
+79.Ne6  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.05"]
+[Round "4"]
+[White "Bengtsson, Fr G"]
+[Black "Rask, B."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Nf3 Bg4 6.Qe2 Nxc3 7.bxc3 Be7 8.d4 O-O
+9.Bf4 c5 10.Qe3 Qa5 11.Be2 Nc6 12.O-O cxd4 13.Nxd4 Bxe2 14.Nxe2 Bc5 15.Nd4 Qxc3
+16.Qxc3 Bxd4+ 17.Qxd4 Nxd4 18.Rad1 Ne2+ 19.Kh1 Rfc8 20.Rxd5 Rxc2 21.Rfd1 h6
+22.g3 Rxa2 23.Rd7 b5 24.Rb7 a5 25.e6 Nxf4 26.gxf4 fxe6 27.Rdd7 Kh8 28.Rxg7 Ra1+
+29.Kg2 Rg8 30.Rxg8+ Kxg8 31.Rxb5 a4 32.Rb7 Rc1 33.Ra7 Rc4 34.Kg3 Kf8 35.h4 h5
+36.Kf3 Ke8 37.Ra5 Rc3+ 38.Ke4 a3 39.Rxh5 Rc4+ 40.Ke3 Ra4  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.05"]
+[Round "4"]
+[White "Jacobsen, Egil"]
+[Black "Brodersen, V."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A03"]
+
+1.f4 c5 2.Nf3 d5 3.e3 Nc6 4.b3 Nf6 5.Bb2 Bg4 6.Bd3 e6 7.O-O Be7 8.Nc3 e5
+9.fxe5 Nxe5 10.Be2 Nc6 11.Qe1 Qd7 12.Nh4 O-O 13.Bd3 g6 14.Ne2 Nh5 15.h3 Be6
+16.Nf4 Nxf4 17.exf4 f5 18.Qg3 Bxh4 19.Qxh4 d4 20.Rae1 Bd5 21.g4 fxg4 22.hxg4 Rae8
+23.f5 Rxe1 24.Rxe1 gxf5 25.Qg5+ Kh8 26.Bxf5 Qd6 27.Re3 Ne5 28.Qf4 Nf3+ 29.Rxf3 Qf6
+30.Rh3 Bg8 31.d3 Qe7 32.Re3 Qg7 33.Qe5 Rf6 34.Rh3 Qg5 35.Rh5 Qg7 36.Bc1 Ra6
+37.Qxg7+ Kxg7 38.a4 b5 39.Bd7 bxa4 40.Bxa4 c4 41.dxc4 Bxc4 42.Bb2  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.05"]
+[Round "4"]
+[White "Nissen, H."]
+[Black "Berndtsson Kullberg, Karl"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nc3 Bc5 6.d3 Bg4 7.h3 Bh5 8.Be3 Bd6
+9.Qe2 Qf6 10.g4 Bg6 11.d4 h6 12.dxe5 Bxe5 13.Nxe5 Qxe5 14.f4 Qd6 15.Rd1 Qe7
+16.f5 Bh7 17.Bd4 Nf6 18.e5 Nd5 19.Ne4 O-O-O 20.Qc4 Qh4+ 21.Bf2 Qe7 22.Bd4 Qh4+
+23.Bf2 Qe7 24.Bd4 Rhe8 25.Rd2 g6 26.Rf2 gxf5 27.gxf5 Ne3 28.Bxe3 Qxe5 29.Qxf7 Qxe4
+30.O-O Qxe3 31.Qxh7 Rg8+  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.05"]
+[Round "4"]
+[White "Olson, E."]
+[Black "Nilsson, Oscar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.Be3 O-O 11.Nbd2 Nxd2 12.Qxd2 Qd7 13.Rad1 Rad8 14.Nd4 Nxe5 15.f4 Nc4
+16.Bxc4 dxc4 17.f5 Bd5 18.Qf2 Bf6 19.Ne2 Qc6 20.Nf4 Be4 21.Nh5 Rxd1 22.Rxd1 Bd3
+23.Qg3 Bxf5 24.Nxf6+ Qxf6 25.Qxc7 Bd3 26.Bd4 Qg6 27.Re1 Be4 28.g3 f5 29.Qf4 h6
+30.h3 Qh5 31.Kh2  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.05"]
+[Round "4"]
+[White "Pritzel, ACM."]
+[Black "Malmgren, B."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.Nf3 Nf6 5.d3 c6 6.Bd2 Qc7 7.g3 e5 8.Bg2 Bg4
+9.O-O Bd6 10.Qe1 O-O 11.Ng5 Nbd7 12.Nce4 h6 13.Nxd6 Qxd6 14.Ne4 Nxe4 15.dxe4 Rfe8
+16.Be3 Qe6 17.f3 Bh3 18.Rf2 Bxg2 19.Kxg2 Red8 20.b3 Nf8 21.Rd1 Qe7 22.Rfd2 b6
+23.Rxd8 Rxd8 24.Rxd8 Qxd8 25.Qc3 Qd6 26.a4 Ne6 27.Kf2 c5 28.Ke2 Kf8 29.Qd3 Ke7
+30.Qxd6+ Kxd6 31.Kd3 g5 32.g4 Kc6 33.c3 a6 34.a5 bxa5 35.Kc4 f6 36.Bf2 Nf4
+37.Bxc5 Nd3 38.Be7 Nb2+  0-1
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.06"]
+[Round "3"]
+[White "Giersing, Johannes Hjalmar"]
+[Black "Jacobson, Ernst"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B06"]
+
+1.d4 g6 2.e4 Bg7 3.Be3 d6 4.Bc4 Nc6 5.Nf3 Nf6 6.Qd3 d5 7.exd5 Nxd5 8.Bxd5 Qxd5
+9.c4 Qa5+ 10.Nc3 Bf5 11.Qd2 Nb4 12.O-O Bd3 13.Nd5 Bxf1 14.Rxf1 Nc6 15.Qxa5 Nxa5
+16.Nxc7+ Kd7 17.Nxa8 Rxa8 18.Rc1 b6 19.b4 Nc6 20.b5 Nd8 21.c5 Ne6 22.a4 Nc7
+23.c6+ Ke8 24.Bf4 Nd5 25.Be5 f6 26.Bg3 e6 27.Re1 Kf7 28.Nd2 Bf8 29.Ne4 Bb4
+30.Rc1 Ke7 31.Kf1 h6 32.Rc4 f5 33.Rxb4 Nxb4 34.Bd6+ Kf7 35.Bxb4 fxe4 36.Ke2 a6
+37.Ke3 axb5 38.axb5 Ra4 39.Bc5 Ke8 40.Bxb6 Rb4 41.Kxe4 Rxb5 42.Bc7 Ke7 43.Bg3 Rb6
+44.c7 Kd7 45.Be5 Rb2 46.Kf3 Rc2 47.Kg3 Ke7 48.f3 Kf7 49.Kh4 Ke8 50.g4 Kd7
+51.Kg3 Rd2 52.h3 Rd1 53.Kh4 Rd3 54.f4 Kc8 55.Bg7 Kxc7 56.Bxh6 Rxd4 57.Kg5 Rd3
+58.h4 Rg3 59.Kxg6 Rxg4+ 60.Bg5 Rg1 61.h5 e5 62.fxe5 Kd7 63.h6 Ke6 64.h7 Rh1
+65.Bf6 Rg1+ 66.Kh6  1-0
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.06"]
+[Round "3"]
+[White "Svensson, SO."]
+[Black "Lowenborg, Otto"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O d3 8.e5 d5
+9.exd6 cxd6 10.Re1+ Nge7 11.Ng5 d5 12.Bxd3 g6 13.Qa4 Bc7 14.Ba3 O-O 15.Nxh7 Kxh7
+16.Qh4+ Kg7 17.Bxe7 Nxe7 18.Rxe7 Bxh2+ 19.Kf1 Be5 20.Qg5 Qxe7 21.Qxe7 Bf6
+22.Qa3 Rh8 23.Kg1 Be5 24.g3 Bg4 25.Nd2 Rh3 26.Bf1 Rh5 27.Bg2 Rc8 28.Rc1 Bf6
+29.Nf3 Rhh8 30.Nd4 Rhd8 31.Qxa7 Rd6 32.Nb5 Rd7 33.Nd4 Rc4 34.Qa3 Rdc7 35.Bxd5 R4c5
+36.Bf3 Bxd4 37.Bxg4 Bxc3 38.Bf3 b5 39.Qb3 b4 40.a3 bxa3 41.Qxa3 Kg8 42.Rd1 Bf6
+43.Kg2 Rc2 44.Bb7 Kg7 45.Qa8 Be7 46.Rh1 Bf8 47.Bd5 Rd2 48.Qa1+ f6 49.Qa5 Rdc2
+50.Qa4 g5 51.Be4 R2c4 52.Qe8  1-0
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.06"]
+[Round "3"]
+[White "Marchand, Max"]
+[Black "Krause, Orla Hermann"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Bxc3 7.bxc3 d5 8.Bxc6 bxc6
+9.Nxe5 Qd6 10.Bf4 Re8 11.Qf3 dxe4 12.dxe4 Rxe5 13.Rad1 Bg4 14.Qg3 Nxe4 15.Qxg4 Qe6
+16.Qf3 Rd5 17.Rd4 f5 18.Rfd1 Rxd4 19.Rxd4 Qxa2 20.h4 Qb1+ 21.Kh2 Qxc2 22.Be3 Rf8
+23.Rd7 Nf6 24.Rxc7 Ng4+ 25.Kh3 Qxc3 26.Rxg7+ Kxg7 27.Bh6+ Kxh6 28.Qxc3 Nxf2+
+29.Kh2 Ng4+ 30.Kg3 Rf6 31.Qd2+ Kg7 32.Qd7+ Kg8 33.Qxa7 c5 34.Qxc5 h6  1/2-1/2
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.06"]
+[Round "3"]
+[White "Johner, Paul F"]
+[Black "Nyholm, Gustaf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 e6 3.Bf4 Nf6 4.e3 Be7 5.Bd3 O-O 6.Nbd2 c5 7.c3 b6 8.Ne5 Bb7
+9.Qf3 Nbd7 10.Qh3 Re8 11.Ndf3 Nf8 12.Ng5 Qc8 13.Ngxf7 Ba6 14.Nh6+ gxh6 15.Qg3+ Ng6
+16.Bxg6  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.06"]
+[Round "5"]
+[White "Nilsson, Oscar"]
+[Black "Bengtsson, Fr G"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Be2 O-O 8.O-O d5
+9.exd5 Nxd5 10.Bf3 Nxe3 11.fxe3 Qh6 12.Kh1 Bd6 13.g3 Bxg3 14.Qe2 Bd7 15.Rg1 Bd6
+16.Nd2 Ne5 17.e4 Nd3 18.Raf1 Nf4 19.Qe3 Rae8 20.Nc4 Qh4 21.Nxd6 cxd6 22.Rg3 Ng6
+23.Qf2 Re5 24.Rfg1 f5 25.exf5 Bxf5 26.Qg2 Kh8 27.Nxf5 Rexf5 28.Rh3 Qf6 29.Qxg6 Qxg6
+30.Rxg6 Rxf3 31.Rxf3 Rxf3 32.Rxd6 Rf8 33.Rd7 Rb8 34.Kg2 h6 35.Kg3 Kh7 36.h4 Kg6
+37.h5+ Kf6 38.Kf4 a5 39.Rd6+ Ke7 40.Rb6 Kd7 41.Kf5 Kc7 42.Rb5 b6 43.Kg6 Kc6
+44.Rf5 Rd8 45.Kxg7 Rd2 46.a4 Rxb2 47.Kxh6 Ra2 48.Kg7 Rxa4 49.h6 Rg4+ 50.Kf7 Rh4
+51.Kg6 a4 52.h7 a3 53.Rf7 Kb5 54.Ra7 Rh1 55.Rxa3 Kc4 56.Ra1 Rh3 57.Rb1 Rg3+
+58.Kf7 Rf3+ 59.Kg8 Rg3+ 60.Kf7 Rh3 61.Kg6 Rg3+ 62.Kf5 Rh3 63.Rxb6 Rxh7 64.Rc6+ Kd5
+65.Rc8 Rh4  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.06"]
+[Round "5"]
+[White "Owesson, B."]
+[Black "Nissen, H."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.Re1 Nc5 7.Nxe5 Be7 8.Nc3 O-O
+9.Bxc6 dxc6 10.d4 Nd7 11.Qe2 Bd6 12.Bf4 Re8 13.Rad1 Nf6 14.Bg5 Be6 15.Ne4 Be7
+16.Nc5 Bxc5 17.dxc5 Qe7 18.Nd7 Rad8 19.Nxf6+ gxf6 20.Rxd8 Rxd8 21.Bh6 Qxc5
+22.h3 Kh8 23.Qf3 Qf5 24.Qxf5 Bxf5 25.Re7 Be6 26.Rxc7 Rb8 27.g4 Kg8 28.b3 f5
+29.f3 fxg4 30.hxg4 Bc8 31.Kf2 Be6 32.Kg3 Bc8 33.f4 f5 34.Rg7+ Kh8 35.Rf7 Be6
+36.Re7 Bd5 37.gxf5 Kg8 38.Kg4 b6 39.Kg5 Bf7 40.Kf6 Bh5 41.Rg7+ Kh8 42.Kg5 Bf3
+43.Re7 Rg8+ 44.Kf6 Rb8 45.c4 Bh5 46.Kg5  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.06"]
+[Round "5"]
+[White "Rask, B."]
+[Black "Aalheim, T."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.d4 e6 2.e4 d5 3.Nc3 Nf6 4.exd5 exd5 5.Bg5 Be7 6.Bd3 Nc6 7.Nge2 Nb4 8.O-O Nxd3
+9.Qxd3 c6 10.Rae1 O-O 11.Ng3 Re8 12.Re2 h6 13.Bf4 Bd6 14.Be5 Be6 15.f4 Bg4
+16.Re3 Nh5 17.Nh1 f6 18.Bxd6 Qxd6 19.Rxe8+ Rxe8 20.Qg6 Qe6 21.f5 Qe3+ 22.Nf2 Be2
+23.Nxe2 Qxe2 24.Ng4 Re4 25.h3 Nf4 26.Rxf4 Rxf4 27.Nxf6+ Kf8 28.Nd7+ Kg8 29.f6 Qf1+
+30.Kh2 Rxf6 31.Nxf6+ Qxf6 32.Qxf6 gxf6 33.Kg3 Kf7 34.Kf4 Ke6 35.Kg4 Kf7 36.Kf5 h5
+37.h4 Kg7 38.Ke6 Kg6 39.g3 Kg7 40.a4 Kg6 41.c3  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.06"]
+[Round "5"]
+[White "Berndtsson Kullberg, Karl"]
+[Black "Jacobsen, Egil"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.Bc4 O-O 7.O-O Bc5 8.Be3 Bxd4
+9.Bxd4 Nxd4 10.Qxd4 d6 11.f4 Be6 12.Bd3 Ng4 13.Be2 c5 14.Qd2 Nf6 15.Rad1 Qb6
+16.f5 Bd7 17.Rf3 Bc6 18.Rg3 Nxe4 19.Nxe4 Bxe4 20.Qh6 Qxb2 21.f6  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.06"]
+[Round "5"]
+[White "Malmgren, B."]
+[Black "Olson, E."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D33"]
+
+1.d4 d5 2.Nf3 c5 3.c4 e6 4.cxd5 exd5 5.Nc3 Nf6 6.g3 Nc6 7.Bg2 cxd4 8.Nxd4 Bc5
+9.Be3 Bb4 10.O-O Bxc3 11.bxc3 O-O 12.Bg5 Qe7 13.Nxc6 bxc6 14.Qd4 Ba6 15.Rfe1 h6
+16.Bxf6 Qxf6 17.Qxf6 gxf6 18.e4 Bc4 19.exd5 cxd5 20.Red1 Rfd8 21.Rd4 Rdc8
+22.Bxd5 Bxd5 23.Rxd5 Rxc3 24.Rd7 Rc2 25.Re1 Rb8 26.Ree7 Rbb2 27.Rxf7 Rxf2
+28.Rg7+ Kf8 29.Rdf7+ Ke8 30.Rc7 Kd8 31.Rgd7+ Ke8 32.Rh7 Kd8  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.06"]
+[Round "5"]
+[White "Brodersen, V."]
+[Black "Juhl, J."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A85"]
+
+1.d4 e6 2.c4 f5 3.Nc3 Nf6 4.Bg5 Be7 5.e3 b6 6.Bd3 O-O 7.Nge2 Na6 8.f3 c5
+9.Rc1 Nh5 10.Bxe7 Qxe7 11.O-O f4 12.Qd2 Bb7 13.exf4 cxd4 14.Nb5 Nc5 15.Nbxd4 Nxd3
+16.Qxd3 Qd6 17.g3 g5 18.Qd2 gxf4 19.g4 Ng7 20.Qe1 e5 21.Nb5 Qg6 22.Rd1 Nf5
+23.Qc3 Ne3 24.Rd6 Qg7 25.Rf2 Bxf3 26.Rxf3 Qxg4+ 27.Ng3 fxg3 28.Rxe3 gxh2+
+29.Kxh2 Rf2+  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.06"]
+[Round "5"]
+[White "Brekke, Jac"]
+[Black "Pritzel, ACM."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D04"]
+
+1.d4 d5 2.Nf3 Bg4 3.e3 Nf6 4.Be2 e6 5.O-O Nbd7 6.b3 Bd6 7.Bb2 c5 8.Nbd2 Qc7
+9.c4 cxd4 10.exd4 dxc4 11.bxc4 b6 12.c5 bxc5 13.dxc5 Bxc5 14.Bxf6 Nxf6 15.Qa4+ Ke7
+16.Rfc1 Qd6 17.Nc4 Qd7 18.Qa5 Bxf3 19.Qxc5+  1-0
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.07"]
+[Round "4"]
+[White "Nyholm, Gustaf"]
+[Black "Svensson, SO."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Be7 7.a4 Bb7 8.Qe2 b4
+9.Bd5 Nd4 10.Nxd4 Nxd5 11.Nf5 Nf4 12.Qf3 O-O 13.d3 Ng6 14.g3 Kh8 15.h4 Rg8
+16.c4 Qe8 17.h5 Nf8 18.h6 Ne6 19.hxg7+ Nxg7 20.Nh6 Rf8 21.Kg2 f5 22.Qe2 fxe4
+23.dxe4 Qg6 24.f3 Nh5 25.Ng4 d6 26.Be3 Bxe4 27.fxe4 Rxf1 28.Qxf1 Qxg4 29.Qf3 Qg6
+30.Kh2 Rf8 31.Qg2 Rg8 32.Nd2 Nxg3 33.Qh3 Bg5 34.Re1 Bxe3 35.Rxe3 Qg5 36.Nf1 Nxe4  0-1
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.07"]
+[Round "4"]
+[White "Marchand, Max"]
+[Black "Giersing, Johannes Hjalmar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D30"]
+
+1.d4 d5 2.Nf3 c5 3.c4 e6 4.cxd5 exd5 5.g3 Nc6 6.Bg2 cxd4 7.Nxd4 Bb4+ 8.Nc3 Qa5
+9.Nxc6 bxc6 10.O-O Nf6 11.Bg5 Bxc3 12.bxc3 Ne4 13.Bxe4 dxe4 14.Qd6 Qxg5 15.Qxc6+ Ke7
+16.Qxa8 Re8 17.Qxe4+ Kf8 18.Qxh7 f6 19.Qh4 Qd2 20.Qd4 Qh6 21.e4 Re7 22.Rab1 Bh3
+23.Rb8+ Kf7 24.Re1 Bg4 25.Re3 Rd7 26.Rb7 Qh3 27.Rxd7+ Bxd7 28.Qxa7  1-0
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.07"]
+[Round "4"]
+[White "Krause, Orla Hermann"]
+[Black "Lowenborg, Otto"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B15"]
+
+1.d4 c6 2.e4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Bc4 Bd6 7.Qe2+ Qe7 8.Qxe7+ Kxe7
+9.Ne2 Bf5 10.c3 Re8 11.Bf4 Nd7 12.Kd2 Be6 13.Bb3 Rad8 14.Rhe1 Nc5 15.Bxd6+ Rxd6
+16.Ng3 Kd7 17.Kc2 Nxb3 18.axb3 a6 19.Re3 g6 20.Ne4 Bf5 21.f3 Rde6 22.Kd3 Bxe4+
+23.Rxe4 f5 24.Rxe6 Rxe6 25.Kd2 f4 26.Ra5 Kd6 27.Ra1 Re3 28.Re1 Rxe1 29.Kxe1 c5
+30.dxc5+ Kxc5 31.Kd2 a5 32.Kd3 f5 33.Kd2 g5 34.Kd3 h5 35.h3 h4 36.Kd2 Kd5
+37.Ke2 Kc5 38.Kd2 Kd5 39.Kd3 Kc5 40.Kd2  1/2-1/2
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.07"]
+[Round "4"]
+[White "Jacobson, Ernst"]
+[Black "Johner, Paul F"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C56"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5 7.Bxd5 Qxd5 8.Nc3 Qa5
+9.Nxe4 Be6 10.Neg5 O-O-O 11.Nxe6 fxe6 12.Rxe6 Bd6 13.Bg5 Rdf8 14.Bh4 Qd5
+15.Qe2 Nd8 16.Re4 c5 17.b3 Nc6 18.Rd1 Kd7 19.Re1 Rf4 20.Re8 Rxe8 21.Qxe8+ Kc7
+22.Bg3 Rf6 23.Nd2 Bxg3 24.hxg3 Qf5 25.Qe2 Qxc2 26.Ne4 Qxe2 27.Rxe2 Re6 28.f3 h6
+29.Kf2 b6 30.Rd2 Nb4 31.g4 Nd5 32.Rc2 Ne3 33.Rc1 Nxg4+  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.07"]
+[Round "6"]
+[White "Olson, E."]
+[Black "Brekke, Jac"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd8 4.d4 Nf6 5.Nf3 Bg4 6.Bb5+ c6 7.Be2 e6 8.O-O Bxf3
+9.Bxf3 Bd6 10.Ne2 Qc7 11.g3 Nbd7 12.c4 b6 13.Nc3 O-O 14.Qe2 Rae8 15.Be3 e5
+16.d5 e4 17.Bg2 Nc5 18.Rfd1 Re7 19.h3 Rfe8 20.dxc6 Qxc6 21.Bg5 Be5 22.Nd5 Rb7
+23.Bxf6 Bxf6 24.Nxf6+ Qxf6 25.b4 Nd3 26.Rab1 Rbe7 27.Bf1 g6 28.Qe3 h5 29.Bxd3 exd3
+30.Qxd3 Re2 31.Qd4 Re1+  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.07"]
+[Round "6"]
+[White "Juhl, J."]
+[Black "Berndtsson Kullberg, Karl"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.Re1 Nc5 7.Nxe5 Nxe5 8.Rxe5+ Be7
+9.Nc3 O-O 10.d4 Nxa4 11.Nxa4 d5 12.Nc3 Be6 13.Qd3 Bd6 14.Bg5 Qd7 15.Re2 Bg4
+16.f3 Bf5 17.Qd2 Bg6 18.Rae1 Qf5 19.Be7 Bf4 20.Qd1 Rfe8 21.Ba3 Rxe2 22.Qxe2 h5
+23.g3 Bg5 24.Qe5 c6 25.Qxf5 Bxf5 26.Re5 g6 27.g4 f6 28.Rxd5 cxd5 29.gxf5 Rd8
+30.Be7 Rd7 31.f4 Bxf4 32.Bxf6 gxf5 33.Ne2 Bd6 34.Kg2 Kf7 35.Bg5 Kg6 36.h4 b5
+37.a3 Rc7 38.c3 Rc8 39.Kf3 Re8 40.Bf4 Rxe2 41.Bxd6 Rxb2 42.Kf4 Re2 43.Bb4 Re4+
+44.Kg3 f4+  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.07"]
+[Round "6"]
+[White "Nilsson, Oscar"]
+[Black "Malmgren, B."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h5 7.Nf3 Nf6 8.Bd3 Bxd3
+9.Qxd3 Nbd7 10.Qb3 Nb6 11.Be3 Nfd5 12.O-O-O Nxe3 13.fxe3 Qd5 14.Rhf1 Qxb3
+15.axb3 f6 16.e4 O-O-O 17.c4 e6 18.c5 Nd7 19.b4 Be7 20.Kc2 g5 21.hxg5 fxg5
+22.Nd2 Nf6 23.Kc3 h4 24.Ne2 h3 25.gxh3 Rxh3+ 26.Kc4 Ng4 27.Rh1 Rxd4+ 28.Kxd4 Bf6+
+29.e5 Bxe5+ 30.Kc4 Bh2 31.Nc3 Ne3+ 32.Kb3 Nxd1 33.Rxd1 g4 34.Rf1 g3 35.Rf8+ Kd7
+36.Rg8 Bg1 37.Nde4 Bf2 38.Nxf2 gxf2 39.Rf8 Rh2 40.Ne4 Rh3+ 41.Ka4 b5+ 42.cxb6 axb6
+43.Rxf2  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.07"]
+[Round "6"]
+[White "Pritzel, ACM."]
+[Black "Brodersen, V."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D32"]
+
+1.d4 d5 2.Nf3 c5 3.c4 e6 4.Nc3 Nc6 5.e3 Nf6 6.cxd5 exd5 7.dxc5 Bxc5 8.Be2 O-O
+9.O-O Be6 10.a3 Ne4 11.Qc2 f5 12.Nxe4 fxe4 13.Qxc5 exf3 14.Bxf3 Rxf3 15.gxf3 Bh3
+16.e4 Bxf1 17.Kxf1 dxe4 18.Qc4+ Kh8 19.Qxe4 Qd1+ 20.Kg2 Nd4 21.Qxb7 Rf8 22.Bh6 Qxf3+
+23.Qxf3 Nxf3 24.Be3 a6 25.Rd1 Nh4+ 26.Kh3 Nf5 27.Bc5 Re8 28.b4 Kg8 29.Rd5 g6
+30.Rd7 Re4 31.Ra7 g5 32.f3 Rh4+ 33.Kg2 Rh6 34.a4 Rc6 35.a5 Nh4+ 36.Kf2 Rf6
+37.Ra8+ Kf7 38.Rf8+ Ke6 39.Rxf6+ Kxf6 40.b5 axb5 41.a6  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.07"]
+[Round "6"]
+[White "Bengtsson, Fr G"]
+[Black "Aalheim, T."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 e6 3.dxe6 Bxe6 4.Nf3 Bd6 5.d4 Nd7 6.Bd3 Ne7 7.O-O h6 8.c4 c5
+9.b3 Bg4 10.Bb2 O-O 11.Nbd2 Ng6 12.Qc2 Nh4 13.Ne5 Qg5 14.Ne4 Qh5 15.f3 Bxe5
+16.fxg4 Bxh2+ 17.Kxh2 Nf3+ 18.Kg3 Qh4+ 19.Kxf3 f5 20.gxf5 Rae8 21.Rae1 Rxf5+
+22.Ke2 Nf6 23.Rxf5 Nxe4 24.Re5 Qg4+ 25.Ke3 Qg3+ 26.Kxe4 Qxe1+ 27.Qe2 Qh4+
+28.Ke3 cxd4+ 29.Bxd4 Rf8 30.Be4 Qf4+ 31.Kd3  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.07"]
+[Round "6"]
+[White "Nissen, H."]
+[Black "Rask, B."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6 5.d3 Be7 6.Re1 O-O 7.c3 Nd7 8.Nbd2 Bf6
+9.Nf1 Ne7 10.Ng3 c6 11.Ba4 Nc5 12.Bc2 Ne6 13.Be3 g5 14.Nf5 Nf4 15.Nxe7+ Qxe7
+16.Bxf4 gxf4 17.h3 Kh8 18.Nh2 Rg8 19.Qf3 Rg5 20.Kh1 Bd7 21.Rg1 Rag8 22.Rad1 Qf8
+23.d4 Qg7 24.dxe5 Bxe5 25.Bd3 h5 26.Be2 Qh7 27.Qd3 f5 28.Bf3 R8g7 29.h4 Rg4
+30.Bxg4 hxg4 31.g3 fxe4 32.Qe2 c5 33.Nf1 Bc6 34.Kh2 f3  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.07"]
+[Round "6"]
+[White "Jacobsen, Egil"]
+[Black "Owesson, B."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A03"]
+
+1.f4 d5 2.Nf3 Nc6 3.e3 Bg4 4.b3 e5 5.fxe5 Nxe5 6.Be2 Nxf3+ 7.Bxf3 Be6 8.Bb2 Nf6
+9.Nc3 Qd7 10.Ne2 Be7 11.O-O O-O-O 12.Rc1 Rhg8 13.c4 dxc4 14.bxc4 Qxd2 15.Qb3 Qb4
+16.Nd4 Qxb3 17.axb3 Bc5 18.Nxe6 Bxe3+ 19.Kh1 fxe6 20.Rce1 Rd3 21.b4 Bd4 22.Bxd4 Rxd4
+23.Rxe6 Rxc4 24.Rxf6 gxf6 25.Bd5 Rgg4 26.h3 Rgf4 27.Bxc4 Rxc4 28.Rxf6 h5
+29.g3 Rxb4 30.Rf5 b5 31.Rxh5 a5 32.Re5 a4 33.Kg2 a3 34.Re1 a2 35.Ra1 Rb2+
+36.Kf3 b4 37.h4 b3 38.h5 Rb1  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.08"]
+[Round "7"]
+[White "Brekke, Jac"]
+[Black "Nilsson, Oscar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D05"]
+
+1.d4 d5 2.Nf3 Nf6 3.e3 e6 4.Bd3 Be7 5.O-O O-O 6.b3 Nbd7 7.Nbd2 b6 8.Bb2 Bb7
+9.Ne5 Ne4 10.c4 c5 11.Nxd7 Qxd7 12.dxc5 Nxd2 13.Qxd2 Bxc5 14.Rac1 Rad8 15.Qc2 h6
+16.Rfd1 Qe7 17.cxd5 Bxd5 18.Be4 Bxe4 19.Qxe4 Ba3 20.Rxd8 Rxd8 21.Bxa3 Qxa3
+22.Rc2  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.08"]
+[Round "7"]
+[White "Aalheim, T."]
+[Black "Nissen, H."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C47"]
+
+1.e4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 Bxc3+ 7.bxc3 bxc6
+8.Bd3 O-O 9.O-O Re8 10.Bg5 h6 11.Bh4 g5 12.Bg3 Nxe4 13.Qh5 Kg7 14.Bxe4 Rxe4
+15.f4 f6 16.fxg5 hxg5 17.h4 Qe8 18.Qf3 Qe7 19.hxg5 fxg5 20.Qh5 d5 21.Rae1 Bf5
+22.Rxe4 Bxe4 23.Be5+ Qxe5 24.Qf7+ Kh8 25.Rf6 Bh7 26.Rh6 Qg7 27.Qe6 Qxc3 28.Qd7 Qg7
+29.Qxc6 Rb8 30.Re6 Qd4+  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.08"]
+[Round "7"]
+[White "Berndtsson Kullberg, Karl"]
+[Black "Pritzel, ACM."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 e5 5.Nf3 exd4 6.Bc4 Nf6 7.Nxf6+ Qxf6 8.Bg5 Qd6
+9.O-O Be6 10.Re1 c5 11.Ne5 Be7 12.Bxe6 fxe6 13.Qh5+ g6 14.Nxg6 hxg6 15.Qxh8+ Kd7
+16.Bxe7 Qxe7 17.Re4 a5 18.Rh4 Nc6 19.Qxa8 Qxh4 20.Qxb7+ Kd6 21.Re1 e5 22.Qf7 Qg5
+23.f4 Qxf4 24.Qxg6+ Kd5 25.c4+ dxc3 26.bxc3 c4 27.Rd1+ Nd4 28.cxd4 exd4 29.Qh5+ Ke4
+30.Qe8+ Kd5 31.Qb5+ Ke4 32.Qxc4 Qe3+ 33.Kh1 a4 34.Qe6+ Kf4 35.Rf1+  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.08"]
+[Round "7"]
+[White "Malmgren, B."]
+[Black "Bengtsson, Fr G"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D52"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Nbd7 5.Bg5 c6 6.e3 Qa5 7.a3 Ne4 8.Qc2 Bb4
+9.Rc1 Bxc3+ 10.bxc3 Qxa3 11.Bd3 Ndf6 12.O-O Nxg5 13.Nxg5 h6 14.Nf3 Qd6 15.c5 Qc7
+16.Ne5 Bd7 17.f4 b6 18.cxb6 axb6 19.g4 Ke7 20.g5 Ne8 21.c4 Qa7 22.cxd5 cxd5
+23.f5 Nd6 24.fxe6 Ba4 25.Qf2 Kxe6 26.Bf5+ Ke7 27.Qh4 hxg5 28.Qxg5+ Kf8 29.Ng6+ Ke8
+30.Nxh8  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.08"]
+[Round "7"]
+[White "Owesson, B."]
+[Black "Juhl, J."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2 Qe7 6.d3 Nf6 7.Bg5 Be6 8.Nc3 Nbd7
+9.O-O-O h6 10.Bh4 g5 11.Bg3 Nh5 12.d4 O-O-O 13.Qd2 Nxg3 14.hxg3 g4 15.Nh4 d5
+16.Bd3 Qb4 17.Bf5 Be7 18.Qd3 Nb6 19.Bxe6+ fxe6 20.Qb5 Qxb5 21.Nxb5 a6 22.Nc3 Bg5+
+23.Kb1 Rhf8 24.f4 gxf3 25.Nxf3 Nc4 26.Rd3 Rf6 27.b3 Nd6 28.Re1 Rdf8 29.Kb2 b5
+30.a3 Nf5 31.Nd1 Rg8 32.g4 Nh4 33.Nxg5 hxg5 34.Rde3 Kd7 35.R1e2 Rgf8 36.Nc3 Ng6
+37.g3 Rh8 38.Na2 a5 39.Nc1 c5 40.dxc5 e5 41.Rd2 Kc6 42.Red3 Rd8 43.b4 e4
+44.Rd4 Ne5 45.Rd1 Nc4+ 46.Kb1 Nxa3+ 47.Ka2 Nxc2 48.Rxe4 Nxb4+ 49.Kb1 Kxc5
+50.Nb3+ Kb6 51.Re5 a4 52.Nd4 Nc6 53.Rxg5 Nxd4 54.Rxd4 Kc5 55.Rd2 b4 56.Rg7 Rf1+
+57.Kb2 Rdf8 58.Rc7+ Kd6 59.Rb7 R8f2 60.Rxf2 Rxf2+ 61.Kb1 Kc5 62.Rc7+ Kd4
+63.g5 Rg2 64.g6 Rxg3 65.g7 Rg2 66.Rf7 a3 67.Rf4+ Kc3 68.Rf3+ Kc4 69.Rf4+ d4
+70.Rf7 d3 71.Rd7 b3 72.Rc7+ Kd4 73.Rd7+ Kc3 74.Rc7+ Kd2  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.08"]
+[Round "7"]
+[White "Rask, B."]
+[Black "Jacobsen, Egil"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.Qe2 O-O 11.Bc2 Nc5 12.Nd4 Qd7 13.f4 f5 14.g4 Nxd4 15.cxd4 Ne4
+16.gxf5 Bxf5 17.Nc3 c5 18.Be3 Rac8 19.Bxe4 dxe4 20.d5 b4 21.d6 Bh4 22.Nxe4 c4
+23.Ng3 Bd3 24.Qg2 Bxf1 25.Qd5+ Kh8 26.Rxf1 Qh3 27.Rf3 c3 28.bxc3 Rxc3 29.e6 Rc2
+30.Rf2 Bxg3 31.Rxc2 Bxh2+ 32.Rxh2 Qxe3+ 33.Rf2 Qh3 34.e7 Rc8 35.Qd2 Qd7 36.Rg2 a5
+37.f5  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.08"]
+[Round "7"]
+[White "Brodersen, V."]
+[Black "Olson, E."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D33"]
+
+1.d4 d5 2.Nf3 c5 3.c4 e6 4.Nc3 Nf6 5.cxd5 exd5 6.g3 Nc6 7.Bg2 cxd4 8.Nxd4 Bc5
+9.Be3 Qb6 10.Nxc6 Bxe3 11.fxe3 bxc6 12.Qd4 O-O 13.b4 Ng4 14.Nd1 Re8 15.Qxb6 axb6
+16.Kd2 Ra3 17.b5 Nxe3 18.Nxe3 Raxe3 19.Rhe1 Bg4 20.Bf1 c5 21.a4 R3e7 22.h3 Bf5
+23.Bg2 Be4 24.Bf3 Ra7 25.Ra3 Kf8 26.Bxe4 Rxe4 27.Rea1 Ra5 28.e3 Ke7 29.Kd3 f6
+30.Kd2 Kd6 31.Kd3 Ke5 32.Kd2 Rc4 33.Kd3 Rb4 34.R1a2 h5 35.Ra1 f5 36.R1a2 h4
+37.gxh4 Rxh4 38.Rg2 Kf6 39.Ra1 Raxa4 40.Rag1 Ra3+ 41.Ke2 Ra2+  0-1
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.10"]
+[Round "5"]
+[White "Johner, Paul F"]
+[Black "Marchand, Max"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.d4 e6 2.e4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.O-O O-O 7.Bg5 Bg4 8.Nbd2 Nbd7
+9.c4 h6 10.Bh4 c6 11.c5 Bf4 12.Qc2 Re8 13.h3 Be6 14.Rfe1 Qc7 15.Nf1 g5 16.Bg3 Nh5
+17.Bh2 Bxh2+ 18.N3xh2 Nf8 19.Ng4 Kg7 20.g3 Re7 21.Nfe3 Rae8 22.Bf5 Ng6 23.b4 Nf6
+24.Bxe6 fxe6 25.Nxf6 Kxf6 26.Ng4+ Kg7 27.Ne5 Nxe5 28.Rxe5 Rf8 29.Rae1 Rf6
+30.a4 Qd7 31.Qe2 Qe8 32.Qg4 Qg6 33.Kg2 Ref7 34.R1e2 Rf5 35.Rxf5 exf5 36.Qf3 Qf6
+37.Re5 f4 38.gxf4 Qxf4 39.Qxf4 Rxf4 40.Re7+ Rf7  1/2-1/2
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.10"]
+[Round "5"]
+[White "Lowenborg, Otto"]
+[Black "Nyholm, Gustaf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 d6 3.e3 Nbd7 4.Bd3 e5 5.Nbd2 g6 6.O-O Bg7 7.c3 Qe7 8.e4 O-O
+9.Re1 c5 10.Nf1 Nh5 11.Bg5 f6 12.Bd2 Nb6 13.a4 Be6 14.d5 Bf7 15.a5 Nd7 16.Qc1 g5
+17.Ng3 Nxg3 18.hxg3 Bg6 19.g4 Rfc8 20.c4 Nf8 21.Nh2 h5 22.gxh5 Bxh5 23.g4 Be8
+24.Nf1 Ng6 25.Ng3 Bd7 26.f3 Kf7 27.Kf2 Rh8 28.Rh1 Rxh1 29.Qxh1 Nf4 30.Bxf4 Rh8
+31.Qxh8 Bxh8 32.Bd2 Qd8 33.b4 cxb4 34.Bxb4 Qc7 35.Rc1 b6 36.a6 Bg7 37.Rc2 Bf8
+38.Nf5 Bxf5 39.exf5 Be7 40.Kg2 Qc8 41.Ra2 Bd8 42.Bxd6 Be7 43.c5 bxc5 44.Bxe7 Kxe7
+45.Rb2 c4 46.Rc2 cxd3 47.Rxc8 d2 48.Ra8 d1=Q 49.Rxa7+ Kd6 50.Rf7 e4 51.fxe4 Ke5
+52.a7 Qa1 53.Kf3 Qa3+ 54.Ke2 Kd4 55.d6 Qe3+ 56.Kf1 Qf3+ 57.Kg1 Qg3+ 58.Kh1 Qh4+
+59.Kg1 Qxg4+ 60.Kf2 Qh4+ 61.Kg1 Qe1+ 62.Kh2 Qh4+ 63.Kg1 Qe1+ 64.Kh2 Qa5 65.Kg3 Qe1+
+66.Kh2 Ke3 67.a8=Q Qd2+ 68.Kg1 Qc1+ 69.Kg2 Qb2+ 70.Kg1 Kf3 71.e5+ Kg3  0-1
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.10"]
+[Round "5"]
+[White "Svensson, SO."]
+[Black "Jacobson, Ernst"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Nc3 d6 6.Bg5 Be6 7.Nd5 Bxd5 8.Bxd5 h6
+9.Bh4 g5 10.Bxc6+ bxc6 11.Bg3 Qe7 12.Qe2 Rb8 13.c3 O-O 14.h4 g4 15.Nh2 h5
+16.f3 Qe6 17.b3 Kh7 18.fxg4 hxg4 19.h5 Rg8 20.Nf1 Rg5 21.Ne3 Bxe3 22.Qxe3 Rxh5
+23.O-O-O c5 24.Qg5 Rg8 25.Rxh5+ Nxh5 26.Qxh5+ Kg7 27.Bh4 Kf8 28.Rf1 Rg6 29.g3 Ke8
+30.Qh8+ Kd7 31.Qf8 f6 32.Bxf6 Rg8 33.Qh6 Qf7 34.Rf5 Rg6 35.Qh5  1-0
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.10"]
+[Round "5"]
+[White "Giersing, Johannes Hjalmar"]
+[Black "Krause, Orla Hermann"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Bxc3 7.bxc3 d5 8.exd5 Nxd5
+9.Bxc6 bxc6 10.Nxe5 Qf6 11.Qe1 Re8 12.f4 g5 13.g3 Bh3 14.Rf3 Qf5 15.c4 f6
+16.cxd5 Rxe5 17.Qf2 Ree8 18.Bb2 Bg4 19.Re3 gxf4 20.gxf4 cxd5 21.Rae1 Rxe3
+22.Qxe3 Kg7 23.Ba3 Kh6 24.Qg3 Rg8 25.Re7 Qh5 26.f5 Qxf5 27.Bc1+ Kh5 28.h3 Qf3
+29.Rxh7+ Kg6 30.Qxf3 Bxf3 31.Rxc7 Rg7 32.Rxg7+ Kxg7 33.Kf2 Bh1 34.Ke3 Kg6
+35.Bd2 Kf5 36.Kd4 Bf3 37.Kc5 Ke5 38.c4 dxc4 39.dxc4 f5 40.a4 Be2 41.a5 Ke6
+42.Kb5 Kd7 43.Bf4 a6+ 44.Kxa6 Kc6 45.Ka7 Bxc4 46.h4 Be2 47.Bd2 Kb5 48.a6 Bd1  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.10"]
+[Round "8"]
+[White "Nilsson, Oscar"]
+[Black "Brodersen, V."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B73"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 g6 7.Be3 Bg7 8.O-O O-O
+9.Qd2 Ng4 10.Bxg4 Bxg4 11.h3 Bd7 12.f4 Qa5 13.b4 Qxb4 14.Rab1 Qc4 15.Nce2 Nxd4
+16.Nxd4 b6 17.f5 Rac8 18.Rf2 Qc3 19.Rd1 Qxd2 20.Rdxd2 Rc4 21.g4 g5 22.Ne2 h6
+23.Ng3 Be5 24.Nh5 f6 25.Rd3 Rxe4 26.Ra3 Ra4 27.Rxa4 Bxa4 28.h4 Rc8 29.hxg5 hxg5
+30.Kg2 Rc4 31.Rd2 Rxg4+ 32.Kf3 Rh4 33.Ng3 Bc6+ 34.Kf2 Rh2+ 35.Kg1 Rxd2 36.Bxd2 Bxg3  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.10"]
+[Round "8"]
+[White "Malmgren, B."]
+[Black "Brekke, Jac"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D34"]
+
+1.Nf3 d5 2.d4 c5 3.c4 e6 4.cxd5 exd5 5.Nc3 Nf6 6.Bg5 Be6 7.g3 Nc6 8.Bg2 Be7
+9.O-O O-O 10.dxc5 Bxc5 11.Rc1 Be7 12.Nd4 Nxd4 13.Qxd4 h6 14.Bf4 Qa5 15.a3 Rac8
+16.Rfd1 Rc4 17.Qd2 Rfc8 18.Nxd5 Rxc1 19.Nxe7+ Kf8 20.Rxc1 Qxd2 21.Bxd2 Kxe7
+22.Bxb7 Rxc1+ 23.Bxc1 Bc4 24.e4 Be2 25.Be3 a6 26.Bd4 Ne8 27.f4 g6 28.Kf2 Bc4
+29.Be5 f6 30.Bb8 Kd7 31.e5 fxe5 32.Bxe5 g5 33.Ke3 gxf4+ 34.gxf4 Bf1 35.b4 Ke6
+36.Kd4 Nd6 37.Bd5+ Kd7 38.Bxd6 Kxd6 39.f5 Bh3 40.f6 Bc8 41.f7  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.10"]
+[Round "8"]
+[White "Juhl, J."]
+[Black "Rask, B."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B09"]
+
+1.f4 Nf6 2.Nf3 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 Nbd7 7.O-O c6 8.e5 Ne8
+9.Bd3 c5 10.e6 fxe6 11.d5 exd5 12.f5 gxf5 13.Ng5 Nb6 14.Qf3 h6 15.Nh3 e5
+16.Qg3 Qf6 17.a4 Be6 18.a5 Nd7 19.Bb5 Nc7 20.Ra4 d4 21.Ne4 Qe7 22.Nxd6 Qxd6
+23.Bxh6 Qe7 24.Ng5 f4 25.Qh4 Bf6 26.Bd3 Bxg5 27.Bxg5 Qf7 28.c3 c4 29.Be4 Nc5
+30.Bf6 Qh5 31.Qxh5 Rxf6 32.Qxe5 Nxe4 33.Rxf4 Raf8 34.Rxf6 Rxf6 35.Qxe4  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.10"]
+[Round "8"]
+[White "Jacobsen, Egil"]
+[Black "Aalheim, T."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Bb4 4.Bc4 d6 5.O-O Bg4 6.d3 Nbd7 7.Bg5 h6 8.Be3 g5
+9.Ne2 Bxf3 10.gxf3 Nh5 11.Ng3 Nf4 12.c3 Ba5 13.d4 Qf6 14.Nf5 h5 15.Kh1 Bb6
+16.Rg1 O-O-O 17.a4 a5 18.b4 Rh7 19.bxa5 Bxa5 20.Qb3 Nb6 21.Rab1 d5 22.Bf1 dxe4
+23.fxe4 exd4 24.Bxf4 gxf4 25.Qb5 Qe6 26.f3 Qa2 27.Qxa5 Qxb1 28.Nxd4 Qb2 29.Bh3+  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.10"]
+[Round "8"]
+[White "Bengtsson, Fr G"]
+[Black "Nissen, H."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C28"]
+
+1.e4 e5 2.Nc3 Nf6 3.Bc4 Bb4 4.d3 Nc6 5.Bg5 d6 6.Ne2 Be6 7.O-O Bxc3 8.Nxc3 Na5
+9.Qe2 Nxc4 10.dxc4 c6 11.Rad1 Qc7 12.Rd2 O-O-O 13.Kh1 h6 14.Be3 g5 15.Rfd1 Kb8
+16.f3 Nh5 17.b4 Nf4 18.Qf2 b6 19.c5 dxc5 20.bxc5 Rxd2 21.Qxd2 b5 22.g3 Ng6
+23.a4 a6 24.axb5 axb5 25.Rb1 Bc4 26.Na4 Rd8 27.Qb4 Be2 28.Kg2 Rd1 29.Nb6 Rxb1
+30.Qxb1 g4 31.fxg4 Bxg4 32.c4 Qd8 33.Bf2 Qd2 34.cxb5 Qe2 35.bxc6 Qf3+ 36.Kg1 Qd1+
+37.Qxd1 Bxd1 38.Nd5 Bc2 39.Nf6 Kc7 40.Kg2 Kxc6 41.Kf3 Nf8 42.Kg4 Ne6 43.Kf5 Nxc5
+44.Bxc5 Kxc5 45.Kxe5 Kc6 46.h4 Kc7 47.h5 Kd8 48.g4 Bd1 49.Kd6 Bf3 50.g5 hxg5
+51.h6  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.10"]
+[Round "8"]
+[White "Olson, E."]
+[Black "Berndtsson Kullberg, Karl"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.c4 Nb4 5.a3 N4c6 6.Nf3 Bg4 7.Be2 Bxf3 8.Bxf3 Qxd4
+9.Qxd4 Nxd4 10.Bxb7 Nc2+ 11.Kd1 Nxa1 12.Nd2 g6 13.Bxa8 c6 14.Re1 Bh6 15.b4 O-O
+16.Rxe7 Rd8 17.Ke2 Nc2 18.Nb3 Bxc1 19.Nxc1 Nxa3 20.Rxa7 Nxc4 21.Rc7 Rd2+
+22.Ke1 Nd7 23.Bxc6 Nde5 24.Be4 Rd4 25.Bc2 Na3 26.Na2 Nxc2+ 27.Rxc2 Nd3+ 28.Ke2 Nxb4
+29.Rc8+ Kg7 30.Ke3 Rh4 31.Nxb4 Rxb4  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.10"]
+[Round "8"]
+[White "Pritzel, ACM."]
+[Black "Owesson, B."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nc3 Bd6 6.d4 Bg4 7.dxe5 Bxf3 8.Qxf3 Bxe5
+9.Bf4 Qe7 10.O-O-O Nf6 11.Bxe5 Qxe5 12.Qg3 Qxg3 13.hxg3 Ng4 14.Rd2 Ke7 15.Rhd1 Rad8
+16.Rxd8 Rxd8 17.Rxd8 Kxd8 18.Nd1 Ke7 19.Kd2 Ke6 20.f3 Ne5 21.Ne3 g6 22.Kc3 Nd7
+23.Nc4 b6 24.Ne3 Nc5 25.Kd4 Nb7 26.Nc4 Nd6 27.Kd3 f5 28.Ne3 fxe4+ 29.fxe4 h5
+30.Nc4 Nb7 31.Ke3 b5 32.Nd2 Kf6 33.Nf3 Nc5 34.b3 Nd7 35.Kf4 c5 36.g4 hxg4
+37.Kxg4 Nf8 38.e5+ Ke7 39.Kg5 Ne6+ 40.Kh6 a5 41.g4 Nd4 42.Nxd4 cxd4 43.Kxg6 c5
+44.Kf5 c4 45.Ke4 d3 46.cxd3 cxb3 47.axb3 a4 48.bxa4 bxa4 49.Kd4 Ke6 50.Kc3 Kxe5
+51.Kb4 Kf4 52.Kxa4 Kxg4 53.Kb5  1-0
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.11"]
+[Round "6"]
+[White "Marchand, Max"]
+[Black "Svensson, SO."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 d6 5.d4 Bd7 6.O-O Be7 7.Bg5 h6 8.Bh4 a6
+9.Bxc6 Bxc6 10.dxe5 Nxe4 11.Bxe7 Qxe7 12.Nd5 Bxd5 13.Qxd5 Nc5 14.b4 c6 15.Qxd6 Ne6
+16.Rfd1 Rd8 17.Qxe7+ Kxe7 18.Kf1 g6 19.g3 Ng5 20.Nd2 Rd4 21.c3 Rd3 22.Rac1 Rhd8
+23.Ke2 Ne6 24.Ne4 Rxd1 25.Rxd1 Rxd1 26.Kxd1 Nc7 27.Kd2 b6 28.Kd3 Ke6 29.f4 Nd5
+30.a3 Ne7 31.c4 Nc8 32.g4 Ne7 33.Nf6 c5 34.bxc5 bxc5 35.Ne4  1-0
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.11"]
+[Round "6"]
+[White "Giersing, Johannes Hjalmar"]
+[Black "Johner, Paul F"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D34"]
+
+1.d4 d5 2.Nf3 e6 3.c4 Nf6 4.Nc3 c5 5.cxd5 exd5 6.g3 Nc6 7.Bg2 Be6 8.O-O Be7
+9.Bg5 Ne4 10.Bxe7 Qxe7 11.Rc1 Rd8 12.e3 Nxc3 13.bxc3 O-O 14.Qe2 Bg4 15.Qb5 c4
+16.e4 a6 17.Qb6 dxe4 18.Rce1 Rd5 19.Qb1 Bxf3 20.Bxf3 f5 21.Be2 b5 22.f3 e3
+23.f4 Nxd4 24.cxd4 Rxd4 25.a4 Qc5 26.axb5 axb5 27.Rf3 Rd2 28.Kf1 Re8 29.Rc1 Qd5
+30.Qb4 h6 31.Ke1 Rxe2+ 32.Kxe2 Qd3+ 33.Ke1 Rd8 34.Ra1 Kh7 35.Qb2 b4 36.Qe5 c3
+37.Qxe3 Re8 38.Qxe8 Qxf3 39.Qe2 Qh1+ 40.Qf1 Qxf1+ 41.Kxf1 b3  0-1
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.11"]
+[Round "6"]
+[White "Jacobson, Ernst"]
+[Black "Lowenborg, Otto"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4+ 7.Nc3 Nxe4 8.O-O Bxc3
+9.d5 Ne5 10.Qe2 Nxf3+ 11.gxf3 Bf6 12.fxe4 d6 13.Be3 Bh3 14.Rfe1 Qc8 15.f3 Bh4
+16.Bf2 Bxf2+ 17.Qxf2 O-O 18.Qg3 Re8 19.Kh1 Bd7 20.f4 Qd8 21.e5 Bf5 22.Re3 c6
+23.Rd1 dxe5 24.fxe5 cxd5 25.Bxd5 Be6 26.Red3 Qa5 27.Qf3 g6 28.Bxe6 Rxe6 29.Rd7 Rf8
+30.Rxb7 Rxe5 31.a3 Rf5 32.Qe3 Qa4 33.Rbd7 Qb5 34.R7d2 a5 35.Qe2 Qc6+ 36.Qg2 Qf6
+37.Rd6 Qe7 38.Rd7 Qh4 39.R7d4 Qe7 40.Rd7 Qe6 41.R7d6 Qc8 42.R6d5 Re8 43.Rxf5 Qxf5
+44.Rf1 Qb5 45.Qf3 Re7 46.Rf2 Re1+ 47.Kg2 Qg5+ 48.Qg3 Qc1 49.Qd3 Rd1 50.Qe4 Qg5+
+51.Kf3 f5 52.Qe8+ Kg7 53.Qe5+ Kh6 54.Qe3 a4 55.Qxg5+ Kxg5 56.Re2 Rd3+ 57.Kf2 h5
+58.Rc2 h4 59.Re2 f4 60.Rc2 Kg4 61.Kg2 g5 62.Kf2 Rd1 63.h3+ Kxh3 64.b4 g4  0-1
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.11"]
+[Round "6"]
+[White "Krause, Orla Hermann"]
+[Black "Nyholm, Gustaf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A53"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Nbd7 4.Bg5 c6 5.Nf3 Qa5 6.Qc2 g6 7.e3 Bg7 8.Bd3 O-O
+9.h4 e5 10.O-O-O b5 11.h5 bxc4 12.Bxc4 e4 13.hxg6 d5 14.Ne5 Nxe5 15.dxe5 Ng4
+16.Rxd5 cxd5 17.Nxd5 h6 18.Qxe4 Bxe5 19.gxf7+ Kg7 20.Bxh6+ Kxf7 21.Qh7+ Ke6
+22.Qe7+ Kf5 23.Bd3+  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.11"]
+[Round "9"]
+[White "Aalheim, T."]
+[Black "Juhl, J."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.c4 Nb6 5.Nc3 Nc6 6.Be3 e6 7.Nf3 Nd7 8.Bd3 b6
+9.O-O Bb7 10.Rc1 Bd6 11.Ne4 Nb4 12.Bb1 Be7 13.a3 Na6 14.b4 c6 15.h3 Rc8 16.Bf4 c5
+17.b5 Nc7 18.Ne5 cxd4 19.Qh5 g6 20.Qd1 Nf6 21.Ng5 O-O 22.Ng4 Nh5 23.Bxc7 Rxc7
+24.Nf3 Bxa3 25.Rc2 Bc5 26.Rd2 Bxf3 27.Qxf3 Qg5 28.Rdd1 Ng7 29.Rfe1 Nf5 30.Bxf5 gxf5
+31.Nh2 Bb4 32.Re2 Rxc4 33.Ra2 Rc3 34.Qb7 Rc1 35.Ra1 Rxa1 36.Rxa1 e5 37.Nf3 Qf6
+38.Qd5 e4 39.Nxd4 Rd8 40.Qxf5 Qxd4 41.Rxa7 Qd5 42.Qf6 Qd1+  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.11"]
+[Round "9"]
+[White "Berndtsson Kullberg, Karl"]
+[Black "Nilsson, Oscar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Nf6 5.Bg5 Be7 6.Ne2 O-O 7.O-O Nbd7 8.Nbc3 b6
+9.Ng3 c5 10.Nf5 cxd4 11.Nxe7+ Qxe7 12.Nxd5 Qd6 13.Nxf6+ Nxf6 14.Qf3 Qd5 15.Qxd5 Nxd5
+16.Be4 Be6 17.Rfd1 h6 18.Rxd4 hxg5 19.Bxd5 Rfd8 20.Rad1 Bxd5 21.Rxd5 Rxd5
+22.Rxd5 f6 23.Rd7 a6 24.c3 Re8 25.Kf1 Re5 26.a4 Re6 27.Ra7 a5 28.f3 Kh7 29.Rb7 Kg6
+30.Kf2 f5 31.g3 Kf6 32.Rd7 Kg6 33.Rd5 Kf6 34.Rd2 g6 35.Re2 Rc6 36.Ke3 Rc4
+37.Rd2 f4+ 38.Kf2 Ke5 39.Rd8 Rc6 40.Rd4 Rf6 41.Ke2 Rf8 42.Rd2 Rh8 43.Kd3 Kd5
+44.gxf4 gxf4 45.Rg2 Rh6 46.b4 axb4 47.cxb4 Ke5 48.Rg5+ Kf6 49.Rg2 Kf5 50.Kc4 g5
+51.Kb5 Rd6 52.h3 Rh6 53.Rf2 Rd6 54.a5 bxa5 55.Kxa5 Rh6 56.Rh2 Ke5 57.b5 Kd4
+58.b6 Ke3 59.b7 Rh8 60.Rc2 Rb8 61.Rc3+ Kf2 62.Kb6 Kg3 63.Rc8 Rxb7+ 64.Kxb7 Kxf3
+65.Kc6 Kg2 66.Kd5 f3 67.Ke4 f2  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.11"]
+[Round "9"]
+[White "Brekke, Jac"]
+[Black "Bengtsson, Fr G"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D04"]
+
+1.d4 d5 2.Nf3 Nf6 3.e3 c5 4.b3 Nc6 5.Bb2 Bg4 6.Be2 e6 7.Nbd2 Bd6 8.O-O cxd4
+9.exd4 O-O 10.Ne5 Bxe2 11.Qxe2 Rc8 12.c4 Bb8 13.f4 dxc4 14.Nxc6 Rxc6 15.bxc4 Re8
+16.Kh1 Qa5 17.c5 Qd8 18.Nc4 Nd5 19.Ne5 Bxe5 20.fxe5 Qd7 21.Rf3 Ra6 22.a3 Ne7
+23.Raf1 Rf8 24.Rh3 Qd5 25.Qh5 Qe4 26.Rhf3 Ng6 27.Qg5 Ra4 28.Qd2 Rc4 29.Rd3 Qd5
+30.Rd1 Rd8 31.h3 Rf8 32.Rf1 b6 33.Bc3 Rc8 34.Kh2 bxc5 35.dxc5 Qxc5 36.Rd8+ Rxd8
+37.Qxd8+ Qf8 38.Qd3 Qc8 39.Bd4 a6 40.Rf2 h6 41.g3 Qc6 42.Bb2 Qe4 43.Qb3 Qc6
+44.Rd2 Re4 45.Bc3 Kh7 46.Qb2 Ne7 47.Qb1 Nf5 48.Rf2 Nxg3 49.Kxg3 Qxc3+ 50.Kg2 Qxe5
+51.Rxf7 Kg8 52.Rb7 Re2+ 53.Kf1 Qh2 54.Rb8+ Kf7 55.Qb7+ Kg6 56.Rf8 Qe5 57.Qf7+ Kg5
+58.Qe7+ Kh5 59.Qf7+ Kh4 60.Qf4+ Qxf4+ 61.Rxf4+ Kg3 62.Ra4 Re5 63.Rxa6 Kxh3
+64.Ra7 g5 65.Rh7 Rf5+ 66.Kg1 Rf6 67.a4 g4 68.a5 g3 69.Rb7 Rf5 70.Rh7 h5  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.11"]
+[Round "9"]
+[White "Brodersen, V."]
+[Black "Malmgren, B."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D55"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Bg5 Be7 5.Nc3 Nbd7 6.e3 O-O 7.Qc2 b6 8.cxd5 exd5
+9.Bd3 Bb7 10.O-O c5 11.Ne5 h6 12.Bxf6 Bxf6 13.f4 Qe7 14.Qe2 Bxe5 15.fxe5 f6
+16.exf6 Rxf6 17.Rxf6 Nxf6 18.Rf1 Re8 19.Re1 cxd4 20.exd4 Qb4 21.Bh7+ Kh8
+22.Be4 Qxd4+ 23.Kh1 Nxe4  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.11"]
+[Round "9"]
+[White "Nissen, H."]
+[Black "Jacobsen, Egil"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bg5 b6 7.Bd3 Bb7 8.O-O h6
+9.Bxf6 gxf6 10.Qe2 Qe7 11.Rfe1 f5 12.Nc3 Rg8 13.Ba6 Bc6 14.d5 exd5 15.Qd2 d4
+16.Rxe7+ Bxe7 17.Qe2 dxc3 18.Re1 Be4 19.Bb7 Ne5 20.Bxe4 fxe4 21.Nxe5 f5 22.Qh5+ Kd8
+23.Qxf5  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.11"]
+[Round "9"]
+[White "Owesson, B."]
+[Black "Olson, E."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.Nc3 Nf6 4.d4 Nbd7 5.Bc4 Be7 6.O-O c6 7.a4 O-O 8.Bg5 Qc7
+9.Qe2 Re8 10.d5 Nf8 11.Rad1 Ng6 12.h3 h6 13.Bc1 a6 14.dxc6 bxc6 15.Kh1 Bf8
+16.Ng1 Qe7 17.f4 exf4 18.Bxf4 Nxf4 19.Rxf4 a5 20.Rdf1 Ra7 21.Qf3 Qe5 22.Nge2 Rae7
+23.Ng3 Be6 24.Bd3 Rb7 25.Nd1 Nh7 26.Qf2 g6 27.b3 Bg7 28.Ne2 Qh5 29.Rh4 Qe5
+30.Rf4 Qh5 31.Rf3 Qg5 32.Nd4 Qc5 33.Nxe6 Qxf2 34.R3xf2 Rxe6 35.Bc4 Rf6 36.Rxf6 Nxf6
+37.Bd3 Re7 38.Nf2 Nh5 39.Rd1 Bd4 40.Ng4 Ng3+ 41.Kh2 Nxe4 42.Bxe4 Rxe4 43.c3 h5
+44.cxd4 hxg4 45.hxg4 Rxg4 46.Rc1 Kf8 47.Rxc6 Ke7 48.Rc7+ Kf6 49.Ra7 Rxd4
+50.Rxa5 Rb4 51.Rd5 Rxb3 52.Rxd6+ Ke5 53.Rd8 Ra3 54.Ra8 Kf4 55.Ra6 Kg5 56.Ra5+ f5
+57.Rb5 Kg4 58.a5 g5 59.Rb2 f4 60.a6 Rxa6 61.Rb3 Re6 62.Rb4 Re2 63.Rb3 Re4
+64.Rc3 Re3 65.Rc4 Re2 66.Rc3 Re1 67.Rc8 Rf1 68.Rc4 Kh4 69.Ra4 Rf2 70.Rb4 g4
+71.Rxf4  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.11"]
+[Round "9"]
+[White "Rask, B."]
+[Black "Pritzel, ACM."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D38"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Bb4 5.e3 Ne4 6.Qc2 c6 7.Bd3 f5 8.O-O Bxc3
+9.bxc3 O-O 10.Rb1 Nd7 11.cxd5 exd5 12.c4 Ndf6 13.Ne5 Be6 14.Rxb7 Qc8 15.Re7 Re8
+16.Rxe8+ Nxe8 17.Ba3 N4d6 18.Rc1 Nf7 19.cxd5 Nxe5 20.dxe5 cxd5 21.Qa4 Qd7
+22.Bb5 Qf7 23.Bc6 Rd8 24.Rb1 Bd7 25.Bxd7 Rxd7 26.Rb8 Qe6 27.Qb4 Rf7 28.Qb5 Rd7
+29.Qc5 Rf7 30.Qxd5 Re7 31.Qa8 Qxe5 32.h3 Re6 33.Bb2 Qe4 34.Qxa7 Rg6 35.f3 Qe6
+36.Rb7 f4 37.Re7 Rxg2+ 38.Kxg2 Qg6+ 39.Kf2 Qc2+ 40.Ke1 Qb1+ 41.Kd2 Qxb2+
+42.Kd3 Qb1+ 43.Kc4 Qc2+ 44.Kd5 Qd2+ 45.Qd4 Qxa2+ 46.Ke5 Qa5+ 47.Kxf4 Nf6
+48.Qc4+ Nd5+ 49.Ke4 Kf8 50.Rf7+ Kxf7 51.Qxd5+ Qxd5+ 52.Kxd5 Ke7 53.Kc6 Ke6
+54.Kc7 g5 55.Kc6 Ke5 56.Kd7 h5 57.Ke7 Kf5 58.Kd6  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.12"]
+[Round "10"]
+[White "Brekke, Jac"]
+[Black "Brodersen, V."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 c5 3.e3 Nc6 4.b3 g6 5.Bb2 Bg7 6.Be2 e6 7.O-O Nge7 8.Nbd2 b6
+9.Rc1 Bb7 10.c3 f5 11.c4 O-O 12.Ne5 Nxe5 13.dxe5 Nc6 14.f4 d4 15.exd4 Nxd4
+16.Bf3 Rf7 17.Bxb7 Rxb7 18.Nf3 Rd7 19.Nxd4 cxd4 20.Qd3 g5 21.g3 Bf8 22.Rcd1 g4
+23.Rf2 Bc5 24.a3 a5 25.Rfd2 Qe7 26.Kf1 Bxa3 27.Bxd4 Bb4 28.Rc2 Rad8 29.Qe3 Kf7
+30.Rd3 Rxd4 31.Rxd4 Bc5 32.Rcd2 Bxd4 33.Rxd4 Qc5 34.Rd3 Qxe3 35.Rxe3 Rd2
+36.Re2 Rd3 37.Rb2 Ke7 38.Ke2 Rf3 39.b4 a4 40.c5 a3 41.Ra2 bxc5 42.bxc5 Rb3
+43.Kd1 Kd7 44.Rc2 Rb1+ 45.Kd2 Kc6 46.Ra2 Rb3 47.Rc2 Rf3 48.Ke2 h5 49.Ke1 h4
+50.gxh4 Rh3 51.Kd1 Rxh4 52.Kc1 Rh3 53.Kb1 Rf3 54.Rd2 Rxf4 55.Rd6+ Kxc5 56.Rxe6 Kd5
+57.Ra6 Kxe5 58.Rxa3 Rf1+ 59.Kc2 Rf2+ 60.Kd1 Rxh2 61.Ke1 f4  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.12"]
+[Round "10"]
+[White "Olson, E."]
+[Black "Rask, B."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6 5.d4 exd4 6.Nxd4 Bd7 7.Re1 Be7 8.Nc3 O-O
+9.Bxc6 bxc6 10.b3 Re8 11.e5 dxe5 12.Rxe5 Bd6 13.Rxe8+ Qxe8 14.Nf3 Rd8 15.Qe2 Qxe2
+16.Nxe2 Bg4 17.Be3 Nd5 18.Ng3 f5 19.Bxa7 c5 20.Rd1 Nc3 21.Rd3 Ne4 22.b4 cxb4
+23.Ne5 Ra8 24.Nc6 Nxg3 25.hxg3 f4 26.Bd4 fxg3 27.fxg3 Rxa2 28.Be5 Bf5 29.Rxd6 cxd6
+30.Bxd6 Bxc2 31.Nxb4 Ra1+ 32.Kf2 Be4 33.Ke3 Bxg2 34.Nd3 Kf7 35.Bc5 g5 36.Ne5+ Ke6
+37.Ng4 h5 38.Nf6 Rh1 39.Ne4 Kd5  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.12"]
+[Round "10"]
+[White "Pritzel, ACM."]
+[Black "Aalheim, T."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B35"]
+
+1.e4 c5 2.d4 cxd4 3.Nf3 Nc6 4.Nxd4 d6 5.Nc3 g6 6.Bc4 Bg7 7.Be3 Nf6 8.O-O O-O
+9.f3 Kh8 10.Qd2 Nh5 11.g4 Ne5 12.Be2 Nf6 13.g5 Nh5 14.Qd1 f5 15.f4 Ng4 16.Bxg4 fxg4
+17.f5 g3 18.hxg3 Nxg3 19.Rf3 Nh5 20.Rh3 e5 21.Ndb5 Bxf5 22.exf5 Rxf5 23.Nxd6 Rxg5+
+24.Bxg5 Qxg5+ 25.Kh1 Rf8 26.Nce4 Qf4 27.Qd2 Qg4 28.Qg2 Qe6 29.Rf1 Nf4 30.Rxf4 exf4
+31.b3 h6 32.c4 g5 33.Nxg5 Qxd6 34.Qc2 Rf5 35.Qxf5 Qd1+ 36.Kg2 Qe2+  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.12"]
+[Round "10"]
+[White "Bengtsson, Fr G"]
+[Black "Jacobsen, Egil"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C56"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5.O-O Nxe4 6.Re1 d5 7.Bxd5 Qxd5 8.Nc3 Qa5
+9.Nxe4 Be6 10.Neg5 O-O-O 11.Nxe6 fxe6 12.Rxe6 Bd6 13.Qe2 Qh5 14.Bd2 Rhf8
+15.h3 Bc5 16.Re1 d3 17.cxd3 Rxf3 18.Qxf3 Qxf3 19.gxf3 Nd4 20.R6e3 Nc2 21.Rc1 Nxe3
+22.Rxc5 Nd1 23.Rc2 Rxd3 24.Kf1 Nxb2 25.Rxb2 Rxf3 26.Kg2 Rf7 27.Kg3 c5 28.Bf4 b6
+29.h4 g6 30.Be5 Kb7 31.f4 Kc6 32.Kg4 b5 33.Rd2 c4 34.Rd8 b4 35.Rc8+ Kb5 36.Kf3 a5
+37.Ke3 c3 38.Rc7 Rxc7 39.Bxc7 a4 40.Kd3 Kc5 41.Be5 Kd5 42.a3 c2 43.Kxc2 bxa3
+44.Kc3 Ke4 45.Kd2 Kf5  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.12"]
+[Round "10"]
+[White "Malmgren, B."]
+[Black "Berndtsson Kullberg, Karl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A43"]
+
+1.d4 c5 2.d5 d6 3.c4 g6 4.Nc3 Bg7 5.Qc2 Nf6 6.e4 Na6 7.a3 Qa5 8.Bd2 Bd7 9.Qc1 Qb6
+10.Bd3 Ng4 11.h3 Ne5 12.Be2 Qb3 13.Qd1 Qxd1+ 14.Rxd1 f5 15.f4 Nf7 16.Bd3 e5
+17.dxe6 Bxe6 18.exf5 gxf5 19.Nf3 O-O-O 20.O-O Nc7 21.Rfe1 Rhe8 22.Re2 Bd7
+23.Rde1 Bf6 24.b3 Rg8 25.Kh2 Rg7 26.Nd1 Rdg8 27.Bc3 Bxc3 28.Nxc3 Kd8 29.Nh4 Nh6
+30.Re3 Bc6 31.R1e2 a6 32.a4 Rf8 33.Rg3 Rxg3 34.Kxg3 Kd7 35.Re3 Ne6 36.Nd5 Rg8+
+37.Kf3 Nd4+ 38.Kf2 Bxd5 39.cxd5 Rg7 40.Nf3 Nxb3 41.Bxa6 Na5 42.Bb5+ Kc7 43.Re6 Rg6
+44.Re7+ Kb6 45.Nd2 Ng8 46.Rd7 h6 47.Kf3 h5 48.Bd3 Nh6 49.g3 Rf6 50.Rh7 Rg6
+51.Be2 Ka7 52.Kf2 h4 53.gxh4 Ng8 54.h5 Rh6 55.Rg7 Nf6 56.Rg6 Rxg6 57.hxg6 Nxd5
+58.Nc4 Nc6 59.Nxd6 Nxf4 60.g7 Ne7 61.Nc8+  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.12"]
+[Round "10"]
+[White "Juhl, J."]
+[Black "Nissen, H."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 Bxc3+ 7.bxc3 bxc6
+8.Bd3 Qe7 9.O-O O-O 10.Bg5 Qe5 11.f4 Qxc3 12.e5 Ne4 13.Bxe4 Qe3+ 14.Kh1 Qxe4
+15.Re1 Qg6 16.Re3 Kh8 17.Rg3 Qf5 18.Qf3 Ba6 19.Bh4 Rab8 20.h3 Rb4 21.Qa3 Rfb8
+22.Be7 Rxf4 23.Bf8 Rf1+ 24.Rxf1 Qxf1+ 25.Kh2 g6 26.Rf3 Qc4 27.e6 fxe6 28.Rf7 d6
+29.Qf3 Qh4 30.Be7 Qh6 31.Bf6+ Kg8 32.Rg7+ Qxg7 33.Bxg7 Kxg7 34.Qxc6 Rb6 35.Qxc7+ Kh6
+36.Qxa7 Rc6 37.Qe3+ Kg7 38.Qxe6 Rxc2 39.Qe7+ Kh6 40.Qe3+ Kg7 41.Qa7+  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.12"]
+[Round "10"]
+[White "Nilsson, Oscar"]
+[Black "Owesson, B."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B84"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.Be2 Nf6 7.O-O Be7 8.f4 d6
+9.Kh1 e5 10.Nf3 Nbd7 11.Be3 b5 12.fxe5 dxe5 13.Ng5 Bb7 14.Bd3 h6 15.Nh3 b4
+16.Nd5 Nxd5 17.exd5 Bxd5 18.Qg4 Nf6 19.Qe2 Qc6 20.c4 bxc3 21.Rac1 O-O 22.Rxc3 Qb7
+23.Rfc1 Bd6 24.Bf5 g6 25.Bxh6 Rfb8 26.Bb1 Qxb2 27.Rc8+ Kh7 28.R8c2 Qa3 29.Be3 Qa4
+30.Rc3 Kg7 31.Bg5 Ne4 32.Bxe4 Qxe4 33.Qf2 f5 34.Re3 Qd4 35.Nf4 Rh8 36.Rf1 e4
+37.h3 Qe5 38.Rd1 Bf7 39.Qg3 Bc7 40.Rd7 Rac8 41.Rc3 Bb8 42.Rxc8 Rxc8 43.Kh2 Re8
+44.Qb3 Qe6 45.Qb7 Be5 46.Kh1 Qxa2 47.Qb6 Qa1+ 48.Kh2 Bxf4+ 49.Bxf4 e3 50.Qb3 Qf6
+51.Bxe3 Kg8 52.Bd4 Bxb3 53.Bxf6 Re6 54.Rg7+ Kf8 55.Rxg6 Kf7 56.Rg3 Kxf6 57.Rxb3 a5
+58.Ra3 Re5 59.Kg3 Rb5 60.Kf3 Kg5  1/2-1/2
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.13"]
+[Round "7"]
+[White "Svensson, SO."]
+[Black "Giersing, Johannes Hjalmar"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D53"]
+
+1.d4 d5 2.Nf3 e6 3.c4 Be7 4.Nc3 Nf6 5.Bg5 Nbd7 6.e3 a6 7.Bd3 dxc4 8.Bxc4 b5
+9.Bd3 Bb7 10.a3 c5 11.O-O O-O 12.Rc1 Rc8 13.Bb1 b4 14.axb4 cxb4 15.Ne2 Qa5
+16.e4 h6 17.Bh4 g5 18.e5 Ne4 19.Ng3 f5 20.Nxe4 fxe4 21.Nxg5 hxg5 22.Qh5 Rf7
+23.Qg6+ Kf8 24.Qxe6 gxh4 25.Qxd7 Rxc1 26.Rxc1 Bg5 27.Qd6+ Kg7 28.f4 Bxf4
+29.Rd1 Qd5 30.Qb6 Be3+ 31.Kh1 Qxd4 32.Qxd4 Bxd4 33.Ba2 Rc7 34.e6 Bxb2 35.h3 Rc1
+36.Rxc1 Bxc1 37.e7 Bc6 38.Bd5 Be8 39.Bxe4 Kf7 40.Kg1 Be3+ 41.Kf1 Bb5+ 42.Ke1 Kxe7
+43.Kd1 Kd6 44.Kc2 Kc5 45.Kb3 a5 46.Bf3 a4+ 47.Kb2 b3  0-1
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.13"]
+[Round "7"]
+[White "Lowenborg, Otto"]
+[Black "Marchand, Max"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A85"]
+
+1.d4 e6 2.c4 f5 3.Nc3 Nf6 4.Nf3 b6 5.e3 Bb4 6.Bd2 Bxc3 7.Bxc3 Ne4 8.Qc2 O-O
+9.Bd3 Bb7 10.O-O-O a5 11.Rhg1 Na6 12.Bxe4 fxe4 13.d5 exd5 14.cxd5 exf3 15.gxf3 Rf7
+16.Bxg7 Rxg7 17.Rxg7+ Kxg7 18.Rg1+ Kf6 19.Qc3+ Ke7 20.Qe5+ Kf8 21.Qf5+ Ke8
+22.Rg8+ Ke7 23.Rg7+ Ke8 24.Qf7+  1-0
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.13"]
+[Round "7"]
+[White "Johner, Paul F"]
+[Black "Krause, Orla Hermann"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A35"]
+
+1.d4 d5 2.Nf3 c5 3.e3 Nf6 4.c4 cxd4 5.exd4 Nc6 6.Nc3 g6 7.cxd5 Nxd5 8.Bc4 Nb6
+9.Bb5 Bg7 10.O-O O-O 11.Bxc6 bxc6 12.h3 Qc7 13.Re1 Be6 14.Be3 Rad8 15.Qc1 Nd5
+16.Bh6 Nxc3 17.Bxg7 Kxg7 18.Qxc3 Bd5 19.Ne5 Rb8 20.Rac1 Rfc8 21.b3 a5 22.Nd3 e6
+23.Nc5 Ra8  1/2-1/2
+
+[Event "Nordisk Skakforbund"]
+[Site "Copenhagen"]
+[Date "1916.07.13"]
+[Round "7"]
+[White "Nyholm, Gustaf"]
+[Black "Jacobson, Ernst"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 d6 6.Bxc6+ bxc6 7.d4 exd4 8.Nxd4 Bd7
+9.O-O Be7 10.Qd3 O-O 11.h3 c5 12.Nde2 Bc6 13.Nd5 Nxd5 14.exd5 Bd7 15.Bd2 Bf6
+16.Ba5 Rb8 17.Nc3 Rxb2 18.Ne4 Bd4 19.c3 Bb5 20.c4 Bd7 21.Nxd6 Bxh3 22.Nf5 Bxf5
+23.Qxf5 Rxf2  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.13"]
+[Round "11"]
+[White "Nissen, H."]
+[Black "Pritzel, ACM."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Bd3 Nxe4 6.Bxe4 Nd7 7.Nf3 Nf6 8.Qe2 Bg4
+9.c3 Nxe4 10.Qxe4 Bxf3 11.Qxf3 Qd5 12.Qxd5 cxd5 13.O-O e6 14.Bf4 Kd7 15.Rfe1 Bd6
+16.Bxd6 Kxd6 17.Re3 Rac8 18.Rg3 g6 19.Rf3 Rc7 20.Re1 Rhc8 21.g4 Rh8 22.g5 h6
+23.Rh3 Rcc8 24.Rf3 Ke7 25.h4 hxg5 26.hxg5 Rh4 27.Rg3 Rch8 28.Kg2 R8h5 29.a4 Rh2+
+30.Kf3 f6 31.gxf6+ Kxf6 32.Ke2 Rf5 33.Rf3 Rh7 34.Rg3 e5 35.dxe5+ Rxe5+ 36.Re3 Rxe3+
+37.Kxe3 Re7+ 38.Kd2 Rxe1 39.Kxe1 Ke5 40.Ke2 Ke4 41.f3+ Kf4 42.Kf2 b6 43.Ke2 a6
+44.Kf2 b5 45.axb5 axb5 46.Ke2 g5  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.13"]
+[Round "11"]
+[White "Jacobsen, Egil"]
+[Black "Juhl, J."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ Qxf6 6.Nf3 Bd6 7.Bd3 h6 8.Bd2 b6
+9.Qe2 Nd7 10.Bc3 Bb7 11.Be4 Bxe4 12.Qxe4 O-O 13.O-O Qe7 14.Ne5 Nf6 15.Qe2 Nd5
+16.Bd2 Qh4 17.f4 c5 18.dxc5 Bxc5+ 19.Kh1 Rad8 20.Rf3 Ne7 21.Rh3 Qf2 22.Qxf2 Bxf2
+23.Bb4 Bc5 24.Bxc5 bxc5 25.Rd3 Rd5 26.Rad1 f6 27.Nc4 Rfd8 28.g3 Kf7 29.Kg2 Rxd3
+30.Rxd3 Rxd3 31.cxd3 Nc6 32.a3 g5 33.Nd6+ Kg6 34.fxg5 fxg5 35.Ne4 Kf5 36.Nxc5 Ke5
+37.b4 Kd5 38.Kf2 Nd4 39.a4 Nc6 40.Na6 Kd4 41.Ke2 Kc3 42.b5 Nb4 43.Nc5 Nd5
+44.a5 Kb4 45.b6 axb6 46.axb6 Nxb6 47.Nxe6 Nd5 48.Kf3 Nf6 49.h3 Kb5 50.g4 Kc6
+51.Nd8+ Kd5 52.Ke3 Ng8 53.d4 Nf6 54.Nf7 Ng8 55.Kd3 Ke6 56.Ne5 Nf6 57.Nc4 Nd5
+58.Ne3 Nf4+ 59.Kc4 Nxh3 60.d5+ Kf6 61.Kd4 Nf2 62.Kc3 Ke5 63.Kd2 Ne4+ 64.Ke2 Nc3+
+65.Kd2 Nxd5 66.Nxd5 Kxd5 67.Kd3 Ke6 68.Ke2 Kf6 69.Kf2 Kg6 70.Kg2 h5 71.gxh5+ Kxh5
+72.Kh3  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.13"]
+[Round "11"]
+[White "Brodersen, V."]
+[Black "Bengtsson, Fr G"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D38"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Bg5 h6 5.Bh4 Bb4+ 6.Nc3 dxc4 7.Qa4+ Nc6 8.Ne5 Qxd4
+9.Bxf6 Bxc3+ 10.bxc3 Qxc3+ 11.Kd1 Qxa1+ 12.Kc2 gxf6 13.Nf3 Bd7 14.Qxc4 Ne5
+15.Nxe5 Qxe5 16.e3 O-O-O 17.Bd3 Bc6 18.Rd1 Rxd3  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.13"]
+[Round "11"]
+[White "Berndtsson Kullberg, Karl"]
+[Black "Brekke, Jac"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd8 4.d4 Nf6 5.Bd3 Nc6 6.Be3 Bg4 7.f3 Bh5 8.Nge2 e6
+9.h4 Be7 10.Bb5 Bg6 11.Nf4 Nd5 12.Ncxd5 Bxh4+ 13.Bf2 Bxf2+ 14.Kxf2 exd5 15.Nxg6 fxg6
+16.Qd3 Qf6 17.Rae1+ Kd8 18.Re3 Qxd4 19.Qxd4 Nxd4 20.Rxh7 Rf8 21.Bd3 c5 22.Rxg7 b5
+23.Ree7 Nf5 24.Bxf5 Rxf5 25.Rc7  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.13"]
+[Round "11"]
+[White "Owesson, B."]
+[Black "Malmgren, B."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Ng3 Qc7 6.Bc4 Nbd7 7.Nf3 e6 8.O-O Bd6
+9.Qe2 h5 10.Re1 Nb6 11.Bb3 Bd7 12.c4 c5 13.dxc5 Bxc5 14.Be3 Bxe3 15.Qxe3 O-O-O
+16.h3 Bc6 17.Nd4 Rd7 18.Rac1 Kb8 19.Nb5 Bxb5 20.cxb5 Qd6 21.Red1 Nbd5 22.Bxd5 Nxd5
+23.Ne4 Rhd8 24.Qg5 Qf8 25.Qe5+ Ka8 26.a4 g6 27.a5 f6 28.Qg3 Nf4 29.Qf3 Nd3
+30.Rb1 f5 31.Nc3 e5 32.a6 e4 33.Qg3 Qc5 34.Qe3 Qxe3 35.fxe3 bxa6 36.bxa6 Rd6
+37.Ra1 Rb8 38.Ra2 Rbb6 39.Rda1 Nb4 40.Ra4 Nc2 41.Rc1 Nxe3 42.Kf2 Nd5 43.Nxd5 Rxb2+
+44.Ke3 Rxd5 45.Rc8+ Rb8 46.Rxb8+ Kxb8 47.Rb4+ Kc8 48.Rb7 Rd6 49.Rxa7 Kb8
+50.Rb7+ Ka8 51.Rg7 Rxa6 52.Kf4 Kb8 53.g4 hxg4 54.hxg4 Rf6 55.Re7 Kc8 56.Kg5 Rf8  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.13"]
+[Round "11"]
+[White "Rask, B."]
+[Black "Nilsson, Oscar"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D32"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 c5 5.cxd5 exd5 6.Bg5 Be7 7.dxc5 Be6 8.e3 Bxc5
+9.Bd3 Be7 10.O-O Nbd7 11.Rc1 O-O 12.Bb1 Rc8 13.Nd4 Qb6 14.Qe2 Rfe8 15.Rfd1 Bg4
+16.f3 Be6 17.a3 Ne5 18.f4 Bg4 19.Qf1 Nc4 20.Bxf6 Bxf6 21.Nxd5 Qd6 22.Qd3 g6
+23.Nxf6+ Qxf6 24.Re1 Nxb2 25.Qb5 Qb6 26.Qxb6 axb6 27.e4 Nc4 28.Bd3 Nxa3 29.Kf2 b5
+30.e5 Red8 31.Ke3 Nc4+ 32.Bxc4 bxc4 33.Rc3 Bd7 34.Rb1 Rc7 35.Ke4 b5 36.Rb4 Rc5
+37.h3 Be8 38.g4 Rcd5 39.Nc2 Bc6 40.Ke3 Rd3+ 41.Rxd3 Rxd3+ 42.Ke2 Rxh3 43.Nd4 Bd7
+44.f5 gxf5 45.gxf5 Rh5 46.Kf3 Bxf5 47.Rxb5 Be6 48.Rc5 Kg7 49.Kf4 Rh4+ 50.Ke3 h5
+51.Rc6 Kg6 52.Nxe6 fxe6 53.Rxe6+ Kf5 54.Rc6 Kxe5  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.13"]
+[Round "11"]
+[White "Aalheim, T."]
+[Black "Olson, E."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D00"]
+
+1.d4 d5 2.Bf4 c5 3.e3 Nc6 4.c3 Nf6 5.Bd3 Qb6 6.Nd2 c4 7.Bc2 Qxb2 8.Ne2 e6
+9.O-O Be7 10.e4 O-O 11.Bg3 Nd7 12.f4 f5 13.e5 Qb6 14.Rf3 Rf7 15.Bf2 Nf8 16.g4 Qc7
+17.g5 g6 18.h4 b5 19.Rh3 a6 20.h5 Rg7 21.Ng3 b4 22.hxg6 hxg6 23.Kg2 a5 24.Rh6 Bd8
+25.Nh5 gxh5 26.Qxh5 Rh7 27.Rh1 Qg7 28.Kf1 Rxh6 29.gxh6 Qd7 30.Rg1+ Kh8 31.Rg7 Be7
+32.Qf7  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.14"]
+[Round "12"]
+[White "Olson, E."]
+[Black "Nissen, H."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C12"]
+
+1.d4 e6 2.e4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.exd5 Qxd5 6.Bxf6 gxf6 7.Qd3 Nc6 8.Nf3 Bd7
+9.a3 Bxc3+ 10.Qxc3 Qe4+ 11.Be2 O-O-O 12.Qd3 Qxd3 13.Bxd3 Ne7 14.O-O-O Bc6
+15.c3 Nd5 16.Nd2 Nf4 17.Be4 f5 18.Bxc6 bxc6 19.Nc4 f6 20.g3 Nd5 21.Rhe1 Rde8
+22.Rd2 f4 23.Rde2 fxg3 24.fxg3 Kd7 25.Na5 Re7 26.Nb7 Rhe8 27.Nc5+ Kc8 28.Rxe6 Rxe6
+29.Rxe6 Rxe6 30.Nxe6 Ne3 31.Nc5 Nf1 32.Ne4 f5 33.Nf6 Nxh2 34.Nh5 Kd7 35.Nf6+ Ke7
+36.Nxh7 Nf1 37.Ng5 Nxg3 38.Kd2 Kf6 39.Nf3 Ne4+ 40.Ke3 Nd6  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.14"]
+[Round "12"]
+[White "Brekke, Jac"]
+[Black "Owesson, B."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B43"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.Bd3 Nf6 7.O-O Be7 8.Kh1 d6
+9.Nde2 b5 10.Ng3 Bb7 11.f4 Nbd7 12.Be3 Nc5 13.e5 dxe5 14.fxe5 Nxd3 15.exf6 Nxb2
+16.fxg7 Rg8 17.Qh5 Bd6 18.Qxh7 O-O-O 19.Nce4 Be5 20.Bh6 f5 21.Ng5 Bxg7 22.Rae1 Qc6
+23.Re2 Bxh6 24.Qxh6 e5 25.Qxc6+ Bxc6 26.Nf7 Rdf8 27.Rxf5 Nc4 28.Nxe5 Rxf5
+29.Nxf5 Re8 30.Nxc6 Rxe2 31.h4 Ne5 32.Ncd4 Rd2 33.Kh2 Kd8 34.Kg3 Ke8 35.h5 Kf7
+36.Nd6+ Ke7 37.Kh4 Kxd6  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.14"]
+[Round "12"]
+[White "Brodersen, V."]
+[Black "Berndtsson Kullberg, Karl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D55"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Nbd7 5.Bg5 Be7 6.e3 O-O 7.Qc2 b6 8.cxd5 exd5
+9.Bd3 Bb7 10.O-O-O Ne4 11.h4 f5 12.g4 c5 13.gxf5 Rc8 14.Kb1 cxd4 15.Nxd4 Qe8
+16.Bxe4 dxe4 17.Qb3+ Kh8 18.Qe6 Rf7 19.Bxe7 Rxe7 20.Qd6 Qf7 21.Nde2 Nc5 22.Nf4 Rd7
+23.Qe5 Re7 24.Qd6 Rd7 25.Qe5 Re8 26.Rxd7 Qxd7 27.Qd4 Qxf5 28.Rg1 Qe5 29.Nb5 Re7
+30.Rd1 Kg8 31.Qc4+ Ne6 32.Nxe6 Qxe6 33.Rd8+ Kf7 34.Nd6+ Kg6 35.Qxe6+ Rxe6
+36.Nxb7 Rf6 37.Rd6 Kh5 38.Rxf6 gxf6 39.Nd6 Kxh4 40.Nxe4 f5 41.Ng3 Kg4 42.Kc2 h5
+43.Kd1 h4 44.Nxf5 Kxf5 45.Ke2 Kg4 46.Kf1 Kf3 47.Kg1 a5 48.a4 Ke4 49.f4  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.14"]
+[Round "12"]
+[White "Malmgren, B."]
+[Black "Rask, B."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A54"]
+
+1.d4 Nf6 2.Nf3 d6 3.c4 Nbd7 4.Nc3 e5 5.e3 g6 6.Bd3 Bg7 7.Qc2 O-O 8.Bd2 exd4
+9.exd4 Re8+ 10.Ne2 c5 11.O-O-O b5 12.cxb5 Nd5 13.h4 Bb7 14.h5 Rc8 15.Kb1 cxd4
+16.Qa4 Nc5 17.Qa3 Nxd3 18.hxg6 hxg6 19.Bg5 Qc7 20.Nexd4 N5b4  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.14"]
+[Round "12"]
+[White "Nilsson, Oscar"]
+[Black "Aalheim, T."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be2 g6 7.O-O Bg7 8.Be3 Nge7
+9.Qd2 O-O 10.Rad1 f5 11.exf5 gxf5 12.f4 Rf6 13.Rf3 Rh6 14.Rg3 Rg6 15.Rxg6 hxg6
+16.Nxe6 dxe6 17.Qxd8+ Nxd8 18.Rxd8+ Kf7 19.Na4 Nc6 20.Rd2 b5 21.Nb6 Rb8 22.Bf3 Ne7
+23.Rd8 Bxb2 24.Nd7 Rb7 25.Bxb7 Bxb7 26.Nc5 Bd5 27.Nxa6 Bxa2 28.Rb8 Bc4 29.Nc7 Nd5
+30.Nxb5  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.14"]
+[Round "12"]
+[White "Pritzel, ACM."]
+[Black "Jacobsen, Egil"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C44"]
+
+1.e4 e5 2.Nf3 Nc6 3.c3 Nf6 4.d4 d5 5.Bb5 Nxe4 6.Nxe5 Bd7 7.Nxd7 Qxd7 8.O-O O-O-O
+9.Bf4 g5 10.f3 Nxc3 11.bxc3 gxf4 12.Nd2 Rg8 13.Qa4 Qh3 14.Rf2 Rd6 15.Kh1 Qh4
+16.Re2 Rh6 17.Nf1 a6 18.Re8+ Kd7 19.Bxc6+ Rxc6 20.Rae1 Bb4 21.R8e2 Bd6 22.c4 Qg5
+23.c5 Bf8 24.g3 fxg3 25.Nxg3 Qf4 26.Qb3 Rg5 27.Re5 Rxe5 28.Rxe5 Rxc5 29.Rxd5+ Rxd5
+30.Qxd5+ Kc8 31.Ne2 Qf6 32.Qb3 Bd6 33.Ng3 Qe6 34.d5 Qh3 35.Qe3 Kb8 36.f4 Qh6
+37.Ne2 Qh5 38.Qe4 Qg6 39.Qxg6 hxg6 40.Kg2 Kc8 41.Kf3 Kd7 42.Ng3 b5 43.h4 b4
+44.h5 gxh5 45.Nxh5 Be7 46.Ke4 a5 47.Kd4 Bh4 48.Kc4 Ke7 49.Ng7 Be1 50.Kb3 Bd2
+51.Nf5+ Kf6 52.d6 cxd6 53.Nxd6 Bxf4 54.Nb5 Ke5 55.Kc4 f5 56.Nd4 Ke4 57.Ne6 Bd2
+58.Nc5+ Ke3 59.Kb3 f4 60.Kc2 f3 61.Nd3 Bc3  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.14"]
+[Round "12"]
+[White "Bengtsson, Fr G"]
+[Black "Juhl, J."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Ng3 b6 7.Bd3 Bb7 8.O-O Bd6
+9.Re1 h6 10.Nf5 Kf8 11.Nxd6 cxd6 12.b3 Ne8 13.Ba3 Ndf6 14.Qe2 Nd5 15.c4 Nf4
+16.Qe3 Qf6 17.Be4 Bxe4 18.Qxe4 Rc8 19.Rac1 g5 20.d5 Qg6 21.Qd4 Kg8 22.dxe6 fxe6
+23.Rcd1 Rd8 24.Bb2 Rh7 25.Rd2 Qf5 26.Qe3 Rf7 27.Nd4 Qg4 28.f3 Qh4 29.g3 Qh5
+30.gxf4 Ng7 31.Nxe6 Re8 32.Bxg7 Rxg7 33.Nxg7 Rxe3 34.Nxh5 Rxe1+ 35.Kf2 Rh1
+36.Ke3 Kf7 37.f5 Re1+ 38.Kd4 Rf1 39.Ke4 Re1+ 40.Kd5 Re5+ 41.Kxd6 Rxf5 42.Kc6 Kg6
+43.Ng3 Rxf3 44.Rd6+ Kh7 45.Rd7+ Kg6 46.Rxa7 h5 47.Kxb6 h4 48.Ne4 g4 49.Ra5 Rf4
+50.Re5  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.15"]
+[Round "13"]
+[White "Berndtsson Kullberg, Karl"]
+[Black "Bengtsson, Fr G"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.Nb5 Bxe3 7.fxe3 Qh4+ 8.g3 Qd8
+9.Qg4 g6 10.Qf4 d6 11.Bc4 Ne5 12.O-O Qe7 13.N1c3 c6 14.Bxf7+ Kf8 15.Bxg6+ Kg7
+16.Bf5 cxb5 17.Rad1 Bd7 18.Bxd7 Nxd7 19.Rxd6 Ne5 20.Rd7 Nxd7 21.Qg4+ Kh6
+22.Rf5  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.15"]
+[Round "13"]
+[White "Owesson, B."]
+[Black "Brodersen, V."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B73"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 g6 7.O-O Bg7 8.Be3 O-O
+9.Qd2 Ng4 10.Bxg4 Bxg4 11.Nxc6 bxc6 12.Bh6 Bxh6 13.Qxh6 Be6 14.Rae1 f5 15.exf5 Bxf5
+16.Ne4 e5 17.Ng5 Qe7 18.Re3 Rae8 19.Rd1 Rf6 20.Qh4 Rf7 21.g3 Rg7 22.Rd2 d5
+23.Nf3 g5 24.Qa4 Qd6 25.c4 Ree7 26.cxd5 cxd5 27.Qb5 Qf6 28.Qxd5+ Rgf7 29.Nxe5 Be6
+30.Qd4 Rc7 31.Nxf7 Rc1+ 32.Kg2 Kxf7 33.Qxf6+ Kxf6 34.Rd6  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.15"]
+[Round "13"]
+[White "Rask, B."]
+[Black "Brekke, Jac"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd8 4.d4 Nf6 5.Nf3 Bg4 6.Be2 e6 7.O-O c6 8.Be3 Bd6
+9.Ne5 Bxe2 10.Qxe2 O-O 11.f4 Nbd7 12.g4 Nd5 13.g5 Bc7 14.Ne4 Nxe5 15.fxe5 f5
+16.gxf6 gxf6 17.Bh6 Rf7 18.Qg4+ Kh8 19.exf6 Qd7 20.Nc5 Qd6 21.Qg7+  1-0
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.15"]
+[Round "13"]
+[White "Juhl, J."]
+[Black "Pritzel, ACM."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Be6 5.Nc3 Nf6 6.cxd5 Bxd5 7.Nxd5 Nxd5 8.Bc4 e6
+9.a3 Nd7 10.Nf3 Be7 11.O-O O-O 12.Qd3 N7f6 13.Bb3 Rc8 14.Bg5 Ng4 15.Bxe7 Nxe7
+16.Rac1 Qd6 17.h3 Nf6 18.Ne5 Rfd8 19.Rxc8 Nxc8 20.Re1 Ne7 21.Qe2 Nc6 22.Qb5 Nxd4
+23.Qxb7 Nxb3 24.Nxf7 Nc5 25.Nxd6 Nxb7 26.Nxb7 Rb8 27.Nc5 Rxb2 28.Rxe6 Rc2
+29.Ne4 Kf7 30.Re5 Nxe4 31.Rxe4 Rc1+ 32.Kh2 Rc5 33.f4 Kf6 34.Kg1 Ra5 35.Re3 Kf5
+36.g3 h5 37.Kf2 h4 38.Kf3 hxg3 39.Kxg3 Ra4 40.Rb3 a6 41.Rc3 Ra5 42.Kf3 Ra4
+43.Ke3 Re4+ 44.Kd3 Kxf4 45.Rc7 Re3+ 46.Kd4 Rxa3 47.Rf7+ Kg5 48.Rxg7+ Kh6
+49.Ra7 a5 50.Kc4 Rxh3 51.Rxa5  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.15"]
+[Round "13"]
+[White "Jacobsen, Egil"]
+[Black "Olson, E."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D52"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Be7 5.Bg5 Nbd7 6.e3 c6 7.Bd3 dxc4 8.Bxc4 b5
+9.Bd3 a6 10.O-O c5 11.dxc5 Nxc5 12.Bc2 Bb7 13.Qe2 Qa5 14.Ne5 b4 15.Nc4 Qc7
+16.Nd1 O-O 17.f3 e5 18.Nf2 e4 19.Bxf6 Bxf6 20.fxe4 g6 21.Rab1 Bg7 22.Ng4 f6
+23.b3 Bxe4 24.Rbc1 Qe7 25.Bxe4 Nxe4 26.Nce5 Nc3 27.Qc4+ Kh8 28.Nxg6+ hxg6
+29.Rf3 Qf7 30.Qd3 Rad8 31.Qc2 Rd6 32.Ne5 Qe8 33.Nxg6+ Kg8 34.Nxf8 Qxf8 35.Rcf1 Qd8
+36.Qg6 Rd1 37.h4 Qd3 38.Qe8+ Kh7 39.Qh5+ Kg8  1/2-1/2
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.15"]
+[Round "13"]
+[White "Aalheim, T."]
+[Black "Malmgren, B."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Ng3 e6 6.Nf3 Bd6 7.Bd3 Qc7 8.O-O Nbd7
+9.Re1 b6 10.Ne4 Nxe4 11.Bxe4 Nf6 12.Bd3 Bb7 13.a4 O-O 14.Ne5 c5 15.Bg5 Nd5
+16.c4 cxd4 17.Ng4 f5 18.cxd5 fxg4 19.Rc1 Qf7 20.Qxg4 Bxd5 21.Re2 Rac8 22.Rce1 Bf4
+23.Qh4 h6 24.Bxf4 Qxf4 25.Qe7 Rc1 26.f3 Rxe1+ 27.Rxe1 Qd2  0-1
+
+[Event "Nordisk Turnering-B"]
+[Site "Copenhagen"]
+[Date "1916.07.15"]
+[Round "13"]
+[White "Nissen, H."]
+[Black "Nilsson, Oscar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bg5 Be7 7.Bd3 b6 8.O-O Bb7
+9.Qe2 O-O 10.Rad1 Nd5 11.c4 Bxg5 12.Nexg5 N5f6 13.Ne5 h6 14.f4 Qe7 15.Ngf3 c5
+16.Nxd7 Nxd7 17.d5 Rae8 18.Rfe1 Qf6 19.Ne5 Qd8 20.Nxf7 Rxf7 21.dxe6 Rfe7
+22.Bg6 Rxe6 23.Qxe6+ Rxe6 24.Rxe6 Qc7 25.Rxd7 Qxd7 26.Re8+ Qxe8 27.Bxe8 Kf8
+28.Bg6 Ke7 29.Kf2 Kf6 30.Bd3 Bc6 31.g3 Bd7 32.Be4 Bg4 33.Ke3 Be6 34.b3 Bg4
+35.Kf2 a5 36.Bc2 Bd7 37.Ke3 Bg4 38.Kd2 Bd7 39.Kc3 Bc6 40.a3 Bf3 41.b4 axb4+
+42.axb4 Bg4 43.bxc5 bxc5 44.Ba4 Be2 45.Bd7 g5  1/2-1/2

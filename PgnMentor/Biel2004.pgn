@@ -1,0 +1,580 @@
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.19"]
+[Round "1"]
+[White "Sasikiran,K"]
+[Black "Pelletier,Y"]
+[Result "1-0"]
+[WhiteElo "2666"]
+[BlackElo "2597"]
+[ECO "D12"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.Nc3 e6 6.Nh4 Bg6 7.Nxg6 hxg6 8.g3 Nbd7
+9.Bg2 dxc4 10.Qe2 Rc8 11.a4 Qa5 12.Qxc4 b5 13.Qe2 b4 14.Ne4 Nxe4 15.Bxe4 c5
+16.Qb5 Qc7 17.a5 Rh5 18.Bf3 Rf5 19.Be4 Rh5 20.Qa4 cxd4 21.exd4 Qc4 22.Be3 b3
+23.Qxc4 Rxc4 24.Ke2 Bb4 25.a6 Nb6 26.Bd3 Rc7 27.Rhc1 Kd7 28.d5 Nxd5 29.Rxc7+ Nxc7
+30.Bxa7 Ra5 31.Rxa5 Bxa5 32.Bd4 f6 33.a7 e5 34.Be3 f5 35.Bc4 Kc6 36.Bxb3 Bb6
+37.Bd5+ Kxd5 38.Bxb6 Na8 39.Bd8 Kc4 40.Be7 Kb3 41.Bf8  1-0
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.19"]
+[Round "1"]
+[White "Morozevich,A"]
+[Black "McShane,L"]
+[Result "1-0"]
+[WhiteElo "2743"]
+[BlackElo "2643"]
+[ECO "B25"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 Nf6 4.h3 d6 5.g3 g6 6.Bg2 Bg7 7.O-O O-O 8.d3 Rb8
+9.Be3 b5 10.Qd2 b4 11.Nd1 Ba6 12.Bh6 c4 13.Bxg7 Kxg7 14.dxc4 Bxc4 15.Re1 Qa5
+16.Ne3 Be6 17.Ng5 Qe5 18.f4 Qc5 19.Qf2 Rb5 20.Rac1 Bd7 21.Nd1 Rc8 22.Nf3 e5
+23.c4 Ra5 24.Qxc5 dxc5 25.fxe5 Nh5 26.Nf2 Nxg3 27.Nd3 Rd8 28.Kf2 Nh5 29.Ke3 Be6
+30.Rc2 Rxa2 31.Nxc5 b3 32.Rf2 Nb4 33.Nxe6+ fxe6 34.Nd4 Ra6 35.Rc1 g5 36.Bf1 Nf4
+37.c5 Ra4 38.Bb5 Ra5 39.c6 Rxd4 40.Kxd4 Nc2+ 41.Rfxc2 bxc2 42.c7  1-0
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.19"]
+[Round "1"]
+[White "Bacrot,E"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2712"]
+[BlackElo "2722"]
+[ECO "C18"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 O-O 8.Bd3 f5
+9.exf6 Rxf6 10.Bg5 e5 11.Qh4 e4 12.Bxf6 gxf6 13.Qxf6 exd3 14.Qg5+ Kh8 15.Qf6+ Kg8  1/2-1/2
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.20"]
+[Round "2"]
+[White "McShane,L"]
+[Black "Pelletier,Y"]
+[Result "0-1"]
+[WhiteElo "2643"]
+[BlackElo "2597"]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.f4 Nc6 8.Be3 Be7
+9.O-O O-O 10.a4 Re8 11.Kh1 Qc7 12.Bf3 Rb8 13.Qe1 e5 14.Nde2 Bf8 15.Qf2 b5
+16.axb5 axb5 17.Nd5 Nxd5 18.exd5 Nb4 19.fxe5 Rxe5 20.Ba7 Rb7 21.Bd4 Re8 22.Nc3 Bf5
+23.Bd1 Bg6 24.Qd2 Qc8 25.Rc1 Rbe7 26.Bg1 Re5 27.Nxb5 Nxd5 28.Bf3 Ne3 29.Bxe3 Rxe3
+30.h3 Qb8  0-1
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.20"]
+[Round "2"]
+[White "Ponomariov,R"]
+[Black "Sasikiran,K"]
+[Result "1-0"]
+[WhiteElo "2722"]
+[BlackElo "2666"]
+[ECO "C95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.a4 Bf8 14.Bd3 c6 15.b3 g6 16.Bf1 Qc7
+17.Bb2 Rac8 18.Qc2 Qb8 19.g3 Bg7 20.Rad1 Ba8 21.axb5 axb5 22.b4 c5 23.bxc5 exd4
+24.cxd4 dxc5 25.d5 c4 26.Bc3 Qc7 27.Rb1 Rb8 28.Qa2 Nxe4 29.Nxe4 Bxd5 30.Bxg7 Bxe4
+31.Rxe4 Rxe4 32.Bc3 Re6 33.Qd2 f6 34.Qd5 Qc6 35.Qxc6 Rxc6 36.Nd4 Rc5 37.Rxb5 Rbxb5
+38.Nxb5 Ne5 39.Nd6 Kg7 40.f4 Nd7 41.Nxc4 h5 42.Kf2 Rc6 43.Bd4 Nc5 44.Kf3 Ne6
+45.Bb2 Kf7 46.Ne3 Nc7 47.Bc4+ Kg7 48.Ke4 Ne8 49.Bd4 Rc7 50.Kd3 Rd7 51.Bb5 Rd8
+52.Bxe8 Rxe8 53.Nd5 Re6 54.Nxf6 Rxf6 55.g4 hxg4 56.hxg4 Kf7 57.Bxf6 Kxf6
+58.Kd4 Ke6 59.Kc5 Ke7 60.Kd5 Kd7 61.Ke5 Ke7 62.g5  1-0
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.20"]
+[Round "2"]
+[White "Morozevich,A"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2743"]
+[BlackElo "2712"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3 Be7 7.c3 O-O 8.Nbd2 d5
+9.O-O Bb7 10.Re1 dxe4 11.dxe4 Bc5 12.h3 Nh5 13.Bd5 Qf6 14.a4 Nf4 15.Nb3 Bb6
+16.Bxf4 Qxf4 17.Qe2 bxa4 18.Rxa4 Rfd8 19.Rc4 Rd6 20.Nc5 Bxc5 21.Rxc5 Rad8
+22.b4 Rg6 23.Qe3 Rgd6 24.Qxf4 exf4 25.Ra1 Kf8 26.c4 Rb8 27.Rb1 Ba8 28.e5 Rh6
+29.e6 Rb6 30.exf7 Rh5 31.Re1  1-0
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.21"]
+[Round "3"]
+[White "Bacrot,E"]
+[Black "McShane,L"]
+[Result "1-0"]
+[WhiteElo "2712"]
+[BlackElo "2643"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 O-O
+9.Be2 cxd4 10.cxd4 Qa5+ 11.Bd2 Qxa2 12.O-O Bg4 13.Bg5 h6 14.Be3 Nc6 15.d5 Rfd8
+16.Rxb7 e6 17.Rc7 Bxf3 18.Bxf3 Ne5 19.d6 Bf8 20.Bc5 Qa5 21.Be2 Rac8 22.Qa1 Qxa1
+23.Rxa1 Rxc7 24.dxc7 Rc8 25.Bxf8 Kxf8 26.Rc1 Ke7 27.Ba6 Kd7 28.Rd1+  1-0
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.21"]
+[Round "3"]
+[White "Sasikiran,K"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2666"]
+[BlackElo "2743"]
+[ECO "D18"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O Nbd7
+9.Qe2 Bg4 10.h3 Bxf3 11.Qxf3 O-O 12.Rd1 Rc8 13.e4 e5 14.Be3 Qa5 15.Ne2 Rfe8
+16.Ng3 exd4 17.Bxd4 Ne5 18.Bxe5 Rxe5 19.Qb3 Nxe4 20.Nxe4 Rxe4 21.Rd7 Rf8
+22.Rxf7 Rxf7 23.Bxf7+ Kh8 24.Qg3 Qd8 25.Qf3 Qe7 26.g3 Re2 27.Rd1 Rxb2 28.Qf5 Qf8
+29.Rd4 Be7 30.Rd7 Bf6 31.Bc4 g6 32.Qf4 Rb4 33.Rf7 Qxf7 34.Qb8+ Kg7 35.Bxf7 Kxf7
+36.Qxa7 Bd4 37.Qb8 c5 38.Qc7+ Kf6 39.Qxh7 Rxa4 40.Qxb7 Ra2 41.Qc6+ Kg7 42.h4 Rxf2
+43.Kh1 Rf6 44.Qe4 Rf2 45.g4 Kf7 46.Qc6 Kg7 47.Qd5 Kf8 48.Qd8+ Kg7 49.Qd5  1/2-1/2
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.21"]
+[Round "3"]
+[White "Pelletier,Y"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2597"]
+[BlackElo "2722"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.d3 d6 8.c3 O-O
+9.Be3 Bxe3 10.fxe3 Na5 11.Bc2 c5 12.Nbd2 c4 13.b4 cxd3 14.Bxd3 Nc6 15.a4 Rb8
+16.Qe2 Qb6 17.h3 Bd7 18.Rfb1 Nd8 19.axb5 axb5 20.c4 Ne6 21.Kh1 Nc7 22.Ra2 Rfc8
+23.Rc2 Ne6 24.Kh2 h6 25.Rbc1 bxc4 26.Rxc4 Rd8 27.Rb1 Bc6 28.b5 Bb7 29.Rcb4 Nc5
+30.Bc2 Rdc8 31.R1b2 Qd8 32.Qe1 Rc7 33.Qb1 d5 34.b6 Rcc8 35.Qe1 Ncd7 36.Qg3 dxe4
+37.Bxe4 Bxe4 38.Nxe4 Rxb6 39.Nxf6+ Rxf6 40.Nxe5 Nxe5  1/2-1/2
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.22"]
+[Round "4"]
+[White "Pelletier,Y"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2597"]
+[BlackElo "2712"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Bb7 10.d4 Re8 11.Ng5 Rf8 12.Nf3 Re8 13.Nbd2 Bf8 14.d5 Nb8 15.Nf1 Nbd7
+16.N3h2 Nc5 17.Bc2 c6 18.b4 Ncd7 19.dxc6 Bxc6 20.Bg5 h6 21.Bxf6 Nxf6 22.Ng4 Nxg4
+23.Qxg4 Bd7 24.Qf3 Rc8 25.Bb3 Be6 26.Bxe6 fxe6 27.a4 Qd7 28.axb5 axb5 29.Red1 Qc6
+30.Rd3 Ra8 31.Rad1 Ra7 32.Ng3 Rf7 33.Qg4 Rf4 34.Qg6 Rf6 35.Qg4 Rf4 36.Qg6 Rf6
+37.Qh5 Ra8 38.Qe2 Qc4 39.Nh5 Rf7 40.Qg4 Ra3 41.Qg6 Rxc3 42.Rxd6 Rc1 43.Kh2 Rxd1
+44.Rxd1 Bxb4 45.Rd7 Be7 46.Rxe7 Rxe7 47.Nf6+ Kf8 48.Nh7+ Kg8  1/2-1/2
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.22"]
+[Round "4"]
+[White "Ponomariov,R"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2722"]
+[BlackElo "2743"]
+[ECO "A21"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 a5 4.a3 Be7 5.g3 d6 6.Bg2 f5 7.e3 Nf6 8.Ne2 Nxd5
+9.cxd5 O-O 10.O-O Nd7 11.d4 Nf6 12.Nc3 Kh8 13.Bd2 Bd7 14.Rc1 Qe8 15.Qb3 b6
+16.a4 Rc8 17.Rc2 Qf7 18.Nb5 c5 19.dxe5 dxe5 20.Na7 Rb8 21.Bc3 e4 22.Bxf6 Bxf6
+23.Rd1 Rfd8 24.Nb5 Bc6 25.Rcd2 Bxb5 26.Qxb5 Rd6 27.Qe2 Be5 28.b3 h5 29.f3 exf3
+30.Qxf3 Rf8 31.Rf2 g6 32.Qe2 Rf6 33.Qc4 Qe7 34.Rdf1 Kg7 35.Rf3 Re8 36.R1f2 Rd6
+37.Rd2 Qg5 38.Rd3 Re7 39.Kf1 Qg4 40.Rf2 h4 41.Qxg4 fxg4 42.gxh4 Re8 43.Kg1 Rh8
+44.Bf1 Rxh4 45.Rdd2 Rd8 46.Rg2 Rdh8 47.d6 g3 48.d7 gxh2+ 49.Kh1 Rd8 50.Bb5 Rh3
+51.Rde2 Kf6 52.Ref2+ Kg7 53.Re2 Bc7 54.Rg4 Rf3 55.Re1 Bg3 56.Bc6 Bxe1 57.Bxf3 Rxd7
+58.Kxh2 Bf2 59.Be2 Bxe3 60.Re4 Bg5 61.Kg3 Rd4 62.Kf3 Bh4 63.Bc4 g5 64.Rxd4 cxd4
+65.Ke4 Bf2 66.Kf5 Be3 67.Be2 Kf7 68.Bh5+ Ke7 69.Ke5 Kd7 70.Kd5 Bf2 71.Be2 Kc7
+72.Bg4 d3 73.Bf5 d2 74.Bg4 Bg3 75.Bd1 Kd7 76.Bg4+ Ke7 77.Bd1 Kf6 78.Bg4 Bf2
+79.Ke4 Bc5 80.Kd3 Bb4 81.Ke4 Ke7 82.Kd5 Bc5 83.Ke5 Bg1 84.Kd5 Bh2 85.Bd1 Bc7
+86.Bg4 Bb8 87.Bd1  1/2-1/2
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.22"]
+[Round "4"]
+[White "Sasikiran,K"]
+[Black "McShane,L"]
+[Result "1-0"]
+[WhiteElo "2666"]
+[BlackElo "2643"]
+[ECO "D03"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.Nbd2 O-O 5.c3 d5 6.e3 Nbd7 7.Be2 b6 8.Bh4 Bb7
+9.O-O c5 10.a4 a6 11.b4 c4 12.b5 Ne8 13.Bg3 e6 14.Qc2 f5 15.Qb2 a5 16.Ne5 Bxe5
+17.Bxe5 Nxe5 18.dxe5 Qc7 19.f4 g5 20.Nf3 g4 21.Nd4 Ng7 22.h3 h5 23.Kf2 Kf7
+24.Rh1 Rh8 25.Rh2 Rag8 26.hxg4 hxg4 27.Rah1 Qd8 28.Rh6 Rxh6 29.Rxh6 Rh8 30.Rf6+ Kg8
+31.Qa3 Rh1 32.g3 Qe8 33.Bf1 Bc8 34.Bg2 Rd1 35.Qd6 Bd7 36.Rh6 Qf7 37.Bf1 Ra1
+38.Qxb6 Qe7 39.Qxa5 Be8 40.Be2 Qa3 41.Nc2 Qxa4 42.Qxa4 Rxa4 43.Nd4 Ra2 44.b6 Bd7
+45.e4 dxe4 46.Ke3 Rb2 47.Bxc4 Rxb6 48.Rf6 Rb2 49.Nxf5 Nxf5+ 50.Rxf5 Rc2 51.Rg5+ Kf7
+52.Rxg4 Rxc3+ 53.Kd4 Ra3 54.Kxe4 Ba4 55.Kd4 Bc2 56.Rg5 Rf3 57.Be2 Ra3 58.Bh5+ Kf8
+59.Bg6 Bd1 60.Bd3 Ra4+ 61.Ke3 Ra3 62.Kd2 Bf3 63.Bc4 Ke7 64.Rg7+ Kf8 65.Rg6 Bh5
+66.Rg5 Bf7 67.g4 Ra5 68.Kc3 Ra3+ 69.Kd4 Ra4 70.Kc5 Ra5+ 71.Kb4 Ra1 72.f5 Rb1+
+73.Kc5 Rc1 74.f6 Re1 75.Kd4 Rd1+ 76.Bd3 Ra1 77.Rg7 Ra4+ 78.Bc4 Ra1 79.g5 Rd1+
+80.Bd3  1-0
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.23"]
+[Round "5"]
+[White "McShane,L"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteElo "2643"]
+[BlackElo "2722"]
+[ECO "B54"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 e5 6.Nb3 a5 7.a4 Nc6 8.Bb5 Be7
+9.c4 O-O 10.Be3 Na7 11.Nc3 Be6 12.Qd3 Nh5 13.g3 f5 14.Nd2 fxe4 15.fxe4 Bg5
+16.O-O-O Bxe3 17.Qxe3 Nf6 18.Rhf1 Qc7 19.b3 Nc6 20.Nf3 Bh3 21.Rfe1 Bg4 22.Rd2 Nxe4
+23.Nxe4 Bxf3 24.Bxc6 bxc6 25.Nxd6 e4 26.c5 Rab8 27.Kb2 Kh8 28.Qc3 Qe7 29.Rd4 Qe5
+30.Nf7+ Rxf7 31.Rd8+ Rxd8 32.Qxe5 h6 33.Qc3 Rd3 34.Qxa5 Bd1 35.Qb4 e3 36.a5 e2
+37.a6 Rdd7 38.Qe4 Rde7 39.Qxc6 Rf1 40.a7 Rxe1 41.a8=Q+ Kh7 42.Qf8 Re5 43.Qfd6  1-0
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.23"]
+[Round "5"]
+[White "Bacrot,E"]
+[Black "Sasikiran,K"]
+[Result "1/2-1/2"]
+[WhiteElo "2712"]
+[BlackElo "2666"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Bd7 10.Rd1 Kc8 11.Ng5 Be8 12.b3 b6 13.Bb2 Be7 14.Nge4 Kb7 15.Rd3 Rd8
+16.Rad1 Kc8 17.Ne2 h5 18.g3 a5 19.c4 c5 20.N4c3 Rxd3 21.Rxd3 Bd7 22.Nd5 Bd8
+23.Nef4 h4 24.g4 Nd4 25.Bxd4 cxd4 26.Rxd4 Bxg4 27.Ng6  1/2-1/2
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.23"]
+[Round "5"]
+[White "Morozevich,A"]
+[Black "Pelletier,Y"]
+[Result "1/2-1/2"]
+[WhiteElo "2743"]
+[BlackElo "2597"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bd3 c5 7.O-O Nxe4 8.Bxe4 Nf6
+9.Bg5 cxd4 10.Nxd4 Be7 11.Bf3 O-O 12.c4 Qc7 13.Qc1 a6 14.Re1 e5 15.Nc2 Qxc4
+16.Rxe5 Be6 17.Ne3 Qxc1+ 18.Rxc1 Rac8 19.Rxc8 Rxc8 20.Bxb7 Rb8 21.Bxa6 Rxb2
+22.a4 h6 23.Bh4 Rb4 24.Bg3  1/2-1/2
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.25"]
+[Round "6"]
+[White "Pelletier,Y"]
+[Black "Sasikiran,K"]
+[Result "0-1"]
+[WhiteElo "2597"]
+[BlackElo "2666"]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Rd8 13.Nf1 cxd4 14.cxd4 exd4 15.Nxd4 d5
+16.e5 Ne4 17.f3 Bc5 18.Be3 Nc4 19.Nb3 d4 20.Bxd4 Rxd4 21.Nxd4 Nxb2 22.Qc1 Bxd4+
+23.Kh2 Nc5 24.Qf4 Bc3 25.Re3 Nbd3 26.Bxd3 Nxd3 27.Rxd3 Bxa1  0-1
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.25"]
+[Round "6"]
+[White "McShane,L"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2643"]
+[BlackElo "2743"]
+[ECO "C26"]
+
+1.e4 e5 2.Nc3 Nf6 3.g3 Bc5 4.Bg2 c6 5.d3 d5 6.Qe2 O-O 7.Nf3 Re8 8.O-O Nbd7
+9.h3 h6 10.Nh2 Nf8 11.Ng4 N8h7 12.Nxf6+ Nxf6 13.Kh2 Bd4 14.Nd1 Be6 15.Ne3 b5
+16.Bd2 Bb6 17.c3 Qd7 18.Rfd1 Rad8 19.Be1 a5 20.b3 Bxe3 21.exd5 Bxd5 22.Qxe3 Bxg2
+23.Kxg2 Nh7 24.a4 bxa4 25.Rxa4 Qd5+ 26.Kh2 Qxb3 27.Rda1 Qc2 28.Rxa5 Rxd3
+29.Qb6 Rdd8 30.Qxc6 Qf5 31.h4 Nf6 32.Kg2 Rd3 33.R1a4 Re6 34.Qa8+ Kh7 35.Rd4 Ra6
+36.Qxa6 Qf3+ 37.Kg1 exd4 38.cxd4 Ng4 39.Ra1 f5 40.Qd6 Qe2 41.Qf4 Rf3 42.Qd2 Qe4
+43.Ra2 Rd3 44.Qc1 f4 45.Rd2 Rb3 46.Qc2 Qxc2 47.Rxc2 Rb1 48.Re2 f3 49.Re4 h5
+50.Kf1 Rd1 51.Rf4 Kg6 52.d5 Ne5 53.Re4 Kf6 54.Re3 Kf5 55.d6 g6 56.d7 Rxd7
+57.Bc3 Rd1+ 58.Re1 Rxe1+ 59.Kxe1 Ke4 60.Kf1 Nd3 61.Ba5 Kd4 62.Bb6+ Kc3 63.Ba7 Kd2
+64.Bb6 Kd1 65.Ba7 Ne5 66.Bc5 Nc4 67.Bd4 Nd2+ 68.Kg1 Ke2 69.Ba7 Ne4 70.Bb6 Ke1
+71.Ba5+ Ke2 72.Bb6 g5 73.hxg5 Nxg5 74.Kh2 Kf1 75.g4 hxg4 76.Kg3 Ne4+ 77.Kxg4 Ke2
+78.Kf4 Nxf2 79.Ba7 Nd1 80.Bd4 Nc3 81.Ba7 Nb5 82.Bg1 Nc7 83.Ke4  1/2-1/2
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.25"]
+[Round "6"]
+[White "McShane,L"]
+[Black "Morozevich,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2643"]
+[BlackElo "2743"]
+[ECO "C26"]
+
+1.e4 e5 2.Nc3 Nf6 3.g3 Bc5 4.Bg2 c6 5.d3 d5 6.Qe2 O-O 7.Nf3 Re8 8.O-O Nbd7
+9.h3 h6 10.Nh2 Nf8 11.Ng4 N8h7 12.Nxf6+ Nxf6 13.Kh2 Bd4 14.Nd1 Be6 15.Ne3 b5
+16.Bd2 Bb6 17.c3 Qd7 18.Rfd1 Rad8 19.Be1 a5 20.b3 Bxe3 21.exd5 Bxd5 22.Qxe3 Bxg2
+23.Kxg2 Nh7 24.a4 bxa4 25.Rxa4 Qd5+ 26.Kh2 Qxb3 27.Rda1 Qc2 28.Rxa5 Rxd3
+29.Qb6 Rdd8 30.Qxc6 Qf5 31.h4 Nf6 32.Kg2 Rd3 33.R1a4 Re6 34.Qa8+ Kh7 35.Rd4 Ra6
+36.Qxa6 Qf3+ 37.Kg1 exd4 38.cxd4 Ng4 39.Ra1 f5 40.Qd6 Qe2 41.Qf4 Rf3 42.Qd2 Qe4
+43.Ra2 Rd3 44.Qc1 f4 45.Rd2 Rb3 46.Qc2 Qxc2 47.Rxc2 Rb1 48.Re2 f3 49.Re4 h5
+50.Kf1 Rd1 51.Rf4 Kg6 52.d5 Ne5 53.Re4 Kf6 54.Re3 Kf5 55.d6 g6 56.d7 Rxd7
+57.Bc3 Rd1+ 58.Re1 Rxe1+ 59.Kxe1 Nd3+ 60.Kf1 Ke4 61.Ba5 Kd4 62.Bb6+ Kc3 63.Ba7 Kd2
+64.Bb6 Kd1 65.Ba7 Ne5 66.Bc5 Nc4 67.Bd4 Nd2+ 68.Kg1 Ke2 69.Ba7 Ne4 70.Bb6 Ke1
+71.Ba5+ Ke2 72.Bb6 g5 73.hxg5 Nxg5 74.Kh2 Kf1 75.g4 hxg4 76.Kg3 Ne4+ 77.Kxg4 Ke2
+78.Kf4 Nxf2 79.Ba7 Nd1 80.Bd4 Nc3 81.Ba7 Nb5 82.Bg1 Nc7 83.Ke4  1/2-1/2
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.25"]
+[Round "6"]
+[White "Ponomariov,R"]
+[Black "Bacrot,E"]
+[Result "1-0"]
+[WhiteElo "2722"]
+[BlackElo "2712"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.a4 e6 6.g3 dxc4 7.Bg5 Nbd7 8.Bg2 h6
+9.Bxf6 Qxf6 10.a5 Bb4 11.O-O O-O 12.Qa4 Qe7 13.Rfd1 Rb8 14.Qa2 c5 15.d5 exd5
+16.Nxd5 Qxe2 17.Nxb4 cxb4 18.Rd2 Qe7 19.Qxc4 Nf6 20.Rd4 b5 21.Qxb4 Qxb4 22.Rxb4 Bb7
+23.Rd4 Rfd8 24.Rad1 Rxd4 25.Nxd4 Bxg2 26.Kxg2 Rd8 27.Kf3 Nd7 28.Ke2 Ne5 29.Nf5 Re8
+30.Kf1 Nc6 31.Rd6 Nxa5 32.Rxa6 Nc4 33.b4 Re5 34.Nd4 Rd5 35.Nc6 Kh7 36.Ra7 Rd6
+37.Ne7 Ne5 38.Rb7 Nf3 39.h4 Nd4 40.h5 Rd8 41.Kg2 Rd6 42.g4 Kh8 43.f4 g6 44.hxg6 fxg6
+45.Kg3 Re6 46.Rd7 Ne2+ 47.Kf3 Nd4+ 48.Rxd4 Rxe7 49.Rd6 Kg7 50.Rb6 Re1 51.Rxb5 Rf1+
+52.Ke4 Re1+ 53.Kd4 Rd1+ 54.Ke5 Re1+ 55.Kd6 Re4 56.g5 h5 57.Rb7+ Kg8 58.b5 h4
+59.Re7 Rxe7 60.Kxe7 h3 61.b6 h2 62.b7 h1=Q 63.b8=Q+ Kg7 64.Qf8+ Kh7 65.Qf7+ Kh8
+66.Kf8 Qa8+ 67.Qe8 Qb7  1-0
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.26"]
+[Round "7"]
+[White "Pelletier,Y"]
+[Black "McShane,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2597"]
+[BlackElo "2643"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Bxf6 gxf6 10.Nd5 f5 11.Bd3 Be6 12.O-O Bxd5 13.exd5 Ne7 14.c3 Bg7 15.Qh5 e4
+16.Bc2 Qc8 17.Rae1 O-O 18.Bb3 a5 19.Nxb5 a4 20.Bd1 Qc5 21.Be2 Nxd5 22.Qg5 Rab8
+23.c4 Nc7 24.Nxc7 Qxc7 25.Qxf5 Rfe8 26.b3 axb3 27.axb3 Rxb3 28.Bd1 Rc3 29.Rxe4 Rxe4
+30.Qxe4 Qxc4 31.Qxc4  1/2-1/2
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.26"]
+[Round "7"]
+[White "Sasikiran,K"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteElo "2666"]
+[BlackElo "2722"]
+[ECO "D43"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.Bg5 h6 6.Bh4 dxc4 7.e4 g5 8.Bg3 b5 9.Be2 Bb7
+10.Ne5 Bg7 11.f4 Nfd7 12.Nxf7 Kxf7 13.Bh5+ Ke7 14.e5 Qb6 15.fxg5 Kd8 16.Qg4 Bxe5
+17.dxe5 Qe3+ 18.Qe2 Qxe2+ 19.Bxe2 Na6 20.Ne4 Nac5 21.Nxc5 Nxc5 22.O-O-O+ Kc7
+23.Rhf1 hxg5 24.Rf7+ Kb6 25.Bf2 Rab8 26.b4 cxb3 27.axb3 a5 28.Rd2 Rhf8 29.Rf6 Rfd8
+30.Rc2 Rd5 31.Rxe6 Bc8 32.Re8 g4 33.h4  1-0
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.26"]
+[Round "7"]
+[White "Bacrot,E"]
+[Black "Morozevich,A"]
+[Result "0-1"]
+[WhiteElo "2712"]
+[BlackElo "2743"]
+[ECO "C61"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 exd4 5.O-O Bc5 6.d3 c6 7.Ba4 d6 8.Nd2 Ne7
+9.c3 Bb6 10.Qh5 dxc3 11.bxc3 O-O 12.d4 Be6 13.Nf3 f6 14.Bb3 Qd7 15.Re1 Rae8
+16.Ba3 Ng6 17.Nh4 Nxh4 18.Qxh4 Bxb3 19.axb3 Re6 20.Re3 Rfe8 21.Rae1 d5 22.h3 Bc7
+23.Qg4 h5 24.Qf3 dxe4 25.Rxe4 Rxe4 26.Rxe4 Rxe4 27.Qxe4 Kf7 28.Qe2 g6 29.c4 Bb6
+30.d5 cxd5 31.cxd5 Qe8 32.Qd1 Qe5 33.d6 Ke8 34.Bb4 a5 35.Ba3 Kd7 36.Qf3 Qa1+
+37.Kh2 Qxa3 38.Qxb7+ Ke6 39.Qe7+ Kd5 40.Qb7+ Ke6 41.Qe7+ Kf5 42.g4+ hxg4
+43.hxg4+ Kg5 44.f4+ Kxg4 45.Qe6+ Kf3  0-1
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.27"]
+[Round "8"]
+[White "Ponomariov,R"]
+[Black "Pelletier,Y"]
+[Result "0-1"]
+[WhiteElo "2722"]
+[BlackElo "2597"]
+[ECO "B48"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 Nf6 7.f4 Bb4 8.Nb5 Qa5
+9.Bd2 a6 10.e5 axb5 11.exf6 Bxc3 12.bxc3 gxf6 13.Qg4 b4 14.Qg7 Rf8 15.Qxf6 bxc3
+16.Bxc3 Qc5 17.Bd3 b6 18.Bxh7 Ra4 19.O-O-O Nb4 20.Bb2 Bb7 21.Rhe1 Nxa2+ 22.Kb1 Bd5
+23.Rxd5 Qxd5 24.c3 Qd2 25.Qe5 f5 26.Bg6+ Kd8 27.Qe3 Qxe3 28.Rxe3 Rh8 29.Rh3 Rxh3
+30.gxh3 Rxf4 31.Bh5 Rh4 32.Bd1 Rxh3 33.Kxa2 f4 34.Bg4 Rh4 35.Bd1 Rxh2 36.Kb3 e5
+37.Bf3 Rh3 38.Bg2 Rg3 39.Bf1 f3 40.c4 Rg1  0-1
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.27"]
+[Round "8"]
+[White "Morozevich,A"]
+[Black "Sasikiran,K"]
+[Result "1-0"]
+[WhiteElo "2743"]
+[BlackElo "2666"]
+[ECO "C95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.a4 Bf8 14.Bd3 c6 15.b3 g6 16.Bb2 Qb6
+17.c4 Nh5 18.b4 Bg7 19.c5 Qc7 20.cxd6 Qxd6 21.dxe5 Qxb4 22.Ba3 Qc3 23.Bd6 Nxe5
+24.Ra3 Qb2 25.Rb3 Qa2 26.Nxe5 Bxe5 27.Bxe5 Rxe5 28.Nc4 Re7 29.Ra3 bxc4 30.Rxa2 Rd8
+31.Rd2 Red7 32.Qf3 Rxd3 33.Rxd3 Rxd3 34.Re3 Rd7 35.Qe2  1-0
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.27"]
+[Round "8"]
+[White "McShane,L"]
+[Black "Bacrot,E"]
+[Result "0-1"]
+[WhiteElo "2643"]
+[BlackElo "2712"]
+[ECO "C85"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6 7.d3 Nd7 8.Nbd2 O-O
+9.Nc4 f6 10.Nh4 Nc5 11.Nf5 Bxf5 12.exf5 Qd7 13.Qf3 Qd5 14.Qg4 Rad8 15.Re1 Rfe8
+16.a4 Bf8 17.b3 b5 18.axb5 cxb5 19.Ne3 Qd4 20.Ra2 Qxg4 21.Nxg4 e4 22.d4 Rxd4
+23.Bb2 Rd6 24.Rea1 Ra8 25.Ne3 Nb7 26.c4 bxc4 27.Nxc4 Rd3 28.g4 Rxb3 29.Nd2 Rb6
+30.Nxe4 Nc5 31.Ng3 Nb3 32.Rd1 Rd6 33.Re1 Rd2 34.Nf1 Rd3 35.Kg2 a5 36.Re4 Nd2
+37.Re3 Rxe3 38.Nxe3 Nb3 39.Ra4 Bb4 40.h4 Rd8 41.Nc4 h6 42.Ra2 Nd2 43.Ne3 c5
+44.Bc1 Nb3 45.Bb2 Rd2 46.Nc4 Re2 47.Kf1 Re4 48.Ne3 c4 49.Nd5 Re1+ 50.Kg2 Re2
+51.Kf3 Nd4+  0-1
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.28"]
+[Round "9"]
+[White "Sasikiran,K"]
+[Black "Bacrot,E"]
+[Result "1/2-1/2"]
+[WhiteElo "2666"]
+[BlackElo "2712"]
+[ECO "D11"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.e3 a6 5.b3 Bf5 6.Bd3 Bxd3 7.Qxd3 e6 8.Nbd2 Nbd7
+9.O-O Be7 10.Bb2 c5 11.cxd5 Nxd5 12.Ne4 cxd4 13.Qxd4 N7f6 14.Nc5 O-O 15.Rfc1 Qb6
+16.Nd3  1/2-1/2
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.28"]
+[Round "9"]
+[White "Ponomariov,R"]
+[Black "McShane,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2722"]
+[BlackElo "2643"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Be3 c5 8.Nf3 Bg4
+9.Rc1 O-O 10.Be2 Qa5 11.Qd2 Rd8 12.d5 e6 13.O-O exd5 14.exd5 Nd7 15.c4 Qxd2
+16.Bxd2 Nf6 17.h3 Bf5 18.Be3 Rac8 19.Rfe1 Rd6 20.g4 Bd7 21.Bf4 Ra6 22.Ne5 Ba4
+23.Rb1 Rb6 24.Rxb6 axb6 25.Bd1 Bxd1 26.Rxd1 Ne4 27.d6 Rd8 28.d7 Kf8 29.f3 Nc3
+30.Re1 h6 31.h4 Kg8 32.g5 h5 33.Re3 Nxa2 34.Ra3 Nb4 35.Ra7 Kf8 36.Rxb7 Ke7
+37.Rxb6 Bxe5 38.Bxe5 Kxd7 39.Kf1 Nc6 40.Bg3 Ra8 41.Rb5 Ra5 42.Bf2 Rxb5 43.cxb5 Nd4
+44.Bxd4 cxd4 45.Ke2 Kd6 46.Kd3 Kc5 47.f4 Kxb5 48.Kxd4 Kc6 49.Ke5 Kd7 50.Kf6 Ke8
+51.Kg7 Ke7 52.Kg8 Ke8 53.Kg7  1/2-1/2
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.28"]
+[Round "9"]
+[White "Pelletier,Y"]
+[Black "Morozevich,A"]
+[Result "0-1"]
+[WhiteElo "2597"]
+[BlackElo "2743"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bd3 c5 7.Nxf6+ Nxf6 8.dxc5 Bxc5
+9.Qe2 O-O 10.Bg5 h6 11.h4 Qa5+ 12.Bd2 Qb6 13.O-O-O e5 14.Nxe5 Re8 15.Nc4 Qa6
+16.Qf3 Bg4 17.Qg3 Qxa2 18.Bc3 Ne4 19.Bxe4 Rxe4 20.Nd2 Rd4 21.Bxd4 Bxd4 22.Qb3 Qa1+
+23.Nb1 Bxd1 24.Rxd1 Bxf2 25.Rd7 Rf8 26.h5 Qa5 27.Nc3 Qxh5 28.Qxb7 Re8 29.Kb1 Bb6
+30.Ka2 Qf5 31.Kb3 Re3 32.Qd5 Re5 33.Qd6 Rc5 34.Qe7 Rc8 35.Qd6 Re8 36.Qd5 Qg6
+37.Ka2 Re3 38.Qa8+ Kh7 39.Qd5 Re6 40.Qd2  0-1
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.29"]
+[Round "10"]
+[White "Bacrot,E"]
+[Black "Pelletier,Y"]
+[Result "1/2-1/2"]
+[WhiteElo "2712"]
+[BlackElo "2597"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bg5 h6 7.Nxf6+ Nxf6 8.Bh4 c5
+9.Bc4 a6 10.O-O Be7 11.dxc5 Qxd1 12.Raxd1 Bxc5 13.Ne5 Be7 14.Rfe1 b5 15.Bb3 g5
+16.Bg3 Nh5 17.Nc6 Nxg3 18.Nxe7 Kxe7 19.hxg3 Bb7 20.c3  1/2-1/2
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.29"]
+[Round "10"]
+[White "McShane,L"]
+[Black "Sasikiran,K"]
+[Result "1/2-1/2"]
+[WhiteElo "2643"]
+[BlackElo "2666"]
+[ECO "C96"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Nd7 12.dxc5 dxc5 13.Nbd2 Re8 14.Nf1 Nc4 15.b3 Nd6
+16.Ne3 Bb7 17.Nd5 Nf6 18.Nxe7+ Qxe7 19.Nd2 Qc7 20.Qe2 Rac8 21.Bb2 Nd7 22.Nf1 c4
+23.Rad1 Nc5 24.Ng3 a5 25.Ba3 Re6 26.Qe3 cxb3 27.axb3 h6 28.Re2 a4 29.bxa4 Nxa4
+30.Bb3 Nc4 31.Qc1 Kh7 32.Bb4 Nc5 33.Bxc4 bxc4 34.Bxc5 Qxc5 35.Rd7 Rc7 36.Red2 Bc8
+37.R7d5 Qa7 38.Qd1 Ra6 39.Kh2 Re7 40.Rd8 Qc7 41.Nf1 Qc6 42.Rf8 Re8 43.Rxf7 Be6
+44.Rf3 Qxe4 45.Re2 Qg6 46.Ng3 Ra5 47.Qe1 Qg5 48.Ne4 Qe7 49.Qb1 Kh8 50.Ng3 Bg8
+51.Qb6 Rd5 52.Qg6 Qd7 53.Rfe3 Re6 54.Qg4 Qc7 55.Rf3 Re8 56.Rfe3 Rd3 57.Qh5 Rf8
+58.Qg4 Re8 59.Qh5 Rf8 60.Ne4 Rf4 61.Qe8 Rd8 62.Qa4 Rd3 63.Qb5 Bd5 64.Ng3 e4
+65.Ra2 Bf7 66.Qb2 Qd6 67.Qe2 Bg6 68.Kg1 Rf8 69.Qg4 Kh7 70.Nf1 Qe5 71.Ra3 Qf6
+72.Qe2 Qc6 73.Ra1 Rfd8 74.Re1 Kh8 75.Ng3 Re8 76.Qb2 Qd5 77.Ne2 Rf8 78.Nd4 Kh7
+79.R3e2 Rf6 80.Qc1 Qa5 81.Re3 Rb6 82.Kh2 Ra6 83.Ne2 Qe5+ 84.Kg1 Ra2 85.Ng3 Qf6
+86.Rf1 Qb6 87.Rfe1  1/2-1/2
+
+[Event "It"]
+[Site "Biel SUI"]
+[Date "2004.07.29"]
+[Round "10"]
+[White "Morozevich,A"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2743"]
+[BlackElo "2722"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nbd2 Nc5 10.c3 d4 11.Ng5 Qxg5 12.Qf3 O-O-O 13.Bxe6+ fxe6 14.Qxc6 Qxe5 15.b4 Qd5
+16.Qxd5 exd5 17.bxc5 dxc3 18.Nb3 d4 19.Ba3 g6 20.Bb4 Bg7 21.a4 d3 22.axb5 d2
+23.bxa6 c2 24.Nxd2 Bxa1 25.Rxa1 Rhe8 26.Rc1 Re4 27.Bc3 Rc4 28.Rxc2 Rd3 29.Rb2 Rcxc3
+30.a7 Ra3 31.Rb8+ Kd7 32.a8=Q Rxa8 33.Rxa8 Rxd2 34.g4 Kc6 35.Kg2 Kxc5 36.Kg3 Rd7
+37.f4 Kd4 38.Ra1 Rf7 39.Rd1+ Ke3 40.Re1+ Kd4 41.Rd1+  1/2-1/2

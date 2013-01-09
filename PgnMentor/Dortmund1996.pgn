@@ -1,0 +1,825 @@
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Kramnik, Vladimir"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2665"]
+[ECO "E97"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.b4 Nh5 10.Re1 a5 11.Ba3 Nf4 12.Bf1 Bg4 13.h3 Bxf3 14.Qxf3 axb4 15.Bxb4 c5
+16.dxc6 Nxc6 17.a3 Ne6 18.Nb5 Ned4 19.Qd3 Nxb4 20.axb4 Qb6 21.Nxd4 exd4 22.Qd2 Ra7
+23.Rec1 Rfa8 24.Rxa7  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Huebner, Robert"]
+[Black "Polgar, Judit"]
+[Result "1-0"]
+[WhiteElo "2595"]
+[BlackElo "2665"]
+[ECO "D77"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d5 6.c4 Nc6 7.Ne5 dxc4 8.Nxc6 bxc6
+9.Nc3 Rb8 10.Bxc6 Bb7 11.Bf3 Bxf3 12.exf3 Nd5 13.Qe2 Nb4 14.Qxc4 Nc2 15.Rb1 Rb4
+16.Qd5 Nxd4 17.Be3 e6 18.Qxd8 Rxd8 19.Kg2 Rdb8 20.Rfd1 h5 21.Ne4 Nf5 22.Bxa7 Ra8
+23.Bc5 Rxb2 24.Rxb2 Bxb2 25.Rd2 Ba3 26.Bxa3 Rxa3 27.Rc2 c6 28.f4 Kf8 29.Rxc6 Rxa2
+30.Rc8+ Kg7 31.Rc7 Kg8 32.Rd7 Ne3+ 33.Kf3 Nd5 34.Ng5 Nf6 35.Rxf7 Ng4 36.h3 Rxf2+
+37.Ke4 Nh6 38.Ra7 Re2+ 39.Kf3 Re1 40.Kf2 Rb1 41.Nxe6 Nf7 42.g4 hxg4 43.hxg4 Rb6
+44.Re7 Rb3 45.Ke2 Ra3 46.g5 Rb3 47.Ra7 Rb6 48.Nc5 Nd6 49.Kd3 Rb1 50.Ra6 Rd1+
+51.Ke2 Rd4 52.Kf3 Kf7 53.Ra7+ Ke8 54.Nd7 Nf7 55.Nf6+ Kf8 56.Nd7+ Ke8 57.Ne5 Nxe5+
+58.fxe5 Kf8 59.Ra6 Kf7 60.Rf6+ Kg7 61.e6 Rd1 62.Rf7+ Kg8 63.Ke4 Rg1 64.Rf3 Re1+
+65.Kd5 Kg7 66.Rf7+ Kg8 67.Kd6  1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Leko, Peter"]
+[Black "Adams, Michael"]
+[Result "0-1"]
+[WhiteElo "2630"]
+[BlackElo "2685"]
+[ECO "B17"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2 h6
+9.Ne4 Nxe4 10.Qxe4 Qc7 11.Qg4 Kf8 12.O-O c5 13.Re1 b6 14.b3 Nf6 15.Qh4 Bb7
+16.Ne5 cxd4 17.Qxd4 Qc5 18.Bb2 Qxd4 19.Bxd4 Rd8 20.Bb2 Ke7 21.Rad1 Bc5 22.Kf1 Nd5
+23.a3 Nf4 24.f3 f6 25.Ng6+ Nxg6 26.Bxg6 a5 27.Bd3 g5 28.Bc4 e5 29.Bc1 h5
+30.Be3 Bxe3 31.Rxd8 Rxd8 32.Rxe3 Rd1+ 33.Re1 Rd2 34.Re2 Rd4 35.Kf2 g4 36.Bd3 h4
+37.fxg4 Rf4+ 38.Kg1 Rxg4 39.c3 Bd5 40.b4 Ke6 41.Rf2 Rg5 42.c4 Bc6 43.Bf1 axb4
+44.axb4 f5 45.Ra2 f4 46.Ra6 Bxg2 47.Rxb6+ Kf5 48.Rb8 h3 49.c5 e4 50.Rf8+ Ke5
+51.c6 e3 52.Bxg2 Rxg2+ 53.Kf1 Rc2 54.b5 Ke4 55.Ke1 Kf3 56.Kd1 Rc5 57.Re8 Kf2  0-1
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Anand, Viswanathan"]
+[Black "Lobron, Eric"]
+[Result "1-0"]
+[WhiteElo "2735"]
+[BlackElo "2585"]
+[ECO "B33"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 Nf6 4.d4 cxd4 5.Nxd4 e6 6.Ndb5 d6 7.Bf4 e5 8.Bg5 a6
+9.Na3 b5 10.Bxf6 gxf6 11.Nd5 Bg7 12.Bd3 Ne7 13.Nxe7 Qxe7 14.O-O f5 15.exf5 Bb7
+16.Re1 Qg5 17.g3 O-O 18.c4 Rae8 19.Be4 Bxe4 20.Rxe4 Qxf5 21.Qd5 b4 22.Nc2 a5
+23.Rd1 Qg6 24.Ne3 Kh8 25.Rg4 Qh5 26.Rh4 Qg5 27.Qf3 f5 28.Rxd6 e4 29.Qd1 f4
+30.Rg4 Qe5 31.gxf4 Rxf4 32.Rd2 Rxg4+ 33.Nxg4 Qg5 34.Kh1 h5 35.Rd5 Qh4 36.Nf6  1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Shirov, Alexei"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2750"]
+[ECO "E94"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.Be3 c6 8.O-O exd4
+9.Nxd4 Re8 10.Qc2 Qe7 11.f3 d5 12.cxd5 cxd5 13.Bd3 Na6 14.a3 Bd7 15.Rfe1 dxe4
+16.Nxe4 Nxe4 17.Bxe4 Rac8 18.Qf2 Nc5 19.Bc2 Qf6 20.Rad1 b6 21.Qd2 Ne6 22.Be4 Rcd8
+23.Qc1 Ba4 24.b3 Bd7 25.Nc6 Bxc6 26.Qxc6 Nc5 27.Bxc5 Qxc6 28.Bxc6 Rxe1+ 29.Rxe1 bxc5
+30.Re8+  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Polgar, Judit"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[WhiteElo "2665"]
+[BlackElo "2765"]
+[ECO "B57"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Qb6 7.Nb3 e6 8.Bf4 Ne5
+9.Be2 Bd7 10.Be3 Qc7 11.Nb5 Bxb5 12.Bxb5+ Nc6 13.Qf3 a6 14.Bd3 d5 15.exd5 Nxd5
+16.Be4 Ne5 17.Qe2 Nxe3 18.Qxe3 Bd6 19.Qc3 Qxc3+ 20.bxc3 Rb8 21.g3 Ke7 22.f4 Nc4
+23.a4 Rhc8 24.Nd4 Bc7 25.Nb3 Bb6 26.Bd3 Nd6 27.Kd2 Rc7 28.a5 Ba7 29.Rhe1 g6
+30.Nd4 Rbc8 31.Ne2 Rc5 32.Reb1 Rh5 33.h4 Rcc5 34.Rb4 Rxa5 35.Rab1 Bc5 36.Rxb7+ Nxb7
+37.Rxb7+ Kf8 38.Nd4 Ra1 39.Nf3 Be7 40.Ne5 Rg1 41.Rb8+ Kg7 42.Rb7 Rxe5 43.fxe5 Bf8
+44.c4 Rxg3 45.Rc7 Bb4+ 46.Ke2 Rg1 47.Ke3 Bc3 48.c5 Ra1 49.Rc6 Ra4 50.Bxa6 Rxh4
+51.Rc8 Bxe5 52.c4 Rh3+ 53.Ke4 Bb2 54.Rc7 Kf8 55.Rc8+ Ke7 56.Rc7+ Kf8 57.Rc8+ Kg7
+58.Rc7 Rh5 59.Rb7 Rh4+ 60.Kd3 Rh3+ 61.Kc2 Be5 62.Bb5 g5 63.Be8 Rf3 64.Kd2 g4
+65.Bc6 Rf4 66.Ke2 g3  0-1
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Anand, Viswanathan"]
+[Black "Leko, Peter"]
+[Result "1-0"]
+[WhiteElo "2735"]
+[BlackElo "2630"]
+[ECO "B47"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 a6 7.O-O b5 8.Nxc6 dxc6
+9.Bg5 Bb7 10.Qd2 Nf6 11.Rad1 b4 12.Bxf6 gxf6 13.Na4 c5 14.Bf3 Rg8 15.Qe3 Rg5
+16.b3 Bd6 17.g3 Be5 18.Bg2 Bd4 19.Rxd4 cxd4 20.Qxd4 Qe7 21.h4 Ra5 22.Qd2 Rd8
+23.Qh6 Bc6 24.Nb6 Rxa2 25.Nc4 Bb5 26.e5 f5 27.Rc1 Qc5 28.Nd6+ Rxd6 29.exd6 Qxd6
+30.Bf3 Bc6 31.Qf4 Qd7 32.Qb8+ Ke7 33.Bxc6 Qxc6 34.Rd1 Qe8 35.Qxb4+ Kf6 36.Qd2 Qc8
+37.Qg5+ Ke5 38.Qg7+ f6 39.Qh6  1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Gelfand, Boris"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[WhiteElo "2665"]
+[BlackElo "2685"]
+[ECO "D17"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.a4 Bf5 6.Ne5 e6 7.f3 c5 8.e4 cxd4
+9.exf5 Bb4 10.Bxc4 Qd6 11.Bb5+ Nc6 12.Bf4 O-O 13.Nxc6 Qxf4 14.Qxd4 Bxc3+
+15.bxc3 Qg5 16.f4 Qxg2 17.O-O-O bxc6 18.Rhg1 Qxh2 19.Bxc6 Rac8 20.Qxf6 Qxf4+
+21.Kc2 g6 22.Rdf1 Qh2+ 23.Rg2 Qh3 24.fxg6 fxg6 25.Rxg6+ hxg6 26.Qxg6+ Kh8
+27.Rh1 Rf2+ 28.Kb3 Rb8+ 29.Ka3  1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Lobron, Eric"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[WhiteElo "2585"]
+[BlackElo "2750"]
+[ECO "A70"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.d5 d6 5.Nc3 exd5 6.cxd5 g6 7.h3 Bg7 8.e4 O-O
+9.Bd3 b5 10.Nxb5 Re8 11.O-O Nxe4 12.Re1 a6 13.Qa4 Nd7 14.Rxe4 Rxe4 15.Qxe4 Nf6
+16.Qh4 axb5 17.Bxb5 Qb6 18.a4 Bb7 19.Bh6 Bxd5 20.Nd2 Qb7 21.Bxg7 Kxg7 22.Qg3 Nh5
+23.Qc3+ Kg8 24.f3 Qe7 25.Ne4 Bxe4 26.fxe4 Qxe4 27.Re1 Qb7 28.Rf1 Ng7 29.Qf6 Nf5
+30.Re1 Qd5 31.b3 Qd2 32.Rf1 Qe3+ 33.Kh2 Qg3+ 34.Kg1 Qxb3 35.Rxf5 gxf5 36.Qg5+ Kf8
+37.Qh6+ Ke7 38.Qh4+ f6 39.Qxh7+ Qf7 40.Qxf5 Kd8 41.Bc6 Ra7 42.Bd5 Qe7 43.Qb1 Kc8
+44.Qf5+ Kc7 45.Qb1 Qe3+ 46.Kh1 Qd2 47.Qb3 Qc1+  0-1
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Adams, Michael"]
+[Black "Huebner, Robert"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2595"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Bb4 4.Nxe5 O-O 5.Be2 Re8 6.Nd3 Bxc3 7.dxc3 Nxe4 8.O-O d5
+9.Nf4 c6 10.c4 d4 11.Bf3 Ng5 12.Bg4 Ne6 13.Re1 Na6 14.Bxe6 Bxe6 15.Nxe6 Rxe6
+16.Rxe6 fxe6 17.Bd2 Qf6 18.Qe2 Qf5 19.c3 d3 20.Qe3 Nc5 21.Re1 Rd8 22.f3 b6
+23.b3 h6 24.Kf1 Rd6 25.Qf4 Rd7 26.Qe5 Qxe5 27.Rxe5 Kf7 28.Ke1 Kf6 29.Re3 e5
+30.Bc1 e4 31.Kd2 exf3 32.gxf3 Kf5 33.b4 Nb7 34.Rxd3 Nd6 35.Kc2 Ke6 36.Rd4 c5
+37.bxc5 bxc5 38.Rg4 Rf7 39.Rg6+ Kd7 40.Be3 Rxf3 41.Bxc5 Nxc4 42.Bxa7 Na3+
+43.Kb3 Nb5 44.Rxg7+ Kc6 45.Bb8 Rxc3+ 46.Kb4 Rc2 47.Rg6+ Kb7 48.Bg3 Nd4 49.Rg4 Nf3
+50.Kb3 Rg2 51.Rg7+ Ka8 52.Rg8+  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Shirov, Alexei"]
+[Black "Lobron, Eric"]
+[Result "0-1"]
+[WhiteElo "2685"]
+[BlackElo "2585"]
+[ECO "B66"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O h6
+9.Be3 Be7 10.f4 Nxd4 11.Bxd4 b5 12.Bxf6 Bxf6 13.Qxd6 Qxd6 14.Rxd6 Bb7 15.e5 Be7
+16.Rd1 g5 17.Bd3 Bxg2 18.Rhg1 Bc6 19.f5 O-O-O 20.Rgf1 g4 21.f6 Bc5 22.Rde1 Bd4
+23.Be4 Be8 24.Bg2 Rg8 25.h4 Kc7 26.Ne4 Bc6 27.Re2 Bxe5 28.Nc5 Bxg2 29.Rxg2 Kb6
+30.Nd3 Bc7 31.Kd2 Rd5 32.Ke3 Rf5 33.Rc1 Rxf6 34.c4 Rf3+ 35.Ke2 f5 36.cxb5 axb5
+37.Nb4 Kb7 38.Rc5 Bb6 39.Re5 f4 40.Kd1 Rf1+  0-1
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Huebner, Robert"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2735"]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.O-O Be7 8.f4 O-O
+9.Be3 Nc6 10.Qe1 Nxd4 11.Bxd4 b5 12.a3 Bb7 13.Bd3 Nd7 14.Rd1 Qc7 15.Kh1 e5
+16.Be3 Rac8 17.Qg3 Bf6 18.f5 Kh8 19.Rf2 Be7 20.Rfd2 Qa5 21.Qe1 h6 22.h3 Nf6
+23.Bf2 Rxc3 24.bxc3 Qxa3 25.c4 bxc4 26.Bxc4 Nxe4 27.Rd3 Qa4 28.Rb3 Qxc4 29.Rxb7 Qxc2
+30.Bg1 Bg5 31.Rdb1 Bf4 32.R1b3 d5 33.Rf3 Rc8 34.Rxf7 Ng5 35.Rxf4 exf4 36.Re7 f3  0-1
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Topalov, Veselin"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2665"]
+[ECO "D43"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.Bg5 h6 6.Bh4 dxc4 7.e4 g5 8.Bg3 b5 9.Be2 Bb7
+10.O-O Nbd7 11.a4 b4 12.e5 Nh5 13.Ne4 c5 14.Nfd2 Nxg3 15.fxg3 Be7 16.Nd6+ Bxd6
+17.exd6 c3 18.bxc3 bxc3 19.Nc4 O-O 20.Rc1 f5 21.dxc5 Rc8 22.Bf3 Ba6 23.c6 Bxc4
+24.c7 Qf6 25.Re1 Nc5 26.Re3 Ne4 27.h3 Bd5 28.Bxe4 fxe4 29.Rexc3 Rf7 30.Kh2 Qe5
+31.Rc6 e3 32.Qe2 Bxc6 33.Rxc6 Qd5 34.Qa6 Rff8 35.Rc3 Kg7 36.Rd3 Qe4 37.Qxc8 Rxc8
+38.d7 Rxc7 39.d8=Q Rf7 40.Qd4+ Qxd4 41.Rxd4 Rb7 42.Re4 Kf6 43.Rxe3 Rb4 44.Rf3+ Ke7
+45.Rc3 Rxa4 46.Rc7+ Kd6 47.Rh7 a5 48.Rxh6 Rc4 49.Rh8 a4 50.h4 g4 51.h5 Ke7
+52.h6 Kf7 53.Re8 Rc5 54.Ra8 Rh5+ 55.Kg1 Rxh6 56.Rxa4 Rg6 57.Kf2  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Kramnik, Vladimir"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2685"]
+[ECO "A17"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 c5 5.g3 Nc6 6.Bg2 O-O 7.O-O d6 8.d3 h6
+9.e3 e5 10.Nd2 Bxc3 11.Qxc3 d5 12.cxd5 Nxd5 13.Qxc5 Ndb4 14.b3 Nxd3 15.Qc3 Nxc1
+16.Raxc1 Be6 17.Ne4 Qe7 18.Qc5 Rad8 19.Qxe7 Nxe7 20.Nc5 Bd5 21.Bxd5 Rxd5
+22.Nxb7 Rd2 23.a4 Rb8 24.Rc7 Nd5 25.Rd7 Nxe3 26.Rxd2 Nxf1 27.Rd7 Nd2 28.b4 Nc4
+29.a5 Kf8 30.Rc7 a6 31.b5 axb5 32.a6 Ra8 33.Nc5 Ke8 34.Rb7 Nd6 35.Rb6 Ke7
+36.Kg2 f5 37.h4 h5 38.Kf1 Rc8 39.Nb7 Rc1+ 40.Kg2 Nc8 41.Rxb5 Kf6 42.Na5 e4
+43.Nb3 Rc4 44.Kf1 Ra4 45.Ra5 Rb4 46.Nc5 Na7 47.Ke2 g5 48.Ke3 gxh4 49.gxh4 Rb2
+50.Nd7+ Ke6 51.Nf8+ Kf6 52.Nh7+ Kg6 53.Ng5 Kf6 54.Rd5 Rb6 55.Kf4 Rxa6 56.Rxf5+ Kg6
+57.Nxe4 Nc8 58.Rg5+ Kh6 59.Re5 Kg6 60.Re8 Rc6 61.Ke5 Nb6 62.Re7 Nc4+ 63.Kd5 Rc8
+64.Re6+ Kg7 65.Ng3 Kf7 66.Rh6 Nd2 67.Rxh5 Ra8 68.Rf5+ Kg7 69.Rf4 Ra5+ 70.Ke6 Ra6+
+71.Kf5 Rc6 72.Kg5 Nc4 73.Nf5+ Kh7 74.Ne7 Rc5+ 75.Rf5 Ne5 76.Kh5 Kg7 77.Rg5+ Kf6
+78.Ng8+ Ke6 79.f4 Nd3 80.Rxc5 Nxc5 81.Kg6 Nd3 82.f5+ Ke5 83.f6 Nf4+ 84.Kf7 Kf5
+85.Ne7+ Kg4 86.Ng6 Nh5 87.Ke7  1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Leko, Peter"]
+[Black "Lobron, Eric"]
+[Result "1/2-1/2"]
+[WhiteElo "2630"]
+[BlackElo "2585"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 d6 7.Bf4 e5 8.Bg5 a6
+9.Na3 b5 10.Bxf6 gxf6 11.Nd5 Bg7 12.c3 f5 13.exf5 Bxf5 14.Nc2 O-O 15.Nce3 Be6
+16.Bd3 f5 17.Bc2 f4 18.Qh5 Rf7 19.Bxh7+ Kf8 20.Bf5 Qe8 21.Bxe6 Qxe6 22.Qg4 Qh6
+23.Nf5 Qe6 24.Nfe3 Qh6 25.Nf5 Qe6 26.Nfe3  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Shirov, Alexei"]
+[Black "Polgar, Judit"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2665"]
+[ECO "B81"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.g4 e5 8.Nf5 g6
+9.g5 gxf5 10.exf5 d5 11.gxf6 d4 12.Bc4 Qc7 13.Qd3 dxe3 14.O-O-O exf2 15.Bxf7+ Kxf7
+16.Qd5+ Ke8 17.f7+ Ke7 18.Qf3 Bh6+ 19.Kb1 Kf8 20.Qxf2 Nd7 21.Ne4 Bg7 22.Rhg1 Nf6
+23.Qg3 Qxf7 24.Qa3+ Qe7 25.Qxe7+ Kxe7 26.Rxg7+ Kf8 27.Rc7 Ne8 28.Rd8 Rg8
+29.Ng3 Rg4 30.Rxh7 Rd4 31.Rh8+ Kf7 32.Rhxe8 Bd7 33.Kc1 Bxe8 34.Rxa8 Rh4 35.Rd8 Rxh2
+36.Rd5 Kf6 37.Rd6+ Kg5 38.Re6 Rh8 39.f6 Bc6 40.Rxe5+ Kxf6 41.Re3 Re8 42.Kd2 Rxe3
+43.Kxe3 Ke5 44.Ne2 Kd5 45.Nd4 Be8 46.Kd3 Bg6+ 47.Kc3 Kc5 48.Ne6+ Kd6 49.Nf4 Bf5
+50.Nd3 Kd5 51.Kb4 Bxd3 52.cxd3 Kd4 53.Ka5 Kxd3 54.Kb6 Kc2 55.a4 Kb3 56.a5 Ka4  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Polgar, Judit"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[WhiteElo "2665"]
+[BlackElo "2750"]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7 5.Bb5 Nd4 6.Bd3 d6 7.Nxd4 cxd4 8.Ne2 Nf6
+9.O-O O-O 10.Qe1 Nd7 11.Bc4 d5 12.exd5 Nb6 13.d3 Nxc4 14.dxc4 b5 15.Qf2 bxc4
+16.Nxd4 Qxd5 17.Be3 a5 18.c3 Rd8 19.Qc2 e6 20.Rad1 Qh5 21.Nc6 Rxd1 22.Rxd1 Bb7
+23.Ne7+ Kh8 24.Rd7 Qb5 25.Qd2 Bd5 26.Rc7 Be4 27.Nc8 Qd5 28.Nd6 Kg8 29.Nxc4 Rb8
+30.Qxd5 exd5 31.Ba7 Ra8 32.Nd6 Bb1 33.Nxf7 Bxa2 34.Ng5 Re8 35.Bd4 Bh6 36.Nxh7  1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Lobron, Eric"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[WhiteElo "2585"]
+[BlackElo "2665"]
+[ECO "E94"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.O-O Na6 8.Re1 c6
+9.Bf1 exd4 10.Nxd4 Ng4 11.Re2 Qb6 12.Nf3 Be6 13.h3 Ne5 14.Nxe5 Bxe5 15.Rc2 f5
+16.Be3 Qc7 17.exf5 Bxf5 18.Rd2 Nc5 19.Bh6 Rf7 20.Rc1 Qe7 21.g3 g5 22.Qh5 Ne6
+23.Bd3 Kh8 24.Re1 Rg8 25.Kh1 Bg6 26.Qg4 Bxd3 27.Rxd3 Rf6 28.Bxg5 Rxg5 29.Qh4 Qf8
+30.Ne4 Rh6 31.Nxg5 Rxh4 32.Nxe6 Qxf2 33.Rxe5 Rxh3+  0-1
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Anand, Viswanathan"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2735"]
+[BlackElo "2765"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 e5 6.Bxc6 dxc6 7.d3 Qe7 8.Nbd2 Nf6
+9.Nc4 Nd7 10.a4 Nb6 11.Na5 O-O 12.b3 Nd7 13.Nc4 Rd8 14.Ba3 Nf8 15.Qd2 Bg4
+16.Qe3 b6  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Adams, Michael"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2685"]
+[ECO "B08"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 c6 4.Nf3 d6 5.a4 Nf6 6.Be2 O-O 7.O-O Na6 8.e5 Ne8
+9.Bxa6 bxa6 10.Re1 Nc7 11.Ne4 dxe5 12.Nxe5 Bxe5 13.dxe5 Qxd1 14.Rxd1 Bf5
+15.f3 Ne6 16.b3 Rfd8 17.Ba3 Kf8 18.Kf2 Bxe4 19.fxe4 Ke8 20.Ke3 Rab8 21.Bb2 h5
+22.h4 Rxd1 23.Rxd1 Rd8 24.Rf1 c5 25.Bc3 Nd4 26.Rf2 Ne6  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Leko, Peter"]
+[Black "Huebner, Robert"]
+[Result "1/2-1/2"]
+[WhiteElo "2630"]
+[BlackElo "2595"]
+[ECO "C75"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 Nf6 7.Nbd2 g6 8.O-O Bg7
+9.Bxc6 Bxc6 10.dxe5 dxe5 11.Nxe5 Bxe4 12.Nxe4 Qxd1 13.Nxf6+ Bxf6 14.Rxd1 Bxe5
+15.Bh6 Bd6 16.Bg7 Rg8 17.Bf6 Kd7 18.Be5 Rge8 19.Bxd6 cxd6 20.Rd2 Rac8 21.Rad1 Re6
+22.Rd4 Rc5 23.g3 b5 24.Kg2 h5 25.R1d2 Rce5 26.h4 Kc6 27.a4 a5 28.axb5+ Rxb5
+29.b4 Kd7 30.Kf3 axb4 31.cxb4 Ke7 32.Ra2 Ree5 33.Ra6 Re1 34.Raxd6 Rxb4 35.Rd7+ Ke8
+36.Rd8+ Ke7 37.Rxb4 Kxd8 38.Re4 Ra1 39.Kf4 Rf1 40.f3 Kd7 41.Re2 f6 42.Re4 Rh1
+43.Re2 Rf1 44.Ra2 Ke7 45.Ra7+ Kf8 46.Ra6 Kf7 47.Ra7+  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Gelfand, Boris"]
+[Black "Polgar, Judit"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2665"]
+[ECO "E67"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O Nbd7 7.Nc3 e5 8.h3 a6
+9.Be3 exd4 10.Nxd4 Re8 11.Qd2 Nc5 12.Bg5 Qd7 13.Bxf6 Bxf6 14.Rad1 Bg7 15.e3 Rb8
+16.Nde2 Qd8 17.b4 Nd7 18.Qc2 a5 19.a3 axb4 20.axb4 Bf8 21.Ne4 Nf6 22.Nxf6+ Qxf6
+23.Nc3 Qe5 24.Rd5 Qe7 25.Ra5 c6 26.b5  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Shirov, Alexei"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2735"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.Be3 Ne7 7.c4 dxc4 8.Nc3 Nbc6
+9.dxc5 Nd5 10.Nxd5 Qxd5 11.O-O Bd3 12.Rc1 Rd8 13.Bxd3 cxd3 14.Qa4 Be7 15.Rfd1 O-O
+16.Rc3 Rd7 17.Qb5 Rfd8 18.Rcxd3 Qxd3 19.Rxd3 Rxd3 20.g3 R8d7 21.Kg2 h6 22.Qc4 a6
+23.h4 R7d5 24.b4 Ra3 25.Qc2 Rdd3 26.Qb2 a5 27.bxa5 Nxa5 28.Qb5 Bf8 29.Nd4 Nc6
+30.Nxc6 bxc6 31.Qxc6 Rxe3  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Topalov, Veselin"]
+[Black "Adams, Michael"]
+[Result "0-1"]
+[WhiteElo "2750"]
+[BlackElo "2685"]
+[ECO "A41"]
+
+1.Nf3 d6 2.d4 Bg4 3.c4 Nd7 4.e4 Bxf3 5.Qxf3 g6 6.Nc3 Bg7 7.Qd1 c5 8.d5 Bxc3+
+9.bxc3 Ngf6 10.f3 Qa5 11.Qb3 O-O-O 12.Be2 Rdg8 13.Rb1 Qc7 14.Be3 Kb8 15.Qc2 g5
+16.O-O Rg6 17.Rb2 Ka8 18.Rfb1 Rb8 19.Kh1 h5 20.Qd2 g4 21.Qc2 gxf3 22.gxf3 Ne5
+23.f4 Qc8 24.Bf1 Nxc4 25.Bxc4 Qh3 26.Rf1 Qxe3 27.Qd3 Qxe4+ 28.Qxe4 Nxe4 29.Bd3 f5
+30.Bxe4 fxe4 31.Re2 a6 32.Rxe4 Rg7 33.a4 Ka7 34.Rfe1 Rf8 35.a5 Rff7 36.R1e3 Rg4
+37.Rxe7 Rxe7 38.Rxe7 Rxf4 39.Re6 Rc4 40.Rxd6 Rxc3 41.Rh6 Rd3 42.Rxh5 c4 43.Rh4 c3
+44.Rc4 Rxd5 45.Rxc3 Rxa5 46.h4 Rh5 47.Rh3 b5 48.Kg2 Kb6 49.Kf3 a5 50.Ke2 b4
+51.Kd2 Kb5 52.Kc2 a4 53.Kb2 Rf5 54.h5 a3+ 55.Kb1 Rf1+ 56.Ka2 Ka4 57.Rh4 Rf2+
+58.Ka1 a2 59.h6 Ka3  0-1
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Huebner, Robert"]
+[Black "Lobron, Eric"]
+[Result "1/2-1/2"]
+[WhiteElo "2595"]
+[BlackElo "2585"]
+[ECO "A43"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 b5 4.Bg5 d6 5.Bxf6 exf6 6.e4 a6 7.a4 b4 8.Nbd2 f5
+9.exf5 Bxf5 10.a5 Ra7 11.Be2 g6 12.O-O Bg7 13.Nc4 O-O 14.Re1 Re7 15.Bf1 Rxe1
+16.Nxe1 Qc7 17.Qe2 Rd8 18.Nf3 Bf6 19.Re1 Bd7 20.Nfd2 Bb5 21.Qf3 Bg7 22.h4 h5
+23.c3 bxc3 24.bxc3 Rf8 25.Nb6 Qd8 26.Bxb5 axb5 27.Ne4 Na6 28.g3 Nc7 29.Re3 c4
+30.Qf4 Be5 31.Qh6 Bg7 32.Qg5 Na8 33.Qxd8 Rxd8 34.Nxa8 Rxa8 35.Nxd6 Rxa5 36.Re8+ Bf8
+37.Rb8 b4 38.Nxc4 Ra1+ 39.Kg2 bxc3 40.Ne3 Rd1 41.Rc8 Rd3 42.Kf3 Kg7 43.Ke4 Rd2
+44.Rxc3  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Kramnik, Vladimir"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2630"]
+[ECO "D85"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.d4 c5 8.Rb1 O-O
+9.Be2 cxd4 10.cxd4 Qa5+ 11.Bd2 Qxa2 12.O-O a5 13.Qc1 Bg4 14.Bc4 Qa4 15.Bb5 Qa2
+16.Bc4 Qa4 17.Rxb7 Bxf3 18.gxf3 Nc6 19.Bb5 Qxb5 20.Rxb5 Nxd4 21.Rxa5 Ne2+
+22.Kg2 Nxc1 23.Rxc1  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Anand, Viswanathan"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[WhiteElo "2735"]
+[BlackElo "2750"]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.d4 cxd4 5.Nxd4 Nc6 6.Be2 d6 7.O-O Nf6 8.Be3 Be7
+9.f4 O-O 10.a4 Qc7 11.Kh1 Re8 12.Bf3 Na5 13.g4 Nd7 14.Bg2 Bf8 15.Qe1 b6 16.Rd1 Bb7
+17.Qh4 Nc6 18.Nde2 Nb4 19.Rd2 Qd8 20.g5 f6 21.Nd4 fxg5 22.fxg5 Nc6 23.Rdf2 Rc8
+24.Nce2 Nc5 25.Nxc6 Bxc6 26.Nd4 Bd7 27.e5 dxe5 28.Nf3 Bc6 29.Nxe5 Bxg2+ 30.Rxg2 Rc7
+31.Ng4 Kh8 32.Qh3 Qd5 33.g6 h6 34.Bxh6 gxh6 35.g7+ Bxg7 36.Nxh6 Qxg2+ 37.Qxg2 Bxh6
+38.Qg6  1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Huebner, Robert"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2765"]
+[ECO "B66"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O h6
+9.Be3 Be7 10.f4 Nxd4 11.Bxd4 b5 12.Bd3 b4 13.Ne2 Qa5 14.Kb1 e5 15.Be3 O-O
+16.Rhe1 Rb8 17.Nc1 Rd8 18.Ba7 Rb7 19.Bg1 Bg4 20.Nb3 Qa4 21.Rc1 exf4 22.Qxf4 Be6
+23.Bd4 Rb5 24.Qd2 Ng4 25.c4 bxc3 26.bxc3 Rxb3+ 27.axb3 Bxb3  0-1
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Lobron, Eric"]
+[Black "Polgar, Judit"]
+[Result "0-1"]
+[WhiteElo "2585"]
+[BlackElo "2665"]
+[ECO "E97"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.b4 Nh5 10.Re1 a5 11.bxa5 Rxa5 12.Nd2 Nf4 13.Bf1 c5 14.Rb1 f5 15.g3 Nh5
+16.exf5 Nxf5 17.Nde4 Nd4 18.Bg2 Nf6 19.Bg5 Ra3 20.Qc1 Ra6 21.a4 Qd7 22.Bxf6 Bxf6
+23.Nb5 Nf5 24.Qd1 Qd8 25.Rb2 Be7 26.h4 Bd7 27.Nbc3 Qc8 28.Qd3 Qc7 29.Reb1 Bc8
+30.Qd1 h6 31.Qd3 Bd8 32.Qd1 Qe7 33.Ne2 Ba5 34.Nc1 Rf7 35.Nd3 Nd4 36.f4 exf4
+37.Nxf4 Rxf4 38.gxf4 Qxh4 39.Rxb7 Bxb7 40.Rxb7 Ra8 41.Qg4 Qxg4 42.Nf6+ Kf8
+43.Nxg4 Bd2 44.Be4 Ne2+ 45.Kf2 Nxf4 46.Bc2 Re8 47.Nxh6 Re2+ 48.Kf1 Rh2 49.a5 Be3
+50.Be4 Ra2 51.Bxg6 Rf2+ 52.Ke1 Ng2+ 53.Kd1 Bxh6  0-1
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Leko, Peter"]
+[Black "Shirov, Alexei"]
+[Result "0-1"]
+[WhiteElo "2630"]
+[BlackElo "2685"]
+[ECO "B08"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 c6 4.Nf3 d6 5.a4 Nf6 6.Be2 O-O 7.O-O Nbd7 8.Bf4 Re8
+9.Re1 Qc7 10.e5 Nh5 11.exd6 exd6 12.Be3 d5 13.Qd2 Nf8 14.Ne5 Nf6 15.Bf4 Ne6
+16.Nxg6 Qb6 17.Nh4 Nxf4 18.Qxf4 Qxb2 19.Qd2 Ne4 20.Nxe4 dxe4 21.Rad1 Qa2
+22.Qf4 Qe6 23.c4 Bd7 24.h3 Qf6 25.Qg3 c5 26.dxc5 Bxa4 27.Rd6 Qc3 28.Rf1 Qxg3
+29.fxg3 Be5 30.Nf5 Bxd6 31.cxd6 Bd7 32.Nh6+ Kg7 33.Rxf7+ Kxh6 34.Rxd7 Red8
+35.Rxb7 Rxd6 36.Bg4 Rf6 37.c5 a5 38.c6 Rxc6 39.Bf5 Rca6 40.Rxh7+ Kg5 41.Bxe4 R8a7
+42.Rh8 a4 43.Rc8 a3 44.Rc1 a2 45.Ra1 Rd6 46.Kh2 Rd2 47.h4+ Kg4 48.Bf3+ Kf5
+49.Kh3 Ra5 50.Bg4+ Ke5 51.Bh5 Kf6 52.Bf3 Ra4 53.Bc6 Rb4 54.Bd5 Rxd5 55.Rxa2 Rd6
+56.Rf2+ Kg6 57.Ra2 Rb3 58.Ra8 Kh7 59.Ra7+ Kh6 60.Rf7 Rdd3  0-1
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Adams, Michael"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2665"]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 d6 3.f4 g6 4.Nf3 Bg7 5.Bb5+ Bd7 6.Bxd7+ Qxd7 7.O-O Nc6 8.d3 Nh6
+9.Kh1 f5 10.exf5 Nxf5 11.Ne4 O-O 12.c3 e6 13.Bd2 b6 14.Qa4 d5 15.Neg5 h6
+16.Nh3 d4 17.Rae1 dxc3 18.bxc3 Qd5 19.Nf2 Rfe8 20.Re2 Re7  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Topalov, Veselin"]
+[Black "Leko, Peter"]
+[Result "1-0"]
+[WhiteElo "2750"]
+[BlackElo "2630"]
+[ECO "B89"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 e6 7.Be3 Be7 8.Qe2 O-O
+9.O-O-O Bd7 10.f4 Rc8 11.e5 Ne8 12.Nxc6 Bxc6 13.f5 exf5 14.e6 Kh8 15.exf7 Nf6
+16.Be6 Bd7 17.Bb3 f4 18.Bxf4 Bg4 19.Qe3 Bxd1 20.Rxd1 a6 21.Be6 Rc5 22.g4 b5
+23.h4 b4 24.Ne2 Qc7 25.g5 Rxc2+ 26.Kb1 Nh5 27.Bh2 g6 28.Bb3 Rc5 29.Nf4 Re5
+30.Qd4 Nxf4 31.Bxf4 Qc5 32.Bxe5+ dxe5 33.Qe4 Kg7 34.Bd5 Qd6 35.Bb3 Qc5 36.Rc1 Qd4
+37.Qb7 Bd8 38.Rd1 Qb6 39.Qe4 Bc7 40.Bc4 a5 41.Rd7 a4 42.Qf3 Bd8 43.Qg3 Bc7
+44.b3 a3 45.Qf3 Bd8 46.Kc2 Kh8 47.Kd3 Kg7 48.Ke2 Kh8 49.Qd5 Bc7 50.Rd8 Bxd8
+51.Qxe5+ Bf6 52.Qxf6+ Qxf6 53.gxf6 h5 54.Kf3 Kh7 55.Kf4 Kh6 56.Ke5 g5 57.Ke6 Rb8
+58.Bb5 Rh8 59.Ke7 Kg6 60.Bd3+  1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Shirov, Alexei"]
+[Black "Huebner, Robert"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2595"]
+[ECO "C73"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Bxc6+ bxc6 6.d4 f6 7.Nc3 Ne7 8.Be3 Ng6
+9.h4 h5 10.Qe2 Bg4 11.O-O-O Be7 12.Qc4 Qd7 13.Rdg1 a5 14.Nd2 Rb8 15.d5 cxd5
+16.exd5 Qc8 17.f3 Bd7 18.Qd3 f5 19.Nc4 Nxh4 20.Nxa5 Bf6 21.Nc6 Ra8 22.f4 Ng6
+23.fxe5 dxe5 24.Qc4 e4 25.Bd4 Bxd4 26.Nxd4 Ne5 27.Qc5 Kf7 28.Rf1 Rh6 29.Nxe4 Rxa2
+30.Nc3 Ra1+ 31.Kd2 Rxf1 32.Rxf1 Kg8 33.Re1 Nf7 34.Ncb5 Bxb5 35.Nxb5 Qd8 36.Nxc7 Qg5+
+37.Kd1 Qxg2 38.Ne6 Rf6 39.Rg1 Qf3+ 40.Kc1 Kh7 41.Rxg7+ Kh6 42.Qg1  1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Kramnik, Vladimir"]
+[Black "Lobron, Eric"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2585"]
+[ECO "A17"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.a3 Bxc3 6.Qxc3 b6 7.b4 Na6 8.e3 Qe7
+9.b5 Nc7 10.Be2 Bb7 11.O-O O-O 12.Bb2 d6 13.a4 a5 14.Rae1 Rae8 15.d4 Ne4
+16.Qc1 f5 17.Nd2 Ng5 18.f4 Ne4 19.Bf3 Nxd2 20.Qxd2 Bxf3 21.Rxf3 Rd8 22.Qc2 Rf7
+23.e4 Qh4 24.Re2 fxe4 25.Qxe4 h6 26.dxc5 d5 27.cxd5 Nxd5 28.g3 Qh5 29.cxb6 Nxb6
+30.Kg2 Rd1 31.Qxe6 Qc5 32.Qe8+ Rf8 33.Qg6 Rd7 34.Ba3 Qc4 35.Rc2  1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Polgar, Judit"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[WhiteElo "2665"]
+[BlackElo "2685"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 h6 10.Nc3 Re8 11.a3 Bf8 12.Nd5 Na5 13.Ba2 Bxd5 14.exd5 d6 15.b4 Nb7
+16.c4 Qd7 17.Be3 Nd8 18.Rc1 c6 19.Nd2 cxd5 20.cxd5 Nh7 21.Bb6 Rc8 22.Rxc8 Qxc8
+23.Qc1 Qb7 24.Qc7 Qxc7 25.Bxc7 Nb7 26.Rc1 Rc8 27.Rc6 Nd8 28.Bxd8 Rxd8 29.Rxa6 Rc8
+30.Rc6 Ra8 31.Nb1 Nf6 32.Kf1 Be7 33.Ke2 e4 34.Bb3 exd3+ 35.Kxd3 Nd7 36.f4 g5
+37.Rc7 Rd8 38.Nc3 gxf4 39.Nxb5 Ne5+ 40.Ke4 Re8 41.Ba4  1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Gelfand, Boris"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2735"]
+[ECO "E14"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 b6 5.a3 Bxd2+ 6.Qxd2 Bb7 7.e3 O-O 8.Be2 d6
+9.O-O Nbd7 10.b4 Ne4 11.Qc2 c5 12.Nd2 Nxd2 13.Qxd2 Qg5 14.f3 Rfd8 15.Rd1 d5
+16.Qb2 cxb4 17.Qxb4 Ba6 18.e4 Qg6 19.Qa4 Bxc4 20.Bxc4 dxc4 21.Qxc4 Nf8 22.Be3 f5
+23.exf5  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Anand, Viswanathan"]
+[Black "Polgar, Judit"]
+[Result "1-0"]
+[WhiteElo "2735"]
+[BlackElo "2665"]
+[ECO "B84"]
+
+1.e4 c5 2.Nc3 d6 3.Nf3 a6 4.d4 cxd4 5.Nxd4 Nf6 6.Be2 e6 7.O-O Nbd7 8.f4 b5
+9.Bf3 Bb7 10.e5 Bxf3 11.Nxf3 dxe5 12.fxe5 Ng4 13.Qe2 b4 14.Na4 Rc8 15.Bf4 Qa5
+16.b3 Qb5 17.Rae1 h5 18.Qd2 Nc5 19.Nb2 Rd8 20.Qe2 Qxe2 21.Rxe2 f5 22.exf6 gxf6
+23.Bd2 a5 24.Nc4 e5 25.h3 Nh6 26.Nfxe5 fxe5 27.Rxe5+ Kd7 28.Rd5+ Kc8 29.Rxf8 Rdxf8
+30.Rxc5+ Kb8 31.Rxa5 h4 32.Rb5+ Kc7 33.Bxb4 Re8 34.Bd6+ Kd7 35.Rb7+ Ke6 36.Be5  1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Leko, Peter"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[WhiteElo "2630"]
+[BlackElo "2665"]
+[ECO "B81"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.g4 h6 8.f4 Nc6
+9.h3 Qc7 10.Qe2 b5 11.Nxc6 Qxc6 12.Bg2 Bb7 13.Bd4 Be7 14.a3 Rc8 15.O-O-O Qc4
+16.Qd2 b4 17.axb4 Qxb4 18.Kb1 a5 19.Rhe1 O-O 20.Na2 Qxd2 21.Rxd2 Nd7 22.Nc3 Bc6
+23.Bf1 Rb8 24.Bc4 Rb4 25.b3 Rfb8 26.Ka2 Rxc4 27.bxc4 Rb4 28.e5 dxe5 29.fxe5 Rxc4
+30.Nd1 Bd5 31.Kb1 Rb4+ 32.Nb2 Nc5 33.Ka1 Ne4 34.Rd3 Ng5 35.Bc3 Rb8 36.Ree3 a4
+37.Bd4 a3 38.Na4 Ne4 39.Nb6 Bc6 40.Ka2 Bg5 41.Rxa3 Bxe3 42.Rxe3 Rd8 43.c3 Kh7
+44.Kb3 f5 45.exf6 gxf6 46.Nc4 Bd5 47.Kb4 e5 48.Ba7 Rd7 49.Bb6 Rb7 50.Ka5 Rb8
+51.Nb2 Ra8+ 52.Kb4 Ra2 53.Re2 Ra6 54.Be3 Ra8 55.c4 Bc6 56.Bb6 Ra1 57.Be3 Kg6
+58.Nd3 h5 59.Re1 Rxe1 60.Nxe1 hxg4 61.hxg4 Bd7 62.Nd3 Bxg4 63.c5 Bd7 64.Kc4 Be6+
+65.Kb5 Nc3+ 66.Kc6 Nd5 67.Kd6 Kf5 68.Bd2 e4 69.Nb4 e3 70.Be1 Nxb4 71.Bxb4 Bc4
+72.Bc3 Kg5 73.c6 f5 74.Ke5 Ba6 75.Bd4 e2 76.Bc3 Kg4 77.Be1 Bc8 78.Kd4 Kf3
+79.c7 Kg2 80.Ke3 Kf1 81.Bh4 e1=Q+  0-1
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Kramnik, Vladimir"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2685"]
+[ECO "D17"]
+
+1.Nf3 d5 2.d4 c6 3.c4 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6 7.f3 Bb4 8.e4 Bxe4
+9.fxe4 Nxe4 10.Bd2 Qxd4 11.Nxe4 Qxe4+ 12.Qe2 Bxd2+ 13.Kxd2 Qd5+ 14.Kc2 Na6
+15.Nxc4 O-O-O 16.Qe3 Nc5 17.Be2 Qxg2 18.Rhg1 Qxh2 19.Rxg7 Rd4 20.Qxd4 Qxe2+
+21.Nd2 Rd8 22.Qxc5 Rxd2+ 23.Kb3 Rxb2+ 24.Ka3 Rd2 25.Rg3 Qe4 26.Rb3 b6 27.Qf8+ Kb7
+28.Qxf7+ Ka6 29.Qf3 Qxf3 30.Rxf3 Ka5 31.Rf4 Rd3+ 32.Kb2 Rh3 33.Re1 Rh2+ 34.Kb3 Rh3+
+35.Kc2 Rh2+ 36.Kd3 Rh6 37.Rfe4 c5 38.Rxe6 Rh3+ 39.R1e3 Rh1 40.R3e4 Rh3+ 41.Kc4 Rg3
+42.Rh6 a6 43.Rxh7 Rg5 44.Rb7 Rh5 45.Re6 Rh4+ 46.Kd5 Rb4 47.Rc6 Rd4+ 48.Ke5 Rb4
+49.Rb8  1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Huebner, Robert"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteElo "2595"]
+[BlackElo "2750"]
+[ECO "D73"]
+
+1.c4 g6 2.d4 Bg7 3.Nc3 Nf6 4.Nf3 O-O 5.g3 d5 6.Bg2 dxc4 7.Qa4 Nfd7 8.Qxc4 Nb6
+9.Qd3 Nc6 10.Bf4 Nxd4 11.Nxd4 e5 12.Ndb5 Qxd3 13.exd3 exf4 14.Nxc7 Rb8 15.O-O fxg3
+16.hxg3 Rd8 17.Rfe1 Bf5 18.Be4 Bxe4 19.dxe4 Bxc3 20.bxc3 Rbc8 21.Nb5 a6 22.Nd4 Rxc3
+23.Nb3 Nc4 24.Red1 Rxd1+ 25.Rxd1 a5 26.Rd8+ Kg7 27.Rc8 a4 28.Nd4 Kf6 29.Rc5 g5
+30.e5+ Kg6 31.Rc8 g4 32.Rg8+ Kh5 33.Rc8 a3 34.Kh2 Rc1 35.Rc7 Kg6 36.Rc8 h5
+37.Rg8+ Kh7 38.Rc8 Rc3 39.Kg1 b5 40.Nxb5 Rc1+ 41.Kh2 Rc2 42.Kg1 Rc1+ 43.Kh2 Rc2
+44.Kg1 Ne3 45.Rd8 Rc1+ 46.Kh2 Rc2 47.Kg1 Nf5 48.Nxa3 Rxa2 49.Nb5 h4 50.Nd6 Ra1+
+51.Kh2 hxg3+ 52.fxg3 Ra2+ 53.Kg1 Nxg3 54.Nxf7 Nf5 55.e6 Ra1+ 56.Kg2 Ra2+
+57.Kg1 g3 58.Ng5+ Kg7 59.Ne4 Re2  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Lobron, Eric"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2685"]
+[ECO "D05"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 c5 4.Bd3 d5 5.b3 cxd4 6.exd4 Bb4+ 7.c3 Be7 8.O-O O-O
+9.Nbd2 b6 10.Qe2 a5 11.a4 Ba6 12.Bb5 Bb7 13.Bb2 Nc6 14.Rfe1 Rc8 15.Rad1 Qc7
+16.Bd3 Rfe8 17.Bb1 g6 18.Ne5 Bf8 19.f4 Bg7 20.Qf2 Ne7 21.g4 Nc6 22.Qh4 Nd7
+23.Re3 Qd8 24.g5 h5 25.Nxg6 fxg6 26.Bxg6 Ne7 27.Bxe8 Qxe8 28.Rxe6 Nf8 29.Rxb6 Rc7
+30.Nf3 Neg6 31.Qg3 Qe3+ 32.Qf2 Qxf4 33.Rf1 Bc8 34.Qg3 Qe3+ 35.Qf2 Qf4 36.Qg3 Qe3+  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Adams, Michael"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2735"]
+[ECO "B50"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Be2 g6 5.O-O Bg7 6.Bb5+ Bd7 7.Bxd7+ Qxd7 8.Re1 O-O
+9.d4 Na6 10.d5 c4 11.Nbd2 Nc5 12.Nxc4 Ncxe4 13.a4 Nc5 14.Ne3 Qd8 15.Ra3 Nfd7
+16.a5 Ne5 17.Nxe5 dxe5 18.b4 Nd7 19.c4 f5 20.Bb2 b6 21.Qa1 Rc8 22.Qa2 Rf7
+23.axb6 axb6 24.Ra7 e4 25.Bxg7 Rxg7 26.Rd1 Rf7 27.h3 Ne5 28.Ra1 Qd6 29.Qa6 Rcf8
+30.Rb7 f4 31.Rxb6 Qd7 32.Nf1 Qf5 33.Re6 Qg5 34.Kh1 f3 35.g3 Qh5 36.h4 Qf5
+37.Kh2 Ng4+ 38.Kg1 Rf6 39.Rxf6 Rxf6 40.Qa8+ Kg7 41.Qa7 e3 42.Nxe3 Nxe3 43.Qxe7+ Rf7
+44.Qxe3 Qh3 45.Qe5+ Kh6 46.Qg5+  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Polgar, Judit"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2630"]
+[ECO "B48"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Bd3 b5 8.O-O Bb7
+9.Nxc6 Qxc6 10.Re1 Nf6 11.Bd4 Be7 12.Qf3 b4 13.Nd1 d6 14.b3 O-O 15.Bb2 Nd7
+16.Qh3 Ne5 17.Ne3 Ng6 18.Rad1 Rfe8 19.Nc4 a5 20.Qg4 Qc5 21.Bf1 d5 22.exd5 Bxd5
+23.a4 bxa3 24.Bxa3 Qc7 25.Bxe7 Nxe7 26.Ne5 Ng6 27.Nxg6 hxg6 28.Bd3 Rab8 29.Qg5 Bc6
+30.h4 a4 31.bxa4 Bxa4 32.Re4 Bxc2 33.Rc1 Rb1 34.Ree1 Bxd3 35.Rxc7 Rxe1+ 36.Kh2 Rb1
+37.f3 Rb5 38.Qc1 Rd5 39.Qc6 Rf8 40.Re7 Bb5 41.Qb6 Bf1 42.Kg1 Bc4 43.Qb4 Rd1+
+44.Kh2 Bd5 45.Qg4 Rc1 46.h5 gxh5 47.Qxh5 Rcc8 48.Qg5 Bc6 49.Kg3 Rfe8 50.Ra7 Ra8
+51.Rc7  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Topalov, Veselin"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2765"]
+[ECO "D44"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5 hxg5
+10.Bxg5 Nbd7 11.exf6 Bb7 12.g3 c5 13.d5 Qb6 14.Bg2 O-O-O 15.O-O b4 16.Rb1 Qa6
+17.dxe6 Bxg2 18.e7 Bxf1 19.Qd5 Bxe7 20.fxe7 Bd3 21.Ne4 Bxb1 22.Nd6+ Kc7 23.Bf4 Kb6
+24.Nxc4+ Kb5 25.Nd6+ Kb6 26.exd8=Q+ Rxd8 27.Nc4+ Kb5 28.Nd6+ Kb6 29.Nc4+ Kb5  1/2-1/2
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Gelfand, Boris"]
+[Black "Huebner, Robert"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2595"]
+[ECO "D31"]
+
+1.d4 d5 2.Nf3 c6 3.c4 dxc4 4.e3 b5 5.a4 e6 6.Nc3 Qb6 7.axb5 cxb5 8.Ne5 Bb7
+9.b3 Nc6 10.bxc4 Nxe5 11.c5 Bxc5 12.dxc5 Qxc5 13.Nxb5 Rd8 14.Ba3 Rxd1+ 15.Rxd1 Qc2
+16.Nd6+ Ke7 17.Nc4+ Ke8 18.Nd6+ Ke7 19.Ne4+  1/2-1/2

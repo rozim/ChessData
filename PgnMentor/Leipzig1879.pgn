@@ -1,0 +1,712 @@
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "1"]
+[White "Englisch, Berthold"]
+[Black "Von Minckwitz, Johannes"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 a6 6.Be2 Bb4 7.O-O Nge7 8.Bg5 O-O
+9.Nf3 f6 10.Bd2 f5 11.Bd3 d5 12.exd5 exd5 13.Ne2 Bd6 14.Bf4 Ng6 15.Qd2 Be6
+16.Rfe1 Qc7 17.Bxd6 Qxd6 18.Ned4 Bd7 19.Rad1 Rf6 20.Bf1 Nge5 21.Nxe5 Nxe5
+22.Nb3 Bc6 23.Qf4 Re8 24.Re3 g5 25.Qxg5+ Rg6 26.Qf4 Kh8 27.Rg3 Reg8 28.Qd4 Qf6
+29.f4 Nd7 30.Rxg6 hxg6 31.Re1 Kh7 32.Qxf6 Nxf6 33.Re6 Kg7 34.Nd4 Kf7 35.Re3 Re8
+36.Rxe8 Bxe8 37.Bd3 Ke7 38.g3 Kd6 39.h3 Bd7 40.Kf2 Be8 41.Ke3 Bf7 42.Nf3 Be8
+43.Ne5 Nd7 44.Nxd7 Bxd7 45.Kd4 Be6 46.Be2 Bd7 47.Bf3 Be6 48.c4 dxc4 49.Bxb7 a5
+50.a3 Bf7 51.Ba6 Bd5 52.Bxc4 Bg2 53.h4 Bf3 54.Bf7 Bh5 55.b4 axb4 56.axb4 Kc7
+57.Bd5 Kd6 58.b5 Be2 59.b6 Bd1 60.b7 Kc7 61.Ke5 Bh5 62.Kf6  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "1"]
+[White "Flechsig, Ernst"]
+[Black "Schottlaender, Adolf"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.c3 Nc6 7.f4 Qb6 8.Nf3 f6
+9.a3 Be7 10.Ng3 O-O 11.Bd3 fxe5 12.fxe5 cxd4 13.cxd4 Rxf3 14.gxf3 Qxd4 15.f4 Bc5
+16.Rf1 Bb6 17.Ne2 Ba5+ 18.b4 Qxa1 19.bxa5 Nf8 20.Qd2 Bd7 21.Kf2 Nxe5 22.fxe5 Qxe5
+23.Kg1 Re8 24.Qb4 Bc6 25.Bf4 Qh5 26.Ng3 Qh4 27.Bd6 Qxb4 28.axb4 g6 29.b5 Bd7
+30.Bc5 Ra8 31.Bd4 a6 32.bxa6 bxa6 33.Bc5 e5 34.Rxf8+ Rxf8 35.Bxf8 Kxf8 36.Bxa6 Bc6
+37.Kf2 Ke7 38.Ke3 Kd6 39.Be2 Kc5 40.Kd2 e4 41.Ke3 d4+ 42.Kf4 d3 43.Bd1 Kd4
+44.Nf1 e3 45.Nxe3 g5+ 46.Kxg5 Kxe3 47.a6 Kd2 48.Bg4 Ke1 49.Kh6 Be4  1/2-1/2
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "Pitschel, Karl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A10"]
+
+1.c4 f5 2.e3 Nf6 3.Nc3 e6 4.a3 b6 5.Nf3 Bb7 6.d4 d6 7.Be2 Be7 8.O-O O-O 9.Ng5 Qd7
+10.d5 e5 11.Ne6 Rc8 12.Bd3 g6 13.e4 f4 14.g3 g5 15.Nxg5 Qe8 16.gxf4 Nbd7
+17.Ne6 Nf8 18.f5 Nxe6 19.fxe6 Kh8 20.Kh1 c6 21.Rg1 Qd8 22.Bh6 Bf8 23.Qd2 Qe7
+24.Bg5 Bg7 25.f4 Rf8 26.f5 Qc7 27.dxc6 Bxc6 28.Nd5 Bxd5 29.cxd5 Qb7 30.Qe2 a6
+31.Rac1 b5 32.Rc6 Qe7 33.Qc2 Rfe8 34.Rc7 Qd8 35.Rxg7 Kxg7 36.Bh6+ Kxh6  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "1"]
+[White "Schwarz, Adolf"]
+[Black "Riemann, Fritz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.d3 Nd4 6.Bc4 b5 7.Bb3 d6 8.Bd2 Bg4
+9.h3 Bxf3 10.gxf3 Nh5 11.f4 Nxf4 12.Bxf4 exf4 13.Qh5 Qf6 14.O-O-O g6 15.Nd5 Qg7
+16.Qg5 h6 17.Qe7+  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "2"]
+[White "Wemmers, Carl"]
+[Black "Bier, Max "]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d4 Bxd4 6.Nxd4 Nxd4 7.f4 d6 8.fxe5 dxe5
+9.Bg5 Qe7 10.c3 Ne6 11.Bxf6 gxf6 12.Na3 Bd7 13.Bxe6 fxe6 14.Qh5+ Qf7 15.Qh4 Ke7
+16.Nc4 Qg7 17.Nxe5 Rhg8 18.g3 Bb5 19.c4 Qg5 20.Qxg5 Rxg5 21.Nf3 Bxc4 22.Rfc1 Rc5
+23.b3 Be2 24.Rxc5 Bxf3 25.Rxc7+ Kd6 26.Rxh7 Bxe4 27.Rf7 f5 28.Re1 Bc6 29.Kf2 Rh8
+30.h4 Rh5 31.Rd1+ Kc5 32.Re7 Bd5 33.Rc7+ Kb6 34.Rg7 Rh8 35.Rd2 a5 36.Ke3 a4
+37.bxa4 Rc8 38.h5 Rc3+ 39.Kd4 Rc4+ 40.Ke5  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "2"]
+[White "Flechsig, Ernst"]
+[Black "Englisch, Berthold"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 b5 6.Bb3 Be7 7.Bd5 Bb7 8.Bxc6 dxc6
+9.d3 Nd7 10.g4 f6 11.Rg1 Nf8 12.Be3 Qd7 13.a4 b4 14.Ne2 c5 15.Nd2 Ne6 16.Nc1 O-O
+17.Nc4 Rad8 18.b3 Bxe4 19.Nd2 Bd5 20.Ne2 Nd4 21.Ng3 Be6 22.Bxd4 cxd4 23.f3 f5
+24.h3 Bh4 25.gxf5 Bxf5 26.Qe2 Bg5 27.O-O-O Be3 28.Rh1 Bg6 29.Rdf1 Qc6 30.Rh2 Bf4
+31.Rg2 Rd6 32.Rfg1 Qc3 33.Kb1 Qxd2 34.Qxd2 Bxd2 35.Rxd2 Rxf3 36.Rdg2 Kf8
+37.h4 Rd7 38.h5 Bf5 39.h6 g6 40.Re2 Re7 41.Rh2 Ke8 42.Kc1 Kd7 43.Kd2 Kd6
+44.Ke2 Rf4 45.Kd2 Kd5 46.Rgg2 e4 47.Nxf5 Rxf5 48.dxe4+ Rxe4 49.Rh3 Re6 50.Kd3 Ref6
+51.Rgg3 Rf2 52.Rg5+ R6f5 53.Rgg3 c6 54.Rh4 R2f3+ 55.Rxf3 Rxf3+ 56.Ke2 Rf5
+57.Kd3 c5 58.Rh3 Rh5 59.Rf3 Rxh6 60.Rf6 Rh3+ 61.Kd2 c4 62.bxc4+ Kxc4 63.Rc6+ Kd5
+64.Rxa6 b3 65.cxb3 Rxb3 66.Kc2 Rc3+ 67.Kb2 Rc7  0-1
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "2"]
+[White "Paulsen, Louis"]
+[Black "Schallopp, Emil"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 a6 5.Bxc6 dxc6 6.h3 Bd6 7.d4 Bb4 8.Nxe5 Nxe4
+9.O-O Nf6 10.Qd3 O-O 11.Bd2 c5 12.Ne2 Bxd2 13.Qxd2 Re8 14.Nf3 Ne4 15.Qd1 Qf6
+16.Nc3 cxd4 17.Nd5 Qd6 18.Qxd4 Bxh3 19.gxh3 Rad8 20.Rad1 c6 21.Nf4 Qc7 22.Ne6 Rxd4
+23.Nxc7 Rxd1 24.Rxd1 Rc8 25.Rd4 Nf6 26.Ne5 h6 27.Nxa6 bxa6 28.Ra4 Nd5 29.Rxa6 Nb4
+30.Ra4 c5 31.c3 Nc2 32.Rc4 Rd8 33.Rxc5 Rd1+ 34.Kg2 Ne1+ 35.Kg3 f6 36.Nc4 g5
+37.a4 h5 38.a5 Nd3 39.Rd5 h4+ 40.Kh2  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "2"]
+[White "Riemann, Fritz"]
+[Black "Pitschel, Karl"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C59"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6 7.dxc6 bxc6 8.Be2 h6
+9.Nf3 e4 10.Ne5 Qd4 11.f4 Bc5 12.Rf1 Qd6 13.c3 Nb7 14.b4 Bb6 15.Na3 Be6 16.Nxc6 O-O
+17.Ne5 Rac8 18.Nec4 Bxc4 19.Nxc4 Qe6 20.Nxb6 Qxb6 21.Qb3 Rfd8 22.c4 Qe6 23.Bb2 Rd3
+24.Bxd3 exd3+ 25.Kf2 Qb6+ 26.c5 Nxc5 27.bxc5 Qxc5+ 28.Kf3 Qh5+ 29.Kf2 Ng4+
+30.Kg3 Qxh2+ 31.Kf3 Qh5 32.Rh1 Ne5+ 33.Kg3 Qg4+ 34.Kh2 Qxf4+ 35.Kh3 g5  0-1
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "2"]
+[White "Schwarz, Adolf"]
+[Black "Paulsen, Wilfried"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B48"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 a6 6.O-O Nc6 7.Be3 Be7 8.Nc3 Qc7
+9.Kh1 Ne5 10.f4 Nc4 11.Bc1 b5 12.e5 Ng8 13.Qg4 g6 14.Ne4 Bb7 15.Qe2 Nh6 16.a4 Nf5
+17.c3 d5 18.exd6 Ncxd6 19.Nxd6+ Qxd6 20.Bxf5 gxf5 21.axb5 Rg8 22.Rf2 a5 23.b3 Kf8
+24.Ba3 Qd5 25.Bxe7+ Kxe7 26.Rd1 Qc5 27.Qe3 Kf6 28.Re1 Be4 29.Nxf5 Bxg2+ 30.Rxg2 Qxf5
+31.Qe5+ Qxe5 32.fxe5+ Ke7 33.Rxg8 Rxg8 34.c4 Rg5 35.Re3 Rh5 36.Rd3 Rxe5 37.b6 Rg5
+38.b7 Rg8 39.c5 e5 40.c6 e4 41.Rd1 e3 42.c7 e2 43.Re1 Kd7 44.b8=Q  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "3"]
+[White "Schallopp, Emil"]
+[Black "Riemann, Fritz"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nxc6 Qf6 6.f4 dxc6 7.Qf3 Nh6 8.h3 Bd7
+9.Nc3 O-O-O 10.Bd2 Rhe8 11.O-O-O Qe7 12.g4 f6 13.Bd3 Nf7 14.h4 h6 15.h5 Bb4
+16.Kb1 Bxc3 17.Bxc3 c5 18.Rhe1 Bc6 19.Qf1 Bd7 20.Qg1 Kb8 21.e5 fxe5 22.fxe5 Ng5
+23.Qg3 Bc6 24.Rf1 Ne4 25.Bxe4 Bxe4 26.Rde1 Bd5 27.g5 hxg5 28.Rg1 Rh8 29.Qxg5 Qf7
+30.Rd1 Bxa2+ 31.Ka1 Rxd1+ 32.Rxd1 Bd5 33.e6 Bxe6 34.Bxg7 Rxh5 35.Rd8+ Bc8
+36.Qg2 Rh4 37.b3 Qe7 38.Rg8 c4 39.Bb2 Qe1+ 40.Ka2 cxb3+ 41.cxb3 Qa5+ 42.Ba3 Qf5
+43.Rf8 Rg4 44.Qe2 Re4 45.Qd3 Qe6 46.Bb2 a5 47.Rf6 Qe8 48.Rf8 Qe6 49.Rf6 Qe8
+50.Rf8 Ra4+ 51.bxa4 Qxf8 52.Qb5 Qg8+ 53.Kb1 Qg6+ 54.Kc1 Qe4 55.Be5 Qe1+ 56.Kb2 Qd2+
+57.Ka3 Qc1+ 58.Bb2 Qe3+ 59.Ka2 Be6+ 60.Kb1 Qe4+ 61.Kc1 Bf5 62.Kd2 Qb4+ 63.Qxb4 axb4
+64.Ke3 c5 65.Be5+ Ka7 66.Bd6 b6 67.a5 Ka6 68.axb6 Kxb6 69.Kd2 Kb5 70.Be7 c4
+71.Bf6 Ka4 72.Kc1 Kb3 73.Bg7 c3 74.Bf6 Kc4 75.Be7 b3 76.Ba3 Bg6  0-1
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "3"]
+[White "Bier, Max "]
+[Black "Schwarz, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.O-O O-O 7.Nc3 c6 8.h3 Be6
+9.Bg5 Nbd7 10.Qd2 Re8 11.Ne2 h6 12.Bh4 Qc7 13.Bg3 Ne4 14.Bxe4 dxe4 15.Nh2 Bc4
+16.Bxd6 Qxd6 17.b3 Bxe2 18.Qxe2 f5 19.Rad1 Nf6 20.c4 f4 21.Ng4 Nh5 22.Ne5 Nf6
+23.Rfe1 c5 24.Ng4 cxd4 25.Nxf6+ Qxf6 26.f3 d3 27.Qf1 Qd4+ 28.Kh2 Rad8 29.fxe4 Rxe4
+30.Rxd3 Qxd3 31.Qxd3 Rxd3 32.Rxe4 f3 33.gxf3 Rxf3 34.Kg2 Rf7 35.b4 Kf8 36.a4 Re7
+37.Kf3 Rd7 38.Ke3 Kf7 39.c5 Rd5 40.Rd4 Rxd4 41.Kxd4 Ke6 42.a5 g5 43.b5 Kd7
+44.Ke5 h5 45.Kf5 g4 46.hxg4 hxg4 47.Kxg4 Kc7 48.Kf5 Kd7 49.Kf6 a6 50.bxa6 bxa6
+51.Ke5 Kc6 52.Kd4  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "3"]
+[White "Englisch, Berthold"]
+[Black "Paulsen, Louis"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B45"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Ndb5 Bb4 7.a3 Ba5 8.b4 Bb6
+9.Nd6+ Ke7 10.Nc4 Bd4 11.Nb5 d5 12.Nxd4 dxc4 13.Nxc6+ bxc6 14.Bg5 Qc7 15.Qd4 Rd8
+16.Qc5+ Ke8 17.Bxf6 gxf6 18.Bxc4 Qf4 19.Bd3 Qe5 20.Qxe5 fxe5 21.Ke2 Ke7 22.Ke3 Rg8
+23.g3 Bb7 24.Rhd1 Raf8 25.Rf1 Bc8 26.Rab1 Bd7 27.a4 Rb8 28.b5 c5 29.a5 Rgc8
+30.c4 Rb7 31.Be2 Rcb8 32.Rbd1 Rc7 33.f4 exf4+ 34.Rxf4 Rcc8 35.e5 Rf8 36.Bf3 Bc8
+37.Be4 h5 38.Rh4 Rh8 39.Bc6 f6 40.g4 fxe5 41.Rxh5 Rxh5 42.gxh5 Kf6 43.Rd8 a6
+44.h6 Kg6 45.b6 Kxh6 46.Bd7 Rb7 47.Bxc8 Rb8 48.b7 Kg5 49.Ke4 Kf6 50.h4 Kg6
+51.Kxe5  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "3"]
+[White "Flechsig, Ernst"]
+[Black "Wemmers, Carl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 Bc5 6.Nxe5 Nxe5 7.d4 Bb4 8.dxe5 Nxe4
+9.Qd4 Nxc3 10.bxc3 c5 11.Qe3 Ba5 12.Qxc5 b5 13.Bb3 Bb7 14.Qe3 Qc7 15.Bd2 O-O
+16.O-O Kh8 17.Qg3 Qc6 18.Rad1 Rac8 19.Bf4 Bxc3 20.Rd6 Qc7 21.Rfd1 Rcd8 22.R6d3 Bb4
+23.e6 Qc6 24.exf7 d6 25.Be5 dxe5 26.Rxd8 Qe4 27.h3 Qe2 28.Rxf8+ Bxf8 29.Rd8 Qe1+
+30.Kh2 Qb4 31.Qxe5 Bc6 32.Qb8  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "3"]
+[White "Paulsen, Wilfried"]
+[Black "Von Minckwitz, Johannes"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.Bxc6 dxc6 7.d3 Bg4 8.h3 Bxf3
+9.Qxf3 Bxc3 10.bxc3 Qd6 11.Re1 Rfe8 12.Bb2 c5 13.c4 Re6 14.Re3 Nd7 15.Qe2 Nf8
+16.c3 Rg6 17.Kh2 Rh6 18.g3 Ne6 19.Rh1 Rd8 20.Bc1 Qd7 21.h4 Nf8 22.Kg2 Rd6
+23.Rd1 Qc6 24.Kh2 Nd7 25.f4 f6 26.f5 Nb6 27.g4 Nxc4 28.Rg3 Nb6 29.g5 fxg5
+30.Bxg5 R8d7 31.Rdg1 h6 32.Bc1 Rf7 33.Qg2 Qd7 34.c4 Qe7 35.Qh3 Nd7 36.R1g2 b6
+37.Rg4 Nf8 38.Qg3 Nd7 39.Qh3 Nb8 40.R4g3 Nc6 41.Kh1 Qd7 42.a3 a6 43.h5 b5
+44.Kh2 b4 45.a4 a5 46.Rg6 Rxg6 47.hxg6 Rf6 48.Bg5 Rd6 49.Qh4 Rxd3 50.f6 Nd4
+51.f7+ Kf8 52.Rf2 Nf3+ 53.Rxf3 Rxf3 54.Bxh6 Qh3+ 55.Qxh3 Rxh3+ 56.Kxh3 gxh6
+57.Kg4 b3 58.Kf5 Kg7 59.Ke6 b2 60.Ke7  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "3"]
+[White "Pitschel, Karl"]
+[Black "Schottlaender, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C25"]
+
+1.e4 e5 2.Nc3 Nc6 3.g3 Bc5 4.Bg2 d6 5.Na4 Bb6 6.Nxb6 axb6 7.d3 f5 8.Ne2 Nf6
+9.O-O O-O 10.f4 fxe4 11.dxe4 Bg4 12.h3 Bh5 13.g4 Bf7 14.g5 Ne8 15.f5 Qd7
+16.b3 Rd8 17.c4 Ne7 18.Be3 Kh8 19.Ng3 g6 20.Qg4 Nc6 21.Qh4 Ng7 22.Rf2 Rde8
+23.Qh6 Nb8 24.h4 Kg8 25.Raf1 Qd8 26.Bh3 Qd7 27.f6 Ne6 28.Bxe6 Bxe6 29.h5 Qf7
+30.Rh2 Rd8 31.Nf5 Rd7 32.hxg6 Qxg6 33.Qxg6+ hxg6 34.Ne7+ Kf7 35.Rh7+ Ke8
+36.Rg7 Nc6 37.Nxc6  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "4"]
+[White "Bier, Max "]
+[Black "Pitschel, Karl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6 7.Bxc6 bxc6 8.dxe5 Nb7
+9.c4 O-O 10.Nc3 Nc5 11.Be3 Ne6 12.Nd4 Nxd4 13.Bxd4 f6 14.f4 f5 15.Rad1 Qe8
+16.b3 Bb4 17.Na4 Bb7 18.c5 a5 19.Qb2 d6 20.exd6 cxd6 21.Bxg7 Qe3+ 22.Kh1 Rfe8
+23.Bh6 Re7 24.cxd6 Rd7 25.Rf3  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "4"]
+[White "Englisch, Berthold"]
+[Black "Riemann, Fritz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.Nc3 Bd7 6.Bg5 Be7 7.O-O h6 8.Bxf6 Bxf6
+9.Nd5 Nb8 10.Bxd7+ Nxd7 11.c3 c6 12.Ne3 g6 13.Nd2 Bg5 14.g3 Bxe3 15.fxe3 Qe7
+16.Rf3 O-O 17.Qe2 Qe6 18.Rf2 Rae8 19.Raf1 Re7 20.b3 Kh7 21.c4 f5 22.exf5 gxf5
+23.Qh5 Ref7 24.Nf3 Qg6 25.Qxg6+ Kxg6 26.Nh4+ Kg5 27.d4 e4 28.Ng2 Re8 29.g4 Kxg4
+30.Nf4 Kg5 31.Rg2+ Kf6 32.Rg6+ Ke7 33.Re6+ Kd8 34.Rxd6 Rg8+ 35.Kf2 Rf6 36.Rxf6 Nxf6
+37.h3 Ke7 38.Rd1 Kd7 39.Rg1 Rg5 40.Rb1 Rg8 41.b4 a6 42.a4 Kd6 43.b5 axb5
+44.c5+ Kc7 45.axb5 Ra8 46.b6+ Kd7 47.Rg1 Rg8 48.Rxg8 Nxg8 49.Ne2 Nf6 50.Nc1 Nd5
+51.Nb3 Kc8 52.Na5 Nf6 53.Nc4 Ne8 54.Kg3 Kd7 55.Na5 Kc8 56.Kf4 Ng7 57.Nc4 Kd7
+58.Ke5 Ke7 59.Nd6 f4 60.Kxf4 Ne6+ 61.Kxe4 Ng5+ 62.Kf5 Nxh3 63.Nxb7 Ng5 64.Nd6 Kd7
+65.Kg6 Ne6 66.Kxh6 Nd8 67.Kg6 Ne6 68.Kf6 Nd8 69.b7 Kc7 70.Ke7  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "4"]
+[White "Schwarz, Adolf"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Be3 d5 7.Nd2 Be7 8.O-O O-O
+9.c3 Ne5 10.Bc2 dxe4 11.Nxe4 Nd5 12.Bc1 f5 13.Nd2 Bd6 14.N2f3 Nf7 15.Re1 Nc7
+16.Bb3 Qf6 17.Qe2 Re8 18.Nb5 Nxb5 19.Qxb5 Re7 20.Be3 a6 21.Qb6 Bc7 22.Qc5 b6
+23.Qc6 Bb7 24.Qc4 Bxf3 25.gxf3 Ne5 26.Qe2 Qh4 27.Kg2 Rf8 28.f4 Ng6 29.Qf3 Bxf4
+30.Bxb6 Qxh2+ 31.Kf1 Nh4 32.Qc6 Qh3+ 33.Ke2 Bg5 34.Rad1 Ng6 35.Rd4 Nf4+ 36.Kd1 Nd3
+37.Rxe6 Rxe6 38.Qxe6+ Kh8 39.Qe2 Qh1+ 40.Kc2 Nf4 41.Qxa6 Qe1 42.a4 Nd3 43.Qb5  0-1
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "5"]
+[White "Bier, Max "]
+[Black "Von Minckwitz, Johannes"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.Nc3 Bb4 5.O-O O-O 6.d3 Re8 7.Ne2 d5 8.h3 a6
+9.Bxc6 bxc6 10.Ng3 Bd6 11.Be3 Be6 12.Re1 h6 13.Bd2 d4 14.Nh4 Kh7 15.Nhf5 Bf8
+16.f4 exf4 17.Bxf4 g6 18.Nh4 Nh5 19.Nxg6 fxg6 20.Nxh5 gxh5 21.Qxh5 Bg7 22.Rf1 Rf8
+23.Rf3 Qe7 24.Raf1 Bf7 25.Qa5 Bg6 26.b4 Rfb8 27.Rg3 Rb5 28.Qa3 a5 29.Bd2 Rf8
+30.Qc1 Rxf1+ 31.Qxf1 axb4 32.Qf3 Bh5 33.Qf4 Qf7 34.Qh4 Bf6 35.Qf4 Bg5 36.Qxf7+ Bxf7  0-1
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "5"]
+[White "Riemann, Fritz"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 e6 3.g3 d5 4.exd5 exd5 5.d4 cxd4 6.Qxd4 Nf6 7.Bg5 Be7 8.O-O-O Nc6
+9.Qa4 Be6 10.Bg2 O-O 11.Bxf6 Bxf6 12.Bxd5 Bxc3 13.bxc3 Bxd5 14.c4 Bxh1 15.Rxd8 Raxd8
+16.Ne2 Rfe8 17.Nf4 Nd4 18.Nd5 b5 19.Qxa7 Ne2+ 20.Kb2 bxc4 21.Nb6 c3+  0-1
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "5"]
+[White "Schottlaender, Adolf"]
+[Black "Paulsen, Wilfried"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B43"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 a6 4.d4 cxd4 5.Nxd4 Qc7 6.a3 b5 7.Be3 Nf6 8.Bd3 Bb7
+9.f3 Bc5 10.Qe2 Qb6 11.e5 Ng8 12.Ne4 Bxd4 13.Bxd4 Qxd4 14.Nd6+ Ke7 15.Nxb7 Qxb2
+16.O-O Nc6 17.f4 f6 18.Be4 Qd4+ 19.Kh1 Qb6 20.Nd6 f5 21.Bxc6 Qxc6 22.Qh5 Nh6
+23.c4 bxc4 24.Rac1 c3 25.Rf3 c2 26.Rh3 Kd8 27.Qe2 Rb8 28.Qe1 Rb1 29.Rxb1 cxb1=Q
+30.Qxb1 Ke7 31.Qe1 Rb8 32.Rxh6 Kd8 33.Rh3 Qc2 34.Qh4+ Kc7 35.Re3 Rb2 36.Qg3 Qd2
+37.h3 Rb1+ 38.Kh2 Qd1 39.Rc3+  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "6"]
+[White "Paulsen, Wilfried"]
+[Black "Riemann, Fritz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A00"]
+
+1.e3 c5 2.c4 e6 3.Nc3 Nc6 4.g3 d5 5.cxd5 exd5 6.d4 cxd4 7.exd4 Nf6 8.Bg2 Be6
+9.Nge2 Bb4 10.O-O Bxc3 11.bxc3 O-O 12.Nf4 Re8 13.Ba3 Na5 14.Rb1 Nc4 15.Bc1 b6
+16.Nxe6 Rxe6 17.Bg5 h6 18.Bxf6 Rxf6 19.Rb5 Rd6 20.Qh5 g5 21.Re1 a6 22.Rbb1 Qf6
+23.Re2 Qf5 24.Rbe1 Rf6 25.g4 Qd7 26.Re7 Qd6 27.h4 Rg6 28.hxg5 hxg5 29.Re8+  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "6"]
+[White "Englisch, Berthold"]
+[Black "Schottlaender, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B45"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.a3 a6 7.Be2 d5 8.exd5 Nxd5
+9.Nxc6 bxc6 10.Ne4 f5 11.Ng5 Be7 12.Nf3 O-O 13.O-O Qc7 14.c4 Nf4 15.Re1 Ng6
+16.Qc2 e5 17.Bg5 e4 18.Bxe7 Qxe7 19.Nd4 c5 20.Nb3 Bb7 21.Qc3 Rae8 22.Qa5 Qg5
+23.Bf1 e3 24.fxe3 Nh4 25.g3 Rxe3 26.Nxc5 Rxg3+ 27.Kf2 Rf3+ 28.Ke2 Rd8 29.Qxd8+ Qxd8
+30.Rad1 Qe7+ 31.Kd2 Qxc5 32.Kc1 Be4 33.Rd8+ Kf7 34.Red1 Qe3+ 35.R8d2 Rf2
+36.c5 Nf3 37.Bc4+ Kf6  0-1
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "6"]
+[White "Paulsen, Louis"]
+[Black "Bier, Max "]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.Bxc6 dxc6 7.d3 Bxc3 8.bxc3 Bg4
+9.h3 Bxf3 10.Qxf3 Nd7 11.d4 Re8 12.Bb2 Qh4 13.Rae1 Rad8 14.Qe3 Nb6 15.Bc1 Nc4
+16.Qd3 b5 17.f4 f6 18.Kh2 Qh5 19.fxe5 Nxe5 20.Qg3 Nd7 21.Qxc7 Qf7 22.Qxc6 Qxa2
+23.Qxb5 Qxc2 24.Qc4+ Kh8 25.Re2 Qb1 26.Rfe1 Qb8+ 27.Kh1 Rc8 28.Qd3 Qb3 29.Bd2 Rb8
+30.Qa6 Rb7 31.Qc6 h6 32.c4 Reb8 33.c5 Qg3 34.Ba5 Nf8 35.Qd6 Qa3 36.Bc7 Rc8
+37.c6 Rb4 38.d5 Qa4 39.Bd8 Ng6 40.c7 Rc4 41.Qe6 Ra8 42.Qf5 Qe8 43.d6 Rd4
+44.Rb2 Rxd6 45.Rb8  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "6"]
+[White "Schwarz, Adolf"]
+[Black "Wemmers, Carl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.d3 d6 7.Bg5 h6 8.Bh4 Be6
+9.Bxc6 bxc6 10.d4 exd4 11.Nxd4 g5 12.Bg3 Bxd4 13.Qxd4 Nh5 14.f4 Nxg3 15.hxg3 f5
+16.Rf2 Qf6 17.Qe3 Bc4 18.fxg5 hxg5 19.Rxf5 Qh6 20.Rxg5+ Kh7 21.g4 Bf7 22.Rf1 Bg6
+23.Qh3 Rxf1+ 24.Kxf1 a5 25.Kf2 Kg7 26.Qh5 a4 27.a3 Rf8+ 28.Kg3 Rf1 29.Ne2 Rh1
+30.Rxg6+ Qxg6 31.Qxh1  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "6"]
+[White "Von Minckwitz, Johannes"]
+[Black "Flechsig, Ernst"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Nf3 Bf5 6.Bd3 Bxd3 7.Qxd3 Ne7 8.Qb5+ Nbc6
+9.Qxb7 a6 10.Ne5 Nxd4 11.Kd1 Bc5 12.Ne4 Ra7 13.Nxc5 Rxb7 14.Nxb7 Qc8 15.Nc5 Qf5
+16.Ncd3 f6 17.g4 Qc8 18.c3 fxe5 19.cxd4 Qxg4+ 20.Kc2 Nc6 21.Be3 Qe2+ 22.Kc3 e4
+23.Nf4 Qc4+ 24.Kd2 Nxd4 25.Rhc1 Qb4+ 26.Kd1 O-O 27.Ne2 Nf3  0-1
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "7"]
+[White "Paulsen, Louis"]
+[Black "Von Minckwitz, Johannes"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nf5 Qxe4+ 6.Ne3 Nf6 7.Bd3 Qe5 8.O-O d5
+9.Re1 Be6 10.Nc3 Bd6 11.g3 Qh5 12.Ncxd5 Qxd1 13.Nxf6+ gxf6 14.Rxd1 Ne7 15.Bb5+ Kf8
+16.Nc4 Nf5 17.Nxd6 Nxd6 18.Bh6+ Ke7 19.Bf1 Rag8 20.b3 b6 21.Bf4 Rd8 22.c4 c5
+23.Bg2 Nf5 24.Kf1 Nd4 25.Rd2 Rd7 26.Rad1 Rhd8 27.h3 f5 28.Rd3 f6 29.Bc1 a5
+30.Ba3 Nc2 31.Rxd7+ Rxd7 32.Rxd7+ Kxd7 33.Bb2 Nb4 34.a4 Nd3 35.Ba3 Kd6 36.Ke2 Ne5
+37.Bb2 Bf7 38.f4 Nd7 39.Bf3 Be6 40.Ke3 Ke7  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "8"]
+[White "Wemmers, Carl"]
+[Black "Schottlaender, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.Nd4 Nxe5 11.Nxe6 fxe6 12.Qh5+ Ng6 13.Bc2 O-O 14.Qg4 Bc5 15.Bxe4 dxe4
+16.Bg5 Qd5 17.Nd2 e3 18.Ne4 exf2+ 19.Kh1 Bb6 20.Ng3 Ne5 21.Qe2 Nc4 22.Qg4 Ne5
+23.Qe2 Nf3 24.Be7 Ne1 25.Qe4 Rf7 26.Bh4 Raf8 27.Qxd5 exd5 28.Rd1 h6 29.Ne2 Nc2
+30.Rxd5 Ne3  0-1
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "8"]
+[White "Paulsen, Louis"]
+[Black "Flechsig, Ernst"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A22"]
+
+1.c4 e5 2.e3 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.Bc4 Nb4 6.Qb3 Nd3+ 7.Ke2 Nc5 8.Bxf7+ Kd7
+9.Qd5+ Bd6 10.b4 c6 11.Qc4 b6 12.Qg4+ Kc7 13.Qxg7 Ba6+ 14.Bc4+ Nbd7 15.Bxa6 Nxa6
+16.b5 Qh4 17.Nf3 Qh5 18.Ne4 Nc5 19.Ng3 Qe8 20.bxc6 Kxc6 21.Bb2 Qe6 22.Rhc1 Rag8
+23.Nd4+ exd4 24.Qxd4 Be5 25.Qe4+ Kb5 26.Qc2 Bxb2 27.Rab1 Ka6 28.Rxb2 Rc8
+29.d4 Ne4 30.Qd3+ Kb7 31.Rxc8 Nxg3+ 32.hxg3 Kxc8 33.Qc3+ Kb8 34.d5 Qe5 35.Qxe5+ Nxe5
+36.Rc2 Rc8 37.Rxc8+ Kxc8 38.f3 Kd7 39.e4 b5 40.g4 a5 41.g5 b4 42.Kd2 a4 43.Kc2 Kd6
+44.f4 Ng4 45.f5 Nf2 46.f6 Nxe4 47.f7 Ke7 48.g6 hxg6 49.d6+ Nxd6  0-1
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "8"]
+[White "Riemann, Fritz"]
+[Black "Bier, Max "]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 Bc5 6.Nxe5 O-O 7.O-O Nxe5 8.d4 Bb4
+9.dxe5 Bxc3 10.bxc3 Nxe4 11.Qd4 d5 12.f3 Ng5 13.Bxg5 Qxg5 14.f4 Qd8 15.f5 c6
+16.f6 g6 17.Qe3 Kh8 18.Rab1 b5 19.Qg5 c5 20.Rf4 Rg8 21.Rh4 Qf8 22.Rf1 Bf5
+23.Rff4 h5 24.Rxf5 Kh7 25.Rxh5+ gxh5 26.Qxh5+ Qh6 27.Qxf7+ Rg7 28.fxg7 Qe3+
+29.Kh1  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "8"]
+[White "Von Minckwitz, Johannes"]
+[Black "Schallopp, Emil"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C64"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 f5 5.d4 exd4 6.cxd4 Bb4+ 7.Bd2 Bxd2+ 8.Nbxd2 fxe4
+9.Nxe4 Nf6 10.Nxf6+ Qxf6 11.O-O O-O 12.Qb3+ Kh8 13.d5 Ne7 14.Rad1 d6 15.Nd4 a6
+16.Be2 Rf7 17.Bh5 Ng6 18.Bxg6 Qxg6 19.Rde1 h6 20.Re8+ Kh7 21.Rfe1 Bh3 22.Qg3 Rxe8
+23.Qxg6+ Kxg6 24.Rxe8 Bd7 25.Re4 Bf5 26.Re1 Kf6 27.f4 Bd7 28.Rc1 Bc8 29.Kf2 Re7
+30.Kf3 c5 31.Nc2 Bf5 32.Ne3 Be4+ 33.Kf2 Bh7 34.g3 Re4 35.Ng4+ Ke7 36.Re1 Rxe1
+37.Kxe1 Be4 38.Ne3 b5 39.a3 g5 40.Kf2 Kf6 41.Ng4+ Kg6 42.Ne3 a5 43.h4 gxf4
+44.gxf4 a4 45.Kg3 Bd3 46.Kf3 b4 47.Kg3 c4 48.f5+ Kg7 49.axb4 c3 50.bxc3 a3
+51.b5 a2  0-1
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "9"]
+[White "Flechsig, Ernst"]
+[Black "Schwarz, Adolf"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C15"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd3 Nf6 5.e5 Nfd7 6.a3 Be7 7.Nce2 c5 8.c3 Nc6
+9.f4 f5 10.Nf3 O-O 11.Be3 Qb6 12.b4 c4 13.Bc2 Nd8 14.h3 Nf7 15.Qc1 Nh6 16.g4 Qd8
+17.g5 Nf7 18.h4 g6 19.h5 Kg7 20.Ng3 Rh8 21.Kf2 Qg8 22.h6+ Kf8 23.a4 Nd8 24.b5 Ke8
+25.a5 Nf8 26.Qb1 Bd7 27.Bc1 Qf7 28.Qa2 Rc8 29.Ba4 Rb8 30.Nf1 Ra8 31.Ne3 Rc8
+32.Nc2 Qg8 33.Qb1 Kf7 34.Nb4 Be8 35.Re1 Nd7 36.Ba3  1/2-1/2
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "9"]
+[White "Pitschel, Karl"]
+[Black "Englisch, Berthold"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C26"]
+
+1.e4 e5 2.Nc3 Nc6 3.g3 Nf6 4.Bg2 Bc5 5.Nge2 a6 6.d3 d6 7.O-O Be6 8.Nd5 Nd7
+9.Kh1 O-O 10.f4 f5 11.c3 fxe4 12.dxe4 Ne7 13.Nxe7+ Qxe7 14.b3 Nf6 15.f5 Bd7
+16.Bg5 Bc6 17.Qd3 Qf7 18.Bxf6 Qxf6 19.b4 Bb6 20.a4 Qh6 21.Rf3 Be8 22.g4 Bf7
+23.a5 Ba7 24.Raf1 Qg5 25.Rg3 b5 26.axb6 Bxb6 27.Ng1 Bxg1 28.Kxg1 a5 29.bxa5 Rxa5
+30.Qe3 Qxe3+ 31.Rxe3 Rb8 32.Rfe1 Ra3 33.h4 Rbb3 34.Rc1 Rb2 35.Bf1 Raa2 36.g5 Kf8
+37.Rg3 Rf2 38.Rb1 Rf4 39.Rb8+ Ke7 40.Rb7 Rxe4 41.Rb4 Rxb4 42.cxb4 Rc2 43.Rf3 d5
+44.f6+ gxf6 45.Rxf6 e4  0-1
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "9"]
+[White "Schallopp, Emil"]
+[Black "Paulsen, Wilfried"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Be3 Be7 7.O-O d5 8.Bb5 Bd7
+9.Bxc6 bxc6 10.e5 Ne4 11.f3 Nc5 12.Qe2 O-O 13.Nc3 a6 14.Qf2 Nb7 15.Nb3 Qc7
+16.f4 c5 17.Bd2 f5 18.exf6 Rxf6 19.Rae1 Bd6 20.Nc1 Bc6 21.N3e2 Raf8 22.Nd3 e5
+23.b4 Bb5 24.Nc3 Bc4 25.bxc5 Bxc5 26.Nxc5 Qxc5 27.Rxe5 Bxf1 28.Kxf1 Qc4+
+29.Kg1 Rd6 30.Qa7 Rd7 31.Qb6 Nc5 32.h3 Rc8 33.Kh2 Qd4 34.Be3 Qxc3 35.Bxc5 Qxc5
+36.Re8+ Rxe8 37.Qxc5 Red8 38.Qd4 Rd6 39.g4 Re6 40.Kg3 h6 41.c4 Rc6 42.cxd5 Rcd6
+43.Qc4 a5 44.Kf3 g5 45.f5 Re8 46.Qc7 Rxd5 47.Qc4 Re5 48.Qc8+ Kg7 49.Qa6 Kf7
+50.Qg6+ Ke7 51.f6+ Kd7 52.a4 Rd4 53.Qf7+ Kc6 54.Qb3 Rf4+ 55.Kg2 Rxf6 56.Qc3+ Kd6
+57.Qd4+ Ke6 58.Qb6+ Ke7 59.Qc7+ Ke6  1/2-1/2
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "10"]
+[White "Englisch, Berthold"]
+[Black "Bier, Max "]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A03"]
+
+1.f4 d5 2.e3 c5 3.b3 Nf6 4.Bb2 e6 5.Bb5+ Bd7 6.Bxd7+ Nbxd7 7.Nf3 Be7 8.Nc3 O-O
+9.Ne2 Ne4 10.O-O Bf6 11.Ne5 Be7 12.d3 Nd6 13.Ng3 f6 14.Nxd7 Qxd7 15.Qg4 Ne8
+16.e4 f5 17.exf5 exf5 18.Qe2 d4 19.Rae1 Bf6 20.Qf3 Rb8 21.Bc1 g6 22.Rf2 Nc7
+23.Rfe2 Nd5 24.Bd2 Kf7 25.Nf1  1/2-1/2
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "10"]
+[White "Riemann, Fritz"]
+[Black "Flechsig, Ernst"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.Nc3 h6 7.Be3 Nc6 8.Qd2 Be6
+9.O-O-O Bb4 10.Qe2 Bxc3 11.bxc3 Qd6 12.Kb2 Na5 13.Nd2 Rb8 14.Rb1 b5 15.Ka1 c6
+16.Qf3 Rb6 17.Qg3 Qf8 18.Nb3 Nc4 19.Bxc4 dxc4 20.Nc5 Nd5 21.Bd2 Kd8 22.Rhe1 Bd7
+23.Re2 f5 24.Re6 f4 25.Qg6 Ne7 26.Qe4 Nd5 27.Re1 Kc8 28.Nxd7 Kxd7 29.Rg6 Qf7
+30.Re6 Kd8 31.Qe5 Rf8 32.Qd6+ Kc8 33.Re7 Nxe7 34.Rxe7 Qxe7 35.Qxe7 Rf6 36.Qe8+ Kb7
+37.Qd7+ Ka6 38.Qxg7 c5 39.dxc5 Rbc6 40.Qg4 Rxc5 41.Bxf4 Rcc6 42.Be3 Rf7 43.Qh5 Rd7
+44.Qf5 Rdc7 45.Qf8 Kb7 46.Qb4 Ka6 47.Qa3+ Kb7 48.Qxa7+ Kc8 49.Qa8+ Kd7 50.Bf4 Rc8
+51.Qb7+ Ke6 52.Qh7 Kf6 53.Qxh6+ Kf7 54.Qh7+ Ke8 55.Qg8+ Ke7 56.Qg7+ Ke8 57.h4 b4
+58.h5 bxc3 59.h6 Rd8 60.Qg8+ Kd7 61.Qxd8+ Kxd8 62.h7 Kd7 63.h8=Q Re6 64.Qxc3  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "10"]
+[White "Schottlaender, Adolf"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 cxd5
+9.O-O O-O 10.Bg5 Bxc3 11.bxc3 h6 12.Bh4 Qd6 13.Qd2 Bd7 14.Rad1 Rfe8 15.Rfe1 c6
+16.c4 Kh8 17.c5 Qf8 18.Bxf6 gxf6 19.Qf4 Qg7 20.Qc7 Bh3 21.g3 Rec8 22.Qf4 a5
+23.Re7 Be6 24.Re1 Qg5 25.Qd6 Rd8 26.Qxc6 f5 27.R1xe6 fxe6 28.Qxe6 Rf8 29.f4 Qf6
+30.Bxf5 Qxe6 31.Bxe6 Rfe8 32.Rxe8+ Rxe8 33.c6 Rxe6  0-1
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "11"]
+[White "Bier, Max "]
+[Black "Flechsig, Ernst"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 bxc6 7.dxe5 Nf5 8.Qe2 Be7
+9.Nc3 O-O 10.g4 Nh4 11.Nxh4 Bxh4 12.f4 Be7 13.f5 Re8 14.Bf4 Bc5+ 15.Kh1 d6
+16.Rad1 Qe7 17.Rfe1 Bb7 18.exd6 Qxe2 19.Rxe2 Rxe2 20.Nxe2 cxd6 21.Nc3 Re8
+22.Bxd6 Bd4 23.Kg2 c5+ 24.Kh3 g5 25.Bg3 Kf8 26.Nb5 Bf3 27.Re1 Be3 28.Bd6+ Kg7
+29.Bxc5 Bxc5 30.Rxe8 Bf2 31.Rc8 h5 32.Rc4 Kf6 33.gxh5 Be2 34.Kg2 Bxc4 35.Na3 Ba6
+36.Kxf2 Kxf5 37.h3 Bc8 38.Nc4 Kf6 39.Kg3 Bf5 40.Ne3 Be4 41.h4 gxh4+ 42.Kxh4 Ke5
+43.c3 Bb1 44.Nc4+ Kf4 45.Nd6 f6 46.h6 Bg6 47.c4 Ke5 48.c5 a5 49.Nc4+ Kd5
+50.Nxa5 Kxc5 51.Nb3+ Kc4 52.Kg4  1-0
+
+[Event "DSB-01.Kongress"]
+[Site "Leipzig"]
+[Date "1879.??.??"]
+[Round "11"]
+[White "Schwarz, Adolf"]
+[Black "Schottlaender, Adolf"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.Bb5 Bb4 5.Nd5 Bc5 6.d3 h6 7.O-O d6 8.d4 exd4
+9.Nxd4 Bd7 10.c3 O-O 11.Nxc6 bxc6 12.Nxf6+ Qxf6 13.Bd3 Qg6 14.e5 Bf5 15.Bxf5 Qxf5
+16.exd6 cxd6 17.b4 Bb6 18.Qxd6 Rad8 19.Qf4 Qc2 20.Be3 Qxc3 21.Bxb6 axb6 22.Rac1 Qd4  1/2-1/2

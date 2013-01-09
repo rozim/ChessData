@@ -1,0 +1,960 @@
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "1"]
+[White "Donner, Jan Hein"]
+[Black "Olafsson, Fridrik"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E94"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O Nbd7 8.Be3 Qe7
+9.d5 Nh5 10.g3 f5 11.exf5 gxf5 12.Ng5 f4 13.Ne6 Nhf6 14.gxf4 exf4 15.Nxf8 fxe3
+16.Ne6 Nc5 17.fxe3 Nxe6 18.dxe6 Bxe6 19.Kh1 c6 20.Qd2 Rd8 21.Rad1 Ng4 22.Bxg4 Bxg4
+23.Rde1 Kh8 24.Rf4 Be6 25.Ref1 Be5 26.Re4 Rg8 27.Qf2 Bxc3 28.bxc3 Bd5 29.cxd5 Qxe4+
+30.Qf3 cxd5 31.Qxe4 dxe4 32.Rf6 Rd8 33.c4 d5 34.cxd5 Rxd5 35.Re6 Rd1+ 36.Kg2 Rd2+
+37.Kg3 Rb2 38.Rxe4 b5 39.Re8+ Kg7 40.Re7+ Kg6 41.Rxa7 Re2  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "1"]
+[White "Byrne, Robert E"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D78"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.Nd2 Bg7 6.Ngf3 O-O 7.O-O Bf5 8.b3 Ne4
+9.Bb2 Qa5 10.Qe1 Nxd2 11.Nxd2 Nd7 12.e4 dxe4 13.Nxe4 Qxe1 14.Rfxe1 Bxe4 15.Rxe4 e6
+16.Re2 Nf6  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Kavalek, Lubomir"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E70"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nge2 c5 6.d5 e6 7.Ng3 exd5 8.exd5 O-O
+9.Be2 Re8 10.h4 Nfd7 11.h5 f5 12.hxg6 hxg6 13.Bh6 Ne5 14.Qd2 Nf7 15.Bxg7 Kxg7
+16.O-O-O Nd7 17.f4 a6 18.Rde1 Nf6 19.Nd1 Rh8 20.Rxh8 Qxh8 21.Rh1 Qd8 22.Bf3 b5
+23.Nf2 bxc4 24.Qc3 Rb8 25.Nh3 Kg8 26.Nf1 Ne8 27.Nd2  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "1"]
+[White "Unzicker, Wolfgang"]
+[Black "Larsen, Bent"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A43"]
+
+1.d4 e6 2.e4 c5 3.d5 exd5 4.exd5 d6 5.Nc3 Nf6 6.Nf3 Be7 7.Be2 O-O 8.O-O Na6
+9.Bf4 Nc7 10.Re1 b6 11.h3 Re8 12.a4 Bf8 13.Qd2 h6 14.Nh2 a6 15.Ng4 Bf5 16.Ne3 Ne4
+17.Nxe4 Bxe4 18.c4 Qf6 19.Bg3 Bg6 20.Bf1 h5 21.Rad1 Rab8 22.b3 b5 23.axb5 axb5
+24.Bd3 bxc4 25.Bxg6 Qxg6 26.bxc4 Na6 27.Nf1 Nb4 28.Rxe8 Rxe8 29.Ne3 Qe4 30.Ra1 g6
+31.h4 Qd4 32.Rd1 Qxd2 33.Rxd2 Re4 34.Rd1 f5 35.Nf1 Rxc4 36.f3 Be7 37.Kh2 Kf7
+38.Rd2 Rd4 39.Rxd4 cxd4 40.Nd2 Nxd5  0-1
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "2"]
+[White "Olafsson, Fridrik"]
+[Black "Unzicker, Wolfgang"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D41"]
+
+1.c4 Nf6 2.Nf3 e6 3.Nc3 d5 4.d4 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4+
+9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Bc4 Nd7 12.O-O b6 13.Rad1 Bb7 14.Rfe1 Rc8 15.Bb3 Nf6
+16.d5 exd5 17.exd5 Rc5 18.d6 Bd5 19.Qf4 Nh5 20.Qd4 Nf6 21.Qf4 Nh5 22.Qd4 Nf6
+23.Re5 Bxf3 24.gxf3 Rxe5 25.Qxe5 Re8 26.Qf4 Rf8 27.Ba4 Qb8 28.Qe5 Rd8 29.Qe7 h6
+30.Qc7 Rc8 31.Qe7 Rd8 32.Bc6 Kh7 33.d7 Qc7 34.Rd6 Kg8 35.Kg2 a6 36.a4 Kh8
+37.h3 Kg8 38.h4 Kh8 39.Kg1 Kg8 40.Kg2 Kh8 41.f4 Kg8 42.h5 Kh8 43.Qe5 Qb8
+44.Rxf6 gxf6 45.Qxf6+ Kg8 46.Qxh6 Qc7 47.Qf6  1-0
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "2"]
+[White "Byrne, Robert E"]
+[Black "Donner, Jan Hein"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 e5 7.Nde2 Be6 8.g4 Be7
+9.Bg2 Nbd7 10.Ng3 O-O 11.Nf5 Nb6 12.O-O Ne8 13.Nxe7+ Qxe7 14.b3 Rc8 15.Ne2 Nd7
+16.Ng3 Nc5 17.c4 b5 18.cxb5 axb5 19.Be3 Qb7 20.Rc1 f6 21.Nf5 Rf7 22.Nxd6 Nxd6
+23.Rxc5 Rxc5 24.Bxc5 Rd7 25.Qe2 Nf7 26.Rd1 Rxd1+ 27.Qxd1 h5 28.f3 Qc6 29.Be3 hxg4
+30.hxg4 Kh7 31.Bf1 Ng5 32.Kf2 Kg6 33.Qc1 Qa8 34.Qd2 Qh8 35.Bxg5 fxg5 36.Bxb5 Qh2+
+37.Ke3 Qg1+ 38.Qf2 Qd1 39.Bd3 Kf7 40.Qf1  1-0
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "2"]
+[White "Larsen, Bent"]
+[Black "Szabo, Laszlo"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A47"]
+
+1.d4 Nf6 2.Nf3 b6 3.Bg5 Ne4 4.Bh4 Bb7 5.Nbd2 f5 6.e3 g6 7.Nxe4 fxe4 8.Nd2 Bg7
+9.c4 Bf6 10.Bg3 c5 11.d5 Bxb2 12.Nxe4 d6 13.Rb1 Bg7 14.Bd3 Nd7 15.h4 Nf6
+16.Ng5 Kd7 17.a4 Ba6 18.Ne6 Qg8 19.a5 b5 20.e4 Nh5 21.cxb5  1-0
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "2"]
+[White "Gligoric, Svetozar"]
+[Black "Kavalek, Lubomir"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3 Ng4 8.Bg5 f6
+9.Bh4 g5 10.Bg3 Nh6 11.dxe5 fxe5 12.c5 g4 13.Qd5+ Kh8 14.Nd2 Nc6 15.cxd6 Nd4
+16.dxc7 Qxd5 17.Nxd5 Nc2+ 18.Kd1 Nxa1 19.Nc4 Be6 20.Nce3 Rf4 21.Bd3 Rf7 22.Ke2 Ng8
+23.Rxa1 Bxd5 24.exd5 Rxc7 25.Nxg4 Rc5 26.Be4 Nf6 27.Nxf6 Bxf6 28.f3 Rac8
+29.Be1 Rc1 30.Rxc1 Rxc1 31.Bc3 Kg7 32.d6 Kf7 33.Bd5+ Ke8 34.Bxb7 Kd7 35.Be4 Kxd6
+36.Bxh7 Rg1 37.Kf2 Rh1 38.Kg3 Bh4+ 39.Kh3 Be1 40.Bxe1 Rxe1 41.g4 Re2 42.g5 Ke7
+43.b3 Rxa2 44.Kg3 Rb2 45.Bg8 Kf8 46.Bd5 Kg7 47.h4 Kg6 48.f4 Kf5 49.fxe5 Kxe5  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "3"]
+[White "Kavalek, Lubomir"]
+[Black "Larsen, Bent"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B81"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 h6 7.Rg1 Nc6 8.Be2 Qa5
+9.Nb3 Qc7 10.h4 d5 11.exd5 Nxd5 12.Nxd5 exd5 13.Qxd5 Be6 14.Qe4 O-O-O 15.Bd2 Be7
+16.g5 hxg5 17.hxg5 Rd5 18.Bf4 Bd6 19.c4 Rf5 20.Be3 Re5 21.Qc2 Bf5 22.Bd3 Bb4+
+23.Kf1 Bh3+ 24.Ke2 Rxe3+ 25.Kxe3 Qe5+ 26.Kf3 Rh4 27.Qc1 Bd6 28.Qe3 Rf4+ 29.Ke2 Qxb2+
+30.Qd2 Qe5+ 31.Qe3 Qb2+ 32.Qd2 Nd4+ 33.Kd1 Qxd2+ 34.Nxd2 Bg4+ 35.f3 Bxf3+
+36.Nxf3 Rxf3 37.Be2 Rf2 38.Bg4+ Kc7 39.a3 Bf4 40.Ke1 Rh2 41.Rd1 Nc2+ 42.Kf1 Ne3+
+43.Ke1 Bxg5 44.Rd7+ Kc6 45.Bf3+ Kxd7 46.Rxg5 g6 47.Ra5 Nxc4 48.Rxa7 Nd6 49.Bxb7 Nxb7
+50.Rxb7+ Ke6 51.a4 Ra2 52.Ra7 g5 53.a5 g4 54.a6 f5 55.Rh7 Ke5 56.a7 g3 57.Kf1 Ke4
+58.a8=Q+ Rxa8 59.Kg2 f4 60.Re7+ Kf5  0-1
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "3"]
+[White "Donner, Jan Hein"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E75"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 c5 7.d5 e6 8.Qd2 exd5
+9.exd5 Re8 10.Nf3 Bg4 11.O-O a6 12.h3 Bxf3 13.Bxf3 Nbd7 14.Qc2 Qe7 15.Rae1 Qf8
+16.Qc1 Rxe1 17.Rxe1 Re8 18.Rxe8  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "3"]
+[White "Szabo, Laszlo"]
+[Black "Olafsson, Fridrik"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B25"]
+
+1.g3 g6 2.Bg2 Bg7 3.e4 c5 4.Nc3 Nc6 5.d3 d6 6.f4 Nd4 7.Nce2 Nh6 8.c3 Nxe2
+9.Qxe2 f5 10.Nf3 Nf7 11.exf5 gxf5 12.Be3 O-O 13.O-O Rb8 14.d4 b6 15.Rad1 Qe8
+16.Rfe1 e6 17.d5 e5 18.fxe5 Nxe5 19.Nxe5 Bxe5 20.Bh6 Rf6 21.Bf4 Rb7 22.Bf3 Re7
+23.Bg5 Qg6 24.Bxf6 Qxf6 25.Kh1 Bd7 26.Qf2 a5 27.Re3 b5 28.Bg2 b4 29.Rde1 h5
+30.Bh3 h4 31.gxh4 Rh7 32.Rxe5 dxe5 33.Qg3+ Kf7 34.Qxe5 Qxe5 35.Rxe5 bxc3
+36.Bxf5 Rh5 37.Be6+ Bxe6 38.dxe6+ Kf6 39.Re2 cxb2 40.Rxb2 Kxe6 41.Rb5  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "3"]
+[White "Unzicker, Wolfgang"]
+[Black "Byrne, Robert E"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e6 7.O-O Be7 8.f4 O-O
+9.Be3 Qc7 10.Bf3 Nc6 11.Kh1 Rd8 12.Qe1 Nxd4 13.Bxd4 e5 14.Be3 b5 15.Qf2 Rb8
+16.fxe5 dxe5 17.Nd5 Nxd5 18.exd5 Bd6 19.Be4 Rf8 20.Bf5  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "4"]
+[White "Byrne, Robert E"]
+[Black "Szabo, Laszlo"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E43"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Bd3 Bb7 6.Nf3 c5 7.O-O O-O 8.Na4 Qe7
+9.a3 Ba5 10.b3 d5 11.cxd5 exd5 12.Bb2 Nbd7 13.Rc1 Rac8 14.Qe2 Ne4 15.Rc2 c4
+16.bxc4 Bc6 17.Nc3 Nxc3 18.Bxc3 dxc4 19.Bf5 Bxc3 20.Rxc3 b5 21.e4 Rce8 22.Re3 g6
+23.Bxd7 Bxd7 24.Qd2 Qd6 25.d5 f6 26.Rfe1 Re7 27.Qd4 a5 28.e5 fxe5 29.Nxe5 Rfe8
+30.h4 Bf5 31.a4 c3 32.Qxc3 b4 33.Qd4 b3 34.f4 b2 35.Qxb2 Qxd5 36.Kh2 Rb7
+37.Qa1 Rd8 38.Nf3 Qd6 39.Kg3 Rb4 40.Re5 Rf8 41.Rd1 Qc7 42.Rd4 Bc8 43.Qe1 Rxd4
+44.Nxd4 Qc4 45.Qe4 Qxa4 46.Re7 Qa3+ 47.Nf3 Qc5 48.Re5 Qb4 49.Qd5+ Kg7 50.Re4 Rf5
+51.Qc6 Qc5 52.Qa4 Bb7 53.Rc4 Qb6 54.Nd4 Rf7 55.Rc5 Qf6  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "4"]
+[White "Donner, Jan Hein"]
+[Black "Unzicker, Wolfgang"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E59"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 c5 7.O-O Nc6 8.a3 Bxc3
+9.bxc3 dxc4 10.Bxc4 Qc7 11.Bd3 e5 12.Qc2 Re8 13.dxe5 Nxe5 14.Nxe5 Qxe5 15.f3 Be6
+16.Re1 Rad8 17.Bf1 Nd5 18.Bd2 Nb6 19.Rad1 Bc4 20.e4 Qe6 21.Bxc4 Qxc4 22.Bc1 Na4
+23.Re3 b5 24.Red3 Rxd3 25.Rxd3 f5 26.Qd2 fxe4 27.Rd8 Qe6 28.Rxe8+ Qxe8 29.fxe4 Qxe4
+30.Qd8+ Kf7 31.Qd7+ Qe7 32.Qxb5 Qe1+ 33.Qf1+ Qxf1+ 34.Kxf1 Nxc3 35.Bb2 Na4
+36.Be5 g6 37.Ke2 Ke6 38.Bb8 a6 39.Kd3 Kd5 40.Bf4 Nb6 41.Bc1 Nc4 42.Kc3 a5
+43.Kd3 a4 44.h3 h5 45.Kc3 Nd6 46.Kd3 Nb5 47.g4 hxg4 48.hxg4 Nd6 49.Ke3 Ne4
+50.Bb2 Ng5 51.Bc1 Ne6 52.Kd3 Nd4 53.Be3 Nf3 54.g5 Ne5+ 55.Kc3 Nc4 56.Bc1 Nd6
+57.Kd3 Nb5 58.Bb2 Nd4 59.Kc3 Nb5+ 60.Kd3 c4+ 61.Kc2 Kc5 62.Kd2 c3+ 63.Bxc3 Kc4  0-1
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "4"]
+[White "Olafsson, Fridrik"]
+[Black "Kavalek, Lubomir"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E62"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.O-O Nc6 7.Nc3 Bf5 8.b3 Ne4
+9.Bb2 Nxc3 10.Bxc3 Be4 11.Rc1 d5 12.e3 Re8 13.Qe2 Qd7 14.Rfd1 Rad8 15.b4 a6
+16.Be1 dxc4 17.Qxc4 Qd5 18.Qe2 Qh5 19.h3 e5 20.g4 Qh6 21.dxe5 Nxe5 22.Nxe5 Bxg2
+23.Kxg2 Bxe5 24.Rxd8 Rxd8 25.b5 g5 26.bxa6 bxa6 27.Qf3 Qe6 28.Rc5 h6 29.a4 Rb8
+30.Rc6 Qc8 31.Rxh6 Rb6 32.Rc6 Qe8 33.Rc5 f6 34.Ba5 Rb1 35.Bxc7  1-0
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "4"]
+[White "Gligoric, Svetozar"]
+[Black "Larsen, Bent"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E43"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Bd3 Bb7 6.Nf3 Ne4 7.O-O Nxc3 8.bxc3 Bxc3
+9.Rb1 Nc6 10.Rb3 Ba5 11.e4 Ne7 12.d5 Ng6 13.Nd4 Qe7 14.Bc2 Bb4 15.Nb5 O-O
+16.Qh5 Rfc8 17.e5 exd5 18.Bg5 Qf8 19.Nd4 Re8 20.a3 Bc5 21.Rh3 h6 22.Nf5 Rxe5
+23.Bxh6 gxh6 24.Nxh6+ Kg7 25.Qf3 Qe7 26.Nxf7 dxc4 27.Rh7+ Kxh7 28.Bxg6+ Kxg6
+29.Nxe5+ Qxe5 30.Qxb7 Rf8  0-1
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "5"]
+[White "Unzicker, Wolfgang"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C93"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 h6 10.d4 Re8 11.Nbd2 Bf8 12.a3 Bb7 13.Bc2 d5 14.dxe5 Nxe5 15.Nxe5 Rxe5
+16.f4 Bc5+ 17.Kh1 Nxe4 18.Nxe4 Rxe4 19.Bxe4 dxe4 20.Qe2  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "5"]
+[White "Larsen, Bent"]
+[Black "Olafsson, Fridrik"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B52"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nc6 6.c3 Nf6 7.Qe2 e6 8.a3 Be7
+9.b4 O-O 10.d3 b5 11.Rd1 cxb4 12.axb4 a5 13.bxa5 Nxa5 14.Nbd2 Rfc8 15.Bb2 Qb7
+16.Rdb1 Qd7 17.h3 h6 18.Nd4 d5 19.e5 Nh7 20.Ba3 Nc6 21.Nxb5 Bxa3 22.Nxa3 Nf8
+23.d4 Ng6 24.Nb5 Rxa1 25.Rxa1 Rb8 26.Rb1 Rb6 27.g3 Qb7 28.Qf1 Nge7 29.Nd6 Qb8
+30.Kg2 Rxb1 31.Qxb1 Qa8 32.h4 Nc8 33.Qb5 N8e7 34.h5 Qd8 35.Nf3 Qc7 36.Qb7 Qxb7
+37.Nxb7 Nc8 38.Nd2 Kf8 39.f4 N6a7 40.Kf3 Nb5 41.Nb1 Nb6 42.Nc5 Ke7 43.Ke2 Nc4
+44.Nd3 f6 45.Ne1 Kf7 46.Nf3 Ke7 47.Nfd2 Nb2 48.Nf3 Kf7 49.Nh4 Nc4 50.Ng2 Nb6
+51.Kd3 Na4 52.Ne3 fxe5 53.fxe5 Nb2+ 54.Kc2 Na4 55.Kd3 Nb2+ 56.Kd2 Na4 57.Nd1 Nb6
+58.Kd3 Nc7 59.Nd2 Nd7 60.Ne3 Nb6 61.Kc2 Ke7 62.Kb3 Kd7 63.Kb4 Kc6 64.Ng2 Na6+
+65.Ka5 Nc7 66.Nf4 Nc8 67.Nb3 Kd7 68.Nc5+ Ke7 69.Ng6+ Kf7 70.Nb7 Ne8  1-0
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "5"]
+[White "Kavalek, Lubomir"]
+[Black "Byrne, Robert E"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B00"]
+
+1.e4  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "5"]
+[White "Szabo, Laszlo"]
+[Black "Donner, Jan Hein"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E06"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.d4 Be7 5.g3 O-O 6.Bg2 c6 7.O-O b6 8.Ne5 Bb7
+9.e4 Nbd7 10.exd5 exd5 11.cxd5 Nxe5 12.dxe5 Nxd5 13.Nxd5 cxd5 14.Be3 Qd7
+15.Bd4 Bc5 16.Qd2 Rac8 17.Rfd1 Rfd8 18.Rac1 h6 19.Bxc5 bxc5 20.Qa5 Qe7 21.Qxa7 Rc7
+22.Qb6 d4 23.Bxb7 Rxb7 24.Qxc5 Qxc5 25.Rxc5 Rxb2 26.a4 d3 27.h4 Ra2 28.a5 g6
+29.Kg2 h5 30.Kf3 Kf8 31.Rb5 Ke7 32.Re1 Rd7 33.Ke3 Ke6  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "6"]
+[White "Unzicker, Wolfgang"]
+[Black "Szabo, Laszlo"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B38"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7 6.Be3 d6 7.Nc3 Nh6 8.Be2 O-O
+9.Qd2 Ng4 10.Bxg4 Bxg4 11.O-O Qa5 12.Rac1 Rfc8 13.b3 Bd7 14.Rfd1 Nxd4 15.Bxd4 Bxd4
+16.Qxd4 Bc6 17.Rc2 a6 18.Rdc1 Rc7 19.h3  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "6"]
+[White "Donner, Jan Hein"]
+[Black "Kavalek, Lubomir"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E69"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Nbd7 7.O-O e5 8.e4 c6
+9.Rb1 exd4 10.Nxd4 Re8 11.h3 Nc5 12.Re1 a5 13.Bf4 Nh5 14.Be3 Qc7 15.Qd2 Nf6
+16.Qc2 Bd7 17.Rbd1 Rad8 18.Nb3 Be6 19.Nxc5 dxc5 20.Bxc5 Bxc4 21.Na4 b5 22.Bb6 Rxd1
+23.Rxd1 Qe7 24.b3 Be6 25.Nc5 Ra8 26.Nxe6 Qxe6 27.Bc5 Bf8 28.Bxf8 Rxf8 29.Qd3 Re8
+30.e5 Qxe5 31.Bxc6 Rb8 32.Qd6 Qxd6 33.Rxd6 Kg7 34.Bf3 b4 35.Be2 Rc8 36.Bc4 Rc5
+37.g4 h5 38.f3 hxg4 39.hxg4 g5 40.Kf2 Re5 41.Kg3  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "6"]
+[White "Byrne, Robert E"]
+[Black "Larsen, Bent"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B07"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 g6 5.Nc3 Bg7 6.g3 Nc6 7.Be3 Nf6 8.h3 O-O
+9.Bg2 Re8 10.O-O Nxd4 11.Bxd4 Bd7 12.Qd3 Bc6 13.Rfe1 Re7 14.Re3 Qf8 15.Rae1 Nd7
+16.Bxg7 Qxg7 17.b4 a6 18.a4 Ree8 19.b5 Nc5 20.Qe2 axb5 21.axb5 Ra3 22.Qd2 Bd7
+23.Nd5 Rxe3 24.Rxe3 Ne6 25.Nxc7 Nxc7 26.Qxd6 Qa1+ 27.Kh2 Be6 28.Qxc7 Rc8
+29.Qxb7 Rxc2 30.Rf3 Qd1 31.Qb8+ Rc8 32.Qe5 h5 33.Qf6 Rb8 34.Ra3 Rc8 35.Ra1 Qb3
+36.Bf1 Qb4 37.Qe5 Kh7 38.Kg2 Rc5 39.Qf4 Qd4 40.Ra8 g5 41.Qf3 Kg7 42.Kg1 Rc3
+43.Rd8 Rxf3 44.Rxd4 Rb3 45.e5 Rb1 46.g4 hxg4 47.hxg4 f6 48.exf6+ Kxf6 49.f3 Ke5
+50.Re4+ Kf6 51.Kf2 Bd7 52.Bc4 Rb4 53.Ke3 Bxb5 54.Re6+ Kg7 55.Bd5 Bc4 56.Re5 Kh6
+57.Be4 Bg8 58.Re7 Ra4 59.Rd7 Ra3+ 60.Bd3 Rb3 61.Kd4 Rb6 62.Kc5 Rf6 63.Be4 Ra6
+64.Kb5 Rf6 65.Ra7 Bf7 66.Kc5 Bg6 67.Kd5 Bxe4+ 68.fxe4 Rf4 69.e5 Rxg4 70.e6 Kg6
+71.Kd6 Rd4+ 72.Ke5 Rd1 73.Ra8 Re1+ 74.Kd6 Rd1+ 75.Ke7 g4 76.Kf8 Rf1+ 77.Ke8 g3
+78.Ra3 Kf6  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "6"]
+[White "Gligoric, Svetozar"]
+[Black "Olafsson, Fridrik"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E54"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 O-O 6.Nf3 d5 7.O-O dxc4 8.Bxc4 Nc6
+9.Bd3 Qe7 10.Ne4 cxd4 11.exd4 h6 12.a3 Ba5 13.b4 Bb6 14.Bb2 Rd8 15.Nc5 Bxc5
+16.bxc5 b6 17.Qc2 Bb7 18.Rfd1 Rac8 19.Rab1 Nb8  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "7"]
+[White "Kavalek, Lubomir"]
+[Black "Unzicker, Wolfgang"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C81"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Qe2 Nc5 10.Rd1 Be7 11.Be3 Nxb3 12.cxb3 O-O 13.Nc3 Qd7 14.Rd2 Rfe8 15.h3 Rad8
+16.Rc1 h6 17.Qd1 Bf8 18.Ne2 Bf5 19.Ned4 Nxd4 20.Nxd4 c5 21.Nxf5 Qxf5 22.Rxd5 Rxd5
+23.Qxd5 Qxe5 24.Qxe5 Rxe5 25.Rd1 Be7 26.Kf1 Kf8 27.Rd7 Ke8 28.Rc7 Kd8 29.Rc6 Re6
+30.Rxe6 fxe6 31.Ke2 Kd7 32.Kd3 Kc6 33.Ke4 Bf6 34.b4 Bxb2 35.Bxc5 a5 36.Bf8 a4
+37.g4 Bc3 38.h4 Kd7 39.h5 Ke8 40.Bc5 Kf7 41.Kd3 Bf6 42.Be3 Be7 43.Bd2 Bf6
+44.f4 g6 45.hxg6+ Kxg6 46.Bc3 Be7 47.Ke4 Kf7 48.Bd2 Bf6 49.f5 Bg7 50.Bc1 Ke7
+51.Bf4 Bc3  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "7"]
+[White "Szabo, Laszlo"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d4 exd4 6.O-O Be7 7.Re1 O-O 8.e5 Ne8
+9.Bf4 b5 10.Bb3 Bb7 11.Bd5 Rb8 12.Nxd4 Nxd4 13.Qxd4 d6 14.Bxb7 Rxb7 15.Nc3 dxe5
+16.Qxe5 c6 17.Rad1 Qc8 18.Ne4 Nf6 19.Bg5 Nd5 20.Qg3 Qf5  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "7"]
+[White "Olafsson, Fridrik"]
+[Black "Byrne, Robert E"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E60"]
+
+1.c4 g6 2.d4 Nf6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O c5 7.dxc5 dxc5 8.Ne5 Nfd7
+9.Nd3 Nc6 10.Nc3 Nb6 11.Nxc5 Nxc4 12.Qa4 Nb6 13.Qh4 Qd4 14.N5e4 Bf5 15.Be3 Qe5
+16.Bf4 Qa5 17.a3 Bxe4 18.Nxe4 Nd4 19.Kh1 Nf5 20.Qh3 Qb5 21.g4 Nd4 22.Nc3 Qxb2
+23.Rfb1 Nxe2 24.Rxb2 Nxf4 25.Qf3 Nxg2 26.Kxg2 Rac8 27.Rb3 Na4 28.Rc1 Nxc3
+29.Rcxc3 Bxc3 30.Rxc3 Rxc3 31.Qxc3 e6 32.Qc7 b5 33.Qb7 f5 34.Qxb5 fxg4 35.Qd7 Rf7
+36.Qxe6 Kg7 37.Qxg4 h6 38.Qd4+ Kh7 39.a4 a5 40.Qe5 Rf5 41.Qe7+ Kg8 42.f4  1-0
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "7"]
+[White "Larsen, Bent"]
+[Black "Donner, Jan Hein"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 Nf6 6.e5 Nd5 7.Nc3 Nc7 8.Bxc6 dxc6
+9.h3 O-O 10.d3 Ne6 11.Ne4 b6 12.a4 a5 13.Bd2 Nd4 14.Nxd4 cxd4 15.Bf4 Qd5
+16.Nd2 Be6 17.Qf3 Qxf3 18.Nxf3 Rfd8 19.b3 h6 20.h4 c5 21.Nd2 Rac8 22.f3 Rc6
+23.Re2 f5 24.exf6 exf6 25.Rae1 Kf7 26.Nc4 Bf8 27.g4 g5 28.Bg3 gxh4 29.Bxh4 Re8
+30.Kf2 Bd7 31.Rxe8 Bxe8 32.f4 Bd7 33.f5 h5 34.g5 Bxf5 35.gxf6 Bd6 36.Nxd6+ Rxd6
+37.Re7+ Kg8 38.Kg3 Rd7 39.Re8+ Kf7 40.Rh8 Bg4 41.Kf4 Kg6 42.Rg8+ Kf7 43.Rb8 Bd1
+44.Rh8 Ke6 45.Rb8 Bxc2 46.Ke4 Kf7 47.Rxb6 Rc7 48.Rb8 Rd7 49.Rb5 Rc7 50.Bg3 Ra7
+51.Bb8 Rd7 52.Be5 h4 53.Rxc5 Bxb3 54.Bxd4 Kg6  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "8"]
+[White "Gligoric, Svetozar"]
+[Black "Byrne, Robert E"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Nd2 c5 10.Rb1 a5 11.a3 Ne8 12.b4 axb4 13.axb4 b6 14.Qb3 f5 15.bxc5 bxc5
+16.Qb6 Nf6 17.Qxd8 Rxd8 18.f3 Bh6 19.Nb3 Bxc1 20.Rfxc1 fxe4 21.fxe4 Bd7 22.Nd2 Rdb8
+23.Rxb8+ Rxb8 24.Nb5 Nc8 25.Ra1 Kf7 26.Kf2 Ke7 27.Ke3 Nb6 28.Ra7 Nc8 29.Ra6 Nb6
+30.h3 Ne8 31.Ra7 Nc8 32.Ra5 Nb6 33.Ra7 Nc8 34.Ra3 Nb6 35.Nc3 Ra8 36.Rb3 Ra6
+37.Ndb1 Nc7 38.Na3 Kd8 39.Kd2  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "8"]
+[White "Kavalek, Lubomir"]
+[Black "Szabo, Laszlo"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C87"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Bd7 6.d4 Nf6 7.c3 Be7 8.Re1 O-O
+9.Nbd2 Re8 10.Nf1 Bf8 11.Bg5 h6 12.Bxf6 Qxf6 13.dxe5 Nxe5 14.Nxe5 Bxa4 15.Ng4 Bxd1
+16.Nxf6+ gxf6 17.Raxd1 Re5 18.Ng3 Rae8 19.Kf1 Kh7 20.f3 Kg6 21.Nf5 d5 22.Nh4+ Kh5
+23.g3 dxe4 24.f4 Rb5 25.b4 f5 26.Rd7 Bd6 27.Kg2 Re7 28.Rd8 Bxf4 29.a4 Rb6
+30.Nxf5 Re5 31.Kh3 Rg6 32.Nh4 Rg4 33.Ng2 Bg5 34.Rg8 e3 35.Nf4+ Rxf4 36.gxf4 Bxf4
+37.Re2 f5 38.Kg2 Bg5 39.Kf3 Re4 40.Rg2 Rc4 41.Rc2 Rh4 42.Rg2 Rc4 43.Rc2 Rh4
+44.Rg2 Rc4  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "8"]
+[White "Olafsson, Fridrik"]
+[Black "Donner, Jan Hein"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A11"]
+
+1.Nf3 d5 2.c4 c6 3.e3 Nf6 4.Nc3 e6 5.b3 Nbd7 6.Bb2 Bd6 7.Be2 O-O 8.O-O Qe7
+9.Qc2 dxc4 10.bxc4 e5 11.Ng5 Ba3 12.Bxa3 Qxa3 13.f4 exf4 14.Rxf4 h6 15.Nf3 Qe7
+16.Rf1 Re8 17.Nd4 Nf8 18.Bd3 Be6 19.Rxf6 gxf6 20.Ne4 Nd7 21.Qd1 f5 22.Nxf5 Bxf5
+23.Rxf5 Qe6 24.Qf3 Ne5 25.Qg3+ Kf8 26.Nf6 Nxd3 27.Nh7+ Ke7 28.Qc7+ Qd7 29.Rxf7+ Kxf7
+30.Qxd7+ Re7 31.Qf5+  1-0
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "8"]
+[White "Larsen, Bent"]
+[Black "Unzicker, Wolfgang"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C28"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Nc6 4.Nc3 Bb4 5.Nf3 d6 6.O-O Na5 7.Bb3 Nxb3 8.axb3 h6
+9.Be3 Be6 10.Ne2 Nd7 11.d4 O-O 12.h3 exd4 13.Nfxd4 Bc5 14.Nf4 Re8 15.Ndxe6 fxe6
+16.Bxc5 Nxc5 17.Qg4 Qg5 18.Rfe1 a5 19.Qxg5 hxg5 20.Nd3 Nxd3 21.cxd3 Ra6 22.Re3 Rea8
+23.Rg3 Rb6 24.d4 Rb5 25.Kf1 Rf8 26.Rc3 c6 27.f3 d5 28.exd5 Rxd5 29.Re1 Rf4
+30.Rce3 Rfxd4 31.Rxe6 Rd2 32.R1e2 R5d3 33.Rxd2 Rxd2 34.Re5 b6 35.Rxg5 Rxb2
+36.Rg6 Rxb3 37.Rxc6 a4 38.Rc7 a3 39.Ra7 b5 40.Ke2 Rb2+ 41.Kd3 b4 42.g4 a2
+43.g5 Kh7 44.f4 b3 45.f5 Rb1  0-1
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "9"]
+[White "Donner, Jan Hein"]
+[Black "Byrne, Robert E"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E60"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 Nf6 4.d4 O-O 5.e4 d6 6.Ne2 c5 7.O-O Nc6 8.d5 Na5 9.Nd2 a6
+10.Rb1 e6 11.b3 b5 12.Qc2 bxc4 13.bxc4 exd5 14.cxd5 Re8 15.Nc3 Bd7 16.h3 Qc7
+17.Bb2 Rab8 18.Ba3 Bb5 19.Rfe1 Nd7 20.Nxb5 axb5 21.Bf1 c4 22.Bb4 Nc5 23.Bc3 Na4
+24.Bxg7 Kxg7 25.Nf3 Qc5 26.Qd2 b4 27.Qf4 Nc3 28.Rb2 Rb7 29.Rc2 Rbe7 30.a3 Nxd5
+31.exd5 Rxe1 32.Nxe1 Rxe1 33.axb4 Qxb4 34.Qd4+ Kg8 35.Re2 Rxe2 36.Bxe2 Qe1+
+37.Bf1 c3 38.Qb4 Qa1 39.Qg4 Nb3 40.Kg2 Nc5  0-1
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "9"]
+[White "Unzicker, Wolfgang"]
+[Black "Olafsson, Fridrik"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E56"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Nf3 O-O 6.Bd3 d5 7.O-O Nc6 8.a3 dxc4
+9.Bxc4 Ba5 10.Qd3 a6 11.Ne4 b5 12.Nxf6+ Qxf6 13.Qe4 Bb7 14.Bd3 g6 15.dxc5 Rfd8
+16.Be2 Rac8 17.Qc2 Ne5 18.e4 b4 19.Be3 bxa3 20.bxa3 Nxf3+ 21.Bxf3 Bc6 22.Be2 Bc3
+23.Rad1 a5 24.f4 Rxd1 25.Rxd1 Rb8 26.e5 Bxe5 27.fxe5 Qxe5 28.Qd2 h5 29.Bd4 Qf5
+30.Rf1 Rb1 31.Rxb1 Qxb1+ 32.Bf1 Bb5 33.Qf4 e5 34.Bxe5 Bxf1 35.Qxf1 Qe4 36.Bb2  1-0
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "9"]
+[White "Kavalek, Lubomir"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D88"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 cxd4
+9.cxd4 Nc6 10.Be3 O-O 11.O-O Bg4 12.f3 Na5 13.Bd5 Bc8 14.Qd2 e6 15.Bb3 b6
+16.Rfd1 Ba6 17.Ng3 Nc4 18.Bxc4 Bxc4 19.Bh6 Bxh6 20.Qxh6 Qe7 21.Rd2 Rad8 22.Rc1 b5
+23.Qe3 Rd7 24.a4 a6 25.axb5 axb5 26.e5 f5 27.exf6 Qxf6 28.Ne4 Qf4 29.Qxf4 Rxf4
+30.Kf2 Rf8 31.Ke3 Kf7 32.Ra1 Ke7 33.Ra5 Rc7 34.Rc2 Rfc8 35.g3 b4 36.Rc5 Rxc5
+37.Nxc5 Bd5 38.Rb2 e5 39.Rxb4 exd4+  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "9"]
+[White "Szabo, Laszlo"]
+[Black "Larsen, Bent"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A17"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 Bb4 4.Qc2 O-O 5.a3 Bxc3 6.Qxc3 d6 7.b4 e5 8.Bb2 Re8
+9.g3 b6 10.Bg2 Bb7 11.O-O c5 12.e3 Nbd7 13.d3 Rc8 14.e4 a6 15.Nh4 b5 16.Nf5 Nb6
+17.cxb5 Na4 18.Qd2 Nxb2 19.Qxb2 axb5 20.bxc5 Rxc5 21.a4 g6  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "10"]
+[White "Byrne, Robert E"]
+[Black "Unzicker, Wolfgang"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Bf4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Be7
+9.Qd2 O-O 10.Be2 Nxd4 11.Bxd4 Nb8 12.Nb5 Nc6 13.Be3 a6 14.Nd4 Bd7 15.O-O Nxd4
+16.Bxd4 Qc7 17.Bf3 Bc5  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "10"]
+[White "Larsen, Bent"]
+[Black "Kavalek, Lubomir"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A30"]
+
+1.b3 c5 2.Bb2 Nc6 3.c4 e5 4.g3 d6 5.Bg2 Nge7 6.e3 g6 7.Ne2 Bg7 8.Nbc3 O-O
+9.d3 Be6 10.Nd5 Qd7 11.h4 f5 12.Qd2 Rae8 13.h5 b5 14.hxg6 hxg6 15.Nec3 bxc4
+16.dxc4 e4 17.O-O-O Ne5 18.Nf4 Rd8 19.Kb1 Bf7 20.g4 Nxg4 21.f3 exf3 22.Bxf3 Ne5
+23.Qh2 Bxc4 24.bxc4 Nxf3 25.Qh7+ Kf7 26.Ncd5 Rg8 27.Nxe7 Rb8 28.Ka1 Qxe7
+29.Qxg6+ Kf8 30.Ne6+ Qxe6 31.Bxg7+ Ke7 32.Bf8+ Rbxf8 33.Rh7+  1-0
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "10"]
+[White "Gligoric, Svetozar"]
+[Black "Donner, Jan Hein"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 Nh5 8.g3 Nd7 9.Bg5 Bf6
+10.Be3 Be7 11.Bh6 Ng7 12.h4 Nf6 13.Nd2 Kh8 14.h5 gxh5 15.Bxg7+ Kxg7 16.Bxh5 Rh8
+17.Qe2 Bd7 18.O-O-O Qc8 19.Nf1 Nxh5 20.Qxh5 Bg4 21.Qh6+ Kg8 22.Ne3 Bxd1 23.Kxd1 Qf8
+24.Qh5 Qg7 25.Nf5 Qf6 26.Qg4+ Kf8 27.Rh6 Qg5 28.Qh3 Qg8 29.c5 dxc5 30.d6 Bxd6
+31.Nd5 Qg5 32.Nf6 Rd8 33.Nxh7+ Rxh7 34.Rxh7 Ke8 35.Ke2 Bf8 36.Ne3 Qg6 37.Kf3 c6
+38.Rh8 Qe6 39.Qh5 Kd7 40.Rh7 Be7 41.Rxf7 Rf8 42.Rxf8 Bxf8 43.g4 Qf6+ 44.Qf5+ Ke7
+45.g5 Qe6 46.Qh7+  1-0
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "10"]
+[White "Olafsson, Fridrik"]
+[Black "Szabo, Laszlo"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B22"]
+
+1.Nf3 g6 2.d4 Bg7 3.e4 c5 4.c3 cxd4 5.cxd4 d6 6.h3 Nf6 7.Nc3 O-O 8.Bg5 Nc6
+9.Be2 h6 10.Be3 d5 11.e5 Ne4 12.Rc1 Be6 13.Bd3 Bf5 14.O-O Nxc3 15.Rxc3 Bxd3
+16.Qxd3 Qd7 17.Nh4 e6 18.f4 Ne7 19.g4 Rfc8 20.Rb3 Rc6 21.Qb5 b6 22.Bd2 Rd8
+23.Qe2 Rc4 24.Rd3 Rc2 25.f5 exf5 26.gxf5 Nxf5 27.Nxf5 gxf5 28.Rg3 Qe6 29.Kh1 Kh8
+30.Qg2 h5 31.Rxg7 Rxd2 32.Qxd2  1-0
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "11"]
+[White "Kavalek, Lubomir"]
+[Black "Olafsson, Fridrik"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B44"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 Be7
+9.Be2 O-O 10.O-O b6 11.Be3 Bb7 12.Rc1 Rb8 13.Qd2 Ne5 14.f3 d5 15.cxd5 exd5
+16.Bf4 Ng6 17.Bxb8 Qxb8 18.Nxd5 Bxd5 19.exd5 Bd6 20.g3 Bxg3 21.hxg3 Qxg3+
+22.Kh1 Qh4+ 23.Kg1 Nf4 24.Bxa6 Nh3+ 25.Kg2  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "11"]
+[White "Larsen, Bent"]
+[Black "Gligoric, Svetozar"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E97"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.b4 Nh5 10.c5 Nf4 11.Bxf4 exf4 12.Qd2 Bg4 13.Rac1 Bxf3 14.Bxf3 g5 15.Bg4 Ng6
+16.Rfd1 Qe7 17.cxd6 cxd6 18.Re1 a6 19.a4 Rae8 20.Kf1 Ne5 21.Bf5 f3 22.g3 g4
+23.Nd1 Qf6 24.Kg1 h5 25.Kh1 Bh6 26.Ne3 b5 27.Qd4 Kg7 28.a5 Re7 29.h4 Rfe8
+30.Rc2 Bxe3 31.Rxe3 Nc4 32.Qxf6+ Kxf6 33.Re1 Re5 34.Rd1 Rxe4 35.Bxe4 Rxe4
+36.Kg1 Ke5 37.Kf1 f5 38.Rcc1 f4 39.Rd3 fxg3 40.fxg3 Ne3+ 41.Kf2 Nxd5 42.Re1 Rxe1
+43.Kxe1 Nf6 44.Rc3 Ne4 45.Rc6 Kd4  0-1
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "11"]
+[White "Szabo, Laszlo"]
+[Black "Byrne, Robert E"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E70"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nge2 c5 6.d5 e5 7.Bg5 h6 8.Bh4 Nbd7
+9.f3 h5 10.Bg5 Bh6 11.Bxh6 Rxh6 12.Qd2 Rh8 13.h4 a6 14.Nc1 Kf8 15.Be2 Kg7
+16.Nd3 Rb8 17.a4 Qe7 18.Rb1 Ne8 19.Kf2 Nc7 20.a5 f5 21.exf5 gxf5 22.Qg5+ Qxg5
+23.hxg5 b5 24.axb6 Rxb6 25.b4 cxb4 26.Na4 Rb8 27.Nxb4 Kg6 28.g4 fxg4 29.fxg4 h4
+30.Nc3 Nc5 31.Nd3 Bxg4 32.Rxb8 Rxb8 33.Nxc5 Bxe2 34.Nd7 Rd8 35.Nxe5+ dxe5
+36.Kxe2 Kxg5 37.Ke3 Rb8 38.Ke4 Rb4 39.Kxe5 Rxc4 40.Ne4+ Kg6 41.Rg1+ Kh6 42.d6 Ne8
+43.d7 Rxe4+ 44.Kxe4 Nf6+ 45.Kf5 Nxd7 46.Rg6+ Kh7 47.Rxa6 Kg8 48.Ra7 Nf8 49.Kg4 h3
+50.Kxh3 Ng6 51.Kg4 Nf8 52.Kf5 Nh7 53.Re7 Nf8 54.Rb7 Nh7 55.Ra7 Nf8 56.Rc7 Nh7
+57.Rb7 Nf8 58.Re7 Nh7 59.Kg6 Nf8+ 60.Kh6 Kh8 61.Rg7 Ne6 62.Rg6 Nf8 63.Rg7 Ne6
+64.Rg6 Nf8 65.Rg1 Nd7  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "11"]
+[White "Unzicker, Wolfgang"]
+[Black "Donner, Jan Hein"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D79"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.cxd5 cxd5 6.Nf3 Bg7 7.O-O O-O 8.Nc3 Ne4
+9.Ne5 Nxc3 10.bxc3 Nc6 11.Nxc6 bxc6 12.Qa4 Bd7 13.Ba3 Re8 14.Bc5 Qc7 15.Qa3 Bf8
+16.e4 dxe4 17.Bxe4 e5 18.Bxf8 Rxf8 19.dxe5 Qxe5 20.Bg2 Qc7 21.Rad1 Rac8  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "12"]
+[White "Byrne, Robert E"]
+[Black "Kavalek, Lubomir"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D90"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qa4+ Bd7 6.Qb3 Bc6 7.e3 e6 8.Ne5 dxc4
+9.Bxc4 Bxg2 10.Rg1 Bc6 11.Bxe6 fxe6 12.Qxe6+ Qe7 13.Qc8+ Qd8 14.Qe6+ Qe7
+15.Qc8+ Qd8 16.Qe6+  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "12"]
+[White "Donner, Jan Hein"]
+[Black "Szabo, Laszlo"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E41"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 Nc6 6.Nf3 Bxc3+ 7.bxc3 d6 8.e4 e5
+9.d5 Ne7 10.Nh4 O-O 11.O-O Ng6 12.Nf5 Nf4 13.Bc2 g6 14.Nh6+ Kg7 15.g3 N6h5
+16.gxf4 Nxf4 17.Bxf4 exf4 18.Nf5+ gxf5 19.exf5 Kh8 20.Kh1 Qf6 21.Qf3 Bd7
+22.Qxf4 Qxc3 23.Be4 Qf6 24.Rab1 b6 25.Rb3 Rg8 26.Rg3 Rae8 27.f3 Rg7 28.Rh3 Reg8
+29.Rg3 a6 30.Rfg1 b5 31.cxb5 axb5 32.a3 h6 33.Qd2 c4 34.Qe3 Rg5 35.Qf4 R5g7
+36.Qe3 Rg5 37.Qf4 R5g7  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "12"]
+[White "Gligoric, Svetozar"]
+[Black "Unzicker, Wolfgang"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E55"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 c5 7.O-O dxc4 8.Bxc4 Nbd7
+9.Qe2 a6 10.Bd3 b5 11.a4 bxa4 12.Nxa4 Bb7 13.Rd1 Qc7 14.dxc5 Nxc5 15.Nxc5 Bxc5
+16.Bd2 a5 17.Bc3 Nd5 18.Rac1 Qe7 19.Be5 Nb4 20.Bc4 Rfd8  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "12"]
+[White "Olafsson, Fridrik"]
+[Black "Larsen, Bent"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E16"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Bxd2+ 7.Qxd2 d6 8.O-O O-O
+9.Nc3 Ne4 10.Nxe4 Bxe4 11.Qf4 Bb7 12.c5 Na6 13.cxd6 cxd6 14.Rfd1 Rc8 15.Rac1 Qe7
+16.a3 h6 17.e4 Rxc1 18.Rxc1 Rc8  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "13"]
+[White "Szabo, Laszlo"]
+[Black "Unzicker, Wolfgang"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A12"]
+
+1.Nf3 Nf6 2.g3 d5 3.c4 c6 4.Bg2 Bf5 5.b3 e6 6.O-O Nbd7 7.Bb2 h6 8.d3 Bc5
+9.Nc3 O-O 10.e3 Bh7 11.Qe2 Qe7 12.Rfd1 Ba3  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "13"]
+[White "Olafsson, Fridrik"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E65"]
+
+1.Nf3 Nf6 2.c4 c5 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.d4 Nc6 7.Nc3 d6 8.dxc5 dxc5
+9.Bf4 Nd4 10.Be5 Nc6 11.Bf4 Nd4 12.Be5 Nc6 13.Bf4 Nd4  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "13"]
+[White "Kavalek, Lubomir"]
+[Black "Donner, Jan Hein"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C14"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.f4 O-O 8.Nf3 c5
+9.dxc5 Nc6 10.Bd3 f5 11.exf6 Qxf6 12.g3 Nxc5 13.O-O Bd7 14.Qd2 Be8 15.Rae1 Nxd3
+16.cxd3 Bg6 17.Ne5 Nxe5 18.Rxe5 Bf5 19.Nb5 Qd8 20.Nd4 Qb6 21.Qf2 Bxd3 22.Rd1 Be4
+23.Nxe6 Rfc8 24.Qxb6 axb6 25.Rd2 h6 26.a3 Rc1+ 27.Kf2 Rac8 28.Nd4 Rh1 29.Ke3 Rcc1
+30.Re6 Rce1+ 31.Re2 Rd1 32.Rd2 Rxd2 33.Kxd2 Rxh2+ 34.Ke3 Rxb2 35.f5  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "13"]
+[White "Larsen, Bent"]
+[Black "Byrne, Robert E"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be3 a6 7.Bd3 b5 8.O-O Bb7
+9.Qe1 Nbd7 10.f3 Be7 11.a4 bxa4 12.Nxa4 d5 13.Qg3 dxe4 14.fxe4 O-O 15.e5 Ne4
+16.Qh3 Ndc5 17.Nc6 Bxc6 18.Nxc5 Bxc5 19.Bxc5 f5 20.exf6 Rxf6 21.Rxf6 Qxf6
+22.Rf1 Qe5 23.b4 h6 24.Re1  1-0
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "14"]
+[White "Donner, Jan Hein"]
+[Black "Larsen, Bent"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E54"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 O-O 6.Nf3 d5 7.O-O dxc4 8.Bxc4 Nc6
+9.Bd3 cxd4 10.exd4 Be7 11.Be3 b6 12.a3 Bb7 13.Qe2 Rc8 14.Rac1 Nd5 15.Be4 Nf6
+16.Bd3 Nd5 17.Be4 Nf6  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "14"]
+[White "Gligoric, Svetozar"]
+[Black "Szabo, Laszlo"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D90"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.cxd5 Nxd5 6.Bd2 O-O 7.Rc1 Nb6 8.e3 Nc6
+9.Bb5 Nb4 10.a3 N4d5 11.Ne4 c6 12.Be2 Nd7 13.O-O e5 14.Nd6 exd4 15.Nxd4 Bxd4
+16.exd4 Qf6 17.Nxc8 Raxc8 18.Bh6 Rfe8 19.Bg4 Qd6 20.Qd2 f5 21.Bf3 N7f6 22.Rfe1 Rxe1+
+23.Rxe1 Re8 24.Rxe8+ Nxe8 25.Qa5 a6 26.Qc5 Qxc5  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "14"]
+[White "Unzicker, Wolfgang"]
+[Black "Kavalek, Lubomir"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E62"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.O-O Nc6 7.Nc3 Bg4 8.d5 Na5
+9.b3 c5 10.Bb2 a6 11.Nd2 Rb8 12.Qc2 b5 13.h3 Bd7 14.Rab1 e5 15.dxe6 fxe6
+16.Nce4 Nxe4 17.Nxe4 Bxb2 18.Rxb2 Bc6 19.Rbb1 Qe7 20.Qd2 Nb7 21.Nf6+ Rxf6
+22.Bxc6 Nd8 23.Bg2 b4 24.Ra1 Rb6 25.Rfd1 Rf7 26.f4 Qf6 27.e3 Rd7 28.Qe1 e5
+29.Rd2 Re7 30.Rad1 exf4 31.gxf4 Nf7 32.Qf2 Kg7  1/2-1/2
+
+[Event "Lugano"]
+[Site "Lugano"]
+[Date "1970.??.??"]
+[Round "14"]
+[White "Byrne, Robert E"]
+[Black "Olafsson, Fridrik"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B02"]
+
+1.e4 Nf6 2.e5 Nd5 3.Nc3 e6 4.d4 Nxc3 5.bxc3 d6 6.Nf3 dxe5 7.Nxe5 Nd7 8.Nf3 c5
+9.Bd3 Qc7 10.O-O c4 11.Be2 Bd6 12.Re1 O-O 13.Bf1 b6 14.a4 Bb7  1/2-1/2

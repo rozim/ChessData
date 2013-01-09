@@ -1,0 +1,196 @@
+[Event "London m"]
+[Site "London"]
+[Date "1892.??.??"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.Nbd2 g6 6.Nf1 h6 7.c3 Bg7 8.Be3 a6
+9.Ba4 O-O 10.h3 b5 11.Bc2 d5 12.g4 Qe7 13.Ng3 dxe4 14.dxe4 Rd8 15.Qc1 Kh7
+16.g5 Ng8 17.gxh6 Bxh6 18.Ng5+ Bxg5 19.Bxg5 f6 20.Be3 Na5 21.b3 Nc6 22.Ne2 Be6
+23.f3 Rd7 24.h4 Rf8 25.Kf2 b4 26.c4 a5 27.Qg1 Qe8 28.Qg2 Nh6 29.Rad1 Rxd1
+30.Rxd1 Rf7 31.Qg1 Bc8 32.Nc1 Qe6 33.Nd3 f5 34.Nc5 Qe7 35.Qg5 f4 36.Qxe7 fxe3+
+37.Kxe3 Rxe7 38.Rd5 Nf7 39.Nd3 Kg7 40.f4 Bb7 41.Nc5 Nd4 42.Nxb7 Nxc2+ 43.Kd3 c6
+44.Rxa5 Rxb7 45.Kxc2 exf4 46.Kd3 Kf6 47.e5+ Nxe5+ 48.Ke4 f3  0-1
+
+[Event "London m"]
+[Site "London"]
+[Date "1892.??.??"]
+[Round "2"]
+[White "Lasker, Emanuel"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Nf6 5.Bg5 Be7 6.Nf3 O-O 7.O-O Nc6 8.Re1 Bg4
+9.c3 Re8 10.Nbd2 h6 11.Bxf6 Bxf6 12.Rxe8+ Qxe8 13.Qb3 Qd7 14.Qxb7 Rb8 15.Qa6 Rb6
+16.Qa3 Be7 17.Qa4 Qc8 18.Re1 Bd7 19.Qc2 Bf6 20.Nb3 Ne7 21.Nc5 Bf5 22.Bxf5 Nxf5
+23.Ne5 Bxe5 24.Rxe5 Nh4 25.Qe2 Kh7 26.g3 Qh3 27.gxh4 Rg6+ 28.Rg5 hxg5 29.h5 Rf6
+30.Qd3+ Qxd3 31.Nxd3 Kh6 32.Kg2 Kxh5 33.Nb4 Rd6 34.Kg3 Kg6 35.Kg4 f5+ 36.Kg3 Kf6
+37.a4 c6 38.h3 Ke7 39.Nd3 Re6 40.Ne5 c5 41.b4 cxd4 42.cxd4 Rh6 43.b5 a6 44.Nc6+ Kd6
+45.Ne5 Kc7 46.Nf7 Rg6 47.bxa6 Kb6 48.Ne5 Rh6 49.Nf7 Rh4 50.Nd6 f4+ 51.Kg2 Kxa6
+52.Nf5 f3+ 53.Kg3 Rf4 54.Nxg7 Rxd4 55.Ne6 Rd1 56.Kxf3 Rg1 57.Nc7+ Ka5 58.Nxd5 Kxa4  1/2-1/2
+
+[Event "London m"]
+[Site "London"]
+[Date "1892.??.??"]
+[Round "3"]
+[White "Blackburne, Joseph Henry"]
+[Black "Lasker, Emanuel"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 e6 4.e3 Bd6 5.Bg3 a6 6.b3 Ne4 7.Bd3 Nxg3 8.hxg3 h6
+9.c3 Nd7 10.Nbd2 e5 11.dxe5 Nxe5 12.Nxe5 Bxe5 13.Qc2 c6 14.Nf3 Bf6 15.O-O-O Qa5
+16.Nd4 Bd7 17.Bf5 O-O-O 18.Kb1 Qc7 19.Bxd7+ Qxd7 20.c4 dxc4 21.Qxc4 Bxd4
+22.Rxd4 Qf5+ 23.Qc2 Qxc2+ 24.Kxc2 Rxd4 25.exd4 Re8 26.Kd3 Kd7 27.g4 Kd6 28.Rc1 a5
+29.f3 Re7 30.Rh1 Re6 31.Rc1 Ke7 32.a3 Kd6 33.b4 axb4 34.axb4 Re7 35.Ra1 b5
+36.Kd2 Kd5 37.Kd3 Kd6  1/2-1/2
+
+[Event "London m"]
+[Site "London"]
+[Date "1892.??.??"]
+[Round "4"]
+[White "Lasker, Emanuel"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D04"]
+
+1.d4 d5 2.Nf3 Nf6 3.e3 Bg4 4.c4 Bxf3 5.gxf3 c6 6.Nc3 e6 7.Qb3 Qc7 8.Bd2 Nbd7
+9.f4 dxc4 10.Bxc4 Nb6 11.Bd3 Nbd5 12.a3 Be7 13.Ne2 Qb6 14.Qc2 Qd8 15.f5 exf5
+16.Bxf5 g6 17.Bh3 O-O 18.O-O Nh5 19.e4 Nc7 20.f4 Bf6 21.e5 Re8 22.Bg4 Bg7
+23.Rf2 Qh4 24.Rg2 Nd5 25.Rf1 f5 26.Be1 Qe7 27.Bxh5 gxh5 28.Ng3 Rf8 29.Nxf5 Rxf5
+30.Qxf5 Ne3 31.Qg5 Qxg5 32.Rxg5 Nxf1 33.Kxf1 Rf8 34.Bd2 h6 35.Rxh5 Kh7 36.Ke2 Kg6
+37.Rh3 Kf5 38.Kf3 Rd8 39.Be3 c5 40.dxc5 Rd3 41.Rg3 Bf8 42.b4 Rxa3 43.Rg8 Be7
+44.Rg7 Bh4 45.Rf7+ Kg6 46.Rxb7 Be1 47.Ke4 Ra4 48.f5+ Kh5 49.f6  1-0
+
+[Event "London m"]
+[Site "London"]
+[Date "1892.??.??"]
+[Round "5"]
+[White "Blackburne, Joseph Henry"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E12"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 b6 5.Bg5 Be7 6.e3 Bb7 7.Rc1 a6 8.Bxf6 Bxf6
+9.cxd5 exd5 10.Qb3 O-O 11.Be2 Qd6 12.O-O Nd7 13.Rfd1 Rfe8 14.Na4 Rab8 15.Ne1 c5
+16.Qa3 Be7 17.dxc5 bxc5 18.Bf3 Qe6 19.Qd3 Ne5 20.Qd2 Nxf3+ 21.Nxf3 Rbc8 22.Nc3 d4
+23.exd4 Bxf3 24.gxf3 Qg6+ 25.Kh1 Qh5 26.Rg1 Qxf3+ 27.Rg2 Bf6 28.d5 Rcd8 29.Qd1 Qf5
+30.Qb3 g6 31.Rd1 Rb8 32.Qa4 Red8 33.Qe4 Qh5 34.f3 Rb4 35.Qe2 Kg7 36.Rg4 Rb7
+37.d6 Bd4 38.Rd2 Rxd6 39.Ne4 Re6 40.Ng3 Qxg4 41.fxg4 Rxe2 42.Rxe2 Rxb2 43.Rxb2 Bxb2
+44.Nf1 Bc1 45.Kg2 Kf6 46.Kf3 Ke5 47.Ke2 Bf4 48.Kd3 Kd5 49.a4 a5 50.Ng3 Bxg3
+51.hxg3 f6  0-1
+
+[Event "London m"]
+[Site "London"]
+[Date "1892.??.??"]
+[Round "6"]
+[White "Lasker, Emanuel"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D05"]
+
+1.d4 d5 2.Nf3 Nf6 3.e3 e6 4.Bd3 Be7 5.Nbd2 Nbd7 6.O-O O-O 7.c3 b6 8.Qc2 Bb7
+9.Ne5 g6 10.f4 c5 11.Rf3 Nxe5 12.fxe5 Ne8 13.Rg3 Ng7 14.Nf3 f5 15.exf6 Bxf6
+16.Bd2 Qc7 17.Rf1 e5 18.dxe5 Bxe5 19.Nxe5 Rxf1+ 20.Bxf1 Qxe5 21.Rf3 Qe6 22.Rf2 Nf5
+23.Bd3 Nd6 24.Bc1 c4 25.Be2 Ne4 26.Rf1 b5 27.Qd1 Nd6 28.Qd4 Nf5 29.Qf4 Qe7
+30.Bf3 Rf8 31.Bg4 Bc8 32.Qf3 Bb7 33.Qh3 Ng7 34.Rxf8+ Qxf8 35.Qg3 Bc8 36.Bf3 Be6
+37.Qe5 Qd8 38.h3 Qd7 39.Bd2 Nf5 40.Be2 Qd6 41.Qxd6 Nxd6  1/2-1/2
+
+[Event "London m"]
+[Site "London"]
+[Date "1892.??.??"]
+[Round "7"]
+[White "Blackburne, Joseph Henry"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C26"]
+
+1.e4 e5 2.Nc3 Nf6 3.d4 exd4 4.Qxd4 Nc6 5.Qe3 g6 6.Bd2 Bg7 7.O-O-O O-O 8.f3 d5
+9.Qc5 dxe4 10.Bg5 Qe8 11.Bxf6 Bxf6 12.Nxe4 Bg7 13.Bb5 Qe5 14.Qxe5 Nxe5 15.Ne2 a6
+16.Bd3 f5 17.N4c3 Be6 18.Kb1 Rfd8 19.Nf4 Bf7 20.Be2 Nc6 21.Rxd8+ Rxd8 22.Rd1 Re8
+23.Bf1 b5 24.Nd3 Bd4 25.Ne2 Bb6 26.b3 Kg7 27.c3 Kf6 28.Kc2 Ne7 29.Nec1 Nd5
+30.Kb2 b4 31.Nxb4 Ne3 32.Re1 Nc4+ 33.Bxc4 Rxe1 34.Bxa6 Rg1 35.g3 Rg2+ 36.Ka3 Rxh2
+37.Ne2 Rg2 38.Nc2 g5 39.Bd3 h5 40.Kb4 Bf2 41.a4 c5+ 42.Kb5 Bxb3 43.a5 c4
+44.Bxc4 Bxc2 45.a6 Bd1 46.Nd4 Bxd4 47.cxd4 Bxf3 48.d5 Be2 49.Bxe2 Rxe2  0-1
+
+[Event "London m"]
+[Site "London"]
+[Date "1892.??.??"]
+[Round "8"]
+[White "Lasker, Emanuel"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C00"]
+
+1.e4 e6 2.d4 d5 3.Bd3 dxe4 4.Bxe4 Nf6 5.Bf3 c6 6.Ne2 Bd6 7.O-O Nbd7 8.Nd2 O-O
+9.Nc4 Bc7 10.Bf4 Nb6 11.Ne5 Nfd5 12.Bg3 Qe7 13.c3 f5 14.Bxd5 Nxd5 15.Qc1 g5
+16.f4 Bxe5 17.dxe5 g4 18.c4 Nc7 19.Qe3 Na6 20.Rfd1 Qc5 21.Qxc5 Nxc5 22.Nc3 b6
+23.Rd6 Ba6 24.b3 Rad8 25.Rad1 Nb7 26.Rxe6 Rxd1+ 27.Nxd1 Rd8 28.Ne3 Rd3 29.Nxf5 Rd1+
+30.Kf2 Nc5 31.Rd6 Ne4+ 32.Ke2 Rxd6 33.exd6 Nf6 34.Nh6+ Kf8 35.Bh4 Nd7 36.Be7+ Ke8
+37.Nxg4 b5 38.cxb5 Bxb5+ 39.Kd2 c5 40.Kc3 h5 41.Ne3 Nb6 42.h3 Bc6 43.g4 hxg4
+44.hxg4 Nd5+ 45.Nxd5 Bxd5 46.f5 Kd7 47.Kd3 a5 48.g5 Bc6 49.g6 Bf3 50.Ke3 Bh5
+51.Ke4 Bd1 52.g7  1-0
+
+[Event "London m"]
+[Site "London"]
+[Date "1892.??.??"]
+[Round "9"]
+[White "Blackburne, Joseph Henry"]
+[Black "Lasker, Emanuel"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.Nbd2 Be7 6.Nf1 O-O 7.Ng3 a6 8.Bxc6 bxc6
+9.O-O c5 10.Ne1 Rb8 11.b3 c6 12.Bb2 Be6 13.f4 Ng4 14.Qe2 exf4 15.Rxf4 Ne5
+16.c4 Bg5 17.Rf1 f6 18.h3 Qd7 19.Nf3 Nxf3+ 20.Qxf3 Rfe8 21.Rad1 Bf7 22.Nf5 Bg6
+23.Qg3 Bxf5 24.Rxf5 Kh8 25.Rdf1 Rg8 26.h4 Bd2 27.Qf2 Ba5 28.Rxf6 gxf6 29.Qxf6+ Qg7
+30.h5 Bd2 31.h6 Bxh6 32.Qf2 Qxb2 33.Qxb2+ Bg7 34.Qe2 Bd4+ 35.Kh1 Rg6 36.Rf3 Rbg8
+37.g3 Rxg3 38.Rxg3 Rxg3 39.Qh5 Rg1+ 40.Kh2 Rg6 41.Qf5 Be5+ 42.Kh3 Kg7 43.Qc8 Rg3+
+44.Kh4 Rxd3 45.Qd7+ Kg6 46.Qe8+ Kg7 47.Qxc6 a5 48.Qd7+ Kg8 49.Qe6+ Kg7 50.Kh5 Rg3
+51.Qd7+ Kf6 52.Qd8+ Ke6 53.Qe8+ Kf6 54.Qf8+ Ke6 55.Qf5+ Ke7 56.Qc8 Rg2 57.Qc7+ Kf6
+58.Qd8+ Ke6 59.Qxa5 Rh2+ 60.Kg4 h5+ 61.Kf3 Rh3+ 62.Kf2 h4 63.Qa8 Bd4+ 64.Kg2 Rg3+
+65.Kh2 Be5 66.Qe8+ Kf6 67.Qf8+ Ke6 68.Qe8+ Kf6  1/2-1/2
+
+[Event "London m"]
+[Site "London"]
+[Date "1892.??.??"]
+[Round "10"]
+[White "Lasker, Emanuel"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D37"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Nbd7 5.Bf4 c6 6.e3 Nh5 7.Bg5 Be7 8.Bxe7 Qxe7
+9.Bd3 g6 10.Qe2 O-O 11.O-O f5 12.Rfd1 Ndf6 13.Rac1 Bd7 14.Ne5 Be8 15.Qc2 Rd8
+16.a3 Nd7 17.Nf3 Ng7 18.Re1 Nf6 19.b4 Ne4 20.Ne5 Nxc3 21.Qxc3 Nh5 22.a4 Nf6
+23.b5 Nd7 24.Nf3 dxc4 25.Qxc4 Nb6 26.Qb3 cxb5 27.axb5 Bf7 28.Ne5 Rc8 29.Ra1 Ra8
+30.Re2 Rfc8 31.Rea2 Qc7 32.g3 Qc3 33.Qxc3 Rxc3 34.Rxa7 Rxa7 35.Rxa7 Rc7 36.Kf1 Be8
+37.Ke2 Kf8 38.Kd2 Ke7 39.Ra3 Kd6 40.f3 Rc8 41.e4 Rc7 42.Ra1 Rc8 43.h4 Rc7
+44.Rb1 Rc8 45.Ke3 Ke7 46.h5 Kf6 47.hxg6 hxg6 48.Rh1 Kg7 49.Ra1 Ra8 50.Rc1 Rc8
+51.Rb1 Kf6 52.Rh1 Kg7 53.Ra1 Ra8 54.Rh1 Rc8 55.g4 fxg4 56.fxg4 Ra8 57.g5 Ra3
+58.Kd2 Ra2+ 59.Ke3 Ra3 60.Kf4 Nd7 61.Bc4 Nf8 62.Rc1 Ra5 63.Bd3 Bxb5 64.Rc5 Ra4
+65.Bxb5 Rxd4 66.Rc7+ Kg8 67.Rxb7  1-0

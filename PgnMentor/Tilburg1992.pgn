@@ -1,0 +1,4046 @@
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Nikolic, Predrag"]
+[Black "Smirin, Ilia"]
+[Result "1-0"]
+[WhiteElo "2625"]
+[BlackElo "2555"]
+[ECO "E64"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 c5 5.d5 O-O 6.Bg2 d6 7.O-O Na6 8.Nc3 Nc7
+9.e4 Bg4 10.h3 Bxf3 11.Qxf3 Nd7 12.Bg5 Rb8 13.Qe2 Qe8 14.a4 e6 15.Be3 exd5
+16.cxd5 a6 17.a5 b5 18.axb6 Rxb6 19.Ra2 Rb4 20.Bd2 Qb8 21.Nd1 Rb3 22.Bc3 Bxc3
+23.bxc3 Qb6 24.Qc2 c4 25.Ne3 Ne5 26.Rfa1 Rb8 27.Qd2 Rb1+ 28.Kh2 Rxa1 29.Rxa1 Qb3
+30.f4 Nd3 31.e5 dxe5 32.fxe5 Nxe5 33.d6 Ne6 34.Nd5 Qb2 35.Qe3 Nd7 36.Rf1 Qc2
+37.Rf2 Qd3 38.Qh6 Rf8 39.Rd2 Qb1 40.Re2 a5 41.Re4 Ng7 42.Rxc4 Qe1 43.Rc7 Nh5
+44.Rxd7 Qxg3+ 45.Kg1 Rb8 46.Qc1 a4 47.Ra7 Qxd6 48.Rxa4 Ng3 49.Ra2 Nf5 50.Qf4 Qc5+
+51.Kh2 Rb1 52.Rf2 Rd1 53.Qb8+ Kg7 54.Qe5+ Kh6 55.Rxf5  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Nikolic, Predrag"]
+[Black "Nogueiras, Jesus"]
+[Result "1/2-1/2"]
+[WhiteElo "2625"]
+[BlackElo "2570"]
+[ECO "A41"]
+
+1.d4 d6 2.Nf3 Bg4 3.g3 Bxf3 4.exf3 d5 5.c3 e6 6.Nd2 Bd6 7.Bd3 Ne7 8.O-O O-O
+9.Qc2 h6 10.f4 Nd7 11.Nf3 c5 12.Qe2 a6 13.dxc5 Nxc5 14.Bc2 Qc7 15.Be3 Rfe8
+16.Rfd1 Nd7 17.Rac1 Rac8 18.c4 dxc4 19.f5 Nxf5 20.Bxf5 exf5 21.Qd2 Ne5 22.Qxd6 Nxf3+
+23.Kg2 Ne1+ 24.Kf1 Qxd6 25.Rxd6 Nd3 26.Rc2 Nb4 27.Rcd2 Nxa2 28.Rb6 Re7 29.Rc2 a5
+30.Rb5 Nb4 31.Rd2 Nc6 32.Rc2 Ne5 33.Rxa5 Ng4 34.Bf4 Nxh2+ 35.Kg2 Ng4 36.Rxf5 g5
+37.Bxg5 hxg5  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Nijboer, Friso"]
+[Black "Kurajica, Bojan"]
+[Result "1-0"]
+[WhiteElo "2485"]
+[BlackElo "2590"]
+[ECO "B28"]
+
+1.e4 c5 2.Nf3 a6 3.c3 d5 4.exd5 Qxd5 5.d4 e6 6.Bd3 Nf6 7.O-O Be7 8.Nbd2 cxd4
+9.Nc4 Qd8 10.cxd4 O-O 11.Nce5 b5 12.a4 b4 13.a5 Bb7 14.Bg5 Nbd7 15.Qe2 h6
+16.Bd2 Ra7 17.Rfe1 Kh8 18.Ra4 Nd5 19.Nxd7 Qxd7 20.Raa1 Nf6 21.Be3 Raa8 22.Ne5 Qd5
+23.f3 Qd8 24.Rec1 Nd5 25.Bd2 Bg5 26.Rc4 Rb8 27.Be4 Be7 28.Kh1 Rc8 29.Rxc8 Qxc8
+30.Bd3 Nf6 31.Qe1 Nd5 32.Rc1 Qa8 33.Qe4 Nf6 34.Qh4 Kg8 35.Bxh6 gxh6 36.Qxh6 Rc8
+37.Rxc8+ Qxc8 38.Ng4  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Miles, Anthony J"]
+[Black "Nogueiras, Jesus"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2570"]
+[ECO "B08"]
+
+1.d4 d6 2.e4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.Be2 O-O 6.O-O c6 7.Re1 Nbd7 8.a4 e5
+9.Be3 Re8 10.Bc4 Qe7 11.d5 h6 12.a5 a6 13.Nd2 Nf8 14.h3 Bd7 15.Ra3 Red8 16.Rb3 cxd5
+17.Nxd5 Nxd5 18.Bxd5 Bc6 19.Nc4 Ne6 20.Nb6 Rab8 21.Qe2 Nd4 22.Bxd4 exd4 23.Bxc6 bxc6
+24.Qc4 Qb7 25.f4 Re8 26.Na4 d5 27.Qc5 Qc7 28.Rxb8 Rxb8 29.exd5 Qxf4 30.dxc6 d3
+31.c3 d2 32.Rd1 Re8 33.Qf2 Qxa4 34.Qxd2 Qxc6 35.Qd6 Qb5 36.Qb6 Qxb6+ 37.axb6 Rb8
+38.Rd6 Bf8 39.Rc6 Rxb6  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Wolff, Patrick G"]
+[Black "Lputian, Smbat G"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2585"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bg5 h6 7.Bh4 Be7 8.Nxf6+ Bxf6
+9.Bxf6 Qxf6 10.Qe2 c5 11.O-O-O cxd4 12.Rxd4 O-O 13.Qe3 a6 14.Be2 Qe7 15.Rhd1 b5
+16.g4 e5 17.Rd6 Re8 18.h3 Nf8 19.Kb1  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Wojtkiewicz, Aleksander"]
+[Black "Seirawan, Yasser"]
+[Result "0-1"]
+[WhiteElo "2530"]
+[BlackElo "2605"]
+[ECO "E08"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 Nbd7 7.O-O O-O 8.Qc2 c6
+9.Bf4 b6 10.cxd5 cxd5 11.Nc3 Bb7 12.Rfc1 Rc8 13.Qd3 a6 14.a4 Rc6 15.Rc2 Qa8
+16.Rac1 Rfc8 17.Nd2 Bb4 18.Na2 Rxc2 19.Rxc2 Be7 20.Qb3 Rxc2 21.Qxc2 Qc8 22.Qxc8+ Bxc8
+23.b4 Ne8 24.Nb3 g5 25.Bc1 Nd6 26.a5 b5 27.Nc5 Nb8 28.Bd2 Nc6 29.Bc3 f5 30.e3 g4
+31.Nc1 Ne4 32.Bxe4 dxe4 33.Ne2 Bxc5 34.dxc5 e5 35.Kf1 Be6 36.Ke1 Bc4 37.Nc1 Kf7
+38.Kd1 Ke6 39.Kc2 Nd8 40.Kd1 Nf7 41.Ne2 Bxe2+ 42.Kxe2 Kd5 43.Kf1 Kc4 44.Be1 Ng5
+45.Kg2 Kd3 46.h3 Ne6 47.hxg4 fxg4 48.Kf1 Nc7 49.Kg1 Nd5 50.Kf1 h6 51.c6 Nc7
+52.Kg1 Ne6 53.Kf1 h5 54.Kg2 Kc4 55.Kf1 Kd5 56.Ke2 Kxc6 57.Kd2 Ng5 58.Kc2 Kd5
+59.Kb3 Nf3 60.Bc3 h4 61.gxh4 Nxh4 62.Bd2 Nf3 63.Bc3 Ng1 64.Bd2 Ne2 65.Kc2 Kc4
+66.Be1 Ng1 67.Bd2 Nh3 68.Be1 Ng5  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Lobron, Eric"]
+[Black "Georgiev, Kiril"]
+[Result "1/2-1/2"]
+[WhiteElo "2625"]
+[BlackElo "2610"]
+[ECO "D58"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 b6 8.Be2 Bb7
+9.Bxf6 Bxf6 10.cxd5 exd5 11.b4 c5 12.bxc5 bxc5 13.Rb1 Qa5 14.Qd2 cxd4 15.Nxd4 Bxd4
+16.exd4 Ba6 17.Nb5 Qd8 18.O-O Nc6 19.Rfd1 Qf6 20.a4 Rab8 21.Bf1 Bc8 22.Rbc1 a6
+23.Nc7 Qd6 24.Qc3 Qxc7 25.Qxc6 Qxc6 26.Rxc6 Rb4 27.a5 Ra4 28.Rdc1 Be6 29.Rxa6 Rb8
+30.Rd1 g5 31.f3 Rbb4 32.Ra7 Rxd4 33.Rxd4 Rxd4 34.a6 Kg7 35.Rc7 Ra4 36.Bb5 Ra1+
+37.Kf2 Kf6 38.Ke3 Ke5 39.Kd2 d4 40.Rc5+ Kd6 41.Rc6+ Kd5 42.Rc2 Kd6 43.Rc6+ Kd5
+44.Rc2  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Lautier, Joel"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo "2580"]
+[BlackElo "2720"]
+[ECO "B44"]
+
+1.c4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.e4 Bb4 7.Nxc6 dxc6 8.Qxd8+ Kxd8
+9.f3 e5 10.Be3 Kc7 11.Rc1 Nd7 12.Kf2 Bc5 13.Na4 Bxe3+ 14.Kxe3 Nf8 15.c5 Ne6
+16.Bc4 f6 17.Rhd1 Nd4 18.f4 Bg4 19.Rf1 Rad8 20.fxe5 fxe5 21.b3 b5 22.cxb6+ axb6
+23.Nc3 Rhf8 24.Rxf8 Rxf8 25.Be2 Bxe2 26.Nxe2 c5 27.Nc3 Kc6 28.Na4 Ra8 29.Kd3 Ne6
+30.Ke3 Nd4 31.Kd3 Ra7 32.Ke3 h5 33.Kd3 h4 34.Ke3 Ra8 35.h3 Ra7 36.Kd3 Ne6
+37.Ke3 Nf4 38.Rc2 Rd7 39.Nb2 b5 40.a4 Rd4 41.axb5+ Kxb5 42.Nc4 Rd3+ 43.Kf2 Rg3
+44.Kf1 Rxb3 45.Nxe5 Rb4 46.Nf7 c4 47.Kf2 Ne6 48.Ne5 Nc5 49.Kf3 Rb3+ 50.Ke2 c3
+51.Kf3 g5 52.Nf7 Nd3 53.Ke3 Nb4 54.Rc1 Na2 55.Rf1 c2+ 56.Kd2 c1=Q+ 57.Rxc1 Nxc1
+58.Nxg5 Rg3 59.Nf3 Nb3+ 60.Ke3 Rxg2 61.Nxh4 Rg3+ 62.Kf4 Rxh3 63.Nf3 Nc5 64.Kg4 Rh8
+65.Kf4 Rf8+ 66.Ke3 Re8 67.Nd2 Kb4 68.Kd4 Rd8+ 69.Ke3 Rd3+ 70.Ke2 Kc3 71.Nf3 Nxe4
+72.Ne5 Rd5 73.Nf3 Ng5 74.Nh4 Re5+ 75.Kf2 Kd3 76.Kg3 Ke4 77.Kg4 Nf7 78.Nf3 Nh6+
+79.Kg3 Nf5+ 80.Kg4 Ne3+ 81.Kg3 Rf5 82.Nd2+ Kd3 83.Nf3 Rf8 84.Ng5 Rg8 85.Kf4 Nd5+
+86.Kf5 Ke3 87.Ne6 Re8 88.Ng7 Re7 89.Nh5 Nf4 90.Nf6 Kf3 91.Kg5 Rf7 92.Ne8 Rf8
+93.Nd6 Ne6+ 94.Kg6 Kf4 95.Nf7 Rg8+ 96.Kf6 Nc5 97.Nh6 Ne4+ 98.Kf7 Rg4 99.Nxg4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Kuczynski, Robert"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[WhiteElo "2525"]
+[BlackElo "2665"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 Ngf6 11.Bf4 Qa5+ 12.Bd2 Qc7 13.O-O-O O-O-O 14.Ne4 e6 15.g3 Nxe4
+16.Qxe4 Bd6 17.c4 Rhe8 18.Bc3 f5 19.Qc2 Nf6 20.c5 Be7 21.Bd2 Nd5 22.Kb1 Bf6
+23.Bc1 Re7 24.Rhe1 Kb8 25.a3 Ka8 26.Qe2 b6 27.cxb6 Qxb6 28.Qc2 Rc8 29.Rd3 c5
+30.Rb3 Qc6 31.dxc5 Qxc5 32.Qxc5 Rxc5 33.Bf4 Nxf4 34.gxf4 Rb7 35.Rxb7 Kxb7
+36.Ne5 Kc7 37.Nd3 Rd5 38.Kc2 Kd6 39.b3 Bd4 40.Rg1 Ke7 41.Kd2 Rd7  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Kuczynski, Robert"]
+[Black "Ribli, Zoltan"]
+[Result "1/2-1/2"]
+[WhiteElo "2525"]
+[BlackElo "2610"]
+[ECO "B49"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 a6 7.O-O Nf6 8.Be3 Bb4
+9.Na4 O-O 10.Nxc6 bxc6 11.f4 Be7 12.Bd3 c5 13.c4 d6 14.Nc3 Bb7 15.Qf3 Rfe8
+16.Qh3 Nd7 17.Rad1 g6 18.Bb1 Rad8 19.f5 exf5 20.exf5 Bf6 21.Kh1 Re7 22.Bf4 Nf8
+23.Bh6 Qd7 24.Qd3 Bd4 25.fxg6 hxg6 26.Qg3 Be5 27.Qh4 Nh7 28.Ne4 Bxe4 29.Bxe4 Bxb2  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Kovalev, Andrei"]
+[Black "Vaganian, Rafael A"]
+[Result "1-0"]
+[WhiteElo "2580"]
+[BlackElo "2615"]
+[ECO "C16"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 b6 5.Qg4 Bf8 6.Nh3 Ba6 7.Bxa6 Nxa6 8.Nf4 Nb4
+9.Qe2 Ne7 10.a3 Nbc6 11.Be3 Nf5 12.O-O-O Be7 13.g4 Nxe3 14.fxe3 Na5 15.Rhf1 O-O
+16.Rf3 c5 17.Nh5 b5 18.dxc5 Nc4 19.e4 Nxe5 20.exd5 Nxf3 21.Qxf3 Bxc5 22.Ne4 Be7
+23.Qc3 e5 24.Qxe5 f6 25.Qe6+ Rf7 26.d6 Bf8 27.Rf1 Qd7 28.Nhxf6+ gxf6 29.Nxf6+ Kh8
+30.Qxd7 Rxd7 31.Nxd7 Bxd6 32.Rf5 a6 33.Ne5 Kg7 34.Kd2 Rd8 35.Ke3 Bc5+ 36.Ke2 Re8
+37.Kf1 Bd6 38.Nf3 Re4 39.h3 h6 40.Rd5 Bf4 41.Rd1 h5 42.gxh5 Kh6 43.Re1 Rc4
+44.c3 Kxh5 45.Ke2 Rc8 46.Kd3 Rd8+ 47.Nd4 Kh4 48.Re4 Kg3 49.Re6 a5 50.Rb6 b4
+51.axb4 axb4 52.Rxb4 Kxh3 53.Rb7 Be5 54.b4  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Kovalev, Andrei"]
+[Black "Adams, Michael"]
+[Result "0-1"]
+[WhiteElo "2580"]
+[BlackElo "2610"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Ne2 e6 5.Ng3 Bg6 6.h4 h5 7.Be2 c5 8.Bg5 Be7 9.Bxe7 Nxe7
+10.c3 Qb6 11.Bxh5 Qxb2 12.Bxg6 Nxg6 13.h5 Qxa1 14.Qb3 Ne7 15.O-O cxd4 16.Qxb7 dxc3
+17.Na3 Qb2 18.Nb5 O-O 19.Qxe7 Nc6 20.Qg5 c2 21.h6 Qxe5 22.Qd2 g6 23.Qxc2 Rac8
+24.f4 Qh8 25.Nd6 Nd4 26.Qd3 Rc6 27.f5 exf5 28.h7+ Qxh7 29.Nxf7 Qxf7 30.Qxd4 Rc4
+31.Qd3 Qe6 32.Ne2 Qe5 33.Rf2 Kg7 34.Qa3 Rf7 35.g3 Re4 36.Nf4 Re3 37.Qa6 Rxg3+
+38.Kh1 Kg8 39.Qc8+ Rf8 40.Qa6 Qh8+  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Kovacevic, Vlatko"]
+[Black "Rogers, Ian"]
+[Result "0-1"]
+[WhiteElo "2540"]
+[BlackElo "2565"]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 Nf6 3.g3 Bg4 4.Bg2 c6 5.O-O Nbd7 6.b3 Bxf3 7.Bxf3 e5 8.c4 e4
+9.Bg2 Bd6 10.a4 O-O 11.Nc3 Re8 12.Qc2 h6 13.Bd2 Nf8 14.Bh3 Ne6 15.Be3 Ng5
+16.Bg2 Qd7 17.Qd2 Bb4 18.Rac1 Qf5 19.f3 exf3 20.exf3 dxc4 21.bxc4 Rad8 22.Kh1 b5
+23.g4 Qd7 24.Bxg5 hxg5 25.Qxg5 Bxc3 26.Rxc3 Qxd4 27.Rc2 b4 28.Qc1 Re3 29.c5 Rc3
+30.g5 Nd5 31.g6 fxg6 32.Qg5 Nf4 33.Rcf2 Rxc5  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Leko, Peter"]
+[Black "Kovalev, Andrei"]
+[Result "0-1"]
+[WhiteElo "2460"]
+[BlackElo "2580"]
+[ECO "B60"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 a6 7.Qd2 Nxd4 8.Qxd4 e5
+9.Qd2 Be6 10.O-O-O Rc8 11.f3 Qa5 12.a3 Be7 13.Kb1 h6 14.Be3 Rxc3 15.Qxc3 Qxc3
+16.bxc3 d5 17.exd5 Nxd5 18.Bd2 Nb6 19.Bd3 Bxa3 20.Rhe1 Bd6 21.Bc1 Ke7 22.Bb2 Na4
+23.Be4 Rc8 24.Bd5 Bxd5 25.Rxd5 Nxc3+ 26.Bxc3 Rxc3 27.Red1 Rc6 28.c4 Ke6 29.Ka2 Bc5
+30.Kb3 Rb6+ 31.Kc2 Bd4 32.Re1 Rb2+ 33.Kd3 Rb3+ 34.Kd2 Kf5 35.Rd7 Kg6 36.Rd6+ f6
+37.Rc1 a5 38.Rc2 a4 39.Rd5 a3 40.Ra5 b6 41.Ra7 h5 42.h4 Bc5 43.Rd7 Rb1 44.Rd3 Rh1
+45.Kc3 Rxh4 46.Kb3 Rh2  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Nogueiras, Jesus"]
+[Black "Pieterse, Gert"]
+[Result "1-0"]
+[WhiteElo "2570"]
+[BlackElo "2390"]
+[ECO "D78"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O c6 6.d4 d5 7.Na3 Bf5 8.Bf4 Qb6
+9.Qb3 dxc4 10.Nxc4 Qxb3 11.axb3 Nd5 12.Bd2 Be4 13.e3 Nd7 14.Rfc1 Rfd8 15.b4 a6
+16.Bc3 Bf8 17.Na5 Rab8 18.Nb3 e6 19.Nc5 Bxc5 20.bxc5 Re8 21.Ba5 Re7 22.Ra3 N7f6
+23.Rb3 Nc7 24.Bxc7 Rxc7 25.Ne5 Bd5 26.Rb4 Bxg2 27.Kxg2 Nd5 28.Rb3 Ne7 29.Ra1 Re8
+30.Ra4 Nc8 31.f4 Na7 32.g4 f6 33.Nf3 h6 34.h4 Nb5 35.Ra1 Rd7 36.g5 Kg7 37.gxf6+ Kxf6
+38.Ne5 Rh7 39.Rh1 Rg8 40.Rd3 Kf5 41.Kf3 h5 42.Rd2 Kf6 43.Rg1 Rhg7 44.e4 Rd8
+45.Ke3 Nc7 46.Rdg2 Rdg8 47.Rg3 Nb5 48.Kd3 Nc7 49.Nc4 Nb5 50.Nd6 Nxd6 51.cxd6 Rd7
+52.e5+ Kf7 53.Kc4 Rdd8 54.Kc5 Rdf8 55.Kb6 Rd8 56.Kc5 b6+ 57.Kxc6 Rc8+ 58.Kb7 Rb8+
+59.Kxa6 b5 60.b4 Ra8+ 61.Kxb5 Ra2 62.Kc4 Rc2+ 63.Kb3  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Kortschnoj, Viktor"]
+[Black "Piket, Jeroen"]
+[Result "1-0"]
+[WhiteElo "2575"]
+[BlackElo "2245"]
+[ECO "E69"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nge2 c6 6.g3 O-O 7.Bg2 e5 8.O-O Nbd7
+9.h3 a5 10.Be3 exd4 11.Nxd4 Re8 12.Qc2 Qc7 13.Rad1 Nc5 14.Bf4 Bf8 15.b3 Bd7
+16.Rfe1 Nh5 17.Be3 Rad8 18.g4 Ng7 19.f4 Bc8 20.f5 Nd7 21.Qf2 f6 22.Ndb5 cxb5
+23.Nxb5 Qc6 24.e5 Nxe5 25.Bxc6 bxc6 26.Nd4 c5 27.Nf3 gxf5 28.Nxe5 fxe5 29.gxf5 Bxf5
+30.Kh2 Rd7 31.Rg1 Rf7 32.Qg2 Bg6 33.Rdf1 Nf5 34.Qd5 Bg7 35.Rxf5 Bxf5 36.Qxd6 Bg6
+37.Qxc5 e4 38.Rg5 Bf6 39.Qc6 Ref8 40.Rxa5 Bd8 41.Ra7 Rxa7 42.Bxa7 Bf6 43.Be3 Kg7
+44.Qd7+ Rf7 45.Qd5 Re7 46.c5 Bf7 47.Qf5 Re6 48.b4 Ra6 49.a4 Rxa4 50.Bh6+ Kxh6
+51.Qxf6+ Bg6 52.c6 Ra2+ 53.Kg1 Rc2 54.c7 Kh5 55.Qf4  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Kengis, Edvins"]
+[Black "Romanishin, Oleg M"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2555"]
+[ECO "A09"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 g6 4.c4 dxc4 5.Qa4+ Nfd7 6.Qxc4 Bg7 7.O-O Nc6 8.d3 O-O
+9.Nc3 Nde5 10.Nxe5 Nxe5 11.Qb3 c6 12.Bf4 Ng4 13.h3 e5 14.Bd2 Nf6 15.Rac1 Qe7
+16.Qa3 Qxa3 17.bxa3 Rd8 18.Rb1 e4 19.Nxe4 Nxe4 20.Bxe4 Bxh3 21.Rfc1 Rd7 22.Rc2 Be6
+23.a4 Re8 24.Be3 a6 25.Bf3 f5 26.Rb4 h5 27.a5 Bf6 28.Bc5 Be7 29.Bxe7 Rexe7
+30.Rcb2 Kf7 31.Kf1 Kf6 32.Bg2 Bd5 33.Bxd5 Rxd5 34.Rxb7 Rxb7 35.Rxb7 Rxa5
+36.Rb6 Rxa2 37.Rxc6+ Kf7  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Kengis, Edvins"]
+[Black "Rohde, Michael A"]
+[Result "1-0"]
+[WhiteElo "2590"]
+[BlackElo "2585"]
+[ECO "B44"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.Bf4 e5 7.Be3 Nf6 8.Bg5 Be6
+9.Bxf6 gxf6 10.Nd2 a6 11.Nc3 Rc8 12.Bc4 b5 13.Bb3 Bg7 14.Nf1 Nd4 15.Ne3 O-O
+16.O-O a5 17.Ne2 a4 18.Bd5 Rc5 19.Ng3 b4 20.a3 b3 21.c3 Nc6 22.Nh5 Qe7 23.Bxc6 Rxc6
+24.Nd5 Qd8 25.Qf3 Kh8 26.Rad1 Rg8 27.Rd3 Bh6 28.Nhxf6 Rg6 29.h3 Bg7 30.Nh5 Bf8
+31.Rfd1 Qg5 32.Ng3 Rc4 33.Ne3 Rc6 34.Nef5 Bc4 35.R3d2 Rf6 36.h4 Qg6 37.Qe3 Ra6
+38.h5 Qg8 39.Kh2 Qg4 40.f3 Qg8 41.Rh1 Be6 42.Rf1 h6 43.f4 Ra8 44.Rfd1 Re8
+45.fxe5 dxe5 46.Rd8 Bg7 47.Rxe8 Qxe8 48.Qc5 Bxf5 49.Nxf5 Kh7 50.Rd5 Re6 51.Qc7 Qf8
+52.Rd7 Rf6 53.Kh3 Qg8 54.g4 Qe8 55.c4 Qe6 56.Re7  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Karpov, Anatoly"]
+[Black "Chernin, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2715"]
+[BlackElo "2600"]
+[ECO "D46"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Qc2 Bd6 7.Be2 O-O 8.O-O dxc4
+9.Bxc4 Qe7 10.a3 e5 11.h3 Bb8 12.Ba2 h6 13.Nh4 Rd8 14.Nf5 Qe8 15.Ne2 Nf8
+16.dxe5 Bxf5 17.Qxf5 Qxe5 18.Ng3 Qxf5 19.Nxf5 Ne6 20.b4 Be5 21.Rb1 Ne4 22.Bb2 Bxb2
+23.Rxb2 Nc7 24.Rc1 a6 25.a4 Kf8 26.f3 Ng5 27.Kf2 Nge6 28.Ng3 Rd3 29.Ne4 Rad8
+30.Rcc2 Nd5 31.Bxd5 R8xd5 32.Ke2 Rd7 33.b5 axb5 34.axb5 cxb5 35.Rxb5 R3d5
+36.Rb6 Ke7 37.Rcb2 Nc5 38.Nxc5 Rxc5 39.Rxb7 Rxb7 40.Rxb7+ Kf6 41.Rb6+ Ke7
+42.Kf2 h5 43.h4 Rc2+ 44.Kg3 g6 45.e4 Re2 46.Ra6 Kf8 47.Ra1 Kg7 48.Rf1 Kf6
+49.Rf2 Re1 50.Kf4 Rh1 51.g3 Ra1 52.Re2 Ra5 53.Re3 Rb5 54.Ra3 Kg7 55.Rd3 Ra5
+56.Ke3 Ra2 57.Kd4 Rg2 58.f4 Kf6 59.Rc3 Rd2+ 60.Ke3 Ra2 61.Rc6+ Kg7 62.f5 gxf5
+63.exf5 Ra4 64.Rd6 Rg4 65.Kf3 Ra4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Jussupow, Artur"]
+[Black "Kamsky, Gata"]
+[Result "1-0"]
+[WhiteElo "2640"]
+[BlackElo "2655"]
+[ECO "D87"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O Qc7 11.Rc1 Rd8 12.Bf4 Qd7 13.d5 Na5 14.Bd3 e5 15.Be3 Qe7
+16.Qd2 b6 17.f4 c4 18.Bc2 exf4 19.Bxf4 Nc6 20.Nd4 Nxd4 21.cxd4 Ba6 22.Rf3 Rac8
+23.Bh6 Bh8 24.Qf2 Bg7 25.Bxg7 Kxg7 26.Rf1 Rc7 27.Qg3 Bb7 28.Rf6 Rcd7 29.Qf4 b5
+30.d6 Qe8 31.h4 b4 32.h5 a5 33.d5 c3 34.Ba4 Ba6 35.Rf2 Bc4 36.Kh2 Kg8 37.h6 Qf8
+38.Bxd7 Rxd7 39.e5 Bxd5 40.e6 Bxe6 41.Rxe6 a4 42.Qe3 Rd8 43.d7 b3 44.Re8  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Van der Sterren, Paul"]
+[Black "Smirin, Ilia"]
+[Result "1/2-1/2"]
+[WhiteElo "2530"]
+[BlackElo "2555"]
+[ECO "E94"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.Be3 c6 8.O-O exd4
+9.Nxd4 Re8 10.Qc2 Qe7 11.f3 d5 12.cxd5 cxd5 13.Bb5 Bd7 14.Bf2 dxe4 15.Rfe1 Bxb5
+16.Ndxb5 Nc6 17.Nxe4 Nxe4 18.Rxe4 Qf6 19.Rxe8+ Rxe8 20.Nxa7  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Van Wely, Loek"]
+[Black "Magerramov, Elmar"]
+[Result "1/2-1/2"]
+[WhiteElo "2525"]
+[BlackElo "2565"]
+[ECO "D43"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.Bg5 h6 6.Bxf6 Qxf6 7.e3 Nd7 8.Bd3 g6
+9.O-O Bg7 10.e4 dxc4 11.e5 Qe7 12.Bxc4 O-O 13.Re1 Rd8 14.Qe2 b5 15.Bd3 Bb7
+16.Be4 Rab8 17.Rac1 Rdc8 18.Rc2 b4 19.Na4 c5 20.Bxb7 Rxb7 21.Qe4 Rbc7 22.dxc5 b3
+23.axb3 Nxc5 24.Nxc5 Rxc5 25.Rec1 Rxc2 26.Rxc2 Rd8 27.h4 Rd1+ 28.Kh2 Qd7
+29.Rc4 Rd5 30.Rd4 Rxd4 31.Nxd4 Qc7 32.f4 Qc1 33.Nc6 Bf8 34.Nxa7 Qxb2 35.Qf3 Bc5
+36.Nb5 Qd2 37.Nc3 Qe1 38.g3 Qd2+ 39.Ne2 h5 40.Kg2 Qc2 41.Kh3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Van Wely, Loek"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[WhiteElo "2525"]
+[BlackElo "2690"]
+[ECO "D24"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 Nf6 5.Nc3 b5 6.a4 b4 7.Nb1 e6 8.Bxc4 c5 9.O-O Bb7
+10.b3 cxd4 11.Nxd4 Bd6 12.Bb2 O-O 13.Nd2 Nbd7 14.Rc1 Qb8 15.h3 Rd8 16.Bd3 Nc5
+17.Bb1 Bd5 18.Nc4 Be7 19.Qe2 Qb7 20.Na5 Qb6 21.Nc4 Qb7 22.Na5 Qb6 23.Nc4 Qc7
+24.a5 Qb7 25.f3 Nfd7 26.e4 Bxc4 27.Rxc4 e5 28.Nf5 Bf8 29.f4 Re8 30.Bc2 g6
+31.Ne3 exf4 32.Rxf4 Rac8 33.Qf2 Ne6 34.Rxc8 Qxc8 35.Rxf7 Bc5 36.Rf3 Nd4 37.Bxd4 Bxd4
+38.Kh1 Ne5 39.Rg3 Rf8 40.Qd2 Bxe3 41.Rxe3 Rf1+ 42.Kh2 Qc7 43.Rg3 h5 44.Bd3 Rf3
+45.Be2 Ng4+ 46.hxg4 Rxg3 47.Kh1 hxg4 48.Qxb4 Kh7 49.Qc4 Qe7 50.Qd5 Re3 51.Bxg4 Qh4+
+52.Bh3 Qe1+ 53.Kh2 Qg3+  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Vaganian, Rafael A"]
+[Black "Portisch, Lajos"]
+[Result "1-0"]
+[WhiteElo "2615"]
+[BlackElo "2595"]
+[ECO "D58"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.Nc3 Be7 5.Bg5 O-O 6.e3 h6 7.Bh4 b6 8.Rc1 Bb7
+9.Bd3 dxc4 10.Bxc4 Nbd7 11.O-O a6 12.Bg3 b5 13.Bb3 c5 14.d5 exd5 15.Nxd5 Nxd5
+16.Bxd5 Bxd5 17.Qxd5 Nf6 18.Qb7 Re8 19.Rfd1 Qc8 20.Qxc8 Raxc8 21.Bd6 Kf8
+22.b3 Red8 23.Bxe7+ Kxe7 24.Nd2 Rd7 25.Kf1 Ng4 26.Ke2 Ne5 27.Ne4 Rxd1 28.Rxd1 c4
+29.f4 Nd3 30.bxc4 Nb2 31.Nd6 Rc5 32.Rd4 Nxc4 33.Nxc4 Rxc4 34.Rxc4 bxc4 35.e4 Kd6
+36.h4 Kc5 37.h5 f6 38.Ke3 a5 39.a3 a4 40.e5 fxe5 41.fxe5 Kd5 42.e6 Kxe6 43.Kd4  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Ulibin, Mikhail"]
+[Black "Lautier, Joel"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2580"]
+[ECO "D18"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O Nbd7
+9.Nh4 Bg6 10.Qb3 Qb6 11.f4 O-O 12.f5 exf5 13.Nxf5 Rae8 14.Na2 Bxf5 15.Rxf5 Bd6
+16.Bd2 Qc7 17.h3 Nb6 18.Nc3 Nxc4 19.Qxc4 Ne4 20.Nxe4 Rxe4 21.Raf1 Qe7 22.R5f3 Re6
+23.b4 Re4 24.b5 c5 25.Qd5 Re6 26.Kh1 f6 27.a5 Kh8 28.Rf5 cxd4 29.exd4 Rd8
+30.Qf3 Re2 31.Qd3 Re8 32.Rh5 Qe4 33.Qxe4 R8xe4 34.Rd5 Rxd2 35.Rxd6 Rexd4
+36.Rxd4 Rxd4 37.Rc1 h6 38.Rc7 Ra4 39.Rxb7 Rxa5 40.Kh2 Ra3 41.h4 h5 42.b6 axb6
+43.Rxb6 Kh7 44.Rb5 Kg6 45.Rc5 Re3 46.Rb5 Re5 47.Rb7 Re6 48.Kg3 f5 49.Kf3 Rd6
+50.g3 Rd3+ 51.Kf4 Rd4+ 52.Kf3 Rg4 53.Rb6+ Kh7 54.Rb5 g6 55.Rb7+ Kg8  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Tiviakov, Sergei"]
+[Black "Van Mil, Johannes A J"]
+[Result "1-0"]
+[WhiteElo "2585"]
+[BlackElo "2450"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.g3 Nxd4 7.Qxd4 Ne7 8.Be3 b5
+9.Qd2 Nc6 10.f4 Be7 11.Bg2 Bb7 12.O-O Rc8 13.Qf2 Na5 14.Bd4 O-O 15.Rad1 Nc4
+16.Nb1 Qc7 17.Rfe1 e5 18.fxe5 Nxe5 19.c3 Bc5 20.Bxc5 Qxc5 21.Qxc5 Rxc5 22.Rd4 Re8
+23.Nd2 Re7 24.Rd1 Rc8 25.a4 Ng4 26.axb5 axb5 27.Ra1 Ne3 28.Ra7 Bc6 29.Bf3 Nc2
+30.Rd6 Rce8 31.Kf2 f5 32.exf5 Bxf3 33.Kxf3 Re3+ 34.Kg4 Re2 35.Rdxd7 Ne3+
+36.Kg5 Rxh2 37.Rxg7+ Kh8 38.Ne4  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Tiviakov, Sergei"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2575"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 b5 6.Bb3 d6 7.c3 Na5 8.Bc2 c5
+9.a4 b4 10.O-O b3 11.Bd1 c4 12.d3 cxd3 13.Qxd3 Be6 14.Na3 Qc7 15.c4 Be7 16.Bd2 O-O
+17.Bxa5 Qxa5 18.Nd2 Qxa4 19.Bxb3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Sveshnikov, Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2525"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.Bxc6 bxc6 5.b3 d6 6.O-O e5 7.Re1 Be7 8.d3 Nf6
+9.c3 O-O 10.d4 exd4 11.cxd4 d5 12.exd5 Nxd5 13.Ba3 Nb4 14.Nc3 Bg4 15.dxc5 Bxc5
+16.Ne4 Qa5 17.Bb2 Rad8 18.Qc1 Nd3 19.Qg5 Nxb2 20.Qxc5 Qxc5 21.Nxc5 Bxf3 22.gxf3 Rd5
+23.Rac1 Rxc5 24.Rxc5 Nd3 25.Rec1 Nxc1 26.Rxc1 Rc8 27.Rd1 a5 28.Rd4 c5 29.Ra4 Kf8
+30.Kf1 Ra8 31.Re4 Re8 32.Ke2 f5 33.Rxe8+ Kxe8 34.Kd3 Kd7 35.Kc4 Kc6 36.f4 Kb6
+37.a3 Kc6 38.h3 Kb6 39.h4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Petursson, Margeir"]
+[Black "Hjartarson, Johann"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[BlackElo "2595"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb7 6.Bg2 Bb4+ 7.Bd2 a5 8.O-O O-O
+9.Qc2 h6 10.Nc3 Re8 11.Rfe1 d5 12.cxd5 exd5 13.e3 Ne4 14.a3 Nxd2 15.Nxd2 Bf8
+16.Qf5 c6 17.h4 Na6 18.Nf3 g6 19.Qf4 Bg7 20.e4 Nc7 21.exd5 Rxe1+ 22.Rxe1 cxd5
+23.Ne5 Qe7 24.Na4 Ne6 25.Qe3 Re8 26.Nxb6 Qd6 27.Na4 Qxa3 28.Nxf7 Kxf7 29.Nc5 Bxd4
+30.Qf3+ Bf6 31.Nxb7 Qb4 32.Rxe6 Rxe6 33.Nd8+ Kg8 34.Nxe6 Qe1+ 35.Kh2 Qxe6
+36.Qf4 g5 37.Qd2 d4 38.Qxa5 Kg7 39.hxg5 hxg5 40.Qb5 Qd6 41.Be4 Be7 42.Kg2 Qe6
+43.Bd3 Qd6 44.Qb7 Qb4 45.Qe4 Qd6 46.Qh7+ Kf8 47.Qh8+ Kf7 48.Bc4+ Kg6 49.Qg8+ Kf6
+50.Qf7+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Winants, Luc"]
+[Black "Nijboer, Friso"]
+[Result "1-0"]
+[WhiteElo "2505"]
+[BlackElo "2485"]
+[ECO "A25"]
+
+1.c4 g6 2.Nc3 Bg7 3.g3 Nc6 4.Bg2 d6 5.d3 f5 6.e3 Nf6 7.Nge2 O-O 8.O-O e5
+9.Rb1 a5 10.b3 g5 11.f4 gxf4 12.exf4 Ng4 13.h3 Nh6 14.Be3 Nd4 15.Qd2 Nf7
+16.Bf2 Nxe2+ 17.Nxe2 c6 18.Rbd1 h5 19.fxe5 dxe5 20.d4 h4 21.dxe5 Qxd2 22.Rxd2 Nxe5
+23.Nf4 hxg3 24.Bxg3 a4 25.Re1 axb3 26.axb3 Kh7 27.Nh5 Ng6 28.Nxg7 Kxg7 29.Bd6 Rg8
+30.Kh2 Kf7 31.Bb4 Be6 32.Bd6 Rad8 33.c5 Nh4 34.Bh1 Rd7 35.b4 Bd5 36.Rxd5 cxd5
+37.Bxd5+ Kf6 38.Be5+ Kg5 39.Rg1+ Kh5 40.Rxg8 Rxd5 41.Rh8+ Kg5 42.Bf6+ Kxf6
+43.Rxh4 b5 44.Rh6+ Kg5 45.Rd6 Re5 46.Rd2 Re3 47.Rc2 Kh4 48.c6 Rxh3+ 49.Kg1 Rg3+
+50.Kf2 Rg8 51.c7 Rc8 52.Ke3 Kg3 53.Kd4 f4 54.Kd5 f3 55.Kd6 f2 56.Rc1 Rg8
+57.Kd7 Rg7+ 58.Kc6 Rg8 59.Kb7  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Winants, Luc"]
+[Black "Kamsky, Gata"]
+[Result "1-0"]
+[WhiteElo "2505"]
+[BlackElo "2655"]
+[ECO "D42"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Nc3 Nxd5 6.Nf3 e6 7.d4 Nc6 8.Bd3 Be7
+9.O-O O-O 10.Re1 Nxc3 11.bxc3 b6 12.Qc2 g6 13.Bh6 Re8 14.h4 Bf8 15.Bg5 Be7
+16.Bf4 Bb7 17.h5 Kg7 18.Qd2 Qd5 19.Be4 Qxh5 20.Ne5 Rac8 21.Re3 f6 22.Rh3 Qxh3
+23.gxh3 fxe5 24.dxe5 Rc7 25.Kh1 Na5 26.Bxb7 Nxb7 27.Bh6+ Kg8 28.Rd1 Rec8
+29.Qe2 Rxc3 30.Qg4 Kf7 31.Rd4 R3c6 32.Bg5 Bxg5 33.Qxg5 Nc5 34.h4 Re8 35.h5 Rc7
+36.Qf6+ Kg8 37.Rd8 Rc8 38.h6  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Van der Wiel, John TH"]
+[Black "Nikolic, Predrag"]
+[Result "1/2-1/2"]
+[WhiteElo "2545"]
+[BlackElo "2625"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.c4 Ba6
+9.g3 g6 10.Bg2 Bg7 11.O-O O-O 12.Re1 Rae8 13.Na3 f6 14.Qc2 Nb6 15.e6 c5 16.Nb5 dxe6
+17.Nxa7 Bxc4 18.Be3 Rf7 19.Rad1 Bd5 20.Bxc5 Qd7 21.Bxb6 cxb6 22.Rxd5 Qxa7
+23.Rxe6 Rxe6 24.Qc8+ Bf8 25.Qxe6 Qxa2 26.Qxb6 Qb1+ 27.Bf1 Kg7 28.Qd4 Re7
+29.Rd8 Qe4 30.Qc3 Qe5 31.Qc8 Rc7 32.Rd7+ Rxd7 33.Qxd7+ Qe7 34.Qd3 Qd6 35.Qf3 Qd4
+36.b3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Vyzmanavin, Alexey"]
+[Black "Nikolic, Predrag"]
+[Result "0-1"]
+[WhiteElo "2580"]
+[BlackElo "2625"]
+[ECO "A85"]
+
+1.d4 f5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Bb4 5.Qb3 a5 6.g3 b6 7.Bg2 Bb7 8.O-O O-O
+9.Bg5 Bxc3 10.Qxc3 h6 11.Bxf6 Qxf6 12.Rac1 d6 13.c5 bxc5 14.dxc5 Qxc3 15.Rxc3 Bxf3
+16.Bxf3 d5 17.c6 Ra6 18.Rfc1 Kf7 19.e3 Ke7 20.Bd1 Rb6 21.Rc5 Rxb2 22.Rxa5 Rb6
+23.Ba4 Kd6 24.h4 g5 25.hxg5 hxg5 26.Kg2 g4 27.a3 Rh8 28.Ra8 Ra6 29.Rxa6 Nxa6
+30.Bb5 Nc5 31.a4 Nb3 32.Rc2 Na5 33.f3 gxf3+ 34.Kxf3 Rg8 35.Rc1 Nb3 36.Rd1 Rg4
+37.Rh1 Na5 38.Rh6 Nc4 39.Kf2 Ne5 40.Rh8 Nxc6 41.Ra8 Ne5 42.a5 Kc5 43.Be2 Ra4
+44.a6 Ng4+ 45.Kf3 Re4 46.Re8 Rxe3+ 47.Kf4 Rxe2 48.a7 Rf2+ 49.Kg5 Ra2 50.a8=Q Rxa8
+51.Rxa8 d4 52.Kf4 Kc4 53.Kf3 e5 54.Ke2 e4 55.Ra4+ Kd5 56.Ra8 c5 57.Rf8 d3+
+58.Kd2 Kd4  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Vladimirov, Evgeny"]
+[Black "Granda Zuniga, Julio E"]
+[Result "1-0"]
+[WhiteElo "2585"]
+[BlackElo "2565"]
+[ECO "D27"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.e3 e6 5.Bd3 dxc4 6.Bxc4 c5 7.O-O a6 8.a4 Nc6
+9.Qe2 cxd4 10.Rd1 Be7 11.exd4 O-O 12.Nc3 Bd7 13.Ba2 Nb4 14.Bb1 Bc6 15.Ne5 Qd6
+16.a5 Rac8 17.Bg5 g6 18.h4 Nbd5 19.Ba2 Bd8 20.Bb3 Bc7 21.Rd3 h5 22.Bc2 Nxc3
+23.bxc3 Ng4 24.Bf4 Qd5 25.Nxc6 bxc6 26.Bg5 Qd6 27.Rh3 Kg7 28.Qxa6 Ra8 29.Qd3 Bxa5
+30.Re1 Bd8 31.Bd2 Bf6 32.f3 Nh6 33.g4 hxg4 34.fxg4 Nxg4 35.Rg3 Qd5 36.Rxg4 Qh5
+37.Qg3 Ra2 38.Rc1 Rb8 39.Rxg6+ fxg6 40.Qc7+ Be7 41.Qxe7+ Kh8 42.Qxe6 Rxc2
+43.Rxc2  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Kosten, Anthony C"]
+[Black "Sokolov, Ivan"]
+[Result "1/2-1/2"]
+[WhiteElo "2515"]
+[BlackElo "2625"]
+[ECO "A21"]
+
+1.c4 e5 2.Nc3 Bb4 3.Qb3 Nc6 4.Nf3 d6 5.e3 Nf6 6.Be2 O-O 7.a3 Bxc3 8.Qxc3 e4
+9.Nd4 Ne5 10.f4 exf3 11.Nxf3 Re8 12.O-O Bg4 13.b4 Nxf3+ 14.Bxf3 Bxf3 15.Rxf3 Ne4
+16.Qc2 a5 17.b5 d5 18.Rf4 Ng5 19.Bb2 Re4 20.cxd5 Qxd5 21.Rxe4 Nxe4 22.d3 Ng5
+23.a4 Ne6 24.e4 Qg5 25.Rf1 Qc5+ 26.Rf2 Qe3 27.d4 Rf8 28.Qe2 Qxe2 29.Rxe2 Rd8
+30.Rc2 Nxd4 31.Bxd4 Rxd4 32.Rxc7 g6 33.Rxb7 Rxe4 34.Ra7 Rxa4 35.h3 Kg7 36.Kh2 h5
+37.b6 h4 38.Kg1 Rb4 39.Rxa5 Rxb6 40.Ra4 g5 41.Ra2 Kg6 42.Kf2 Rb5 43.Ra3 f6
+44.Kf3 Kf5 45.Rc3 Ke5 46.Ra3 Rd5 47.Re3+ Kd4 48.Re4+ Kd3 49.Re3+ Kd2 50.Re2+ Kd1
+51.Re6 Rf5+ 52.Kg4 Rf2 53.Kh5 Kd2 54.Kg6 Rxg2 55.Kxf6 g4 56.hxg4 h3 57.Kf5 Rf2+
+58.Kg5 h2 59.Rh6 Ke3 60.Kg6 Kf4 61.g5 Kg4 62.Rh8 Ra2 63.Kf6 Ra6+ 64.Kf7 Kxg5  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Kosten, Anthony C"]
+[Black "Smirin, Ilia"]
+[Result "1/2-1/2"]
+[WhiteElo "2515"]
+[BlackElo "2555"]
+[ECO "A36"]
+
+1.c4 g6 2.Nc3 Bg7 3.g3 Nf6 4.Bg2 O-O 5.e4 c5 6.Nge2 Nc6 7.d3 a6 8.O-O d6
+9.Rb1 Bg4 10.f3 Bd7 11.a4 Ne8 12.Be3 Nc7 13.d4 cxd4 14.Nxd4 Nxd4 15.Bxd4 Bxd4+
+16.Qxd4 b5 17.b4 Ne6 18.Qe3 bxc4 19.f4 Bc6 20.f5 Ng7 21.g4 Rc8 22.Rf3 f6
+23.Qh6 gxf5 24.gxf5 Rf7 25.Kh1 Kh8 26.Rh3 Qg8 27.Rg1 Ne8 28.Bf3 Rg7 29.Rxg7 Qxg7
+30.Qh4 Bb7 31.Rg3 Qf7 32.Bh5 Qf8 33.Bg6 Qg8 34.Rh3 d5 35.exd5 Bxd5+ 36.Kg1 e6
+37.Qxh7+ Qxh7 38.Rxh7+ Kg8 39.Rd7 Ng7 40.Bf7+ Kh8 41.fxe6 Bxe6 42.Bxe6 Nxe6
+43.Rd6 Ng5 44.Rxa6 Rd8 45.h4 Nf3+ 46.Kf2 Rd3 47.Ne2 Ne5 48.b5 Rf3+ 49.Kg2 Rb3
+50.b6 Kh7 51.Nd4 Rb2+ 52.Kg3 c3 53.Ra7+ Kg6 54.Nb5 c2 55.Rc7 Rb3+ 56.Kf2 Nd3+
+57.Kg1 Rb1+ 58.Kh2 Rb2 59.Kg3 Nb4 60.b7 Na6 61.Rc4 Ra2 62.Nc7 Nb8 63.Nd5 Ra3+
+64.Kf2 Rxa4 65.Rxc2 Rxh4 66.Rc8 Na6 67.Rc6 Rh7 68.Rxf6+ Kg5 69.Rb6 Kf5 70.Nb4 Nb8
+71.Ke3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Ivanchuk, Vassily"]
+[Black "Kamsky, Gata"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[BlackElo "2655"]
+[ECO "C89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.Re1 Bd6 13.d3 Qh4 14.g3 Qh3 15.Re4 Bd7
+16.Nd2 g5 17.Re2 f5 18.c4 f4 19.Qf1 fxg3 20.hxg3 Qh5 21.cxd5 Bg4 22.dxc6+ Kg7
+23.Re4 Bxg3 24.fxg3 Rxf1+ 25.Nxf1 Qh3 26.Re7+ Kh6 27.Bd5 Rf8 28.Bd2 Bf3 29.Bxf3 Rxf3
+30.Re2 Kg6 31.c7 Rf8 32.Rae1 Qd7 33.Re6+ Kh5 34.g4+ Kxg4 35.R1e4+ Kf3 36.Be1  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Ree, Hans"]
+[Result "1/2-1/2"]
+[WhiteElo "2525"]
+[BlackElo "2450"]
+[ECO "B21"]
+
+1.e4 c5 2.f4 g6 3.Nf3 Bg7 4.c3 Nc6 5.d4 d5 6.e5 cxd4 7.cxd4 Bg4 8.Bb5 Nh6
+9.Be3 Nf5 10.Bf2 O-O 11.Bxc6 bxc6 12.h3 Bxf3 13.Qxf3 f6 14.Qc3 c5 15.dxc5 fxe5
+16.fxe5 Qb8 17.Nd2 Bxe5 18.Qd3 Bxb2 19.Rb1 Qe5+ 20.Kd1 Qf6 21.Rf1 Bd4 22.Bxd4 Qxd4
+23.Qxd4 Nxd4 24.Re1 Nc6 25.Nf3 Rab8 26.Rxb8 Rxb8 27.Re6 Rc8 28.Kd2 Kf8 29.Ng5 Kg7
+30.h4 h6 31.Nf3 Rc7 32.Ne5 Nxe5 33.Rxe5 Kf6 34.Rxd5 Ke6 35.Rd4 Rxc5 36.Ra4 a5
+37.Ke3 Re5+ 38.Kf3 Kf6 39.Rc4 Rb5 40.Rc6+ e6 41.Ra6 Rc5 42.a4 h5 43.Ra8 Rf5+
+44.Ke2 g5 45.hxg5+ Rxg5 46.g3 Rc5 47.Kf3 Ke5 48.Ke3 Kd5 49.Kd3 Kc6 50.Ra6+ Kd5
+51.Ra8 Kd6 52.Kd4 Rg5 53.Ra6+ Ke7 54.Ke4 Kf6 55.Kf3 Rf5+ 56.Ke3 Re5+ 57.Kf3 Kg5
+58.Ra8 Rf5+ 59.Kg2 Kg4 60.Rg8+ Rg5 61.Re8 Rc5 62.Rxe6 Rc2+ 63.Kf1 Rc4 64.Kg2 Rxa4
+65.Rg6+ Kf5 66.Rh6 Kg5 67.Rh8 Ra2+ 68.Kh3 Rb2 69.Rg8+ Kf6 70.Rf8+ Ke6 71.Re8+ Kd6
+72.Rd8+ Kc5 73.Rh8  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Sveshnikov, Evgeny"]
+[Black "Lputian, Smbat G"]
+[Result "0-1"]
+[WhiteElo "2525"]
+[BlackElo "2585"]
+[ECO "B81"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 h6 7.h3 Nc6 8.Bg2 Bd7
+9.O-O Be7 10.f4 Nxd4 11.Qxd4 Bc6 12.Be3 Nd7 13.Qd2 g5 14.Bd4 Rh7 15.e5 dxe5
+16.fxe5 Nxe5 17.Rad1 Qc7 18.Ne4 O-O-O 19.Qc3 Ng6 20.Bxa7 Rxd1 21.Rxd1 Nf4
+22.Bf3 Nxh3+ 23.Kf1 h5 24.Bc5 Bxe4 25.Bxe4 Bxc5 26.Bxh7 Qf4+ 27.Ke2 Qxg4+
+28.Ke1 Qh4+ 29.Ke2 Nf4+ 30.Kd2 Qf2+ 31.Kc1 Ne2+  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Stohl, Igor"]
+[Black "Ligterink, Gert"]
+[Result "1-0"]
+[WhiteElo "2560"]
+[BlackElo "2430"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Bg5 h6 6.Bh4 c5 7.e3 cxd4 8.exd4 d5
+9.cxd5 exd5 10.Bd3 Nc6 11.Ne2 Be7 12.a3 Be6 13.f3 Rc8 14.O-O a6 15.Bf2 Bd6
+16.g4 Qd7 17.Rad1 Na5 18.Bg3 Nc4 19.Bxc4 Rxc4 20.Bxd6 Qxd6 21.Qd2 Rfc8 22.Qf4 Qb6
+23.Rd2 Ne8 24.Qe5 f6 25.Nxd5 Bxd5 26.Qxd5+ Kh8 27.Nf4 Nd6 28.Re1 Rc1 29.Rxc1 Rxc1+
+30.Kg2 Nc4 31.Ng6+ Kh7 32.Nf8+ Kh8 33.Qe4 Kg8 34.Re2 Qd6 35.Qh7+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Stohl, Igor"]
+[Black "Hort, Vlastimil"]
+[Result "1/2-1/2"]
+[WhiteElo "2560"]
+[BlackElo "2560"]
+[ECO "E16"]
+
+1.d4 e6 2.c4 Bb4+ 3.Bd2 Qe7 4.g3 Nf6 5.Nf3 Bxd2+ 6.Qxd2 b6 7.Bg2 Bb7 8.O-O O-O
+9.Nc3 Na6 10.d5 Qc5 11.Ne5 c6 12.Rfd1 cxd5 13.cxd5 exd5 14.Nd3 Qe7 15.Nf4 Nc7
+16.e3 Qe5 17.b3 Rac8 18.Nfxd5 Ncxd5 19.Nxd5 Bxd5 20.Bxd5 Rc5 21.Bg2  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Stohl, Igor"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2560"]
+[BlackElo "2685"]
+[ECO "E62"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Nc6 7.O-O e5 8.h3 Nd7
+9.Bg5 f6 10.Be3 f5 11.dxe5 Ncxe5 12.Qd2 c6 13.b3 Nxf3+ 14.Bxf3 Nc5 15.Rad1 Ne6
+16.Bh6 Bxh6 17.Qxh6 Ng5 18.h4 Nf7 19.Qd2 Qa5 20.Bg2 Be6 21.e3 Rad8 22.Qb2 Ne5
+23.Rd4 h6 24.Rfd1 g5 25.Qd2  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Speelman, Jonathan S"]
+[Black "Greenfeld, Alon"]
+[Result "1-0"]
+[WhiteElo "2590"]
+[BlackElo "2535"]
+[ECO "E52"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 b6 6.Bd3 Bb7 7.O-O d5 8.a3 Bd6
+9.b3 Nbd7 10.Nb5 Be7 11.Bb2 a6 12.Nc3 Bd6 13.Re1 c5 14.cxd5 exd5 15.e4 dxe4
+16.Nxe4 Nxe4 17.Bxe4 Bxe4 18.Rxe4 Nf6 19.Re2 Rc8 20.dxc5 Rxc5 21.Rd2 Rd5
+22.Rxd5 Nxd5 23.g3 Nc7 24.Qc2 Ne6 25.Rd1 Qa8 26.Qf5 Be7 27.Rd7 Re8 28.h4 Nf8
+29.Qg4 Ne6 30.Qf5 Qc8 31.Ng5 Nxg5 32.Rxe7 Nf3+ 33.Kh1  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Spasov, Vasil"]
+[Black "Vogt, Lothar"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2530"]
+[ECO "B83"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 Be7 7.f4 O-O 8.Be3 Nc6
+9.Qd2 e5 10.Nb3 a5 11.a4 exf4 12.Bxf4 Be6 13.Rd1 Qb6 14.Be3 Qb4 15.Nd4 Ne5
+16.O-O Rac8 17.Kh1 Nc4 18.Bxc4 Rxc4 19.Qc1 Rcc8 20.Bg5 Qc5 21.Nf5 Bxf5 22.Rxf5 Qc4
+23.Qe3 Rc5 24.Rxc5 dxc5 25.Qf3 h6 26.Bf4 Rd8 27.Rxd8+ Bxd8 28.Qd3 Qxd3 29.cxd3 Ng4
+30.Nd1 Bf6 31.b3 Bd4 32.h3 Nf6 33.g4 Nd7 34.Kg2 c4 35.bxc4 Nc5 36.Bc7 Nxd3
+37.Bxa5 Ne5  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Jussupow, Artur"]
+[Black "Dreev, Alexey"]
+[Result "1-0"]
+[WhiteElo "2640"]
+[BlackElo "2590"]
+[ECO "D43"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.Bg5 h6 6.Bxf6 Qxf6 7.e3 Nd7 8.Bd3 dxc4
+9.Bxc4 Bd6 10.O-O Qe7 11.Ne4 Bc7 12.Rc1 O-O 13.Qc2 Rd8 14.Rfd1 a5 15.Bb3 Nf8
+16.a3 Bd7 17.Nc5 Ra7 18.e4 Be8 19.e5 Bb6 20.Ne4 Raa8 21.Ba2 Rd7 22.Qb3 Ba7
+23.Nd6 Qd8 24.Nxb7 Rxb7 25.Qxb7 Bb6 26.d5 cxd5 27.Nd4 Ng6 28.Nc6 Bxc6 29.Qxc6 Nxe5
+30.Qc2 Ng4 31.Rf1 Rb8 32.Bb1 g6 33.h3 Nf6 34.Qd2 Kg7 35.Rc6 Qd7 36.Rfc1 Qa7
+37.Qf4 Rb7 38.Rc8 Nd7 39.Qd6 Bd4 40.Kh1 Be5 41.Qe7  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Ivanchuk, Vassily"]
+[Black "Seirawan, Yasser"]
+[Result "1/2-1/2"]
+[WhiteElo "2720"]
+[BlackElo "2605"]
+[ECO "E42"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 cxd4 6.exd4 d5 7.c5 Ne4 8.Bd2 Nxd2
+9.Qxd2 a5 10.a3 Bxc3 11.Nxc3 Bd7 12.Bd3 a4 13.O-O Nc6 14.Rae1 Nxd4 15.Nxd5 Bc6
+16.Nb6 Ra5 17.Rd1 Rxc5 18.Be4 Qxb6 19.Qxd4 O-O 20.Rc1 Rb5 21.Qxa4 Bxe4 22.Qxe4 Rxb2
+23.Rb1 Rc8 24.g3 g6 25.a4 Qb3 26.Rxb2 Qxb2 27.Qb1 Rc2 28.Qxb2 Rxb2 29.a5 g5
+30.Ra1 Kg7 31.a6 bxa6 32.Rxa6 g4 33.Ra4 h5 34.h3 gxh3 35.Rh4 Rb1+ 36.Kh2 Rf1
+37.Rf4 e5 38.Rf3 Kg6 39.Kxh3 e4 40.Re3 f5 41.Kg2 Rd1 42.Ra3 h4 43.gxh4 Kh5
+44.Ra5 Kg4 45.h5 Rd6 46.f3+ exf3+ 47.Kf2 Rd2+ 48.Ke1 Rh2 49.Ra8 Rxh5 50.Kf2 Rh2+
+51.Kf1 Kf4 52.Rb8 Rd2 53.Ra8 Rb2 54.Rc8 f2 55.Rc3 Ke4 56.Ra3 Rd2 57.Rb3 Rd3
+58.Rxd3 Kxd3 59.Kxf2 Ke4 60.Ke2 f4 61.Kf2 f3 62.Kf1  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Oll, Lembit"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[WhiteElo "2600"]
+[BlackElo "2710"]
+[ECO "E97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Bg5 Nh5 10.Ne1 Nf4 11.Nd3 Nxe2+ 12.Qxe2 h6 13.Bd2 g5 14.h4 g4 15.f4 gxf3
+16.Qxf3 f5 17.Qh5 Rf6 18.g4 f4 19.g5 hxg5 20.hxg5 Rg6 21.Kf2 c6 22.Rh1 cxd5
+23.cxd5 Qb6+ 24.Ke2 Bd7 25.Rhf1 Kf7 26.Bxf4 exf4 27.Rxf4+ Ke8 28.Raf1 Kd8
+29.Rf8+ Be8 30.e5 Rc8 31.Rxe8+ Kxe8 32.Ne4 dxe5 33.d6 Rc4 34.Nf6+ Bxf6 35.gxf6 Re4+
+36.Kd1 Qe3 37.f7+ Kd7 38.Qf3 Qxf3+ 39.Rxf3 Rg1+ 40.Kd2 Rg2+ 41.Kd1 Ng6 42.Nc5+  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Ivanchuk, Vassily"]
+[Black "Epishin, Vladimir"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[BlackElo "2630"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6 6.Bd3 Nd7 7.O-O Ngf6 8.Ng3 Be7
+9.c4 Bxf3 10.Qxf3 c6 11.b3 O-O 12.Bb2 Re8 13.h4 g6 14.h5 Qa5 15.hxg6 hxg6
+16.a3 Qg5 17.Rfe1 Rad8 18.Rad1 Qg4 19.Qxg4 Nxg4 20.Ne4 Nh6 21.d5 Nf5 22.dxe6 fxe6
+23.b4 Nb6 24.Be2 Kf7 25.g4 Nh4 26.f4 Rf8 27.Kh2 Ke8 28.Kg3 Rd7 29.Bg7 Rf7
+30.Bh6 g5 31.fxg5 Ng6 32.Nf6+ Bxf6 33.gxf6 Rxf6 34.g5 Rf5 35.Bh5 Kf7 36.Bxg6+ Kxg6
+37.Rxe6+ Kf7 38.Rde1 Kg8 39.g6 Rf8 40.Re8 Rd3+ 41.Kg2 Nd7 42.Rxf8+ Nxf8 43.Re8  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Hort, Vlastimil"]
+[Black "Illescas Cordoba, Miguel"]
+[Result "1-0"]
+[WhiteElo "2560"]
+[BlackElo "2600"]
+[ECO "D11"]
+
+1.d4 d5 2.c4 c6 3.Nd2 Nf6 4.Ngf3 Bf5 5.g3 e6 6.Bg2 Nbd7 7.O-O h6 8.b3 Be7
+9.Bb2 O-O 10.e3 a5 11.Qe2 a4 12.Rfc1 Ne4 13.Nxe4 Bxe4 14.Bc3 Nf6 15.c5 Nd7
+16.b4 Bf6 17.Bh3 Bxf3 18.Qxf3 b5 19.cxb6 Qxb6 20.a3 Qb7 21.Rc2 Nb6 22.Bf1 Nc8
+23.Rac1 Nd6 24.Bb2 Rfc8 25.Bd3 Be7 26.Qe2 Nb5 27.e4 Bf6 28.e5 Bd8 29.Kg2 Rab8
+30.h4 Qd7 31.h5 Bb6 32.Qg4 Rc7 33.Rd2 Rf8 34.Bc2 f5 35.exf6 Rxf6 36.Bxa4 Ra7
+37.Qd1 Ra8 38.Qc2 Qa7 39.Bxb5 cxb5 40.Qc6 Qa6 41.Re2 Bd8 42.Qxa6 Rxa6 43.Rc8 Rf8
+44.Rb8 Be7 45.Rb7 Re8 46.Rc2 Raa8 47.Rcc7  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Hjartarson, Johann"]
+[Black "Novikov, Igor A"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2585"]
+[ECO "A13"]
+
+1.c4 e6 2.Nf3 d5 3.b3 Be7 4.Bb2 Bf6 5.Nc3 Ne7 6.g3 O-O 7.Bg2 c5 8.O-O Nbc6
+9.d3 b6 10.e3 Bb7 11.Qe2 a6 12.h3 Rb8 13.Nh2 Bxc3 14.Bxc3 d4 15.Bb2 dxe3
+16.fxe3 Qd6 17.Qg4 Ng6 18.Rad1 f5 19.Qg5 Nce7 20.Bxb7 Rxb7 21.e4 Rd7 22.h4 h6
+23.Qe3 Nc6 24.h5 Nge5 25.Rf4 fxe4 26.Qxe4 Rdf7 27.Kg2 Rf5 28.Rd2 Rxh5 29.Rxf8+ Qxf8
+30.Ng4 Qf5 31.Bxe5 Nxe5 32.Nxe5 Qxe5 33.Rf2 Rg5 34.Qa8+ Kh7 35.Qe4+ Kg8 36.Qa8+ Kh7
+37.Qe4+ Rf5 38.Rxf5 Qxf5 39.Qxf5+ exf5 40.d4 cxd4 41.b4 Kg8  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Spasov, Vasil"]
+[Black "Kamsky, Gata"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2655"]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nc3 Qd6 6.d4 exd4 7.Nxd4 Bd7 8.O-O O-O-O
+9.Be3 Nh6 10.f3 Qg6 11.Qe2 Bd6 12.Rad1 Rhe8 13.Nb3 f5 14.Bc5 Bf4 15.Be3 Bd6
+16.Bc5 Bf4 17.Be3 Bd6  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Sokolov, Ivan"]
+[Black "Razuvaev, Yuri S"]
+[Result "1-0"]
+[WhiteElo "2625"]
+[BlackElo "2565"]
+[ECO "A17"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 b6 4.e4 Bb7 5.Bd3 c5 6.O-O d6 7.Bc2 e5 8.Nd5 Be7
+9.Ne1 Nc6 10.f4 exf4 11.Nxf4 O-O 12.d3 Nd7 13.Ba4 Nde5 14.Nc2 Bg5 15.Nd5 Bxc1
+16.Rxc1 Ne7 17.Nxe7+ Qxe7 18.Ne3 g6 19.d4 cxd4 20.Qxd4 Rac8 21.b4 Qg5 22.Rce1 h5
+23.a3 h4 24.h3 Qg3 25.Re2 Rc7 26.Ref2 Re7 27.Rf4 Rc8 28.Kh1 Rcc7 29.Bd1 Bc6
+30.Bg4 Bb7 31.b5 Nd7 32.Bxd7 Rcxd7 33.Ng4 f5 34.R4f3 Qxf3 35.Nf6+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Hertneck, Gerald"]
+[Black "Lautier, Joel"]
+[Result "1/2-1/2"]
+[WhiteElo "2560"]
+[BlackElo "2580"]
+[ECO "D31"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Bb4 4.cxd5 exd5 5.Bf4 Nf6 6.e3 c5 7.Bb5+ Bd7 8.Bxd7+ Qxd7
+9.dxc5 Bxc3+ 10.bxc3 O-O 11.Ne2 Rc8 12.Be5 Ne4 13.Nf4 Rxc5 14.Bd4 Rc4 15.Qh5 Nc6
+16.O-O Nxd4 17.cxd4 Nf6 18.Qh3 Qxh3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Gurevich, Mikhail"]
+[Black "Kengis, Edvins"]
+[Result "1/2-1/2"]
+[WhiteElo "2625"]
+[BlackElo "2590"]
+[ECO "A40"]
+
+1.d4 e6 2.c4 Bb4+ 3.Nc3 b6 4.e3 Bb7 5.Ne2 f5 6.a3 Bd6 7.d5 Nf6 8.g3 a5 9.Bg2 Na6
+10.O-O O-O 11.b3 Nc5 12.Bb2 Qe7 13.Nd4 Nce4 14.Nxe4 fxe4 15.dxe6 dxe6 16.Qc2 e5
+17.Nb5 Qf7 18.Rad1 Rad8 19.Rd2 Bc6 20.Nxd6 cxd6 21.a4 Qe6 22.Ba3 Rd7 23.Rfd1 Rfd8
+24.b4 axb4 25.Bxb4 d5 26.cxd5 Bxd5 27.Qb2 Bc4 28.Rxd7 Rxd7 29.Rxd7 Qxd7 30.h3 Qxa4
+31.Bc3 Qd1+ 32.Kh2 Qb3 33.Qxb3 Bxb3 34.Bxe5 Bc2 35.g4 b5 36.g5 Nd5 37.h4 b4
+38.Bh3 Kf7 39.Bc8 Nb6 40.Ba6 Bd3 41.Bb7 b3 42.Bd4 Nc4 43.Bd5+ Kf8 44.Bxc4 Bxc4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Gulko, Boris F"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2530"]
+[ECO "E34"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 Qxd5 6.Nf3 c5 7.Bd2 Bxc3 8.Bxc3 Nc6
+9.Rd1 b6 10.e3 Bb7 11.dxc5 Qxc5 12.Bd3 O-O 13.a3 Rac8 14.O-O Qh5 15.Qe2 Nd5
+16.Bd2 Ne5 17.Nd4 Qxe2 18.Bxe2 Nc4 19.Bc1 a6 20.e4 Nf6 21.f3 h6 22.b3 Na5
+23.Be3 b5 24.Bd2 Nc6 25.Nxc6 Rxc6 26.Bb4 Rfc8 27.Rd2 Rc2 28.Rfd1 Rxd2 29.Rxd2 Bc6
+30.Rc2 Bd7 31.Rxc8+ Bxc8 32.Kf2 e5 33.Ke3 Be6 34.Bd1 Nd7 35.Bd6 f5 36.Kd3 Kf7
+37.Kc3 fxe4 38.fxe4 Nf6 39.Bf3 g5 40.Bxe5 g4 41.Be2 Nxe4+ 42.Kb4 h5 43.a4 Nd2
+44.axb5 axb5 45.Bd1 Bd5 46.Bf4 Nf1 47.g3 Bf3 48.Bc2 Be2 49.Bf5 Nxh2 50.Bd7 Nf3
+51.Bxb5 Bd1 52.Bc4+ Kf6 53.Kc5 Ne5 54.Kd6 Ng6 55.Be3 h4 56.Bd4+ Kg5 57.Be3+ Kf6
+58.gxh4 Nxh4 59.Kc5 Nf5 60.Bg1 Ke5 61.b4 Bf3 62.b5 g3 63.b6 Bb7 64.Bd3 Ne7
+65.Bd4+ Ke6 66.Be2 Nc8 67.Bg4+ Ke7 68.Be3 g2  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Gulko, Boris F"]
+[Black "Knoppert, Erik G J"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2370"]
+[ECO "A28"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 Nc6 4.Nc3 Bb4 5.e4 O-O 6.d3 d6 7.Nf3 Nd4 8.Nxd4 exd4
+9.a3 Ba5 10.b4 dxc3 11.bxa5 c6 12.O-O Qxa5 13.Rb1 Nd7 14.Qc2 Nc5 15.Be3 f5
+16.Bd4 fxe4 17.dxe4 Be6 18.Bxc3 Qa6 19.Rb4 Bxc4 20.Bxg7 Bxf1 21.Bxf1 Qxa3
+22.Bc3 Rf3 23.Bc4+ d5 24.Bb3 Nxb3 25.Rxb3 Qa4 26.exd5 cxd5 27.Qd1 Rd3 28.Qh5 Qxb3
+29.Qg5+ Kf7 30.Qf6+ Ke8 31.Qe6+ Kf8 32.Qd6+ Ke8 33.Qe6+ Kf8  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Goldin, Alexander"]
+[Black "Jussupow, Artur"]
+[Result "1/2-1/2"]
+[WhiteElo "2575"]
+[BlackElo "2640"]
+[ECO "D11"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Qc2 g6 5.Bf4 dxc4 6.Qxc4 Bg7 7.e3 O-O 8.Be2 Be6
+9.Qc1 Nbd7 10.O-O c5 11.Nc3 Nd5 12.Rd1 Rc8 13.Nxd5 Bxd5 14.dxc5 Nxc5 15.Bc4 Nd3
+16.Rxd3 Rxc4 17.Qd2 e6 18.Be5 Qc8 19.Bxg7 Kxg7 20.Ne1  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Georgiev, Kiril"]
+[Black "Adams, Michael"]
+[Result "0-1"]
+[WhiteElo "2610"]
+[BlackElo "2610"]
+[ECO "A30"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 c5 4.Bg2 Bb7 5.O-O e6 6.d4 cxd4 7.Qxd4 d6 8.Nc3 Be7
+9.Bg5 a6 10.Rfd1 Nbd7 11.Qd2 O-O 12.Bf4 Ne8 13.Ng5 Bxg2 14.Kxg2 Rc8 15.b3 h6
+16.Nf3 Rc6 17.g4 Nef6 18.g5 hxg5 19.Nxg5 Nh5 20.Be3 b5 21.cxb5 Rxc3 22.Qxc3 Bxg5
+23.Rxd6 Bf6 24.Qc6 Bxa1 25.Rxd7 Qh4 26.bxa6 Nf6 27.Rd1 Be5 28.h3 Nd5 29.a7 Qe4+
+30.Kg1 Qg6+ 31.Kf1 Bh2 32.Ke1 Nxe3 33.Rd3 Qg2 34.Qxg2 Nxg2+ 35.Kd2 Bg1 36.Rf3 Ra8
+37.Rg3 Bxf2 38.Rxg2 Bxa7 39.a4 Bb6 40.Kc3 f5 41.Kb4 Be3 42.Kb5 e5 43.a5 f4
+44.b4 e4 45.a6 f3 46.exf3 exf3 47.Rh2 f2 48.Rh1 Kf7 49.Ka5 Kf6 50.b5 Rb8  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Geller, Efim P"]
+[Black "Chandler, Murray G"]
+[Result "0-1"]
+[WhiteElo "2525"]
+[BlackElo "2575"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Qa5+ 12.Bd2 Qc7 13.Ne4 Ngf6 14.O-O-O Bd6 15.Nxd6+ Qxd6
+16.Qe2 Qd5 17.c4 Qe4 18.Qxe4 Nxe4 19.Be3 O-O 20.Ne5 Rfd8 21.g4 f6 22.Ng6 Kf7
+23.f3 Ng5 24.f4 Ne4 25.Rhe1 Rac8 26.Kc2 Nf8 27.Nh4 Nd6 28.b3 b5 29.c5 Ne8
+30.f5 Rc7 31.Rd2 Rcd7 32.Rde2 Rd5 33.fxe6+ Nxe6 34.Nf5 N8c7 35.Bf4 Rxf5 36.Bxc7 Nxd4+
+37.Kb1 Nxe2 38.gxf5 Re8 39.Kb2 Nd4 40.Rf1 b4 41.Rf2 Nb5 42.Ba5 Nc3 43.Kc2 Nd5
+44.Kb2 Re1 45.a3 bxa3+ 46.Ka2 Rh1 47.Bd2 Rxh5 48.Kxa3 Ne7 49.b4 Rxf5 50.Rh2 Nd5
+51.Kb2 Rf3 52.b5 cxb5 53.c6 Rd3 54.Ba5 Rd4  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Gelfand, Boris"]
+[Black "Rozentalis, Eduardas"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2590"]
+[ECO "E49"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.a3 Bxc3+ 7.bxc3 d5 8.cxd5 Qxd5
+9.Nf3 b6 10.Qe2 cxd4 11.cxd4 Bb7 12.O-O Nbd7 13.Bb2 Rac8 14.Rfc1 h6 15.Bc4 Qf5
+16.a4 Rfd8 17.Bb5 Qd5 18.Ba3 Ne4 19.Be7 Re8 20.Bb4 a5 21.Be1 Red8 22.Bc4 Qc6
+23.Qb2 Ng5 24.Be2 Qe4 25.h4 Nh7 26.Rxc8 Rxc8 27.Rc1 Rxc1 28.Qxc1 Bc6 29.Qd1 Nhf6
+30.Bf1 Qg4 31.Be2 Qe4 32.Bf1 g6 33.Nd2 Qxh4 34.f3 Qg5 35.Bf2 Qd5 36.Qc2 Bb7
+37.Bb5 Qd6 38.e4 Qf4 39.e5 Nh5 40.Bxd7 Ng3 41.Bb5  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Gelfand, Boris"]
+[Black "Kengis, Edvins"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2590"]
+[ECO "C10"]
+
+1.d4 e6 2.e4 d5 3.Nc3 Nc6 4.Nf3 Nf6 5.e5 Ne4 6.Ne2 h5 7.c3 h4 8.Nd2 Nxd2
+9.Bxd2 Ne7 10.Nf4 Nf5 11.Bd3 g6 12.Qe2 c6 13.O-O-O Qa5 14.Kb1 Bd7 15.g4 Ng7
+16.Nh3 Be7 17.Bg5 Bxg5 18.Nxg5 Qd8 19.Qe3 Qe7 20.Qf4 O-O 21.Nf3 f5 22.Qh6 fxg4
+23.Nxh4 Nf5 24.Bxf5 gxf5 25.Ng6 Qg7 26.Qxg7+ Kxg7 27.Nxf8 Rxf8 28.h3 Be8
+29.Rdg1 Bg6 30.Kc1  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Gelfand, Boris"]
+[Black "Kamsky, Gata"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2655"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 O-O
+9.Be2 cxd4 10.cxd4 Qa5+ 11.Bd2 Qxa2 12.O-O Bg4 13.Be3 b6 14.Ra1 Qb2 15.h3 Bxf3
+16.Bxf3 e5 17.d5 Nd7 18.Qa4 Nc5 19.Bxc5 bxc5 20.d6 Qb4 21.Qa6 Qb6 22.Be2 Rfd8
+23.Rfd1 Rab8 24.Qd3 c4 25.Qxc4 Rxd6 26.Rxd6 Qxd6 27.Rxa7 Rf8 28.Qa2 Qb4 29.Bc4 Qe1+
+30.Kh2 Qxe4 31.Rxf7 Rxf7 32.Bxf7+ Kh8 33.g3 Bf8 34.Bd5 Qf5 35.Qa7 Qf6 36.Kg2  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Ftacnik, Lubomir"]
+[Black "Winants, Luc"]
+[Result "1-0"]
+[WhiteElo "2535"]
+[BlackElo "2505"]
+[ECO "D38"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nc3 Bb4 5.cxd5 exd5 6.Bg5 Nbd7 7.Nd2 c6 8.e3 Nf8
+9.Bd3 Ng6 10.O-O O-O 11.h4 h6 12.h5 hxg5 13.hxg6 fxg6 14.Qb3 Ba5 15.e4 Bb6
+16.exd5 cxd5 17.Nde4 Be6 18.Rae1 Bxd4 19.Nxf6+ Rxf6 20.Rxe6 Rxe6 21.Nxd5 Qd6
+22.Nc7 Qxc7 23.Qxe6+ Qf7 24.Qd6 Qf6 25.Bc4+ Kh7 26.Qh2+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Epishin, Vladimir"]
+[Black "Lutz, Christopher"]
+[Result "1/2-1/2"]
+[WhiteElo "2630"]
+[BlackElo "2550"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb7 6.Bg2 Bb4+ 7.Bd2 c5 8.O-O O-O
+9.dxc5 Bxc5 10.Nc3 Na6 11.Bf4 Qe7 12.Nb5 d5 13.a3 dxc4 14.b4 e5 15.Bxe5 Ng4
+16.Bd6 Bxd6 17.Qxd6 Qe8 18.Nc3 Nf6 19.Rfd1 Rc8 20.Rac1 Nc7 21.Bh3 Ne6 22.Qe5 h6
+23.Qe3 Qc6 24.b5 Qc5 25.Nd4 Rfe8 26.Bxe6 fxe6 27.f3 Qh5 28.g4 Qg6 29.h3 h5
+30.Kf1 hxg4 31.hxg4 e5 32.Nf5 e4 33.Qf4 exf3 34.exf3 Bxf3 35.Qxf3 Nxg4 36.Nd5 Nh2+
+37.Kf2 Ng4+ 38.Kf1 Nh2+ 39.Kf2 Ng4+ 40.Kf1 Nh2+ 41.Kf2 Ng4+  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Eingorn, Vereslav S"]
+[Black "Wojtkiewicz, Aleksander"]
+[Result "0-1"]
+[WhiteElo "2590"]
+[BlackElo "2530"]
+[ECO "E97"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Bg5 h6 10.Bxf6 Bxf6 11.b4 Kg7 12.c5 Ng8 13.Nd2 Be7 14.c6 bxc6 15.dxc6 Bg5
+16.Bc4 f5 17.Re1 Nf6 18.exf5 Bxf5 19.Nde4 Nxe4 20.Nxe4 h5 21.b5 Bf4 22.g3 Bh6
+23.a4 Rb8 24.Nc3 h4 25.a5 Bg5 26.Ra2 hxg3 27.hxg3 Rh8 28.Nd5 Qg8 29.Ne3 Be4
+30.Kf1 Qf8 31.f4 Rh1+ 32.Ke2 Rh2+ 33.Kf1 Rxa2 34.Bxa2 Bxf4 35.Kg1 Bxg3 36.Rf1 Bf4
+37.Ng2 Qf6 38.Qg4 Bf5 39.Qe2 Qg5 40.Bd5 Qg3 41.Rxf4 exf4 42.Qe7+ Kh6 43.b6 axb6
+44.Qxc7 Re8  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Ehlvest, Jaan"]
+[Black "Vyzmanavin, Alexey"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2580"]
+[ECO "A04"]
+
+1.Nf3 f5 2.g3 Nf6 3.Bg2 g6 4.c3 Bg7 5.Qb3 e6 6.d4 O-O 7.O-O Nc6 8.Nbd2 d5
+9.Ne1 b6 10.Nd3 Bb7 11.Nf3 Ne4 12.Qc2 Rc8 13.Be3 Na5 14.Rad1 Nc4 15.Bc1 c5
+16.Qb1 Qe7 17.Qa1 a5 18.a4 Ba6 19.Rfe1 Ncd6 20.Be3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Ehlvest, Jaan"]
+[Black "Psakhis, Lev"]
+[Result "1-0"]
+[WhiteElo "2635"]
+[BlackElo "2570"]
+[ECO "E15"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Ba6 5.Nbd2 d5 6.cxd5 exd5 7.Bg2 Be7 8.O-O O-O
+9.Ne5 Bb7 10.Ndf3 c5 11.b3 Nbd7 12.Bb2 Re8 13.Rc1 Ne4 14.Rc2 Nxe5 15.Nxe5 Bd6
+16.Nd3 Rc8 17.Qc1 c4 18.Ne5 b5 19.Bxe4 dxe4 20.bxc4 Bxe5 21.dxe5 bxc4 22.Bc3 Qe7
+23.Qe3 Qc5 24.Bd4 Qa5 25.Rb1 Ba8 26.Bc3 Qc5 27.Qxc5 Rxc5 28.Rcb2 h6 29.a4 Rd8
+30.a5 Rcd5 31.Kg2 Kh7 32.g4 Bc6 33.Kg3 Rd1 34.Kf4 Kg6 35.Rxd1 Rxd1 36.Rb4 Rc1
+37.Rxc4 Bb5 38.Rc7 a6 39.e6 f6 40.h4 Bxe2 41.h5+ Kh7 42.e7 Bb5 43.Kf5 Rc2
+44.Ke6 Rxf2 45.Rd7 Bc4+ 46.Rd5 Rc2 47.e8=Q Rxc3 48.Qg6+ Kh8 49.Qxe4  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Dreev, Alexey"]
+[Black "Sax, Gyula"]
+[Result "1-0"]
+[WhiteElo "2590"]
+[BlackElo "2565"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.cxd5 Nxd5 7.e3 g6 8.h4 h6 9.Bb5+ c6
+10.Bd3 Bg7 11.Ne4 Nf6 12.Nxf6+ Bxf6 13.b4 Nd7 14.Rb1 a5 15.e4 axb4 16.axb4 e5
+17.O-O Bg7 18.h5 g5 19.Bb2 O-O 20.dxe5 Re8 21.e6 fxe6 22.Bc4 Nf6 23.Nd4 b5
+24.Bxe6+ Kf8 25.Bf5 Qd6 26.Bg6 Red8 27.Qf3 Bc8 28.e5 Qxe5 29.Nxc6  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Dorfman, Josif D"]
+[Black "Miles, Anthony J"]
+[Result "0-1"]
+[WhiteElo "2610"]
+[BlackElo "2595"]
+[ECO "B00"]
+
+1.d4 e6 2.e4 b6 3.Nf3 Bb7 4.Bd3 c5 5.c3 Nf6 6.Qe2 Be7 7.O-O Nc6 8.a3 Na5
+9.Nbd2 c4 10.Bc2 Qc7 11.Ne5 b5 12.f4 O-O 13.Ng4 Nxg4 14.Qxg4 Nb3 15.Bxb3 cxb3
+16.f5 exf5 17.exf5 Bd6 18.Ne4 Bxe4 19.Qxe4 Bxh2+ 20.Kh1 Rae8 21.Qf3 Qg3 22.a4 Qxf3
+23.Rxf3 Bd6 24.Be3 g5 25.g4 Re4 26.axb5 Rfe8 27.Bxg5 Re2 28.Kg1 Rxb2 29.Rf2 Ree2
+30.b6 Rxf2 31.bxa7 Rg2+ 32.Kf1 Rbf2+ 33.Ke1 Rg1+  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Dolmatov, Sergey"]
+[Black "Hertneck, Gerald"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2560"]
+[ECO "C18"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 c5 7.h4 Qc7 8.Nf3 h6
+9.h5 b6 10.Bb5+ Bd7 11.Bd3 Nbc6 12.O-O O-O 13.Be3 c4 14.Be2 f6 15.exf6 Rxf6
+16.g3 Raf8 17.Nh4 Be8 18.Qd2 Nc8 19.Ng2 Nd6 20.Bf4 Qd8 21.Bg4 Ne4 22.Qe3 Kh7
+23.f3 Ng5 24.Be5 R6f7 25.f4 Ne4 26.Bxe6 Re7 27.Bg4 Nf6 28.Bf5+ Kg8 29.Nh4 Bxh5
+30.Ng6 Bxg6 31.Bxg6 Qd7 32.Qf3 Qe6 33.Rae1 Ng4 34.Bh5 Ngxe5 35.dxe5 Kh8 36.Qg2 Rd7
+37.Kh2 Ne7 38.Qh3 Qxh3+ 39.Kxh3 g6 40.Bg4 Rc7 41.Rd1 Kg7 42.Be6 Rc5 43.g4 h5
+44.gxh5 Rh8 45.Bg4 Ra5 46.Ra1 gxh5 47.Be6 Ng6 48.Rae1 Rxa3 49.Rf3 Rxc3 50.Rxc3 Nxf4+
+51.Kh2 Nxe6 52.Rf3 Re8 53.Rg1+ Kh6 54.Rf6+ Kh7 55.Rf5 Kh6 56.Kh3 Re7 57.Kh4 Ng7
+58.Rf6+ Kh7 59.e6 Kg8 60.c3 a5 61.Kg5 Nxe6+ 62.Kh6+ Rg7 63.Rxg7+ Nxg7 64.Kg6 h4
+65.Rxb6 Ne8 66.Rb5 Kf8 67.Rxd5 Ke7 68.Kf5 h3 69.Rxa5 h2 70.Ra7+ Kd8 71.Rh7 Nd6+
+72.Ke5 Nb5 73.Rxh2 Nxc3 74.Rb2 Na4 75.Rb4 Nc5 76.Kd6 Ne4+ 77.Kd5 Nf6+ 78.Ke6 Nd7
+79.Kd6 Ke8 80.Rxc4 Nf8  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "De Firmian, Nick E"]
+[Black "Goldin, Alexander"]
+[Result "0-1"]
+[WhiteElo "2560"]
+[BlackElo "2575"]
+[ECO "C71"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.d4 b5 6.Bb3 Nxd4 7.Nxd4 exd4 8.c3 dxc3
+9.Qh5 g6 10.Qd5 Be6 11.Qc6+ Bd7 12.Qxc3 Qf6 13.Qc2 Bg7 14.O-O Rc8 15.Nc3 Ne7
+16.Be3 b4 17.Na4 O-O 18.Bc4 Qe5 19.Rae1 Qa5 20.b3 Bb5 21.f4 Bxc4 22.bxc4 f5
+23.e5 dxe5 24.fxe5 Nc6 25.e6 Rce8 26.Rd1 Qe5 27.Bc5 Qxe6 28.Bxf8 Bxf8 29.Kh1 a5
+30.Nb2 Bg7 31.Nd3 Bc3 32.c5 g5 33.Qa4 f4 34.h3 Rf8 35.Nf2 f3 36.Qb3 Qxb3
+37.axb3 fxg2+ 38.Kxg2 Nd4 39.Ne4 Rxf1 40.Kxf1 Nxb3 41.Rd8+ Kf7 42.Rd7+ Ke6
+43.Rxc7 Kd5 44.c6 Be5 45.Re7 Bf4 46.c7 Bxc7 47.Rxc7 Kxe4 48.Rxh7 Kd3 49.Ra7 Nd2+
+50.Kf2 Nc4 51.Rg7 b3 52.Rxg5 b2 53.Rb5 a4  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "De Boer, Gert Jan"]
+[Black "Oll, Lembit"]
+[Result "0-1"]
+[WhiteElo "2430"]
+[BlackElo "2600"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 Nc6 6.Nc3 d5 7.a3 Bxc3 8.Bxc3 O-O
+9.Bg2 Rd8 10.O-O a5 11.b3 a4 12.cxd5 Nxd5 13.Bb2 Nb6 14.e4 e5 15.d5 Bg4 16.b4 Na7
+17.Qd3 Bxf3 18.Bxf3 Nbc8 19.Bg2 c6 20.f4 cxd5 21.exd5 exf4 22.Rae1 Qd7 23.Rxf4 Nb5
+24.Be4 g6 25.Bf5 gxf5 26.Rxf5 Ra6 27.d6 h6 28.Rxb5 Rxd6 29.Qc3 f6 30.Rc5 Rd1
+31.Qc4+ Kf8 32.Rf1 Qd2 33.Bxf6 Qe3+ 34.Kg2 Rxf1 35.Qxf1 Rd2+ 36.Kh3 Qe6+
+37.g4 Qe3+  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Damljanovic, Branko"]
+[Black "Christiansen, Larry Mark"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2625"]
+[ECO "A04"]
+
+1.Nf3 c5 2.g3 Nc6 3.Bg2 g6 4.O-O Bg7 5.c3 e5 6.e4 Nge7 7.d3 O-O 8.a3 d6 9.b4 b6
+10.Nbd2 h6 11.Bb2 Be6 12.b5 Na5 13.c4 Qd7 14.Ne1 Rad8 15.Nc2 f5 16.Ne3 f4
+17.Nd5 Rf7 18.Bc3 Rdf8 19.f3 h5 20.a4 Bh6 21.Bxa5 bxa5 22.Kf2 g5 23.Qe2 g4
+24.Ke1 Ng6 25.Kd1 fxg3 26.hxg3 h4 27.Kc2 hxg3 28.Rh1 Bxd2 29.Qxd2 gxf3 30.Qg5 fxg2
+31.Rh6 Bxd5 32.Rg1 Rg7 33.cxd5 Rf2+ 34.Kb3 Qf7 35.b6 axb6 36.Qd8+ Qf8 37.Qg5 c4+
+38.Kxc4 Qc8+  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Cifuentes Parada, Roberto"]
+[Black "Serper, Grigory"]
+[Result "1/2-1/2"]
+[WhiteElo "2490"]
+[BlackElo "2575"]
+[ECO "E02"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 dxc4 5.Qa4+ Nbd7 6.Bg2 a6 7.Nc3 Be7 8.Qxc4 b5
+9.Qd3 Bb7 10.O-O O-O 11.Bf4 c5 12.dxc5 Nxc5 13.Qxd8 Rfxd8 14.Ne5 Bxg2 15.Kxg2 Rac8
+16.Rac1 Nfd7 17.Nxd7 Nxd7 18.Ne4 e5 19.Be3 f5 20.Rxc8 Rxc8 21.Rd1 Nf8 22.Nc3 Kf7
+23.Nd5 Rd8 24.Rd2 Ne6 25.Nxe7 Rxd2 26.Bxd2 Kxe7 27.f3 Nd4 28.Kf2 Ke6 29.e4 fxe4
+30.fxe4 Nc6 31.Ke2 Nd4+ 32.Kf2  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Christiansen, Larry Mark"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "2625"]
+[BlackElo "2575"]
+[ECO "A28"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e4 Bb4 5.d3 O-O 6.g3 Nd4 7.Bg2 Nxf3+ 8.Qxf3 d6
+9.Qe2 c6 10.O-O a6 11.h3 b5 12.Be3 Re8 13.Rac1 Bb7 14.Rfd1 Bxc3 15.Rxc3 c5
+16.a3 h6 17.b3 Qe7 18.Rc2 Rab8 19.Rdc1 bxc4 20.bxc4 Bc6 21.Rb2 Rxb2 22.Qxb2 Nd7
+23.Rb1 Rb8 24.Qc1 Qd8 25.h4 Nf8 26.Kh2 Ne6 27.Bh3 Nd4 28.Bxd4 cxd4 29.Rb4 a5
+30.Rb2 Kf8 31.Bg4 Qc7 32.Rxb8+ Qxb8 33.c5 Be8 34.Bd1 Qc7 35.Qb2 dxc5 36.Bb3 Qb6
+37.Qc2 Bd7 38.Bd5 Ke7 39.Qc4 Be6 40.Bxe6 fxe6 41.h5 Kd6 42.Kh3 Qc6 43.a4 Kc7
+44.f4 exf4 45.gxf4 Qb6 46.Qc2 Qc6  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Chernin, Alexander"]
+[Black "Kovalev, Andrei"]
+[Result "0-1"]
+[WhiteElo "2600"]
+[BlackElo "2580"]
+[ECO "A45"]
+
+1.d4 Nf6 2.c3 g6 3.Bg5 Bg7 4.e3 d6 5.Bd3 Nbd7 6.Nd2 c6 7.Bh4 Qc7 8.Ne2 O-O
+9.Ne4 Nxe4 10.Bxe4 e5 11.Bc2 h6 12.f4 Nb6 13.f5 Nc4 14.Qc1 exd4 15.Nxd4 c5
+16.O-O cxd4 17.f6 dxe3 18.fxg7 Re8 19.Bf6 Qb6 20.Bb3 e2+ 21.Bd4 exf1=Q+ 22.Qxf1 Qb5
+23.Bxc4 Qf5 24.Qc1 Qg5 25.Qxg5 hxg5 26.Rf1 Be6 27.Bb5 Rec8 28.h4 gxh4 29.Rf4 Rc5
+30.Rxh4 Rh5 31.Rxh5 gxh5 32.a3 Bf5 33.Kf2 a6 34.Bc4 Be4 35.Kg3 Re8 36.a4 d5
+37.Be2 Bc2 38.Bxh5 Bxa4 39.Bf3 Bc6 40.Kf4 a5 41.g4 Re1 42.Kg5 a4 43.Kh6 Rb1  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Chernin, Alexander"]
+[Black "Gavrikov, Viktor"]
+[Result "1-0"]
+[WhiteElo "2600"]
+[BlackElo "2555"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.e3 b5 6.b3 Bg4 7.h3 Bxf3 8.Qxf3 bxc4
+9.bxc4 e5 10.Rb1 Nbd7 11.Bd2 Qe7 12.Be2 Qe6 13.cxd5 cxd5 14.e4 exd4 15.Nxd5 Rc8
+16.Nxf6+ Nxf6 17.O-O Be7 18.e5 Nd7 19.Qb7 Nc5 20.Qa7 h5 21.Rb6 Qd7 22.Qxd7+ Kxd7
+23.Rd1 Rc6 24.Rb4 d3 25.Bf3 Rcc8 26.Rd4+ Ke6 27.Bd5+ Kxe5 28.Bc3 Kf5 29.Bxf7 Rcd8
+30.Rc4 h4 31.Bb4 Kf6 32.Bxc5 Bxc5 33.Rxc5 Kxf7 34.Rc7+ Kf6 35.Rc3 Rhe8 36.Rdxd3 Re1+
+37.Kh2 Rxd3 38.Rxd3 Re2 39.Rf3+ Ke5 40.a3 Ra2 41.g3 g5 42.g4 Ke4 43.Kg2 Rb2
+44.Rf6 a5 45.Rf5 a4 46.Ra5  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Blees, Albert"]
+[Black "Kosten, Anthony C"]
+[Result "0-1"]
+[WhiteElo "2415"]
+[BlackElo "2515"]
+[ECO "E11"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Nbd2 b6 5.a3 Bxd2+ 6.Bxd2 Bb7 7.Bg5 d6 8.e3 Nbd7
+9.Bd3 h6 10.Bh4 Qe7 11.Qc2 g5 12.Bg3 h5 13.h3 Rg8 14.e4 h4 15.Bh2 Nh5 16.O-O-O Nf4
+17.Bf1 e5 18.g3 hxg3 19.fxg3 Nxh3 20.dxe5 dxe5 21.Bxh3 g4 22.Bf1 gxf3 23.Bh3 Nc5
+24.Bf5 Qg5+ 25.Kb1 Qxf5 26.exf5 Be4 27.g4 Bxc2+ 28.Kxc2 e4 29.Be5 Nd3 30.Bd4 O-O-O
+31.Bf6 Rde8 32.Rh4 Nf2 33.Rg1 e3 34.g5 Ne4 35.Bd4 f2 36.Rgh1 Ng3  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Beliavsky, Alexander G"]
+[Black "Hoeksema, Hendrik Pieter"]
+[Result "1-0"]
+[WhiteElo "2595"]
+[BlackElo "2430"]
+[ECO "E18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 Ne4 7.Bd2 Bf6 8.Qc2 Nxd2
+9.Qxd2 O-O 10.Rd1 d6 11.O-O Nd7 12.d5 Bxc3 13.Qxc3 e5 14.e4 a5 15.Ne1 Ba6
+16.Nc2 b5 17.cxb5 Bxb5 18.Rfe1 Nc5 19.b3 Bd7 20.a3 Qb8 21.b4 axb4 22.axb4 Na4
+23.Qd2 Nb6 24.Ne3 Ra4 25.Rb1 Qb7 26.Rec1 Rfa8 27.h4 Rb8 28.h5 h6 29.Qd1 Qc8
+30.Bf3 Rba8 31.Bg4 Bxg4 32.Nxg4 R8a7 33.Ne3 g6 34.Qf3 Kg7 35.Kg2 Ra3 36.Rc6 Qd7
+37.Rh1 Nc8 38.b5 Ne7 39.hxg6 fxg6 40.b6 cxb6 41.Rxb6 Ng8 42.Rc1 R3a6 43.Rb8 Nf6
+44.Rcc8 Qe7 45.Ng4  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Beliavsky, Alexander G"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[WhiteElo "2595"]
+[BlackElo "2610"]
+[ECO "A57"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.e3 axb5 6.Bxb5 Qa5+ 7.Nc3 Bb7 8.e4 Nxe4
+9.Ne2 g6 10.O-O Nd6 11.a4 Bg7 12.Bg5 h6 13.Bf4 O-O 14.Bxd6 exd6 15.f4 f5
+16.g4 Kh8 17.gxf5 gxf5 18.Qd3 Na6 19.Rad1 Rf7 20.Kh1 Qb4 21.Bc4 Nc7 22.b3 Re8
+23.Rf3 Qa5 24.Rg1 Qa8 25.Rh3 Re6 26.Rg2 Kh7 27.Rhg3 Ree7 28.Rg6 Qf8 29.h4 Kh8
+30.h5 Qe8 31.R6g3 Rf8 32.Qf3 Kh7 33.Kg1 Ne6 34.Nb5 Ba8 35.Rg6 Nd4 36.Nexd4 cxd4
+37.Nxd6 Qd8 38.Qg3 Rg8 39.Nxf5  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Smyslov, Vassily"]
+[Black "Sveshnikov, Evgeny"]
+[Result "1/2-1/2"]
+[WhiteElo "2530"]
+[BlackElo "2525"]
+[ECO "D45"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 c6 5.e3 Nbd7 6.b3 Bb4 7.Bd2 Qe7 8.cxd5 exd5
+9.Bd3 O-O 10.O-O Bd6 11.Nh4 g6 12.f3 Nh5 13.Qe1 f5 14.e4 Nf4 15.Bc2 Ne6 16.Be3 fxe4
+17.fxe4 Bxh2+ 18.Kxh2 Rxf1 19.Qxf1 Qxh4+ 20.Kg1 Nf6 21.Qf2 Qxf2+ 22.Bxf2 Bd7
+23.b4 dxe4 24.Nxe4 Nxe4 25.Bxe4 Nc7 26.Bg3 Nb5 27.d5 Nc3 28.dxc6 Bxc6 29.Bxc6 bxc6
+30.Be1 Ne2+ 31.Kf1 Nf4 32.Rc1 Rc8 33.Rc4 Nd5 34.Bd2 Kf7 35.Ke2 Ke6 36.Kd3 Kd6
+37.Rh4 Rc7 38.g4 Rf7 39.g5 Rf3+ 40.Kc2 Rf7 41.a4 a6 42.Kd3 Nb6 43.Rd4+ Kc7
+44.Bf4+ Kc8 45.a5 Nd5 46.Bd2 Kd7 47.Rh4 Kd6 48.Kc4 Rf2 49.Kd3 Rf3+ 50.Kd4 Rf7
+51.Kc4 Ke5 52.Rh2 Kd6 53.Rh4 Rc7 54.Rd4 Rb7 55.Rh4 Rd7 56.Re4 Kc7 57.Rh4 Kb7
+58.Bf4 Re7 59.Bd6 Rd7 60.Bc5 Rf7 61.Kd4 Kc7 62.Ke4 Kd7 63.Ke5 Rf5+ 64.Ke4 Ke6
+65.Rxh7 Rxg5 66.Ra7 Nxb4 67.Re7+ Kf6 68.Bxb4 Rg4+ 69.Kd3 Rxb4 70.Rc7 Ke5
+71.Ra7 Kd5 72.Rxa6 Rb3+ 73.Kc2 Rb8 74.Ra7 Rg8 75.a6 c5 76.Rh7 g5 77.a7 Kc4
+78.Rg7 Ra8 79.Rxg5 Rxa7  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Barua, Dibyendu"]
+[Black "Tiviakov, Sergei"]
+[Result "1/2-1/2"]
+[WhiteElo "2550"]
+[BlackElo "2585"]
+[ECO "B74"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Bg7 7.O-O Nc6 8.Nb3 O-O
+9.Kh1 Be6 10.f4 Qc8 11.Be3 Rd8 12.Bg1 d5 13.e5 Ne4 14.Bd3 f5 15.exf6 exf6
+16.Nb5 f5 17.c3 Bf7 18.a4 h5 19.a5 h4 20.Rf3 g5 21.fxg5 Bh5 22.Qf1 Bxf3 23.gxf3 Rf8
+24.f4 a6 25.N5d4 Ne7 26.Qh3 Ng6 27.Rf1 Qd7 28.Be2 Rae8 29.Bh5 Qd6 30.Nxf5 Nxf4
+31.Nxd6 Nxh3 32.Bf7+ Rxf7 33.Nxf7 Kh7 34.Bb6 Kg6 35.Kg2 Nhxg5 36.Nxg5 Nxg5
+37.h3 Re2+ 38.Rf2 Re1 39.Rd2 Rb1 40.Nc5 Ne4 41.Re2 Ng3 42.Rc2 d4 43.Nxb7 Nf5
+44.Kf3 Rh1 45.Rg2+ Kf6 46.Bxd4+ Nxd4+ 47.cxd4 Rxh3+ 48.Ke4 Rg3 49.Rxg3 hxg3
+50.Kf3 Ke6 51.Nc5+ Kd5  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Barua, Dibyendu"]
+[Black "Galliamova, Alisa"]
+[Result "1-0"]
+[WhiteElo "2550"]
+[BlackElo "2560"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.d4 cxd4 6.Nxd4 Qb6 7.Nxc6 bxc6 8.Bd3 Ng6
+9.Nc3 Be7 10.Na4 Qa5 11.c4 O-O 12.Bd2 Qc7 13.f4 Ba6 14.Qe2 e5 15.f5 Nf4 16.Bxf4 exf4
+17.e5 f6 18.e6 Bd6 19.exd7 Be5 20.Kh1 Qa5 21.Bc2 Rad8 22.Rad1 Rf7 23.Qe4 Rfxd7
+24.Rxd7 Rxd7 25.Qxc6 Qd2 26.Be4 Qd6 27.Bd5+ Kh8 28.Qxd6 Rxd6 29.Rf3 h6 30.g3 Bc8
+31.gxf4 Bd4 32.Rd3 Bf2 33.Kg2 Bxf5 34.Rb3 Bd4 35.Rb7 Rd8 36.Re7 Rd7 37.Re8+ Kh7
+38.b4 Bc2 39.Nc5 Rc7 40.Ne6 Bb6  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Smyslov, Vassily"]
+[Black "Serper, Grigory"]
+[Result "1/2-1/2"]
+[WhiteElo "2530"]
+[BlackElo "2575"]
+[ECO "E51"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Bb4 4.e3 Nf6 5.a3 Be7 6.Nf3 O-O 7.b4 b6 8.cxd5 exd5
+9.Bb2 c5 10.bxc5 bxc5 11.dxc5 Na6 12.Nd4 Bxc5 13.Be2 Nc7 14.O-O Bd7 15.Rc1 Rb8
+16.Na4 Bxa4 17.Qxa4 Rxb2 18.Rxc5 Ne6 19.Nxe6 fxe6 20.Bd3 e5 21.Bf5 Qe7 22.Ra5 Rb7
+23.Ra6 g6 24.Bh3 Ne4 25.Qc6 Nxf2 26.Qe6+ Kh8 27.Qxe7 Nxh3+ 28.gxh3 Rxf1+
+29.Kxf1 Rxe7 30.Rd6 d4 31.exd4 exd4 32.Rxd4 Re3 33.Ra4 Re7 34.Kf2 Kg7 35.Kf3 Kf6
+36.h4 Kf5 37.Ra5+ Kf6 38.h5 gxh5 39.Rxh5 Kg6 40.Ra5 Kf6 41.Kf4 Kg6 42.a4 Rb7
+43.Ra6+ Kh5 44.a5 Rf7+ 45.Kg3 Rg7+ 46.Kf3 Rf7+ 47.Ke3 Kg4 48.Ke4 h5 49.Rc6 Rf4+
+50.Ke3 Rf5 51.Ra6 Rf7 52.Rc6 Kh3 53.Rc2 Rf5 54.Ra2 h4 55.a6 Rf1 56.Ke4 Rg1
+57.Kd5 Rg2 58.Rxg2 Kxg2 59.Kc6 Kxh2 60.Kb7 h3 61.Kxa7 Kg1 62.Kb8 h2 63.a7 h1=Q
+64.a8=Q Qxa8+  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Smyslov, Vassily"]
+[Black "Grooten, Herman"]
+[Result "1-0"]
+[WhiteElo "2530"]
+[BlackElo "2405"]
+[ECO "A63"]
+
+1.d4 Nf6 2.c4 e6 3.g3 c5 4.d5 exd5 5.cxd5 d6 6.Bg2 g6 7.Nf3 Bg7 8.O-O O-O
+9.Nc3 a6 10.a4 Nbd7 11.Bf4 Qe7 12.Qd2 Ng4 13.h3 Nge5 14.Nxe5 Nxe5 15.a5 Bd7
+16.Rfb1 Rab8 17.Bh6 Nc4 18.Qf4 Bxh6 19.Qxh6 b5 20.axb6 Rxb6 21.b3 Ne5 22.Qe3 Rfb8
+23.Nd1 g5 24.Qc3 Qf6 25.Qc1 h6 26.Ne3 Bc8 27.Qc2 Rb4 28.Ra4 Rxa4 29.bxa4 Rxb1+
+30.Qxb1 Bd7 31.Qb8+ Kg7 32.a5 Qg6 33.g4 h5 34.gxh5 Qf6 35.Qb7 g4 36.hxg4 Nxg4
+37.Nxg4 Bxg4 38.Qxa6 Bxh5 39.e3 Qg6 40.Qf1 Bf3 41.a6 Bxd5 42.a7 Ba8 43.f3 Kf8
+44.Qa1 Ke7 45.e4 Qh6 46.Qc3 f5 47.exf5 Qf6 48.Qe3+ Kd7 49.Kh2 c4 50.f4 d5
+51.Bh3 Kc7 52.Qc5+ Qc6 53.Qxc6+ Bxc6 54.f6 Kd6 55.Kg3 c3 56.Bf5 c2 57.Bxc2 Ke6
+58.Kf2 Kxf6 59.Ke3 Ke6 60.Kd4 Kd6 61.Bb3 Bb7 62.f5 Ba8 63.f6  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Smirin, Ilia"]
+[Black "Hansen, Curt"]
+[Result "1/2-1/2"]
+[WhiteElo "2555"]
+[BlackElo "2635"]
+[ECO "B07"]
+
+1.e4 d6 2.d4 Nf6 3.f3 e5 4.dxe5 dxe5 5.Qxd8+ Kxd8 6.Bc4 Ke8 7.Be3 Nbd7 8.Ne2 Bc5
+9.Kf2 Ke7 10.Nd2 Bxe3+ 11.Kxe3 a5 12.a4 Nb6 13.Nc3 c6 14.Rhd1 Nfd7 15.Be2 Nc5
+16.Nc4 Nxc4+ 17.Bxc4 h5 18.h4 f6 19.Rd2 Bd7  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Smirin, Ilia"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2555"]
+[BlackElo "2610"]
+[ECO "C89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d3 Bd6 13.Re1 Bf5 14.Nd2 Nf4 15.Qf3 Qd7
+16.Ne4 Bg4 17.Qe3 Nxd3 18.Nxd6 Qxd6 19.Qe7 Rad8 20.Qxd6 Rxd6  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Short, Nigel D"]
+[Black "Smirin, Ilia"]
+[Result "0-1"]
+[WhiteElo "2680"]
+[BlackElo "2555"]
+[ECO "B80"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 d6 4.g3 Nc6 5.Bg2 Nf6 6.d4 cxd4 7.Nxd4 Bd7 8.O-O Be7
+9.a4 O-O 10.Kh1 Nxd4 11.Qxd4 Bc6 12.f4 a6 13.Be3 b5 14.axb5 axb5 15.e5 Bxg2+
+16.Kxg2 Ng4 17.Bg1 dxe5 18.fxe5 b4 19.Ne2 Qxd4 20.Bxd4 Rac8 21.c3 bxc3 22.bxc3 Bc5
+23.Rfc1 Rfd8 24.Ra4 Bxd4 25.cxd4 Rb8 26.Kh3 h5 27.Nf4 g6 28.Rc2 Rb1 29.Re2 Rb7
+30.d5 exd5 31.Rd4 Re7 32.e6 Kg7 33.Kg2 Nf6 34.h4 Rd6 35.exf7 Rxe2+ 36.Nxe2 Kxf7
+37.Nf4 Rc6 38.Rd3 Rc2+ 39.Kf3 Ng4 40.Nh3  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Short, Nigel D"]
+[Black "Rogers, Ian"]
+[Result "0-1"]
+[WhiteElo "2680"]
+[BlackElo "2565"]
+[ECO "C16"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 b6 7.Nh3 Ng6 8.f4 c5
+9.Bb5+ Bd7 10.Be2 Qh4+ 11.Nf2 Nc6 12.g3 Qe7 13.h4 f5 14.h5 Nf8 15.a4 Na5
+16.g4 fxg4 17.Nxg4 Bc6 18.O-O O-O-O 19.Qe1 g6 20.h6 Nd7 21.Ne3 Rhf8 22.Qg3 Bb7
+23.Ba3 Rf7 24.Qg5 Qf8 25.Rab1 Kb8 26.dxc5 Nxc5 27.Bxc5 bxc5 28.Qg3 Qxh6 29.Rb5 Nc6
+30.Rxc5 Qf8 31.Rb5 Qa3 32.Ng4 Nd4 33.Bd3 Nxb5 34.axb5 Qxc3 35.Nf6 Rdf8 36.Kh2 Ka8
+37.Qf2 g5 38.Rb1 Rxf6  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Short, Nigel D"]
+[Black "Petursson, Margeir"]
+[Result "1/2-1/2"]
+[WhiteElo "2680"]
+[BlackElo "2565"]
+[ECO "B38"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 d6 7.Be2 Bg7 8.Be3 O-O
+9.O-O Bd7 10.Nc2 a6 11.f3 Rc8 12.a4 Be6 13.Nd5 Nd7 14.Rb1 a5 15.b4 axb4 16.Ncxb4 Na5
+17.Bd4 Bxd4+ 18.Qxd4 Nc6 19.Qe3 Ra8 20.Nd3 Rxa4 21.Rxb7 Ra3 22.Qd2 Bxd5 23.cxd5 Nd4
+24.Rfb1  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Seirawan, Yasser"]
+[Black "Andersson, Ulf"]
+[Result "1/2-1/2"]
+[WhiteElo "2605"]
+[BlackElo "2605"]
+[ECO "B97"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Nb3 Be7
+9.Qf3 Qc7 10.O-O-O Nc6 11.Bh4 O-O 12.g4 b5 13.Bxf6 Bxf6 14.g5 Be7 15.h4 b4
+16.Ne2 Bb7 17.Kb1 Rac8 18.Rd2 d5 19.e5 d4 20.Bg2 Rfd8 21.Qh3 a5 22.Nbc1 a4
+23.Rhd1 a3 24.b3 Bf8 25.Qh1 Qb6 26.h5 Ba6 27.Be4 Ne7 28.Rxd4 Rxd4 29.Rxd4 Nf5
+30.Bxf5 exf5 31.Qd1 Qc6 32.Rd8 Rxd8 33.Qxd8 Bxe2 34.Nxe2 Qh1+ 35.Nc1 Qxh5
+36.Qc8 Qg6 37.Nd3 Qb6 38.Qxf5 Qg1+ 39.Nc1 Qd4 40.Nd3 Qg1+ 41.Nc1 Qd4 42.Nd3 Qg1+  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Rozentalis, Eduardas"]
+[Black "Milos, Gilberto"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2555"]
+[ECO "C69"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O f6 6.d4 exd4 7.Nxd4 c5 8.Ne2 Qxd1
+9.Rxd1 Bd7 10.Nbc3 O-O-O 11.Be3 Re8 12.Rd2 Bc6 13.Rad1 b6 14.Nd5 Ne7 15.c4 Nxd5
+16.exd5 Bd7 17.Bf4 Bd6 18.Bxd6 cxd6 19.f3 Kc7 20.Kf2 b5 21.b3 Re5 22.Nf4 bxc4
+23.bxc4 Rb8 24.h4 a5 25.g4 g6 26.Nd3 Ree8 27.Re2 Rxe2+ 28.Kxe2 Re8+ 29.Kd2 Bc8
+30.Rc1 h6 31.a3 Re7 32.Nf4 g5 33.Nh5 Rg7 34.hxg5 hxg5 35.Ng3 f5 36.gxf5 Bxf5
+37.Rg1 Bc8 38.Ke3 g4 39.f4 Ba6 40.Rc1 Re7+ 41.Kd3 Rh7 42.Re1 Rh2 43.Re7+ Kd8
+44.Re6 Bc8 45.Re2 Rh3 46.Re3 Rh2 47.Re2 Rh3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Rohde, Michael A"]
+[Black "Ruban, Vadim"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2580"]
+[ECO "A34"]
+
+1.c4 e6 2.Nf3 d5 3.d4 Nf6 4.Nc3 c5 5.cxd5 cxd4 6.Qxd4 Nxd5 7.e4 Nxc3 8.Qxc3 Nc6
+9.Bb5 Bd7 10.O-O Qb6 11.a4 Qc5 12.Be3 Qxc3 13.bxc3 a6 14.Be2 Bd6 15.Rfb1 O-O-O
+16.Rb2 Bc7 17.Bc5 Na5 18.Nd4 Nc6 19.Nc2 Be8 20.Rab1 Rd2 21.Kf1 Na5 22.Ke1 Rd8
+23.Be7 Rd7 24.Bb4 Nc6 25.Bc5 Ba5 26.Nb4 Nd8 27.Kf1 Rc7 28.Nxa6 Rc6 29.Bb4 Bxb4
+30.Nxb4 Rxc3 31.a5 Kd7 32.f3 Ke7 33.Kf2 Bd7 34.Rb3 Rxb3 35.Rxb3 Nc6 36.Nxc6+ Bxc6
+37.a6 bxa6 38.Rb6 Rc8 39.Rxa6  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Rohde, Michael A"]
+[Black "Granda Zuniga, Julio E"]
+[Result "1-0"]
+[WhiteElo "2585"]
+[BlackElo "2565"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.c3 a6 6.Ba4 b5 7.Bc2 Bb7 8.a4 Ng6
+9.axb5 axb5 10.Rxa8 Qxa8 11.d4 cxd4 12.Nxd4 Nxd4 13.Qxd4 Be7 14.Re1 e5 15.Qd3 Bc6
+16.Nd2 O-O 17.Nf1 Bc5 18.b4 Bb6 19.Ng3 Ne7 20.Bb3 Qa7 21.Rf1 d5 22.exd5 Nxd5
+23.Nf5 Rd8 24.Qe4 f6 25.Rd1 Kh8 26.h3 Qd7 27.Rd3 g6 28.Nh6 Kg7 29.Ng4 Qf5
+30.Bh6+ Kh8 31.Qxf5 gxf5 32.Ne3 Nxe3 33.Rxd8+ Bxd8 34.fxe3 Bb6 35.Kf1 Be4
+36.Be6 Bd3+ 37.Ke1 Be4 38.g3 f4 39.exf4 exf4 40.gxf4 Be3 41.Ke2 Bc1 42.Bd7 Kg8
+43.Bxb5 Kf7 44.Bd3 Bxd3+ 45.Kxd3 Kg6 46.Kc2 Be3 47.Kd3 Bc1 48.Bf8  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Popovic, Petar"]
+[Black "Georgiev, Kiril"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2610"]
+[ECO "B76"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 Nc6 8.Qd2 O-O
+9.O-O-O Nxd4 10.Bxd4 Be6 11.Kb1 Qc7 12.g4 Rfc8 13.g5 Nh5 14.Bxg7 Kxg7 15.Nd5 Qd7
+16.Qd4+ Kg8 17.Bd3 Rc5 18.f4 Rac8 19.Rhf1 b5 20.Rde1 Bxd5 21.exd5 Ng7 22.Be4 a5
+23.Qf2 b4 24.h4 e6 25.dxe6 fxe6 26.Qd2 Nf5 27.Bxf5 Rxf5 28.Rf2 Rd5 29.Qe3 Rf8
+30.b3 Re8 31.h5 gxh5 32.Rh2 Qf7 33.Reh1 e5 34.Rxh5 exf4 35.Qh3 Rde5 36.Qh4 f3
+37.Rxh7 Re1+ 38.Rxe1 Rxe1+ 39.Qxe1 Kxh7 40.Qh4+ Kg8 41.g6 Qxg6 42.Qd8+ Kg7
+43.Qe7+ Qf7 44.Qg5+ Kh7 45.Qh4+ Kg6 46.Qg3+ Kh6 47.Qh4+ Qh5 48.Qf6+ Kh7 49.Qe7+ Kg6
+50.Qxd6+ Kf7 51.Qd7+ Kf8 52.Qd8+ Kg7 53.Qe7+ Kg6 54.Qd6+ Kg5 55.Qc5+  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Popovic, Petar"]
+[Black "Ernst, Thomas"]
+[Result "0-1"]
+[WhiteElo "2535"]
+[BlackElo "2570"]
+[ECO "C82"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Bc5 10.Nbd2 O-O 11.Bc2 Bf5 12.Nb3 Bg6 13.Nfd4 Bxd4 14.Nxd4 Qd7 15.f4 Nxd4
+16.cxd4 f5 17.Be3 Bf7 18.Rc1 Be6 19.Bd3 c6 20.Rc2 Rac8 21.b4 Ra8 22.Qc1 Rfc8
+23.Qa3 Kh8 24.Rfc1 Qb7 25.Qa5 Kg8 26.h3 Kh8 27.Kh2 Kg8 28.Be2 Qd7 29.Bf3 Qe8
+30.Qa3 Kh8 31.Bd2 Bd7 32.Be1 Qe6 33.Qe3 Rf8 34.g3 Rac8 35.Rg2 Qh6 36.Bd2 g5
+37.fxg5 f4 38.gxf4 Qxh3+ 39.Kg1 Nxd2 40.Rxd2 Qg3+ 41.Rg2 Qxf4 42.Rc3 Qxe3+
+43.Rxe3 Rf4 44.g6 Be6 45.gxh7 Rxd4 46.Bh5 Rxb4 47.Rf3 Rh4 48.Bg6 d4 49.Rf6 Bd5
+50.Rg3 Be4 51.Bf7 Rxh7 52.e6 Bd5 53.Bg6 Rh1+ 54.Kf2 Bxe6 55.Rxe6 c5 56.Kg2 Rh6
+57.Rxa6 c4 58.Rd6 d3 59.Rd7 Ra8 60.a3 Rh4 61.Bxd3 cxd3 62.Rgxd3 Rf8 63.R3d5  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Polugaevsky, Lev"]
+[Black "Serper, Grigory"]
+[Result "0-1"]
+[WhiteElo "2640"]
+[BlackElo "2575"]
+[ECO "A13"]
+
+1.Nf3 d5 2.c4 e6 3.g3 dxc4 4.Bg2 Nd7 5.Qc2 Ngf6 6.Na3 c5 7.Nxc4 b5 8.Nce5 Nd5
+9.Nxd7 Bxd7 10.b3 Be7 11.Bb2 O-O 12.O-O Rc8 13.Rac1 Qb6 14.Ne5 Be8 15.a3 f6
+16.e4 Nc7 17.Nd3 Na6 18.b4 Bd7 19.bxc5 Nxc5 20.Nxc5 Rxc5 21.Qd3 Rxc1 22.Rxc1 Rd8
+23.e5 f5 24.Qf3 a5 25.d4 a4 26.g4 Rf8 27.gxf5 Rxf5 28.Qb7 Qxb7 29.Bxb7 Kf7
+30.Rc7 Ke8 31.Bc6 Bxc6 32.Rxc6 Rf3 33.Rxe6 Rb3 34.d5 Kd7 35.Bd4 Rd3 36.Be3 Rxd5
+37.Rb6 Rxe5 38.Bd4 Rd5 39.Rb7+ Ke6 40.Bb2 g6 41.Kg2 h5 42.Rb6+ Kf5 43.Rb7 Ke6
+44.Rb6+ Kf5 45.Rb7 Bd6 46.Rf7+ Ke4 47.h4 Bc5  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Pinter, Jozsef"]
+[Black "Vyzmanavin, Alexey"]
+[Result "0-1"]
+[WhiteElo "2590"]
+[BlackElo "2580"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Nc3 d5 8.cxd5 exd5
+9.Bg2 O-O 10.O-O Bb7 11.Rc1 Nbd7 12.Rc2 Re8 13.Qc1 Nf8 14.Rd1 Ne6 15.Be3 c6
+16.Qb2 Bf8 17.Ne5 Qe7 18.Na4 Rac8 19.Nd3 g6 20.Bh3 Bg7 21.Nf4 Ne4 22.Qc1 f5
+23.Bf1 Nf8 24.Bg2 Nd7 25.Nd3 Bf6 26.Nc3 Bg7 27.a3 Ndf6 28.Bf3 Nxc3 29.Rxc3 Ne4
+30.Rc2 c5 31.dxc5 d4 32.Bd2 bxc5 33.b4 c4 34.Rxc4 Nc3 35.Rxc3 dxc3 36.Bg5 Qf7
+37.Bxb7 Qxb7 38.Nc5 Qb5 39.e4 fxe4 40.Qc2 Qc4 41.Rd7 e3 42.Bxe3 Rcd8 43.Rxa7 Bd4
+44.Bxd4 Rxd4  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Piket, Jeroen"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[WhiteElo "2245"]
+[BlackElo "2590"]
+[ECO "D65"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Nbd7 5.Bg5 Be7 6.e3 O-O 7.Rc1 a6 8.cxd5 exd5
+9.Qc2 c6 10.Bd3 Re8 11.O-O Nf8 12.h3 Be6 13.Rfe1 Rc8 14.a3 h6 15.Bf4 N8d7
+16.Rcd1 Bf8 17.Bg3 b5 18.Ne5 c5 19.Nxd7 Nxd7 20.dxc5 Nxc5 21.Qb1  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Petursson, Margeir"]
+[Black "Krnic, Zdenko"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[BlackElo "2430"]
+[ECO "A25"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 h5 6.Nf3 d6 7.d3 Nh6 8.Rb1 a5 9.a3 Nf5
+10.h4 O-O 11.b4 axb4 12.axb4 Bd7 13.Ng5 Qb8 14.O-O Nd8 15.Nd5 f6 16.e4 fxg5
+17.exf5 Rxf5 18.Ne7+ Kf7 19.Nxf5 Bxf5 20.Bxg5 Ne6 21.Be3 c6 22.Be4 Bg4 23.f3 Bh3
+24.Rf2 Qc8 25.Kh2 Bf6 26.b5 Nd8 27.f4 Bg4 28.Qd2 Kg7 29.fxe5 Bxe5 30.d4 Bf6
+31.Bh6+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Van der Wiel, John TH"]
+[Black "Bologan, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "2545"]
+[BlackElo "2555"]
+[ECO "B66"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O h6
+9.Be3 Bd7 10.f3 Rc8 11.g4 Nxd4 12.Bxd4 e5 13.Be3 Qa5 14.Kb1 Be6 15.Nd5 Qxd2
+16.Rxd2 Nxd5 17.exd5 Bd7 18.Bd3 Be7 19.h4 g6 20.Rg2 Bf6 21.c4 h5 22.g5 Bg7
+23.Rc1 Bf5 24.Be4 f6 25.b4 Bxe4+ 26.fxe4 f5 27.c5 fxe4 28.Rf2 Rf8 29.Rcf1 Rxf2
+30.Rxf2 Bf8 31.cxd6 Bxd6 32.Rf6 Bxb4 33.Rxg6 Rc3 34.Bd2 Rc4 35.Bxb4 Rxb4+
+36.Kc2 e3 37.Re6+ Kd7 38.Rxe5 Rxh4 39.Rxe3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Kortschnoj, Viktor"]
+[Black "Gelfand, Boris"]
+[Result "1-0"]
+[WhiteElo "2575"]
+[BlackElo "2685"]
+[ECO "E99"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O Nc6 8.d5 Ne7
+9.Ne1 Nd7 10.Be3 f5 11.f3 f4 12.Bf2 g5 13.a4 Ng6 14.a5 a6 15.Nd3 Nf6 16.c5 h5
+17.cxd6 cxd6 18.Na4 g4 19.Nb6 Rb8 20.Nxc8 Qxc8 21.Qa4 gxf3 22.Bxf3 Ng4 23.Bb6 Nh4
+24.Rac1 Qe8 25.Qxe8 Rbxe8 26.Rc7 Nxf3+ 27.gxf3 Ne3 28.Rfc1 Rf7 29.Kf2 Bh6
+30.Rg1+ Bg7 31.Rgc1 Bh6 32.Ke2 Kf8 33.Rg1 Bg7 34.Rg6 Bf6 35.Rc1 Ke7 36.Rh6 Rg8
+37.Rc7+ Kf8 38.Rc8+ Kg7 39.Rxg8+ Kxh6 40.Bxe3 fxe3 41.Kxe3 Bg5+ 42.Kf2 Rc7
+43.Kg3 Rc2 44.f4 exf4+ 45.Nxf4 h4+ 46.Kg4 Bxf4 47.Kxf4 Rxh2 48.Kf5 Rf2+ 49.Ke6 Re2
+50.Kxd6 Rxe4 51.Kc7 Rc4+ 52.Kxb7 Rb4+ 53.Kc7 Rc4+ 54.Kd7 Kh5 55.d6 h3 56.Ke6  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Kortschnoj, Viktor"]
+[Black "Kuijf, Marinus"]
+[Result "1/2-1/2"]
+[WhiteElo "2575"]
+[BlackElo "2420"]
+[ECO "E07"]
+
+1.c4 c6 2.Nf3 d5 3.d4 Nf6 4.Nc3 e6 5.g3 Be7 6.Bg2 O-O 7.O-O Nbd7 8.b3 b6
+9.Nd2 Bb7 10.e4 Bb4 11.Bb2 c5 12.exd5 cxd4 13.Nb5 exd5 14.Nxd4 Re8 15.cxd5 Nxd5
+16.Nf5 N7f6 17.Nxg7 Kxg7 18.Bxd5 Qxd5 19.Qg4+ Kh6 20.Qf4+ Kg7 21.Qg4+ Kh6
+22.Qf4+ Kg7  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Vyzmanavin, Alexey"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[WhiteElo "2580"]
+[BlackElo "2710"]
+[ECO "D46"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Qc2 Bd6 7.Be2 O-O 8.O-O dxc4
+9.Bxc4 b5 10.Bd3 Bb7 11.a3 Qe7 12.Ng5 Bxh2+ 13.Kxh2 Ng4+ 14.Kg1 Qxg5 15.f3 Ngf6
+16.e4 Qh4 17.Qf2 Qxf2+ 18.Kxf2 e5 19.Be3 exd4 20.Bxd4 a6 21.e5 Nh5 22.Ne4 Nf4
+23.Rad1 Ne6 24.Bc3 c5 25.Rh1 g6 26.Nd6 Bc6 27.Be4 Nb8 28.Ke3 Ng5 29.Bd5 Bxd5
+30.Rxd5 Nd7 31.f4 Nb6 32.Rdd1 Ne6 33.Ne4 Nc4+ 34.Kf3 Kg7 35.g4 Rfd8 36.Nd6 Nxd6
+37.exd6+ f6 38.g5 Nd4+ 39.Bxd4 cxd4 40.Rxd4 fxg5 41.fxg5 Rac8 42.Rdh4 Kf7
+43.Rxh7+ Ke6 44.d7 Rc5 45.Re1+ Kd6 46.Kf4 Rf5+ 47.Kg4 Rf2 48.Rg7 Rg2+ 49.Kf4 Rf2+
+50.Ke4 Rxb2 51.Rxg6+ Kxd7 52.Rd1+ Ke7 53.Rxd8 Kxd8 54.Rxa6 Ra2 55.Ra5 Ke7
+56.Kd5 Kf7 57.Ra7+ Ke8 58.Ke6 Kf8 59.Kf6 Rf2+ 60.Kg6  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Adams, Michael"]
+[Black "Sveshnikov, Evgeny"]
+[Result "1-0"]
+[WhiteElo "2610"]
+[BlackElo "2525"]
+[ECO "D00"]
+
+1.d4 d5 2.Bg5 c6 3.e3 Qb6 4.Qc1 Bf5 5.Nf3 Nd7 6.Nbd2 e6 7.c4 Ngf6 8.Be2 h6
+9.Bf4 Be7 10.c5 Qd8 11.b4 Ne4 12.h3 g5 13.Bh2 h5 14.Ne5 Nxe5 15.Bxe5 f6 16.Bh2 Nxd2
+17.Qxd2 Kf7 18.Bg3 Qd7 19.h4 g4 20.a4 Bd8 21.Bd3 Bxd3 22.Qxd3 Bc7 23.O-O Kg7
+24.b5 Bxg3 25.fxg3 b6 26.Rac1 Rac8 27.Rc2 Rhd8 28.Kh2 cxb5 29.axb5 Rc7 30.Ra1 Rb8
+31.c6 Qe7 32.e4 Rd8 33.Re1 dxe4 34.Rxe4 Qd6 35.Qe3 Re8 36.Rf2 Qd5 37.Re5 fxe5
+38.Qg5+ Kh7 39.Qxh5+ Kg7 40.Qxe8 exd4 41.Qf8+ Kh7 42.Rf7+ Rxf7 43.Qxf7+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Akopian, Vladimir"]
+[Black "Bosboom, Manuel"]
+[Result "1-0"]
+[WhiteElo "2600"]
+[BlackElo "2445"]
+[ECO "E69"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Nbd7 7.O-O e5 8.h3 c6
+9.e4 exd4 10.Nxd4 Qa5 11.Nde2 Re8 12.Rb1 Qc7 13.Bf4 Ne5 14.b3 Nh5 15.Be3 f5
+16.Nd4 fxe4 17.Nxe4 Nf7 18.g4 Nf6 19.Nxf6+ Bxf6 20.Qd2 Bd7 21.f4 c5 22.Nc2 Bc6
+23.Kh1 Be4 24.Bg1 d5 25.cxd5 Nd6 26.Rbc1 Rad8 27.Nd4 Bxd4 28.Bxd4 Bxg2+ 29.Qxg2 Ne4
+30.Be5 Rxe5 31.fxe5 Qxe5 32.Rf3 Qxd5 33.Re1 Ng5 34.Rfe3 Qxg2+ 35.Kxg2 Rd2+
+36.Kg3 Rxa2 37.Re8+ Kg7 38.R8e7+ Kf6 39.h4 Nf7 40.g5+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Adams, Michael"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2685"]
+[ECO "B90"]
+
+1.e4 c5 2.Nc3 d6 3.Nf3 a6 4.d4 cxd4 5.Nxd4 Nf6 6.Be3 e5 7.Nf3 Qc7 8.a4 Be7
+9.a5 O-O 10.Be2 Qc6 11.Nd2 Be6 12.O-O Nbd7 13.Bf3 Rfd8 14.Qe2 Rac8 15.Rfd1 h6
+16.Nf1 Bf8 17.Rd2 Re8 18.h4 Nc5 19.Ng3 b5 20.axb6 Qxb6 21.Na4 Qb7 22.Nxc5 dxc5
+23.c3 Rc6 24.Nh5 Nxh5 25.Bxh5  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Anand, Viswanathan"]
+[Black "Tiviakov, Sergei"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2585"]
+[ECO "B78"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 Nc6 8.Qd2 O-O
+9.Bc4 Bd7 10.h4 h5 11.O-O-O Ne5 12.Bb3 Rc8 13.Kb1 Nc4 14.Bxc4 Rxc4 15.Nde2 b5
+16.Bd4 e5 17.Be3 b4 18.Nd5 Nxd5 19.Qxd5 Rc6 20.c4 Qc7 21.b3 a5 22.Rd2 a4
+23.Rc1 Be6 24.Qd3 Rc8 25.Rcc2 Qa5 26.Nc1 Ra8 27.bxa4 Qxa4 28.Qb3 Qa6 29.Qxb4 Bxc4
+30.Rb2 Bf8 31.Rdc2 d5 32.Qb7 Qxb7 33.Rxb7 d4 34.Bd2 Rac8 35.Kb2 Bf1 36.Rxc6 Rxc6
+37.g3 d3 38.Kb1 Bg2 39.Nxd3 Bxf3 40.Nf2 Rc4 41.Rb3 Bxe4+ 42.Nxe4 Rxe4 43.Re3 Rg4
+44.Rxe5 Rxg3 45.a4 Bb4 46.Bc1 f6 47.Rb5 Rg4 48.a5 Bxa5 49.Rxa5 Rxh4 50.Ra8+ Kf7
+51.Ra7+ Ke6 52.Ra6+ Kf5 53.Ra5+ Kg4 54.Ra6 Kg3 55.Rxf6 Rg4 56.Bd2 h4 57.Be1+ Kh3
+58.Kc2 g5 59.Kd3 Rg2 60.Bf2 Kh2 61.Ke2 h3 62.Kf1 Kh1 63.Rf3 g4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Andersson, Ulf"]
+[Black "Chandler, Murray G"]
+[Result "1-0"]
+[WhiteElo "2605"]
+[BlackElo "2575"]
+[ECO "D40"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.e3 d5 5.Nc3 Nc6 6.a3 a6 7.dxc5 Bxc5 8.b4 Ba7
+9.Bb2 O-O 10.Be2 dxc4 11.Bxc4 Qe7 12.O-O Rd8 13.Qc2 b5 14.Bd3 Bb7 15.Ne4 Nd7
+16.Rfd1 f5 17.Ng3 Nf6 18.Qb3 Kh8 19.Bxf5 exf5 20.Nxf5 Qf8 21.Ng5 Rxd1+ 22.Rxd1 Rd8
+23.Ne6 Qf7 24.Nfxg7 Rxd1+ 25.Qxd1 Bb8 26.Nh5 Ne5 27.Qd8+ Ne8 28.Qxb8  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Akopian, Vladimir"]
+[Black "Dreev, Alexey"]
+[Result "1/2-1/2"]
+[WhiteElo "2600"]
+[BlackElo "2590"]
+[ECO "D45"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Be2 O-O 8.O-O Qe7
+9.e4 Nxe4 10.Nxe4 dxe4 11.Qxe4 c5 12.Bg5 Nf6 13.Qc2 b6 14.dxc5 bxc5 15.Rad1 Bb7
+16.Bxf6 gxf6 17.Nd2 f5 18.Bf3 Rfd8 19.Qc3 Rab8 20.Bxb7 Qxb7 21.b3 Bf8 22.Nf3 Bg7
+23.Qe3 Qc7 24.Qe2 Qa5 25.h3 Qa3 26.Rd2 Bh6 27.Rxd8+ Rxd8 28.g4 fxg4 29.hxg4 Bg7
+30.Kg2 Qb2 31.Qxb2 Bxb2 32.Rh1 Bf6 33.Kg3 Kg7 34.Kf4 h6 35.Ke3 Kg6 36.Ke2 Rd6
+37.Rh5 Ra6 38.Rxc5 Rxa2+ 39.Ke3 Bg5+ 40.Nxg5 hxg5 41.Rc8 f5 42.gxf5+ exf5  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Winants, Luc"]
+[Black "Ftacnik, Lubomir"]
+[Result "1-0"]
+[WhiteElo "2505"]
+[BlackElo "2535"]
+[ECO "B86"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Bb3 Nbd7 8.f4 Nc5
+9.f5 Be7 10.Qf3 O-O 11.Be3 e5 12.Nde2 Nxb3 13.axb3 b5 14.g4 b4 15.Na4 Bb7
+16.Ng3 d5 17.O-O-O d4 18.Bd2 Rc8 19.Kb1 Nd7 20.g5 Bxg5 21.Bxb4 Re8 22.Rhg1 Be3
+23.Rg2 Qh4 24.Bd2 Bxd2 25.Rgxd2 Nf6 26.Re2 h5 27.Qd3 Qg4 28.Rde1 Bc6 29.Nb6 Bb5
+30.Nc4 Nd7 31.Nf1 Nc5 32.Qd1 Bxc4 33.bxc4 Rb8 34.Nd2 Rxb2+ 35.Kxb2 Na4+ 36.Ka1 Qh3
+37.Nb1 Rb8 38.Qd3 Qh4 39.Qa3 Nb6 40.Nd2 Qd8 41.Rb1 Rc8 42.c5 Nd7 43.Nb3  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Tiviakov, Sergei"]
+[Black "Barua, Dibyendu"]
+[Result "1-0"]
+[WhiteElo "2585"]
+[BlackElo "2550"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O Qh4 8.c4 O-O-O
+9.c5 g5 10.Nc3 Bg7 11.Ne2 Nf6 12.Bd2 Kb8 13.f3 Rde8 14.Be1 Qh6 15.b4 Nh5
+16.b5 Nf4 17.Bf2 g4 18.c6 Bc8 19.cxb7 Bd7 20.Nxf4 Qxf4 21.fxg4 Bxg4 22.Qa4 Re6
+23.Rfc1 Rh6 24.g3 Qd2 25.Qc2 Qxc2 26.Rxc2 Kxb7 27.Rac1 Rc8 28.Rc5 Rd6 29.Kg2 Rf6
+30.Be3 Bf8 31.R5c3 Bf3+ 32.Kg1 Be4 33.Bxe4 dxe4 34.d5 Rf3 35.Bf4 Rxc3 36.Rxc3 f5
+37.Rc6 Bb4 38.Kf1 Rd8 39.Rxc7+ Kb6 40.a4 Rxd5 41.Rxh7 Bd2 42.Bb8 Kc5 43.Bxa7+ Kb4
+44.Ke2 Bc3 45.Be3 Kxa4 46.b6 Be5 47.Rf7  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Tiviakov, Sergei"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2690"]
+[ECO "B65"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O
+9.f4 Nxd4 10.Qxd4 Qa5 11.Bc4 Bd7 12.e5 dxe5 13.fxe5 Bc6 14.h4 Rad8 15.Qf4 Nh5
+16.Qg4 Bxg5+ 17.Qxg5 g6 18.Rhe1 Rxd1+ 19.Rxd1 h6 20.Qe3 Bxg2 21.Nb5 Bd5 22.Be2 Ng7
+23.c4 Nf5 24.Qxa7 Qxa7 25.Nxa7 Be4 26.Nb5 Nxh4 27.Rd4 Bf3 28.Rxh4 Bxe2 29.Nd6 h5
+30.Kd2 Bf3 31.Ke3 Bc6 32.b4 Ra8 33.b5 Bg2 34.Kf2 Rxa2+ 35.Kg3 Bf1 36.Nxb7 Rg2+
+37.Kf3 Rb2 38.Ke3 Bxc4 39.Rxc4 Rxb5 40.Nc5 Kg7 41.Kf4 Rb1 42.Ne4 Rf1+ 43.Kg3 Rf5
+44.Nd6 Rg5+ 45.Kf4 Rg1 46.Rc7 g5+ 47.Kf3 Rf1+ 48.Kg2 Rf4 49.Rc4 Rxc4 50.Nxc4 f5
+51.exf6+ Kxf6 52.Kf3 Kg6 53.Kg3 g4 54.Kf4 Kf6 55.Ne5 g3 56.Nf3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Timman, Jan H"]
+[Black "Kuczynski, Robert"]
+[Result "1-0"]
+[WhiteElo "2665"]
+[BlackElo "2525"]
+[ECO "D43"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.Bg5 h6 6.Bxf6 Qxf6 7.Qb3 a5 8.e4 dxe4
+9.Nxe4 Bb4+ 10.Kd1 Qf4 11.Bd3 f5 12.Ng3 c5 13.d5 a4 14.Qc2 O-O 15.a3 Ba5
+16.Qe2 exd5 17.cxd5 Bd7 18.Qe5 Bc7 19.Qxf4 Bxf4 20.Nh4 Bxg3 21.hxg3 b5 22.Kd2 Ra6
+23.Rae1 c4 24.Bc2 Rd6 25.Kc3 Rxd5 26.Ng6  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Sveshnikov, Evgeny"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2665"]
+[ECO "C02"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.a3 c4 7.Nbd2 Bd7 8.b3 cxb3 9.Nxb3 Na5
+10.Nxa5 Qxa5 11.Bd2 Qa4 12.Qb1 Bc6 13.Bd3 Ne7 14.O-O h6 15.Rc1 Nc8 16.c4 dxc4
+17.Rxc4 Qb5 18.Qxb5 Bxb5 19.Rxc8+ Rxc8 20.Bxb5+ Kd8 21.Kf1 Kc7 22.Rc1+ Kb8
+23.Rxc8+ Kxc8 24.Be8 f6 25.a4 Be7 26.Bf7 Kd7 27.d5 exd5 28.e6+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Sveshnikov, Evgeny"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo "2525"]
+[BlackElo "2530"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bc4 Ne5 8.Be2 d5
+9.O-O O-O 10.Nd2 Bb6 11.f4 Qh6 12.Kh1 dxe4 13.Nxe4 N5c6 14.Bc4 Nxd4 15.Bxd4 Be6
+16.Bxe6 Qxe6 17.Re1 Bxd4 18.Qxd4 Nf5 19.Qc5 Rfe8 20.Qf2  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Sveshnikov, Evgeny"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2525"]
+[BlackElo "2610"]
+[ECO "B14"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2 Nc6
+9.Be2 O-O 10.O-O Be7 11.Rd1 Nf6 12.a3 Bd7 13.Ne5 Rc8 14.Bf3 Be8 15.Be3 Nd7
+16.Nc4 b5 17.Nxb5 Na5 18.b3 Nxc4 19.bxc4 Nb6 20.Nxa7 Rxc4 21.Qe2 Ra4 22.Nb5 Bxb5
+23.Qxb5 Rxa3 24.Rxa3 Bxa3 25.Bg5 Qc7 26.g3 Nc8 27.Bf4 Qb6 28.Qd3 Bd6 29.Be3 Qc7
+30.Rb1 Ne7 31.Rb7 Qc8 32.Be4 h6 33.Qa6 Nd5 34.Bd2 Nf6 35.Bf3 Rd8 36.Qb5 Rd7
+37.Rb6 Bc7 38.Bb7 Qe8 39.Ra6 Rxd4 40.Bc6 Qe7 41.Be3 Rd1+ 42.Kg2 Nd5 43.Ra8+  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Speelman, Jonathan S"]
+[Black "Piket, Jeroen"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2245"]
+[ECO "E92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 a5 8.Be3 Ng4 9.Bg5 f6
+10.Bh4 h5 11.Nd2 Na6 12.a3 Bd7 13.O-O Qe7 14.Rb1 Nc5 15.b4 axb4 16.axb4 Na4
+17.Nxa4 Rxa4 18.h3 Nh6 19.f3 b6 20.Bf2 Nf7 21.c5 bxc5 22.bxc5 Ra2 23.Bc4 Raa8
+24.Bb5 Bh6 25.Bxd7 Qxd7 26.Nc4 Ra2 27.Qb3 Rfa8 28.c6 Qe7 29.Rb2 R2a4 30.Qd3 f5
+31.Rb7 fxe4 32.fxe4 Ra2 33.Be3 Bxe3+ 34.Qxe3 R8a4 35.Rb2 Kg7 36.Rxa2 Rxa2
+37.Nd2 Ng5 38.h4 Nf7 39.Nf3 Qd8 40.Qb3 Qa8 41.Qe3 Ra1 42.Ng5 Nxg5 43.hxg5 Rxf1+
+44.Kxf1 Qa1+ 45.Kf2 Qd1 46.g3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Sokolov, Ivan"]
+[Black "Kosten, Anthony C"]
+[Result "0-1"]
+[WhiteElo "2625"]
+[BlackElo "2515"]
+[ECO "D02"]
+
+1.Nf3 d5 2.d4 Nc6 3.Bg5 Bg4 4.e3 f6 5.Bh4 e6 6.h3 Bxf3 7.Qxf3 Nge7 8.Bg3 Nf5
+9.Bf4 Bd6 10.Bd3 Nfe7 11.Qh5+ g6 12.Qh6 Kf7 13.c3 e5 14.dxe5 fxe5 15.Bg3 e4
+16.Bxd6 Qxd6 17.Bc2 Nf5 18.Qg5 h6 19.Qg4 Ne5 20.Qf4 Kg7 21.Nd2 Rhf8 22.Qh2 Rae8
+23.O-O-O Qa6 24.Nb3 c6 25.Kb1 Re7 26.Rhe1 Nd6 27.f4 exf3 28.gxf3 Rf6 29.Rf1 Nec4
+30.Rg1 Qb6 31.Rd4 Ree6 32.e4 Nb5 33.Rdd1 Ne3 34.exd5 cxd5 35.Rde1 Rxf3 36.Bd3 Ref6
+37.Bxb5 Qxb5 38.Qd2 Qe8 39.Nd4 Qe4+ 40.Kc1 Rf1 41.Rgxf1 Rxf1 42.Rxf1 Nxf1
+43.Qf2 Qe3+ 44.Qxe3 Nxe3 45.Nb5 Kf6 46.Nxa7 Kg5 47.Nc8 Kh4 48.Ne7 g5 49.b3 Kxh3
+50.Kd2 Nf1+ 51.Ke1 Kg2 52.Nxd5 h5 53.Nf6 h4 54.a4 h3 55.Ng4 h2  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Smyslov, Vassily"]
+[Black "Gulko, Boris F"]
+[Result "1/2-1/2"]
+[WhiteElo "2530"]
+[BlackElo "2610"]
+[ECO "D77"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 d5 4.Bg2 Bg7 5.c4 dxc4 6.Na3 c3 7.bxc3 O-O 8.O-O c5
+9.Ne5 Nd5 10.Bb2 Nc6 11.Nac4 Be6 12.e3 Qc7 13.Nxc6 bxc6 14.Qc1 Rab8 15.Ba3 cxd4
+16.cxd4 Nb4 17.Nd2 Nxa2 18.Qc5 Rfc8 19.Ne4 Bf8 20.Qc2 Nb4 21.Qd2 a5 22.Nc5 Bc4
+23.Rfc1 Bb5 24.Bxb4 axb4 25.Qxb4 e5 26.dxe5 Qxe5 27.Qf4 Qxf4 28.gxf4 Ra8
+29.Rxa8 Rxa8 30.Nb3 Ba3 31.Ra1 Rd8 32.Bf3 Bb4 33.Rc1 Ba4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Smirin, Ilia"]
+[Black "Van der Sterren, Paul"]
+[Result "1/2-1/2"]
+[WhiteElo "2555"]
+[BlackElo "2530"]
+[ECO "C95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.a4 c5 14.d5 c4 15.b3 cxb3 16.Nxb3 Qc7
+17.Bd2 Nb6 18.Na5 Nxa4 19.Bxa4 Qxa5 20.c4 Qc7 21.cxb5 axb5 22.Bxb5 Rxa1 23.Qxa1 Ra8
+24.Qb1 Rb8 25.Qd3 Qb6 26.Be3 Qa5 27.Bd2 Qb6 28.Be3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Smirin, Ilia"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[WhiteElo "2555"]
+[BlackElo "2680"]
+[ECO "C18"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 Qc7 8.Qxg7 Rg8
+9.Qxh7 cxd4 10.Ne2 Nbc6 11.f4 Bd7 12.Qd3 dxc3 13.Rb1 d4 14.Ng3 O-O-O 15.Ne4 Nxe5
+16.fxe5 Qxe5 17.Qe2 Bc6 18.Ng3 Qh8 19.Qf2 Rg6 20.Bd3 Rf6 21.Qe2 Rd5 22.Ne4 Rff5
+23.Kd1 Ng6 24.g3 Rfe5 25.Qg4 f5 26.Qxg6 fxe4 27.Bc4 e3 28.Rf1 d3 29.Bxe3 dxc2+
+30.Kxc2 Rxe3 31.Bxd5 Bxd5 32.Kc1 Re2 33.Rb5 Bc6 34.Rc5 Qd8 35.Rd1 Re1 36.Qc2 Rxd1+
+37.Qxd1 Qf6 38.Qd6 Qh6+ 39.Kc2 Qe3 40.Rxc3  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Smirin, Ilia"]
+[Black "Nikolic, Predrag"]
+[Result "1-0"]
+[WhiteElo "2555"]
+[BlackElo "2625"]
+[ECO "C86"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 b5 7.Bb3 O-O 8.c3 d5
+9.d3 d4 10.Bg5 Bg4 11.h3 Bxf3 12.Qxf3 Na5 13.Bc2 c5 14.cxd4 cxd4 15.Bd2 Nc6
+16.a3 a5 17.a4 b4 18.Bb3 Rc8 19.g3 Nd7 20.h4 Nc5 21.Bc4 Nb8 22.Be1 Rc6 23.Kg2 Rg6
+24.h5 Rh6 25.Nd2 Nbd7 26.Rh1 Nb6 27.Bb5 Bg5 28.Qg4 Re6 29.f4 Bh6 30.Qf5 Nc8
+31.fxe5 Bxd2 32.Bxd2 Nb3 33.Bg5 Qc7 34.Bc4 Rxe5 35.Qg4 Rxg5 36.Qxg5 h6 37.Qf4 Qxf4
+38.gxf4 Nxa1 39.Rxa1 Nb6 40.Bb3 Rc8 41.Kf3 Kf8 42.e5 Nd7 43.Bc4 Nc5 44.f5 f6
+45.exf6 gxf6 46.Rg1 Ke7 47.b3 Kd6 48.Kf4 Nd7 49.Rg6 Rf8 50.Rxh6 Ne5 51.Bb5 Kd5
+52.Rg6 Rc8 53.Rxf6 Rc3 54.Ra6 Nxd3+ 55.Bxd3 Rxd3 56.Rxa5+ Kd6 57.Ke4 Rxb3
+58.Kxd4 Rh3 59.Ra6+ Kc7 60.h6 b3 61.a5 Rh4+ 62.Ke5 Rb4 63.h7 Rb5+ 64.Ke6  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Smirin, Ilia"]
+[Black "Kosten, Anthony C"]
+[Result "1/2-1/2"]
+[WhiteElo "2555"]
+[BlackElo "2515"]
+[ECO "A46"]
+
+1.Nf3 Nf6 2.d4 e6 3.g3 b5 4.Bg2 Bb7 5.a4 b4 6.O-O c5 7.c3 cxd4 8.cxd4 Be7
+9.a5 O-O 10.Bg5 h6 11.Bxf6 Bxf6 12.Nbd2 d5 13.Nb3 Ba6 14.Nc5 Bb5 15.Qd2 Na6
+16.Nxa6 Bxa6 17.Rfc1 Rc8 18.Rxc8 Qxc8 19.e3 Qb8 20.Ne1  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Shirov, Alexei"]
+[Black "Vyzmanavin, Alexey"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2580"]
+[ECO "B14"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Bb5+ Nbd7 6.Nc3 g6 7.d4 Bg7 8.d6 exd6
+9.Qe2+ Kf8 10.Nf3 h6 11.O-O Kg8 12.Re1 Kh7 13.Qe7 Ne5 14.Ng5+ hxg5 15.Qxd8 Rxd8
+16.dxe5 dxe5 17.Bxg5 Be6 18.Rxe5 Rd4 19.a3 Nd5 20.Rxd5 Bxd5 21.Be3 Bb3 22.Bxd4 Bxd4
+23.Ba4 Bxa4 24.Nxa4 Rc8 25.Nc3 Bxc3 26.Rc1 Rd8 27.bxc3 Rd2 28.Kf1 Ra2 29.Rb1 b6
+30.Rb3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Shirov, Alexei"]
+[Black "Oll, Lembit"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2600"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 c5 4.d5 Nf6 5.Nc3 b5 6.e5 b4 7.exf6 bxc3 8.bxc3 Nd7
+9.fxe7 Bxe7 10.Bxc4 Nb6 11.Bb5+  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Serper, Grigory"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo "2575"]
+[BlackElo "2530"]
+[ECO "A29"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 Bb4 5.Nd5 Be7 6.Bg2 d6 7.O-O O-O 8.d3 Nxd5
+9.cxd5 Nb4 10.e4 f5 11.a3 fxe4 12.dxe4 Na6 13.Ne1 c6 14.Nd3 cxd5 15.exd5 Bf5
+16.Be3 Qd7 17.Qb3 Kh8 18.Rac1 b6 19.Qc4 Nc5 20.Nxc5 bxc5 21.b4 cxb4 22.axb4 a6
+23.Qc6 Rfc8 24.Qxd7 Bxd7 25.Rxc8+ Rxc8 26.Ra1 Bb5 27.Bf1 Rb8 28.Bxb5 Rxb5
+29.Rxa6 Kg8 30.Rb6 Rxd5 31.Rb7 Kf8 32.Kf1 Rd1+ 33.Ke2 Rb1 34.Kd3 d5 35.Rb5 Kf7
+36.Rxd5 Ke6 37.Ra5 Rb3+  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Serper, Grigory"]
+[Black "Polugaevsky, Lev"]
+[Result "0-1"]
+[WhiteElo "2575"]
+[BlackElo "2640"]
+[ECO "A21"]
+
+1.c4 e5 2.g3 d6 3.Bg2 g6 4.Nc3 Bg7 5.d3 Ne7 6.e4 f5 7.Nge2 O-O 8.O-O Nd7
+9.f4 Kh8 10.Kh1 exf4 11.Nxf4 Ne5 12.Be3 fxe4 13.Nxe4 Nf5 14.Bg1 c6 15.Rc1 Nf7
+16.Qd2 Bd7 17.Rce1 Qc7 18.Nc3 Ne5 19.Re2 Rae8 20.Rfe1 Qd8 21.b3 Qg5 22.Ne4 Qh6
+23.Nh3 Qxd2 24.Rxd2 Ng4 25.Rde2 Bd4 26.Neg5 Nge3 27.Nf4 Bc3 28.Rc1 Bg7 29.Bh3 Bh6
+30.Bxe3 Bxg5 31.Rce1 Rxe3 32.Rxe3 Nxe3 33.Bxd7 Bxf4 34.gxf4 Nc2 35.Re4 Nb4
+36.Rd4 d5 37.c5 Nxa2 38.Ra4 Nc1 39.Rxa7 Nxb3  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Serper, Grigory"]
+[Black "Cifuentes Parada, Roberto"]
+[Result "1-0"]
+[WhiteElo "2575"]
+[BlackElo "2490"]
+[ECO "A13"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 dxc4 5.Qa4+ Nbd7 6.Qxc4 c5 7.d3 Bd6 8.O-O O-O
+9.Nc3 a6 10.Ng5 Qc7 11.Be3 Ne5 12.Qb3 c4 13.dxc4 Nxc4 14.Bd4 e5 15.Nd5 Nxd5
+16.Bxd5 exd4 17.Bxc4 Qe7 18.Nf3 Bc5 19.Rfd1 Bg4 20.Nxd4 Rac8 21.Rd3 Bxd4
+22.Rxd4 Bxe2 23.Bd5 Bb5 24.Rad1 Rc7 25.Re4 Qc5 26.Re5 Bc4 27.Qxc4 Qxc4 28.Bxc4 Rxc4
+29.Rd2 b5 30.Rd6 Rc2 31.Rxa6 Rxb2 32.Re7 b4 33.Rb7 h5 34.Ra4 Rd8 35.Rbxb4 Rdd2
+36.Rxb2 Rxb2 37.h4 g6 38.Kg2 Kg7 39.Kf3 Kf6 40.Rf4+ Ke5 41.Re4+ Kf5 42.Re2 Rb1
+43.Rc2 Re1 44.Rb2 f6 45.a4 Ra1 46.Rb5+ Ke6 47.a5 Ra2 48.Ke3 Kd6 49.Rb6+ Ke5
+50.a6 Kf5 51.f3 g5 52.Kd4 g4 53.f4 Ra5 54.Kc4 Ke4 55.Kb4 Ra1 56.Rc6 f5 57.Kb5 Rh1
+58.Ka5 Kd5 59.Rc2 Ra1+ 60.Kb6 Rb1+ 61.Kc7 Ra1 62.Rc6 Ra3 63.Kb7 Ke4 64.a7 Kf3
+65.Ra6 Rxa6 66.Kxa6 Kxg3 67.a8=Q Kxf4 68.Qh8 Kg3 69.Qxh5 Kf4 70.Kb5 g3 71.Qe2  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Seirawan, Yasser"]
+[Black "Wojtkiewicz, Aleksander"]
+[Result "1-0"]
+[WhiteElo "2605"]
+[BlackElo "2530"]
+[ECO "E70"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Bd3 O-O 6.Nge2 c5 7.d5 e6 8.O-O exd5
+9.exd5 Ng4 10.f4 Re8 11.h3 Ne3 12.Bxe3 Rxe3 13.Qd2 Re8 14.Kh2 Na6 15.Rae1 Nc7
+16.Ng1 Rxe1 17.Rxe1 Bd7 18.Nf3 a6 19.Ne4 Ne8 20.b4 b6 21.Rb1 Qc7 22.g3 Nf6
+23.Nf2 b5 24.bxc5 Qxc5 25.Rc1 Rc8 26.Rc2 b4 27.g4 Ba4 28.Rb2 a5 29.Rb1 Nd7
+30.Ne4 Qc7 31.f5 Nc5 32.Nxc5 Qxc5 33.Kg2 Re8 34.Re1 Rxe1 35.Qxe1 Qa7 36.g5 Bc3
+37.Qe2 Qc7 38.h4 Qd8 39.Qe3 Bd7 40.f6 a4 41.Qa7 h6 42.c5 dxc5 43.Qxc5 hxg5
+44.hxg5 Qf8 45.Qa7 Qd6 46.Qa8+ Kh7 47.Qb7 b3 48.axb3 a3 49.Qa7 Qxd5 50.Bc4 Qf5
+51.Bxf7 a2 52.Bxg6+ Kxg6 53.Nh4+ Kxg5 54.Nxf5 Bc6+ 55.Kf2 a1=Q 56.Qxa1 Bxa1
+57.f7 Kxf5 58.f8=Q+ Ke6 59.Qc8+ Bd7 60.Qa6+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Seirawan, Yasser"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo "2605"]
+[BlackElo "2720"]
+[ECO "E05"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Ne5 Nc6 8.Nxc6 bxc6
+9.e3 Ba6 10.Bxc6 Rb8 11.Nc3 Nd5 12.Nxd5 exd5 13.Qf3 Bb7 14.Bxb7 Rxb7 15.b3 cxb3
+16.axb3 c5 17.dxc5 Bxc5 18.Ba3 Bxa3 19.Rxa3 Qd6 20.Rfa1 g6 21.Qd1 Rfb8 22.Ra6 Rb6
+23.Rxb6 Qxb6 24.Qxd5 Qxb3 25.Qd4 a6 26.h4 Qb5 27.Qa7 Qb7 28.Qxb7 Rxb7 29.Rxa6 h5
+30.Kg2 Rb2 31.Kf3 Kg7 32.Rd6 Ra2 33.e4 Rb2 34.Ke3 Ra2 35.Rd2 Ra5 36.Kf4 Rb5
+37.Ra2 Rc5 38.Rb2 Ra5 39.Rc2 Rb5 40.Re2 Ra5 41.f3 Rb5 42.Rd2 Ra5 43.Rd5 Ra4
+44.Rd2 Rb4 45.Ke3 Ra4 46.Rd4 Ra5 47.Kf4 Kf6 48.Rd5 Ra4 49.g4 hxg4 50.Kxg4 Ke6
+51.Rg5 Rb4 52.h5 gxh5+ 53.Rxh5 Ra4 54.Rb5 f6 55.Kf4 Rc4 56.Rb6+ Kf7 57.Ra6 Rb4
+58.Rd6 Ke7 59.Rc6 Kf7 60.Rc3 Ke6 61.Ra3 Rb5 62.Ra6+ Ke7 63.Ra8 Ke6 64.Re8+ Kf7
+65.Rd8 Ke6 66.Rd5 Rxd5 67.exd5+ Kxd5 68.Kf5 Kd4 69.Kxf6 Ke3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Sax, Gyula"]
+[Black "Dreev, Alexey"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[BlackElo "2590"]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Ba4 Bc5 6.Nxe5 O-O 7.Nd3 Bb6 8.e5 Ne8
+9.Nd5 d6 10.Ne3 Qg5 11.f4 Qg6 12.O-O f6 13.Kh1 c6 14.b4 Nf5 15.Bb3+ Kh8 16.Qe1 Bd4
+17.Bb2 Nxe3 18.dxe3 Bxb2 19.Nxb2 Bf5 20.Qd2 Be4 21.Nd3 b6 22.Rf2 h6 23.Rd1 Qh5
+24.Rc1 Kh7 25.Rcf1 Qf5 26.Kg1 Rd8 27.Qc3 h5 28.Qc4 d5 29.Qc3 Rc8 30.Ba4 Rc7
+31.Qd2 Rff7 32.Qd1 Rfe7 33.Rd2 Bxd3 34.cxd3 fxe5 35.e4 Qg4 36.exd5 cxd5 37.fxe5 Rxe5
+38.d4 Rg5 39.Bxe8 Qh4 40.Bb5 Rc3 41.Qe2 Rh3 42.Bd3+ Kh6 43.Qe6+ g6 44.Qf6  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Ruban, Vadim"]
+[Black "Rohde, Michael A"]
+[Result "0-1"]
+[WhiteElo "2580"]
+[BlackElo "2585"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 d5 5.a3 Be7 6.g3 c5 7.cxd5 exd5 8.Bg2 Nc6
+9.dxc5 Bxc5 10.O-O O-O 11.b4 Bb6 12.Bb2 Re8 13.Nb3 Bg4 14.Rc1 Ne4 15.Nbd4 Qf6
+16.Rc2 Qh6 17.Nxc6 bxc6 18.Nd4 Rac8 19.Qc1 Qh5 20.f3 Nf6 21.fxg4 Nxg4 22.h3 Ne3
+23.Rxc6 Rxc6 24.Qxc6 Qe5 25.Rf2 Rf8 26.Rf4 Nc4 27.Ba1 g5 28.Qf6 gxf4 29.Qxe5 Nxe5
+30.gxf4 Nc6 31.e3 Nxd4 32.Bxd4 Bxd4 33.exd4 Kg7 34.Kf2 Kf6 35.Bxd5 Rd8 36.Be4 Rxd4
+37.Ke3 Rc4 38.Kd3 Rc1 39.a4 h6 40.a5 Ke6 41.b5 Ra1 42.a6 Ra3+ 43.Kd4 Kd6
+44.Bc6 Ra4+ 45.Ke3 f5 46.h4 Rc4 47.h5 Rb4 48.Kf3 Rb3+ 49.Kf2 Kc7 50.Ke2 Kb6
+51.Bd7 Rxb5 52.Bxb5 Kxb5 53.Kd3 Kxa6 54.Kd4 Kb5 55.Ke5 a5 56.Kxf5 a4 57.Kg6 a3
+58.f5 a2 59.f6 a1=Q 60.f7 Qh8  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Rozentalis, Eduardas"]
+[Black "Gelfand, Boris"]
+[Result "1-0"]
+[WhiteElo "2590"]
+[BlackElo "2685"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.g3 d6 5.exd6 e6 6.Bg2 Bxd6 7.Nf3 O-O 8.O-O Nc6
+9.Na3 Bd7 10.Nc4 Bc7 11.d3 Rc8 12.a4 b6 13.Qe2 Qe7 14.Nh4 Nf4 15.Bxf4 Bxf4
+16.Rae1 Rfd8 17.Be4 Bg5 18.Ng2 Bf6 19.f4 g6 20.g4 Bg7 21.Qf2 Qf6 22.Qg3 Na5
+23.Nd6 Rb8 24.g5 Qe7 25.f5 Bc6 26.Nxf7 Qxf7 27.fxg6 Qe8 28.gxh7+ Kh8 29.g6 Rb7
+30.h4 Rbd7 31.h5 Bxe4 32.Rxe4 Rxd3 33.Qg4 R3d6 34.Nf4 Nb3 35.Nxe6 Nd2 36.Ng5 Nxe4
+37.Qxe4 R6d7 38.Qxe8+ Rxe8 39.Nf7+ Rxf7 40.Rxf7 Bh6 41.Rxa7 Bc1 42.b3 c4
+43.bxc4 b5 44.Kg2 bxa4 45.Rxa4 Kg7 46.c5 Bg5 47.c6 Bf6 48.Ra7+ Kh6 49.c4 Re6
+50.h8=Q+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Rohde, Michael A"]
+[Black "Kengis, Edvins"]
+[Result "1-0"]
+[WhiteElo "2585"]
+[BlackElo "2590"]
+[ECO "A40"]
+
+1.d4 e6 2.c4 b6 3.g3 Bb7 4.Nf3 Bb4+ 5.Bd2 Bxf3 6.exf3 Bxd2+ 7.Qxd2 Ne7 8.d5 O-O
+9.Nc3 c5 10.Bh3 exd5 11.cxd5 d6 12.O-O Nd7 13.Rfe1 a6 14.a4 Nf6 15.Re3 Rb8
+16.Rae1 Ng6 17.Bf1 Ra8 18.h4 h6 19.f4 Re8 20.Rxe8+ Nxe8 21.Bd3 Nf8 22.Qe2 b5
+23.axb5 axb5 24.Bxb5 Nf6 25.Qf3 Rb8 26.g4 Qa5 27.g5 N6h7 28.Bd3 Qb4 29.Re2 hxg5
+30.hxg5 Ng6 31.Bxg6 fxg6 32.Ne4 Rf8 33.Qg4 Qd4 34.Qe6+ Kh8 35.Re3 Qd1+ 36.Kg2 Rxf4
+37.Qxg6 Rg4+ 38.Ng3 Qxd5+ 39.Kh3 Rf4  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Rogers, Ian"]
+[Black "Short, Nigel D"]
+[Result "0-1"]
+[WhiteElo "2565"]
+[BlackElo "2680"]
+[ECO "B59"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nb3 h6 8.O-O Be7
+9.Kh1 O-O 10.f4 Re8 11.f5 a5 12.Be3 a4 13.Nd2 a3 14.b3 Nd4 15.Bc4 Bd7 16.Nd5 Rc8
+17.Rc1 b5 18.Nxf6+ Bxf6 19.Bd5 Rc3 20.Bg1 Qc7 21.Nb1 Rxc2 22.Nxa3 Rxc1 23.Qxc1 Rc8
+24.Be3 Qa5 25.Qb2 Qc3 26.Qxc3 Rxc3 27.Bd2 Rd3 28.Ba5 Nxf5 29.Nc2 Ne7 30.Nb4 Rd4
+31.Bb7 Bg5 32.Nc2 Rd3 33.Nb4 Rd2 34.h3 Ng6 35.Bb6 Re2 36.Rf2 Re1+ 37.Kh2 h5
+38.Nc2 Rc1 39.g3 h4 40.Re2 hxg3+ 41.Kxg3 Bf4+  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Rogers, Ian"]
+[Black "Kovacevic, Vlatko"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2540"]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nc6 5.Bb5 Bd6 6.c4 Nf6 7.c5 Be7 8.Bxc6+ bxc6
+9.Qa4 O-O 10.O-O Ne4 11.Qxc6 Rb8 12.Nc3 Rb4 13.Bf4 Bb7 14.Qxc7 Rxb2 15.Qxd8 Bxd8
+16.Rab1 Rxb1 17.Nxb1 g5 18.Be3 f5 19.Ne5 f4 20.Bd2 Bf6 21.Rc1 Rc8 22.h4 h6
+23.hxg5 hxg5 24.Bb4 Bxe5 25.dxe5 Kf7 26.Nd2 Nxd2 27.Bxd2 Ke6 28.f3 d4 29.c6 Bxc6
+30.Rc5 Bd7 31.Rxc8 Bxc8 32.Kf2 Kxe5 33.g3 fxg3+ 34.Kxg3 Be6 35.a4 Kd5 36.a5 Kc4
+37.Kf2 g4 38.fxg4 Bxg4 39.Ke1  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Ribli, Zoltan"]
+[Black "Kuczynski, Robert"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2525"]
+[ECO "D46"]
+
+1.Nf3 d5 2.d4 c6 3.c4 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Be2 O-O 8.O-O dxc4
+9.Bxc4 b5 10.Be2 Re8 11.Rd1 Qc7 12.b3 e5 13.h3 a6 14.Bb2 exd4 15.Rxd4 Bc5
+16.Rdd1 Bb7 17.Ng5 h6 18.Nce4 Nxe4 19.Nxe4 Bf8 20.a4 c5 21.Nc3 bxa4 22.Rxa4 Nf6
+23.Rd2 Qb6 24.Rf4 Qc7 25.Bc4 Rad8 26.Rf5 Rxd2 27.Qxd2 Rd8 28.Qe2 Qc6 29.e4 Bc8
+30.Rf3 Be6 31.e5 Nd7 32.Bxa6 Bxb3 33.Bb5 Qe6 34.Bd3 Qc6 35.Be4 Qe6 36.Bf5 Qb6
+37.Bd3 Be6 38.Bc1 Qb4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Ree, Hans"]
+[Black "Sveshnikov, Evgeny"]
+[Result "0-1"]
+[WhiteElo "2450"]
+[BlackElo "2525"]
+[ECO "A07"]
+
+1.Nf3 d5 2.g3 Nf6 3.Bg2 c6 4.O-O Bf5 5.b3 e6 6.Bb2 Bd6 7.c4 O-O 8.Nc3 Nbd7
+9.d4 Ne4 10.Nd2 Nxc3 11.Bxc3 Nf6 12.e3 Qe7 13.Qe2 a5 14.a4 Bb4 15.Bxb4 Qxb4
+16.h3 Rad8 17.g4 Bg6 18.Rac1 Ne4 19.Nxe4 Bxe4 20.Bxe4 dxe4 21.Qc2 e5 22.dxe5 Rd3
+23.Rfd1 Rfd8 24.c5 R8d5 25.Rxd3 exd3 26.Qc4 Rxc5  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Razuvaev, Yuri S"]
+[Black "Sokolov, Ivan"]
+[Result "0-1"]
+[WhiteElo "2565"]
+[BlackElo "2625"]
+[ECO "E81"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 a6 7.Qd2 c6 8.h4 e5 9.h5 Nxh5
+10.Nge2 exd4 11.Bxd4 Nf6 12.g4 c5 13.Be3 Nc6 14.Ng3 Nd4 15.Be2 Re8 16.Bh6 Bh8
+17.Bg5 b5 18.O-O-O Qa5 19.Bxf6 Bxf6 20.Qh6 Be6 21.f4 Nxe2+ 22.Ngxe2 b4 23.e5 dxe5
+24.Ne4 Bg7 25.Qxh7+ Kf8 26.f5 Qxa2 27.f6 Qxc4+ 28.Kd2 Red8+ 29.Ke3 Qb3+ 30.Kf2 Bxf6
+31.Nxf6 Rxd1 32.Qh8+ Ke7 33.Qxa8 Kxf6 34.Rh7 Qd5  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Psakhis, Lev"]
+[Black "Ehlvest, Jaan"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2635"]
+[ECO "A34"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 c5 5.Bg2 Nc7 6.Nf3 Nc6 7.O-O e5 8.d3 Be7
+9.Nd2 Bd7 10.Nc4 O-O 11.Bxc6 Bxc6 12.Nxe5 Be8 13.Be3 Ne6 14.Qb3 Bf6 15.f4 Bxe5
+16.fxe5 Bc6 17.Nb5 Bxb5 18.Qxb5  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Vyzmanavin, Alexey"]
+[Black "Pinter, Jozsef"]
+[Result "1/2-1/2"]
+[WhiteElo "2580"]
+[BlackElo "2590"]
+[ECO "D46"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 Nbd7 6.Qc2 Bd6 7.Be2 O-O 8.O-O dxc4
+9.Bxc4 Qe7 10.Bd2 a6 11.a4 c5 12.Rae1 h6 13.h3 Bc7 14.Ba2 b6 15.d5 Ne5 16.Nxe5 Bxe5
+17.e4 Rb8 18.Qd3 Qd8 19.Bc4 Re8 20.b3 Ra8 21.Kh1 Bb7 22.f4 Bxc3 23.Bxc3 exd5
+24.exd5 Rxe1 25.Rxe1 b5 26.axb5 axb5 27.Bxb5 Qxd5 28.Qxd5 Nxd5 29.Bd2 Nf6
+30.Be3 Ra2 31.Re2 Rxe2 32.Bxe2 Bd5 33.Bxc5 Bxb3 34.Kh2  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Wojtkiewicz, Aleksander"]
+[Black "Eingorn, Vereslav S"]
+[Result "1/2-1/2"]
+[WhiteElo "2530"]
+[BlackElo "2590"]
+[ECO "A33"]
+
+1.Nf3 c5 2.c4 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nf6 6.Ndb5 d5 7.Bf4 e5 8.cxd5 exf4
+9.dxc6 bxc6 10.Qxd8+ Kxd8 11.Rd1+ Bd7 12.Nd6 Bxd6 13.Rxd6 Rb8 14.Rd2 Ke7
+15.g3 fxg3 16.hxg3 Rb4 17.Bg2 c5 18.Nd5+ Nxd5 19.Bxd5 Bf5 20.f3 h6 21.e4 Be6
+22.Bxe6 fxe6 23.Ke2 Rhb8 24.b3 c4 25.Rc1 cxb3 26.Rc7+ Kf6 27.axb3 R8b7 28.Rdd7 Rxc7
+29.Rxc7 Rxb3 30.Rxa7 g6 31.Kf2 Rb2+ 32.Ke3 h5 33.f4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Pieterse, Gert"]
+[Black "Nogueiras, Jesus"]
+[Result "0-1"]
+[WhiteElo "2390"]
+[BlackElo "2570"]
+[ECO "A41"]
+
+1.d4 d6 2.c4 e5 3.Nf3 e4 4.Ng5 f5 5.f3 Be7 6.Nh3 Nf6 7.Nc3 O-O 8.Nf2 Nc6
+9.e3 exf3 10.gxf3 Nh5 11.f4 g6 12.Rg1 Ng7 13.a3 Bh4 14.Be2 Ne7 15.Kf1 c6
+16.d5 cxd5 17.cxd5 Bd7 18.a4 a6 19.Nd3 Be8 20.Qb3 Rb8 21.Bd2 Bf7 22.Bf3 Ne8
+23.a5 Nc7 24.Nb4 Bf6 25.Rd1 Qd7 26.Be1 Nb5 27.Nxb5 Qxb5+ 28.Be2 Qxa5 29.Nxa6 bxa6
+30.Bxa5 Rxb3 31.Bc4 Rxb2 32.Rg2 Rxg2 33.Kxg2 Rc8 34.Bb3  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Petursson, Margeir"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2680"]
+[ECO "D11"]
+
+1.d4 d5 2.Nf3 Bf5 3.c4 e6 4.Nc3 c6 5.Bf4 Bd6 6.Bxd6 Qxd6 7.Qb3 Qe7 8.e3 Nf6
+9.Be2 O-O 10.O-O Bg4 11.h3 Bxf3 12.Bxf3 dxc4 13.Qxc4 Nbd7 14.Rfd1 Rfd8 15.Qb3 Rab8
+16.Rac1  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Oll, Lembit"]
+[Black "De Boer, Gert Jan"]
+[Result "1/2-1/2"]
+[WhiteElo "2600"]
+[BlackElo "2430"]
+[ECO "B52"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O Ngf6 6.Re1 e6 7.c3 Be7 8.d4 O-O
+9.Nbd2 Rc8 10.e5 Ne8 11.Ne4 Qb6 12.Qa4 Rc7 13.dxc5 dxc5 14.Rd1 Nb8 15.Be3 Qa6
+16.Qxa6 Nxa6 17.Nd6 Bxd6 18.exd6 Rd7 19.b4 cxb4 20.cxb4 f6 21.a3 b6 22.Nd4 Rxd6
+23.Nb5 Rxd1+ 24.Rxd1 Rf7 25.Rd8 Kf8 26.Nd6 Re7  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Novikov, Igor A"]
+[Black "Hjartarson, Johann"]
+[Result "0-1"]
+[WhiteElo "2585"]
+[BlackElo "2595"]
+[ECO "A54"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 Nbd7 4.Nf3 e5 5.Bg5 Be7 6.e3 O-O 7.Qc2 c6 8.O-O-O Qc7
+9.Bd3 Re8 10.h3 Nf8 11.Bh4 b6 12.dxe5 dxe5 13.g4 Bb7 14.Ne4 Nxe4 15.Bxe4 Bxh4
+16.Nxh4 g6 17.Nf3 Ne6 18.Nd2 Nc5 19.Bg2 Rad8 20.Ne4 Qe7 21.Nxc5 Qxc5 22.Rxd8 Rxd8
+23.Rd1 Rxd1+ 24.Kxd1 h6 25.Qc3 a5 26.a3 Ba6 27.Bf1 Qd6+ 28.Ke1 c5 29.Bg2 Kf8
+30.a4 Ke7 31.b3 Bc8 32.Qd2 f5 33.Qxd6+ Kxd6 34.gxf5 Bxf5 35.e4 Be6 36.f3 Ke7
+37.Kf2 b5 38.axb5 Bxc4 39.b6 Kd8 40.Ke3 Bxb3 41.Kd2 Kc8 42.f4 exf4 43.e5 Be6
+44.Bf3 Bxh3 45.Bd5 g5 46.Kc3 a4 47.Kc4 a3 48.Kb3 f3 49.Bxf3 Be6+ 50.Kxa3 g4
+51.Be4 h5 52.Kb2 h4 53.Kc3 g3 54.Kd2 c4 55.Ke3 c3  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Nogueiras, Jesus"]
+[Black "Nikolic, Predrag"]
+[Result "0-1"]
+[WhiteElo "2570"]
+[BlackElo "2625"]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 b5 4.Bg2 Bb7 5.Bg5 c5 6.c3 cxd4 7.cxd4 Qa5+ 8.Nbd2 Ne4
+9.O-O Nxg5 10.Nxg5 Bxg2 11.Kxg2 Be7 12.Ngf3 O-O 13.Qb3 Nc6 14.d5 Nb4 15.e4 exd5
+16.a3 dxe4 17.Nxe4 Nc6 18.Rad1 b4 19.Rd5 Qc7 20.Rfd1 bxa3 21.bxa3 Rad8 22.Qd3 h6
+23.Nc3 Rfe8 24.Nb5 Qb8 25.Rb1 Qc8 26.Rc1 Qb7 27.Rb1 Qc8 28.Rc1 a6 29.Nbd4 Qa8
+30.Nf5 Bf8 31.Kg1 Re6 32.Rxd7 Rxd7 33.Qxd7 g6 34.N5d4 Nxd4 35.Nxd4 Rd6 36.Qg4 Qd5
+37.Nf3 Rb6 38.Rc8 Qd1+ 39.Kg2 Rb1 40.Kh3 Qf1+ 41.Kh4 Rb5  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Nogueiras, Jesus"]
+[Black "Miles, Anthony J"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2595"]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 c5 3.e3 cxd4 4.exd4 g6 5.Bd3 Bg7 6.O-O O-O 7.c3 d6 8.Bg5 Nc6
+9.Nbd2 h6 10.Bh4 e5 11.dxe5 dxe5 12.Qc2 Qc7 13.Bxf6 Bxf6 14.Bc4 Kg7 15.Rfe1 Bf5
+16.Bd3 Nb4 17.cxb4 Qxc2 18.Bxc2 Bxc2 19.Nxe5 Rfe8 20.f4 g5 21.Rac1 Rac8 22.Ndc4 Bxe5
+23.Rxe5 Ba4 24.b3 Rxe5 25.fxe5 Bd7 26.a4 Be6 27.Kf2 Kg6 28.Ke3 h5 29.g3 b6
+30.b5 Rc5 31.Kd4 h4 32.gxh4 g4 33.Rf1 Kh5 34.Rf6 Kxh4 35.Nd6 Rc7 36.Ne4 Kh3
+37.Ng5+ Kxh2 38.Nxe6 fxe6 39.Rxe6 Rh7 40.Rg6 g3 41.e6 g2 42.Kd5 g1=Q 43.Rxg1 Kxg1
+44.Kd6 Kf2 45.e7 Rh8 46.Kc7 Ke3 47.Kb7 Kd4 48.Kxa7 Kc5 49.b4+ Kd6 50.a5 bxa5
+51.bxa5 Kc7 52.b6+ Kc6 53.b7 Kc7 54.e8=Q Rxe8 55.a6 Rb8  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Nikolic, Predrag"]
+[Black "Vyzmanavin, Alexey"]
+[Result "0-1"]
+[WhiteElo "2625"]
+[BlackElo "2580"]
+[ECO "E15"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Ba6 5.Qa4 Bb7 6.Bg2 c5 7.O-O Be7 8.Rd1 O-O
+9.Nc3 cxd4 10.Nxd4 Bxg2 11.Kxg2 Qc8 12.f3 a6 13.Bg5 h6 14.Bxf6 Bxf6 15.Rac1 Qb7
+16.Qb3 Nc6 17.Nxc6 Qxc6 18.Qb4 Bg5 19.Rc2 Rfc8 20.Ne4 d5 21.Nxg5 hxg5 22.Qe7 g4
+23.Rc3 gxf3+ 24.Rxf3 Rc7 25.cxd5 Qc4 26.Qd6 Qxe2+ 27.Rf2 Qxd1 28.Qxc7 Qxd5+
+29.Kg1 Rf8 30.Qxb6 Qxa2 31.Qd4 Qa5 32.b4 Qc7 33.Qc5 Qb7 34.Qd6 Rc8 35.Rf1 g6
+36.Qd4 e5 37.Qd6 Qa7+ 38.Rf2 Qa8 39.Qd2 Qc6 40.h4 e4 41.Kh2 Qe6 42.Qe3 Rc4
+43.Rd2 Kh7 44.Rb2 Kg7 45.Rf2 Kg8 46.Rd2 Qe5 47.Qh6 Rc8 48.Qg5 Qxg5 49.hxg5 e3
+50.Re2 Re8 51.Kg2 Re4 52.Kf3 Rxb4 53.Rxe3 Kf8 54.Ra3 Rb6 55.Rc3 a5 56.Rc8+ Ke7
+57.Ra8 Rb3+ 58.Kf4 Rb4+ 59.Ke5 Rb5+ 60.Kf4 Rf5+ 61.Kg4 Kd6 62.Kh4 Kc6 63.g4 Rc5
+64.Ra7 Kb5 65.Rb7+ Ka6 66.Rxf7 Rc6 67.Rf6 Kb5 68.Rf5+ gxf5 69.gxf5 a4 70.f6 a3
+71.f7 Rc8 72.g6 a2 73.g7 a1=Q 74.f8=Q Qd4+ 75.Kh5 Rc5+ 76.Kh6 Qh4+ 77.Kg6 Qh5+
+78.Kf6 Qf5+ 79.Ke7 Rc7+ 80.Kd6 Rd7+  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Nikolic, Predrag"]
+[Black "Van der Wiel, John TH"]
+[Result "1-0"]
+[WhiteElo "2625"]
+[BlackElo "2545"]
+[ECO "A33"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 c5 4.Bg2 Nc6 5.O-O cxd4 6.Nxd4 Bc5 7.Nb3 Be7 8.c4 O-O
+9.Nc3 d6 10.Bf4 Ng4 11.e4 Nge5 12.Qe2 b6 13.Rfd1 Bb7 14.Be3 Qb8 15.Rd2 Nd7
+16.Rad1 a6 17.f4 Nc5 18.Nd4 Rc8 19.Nc2 Na5 20.b3 b5 21.f5 Ncxb3 22.axb3 Nxb3
+23.fxe6 Nxd2 24.exf7+ Kh8 25.Bxd2 Rxc4 26.Ne3 Rc5 27.Ncd5 Bf8 28.Nb6 Ra7
+29.Nd7  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Nijboer, Friso"]
+[Black "Winants, Luc"]
+[Result "0-1"]
+[WhiteElo "2485"]
+[BlackElo "2505"]
+[ECO "C73"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Bxc6+ bxc6 6.d4 Nf6 7.Nc3 Nd7 8.O-O Be7
+9.Ne2 O-O 10.Ng3 Re8 11.c3 a5 12.Re1 Bf8 13.Be3 a4 14.Qc2 f6 15.Nd2 d5 16.Rad1 Nb6
+17.dxe5 fxe5 18.Bxb6 cxb6 19.exd5 cxd5 20.Nc4 Bg4 21.Rd2 Bc5 22.Nxe5 Qd6
+23.Nd3 b5 24.Qc1 Bb6 25.Nb4 Be6 26.Ne4 Qf4 27.g3 Qg4 28.Nd6 Rf8 29.Qd1 Qh3
+30.Rd4 Rxf2 31.Kxf2 Bxd4+ 32.Qxd4 Qxh2+ 33.Ke3 Qxg3+ 34.Kd2 Qxd6 35.Rg1 g6
+36.Nd3 Bf5 37.Nf4 Re8 38.Kc1 Qe5 39.Qxd5+ Qxd5 40.Nxd5 Kf7 41.Rd1 h5 42.Nc7 Re5
+43.Kd2 g5 44.Re1 Rc5 45.Na6 Rd5+ 46.Ke3 Re5+ 47.Kf2 Rxe1 48.Kxe1 h4 49.Nc7 Bd3
+50.Kf2 g4 51.Nd5 g3+  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Milos, Gilberto"]
+[Black "Rozentalis, Eduardas"]
+[Result "1/2-1/2"]
+[WhiteElo "2555"]
+[BlackElo "2590"]
+[ECO "C28"]
+
+1.e4 e5 2.Nc3 Nf6 3.Bc4 Nc6 4.d3 Bb4 5.Nf3 O-O 6.O-O Bxc3 7.bxc3 d6 8.Bg5 h6
+9.Bh4 Qe7 10.Re1 a6 11.Qc1 Bg4 12.Nd2 g5 13.Bg3 Nh5 14.Nf1 Be6 15.Bb3 Bxb3
+16.axb3 Qe6 17.Ne3 Ne7 18.Qd1 Nf4 19.d4 Rad8 20.Qf3 Qg6 21.Rad1 f6 22.Rd2 Rde8
+23.Bxf4 gxf4 24.Nc4 Kh8 25.Qh3 Rg8 26.f3 Nc6 27.Nb2 Nd8 28.Nd3 Ne6 29.Kh1 Re7
+30.Qf5 Qf7 31.dxe5 fxe5 32.Qxf7 Rxf7 33.Kg1 a5 34.Kf1 h5 35.Ra1 b6 36.Nb2 h4
+37.h3 Rfg7 38.Nc4 Rg6 39.Rf2 Kg7 40.Na3 Kf6 41.Nb5 Ke7 42.Rd2 Kd7 43.Ra3 Ng5
+44.c4 c6 45.Nc3 Kc7 46.Nd1 Ne6 47.c3 Nc5 48.Rda2 Rg3 49.b4 Nb7 50.Rd2 c5
+51.b5 d5 52.cxd5 Nd6 53.Ra4 Nxb5 54.Rb2 Nd6  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Miles, Anthony J"]
+[Black "Dorfman, Josif D"]
+[Result "1/2-1/2"]
+[WhiteElo "2595"]
+[BlackElo "2610"]
+[ECO "D30"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.e3 Nbd7 5.b3 Ne4 6.Bd3 Bb4+ 7.Nbd2 f5 8.O-O O-O
+9.Bb2 Qf6 10.Qc1 c6 11.Ba3 Bxa3 12.Qxa3 b6 13.Qb2 Bb7 14.b4 Rfd8 15.Rab1 Nxd2
+16.Qxd2 c5 17.cxd5 Bxd5 18.Be2 cxb4 19.Rxb4 Rac8 20.Rc1 Qf8 21.Rb2 Nc5 22.Qb4 a5
+23.Qe1 Ne4 24.Rbc2 Rxc2 25.Rxc2 Rc8 26.Qc1 Nd6 27.Ne5 Rxc2 28.Qxc2 Qc8 29.Qb2 Qc7
+30.f3 h6 31.h3 Kh7 32.Kf2 Kg8 33.Ng6 Kf7 34.Nf4 Bc4 35.Bxc4 Nxc4 36.Qc2 b5
+37.a4 Qd7 38.Qb3 Nb6 39.axb5 Qd6 40.Qc3 a4 41.Nd3 a3 42.Nb4 f4 43.Qxa3 fxe3+
+44.Ke2 Qxd4 45.Qxe3 Qc4+ 46.Kf2 Qxb5 47.Qf4+ Kg8 48.Qd6 Kh8 49.Nc6 Qb2+ 50.Kg3 Nd5
+51.Qb8+  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Magerramov, Elmar"]
+[Black "Van Wely, Loek"]
+[Result "0-1"]
+[WhiteElo "2565"]
+[BlackElo "2525"]
+[ECO "E92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.Be3 Ng4 8.Bg5 f6
+9.Bh4 Nc6 10.d5 Ne7 11.Nd2 f5 12.h3 Nf6 13.g4 h6 14.gxf5 gxf5 15.Rg1 Kh8
+16.Bd3 f4 17.Qf3 Nh7 18.O-O-O Bf6 19.Bxf6+ Nxf6 20.Be2 b6 21.Qh1 Rg8 22.Bg4 Kh7
+23.Qf3 Bxg4 24.hxg4 Qd7 25.Qh1 Rxg4 26.Rxg4 Nxg4 27.Qh5 Rg8 28.Rh1 Rg6 29.Qh4 a6
+30.Nf3 Kg7 31.Qh3 Nf6 32.Qf1 a5 33.Nh4 Rg5 34.Qe2 h5 35.b3 Kh6 36.Kb2 Ng6
+37.Nf5+ Rxf5 38.exf5 Qxf5 39.f3 h4 40.Qg2 Qg5 41.Qxg5+ Kxg5 42.Kc2 Kf5 43.Kd3 Nh5
+44.Rh2 Ng3 45.Nb5 e4+ 46.fxe4+ Kg4 47.Nxc7 Ne5+ 48.Kc2 f3 49.Ne8 Nxe4  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Lutz, Christopher"]
+[Black "Epishin, Vladimir"]
+[Result "0-1"]
+[WhiteElo "2550"]
+[BlackElo "2630"]
+[ECO "A41"]
+
+1.Nf3 d6 2.d4 Bg4 3.e4 Nf6 4.Nc3 e6 5.h3 Bh5 6.Qe2 c6 7.g4 Bg6 8.Bg5 Nbd7
+9.Bg2 Be7 10.Nd2 e5 11.Nb3 Nf8 12.Be3 Ne6 13.O-O-O Nd7 14.h4 h6 15.Rd2 Nf4
+16.Qf3 Nxg2 17.Qxg2 f6 18.Rhd1 O-O 19.dxe5 Nxe5 20.Bd4 Nc4 21.Re2 b5 22.f4 b4
+23.Nb1 Qc8 24.N3d2 Qa6 25.Nxc4 Qxc4 26.b3 Qa6 27.Rh1 c5 28.Bb2 c4 29.bxc4 Qxc4
+30.g5 Bh5 31.gxh6 g6 32.Rd2 Kh7 33.Rd4 Qxa2 34.Rd5 Rg8 35.Qh3 f5 36.Qd3 Bf8
+37.Rb5 Qf7 38.Qd5 Qxd5 39.exd5 Kxh6 40.Re1 Bg7 41.Re6 a5 42.Rb7 Bf3 43.Rxd6 Bxb2+
+44.Kxb2 Rgd8 45.Rbb6 Rxd6 46.Rxd6 a4 47.Nd2 a3+ 48.Ka2 Bg2 49.Nb3 Rc8 50.Nd4 Be4
+51.Ka1 Bxc2 52.Rb6 Be4 53.Rxb4 Bxd5 54.Rb1 Rc3 55.Rd1 Bc4 56.Rg1 Bf7 57.Kb1 Rh3
+58.Nc6 Rxh4 59.Ne5 Kg7 60.Rf1 Rh2 61.Ka1 Re2 62.Kb1 g5 63.Rg1 Ba2+ 64.Ka1 Kf6
+65.Nd3 gxf4 66.Nxf4 Rh2 67.Rg3 Rh4 68.Ng6 Rg4 69.Rxg4 fxg4 70.Nf4 Kg5 71.Ne2 Bc4
+72.Ng3 Kf4 73.Nh5+ Kf3 74.Kb1 Bf7 75.Ng7 g3 76.Nf5 Bg6  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Lputian, Smbat G"]
+[Black "Wolff, Patrick G"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2590"]
+[ECO "D28"]
+
+1.d4 d5 2.c4 dxc4 3.e3 Nf6 4.Bxc4 e6 5.Nf3 c5 6.Qe2 a6 7.dxc5 Bxc5 8.O-O b5
+9.Bd3 Nc6 10.Rd1 Qc7 11.Nbd2 Bb7 12.Nb3 Bd6 13.Bd2 O-O 14.Rac1 Qe7 15.Bc3 e5
+16.Ng5 b4 17.Be1 e4 18.Bb1 Bxh2+ 19.Kxh2 Qe5+ 20.Kg1 Qxg5 21.f4 exf3 22.Qxf3 Na5
+23.Qg3 Qxg3 24.Bxg3 Nxb3 25.axb3 Bd5 26.Be5 Bxb3 27.Rd4 Rfc8 28.Rxc8+ Rxc8
+29.Rxb4 Nd7 30.Bf5 Be6 31.Bxe6 fxe6 32.Bc3 e5 33.Ra4 Rc6 34.Ra5 e4 35.Rg5 g6
+36.Rd5 Nf8 37.Rd8 Kf7 38.Bb4 Ne6 39.Rd7+ Kg8 40.Bc3 h5 41.Kh2 Kf8 42.Kh3 Ke8
+43.Rd5 Ke7 44.Kh4 Kf7 45.Rd7+ Ke8 46.Rb7 Rd6 47.Rb4 Rd3 48.Rxe4 Kd7 49.Kg3 Rd5
+50.Rb4 Kc7 51.Ra4 Nc5 52.Rc4 Kd7 53.e4 Rg5+ 54.Kf3 Ne6 55.Ra4 Rg4 56.Bd2 Nc5
+57.Rd4+ Kc6 58.Be3 Ne6 59.Rd5 Kc7 60.Re5 Kd7 61.Ra5 Nd8 62.Rd5+ Ke8 63.g3 Nc6
+64.Bd2 Ke7 65.Bf4 a5 66.Bc7 a4 67.Bf4 Ke8 68.Rd6 Na5  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Lputian, Smbat G"]
+[Black "Sveshnikov, Evgeny"]
+[Result "0-1"]
+[WhiteElo "2585"]
+[BlackElo "2525"]
+[ECO "D35"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 c6 5.cxd5 exd5 6.Bg5 Bf5 7.e3 Nbd7 8.Bd3 Bxd3
+9.Qxd3 Bd6 10.O-O O-O 11.Bh4 Qe8 12.Nd2 Qe6 13.Rfe1 Ng4 14.h3 Qh6 15.Nf3 Nh2
+16.Nxh2 Bxh2+ 17.Kxh2 Qxh4 18.Qf5 Rad8 19.b4 Nb6 20.b5 Rd6 21.Re2 Rf6 22.Qg4 Qh6
+23.a4 a5 24.bxa6 bxa6 25.a5 Nc4 26.Na4 Rg6 27.Qf3 Qg5 28.Nc5 Ne5 29.Qg3 Qh5
+30.Qxe5 Qxe2 31.Kg1 Qb2 32.Rf1 Qb5 33.Qc7 h6 34.Nd7 Re8 35.Rc1 Rge6 36.Ne5 R6e7
+37.Qb6 Qxb6 38.axb6 Rb7 39.Rxc6 Reb8 40.Rc5 Rxb6 41.Rxd5 Ra8 42.Ra5 Rb5 43.Ra4 a5
+44.Nc6 Kf8 45.e4 Ke8 46.d5 Kd7 47.g4 Kc7 48.Kg2 Kb6 49.Kg3 Rb1 50.Kf4 Kb5
+51.Ra3 a4 52.h4 Kc5 53.Rc3+ Kb6 54.Ne5 Rb3 55.Rc6+ Kb7 56.d6 Rc8 57.d7 Rxc6
+58.d8=N+ Kc7 59.Ndxc6 f6 60.Nd4 fxe5+ 61.Kxe5 Rb2  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Ligterink, Gert"]
+[Black "Stohl, Igor"]
+[Result "1-0"]
+[WhiteElo "2430"]
+[BlackElo "2560"]
+[ECO "A00"]
+
+1.Nc3 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.g3 Nc6 6.Bg2 Bd7 7.Bg5 e6 8.Ndb5 d5
+9.e4 a6 10.Bxf6 gxf6 11.exd5 axb5 12.dxc6 bxc6 13.O-O Be7 14.Qd4 c5 15.Qe3 Rc8
+16.Rad1 Qc7 17.Rfe1 Bc6 18.Bxc6+ Qxc6 19.Qh6 f5 20.Qg7 Rf8 21.Qxh7 b4 22.Ne2 Ra8
+23.Nf4 Rxa2 24.Nh5 Bd6 25.Ng7+ Kd8 26.Nxe6+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Lautier, Joel"]
+[Black "Ulibin, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo "2580"]
+[BlackElo "2570"]
+[ECO "E20"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 e6 4.d4 cxd4 5.Nxd4 Bb4 6.g3 O-O 7.Bg2 d5 8.cxd5 Nxd5
+9.Bd2 Nb6 10.Nc2 Be7 11.Ne3 Nc6 12.O-O Nd4 13.Rc1 e5 14.Re1 Rb8 15.Ncd5 Nxd5
+16.Nxd5 Be6 17.e4 Bg5 18.Bxg5 Qxg5 19.f4 Qd8 20.fxe5 Nc6 21.Qd2 Nxe5 22.Kh1 Kh8
+23.Qd4 f6 24.Rc3 b6 25.Rec1 Rf7 26.Qb4 Rc8 27.Nf4 Rxc3 28.Qxc3 Bg4 29.h3 Bd7
+30.Qb3 Qe8 31.Nd5 Bc6 32.Kh2 h5 33.Rc3 Rd7 34.Qb4 Qb8 35.Qd4 Qd6 36.Qf2 Rd8
+37.Qc2 Rd7 38.a3 Bb7 39.Qa4 Bc6 40.Qa6 Bb7 41.Qf1  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Lautier, Joel"]
+[Black "Hertneck, Gerald"]
+[Result "1-0"]
+[WhiteElo "2580"]
+[BlackElo "2580"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 Bc5 5.d3 d6 6.Bg2 h6 7.O-O O-O 8.a3 a5 9.e3 Bf5
+10.h3 Qd7 11.Kh2 e4 12.Ne1 exd3 13.Nxd3 Bxd3 14.Qxd3 a4 15.Bd2 Na5 16.Rad1 Bb6
+17.Nb5 Nb3 18.Bb4 Rad8 19.Qc2 Rfe8 20.Bc3 Re6 21.Qf5 Ba5 22.Bb4 Bxb4 23.axb4 c5
+24.bxc5 Nxc5 25.Rd4 Nb3 26.Rd3 Rc8 27.Nd4 Rc5 28.Qf3 Nxd4 29.Rxd4 b5 30.cxb5 Qxb5
+31.Qa8+ Kh7 32.Qxa4 Qxb2 33.Qa7 Rc2 34.Qxf7 Rxe3 35.Rf4 Ree2 36.Kg1 Qe5 37.h4 Re1
+38.Rxf6 Rxf1+ 39.Bxf1 Rc1 40.Qg6+ Kg8 41.Re6  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Vaganian, Rafael A"]
+[Black "Kovalev, Andrei"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2580"]
+[ECO "A04"]
+
+1.Nf3 d6 2.g3 e5 3.d3 f5 4.c4 Na6 5.Nc3 c6 6.Bg2 Nf6 7.O-O Be7 8.Rb1 O-O
+9.b4 Nc7 10.b5 c5 11.Bb2 Ne6 12.e3 Qe8 13.Nh4 Nh5 14.Bf3 g6 15.Bxh5 gxh5
+16.Nd5 f4 17.Kh1 Bd8 18.exf4 Bxh4 19.gxh4 Nxf4 20.Qf3 Bg4 21.Qe4 Nxd5 22.Qxd5+ Qf7
+23.f4 Qxd5+ 24.cxd5  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Kuijf, Marinus"]
+[Black "Kortschnoj, Viktor"]
+[Result "0-1"]
+[WhiteElo "2420"]
+[BlackElo "2575"]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.c4 Nf6 5.Nc3 Bb4 6.cxd5 Nxd5 7.Bd2 O-O 8.Bd3 c5
+9.dxc5 Nxc3 10.Bxc3 Bxc3+ 11.bxc3 Nd7 12.c6 Nc5 13.Bc2 Re8+ 14.Ne2 Qe7 15.Kf1 bxc6
+16.Nd4 Ne4 17.Nxc6 Ba6+ 18.Kg1 Qc5 19.Bxe4 Rxe4 20.Nb4 Rae8 21.Nxa6 Qxc3
+22.Kf1 Qc4+ 23.Kg1 Qxa6 24.g3 Re2 25.Qd7 Qf6 26.Rf1 Qf3 27.Qxa7 Re1 28.Qa6 h5
+29.h4 R8e2 30.Qa7 Rxf1+ 31.Kxf1 Rb2  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Krnic, Zdenko"]
+[Black "Petursson, Margeir"]
+[Result "1/2-1/2"]
+[WhiteElo "2430"]
+[BlackElo "2565"]
+[ECO "A12"]
+
+1.Nf3 d5 2.c4 c6 3.b3 Bg4 4.Bb2 e6 5.d3 Nd7 6.Nbd2 Ngf6 7.g3 Bxf3 8.Nxf3 Bb4+
+9.Nd2 Qb6 10.Qc2 Nc5 11.Bc3 a5 12.a3 Bxc3 13.Qxc3 O-O 14.Bg2 Rfd8 15.O-O d4
+16.Qc2 e5 17.Rab1 Qc7 18.Ra1 Qb6 19.Rfb1 Ra7 20.Ra2 Rda8 21.Rab2 Qc7 22.Ra2 h6
+23.Rba1 Qb6  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Kovalev, Andrei"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[WhiteElo "2580"]
+[BlackElo "2460"]
+[ECO "B04"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Nb6 5.a4 a5 6.exd6 cxd6 7.d5 Na6 8.Be3 Bd7
+9.Ng5 Nb4 10.Nc3 g6 11.Qf3 f6 12.Ne6 Bxe6 13.dxe6 Bg7 14.Bb5+ Kf8 15.O-O Nxc2
+16.Qxb7 Nxe3 17.fxe3 Rb8 18.Qf3 Qc8 19.Qh3 Qc5 20.Rac1 Qb4 21.e4 Qd4+ 22.Kh1 Qe5
+23.Ne2 Qxe4 24.Qc3 f5 25.Qc7 Qb7 26.Qxb7 Rxb7 27.b4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Kovalev, Andrei"]
+[Black "Chernin, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2580"]
+[BlackElo "2600"]
+[ECO "B08"]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Nc3 a6 5.a4 Nf6 6.Be2 O-O 7.O-O Nc6 8.d5 Nb4
+9.a5 e6 10.h3 Re8 11.Bg5 h6 12.Be3 Bd7 13.Qd2 Kh7 14.Rfd1 Qe7 15.Na4 exd5
+16.Qxb4 c5 17.Qb3 dxe4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Kosten, Anthony C"]
+[Black "Blees, Albert"]
+[Result "1/2-1/2"]
+[WhiteElo "2515"]
+[BlackElo "2415"]
+[ECO "A16"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 d6 5.e4 e5 6.Nge2 h5 7.h4 O-O 8.d3 c6 9.O-O Na6
+10.Rb1 Bg4 11.f3 Be6 12.Bg5 Qb6+ 13.Kh2 Nh7 14.Na4 Qc7 15.Be3 f5 16.Bh3 Qd7
+17.Nac3 Rf7 18.Ng1 Nc7 19.exf5 Bxf5 20.Ne4 d5 21.Nc5 Qe7 22.Nxb7 dxc4 23.Bxf5 gxf5
+24.dxc4 f4 25.gxf4 Ne6 26.Nd6 Rxf4 27.Nh3 Qxh4 28.Qe1 Nhg5 29.Qg3 Raf8 30.Bxf4 Rxf4
+31.Ne4 Nxh3 32.Qxh4 Rxh4 33.Kg3 Rxe4 34.fxe4 Nhg5 35.Rbe1 Kh7 36.b4 Nd4 37.Rf2 Kg6
+38.a4 Nge6 39.b5 Bf6 40.Rb2 Bd8 41.bxc6 Nxc6 42.Rb5 Kg5 43.Rd1 h4+ 44.Kh2 Kf4
+45.Rd6 Ncd4 46.Rb7 a5 47.c5 Nf3+ 48.Kh1 Nxc5 49.Rf7+ Kg3 50.Rxd8 Nxe4 51.Rg8+ Kf2
+52.Rg2+ Ke3 53.Rb2 Nf2+ 54.Kg2 h3+ 55.Kg3 Nh1+ 56.Kg4 e4 57.Rb3+ Ke2 58.Rb2+ Ke3
+59.Rb3+ Ke2 60.Rb2+  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Kortschnoj, Viktor"]
+[Black "Tiviakov, Sergei"]
+[Result "1-0"]
+[WhiteElo "2575"]
+[BlackElo "2585"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 Nc6 8.Bg5 b6
+9.Rd1 Be7 10.e3 Bb7 11.Be2 d6 12.Rd2 Qb8 13.O-O h6 14.Bh4 Rd8 15.Rfd1 Na5
+16.b4 Nc6 17.Bg3 Nh5 18.Ng5 hxg5 19.Bxh5 Ne5 20.Bxe5 dxe5 21.Rxd8+ Bxd8 22.Rd7 Bc6
+23.Bxf7+ Kf8 24.Bh5 Bxd7 25.Qg6 Kg8 26.Qf7+ Kh8 27.Bf3 Be7 28.Bxa8 Qe8 29.Qxe8+ Bxe8
+30.Be4 a5 31.b5 Kg8 32.Na4 Bd8 33.g4 Kf8 34.Kf1 Ke7 35.Nb2 Kd6 36.Nd3 Bc7
+37.a4 Bd8 38.Ke2 Bc7 39.Kd2 Bf7 40.h3 Be8 41.Kc3 Bf7 42.c5+ bxc5 43.Nb2 c4
+44.Kxc4 Bd8 45.Nd3 Bb6 46.Ne1 Bd8 47.Nf3 Be8 48.Kb3 Bf7 49.Nd2 Kc5 50.Nc4 Bc7
+51.Bc6 Bg6 52.e4 Bf7 53.f3 Bg6 54.Bd7 Bf7 55.Bc8 Bg8 56.Bb7 Bf7 57.Ba6 Bg8
+58.Bc8 Bf7 59.Bd7 Bd8 60.Nxe5 Bg8 61.Be8 Kd6 62.Nc4+ Ke7 63.Bc6 e5 64.Bd5  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Kortschnoj, Viktor"]
+[Black "Christiansen, Larry Mark"]
+[Result "1-0"]
+[WhiteElo "2575"]
+[BlackElo "2625"]
+[ECO "E61"]
+
+1.d4 d6 2.Nf3 Nf6 3.c4 g6 4.Nc3 Bf5 5.d5 Bg7 6.Nd4 Bd7 7.e4 c6 8.Be2 Na6
+9.O-O Nc5 10.Bf3 O-O 11.Nb3 Nxb3 12.axb3 a6 13.Be3 Qc7 14.Re1 Rfe8 15.Rc1 Rad8
+16.Bf4 cxd5 17.exd5 Qa5 18.Bd2 Qb6 19.Be3 Qb4 20.Ra1 e6 21.Na4 Qxe1+ 22.Qxe1 exd5
+23.Qd1 dxc4 24.bxc4 b5 25.Nc3 b4 26.Nd5 Nxd5 27.Bxd5 Bxb2 28.Rxa6 Be6 29.Ra7 Bc3
+30.Bxe6 Rxe6 31.c5 b3 32.Qxb3 dxc5 33.g3 Bd4 34.Qb7 Rf6 35.Qe7  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Knoppert, Erik G J"]
+[Black "Gulko, Boris F"]
+[Result "0-1"]
+[WhiteElo "2370"]
+[BlackElo "2610"]
+[ECO "B57"]
+
+1.e4 c5 2.Ne2 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Qb6 7.Nb3 e6 8.Qe2 a6
+9.Be3 Qc7 10.O-O-O b5 11.Bd3 Be7 12.g4 Nd7 13.f4 Nc5 14.Nxc5 dxc5 15.e5 Bb7
+16.Qf2 Nb4 17.Rhe1 O-O 18.g5 Nxd3+ 19.Rxd3 Rad8 20.Red1 Rxd3 21.Rxd3 b4 22.Na4 c4
+23.Rd1 Bc6 24.Nc5 Qa5 25.Kb1 Rd8 26.Rxd8+ Qxd8 27.Kc1 c3 28.Nb3 Qd5 29.Qe1 a5
+30.bxc3 a4 31.cxb4 axb3 32.axb3 Qe4 33.Bd2 Qd4 34.c3 Qd5 35.Kb2 h6 36.gxh6 gxh6
+37.Qe3 Qh1 38.Qg3+ Kh7 39.Bc1 Be4 40.Qf2 Bg6 41.Qe2 Kg7 42.b5 Ba3+ 43.Kxa3 Qxc1+
+44.Kb4 Qxf4+ 45.c4 Be4 46.Qb2 Qe3 47.c5 Bd3 48.Qc3 Qe4+ 49.Ka5 Qa8+ 50.Kb4 Qe4+
+51.Ka5 Qe2 52.b6 Ba6 53.Qb4 Bb7 54.Qc3 Bc6 55.Kb4 Qxh2 56.Qd4 h5  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Kengis, Edvins"]
+[Black "Gurevich, Mikhail"]
+[Result "1-0"]
+[WhiteElo "2590"]
+[BlackElo "2625"]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 c5 6.O-O c4 7.Re1+ Be7 8.Bf1 O-O
+9.Bg5 Bg4 10.h3 Bxf3 11.Qxf3 Nc6 12.c3 Ne8 13.Bxe7 Nxe7 14.Na3 Nc7 15.Nc2 Qd6
+16.g3 Rad8 17.Re2 f5 18.Rae1 Ng6 19.h4 f4 20.h5 fxg3 21.Qxg3 Nf4 22.Re5 Rf7
+23.Ne3 Rdf8 24.Nxc4 Qh6 25.Ne3 Nxh5 26.Qg4 Nf6 27.Qg2 Nd7 28.Ng4 Qh4 29.R5e3 Rf4
+30.Rg3 Kh8 31.Bd3 h5 32.Ne5 Nxe5 33.Rxe5 Rxf2 34.Qxf2 Rxf2 35.Kxf2 Qh2+ 36.Rg2 Qf4+
+37.Ke2 Qc1 38.Rxh5+ Kg8 39.Rf2 Qxb2+ 40.Kf1 Qc1+ 41.Kg2 g5 42.Bf5 Qxc3 43.Rxg5+ Kf8
+44.Bg4+ Ke7 45.Rg7+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Kengis, Edvins"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2685"]
+[ECO "B96"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Nbd7 8.Qf3 Qc7
+9.O-O-O b5 10.Bd3 Bb7 11.Rhe1 O-O-O 12.Qg3 b4 13.Nb1 Be7 14.Nd2 h6 15.Bxf6 Bxf6
+16.Qe3 e5 17.N4f3 exf4 18.Qxf4 Nc5 19.Kb1 Kb8 20.Nb3 Rhe8 21.Nxc5 Qxc5 22.g4 Re7
+23.h4 a5 24.g5 hxg5 25.hxg5 Be5 26.Nxe5  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Kamsky, Gata"]
+[Black "Winants, Luc"]
+[Result "1-0"]
+[WhiteElo "2655"]
+[BlackElo "2505"]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Bc5 5.Nc3 O-O 6.Nxe5 Re8 7.Nf3 Nxe4 8.d4 Nxc3
+9.bxc3 Bf8 10.c4 h6 11.Bf4 a6 12.Ba4 Na5 13.Ne5 Qf6 14.Bg3 c6 15.Qd2 Qd8
+16.c5 d6 17.cxd6 b5 18.Bb3 Nxb3 19.axb3 Qxd6 20.c4 Qf6 21.Rfe1 Bf5 22.c5 Red8
+23.Qc3 a5 24.Rxa5 Rxa5 25.Qxa5 Rxd4 26.b4 Re4 27.Rxe4 Bxe4 28.h4 Be7 29.Qc7 Qe6
+30.f3 Bd5 31.Kh2 h5 32.Nd3 g5 33.hxg5 Bxg5 34.Bf4 Bf6 35.Be5 Bc4 36.Bxf6 Qxf6
+37.Qg3+ Kf8 38.Nf4 h4 39.Qg4 Qc3 40.Qxh4 Qxb4 41.Qd8+ Kg7 42.Nh5+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Kamsky, Gata"]
+[Black "Spasov, Vasil"]
+[Result "1-0"]
+[WhiteElo "2655"]
+[BlackElo "2535"]
+[ECO "E97"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Nd2 a5 10.a3 Bd7 11.b3 Nc8 12.Rb1 Nb6 13.Qc2 Bh6 14.Nb5 Qe7 15.b4 axb4
+16.axb4 Na4 17.c5 dxc5 18.Nxc7 Rac8 19.Nc4 Bxc1 20.d6 Qd8 21.Rfxc1 cxb4 22.Rxb4 Ne8
+23.Nxe5 Be6 24.Rd1 Nxd6 25.Nxe6 Rxc2 26.Nxd8 Rxe2 27.Rxa4 Nxe4 28.Ra3 Nxf2
+29.Rd7 Ne4 30.h3 Re1+ 31.Kh2 f5 32.Nf3 Rb1 33.Ra7 Nc5 34.Rd5 b6 35.Ng5 f4
+36.Ndf7 Kg7 37.Nh6+ Kf6 38.Ng4+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Kamsky, Gata"]
+[Black "Jussupow, Artur"]
+[Result "1-0"]
+[WhiteElo "2655"]
+[BlackElo "2640"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O O-O 8.c4 Be6
+9.Re1 Re8 10.c5 Be7 11.Nc3 Nxc3 12.bxc3 Nd7 13.Bf4 b6 14.Qc2 Nf8 15.Ne5 Bf6
+16.Bb5 Bxe5 17.Bxe5 Bd7 18.c6 Bc8 19.Bg3 a6 20.Bd3 Re6 21.Rxe6 Bxe6 22.a4 Qe8
+23.Bxc7 Qxc6 24.Bg3 h6 25.h3 Nd7 26.Bh4 Qc7 27.Qd2 Nf8 28.Ra3 Ng6 29.Bg3 Qb7
+30.Rb3 Nf8 31.Qb2 Nd7 32.Qa3 Qc6 33.Qb4 Ra7 34.Kh2 Ra8 35.f3 Ra7 36.Qd6 Qxd6
+37.Bxd6 f5 38.g4 g6 39.Kg3 Kf7 40.Bf4 Kg7 41.gxf5 Bxf5 42.Bxf5 gxf5 43.Rb1 Kg6
+44.Re1 Nf6 45.Kh4 Kf7 46.Bxh6 Rc7 47.Bd2 Rc8 48.Kg3 Nh5+ 49.Kf2 Re8 50.Rg1 Ng7
+51.h4 Ne6 52.Rb1 Rb8 53.Ke2 b5 54.Kd3 Kf6 55.axb5 axb5 56.h5 f4 57.Ra1 Rh8
+58.Ra6 Rxh5 59.Bxf4 Kf5 60.Be5 Nc5+ 61.dxc5 Kxe5 62.Rg6 Rh4 63.Rg4 Rh1 64.Rd4 Ke6
+65.Kc2 Rh5 66.Kb3 Kd7 67.Kb4 Kc6 68.Rg4 Rh6 69.f4 Rf6 70.Rh4 Rf7 71.Rh6+ Kc7
+72.Kxb5 Rxf4 73.Rh7+ Kc8 74.Kb6 Rf1 75.Rh8+ Kd7 76.c6+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Van Mil, Johannes A J"]
+[Black "Tiviakov, Sergei"]
+[Result "0-1"]
+[WhiteElo "2450"]
+[BlackElo "2585"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nc6 5.Be3 cxd4 6.cxd4 e6 7.Nc3 Qd6 8.Nf3 Nf6
+9.a3 Be7 10.Bd3 O-O 11.O-O b6 12.Qe2 Bb7 13.Rad1 Rad8 14.Rfe1 Nd5 15.Ne4 Qd7
+16.Bb1 Qc8 17.h4 Ba6 18.Qc2 g6 19.Bh6 Rfe8 20.Rc1 Bb7 21.Neg5 Bxg5 22.Bxg5 f6
+23.Bd2 Qd7 24.b4 Nce7 25.h5 Rc8 26.Qd3 Rxc1 27.Rxc1 Kf7 28.b5 Qd6 29.Qe4 Rg8
+30.hxg6+ hxg6 31.Re1 Nf5 32.Qd3 Rh8 33.a4 Nf4 34.Bxf4 Qxf4 35.Ba2 Bxf3 36.Qxf3 Qh2+
+37.Kf1 Qh1+ 38.Ke2 Nxd4+  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Vyzmanavin, Alexey"]
+[Black "Ehlvest, Jaan"]
+[Result "1/2-1/2"]
+[WhiteElo "2580"]
+[BlackElo "2635"]
+[ECO "D27"]
+
+1.d4 d5 2.c4 dxc4 3.e3 Nf6 4.Bxc4 e6 5.Nf3 c5 6.O-O a6 7.a4 Nc6 8.Qe2 cxd4
+9.Rd1 Be7 10.exd4 O-O 11.Nc3 Nd5 12.h3 Ncb4 13.Ne5 Bd7 14.Bb3 Be8 15.Qf3 Rc8
+16.Bd2 Nxc3 17.bxc3 Nc6 18.Bf4 Bd6 19.Qg3 Qc7 20.Bc2 f6 21.Ng6 Bxf4 22.Nxf4 Nd8
+23.Rac1 Bf7 24.Bb3 Re8 25.Re1 Qd6 26.Re3 Qa3 27.Rb1 b5 28.axb5 axb5 29.Qg4 Rb8
+30.Rg3 Qf8 31.Re1 Rb6 32.h4 Rd6 33.h5 b4 34.Ng6 hxg6 35.hxg6 Bxg6 36.Qxg6 Qf7
+37.Qg4 bxc3 38.Rxc3 Qd7 39.Rh3 Rxd4 40.Qh5 Qf7 41.Qh7+ Kf8 42.Rg3 Qg8 43.Rh3 Kf7
+44.Qh5+  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Vogt, Lothar"]
+[Black "Spasov, Vasil"]
+[Result "0-1"]
+[WhiteElo "2530"]
+[BlackElo "2535"]
+[ECO "B07"]
+
+1.d4 Nf6 2.g3 g6 3.Bg2 Bg7 4.e4 d6 5.Nc3 O-O 6.Nge2 e5 7.dxe5 dxe5 8.Bg5 Qxd1+
+9.Rxd1 Na6 10.O-O c6 11.f3 Re8 12.Nc1 Nd7 13.Rf2 Ndc5 14.Be3 Bf8 15.Bf1 Nc7
+16.Rfd2 a5 17.Nb3 N7e6 18.Nxc5 Nxc5 19.a4 Be6 20.Kf2 Be7 21.b3 Na6 22.Na2 h5
+23.Bb6 Bc5+ 24.Bxc5 Nxc5 25.Nc3 Kf8 26.Nb1 g5 27.Na3 g4 28.Be2 Ke7 29.Ke3 gxf3
+30.Bxf3 Rh8 31.Be2 Rag8 32.Bc4 Rg4 33.Bxe6 Kxe6 34.Nc4 h4 35.Kf3 Rxe4 36.Nxa5 hxg3
+37.hxg3 Rh5 38.Nc4 Rf5+ 39.Kg2 Rg5 40.Rh1 Reg4 41.Rh3 Ne4 42.Rd3 f5 43.Rh6+ Rg6
+44.Rxg6+ Rxg6 45.Re3 Rg7 46.Nb2 Nf6 47.Nd3 Ng4 48.Re2 Rh7 49.Kg1 Kf6 50.a5 e4
+51.Nc5 Ke5 52.Rd2 Rh3 53.Nxb7 Rxg3+ 54.Rg2 Re3 55.Kf1 Rh3 56.Ke2 Ne3 57.Rg8 Rh2+
+58.Ke1 Nxc2+ 59.Kd1 Nb4 60.Nc5 Ra2 61.Na4 e3 62.Re8+ Kf4 63.Nc3 Rd2+ 64.Ke1 Nd3+
+65.Kf1 Rf2+ 66.Kg1  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Portisch, Lajos"]
+[Black "Vaganian, Rafael A"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2615"]
+[ECO "D58"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Nf6 4.Nf3 Be7 5.Bg5 O-O 6.e3 h6 7.Bh4 b6 8.Rc1 Bb7
+9.Be2 dxc4 10.Bxc4 Nbd7 11.O-O a6 12.a4 Ne4 13.Nxe4 Bxe4 14.Bg3 Bd6 15.Bxd6 cxd6
+16.d5 Bxf3 17.Qxf3 e5 18.b4 a5 19.Bb5 axb4 20.Rb1 f5 21.Rxb4 e4 22.Qd1 Nc5
+23.Bc6 Nd3 24.Rb1 Ra7 25.f4 g5 26.Bb5 Nc5 27.Qd4 Qf6 28.Qxf6 Rxf6 29.Rb4 Rf8
+30.h3 Kg7 31.Kh2 gxf4 32.Rxf4 Kf6 33.Rb1 Ke5 34.Bc6 Rg7 35.g3 Nd3 36.Rh4 Kf6
+37.Rf1 Nb4 38.Rhf4 Nc2 39.Rb1 Rfg8 40.Rxb6 Rxg3 41.Rf2 Ne1 42.Rb1 Nf3+  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Piket, Jeroen"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "2245"]
+[BlackElo "2575"]
+[ECO "D55"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 h6 6.Bxf6 Bxf6 7.e3 O-O 8.Qc2 c5
+9.dxc5 Qa5 10.Rc1 Nc6 11.a3 d4 12.exd4 Nxd4 13.Nxd4 Bxd4 14.Be2 Qxc5 15.O-O Bd7
+16.b4 Qc7 17.Qe4 e5 18.Bf3 Bc6 19.Qf5 Rad8 20.Bxc6 Qxc6 21.c5 a5 22.h3 axb4
+23.axb4 g6 24.Qb1 b6 25.cxb6 Qxb6 26.Ne2 Qb5 27.Nxd4 Rxd4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Kurajica, Bojan"]
+[Black "Nijboer, Friso"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2485"]
+[ECO "A41"]
+
+1.d4 g6 2.Nf3 d6 3.b4 Bg7 4.Bb2 c5 5.c3 Nf6 6.e3 O-O 7.Nbd2 Nbd7 8.bxc5 dxc5
+9.Bc4 b6 10.O-O Bb7 11.Qb3 e6 12.a4 Ne8 13.Ba3 Nd6 14.Bd3 Qc7 15.e4 Rfc8
+16.Qd1 e5 17.Rc1 Re8 18.Re1 Bh6 19.Qc2 Re7 20.Bb2 f6 21.dxe5 Nxe5 22.Nxe5 fxe5
+23.Rcd1 Rd8 24.Nc4 Kh8 25.Ne3 Nf7 26.Bc4 Rxd1 27.Qxd1 Bxe3 28.Rxe3 Nd6 29.Bd5 Bxd5
+30.Qxd5 Nf7 31.Rd3 c4 32.Rd1 Kg7 33.h4 Re8 34.Qd7 Qxd7 35.Rxd7 a5 36.Rc7 Rd8
+37.Rxc4 Rd1+ 38.Kh2 Rd2 39.Bc1 Rxf2 40.Be3 Ra2 41.Bxb6 Nd6 42.Rc7+ Kg8 43.c4 Rxa4
+44.c5 Nxe4 45.c6 Rc4 46.Bxa5 Nd6 47.Kg3 Nf5+ 48.Kf2 e4 49.Rc8+ Kf7 50.c7 Ne7
+51.Rd8 h5 52.Ke2 Ke6 53.Kd2 Rc6 54.Rb8 Rc4 55.Rf8 Rc6 56.Ra8 Rc4 57.Bb6 Rc6
+58.Rb8 Rc4 59.Re8 Kf7 60.Rh8 Ke6 61.Ba5 Rc6 62.g3 Rc4 63.Rf8 Rc6 64.Ke3 Rc4
+65.Kf4 Nd5+ 66.Kg5 Nxc7 67.Kxg6 Nd5 68.Kxh5 Rc5 69.Be1 Rc1 70.Bf2 Rf1 71.Bc5 Rxf8
+72.Bxf8 e3 73.Bh6 Kf5 74.g4+ Ke4 75.Bxe3 Nxe3 76.Kg5 Ke5 77.h5 Nxg4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Kamsky, Gata"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[WhiteElo "2655"]
+[BlackElo "2720"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 a6 7.Be3 b5 8.Qd2 Bb7 9.Bd3 b4
+10.Nd1 Nc6 11.O-O cxd4 12.Nxd4 Be7 13.Rf3 O-O 14.Rh3 g6 15.Nf2 Nc5 16.Ng4 Ne4
+17.Bxe4 dxe4 18.Nxc6 Bxc6 19.Bd4 h5 20.Nf6+ Bxf6 21.exf6 Qd5 22.Qe3 Rfd8
+23.c3 bxc3 24.bxc3 Qf5 25.Rg3 Rxd4 26.Qxd4 h4 27.Rg5 Qxf4 28.Rc5 e5 29.Qf2 Bd7
+30.Qxf4 exf4 31.Rf1 f3 32.gxf3 Bh3 33.Rd1 Rb8 34.Rc4 exf3 35.Rxh4 Be6 36.Rd2 g5
+37.Rh5 g4 38.Kf2 Rc8 39.Rh4 Rb8 40.c4 Rc8 41.c5  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Kamsky, Gata"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2685"]
+[ECO "D16"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bg4 6.Ne5 Bh5 7.g3 e6 8.Bg2 Bb4
+9.O-O O-O 10.Nxc4 Nd5 11.Qd3 Be7 12.e4 Nb4 13.Qd2 N8a6 14.b3 Qc7 15.e5 Bg6
+16.Ne4 Bxe4 17.Bxe4 c5 18.Bb2 Rad8 19.Qe3 Nc6 20.dxc5 Nxc5 21.Rad1 Nxe4 22.Qxe4 Rxd1
+23.Rxd1 Rd8 24.Rd3 Rxd3 25.Qxd3 Nb4 26.Qe4 Nd5 27.Bd4 a6 28.Ne3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Jussupow, Artur"]
+[Black "Goldin, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2640"]
+[BlackElo "2575"]
+[ECO "D37"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.cxd5 Nxd5
+9.Nxd5 exd5 10.a3 Nc6 11.Bd3 Bb6 12.O-O Qf6 13.b4 Bf5 14.b5 Nd4 15.Bxf5 Nxf3+
+16.Qxf3 Qxf5 17.Rfd1 Rfd8 18.a4 Rac8 19.h3 h6 20.a5 Bc7 21.Bxc7 Qxf3 22.gxf3 Rxc7
+23.Rac1 Rxc1 24.Rxc1 d4 25.exd4 Rxd4 26.Rc8+ Kh7 27.Rc7 Ra4 28.Rxf7 Rxa5
+29.Rxb7 a6 30.b6 Rb5 31.Kg2 a5 32.f4 a4 33.Kf3 a3 34.Ra7 Rxb6 35.Rxa3 Kg6
+36.Ra5 Kf6 37.Kg4 Rc6 38.Rf5+ Ke6 39.h4 Ra6 40.Rf8 Ke7 41.Rb8 Kf6  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Ivanchuk, Vassily"]
+[Black "Lautier, Joel"]
+[Result "1-0"]
+[WhiteElo "2720"]
+[BlackElo "2580"]
+[ECO "A29"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3 O-O
+9.Be3 f5 10.b4 Bf6 11.Nd2 Nd4 12.a4 a5 13.bxa5 Rxa5 14.Nb3 Ra8 15.a5 Nd7
+16.Nd5 Ne6 17.Qc2 c6 18.Nxf6+ Nxf6 19.Bc1 Nc7 20.Bb2 Re8 21.Nd2 Nb5 22.a6 Rxa6
+23.Rxa6 bxa6 24.Bxc6 Bd7 25.Rc1 Qe7 26.Nf3 e4 27.dxe4 Nxe4 28.Ne5 Bxc6 29.Qxc6 Nec3
+30.Rxc3 Nxc3 31.Qxc3 Qe6 32.h4 h6 33.h5 Qf6 34.Qc4+ Kh7 35.f4 Rb8 36.Bd4 a5
+37.Qd3 Rd8 38.g4 a4 39.e3 Ra8 40.gxf5 a3 41.Ng4 Qa6 42.Qe4 a2 43.f6+ Kg8
+44.Nxh6+ gxh6 45.Qg6+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Hort, Vlastimil"]
+[Result "1/2-1/2"]
+[WhiteElo "2600"]
+[BlackElo "2560"]
+[ECO "D58"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.d4 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 b6 8.Rc1 Bb7
+9.Bxf6 Bxf6 10.cxd5 exd5 11.Bd3 c5 12.O-O cxd4 13.exd4 Nc6 14.Bb1 Re8 15.Qd3 g6
+16.Rfe1 Qd6 17.a3 Kg7 18.Re3 Rxe3 19.Qxe3 Rd8 20.Re1 Qe7 21.Qd3 Qc7 22.Nb5 Qb8
+23.Qe3 Na5 24.Ne5 Nc4 25.Qg3 a6 26.f4 Bxe5 27.dxe5 axb5 28.f5 Nxe5 29.Rxe5 Re8
+30.Rxe8 Qxe8 31.fxg6 fxg6 32.h4 d4 33.Qc7+ Kh8 34.Kh2 Be4 35.Ba2 Bf5 36.Qf4 Qe3
+37.Qd6 Kg7 38.Qc7+ Kh8 39.b4 d3 40.Qd6 Kg7 41.Qc7+ Kf6 42.Qd6+ Kg7 43.Qc7+  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Hort, Vlastimil"]
+[Black "Stohl, Igor"]
+[Result "1/2-1/2"]
+[WhiteElo "2560"]
+[BlackElo "2560"]
+[ECO "E12"]
+
+1.Nf3 Nf6 2.c4 b6 3.d4 e6 4.Bg5 Bb7 5.Nc3 h6 6.Bh4 Be7 7.e3 Ne4 8.Bxe7 Qxe7
+9.Rc1 O-O 10.Nxe4 Bxe4 11.Be2 c5 12.O-O d6 13.Nd2 Bb7 14.Bf3 Rd8 15.Qe2 Nc6  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Hoeksema, Hendrik Pieter"]
+[Black "Beliavsky, Alexander G"]
+[Result "0-1"]
+[WhiteElo "2430"]
+[BlackElo "2595"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bg5 Ne4 3.Bf4 d5 4.f3 Nf6 5.Nc3 c5 6.e4 cxd4 7.Qxd4 Nc6 8.Bb5 Bd7
+9.Bxc6 Bxc6 10.e5 Nd7 11.O-O-O e6 12.Be3 Qc7 13.f4 Bc5 14.Qd2 d4 15.Bxd4 Bxd4
+16.Qxd4 Bxg2 17.Nb5 Qc6 18.Nd6+ Kf8 19.f5 exf5 20.Nxf5 Be4 21.Qb4+ Nc5 22.Rd6 Qc7
+23.Ng3 Bxh1 24.Nxh1 Rc8 25.Nf3 Qxd6  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Hjartarson, Johann"]
+[Black "Petursson, Margeir"]
+[Result "1/2-1/2"]
+[WhiteElo "2595"]
+[BlackElo "2565"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 e6 6.Be2 Be7 7.O-O O-O 8.Ne5 cxd4
+9.cxd4 Nbd7 10.Nc3 Qa5 11.Nc4 Qc7 12.Qb3 b6 13.Bf3 Bb7 14.Nb5 Qb8 15.Bxb7 Qxb7
+16.Bf4 a6 17.Nc3 Rfc8 18.Rfe1 b5 19.Ne3 Nh5 20.Bg3 Nxg3 21.hxg3 Bf8 22.a4 Rab8
+23.axb5 axb5 24.Ra5 Qb6 25.Qa2 b4 26.Ne2 b3 27.Qa4 Qb4 28.Rd1 Rb7 29.Qxb4 Bxb4
+30.Ra4 h6 31.Rd3 Bf8 32.f3 e5 33.Kf1 exd4 34.Raxd4 Nc5 35.Rd1 Ne6 36.Ra4 g6
+37.Nc3 Bg7 38.Ned5 Rd8 39.Rda1 Bxc3 40.Nxc3 Rd2 41.Rb1 Rc2 42.Nd5 Rd2  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Hertneck, Gerald"]
+[Black "Dolmatov, Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2560"]
+[BlackElo "2610"]
+[ECO "E92"]
+
+1.Nf3 Nf6 2.d4 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.dxe5 dxe5 8.Qxd8 Rxd8
+9.Bg5 Rf8 10.Nd5 Nxd5 11.cxd5 c6 12.Bc4 b5 13.Bb3 Bb7 14.Rc1 a5 15.a3 a4
+16.Ba2 Rc8 17.Be3 h6 18.Ke2 Na6 19.dxc6 Bxc6 20.Rhd1 Bxe4 21.Rxc8+ Rxc8 22.Rd7 Rc7
+23.Bxf7+ Kf8 24.Be6 Ke8 25.Rd6 Nc5 26.Bh3 Ke7 27.Rb6 Kf7 28.Ne1 Bd5 29.f3 Bc4+
+30.Kd1 Nb3 31.g3 e4 32.fxe4 Re7 33.Nc2 Rxe4 34.Bg2 Re5 35.Bf3 Rf5 36.Bf4 Rc5
+37.Rb7+ Kg8 38.Be4 Bd5 39.Rb8+ Kf7 40.Bd3 Bxb2 41.Rxb5 Bf3+ 42.Ke1 Rc3 43.Nb4 Bxa3
+44.Rb6 Bxb4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Hansen, Curt"]
+[Black "Smirin, Ilia"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2555"]
+[ECO "A36"]
+
+1.c4 g6 2.Nc3 Bg7 3.g3 c5 4.Bg2 Nc6 5.e3 h5 6.h3 Nh6 7.Nge2 Nf5 8.b3 b6 9.Bb2 Bb7
+10.d3 Qc8 11.Qd2 O-O 12.O-O-O Ne5 13.e4 Nd4 14.Nd5 Nec6 15.g4 e6 16.Ndc3 h4
+17.f4 a6 18.Kb1 b5 19.e5 Nxe2 20.Qxe2 Nd4 21.Bxb7 Qxb7 22.Qe4 Qc7 23.Qe1 f6
+24.exf6 Bxf6 25.Rf1 Bg7 26.Qe4 Kh7 27.Rd2 Rae8 28.Re1  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Grooten, Herman"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo "2405"]
+[BlackElo "2530"]
+[ECO "E14"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 c5 5.e3 b6 6.Bd3 Bb7 7.a3 Bxd2+ 8.Bxd2 d6
+9.dxc5 dxc5 10.Qc2 Nbd7 11.Bc3 Qe7 12.O-O-O O-O-O 13.Rd2 g6 14.Ne5 Rhe8 15.Qa4 Nxe5
+16.Bxe5 a6 17.f3 Nd7 18.Bg3 e5 19.Be4 Bxe4 20.fxe4 Nb8 21.Rd5 Qg5 22.Kd2 h5
+23.Rg1 h4 24.Be1 Qg4 25.Qc2 h3 26.Kc1 f5 27.exf5 gxf5 28.Bc3 Rxd5 29.cxd5 Nd7
+30.Qf2 Rg8 31.g3 Qe4 32.Rf1 Rg5 33.Qf3 Qxf3 34.Rxf3 Kc7 35.e4 fxe4 36.Rf7 Kd6
+37.Kd2 Rg6 38.Ke3 Nf6 39.Rf8 Kxd5 40.Rd8+ Kc4 41.Bxe5 Ng4+ 42.Kxe4 Nxh2 43.Rh8 Ng4
+44.Rxh3 Nxe5 45.Kxe5 Kb3 46.Kf5 Rg8 47.Rh6 b5 48.g4 Kxb2 49.Rxa6 Rb8 50.a4 c4
+51.axb5 c3 52.Rc6 c2 53.g5 c1=Q 54.Rxc1 Kxc1 55.g6 Rxb5+  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Greenfeld, Alon"]
+[Black "Speelman, Jonathan S"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2590"]
+[ECO "D47"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7
+9.e4 b4 10.Na4 c5 11.e5 Nd5 12.O-O cxd4 13.Re1 Be7 14.Nxd4 O-O 15.Qh5 g6
+16.Qh6 Nxe5 17.Rxe5 Nf6 18.Qf4 Bd6 19.Nc5 Bd5 20.Ndb3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Granda Zuniga, Julio E"]
+[Black "Vladimirov, Evgeny"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[BlackElo "2585"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 c5 4.d5 Nf6 5.Nc3 b5 6.e5 b4 7.exf6 bxc3 8.bxc3 Nd7
+9.Qa4 exf6 10.Bf4 Qb6 11.Bxc4 Bd6 12.Ne2 O-O 13.O-O Ne5 14.Bxe5 Bxe5 15.Rab1 Qc7
+16.f4 Bd6 17.Qc6 Rb8 18.Qxc7 Bxc7 19.Rxb8 Bxb8 20.Rb1 Bc7 21.Kf2 Rd8 22.Kf3 f5
+23.Nc1 Bb6 24.a4 Kf8 25.Nb3 a6 26.a5 Bc7 27.Nxc5 Bxa5 28.Rb8 Ke7 29.Nd3 Bd7
+30.Rb7 Bxc3 31.Ne5 Bxe5 32.fxe5 Rc8 33.d6+ Kd8 34.Bd5 Be6 35.Bxe6 fxe6 36.Re7 Rc3+
+37.Kf4 Rc4+ 38.Kf3 Rc3+ 39.Kf2 Rb3 40.h4 a5 41.h5 a4 42.Rxg7 h6 43.Rg6 Rb2+
+44.Kg3 f4+ 45.Kf3 Rb3+ 46.Kxf4 Rb4+ 47.Kg3 a3 48.Rg8+ Kd7 49.Rg7+ Kd8 50.Ra7 Re4
+51.Rxa3 Rxe5 52.Kh4 Rf5 53.g4 Rf1 54.Ra7 e5 55.g5 Rh1+ 56.Kg4 hxg5 57.Rh7 e4
+58.Kf5 e3 59.Ke6 Kc8 60.d7+ Kc7 61.Ke7 Rd1 62.Ke8  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Granda Zuniga, Julio E"]
+[Black "Rohde, Michael A"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2585"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 d5 5.a3 Be7 6.g3 O-O 7.Bg2 b6 8.O-O Bb7
+9.cxd5 exd5 10.b4 c6 11.Nb3 Nbd7 12.Bf4 Nh5 13.Bd2 Bd6 14.Rc1 Re8 15.Ne1 g6
+16.Nd3 Rc8 17.Re1 Ndf6 18.Bg5 Ng7 19.f3 Ne6 20.Be3 a5 21.bxa5 bxa5 22.Qd2 Bxa3
+23.Ra1 Bd6 24.Rxa5 Nd7 25.Rc1 Nb6 26.Nb2 Qe7 27.Ra7 Ra8 28.Rxa8 Rxa8 29.Bf2 Ra2
+30.Rc2 Bb4 31.Qd1 Ra3 32.Rc1 Ra2 33.Nd3 Nc4 34.Rb1 Bd6 35.e4 Ba6 36.exd5 cxd5
+37.f4 Nd2 38.Nxd2 Bxd3 39.Rc1 Nc7 40.Rc3 Be2 41.Qe1 Ra3 42.Rc6 Ra6 43.Rc1 Ra7
+44.Ne4 Ba3 45.Rb1 Bd3 46.Nc5 Qxe1+ 47.Rxe1 Bc4 48.Rb1 Na6 49.Rb6 Nc7 50.h4 Kg7
+51.g4 Bc1 52.f5 gxf5 53.gxf5 Bf4 54.Bh3 Ne8 55.Kg2 Nf6 56.Kf3 Bc7 57.Rb1 Ra3+
+58.Be3 h5 59.Rb7 Ng4 60.Ne6+ Kf6 61.Bxg4 hxg4+ 62.Kg2 Ra2+ 63.Bf2 fxe6 64.Rxc7 exf5
+65.Rc8 Bd3 66.Kg1 Be4 67.Kf1 Ra1+ 68.Ke2 Ra2+ 69.Kf1 Ra1+ 70.Ke2 Ra2+  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Goldin, Alexander"]
+[Black "De Firmian, Nick E"]
+[Result "1/2-1/2"]
+[WhiteElo "2575"]
+[BlackElo "2560"]
+[ECO "A37"]
+
+1.Nf3 c5 2.c4 Nc6 3.Nc3 e5 4.g3 g6 5.Bg2 Bg7 6.O-O d6 7.d3 Nge7 8.Ne1 Be6
+9.Nc2 d5 10.cxd5 Nxd5 11.Ne4 b6 12.Ng5 Bc8 13.Ne3 Nde7 14.a3 a5 15.Ne4 O-O
+16.Nc3 Be6 17.Nc4 Rb8 18.a4 f5 19.Bg5 Qd7 20.Bxe7 Nxe7 21.Qb3 Rfd8 22.Rad1 Qe8
+23.Nb5 Rd7 24.Qc2 Nd5 25.Qc1 Qe7 26.Rfe1 Bf7 27.b3 Qe6 28.e3 Nb4 29.Qb1 Qf6
+30.Rd2 Rbd8 31.Red1 Qe6 32.Bh3 Qf6 33.Bf1 h5 34.Qb2 h4 35.f4 Bxc4 36.dxc4 Qe7
+37.Rxd7 Rxd7 38.Rxd7 Qxd7 39.fxe5 Nc6 40.Qg2 Nxe5 41.Qd5+ Qxd5 42.cxd5 hxg3
+43.hxg3 Bh6 44.Nd6 Bxe3+ 45.Kg2 Bg5 46.Nc4 Nd7 47.g4 Kf7 48.gxf5 gxf5 49.Nd6+ Kf6
+50.Bb5 Ne5 51.Nc4 Nxc4 52.bxc4 Ke5 53.Kf3 Kd4 54.d6  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Georgiev, Kiril"]
+[Black "Popovic, Petar"]
+[Result "1-0"]
+[WhiteElo "2610"]
+[BlackElo "2535"]
+[ECO "D79"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O c6 6.Nc3 d5 7.cxd5 cxd5 8.d4 e6
+9.Ne5 Nfd7 10.f4 Nc6 11.Be3 Nb6 12.Bf2 f5 13.Rc1 Bd7 14.Qd3 Be8 15.Nb1 Nc8
+16.Nd2 Nd6 17.a3 Kh8 18.Qe3 Rg8 19.Rfd1 Qe7 20.Bxd5 exd5 21.Rxc6 Bxe5 22.Qxe5+ Qxe5
+23.dxe5 Bxc6 24.exd6 Rgd8 25.Bd4+ Kg8 26.Be5 Bb5 27.Kf2 Rac8 28.Nf3 Rc2 29.Re1 Bd7
+30.Bf6 Re8 31.Bc3 Rc8 32.Rd1 Kf8 33.Rxd5 R2xc3 34.bxc3 Rxc3 35.Ne5 Ke8 36.Rd3 Rc2
+37.Re3 Kd8 38.Nxd7 Kxd7 39.Re7+ Kxd6 40.Rxb7  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Georgiev, Kiril"]
+[Black "Lobron, Eric"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2625"]
+[ECO "A17"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.a3 Bxc3 6.Qxc3 O-O 7.b4 b6 8.g3 Bb7
+9.Bg2 d6 10.O-O Nbd7 11.Bb2 Rc8 12.d3 Rc7 13.a4 d5 14.cxd5 exd5 15.a5 d4
+16.Qd2 Re8 17.axb6 axb6 18.bxc5 bxc5 19.Rfc1 Ne5 20.Qa5 Bxf3 21.Bxf3 Nxf3+
+22.exf3 Rb7 23.Qxd8 Rxd8 24.Ba3 Nd7 25.Bxc5 Ne5 26.Rd1 g5 27.Kg2 Rd5 28.Ra8+ Kg7
+29.Bf8+ Kg6 30.f4 gxf4 31.gxf4 Nd7 32.Be7 f6 33.Ba3 Rb3 34.Kf3 Kf5 35.Ra6 Nb6
+36.Be7 Rdb5 37.Bd8 Nd5 38.Rd6 Ra3 39.Rd2 h6 40.Rd1 Rc3 41.Kg3 h5 42.Kh4 Rc2
+43.Kg3 h4+ 44.Kf3 Rc3 45.Rd2 Rc1 46.h3 Ra1 47.Rb2 Rxb2 48.Rxd5+ Ke6 49.Rxd4 Rf1
+50.Kg4 Rg1+ 51.Kf3 Rf1 52.Kg4 Rfxf2 53.Re4+ Kf7 54.Re7+ Kg6 55.Re6 Rg2+ 56.Kxh4 Rb4
+57.Rxf6+ Kg7 58.Rf5 Kg6 59.Rg5+ Rxg5 60.Bxg5 Kf5 61.Kg3 Rd4 62.h4 Rxd3+ 63.Kf2 Rh3
+64.Ke2 Rxh4 65.Bxh4 Kxf4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Gelfand, Boris"]
+[Black "Stohl, Igor"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2560"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 O-O
+9.Be2 Nc6 10.d5 Bxc3+ 11.Bd2 Bxd2+ 12.Qxd2 Na5 13.h4 Bg4 14.h5 Bxf3 15.gxf3 e5
+16.hxg6 fxg6 17.d6 b6 18.Qd5+ Kg7 19.Qxe5+ Qf6 20.Qh2 h5 21.Qg3 Nc6 22.Rd1 Kh6
+23.Rd5 Rae8 24.f4 Qa1+ 25.Rd1 Qf6 26.Rd5 Qa1+ 27.Rd1 Qf6 28.f3 Nd4 29.f5 g5
+30.Rxh5+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Gelfand, Boris"]
+[Black "Kortschnoj, Viktor"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2575"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.Qc2 Nbd7 7.cxd5 Nxd5 8.e4 Nxc3
+9.bxc3 c5 10.Bf4 Be7 11.Bd3 Qc8 12.Qa4 O-O 13.O-O Rd8 14.Qb5 Nb8 15.Qb1 Ba6
+16.Rd1 Bxd3 17.Qxd3 Nd7 18.d5 exd5 19.exd5 c4 20.Qe2 Re8 21.Nd4 Bf6 22.Qf3 Bxd4
+23.Rxd4 Qc5 24.h4 Rad8 25.Rad1 Qxa3 26.Rxc4 Qe7 27.Rc7 a5 28.g3 h6 29.Qg4 Qe2
+30.Qxe2 Rxe2 31.Kf1 Rc2 32.Re1 Nf6 33.c4 a4 34.Ree7 a3 35.Rxf7 Nh5 36.Be5 Rxc4
+37.Ra7 Rxd5 38.Bxg7 Ra5 39.Rf8+ Kh7 40.Rh8+ Kg6 41.Rxh6+  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Gelfand, Boris"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2610"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Ba6 5.Qc2 Bb7 6.Nc3 c5 7.e4 cxd4 8.Nxd4 Nc6
+9.Nxc6 Bxc6 10.Bf4 Bc5 11.Be2 O-O 12.Rd1 a5 13.Bg3 Qc8 14.O-O Qb7 15.Bf3 Ne8
+16.Rd3 d6 17.Rb1 a4 18.e5 dxe5 19.Bxe5 f6 20.Bg3 e5 21.Nd5 Nc7 22.b4 axb3
+23.Rdxb3 Nxd5 24.cxd5 Bxd5 25.Qxc5 bxc5 26.Rxb7 Bxb7 27.Bxb7 Rxa3 28.f4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Gavrikov, Viktor"]
+[Black "Chernin, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2555"]
+[BlackElo "2600"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6 6.Qe2 Nd7 7.Bd2 Ngf6 8.Ng3 a6
+9.Ne5 Nxe5 10.dxe5 Nd7 11.O-O-O Qh4 12.f4 O-O-O 13.Ne4 Nxe5 14.Ng5 h6 15.Nxe6 fxe6
+16.Qxe5 Bd6 17.Qxe6+ Kb8 18.Qe3 Rhf8 19.Qg3 Qf6 20.Bc4 Bxf4 21.Bxf4 Qxf4+
+22.Qxf4 Rxd1+ 23.Rxd1 Rxf4 24.Bd5 Bxd5  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Galliamova, Alisa"]
+[Black "Barua, Dibyendu"]
+[Result "0-1"]
+[WhiteElo "2560"]
+[BlackElo "2550"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 Nf6 4.e5 Nd5 5.Bxc4 Nb6 6.Bd3 Nc6 7.Ne2 g6 8.Nbc3 Bg7
+9.a3 O-O 10.Be3 Be6 11.O-O Nd5 12.Nxd5 Bxd5 13.Nf4 e6 14.Rc1 Ne7 15.h4 Rc8
+16.b4 Nf5 17.Bxf5 exf5 18.h5 c6 19.b5 Re8 20.bxc6 Bxc6 21.hxg6 hxg6 22.f3 g5
+23.Nh5 f4 24.Bf2 Bd5 25.Qa4 a6 26.Qb4 Qd7 27.Qa5 Rc6 28.Rxc6 Qxc6 29.Rb1 b5
+30.Be1 Rc8 31.Bb4 Qg6 32.Nxg7 Qxb1+  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Ernst, Thomas"]
+[Black "Popovic, Petar"]
+[Result "0-1"]
+[WhiteElo "2570"]
+[BlackElo "2535"]
+[ECO "B67"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7
+9.f4 b5 10.Bxf6 gxf6 11.Nxc6 Bxc6 12.Qe1 Be7 13.Bd3 Qb6 14.Kb1 h5 15.Rf1 b4
+16.Ne2 d5 17.exd5 Bxd5 18.g3 a5 19.Nc1 Qb7 20.h3 a4 21.g4 hxg4 22.hxg4 b3
+23.Qe2 bxa2+ 24.Nxa2 Rb8 25.c4 Bc6 26.Nc3 Rh3 27.Qc2 a3 28.Nb5 Rd8 29.Nc3 Rhxd3  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Epishin, Vladimir"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[WhiteElo "2630"]
+[BlackElo "2720"]
+[ECO "D36"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Nbd7 5.cxd5 exd5 6.Bf4 c6 7.Qc2 Bb4 8.e3 Nh5
+9.Bg5 Be7 10.Bxe7 Qxe7 11.O-O-O Nb6 12.h3 g6 13.Bd3 Ng7 14.g4 Bd7 15.Kb1 O-O-O
+16.Qb3 Be6 17.Rc1 Kb8 18.Na4 Nxa4 19.Qxa4 Rd6 20.Rc3 Rc8 21.Rhc1 f6 22.Ra3 b6
+23.g5 Rc7 24.gxf6 Qxf6 25.Ne5 Bf5 26.Bxf5 Nxf5 27.f4 Ng3 28.b4 Ne4 29.Ka1 h6
+30.Qc2 g5 31.fxg5 hxg5 32.Rb3 Re6 33.Qh2 Qf2 34.Qxf2 Nxf2 35.Rbc3 Kb7 36.b5 c5
+37.Nc6 Rexc6 38.bxc6+ Rxc6 39.dxc5 Ne4 40.Rd3 Nxc5 41.Rdd1 Re6 42.Rxd5 Rxe3
+43.Rh1 Rg3 44.Rd4 Re3 45.Rg4 Ne4 46.Rc1 Nc5 47.Rh1 Ne4 48.Rh2 Kc6 49.Kb2 a5
+50.Rgg2 Rf3 51.Rc2+ Kb5 52.Rc8 Nd6 53.Rg8 Nc4+ 54.Kc1 Rg3 55.Kd1 Kb4 56.Ke1 b5
+57.Rh8 a4 58.Rh5 Ka3 59.Rc2 Rg1+ 60.Kf2 Rh1 61.Kg3 Nd6 62.Re2 Ra1 63.Rxg5 Rxa2
+64.Re6 Rd2 65.h4 Kb4 66.Rg4+ Kc5 67.Re5+ Rd5 68.Rgg5 Rxe5 69.Rxe5+ Kd4 70.Kf4 a3
+71.Re6 Kd5 72.Re5+ Kd4 73.Re7 b4 74.Ra7 Nb5 75.Ra5 b3  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Dreev, Alexey"]
+[Black "Jussupow, Artur"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2640"]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 cxd5
+9.O-O O-O 10.Bg5 c6 11.Na4 h6 12.Bh4 Rb8 13.c3 Bd6 14.Bc2 c5 15.Qd3 g6 16.b3 Kg7
+17.Rad1 Re8 18.Bxf6+ Qxf6 19.Qxd5 Rd8 20.Qf3 Qxf3 21.gxf3 Bh3 22.Rfe1 Bf8
+23.c4 Rxd1 24.Rxd1 Re8 25.Nc3 Re5 26.f4 Re6 27.Be4 Rd6 28.Bd5 Rf6 29.Rd3 Bc8
+30.Ne2 Bd6 31.Re3 Kf8 32.Bc6 Be6 33.Re4 Kg7 34.f3 Bf5 35.Re3 Bxf4 36.Nxf4 Rxc6
+37.Nd5 Be6 38.Nc3 g5 39.Rd3 Kf6 40.Kf2 Ke5 41.Rd8 f5 42.Ne2 Rd6 43.Ra8 a6
+44.Ra7 Bd7 45.Rc7 Bc6 46.Re7+ Re6 47.Ra7 Be8 48.a4 f4 49.a5 Bg6 50.Nc3 Kd4
+51.Na4 Be8 52.Nb6 Kd3 53.Rxa6 Re2+ 54.Kf1  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Dreev, Alexey"]
+[Black "Akopian, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2600"]
+[ECO "D30"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 e6 5.Bd3 Nbd7 6.O-O Bd6 7.Nbd2 O-O 8.e4 e5
+9.cxd5 cxd5 10.exd5 exd4 11.Nc4 Nb6 12.Nxb6  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Christiansen, Larry Mark"]
+[Black "Damljanovic, Branko"]
+[Result "1/2-1/2"]
+[WhiteElo "2625"]
+[BlackElo "2595"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.Re1 a6 6.Bf1 Ng6 7.c3 Be7 8.d4 cxd4
+9.cxd4 d5 10.e5 O-O 11.Nc3 f6 12.exf6 Bxf6 13.Be3 Bd7 14.Rc1 Rc8 15.Na4 Rc7
+16.Nc5 Bc8 17.Nd3 Rcf7 18.Qd2 h6 19.g3 Qb6 20.Bh3 Be7 21.Nfe5 Ngxe5 22.dxe5 d4
+23.Bxh6 gxh6 24.Qxh6 Rh7 25.Qg6+ Rg7 26.Bxe6+ Kh8 27.Qh5+ Rh7 28.Qg4 Rg7
+29.Qh5+ Rh7 30.Qg4 Bxe6 31.Qxe6 Qb5 32.Qc4 Qxc4 33.Rxc4 Rf3 34.Nf4 Rf7 35.Kg2 R3xf4
+36.gxf4 Rxf4 37.Kg3 Bg5 38.e6 Rf5 39.Rxc6 bxc6 40.e7 Bxe7 41.Rxe7 Rd5 42.Kf3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Chernin, Alexander"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2600"]
+[BlackElo "2715"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb7 6.Bg2 Bb4+ 7.Bd2 a5 8.O-O O-O
+9.Nc3 d5 10.cxd5 Bxc3 11.Bxc3 Bxd5 12.Ne1 Na6 13.f3 c5 14.dxc5 Nxc5 15.Nd3 Bb7
+16.Nxc5 bxc5 17.Qxd8  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Chandler, Murray G"]
+[Black "Geller, Efim P"]
+[Result "1-0"]
+[WhiteElo "2575"]
+[BlackElo "2525"]
+[ECO "C46"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 g6 4.d4 exd4 5.Nxd4 Bg7 6.Be3 Nf6 7.Qd2 O-O 8.O-O-O Re8
+9.f3 d5 10.exd5 Nxd5 11.Nxc6 bxc6 12.Nxd5 cxd5 13.Bd4 Bxd4 14.Qxd4 Be6 15.h4 Qe7
+16.h5 c5 17.Qe5 f6 18.Qe1 Rab8 19.hxg6 hxg6 20.Qh4 Qg7 21.Bd3 Bf7 22.c3 d4
+23.c4 Rb4 24.Rde1 Reb8 25.b3 a5 26.Re7 a4 27.Bxg6 Bxg6 28.Rxg7+ Kxg7 29.Re1 R8b7
+30.Re6 Rf7 31.Kb2 axb3 32.axb3 d3 33.Qf4 Rbb7 34.Kc3 Rbd7 35.Kd2 Rde7 36.Qd6 Rxe6
+37.Qxe6 Ra7 38.Kc3  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Chandler, Murray G"]
+[Black "Andersson, Ulf"]
+[Result "0-1"]
+[WhiteElo "2575"]
+[BlackElo "2605"]
+[ECO "A01"]
+
+1.b3 d5 2.Bb2 Nf6 3.e3 g6 4.c4 Bg7 5.Nf3 O-O 6.cxd5 Qxd5 7.Bc4 Qf5 8.O-O c5
+9.Ne5 Nfd7 10.f4 Nxe5 11.fxe5 Qg5 12.Qf3 Nc6 13.d4 cxd4 14.exd4 Bf5 15.Na3 Rad8
+16.Qf2 a6 17.Rad1 e6 18.Be2 Be4 19.Nc4 b5 20.Nd6 Bd5 21.Bf3 Qe7 22.Bxd5 exd5
+23.Qf3 Rxd6 24.exd6 Qxd6 25.Kh1 Nd8 26.Bc1 Ne6 27.Be3 Qd7 28.Qf2 h5 29.Qd2 Kh7
+30.Rc1 f5 31.Qd3 Rf7 32.g3 Bf6 33.Rc2 Re7 34.Rfc1 Qe8 35.Rc8 Qf7 36.R8c6 Bg7
+37.Rxa6 Qe8 38.Bd2 Nxd4 39.Rd6 Re2 40.Bf4 Qe4+ 41.Qxe4 fxe4 42.Rxd5 Nf3 43.g4 g5
+44.Bb8 hxg4 45.Rd7 e3 46.Re7 Kg6 47.Bg3 Bd4 48.Rec7 Rxa2 49.R7c2 Rxc2 50.Rxc2 Kf5
+51.Kg2 Ke4 52.Ra2 Bc3 53.Ra8 e2 54.Re8+ Kd3  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Bosboom, Manuel"]
+[Black "Akopian, Vladimir"]
+[Result "0-1"]
+[WhiteElo "2445"]
+[BlackElo "2600"]
+[ECO "A20"]
+
+1.c4 e5 2.h4 Nf6 3.e3 Nc6 4.a3 d5 5.cxd5 Nxd5 6.Qc2 Bd6 7.Nf3 Qe7 8.d3 O-O
+9.b4 Bd7 10.Nbd2 b5 11.Ng5 a5 12.bxa5 Rxa5 13.Nb3 Raa8 14.d4 g6 15.Be2 exd4
+16.Bf3 Qe5 17.Kf1 dxe3 18.Bb2 e2+ 19.Bxe2 Qf5 20.Qxf5 Bxf5 21.Bf3 Nce7 22.h5 Ra4
+23.hxg6 Bxg6 24.Re1 Bxa3 25.Ba1 Bb4 26.Rd1 Bc3 27.Bxd5 Nxd5 28.Rxd5 Bxa1
+29.Ke2 Re8+ 30.Kf3 Bf6 31.Rxb5 c6 32.Rb7 Bxg5  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Bologan, Viktor"]
+[Black "Van der Wiel, John TH"]
+[Result "0-1"]
+[WhiteElo "2555"]
+[BlackElo "2545"]
+[ECO "B67"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7
+9.f4 h6 10.Bh4 g5 11.fxg5 Ng4 12.Kb1 Nge5 13.Be2 Be7 14.Rhf1 hxg5 15.Bg3 b5
+16.Nxc6 Bxc6 17.Qe3 Qc7 18.Bd3 Qa7 19.Qd2 Qb7 20.Ne2 Rd8 21.Qe3 Ng4 22.Qf3 Nf6
+23.Nd4 Bxe4 24.Bxe4 Qxe4 25.Qc3 Rh6 26.Qc7 Qa8 27.Qa5 Qb7 28.a4 bxa4 29.Qxa4+ Rd7
+30.Rf3 Ne4 31.Rb3 Qc7 32.Nb5 axb5 33.Qxe4 f5 34.Qd4 f4 35.Be1 Kf7 36.Rxb5 Qc6
+37.Rb8 Bf6 38.Qd3 Rxh2 39.g3 Rb7 40.Rxb7+ Qxb7 41.Bc3 Bxc3 42.Qxc3 Rh1 43.Rxh1 Qxh1+
+44.Ka2 Qd5+ 45.b3 f3  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Andersson, Ulf"]
+[Black "Seirawan, Yasser"]
+[Result "1/2-1/2"]
+[WhiteElo "2605"]
+[BlackElo "2605"]
+[ECO "E11"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.g3 Bb4+ 5.Bd2 Be7 6.Bg2 c6 7.Qb3 Nbd7 8.O-O b6
+9.cxd5 cxd5 10.Rc1 Bb7 11.Bb4 Bxb4 12.Qxb4 Qe7 13.Qa4 Qd6 14.Na3 a6 15.Nc2 O-O
+16.Nb4 Rfc8 17.Nd3 a5 18.Nfe5 Rxc1+ 19.Rxc1 Rc8 20.Rxc8+ Bxc8 21.Qc2 Ba6
+22.Bf1 Bxd3 23.Nxd3 Ne8 24.e3 Qc7 25.Qxc7  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Anand, Viswanathan"]
+[Black "Van Wely, Loek"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2525"]
+[ECO "B50"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Bd3 Bg4 5.h3 Bxf3 6.Qxf3 Nc6 7.O-O g6 8.Re1 Bg7
+9.Bf1 O-O 10.a4 a6 11.Na3 Rb8 12.Qd1 Nd7 13.Nc2 Na5 14.b4 Nb3 15.Rb1 Nxc1
+16.Qxc1 Qc7 17.Ne3 e6 18.Qc2 Kh8 19.b5 a5 20.Nc4 b6 21.Qd3 Rbd8 22.Rbd1 Ne5
+23.Nxe5 dxe5 24.Qc4 Qe7 25.Qa2 h5 26.Bc4 Bh6 27.d3 h4 28.Qe2 Kg7 29.Qf3 Rh8
+30.Kf1 Bf4 31.Ke2 Qg5 32.Rh1 Rh5 33.Ra1 Rdh8 34.Kd1 Qh6 35.Kc2 Rg5 36.Rag1 Qh5
+37.Qd1 Qxd1+ 38.Kxd1 Kf6 39.Ke2 Ke7 40.Bb3 f5 41.Rd1 Rxg2 42.exf5 exf5 43.Bd5 Rh2
+44.Rxh2 Bxh2 45.c4 Kf6 46.Rh1 Bf4 47.Bc6 Rd8 48.f3 Rd4 49.Ba8 Bg3 50.Bc6 g5
+51.Rf1 Kg7 52.Rd1 g4 53.hxg4 h3 54.gxf5 Kf6 55.Be4 Rd7 56.f4 exf4 57.Kf3 Ke5
+58.Rh1 h2 59.Kg2 Rf7 60.Rc1 Kd4 61.Kf3 Rf8 62.Rh1 Kc3 63.Rb1 Rh8 64.Kg4 Kd4
+65.Bd5 Ke5 66.Rh1 Bf2 67.Rf1 Bg1 68.f6 Rg8+ 69.Kh3 Rf8 70.Re1+ Kf5 71.Kg2 Rxf6
+72.Re8 Rh6 73.Kh1 Kg5 74.Rb8 Bf2 75.Rg8+ Kf6 76.Rc8 Bg3 77.Rc6+ Kg5 78.Bf3 Rf6
+79.Rxf6 Kxf6 80.d4 cxd4 81.c5 Ke7 82.cxb6 Kd6 83.b7 Kc7 84.Kg2 d3 85.Kh1 Bf2
+86.Kxh2 Ba7 87.Kg2 Kd6 88.Kf1 Kc5 89.Ke1 Kb4 90.b6 Bb8 91.Bc6 Kc3 92.Kd1 Be5  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Adams, Michael"]
+[Black "Smirin, Ilia"]
+[Result "1-0"]
+[WhiteElo "2610"]
+[BlackElo "2555"]
+[ECO "B82"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e6 7.Qf3 Qb6 8.a3 Nbd7
+9.Nb3 Qc7 10.g4 h6 11.h4 h5 12.g5 Ng4 13.Bd2 b5 14.O-O-O Bb7 15.Kb1 Rc8 16.Be2 g6
+17.Rhe1 Bg7 18.Qg3 Nb6 19.Bxg4 hxg4 20.f5 Be5 21.Qxg4 Qe7 22.Na5 Ba8 23.fxg6 fxg6
+24.Bf4 Rxc3 25.bxc3 Na4 26.Bxe5 dxe5 27.Rd3 O-O 28.Red1 Nc5 29.Rd6 Bxe4 30.Nc6 Qg7
+31.Qg1 Na4 32.Rd7 Nxc3+ 33.Ka1 Rf7 34.Rxf7 Qxf7 35.Rd8+ Kg7 36.Nxe5 Ne2 37.Qe3 Qf1+
+38.Kb2  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Adams, Michael"]
+[Black "Kovalev, Andrei"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2580"]
+[ECO "B54"]
+
+1.e4 c5 2.Nc3 a6 3.Nf3 d6 4.d4 cxd4 5.Nxd4 Nc6 6.g3 g6 7.Bg2 Bg7 8.Be3 Ne5
+9.O-O Nc4 10.Bc1 Qb6 11.Nd5 Qxd4 12.Nc7+ Kd8 13.Qxd4 Bxd4 14.Nxa8 Nf6 15.c3 Ba7
+16.a4  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Adams, Michael"]
+[Black "Georgiev, Kiril"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2610"]
+[ECO "B93"]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nf6 4.Nc3 cxd4 5.Nxd4 a6 6.f4 g6 7.Nf3 Bg7 8.Bd3 O-O
+9.O-O b5 10.a3 Bb7 11.Qe1 Nbd7 12.Qh4 a5 13.f5 b4 14.Ne2 b3 15.Nc3 Ba6 16.Bxa6 Rxa6
+17.cxb3 Qb6+ 18.Kh1 Qxb3 19.Rb1 Rc8 20.Bh6 Bh8 21.h3 Qb7 22.Be3 Rc4 23.Nd2 Rc8
+24.Nf3 Bg7 25.Bd4 Raa8 26.e5 dxe5 27.Nxe5 Nxe5 28.Bxe5 Rd8 29.Rbe1 Rd2 30.Ne4 Nxe4
+31.Qxe4 Qxe4 32.Rxe4 Bxe5 33.Rxe5 Ra7 34.Rfe1 Kf8 35.b3 Rf2 36.fxg6 hxg6
+37.R5e2 Rf6 38.Rb2 Rb6 39.Kg1 f6 40.Kf2 Kf7 41.b4 axb4 42.axb4 Rd7 43.Reb1 Rb5
+44.Ke3 e5 45.h4 f5 46.g3 Kg7 47.Rb3 Kh6 48.Kf3 Kh5 49.R1b2 Rc7 50.Ra2 Rc4
+51.Ra7 Kh6 52.Ra4 Rd4 53.Kg2 e4 54.Ra5 Rbxb4 55.Rxb4 Rxb4 56.Re5 Rb2+ 57.Kh3 Rb3
+58.Re7 Rc3 59.Kg2 Kh5 60.Rg7 Rf3 61.Kh3 Kh6 62.Rf7 Rf2 63.Re7 Re2 64.Rf7 Re1
+65.Kg2 Ra1 66.Re7 Ra3 67.Rf7 Rd3 68.Re7 Rd8 69.Kh3 Rd6 70.Kg2 Rd2+ 71.Kh3 g5
+72.g4 Rd3+ 73.Kg2 Rd2+ 74.Kh3 fxg4+ 75.Kxg4 Rg2+ 76.Kh3 Re2 77.Re5 gxh4 78.Kxh4 Kg6
+79.Kg3 Kf6 80.Ra5 e3 81.Kf3  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Adams, Michael"]
+[Black "Beliavsky, Alexander G"]
+[Result "1-0"]
+[WhiteElo "2610"]
+[BlackElo "2595"]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 cxd4 13.cxd4 Nc6 14.Nb3 a5 15.Be3 a4
+16.Nbd2 Nb4 17.Bb1 Bd7 18.a3 Nc6 19.Bd3 Na5 20.Rc1 Qb8 21.Qe2 Re8 22.Rc2 Bd8
+23.Rec1 b4 24.dxe5 dxe5 25.axb4 Qxb4 26.Bc5 Qb8 27.Qe3 h6 28.Nh4 Nh5 29.Nhf3 Nf4
+30.Bf1 Bb5 31.Bd6 Qxd6 32.Bxb5 Bb6 33.Qa3 Qxa3 34.bxa3 Nb3 35.Bxe8 Nxc1 36.Bc6 Rd8
+37.Bxa4 Nce2+ 38.Kf1 Nd4 39.Ra2 Rc8 40.Ra1 Nd3 41.Rb1 Rc3 42.Bd1 Nxf3 43.Nxf3 Bxf2
+44.Rb8+ Kh7 45.Rb3 Rxb3 46.Bxb3 Bc5 47.a4 f6 48.Bc4 Nb4 49.Ke2 Nc6 50.Kd3 Na5
+51.Bd5 g6 52.g4 Kg7 53.Nd2 Kf8 54.Kc3 Ke7 55.Nf3 Kf8 56.h4 Ke7 57.Ne1 Kd6
+58.Nd3 Be3 59.Kb4 Bd2+ 60.Kb5 f5 61.h5 gxh5 62.gxf5 h4 63.f6 Bc3 64.f7 Ke7
+65.Nc5 Nb7 66.Nxb7 h3 67.Nc5  1-0
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1992.??.??"]
+[Round "2"]
+[White "Romanishin, Oleg M"]
+[Black "Kengis, Edvins"]
+[Result "1/2-1/2"]
+[WhiteElo "2555"]
+[BlackElo "2590"]
+[ECO "E63"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.c4 d6 6.O-O Nc6 7.Nc3 a6 8.b3 Bd7
+9.Bb2 Rb8 10.Rc1 b5 11.Nd5 Nxd5 12.cxd5 Nb4 13.Ne1 Nxa2 14.Ra1 Nb4 15.Qd2 c5
+16.dxc6 Nxc6 17.Rxa6 Rb6 18.Ra2 b4 19.Nc2 e6 20.d5 Bxb2 21.Rxb2 exd5 22.Bxd5 Qf6
+23.Ne3 Nd4 24.Ra2 Bh3 25.Rd1 Nf5 26.Nc4 Rb5 27.Rc2 Ne7 28.Bf3 d5 29.Ne3 Be6
+30.Rc7 Ra8 31.h4 h5 32.Nc2 Nf5 33.Qd3 Raa5 34.Ra7 Qc3 35.Rxa5 Rxa5 36.e4 dxe4
+37.Bxe4 Rc5 38.Qd8+ Kg7 39.Nd4 Nxd4 40.Qxd4+ Qxd4 41.Rxd4 Bxb3 42.Rxb4  1/2-1/2

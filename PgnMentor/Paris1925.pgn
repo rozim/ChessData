@@ -1,0 +1,365 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "1"]
+[White "Colle, Edgar"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D50"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 c6 5.e3 Qa5 6.Bxf6 gxf6 7.cxd5 Bb4 8.Qb3 cxd5
+9.Rc1 Nc6 10.a3 Bxc3+ 11.Qxc3 Bd7 12.Nf3 Qb6 13.Bd3 Rc8 14.O-O Ne5 15.Qxc8+ Bxc8
+16.Rxc8+ Ke7 17.Rxh8 Nxd3 18.Rxh7 Qxb2 19.Rh8 e5 20.dxe5 fxe5 21.h4 Qxa3
+22.h5 Qd6 23.h6 Qf6 24.Rb8 Qxh6 25.Rxb7+ Kf8 26.Rxa7 Qf6 27.Ra5 Qc6 28.Rfa1 Kg7
+29.Ra6 Qc8 30.R6a5 Qc6 31.Ra7 Qf6 32.R1a2 Qh6 33.R2a5 e4 34.Nd4 Qh5 35.R5a6 Qd1+
+36.Kh2 Qg4 37.Kg1 Ne1 38.Ne6+ Kg8 39.Nf4 d4 40.Ra1 Nc2 41.Rc1 dxe3 42.Ra8+ Kg7
+43.Rxc2 Qd1+ 44.Kh2 Qxc2 45.fxe3 Qc5 46.g4 Qxe3 47.Nh5+ Kh6 48.Ng3 Qf2+ 49.Kh3 e3
+50.Re8 Kg6 51.Re5 f6 52.Re7 Qf3 53.Ra7 e2 54.Re7 Kg5 55.Rxe2 Qxg4+ 56.Kh2 f5
+57.Rf2 f4 58.Nf1 Qd1 59.Nd2 Kf5 60.Kg2 Qg4+ 61.Kf1 Qd1+ 62.Kg2 Kg4 63.Nf3 Qd5
+64.Rf1 Qc6 65.Rf2 Qb7 66.Rf1 Kf5 67.Rf2 Qg7+ 68.Kf1 Ke4 69.Ke2 Qg4 70.Rf1 Qh5
+71.Rf2 Qb5+ 72.Ke1 Qb1+  0-1
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "1"]
+[White "Znosko Borovsky, Eugene "]
+[Black "Tartakower, Saviely"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Qc2 g6
+9.Ne2 Qc7 10.h4 Re8 11.h5 Bg4 12.hxg6 fxg6 13.f3 Be6 14.Bxg6 Re7 15.Bxh7+ Kf8
+16.Qg6 Rf7 17.Qg8+ Ke7 18.Bg6 Bg3+ 19.Kd1 Bh2 20.Bxf7 Bxf7 21.Qh8 Bd6 22.Rh6  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "2"]
+[White "Alekhine, Alexander"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D27"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 dxc4 6.Bxc4 e6 7.Nf3 a6 8.a4 Nc6
+9.O-O Be7 10.Be3 O-O 11.Rc1 Nb4 12.Ne5 Nfd5 13.Qf3 f6 14.Nd3 Nxd3 15.Bxd3 Nxe3
+16.Qxe3 Kh8 17.Ne2 f5 18.Nf4 Bg5 19.Rc4 Bd7 20.Nxe6 Bxe3 21.Nxd8 Bxd4 22.Rxd4 Raxd8
+23.Rd1 Be6 24.Be2 Rc8 25.Rb4 Rc7 26.Bf3 Bc8 27.h4 g6 28.Kh2 Kg7 29.Kg3 Rf6
+30.Kf4 a5 31.Rbd4 Rc2 32.R1d2 Rc7 33.Rd6 Rxd6 34.Rxd6 Rc4+ 35.Ke5 Rxa4 36.Bd5 Ra1
+37.Rb6 Kh6 38.Rb5 Re1+ 39.Kd6 f4 40.Rxa5 Re2 41.b4 Rxf2 42.b5 Kh5 43.b6 Kxh4
+44.Rc5 Bg4 45.Rc7 h5 46.Rxb7 f3 47.gxf3 Bxf3 48.Rf7 Rb2 49.Rxf3 Rxb6+ 50.Ke5 g5
+51.Rf1 g4 52.Be4 Kg3 53.Rg1+ Kf2 54.Rg2+ Ke3 55.Rg3+ Kf2 56.Rg2+ Ke3  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "2"]
+[White "Opocensky, Karel"]
+[Black "Colle, Edgar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D52"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 c6 5.e3 Nbd7 6.Nf3 Qa5 7.cxd5 exd5 8.Nd2 Bb4
+9.Qc2 O-O 10.Nb3 Qb6 11.Bd3 Re8 12.Bf4 c5 13.dxc5 Nxc5 14.Nxc5 Qxc5 15.O-O Bxc3
+16.Rac1 d4 17.bxc3 dxc3 18.e4 h6 19.Be3 Qc6 20.f3 Be6 21.Qxc3 Qxc3 22.Rxc3 Red8
+23.Rb1 b6 24.a3 Rac8 25.Rbc1 Rxc3 26.Rxc3 Rc8 27.Rxc8+ Bxc8 28.Bd4 Kf8 29.Kf2 Ke7
+30.Ke3 Ne8 31.f4 f6 32.Bc3 Nc7 33.Bb4+ Kd7 34.f5 Bb7 35.Bf8 Ne8 36.Bc4 a6
+37.g4 b5 38.Bf7 Nd6 39.Be6+ Kc7 40.Bxg7 Nxe4 41.Bxh6 a5 42.Bf8 Ng5 43.Bg8 Nf3
+44.h3 Ne5 45.Bc5 Kd7 46.Be6+ Kd8 47.Bb6+ Ke7 48.Bxa5 Bg2 49.Bb4+ Ke8 50.Bc3 Bxh3
+51.Bxe5 fxe5 52.g5  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "3"]
+[White "Tartakower, Saviely"]
+[Black "Opocensky, Karel"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C20"]
+
+1.e4 e5 2.g3 Bc5 3.Bg2 Nc6 4.Ne2 Nge7 5.Nbc3 d6 6.Na4 Be6 7.d3 Qd7 8.h3 Bb6
+9.Nxb6 axb6 10.d4 exd4 11.Nxd4 Nxd4 12.Qxd4 O-O 13.b3 Nc6 14.Qd2 f5 15.Bb2 fxe4
+16.Bxe4 Bf5 17.Bd5+ Kh8 18.g4 Rae8+ 19.Kf1 Be4 20.Bxe4 Rxe4 21.Re1 Ref4 22.Rh2 Qf7
+23.Rg2 Rf3 24.Re3 Rxe3 25.Qxe3 Re8 26.Qg5 Nb4 27.Rg3 Kg8 28.Rf3 Qd7 29.Qf4 Nc6
+30.h4 Ne5 31.Bxe5 dxe5 32.Qc4+ Re6 33.Rd3 Qe7 34.Rd8+ Qxd8 35.Qxe6+ Kf8 36.Qf5+ Kg8
+37.Qxe5 h6 38.g5 hxg5 39.hxg5 Qd1+ 40.Kg2 Qxc2 41.Qd5+ Kh7 42.Qxb7 Kg6 43.Qd5 Qxa2
+44.Kg3 Qb1 45.f4 Qg1+ 46.Kh4 Qf2+ 47.Kg4 Qg1+  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "3"]
+[White "Znosko Borovsky, Eugene "]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B03"]
+
+1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.d4 d6 5.f4 dxe5 6.fxe5 Nc6 7.Be3 Bf5 8.Nf3 e6
+9.Nc3 Nb4 10.Rc1 c5 11.a3 cxd4 12.Bg5 dxc3 13.Bxd8 Rxd8 14.Qb3 cxb2 15.Qxb2 Na4
+16.Qa1 Nc2+ 17.Rxc2 Bxc2 18.Nd4 Bg6 19.c5 Nxc5 20.Bb5+ Nd7 21.Qc3 a6 22.Bxd7+ Rxd7
+23.Qc8+ Rd8 24.Qxb7 Rxd4 25.Qc6+ Rd7 26.O-O Bd3 27.Rxf7 Bc5+ 28.Kh1 Bb5 29.Qxe6+ Re7
+30.Rxe7+ Bxe7 31.Qc8+ Bd8 32.Qe6+ Be7 33.Qc8+ Bd8 34.Qe6+  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "4"]
+[White "Opocensky, Karel"]
+[Black "Znosko Borovsky, Eugene "]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D30"]
+
+1.Nf3 d5 2.d4 e6 3.c4 a6 4.cxd5 exd5 5.Nc3 Be7 6.Qb3 c6 7.e4 Nf6 8.exd5 cxd5
+9.Bd3 O-O 10.O-O Nc6 11.h3 b5 12.Bf4 Bb7 13.Rae1 Na5 14.Qd1 Bb4 15.Ne5 Nc4
+16.Nxc4 dxc4 17.Bb1 Bxc3 18.bxc3 Qd5 19.f3 Qh5 20.Re5 Qh4 21.Bg5 Qg3 22.Qc2 Ne4
+23.fxe4 f6 24.Bf4 Qg6 25.Re7 Ra7 26.Bd6 f5 27.Bc5  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "4"]
+[White "Tartakower, Saviely"]
+[Black "Colle, Edgar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B22"]
+
+1.e4 c5 2.Nf3 Nc6 3.c3 e6 4.d4 d5 5.exd5 exd5 6.Be3 Nf6 7.dxc5 Be7 8.Nbd2 O-O
+9.Be2 Re8 10.O-O Bg4 11.h3 Bh5 12.Re1 Qc7 13.b4 Rad8 14.Nd4 Bg6 15.Nxc6 Qxc6
+16.Bd4 Ne4 17.Nxe4 dxe4 18.Qb3 Bg5 19.Bc4 Re7 20.Rad1 Red7 21.b5 Qc8 22.c6 bxc6
+23.bxc6 Rd6 24.Bb5 Bh5 25.Rb1 Rg6 26.Bc4 Rxc6 27.Bd5 Rc7 28.Bb7 Qd7 29.Be5 Rc5
+30.Rxe4 Bg6 31.Rd4 Qe8 32.Rxd8 Bxd8 33.Bd4 Bxb1 34.Bxc5 Qe1+ 35.Kh2 Qe5+
+36.Kg1 Qe1+  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "5"]
+[White "Alekhine, Alexander"]
+[Black "Opocensky, Karel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D10"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 Bf5 5.cxd5 Nxd5 6.Bc4 e6 7.Nge2 Nd7 8.e4 Nxc3
+9.Nxc3 Bg6 10.O-O Qh4 11.d5 exd5 12.g3 Qf6 13.exd5 Bc5 14.Re1+ Kf8 15.Bf4 Nb6
+16.Bb3 h5 17.h4 Kg8 18.Rc1 Bd4 19.dxc6 bxc6 20.Ne4 Bxe4 21.Rxe4 c5 22.Qe2 g6
+23.Bg5 Qd6 24.Qf3 Qf8 25.Rxd4 cxd4 26.Rc6 Kh7 27.Bxf7 Rc8 28.Rxg6  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "5"]
+[White "Colle, Edgar"]
+[Black "Znosko Borovsky, Eugene "]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A13"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.b3 c5 5.cxd5 exd5 6.Bg2 Nc6 7.O-O Bg4 8.Bb2 Be7
+9.d3 Qd7 10.Re1 h5 11.h4 d4 12.Nbd2 Rd8 13.Nc4 Qc8 14.Rc1 b5 15.Ncd2 Qd7
+16.Ng5 Nb4 17.Nde4 Nxe4 18.Nxe4 Rc8 19.a3 Nd5 20.Qd2 O-O 21.Rc2 f5 22.Ng5 f4
+23.Bxd5+ Qxd5 24.gxf4 Bxg5 25.hxg5 Qxb3 26.Rec1 Qd5 27.e4 Qd6 28.f5 g6 29.f6 Bf3
+30.Re1 Rfe8 31.Bc1 c4 32.Qf4 Qxf4 33.Bxf4 c3 34.e5 Kf7 35.Rb1 a6 36.Rb4 Red8
+37.Rc1 Ke6 38.a4 Kf5 39.axb5 Kxf4 40.e6 Kxg5 41.e7 Re8 42.Rxd4 Kxf6 43.Rf4+ Kxe7
+44.Rxf3 axb5 45.Rf4 Kd6 46.Rb4 Kc5  0-1
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "6"]
+[White "Alekhine, Alexander"]
+[Black "Colle, Edgar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D07"]
+
+1.d4 d5 2.c4 Nc6 3.Nf3 Bg4 4.Qa4 Bxf3 5.exf3 e6 6.Nc3 Bb4 7.a3 Bxc3+ 8.bxc3 Ne7
+9.Rb1 Rb8 10.cxd5 Qxd5 11.Bd3 O-O 12.O-O Qd6 13.Qc2 Ng6 14.f4 Nce7 15.g3 Rfd8
+16.Rd1 b6 17.a4 Nd5 18.Bd2 c5 19.f5 exf5 20.Bxf5 cxd4 21.cxd4 Nde7 22.Bb4 Qf6
+23.Bxe7 Qxe7 24.Rbc1 Rd5 25.Be4 Rd7 26.d5 Qf6 27.Re1 Rbd8 28.Qc6 Qg5 29.Bxg6 hxg6
+30.Qxd7 Rxd7 31.Re8+ Kh7 32.Rcc8 Rd8 33.Rexd8  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "6"]
+[White "Tartakower, Saviely"]
+[Black "Znosko Borovsky, Eugene "]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D66"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4
+9.Bxc4 h6 10.Bh4 Nd5 11.Bg3 Nxc3 12.bxc3 Qa5 13.O-O Nb6 14.Bb3 Ba3 15.Rc2 c5
+16.Ne5 cxd4 17.cxd4 Be7 18.Qf3 Nd5 19.Rfc1 Qd8 20.h3 Ba3 21.Rb1 b6 22.e4 Nb4
+23.Rd2 Qf6 24.Qxf6 gxf6 25.Nc4  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "7"]
+[White "Colle, Edgar"]
+[Black "Opocensky, Karel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D12"]
+
+1.d4 d5 2.Nf3 c6 3.e3 Bf5 4.c4 e6 5.Nc3 Nf6 6.Bd3 Bg6 7.O-O Nbd7 8.b3 Bd6
+9.Bb2 Qe7 10.a3 Ne4 11.Qc2 f5 12.Ne2 Qf6 13.Nd2 O-O 14.f3 Qh4 15.f4 Ndf6
+16.Nf3 Qh6 17.h3 Bh5 18.Ne5 g5 19.Bxe4 Nxe4 20.fxg5 Qxg5 21.Nf4 Rae8 22.Nxh5 Qxh5
+23.Rf3 Re7 24.Kh2 Rg7 25.Rg1 Kh8 26.g4 fxg4 27.Rxf8+ Bxf8 28.Rxg4 Rxg4 29.Nxg4 Bd6+
+30.Kg2 Ng5 31.Nf2 Qf3+ 32.Kf1 Ne4 33.cxd5 exd5 34.Bc3 Bg3 35.Be1 Qxe3 36.Qe2 Bxf2
+37.Bxf2 Qxe2+ 38.Kxe2 Kg7 39.Be1 Kf6 40.Kf3 Kf5 41.h4 b6 42.Ke3 Kg4 43.a4 Nd6
+44.Kd3 Nf5 45.Kc3 Nxh4  0-1
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "7"]
+[White "Tartakower, Saviely"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Nd2 Bc5 7.Be2 d6 8.O-O O-O
+9.Bf3 Re8 10.Nb3 Bb6 11.Re1 Nd7 12.a4 a5 13.Be3 Bxe3 14.Rxe3 Qf6 15.Nd4 Ne5
+16.Be2 Rb8 17.Nb3 Ra8 18.Qd2 Ng6 19.Nxa5 Qxb2 20.Nb3 Ba6 21.Bxa6 Rxa6 22.a5 c5
+23.c4 Qf6 24.Qd5 Rb8 25.Rf1 Qb2 26.Nd2 Rxa5 27.Nf3 Ra1 28.g3 Rxf1+ 29.Kxf1 h6
+30.e5 Ne7 31.Qd3 Qb1+ 32.Qxb1 Rxb1+ 33.Ke2 Rb2+ 34.Nd2 Nc6 35.exd6 cxd6 36.Re8+ Kh7
+37.f4 f5 38.Ke3 Nd4 39.Rd8 Rb6 40.Kd3 Kg6 41.Rd7 Kf6 42.Nf1 Nc6 43.Ne3 Nb4+
+44.Kc3 g5 45.Rd8 gxf4 46.gxf4 Ra6 47.Kb3 Kg6 48.Rg8+ Kf7 49.Rh8 Kg6  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "8"]
+[White "Opocensky, Karel"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D27"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 dxc4 5.e3 c5 6.Bxc4 a6 7.a4 Nc6 8.O-O Be7
+9.dxc5 Qc7 10.Qe2 Bxc5 11.Bd2 O-O 12.Rfd1 b6 13.Be1 Bb7 14.Rd2 Ne5 15.Nxe5 Qxe5
+16.Qd1 Qg5 17.Bf1 Ng4 18.Qe2 f5 19.Rad1 Ne5 20.Kh1 f4 21.exf4 Rxf4 22.Rd7 Bc6
+23.Rc7 Qf5 24.f3 Rxf3 25.gxf3 Bxf3+ 26.Qxf3 Nxf3 27.Bg3 Rf8 28.Bg2 Ne5 29.Ne4 Qh5
+30.Re1 Nd3 31.Rb1 Qe2 32.Nxc5 bxc5 33.h3 g5 34.Rc6 g4 35.hxg4 Qxg4 36.Bd6 Rf5
+37.Rc8+ Kg7 38.Bh2 Rg5  0-1
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "8"]
+[White "Alekhine, Alexander"]
+[Black "Znosko Borovsky, Eugene "]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E62"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 g6 4.g3 Bg7 5.Bg2 O-O 6.O-O Nc6 7.d5 Nb8 8.Nc3 e5
+9.dxe6 fxe6 10.Bg5 h6 11.Bd2 Nc6 12.Nh4 Ne5 13.Qc2 g5 14.Ng6 Nxg6 15.Qxg6 Bd7
+16.f4 Be8 17.Qd3 Nd7 18.Qe3 gxf4 19.Qxe6+ Bf7 20.Qh3 fxg3 21.Qxg3 Kh8 22.Qh3 Bd4+
+23.Kh1 h5 24.Nd5 Ne5  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "9"]
+[White "Colle, Edgar"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D27"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 dxc4 5.e3 c5 6.Bxc4 a6 7.O-O b5 8.Be2 Bb7
+9.dxc5 Nc6 10.a3 Bxc5 11.b4 Bd6 12.Bb2 O-O 13.Rc1 Rc8 14.Qb3 Qc7 15.h3 Qe7
+16.Nd2 Bb8 17.Bf3 Qc7 18.Rfd1 Qh2+ 19.Kf1 Rfd8 20.Ne2 Nd5 21.Ne4 Ne5 22.Bxe5 Rxc1
+23.Rxc1 Qxe5 24.Nc5 Bc8 25.Nd4 Qh2 26.Rd1 Bc7 27.Ke2 Qd6 28.Kf1 Qb6 29.Nd3 Ne7
+30.Rc1 Bb7 31.Bxb7 Qxb7 32.Nc5 Qb6 33.Ndxe6 Rc8 34.Nxc7 Qxc7 35.Rd1 Qh2 36.Qd3 g6
+37.Qd7 Qe5 38.Qd6 Qxd6 39.Rxd6 a5 40.Rd7 axb4 41.axb4 Nc6 42.Nd3 Rd8 43.Rxd8+ Nxd8
+44.e4 Nc6 45.Ke2 f6 46.Ke3 Kf7 47.f4 Ke6 48.g4 g5 49.h4 gxh4 50.Kf3 Kf7 51.Kg2 Kg6
+52.Kh3 h5 53.Kxh4 hxg4 54.Kxg4 f5+ 55.Kf3 Kf6 56.Ke3 Ke6 57.Nc5+ Ke7 58.Na6 Kf6
+59.e5+ Ke7 60.Kd3 Kd8 61.Kc3 Ne7 62.Kd4 Ng6 63.Ke3 Ne7 64.Kd4 Ng6 65.Ke3 Ne7
+66.Kd4 Ng6 67.Kc5 Nxf4 68.Kxb5 Nd3 69.e6 f4 70.Kc4 Nb2+ 71.Kd4 f3 72.Ke3 f2
+73.Kxf2 Nd3+ 74.Kf3 Nxb4 75.Nc5 Ke7 76.Ke4 Na6  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "9"]
+[White "Znosko Borovsky, Eugene "]
+[Black "Opocensky, Karel"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B84"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.Be2 Nf6 7.O-O d6 8.Be3 Be7
+9.Kh1 b5 10.f3 Bb7 11.Bd3 Nbd7 12.a4 b4 13.Na2 d5 14.Qe1 a5 15.Nb5 Qb8 16.Rd1 O-O
+17.Bd4 e5 18.exd5 Bxd5 19.Nc1 Be6 20.Bf2 Nc5 21.Bg3 Nfd7 22.f4 Nxa4 23.f5 Bd5
+24.f6 Nxf6 25.Bxe5 Qb7 26.Rxf6 Bxf6 27.Bxf6 Bxg2+ 28.Kg1 Bh3 29.Qg3 Qg2+
+30.Qxg2 Bxg2 31.Bd4 Bc6 32.b3 Bxb5 33.Bxb5 Nc3 34.Bxc3 bxc3 35.Ne2 Rfd8 36.Nxc3 Rxd1+
+37.Nxd1 f5 38.Ne3 f4 39.Nd5 g5 40.h4 gxh4 41.Nxf4 Kf7 42.Kh2 Kf6 43.c4 Ke5
+44.Nd5 Rf8 45.Ba4 Rf3 46.Ne7 Rd3 47.c5 Rc3 48.c6 Kd6 49.Nf5+ Kc7 50.Nd4 Kb6
+51.Ne6 Rxc6  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "10"]
+[White "Znosko Borovsky, Eugene "]
+[Black "Colle, Edgar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B83"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e6 7.O-O Be7 8.Kh1 O-O
+9.Nb3 a6 10.f4 b5 11.Bf3 Bb7 12.Be3 Qc7 13.Qe2 Rac8 14.Rad1 Nb8 15.a3 Nbd7
+16.Qf2 d5 17.e5 Ne8 18.Nd4 Bc5 19.Nce2 Nb6 20.Qg3 Nc4 21.Bc1 g6 22.Bg4 Ng7
+23.c3 Qb6 24.Ng1 a5 25.Ngf3 Be7 26.Rde1 Kh8 27.Ng5 Bxg5 28.fxg5 b4 29.axb4 axb4
+30.Rf3 bxc3 31.bxc3 Ra8 32.Qh4 Nf5 33.Nxf5 exf5 34.Rh3 h5 35.Bxf5 Bc8 36.Bxc8 Rfxc8
+37.Rf3 Ra1 38.Rxf7 Nxe5 39.Rff1 Nd3 40.Qh3 Qa6 41.Qd7 Ne5 42.Qxd5 Ra5 43.Qd4 Rc4
+44.Qd8+ Kh7 45.Rf6 Qa7 46.Rf8 Nf7 47.Re7 Rf5 48.Rh8+  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1925.??.??"]
+[Round "10"]
+[White "Opocensky, Karel"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Bd6 5.Bd3 Bg4 6.O-O Ne7 7.Bg5 f6 8.Bh4 Nbc6
+9.c3 h5 10.Nbd2 g5 11.Bg3 h4 12.Bxd6 Qxd6 13.Re1 O-O-O 14.b4 Rde8 15.Qc2 Qf4
+16.Re2 Bxf3 17.Nxf3 h3 18.Qc1 Qg4 19.Qf1 Nf5 20.Rae1 Rxe2 21.Bxf5+ Qxf5 22.Qxe2 Nd8
+23.g3 a6 24.a4 Kb8 25.Kh1 Re8  0-1

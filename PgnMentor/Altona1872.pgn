@@ -1,0 +1,174 @@
+[Event "Altona MT"]
+[Site "Altona"]
+[Date "1872.??.??"]
+[Round "?"]
+[White "Neumann, Gustav Richard"]
+[Black "Schallopp, Emil"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.f4 e6 4.Nf3 Ne7 5.Bd3 d5 6.e5 c5 7.c3 c4 8.Bc2 O-O 9.h4 h5
+10.Ng5 f5 11.exf6 Rxf6 12.g3 Nbc6 13.Nd2 Nf5 14.Kf2 Rf8 15.Ndf3 Qd6 16.Qe2 Bd7
+17.Bd2 Rae8 18.Kg2 e5 19.fxe5 Nxe5 20.dxe5 Bxe5 21.Bxf5 Bxg3 22.Ne4 Rxe4
+23.Bxe4 dxe4 24.Nd4 Rf2+ 25.Qxf2 Bxf2 26.Kxf2 a5 27.Bg5 Bg4 28.Rag1 b5 29.Ke3 Bf3
+30.Rh3 b4 31.Bf4 Qb6 32.Rhg3 Bg4 33.Rxg4 hxg4 34.Rxg4 bxc3 35.bxc3 Qb1 36.Rxg6+ Kf7
+37.Rg3 Qxa2 38.Kxe4 a4 39.Be5 a3 40.Rg7+ Ke8 41.Kd5 Qf2 42.Ke6 Qf8 43.Ra7 Qg8+
+44.Kd6 Qf8+ 45.Kc6 Qh6+ 46.Bd6 Qxh4 47.Rxa3 Qh3 48.Kd5 Qd3 49.Be5 Qf1 50.Ra8+ Kd7
+51.Ra7+ Ke8 52.Rc7  1-0
+
+[Event "Altona MT"]
+[Site "Altona"]
+[Date "1872.??.??"]
+[Round "?"]
+[White "Goering, Carl Theodor"]
+[Black "Neumann, Gustav Richard"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C44"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Bc4 cxb2 6.Bxb2 d6 7.Qb3 Nh6 8.Na3 Bd7
+9.Nd4 Na5 10.Qg3 Nxc4 11.Nxc4 c5 12.Nf3 Bb5 13.Nfd2 Qd7 14.O-O f6 15.f4 Nf7
+16.e5 fxe5 17.fxe5 O-O-O 18.a4 Bc6 19.a5 Nxe5 20.Nb6+ axb6 21.axb6 Qe6 22.Bxe5 dxe5
+23.Rf7 Qxf7 24.Qh3+ Kb8 25.Qa3 Kc8 26.Qh3+ Kb8  1/2-1/2
+
+[Event "Altona MT"]
+[Site "Altona"]
+[Date "1872.??.??"]
+[Round "?"]
+[White "Pitschel, Karl"]
+[Black "Schallopp, Emil"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4+ 7.Bd2 Bxd2+ 8.Nbxd2 d5
+9.exd5 Nxd5 10.Qb3 Nce7 11.O-O O-O 12.Rfe1 c6 13.Ne5 Qc7 14.Rac1 Be6 15.Qf3 Qb6
+16.Nb3 a5 17.Rb1 Rad8 18.Nc5 Nf5 19.Bd3 Nxd4  0-1
+
+[Event "Altona MT"]
+[Site "Altona"]
+[Date "1872.??.??"]
+[Round "?"]
+[White "Schallopp, Emil"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C23"]
+
+1.e4 e5 2.Bc4 Bc5 3.Qe2 Nf6 4.f4 d6 5.Nf3 Nc6 6.Bb5 Bg4 7.d3 O-O 8.Bxc6 bxc6
+9.f5 d5 10.Bg5 Rb8 11.Nbd2 Qd6 12.Bxf6 Qxf6 13.Nb3 Qd6 14.Rf1 a5 15.a4 Ba7
+16.Qd2 Rb4 17.h3 dxe4 18.hxg4 exf3 19.gxf3 Rd8 20.g5 e4 21.fxe4 Qg3+ 22.Kd1 Rxb3
+23.cxb3 Rxd3  0-1
+
+[Event "Altona MT"]
+[Site "Altona"]
+[Date "1872.??.??"]
+[Round "?"]
+[White "Schallopp, Emil"]
+[Black "Goering, Carl Theodor"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 Bc5 6.O-O O-O 7.Bxc6 dxc6 8.Nxe5 Re8
+9.Nf3 Bg4 10.Be3 Bd6 11.Nbd2 Qd7 12.h3 Bh5 13.Nc4 Qe6 14.Bd4 Nxe4 15.Re1 Bxf3
+16.Qxf3 Ng5 17.Qd1 Qd7 18.Be3 Ne6 19.Qg4 Re7 20.f4 f5 21.Qf3 Rae8 22.Ne5 Bxe5
+23.fxe5 Nd4 24.Qf2 Rxe5 25.Bxd4 Rxe1+ 26.Rxe1 Rxe1+ 27.Qxe1 Qxd4+ 28.Kh1 Kf7
+29.Qg3 f4 30.Qh4 h6 31.Qh5+ Kf6 32.Qe8 Qe5 33.Qc8 Kg5 34.Qg4+ Kf6 35.c3 h5
+36.Qh4+ Qg5 37.Qe1 h4 38.Qe8 Qe5 39.Qc8 Kg5 40.d4 Qf5 41.Qxc7 Qf6 42.Qxb7 f3
+43.Kg1 fxg2 44.Kxg2 Qg6 45.Kf2 Qf5+ 46.Ke1 Qe4+ 47.Kd2 Qg2+ 48.Kc1 Qxh3 49.Qxg7+ Kf4
+50.Qh6+ Kf3 51.Qxc6+ Ke2 52.Qxa6+ Qd3 53.Qa4 Qd2+ 54.Kb1 Qe1+ 55.Kc2 Qd1+  0-1
+
+[Event "Altona MT"]
+[Site "Altona"]
+[Date "1872.??.??"]
+[Round "?"]
+[White "Goering, Carl Theodor"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C44"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Bc4 c2 6.Qxc2 Bb4+ 7.Nc3 Qf6 8.O-O Bxc3
+9.bxc3 Ne5 10.Nxe5 Qxe5 11.Ba3 d6 12.f4 Qa5 13.Bb4 Qb6+ 14.Kh1 Nh6 15.f5 Ng4
+16.e5 Nxe5 17.Bd5 c5 18.Ba3 Qa6 19.Bb2 c4 20.a4 Bd7 21.Ba3 O-O-O 22.f6 g6
+23.Rf4 Bc6 24.Rd4 Bxd5 25.Rxd5 Qc6 26.Qe4 Nd3 27.Qd4 Rhe8 28.Bxd6 Re4 29.Qxa7 Qxd5
+30.Qb8+ Kd7 31.Qc7+ Ke8 32.Be7 Nf2+ 33.Kg1 Nd1 34.Qg3 Qe5 35.Qxe5 Rxe5 36.Kf1 Rd2  0-1
+
+[Event "Altona MT"]
+[Site "Altona"]
+[Date "1872.??.??"]
+[Round "?"]
+[White "Anderssen, Adolf"]
+[Black "Pitschel, Karl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C13"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.Nf3 O-O 7.Bd3 Nc6 8.Ne2 Nb4
+9.c3 Nxd3+ 10.Qxd3 b6 11.exd5 exd5 12.O-O a5 13.Rfe1 Qd6 14.Ng3 g6 15.Re3 Bd7
+16.Rae1 Rae8 17.Ne5 Bg5 18.R3e2 Kg7 19.c4 Be6 20.Qc3 Bf6 21.f4 c5 22.f5 Bd7
+23.Nh5+ gxh5 24.Qg3+ Kh8 25.Nxf7+ Rxf7 26.Rxe8+ Bxe8 27.Qxd6 Bxd4+ 28.Kh1 Bd7
+29.Re7 Rxe7 30.Qxe7  1-0
+
+[Event "Altona MT"]
+[Site "Altona"]
+[Date "1872.??.??"]
+[Round "?"]
+[White "Neumann, Gustav Richard"]
+[Black "Pitschel, Karl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Bd3 Nf6 6.Nf3 Be6 7.O-O Nc6 8.h3 Qd7
+9.Ne2 Bd6 10.Nf4 Bxf4 11.Bxf4 O-O 12.Ne5 Nxe5 13.Bxe5 Ne8 14.Qh5 f5 15.Rae1 Nf6
+16.Qg5 Rae8 17.Qf4 Rf7 18.Re2 h6 19.Rfe1 b6 20.Bxc7 Ne4 21.Be5 Qc6 22.f3 Bd7
+23.c3 Qg6 24.fxe4 fxe4 25.Qg3 Qxg3 26.Bxg3 Rfe7 27.Bc2 Bc6 28.b3 b5 29.Be5 Rxe5
+30.dxe5 Rxe5 31.c4  1-0
+
+[Event "Altona MT"]
+[Site "Altona"]
+[Date "1872.??.??"]
+[Round "?"]
+[White "Pitschel, Karl"]
+[Black "Goering, Carl Theodor"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C31"]
+
+1.e4 e5 2.f4 d5 3.exd5 e4 4.Bb5+ c6 5.dxc6 bxc6 6.Bc4 Nf6 7.d4 Nbd7 8.Ne2 Nb6
+9.Bb3 Ba6 10.Nbc3 Be7 11.O-O O-O 12.f5 c5 13.Be3 Ng4 14.Bf4 cxd4 15.Nxe4 Re8
+16.N2g3 Nf6 17.Re1 Nbd5 18.Nxf6+ Nxf6 19.Qf3 Qb6 20.Rxe7 Rxe7 21.Qxa8+ Re8
+22.Qf3 Bb7 23.Qf2 Ng4 24.Re1 Rxe1+ 25.Qxe1 d3+ 26.Be3 Nxe3 27.Qf2 dxc2 28.Ne2 Qc6
+29.Nc1 Ng4 30.Qg3 Qc5+ 31.Kf1 Ba6+ 32.Ke1 Qb4+ 33.Qc3 Qe4+  0-1
+
+[Event "Altona MT"]
+[Site "Altona"]
+[Date "1872.??.??"]
+[Round "?"]
+[White "Anderssen, Adolf"]
+[Black "Neumann, Gustav Richard"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.Bxc6+ bxc6 7.h3 c5 8.Nc3 g6
+9.Be3 Bg7 10.Qd2 h6 11.g4 Ng8 12.Ne2 Qf6 13.Nh2 Qe7 14.Ng3 h5 15.O-O-O h4
+16.Ne2 Rb8 17.c4 f5 18.Qa5 f4 19.Bd2 g5 20.Nf3 Bf6 21.Nc3 c6 22.Qa3 Nh6 23.Na4 Qc7
+24.Rhg1 Nf7 25.Qc3 Qa7 26.Qc2 Bd8 27.Bc3 Rg8 28.Qd2 a5 29.Qe1 Bc7 30.b3 Nd8
+31.Qd2 Ne6 32.Qc2 Bd7 33.Rge1 Nd4 34.Bxd4 cxd4 35.c5 Ke7 36.Kb1 Rb5 37.Rc1 dxc5
+38.Nxc5 a4 39.Nxd7 axb3 40.axb3 Ra8 41.Qb2 Kxd7 42.Kc2 Ra5 43.Kd1 Ra2 44.Qb1 Rxf2
+45.Nd2 Qa2 46.Re2 Rxe2 47.Kxe2 Qxb1 48.Rxb1 Ra2 49.Kd1 c5 50.Rc1 Ba5 51.Nf3 Kd6
+52.Rc2 Ra3 53.Ke2 Rxb3 54.Nxe5  1/2-1/2

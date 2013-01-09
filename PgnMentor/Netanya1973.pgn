@@ -1,0 +1,2223 @@
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "1"]
+[White "Camara, Helder"]
+[Black "Friedman, Shmuel"]
+[Result "1-0"]
+[WhiteElo "2405"]
+[BlackElo "2200"]
+[ECO "D93"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bf4 O-O 6.e3 c5 7.Rc1 cxd4 8.exd4 Nc6
+9.Be2 Bg4 10.c5 Nh5 11.Be3 e6 12.h3 Bxf3 13.Bxf3 e5 14.Ne2 Nf6 15.dxe5 Nxe5
+16.O-O Nxf3+ 17.gxf3 Nh5 18.Qd2 Re8 19.Ng3 Nxg3 20.fxg3 Qd7 21.Kg2 Bxb2 22.Rc2 Bg7
+23.Bd4 Qa4 24.Bxg7 Kxg7 25.Rf2 d4 26.Rb2 Rad8 27.Rxb7 d3 28.Rb4 Qa3 29.Rh4 h5
+30.Rc4 Qa6 31.Rc1 Re6 32.Qc3+ Kg8 33.c6 d2 34.c7 Rde8 35.Qxd2 Re2 36.Qxe2  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "1"]
+[White "Kavalek, Lubomir"]
+[Black "Domnitz, Zadok"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[BlackElo "2350"]
+[ECO "E63"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.d4 Nc6 7.Nc3 a6 8.d5 Na5
+9.b3 c5 10.dxc6 bxc6 11.Bb2 Rb8 12.Qd2 Be6 13.Nd1 c5 14.Ng5 Bd7 15.Ne3 h6
+16.Nh3 Nc6 17.Nf4 Nd4 18.Bc3 e6 19.Rad1 Qc8 20.Nc2 e5 21.Nd5 Nxd5 22.Bxd5 Be6
+23.Bg2 Bh3 24.e3 Bxg2 25.Kxg2 Nf5 26.f3 h5 27.h3 Re8 28.g4 Nh4+ 29.Kg3 Qd8
+30.Qxd6 Qg5 31.Qxc5 Nf5+ 32.Kh2 Bf8 33.Qd5 Nxe3 34.Nxe3 Qxe3 35.Qd2 Qxd2+
+36.Rxd2 Bh6 37.Rd7 Bf4+ 38.Kg2 hxg4 39.hxg4 Ra8 40.Bd2 a5 41.Re1 Bxd2 42.Rxd2 Re7
+43.c5 Kg7 44.Rd5 Kf6 45.Re4 Rb8 46.f4 Rb4 47.fxe5+ Kg5 48.Rxb4 axb4 49.Kf3 Re6
+50.Rd4 Rxe5  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "1"]
+[White "Kraidman, Yair"]
+[Black "Tatai, Stefano"]
+[Result "1-0"]
+[WhiteElo "2455"]
+[BlackElo "2460"]
+[ECO "E83"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 O-O 5.Be3 d6 6.f3 Nc6 7.Nge2 a6 8.Nc1 e5
+9.d5 Nd4 10.Nb3 Nxb3 11.Qxb3 Nd7 12.O-O-O f5 13.exf5 gxf5 14.Qc2 Nf6 15.Bd3 Kh8
+16.h3 Bd7 17.g4 b5 18.Rdg1 b4 19.Nd1 e4 20.fxe4 fxe4 21.Be2 c5 22.g5 Ng8
+23.Bg4 Re8 24.Rf1 Ra7 25.Qh2 Re5 26.Rf7 Re7 27.Rxg7 Rxg7 28.Qxd6 Qc7 29.Qxc5 Qxc5
+30.Bxc5 Rc7 31.Bxb4 Rxc4+ 32.Bc3 Bxg4 33.hxg4 Rxc3+ 34.bxc3 Rxg5 35.Ne3 Ne7
+36.c4 Kg7 37.Kd2 Rg6 38.Kc3 Rb6 39.Nf5+ Nxf5 40.gxf5 e3 41.Re1 Kf6 42.Rxe3 Kxf5
+43.c5 Rb1 44.c6  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "1"]
+[White "Porath, Yosef"]
+[Black "Damjanovic, Mato"]
+[Result "0-1"]
+[WhiteElo "2340"]
+[BlackElo "2465"]
+[ECO "E91"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 g6 4.Nc3 Bg7 5.e4 O-O 6.Be2 d6 7.O-O Nc6 8.d5 Ne5
+9.Nxe5 dxe5 10.Be3 b6 11.Qd2 Ne8 12.a3 Nd6 13.b4 Qc7 14.bxc5 bxc5 15.f3 Bd7
+16.Nb5 Qb6 17.Rab1 Rfb8 18.Bd3 Nb7 19.Rb2 a6 20.Nc3 Qc7 21.Rfb1 Nd6 22.Rxb8+ Rxb8
+23.Rxb8+ Qxb8 24.Bxc5 Qc8 25.Qf2 Bf8 26.Bb4 Nb7 27.a4 e6 28.Bxf8 Kxf8 29.Qb6 Qc5+
+30.Qxc5+ Nxc5 31.Bc2 Ke7 32.Kf2 Kd6 33.Ke3 h6 34.g3 g5 35.f4 exf4+ 36.gxf4 e5
+37.fxg5 hxg5 38.a5 Nb7 39.Ba4 Bh3 40.Be8 Nxa5 41.Bxf7 Nxc4+ 42.Kf2 Bd7 43.Ke2 Kc5
+44.Kd3 Nd6 45.Bh5 a5 46.Bd1 Nc4 47.Bb3 Nb6 48.Na2 Nc8 49.Bc2 Nd6 50.Nc3 Kb4
+51.Na2+ Ka3 52.Nc3 Bc8 53.Ba4 Ba6+ 54.Kc2 Bc4 55.Bd7 Bb3+ 56.Kd3 Kb4 57.Nb1 a4
+58.Bxa4 Bxa4 59.Nd2 Bb5+ 60.Ke3 Nc4+ 61.Nxc4 Kxc4 62.Kf3 Bd7  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "1"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Pachman, Ludek"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2510"]
+[ECO "D42"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.d4 c5 5.cxd5 Nxd5 6.e3 Nc6 7.Bd3 Be7 8.O-O O-O
+9.Re1 b6 10.Ne4 cxd4 11.exd4 Ncb4 12.Bb1 Nf6 13.Nxf6+ Bxf6 14.a3 Nd5 15.Qd3 g6
+16.Bh6 Bg7 17.Qd2 Bb7 18.Be4 Qe7 19.Ne5 Rfd8 20.h4 Bxh6 21.Qxh6 Nf6 22.Bxb7 Qxb7
+23.Rad1 Rac8 24.Rd3 Qe7 25.g4 Nd5 26.Nf3 Qf8 27.Qd2 Qd6 28.Re5 Qc6 29.Kg2 Qc1
+30.Re1 Qxd2 31.Rxd2 Rc7 32.Kg3 h6 33.Ne5 Rdc8 34.Red1 Rc2 35.Kf3 Rxd2 36.Rxd2 Rc1
+37.Nd3 Rh1 38.Kg3 Kg7 39.f3 Kf6 40.Nf4 Nxf4 41.Kxf4 Rxh4 42.d5 exd5 43.Rxd5 Rh2
+44.Rd7 Rxb2 45.Rxa7 Rb5 46.Kg3 Ra5 47.Rc7 Rc5 48.Rb7 Rc6 49.a4 Ke6 50.Ra7 f5
+51.gxf5+ Kxf5 52.a5 bxa5 53.Rxa5+ Kf6 54.f4 Rc3+ 55.Kg2 h5 56.Re5  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "1"]
+[White "Romm, Meir"]
+[Black "Czerniak, Moshe"]
+[Result "0-1"]
+[WhiteElo "2200"]
+[BlackElo "2370"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4 c6 5.Be3 Qb6 6.Qd2 Qxb2 7.Rb1 Qa3 8.Nf3 Nf6
+9.h3 O-O 10.Bd3 Qa5 11.g4 Nbd7 12.f5 c5 13.Rb5 Qc7 14.dxc5 Nxc5 15.Rxc5 dxc5
+16.e5 Nd7 17.Nd5 Nxe5 18.Nxc7 Nxf3+ 19.Ke2 Nxd2 20.Kxd2 b6 21.Nxa8 Bb7 22.Re1 Rxa8
+23.Bg5 e6 24.fxe6 fxe6 25.Rxe6 Bd5 26.Re7 Bxa2 27.Be4 Rd8+ 28.Kc1 Bc3 29.Rxa7 Rf8
+30.Ra8 Rxa8 31.Bxa8 Kf7 32.Bd2 Be5 33.Bg5 Ke6 34.Bb7 Bd5 35.Bc8+ Kd6 36.Be3 Bg2
+37.g5 Be4 38.Kd2 b5 39.h4 Bg3 40.Ba6 Kc6 41.c4 b4 42.Bb5+ Kb6 43.Ba4 Bxh4
+44.Bf4 Bf2 45.Bd6 Bd4 46.Bf8 Bb1 47.Bb3 Kc7 48.Ke2 Kd7 49.Kf3 Ke6 50.Kg4 Ke5
+51.Kf3 Be4+ 52.Ke2 Kf5 53.Be7 Ke6 54.Bf8 Bg1 55.Ba4 Ke5 56.Bb3 Bb1 57.Be7 Ke4
+58.Bf8 Bd3+ 59.Kd1 Be3 60.Be7 Ke5 61.Ke1 Ke6 62.Bf8 Kd7 63.Ba4+ Kc7 64.Bb3 Kc6
+65.Bh6 Kb6 66.Kd1 Bf4 67.Ke1 Be4 68.Ke2 Bc6 69.Kd3 Ka5 70.Bf8 Ba4 71.Kc2 Bxb3+
+72.Kxb3 Kb6 73.Bh6 Kc6 74.Kc2 Kd7 75.Kd3 Ke6 76.Ke4 Bc1 77.Kd3 Kf7  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "1"]
+[White "Saidy, Anthony Fred"]
+[Black "Peretz, Malkiel"]
+[Result "1/2-1/2"]
+[WhiteElo "2425"]
+[BlackElo "2365"]
+[ECO "D36"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 Be7 6.e3 O-O 7.Bd3 c6 8.Qc2 Nbd7
+9.Nge2 Re8 10.O-O Ne4 11.Bf4 f5 12.Nxd5 Bd6 13.Ndc3 Ndf6 14.Rae1 Kh8 15.Bxd6 Qxd6
+16.Bxe4 Nxe4 17.Nf4 Nf6 18.h3 Be6 19.Rc1 g5 20.Nxe6 Qxe6 21.Qb3 Qe7 22.d5 g4
+23.hxg4 Nxg4 24.Qa4 c5 25.Qf4 Rg8 26.Ne2 Ne5 27.d6 Qg7 28.Ng3 Nd3 29.Qxf5 Nxc1
+30.Rxc1 b6 31.Rc2 Raf8 32.Qd5 Qh6 33.Nf5 Qg5 34.Ne7  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "1"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Kaldor, Avraham"]
+[Result "1-0"]
+[WhiteElo "2460"]
+[BlackElo "2200"]
+[ECO "D42"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c5 5.cxd5 Nxd5 6.e3 Nc6 7.Bd3 Be7 8.O-O O-O
+9.a3 cxd4 10.exd4 Nf6 11.Bc2 b6 12.Qd3 Bb7 13.Bg5 g6 14.Rfd1 Rc8 15.Rac1 Re8
+16.Ba4 a6 17.b4 b5 18.Bb3 Nb8 19.Ne5 Nbd7 20.Qh3 Nd5 21.Nxf7  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "2"]
+[White "Peretz, Malkiel"]
+[Black "Tatai, Stefano"]
+[Result "0-1"]
+[WhiteElo "2365"]
+[BlackElo "2460"]
+[ECO "C05"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.f4 c5 6.dxc5 Bxc5 7.Qg4 O-O 8.Ngf3 f5
+9.Qh3 Qb6 10.Bd3 Bf2+ 11.Ke2 Nc5 12.Ng5 h6 13.Rf1 Nxd3 14.cxd3 Bc5 15.Ngf3 Bd7
+16.Nb3 Bb5 17.Bd2 Nc6 18.Rfc1 Be7 19.Ne1 a5 20.Be3 d4 21.Bf2 a4 22.Nd2 Bb4
+23.Nc2 Bxd2 24.Kxd2 Ba6 25.Rab1 Qa5+ 26.Ke2 Qd5 27.Qf3 Qxa2 28.Be1 Qb3 29.Na3 Rac8
+30.Nc4 Nb4 31.Bxb4 Qxb4 32.Nd2 Rxc1 33.Rxc1 Qxb2 34.Rc7 Qb6 35.Re7 Qc5 36.Rd7 Bb5
+37.Rd6 a3 38.Qxb7 a2  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "2"]
+[White "Saidy, Anthony Fred"]
+[Black "Reshevsky, Samuel Herman"]
+[Result "1/2-1/2"]
+[WhiteElo "2425"]
+[BlackElo "2565"]
+[ECO "A36"]
+
+1.c4 c5 2.Nc3 g6 3.g3 Bg7 4.Bg2 Nc6 5.e3 e5 6.a3 Nge7 7.Nge2 O-O 8.Rb1 a5
+9.O-O d6 10.d3 Rb8 11.Bd2 Bf5 12.Qc2 b6 13.Nd5 Nxd5 14.Bxd5 Ne7 15.Bg2 Qd7
+16.b4 axb4 17.axb4 Rfc8 18.Nc3 cxb4 19.Rxb4 d5 20.cxd5 Nxd5 21.Bxd5 Qxd5
+22.Nxd5 Rxc2 23.Ne7+ Kf8 24.Nxf5 Rxd2 25.Nxg7 Kxg7 26.Rfb1  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "2"]
+[White "Pachman, Ludek"]
+[Black "Camara, Helder"]
+[Result "1-0"]
+[WhiteElo "2510"]
+[BlackElo "2405"]
+[ECO "E95"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O Nbd7 8.Re1 c6
+9.Bf1 Qc7 10.b3 Re8 11.Bb2 exd4 12.Nxd4 Nc5 13.Qc2 a5 14.Rad1 Bd7 15.Ba3 Bf8
+16.f3 Rad8 17.Bc1 h6 18.Be3 Bc8 19.Qf2 Kh7 20.Rd2 Qe7 21.Nc2 Nfd7 22.Bd4 Ne6
+23.Nd5 cxd5 24.exd5 Ndc5 25.dxe6 Bxe6 26.Ne3 Qc7 27.Red1 b6 28.Ba1 h5 29.Nd5 Bxd5
+30.Rxd5 Qe7 31.Kh1 Bg7 32.Bxg7 Kxg7 33.Qd4+ Qf6 34.Qxf6+ Kxf6 35.Rxd6+ Rxd6
+36.Rxd6+ Re6 37.Rd1 Re3 38.Kg1 Ke6 39.Kf2 Rc3 40.Rd2 Rc1 41.Be2 Ra1 42.h4 Na6
+43.g4 Nb4 44.c5 bxc5 45.Bc4+ Ke7 46.a4 Rc1 47.Ke3 Nc2+ 48.Ke4 Nd4 49.gxh5 gxh5
+50.Kd5 Ne6 51.Kc6 Nd4+ 52.Kd5 Ne6 53.f4 Kf6 54.Kd6 Rc3 55.Rd5 Rf3 56.Rxh5 Rxf4
+57.Rh8 Rd4+ 58.Kc6 Kg7 59.Ra8 Rxh4 60.Rxa5 Nd4+ 61.Kxc5 Rh5+ 62.Kb6 Rh6+
+63.Kc7 Rh3 64.Rb5 f5 65.Rb7 Rc3 66.Kd6+ Kf6 67.a5  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "2"]
+[White "Kaldor, Avraham"]
+[Black "Romm, Meir"]
+[Result "1-0"]
+[WhiteElo "2200"]
+[BlackElo "2200"]
+[ECO "A30"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 c5 4.g3 b6 5.Bg2 Bb7 6.O-O Be7 7.d4 cxd4 8.Qxd4 O-O
+9.Rd1 Nc6 10.Qf4 Qb8 11.Qxb8 Raxb8 12.Bf4 Rbc8 13.Bd6 Bxd6 14.Rxd6 Nb8 15.b3 Ne8
+16.Rd3 Ba6 17.e4 Bb7 18.Rad1 Bc6 19.Nd4 Nc7 20.f4 a6 21.Nxc6 dxc6 22.e5 a5
+23.Na4 Na8 24.Rd6 g6 25.Nc3 Kg7 26.Ne4 b5 27.cxb5 Nc7 28.b6 Nd5 29.b7 Rc7
+30.Nc5 Re8 31.Rd4 Nb4 32.a3 Nd5 33.Ra4 Kf8 34.Rxa5 Nb6 35.Ra7 Ke7 36.a4 N6d7
+37.Nxd7 Rxd7 38.Bxc6  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "2"]
+[White "Friedman, Shmuel"]
+[Black "Porath, Yosef"]
+[Result "1-0"]
+[WhiteElo "2200"]
+[BlackElo "2340"]
+[ECO "D25"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 Bg4 5.Bxc4 e6 6.O-O Nbd7 7.Qe2 Bd6 8.e4 e5
+9.d5 O-O 10.h3 Bh5 11.Nc3 Bg6 12.Bg5 Be7 13.Bxf6 Bxf6 14.Rac1 Be7 15.Bd3 Bd6
+16.Nd2 f5 17.exf5 Bxf5 18.Bxf5 Rxf5 19.Nde4 a6 20.Qg4 Qf8 21.Nxd6 cxd6 22.Ne4 Nc5
+23.Nxc5 dxc5 24.d6 Rd8 25.Rcd1 g6 26.Qc4+ Kg7 27.Qxc5 Rf6 28.Qc7+ Rf7 29.d7 Qe7
+30.Qxb7 Qe6 31.Rfe1 Rfxd7 32.Rxd7+ Rxd7 33.Qb8 Re7 34.b3 h5 35.Rd1 Qf5 36.Rd2 Qb1+
+37.Kh2 Qc1 38.Qd6 Kf7 39.g3 e4 40.Qf4+ Kg7 41.Rd7 Qc5 42.Qe3 Qe5 43.Qd4 Qxd4
+44.Rxd4 e3 45.fxe3 Rxe3 46.Ra4 Re6 47.Kg2 g5 48.Kf3 Kg6 49.Ra5 Kf6 50.h4 gxh4
+51.gxh4 Kg6 52.Kf4 Rf6+ 53.Ke4 Rd6 54.Rg5+ Kh6 55.Rd5 Rb6 56.Ke5 Rb4 57.Rd4 Rb5+
+58.Kd6 Kg6 59.Ra4 Rb6+ 60.Kc7 Re6 61.Ra5 Re7+ 62.Kb6 Re4 63.Ra4 Re6+ 64.Kb7 Kf5
+65.Rxa6 Re7+ 66.Kc8 Kg4 67.Ra4+ Kg3 68.Rc4 Re2 69.a4 Rb2 70.b4  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "2"]
+[White "Czerniak, Moshe"]
+[Black "Kavalek, Lubomir"]
+[Result "0-1"]
+[WhiteElo "2370"]
+[BlackElo "2565"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 Nf6 6.Re1 O-O 7.d4 cxd4 8.cxd4 d5
+9.e5 Ne4 10.Nc3 Nxc3 11.bxc3 Bd7 12.Bd3 Rc8 13.Ng5 e6 14.Qg4 h6 15.Nxf7 Rxf7
+16.Qxg6 Qh4 17.g3 Qh3 18.Qh7+ Kf8 19.Bg6 Ne7 20.Bxf7 Kxf7 21.Qd3 Nf5 22.Re2 a6
+23.a4 Rc4 24.Rb2 Kg8 25.Qf1 Qxf1+ 26.Kxf1 b5 27.Bd2 bxa4 28.Rb6 Bb5 29.Kg2 Kf7
+30.g4 Ne7 31.f4 Rc7 32.h4 Nc6 33.f5 Bf8 34.Bc1 h5 35.fxe6+ Kxe6 36.gxh5 Be7
+37.Bg5 Kf5 38.Bxe7 Rxe7 39.Ra2 Kg4 40.h6 Rh7 41.Kg1 Kxh4 42.Rg2 Kh5 43.Kf2 a3
+44.Ke3 Kh4 45.Ra2 Kg5 46.Rxa3 Rxh6 47.Ra1 Rh3+ 48.Kd2 Rh2+ 49.Kc1 Kf5 50.Raxa6 Bxa6
+51.Rxa6 Rh6 52.Kb2 Ke4 53.Rb6 Kd3 54.Rb5 Ne7 55.Rc5 Rb6+ 56.Ka3 Rc6 57.Kb4 Rb6+
+58.Ka4 Rb7 59.Ka3 Nf5 60.Ka4 Ne3 61.Ka5 Rb3 62.e6 Rb7 63.Ka6 Re7 64.Rc6 Ke4
+65.Kb6 Kf5 66.Kc5 Rxe6 67.Rc8 Ke4 68.Rd8 Re7 69.Kd6 Ra7 70.Re8+ Kd3 71.Rxe3+ Kxe3
+72.Kxd5 Ra5+ 73.Kc6 Ke4  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "2"]
+[White "Domnitz, Zadok"]
+[Black "Kraidman, Yair"]
+[Result "1-0"]
+[WhiteElo "2350"]
+[BlackElo "2455"]
+[ECO "B26"]
+
+1.e4 c5 2.Nc3 d6 3.g3 Nc6 4.Bg2 g6 5.d3 Bg7 6.Be3 Nd4 7.a4 a6 8.h3 e6 9.Nf3 Ne7
+10.Qd2 Bd7 11.O-O O-O 12.Bh6 e5 13.Ne1 b5 14.Bxg7 Kxg7 15.axb5 axb5 16.Rxa8 Qxa8
+17.f4 Qa1 18.f5 f6 19.fxg6 hxg6 20.Nd1 g5 21.c3 Qc1 22.Qxc1 Ne2+ 23.Kf2 Nxc1
+24.Ke3 Nb3 25.Nf3 g4 26.hxg4 Bxg4 27.Nd2 Nxd2 28.Kxd2 Bxd1 29.Rxd1 Ra8 30.Kc2 Rh8
+31.Rh1 Rxh1 32.Bxh1 Kg6 33.Bf3 Kg5 34.Kd2 f5 35.exf5 Nxf5 36.Bc6 b4 37.Bd7 Nxg3
+38.cxb4 cxb4 39.Kc2 Kf4 40.Kb3 Ke3 41.Bb5 Ne2 42.Kxb4 d5 43.Kc5 Nf4 44.b4 d4
+45.Kd6 Nxd3 46.Bxd3 e4 47.Bb1  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "2"]
+[White "Damjanovic, Mato"]
+[Black "Yanofsky, Daniel Abraham"]
+[Result "1/2-1/2"]
+[WhiteElo "2465"]
+[BlackElo "2460"]
+[ECO "C95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1 Bf8 14.Ng3 g6 15.a4 c5
+16.d5 c4 17.Nh2 Bg7 18.Bg5 h6 19.Be3 Kh7 20.Qd2 Nc5 21.Ra3 Qc7 22.Rea1 Reb8
+23.Qd1 Bc8 24.axb5 Rxb5 25.Bc1 Rab8 26.Nf3 Nfd7 27.Nd2 Nb6 28.Qe2 Ncd7 29.Ngf1 Bb7
+30.Ne3 Rc8 31.g3 Nf6 32.Qf1 Rc5 33.Bd1 h5 34.Bf3 Bh6 35.Qe2 Rb5 36.Bg2 Kg7
+37.R3a2 Nfd7 38.Bf1 Rc5 39.Nf3 Qd8 40.Nh4 Kh7 41.Bd2 Rb5 42.Rd1 Qf6 43.Nc2 Bxd2
+44.Qxd2 Nc5 45.Qe3 Nb3 46.Na3 Rbc5 47.Nf3 R8c7 48.Ng5+ Kg8 49.Bg2 Re7 50.Nb1 a5
+51.Nd2 Ba6 52.h4 a4 53.Bh3 Bb5 54.Nf1 Nd7 55.Qe2 Rc7 56.Bxd7 Rexd7 57.Ne3 Nc5
+58.Nc2 Nd3 59.Nb4 Ra7 60.Qe3 Nc5 61.Rf1 Re7 62.Raa1 Rab7 63.f4 exf4 64.Rxf4 Qg7
+65.Raf1 f5 66.Qf3 Nxe4 67.Nxe4 Rxe4 68.Rxe4 fxe4 69.Qxe4 Re7 70.Qf4 Re5 71.Qf6 Qxf6
+72.Rxf6 Re2 73.Rf2 Re3 74.Nc2 Rxg3+ 75.Rg2 Rd3 76.Rxg6+ Kf7 77.Rg5 Ke7 78.Rg2 Rxd5
+79.Nd4 Bd7 80.Kf2 Ra5 81.Kf3 a3 82.bxa3 Rxa3 83.Ne2  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "3"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Friedman, Shmuel"]
+[Result "1/2-1/2"]
+[WhiteElo "2460"]
+[BlackElo "2200"]
+[ECO "D87"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O Qc7 11.Rc1 Rd8 12.Bf4 Qd7 13.dxc5 Ne5 14.Bxe5 Bxe5 15.Qb3 e6
+16.f4 Bg7 17.f5 Qe7 18.fxe6 Bxe6 19.Bxe6 fxe6 20.Nf4 Re8 21.Nd3 Rad8 22.Qc4 Bf8  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "3"]
+[White "Tatai, Stefano"]
+[Black "Domnitz, Zadok"]
+[Result "1-0"]
+[WhiteElo "2460"]
+[BlackElo "2350"]
+[ECO "C93"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 h6 10.d4 Re8 11.Nbd2 Bf8 12.Nf1 Bd7 13.Ng3 Na5 14.Bc2 c5 15.b3 g6 16.Be3 Qc7
+17.Qd2 Kh7 18.d5 Nb7 19.c4 Na5 20.Qc3 bxc4 21.bxc4 Reb8 22.Bd2 Rb4 23.Qd3 Nxc4
+24.Bxb4 cxb4 25.Rec1 Na3 26.Ba4 Qb6 27.Bc6 Ra7 28.Nd2 a5 29.Qf3 Kg7 30.Nc4 Nxc4
+31.Rxc4 Bc8 32.Ba4 Ba6 33.Rc6 Qb8 34.Rac1 Qd8 35.Qe3 Ra8 36.Rc7 Qb8 37.h4 Ne8
+38.Bxe8 Qxe8 39.h5 Be7 40.hxg6 fxg6 41.Qb6  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "3"]
+[White "Porath, Yosef"]
+[Black "Pachman, Ludek"]
+[Result "1/2-1/2"]
+[WhiteElo "2340"]
+[BlackElo "2510"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 d6 7.g3 Qe7 8.Nf3 b6
+9.Bg2 Bb7 10.O-O Nbd7 11.Bg5 h6 12.Bxf6 Nxf6 13.Ne1 c5 14.Rd1 d5 15.dxc5 bxc5
+16.cxd5 exd5 17.Nd3 Rac8 18.Qe5 Qxe5 19.Nxe5 a5 20.Rd2 Rfd8 21.Rfd1 c4 22.f4 c3
+23.bxc3 Rxc3 24.Rd3  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "3"]
+[White "Kraidman, Yair"]
+[Black "Czerniak, Moshe"]
+[Result "1-0"]
+[WhiteElo "2455"]
+[BlackElo "2370"]
+[ECO "A42"]
+
+1.c4 g6 2.d4 Bg7 3.e4 d6 4.Nc3 Nc6 5.Be3 e5 6.d5 Nce7 7.Qd2 f5 8.f3 Nf6 9.Bd3 O-O
+10.Nge2 fxe4 11.Nxe4 Nf5 12.Bg5 c6 13.dxc6 bxc6 14.O-O Rb8 15.N2c3 Nxe4 16.Bxe4 Bf6
+17.Bxf6 Rxf6 18.b3 Qb6+ 19.Kh1 Qd4 20.Qc1 Bd7 21.Rd1 Qf2 22.Rd2 Qe3 23.Ne2 Nd4
+24.Nxd4 exd4 25.Qb2 c5 26.Re2 Qg5 27.Qa3 Rbf8 28.Qxa7 Be6 29.Qa5 Kg7 30.Qe1 Rb8
+31.Qd1 Rf7 32.Qd3 Bd7 33.Rae1 Qh4 34.Kg1 Rbf8 35.Qd2 Bf5 36.Bd5 Ra7 37.g4 Bc8
+38.Kg2 Qf6 39.h4 h5 40.gxh5 gxh5 41.Kh1 Kh7 42.Rg1 Rg7 43.Rxg7+ Kxg7 44.Rg2+ Kh8
+45.Qg5 Qxg5 46.Rxg5 d3 47.Be4 d2 48.Rxh5+ Kg7 49.Rd5 Bb7 50.Rxd2 Bxe4 51.fxe4 Rf4
+52.Rxd6 Rxh4+ 53.Kg2  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "3"]
+[White "Kavalek, Lubomir"]
+[Black "Kaldor, Avraham"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[BlackElo "2200"]
+[ECO "A14"]
+
+1.Nf3 Nf6 2.g3 b6 3.Bg2 Bb7 4.O-O e6 5.c4 Be7 6.b3 O-O 7.Bb2 d5 8.e3 c5 9.Qe2 Nc6
+10.d3 Qd7 11.Rd1 Rfd8 12.cxd5 Nxd5 13.Nc3 Rab8 14.Rac1 Ncb4 15.Ne5 Qe8 16.Nxd5 Bxd5
+17.Bxd5 Rxd5 18.e4 Rdd8 19.d4 Rbc8 20.dxc5 Rxc5 21.Rxc5 Rxd1+ 22.Qxd1 Bxc5
+23.a3 Nc6 24.b4 Be7 25.Qa4 Bf6 26.Nxc6 Bxb2 27.Qxa7 Bxa3 28.Qxb6 h5 29.b5 Qd7
+30.Qb8+ Kh7 31.Qa7 Qd1+ 32.Kg2 h4 33.Qxa3 h3+ 34.Kxh3 Qf1+ 35.Kg4 Qe2+ 36.f3 Qxh2
+37.Qd3 g6 38.e5 Qg1 39.Qd7  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "3"]
+[White "Romm, Meir"]
+[Black "Damjanovic, Mato"]
+[Result "0-1"]
+[WhiteElo "2200"]
+[BlackElo "2465"]
+[ECO "A58"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 g6 7.Nf3 d6 8.Nd2 Bg7
+9.e4 Bxf1 10.Nxf1 Qa5 11.Nd2 Nfd7 12.O-O O-O 13.Qe2 Bxc3 14.Nb3 Qa6 15.Qxa6 Nxa6
+16.bxc3 Nc7 17.Bh6 Rfb8 18.Rfb1 Nb5 19.Bd2 Na3 20.Rc1 Ne5 21.Bh6 f6 22.h4 Ra4
+23.f3 Kf7 24.Kf1 f5 25.exf5 gxf5 26.Bg5 Rg8 27.Rd1 h6 28.Bxh6 Rxh4 29.Be3 Nec4
+30.Bf2 Rh2 31.g3 Nc2 32.Re1 Nxa1 33.Rxa1 Rh1+  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "3"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Peretz, Malkiel"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[BlackElo "2365"]
+[ECO "A04"]
+
+1.Nf3 c5 2.g3 g6 3.Bg2 Bg7 4.O-O Nc6 5.d3 Nf6 6.e4 O-O 7.Nbd2 d6 8.Re1 Bd7
+9.h3 e5 10.Nc4 b5 11.Ne3 Be6 12.a4 bxa4 13.Rxa4 Qd7 14.Ng5 Nd4 15.Ra3 Rfb8
+16.Nxe6 Qxe6 17.c3 Nb5 18.Ra5 Nc7 19.Nc4 Nd7 20.f4 Rb5 21.f5 Qe7 22.Rxb5 Nxb5
+23.Rf1 Rf8 24.h4 Nc7 25.Qa4 gxf5 26.Qxa7 Nf6 27.Rxf5 Qd7 28.Qb6 Nfe8 29.Kh2 Ne6
+30.Rf1 N6c7 31.Bh3 Qa4 32.b3 Qa2+ 33.Bd2 Qa8 34.Nxd6 Nxd6 35.Qxd6 Qa2 36.Rf2 Nb5
+37.Qxc5 Qxb3 38.Bd7 Rb8 39.Bc6 Nc7 40.c4 Ne6 41.Qa7 Qb6 42.Qxb6 Rxb6 43.Bd5 Nc5
+44.Rxf7 Kh8 45.Rc7  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "3"]
+[White "Camara, Helder"]
+[Black "Saidy, Anthony Fred"]
+[Result "1/2-1/2"]
+[WhiteElo "2405"]
+[BlackElo "2425"]
+[ECO "D94"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 d5 5.e3 O-O 6.Bd2 e6 7.Bd3 Nc6 8.O-O b6
+9.cxd5 exd5 10.a3 a6 11.Rc1 Bb7 12.b4 Re8 13.Qb3 Qd7 14.Rc2 Ne7 15.Ne5 Qe6
+16.Ne2 c6 17.Rfc1 Nd7 18.Nf4 Qd6 19.Nxd7 Qxd7 20.b5 axb5 21.Bxb5 Bh6 22.Ne2 cxb5
+23.Rc7 Qg4 24.f3 Qe6 25.Rxb7 Nf5 26.f4 Nxe3 27.Bxe3 Qxe3+ 28.Qxe3 Rxe3 29.Kf2 Rae8
+30.Rc2 Rxa3 31.Rxb6 Rb3 32.Rd6 b4 33.Rxd5 Rb8 34.Rdc5 Bf8 35.Rc8 Rxc8 36.Rxc8 Kg7
+37.f5 Bd6 38.Rc6 Bxh2 39.f6+ Kh6 40.g3 Rb2 41.Kf3 Kg5 42.Re6 h5 43.Re4 Rc2
+44.d5 b3 45.Rb4 b2 46.Ke3 h4 47.Kd3 Rc5 48.gxh4+ Kxf6 49.Rxb2 Rxd5+ 50.Ke3 Be5
+51.Rb7 Ra5 52.Kf3 Ra3+ 53.Kg2 Ra2 54.Kf3 Ra4 55.Rb6+ Kg7 56.h5 g5 57.h6+ Kh7
+58.Rb7 Kg6 59.Nc1 Rh4 60.Nd3 Bh2 61.Nf2 f5 62.Rb6+ Kf7 63.Rb7+ Kg6 64.Rb6+ Kf7
+65.Rb7+ Ke6 66.h7 Bd6 67.Kg2 g4 68.Rg7 Rh2+ 69.Kf1 g3 70.Nd3 f4 71.Rg6+ Kd5
+72.Rxd6+ Kxd6 73.Nxf4 Kc5 74.Ne2 Rxh7 75.Nxg3  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "4"]
+[White "Friedman, Shmuel"]
+[Black "Romm, Meir"]
+[Result "1-0"]
+[WhiteElo "2200"]
+[BlackElo "2200"]
+[ECO "E67"]
+
+1.c4 g6 2.Nc3 Bg7 3.g3 e5 4.Bg2 d6 5.Nf3 Nf6 6.d4 Nbd7 7.O-O O-O 8.h3 Re8
+9.Be3 c6 10.Rc1 a6 11.dxe5 dxe5 12.Ng5 Qe7 13.Nge4 Nh5 14.c5 f5 15.Bg5 Ndf6
+16.Nd6 Rf8 17.e4 h6 18.Bxf6 Nxf6 19.Qb3+ Kh8 20.exf5 gxf5 21.Rcd1 e4 22.f3 e3
+23.Rd3 f4 24.gxf4 Nh5 25.Ne2 Nxf4 26.Nxf4 Rxf4 27.Re1 Qg5 28.Rdxe3 Bd4 29.Kh2 Bxe3
+30.Rxe3 Bd7 31.Qc3+ Qf6 32.Re7 Rd4 33.Rxd7 Qe5+ 34.f4 Qxf4+ 35.Kh1 Kg8 36.Qc2 Kf8
+37.Rf7+ Qxf7 38.Nxf7 Kxf7 39.Qf2+  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "4"]
+[White "Czerniak, Moshe"]
+[Black "Tatai, Stefano"]
+[Result "0-1"]
+[WhiteElo "2370"]
+[BlackElo "2460"]
+[ECO "B40"]
+
+1.e4 c5 2.b3 Nc6 3.Bb2 e6 4.Nf3 Nf6 5.Nc3 d6 6.g3 Be7 7.Bg2 O-O 8.d4 cxd4
+9.Nxd4 Bd7 10.O-O Nxd4 11.Qxd4 Qc7 12.a4 a6 13.Qd2 Rac8 14.Rac1 Rfd8 15.f4 b5
+16.axb5 axb5 17.f5 e5 18.Nd1 b4 19.c4 bxc3 20.Rxc3 Qb6+ 21.Qe3 Qb4 22.Nf2 Rxc3
+23.Qxc3 Rb8 24.Qxb4 Rxb4 25.Ra1 Rxb3 26.Ra8+ Bf8 27.Ra2 g6 28.g4 Bh6 29.h4 Be3
+30.Bf3 Bc6 31.Kg2 gxf5 32.gxf5 Bxf2 33.Kxf2 Bxe4 34.Be2 Bd5 35.Bc1 Rh3 36.Ra4 Ne4+
+37.Kg2 Rc3 38.Ra1 Rc2 39.Kf3 Nc3+ 40.Ke3 Rxe2+ 41.Kd3 Ra2  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "4"]
+[White "Damjanovic, Mato"]
+[Black "Kavalek, Lubomir"]
+[Result "1/2-1/2"]
+[WhiteElo "2465"]
+[BlackElo "2565"]
+[ECO "A21"]
+
+1.b3 e5 2.Bb2 d6 3.c4 Nf6 4.Nc3 g6 5.d4 exd4 6.Qxd4 Nc6 7.Qd2 Bg7 8.Nf3 O-O
+9.e3 Ne5 10.Be2 Bg4 11.Nxe5 dxe5 12.Rd1 Qxd2+ 13.Rxd2 Rfd8 14.Bxg4 Nxg4 15.Rc2 Rd7
+16.h3 Nf6 17.Ke2 Rad8 18.Rd1 Rxd1 19.Nxd1 Ne4 20.Nc3 Nxc3+  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "4"]
+[White "Saidy, Anthony Fred"]
+[Black "Porath, Yosef"]
+[Result "1-0"]
+[WhiteElo "2425"]
+[BlackElo "2340"]
+[ECO "E42"]
+
+1.c4 Nf6 2.d4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 cxd4 6.exd4 d5 7.c5 Ne4 8.Bd2 Nxd2
+9.Qxd2 Nc6 10.a3 Bxc3 11.Nxc3 O-O 12.Be2 b6 13.O-O a5 14.Na4 bxc5 15.dxc5 Rb8
+16.Nb6 e5 17.b4 axb4 18.axb4 Be6 19.Ra4 Nd4 20.Qe3 Qf6 21.Rd1 Rfd8 22.Bf1 Nf5
+23.Qf3 e4 24.Qf4 g5 25.Qc1 d4 26.Ra6 e3 27.Qb2 exf2+ 28.Qxf2 Qe5 29.Re1 Ne3
+30.Ra3 Qc7 31.Raxe3 dxe3 32.Qxe3 Qf4 33.Qxf4 gxf4 34.Re4 f3 35.gxf3 Rd2 36.Be2 Kg7
+37.Kf2 Kf6 38.Ke3 Rb2 39.b5 Ke7 40.Nd5+ Kd8 41.Nf4 Rb3+ 42.Kd4 Bf5 43.Re5 Bb1
+44.Nd5 R8xb5 45.Bxb5 Rxb5 46.c6 Rb2 47.c7+  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "4"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Camara, Helder"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[BlackElo "2405"]
+[ECO "A07"]
+
+1.Nf3 d5 2.g3 Bf5 3.Bg2 c6 4.O-O Nf6 5.d3 Nbd7 6.Nbd2 e6 7.Qe1 Bg6 8.e4 Bc5
+9.Nh4 Qc7 10.Nb3 Bb6 11.a4 a5 12.Bf4 e5 13.Bg5 dxe4 14.dxe4 h6 15.Nxg6 fxg6
+16.Be3 g5 17.Rd1 O-O 18.Qc3 Bxe3 19.Qxe3 Kh7 20.Qc3 b6 21.Rd2 c5 22.Qc4 Nb8
+23.Rfd1 Nc6 24.c3 Rad8 25.Bf1 Rxd2 26.Rxd2 Rd8 27.Qe6 Rxd2 28.Nxd2 Qd7 29.Qxd7 Nxd7
+30.Bb5 Ncb8 31.Nc4 Kg6 32.Kf1 Kf6 33.Ke2 Ke7 34.Ke3 Kd8 35.f4 gxf4+ 36.gxf4 exf4+
+37.Kxf4 Kc7 38.Kf5 Nf8 39.e5 Nbd7 40.Bxd7  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "4"]
+[White "Peretz, Malkiel"]
+[Black "Domnitz, Zadok"]
+[Result "1-0"]
+[WhiteElo "2365"]
+[BlackElo "2350"]
+[ECO "C69"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O f6 6.d4 Bg4 7.dxe5 Qxd1 8.Rxd1 Bxf3
+9.gxf3 fxe5 10.f4 Nf6 11.fxe5 Nxe4 12.f3 Nc5 13.Nc3 Be7 14.f4 Rf8 15.Be3 Ne6
+16.Rf1 g6 17.Rad1 Rd8 18.Rxd8+ Kxd8 19.Ne2 Ng7 20.Kg2 Nf5 21.Kf3 Kd7 22.Ke4 Ke6
+23.Rf3 c5 24.Rh3 h5 25.Rf3 Rd8 26.Rf1 h4 27.Rg1 Kf7 28.Nc3 c6 29.Kf3 Ng7
+30.Ne4 Ne6 31.Bf2 b5 32.Rg4 Rd1 33.Bxh4 Nd4+ 34.Kf2 Bxh4+ 35.Rxh4 Rc1 36.Rh7+ Ke6
+37.Ng5+ Kd5 38.b3 Rxc2+ 39.Kf1 Rc1+ 40.Kg2 Rc2+ 41.Kh3 Nxb3 42.axb3 Rc3+
+43.Kg4 Rxb3 44.Rd7+ Kc4 45.f5 gxf5+ 46.Kxf5 Rb2 47.e6 Rf2+ 48.Ke5 Rf8 49.Ne4  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "4"]
+[White "Pachman, Ludek"]
+[Black "Yanofsky, Daniel Abraham"]
+[Result "1-0"]
+[WhiteElo "2510"]
+[BlackElo "2460"]
+[ECO "D26"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.d4 c5 5.cxd5 Nxd5 6.e3 Nc6 7.Bc4 Nf6 8.O-O Be7
+9.Qe2 O-O 10.Rd1 cxd4 11.exd4 Nb4 12.Bg5 Nbd5 13.Ne5 Nxc3 14.bxc3 Nd5 15.Bxe7 Qxe7
+16.Qf3 Qd6 17.Bb3 Rb8 18.c4 Nf6 19.Qe3 Bd7 20.f4 Rbd8 21.a4 Bc6 22.a5 a6
+23.Bc2 g6 24.Rab1 Nd7 25.h4 Nxe5 26.fxe5 Qc7 27.Rb6 Qe7 28.h5 Qh4 29.hxg6 hxg6
+30.Bb3 Qg4 31.d5 exd5 32.Rd4 Qf5 33.cxd5 Bb5 34.Rf6 Qb1+ 35.Rd1 Qb2 36.d6 Kg7
+37.Rf2 Qa3 38.Qf3 Qc5 39.Qf6+ Kh7 40.Bxf7 Rg8 41.e6  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "4"]
+[White "Kaldor, Avraham"]
+[Black "Kraidman, Yair"]
+[Result "0-1"]
+[WhiteElo "2200"]
+[BlackElo "2455"]
+[ECO "B25"]
+
+1.e4 c5 2.Nc3 d6 3.g3 Nc6 4.Bg2 g6 5.d3 Bg7 6.f4 e6 7.Nf3 Nge7 8.O-O O-O
+9.Bd2 b6 10.Rb1 Bb7 11.a3 Rc8 12.e5 dxe5 13.Nxe5 Nd5 14.Ne4 Qc7 15.Nc4 Rcd8
+16.c3 Rd7 17.Qe2 Rfd8 18.Rbd1 Ba6 19.Bc1 Nf6 20.Ng5 Bb7 21.Rfe1 h6 22.Nf3 Ne8
+23.g4 Ba6 24.Qc2 Kh7 25.Qa4 Bb7 26.Nfe5 Nxe5 27.Nxe5 Bxg2 28.Kxg2 Qb7+ 29.Kg1 b5
+30.Qe4 Qxe4 31.Rxe4 Bxe5 32.Rxe5 Rxd3 33.Rxd3 Rxd3 34.Be3 Nf6 35.h3 a6 36.f5 Nd7
+37.Re4 gxf5 38.gxf5 exf5 39.Re7 Kg6 40.Kf2 Nf6 41.Ke2 c4 42.Ra7 Rd6 43.Bd4 Ne4
+44.Rc7 Ng5 45.Rc8 Nxh3 46.a4 Re6+ 47.Kf1 f4 48.a5 f3 49.Ra8 Kf5  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "5"]
+[White "Tatai, Stefano"]
+[Black "Kaldor, Avraham"]
+[Result "0-1"]
+[WhiteElo "2460"]
+[BlackElo "2200"]
+[ECO "D38"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.cxd5 Nxd5 6.Bd2 O-O 7.e4 Nxc3 8.bxc3 Be7
+9.Bc4 b6 10.Qe2 Nc6 11.O-O Na5 12.Bd3 c5 13.Rad1 Bb7 14.Bf4 cxd4 15.cxd4 Bf6
+16.d5 exd5 17.exd5 g6 18.Ba6 Re8 19.Qd3 Bxa6 20.Qxa6 Re4 21.Bg3 Qd7 22.Qd3 Rae8
+23.Rc1 Bd8 24.Nd2 Re2 25.Bf4 Qg4 26.g3 Nb7 27.Be3 Qh5 28.h3 Nc5 29.Bxc5 bxc5
+30.g4 Qh4 31.Kg2 R8e3 32.Qxe3 Rxe3 33.fxe3 Qg5 34.Nf3 Qxd5 35.Rcd1 Qa8 36.e4 Bf6
+37.Rd5 Qc6 38.g5 Be7 39.Ne5 Qa4 40.Nxf7 Qxe4+  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "5"]
+[White "Romm, Meir"]
+[Black "Pachman, Ludek"]
+[Result "0-1"]
+[WhiteElo "2200"]
+[BlackElo "2510"]
+[ECO "B42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Ne7 6.c4 Nbc6 7.Nc2 Qc7 8.f4 Ng6
+9.O-O Be7 10.Nc3 d6 11.Be3 O-O 12.Qh5 Re8 13.Rf3 Nf8 14.Rg3 g6 15.c5 dxc5
+16.e5 Kh8 17.Qh6 f5 18.exf6 Bxf6 19.Bxc5 Ne7 20.Ba3 Nf5 21.Bxf5 Bg7 22.Qh4 exf5
+23.Ne1 Be6 24.Rd1 Rad8 25.Rgd3 Rxd3 26.Rxd3 Bc4 27.Rd2 Qxf4 28.Qxf4 Rxe1+
+29.Kf2 Rf1+ 30.Ke3 Rxf4 31.Kxf4 Bh6+ 32.Ke5 Bxd2 33.Bxf8 Kg8 34.Bc5 Kf7 35.a3 Bc1
+36.Nd1 Bb3 37.Ne3 Bxb2+ 38.Kd6 b6 39.Bxb6 Bxa3+ 40.Ke5 Bb4  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "5"]
+[White "Porath, Yosef"]
+[Black "Reshevsky, Samuel Herman"]
+[Result "0-1"]
+[WhiteElo "2340"]
+[BlackElo "2565"]
+[ECO "E91"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 g6 4.Nc3 Bg7 5.e4 O-O 6.Be2 d6 7.O-O Bg4 8.Be3 Bxf3
+9.Bxf3 cxd4 10.Bxd4 Nc6 11.Be3 Nd7 12.Qd2 Qa5 13.Rac1 Nc5 14.Rfd1 Rfd8 15.Nd5 Qxa2
+16.b4 Qxd2 17.Bxd2 Nb3 18.Rb1 Nxd2 19.Rxd2 e6 20.Ne3 Bc3 21.Rc2 Bxb4 22.e5 a5  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "5"]
+[White "Kraidman, Yair"]
+[Black "Damjanovic, Mato"]
+[Result "1-0"]
+[WhiteElo "2455"]
+[BlackElo "2465"]
+[ECO "A58"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.Nf3 g6 8.Nd2 Bg7
+9.e4 Bxf1 10.Nxf1 Qa5 11.Nd2 Nfd7 12.Qc2 Qa6 13.a4 O-O 14.Nb5 Qb7 15.Nc4 Na6
+16.O-O Nb4 17.Qb3 f5 18.Bg5 Ne5 19.Nxe5 Bxe5 20.Bd2 fxe4 21.Bxb4 cxb4 22.Qxb4 Rf4
+23.g3 Qd7 24.Qd2 Qh3 25.Ra3 Rf3 26.Qc2 Rc8 27.Qe2 Rf5 28.f4 exf3 29.Raxf3 Qg4
+30.b3 Rf6 31.Kg2 Qb4 32.Na7 Rc3 33.Nc6 Qxb3 34.Nxe7+ Kg7 35.Rxf6 Bxf6 36.Qg4 Bxe7
+37.Qe6 Rc2+ 38.Kh1 Rc7 39.Rf7+ Kh8 40.Kg2 Qc2+ 41.Kh3 Qd1 42.Rxe7 Qf1+ 43.Kh4 Qc1
+44.Qf6+  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "5"]
+[White "Kavalek, Lubomir"]
+[Black "Friedman, Shmuel"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[BlackElo "2200"]
+[ECO "B27"]
+
+1.Nf3 g6 2.e4 c5 3.d4 cxd4 4.Qxd4 Nf6 5.Bb5 Nc6 6.Qa4 a6 7.O-O Rb8 8.Bxc6 bxc6
+9.e5 Nd5 10.Qh4 Bg7 11.c4 Nc7 12.Bh6 Ne6 13.Bxg7 Nxg7 14.b3 Nf5 15.Qf4 Bb7
+16.Nc3 c5 17.Rad1 Bxf3 18.Qxf3 O-O 19.Rd3 d6 20.Re1 Nd4 21.Qd1 Rb7 22.exd6 exd6
+23.Nd5 Kg7 24.h3 Re8 25.f4 Rxe1+ 26.Qxe1 Rb8 27.Re3 Rb7 28.Re8 Qd7 29.Re7 Qc8
+30.Qh4 Rxe7 31.Qf6+ Kh6 32.Nxe7 Qb8 33.Qxf7 Qh8 34.Ng8+ Kh5 35.Nf6+ Kh4 36.Kh2 Nf5
+37.Qe6  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "5"]
+[White "Domnitz, Zadok"]
+[Black "Czerniak, Moshe"]
+[Result "1-0"]
+[WhiteElo "2350"]
+[BlackElo "2370"]
+[ECO "B08"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 c6 4.Bc4 d6 5.Nf3 Nf6 6.Bb3 O-O 7.Bg5 Bg4 8.h3 Bxf3
+9.Qxf3 Nbd7 10.O-O Qa5 11.Be3 c5 12.Ne2 cxd4 13.Bxd4 Nc5 14.Nc3 Nfd7 15.Bxg7 Kxg7
+16.Qg3 Nf6 17.Rae1 Nxb3 18.axb3 e5 19.Qg5 h6 20.b4 hxg5 21.bxa5 Rac8 22.f3 Rc5
+23.Ra1 Rfc8 24.Rfd1 R8c6 25.Kf2 Kf8 26.Ra3 Ke7 27.Ke3 Kd7 28.Rb3 Kc8 29.Nb5 Kd7
+30.Nxa7 Rc7 31.Rb6 Ke7 32.Nb5 Rd7 33.c3 d5 34.b4 Rc4 35.exd5 Nxd5+ 36.Rxd5 Rxd5
+37.Rxb7+ Kd8 38.a6 Kc8 39.Rxf7 Rxb5 40.a7 Rxc3+ 41.Ke4 Ra3 42.Rf8+ Kd7 43.Rb8 Rxb4+
+44.Rxb4 Rxa7 45.Rb6 Ra2 46.g4 Re2+ 47.Kd3 Rh2 48.Rxg6 Rxh3 49.Ke4 Rh1 50.Rxg5 Re1+
+51.Kd5 Re3 52.Rf5 e4 53.fxe4 Ke7 54.Ke5 Re1 55.Rf2 Rg1 56.Rf4 Ra1 57.Kf5 Kf7
+58.e5 Rb1 59.e6+ Ke7 60.Re4 Rb8 61.Kg6 Rb1 62.g5 Rb8 63.Kh6 Rh8+ 64.Kg7 Rh2
+65.g6 Rh1 66.Kg8 Rh2 67.Re1 Rh3 68.Rf1 Rh2 69.Rf7+ Ke8 70.Rh7  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "5"]
+[White "Camara, Helder"]
+[Black "Peretz, Malkiel"]
+[Result "1/2-1/2"]
+[WhiteElo "2405"]
+[BlackElo "2365"]
+[ECO "A48"]
+
+1.Nf3 c5 2.e3 Nf6 3.d4 g6 4.c3 cxd4 5.cxd4 Bg7 6.Nc3 O-O 7.Bd3 d5 8.O-O Nc6
+9.Bd2 Bf5 10.Bb5 Ne4 11.Rc1 Rc8 12.Na4 Qd6 13.a3 Nxd2 14.Qxd2 b6 15.b4 Bd7
+16.Nc3 a5 17.Na4 Nxd4 18.Nxd4 Bxd4 19.Rxc8 Rxc8 20.Bxd7 Qxd7 21.Qxd4 Qxa4
+22.Qxb6 Qxa3 23.Qxa5 Qb3 24.Qb6 Qb2 25.h3 Rc4 26.Qd8+ Kg7 27.Qxe7 Rxb4 28.Rd1 Rb6
+29.Qc5 Rf6 30.e4 Qe2 31.Rb1 Qxe4 32.Rd1 d4 33.Qxd4 Qxd4 34.Rxd4 Ra6 35.h4 h5
+36.g3 Rb6 37.Kg2 Ra6 38.Kf3 Rf6+ 39.Rf4  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "5"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Saidy, Anthony Fred"]
+[Result "0-1"]
+[WhiteElo "2460"]
+[BlackElo "2425"]
+[ECO "D89"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O cxd4 11.cxd4 Bg4 12.f3 Na5 13.Bd3 Be6 14.Qa4 a6 15.Rad1 b5
+16.Qc2 Nc4 17.Bf2 Rc8 18.Qb1 Qa5 19.d5 Bd7 20.Bxc4 Rxc4 21.Nd4 Rfc8 22.Nb3 Qa3
+23.Rd3 Qd6 24.Bg3 Qb4 25.d6 Rc2 26.e5 exd6 27.Rxd6 Bf5 28.Qd1 Rxa2 29.Qd5 Qc4
+30.Nd4 Qxd5 31.Rxd5 Bd3 32.Rd1 Bf8 33.e6 Bc4 34.exf7+ Kxf7 35.Rd7+ Kg8 36.Be5 Re8
+37.f4 b4 38.Rc1 b3 39.Rb1 Rd2 40.h3 Rxe5 41.fxe5 Rxd4 42.Rc7 Bd5 43.Kf2 Rd2+  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Saidy, Anthony Fred"]
+[Black "Romm, Meir"]
+[Result "1-0"]
+[WhiteElo "2425"]
+[BlackElo "2200"]
+[ECO "E91"]
+
+1.c4 g6 2.d4 Bg7 3.Nc3 c5 4.d5 d6 5.e4 Nf6 6.Nf3 O-O 7.Be2 Bg4 8.h3 Bxf3
+9.Bxf3 Na6 10.O-O Nc7 11.Bf4 Nd7 12.Qd2 Re8 13.Rfd1 Rb8 14.Be2 a6 15.a4 Rf8
+16.Be3 Ne8 17.f4 Qa5 18.Kh1 Rd8 19.Qc2 Kh8 20.g3 Nef6 21.Kg2 Qc7 22.Bd3 Rde8
+23.Re1 e6 24.Bd2 exd5 25.exd5 Ng8 26.a5 Rxe1 27.Bxe1 f5 28.Bd2 Ndf6 29.Nd1 Re8
+30.Nf2 Qd7 31.Rh1 Nh6 32.b3 Kg8 33.Qd1 Ne4 34.Bxe4 fxe4 35.Re1 e3 36.Rxe3 Rxe3
+37.Bxe3 Nf5 38.Bd2 Qe7 39.Qf3 h5 40.Qd3 Qf6 41.g4 Nd4 42.Be3 hxg4 43.hxg4 Kf8
+44.Bxd4 cxd4 45.Nh3 Ke7 46.Kg3 Kd7 47.Ng5 Bh6 48.Ne6 g5 49.Qh7+ Ke8 50.Qg8+ Kd7
+51.fxg5 Qe5+ 52.Kh3 Qe3+ 53.Kh4  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Camara, Helder"]
+[Black "Porath, Yosef"]
+[Result "0-1"]
+[WhiteElo "2405"]
+[BlackElo "2340"]
+[ECO "D12"]
+
+1.d4 d5 2.Nf3 Nf6 3.e3 Bf5 4.c4 c6 5.Nc3 e6 6.Be2 Nbd7 7.O-O Bd6 8.b3 O-O
+9.Bb2 h6 10.h3 Qe7 11.Re1 Rad8 12.Bd3 Ne4 13.Qc2 Nxc3 14.Bxc3 Bxd3 15.Qxd3 f5
+16.a3 g5 17.Bb4 Kg7 18.Bxd6 Qxd6 19.c5 Qe7 20.g3 Qf6 21.Ra2 g4 22.hxg4 fxg4
+23.Nh4 e5 24.b4 e4 25.Qe2 h5 26.a4 Rf7 27.b5 Nf8 28.Kg2 Ng6 29.Rh1 Qf3+ 30.Kg1 Qxe2
+31.Rxe2 Nxh4 32.Rxh4 Kg6 33.Rb2 cxb5 34.axb5 b6 35.cxb6 axb6 36.Kg2 Rc8 37.Rh1 Ra7
+38.Rhb1 Ra5 39.Kf1 Kg5 40.Ke2 Ra7 41.Rd2 h4 42.gxh4+ Kxh4 43.Rh1+ Kg5 44.Rb2 Rac7
+45.Kf1 Rc1+ 46.Kg2 Rxh1 47.Kxh1 g3 48.Kg2 gxf2 49.Kxf2 Rc3 50.Ra2 Kg4 51.Rb2 Ra3  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Friedman, Shmuel"]
+[Black "Kraidman, Yair"]
+[Result "1/2-1/2"]
+[WhiteElo "2200"]
+[BlackElo "2455"]
+[ECO "B91"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nb3 Be7 8.Bg2 O-O
+9.h3 Be6 10.O-O b5 11.Be3 Nbd7 12.Nd5 Bxd5 13.exd5 Rc8 14.a4 b4 15.Qd3 Qc7
+16.Qxa6 Nb8 17.Qb5 Qxc2 18.Na5 Qxb2 19.Rac1 Rc3 20.Qb7 Nbd7 21.Nc6 Bd8 22.a5 Rxe3
+23.fxe3 Qa3 24.Rfe1 b3 25.Ra1 Qb2 26.Rab1 Qc3 27.Qxb3 Bxa5 28.Qxc3 Bxc3 29.Red1 e4
+30.Rb3 Be5 31.Nxe5 Nxe5 32.Rd4 Rc8 33.Rdb4 Rc1+ 34.Kh2 g6 35.g4 Rc2 36.Kg3 Nd3
+37.Rxe4 Ne1 38.Bh1 Nxe4+ 39.Bxe4 Rc4 40.Bh1 Nc2 41.Bf3 Kg7 42.Kf2 Rb4 43.Rc3 Rb2
+44.Kg3 Kf6 45.Be4 Nb4 46.Rc8 Na6 47.h4 h6 48.Bf3 Nc5 49.Rc6 Ke5 50.Rc7 Rb7
+51.Rc8 Ne4+ 52.Bxe4 Kxe4 53.Re8+ Kxd5 54.Kf3 Rb1 55.Re7 Rf1+ 56.Ke2 Rh1 57.g5 Rxh4
+58.gxh6 Rxh6 59.Rxf7 Rh5 60.Re7 Re5 61.Rg7 Re6 62.Ra7 Rf6 63.Ra5+ Ke6 64.Rg5 Kf7
+65.e4 Kg7 66.Rg1 Re6 67.Kf3 Kf6 68.Rd1 g5 69.Rd5 Kg6 70.Rd1 Kg7 71.Rd5 Kh6
+72.Rd1 Rg6 73.Kg4 Rf6 74.Rd5 Re6 75.Rxg5  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Yanofsky, Daniel Abraham"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2460"]
+[ECO "A04"]
+
+1.Nf3 g6 2.g3 Bg7 3.Bg2 c5 4.O-O Nc6 5.e4 e5 6.c3 Nge7 7.d3 O-O 8.a4 d6 9.Nbd2 h6
+10.Rb1 a5 11.Nc4 Be6 12.Nfd2 f5 13.f4 exf4 14.Rxf4 d5 15.exd5 Bxd5 16.Bxd5+ Nxd5
+17.Rf2 Re8 18.Qb3 Rb8 19.Nf3 Kh7 20.Bd2  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Damjanovic, Mato"]
+[Black "Tatai, Stefano"]
+[Result "1-0"]
+[WhiteElo "2465"]
+[BlackElo "2460"]
+[ECO "A01"]
+
+1.b3 e5 2.Bb2 Nc6 3.c4 Nf6 4.Nf3 d6 5.g3 Bg4 6.Bg2 Qd7 7.h3 Bh5 8.d3 Be7
+9.Nbd2 h6 10.a3 a5 11.Ne4 Nxe4 12.dxe4 Bxf3 13.Bxf3 Bf6 14.Bg4 Qe7 15.e3 g6
+16.Bc3 O-O 17.Be2 Bg7 18.h4 h5 19.g4 Bf6 20.gxh5 Bxh4 21.Bf3 Kg7 22.Ke2 g5
+23.Bg4 Kh6 24.Rh3 Nd8 25.Qg1 Ne6 26.Qg2 Rg8 27.Kd3 Ng7 28.Kc2 Nxh5 29.Rah1 Rg6
+30.Bf5 Rgg8 31.Qg4 a4 32.b4 Rad8 33.f4 f6 34.Be1 Qf7 35.Be6 Qh7 36.f5  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Kaldor, Avraham"]
+[Black "Domnitz, Zadok"]
+[Result "0-1"]
+[WhiteElo "2200"]
+[BlackElo "2350"]
+[ECO "E63"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.d4 Nc6 7.O-O a6 8.h3 Nd7
+9.e4 Na5 10.Qe2 c5 11.Be3 Nc6 12.Rad1 Qa5 13.Qd2 cxd4 14.Nxd4 Nde5 15.Qe2 Nxd4
+16.Bxd4 Be6 17.b3 b5 18.cxb5 axb5 19.f4 Nc6 20.Bxg7 Kxg7 21.Qb2 Bd7 22.e5 b4
+23.Na4 Qa7+ 24.Kh2 dxe5 25.fxe5 Kg8 26.Rxd7 Qxd7 27.Nb6 Qe6 28.Bd5 Qxe5 29.Qxe5 Rxa2+
+30.Kg1 Nxe5 31.Re1 e6  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Pachman, Ludek"]
+[Black "Kavalek, Lubomir"]
+[Result "1/2-1/2"]
+[WhiteElo "2510"]
+[BlackElo "2565"]
+[ECO "D94"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.cxd5 Nxd5 7.Bc4 Nb6 8.Bb3 c5
+9.O-O cxd4 10.exd4 Nc6 11.d5 Na5 12.Bg5 h6 13.Be3 Bg4 14.h3 Bxf3 15.Qxf3 Nxb3
+16.axb3 Bxc3 17.Bxb6 Qxb6 18.bxc3 e6 19.dxe6 Qxe6 20.c4 Qb6 21.Rad1 Rfd8  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Peretz, Malkiel"]
+[Black "Czerniak, Moshe"]
+[Result "0-1"]
+[WhiteElo "2365"]
+[BlackElo "2370"]
+[ECO "B08"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 c6 4.Bc4 d6 5.Nf3 Nf6 6.e5 dxe5 7.Nxe5 O-O 8.O-O Nbd7
+9.Qe2 Nb6 10.Bb3 Qxd4 11.Rd1 Qc5 12.Nd3 Qh5 13.Qxe7 Nbd5 14.Bxd5 Nxd5 15.Qe1 Nxc3
+16.bxc3 Bxc3 17.Qxc3 Qxd1+ 18.Ne1 Qh5 19.Ba3 c5 20.Bxc5 Re8 21.Nd3 Bd7 22.Ba3 Rac8
+23.Qd4 Qf5 24.h3 Re4 25.Qd6 Qe6 26.Qg3 b6 27.f3 Re2 28.Nf4 Qe3+ 29.Kh2 Rexc2
+30.Nd5 Qxa3 31.Nf6+ Kh8 32.Nxd7 Qb2 33.Rg1 f6 34.Qd6 Re8 35.f4 Rd2 36.Qc6 Qd4
+37.Nxf6 Qxf4+ 38.Kh1 Rf8 39.Ng4 Rd6 40.Qc7 h5 41.Nh2 Rd1 42.Qc3+ Qd4 43.Qxd4+ Rxd4
+44.Nf3 Ra4 45.Rc1 Kg7 46.Rc2 Rf5 47.Kh2 Rfa5 48.h4 Rxa2 49.Rc7+ Kf6 50.Rc6+ Kf7
+51.Ng5+ Rxg5 52.hxg5 b5 53.Rf6+ Kg7 54.Rc6 Rf2 55.Ra6 Rf7 56.Kg3 b4  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "7"]
+[White "Czerniak, Moshe"]
+[Black "Kaldor, Avraham"]
+[Result "1-0"]
+[WhiteElo "2370"]
+[BlackElo "2200"]
+[ECO "B05"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.h3 Bxf3 6.Qxf3 dxe5 7.dxe5 e6 8.Qe4 Nd7
+9.Bc4 c6 10.O-O Qc7 11.Re1 O-O-O 12.a3 Ne7 13.Nd2 Nf5 14.b4 Nb6 15.Bd3 Be7
+16.Nf3 Rd7 17.g4 Nh6 18.a4 Nd5 19.Bd2 Ng8 20.b5 c5 21.a5 Qb8 22.c4 Nb4 23.Bf1 h5
+24.Bxb4 cxb4 25.Nd4 hxg4 26.a6 gxh3 27.axb7+ Qxb7 28.Nc6 Bc5 29.Red1 Ne7
+30.Be2 Nf5 31.Rxd7 Kxd7 32.Bf3 Kc7 33.Qd3 h2+ 34.Kh1 Bxf2 35.Nxb4 Qb6 36.c5 Bxc5
+37.Na6+ Kc8 38.Qc4 Rh4 39.Qc3 Ng3+ 40.Kg2 h1=Q+ 41.Rxh1 Nxh1 42.Nxc5 Qxb5
+43.Ne4+ Kb8 44.Qa3 Rh8 45.Qd6+ Kc8 46.Qd4 Qb6 47.Nc5 Qd8 48.Qb4 Qc7 49.Qb5 g5
+50.Bc6 a5 51.Be4 Ng3 52.Na6 Qa7 53.Qc6+ Kd8 54.Qd6+ Kc8 55.Qc6+ Kd8 56.Nc5 Qc7
+57.Nb7+ Kc8 58.Nd6+ Kd8 59.Qa8+ Kd7 60.Qxh8 Qxd6 61.exd6 Nxe4 62.Qg7 Nxd6
+63.Qxg5 Ne8 64.Qb5+ Ke7 65.Qc5+ Kf6 66.Qxa5 Ng7 67.Kf3 Nf5 68.Kf4 Ng7 69.Qd8+  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "7"]
+[White "Domnitz, Zadok"]
+[Black "Damjanovic, Mato"]
+[Result "1-0"]
+[WhiteElo "2350"]
+[BlackElo "2465"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Ne7 6.Be2 Nbc6 7.Be3 b5 8.O-O Nxd4
+9.Bxd4 Nc6 10.Be3 Be7 11.f4 d6 12.a3 O-O 13.Bd3 Bd7 14.Qe1 Qc7 15.Qg3 Kh8
+16.Qh3 g6 17.f5 Bf6 18.Bh6 Ne5 19.fxg6 fxg6 20.Bxf8 Rxf8 21.Kh1 Kg7 22.Rad1 Qc5
+23.Ne2 h5 24.b4 Qc8 25.Nf4 Be7 26.Qe3 Nc6 27.Qd2 Ne5 28.h3 Qc7 29.Qe3 Kh7
+30.Ne2 Rc8 31.Ng1 Be8 32.Nf3 Nxf3 33.Rxf3 e5 34.Rdf1 Kg7 35.Qc1 Qd8 36.Qe3 Qd7
+37.Qb6 Rc6 38.Qf2 Rc7 39.Qg3 Qe6 40.Qf2 Qd7 41.Qe1 Qc8 42.Qa1 Qe6 43.a4 bxa4
+44.c4 Rb7 45.b5 axb5 46.cxb5 Ra7 47.Rc1 Bd8 48.Bc4 Qe7 49.Rcf1 Bb6 50.Bd5 Qc7
+51.Rf8 Bd4 52.Qe1 Bxb5 53.Qh4 Qe7 54.Rg8+ Kh7 55.Rf6 Be8 56.Rgf8 a3 57.Qg5 a2
+58.Rh8+ Kg7 59.Rxg6+ Bxg6 60.Rg8+  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "7"]
+[White "Kavalek, Lubomir"]
+[Black "Saidy, Anthony Fred"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[BlackElo "2425"]
+[ECO "B63"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O
+9.Nb3 a6 10.Bxf6 Bxf6 11.Qxd6 Bxc3 12.bxc3 Qf6 13.Qg3 e5 14.Bc4 Be6 15.Bxe6 Qxe6
+16.Rd5 Rac8 17.Rhd1 Rc7 18.Kb2 Qe7 19.Qe3 Rfc8 20.Qc5 f6 21.Rd6 Kf8 22.Qd5 Na7
+23.Re6 Qf7 24.Qd8+  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "7"]
+[White "Kraidman, Yair"]
+[Black "Pachman, Ludek"]
+[Result "1/2-1/2"]
+[WhiteElo "2455"]
+[BlackElo "2510"]
+[ECO "E41"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 Nc6 6.Nf3 Bxc3+ 7.bxc3 d6 8.e4 e5
+9.d5 Ne7 10.Nh4 h6 11.f4 Ng6 12.Nxg6 fxg6 13.fxe5 dxe5 14.O-O O-O 15.a4 a5
+16.Ra2 Qd6 17.Raf2 Bd7 18.Bc2 g5 19.Qe2 Bg4 20.Qe3 Bd7 21.Bd1 Ng4 22.Rxf8+ Rxf8
+23.Rxf8+ Kxf8 24.Qe1 Nf6 25.h4 gxh4 26.Qxh4 Qe7 27.Be3 b6 28.Qf2 Kg8 29.Qb2 Qd6
+30.Qb1 g5 31.Bf2 Kg7 32.Bg3 h5 33.Bc2 h4 34.Bf2 Nh5 35.Be3 Nf4 36.Qe1 Qf6
+37.Bd1 Kg6 38.Qd2 Kf7 39.d6 Kg6 40.Bxf4 Qxf4 41.Qd5  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "7"]
+[White "Peretz, Malkiel"]
+[Black "Porath, Yosef"]
+[Result "1-0"]
+[WhiteElo "2365"]
+[BlackElo "2340"]
+[ECO "A58"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 e6 6.Nc3 Nxd5 7.Nxd5 exd5 8.Qxd5 Nc6
+9.e3 Be7 10.Bd2 O-O 11.Nf3 Qb6 12.Qb3 Nb4 13.Bxb4 cxb4 14.Bd3 Bxa6 15.O-O Bb7
+16.Be2 Ra5 17.Rfd1 Bc6 18.Rd4 Ba4 19.Qc4 Rc5 20.Qa6 Qxa6 21.Bxa6 Ra8 22.Bd3 Rc7
+23.Kf1 Bb3 24.Ne5 d5 25.Bb5 Bxa2 26.Nd3 g6 27.Rc1 Rxc1+ 28.Nxc1 Ra5 29.Nxa2 Rxb5
+30.Ke2 f5 31.Nc1 Kf7 32.f3 Bf6 33.Rd2 Ke6 34.Nb3 Rb6 35.Rc2 Kd6 36.Kd3 Be5
+37.h3 Ra6 38.Nd4 Ra1 39.Rc6+ Kd7 40.Rb6 Rd1+ 41.Kc2 Bxd4 42.Rb7+ Kc6 43.Kxd1 Kxb7
+44.exd4 f4 45.b3 Kc6 46.Ke2 Kd6 47.Kf2 Ke6 48.Ke2 Kf5 49.Kf1 Kg5 50.Ke2 Kh4
+51.Kf2 g5 52.Kf1 h5 53.Kg1 Kg3 54.Kf1 g4 55.hxg4 hxg4 56.fxg4 Kxg4 57.Kf2 Kg5
+58.Ke2 Kg6 59.Kf2 Kf6 60.g4 fxg3+  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "7"]
+[White "Romm, Meir"]
+[Black "Reshevsky, Samuel Herman"]
+[Result "0-1"]
+[WhiteElo "2200"]
+[BlackElo "2565"]
+[ECO "B42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nc6 6.Nxc6 dxc6 7.O-O e5 8.f4 Nf6
+9.f5 Be7 10.Kh1 O-O 11.Qe2 b5 12.Nd2 Bb7 13.c4 Qd6 14.b3 Rfd8 15.Rf3 Rd7
+16.Bb2 Nh5 17.g3 Rad8 18.Nf1 Nf6 19.Bc2 Qc7 20.h3 Bc5 21.Rd1 Bb4 22.Rc1 c5
+23.Kg1 Qc6 24.Bxe5 Nxe4 25.Bxe4 Qxe4 26.Qxe4 Bxe4 27.Rf4 Bc6 28.cxb5 Bxb5
+29.f6 g5 30.Rf5 h6 31.Bc3 Rd1 32.Rxd1 Rxd1 33.Bb2 Kh7 34.Kg2 Bd3 35.Rf2 Be1
+36.Ne3 Rb1 37.Be5 Be4+ 38.Kg1 Bc3+  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "7"]
+[White "Tatai, Stefano"]
+[Black "Friedman, Shmuel"]
+[Result "1/2-1/2"]
+[WhiteElo "2460"]
+[BlackElo "2200"]
+[ECO "E74"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 c5 7.d5 h6 8.Be3 e6 9.h3 exd5
+10.exd5 Re8 11.Bd3 Na6 12.Nf3 Nc7 13.a4 Na6 14.O-O Nb4 15.Bb1 b6 16.Qc1 Kh7
+17.Bf4 Bf8 18.Bh2 Ba6 19.Qf4 Qe7  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "7"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Camara, Helder"]
+[Result "1-0"]
+[WhiteElo "2460"]
+[BlackElo "2405"]
+[ECO "C40"]
+
+1.e4 e5 2.Nf3 Qe7 3.Nc3 c6 4.Bc4 g6 5.d4 d6 6.dxe5 dxe5 7.Bg5 Nf6 8.h3 Bg7
+9.O-O O-O 10.Qd2 Nbd7 11.Rad1 Nb6 12.Bb3 Be6 13.Qd6 Qxd6 14.Rxd6 Bxb3 15.axb3 Ne8
+16.Rd3 Nc7 17.Ra1 f5 18.Be7 Rfe8 19.Bc5 Ne6 20.b4 Nc8 21.Rd7 b6 22.Be3 f4
+23.Bd2 b5 24.Ne2 Rd8 25.Rxd8+ Nxd8 26.Bc3 Nf7 27.Nc1 Ncd6 28.Nd3 Nxe4 29.Bxe5 Neg5
+30.Bxf4 Nxf3+ 31.gxf3 Bd4 32.Be3 Ne5 33.Bxd4 Nxf3+ 34.Kg2 Nxd4 35.c3 Nf5
+36.Ne5 Rc8 37.Rxa7 c5 38.bxc5 Rxc5 39.Nd7 Rc6 40.Rb7 Rd6 41.Nc5 Rd2 42.Rxb5 Ne3+
+43.Kg3 Nd1 44.Rb8+ Kf7 45.Rb7+ Kf8 46.Na4 h6 47.f3 Nf2 48.Rh7 Nh1+ 49.Kf4 Rg2
+50.b4 Kg8 51.Ra7 Nf2 52.b5  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "8"]
+[White "Saidy, Anthony Fred"]
+[Black "Kraidman, Yair"]
+[Result "1-0"]
+[WhiteElo "2425"]
+[BlackElo "2455"]
+[ECO "E62"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.d4 d6 6.Nf3 Nc6 7.O-O Bg4 8.d5 Bxf3
+9.exf3 Nb8 10.Re1 c6 11.Bd2 Nbd7 12.f4 cxd5 13.cxd5 Rc8 14.Qf3 Nc5 15.Bh3 Nfd7
+16.b4 Na6 17.a3 Nc7 18.Rac1 f5 19.Bg2 Nb6 20.Qd3 Ne8 21.Nb5 Rxc1 22.Rxc1 a6
+23.Nd4 Nc7 24.Be3 Nba8 25.Ne6 Nxe6 26.dxe6 Qb8 27.Qd5 b5 28.Qc6 Bb2 29.Rc2 Bf6
+30.Qxa6 d5 31.Ba7 Qd8 32.Qxb5 d4 33.Qd7 Kg7 34.Bb7 Nb6 35.Qxd8 Rxd8 36.Bxb6 d3
+37.Rd2  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "8"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Kavalek, Lubomir"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2565"]
+[ECO "E92"]
+
+1.Nf3 g6 2.d4 Nf6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.Be3 Qe7 8.dxe5 dxe5
+9.Nd5 Nxd5 10.cxd5 c6 11.O-O cxd5 12.exd5 e4 13.Nd4 a6 14.Qb3 Nd7 15.Rfd1 Be5
+16.Rd2 Bd6 17.g3 Ne5  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "8"]
+[White "Pachman, Ludek"]
+[Black "Tatai, Stefano"]
+[Result "1/2-1/2"]
+[WhiteElo "2510"]
+[BlackElo "2460"]
+[ECO "E68"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 Nf6 4.Nc3 O-O 5.d4 d6 6.Nf3 Nbd7 7.O-O e5 8.e4 c6
+9.Rb1 a6 10.h3 b5 11.c5 b4 12.Na4 d5 13.dxe5 Nxe4 14.Nd4 Bb7 15.e6 Ndxc5
+16.Nxc5 Nxc5 17.exf7+ Rxf7 18.Be3 Qd6 19.Rc1 Ne4 20.Nxc6 Bxc6 21.Bxe4 Rd8
+22.Bc5 Qd7 23.Bg2 Bxb2 24.Rb1 Ba4 25.Qg4 Qxg4 26.hxg4 Bc3 27.Bxb4 d4 28.Rfc1 Rc7
+29.Be4 a5 30.Bxc3 dxc3 31.Bc2 Rd4 32.Bxa4 Rxa4 33.Rb3 Rac4 34.Rc2 a4 35.Rb8+ Kf7
+36.g5 Ke6 37.Kf1 Kf5 38.Rb5+ R7c5 39.Rb7 Kxg5 40.Rxh7  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "8"]
+[White "Friedman, Shmuel"]
+[Black "Domnitz, Zadok"]
+[Result "1/2-1/2"]
+[WhiteElo "2200"]
+[BlackElo "2350"]
+[ECO "E62"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.O-O Nc6 7.d4 e5 8.h3 exd4
+9.Nxd4 Nxd4 10.Qxd4 Be6 11.Qd3 Nd7 12.b3 Nc5 13.Qd2 c6 14.Bb2 a5 15.Nd1 Qe7
+16.Bxg7 Kxg7 17.Ne3 f5 18.Rad1 Rfd8 19.Kh2 Bg8 20.Qc2 Qe5 21.Rd2  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "8"]
+[White "Damjanovic, Mato"]
+[Black "Czerniak, Moshe"]
+[Result "1-0"]
+[WhiteElo "2465"]
+[BlackElo "2370"]
+[ECO "A12"]
+
+1.b3 d5 2.Bb2 Nf6 3.Nf3 Bf5 4.c4 e6 5.g3 Nbd7 6.Bg2 h6 7.O-O Be7 8.d3 O-O
+9.Nbd2 c6 10.a3 a5 11.Bc3 b5 12.Nd4 Qb6 13.Nxf5 exf5 14.cxd5 Nxd5 15.Bb2 Bf6
+16.Qc2 Rac8 17.Rac1 Bxb2 18.Qxb2 N7f6 19.b4 axb4 20.axb4 Qd8 21.Nf3 Qd6 22.Nd4 g6
+23.Rb1 Rfe8 24.Rfc1 Nd7 25.Qd2 Kg7 26.e4 N5f6 27.Qc3 fxe4 28.dxe4 Kh7 29.Rd1 Qf8
+30.Nb3 Qe7 31.Rbc1 Nb6 32.Nc5 Red8 33.f3 Rxd1+ 34.Rxd1 Rd8 35.Rxd8 Qxd8 36.Bf1 Ne8
+37.Nb7 Qd7 38.Na5 Na4 39.Qxc6 Qd4+ 40.Kg2 Qd2+ 41.Kh3 Nd6 42.Nb7 Qf2 43.Nxd6 Qxf1+
+44.Kg4 h5+ 45.Kf4 Qe1 46.Nxf7 Qd2+ 47.Ke5 Qxb4 48.Nd6 Qb2+ 49.Ke6 Qb3+ 50.Ke7 Qxf3
+51.Qxb5 Nc3 52.Qe5 Ne2 53.Ke8 Qc3 54.Qxc3 Nxc3 55.Kf7 h4 56.e5 Kh6 57.e6 Nd5
+58.Ne4 hxg3 59.hxg3 Nc7 60.e7 Kh5 61.Nf2  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "8"]
+[White "Camara, Helder"]
+[Black "Romm, Meir"]
+[Result "0-1"]
+[WhiteElo "2405"]
+[BlackElo "2200"]
+[ECO "B35"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Bg7 5.Nc3 Nc6 6.Be3 Nf6 7.Bc4 Qa5 8.O-O O-O
+9.Bb3 d6 10.h3 Bd7 11.f4 a6 12.Qf3 Qc7 13.Nxc6 Bxc6 14.Rae1 b5 15.a3 e6 16.Bd4 Qb7
+17.Qe2 a5 18.f5 e5 19.fxg6 exd4 20.Rxf6 Bxf6 21.Nd5 Bxd5 22.Bxd5 Qe7 23.Qh5 hxg6
+24.Qxg6+ Bg7 25.Rf1 Ra7 26.Rf4 Qe5 27.Rg4 d3 28.cxd3 Rc8 29.Qh6 Kf8  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "8"]
+[White "Porath, Yosef"]
+[Black "Yanofsky, Daniel Abraham"]
+[Result "1/2-1/2"]
+[WhiteElo "2340"]
+[BlackElo "2460"]
+[ECO "E91"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 g6 4.Nc3 Bg7 5.e4 O-O 6.Be2 d6 7.O-O Bg4 8.d5 Na6
+9.h3 Bd7 10.e5 dxe5 11.Nxe5 Bf5 12.g4 Bc8 13.Be3 Nxd5 14.Qxd5 Qxd5 15.Nxd5 Bxe5
+16.Nxe7+ Kg7 17.Bf3 Rb8 18.Nxc8 Rfxc8 19.Rad1 Rc7  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "8"]
+[White "Peretz, Malkiel"]
+[Black "Kaldor, Avraham"]
+[Result "1-0"]
+[WhiteElo "2365"]
+[BlackElo "2200"]
+[ECO "B09"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4 Nf6 5.Nf3 c5 6.e5 Nfd7 7.exd6 O-O 8.Be2 exd6
+9.O-O cxd4 10.Nb5 Nf6 11.Nbxd4 Nc6 12.Kh1 Ne4 13.c3 Bg4 14.Be3 Re8 15.Bg1 Qa5
+16.f5 Re7 17.Nd2 Bxd4 18.Bxg4 Bxg1 19.Nxe4 Rxe4 20.Bf3 Re5 21.fxg6 hxg6 22.Rxg1 Qc7
+23.Rf1 Ne7 24.Qb3 d5 25.Rae1 Kg7 26.Qd1 Rh8 27.h3 Nf5 28.Rxe5 Qxe5 29.Re1 Qg3
+30.Bg4 Nh4 31.Qd4+ Kh7 32.Re2 Rd8 33.Qf2 Qxf2 34.Rxf2 f5 35.Be2 f4 36.Rxf4 Nf5
+37.Bd3 Nd6 38.Kh2 Kh6 39.Rh4+ Kg5 40.Rg4+ Kf6 41.Rxg6+  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "9"]
+[White "Domnitz, Zadok"]
+[Black "Pachman, Ludek"]
+[Result "0-1"]
+[WhiteElo "2350"]
+[BlackElo "2510"]
+[ECO "C75"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 Nge7 7.Bb3 h6 8.Nbd2 Ng6
+9.Nc4 Be7 10.dxe5 dxe5 11.Ne3 Bg5 12.O-O Bxe3 13.Bxe3 Qf6 14.Nd2 Nf4 15.Bxf4 exf4
+16.Qh5 O-O 17.Nf3 Rfe8 18.Rfe1 Re5 19.Nxe5 Nxe5 20.Bd1 Rd8 21.Be2 Kh7 22.g4 f3
+23.g5 Qf4 24.Bf1 Rh8  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "9"]
+[White "Kaldor, Avraham"]
+[Black "Damjanovic, Mato"]
+[Result "0-1"]
+[WhiteElo "2200"]
+[BlackElo "2465"]
+[ECO "B24"]
+
+1.e4 c5 2.Nc3 Nc6 3.f4 d6 4.Nf3 e6 5.g3 Be7 6.Bg2 Nf6 7.d3 a6 8.O-O O-O 9.Kh1 Ne8
+10.a3 Nc7 11.d4 cxd4 12.Nxd4 Nxd4 13.Qxd4 Bd7 14.a4 Bc6 15.Be3 d5 16.Rfd1 Qc8
+17.Qd3 dxe4 18.Nxe4 Nd5 19.Bd4 f5 20.Nc3 Rd8 21.Nxd5 Bxd5 22.c3 Bf6 23.Qe2 Bxd4
+24.Rxd4 Bxg2+ 25.Kxg2 Rxd4 26.cxd4 Qc6+ 27.Kg1 Rd8 28.Rd1 Rd6 29.b3 h6 30.Qd3 Kh8
+31.Rd2 Qd7 32.Kg2 Kh7 33.g4 g6 34.gxf5 gxf5 35.Qf3 Qg7+ 36.Kh3 Rc6 37.Rg2 Qxd4
+38.Rg3 Qf6 39.Qh5 Rc8 40.Qf3 Rc7 41.Qe3 Qf7 42.Qe2 b5 43.axb5 axb5 44.Re3 Rc6
+45.Rg3 b4 46.Qf3 Rc3 47.Qd1 Qb7 48.Qh5 Rxg3+ 49.Kxg3 Qg7+ 50.Kf2 Qb2+ 51.Kg1 Qc1+
+52.Kg2 Qd2+ 53.Kg3 Qe3+ 54.Kg2 Kg7 55.Qe8 Qe2+ 56.Kg1 Qg4+ 57.Kh1 Qxf4 58.Qe7+ Kg6
+59.Qxe6+ Kg5 60.Qg8+ Kh4 61.Qd8+ Kg4 62.Qg8+ Kf3 63.Qg2+ Ke3 64.Qg1+ Ke2  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "9"]
+[White "Kavalek, Lubomir"]
+[Black "Camara, Helder"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2405"]
+[ECO "B42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nc6 6.Nxc6 dxc6 7.Nd2 e5 8.Qh5 Bd6
+9.Nc4 Nf6 10.Qg5 O-O 11.O-O Bc7 12.a4 h6 13.Qg3 Nh5 14.Qf3 Nf4 15.Nxe5 Nxg2
+16.Qxg2 Bxe5 17.f4 Bxb2 18.Bxb2 Qb6+ 19.Kh1 Qxb2 20.Rg1 g6 21.e5 Kh8 22.f5 Qxe5
+23.Rae1 Qf6 24.fxg6 fxg6 25.Qxg6 Qxg6 26.Rxg6 Bf5 27.Rxh6+ Kg7 28.Rd6 Bxd3
+29.Rg1+ Kh8 30.Rxd3 Rf7 31.a5 Re8 32.Rgd1 Re5 33.Rh3+ Kg7 34.Rg3+ Kf8 35.Rd8+ Ke7
+36.Rb8 Kd6 37.Rd8+ Kc7 38.Rgg8 Rxa5 39.Rc8+ Kb6 40.Rg3 Rb5 41.Kg2 Rb2 42.Rc3 Kb5
+43.Re8 Kb4 44.Ree3 Re7 45.Rb3+ Rxb3 46.Rxe7 Rc3 47.Rxb7+ Ka4 48.h4 Rxc2+
+49.Kf3 c5 50.Ke4 Rd2 51.h5 Rh2 52.Kd5 Rxh5+ 53.Kc4 Rh1 54.Kxc5 a5 55.Rg7 Rb1
+56.Rg3 Rb5+ 57.Kc4 Rb8 58.Kc5 Rb2  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "9"]
+[White "Kraidman, Yair"]
+[Black "Reshevsky, Samuel Herman"]
+[Result "1/2-1/2"]
+[WhiteElo "2455"]
+[BlackElo "2565"]
+[ECO "E56"]
+
+1.c4 Nf6 2.d4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 c5 7.O-O Nc6 8.Ne2 dxc4
+9.Bxc4 cxd4 10.Nexd4 Bd7 11.a3 Be7 12.b4 Rc8 13.Bd3 Nxd4 14.Nxd4 Bc6 15.Nxc6 Rxc6
+16.Qe2 Nd5 17.Bb2 Nc3 18.Qc2 Ne4 19.Qe2 Nc3 20.Qc2 Ne4  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "9"]
+[White "Romm, Meir"]
+[Black "Porath, Yosef"]
+[Result "1/2-1/2"]
+[WhiteElo "2200"]
+[BlackElo "2340"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Nbd7 6.Nf3 Be7 7.Ng3 c5 8.Bd3 b6
+9.Qe2 Bb7 10.Rd1 cxd4 11.Nxd4 O-O 12.O-O Nc5 13.Bb5 Qc7 14.b4 a6 15.Bc4 Nce4
+16.Nxe4 Nxe4 17.Nxe6 fxe6 18.Bxe6+ Kh8 19.Rd7 Qxd7 20.Bxd7 Bxg5 21.f3 Nc3
+22.Qe6 Rad8 23.a3 Bd5 24.Qg4 Bf6 25.Re1 b5 26.Bf5 Bg8 27.Bd3 Rfe8 28.Rxe8 Rxe8
+29.Kf1 Re6 30.Bxh7 Nd5 31.Qh3 Nf4 32.Bxg8+ Nxh3 33.Bxe6 Nf4 34.Bc8 Nd5 35.Bxa6 Nc7
+36.Bb7 Bb2 37.Ke2 Bxa3 38.c3 Bc1 39.Kd3 Bf4 40.g3 Bd6 41.Bc6 Kg8 42.c4 Bxb4
+43.cxb5 Bc5 44.Ke4 Kf7 45.f4 Kf6 46.h4 g6 47.Kf3 Ne6 48.Bd7 Nd4+ 49.Ke4 Nf5
+50.Bxf5 gxf5+ 51.Kf3 Kg6 52.g4 Bb6 53.h5+ Kh6 54.gxf5 Kxh5 55.Ke4 Kh6 56.Ke5 Kg7
+57.Ke6 Kf8  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "9"]
+[White "Tatai, Stefano"]
+[Black "Saidy, Anthony Fred"]
+[Result "0-1"]
+[WhiteElo "2460"]
+[BlackElo "2425"]
+[ECO "D87"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 c5 8.Ne2 Nc6
+9.Be3 O-O 10.O-O Qc7 11.Rc1 Rd8 12.Bf4 Qd7 13.d5 Na5 14.Bd3 b5 15.Rb1 a6
+16.Qc1 e6 17.Qa3 c4 18.Bc2 Nb7 19.dxe6 Qxe6 20.Rbd1 Bd7 21.Bg5 Bf8 22.Qc1 f6
+23.Be3 Nc5 24.Nf4 Qf7 25.Qd2 Be7 26.f3 Bc6 27.Qf2 Ne6 28.Ne2 Rxd1 29.Rxd1 Rd8
+30.Rf1 Qf8 31.h4 Bc5 32.Nd4 Nxd4 33.cxd4 Bb6 34.h5 Qa3 35.hxg6 hxg6 36.Rd1 Qxa2
+37.f4 b4 38.Qg3 Be8 39.Bb1 Qb3 40.Qf3 c3 41.Qe2 Qa4  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "9"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Peretz, Malkiel"]
+[Result "1/2-1/2"]
+[WhiteElo "2460"]
+[BlackElo "2365"]
+[ECO "A58"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 g6 7.Nf3 d6 8.Nd2 Bg7
+9.e4 Bxf1 10.Nxf1 O-O 11.Ne3 Nbd7 12.O-O Qb6 13.Qc2 Rfb8 14.Nc4 Qb4 15.b3 Ng4
+16.Bd2 Nge5 17.Ne3 Qd4 18.Ne2 Qd3 19.Qxd3 Nxd3 20.Bc3 Nf4 21.Nxf4 Bxc3 22.Rab1 Rxa2
+23.Nc4 Bd4 24.Nd3 Nf6 25.Rfe1 Bc3 26.Re3 Ng4 27.Nc1 Nxe3 28.Nxa2 Nxc4 29.Nxc3 Nd2
+30.Rc1 Rxb3 31.f3 Kg7 32.Rc2 Nc4 33.Ne2 Ne3 34.Ra2 f5 35.Kf2 fxe4 36.Nc1 Nd1+
+37.Ke1 Nc3 38.Nxb3 Nxa2 39.fxe4 Nc3 40.Nd2 Kf6 41.Kf2 e6 42.dxe6 Kxe6 43.Ke3 d5
+44.exd5+ Nxd5+ 45.Ke4 Nf6+ 46.Kd3 Kd5 47.Nf3 c4+ 48.Kd2 Kc5 49.Kc2 Nd5 50.Ng5 Kd4
+51.Ne6+ Ke5 52.Ng5 Nf6 53.Nf3+ Kd5 54.Kc3 Kc5 55.Ng5 Nd5+ 56.Kc2 h6 57.Nf7 Kd4
+58.Nxh6 Ne3+ 59.Kc1 Nxg2 60.Nf7 Kc3 61.Ne5 Nf4 62.Nf3 Kd3 63.Kd1 c3 64.Ne5+ Kd4
+65.Nc6+ Kc5 66.Ne7 Kc4 67.Kc2 g5 68.Nc6 Nd5 69.Ne5+ Kb4 70.Nc6+ Kb5 71.Ne5 Kc5
+72.Nf3 Kc4 73.Ne5+ Kc5 74.Nf3 Kc4 75.Ne5+ Kc5  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "9"]
+[White "Czerniak, Moshe"]
+[Black "Friedman, Shmuel"]
+[Result "0-1"]
+[WhiteElo "2370"]
+[BlackElo "2200"]
+[ECO "B20"]
+
+1.e4 c5 2.g3 Nc6 3.Bg2 g6 4.Ne2 Bg7 5.O-O d6 6.d3 e6 7.f4 Nge7 8.Nd2 Nd4
+9.c3 Nxe2+ 10.Qxe2 O-O 11.Nf3 Rb8 12.Be3 b5 13.d4 cxd4 14.Nxd4 Bd7 15.Rad1 Qc7
+16.Rd2 a6 17.Rfd1 Rfd8 18.g4 b4 19.c4 e5 20.Nb3 exf4 21.Bxf4 Be5 22.Qf3 Be6
+23.Bf1 Nc6 24.Nc1 Qe7 25.Be3 Bg7 26.Bf4 Be5 27.Be2 a5 28.b3 a4 29.Be3 Bc3
+30.Rc2 Ra8 31.Bf4 Nd4 32.Rxd4 Bxd4+ 33.Kg2 axb3 34.axb3 Ra1 35.h3 Bc8 36.Bd3 Bb7
+37.Bd2 Bc5 38.Bh6 Re8 39.Re2 g5 40.Re1 Qe5 41.Rf1 f6 42.Qe2 Qc3 43.Qc2 Qxc2+
+44.Bxc2 Be3 45.Rxf6 Rxc1 46.Bd3 Rd1  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "10"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Romm, Meir"]
+[Result "1-0"]
+[WhiteElo "2460"]
+[BlackElo "2200"]
+[ECO "E14"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 c5 4.d4 a6 5.e3 b6 6.Bd3 Be7 7.O-O Bb7 8.Qe2 Nc6
+9.Rd1 d6 10.a3 O-O 11.Bb1 Qc7 12.b3 Rae8 13.Bb2 Nb8 14.Bc2 Nbd7 15.d5 e5
+16.Ng5 h6 17.Nf3 Nh7 18.g4 Bd8 19.h3 g6 20.Nh2 f5 21.gxf5 gxf5 22.Qh5 Kh8
+23.Kh1 Bg5 24.f4 Ndf6 25.Qf3 Bh4 26.Rg1 e4 27.Qe2 Rg8 28.Na4 Rxg1+ 29.Rxg1 Rg8
+30.Rg2 Rxg2 31.Qxg2 b5 32.cxb5 axb5 33.Nc3 Qd7 34.Qg6 b4 35.Qxh6 bxa3 36.Ba1 Be1
+37.Nxe4  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "10"]
+[White "Saidy, Anthony Fred"]
+[Black "Domnitz, Zadok"]
+[Result "1/2-1/2"]
+[WhiteElo "2425"]
+[BlackElo "2350"]
+[ECO "E82"]
+
+1.c4 Nf6 2.Nc3 g6 3.d4 Bg7 4.e4 d6 5.f3 O-O 6.Be3 b6 7.Bd3 Bb7 8.Nge2 c5
+9.d5 e6 10.O-O Nbd7 11.Ng3 Ne5 12.Be2 exd5 13.cxd5 a6 14.a4 Re8 15.Qd2 Qc7
+16.Rac1 Bc8 17.b3 Rb8 18.b4 Ned7 19.Rfe1 Qd8 20.b5 a5 21.f4 Bb7 22.Bc4 h5
+23.e5 dxe5 24.f5 h4 25.Nge4 Nxe4 26.Nxe4 gxf5 27.Nd6  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "10"]
+[White "Peretz, Malkiel"]
+[Black "Damjanovic, Mato"]
+[Result "1-0"]
+[WhiteElo "2365"]
+[BlackElo "2465"]
+[ECO "B47"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Qc7 6.Be2 a6 7.O-O Nf6 8.Kh1 Bb4
+9.Nxc6 dxc6 10.f4 Bxc3 11.bxc3 O-O 12.e5 Nd5 13.Bd3 b5 14.Qh5 f5 15.exf6 Nxf6
+16.Qh4 c5 17.c4 Bb7 18.Qh3 bxc4 19.Qxe6+ Kh8 20.Bxc4 Rad8 21.Rb1 Rd4 22.Bxa6 Bd5
+23.Qe2 Re8 24.Qf2 Ne4 25.Qh4 Nc3 26.Rb3 Bxb3 27.axb3 Qe7 28.Qxe7 Rxe7 29.Bb2 Rd6
+30.Bd3 Nd5 31.f5 Nf6 32.h3 h6 33.Ra1 h5 34.Ra5 Rd5 35.Ra6 Rf7 36.Kh2 Rf8
+37.Kg3 Rdd8 38.Kh4 Ra8 39.Rc6 Rac8 40.Ra6 Ra8 41.Rc6 Rac8 42.Rxc8 Rxc8 43.Kg5 Rc6
+44.g4 hxg4 45.hxg4 Nd5 46.Be5 Nb4 47.Be4 Rc8 48.Kg6 Re8 49.Bxg7+ Kg8 50.f6 Re6
+51.g5 Nc6 52.Bxc6 Rxc6 53.Kh6 Rc7 54.g6  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "10"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Tatai, Stefano"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2460"]
+[ECO "A05"]
+
+1.Nf3 Nf6 2.g3 g6 3.b3 Bg7 4.Bb2 O-O 5.Bg2 c5 6.c4 Nc6 7.O-O d5 8.cxd5 Nxd5
+9.Bxg7 Kxg7 10.Qc1 b6 11.d4 Nxd4 12.Nxd4 cxd4 13.Qc4 Be6 14.Qxd4+ Nf6 15.Qa4 Rc8
+16.Qxa7 Qd6 17.Na3 Rfd8 18.Qa6 Qb4 19.Nc4 Bxc4 20.bxc4 Qxc4 21.Qxb6 Rd2 22.a4 Qxe2
+23.a5 Nd5 24.Qb7 Rc7 25.Qb8 Rc6 26.Qb7 Rf6 27.Qa7 Nb4 28.Rae1 Qa6 29.Rxe7 Ra2
+30.Qb8 Qxa5 31.Re8 Qc5 32.Rg8+ Kh6 33.Qf8+ Qxf8 34.Rxf8 Kg7 35.Rd8 Nc6 36.Rd5 Ne7
+37.Rd7 Nc6 38.f4 Nb4 39.Rd4 Rb2 40.Rfd1 Ra6 41.R1d2 Rxd2 42.Rxd2 Ra1+ 43.Kf2 Ra2
+44.Rxa2 Nxa2 45.Ke3 Nc3 46.Bc6 f5 47.Kd3 Na2 48.Kc4 Nc1 49.Bb5 Ne2 50.Kd3 Nxf4+
+51.gxf4 g5 52.fxg5 h6  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "10"]
+[White "Porath, Yosef"]
+[Black "Kavalek, Lubomir"]
+[Result "0-1"]
+[WhiteElo "2340"]
+[BlackElo "2565"]
+[ECO "E69"]
+
+1.d4 g6 2.c4 Bg7 3.Nf3 d6 4.Nc3 Nd7 5.g3 Ngf6 6.Bg2 O-O 7.O-O e5 8.e4 c6
+9.h3 Qb6 10.dxe5 dxe5 11.Qe2 a5 12.Be3 Qb4 13.c5 a4 14.a3 Qa5 15.Nd2 b5 16.Na2 Rd8
+17.Nb4 Qc7 18.Kh2 Nh5 19.Nf3 Re8 20.Rfd1 Bf8 21.Qc2 Ndf6 22.Nd2 Be6 23.b3 Nd7
+24.Rdc1 axb3 25.Nxb3 Ra4 26.Nd2 Rea8 27.Qb2 Nb8 28.Nb1 R4a5 29.Nc3 Bc4 30.Bf1 Bxf1
+31.Rxf1 Qa7 32.Rfc1 Nf6 33.Ncd5 cxd5 34.c6 Qc7 35.Nxd5 Nxd5 36.exd5 Bd6 37.Bc5 Na6
+38.Bxd6 Qxd6 39.Qc3 Nc7 40.Qc5 Qxd5  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "10"]
+[White "Camara, Helder"]
+[Black "Kraidman, Yair"]
+[Result "0-1"]
+[WhiteElo "2405"]
+[BlackElo "2455"]
+[ECO "E19"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 Ne4 7.Qc2 Nxc3 8.Qxc3 O-O
+9.O-O Be4 10.Ne1 Bxg2 11.Nxg2 Bf6 12.Qf3 Nc6 13.e3 Na5 14.b3 c5 15.Ba3 d6
+16.Rad1 cxd4 17.exd4 Rc8 18.Qd3 Re8 19.d5 e5 20.Qe4 Nb7 21.Ne3 Nc5 22.Bxc5 bxc5
+23.Kg2 Rc7 24.Rd3 g6 25.f4 exf4 26.Qxf4 Bg5 27.Qf3 Rce7 28.Nd1 f5 29.Rf2 Bf6
+30.Rdd2 Re1 31.Rf1 R1e4 32.Nf2 Re3 33.Qd1 Qe7 34.Qc2 Bd4 35.Kh1 Re2 36.Rxe2 Qxe2
+37.Qxe2 Rxe2 38.Nd3 Rxa2 39.Nf4 Kf7 40.Ne6 Be5 41.Rb1 a5 42.Re1 Bf6 43.Nc7 g5
+44.Re6 a4 45.bxa4 Rxa4 46.Ne8 Be7 47.Nxd6+ Bxd6 48.Rxd6 Rxc4 49.Kg2 Rc2+
+50.Kg1 Rd2 51.h4 gxh4 52.gxh4 h5 53.Kf1  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "10"]
+[White "Pachman, Ludek"]
+[Black "Czerniak, Moshe"]
+[Result "1-0"]
+[WhiteElo "2510"]
+[BlackElo "2370"]
+[ECO "A21"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 e5 4.Nc3 Ne7 5.Nf3 O-O 6.O-O d6 7.Rb1 f5 8.d3 Nd7
+9.Bg5 h6 10.Bxe7 Qxe7 11.b4 Nf6 12.b5 g5 13.Nd2 Qf7 14.Nd5 Nh7 15.e3 f4 16.Qe2 Be6
+17.exf4 gxf4 18.gxf4 c6 19.bxc6 bxc6 20.f5 Bxd5 21.cxd5 cxd5 22.Rb5 Nf6 23.Rfb1 Rac8
+24.Nf1 d4 25.Ng3 Rfd8 26.h3 Rc7 27.Rb7 Rxb7 28.Rxb7 Rd7 29.Rb8+ Bf8 30.Kh2 Kh7
+31.Ne4 Nxe4 32.Qxe4 d5 33.Qxe5 Qe7 34.f4 Qxe5 35.fxe5  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "10"]
+[White "Friedman, Shmuel"]
+[Black "Kaldor, Avraham"]
+[Result "0-1"]
+[WhiteElo "2200"]
+[BlackElo "2200"]
+[ECO "A21"]
+
+1.c4 g6 2.Nc3 Bg7 3.g3 e5 4.Bg2 d6 5.Nf3 f5 6.d3 Ne7 7.e4 O-O 8.exf5 Nxf5
+9.O-O c6 10.Rb1 a5 11.a3 h6 12.b4 axb4 13.axb4 Nd7 14.Qb3 Kh8 15.Ba3 g5 16.h3 Nf6
+17.c5 Qe8 18.Bb2 g4 19.Nh2 gxh3 20.Bh1 d5 21.Ne2 d4 22.Ra1 Rxa1 23.Rxa1 Be6
+24.Qd1 Bd5 25.Ra7 Bxh1 26.Kxh1 Qf7 27.Ng1 Qd5+ 28.Nhf3 Ng4 29.Nxh3 Nge3 30.fxe3 Nxe3
+31.Qe2 Rxf3 32.Kh2 Ng4+  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "11"]
+[White "Tatai, Stefano"]
+[Black "Camara, Helder"]
+[Result "1-0"]
+[WhiteElo "2460"]
+[BlackElo "2405"]
+[ECO "C03"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nc6 4.Ngf3 dxe4 5.Nxe4 Be7 6.c3 Nf6 7.Bd3 Nxe4 8.Bxe4 Bd7
+9.O-O O-O 10.Re1 Bf6 11.Bf4 Ne7 12.Ne5 Ng6 13.Nxg6 hxg6 14.Bxb7 Rb8 15.Qf3 g5
+16.Bc1 g4 17.Qe4 Bg5 18.Ba6 Bxc1 19.Raxc1 Rxb2 20.Re2 Qg5 21.Qe3 Qxe3 22.fxe3 Rfb8
+23.Rce1 f5 24.Bd3 Bc6 25.Kf2 Kf7 26.Rxb2 Rxb2+ 27.Re2 Rb6 28.Kg3 Kf6 29.Rf2 Kg5
+30.h4+ gxh3 31.gxh3 g6 32.h4+ Kf6 33.e4 Bb5 34.c4 Bd7 35.Kf4 Ra6 36.e5+ Kf7
+37.Rb2 Bc6 38.Ke3 g5 39.hxg5 Ra3 40.Rb3 Rxa2 41.Rb8 Ra3 42.d5 f4+ 43.Kd4 exd5
+44.Rc8 dxc4 45.Rxc7+ Kf8 46.Bg6 Bb5 47.e6 Re3 48.Rf7+ Kg8 49.Rxf4 Rg3 50.Rf5 Rd3+
+51.Kc5 a6 52.Re5 Rd8 53.Kb4 Rb8 54.Kc3 Kg7 55.Bf7 Rh8 56.Re3 Rh1 57.g6 Rh8
+58.e7 Be8 59.Bxe8 Rxe8 60.Re6 a5 61.Kxc4 a4 62.Kb4 Kh6 63.Kxa4 Kg5 64.g7  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "11"]
+[White "Romm, Meir"]
+[Black "Peretz, Malkiel"]
+[Result "1-0"]
+[WhiteElo "2200"]
+[BlackElo "2365"]
+[ECO "D41"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.d4 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Nc6
+9.Bc4 b5 10.Be2 a6 11.O-O Be7 12.a4 bxa4 13.Bf4 Nb4 14.Qxa4+ Bd7 15.Qb3 Bc6
+16.d5 exd5 17.Ne5 Bb7 18.Qa4+ Kf8 19.Bh5 g6 20.Bh6+ Kg8 21.Rad1 a5 22.Bg4 Bf8
+23.Be3 Qe8 24.Nd7 Bg7 25.exd5 h5 26.Bh3 Bxd5 27.Bg5 Be6 28.Rfe1 Kh7 29.Bxe6 fxe6
+30.Qb3 Qf7 31.Qxe6 Qxe6 32.Rxe6 Rhe8 33.Rde1 Rxe6 34.Rxe6 Ra6 35.Re7 Nd5
+36.Re8 Rd6 37.Nf8+ Bxf8 38.Rxf8 Rd7 39.h4 Ra7 40.Rd8 Ne7 41.Be3 Rb7 42.Bd4 g5
+43.hxg5 Nc6 44.Rh8+ Kg6 45.Rh6+ Kxg5 46.Rxc6  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "11"]
+[White "Damjanovic, Mato"]
+[Black "Friedman, Shmuel"]
+[Result "1-0"]
+[WhiteElo "2465"]
+[BlackElo "2200"]
+[ECO "A05"]
+
+1.b3 e5 2.Bb2 d6 3.c4 Nf6 4.g3 g6 5.Bg2 Bg7 6.Nf3 Nc6 7.Nc3 O-O 8.O-O Re8
+9.d3 h6 10.Rb1 Be6 11.Nd2 Qd7 12.Re1 Kh7 13.a3 a5 14.Nd5 Qc8 15.e3 Bf5 16.Ne4 Nxd5
+17.cxd5 Nd8 18.Rc1 Qd7 19.Nc3 c6 20.h4 Bg4 21.Qc2 Bh3 22.Bh1 Ra6 23.Kh2 Kg8
+24.b4 axb4 25.axb4 Ra8 26.b5 Rc8 27.Ne4 Bf5 28.Ba3 Bxe4 29.Bxe4 c5 30.Qb3 Ra8
+31.Rb1 b6 32.Bb2 Nb7 33.Bc3 c4 34.Qxc4 Rec8 35.Qc6 Qe7 36.Ra1 Na5 37.Bxa5 Rxc6
+38.dxc6 Rb8 39.Bb4 Qe6 40.c7 Rc8 41.Ra8 Bf8 42.Rc1 d5 43.Bxd5  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "11"]
+[White "Domnitz, Zadok"]
+[Black "Reshevsky, Samuel Herman"]
+[Result "0-1"]
+[WhiteElo "2350"]
+[BlackElo "2565"]
+[ECO "C95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d4 Nbd7 11.c4 c6 12.c5 Qc7 13.cxd6 Bxd6 14.Bg5 exd4 15.Bxf6 gxf6
+16.Nxd4 Nc5 17.Nf5 Bxf5 18.exf5 Rad8 19.Qh5 Bh2+ 20.Kh1 Nd3 21.Rf1 Be5 22.Nc3 Bxc3
+23.bxc3 Qf4 24.Kg1 c5 25.Bc2 c4 26.a4 Rd5 27.axb5 axb5 28.Qg4+ Qxg4 29.hxg4 Nf4
+30.Rfe1 Rd2 31.Bd1 Nd5 32.Rc1 Rd3 33.g5 fxg5 34.Re5 f6 35.Re6 Nxc3 36.Bh5 Nd5
+37.g3 Rc8 38.Ra1 c3 39.Be2 Rd2 40.Bxb5 c2 41.Ree1 Nc3  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "11"]
+[White "Kavalek, Lubomir"]
+[Black "Yanofsky, Daniel Abraham"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2460"]
+[ECO "C75"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 Nge7 7.Bb3 h6 8.Nbd2 Ng6
+9.Nc4 Be7 10.Ne3 Bg5 11.Nxg5 hxg5 12.Qf3 Nf4 13.d5 Na5 14.Bc2 Bb5 15.Qd1 Be2
+16.Qd2 Nc4 17.Nxc4 Bxc4 18.f3 g4 19.g3 Nh5 20.Qf2 gxf3 21.Qxf3 Qf6 22.Bd1 Bb5
+23.Be3 Qg6 24.Bc2 Bd7 25.Kd2 Nf6 26.h4 Ng4 27.Raf1 Nxe3 28.Qxe3 Qh6 29.Bd1 Qxe3+
+30.Kxe3  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "11"]
+[White "Kraidman, Yair"]
+[Black "Porath, Yosef"]
+[Result "0-1"]
+[WhiteElo "2455"]
+[BlackElo "2340"]
+[ECO "A33"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 Nc6 4.d4 cxd4 5.Nxd4 e6 6.Ndb5 Bb4 7.a3 Bxc3+ 8.Nxc3 d5
+9.e3 O-O 10.Bd2 e5 11.cxd5 Nxd5 12.Qb3 Nb6 13.Qc2 Be6 14.Ne4 Rc8 15.Nc5 Qe7
+16.Nxe6 Qxe6 17.Bd3 Nd4 18.Bxh7+ Kh8 19.Qe4 Nc2+ 20.Qxc2 Rxc2 21.Bxc2 Qc6
+22.O-O-O Rc8 23.Bc3 Na4 24.Bxa4 Qxa4 25.Rd2 f6 26.f3 Kh7 27.e4 b5 28.Rhd1 a5
+29.Rd8 Rxd8 30.Rxd8 b4 31.axb4 axb4 32.Bd2 b3 33.Bc3 Qa1+ 34.Kd2 Qg1 35.Rb8 Qxg2+
+36.Ke3 Qg1+ 37.Ke2 Qxh2+ 38.Ke3 Qc2 39.Rd8 Qc1+ 40.Kf2 g5 41.Rd2 Qh1 42.Rd7+ Kg6
+43.Rd8 Kf7 44.Rd7+ Ke6 45.Rg7 Qh6 46.Rb7 g4 47.Bb4 Qh2+ 48.Kf1  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "11"]
+[White "Czerniak, Moshe"]
+[Black "Saidy, Anthony Fred"]
+[Result "1-0"]
+[WhiteElo "2370"]
+[BlackElo "2425"]
+[ECO "B07"]
+
+1.e4 g6 2.d4 Bg7 3.c3 d6 4.f4 Nf6 5.Bd3 e5 6.Nf3 exd4 7.cxd4 O-O 8.Nc3 Nc6
+9.O-O Bg4 10.Be3 Re8 11.h3 Bf5 12.Ng5 Nxe4 13.Bxe4 Bxe4 14.Ncxe4 d5 15.f5 h6
+16.Nxf7 Qe7 17.Nxh6+ Bxh6 18.Bxh6 Qxe4 19.Rf4 Qe2 20.fxg6 Qxd1+ 21.Rxd1 Re6
+22.Rdf1 Rxg6 23.Rf8+ Rxf8 24.Rxf8+ Kh7 25.Bf4 Nxd4 26.Be5 Ra6 27.Bxd4 Ra4
+28.Be5 c5 29.Rd8 d4 30.Rd7+ Kg6 31.Rxb7 Rxa2 32.Rb5 d3 33.Bc3 Ra1+ 34.Kf2 c4
+35.h4 Rh1 36.Rg5+ Kh6 37.Rg4 Rc1 38.Bd2+  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "11"]
+[White "Kaldor, Avraham"]
+[Black "Pachman, Ludek"]
+[Result "1/2-1/2"]
+[WhiteElo "2200"]
+[BlackElo "2510"]
+[ECO "A16"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nb6 6.Nf3 Bg7 7.d3 Nc6 8.O-O O-O
+9.Be3 h6 10.Qd2 Kh7 11.Rab1 e5 12.b4 Nd4 13.a4 Be6 14.a5 Nd5 15.Bxd4 exd4
+16.Nxd5 Bxd5 17.Qc2 c6 18.Nd2 Bxg2 19.Kxg2 a6 20.Nb3 Qd5+ 21.Kg1 Rae8 22.Rfe1 Re7
+23.Rb2 Rfe8 24.Nc5 f5 25.Qb3 Qd6 26.Rc2 h5 27.Qa2 h4 28.Kg2 Bf6 29.Qb3 Kg7
+30.Qa2 Be5 31.e3 dxe3 32.Rxe3 Bd4 33.Rf3 Rh8 34.gxh4 Rxh4 35.h3 Rh8 36.Re2 Rhe8
+37.Rxe7+ Rxe7 38.Qc4 Bxc5 39.bxc5 Qf6 40.Qf4 Rd7 41.Re3 g5 42.Qb8 Re7 43.Rg3 Kh6
+44.Qg8 f4 45.Rg4 Qf5 46.Qh8+ Rh7 47.Qd4 Rd7 48.Qh8+ Rh7  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "12"]
+[White "Peretz, Malkiel"]
+[Black "Friedman, Shmuel"]
+[Result "1-0"]
+[WhiteElo "2365"]
+[BlackElo "2200"]
+[ECO "B36"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 Nxd4 7.Qxd4 d6 8.Be3 Bg7
+9.f3 O-O 10.Qd2 Bd7 11.Be2 Bc6 12.O-O Nd7 13.b4 b6 14.Rac1 Rc8 15.Rfd1 Bb7
+16.Bf1 Re8 17.Qf2 Bh8 18.Nb5 a6 19.Nc3 b5 20.Nd5 bxc4 21.Bxc4 e6 22.Nb6 Nxb6
+23.Bxb6 Qd7 24.Bc5 d5 25.Qd2 Qc7 26.exd5 exd5 27.Bxd5 Rcd8 28.Qg5 Rxd5 29.Rxd5 h6
+30.Qd2 Bxd5 31.Qxd5 Qf4 32.Rd1 Be5 33.g3 Qf6 34.Qd7 Re6 35.Qd8+ Kg7 36.Qf8+ Kh7
+37.Rd7 Bd4+ 38.Bxd4  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "12"]
+[White "Camara, Helder"]
+[Black "Domnitz, Zadok"]
+[Result "1-0"]
+[WhiteElo "2405"]
+[BlackElo "2350"]
+[ECO "E61"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.Bg5 h6 6.Bh4 c5 7.e3 d6 8.Be2 Nbd7
+9.O-O a6 10.Qc2 Rb8 11.Rfd1 Qc7 12.Rac1 Re8 13.a3 e5 14.dxe5 dxe5 15.Nd2 Bf8
+16.Bf3 b5 17.Nde4 Be7 18.Nxf6+ Nxf6 19.Bxf6 Bxf6 20.Nd5 Qd8 21.cxb5 Bg7 22.b6 Qg5
+23.e4 h5 24.a4 h4 25.a5 h3 26.g3 Bb7 27.Qc4 Red8 28.Rc2 Bf8 29.Rcd2 Rd6 30.Qf1 Bc8
+31.Ne7+ Bxe7 32.Rxd6 Bxd6 33.Rxd6 Be6 34.Qd1 Kg7 35.Qd2 Qe7 36.Be2 c4 37.Bf1 Qb7
+38.Qe3 Re8 39.Rd1 Qe7 40.Qc3 Qc5 41.b3 f6 42.bxc4 Kf7 43.Qd2 g5 44.Qd6  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "12"]
+[White "Pachman, Ludek"]
+[Black "Damjanovic, Mato"]
+[Result "1/2-1/2"]
+[WhiteElo "2510"]
+[BlackElo "2465"]
+[ECO "D35"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.d4 c6 6.Bg5 Be7 7.e3 Bf5 8.Bd3 Bxd3
+9.Bxf6 Bxf6 10.Qxd3 O-O 11.O-O a5 12.Rab1 Be7 13.a3 Ra6 14.Rfc1 Re8 15.g3 h6
+16.Kg2 Bd6 17.h4 Re6 18.Re1 Nd7 19.Rbc1 Re7 20.Na4 Re8 21.Nc5 Nf6 22.Nd2 Bxc5
+23.Rxc5 Re6 24.Rc2 Qe7 25.Qf5  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "12"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Czerniak, Moshe"]
+[Result "0-1"]
+[WhiteElo "2565"]
+[BlackElo "2370"]
+[ECO "B08"]
+
+1.Nf3 g6 2.e4 Bg7 3.d4 d6 4.Be2 Nf6 5.Nc3 O-O 6.O-O b6 7.Re1 Bb7 8.Bf1 c5
+9.d5 Na6 10.Bg5 h6 11.Bh4 Nc7 12.a4 a6 13.Nd2 Rb8 14.Nc4 b5 15.axb5 axb5
+16.Na5 Ba8 17.Qd2 Kh7 18.f3 Nd7 19.Ra2 c4 20.Ne2 Rc8 21.Nd4 Nb8 22.f4 Qd7
+23.f5 g5 24.Bf2 e6 25.dxe6 fxe6 26.fxe6 Nxe6 27.Nf5 c3 28.Qxd6 Qf7 29.Qg3 Nf4
+30.Nxg7 Qxa2 31.b4 Kxg7 32.h4 Qe6 33.hxg5 hxg5 34.Bxb5 Kg6 35.Nb3 Nc6 36.Nc5 Qd6
+37.Qxc3 Ne5 38.Bd4 Ng4 39.e5 Qd5 40.Bd3+ Kh6 41.Be4 Qf7 42.Qf3 Qh5 43.Qg3 Bxe4
+44.Rxe4 Rcd8 45.Nb3 Kg6 46.Rxf4 Rxf4 47.Qd3+ Kg7 48.Qh3 Rfxd4 49.Nxd4 Rxd4  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "12"]
+[White "Saidy, Anthony Fred"]
+[Black "Kaldor, Avraham"]
+[Result "1-0"]
+[WhiteElo "2425"]
+[BlackElo "2200"]
+[ECO "A34"]
+
+1.c4 Nf6 2.Nc3 c5 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nc7 6.d3 e5 7.Nf3 Nc6 8.Nd2 Bd7
+9.O-O Be7 10.Nc4 f6 11.f4 b5 12.Ne3 exf4 13.Nf5 O-O 14.Bxf4 Bxf5 15.Bxc6 Bh3
+16.Bxc7 Qxc7 17.Bxa8 Rxa8 18.Nd5 Qe5 19.Nxe7+ Qxe7 20.Rf2 a6 21.Qd2 Rd8 22.Qf4 h5
+23.Rc1 Rd5 24.b3 Re5 25.e4 Qd8 26.Qe3 Qa5 27.Rfc2 Kh7 28.Qf2 Qd8 29.Qe3 Qa5
+30.Qf3 Qb6 31.Qf2 Qd8 32.Rd2 Qa5 33.Qe3 Kg6 34.Kf2 Bg4 35.Kg2 Kh7 36.Rdc2 Kg6
+37.Qf2 Qd8 38.Qe3 Qa5 39.Rf2 Qd8 40.Rd2 Qa5 41.Rf2 b4 42.Rfc2 Be6 43.h4 Bg4
+44.Kf2 Be6 45.Ke1 Bg4 46.Kd2 Be6 47.Rxc5 Rxc5 48.Qxc5 Qxa2+ 49.Qc2 Qa3 50.Rb1 Qa5
+51.d4 Qb6 52.Qc5 Qb8 53.d5 Bg4 54.d6 a5 55.Ke3 Qa8 56.Rf1 Qa6 57.Re1 a4 58.Qd4 Qb5
+59.e5 fxe5 60.Qd3+ Qxd3+ 61.Kxd3 axb3 62.Rxe5 Kf6 63.Rb5 Ke6 64.Rxb4 Bd1
+65.Kd2 Bc2 66.Rd4 Kd7 67.Kc3 g6 68.Rd2 Ke8 69.d7+ Kd8 70.Rd6 Bf5 71.Kxb3 Bxd7
+72.Rxg6 Ke7 73.Kc3 Kf7 74.Rg5 Bg4 75.Rxg4  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "12"]
+[White "Porath, Yosef"]
+[Black "Tatai, Stefano"]
+[Result "1-0"]
+[WhiteElo "2340"]
+[BlackElo "2460"]
+[ECO "A32"]
+
+1.d4 Nf6 2.c4 c5 3.Nf3 cxd4 4.Nxd4 e6 5.Nc3 Bb4 6.Bd2 Nc6 7.a3 Be7 8.e3 O-O
+9.Be2 d6 10.O-O Bd7 11.Rc1 Rc8 12.Nxc6 Bxc6 13.b4 b6 14.Qb3 Qd7 15.Rfd1 Qb7
+16.f3 Rfd8 17.e4 Ne8 18.Be3 Bf6 19.Rd2 h6 20.Rcd1 Be5 21.Bf1 Qb8 22.Ne2 Bb7
+23.Bd4 Bxd4+ 24.Rxd4 a6 25.Nc3 Qc7 26.Na4 Ra8 27.Qe3 Bc6 28.Nc3 Rdc8 29.R4d2 Ra7
+30.Be2 Qb8 31.Kf2 Rac7 32.e5 dxe5 33.Qxe5 Nf6 34.g3 Be8 35.Qe3 a5 36.Ne4 Nxe4+
+37.fxe4 axb4 38.axb4 Bc6 39.Rd6 Qa8 40.Qxb6 Bxe4 41.Qxc7 Rxc7 42.Rd8+  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "12"]
+[White "Romm, Meir"]
+[Black "Kavalek, Lubomir"]
+[Result "1/2-1/2"]
+[WhiteElo "2200"]
+[BlackElo "2565"]
+[ECO "B26"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Be3 e5 7.Qd2 Nge7 8.Bh6 Bxh6
+9.Qxh6 Nd4 10.Qd2 Qa5 11.h3 Be6 12.Nge2 Nec6 13.a3 c4 14.O-O Rc8 15.Kh2 Nxe2
+16.Qxe2 Nd4 17.Qd1 cxd3 18.cxd3 h5 19.Rc1 h4 20.g4 g5 21.Nd5 Rxc1 22.Qxc1 Bxd5
+23.exd5 Qd8 24.Qe3 Qf6 25.Rc1 Kd7 26.Be4 Rc8 27.Rc4 Rxc4 28.dxc4 Qf4+ 29.Kg2 Qxe3
+30.fxe3 Nb3 31.Kf2 a5 32.Ke2 Kc7 33.Bc2 Nc5 34.Kd2 a4 35.Kc3 Kb6 36.Kb4 f6
+37.Bf5 Nb3 38.Kc3 Ka5 39.Bg6 Nc5 40.Bc2 Na6  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "12"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Kraidman, Yair"]
+[Result "0-1"]
+[WhiteElo "2460"]
+[BlackElo "2455"]
+[ECO "E62"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.d4 Nc6 7.O-O Bg4 8.d5 Na5
+9.Nd2 c5 10.h3 Bd7 11.Qc2 a6 12.b3 b5 13.Bb2 Rb8 14.Nd1 bxc4 15.bxc4 e5 16.e4 Bh6
+17.Ne3 Bxe3 18.fxe3 Nh5 19.g4 Ng7 20.Bc3 h5 21.g5 Nb7 22.Rf6 Ne8 23.Raf1 Nxf6
+24.Rxf6 a5 25.Nf3 a4 26.Qe2 Qe7 27.Nh4 Kg7 28.Nf3 a3 29.Qf2 Ra8 30.Qg3 Kh7
+31.Bf1 Ra4 32.Qe1 Rfa8 33.Qb1 Na5 34.Nd2 Ra7 35.Qb6 Nb7 36.h4 R4a6 37.Qb1 Bg4
+38.Bd3 Nd8 39.Qa1 Qd7 40.Kh2 Rb7 41.Bc2 Rab6 42.Bb3 Be2 43.Qe1 Bd3 44.Qd1 Kg8
+45.Ba4 Qc8 46.Bb3 Rb8 47.Qf3 Qd7 48.Qg3 Nb7 49.Nf3 Qg4 50.Qxg4 hxg4 51.Nd2 Kf8
+52.Kg3 Ke7 53.Kxg4 Rxb3 54.Nxb3 Bxc4 55.Nc1 Nd8 56.Rf2 Rb1 57.Rc2 Bf1 58.Kf3 Nb7
+59.Nb3 Bd3 60.Rc1 Rb2 61.Ra1 Rc2 62.Be1 c4 63.Nc1 Nc5 64.Nxd3 Nxd3 65.Ba5 c3
+66.Kg3 Re2 67.Bxc3 Rxe3+ 68.Kh2 Rxe4 69.Rb1 Nb2 70.Be1 Rd4 71.Rc1 Rxd5 72.Rc7+ Ke6
+73.Bb4 Rd3 74.Kg2 e4 75.Bc3 Nd1 76.Bg7 Ne3+ 77.Kf2 Nf5 78.Bf6 Rd2+  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "13"]
+[White "Domnitz, Zadok"]
+[Black "Porath, Yosef"]
+[Result "1/2-1/2"]
+[WhiteElo "2350"]
+[BlackElo "2340"]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 cxd4 13.cxd4 Nc6 14.Nb3 a5 15.Be3 a4
+16.Nbd2 Ba6 17.Rc1 Qb7 18.d5 Na5 19.b3 a3 20.Bd3 b4 21.Qe2 Bxd3 22.Qxd3 Rfc8
+23.Nc4 Nxc4 24.bxc4 Nd7 25.Rb1 h6 26.h4 Nc5 27.Bxc5 Rxc5 28.g3 Rb8 29.Nd2 Qc8
+30.Rec1 Qa6 31.Kg2 g6 32.Rb3 g5 33.Rcb1 gxh4 34.Rxb4 Rxb4 35.Rxb4 hxg3 36.fxg3 Bg5
+37.Nf3 Kg7 38.Ne1 Qa5 39.Nc2 Qa6 40.Rb5 Rxb5 41.cxb5 Qa5 42.Kf3 Bc1 43.Ke2 Qb6
+44.Kf3 Kg6 45.Qc4 Qa5 46.Qb4 Qb6 47.Kg2 f6 48.Qc4 Qa5 49.Qb4 Qb6 50.Qc4 Qa5
+51.Nb4  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "13"]
+[White "Friedman, Shmuel"]
+[Black "Pachman, Ludek"]
+[Result "1-0"]
+[WhiteElo "2200"]
+[BlackElo "2510"]
+[ECO "A22"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Bb4 4.Bg2 O-O 5.Nd5 Nxd5 6.cxd5 Re8 7.Nf3 c6 8.Qb3 Bc5
+9.d4 exd4 10.Ng5 h6 11.dxc6 dxc6 12.Qxf7+ Kh8 13.Be4 Bb4+ 14.Kf1 Re7 15.Qg6 Qg8
+16.a3 Ba5 17.Bc2 Nd7 18.Bb3 Nf8 19.Nf7+ Rxf7 20.Qxf7 Bh3+ 21.Kg1 Qxf7 22.Bxf7 Rd8
+23.Bc4 Ng6 24.f4 d3 25.Be3 dxe2 26.Bxe2 Bd2 27.Kf2 Bxe3+ 28.Kxe3 Ne7 29.Rhd1 Nd5+
+30.Kf2 g5 31.Bf3 gxf4 32.Bxd5 cxd5 33.gxf4 Bf5 34.Rac1 Rd7 35.Ke3 Be4 36.Kd4 Kg7
+37.Rc8 Kf6 38.Rg1 Kf5 39.Rf8+ Ke6 40.f5+  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "13"]
+[White "Kaldor, Avraham"]
+[Black "Reshevsky, Samuel Herman"]
+[Result "1/2-1/2"]
+[WhiteElo "2200"]
+[BlackElo "2565"]
+[ECO "C44"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 d3 5.c4 d6 6.Bxd3 Nf6 7.Nc3 Bg4 8.h3 Bxf3
+9.Qxf3 Ne5 10.Qe2 Nxd3+ 11.Qxd3 Be7 12.O-O O-O 13.Be3 Nd7 14.Rad1 Bf6 15.Nd5 Re8
+16.Nxf6+ Nxf6 17.f3 b6 18.Rfe1 Qe7 19.Bd4 Nd7 20.Qc3 f6 21.Bf2 a5 22.b3 Qf7
+23.Qc2 Re7 24.Kh2 h5 25.Rd2 Rae8 26.Rc1 Ra8 27.Qd3 Nc5 28.Qd5 Rae8 29.Rc3 Re5
+30.Qxf7+ Kxf7 31.a3 Ra8 32.b4 axb4 33.axb4 Nd7 34.Bd4 Re6 35.c5 dxc5 36.bxc5 Nxc5
+37.Bxc5  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "13"]
+[White "Kavalek, Lubomir"]
+[Black "Peretz, Malkiel"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[BlackElo "2365"]
+[ECO "A14"]
+
+1.c4 Nf6 2.Nf3 e6 3.g3 d5 4.b3 Be7 5.Bg2 O-O 6.O-O Nbd7 7.Bb2 Re8 8.Nc3 c6
+9.d4 dxc4 10.bxc4 Qa5 11.Qd2 Qh5 12.h3 Rd8 13.g4 Qg6 14.Rad1 h6 15.Qf4 Nh7
+16.Ne5 Nxe5 17.dxe5 Bd7 18.Ne4 c5 19.Nd6 Ba4 20.Rd3 Bxd6 21.exd6 Nf6 22.Qe3 Rac8
+23.Bxb7 Rb8 24.Bxf6 Qxf6 25.Bg2 Rb2 26.Qxc5 Rxe2 27.Qxa7 Rxa2 28.Rf3 Qg6
+29.c5 Rc2 30.Qxa4 Rxc5 31.Rd1 h5 32.d7 hxg4 33.hxg4 Rg5 34.Rg3 Qf6 35.Qc4 Qe7
+36.Qc7 Rc5 37.Qb6 Kf8 38.Qb3 g6 39.Rh3 Kg7 40.Qe3 g5  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "13"]
+[White "Kraidman, Yair"]
+[Black "Romm, Meir"]
+[Result "1/2-1/2"]
+[WhiteElo "2455"]
+[BlackElo "2200"]
+[ECO "A73"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 c5 4.d5 exd5 5.cxd5 g6 6.e4 d6 7.Nf3 Bg7 8.Be2 O-O
+9.O-O Bg4 10.Be3 Re8 11.Nd2 Bxe2 12.Qxe2 a6 13.a4 Nbd7 14.f3 Rc8 15.Kh1 Qe7
+16.Rae1 Nf8 17.Nc4 N6d7 18.Bf4 Ne5 19.Bxe5 Bxe5 20.f4 Bxc3 21.bxc3 b5 22.axb5 axb5
+23.Na5 Qd7 24.c4 Ra8 25.Nc6 f5 26.e5 b4 27.Qb2 Qg7 28.Qf2 Qc7 29.h3 Ne6 30.Qb2 dxe5
+31.Rxe5 Ng7 32.Rfe1 Rxe5 33.fxe5 Re8 34.Qf2 Ne6 35.Qh4 Nd8 36.Nxd8 Qxd8 37.Qxd8 Rxd8
+38.e6 Ra8 39.d6 Kf8 40.Kh2 Ke8 41.Kg3 g5  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "13"]
+[White "Tatai, Stefano"]
+[Black "Yanofsky, Daniel Abraham"]
+[Result "1/2-1/2"]
+[WhiteElo "2460"]
+[BlackElo "2460"]
+[ECO "B02"]
+
+1.e4 Nf6 2.e5 Nd5 3.Nc3 Nb6 4.a4 a5 5.d4 d6 6.exd6 exd6 7.Nf3 Be7 8.Ne4 Nc6
+9.c3 Bf5 10.Bd3 Bg6 11.O-O h6 12.Ne1 O-O 13.Ng3 Re8 14.f4 Bxd3 15.Nxd3 Nd7
+16.f5 Bg5 17.Nf4 Nf6 18.Qf3 d5 19.Ngh5 Nxh5 20.Qxh5 Re4 21.f6 Bxf4 22.Bxf4 Qxf6
+23.Bxc7 Qe6 24.Bg3 Rf8 25.Qf5 Ne7 26.Qxe6 fxe6 27.Rxf8+ Kxf8 28.Ra3 Nf5 29.Kf2 Ne3
+30.Rb3 Nd1+ 31.Kf1 Ne3+ 32.Ke2 Nxg2+ 33.Kf3 Ne3 34.Rxb7 g5 35.Be5 h5 36.b4 Nc4
+37.Bc7 Re3+ 38.Kf2 e5 39.dxe5 axb4 40.cxb4 d4 41.Bd6+ Kg8 42.Bc5 Re4 43.Rd7 Nxe5
+44.Rxd4 Ng4+ 45.Kf3 Re3+ 46.Kg2 Re2+ 47.Kf1 Ra2 48.Rd8+ Kh7 49.h3 Nh2+ 50.Ke1 Nf3+
+51.Kd1 Rxa4 52.Rd5 Kg6 53.b5 Ra5 54.Bb4 Ra4 55.Bc3 Ra7 56.Rd3 g4  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "13"]
+[White "Czerniak, Moshe"]
+[Black "Camara, Helder"]
+[Result "1-0"]
+[WhiteElo "2370"]
+[BlackElo "2405"]
+[ECO "B20"]
+
+1.e4 c5 2.b3 Nc6 3.Bb2 d6 4.g3 h5 5.h3 e5 6.Bg2 h4 7.g4 Nge7 8.f4 exf4 9.Ne2 Ng6
+10.d4 cxd4 11.Nxd4 Nge5 12.Nc3 Be7 13.Nd5 Bg5 14.O-O Be6 15.Nxf4 Bxf4 16.Rxf4 Qb6
+17.Rf2 O-O-O 18.Nxc6 bxc6 19.c4 f6 20.Bd4 c5 21.Bc3 Rhe8 22.Rd2 Re7 23.Qe1 Rh8
+24.Rad1 Rd7 25.Qe3 Kc7 26.Rf2 Bxg4 27.hxg4 Nxg4 28.Qd2  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "13"]
+[White "Damjanovic, Mato"]
+[Black "Saidy, Anthony Fred"]
+[Result "1-0"]
+[WhiteElo "2465"]
+[BlackElo "2425"]
+[ECO "A13"]
+
+1.b3 Nf6 2.Bb2 b6 3.Nf3 Bb7 4.e3 e6 5.Be2 Be7 6.O-O O-O 7.c4 d5 8.d4 Nbd7
+9.Nc3 dxc4 10.bxc4 c5 11.d5 exd5 12.cxd5 Bd6 13.e4 Re8 14.Qc2 a6 15.a4 Qc7
+16.g3 Re7 17.Nh4 g6 18.f4 c4 19.Bf3 Bb4 20.Rad1 Qc5+ 21.Kh1 Rae8 22.e5 Bxc3
+23.Qxc3 Nxd5 24.Rxd5 Bxd5 25.e6 Ne5 26.Qxe5 Bxf3+ 27.Nxf3 Qxe5 28.exf7+ Rxf7
+29.Nxe5 Rc7 30.Bc3 b5 31.axb5 axb5 32.Rb1 Rb8 33.Kg1 Rcb7 34.Nc6 Rc8 35.Nb4 Kf7
+36.Kf2 Ra8 37.Ke2 Ra3 38.Kd2 Rb6 39.Be5 Ra8 40.Kc2 Rb7 41.Rd1 Ra4 42.Rb1 Kg8
+43.g4 Ra3 44.Rd1 Rf3 45.h4 Rg3 46.Rd8+ Kf7 47.Rh8 Ke6 48.Re8+ Kf7 49.Rh8 Ke6
+50.Na6 Ra7 51.Nc7+ Kd7 52.Nxb5 Ra2+ 53.Kb1 Rf2 54.Rxh7+ Ke8 55.Bb2 Rxb2+
+56.Kxb2 Rb3+ 57.Kc2 Rxb5 58.Rh6 Kf7 59.h5 gxh5 60.Rxh5 Rb3 61.Rc5 Rg3 62.g5 Kg6
+63.Rc6+ Kg7 64.Rxc4 Kg6 65.Rc6+ Kg7 66.Kd2 Rf3 67.Rf6 Rg3 68.Ke2 Ra3 69.Kf2 Rb3
+70.Re6 Kf7 71.Re3 Rb4 72.Kf3  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "14"]
+[White "Kavalek, Lubomir"]
+[Black "Kraidman, Yair"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2455"]
+[ECO "B52"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 Nc6 6.Nc3 g6 7.d4 cxd4 8.Nxd4 Bg7
+9.Be3 Nf6 10.f3 O-O 11.O-O Rfd8 12.Qd2 e6 13.Rad1 d5 14.exd5 exd5 15.Nxc6 bxc6
+16.cxd5 Nxd5 17.Nxd5 Qxd5 18.Qxd5 Rxd5 19.b3 a5 20.Kf2 a4 21.Rxd5 cxd5 22.Rd1 axb3
+23.axb3 d4 24.Bxd4 Rd8 25.Ke3 Re8+  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "14"]
+[White "Peretz, Malkiel"]
+[Black "Pachman, Ludek"]
+[Result "1/2-1/2"]
+[WhiteElo "2365"]
+[BlackElo "2510"]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Qd6 6.d4 exd4 7.Qxd4 Qxd4 8.Nxd4 Bd7
+9.Be3 O-O-O 10.Nc3 Ne7 11.f4 f5 12.e5 c5 13.Nf3 Nc6 14.Rad1 Be6 15.Rxd8+ Nxd8
+16.Rd1 Nf7 17.Nd5 b6 18.c4 b5 19.a4 bxc4 20.Bf2 c6 21.Ne3 Be7 22.Rc1 Kc7
+23.Nd2 Rd8 24.Nexc4 g5 25.g3 gxf4 26.gxf4 Rg8+ 27.Kf1 Rg4 28.Bg3 h5 29.Ne3 Rg8  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "14"]
+[White "Porath, Yosef"]
+[Black "Czerniak, Moshe"]
+[Result "1/2-1/2"]
+[WhiteElo "2340"]
+[BlackElo "2370"]
+[ECO "A41"]
+
+1.d4 g6 2.c4 Bg7 3.Nf3 d6 4.Nc3 Bg4 5.h3 Bxf3 6.exf3 Nh6 7.g4 O-O 8.Be3 f5
+9.Qd2 Nf7 10.gxf5 gxf5 11.Rg1 e6 12.O-O-O Kh8 13.Bd3 Nc6 14.d5 exd5 15.cxd5 Nce5
+16.Rg3 Nxd3+ 17.Qxd3 Ne5 18.Qd2 Qh4 19.Rdg1 Rf7 20.f4 Ng6 21.Ne2 Re8 22.Nd4 c6
+23.dxc6 bxc6 24.Nf3 Qd8 25.Ng5 Rb7 26.Bd4 c5 27.Bxg7+ Rxg7 28.Qd5 Qf6 29.Qd2 Rb8
+30.Rb3 Rxb3 31.axb3 Nh4 32.Re1 Re7 33.Rxe7 Qxe7 34.Qxd6 Qe1+ 35.Kc2 Qxf2+
+36.Kc3 Qe1+ 37.Kc2 Qe2+ 38.Kc3 Qe1+ 39.Kc2 Qf2+ 40.Kc3 Qe1+  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "14"]
+[White "Reshevsky, Samuel Herman"]
+[Black "Damjanovic, Mato"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[BlackElo "2465"]
+[ECO "A05"]
+
+1.Nf3 Nf6 2.g3 b5 3.Bg2 Bb7 4.O-O c5 5.d3 d5 6.c4 dxc4 7.dxc4 Qxd1 8.Rxd1 b4
+9.a3 a5 10.axb4 axb4 11.Rxa8 Bxa8 12.Bf4 Nfd7 13.Nbd2 Bxf3 14.Nxf3 f6 15.Bc7 e6
+16.Ra1 Be7 17.Ra7 Kf7 18.Nd2 Rc8 19.f4 Ke8 20.Ne4 Rxc7 21.Rxc7 Kd8 22.Rb7 h6
+23.Nf2 f5 24.Nd3 Bd6 25.e4 fxe4 26.Bxe4 e5 27.Kg2 exf4 28.Nxf4 g5 29.Nd3 Nf6
+30.Nxc5  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "14"]
+[White "Romm, Meir"]
+[Black "Tatai, Stefano"]
+[Result "1-0"]
+[WhiteElo "2200"]
+[BlackElo "2460"]
+[ECO "C19"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qc7 7.Nf3 Ne7 8.a4 b6
+9.Bb5+ Bd7 10.Bd3 Nbc6 11.O-O h6 12.h4 O-O 13.Bf4 c4 14.Be2 f5 15.h5 Kh7
+16.Qd2 Rg8 17.g3 Be8 18.Nh4 Qc8 19.Kg2 Bxh5 20.Bxh5 g5 21.Rh1 gxf4 22.Qxf4 Rg7
+23.Qxh6+ Kxh6 24.Nxf5+ Kg5 25.Nd6 Ng6 26.Nxc8 Rxc8 27.f4+ Nxf4+ 28.gxf4+ Kxf4+
+29.Kf2 Rcg8 30.Bf3 Nd8 31.Rh6 Rg6 32.Rah1 Rxh6 33.Rxh6 Rf8 34.Rg6 Kf5 35.Rg7 a5
+36.Ke3  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "14"]
+[White "Saidy, Anthony Fred"]
+[Black "Friedman, Shmuel"]
+[Result "1/2-1/2"]
+[WhiteElo "2425"]
+[BlackElo "2200"]
+[ECO "A31"]
+
+1.c4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bg7 6.e4 O-O 7.Be2 d6 8.Be3 Nbd7
+9.Qd2 Nc5 10.f3 a5 11.O-O Ne8 12.Rac1 Nc7 13.f4 N7e6 14.Ndb5 Bd7 15.Bf3 Nc7
+16.Nxc7 Qxc7 17.Nd5 Qd8 18.e5 Bc6 19.Nxe7+ Qxe7 20.exd6 Qf6 21.Bxc5 Qxb2
+22.Rc2 Qf6 23.Bxc6 bxc6 24.Bb6 Qf5 25.c5 a4 26.h3 Bf6 27.Rc4 Bd8 28.Bxd8 Rfxd8
+29.Re1 Rab8 30.Re5 Qb1+ 31.Rc1 Qb2 32.Qxb2 Rxb2 33.a3 Rb3 34.Re7 Rxa3 35.Rc7 Rd3
+36.Rxc6 a3 37.Ra6 Rc8 38.Ra7 Rxd6 39.Rxa3 Rdc6 40.Rac3 Rd8 41.Kf2 Rd5 42.g4 f5
+43.Ke3 Kf7 44.Kf3 h6 45.gxf5 gxf5 46.Kg3 Kf6 47.Rc4 Kg7 48.R1c3 Kf6 49.Kh4 Kg6
+50.Rc1 Rc7 51.Rg1+ Kh7 52.Rgc1 Kg6 53.c6 Rd6 54.Rc5 Rf6 55.R1c2 Rd6 56.Rg2+ Kh7
+57.Rgc2 Kg6 58.R2c3 Rf6 59.Kg3 Re6 60.Kf3 Kf6 61.Rc2 Kg6 62.h4 h5 63.Rg2+ Kh6
+64.Rxf5 Rexc6 65.Rd5 Rc3+ 66.Ke4 R7c4+ 67.Kf5 Rf3 68.Rd6+ Kh7 69.Rd7+ Kh8
+70.Kg6 Rcxf4 71.Rg5 Rf6+ 72.Kxh5 R3f5 73.Ra7 Rxg5+ 74.hxg5 Rb6 75.Rc7 Kg8
+76.Rd7 Ra6  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "14"]
+[White "Yanofsky, Daniel Abraham"]
+[Black "Domnitz, Zadok"]
+[Result "1-0"]
+[WhiteElo "2460"]
+[BlackElo "2350"]
+[ECO "E62"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.d4 d6 6.O-O Nc6 7.Nc3 e5 8.d5 Ne7
+9.c5 Ng4 10.cxd6 cxd6 11.h3 Nh6 12.e4 f6 13.a4 Nf7 14.Nd2 f5 15.Nc4 fxe4
+16.g4 b6 17.Re1 Bb7 18.Rxe4 Bf6 19.Re1 Bh4 20.a5 Ba6 21.Nd2 Ng5 22.Nde4 Nxe4
+23.Nxe4 Bb7 24.Bg5 Bxg5 25.Nxg5 bxa5 26.Ne6 Qb6 27.Nxf8 Rxf8 28.Qd2 Rf4 29.Re3 Rb4
+30.b3 Rd4 31.Rd3 Rf4 32.Rc1 Kg7 33.Qe3 Kf6 34.Rc4 g5 35.Rxf4+ gxf4 36.Qe4 Ba6
+37.Rc3 Qb4 38.Rc7 Qb6 39.g5+  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "14"]
+[White "Camara, Helder"]
+[Black "Kaldor, Avraham"]
+[Result "0-1"]
+[WhiteElo "2405"]
+[BlackElo "2200"]
+[ECO "A36"]
+
+1.g3 c5 2.Bg2 Nc6 3.c4 g6 4.Nc3 Bg7 5.e3 e5 6.Nge2 Nge7 7.O-O d6 8.a3 Bf5
+9.d3 Qd7 10.Nd5 Nxd5 11.cxd5 Ne7 12.e4 Bh3 13.Bxh3 Qxh3 14.Qa4+ Qd7 15.Qxd7+ Kxd7
+16.Be3 Rhc8 17.Rfc1 f5 18.f3 Rf8 19.Kg2 Ng8 20.g4 Bh6 21.g5 f4 22.Bxc5 Bxg5
+23.Bf2 Be7 24.Rc4 Bd8 25.Rac1 g5 26.Nc3 a6 27.a4 Ne7 28.Rb4 Rb8 29.Ba7 Ra8
+30.Bf2 Rb8 31.d4 Ba5 32.Rb3 exd4 33.Bxd4 b6 34.Ne2 Ng6 35.Kf2 Rfc8 36.Rxc8 Rxc8
+37.Bf6 h6 38.Bg7 Bd2 39.Bd4 Ba5 40.Bg7 Bd2 41.Kf1 Be3 42.Bd4 Rc2 43.Bxb6 Bxb6
+44.Rxb6 Ne5 45.Nd4 Rxh2 46.b3 g4 47.fxg4 f3 48.Nxf3 Nxf3 49.Rxa6 Ke7 50.Ra8 Rb2
+51.a5 Rxb3 52.a6 Ra3 53.a7 Ne5 54.Ke2 Nd7 55.Kd1 Nf6 56.Kc2 Ne8 57.Kb2 Ra6
+58.Kb3 Nc7 59.Rh8 Kf6 60.Rxh6+ Ke5 61.Rh7 Rxa7 62.Re7+ Kf6 63.Rd7 Nb5 64.Rd8 Ra1
+65.Kc4 Rb1 66.Kd3 Ke7 67.Rb8 Na3 68.Rh8 Rb3+ 69.Kd4 Rg3 70.Rh7+ Kd8 71.Rh6 Kc7
+72.Rh4 Nc2+ 73.Kc4 Rxg4 74.Rh7+ Kb6 75.Rh6 Na3+ 76.Kb3 Rg3+ 77.Kb4 Nc2+ 78.Kc4 Na3+
+79.Kb4 Nc2+ 80.Kc4 Ka5 81.Rxd6 Na3+ 82.Kc5 Nb5 83.Kc6 Nxd6 84.Kxd6 Kb6 85.e5 Kb7
+86.Kd7 Rg7+ 87.Kd8 Rg5  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "15"]
+[White "Czerniak, Moshe"]
+[Black "Yanofsky, Daniel Abraham"]
+[Result "1/2-1/2"]
+[WhiteElo "2370"]
+[BlackElo "2460"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.g3 Nc6 7.Bg2 Bd7 8.Nde2 a6
+9.O-O Be7 10.h3 Qc7 11.g4 O-O 12.Bf4 b5 13.a3 Rac8 14.Qd2 Ne5 15.b3 a5 16.Ra2 Rfd8
+17.Bg3 b4 18.axb4 axb4 19.Nd1 Qb6 20.Qe3 Qxe3 21.Nxe3 Bb5 22.Re1 Nc6 23.f4 d5
+24.exd5 exd5 25.Nf5 Bc5+ 26.Bf2 Bxf2+ 27.Kxf2 Bxe2 28.Rxe2 Kf8 29.Rd2 g6
+30.Ng3 Re8 31.g5 Ne4+ 32.Bxe4 dxe4 33.Ke3 Ne7 34.Nxe4 Nf5+ 35.Kf3 Nh4+ 36.Ke3 Rc3+
+37.Rd3 Nf5+ 38.Kf3 Nd4+ 39.Ke3 Nxc2+ 40.Kd2 Rxe4  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "15"]
+[White "Damjanovic, Mato"]
+[Black "Camara, Helder"]
+[Result "1-0"]
+[WhiteElo "2465"]
+[BlackElo "2405"]
+[ECO "C98"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Bb7 13.d5 Bc8 14.b3 Nb7 15.c4 b4 16.Nf1 Kh8
+17.Ng3 g6 18.Bh6 Rg8 19.Qd2 Qd8 20.Ng5 Qe8 21.f4 Nd7 22.Rf1 Nd8 23.a3 Rb8
+24.axb4 Rxb4 25.f5 Bxg5 26.Bxg5 f6 27.Be3 g5 28.Qe2 Nf7 29.Nh5 Qe7 30.g4 Nb8
+31.Kf2 Bd7 32.Rh1 Be8 33.Ng3 Rb7 34.Nf1 Qd8 35.Nd2 Kg7 36.Nf3 h6 37.h4 Qb6
+38.Bd2 Re7 39.Rh3 Bd7 40.Rah1 Ree8 41.hxg5 hxg5 42.Rh7+ Kf8 43.Qe1 Ke7 44.R1h5 Ref8
+45.Ba5 Qb7 46.R5h6 Be8 47.Qh1 Bd7 48.Nd2 Qc8 49.Nf1 Rh8 50.Qh5 Rxh7 51.Rxh7 Qe8
+52.Ng3 Bc8 53.Bd1 Rg8 54.Bc7 Nd7 55.b4 cxb4 56.Ba4 Qf8 57.Rxf7+ Qxf7 58.Bxd6+ Ke8
+59.Bxb4 Qxh5 60.Nxh5 Kf7 61.c5  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "15"]
+[White "Domnitz, Zadok"]
+[Black "Romm, Meir"]
+[Result "0-1"]
+[WhiteElo "2350"]
+[BlackElo "2200"]
+[ECO "B60"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Qa5 7.Bb5 Bd7 8.Nb3 Qc7
+9.O-O e6 10.Kh1 Be7 11.f4 O-O-O 12.a4 Kb8 13.f5 Bc8 14.Qe2 Ka8 15.a5 d5 16.a6 d4
+17.Na4 bxa6 18.Bxa6 Bxa6 19.Qxa6 Nb4 20.Qa5 Qxa5 21.Nxa5 Nxc2 22.Rac1 Rc8
+23.fxe6 fxe6 24.e5 Nd5 25.Bxe7 Nxe7 26.Rf7 Ng6 27.Rf2 d3 28.Rd1 Nxe5 29.h3 Ne3
+30.Re1 Rc2 31.Rxe3 Rxf2 32.Rxe5 d2 33.Nc3 Re8 34.Nb3 Rf1+ 35.Kh2 d1=Q 36.Nxd1 Rxd1
+37.Nc5 Rd5 38.Rxe6 Rxe6 39.Nxe6 Kb7 40.Nxg7 Rb5 41.Nf5 Rxb2  0-1
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "15"]
+[White "Friedman, Shmuel"]
+[Black "Reshevsky, Samuel Herman"]
+[Result "1/2-1/2"]
+[WhiteElo "2200"]
+[BlackElo "2565"]
+[ECO "B96"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "15"]
+[White "Kaldor, Avraham"]
+[Black "Porath, Yosef"]
+[Result "1-0"]
+[WhiteElo "2200"]
+[BlackElo "2340"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Nc3 b5 7.Bb3 d6 8.Nd5 Na5
+9.Nxe7 Qxe7 10.d4 Bb7 11.Bg5 h6 12.Bxf6 Qxf6 13.Re1 O-O 14.c3 c5 15.Bd5 exd4
+16.Bxb7 Nxb7 17.cxd4 Rad8 18.a4 d5 19.e5 Qb6 20.axb5 axb5 21.dxc5 Nxc5 22.Qd4 Rc8
+23.b4 Na4 24.Qxb6 Nxb6 25.Ra5 Na4 26.Rxb5 Nc3 27.Rb7 Rb8 28.Rc7 Rfc8 29.Rxc8+ Rxc8
+30.Kf1 Rb8 31.Rc1 Na2 32.Rb1 Rxb4 33.Rxb4 Nxb4 34.Nd4 Nd3 35.Nc6 g5 36.g3 Kg7
+37.Ke2 Nc5 38.Ne7 f6 39.exf6+ Kxf6 40.Nxd5+ Ke5 41.Nb4 Kf5 42.f3 Ne6 43.Ke3 Nc7
+44.Nc2 Nd5+ 45.Kd4 Ke6 46.Ne3 Nc7 47.Ke4 Ne8 48.f4 Nd6+ 49.Kf3 Kf6 50.Kg4 gxf4
+51.gxf4 Kg6 52.f5+ Kf6 53.Kf4 Nf7 54.Nd5+ Kg7 55.h4 h5 56.Ke4 Nd6+ 57.Ke5 Nf7+
+58.Ke6 Nd8+ 59.Kd7 Nf7 60.Ke7 Nh6 61.f6+ Kg6 62.Ke6  1-0
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "15"]
+[White "Kraidman, Yair"]
+[Black "Peretz, Malkiel"]
+[Result "1/2-1/2"]
+[WhiteElo "2455"]
+[BlackElo "2365"]
+[ECO "D50"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 c5 5.cxd5 cxd4 6.Qa4+ Qd7 7.Qxd4 Nxd5 8.Nxd5 Qxd5
+9.Qxd5 exd5 10.O-O-O f6 11.Bf4 Be6 12.e3 Nc6 13.Nf3 Bc5 14.Kb1 O-O 15.Bb5 Rac8
+16.a3 Rfd8 17.Rd2 Bb6  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "15"]
+[White "Pachman, Ludek"]
+[Black "Saidy, Anthony Fred"]
+[Result "1/2-1/2"]
+[WhiteElo "2510"]
+[BlackElo "2425"]
+[ECO "D23"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Qb3 dxc4 5.Qxc4 g6 6.g3 Bg7 7.Bg2 Be6 8.Qd3 Bf5
+9.Qb3 Qb6 10.Nbd2 Na6 11.O-O O-O 12.Nc4 Qxb3 13.axb3 Be4 14.Na5 c5 15.dxc5 Nxc5
+16.Be3 Rfc8 17.Rfc1 Nfd7 18.Nd4 Bxg2 19.Kxg2 b6  1/2-1/2
+
+[Event "Netanya-A"]
+[Site "Netanya"]
+[Date "1973.??.??"]
+[Round "15"]
+[White "Tatai, Stefano"]
+[Black "Kavalek, Lubomir"]
+[Result "1/2-1/2"]
+[WhiteElo "2460"]
+[BlackElo "2565"]
+[ECO "C08"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Bb5+ Nc6 6.Qe2+ Be7 7.dxc5 Nf6 8.Nb3 O-O
+9.Be3 Re8 10.O-O-O Bd7 11.Nf3 a6 12.Ba4 Rc8 13.Kb1 Nb8 14.Bxd7 Nbxd7 15.Qd3 Nxc5
+16.Nxc5 Bxc5 17.Bxc5 Rxc5 18.Rhe1  1/2-1/2

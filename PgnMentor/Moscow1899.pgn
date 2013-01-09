@@ -1,0 +1,293 @@
+[Event "Moscow sim2"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Gelbak"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D06"]
+
+1.d4 d5 2.e3 Nf6 3.c4 e6 4.c5 Be7 5.Nf3 O-O 6.Nc3 b6 7.b4 a5 8.Ba3 axb4 9.Bxb4 Na6
+10.Bxa6 Bxa6 11.Ne5 Qe8 12.Qa4 bxc5 13.Qxe8 Rfxe8 14.dxc5 Ne4 15.Nxe4 dxe4
+16.O-O-O Bb5 17.a3 f6 18.Nd7 Red8 19.c6 Bxb4 20.axb4 Bxc6 21.Nc5 Bd5 22.Rhf1 Rab8
+23.b5 Rd6 24.Rd4 Rxb5 25.Nxe4 Rc6+ 26.Kd2 e5 27.Ra4 f5 28.Nc3 Rb2+  0-1
+
+[Event "Moscow sim"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Kalugin, Sergei"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Qh4+ 5.Kf1 g5 6.Nc3 Ne7 7.d4 Bg7 8.Nf3 Qh5
+9.h4 h6 10.Qd3 Nbc6 11.Bxc6+ bxc6 12.b3 a5 13.Na4 O-O 14.Kg1 g4 15.Ne1 Rd8
+16.c3 Ba6 17.Qd1 c5 18.Ba3 Rxd4 19.cxd4 Bxd4+ 20.Qxd4 cxd4 21.Bxe7 Qe5 22.Bc5 Qxe4
+23.Nc2 Bb7 24.Rh2 g3 25.Ne1 gxh2+ 26.Kh1 Qe3 27.Rd1 Re8  0-1
+
+[Event "Moscow sim"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Kaulen"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 Nxc3 6.bxc3 d4 7.Bc4 f6 8.exf6 Qxf6
+9.Qxf6 gxf6 10.cxd4 Bf5 11.c3 Be4 12.Nf3 Bxf3 13.gxf3 Nd7 14.Kf2 O-O-O 15.d3 Bd6
+16.Bh6 c5 17.dxc5 Nxc5 18.d4 Na4 19.Bg7 Rhe8 20.Bb5 Rg8 21.Bxf6 Rdf8 22.Bxa4 Rxf6
+23.Bc2 Rh6 24.h3 Bg3+ 25.Ke3 Rc6 26.Bf5+ Kb8 27.Kd3 h5 28.h4 Bf2 29.Rh2 Bg1
+30.Rh1  1-0
+
+[Event "Moscow sim"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Rutenberg"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C44"]
+
+1.e4 e5 2.d4 exd4 3.Bc4 Nc6 4.Nf3 Bc5 5.O-O d6 6.c3 Bg4 7.Bb5 Bxf3 8.Qxf3 Qf6
+9.Qd3 Ne7 10.Kh1 O-O 11.f4 d5 12.e5 Qe6 13.Nd2 dxc3 14.bxc3 a6 15.Ba4 Qf5
+16.Qf3 h5 17.Nb3 Ba7 18.Bxc6 bxc6 19.Ba3 Rfe8 20.Nd4 Bxd4 21.cxd4 Nc8 22.Rac1 Re6
+23.Rf2 Nb6 24.h3 Nc4 25.g4 hxg4 26.hxg4 Rh6+ 27.Kg1 Qh7 28.Bc5 Rh3 29.Rc3 Rxf3
+30.Rcxf3 Rb8 31.f5 Rb1+ 32.Kg2 Qh1+ 33.Kg3 Rg1+ 34.Kf4 Qh6+  0-1
+
+[Event "Moscow sim"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Solokovsky"]
+[Black "Lasker, Emanuel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B32"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nxc6 bxc6 6.Bc4 Nf6 7.Qe2 Qc7 8.Nc3 Rb8
+9.O-O Be7 10.b3 O-O 11.Bb2 Bc5 12.Na4 Bb6 13.Nxb6 axb6 14.a4 d6 15.h3 Re8
+16.Rad1 Nxe4 17.Qxe4 d5 18.Bxd5 cxd5 19.Qxd5 Qxc2 20.Qxe5  1-0
+
+[Event "Moscow sim"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Urusov, Dmitry Semenovich"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.Re1 Nc5 7.Bxc6 dxc6 8.Nxe5 Be7
+9.d4 Ne6 10.Qg4 O-O 11.Bh6 Bf6 12.Be3 c5 13.Qg3 cxd4 14.Bd2 b6 15.Na3 Bb7
+16.Rad1 Qd5 17.c4 Qd6 18.b4 c5 19.Nc2 Rae8 20.a3 d3 21.Nxd3 Rd8 22.Ne5 Rfe8
+23.f4 Qxd2 24.Rxd2 Rxd2 25.Ne3 Nxf4 26.Nxf7 Rxe3 27.Nh6+ Kf8 28.Rxe3 Rxg2+
+29.Kf1 Rxg3 30.hxg3 Ng2 31.Re6 Bd4 32.Rxb6 Ne3+ 33.Ke2 Bg2 34.Rb8+ Ke7 35.Ng8+ Kf7
+36.Kf2 Bc6 37.Ke2 Nxc4 38.bxc5 Bxc5 39.Rc8 Ne5 40.a4 Bf8 41.Ke3 Kxg8 42.Kd4 Bd7
+43.Ra8 Nc6+ 44.Kc3 a5 45.Kb3 Be6+ 46.Kc3 Kf7  0-1
+
+[Event "Moscow sim2"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Chigorin, Mikhail"]
+[Black "Bojarkov"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C00"]
+
+1.e4 e6 2.Qe2 Nc6 3.Nc3 e5 4.d3 Nf6 5.f4 Bc5 6.fxe5 Nxe5 7.Nf3 d6 8.Bg5 h6
+9.Bh4 g5 10.Bg3 Bg4 11.O-O-O Nc6 12.Qe1 Qe7 13.Be2 O-O-O 14.Nd2 Be6 15.Nb3 Bb6
+16.Rf1 Rhe8 17.Bf2 Bxb3 18.axb3 Ba5 19.Bg1 d5 20.Qf2 Bxc3 21.bxc3 Qa3+ 22.Kd2 Nxe4+
+23.dxe4 dxe4+ 24.Ke1 Rxd1+ 25.Bxd1 Rd8 26.Qe2 Qa5 27.Qc4 Qa1 28.Ke2 Qc1 29.Be3 Qa1
+30.Qxe4 Qxc3 31.Rxf7 Qa1 32.Qe6+ Kb8 33.Rd7 Qa6+ 34.Kf2 Rf8+ 35.Rf7 Rd8 36.Bf3 Qa1
+37.Bxc6 bxc6 38.Qxc6 Qe5 39.Bxa7+  1-0
+
+[Event "Moscow sim2"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Chigorin, Mikhail"]
+[Black "Falk"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C00"]
+
+1.e4 e6 2.Qe2 Nc6 3.Nc3 e5 4.d3 Nd4 5.Qd1 Bb4 6.Bd2 Nf6 7.Nge2 Nc6 8.g3 d6
+9.Bg2 O-O 10.O-O Be6 11.f4 Bg4 12.h3 Bxe2 13.Qxe2 Nd4 14.Qd1 Nd7 15.f5 f6
+16.Kh2 Rf7 17.a3 Ba5 18.b4 Bb6 19.Nd5 Nc6 20.Bf3 Ne7 21.Nxb6 axb6 22.g4 g5
+23.h4 h6 24.hxg5 hxg5 25.Kg3 Rh7 26.Rh1 Kg7 27.Rxh7+ Kxh7 28.Qc1 Qg8 29.Qb2 Kg7
+30.Rh1 Kf8 31.c3 Ke8 32.Bd1 Nf8 33.Bb3 Qg7 34.Bc1 c6 35.Rh5 Rd8 36.Qf2 Nc8
+37.Be3 b5 38.Qh2 b6 39.Be6 Ne7 40.Bxb6 Nxe6 41.fxe6 Ng6 42.Rh7 Qg8 43.Qh5  1-0
+
+[Event "Moscow sim2"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Chigorin, Mikhail"]
+[Black "Jankowitsch, B."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.O-O d6 6.c3 Qf6 7.a4 a6 8.d3 Bg4 9.Be3 Bxf3
+10.Qxf3 Qxf3 11.gxf3 Ba7 12.Nd2 Nge7 13.b5 Nd8 14.d4 Bb8 15.bxa6 bxa6 16.Rfb1 f6
+17.Bxa6 Rxa6 18.Rxb8 Kd7 19.Kf1 Nec6 20.Rb5 Nf7 21.d5 Ne7 22.c4 Rha8 23.a5 Nd8
+24.c5 c6 25.dxc6+ Rxc6 26.Nc4 Nc8 27.Nb6+ Nxb6 28.cxb6 Kc8 29.a6 Kb8 30.b7 Raxa6
+31.Ba7+ Rxa7 32.Rxa7  1-0
+
+[Event "Moscow sim2"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Chigorin, Mikhail"]
+[Black "Levitsky, Stepan M"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.d3 exf4 5.Bxf4 Bb4 6.e5 d4 7.exf6 dxc3 8.Qe2+ Be6
+9.b3 gxf6 10.Qe4 Nc6 11.Nf3 Qd7 12.a3 O-O-O 13.axb4 Bd5 14.Qe2 Rde8 15.Be3 Bxf3
+16.Qxf3 Nd4 17.Qf2 Rxe3+ 18.Kd1 Qg4+ 19.Kc1 Qf4  0-1
+
+[Event "Moscow sim2"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Chigorin, Mikhail"]
+[Black "Schiffers, Emanuel Stepanovich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.O-O O-O 7.Bg5 Bg4 8.c3 c6
+9.Nbd2 Nbd7 10.Qc2 Qc7 11.Rae1 Rae8 12.h3 Bxf3 13.Nxf3 h6 14.Bc1 Bf4 15.Nh4 Bxc1
+16.Qxc1 Rxe1 17.Rxe1 Re8 18.Rxe8+ Nxe8 19.Qe3 Ndf6 20.Nf5 Kf8 21.g4 Ng8 22.Kg2 a5
+23.h4 Ngf6 24.f3 Ng8 25.Kh3 Qd7 26.Kg3 Qc7+ 27.Kg2 Qd7 28.a4 b5 29.axb5 cxb5
+30.Qf4 b4 31.cxb4 axb4 32.Qb8 Nf6 33.Qxb4+ Kg8 34.Qb8 g6 35.Nxh6+ Kh7 36.g5 Nh5
+37.Bb1 Qd6 38.Qxe8 Qg3+ 39.Kf1 Qxf3+ 40.Ke1  1-0
+
+[Event "Moscow sim"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Bobrov"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D37"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Be7 5.Bf4 O-O 6.e3 b6 7.cxd5 exd5 8.Bd3 Bb7
+9.Rc1 c5 10.O-O Nbd7 11.Ne2 c4 12.Bb1 b5 13.Qc2 Re8 14.Ne5 Nf8 15.Bg5 Ne4
+16.Bxe7 Qxe7 17.Ng3 Rac8 18.Qe2 Nxg3 19.hxg3 Rc7 20.Qg4 f6 21.Nf3 Bc8 22.Bf5 Bxf5
+23.Qxf5 Qe6 24.Qc2 Nd7 25.Rfe1 Nb6 26.Kf1 Nc8 27.Nd2 Nd6 28.a3 Rce7 29.Qc3 Qf5
+30.Qc2 Qh5 31.Kg1 g5 32.Nf3 Rg7 33.Qe2 Nf5 34.Kf1 g4 35.Ng1 Rg5 36.Qd2 Nd6
+37.Ke2 Rf5 38.Rf1 Qh2 39.Ke1 Qxg2 40.Qe2 h5 41.Rc2 Ne4 42.f4 Qxg3+ 43.Kd1 h4  0-1
+
+[Event "Moscow sim2"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Levitsky, Stepan M"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6 5.d4 Nd7 6.dxe5 Ncxe5 7.Nd4 a6 8.Be2 Nf6
+9.f4 Nc6 10.Bf3 Nxd4 11.Qxd4 Be7 12.Be3 O-O 13.h3 Re8 14.Nc3 Nd7 15.Nd5 Bf8
+16.Rad1 c6 17.Nc3 d5 18.Qd2 dxe4 19.Nxe4 Qc7 20.Rfe1 Nb6 21.Qa5 c5 22.b4 Bf5
+23.Nxc5 Rxe3 24.Rxe3 Qxf4 25.Rc3 Nc4 26.Rxc4 Qxc4 27.Nxb7 Bxc2 28.Bd5 Qf4
+29.Rf1 Qd4+ 30.Kh1 Bd3 31.Rxf7 Kh8 32.Bc6 Bxb4 33.Qc7 Qa1+ 34.Kh2 Bc3 35.Qe7 Be5+
+36.g3 Qxa2+ 37.Bg2 Rg8 38.Rf3 Be4 39.Nd8 Bd5 40.Qxe5 Bxf3 41.Qb2 Qd5 42.Bxf3 Qxd8  0-1
+
+[Event "Moscow sim"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Goncharov, Alexey"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C28"]
+
+1.e4 e5 2.Nc3 Nf6 3.Bc4 Nc6 4.d3 Bb4 5.Ne2 d6 6.Ng3 Be6 7.Bb3 Ne7 8.Bg5 Nd7
+9.Nh5 O-O 10.Bxe6 fxe6 11.Qg4 Rf7 12.Qxe6 Nc5 13.Qc4 Bxc3+ 14.bxc3 Qd7 15.O-O Qg4
+16.Bxe7 Qxh5 17.f4 Re8 18.Bg5 h6 19.Bxh6 Qxh6 20.fxe5 Qe6 21.Qxe6 Rxe6 22.exd6 cxd6
+23.c4 Ref6 24.Rxf6 Rxf6 25.Re1 Nd7 26.d4 Nb6 27.c5 dxc5 28.d5 Kf7 29.e5 Rf5
+30.d6 Nc4 31.d7 Ke7 32.e6 Re5 33.Rf1 Rxe6 34.Rf7+ Kd8 35.Rxg7 Re7 36.Rg5 b6
+37.h4 Kxd7 38.Kh2 Ke6 39.g4 Ne3 40.h5 Rh7 41.Kg3 Nxc2 42.Rg6+ Kf7 43.Rc6 Nd4
+44.Rc7+ Kg8 45.Rc8+ Kf7 46.Rc7+  1/2-1/2
+
+[Event "Moscow sim"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Bobrov"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.Bb5 Bb4 5.d3 d6 6.O-O Bxc3 7.bxc3 O-O 8.Bg5 Ne7
+9.Nh4 c6 10.Bc4 d5 11.Bb3 dxe4 12.dxe4 Qxd1 13.Raxd1 Ng6 14.Nxg6 hxg6 15.Bxf6 gxf6
+16.Rd6 Kg7 17.f4 exf4 18.Rxf4 Be6 19.Bxe6 fxe6 20.Rxe6 Rad8 21.e5 fxe5 22.Rxf8 Rxf8
+23.Re7+ Rf7 24.Rxf7+ Kxf7 25.h4 a5 26.g4 a4 27.Kf2 a3 28.Ke3 Ke6 29.Ke4 Kf6
+30.c4 Ke6 31.c5 Kf6 32.h5 gxh5 33.gxh5 Kg5 34.Kxe5 Kxh5 35.Kd6 Kg4 36.Kc7 Kf3
+37.Kxb7 Ke2 38.Kxc6 Kd2 39.Kb5 Kxc2 40.c6 Kb2 41.c7 Kxa2 42.Kb4 Kb2 43.c8=Q a2
+44.Qh8+ Kc1 45.Qh1+ Kb2 46.Qg2+ Kb1 47.Kc3 a1=Q+ 48.Kb3  1-0
+
+[Event "Moscow sim"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Goncharov, Alexey"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 f5 6.d3 Nxc3 7.bxc3 Be7 8.d4 O-O
+9.Ne2 c6 10.g3 Na6 11.h4 Nc7 12.Bh3 Kh8 13.Qh5 Qe8 14.Qxe8 Nxe8 15.Rb1 Nc7
+16.Rf1 b6 17.Rf2 Bd7 18.Be3 Rf7 19.Kd2 Raf8 20.Rbf1 Kg8 21.Bg2 Ne6 22.c4 dxc4
+23.d5 cxd5 24.Bxd5 Bc5 25.Bxc5 bxc5 26.Bxc4 g6 27.Nf4 Re7 28.Nd5 Ref7 29.Nf6+ Kg7
+30.Kc3 Bc8 31.h5 Re7 32.hxg6 hxg6 33.Rh2 Ng5 34.Rfh1  1-0
+
+[Event "Moscow sim"]
+[Site "Moscow"]
+[Date "1899.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Aleksandrov"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.dxc5 Nc6 7.a3 Bxc5 8.Qg4 O-O
+9.Nf3 Qe7 10.Bd3 f6 11.Qh3 g6 12.Qg3 Qg7 13.exf6 Nxf6 14.Bd2 a6 15.O-O-O b5
+16.Ne2 b4 17.axb4 Bxb4 18.c3 Bc5 19.h4 Nh5 20.Qe1 e5 21.fxe5 Nxe5 22.Nxe5 Bf2
+23.g4 Bxe1 24.Rdxe1 Qxe5 25.Nd4 Qg3 26.gxh5 Qxd3 27.hxg6 hxg6 28.h5 Bf5 29.Nxf5 Rxf5
+30.hxg6 Rf2  0-1

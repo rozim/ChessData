@@ -1,0 +1,1268 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "1"]
+[White "Capablanca, Jose Raul"]
+[Black "Horowitz, Israel Albert"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A12"]
+
+1.Nf3 Nf6 2.c4 c6 3.b3 d5 4.Bb2 Bf5 5.d3 e6 6.Nbd2 Bd6 7.g3 O-O 8.Bg2 Nbd7
+9.O-O Qe7 10.Re1 e5 11.cxd5 cxd5 12.Rc1 Rfd8 13.Rc2 h6 14.Nf1 Bb4 15.Bc3 Rac8
+16.Bxb4 Qxb4 17.Ne3 Be6 18.Qa1 d4 19.Rec1 Rxc2 20.Nxc2 Qd6 21.e3 dxe3 22.Nxe3 Ng4
+23.Nxg4 Bxg4 24.Qc3 Re8 25.Ne1 b6 26.Qc6 Qxc6 27.Rxc6 Rd8 28.Rc7 a5 29.Bd5 Kf8
+30.f3 Bf5 31.Bc4 Ke7 32.Bb5 Be6 33.Ng2 Rb8 34.Ne3 Kd8 35.Ra7 Rc8 36.Nc4 Rc7
+37.Ra6 Bxc4 38.dxc4 Kc8 39.Ra8+ Kb7 40.Rg8 g6 41.Re8 Nc5 42.Rxe5 Ne6 43.Be8 Ng7
+44.Bb5 Ne6 45.Kf2 Kc8 46.f4 Kd8 47.Ke3 Ke7 48.Rd5 f5 49.a3 Nc5 50.b4 axb4
+51.axb4 Ne6 52.Rd3 Ra7 53.h4 h5 54.Bc6 Rc7 55.Bd5 Nf8 56.Kd4 Kd6 57.Ra3 Ne6+
+58.Kd3 Nf8 59.Ra8  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "1"]
+[White "Steiner, Herman"]
+[Black "Lasker, Edward"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D03"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 d5 4.Nbd2 h6 5.Bxf6 Qxf6 6.c4 c5 7.e4 cxd4 8.cxd5 exd5
+9.exd5 Nd7 10.Qa4 Bd6 11.Qxd4 O-O 12.Qxf6 Nxf6 13.Bc4 Re8+ 14.Kf1 a6 15.a4 Bd7
+16.Bb3 b5 17.axb5 Bxb5+ 18.Kg1 Re2 19.Re1 Rxe1+ 20.Nxe1 Re8 21.Nef3 Re2 22.Bd1 Re8
+23.Bb3 Re2 24.Bd1 Re8 25.g3 Nxd5 26.Nd4 Bd7 27.Kg2 Bc5 28.N2b3 Bb6 29.Bf3 Nb4
+30.Rd1 a5 31.Rd2 Ba4 32.Nc1 Rd8 33.b3 Bb5 34.Be2 Bc6+ 35.Nxc6 Rxd2  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "1"]
+[White "Kupchik, Abraham"]
+[Black "Dake, Arthur William"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 b6 5.Qc2 Bb7 6.Bg5 h6 7.Bd2 O-O 8.e3 d5
+9.cxd5 exd5 10.Bd3 c5 11.O-O Nc6 12.Rad1 cxd4 13.exd4 Bd6 14.a3 a6 15.Na4 Rc8
+16.Qb3 b5 17.Nc3 Na5 18.Qa2 Nc4 19.Ne2 Nxd2 20.Rxd2 Ne4 21.Rdd1 Qa5 22.Ng3 Rfe8
+23.Nf5 Bb8 24.Qb3 Qb6 25.Rfe1 Rcd8 26.Ng3 Re6 27.Re2 Rde8 28.Qc2 Rc8 29.Qb1 Nxg3
+30.Rxe6 Qxe6 31.hxg3 Qf6 32.Re1 Ba7 33.Bf5 Rd8 34.Qd3 g6 35.Bh3 Kg7 36.Re3 Rd6
+37.Ne5 Qd8 38.Nf3 Qf6 39.Ne5 Qd8 40.Nf3 Qf6 41.Re8 Rd8 42.Re1 Bc6 43.Ne5 Be8
+44.Qc3 Qd6 45.Rc1 Bb6 46.Bg4 a5 47.b4 axb4 48.axb4 Ra8  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "1"]
+[White "Fox, Maurice"]
+[Black "Santasiere, Anthony Edward"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E11"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 Qe7 5.a3 Bxd2+ 6.Qxd2 b6 7.Nc3 Bb7 8.e3 Ne4
+9.Nxe4 Bxe4 10.Bd3 f5 11.Qc3 Bxd3 12.Qxd3 O-O 13.O-O-O Qf6 14.Kb1 Nc6 15.Rhe1 Ne7
+16.Ka1 Ng6 17.Ne5 Rad8 18.f4 a5 19.g4 fxg4 20.Nxg6 Qxg6 21.Qxg6 hxg6 22.Rg1 g5
+23.Rxg4 gxf4 24.Rdg1 Rf7 25.exf4 a4 26.Kb1 Ra8 27.Kc2 Ra5 28.Kd3 Raf5 29.Ke3 c5
+30.dxc5 Rxc5 31.Kd3 Rcf5 32.Ke3 Rc5 33.Kd3 Rcf5 34.Ke3 Rc5 35.Kd3 Kf8 36.R1g2 Rcf5
+37.Ke3 d6 38.Rg6 R5f6 39.R6g4 Rc7 40.Kd3 Rf5 41.Re2 Re7 42.Rg6 Kf7 43.Reg2 Rxf4
+44.Rxg7+ Ke8 45.Rg8+ Kd7 46.Ra8 Kc6 47.Rxa4 Rh7 48.Rb4 Rh3+ 49.Kc2 e5 50.Kb1 e4
+51.Re2 Kc5 52.Kc1 e3 53.Rb5+ Kxc4 54.Rxb6 Kd3 55.Re1 Rc4+ 56.Kd1 d5 57.Rb3+ Ke4
+58.Re2 d4 59.Rg2 Kf3 60.Rg8 Kf2 61.Rf8+ Rf3 62.Re8 Kf1 63.Rb4 Rxb4 64.axb4 d3
+65.b5 Kg2 66.Rxe3 Rxe3 67.Kd2 Re5 68.Kxd3 Rxb5 69.Kc3 Kxh2 70.b4 Kg3 71.Kc4 Rb8
+72.Kc5 Kf4 73.b5 Ke5 74.Kc6 Ke6 75.b6 Rc8+ 76.Kb7 Kd7 77.Ka7 Rc1  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "1"]
+[White "Kevitz, Alexander"]
+[Black "Marshall, Frank James"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D30"]
+
+1.Nf3 d5 2.c4 e6 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.d4 c5 7.cxd5 exd5 8.dxc5 Na6
+9.Nc3 Nxc5 10.Nd4 Nce4 11.Qd3 Nxc3 12.Qxc3 Bd7 13.Qb3 Qa5 14.Be3 Rac8 15.Qxb7 Rb8
+16.Nc6 Rxb7 17.Nxa5 Rxb2 18.Nb3 Bb5 19.Bf3 Bxe2 20.Bxe2 Rxe2 21.Rfc1 Ng4
+22.Bxa7 Bf6 23.Bd4 Rfe8 24.h3 Ne5 25.Kf1 Nd3 26.Rd1 Nb4 27.Bxf6 gxf6 28.a4 Rb2
+29.Nd4 Nc2 30.Nxc2 Rxc2 31.Rxd5 Kg7 32.a5 Ree2 33.Rf5 Kg6 34.g4 h5 35.Ra4 hxg4
+36.hxg4 Red2 37.Rb4 Rd6 38.Ra4 Ra6 39.Kg2 Rc3 40.Ra1 Rd3 41.Ra4 Kg7 42.Rb5 Rc3
+43.f3 Re6 44.Rf5 Ra6 45.Kg3 Re3 46.Ra1 Rc3 47.Ra2 Rd3 48.Rb5 Re6 49.Rb6 Rxb6
+50.axb6 Rb3 51.Ra6 Kg6 52.Kf4 Rb4+ 53.Ke3 f5 54.Kd3 fxg4 55.Kc3 Rb1 56.fxg4 Kg5
+57.Kc4 Kxg4 58.Ra4 Kg5 59.Rb4 Rc1+ 60.Kb5 Rc8 61.b7 Rb8 62.Kc6 f5 63.Kc7 Rxb7+
+64.Rxb7 f4 65.Kd6 f3 66.Ke5 Kg4 67.Ke4 f2 68.Rf7 Kg3 69.Ke3  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "1"]
+[White "Turover, Isador Samuel"]
+[Black "Kashdan, Isaac"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D13"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nc3 Nf6 5.Nf3 Nc6 6.Qb3 e6 7.Bf4 a6 8.e3 Be7
+9.Bd3 O-O 10.Rc1 b5 11.Ne5 Bb7 12.O-O Rc8 13.Nxc6 Bxc6 14.Rc2 Qd7 15.a3 Nh5
+16.Be5 f6 17.Bg3 Nxg3 18.hxg3 f5 19.Rcc1 Bd6 20.f4 g5 21.Kf2 g4 22.Rh1 Rb8
+23.Na2 Rfc8 24.Nb4 Bb7 25.Be2 Rxc1 26.Rxc1 Rc8 27.Rxc8+ Qxc8 28.Qc2 Qd8 29.Nd3 h5
+30.Nc5 Qe7 31.Nxb7 Qxb7 32.a4 Kf7 33.axb5 axb5 34.Qd3 b4 35.Qa6 Qc7 36.Bd1 Be7
+37.Qd3 Bd8 38.b3 Qe7 39.Qf1 Kg6 40.Qh1 Qa7 41.Qf1 Qe7 42.Qd3 Kf7 43.Qf1 Qf6
+44.Qh1 Qh8 45.Ke2 Bf6 46.Qe1 Be7 47.Bc2 Qc8 48.Bd3 Qa8 49.Qb1 Bf6 50.Kd2 Kg6
+51.Qd1 Qh8 52.Kc1 Kf7 53.Qe1 h4 54.gxh4 Bxh4 55.g3 Bf6 56.Qf2 Qh1+ 57.Bf1 Qe4
+58.Ba6 Be7 59.Bf1 Bf6 60.Be2 Kg6 61.Kd2 Qb1 62.Bd1 Qb2+ 63.Ke1 Qc3+ 64.Kf1 Qa1
+65.Qd2  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "2"]
+[White "Marshall, Frank James"]
+[Black "Fox, Maurice"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E11"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 Qe7 5.Qc2 b6 6.e4 Bxd2+ 7.Nbxd2 d6 8.e5 dxe5
+9.dxe5 Nfd7 10.Qe4 c6 11.Qg4 O-O 12.Bd3 f5 13.exf6 Nxf6 14.Qh4 Qb4 15.O-O-O Nbd7
+16.Rhe1 Nc5 17.Bc2 Na4 18.Nb3 b5 19.a3 Qe7 20.Bxh7+ Kh8 21.Ne5  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "2"]
+[White "Santasiere, Anthony Edward"]
+[Black "Kupchik, Abraham"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.e4 d6 6.Ne2 Nbd7 7.O-O c5 8.d5 Nb6
+9.Qb3 e6 10.Nbc3 exd5 11.exd5 Bf5 12.Nb5 Re8 13.Re1 a6 14.Na3 Ng4 15.Bd2 a5
+16.Bc3 Ne5 17.Bxe5 Bxe5 18.Nc3 h5 19.Qd1 h4 20.Qd2 Qf6 21.Rac1 Kg7 22.b3 hxg3
+23.hxg3 g5 24.Nab5 Rh8 25.Ne4 Bxe4 26.Rxe4 Rh5 27.Qe3 Nd7 28.Bf3 Rh6 29.Rg4 Rg6
+30.Re4 Rh8 31.Rc2 Qd8 32.Qe2 f5 33.Re3 g4 34.Bg2 Qg5 35.Nc7 Qh5 36.Ne6+ Kg8
+37.Qd3 Rgh6 38.Kf1 Qg6 39.f4 Bf6 40.Rf2 R8h7 41.Ke2 Re7 42.Kd1 Rhh7 43.Rfe2 Re8
+44.Qd2 b6 45.Qe1 Rhe7 46.Nc7 Rxe3 47.Rxe3 Rxe3 48.Qxe3 Nf8 49.Nb5 Bd8 50.Bf1 Qf6
+51.Bd3 Qa1+ 52.Qc1 Qxa2 53.Bc2 Bf6 54.Qb1 Qxb1+ 55.Bxb1 Be7 56.Bxf5 Nh7 57.Bxg4 Kf7
+58.Bf5 Nf6 59.g4 Bf8 60.Ke2 Ke7 61.Kf3 Kf7 62.g5 Nh5 63.Kg4 Ng7 64.Bc2 Ke7
+65.f5 Ne8 66.Na7 Bg7 67.Nc8+ Kd8 68.Nxb6 Be5 69.f6 Nxf6+ 70.gxf6 Bxf6 71.Kf5 Be5
+72.Ke6 Bg3 73.Nd7 Bf4 74.Bg6 Bg3 75.Nf6 Bf4 76.Ne8  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "2"]
+[White "Lasker, Edward"]
+[Black "Kashdan, Isaac"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D51"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.Bg5 Nbd7 6.e3 Be7 7.a3 a6 8.Qc2 dxc4
+9.Bxc4 b5 10.Be2 Bb7 11.e4 c5 12.dxc5 Nxc5 13.Rd1 Qc7 14.e5 Nfe4 15.Bxe7 Qxe7
+16.Rd4 Rc8 17.O-O O-O 18.Nxe4 Nxe4 19.Qd3 Nc5 20.Qe3 Na4 21.b3 Nc3 22.b4 Nxe2+
+23.Qxe2 Bd5 24.Qe3 Rc2 25.Rg4 f5 26.Nd4 Rc4 27.Rf4 g5 28.Rf3 f4 29.Qd2 Bxf3
+30.Nxf3 Rd8 31.Qe2 h6 32.h3 Qh7 33.Rd1 Rxd1+ 34.Qxd1 Qc7 35.Qd3 Kg7 36.Nd4 Qxe5
+37.Nb3 Qd5  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "2"]
+[White "Kevitz, Alexander"]
+[Black "Capablanca, Jose Raul"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A12"]
+
+1.Nf3 d5 2.c4 c6 3.b3 Bf5 4.g3 Nf6 5.Bg2 e6 6.O-O Nbd7 7.Bb2 Bd6 8.d3 O-O
+9.Nbd2 Qe7 10.Re1 e5 11.cxd5 cxd5 12.e4 dxe4 13.dxe4 Be6 14.Qe2 Rac8 15.Nf1 Ba3
+16.Nxe5 Bxb2 17.Qxb2 Nxe5 18.Qxe5 Qa3 19.Ne3 Ng4 20.Nxg4 Bxg4 21.h3 Be6 22.Re2 Rfd8
+23.Qb2 Qc5 24.Rd2 Rxd2 25.Qxd2 b6 26.Rd1 g6 27.Qe2 a5 28.Kh2 b5 29.f4 a4
+30.bxa4 bxa4 31.Rd2 a3 32.g4 g5 33.Qf2 Qxf2 34.Rxf2 gxf4 35.Rf3 Ra8 36.Rf2 f3
+37.Bf1 Rb8 38.Rxf3 Rb2+ 39.Kg3 Rxa2 40.Rc3 Ra1  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "2"]
+[White "Dake, Arthur William"]
+[Black "Steiner, Herman"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nc3 f6 6.d4 exd4 7.Qxd4 Qxd4 8.Nxd4 Bd6
+9.Be3 Ne7 10.O-O-O c5 11.Nb3 b6 12.f3 Be6 13.Kb1 O-O-O 14.Nc1 Be5 15.N1e2 Rxd1+
+16.Rxd1 Rd8 17.Rxd8+ Kxd8 18.f4 Bd6 19.Kc1 Nc6 20.Kd1 Bc4 21.a3 b5 22.g3 Bf7
+23.Nc1 Bh5+ 24.Ke1 Nd4 25.Bxd4 cxd4 26.Nd1 c5 27.Nf2 c4 28.Ne2 Bc5 29.g4 Be8
+30.b4 Bb6 31.Ng3 g6 32.h4 Bc6 33.g5 Ke7 34.Ng4 fxg5 35.hxg5 Bc7 36.e5 a5
+37.Nf6 axb4 38.axb4 Ke6 39.Kd2 Bb6 40.Nxh7 c3+ 41.Ke2 Bd5 42.Nf8+ Kf7 43.Nd7 Ba7
+44.Nc5 Bxc5 45.bxc5 Bc4+ 46.Kd1 b4 47.Ne2 d3 48.cxd3 Bxd3 49.Nd4 Be4 50.c6 Ke7
+51.f5 gxf5 52.c7 Kd7 53.g6 f4 54.g7 Bh7 55.Nb5 Bg8 56.Nd6 Kxc7 57.Ne8+ Kd8
+58.Nf6 Bb3+ 59.Ke1 f3 60.Ne4 Ke7 61.Nc5 Bg8 62.e6 c2 63.Nd3 Bxe6 64.Kd2 b3
+65.Kc1 Kf7 66.Ne5+  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "2"]
+[White "Horowitz, Israel Albert"]
+[Black "Turover, Isador Samuel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D15"]
+
+1.Nf3 d5 2.c4 c6 3.d4 Nf6 4.Nc3 dxc4 5.e3 b5 6.a4 b4 7.Na2 e6 8.Bxc4 Nbd7
+9.Qe2 c5 10.O-O Be7 11.Rd1 Qb6 12.Bd2 a5 13.Nc1 O-O 14.Nb3 Bb7 15.Be1 cxd4
+16.Nfxd4 Ne5 17.Bb5 Bd5 18.f3 Nc6 19.Bf2 Nxd4 20.Nxd4 e5 21.Nf5 Bc5 22.e4 Bxf2+
+23.Qxf2 Qxf2+ 24.Kxf2 Be6 25.Ne7+ Kh8 26.Nc6 Nd7 27.Rd6 Nc5 28.Nxe5 Rfd8
+29.Rxd8+ Rxd8 30.Ke3 Nb3 31.Re1 f6 32.Nc6 Rd6 33.Re2 Bd7 34.Rc2 g5 35.Nd8 Kg7
+36.Rc7 Kf8 37.Bxd7  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "3"]
+[White "Kashdan, Isaac"]
+[Black "Dake, Arthur William"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Nc3 Nbd7 7.Nf3 O-O 8.Be2 b6
+9.O-O Bb7 10.a4 a6 11.Bc4 Nd5 12.Bxe7 Qxe7 13.Nxd5 Bxd5 14.Qe2 Bxc4 15.Qxc4 c5
+16.Rad1 Rfd8 17.Rfe1 cxd4 18.Rxd4 Nf6 19.Qc6 Rdc8 20.Qxb6 Rxc2 21.Rd2 Rxd2
+22.Nxd2 Qe8 23.b3 Nd5 24.Qb7 Qc8 25.Qxc8+ Rxc8 26.Nc4 Kf8 27.Kf1 Ke7 28.Rd1 Rc5
+29.Rd4 h5 30.Ke2 g5 31.Kd2 a5 32.Nb2 Kd6 33.Nc4+ Ke7 34.Ne5 Nf4 35.Nd3 Nxd3
+36.Kxd3 g4 37.b4 axb4 38.Rxb4 Rc1 39.Rc4 Ra1 40.Rc7+ Kd6 41.Rc4 Kd5 42.Rf4 f5
+43.Kc3 Rc1+ 44.Kb2 Rc8 45.Rb4 h4 46.a5 Ra8 47.Ra4 Kc5 48.Kc3 Ra6 49.f3 gxf3
+50.gxf3 e5 51.h3 Kb5 52.Rb4+ Kc6 53.Rc4+ Kb5 54.Rb4+  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "3"]
+[White "Kupchik, Abraham"]
+[Black "Steiner, Herman"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A47"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 b6 4.Bd3 Bb7 5.O-O c5 6.Nbd2 Nc6 7.c3 Be7 8.e4 cxd4
+9.Nxd4 O-O 10.Qe2 d6 11.f4 Nd7 12.Bb5 Qc7 13.N2f3 Nc5 14.Nxc6 Bxc6 15.Bxc6 Qxc6
+16.Re1 Rfd8 17.Nd4 Qb7 18.e5 Rac8 19.b3 Bf8 20.Bb2 d5 21.Rad1 Ne4 22.Rd3 Bc5
+23.Rh3 Bxd4+ 24.cxd4 g6 25.Ba3 Rd7 26.Rf1 Rdc7 27.f5 exf5 28.Bb4 Rc1 29.Be1 Qe7
+30.Qb5 Qe6 31.Rhf3 Qc6 32.Qa6 Rc7 33.h4 h5 34.Kh2 Rc2 35.Re3 Qd7 36.Re2 Rxe2
+37.Qxe2 Qc6 38.Bd2 Qc2 39.Rc1 Qxc1 40.Bxc1 Rxc1 41.Qb5 f4 42.e6 Nf2 43.Qe8+ Kg7
+44.Qxf7+ Kh8 45.g4 Nxg4+ 46.Kg2 Rc2+ 47.Kf1 f3  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "3"]
+[White "Lasker, Edward"]
+[Black "Horowitz, Israel Albert"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D18"]
+
+1.d4 Nf6 2.c4 c6 3.Nc3 d5 4.Nf3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Nbd7 8.O-O Be7
+9.Qe2 O-O 10.h3 h6 11.e4 Bh7 12.Bf4 Bb4 13.Bd3 Rc8 14.Rfd1 Qe7 15.Na2 Ba5
+16.Nc3 Bc7 17.Bxc7 Rxc7 18.Rd2 Rd8 19.Rad1 Nf8 20.Bb1 Ne8 21.Ba2 Kh8 22.Ne5 Nd6
+23.Kh2 f6 24.Nf3 f5 25.exf5 exf5 26.Ne5 Qf6 27.Qh5 Ne6 28.Bxe6 Qxe6 29.f4 Ne4
+30.d5 cxd5 31.Nxd5 Rcd7 32.Nc7 Rxd2 33.Rxd2  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "3"]
+[White "Santasiere, Anthony Edward"]
+[Black "Marshall, Frank James"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D38"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 Bb4 5.Bg5 c5 6.dxc5 Nbd7 7.Nd2 O-O 8.e3 Nxc5
+9.Qc2 d4 10.exd4 Qxd4 11.Be3 Qe5 12.Be2 Bd7 13.O-O Bxc3 14.bxc3 Ba4 15.Qb2 Bc6
+16.Nf3 Bxf3 17.Bxf3 Rac8 18.Bd4 Qf5 19.Bxc5 Qxc5 20.Qxb7 Rc7 21.Qb3 Qxc4
+22.Qxc4 Rxc4 23.Rac1 Rfc8 24.Rfd1 g5 25.Rd3 g4 26.Be2 Ne4 27.Rd7 Rxc3 28.Rxc3 Rxc3
+29.Bxg4 Rc2 30.h4 Nf6 31.Rd8+ Kg7 32.Bf3 Rxa2 33.g4 h6 34.Kg2 Ra4 35.Bd1 Ra3
+36.f3 Nd5 37.Kg3 Rc3 38.Be2 a5 39.Ra8 Rc5 40.Ra7 Nc3 41.Bd3 a4 42.f4 Nd1
+43.Kf3 Rc3 44.Ke2 Nb2 45.Bb1 Rc1 46.Ba2 Rc2+ 47.Kf3 Rc3+ 48.Ke2 Rc6 49.f5 Kf6
+50.fxe6 fxe6 51.Rh7 Rc2+ 52.Kf3 Nc4 53.Bxc4 Rxc4 54.Rxh6+ Ke5 55.Rh5+ Kd4
+56.Ra5 e5 57.g5 e4+ 58.Ke2 e3 59.g6 Rc2+ 60.Kf3 Rf2+ 61.Kg3 Rf1 62.Rxa4+ Kd3
+63.Ra3+ Ke4 64.Ra2 Rf6 65.h5 Rf3+ 66.Kg4 Rf2 67.Ra4+ Ke5 68.Kg3 Kf6 69.Re4 Rf5
+70.Kg4 Rg5+ 71.Kh4 Rf5 72.Rxe3 Rf4+ 73.Kg3 Ra4 74.Rf3+ Kg7 75.Rf7+ Kg8 76.h6 Ra8
+77.Kg4 Rb8 78.Kg5 Kh8 79.Rf8+ Rxf8 80.g7+ Kh7 81.gxf8=N+ Kg8 82.Kg6 Kh8 83.Nd7 Kg8
+84.Ne5  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "3"]
+[White "Turover, Isador Samuel"]
+[Black "Kevitz, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E11"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 Qe7 5.a3 Bxd2+ 6.Nbxd2 d6 7.e3 e5 8.dxe5 dxe5
+9.Qc2 O-O 10.Bd3 a5 11.Ne4 Nbd7 12.O-O Nxe4 13.Bxe4 g6 14.Qc3 a4 15.Qb4 Nc5
+16.Rad1 c6 17.Rd2 Re8 18.Bc2 e4 19.Nd4 f5 20.Rfd1 Ne6 21.Qc3 Qf6 22.h3 Qe5
+23.Nb5 Qxc3 24.Nxc3 Nc5 25.Rd4 Be6 26.Kf1 Kf7 27.Ke1 Ke7 28.f3 exf3 29.gxf3 Kf6
+30.Kf2 Bf7 31.Rh4 h5 32.Rhd4 g5 33.h4 g4 34.Rf4 Bg6 35.Ne4+ Nxe4+ 36.fxe4 Red8
+37.exf5 Bf7 38.Rfd4 Rxd4 39.Rxd4 c5 40.Rd7 Bxc4 41.Kg3 Bb3 42.Be4 Ke5 43.Re7+ Kf6
+44.Rd7 Ke5  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "3"]
+[White "Fox, Maurice"]
+[Black "Capablanca, Jose Raul"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E55"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Nf3 Bb7 6.Bd3 O-O 7.Qc2 d5 8.O-O dxc4
+9.Bxc4 Nbd7 10.a3 Bxc3 11.bxc3 c5 12.Qe2 Qc7 13.Ba6 Bxa6 14.Qxa6 e5 15.Rd1 e4
+16.Ne1 cxd4 17.cxd4 Ng4 18.f4 exf3 19.Nxf3 Rfe8 20.Qd3 Rad8 21.Bd2 Nde5 22.Qe2 Qc4
+23.Re1 Qxe2 24.Rxe2 Nc4 25.h3 Nxd2 26.hxg4 Nxf3+ 27.gxf3 Rxd4 28.a4 Rd5 29.Rc2 h5
+30.Kf2 hxg4 31.fxg4 Rde5 32.Rc3 R8e7 33.a5 b5 34.a6 Kh7 35.Rb3 R7e6 36.Ra5 Rb6
+37.Rb4 Kg6 38.Rd4 Rf6+ 39.Ke2 Rfe6 40.Ra3 Re4 41.Rd1 b4 42.Ra4 Rxe3+ 43.Kf2 Ra3
+44.Rxb4 Rexa6 45.Rb7 Rf6+ 46.Ke2 Ra4 47.Rd5 Rxg4 48.Rxa7 Re4+ 49.Kd3 Re1
+50.Kd2 Ree6 51.Rad7 Rf2+ 52.Kd3 Re1  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "4"]
+[White "Fox, Maurice"]
+[Black "Horowitz, Israel Albert"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B44"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.Nc3 cxd4 5.Nxd4 Nc6 6.e4 Bb4 7.Nxc6 bxc6 8.Bd3 O-O
+9.O-O d5 10.Qe2 d4 11.e5 dxc3 12.Bg5 h6 13.Bxf6 gxf6 14.Qg4+ Kh8 15.Qh3 Kg7
+16.Qg3+ Kh8 17.Qh3 Kg7 18.Qg3+  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "4"]
+[White "Capablanca, Jose Raul"]
+[Black "Dake, Arthur William"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D17"]
+
+1.Nf3 Nf6 2.c4 c6 3.d4 d5 4.Nc3 dxc4 5.a4 Bg4 6.Ne5 Nbd7 7.Nxc4 Qc7 8.g3 e5
+9.dxe5 Nxe5 10.Bf4 Nfd7 11.Bg2 f6 12.O-O Be6 13.Nxe5 fxe5 14.Be3 Bc5 15.Ne4 Bxe3
+16.fxe3 O-O-O 17.Ng5 Nf6 18.Qc2 Bg8 19.Rad1 Rxd1 20.Rxd1 h6 21.Nf3 e4 22.Nd2 Bh7
+23.Nc4 Rd8 24.Rd4 c5 25.Rxd8+ Kxd8 26.Bh3 g5 27.Qc3 Ke7 28.Qe5+ Qxe5 29.Nxe5 Bg8
+30.a5 Kd6 31.Ng4 Nxg4 32.Bxg4 Be6 33.Bh5 c4 34.Bg6 Bd5 35.Kf2 Kc5 36.Ke1 Kb4
+37.Kd2 c3+ 38.bxc3+ Kxa5 39.c4 Bc6 40.Kc3 Ka4 41.Bf7 Ka3 42.c5 Ka4 43.Kc4 b5+
+44.cxb6 axb6 45.Bg6 Ka3 46.Kd4 Kb3 47.h4 Kc2 48.hxg5 hxg5 49.Bf5 Kd2 50.g4 Kxe2
+51.Bxe4 Be8 52.Bf5 Kf3 53.e4 Kf4 54.e5 b5 55.e6 Bc6 56.Bg6 b4 57.Kc5 Ba4
+58.Kxb4 Bc6 59.Kc5 Ba4 60.Bh5 Ke5 61.e7  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "4"]
+[White "Kashdan, Isaac"]
+[Black "Santasiere, Anthony Edward"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 e6 7.Bc4 Nd7 8.O-O Bd6
+9.Qe2 Ne7 10.Ne5 Nxe5 11.dxe5 Bc5 12.c3 Qc7 13.a4 a5 14.Kh1 Nf5 15.Nxf5 Bxf5
+16.f4 h5 17.Be3 Qb6 18.Bxc5 Qxc5 19.Bd3 Bg4 20.Qc2 O-O-O 21.Rae1 Rd7 22.Be2 Bf5
+23.Qc1 h4 24.Rd1 Rxd1 25.Rxd1 Qf2 26.Qd2 h3 27.Bf3 hxg2+ 28.Bxg2 Qxd2 29.Rxd2 Rh4
+30.Rf2 Kc7 31.Kg1 g6 32.Bh1 Bd3 33.Kg2 Rg4+ 34.Kf3 Rg1 35.Ke3 Bc4 36.Bf3 Bb3
+37.h4 Rg3 38.Rg2 Rxf3+ 39.Kxf3 Bd5+ 40.Kg3 Bxg2 41.Kxg2 Kb6 42.Kg3 Kc5 43.Kg4 Kc4
+44.Kg5 Kb3 45.Kf6 Kxb2 46.Kxf7 b5 47.axb5 cxb5 48.h5 gxh5 49.f5 h4 50.fxe6 h3
+51.e7 h2 52.e8=Q h1=Q 53.Qxb5+ Kxc3 54.e6 Qh7+ 55.Ke8 Qh8+ 56.Kd7 Qd4+ 57.Kc8 Qd6
+58.Qd7 Qa6+ 59.Kc7 Kb2 60.Qd4+ Kb1 61.e7 Qe2 62.Kd8 a4 63.Qb4+  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "4"]
+[White "Kupchik, Abraham"]
+[Black "Kevitz, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E11"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 Qe7 5.e3 O-O 6.Bd3 Nc6 7.O-O Bxd2 8.Nbxd2 d6
+9.e4 e5 10.d5 Nd8 11.Re1 Nh5 12.Nf1 Nf4 13.Ng3 g6 14.Rc1 a5 15.Bf1 Bg4 16.Rc3 b6
+17.b3 f6 18.h3 Bd7 19.Nh2 Qg7 20.a3 Nf7 21.b4 axb4 22.axb4 Ng5 23.c5 bxc5
+24.bxc5 Qh6 25.Ng4 Qh4 26.cxd6 cxd6 27.Nh1 Ra4 28.Qc2 Rd4 29.Rg3 f5 30.exf5 Bxf5
+31.Qc7 Bxg4 32.hxg4 Ne4 33.Rf3 Qxg4 34.Ra1 Qg5 35.Ra7 Qh6 36.Qc2 Nd2  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "4"]
+[White "Steiner, Herman"]
+[Black "Marshall, Frank James"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D38"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Bb4 5.Qa4+ Nc6 6.e3 O-O 7.a3 Bxc3+ 8.bxc3 e5
+9.Be2 Bg4 10.h3 Bh5 11.cxd5 Nxd5 12.Qc2 Re8 13.O-O e4 14.Nh2 Bxe2 15.Qxe2 Nxc3
+16.Qb2 Nd5 17.Qxb7 Re6 18.Qb2 Nce7 19.Qe2 Nf5 20.Bd2 Rg6 21.Kh1 Nh4 22.Rg1 Rb8
+23.Be1 Rbb6 24.f3 exf3 25.Bxh4 Qxh4 26.Qxf3 Rg5 27.Rab1 h5 28.Rxb6 axb6 29.Rf1 f6
+30.Rc1 Qg3 31.Qxg3 Rxg3 32.Nf1 Rg5 33.Kg1 f5 34.Kf2 Rg6 35.Kf3 Re6 36.h4 g6
+37.a4 Kf7 38.a5 bxa5 39.Rc5 Nf6 40.Rxa5 Rc6 41.Ra7 Rc1 42.Ng3 Rc3 43.Ne2 Rb3
+44.Nc1 Rc3 45.Ne2 Rb3 46.Nc1 Rc3 47.Ne2 Rc4 48.Nf4 Ng4 49.Ne2 Rc6 50.Ra3 Nh2+
+51.Kf2 Rb6 52.Ra7 Rb2 53.Rxc7+ Ke6 54.Ke1 Rb1+ 55.Rc1 Rb3 56.Nf4+ Kd6 57.Kd2 Ng4
+58.Ra1 Rxe3 59.Ra6+ Kd7 60.Rxg6 Re4 61.Ne2 Nh2 62.Rg5 Ke6 63.Rxh5 Nf1+ 64.Kd1 Ne3+
+65.Kd2 Nf1+ 66.Kd1 Ne3+ 67.Kd2 Nf1+ 68.Kd1 Ne3+  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "4"]
+[White "Turover, Isador Samuel"]
+[Black "Lasker, Edward"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D33"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg5 cxd4 8.Nxd4 Bc5
+9.e3 Bxd4 10.exd4 O-O 11.Bg2 Re8+ 12.Be3 Bg4 13.Qd2 Qd7 14.O-O Bh3 15.Rfe1 Bxg2
+16.Kxg2 Qf5 17.f3 h6 18.Bf2 Nb4 19.Rxe8+ Rxe8 20.Nb5 Ne4 21.fxe4 dxe4 22.Qe2 e3
+23.Be1 Nc2 24.Rc1 Nxe1+ 25.Rxe1 Qd5+ 26.Kg1 Qxa2 27.Nc3 Qb3 28.d5 Rd8 29.Qxe3 b5
+30.Qe7  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "5"]
+[White "Dake, Arthur William"]
+[Black "Horowitz, Israel Albert"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E11"]
+
+1.Nf3 Nf6 2.c4 e6 3.d4 Bb4+ 4.Nbd2 O-O 5.a3 Be7 6.g3 d6 7.Bg2 Nc6 8.b4 Re8
+9.Bb2 Bf8 10.b5 Nb8 11.O-O Nbd7 12.Qc2 e5 13.e3 g6 14.Rfd1 Qe7 15.a4 Bg7
+16.a5 Rb8 17.Ba3 h6 18.c5 e4 19.cxd6 cxd6 20.Ne5 Nxe5 21.dxe5 Qxe5 22.Nc4 Qh5
+23.Nxd6 Bg4 24.Nxe8 Nxe8 25.Rab1 Rc8 26.Qb3 Rc3 27.Qb4 Bxd1 28.Qe7 Nf6 29.Qd8+ Kh7
+30.Be7 Rd3 31.Qc8 Qd5 32.Bf1 Rd2 33.Bc4 Qd7 34.Qxd7 Rxd7 35.Bc5 Rc7 36.Bxa7 Bc2
+37.Rb4 Bd3 38.Bxd3 exd3 39.Rd4 Rc3 40.b6 Ne4 41.Rd5 d2  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "5"]
+[White "Fox, Maurice"]
+[Black "Turover, Isador Samuel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B38"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.h3 c5 7.Be2 cxd4 8.Nxd4 Nc6
+9.Be3 Bd7 10.O-O a6 11.Rc1 Rc8 12.Nb3 Be6 13.Nd2 Nd7 14.f4 Nd4 15.Kh2 f5
+16.Bxd4 Bxd4 17.Nf3 Bf6 18.Nd4 Bxd4 19.Qxd4 Qb6 20.Qxb6 Nxb6 21.b3 Rc5 22.Bf3 Bc8
+23.Rfe1 Kf7 24.Rcd1 Re8 25.g3 Rc7 26.e5 dxe5 27.Rxe5 e6 28.Rd6 Nd7 29.Re3 Nf6
+30.Na4 Rd7 31.c5 Rxd6 32.cxd6 Nd7 33.Rc3 e5 34.Bd5+ Kf6 35.Rc7 exf4 36.gxf4 Re2+
+37.Kg3 Rd2 38.Nb6 Rxd5 39.Nxd5+ Ke6 40.Ne3 Nb6 41.Nc4 Nxc4 42.bxc4 Bd7 43.c5 Bc6
+44.Re7+ Kf6 45.Rxh7  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "5"]
+[White "Kevitz, Alexander"]
+[Black "Lasker, Edward"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A09"]
+
+1.Nf3 d5 2.c4 dxc4 3.Na3 e5 4.Nxe5 Bxa3 5.Qa4+ Nd7 6.Nxd7 Bxd7 7.Qxa3 Ne7
+8.Qc3 O-O 9.Qxc4 Be6 10.Qa4 Qd5 11.e4 Qd6 12.d3 Nc6 13.Bd2 b5 14.Qd1 f5 15.Be2 fxe4
+16.dxe4 Rad8 17.Qc1 Nd4 18.Bd1 Bc4 19.b3 Bd3 20.f3 Qg6 21.Kf2 Qxe4 22.Bg5 Rde8
+23.Qe3 Qf5 24.Qxd4 Qxg5 25.Qxd3 Qc5+ 26.Kf1 Qe5 27.Kf2 Qc5+ 28.Kf1 Qe5 29.Kf2 Qxa1
+30.Qxh7+ Kxh7 31.Bc2+ Kh6 32.Rxa1 Rd8 33.Be4 Rd2+ 34.Kg3 Rfd8 35.a4 b4 36.Rc1 R8d7
+37.Rc5 g6 38.h4 Kg7 39.Rg5 R7d6 40.h5 Kh6 41.Kh4 gxh5 42.Rxh5+ Kg7 43.Kg3 Rb2
+44.Rh7+ Kf6 45.Rxc7 a6 46.Rb7 Rxb3 47.Kf4 a5 48.g4 Rc3 49.g5+ Ke6 50.Bf5+ Kd5
+51.g6 Rc4+ 52.Kg5 Rxg6+ 53.Bxg6 Kd4 54.Rb5 Rc3 55.f4  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "5"]
+[White "Marshall, Frank James"]
+[Black "Kupchik, Abraham"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E11"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 Qe7 5.Qc2 Bxd2+ 6.Nbxd2 d6 7.e3 e5 8.Bd3 Nbd7
+9.O-O O-O 10.Rae1 Re8 11.Ng5 Nf8 12.Nge4 Nxe4 13.Bxe4 c6 14.d5 cxd5 15.Bxd5 Nd7
+16.Ne4 Nb6 17.Rd1 Bf5 18.Qd2 Nxc4 19.Qb4 Bxe4 20.Bxe4 d5 21.Qxe7 Rxe7 22.Rxd5 g6
+23.g4 Rc8 24.Rc1 Kg7 25.b3 Nd6 26.Rxc8 Nxc8 27.Rd8 Rc7 28.Bxb7 Ne7 29.Ba6 h5
+30.gxh5 gxh5 31.Bc4 e4 32.Kg2 Ng6 33.Rd5 f5 34.Bb5 Kf6 35.Rd7 Rc2 36.Rxa7 f4
+37.exf4 Nxf4+ 38.Kg3 Ng6 39.Bc4 Rc3+ 40.Kg2 Nf4+ 41.Kg1 Rc1+ 42.Bf1 h4 43.h3 Ne2+
+44.Kg2 Nf4+ 45.Kg1 Nxh3+ 46.Kh2 Nxf2 47.Bc4 Kg5 48.Kg2 Rc2 49.Rg7+ Kf4 50.Rf7+ Ke3
+51.a4 h3+ 52.Kg1 Ng4 53.a5 Ne5 54.Rf5 Nf3+ 55.Rxf3+ Kxf3 56.a6 h2+ 57.Kh1 Kg3  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "5"]
+[White "Capablanca, Jose Raul"]
+[Black "Santasiere, Anthony Edward"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A07"]
+
+1.Nf3 Nf6 2.b3 d5 3.Bb2 Bf5 4.g3 e6 5.Bg2 Nbd7 6.O-O Bd6 7.d3 h6 8.Nbd2 Qe7
+9.Re1 e5 10.c4 c6 11.cxd5 cxd5 12.e4 dxe4 13.dxe4 Be6 14.Nh4 g6 15.Nf1 O-O
+16.Ne3 Rfc8 17.Nhf5 gxf5 18.exf5 e4 19.fxe6 Qxe6 20.Bh3 Qxh3 21.Qxd6 Rc6
+22.Qf4 Re8 23.Rac1 Nh5 24.Qf5 Qxf5 25.Nxf5 Ree6 26.Rxc6 bxc6 27.Rd1 Ne5 28.Nxh6+ Kg7
+29.Ng4 f6 30.Bxe5 fxe5 31.Re1 Kg6 32.Rxe4 Kf5 33.f3 Ng7 34.Ne3+ Kf6 35.Ra4 Rd6
+36.Rxa7 Rd2 37.Ng4+  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "5"]
+[White "Steiner, Herman"]
+[Black "Kashdan, Isaac"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C13"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 c5 7.Bxe7 Kxe7 8.Qg4 Kf8
+9.Nf3 Nc6 10.dxc5 Ndxe5 11.Nxe5 Nxe5 12.Qg3 Nd7 13.Qd6+ Qe7 14.Qxe7+ Kxe7
+15.Na4 Nf6 16.Bb5 Bd7 17.Bxd7 Nxd7 18.Kd2 Rhc8 19.b4 b6 20.cxb6 axb6 21.Nb2 Ra3
+22.Rh3 Rxh3 23.gxh3 Ne5 24.a4 Nf3+ 25.Kd3 Nxh4 26.c4 Nf3 27.cxd5 exd5 28.a5 Ne5+
+29.Kd2 bxa5 30.Rxa5 Nc6 31.Rb5 Rb8 32.Rxd5 Rxb4 33.Nd1 Rh4 34.Rd3 Ne5 35.Rg3 g6
+36.Ne3 f5 37.f4 Nf7 38.Ng2 Rh5 39.h4 Kf6 40.Rd3 h6  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "6"]
+[White "Fox, Maurice"]
+[Black "Dake, Arthur William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 Nf6 2.Bf4 d5 3.e3 Bf5 4.Nf3 c6 5.c3 Nbd7 6.Qb3 Qb6 7.Nbd2 e6 8.h3 h6
+9.Be2 Be7 10.Ne5 O-O 11.g4 Bh7 12.g5 hxg5 13.Bxg5 Qxb3 14.axb3 Rfc8 15.Bxf6 Nxf6
+16.b4 a6 17.Bd3 Bxd3 18.Nxd3 g6 19.Ke2 Kg7 20.Nb3 Ne4 21.Ra3 Rh8 22.Nbc5 Nd6
+23.Raa1 Rh6 24.Rh2 Rah8 25.Rah1 Bd8 26.Ne5 Kf8 27.Ng4 Rh4 28.Ne5 Ke7 29.Nf3 R4h5
+30.Kf1 Bc7 31.Ne5 Nc4 32.Nxb7 Bxe5 33.dxe5 Rxe5 34.Ke2 Nxb2 35.Ra1 Ra8 36.Nc5 Rh5
+37.Rxa6 Rxa6 38.Nxa6 Na4 39.Kd3 Rh8 40.Rh1 Ra8 41.b5 cxb5 42.Nc7 Nc5+ 43.Kd4 Kd6
+44.Nxb5+ Kc6 45.Rb1 f6 46.e4 Ra4+ 47.Ke3 Rxe4+ 48.Kf3 e5 49.Na7+ Kc7 50.Nb5+ Kd7
+51.Rd1 Rf4+ 52.Ke3 Nb7 53.Rg1 Re4+ 54.Kf3 g5 55.Rg4 Nc5 56.Rxe4 Nxe4 57.Ke3 Kc6
+58.Na7+ Kb6 59.Nc8+ Kc7 60.Ne7 Nxc3  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "6"]
+[White "Kashdan, Isaac"]
+[Black "Horowitz, Israel Albert"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A14"]
+
+1.Nf3 Nf6 2.c4 e6 3.b3 d5 4.Bb2 Nbd7 5.g3 c6 6.Bg2 Be7 7.O-O O-O 8.Nc3 b6
+9.e4 Bb7 10.d3 dxc4 11.dxc4 Qc7 12.Qe2 Rfd8 13.Rad1 Nf8 14.e5 Ne8 15.Nd4 a6
+16.f4 c5 17.Nf3 Rxd1 18.Rxd1 Rd8 19.Kf2 Ng6 20.Rxd8 Qxd8 21.Ne4 Nf8 22.Ne1 Qd7
+23.Qd3 Qxd3 24.Nxd3 Bc8 25.a3 a5 26.Ke3 f5 27.Nc3 g5 28.Na4 gxf4+ 29.gxf4 Bd8
+30.Bc3 Kf7 31.b4 axb4 32.axb4 cxb4 33.Nxb4 Bd7 34.Nc6 Bxc6 35.Bxc6 Ng6 36.Bd4 Ng7
+37.Bf3 Nh4 38.Bxb6 Bxb6+ 39.Nxb6 Nxf3 40.Kxf3 Ke7 41.Na4 Kd7 42.Nc5+ Kc6
+43.Nd3 Ne8 44.Ke3 Nc7 45.Kd4 Na6 46.Ne1 Nc5 47.Nf3 Nd7 48.Kc3 Nf8 49.Kb4 Ng6
+50.Nd4+ Kd7 51.Ne2 Kc6 52.c5 Ne7 53.Kc4 Nd5 54.Nd4+ Kd7 55.c6+ Ke7 56.Nxf5+ Kd8
+57.Kc5 Nxf4 58.Nd4  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "6"]
+[White "Kupchik, Abraham"]
+[Black "Capablanca, Jose Raul"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C73"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Bxc6+ bxc6 6.d4 f6 7.O-O g6 8.Ne1 Bg7
+9.f4 exd4 10.Qxd4 Ne7 11.b3 c5 12.Qd3 f5 13.e5 Bb7 14.Bb2 Nc6 15.Qc4 Qd7
+16.Nf3 O-O-O 17.Na3 Qe7 18.Rae1 dxe5 19.fxe5 g5 20.Qe2 g4 21.Nd2 Bxe5 22.Bxe5 Qxe5
+23.Qxe5 Nxe5 24.Rxe5 Rxd2 25.Rf2 Rd1+ 26.Rf1 Rxf1+ 27.Kxf1 f4 28.Nc4 Rd8
+29.Rf5 Rd1+ 30.Ke2 Rg1 31.Rxf4 Rxg2+ 32.Kd3 h5 33.Ne5 Kb8 34.Rf8+ Ka7 35.Rg8 Rxh2
+36.Nxg4 hxg4 37.Rxg4 Rh3+ 38.Kd2 Kb6 39.Kc1 Rh2 40.Kb2 Re2 41.Rg6+ Kb5 42.Rg3 Be4
+43.Rc3 Bd5 44.Rh3 c4 45.Rh5 c6 46.Kc3 Re3+ 47.Kd4 Re4+ 48.Kc3 Kc5 49.Rh3 Rf4
+50.Kb2 Rf3 51.Rh2 Rg3 52.bxc4 Kxc4 53.Rh4+ Kb5 54.Rd4 Re3 55.a3 Re2  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "6"]
+[White "Santasiere, Anthony Edward"]
+[Black "Lasker, Edward"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A32"]
+
+1.Nf3 Nf6 2.d4 e6 3.g3 c5 4.c4 cxd4 5.Nxd4 Bb4+ 6.Nd2 Qb6 7.Nf3 Ne4 8.e3 Bxd2+
+9.Nxd2 Nxd2 10.Bxd2 Qc6 11.Rg1 a5 12.Bg2 Qc7 13.Bc3 O-O 14.Qd4 f6 15.O-O-O Na6
+16.g4 Nb4 17.Kb1 d5 18.cxd5 e5 19.Qe4 Qd6 20.a3 Na6 21.Bxa5 f5 22.Qc2 fxg4
+23.Be4 g6 24.h3 Bd7 25.hxg4 Rfc8 26.Qe2 Rc5 27.Bd2 Rb5 28.Bd3 Rb3 29.Bc4 Qxa3
+30.Bxb3 Qxb3 31.Bc3 Nc5 32.Qf3 Ba4 33.Rd2 Qa2+  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "6"]
+[White "Steiner, Herman"]
+[Black "Kevitz, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E16"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 Qe7 5.g3 b6 6.Bg2 Bb7 7.O-O Bxd2 8.Qxd2 O-O
+9.Nc3 d6 10.Rfe1 Nbd7 11.Qc2 c5 12.e4 cxd4 13.Nxd4 Rac8 14.b3 Rfd8 15.Rad1 Ne8
+16.f4 Nf8 17.Qf2 a6 18.Re3 Qc7 19.Red3 Nd7 20.g4 Nf8 21.Nde2 Bc6 22.g5 b5
+23.cxb5 axb5 24.b4 Bd7 25.f5 Qb8 26.h4 Rc4 27.a3 Rdc8 28.h5 R8c7 29.Rf1 Qa7
+30.Re3 Bc6 31.fxe6 Nxe6 32.Nd5 Rb7 33.Qg3 Bxd5 34.exd5 Nf8 35.Rf2 Re7 36.Rxe7 Qxe7
+37.Qf3 Nd7 38.Ng3 Ne5 39.Qe3 Qd7 40.Re2 Kf8 41.Ne4 Ng4 42.Qf4 Qa7+ 43.Kf1 Ne5
+44.Qe3 Qxe3 45.Rxe3 Rc1+ 46.Re1 Rxe1+ 47.Kxe1 Nc4 48.Bf1 Nxa3 49.Kd2 Nc7
+50.Nxd6 Nxd5 51.Bd3 Kg8 52.Be4 Nxb4 53.Kc3 Na6 54.Bd5 Nc4  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "6"]
+[White "Turover, Isador Samuel"]
+[Black "Marshall, Frank James"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D50"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Bb4 5.e3 c5 6.Bxf6 Qxf6 7.a3 cxd4 8.exd4 Bxc3+
+9.bxc3 O-O 10.Nf3 Nc6 11.cxd5 exd5 12.Be2 Be6 13.O-O Rac8 14.Qa4 a6 15.Rab1 b5
+16.Qc2 Nxd4 17.Nxd4 Qxd4 18.Qxh7+ Kxh7 19.cxd4 Rc3 20.a4 bxa4 21.Rb4 a3 22.Ra4 Rb8
+23.Ra1 Bd7 24.Rxa6 Rb4 25.h3 Ra4 26.Rxa4 Bxa4 27.Ba6 Bc2 28.Bb7 Rd3 29.Bxd5 Kg8
+30.Bf3 Rb3 31.Kh2 Bd3 32.Bd5 Rc3 33.f3 Bf5 34.Kg3 Rd3 35.Bc4 Rc3 36.Bd5 g5
+37.h4 gxh4+ 38.Kxh4 Rd3 39.Kg3 Kg7 40.Bc4 Rxd4 41.Bb3 Bg6 42.Bxf7 Bxf7 43.Rxa3 Rd2
+44.Ra4 Be6 45.Rf4 Kg6 46.Kh2 Kg5 47.Kg3 Rc2 48.Rd4 Bc4 49.Rg4+ Kf5 50.Kh2 Bf7
+51.Kg3 Bd5 52.Rh4 Ke5 53.Rg4 Bc4 54.Kh2 Bf1 55.Kg1 Be2 56.Kf2 Kf5 57.Kg3 Bf1
+58.Kh2 Ra2 59.Kg1 Be2 60.Kh1 Bd1 61.Kg1 Be2  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "7"]
+[White "Horowitz, Israel Albert"]
+[Black "Santasiere, Anthony Edward"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c3 Nf6 5.Bd3 Nc6 6.Nf3 Bg4 7.O-O e6 8.Qb3 Qc7
+9.Ne5 Nxe5 10.dxe5 Nd7 11.Na3 Bh5 12.Re1 Bg6 13.Nb5 Qb8 14.Bxg6 hxg6 15.Bf4 Nc5
+16.Qd1 Be7 17.Nd4 g5 18.Bg3 b5 19.Qe2 a6 20.Nc6 Qc7 21.Nxe7 Qxe7 22.f3 Rc8
+23.Bf2 Rc6 24.h3 f5 25.Qd2 g6 26.Be3 g4 27.Bg5 Qf8 28.h4 gxf3 29.gxf3 Nd7
+30.a4 Qc5+ 31.Qf2 Qxf2+ 32.Kxf2 bxa4 33.Rxa4 Nc5 34.Rd4 Kf7 35.Kf1 Rb6 36.c4 Rb4
+37.Red1 Nb3 38.R4d3 d4 39.Kg2 Rc8 40.Kg3 Rcxc4 41.Be3 Ke8 42.Bh6 Kf7 43.Bg5 Ke8
+44.Bd2 Rb7 45.Kf4 Nc5 46.Ra3 Rxb2 47.Kg5 Kf7 48.Kh6 Rb8 49.Kg5 Rh8 50.Kf4 Rxh4+
+51.Kg3 Rh8 52.Ra5 Rc2 53.Rc1 Rxd2 54.Raxc5 g5 55.f4 g4 56.Rc7+ Kg6 57.Rg7+ Kxg7  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "7"]
+[White "Capablanca, Jose Raul"]
+[Black "Steiner, Herman"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C74"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 f5 6.exf5 Bxf5 7.d4 e4 8.d5 exf3
+9.dxc6 b5 10.Qxf3 Bxb1 11.Bb3 Bg6 12.O-O Nf6 13.Bg5 Be7 14.Rfe1 Kf8 15.Re3 h6
+16.Bxf6 Bxf6 17.Qd5 h5 18.g3 Qc8 19.Re6 Qd8 20.Re3 Qc8 21.Re6 Qd8  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "7"]
+[White "Dake, Arthur William"]
+[Black "Turover, Isador Samuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.Be3 O-O 11.Nbd2 Nxd2 12.Qxd2 Na5 13.Rfd1 c6 14.Bc2 Nc4 15.Qd3 g6
+16.Bc1 Qc7 17.Re1 c5 18.b3 Nb6 19.Bg5 Rfe8 20.Qe3 Bg4 21.Bxe7 Qxe7 22.Nd2 Rad8
+23.Qg3 Be6 24.Rad1 a5 25.h4 h5 26.Re3 Bg4 27.Rc1 Kg7 28.f3 Be6 29.f4 Bg4
+30.f5 Qd7 31.f6+ Kh7 32.Nf3 d4 33.e6 Bxe6 34.Ng5+ Kh8 35.Rxe6 Rxe6 36.Nxe6 Qxe6
+37.cxd4 Qxf6 38.dxc5 Nd7 39.Bb1 Rc8 40.Qe3  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "7"]
+[White "Kevitz, Alexander"]
+[Black "Fox, Maurice"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A13"]
+
+1.Nf3 d5 2.c4 e6 3.g3 dxc4 4.Qa4+ Bd7 5.Qxc4 c5 6.Bg2 Nc6 7.O-O Nf6 8.b3 Be7
+9.Bb2 Rc8 10.d3 O-O 11.Nbd2 Qc7 12.Rac1 e5 13.Ne4 Nxe4 14.Qxe4 Rce8 15.Nxe5 Bd6
+16.f4 Bxe5 17.fxe5 b6 18.d4 Re7 19.e3 Qb8 20.Qh4 Ree8 21.Be4 h6 22.Bb1 Ne7
+23.d5 Bb5 24.Rf2 Qb7 25.Qe4 g6 26.Qh4 Qxd5 27.Qxh6 Bc6 28.e4 Qe6 29.Rf6 Qd7
+30.e6  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "7"]
+[White "Lasker, Edward"]
+[Black "Kupchik, Abraham"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C98"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Nc6 13.a4 cxd4 14.cxd4 Nb4 15.Bb3 bxa4
+16.Rxa4 Nd3 17.Rc4 Qd8 18.Re3 Nxc1 19.Qxc1 Be6 20.Rc2 Bxb3 21.Rxb3 d5 22.Nxe5 Nxe4
+23.Nxe4 dxe4 24.Nc6 Qd6 25.Nxe7+ Qxe7 26.Rc7 Qf6 27.Qc5 Rad8 28.Rc6 Qxd4
+29.Qxd4 Rxd4 30.Rxa6 Rd7 31.Rab6 g6 32.Rb7 Rd1+ 33.Kh2 Rd2 34.f3 exf3 35.Rxf3 f5
+36.b3 Rf7 37.Rxf7 Kxf7 38.Kg3 Kf6 39.Rc3 g5 40.Kf3 h5 41.Rc6+ Ke5 42.Rc5+ Ke6
+43.Rb5 Rd3+ 44.Ke2 Rg3 45.Rb6+ Ke7 46.Kf2 h4 47.b4  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "7"]
+[White "Marshall, Frank James"]
+[Black "Kashdan, Isaac"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D61"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Bg5 Nbd7 5.Nc3 c6 6.Qc2 Be7 7.e3 O-O 8.a3 Re8
+9.Bd3 dxc4 10.Bxc4 Nd5 11.Bxe7 Qxe7 12.Rd1 Nxc3 13.Qxc3 b6 14.O-O Bb7 15.e4 c5
+16.d5 exd5 17.Bxd5 Bxd5 18.exd5 Qd6 19.Nd2 Qxd5 20.Nc4 Qc6 21.Nd6 Red8 22.Rd3 Nf6
+23.Rfd1 Rd7 24.Qc4 Qc7 25.h3 Kf8 26.b4 Rad8 27.Nb5 Qb8 28.Rxd7 Rxd7 29.Rxd7 Nxd7
+30.bxc5 Nxc5 31.Qd5 a6 32.Nd6 Ne6 33.f4 Qc7 34.Qa8+ Ke7 35.Nc8+ Kd7 36.f5 Nd8
+37.Na7 Qb7 38.Nc8 Qxa8 39.Nxb6+ Kc6 40.Nxa8 Kb7 41.Kf2 Kxa8 42.Ke3 Kb7 43.f6 g6
+44.Kf4 Ne6+ 45.Ke5 Kc6  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "8"]
+[White "Horowitz, Israel Albert"]
+[Black "Kevitz, Alexander"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E52"]
+
+1.Nf3 Nf6 2.c4 b6 3.d4 Bb7 4.Nc3 e6 5.e3 Bb4 6.Bd3 O-O 7.O-O d5 8.cxd5 exd5
+9.a3 Bxc3 10.bxc3 Nbd7 11.c4 c5 12.Bb2 Rc8 13.Rc1 a6 14.Ne5 cxd4 15.exd4 dxc4
+16.Nxc4 b5 17.Nd6 Rxc1 18.Qxc1 Ba8 19.Nf5 Nd5 20.Re1 N7b6 21.Re4 Re8 22.Qg5  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "8"]
+[White "Turover, Isador Samuel"]
+[Black "Kupchik, Abraham"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E23"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 c5 5.dxc5 Nc6 6.Nf3 Bxc5 7.Bf4 O-O 8.e3 d5
+9.cxd5 exd5 10.Rd1 Bb4 11.Bd3 Be6 12.Nd4 Qa5 13.Nxe6 fxe6 14.O-O a6 15.Rc1 Rac8
+16.a3 Bxc3 17.Rxc3 Rf7 18.Rfc1 Ra8 19.h3 Qd8 20.Rc5 Qf8 21.Qc2 g6 22.b4 Nd7
+23.Rc3 Nde5 24.Be2 Qd8 25.Bg3 Qb6 26.Kh2 Raf8 27.Qd2 Nd7 28.f4 Nf6 29.Bf3 Ne7
+30.Qd4 Qxd4 31.exd4 Nf5 32.Bf2 Nd6 33.Rc7 Nc4 34.Rxf7 Kxf7 35.a4 Ke7 36.Be2 Ne4
+37.Bh4+ Kd7 38.Bxc4 dxc4 39.Rxc4 Rxf4 40.Be1 Nd6 41.Rc1 Rxd4 42.Kg3 e5 43.Kf3 h5
+44.Rc5 Rf4+ 45.Ke2 Re4+ 46.Kf1 Ke6 47.a5 Rc4 48.Rxc4 Nxc4 49.Ke2 Kd5 50.Kd3 e4+
+51.Ke2 Kd4 52.g4 hxg4 53.hxg4 e3 54.Bh4 Ke4 55.Bg5 Ne5 56.Bxe3 Nxg4 57.Bc5 Ne5
+58.Kd2 g5 59.Kc3 g4 60.Kb3 g3 61.Bb6 Kd5  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "8"]
+[White "Kashdan, Isaac"]
+[Black "Fox, Maurice"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C71"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.d4 Bd7 6.c4 exd4 7.Nxd4 Nxd4 8.Bxd7+ Qxd7
+9.Qxd4 Nf6 10.Nc3 Be7 11.O-O O-O 12.Bg5 Rfe8 13.Rad1 h6 14.Bc1 Qe6 15.b3 Bf8
+16.Rfe1 c6 17.Bf4 Rad8 18.h3 g6 19.e5 Nh5 20.Bh2 dxe5 21.Qxd8 Rxd8 22.Rxd8 Qe7
+23.Rb8 f6 24.Rd1 Ng7 25.Ne4 Kh8 26.Rd7 Qb4 27.Bg3 Qe1+ 28.Kh2 Qxe4 29.Rxf8+ Kh7
+30.Rff7 h5 31.Rxg7+ Kh6 32.h4 g5 33.hxg5+ fxg5 34.f3 Qe3 35.Rge7 g4 36.Rd6+  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "8"]
+[White "Lasker, Edward"]
+[Black "Capablanca, Jose Raul"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E35"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5 6.Bg5 O-O 7.e3 h6 8.Bf4 c5
+9.Nf3 cxd4 10.Nxd4 Nc6 11.Be2 Nxd4 12.exd4 Qb6 13.Be5 Ng4 14.Bxg4 Bxg4 15.O-O Rac8
+16.Qd3 Bxc3 17.bxc3 Qe6 18.Qg3 Qg6 19.Rfe1 Bf5 20.Re3 Qxg3 21.Bxg3 Rfe8 22.Rae1 Re6
+23.Rxe6 fxe6 24.Re3 Rc6 25.f3 Kf7 26.Be1 Ra6 27.Re2 Bd3 28.Rb2 b6 29.Bd2 Bc4
+30.Bc1 Bxa2 31.Kf2 Bc4 32.Rb1 Ra2+ 33.Rb2 Ra1 34.Bf4 b5 35.Rc2 a5 36.g4 b4
+37.cxb4 axb4 38.Rb2 b3 39.Bd2 Rh1 40.h4 h5 41.Kg2 Rd1 42.Kf2 Kg6 43.Be3 Rd3
+44.Rb1 e5 45.gxh5+ Kf5 46.dxe5 d4 47.Bg5 Bd5 48.Rb2 Rxf3+ 49.Ke2 Rh3 50.Kd2 Kxe5
+51.Kc1 Rh1+ 52.Kd2 Kd6 53.Kd3 Rd1+ 54.Ke2 Rg1 55.Kd3 Rg4 56.h6 gxh6 57.Bxh6 Rxh4
+58.Bf8+ Kc6 59.Rf2 Kb5 60.Ba3 Bc4+ 61.Kd2 Ka4 62.Bb2 Kb4 63.Rg2 Bd5 64.Re2 Kc4
+65.Re8 Rh2+ 66.Re2 Rh3 67.Re8 Bc6 68.Re2 Bf3 69.Rf2 Bg4 70.Ke1 Re3+ 71.Kf1 Bh3+
+72.Kg1 Re1+ 73.Kh2 Bf1 74.Kg3 Rb1 75.Ba3 Bd3 76.Rf8 Kc3 77.Rf2 Bc2 78.Kf4 Ra1
+79.Rf3+ d3 80.Bd6  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "8"]
+[White "Marshall, Frank James"]
+[Black "Dake, Arthur William"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D36"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 c6 4.Nc3 e6 5.Bg5 Nbd7 6.cxd5 exd5 7.e3 Be7 8.Qc2 O-O
+9.Bd3 Re8 10.O-O h6 11.Bf4 Nf8 12.Rae1 Nh5 13.Bg3 Nxg3 14.hxg3 Bf6 15.a3 Ne6
+16.Ne2 Ng5 17.Nd2 Qd6 18.Nf4 g6 19.Bxg6 fxg6 20.Qxg6+ Kf8 21.Qxh6+ Ke7 22.e4 Rh8
+23.Ng6+  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "8"]
+[White "Santasiere, Anthony Edward"]
+[Black "Steiner, Herman"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A05"]
+
+1.Nf3 Nf6 2.g3 b5 3.Bg2 Bb7 4.O-O g6 5.a4 b4 6.c4 Bg7 7.Qc2 O-O 8.b3 c5 9.Bb2 d6
+10.d3 e5 11.Nbd2 Qe7 12.e3 Nh5 13.Nh4 Nc6 14.Rae1 Rae8 15.Qd1 Qd7 16.Ne4 Nd8
+17.f4 f5 18.Nf2 Bxg2 19.Nxg2 Nc6 20.Ba1 Nf6 21.Qf3 Rf7 22.Rd1 Na5 23.Rb1 Nc6
+24.Rfd1 Ree7 25.Re1 h6 26.Nh4 Kh7 27.Kh1 Bh8 28.e4 Nd4 29.Bxd4 exd4 30.Re2 Qb7
+31.Rbe1 fxe4 32.dxe4 Bg7 33.g4 Nd7 34.Kg1 Rf8 35.Nd3 Ref7 36.f5 g5 37.Ng6 Re8
+38.h4 Nf8 39.hxg5 Nxg6 40.fxg6+ Kxg6 41.Nf4+ Kxg5 42.Qh3 Be5 43.Rh2 Kf6 44.Qh4+ Kg7
+45.Qxh6+ Kg8 46.Qg6+ Kf8 47.Rf1 Qd7 48.Qg5 Bg7 49.Ng6+ Kg8 50.Rh8+ Bxh8 51.Ne7+ Kf8
+52.Qg8+ Kxe7 53.Rxf7+ Kd8 54.Rxd7+ Kxd7 55.Qh7+ Kd8 56.Kf2 Be5 57.Qxa7 Rf8+
+58.Ke2 Rh8 59.Qa8+ Kc7 60.Qd5 Rh3 61.g5 Rxb3 62.Qf7+ Kd8 63.a5 Rg3 64.a6 d3+
+65.Kf2 d2 66.a7 d1=N+ 67.Ke1 Rg1+ 68.Kd2 Bc3+ 69.Ke2 Re1+ 70.Kd3 Re3+ 71.Kc2 b3+
+72.Kb1  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "9"]
+[White "Dake, Arthur William"]
+[Black "Kevitz, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A50"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 Bb7 4.Bg2 g6 5.O-O Bg7 6.d4 O-O 7.Nc3 Ne4 8.Bf4 Nxc3
+9.bxc3 c5 10.Qd2 d6 11.Bh6 Nc6 12.Bxg7 Kxg7 13.Nh4 Rb8 14.f4 e6 15.Bxc6 Bxc6
+16.d5 Bb7 17.e4 f5 18.Rfe1 Re8 19.Nf3 h6 20.exf5 exf5 21.Rxe8 Qxe8 22.Re1 Qd7
+23.Qe3 Rf8 24.Qe6 Bc8 25.Qxd7+ Bxd7 26.Re7+ Rf7 27.Rxf7+ Kxf7 28.Kf2 Kf6
+29.h4 Ba4 30.Ke3 Bd1 31.Ne1 Ba4 32.Kd3 Ke7 33.Kd2 Bd7 34.Nc2 Kf6 35.Ke3 Be8
+36.Na3 a6 37.Nb1 Bd7 38.Nd2 Bc8 39.Kd3 Bd7 40.Nf1 Ke7 41.Ne3 Kd8 42.Kc2 Bc8
+43.Kd2 Kc7 44.Kc2 Bd7 45.Kb3 b5 46.cxb5 axb5 47.Ka3 Kb6 48.Kb3 Ka5 49.Ka3 h5
+50.Kb3 Be8 51.Ka3 Bf7 52.Kb3 Be8 53.c4 Kb6 54.Kc3 Bd7 55.Kb3 Kc7 56.Nd1 bxc4+
+57.Kxc4 Kb6 58.Nc3 Ka5 59.a3 Ba4 60.Kd3 Bb5+ 61.Kd2 Bf1 62.Ke1 Ba6 63.Kf2 Kb6
+64.Ke3 Bf1 65.Na2 Kb5 66.Kf2 Bd3 67.Ke3 Bf1 68.Kf2 Bd3 69.Ke3 Bc2 70.Kd2 Bb3
+71.Nc3+ Kc4 72.a4 Kb4 73.Nb5 Kxa4 74.Nxd6 Bxd5 75.Kc3 Ka5 76.Ne8 Kb6 77.Nf6 Kc6
+78.Nh7 Kd6 79.Ng5 Kc6 80.Nh7 Kc7 81.Ng5 Kd6 82.Nh7 Ba2 83.Nf6 Bf7 84.Nh7 Kd5
+85.Nf6+ Ke6 86.Nh7 Bg8 87.Nf8+ Kd5 88.Nd7 Ke4 89.Nf6+ Kf3 90.Nxg8 Kxg3 91.Ne7 Kxh4
+92.Nxg6+ Kg3 93.Ne7 Kxf4 94.Kd2 h4 95.Ke2 h3 96.Kf2 Ke4 97.Kg3 c4 98.Nc6 f4+
+99.Kxh3 c3 100.Nb4 Ke3 101.Nc2+ Kd3  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "9"]
+[White "Horowitz, Israel Albert"]
+[Black "Steiner, Herman"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C71"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.d4 b5 6.Bb3 Nxd4 7.Nxd4 exd4 8.Bd5 Rb8
+9.Qxd4 c5 10.Qd3 Ne7 11.O-O Nxd5 12.exd5 Be7 13.a4 b4 14.Bf4 O-O 15.Nd2 g5
+16.Be3 f5 17.f4 g4 18.Rae1 Bf6 19.b3 Bc3 20.Re2 a5 21.Nc4 Rb7 22.Bd2 Bd4+
+23.Kh1 Rf6 24.Rfe1 Bd7 25.Be3 Bc3 26.Bd2 Bd4 27.Be3 Bc3 28.Bd2 Bd4  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "9"]
+[White "Kashdan, Isaac"]
+[Black "Kupchik, Abraham"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D61"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Nf3 Be7 5.Bg5 O-O 6.e3 Nbd7 7.Qc2 c6 8.a3 Re8
+9.Bd3 dxc4 10.Bxc4 Nd5 11.Bxe7 Qxe7 12.Ne4 Nf8 13.O-O Rd8 14.Rad1 Bd7 15.Ba2 Be8
+16.Qc5 Qc7 17.Rd2 f6 18.Ng3 Bf7 19.Re1 Qb6 20.e4 Nf4 21.Qxb6 axb6 22.e5 f5
+23.Nf1 N8g6 24.Ne3 Ne7 25.g3 Nfd5 26.Ng5 b5 27.Bb3 h6 28.Nxf7 Kxf7 29.Nxd5 Nxd5
+30.Kf1 Rd7 31.Ke2 Rad8 32.Red1 Nb6 33.h3 Ke7 34.Rd3 Nc4 35.Bxc4 bxc4 36.R3d2 b5
+37.f4 Ra7 38.Rc1 Rg8 39.h4 h5 40.Rc3 Kd7 41.Rdc2 Rga8  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "9"]
+[White "Lasker, Edward"]
+[Black "Fox, Maurice"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D05"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 c5 4.Bd3 d5 5.O-O Nbd7 6.b3 Be7 7.Ne5 Qc7 8.Bb2 cxd4
+9.exd4 Nxe5 10.dxe5 Nd7 11.Qg4 g6 12.Nd2 Nxe5 13.Bb5+ Kf8 14.Qf4 f6 15.Rae1 Kg7
+16.Bxe5 fxe5 17.Qxe5+ Qxe5 18.Rxe5 Bf6 19.Re3 e5 20.Rc3 Rf8 21.Rc5 Be6 22.c4 Rac8
+23.Rxc8 Rxc8 24.cxd5 Bxd5 25.Bc4 Bc6 26.f3 Rd8 27.Ne4 Bxe4 28.fxe4 Rd7 29.Bd5 Bd8
+30.a4 Bb6+ 31.Kh1 a5 32.h4 Bc5 33.g4 b6 34.Kg2 Bd4 35.Kh3 Bc5 36.g5 h6 37.Rf6 hxg5
+38.hxg5 Be3 39.Kg4 Rc7 40.Bc4 Rd7 41.Re6 Bd4 42.Rc6 Re7 43.Bd5 Kh7 44.Rf6 Kg7
+45.Rc6 Be3 46.Be6 Kh7 47.Bd5 Kg7 48.Rf6 Bd4 49.Be6 Rc7 50.Bc4 Re7 51.Kf3 Bc5
+52.Rc6 Re8 53.Kg4 Re7 54.Be6 Kh7 55.Bf5 Rg7 56.Rf6 gxf5+ 57.exf5 Rxg5+ 58.Kf3 Kg7
+59.Rc6 Rxf5+ 60.Ke4 Rf4+ 61.Kxe5 Rb4 62.Rc7+ Kg6 63.Rc6+ Kg5 64.Rc8 Rxb3
+65.Rg8+ Kh4 66.Rh8+ Kg3 67.Rg8+ Kf3 68.Rh8 Rb4 69.Rh3+ Ke2 70.Rh2+ Bf2  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "9"]
+[White "Marshall, Frank James"]
+[Black "Capablanca, Jose Raul"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E16"]
+
+1.Nf3 Nf6 2.d4 e6 3.c4 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Bxd2+ 7.Nbxd2 O-O 8.O-O c5
+9.dxc5 bxc5 10.Rc1 Qc7 11.Nb3 d6 12.Qd2 Nc6 13.Rfd1 Rfd8 14.Nh4 a5 15.a4 Rab8
+16.Rc3 Ba8 17.h3 Nb4 18.Bxa8 Rxa8 19.Qf4 Qc6 20.Rf3 Rd7 21.g4 Qxa4 22.Rxd6 Nbd5
+23.Qe5 Rxd6 24.Qxd6 Ne4 25.Qe5 Qxc4 26.Rd3 a4 27.f3 Nef6 28.Nd2 Qc1+ 29.Kf2 h6
+30.f4 c4 31.Rd4 c3 32.bxc3 a3 33.g5 a2 34.Nb3 Qxc3 35.gxf6 Qxb3 36.Rd1 Qxd1  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "9"]
+[White "Santasiere, Anthony Edward"]
+[Black "Turover, Isador Samuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A12"]
+
+1.Nf3 Nf6 2.c4 c6 3.b3 d5 4.Bb2 Bf5 5.g3 e6 6.Bg2 Be7 7.O-O Nbd7 8.d3 h6
+9.Nbd2 O-O 10.Re1 Bh7 11.e4 Nc5 12.Ne5 dxe4 13.dxe4 Qc7 14.Ng4 Nxg4 15.Qxg4 e5
+16.Bc3 Ne6 17.Nf3 Bf6 18.Bd2 Kh8 19.Nh4 Rad8 20.Be3 Nd4 21.Bxd4 Rxd4 22.Nf3 Rd6
+23.Re2 Rfd8 24.Rae1 Qa5 25.Bf1 Rd3 26.Rc2 Rxf3 27.Rec1 Rfd3 28.Bxd3 Rxd3
+29.Re2 Qd8 30.Ree1 Rd4 31.h4 Be7 32.Kg2 f5 33.Qh5 fxe4 34.Qxe5 Bf6 35.Qh5 Qf8
+36.Re2 Rd3 37.Kh2 Rf3 38.Rf1 Bd4 39.Kg2 Bf5 40.g4 g6  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "10"]
+[White "Steiner, Herman"]
+[Black "Fox, Maurice"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 h6 4.Bxf6 Qxf6 5.e4 c5 6.e5 Qd8 7.c3 Be7 8.Nbd2 cxd4
+9.Nxd4 Nc6 10.Nxc6 dxc6 11.Qg4 O-O 12.O-O-O Qa5 13.Qe4 Qxa2 14.Bd3 g6 15.h4 Qd5
+16.Qe3 Rd8 17.Nf3 Qa5 18.h5 g5 19.Qe4 Kf8 20.Qh7 Ke8 21.Qxh6 Rxd3 22.Rxd3 Qa1+
+23.Kc2 Qxh1 24.Qh8+ Bf8 25.Nxg5 Qxg2 26.Qf6  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "10"]
+[White "Capablanca, Jose Raul"]
+[Black "Turover, Isador Samuel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A03"]
+
+1.f4 d5 2.Nf3 c5 3.e3 g6 4.Bb5+ Bd7 5.Bxd7+ Nxd7 6.Nc3 e6 7.e4 d4 8.Ne2 Ngf6
+9.Ng3 h5 10.d3 Bh6 11.O-O h4 12.Ne2 Bg7 13.c3 dxc3 14.Nxc3 h3 15.g3 a6 16.e5 Nd5
+17.Nxd5 exd5 18.Qb3 Nb6 19.Be3 d4 20.Bd2 Rc8 21.Ng5 Qd5 22.Qxd5 Nxd5 23.e6 f5
+24.Nf7 O-O 25.Rac1 b6 26.Rfe1 Rc6 27.b4 Re8 28.Ng5 Nc3 29.bxc5 bxc5 30.Rc2 c4
+31.dxc4 Rxc4 32.Bxc3 dxc3 33.Nxh3 Re4 34.Rxe4 fxe4 35.Ng5 Kf8 36.Kf1 Rb8
+37.Nxe4 Rb2 38.Rc1 Rxh2 39.Kg1 Rxa2 40.Nxc3 Bxc3 41.Rxc3 Re2 42.Rc6 a5 43.Ra6 Ke7
+44.Kf1 Rxe6 45.Rxa5 Kf6 46.Kf2 Re7 47.Kf3 Rb7 48.Ra6+ Kg7 49.g4 Re7 50.Rd6 Kf7
+51.Kg3 Kg7 52.Rc6 Ra7 53.Re6 Kf7 54.Rd6 Kg7 55.Kh4 Rb7 56.Ra6 Rc7 57.Kg5 Rc5+
+58.f5 gxf5 59.gxf5 Rc1 60.Ra7+ Kf8 61.Kg6 Ke8 62.Ra8+ Ke7 63.f6+ Kd7 64.f7 Rg1+
+65.Kh5  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "10"]
+[White "Dake, Arthur William"]
+[Black "Santasiere, Anthony Edward"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E67"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.g3 d6 5.d4 O-O 6.Bg2 Nbd7 7.O-O e5 8.dxe5 dxe5
+9.b4 a5 10.b5 e4 11.Nd4 Ne5 12.c5 Qe7 13.Bg5 Qxc5 14.Bxf6 Bxf6 15.Nxe4 Qb6
+16.Nxf6+ Qxf6 17.Qc2 Qb6 18.e3 Re8 19.Rac1 Re7 20.Qc5 Qf6 21.Rc3 c6 22.bxc6 bxc6
+23.Nxc6 Rc7 24.Qxe5  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "10"]
+[White "Horowitz, Israel Albert"]
+[Black "Kupchik, Abraham"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 Bxf6 7.Nf3 Nd7 8.Bd3 Be7
+9.Qe2 c6 10.c3 Qa5 11.O-O O-O 12.Nfd2 Re8 13.f4 Nf8 14.Nc4 Qd8 15.Ne5 f5
+16.Nd2 Bf6 17.Bc4 Nd7 18.Rf2 Nb6 19.Bb3 Nd5 20.g4 a5 21.a4 Rf8 22.Raf1 Bxe5
+23.fxe5 Kh8 24.Ne4 b6 25.Bc4 Bd7 26.gxf5 exf5 27.Nd6 Qg5+ 28.Kh1 Be6 29.Re1 Qh4
+30.Qf3 g6 31.Qg3  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "10"]
+[White "Kevitz, Alexander"]
+[Black "Kashdan, Isaac"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A09"]
+
+1.Nf3 d5 2.c4 e6 3.g3 d4 4.d3 c5 5.Bg2 Nc6 6.O-O Nf6 7.e3 e5 8.e4 g6 9.Ne1 Bg7
+10.f4 Bg4 11.Nf3 Qc8 12.Na3 O-O 13.Qe1 Nh5 14.f5 Nb4 15.h3 Nxd3 16.Qd2 Bxf3
+17.Bxf3 Nxc1 18.Bxh5 gxh5 19.f6 Qxh3 20.fxg7 Qxg3+ 21.Kh1 Qh4+ 22.Kg1 Kxg7
+23.Raxc1 Kh8 24.Rf3 Rg8+ 25.Kf1 Qh1+ 26.Ke2 Rg2+ 27.Rf2 Rxf2+ 28.Kxf2 Qh2+
+29.Ke1 Qg1+ 30.Ke2 d3+ 31.Kf3 Qg4+ 32.Kf2 Rg8 33.Qxd3 Qf4+ 34.Qf3 Qd2+  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "10"]
+[White "Marshall, Frank James"]
+[Black "Lasker, Edward"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxd4 exd4 6.e5 dxc3 7.exf6 Qxf6 8.dxc3 Qe5+
+9.Be2 Bc5 10.O-O O-O 11.Bd3 d5 12.Qf3 Bd6 13.g3 c6 14.Be3 Qe6 15.Rfe1 Qg4
+16.Qg2 Qh5 17.f3 f5 18.f4 Qf7 19.Rad1 Re8 20.Qf2 b6 21.b4 Bb7 22.Bd4 Rac8
+23.a3 h5 24.Qf1 c5 25.Be5 Bf8 26.Bb5 Red8 27.Ba6 Bxa6 28.Qxa6 d4 29.Qd3 cxb4
+30.axb4 Rxc3 31.Qxc3 dxc3 32.Rxd8 Kh7 33.Red1 Bxb4 34.R8d7 Bc5+ 35.Kg2 Qc4
+36.Rxg7+ Kh6 37.Rd8 Qe4+ 38.Kh3 Qxe5 39.fxe5 Kxg7 40.Rd7+ Kg6 41.Rxa7 Bd4
+42.e6 Kf6 43.e7 Kf7 44.Kh4 Bg1 45.Rc7 Bxh2 46.Rxc3 Kxe7 47.Kg5 f4 48.gxf4 h4
+49.Rh3  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "11"]
+[White "Santasiere, Anthony Edward"]
+[Black "Kevitz, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A32"]
+
+1.Nf3 Nf6 2.d4 e6 3.g3 c5 4.c4 cxd4 5.Nxd4 Nc6 6.Bg2 Bb4+ 7.Bd2 Be7 8.Bc3 d5
+9.O-O O-O 10.Nd2 Qb6 11.e3 Rd8 12.Qe2 Bd7 13.Rac1 Rac8 14.Rfd1 Nb4 15.Ra1 dxc4
+16.e4 Ba4 17.Nxc4 Rxc4 18.Qxc4 Bxd1 19.Rxd1 e5 20.Rd2 exd4 21.Bxd4 Qe6 22.Qxe6 fxe6
+23.a3 Nc6 24.Bc3 Rxd2 25.Bxd2 Bc5 26.Kf1 e5 27.Ke2 Kf7 28.f4 Ke7 29.h3 Nd7
+30.f5 a5 31.Bg5+ Kf8 32.g4 Bd4 33.Bc1 Nc5 34.Kd1 Nd3 35.b3 Nxc1 36.Kxc1 Ke7
+37.Bf1 Kf6 38.Kc2 Bc5 39.a4 Kg5 40.Kc3 b6 41.Kc4 Ne7 42.Kd3 Kf4 43.Be2 Ng8
+44.h4 h6 45.g5 hxg5 46.hxg5 Kxg5 47.Bf3 Kf4 48.Bg2 Nf6 49.Bh1 Ng4 50.Bg2 Nf2+  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "11"]
+[White "Turover, Isador Samuel"]
+[Black "Steiner, Herman"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D62"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Nbd7 5.e3 Be7 6.Nf3 O-O 7.Qc2 c5 8.cxd5 exd5
+9.dxc5 Qa5 10.Be2 Nxc5 11.O-O Nce4 12.Bxf6 Bxf6 13.Nb5 Bf5 14.Nbd4 Rac8 15.Qb3 Bg6
+16.Rfc1 Rcd8 17.Qxb7 Rb8 18.Qc7 Qxc7 19.Rxc7 Rxb2 20.Rxa7 Rxe2 21.Nxe2 Bxa1
+22.a4 Rb8 23.g3 Nc3 24.Ned4 Be4 25.Nd2 h6 26.a5 Nb5 27.Nxb5 Rxb5 28.a6 Ra5
+29.Ra8+ Kh7 30.a7 Bf6 31.Nxe4 dxe4 32.h4 Be7 33.Kg2 f5 34.h5 Bc5 35.g4 fxg4
+36.Kg3 Rxa7 37.Rxa7 Bxa7 38.Kxg4 Kg8 39.Kf5 Kf7 40.Kxe4 Kf6 41.f4 Bb6 42.Kf3 Kf5
+43.e4+ Ke6 44.Kg4 Be3 45.Kf3 Bc1 46.Kg4 Bd2 47.Kf3 Kd6 48.Kg4 Bc1 49.Kf5 Bd2
+50.e5+ Kd5 51.e6 Kd6 52.Kg6 Kxe6 53.Kxg7 Bxf4 54.Kg6 Be3 55.Kg7 Kf5 56.Kf7 Kg5
+57.Ke6 Kxh5 58.Kf5 Kh4 59.Ke4 Kg3 60.Kxe3 h5 61.Ke2 Kg2  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "11"]
+[White "Lasker, Edward"]
+[Black "Dake, Arthur William"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A50"]
+
+1.d4 Nf6 2.Nf3 b6 3.g3 Bb7 4.Bg2 g6 5.c4 Bg7 6.Nc3 O-O 7.Qc2 d5 8.Ng5 e6
+9.O-O Nbd7 10.Bf4 h6 11.Nh3 a6 12.Rfd1 Rc8 13.cxd5 Nxd5 14.Nxd5 exd5 15.Rac1 c5
+16.dxc5 Nxc5 17.Qd2 Ne4 18.Bxe4 dxe4 19.Bxh6 Qxd2 20.Bxd2 Bxb2 21.Rb1 Rc2
+22.Nf4 Rd8 23.Be3 Rxd1+ 24.Rxd1 b5 25.h4 Bc8 26.Rd8+ Kg7 27.h5 gxh5 28.Nxh5+ Kh7
+29.Rd6 Rxe2 30.Rc6 Re1+ 31.Kh2 Bg4 32.Rxa6 Bf3 33.g4 Be5+ 34.Bf4 Bxf4+ 35.Nxf4 Rh1+
+36.Kg3 Rg1+ 37.Kh3 Rxg4 38.Rf6 Kg8 39.Rf5 b4 40.Rf6 Rg5 41.Rb6 Ra5 42.Rxb4 Rxa2
+43.Kg3 Ra1 44.Nd5 Kg7 45.Rb6 Ra3 46.Kf4 Bh5 47.Ne3 Bg6 48.Rc6 Ra5 49.Rb6 Rh5
+50.Ra6 Rh3 51.Ra2 Rf3+ 52.Ke5 Kh6 53.Ra1 Kg7 54.Ra2 f6+ 55.Kd4 Kh6 56.Ra1 f5
+57.Rh1+ Kg5 58.Rh2 f4 59.Rg2+ Kf6 60.Nd5+ Kf7 61.Rxg6 Kxg6 62.Kxe4  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "11"]
+[White "Kupchik, Abraham"]
+[Black "Fox, Maurice"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E16"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 Qe7 5.g3 b6 6.Bg2 Bb7 7.O-O Bxd2 8.Nbxd2 d6
+9.Qc2 Nbd7 10.b4 O-O 11.Rfe1 a5 12.b5 g6 13.e4 e5 14.Nf1 exd4 15.Nxd4 Qe5
+16.Rad1 Rae8 17.f3 Qh5 18.Ne3 Nc5 19.Ne2 Ne6 20.Qc3 Qc5 21.Nc1 Nd7 22.Nd3 Qh5
+23.Nf2 f6 24.f4 g5 25.Nd5 gxf4 26.gxf4 Kf7 27.Qh3 Qxh3 28.Nxh3 Rg8 29.Kf2 Ndc5
+30.Bf3 Ng7 31.Re3 Bxd5 32.Rxd5 Re7 33.Rd2 Rge8 34.Rde2 Kg8 35.f5 Nd7 36.Nf4 Nb8
+37.Nd5 Rf7 38.Rc2 h6 39.Be2 Kh7 40.Rc1 Rg8 41.Rg1 Rc8 42.Reg3 Nd7 43.Rg6 Ne8
+44.R1g3 Ne5 45.Rg8 Nd7 46.Bh5  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "11"]
+[White "Horowitz, Israel Albert"]
+[Black "Marshall, Frank James"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A09"]
+
+1.Nf3 d5 2.c4 Nf6 3.cxd5 Nxd5 4.e4 Nf6 5.Nc3 Nc6 6.Bc4 e6 7.d4 Bb4 8.Qd3 Na5
+9.Bb5+ Bd7 10.Bg5 a6 11.Bxd7+ Qxd7 12.O-O O-O-O 13.Rac1 h6 14.Bf4 Nc6 15.a3 Bxc3
+16.Rxc3 g5 17.Rfc1 gxf4 18.Rxc6 Kb8 19.Rxc7 Rc8 20.R7c3 Rxc3 21.Rxc3 Rd8
+22.Qd2 Nxe4 23.Qxf4+ Nd6 24.h3 Ka8 25.Qxh6 Qb5 26.Qg5 Qb6 27.Qc1 Rg8 28.b4 Qb5
+29.Qf4 Nf5 30.Qe4 Qd7 31.Ne5 Qxd4 32.Qxd4 Nxd4 33.Rc4 Nb5 34.Nxf7 Nxa3 35.Re4 Nc2
+36.h4 Rg7 37.Ng5 e5 38.Nf3 Re7 39.h5 b5 40.g4 a5 41.bxa5 b4 42.Rxe5 Rb7 43.Nd2 b3
+44.Nxb3 Rxb3 45.h6 Nd4 46.Re8+ Kb7 47.h7 Nf3+ 48.Kf1 Rb1+ 49.Kg2 Nh4+ 50.Kg3  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1931.??.??"]
+[Round "11"]
+[White "Capablanca, Jose Raul"]
+[Black "Kashdan, Isaac"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D61"]
+
+1.Nf3 Nf6 2.c4 c6 3.d4 d5 4.Nc3 e6 5.Bg5 Nbd7 6.e3 Be7 7.Qc2 O-O 8.a3 Re8
+9.Bd3 dxc4 10.Bxc4 Nd5 11.Bxe7 Qxe7 12.Ne4 Rd8 13.O-O Nf8 14.Rfe1 b6 15.Rac1 Bb7
+16.Qe2 a5 17.Ne5 f6 18.Nf3 Kh8 19.Nc3 Nxc3 20.Rxc3 e5 21.Rd1 exd4 22.Rxd4 Rxd4
+23.exd4 Qxe2 24.Bxe2 Re8  1/2-1/2

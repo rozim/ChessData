@@ -1,0 +1,105 @@
+[Event "Corsican Circuit: Anand vs. Karpov"]
+[Site "Bastia, France"]
+[Date "2009.10.31"]
+[Round "1"]
+[White "Anand, Viswanathan"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "D35"]
+[WhiteElo "2788"]
+[BlackElo "2619"]
+[PlyCount "91"]
+[EventDate "2009.10.31"]
+[EventType "match (rapid)"]
+[EventRounds "4"]
+[EventCountry "FRA"]
+[Source "Corsica, France"]
+[SourceDate "2009.10.31"]
+[TimeControl "900+3"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. cxd5 exd5 5. Bf4 c6 6. Qc2 Nf6 7. e3 Nbd7 8. h3
+O-O 9. Bd3 Re8 10. Nf3 Nf8 11. O-O Bd6 12. Bxd6 Qxd6 13. Rab1 a5 14. a3 Be6 15.
+Na4 N6d7 16. b4 axb4 17. axb4 b5 18. Nc5 Nb6 19. Ra1 f6 20. Qc3 Bf7 21. Rxa8
+Rxa8 22. Ra1 Qb8 23. Nd2 Nc4 24. Ndb3 Ra7 25. e4 dxe4 26. Bxe4 Bd5 27. Bxd5+
+cxd5 28. Re1 Qd6 29. Qf3 Kf7 30. g3 g6 31. h4 Re7 32. Ra1 Rc7 33. Ra6 Qd8 34.
+Qf4 Kg7 35. Rxf6 Qxf6 36. Qxc7+ Kg8 37. Kg2 Qf5 38. Qe7 h6 39. Nc1 g5 40. hxg5
+hxg5 41. N1d3 Nd2 42. Qe2 Nc4 43. Ne5 Kg7 44. Ng4 Ng6 45. Qe6 Qxe6 46. Nxe6+
+1-0
+
+[Event "Corsican Circuit: Anand vs. Karpov"]
+[Site "Bastia, France"]
+[Date "2009.10.31"]
+[Round "2"]
+[White "Karpov, Anatoly"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2619"]
+[BlackElo "2788"]
+[PlyCount "82"]
+[EventDate "2009.10.31"]
+[EventType "match (rapid)"]
+[EventRounds "4"]
+[EventCountry "FRA"]
+[Source "Corsica, France"]
+[SourceDate "2009.10.31"]
+[TimeControl "900+3"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8. Be2
+b6 9. O-O Bb7 10. Bb2 Rc8 11. Rfd1 c5 12. dxc5 Nxc5 13. cxd5 Nxd5 14. Nxd5 Bxd5
+15. Qc3 f6 16. Qd4 Qe7 17. Bc4 Bxc4 18. Qxc4 Nb7 19. Qe2 e5 20. e4 Qe6 21. Rd5
+Rc7 22. Rc1 Rfc8 23. Rxc7 Rxc7 24. h3 Bf8 25. Ne1 Rd7 26. Rxd7 Qxd7 27. Qc4+
+Qf7 28. Qc6 Nc5 29. Ba3 Nxb3 30. Bxf8 Nd4 31. Qa8 Qxf8 32. Qxa7 Qb4 33. Qa8+
+Kf7 34. Nf3 Nxf3+ 35. gxf3 Qc5 36. Qb7+ Kg6 37. Qd7 Kh6 38. a4 Qc1+ 39. Kg2
+Qg5+ 40. Kf1 Qc1+ 41. Kg2 Qg5+ 1/2-1/2
+
+[Event "Corsican Circuit: Anand vs. Karpov"]
+[Site "Ajaccio, France"]
+[Date "2009.11.02"]
+[Round "3"]
+[White "Anand, Viswanathan"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2788"]
+[BlackElo "2619"]
+[PlyCount "59"]
+[EventDate "2009.10.31"]
+[EventType "match (rapid)"]
+[EventRounds "4"]
+[EventCountry "FRA"]
+[Source "Corsica, France"]
+[SourceDate "2009.10.31"]
+[TimeControl "900+3"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. Qc2 c5 7. dxc5 Qa5 8. a3
+Nc6 9. e3 dxc4 10. Bxc4 Qxc5 11. Bd3 a6 12. O-O h6 13. b4 Qa7 14. Ne4 Nh5 15.
+Bd6 Bd7 16. Rfd1 Rfd8 17. Be2 Bxd6 18. Nxd6 Nf6 19. Rd2 Be8 20. Rad1 Qb6 21. e4
+Ng4 22. Qc5 Qxc5 23. bxc5 Na5 24. e5 Bc6 25. Re1 h5 26. h3 Nh6 27. Nd4 g6 28.
+Nxc6 Nxc6 29. Bf3 Nf5 30. Rb2 1-0
+
+[Event "Corsican Circuit: Anand vs. Karpov"]
+[Site "Ajaccio, France"]
+[Date "2009.11.02"]
+[Round "4"]
+[White "Karpov, Anatoly"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "E36"]
+[WhiteElo "2619"]
+[BlackElo "2788"]
+[PlyCount "64"]
+[EventDate "2009.10.31"]
+[EventType "match (rapid)"]
+[EventRounds "4"]
+[EventCountry "FRA"]
+[Source "Corsica, France"]
+[SourceDate "2009.10.31"]
+[TimeControl "900+3"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. cxd5 Ne4 8.
+Qc2 exd5 9. Bf4 Nc6 10. e3 g5 11. Bg3 f5 12. O-O-O f4 13. f3 Nd6 14. exf4 gxf4
+15. Bf2 Bf5 16. Qc5 Ne7 17. Ne2 Bg6 18. Qc3 Qd7 19. g3 fxg3 20. Nxg3 Nb5 21.
+Qb3 a6 22. Rd2 Nc6 23. h4 Na5 24. Qb4 Qc6+ 25. Kd1 Nc4 26. Bxc4 dxc4 27. d5 Qf6
+28. Qxc4 Qxf3+ 29. Kc1 Rf4 30. Qa2 Nd6 31. b3 Qc3+ 32. Kd1 Rxf2 0-1
+

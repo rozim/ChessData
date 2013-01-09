@@ -1,0 +1,527 @@
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "1"]
+[White "Zubarev, Nikolay"]
+[Black "Nenarokov, Vladimir Ivanovich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nc3 Bc5 6.d3 f6 7.Be3 Bxe3 8.fxe3 Nh6
+9.Qe2 Qe7 10.O-O-O b5 11.d4 O-O 12.h3 a5 13.g4 Nf7 14.Rhg1 b4 15.Na4 Ba6
+16.Qe1 Bb5 17.Nc5 a4 18.h4 b3 19.cxb3 axb3 20.axb3 Nd8 21.Kc2 Rb8 22.Rg2 Ne6
+23.Nxe6 Qxe6 24.d5 cxd5 25.exd5 Qa6 26.e4 Bc4 27.Nd2 Bd3+ 28.Kc3 c6 29.Qe3 cxd5
+30.Qxd3 Rfc8+ 31.Nc4 Rxb3+  0-1
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "1"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Levenfish, Grigory"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.Nc3 d6 6.Bg5 h6 7.Bh4 Bg4 8.h3 Bxf3
+9.Qxf3 Nd4 10.Qd1 c6 11.a3 b5 12.Ba2 a5 13.O-O g5 14.Bg3 Qd7 15.Ne2 h5 16.Nxd4 Bxd4
+17.c3 Bb6 18.Qf3 Bd8 19.d4 g4 20.hxg4 hxg4 21.Qe3 Bb6 22.f4 exd4 23.cxd4 O-O-O
+24.Rad1 d5 25.e5 Ne4 26.Bb1 f5 27.exf6 Rde8 28.Bxe4 Rxe4 29.Qc3 Kb7 30.Rfe1 Qh7
+31.Kf2 Rhe8 32.Rxe4 Rxe4 33.Kg1 Qh8 34.Bf2 Rxf4 35.Be3 Rxf6 36.Rf1 g3 37.Rxf6 Qxf6
+38.Qd3 Bc7 39.b3 Bf4 40.b4 axb4 41.axb4 Qh6 42.Bxf4 Qxf4 43.Qf3 Qc1+  0-1
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "1"]
+[White "Kubbel, Arvid"]
+[Black "Rabinovich, Ilya Leontievich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Nf3 Be7 6.d4 O-O 7.Bd3 f5 8.exf6 Bxf6
+9.O-O Nc6 10.Nxe4 dxe4 11.Bxe4 Nxd4 12.c3 Nxf3+ 13.Bxf3 c6 14.Qxd8 Bxd8 15.Be3 Be6
+16.a3 Bb3 17.Bc5 Bb6 18.Bxb6 axb6 19.Rfe1 Rf7 20.Re2 Rd8 21.Rae1 Kf8 22.Bg4 Bd1
+23.Re4 Bxg4 24.Rxg4 Rd2 25.Rb4 b5 26.Rf1 Rd7 27.Re4 Rd2 28.Rb4 Rxf1+ 29.Kxf1 Rd1+
+30.Ke2 Rg1 31.Kf2 Rb1 32.Ke3 Ke8 33.c4 bxc4 34.Rxb7 c3 35.Kd3 cxb2 36.Kc3 Rg1
+37.Rxb2 Ke7 38.Rd2 Ke6 39.a4 c5 40.Ra2 Kd5 41.a5 Re1 42.a6 Re3+ 43.Kd2 Re8
+44.a7 Ra8 45.Kc3 Kc6 46.Kc4 Kb6 47.g4 Kb7 48.Ra5 g6 49.g5 Kb6 50.Rb5+ Kc6
+51.Rxc5+ Kb6 52.Rb5+ Ka6 53.Kb4  1-0
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "1"]
+[White "Grigoriev, Nikolay Dmitrievich"]
+[Black "Dus Chotimirsky, Fedor Ivanovich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B43"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.Bd3 b5 7.O-O Bb7 8.a4 b4
+9.Nce2 Nf6 10.f3 Bd6 11.h3 Bc5 12.Kh1 d5 13.e5 Bxd4 14.Nxd4 Qxe5 15.Re1 Qc7
+16.Bd2 Qb6 17.Be3 Qd8 18.a5 O-O 19.Qd2 e5 20.Nb3 d4 21.Bg5 Nbd7 22.Qxb4 Qc7
+23.Bxf6 gxf6 24.Qd2 Kg7 25.Qf2 Rg8 26.Qh4 Nf8 27.Ra4 Ng6 28.Bxg6 hxg6 29.Rb4 Rh8
+30.Qg3 Bd5 31.Rxd4 Bxb3 32.cxb3 Qxa5 33.Rde4 Rab8 34.f4 exf4 35.Rxf4 Rxb3
+36.Rf5 Qb4 37.Rf4 Qb7 38.Re3 Rxe3 39.Qxe3 Qxb2 40.Qd3 Qb5 41.Qd1 Re8 42.Qa1 Re6
+43.h4 Qe5 44.Qa4 Rb6 45.Rf1 a5 46.Qa3 Rb4 47.g3 Rb2 48.Qf3 a4 49.Kg1 Rb3  0-1
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "1"]
+[White "Bohatirchuk, Fedor Parfenovich"]
+[Black "Lebedev, Sergey Fedorovich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A55"]
+
+1.e4 d6 2.d4 Nd7 3.c4 e5 4.Nf3 Ngf6 5.Nc3 c6 6.Be2 Qc7 7.O-O Be7 8.h3 O-O
+9.Be3 Re8 10.Nd2 Nf8 11.f4 exf4 12.Bxf4 Ng6 13.Bg3 Qb6 14.Nb3 a5 15.a4 Bf8
+16.Bd3 Be6 17.Kh1 d5 18.c5 Qd8 19.e5 Nd7 20.Ne2 Be7 21.Nf4 Nxf4 22.Bxf4 Bg5
+23.Qd2 h6 24.Rf3 Bxf4 25.Rxf4 Nf8 26.Raf1 Ng6 27.R4f2 Qc7 28.Bb1 Nf8 29.Nc1 b6
+30.Nd3 Ra7 31.cxb6 Qxb6 32.Nf4 g6 33.Rf3 c5 34.Rg3 Qb4 35.Qc1 Qxd4 36.Nh5 Nh7
+37.Qxh6 Qxe5 38.Rxg6+  1-0
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "2"]
+[White "Rabinovich, Ilya Leontievich"]
+[Black "Zubarev, Nikolay"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7 5.d4 Bb6 6.O-O d6 7.a4 a6 8.d5 Nb8 9.a5 Ba7
+10.Be3 Bxe3 11.fxe3 Nh6 12.Nbd2 O-O 13.Bd3 f5 14.exf5 Nxf5 15.Qe1 Nd7 16.e4 Nh6
+17.Nh4 Rxf1+ 18.Nxf1 Qg5 19.Qg3 Qxg3 20.Nxg3 g6 21.Nf3 Nf7 22.Nd2 Nf6 23.c4 Rb8
+24.Ne2 Kf8 25.Nc3 Ke7 26.b4 b6 27.b5 bxa5 28.Rxa5 axb5 29.Nxb5 Kd8 30.Ra1 Ne8
+31.Ra7 Bd7 32.Nb3 Nh6 33.h3 Ng8 34.Na5 Ngf6 35.Kf2 Nh5 36.Bf1 Nhf6 37.Ke3 Ng8
+38.Be2 Ngf6 39.Ra6 Ke7 40.Ra7 Kd8 41.Bd1 h5 42.Ba4 Ng8 43.Nc3 Bxa4 44.Nxa4 Ne7
+45.c5 dxc5 46.Nxc5 Ng7 47.Nd3 Rc8 48.Nxe5 Ke8 49.Nac4 Kf8 50.Ra6 g5 51.Ng6+ Nxg6
+52.Rxg6 g4 53.hxg4 hxg4 54.Kd4 Ra8 55.Rxg4 Ra1 56.Kc5 Rc1 57.e5 Ne8 58.Rf4+ Ke7
+59.g4 Rc2 60.Kd4 Ra2 61.e6 Nd6 62.Kc3 Ra1 63.Nxd6 Kxd6 64.Re4 Ke7 65.Kb4 Ra6
+66.Kc5 Rd6 67.Ra4  1-0
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "2"]
+[White "Vigodchikov, K."]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Be7 5.Nc3 d6 6.d4 Bd7 7.Re1 exd4 8.Nxd4 O-O
+9.Bf1 Re8 10.h3 h6 11.Nde2 Bf8 12.Ng3 g6 13.Bf4 Bg7 14.Qd2 Kh7 15.Rad1 Ne5
+16.Bxe5 dxe5 17.Bc4 Qe7 18.Nd5 Nxd5 19.Bxd5 Red8 20.Qc3 c6 21.Bc4 Be8 22.Qf3 Qf6
+23.Qxf6 Bxf6 24.c3 Kg7 25.Bb3 Kf8 26.Rxd8 Bxd8 27.Rd1 Ke7 28.Kf1 a5 29.a4 Rb8
+30.Bc4 b5 31.axb5 cxb5 32.Bd5 b4 33.cxb4 Rxb4 34.b3 Bb6 35.Ke1 a4 36.bxa4 Rb2
+37.Ne2 Bxa4 38.Ra1 Bb5 39.Ra2 Rb1+ 40.Kd2 Bxf2 41.Nc3 Rb4 42.Nxb5 Rxb5 43.Ke2 Bd4
+44.Rc2 f5 45.Bc4 Rb1 46.Bd3 Rb3 47.exf5 e4 48.f6+ Kxf6 49.Bc4 Rb1 50.Rd2 Ke5
+51.Rd1 Rb4 52.Bf7 g5 53.Bh5 Rb2+ 54.Rd2 Rb4 55.Be8 Kf4 56.Bc6 Bb6 57.Kd1 Be3
+58.Rc2 Kg3 59.Ba8 Ra4 60.Bb7 Rb4 61.Ba8 Rd4+ 62.Ke1 Ra4 63.Bb7 Bf2+ 64.Kf1 Ra1+
+65.Ke2 Re1+ 66.Kd2 Kxg2 67.Rc4 Kf3 68.Rc6 Re2+ 69.Kd1 Be3 70.Rc2 Rxc2 71.Kxc2 Bb6
+72.Kd1 h5 73.Ke1 g4 74.hxg4 hxg4 75.Ba6 g3 76.Be2+ Ke3 77.Bf1 Ba5+ 78.Kd1 Kf2  0-1
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "2"]
+[White "Levenfish, Grigory"]
+[Black "Bohatirchuk, Fedor Parfenovich"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 a6 3.e3 Nf6 4.Bd3 Bg4 5.Nbd2 Nbd7 6.h3 Bh5 7.Qe2 c5 8.c3 e6
+9.O-O Be7 10.g4 Bg6 11.Ne5 c4 12.Bxg6 hxg6 13.Kg2 Nxe5 14.dxe5 Nd7 15.f4 Nc5
+16.b3 b5 17.Ba3 Nd3 18.Bxe7 Qxe7 19.a4 O-O 20.g5 Nc5 21.axb5 axb5 22.b4 Na4
+23.Nb1 Ra7 24.Ra2 Rfa8 25.Rf2 Nb6 26.Rc2 Qb7 27.Kg3 Nc8 28.Nd2 Ne7 29.Nf3 Nf5+
+30.Kh2 Ra1 31.Nd4 Rh1+ 32.Kxh1 Ng3+ 33.Kg2 Nxe2 34.Rfxe2 Ra3 35.Ra2 Rxc3
+36.Ra5 Rxe3 37.Rxe3 Qb6 38.Ra8+ Kh7 39.Nc2 d4 40.Rf3 d3 41.Ra3 dxc2 42.Rac3 Qd4
+43.Rxc2 Qd1 44.Rff2 Qe1 45.Rcd2 Qe4+ 46.Kh2 c3 47.Rc2 Qd3 48.Ra2 Qe3 49.Rae2 Qd4
+50.Rc2 Qd3 51.Ra2 Qe3 52.Rae2 Qd4 53.Rc2 f6 54.gxf6 gxf6 55.Rf3  1/2-1/2
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "2"]
+[White "Dus Chotimirsky, Fedor Ivanovich"]
+[Black "Kubbel, Arvid"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bg5 Ne4 3.Bh4 d5 4.f3 Nf6 5.c4 e6 6.Nc3 Be7 7.e4 Nxe4 8.fxe4 Bxh4+
+9.g3 Bf6 10.exd5 O-O 11.Bg2 Re8 12.Nge2 exd5 13.Nxd5 Bg4 14.Nxf6+ Qxf6 15.Bxb7 Bxe2
+16.Qxe2 Rxe2+ 17.Kxe2 Nc6 18.Bxa8 Nxd4+ 19.Kd3 Nf5 20.Kc2 Qd4 21.Rac1 Qxc4+
+22.Kb1 Qd3+ 23.Ka1 Ne3 24.a3 Nc2+ 25.Ka2 Qc4+ 26.Kb1 Nxa3+ 27.bxa3 Qb3+ 28.Ka1 Qxa3+  1/2-1/2
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "3"]
+[White "Zubarev, Nikolay"]
+[Black "Dus Chotimirsky, Fedor Ivanovich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B47"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.g3 Nf6 7.Bg2 Nc6 8.O-O Be7
+9.Re1 Nxd4 10.Qxd4 Bc5 11.Qd1 h5 12.Be3 h4 13.Bxc5 Qxc5 14.e5 hxg3 15.hxg3 Ng8
+16.Ne4 Qc7 17.Nd6+ Kf8 18.Re4 Rb8 19.Rc4 Qd8 20.Qf3 f5 21.exf6 Nxf6 22.Qc3 b5
+23.Rxc8 Rxc8 24.Qxc8  1-0
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "3"]
+[White "Bohatirchuk, Fedor Parfenovich"]
+[Black "Vigodchikov, K."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Bxc3 7.bxc3 Qe7 8.Bg5 d6
+9.Re1 Nd8 10.d4 Bg4 11.h3 Bh5 12.g4 Bg6 13.d5 a6 14.Bd3 b6 15.Qe2 a5 16.Nd2 Nb7
+17.Qf3 Nc5 18.Bb5 h6 19.Bxf6 Qxf6 20.Qxf6 gxf6 21.f3 Rfd8 22.Nf1 Kf8 23.Ng3 Ke7
+24.h4 Rg8 25.Kf2 Rg7 26.Rg1 Rag8 27.Rae1 Rd8 28.Ke3 Rb8 29.Ref1 Rf8 30.f4 Rd8
+31.f5 Bh7 32.Nh5 Rgg8 33.Rf3 Rdf8 34.Rh3 Nb7 35.Kf3 Nc5 36.Ng3 Nb7 37.Rg2 Nc5
+38.Rhh2 Nb7 39.g5 fxg5 40.hxg5 Rxg5 41.Rxh6 Bg8 42.f6+ Kd8 43.Nf5 Rxg2 44.Kxg2 Nc5
+45.Kf3 Nd7 46.Bxd7 Kxd7 47.Ne7  1-0
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "4"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Bohatirchuk, Fedor Parfenovich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C64"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 f5 5.Nxe5 Nxe5 6.d4 Qh4 7.dxc5 fxe4 8.Qd4 Ng6
+9.Qxg7 N8e7 10.Qh6 Qg4 11.Qg5 Qe6 12.Be3 b6 13.Na3 bxc5 14.Bc4 d5 15.Nb5 Kd7
+16.O-O-O c6 17.Bxc5 cxb5 18.Bxd5 Nxd5 19.Rxd5+ Ke8 20.Qd8+ Kf7 21.Qc7+ Ne7
+22.Re5 Qh6+ 23.Kb1 Re8 24.Rxe7+ Rxe7 25.Qxe7+ Kg6 26.Rd1  1-0
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "5"]
+[White "Bohatirchuk, Fedor Parfenovich"]
+[Black "Ilyin Zhenevsky, Alexander"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A52"]
+
+1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.e4 Nxe5 5.f4 Ng6 6.Nf3 Nc6 7.a3 Be7 8.Nc3 d6
+9.Be3 Bg4 10.Be2 Bf6 11.Nd5 O-O 12.Qd3 a6 13.O-O-O Re8 14.Qc2 Bd7 15.h4 Rb8
+16.Ng5 Nf8 17.Bd3 h6 18.e5 Bxg5 19.hxg5 dxe5 20.gxh6 g6 21.h7+ Kh8 22.fxe5 Nxe5
+23.Qc3 c6 24.Bh6 Nxh7 25.Bf4 f6 26.Bxg6 cxd5 27.Rxh7+ Kg8 28.Qg3 Bg4 29.Bxe5  1-0
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "5"]
+[White "Grigoriev, Nikolay Dmitrievich"]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.O-O Nf6 5.c3 O-O 6.d4 Bb6 7.Bg5 d6 8.Nbd2 exd4
+9.cxd4 Nxd4 10.Nxd4 Bxd4 11.Nb3 Bb6 12.Kh1 Qe7 13.Bd3 Qe6 14.Qc2 Ng4 15.h3 Ne5
+16.Be2 h6 17.Bh4 Ng6 18.Bg3 Re8 19.Bd3 Ne5 20.Be2 Qg6 21.Kh2 Nc6 22.Rae1 Bd7
+23.Bc4 Ne5 24.Be2 Bc6 25.Nd2 Nd7 26.Bg4 h5 27.Bf5 Qh6 28.Nf3 Ne5 29.Bxe5 dxe5
+30.h4 Qf4+ 31.Kh1 g6 32.Bh3 Rad8 33.Qc4 Rd6 34.Ng5 Rd4 35.Qb3 Ba4 36.Qa3 Bb5
+37.g3 Qf6 38.f4 Bxf1 39.fxe5 Qe7 40.Qxe7 Rxe7 41.Rxf1 Kg7 42.Bc8 c6 43.Bh3 Rd2
+44.e6 f6 45.Nf3 Rxb2 46.Rd1 Rxa2 47.g4 Rf2 48.Nh2 Bc7 49.Nf1 hxg4 50.Bxg4 Rf4
+51.Ne3 Bb6 52.Rd7 Rxd7 53.exd7 Rxe4  0-1
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "5"]
+[White "Kubbel, Arvid"]
+[Black "Vigodchikov, K."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4+ 7.Bd2 Bxd2+ 8.Nbxd2 d5
+9.exd5 Nxd5 10.O-O O-O 11.Rc1 Nce7 12.Qb3 c6 13.Rfe1 Qb6 14.Qa3 Qc7 15.Re5 Be6
+16.Ng5 Qb6 17.Nxe6 fxe6 18.Nf3 Nf5 19.Rxe6 Rad8 20.Rd1 Kh8 21.Bxd5  1-0
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "5"]
+[White "Nenarokov, Vladimir Ivanovich"]
+[Black "Rabinovich, Ilya Leontievich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A45"]
+
+1.d4 e6 2.c3 Nf6 3.Bg5 b6 4.Nd2 Bb7 5.Qc2 c5 6.e3 Be7 7.Ngf3 Nc6 8.dxc5 bxc5
+9.Bd3 h6 10.Bh4 d5 11.O-O O-O 12.Rad1 Nd7 13.Bxe7 Qxe7 14.e4 d4 15.Bb5 Rfc8
+16.Bxc6 Bxc6 17.e5 Rab8 18.Rfe1 d3 19.Qxd3 Rxb2 20.Qa6 Rbb8 21.Ne4 Rc7 22.h3 Nb6
+23.Rd6 Bd5 24.Qe2 f6 25.Rd1 Nc4 26.exf6 Qf7 27.Ra6 Rb2 28.Qd3 Rb6 29.Rxb6 axb6
+30.Re1 gxf6 31.Nfd2 Nxd2 32.Qxd2 Qg6 33.c4 Rg7 34.Nxf6+ Qxf6 35.cxd5 Qf3
+36.g3 exd5 37.Re8+ Kf7 38.Qe1 Qf6 39.Rb8 Qd6 40.Qe8+ Kf6 41.Rd8 Qe6 42.Qf8+ Qf7
+43.Qd6+ Qe6 44.Qf4+  1-0
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "6"]
+[White "Vigodchikov, K."]
+[Black "Zubarev, Nikolay"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 f5 7.dxe5 O-O 8.Nbd2 d5
+9.c4 Be6 10.Nb3 a6 11.Bxc6 bxc6 12.Nfd4 Qd7 13.Na5 Bc5 14.Ndxc6 f4 15.b4 Bb6
+16.c5 Bxa5 17.Nxa5 Qa4 18.Bd2 f3 19.gxf3 Nxd2 20.Qxd2 Rxf3 21.Nb3 Qe8 22.Qg5 h6
+23.Qg2 Rf4 24.f3 Qh5 25.Qg3 Raf8 26.Nd2 Qxe5 27.Rae1 Qd4+ 28.Qf2 Bh3 29.Qxd4 Rxd4
+30.Rf2 Rxb4 31.Rfe2 Rb2 32.a3 Rc2 33.Kf2 Rxc5  0-1
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "7"]
+[White "Kubbel, Arvid"]
+[Black "Bohatirchuk, Fedor Parfenovich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7 5.Nc3 exd4 6.Nxd4 Nf6 7.O-O Be7 8.Nxc6 bxc6
+9.Bd3 O-O 10.f4 Rb8 11.h3 Re8 12.b3 Bf8 13.Bb2 Bc8 14.Qf3 Nd7 15.Na4 Bb7
+16.Rae1 c5 17.Nc3 Qh4 18.Kh2 Nb6 19.g3 Qh6 20.Nd5 Bc8 21.f5 Nxd5 22.exd5 Bd7
+23.Be4 Be7 24.h4 Bg5 25.Kg2 Bd2 26.Re2 Bb5 27.Bd3 Rxe2+ 28.Bxe2 Bd7 29.Bd3 Re8
+30.Be4 f6 31.Rf2 Bc1 32.Bc3 Bb5 33.Bd3 Re3 34.Qd1 Bxd3 35.cxd3 Re7 36.Rf1 Be3
+37.Qe2 Rf7 38.Re1 Bd4 39.Bd2 g5 40.Qg4 Be5 41.Rh1 Qg7 42.hxg5 fxg5 43.Rh5 Bf6
+44.Bxg5 Be5 45.Qf3 Rd7 46.g4 Bf6 47.Bf4 Rf7 48.Bh6 Qh8 49.g5 Bg7 50.f6  1-0
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "7"]
+[White "Nenarokov, Vladimir Ivanovich"]
+[Black "Lebedev, Sergey Fedorovich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 Nbd7 4.Nf3 e5 5.Bc4 Be7 6.O-O c6 7.a4 Qc7 8.Bb3 O-O
+9.Qe2 a5 10.Re1 b6 11.Bg5 Ba6 12.Qd2 Rad8 13.Rad1 c5 14.dxe5 dxe5 15.Bd5 c4
+16.Nh4 Nc5 17.Nf5 Ne6 18.Be3 Bb4 19.f3 Nc5 20.Qf2 Bxc3 21.bxc3 Nxd5 22.exd5 Qd7
+23.Bxc5 bxc5 24.Rxe5 f6 25.Ne7+ Kh8 26.Ree1 Qxa4 27.Nc6 Rde8 28.Rf1 Bb7 29.Ra1 Bxc6
+30.Rxa4 Bxa4 31.Ra1 Bd7 32.Rxa5 Re5 33.Qxc5 Rc8 34.Qd6 Bf5 35.Ra7 h5 36.h4 Re2
+37.Re7 Rxc2 38.Qg3 Rg8 39.Qf4 Bd3 40.d6 Ra2 41.d7 Raa8 42.Qe3 Bg6 43.Qc5 Bd3
+44.Qxh5+ Bh7 45.Qc5 Bd3 46.h5 Kh7 47.Qe3 Bf5 48.g4 Ra2 49.h6 Bxd7 50.Rxd7 Rb8
+51.Rxg7+ Kh8 52.Qe4  1-0
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "8"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Vilner, Yakov S"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B02"]
+
+1.e4 Nf6 2.d3 d5 3.e5 Nfd7 4.f4 e6 5.Nf3 Be7 6.d4 c5 7.c3 Nc6 8.Be2 Qb6 9.O-O f6
+10.Kh1 O-O 11.b3 a5 12.Ba3 Re8 13.Bd3 f5 14.g4 Nf8 15.gxf5 exf5 16.c4 Be6
+17.cxd5 Bxd5 18.Nc3 Bxf3+ 19.Qxf3 Nxd4 20.Nd5 Qd8 21.Qg2 b5 22.Rad1 Ra6 23.Nf6+ Bxf6
+24.Bxc5 Nfe6 25.Bxd4 Nxd4 26.Bxb5 Nxb5 27.Rxd8 Rxd8 28.Qb7 Nc7 29.Qxc7  1-0
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "8"]
+[White "Levenfish, Grigory"]
+[Black "Nenarokov, Vladimir Ivanovich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 d6 3.Bf4 b6 4.h3 Bb7 5.e3 Nbd7 6.c4 g6 7.Nc3 Bg7 8.Be2 O-O
+9.Qc2 e5 10.Bh2 exd4 11.exd4 Re8 12.O-O Ne4 13.Rae1 Nxc3 14.bxc3 Be4 15.Qd2 Nf6
+16.Bf4 Qd7 17.Bh6 Bxf3 18.Bxf3 Rxe1 19.Rxe1 Re8 20.Bxg7 Rxe1+ 21.Qxe1 Kxg7
+22.g4 h6 23.Kg2 c5 24.Qd1 Qe7 25.Qa4 Ne4 26.Qc2 Ng5 27.Bd5 Qf6 28.Qd2 Qe7
+29.Qc2 Nh7 30.Kf1 Nf6 31.Bf3 Nd7 32.Qa4 Nf8 33.Bd5 g5 34.Qc2 Qf6 35.Qd2 Ng6
+36.Qe3 Nf4 37.Ke1 Kf8 38.Kd2 cxd4 39.cxd4 b5 40.Kc3 Qd8 41.a3 Qc7 42.Qe4 Qa5+
+43.Kb2 bxc4 44.Bxf7 Qb5+ 45.Ka2 Nd3  0-1
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "9"]
+[White "Rabinovich, Ilya Leontievich"]
+[Black "Levenfish, Grigory"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C59"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6 7.dxc6 bxc6 8.Be2 h6
+9.Nf3 e4 10.Ne5 Bd6 11.d4 Qc7 12.Bd2 Nb7 13.Bc3 Nd5 14.Qd2 O-O 15.Na3 f6
+16.Nec4 Bxh2 17.g3 Bxg3 18.fxg3 e3 19.Qd3 Qxg3+ 20.Kd1 Nf4 21.Qe4 Bg4 22.Re1 Bxe2+
+23.Rxe2 Qg4  0-1
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "10"]
+[White "Levenfish, Grigory"]
+[Black "Dus Chotimirsky, Fedor Ivanovich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B41"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Bd3 Nc6 7.Be3 Bb4+ 8.Nc3 d5
+9.exd5 exd5 10.O-O O-O 11.cxd5 Bxc3 12.bxc3 Nxd5 13.Nxc6 bxc6 14.Bd4 Qg5
+15.Qf3 Rd8 16.Rfe1 Qg4 17.Be4 Qxf3 18.Bxf3 Be6 19.Rab1 Rab8 20.h3 Rxb1 21.Rxb1 c5
+22.c4 Nf4 23.Bxc5 Bxc4 24.Rb4 Ne6 25.Rxc4 Rc8 26.Bg4  1-0
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "10"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Nenarokov, Vladimir Ivanovich"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.Re1 Nd6 6.Nxe5 Nxe5 7.Rxe5+ Be7
+8.Bd3 O-O 9.Nc3 Bf6 10.Re3 g6 11.b3 Ne8 12.Ba3 d6 13.Qf3 Bg5 14.Re2 Nf6 15.h3 Rb8
+16.Bb2 Nd7 17.Ne4 Be7 18.Qe3 Ne5 19.Rae1 Be6 20.f4 Nc6 21.Bb5 d5 22.Bxc6 dxe4
+23.Bxe4 Bf6 24.Bxf6 Qxf6 25.Qxa7 c6 26.Qf2 Rfd8 27.c3 Ra8 28.d4 Ra5 29.Bb1 c5
+30.Re5 b6 31.f5 gxf5 32.dxc5 Rxc5 33.Rxc5 bxc5 34.Qxc5 Qg5 35.Qe5 Rd5 36.Qb8+ Kg7
+37.c4 Rd2 38.Qe5+ f6 39.Qh2 f4 40.Be4 Qe5 41.Kf1 Bf5 42.Bxf5 Qxf5 43.h4 Qd3+
+44.Kg1 Rd1 45.Rxd1 Qxd1+ 46.Kf2 Qd2+ 47.Kf1 Qd1+  1/2-1/2
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "10"]
+[White "Grigoriev, Nikolay Dmitrievich"]
+[Black "Vilner, Yakov S"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B03"]
+
+1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.d4 d6 5.exd6 exd6 6.Be3 Be7 7.Bd3 O-O 8.Ne2 N8d7
+9.a4 Nf6 10.a5 Nbd7 11.Nd2 Re8 12.h3 d5 13.c5 Bf8 14.Qc2 g6 15.b4 Bg7 16.O-O Nf8
+17.b5 Nh5 18.Nf3 Ne6 19.g4 Nf6 20.Nc3 c6 21.a6 Qc7 22.bxc6 bxc6 23.Ne2 Ne4
+24.Bxe4 dxe4 25.Qxe4 Bxa6 26.Rxa6 Nxd4 27.Qxe8+ Rxe8 28.Nexd4 Bxd4 29.Bxd4 h5
+30.g5 Qc8 31.Rxa7 Qxh3 32.Nh2 h4 33.Rfa1 Qd3 34.Ra8 Kf8 35.Bf6 Qb3 36.Ng4 Qe6
+37.Rxe8+ Kxe8 38.Ne5  1-0
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "11"]
+[White "Rabinovich, Ilya Leontievich"]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D37"]
+
+1.d4 d5 2.Nf3 e6 3.c4 Nf6 4.Nc3 Ne4 5.Bf4 Bd6 6.e3 Bxf4 7.exf4 Qd6 8.Ne5 Nxc3
+9.bxc3 O-O 10.c5 Qe7 11.Bd3 b6 12.Qc2 h6 13.cxb6 axb6 14.O-O Nd7 15.Rfe1 Nxe5
+16.Rxe5 Qf6 17.f5 exf5 18.Rxd5 Re8 19.f4 g6 20.Re5 Bb7 21.Rae1 Qc6 22.Bb5 Rxe5
+23.Rxe5 Qd6 24.Bc4 Kg7 25.Qf2 Be4 26.Bb3 c6 27.h3 Qd7 28.d5 cxd5 29.Qxb6 Rc8
+30.Qb4 Qa7+ 31.Qd4 Qxd4+ 32.cxd4 Kf8 33.g4 Rc3 34.Kh2 Rd3 35.gxf5 gxf5 36.Bxd5 f6
+37.Re6 Bxd5 38.Rxf6+ Kg7 39.Rxf5 Bxa2 40.Ra5 Bc4 41.Ra7+ Kf6 42.Rh7 Kg6 43.Rc7 Rxd4
+44.Rc6+ Kh5 45.f5 Rf4 46.Kg3 Rf3+  0-1
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "12"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Dus Chotimirsky, Fedor Ivanovich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bb5+ Nbd7 7.O-O Be7 8.Qf3 O-O
+9.Be3 a6 10.Be2 Qc7 11.Qg3 Rd8 12.Rad1 b5 13.a3 Bb7 14.f3 Ne5 15.Kh1 Nc4
+16.Bc1 Nxa3 17.Nd5 exd5 18.Nf5 Bf8 19.bxa3 g6 20.Qg5 Ne8 21.exd5 f6 22.Qg3 Qxc2
+23.Bd3 Qc7 24.Bb1 Qf7 25.Nh4 Bg7 26.Nxg6 hxg6 27.Bxg6 Qd7 28.Rfe1 Nc7 29.Qh4 Bxd5
+30.Qh7+ Kf8 31.Rxd5  1-0
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "13"]
+[White "Nenarokov, Vladimir Ivanovich"]
+[Black "Kubbel, Arvid"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A81"]
+
+1.d4 f5 2.g3 Nf6 3.Bg2 d6 4.Nh3 Nc6 5.O-O Bd7 6.d5 Ne5 7.b3 g6 8.Bb2 Bg7
+9.Nd2 O-O 10.Nf4 Qc8 11.c4 g5 12.Nd3 Nxd3 13.exd3 e5 14.dxe6 Bxe6 15.Nf3 h6
+16.Nd4 Bd7 17.Qd2 c5 18.Ne2 Bc6 19.Bxc6 Qxc6 20.d4 Ne4 21.Qc2 d5 22.dxc5 Bxb2
+23.Qxb2 dxc4 24.b4 b5 25.Rad1 g4 26.Nd4 Qf6 27.Qc2 Ng5 28.h4 gxh3 29.f4 Ne4
+30.Nxb5 c3 31.Rf3 Qc6 32.Nd4 Qb7 33.Qb3+ Kh8 34.c6 Qb6 35.Rxc3 Rad8 36.Rc4 Rg8
+37.Rd3 Rxd4 38.Rdxd4 Nd2 39.Qc3 Nxc4 40.Qxc4 Rxg3+ 41.Kh2 Rg7 42.Qd5 Qa6
+43.Qc4 Qa3 44.Rd8+ Kh7 45.Qd3 Qb2+  0-1
+
+[Event "URS-ch02"]
+[Site "Petrograd"]
+[Date "1923.??.??"]
+[Round "13"]
+[White "Lebedev, Sergey Fedorovich"]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Bd3 d5 7.exd5 cxd5 8.Bg5 Be7
+9.O-O O-O 10.c3 Ng4 11.Bxe7 Qxe7 12.Nd2 Rb8 13.Qc2 Qh4 14.Nf3 Qh5 15.h3 Nh6
+16.Nh2 Kh8 17.f4 c5 18.Rad1 Rd8 19.Qf2 c4 20.Bxc4 Bxh3 21.Bxd5 Rxd5 22.Rxd5 Qxd5
+23.gxh3 Qxa2 24.b4 Qa6 25.Re1 Nf5 26.Re5 Qg6+ 27.Qg2 Rc8 28.Qxg6 hxg6 29.Rc5 Rxc5
+30.bxc5 a5 31.Nf3 a4 32.Nd2 a3 33.Kf2 Kg8 34.Ke2 Kf8 35.Kd3 a2 36.Nb3 Ke7
+37.Kc2 Ne3+ 38.Kb2 Ng2 39.Kxa2 Nxf4 40.Ka3 Nxh3 41.Kb4 Kd7 42.Nd4 Nf4 43.Kc4 g5
+44.c6+ Kc7 45.Nf5 g4 46.Kd4 Ne6+ 47.Ke4 Kxc6 48.Ng3 Kc5 49.Kf5 Kc4 50.Kxg4 g6  0-1

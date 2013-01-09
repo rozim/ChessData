@@ -1,0 +1,836 @@
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.01"]
+[Round "1"]
+[White "Polgar, Judit"]
+[Black "Salov, Valery"]
+[Result "1/2-1/2"]
+[WhiteElo "2645"]
+[BlackElo "2665"]
+[ECO "B65"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O
+9.f4 Nxd4 10.Qxd4 Qa5 11.Bc4 Bd7 12.Bb3 Bc6 13.Qd3 b5 14.Kb1 h6 15.Bxf6 Bxf6
+16.Ne2 Rad8 17.g4 Qb4 18.Ng3 Bh4 19.Rhe1 a5 20.f5 a4 21.a3 Qc5 22.Ba2 exf5
+23.exf5 b4 24.axb4 Qxb4 25.Qd4 Qxd4 26.Rxd4 Bf6 27.Rc4 Rb8 28.c3 Bb5 29.Rc7 Bd3+
+30.Ka1 a3 31.bxa3 Rfc8 32.Rxc8+ Rxc8 33.Ne4 Be5 34.Kb2 Bxh2 35.Re3 Bb5 36.Bd5 Rb8
+37.Ka2 Be5 38.Bb3 Kf8 39.a4 Bc6 40.Nd2 Bf4 41.Rd3 Ke7 42.Nc4 g6 43.Ne3 Be5
+44.Nd5+ Kd7 45.fxg6 fxg6 46.Ka3 h5 47.gxh5 gxh5 48.Bd1 Bxd5 49.Rxd5 h4 50.Bg4+ Kc7
+51.Rd3 Kc6 52.Bf3+  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.01"]
+[Round "1"]
+[White "Shirov, Alexei"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2725"]
+[ECO "C02"]
+
+1.e4 c5 2.c3 e6 3.d4 d5 4.e5 Nc6 5.Nf3 Bd7 6.Be2 Nh6 7.O-O Nf5 8.Na3 cxd4
+9.cxd4 Bxa3 10.bxa3 Qb6 11.Be3 Nxe3 12.fxe3 Qd8 13.Bd3 Rc8 14.Rc1 Qe7 15.Rc5 O-O
+16.Qb1 b6 17.Rc2 h6 18.Ba6 Rcd8 19.Bb5 Na5 20.Rc7 a6 21.Rxd7 Rxd7 22.Bxd7 Qxd7
+23.Qxb6 Qb5 24.Qxb5 axb5 25.Rb1 Rc8 26.Rxb5 Rc1+ 27.Kf2 Rc2+ 28.Kf1 Nc4 29.Rb3 Rxa2
+30.Rc3 g6 31.h4 Kg7 32.e4 dxe4 33.Rxc4 exf3 34.gxf3 Rxa3 35.Kf2 Ra2+ 36.Kg3 Rd2
+37.Ra4 g5 38.hxg5 hxg5 39.f4 Kg6 40.fxg5 Kxg5 41.Ra7 Rxd4  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.01"]
+[Round "1"]
+[White "Kramnik, Vladimir"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2765"]
+[ECO "D39"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.d4 dxc4 5.e4 Bb4 6.Bg5 c5 7.Bxc4 cxd4 8.Nxd4 Bd7
+9.O-O Nc6 10.Rc1 h6 11.Bf4 O-O 12.e5 Qb8 13.Bg3 Nxe5 14.Re1 Bd6 15.Ndb5 Nxc4
+16.Nxd6 Nxd6 17.Bxd6 Qd8 18.Bxf8 Kxf8 19.b4 a6 20.a4 Be8 21.Qxd8 Rxd8 22.Red1 Rb8
+23.f3 Bc6 24.b5 axb5 25.axb5 Be8 26.Ra1 g5 27.Ra7 Kg7 28.Rda1 Rc8 29.R1a3 Rc7
+30.b6 Re7 31.R3a5 Bc6 32.Rc5 Re8 33.Ne2 Bd5 34.Rc7 Rd8 35.Kf2 Rd6 36.Nc3 Rxb6
+37.Nxd5 Rb2+ 38.Kg1 Rb1+ 39.Kf2 Rb2+ 40.Kg1 Rb1+ 41.Kf2  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.02"]
+[Round "2"]
+[White "Anand, Viswanathan"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2690"]
+[ECO "D15"]
+
+1.Nf3 d5 2.d4 c6 3.c4 Nf6 4.Nc3 a6 5.Bg5 Ne4 6.Bf4 Nxc3 7.bxc3 dxc4 8.g3 g6
+9.Bg2 Bg7 10.Ne5 Be6 11.Qb1 Qc8 12.a4 a5 13.O-O O-O 14.Ra2 Nd7 15.Nxd7 Qxd7
+16.Rb2 Ra7 17.Rb6 f5 18.Qb2 Bd5 19.Bxd5+ cxd5 20.Rb1 Rd8 21.Qa2 Rc8 22.R6b5 Bf6
+23.h4 Kf7 24.R1b2 Rc6 25.Bb8 Raa6 26.Rxb7 Qe6 27.Qb1 g5 28.g4 gxh4 29.gxf5 Qc8
+30.Kh2 Qg8 31.Qh1 Qd8 32.Bf4 Rcb6 33.Rb8 Rxb8 34.Rxb8 Qd7 35.Qg2  1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.02"]
+[Round "2"]
+[White "Karpov, Anatoly"]
+[Black "Polgar, Judit"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2645"]
+[ECO "E05"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.g3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2 a6 8.a4 Bd7
+9.Qxc4 Bc6 10.Bg5 a5 11.Nc3 Na6 12.Bxf6 Bxf6 13.e4 Nb4 14.Rfd1 Rb8 15.Rac1 Qd7
+16.b3 Rfd8 17.Qe2 Rbc8 18.h4 Qe8 19.Bh3 Bd7 20.Nb5 Bxb5 21.axb5 c6 22.bxc6 Rxc6
+23.Rc4 h6 24.Bf1 b5 25.Rxc6 Qxc6 26.d5 exd5 27.e5 Be7 28.Nd4 Qd7 29.e6 fxe6
+30.Bh3 Qe8 31.Qxe6+ Qf7 32.Qb6 Kh8 33.Qxb5 Ra8 34.Re1 Bf6 35.Nf5 Qf8 36.Re6 d4
+37.Bg4 d3 38.Bh5 d2 39.Rd6 Rd8 40.Rxd8 Qxd8 41.Ne3 Nd3 42.Nd1 Ne5 43.Ne3 Nd3
+44.Qf5 Nb2 45.Nd1 Nxd1 46.Bxd1 Kg8 47.Qe6+ Kf8 48.Kg2 Qe7 49.Qc8+ Qd8 50.Qc5+ Kg8
+51.Qc4+ Kh8 52.Qe4 Qe7 53.Qf5 Qd8 54.Kf1 Qa8 55.Ke2 Qa6+ 56.Kxd2 Qd6+ 57.Kc1 Qa3+
+58.Kd2 Qd6+ 59.Ke2 Qe5+ 60.Qxe5 Bxe5  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.02"]
+[Round "2"]
+[White "Salov, Valery"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2740"]
+[ECO "A07"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 Nd7 4.c4 e6 5.d4 c6 6.O-O Bd6 7.Qb3 Rb8 8.Nc3 Ngf6
+9.Re1 O-O 10.e4 Bxf3 11.Bxf3 e5 12.exd5 exd4 13.Ne2 Re8 14.Bf4 Bxf4 15.Nxf4 Ne5
+16.Bg2 Qd6 17.c5 Qxc5 18.Rxe5 Rxe5 19.dxc6 Qa5 20.cxb7 Re1+ 21.Rxe1 Qxe1+
+22.Bf1 Qe4 23.Bg2 Qb1+ 24.Bf1 Qe4 25.Bg2  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.04"]
+[Round "3"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Short, Nigel D"]
+[Result "0-1"]
+[WhiteElo "2635"]
+[BlackElo "2690"]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Be7 5.Re1 d6 6.c3 O-O 7.d4 Bd7 8.d5 Nb8
+9.Bxd7 Nbxd7 10.c4 Ne8 11.Nc3 g6 12.Rb1 f5 13.b4 f4 14.a4 Rf7 15.Ba3 g5 16.Nd2 Nef6
+17.f3 Rg7 18.Kh1 g4 19.Qe2 Kh8 20.Rec1 Rg6 21.c5 dxc5 22.bxc5 Bxc5 23.Bxc5 Nxc5
+24.Nb5 b6 25.a5 Qe7 26.Nb3 gxf3 27.gxf3 Nxb3 28.Rxb3 Rag8 29.Qf2 Qg7 30.Rbb1 Rg2
+31.Qh4 Qg6 32.Nc3 b5 33.Re1 b4 34.Ne2 Nxe4 35.fxe4 Rg1+  0-1
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.04"]
+[Round "3"]
+[White "Shirov, Alexei"]
+[Black "Salov, Valery"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2665"]
+[ECO "B81"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 h6 7.h3 Nc6 8.Be3 a6
+9.Qd2 Nxd4 10.Qxd4 e5 11.Qd3 Be6 12.O-O-O Rc8 13.f4 Qa5 14.a3 Rxc3 15.Qxc3 Qxc3
+16.bxc3 exf4 17.Bxf4 Nxe4 18.Re1 Nxc3 19.Bg2 Kd7 20.Re3 Nd5 21.Bxd5 Bxd5
+22.Rd1 Bc4 23.Re4 Be6 24.Bxd6 Bxd6 25.Red4 h5 26.Rxd6+ Kc7 27.R6d4 hxg4 28.hxg4 Rh3
+29.R1d3 Rh1+ 30.Kb2 Rg1 31.Rc3+ Kb8 32.Rc5 g6 33.g5 Bf5 34.Rd6 Rg4 35.Rb6 Rg3
+36.a4 Rxg5 37.Rf6 Rg4 38.Rxf7 Rxa4 39.c4 Rb4+ 40.Kc3 Rb1  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.04"]
+[Round "3"]
+[White "Topalov, Veselin"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2765"]
+[ECO "D17"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6 7.f3 Bb4 8.e4 Bxe4
+9.fxe4 Nxe4 10.Bd2 Qxd4 11.Nxe4 Qxe4+ 12.Qe2 Bxd2+ 13.Kxd2 Qd5+ 14.Kc2 Na6
+15.Nxc4 b5 16.axb5 Nb4+ 17.Kc3 cxb5 18.Rd1 bxc4 19.Rxd5 Nxd5+ 20.Kc2 O-O
+21.Qe4 Rfc8 22.h4 Rc5 23.Rh3 Rac8 24.Ra3 a5 25.Kc1 h5 26.Qd4  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.05"]
+[Round "4"]
+[White "Karpov, Anatoly"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[WhiteElo "2760"]
+[BlackElo "2690"]
+[ECO "E63"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 Nc6 7.O-O a6 8.Re1 Rb8
+9.Rb1 b5 10.cxb5 axb5 11.b4 e6 12.e4 Ne7 13.Nd2 c5 14.bxc5 dxc5 15.dxc5 Nd7
+16.Nxb5 Nxc5 17.Nc4 Nd3 18.Re2 Ba6 19.a4 Nxc1 20.Qxc1 Rc8 21.Rc2 Bxb5 22.axb5 Qd4
+23.b6 Rb8 24.Rd2 Qc5 25.Rd7 Bd4 26.Rc7 Bxf2+ 27.Kh1 Qh5 28.Rxe7 Bxg3 29.h3 Rbd8
+30.e5 Qh4 31.Rc7 Bf2 32.Qa3  1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.05"]
+[Round "4"]
+[White "Gelfand, Boris"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2740"]
+[ECO "D46"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 Nbd7 6.Qc2 Bd6 7.Bd3 O-O 8.O-O dxc4
+9.Bxc4 b5 10.Be2 Bb7 11.Rd1 Qc7 12.b3 a6 13.Ne4 Nxe4 14.Qxe4 c5 15.Qh4 Nf6
+16.Bb2 Qe7 17.dxc5  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.05"]
+[Round "4"]
+[White "Salov, Valery"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[WhiteElo "2665"]
+[BlackElo "2725"]
+[ECO "B07"]
+
+1.d4 g6 2.e4 d6 3.c3 Nf6 4.Bd3 Bg7 5.Nf3 O-O 6.O-O Nc6 7.Re1 Bg4 8.Nbd2 e5
+9.h3 Bd7 10.dxe5 Nxe5 11.Nxe5 dxe5 12.Nc4 Re8 13.a4 Nh5 14.Bf1 Nf4 15.Be3 Qe7
+16.Kh2 a5 17.Qc2 h5 18.Rad1 h4 19.Rd2 Bc6 20.Na3 Red8 21.Bb5 Rxd2 22.Bxd2 Bxb5
+23.Nxb5 Ne6 24.Na3 Bf6 25.Nc4 Bg5 26.Be3 Bf4+ 27.Kg1 Bxe3 28.Nxe3 Rd8 29.Rd1 c6
+30.Kf1 Kg7 31.Ng4 Rxd1+ 32.Qxd1 Nc5 33.Qc2 Qg5 34.b4 axb4 35.cxb4 Ne6 36.Qc3 f6
+37.Qe3 Kf7 38.Ke1 Qxe3+ 39.Nxe3 Nf4 40.Kd2 Ke6 41.a5 f5 42.f3 Nh5 43.Kd3 Nf6
+44.Nd1 Kd6 45.Nb2 Nh5 46.Nc4+ Ke6 47.Kc3 Ng3 48.Kd3 Nh5 49.Ne3 Nf6 50.Nf1 Nd7
+51.Nd2 Kf6 52.Nb3 Kg5 53.Ke3 Kf6 54.Nc1 Ke7 55.Kd3 Kd6 56.Nb3 Kc7 57.Nd2 Kd6
+58.Nc4+ Ke6 59.Nb2 Kd6 60.Na4 Kc7 61.Nb2 Kd6 62.Nc4+ Ke6 63.Ke3 Nf6 64.Nb2 Nd7
+65.Nd3 Kd6 66.f4 fxe4 67.fxe5+ Nxe5 68.Nc5 Kd5 69.Nxb7 Nc4+ 70.Ke2 Na3 71.a6 Nb5
+72.Ke3 Na7 73.Na5 g5 74.Nb7 Kc4 75.Kxe4 Kxb4 76.Kf5 Kb5 77.Kxg5 Kxa6 78.Nd6 c5
+79.Kxh4 Nb5 80.Nc4 Nd4 81.Kg5 Kb5 82.Ne3 c4 83.h4 c3 84.h5 Ne6+ 85.Kf5 Ng7+
+86.Kg6 Ne6 87.Kf5 Ng7+ 88.Kg4 Ne6 89.h6 Nf8 90.Kf5 Kc5 91.g4  1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.05"]
+[Round "4"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Polgar, Judit"]
+[Result "0-1"]
+[WhiteElo "2635"]
+[BlackElo "2645"]
+[ECO "B88"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.O-O Be7 8.Bb3 O-O
+9.f4 Nc6 10.Be3 Nxd4 11.Bxd4 b5 12.e5 dxe5 13.fxe5 Nd7 14.Ne4 Bb7 15.Nd6 Bxd6
+16.exd6 Qg5 17.Qe2 Kh8 18.Rad1 Qg6 19.c4 bxc4 20.Bxc4 f5 21.Bc3 f4 22.Bd3 f3
+23.Qf2 Qh5 24.Qg3 e5 25.gxf3 Bxf3 26.Rde1 Rae8 27.Re3 Bc6 28.Rfe1 Qf7 29.Bxe5 Nxe5
+30.Rxe5 Qa7+ 31.R5e3 Rf3 32.Qh4 h6  0-1
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.06"]
+[Round "5"]
+[White "Polgar, Judit"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[WhiteElo "2645"]
+[BlackElo "2690"]
+[ECO "C18"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qc7 7.Qg4 f5 8.Qh5+ g6
+9.Qd1 Bd7 10.Nf3 cxd4 11.cxd4 Ba4 12.Bd2 Nc6 13.Bd3 h6 14.h4 O-O-O 15.Kf1 Kb8
+16.Rh3 Rc8 17.Qe1 Qd7 18.Rc1 Nge7 19.Kg1 Ka8 20.Rg3 Rh7 21.Qe2 Rch8 22.Rh3 Nc8
+23.c4 dxc4 24.Bxc4 Nb6 25.Ba2 g5 26.d5 g4 27.dxc6 Bxc6 28.Rg3 gxf3 29.gxf3 Bd5
+30.Be3 f4 31.Bxf4 Bxa2 32.Qxa2 Nd5 33.Qc4 Qd8 34.Qe4 Rd7 35.Bd2 Ne7 36.Be3 Nf5
+37.Rg4 Rd3 38.Rb1 Qd7 39.a4 Rc8 40.a5 Nxe3 41.fxe3 a6 42.Rg2 Rd5 43.f4 Rxa5
+44.Rgb2 Rc7 45.Kh2 Rd5 46.Rb6 h5 47.Kh3 Qg7 48.Qg2 Qh7 49.R1b2 Qd3 50.Kh2 Ka7
+51.Rxe6 Qxe3 52.Qf2 Qxf2+ 53.Rxf2 Rd4 54.Rg6 Re4 55.e6 Rc6 56.f5 Rxh4+ 57.Kg2 Re4
+58.Rg8 Rexe6 59.fxe6 Rxe6 60.Rg7 Rb6 61.Rf5 h4 62.Rh5 Rb3 63.Kf2 h3 64.Rgh7 h2
+65.Ke2 Kb6 66.Kd2  1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.06"]
+[Round "5"]
+[White "Kramnik, Vladimir"]
+[Black "Illescas Cordoba, Miguel"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2635"]
+[ECO "A17"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3 6.Qxc3 b6 7.g3 Bb7 8.Bg2 c5
+9.b4 d6 10.O-O Nbd7 11.Bb2 Qe7 12.d3 Rfc8 13.b5 a6 14.a4 axb5 15.axb5 Qf8
+16.e4 Rxa1 17.Rxa1 Ra8 18.Qc1 Rxa1 19.Qxa1 Qa8 20.Qxa8+ Bxa8 21.Nd2 Ne8 22.Nb1 Bb7
+23.f4 f6 24.Nc3 Kf7 25.Na4 Ke7 26.d4 Kd8 27.d5 exd5 28.exd5 Nc7 29.Bh3 Na8
+30.Be6 Nf8 31.f5 Bc8 32.Kf2 Bd7 33.g4 Ke7 34.g5 Nxe6 35.fxe6 Be8 36.gxf6+ gxf6
+37.Ke3 Bg6 38.Kd2 Be4 39.Bc1 Bg2 40.Kc3 Bf1 41.Bh6 Bg2 42.Bf4 Bf1 43.Nb2 Nc7
+44.Nd1 Bg2 45.Ne3 Be4 46.Bh6 Ne8 47.Kd2 Nc7 48.Ke2 Ne8 49.Kf2 Nc7 50.Kg3 Bd3
+51.Kg4 Ne8 52.Kf4 Bb1 53.Nf5+ Kd8 54.Bf8 Bd3 55.Be7+ Kc7 56.Ne3 Kc8 57.Kg4 Kc7
+58.Kh5 Ng7+ 59.Kh6 Ne8 60.h4 Kc8 61.h5 Kc7 62.Ng2 Kc8 63.Nf4 Bc2 64.Bxf6 Nxf6
+65.Kg7 Ne8+ 66.Kf7 Nc7 67.e7 h6 68.Ne6 Bd1 69.Kg6 Ne8 70.Nf8 Be2 71.Kxh6 Bxc4
+72.Kg6 Bxd5 73.h6 c4 74.h7 Be4+ 75.Kf7 Bxh7 76.Kxe8 Bg8 77.Nd7 c3  1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.06"]
+[Round "5"]
+[White "Anand, Viswanathan"]
+[Black "Salov, Valery"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2665"]
+[ECO "B89"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 d6 6.Be3 Nf6 7.Bc4 Be7 8.Bb3 O-O
+9.Qe2 a6 10.O-O-O Qc7 11.g4 Nd7 12.Nf5 Nc5 13.Nxe7+ Nxe7 14.Qd2 Rd8 15.Bf4 Ng6
+16.Bxd6 Qc6 17.f4 b5 18.e5 b4 19.Ne2 a5 20.Nd4 Nxb3+ 21.axb3 Qe4 22.f5 Nxe5
+23.Bxe5 Qxe5 24.Rhe1 Qd6 25.fxe6 fxe6 26.Nxe6 Qxd2+ 27.Rxd2 Rxd2 28.Kxd2 Kf7
+29.Nd4 Bxg4 30.Nc6 Bf5 31.Re5 Kf6 32.Rxa5 Rxa5 33.Nxa5 Be4 34.c3 g5 35.Ke3 Bh1
+36.Nc4 h5 37.Nd2 Bb7 38.Ne4+ Kg6 39.cxb4 h4 40.Nd6 Bd5 41.b5 g4 42.Kf2  1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.06"]
+[Round "5"]
+[White "Topalov, Veselin"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2760"]
+[ECO "B17"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2 h6
+9.Ne4 Nxe4 10.Qxe4 c5 11.O-O Nf6 12.Bb5+ Ke7 13.Qe2 Qc7 14.dxc5 Qxc5 15.Be3 Qc7
+16.Bd4 Rd8 17.c3 Bd7 18.Bc4 Bc6 19.Ne5 Be4 20.Ng4 Nxg4 21.Qxe4 Bxh2+ 22.Kh1 Be5
+23.Bxe6 fxe6 24.Qxg4 Bxd4 25.cxd4 Kf7 26.Rac1 Qb6 27.Qf4+ Kg8 28.Rc7 Qxd4
+29.Qxd4 Rxd4 30.Rxb7 a5 31.Rc1 Rad8 32.f3 Rd1+ 33.Rxd1 Rxd1+ 34.Kh2 a4 35.b3  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.08"]
+[Round "6"]
+[White "Karpov, Anatoly"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2765"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 exd4 5.Bxc4 Nc6 6.O-O Be6 7.Bxe6 fxe6 8.Qb3 Qd7
+9.Qxb7 Rb8 10.Qa6 Nf6 11.Nbd2 Bb4 12.Nc4 O-O 13.a3 Bc5 14.b4 Bb6 15.b5 Ne7
+16.Nfe5 Qe8 17.Re1 Ng6 18.Nd3 Nh4 19.Bf4 Nxe4 20.Bg3 Nxg3 21.hxg3 Nf5 22.a4 Ne3
+23.Nce5 Nc2 24.Nc6 Nxa1 25.Rxa1 Ra8 26.Re1 e5 27.Rxe5 Qf7 28.a5 Qb3 29.Ncb4 Rae8
+30.Rxe8 Rxe8 31.Kh2 Qf7 32.axb6 Qh5+ 33.Kg1 Qd1+ 34.Kh2 Qh5+  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.08"]
+[Round "6"]
+[White "Short, Nigel D"]
+[Black "Salov, Valery"]
+[Result "1-0"]
+[WhiteElo "2690"]
+[BlackElo "2665"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nf3 Bg4 4.Be2 Nc6 5.O-O O-O-O 6.h3 Bxf3 7.Bxf3 Qd7
+8.c3 Ne5 9.d4 Nxf3+ 10.Qxf3 Nf6 11.Nd2 Qd5 12.Qe2 e6 13.Nf3 Bd6 14.Re1 Qh5
+15.c4 c6 16.Qe3 Nd7 17.Bd2 Rhg8 18.b4 g5 19.Nxg5 Bc7 20.Kf1 Rg7 21.Ne4 Rdg8
+22.g4 Qh4 23.Qh6 Qd8 24.Bf4 f5 25.gxf5 exf5 26.Bxc7 Rg1+ 27.Ke2 Rxe1+ 28.Rxe1 Qe7
+29.Kf1 fxe4 30.Bg3 Qf7 31.Qd6 Rxg3 32.Qxg3 Qxc4+ 33.Kg2 Nf6 34.Qd6 Qf7 35.b5 Qg6+
+36.Kf1 Qf5 37.Kg1 Qg5+ 38.Kh2 Qf5 39.Re2 Qxb5 40.Qe6+ Kc7 41.Qe5+ Kd7 42.Re3 Qxe5+
+43.dxe5 Nd5 44.Rxe4 b5 45.Rh4 c5 46.Rxh7+ Ke6 47.Rxa7 c4 48.h4 c3 49.Ra6+ Kxe5
+50.h5 b4 51.h6 c2 52.h7 c1=Q 53.h8=Q+ Ke4 54.Re6+ Kd3 55.Qh7+ Kd4 56.Qg7+ Kd3
+57.Qg3+ Kd4 58.Qe5+ Kc5 59.Rd6 Qd2 60.Rxd5+ Qxd5 61.Qxd5+ Kxd5 62.Kg3 Kd4
+63.f4  1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.09"]
+[Round "7"]
+[White "Salov, Valery"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2760"]
+[ECO "A33"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 e6 6.Ndb5 d5 7.Bf4 e5 8.cxd5 exf4
+9.dxc6 bxc6 10.Qxd8+ Kxd8 11.Nd4 Bb7 12.g3 c5 13.Nf3 Bd6 14.Bg2 Rb8 15.O-O-O Ke7
+16.Nh4 Bxg2 17.Nxg2 fxg3 18.hxg3 Be5 19.Ne3 Ke6 20.Nc4 Rb4 21.Nxe5 Kxe5 22.Rd2 Rd4
+23.e3 Rxd2 24.Kxd2 Rb8 25.b3  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.09"]
+[Round "7"]
+[White "Kramnik, Vladimir"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2690"]
+[ECO "D11"]
+
+1.Nf3 d5 2.d4 Bf5 3.c4 e6 4.Nc3 c6 5.Qb3 Qb6 6.c5 Qc7 7.Bf4 Qc8 8.Nh4 Bg6
+9.Nxg6 hxg6 10.e4 Nf6 11.Bd3 dxe4 12.Nxe4 Nxe4 13.Bxe4 Be7 14.O-O-O Nd7 15.Kb1 Nf6
+16.Bf3 Nd5 17.Be5 Bf6 18.Bd6 Be7 19.Be5 Bf6 20.Bd6 Be7 21.Bxd5 cxd5 22.Bxe7 Kxe7
+23.Qe3 Qd7 24.Rc1 f6 25.f4  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.09"]
+[Round "7"]
+[White "Shirov, Alexei"]
+[Black "Polgar, Judit"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2645"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Bg4 6.Nbd2 Nc6 7.Bc4 Bxf3 8.Qb3 Na5
+9.Bxd5 Nxb3 10.Nxf3 Nxd5 11.axb3 cxd4 12.Nxd4 e5 13.Nf5 a6 14.Ke2 O-O-O 15.Rd1 f6
+16.b4 g6 17.Ne3 Nxe3 18.Bxe3 Rxd1 19.Rxd1 Kc7 20.Kd3 Bd6 21.Kc4 Kc6 22.Kb3 Rd8
+23.g4 Bc7 24.Rg1 Rd3 25.Rg3 e4 26.Rh3 Rd7 27.Bd4 Rf7 28.Re3 Kd5 29.h3 Be5
+30.Bc5 f5 31.Re1 Kc6 32.gxf5 gxf5 33.f3 Bg3 34.Rg1 Bd6 35.fxe4 fxe4 36.Bd4 Rf3
+37.Rg4 Bf4 38.Kc2 Rf1 39.Rg7 Rh1 40.Rxh7 Rh2+ 41.Kd1 Rd2+ 42.Ke1 Rxb2 43.Re7 Kd5
+44.Rxb7 Kc4 45.Re7 Kd3 46.Rd7 Bd2+ 47.Kf1 e3 48.Bg7+ Kc2 49.Re7 Rb1+ 50.Kg2 Kd3
+51.Bh6 Re1 52.h4 Bxc3 53.Rd7+ Kc4 54.h5 e2 55.Re7 Bd4 56.Be3 Rf1 57.Bxd4 e1=Q
+58.Rxe1 Rxe1 59.Bg7 Re4 60.Kg3 Re1 61.Kg2 Re4  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.10"]
+[Round "8"]
+[White "Short, Nigel D"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[WhiteElo "2690"]
+[BlackElo "2760"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.a3 Ne7 6.Nbd2 Nd7 7.Nh4 c5 8.c3 a6 9.Nxf5 Nxf5
+10.Nf3 Rc8 11.Bd3 cxd4 12.Bxf5 exf5 13.Nxd4 g6 14.O-O Nc5 15.Be3 Bg7 16.Nf3 O-O
+17.Re1 Re8 18.Re2 Ne4 19.Qb3 b5 20.Rd1 Rc4 21.Bd4 Qb8 22.Rd3 f4 23.Qd1 Rc6
+24.Ne1 Rce6 25.Nc2 Qb7 26.f3 Nd6 27.b3 Nf5 28.Qd2 h5 29.Re1 a5 30.Kf1 Qc7
+31.Kg1 Kh7 32.b4 a4 33.Kf1 Qc4 34.Kg1 Bxe5 35.Bxe5 Rxe5 36.Rxe5 Rxe5 37.Nd4 Re3
+38.Rxe3 fxe3 39.Qd1 Qxc3  0-1
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.10"]
+[Round "8"]
+[White "Gelfand, Boris"]
+[Black "Salov, Valery"]
+[Result "0-1"]
+[WhiteElo "2700"]
+[BlackElo "2665"]
+[ECO "E13"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.Nc3 Bb4 5.Bg5 Bb7 6.e3 h6 7.Bh4 Bxc3+ 8.bxc3 d6
+9.Nd2 Nbd7 10.f3 Nf8 11.Bd3 g5 12.Bf2 Rg8 13.Qa4+ Qd7 14.Qa3 Ng6 15.O-O-O Nh4
+16.Rhg1 c5 17.e4 Ng6 18.e5 dxe5 19.Bxg6 Rxg6 20.dxe5 Nh5 21.Ne4 Qc7 22.Nd6+ Kf8
+23.Nxb7 Qxb7 24.Qa4 Nf4 25.Qc2 Qa6 26.g3 Nh3 27.Rgf1 Qxc4 28.Be3 Kg7 29.Kb2 Rf8
+30.f4 gxf4 31.gxf4 Rd8 32.Rxd8 Qxf1 33.Qa4 Rg2+ 34.Bd2 Qxf4 35.Qd7 Ng5 36.Ka3 Qxe5
+37.Qe8 Kg6 38.Qd7 Rxh2 39.Rg8+ Kh7 40.Rd8 Kg6 41.Rg8+ Kh5 42.Qd3 c4  0-1
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.10"]
+[Round "8"]
+[White "Polgar, Judit"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteElo "2645"]
+[BlackElo "2725"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d6 8.a4 Bg4
+9.h3 Bh5 10.axb5 axb5 11.Rxa8 Qxa8 12.d3 O-O 13.b4 Bb6 14.Na3 Qa6 15.Bb3 Nd8
+16.g4 Bg6 17.Nh4 Ne6 18.Nf5 c5 19.Nc2 Bd8 20.c4 cxb4 21.Nxb4 Qb6 22.Be3 Nc5
+23.Qb1 Bxf5 24.gxf5 Qb7 25.Ba2 g6 26.Bh6 Re8 27.cxb5 Qxb5 28.Kh2 Qd7 29.Rg1 Kh8
+30.Bc4 Rg8 31.Nd5 gxf5 32.Nxf6 Bxf6 33.Rxg8+ Kxg8 34.exf5 Qb7 35.Qa2 Qe7
+36.Bxf7+ Kh8 37.Bc4 Qd8 38.Qa7 e4 39.Qf7 Nxd3 40.Bd5 Ne5 41.Qb7 Qe7 42.Qc8+ Qd8
+43.Qb7 Qe7 44.Qb1 Nd7 45.Kh1 Bg7 46.Be3 Nf6 47.Be6 Qe8 48.Bd4 Qa8 49.Kg1 Qd8
+50.Qb2 Qf8 51.Kf1 Qd8 52.Qc3 Qf8 53.h4 h6 54.Qb3 Nh7 55.Be3 Nf6 56.Qc4 Qd8
+57.Qc6 Qe7 58.Bb6 Kh7 59.Ke1 Kh8 60.Qc8+ Qe8 61.Bd8 Ng4 62.Bd7 Qg8 63.Be6 Qe8
+64.Qc7 Qb5 65.Bg5 Qe8 66.Bd2 Ne5 67.Kf1 Nf3 68.Bc3 Nd4 69.Bxd4 Bxd4 70.Qc4 Bg7
+71.Qxe4 Qf8 72.Kg2 Bf6 73.Kh3 Bg7 74.Qc6 Bf6 75.Kg4 Be7 76.Kh5 Kh7 77.Qc4 Qf6
+78.Qg4 Qg7 79.Qe4 Qf6 80.f3 Bd8 81.Qg4 Qg7 82.Qxg7+  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.10"]
+[Round "8"]
+[White "Kramnik, Vladimir"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[WhiteElo "2740"]
+[BlackElo "2690"]
+[ECO "A30"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 e6 4.g3 b6 5.Bg2 Bb7 6.O-O a6 7.d4 cxd4 8.Qxd4 d6
+9.Rd1 Be7 10.b3 Nbd7 11.e4 Qc8 12.Bb2 O-O 13.Qe3 Re8 14.Nd4 Bf8 15.h3 Qc7
+16.Re1 g6 17.Rad1 Rad8 18.Qd2 Bg7 19.Nc2 Nc5 20.Ba1 h5 21.Nb4 Qc8 22.Qf4 Qa8
+23.Nd3 Nfd7 24.Nxc5  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.10"]
+[Round "8"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2765"]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Qd6 6.Na3 Be6 7.Qe2 f6 8.Rd1 Bg4
+9.Nc4 Qe6 10.Ne3 Bxf3 11.Qxf3 O-O-O 12.d3 c5 13.Qf5 Qxf5 14.Nxf5 c4 15.Be3 cxd3
+16.Rxd3 Rxd3 17.cxd3 g6 18.Ng3 Ne7 19.d4 Nc6 20.dxe5 fxe5 21.Rd1 Bg7 22.Ne2 Rd8
+23.Rxd8+ Kxd8 24.Kf1 Kd7 25.Nc1 Bf8 26.Ke2 Bd6 27.g3 Ke6 28.f4 exf4 29.gxf4 b6
+30.h3 Nb4 31.Bd2 Nc6 32.Be3 Nb4 33.Bd2 Nc6  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.11"]
+[Round "9"]
+[White "Salov, Valery"]
+[Black "Illescas Cordoba, Miguel"]
+[Result "1-0"]
+[WhiteElo "2665"]
+[BlackElo "2635"]
+[ECO "D17"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 c6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6 7.f3 Bb4 8.e4 Bxe4
+9.fxe4 Nxe4 10.Bd2 Qxd4 11.Nxe4 Qxe4+ 12.Qe2 Bxd2+ 13.Kxd2 Qd5+ 14.Kc2 Na6
+15.Nxc4 b5 16.axb5 Nb4+ 17.Kc3 cxb5 18.Rd1 bxc4 19.Rxd5 Nxd5+ 20.Kd2 O-O
+21.Qe5 Rac8 22.Be2 Rfd8 23.Rc1 Nb6+ 24.Ke1 Rd5 25.Qe3 Rb5 26.Rc2 g6 27.g4 Rcc5
+28.Rd2 Nd5 29.Qe5 Rb3 30.h4 h6 31.Kf2 a5 32.Bf3 Rd3 33.Re2 Rb3 34.Qd6 Nb4
+35.Be4 Nd3+ 36.Kf1 Re5 37.Qc7 Rc5 38.Qd8+ Kg7 39.Qd4+ e5 40.Qd6 Rbb5 41.Bxd3  1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.11"]
+[Round "9"]
+[White "Shirov, Alexei"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[WhiteElo "2690"]
+[BlackElo "2690"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Be7 5.Re1 d6 6.c3 O-O 7.d3 a6 8.Ba4 Nd7
+9.d4 Bf6 10.Bc2 Nb6 11.h3 Bd7 12.b3 exd4 13.cxd4 Nb4 14.Nc3 Nxc2 15.Qxc2 c6
+16.Ba3 Be7 17.Rad1 Re8 18.d5 cxd5 19.exd5 Rc8 20.Qd3 h6 21.Ne4 Bf5 22.Qd4 Bf8
+23.Ng3 Rxe1+ 24.Rxe1 Bh7 25.Nh5 Nd7 26.Bxd6 Qb6 27.Bxf8 Qxd4 28.Nxd4 Kxf8
+29.d6 Rd8 30.Re7 Nc5 31.b4 Ne4 32.Nxg7 Nxd6 33.Rc7 Bb1 34.a3 Ne8 35.Nxe8 Kxe8
+36.Ne2 Be4 37.Ng3 Bc6 38.Nf5 Rd1+ 39.Kh2 Rd2 40.Kg3 Rd3+ 41.f3 Rxa3 42.Nxh6 Bd5
+43.Nf5 b5 44.h4 Kd8 45.Ra7 a5 46.h5 Be4 47.Kf4 axb4 48.h6 Bxf5 49.Kxf5 Rxa7
+50.h7  1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.11"]
+[Round "9"]
+[White "Topalov, Veselin"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2740"]
+[ECO "D46"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Bd3 O-O 8.O-O dxc4
+9.Bxc4 a6 10.Bd2 c5 11.Bd3 h6 12.Rad1 cxd4 13.exd4 Qc7 14.Rc1 Qb8 15.Rfe1 b5
+16.Ne4 Bb7 17.Nxd6 Qxd6 18.Qc7 Qxc7 19.Rxc7 Rab8 20.Ba5 Rfc8 21.Rec1 Nd5
+22.Rxc8+ Rxc8 23.Rxc8+ Bxc8 24.Ne5 Nb8 25.Be4 f6 26.Bxd5 exd5 27.Bc7 fxe5
+28.Bxb8  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.12"]
+[Round "9"]
+[White "Anand, Viswanathan"]
+[Black "Polgar, Judit"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2645"]
+[ECO "E97"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.b4 a5 10.Ba3 b6 11.bxa5 Rxa5 12.Bb4 Ra8 13.a4 Nh5 14.a5 bxa5 15.Bxa5 Nf4
+16.Nd2 Qd7 17.Re1 Bh6 18.Bf1 c6 19.c5 cxd5 20.exd5 dxc5 21.Nde4 Bg7 22.Bb5 Qb7
+23.Nxc5 Qb8 24.Bf1 Bf5 25.d6 Nc6 26.Bc7 Rxa1 27.Qxa1 Qb4 28.N5e4 Qb3 29.Rb1 Qe6
+30.Qa4 Nd4 31.Bc4 Qd7 32.Qxd7 Bxd7 33.Nd5 Be6 34.Nb6 Bxc4 35.Nxc4 Nfe6 36.Nb6 f5
+37.Nc3 e4 38.Ncd5 Ne2+ 39.Kf1 Nc3 40.Rc1 Nxd5 41.Nxd5 Be5 42.Bb6 Rf7 43.Rc8+ Nf8
+44.Ne7+ Kg7 45.Bc5 Nd7 46.Bb4 Kf6 47.Re8 Bb2 48.Nd5+ Kg7 49.Nc7 Ne5 50.Bd2 h6
+51.Rb8 Ba1 52.Ra8 Nc4 53.Ne8+ Kh7 54.Rxa1 Nxd2+ 55.Ke2 Nb3 56.Rd1 Nc5 57.d7 Ne6
+58.d8=Q Nxd8 59.Rxd8 g5 60.Rd7 Rxd7 61.Nf6+ Kg6 62.Nxd7 Kf7 63.Kd2 Ke6 64.Nb6 h5
+65.h4 f4 66.hxg5 Kf5 67.Nc4 Kxg5 68.Nd6 e3+ 69.fxe3 h4 70.Ne4+ Kg4 71.Ke2 Kf5
+72.Nf2  1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.??.??"]
+[Round "1"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2760"]
+[ECO "B17"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2 h6
+9.Ne4 Nxe4 10.Qxe4 c5 11.O-O Qc7 12.Qg4 Kf8 13.c3 b6 14.Qh4 Bb7 15.Be4 Bxe4
+16.Qxe4 Rd8 17.dxc5 Nxc5 18.Qe2 Ke7 19.h3 Rhe8 20.Qc2 Nd3 21.Be3 Ne5 22.Nxe5 Bxe5
+23.f4 Bf6 24.f5 Kf8 25.fxe6 Rxe6 26.Bf4 Qc4 27.Qh7 Ke7 28.Rae1 g6 29.Rxe6+ Qxe6
+30.Bg3 Rh8 31.Qxh8 Bxh8 32.Re1 b5 33.Kf1 f5 34.Rxe6+ Kxe6 35.Ke2 Kd5 36.Kd3 Bf6
+37.b3 a6 38.Bf2 h5 39.c4+ bxc4+ 40.bxc4+ Kc6 41.Be3 g5 42.Bf2 Be5 43.Be3 Bf6
+44.Bf2 Be7 45.Be3 Kd6 46.Bd4 Ke6 47.Bb6 Kd7 48.Bd4 Kc6 49.Be3 Bf6  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.??.??"]
+[Round "1"]
+[White "Gelfand, Boris"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2690"]
+[ECO "E41"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 Nc6 7.O-O Bxc3 8.bxc3 d6
+9.e4 e5 10.d5 Ne7 11.Nh4 h6 12.f3 g5 13.Nf5 Nxf5 14.exf5 Bd7 15.Bd2 Kg7 16.g4 Rh8
+17.Rb1 Rb8 18.Kg2 a6 19.a4 b6 20.Rh1 Nh7 21.Qc2 Rb7 22.Be3 Qf6 23.h4 gxh4
+24.Bf2 Ng5 25.Rxh4 Qd8 26.Rbh1 f6 27.Be3 b5 28.axb5 axb5 29.Kg3 bxc4 30.Qh2 Nf7
+31.Bxh6+ Kg8 32.Be4 Be8 33.Be3 Rxh4 34.Qxh4 Kf8 35.Bh6+ Ke7 36.Bg7 Kd7 37.Qxf6  1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.??.??"]
+[Round "2"]
+[White "Gelfand, Boris"]
+[Black "Illescas Cordoba, Miguel"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2635"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Rb1 O-O
+9.Be2 cxd4 10.cxd4 Qa5+ 11.Bd2 Qxa2 12.O-O Bg4 13.Be3 Nc6 14.d5 Bxf3 15.Bxf3 Ne5
+16.Be2 Nc4 17.Bg5 Nd6 18.Bd3 Rfe8 19.Re1 e5 20.Bd2 b5 21.Bxb5 Nxb5 22.Rxb5 a5
+23.d6 Red8 24.Rd5 Rd7 25.Qc1 Bf8 26.Bg5 Qa4 27.Red1 Ra6 28.Be7 Rc6 29.Qd2 Bxe7
+30.dxe7 Rxe7 31.Rxa5 Qc2 32.h3  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.??.??"]
+[Round "2"]
+[White "Short, Nigel D"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[WhiteElo "2690"]
+[BlackElo "2725"]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 e6 3.f4 Nc6 4.Nf3 d5 5.Bb5 Ne7 6.Ne5 Bd7 7.Nxd7 Qxd7 8.exd5 exd5
+9.O-O O-O-O 10.a3 Nf5 11.Be2 c4 12.Bf3 Bc5+ 13.Kh1 h5 14.Bxd5 h4 15.h3 Ng3+
+16.Kh2 Nxf1+ 17.Qxf1 Rhe8 18.Bxc4 Qd4 19.d3 Qf2 20.Qxf2 Bxf2 21.Bd2 f5 22.Bb5 Rd6
+23.Rf1 Bg3+ 24.Kg1 a6 25.Bxc6 Rxc6 26.Rc1 b5 27.Kf1 Rce6 28.Rd1 Kb7 29.d4 Rd6
+30.d5 Kb6 31.b4 Kb7 32.Bc1 Rd7 33.Ne2 Red8 34.Nc3 Rc8 35.Rd3 Re7 36.Be3 Rce8
+37.Nd1 Re4 38.d6 Kc6 39.d7 Rd8 40.Nc3 Re6 41.Ne2 Rxd7 42.Rc3+ Kb7 43.Nxg3 hxg3
+44.Ke2 Rc7 45.Rxc7+ Kxc7 46.Kf3 Kd7 47.Bd4 Rg6 48.Ke3 Ke8 49.Kf3 Kf7 50.c3 Ke6
+51.Ke3 Kd5 52.Kd3 Re6 53.Bxg7 Re1 54.Bd4 Ke6 55.Kd2 Ra1 56.Ke2 Rxa3 57.Be5 a5
+58.bxa5 Rxa5 59.h4 Ra3 60.h5 Kf7 61.Bd4 Kg8 62.h6 Kh7 63.Bg7 Kg6 64.Kd2 Ra2+
+65.Ke3 Rf2  0-1
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.??.??"]
+[Round "3"]
+[White "Kramnik, Vladimir"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2760"]
+[ECO "E32"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3 6.Qxc3 b6 7.b4 Bb7 8.Bb2 d6
+9.e3 Nbd7 10.d4 Ne4 11.Qb3 a5 12.Be2 axb4 13.axb4 Rxa1+ 14.Bxa1 Ndf6 15.O-O Qd7
+16.b5 Ra8 17.Bb2 c6 18.bxc6 Qxc6 19.Rc1 Nd7 20.Ne1 Qa4 21.Qxa4 Rxa4 22.f3 Nef6
+23.Bd1 Ra2 24.Nd3 Kf8 25.Bb3 Ra8 26.e4 Nb8 27.c5 bxc5 28.dxc5 dxc5 29.Nxc5 Bc8
+30.e5 Ne8 31.Ba4 Nc7 32.Ba3 Kg8 33.Ne4 Rxa4 34.Rxc7 Ba6 35.Nc5  1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.??.??"]
+[Round "3"]
+[White "Polgar, Judit"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2645"]
+[BlackElo "2700"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bd3 g6 7.f4 Bg7 8.Nf3 O-O
+9.O-O Nbd7 10.Qe1 Nc5 11.Be3 Nxd3 12.cxd3 b5 13.a3 Bd7 14.h3 a5 15.e5 Ne8
+16.Qh4 f6 17.Ne4 Nc7 18.Rae1 Nd5 19.e6 Nxe3 20.Rxe3 Qb6 21.Re1 Bxe6 22.Neg5 fxg5
+23.Nxg5 Rf6 24.Kh1 Bf7 25.Rxe7 h6 26.Nxf7 Rxf7 27.Rxf7 Kxf7 28.Re7+ Kg8 29.Rxg7+  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.??.??"]
+[Round "4"]
+[White "Short, Nigel D"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2765"]
+[ECO "B66"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O h6
+9.Be3 Be7 10.f4 Nxd4 11.Bxd4 b5 12.Qe3 Qc7 13.e5 dxe5 14.fxe5 Nd7 15.Ne4 Bb7
+16.Nd6+ Qxd6 17.exd6 Bg5 18.Qxg5 hxg5 19.Bxg7 Rh4 20.Bd4 f5 21.b3 Rc8 22.Kb2 Kf7
+23.h3 Bc6 24.Rg1 e5 25.Bf2 Rhh8 26.c4 Nf6 27.Bd3 f4 28.Bf5 Bd7 29.Bxd7 Nxd7
+30.c5 Ke6 31.b4 Rh7 32.Rge1 Kf5 33.Kb3 Ke6 34.Bd4 Kd5 35.Bxe5+ Kc6 36.Bc3 g4
+37.hxg4 Rh4 38.Ra1 a5 39.a4 axb4 40.Bxb4 bxa4+ 41.Rxa4 Rxg4 42.Ra6+ Kb5 43.Ra5+ Kc6
+44.Re4 Rxg2 45.Rxf4 Rgg8 46.Kc4 Ra8 47.Rxa8 Rxa8 48.Re4 Rg8  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.??.??"]
+[Round "5"]
+[White "Shirov, Alexei"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2690"]
+[BlackElo "2700"]
+[ECO "B92"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O
+9.Kh1 b6 10.f4 Bb7 11.Bd3 Nbd7 12.a4 b5 13.axb5 axb5 14.Rxa8 Qxa8 15.Bxb5 Nxe4
+16.Nxe4 Bxe4 17.Qe2 Bc6 18.Bxc6 Qxc6 19.Na5 Qa4 20.Nc4 Qb5 21.Re1 f6 22.Qd3 Qc6
+23.Ne3 Rc8 24.Bd2 Bf8 25.fxe5 Nxe5 26.Qb3+ Kh8 27.Bc3 Nc4 28.Nxc4 Qxc4 29.Qxc4 Rxc4
+30.Rd1 Kg8 31.Rd4 Rc7 32.Kg1 Kf7 33.Kf2 Ke6 34.Re4+ Kf7 35.Ke3 d5 36.Rh4 h6
+37.Kd3 Bd6 38.Ba5 Rc8 39.h3 Be5 40.Rb4 g5 41.Rb7+ Ke6 42.g4 h5 43.Bb4 hxg4
+44.hxg4 Rc7 45.Rxc7  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.??.??"]
+[Round "6"]
+[White "Gelfand, Boris"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2725"]
+[ECO "E92"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.Be3 exd4 8.Nxd4 Re8
+9.f3 c6 10.Bf2 d5 11.exd5 cxd5 12.O-O Nc6 13.c5 Nh5 14.Qd2 Be5 15.g3 Ng7
+16.Rfd1 a6 17.Bf1 Be6 18.Nxe6 fxe6 19.f4 Bf6 20.Rab1 g5 21.Ne2 Rf8 22.b4 gxf4
+23.gxf4 Bh4 24.Bg3 Rc8 25.Rb3 Rc7 26.Bh3 Nf5 27.Bxf5 Rxf5 28.Bxh4 Qxh4 29.Rg3+ Rg7
+30.Rxg7+ Kxg7 31.Ng3 Qg4 32.Rf1 Rf6 33.a4 Ne7 34.Qe2 Rg6 35.Qxg4 Rxg4 36.b5 axb5
+37.axb5 Kf7 38.Kh1  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.??.??"]
+[Round "6"]
+[White "Polgar, Judit"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[WhiteElo "2645"]
+[BlackElo "2740"]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nc6 5.Bd3 Bd6 6.O-O Nge7 7.c4 dxc4 8.Bxc4 O-O
+9.h3 Be6 10.Bxe6 fxe6 11.Nc3 Qe8 12.Re1 Qg6 13.Re4 Rae8 14.Qe2 Nd5 15.Rg4 Qf5
+16.Bh6 Rf7 17.Nh4 Nxc3 18.bxc3 Qa5 19.Bd2 e5 20.Nf3 Ree7 21.d5 Qxd5 22.c4 Qc5
+23.Ng5 Rf5 24.Ne4 Nd4 25.Qf1 Qc6 26.c5 Bxc5 27.Rc1 b6 28.Qa6 h5 29.Rh4 Qg6
+30.Qc4+ Ref7 31.Rc3 Nf3+ 32.Rxf3 Rxf3 33.Be1 Be7 34.Nd2 Bxh4 35.Nxf3 Bf6
+36.Nd2 Kh7 37.Ne4 Rd7 38.Bc3 c5 39.Qe2 Kg8 40.Qc4+ Qf7 41.Qe2 c4 42.f4 Rd3
+43.f5 Be7 44.g4 Rxh3  0-1
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.??.??"]
+[Round "6"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Shirov, Alexei"]
+[Result "0-1"]
+[WhiteElo "2635"]
+[BlackElo "2690"]
+[ECO "E81"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 d6 4.d4 Bg7 5.f3 O-O 6.Bg5 c5 7.d5 h6 8.Bf4 a6 9.Nge2 b5
+10.Qd2 Kh7 11.cxb5 Nfd7 12.Ng3 Qa5 13.b6 Nxb6 14.Qc2 N8d7 15.Bd2 c4 16.Nd1 Qc5
+17.Bc3 Ne5 18.f4 Ng4 19.Bxg7 Kxg7 20.Be2 Nf6 21.Qd2 Rb8 22.Rc1 a5 23.a3 h5
+24.b4 axb4 25.axb4 Qb5 26.Bf3 Na4 27.e5 Nd7 28.exd6 exd6 29.O-O Ba6 30.Nc3 Qxb4
+31.Qd4+ Kg8 32.Nxa4 Qxa4 33.Bxh5 Qb4 34.Be2 Rfc8 35.Kh1 Qb2 36.Qa7 Nc5 37.Qe7 Nd3
+38.f5 Qe5 39.Qxe5 dxe5 40.Ra1 Bb5 41.fxg6 fxg6 42.Ne4 Nf4 43.Bg4 Rf8 44.Nc3 Kg7
+45.Kg1 Rfd8 46.Ra7+ Kh6 47.h4 Be8 48.Be6 g5 49.hxg5+ Kxg5 50.Ne4+ Kh6 51.Bf5 Bg6
+52.Bxg6 Kxg6 53.d6 Rb2 54.Rf2 Rb1+ 55.Kh2 Re1 56.Nd2 c3 57.Nf3 Rh8+ 58.Kg3 Nh5+
+59.Kh4 Re4+ 60.Kh3 Nf6+  0-1
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.??.??"]
+[Round "7"]
+[White "Topalov, Veselin"]
+[Black "Illescas Cordoba, Miguel"]
+[Result "1-0"]
+[WhiteElo "2725"]
+[BlackElo "2635"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb7 6.Bg2 Bb4+ 7.Bd2 a5 8.O-O O-O
+9.Qc2 Bxd2 10.Nbxd2 d5 11.Rfd1 Na6 12.cxd5 exd5 13.Nf1 Ne4 14.Ne5 Qe7 15.Bxe4 dxe4
+16.a3 c5 17.Nc4 Rad8 18.d5 b5 19.d6 Qe6 20.Nxa5 Ba8 21.a4 bxa4 22.bxa4 Rxd6
+23.Rxd6 Qxd6 24.Rd1 Qc7 25.Qc3 Rd8 26.Rxd8+ Qxd8 27.Nb3 h6 28.Ne3 Qc8 29.h4 h5
+30.a5 g6 31.Qf6 Qc6 32.Qd8+ Kg7 33.Nd2 Nc7 34.Ndc4 Ne6 35.Qb8 Qa6 36.Nd6 Bc6
+37.Qb6 Qa8 38.a6 Nd4 39.Kf1 Ne6 40.a7  1-0
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.??.??"]
+[Round "7"]
+[White "Anand, Viswanathan"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2700"]
+[ECO "B92"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O
+9.Kh1 b6 10.Be3 Bb7 11.f3 b5 12.a4 b4 13.Nd5 Nxd5 14.exd5 Nd7 15.c3 bxc3
+16.bxc3 Bg5 17.Bg1 Qc7 18.c4 a5 19.Nd2 f5 20.Nb1 Nc5 21.Nc3 Rf6 22.Rb1 Ba6
+23.Qc2  1/2-1/2
+
+[Event "Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.??.??"]
+[Round "9"]
+[White "Karpov, Anatoly"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2700"]
+[ECO "D46"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Qc2 Bd6 7.Bd3 O-O 8.O-O dxc4
+9.Bxc4 b5 10.Be2 Bb7 11.Bd2 Rc8 12.Rfd1 b4 13.Ne4 Nxe4 14.Qxe4 Qe7 15.a3 bxa3
+16.bxa3 Nf6 17.Qh4 c5 18.dxc5 Bxc5 19.Bb4 a5 20.Bxa5 Bxa3 21.Bd3 Bc5 22.Ne5 h6
+23.h3 Ra8 24.Bc3 Ne4 25.Qxe7 Bxe7 26.Bd4 Bh4 27.g3 Bf6 28.h4 Rxa1 29.Bxa1 Ra8
+30.Bd4 Ra2 31.Ra1 Rd2 32.Bxe4 Bxe4 33.Nc4 Rc2 34.Na3 Rc6 35.Bxf6 gxf6 36.Nb5 e5
+37.Na7 Rc5 38.Kh2 h5 39.g4 hxg4 40.Kg3 f5 41.h5 Kh7 42.Ra6 Rc1 43.Kh4 Rf1
+44.Rf6 Rxf2 45.Nc8 Bd5 46.Nd6 Rh2+ 47.Kg5 g3 48.Nxf5 Be6 49.Nxg3 Rg2 50.Kh4 Rh2+
+51.Kg5 Rg2 52.Kh4 Kg7 53.Rf1 Rh2+ 54.Kg5 Rg2 55.Kh4 f6 56.Nf5+ Kh7 57.e4 Bd7
+58.h6 Re2 59.Nd6 Kg6 60.Kg3 Re3+ 61.Rf3 Re1 62.Kg2 Rd1 63.h7 Kxh7  1/2-1/2

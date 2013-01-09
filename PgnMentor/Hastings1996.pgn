@@ -1,0 +1,809 @@
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.12.??"]
+[Round "7"]
+[White "Nunn, John DM"]
+[Black "Conquest, Stuart"]
+[Result "1-0"]
+[WhiteElo "2605"]
+[BlackElo "2585"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 c6 6.Bd2 Bf5 7.Bc4 e6 8.Ne4 Qc7
+9.Nxf6+ gxf6 10.Qe2 Nd7 11.O-O-O O-O-O 12.Nh4 Bg6 13.Bb3 Bd6 14.g3 Rhe8 15.Rhe1 f5
+16.Ng2 Kb8 17.Bf4 f6 18.Bxe6 Nf8 19.Qc4 Bh5 20.Rd3 Nxe6 21.Rxe6 Rxe6 22.Qxe6 Bxf4+
+23.Nxf4 Re8 24.Qxf5 Re1+ 25.Kd2 Rd1+ 26.Kc3 Bg4 27.Qc5 Ra1 28.Re3 Bc8 29.Re7 Qd8
+30.Ne6 Bxe6 31.Rxe6 Rxa2 32.Qd6+  1-0
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Hebden, Mark"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[WhiteElo "2530"]
+[BlackElo "2685"]
+[ECO "A41"]
+
+1.d4 d6 2.e4 Nf6 3.Nc3 c6 4.Nf3 Bg4 5.h3 Bh5 6.g4 Bg6 7.Qe2 e6 8.Bg5 Be7
+9.h4 h5 10.Bxf6 gxf6 11.Bh3 hxg4 12.Bxg4 d5 13.exd5 cxd5 14.h5 Bh7 15.Rg1 Nc6
+16.O-O-O Qc7 17.Bh3 Qf4+ 18.Kb1 Bf5 19.Bxf5 Qxf5 20.Ne1 O-O-O 21.Rh1 Rdg8
+22.Rd3 Rg4 23.h6 Kb8 24.f3 Rxd4 25.Qh2+ Qf4 26.Qxf4+ Rxf4 27.Ne2 Rc4 28.b3 Rc5
+29.f4 Bf8 30.h7 Ne7 31.Rg3 Rc8 32.Nd4 a6 33.Nd3 Kc7 34.a4 Kd6 35.Rh5 Kd7
+36.Rg2 Nc6 37.Nf3 Bd6 38.Nh4 Ke7 39.f5 e5 40.Ng6+ fxg6 41.fxg6 Ke6 42.g7 Rxh7
+43.Rxh7 Rg8 44.Nf2 e4 45.Ng4 Bf4 46.Nh6 Bxh6 47.Rxh6 Ne7 48.Rh8 Kf7 49.Rxg8 Kxg8
+50.Kc1 d4 51.Rg1 b5 52.Rg4 f5 53.Rg5 bxa4 54.bxa4 f4 55.Re5 f3 56.Kd1 d3
+57.cxd3 exd3 58.Ke1 Nc6 59.Re3 d2+ 60.Kxd2 Nd4 61.Re4 Nb3+ 62.Ke3 Kxg7 63.Rf4 Nc5
+64.Rc4  1-0
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Movsesian, Sergei"]
+[Black "Motwani, Paul"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2490"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.a4 b4 10.a5 Nc5 11.Be3 Nxb3 12.cxb3 Qd7 13.Qc2 Bf5 14.Qc1 Rb8 15.Nh4 Be6
+16.f4 Be7 17.Qe1 d4 18.Bc1 d3 19.Nf3 Rb5 20.Be3 Rxa5 21.Nbd2 O-O 22.Rc1 f5
+23.Nc4 Ra2 24.Ra1 Rxa1 25.Qxa1 a5 26.Rd1 Ra8 27.Ne1 a4 28.Nxd3 Qe8 29.Qc1 axb3
+30.Nc5 Bxc5 31.Bxc5 Rd8 32.Ne3 h6 33.h3 g6 34.Kh2 Rd7 35.Rxd7 Qxd7 36.Qa1 g5
+37.Qf1 Kh7 38.Qf3 gxf4 39.Qxf4 Qg7 40.Nxf5 Qxe5  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Nunn, John DM"]
+[Black "Rozentalis, Eduardas"]
+[Result "1/2-1/2"]
+[WhiteElo "2605"]
+[BlackElo "2610"]
+[ECO "C24"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 d6 4.f4 exf4 5.Bxf4 Be6 6.Bxe6 fxe6 7.Nc3 Be7 8.Nf3 O-O
+9.Qd2 Nc6 10.O-O Qd7 11.Rae1 e5 12.Bg5 Rae8 13.Nh4 Nd4 14.Nf5 Nxf5 15.Rxf5 c6
+16.Ref1 Qe6 17.Qf2  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Xie Jun"]
+[Black "Flear, Glenn C"]
+[Result "1-0"]
+[WhiteElo "2510"]
+[BlackElo "2435"]
+[ECO "C22"]
+
+1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6 5.Nc3 Bb4 6.Bd2 O-O 7.O-O-O Re8 8.Qg3 Rxe4
+9.a3 Rg4 10.Qe3 Bf8 11.h3 Rg6 12.Bd3 Rxg2 13.Nge2 d6 14.Nf4 Rg5 15.Ne6 Bxe6
+16.Qxg5 g6 17.Qh4 Nd5 18.Bg5 f6 19.Nxd5 fxg5 20.Qe4 Ne5 21.Bc4 Bg7 22.Ne3 Bxc4
+23.Nxc4 Kh8 24.Nxe5 Bxe5 25.h4 Qf8 26.Kb1 Re8 27.hxg5 Qg7 28.f4  1-0
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Conquest, Stuart"]
+[Black "Lalic, Bogdan"]
+[Result "0-1"]
+[WhiteElo "2585"]
+[BlackElo "2565"]
+[ECO "E31"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5 h6 5.Bh4 c5 6.d5 Bxc3+ 7.bxc3 d6 8.e3 Qe7
+9.Nf3 Nbd7 10.a4 a5 11.Be2 g5 12.Bg3 Ne4 13.dxe6 Qxe6 14.Bd3 Ndf6 15.Nd2 Nxg3
+16.hxg3 Bd7 17.Qc2 Kf8 18.Kf1 Rd8 19.f3 Re8 20.Re1 h5 21.Kg1 h4 22.Nf1 Kg7
+23.g4 Qe5 24.Re2 d5 25.Rf2 d4 26.cxd4 cxd4 27.e4 Re6 28.Rh3 Rb6 29.Nh2 Qf4
+30.Re2 Re8 31.Qd1 Rb4 32.Qe1 Re5 33.Qa1 Rxa4 34.Qxd4 Rd5 35.Qc3 Qe5 36.Qxe5 Rxe5
+37.Kf2 Be6 38.Rc2 Rc5 39.Nf1 Ra3 40.Ke2 Nd7 41.Kd2 Ne5 42.Be2 Nxc4+ 43.Bxc4 Rxc4
+44.Rxc4 Bxc4 45.Ne3 Rd3+ 46.Ke2 Rd4+  0-1
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Adams, Michael"]
+[Black "Nunn, John DM"]
+[Result "0-1"]
+[WhiteElo "2685"]
+[BlackElo "2605"]
+[ECO "B22"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 exd5 5.d4 Nc6 6.Be3 c4 7.b3 cxb3 8.axb3 Bd6
+9.Bd3 Nge7 10.Qc2 h6 11.O-O O-O 12.b4 Bg4 13.Nbd2 Rc8 14.Qb1 a6 15.h3 Bh5
+16.Nh4 Na7 17.Rc1 Nb5 18.Bxb5 axb5 19.Nf5 Bg6 20.Nxe7+ Qxe7 21.Qb3 Rfd8 22.Nf1 Qf6
+23.Qd1 Rc7 24.Ra5 b6 25.Ra6 Rdc8 26.Bd2 Be4 27.Rca1 Rxc3 28.Bxc3 Rxc3 29.Rxb6 Bh2+
+30.Kxh2 Qxb6 31.Ng3 Kh7 32.Nxe4 dxe4 33.Qg4 Qd6+ 34.Kg1 Qd5 35.Re1 f5 36.Qf4 Rc4
+37.g4 fxg4 38.Qxe4+ Qxe4 39.Rxe4 gxh3 40.Kh2 Rxb4 41.Kxh3 Kg6 42.Re5 Kf6
+43.Kg3 g5 44.f4 Rxd4  0-1
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Xie Jun"]
+[Black "Movsesian, Sergei"]
+[Result "1-0"]
+[WhiteElo "2510"]
+[BlackElo "2635"]
+[ECO "B42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Qc7 6.O-O Nf6 7.c4 d6 8.Nc3 g6
+9.Qe2 Bg7 10.Nf3 O-O 11.Rd1 Nc6 12.h3 Nd7 13.Bf4 Nce5 14.Rac1 b6 15.Nxe5 dxe5
+16.Be3 Bb7 17.b4 f5 18.f3 Rf7 19.c5 bxc5 20.Na4 fxe4 21.fxe4 Bf8 22.Nxc5 Nxc5
+23.bxc5 Rd8 24.Bc4 Rxd1+ 25.Rxd1 Qc6 26.Kh2 h5 27.Qb2 Re7 28.Rd8 Qc7 29.Qb6 Kg7
+30.Bg5 Bxe4 31.Bxe7 Qxe7 32.Qd6 Qxd6 33.cxd6 Kf7 34.d7 Bh6 35.Rf8+  1-0
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Motwani, Paul"]
+[Black "Conquest, Stuart"]
+[Result "0-1"]
+[WhiteElo "2490"]
+[BlackElo "2585"]
+[ECO "C00"]
+
+1.e4 e6 2.Nf3 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Ne2 b6 6.d4 Ba6 7.Nf4 Bxf1 8.Kxf1 Be7
+9.h4 Nc6 10.Qe2 Nf8 11.Bd2 Ng6 12.h5 Nxf4 13.Bxf4 g5 14.hxg6 fxg6 15.Bh6 Qd7
+16.g3 O-O-O 17.Kg2 Kb7 18.c3 a5 19.Rh3 Rc8 20.Rah1 Rhg8 21.g4 Bd8 22.Kf1 a4
+23.Bg5 h5 24.gxh5 gxh5 25.Rxh5 Na5 26.Bf6 Nc4 27.b3 axb3 28.axb3 Na5 29.Nd2 Ra8
+30.Qd3 Nc6 31.Qh7 Qe8 32.Ke2 Ra2 33.Qb1 Ra8 34.Rh7 Ne7 35.Bxe7 Bxe7 36.Qd3 Bg5
+37.Rd1 Ra2 38.Kf1 Bxd2 39.Rxd2 Rxd2 40.Qxd2 Qb5+ 41.c4 Qxb3 42.Ke2 Ra8 43.Qd3 Ra2+
+44.Ke3 Qb2  0-1
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Lalic, Bogdan"]
+[Black "Hebden, Mark"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2530"]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Bd6 6.d4 exd4 7.Qxd4 f6 8.b3 Qe7
+9.Nbd2 Nh6 10.Nc4 Bc5 11.Qd3 Nf7 12.Be3 O-O 13.Bxc5 Qxc5 14.Rfe1 Be6 15.Qe3 Qxe3
+16.Nxe3 Rad8 17.Rad1 Rfe8 18.Nd4 Bc8 19.f3 g6 20.Kf2 Nd6 21.a4 a5 22.c4 Re5
+23.Ne2 b6 24.Nf4 Ree8 25.c5  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Flear, Glenn C"]
+[Black "Rozentalis, Eduardas"]
+[Result "0-1"]
+[WhiteElo "2435"]
+[BlackElo "2610"]
+[ECO "E05"]
+
+1.d4 e6 2.c4 Nf6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O dxc4 7.Nc3 Bd7 8.Ne5 Bc6
+9.e4 b5 10.Nxc6 Nxc6 11.e5 Nd5 12.Nxb5 Qd7 13.Nc3 Rab8 14.Ne2 Ncb4 15.Bd2 c5
+16.dxc5 Nd3 17.b3 Bxc5 18.bxc4 Nb6 19.Bc3 Rfd8 20.Qc2 Qa4 21.Qxa4 Nxa4 22.Rad1 Nxc3
+23.Nxc3 Nxe5 24.Rxd8+ Rxd8 25.Ne4 Be7 26.Rb1 f5 27.Rb7 Kf8 28.Nc3 Bc5 29.Rb5 Nd3
+30.Nd1 a6 31.Rb1 Ne5 32.Ne3 Rd2 33.Rb8+ Ke7 34.Rc8 Bxe3 35.fxe3 Rxa2 36.Bb7 a5
+37.c5 Rc2 38.c6 Ng4 39.Rg8 Kf7 40.Ra8 Rc1+ 41.Kg2 Nxe3+ 42.Kf3 Nc4 43.h4 Ne5+
+44.Ke3 a4  0-1
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Hebden, Mark"]
+[Black "Motwani, Paul"]
+[Result "1-0"]
+[WhiteElo "2530"]
+[BlackElo "2490"]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.c3 Nc6 5.Nbd2 cxd4 6.cxd4 h6 7.Bxf6 Qxf6 8.e3 d5
+9.Bb5 Bd6 10.O-O O-O 11.Rc1 Bd7 12.e4 dxe4 13.Nxe4 Qe7 14.Re1 Nb4 15.Bc4 Bc6
+16.a3 Bf4 17.axb4 Bxc1 18.Qxc1 Rac8 19.b5 Bxe4 20.Rxe4 Qb4 21.Ne5 Qxb5 22.Rg4 Kh8
+23.Qc3 Qa4 24.h3 b5 25.d5 bxc4 26.dxe6 Qd1+ 27.Kh2 Qd6 28.exf7 Rxf7 29.Rg6 Qc7
+30.Rg4 Qb8 31.Rg3 Rb7 32.f4 Qc7 33.Qd4 Kg8 34.Qd5+ Kh7 35.Qe4+ Kg8 36.Ng4 Kh8  1-0
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Movsesian, Sergei"]
+[Black "Flear, Glenn C"]
+[Result "1-0"]
+[WhiteElo "2635"]
+[BlackElo "2435"]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a6 6.Bb3 Ba7 7.Nbd2 O-O 8.h3 h6
+9.Qe2 Re8 10.g4 Nh7 11.Rg1 d6 12.Nf1 Be6 13.Ng3 Bxb3 14.axb3 d5 15.Nf5 dxe4
+16.dxe4 Ne7 17.Bd2 Qd7 18.Kd1 Ng6 19.Kc2 Nf4 20.Bxf4 exf4 21.Rge1 Rad8 22.Rad1 Qe6
+23.Rxd8 Rxd8 24.e5 Nf8 25.N3d4 Bxd4 26.Nxd4 Qd5 27.Qe4 Ne6 28.Qxd5 Rxd5 29.Nf3 Kf8
+30.h4 Ke7 31.b4 f6 32.Re4 fxe5 33.c4 Rd8 34.Rxe5 Kf7 35.Kc3 Rd1 36.Rf5+ Ke7
+37.Ne5 Rc1+ 38.Kd2 Rb1 39.Ng6+ Ke8 40.Nxf4 Nxf4 41.Rxf4 Rxb2+ 42.Kc3 Rb1
+43.c5 Ke7 44.Kc4 Rd1 45.h5 Rd2 46.f3 Rd1 47.Rf5 Rd2 48.Re5+ Kf7 49.Re4 Rd1
+50.Kc3 Rd5 51.Re1 Rd8 52.Ra1 Ke6 53.f4 Rf8 54.Re1+ Kd7 55.Re4 Ra8 56.Re5 Rf8
+57.Re4 Ra8 58.Kb3 b6 59.Re5 bxc5 60.Rd5+ Kc6 61.Rxc5+ Kb6 62.Re5 Rf8 63.f5 Rf7
+64.Kc4 c6 65.Re8 Rd7 66.Rb8+ Kc7 67.Rh8 Re7 68.Kd4 Rd7+ 69.Ke5 Re7+ 70.Kf4 Kd6
+71.Rd8+ Kc7 72.Rf8 Kb6 73.f6 gxf6 74.Rxf6 Rh7 75.Kf5 Rh8 76.Rg6 Kb5 77.Kf6 Kxb4
+78.Kg7 Rc8 79.Rxh6 a5 80.Rf6 a4 81.h6 a3 82.h7 a2 83.Rf1 c5 84.h8=Q Rxh8
+85.Kxh8  1-0
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Rozentalis, Eduardas"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[WhiteElo "2610"]
+[BlackElo "2685"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Nf3 Bg4 7.cxd5 Nxd5 8.Qb3 Nb6
+9.d5 Bxf3 10.gxf3 Nd4 11.Bb5+ Nxb5 12.Nxb5 a6 13.Nc3 Nd7 14.Qxb7 g6 15.O-O Bg7
+16.Re1 O-O 17.Bg5 Bf6 18.Bxf6 exf6 19.d6 Rb8 20.Qc7 Ne5 21.Re3 Rc8 22.Qxd8 Rfxd8
+23.Rd1 Rc6 24.Ne4 Kg7 25.b4 Nd7 26.Rc3 Rb6 27.a3 f5 28.Nc5 Nf8 29.d7 Kf6
+30.Na4 Re6 31.Rc7 Ke7 32.Nc5 Rb6 33.Ra7 Ne6 34.Re1 Kf6 35.Nxa6 Rd6 36.Rxe6+ fxe6
+37.Nc5 Rb6 38.Kf1 g5 39.Ke2 h5 40.Kd3 Rd6+ 41.Kc3 Ke5 42.Rc7 Kf4 43.Rc8 R8xd7
+44.Nxd7 Rxd7 45.b5 Kxf3 46.b6 Kxf2 47.a4 e5 48.a5 e4 49.a6 e3 50.b7  1-0
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Nunn, John DM"]
+[Black "Lalic, Bogdan"]
+[Result "1/2-1/2"]
+[WhiteElo "2605"]
+[BlackElo "2565"]
+[ECO "B04"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 dxe5 5.Nxe5 g6 6.Nd2 Bg7 7.Bc4 O-O 8.Ndf3 c6
+9.O-O Nd7 10.Nd3 a5 11.a4 N7b6 12.Bb3 Bf5 13.Bg5 Bxd3 14.Qxd3 Qc7 15.Rfe1 e6
+16.Qe4 c5 17.Bxd5 Nxd5 18.c4 Nb4 19.d5 exd5 20.cxd5 f6 21.Bf4 Qf7 22.Rad1 Rfe8
+23.Qc4 Rxe1+ 24.Nxe1 Bf8 25.Nc2 Nc6 26.Qf1 Nb4 27.Nxb4 axb4 28.Qb5 g5 29.Bg3 f5
+30.Be5 Qe8 31.Qxb7 Qxa4 32.Rc1 Qa6 33.Qd7 Qc8 34.Qb5 Qa6 35.Qd7 Qc8 36.Qb5 Ra6  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Flear, Glenn C"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2435"]
+[BlackElo "2685"]
+[ECO "E00"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Qe7 5.Bg2 Nc6 6.e3 e5 7.d5 Bxd2+ 8.Qxd2 Nb8
+9.Nc3 d6 10.h3 a5 11.Nge2 Na6 12.g4 Nd7 13.Ng3 Nb6 14.b3 g6 15.O-O-O Nc5
+16.f4 a4 17.Kb2 Bd7 18.Nge4 Nxe4 19.Nxe4 f5 20.gxf5 Bxf5 21.Nc3 O-O 22.Rhf1 exf4
+23.Rxf4 g5 24.Rf2 Bg6 25.Rdf1 Rxf2 26.Rxf2 Nd7 27.Qd4 Nc5 28.e4 Qg7 29.Qxg7+ Kxg7
+30.Kc2 axb3+ 31.axb3 Ra3 32.b4 Bxe4+ 33.Kd2 Bxg2 34.bxc5 Bxh3 35.cxd6 cxd6
+36.Nb5 Ra6 37.Ke3 h5 38.Kd4 g4 39.Nc7 Ra1 40.Ne6+ Kg6 41.Rf8 Rd1+ 42.Ke3 Bf1
+43.Nf4+ Kg7 44.Rf5 Bxc4 45.Rxh5 Re1+ 46.Kd4 b5 47.Ne6+ Kf7 48.Rh7+ Ke8 49.Rg7 Rg1
+50.Nc7+ Kd8 51.Kc3 Kc8 52.Kb4 g3 53.Ka5 b4 54.Kb6 Bxd5 55.Nxd5 b3 56.Nf6 Kd8
+57.Rd7+ Kc8 58.Rg7 Kd8 59.Rd7+ Kc8 60.Rg7  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Lalic, Bogdan"]
+[Black "Rozentalis, Eduardas"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2610"]
+[ECO "A17"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3 6.Qxc3 b6 7.b4 Bb7 8.Bb2 d6
+9.g3 Nbd7 10.Bg2 Qe7 11.O-O c5 12.d3 Rac8 13.Rfe1 Rfd8 14.e4 Ne5 15.Nxe5  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Motwani, Paul"]
+[Black "Nunn, John DM"]
+[Result "0-1"]
+[WhiteElo "2490"]
+[BlackElo "2605"]
+[ECO "E73"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Be3 c5 7.d5 e6 8.Nf3 exd5
+9.exd5 Bg4 10.O-O Nbd7 11.h3 Bxf3 12.Bxf3 Re8 13.Re1 a6 14.a4 Qb6 15.Qc2 Ne5
+16.Be2 Re7 17.b4 Ned7 18.a5 Qd8 19.bxc5 Nxc5 20.Bf1 Rc8 21.Ra3 Qc7 22.Bd2 Rxe1
+23.Bxe1 Re8 24.Bd2 Nfd7 25.Nd1 Bd4 26.Be3 Bxe3 27.Nxe3 Qd8 28.Qb2 Qg5 29.g3 Ne5
+30.Kg2 Qe7 31.f4 Ned3 32.Bxd3 Nxd3 33.Rxd3 Qe4+ 34.Kf2 Qxd3 35.Ng4 Kf8 36.Nf6 Qe3+  0-1
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Movsesian, Sergei"]
+[Black "Conquest, Stuart"]
+[Result "1-0"]
+[WhiteElo "2635"]
+[BlackElo "2585"]
+[ECO "B11"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nf6 7.Bd2 Na6 8.O-O-O Bb4
+9.e5 d4 10.Ne2 Nd7 11.Nxd4 Bxd2+ 12.Rxd2 Qa5 13.a3 Qxe5 14.Nb3 Nc7 15.d4 Qf6
+16.Qg3 O-O-O 17.Bd3 e5 18.Rhd1 Ne6 19.Be2 h5 20.Kb1 Nf4 21.Bc4 exd4 22.Rxd4 Ne5
+23.Bf1 Ne6 24.Rxd8+ Rxd8 25.Rxd8+ Kxd8 26.Qe3 b6 27.g3 g5 28.Nd2 Kc7 29.Ne4 Qf5
+30.b3 Nf3 31.Bd3 g4 32.h4 Qe5 33.Qh6 Ned4 34.Qf8 Qe6 35.Qa8 Nb5 36.Bxb5 Qxe4
+37.Qxa7+ Kd6 38.Qb8+ Kc5 39.Bd3 Qe1+ 40.Ka2 Qxf2 41.Qf8+ Kd5 42.Qd8+ Ke6
+43.Bc4+ Kf5 44.Qd7+ Ke4 45.Qxc6+ Ke3 46.Qh6+  1-0
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Xie Jun"]
+[Black "Hebden, Mark"]
+[Result "1/2-1/2"]
+[WhiteElo "2510"]
+[BlackElo "2530"]
+[ECO "C89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d3 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Re4 Qd7
+16.Re1 Qh3 17.Re4 Qd7 18.Re1 Qh3  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Conquest, Stuart"]
+[Black "Flear, Glenn C"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2435"]
+[ECO "A06"]
+
+1.Nf3 d5 2.b3 Bg4 3.Bb2 Nd7 4.e3 e6 5.d3 Ngf6 6.Nbd2 h6 7.h3 Bh5 8.Qe2 Be7
+9.g4 Bg6 10.Rg1 c6 11.h4 Qc7 12.g5 hxg5 13.hxg5 Nh5 14.Bg2 O-O-O 15.O-O-O Kb8
+16.Rh1 e5 17.Kb1 Bf5 18.Nxe5 Nxe5 19.Rxh5 Bg4 20.Bxe5 Bxe2 21.Bxc7+ Kxc7
+22.Rxh8 Rxh8 23.Rg1 Rh2 24.d4 g6 25.Kc1 Bxg5 26.Bf3 Rxf2 27.Bxe2 Bxe3 28.Kd1 Rxe2
+29.Kxe2 Bxg1 30.Nf3 Bxd4 31.Nxd4 c5 32.Nb5+ Kc6 33.Nxa7+ Kb6 34.Nc8+ Kc7
+35.Ne7 Kd6 36.Nc8+ Kc7 37.Na7 Kb6 38.Nc8+ Kc7  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Adams, Michael"]
+[Black "Lalic, Bogdan"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2565"]
+[ECO "B70"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Nb3 Nf6 7.Be2 d6 8.O-O O-O
+9.Re1 b6 10.Nd5 Bb7 11.Bf1 e6 12.Nxf6+ Bxf6 13.c3 Qe7 14.a4 Rfd8 15.f4 Qc7
+16.Be3 Na5 17.Nxa5 bxa5 18.Bf2 e5 19.Qc1 exf4 20.Qxf4 Be5 21.Qh6 Bc8 22.Rad1 Be6
+23.Rd2 Bb3 24.Rd3 Bg7 25.Qh4 Be6 26.Rd2 Be5  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Hebden, Mark"]
+[Black "Movsesian, Sergei"]
+[Result "1/2-1/2"]
+[WhiteElo "2530"]
+[BlackElo "2635"]
+[ECO "B47"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 a6 4.g3 e6 5.Bg2 Qc7 6.O-O Nf6 7.Re1 Be7 8.d4 cxd4
+9.Nxd4 O-O 10.Nxc6 dxc6 11.e5 Rd8 12.Qe2 Nd5 13.Bd2 b5 14.Rad1 Bb7 15.Nxd5 cxd5
+16.c3 Rac8 17.b4 d4  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Rozentalis, Eduardas"]
+[Black "Motwani, Paul"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2490"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.dxe5 Nxb5 7.a4 d6 8.axb5 Nxe5
+9.Re1 Be7 10.Nxe5 dxe5 11.Qxd8+ Kxd8 12.Rxe5 Be6 13.Nc3 Kc8 14.Ne4 h6 15.Be3 b6
+16.c4 Rd8 17.c5 bxc5 18.Bxc5 Bd6 19.Rh5 Bf4  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Nunn, John DM"]
+[Black "Xie Jun"]
+[Result "1-0"]
+[WhiteElo "2605"]
+[BlackElo "2510"]
+[ECO "C90"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.d3 d6
+9.c3 Na5 10.Bc2 c5 11.Nbd2 h6 12.d4 Qc7 13.d5 c4 14.Nf1 Nb7 15.Ng3 Nc5 16.h3 a5
+17.Nh2 b4 18.f4 b3 19.axb3 cxb3 20.Bb1 a4 21.Ra3 Bd7 22.Bd3 Qb6 23.Kh1 exf4
+24.Bxf4 Nxd3 25.Qxd3 Qf2 26.Qd2 Qxd2 27.Bxd2 Rfe8 28.Nf3 Bd8 29.Bf4 Bc7 30.Raa1 Re7
+31.c4 Rae8 32.c5 Nxe4 33.c6 Nxg3+ 34.Bxg3 Rxe1+ 35.Bxe1 Bf5 36.Rxa4 Be4 37.Ba5 Bxf3
+38.gxf3 Ra8 39.Bxc7 Rxa4 40.Bxd6 Rc4 41.c7 f6 42.Bc5 Rxc5 43.d6 Kf7 44.d7 Rxc7
+45.d8=Q Rc1+ 46.Kg2 Rc2+ 47.Kg3 Rxb2 48.Qd3 Kg8 49.Kf4 Kf8 50.Kf5 Rc2 51.Qxb3 Rc5+
+52.Kg6 Rg5+ 53.Kh7 Ke7 54.f4  1-0
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Xie Jun"]
+[Black "Rozentalis, Eduardas"]
+[Result "1/2-1/2"]
+[WhiteElo "2510"]
+[BlackElo "2610"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Bd6 6.O-O Bxe5 7.dxe5 Nc5 8.Be3 Nxd3
+9.Qxd3 O-O 10.Rd1 c6 11.c4 Nd7 12.f4 dxc4 13.Qd2 Qc7 14.Na3 Nb6 15.Bc5 Re8
+16.Bd6 Qd7 17.Qf2 Qf5 18.Rac1 Be6 19.Rc3 Rad8 20.Rf1 f6 21.Rg3 Nc8 22.Bb8 Rd3
+23.exf6 Rxg3 24.Qxg3 Qxf6 25.Nc2 Qg6 26.Qf2 Bf5 27.Ne3 Bd3 28.Rc1 Re4 29.h3 a6
+30.Be5 Ne7 31.Qh4 Rxe3 32.Qxe7 h6 33.f5 Bxf5 34.Rf1 Bxh3 35.Rf8+ Kh7 36.Kf2 Rxe5
+37.Qxe5 Qxg2+ 38.Ke3 Bg4 39.Rf2 Qh3+ 40.Kd4 Qd3+ 41.Kc5 Bf3 42.Kb6 c5 43.Qf4 Be4
+44.Rd2 Qf3 45.Qe5 Qf6+ 46.Qxf6 gxf6 47.Kxc5 Bd3 48.a4 Kg6 49.b3 Kg5 50.bxc4 Be4
+51.Rd7 h5 52.Kd4 Kf4 53.Rf7 f5 54.Rh7 Bf3 55.a5 Kg3 56.Rg7+ Kf4 57.Rh7 Kg3
+58.Rg7+ Bg4 59.Rxb7 f4 60.c5 f3 61.Ke3 h4 62.c6 h3 63.Rg7 h2  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Motwani, Paul"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[WhiteElo "2490"]
+[BlackElo "2685"]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxd4 exd4 6.e5 dxc3 7.exf6 Qxf6 8.dxc3 Bc5
+9.O-O O-O 10.Qh5  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Conquest, Stuart"]
+[Black "Hebden, Mark"]
+[Result "1/2-1/2"]
+[WhiteElo "2585"]
+[BlackElo "2530"]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Bc4 c6 6.d3 Qa5 7.Bd2 Bb4 8.Bb3 Nxb3
+9.axb3 Qc7 10.O-O Be7 11.h3 O-O 12.Ne2 d5 13.Ng3 dxe4 14.dxe4 Re8 15.Qe2 Bf8
+16.Bc3 b6 17.Rfd1 Bb7 18.b4 a6 19.Ne1 c5 20.bxc5 Bxc5 21.Nd3 Bf8 22.f3 a5
+23.Qd2 Re6 24.Kh1 Rae8 25.Re1 Qc8 26.Nf5 Nd7 27.Nf2 Nc5 28.Red1 Rg6 29.Qe1 Na6
+30.Ng4 Nb4 31.Rd2 Qc7 32.Qh4 Rge6 33.Rad1 Bc6 34.Qg3 h5 35.Nge3 Na2 36.Qg5 Nxc3
+37.bxc3 g6 38.Nd5 Bxd5 39.exd5 Rd6 40.Nxd6 Bxd6 41.Qf6 a4 42.g4 h4 43.Rg2 a3
+44.g5 Rd8 45.Re1 a2 46.Ra1 Ra8 47.Rg4 Bf8 48.Rxh4 Bg7 49.Qc6 Qd8 50.d6 Rc8
+51.Qd5 Qxg5 52.Rg4 Qh6 53.d7 Rd8 54.Rxa2 Qxh3+ 55.Kg1 Bf8 56.Rxg6+ Kh8 57.Rxb6 Rxd7
+58.Qxe5+ f6 59.Qxf6+ Rg7+ 60.Kf2 Bc5+ 61.Ke2 Bxb6 62.Ra4 Qg2+ 63.Kd3 Qf1+  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Movsesian, Sergei"]
+[Black "Nunn, John DM"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2605"]
+[ECO "C91"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.d4 d6
+9.c3 Bg4 10.d5 Na5 11.Bc2 c6 12.h3 Bc8 13.dxc6 Qc7 14.Nbd2 Qxc6 15.Nf1 Nc4
+16.Ng3 Re8 17.Qe2 Be6 18.Bd3 h6 19.Nh2 Rad8 20.a4 d5 21.axb5 axb5 22.Ng4 Nxe4
+23.Nxe4 dxe4 24.Bxe4 Bd5 25.Bxd5 Qxd5 26.b3 Nd6 27.Qxe5 Qxe5 28.Nxe5 Bf6
+29.Bf4 g5 30.Bh2 Nf5 31.Kf1 Rd5 32.c4 bxc4 33.Nxc4 Red8 34.Rab1 Bc3 35.Rec1 Bb4
+36.Bc7 Re8 37.Rd1 Rxd1+ 38.Rxd1 Ra8 39.g4 Ne7 40.Bg3 Kg7 41.Kg2 Ra7 42.Rd3 h5
+43.gxh5 Kh6 44.Rd8 Kxh5 45.Ne5 Ng6 46.Nc6 Rb7 47.Rb8 Rxb8 48.Bxb8 Bc5 49.b4 Bb6
+50.Bd6 g4 51.Bg3 Nh4+ 52.Bxh4 Kxh4 53.hxg4 Kxg4 54.Ne5+ Kf5 55.Nc4 Bd4 56.Kf3 Ke6
+57.Ne3 Bc3 58.b5 Kd6 59.Ke4 Kc5 60.b6 Ba5 61.Nd5 Bxb6 62.Nxb6 Kxb6 63.Ke5 Kc6
+64.f4 Kd7 65.Kf6 Ke8 66.Kg7 f5 67.Kf6  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Flear, Glenn C"]
+[Black "Lalic, Bogdan"]
+[Result "1/2-1/2"]
+[WhiteElo "2435"]
+[BlackElo "2565"]
+[ECO "E04"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Nf3 Nc6 6.Qa4 Nd5 7.Qxc4 Nb6 8.Qd3 e5
+9.Be3 Bb4+ 10.Nc3 exd4 11.Nxd4 Nxd4 12.Qxd4 Qxd4 13.Bxd4 O-O 14.a3 Be7 15.Nb5 c5
+16.Bc3 Bd7 17.Nc7 Rac8 18.Nd5 Nxd5 19.Bxd5 Bc6 20.O-O-O Rfd8 21.Bxc6 Rxc6
+22.Rxd8+ Bxd8 23.Rd1 Bc7 24.Kc2 Kf8 25.a4 g6 26.g4 Ke7 27.h3 Rd6  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Rozentalis, Eduardas"]
+[Black "Movsesian, Sergei"]
+[Result "0-1"]
+[WhiteElo "2610"]
+[BlackElo "2635"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 Qa5 3.Nf3 Nc6 4.g3 Nf6 5.Qe2 d5 6.exd5 Nxd5 7.Bg2 Bg4 8.h3 Bh5
+9.O-O e6 10.d3 Qc7 11.Nbd2 Be7 12.Nc4 O-O 13.a4 Rad8 14.Bd2 Bf6 15.Rad1 Rfe8
+16.Rfe1 a6 17.Ne3 Nb6 18.Ng4 Be7 19.Ng5 Bg6 20.Be4 Bxg5 21.Bxg5 f6 22.Bxf6 gxf6
+23.Nxf6+ Kg7 24.Nxe8+ Rxe8 25.h4 Nd7 26.h5 Bf7 27.Kg2 Nf6 28.Rh1 h6 29.Rh4 e5
+30.Re1 Nd8 31.Qf3 Ne6 32.Qf5 Ng5 33.f4 Ngxe4 34.dxe4 Qd6 35.Rf1 Re7 36.Rf2 Be8
+37.a5 Qe6 38.fxe5 Qxe5 39.Rhf4 Qxf5 40.Rxf5 Nxe4 41.Re2 Bc6 42.Kh2 Rf7 43.Rxf7+ Kxf7
+44.Kh3 c4 45.Kg4 Nf6+ 46.Kh4 Nxh5 47.Re5 Nf6 48.Rc5 Bd5 49.Rc7+ Kg6 50.g4 Bc6
+51.Rc8 Nd5 52.Rd8 Kg7 53.Rd6 Nf4 54.Rd4 Nd3 55.Rxc4 Nxb2 56.Rd4 Na4 57.Rd3 Nc5
+58.Re3 Ne4 59.Rd3 Nf6 60.c4 Nd7 61.Re3 Kf6 62.Kh5 Ne5 63.Rc3 Kg7 64.Re3 Kf6
+65.Rc3 Bf3 66.Kh4 Ke6 67.c5 Bc6  0-1
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Adams, Michael"]
+[Black "Xie Jun"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2510"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bg5 Ne4 3.Bf4 d5 4.e3 c5 5.Bd3 Qb6 6.Bxe4 dxe4 7.Nc3 Qxb2 8.Nge2 Bg4
+9.Nxe4 Bxe2 10.Kxe2 cxd4 11.Qd3 f5 12.Ng5 Nc6 13.Ne6 Rc8 14.Rhb1 Qc3 15.Qxc3 dxc3
+16.Rxb7 Kf7 17.Nd4 Kf6 18.Bc7 Nxd4+ 19.exd4 a6 20.Ra7 e6 21.Rb1 Be7 22.Be5+  1-0
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Hebden, Mark"]
+[Black "Flear, Glenn C"]
+[Result "1-0"]
+[WhiteElo "2530"]
+[BlackElo "2435"]
+[ECO "D29"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2 b5 8.Bb3 Bb7
+9.a4 b4 10.Nbd2 Nbd7 11.a5 Be7 12.Bc4 O-O 13.b3 Nb8 14.dxc5 Nc6 15.Bb2 Nxa5
+16.Rfc1 Bxc5 17.Bxf6 gxf6 18.Bxe6 Bxe3 19.Qxe3 fxe6 20.Nd4 Bd5 21.Nxe6 Bxe6
+22.Qxe6+ Kh8 23.Qe3 Nb7 24.Nc4 a5 25.g3 Ra6 26.Re1 Qc7 27.Rac1 Qf7 28.Nb6 Nd6
+29.Qc5 Nb7 30.Qb5 Ra7 31.Red1 Nd8 32.Nd7 Rg8 33.Qf5 Ra6 34.Nb8 Re6 35.Qxa5 Qe7
+36.Qc7 Nf7 37.Qxe7 Rxe7 38.Nc6 Re4 39.h4 Rc8 40.Kg2 Rc7 41.Ne5 Rxc1 42.Nxf7+ Kg7
+43.Rxc1 Kxf7 44.Rc5 Rd4 45.Rb5 Kg6 46.h5+ Kh6 47.Kh3 Re4 48.g4 Rd4 49.Kh4 Rd2
+50.Rxb4 Rxf2 51.Rb6 Kg7 52.Rb7+ Kg8 53.Kg3 Rf1 54.b4 f5 55.gxf5 Rxf5 56.Kg4 Rf1
+57.b5 Rc1 58.Kg5 Rd1 59.Rb8+ Kg7 60.h6+ Kf7 61.b6 Rg1+ 62.Kf4 Rf1+ 63.Kg3  1-0
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Lalic, Bogdan"]
+[Black "Motwani, Paul"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2490"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 O-O 6.a3 Bxc5 7.Nf3 Nc6 8.Bf4 b6
+9.Rd1 Bb7 10.e3 Rc8 11.Be2 Be7 12.O-O Na5 13.Ne5 d6 14.b4 Qc7 15.Nb5 Qb8
+16.Nxf7 Rxf7 17.bxa5 e5 18.Bg3 a6 19.Nc3 b5 20.Qb3 Qc7 21.Rc1 bxc4 22.Bxc4 Qxc4
+23.Qxb7 Bd8 24.Qb2 Qe6  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Hebden, Mark"]
+[Black "Nunn, John DM"]
+[Result "1-0"]
+[WhiteElo "2530"]
+[BlackElo "2605"]
+[ECO "D00"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.Be2 c5 7.Ne5 Nc6 8.O-O cxd4
+9.exd4 Qb6 10.Nxc6 bxc6 11.Na4 Qa5 12.c3 Nd7 13.b4 Qd8 14.Qd2 e5 15.Bh6 Bxh6
+16.Qxh6 Re8 17.Rfe1 Rb8 18.dxe5 Rxe5 19.Qd2 a5 20.Bf1 axb4 21.cxb4 Qf6 22.Rxe5 Nxe5
+23.Re1 Kg7 24.Nc5 Bf5 25.a3 d4 26.f4 Nd7 27.Nxd7 Bxd7 28.Re5 c5 29.Rxc5 Bf5
+30.Rd5 d3 31.Bxd3 Qa1+ 32.Bf1 Qxa3 33.Qd4+ f6 34.Rd6 Qxb4 35.Qxf6+ Kh6 36.h3 Qxf4
+37.Rd4 Qe3+ 38.Kh2  1-0
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Conquest, Stuart"]
+[Black "Rozentalis, Eduardas"]
+[Result "0-1"]
+[WhiteElo "2585"]
+[BlackElo "2610"]
+[ECO "A13"]
+
+1.c4 e6 2.Nc3 Bb4 3.Qb3 Ba5 4.Nf3 Nf6 5.d4 d5 6.Bg5 dxc4 7.Qa4+ Nc6 8.e4 Bd7
+9.Qxc4 h6 10.Bxf6 Qxf6 11.a3 O-O-O 12.Be2 g5 13.e5 Qg7 14.O-O Bb6 15.Rad1 g4
+16.Ne1 h5 17.Nc2 h4 18.Ne4 g3 19.h3 Na5 20.Qc3 Ba4 21.Nc5 Bxc2 22.Qxc2 gxf2+
+23.Kh1 Nc6 24.Bf3 Nxd4 25.Qe4 c6 26.Rxd4 Bxc5 27.Rc4 Rd5 28.Qc2 Qxe5 29.Re4 Qd6
+30.Rc4 Bb6  0-1
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Xie Jun"]
+[Black "Lalic, Bogdan"]
+[Result "1/2-1/2"]
+[WhiteElo "2510"]
+[BlackElo "2565"]
+[ECO "B76"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 Nc6 8.Qd2 O-O
+9.O-O-O d5 10.exd5 Nxd5 11.Nxc6 bxc6 12.Bd4 Bxd4 13.Qxd4 Qb6 14.Nxd5 cxd5
+15.Qxd5 Be6 16.Qb5 Qc7 17.Qa4 Rab8 18.Ba6 Rb6 19.Kb1 Rfb8 20.b3 Qc3 21.Rd3 Qc6
+22.Qf4 Rb4 23.Rd4 Bxb3 24.axb3 Rxb3+ 25.Kc1 Qc3 26.Kd1 Qa1+ 27.Kd2 Qa5+ 28.Ke2 Qxa6+
+29.Kf2 Rb2 30.Kg3 Rf8 31.Qh6 Qf6 32.Rh4 Qe5+ 33.Kh3 Qf5+ 34.Kg3 g5 35.Rg4 f6
+36.h4 Qxc2 37.Kh3 Qg6  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Flear, Glenn C"]
+[Black "Motwani, Paul"]
+[Result "1/2-1/2"]
+[WhiteElo "2435"]
+[BlackElo "2490"]
+[ECO "A32"]
+
+1.d4 Nf6 2.c4 e6 3.g3 c5 4.Nf3 cxd4 5.Nxd4 Qc7 6.b3 Bb4+ 7.Bd2 Bc5 8.e3 O-O
+9.Bg2 d5 10.cxd5 Bxd4 11.exd4 Nxd5 12.O-O b6 13.Bxd5 exd5 14.Bf4 Qd7 15.Bxb8 Rxb8
+16.Nc3 Ba6 17.Re1 Rbe8 18.Qh5 Re6 19.Rxe6 fxe6 20.Re1 Rf5 21.Qd1 Qf7 22.Qd2 Rf3
+23.Re3 Qf5 24.Kg2 Rxe3 25.Qxe3 h6 26.h3 Kh7 27.Qd2 e5 28.h4 Bd3 29.Qe3 exd4
+30.Qxd4 Be4+ 31.Kf1 Bf3 32.Ke1 Qc2 33.Qd2 Qf5 34.Qe3 Qf6 35.Qd3+ Kh8 36.Kf1 d4
+37.Nb5 Qc6 38.Qc4 Qe4 39.Kg1 Qb1+ 40.Qf1 Qxa2 41.Nxd4 Bd5 42.Qd1 Qb2 43.g4 Qc3
+44.Kh2 Qc7+ 45.Kh3 Qf4 46.f3 h5 47.gxh5 Bb7  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Movsesian, Sergei"]
+[Black "Adams, Michael"]
+[Result "0-1"]
+[WhiteElo "2635"]
+[BlackElo "2685"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bc5 7.d3 d6 8.h3 Na5
+9.Nc3 h6 10.Ne2 O-O 11.Ng3 Re8 12.Bd2 Bb6 13.Qe2 c6 14.c4 Nb7 15.Bc2 Nc5
+16.Be3 Ne6 17.b4 a5 18.a3 Bxe3 19.fxe3 bxc4 20.dxc4 Ng5 21.Nxg5 hxg5 22.Ba4 Bd7
+23.Qd2 axb4 24.axb4 Qc7 25.Bc2 Be6 26.Bd3 Rxa1 27.Rxa1 Rb8 28.Bf1 g6 29.Rd1 Ne8
+30.Qc3 Qb6 31.Rb1 g4 32.hxg4 Bxg4 33.b5 Be6 34.Qa3 Kg7 35.Be2 Qd8 36.Qc3 Qh4
+37.Qe1 Qg5 38.Nf1 cxb5 39.cxb5 Nf6 40.Bf3 Bc4 41.Nd2 Be6 42.Nf1 Nd7 43.Qb4 Nc5
+44.b6 Bg4 45.Bxg4 Qxg4 46.Nd2 Qe2 47.Nf1 Qd3 48.Rb2 Qxe4 49.Qb5 Qa4 50.Qe2 Qc6
+51.Qg4 Rxb6 52.Rf2 Ne4 53.Rf3 d5 54.Rh3 Kg8 55.Qh4 Qf6 56.Qh7+ Kf8 57.Rf3 Qg7
+58.Qh3 f5 59.Qh4 Qf6 60.Qh6+ Kg8 61.Rh3 Rb7 62.Rh2 Rd7 63.Rh3 Qg7 64.Qh4 Qh7
+65.Qe1 Qe7 66.Qa5 Kg7 67.Qa8 Rd8 68.Qc6 Qd7 69.Qb6 Rc8 70.Qa5 Nf6 71.Qe1 Rh8
+72.Rxh8 Kxh8 73.Qg3 Qe8 74.Nd2 Kg7 75.Nf3 Ng4 76.Qh4 Qc8 77.Qe7+ Kg8 78.Nh2 Nxe3
+79.Qxe5 Qc5 80.Qe8+ Kg7 81.Nf3 Ng4+ 82.Kh1 Qc1+ 83.Ne1 Qh6+ 84.Kg1 Qe3+ 85.Qxe3 Nxe3
+86.Kf2 Ng4+ 87.Ke2 Kf6 88.Kd3 f4 89.Ke2 Kf5 90.g3 fxg3 91.Kf3 Ne5+ 92.Kxg3 d4
+93.Kf2 Ke4 94.Nc2 g5 95.Ke1 Nf3+ 96.Kf2 Ne5 97.Ke1 g4 98.Kf2 d3 99.Na3 Kf4
+100.Nb1 g3+ 101.Kg2 Nc4 102.Nc3 d2 103.Kh3 Kf3  0-1
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Adams, Michael"]
+[Black "Conquest, Stuart"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2585"]
+[ECO "C73"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Bxc6+ bxc6 6.d4 f6 7.c4 Ne7 8.Nc3 Ng6
+9.Be3 Be7 10.O-O O-O 11.h3 Kh8 12.Rc1 Bd7 13.Qe2 Qc8 14.c5 Qb7 15.Rfd1 Rad8
+16.b3 Be8 17.h4 Nf4 18.Bxf4 exf4 19.Na4 Bh5 20.d5 Qb5 21.Nc3 Qxe2 22.Nxe2 f5
+23.Nxf4 fxe4 24.Nxh5 exf3 25.cxd6 Rxd6 26.dxc6 Rh6 27.Ng3 fxg2 28.h5 Kg8
+29.Rd7 Ba3 30.Rc2 Rf7 31.Kxg2 Bf8 32.Rd8 Rff6 33.Rc4 Rxc6 34.Nf5  1-0
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Rozentalis, Eduardas"]
+[Black "Hebden, Mark"]
+[Result "1-0"]
+[WhiteElo "2610"]
+[BlackElo "2530"]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Bd6 6.d4 exd4 7.Qxd4 f6 8.Be3 Ne7
+9.Nbd2 Be6 10.Rad1 Ng6 11.Nc4 Bxc4 12.Qxc4 Qe7 13.Rfe1 O-O-O 14.a4 Rhe8 15.Bd4 Qe6
+16.Qxe6+ Rxe6 17.Bc3 Rde8 18.Nd2 Nf4 19.Kf1 g5 20.f3 Ng6 21.g3 h5 22.Nc4 Be5
+23.Nxe5 Nxe5 24.Kf2 g4 25.Bxe5 Rxe5 26.Re3 b5 27.b3 gxf3 28.Kxf3 f5 29.Rde1 Rf8
+30.Kf4 Rxe4+ 31.Rxe4 fxe4+ 32.Kg5 Re8 33.c4 bxc4 34.bxc4 Re5+ 35.Kf6 Ra5
+36.Rxe4 Rxa4 37.Kg6 Ra5 38.h4 Ra3 39.g4 hxg4 40.Rxg4 a5 41.h5 a4 42.c5 Ra1
+43.h6 a3 44.h7 Rh1 45.Ra4 Kd7 46.Rxa3 Rg1+ 47.Kf7 Rf1+ 48.Kg7 Rg1+ 49.Kh8 Ke6
+50.Ra8 Rg5 51.Rg8 Rxc5 52.Kg7 Rh5 53.h8=Q Rxh8 54.Rxh8 c5 55.Rh5 c4 56.Rc5 Kd6
+57.Rxc4 c5 58.Kf6 Kd5 59.Rc1 c4 60.Kf5 Kd4 61.Kf4 Kd3 62.Kf3 c3 63.Rd1+  1-0
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Lalic, Bogdan"]
+[Black "Movsesian, Sergei"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2635"]
+[ECO "E69"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.Nf3 c6 7.O-O Qa5 8.e4 e5 9.h3 Nbd7
+10.Re1 exd4 11.Nxd4 Nc5 12.Bf1 Re8 13.Be3 Be6  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Nunn, John DM"]
+[Black "Flear, Glenn C"]
+[Result "1/2-1/2"]
+[WhiteElo "2605"]
+[BlackElo "2435"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nxc6 Qf6 6.Qd2 dxc6 7.Nc3 Ne7 8.Qf4 Qe6
+9.Bd3 O-O 10.O-O Ng6 11.Qg3 Qd6 12.Bd2 f5 13.exf5 Qxg3 14.hxg3 Bxf5 15.Bxf5 Rxf5
+16.Ne4 Bb6 17.Rfe1 Ne5 18.Be3 Nc4 19.Bxb6 axb6 20.b3 Nd6 21.a4 b5 22.a5 Re5
+23.Nxd6 Rxe1+ 24.Rxe1  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Motwani, Paul"]
+[Black "Xie Jun"]
+[Result "1/2-1/2"]
+[WhiteElo "2490"]
+[BlackElo "2510"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.c4 Ba6
+9.b3 Qh4 10.a3 Bc5 11.Ra2 O-O 12.g3  1/2-1/2
+
+[Event "Hastings9697"]
+[Site "Hastings"]
+[Date "1997.??.??"]
+[Round "3"]
+[White "Conquest, Stuart"]
+[Black "Xie Jun"]
+[Result "1-0"]
+[WhiteElo "2585"]
+[BlackElo "2510"]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bg5 Ne4 3.Bf4 d5 4.e3 Bf5 5.f3 Nf6 6.c4 e6 7.Nc3 c6 8.g4 Bg6 9.h4 h6
+10.Qb3 b6 11.Nh3 dxc4 12.Bxc4 Nd5 13.O-O-O Bd6 14.Bxd6 Qxd6 15.e4 Nxc3 16.Qxc3 Nd7
+17.h5 Bh7 18.Kb1 O-O-O 19.Ka1 Kb8 20.Nf2 f6 21.Ba6 c5 22.Qa3 Qg3 23.Rhf1 cxd4
+24.Nd3 Ne5 25.Rc1 Rhe8 26.Qa4 Re7 27.Qxd4 Red7 28.Qc3  1-0

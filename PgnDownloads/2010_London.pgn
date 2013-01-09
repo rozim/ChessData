@@ -1,0 +1,940 @@
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.08"]
+[Round "1"]
+[White "Adams, Michael"]
+[Black "Howell, David"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2723"]
+[BlackElo "2611"]
+[PlyCount "55"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "England"]
+[BlackTeam "England"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6 bxc6 8.
+dxe5 Nb7 9. c4 O-O 10. Nc3 f6 11. Re1 fxe5 12. Qxe5 Bf6 13. Qg3 Nc5 14. Bg5 Nd3
+15. Re3 Nxb2 16. Rae1 Bxg5 17. Nxg5 Qf6 18. Rf3 Qd8 19. Nce4 Ba6 20. Nxh7 Rxf3
+21. gxf3 Kxh7 22. Ng5+ Kg8 23. Qh4 Bxc4 24. Qh7+ Kf8 25. Re5 Be6 26. Qh8+ Ke7
+27. Qxg7+ Kd6 28. Ne4# 1-0
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.08"]
+[Round "1"]
+[White "Anand, Viswanathan"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2804"]
+[BlackElo "2741"]
+[PlyCount "147"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "India"]
+[BlackTeam "US of America"]
+[WhiteTeamCountry "IND"]
+[BlackTeamCountry "USA"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Bd7 10. h3 h6 11. b3 Kc8 12. Bb2 b6 13. Rad1 Ne7 14. Rfe1
+c5 15. Ne2 Ng6 16. h4 Be7 17. e6 Bxe6 18. h5 Nh4 19. Nf4 Nxf3+ 20. gxf3 Bd6 21.
+Nxe6 fxe6 22. Rxe6 Rf8 23. Bxg7 Rf5 24. Re8+ Kb7 25. Rxa8 Kxa8 26. Bxh6 Rxh5
+27. Be3 Kb7 28. c4 Kc6 29. Kg2 Rh2+ 30. Kf1 Rh1+ 31. Ke2 Rxd1 32. Kxd1 Kd7 33.
+Bg5 Ke6 34. a4 c6 35. a5 bxa5 36. Kc2 a4 37. bxa4 Kf5 38. Be3 a6 39. Kd3 Be7
+40. Ke2 Bf8 41. Kf1 Be7 42. Kg2 Bd6 43. Kh3 Be7 44. Kg3 Bf6 45. Bxc5 Bd8 46.
+Be3 Be7 47. Kg2 Bd8 48. Kf1 Bc7 49. Ke2 Bd8 50. Kd3 Ba5 51. Kd4 Bb6+ 52. Kd3
+Ba5 53. Ba7 Be1 54. Bb6 Kf4 55. Be3+ Ke5 56. Bc5 Kf4 57. Ke2 Ba5 58. Ba7 Kf5
+59. Ke3 Be1 60. Bb6 Bc3 61. Bc7 Be1 62. Bd6 Bc3 63. f4 Be1 64. Be5 Ba5 65. Bd4
+Bb4 66. Be5 Bc5+ 67. Bd4 Bb4 68. Ba7 Bc3 69. Kd3 Be1 70. Be3 Ba5 71. Kd4 Bb6+
+72. Kc3 Ba5+ 73. Kd3 Bc7 74. Kd4 1/2-1/2
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.08"]
+[Round "1"]
+[White "McShane, Luke J"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[ECO "A37"]
+[WhiteElo "2645"]
+[BlackElo "2802"]
+[PlyCount "77"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "England"]
+[BlackTeam "Norway"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "NOR"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. Nf3 d6 6. O-O Nh6 7. d4 cxd4 8. Bxh6
+Bxh6 9. Nxd4 Ne5 10. Qb3 O-O 11. Rfd1 Nd7 12. Qa3 a5 13. b4 Ra6 14. b5 Ra8 15.
+e3 a4 16. Rab1 Bg7 17. Ne4 Qb6 18. Nc6 Re8 19. Nb4 f5 20. Nc3 Qc5 21. Nxa4 Qa7
+22. Na6 bxa6 23. b6 Nxb6 24. Rxb6 Rb8 25. c5 Be6 26. Rdb1 dxc5 27. Rb7 Rxb7 28.
+Rxb7 Qa8 29. Nxc5 Qc8 30. Qxa6 Bf7 31. Bc6 Rd8 32. Nd7 Rxd7 33. Bxd7 Qc1+ 34.
+Qf1 Qxf1+ 35. Kxf1 Bc4+ 36. Kg1 Bxa2 37. Ba4 e5 38. f3 Bh6 39. Bb3+ 1-0
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.08"]
+[Round "1"]
+[White "Short, Nigel D"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[ECO "C24"]
+[WhiteElo "2680"]
+[BlackElo "2791"]
+[PlyCount "76"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "England"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "RUS"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 e5 2. Bc4 Nf6 3. Qe2 Bc5 4. d3 O-O 5. Bg5 c6 6. Nd2 h6 7. Bh4 Re8 8. Ngf3
+Bf8 9. a4 d5 10. Bxf6 gxf6 11. Ba2 f5 12. O-O Na6 13. Rfe1 Bg7 14. c3 Be6 15.
+exd5 Bxd5 16. Bxd5 cxd5 17. g3 Bf6 18. Qe3 Kh7 19. Nb3 Qd7 20. Nc5 Nxc5 21.
+Qxc5 a6 22. Re2 Re6 23. Rae1 Rae8 24. c4 b6 25. Qb4 d4 26. Qb3 e4 27. Nd2 e3
+28. fxe3 dxe3 29. Nf3 f4 30. d4 Re4 31. Qxb6 Bxd4 32. Qxa6 fxg3 33. Qb5 Qg4 34.
+Nxd4 gxh2+ 35. Kh1 Rxd4 36. Qb7 Qf5 37. Rxh2 e2 38. Qg2 Rd1 0-1
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.09"]
+[Round "2"]
+[White "Carlsen, Magnus"]
+[Black "Adams, Michael"]
+[Result "1-0"]
+[ECO "A29"]
+[WhiteElo "2802"]
+[BlackElo "2723"]
+[PlyCount "97"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "Norway"]
+[BlackTeam "England"]
+[WhiteTeamCountry "NOR"]
+[BlackTeamCountry "ENG"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bc5 5. Bg2 d6 6. O-O O-O 7. d3 a6 8. a3
+Ba7 9. b4 Be6 10. Nd2 Rb8 11. Rb1 Ne7 12. a4 Qd7 13. b5 Bh3 14. Ba3 h6 15. e3
+Bxg2 16. Kxg2 Bc5 17. Bxc5 dxc5 18. Nf3 Qe6 19. e4 c6 20. Qb3 Rbd8 21. bxa6
+bxa6 22. Qc2 Ng6 23. Ng1 Rb8 24. a5 Nd7 25. Na4 Qd6 26. Ne2 Qc7 27. Qc3 Rfd8
+28. Rxb8 Rxb8 29. f4 exf4 30. gxf4 Qd6 31. Kh1 Rb4 32. Qc2 Nh4 33. Nac3 Qg6 34.
+Ng3 Nf6 35. e5 Nh5 36. Nxh5 Qxh5 37. Ne4 Kh8 38. Qf2 Nf5 39. Nxc5 Qh3 40. Re1
+Nh4 41. Qg3 Qxg3 42. hxg3 Nf3 43. Rf1 Nd4 44. Kg2 Ne6 45. Nxa6 Ra4 46. f5 Ng5
+47. Nc7 Kg8 48. a6 Kf8 49. Kf2 1-0
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.09"]
+[Round "2"]
+[White "Howell, David"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "B52"]
+[WhiteElo "2611"]
+[BlackElo "2804"]
+[PlyCount "100"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "England"]
+[BlackTeam "India"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "IND"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. d4 cxd4 7. Nxd4 g6 8.
+Nc3 Bg7 9. Be3 Nf6 10. h3 O-O 11. O-O Rfc8 12. b3 a6 13. Nd5 Nxd5 14. exd5 Nxd4
+15. Bxd4 Bxd4 16. Qxd4 b5 17. Rfe1 bxc4 18. bxc4 Rc7 19. Qh4 Rac8 20. Re4 Qf5
+21. Rae1 Qf6 22. Qg4 h5 23. Qe2 Qc3 24. Rxe7 Rxc4 25. Re3 Qf6 26. Qf3 Rf4 27.
+Qe2 Kg7 28. g3 Rf5 29. h4 Rc5 30. Rd3 Re5 31. Qd2 Rxe1+ 32. Qxe1 Rc2 33. a3 Qf5
+34. Rd4 Qf3 35. a4 Re2 36. Qf1 Ra2 37. Qe1 a5 38. Rf4 Qxd5 39. Qc3+ Kg8 40. Rd4
+Qe5 41. Kg2 Kg7 42. Qc4 Ra1 43. Rf4 d5 44. Qa6 Rd1 45. Qa7 Qe6 46. Kh2 d4 47.
+Rxd4 Rf1 48. Kg2 Ra1 49. Qxa5 Qc6+ 50. Qd5 Qxd5+ 1/2-1/2
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.09"]
+[Round "2"]
+[White "Kramnik, Vladimir"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[ECO "E20"]
+[WhiteElo "2791"]
+[BlackElo "2741"]
+[PlyCount "108"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "Russia"]
+[BlackTeam "US of America"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "USA"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 c5 5. Bg2 O-O 6. O-O d6 7. d4 Bxc3 8. bxc3
+Qe7 9. dxc5 dxc5 10. Ne5 Qc7 11. Bf4 Nh5 12. Qd2 g5 13. Bxg5 Qxe5 14. Rad1 f6
+15. Bh6 Ng7 16. Bf4 Qh5 17. Bd6 Re8 18. Qf4 Nd7 19. g4 Qf7 20. Rd3 e5 21. Qh6
+Qg6 22. Qxg6 hxg6 23. Be4 Kf7 24. f4 exf4 25. Bd5+ Ne6 26. Bxf4 Nb6 27. Be5
+Nxd5 28. cxd5 Nf8 29. Rxf6+ Kg8 30. Bd6 Kg7 31. Rf4 g5 32. Rf2 b6 33. Rdf3 Ng6
+34. Rf7+ Kh6 35. h3 Ba6 36. R2f6 Bxe2 37. Be7 Bc4 38. Rd6 Bxd5 39. Bxg5+ Kxg5
+40. Rxd5+ Kh4 41. Rf3 Re5 42. Rxe5 Nxe5 43. Rf5 Nd3 44. Kh2 Rh8 45. a4 Rh6 46.
+Kg2 a5 47. Kf3 Nb2 48. Kf4 Nxa4 49. c4 Nc3 50. Ke3 a4 51. Kd3 Nd1 52. Rf8 Kxh3
+53. g5 Rd6+ 54. Ke4 Kg4 0-1
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.09"]
+[Round "2"]
+[White "Short, Nigel D"]
+[Black "McShane, Luke J"]
+[Result "0-1"]
+[ECO "B76"]
+[WhiteElo "2680"]
+[BlackElo "2645"]
+[PlyCount "104"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "England"]
+[BlackTeam "England"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. g4 Be6 10. Nxe6 fxe6 11. O-O-O Rc8 12. Bc4 Qd7 13. Bb3 Na5 14. h4 Nc4
+15. Qd3 Qc6 16. Ne2 Nd7 17. Nd4 Qa6 18. f4 e5 19. fxe5 Ndxe5 20. Qe2 Kh8 21. h5
+gxh5 22. g5 Ng4 23. Bg1 Nce3 24. Qxa6 bxa6 25. Bxe3 Nxe3 26. Rd3 Bxd4 27. Rxd4
+Rc5 28. Rd3 Ng2 29. Rg3 Nf4 30. Kd2 Re5 31. Re1 Kg7 32. Ke3 Kg6 33. c3 Rxg5 34.
+Rxg5+ Kxg5 35. Rg1+ Kh6 36. e5 dxe5 37. Ke4 Ng6 38. Bc4 a5 39. Kd5 Rf2 40. b4
+axb4 41. cxb4 h4 42. a4 h3 43. a5 h2 44. Rh1 Kg5 45. b5 Kg4 46. b6 axb6 47. a6
+Kg3 48. a7 Rf8 49. Kc6 Nf4 50. Ra1 e4 51. Ba6 Nh3 52. Bb7 Ng1 0-1
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.10"]
+[Round "3"]
+[White "Adams, Michael"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[WhiteElo "2723"]
+[BlackElo "2680"]
+[PlyCount "100"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "England"]
+[BlackTeam "England"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 g6 7. N1f3 Bg7 8.
+O-O O-O 9. Ne5 Nxe5 10. dxe5 Nd5 11. e6 Bxe6 12. Nxe6 fxe6 13. c3 Qd6 14. Bc2
+b5 15. a3 a5 16. h4 Rad8 17. Qg4 b4 18. axb4 axb4 19. cxb4 Rb8 20. Ra4 Nxb4 21.
+Be4 Nd5 22. Qe2 Nf4 23. Qc4 c5 24. g3 Nd5 25. Ra6 Rb6 26. Rxb6 Nxb6 27. Qe2 Nd5
+28. Kg2 Bd4 29. h5 gxh5 30. Bh6 Rb8 31. Qxh5 Nf6 32. Qg5+ Kf7 33. Bf3 Rg8 34.
+Qh4 Bxb2 35. Bg5 Kg7 36. Rh1 Qd3 37. Bxf6+ Bxf6 38. Qg4+ Kf7 39. Qh5+ Kg7 40.
+Qxc5 h6 41. Qc6 Qd6 42. Qe4 Qe5 43. Qg4+ Bg5 44. Be4 Rd8 45. Re1 Rd2 46. Re2
+Rxe2 47. Qxe2 Bf6 48. Qg4+ Kf8 49. Qg6 Qg5 50. Qxg5 hxg5 1/2-1/2
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.10"]
+[Round "3"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[ECO "C95"]
+[WhiteElo "2804"]
+[BlackElo "2802"]
+[PlyCount "153"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "India"]
+[BlackTeam "Norway"]
+[WhiteTeamCountry "IND"]
+[BlackTeamCountry "NOR"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. Bd3 c6 15. b4
+Rc8 16. axb5 cxb5 17. Bb2 d5 18. exd5 exd4 19. Rxe8 Qxe8 20. c4 bxc4 21. Nxc4
+Nxd5 22. Nxd4 Nxb4 23. Nf5 Nxd3 24. Qxd3 Be4 25. Qd4 Bxf5 26. Nd6 Qd8 27. Nxf5
+f6 28. Rd1 Rc2 29. Nh6+ gxh6 30. Qg4+ Bg7 31. Qe6+ Kh8 32. Rxd7 Qf8 33. Ba3 Qg8
+34. Qxa6 Qe8 35. Qa7 Qg8 36. Be7 Rc8 37. Qa6 Qe8 38. Ra7 Kg8 39. Qe6+ Kh8 40.
+Qa6 Kg8 41. Qe6+ Kh8 42. Kh2 Rc6 43. Qb3 Rc8 44. Bd6 Qg6 45. Qb7 Rd8 46. Bg3
+Rg8 47. h4 Qf5 48. Qc7 Qd5 49. Ra5 Qe4 50. Qd7 Qc4 51. Qf5 Qc8 52. Qf3 Qd7 53.
+Bf4 Qf7 54. g3 Re8 55. Be3 Rg8 56. Ra6 Re8 57. Ra7 Re7 58. Qa8+ Qf8 59. Ra6 Re8
+60. Qc6 Rc8 61. Qf3 Qf7 62. Ra7 Qe6 63. Qb7 Qg8 64. Bf4 Rd8 65. Qa6 Re8 66. Rc7
+Ra8 67. Qc6 Re8 68. Be3 Rb8 69. Bd4 Qf8 70. Qc3 Re8 71. Rc6 Qf7 72. Bxf6 Rf8
+73. Bxg7+ Qxg7 74. Qe3 Qb2 75. Kg2 Qb7 76. Qxh6 Qf7 77. Rc2 1-0
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.10"]
+[Round "3"]
+[White "McShane, Luke J"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2645"]
+[BlackElo "2791"]
+[PlyCount "278"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "England"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "RUS"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Ne2 b6 12. Bf4 c5 13. Rad1 Bb7 14. Ng5
+Rh6 15. Ng3 Nh4 16. f3 Be7 17. Rfe1 Rg6 18. N5e4 Bc6 19. Kh2 Nxg2 20. Kxg2 h4
+21. c4 hxg3 22. Nc3 Rd8 23. Nd5 Rd7 24. b3 Bd8 25. Re4 Bb7 26. Bxg3 b5 27. Kf2
+Rh6 28. h4 Kf8 29. Ke2 Ra6 30. Rd2 bxc4 31. bxc4 c6 32. Nc3 Rxd2+ 33. Kxd2 Bc8
+34. Bf2 Be7 35. Re1 Bf5 36. Kc1 Be6 37. Re4 Rb6 38. Na4 Rb4 39. Nb2 g6 40. a3
+Rb3 41. Re3 Rb7 42. Rc3 Bf5 43. Na4 Kg7 44. Kd2 Bd8 45. Ke2 Rb1 46. Bxc5 Bxh4
+47. Bxa7 Re1+ 48. Kd2 Rh1 49. Ke2 Re1+ 50. Kd2 Rh1 51. Ke2 Rh2+ 52. Kd1 Bg5 53.
+Nc5 Bf4 54. Nb3 g5 55. Nd4 Bh3 56. Rc2 Rh1+ 57. Ke2 Bd7 58. Bb8 c5 59. e6 Ba4
+60. Bxf4 gxf4 61. Nf5+ Kf6 62. exf7 Rh8 63. Rd2 Kxf5 64. Rd5+ Kf6 65. Rxc5 Bc2
+66. Rd5 Kxf7 67. Rd4 Rh2+ 68. Ke1 Ke6 69. Rxf4 Ke5 70. Rf7 Kd4 71. Re7 Bd3 72.
+a4 Ra2 73. a5 Bxc4 74. Re4+ Kd3 75. Re5 Kc3 76. Re7 Bd3 77. Re8 Kd4 78. Re7 Bb5
+79. Re4+ Kd3 80. Re6 Bc4 81. Re5 Rb2 82. Re7 Bb5 83. Re6 Ra2 84. Kf1 Bc4 85.
+Re7 Bd5 86. Rd7 Kc4 87. Ke1 Bxf3 88. Rd2 Ra3 89. a6 Bd5 90. Rc2+ Kd3 91. Rd2+
+Ke4 92. Re2+ Kf4 93. Kd2 Be4 94. a7 Ra2+ 95. Ke1 Rxa7 96. Kf2 Rd7 97. Rb2 Rd3
+98. Ra2 Rf3+ 99. Ke1 Rh3 100. Rf2+ Bf3 101. Rb2 Rh8 102. Kd2 Rd8+ 103. Kc3 Ke3
+104. Rb6 Rc8+ 105. Kb4 Kd4 106. Rd6+ Bd5 107. Rb6 Rc1 108. Rb5 Bc6 109. Rb6 Kd5
+110. Ka5 Ra1+ 111. Kb4 Ra8 112. Kc3 Kc5 113. Rb2 Bd5 114. Rf2 Ra3+ 115. Kd2 Kd4
+116. Rf4+ Be4 117. Rf2 Bf3 118. Ke1 Re3+ 119. Kd2 Rd3+ 120. Kc2 Kc4 121. Rh2
+Be4 122. Re2 Bf5 123. Kc1 Rd8 124. Rd2 Bd3 125. Rf2 Kc3 126. Rc2+ Kd4 127. Rb2
+Ke3 128. Rb6 Rd4 129. Kb2 Kd2 130. Ka3 Bc2 131. Rb8 Kc1 132. Ra8 Rc4 133. Ra7
+Kd2 134. Rb7 Rh4 135. Rb6 Kc1 136. Ra6 Rc4 137. Ra7 Kd2 138. Rb7 Kc3 139. Rb3+
+Bxb3 1/2-1/2
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.10"]
+[Round "3"]
+[White "Nakamura, Hikaru"]
+[Black "Howell, David"]
+[Result "1/2-1/2"]
+[ECO "D72"]
+[WhiteElo "2741"]
+[BlackElo "2611"]
+[PlyCount "83"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "US of America"]
+[BlackTeam "England"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ENG"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. e4 Nb6 7. Ne2 O-O 8. O-O
+c5 9. d5 e6 10. Nec3 Na6 11. a4 Nb4 12. Be3 Bd4 13. Bxd4 cxd4 14. Na2 Nxa2 15.
+Rxa2 e5 16. b3 Bd7 17. f4 f6 18. Raf2 Qe7 19. a5 Nc8 20. fxe5 Qxe5 21. Nd2 Nd6
+22. Nf3 Qxe4 23. Re2 Qxd5 24. Ne5 Qxe5 25. Rxe5 fxe5 26. Bd5+ Kg7 27. a6 Bc6
+28. Rxf8 Rxf8 29. Qe1 Bxd5 30. Qxe5+ Rf6 31. Qxd5 bxa6 32. Qxd4 h5 33. Qxa7+
+Nf7 34. h4 Kg8 35. Qe7 Kg7 36. b4 Rf5 37. Qc7 Rf6 38. Kg2 Kg8 39. Qc8+ Kg7 40.
+Qc7 Kg8 41. Qc8+ Kg7 42. Qc7 1/2-1/2
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.11"]
+[Round "4"]
+[White "Carlsen, Magnus"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[ECO "A21"]
+[WhiteElo "2802"]
+[BlackElo "2741"]
+[PlyCount "117"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "Norway"]
+[BlackTeam "US of America"]
+[WhiteTeamCountry "NOR"]
+[BlackTeamCountry "USA"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. c4 f5 2. g3 Nf6 3. Bg2 d6 4. Nc3 g6 5. e3 Bg7 6. Nge2 O-O 7. O-O e5 8. b3
+Nbd7 9. d3 c6 10. Ba3 Qc7 11. Qd2 Re8 12. Rae1 Nc5 13. h3 e4 14. dxe4 Nfxe4 15.
+Qc2 Nxc3 16. Nxc3 Be6 17. Rd1 Rad8 18. Bb2 Bf7 19. Rd2 a5 20. Rfd1 Be5 21. Ne2
+a4 22. b4 Nd7 23. Bd4 Nb6 24. Bxb6 Qxb6 25. Rb1 Qc7 26. Nd4 Rc8 27. Rc1 Qe7 28.
+Rd3 c5 29. bxc5 Rxc5 30. Qxa4 Rec8 31. Rb1 Rxc4 32. Qd1 b6 33. Nb5 R4c5 34.
+Nxd6 Bxd6 35. Rxd6 Bxa2 36. Ra1 Rc1 37. Rxc1 Rxc1 38. Rxg6+ hxg6 39. Qxc1 Qd6
+40. h4 Bf7 41. h5 Kh7 42. hxg6+ Kxg6 43. Qc2 b5 44. g4 Qe5 45. gxf5+ Kg7 46.
+Qe4 Qd6 47. Qh4 Bc4 48. Bf3 Qf6 49. Qxf6+ Kxf6 50. Be4 Ba2 51. f4 b4 52. Kf2 b3
+53. Bd5 Kxf5 54. Kf3 Kf6 55. e4 Kg6 56. Ke3 Kh5 57. Kd4 Kg4 58. f5 Kg5 59. Ke5
+1-0
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.11"]
+[Round "4"]
+[White "Kramnik, Vladimir"]
+[Black "Howell, David"]
+[Result "1-0"]
+[ECO "D85"]
+[WhiteElo "2791"]
+[BlackElo "2611"]
+[PlyCount "83"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "Russia"]
+[BlackTeam "England"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "ENG"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Rc1 Qa5 9. Qd2 O-O 10. Nf3 Rd8 11. d5 e6 12. Bg5 f6 13. Be3 exd5 14. exd5 Na6
+15. Be2 Be6 16. c4 Qxd2+ 17. Nxd2 Bd7 18. Ne4 b6 19. h4 Bf5 20. Nc3 Nb4 21. Kd2
+Nc6 22. h5 Kf7 23. g4 Bc8 24. hxg6+ hxg6 25. Ne4 Ba6 26. Rh7 Kg8 27. Rch1 Ne5
+28. Kc3 Nf7 29. Bd3 Ne5 30. g5 fxg5 31. Bxg5 Rf8 32. Be2 Nf3+ 33. Nf6+ Rxf6 34.
+Rxg7+ Kxg7 35. Bxf6+ Kxf6 36. Bxf3 Re8 37. Rh7 Re7 38. Rh8 Ke5 39. Bg4 b5 40.
+Rd8 Rf7 41. Re8+ Kf4 42. Be6 1-0
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.11"]
+[Round "4"]
+[White "McShane, Luke J"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[WhiteElo "2645"]
+[BlackElo "2723"]
+[PlyCount "87"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "England"]
+[BlackTeam "England"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. g3 d5 2. Nf3 Bg4 3. Bg2 c6 4. c4 e6 5. O-O Nd7 6. cxd5 exd5 7. d3 Ngf6 8. h3
+Bh5 9. Nh4 Bc5 10. d4 Bb6 11. Nc3 O-O 12. Qd3 Re8 13. Bd2 Qe7 14. g4 Bg6 15.
+Nxg6 hxg6 16. Bf4 Ne4 17. Nxe4 dxe4 18. Qb3 Nf6 19. Be5 Nd5 20. Bxe4 Bxd4 21.
+Bxd5 Bxe5 22. Bg2 a5 23. a3 a4 24. Qc2 Qe6 25. Rad1 Ra5 26. Rd2 Rb5 27. Qxa4
+Bxb2 28. e3 Qa2 29. Rd3 Bf6 30. Rfd1 Rb2 31. Bd5 b5 32. Bxa2 bxa4 33. R1d2 Reb8
+34. Kg2 Kf8 35. Bc4 Rxd2 36. Rxd2 Ke7 37. Rc2 Rb2 38. Rxb2 Bxb2 39. Bd3 Bxa3
+40. Bc2 g5 41. Bxa4 c5 42. Bb3 Bb4 43. Bc4 Be1 44. Kf1 1/2-1/2
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.11"]
+[Round "4"]
+[White "Short, Nigel D"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "B23"]
+[WhiteElo "2680"]
+[BlackElo "2804"]
+[PlyCount "86"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "England"]
+[BlackTeam "India"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "IND"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 c5 2. Nc3 d6 3. f4 Nc6 4. Nf3 g6 5. Be2 Bg7 6. O-O Nf6 7. Qe1 O-O 8. d3
+e6 9. Kh1 b6 10. Bd2 Bb7 11. Qh4 Ne8 12. Qh3 Nd4 13. Nxd4 cxd4 14. Nd1 f5 15.
+c4 dxc3 16. Nxc3 Qd7 17. Rae1 Nc7 18. Bf3 Rab8 19. exf5 exf5 20. Bxb7 Rxb7 21.
+Qf3 d5 22. Rf2 Rbb8 23. Rfe2 Rf7 24. a3 d4 25. Nd1 Qd5 26. Qg3 Rff8 27. h4 Rfe8
+28. h5 gxh5 29. Re7 Rxe7 30. Rxe7 Ne6 31. Rxa7 Kh8 32. Nf2 Bf6 33. Nh3 h4 34.
+Qf2 h6 35. Ng5 Nxg5 36. fxg5 hxg5 37. Bxg5 Bxg5 38. Qe2 Qd6 39. Qh5+ Qh6 40.
+Qf3 Rc8 41. Qxf5 Rc1+ 42. Kh2 Qd6+ 43. Kh3 Qg3# 0-1
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.12"]
+[Round "5"]
+[White "Adams, Michael"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C54"]
+[WhiteElo "2723"]
+[BlackElo "2791"]
+[PlyCount "89"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "England"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "RUS"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. Nbd2 a6 8. Ba4
+b5 9. Bb3 Bb6 10. Re1 Ne7 11. Nf1 Ng6 12. Ng3 Re8 13. Ng5 Nh8 14. d4 h6 15. Nf3
+Ng6 16. h3 Bb7 17. Bc2 d5 18. Nxe5 Nxe5 19. dxe5 Nxe4 20. Nxe4 dxe4 21. Qh5 g6
+22. Qxh6 Rxe5 23. Be3 Qf6 24. Rad1 Rae8 25. Bb3 Bc8 26. Bxb6 Qxb6 27. Qf4 Rf5
+28. Qg3 Qf6 29. Rd5 Ree5 30. Rxe5 Rxe5 31. f4 Re8 32. Qe3 Be6 33. Qxe4 Bd7 34.
+Qb1 Rxe1+ 35. Qxe1 Qxf4 36. Qf2 Qc1+ 37. Kh2 Bf5 38. Qg3 Qxb2 39. Qe5 Qa3 40.
+Qxc7 Be6 41. Qd8+ Kg7 42. Qd4+ Kg8 43. Qd8+ Kg7 44. Qd4+ Kg8 45. Qd8+ 1/2-1/2
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.12"]
+[Round "5"]
+[White "Anand, Viswanathan"]
+[Black "McShane, Luke J"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2804"]
+[BlackElo "2645"]
+[PlyCount "82"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "India"]
+[BlackTeam "England"]
+[WhiteTeamCountry "IND"]
+[BlackTeamCountry "ENG"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5
+8. Rxe5 O-O 9. d4 Bf6 10. Re1 Nf5 11. d5 d6 12. Nd2 Nh4 13. g3 Ng6 14. a4 Ne5
+15. Ra3 a5 16. Ne4 Be7 17. f4 Ng4 18. Bg2 h6 19. c4 Nf6 20. Nc3 Nd7 21. Nb5 Nc5
+22. Rae3 Bf6 23. Bf3 Bd7 24. b3 Rb8 25. Kg2 Re8 26. Ba3 Rxe3 27. Rxe3 Bxb5 28.
+cxb5 b6 29. Bg4 g6 30. h4 Bg7 31. Be2 Qf6 32. Bc4 Kf8 33. Bxc5 dxc5 34. Qf3 Re8
+35. Rxe8+ Kxe8 36. d6 Qxd6 37. Qe4+ Kf8 38. Qa8+ Ke7 39. Qg8 Qf6 40. Qc8 Qd6
+41. Qg8 Qf6 1/2-1/2
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.12"]
+[Round "5"]
+[White "Howell, David"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "B81"]
+[WhiteElo "2611"]
+[BlackElo "2802"]
+[PlyCount "110"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "England"]
+[BlackTeam "Norway"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "NOR"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Be7 8. Bg2
+Nfd7 9. Be3 Nc6 10. Qd2 O-O 11. O-O Nde5 12. b3 Nxd4 13. Bxd4 Ng6 14. Be3 Qc7
+15. Ne2 b5 16. c4 bxc4 17. Rac1 Bb7 18. Rxc4 Qd7 19. Rfc1 Rac8 20. Bb6 Rxc4 21.
+Rxc4 Rc8 22. Qc2 Rxc4 23. Qxc4 Qe8 24. a4 Qa8 25. f4 h6 26. Bf2 Bh4 27. Be3 Bf6
+28. Qd3 Bc6 29. Ng3 Be7 30. Nh5 Bf8 31. Bf2 Qb7 32. Qc4 Ne7 33. Qd3 d5 34. e5
+d4 35. Bf1 Bd5 36. Qxa6 Qxb3 37. Qd3 Qxa4 38. Qxd4 Qa8 39. Qa7 Qc8 40. Qc5 Nc6
+41. Qc3 Qa8 42. g5 Qa4 43. Qg3 Qd1 44. Nf6+ gxf6 45. gxf6+ Kh8 46. Qd3 Qxd3 47.
+Bxd3 Nb4 48. Bb1 Ba2 49. Be4 Nd5 50. f5 Nf4 51. Kh2 exf5 52. Bxf5 Be6 53. Bg4
+Bxg4 54. hxg4 Ne6 55. Kg3 Bc5 0-1
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.12"]
+[Round "5"]
+[White "Nakamura, Hikaru"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[ECO "C89"]
+[WhiteElo "2741"]
+[BlackElo "2680"]
+[PlyCount "67"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "US of America"]
+[BlackTeam "England"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ENG"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 e4 10. dxc6 exf3 11. g3 Re8 12. d4 Bg4 13. Bg5 h6 14. Bxf6 Bxf6 15.
+Nd2 Qd6 16. h3 Bh5 17. Qc2 Bg5 18. Ne4 Qxc6 19. Nxg5 hxg5 20. Qf5 Rxe1+ 21.
+Rxe1 Re8 22. Re5 Rxe5 23. dxe5 Bg6 24. Qxg5 Qe4 25. Qd8+ Kh7 26. Qh4+ Qxh4 27.
+gxh4 f6 28. exf6 gxf6 29. Bd5 a5 30. b4 axb4 31. cxb4 Bd3 32. Kh2 Bc4 33. Be4+
+Kh6 34. a3 1-0
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.14"]
+[Round "6"]
+[White "Adams, Michael"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2723"]
+[BlackElo "2804"]
+[PlyCount "107"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "England"]
+[BlackTeam "India"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "IND"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. Qd2 Nbd7 11. a4 Rc8 12. a5 Nc5 13. Nxc5 dxc5 14. Rfd1 Qxd2
+15. Rxd2 Rfd8 16. Rxd8+ Bxd8 17. b3 Be7 18. Bc4 Bxc4 19. bxc4 Ne8 20. g4 Nd6
+21. Ra4 h6 22. Nd5 Bd8 23. f3 Kf8 24. Kf1 Ke8 25. Ke2 Kd7 26. Kd3 Kc6 27. Bd2
+Ra8 28. Bc3 f6 29. h4 b6 30. axb6 Bxb6 31. h5 a5 32. Bd2 Bd8 33. Ra3 Ra7 34.
+Ra4 Ra8 35. Be1 Ra7 36. Bc3 Ra8 37. Ne3 Ra7 38. Kd2 Nf7 39. Ke2 Ng5 40. Nd5 Ne6
+41. Kd3 Ra8 42. Ke3 Kd6 43. Kd3 Kc6 44. Bd2 Nd4 45. f4 exf4 46. Bxf4 Ra7 47.
+Ra1 Ne6 48. Bg3 Ng5 49. Bf4 Nf7 50. Ra4 Rb7 51. Ra1 Ra7 52. Ra4 Rb7 53. Ra1 Ra7
+54. Ra4 1/2-1/2
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.14"]
+[Round "6"]
+[White "Kramnik, Vladimir"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[WhiteElo "2791"]
+[BlackElo "2802"]
+[PlyCount "171"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "Russia"]
+[BlackTeam "Norway"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "NOR"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Nc3 e6 5. Bf4 Bd6 6. Bg3 Nf6 7. e3 O-O 8. a3
+Ne7 9. Qb3 b6 10. Ne5 c5 11. Nxg4 Nxg4 12. Rd1 Bxg3 13. hxg3 Nf6 14. cxd5 exd5
+15. Be2 Qd6 16. Qc2 h6 17. O-O c4 18. b3 Qxa3 19. bxc4 dxc4 20. Bf3 Rab8 21.
+Ra1 Qd6 22. Nb5 Qd7 23. Qxc4 a5 24. e4 Rfc8 25. Qe2 Rc6 26. Rab1 Rd8 27. Rfd1
+Rdc8 28. d5 Rc2 29. Qe3 R2c5 30. Nd4 Re8 31. Qd3 Qd6 32. Qa6 Rb8 33. Nb3 Rc2
+34. Nd4 Rc5 35. Nb3 Rc2 36. Qd3 Rcc8 37. Nd2 Ng6 38. Be2 Qc5 39. Rb5 Qc3 40. f4
+a4 41. e5 Nd7 42. Qxc3 Rxc3 43. Ne4 Rc7 44. Ra1 Ra7 45. d6 Ngf8 46. Nc3 Nc5 47.
+Nd5 Ra5 48. Rxb6 Rxb6 49. Nxb6 Nfe6 50. Bc4 Kf8 51. f5 Nd8 52. Rf1 Ncb7 53. Re1
+a3 54. e6 fxe6 55. fxe6 Nxd6 56. e7+ Ke8 57. exd8=R+ Kxd8 58. Rd1 Kc7 59. Ba2
+Rg5 60. Nd5+ Kc6 61. Nc3 Rc5 62. Rxd6+ Kxd6 63. Ne4+ Kc6 64. Nxc5 Kxc5 65. Kf2
+Kd4 66. Kf3 Kd3 67. g4 Kd2 68. Be6 Kd3 69. Kg3 Ke3 70. Kh4 Kf2 71. Bd5 g6 72.
+Kh3 g5 73. Kh2 Kf1 74. Be6 Kf2 75. Bc4 Ke3 76. Kg3 Kd4 77. Be6 Ke3 78. Kh2 Kf2
+79. Bc4 Ke3 80. Kg1 Kf4 81. Be6 Ke5 82. Bb3 Kf4 83. Be6 Ke5 84. Bb3 Kf4 85. Be6
+Ke5 86. Bb3 1/2-1/2
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.14"]
+[Round "6"]
+[White "McShane, Luke J"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[WhiteElo "2645"]
+[BlackElo "2741"]
+[PlyCount "99"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "England"]
+[BlackTeam "US of America"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "USA"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. g3 e5 2. c4 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. Nf3 Nc6 7. O-O Be7 8.
+a3 O-O 9. b4 Re8 10. d3 Bf8 11. Bb2 a5 12. b5 Nd4 13. Nd2 c6 14. bxc6 Nxc6 15.
+Nc4 Be6 16. Nxb6 Qxb6 17. Rb1 Qa6 18. Bc1 Rac8 19. Re1 b6 20. Bd2 Red8 21. a4
+Nd4 22. Nb5 Bc5 23. Nxd4 Bxd4 24. Be3 Rc5 25. Bxd4 exd4 26. Rc1 Qc8 27. Rxc5
+Qxc5 28. Qa1 Rc8 29. h4 Qc3 30. Bb7 Rc7 31. Be4 f5 32. Bf3 Bb3 33. Kf1 Kf8 34.
+e3 Qxd3+ 35. Kg2 Qc3 36. Qa3+ Ke8 37. Qd6 Rd7 38. Qe5+ Re7 39. Qb5+ Kf8 40.
+Qxf5+ Rf7 41. Qe5 Rxf3 42. Kxf3 Qxe1 43. Qb8+ Ke7 44. Qc7+ Kf6 45. Qd8+ Kf7 46.
+Qd7+ Kf8 47. Qd8+ Kf7 48. Qc7+ Kf6 49. Qd8+ Kf7 50. Qc7+ 1/2-1/2
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.14"]
+[Round "6"]
+[White "Short, Nigel D"]
+[Black "Howell, David"]
+[Result "1/2-1/2"]
+[ECO "C39"]
+[WhiteElo "2680"]
+[BlackElo "2611"]
+[PlyCount "82"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "England"]
+[BlackTeam "England"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bg7 8. d4
+Nxd5 9. O-O Nc6 10. Bxd5 Qxd5 11. Nxc6 bxc6 12. Rxf4 Be6 13. Nc3 Qh5 14. Ne4
+Qxh4 15. Nc5 O-O 16. Nxe6 fxe6 17. Rxg4 Qf2+ 18. Kh2 Kh8 19. Bg5 Rab8 20. Bh4
+Qf5 21. Rb1 c5 22. dxc5 Be5+ 23. g3 Rg8 24. Rxg8+ Rxg8 25. Qe2 Rg4 26. Kg2 Re4
+27. Qd3 Qg4 28. Rf1 Rd4 29. Qe3 Re4 30. Qf3 Re2+ 31. Rf2 Qxf3+ 32. Kxf3 Rxf2+
+33. Kxf2 Bxb2 34. c6 Kg7 35. g4 Be5 36. Kf3 Kf7 37. Ke4 Bd6 38. Bd8 Ke8 39. Bh4
+Kf7 40. Bd8 Ke8 41. Bh4 Kf7 1/2-1/2
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.15"]
+[Round "7"]
+[White "Anand, Viswanathan"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2804"]
+[BlackElo "2791"]
+[PlyCount "78"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "India"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "IND"]
+[BlackTeamCountry "RUS"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Bg5 Be6 12. Rfd1 Be7 13. g3 f6 14. exf6
+gxf6 15. Bf4 Rc8 16. Kh2 Kf7 17. Rd2 Rcd8 18. Rxd8 Bxd8 19. Rd1 Re8 20. Nd4
+Nxd4 21. Rxd4 Bf5 22. Rd2 Be7 23. Nd1 Rd8 24. Rxd8 Bxd8 25. Ne3 Be4 26. g4 hxg4
+27. hxg4 Be7 28. Bxc7 Bc5 29. c3 Bxe3 30. fxe3 Ke6 31. Kg3 a6 32. Kf4 Bc2 33.
+e4 Bd1 34. a3 Be2 35. Bb6 Bd1 36. Bd4 Be2 37. Be3 Bd1 38. Bd4 Be2 39. Be3 Bd1
+1/2-1/2
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.15"]
+[Round "7"]
+[White "Carlsen, Magnus"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2802"]
+[BlackElo "2680"]
+[PlyCount "79"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "Norway"]
+[BlackTeam "England"]
+[WhiteTeamCountry "NOR"]
+[BlackTeamCountry "ENG"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Be7 6. Bc4 Ngf6 7. Nxf6+ Nxf6
+8. O-O O-O 9. Ne5 c5 10. dxc5 Qxd1 11. Rxd1 Bxc5 12. Be2 Ne4 13. Nd3 Be7 14.
+Be3 h6 15. a4 a5 16. g3 Rd8 17. Ne5 Nf6 18. Nc4 Rxd1+ 19. Rxd1 Nd5 20. Nb6 Nxe3
+21. fxe3 Rb8 22. Kf2 e5 23. Rd5 Be6 24. Rxa5 Rd8 25. Bd3 Bf6 26. e4 Rd4 27. Rb5
+g6 28. a5 Kg7 29. Ke2 Bg4+ 30. Kf2 Be6 31. Kf3 h5 32. Nd5 Bd8 33. b4 Bc8 34.
+Ke2 Bg4+ 35. Ke1 f5 36. Rxb7+ Kh6 37. Ne3 Bf3 38. a6 fxe4 39. Be2 Bg5 40. a7
+1-0
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.15"]
+[Round "7"]
+[White "Howell, David"]
+[Black "McShane, Luke J"]
+[Result "1/2-1/2"]
+[ECO "B76"]
+[WhiteElo "2611"]
+[BlackElo "2645"]
+[PlyCount "75"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "England"]
+[BlackTeam "England"]
+[WhiteTeamCountry "ENG"]
+[BlackTeamCountry "ENG"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Bxd4 13. Qxd4 Qb6 14. Na4
+Qa5 15. b3 Qc7 16. h4 Bf5 17. g4 Be6 18. Nc5 Rad8 19. Bc4 Bc8 20. h5 e5 21. Qf2
+Qe7 22. Ne4 g5 23. h6 Kh8 24. Qc5 Qxc5 25. Nxc5 f5 26. gxf5 Rxf5 27. Rhe1 Rxf3
+28. Rxe5 g4 29. Ne4 Rdf8 30. Bxd5 cxd5 31. Ng5 R3f6 32. Re7 Rg6 33. Rxd5 g3 34.
+Rf7 Re8 35. Re5 Rd8 36. Rd5 Re8 37. Re5 Rd8 38. Rd5 1/2-1/2
+
+[Event "Chess Classic"]
+[Site "London, United Kingdom"]
+[Date "2010.12.15"]
+[Round "7"]
+[White "Nakamura, Hikaru"]
+[Black "Adams, Michael"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[WhiteElo "2741"]
+[BlackElo "2723"]
+[PlyCount "125"]
+[EventDate "2010.12.07"]
+[EventType "tourn"]
+[EventRounds "7"]
+[EventCountry "ENG"]
+[EventCategory "19"]
+[Source "London, UK"]
+[SourceDate "2010.12.15"]
+[WhiteTeam "US of America"]
+[BlackTeam "England"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ENG"]
+[TimeControl "40/7200:20/3600:900+30"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. Re1 Bd6 13. d3 Bf5 14. Qf3 Qh4
+15. g3 Qh3 16. Bxd5 cxd5 17. a4 Rae8 18. Bd2 Bg4 19. Qxd5 Rd8 20. d4 b4 21. Be3
+bxc3 22. bxc3 Bxg3 23. Qg2 Bc7 24. Qxh3 Bxh3 25. Nd2 Rd6 26. Kh1 Ba5 27. Rac1
+Be6 28. Bf4 Rc6 29. Re3 Rd8 30. Kg2 h6 31. Ne4 Bd5 32. f3 Rc4 33. Nc5 Bb6 34.
+Nxa6 Bxd4 35. Rd3 Bf6 36. Nb4 Bb7 37. Rxd8+ Bxd8 38. Rd1 Ba5 39. Bd2 g5 40. h3
+Rc5 41. Re1 Rf5 42. Re3 h5 43. Nc2 Kf8 44. Nd4 Rd5 45. Bc1 Bb6 46. Ba3+ Kg7 47.
+Re7 Bxd4 48. Rxb7 Bxc3 49. Bc1 Kg6 50. Rb5 Rxb5 51. axb5 Bd4 52. Bd2 Bb6 53.
+Be1 Kf5 54. Bf2 Bxf2 55. Kxf2 Ke6 56. f4 f6 57. b6 Kd7 58. Kf3 Kc6 59. fxg5
+fxg5 60. Ke4 Kxb6 61. Kf5 g4 62. hxg4 hxg4 63. Kxg4 1/2-1/2
+

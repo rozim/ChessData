@@ -1,0 +1,338 @@
+[Event "WCh"]
+[Site "Elista RUS"]
+[Date "2006.09.23"]
+[Round "1"]
+[White "Kramnik,V"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[EventDate "2006.09.23"]
+[ECO "E04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 Bb4+ 6. Bd2 a5 7. Qc2 Bxd2+
+8. Qxd2 c6 9. a4 b5 10. axb5 cxb5 11. Qg5 O-O 12. Qxb5 Ba6 13. Qa4 Qb6 14.
+O-O Qxb2 15. Nbd2 Bb5 16. Nxc4 Bxa4 17. Nxb2 Bb5 18. Ne5 Ra7 19. Bf3 Nbd7
+20. Nec4 Rb8 21. Rfb1 g5 22. e3 g4 23. Bd1 Bc6 24. Rc1 Be4 25. Na4 Rb4 26.
+Nd6 Bf3 27. Bxf3 gxf3 28. Nc8 Ra8 29. Ne7+ Kg7 30. Nc6 Rb3 31. Nc5 Rb5 32.
+h3 Nxc5 33. Rxc5 Rb2 34. Rg5+ Kh6 35. Rgxa5 Rxa5 36. Nxa5 Ne4 37. Rf1 Nd2
+38. Rc1 Ne4 39. Rf1 f6 40. Nc6 Nd2 41. Rd1 Ne4 42. Rf1 Kg6 43. Nd8 Rb6 44.
+Rc1 h5 45. Ra1 h4 46. gxh4 Kh5 47. Ra2 Kxh4 48. Kh2 Kh5 49. Rc2 Kh6 50. Ra2
+Kg6 51. Rc2 Kf5 52. Ra2 Rb5 53. Nc6 Rb7 54. Ra5+ Kg6 55. Ra2 Kh5 56. d5 e5
+57. Ra4 f5 58. Nxe5 Rb2 59. Nd3 Rb7 60. Rd4 Rb6 61. d6 Nxd6 62. Kg3 Ne4+
+63. Kxf3 Kg5 64. h4+ Kf6 65. Rd5 Nc3 66. Rd8 Rb1 67. Rf8+ Ke6 68. Nf4+ Ke5
+69. Re8+ Kf6 70. Nh5+ Kg6 71. Ng3 Rb2 72. h5+ Kf7 73. Re5 Nd1 74. Ne2 Kf6
+75. Rd5 1-0
+
+[Event "WCh"]
+[Site "Elista RUS"]
+[Date "2006.09.24"]
+[Round "2"]
+[White "Topalov,V"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[EventDate "2006.09.23"]
+[ECO "D19"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8.
+O-O Nbd7 9. Qe2 Bg6 10. e4 O-O 11. Bd3 Bh5 12. e5 Nd5 13. Nxd5 cxd5 14. Qe3
+Bg6 15. Ng5 Re8 16. f4 Bxd3 17. Qxd3 f5 18. Be3 Nf8 19. Kh1 Rc8 20. g4 Qd7
+21. Rg1 Be7 22. Nf3 Rc4 23. Rg2 fxg4 24. Rxg4 Rxa4 25. Rag1 g6 26. h4 Rb4
+27. h5 Qb5 28. Qc2 Rxb2 29. hxg6 h5 30. g7 hxg4 31. gxf8=Q+ Bxf8 32. Qg6+
+Bg7 33. f5 Re7 34. f6 Qe2 35. Qxg4 Rf7 36. Rc1 Rc2 37. Rxc2 Qd1+ 38. Kg2
+Qxc2+ 39. Kg3 Qe4 40. Bf4 Qf5 41. Qxf5 exf5 42. Bg5 a5 43. Kf4 a4 44. Kxf5
+a3 45. Bc1 Bf8 46. e6 Rc7 47. Bxa3 Bxa3 48. Ke5 Rc1 49. Ng5 Rf1 50. e7 Re1+
+51. Kxd5 Bxe7 52. fxe7 Rxe7 53. Kd6 Re1 54. d5 Kf8 55. Ne6+ Ke8 56. Nc7+
+Kd8 57. Ne6+ Kc8 58. Ke7 Rh1 59. Ng5 b5 60. d6 Rd1 61. Ne6 b4 62. Nc5 Re1+
+63. Kf6 Re3 0-1
+
+[Event "WCh"]
+[Site "Elista RUS"]
+[Date "2006.09.26"]
+[Round "3"]
+[White "Kramnik,V"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[EventDate "2006.09.23"]
+[ECO "E02"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 Nc6 6. Qa4 Bd7 7. Qxc4 Na5
+8. Qd3 c5 9. O-O Bc6 10. Nc3 cxd4 11. Nxd4 Bc5 12. Rd1 Bxg2 13. Qb5+ Nd7
+14. Kxg2 a6 15. Qd3 Rc8 16. Bg5 Be7 17. Bxe7 Qxe7 18. Rac1 Nc4 19. Na4 b5
+20. b3 O-O 21. bxc4 bxa4 22. Nc6 Rxc6 23. Qxd7 Qc5 24. Rc3 g6 25. Rb1 h5
+26. Rb7 e5 27. e4 Rf6 28. Rc2 Qa3 29. Qd1 Rd6 30. Rd2 Rfd8 31. Rd5 Rxd5 32.
+cxd5 Qxa2 33. Qf3 Rf8 34. Qd3 a3 35. Rb3 f5 36. Qxa6 Qxb3 37. Qxg6+ Kh8 38.
+Qh6+ Kg8 1/2-1/2
+
+[Event "WCh"]
+[Site "Elista RUS"]
+[Date "2006.09.27"]
+[Round "4"]
+[White "Topalov,V"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[EventDate "2006.09.23"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bb7 9. a3 b4 10. Ne4 Nxe4 11. Bxe4 bxa3 12. O-O Bd6 13. b3 Nf6 14. Nd2
+Qc7 15. Bf3 Bxh2+ 16. Kh1 Bd6 17. Nc4 Be7 18. Bxa3 O-O 19. Bxe7 Qxe7 20.
+Ra5 Rfd8 21. Kg1 c5 22. Rxc5 Ne4 23. Bxe4 Bxe4 24. Qg4 Bd3 25. Ra1 Rac8 26.
+Raa5 Rb8 27. Qd1 Be4 28. Qa1 Rb7 29. Nd2 Bg6 30. Qc3 h6 31. Ra6 Kh7 32. Nc4
+Be4 33. f3 Bd5 34. Nd2 Rdb8 35. Qd3+ f5 36. Rc3 Qh4 37. Ra1 Qg3 38. Qc2 Rf7
+39. Rf1 Qg6 40. Qd3 Qg3 41. Rfc1 Rfb7 42. Qc2 Qg5 43. Ra1 Qf6 44. Qd3 Rd7
+45. Ra4 Rbd8 46. Rc5 Kg8 47. Nc4 Bxc4 48. Raxc4 f4 49. Rc6 fxe3 50. Qxe3
+Rxd4 51. Rxe6 Qh4 52. Rxd4 Qxd4 53. Re8+ Kh7 54. Qxd4 1/2-1/2
+
+[Event "WCh"]
+[Site "Elista RUS"]
+[Date "2006.09.29"]
+[Round "5"]
+[White "Kramnik,V"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[EventDate "2006.09.23"]
+
+0-1
+
+[Event "WCh"]
+[Site "Elista RUS"]
+[Date "2006.10.02"]
+[Round "6"]
+[White "Topalov,V"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[EventDate "2006.09.23"]
+[ECO "D17"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 c5 8. e4
+Bg6 9. Be3 cxd4 10. Qxd4 Qxd4 11. Bxd4 Nfd7 12. Nxd7 Nxd7 13. Bxc4 a6 14.
+Ke2 Rg8 15. Rhd1 Rc8 16. b3 Bc5 17. a5 Ke7 18. Na4 Bb4 19. Nb6 Nxb6 20.
+Bxb6 f6 21. Rd3 Rc6 22. h4 Rgc8 23. g4 Bc5 24. Rad1 Bxb6 25. Rd7+ Kf8 26.
+axb6 Rxb6 27. R1d6 Rxd6 28. Rxd6 Rc6 29. Rxc6 bxc6 30. b4 e5 31. Bxa6
+1/2-1/2
+
+[Event "WCh"]
+[Site "Elista RUS"]
+[Date "2006.10.04"]
+[Round "7"]
+[White "Topalov,V"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[EventDate "2006.09.23"]
+[ECO "D27"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Bd3 dxc4 6. Bxc4 c5 7. O-O a6 8.
+Bb3 cxd4 9. exd4 Nc6 10. Nc3 Be7 11. Re1 O-O 12. a4 Bd7 13. Ne5 Be8 14. Be3
+Rc8 15. Rc1 Nb4 16. Qf3 Bc6 17. Qh3 Bd5 18. Nxd5 Nbxd5 19. Rcd1 Rc7 20. Bg5
+Qc8 21. Qf3 Rd8 22. h4 h6 23. Bc1 Bb4 24. Rf1 Bd6 25. g3 b6 26. Qe2 Ne7 27.
+Rfe1 Bxe5 28. dxe5 Rxd1 29. Qxd1 Nfd5 30. Bd2 Rc5 31. Qg4 Nf5 32. Qe4 b5
+33. h5 bxa4 34. Qxa4 Rb5 35. Rc1 Qb7 36. Bc2 Nb6 37. Qg4 Rxb2 38. Be4 Qd7
+39. Be1 Nd5 40. Bd3 Nb4 41. Bf1 Nd3 42. Qd1 Nxe5 43. Qxd7 Nxd7 44. Rc8+ Kh7
+45. Rc7 Rb1 46. Rxd7 Rxe1 47. Rxf7 a5 48. Kg2 Kg8 49. Ra7 Re5 50. g4 Nd6
+51. Bd3 Kf8 52. Bg6 Rd5 53. f3 e5 54. Kf2 Rd2+ 55. Ke1 Rd5 56. Ke2 Rb5 57.
+Rd7 Rd5 58. Ra7 Rb5 59. Bd3 Rd5 60. Bg6 1/2-1/2
+
+[Event "WCh"]
+[Site "Elista RUS"]
+[Date "2006.10.05"]
+[Round "8"]
+[White "Kramnik,V"]
+[Black "Topalov,V"]
+[Result "0-1"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[EventDate "2006.09.23"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Be2 Bb7 9. O-O b4 10. Na4 c5 11. dxc5 Nxc5 12. Bb5+ Ncd7 13. Ne5 Qc7 14.
+Qd4 Rd8 15. Bd2 Qa5 16. Bc6 Be7 17. Rfc1 Bxc6 18. Nxc6 Qxa4 19. Nxd8 Bxd8
+20. Qxb4 Qxb4 21. Bxb4 Nd5 22. Bd6 f5 23. Rc8 N5b6 24. Rc6 Be7 25. Rd1 Kf7
+26. Rc7 Ra8 27. Rb7 Ke8 28. Bxe7 Kxe7 29. Rc1 a5 30. Rc6 Nd5 31. h4 h6 32.
+a4 g5 33. hxg5 hxg5 34. Kf1 g4 35. Ke2 N5f6 36. b3 Ne8 37. f3 g3 38. Rc1
+Nef6 39. f4 Kd6 40. Kf3 Nd5 41. Kxg3 Nc5 42. Rg7 Rb8 43. Ra7 Rg8+ 44. Kf3
+Ne4 45. Ra6+ Ke7 46. Rxa5 Rg3+ 47. Ke2 Rxe3+ 48. Kf1 Rxb3 49. Ra7+ Kf6 50.
+Ra8 Nxf4 51. Ra1 Rb2 52. a5 Rf2+ 0-1
+
+[Event "WCh"]
+[Site "Elista RUS"]
+[Date "2006.10.07"]
+[Round "9"]
+[White "Topalov,V"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[EventDate "2006.09.23"]
+[ECO "D12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8.
+a3 Nbd7 9. g3 Be7 10. f4 dxc4 11. Bxc4 O-O 12. e4 b5 13. Be2 b4 14. axb4
+Bxb4 15. Bf3 Qb6 16. O-O e5 17. Be3 Rad8 18. Na4 Qb8 19. Qc2 exf4 20. Bxf4
+Qb7 21. Rad1 Rfe8 22. Bg5 Be7 23. Kh1 Nh7 24. Be3 Bg5 25. Bg1 Nhf8 26. h4
+Be7 27. e5 Nb8 28. Nc3 Bb4 29. Qg2 Qc8 30. Rc1 Bxc3 31. bxc3 Ne6 32. Bg4
+Qc7 33. Rcd1 Nd7 34. Qa2 Nb6 35. Rf3 Nf8 36. Rdf1 Re7 37. Be3 Nh7 38. Rxf7
+Nd5 39. R7f3 1-0
+
+[Event "WCh"]
+[Site "Elista RUS"]
+[Date "2006.10.08"]
+[Round "10"]
+[White "Kramnik,V"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[EventDate "2006.09.23"]
+[ECO "E08"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8.
+Bf4 Nbd7 9. Qc2 a5 10. Rd1 Nh5 11. Bc1 b5 12. cxd5 cxd5 13. e4 dxe4 14.
+Qxe4 Rb8 15. Qe2 Nhf6 16. Bf4 Rb6 17. Ne5 Nd5 18. Bxd5 exd5 19. Nc3 Nf6 20.
+Nxb5 Ba6 21. a4 Ne4 22. Rdc1 Qe8 23. Rc7 Bd8 24. Ra7 f6 25. Nd7 Rf7 26.
+Nxb6 Rxa7 27. Nxd5 Rd7 28. Ndc3 Rxd4 29. Re1 f5 30. Qc2 Rb4 31. Nd5 Rxb5
+32. axb5 Qxb5 33. Nc7 Qc4 34. Qd1 Bxc7 35. Qd7 h6 36. Qxc7 Qb4 37. Qb8+
+Qxb8 38. Bxb8 Nd2 39. Ra1 g5 40. f4 Nb3 41. Ra3 Bc4 42. Bc7 g4 43. Bxa5 1-0
+
+[Event "WCh"]
+[Site "Elista RUS"]
+[Date "2006.10.10"]
+[Round "11"]
+[White "Topalov,V"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[EventDate "2006.09.23"]
+[ECO "D12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8.
+Rb1 Nbd7 9. c5 a5 10. a3 e5 11. b4 axb4 12. axb4 Qc7 13. f4 exf4 14. exf4
+Be7 15. Be2 Nf8 16. O-O Ne6 17. g3 Qd7 18. Qd3 Ne4 19. Nxe4 dxe4 20. Qxe4
+Qxd4+ 21. Qxd4 Nxd4 22. Bc4 O-O 23. Kg2 Ra4 24. Rd1 Rd8 25. Be3 Bf6 26. g4
+Kf8 27. Bf2 Ne6 28. Rxd8+ Bxd8 29. f5 gxf5 30. gxf5 Nf4+ 31. Kf3 Nh5 32.
+Rb3 Bc7 33. h4 Nf6 34. Bd3 Nd7 35. Be4 Ne5+ 36. Kg2 Ra2 37. Bb1 Rd2 38. Kf1
+Ng4 39. Bg1 Bh2 40. Ke1 Rd5 41. Bf2 Ke7 42. h5 Nxf2 43. Kxf2 Kf6 44. Kf3
+Rd4 45. b5 Rc4 46. bxc6 bxc6 47. Rb6 Rxc5 48. Be4 Kg5 49. Rxc6 Ra5 50. Rb6
+Ra3+ 51. Kg2 Bc7 52. Rb7 Rc3 53. Kf2 Kxh5 54. Bd5 f6 55. Ke2 Kg4 56. Be4
+Kf4 57. Bd3 Rc5 58. Rb4+ Kg3 59. Rc4 Re5+ 60. Re4 Ra5 61. Re3+ Kg2 62. Be4+
+Kh2 63. Rb3 Ra2+ 64. Kd3 Bf4 65. Kc4 Re2 66. Kd5 1/2-1/2
+
+[Event "WCh"]
+[Site "Elista RUS"]
+[Date "2006.10.12"]
+[Round "12"]
+[White "Kramnik,V"]
+[Black "Topalov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[EventDate "2006.09.23"]
+[ECO "D12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8.
+g3 Nbd7 9. Bd2 Bb4 10. Qb3 Bxc3 11. Bxc3 Ne4 12. Bg2 Nxc3 13. Qxc3 f5 14.
+O-O Qe7 15. cxd5 exd5 16. b4 Nf6 17. Rfc1 Ne4 18. Qb2 O-O 19. b5 Rac8 20.
+bxc6 bxc6 21. Qe2 g5 22. Rab1 Qd7 23. Rc2 Rf6 24. Rbc1 g4 25. Rb2 Rh6 26.
+Qa6 Rc7 27. Rb8+ Kh7 28. Qa3 Rb7 29. Qf8 Rxb8 30. Qxb8 Qf7 31. Qc8 Qh5 32.
+Kf1 Nd2+ 33. Ke1 Nc4 34. Bf1 Rf6 35. Bxc4 dxc4 36. Rxc4 Qxh2 37. Ke2 Qh1
+38. Rc5 Qb1 39. Qa6 Qb2+ 40. Kf1 Qb1+ 41. Ke2 Qb2+ 42. Kf1 Rh6 43. Qd3 g6
+44. Qb3 Rh1+ 45. Kg2 Rh2+ 46. Kxh2 Qxf2+ 47. Kh1 Qf1+ 1/2-1/2
+
+[Event "WCh Playoffs"]
+[Site "Elista RUS"]
+[Date "2006.10.13"]
+[Round "1"]
+[White "Topalov,V"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[EventDate "2006.10.13"]
+[ECO "D18"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8.
+O-O Nbd7 9. Qe2 O-O 10. e4 Bg6 11. Bd3 Bh5 12. e5 Nd5 13. Nxd5 cxd5 14. Qe3
+Re8 15. Ne1 Rc8 16. f4 Bxe1 17. Rxe1 Bg6 18. Bf1 Rc2 19. b3 Qa5 20. Bb5 Rd8
+21. Re2 Rcc8 22. Bd2 Qb6 23. Rf2 a6 24. Bf1 Rc6 25. b4 Rc2 26. b5 a5 27.
+Bc3 Rxf2 28. Qxf2 Qa7 29. Qd2 Ra8 30. Rc1 Nb6 31. Bb2 Nxa4 32. Ba3 h6 33.
+h3 Be4 34. Kh2 Nb6 35. Bc5 a4 36. Ra1 Nc4 37. Bxc4 b6 38. Qe3 Rc8 39. Bf1
+bxc5 40. dxc5 Qxc5 41. Qxc5 Rxc5 42. b6 Rc6 43. b7 Rb6 44. Ba6 d4 45. Rxa4
+Bxb7 46. Bxb7 Rxb7 47. Rxd4 1/2-1/2
+
+[Event "WCh Playoffs"]
+[Site "Elista RUS"]
+[Date "2006.10.13"]
+[Round "2"]
+[White "Kramnik,V"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[EventDate "2006.10.13"]
+[ECO "D45"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8.
+Be2 b6 9. O-O Bb7 10. Bb2 Re8 11. Rad1 Qe7 12. Rfe1 Rac8 13. Bd3 e5 14. e4
+dxc4 15. Bxc4 b5 16. Bf1 g6 17. Qd2 Rcd8 18. Qg5 a6 19. h3 exd4 20. Nxd4
+Qe5 21. Qxe5 Nxe5 22. Nc2 g5 23. Bc1 h6 24. Be3 c5 25. f3 Bf8 26. Bf2 Bc8
+27. Ne3 Be6 28. Ned5 Bxd5 29. exd5 Ned7 30. Rxe8 Rxe8 31. a4 b4 32. Ne4
+Nxe4 33. fxe4 Nf6 34. d6 Nxe4 35. d7 Rd8 36. Bxa6 f5 37. a5 Bg7 38. Bc4+
+Kf8 39. a6 Nxf2 40. Kxf2 Bd4+ 41. Rxd4 cxd4 42. a7 Ke7 43. Bd5 Kxd7 44.
+a8=Q Rxa8 45. Bxa8 1-0
+
+[Event "WCh Playoffs"]
+[Site "Elista RUS"]
+[Date "2006.10.13"]
+[Round "3"]
+[White "Topalov,V"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteElo "2813"]
+[BlackElo "2743"]
+[EventDate "2006.10.13"]
+[ECO "D12"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Be2 Nbd7 8.
+O-O Bd6 9. g3 dxc4 10. Bxc4 Nb6 11. Be2 O-O 12. Nxg6 hxg6 13. e4 e5 14. f4
+exd4 15. Qxd4 Qe7 16. Kg2 Bc5 17. Qd3 Rad8 18. Qc2 Bd4 19. e5 Nfd5 20. Rf3
+Nxc3 21. bxc3 Bc5 22. Bd2 Rd7 23. Re1 Rfd8 24. Bd3 Qe6 25. Bc1 f5 26. Qe2
+Kf8 27. Rd1 Qe7 28. h4 Rd5 29. Qc2 Nc4 30. Rh1 Na3 31. Qe2 Qd7 32. Rd1 b5
+33. g4 fxg4 34. Rg3 Ke7 35. f5 gxf5 36. Bg5+ Ke8 37. e6 Qd6 38. Bxf5 Rxd1
+39. Bg6+ Kf8 40. e7+ Qxe7 41. Bxe7+ Bxe7 42. Bd3 Ra1 43. Qb2 Rd1 44. Qe2
+Ra1 45. Qxg4 Rxa2+ 46. Kh3 Bf6 47. Qe6 Rd2 48. Bg6 R2d7 49. Rf3 b4 50. h5
+1-0
+
+[Event "WCh Playoffs"]
+[Site "Elista RUS"]
+[Date "2006.10.13"]
+[Round "4"]
+[White "Kramnik,V"]
+[Black "Topalov,V"]
+[Result "1-0"]
+[WhiteElo "2743"]
+[BlackElo "2813"]
+[EventDate "2006.10.13"]
+[ECO "D47"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Be2 Bb7 9. O-O Be7 10. e4 b4 11. e5 bxc3 12. exf6 Bxf6 13. bxc3 c5 14. dxc5
+Nxc5 15. Bb5+ Kf8 16. Qxd8+ Rxd8 17. Ba3 Rc8 18. Nd4 Be7 19. Rfd1 a6 20.
+Bf1 Na4 21. Rab1 Be4 22. Rb3 Bxa3 23. Rxa3 Nc5 24. Nb3 Ke7 25. Rd4 Bg6 26.
+c4 Rc6 27. Nxc5 Rxc5 28. Rxa6 Rb8 29. Rd1 Rb2 30. Ra7+ Kf6 31. Ra1 Rf5 32.
+f3 Re5 33. Ra3 Rc2 34. Rb3 Ra5 35. a4 Ke7 36. Rb5 Ra7 37. a5 Kd6 38. a6 Kc7
+39. c5 Rc3 40. Raa5 Rc1 41. Rb3 Kc6 42. Rb6+ Kc7 43. Kf2 Rc2+ 44. Ke3 Rxc5
+45. Rb7+ 1-0

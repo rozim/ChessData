@@ -1,0 +1,2559 @@
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.23"]
+[Round "1"]
+[White "Nakamura, Hikaru"]
+[Black "Edouard, Romain"]
+[Result "1-0"]
+[ECO "B57"]
+[WhiteElo "2733"]
+[BlackElo "2636"]
+[PlyCount "103"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "US of America"]
+[BlackTeam "France"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "FRA"]
+[TimeControl "1500+10"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nb3 e6 8.
+Bf4 Ne5 9. Be2 Bd7 10. Qd2 Be7 11. f3 O-O 12. g4 Qc7 13. O-O-O Rfd8 14. g5 Nh5
+15. Be3 Nc4 16. Bxc4 Qxc4 17. Ne2 a5 18. Kb1 a4 19. Nbc1 Be8 20. Ng3 f6 21.
+Rhg1 d5 22. gxf6 Bxf6 23. e5 Bxe5 24. Nxh5 Bxh5 25. Rg5 Bxf3 26. Rxe5 Bxd1 27.
+Qxd1 d4 28. Bd2 d3 29. cxd3 Qc7 30. Bc3 a3 31. Qg4 axb2 32. Qxe6+ Qf7 33. Qxf7+
+Kxf7 34. Kxb2 Ra4 35. Rb5 Rd7 36. d4 Ra6 37. Nd3 Re7 38. Ne5+ Ke8 39. Rc5 Ree6
+40. Rc8+ Ke7 41. Rc7+ Kd8 42. Rxg7 Reb6+ 43. Ka1 Rf6 44. Rg2 Rab6 45. Rg1 Ke7
+46. Re1 Rb5 47. d5 Ra6 48. Ng4+ Kd6 49. Nf6 Kc5 50. Rc1 Kc4 51. d6 Ra8 52. d7
+1-0
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.23"]
+[Round "1"]
+[White "Bu Xiangzhi"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "A17"]
+[WhiteElo "2695"]
+[BlackElo "2619"]
+[PlyCount "105"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "China"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "RUS"]
+[TimeControl "1500+10"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. Nc3 O-O 7. Re1 Ne4 8.
+Nxe4 Bxe4 9. d3 Bb7 10. e4 c5 11. d4 cxd4 12. Nxd4 Nc6 13. Nb5 d6 14. Be3 a6
+15. Nc3 Ne5 16. b3 Rb8 17. a4 Qc7 18. Rc1 Nd7 19. h4 h6 20. f4 Rfe8 21. Bf2 Nf8
+22. Qd4 Ba8 23. Red1 Red8 24. Qe3 Nh7 25. Bf3 Bf6 26. Na2 Qc5 27. Qe2 Qc7 28.
+Nb4 Bb7 29. Nd3 Ba8 30. Kg2 Bc6 31. Rc2 Nf8 32. Nb4 Bb7 33. Rdc1 Re8 34. Nd3
+Bc6 35. Ra2 a5 36. g4 g5 37. Qe3 Ng6 38. fxg5 hxg5 39. hxg5 Be7 40. Rh1 e5 41.
+Rh5 Kg7 42. Ra1 Rh8 43. Rah1 Bd7 44. Rxh8 Nxh8 45. g6 Nxg6 46. Qh6+ Kg8 47. g5
+Bc6 48. Be3 b5 49. axb5 Bd7 50. Nf2 a4 51. Ng4 Bxg4 52. Bxg4 axb3 53. Be6 1-0
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.23"]
+[Round "1"]
+[White "Milliet, Sophie"]
+[Black "Nguyen, Ngoc Truongson"]
+[Result "0-1"]
+[ECO "C02"]
+[WhiteElo "2388"]
+[BlackElo "2633"]
+[PlyCount "82"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "France"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "VIE"]
+[TimeControl "1500+10"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Bd3 Bb5 7. dxc5 Bxc5 8. b4
+Be7 9. O-O Bxd3 10. Qxd3 Nd7 11. Na3 Qc7 12. Nb5 Qb8 13. c4 a6 14. Nc3 Nxe5 15.
+Nxe5 Qxe5 16. cxd5 Nf6 17. dxe6 O-O 18. exf7+ Rxf7 19. Bb2 Ng4 20. Qg3 Qxg3 21.
+hxg3 Bxb4 22. Ne4 Re8 23. f3 Ne5 24. Rad1 Nc4 25. Bd4 Rd7 26. Bf2 Red8 27. Rb1
+Ba3 28. g4 b5 29. Bh4 Rc8 30. Rfd1 Rcc7 31. Bg3 Rb7 32. Bf2 Bf8 33. Rdc1 Nd2
+34. Nxd2 Rxd2 35. a4 b4 36. Rc8 Kf7 37. Rc6 b3 38. Be3 Ra2 39. Rb6 Rxb6 40.
+Bxb6 b2 41. Bd4 Bc5 0-1
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.23"]
+[Round "1"]
+[White "Polgar, Judit"]
+[Black "Kosintseva, Nadezhda"]
+[Result "1-0"]
+[ECO "C86"]
+[WhiteElo "2682"]
+[BlackElo "2565"]
+[PlyCount "75"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Hungary"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "RUS"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Qe2 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. Rd1 exd4 11. cxd4 d5 12. e5 Ne4 13. Nc3 Nxc3 14. bxc3 Qd7 15.
+h3 Bf5 16. Nh2 Na5 17. Nf1 Nxb3 18. axb3 a5 19. Ne3 Bg6 20. Ba3 b4 21. Bb2 bxc3
+22. Bxc3 Rfb8 23. Bxa5 Rxb3 24. Bxc7 Rxa1 25. Rxa1 h5 26. Ba5 Bg5 27. Bd2 Rb2
+28. Qe1 Qb5 29. Nf1 Bxd2 30. Nxd2 Qb4 31. Nf3 Qxe1+ 32. Rxe1 Be4 33. Ng5 Bf5
+34. Ra1 Rb1+ 35. Rxb1 Bxb1 36. h4 f6 37. exf6 gxf6 38. Ne6 1-0
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.23"]
+[Round "1"]
+[White "Hammer, Jon Ludvig"]
+[Black "Le Quang, Liem"]
+[Result "0-1"]
+[ECO "D83"]
+[WhiteElo "2633"]
+[BlackElo "2694"]
+[PlyCount "56"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Norway"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "NOR"]
+[BlackTeamCountry "VIE"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 Be6 7. Qb3 c5 8. Qxb7
+Qb6 9. Qxb6 axb6 10. dxc5 bxc5 11. Be5 dxc4 12. Nh3 Nc6 13. Bg3 Nh5 14. Ng5
+Bxc3+ 15. bxc3 Nxg3 16. hxg3 Ne5 17. Rc2 Rfb8 18. Nxe6 Rb1+ 19. Ke2 fxe6 20.
+Rh4 Rd8 21. f4 Nd3 22. Rh1 Kg7 23. g4 Rdb8 24. g3 Re1+ 25. Kf3 Rbb1 26. Kg2
+Red1 27. Bxd3 cxd3 28. Rxd1 dxc2 0-1
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.23"]
+[Round "1"]
+[White "Lahno, Kateryna"]
+[Black "Kosintseva, Tatiana"]
+[Result "1-0"]
+[ECO "D38"]
+[WhiteElo "2539"]
+[BlackElo "2573"]
+[PlyCount "111"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "RUS"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 Nbd7 7. Rc1 h6 8.
+Bh4 c5 9. dxc5 Qa5 10. a3 Bxc3+ 11. Rxc3 Ne4 12. b4 Nxc3 13. Qb3 Qa4 14. Qxc3
+O-O 15. e3 a5 16. b5 Nxc5 17. Qxc5 Be6 18. Qd4 Qxa3 19. Be2 Qc1+ 20. Qd1 Qb2
+21. O-O a4 22. Bg3 f6 23. Nd4 Bf7 24. Bd3 a3 25. Nf5 a2 26. Qg4 g5 27. Nxh6+
+Kg7 28. Qf5 Rh8 29. Nxf7 Kxf7 30. Qg6+ Ke7 31. Qg7+ Ke6 32. f4 gxf4 33. exf4
+Qd4+ 34. Kh1 Qxd3 35. f5+ Qxf5 36. Re1+ Qe4 37. Rxe4+ dxe4 38. Qg4+ Kd5 39.
+Qf5+ Kc4 40. Qxe4+ Kxb5 41. Qd5+ Kb6 42. Qb3+ Kc6 43. Qc4+ Kd7 44. Qf7+ Kc6 45.
+Qxf6+ Kd5 46. Qe5+ Kc4 47. Qe4+ Kb3 48. Qxb7+ Kc2 49. Qe4+ Kb3 50. Qd3+ Kb4 51.
+Bd6+ Ka5 52. Qd5+ Kb6 53. Qc5+ Ka6 54. Qc6+ Ka5 55. Be5 Kb4 56. Qc3+ 1-0
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.23"]
+[Round "1"]
+[White "Zhu Chen"]
+[Black "Gharamian, Tigran"]
+[Result "1/2-1/2"]
+[ECO "E38"]
+[WhiteElo "2480"]
+[BlackElo "2658"]
+[PlyCount "138"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Qatar"]
+[BlackTeam "France"]
+[WhiteTeamCountry "QAT"]
+[BlackTeamCountry "FRA"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. Nf3 Qb6 7. e3 Be7 8.
+Be2 a6 9. b3 Qc7 10. Bb2 d6 11. Rc1 b6 12. O-O Bb7 13. Rfd1 Nbd7 14. Ng5 Rc8
+15. Qb1 Qb8 16. Bf3 Bxf3 17. Nxf3 O-O 18. Nd4 g6 19. h3 Qb7 20. a4 Rfd8 21.
+Nde2 Nc5 22. Ba1 Nce4 23. Qb2 Rc5 24. f3 Nxc3 25. Nxc3 e5 26. Rc2 Rdc8 27. Rcd2
+Bf8 28. Rd3 Qd7 29. Qd2 Qe6 30. e4 Nh5 31. Nd5 b5 32. cxb5 axb5 33. axb5 Rxb5
+34. Bb2 Nf6 35. Nxf6+ Qxf6 36. Ba3 Rc6 37. Rc1 Rxc1+ 38. Qxc1 Qe6 39. Qc3 Rb8
+40. Kh1 Rc8 41. Qd2 Ra8 42. Qc1 h5 43. Qb2 Rb8 44. Qc2 Rc8 45. Qd1 Rb8 46. Rd5
+Rb6 47. Qd3 h4 48. b4 Qc8 49. b5 Rb7 50. Kh2 Rc7 51. b6 Rc6 52. Bxd6 Bxd6 53.
+Rxd6 Kg7 54. Qd5 Rc2 55. Qxe5+ Kh7 56. Qf6 Qc4 57. Qxh4+ Kg7 58. Qf6+ Kh7 59.
+Rd8 Rxg2+ 60. Kxg2 Qe2+ 61. Kg3 Qe1+ 62. Kf4 Qc1+ 63. Ke5 Qc3+ 64. Rd4 Qc5+ 65.
+Kf4 Qc1+ 66. Kg3 Qg1+ 67. Kf4 Qc1+ 68. Kg3 Qg1+ 69. Kf4 Qc1+ 1/2-1/2
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.23"]
+[Round "1"]
+[White "Ivanchuk, Vassily"]
+[Black "Pelletier, Yannick"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2754"]
+[BlackElo "2592"]
+[PlyCount "99"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "Switzerland"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "SUI"]
+[TimeControl "1500+10"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 c5 7. O-O Nxe4 8.
+Bxe4 Nf6 9. Bg5 cxd4 10. Nxd4 Be7 11. Bf3 O-O 12. Qd3 Qb6 13. Rfd1 Rd8 14. Be3
+e5 15. Nf5 Rxd3 16. Nxe7+ Kf8 17. Bxb6 Rxd1+ 18. Rxd1 axb6 19. Nxc8 Rxc8 20. c3
+Rc7 21. Kf1 Ke7 22. g3 Nd7 23. Rd5 Rc5 24. g4 Ke6 25. Rd2 Rc7 26. Ke2 f6 27. h4
+g6 28. Bd5+ Ke7 29. Bg8 Nf8 30. Ke3 Rc8 31. Bd5 Rc7 32. f4 exf4+ 33. Kxf4 Rd7
+34. Re2+ Kd8 35. Bc4 Rd6 36. g5 Nd7 37. Bg8 Nf8 38. a3 Kd7 39. Kg4 f5+ 40. Kf4
+Rd3 41. Ke5 Ke7 42. h5 Rh3 43. h6 Rd3 44. Bd5 Nd7+ 45. Kf4+ Kd6 46. Bg8 Rh3 47.
+Re6+ Kc7 48. Bxh7 Rh4+ 49. Kf3 Nf8 50. Re7+ 1-0
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "2"]
+[White "Polgar, Judit"]
+[Black "Milliet, Sophie"]
+[Result "1-0"]
+[ECO "C63"]
+[WhiteElo "2682"]
+[BlackElo "2388"]
+[PlyCount "117"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Hungary"]
+[BlackTeam "France"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "FRA"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d4 fxe4 5. Nxe5 Nxe5 6. dxe5 c6 7. Be2 Qa5+ 8.
+Bd2 Qxe5 9. Bc3 Qg5 10. Bh5+ Kd8 11. g3 d5 12. Bd4 Nf6 13. Be2 Bd6 14. c4 Rf8
+15. Nc3 Qf5 16. Qd2 Be6 17. O-O-O Ke7 18. Rhf1 Rad8 19. f3 Qg6 20. fxe4 dxe4
+21. Qe3 Qh6 22. Qxh6 gxh6 23. Bxa7 Ra8 24. Be3 Ng4 25. Bxg4 Bxg4 26. Rxf8 Rxf8
+27. Bxh6 Ra8 28. Re1 Kd7 29. Nxe4 Bb4 30. Bd2 Bxd2+ 31. Kxd2 Bf3 32. Nc5+ Kc7
+33. Rf1 Bh5 34. Ne6+ Kd6 35. Nf4 Bg4 36. a3 Ra4 37. h3 Bc8 38. Kc3 b5 39. cxb5
+cxb5 40. Rd1+ Kc6 41. Rd4 Ra7 42. Rd5 Bxh3 43. Rh5 Bg4 44. Rh6+ Kc7 45. Rxh7+
+Kb6 46. Nd5+ Ka6 47. Rxa7+ Kxa7 48. Nf6 Be6 49. g4 Kb6 50. Kb4 Kc6 51. g5 Bf7
+52. Ne4 Bg6 53. Nc3 Bd3 54. b3 Kb6 55. Nd5+ Kc6 56. Nf4 Bh7 57. g6 Bg8 58. Nh5
+Kd6 59. Nf6 1-0
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "2"]
+[White "Karpov, Anatoly"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[ECO "E32"]
+[WhiteElo "2619"]
+[BlackElo "2733"]
+[PlyCount "128"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Russia"]
+[BlackTeam "US of America"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "USA"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d6 7. g3 e5 8. Bg2
+Qe7 9. dxe5 dxe5 10. b4 a5 11. Bb2 Re8 12. b5 Nbd7 13. Nf3 Nb6 14. Qxe5 Be6 15.
+Nd2 Nxc4 16. Nxc4 Bxc4 17. Qxe7 Rxe7 18. e3 Ne4 19. Rc1 Bxb5 20. Bxe4 Rxe4 21.
+Rxc7 Bc6 22. O-O Rd8 23. Bd4 h5 24. h4 Rd5 25. Rb1 Rf5 26. Kf1 Re8 27. Ke2 f6
+28. Rc1 Rd5 29. Kd3 Rb5 30. a4 Rb3+ 31. Rc3 Be4+ 32. Ke2 Rb2+ 33. Ke1 Ra2 34.
+R3c4 Bf3 35. R7c5 Ra8 36. Rf5 Bg4 37. Rfc5 Be6 38. Rc1 Rxa4 39. Rxh5 Rb4 40.
+Rhc5 a4 41. h5 a3 42. h6 a2 43. Rc7 Rxd4 44. Rxg7+ Kh8 45. exd4 a1=Q 46. Rxa1
+Rxa1+ 47. Kd2 b5 48. Rg6 Ra2+ 49. Ke3 Ra3+ 50. Ke4 Ra6 51. d5 Bg8 52. Rg7 Rd6
+53. Kf5 Bh7+ 54. Kf4 Rxd5 55. g4 Rd4+ 56. Kg3 Rd3+ 57. Kf4 Bg8 58. g5 fxg5+ 59.
+Kxg5 Rd5+ 60. Kg6 Rd6+ 61. Kg5 Rb6 62. f4 b4 63. f5 b3 64. f6 b2 0-1
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "2"]
+[White "Kosintseva, Nadezhda"]
+[Black "Edouard, Romain"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2565"]
+[BlackElo "2636"]
+[PlyCount "155"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Russia"]
+[BlackTeam "France"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "FRA"]
+[TimeControl "1500+10"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Ne2 Qb6 8. c3 f6
+9. g3 cxd4 10. Nexd4 Nxd4 11. cxd4 fxe5 12. fxe5 Bb4+ 13. Kf2 Be7 14. Kg2 Nb8
+15. Bd3 Nc6 16. Rf1 Bd7 17. Rf2 O-O-O 18. Be3 Rdf8 19. a3 g5 20. g4 h5 21. h3
+hxg4 22. hxg4 Rh6 23. b4 Rfh8 24. Qd2 a5 25. b5 Na7 26. a4 Kb8 27. Bxg5 Bxg5
+28. Qxg5 Rh3 29. Rc1 Rxf3 30. Rxf3 Qxd4 31. Qg7 Rd8 32. Qe7 Rg8 33. Qd6+ Ka8
+34. Rf8+ Rxf8 35. Qxf8+ Nc8 36. Rxc8+ Bxc8 37. Qxc8+ Ka7 38. Be2 Qxe5 39. Qc5+
+b6 40. Qe7+ Kb8 41. Bf3 Qb2+ 42. Kh3 Qh8+ 43. Qh4 Qc3 44. Qg3+ Kc8 45. Qf4 Kd7
+46. g5 Qh8+ 47. Kg3 Qh7 48. Qc1 Kd6 49. Qc6+ Ke5 50. Qxb6 Kf5 51. Qe3 Qc7+ 52.
+Kg2 Qd8 53. Be2 e5 54. Qf3+ Kxg5 55. Qh5+ Kf4 56. Qg4+ Ke3 57. Qf3+ Kd2 58.
+Qd3+ Kc1 59. Qc3+ Kb1 60. Qxe5 d4 61. Bd3+ Kb2 62. Qe2+ Ka3 63. Bf5 Kxa4 64.
+Qc4+ Ka3 65. Qc5+ Kb2 66. Qc2+ Ka3 67. Qc5+ Kb2 68. b6 Qg5+ 69. Kf3 Qe3+ 70.
+Kg4 Qe2+ 71. Kg5 Qd2+ 72. Kg6 a4 73. Qb5+ Ka3 74. b7 Qg2+ 75. Kf6 Qh2 76. b8=Q
+Qh6+ 77. Bg6 Qh4+ 78. Kf7 1-0
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "2"]
+[White "Nguyen, Ngoc Truongson"]
+[Black "Bu Xiangzhi"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[WhiteElo "2633"]
+[BlackElo "2695"]
+[PlyCount "189"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Vietnam"]
+[BlackTeam "China"]
+[WhiteTeamCountry "VIE"]
+[BlackTeamCountry "CHN"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. Bf4 e6 3. e3 b6 4. Nd2 Bb7 5. Ngf3 Be7 6. Bd3 O-O 7. O-O c5 8. c3
+h6 9. a4 Nc6 10. h3 d6 11. Qe2 a6 12. Bg3 Re8 13. Rfd1 Bf8 14. e4 cxd4 15. Nxd4
+Ne5 16. Bc2 Qc7 17. Kh2 g6 18. Kh1 Bg7 19. Bh2 Rac8 20. Re1 Nfd7 21. f4 Nc6 22.
+N4f3 Ne7 23. Rad1 Red8 24. Nf1 Nc5 25. Ng3 Bc6 26. f5 Bxa4 27. Bxa4 Nxa4 28.
+fxe6 fxe6 29. Nd4 Qd7 30. e5 dxe5 31. Ndf5 exf5 32. Rxd7 Rxd7 33. Nf1 e4 34.
+Qxa6 Nc5 35. Qb5 Rc6 36. Bg1 Nd3 37. Ra1 Kh7 38. Ra6 f4 39. Rxb6 e3 40. Bxe3
+Rd5 41. Qxd5 Nxd5 42. Rxc6 fxe3 43. Nxe3 Nxe3 44. b4 Nd5 45. b5 Ne5 46. Rd6
+Nxc3 47. b6 Ne4 48. b7 Nxd6 49. b8=Q Ne4 50. Qb7 Ng3+ 51. Kh2 Nf5 52. g4 Nd6
+53. Qe7 Nef7 54. h4 Be5+ 55. Kg2 Kg7 56. Qe6 Ne4 57. h5 gxh5 58. gxh5 Nf6 59.
+Qf5 Kf8 60. Qc8+ Ne8 61. Qe6 Bf6 62. Qf5 Bg5 63. Qc8 Nfd6 64. Qe6 Nf7 65. Qc8
+Bd8 66. Qd7 Ng7 67. Qc8 Kg8 68. Qg4 Bg5 69. Qc8+ Nd8 70. Qc4+ Nde6 71. Kf3 Kf7
+72. Kg4 Ne8 73. Qa2 Ke7 74. Qa3+ Kf7 75. Qa2 Be7 76. Qb3 Bd6 77. Kf5 N8g7+ 78.
+Kg4 Bf4 79. Qb7+ Bc7 80. Qb3 Bd8 81. Qa2 Bg5 82. Qa7+ Kf8 83. Qa8+ Nd8 84. Qa3+
+Be7 85. Qa6 Nf7 86. Qa8+ Bd8 87. Qa3+ Kg8 88. Qa2 Ne8 89. Kf5 Kg7 90. Qg2+ Bg5
+91. Qb2+ Nf6 92. Ke6 Nd8+ 93. Ke7 Nc6+ 94. Kd6 Nd8 95. Ke7 1/2-1/2
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "2"]
+[White "Gharamian, Tigran"]
+[Black "Lahno, Kateryna"]
+[Result "1/2-1/2"]
+[ECO "B72"]
+[WhiteElo "2658"]
+[BlackElo "2539"]
+[PlyCount "70"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "France"]
+[BlackTeam "Ukraine"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "UKR"]
+[TimeControl "1500+10"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Be2 Nc6 8.
+Qd2 O-O 9. O-O-O Ng4 10. Bxg4 Bxg4 11. f3 Bd7 12. Kb1 Re8 13. h4 Ne5 14. b3 Qa5
+15. h5 Rac8 16. Nce2 Qxd2 17. Bxd2 a6 18. Rh2 Nc6 19. Be3 b5 20. Rdh1 Nxd4 21.
+Bxd4 Bxd4 22. Nxd4 g5 23. Kb2 Rc5 24. g4 Rec8 25. Rd2 Kg7 26. a3 Rc3 27. Rd3
+Rxd3 28. cxd3 e6 29. Re1 h6 30. b4 Rc7 31. Re2 Rc8 32. Re1 Rc7 33. Re2 Rc8 34.
+Nb3 Kf8 35. d4 Ke7 1/2-1/2
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "2"]
+[White "Ivanchuk, Vassily"]
+[Black "Zhu Chen"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[WhiteElo "2754"]
+[BlackElo "2480"]
+[PlyCount "99"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "Qatar"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "QAT"]
+[TimeControl "1500+10"]
+
+1. e4 d6 2. g3 c5 3. Bg2 Nc6 4. Ne2 g6 5. c3 e5 6. d4 Bg7 7. Be3 b6 8. Qd2 Ba6
+9. Na3 Nge7 10. d5 Nb8 11. c4 f5 12. f3 Nd7 13. g4 Nf6 14. h3 Bc8 15. O-O-O a6
+16. Kb1 Bd7 17. Ka1 Qc7 18. Nc3 f4 19. Bf2 h5 20. g5 Nh7 21. h4 O-O 22. Rb1 a5
+23. Nab5 Qb8 24. Bh3 Bxh3 25. Rxh3 Rd8 26. Rhh1 Nf8 27. Qd1 Nc8 28. Qf1 Na7 29.
+Na3 Qc8 30. b3 Rb8 31. Be1 Kf7 32. Bd2 Qd7 33. Kb2 Rb7 34. Qe2 Qc8 35. Qf1 Nd7
+36. Qh3 Nb8 37. Qxc8 Rxc8 38. Rhd1 Na6 39. Na4 Bf8 40. Be1 Be7 41. Nc3 Ke8 42.
+Ra1 Bd8 43. Nab1 Nc7 44. Nd2 Kd7 45. Rab1 Ra8 46. Kc2 b5 47. cxb5 Naxb5 48.
+Nxb5 Nxb5 49. Kd3 Na3 50. Rb2 1/2-1/2
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "2"]
+[White "Pelletier, Yannick"]
+[Black "Le Quang, Liem"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2592"]
+[BlackElo "2694"]
+[PlyCount "115"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Switzerland"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "SUI"]
+[BlackTeamCountry "VIE"]
+[TimeControl "1500+10"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 c5 4. Bg2 Bb7 5. O-O g6 6. Nc3 Bg7 7. d4 cxd4 8. Qxd4
+d6 9. Be3 Nbd7 10. Rac1 Rc8 11. b3 a6 12. Bh3 O-O 13. Qh4 Rc7 14. Rfd1 Qb8 15.
+Nd5 Nxd5 16. cxd5 Nf6 17. Bxb6 Rxc1 18. Rxc1 Nxd5 19. Ba5 Bc8 20. Bxc8 Rxc8 21.
+Rc4 e6 22. Qe4 Bc3 23. Bxc3 Nxc3 24. Rxc8+ Qxc8 25. Qc2 Qc5 26. e3 e5 27. h4
+Kg7 28. Ne1 Qa5 29. Qd2 Qc7 30. Qc2 Qa5 31. Qd2 Qc7 32. Qc2 d5 33. Nf3 f6 34.
+Kh2 Qc5 35. Nd2 Ne4 36. Qxc5 Nxc5 37. Kg2 Kf7 38. Kf3 Ke6 39. Ke2 a5 40. f3 f5
+41. e4 d4 42. g4 fxg4 43. fxg4 h6 44. Kf3 Nd3 45. Nc4 Nc1 46. Nxa5 Nxa2 47. Nc4
+Nb4 48. Nb2 Na6 49. Nd3 Kd6 50. Nb2 g5 51. hxg5 hxg5 52. Nc4+ Ke6 53. Ke2 Nc5
+54. Nd2 Kd6 55. Nc4+ Ke6 56. Nd2 Kd6 57. Nc4+ Ke6 58. Nd2 1/2-1/2
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "2"]
+[White "Kosintseva, Tatiana"]
+[Black "Hammer, Jon Ludvig"]
+[Result "0-1"]
+[ECO "C95"]
+[WhiteElo "2573"]
+[BlackElo "2633"]
+[PlyCount "164"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Russia"]
+[BlackTeam "Norway"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "NOR"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15.
+b3 Bg7 16. d5 Rc8 17. c4 c6 18. Bg5 h6 19. Be3 Nb6 20. Qe2 cxd5 21. cxd5 Nbxd5
+22. exd5 Nxd5 23. Rac1 f5 24. Nxf5 gxf5 25. Bxf5 Rxc1 26. Bxc1 Qf6 27. Qe4 Ba8
+28. Qg4 Ne7 29. Be6+ Kf8 30. Bg5 hxg5 31. Nxg5 Qg6 32. Bf7 Qxf7 33. Nxf7 Kxf7
+34. Qd7 Bf6 35. Qxd6 Rg8 36. g3 Nf5 37. Qd7+ Kg6 38. Qe6 Rd8 39. Rxe5 Nd4 40.
+Qg4+ Kf7 41. Qh5+ Kf8 42. Qh6+ Bg7 43. Qf4+ Kg8 44. Qxd4 Rxd4 45. Re8+ Kf7 46.
+Rxa8 Rd2 47. Ra7+ Kg8 48. Rxa6 Bd4 49. b4 Bxf2+ 50. Kf1 Kf7 51. Ra5 Bxg3 52.
+Rxb5 Rxa2 53. Rg5 Bd6 54. Rg2 Ra1+ 55. Kf2 Bxb4 56. Kf3 Ra3+ 57. Kg4 Be7 58.
+Re2 Bf6 59. Re4 Kg6 60. h4 Ra1 61. h5+ Kf7 62. Re3 Ra4+ 63. Kf5 Ra5+ 64. Kg4
+Rg5+ 65. Kf4 Rxh5 66. Re4 Kg6 67. Kg4 Rh1 68. Kf3 Bg5 69. Rc4 Bf6 70. Re4 Kf5
+71. Rf4+ Ke5 72. Re4+ Kd5 73. Ra4 Rh3+ 74. Kg2 Rb3 75. Ra2 Bd4 76. Kf1 Ke4 77.
+Re2+ Be3 78. Rc2 Ra3 79. Ke2 Bd4 80. Kf1 Kd3 81. Re2 Ra6 82. Re8 Rg6 0-1
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "3"]
+[White "Nakamura, Hikaru"]
+[Black "Nguyen, Ngoc Truongson"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "2733"]
+[BlackElo "2633"]
+[PlyCount "59"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "US of America"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "VIE"]
+[TimeControl "1500+10"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. e5 f6 5. Bb5 Bd7 6. Nf3 Qe7 7. O-O O-O-O 8. Re1
+Qf7 9. a3 Nge7 10. b4 Ng6 11. Bd3 fxe5 12. dxe5 Be7 13. b5 Na5 14. Bd2 b6 15.
+Ne2 Bc5 16. Bb4 Nh4 17. Ned4 Nxf3+ 18. Nxf3 Qe7 19. c3 Rdf8 20. Nd4 Rf4 21. Ra2
+Rhf8 22. Qa4 Kd8 23. g3 R4f7 24. Bxh7 g5 25. Bd3 g4 26. Bxc5 Qxc5 27. Qb4 c6
+28. a4 Qe7 29. bxc6 Bxc6 30. Qxa5 1-0
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "3"]
+[White "Edouard, Romain"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2636"]
+[BlackElo "2619"]
+[PlyCount "59"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "France"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "RUS"]
+[TimeControl "1500+10"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 c6 8. Bd3
+b6 9. b4 a5 10. a3 Bb7 11. O-O Qc8 12. Na4 b5 13. Nc3 Nh5 14. Bg5 Bd8 15. Bxd8
+Qxd8 16. Ne5 g6 17. Be2 Ng7 18. e4 Nxe5 19. dxe5 d4 20. Na2 g5 21. Qd2 f6 22.
+f4 gxf4 23. Rxf4 axb4 24. Nxb4 fxe5 25. Rg4 Qf6 26. Nd3 Bc8 27. Rf1 Qe7 28. Qh6
+Rxf1+ 29. Bxf1 Rxa3 30. Nxe5 {game incomplete} 1-0
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "3"]
+[White "Bu Xiangzhi"]
+[Black "Polgar, Judit"]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2695"]
+[BlackElo "2682"]
+[PlyCount "149"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "China"]
+[BlackTeam "Hungary"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "HUN"]
+[TimeControl "1500+10"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 c5 4. Bg2 Bb7 5. O-O g6 6. d4 cxd4 7. Qxd4 Bg7 8. Nc3
+d6 9. Rd1 Nbd7 10. Be3 Rc8 11. Rac1 Nc5 12. b3 Ne6 13. Qh4 h6 14. Nd5 g5 15.
+Nxf6+ Bxf6 16. Qh3 Qd7 17. Qf5 Nc5 18. Qc2 Be4 19. Qd2 Qb7 20. Bh3 Rd8 21. Nd4
+Rg8 22. b4 Bh7 23. f3 Nd7 24. Bg2 Rc8 25. Nb5 Bf5 26. Qxd6 Bb2 27. Qxh6 Bxc1
+28. Rxc1 Rc6 29. f4 Rxh6 30. Bxb7 Rgh8 31. Nd4 Bg4 32. Nf3 Re6 33. Bd4 f6 34.
+e3 gxf4 35. gxf4 Kd8 36. Nd2 Nb8 37. Bd5 Rd6 38. Ne4 Rxd5 39. cxd5 Bf3 40. Nc3
+Rh5 41. e4 Nd7 42. Kf2 Rh3 43. e5 fxe5 44. fxe5 Bh5 45. e6 Rxh2+ 46. Kg3 Rd2
+47. Nb5 Rd3+ 48. Kf2 Nf6 49. Nxa7 Ne4+ 50. Ke1 Nd6 51. Bxb6+ Ke8 52. Nb5 Kf8
+53. Nxd6 exd6 54. Rc8+ Be8 55. a4 Rxd5 56. a5 Re5+ 57. Kd2 Rd5+ 58. Kc3 Rd1 59.
+Be3 Ra1 60. Bh6+ Ke7 61. Bg5+ Kf8 62. Kb2 Ra4 63. Kb3 Ra1 64. Bf6 Rf1 65. Bc3
+Ke7 66. a6 Rf8 67. Ka3 Bb5 68. Rxf8 Kxf8 69. a7 Bc6 70. b5 Bb7 71. Bf6 Ke8 72.
+Kb4 Ba8 73. Ka5 d5 74. Kb6 d4 75. Bxd4 1-0
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "3"]
+[White "Milliet, Sophie"]
+[Black "Kosintseva, Nadezhda"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteElo "2388"]
+[BlackElo "2565"]
+[PlyCount "146"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "France"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "RUS"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. d3 Nf6 5. Nbd2 Be7 6. Be2 O-O 7. b4 a6 8. Bb2
+Bg4 9. O-O Bxf3 10. Bxf3 d4 11. cxd4 Nxd4 12. a3 c5 13. Bxd4 cxd4 14. Nc4 Bd6
+15. Bg4 Bc7 16. Bh3 Qe7 17. Qc2 b5 18. Nd2 a5 19. Qc5 Qxc5 20. bxc5 a4 21. Rab1
+Rfb8 22. Rfc1 Kf8 23. Kf1 Ke7 24. Ke2 Ne8 25. Rc2 Ba5 26. g3 Nc7 27. f4 Bxd2
+28. Kxd2 f6 29. Rcc1 Na6 30. Rb2 Ra7 31. Rbc2 Rc7 32. c6 Rb6 33. Bd7 b4 34.
+axb4 Rxb4 35. Rc4 Rb2+ 36. R1c2 Rxc2+ 37. Kxc2 Nb8 38. fxe5 fxe5 39. Bf5 g6 40.
+Bg4 Rxc6 41. Rxc6 Nxc6 42. Kb2 Nb4 43. Be2 Kd6 44. Ka3 Kc5 45. Kxa4 g5 46. Kb3
+Nc6 47. Bg4 h6 48. Be2 Na7 49. Bg4 Nb5 50. Bh5 Nc7 51. Bg4 Ne8 52. Kc2 Kb4 53.
+Kd2 Nd6 54. Bd1 Nb7 55. Bh5 Nc5 56. Bd1 Ka3 57. Kc2 Na6 58. Bg4 Nb4+ 59. Kd2
+Kb2 60. Be6 Nc2 61. Ke2 Kc3 62. Bc4 Na3 63. Ba6 Nb1 64. h4 Nd2 65. hxg5 hxg5
+66. Bb5 Nb3 67. Kf3 Nc1 68. Kg4 Nxd3 69. Kxg5 Nc1 70. Kf5 d3 71. Bxd3 Nxd3 72.
+g4 Kd4 73. g5 Nf4 0-1
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "3"]
+[White "Zhu Chen"]
+[Black "Pelletier, Yannick"]
+[Result "0-1"]
+[ECO "E36"]
+[WhiteElo "2480"]
+[BlackElo "2592"]
+[PlyCount "76"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Qatar"]
+[BlackTeam "Switzerland"]
+[WhiteTeamCountry "QAT"]
+[BlackTeamCountry "SUI"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 dxc4 8.
+Qxc4 b6 9. Bg5 Ba6 10. Qc2 h6 11. Bh4 c5 12. dxc5 bxc5 13. Qxc5 Nbd7 14. Qc6
+Nb6 15. Rd1 Rc8 16. Rxd8 Rxc6 17. Rxf8+ Kxf8 18. Nd4 Rc4 19. Bxf6 gxf6 20. Nb3
+Rc2 21. e4 Rxb2 22. Nd2 Ra2 23. Bxa6 Ra1+ 24. Ke2 Rxh1 25. Nf1 Rg1 26. g3 Ke7
+27. Bb5 Kd6 28. Be8 Nc4 29. a4 Ne5 30. Bb5 Kc5 31. Ke3 Nc4+ 32. Ke2 Kb4 33. Ke1
+Nd6 34. Bc6 Kc5 35. Ba8 Kd4 36. e5 fxe5 37. f4 Ne4 38. fxe5 Nd2 0-1
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "3"]
+[White "Lahno, Kateryna"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[ECO "E17"]
+[WhiteElo "2539"]
+[BlackElo "2754"]
+[PlyCount "100"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "Ukraine"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "UKR"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 Ne4 7. Qc2 Nxc3 8.
+bxc3 d6 9. O-O Nd7 10. a4 a5 11. Rd1 Qc8 12. d5 e5 13. Bh3 Qd8 14. e4 Bc8 15.
+Be3 Nf6 16. Bxc8 Qxc8 17. Bg5 Nh5 18. Bxe7 Kxe7 19. Qe2 g6 20. c5 bxc5 21. Nd2
+Nf6 22. Nc4 Qa6 23. Qd3 Nd7 24. Rab1 Rhb8 25. Rxb8 Rxb8 26. Nxe5 Qxd3 27. Nc6+
+Ke8 28. Rxd3 Rb1+ 29. Kg2 Ra1 30. Nxa5 Rxa4 31. Nc6 Rxe4 32. Kf3 Nf6 33. h3 h5
+34. h4 Kd7 35. Nb8+ Kc8 36. Nc6 Ra4 37. Kg2 Kd7 38. Nb8+ Ke8 39. Nc6 Ra2 40. c4
+Ng4 41. Rf3 f5 42. Kg1 Rc2 43. Rf4 Ne5 44. Na5 Rc1+ 45. Kh2 Kd7 46. g4 hxg4 47.
+h5 Nf3+ 48. Rxf3 gxf3 49. hxg6 Ke7 50. Kg3 Kf6 0-1
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "3"]
+[White "Le Quang, Liem"]
+[Black "Kosintseva, Tatiana"]
+[Result "1-0"]
+[ECO "A29"]
+[WhiteElo "2694"]
+[BlackElo "2573"]
+[PlyCount "117"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Vietnam"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "VIE"]
+[BlackTeamCountry "RUS"]
+[TimeControl "1500+10"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8.
+d3 O-O 9. Be3 Be6 10. Rc1 f6 11. d4 exd4 12. Nxd4 Nxd4 13. Bxd4 c6 14. Ne4 Rf7
+15. e3 Bf8 16. Qc2 Qc8 17. Rfd1 Bf5 18. Bc5 Qe6 19. Bxf8 Raxf8 20. Qb3 Qxb3 21.
+axb3 Bxe4 22. Bxe4 f5 23. Bd3 g6 24. Ra1 a6 25. Bc4 Nxc4 26. bxc4 Re8 27. Rd4
+Kg7 28. Kg2 Kf6 29. Kf3 Re5 30. Rad1 Rfe7 31. Rd6+ Kf7 32. h4 h5 33. b3 Re4 34.
+Rd8 Kg7 35. Rc8 R4e5 36. Rdd8 Ra5 37. Rg8+ Kf6 38. Rcf8+ Rf7 39. Rd8 Ra3 40.
+Kf4 Rxb3 41. Rd6+ Ke7 42. Rgd8 Ra3 43. Kg5 f4 44. gxf4 Ra1 45. c5 Rg1+ 46. Kh6
+Rf5 47. R8d7+ Ke8 48. Rxb7 Rxc5 49. Ra7 a5 50. Re6+ Kd8 51. Rf6 Ke8 52. Kg7 Rf5
+53. Rxc6 Kd8 54. Rxg6 Rd1 55. Rg5 Rxg5+ 56. fxg5 Rd7+ 57. Rxd7+ Kxd7 58. g6 a4
+59. Kh7 1-0
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.24"]
+[Round "3"]
+[White "Hammer, Jon Ludvig"]
+[Black "Gharamian, Tigran"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2633"]
+[BlackElo "2658"]
+[PlyCount "145"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Norway"]
+[BlackTeam "France"]
+[WhiteTeamCountry "NOR"]
+[BlackTeamCountry "FRA"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 Bb4+ 6. Bd2 c5 7. O-O O-O 8.
+dxc5 Bxc5 9. Qc2 Nbd7 10. Qxc4 b5 11. Qxb5 Rb8 12. Qc4 Bb7 13. Qc1 Qb6 14. Nc3
+Rfc8 15. Qe1 Qxb2 16. Na4 Qa3 17. Nxc5 Nxc5 18. Bf4 Ra8 19. Qc1 Qa6 20. Qe1 Bd5
+21. Be5 Nce4 22. Nd2 Rc2 23. Nxe4 Bxe4 24. Bxf6 Bxg2 25. Kxg2 gxf6 26. e4 Qe2
+27. Qxe2 Rxe2 28. Rfe1 Rc2 29. Rec1 Rac8 30. Rxc2 Rxc2 31. Rb1 Rxa2 32. Rb8+
+Kg7 33. Ra8 Ra3 34. g4 h6 35. f3 f5 36. gxf5 exf5 37. e5 f4 38. Kh3 h5 39. Kh4
+Kg6 40. Rg8+ Kf5 41. Rg5+ Ke6 42. Rxh5 Rxf3 43. Kg4 Rf1 44. Rh6+ Kxe5 45. Ra6
+f5+ 46. Kh3 Rg1 47. Ra5+ Kf6 48. Ra6+ Ke5 49. Ra5+ Ke4 50. Ra4+ Kd3 51. Ra3+
+Kd4 52. Ra4+ Kd3 53. Ra3+ Kc4 54. Rxa7 f3 55. Ra4+ Kd3 56. Ra3+ Ke4 57. Ra4+
+Ke3 58. Ra3+ Kf4 59. Ra4+ Kg5 60. Ra2 Kf4 61. Ra4+ Ke5 62. Ra5+ Kf6 63. Ra6+
+Kg7 64. Ra7+ Kg6 65. Ra6+ Kh5 66. Ra2 Kg5 67. Rb2 Kf4 68. Rb4+ Ke3 69. Rb3+ Kf4
+70. Rb4+ Kg5 71. Rb2 Re1 72. Kg3 Re3 73. Rb5 1/2-1/2
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "4"]
+[White "Milliet, Sophie"]
+[Black "Bu Xiangzhi"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2388"]
+[BlackElo "2695"]
+[PlyCount "90"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "France"]
+[BlackTeam "China"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "CHN"]
+[TimeControl "1500+10"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bg4 6. Be2 cxd4 7. cxd4 e6 8.
+Nc3 Qa5 9. h3 Bh5 10. d5 exd5 11. Nd4 Bxe2 12. Qxe2+ Be7 13. Nxc6 bxc6 14. O-O
+Kf8 15. Re1 Bf6 16. Bf4 g6 17. Qg4 Rd8 18. Qg3 Qb4 19. Rab1 Kg7 20. a3 Qb3 21.
+Bd6 h5 22. Bc5 Qb8 23. Qd3 Nh6 24. b4 Qf4 25. Ne2 Qc4 26. Qxc4 dxc4 27. Rec1
+Rhe8 28. Ng3 c3 29. f3 Rd2 30. Ne4 Rxe4 31. fxe4 c2 32. Bxa7 cxb1=Q 33. Rxb1
+Ra2 34. Rb3 Be5 35. Bc5 f5 36. exf5 Nxf5 37. b5 cxb5 38. Rxb5 Bd4+ 39. Bxd4+
+Nxd4 40. Rb7+ Kf6 41. Ra7 Ne2+ 42. Kf2 Nf4+ 43. Kf3 Nxg2 44. a4 Kg5 45. a5 Kh4
+0-1
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "4"]
+[White "Kosintseva, Nadezhda"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "C66"]
+[WhiteElo "2565"]
+[BlackElo "2619"]
+[PlyCount "118"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Russia"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "RUS"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Bd7 6. c4 g6 7. Nc3 Bg7 8. h3
+O-O 9. Nd5 Nb8 10. Bd2 Nxd5 11. Bxd7 Nb6 12. Ba4 Nxa4 13. Qxa4 Nd7 14. b4 a6
+15. Qb3 Re8 16. a4 Nf8 17. a5 Ne6 18. Be3 h5 19. c5 c6 20. cxd6 Qxd6 21. Rfd1
+Rad8 22. Rac1 Rd7 23. Rc4 Qb8 24. Rcc1 Qd8 25. Qc3 Qf6 26. Nd2 Nd4 27. Bxd4
+Rxd4 28. Nb3 Rdd8 29. Nc5 Re7 30. Re1 Bh6 31. Rcd1 Qd6 32. Nb3 Bg7 33. Re3 Red7
+34. Rf3 Qe7 35. Re3 Rd4 36. Nc5 Bf8 37. Rb1 Qc7 38. Kf1 Bd6 39. Rf3 Bxc5 40.
+bxc5 R8d7 41. Kg1 Qd8 42. Rb6 Qe7 43. g3 h4 44. g4 Kg7 45. Kg2 Qd8 46. Qb2 Qe7
+47. Qc3 Qe6 48. Qb2 Rxd3 49. Rxd3 Rxd3 50. Rxb7 Qf6 51. Qe2 Ra3 52. Rd7 Qf4 53.
+Rd3 Rxa5 54. Re3 Ra4 55. Qc2 Rd4 56. Qa2 Rxe4 57. Rf3 Ra4 58. Qb3 Qc4 59. Qb2
+Qd5 0-1
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "4"]
+[White "Nguyen, Ngoc Truongson"]
+[Black "Edouard, Romain"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[WhiteElo "2633"]
+[BlackElo "2636"]
+[PlyCount "161"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Vietnam"]
+[BlackTeam "France"]
+[WhiteTeamCountry "VIE"]
+[BlackTeamCountry "FRA"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nf3 O-O 5. Be2 d6 6. h3 Nbd7 7. O-O b6 8. c4
+Bb7 9. Nc3 Ne4 10. Nxe4 Bxe4 11. Bh2 e6 12. Qa4 Qe7 13. Nd2 Bb7 14. Bf3 Bxf3
+15. Nxf3 e5 16. Qc6 Rac8 17. Rac1 a5 18. a3 Qe8 19. b4 axb4 20. axb4 exd4 21.
+Nxd4 Be5 22. Rc2 Bxh2+ 23. Kxh2 Ne5 24. Qxe8 Rfxe8 25. c5 bxc5 26. bxc5 dxc5
+27. Rxc5 Nd7 28. Rc2 c5 29. Rfc1 Rb8 30. Nf3 Kf8 31. Rd1 Rb7 32. h4 Rc7 33.
+Rdc1 Rec8 34. Ng5 Nf6 35. Rc4 h6 36. Nf3 h5 37. Ne5 Ke7 38. Nd3 Nd7 39. e4 Kd6
+40. Rb1 Ne5 41. Nxe5 Kxe5 42. Rd1 Ke6 43. Rd5 f5 44. f3 fxe4 45. fxe4 Rd7 46.
+Rg5 Kf7 47. Kg3 Rd4 48. Rxd4 cxd4 49. Rd5 Rc4 50. Kf4 Ke6 51. g3 Ra4 52. Re5+
+Kf6 53. Rd5 Ke6 54. Rb5 d3 55. Rb6+ Ke7 56. Ke3 d2 57. Kxd2 Rxe4 58. Rxg6 Re5
+59. Kd3 Kf7 60. Rd6 Kg7 61. Kd4 Re1 62. Rc6 Rg1 63. Rc3 Kg6 64. Ke4 Re1+ 65.
+Kf3 Rf1+ 66. Ke2 Rf5 67. Rc6+ Rf6 68. Rc4 Rf8 69. Ke3 Rf1 70. Rc6+ Kf5 71. Rc4
+Re1+ 72. Kf3 Rf1+ 73. Kg2 Ra1 74. Rc5+ Kg6 75. Kf3 Ra3+ 76. Kf4 Ra4+ 77. Ke5
+Rg4 78. Rc3 Kg7 79. Kf5 Kh7 80. Ra3 Kh6 81. Kf6 1/2-1/2
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "4"]
+[White "Polgar, Judit"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[ECO "C92"]
+[WhiteElo "2682"]
+[BlackElo "2733"]
+[PlyCount "226"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Hungary"]
+[BlackTeam "US of America"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "USA"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 a5 10. d4 a4 11. Bc2 Bd7 12. Nbd2 Re8 13. Nf1 Bf8 14. Ng3 h6 15. Bd2
+Qc8 16. Bd3 Qb7 17. Qc2 g6 18. b4 Bg7 19. a3 Rac8 20. Rac1 Kh7 21. Be3 Ng8 22.
+Qe2 Rb8 23. h4 Kh8 24. dxe5 Bg4 25. exd6 cxd6 26. Qd1 Qe7 27. h5 gxh5 28. Nf5
+Qf6 29. Nxg7 Qxg7 30. Be2 Ne5 31. Nxe5 dxe5 32. Bxg4 hxg4 33. c4 bxc4 34. Rxc4
+g3 35. Qh5 gxf2+ 36. Bxf2 Nf6 37. Qf3 Re6 38. Rec1 Qg6 39. Qf5 Kg7 40. Rd1 Ng4
+41. Rd7 Nxf2 42. Qxg6+ Rxg6 43. Kxf2 Rbb6 44. Rc3 Rbd6 45. Rxd6 Rxd6 46. b5
+Rd2+ 47. Kg1 Rb2 48. Rc4 Rxb5 49. Rxa4 Rb2 50. Kf1 Kg6 51. Rb4 Ra2 52. Rb3 Kg5
+53. Rf3 f6 54. Rf5+ Kg6 55. Rf3 h5 56. Rg3+ Kh6 57. Rf3 Kg5 58. Rf5+ Kg6 59.
+Rf3 Rc2 60. Rg3+ Kf7 61. Rh3 Kg6 62. Rg3+ Kh6 63. Rf3 Kg5 64. Rg3+ Kh6 65. Rf3
+Kg7 66. Rg3+ Kf7 67. Rh3 Rc4 68. Re3 h4 69. Kf2 Kg6 70. Kf3 Kg5 71. Rb3 Rc1 72.
+Rb8 Rc3+ 73. Kf2 Rxa3 74. Rh8 Kg4 75. Rh6 Ra2+ 76. Kg1 Kg5 77. Rh8 Ra4 78. Rg8+
+Kf4 79. Rh8 Rxe4 80. Rxh4+ Kf5 81. Rh8 Rf4 82. Ra8 Rb4 83. Ra6 Rb2 84. Kh2 Kg5
+85. Re6 Rb5 86. Kg3 f5 87. Re8 Rb3+ 88. Kf2 Kf4 89. Ra8 Rb4 90. Ra2 e4 91. Ra3
+Rb2+ 92. Kf1 e3 93. Ra8 Rf2+ 94. Kg1 Rd2 95. Kf1 Ke4 96. Ra4+ Rd4 97. Ra2 f4
+98. Ke2 Rb4 99. Rc2 Rb1 100. Rc4+ Kf5 101. Rc8 Rb2+ 102. Kf1 Rf2+ 103. Kg1 Ke4
+104. Ra8 Rb2 105. Kf1 Kd3 106. Rd8+ Kc3 107. Rd7 Rf2+ 108. Kg1 Rd2 109. Re7
+Rd1+ 110. Kh2 Kd2 111. Rd7+ Ke1 112. Rf7 e2 113. Rxf4 Kd2 0-1
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "4"]
+[White "Gharamian, Tigran"]
+[Black "Le Quang, Liem"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2658"]
+[BlackElo "2694"]
+[PlyCount "90"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "France"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "VIE"]
+[TimeControl "1500+10"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Qd2
+Nbd7 9. O-O-O Rc8 10. f4 Be7 11. Kb1 b5 12. h3 Qc7 13. f5 Bc4 14. g4 h6 15. Rg1
+Bxf1 16. Rgxf1 Qc4 17. Qd3 b4 18. Nd5 Nxd5 19. Qxc4 Rxc4 20. exd5 Nf6 21. Na5
+Re4 22. Bf2 Rf4 23. Nc6 Kd7 24. Bh4 Rxf1 25. Rxf1 Nxd5 26. Nxe7 Nxe7 27. f6
+gxf6 28. Rxf6 Rh7 29. Be1 Nd5 30. Rf5 Ke6 31. Bd2 Nf6 32. Bxb4 h5 33. b3 hxg4
+34. hxg4 Nxg4 35. Rg5 Ne3 36. c4 Rh1+ 37. Kb2 Rh2+ 38. Kb1 d5 39. cxd5+ Nxd5
+40. Ba5 e4 41. Rg8 f5 42. Re8+ Kd6 43. Ra8 f4 44. Rxa6+ Ke5 45. Ra8 f3 0-1
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "4"]
+[White "Pelletier, Yannick"]
+[Black "Kosintseva, Tatiana"]
+[Result "1/2-1/2"]
+[ECO "A11"]
+[WhiteElo "2592"]
+[BlackElo "2573"]
+[PlyCount "84"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Switzerland"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "SUI"]
+[BlackTeamCountry "RUS"]
+[TimeControl "1500+10"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. c4 e6 5. O-O Nf6 6. d3 Nbd7 7. cxd5 cxd5 8.
+Qb3 Nc5 9. Qb5+ Qd7 10. Nc3 a6 11. Qxd7+ Ncxd7 12. Bf4 Be7 13. Rac1 O-O 14. h3
+Bxf3 15. Bxf3 Rfc8 16. g4 h6 17. e4 e5 18. Bg3 d4 19. Nd5 Nxd5 20. exd5 Bd6 21.
+Be4 Nf6 22. Kg2 Nxe4 23. dxe4 f6 24. Kf3 Kf7 25. Ke2 g5 26. h4 Rxc1 27. Rxc1
+Rg8 28. Rh1 Kg7 29. Kd3 Rc8 30. f3 Rc7 31. Rd1 Rc8 32. Bf2 Kg6 33. Be1 Rc7 34.
+Bd2 Rc8 35. Rh1 Kg7 36. a4 b6 37. b4 Rc7 38. hxg5 hxg5 39. Rb1 Rc8 40. Rh1 Rc7
+41. Rb1 Rc8 42. Rh1 Rc7 1/2-1/2
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "4"]
+[White "Ivanchuk, Vassily"]
+[Black "Hammer, Jon Ludvig"]
+[Result "1-0"]
+[ECO "A14"]
+[WhiteElo "2754"]
+[BlackElo "2633"]
+[PlyCount "75"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "Norway"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "NOR"]
+[TimeControl "1500+10"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. b3 d4 7. e3 c5 8. exd4
+cxd4 9. Re1 Nc6 10. d3 a5 11. Bb2 Qb6 12. Na3 a4 13. Nb5 a3 14. Bc1 Ne8 15. Rb1
+Bd7 16. Qe2 Nc7 17. Nxc7 Qxc7 18. Bf4 Bd6 19. Ne5 Ra5 20. b4 Nxb4 21. c5 Bxc5
+22. Rec1 Qd8 23. Rxc5 Rxc5 24. Rxb4 Bc8 25. h4 f6 26. Nc4 b5 27. Nxa3 e5 28.
+Bd2 Be6 29. Rxb5 Rxb5 30. Nxb5 Qb6 31. a4 Bb3 32. Bb4 Rb8 33. Bd6 Rc8 34. Qb2
+Bc2 35. Bh3 Rc6 36. Qa2+ Kh8 37. Qf7 Qd8 38. Bf8 1-0
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "4"]
+[White "Zhu Chen"]
+[Black "Lahno, Kateryna"]
+[Result "0-1"]
+[ECO "E70"]
+[WhiteElo "2480"]
+[BlackElo "2539"]
+[PlyCount "168"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Qatar"]
+[BlackTeam "Ukraine"]
+[WhiteTeamCountry "QAT"]
+[BlackTeamCountry "UKR"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 Nbd7 7. O-O c5 8. Bc2
+cxd4 9. Nxd4 Nc5 10. b3 b6 11. Bb2 Bb7 12. Re1 a6 13. a4 Rc8 14. h3 a5 15. Qd2
+Ne8 16. Rad1 Nc7 17. Nd5 N7a6 18. Ba3 e6 19. Nc3 Qe7 20. Ndb5 Rcd8 21. Qe3 Rd7
+22. Re2 Rfd8 23. Red2 h5 24. Re2 Kh7 25. f4 Bh6 26. Qg3 h4 27. Qf2 Qf6 28. Rf1
+e5 29. f5 Bf4 30. Qf3 Kg7 31. Qg4 Nb4 32. Bxb4 axb4 33. Na2 Na6 34. Nd4 exd4
+35. Qxf4 g5 36. Qf2 d3 37. Bxd3 Nc5 38. Bc2 Re7 39. Nxb4 Rde8 40. Rfe1 Qc3 41.
+Nd5 Bxd5 42. cxd5 f6 43. Re3 Qb4 44. Qe2 Kh6 45. Kh2 Rc7 46. g3 hxg3+ 47. Rxg3
+Qd4 48. h4 Qe5 49. hxg5+ fxg5 50. Kg2 Kg7 51. Qh5 Kf8 52. Qxg5 Nd7 53. Bd3 Nf6
+54. Re2 Rh7 55. Qe3 Rh2+ 56. Kf3 Rh7 57. Reg2 Nxd5 58. Rg8+ Kf7 59. Bc4 Rxg8
+60. Bxd5+ Kf6 61. Rxg8 Rh3+ 62. Kg4 Rxe3 63. Rg6+ Ke7 64. Re6+ Qxe6 65. fxe6
+Kf6 66. Kf4 Rc3 67. Bc4 Rh3 68. Kg4 Rc3 69. Bd5 Re3 70. Kf4 Rc3 71. Bc4 Rh3 72.
+Kg4 Rc3 73. Bd5 Re3 74. Kf4 Rc3 75. e5+ dxe5+ 76. Ke4 Rh3 77. Bc4 Rh4+ 78. Kd3
+Rd4+ 79. Kc3 Rd8 80. b4 e4 81. a5 bxa5 82. bxa5 e3 83. a6 Rc8 84. Kd3 e2 0-1
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "5"]
+[White "Nakamura, Hikaru"]
+[Black "Milliet, Sophie"]
+[Result "1-0"]
+[ECO "C29"]
+[WhiteElo "2733"]
+[BlackElo "2388"]
+[PlyCount "69"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "US of America"]
+[BlackTeam "France"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "FRA"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. exd5 Nxd5 5. fxe5 Nxc3 6. bxc3 Qh4+ 7. Ke2 Bg4+
+8. Nf3 Nc6 9. Qe1 Qh5 10. Kd1 Bxf3+ 11. gxf3 O-O-O 12. Qe4 Qxe5 13. d4 Qa5 14.
+Bd2 Qb6 15. a4 Qb2 16. Bh3+ Kb8 17. Ke2 Bd6 18. Rhb1 Qxa1 19. Rxa1 Rhe8 20. Be3
+Rxe4 21. fxe4 f6 22. Rg1 Bf8 23. Be6 Re8 24. Bd5 Ne7 25. Bf7 Rd8 26. c4 Nc8 27.
+c5 Rd7 28. Bg8 h6 29. Rb1 Ne7 30. Be6 Rd8 31. a5 Nc6 32. a6 Nxd4+ 33. Bxd4 Rxd4
+34. Rxb7+ Ka8 35. Bd5 1-0
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "5"]
+[White "Bu Xiangzhi"]
+[Black "Kosintseva, Nadezhda"]
+[Result "1-0"]
+[ECO "A29"]
+[WhiteElo "2695"]
+[BlackElo "2565"]
+[PlyCount "125"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "China"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "RUS"]
+[TimeControl "1500+10"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Nd4 5. Bg2 Nxf3+ 6. Bxf3 Bb4 7. O-O O-O 8.
+d3 h6 9. Qa4 a5 10. a3 Bxc3 11. bxc3 Qe7 12. Bg2 d6 13. Qc2 Re8 14. e4 c6 15.
+f4 b5 16. cxb5 cxb5 17. h3 Bb7 18. Rb1 Bc6 19. Qf2 Rec8 20. g4 Nd7 21. Kh2 Nc5
+22. Qg3 Be8 23. fxe5 Qxe5 24. Bf4 Qxc3 25. Rbd1 Ne6 26. Bxd6 b4 27. e5 Qxa3 28.
+Bxa8 Rxa8 29. d4 Qa2+ 30. Qg2 Qxg2+ 31. Kxg2 Bb5 32. Rf2 g5 33. d5 Nf4+ 34. Kh2
+b3 35. e6 fxe6 36. dxe6 Nxe6 37. Rf6 Bc4 38. Be5 Rd8 39. Rxd8+ Nxd8 40. Rxh6
+Nf7 41. Rg6+ Kf8 42. Bb2 a4 43. Rc6 Bb5 44. Rb6 Bd7 45. Kg3 Be8 46. Bf6 Kg8 47.
+Kf2 Kh7 48. Ke3 Bd7 49. Rb7 Kg6 50. Rb6 Kh7 51. Kd2 Be8 52. Kc3 Bd7 53. Bd4 Be8
+54. Kb4 Nd8 55. Bf6 Nc6+ 56. Kxa4 Nd4+ 57. Ka3 Nf3 58. Kb4 Ng1 59. Bxg5 b2 60.
+Kc3 Nxh3 61. Be3 Bd7 62. g5 Bf5 63. Kxb2 1-0
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "5"]
+[White "Edouard, Romain"]
+[Black "Polgar, Judit"]
+[Result "0-1"]
+[ECO "B30"]
+[WhiteElo "2636"]
+[BlackElo "2682"]
+[PlyCount "78"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "France"]
+[BlackTeam "Hungary"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "HUN"]
+[TimeControl "1500+10"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Qc7 5. O-O Nd4 6. d3 a6 7. Ba4 b5 8. Bb3
+Nxb3 9. axb3 Bb7 10. Bg5 e6 11. Bxf6 gxf6 12. Qe2 Bd6 13. Rfd1 Rg8 14. g3 Rc8
+15. Nh4 Rg5 16. Re1 Ke7 17. Nd1 Rcg8 18. Ne3 Kd8 19. Neg2 Qc6 20. Rad1 f5 21.
+c3 f4 22. d4 cxd4 23. cxd4 fxg3 24. hxg3 Bb4 25. Rc1 Qb6 26. Red1 Rg4 27. e5
+Rxd4 28. Qh5 Rxg3 29. Qxf7 Be7 30. Kf1 Rgg4 31. Qxh7 Rxd1+ 32. Rxd1 Qc6 33. f3
+Rg3 34. Qd3 Rh3 35. Qd4 Kc8 36. Qf4 Qc2 37. Rd2 Qc1+ 38. Ke2 Rh1 39. Kf2 Qg1+
+0-1
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "5"]
+[White "Karpov, Anatoly"]
+[Black "Nguyen, Ngoc Truongson"]
+[Result "0-1"]
+[ECO "D45"]
+[WhiteElo "2619"]
+[BlackElo "2633"]
+[PlyCount "148"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Russia"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "VIE"]
+[TimeControl "1500+10"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Bd2 e6 6. Qc2 Nbd7 7. Nc3 dxc4 8. Bxc4
+b5 9. Be2 Bb7 10. Ne4 Nxe4 11. Qxe4 Qb6 12. Qh4 Be7 13. Qg3 O-O 14. b4 Nf6 15.
+Bd3 Qd8 16. O-O c5 17. bxc5 Bxc5 18. a3 Bd6 19. Qh4 h6 20. Rfe1 Ne4 21. Qxd8
+Rfxd8 22. Ba5 Rdc8 23. Nd2 Nc3 24. Rec1 Na4 25. Bb4 Bf8 26. Nb3 Bd5 27. Na5
+Bxb4 28. axb4 Nc3 29. Rc2 Na2 30. Rcxa2 Bxa2 31. Rxa2 Rc1+ 32. Bf1 Rac8 33. Nb3
+Rb1 34. Nc5 Rxb4 35. f4 Ra8 36. Ra5 Rb1 37. Kf2 b4 38. Bc4 Rc1 39. Bb3 Rc3 40.
+g4 Rc8 41. Ba4 Ra3 42. Rxa6 g6 43. h4 Kg7 44. Bb5 Rb8 45. Bc4 Rc3 46. Bb3 Rc8
+47. Bd1 Rb8 48. Ra2 g5 49. hxg5 hxg5 50. Rb2 gxf4 51. exf4 Rh8 52. Bf3 Rh2+ 53.
+Bg2 Rh4 54. Ne4 Rd3 55. Bf3 Rh2+ 56. Bg2 Rxd4 57. Kg3 Rxg2+ 58. Kxg2 Rxe4 59.
+Kf3 Rc4 60. Ke3 Kf6 61. Rb1 e5 62. g5+ Kf5 63. fxe5 Kxe5 64. Rf1 Re4+ 65. Kd3
+Rf4 66. Rg1 Kf5 67. Kc2 Rg4 68. Rf1+ Rf4 69. Rg1 Rf3 70. Kb2 Kg6 71. Rg4 Rf5
+72. Kc2 Rxg5 73. Rxb4 Rd5 74. Rg4+ Kh5 0-1
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "5"]
+[White "Lahno, Kateryna"]
+[Black "Pelletier, Yannick"]
+[Result "0-1"]
+[ECO "D39"]
+[WhiteElo "2539"]
+[BlackElo "2592"]
+[PlyCount "54"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "Switzerland"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "SUI"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 h6 7. Bxf6 Qxf6 8.
+Bxc4 c5 9. O-O cxd4 10. e5 Qd8 11. Nb5 Nc6 12. Nbxd4 Nxd4 13. Nxd4 O-O 14. Rc1
+Qb6 15. Qg4 Rd8 16. Ne2 Bd7 17. Ng3 Bf8 18. Qe2 Bc6 19. Bd3 Rd4 20. Bb1 Rad8
+21. Qc2 g6 22. b3 Rd2 23. Qc3 Bb4 24. Qa1 Bc5 25. Be4 Bd4 26. Rxc6 bxc6 27. Qb1
+Rxf2 0-1
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "5"]
+[White "Le Quang, Liem"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2694"]
+[BlackElo "2754"]
+[PlyCount "73"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Vietnam"]
+[BlackTeam "Ukraine"]
+[WhiteTeamCountry "VIE"]
+[BlackTeamCountry "UKR"]
+[TimeControl "1500+10"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. Re1 d5 8. cxd5
+Nxd5 9. e4 Nb4 10. d4 cxd4 11. Nxd4 N8c6 12. Nxc6 Qxd1 13. Rxd1 Bxc6 14. a3 Nc2
+15. Ra2 Rd8 16. Rxd8+ Bxd8 17. b4 Ne1 18. Bf1 Bf6 19. Bb5 Kd7 20. Bd2 Bxb5 21.
+Nxb5 a6 22. Bxe1 axb5 23. Rd2+ Kc6 24. f4 Ra8 25. e5 Be7 26. Rd3 Rd8 27. Rc3+
+Kb7 28. Kf2 f6 29. Re3 f5 30. Ke2 g5 31. Rd3 Rxd3 32. Kxd3 Kc6 33. Kd4 h5 34.
+h4 gxh4 35. gxh4 Bd8 36. Bf2 Bc7 37. Be1 1/2-1/2
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "5"]
+[White "Kosintseva, Tatiana"]
+[Black "Gharamian, Tigran"]
+[Result "0-1"]
+[ECO "B81"]
+[WhiteElo "2573"]
+[BlackElo "2658"]
+[PlyCount "106"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Russia"]
+[BlackTeam "France"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "FRA"]
+[TimeControl "1500+10"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 e5 8. Nf5
+g6 9. Qf3 gxf5 10. exf5 e4 11. Qe2 Rg8 12. Bh3 h6 13. O-O-O Nc6 14. Bf4 Kd7 15.
+Qc4 Kc7 16. Qxf7+ Kb8 17. Rhe1 Rg7 18. Qxf8 Qxf8 19. Bxd6+ Qxd6 20. Rxd6 Nxg4
+21. f6 Rf7 22. Bxg4 Bxg4 23. Rxe4 h5 24. Re8+ Ka7 25. Rxa8+ Kxa8 26. Ne4 Bf5
+27. Ng5 Rf8 28. f7 h4 29. Rf6 Ne7 30. Rh6 h3 31. Rf6 Kb8 32. Nf3 Kc7 33. Ne5
+Be4 34. c4 Nc6 35. Ng4 Kd8 36. Rf4 Bg6 37. Nh6 Ke7 38. Rh4 Bxf7 39. Nxf7 Rxf7
+40. Rxh3 Kd6 41. f3 Ne5 42. b3 Nxf3 43. Rh5 Rg7 44. Rd5+ Kc6 45. Rd3 Nxh2 46.
+Rd2 Nf3 47. Rf2 Rg3 48. Kb2 Kc5 49. Ka3 Ne5 50. Rf5 Re3 51. Rf4 b5 52. cxb5
+axb5 53. Rh4 Nc4+ 0-1
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.25"]
+[Round "5"]
+[White "Hammer, Jon Ludvig"]
+[Black "Zhu Chen"]
+[Result "1-0"]
+[ECO "D94"]
+[WhiteElo "2633"]
+[BlackElo "2480"]
+[PlyCount "108"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Norway"]
+[BlackTeam "Qatar"]
+[WhiteTeamCountry "NOR"]
+[BlackTeamCountry "QAT"]
+[TimeControl "1500+10"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 g6 5. Nf3 Bg7 6. Be2 O-O 7. O-O dxc4 8. Bxc4
+Bg4 9. h3 Bxf3 10. Qxf3 Nbd7 11. Rd1 e5 12. d5 e4 13. Nxe4 Nxe4 14. Qxe4 Nb6
+15. Rb1 Re8 16. Qd3 Nxd5 17. Bd2 Nb6 18. Ba5 Qxd3 19. Bxd3 Na4 20. Rdc1 Re5 21.
+Be1 Rd8 22. Bc2 Nb6 23. Bb3 Re7 24. g4 Bf6 25. a4 Nd7 26. Rd1 Ree8 27. Bc2 Nb6
+28. Rxd8 Rxd8 29. b3 Kg7 30. Kg2 Nd5 31. Rd1 c5 32. Kf3 Nb4 33. Rxd8 Bxd8 34.
+Be4 b6 35. Ke2 Kf6 36. f4 Ke6 37. f5+ Kd7 38. Bc3 Kd6 39. Be1 Bf6 40. h4 Be5
+41. g5 Nd5 42. Kf3 Ne7 43. f6 Nc6 44. Bd3 Nd8 45. Ke4 h6 46. gxh6 Bxf6 47. Bg3+
+Ke7 48. Kd5 Kf8 49. Bb8 Bxh4 50. Bxa7 Bg5 51. Bxb6 Ne6 52. h7 Kg7 53. Bxg6 Bxe3
+54. Bxf7 Nf4+ 1-0
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "6"]
+[White "Bu Xiangzhi"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[ECO "A88"]
+[WhiteElo "2695"]
+[BlackElo "2733"]
+[PlyCount "62"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "China"]
+[BlackTeam "US of America"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "USA"]
+[TimeControl "1500+10"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 g6 4. O-O Bg7 5. d4 O-O 6. c4 d6 7. Nc3 c6 8. Rb1
+Ne4 9. Nxe4 fxe4 10. Nd2 d5 11. e3 Nd7 12. b4 a6 13. Qb3 e6 14. cxd5 cxd5 15.
+Bb2 b5 16. f3 exf3 17. Nxf3 Nb6 18. Ne5 Bb7 19. Rxf8+ Qxf8 20. Rf1 Qe8 21. Qd1
+a5 22. Bc3 axb4 23. Bxb4 Rxa2 24. Rf7 Nc4 25. Bh3 Nxe5 26. Rxb7 Nc6 27. Qg4
+Ra1+ 28. Kg2 Ra2+ 29. Kg1 Ra1+ 30. Kg2 Ra2+ 31. Kg1 Ra1+ 1/2-1/2
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "6"]
+[White "Kosintseva, Nadezhda"]
+[Black "Nguyen, Ngoc Truongson"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "2565"]
+[BlackElo "2633"]
+[PlyCount "75"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Russia"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "VIE"]
+[TimeControl "1500+10"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O Ngf6 8.
+Ng3 Be7 9. c3 O-O 10. Qe2 Bxf3 11. Qxf3 c6 12. Re1 Re8 13. Bg5 Qa5 14. Bd2 Rad8
+15. Re2 Qd5 16. Ne4 Qh5 17. Qg3 Nf8 18. Nxf6+ Bxf6 19. Rae1 Rd7 20. h3 Red8 21.
+Bf4 Ng6 22. Bxg6 hxg6 23. Be5 Rd5 24. Qg4 Qxg4 25. hxg4 g5 26. f3 Kf8 27. Kf2
+c5 28. Bxf6 gxf6 29. dxc5 Rxc5 30. Re4 Rd7 31. R1e2 Ke7 32. c4 a5 33. b3 Rd1
+34. Re1 Rd2+ 35. R1e2 Rd1 36. Re1 Rd2+ 37. R1e2 Rd1 38. Re1 1/2-1/2
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "6"]
+[White "Milliet, Sophie"]
+[Black "Edouard, Romain"]
+[Result "0-1"]
+[ECO "B51"]
+[WhiteElo "2388"]
+[BlackElo "2636"]
+[PlyCount "66"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "France"]
+[BlackTeam "France"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "FRA"]
+[TimeControl "1500+10"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bxd7+ Bxd7 6. c3 Nf6 7. Re1 g6 8.
+d4 cxd4 9. cxd4 d5 10. exd5 Nxd5 11. Nc3 Bc6 12. Bg5 h6 13. Bh4 g5 14. Bg3 Bg7
+15. Ne5 O-O 16. Nxc6 bxc6 17. Rc1 e6 18. Be5 Ne7 19. Ne4 Nf5 20. Rxc6 Qd5 21.
+Rc5 Qxa2 22. Nf6+ Kh8 23. Qh5 Qxb2 24. Nd7 Qb4 25. Rec1 f6 26. Bxf6 Rxf6 27.
+Nxf6 Bxf6 28. Qg6 Rf8 29. g4 Nxd4 30. Qxh6+ Kg8 31. Qg6+ Bg7 32. Rxg5 Nf3+ 33.
+Kg2 Nh4+ 0-1
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "6"]
+[White "Polgar, Judit"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[ECO "C93"]
+[WhiteElo "2682"]
+[BlackElo "2619"]
+[PlyCount "128"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Hungary"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "RUS"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a3 h6 13. d5 Nb8 14. Nf1 c6 15. dxc6
+Bxc6 16. Ng3 Nbd7 17. Bc2 d5 18. exd5 Bxd5 19. Nf5 Qc7 20. Nh2 Qc6 21. Ne3 Be6
+22. Nhg4 Rad8 23. Nf5 Bd5 24. Qd3 Kh8 25. Qg3 Nxg4 26. hxg4 Nc5 27. Bg5 Rc8 28.
+Be3 Na4 29. Rab1 Ba2 30. Ra1 Bd5 31. Bxa4 bxa4 32. Rad1 Bb3 33. Rd2 f6 34. Qh4
+Kg8 35. f3 Red8 36. Ree2 Bc4 37. Rf2 Qb7 38. Bxh6 gxh6 39. Qxf6 Qf7 40. Nxh6+
+Bxh6 41. Rxd8+ Rxd8 42. Qxd8+ Kh7 43. g5 Bg7 44. g3 Qe6 45. Rh2+ Kg6 46. Rd2
+Qh3 47. Qd6+ Be6 48. Rg2 Kxg5 49. f4+ Kg6 50. Rf2 Bf6 51. fxe5 Bg5 52. Qd3+ Kg7
+53. Qf3 Be7 54. Qb7 Bd7 55. Qd5 Be6 56. Qb7 Bd7 57. Qa7 Bg5 58. Qd4 Be6 59. Rh2
+Qxg3+ 60. Rg2 Qe1+ 61. Kh2 Kh6 62. c4 Qf1 63. Kg3 Qe1+ 64. Kh2 Be3 0-1
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "6"]
+[White "Zhu Chen"]
+[Black "Le Quang, Liem"]
+[Result "1/2-1/2"]
+[ECO "E36"]
+[WhiteElo "2480"]
+[BlackElo "2694"]
+[PlyCount "75"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Qatar"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "QAT"]
+[BlackTeamCountry "VIE"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 dxc4 8.
+Qxc4 b6 9. Bf4 Ba6 10. Qa4 Qd7 11. Qxd7 Nbxd7 12. e3 Bxf1 13. Rxf1 c5 14. O-O-O
+c4 15. Ne5 Rfc8 16. Nxd7 Nxd7 17. Kc2 b5 18. e4 a5 19. f3 f6 20. d5 Nc5 21.
+dxe6 Nd3 22. Bg3 Ra6 23. b3 Rxe6 24. bxc4 Ne5 25. Bxe5 Rxe5 26. Rd4 Rec5 27.
+Rb1 Rxc4+ 28. Rxc4 Rxc4+ 29. Kd3 Ra4 30. Rxb5 Rxa3+ 31. Kd4 Ra2 32. g4 a4 33.
+Ra5 Ra3 34. f4 Rf3 35. f5 h5 36. Rxa4 hxg4 37. Ra2 g3 38. hxg3 1/2-1/2
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "6"]
+[White "Ivanchuk, Vassily"]
+[Black "Kosintseva, Tatiana"]
+[Result "1-0"]
+[ECO "E05"]
+[WhiteElo "2754"]
+[BlackElo "2573"]
+[PlyCount "75"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "RUS"]
+[TimeControl "1500+10"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. d4 dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bg5 Nbd7 11. Bxf6 Nxf6 12. Nbd2 Rc8 13. Nb3 Be4 14. Qc3 Nd5
+15. Qa5 Bb4 16. Qxa6 c6 17. Ne5 Bxg2 18. Kxg2 Qc7 19. Rfc1 Ne7 20. Nd3 Bd6 21.
+Qa5 Qd7 22. Qd2 Ra8 23. a3 f5 24. Qc2 f4 25. Nd2 Ra4 26. Nf3 h6 27. b4 Raa8 28.
+a4 Rxa4 29. Rxa4 bxa4 30. Qxa4 Qb7 31. Nc5 Bxc5 32. Rxc5 fxg3 33. hxg3 Rb8 34.
+Qa2 Qc8 35. Qc4 Rb6 36. Ne5 Kh7 37. e4 Qf8 38. Nd7 1-0
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "6"]
+[White "Pelletier, Yannick"]
+[Black "Gharamian, Tigran"]
+[Result "1-0"]
+[ECO "E11"]
+[WhiteElo "2592"]
+[BlackElo "2658"]
+[PlyCount "71"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Switzerland"]
+[BlackTeam "France"]
+[WhiteTeamCountry "SUI"]
+[BlackTeamCountry "FRA"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 c5 5. g3 Qb6 6. Bg2 Nc6 7. Nc3 Nxd4 8.
+Nxd4 cxd4 9. Nb5 Bc5 10. b4 Be7 11. a4 d5 12. c5 Qd8 13. Bf4 O-O 14. Qxd4 Ne8
+15. e4 a5 16. exd5 exd5 17. O-O Be6 18. bxa5 Rc8 19. Rac1 Qxa5 20. Rfd1 Bf6 21.
+Be5 Bxe5 22. Qxe5 Qxa4 23. Nc3 Qa7 24. Nxd5 Bxd5 25. Qxd5 Rc7 26. Qe5 Qb8 27.
+Rd7 Qc8 28. Rxc7 Nxc7 29. Qe4 Ne6 30. Qxb7 Rd8 31. c6 Qc7 32. Bh3 Rb8 33. Qxc7
+Nxc7 34. Rd1 Kf8 35. Rd7 Ne8 36. Rb7 1-0
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "6"]
+[White "Lahno, Kateryna"]
+[Black "Hammer, Jon Ludvig"]
+[Result "1/2-1/2"]
+[ECO "C49"]
+[WhiteElo "2539"]
+[BlackElo "2633"]
+[PlyCount "101"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "Norway"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "NOR"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Bg5 Ne7 8.
+Bxf6 gxf6 9. Nh4 c6 10. Ba4 Ng6 11. Nxg6 hxg6 12. Ne2 Kg7 13. c3 Ba5 14. Ng3
+Rh8 15. Qf3 Rh4 16. h3 Rf4 17. Qe2 Bb6 18. Rad1 Qh8 19. d4 Qh4 20. Rd3 Bd7 21.
+Bb3 Rh8 22. Re1 Qg5 23. Qd2 Bc8 24. Re2 Qh4 25. a4 a6 26. Ba2 Ba7 27. a5 Qh7
+28. Qd1 Qg8 29. Nf5+ Bxf5 30. exf5 Rxf5 31. dxe5 fxe5 32. Rxd6 Rh4 33. Bb1 Rxf2
+34. Rxf2 Rf4 35. Rdd2 Qf8 36. b4 Qe7 37. g3 Rxf2 38. Rxf2 e4 39. Kg2 Bxf2 40.
+Kxf2 Qf6+ 41. Kg2 Qxc3 42. Bxe4 Qxb4 43. Qa1+ Kg8 44. Qb1 Qxa5 45. Qxb7 Qd2+
+46. Kf3 Qd1+ 47. Kf2 Qd4+ 48. Kf3 Qd1+ 49. Kf2 Qd2+ 50. Kf3 Qd1+ 51. Kf2
+1/2-1/2
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "7"]
+[White "Nakamura, Hikaru"]
+[Black "Kosintseva, Nadezhda"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2733"]
+[BlackElo "2565"]
+[PlyCount "87"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "US of America"]
+[BlackTeam "Russia"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "RUS"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Qe2 d6 7. Nc3 Nf6 8.
+Be3 O-O 9. O-O-O Be6 10. f3 Nd7 11. g4 Nde5 12. Rg1 Bc4 13. Qf2 Bxf1 14. Rgxf1
+Nc4 15. Bxb6 axb6 16. Kb1 N4a5 17. f4 Nxb3 18. cxb3 f6 19. h4 Qe7 20. Qg2 Rae8
+21. Nd5 Qxe4+ 22. Qxe4 Rxe4 23. Nxc7 Nd4 24. Nd5 Ne2 25. a3 b5 26. b4 h5 27.
+gxh5 Ng3 28. Rfe1 Rxe1 29. Rxe1 Nxh5 30. Re6 Rc8 31. Rxd6 Rc4 32. f5 Rxh4 33.
+Rb6 Ng3 34. Ne7+ Kh7 35. Rxb5 Rh1+ 36. Kc2 Rf1 37. Rxb7 Nxf5 38. Nxf5 Rxf5 39.
+b5 Kh6 40. a4 Rf2+ 41. Kb3 Rf3+ 42. Ka2 Rf4 43. Ka3 Rf1 44. b6 1-0
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "7"]
+[White "Edouard, Romain"]
+[Black "Bu Xiangzhi"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2636"]
+[BlackElo "2695"]
+[PlyCount "64"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "France"]
+[BlackTeam "China"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "CHN"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. c4 Bb4+ 8.
+Nbd2 Nxd2 9. Bxd2 Qe7+ 10. Be2 Bxd2+ 11. Qxd2 O-O 12. O-O-O Bf5 13. g4 Bxg4 14.
+Rhg1 Qe4 15. Rxg4 Qxg4 16. Rg1 Qe6 17. Bd3 Kh8 18. Ng5 Qh6 19. f4 dxc4 20. Be4
+Nc6 21. Nxh7 f5 22. Nxf8 Rxf8 23. Bf3 Qd6 24. Bxc6 Qxc6 25. d5 Qf6 26. Qb4 Re8
+27. Qxc4 Qb6 28. Rg3 Re1+ 29. Kc2 Qf2+ 30. Kb3 Qb6+ 31. Kc2 Qf2+ 32. Kb3 Qb6+
+1/2-1/2
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "7"]
+[White "Nguyen, Ngoc Truongson"]
+[Black "Polgar, Judit"]
+[Result "1/2-1/2"]
+[ECO "A45"]
+[WhiteElo "2633"]
+[BlackElo "2682"]
+[PlyCount "113"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Vietnam"]
+[BlackTeam "Hungary"]
+[WhiteTeamCountry "VIE"]
+[BlackTeamCountry "HUN"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. e3 Nd7 5. Bd3 c5 6. Bxe4 dxe4 7. Nc3 Qa5 8.
+Nge2 Nf6 9. O-O Bg4 10. h3 cxd4 11. hxg4 dxc3 12. Nxc3 g5 13. b4 Qxb4 14. Be5
+Bg7 15. Nd5 Qc5 16. Nc7+ Kf8 17. Nxa8 Qxe5 18. Qd8+ Ne8 19. Rad1 Bf6 20. Rd5
+Qc3 21. Qa5 Qxc2 22. Qxa7 Kg7 23. Qc5 Qxa2 24. Nb6 h6 25. Nd7 e6 26. Rdd1 Qe2
+27. Qb4 Qxg4 28. Qxb7 h5 29. Nc5 h4 30. Qxe4 Qxe4 31. Nxe4 Kg6 32. Rd7 Bg7 33.
+Ra7 Nf6 34. Nd6 Rf8 35. Rb1 Ng4 36. Rb4 Ne5 37. Rb1 Rd8 38. Ne4 Rd5 39. Rab7
+Rd3 40. R7b3 Rd8 41. Rb5 Rd3 42. Kf1 Ra3 43. R5b3 Ra4 44. Rb4 Ra3 45. Nd2 Ra2
+46. R4b2 Ra4 47. Rc2 Kf5 48. Rb5 Kg6 49. Rcc5 Ra2 50. Ke2 f6 51. Ra5 Rb2 52.
+Rcb5 Rc2 53. Kd1 Rc7 54. Ke2 Rc2 55. Rc5 Rb2 56. Rab5 Ra2 57. Ra5 1/2-1/2
+
+[Event "Le trophée CCAS, Group A"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "7"]
+[White "Karpov, Anatoly"]
+[Black "Milliet, Sophie"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2619"]
+[BlackElo "2388"]
+[PlyCount "128"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Russia"]
+[BlackTeam "France"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "FRA"]
+[TimeControl "1500+10"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8. Qxd4
+d6 9. Rd1 a6 10. e4 Nbd7 11. b3 O-O 12. Ba3 Nc5 13. e5 dxe5 14. Qxd8 Rfxd8 15.
+Nxe5 Bxg2 16. Kxg2 Bf8 17. f4 Ncd7 18. Bxf8 Kxf8 19. Nd3 Rac8 20. Rac1 Ng4 21.
+Re1 Nc5 22. Nxc5 Rxc5 23. Ne4 Rcc8 24. Re2 Rd3 25. h3 Ne3+ 26. Kf2 Nf5 27. g4
+Ne7 28. Rc3 Rd1 29. Rcc2 Rd3 30. Re3 Rd1 31. Rd2 Rxd2+ 32. Nxd2 Nc6 33. Rd3 Ke7
+34. a3 Na5 35. Kf3 h6 36. h4 b5 37. c5 Nc6 38. Ke4 b4 39. axb4 Nxb4 40. Rd4 Nd5
+41. Rc4 Rb8 42. f5 Rb5 43. fxe6 Kxe6 44. g5 hxg5 45. hxg5 f5+ 46. gxf6 gxf6 47.
+Nf3 f5+ 48. Kd4 Ne7 49. Kc3 Nc6 50. b4 a5 51. bxa5 Rxa5 52. Nd4+ Nxd4 53. Kxd4
+Ra8 54. Rb4 Rd8+ 55. Kc4 Ke5 56. Rb7 f4 57. Rf7 Rd1 58. c6 Rc1+ 59. Kb5 Rb1+
+60. Ka6 Ra1+ 61. Kb7 Rb1+ 62. Kc8 Ke4 63. c7 f3 64. Kd8 Rc1 1/2-1/2
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "7"]
+[White "Gharamian, Tigran"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2658"]
+[BlackElo "2754"]
+[PlyCount "72"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "France"]
+[BlackTeam "Ukraine"]
+[WhiteTeamCountry "FRA"]
+[BlackTeamCountry "UKR"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nc4 Nxe4 5. d4 d5 6. Ne3 Nf6 7. Bd3 c5 8. O-O
+cxd4 9. Nf5 Bxf5 10. Bxf5 Nc6 11. Nd2 Be7 12. Nf3 Qb6 13. b3 O-O 14. Bb2 Bc5
+15. a3 g6 16. Bh3 Rfe8 17. Qd3 a5 18. Rad1 Re4 19. Ng5 Re7 20. Nf3 Re4 21. g3
+Rae8 22. Bg2 h5 23. h3 R8e7 24. Rd2 Nd7 25. Rdd1 Qc7 26. Ng5 R4e5 27. Bc1 Bd6
+28. f4 Rxg5 29. fxg5 Nc5 30. Qf3 Ne4 31. Bf4 Ne5 32. Qe2 Nc3 33. Qf2 Ne4 34.
+Qe2 Nc3 35. Qf2 Ne4 36. Qe2 Nc3 1/2-1/2
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "7"]
+[White "Hammer, Jon Ludvig"]
+[Black "Pelletier, Yannick"]
+[Result "1-0"]
+[ECO "D39"]
+[WhiteElo "2633"]
+[BlackElo "2592"]
+[PlyCount "114"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Norway"]
+[BlackTeam "Switzerland"]
+[WhiteTeamCountry "NOR"]
+[BlackTeamCountry "SUI"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 h6 7. Bxf6 Qxf6 8.
+Bxc4 c5 9. O-O cxd4 10. Nb5 Qe7 11. Qxd4 O-O 12. Nxa7 Bc5 13. Nxc8 Rxc8 14. Qd2
+Nc6 15. Rac1 Rd8 16. Qe2 Nd4 17. Nxd4 Rxd4 18. Rfd1 Rad8 19. Rxd4 Rxd4 20. g3
+Qg5 21. Rc2 Qe5 22. Bd3 Rd8 23. Kg2 Bxf2 24. Kxf2 Qd4+ 25. Qe3 Qxd3 26. Qxd3
+Rxd3 27. Ke2 Rd4 28. Ke3 Rb4 29. Rc8+ Kh7 30. b3 f5 31. Rc4 Rb6 32. Kf4 Rb5 33.
+b4 g5+ 34. Ke3 Kg6 35. a4 Re5 36. b5 Kf6 37. Kd3 fxe4+ 38. Rxe4 Rf5 39. Kc4 Ke7
+40. a5 Kd7 41. Re2 h5 42. Kb4 g4 43. Rd2+ Kc7 44. b6+ Kc8 45. Rc2+ Kb8 46. Rc5
+e5 47. Kb5 h4 48. Rd5 Kc8 49. a6 bxa6+ 50. Kxa6 Rf8 51. Ka7 hxg3 52. hxg3 Rf7+
+53. Ka8 Rf8 54. b7+ Kc7+ 55. Ka7 Kc6 56. Rxe5 Rf3 57. Ra5 Rb3 1-0
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "7"]
+[White "Le Quang, Liem"]
+[Black "Lahno, Kateryna"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2694"]
+[BlackElo "2539"]
+[PlyCount "93"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Vietnam"]
+[BlackTeam "Ukraine"]
+[WhiteTeamCountry "VIE"]
+[BlackTeamCountry "UKR"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 Na6 7. O-O e5 8. Re1
+Qe8 9. Bf1 Bg4 10. d5 Nb4 11. Be2 a5 12. Be3 Nh5 13. h3 Bd7 14. c5 Na6 15. cxd6
+cxd6 16. Nd2 Nf4 17. Nc4 Qe7 18. Bf1 Nc5 19. Rc1 g5 20. Nb6 Rad8 21. Nxd7 Nxd7
+22. g3 Ng6 23. Be2 Bf6 24. Bg4 Rc8 25. Qa4 Nc5 26. Qxa5 Nd3 27. Bxc8 Rxc8 28.
+Red1 Nxc1 29. Rxc1 Qd7 30. Kh2 Nf4 31. gxf4 exf4 32. Qb5 Qe7 33. Bd2 Be5 34.
+Kg2 Kg7 35. Qe2 Kg6 36. Qg4 Rc4 37. h4 Rd4 38. Be1 h6 39. Qf5+ Kg7 40. Nb5 Rd3
+41. Rc7 f3+ 42. Kh3 Qf6 43. Qxf6+ Kxf6 44. Bc3 h5 45. hxg5+ Kxg5 46. Bxe5 dxe5
+47. Rxf7 1-0
+
+[Event "Le trophée CCAS, Group B"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.26"]
+[Round "7"]
+[White "Kosintseva, Tatiana"]
+[Black "Zhu Chen"]
+[Result "1/2-1/2"]
+[ECO "C96"]
+[WhiteElo "2573"]
+[BlackElo "2480"]
+[PlyCount "125"]
+[EventDate "2010.10.22"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "FRA"]
+[EventCategory "15"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Russia"]
+[BlackTeam "Qatar"]
+[WhiteTeamCountry "RUS"]
+[BlackTeamCountry "QAT"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 d5 11. exd5 e4 12. Bxe4 Nxe4 13. Rxe4 Bb7 14. d4 Re8 15.
+Bf4 Nc4 16. b3 Nb6 17. c4 bxc4 18. bxc4 Nxc4 19. Nc3 Nb6 20. Qb3 Nxd5 21. Qxb7
+Nxc3 22. Ree1 Bd6 23. Rxe8+ Qxe8 24. Bd2 Qe4 25. Qxe4 Nxe4 26. Ba5 Rb8 27. Rc1
+f5 28. Ne5 Nf6 29. Rc6 Rb1+ 30. Kh2 Nd5 31. Rxa6 g5 32. Bd2 h6 33. Ra5 Rb2 34.
+Bc1 Rc2 35. Rxd5 Rxc1 36. a4 Ra1 37. a5 Kg7 38. g3 Ra2 39. Kg2 Kf6 40. Nc4 Ke6
+41. Rb5 Ra4 42. Nxd6 cxd6 43. d5+ Ke5 44. Kf3 Ra3+ 45. Ke2 Ra2+ 46. Kf3 Ra3+
+47. Kg2 Ra2 48. h4 gxh4 49. gxh4 h5 50. Kf3 Ra3+ 51. Ke2 Ra4 52. Kd3 Rxh4 53.
+Kc3 Rf4 54. Rb2 Ra4 55. Rb5 h4 56. Kb3 Ra1 57. Kb2 Rf1 58. a6 Rxf2+ 59. Ka3 Rf1
+60. Ka2 Rf2+ 61. Ka3 Rf1 62. Ka2 Rf2+ 63. Ka3 1/2-1/2
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.28"]
+[Round "1.1"]
+[White "Hammer, Jon Ludvig"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[ECO "B50"]
+[WhiteElo "2633"]
+[BlackElo "2733"]
+[PlyCount "82"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Norway"]
+[BlackTeam "US of America"]
+[WhiteTeamCountry "NOR"]
+[BlackTeamCountry "USA"]
+[TimeControl "1500+10"]
+
+1. e4 c5 2. Nf3 e6 3. b3 d6 4. Bb2 Nf6 5. Bb5+ Nbd7 6. e5 dxe5 7. Nxe5 Be7 8.
+Nxd7 Bxd7 9. a4 O-O 10. O-O Rc8 11. Qf3 Bc6 12. Qg3 Nh5 13. Qe3 Bf6 14. Bxf6
+Nxf6 15. Nc3 a6 16. Bxc6 Rxc6 17. d3 Qd4 18. Ne2 Qxe3 19. fxe3 Nd5 20. Rf3 f5
+21. Nf4 Nc3 22. Re1 b5 23. axb5 axb5 24. Ne2 Nd5 25. e4 fxe4 26. dxe4 Nf6 27.
+Nc3 b4 28. e5 Nd7 29. Rxf8+ Kxf8 30. Na4 g5 31. Kf2 Ke7 32. Re4 h5 33. Ke2 Kf7
+34. h3 h4 35. Nb2 Nb6 36. Nd3 Kg6 37. Kd2 Rc8 38. Rg4 Rd8 39. Ke2 Nd7 40. Rc4
+Rc8 41. Nxb4 Nb6 0-1
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.28"]
+[Round "1.2"]
+[White "Nakamura, Hikaru"]
+[Black "Hammer, Jon Ludvig"]
+[Result "1-0"]
+[ECO "C85"]
+[WhiteElo "2733"]
+[BlackElo "2633"]
+[PlyCount "167"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "US of America"]
+[BlackTeam "Norway"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "NOR"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Bxc6 dxc6 6. d3 Nd7 7. O-O Be7 8.
+Nbd2 O-O 9. Nc4 Bf6 10. h3 Re8 11. Nh2 Bg5 12. Bxg5 Qxg5 13. Qg4 Qxg4 14. Nxg4
+f6 15. f4 exf4 16. Rxf4 Nc5 17. Nge3 a5 18. a4 Be6 19. b3 b6 20. Rf2 Rad8 21.
+Nb2 h6 22. Rf3 Kh7 23. Nf5 Bc8 24. Raf1 Ba6 25. Ra1 Bb7 26. Rf2 Rd7 27. h4 Rdd8
+28. h5 Bc8 29. Rf3 Be6 30. Raf1 Rd7 31. Rg3 Rg8 32. Ne3 Bf7 33. Rh3 Rd4 34.
+Nbc4 Ra8 35. Ra1 Ra6 36. Nf5 Rd7 37. g4 b5 38. Nb2 Ra8 39. Rf3 Rdd8 40. Kg2 Be6
+41. Kg3 Bxf5 42. Rxf5 Ne6 43. axb5 Nd4 44. bxc6 Nxf5+ 45. gxf5 Rd6 46. Nc4 Rxc6
+47. Ra4 Rca6 48. Kf4 c5 49. Nb2 Rc6 50. Rc4 Rac8 51. Ra4 Ra8 52. Rc4 Kg8 53. d4
+Rac8 54. d5 Rb6 55. Ra4 Rb5 56. Nc4 Ra8 57. d6 Kf8 58. e5 fxe5+ 59. Kxe5 Kf7
+60. Kd5 Kf6 61. Kc6 Rbb8 62. d7 Ke7 63. Nxa5 Ra7 64. Re4+ Kf7 65. Nb7 Raxb7 66.
+d8=N+ Rxd8 67. Kxb7 Rd5 68. Rf4 Rd2 69. Rc4 Rh2 70. Rxc5 Rxh5 71. b4 Rh1 72. b5
+Rb1 73. b6 h5 74. Kc7 h4 75. Rc3 Kf6 76. b7 Rxb7+ 77. Kxb7 Kxf5 78. Rh3 Kg4 79.
+Rh1 g5 80. c4 Kf3 81. c5 Kg2 82. Rc1 h3 83. c6 h2 84. c7 1-0
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.28"]
+[Round "1.1"]
+[White "Pelletier, Yannick"]
+[Black "Bu Xiangzhi"]
+[Result "0-1"]
+[ECO "E05"]
+[WhiteElo "2592"]
+[BlackElo "2695"]
+[PlyCount "92"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Switzerland"]
+[BlackTeam "China"]
+[WhiteTeamCountry "SUI"]
+[BlackTeamCountry "CHN"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bf4 a5 11. Nc3 Na6 12. Ne5 Bxg2 13. Kxg2 Nd5 14. Rad1 Nxf4+
+15. gxf4 c6 16. e3 Nb4 17. Kh1 Nd5 18. Rg1 Rc8 19. Ne4 f6 20. Nf3 Qe8 21. Rg3
+Rf7 22. Rdg1 Bf8 23. b3 Qd7 24. Qc2 Nb4 25. Qb1 Qd5 26. Nc3 Qh5 27. Rg4 c5 28.
+Nb5 c4 29. bxc4 Rxc4 30. Qb3 Qd5 31. R4g3 Rc2 32. Qxd5 Nxd5 33. R3g2 Rd7 34.
+Ra1 Rd8 35. Ne1 Rd2 36. f3 Bb4 37. Nc2 Rxg2 38. Kxg2 Rc8 39. Nxb4 axb4 40. Re1
+b3 41. Kg3 b2 42. Rb1 Rc2 43. e4 Ne3 44. Na3 Rg2+ 45. Kh3 Rd2 46. Nc4 Nxc4 0-1
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.28"]
+[Round "1.2"]
+[White "Bu Xiangzhi"]
+[Black "Pelletier, Yannick"]
+[Result "1/2-1/2"]
+[ECO "A30"]
+[WhiteElo "2695"]
+[BlackElo "2592"]
+[PlyCount "94"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "China"]
+[BlackTeam "Switzerland"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "SUI"]
+[TimeControl "1500+10"]
+
+1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 c5 5. O-O e6 6. Nc3 Be7 7. d4 cxd4 8. Qxd4
+d6 9. Rd1 a6 10. b3 Nbd7 11. Bb2 O-O 12. Ne1 Bxg2 13. Nxg2 Qb8 14. Ne4 Rd8 15.
+Ne3 Ne8 16. Rac1 Qb7 17. Rc2 f5 18. Nd2 Ne5 19. Ng2 Bf6 20. Qe3 Nc7 21. Nf3 Ng4
+22. Qc1 Bxb2 23. Qxb2 Nf6 24. Nf4 Rac8 25. Rcd2 Ne4 26. Rd3 Qc6 27. h4 h6 28.
+h5 Qe8 29. Nh4 b5 30. Kg2 bxc4 31. bxc4 Rb8 32. Qa3 Qc6 33. f3 Nc5 34. Re3 Re8
+35. Nfg6 Kh7 36. Qc3 Rb6 37. Qc2 Qa4 38. Qxa4 Nxa4 39. Rb3 Rc6 40. Rdb1 Kg8 41.
+Rb8 Kf7 42. Rxe8 Nxe8 43. Rb8 Rxc4 44. Nh8+ Ke7 45. N8g6+ Kf7 46. Nh8+ Ke7 47.
+N8g6+ Kf7 1/2-1/2
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.29"]
+[Round "1.1"]
+[White "Le Quang, Liem"]
+[Black "Nguyen, Ngoc Truongson"]
+[Result "0-1"]
+[ECO "D18"]
+[WhiteElo "2694"]
+[BlackElo "2633"]
+[PlyCount "80"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Vietnam"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "VIE"]
+[BlackTeamCountry "VIE"]
+[TimeControl "1500+10"]
+
+1. Nf3 d5 2. d4 c6 3. c4 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Nh4 Nbd7 10. h3 Bg6 11. Nxg6 hxg6 12. Qc2 Qe7 13. Rd1 Rfd8 14. a5 c5 15.
+Qb3 Nb8 16. d5 Bxc3 17. d6 Rxd6 18. Rxd6 Qxd6 19. Qxb7 Qd1+ 20. Bf1 Qd5 21.
+Qxd5 exd5 22. bxc3 c4 23. f3 Nc6 24. e4 Ne5 25. Bf4 Nd3 26. Bxd3 cxd3 27. e5
+Nd7 28. Rd1 Nc5 29. Be3 Rc8 30. Kf2 a6 31. Ke1 Kf8 32. Rb1 Ke7 33. Kd2 Nd7 34.
+Bd4 Rc4 35. Rb4 Rc7 36. Kxd3 g5 37. Ke3 Ke6 38. g3 Kf5 39. Rb1 Ke6 40. g4 Rc4 {
+game incomplete} 0-1
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.29"]
+[Round "1.2"]
+[White "Nguyen, Ngoc Truongson"]
+[Black "Le Quang, Liem"]
+[Result "0-1"]
+[ECO "A45"]
+[WhiteElo "2633"]
+[BlackElo "2694"]
+[PlyCount "98"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Vietnam"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "VIE"]
+[BlackTeamCountry "VIE"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nc3 h6 4. Bh4 c5 5. e3 Qb6 6. Bxf6 gxf6 7. a3 cxd4 8.
+exd4 f5 9. Nf3 Bg7 10. b4 Nc6 11. Na4 Qc7 12. Be2 d6 13. O-O O-O 14. c4 e5 15.
+d5 Ne7 16. Rc1 Bd7 17. Nc3 b6 18. Qd2 Ng6 19. Rfe1 Rfc8 20. Bf1 a5 21. Nb5 Qb8
+22. Nc3 Rc7 23. Nb5 Rc8 24. Nc3 Be8 25. h4 Qc7 26. g3 e4 27. Nd4 Bxd4 28. Qxd4
+axb4 29. axb4 Ne5 30. Kh1 Qd8 31. Qe3 Qf6 32. Qf4 Kg7 33. Be2 Ra3 34. Rg1 Bd7
+35. Rgd1 Rb3 36. b5 Rb2 37. Bf1 Nxc4 38. Na4 Rb4 39. Rxc4 Rcxc4 40. Bxc4 Rxa4
+41. Bf1 Rb4 42. Qe3 Bxb5 43. Qxb6 f4 44. Bxb5 fxg3 45. Qe3 Qxh4+ 46. Kg2 Qh2+
+47. Kf1 g2+ 48. Ke2 Rb2+ 49. Rd2 Qh5+ 0-1
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.29"]
+[Round "1.3"]
+[White "Nguyen, Ngoc Truongson"]
+[Black "Le Quang, Liem"]
+[Result "1/2-1/2"]
+[ECO "D06"]
+[WhiteElo "2633"]
+[BlackElo "2694"]
+[PlyCount "163"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Vietnam"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "VIE"]
+[BlackTeamCountry "VIE"]
+[TimeControl "180+2"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 Bf5 4. c4 Nc6 5. Nc3 e6 6. Nf3 Bb4 7. Be2 Ne4 8. Qb3
+O-O 9. O-O Bxc3 10. bxc3 Na5 11. Qb4 Nxc4 12. Bxc4 dxc4 13. Qxc4 c5 14. Rfc1
+Rc8 15. Qb3 b6 16. h3 h6 17. a4 Qd5 18. c4 Qb7 19. a5 Rfd8 20. axb6 axb6 21.
+Rd1 Nf6 22. Ne5 cxd4 23. exd4 Nd7 24. Ng4 Bxg4 25. hxg4 Qe4 26. Be3 Qxg4 27. d5
+Nf6 28. Bxb6 Rb8 29. Qe3 Rd7 30. Ba7 Ra8 31. Bd4 Rxa1 32. Rxa1 exd5 33. Bxf6
+gxf6 34. Qe8+ Kg7 35. Ra8 Qd1+ 36. Kh2 Qh5+ 37. Kg3 Qe5+ 38. Qxe5 fxe5 39. cxd5
+Rxd5 40. f3 Rd6 41. Ra7 Kg6 42. Ra5 f6 43. Ra8 Rd7 44. Ra6 Kf5 45. Ra5 h5 46.
+Ra8 Rg7+ 47. Kf2 h4 48. Ra4 Rh7 49. Rb4 h3 50. gxh3 Rxh3 51. Ra4 Rh8 52. Kg3
+Rg8+ 53. Kf2 Rd8 54. Ke3 Rb8 55. Kf2 Rb3 56. Kg3 Re3 57. Kf2 Rd3 58. Kg3 Kg5
+59. Rg4+ Kf5 60. Ra4 Rd4 61. Ra5 Kg5 62. Ra8 Rd3 63. Kf2 f5 64. Ra4 Rd4 65. Ra2
+Kf4 66. Rb2 Rc4 67. Ra2 Rb4 68. Rc2 Kg5 69. Kg3 Rb3 70. Kf2 Ra3 71. Rb2 Kf4 72.
+Rb4+ e4 73. fxe4 fxe4 74. Rb2 Rh3 75. Kg2 Rg3+ 76. Kf2 e3+ 77. Kf1 Kf3 78. Rf2+
+Ke4 79. Ra2 Rh3 80. Ra8 Rh1+ 81. Ke2 Rh2+ 82. Ke1 1/2-1/2
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.29"]
+[Round "1.4"]
+[White "Le Quang, Liem"]
+[Black "Nguyen, Ngoc Truongson"]
+[Result "1/2-1/2"]
+[ECO "D18"]
+[WhiteElo "2694"]
+[BlackElo "2633"]
+[PlyCount "82"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Vietnam"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "VIE"]
+[BlackTeamCountry "VIE"]
+[TimeControl "180+2"]
+
+1. Nf3 d5 2. d4 c6 3. c4 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Nh4 Nbd7 10. h3 Bg6 11. Nxg6 hxg6 12. Qc2 Qe7 13. Rd1 Rfd8 14. a5 c5 15.
+a6 bxa6 16. Bxa6 Nb6 17. Nb5 Rd7 18. Bd2 cxd4 19. Nxd4 Bxd2 20. Rxd2 Qb4 21.
+Rd3 Nbd5 22. Rb3 Qd6 23. Qc6 Qxc6 24. Nxc6 Ne4 25. Bb7 Re8 26. Rxa7 Kh7 27. Ne5
+Rde7 28. Bxd5 exd5 29. Rxe7 Rxe7 30. Nd3 Ra7 31. Ra3 Rc7 32. f3 Nd6 33. Ra5 Nc4
+34. Rxd5 Nxe3 35. Rc5 Rd7 36. Rc3 Nd1 37. Rb3 Ne3 38. Kf2 Nc4 39. Rc3 Nxb2 40.
+Nxb2 Rd2+ 41. Kg3 Rxb2 1/2-1/2
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.29"]
+[Round "1.5"]
+[White "Nguyen, Ngoc Truongson"]
+[Black "Le Quang, Liem"]
+[Result "0-1"]
+[ECO "D78"]
+[WhiteElo "2633"]
+[BlackElo "2694"]
+[PlyCount "190"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Vietnam"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "VIE"]
+[BlackTeamCountry "VIE"]
+[TimeControl "180+2"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 c6 6. d4 d5 7. Qb3 Qb6 8. Nc3
+Bf5 9. Qxb6 axb6 10. cxd5 Nxd5 11. Nxd5 cxd5 12. Bd2 Nc6 13. e3 Be4 14. Rfc1
+Rfc8 15. Bc3 b5 16. a3 e6 17. Nd2 Bxg2 18. Kxg2 Bf8 19. Nf3 Bd6 20. Be1 Kf8 21.
+Kf1 Ke7 22. Ke2 f6 23. Bc3 Ra4 24. Rab1 Rd8 25. Rd1 b4 26. axb4 Nxb4 27. Ra1
+Na2 28. Bd2 Rda8 29. Kf1 R8a6 30. Ne1 e5 31. Nf3 Rc6 32. dxe5 fxe5 33. Be1 Rc5
+34. Rd2 Nc3 35. Rxa4 Nxa4 36. b3 Nb6 37. Rd1 Rb5 38. Bc3 Ke6 39. Rb1 h6 40. Ke2
+Na4 41. Bd2 Nc5 42. b4 Na6 43. Bc3 Rb6 44. b5 Nc7 45. h4 Nxb5 46. Kd2 Na3 47.
+Ra1 Nb1+ 48. Kc2 Nxc3 49. Kxc3 Rc6+ 50. Kb3 Rb6+ 51. Kc3 Ra6 52. Rb1 b6 53. Nd2
+Kd7 54. Kd3 Kc6 55. e4 Bc5 56. exd5+ Kxd5 57. f3 Ra3+ 58. Kc2 Bf2 59. g4 Be3
+60. Ne4 Bd4 61. Nd2 Rc3+ 62. Kd1 Ra3 63. Kc2 Bc5 64. Kd1 Kc6 65. Nc4 Rd3+ 66.
+Kc2 Rd5 67. h5 gxh5 68. gxh5 b5 69. Nd2 b4 70. Ne4 Kb5 71. Nc3+ Kc4 72. Nxd5
+Kxd5 73. Kd3 Be7 74. Rg1 Bf8 75. Rg8 Be7 76. Rg6 b3 77. Rb6 Bg5 78. Rxb3 Bf4
+79. Rb6 Kc5 80. Ra6 Kd5 81. Ra5+ Ke6 82. Ke4 Kf6 83. Ra1 Kg5 84. Rg1+ Kxh5 85.
+Kf5 Kh4 86. Rg4+ Kh3 87. Ke4 h5 88. Rg8 h4 89. Ra8 Kg2 90. Ra2+ Kg3 91. Ra8 h3
+92. Rg8+ Kf2 93. Rh8 h2 94. Rh7 Kg2 95. Rg7+ Bg3 0-1
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.29"]
+[Round "1.6"]
+[White "Le Quang, Liem"]
+[Black "Nguyen, Ngoc Truongson"]
+[Result "1-0"]
+[ECO "E91"]
+[WhiteElo "2694"]
+[BlackElo "2633"]
+[PlyCount "53"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Vietnam"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "VIE"]
+[BlackTeamCountry "VIE"]
+[TimeControl "180+2"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 Nc6 7. O-O a6 8. h3 e6
+9. Be3 Bd7 10. Qd2 e5 11. Rad1 exd4 12. Nxd4 Ne5 13. Bh6 Re8 14. Bxg7 Kxg7 15.
+f4 Nc6 16. Bf3 Ng8 17. Nd5 Nxd4 18. Qxd4+ f6 19. c5 Bb5 20. Rfe1 Qd7 21. cxd6
+Qxd6 22. e5 fxe5 23. fxe5 Qd8 24. e6+ Nf6 25. Qe5 Rc8 26. g4 h6 27. h4 1-0
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.29"]
+[Round "1.1"]
+[White "Ivanchuk, Vassily"]
+[Black "Polgar, Judit"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "2754"]
+[BlackElo "2682"]
+[PlyCount "113"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "Hungary"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "HUN"]
+[TimeControl "1500+10"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. c3 Nge7 5. d4 Qa5 6. Na3 cxd4 7. Bd2 Ng6 8.
+cxd4 Qb6 9. Qa4 a6 10. Rb1 Rb8 11. Bd3 Bb4 12. Nc4 Bxd2+ 13. Kxd2 Qc7 14. Qa3
+Qf4+ 15. Ke2 d5 16. g3 Qg4 17. Nd6+ Kd7 18. Ke3 f5 19. Be2 fxe4 20. h3 Qxf3+
+21. Bxf3 exf3 22. Rhc1 Nge7 23. Rc2 Rf8 24. Rbc1 Rf6 25. h4 h5 26. Kd2 Rf8 27.
+Rc3 Rf6 28. Ke1 Rf8 29. Qc5 Rf6 30. a4 b6 31. Qa3 Bb7 32. a5 Ba8 33. b4 e5 34.
+axb6 Rxb6 35. dxe5 Re6 36. b5 axb5 37. Nxb5 Rxe5+ 38. Kf1 Rxb5 39. Qxa8 Rb6 40.
+Rxf3 d4 41. Rd1 Rb8 42. Qa4 Rb4 43. Qc2 Kd6 44. Rf7 g6 45. Rf6+ Kd7 46. Rc1 Rb6
+47. Qc4 Re4 48. Rxg6 Rb4 49. Qd3 Re5 50. Rg5 Kd6 51. Qh7 Rxg5 52. hxg5 Ne5 53.
+Rd1 Ra4 54. Qxh5 d3 55. g6 N7xg6 56. Rxd3+ Ke6 57. Rb3 1-0
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.29"]
+[Round "1.2"]
+[White "Polgar, Judit"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "2682"]
+[BlackElo "2754"]
+[PlyCount "80"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Hungary"]
+[BlackTeam "Ukraine"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "UKR"]
+[TimeControl "1500+10"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. O-O Bf5 5. d3 e6 6. Nbd2 h6 7. Qe1 Be7 8. h3
+Bh7 9. b3 a5 10. Bb2 a4 11. e4 Na6 12. Qe2 O-O 13. a3 axb3 14. cxb3 Nc5 15. Ne1
+Nfd7 16. e5 Qb6 17. Qe3 Nxd3 18. Qxb6 Nxb6 19. Nxd3 Bxd3 20. Rfc1 Nd7 21. Re1
+Rfc8 22. h4 c5 23. a4 c4 24. bxc4 Bxc4 25. Nxc4 Rxc4 26. Rec1 Rxc1+ 27. Rxc1
+Nc5 28. Bf1 Rxa4 29. Bc3 g6 30. Bb5 Ra2 31. Bd4 Kg7 32. Rb1 Ne4 33. Rc1 Bc5 34.
+Bxc5 Nxc5 35. Rxc5 Ra5 36. Rc6 b6 37. Rd6 Rxb5 38. f4 Rb2 39. Kf1 b5 40. Rb6 b4
+0-1
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.30"]
+[Round "2.1"]
+[White "Le Quang, Liem"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[ECO "E15"]
+[WhiteElo "2694"]
+[BlackElo "2733"]
+[PlyCount "197"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Vietnam"]
+[BlackTeam "US of America"]
+[WhiteTeamCountry "VIE"]
+[BlackTeamCountry "USA"]
+[TimeControl "1500+10"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Bd2 Be7 6. Nf3 c6 7. Qc2 O-O 8. O-O
+b6 9. Rd1 Ba6 10. b3 Nbd7 11. a4 c5 12. Na3 Bb7 13. Qb2 Ne4 14. Be1 f5 15. e3
+Bf6 16. Rac1 Qe7 17. b4 Bc6 18. Qb3 a5 19. bxa5 bxa5 20. cxd5 Bxd5 21. Nc4 Rfc8
+22. Qd3 cxd4 23. exd4 Bc6 24. Ra1 Qd8 25. Nfe5 Bd5 26. Rac1 Nxe5 27. Nxe5 Qe8
+28. Nc4 Qc6 29. Ne3 Qxc1 30. Nxd5 exd5 31. Rxc1 Rxc1 32. Qe3 Ra1 33. Bf1 Rb8
+34. Bc3 Rxa4 35. Qf4 Rd8 36. Qc7 Nxc3 37. Qxc3 Rxd4 38. Qxa5 g6 39. Qb6 Rf8 40.
+Bb5 Kg7 41. Bc6 Rf7 42. Qc5 Rd2 43. Qa5 Rc2 44. Qxd5 Ra7 45. Ba4 Rc8 46. Bb3
+Rd8 47. Qc4 Re7 48. h4 h5 49. Kg2 Kh7 50. Qc6 Bg7 51. Bd5 Bd4 52. Kf3 Kg7 53.
+Bb3 Rb8 54. Qd5 Bf6 55. Kg2 Ra7 56. Qc5 Rd7 57. Qc4 Rdb7 58. Ba2 Rd8 59. Bb3
+Rd2 60. Qg8+ Kh6 61. Qc4 Rbd7 62. Qe6 R2d6 63. Qe3+ Kg7 64. Qe8 Rd8 65. Qf7+
+Kh6 66. Qc4 Bd4 67. Qc1+ Kg7 68. Qc4 R6d7 69. Qe6 Rc7 70. Kf1 Bf6 71. Kg2 Rf8
+72. Qd6 Re7 73. Qd5 Rc8 74. Bc4 Rec7 75. Bb3 Re8 76. Qd6 Be5 77. Qd5 f4 78. Qe4
+Rce7 79. Bc2 Re6 80. Ba4 R8e7 81. gxf4 Bf6 82. Qd5 Bxh4 83. Bb3 Rf6 84. Qg8+
+Kh6 85. Qh8+ Rh7 86. Qb8 Re7 87. Kh3 g5 88. Qh8+ Kg6 89. Bc2+ Kf7 90. fxg5 Bxg5
+91. Qxh5+ Kf8 92. Qxg5 Rf3+ 93. Kg2 Ref7 94. Qd8+ Kg7 95. Qd4+ Kf8 96. Qh8+ Ke7
+97. Qh4+ Kd6 98. Qd4+ Kc7 99. Qc5+ 1-0
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.30"]
+[Round "2.2"]
+[White "Nakamura, Hikaru"]
+[Black "Le Quang, Liem"]
+[Result "1-0"]
+[ECO "D11"]
+[WhiteElo "2733"]
+[BlackElo "2694"]
+[PlyCount "137"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "US of America"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "VIE"]
+[TimeControl "1500+10"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. Nbd2 Nbd7 6. cxd5 cxd5 7. Qb3 Qb6 8.
+Ne5 Qxb3 9. Nxb3 Nxe5 10. dxe5 Nd7 11. f3 Bh5 12. Bd2 Rc8 13. e6 fxe6 14. Bc3
+e5 15. Bb5 e6 16. Na5 a6 17. Bxd7+ Kxd7 18. Nxb7 Rb8 19. Na5 Bd6 20. Nb3 Rhc8
+21. Kd2 Ke7 22. Rhf1 Be8 23. f4 d4 24. exd4 exf4 25. Rf2 g5 26. Nc1 Bc6 27. Nd3
+Bd5 28. a3 Be4 29. Re1 Bf5 30. h4 h6 31. Rh1 Kf7 32. Rff1 Kg6 33. b4 a5 34. Nc5
+axb4 35. axb4 e5 36. hxg5 hxg5 37. Ra1 exd4 38. Ra6 Rd8 39. Bxd4 Rxb4 40. Kc3
+Bc8 41. Rc6 Bb7 42. Nxb7 Rxb7 43. Bb6 Rxb6 44. Rxb6 Kf5 45. Rb5+ Be5+ 46. Kc2
+Rd4 47. Rh8 Rc4+ 48. Kd2 Rd4+ 49. Ke2 Re4+ 50. Kf1 Re3 51. Re8 Re4 52. Kf2 g4
+53. Rf8+ Kg6 54. Kf1 Bc3 55. Rg8+ Kf6 56. Rxg4 Ra4 57. Rh4 Kg6 58. Rg4+ Kf6 59.
+Rg8 Bb4 60. Rc8 Bd6 61. Rc6 Rd4 62. Ke2 Ke6 63. Ra6 Re4+ 64. Kf2 Rd4 65. Rb3
+Kd5 66. Kf3 Ke6 67. Rbb6 Ke5 68. Rxd6 Rxd6 69. Rxd6 1-0
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.30"]
+[Round "2.3"]
+[White "Nakamura, Hikaru"]
+[Black "Le Quang, Liem"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "2733"]
+[BlackElo "2694"]
+[PlyCount "97"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "US of America"]
+[BlackTeam "Vietnam"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "VIE"]
+[TimeControl "180+2"]
+
+1. g3 Nf6 2. d3 d5 3. Bg2 e5 4. Nd2 Nc6 5. c3 a5 6. e4 Bc5 7. Ngf3 dxe4 8. dxe4
+O-O 9. O-O h6 10. Qc2 Be6 11. a4 Qd7 12. Re1 Rfd8 13. Nb3 Bb6 14. Be3 Qd3 15.
+Qxd3 Rxd3 16. Bxb6 cxb6 17. Nbd2 Rad8 18. Nf1 Nd7 19. Ne3 Nc5 20. Bf1 R3d7 21.
+Nc4 Bxc4 22. Bxc4 Kf8 23. Bb5 f6 24. Kg2 Rd6 25. Rab1 Na7 26. b4 axb4 27. cxb4
+Ne6 28. Bc4 Nd4 29. Nh4 g5 30. Ng6+ Ke8 31. h4 g4 32. h5 Nac6 33. Rec1 Ra8 34.
+a5 bxa5 35. bxa5 Nxa5 36. Bd5 Rd7 37. Rb6 Ndc6 38. Nh4 Ne7 39. Rxf6 Nxd5 40.
+exd5 Ra6 41. Rc8+ Ke7 42. Rxa6 bxa6 43. Nf5+ Kf6 44. Ne3 Kg5 45. Rg8+ Kxh5 46.
+Nxg4 Rf7 47. Kh3 Nc4 48. Nf6+ Rxf6 49. g4# 1-0
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.30"]
+[Round "2.4"]
+[White "Le Quang, Liem"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[ECO "D37"]
+[WhiteElo "2694"]
+[BlackElo "2733"]
+[PlyCount "102"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Vietnam"]
+[BlackTeam "US of America"]
+[WhiteTeamCountry "VIE"]
+[BlackTeamCountry "USA"]
+[TimeControl "180+2"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 Nh5 8. Bd3
+Nxf4 9. exf4 b6 10. b4 a5 11. a3 c6 12. O-O Qc7 13. Ne5 Ba6 14. Bxa6 Nxe5 15.
+fxe5 Rxa6 16. Qd3 Raa8 17. g3 Rfb8 18. Na4 axb4 19. cxb6 Qd8 20. axb4 Bxb4 21.
+Rfb1 Be7 22. Qc2 Qc8 23. Rc1 Bd8 24. Rab1 Ra5 25. Kg2 h5 26. h4 g6 27. Rb4 Be7
+28. Nc5 Rb5 29. Rxb5 cxb5 30. Qb1 Rxb6 31. Nd3 Rc6 32. Nc5 Qb8 33. Qb4 Qb6 34.
+Rc3 Rc7 35. Kh3 Bxc5 36. dxc5 Qc6 37. Qd4 Ra7 38. Rf3 Ra4 39. Qe3 Rg4 40. Qa3
+Ra4 41. Qe3 Rg4 42. Kh2 d4 43. Qa3 b4 44. Qd3 Qxc5 45. Qa6 Qe7 46. Qb6 Re4 47.
+Qb8+ Kg7 48. Rd3 Qc5 49. Rf3 Rxe5 50. Qd8 Rf5 51. Rxf5 exf5 0-1
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.30"]
+[Round "2.1"]
+[White "Ivanchuk, Vassily"]
+[Black "Bu Xiangzhi"]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2754"]
+[BlackElo "2695"]
+[PlyCount "143"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "China"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "CHN"]
+[TimeControl "1500+10"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 g6 5. Nbd2 Bg7 6. b4 O-O 7. Bb2 a5 8. b5 a4
+9. Rc1 dxc4 10. Bxc4 cxb5 11. Bxb5 Qb6 12. Qe2 Bd7 13. Bxd7 Qxb2 14. Rb1 Qxa2
+15. Bb5 Qe6 16. Bc4 Qd7 17. Ne5 Qc7 18. O-O Nc6 19. Nxf7 Rxf7 20. Nf3 Nd8 21.
+Ng5 Ra5 22. Nxf7 Nxf7 23. Qa2 e5 24. dxe5 Rxe5 25. Bxf7+ Qxf7 26. Qxf7+ Kxf7
+27. Rxb7+ Kg8 28. Ra7 Bf8 29. Rxa4 Kf7 30. h3 g5 31. g4 Kg6 32. Ra6 Be7 33.
+Rfa1 Bd8 34. Kg2 h5 35. Kf3 hxg4+ 36. hxg4 Rd5 37. Rc6 Kf7 38. Ra7+ Be7 39.
+Rcc7 Re5 40. Rcb7 Kf8 41. Ra4 Rd5 42. Rba7 Rd2 43. R7a5 Ng8 44. Rf5+ Kg7 45.
+Ra7 Kg6 46. Ra6+ Kg7 47. Re6 Rd7 48. Ra5 Bf6 49. Ke2 Bd8 50. Raa6 Rb7 51. Rad6
+Be7 52. Rb6 Ra7 53. Ra6 Rb7 54. f4 Nf6 55. Kf3 gxf4 56. g5 Nd5 57. exf4 Kf7 58.
+Re5 Rd7 59. Kg4 Nb4 60. Rh6 Bf8 61. Rf6+ Kg7 62. Re8 Be7 63. Rf5 Bd6 64. Re6
+Bc7 65. Rb5 Nd3 66. f5 Kf7 67. g6+ Kg7 68. Kg5 Bf4+ 69. Kh5 Bc7 70. f6+ Kf8 71.
+g7+ Kf7 72. Re7+ 1-0
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.30"]
+[Round "2.2"]
+[White "Bu Xiangzhi"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[ECO "D55"]
+[WhiteElo "2695"]
+[BlackElo "2754"]
+[PlyCount "80"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "China"]
+[BlackTeam "Ukraine"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "UKR"]
+[TimeControl "1500+10"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bg5 h6 6. Bxf6 Bxf6 7. Qb3 c6 8. e3
+O-O 9. Be2 b6 10. O-O Bb7 11. Rfd1 Nd7 12. a4 Rb8 13. Qc2 Be7 14. b3 a5 15. h3
+Qc7 16. Bd3 Rbc8 17. Qe2 Nf6 18. Ne5 Rfd8 19. Rac1 Bd6 20. f4 Qe7 21. Rf1 Bb8
+22. f5 Nd7 23. fxe6 Nxe5 24. Bb1 Qxe6 25. cxd5 Qe7 26. dxe5 Bxe5 27. dxc6 Bxc6
+28. Bd3 Bxg2 29. Qxg2 Rxc3 30. Rxc3 Bxc3 31. Bc4 Bf6 32. Kh1 Kh8 33. Qf3 Rd2
+34. Qa8+ Kh7 35. Bd5 Qxe3 36. Be4+ g6 37. Bg2 Rf2 38. Rd1 Qxb3 39. Rc1 Rd2 40.
+Bf3 Qb2 0-1
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.31"]
+[Round "3.1"]
+[White "Ivanchuk, Vassily"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[ECO "C30"]
+[WhiteElo "2754"]
+[BlackElo "2733"]
+[PlyCount "83"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "US of America"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "USA"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 f5 4. d3 d6 5. Nc3 Nf6 6. g3 g6 7. Bg2 Bg7 8. fxe5
+dxe5 9. Bg5 h6 10. Be3 O-O 11. O-O fxe4 12. dxe4 Be6 13. a3 Kh7 14. Kh1 a6 15.
+Bg1 Rf7 16. Qe2 Nd4 17. Qd3 Nxf3 18. Qxf3 Rd7 19. Rad1 Bg4 20. Rxd7 Bxf3 21.
+Rxd8 Bxg2+ 22. Kxg2 Rxd8 23. Be3 g5 24. h3 Kg6 25. g4 c6 26. Rf2 b5 27. Rd2
+Rxd2+ 28. Bxd2 Bf8 29. Kf3 h5 30. Ne2 hxg4+ 31. hxg4 Nd7 32. Nc1 c5 33. Na2 Nb8
+34. c4 bxc4 35. Nc3 Nc6 36. Nd5 Nd4+ 37. Ke3 Kf7 38. Nb6 Ke6 39. Nxc4 Be7 40.
+Ba5 Nb5 41. Kd3 Nd6 42. Nxd6 1-0
+
+[Event "Le trophée CCAS, Final"]
+[Site "Cap d'Agde, France"]
+[Date "2010.10.31"]
+[Round "3.2"]
+[White "Nakamura, Hikaru"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "C38"]
+[WhiteElo "2733"]
+[BlackElo "2754"]
+[PlyCount "38"]
+[EventDate "2010.10.22"]
+[EventType "k.o. (rapid)"]
+[EventRounds "3"]
+[EventCountry "FRA"]
+[EventCategory "18"]
+[Source "Cap d'Agde, FRA"]
+[SourceDate "2010.10.31"]
+[WhiteTeam "US of America"]
+[BlackTeam "Ukraine"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "UKR"]
+[TimeControl "1500+10"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. d4 d6 7. c3 Nc6 8. O-O g4
+9. Ne1 Qxh4 10. Bxf4 Nf6 11. e5 dxe5 12. dxe5 g3 13. Bxg3 Qxg3 14. exf6 Bf8 15.
+Nd3 Bd6 16. Qh5 Bg4 17. Bxf7+ Kf8 18. Qg6 Qh2+ 19. Kf2 Qg3+ 1/2-1/2
+

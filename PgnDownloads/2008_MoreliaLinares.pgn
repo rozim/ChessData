@@ -1,0 +1,2277 @@
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.15"]
+[Round "1"]
+[White "Topalov, Veselin"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[ECO "E20"]
+[WhiteElo "2780"]
+[BlackElo "2739"]
+[PlyCount "70"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. d4 {Topalov and Aronian met last time in the second round of Wijk aan Zee
+tournament (January 2008). In that game Topalov achieved advantage with Black,
+but completely misplayed the position and lost. In the end Aronian shared
+first place, while Topalov made a minus score, finishing on the 9th place...}
+Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 {This system was prepared by Kasparov and very
+successfully implemented in his second match versus Karpov (Moscow 1985),
+which was a surprise at that time, since 4.Nf3 has been considered a harmless
+move until then. In the past decades the theory of 4.Nf3 developed a lot.
+Topalov and Aronian have a vaste experience with it with both colours.} c5 5.
+g3 {The arising positions are often a sort of mixture between Nimzo, Catalan
+and English Opening.} cxd4 6. Nxd4 Ne4 7. Qd3 Bxc3+ 8. bxc3 Nc5 9. Qf3 d6 10.
+Bg2 {A solid variation for Black, who has a better pawn structure as the
+compensation for opponent's bishop pair. White's task is to exert pressure on
+Black's queenside and on the d-file, trying to open the position.} e5 (10...
+Nbd7 {was met in practice of both Topalov and Aronian. They must have come to
+the conclusion that White's chances are preferable after that.}) 11. Qe3 {
+An important novelty in the well-known position. White's idea is to retreat
+the knight to b3 with greater effect.} (11. Nb3 Nba6 12. Ba3 Qc7 13. Rd1 Be6
+14. Bxc5 Nxc5 15. Nxc5 dxc5 (15... Qxc5 16. Qxb7 Rc8 {
+and Black must achieve a draw rather easily}) 16. O-O Rb8 17. Qh5 O-O 18. Bd5
+Rfe8 19. Bxe6 Rxe6 20. Rd5 Re7 21. Rfd1 {and Aronian squized a full point in
+Aronian,L (2756)-Nielsen,P (2646)/Turin 2006.}) 11... O-O (11... Nba6 {
+Black must reckon first of all with} 12. f4) (11... Qc7 12. Nb5 Qb6 13. Ba3
+Nba6 {13...O-O 14.Nxd6 losing for black} 14. Rd1 {winning}) 12. Nb3 Qc7 {
+Possibly this is already inaccurate.} (12... Nba6 13. Ba3 Qc7 {is critical})
+13. Nxc5 dxc5 (13... Qxc5 14. Qxc5 dxc5 15. Be3 {is unpleasant for Black.}) 14.
+O-O Nd7 15. f4 {The right position for Topalov: White has the initiative and
+enough resources to exert pressure on opponent. Considering that in opposite
+to Aronian the Bulgarian must have analyzed the position at home, it becomes
+clear that Levon's task was exceptionally difficult.} exf4 {During the next
+few moves the position will become from good to almost winning for White, so
+around here Black should look for improvements.} 16. Rxf4 a5 {Very creative:
+the rook will enter the game via a6. Unfortunately for Aronian, this does not
+solve Black's problems.} 17. Qe7 Qe5 18. Qxe5 Nxe5 19. Be3 Nd7 20. Re4 {
+The rook goes to e7 and it becomes clear that White's advantage should be
+decisive.} Ra6 21. Rb1 Rg6 22. Re7 b6 23. Bf4 {A complete domination of white
+pieces. On top of all Aronian was already experiencing problems with the time
+on the clock, so the rest was a technical matter for the ex-World Champion.} h5
+24. Be4 Re6 25. Rxe6 fxe6 26. Bd6 Rf6 27. Rd1 Kf7 28. Bf4 Kg8 29. Bc7 Rf7 30.
+Bg6 a4 31. Bxh5 Nf6 32. Bxf7+ Kxf7 33. Bxb6 Ba6 34. Bxc5 e5 35. a3 Bxc4 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.15"]
+[Round "1"]
+[White "Shirov, Alexei"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "B96"]
+[WhiteElo "2755"]
+[BlackElo "2799"]
+[PlyCount "60"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 c5 {Anand usually replies 1.e4 with either 1...e5 or 1...c5. In the last
+decade he lost with 1...e5 extremely rare and won almost every fourth game (in
+average, naturally). Sicilian is a much riskier choice for the World Champion:
+he lost considerably more games after 1...c5 than after 1...e5. Nevertheless
+his winning quota with Sicilian is also much higher. Considering Anand's large
+plus score against Shirov, the choice of Sicilian was expectable - the World
+Champion intended to play for a win right from his very first game in Morelia!}
+2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 {Shirov has ed many games
+with 6.Be3 against Najdorf, but he switched to 6.Bg5 lately, so Anand was
+certanly well prepared to meet it.} e6 7. f4 Nbd7 {
+Other examples from Shirov's recent practice in this variation are:} (7... Qb6
+8. Qd2 Qxb2 9. Rb1 Qa3 10. e5 h6 11. Bh4 dxe5 12. fxe5 Nfd7 13. Ne4 Qxa2 14.
+Rd1 Qd5 15. Qe3 Qxe5 16. Be2 Bc5 17. Bg3 Bxd4 18. Rxd4 Qa5+ 19. Rd2 O-O 20. Bd6
+Nc6 21. O-O f5 22. Bxf8 Nxf8 23. Nd6 b5 24. Bf3 Bd7 25. Nxf5 exf5 26. Rxd7 Nxd7
+27. Bxc6 Rd8 28. Bxd7 {
+1-0 Shirov,A (2715)-Guliyev,N (2545)/Calatrava (rapid) 2007}) (7... Qc7 8. Bxf6
+gxf6 9. Be2 Nc6 10. Qd3 h5 11. O-O-O Bd7 12. Nf5 $5 exf5 13. Nd5 Qa5 14. Nxf6+
+Kd8 15. Nxd7 Kxd7 16. Qb3 {
+with a complete mess, Shirov,A (2739)-Akopian,V (2713)/Khanty-Mansiysk 2007})
+8. Qf3 Qc7 9. O-O-O b5 10. Bd3 {Shirov remains true to his style. He prefers
+to go for complicated battle rather than make short draws, which is very
+appealing to spectators. The drawback of this style is that sometimes his
+opponents are trying to take advantage of Shirov's fighting mood.} (10. e5 {
+The chess theory is so much developed, that even in the sharpest variations
+there are often forced draws. Take a look at the following game:} Bb7 11. Qh3
+dxe5 12. Nxe6 fxe6 13. Qxe6+ Be7 14. Bxb5 axb5 15. Nxb5 Qc6 16. Nd6+ Kd8 17.
+fxe5 Kc7 18. Qxe7 Rxa2 19. exf6 Ra1+ 20. Kd2 Qd5+ 21. Kc3 Qa5+ 22. Kd3 {
+# Now draw y repetition: checks on d5 and a5. The entire variation is more or
+less forced: after 10.e5 Black should objectively go for it and repeat moves
+in the end. The diagram position is from the game Nisipeanu,L (2584)-Shirov,A
+(2734), Las Vegas 1999, where the Romanian Grandmaster quite unexpectedly
+forced such a draw with the white pieces in the first game of their mini-match.
+Normally this should have meant a psychological victory for Shirov, who made
+an easy draw with black, but on the other hand it provoked him to play the
+second game even more aggressive than usual. Nisipeanu won it with Black,
+cleverly using Shirov's hyper-aggressive play...}) 10... Bb7 11. Rhe1 Qb6 (
+11... Be7 {Anand is not willing to wait for Shirov's improvement over his loss
+against Van Wely last year:} 12. Qg3 b4 13. Nd5 exd5 14. exd5 Kd8 15. Nc6+ Bxc6
+16. dxc6 Nc5 17. Bc4 Nfe4 18. Qe3 f5 19. g4 g6 20. gxf5 gxf5 21. Rd5 Bxg5 22.
+fxg5 Rf8 23. Rf1 Qxc6 24. Rdxf5 Rxf5 25. Rxf5 Qe8 26. Rf7 Rc8 27. Rxh7 Qe5 28.
+g6 Na4 29. g7 Qxb2+ {0-1 Shirov,A (2699)-Van Wely,L (2674)/Foros 2007.}) 12.
+Nb3 Rc8 {A rare move.} (12... b4 {In December 2007 Shirov obtained a promising
+position against the more popular 11...b4:} 13. Nb1 Be7 14. N1d2 Qc7 15. Qh3 e5
+16. Nc4 O-O 17. Nba5 Bc8 18. Qg3 Re8 19. Kb1 {but with accurate defense Black
+achieved a draw, Shirov,A (2739)-Karjakin,S (2694)/Khanty-Mansiysk 2007.}) 13.
+Qh3 {In the only available game with this position White continued 13.Kb1. #
+The first critical position.} Rxc3 $1 {Thanks to this quite typical Sicilian
+positional exchange sacrifice Black break opponent's pawn structure and build
+good attacking perspectives.} 14. bxc3 Qc7 15. Kb1 (15. Kb2 {is weak in view of
+} Nb6 {followed by a check on a4.}) 15... Be7 {# It turns out that Black's
+play is easier (Nb6-a4, 0-0 and Rc8, or at some moment d6-d5), while it is not
+easy to indicate a clear plan for White. Shirov starts active actions in the
+center.} 16. e5 {Without the knight on c3 this advance has the obvious
+drawback that allows Black's knight to come to d5.} dxe5 17. f5 ({After} 17.
+fxe5 {Black has a rather pleasant chopice between} Nxe5 ({or} 17... Nd5) 18.
+Qg3 Bd6 19. Bxf6 gxf6) 17... Nd5 (17... exf5 {Stronger than} 18. Bxf5 Nb6 19.
+Qg3) 18. Bxe7 Kxe7 19. fxe6 fxe6 20. Qg3 g6 (20... Nxc3+ {
+Again Anand's play is better than} 21. Ka1 Nxd1 22. Qxg7+ Kd6 23. Rxd1 {
+when it is White who has the initiative.}) 21. Rd2 Rc8 {# The second critical
+position. Notice that Anand cleverly postponed taking on c3 with the knight.
+Thus he first of all keeps the d-file closed and secondly puts more pressure
+on Shirov, who must always calculate more variations for Black.} 22. Qg5+ $2 {
+Up to this point both opponents played strongly, but now Shirov loses the
+thread.} (22. Qh4+ {forcing the knight to come to f6. Then} N7f6 23. Rf2 {
+would have kept the position double-edged.}) 22... Ke8 23. Qg4 (23. Bxg6+ {
+brings nothing} hxg6 24. Qxg6+ Ke7 25. Qg7+ Kd6 {with advantage for Black.}) (
+23. Qh4 {is also not the same anymore, although it was preferable to the game.
+Black keeps better chances after} N7b6) 23... Nxc3+ 24. Ka1 Bd5 {Right in time.
+Black has everything protected and his pieces coordinate perfectly.} 25. Re3
+Nf6 26. Qh4 Qe7 27. Bf1 {#} Bxb3 $1 28. cxb3 (28. axb3 {is mate in one:} Qa3#)
+28... Nce4 29. Rb2 Rc1+ 30. Rb1 Qc5 (30... Qc5 {The mate is inevitable:} 31.
+Rd3 Qc2 {A great victory for Anand.}) 0-1
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.15"]
+[Round "1"]
+[White "Leko, Peter"]
+[Black "Radjabov, Teimour"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2753"]
+[BlackElo "2735"]
+[PlyCount "70"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 {These two principled top Grandmasters are best specialists of the
+Sveshnikov Sicilian. What did it mean in their encounter of the first round in
+Morelia? They played a long theoretical variation and both went to a certain
+position, but evaluated it differently.} c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6
+5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O
+12. Nc2 Bg5 13. a4 bxa4 14. Rxa4 a5 15. Bc4 Rb8 16. b3 Kh8 17. Nce3 Bxe3 (17...
+g6 {is the main move which requires a very good home preparation due to the
+wild complications arising after} 18. h4 Bxh4 19. g3 Bg5 20. f4) 18. Nxe3 Ne7
+19. O-O {# So how to evaluate this position? In his book the Russian GM Y.
+Yakovich considers it equal after 19...Bb7. I also wrote once a book about the
+Sveshnikov Sicilian and expressed the opinion White is better. My logic was
+simple: White can attack weaknesses on a5 and d6 easier than Black can create
+pressure on pawn b3. Of course the position is very close to equal, but it is
+Black who must always solve some small problems.} f5 (19... Bb7 20. Qc2 {
+with a slight edge}) 20. exf5 Bxf5 (20... Nxf5 {
+will very likely lose a pawn after} 21. Nxf5 {
+followed by Qd5 and then either Rfa1, or Rd1.}) 21. Ra2 $5 {
+The rook goes to d2.} (21. Nxf5 {Black has an easier defense after} Rxf5) 21...
+Be4 22. Rd2 Rb6 23. Re1 Qb8 {#} 24. Qa1 $1 {White tries various set-ups to
+pressure Black's weaknesses. Now the queen will go to a3 and the rooks will be
+doubled on the d-file.} Qc7 25. Red1 h6 {
+Curious enough, only this is a new move.} (25... Rc6 {
+In one game Black lost a pawn after} 26. Kh1 Qb6 27. Qa3 Nf5 28. Nxf5 Rxf5 29.
+Re2 Rf4 30. f3 Bg6 31. Red2 Rf6 32. Rd5) 26. h3 Bb7 27. Qa3 Rd8 28. Be6 {
+# Black is under pressure and must decide in which position he will have the
+best chances to escape. Giving the fact that there is no clear draw, this is
+not a simple task.} Qxc3 (28... d5 {The alternative was} 29. Nxd5 Nxd5 30. Bxd5
+Rxd5 31. Rxd5 Bxd5 32. Rxd5 Qxc3 {after which White should not exchange queens,
+allowing Black to achieve a theoretical draw with a pawn down, but instead he
+must continue the attack:} 33. Qf8+ Kh7 34. Qf5+ Rg6 35. g3 (35. Rd6 $2 Qc1+
+36. Kh2 Qf4+ {is a draw}) 35... Qc1+ 36. Kh2 {
+Can Black hold this position? Difficult to say.}) 29. Rxd6 Rbxd6 30. Rxd6 Qe1+
+$2 (30... Qc7 {Was necessary} 31. Rxd8+ Qxd8 {
+although White has an obvious pressure after} 32. Qc5) 31. Kh2 {
+Now the queen is away and Black doesn't have time to defend everything.} Re8 (
+31... Rxd6 32. Qxd6 Qb4 (32... Qxf2 33. Qxe7 {loses at once}) 33. Qxe5 {
+is also difficult for Black, since besides an extra pawn White also has a
+strong attack.Forinstance} a4 {loses due to} 34. Nf5 Nxf5 35. Qb8+ Kh7 36. Qg8+
+Kg6 37. Qf7+ {with mate}) 32. Rd7 {White wins a piece.} Nc6 (32... Qxf2 {
+also loses:} 33. Rxe7 Qf4+ 34. Kh1) 33. Bf7 Ra8 (33... Rb8 34. Rxb7 Rxb7 35.
+Qf8+ Kh7 36. Bg8+) 34. Rxb7 Qxf2 35. Bd5 Rc8 (35... Rc8 36. Rf7 Qxe3 37. Bxc6
+Rxc6 38. Qf8+ Kh7 39. Qxg7# {The game went unexpectedly smoothly for Leko, who
+exploited very well the advantages of White's position.}) 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.15"]
+[Round "1"]
+[White "Carlsen, Magnus"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2733"]
+[BlackElo "2751"]
+[PlyCount "78"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 {In the game Carlsen-Ivanchuk the young Norvegian achieved a pleasant
+advantage out of the opening but could not break through Ivanchuk's defense.
+Considering the fact that last year in the Morelia/Linares tournament Carlsen
+scored two wins against Ivanchuk, their result yesterday is clearly an
+achievement for the Ukrainian.} c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6
+6. Be3 e5 7. Nf3 Be7 8. Bc4 O-O 9. O-O Be6 10. Bb3 Nc6 11. Qe2 Na5 12. Rfd1
+Nxb3 13. cxb3 Nd7 14. Nd2 Qc7 15. Rac1 Rfc8 16. Nd5 Qd8 17. Rxc8 Rxc8 18. Nxe7+
+Qxe7 19. Nc4 Bxc4 20. bxc4 Nc5 21. b3 Rc6 22. Qc2 h6 23. g3 Qc7 24. Kg2 Nd7 25.
+Qd3 Nf6 26. a4 Nd7 27. h3 Kf8 28. Bc1 Nc5 29. Qf3 Qb6 30. Ba3 Qxb3 31. Qxb3
+Nxb3 32. Bxd6+ Kg8 33. Bxe5 Rxc4 34. Rd8+ Kh7 35. Rd7 Rxe4 36. f4 Kg8 37. Rd8+
+Kh7 38. Rd7 Kg8 39. Rd8+ Kh7 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.16"]
+[Round "2"]
+[White "Shirov, Alexei"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "B42"]
+[WhiteElo "2755"]
+[BlackElo "2733"]
+[PlyCount "77"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Ne7 6. O-O Nbc6 7. Nxc6 Nxc6 8.
+Be3 Be7 9. Nd2 d5 10. exd5 exd5 11. Nb3 O-O 12. Re1 Re8 13. c3 Bd6 14. Qc2 g6
+15. Bc5 Bc7 16. Rxe8+ Qxe8 17. Qd2 Qe5 18. Qh6 Bf5 19. Bxf5 Qxf5 20. Nd4 Qe4
+21. f3 Qe8 22. Nxc6 bxc6 23. Bd4 Be5 24. Qd2 Qb8 25. g3 Qd6 26. Re1 Bxd4+ 27.
+cxd4 c5 28. Kg2 c4 29. h4 h5 30. g4 hxg4 31. fxg4 Qd7 32. Kg3 Re8 33. Rxe8+
+Qxe8 34. h5 Qe4 35. hxg6 fxg6 36. Qf4 Qe1+ 37. Kh3 Qh1+ 38. Kg3 Qe1+ 39. Kh3
+1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.16"]
+[Round "2"]
+[White "Radjabov, Teimour"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2735"]
+[BlackElo "2780"]
+[PlyCount "82"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Ne7 10. h3 Ng6 11. Bg5+ Ke8 12. Rad1 Bd7 13. Nd4 h6 14.
+Be3 Be7 15. f4 h5 16. Ne4 h4 17. c4 Rh5 {#} 18. Rd2 $2 Nxe5 $1 19. b3 (19. fxe5
+Rxe5 20. Rf4 f5 {White loses material in a less convenient situation.}) 19...
+f6 {It turns out that the knight is still not hanging. Topalov prepares its
+retreat to f7, but his plan leaves the pawn h4 with too little protection.} 20.
+Re2 Nf7 (20... Ng6 {with clear advantage}) 21. Bf2 $1 Kf8 22. Nf3 Re8 23. Nxh4
+{# White successfully regained the pawn and the position is about equal now.}
+Rh6 24. Rd1 Bc8 25. Nf3 b6 26. Nd4 Nd8 27. Ng3 Bb4 28. a3 Rxe2 29. Ndxe2 Be7
+30. b4 Kf7 31. Nd4 g6 32. f5 Rh8 33. fxg6+ Kxg6 34. Nge2 Kf7 35. Nf4 Rg8 36.
+Kf1 Bd6 37. Nd3 Ba6 38. Nf5 Bf8 39. Rc1 Bc8 40. Nd4 Bh6 41. Re1 Bf8 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.16"]
+[Round "2"]
+[White "Ivanchuk, Vassily"]
+[Black "Leko, Peter"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2751"]
+[BlackElo "2753"]
+[PlyCount "85"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4
+Nxd4 {#} 9. Bxf7+ {A great combination? No, it's all theory.} Rxf7 10. Nxe5 Rf8
+(10... Nc6 11. Nxf7 Kxf7 12. e5 {is bad for Black.}) 11. Qxd4 c5 12. Qd1 Qc7
+13. Ng4 Nxg4 14. Qxg4 d5 15. Qh5 dxe4 {Expectedly, Leko demonstrates a deep
+knowledge: all the moves are considered best for Black.} 16. Qd5+ Kh8 {#} 17.
+Qxa8 (17. Qxe4 Ra7 $1 {Black has great compensation for the pawn.}) 17... Bb7 {
+#} 18. Qa7 {A new move.} (18. Qxf8+ {
+In the following game White gave the queen slightly differently:} Bxf8 19. Nd2
+Bd6 20. Nf1 Be5 21. c3 h6 22. Be3 Bd5 23. h3 Bc4 24. Nd2 Bd3 25. a3 Bh2+ 26.
+Kh1 Bd6 27. b4 cxb4 28. cxb4 Qc3 29. f3 exf3 {
+and the draw was agreed, Vorobiov,E (2580)-Novik,M (2466)/Sochi 2007.}) 18...
+Ra8 19. Bf4 $1 {A small, but important detail. With the help of this
+zwischenzug Ivanchuk's chases away black queen from the diagonal b8-h2.} (19.
+Qxa8+ Bxa8 20. Be3 Qe5 21. c3 Bd6 22. g3 {
+would have been a tempo up for Black comparing to the game.}) 19... Qc6 (19...
+Qxf4 $4 {Of course not} 20. Qxb7 {which leaves White with an extra rook.}) 20.
+Qxa8+ Bxa8 {#} 21. Be3 $1 {Another strong move: it is necessary to keep the
+pawn e4 blockaded. This way Black cannot make full use of his light-squared
+bishop.} Qf6 22. c3 Bd6 23. Nd2 Qe5 (23... Bc6 {
+Preventing a2-a4 which looks better}) 24. g3 h6 {#} 25. a4 $1 {
+After the opening of the a-file White's chances are preferable.} Bc6 (25... b4
+26. Nc4 Qe6 27. Nxd6 Qxd6 28. Red1 Qe7 29. cxb4 cxb4 30. Rac1 {
+is just winning for White.}) 26. axb5 axb5 27. Nb3 Bf8 {
+Black is suffering because of the inactivity of his bishops.} 28. Red1 Bd5 29.
+h4 Kg8 (29... Bxb3 30. Rd8 Kg8 31. Raa8 Qf5 {White doesn't have a forced win,
+but Black is tied up and his position looks very risky.} (31... Qf6 $4 32. Bxc5
+) (31... Qe7 $4 32. Re8 Qd6 33. Rad8 Qf6 34. Bxc5) 32. Rac8 (32. Rab8 Bc4) (32.
+Bf4 Qf6) 32... Be6) 30. Nc1 $1 {
+# The knight goes to f4, using the weaknesses created by the move 24...h6.} (
+30. Nxc5 {allows Black to open the long diagonal:} Bxc5 31. Bxc5 e3 $1 32. Bxe3
+Qe4 {and White must give up the exchange} 33. Rxd5 Qxd5 {which is a draw}) (30.
+Bxc5 $4 Bxb3) 30... g5 {A risky move, of course, which creates a lot of new
+weaknesses. On the other hand it is vital to take control over square f4.} 31.
+hxg5 hxg5 32. Ra5 Qc7 33. Ra6 Qf7 34. Rb6 Be7 35. Rxb5 Be6 {
+Finally Black has attacking ideas: the queen goes to f3, the bishop to h3.} 36.
+Rb8+ Kg7 37. Rb7 Kh6 (37... Kg6 {
+Is perhaps slightly more precise. It reduces some of White's possibilities.})
+38. Re1 {#} Qf6 $2 {This spoils the previous excellent play.} (38... Bh3 {
+Black has sufficient counterplay:} 39. f4 (39. Kh2 $2 Bg4 {
+the bishop goes to f3 and the queen to h5.}) (39. Bxc5 $4 Qf3) 39... Qh5 $1 (
+39... exf3 $2 40. Bf2 $18) 40. Re2 Qf3 41. Kh2 Bf1 42. Rf2 Qxe3 43. fxg5+ Bxg5
+44. Rxf1 {and in this position any result is possible.}) 39. Rb6 $1 Qf5 40. Nb3
+$1 {The knight comes to d2 now, protecting the important square f3.} Kh5 41.
+Nd2 Bd7 (41... Kg4 42. Bxg5 $1 Kxg5 43. Rxe4 {winning}) 42. Ra1 Bd8 43. Rb8 {
+White will soon create decisive threats and Leko resigned. An excellent
+achievement by Ivanchuk, who skillfully maneuvered his pieces.} 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.16"]
+[Round "2"]
+[White "Anand, Viswanathan"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[ECO "C89"]
+[WhiteElo "2799"]
+[BlackElo "2739"]
+[PlyCount "68"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 {How often does Anand lose with the white pieces? Surely not too often,
+for instance in 2007 he didn't lose a single game (talking about classical
+chess). On the other hand when the Indian does lose, he can do it in such a
+painful way, that it is not even clear what went wrong. Was it a bad opening
+choice, a poor play in general, a blunder in one move, or just a sleepless
+night before? Considering Anand's lack of resistance in problematic positions
+of these games, the answer is: EVERYTHING went wrong. On top of all, the
+opponent's play is impeccable. But..."every cloud has a silver lining" - maybe
+this is why the World Champion loses rarer than other players: the full
+portion of all bad factors is concentrated in a single game, while for most
+other players it is dispersed in different games?} e5 2. Nf3 Nc6 3. Bb5 a6 4.
+Ba4 Nf6 5. O-O $2 Be7 6. Re1 b5 7. Bb3 O-O $2 8. c3 {
+Bravely entering the Marshall territory.} d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11.
+Rxe5 c6 12. Re1 (12. d4 {Same country, same players, but a different line.
+Last year in the World Championship tournament in Mexico City Anand played} Bd6
+13. Re2 Bg4 14. f3 Bf5 15. g3 {and the ga me soon ended in a draw, Anand,V
+(2792)-Aronian,L (2750)/Mexico City 2007}) 12... Bd6 {# The Marshall Attack:
+Black sacrifices a central pawn in order to build an initiative on the
+kingside. Aronian is probably the biggest specialist in this opening on the
+black side. Anand is also a great expert, having played the position multiple
+times with both colours.} 13. g3 (13. d3 {was aslo played by Anand before})
+13... Re8 (13... Bf5 {
+is an important alternative. Few examples from players' practice:} 14. d4 Qd7
+15. Be3 Rae8 16. Nd2 Bg4 17. Qc2 Bf5 18. Qc1 Re7 (18... h5 {, was Anand selbst
+gespielt hatte! In Leko - Anand, Cap d'Agde 2003, gewann Schwarz, doch war
+dies nur eine Schnellpartie, und Anand hatte womöglich trotz des günstigen
+Ergebnisses seine eigenen Schlussfolgerungen gezogen. , que fue jugada por el
+mismo Anand. En Leko - Anand, Cap d'Agde 2003 las negras ganaron, pero esta
+fue solo una partida a ritmo rápido y puede que Anand haya sacado sus proprías
+conclusiones a pesar del desenlace final favorable.} 19. Nf3 Bg4 20. Nh4 Re6
+21. Bd1 {Der Tausch auf g4 wird die Struktur von Schwarz verbessern, den Zug ..
+.h5 rechtfertigen und ihm Angriffschancen bieten.} f5 {
+Leko,P (2722)-Anand,V (2766)/Cap d'Agde (rapid) 2003 (25)}) (18... Bd3 19. Nf3
+Qf5 {Iordachescu,V (2606)-Aronian,L (2649)/Mainz (rapid) 2003 (24)}) (18... Re6
+{Dieser Zug führte letztlich zu einer faszinierenden Stellung, doch nur unter
+freundlicher Mithilfe von Weiß.} 19. Nf3 Bg4 {
+Shabalov,A (2608)-Aronian,L (2675)/Mallorca 2004}) 19. Nf3 Bg4 20. Nh4 {
+and White scored an important win in Anand,V (2792)-Svidler,P (2735)/Mexico
+City 2007.}) 14. d4 {# Very untipical for the Marshall attack: this position
+did not occur often in practice. Usually Black continued 14...Bg4, but Aronian
+plays differently. And he did it quickly too. As the Armenian said once: in
+the Marshall attack it is more important to feel the position than to know
+concrete variations. Well, I have the impression that Levon knows concrete
+variations very well too...} Rxe1+ (14... Bg4 {The wild variation} 15. Rxe8+
+Qxe8 16. Qxg4 Qe1+ 17. Kg2 Qxc1 18. Qe2 Nf4+ 19. gxf4 Qxf4 {must be thoroughly
+analyzed with the help of computers. Which most likely was done by the players
+at home.}) 15. Qxe1 Ra7 16. Be3 Re7 17. Nd2 Qe8 18. Nf1 {#} h5 {Aronian demonst
+rates simple and crystal-clear play. Black placed his pieces on good squares
+and now starts the advance of the h-pawn in order to create more weaknesses on
+the White's kingside.} 19. a4 Be6 {This is not only a way to prevent Ra8 in
+the future, but also a concrete threat: to win a piece after 20...Nxe3.
+Therefore White must retreat the bishop.} 20. Bd1 h4 21. axb5 axb5 22. Bf3 Bh3
+23. Bxd5 cxd5 {# Something went wrong for White: he produced the maneuver
+Bb3-d1-f3 only to exchange on d5. In absence of White's light-squared bishop
+Black always has multiple tactical ideas.} 24. Qd1 f5 $5 {The second pawn is
+coming. A tough unpleasant situation for Anand, which requires a very accurate
+defense.} (24... hxg3 {The materialistic approach} 25. hxg3 Bxf1 26. Kxf1 Bxg3
+{favours White due to} 27. Qf3) 25. Bg5 (25. Qb3 {is perhaps better, but going
+with the queen away from the king must be a difficult decision when you are
+under attack.}) 25... Re4 26. Bxh4 Qg6 {Threatens to take on h4.} (26... Rxh4
+$2 27. gxh4 Qg6+ {White has} 28. Ng3) 27. Bd8 (27. Kh1 Rxh4 28. gxh4 Qg2#)
+27... f4 {# White is two pawns up now, but his pieces are all over the board,
+while the king is weak and Black's pieces coordinate perfectly.} 28. Qd3 (28.
+Bb6 {is the computer's suggestion, but I don't think it solves White 's
+problems. At least from the practical point of view it is much easier to play
+with Black anyway. For instance:} Re8 {(in order to secure control over the
+back rank and eventually prepare Qe4 in some variations.} (28... Kh7 29. Bc5
+Bc7) 29. Bc5 Bc7 30. Qb1 ({or} 30. Ra7 Qe4 31. f3 Qe2 32. Qxe2 Rxe2 33. Rxc7
+Rg2+ 34. Kh1 Rf2) 30... Qh5 31. Qd1 Re2 {and White is in trouble}) 28... Qh5
+29. Nd2 Re2 {# Black threatens to take on d2 and then Qf3.} 30. Nf3 {
+This allows a nice finish, but there was no defense anyway.} (30. Bh4 Rxd2 31.
+Ra8+ Bf8 32. Qxd2 (32. Rxf8+ Kxf8 33. Qxd2 Kg8) 32... Qf3 33. Rxf8+ Kh7 $1 {
+and the mate is inevitable.} (33... Kxf8 {is not good} 34. Qxf4+ {
+with the exchange of queens.})) 30... Re3 $1 {#} 31. fxe3 Qxf3 32. Qc2 fxg3 33.
+hxg3 Qxg3+ 34. Kh1 Bf5 {A great recovery for Aronian from yesterday's defeat.}
+0-1
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.17"]
+[Round "3"]
+[White "Topalov, Veselin"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2780"]
+[BlackElo "2751"]
+[PlyCount "91"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 {Topalov and Anand are marching through in Morelia. The Bulgarian is
+leading with 2,5 points out of three (3000+ Elo performance!), the world
+champion has half a point less. Together they scored four wins so far. No one
+else has a plus score after the first three rounds. Another impressive victory
+for the ex-world champion. Just like in the first round win against Aronian,
+Topalov used opponent's few inaccuracies in the opening to take over the
+initiative, after which at no point of the game there were any doubts left
+about the final result.} c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {
+# Ivanchuk s the always combative Najdorf Variation, which used tobeKasparov's
+preferred weapon against 1.e4. It is curious that in the last game before his
+retirement from active chess (March 2005), Kasparov facing Topalov didn't go
+for his favourite variation, deciding to play 2...Nc6 instead.} 6. Be3 e5 7.
+Nb3 Be6 8. f3 Nbd7 (8... h5 {Earlier this year Topalov himself preferred to
+prevent the advance of White's g-pawn:} 9. Nd5 (9. Qd2 Nbd7 10. a4 Be7 11. Be2
+Qc7 12. O-O O-O {Leko,P (2753)-Topalov,V (2780)/Wijk aan Zee 2008}) 9... Bxd5
+10. exd5 Nbd7 11. Qd2 g6 12. O-O-O Nb6 13. Qa5 Bh6 14. Bxh6 Rxh6 15. Kb1 {
+Anand,V (2799)-Topalov,V (2780)/Wijk aan Zee 2008}) 9. g4 b5 10. g5 b4 11. Nd5
+Nxd5 12. exd5 Bf5 13. Bd3 Bxd3 14. Qxd3 Be7 15. h4 a5 {Taking into
+consideration that White is going to hide his king on the queenside, Black
+starts active actions there before castling short. But the move has a drawback
+too: it turns out that White is happy to play on the queenside. #} (15... O-O {
+is the main continuation used among others by Kasparov and Anand. White
+continues} 16. O-O-O {with a sharp game.}) 16. a3 {This somewhat surprising
+decision is typical for the ex-world champion though: he doesn't seem to care
+about finding a secure place for his king in the future. A quick initiative in
+order to put an immediate and concrete pressure on the opponent is more
+important for Topalov. The justification of 16.a3 is that White can quickly
+build pressure after opening the files on the queenside.} a4 (16... O-O {
+Considering that White doesn't have a safe king, Black should rather seek for
+counterplay by playing at some moment f7-f6. From this point of viewpreferable
+looks} 17. axb4 axb4 18. Rxa8 Qxa8 {
+after which most likely White must castle as well:} 19. O-O (19. Qb5 $6 Nc5 {
+points out the weaknesses in white structure: the pawn d5 is hanging.}) 19...
+f6 20. Qf5 Qe8 {with a complete mess and chances for both sides.}) 17. Nd2 Rb8
+18. axb4 Rxb4 19. Qa3 {# White can be happy: the queenside is open and Black
+must solve concrete problems.} Qb8 {Ivanchuk protects the rook and attacks
+pawn b2 at the same time. But as mentioned before, opening the files on the
+queenside favours White.} (19... Qa5 {
+keeps an eye on a much more important pawn d5. A possible follow up is} 20. c3
+(20. c4 $2 Rxc4 {and the knight is pinned}) 20... Rb8 21. c4 (21. Qxa4 Qxd5 {
+White's king will soon become more vulnerable than his black colleague}) 21...
+Ra8 (21... Rb4 {is prefered by the computer, but for a human is scary to pin
+the pieces like that. After} 22. Qc3 {threatening Nb3} Nc5 23. b3 O-O 24. Ke2 {
+followed by Rhb1 White is slightly better}) 22. b4 Qc7 23. h5 {
+is again a position where any result is possible.}) 20. c3 $1 Rxb2 21. Qxa4 Rb7
+22. Ke2 {# Possibly Vassily underestimated White's possibilities here.
+Topalov's play is very simple: the rook from h1 comes to b1, the queen goes to
+c6 and the knight to c4. Due to White's pressure and very active queen Black
+will have to exchange pieces, but the endgame will be difficult anyway.} Rc7 {
+In a bad position all moves are bad.} (22... O-O 23. Rhb1 Rc8 24. Rxb7 Qxb7 25.
+Qa7 {with a clear advantage in endgame}) 23. Rhb1 Qc8 {# The Ukrainian
+succeeded avoiding the exchange of rooks. The rook on c7 is very important for
+defense: it controls the seventh rank and the important c-file. White must
+find a way to exchange the rook c7. How to do it? Watch the next two elegant
+moves:} 24. Bb6 $1 Rb7 (24... Rxc3 {The alternative was to open another file:}
+25. Ne4 Rc4 (25... Rc2+ 26. Kd3 $1 $18 Rh2 27. Rc1 Qb8 28. Bc7 {
+followed by the winning check on a8.}) 26. Rc1 $1 Rxc1 27. Rxc1 Qb8 28. Rc7 {
+and White wins a piece.}) 25. Ba7 {# The rook cannot retreat to c7 again due
+to 26.Rb8. Which means that White achieves his plan. Which means that Black
+can't avoid a bad endgame. Which means that is in deep troubles.} e4 {
+Having understood the situation, Ivanchuk tries to get at least some squares
+for his pieces. But... see above the comment after Black's 22nd move.} (25...
+O-O 26. Rxb7 Qxb7 27. Qc6 Qc8 28. Rb1 {followed by Rb7 is also hopeless.}) 26.
+fxe4 Rxb1 27. Rxb1 O-O 28. Qc6 Ne5 29. Qxc8 Rxc8 30. Rb8 $1 Rxb8 31. Bxb8 {
+Mission completed. A pawn up, poor king and bishop for Black, plus the fact
+that the knight e5 can be always challenged by White means that the rest is an
+easy technical matter for Topalov.} Kf8 32. Nf3 Ng6 33. c4 Ke8 34. e5 Kd7 35.
+Kd3 h6 36. exd6 Bxd6 37. Bxd6 Kxd6 38. gxh6 gxh6 39. Kd4 f6 40. c5+ Kd7 41. Ke4
+h5 42. d6 Ke6 43. Nd4+ Kd7 44. Nf5 Ne5 45. Kd5 Nc6 46. Nd4 {In the past two
+years everybody got used to the fact that Topalov starts tournaments badly and
+finishes them in force. Unfortunately, this highly intriguing, but at the same
+time risky "strategy" can't last forever, as the Corus tournament showed
+recently. It is great to see that in Morelia Topalov found a good form right
+from the start. After the World Championship in 2005 Topalov never started a
+tournament so strongly again. However, the temptation to make a parallel with
+the San Luis tournament will have to wait. In Argentina scoring 2,5 points out
+of three was just a prelude for the future world champion, who in the next
+rounds produced four consecutive wins. So let's wait a little bit to see if in
+Morelia Topalov will continue in the same impressive fashion.} 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.17"]
+[Round "3"]
+[White "Leko, Peter"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2753"]
+[BlackElo "2755"]
+[PlyCount "73"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 {A good positional game, which some may find a little "dry".} c5 2. Nf3
+d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {The second Najdorf of the round. Leko
+achieves a slight advantage, but fails to break through.} 6. Be3 e5 7. Nf3 Be7
+8. Bc4 O-O 9. O-O Be6 10. Bb3 Nc6 11. Qe2 Na5 12. Rfd1 Nxb3 13. cxb3 Qb8 14.
+Bg5 b5 15. Rd3 h6 16. Bxf6 Bxf6 17. Rad1 Be7 18. Nd5 Bxd5 19. Rxd5 Qc7 {
+# With the knight on e3 White would be clearly better. Peter tries to improve
+its position.} 20. Ne1 {Intending to go to c2.} Rac8 21. g3 {
+Now Leko's plan is Ng2-e3.} f5 {Right in time. Although White still keeps a
+plus, Shirov manages to hold the balance..} 22. exf5 Rxf5 23. Qe4 Rcf8 24. R1d2
+h5 25. Rc2 Qa7 26. Nd3 h4 27. Kg2 hxg3 28. hxg3 {#} Qd7 $1 29. Rc1 Rh5 30. Rh1
+Rxh1 31. Kxh1 Qf5 32. Qxf5 Rxf5 33. Kg2 Kf7 34. Nb4 Ke6 35. Rd1 a5 36. Nc6 (36.
+Nd5 Bd8 $11) 36... Rf8 37. Nxa5 (37. Nxa5 Ra8 38. b4 Bd8 $11) 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.17"]
+[Round "3"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "D43"]
+[WhiteElo "2733"]
+[BlackElo "2799"]
+[PlyCount "118"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. d4 {Carlsen fell a victim of his rather superficial opening preparation.
+Against the razor-sharp Anti-Moscow Variation he chose a rare line, but soon
+found himself in troubles with white. A month ago in Wijk aan Zee Carlsen
+started his game versus Anand with the kings's pawn. In spite of getting a
+very promising position, the Norwegian lost that important game. This time he
+switches to a different opening.} d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6.
+Bh4 dxc4 7. e4 g5 8. Bg3 b5 {#} 9. Ne5 (9. Be2 {Is the main theory, followed
+by oceans of variations which you don't want to know.}) 9... h5 {White released
+pressure on g5, so Black immediately advances the h-pawn. This is known to be
+the best reaction to 9.Ne5. Did Carlsen really hope that Anand will repeat
+moves from hisrapidgame?} (9... Bg7 10. h4 Nfd7 11. hxg5 hxg5 12. Rxh8+ Bxh8
+13. Qh5 Bxe5 14. Bxe5 Nxe5 15. Qh8+ Kd7 16. Qxe5 Bb7 17. O-O-O Kc8 18. Qg7 Qe7
+19. e5 Nd7 20. Ne4 Kc7 21. Nd6 Rf8 22. Be2 {Kasimdzhanov,R (2683) -Anand,V
+(2792)/Mainz 2007. Black is still under pressure, but Anand managed to survive.
+White has numerous ways to improve, so expectedly the world champion goes for
+the strongest 9...h5 istead of 9...Bg7.}) 10. f3 (10. h3 {
+Black has a pleasant choice between} b4 {
+and then taking pawn e4, or the normal continuation 10...Bb7.}) ({Also} 10. h4
+g4 11. Be2 {might be the best, when} Bb7 {leads to the main lines, which start
+usually with the move 9.Be2. Playing main lines was clearly not Carlsen's
+intention.}) 10... h4 11. Bf2 Bb7 {#} 12. Be2 {A new move. Difficult to say
+what went wrong in Carlsen's preparation: the resulting positions are good for
+Black.} (12. Be3 Nfd7 13. Nxd7 Nxd7 14. Qd2 Be7 {
+is known as advantage for Black.}) 12... Nbd7 13. Nxd7 Nxd7 14. O-O e5 $1 {
+# Anand feels very well the Anti-Moscow Variation. This opening brought him
+many important points lately and there are little doubts that he continuously
+analyzes it. The diagram position certainly offers chances for White as well -
+in such situations White is usually justified to claim compensation for the
+pawn - but practical experience and feeling of the position are the decisive
+factors. Carlsen simply stepped on the opponent's territory unprepared.} 15. a4
+a6 16. d5 Rh6 17. dxc6 Bxc6 {# Black has everything protected and he is a pawn
+up. Does Black have bad pieces? The king? Well, it is interesting to see how
+White is going to attack black king. In fact Black has a large advantage
+already. There are openings when if something goes wrong for White, then he
+can still hold equality easily (say Queen's Gambit). But there are openings
+when if things go wrong, you can go home. Playing the Anti-Moscow with either
+colour is a risky business.} 18. axb5 axb5 19. Rxa8 Qxa8 20. Qc1 Rg6 21. Rd1
+Bc5 22. Bxc5 Nxc5 23. Qe3 Nb3 24. Qb6 Nd4 {#} 25. Rxd4 {Carlsen fights bravely,
+but this cannot change the result. Anand firmly converts his material
+advantage.} exd4 26. Nxb5 Bxb5 27. Qxb5+ Qc6 28. Qe5+ Re6 29. Qxd4 Qb6 30. Qxb6
+Rxb6 31. Bxc4 Rxb2 32. g3 f6 33. Be6 Ke7 34. Bg4 Re2 35. gxh4 gxh4 36. h3 Kd6
+37. Kf1 Rb2 38. f4 Kc5 39. e5 Rb4 40. exf6 Rxf4+ 41. Ke2 Kd4 42. Bf3 Rxf6 {#}
+43. Bb7 Rb6 44. Bc8 Ke4 45. Bg4 Rb2+ 46. Ke1 Ke3 47. Kf1 Kf4 48. Ke1 Kg3 49.
+Kf1 Rf2+ 50. Ke1 Rf4 51. Bc8 Rf8 52. Bg4 Kg2 53. Ke2 Re8+ 54. Kd3 Kf2 55. Bf5
+Re3+ 56. Kd4 Kf3 57. Bg4+ Kf4 58. Kd5 Re5+ 59. Kd4 Rg5 {
+In spite of the long game, this was a relatively easy victory for Anand.} (
+59... Rg5 60. Bc8 Rg8 61. Be6 (61. Bg4 Rxg4 62. hxg4 h3) 61... Rd8+ 62. Kc4 (
+62. Kc3 Rd6 63. Bg4 Rg6 64. Bd7 Rg7 65. Be6 Ke5 66. Bc4 Rg3+) 62... Rd6 63. Bg4
+Rg6 64. Bd7 Rg7 65. Be6 Ke5 {and the bishop is caught:} 66. Bg4 Rxg4+ 67. hxg4
+h3) 0-1
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.17"]
+[Round "3"]
+[White "Aronian, Levon"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[WhiteElo "2739"]
+[BlackElo "2735"]
+[PlyCount "47"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. d4 {
+In this game Radjabov equalized by demonstrating quality opening preparation.}
+Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 c5 5. Nf3 cxd4 6. Nxd4 O-O 7. Bg2 Qc7 {# Radjabov
+'s specialty lately. Black starts concrete play using the fact that White
+hasn't castle yet.} 8. b3 (8. Nd5 {used to be considered to offer White
+advantage. But Radjabov found the antidote:} Qxc4 9. Nxe7+ Kh8 10. Nxc8 Rxc8
+11. O-O Nc6 12. e3 Nxd4 13. exd4 d5 $11 {
+with equality, Sargissian,G (2602)-Radjabov,T (2667)/Moscow 2005}) 8... d5 9.
+O-O (9. Nxd5 {loses after} Nxd5 10. Bxd5 e6 11. Bg2 Rd8) 9... dxc4 10. Ncb5 Qd8
+11. bxc4 a6 12. Nc3 Ng4 13. e3 Nc6 14. Rb1 {A new move. #} (14. Nce2 Nge5 15.
+Qc2 Qc7 {Grischuk,A (2711)-Radjabov,T (2735)/Odessa (rapid) 2008}) 14... Nxe3
+$1 (14... Nxd4 15. exd4 Bxd4 16. Nd5 {White has good compensation for the pawn.
+}) 15. Bxe3 (15. fxe3 {is bad for white} Nxd4 16. exd4 Bxd4+ 17. Kh1 Bxc3)
+15... Bxd4 16. Bxd4 (16. Bxc6 Bxc3 17. Bxb7 Rb8 18. Bxc8 Qxd1 19. Rfxd1 Rxb1
+20. Rxb1 Rxc8 21. c5 e5 {followed by Bd4 is also a draw.}) 16... Qxd4 17. Qxd4
+Nxd4 18. Nd5 {Black won't be able to keep the extra pawn. Radjabov returns it
+at once and the position simplifies completely.} Kg7 (18... Nc6 19. Rfe1 {
+with compensation}) 19. Nxe7 Be6 20. Nd5 Rac8 21. Ne3 b5 22. cxb5 axb5 23. Rb2
+Rfd8 24. Rd1 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.19"]
+[Round "4"]
+[White "Shirov, Alexei"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2755"]
+[BlackElo "2780"]
+[PlyCount "125"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 {Shirov is a rather inconvenient opponent for Topalov, who in spite of
+many wins against Alexey, still has a clear minus score.} c5 2. Nf3 Nc6 3. d4
+cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Nd5 {Few years ago
+when everybody on the high level played the Sveshnikov Variation it was
+considered that White should search for advantage after the sharp 9.Bxf6. But
+Black was scoring a lot of wins and people switched to the positional 9.Nd5.
+Indeed it turned out that here White has little risk of losing, while Black
+still has to solve strategical problems connected with the weakness of square
+d5. By the way, Anatoly Karpov always preferred 9.Nd5.} Be7 10. Bxf6 Bxf6 11.
+c3 Bg5 12. Nc2 O-O 13. a4 bxa4 14. Rxa4 a5 15. Bc4 {#} Bd7 {A somewhat ed
+decision: instead of the most principled continuation 15...Rb8 Topalov chooses
+a rare line advocated by Radjabov. It should be mentioned that Shirov has
+played this position many times on the black side as well.} 16. O-O Ne7 {
+The attractive-looking jumps forward - 16...Nb4 and 16...Nd4 - were tested in
+practice and the things aren't so great for Black as it seems at the beginning.
+} 17. Ra3 {Usually the rook goes to a2 in order to keep pawn b2 protected, but
+Shirov's plan is to advance the b-pawn, justifying the position of the rook on
+a3.} (17. Ra2 Rc8 18. Nxe7+ Qxe7 19. Bd5 Rc5 20. b3 Rxc3 21. Rxa5 Be6 {
+gave Black a quick draw in the rapid game Anand,V (2779)-Radjabov,T (2728)/
+Mainz 2006}) 17... Nxd5 (17... Rc8 {was met before}) 18. Bxd5 {It is vital for
+White to take with the pieces on d5, not with the pawn. To put it differently:
+once controlling square d5, keep it!} Rb8 19. b4 axb4 20. Nxb4 (20. cxb4 {
+I this case the knight won't come to d5, while the passed pawn will be easily
+blockaded.}) 20... Qb6 21. Qe2 Bb5 22. Bc4 Rfc8 23. Bxb5 Qxb5 24. Qxb5 Rxb5 {
+# Both sides must have been happy with simplifications: White exchanged the
+right pieces, Black couldn't do much else anyway. How to evaluate the position
+now? I think that out of ten games nine would end in a draw. This must be the
+tenth game.} 25. Rd1 g6 26. g3 (26. Rxd6 $4 Rxb4 27. cxb4 Rc1+) 26... Kg7 27.
+Nd5 (27. Rxd6 Be7 28. Rd5 Bxb4 29. cxb4 Rxb4 30. Rxe5 Kf6 {is an immediate draw
+}) 27... Rc4 (27... Rb2 {If Topalov knew that the standard plan of
+transferring the bishop to b6 leads to an unpleasant rook endgame, probably he
+would have played something like} 28. Ra6 Bd2 29. Rxd6 Bxc3 30. Rc1 Rb3 (30...
+Bb4 31. Rxg6+ hxg6 32. Rxc8 Be1 {is a slightly more complicated draw}) 31. Rd7
+Rc5 {followed by Bd4 with an easy draw}) 28. Ra7 Bd8 (28... Rxe4 29. Nc7 {
+White develops a strong initiative}) 29. Rd7 Ba5 30. Re1 (30. Rxd6 Rxe4 $11)
+30... Bb6 31. Nxb6 $1 Rxb6 32. Re3 {It turns out that this endgame is not so
+trivial. White brings the rook to f3 and Black must wait in complete passivity.
+} Rc8 33. Rf3 Rf8 34. Kf1 {# One of the black rooks protects pawn d6, the
+other - pawn f7. He can't do much with the rooks. The safest way to defend for
+Black is to improve the kingside pawn structure (with the move h7-h5) and then
+wait, eventually trying to prevent the march of the white king to d5.
+Topalov's desire to clarify the situation as soon as possible backfired.} g5 {
+The idea is to free square g6 for the king.} (34... h5 {should be enough} 35.
+Ke2 Rc6 {and White can't make much progress:} ({or} 35... Rb2+ 36. Kd3 Rb1 37.
+Kc4 Rc8+ 38. Kd3 Rf8 39. Kc2 Rb6) 36. Rd3 (36. Kd3 Rb6 37. Rc7 Rb2 38. Kc4 Rd2
+39. h4 Kg8 40. Rf6 Kg7 {
+this is the difference comparing to the game: Black can wait with the king} 41.
+Rf3 Kg8 $11) 36... Rfc8 37. Kd2 Rb6 38. R7xd6 (38. Rf3 Rf8) 38... Rb2+ 39. Ke3
+Rc2 $11) 35. h4 (35. Ke2 {brings nothing} Rc6 (35... Kg6 {is not good} 36. Rd3)
+36. Kd3 Kg6) 35... g4 $6 (35... gxh4 {
+is more problematic for White to win after} 36. gxh4 (36. g4 Kg6 {
+(with the idea h5)} 37. Rf5 f6 38. Rh5 h6 39. Rxh4 Rc8 40. Rh3 Rc4 41. Re3 Ra6
+{the draw is obvious}) 36... Kg6) 36. Rf5 h6 37. Ke2 {# The square g6 is not
+available for the black king due to a possible check h4-h5, so with the last
+moves Black only worsened his situation on the kingside. Now Topalov has no
+choice but try to prevent White from activating his king.} Rc6 38. Kd2 Kg6 39.
+h5+ Kg7 40. Kd3 Rb6 41. Rc7 $1 Rb1 42. Kc4 Rd1 43. Kb5 Kg8 (43... Rc1 {
+More stubborn was} 44. Kb6 Rb8+ 45. Ka7 Rf8 46. Kb7 Rc2 47. c4 Rc3 {
+and it is not clear if White can win.}) 44. Rf6 {#} Rd2 (44... Kg7 {
+It turns out that loses the pawn g4:} 45. Rg6+ $1 Kh7 46. Rxg4 {
+This is the result of the careless advance of the g-pawn.}) 45. Kc6 {
+Shirov achieved his task.} Kg7 46. Rg6+ Kh7 47. Rxg4 Rxf2 48. Kxd6 {
+Now White is clearly winning.} Re8 49. c4 Rd2+ 50. Kc6 Rf8 51. c5 Rd4 52. Rb7
+Kh8 53. Kb5 Rd1 54. c6 Rc1 55. Kb6 Rc8 56. c7 Re8 57. Ra7 Rb1+ 58. Kc5 Rc1+ 59.
+Kd5 Rc2 60. Ra6 Kh7 61. Rc6 Rd2+ 62. Kc5 Ra8 63. Rh4 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.19"]
+[Round "4"]
+[White "Ivanchuk, Vassily"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[ECO "C88"]
+[WhiteElo "2751"]
+[BlackElo "2739"]
+[PlyCount "120"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4
+Nxd4 9. Nxd4 {The Ukrainian is the first one to deviate. Being a step ahead of
+your opponent's preparation means a lot. Kasparov said once that analyzing
+critically his own victories in order to find improvements (even if everything
+ran smoothly) helped him to remain on top for more than 20 years.} (9. Bxf7+ {
+The complications after} Rxf7 10. Nxe5 Rf8 11. Qxd4 c5 12. Qd1 Qc7 13. Ng4 {
+lead to a complex middlegame in the mentioned game from the second round.})
+9... exd4 10. e5 Ne8 11. Qxd4 Bb7 12. c4 bxc4 13. Qxc4 d5 14. exd6 Nxd6 15. Qg4
+Nb5 16. Nc3 Nxc3 17. bxc3 Bd6 18. Bf4 Qf6 19. Bxd6 cxd6 20. Rad1 Rad8 {
+# A position considered equal by the theory. Ivanchuk shows that White can
+still exert some pressure.} 21. Qb4 (21. Re3 Rfe8 22. Rde1 Rxe3 23. Rxe3 g6 24.
+h4 h5 25. Qb4 Rd7 26. Rd3 Re7 27. Qd4 Re1+ 28. Kh2 Qe7 29. Re3 {
+1/2-1/2 Carlsen,M (2693)-Leko,P (2738)/Dortmund 2007}) 21... Ba8 (21... Rd7 22.
+Re3 {with a plus for White}) 22. Re3 {This is a great square for the rook. It
+protects pawn c3, can be switched to the kingside if needed and at the same
+time White is ready to double on either "d" or "e" file.} g6 (22... Rfe8 {
+It turns out that Black cannot exchange a pair of rooks, since White has} 23.
+Qxd6 $1 Qxd6 24. Rxd6 {and Black loses one more pawn!}) 23. Qb6 $1 {Actually Wh
+ite wins at least a pawn. Again Ivanchuk's opening preparation of a relatively
+harmless variation prevailed.} Qg5 24. Rg3 Qb5 25. Rxd6 Rxd6 26. Qxd6 a5 27.
+Qf4 Bd5 28. Rg5 {# White is a pawn up and has the initiative. Black's only
+hope is to use somehow opponent's back rank weakness.} f5 $2 (28... Qe8 {
+The only move which would have left chances to survive. After} 29. Qd2 Bxb3 30.
+axb3 a4 {White can't keep all the queenside pawns with} 31. b4 {due to} Qe4 32.
+h3 Ra8 {with good counterplay for Black.}) 29. Qe5 Rd8 {#} 30. h4 ({
+Both players missed} 30. Qxf5 $1 Bxb3 31. Qxb5 Rd1+ 32. Qf1 {winning at once})
+30... a4 31. Bc2 Qb8 32. Qxf5 Bxa2 33. Bxa4 Bf7 34. h5 Qb6 35. hxg6 hxg6 36.
+Qf4 Rc8 {# With tw o pawns up the win is a matter of technique. But sometimes
+it's a matter of time.} 37. Rg3 $4 {In severe time trouble Ivanchuk defends
+against the threat 37...Rxc3, missing the second threat.} (37. Qb4 {
+Several moves win, for instance 37.Qd2, or 37.Qb7. And if:} Qxb4 38. cxb4 Rc4 {
+then simply} 39. Rb5) 37... Rc4 {Surprise! A double attack.} 38. Qh6 $4 {
+As it often happens, a bad mistake is followed by a bigger one. White should
+have prevented black queen to come to f6.} (38. Qe5 {After the forced} Rxa4 39.
+Rh3 Ra1+ (39... Kf8 {loses the rook:} 40. Rh8+ Bg8 41. Rxg8+ Kxg8 42. Qe8+ Kg7
+43. Qxa4) 40. Kh2 Kf8 41. Rh8+ Bg8 {# White makes a draw:} 42. Rxg8+ (42. Qf4+
+{The computer even prefers} Kg7 43. Rh3 {
+with attack for White, but nevertheless that must be a draw as well}) 42...
+Kxg8 43. Qe8+ Kg7 44. Qe7+ Kh6 45. Qh4+ {with a perpetual check}) 38... Rxa4
+39. Rh3 Ra1+ 40. Kh2 Qd6+ 41. f4 Qf6 {
+# Black defended and kept the extra piece. Levon won't let it escape.} 42. Qh7+
+Kf8 43. Qh6+ Ke7 44. Re3+ Kd7 45. Kg3 Ra4 46. Rd3+ Kc6 47. Rd4 Ra3 48. Rd3 Bd5
+49. Qh3 Qf5 50. Qxf5 gxf5 51. Kh3 Ra1 52. Rd2 Rh1+ 53. Kg3 Rh6 54. Re2 Re6 55.
+Rd2 Rg6+ 56. Kh3 Kc5 57. Re2 Kc4 58. Rd2 Be4 59. g4 Kxc3 60. gxf5 Bxf5+ {
+Now Aronian shares the first place, Ivanchuk the last. Who said that luck is
+not a factor?} 0-1
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.19"]
+[Round "4"]
+[White "Carlsen, Magnus"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2733"]
+[BlackElo "2753"]
+[PlyCount "81"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. d4 {Leko didn't have any problems with Black against Carlsen. He made a
+small improvement over a recent game and achieved a pleasant position. The
+young Norwegian tried to create some pressure, but his position just didn't
+contain enough resources to fight for advantage.} Nf6 2. c4 e6 3. Nc3 Bb4 4.
+Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8. e3 d6 9. Ne2 Nbd7 10. Qc2 c5 11.
+Rd1 cxd4 12. Rxd4 h6 13. Bh4 Qc7 14. Nc3 d5 15. Bg3 e5 16. cxd5 {#} Bxd5 ({
+After} 16... Nxd5 17. Rc4 Qb8 18. Be2 N7f6 19. O-O Ba6 20. Nxd5 Nxd5 21. Bf3
+Rd8 22. Rd4 Bxf1 23. Rxd5 Ba6 24. Bxe5 {
+White won a pawn in Bareev,E (2653)-Grischuk,A (2715)/Khanty-Mansiysk 2007.})
+17. Be2 Rac8 (17... Bxg2 18. Rg1 Bb7 19. Rc4 Qb8 20. Qf5 {
+leaves White with good attacking prospects}) 18. e4 Bc6 19. f3 Nh5 20. Rd2 Nxg3
+21. hxg3 Nf6 22. O-O Qe7 23. Rfd1 Bd7 24. Ba6 Rc7 25. Qd3 Be6 {#} 26. Qd6 Bb3
+27. Nb5 Qxd6 28. Rxd6 Bxd1 29. Nxc7 Ba4 30. Rd3 Rb8 31. b3 Bd7 32. Nb5 Bxb5 33.
+Bxb5 Rc8 34. Ba6 Rc1+ 35. Kf2 Kf8 36. Rd8+ Ke7 37. Ra8 Rc7 38. g4 h5 39. gxh5
+Nxh5 40. Bc4 Nf4 41. g3 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.19"]
+[Round "4"]
+[White "Anand, Viswanathan"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[WhiteElo "2799"]
+[BlackElo "2735"]
+[PlyCount "44"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 {# Even more aggressive than Sicilian. The
+so-called Janisch Gambit has a dubious reputation, but last year Radjabov
+included it in his repertoire and has already played it several times. However,
+the first one who has tested the Janisch gambit in the recent high-level
+practice was Levon Aronian in 2006, though the Armenian did it only in rapid
+chess.} 4. d3 (4. Nc3 {
+Radjabov's last experience in this opening was a month ago:} fxe4 5. Nxe4 Nf6
+6. Qe2 d5 7. Nxf6+ gxf6 8. d4 Bg7 9. dxe5 O-O 10. e6 Ne5 11. O-O Bxe6 12. Nd4
+Bg4 13. f3 Bc8 14. f4 c6 15. fxe5 fxe5 16. Rxf8+ Qxf8 17. Bd3 e4 18. Bxe4 Bxd4+
+19. Be3 Bxe3+ 20. Qxe3 dxe4 21. Qg5+ Qg7 22. Qd8+ Qf8 23. Qg5+ Qg7 {
+1/2-1/2 Polgar,J (2707)-Radjabov,T (2735)/Wijk aan Zee 2008}) 4... fxe4 5. dxe4
+Nf6 6. O-O Bc5 {#} 7. Bxc6 {
+The most principled continuation - White takes the sacrified pawn.} (7. Qe2 {
+Black was doing fine in the blitz game Carlsen,M (2693)-Radjabov,T (2747)/
+Porto Vecchio 2007:} d6 8. Qc4 Qe7 9. Nc3 Bd7 10. Bg5 a6 11. Bxc6 bxc6 12. Be3
+Bxe3 13. fxe3 Qf7 14. Nd2 O-O 15. Qxf7+ Kxf7) 7... bxc6 8. Nxe5 O-O 9. Bg5 (9.
+Nd3 {In 2006 Leko against Aronian returned the pawn:} Nxe4 10. Nxc5 Nxc5 {
+but considering that it was a blind-rapid game, maybe the Hungarian didn't
+notice that Black can just take it back? In any case Black is doing fine after
+regaining pawn e4.}) (9. Nc3 {Another blind-rapid game went} d6 10. Nd3 Bd4 11.
+Ne2 Bb6 12. Bg5 Qe8 13. Bxf6 Rxf6 {with compensation for the pawn, Carlsen,M
+(2690)-Radjabov,T (2729)/Monte Carlo 2007}) 9... Qe8 10. Bxf6 Rxf6 11. Nd3 Bd4
+{# Now we reach a curious moment. The only defeat Radjabov suffered in the
+Janisch Gambit was at the end of 2007 in a very important game of the World
+Cup against the Polish Grandmaster Bartlomiej Macieja. In that game White
+continued 12.c3 and won convincingly. Nevertheless Radjabov repeats the
+variation and White deviates first. Probably both Anand and Radjabov came to
+the conclusion that Black has sufficient counterplay after 12.c3.} 12. Nd2 (12.
+c3 Bb6 13. Nd2 d6 {(Macieja recommends 13...d5)} 14. c4 Qg6 15. Kh1 Bg4 16. f3
+Be6 17. f4 {Macieja,B (2606)-Radjabov,T (2742)/Khanty-Mansiysk 2007}) 12... Ba6
+13. Rb1 {A new move} (13. c4 {was played once before.}) 13... d6 14. c4 c5 {
+# Black achieved good compensation for the pawn. He plans Qf7 and Rf8 with
+pressure on f2. Anand tries to create some activity too, but in any case the
+bishop pair secures Black enough counterplay.} 15. b4 Qf7 16. Kh1 Rf8 (16...
+Bxf2 $2 {loses in view of} 17. e5 dxe5 18. Nxe5 Qe6 19. Ng4) (16... Bxc4 {
+is possible, but Radjabov prefers to bring the last piece into play first.})
+17. f4 Bxc4 18. Nxc4 Qxc4 19. bxc5 dxc5 {# White's better pawn structure is
+compensated by activity of black pieces, especially strong is the centralized
+bishop on d4. Anand failed to prove any advantage.} 20. e5 Rb6 21. Rc1 Qd5 22.
+Qf3 c6 {Most likely massive exchanges will follow, so the players agreed to a
+draw right away. A moral victory for Radjabov, who again showed strong home
+preparation.} 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.20"]
+[Round "5"]
+[White "Topalov, Veselin"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "B04"]
+[WhiteElo "2780"]
+[BlackElo "2733"]
+[PlyCount "88"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 {The previous rest day had a bad effect on Topalov, who lost the second
+game in a row.} Nf6 {
+# Guess who was the person that played this move for the first time?} 2. e5 (2.
+d3 {The first recorded game with 1...Nf6 is the following:} Nc6 {(knowing who
+is leading the black pieces, it's no wonder that he is betting on his cavalry)}
+3. f4 e5 4. fxe5 Nxe5 5. Nc3 Nfg4 6. d4 Qh4+ 7. g3 Qf6 8. Nh3 Nf3+ 9. Ke2 Nxd4+
+10. Kd3 Ne5+ 11. Kxd4 Bc5+ 12. Kxc5 Qb6+ 13. Kd5 Qd6# {# 0-1 Madame de
+Remusat-Napoleon Bonaparte/Paris 1802. Was this game really played? It is
+certainly mentioned in several sources, but we'll leave a deeper research to
+historians.}) 2... Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 {Most likely Carlsen's
+opening choice came as a surprise to Topalov, although Magnus played this
+system before.} 6. Bd3 (6. c4 {
+The natural looking 6.c4 is actually a serious inaccuracy. After} Nb4 {
+Black suddenly develops an initiative, threatening to take on d4 followed by
+the check on c2. White must play accurately in order to keep the balance.})
+6... Nd7 {This is the main idea of Black's set-up: to exchange the exposed
+knight and achieve a very solid position.} 7. Nxd7 (7. O-O {
+When he was 13-years old, Carlsen lost against} Nxe5 8. dxe5 Nb4 (8... g6 {
+is better} 9. c3) 9. Be4 Qxd1 10. Rxd1 f5 11. a3 Na6 12. Bf3 g6 13. Nd2 Be6 14.
+Be2 Nc7 15. Nf3 Bd5 16. Nd4 Bg7 17. c4 Bf7 18. f4 {and the much more
+experienced Grandmaster won against his young opponent, Sutovsky,E (2639)
+-Carlsen,M (2385)/Rethymnon 2003.}) 7... Bxd7 8. O-O g6 9. Nd2 Bg7 10. Nf3 O-O
+{# Black equalized, so Carlsen's opening experiment worked out fully. Moreover,
+in the next few moves the position will constantly change in Black's favour.}
+11. Re1 (11. h3 {is more cautious.}) 11... Bg4 $1 12. c3 c5 $1 {Carlsen's fight
+for the initiative is justified: Black leads in development and uses his
+bishops to create pressure on White's center.} 13. Be4 cxd4 14. cxd4 e6 {
+# A dream position for Black. He has perfect pieces against the isolated pawn.}
+15. Qb3 {Probably not the best way to give up the pawn.} (15. h3 Bxf3 16. Bxf3
+Qb6 17. Bxd5 exd5 18. Be3 {
+White has better chances to achieve a draw. For instance:} Qxb2 19. Qd3 Qb6 20.
+Rab1 Qc7 21. Rb5 Rfd8 22. Qb3 {regaining the pawn.}) 15... Bxf3 $1 {
+Very concrete. Black wins the central pawn.} 16. Bxf3 Bxd4 17. Bxd5 Qxd5 18.
+Qxd5 exd5 19. Rd1 Bg7 {#} 20. Kf1 (20. Rxd5 {
+does not restore material equality:} Rfd8 21. Rxd8+ Rxd8 22. Be3 (22. Kf1 Rd1+
+23. Ke2 Rh1 {is just bad for White}) 22... b6 23. Rb1 Bxb2 {
+with a healthy pawn up.}) 20... Rfd8 21. Bg5 Rd7 22. Rd2 h6 23. Be3 d4 24. Rd3
+Rc8 25. Bd2 Rc2 {# Black is a pawn up and has activity. Carlsen converts it
+convincingly into a full point.} 26. Rb1 Re7 27. a4 f5 28. b3 Rec7 29. Be1 Kf7
+30. Rd2 Rc1 31. Rxc1 Rxc1 32. Ke2 Rb1 33. Rd3 Ke6 34. h4 Kd5 35. Bd2 Ke4 36.
+Rg3 f4 37. Rd3 Be5 38. f3+ Kd5 39. Be1 Bd6 40. Bd2 g5 41. hxg5 hxg5 42. Be1 g4
+43. fxg4 Ke4 44. g5 Ke5 {
+The rest day after this round comes in handy to Veselin.} 0-1
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.20"]
+[Round "5"]
+[White "Radjabov, Teimour"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2735"]
+[BlackElo "2751"]
+[PlyCount "75"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Nf6 7. f4 d5 8. e5
+Nd7 9. Qd2 Bc5 10. O-O-O O-O 11. Qf2 {The pawn structure reminds more of a
+French Defense rather than Sicilian. Nevertheless this is a popular variation
+and both opponents play the best moves according to the existing theory.} Qe7
+12. Kb1 Nxd4 13. Bxd4 b5 14. Bd3 b4 15. Ne2 {#} a5 (15... Bb7 {was met before,
+but Ivanchuk's plan to exchange the light-squared bishops looks more logical.})
+16. Rhe1 Ba6 17. f5 Bxd3 18. Rxd3 exf5 19. Nf4 Bxd4 20. Qxd4 {#} Nf6 21. Rf1
+Nd7 22. Re1 Nf6 23. Rf1 (23. Nxd5 Nxd5 24. Qxd5 Rfd8 $11) 23... Nd7 24. Nxd5 {
+Considering Ivanchuk's shock from the previous round, Radjabov's decision to
+avoid repetition and keep the pressure for as long as possible is perfectly
+justified.} Qxe5 25. Rxf5 Qxd4 (25... Qxf5 {runs into the obvious fork} 26.
+Ne7+) (25... Qe1+ {is useless due to} 26. Rd1) 26. Ne7+ Kh8 27. Rxd4 g6 28. Rb5
+Nf6 29. Nc6 {# White keeps some pressure in endgame, but Ivanchuk creates
+activity and achieves a draw rather easily.} Rfe8 30. b3 Re2 31. Nxa5 Rxg2 32.
+h4 Ng4 33. Nc4 (33. Rdxb4 {The only chance to play on was} Ne3 34. Rc5) 33...
+Rg1+ 34. Kb2 Nf2 35. Rxb4 {#} Nd1+ 36. Kb1 (36. Kc1 $6 Rxa2 {
+only Black can play for a win.}) 36... Nc3+ 37. Kb2 Nd1+ 38. Kb1 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.20"]
+[Round "5"]
+[White "Leko, Peter"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2753"]
+[BlackElo "2799"]
+[PlyCount "90"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 c5 {Another Sicilian will turn into another win for Anand. However, one
+should pay credit to Leko, who played strongly and achieved advantage, but
+unfortunately for him erred in time trouble.} 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6
+5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Qd2 Nbd7 9. f3 b5 10. O-O-O Be7 11. Nd5 {
+A more aggressive and popular continuation is 11.g4.} Bxd5 12. exd5 Nb6 13.
+Bxb6 Qxb6 14. Na5 Rc8 (14... O-O 15. Nc6 Rfe8 16. Kb1 {
+leads to an equal middlegame}) 15. Nc6 Nxd5 16. Nxe7 Nxe7 17. Qxd6 Qxd6 18.
+Rxd6 Nc6 {# This equal endgame contains sufficient resources for both sides.}
+19. c3 Ke7 20. Rd1 f5 21. Bd3 g6 22. Rhe1 Rhd8 23. Bf1 Rxd1+ 24. Rxd1 Na5 25.
+a4 Nc4 26. axb5 axb5 {#} 27. Rd5 {Leko goes for principled complications. In
+the arising positions with passed pawns for both sides the bishop is usually
+stronger than the knight.} Kf6 28. Rxb5 Ne3 29. Rb6+ Kg5 30. Ba6 Rd8 31. b4 {#}
+Kf4 $6 (31... Nxg2 32. c4 Rd3 33. c5 Rxf3 34. c6 Nf4 {
+the sharp complications will most likely end in a draw:} 35. Kb2 Rf2+ 36. Kb3
+Rf3+ 37. Kb2 $11) 32. Rc6 $1 (32. c4 Nxc4 $1 33. Bxc4 Rc8 {
+is out of danger for Black}) 32... Nxg2 33. b5 Ra8 {#} 34. Bb7 $2 (34. Rc8 {
+would have offered Leko excellent winning chances. For instance:} Rxc8 ({or} 
+34... Ra7 35. Rc4+ Kxf3 36. Ra4 e4 37. b6 Rd7 38. b7 Rd8 39. Rc4 Rb8 40. Rc8
+Rxb7 41. Bxb7) 35. Bxc8 Ne1 36. b6 Nd3+ 37. Kd2 Nc5 38. b7 Na6 39. c4 e4 40. c5
+e3+ (40... Kxf3 41. Ke1 $1 e3 42. Bd7) 41. Ke2 Ke5 42. c6 Kd6 43. Kxe3 Kxc6 44.
+Kf4 Kc7 (44... h6 45. Ke5) 45. Kg5 {and White wins}) 34... Rb8 35. Rc7 $2 {
+In time trouble Peter loses the thread. Black's counterplay becomes dangerous
+and after this second mistake White will be walking on the edge.} (35. Ba6 {
+was necessary, when after} e4 36. fxe4 fxe4 37. b6 e3 {
+Black probably has sufficient activity to achieve a draw.}) 35... Ne1 $1 36.
+Rxh7 Nxf3 37. c4 e4 {#} 38. Kc2 $2 {The last and decisive mistake} (38. c5 {
+might have still saved half a point:} e3 (38... Nd4 39. c6 Nxb5 40. c7 Nxc7 41.
+Rxc7 $11) (38... Re8 39. b6 e3 40. Ba6) 39. Re7 Nd4 (39... Ne5 40. c6 e2 41.
+Kd2) 40. c6 (40. b6 $2 Nb3+) 40... Nxb5 41. c7 Nxc7 42. Rxc7 {with a draw})
+38... e3 39. Kd3 g5 40. Ke2 (40. c5 {doesn't help any longer:} Rd8+ 41. Kc3 e2
+42. Re7 Ne5 {and Black queens}) 40... Nd4+ 41. Ke1 Rd8 42. Re7 Nc2+ 43. Kf1
+Rd1+ 44. Ke2 Rd2+ 45. Kf1 Nd4 0-1
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.20"]
+[Round "5"]
+[White "Aronian, Levon"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[ECO "A21"]
+[WhiteElo "2739"]
+[BlackElo "2755"]
+[PlyCount "35"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. c4 e5 2. Nc3 Bb4 3. Nd5 Be7 {This slightly unusual-looking system has its
+logic: after the exchange on e7 Black will achieve a quick and good
+development.} 4. d4 d6 5. e4 Nf6 6. Nxe7 Qxe7 7. f3 {Occupying the center with
+the pawns represents the most energetic way to fight for advantage.} Nh5 8. Be3
+{#} f5 {Shirov introduces an important novelty.} (8... O-O {is what Alexey
+played earlier but as he himself pointed out in annotations, White has
+advantage by continuing} 9. d5) 9. exf5 Nf6 (9... exd4 10. Qxd4 Nc6 11. Qd2 {
+Black still can't take the pawn:} Bxf5 $2 12. g4) (9... Bxf5 $2 10. g4 Qh4+ 11.
+Bf2 {loses a piece for Black}) 10. Ne2 (10. g4 {Aronian decided not to step on
+opponent's territory without preparation. It is almost certain that Shirov
+analyzed at home the most principled 10.g4}) 10... exd4 11. Bxd4 (11. Qxd4 Bxf5
+{is also about equal}) 11... Bxf5 12. Qd2 Nc6 13. O-O-O O-O-O 14. g4 Bg6 15.
+Nf4 Nxd4 16. Qxd4 Kb8 17. h4 Bf7 18. Bd3 {# The opponents already used a lot
+of time and in order to avoid any possible mistakes decided to call it a day.}
+1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.22"]
+[Round "6"]
+[White "Topalov, Veselin"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[WhiteElo "2780"]
+[BlackElo "2799"]
+[PlyCount "83"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. d4 {The central game of the round ended in an interesting draw.} Nf6 2. c4
+e6 3. Nc3 {For the first time in their classical encounters Topalov allows the
+Nimzo Indian. Previously he was quite successful with 3.Nf3 against Vishy: two
+wins and two draws.} Bb4 4. Nf3 {
+Topalov is ready to repeat the variation from the first round against Aronian.}
+c5 5. g3 b6 {Vishy deviates right away by making a move he never used before.
+I'll remind that Levon played 5...cxd4 6.Nxd4 Ne4 but failed to solve the
+problems in a complex middlegame and lost.} 6. Bg2 Bb7 7. O-O cxd4 8. Qxd4 Nc6
+9. Qd3 O-O 10. b3 d5 11. cxd5 {#} Ne7 {A small trick. White can't keep the
+extra pawn since 12.dxe6 loses the knight from c3 after 12...Qxd3.} 12. Bd2 Rc8
+{Anand makes a new and strong move.} (12... Bxc3 {The previously played} 13.
+Bxc3 Qxd5 14. Qc2 {leaves White with advantage thanks to his bishop pair.}) (
+12... Bxd5 {Neither enough is} 13. Nxd5 Nexd5 14. Rac1 Bxd2 15. Qxd2 Rc8 16.
+Rxc8 Qxc8 17. Rc1 Qb7 18. Qc2 {
+when the control over the c-file secures White better prospects.}) 13. e4 {
+The most aggressive continuation.} (13. Rfd1 {
+Black can already take on d5 with the bishop} Bxd5 {since} 14. Nxd5 Nexd5 15.
+Rac1 {brings White nothing anymore:} Bxd2 16. Qxd2 Nc3 $1 {
+and Black makes full use of his rook on c8.}) 13... Bxc3 14. Bxc3 {#} Nxe4 {
+This small combination is the only way to solve the problems.} (14... exd5 15.
+Bxf6 {is of course not an option for Black. White has a clear advantage after}
+gxf6 16. Nd4 dxe4 17. Bxe4 Bxe4 18. Qxe4) 15. Bxg7 {
+A counter-sacrifice: before dying the bishop takes an important pawn.} (15.
+Qxe4 {is bad for White} Rxc3 16. Ng5 Ng6 17. Qd4 Rc8 {
+and the pawn d5 is still pinned.}) 15... Kxg7 16. Qxe4 Bxd5 17. Qg4+ Ng6 {
+# After the more or less forced sequence of moves we reach a position where
+thanks to his better pawn structure and a slightly vulnerable king on g7
+Topalov has objective reasons to fight for advantage. On the other hand all
+this should not be overestimated: Black will place the queen to f6 and his
+pieces will control most important files and diagonals. In fact the position
+is very close to equal.} 18. h4 (18. Rfd1 {The alternative was} Qf6 19. h4 Bxf3
+20. Bxf3 Rc3 21. Be2 $1 {and if} (21. Bg2 Rc2) 21... Kh8 {then} 22. Rac1 Rfc8
+23. Rxc3 Rxc3 24. h5 {with initiative}) 18... Bxf3 {
+The easiest decision. Anand eliminates a potentially dangerous attacking piece.
+} 19. Qxf3 (19. Bxf3 {With insufficient time it's difficult to calculate the
+complications arising after} f5 20. Qa4 Ne5 21. Bg2 (21. Qxa7+ $2 Rf7)) 19...
+Qf6 20. Qb7 Qe7 {
+Vishy cleverly exploits the fact that White has no advantage in endgame.} 21.
+Qe4 Qc5 22. Rad1 (22. Rac1 {was the last real chance to fight for advantage.
+After which Black should probably continue} Qe5 (22... Qxc1 {rather than} 23.
+Rxc1 Rxc1+ 24. Kh2 {and the rooks are bad defenders of black king})) 22... Rfd8
+23. Rfe1 Rxd1 24. Rxd1 Rc7 25. Bf3 Qe5 {The same simple strategy: the exchange
+of pieces favours Black, who won't feel any problems with the king after that.}
+26. Qb4 Qc3 27. Qg4 f5 28. Qh5 Qf6 29. Bg2 {#} e5 {Considering the fact that
+Topalov was short on time Anand makes some attempts to fight for the
+initiative.} 30. Bh3 {
+Topalov immediately notices the newly created weakness - pawn f5.} Rf7 (30...
+f4 31. Bg2 Rf7 32. Qg4 fxg3 33. fxg3 Qf2+ 34. Kh2 {Black's aggressivity could
+easily backfire: White has a very unpleasant threat to advance the h-pawn.})
+31. Qe2 e4 32. Rd5 f4 33. Rf5 Qa1+ 34. Kh2 fxg3+ 35. fxg3 Rxf5 36. Bxf5 {#}
+Nxh4 37. Bxe4 Qe5 38. Qg4+ Ng6 39. Bxg6 hxg6 40. Qd7+ Kh6 41. Qxa7 Qe2+ 42. Kh3
+{
+and the draw was agreed only in the position where Black gives perpetual check.
+} 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.22"]
+[Round "6"]
+[White "Radjabov, Teimour"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2735"]
+[BlackElo "2733"]
+[PlyCount "85"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 e5 {No more funny business - Magnus gives a rest to the Alekhine Defense,
+which brought him a win in the previous round against Topalov. By the way,
+there was a small inaccuracy in the notation of that game: Black resigned
+after 44.g5. The move 44...Ke5 wasn't actually played in the game.} 2. Nf3 Nc6
+3. Bb5 Nf6 {# Carlsen would like to play the famous Berlin Defense - a
+variation that became popular after the match Kasparov-Kramnik. With the help
+of this opening variation Vladimir Kramnik succeeded neutralizing Kasparov's 1.
+e4.} 4. d3 {Radjabov is not willing to play an endgame. Not yet.} (4. O-O {
+The main line goes} Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 {
+with a complicated endgame. Strictly speaking this endgame is objectively the
+right direction for White to fight for advantage and that's exactly what
+Kasparov did in the 2000 World Championship match against Kramnik. But again
+and again Gary was failing to set problems to Kramnik. Later Kasparov said
+that during the match he was advised to play 4.d3, but that he simply wouldn't
+listen to such advices... Radjabov's decision to avoid the "Berlin endgame" is
+wise for pure psychological reasons: Carlsen played three times 3...Nf6 before.
+He won the game when White played 4.0-0 Nxe4 etc, but scored only half a point
+out of the other games, where his opponents protected the e4 pawn.}) 4... Bc5
+5. c3 O-O 6. O-O d5 7. Nbd2 dxe4 {#} 8. Nxe4 {A new move. It turns out that
+Radjabov is ready to play an endgame after all. But a different one from what
+Carlsen was prepared to.} Nxe4 9. dxe4 Qf6 10. Qe2 {
+This time Teimour prepares a more subtle invitation to exchange queens.} (10.
+Qd5 {
+Most likely Radjabov didn't consider seriously to win a pawn with the variation
+} Bd6 11. Bxc6 bxc6 12. Qxc6 {After either 12...Rb8, or 12...Bg4 13. Nd2 Qg6
+Black achieves sufficient activity for the pawn.}) 10... Bg4 11. h3 $1 Bxf3 (
+11... Bh5 12. g4 Bg6 {
+the bishop is out of play on g6 and White easily grabs the initiative:} 13. Bg5
+Qe6 14. b4 Bb6 15. Bc4 Qe8 16. a4 {with advantage}) 12. Qxf3 Qxf3 {This at leas
+t breaks White's pawn structure. Running away with the queen would have left
+Black with no compensation for opponent's bishop pair.} 13. gxf3 {# It is curi
+ous that by choosing the Berlin Defense Carlsen aimed for an endgame with an
+worse pawn structure, but with the bishop pair. But things went differently in
+the game: the situation is exactly the opposite.} Ne7 {
+One more move - Ng6 - and Black won't have the slightest problem.} 14. f4 $1 {
+Just in time. Suddenly things become dangerous for Black.} c6 15. Bc4 exf4 16.
+Bxf4 Ng6 17. Bg3 Rfe8 18. Rfe1 Rad8 19. Rad1 $1 {# White is better thanks to
+his two strong bishops. A passive defense is not to everyone's taste and
+Carlsen decides to accept the pawn sac.} Rxd1 20. Rxd1 Rxe4 21. Rd8+ Nf8 22.
+Bd3 Re1+ 23. Kg2 {Radjabov's energetic play secured him excellent compensation
+for the pawn. All his pieces are active and it is very unpleasant to defend
+such positions with the black pieces: one never knows where the danger is
+coming from. The problem is that White has a sufficient small threats and
+resources to improve his pieces, while Black can't simplify the position.} a5
+24. Ra8 Rd1 25. Bc4 Bb6 (25... b5 {Leads to a difficult position for Black} 26.
+Rxa5 Bxf2 27. Be2 Bb6 28. Ra6 Rd2 29. Kf3 Bg1 30. Rxc6 Rxb2 31. Rc8 Rd2 32.
+Bxb5) (25... b6 {was perhaps the best option}) 26. Rb8 Rd7 {
+# Apparently Black protected everything, but...} 27. Ba6 $1 {A great move.
+Radjabov conducts the game excellently, using tactics in order to solve his
+strategical targets. With the help of the last move White regains the pawn.}
+bxa6 28. Rxb6 f6 29. Rxa6 {The material equality is restored and White has a
+clear advantage thanks to better pieces and Black's weak queenside pawns.} Rd2
+30. b4 axb4 31. cxb4 Rb2 32. Bd6 {The main problem in such positions for the
+side with the knight is that the bishop is much stronger.} Ne6 33. a4 Rc2 34.
+a5 Kf7 {#} 35. Bc5 {Another unexpected cute tactical solution.} Nf4+ (35...
+Nxc5 {The endgame after} 36. Rxc6 $1 Rb2 37. bxc5 Ra2 38. a6 {
+is lost for Black.}) 36. Kf3 Nd5 37. Rb6 $1 {
+And one more! Really impressive play.} (37. Rxc6 $2 Nxb4 {
+is of course unnecessary.}) 37... Rc4 (37... Nxb6 38. axb6 Rd2 39. b7 Rd8 40.
+Bd6 {the pawn queens}) 38. Rb7+ Kg6 39. a6 Rc3+ 40. Kg2 Nf4+ 41. Kg1 Nxh3+ 42.
+Kh2 Nf4 43. Be3 {A high quality game from Radjabov.} (43. Be3 {
+The finish could be} Nd5 44. a7 Ra3 45. Bc5 h5 46. Rb8 Nc7 47. Rc8 {
+winning a lot of material}) 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.22"]
+[Round "6"]
+[White "Ivanchuk, Vassily"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2751"]
+[BlackElo "2755"]
+[PlyCount "53"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8. Qd2
+{Ivanchuk already played once this rare move. #} g5 {From such a creative
+player like Alexey Shirov one can expect almost everything, but even so this
+advance looks highly unexpected. However, Alexey has also a subtle strategical
+understanding and a closer look reveals the fact that without the dark-squared
+bishop it is difficult for White to make use of Black's weakned structure on
+the kingside.} (8... Qd8 9. O-O-O {
+Ivanchuk,V (2729)-Vallejo Pons,F (2650)/Monte Carlo (rapid) 2006.}) 9. Bd3 Bg7
+10. O-O O-O 11. Qc2 dxc4 12. Bxc4 c5 {
+# The critical position. Ivanchuk must have underestimated Shirov's reply.} 13.
+Rfd1 (13. h3 cxd4 14. exd4 Nb6 15. Bd3 Bd7 16. Ne5 {the things are different
+from the game: White will place rooks on d1 and e1 and can continue to fight
+for the initiative.}) 13... g4 $1 {Making full use of 8...g5. This advance
+creates new weaknesses, of course, but it is important that White won't be
+able to find a good job for the knight. At least Ivanchuk failed to do so.} 14.
+Ne1 cxd4 15. exd4 (15. Rxd4 {with equal position looks safer}) 15... Nb6 16.
+Be2 h5 17. Ne4 Qg6 18. Nc3 {
+Already here the Ukrainian invites to repeat the moves.} Qxc2 {
+Black has no reasons to avoid playing a better endgame.} 19. Nxc2 Bd7 20. Rd2
+Bh6 (20... Rac8 {keeps a pleasant advantage}) 21. Ne3 f5 22. g3 f4 23. gxf4
+Bxf4 24. Re1 Bc6 {#} 25. Bb5 $1 {After the exchange of bishops Black will be
+only marginally better, so Shirov decided to take the draw.} Bf3 26. Be2 Bc6
+27. Bb5 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.22"]
+[Round "6"]
+[White "Aronian, Levon"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[ECO "A33"]
+[WhiteElo "2739"]
+[BlackElo "2753"]
+[PlyCount "99"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. c4 {An impressive novelty from Aronian followed by a great and complicated
+fight ended in a draw, which can be considered a moral victory for Leko.} c5 2.
+Nf3 Nf6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 e6 6. g3 Qb6 7. Ndb5 Ne5 8. Bf4 Nfg4 {#}
+9. Qa4 {What a novelty! The position was played many times before and White
+inevitably continued 9.e3.} g5 (9... Qxf2+ {After a very long thought Leko
+wisely rejected the tempting Qxf2 with check and instead makes another very
+ambitious move. Playing without preparation the position arising after} 10. Kd2
+Qc5 (10... Qb6 11. Bh3 $1) (10... Kd8 {just loses after} 11. h3) 11. Ne4 Qc6
+12. c5 {looks like suicide.}) (9... a6 {was the main alternative}) 10. Bxe5
+Nxe5 11. O-O-O a6 12. e3 Rb8 13. Nd4 Qc7 14. Be2 Be7 15. Kb1 Nc6 {# White achi
+eved a very promising position. He completed development and Black's structure
+is full of weaknesses. One should pay credit to Peter Leko, who saved half a
+pawn in a highly unpleasant situation: in a bad position and with little time.}
+16. Rc1 (16. h4 $5) 16... Qe5 17. Rhd1 h5 18. Ka1 g4 19. Bf1 f5 20. Bg2 Kf7 21.
+h3 Bf6 22. Qc2 Ne7 23. Nce2 b5 24. cxb5 axb5 25. Nf4 d5 26. Qc5 Rb7 {#} 27. Qb4
+(27. Rh1 $5) 27... Bd7 28. Nd3 Qb8 29. Nc5 Qd6 30. Qa5 Rc7 31. Nxd7 Rxd7 32.
+hxg4 hxg4 33. Bf1 b4 34. Nb5 Qe5 35. Qxb4 Ra8 36. Rd2 Qb8 37. Kb1 Be5 38. Rdc2
+{# With inventive play the Hungarian grandmaster escaped with just a pawn down,
+for which he actually has a good compensation thanks to a strong dark-squared
+bishop and open files against the white king.} Rda7 $1 39. a3 Ra4 40. Qb3 Qb6
+41. Rc5 R4a5 42. Be2 Rb8 43. Qb4 Kf6 44. R1c2 Rh8 {#} 45. e4 fxe4 (45... dxe4
+$2 46. Rxe5 Kxe5 47. Qc3+ {winning}) 46. Bxg4 Rha8 47. Rc1 Ra4 48. Qd2 Rxa3 49.
+Nxa3 Rxa3 50. Rc6 (50. Rc6 Nxc6 51. Qh6+ Ke7 52. Qxe6+ Kf8 53. Qf5+ {
+is a draw by perpetual check.}) 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.23"]
+[Round "7"]
+[White "Shirov, Alexei"]
+[Black "Radjabov, Teimour"]
+[Result "1-0"]
+[ECO "E99"]
+[WhiteElo "2755"]
+[BlackElo "2735"]
+[PlyCount "87"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. d4 {Shirov's decision to play a slightly out-of-fashion variation against
+Radjabov's beloved King's Indian payed off excellently - Teimour mixed
+something and quickly found himself into troubles.} Nf6 2. c4 g6 3. Nc3 Bg7 4.
+e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5 Ne7 9. Ne1 {This move used to be
+the main line for many years, but lately almost everybody started to play 9.b4.
+} Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 13. Nd3 {# A typical King's Indian
+position: White advances the c-pawn in order to open the queenside, while
+Black builds an attack against the king. White is often the first one to
+achieve his goal, but in King's Indian Black almost always has good
+counterplay. Almost.} h5 {Already this natural move is inaccurate.} (13... Nf6
+14. c5 Ng6 15. Rc1 Rf7 {Black takes control over the seventh rank, controlling
+the vital square c7. At the same time the rook can be transposed to the g-file
+later, for instance after Bf8.}) 14. c5 Nf6 15. Rc1 g4 (15... Ng6 {Difficult to
+say if it would have changed much, although it looks more attractive than the
+game:} 16. cxd6 cxd6 17. Nb5 Rf7 18. Qc2 Ne8 19. Nxa7 Bd7 {followed by g5-g4.})
+16. Nb5 Ne8 (16... a6 17. cxd6 axb5 (17... cxd6 18. Nc7 Rb8 19. Ba7) 18. dxe7
+Qxe7 19. Bc5 {is also bad for Black}) 17. fxg4 a6 18. Nc3 hxg4 19. Bxg4 {
+# White mu st be winning: he is a pawn up in a position without weaknesses and
+with a large space advantage. Black keeps only some small practical chances to
+complicate matters.} Nf6 20. Bxc8 Rxc8 21. g3 {An interesting decision: Shirov
+considers that White should play on the kingside himself.} Qe8 22. Kh1 Qg6 23.
+Qe2 f3 24. Qxf3 Nfxd5 {#} 25. Nxd5 Nxd5 26. Qe2 Nf6 27. Rce1 {It might appear
+that Radjabov achieved something, but in reality Shirov keeps the situation
+under control: White is still a pawn up and has a large advantage.} Qf7 28. g4
+$1 Qg6 29. h3 Rf7 30. Kg2 Nd7 31. Bg1 Qe6 32. b3 Rxf1 33. Rxf1 d5 34. g5 a5 35.
+h4 Qc6 36. Re1 Rf8 37. exd5 Qxd5+ 38. Qe4 c6 39. Bh2 Qe6 40. Bg3 Rf5 {
+# Black has hardly any moves left.} 41. a3 Rf7 42. b4 Qa2+ 43. Re2 Qxa3 44. g6
+(44. g6 Rf6 45. Qc4+ Kh8 46. Ra2 {traps the queen.}) 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.23"]
+[Round "7"]
+[White "Leko, Peter"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2753"]
+[BlackElo "2780"]
+[PlyCount "76"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 {Leko had a tough finish in Morelia: yesterday's draw took him a lot of
+energy and today he lost a position that normally he should not lose.} c5 2.
+Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 {The Najdorf Sicilian suits Topalov
+much better than the Berlin Defense, which he played in the second round
+against Radjabov.} 6. Be3 e6 7. f3 b5 8. Qd2 b4 {A variation deeply prepared
+by Veselin for the 2005 World Championship tournament. Since then it became
+highly popular and both players contributed a lot to its theory development.
+It must be mentioned that Topalov achieved several memorable victories with
+this variation in the past two years, including wins against Anand, Kramnik
+and ... Leko.} 9. Na4 Nbd7 {#} 10. c4 {Anand's move, never used by Leko before.
+} (10. Qxb4 {allows} d5 {and Black wins back a central pawn.}) (10. O-O-O {
+When faced for the first time with the this variation, Peter continued with 10.
+0-0-0 and got a very promisingpositionafter} d5 11. exd5 Nxd5 12. Bc4 N7f6 13.
+Bg5 Qc7 14. Bxd5 Nxd5 15. Rhe1 {but misplayed it and lost, Leko,P (2763)
+-Topalov,V (2788)/San Luis 2005. However, Black has at his disposal the sharp
+10...Qa5 11.b3 Bb7 12.a3 Qc7, which leads to favourable for him complications.}
+) 10... bxc3 11. Nxc3 Bb7 12. Be2 Be7 (12... d5 {
+In 2006 Topalov won against Anand after} 13. exd5 Nxd5 14. Nxd5 Bxd5 15. O-O
+Qb8 16. Nf5 Qe5 17. Ng3 Bb4 $1 {
+but later Morozevich discovered that Black faces problems after 15.Rc1!.}) 13.
+O-O O-O 14. Rac1 Qb8 15. Rfd1 Rd8 {An important move. After the immediate 15...
+d5 White achieves advantage with 16.exd5 Nxd5 17.Nxd5 Bxd5 18.Nc6. #
+Apparently both players wanted to achieve this position. White seems to have
+more space and therefore some pressure, but Black inevitably advances d5 next
+and should have no problems whatsoever.} 16. Kh1 {
+This new move changes little: Black has a comfortable play.} (16. Bf2 {
+was met once before, after which Black can continue} d5 17. Bg3 Bd6) 16... d5
+17. exd5 Nxd5 18. Nxd5 Bxd5 19. Bc4 (19. Nc6 {
+is no longer attractive for White due to} Bxc6 20. Rxc6 Ne5 {
+and after the forced} 21. Rb6 Qc8 22. Qc1 Rxd1+ 23. Qxd1 Nc4 24. Bxc4 Qxc4 {
+it is Black who has some initiative}) 19... Nf6 20. Qe2 Qb7 21. b3 h6 {
+# The position is completely equal. In the next part both sides try to improve
+their pieces.} 22. Bf2 Rd7 23. Rc2 Bxc4 24. Rxc4 Rad8 25. Rf1 (25. Rdc1 {
+Peter must have rejected it in view of} Ba3) 25... Rd6 26. Qc2 Bf8 27. Nc6 Re8
+{White made some progress: the strong knight on c6 gives him hopes for
+advantage. Nevertheless Black keeps sufficient activity in the center and it
+is easy to overestimate White's achievements.} 28. b4 (28. Re1 {
+is more cautious when Black can continue} Rd5 {
+preparing again the advance of the e-pawn.}) 28... e5 29. Na5 {Leko's intention
+is to exchange bishops, but placing the knight on the edge is an indication
+that things can easily go wrong for White.} Qb5 30. Bc5 Rd5 31. Bxf8 Rxf8 32.
+Re1 (32. Nc6 Re8 33. a4 Qb6 34. Re1 $11) 32... Rfd8 33. Nb3 {
+Again possible was 33.Nc6. #} Rd1 $1 {This is an t surprise for White, who in
+order to hold the position suddenly must solve concrete problems and react
+very precisely. With little time Leko got confused and went for the wrong
+variation.} 34. Qxd1 (34. Rxd1 {is correct} Rxd1+ 35. Qxd1 Qxc4 36. Qc1 $1 (36.
+Qe1 {is not good} Nd5 $1 37. h3 f6 {and Black wins the pawn b4}) 36... Qxb4 37.
+Qc8+ Kh7 (37... Qf8 38. Qxa6) 38. Qf5+ g6 39. Qxe5 {
+Square e1 is under control, so White will easily make a draw.}) 34... Rxd1 35.
+Rc8+ Kh7 36. Rxd1 e4 {# Black builds a direct attack against the king and
+White's situation is difficult. Each mistake is fatal and loses at once. And
+this is exactly what happened.} 37. fxe4 $2 (37. Rc3 {
+was the only way to put some esistance} Qxb4 38. Re3 exf3 39. Rxf3) 37... Ng4
+$1 {A precise move that wins immediately.} (37... Nxe4 {is weaker} 38. Rc2) 38.
+Rc5 (38. Rc2 {the quickest win is} Qe5) 38... Qb8 $1 0-1
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.23"]
+[Round "7"]
+[White "Carlsen, Magnus"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2733"]
+[BlackElo "2739"]
+[PlyCount "79"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 {
+The game from the previous round against Leko had also a bad effect on Aronian.
+} e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a3 (8.
+c3 d5 {
+leads to the Marshall Attack, which Levon can play well even when being tired.}
+) 8... Bc5 9. c3 d6 10. d4 Bb6 11. h3 Re8 {A new move. Taking into
+consideration what happened next, this looks like an over-the-board
+improvisation rather than home preparation.} (11... h6 {is safer}) 12. Bg5 h6
+13. Bh4 {
+A brave move from Magnus. White is ready to sacrifice a central pawn. #} exd4 {
+Black is practically forced to accept the challenge, otherwise it is not clear
+why he allowed White to pin the knight.} 14. cxd4 g5 15. Bg3 g4 (15... Rxe4 {
+Taking on e4 loses:} 16. Rxe4 Nxe4 17. Bd5 Qe8 18. Qc2 Nxg3 19. Qg6+) 16. hxg4
+Bxg4 17. Bh4 Nxd4 18. Nc3 {# White has an obvious threat: Nc3-d5. Another
+thing that Black must always consider is the advance e4-e5 followed by Ne4.}
+Bxf3 $2 {Levon has found a nice-looking queen sacrifice. Unfortunately for him
+this idea has a refutation.} (18... c6 {is correct, after which White still
+must prove that he has compensation for the pawn. The point is that} 19. e5
+dxe5 20. Ne4 {doesn't work for White in view of} Nxe4 21. Bxd8 Raxd8 22. Rxe4
+Nxf3+ 23. gxf3 Rxd1+ 24. Bxd1 Bf5 {with advantage for Black}) 19. gxf3 Kh8 (
+19... c6 20. e5 dxe5 21. Ne4 {is already a different story. However, 19. ..c6
+was still the best option, since instead of taking on e5 Black can play 20...
+Qc8! and bring the queen to h3. In that case complications will most likely
+end in a draw.}) 20. Nd5 Rg8+ 21. Kf1 (21. Kh1 $2 {
+Aronian's idea would have worked well after} Ng4 $1 22. Qxd4+ Bxd4 23. Bxd8
+Nxf2+ 24. Kh2 Raxd8 {and it is Black who wins}) 21... Ng4 {# The bish op on h4
+is hanging, while taking the queen 22.Bxd8 leads to a nice mate with the
+knight on h2. But in this wild position White has a solution.} 22. Qxd4+ $1 {
+A counter queen sacrifice!} Bxd4 23. Bxd8 Nh2+ {Before taking the bishop the
+knight must run away. Nevertheless he won't have a long life on h2 either.} 24.
+Ke2 Raxd8 25. Rad1 $1 Bxb2 26. Rh1 {# Black can't save the knight. Several
+pawns won't be enough for being a piece down.} c6 (26... Be5 {
+Other moves don't help either:} 27. f4 c6 28. fxe5 cxd5 29. Rxh2) (26... Rg2
+27. Ne3 Rdg8 28. Bxf7 R8g7 29. Nxg2 Rxg2 30. Rdg1) 27. Nf4 Be5 28. Nd3 Nxf3 29.
+Kxf3 Bg7 30. Rh5 {# In spite of having three pawns for the knight, Black is
+lost. His position contains a lot of weaknesses and White's pieces are active.
+The rest is easy for Carlsen, who plays very precisely until the end.} d5 (
+30... c5 31. Bxf7 Rgf8 32. Rf5 {is also hopeless}) 31. exd5 Rd6 32. Rf5 cxd5
+33. Rc1 $1 Rf6 34. Rxf6 Bxf6 35. Rc6 Kg7 36. Nf4 Bg5 37. Nh5+ Kh8 38. Rxa6 d4
+39. Ke4 Rg6 40. Ra7 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.23"]
+[Round "7"]
+[White "Anand, Viswanathan"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "B85"]
+[WhiteElo "2799"]
+[BlackElo "2751"]
+[PlyCount "61"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6 8.
+Be3 Be7 9. f4 d6 10. a4 O-O 11. Kh1 Re8 12. Bf3 Rb8 13. Qd2 Bd7 14. Nb3 b6 {
+# The game transposed into the so-called Scheveningen variation. More than two
+decades ago its expert Gary Kasparov succeeded proving the vitality of Black's
+position against the biggest specialist with the white pieces, Anatoly Karpov.
+As a result of their duel in this type of positions Karpov switched to 1.d4.
+Meanwhile the theory of this variation developed a lot and there are plenty of
+nuances for both sides.} 15. g4 (15. Rae1 {Ivanchuk and Anand have already
+played this position, but with reversed colours!} Bc8 16. e5 dxe5 17. Bxc6 Qxc6
+18. fxe5 Nd5 19. Qf2 Rf8 20. Nxd5 Qxd5 21. Bxb6 Bb7 22. Bc5 Bh4 23. Qe2 Rfc8
+24. Rd1 Qe4 25. Qxe4 Bxe4 {Ivanchuk,V (2719)-Anand,V (2762)/Shenyang 2000.
+Although Vishy won that game, he mentioned that (in the bus to the hotel (!)
+Ivanchuk found advantage for White: 23.Qg1 instead of 23.Qe2...}) (15. Qf2 {
+On the white side the Ukrainian also had experience against Kasparov:} Nb4 16.
+Nd4 e5 17. Nf5 Bxf5 18. exf5 e4 19. Nxe4 Qxc2 20. Rfc1 Qxf2 21. Nxf2 d5 22. Bd2
+a5 23. g3 Bc5 24. Bxb4 Bxb4 25. Kg2 h5 26. Rc2 b5 {
+1/2-1/2 Ivanchuk,V (2710)-Kasparov,G (2805)/Linares 1993}) 15... Bc8 16. g5 (
+16. Qf2 Na5 17. Rad1 Nc4 18. Bc1 b5 {
+is equal, Topalov,V (2750)-Anand,V (2735)/Las Palmas 1996.}) 16... Nd7 17. Qf2
+{#} Bb7 {
+Vassily delays as much as possible the standard retreat of the bishop to f8.} (
+17... Bf8 {The famous last game of the second World Championship match between
+Karpov and Kasparov went} 18. Bg2 Bb7 19. Rad1 g6 20. Bc1 Rbc8 21. Rd3 Nb4 22.
+Rh3 Bg7 23. Be3 Re7 24. Kg1 Rce8 25. Rd1 f5 26. gxf6 Nxf6 27. Rg3 Rf7 28. Bxb6
+Qb8 29. Be3 Nh5 30. Rg4 Nf6 31. Rh4 g5 32. fxg5 Ng4 33. Qd2 Nxe3 34. Qxe3 Nxc2
+35. Qb6 Ba8 36. Rxd6 Rb7 37. Qxa6 Rxb3 38. Rxe6 Rxb2 39. Qc4 Kh8 40. e5 Qa7+
+41. Kh1 Bxg2+ 42. Kxg2 Nd4+ {0-1 Karpov,A (2720)-Kasparov,G (2700)/Moscow 1985.
+This game brought Kasparov the World Championship title. A curious fact: after
+this game Karpov had the white pieces against Kasparov numerous times (in more
+than 50 games!), but he never played 1.e4 against Gary again...}) 18. Bg2 Na5 {
+A standard maneuver in such positions: the open b-file would be a more
+important factor for Black than the doubled pawns.} 19. Rad1 (19. Nxa5 bxa5 20.
+Rad1 Bc6 21. Bc1 f6 {Black takes over the initiative.}) 19... Nxb3 20. cxb3 Bc6
+21. b4 b5 22. a5 Rbc8 {#} 23. f5 {This active plan always has a serious
+drawback: Black gets control over important square e5.} Ne5 24. Qg3 (24. f6 {
+runs into} Ng4) (24. Bb6 {was interesting} Qb7 {and now} 25. f6 {
+Nevertheless after} Bf8 {the mighty knight on e5 must secure Black sufficient
+resources for defense and counterplay.}) 24... Bf8 25. Bd4 exf5 26. exf5 Qb7
+27. Bxc6 Qxc6+ 28. Qg2 {The exchange of queens is a moral victory for Black.}
+Qxg2+ 29. Kxg2 Nc6 30. Nd5 Ne7 31. Bc3 {# White keeps the space advantage in
+endgame too, but Black has little to fear: he controls both open files and has
+the weakness on d6 well protected. Anand decided that playing for a win is not
+realistic anymore.} (31. Bc3 {is a possible follow-up} Nxd5 32. Rxd5 Rc4 33.
+Kg3 Ree4 34. h3 Re2 {
+and it's not easy for White to find fruitful ideas to improve.}) 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.28"]
+[Round "8"]
+[White "Radjabov, Teimour"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2735"]
+[BlackElo "2753"]
+[PlyCount "77"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8. cxd5
+Nxd5 9. O-O Be7 10. Qe4 Na6 11. Nh4 g6 12. Qe5 f6 13. Qe4 Qc8 14. Rd1 Nac7 15.
+Nxg6 hxg6 16. Qxg6+ Kd8 17. a3 b5 18. e4 Nb6 19. Nc3 d6 20. Bf4 Qe6 21. Bxd6
+Bxd6 22. Qg7 Re8 23. e5 Qxe5 24. Bxb7 Ne6 25. Qg4 Nd4 26. Bxa8 Nxa8 27. Re1
+Qxe1+ 28. Rxe1 Rxe1+ 29. Kg2 Nc7 30. Ne4 Ne8 31. Qg6 Be7 32. Nc3 Re5 33. h4 a5
+34. Qd3 Nd6 35. Qh7 Ne8 36. f4 Re6 37. h5 f5 38. h6 Rd6 39. a4 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.28"]
+[Round "8"]
+[White "Ivanchuk, Vassily"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[ECO "C67"]
+[WhiteElo "2751"]
+[BlackElo "2733"]
+[PlyCount "79"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 a6 6. Bxc6 dxc6 7. Qe2 Bf5 8.
+Re1 Bb4 9. c3 Bd6 10. Qc2 Qd7 11. dxe5 Bc5 12. Rxe4 O-O-O 13. Nbd2 Qd5 14. Kf1
+Rhe8 15. b3 g5 16. Bb2 g4 17. Nd4 Bxd4 18. cxd4 c5 19. Rae1 cxd4 20. Qc4 Bxe4
+21. Rxe4 Rxe5 22. Rxg4 Rde8 23. Nf3 Qxc4+ 24. bxc4 Re2 25. Bxd4 Rxa2 26. Rg7 a5
+27. Rxf7 Rc2 28. g4 a4 29. g5 a3 30. Rxh7 a2 31. Rh8 Rxh8 32. Bxh8 Rxc4 33. h3
+c5 34. Ne1 Rc1 35. g6 Kd7 36. Bb2 Ke6 37. h4 c4 38. h5 c3 39. Bxc1 a1=Q 40. Nd3
+0-1
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.28"]
+[Round "8"]
+[White "Aronian, Levon"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[ECO "A29"]
+[WhiteElo "2739"]
+[BlackElo "2780"]
+[PlyCount "129"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8.
+a3 O-O 9. b4 Be6 10. Rb1 f6 11. d3 Nd4 12. Nd2 c6 13. Nde4 Nd5 14. e3 Nxc3 15.
+Nxc3 Nf5 16. Qc2 Rc8 17. Rd1 Qd7 18. d4 exd4 19. exd4 Bd6 20. Ne4 Rcd8 21. Bb2
+Qf7 22. Rd2 Bd5 23. Re1 Bb8 24. Rde2 b6 25. Nd2 Bxg2 26. Kxg2 Qd5+ 27. Kg1 b5
+28. Nb3 Bd6 29. Na5 Rc8 30. Rc1 Rc7 31. Qd3 Rfc8 32. Rec2 g6 33. Qf1 Kf7 34.
+Qg2 Ne7 35. Re1 h5 36. h4 f5 37. Bc1 f4 38. Rxe7+ Bxe7 39. Bxf4 Qxg2+ 40. Kxg2
+Rd7 41. Nxc6 Kg7 42. d5 a6 43. Kf3 Bf6 44. Ke4 Re7+ 45. Kd3 Rd7 46. d6 Re8 47.
+Nd4 Kf7 48. Nf3 a5 49. Rc5 axb4 50. axb4 Rb7 51. Nd2 Ra8 52. Ne4 Bd8 53. Rd5
+Ra3+ 54. Kd4 Rb3 55. Kc5 Ke6 56. Rd2 Rb1 57. Re2 Kd7 58. Kd5 Rd1+ 59. Rd2 Rxd2+
+60. Bxd2 Ke8 61. Ke6 Rb6 62. Bg5 Rc6 63. Bxd8 Kxd8 64. Ng5 Ke8 65. Nf7 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.28"]
+[Round "8"]
+[White "Anand, Viswanathan"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2799"]
+[BlackElo "2755"]
+[PlyCount "113"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 O-O 13. a4 bxa4 14. Rxa4 a5
+15. Bc4 Rb8 16. b3 Kh8 17. Nce3 g6 18. Qe2 f5 19. h4 Bxe3 20. Qxe3 fxe4 21. h5
+g5 22. Qxe4 Bb7 23. Qe3 e4 24. O-O Ne5 25. Rfa1 Qe8 26. Rxa5 Qxh5 27. Qxe4 Rbe8
+28. Be2 Qh4 29. Qxh4 gxh4 30. Ne3 h3 31. gxh3 Nf3+ 32. Bxf3 Rxf3 33. Rh5 Rg8+
+34. Kf1 Rgf8 35. Nd1 Rd3 36. Rh4 Bf3 37. Rd4 Rxd4 38. cxd4 Rf4 39. Ne3 Rxd4 40.
+Ra4 Rd3 41. Rf4 Bh5 42. b4 d5 43. Kg2 Bg6 44. Nf5 Kg8 45. Ne7+ Kg7 46. Nxg6
+Kxg6 47. Rf3 Rd1 48. Rb3 d4 49. Kf3 d3 50. Ke3 Rh1 51. b5 Rxh3+ 52. f3 Rh1 53.
+b6 Re1+ 54. Kxd3 Re8 55. b7 Rb8 56. Ke4 h5 57. Kf4 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.29"]
+[Round "9"]
+[White "Topalov, Veselin"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[WhiteElo "2780"]
+[BlackElo "2735"]
+[PlyCount "107"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. O-O Bc5 7. Qd3 d6 8.
+Qc4 Qe7 9. Nc3 Bd7 10. Nd5 Nxd5 11. exd5 Nd4 12. Bxd7+ Qxd7 13. Nxd4 Bxd4 14.
+a4 a6 15. Be3 Bxe3 16. fxe3 O-O-O 17. Rf2 Rdf8 18. Raf1 Rxf2 19. Rxf2 Kb8 20.
+b3 Qe7 21. Qe4 g6 22. Qf3 Rc8 23. c4 c6 24. dxc6 Rxc6 25. e4 Qg5 26. h3 Qc1+
+27. Kh2 Qe1 28. Rf1 Qd2 29. Qf8+ Rc8 30. Qe7 Qd3 31. Rf3 Qxe4 32. Qxd6+ Ka7 33.
+Rf7 h5 34. a5 g5 35. Qe6 Rg8 36. Rf6 Rh8 37. Qd5 Qxd5 38. cxd5 e4 39. Re6 Rd8
+40. Re5 e3 41. Kg3 g4 42. hxg4 hxg4 43. b4 b6 44. axb6+ Kxb6 45. Kxg4 Kb5 46.
+Re4 e2 47. Rxe2 Kxb4 48. Rd2 Kc5 49. Kh5 Rxd5+ 50. Rxd5+ Kxd5 51. g4 Ke6 52.
+Kh6 Kf7 53. Kh7 Kf6 54. Kh6 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.29"]
+[Round "9"]
+[White "Leko, Peter"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[ECO "B19"]
+[WhiteElo "2753"]
+[BlackElo "2751"]
+[PlyCount "96"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Qa5+ 12. Bd2 Bb4 13. c3 Be7 14. c4 Qc7 15.
+O-O-O Ngf6 16. Kb1 O-O 17. Rhe1 a5 18. Bc1 Rfd8 19. Qc2 a4 20. Ne5 Nxe5 21.
+dxe5 Rxd1 22. Qxd1 Nd7 23. f4 Nc5 24. Ne4 Rd8 25. Qc2 Nxe4 26. Rxe4 Qb6 27.
+Qxa4 Qg1 28. Qc2 Rd1 29. Re2 Rf1 30. a3 Bc5 31. Qd2 Rd1 32. Qc2 Bd4 33. c5 Rf1
+34. Rd2 Rxf4 35. Ka2 Rf2 36. Rxf2 Bxf2 37. g4 Bxc5 38. Bf4 Qd4 39. Qd2 Qe4 40.
+Ka1 Bd4 41. Qh2 c5 42. Ka2 b5 43. Qd2 Qd5+ 44. Kb1 b4 45. a4 b3 46. Qd3 c4 47.
+Qe2 Qh1+ 48. Bc1 Qa8 0-1
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.29"]
+[Round "9"]
+[White "Carlsen, Magnus"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "2733"]
+[BlackElo "2755"]
+[PlyCount "159"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8. c3
+d6 9. d4 Bb6 10. Na3 O-O 11. axb5 axb5 12. Nxb5 Bg4 13. Bc2 Bxf3 14. gxf3 Nh5
+15. f4 Nxf4 16. Bxf4 exf4 17. Qg4 Qf6 18. Ra6 Ne7 19. Na3 c6 20. Nc4 Bc7 21.
+Ra7 Rbc8 22. e5 dxe5 23. dxe5 Qh6 24. Rd1 Nd5 25. Be4 Rfd8 26. Rd3 g6 27. Bxd5
+cxd5 28. Rxd5 Rxd5 29. Qxc8+ Kg7 30. Qg4 Bxe5 31. h4 Bb8 32. Rb7 Rd8 33. Kg2
+Kg8 34. Qg5 Qf8 35. Qf6 Re8 36. b4 Re6 37. Qd4 Qc8 38. Rd7 Qc6+ 39. Qd5 Qxd5+
+40. Rxd5 Rc6 41. Nd2 f3+ 42. Nxf3 Kg7 43. Rd8 Bc7 44. Rd7 Rxc3 45. Ng5 Kg8 46.
+Ne4 Rc4 47. Nf6+ Kf8 48. Nxh7+ Ke8 49. Nf6+ Kf8 50. Nd5 Be5 51. b5 Rxh4 52. b6
+Rd4 53. Kf3 Kg7 54. Ke3 Ra4 55. b7 Ra3+ 56. Ke4 Bh2 57. Nc7 Rb3 58. Ne6+ Kf6
+59. Nd8 g5 60. Rxf7+ Kg6 61. Rd7 g4 62. Ne6 g3 63. fxg3 Bxg3 64. Kd5 Rb1 65.
+Kc6 Rc1+ 66. Nc5 Bb8 67. Rd5 Ba7 68. Kd7 Bb8 69. Ne6 Kf6 70. Rc5 Rb1 71. Nd8
+Bh2 72. Rc6+ Ke5 73. Rc1 Rb3 74. Rc2 Bf4 75. Kc6 Kf5 76. Rc5+ Kf6 77. Kd7 Rb1
+78. Kc8 Bh2 79. Rc6+ Ke5 80. b8=Q+ 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.02.29"]
+[Round "9"]
+[White "Aronian, Levon"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+[WhiteElo "2739"]
+[BlackElo "2799"]
+[PlyCount "53"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8. cxd5
+Nxd5 9. O-O Be7 10. Qe4 Bc6 11. Ne5 Nf6 12. Nxc6 Nxc6 13. Qa4 O-O 14. Rd1 Nd4
+15. Nc3 b5 16. Qa6 b4 17. Nd5 Nxd5 18. Bxd5 Rb8 19. Bf4 Qb6 20. Qc4 d6 21. e3
+Nb5 22. g4 Nc7 23. Be4 g6 24. Rd2 Rbd8 25. Qe2 d5 26. Bxc7 Qxc7 27. Rxd5
+1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.01"]
+[Round "10"]
+[White "Shirov, Alexei"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[WhiteElo "2755"]
+[BlackElo "2753"]
+[PlyCount "76"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Bf5 14. Qf3 Qh4
+15. g3 Qh3 16. Bxd5 cxd5 17. Qxd5 Rad8 18. Qg2 Qxg2+ 19. Kxg2 Bxd3 20. Be3 Rfe8
+21. Nd2 b4 22. Bb6 Rxe1 23. Rxe1 Rb8 24. Ba5 bxc3 25. Bxc3 f6 26. Ne4 Bf8 27.
+f3 Bc4 28. b3 Bb5 29. Ba5 Rc8 30. Nc3 Bc6 31. Rd1 Kf7 32. Ne2 h5 33. Rc1 Bd7
+34. Rxc8 Bxc8 35. Bc3 Bd6 36. Kf2 g5 37. Ke3 h4 38. gxh4 Bxh2 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.01"]
+[Round "10"]
+[White "Radjabov, Teimour"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2735"]
+[BlackElo "2739"]
+[PlyCount "62"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Ne5 h5 10. h4 g4 11. Be2 Bb7 12. O-O Nbd7 13. Qc2 Nxe5 14. Bxe5 Bg7 15. Rad1
+O-O 16. Qc1 Nh7 17. g3 f6 18. Bf4 a6 19. Rfe1 Rf7 20. Qc2 Rd7 21. b3 cxb3 22.
+Qxb3 Nf8 23. Be3 Qe7 24. a4 Qf7 25. d5 exd5 26. exd5 f5 27. Bf1 Ng6 28. Bg2 Ne7
+29. axb5 axb5 30. Bd4 Bxd4 31. Rxd4 Rc8 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.01"]
+[Round "10"]
+[White "Ivanchuk, Vassily"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[WhiteElo "2751"]
+[BlackElo "2780"]
+[PlyCount "123"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Be7 9. Qf3 Qb6 10. Be3 Qb7 11. Qg3 b4 12. Na4 Nbd7 13. f3 O-O 14. Rfd1 Kh8 15.
+Kh1 Ne5 16. a3 bxa3 17. Rxa3 Rb8 18. Nc3 Ned7 19. Ra2 Nc5 20. Bc4 Qc7 21. b3
+Bd7 22. Qe1 Rfc8 23. Rda1 Ne8 24. Nde2 Bf6 25. Bd4 Bxd4 26. Nxd4 Qb6 27. Qe3
+Nc7 28. h3 h6 29. Ra5 Kg8 30. R1a2 Qb4 31. Nce2 Qb6 32. Nc3 Qb4 33. Nce2 Qb6
+34. Ng3 d5 35. exd5 exd5 36. Ndf5 Re8 37. Qxc5 dxc4 38. bxc4 Bxf5 39. Nxf5 Re2
+40. Qxb6 Rxb6 41. Kh2 Rd2 42. h4 Kh7 43. h5 Rf6 44. Re5 Ne6 45. Rxa6 Nd4 46.
+Rxf6 Nxf3+ 47. Kh3 Nxe5 48. Rd6 Rxc2 49. Rd5 Nxc4 50. Rc5 Ne3 51. Rxc2 Nxc2 52.
+g4 Ne1 53. Kg3 Nd3 54. Kf3 Kg8 55. Ke4 Nc5+ 56. Kd5 Nd7 57. Ke4 Kf8 58. Kf4 Nc5
+59. Ke5 Ne6 60. Kd5 Ke8 61. Ke5 Kf8 62. Ke4 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.01"]
+[Round "10"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2799"]
+[BlackElo "2733"]
+[PlyCount "43"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Ne7 13. a4 bxa4 14. Ncb4 O-O
+15. Qxa4 Nxd5 16. Nxd5 Bd7 17. Qa2 a5 18. Bd3 Bc6 19. O-O Qb8 20. Bc4 Kh8 21.
+b3 f5 22. exf5 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.03"]
+[Round "11"]
+[White "Topalov, Veselin"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "D89"]
+[WhiteElo "2780"]
+[BlackElo "2755"]
+[PlyCount "67"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 c5 9. O-O Nc6 10. Be3 Bg4 11. f3 Na5 12. Bd3 cxd4 13. cxd4 Be6 14. d5 Bxa1
+15. Qxa1 f6 16. Qd4 Bf7 17. Bh6 Re8 18. Bb5 e5 19. Qf2 Re7 20. Bd3 Rc8 21. f4
+Nc4 22. fxe5 Nxe5 23. Qxf6 Bxd5 24. exd5 Ng4 25. Qf4 Nxh6 26. Qxh6 Qb6+ 27. Kh1
+Qe3 28. Qh4 Re5 29. Qf6 Ree8 30. Bxg6 hxg6 31. Qxg6+ Kh8 32. Qf6+ Kh7 33. Qf7+
+Kh8 34. Nf4 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.03"]
+[Round "11"]
+[White "Radjabov, Teimour"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+[WhiteElo "2735"]
+[BlackElo "2799"]
+[PlyCount "35"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nh3 Nf6 7. Nf4 e5 8.
+Nxg6 hxg6 9. dxe5 Qa5+ 10. Bd2 Qxe5+ 11. Qe2 Qxe2+ 12. Bxe2 Nbd7 13. O-O O-O-O
+14. Rad1 Nb6 15. Bc1 Bd6 16. Rfe1 Kc7 17. h3 Rhe8 18. Bd3 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.03"]
+[Round "11"]
+[White "Leko, Peter"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2753"]
+[BlackElo "2733"]
+[PlyCount "123"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Ne7 13. h4 Bh6 14. a4 bxa4
+15. Ncb4 O-O 16. Qxa4 Nxd5 17. Nxd5 a5 18. Bb5 Be6 19. Bc6 Rb8 20. b4 Bxd5 21.
+Bxd5 axb4 22. cxb4 Qb6 23. Rb1 Kh8 24. O-O f5 25. Qa5 fxe4 26. Qxb6 Rxb6 27.
+Rb3 Rc8 28. Ra1 g6 29. Ra8 Rxa8 30. Bxa8 Bf8 31. b5 Be7 32. g3 Bd8 33. Bxe4 d5
+34. Bxd5 Rd6 35. Bc6 Bb6 36. Rb2 Rd3 37. Kg2 Kg7 38. Be4 Ra3 39. g4 Bd4 40. Rc2
+Rb3 41. Rc7+ Kh8 42. Rc8+ Kg7 43. Rc7+ Kh8 44. Rb7 Rb2 45. h5 Rxf2+ 46. Kg3 Rf4
+47. h6 Rf8 48. Rc7 Bf2+ 49. Kg2 Be3 50. g5 Rb8 51. Rc3 Bd4 52. Rc6 Kg8 53. Bd5+
+Kf8 54. Bc4 Ke7 55. Rc7+ Kd6 56. Rxh7 e4 57. Rg7 Kc5 58. Rc7+ Kd6 59. Rc6+ Ke5
+60. Rxg6 Kf5 61. Rd6 Be3 62. h7 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.03"]
+[Round "11"]
+[White "Aronian, Levon"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "D53"]
+[WhiteElo "2739"]
+[BlackElo "2751"]
+[PlyCount "43"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bxf6 Bxf6 7. Qc2 dxc4 8.
+Ne4 b5 9. a4 Bb7 10. axb5 a6 11. Nxf6+ Qxf6 12. Qxc4 O-O 13. Qxc7 axb5 14. Rxa8
+Bxa8 15. e3 Bxf3 16. gxf3 Qxf3 17. Rg1 Qf5 18. Qc3 Qb1+ 19. Kd2 Nd7 20. Qc2 Qa2
+21. Bd3 e5 22. b3 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.04"]
+[Round "12"]
+[White "Shirov, Alexei"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "C89"]
+[WhiteElo "2755"]
+[BlackElo "2739"]
+[PlyCount "153"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Bf5 14. Qf3 Qh4
+15. g3 Qh3 16. Bxd5 cxd5 17. Qxd5 Rad8 18. Qg2 Qxg2+ 19. Kxg2 Bxd3 20. Be3 Rfe8
+21. Nd2 b4 22. Bb6 Rxe1 23. Rxe1 Rb8 24. Ba5 bxc3 25. Bxc3 f6 26. Ne4 Bf8 27.
+f3 Rc8 28. Rd1 Bc4 29. a3 Bb5 30. g4 Bc6 31. Rd3 Re8 32. Rd4 Rb8 33. h4 Be7 34.
+h5 Rd8 35. Rc4 Bb5 36. Rc7 Rd7 37. Rxd7 Bxd7 38. h6 gxh6 39. Bxf6 Bf8 40. Bd4
+Kf7 41. Kf2 Be7 42. Ke3 Bg5+ 43. f4 Bd8 44. Nd6+ Ke6 45. Nb7 Be7 46. f5+ Kf7
+47. Kf4 Bg5+ 48. Ke5 Ba4 49. Nd6+ Ke7 50. Ne4 Bd1 51. Bc5+ Kf7 52. b4 Bc1 53.
+Nd6+ Kg7 54. f6+ Kg6 55. f7 Bb2+ 56. Ke6 Bxg4+ 57. Ke7 Bf6+ 58. Ke8 Bf3 59.
+f8=N+ Kh5 60. Kf7 Bb2 61. Nxh7 Bxa3 62. Nf6+ Kh4 63. Ke6 h5 64. Ke5 Be2 65.
+Nde4 Bc1 66. Nd5 Kg4 67. Ne3+ Kf3 68. Ng5+ Kg3 69. Ke4 Bb5 70. Bd6+ Kf2 71.
+Nh3+ Ke2 72. Nf4+ Kd2 73. Nxh5 Bd3+ 74. Kd5 Kc3 75. Nd1+ Kb3 76. Nf6 Bd2 77.
+Ne4 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.04"]
+[Round "12"]
+[White "Ivanchuk, Vassily"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[WhiteElo "2751"]
+[BlackElo "2735"]
+[PlyCount "102"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Ndb5 d6 7. Bf4 e5 8.
+Bg5 a6 9. Na3 b5 10. Bxf6 gxf6 11. Nd5 Bg7 12. c3 f5 13. exf5 Bxf5 14. Nc2 Be6
+15. g3 O-O 16. Bg2 f5 17. O-O a5 18. Re1 Rc8 19. Nce3 Kh8 20. Qh5 b4 21. Rad1
+bxc3 22. bxc3 Ne7 23. c4 Nxd5 24. Bxd5 Qf6 25. Re2 f4 26. Be4 Qh6 27. Qxh6 Bxh6
+28. Rxd6 fxe3 29. Rxe6 exf2+ 30. Kf1 Rxc4 31. Rc6 Rxc6 32. Bxc6 Bg7 33. Be4 Rf6
+34. Rb2 Bf8 35. Rb5 a4 36. Rxe5 a3 37. Bf5 Rh6 38. h4 Bd6 39. Re8+ Kg7 40. Kxf2
+Rf6 41. g4 h5 42. Kf3 hxg4+ 43. Kxg4 Rf8 44. Re6 Rf6 45. Re3 Bb4 46. h5 Rd6 47.
+Be6 Kf6 48. Bb3 Rd4+ 49. Kf3 Bd2 50. Re6+ Kg5 51. Re5+ Kh6 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.04"]
+[Round "12"]
+[White "Carlsen, Magnus"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[ECO "A28"]
+[WhiteElo "2733"]
+[BlackElo "2780"]
+[PlyCount "73"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d3 d5 5. cxd5 Nxd5 6. e4 Nb6 7. Be2 Be7 8.
+O-O O-O 9. a4 Be6 10. Be3 Nd7 11. d4 exd4 12. Nxd4 Nxd4 13. Qxd4 c6 14. a5 Nc5
+15. Qe5 Nb3 16. Ra4 Bd6 17. Qh5 g6 18. Qh6 Be5 19. Bg5 Qc7 20. Be3 Nxa5 21. f4
+Bg7 22. Qh4 Bb3 23. Rd4 Rad8 24. e5 Rxd4 25. Bxd4 c5 26. Be3 f6 27. Nb5 Qd8 28.
+f5 fxe5 29. Bg5 Qb6 30. f6 c4+ 31. Kh1 Qxb5 32. fxg7 Rxf1+ 33. Bxf1 Kxg7 34.
+Bd8 Nc6 35. Qf6+ Kg8 36. Qe6+ Kf8 37. Bg5 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.04"]
+[Round "12"]
+[White "Anand, Viswanathan"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+[WhiteElo "2799"]
+[BlackElo "2753"]
+[PlyCount "73"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 Re8 10. Nc3 h6 11. a3 Bc5 12. Nd5 Nd4 13. Nxd4 Bxd4 14. c3 Bc5 15.
+Nxf6+ Qxf6 16. Be3 d6 17. Bxc5 dxc5 18. Re3 Re7 19. Qh5 Qg5 20. Qxg5 hxg5 21.
+c4 c6 22. Rg3 Rd8 23. Rc1 b4 24. axb4 cxb4 25. c5 a5 26. Ra1 Ba6 27. Rxa5 Bxd3
+28. Rxg5 Kh7 29. Rg4 Be2 30. Rg3 Rd2 31. Ba4 Rc7 32. Rb3 Rd1+ 33. Kh2 Rd4 34.
+Re3 Rd2 35. b3 Ra2 36. Ra8 Bb5 37. Rb8 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.06"]
+[Round "13"]
+[White "Topalov, Veselin"]
+[Black "Leko, Peter"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2780"]
+[BlackElo "2753"]
+[PlyCount "95"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d5 10. exd5 Nxd5 11. c3 Qd7 12. Nxe5 Nxe5 13. Rxe5 Rad8 14. Qg4 f5
+15. Qg3 Bf6 16. Re1 Kh8 17. Nd2 b4 18. Nf3 bxc3 19. d4 f4 20. Qg4 Qxg4 21. hxg4
+g5 22. Ne5 Kg7 23. bxc3 Nxc3 24. Bb2 Nd5 25. Rac1 Rfe8 26. Ba3 Re6 27. Rc2 Be7
+28. Bxd5 Bxd5 29. Rxc7 Re8 30. Rd7 Bxa2 31. Rc1 Kg8 32. Rcc7 Bf6 33. Nc6 Re1+
+34. Kh2 Be6 35. Rd6 Bg7 36. Ne7+ Kh8 37. Nf5 Bf8 38. Rxa6 Bxf5 39. Bxf8 Rxf8
+40. gxf5 Kg8 41. f6 Re4 42. Rg7+ Kh8 43. Re7 Rxe7 44. fxe7 Re8 45. Ra7 Kg7 46.
+d5 Kf7 47. d6 Rb8 48. Rc7 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.06"]
+[Round "13"]
+[White "Radjabov, Teimour"]
+[Black "Shirov, Alexei"]
+[Result "1-0"]
+[ECO "B92"]
+[WhiteElo "2735"]
+[BlackElo "2755"]
+[PlyCount "57"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Be6 9. Bxf6 Bxf6 10. Qd3 Nc6 11. O-O-O Nd4 12. Nxd4 exd4 13. Nd5 Bxd5 14. exd5
+O-O 15. Qf3 Re8 16. Bd3 Re5 17. Kb1 Qa5 18. g4 Qxd5 19. Qxd5 Rxd5 20. f4 Bh4
+21. b4 Rc8 22. a4 Rc3 23. Kb2 f5 24. gxf5 Rxd3 25. cxd3 Rxf5 26. Rc1 Rxf4 27.
+Rhf1 Rxf1 28. Rxf1 Bd8 29. a5 1-0
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.06"]
+[Round "13"]
+[White "Ivanchuk, Vassily"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "B88"]
+[WhiteElo "2751"]
+[BlackElo "2799"]
+[PlyCount "45"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8. Bb3
+Nc6 9. f4 Qc7 10. Kh1 O-O 11. f5 Nxd4 12. Qxd4 b5 13. fxe6 Bxe6 14. Bf4 Qc5 15.
+Qd3 b4 16. Ne2 d5 17. e5 Ne4 18. Be3 Qc7 19. Nf4 Qxe5 20. Bxd5 Bxd5 21. Nxd5
+Rad8 22. Rad1 Bd6 23. Bf4 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.06"]
+[Round "13"]
+[White "Aronian, Levon"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[WhiteElo "2739"]
+[BlackElo "2733"]
+[PlyCount "55"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. Qc2 c5 8. d5
+exd5 9. cxd5 Bxd5 10. Nxd5 Nxd5 11. Nh4 Nb4 12. Qd2 N8c6 13. Nf5 Nd4 14. Nxd4
+cxd4 15. Bxa8 Qxa8 16. O-O Qe4 17. a3 Nc2 18. Ra2 Rc8 19. b3 Rc3 20. Bb2 Rc6
+21. Rd1 Bf6 22. Qd3 d5 23. Qf3 h6 24. h4 g5 25. hxg5 hxg5 26. b4 Kg7 27. Qd3 b5
+28. Bc1 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.07"]
+[Round "14"]
+[White "Shirov, Alexei"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[ECO "C01"]
+[WhiteElo "2755"]
+[BlackElo "2751"]
+[PlyCount "60"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. exd5 exd5 6. Bd3 O-O 7. Nge2 c6 8.
+O-O Re8 9. Ng3 h6 10. Bd2 Nbd7 11. Nce2 Bxd2 12. Qxd2 Nf8 13. Nf4 Qd6 14. f3
+Bd7 15. Bf5 Re7 16. Bxd7 Qxd7 17. Nd3 Ng6 18. Nc5 Qc7 19. Nf5 Ree8 20. g4 b6
+21. Nd3 Re6 22. Rae1 Rae8 23. b4 Nh7 24. h4 Nhf8 25. h5 Ne7 26. Nf4 Rf6 27.
+Nxe7+ Rxe7 28. Rxe7 Qxe7 29. Nd3 Re6 30. Re1 Rxe1+ 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.07"]
+[Round "14"]
+[White "Leko, Peter"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[ECO "C90"]
+[WhiteElo "2753"]
+[BlackElo "2739"]
+[PlyCount "67"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3
+d6 9. c3 Na5 10. Bc2 c5 11. Nbd2 Nc6 12. Nf1 Re8 13. h3 h6 14. Ng3 Be6 15. d4
+cxd4 16. cxd4 exd4 17. Nxd4 Nxd4 18. Qxd4 Rc8 19. Bb3 Bxb3 20. axb3 d5 21. e5
+Bc5 22. Qf4 Ne4 23. Nxe4 dxe4 24. Rxa6 Qd3 25. Qxe4 Bxf2+ 26. Kxf2 Rc2+ 27. Kg1
+Qxe4 28. Rxe4 Rxc1+ 29. Kh2 Rd1 30. Ra7 Kf8 31. Rf4 Re7 32. Ra8+ Re8 33. Ra7
+Re7 34. Ra8+ 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.07"]
+[Round "14"]
+[White "Carlsen, Magnus"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[ECO "C63"]
+[WhiteElo "2733"]
+[BlackElo "2735"]
+[PlyCount "138"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. O-O Bc5 7. Qd3 d6 8.
+Qc4 Qe7 9. Nc3 Bd7 10. Nd5 Nxd5 11. exd5 Nd4 12. Nxd4 Bxd4 13. Bxd7+ Qxd7 14.
+a4 a6 15. Be3 Bxe3 16. fxe3 O-O-O 17. Rf2 Rdf8 18. Raf1 Qe7 19. Qe4 g6 20. Rf3
+Kb8 21. b3 Rxf3 22. Qxf3 Qg5 23. h3 Rc8 24. Kh2 Qh4 25. c4 a5 26. e4 Qh6 27.
+Qf2 b6 28. g3 Kb7 29. Kg2 Ra8 30. h4 g5 31. Qe3 Rg8 32. Rf5 Qh5 33. hxg5 Qd1
+34. Rf7 Qh5 35. Qf3 Qxg5 36. Rxh7 Qf4 37. Rh5 Rg7 38. Qd3 Qc1 39. Qf3 Qf4 40.
+Qxf4 exf4 41. Rh3 fxg3 42. Rxg3 Rh7 43. Kf3 Rf7+ 44. Ke3 Rf1 45. Kd4 Rd1+ 46.
+Rd3 Re1 47. Re3 Rd1+ 48. Kc3 Rc1+ 49. Kd2 Rb1 50. e5 dxe5 51. Kc2 Rh1 52. Rxe5
+Rh3 53. Re2 Kc8 54. Rd2 Kd7 55. Rd3 Rh2+ 56. Kc3 Rh1 57. Rg3 Rd1 58. Rg7+ Kd6
+59. Rg6+ Kd7 60. Rc6 Rc1+ 61. Kb2 Rd1 62. Kc2 Rd4 63. b4 axb4 64. Kb3 Rd1 65.
+Kxb4 Rb1+ 66. Kc3 Ra1 67. Kb3 Rb1+ 68. Ka2 Rb4 69. Ka3 Rb1 1/2-1/2
+
+[Event "XXV Super GM"]
+[Site "Morelia/Linares MEX/ESP"]
+[Date "2008.03.07"]
+[Round "14"]
+[White "Anand, Viswanathan"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[ECO "B92"]
+[WhiteElo "2799"]
+[BlackElo "2780"]
+[PlyCount "45"]
+[EventDate "2008.??.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Bg5
+Be6 9. Bxf6 Bxf6 10. Qd3 Nc6 11. O-O-O Qb6 12. Qxd6 Be7 13. Nd5 Bxd5 14. Qxd5
+O-O 15. Qd2 Qxf2 16. Bc4 Qh4 17. Qe2 Rac8 18. a3 Bf6 19. Kb1 Nd4 20. Nxd4 exd4
+21. g3 Qg5 22. Rhf1 Qe3 23. Rf3 1/2-1/2
+

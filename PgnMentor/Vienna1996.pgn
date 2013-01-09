@@ -1,0 +1,809 @@
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Kramnik, Vladimir"]
+[Black "Shirov, Alexei"]
+[Result "0-1"]
+[WhiteElo "2765"]
+[BlackElo "2685"]
+[ECO "D15"]
+
+1.Nf3 d5 2.d4 c6 3.c4 Nf6 4.Nc3 a6 5.c5 Bf5 6.Qb3 Ra7 7.Bf4 Nbd7 8.h3 h6
+9.e3 g5 10.Bh2 Bg7 11.Ne5 O-O 12.f3 Nxe5 13.Bxe5 Nd7 14.Bxg7 Kxg7 15.e4 dxe4
+16.fxe4 Bg6 17.O-O-O e5 18.Qc4 Qf6 19.dxe5 Nxe5 20.Qd4 Raa8 21.Qe3 Rad8 22.Be2 Qe7
+23.Rhe1 Nd7 24.Qd4+ Nf6 25.Qe3 Qe5 26.Bf3 h5 27.a3 Rfe8 28.Rxd8 Rxd8 29.Bd1 Rd4
+30.Bc2 Rc4 31.Kb1 Rxc5 32.Qd2 Rc4 33.Qd8 Nxe4 34.Bxe4 Bxe4+ 35.Nxe4 Rxe4  0-1
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Kortschnoj, Viktor"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[WhiteElo "2635"]
+[BlackElo "2750"]
+[ECO "B50"]
+
+1.Nf3 d6 2.c4 Bg4 3.e4 c5 4.Nc3 Bxf3 5.Qxf3 Nc6 6.d3 g6 7.g3 Bg7 8.Bg2 e6
+9.O-O Nge7 10.Be3 O-O 11.Qe2 Rb8 12.Qd2 Nd4 13.Kh1 Nec6 14.f4 f5 15.Rae1 Qa5
+16.Bg1 Kh8 17.h3 a6 18.g4 Rbe8 19.Bh2 Qd8 20.exf5 gxf5 21.gxf5 Nxf5 22.Ne4 Ncd4
+23.Qd1 Nh4 24.Rg1 Ndf5 25.Ng5 Bd4 26.Nxh7 Kxh7 27.Qh5+ Kg8 28.Be4+ Bg7 29.Rxg7+ Kxg7
+30.Rg1+ Kf6 31.Bg3 Ng6 32.Be1 Ke7 33.Rxg6 Kd7 34.Qg4 Kc8 35.Rxe6 Rxe6 36.Bxf5 Rxf5
+37.Qxf5 Qd7  0-1
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Karpov, Anatoly"]
+[Black "Ehlvest, Jaan"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2660"]
+[ECO "D36"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 O-O 6.e3 Nbd7 7.cxd5 exd5 8.Bd3 c6
+9.Qc2 Re8 10.O-O Nf8 11.h3 g6 12.Bxf6 Bxf6 13.b4 a6 14.a4 Be6 15.b5 axb5
+16.axb5 Nd7 17.bxc6 bxc6 18.Ne2 c5 19.Bb5 Bf5 20.Qd2 Qc7 21.Rxa8 Rxa8 22.Bxd7 Bxd7
+23.Nf4 Be6 24.dxc5 Qxc5 25.Rd1 Ra1 26.Rxa1 Bxa1 27.Qa2 Bf6 28.Qa8+ Kg7 29.Qb7 Qd6
+30.h4 h6 31.g3 Bg4 32.Nh2 Be6 33.Nf3 Bg4 34.Nd4 Bxd4 35.exd4 Be6 36.Kg2 g5
+37.hxg5 hxg5 38.Nd3 Qd7 39.Qxd7 Bxd7 40.Kf3 Kf6 41.Nb4 Be6 42.Nc2 Ke7 43.Ke3 Kd6
+44.Nb4 Kc7 45.f4 gxf4+ 46.Kxf4 f6 47.Ke3 Kd6 48.Nd3 Bf5 49.Nf4 Be4 50.Kd2 Ke7
+51.Ke3 Kd6 52.Ke2 Kd7 53.Kd2 Ke7  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Gelfand, Boris"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2630"]
+[ECO "A35"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 Nc6 4.g3 d5 5.d4 cxd4 6.Nxd4 dxc4 7.Nxc6 Qxd1+ 8.Nxd1 bxc6
+9.Bg2 Nd5 10.Ne3 e6 11.Nxc4 Ba6 12.b3 Bb4+ 13.Bd2 Bxd2+ 14.Nxd2 Nb4 15.Kd1 Ke7
+16.a3 Nd5 17.Rc1 Rac8 18.Ne4 c5 19.Nxc5 Rhd8 20.Ke1 Nb6 21.f4 Nd7 22.b4 Nxc5
+23.bxc5 Rc7 24.c6 Bb5 25.Rc5 a6 26.Kf2 Rdc8 27.Rb1 Bxc6 28.Bxc6 Rxc6 29.Rb7+ Kf8
+30.Ra5 Rd6 31.Ra7 Rcc6 32.h4 h6 33.Ra8+ Ke7 34.Ra7+ Kf8 35.a4 g6 36.h5 Kg7
+37.hxg6 Kxg6 38.g4 Rb6 39.Ra8 Kg7 40.Ra7 Kg6 41.e3 Rdc6 42.Kf3 Kg7 43.Ra8 Rd6
+44.Rc5 Rbc6 45.Rxc6 Rxc6 46.a5 Kg6 47.Ra7 Kf6 48.Ke2 Rd6 49.Ra8 Kg6 50.e4 h5
+51.gxh5+ Kxh5 52.Ke3 Rc6 53.Ra7 f5 54.e5 Rc3+ 55.Kd4 Ra3 56.Rxa6 Kg4 57.Kc5 Kxf4
+58.Kd6 Rd3+ 59.Kxe6 Re3  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Polgar, Judit"]
+[Black "Jussupow, Artur"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2665"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nd7 6.Nxd7 Bxd7 7.O-O Be7 8.c4 Nf6
+9.Nc3 Be6 10.c5 Qd7 11.Bf4 O-O 12.Re1 Rfe8 13.h3 c6 14.b4 Bf5 15.Re5 Bg6
+16.Qf3 Bd8 17.Rxe8+ Nxe8 18.Rd1 Nc7 19.Be5 Ne6 20.Bxg6 hxg6 21.a4 Bc7 22.Bxc7 Nxc7  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Topalov, Veselin"]
+[Black "Polgar, Judit"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2665"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.g3 a6 7.Bg2 Nf6 8.O-O d6
+9.Re1 Rb8 10.Nxc6 bxc6 11.e5 dxe5 12.Rxe5 Qxe5 13.Bf4 Qc5 14.Bxb8 Be7 15.Bf4 O-O
+16.Na4 Qb5 17.b3 e5 18.c4 Qb8 19.Be3 e4 20.Bf4 Qa7 21.Qc2 Bf5 22.h3 h5 23.Rd1 Re8
+24.Qe2 Qb7 25.Kh2 Qc8 26.Bd6 h4 27.Bxe7 Rxe7 28.Nb6 Qc7 29.Qe3 hxg3+ 30.fxg3 Bg4
+31.Rd2 Bf3 32.c5 Bxg2 33.Kxg2 Qe5 34.b4 Qa1 35.a3 Re5 36.g4 Kh7 37.Rf2 Qd1
+38.Rf1 Qc2+ 39.Rf2 Qd1 40.Rf1 Qc2+ 41.Rf2  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Shirov, Alexei"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2665"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Nbd7
+9.Qd2 b5 10.a4 b4 11.Nd5 Bxd5 12.exd5 Nb6 13.Bxb6 Qxb6 14.a5 Qb7 15.Bc4 Be7
+16.Ra4 Rb8 17.Nc1 Bd8 18.Nd3 Bxa5 19.Rxa5 Qc7 20.Rxa6 Qxc4 21.Rxd6 O-O 22.O-O Nxd5
+23.Re1 f6 24.Re4 Qb5 25.h3 Rb6 26.Rxb6 Qxb6+ 27.Kh2 Rd8 28.Nxb4 Nf4 29.Qe1 Qd6
+30.Nd3 Nxd3 31.cxd3 Qxd3 32.f4 Re8 33.fxe5 fxe5 34.b4 h6 35.Qh4 Qd6 36.Qg3 Qd5
+37.Qg6 Re7 38.Qf5 Qc6 39.h4 h5 40.Qf3 g6 41.Qe2 Qd6 42.b5 Kh7 43.Qc4 Re6
+44.Qb4 Qb8 45.Qc5 Rb6 46.Qe7+ Kh6 47.Rc4 Rb7 48.Qg5+ Kh7 49.Rc6 e4+ 50.Kg1 Qe8
+51.Qf6 Qf7 52.Qxf7+ Rxf7 53.Rc3 Rf5  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Karpov, Anatoly"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2765"]
+[ECO "D46"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Bd3 O-O 8.O-O e5
+9.cxd5 cxd5 10.e4 dxe4 11.Nxe4 Nxe4 12.Bxe4 h6 13.Be3 exd4 14.Bh7+ Kh8 15.Bxd4 Nf6
+16.Bf5 Bxf5 17.Qxf5 Qc8 18.Qb5 a6 19.Qb6 Qc7 20.Qxc7 Bxc7 21.Bxf6 gxf6 22.Rfe1 Rfe8
+23.Rad1 Rxe1+ 24.Rxe1 Rd8 25.g3 Rd7 26.Re2 Kg7 27.Nh4 Rd5 28.Re7 Rc5 29.Rd7 b5
+30.b4 Rc2 31.Nf5+ Kg6 32.Ne3 Rc1+ 33.Kg2 Be5 34.Ra7 Rc6 35.Nd5 Bd6 36.a3 Kf5
+37.Ne3+ Kg6 38.Kf3 Be5 39.Nd5 Kg7 40.Ne7 Rc3+ 41.Kg4 Rxa3 42.f4 Bc3 43.Kh5 Bxb4
+44.Nf5+ Kg8 45.Ra8+ Kh7 46.Ra7 Kg8 47.Nxh6+ Kf8 48.Rxf7+ Ke8 49.Kg6 Bc3 50.Nf5 b4
+51.Rb7 Ra2 52.h4 a5 53.h5 a4 54.h6 Rh2 55.h7 Kd8 56.Nh4 f5 57.Rxb4 Rh3 58.Rxa4 Rxg3+
+59.Kxf5  1-0
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Leko, Peter"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "2630"]
+[BlackElo "2635"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Nbd7 6.Nxf6+ Nxf6 7.Nf3 c5 8.Bb5+ Bd7
+9.Bxd7+ Qxd7 10.Qe2 Be7 11.O-O-O O-O 12.dxc5 Qa4 13.Kb1 Bxc5 14.Bxf6 gxf6
+15.Ne1 Rfd8 16.Nd3 Bf8 17.f4 Rd5 18.Rhf1 Rad8 19.Rf3 f5 20.h3 Bg7 21.g4 Qb5
+22.Rc1 Qc4 23.gxf5 Ra5 24.a3 Rxa3  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "2"]
+[White "Ehlvest, Jaan"]
+[Black "Jussupow, Artur"]
+[Result "1-0"]
+[WhiteElo "2660"]
+[BlackElo "2665"]
+[ECO "D37"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Be7 5.Qc2 dxc4 6.e4 Nc6 7.e5 Nb4 8.Qb1 Nfd5
+9.Bxc4 Nb6 10.Be2 Bd7 11.O-O Bc6 12.a3 N4d5 13.Ne4 a6 14.Re1 h6 15.Bd2 Qd7
+16.Qc2 Bb5 17.Bd1 Bc6 18.Rc1 Rd8 19.Qb1 Kf8 20.h4 g6 21.h5 Kg7 22.Nh2 Bb5
+23.Ng4 g5 24.Bb3 Rdf8 25.Nef6 Qd8 26.Bxd5 Nxd5 27.Nxd5 exd5 28.Bb4 Bxb4 29.axb4 Re8
+30.e6 Qd6 31.Qf5 Rxe6 32.Rxe6 Qxe6 33.Qxe6 fxe6 34.Rxc7+ Kf8 35.Nf6  1-0
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Polgar, Judit"]
+[Black "Leko, Peter"]
+[Result "1-0"]
+[WhiteElo "2665"]
+[BlackElo "2630"]
+[ECO "B17"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ngf6 6.Ng5 e6 7.Qe2 Nb6 8.Bb3 h6
+9.N5f3 c5 10.Bf4 Nbd5 11.Be5 Qa5+ 12.Nd2 b5 13.dxc5 Bxc5 14.a4 Bb7 15.Qxb5+ Qxb5
+16.axb5 Bxf2+ 17.Kxf2 Ng4+ 18.Ke2 Nxe5 19.Bxd5 Bxd5 20.Ngf3 Nc4 21.b3 Nxd2
+22.Kxd2 Bb7 23.Ra5 a6 24.bxa6 Bxa6 25.Rha1 Rd8+ 26.Ke3 Bc8 27.Ne5 O-O 28.Ra7 Rd5
+29.Nc6 Kh7 30.c4 Rc5 31.Rc7 Bd7 32.Rxd7 Rxc6 33.Raa7 Kg6 34.Kd4 e5+ 35.Kxe5 Re6+
+36.Kf4 Re2 37.Kf3 Rc2 38.Rd6+ Kh7 39.Rd3 Re8 40.Re3 Rxe3+ 41.Kxe3 Rc3+ 42.Kd4 Rxb3
+43.Ra2 Kg6 44.c5 Kf5 45.c6 Ke6 46.Rc2 Rb8 47.Kc5 Rb1 48.Re2+ Kf5 49.c7 Rc1+
+50.Kd6 Rd1+ 51.Ke7 Rc1 52.Kd7 Rd1+ 53.Ke8  1-0
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Kramnik, Vladimir"]
+[Black "Ehlvest, Jaan"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2660"]
+[ECO "A17"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3 6.Qxc3 c5 7.b4 b6 8.g3 Nc6
+9.Bg2 Bb7 10.O-O d6 11.Bb2 e5 12.e3 Rc8 13.d3 Re8 14.b5 Ne7 15.Nxe5 Bxg2
+16.Ng4 Ned5 17.Nxf6+ gxf6 18.cxd5 Bxd5 19.Rfe1 Re6 20.f4 Kg7 21.f5 Re8 22.Qd2 Bb7
+23.e4 h6 24.Qf4 d5 25.Qg4+ Kh7 26.Qh4 Kg7 27.exd5 Kh7 28.Re4 Bxd5 29.Bxf6  1-0
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Kortschnoj, Viktor"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2685"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.Ne5 Nbd7 6.Bf4 dxc4 7.Nxc4 b5 8.Ne5 Bb7
+9.e4 e6 10.f3 c5 11.Nxd7 Qxd7 12.dxc5 Bxc5 13.Qxd7+ Nxd7 14.O-O-O Ke7 15.Kb1 Rhd8
+16.Bd3 f6 17.e5 Nxe5 18.Bxe5 fxe5 19.Bxh7 Rxd1+ 20.Rxd1 Rh8 21.Be4 b4 22.Bxb7  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Jussupow, Artur"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2750"]
+[ECO "A58"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 g6 6.Nc3 Bxa6 7.g3 d6 8.Nh3 Bg7
+9.Nf4 Nbd7 10.h4 h5 11.Bh3 O-O 12.Qc2 Ne5 13.O-O Qb6 14.Rb1 Bc8 15.Bxc8 Rfxc8
+16.b3 Nfg4 17.Kg2 c4 18.Ne4 Qa7 19.a3 cxb3 20.Qxb3 Nc4 21.Ng5 Nxa3 22.Qxa3 Qxa3
+23.Bxa3 Rxa3  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "3"]
+[White "Gelfand, Boris"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[WhiteElo "2665"]
+[BlackElo "2775"]
+[ECO "E17"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 Bb7 4.Bg2 e6 5.O-O Be7 6.Nc3 O-O 7.Re1 d5 8.cxd5 exd5
+9.d4 Na6 10.Bf4 c5 11.dxc5 Nxc5 12.Rc1 a6 13.a3 Re8 14.Nd4 Bd6 15.Bxd6 Qxd6
+16.Qd2 Rad8 17.Red1 g6 18.Qf4 Qxf4 19.gxf4 Kf8 20.e3 Rd6 21.b4 Ne6 22.Nce2 Re7
+23.a4 Nd8 24.a5 Bc6 25.Nc3 Be8 26.Bf1 bxa5 27.bxa5 Rb7 28.Ra1 Rc7 29.Na2 Rb7
+30.f3 Ne6 31.Rdb1 Re7 32.Nb4 Nc5 33.Rc1 Rb7 34.Rab1 Nfd7 35.Nbc6 Rc7 36.Ne5 Ke7
+37.Rc3 f6 38.Nxd7 Kxd7 39.Rb8 Ne6 40.Rxc7+ Nxc7 41.Kf2 Ke7 42.f5 g5 43.Ke1 Bb5
+44.Bxb5 Nxb5 45.Nxb5 axb5 46.Rxb5 Rc6 47.Rxd5 Rc3 48.Kd2 Ra3 49.Kc2 Rxe3
+50.Kb2 Re2+ 51.Kb3 Rxh2 52.a6 Rh1 53.Kb4 Ra1 54.Ra5 Rb1+ 55.Kc5 Rb8 56.a7 Ra8
+57.Kc6 h5 58.Kb7 Rxa7+ 59.Kxa7 Kd6 60.Kb6 h4 61.Rc5 h3 62.Rc2 Ke5 63.Rh2 Kxf5
+64.Rxh3 Kf4 65.Kc5 f5 66.Kd4 g4 67.fxg4 fxg4 68.Rh8 Kf3 69.Kd3  1-0
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Ehlvest, Jaan"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[WhiteElo "2660"]
+[BlackElo "2750"]
+[ECO "E92"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.Be2 e5 7.Be3 c6 8.d5 Na6 9.a3 Nh5
+10.g3 cxd5 11.Nxd5 Nf6 12.Nxf6+ Qxf6 13.b4 Qe7 14.O-O b6 15.Qa4 Nc7 16.Qc6 Ba6
+17.Rfd1 Rfd8 18.Rac1 Ne6 19.Qa4 Bb7 20.Qc2 Rf8 21.Nh4 Nd4 22.Bxd4 exd4 23.Bd3 Rae8
+24.Kf1 Qd7 25.Re1 f5 26.exf5 g5 27.Ng2 Qc6 28.f3 Qxf3+ 29.Kg1 Re3 30.Rxe3 dxe3
+31.Rf1 Qg4 32.f6 Rxf6 33.Rxf6 Bxf6 34.Bxh7+ Kh8 35.Bd3 Bd4 36.Qe2 Bf3  0-1
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Karpov, Anatoly"]
+[Black "Kortschnoj, Viktor"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2635"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.Bg5 Be7 7.Qa4+ c6 8.cxd5 Nxd5
+9.Bxe7 Qxe7 10.Nxd5 exd5 11.e3 O-O 12.Rc1 c5 13.dxc5 bxc5 14.Qh4 f6 15.Bd3 g6
+16.O-O Nd7 17.Rfe1 c4 18.Bc2 Nc5 19.Qd4 Rfd8 20.Rb1 Ne6 21.Qc3 Rac8 22.Nd4 Rd6
+23.Nxe6 Rxe6 24.Red1 Rb6 25.Rd4 f5 26.Rbd1 Qf6 27.h4 f4 28.Rxf4 Qxc3 29.bxc3 Rb8
+30.h5 Rb2 31.Rc1 gxh5 32.Rf5 Bc6 33.Rg5+ Kh8 34.Rxh5 R8b7 35.Rh6 Be8 36.Bf5 R2b3
+37.Rd1 Rxc3 38.Rxd5 Kg8 39.Rd8 Kf8 40.Rc8 Rc1+ 41.Kh2 c3 42.Rhc6  1-0
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Leko, Peter"]
+[Black "Jussupow, Artur"]
+[Result "1-0"]
+[WhiteElo "2630"]
+[BlackElo "2665"]
+[ECO "C74"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 f5 6.exf5 Bxf5 7.O-O Bd3 8.Re1 Be7
+9.Bc2 Bxc2 10.Qxc2 Nf6 11.d4 e4 12.Ng5 d5 13.f3 h6 14.Nh3 O-O 15.Nd2 exf3
+16.Nxf3 Qd7 17.Qg6 Qg4 18.Qxg4 Nxg4 19.Nf4 Rfd8 20.Ne6 Rd7 21.Bf4 Rc8 22.Re2 b6
+23.Rae1 Nf6 24.Be5 Kf7 25.Nf4 Bd6 26.g3 Rg8 27.Kg2 g5 28.Nd3 Re7 29.Rf2 Re6
+30.c4 dxc4 31.d5 Rxe5 32.Nfxe5+ Nxe5 33.Nxe5+ Kg7 34.Nxc4 Bc5 35.Rf5 Rd8
+36.Rd1 b5 37.Ne5 Nxd5 38.Kf3 Bb6 39.Nc4 bxc4 40.Rdxd5 Re8 41.Rde5 Rd8 42.Rd5 Re8
+43.Rde5 Rd8 44.Re2 Kg6 45.g4 Rd3+ 46.Kg2 c3 47.bxc3 Rxc3 48.Re6+ Kg7 49.Re7+ Kg6
+50.Rfe5 Bd4 51.R5e6+ Bf6 52.Rxa6 Rc2+ 53.Kf3 Rxa2 54.Ree6 Rxa6 55.Rxa6 Kg7
+56.Ke4 Be7 57.Kf5 Bd6 58.h3 Kf7 59.Ra8 Bb4 60.Rb8 Ba3 61.Rc8 Bd6 62.Rd8 Ke7
+63.Rh8 Bg3 64.Rh7+ Kd6 65.Rxh6+ Kd5 66.Kxg5 c5 67.Rh8 c4 68.Rd8+ Ke4 69.Rc8 Kd3
+70.Kf5 c3 71.g5 Bf2 72.h4 c2 73.g6 Bd4 74.Rxc2 Kxc2 75.h5  1-0
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Shirov, Alexei"]
+[Black "Polgar, Judit"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2665"]
+[ECO "B52"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 Nc6 6.Nc3 g6 7.d4 cxd4 8.Nxd4 Bg7
+9.Nde2 Nf6 10.O-O O-O 11.f3 a6 12.a4 e6 13.Bg5 Qc7 14.b3 Nd7 15.Kh1 Qa5 16.Qd2 Nc5
+17.Rab1 Qb4 18.Qc2 Qa5 19.Bh4 Nb4 20.Qd1 Ncd3 21.Qd2 Qc5 22.f4 b5 23.f5 exf5
+24.exf5 Rfe8 25.f6 Bf8 26.cxb5 axb5 27.Nxb5 Re4 28.Bg3 Rae8 29.Nf4 Qg5 30.Rbd1 Re3
+31.Nxd3 Nxd3 32.Bxd6 Bh6 33.Be7 Qh5 34.Qxe3 Bxe3 35.Rxd3 Bg5 36.Nc3 h6 37.a5 Qg4
+38.h3 Qe6 39.b4 Qa6 40.Rff3 Rc8 41.Bc5 Re8 42.Bf2 Bc1 43.Rd1 Bb2 44.Nd5 Qc4
+45.Bc5 Re2 46.Nf4 Rc2 47.Nxg6 Rc1 48.Rxc1 Qxc1+ 49.Kh2 Qa1 50.Ne7+ Kh7 51.Nc6 Qa4
+52.Nd4 Bxd4 53.Bxd4 Qxb4 54.Bb6 Qd6+ 55.g3 Kg6 56.h4 h5 57.Rf4 Qd2+ 58.Rf2 Qb4
+59.Kg2 Qe4+ 60.Kh2 Qb4  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "4"]
+[White "Kramnik, Vladimir"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2665"]
+[ECO "E97"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.b4 Nh5 10.Re1 f5 11.Ng5 Nf6 12.Bf3 fxe4 13.Ngxe4 Nf5 14.Bg5 Nd4 15.Nb5 Nxf3+
+16.Qxf3 Bf5 17.Qb3 Bxe4 18.Rxe4 Qd7 19.Bxf6 Rxf6 20.Rae1 Bh6 21.R4e2 Rf4
+22.g3 Rf7 23.Nc3 Rf3 24.c5 Qg4 25.Re4 Qf5 26.Qc2 a5 27.R1e2 axb4 28.Rxb4 Qxc2
+29.Rxc2 Rxc3 30.Rxc3 Bd2 31.Rcc4 Bxb4 32.Rxb4 Ra5 33.cxd6 cxd6 34.Rxb7 Rxd5
+35.Rd7  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Kortschnoj, Viktor"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[WhiteElo "2635"]
+[BlackElo "2765"]
+[ECO "A06"]
+
+1.Nf3 d5 2.b3 c5 3.e3 Nf6 4.Bb2 e6 5.c4 dxc4 6.bxc4 Nc6 7.Be2 Be7 8.O-O O-O
+9.Qc2 b6 10.a3 Bb7 11.Ng5 h6 12.Nh3 Rc8 13.d3 Rc7 14.f4 Ne8 15.f5 Bg5 16.Nxg5 Qxg5
+17.Rf3 Ne7 18.e4 exf5 19.Rg3 Qh4 20.Nc3 fxe4 21.dxe4 Ng6 22.Nd5 Bxd5 23.exd5 Nd6
+24.Rf1 Re8 25.Bd3 Ne5 26.a4 Rce7 27.Rh3 Qg4 28.Rg3 Qh4 29.Rh3 Qg4 30.Rg3 Qd7
+31.Qd2 Ng6 32.Qc3 Ne5 33.Qc1 f6 34.Bxe5 fxe5 35.Qxh6 e4 36.Qh5 Re5 37.Qg6 exd3
+38.Rh3 Rf5 39.Qh7+ Kf8 40.Rxf5+ Nxf5 41.Rf3 Re5 42.g4 d2  0-1
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Jussupow, Artur"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2685"]
+[ECO "D10"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 a6 5.Bd3 b5 6.b3 Bg4 7.Nge2 e6 8.Qc2 Bxe2
+9.Nxe2 Nbd7 10.Bd2 Bd6 11.c5 Bc7 12.f4 g6 13.a4 Ng8 14.O-O Ne7 15.Ra2 O-O
+16.Rfa1 Rc8 17.axb5 axb5 18.Ra7 f6 19.Ba5 Bxa5 20.R1xa5 Rc7 21.Qa2 Nc8 22.Rxc7 Qxc7
+23.Ra8 e5 24.Qa5 Qb7 25.Qa6 Qc7 26.Qa5 Qb7 27.Qa6 Qc7  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Gelfand, Boris"]
+[Black "Ehlvest, Jaan"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2660"]
+[ECO "A17"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3 6.Qxc3 c5 7.b4 b6 8.g3 Nc6
+9.Bg2 Bb7 10.O-O d6 11.d3 h6 12.Bb2 Rc8 13.Rad1 a6 14.e3 Qe7 15.Nd2 Rfd8
+16.Ne4 Ne8 17.bxc5 bxc5 18.Qc2 Nb8 19.f4 d5 20.Nd2 dxc4 21.Nxc4  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Polgar, Judit"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2775"]
+[ECO "D42"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Be7 7.cxd5 Nxd5 8.Bd3 Nc6
+9.O-O O-O 10.Re1 Bf6 11.Be4 Nce7 12.Qb3 b6 13.Bf4 Bb7 14.Be5 Bc6 15.Rac1 Nxc3
+16.Bxc6 Nxc6 17.Rxc3 Bxe5 18.dxe5 Nd4 19.Nxd4  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Topalov, Veselin"]
+[Black "Leko, Peter"]
+[Result "0-1"]
+[WhiteElo "2750"]
+[BlackElo "2630"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 Be6 7.a3 Qd7 8.Bxf6 gxf6
+9.g3 O-O-O 10.Bg2 Bg4 11.f3 Be6 12.c5 Bf5 13.b4 e5 14.Nge2 Qe6 15.dxe5 d4
+16.Ne4 d3 17.Nf4 d2+ 18.Kf2 Qc4 19.Bh3 Bxh3 20.Nxh3 Qd4+ 21.Kg2 Nxe5 22.Qb3 Nc4
+23.Rhd1 f5 24.Neg5 Rd7 25.f4 Bg7 26.Nf2 Qd5+ 27.Nf3 Bxa1 28.Rxa1 Re8  0-1
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Kramnik, Vladimir"]
+[Black "Polgar, Judit"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2665"]
+[ECO "E97"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.b4 Nh5 10.Re1 f5 11.Ng5 Nf6 12.Bf3 Kh8 13.Bb2 a5 14.b5 Rb8 15.Ne6 Bxe6
+16.dxe6 Ne8 17.Qb3 c5 18.exf5 gxf5 19.Bh5 Nc7 20.Bf7 Qc8 21.Nd5 Ncxd5 22.cxd5 f4
+23.Bh5 b6 24.Rad1 Rf5 25.Bf3 Qg8 26.Be4 Rg5 27.Rd3 Bf6 28.Rh3 Ng6 29.Qf3 Rb7
+30.Rh5 Rxh5 31.Qxh5 Rg7 32.g3 Ne7 33.Kh1 Qf8 34.Rg1 Ng8 35.Qf3 Bg5 36.h4 Bf6
+37.Rg2 Qe7 38.Qh5 fxg3 39.fxg3 Qf8 40.Rf2 Qd8 41.g4 Be7 42.g5 c4 43.Rf7 Qe8
+44.Qxh7+  1-0
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Karpov, Anatoly"]
+[Black "Jussupow, Artur"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2665"]
+[ECO "B81"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 h6 7.g5 hxg5 8.Bxg5 Nc6
+9.h4 a6 10.Be2 Qb6 11.Nb3 Bd7 12.Qd2 Qc7 13.O-O-O b5 14.a3 Ne5 15.f4 Nc4
+16.Qd4 Rc8 17.h5  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Gelfand, Boris"]
+[Black "Kortschnoj, Viktor"]
+[Result "1-0"]
+[WhiteElo "2665"]
+[BlackElo "2635"]
+[ECO "E14"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Nbd2 b6 5.a3 Bxd2+ 6.Qxd2 Bb7 7.e3 O-O 8.Be2 a5
+9.b3 d5 10.O-O Nbd7 11.Bb2 c5 12.Rfd1 Qe7 13.Ne5 Rfd8 14.Nxd7 Nxd7 15.Rac1 a4
+16.bxa4 dxc4 17.Bxc4 Ne5 18.Be2 Qg5 19.e4 Qxd2 20.Rxd2 Bxe4 21.Rcd1 Nc6 22.dxc5 Rxd2
+23.Rxd2 bxc5 24.Bb5 Na5 25.Rd7 h5 26.h4 Bd5 27.Rc7 Nc4 28.Bc1 Nd6 29.Rxc5 Nf5
+30.Bd2 Nxh4 31.a5 f6 32.Bf1 Nf5 33.a6 Ra7 34.Ba5 Nd6 35.Bb6 Ra8 36.Rc7 Rc8
+37.Rxc8+ Nxc8 38.Bc5 Kf7 39.a7 Ne7 40.Be2  1-0
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Ehlvest, Jaan"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[WhiteElo "2660"]
+[BlackElo "2630"]
+[ECO "A30"]
+
+1.b3 Nf6 2.Bb2 g6 3.Nf3 Bg7 4.c4 O-O 5.e3 c5 6.Be2 b6 7.O-O Bb7 8.d4 cxd4
+9.exd4 d5 10.Nbd2 Nc6 11.Re1 Rc8 12.Rc1 e6 13.a3 Ne4 14.cxd5 exd5 15.Bd3 Nxd2
+16.Qxd2 Re8 17.b4 Qd6 18.h4 h5 19.g3 Bf6 20.Re3 Re7 21.Rxe7 Nxe7 22.Re1 Rd8
+23.b5 Bc8 24.Bc3 Nf5 25.Bb4 Qc7 26.Bf1 Be6  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Shirov, Alexei"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[WhiteElo "2685"]
+[BlackElo "2750"]
+[ECO "E92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.Be3 c6 8.Qd2 Qe7
+9.d5 cxd5 10.cxd5 Ng4 11.Bg5 f6 12.Bh4 Na6 13.O-O Nh6 14.Ne1 Nf7 15.Bxa6 bxa6
+16.Nc2 Rb8 17.Ne3 a5 18.Rfc1 h5 19.f3 Bh6 20.Ncd1 Ng5 21.Qxa5 f5 22.Qe1 fxe4
+23.fxe4 Rf4 24.Bxg5 Qxg5 25.Rc4 Ba6 26.Rc6 Bd3 27.Rac1 Rbf8 28.Rc8 Bxe4 29.Nf2 Rf7
+30.Rxf8+ Rxf8 31.Rc3 Qf4 32.Qe2 Bb1 33.a3 Qd4 34.g3 a5 35.Qe1 e4 36.Kg2 Bd3
+37.Nfd1 Qf6 38.h4 g5 39.Nf2 Qf3+ 40.Kg1 gxh4  0-1
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Kortschnoj, Viktor"]
+[Black "Ehlvest, Jaan"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2660"]
+[ECO "A13"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ Nbd7 6.Qxc4 c5 7.Qb3 Rb8 8.d3 Bd6
+9.a4 b6 10.Nc3 a6 11.O-O O-O 12.d4 Bb7 13.Rd1 Qe7 14.Qc2 Rfd8 15.e4 cxd4
+16.Nxd4 Be5 17.f3 Nc5 18.Be3 Rbc8 19.Kh1 h6 20.Rac1 Qe8 21.Nde2 Rxd1+ 22.Rxd1 b5
+23.axb5 axb5 24.Qd2 b4 25.Na2 b3 26.Nac3 Na4 27.Bd4 Bxd4 28.Qxd4 Nxb2 29.Rb1 Nc4
+30.Rxb3 e5 31.Qa7 Bc6 32.Rb1 Bd7 33.Rd1 Be6 34.Bf1 Rd8 35.Ng1 Rxd1 36.Nxd1 Qd8
+37.Ne3 Nxe3  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Leko, Peter"]
+[Black "Shirov, Alexei"]
+[Result "1/2-1/2"]
+[WhiteElo "2630"]
+[BlackElo "2685"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Bc4 Nf6 5.Qe2 O-O 6.O-O Bg4 7.e5 dxe5 8.dxe5 Nd5
+9.Nbd2 Nb6 10.Bd3 Nc6 11.h3 Be6 12.Rd1 Nd7 13.Bc4 Nc5 14.Bxe6 Nxe6 15.Nb3 Qc8
+16.Qe4 Rd8 17.Be3 Rxd1+ 18.Rxd1 Qe8 19.c4 Rd8 20.Rd5 Nb4 21.Rb5 Qc6 22.Qxc6 Nxc6
+23.Rxb7 Nxe5 24.Nbd2 a6 25.b4 f5 26.g3 Nd3 27.b5 axb5 28.cxb5 Ra8 29.Ra7 Rxa7
+30.Bxa7 Nb2 31.b6 cxb6 32.Bxb6  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Polgar, Judit"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2665"]
+[ECO "B99"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7
+9.O-O-O Nbd7 10.Bd3 h6 11.Bh4 g5 12.fxg5 Ne5 13.Qe2 Nfg4 14.Nf3 hxg5 15.Bg3 Nxf3
+16.Qxf3 Ne5 17.Bxe5 dxe5 18.Rhf1 Rh7 19.h4 Bd7 20.h5 O-O-O 21.g4 Bb4 22.Ne2 Ba4
+23.Kb1 Kb8 24.Qe3 Be7 25.Ng1 Rc8 26.Rc1 Rg7 27.Nf3 Bc5 28.Qe2 Qb6 29.Nd2 Ba3
+30.Nb3 Be7 31.Rf3 Be8 32.Qh2 Qc7 33.Nd2 Rh7 34.Rcf1 Bb5 35.Bxb5 Qxc2+ 36.Ka1 axb5
+37.Qxe5+ Ka8 38.Rc3 Rxc3 39.Qxc3 Qxc3 40.bxc3 Bd6 41.Nf3 Bf4 42.e5 Ka7 43.Rb1 Ka6
+44.Kb2 Rh8 45.Rd1 Kb6 46.Rd7 Rf8 47.Kc2 Kc6 48.Rd6+ Kc5 49.Rd7 Kc6 50.Rd1 Ra8
+51.Kb3 Kc7 52.Rd4 Kc6 53.Rd6+ Kc7 54.Rd1 Kc6 55.Rd4 Rh8 56.Rb4 Kd5 57.Kc2 Ra8
+58.Rd4+ Kc6 59.Kb2 Rh8 60.a3 Ra8 61.Kb3 Rh8 62.Rb4 Kd5 63.Rd4+ Kc6 64.a4 bxa4+
+65.Rxa4 Kd5 66.Rd4+ Kc6 67.Rd6+ Kc7 68.Rd1 Kc6 69.Kc4 b5+ 70.Kb4 Ra8 71.Rd6+ Kc7
+72.Kxb5 f5 73.gxf5 exf5 74.Rf6 Rh8 75.Rxf5 Rxh5 76.Nd4 Rh3 77.c4 Re3 78.Rf7+ Kd8
+79.e6 Ke8 80.c5 Re4 81.Rd7 Rxe6 82.Ra7 Re1 83.Nf5 Re5 84.Nd6+ Kf8 85.Nc4 Rf5
+86.Kb6 g4 87.Nd6 Rf6 88.Ra8+ Ke7 89.Ra7+ Ke6 90.Ne4 Rg6 91.Kb5 g3  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Topalov, Veselin"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2775"]
+[ECO "A17"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 b6 5.Bg2 Bb7 6.O-O O-O 7.d3 d5 8.cxd5 Nxd5
+9.Qc2 Be7 10.Rd1 Nxc3 11.bxc3 c5 12.d4 Qc8 13.dxc5 bxc5 14.Rb1 Bc6 15.Bg5 f6
+16.Bf4 Nd7 17.Bd6 Rf7 18.Bxe7 Rxe7 19.Rd6 Nf8 20.Rxc6 Qxc6 21.Nd2 Qe8 22.Bxa8 Qxa8
+23.Qe4 Qd5 24.Qxd5 exd5 25.Kf1 Kf7 26.Rb5 Rc7 27.a4  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "7"]
+[White "Jussupow, Artur"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2765"]
+[ECO "D36"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.Bg5 Nbd7 6.cxd5 exd5 7.e3 Be7 8.Qc2 O-O
+9.Bd3 Re8 10.O-O Nf8 11.Rae1 Ne4 12.Bxe7 Qxe7 13.Bxe4 dxe4 14.Nd2 f5 15.f3 exf3
+16.Nxf3 Be6 17.e4 fxe4 18.Rxe4 h6 19.Rfe1 Rad8 20.h3 Qd6 21.R1e3 Bf7 22.Rxe8 Rxe8
+23.Rxe8 Bxe8 24.Qb3+ Kh7 25.Qxb7 Bh5 26.Ne4 Qf4 27.Qxc6 Bxf3 28.gxf3 Ng6
+29.Nf2 Qxd4 30.Qc2 Qd5 31.f4 Qf3 32.f5 Nf4 33.f6+ Kg8 34.Qc4+ Kh7 35.Qc2+ Kg8
+36.Qc4+ Kh7  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Kramnik, Vladimir"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteElo "2765"]
+[BlackElo "2750"]
+[ECO "A24"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Nc3 O-O 5.Bg2 d6 6.O-O e5 7.d3 h6 8.Rb1 a5 9.a3 Re8
+10.b4 axb4 11.axb4 e4 12.Ne1 Bf5 13.Nc2 exd3 14.exd3 Qc8 15.Ne3 Be6 16.Bb2 Nc6
+17.Ncd5 Bxd5 18.cxd5 Na7 19.Ra1 Nb5 20.Ra5 b6 21.Rxa8 Qxa8 22.Qc2 Re7 23.d4 Na7
+24.Ra1 b5 25.Qc6 Qb8 26.Qa6 Nc8 27.Qa8 Qxa8 28.Rxa8 Re8 29.Bf1 Nb6 30.Rxe8+ Nxe8
+31.Bxb5 Nf6 32.Bc6 h5 33.Kf1 Ng4 34.h3 Nxe3+ 35.fxe3 f5 36.Ke2 Bh6 37.Kd3 Kf7
+38.Bc3 Bg5 39.Be1 Kf6 40.Bf2 Kf7 41.Be1 Ke7 42.e4 fxe4+ 43.Kxe4 Nd7 44.Kd3 Nb6
+45.Bb7 Bh6 46.Ke4 Nd7 47.Bc6 Bg5 48.Kf3 Nb6 49.Bc3 h4 50.gxh4 Bxh4 51.Kf4 Kf6
+52.Ke4 Bg5 53.Bb5 Bc1 54.Be1 Ke7 55.Bh4+ g5 56.Be1 Kf6 57.Be2 Kg6 58.Bg4 Kf6
+59.Bf3 Kg6 60.Kd3 Bf4 61.Ke4 Bc1 62.Bg4 Kf6 63.Be6 Kg6 64.Kd3 Kf6 65.b5 Bf4
+66.Kc3 Be3 67.Kd3 Bc1 68.Kc2 Bf4 69.Kb3 Ke7 70.Kb4 Ke8 71.Kb3 Be3 72.Kc3 Ke7
+73.Kd3 Bc1 74.Ba5 Kf6 75.Ke4 Kg6 76.Kf3 Bb2 77.Kg4 Bc1 78.Bf5+ Kf6 79.Be4 Be3  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Gelfand, Boris"]
+[Black "Jussupow, Artur"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2665"]
+[ECO "E34"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 Qxd5 6.Nf3 Qf5 7.Qxf5 exf5 8.a3 Bd6
+9.g3 Be6 10.Bg2 Nbd7 11.Ng5 c6 12.Nxe6 fxe6 13.O-O Nb6 14.Rd1  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Karpov, Anatoly"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[WhiteElo "2775"]
+[BlackElo "2630"]
+[ECO "D97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 a6 8.e5 Nfd7
+9.Be3 Nb6 10.Qd3 Nc6 11.Be2 Nb4 12.Qd2 c5 13.O-O cxd4 14.Bxd4 Nc6 15.Qe3 Nxd4
+16.Nxd4 Nd5 17.Nxd5 Qxd5 18.f4 Qc5 19.Rac1 Qb6 20.Nf5 Qxe3+ 21.Nxe3 f6 22.Nd5 fxe5
+23.Nxe7+ Kh8 24.Nxc8 Raxc8  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Kortschnoj, Viktor"]
+[Black "Polgar, Judit"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2665"]
+[ECO "E98"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Ne1 Ne8 10.Be3 f5 11.f3 f4 12.Bf2 h5 13.c5 g5 14.cxd6 cxd6 15.Kh1 Ng6 16.Rc1 Bd7
+17.a4 Bh6 18.Nd3 g4 19.fxg4 f3 20.gxf3 Bxc1 21.Qxc1 hxg4 22.Qh6 Qf6 23.fxg4 Qg7
+24.Qxg7+ Kxg7 25.Kg2 Rh8 26.Be3 Nf6 27.h3 a6 28.Kg3 Rac8 29.Nf2 Rcf8 30.Rh1 Nf4
+31.Bd1 Rh6 32.h4 Rg6 33.g5 N6h5+ 34.Kh2 Rh8 35.Bg4 Bxg4 36.Nxg4 Kf7 37.Rg1 Rg7
+38.Nh6+ Kg6 39.Rf1 Rc8 40.Nf5 Rd7 41.Ng3 b5 42.axb5 axb5 43.Bxf4 Nxf4 44.Nf5 Rc5
+45.Kg3 b4 46.Nd1 Rc2 47.Kg4 Rg2+ 48.Kf3 Rd2 49.Kg4 Nh5 50.Nde3 Rxb2 51.Nc4 Rg2+
+52.Kf3 Rc2 53.Nfxd6 Rc3+ 54.Kg2 Kh7 55.Ra1 Nf4+ 56.Kf2 Rc7 57.Ne3 Ra3 58.Rb1 Rc1
+59.Rxc1 Nd3+ 60.Kf3 Nxc1 61.Nc4 Rc3 62.d6 Nb3 63.d7 Nd4+ 64.Kg4 Nc6 65.Kf5 b3
+66.Kf6 Rxe3 67.Nxe3 b2 68.g6+ Kh8 69.g7+ Kh7 70.Nf5 b1=Q 71.g8=Q+ Kxg8 72.Ne7+ Kh7
+73.Nxc6 Qxe4  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "8"]
+[White "Ehlvest, Jaan"]
+[Black "Shirov, Alexei"]
+[Result "0-1"]
+[WhiteElo "2660"]
+[BlackElo "2685"]
+[ECO "D15"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 c6 4.Nc3 a6 5.a4 e6 6.Bg5 Nbd7 7.cxd5 cxd5 8.e3 Be7
+9.Bd3 b6 10.O-O Bb7 11.Qc2 O-O 12.Rfc1 h6 13.Bf4 Nh5 14.Be5 f6 15.Bg3 Nxg3
+16.hxg3 f5 17.Ne2 Bd6 18.Nf4 Qf6 19.Be2 g5 20.Nd3 g4 21.Nh4 Rfc8 22.Qd1 a5
+23.Rxc8+ Rxc8 24.Rc1 Rxc1 25.Qxc1 Kf7 26.b3 Qd8 27.Nf4 Qc8 28.Qxc8 Bxc8 29.Nhg6 Nb8
+30.f3 Ba6 31.Kf2 Bxe2 32.Kxe2 Nc6 33.Kd3 Nb4+ 34.Kd2 Kf6 35.Ke2 Nc6 36.Kd3 Nd8
+37.fxg4 fxg4 38.e4 dxe4+ 39.Kxe4 Nf7 40.Nh4 Bxf4 41.Kxf4 h5 42.Ke4 Nd6+ 43.Kd3 Kg5
+44.Ke3 b5 45.axb5 Nxb5 46.Kd3 Kf6 47.Kc4 Nd6+ 48.Kd3 Kf7 49.Ke3 Kg7 50.Kd3 Kf6
+51.Ke3 Nf5+ 52.Nxf5 exf5 53.Kf4 Ke6 54.Ke3 Kd5 55.Kd3 f4 56.gxf4 h4 57.Ke3 h3
+58.gxh3 gxh3 59.Kf3 Kxd4 60.Kg3 Ke4  0-1
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Topalov, Veselin"]
+[Black "Gelfand, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2665"]
+[ECO "D37"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.d4 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.a3 Nc6
+9.Be2 dxc4 10.Bxc4 Nh5 11.Qxd8 Rxd8 12.Bc7 Rd7 13.Be5 Nxe5 14.Nxe5 Rd8 15.O-O Nf6
+16.Rfd1 Bd7 17.Nxd7 Rxd7 18.Rxd7 Nxd7 19.Rd1 Nf6 20.Kf1  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Jussupow, Artur"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "2665"]
+[BlackElo "2635"]
+[ECO "E43"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Bd3 Bb7 6.Nf3 O-O 7.O-O c5 8.Na4 cxd4
+9.exd4 Re8 10.a3 Bf8 11.b4 d6 12.Re1 Nbd7 13.Bb2 Rc8 14.Nc3 e5 15.dxe5 dxe5
+16.Ne4 Bxe4 17.Bxe4 Qc7 18.Rc1 Nxe4 19.Rxe4 Qc6 20.Re3 f6 21.Rd3 Nb8 22.Rd5 Qe6
+23.h3 Nc6 24.Qa4 a5 25.Rb5 e4 26.Nd4 Nxd4 27.Bxd4 Rxc4 28.Rxc4 Qxc4 29.Be3 Re6
+30.Rxb6 Rxb6 31.Bxb6 axb4 32.axb4 h6 33.Be3 Kh7 34.g4 Be7 35.Qa5 Bxb4 36.Qa4 Qc3
+37.Qb5 Bf8  1/2-1/2
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Polgar, Judit"]
+[Black "Ehlvest, Jaan"]
+[Result "1-0"]
+[WhiteElo "2665"]
+[BlackElo "2660"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bd3 Ngf6 6.Qe2 c5 7.Nxf6+ Nxf6 8.dxc5 Bxc5
+9.Bg5 Qa5+ 10.Bd2 Qc7 11.O-O-O O-O 12.Nf3 b6 13.Ne5 Bb7 14.f4 Rfd8 15.Rhf1 Rac8
+16.Kb1 Bd4 17.Nf3 Ba6 18.Nxd4 Rxd4 19.Bxa6 Qxc2+ 20.Ka1 Rcd8 21.Bc1 Qxd1
+22.Rxd1 Rxd1 23.Kb1 Rh1 24.Qc2 Nd5 25.a3 Ne3 26.Qe2 Nf5 27.g4 Nd4 28.Qc4 h5
+29.Qc7 Rf8 30.Qc3 Rd8 31.gxh5 Nf5 32.Bd3 Ne3 33.Be2 Nd5 34.Qf3 Rxh2 35.f5 e5
+36.h6 Nf4 37.Bxf4 exf4 38.hxg7  1-0
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Shirov, Alexei"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[WhiteElo "2685"]
+[BlackElo "2775"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Ne7 6.O-O c5 7.c4 Nbc6 8.Nc3 dxc4
+9.dxc5 Nd5 10.Nd4 Nxc3 11.bxc3 Bxc5 12.Nxf5 exf5 13.Bxc4 Bxf2+ 14.Kh1 Qxd1
+15.Rxd1 Nxe5 16.Bb5+ Nc6 17.Ba3 f6 18.Rab1 Kf7 19.Rd7+ Kg6 20.Rf1 Be3 21.Bd3 Ne5
+22.Bxf5+ Kh6 23.Rxb7 Rab8 24.Rc7 g6 25.Bc2 f5 26.Bd6 Rbe8 27.Re1 f4 28.c4 g5
+29.h3 Ng6 30.c5 Bf2 31.Rf1 Re2 32.Bxg6 Kxg6 33.Rxa7 Rhe8 34.Re7 R8xe7 35.Bxe7 Rxa2
+36.c6 Rc2 37.Rd1 h6 38.Ba3 Be3 39.Rd7 h5 40.Rd1 g4  0-1
+
+[Event "Vienna Millenium"]
+[Site "Vienna"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Leko, Peter"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2630"]
+[BlackElo "2765"]
+[ECO "B66"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O h6
+9.Be3 Be7 10.f3 Nxd4 11.Bxd4 e5 12.Bf2 Be6 13.Bh4 Qa5 14.Bxf6 Bxf6 15.Kb1 Rc8
+16.Nd5 Qxd2 17.Rxd2 Bg5  1/2-1/2

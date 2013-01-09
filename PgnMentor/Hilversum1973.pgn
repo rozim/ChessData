@@ -1,0 +1,958 @@
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "1"]
+[White "Sax, Gyula"]
+[Black "Polugaevsky, Lev"]
+[Result "1-0"]
+[WhiteElo "2445"]
+[BlackElo "2645"]
+[ECO "B93"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 Qc7 7.Bd3 g6 8.O-O Bg7
+9.Nf3 Nbd7 10.Qe1 Nc5 11.Kh1 b5 12.e5 dxe5 13.fxe5 Nfd7 14.Bf4 Bb7 15.Ng5 Qc6
+16.Rf3 h6 17.Nge4 Nxd3 18.cxd3 Nxe5 19.Bxe5 Bxe5 20.Rc1 Qb6 21.a4 Rc8 22.axb5 axb5
+23.Rd1 b4 24.Na4 Qd4 25.Re3 O-O 26.Nec5 Bf4 27.Rxe7 Bd5 28.Ne4 Bb3 29.Rd7 Qe5
+30.d4 Qg7 31.Nac5 Bxd1 32.Qxd1 Rcd8 33.g3 Be3 34.Ne6 fxe6 35.Rxg7+ Kxg7 36.Nc5 Rde8
+37.Qb3 Rf1+ 38.Kg2 Re1 39.Nxe6+ Kh7 40.d5 Bg5 41.Qxb4 Re2+ 42.Kh3 Re5 43.Qd6 Bf6
+44.b4 Kg8 45.b5 h5 46.Nc5 Rf5 47.Nd7 Kf7 48.Qc7 Bd8 49.Qc4 g5 50.Qd3 g4+
+51.Kg2 Kg6 52.b6 Kg5 53.d6 Rf3 54.Qd2+ Kg6 55.b7  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "1"]
+[White "Szabo, Laszlo"]
+[Black "Geller, Efim P"]
+[Result "1-0"]
+[WhiteElo "2555"]
+[BlackElo "2590"]
+[ECO "B73"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O
+9.Qd2 d5 10.exd5 Nxd5 11.Nxc6 bxc6 12.Rad1 Be6 13.Nxd5 cxd5 14.Bf3 Qc7 15.Bxd5 Bxd5
+16.Qxd5 Qxc2 17.Rd2 Qc7 18.b4 Rad8 19.Qe4 Rxd2 20.Bxd2 Qd7 21.Be3 Rc8 22.a4 a6
+23.a5 e6 24.Bc5 Qb5 25.h3 Rd8 26.Rc1 h5 27.Bb6 Rd5 28.Kh2 Bf6 29.Rc5 Qd7
+30.Rxd5 exd5 31.Qf4 Be7 32.Bd4 Bd6 33.Be5 Bxe5 34.Qxe5 d4 35.b5 d3 36.bxa6 d2
+37.Qb8+ Kg7 38.a7 d1=Q 39.a8=Q Q7d6+ 40.f4  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "1"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Ivkov, Borislav"]
+[Result "1/2-1/2"]
+[WhiteElo "2550"]
+[BlackElo "2520"]
+[ECO "C71"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c4 Bd7 6.Nc3 Nf6 7.O-O Be7 8.d3 O-O
+9.h3 Nd4 10.Bxd7 Nxf3+ 11.Qxf3 Nxd7 12.Be3 Bg5 13.Qg4 Bxe3 14.fxe3 c6 15.Rf2 Qe7
+16.Raf1 b5 17.a3 Rab8 18.cxb5 axb5 19.Ne2 Qe6 20.Rxf7 Qxg4 21.Rxf8+ Rxf8
+22.hxg4 Rxf1+ 23.Kxf1 Nf6 24.Ng3 Nxg4 25.Nf5 g6 26.Ne7+ Kf7 27.Nxc6 Nxe3+
+28.Kf2 Nd1+ 29.Ke2 Nxb2 30.Na7 Ke7 31.Nxb5 Na4 32.d4 Kd7 33.d5  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Andersson, Ulf"]
+[Result "1/2-1/2"]
+[WhiteElo "2480"]
+[BlackElo "2535"]
+[ECO "C07"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 Nf6 6.Bc4 Qd8 7.O-O cxd4 8.Nb3 Nc6
+9.Bf4 Bd6 10.Bxd6 Qxd6 11.Nbxd4 Nxd4 12.Qxd4 Qxd4 13.Nxd4 Bd7 14.Rad1 Rc8
+15.Bb3 Rc5 16.Rfe1 Ke7 17.f4 g6 18.Re5 Rhc8 19.Rde1 Ng4 20.R5e2 h5 21.h3 Nf6
+22.Re5 Ne8 23.Kf2  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "2"]
+[White "Andersson, Ulf"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2550"]
+[ECO "A15"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 Bb7 4.Bg2 e5 5.O-O Qe7 6.Nc3 Nc6 7.d4 Nxd4 8.Nxd4 Bxg2
+9.Kxg2 exd4 10.Qxd4 Qe6 11.Nd5 Bd6 12.Bf4 Bxf4 13.Nxf6+ gxf6 14.Qxf4 O-O-O
+15.e3 Rhg8 16.Rad1 Rg4 17.Qf3 Kb8 18.b3 Rdg8 19.Rd5 R8g5 20.Rfd1 d6 21.R1d4 Rxd4
+22.Rxd4 Rf5 23.Qc6 Rh5 24.h4 Re5 25.Rf4 f5 26.Qf3 a5 27.g4 fxg4 28.Rxg4 f5
+29.Rg7 Re4  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "2"]
+[White "Geller, Efim P"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[WhiteElo "2590"]
+[BlackElo "2480"]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be2 d6 7.O-O Nf6 8.Be3 Be7
+9.f4 Bd7 10.Qe1 O-O 11.Rd1 Qc7 12.Qg3 b5 13.e5 Ne8 14.Ne4 dxe5 15.fxe5 Nxe5
+16.Bf4 f6 17.Bg4 Rd8 18.Nxe6 Bxe6 19.Bxe6+ Kh8 20.Bb3 Qb6+ 21.Be3 Qc7 22.Rxd8 Qxd8
+23.Ng5 fxg5 24.Qxe5 Rxf1+ 25.Kxf1 Bf6 26.Qd5 Qxd5 27.Bxd5 Nc7 28.Bf7 g6 29.c3 Kg7
+30.Bb3 Be5 31.h3 Kf6 32.Kf2 h6 33.Kf3 a5 34.a4 bxa4 35.Bxa4 Nd5 36.Bc5 h5
+37.Bb3 Nf4 38.Bc4 Kf5 39.Bb6 g4+ 40.hxg4+ hxg4+ 41.Kf2 g3+ 42.Kf1 a4 43.Bb5 Nd5
+44.Bc5 a3 45.bxa3 Bxc3 46.Ke2 g5 47.Kd3 Be1 48.Kc4 Nc7 49.Bc6 Ke6 50.a4 Bf2
+51.Bb4 Na6 52.Bd2 Kd6 53.Bf3 g4 54.Bf4+ Kd7 55.Bxg4+ Kc6 56.a5 Kb7 57.Bf3+ Ka7
+58.Bd6 Be1 59.Kb5 Bf2 60.Bg4 Kb7 61.Bf3+ Ka7 62.Be4 Be1 63.Bf4 Bf2 64.Bd6 Be1
+65.Bf5 Kb7 66.Be4+ Ka7 67.Be5 Bf2 68.Bd5 Nc5 69.Bc7 Nd7 70.Bf3 Nf8 71.Bg4 Ng6
+72.Bf5 Ne7 73.Be4 Ng8 74.Kc6 Nh6 75.Kd7 Ng4 76.Kc8  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "2"]
+[White "Polugaevsky, Lev"]
+[Black "Ivkov, Borislav"]
+[Result "1-0"]
+[WhiteElo "2645"]
+[BlackElo "2520"]
+[ECO "E05"]
+
+1.c4 e6 2.g3 d5 3.Bg2 Nf6 4.Nf3 Be7 5.O-O O-O 6.d4 dxc4 7.Qc2 a6 8.a4 Nc6
+9.Qxc4 Qd5 10.Qd3 Nb4 11.Qd1 c5 12.Nc3 Qc4 13.dxc5 Rd8 14.Bd2 Qxc5 15.Qb3 Bd7
+16.Rfc1 Bc6 17.Ne4 Qd5 18.Nxf6+ gxf6 19.Rc4 a5 20.Bxb4 Bxb4 21.Qc2 Rac8 22.Rg4+ Kh8
+23.Rh4 f5 24.Rd4 Qc5 25.Rxd8+ Rxd8 26.Qxc5 Bxc5 27.Ne5 Be8 28.Bxb7 Bd4 29.Nc4 Bxb2
+30.Nxb2 Rb8 31.Nc4 Rxb7 32.Nd6 Re7 33.Nxe8 Rxe8 34.Rb1 Kg7 35.Rb5 Ra8 36.Kg2 Kf6
+37.Kf3 h6 38.Ke3 Ra7 39.Kd3 Rd7+ 40.Kc3 Rc7+ 41.Kb3 Ra7 42.f4 Ke7 43.Kc4 Kd7
+44.Kd4 h5 45.e4 fxe4 46.Rxh5 Kd6 47.g4 Rb7 48.Rxa5 Rb4+ 49.Ke3 Rb2 50.g5 Rxh2
+51.Ra7 Ra2 52.Kxe4 Ra1 53.a5 Ra4+ 54.Kf3 Kd5 55.Rd7+ Kc6 56.Rxf7 Rxa5 57.g6 Ra1
+58.Kg4  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "2"]
+[White "Sax, Gyula"]
+[Black "Szabo, Laszlo"]
+[Result "1/2-1/2"]
+[WhiteElo "2445"]
+[BlackElo "2555"]
+[ECO "C00"]
+
+1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.g3 Nc6 5.Bg2 dxe4 6.dxe4 e5 7.Ngf3 Bc5 8.O-O O-O
+9.c3 a5 10.Qc2 Be6 11.b3 Qe7 12.a3 Nd7 13.Bb2 Bd6  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "3"]
+[White "Ivkov, Borislav"]
+[Black "Andersson, Ulf"]
+[Result "1/2-1/2"]
+[WhiteElo "2520"]
+[BlackElo "2535"]
+[ECO "E42"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 cxd4 6.exd4 d5 7.c5 Ne4 8.Bd2 Nxd2
+9.Qxd2 b6 10.a3 Bxc3 11.Nxc3 O-O 12.Be2 bxc5 13.dxc5 a5 14.O-O a4 15.Rac1 Qa5
+16.Rfd1 Bd7 17.Na2 Rc8 18.Qc3 Qxc3 19.Rxc3 Ra5 20.Rdc1 d4 21.R3c2 e5 22.Bd3 Be6
+23.Nb4 Bb3 24.Re2 Raxc5 25.Rce1 f6 26.f4 Re8 27.fxe5 fxe5 28.Bf5 g6 29.Bh3  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "3"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Geller, Efim P"]
+[Result "1/2-1/2"]
+[WhiteElo "2550"]
+[BlackElo "2590"]
+[ECO "C44"]
+
+1.e4 e5 2.Nf3 Nc6 3.c3 Nf6 4.d4 d6 5.Bb5 Bd7 6.Nbd2 Be7 7.Qe2 exd4 8.cxd4 O-O
+9.d5 Ne5 10.Nxe5 dxe5 11.O-O Re8 12.Rd1 Bc5 13.Bxd7 Qxd7 14.Nb3 Bb6 15.Be3 c6
+16.dxc6 Qxc6 17.f3 Rac8 18.Rdc1 Qd6 19.Bxb6 Qxb6+ 20.Qf2 Qxf2+ 21.Kxf2 Red8
+22.Ke3 b6 23.Rxc8 Rxc8 24.Rc1 Rxc1 25.Nxc1 Ne8 26.Nd3 f6 27.Nb4 Kf7  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "3"]
+[White "Szabo, Laszlo"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[WhiteElo "2555"]
+[BlackElo "2645"]
+[ECO "E57"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 d5 7.O-O Nc6 8.a3 cxd4
+9.exd4 Bxc3 10.bxc3 dxc4 11.Bxc4 Qa5 12.Qe2 Qxc3 13.Bd2 Qc2 14.Bd3 Qa4 15.Bb5 Qc2
+16.Bd3 Qa4 17.Bb5 Qc2 18.Bd3  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "3"]
+[White "Timman, Jan H"]
+[Black "Sax, Gyula"]
+[Result "1/2-1/2"]
+[WhiteElo "2480"]
+[BlackElo "2445"]
+[ECO "B27"]
+
+1.Nf3 g6 2.e4 c5 3.c3 Bg7 4.d4 cxd4 5.cxd4 d5 6.exd5 Nf6 7.Bb5+ Nbd7 8.d6 exd6
+9.Qe2+ Qe7 10.Qxe7+ Kxe7 11.O-O Nb6 12.Nc3 Be6 13.Ng5 Rac8 14.Re1 a6 15.Be2 Kd7
+16.Nxe6 fxe6 17.Bg5 Nfd5 18.Bg4 Rhe8 19.Nxd5 Nxd5 20.Rad1 Rc2 21.Bc1 Nf6
+22.Bf3 Nd5 23.Bg4 Nf6 24.Bf3 Nd5 25.Bg4  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "4"]
+[White "Geller, Efim P"]
+[Black "Ivkov, Borislav"]
+[Result "1-0"]
+[WhiteElo "2590"]
+[BlackElo "2520"]
+[ECO "B92"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O Be6
+9.f4 Qc7 10.a4 Nbd7 11.Kh1 Rc8 12.f5 Bc4 13.a5 O-O 14.Bxc4 Qxc4 15.Ra4 Qc6
+16.Be3 Rfd8 17.Qf3 h6 18.Raa1 Nc5 19.Nd5 Nxd5 20.exd5 Qb5 21.Nxc5 dxc5 22.Qg4 Qxb2
+23.Bxh6 e4 24.Rab1 Qe5 25.c4 e3 26.Rbe1 Qd4 27.Rf4 Qf6 28.Re4 Qxh6 29.Rxe7 Re8
+30.Qe4 Rxe7 31.Qxe7 Qf4 32.h3 Qxf5 33.d6 Qe6 34.d7  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "4"]
+[White "Polugaevsky, Lev"]
+[Black "Andersson, Ulf"]
+[Result "1/2-1/2"]
+[WhiteElo "2645"]
+[BlackElo "2535"]
+[ECO "B36"]
+
+1.c4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.e4 Nf6 6.Nc3 Nxd4 7.Qxd4 d6 8.Be3 Bg7
+9.f3 O-O 10.Qd2 Be6 11.Rc1 Qa5 12.Nd5 Qxa2 13.Nxe7+ Kh8 14.Bd4 Rae8 15.Nd5 Bxd5
+16.cxd5 Rc8 17.Be2 Rxc1+ 18.Qxc1 Nd7 19.Bxg7+ Kxg7 20.Qc3+ Kg8 21.O-O  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "4"]
+[White "Sax, Gyula"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1/2-1/2"]
+[WhiteElo "2445"]
+[BlackElo "2550"]
+[ECO "C03"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nc6 4.c3 dxe4 5.Nxe4 Nf6 6.Nxf6+ Qxf6 7.Nf3 h6 8.Bb5 Bd7
+9.Bxc6 Bxc6 10.Ne5 Bxg2 11.Qa4+ c6 12.Rg1 Bd5 13.c4 b5 14.cxb5 Bd6 15.bxc6 Bxe5
+16.c7+ Kf8 17.Qxa7 Bxc7 18.Qxc7 Qxd4 19.Be3 Qb4+ 20.Qc3 Qxc3+ 21.bxc3 Rxa2
+22.Bc5+ Kg8 23.Rxa2 Bxa2 24.Bd4 Rh7  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "4"]
+[White "Szabo, Laszlo"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[WhiteElo "2555"]
+[BlackElo "2480"]
+[ECO "E45"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Ne2 Ba6 6.Ng3 Bxc3+ 7.bxc3 d5 8.Ba3 dxc4
+9.Be2 Qd7 10.Bf3 Nc6 11.Qa4 Bb7 12.Qxc4 Na5 13.Qe2 Nd5 14.Bb2 Qa4 15.Be4 Nc4
+16.Bd3 Ba6 17.O-O O-O-O 18.Rfc1 Rhe8 19.Ne4 Kb7 20.Rab1 f5 21.Nd2 Nxd2 22.Qxd2 Bc4
+23.Qe2 b5 24.Ba1 Kc6 25.Rxb5 Bxb5 26.Bxb5+ Qxb5 27.c4 Qb6 28.cxd5+ Kxd5 29.Qf3+ Kd6
+30.d5 exd5 31.Bd4 c5 32.Bxc5+ Qxc5 33.Qf4+ Kc6 34.Qa4+  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "5"]
+[White "Andersson, Ulf"]
+[Black "Geller, Efim P"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2590"]
+[ECO "A21"]
+
+1.c4 g6 2.g3 Bg7 3.Bg2 e5 4.Nc3 d6 5.d3 Nd7 6.e4 Ne7 7.Nge2 O-O 8.O-O Nc5
+9.Be3 Nc6 10.Qd2 Nd4 11.f4 a5 12.Bf2 Nce6 13.Rae1 c6 14.Kh1 a4 15.Nxd4 exd4
+16.Ne2 Qa5 17.Qc2 f5 18.exf5 gxf5 19.Rb1 Bd7 20.Ng1 Rae8  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "5"]
+[White "Ivkov, Borislav"]
+[Black "Sax, Gyula"]
+[Result "1/2-1/2"]
+[WhiteElo "2520"]
+[BlackElo "2445"]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 Be7 7.O-O Nc6 8.Be3 O-O
+9.f4 Qc7 10.Qe1 a6 11.Qg3 Nxd4 12.Bxd4 b5 13.a3 Bb7 14.Bd3 e5 15.fxe5 Nh5
+16.Qf2 dxe5 17.Bb6 Qd6 18.Rad1 Nf4 19.Be3 Nxd3 20.Rxd3 Qe6 21.Qf5 Qxf5 22.Rxf5 Rfd8
+23.Rxe5 Bf6 24.Rc5 Bxc3  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "5"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Szabo, Laszlo"]
+[Result "0-1"]
+[WhiteElo "2550"]
+[BlackElo "2555"]
+[ECO "A01"]
+
+1.b3 e5 2.Bb2 Nc6 3.e3 d6 4.c4 g6 5.Nf3 Bg7 6.Be2 f5 7.h4 Nf6 8.Nc3 e4 9.Ng5 Ne5
+10.Qc2 h6 11.Nh3 Be6 12.O-O-O Qd7 13.Nf4 Bf7 14.f3 g5 15.Nfd5 Nxd5 16.cxd5 exf3
+17.gxf3 g4 18.f4 Nf3 19.Nb5 Bxb2+ 20.Kxb2 O-O-O 21.Nxa7+ Kb8 22.Nc6+ bxc6
+23.dxc6 Qe7 24.Qc3 d5 25.Rc1 d4 26.Qa5 Rd5 27.Bb5 dxe3 28.Qa6 Rxd2+ 29.Rc2 Rxc2+
+30.Kb1 Nd2+ 31.Kxc2 Qc5+ 32.Bc4 Qb6 33.Qxb6+ cxb6 34.Bxf7 Rd8 35.Re1 g3 36.Rxe3 g2
+37.Re7 Rc8 38.Rb7+ Ka8 39.Bd5 g1=Q 40.Rd7  0-1
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "5"]
+[White "Timman, Jan H"]
+[Black "Polugaevsky, Lev"]
+[Result "1-0"]
+[WhiteElo "2480"]
+[BlackElo "2645"]
+[ECO "B96"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Nbd7 8.Qf3 Qc7
+9.O-O-O b5 10.Bd3 Bb7 11.Rhe1 h6 12.Qh3 O-O-O 13.Bxf6 Nxf6 14.Nd5 Qa5 15.Nb3  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Polugaevsky, Lev"]
+[Black "Geller, Efim P"]
+[Result "0-1"]
+[WhiteElo "2645"]
+[BlackElo "2590"]
+[ECO "E89"]
+
+1.c4 g6 2.e4 Bg7 3.d4 d6 4.Nc3 Nf6 5.f3 O-O 6.Be3 e5 7.d5 c6 8.Qd2 cxd5 9.cxd5 Na6
+10.Nge2 Bd7 11.Nc1 Ne8 12.Bb5 Bxb5 13.Nxb5 f5 14.exf5 gxf5 15.O-O Qd7 16.Nc3 Nc5
+17.N1e2 a5 18.Rab1 a4 19.b4 axb3 20.axb3 Rc8 21.Rfc1 Nf6 22.Bg5 Rce8 23.b4 Na4
+24.Nxa4 Qxa4 25.Ng3 Qd7 26.b5 f4 27.Bxf6 fxg3 28.Bxg7 gxh2+ 29.Kxh2 Qxg7
+30.Rb4 e4 31.Rxe4 Rxe4 32.fxe4 Qe5+ 33.Kg1 Rf4 34.Rc8+ Kg7 35.Rc7+ Kg6 36.Rc4 Qa1+
+37.Kh2 Qe5 38.g3 Rf3 39.Qe1 Qb2+ 40.Kh3 Rf2 41.e5 Rh2+ 42.Kg4 h5+ 43.Kf3 Qb3+
+44.Rc3 Qxd5+ 45.Qe4+ Qxe4+ 46.Kxe4 Re2+ 47.Kf3 Rxe5 48.Rd3 d5 49.Rc3 Kf6
+50.Rc8 Re7 51.Rh8 Ke5 52.Rxh5+ Kd4 53.g4 Kc4 54.g5 d4 55.Rh8 d3 56.Rd8 Kc3
+57.g6 d2 58.b6 Kc2 59.Rc8+ Kd1 60.Rc7 Re6 61.Rxb7 Rxg6 62.Rb8  0-1
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Sax, Gyula"]
+[Black "Andersson, Ulf"]
+[Result "1/2-1/2"]
+[WhiteElo "2445"]
+[BlackElo "2535"]
+[ECO "C07"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 Nf6 6.Bc4 Qd8 7.O-O cxd4 8.Nb3 Nc6
+9.Qe2 a6 10.Rd1 b5 11.Nbxd4 Nxd4 12.Rxd4 Qb6 13.Bd3 Bb7 14.a4 Bc5 15.Rh4 b4
+16.a5 Qc7 17.Bd2 Nd5 18.Ne5 Qe7 19.Bb5+ Kf8 20.Rc4 Bd6 21.Bc6 Kg8 22.Re1 Bxc6
+23.Rxc6 h6 24.Nc4 Bc7 25.Qe4 Qd7 26.Rc5 Rd8 27.g3 g6 28.Ne5 Bxe5 29.Qxe5 Kh7
+30.Re4 Rc8 31.Rh4 h5 32.Bxb4 Nxb4 33.Rxb4 Rxc5 34.Qxc5 Rc8  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Szabo, Laszlo"]
+[Black "Ivkov, Borislav"]
+[Result "1-0"]
+[WhiteElo "2555"]
+[BlackElo "2520"]
+[ECO "B81"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.g4 Nc6 7.g5 Nd7 8.Ndb5 Nb6
+9.Bf4 Ne5 10.Qh5 Bd7 11.Bxe5 dxe5 12.g6 a6 13.gxf7+ Ke7 14.Na3 Qc7 15.O-O-O g6
+16.Qh4+ Kxf7 17.Nc4 Nxc4 18.Bxc4 Be7 19.Qg3 Rad8 20.Bb3 Bc8 21.h4 Rxd1+ 22.Nxd1 Rd8
+23.h5 g5 24.Ne3 h6 25.Qg4 Kf6 26.a3 Qd6 27.Kb1 Kg7 28.Rd1 Qc6 29.Rxd8 Bxd8
+30.Qf3 Qe8 31.Ng4 Qxh5 32.Qc3 Qxg4 33.Qxc8 Qd1+ 34.Ka2 Qd6 35.Qxb7+ Kg6 36.Qc8 Kf6
+37.c4 a5 38.c5 Qe7 39.Kb1 g4 40.Bxe6 h5 41.Bd5 Kg5 42.Qf5+ Kh6 43.c6 Qd6
+44.Ka2 Bb6 45.Be6 Bd8 46.Bd7 Qe7 47.Be6 Qd6 48.Qf7 Kg5 49.Qg7+ Kh4 50.Bf7 Bb6
+51.Qh7 Bxf2 52.Bxh5 Bb6 53.Qf5 Qd1 54.Qxe5 Qc2 55.Bf7 Qxc6 56.Qh2+ Kg5 57.Qh5+ Kf4
+58.Qf5+ Kg3 59.Be6 Bd4 60.Qxg4+ Kf2 61.Qh4+ Ke3 62.Qe1+ Kf3 63.Qd1+ Ke3 64.Bd5 Qc5
+65.Qe1+ Kf4 66.Qh4+ Ke5 67.Qg5+ Kd6 68.Qd8+ Ke5 69.Qe8+ Kf4 70.Qf7+ Ke3 71.e5 Bxe5
+72.Qf3+ Kd2 73.Qg2+ Kc1 74.Qg5+  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "6"]
+[White "Timman, Jan H"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "0-1"]
+[WhiteElo "2480"]
+[BlackElo "2550"]
+[ECO "B04"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bf5 5.Bd3 Qd7 6.O-O Nc6 7.Bxf5 Qxf5 8.c4 Nb6
+9.exd6 exd6 10.Re1+ Be7 11.Bg5 f6 12.Bc1 Nxc4 13.Nh4 Qd7 14.Qh5+ Kd8 15.Nc3 Nb6
+16.a4 a5 17.Nb5 g5 18.Nf3 Qe8 19.Qh3 Qg6 20.Qe6 Qg8 21.Qe2 Kd7 22.Bd2 Re8
+23.b4 Qc4 24.Qe4 axb4 25.a5 Nd5 26.a6 bxa6 27.Rxa6 Qxb5 28.Qf5+ Kd8 29.Ra8+ Nb8
+30.Bxb4 Qb7 31.Rxb8+ Qxb8 32.Qxd5 Qxb4 33.Ra1 Qb2 34.Re1 Qc3 35.h3 c6 36.Qa2 d5
+37.Rb1 Bd6 38.Qa7 Bc7  0-1
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "7"]
+[White "Andersson, Ulf"]
+[Black "Szabo, Laszlo"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2555"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bb4 5.Bg2 O-O 6.O-O Re8 7.Nd5 e4 8.Nh4 d6
+9.d3 Nxd5 10.cxd5 exd3 11.Qxd3 Ne5 12.Qc2 Bc5  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "7"]
+[White "Geller, Efim P"]
+[Black "Sax, Gyula"]
+[Result "1-0"]
+[WhiteElo "2590"]
+[BlackElo "2445"]
+[ECO "E97"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Bd2 Ne8 10.Rc1 c5 11.dxc6 bxc6 12.b4 f5 13.c5 fxe4 14.cxd6 Nxd6 15.Ng5 Nef5
+16.Ncxe4 Nxe4 17.Bc4+ Kh8 18.Nxe4 h6 19.Bc3 Qh4 20.Qe1 Nd4 21.f3 Qxe1 22.Rfxe1 Bd7
+23.Nd6 Kh7 24.Bxd4 exd4 25.Re7 Bf5 26.Nxf5 Rxf5 27.Bd3 Rf6 28.b5 Rc8 29.Rxa7 c5
+30.a4 Re6 31.a5 Re3 32.Be4 Ra3 33.b6 d3 34.Rd7 Rxa5 35.b7 Re8 36.Bxd3 Ra2
+37.Be4 Kh8 38.Rxc5  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "7"]
+[White "Ivkov, Borislav"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[WhiteElo "2520"]
+[BlackElo "2480"]
+[ECO "D86"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 Nc6
+9.O-O b6 10.Be3 Bb7 11.Qd2 Qd6 12.Bh6 e5 13.Rad1 Rad8 14.Rfe1 Na5 15.Bd3 c5
+16.Bxg7 Kxg7 17.dxe5 Qxe5 18.Qf4 Rfe8 19.f3 Bc6 20.Qxe5+ Rxe5 21.Kf2 Ba4
+22.Bc2 Rxd1 23.Bxd1 Bb5 24.Bb3 Nc4 25.Rd1 a5 26.a4 Ba6 27.Rd7 Nb2 28.Rxf7+ Kg8
+29.Rf6+ c4 30.Bc2 Nd3+ 31.Ke3 Ne1 32.Bb1 Bc8 33.Rxb6 Bd7 34.Ba2 Nc2+ 35.Kf4 Rc5
+36.Nd4 Bxa4 37.Nxc2 Bxc2 38.Ke3 Bd3 39.Kd4 Rc7 40.Ra6 Rd7+ 41.Ke3 Bf1 42.Rxa5  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "7"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[WhiteElo "2550"]
+[BlackElo "2645"]
+[ECO "B96"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 b5 8.e5 dxe5
+9.fxe5 Qc7 10.exf6 Qe5+ 11.Be2 Qxg5 12.Qd3 Qxf6 13.Rf1 Qe5 14.Rd1 Ra7 15.Nf3 Qc7
+16.Ne5 Be7 17.Nxf7 O-O 18.Nd6 Rxf1+ 19.Kxf1 Bd7 20.Nce4 Nc6 21.g3 Nd8 22.c4 bxc4
+23.Qxc4 Qxc4 24.Bxc4 Nf7 25.Ke2 Nxd6 26.Nxd6 Kf8 27.b3 a5 28.a4 Rc7 29.Nb5 Rb7
+30.Rd3 Bc5 31.Nd6 Rc7 32.Ne4 Ke7 33.Nxc5  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "8"]
+[White "Andersson, Ulf"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2480"]
+[ECO "D13"]
+
+1.c4 Nf6 2.Nc3 c6 3.Nf3 d5 4.cxd5 cxd5 5.d4 Nc6 6.Bf4 e6 7.e3 Bd6 8.Bxd6 Qxd6
+9.Bd3 O-O 10.O-O Bd7  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "8"]
+[White "Geller, Efim P"]
+[Black "Szabo, Laszlo"]
+[Result "1-0"]
+[WhiteElo "2590"]
+[BlackElo "2555"]
+[ECO "B08"]
+
+1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.Nc3 c6 5.Be2 Nd7 6.O-O Qc7 7.a4 Ngf6 8.Be3 O-O
+9.Qd2 e5 10.dxe5 dxe5 11.h3 Nh5 12.Rfd1 Nf4 13.Bf1 Re8 14.a5 Bf8 15.Bc4 Ne6
+16.Ng5 Ndc5 17.b4 Nxg5 18.Bxc5 Bxc5 19.bxc5 Qe7 20.Qe3 Be6 21.Bf1 f6 22.a6 Red8
+23.Rd6 Rxd6 24.cxd6 Qd7 25.axb7 Qxb7 26.Na4 Rd8 27.Nc5 Qb2 28.Rxa7 Rxd6 29.Nxe6 Nxe6
+30.Qh6  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "8"]
+[White "Ivkov, Borislav"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1/2-1/2"]
+[WhiteElo "2520"]
+[BlackElo "2550"]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 b5 3.Bg5 Bb7 4.Nbd2 g6 5.e3 a6 6.c4 bxc4 7.Bxc4 d5 8.Bxf6 exf6
+9.Be2 Nd7 10.Nb3 Bb4+ 11.Nfd2 a5 12.O-O O-O 13.Nf3 a4 14.Nc1 Bd6 15.Nd3 Ba6
+16.Rc1 Qb8 17.Rc2 Qb6 18.Qd2 Rfd8 19.Rfc1 Bc4 20.a3 Qb7 21.Qe1 Ra6 22.Nb4 Bxb4
+23.Qxb4  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "8"]
+[White "Polugaevsky, Lev"]
+[Black "Sax, Gyula"]
+[Result "1-0"]
+[WhiteElo "2645"]
+[BlackElo "2445"]
+[ECO "A16"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nb6 6.d3 Bg7 7.Bd2 Nc6 8.Qc1 Nd4
+9.Nf3 c5 10.Ne4 Bf5 11.Nxd4 cxd4 12.Bh6 Rc8 13.Qd2 O-O 14.h4 Bxh6 15.Qxh6 Bxe4
+16.Bxe4 Qd6 17.h5 f5 18.Bxb7 Rc2 19.hxg6 Qxg6 20.Rb1 Rb8 21.Bf3 e5 22.Kf1 Qxh6
+23.Rxh6 e4 24.dxe4 Nc4 25.Kg2 fxe4 26.Bxe4 Rxe2 27.Bd5+  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "9"]
+[White "Ivkov, Borislav"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[WhiteElo "2520"]
+[BlackElo "2645"]
+[ECO "E18"]
+
+1.c4 Nf6 2.Nf3 e6 3.d4 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Nxe4 Bxe4
+9.Ne1 Bxg2 10.Nxg2 d5 11.Qa4 Qd7 12.Qxd7 Nxd7 13.cxd5 exd5 14.Bf4 Bf6 15.Rfd1 c5
+16.Be3 Rfd8 17.Nf4 Nf8 18.dxc5 d4 19.Bd2 bxc5 20.Rac1 Be7 21.Ba5 Rd7 22.Rc4 Ne6
+23.b4 cxb4 24.Nxe6 fxe6 25.Rdxd4 Rxd4 26.Rxd4 Rb8 27.Rd7 Bc5 28.Rc7 Rb5 29.Rc8+ Kf7
+30.Bd8 Bb6 31.Bxb6 axb6 32.f4 h5 33.Kf2 b3 34.axb3 Rxb3 35.Rc7+ Kf6 36.e4 g5
+37.e5+ Kg6 38.fxg5 Rb2+ 39.Kf3 Rxh2 40.Rc6 Kxg5 41.Rxe6 Kf5  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "9"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Andersson, Ulf"]
+[Result "1-0"]
+[WhiteElo "2550"]
+[BlackElo "2535"]
+[ECO "C16"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 b6 5.Qg4 Bf8 6.a4 Ba6 7.Nb5 Qd7 8.Bd3 Ne7
+9.Qe2 Bb7 10.b3 a6 11.Na3 c5 12.c3 Nbc6 13.Nf3 Nf5 14.Nc2 h5 15.O-O Be7 16.Bd2 g6
+17.Rfb1 Qc7 18.dxc5 bxc5 19.b4 cxb4 20.cxb4 Nh4 21.Nxh4 Bxh4 22.f4 Be7 23.a5 O-O
+24.Qf2 Qd7 25.Ra3 Rfc8 26.Be3 Bf8 27.Bb6 Ne7 28.Qe2 d4 29.Qf2 Nd5 30.Bxd4 Bh6
+31.Bf1 Bxf4 32.Ne1 Bh6 33.Nd3 Rc7 34.Nc5 Qe8 35.Rab3 Bf8 36.Nxb7 Rxb7 37.b5 axb5
+38.Bxb5 Qc8 39.a6 Rc7 40.Bd3 Bc5 41.Bxc5 Rxc5 42.Rb7 Rc7 43.Rxc7 Nxc7 44.Rb7 Rb8
+45.Be4 Qd8 46.Rxb8 Qxb8 47.a7 Qb4 48.Qe3 Qa5 49.Bf3 h4 50.h3 Kg7 51.Kh2 Kg8
+52.Bc6 Kg7 53.Qd4 Qa3 54.Qf2 Qa5 55.Qe3 Kg8 56.g3 hxg3+ 57.Kxg3 Kg7 58.h4 Kf8
+59.Qd4 Kg7 60.Kg4 Qa3 61.Qf2 Kg8 62.Qb6 Kg7 63.Qf2 Kg8 64.Bg2 Qc3 65.Kf4 Kg7
+66.Qe3 Qb4+ 67.Kg3 Qa5 68.Bf3 Kf8 69.h5 gxh5 70.Kh4 Ke7 71.Qd4 Kf8 72.Kxh5 Kg7
+73.Qe3 Kf8 74.Kh6 Ke7  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "9"]
+[White "Szabo, Laszlo"]
+[Black "Sax, Gyula"]
+[Result "1-0"]
+[WhiteElo "2555"]
+[BlackElo "2445"]
+[ECO "A10"]
+
+1.c4 g6 2.Nc3 f5 3.e4 fxe4 4.Nxe4 Bg7 5.d4 d5 6.Ng5 Nc6 7.Ne2 Nh6 8.Nf4 Nxd4
+9.Bd3 dxc4 10.Bxc4 Qd6 11.O-O Bf5 12.Be3 O-O-O 13.Qa4 Kb8 14.Nfe6 Bxe6 15.Bxe6 a6
+16.Bh3 Ndf5 17.Rad1 Qf6 18.Nxh7 Qh4 19.Rxd8+ Rxd8 20.Qxh4 Nxh4 21.Ng5 Be5
+22.Ne6 Rh8 23.Re1 Nf7 24.Ng5 Nxg5 25.Bxg5 Bd6 26.Re6 Nf3+ 27.gxf3 Rxh3 28.f4 Rd3
+29.h4 Rd2 30.Rxg6 Bc5 31.h5 Rxf2 32.Kh1 Be3 33.h6 Bxf4 34.Kg1  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "9"]
+[White "Timman, Jan H"]
+[Black "Geller, Efim P"]
+[Result "0-1"]
+[WhiteElo "2480"]
+[BlackElo "2590"]
+[ECO "D59"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.Nf3 Nf6 5.Bg5 O-O 6.e3 h6 7.Bh4 b6 8.cxd5 Nxd5
+9.Bxe7 Qxe7 10.Nxd5 exd5 11.Rc1 Be6 12.Qa4 c5 13.Qa3 Rc8 14.Bb5 Qb7 15.dxc5 bxc5
+16.Rxc5 Rxc5 17.Qxc5 Na6 18.Bxa6 Qxa6 19.Qa3 Qc4 20.Kd2 Qg4 21.Rg1 d4 22.Nxd4 Qh4
+23.Re1 Qxf2+ 24.Re2 Qf1 25.Nxe6 fxe6 26.Qd6 Kh8 27.e4 Rc8 28.Ke3 Rf8 29.Rd2 e5
+30.Qxe5 Qe1+ 31.Re2 Qg1+ 32.Kd3 Rd8+ 33.Kc3 Qd1 34.Qb5 Qd4+ 35.Kc2 a6 36.Qxa6 Qc5+  0-1
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "10"]
+[White "Andersson, Ulf"]
+[Black "Ivkov, Borislav"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2520"]
+[ECO "A07"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 c6 4.O-O Nd7 5.d3 e6 6.Nbd2 Bd6 7.e4 Ne7 8.Re1 O-O
+9.h3 Bh5 10.b3 Be5 11.Rb1 Bc3 12.Bb2 Bxb2 13.Rxb2 Ne5 14.Qc1 Bxf3 15.Bxf3 Nxf3+  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "10"]
+[White "Geller, Efim P"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2550"]
+[ECO "A30"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 e6 4.g3 b6 5.Bg2 Bb7 6.O-O Be7 7.b3 O-O 8.Bb2 Na6
+9.d4 Ne4 10.Rc1 Bf6 11.e3 Rc8 12.Qe2 Qe7 13.Rfd1 Rfd8 14.Nb5 Nc7 15.Nd2 Nxb5
+16.Nxe4 Bxe4 17.Bxe4 Nc7 18.dxc5 Bxb2 19.Qxb2 Qxc5 20.Rd2 Ne8 21.Bg2 a5 22.Rcd1 Rc7
+23.Bf1 Nf6 24.h3 h5 25.Rd4 Qe5 26.Qe2 d6 27.Bg2 Qc5 28.Qf3 Kf8 29.Kh2 Rcd7
+30.Qe2 Ke7 31.Qb2 g6 32.Qe2 Rh8 33.Kg1 Rhd8 34.Kh2 Rh8 35.R1d2 Rhd8  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "10"]
+[White "Polugaevsky, Lev"]
+[Black "Szabo, Laszlo"]
+[Result "0-1"]
+[WhiteElo "2645"]
+[BlackElo "2555"]
+[ECO "E80"]
+
+1.c4 g6 2.e4 Bg7 3.d4 d6 4.Nc3 Nf6 5.f3 b6 6.Bd3 a6 7.Nge2 c5 8.e5 dxe5 9.dxe5 Ng8
+10.Bf4 Bb7 11.O-O Nd7 12.Qa4 b5 13.Qc2 b4 14.Be4 Bxe4 15.Nxe4 Bxe5 16.Rad1 Bxf4
+17.Nxf4 Kf8 18.Qa4 Ra7 19.Rd5 Qc7 20.Nd3 Nb6 21.Qc2 Nxd5 22.cxd5 Kg7 23.Ndxc5 Nf6
+24.Qc4 Qe5 25.Nxf6 Qxf6 26.Qxb4 Rc8 27.Rd1 Rac7 28.Ne4 Qe5 29.Nc3 Qe3+ 30.Kf1 Rc4
+31.Qb7 Qe5 32.Re1 Qxh2 33.Qxe7 Rb8 34.Re2 Qg3 35.d6 Rd4 36.d7 Qc7 37.Re6 Rxd7
+38.Qf6+ Kg8 39.Rc6 Qd8 40.Ne4 Rd1+ 41.Ke2 Qd3+ 42.Kf2 Qd4+ 43.Qxd4 Rxd4 44.b3 f5
+45.Ng5 Rd2+ 46.Kg3 Rxa2 47.Rc7 Rxb3 48.Nxh7 Rb6 49.Ra7 a5 50.Ng5 a4 51.Nh3 a3
+52.Nf4 g5 53.Nd5 Rbb2 54.Nf6+ Kf8 55.Nh7+ Ke8 56.Nxg5 Rxg2+ 57.Kf4 Ra1 58.Kxf5 a2
+59.Ne6 Re1 60.Ra8+ Kd7  0-1
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "10"]
+[White "Sax, Gyula"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[WhiteElo "2445"]
+[BlackElo "2480"]
+[ECO "B08"]
+
+1.e4 d6 2.d4 g6 3.Nc3 Bg7 4.Be2 Nf6 5.Nf3 O-O 6.O-O Bg4 7.Be3 Nc6 8.Qd2 Re8
+9.Rad1 a6 10.Bg5 Qb8 11.Qe3 e5 12.dxe5 dxe5 13.Bc4 Na5 14.Be2 Nh5 15.Nd5 f6
+16.Bh6 c6 17.Nb6 Bxh6 18.Qxh6 Nf4 19.Rfe1 Rd8 20.Rxd8+ Qxd8 21.Nxa8 Qxa8
+22.Qh4 Nxe2+ 23.Rxe2 Bxf3 24.Rd2 g5 25.Qh3 g4 26.Qh4 Bxe4 27.Qxg4+ Bg6 28.Qe6+ Kg7
+29.Rd7+  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "11"]
+[White "Andersson, Ulf"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2645"]
+[ECO "A16"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.O-O c6 7.d3 Nbd7 8.Rb1 a5
+9.a3 Nb6 10.Bd2 d5 11.cxd5 cxd5 12.a4 Ne8 13.Nb5 Bd7 14.Qb3 Nxa4 15.Qxa4 Nc7
+16.Nfd4 e5 17.Qb3 a4 18.Qa2 exd4 19.Nxc7 Qxc7 20.Bxd5 Bg4 21.Rfe1 Rfe8 22.Rbc1 Qd7
+23.Bf4 Rac8 24.Be4 Be6 25.Qa1 b5 26.Rxc8 Rxc8 27.Rc1 Bb3 28.Rxc8+ Qxc8 29.Qa3 h5
+30.Qd6 Qc2 31.Qb8+ Kh7 32.Qxb5 Qxe2 33.Kg2 Be6 34.Qxa4 Qxb2 35.Qd1 Bg4 36.Bf3  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "11"]
+[White "Ivkov, Borislav"]
+[Black "Geller, Efim P"]
+[Result "1/2-1/2"]
+[WhiteElo "2520"]
+[BlackElo "2590"]
+[ECO "E92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3 Ng4 8.Bg5 f6
+9.Bh4 Nc6 10.d5 Ne7 11.Nd2 Nh6 12.f3 Nf7 13.b4 f5 14.c5 g5 15.Bf2 Ng6 16.g3 h5
+17.exf5 Bxf5 18.Nde4 Qe7 19.Be3 Rae8 20.Qd2 a6 21.Rc1 Bh3 22.Nf2 e4 23.Ncxe4 Bf5
+24.O-O g4 25.Rce1 h4 26.Bd1 gxf3 27.Bxf3 Nfe5 28.Be2 Bxe4 29.Nxe4 Rxf1+ 30.Rxf1 Nc4
+31.Nf6+ Bxf6 32.Bxc4 Qxe3+ 33.Qxe3 Rxe3 34.Rxf6 Ne5 35.cxd6 cxd6 36.Bf1 hxg3
+37.hxg3 Rxg3+ 38.Kf2 Ng4+ 39.Kxg3 Nxf6 40.Bh3 Kf8  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "11"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Sax, Gyula"]
+[Result "1-0"]
+[WhiteElo "2550"]
+[BlackElo "2445"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 d6 10.c3 Na5 11.Bc2 c5 12.Nbd2 Re8 13.Nf1 h6 14.Ng3 Bf8 15.Nh2 d5 16.Nh5 Nh7
+17.Qg4 Re6 18.f4 Rg6 19.Qe2 dxe4 20.dxe4 Qh4 21.fxe5 Ng5 22.Kh1 Nc4 23.Nf4 Rc6
+24.g3  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "11"]
+[White "Timman, Jan H"]
+[Black "Szabo, Laszlo"]
+[Result "1/2-1/2"]
+[WhiteElo "2480"]
+[BlackElo "2555"]
+[ECO "A49"]
+
+1.Nf3 Nf6 2.g3 g6 3.b3 Bg7 4.Bb2 d6 5.d4 b5 6.Bg2 Bb7 7.O-O Nbd7 8.Na3 b4
+9.Nc4 O-O 10.Na5 Be4 11.Nd2 Bxg2 12.Kxg2 c5 13.Nc6 Qc7 14.Nxe7+ Kh8 15.e4 Nb6
+16.dxc5 dxc5 17.Nd5 Nfxd5 18.Bxg7+ Kxg7 19.exd5 Rad8 20.Qf3 Rxd5 21.Nc4 Rf5
+22.Qe4 Nxc4 23.Qxc4 Qc6+ 24.Kg1 Rf3 25.Rfe1 Rc3 26.Qe2 h5 27.h4 c4 28.Rad1 Qc5
+29.Kg2 a5 30.Qe4 cxb3 31.cxb3 Rc2 32.Re2  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "12"]
+[White "Geller, Efim P"]
+[Black "Andersson, Ulf"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2535"]
+[ECO "B07"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f3 c6 5.Be3 Nbd7 6.Qd2 b5 7.Nh3 a6 8.Nf2 e5 9.Be2 Qc7
+10.O-O Bg7 11.dxe5 dxe5 12.a4 Bb7 13.Rfd1 O-O 14.Qd6 Qc8 15.axb5 cxb5 16.Nd3 Rd8
+17.Qa3 Bf8 18.Qa5 Re8 19.Rac1 Be7 20.Na2 Bd8 21.Qd2 Bb6 22.c4 bxc4 23.Nf2 Bxe3
+24.Qxe3 Re6 25.Bxc4 Rc6 26.Bd5 Rxc1 27.Rxc1 Qb8 28.Bc4 Qf8 29.Nd3 Kg7 30.Nc3 Qd6
+31.Rd1 Rc8 32.b3 Qc7 33.Na4 Qa5 34.Qd2 Qc7 35.Qe3 Qa5 36.Ndb2 Rc6 37.Bf1 Nc5
+38.Nc4 Qc7 39.Nxc5 Rxc5 40.Be2 a5 41.Nd6 Rc6  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "12"]
+[White "Polugaevsky, Lev"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[WhiteElo "2645"]
+[BlackElo "2480"]
+[ECO "B36"]
+
+1.c4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.e4 Nf6 6.Nc3 Nxd4 7.Qxd4 d6 8.f3 Bg7
+9.Be3 O-O 10.Qd2 Be6 11.Rc1 Qa5 12.b3 Rfc8 13.Bd3 a6 14.Na4 Qxd2+ 15.Kxd2 Nd7
+16.f4 f5 17.Rhe1 Kf8 18.exf5 Bxf5 19.Be2 h5 20.Bf3 Rc7 21.Nc3 e6  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "12"]
+[White "Sax, Gyula"]
+[Black "Ivkov, Borislav"]
+[Result "1/2-1/2"]
+[WhiteElo "2445"]
+[BlackElo "2520"]
+[ECO "C09"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Bb5+ Nc6 6.Ngf3 Bd6 7.O-O cxd4 8.Nb3 Ne7
+9.Nfxd4 O-O 10.Bg5 Qc7 11.h3 h6 12.Be3 a6 13.Be2 Rd8 14.c3 Nf5 15.Nxf5 Bxf5
+16.Nd4 Be4 17.Bf3 Be5 18.Nxc6 Qxc6 19.Re1 Qb5 20.Bxe4 dxe4 21.Qb3 h5 22.Bb6 Rd2
+23.Rab1 Qxb3 24.axb3 Re8 25.Red1 Rxd1+ 26.Rxd1 Re6 27.Bc5 f5 28.Rd8+ Kh7
+29.Rd7 b5 30.Kf1 Kg6 31.Ke2 h4 32.Ke3 Bf6 33.Bd4 Kg5 34.f4+ exf3+ 35.Kxf3 Bxd4
+36.Rxd4 Re1 37.Rd6 Rf1+ 38.Ke3 Rb1 39.Rd2 Rc1 40.Kd4 Kf6 41.Kc5 g5 42.Kb6 g4
+43.hxg4 fxg4 44.Kxa6 g3 45.Kxb5 Rf1 46.c4 Rf2 47.Rd4 h3 48.gxh3 g2 49.Rg4 Rf5+
+50.Kc6 Rg5 51.Rxg2 Rxg2 52.b4 Rxb2 53.b5 Ke7 54.b6 Ke6 55.b7 Ke5 56.h4 Kd4
+57.c5 Kc4 58.h5 Rb5 59.h6 Rxc5+ 60.Kd6 Rd5+ 61.Kc6 Rc5+ 62.Kb6 Rb5+ 63.Ka6 Kc5
+64.h7 Rb3 65.Ka7 Ra3+ 66.Kb8 Rh3 67.Ka7 Ra3+  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "12"]
+[White "Szabo, Laszlo"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1/2-1/2"]
+[WhiteElo "2555"]
+[BlackElo "2550"]
+[ECO "A30"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 Bb7 4.Bg2 g6 5.b3 Bg7 6.Bb2 O-O 7.O-O c5 8.Nc3 Na6
+9.d3 e6 10.e4 d6 11.Qe2 Nc7 12.d4 Nd7 13.Rfd1 Qe7 14.Rd2 Rfd8 15.Rad1 Ne8
+16.e5 Rac8 17.exd6 Nxd6 18.dxc5 Nxc5 19.Nd5 Bxd5 20.cxd5 Nce4 21.Rd3 Bxb2
+22.Qxb2 exd5 23.Ne5 h5 24.Bh3 Rc7 25.a4 Nc3 26.Nxg6 fxg6  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "13"]
+[White "Andersson, Ulf"]
+[Black "Sax, Gyula"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2445"]
+[ECO "D74"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O c6 6.d4 d5 7.cxd5 Nxd5 8.Nc3 Bf5
+9.h3 Nd7 10.Re1 Nxc3 11.bxc3 Be4 12.Ba3 c5 13.e3 b5 14.Qb3 Rb8 15.Nd2 Bxg2
+16.Kxg2 a5  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "13"]
+[White "Geller, Efim P"]
+[Black "Polugaevsky, Lev"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2645"]
+[ECO "A14"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.b3 d5 8.Bb2 c5
+9.e3 Nbd7 10.Qe2 dxc4 11.bxc4 Ne4 12.Nxe4 Bxe4 13.d3 Bc6 14.a4 Qc7 15.Rfb1 Bf6
+16.Bxf6 Nxf6 17.Ne1 Bxg2 18.Kxg2 Nd7 19.a5 Rfb8  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "13"]
+[White "Ivkov, Borislav"]
+[Black "Szabo, Laszlo"]
+[Result "1/2-1/2"]
+[WhiteElo "2520"]
+[BlackElo "2555"]
+[ECO "E91"]
+
+1.Nf3 Nf6 2.d4 c5 3.d5 g6 4.c4 Bg7 5.Nc3 d6 6.e4 O-O 7.Be2 e6 8.O-O Re8 9.Nd2 Na6
+10.Kh1 Nc7 11.f3 b6 12.a4 Rb8 13.Rb1 a6 14.Re1  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "13"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[WhiteElo "2550"]
+[BlackElo "2480"]
+[ECO "A04"]
+
+1.e4 e6 2.d3 c5 3.Nf3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nge7 7.c3 O-O 8.d4 cxd4
+9.cxd4 d5 10.e5 Nf5 11.Nc3 f6 12.Re1 fxe5 13.dxe5 Bd7 14.Bf4 h6 15.h4 Be8
+16.Qd2 Qb6 17.Rad1 Rd8 18.Na4 Qb5 19.b3 Kh7 20.Bf1 Qb4 21.Qxb4 Nxb4 22.Nc5 Bf7
+23.a3 b6 24.axb4 bxc5 25.bxc5 Rb8 26.Rb1 a5 27.Bd2 Rfc8 28.Rec1 g5 29.Bd3 g4
+30.Nd4 Bg6 31.Nxf5 Bxf5 32.Bxf5+ exf5 33.Bxa5 Bxe5 34.b4 Rb5 35.Rd1 d4 36.Kf1 Re8
+37.Re1 Re7 38.Rbd1 Kg6 39.Rxd4 Bxd4 40.Rxe7 Kf6 41.Bd8  1-0
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "14"]
+[White "Polugaevsky, Lev"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1/2-1/2"]
+[WhiteElo "2645"]
+[BlackElo "2550"]
+[ECO "A31"]
+
+1.c4 c5 2.Nf3 b6 3.Nc3 Bb7 4.e4 d6 5.d4 cxd4 6.Nxd4 Nf6 7.f3 e6 8.Be2 Be7
+9.O-O O-O 10.Be3 Nbd7 11.Rc1 Re8 12.Qd2 a6 13.Rfd1 Rc8 14.Bf1 Rc7 15.Qf2 Qb8
+16.Nb3 Bc6 17.Bf4 Rcc8 18.Kh1 Rcd8 19.Rd2 Nc5 20.Nd4 Ba8 21.Be3 Rc8 22.Rdc2 g6
+23.b4 Ncd7 24.Nb3 d5 25.cxd5 exd5 26.Bxa6 Rcd8 27.exd5 Bd6 28.Nd2 Bxh2 29.Nf1 Bd6
+30.Nb5 Nxd5 31.Bg5 f6 32.Bd2 Bxb4 33.Nc3 Bc5 34.Qh4 Nb4 35.Bc4+ Kh8 36.Rb2 Re5
+37.Ng3 Rde8 38.Nce4 Bxe4 39.fxe4 Nc6 40.Bf4 Qd8 41.Bxe5 Ndxe5 42.Rd2 Qe7
+43.Nf1 Nxc4 44.Rxc4 Ne5 45.Rc1 h5 46.Rcd1 Qe6 47.Nh2 Kg7 48.Qg3 Re7 49.Rd5 Ra7
+50.Qb3 Ng4 51.Nxg4 Qxg4 52.Rd8 Qh4+ 53.Qh3 Qxe4 54.R1d7+ Rxd7 55.Qxd7+ Kh6
+56.Qd2+ Be3 57.Qe1 f5 58.a3 f4 59.Qb4 Qe5 60.Qf8+ Kg5 61.Rd1 Kh4 62.Qc8 Qb2
+63.a4 Qe2 64.Qd7 Qc2 65.Kh2 Bf2 66.Rd5 Bg3+ 67.Kh1 Qc1+ 68.Rd1 Qe3 69.Qh3+ Kg5
+70.Qc8 Kh4 71.Qh3+ Kg5 72.Qc8 Qb3 73.Qd8+ Kg4 74.Qd3 Qxd3 75.Rxd3 Bf2 76.Rd5  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "14"]
+[White "Sax, Gyula"]
+[Black "Geller, Efim P"]
+[Result "1/2-1/2"]
+[WhiteElo "2445"]
+[BlackElo "2590"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d4 exd4 6.O-O Be7 7.Re1 b5 8.e5 Nxe5
+9.Rxe5 d6 10.Re1 bxa4 11.Nxd4 Bd7 12.Qf3 O-O 13.Nc6 Bxc6 14.Qxc6 Re8 15.Qxa4 Bf8
+16.Rxe8  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "14"]
+[White "Szabo, Laszlo"]
+[Black "Andersson, Ulf"]
+[Result "1/2-1/2"]
+[WhiteElo "2555"]
+[BlackElo "2535"]
+[ECO "E19"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Qc2 Nxc3
+9.Qxc3 f5 10.b3 Bf6 11.Bb2 d6 12.Ne1 Bxg2 13.Nxg2 Nd7 14.Qc2  1/2-1/2
+
+[Event "AVRO"]
+[Site "Hilversum"]
+[Date "1973.??.??"]
+[Round "14"]
+[White "Timman, Jan H"]
+[Black "Ivkov, Borislav"]
+[Result "1/2-1/2"]
+[WhiteElo "2480"]
+[BlackElo "2520"]
+[ECO "C75"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 Nge7 7.O-O Ng6 8.Nbd2 Be7
+9.Re1 h6 10.Nf1 Nh4 11.Nxh4 Bxh4 12.Ne3 Bg5 13.dxe5 dxe5 14.Qh5 Bxe3 15.Bxe3 Qf6
+16.Rad1 O-O-O 17.Rd5 Rhe8 18.Red1 Be6 19.Bxc6 bxc6 20.Rc5 Qg6 21.Rxd8+ Rxd8
+22.Qe2 Bh3 23.Qxa6+ Kd7 24.Qf1 Kc8 25.Qa6+ Kd7 26.Qf1  1/2-1/2

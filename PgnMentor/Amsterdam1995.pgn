@@ -1,0 +1,207 @@
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1995.??.??"]
+[Round "1"]
+[White "Lautier, Joel"]
+[Black "Kasparov, Gary"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2805"]
+[ECO "E76"]
+
+1.c4 g6 2.e4 Bg7 3.d4 d6 4.Nc3 Nf6 5.f4 O-O 6.Nf3 Na6 7.Be2 e5 8.fxe5 dxe5
+9.d5 Nc5 10.Bg5 h6 11.Bxf6 Qxf6 12.b4 Na6 13.a3 c5 14.Rb1 Bd7 15.b5 Nc7 16.d6 Ne6
+17.Nd5 Qd8 18.Qd2 Nd4 19.O-O Be6 20.Nxd4 Bxd5 21.Nc6 bxc6 22.cxd5 cxb5 23.Rxb5 Qxd6
+24.Qa5 f5 25.Rxc5 fxe4 26.Rc6 Rxf1+ 27.Bxf1 Qf8 28.d6  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1995.??.??"]
+[Round "1"]
+[White "Topalov, Veselin"]
+[Black "Piket, Jeroen"]
+[Result "1-0"]
+[WhiteElo "2630"]
+[BlackElo "2670"]
+[ECO "C93"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Bb7 10.d4 Re8 11.Nbd2 h6 12.Bc2 Bf8 13.d5 Ne7 14.c4 c6 15.b3 cxd5 16.cxd5 Rc8
+17.Nf1 Nh5 18.a4 Qc7 19.Bd3 f5 20.axb5 fxe4 21.Rxe4 Qc3 22.Ba3 Nf6 23.Bxd6 Nxe4
+24.Bxe4 axb5 25.Ra7 Rcd8 26.Rxb7 Rxd6 27.Rxb5 Nc6 28.Qe2 Nd4 29.Nxd4 Qxd4
+30.Ng3 Rf6 31.Nf5 Qa7 32.b4 Rc8 33.d6 g6 34.Bd5+ Kh8 35.Qxe5 Bg7 36.Nxg7 Qxg7
+37.d7 Rc1+ 38.Kh2 Rf8 39.f4 Rd1 40.Rb8  1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1995.??.??"]
+[Round "2"]
+[White "Lautier, Joel"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2630"]
+[ECO "A36"]
+
+1.c4 c5 2.g3 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.a3 d6 6.Rb1 h5 7.h3 Nh6 8.e3 e5 9.d3 f5
+10.Nd5 Be6 11.b4 cxb4 12.axb4 Ne7 13.Qa4+ Kf7 14.e4 Nxd5 15.exd5 Bd7 16.Qb3 Bf6
+17.Nf3 Kg7 18.h4 Nf7 19.Be3 Qe7 20.c5 f4 21.cxd6 Nxd6 22.Bc5 e4 23.dxe4 Qxe4+
+24.Kf1 Ba4 25.Nd2 Bxb3 26.Nxe4 Bc4+ 27.Kg1 Nxe4 28.Bxe4 Rhe8 29.f3 b6 30.Rc1 bxc5
+31.Rxc4 cxb4 32.Rxb4 fxg3 33.Kg2 Be5 34.Rb7+ Kh6 35.Rc1 Rac8 36.Rxc8 Rxc8
+37.Re7 Bf6 38.Re6 Kg7 39.Kxg3 Rc1 40.Ra6 Rg1+ 41.Kh2  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1995.??.??"]
+[Round "2"]
+[White "Kasparov, Gary"]
+[Black "Piket, Jeroen"]
+[Result "1-0"]
+[WhiteElo "2805"]
+[BlackElo "2670"]
+[ECO "C51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.a4 a5 6.b5 Nd4 7.Nxd4 Bxd4 8.c3 Bb6
+9.d4 exd4 10.O-O Ne7 11.Bg5 h6 12.Bxe7 Qxe7 13.cxd4 Qd6 14.Nc3 Bxd4 15.Nd5 Bxa1
+16.Qxa1 O-O 17.e5 Qc5 18.Rc1 c6 19.Ba2 Qa3 20.Nb6 d5 21.Nxa8 Kh8 22.Nb6 Be6
+23.h3 Rd8 24.bxc6 bxc6 25.Rc3 Qb4 26.Rxc6 Rb8 27.Nxd5 Qxa4 28.Rc1 Qa3 29.Bc4  1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1995.??.??"]
+[Round "3"]
+[White "Topalov, Veselin"]
+[Black "Kasparov, Gary"]
+[Result "0-1"]
+[WhiteElo "2630"]
+[BlackElo "2805"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 d6 6.Be3 Nf6 7.f3 Be7 8.g4 O-O
+9.Qd2 a6 10.O-O-O Nxd4 11.Bxd4 b5 12.Kb1 Bb7 13.h4 Rc8 14.g5 Nd7 15.Rg1 b4
+16.Ne2 Ne5 17.Rg3 Nc4 18.Qc1 e5 19.Bf2 a5 20.Bg2 Ba6 21.Re1 a4 22.Bh3 Rc6
+23.Qd1 d5 24.exd5 Rd6 25.f4 Rxd5 26.Rd3 Na3+ 27.bxa3 Bxd3 28.cxd3 Rxd3  0-1
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1995.??.??"]
+[Round "3"]
+[White "Piket, Jeroen"]
+[Black "Lautier, Joel"]
+[Result "0-1"]
+[WhiteElo "2670"]
+[BlackElo "2655"]
+[ECO "D27"]
+
+1.d4 d5 2.c4 dxc4 3.e3 Nf6 4.Bxc4 e6 5.Nf3 c5 6.O-O a6 7.Bb3 Nc6 8.Qe2 cxd4
+9.Rd1 d3 10.Rxd3 Qc7 11.Nc3 Bc5 12.a3 O-O 13.Bd2 b5 14.Rc1 Qb6 15.e4 Ng4
+16.Nd1 Bb7 17.Ng5 Nce5 18.Rg3 Rad8 19.Rxc5 Qxc5 20.Bb4 Qc1 21.Bxf8 Qxg5 22.Bb4 Qf4
+23.Ne3 Nf6 24.Be7 Rd7 25.Bxf6 Qxf6 26.Nf1 h6 27.Rc3 Ng6 28.g3 Qd4 29.Bc2 Ne5
+30.h3 Kh8 31.Qe3 Nc4 32.Qxd4 Rxd4 33.f3 Nxb2 34.Rc7 Rc4 35.Rxb7 Rxc2 36.Rxf7 Rc3
+37.f4 Nc4 38.Re7 Rxa3 39.Rxe6 b4 40.Rc6 Rc3 41.e5 Nxe5 42.Rxc3 bxc3 43.Ne3 Nd3
+44.Kf1 a5 45.Ke2 Nb4 46.Nc4 a4 47.f5 Kg8 48.g4 Kf7 49.Nd6+ Kf6 50.Ne4+ Ke5
+51.Nxc3 a3 52.Kf3 a2  0-1
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1995.??.??"]
+[Round "4"]
+[White "Kasparov, Gary"]
+[Black "Lautier, Joel"]
+[Result "0-1"]
+[WhiteElo "2805"]
+[BlackElo "2655"]
+[ECO "B48"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Bd3 Nf6 8.O-O Ne5
+9.h3 Bc5 10.Kh1 d6 11.f4 Ned7 12.a3 b5 13.Bxb5 axb5 14.Ndxb5 Qb6 15.Bxc5 dxc5
+16.Nd6+ Ke7 17.Nxc8+ Rhxc8 18.e5 Ne8 19.Qh5 h6 20.Rae1 f5 21.Rf3 c4 22.g4 fxg4
+23.Qxg4 Ra5 24.Ne4 Qc6 25.Nd6 Nxd6 26.exd6+ Kf8 27.Rg1 g5 28.Rg3 Rf5 29.Qh5 Nf6
+30.Qxh6+ Kf7 31.Kg1 Rg8  0-1
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1995.??.??"]
+[Round "4"]
+[White "Piket, Jeroen"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteElo "2670"]
+[BlackElo "2630"]
+[ECO "A59"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 g6 6.Nc3 Bxa6 7.e4 Bxf1 8.Kxf1 d6
+9.g3 Bg7 10.Kg2 Nbd7 11.Nf3 O-O 12.Re1 Qa5 13.h3 Rfb8 14.e5 dxe5 15.Nxe5 Nxe5
+16.Rxe5 Rb7 17.d6 exd6 18.Qxd6 Rc8 19.Nd5 Nxd5 20.Qxd5 Qa6 21.Re4 c4 22.Bf4 Bxb2
+23.Rae1 Qb5 24.Re8+ Rxe8 25.Qxb5 Rxb5 26.Rxe8+ Kg7 27.Rc8 Rb4 28.Bd6 Ra4
+29.a3 Kf6 30.Bb4 Bxa3  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1995.??.??"]
+[Round "5"]
+[White "Kasparov, Gary"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[WhiteElo "2805"]
+[BlackElo "2630"]
+[ECO "B76"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 Nc6 8.Qd2 O-O
+9.O-O-O d5 10.exd5 Nxd5 11.Nxc6 bxc6 12.Bd4 Nxc3 13.Qxc3 Bh6+ 14.Be3 Bxe3+
+15.Qxe3 Qb6 16.Qxe7 Be6 17.Qa3 Rfd8 18.Ba6 c5 19.Be2 c4 20.f4 Rd4 21.Rxd4 Qxd4
+22.g3 c3 23.Qxc3 Qxc3 24.bxc3 Bxa2 25.Kb2 Be6 26.c4 Kf8 27.Ra1 a5 28.c5 Ke7
+29.c4 Bd7 30.Bf3 Rb8+ 31.Kc3 a4 32.Ra3 Rc8 33.Kd4 h5 34.Bb7 Rd8 35.Kc3 h4
+36.gxh4 Rh8 37.Bd5 Rxh4 38.Kb4 Rxh2 39.c6 Be6 40.Bxe6 fxe6 41.Kc5 Kd8 42.Rxa4  1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1995.??.??"]
+[Round "5"]
+[White "Lautier, Joel"]
+[Black "Piket, Jeroen"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2670"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 Bb4 5.Nd5 Bc5 6.Bg2 O-O 7.O-O d6 8.d3 Nxd5
+9.cxd5 Nd4 10.Nxd4 Bxd4 11.e3 Bb6 12.a4 a5 13.Bd2 Bd7 14.Qc2  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1995.??.??"]
+[Round "6"]
+[White "Piket, Jeroen"]
+[Black "Kasparov, Gary"]
+[Result "1-0"]
+[WhiteElo "2670"]
+[BlackElo "2805"]
+[ECO "D97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Na6 8.Be2 c5
+9.d5 e6 10.O-O exd5 11.exd5 Re8 12.Rd1 Bf5 13.d6 h6 14.Bf4 Nd7 15.Rd2 Nb4
+16.Qb3 Be6 17.Bc4 Nb6 18.Bxe6 Rxe6 19.Na4 Re4 20.Bg3 Nc4 21.Nxc5 Nxd2 22.Nxd2 Re2
+23.Qxb4 a5 24.Qxb7 Rxd2 25.d7 Rxb2 26.Qd5 Rb5 27.Rd1 Bf8 28.Bd6 Bxd6 29.Qxd6 Rab8
+30.h3 Rb1 31.Rxb1 Rxb1+ 32.Kh2 Rb6 33.Qe5 Kf8 34.Qh8+ Ke7 35.Qe5+ Kf8 36.f4 h5
+37.Qd5 h4 38.Qe5 g5 39.Qh8+ Ke7 40.Qe5+ Kf8 41.fxg5  1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1995.??.??"]
+[Round "6"]
+[White "Topalov, Veselin"]
+[Black "Lautier, Joel"]
+[Result "1/2-1/2"]
+[WhiteElo "2630"]
+[BlackElo "2655"]
+[ECO "B48"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.f3 b5 8.Qd2 Bb7
+9.O-O-O Nxd4 10.Bxd4 Rc8 11.g4 d6 12.Kb1 Nf6 13.a3 Nd7 14.h4 Ne5 15.Qe3 Nc4
+16.Bxc4 Qxc4 17.Rh2 e5 18.Ba7 Be7 19.h5 h6 20.Qb6 Qc7 21.Qxc7 Rxc7 22.Bb6 Rc6
+23.Ba5 Bg5 24.a4 bxa4 25.Nxa4 Ke7 26.b3 Rb8 27.Nc3 Ba8 28.Nd5+ Kd7 29.Bd2 f6
+30.Kb2 Rf8 31.Ra1 Bb7 32.Be3 Ke6 33.Rd2 Rf7 34.Rd3 Bxe3 35.Nxe3 Bc8 36.Rad1 Rfc7
+37.c4 a5 38.Nf5 Rd7 39.Ra1 Ra6 40.Kc3 Rc7 41.Rd5 Rca7 42.Rad1 Rd7 43.Rb5 Rc7
+44.Rb8 a4 45.bxa4 Rxa4 46.Nxd6 Bd7 47.Rb6 Ke7 48.Rdb1 Be6 49.Kb3 Rca7 50.Kc3 Rc7
+51.R1b4 Ra3+ 52.Rb3 Ra4 53.Kb2 Bxc4 54.Rc3 Ra2+ 55.Kc1 Ra1+ 56.Kd2 Rd7 57.Rxc4  1/2-1/2

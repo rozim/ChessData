@@ -1,0 +1,160 @@
+[Event "St Petersburg m7879"]
+[Site "St Petersburg"]
+[Date "1879.??.??"]
+[Round "?"]
+[White "Schiffers, Emanuel Stepanovich"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C13"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.Nf3 O-O 7.Bd3 c5 8.exd5 exd5
+9.O-O cxd4 10.Ne2 Bg4 11.Ng3 Nc6 12.h3 Bxf3 13.Qxf3 Ne5 14.Qd1 g6 15.f4 Nc4
+16.Bxc4 dxc4 17.Qf3 Qb6 18.Kh1 d3 19.cxd3 Bxb2 20.Rab1 c3 21.Rf2 Rac8 22.Rc2 Qa6
+23.Ne4 Qxa2 24.Nxc3 Qxb1+ 25.Nxb1 Rxc2 26.Qxb7 Rc1+ 27.Kh2 Rxb1 28.Qb5 a5
+29.d4 a4 30.Qxa4 Bc1 31.d5 Rfb8 32.Qc4 Be3 33.Qe4 Bg1+ 34.Kg3 R1b3+ 35.Kh4 h6
+36.Qe1 Bd4 37.g4 Bf6+ 38.g5 hxg5+ 39.Kg4 gxf4 40.d6 f3 41.Qa5 f2  0-1
+
+[Event "St Petersburg m7879"]
+[Site "St Petersburg"]
+[Date "1879.??.??"]
+[Round "?"]
+[White "Chigorin, Mikhail"]
+[Black "Schiffers, Emanuel Stepanovich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C48"]
+
+1.e4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.Bb5 Bc5 5.O-O d6 6.d4 exd4 7.Nxd4 Bd7 8.Nf5 Bxf5
+9.exf5 O-O 10.Bg5 Qd7 11.Bxf6 gxf6 12.Nd5 Kh8 13.Qh5 Qd8 14.Qh6 Rg8 15.Nxf6 Rg7
+16.Bxc6 bxc6 17.Rae1 Qf8 18.Kh1 Bd4 19.Re4 Bxb2 20.Rfe1 Bxf6 21.Qxf6 Qd8
+22.Re7 Kg8 23.R1e3 Qf8 24.Rxc7 h6 25.Ree7  1-0
+
+[Event "St Petersburg m7879"]
+[Site "St Petersburg"]
+[Date "1879.??.??"]
+[Round "?"]
+[White "Schiffers, Emanuel Stepanovich"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bc4 d6 8.O-O Ne5
+9.Be2 Qg6 10.Nd2 Bh3 11.Bf3 h5 12.Kh1 Nxf3 13.Qxf3 Bg4 14.Qf4 O-O-O 15.Nb5 Be2
+16.Bxc5 Bxb5 17.c4 Bc6 18.Bd4 f5 19.f3 h4 20.b4 Rdf8 21.e5 h3 22.gxh3 dxe5
+23.Bxe5 Rxh3 24.Bxc7 Rfh8 25.Rf2 Qf7 26.Ne4 Bxe4 27.fxe4 g5 28.Qd6 Ng6 29.exf5 Nf4
+30.Ba5 Rxh2+ 31.Rxh2 Rxh2+ 32.Kxh2 Qh5+ 33.Kg1 Qg4+ 34.Kf2 Qe2+ 35.Kg1 Qg4+
+36.Kf2 Qe2+ 37.Kg3 Qg2+  0-1
+
+[Event "St Petersburg m7879"]
+[Site "St Petersburg"]
+[Date "1879.??.??"]
+[Round "?"]
+[White "Chigorin, Mikhail"]
+[Black "Schiffers, Emanuel Stepanovich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Bg4
+9.Re1 Bxf3 10.Qxf3 Nxd4 11.Qe3 Nf5 12.Qh3 Nfd6 13.cxd5 Nf6 14.Bg5 Qd7 15.Qh4 O-O-O
+16.Nc3 h6 17.Qd4 Kb8 18.Be3 b6 19.a4 c5 20.dxc6 Qxc6 21.Bf4 Ka8 22.a5 Nc8
+23.Bb5 Qxb5 24.Nxb5 Rxd4 25.Nxd4  1-0
+
+[Event "St Petersburg m7879"]
+[Site "St Petersburg"]
+[Date "1879.??.??"]
+[Round "?"]
+[White "Chigorin, Mikhail"]
+[Black "Schiffers, Emanuel Stepanovich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nc3 Bc5 6.d3 Bg4 7.h3 Bxf3 8.Qxf3 Ne7
+9.Ne2 O-O 10.g4 Qd7 11.Be3 Bb4+ 12.Kf1 Rad8 13.Ng3 Qe6 14.h4 a5 15.Rg1 Kh8
+16.Nf5 g6 17.a3 Bd6 18.Ke2 gxf5 19.gxf5 Qd7 20.Bh6 Rg8 21.Bg5 Rxg5 22.hxg5 c5
+23.Rh1 Ng8 24.f6 Bf8 25.Rh3 c4 26.Rah1 cxd3+ 27.cxd3 h6 28.g6 fxg6 29.f7 Ne7
+30.Rxh6+ Bxh6 31.f8=Q+ Rxf8 32.Qxf8+ Ng8 33.Rxh6+  1-0
+
+[Event "St Petersburg m7879"]
+[Site "St Petersburg"]
+[Date "1879.??.??"]
+[Round "?"]
+[White "Schiffers, Emanuel Stepanovich"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C25"]
+
+1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.Bc4 Bg7 6.d4 d6 7.h4 h6 8.hxg5 hxg5
+9.Rxh8 Bxh8 10.Ne5 dxe5 11.Qh5 Qf6 12.Nd5 Qg7 13.Nxc7+ Kd8 14.Nxa8 Nf6 15.Qxf7 Qxf7
+16.Bxf7 Nxd4 17.Bb3 Nxe4 18.Bd2 Bg4 19.c3 Nc6 20.Bd5 Nf6 21.c4 Kc8 22.Kf2 e4
+23.Re1 e3+ 24.Bxe3 fxe3+ 25.Rxe3 Kb8 26.Kg3 Bd7 27.b4 Nh5+ 28.Kh2 Be5+ 29.g3 Bxg3+
+30.Kg2 Bf4 31.Re1 Kxa8 32.Rh1 Bg4 33.b5 Ne5 34.c5 Kb8 35.a4 Ng6 36.Re1 Be5
+37.Bf7 Ngf4+  0-1
+
+[Event "St Petersburg m7879"]
+[Site "St Petersburg"]
+[Date "1879.??.??"]
+[Round "?"]
+[White "Chigorin, Mikhail"]
+[Black "Schiffers, Emanuel Stepanovich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A00"]
+
+1.e3 c5 2.c4 e6 3.f4 Nc6 4.Nf3 Nf6 5.b3 Be7 6.Bb2 O-O 7.Bd3 d5 8.Nc3 a6 9.Ne5 Bd6
+10.Nxc6 bxc6 11.Ne2 Qe7 12.Ng3 g6 13.O-O e5 14.Qc2 Ng4 15.h3 Nh6 16.fxe5 Bxe5
+17.Bxe5 Qxe5 18.Ne2 Bf5 19.Bxf5 Nxf5 20.cxd5 cxd5 21.Nf4 d4 22.Nd3 Qg7 23.e4 Ng3
+24.Rfe1 Rac8 25.Rac1 f5 26.exf5 Rxf5 27.Qc4+ Kh8 28.Qxa6 Rcf8 29.Qd6 Nh5
+30.Rxc5 R5f6 31.Qe5 Qh6 32.g4 Nf4 33.Nxf4 Qxf4 34.Qxf4 Rxf4 35.Rd5 Kg7 36.Re7+ Kf6
+37.Rde5 h6 38.Kg2 Rf7 39.Rxf7+ Kxf7 40.d3 Rf6 41.a4 Rb6 42.Rb5 Rc6 43.Kf3 Re6
+44.a5 Re3+ 45.Kf2 Rxd3 46.a6 Rd2+ 47.Kf3 Ra2 48.Rb6 d3 49.Ke3 d2 50.Ke2 h5
+51.gxh5 gxh5 52.b4  1-0
+
+[Event "St Petersburg m7879"]
+[Site "St Petersburg"]
+[Date "1879.??.??"]
+[Round "?"]
+[White "Chigorin, Mikhail"]
+[Black "Schiffers, Emanuel Stepanovich"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bc4 Ne5 8.Be2 d5
+9.f4 Ng4 10.Bxg4 Qh4+ 11.g3 Qxg4 12.Qxg4 Bxg4 13.e5 O-O 14.Nf5 Bxe3 15.Nxe3 Bf3
+16.Rf1 Be4 17.Nd2 Bd3 18.Rf2 c5 19.Nf3 f6 20.O-O-O c4 21.exf6 Rxf6 22.Re1 Re6
+23.Ng5 Ra6 24.a3 h6 25.Nf3 Re6 26.Nd4 Re4 27.Kd2 Re8 28.g4 Nc6 29.Nxc6 bxc6
+30.Ng2 Rb8 31.Kc1 Rbe8 32.Rxe4 Rxe4 33.Kd2 Re7 34.f5 Rb7 35.Kc1 Re7 36.Nf4 Be4
+37.h4 Kf7 38.Ne6 Bd3 39.Nd8+ Kf6 40.Ne6 Ke5 41.Nf4 Ke4 42.Kd2 Rb7 43.b4 d4
+44.cxd4 a5 45.Ne6 Rb8 46.Rf4+ Kd5 47.Kc3 axb4+ 48.axb4 Rb7 49.Nc5 Ra7 50.Nxd3 Ra3+
+51.Kb2 Rxd3 52.g5 Rb3+ 53.Kc2 hxg5 54.hxg5 Rxb4 55.f6 gxf6 56.gxf6 Rb8 57.f7 Rf8
+58.Kc3 c5 59.Rf5+ Ke6 60.Rxc5 Rxf7 61.Kxc4 Kd6  1/2-1/2
+
+[Event "St Petersburg m7879"]
+[Site "St Petersburg"]
+[Date "1879.??.??"]
+[Round "?"]
+[White "Schiffers, Emanuel Stepanovich"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.Bxc6+ bxc6 7.h3 g6 8.Nc3 Bg7
+9.Bg5 h6 10.Be3 O-O 11.Qd2 Kh7 12.g4 Ng8 13.O-O-O c5 14.Rdg1 c6 15.h4 f6
+16.Ne2 Qe7 17.Qc3 Rb8 18.Nh2 f5 19.gxf5 gxf5 20.exf5 Bxf5 21.Ng3 Rb4 22.Ne4 Bxe4
+23.dxe4 Qe6 24.b3 Rxe4 25.Qd3 Qd5 26.Qxa6 Rxh4 27.c4 Qd3 28.Qb7 Qc3+ 29.Kd1 Rd4+
+30.Bxd4 Qxd4+ 31.Kc1 Qa1+ 32.Kd2 Rxf2+ 33.Ke3 Qd4+  0-1

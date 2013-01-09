@@ -1,0 +1,830 @@
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "1"]
+[White "Lokvenc, Josef"]
+[Black "Heinicke, Herbert"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D52"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.Nd2 dxc4 8.Bxf6 Nxf6
+9.Nxc4 Qc7 10.Be2 Nd5 11.O-O Nxc3 12.bxc3 c5 13.Ne5 Bd6 14.Bb5+ Ke7 15.f4 a6
+16.Bd3 Bd7 17.Qh5 Be8 18.Qg4 Kf8 19.Rac1 Rd8 20.Bc4 g6 21.Qh4 Kg7 22.g4 Be7
+23.Qf2 b5 24.Bb3 f6 25.Nf3 Qb6 26.g5 f5 27.Qh4 c4 28.Bd1 Ba3 29.Rc2 Bd6 30.Ne5 h6
+31.gxh6+ Rxh6 32.Qg3 Rc8 33.Bf3 Qd8 34.Rb1 Bxe5 35.fxe5 g5 36.Bb7 Rb8 37.Bf3 g4
+38.Bg2 Bg6 39.Qf4 Rh4 40.Rbb2 Qe7 41.Kh1 Rbh8 42.Bc6 Qc7 43.d5 exd5 44.Bxd5 Re8
+45.e6 Qxf4 46.exf4 Re7 47.Rg2 Kf6 48.Rg3 Rh8 49.Re3 Rd8 50.Re5 Be8 51.Kg1 Rd6
+52.h3 gxh3 53.Kh2 Bc6 54.Bxc6 Rxc6 55.a4 bxa4 56.Rb8 Rcxe6 57.Rf8+ Rf7 58.Rxf7+ Kxf7
+59.Rxf5+ Rf6 60.Ra5 Rxf4 61.Rxa4 Ke6 62.Kxh3 Rf3+ 63.Kg2 Rxc3 64.Kf2 Kd5
+65.Ke2 Kc5 66.Rxa6 Rd3 67.Ra8 Kb4 68.Ra7 Rd8 69.Rb7+ Kc3 70.Rc7 Kb3 71.Rb7+ Kc2
+72.Rc7 Re8+ 73.Kf2 c3 74.Kf1 Kd2 75.Rd7+ Kc1 76.Kf2 c2 77.Rc7 Rb8 78.Ke2 Kb1
+79.Kd2 Rd8+  0-1
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "1"]
+[White "Kieninger, Georg"]
+[Black "Preusse, August Georg"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D36"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Nbd7 5.cxd5 exd5 6.Bg5 Be7 7.e3 O-O 8.Qc2 c6
+9.Bd3 Re8 10.O-O Ne4 11.Bxe4 Bxg5 12.Bxh7+ Kh8 13.Bd3 Bf6 14.e4 dxe4 15.Nxe4 Nb6
+16.Nxf6 Qxf6 17.Rfe1 Be6 18.Re5 g6 19.Rae1 Nd5 20.a3 Nf4 21.Bc4 Kg7 22.Qb3 Bxc4
+23.Qxc4 Ne6 24.Ng5 Nc7 25.h4 Rxe5 26.dxe5 Qe7 27.Qg4 Rd8 28.h5 gxh5 29.Ne6+  1-0
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "1"]
+[White "Bogoljubow, Efim"]
+[Black "Eliskases, Erich Gottlieb"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B10"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Bg4 5.h3 Bxf3 6.Qxf3 e6 7.c3 Nd7 8.d4 Ngf6
+9.Nxf6+ Nxf6 10.g3 Qd5 11.Bg2 Bd6 12.O-O Qxf3 13.Bxf3 O-O 14.Bg5 a5 15.Rad1 Rac8
+16.Rd3 b5 17.Ra1 Rc7 18.a4 b4 19.Rc1 h6 20.Bd2 bxc3 21.Rcxc3 Bb4 22.Rxc6 Rxc6
+23.Bxc6 Bxd2 24.Rxd2 Rc8 25.Rc2 Kf8 26.Rc3 Ke7 27.Kf1 Kd6 28.Bf3 Rxc3 29.bxc3 Nd5
+30.c4 Nc3 31.c5+ Ke7 32.Ke1 e5 33.d5 Nxa4 34.d6+ Kd7 35.Bg4+ Kc6 36.Bf3+ Kd7
+37.Bg4+ Kc6  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "1"]
+[White "Richter, Kurt"]
+[Black "Pirc, Vasja"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d4 b5 7.Bb3 d6 8.c3 Bg4
+9.Be3 O-O 10.h3 Bxf3 11.Qxf3 Na5 12.Bc2 Nc4 13.Bc1 c5 14.b3 Nb6 15.dxe5 dxe5
+16.Rd1 Qc7 17.Be3 c4 18.Qf5 Rfb8 19.f4 Bc5 20.Bxc5 Qxc5+ 21.Rd4 Nbd7 22.b4 Qc7
+23.fxe5 Nxe5 24.a4 Re8 25.Na3 Nc6 26.Rd2 Re5 27.Qf3 Rae8 28.Re1 h6 29.Kh1 Rg5
+30.axb5 axb5 31.e5 Rgxe5 32.Rxe5 Nxe5 33.Qd1 Neg4 34.hxg4 Nxg4 35.g3 Qxg3
+36.Qf1 g6 37.Qg1 Qh3+  0-1
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "1"]
+[White "Petrovs, Vladimirs"]
+[Black "Saemisch, Fritz"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E19"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 Ne4 7.Qc2 Nxc3 8.Qxc3 O-O
+9.O-O c5 10.Bf4 d6 11.Rad1 Nc6 12.dxc5 bxc5 13.e4 e5 14.Bxe5 Nxe5 15.Nxe5 Bf6
+16.Qb3 Rb8 17.Nd3 Bxe4 18.Qa3 Bxd3 19.Rxd3 Qc7 20.b3 Rfe8 21.Qc1 Bd4 22.Bd5 Re7
+23.Re1 Rbe8 24.Rxe7 Qxe7 25.Rf3 Qe1+ 26.Qxe1 Rxe1+ 27.Kg2 Re7 28.Kf1 Kf8
+29.Rd3 a5 30.Rd2 Bf6 31.Re2 Rxe2 32.Kxe2  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "2"]
+[White "Pirc, Vasja"]
+[Black "Bogoljubow, Efim"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D30"]
+
+1.Nf3 d5 2.d4 e6 3.c4 Nf6 4.g3 Nbd7 5.Bg2 c6 6.Qc2 Bd6 7.O-O O-O 8.Nbd2 Re8
+9.e4 Nxe4 10.Nxe4 dxe4 11.Qxe4 e5 12.Bg5 f6 13.Bd2 exd4 14.Qxd4 Ne5 15.Bc3 c5
+16.Qd5+ Be6 17.Qxb7 Rb8 18.Qe4 Nxc4 19.b3 Nb6 20.Rfe1 Qc7 21.Qc2 Bf7 22.Rxe8+ Rxe8
+23.Re1 Rxe1+ 24.Nxe1 c4 25.Be4 h6 26.Bd4 cxb3 27.axb3 Qd7 28.Bxb6 axb6 29.Bf5 Qb5
+30.Qc8+ Bf8 31.Be6 Qe2 32.Bxf7+ Kxf7 33.Qc4+  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "2"]
+[White "Lokvenc, Josef"]
+[Black "Petrovs, Vladimirs"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D29"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Nc3 b5 8.Bb3 Bb7
+9.Qe2 Nbd7 10.Rd1 Qb6 11.Bc2 Rd8 12.a3 Be7 13.dxc5 Bxc5 14.b4 Be7 15.Bb2 O-O
+16.Rac1 Qa7 17.Nb1 Qa8 18.Nbd2 Ne4 19.Nb3 Nb6 20.Na5 Bd5 21.Bd3 Na4 22.Bd4 Rc8
+23.Qe1 Bf6 24.Ne5 Bh4 25.Bxe4 Bxe4 26.Qf1 Bf6 27.f3 Bxe5 28.Bxe5 Bg6 29.e4 f6
+30.Bd4 e5 31.Be3 Bf7 32.h3 Nb2 33.Rd7 Bc4 34.Nxc4 Nxc4 35.Bc5 Rfd8 36.Rxd8+ Rxd8
+37.a4 Rd2 38.axb5 axb5 39.Rd1 Qa2 40.Rxd2 Qxd2 41.Qa1 Qd7 42.Qa8+ Kf7 43.h4 h5  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "2"]
+[White "Heinicke, Herbert"]
+[Black "Richter, Kurt"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A09"]
+
+1.Nf3 d5 2.c4 d4 3.e3 dxe3 4.fxe3 e5 5.Nc3 Nc6 6.Be2 g5 7.O-O g4 8.Ne1 h5
+9.Nc2 Bd6 10.Ne4 f5 11.Nxd6+ Qxd6 12.d4 h4 13.b3 h3 14.g3 Nf6 15.Ba3 Qd7
+16.dxe5 Ne4 17.Qxd7+ Bxd7 18.Bb2 O-O-O 19.Rad1 Rhe8 20.Nd4 Nxe5 21.Nxf5 Nf3+
+22.Bxf3 gxf3 23.Rxf3 Bxf5 24.Rxd8+ Rxd8 25.Rxf5 Rd2 26.Be5 Rg2+ 27.Kf1 Rxh2
+28.g4 Rg2 29.Rh5 Nd2+ 30.Ke1 h2 31.Bf4 c6 32.e4 Nf3+ 33.Kf1 Rxa2 34.g5 Kd7
+35.g6 Ke6 36.Be3 Kf6 37.Rh6 b6 38.e5+ Kg7 39.e6 Kf6 40.Rh8 Ra1+ 41.Kg2 Rg1+
+42.Kxf3 h1=Q+ 43.Rxh1 Rxh1 44.c5 b5 45.Bd4+ Kxg6 46.Ke4 Re1+  0-1
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "2"]
+[White "Eliskases, Erich Gottlieb"]
+[Black "Kieninger, Georg"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A55"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 Nbd7 4.Nc3 e5 5.e4 Be7 6.g3 O-O 7.Bg2 c6 8.O-O Qc7
+9.b3 Re8 10.h3 a6 11.a4 Bf8 12.Be3 c5 13.d5 b6 14.Ne1 g6 15.Nd3 Bg7 16.Qd2 Rb8
+17.Rae1 Nf8 18.Bh6 Nh5 19.Bxg7 Nxg7 20.f4 f6 21.g4 exf4 22.Qxf4 Nd7 23.Qh6 Qd8
+24.e5 dxe5 25.d6 Bb7 26.Nd5 Re6 27.Ne7+ Rxe7 28.dxe7 Qxe7 29.Bxb7 Rxb7 30.Nf4 Ne8
+31.Nd5 Qg7 32.Qh4 Rb8 33.g5 f5 34.Nf6+ Nexf6 35.gxf6 Qf7 36.Qg5 Qe6 37.Rf2 Nxf6
+38.Rd2 Re8 39.Rd3 Ne4 40.Qe3 Nd6 41.a5 Nf7 42.axb6 Qxb6 43.Rd5 f4 44.Qd3 Qe6
+45.Rd7 e4 46.Qd5 e3 47.Kh2 Ne5 48.Qxe6+ Rxe6 49.Rd8+ Kg7 50.Kg2 g5 51.Rd5 Kf6
+52.Kf1 Nf3 53.Re2 Nd4 54.Re1 Nxb3 55.Ke2 Nd2 56.Kd3 Nf3 57.Re2 Ne5+ 58.Kc3 Rc6
+59.Rd8 Kf5 60.Re8 Rd6 61.Re1 Ke4 62.Rg1 h6 63.h4 g4 64.Kc2 e2  0-1
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "2"]
+[White "Preusse, August Georg"]
+[Black "Saemisch, Fritz"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C73"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Bxc6+ bxc6 6.d4 f6 7.Nc3 g6 8.Be3 Nh6
+9.h3 Nf7 10.Qd2 Bg7 11.O-O-O O-O 12.g4 a5 13.b3 Re8 14.dxe5 fxe5 15.Rhg1 Be6
+16.Na4 Qc8 17.c4 Qb7 18.Qc2 c5 19.h4 Qc8 20.g5 Nd8 21.Ne1 Nc6 22.Nd3 Bg4
+23.Rd2 Nb4 24.Qb1 Rf8 25.a3 Nc6 26.Rg3 Rb8 27.Rb2 Nd4 28.Bxd4 cxd4 29.Qc2 c5
+30.Qd2 Bd7 31.Qxa5 Ra8 32.Qb6 Ra6  0-1
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "3"]
+[White "Kieninger, Georg"]
+[Black "Pirc, Vasja"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g3 Nc6 7.Bg2 Bd7 8.O-O Nxd4
+9.Qxd4 Bc6 10.Re1 Be7 11.e5 Bxg2 12.Kxg2 dxe5 13.Qxe5 O-O 14.Qb5 Qc8 15.Re2 a6
+16.Qd3 Qc6+ 17.Qf3 Rac8 18.Qxc6 Rxc6 19.Nd1 Rd8 20.Bg5 Nd5 21.Bxe7 Nxe7 22.Ne3 Nd5
+23.Nxd5 Rxd5 24.Rae1 Kf8 25.Kf1 Ke7 26.Rc1  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "3"]
+[White "Bogoljubow, Efim"]
+[Black "Heinicke, Herbert"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E14"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.e3 Bb7 5.Bd3 c5 6.Nc3 Be7 7.O-O O-O 8.d5 d6 9.e4 e5
+10.g3 Bc8 11.Kg2 Ne8 12.Ng1 f5 13.f4 exf4 14.Bxf4 fxe4 15.Nxe4 Nd7 16.Qc2 h6
+17.Rae1 Ndf6 18.Nc3 a6 19.Nf3 Ra7 20.Bc1 g5 21.h4 g4 22.Ng1 Kg7 23.Nge2 Nd7
+24.Qd2 Rh8 25.Nf4 Ne5 26.Nh5+ Kg8 27.Qf4 Nf3 28.Qe4 Ne5 29.Qf4 Nf3 30.Bf5 Bg5
+31.Qxg4 Nxe1+ 32.Rxe1 Bxf5 33.Qxf5 Rf7 34.Qg6+ Ng7 35.hxg5 Qf8 36.Nf6+  1-0
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "3"]
+[White "Saemisch, Fritz"]
+[Black "Eliskases, Erich Gottlieb"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E13"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 b6 5.Bg5 h6 6.Bh4 Bb7 7.e3 O-O 8.Bd3 d6
+9.O-O Bxc3 10.bxc3 Qe7 11.Nd2 e5 12.a4 a5 13.Re1 Nbd7 14.Bf5 g5 15.Bg3 Rfe8
+16.f4 exf4 17.exf4 Qf8 18.fxg5 hxg5 19.Rxe8 Qxe8 20.Qc2 Qe2 21.d5 Nc5 22.Re1 Qh5
+23.Re7 Re8 24.Rxc7 Re2 25.Qc1 g4 26.Bc8 Bxd5 27.cxd5 Qxd5 28.Qf1 Rxd2 29.Bxg4 Nxg4  0-1
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "3"]
+[White "Petrovs, Vladimirs"]
+[Black "Preusse, August Georg"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A12"]
+
+1.Nf3 d5 2.c4 c6 3.b3 Nf6 4.Bb2 Bf5 5.g3 e6 6.Bg2 Bd6 7.O-O h6 8.d4 Nbd7
+9.Nbd2 O-O 10.Ne5 Bxe5 11.dxe5 Ng4 12.Nf3 Be4 13.Qd4 c5 14.Qd2 d4 15.Rfd1 Qc7
+16.Nxd4 Bxg2 17.Nb5 Qc6 18.Qxd7 Qxd7 19.Rxd7 Bc6 20.Rc7 f6 21.exf6 Nxf6 22.Re7 Rfe8
+23.Rxe8+ Nxe8 24.Rd1 Kf7 25.f3 Ke7 26.Be5 Bxb5 27.cxb5 b6 28.Kf2 a6 29.bxa6 Rxa6
+30.Rd2 b5 31.Rc2 Rc6 32.e4 Nf6 33.Bd4 c4 34.Ke3 Ra6 35.bxc4 bxc4 36.Bc5+ Kd7
+37.a3 Ra4 38.Bb4  1-0
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "3"]
+[White "Richter, Kurt"]
+[Black "Lokvenc, Josef"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B07"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Be2 O-O 6.e5 Nfd7 7.Ne4 c5 8.c3 cxd4
+9.cxd4 dxe5 10.fxe5 Nb6 11.h4 Nc6 12.Be3 Nd5 13.Bf2 Bh6 14.h5 Ne3 15.Bxe3 Bxe3
+16.hxg6 hxg6 17.Nf3 Nxd4 18.Bd3 Bf5 19.Kf1 Nxf3 20.gxf3 Kg7 21.Qe2 Bf4 22.Rd1 Rh8
+23.Kg2 Qd4 24.Nf2 Rxh1 25.Nxh1 Rh8 26.Nf2 Rh2+ 27.Kg1 Rxf2 28.Bxf5 Bh2+  0-1
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "4"]
+[White "Richter, Kurt"]
+[Black "Petrovs, Vladimirs"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B73"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Bg7 7.O-O O-O 8.Be3 Nc6
+9.Qd2 Ng4 10.Bxg4 Bxg4 11.f4 Bd7 12.Rad1 Rc8 13.Nd5 Nxd4 14.Bxd4 Bxd4+ 15.Qxd4 Rxc2
+16.f5 Bc6 17.Ne3 Re2 18.Ng4 h5 19.Nh6+ Kh7 20.Nxf7 Qb6 21.fxg6+ Kxg6 22.Ne5+ dxe5
+23.Qxb6 axb6 24.Rxf8 Rxb2 25.Rf2 Rb4 26.Re1 Bxe4 27.h3 e6 28.Kh2 Ra4 29.Re3 h4
+30.g3 Bd5 31.a3 b5 32.gxh4 Rf4 33.Kg3 Ra4 34.Rb2 Bc4 35.Rb4 Ra8 36.Kg4 Kh6
+37.Rxe5 Rxa3 38.Rh5+ Kg6 39.Rg5+ Kh6 40.Rh5+ Kg6 41.Re5 Kf6 42.Re1 e5 43.Rb2 Be6+
+44.Kh5 Ra8 45.Rf2+ Bf5 46.Rxf5+ Kxf5 47.Rf1+ Ke6 48.Rb1 Kf6 49.Rf1+ Ke6 50.Rb1 b4
+51.Kg4 Rg8+ 52.Kf3 Rf8+ 53.Kg3 Rf4 54.h5 Rc4 55.Rf1 Rf4 56.Rb1 Kd5 57.h6 Kc4
+58.Rc1+ Kd4 59.Rd1+ Kc3 60.Rc1+ Kd4 61.Rd1+ Kc5 62.Re1 Kd6 63.Re4 b3 64.Rxf4  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "4"]
+[White "Eliskases, Erich Gottlieb"]
+[Black "Preusse, August Georg"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D61"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 c6 6.Nf3 Nbd7 7.Qc2 a6 8.a3 O-O
+9.Rd1 h6 10.Bh4 Re8 11.Bd3 dxc4 12.Bxc4 b5 13.Ba2 Qb6 14.Bb1 c5 15.dxc5 Qxc5
+16.O-O Ne5 17.Nxe5 Qxe5 18.Bxf6 Bxf6 19.Qh7+ Kf8 20.Be4 Rb8 21.Bc6 Bb7 22.Qh8+  1-0
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "4"]
+[White "Heinicke, Herbert"]
+[Black "Kieninger, Georg"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D33"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nge7 7.Bg2 Nf5 8.dxc5 d4
+9.Ne4 Bxc5 10.Nxc5 Qa5+ 11.Bd2 Qxc5 12.O-O O-O 13.Ne1 Re8 14.Nd3 Qb6 15.Rc1 Be6
+16.Qa4 Rac8 17.Rc5 Nfe7 18.Rb5 Qc7 19.Bf4 Qd8 20.Rxb7 Bd5 21.Bh3 Ng6 22.Rd7 Nxf4
+23.Nxf4 Qb6 24.Rxd5 Rb8 25.Bd7  1-0
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "4"]
+[White "Lokvenc, Josef"]
+[Black "Bogoljubow, Efim"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D30"]
+
+1.Nf3 Nf6 2.c4 e6 3.b3 d5 4.Bb2 c5 5.cxd5 exd5 6.g3 Nc6 7.Bg2 Be7 8.O-O O-O
+9.d4 b6 10.Nc3 Ba6 11.Re1 Rc8 12.Rc1 Ne4 13.a3 cxd4 14.Nxe4 dxe4 15.Nxd4 Nxd4
+16.Qxd4 Qxd4 17.Bxd4 f5 18.f3 Rfd8 19.Rxc8 Bxc8 20.e3 exf3 21.Bxf3 Be6 22.b4 Kf7
+23.Rc1 Bf6 24.Rc7+ Rd7 25.Rxd7+ Bxd7 26.Bxf6 Kxf6 27.Kf2 Ke5 28.Ke2 Bb5+
+29.Kd2 Bc4 30.Bd1 g5 31.Bf3 h6 32.Bd1 Be6 33.Bf3 Bd5 34.Bd1 Bg2 35.Ke2 Bc6
+36.Bc2 Bb5+ 37.Kf2 Bd7 38.Bd1 Be6 39.Bc2 f4 40.gxf4+ gxf4 41.Bb1 Bf5 42.Ba2 Bc2
+43.Bg8 Bg6  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "4"]
+[White "Pirc, Vasja"]
+[Black "Saemisch, Fritz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A15"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 b6 4.Bg2 Bb7 5.O-O Be7 6.b3 Ne4 7.Bb2 Bf6 8.Qc2 Bxb2
+9.Qxb2 O-O 10.d3 Nd6 11.e4 f5 12.e5 Nf7 13.d4 Bxf3 14.Bxf3 Nc6 15.Bg2 Rb8
+16.f4 g5 17.d5 Ne7 18.Nc3 Ng6 19.Nb5 gxf4 20.gxf4 Kh8 21.dxe6 dxe6 22.Nxa7 Ra8
+23.Nc6 Qh4 24.Qf2 Qh6 25.Rad1 Rg8 26.Rd3 Nxf4 27.Qxf4 Rxg2+ 28.Kxg2 Rxa2+
+29.Kh1  1-0
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "5"]
+[White "Saemisch, Fritz"]
+[Black "Heinicke, Herbert"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D67"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.e3 O-O 6.Rc1 c6 7.Nf3 Nbd7 8.Bd3 dxc4
+9.Bxc4 Nd5 10.h4 Nxc3 11.bxc3 Re8 12.Bd3 c5 13.Bb1 Nf8 14.O-O Bd7 15.Be4 Qc7
+16.Bf4 Qc8 17.Ne5 f5 18.Bf3 Bd6 19.Rb1 Rb8 20.Nxd7 Qxd7 21.Bxd6 Qxd6 22.Qa4 cxd4
+23.cxd4 Qa6 24.Qxa6 bxa6 25.Bb7 a5 26.Rb5 Re7 27.Rfb1 Kf7 28.Rxf5+ exf5 29.Bd5+ Kf6
+30.Rxb8 Nd7 31.Rb5 a4 32.Ra5 Nb6 33.Bc6 h6 34.Bxa4 f4 35.exf4 Re1+ 36.Kh2 Re4
+37.Rxa7 Rxd4 38.Bb3 Rxf4 39.Rf7+ Ke5 40.Re7+ Kf5 41.Kh3 g5 42.g4+  1-0
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "5"]
+[White "Preusse, August Georg"]
+[Black "Pirc, Vasja"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.Bd3 e6 8.Bf4 Ngf6
+9.Bxg6 hxg6 10.Qd3 Nd5 11.Bd2 Qc7 12.O-O-O O-O-O 13.Kb1 N5f6 14.h3 Bd6 15.Ne4 Nxe4
+16.Qxe4 Nf6 17.Qd3 Rd7 18.Rhe1 Rhd8 19.Bg5 Kb8 20.Qe2 a6 21.g3 Kc8 22.c3 Qa5
+23.h4 Bc7 24.Rd2 Rd5 25.c4 R5d7 26.Red1 Qf5+ 27.Qd3 Qxd3+ 28.Rxd3 e5 29.Bxf6 gxf6
+30.Re3 exd4 31.Red3 c5 32.Re1 Bd6 33.Kc2 Kc7 34.b3 Kc6 35.Rdd1 Bc7 36.Kd3 Ba5
+37.Re2 b5 38.Rh1 bxc4+ 39.bxc4 Rb8 40.Nd2 Bxd2 41.Rxd2 Re7 42.Rc1 Reb7 43.Rdc2 Rb2  0-1
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "5"]
+[White "Bogoljubow, Efim"]
+[Black "Richter, Kurt"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 b5 3.e3 a6 4.Bd3 Bb7 5.Nbd2 g6 6.O-O Bg7 7.c3 O-O 8.a4 c6
+9.e4 d6 10.b3 Qb6 11.c4 c5 12.Bb2 bxa4 13.d5 axb3 14.Qxb3 Qxb3 15.Nxb3 Nbd7
+16.Na5 Bc8 17.Nc6 Re8 18.h3 Nxd5 19.cxd5 Bxb2 20.Ra2 Bg7 21.Rb1 e6 22.dxe6 fxe6
+23.Bc4 Nf6 24.e5 Ne4 25.exd6 Nxd6 26.Bf1 e5 27.Rb6 e4 28.Nd2 Be6 29.Raxa6 Rxa6
+30.Rxa6 Kf8 31.Na7 Be5 32.Nb5 Rd8 33.Nxe4 Nxe4 34.Rxe6 Rd5 35.Nc7 Kf7 36.g3 Nd6
+37.Kg2 c4 38.Nxd5 Kxe6 39.Ne3 c3 40.Nc2 Kd5 41.f4 Bg7 42.Kf3 Nf5 43.Bd3 Nd4+
+44.Nxd4 Kxd4 45.Bc2 Kd5 46.h4 Ke6 47.g4 Kf7 48.g5 h6  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "5"]
+[White "Kieninger, Georg"]
+[Black "Lokvenc, Josef"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g3 a6 7.Bg2 Qc7 8.O-O Bd7
+9.Nce2 Be7 10.h3 O-O 11.c3 Rd8 12.Be3 Be8 13.g4 Nc6 14.g5 Nd7 15.Ng3 Rac8
+16.f4 Nb6 17.b3 d5 18.e5 g6 19.Rf2 Nd7 20.h4 b5 21.h5 Nf8 22.Qg4 Nxe5 23.fxe5 Qxc3
+24.Nc2 Qxe5 25.Re1 Qb2 26.Bd4 Qxa2 27.Qf4 Nd7 28.hxg6 hxg6 29.Qh4 e5 30.Rxe5 Nxe5
+31.Bxe5 f5 32.gxf6 Bc5 33.f7+ Kf8 34.Qh8+ Ke7 35.Qf6+  1-0
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "5"]
+[White "Petrovs, Vladimirs"]
+[Black "Eliskases, Erich Gottlieb"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D30"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Bg5 Nbd7 5.e3 c6 6.Nbd2 Be7 7.Bd3 O-O 8.O-O b6
+9.Rc1 Bb7 10.Qe2 Re8 11.Rfd1 c5 12.cxd5 Nxd5 13.Ne4 f6 14.Bh4 Rc8 15.Bg3 f5
+16.Nd6 Bxd6 17.Bxd6 cxd4 18.exd4 N7f6 19.Be5 Qe7 20.a3 h6 21.Re1 Rxc1 22.Rxc1 Rc8
+23.Re1 Nh7 24.h4 Nf8 25.Qd2 Nf6 26.Qe2 Ne4 27.g3 Nd7 28.Qe3 Ndf6 29.Bxf6 Qxf6
+30.Qf4 g5 31.hxg5 hxg5 32.Qe5 Qxe5 33.Nxe5 Bd5 34.Bxe4 Bxe4 35.f3 Bd5 36.Re2 Rc1+
+37.Kf2 Kg7 38.Ke3 a5 39.Rh2 Re1+ 40.Re2 Rg1 41.Kf2 Rh1 42.Rd2 b5 43.Kg2 Rc1
+44.Nd3 Rc4 45.Ne5 Rc8 46.Kf2 Rh8 47.Kg1 Rc8 48.Kf2 Rc1 49.Nd3 Rh1 50.Ne5 b4
+51.axb4 axb4 52.Kg2 Rc1 53.Nd3 Rc4 54.Ne5 Rc8 55.Kf2 Rh8 56.Kg1 b3 57.Kf2 Rh2+
+58.Ke3 Rh3 59.Kf2 Kf6 60.Re2 Ke7 61.Rd2 Rh7 62.Ke3 Kd6 63.Re2 Kc7 64.g4 f4+
+65.Kd3 Kb6 66.Nc4+ Kb5 67.Re5 Kb4 68.Nd2 Rc7 69.Rxg5 Rc2 70.Rg8 Rxb2 71.Rb8+ Ka3
+72.g5 Rc2 73.g6 Rc7 74.Rf8 b2 75.Rf7 Rc1 76.g7 Rd1 77.Kc3 Rc1+ 78.Kd3 Rd1
+79.Kc3 Rc1+ 80.Kd3  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "6"]
+[White "Bogoljubow, Efim"]
+[Black "Petrovs, Vladimirs"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D18"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O O-O
+9.Nh4 Nbd7 10.Nxf5 exf5 11.Qf3 g6 12.h3 h5 13.Qf4 Nb6 14.Bb3 Nbd5 15.Qh6 Re8
+16.f3 Bf8 17.Qg5 Bg7 18.Bd2 Qb6 19.Bc4 Nh7 20.Qh4 Nxe3 21.Bxe3 Rxe3 22.Rad1 Qxb2
+23.Ne4 Qb4 24.Qf4 Qxc4 25.Qxe3 fxe4 26.fxe4 Re8 27.a5 Qa4 28.Kh1 Nf6 29.e5 Nd5
+30.Qf2 Re7 31.Ra1 Qb3 32.a6 bxa6 33.Rxa6 Ne3 34.Rc1 Nf5 35.Raxc6 h4 36.Rc8+ Kh7
+37.R8c7 Ng3+ 38.Kh2 Rxc7 39.Rxc7 Qb1 40.Qg1 Nf1+ 41.Kh1 Ng3+ 42.Kh2 Qf5 43.Qd1 a5
+44.Qg4 g5 45.Qxf5+ Nxf5 46.Rxf7 Nxd4 47.Ra7 Nb3 48.Rb7 a4 49.Ra7 Nc5 50.Rc7 Nd3
+51.Ra7 Nb2 52.g4 hxg3+ 53.Kxg3 Kg6 54.e6 Bd4 55.Ra5 Bf6 56.Ra7 Be5+ 57.Kg4 Bd6
+58.e7 Kf7 59.Kxg5 a3 60.Kf5 Bc5 61.Ra8 Kxe7 62.h4 Nc4 63.h5 Be3 64.Ke4 Bc1
+65.Kd3 Nb6 66.Ra6 Nd5 67.Kc4 Nf6  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "6"]
+[White "Heinicke, Herbert"]
+[Black "Preusse, August Georg"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D30"]
+
+1.Nf3 d5 2.c4 c6 3.d4 Nf6 4.e3 e6 5.Bd3 Be7 6.Nbd2 Nbd7 7.O-O O-O 8.b3 b6
+9.Bb2 Bb7 10.Qe2 c5 11.Rfd1 Bd6 12.Ne5 Qe7 13.a3 Rfd8 14.Nf1 Nf8 15.Ng3 Ne4
+16.dxc5 Nxg3 17.hxg3 Bxc5 18.b4 Bd6 19.cxd5 Bxd5 20.Nc4 Bc7 21.e4 Bb7 22.f4 b5
+23.Na5 Bxa5 24.bxa5 Qc7 25.Kh2 f6 26.Bxb5 Qxa5 27.Bc4 Kh8 28.Rac1 Rxd1 29.Rxd1 Qc5
+30.Ba2 Qc6 31.Rd4 Ba6 32.Qd2 Re8 33.Rd6 Qb5 34.f5 exf5 35.Rxf6 fxe4 36.Qd4  1-0
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "6"]
+[White "Lokvenc, Josef"]
+[Black "Saemisch, Fritz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A14"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.b3 c5 7.cxd5 Nxd5 8.Bb2 Nc6
+9.Nc3 Nxc3 10.Bxc3 Qb6 11.Qc2 Rd8 12.e3 Nb4 13.Qb1 Bd7 14.d4 Bc6 15.Rd1 Nd5
+16.Bb2 Nf6 17.Qc2 Be4 18.Qe2 cxd4 19.Bxd4 Qa5 20.Ne5 Bxg2 21.Kxg2 Rac8 22.Rac1 Rxc1
+23.Rxc1 Qd5+ 24.Qf3 Bd6 25.Qxd5 Nxd5 26.Nc4 Rc8 27.Rd1 Bb8 28.a4 f6 29.e4 Nb4
+30.Bc3 Nc6 31.Rd7 b6  1-0
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "6"]
+[White "Pirc, Vasja"]
+[Black "Eliskases, Erich Gottlieb"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E33"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 Nc6 5.Nf3 d6 6.a3 Bxc3+ 7.Qxc3 O-O 8.Bg5 Re8
+9.e3 e5 10.dxe5 dxe5 11.Be2 h6 12.Rd1 Qe7 13.Bxf6 Qxf6 14.O-O Bg4 15.h3 Bh5
+16.Rd5 Re7 17.Rfd1 Rae8 18.b4 Re6 19.b5 Nb8 20.Qa5 c6 21.Rd8 e4 22.Rxe8+ Rxe8
+23.Nd4 Bxe2 24.Nxe2 cxb5 25.cxb5 a6 26.a4 axb5 27.axb5 b6 28.Qa7 Rd8 29.Rd4 Rxd4
+30.Nxd4 Qd6 31.Qa8 Kh7 32.Qxe4+ g6 33.Qe8 Kg7 34.f4 Nd7 35.Qd8 Qd5 36.Kh2 h5
+37.Qc7 h4 38.Qc6 Nf6 39.Qxb6 Qa2 40.Nf3 Qb1 41.Nxh4 Ne4 42.Nf3 Nf2 43.Qd4+ Kg8
+44.b6 f5 45.Qd5+ Kg7 46.Qd7+ Kg8 47.Qe8+ Kg7 48.Qe7+ Kg8 49.Ng5 Qh1+ 50.Kg3 Ne4+
+51.Nxe4 fxe4 52.b7 Qe1+ 53.Kh2  1-0
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "6"]
+[White "Richter, Kurt"]
+[Black "Kieninger, Georg"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Bc4 Nxe4 6.Bxf7+ Kxf7 7.Qh5+ g6
+8.Qd5+ Kg7 9.Nxc6 bxc6 10.Qxe4 Qe7 11.Qxe7+ Bxe7 12.O-O Bf6 13.Re1 d6 14.Nd2 Bf5
+15.Ne4 Rhe8 16.Bh6+ Kf7 17.Nxf6 Kxf6 18.c3 Re6 19.Rxe6+ Kxe6 20.f3 Kd7 21.Kf2 Re8
+22.g4 Bd3 23.Be3 a5 24.Rd1 Bc4 25.b3 Be6 26.Rd4 c5 27.Ra4 Ra8 28.b4 cxb4
+29.cxb4 Kc6 30.Rxa5 Rxa5 31.bxa5 Kb5 32.Bd2 Bxa2 33.f4 Bb1 34.h4 c5 35.Kg3 d5
+36.f5 gxf5 37.g5 f4+ 38.Kxf4 Bg6 39.Kg4 d4 40.h5 Be8 41.g6 Bxg6 42.hxg6 hxg6
+43.Kf3 c4 44.Ke4 c3 45.Bc1 Kxa5 46.Kxd4 Kb4  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "7"]
+[White "Eliskases, Erich Gottlieb"]
+[Black "Heinicke, Herbert"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D79"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.cxd5 cxd5 6.Nf3 Bg7 7.O-O O-O 8.Nc3 Nc6
+9.Ne5 Nxe5 10.dxe5 Ng4 11.Nxd5 Nxe5 12.Bg5 Nc6 13.Qa4 h6 14.Be3 e6 15.Nb6 Rb8
+16.Bxc6 bxc6 17.Qxa7 Rb7 18.Qa6 Qc7 19.Nxc8 Rxc8 20.Rab1 Bxb2 21.a4 Kh7 22.a5 Rb5
+23.Bb6 Qb8 24.Rfd1 Qa8 25.Qxa8 Rxa8 26.Rd7 Kg8 27.Rd8+ Rxd8 28.Bxd8 Rd5 29.Bc7 Rd7
+30.Bb8 Bd4 31.a6 Ba7 32.Kg2 Kf8 33.Be5 Ke7 34.Rb7 Kd8 35.f4 Kc8 36.Rb3 f5
+37.Rc3 c5 38.Rb3 Rd5 39.Kf3 Rd2 40.Rb7 Rd7 41.Rb2 Rd1 42.Rb7 Rd7 43.Rb1 Rd2
+44.Ra1 Kd7 45.Ke3 Rd5 46.Rb1 Kc6 47.Rb7 Rd7 48.Rxd7 Kxd7 49.Kd3 Kc6 50.Kc4 h5
+51.h3 Kb6 52.Bd6 Kc6  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "7"]
+[White "Kieninger, Georg"]
+[Black "Bogoljubow, Efim"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B02"]
+
+1.e4 Nf6 2.e5 Nd5 3.b3 d6 4.c4 Nb4 5.a3 N4c6 6.exd6 Qxd6 7.Bb2 Nd4 8.Bxd4 Qxd4
+9.Nc3 g6 10.Nf3 Qd8 11.Be2 Bg7 12.Rc1 Nc6 13.O-O O-O 14.b4 e5 15.Qb3 Re8
+16.d3 a6 17.h3 Be6 18.Ne4 h6 19.Rfd1 b6 20.Bf1 f5 21.Nc3 b5 22.Qc2 bxc4 23.dxc4 Qb8
+24.Ne2 Bf7 25.Nd2 Qa7 26.Rb1 Nd8 27.Nb3 Ne6 28.Nc3 c5 29.bxc5 Nxc5 30.Nd5 Rac8
+31.Nxc5 Qxc5 32.Qa4 Ra8 33.Rb7 Ra7 34.Rdb1 Rf8 35.Rxa7 Qxa7 36.Qc6 a5 37.Rb7 Qd4
+38.Nf6+ Bxf6 39.Qxf6 Qa1 40.Qe7 e4 41.Ra7 h5 42.h4 Qc3 43.g3 Qc1 44.a4 Qd1
+45.Qc7 Qxa4 46.Rxa5 Qd1 47.Ra7 f4 48.gxf4 Qg4+ 49.Bg2 Qxh4 50.Bxe4 Qg4+ 51.Kh2 Qh4+
+52.Kg1 Qg4+ 53.Kh2 Qh4+ 54.Kg1 Qg4+  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "7"]
+[White "Preusse, August Georg"]
+[Black "Lokvenc, Josef"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g3 Be7 7.Bg2 O-O 8.O-O a6
+9.h3 Qc7 10.Be3 Rd8 11.f4 Nc6 12.Nce2 d5 13.e5 Nd7 14.c3 Na5 15.b3 Nc6 16.Qd2 Nf8
+17.Nf3 Bd7 18.g4 Rac8 19.Qe1 Be8 20.Qf2 Nd7 21.Kh1 b5 22.Rad1 b4 23.cxb4 Bxb4
+24.Ned4 Nxd4 25.Nxd4 Nc5 26.Qg3 Ne4 27.Bxe4 dxe4 28.Rc1 Qd7 29.Rxc8 Rxc8
+30.Qf2 Qd5 31.Kh2 Be7 32.Qd2 Rd8 33.Rd1 f6 34.Kg1 fxe5 35.Nf5 Qxd2 36.Nxe7+ Kf7
+37.Rxd2 Rxd2 38.Bxd2 Kxe7 39.fxe5  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "7"]
+[White "Saemisch, Fritz"]
+[Black "Richter, Kurt"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 b5 3.Bf4 Bb7 4.e3 a6 5.Bd3 g6 6.Nbd2 Bg7 7.O-O O-O 8.c3 d6
+9.a4 c6 10.h3 Nbd7 11.Bh2 Re8 12.Qb1 e5 13.Rd1 Qe7 14.dxe5 dxe5 15.axb5 cxb5
+16.Be2 Nh5 17.Nb3 Nc5 18.Nxc5 Qxc5 19.Ne1 Nf6 20.Bf3 Bxf3 21.Nxf3 a5 22.b4 Qxc3
+23.bxa5 e4 24.Nd4 Nd5 25.Qxb5 Nxe3 26.fxe3 Reb8 27.Bxb8 Qxe3+ 28.Kh1 Bxd4
+29.Rxd4 Qxd4 30.Qe8+ Kg7 31.Be5+ Kh6 32.Bxd4 Rxe8 33.a6 f5 34.a7 Ra8 35.Rb1 f4
+36.Rb8  1-0
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "7"]
+[White "Petrovs, Vladimirs"]
+[Black "Pirc, Vasja"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C86"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 b5 7.Bb3 d6 8.a4 Bg4
+9.c3 O-O 10.d3 Na5 11.Bc2 c5 12.Nbd2 Nh5 13.Nb3 Nxb3 14.Bxb3 Bg5 15.h3 Bxf3
+16.Qxf3 Bxc1 17.Rfxc1 Nf4 18.axb5 axb5 19.g3 Nxh3+ 20.Kg2 Ng5 21.Qg4 h6 22.Rxa8 Qxa8
+23.Bd5 Qa7 24.Rh1 Qa4 25.Qd1 Rb8 26.b3 Qa2 27.b4 Qb2 28.Qc1 Qe2 29.Qd1 Qb2
+30.Qc1 Qe2  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "8"]
+[White "Lokvenc, Josef"]
+[Black "Eliskases, Erich Gottlieb"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A07"]
+
+1.Nf3 d5 2.b3 Nf6 3.Bb2 Bf5 4.g3 e6 5.Bg2 h6 6.O-O Nbd7 7.d3 Be7 8.Nbd2 O-O
+9.Re1 Bh7 10.h3 c6 11.e4 dxe4 12.Nxe4 a5 13.a3 Nxe4 14.dxe4 Nf6 15.Nd2 Qb6
+16.Qe2 Rfd8 17.Rad1 Qa7 18.e5 Nd5 19.c4 Nc7 20.Ne4 Bxe4 21.Bxe4 Bc5 22.Kg2 Bd4
+23.Bxd4 Rxd4 24.Rxd4 Qxd4 25.Rd1 Qb6 26.Bc2 Ne8 27.Qd3 Kf8 28.f4 Qc5 29.a4 Rc8
+30.Qd2 Rc7 31.h4 h5 32.Kf3 b6 33.Qe1 Ke7 34.Qd2 Qb4 35.Qd8+ Kf8 36.Qd2 Qxd2
+37.Rxd2 Ke7 38.Ke3 Rd7 39.Be4 Rxd2 40.Kxd2 c5  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "8"]
+[White "Kieninger, Georg"]
+[Black "Petrovs, Vladimirs"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bg5 Be7 7.Nxf6+ Nxf6 8.Bd3 c5
+9.Qe2 cxd4 10.O-O-O a6 11.Kb1 Qb6 12.Ka1 Bd7 13.Bc4 h6 14.Bf4 Bc6 15.Nxd4 Bd5
+16.Bxd5 Nxd5 17.Be5 O-O 18.c3 Bf6 19.Bxf6 Nxf6 20.Rd3 Rfd8 21.Rhd1 Rd5 22.Nc2 Rad8
+23.Ne3 Rxd3 24.Rxd3 Rxd3 25.Qxd3 Qc7 26.g3 Qc6 27.Qd8+ Kh7 28.Qd1 Qe4 29.a3 h5
+30.h4 Ng4 31.Nxg4 hxg4 32.Qb1 Qg6  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "8"]
+[White "Heinicke, Herbert"]
+[Black "Pirc, Vasja"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D65"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Qc2 a6
+9.cxd5 exd5 10.Bd3 Re8 11.O-O Nf8 12.Qb3 Ng6 13.Rfe1 Ne4 14.Bxe7 Qxe7 15.Bxe4 dxe4
+16.Nd2 Be6 17.Qd1 f5 18.Qh5 Rad8 19.Nf1 Qf7 20.b3 Bd5 21.Ne2 Nf8 22.Qxf7+ Kxf7
+23.Nfg3 Kf6 24.Nc3 g5 25.Nge2 Ne6 26.Na4 Re7 27.Nc5 Nxc5 28.Rxc5 Ke6 29.Rec1 Rf7
+30.g3 Rd6 31.R5c3 h6 32.Kf1 Rfd7 33.Ke1 Ke7 34.Kd2 Bf7 35.Rc5 Rd5 36.Rxd5 Bxd5
+37.Rh1 Kf6 38.h4 Kg6 39.Nc3 Rd8 40.hxg5 hxg5 41.Na4 Be6 42.Kc3 a5 43.Nb6 Rf8
+44.Nc4 Bxc4 45.bxc4 Rd8 46.Rb1 Rd7 47.Rb3 Kh5 48.Kd2 Kg4 49.Ke2 f4 50.gxf4 gxf4
+51.Ra3 f3+  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "8"]
+[White "Bogoljubow, Efim"]
+[Black "Saemisch, Fritz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E06"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.d4 c5 7.b3 Nc6 8.cxd5 Nxd5
+9.e4 Nf6 10.e5 Nd7 11.Bb2 cxd4 12.Bxd4 Nxd4 13.Qxd4 Nxe5 14.Qe4 Nxf3+ 15.Qxf3 Bf6
+16.Nc3 Qa5 17.Rac1 Bd4 18.Rfd1 e5 19.Rc2 Be6 20.Ne2 Rad8 21.Nxd4 Rxd4 22.Rxd4 exd4
+23.Qf4 b5 24.Rd2 Rd8 25.Rxd4 Rxd4 26.Qxd4 h6 27.Be4 g6 28.a4 bxa4 29.bxa4 Bb3
+30.Bc6 Be6 31.h4 h5 32.Kg2 Qc7 33.Be4 a5 34.Bf3 Qd7 35.Qe4 Qc7 36.Qc6 Qxc6
+37.Bxc6 Kf8 38.Kf3 Ke7 39.Kf4 Kd6 40.Be8 Bb3 41.f3 Kc5 42.g4 Kb4 43.Kg5 Bxa4
+44.Bxf7 Bc2 45.gxh5 gxh5 46.f4 a4 47.f5 Bb3 48.Bxb3 Kxb3 49.f6 a3 50.f7 a2
+51.f8=Q a1=Q 52.Qf7+ Kb4 53.Kxh5 Qh1 54.Qe7+ Kb3 55.Kh6 Ka4 56.Qd7+ Ka3 57.Qd6+ Kb2
+58.h5 Kc1 59.Qf4+ Kd1 60.Qd4+ Kc2 61.Qf2+ Kd1 62.Kg5 Qd5+ 63.Qf5 Qg8+ 64.Kf4 Kc1
+65.h6 Qg2 66.Qg5 Qf2+ 67.Ke5+ Kd1 68.Qg4+  1-0
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "8"]
+[White "Richter, Kurt"]
+[Black "Preusse, August Georg"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d4 b5 7.dxe5 bxa4 8.exf6 Bxf6
+9.e5 Be7 10.Nc3 O-O 11.Qe2 d5 12.Rd1 Be6 13.Nxa4 Qb8 14.b3 Qb4 15.Bb2 Qf4
+16.Nd4 Nxd4 17.Bxd4 Rfe8 18.Qd2 Qxd2 19.Rxd2 f5 20.exf6 gxf6 21.Bc5 Bd8 22.Re1 Kf7
+23.Rd4 c6 24.Rh4 Bf5 25.Rxe8 Kxe8 26.c4 Bc7 27.cxd5 cxd5 28.Rh5 Bg6 29.Rxd5 Rd8
+30.Rxd8+ Bxd8 31.Nc3 Kd7 32.f4 Kc6 33.Bd4 Bd3 34.Kf2 h5 35.Ke3 Bf1 36.Ke4 Bxg2+
+37.Kf5 Bh3+ 38.Kg6 f5 39.Kxh5 Ba5 40.Kh4 Bxc3 41.Bxc3 Bg2 42.Kg5 Bh3 43.a4 Kd5
+44.Be1 Ke6 45.b4 Kf7 46.b5 axb5 47.axb5 Bf1 48.b6 Bd3 49.b7  1-0
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "9"]
+[White "Pirc, Vasja"]
+[Black "Lokvenc, Josef"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D69"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Nbd7 5.e3 Be7 6.Nf3 O-O 7.Rc1 c6 8.Bd3 dxc4
+9.Bxc4 Nd5 10.Bxe7 Qxe7 11.O-O Nxc3 12.Rxc3 e5 13.Nxe5 Nxe5 14.dxe5 Qxe5
+15.f4 Qf6 16.e4 Be6 17.e5 Qe7 18.Bxe6 Qxe6 19.Qb3 Qe7 20.Rd1 Rad8 21.Rcd3 g6
+22.Rxd8 Rxd8 23.Rxd8+ Qxd8 24.g3 Qd4+ 25.Kg2 Qe4+ 26.Kg1 Qd4+ 27.Kg2 Qe4+
+28.Kg1 Qd4+  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "9"]
+[White "Preusse, August Georg"]
+[Black "Bogoljubow, Efim"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C73"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Bxc6+ bxc6 6.d4 Nf6 7.Nc3 Nd7 8.O-O Be7
+9.Ne2 O-O 10.Ng3 Re8 11.Re1 exd4 12.Nxd4 Bb7 13.Ndf5 Bf6 14.f3 c5 15.Nh5 Ne5
+16.Nxf6+ Qxf6 17.Ne3 a5 18.Bd2 Qe6 19.Bc3 a4 20.a3 Ng6 21.Qd2 f6 22.Rad1 Kf7
+23.Nd5 Bxd5 24.Qxd5 Qxd5 25.Rxd5 Ne7 26.Rdd1 Nc6 27.Re2 Reb8 28.Rdd2 Rb7
+29.Kf2 Rab8 30.Rd1 Na7 31.Ba5 Nb5 32.c4 Nd4 33.Rdd2 Nb3  0-1
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "9"]
+[White "Saemisch, Fritz"]
+[Black "Kieninger, Georg"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D26"]
+
+1.Nf3 d5 2.c4 dxc4 3.e3 c5 4.Bxc4 e6 5.d4 Nf6 6.O-O cxd4 7.exd4 Be7 8.Nc3 Nbd7
+9.Re1 Nb6 10.Bb3 Nbd5 11.Ne5 O-O 12.Qf3 Qa5 13.Bg5 Nxc3 14.bxc3 Nd5 15.c4 Bxg5
+16.cxd5 Qb6 17.Nxf7 Rxf7 18.Qh5 Rf6 19.dxe6 Bxe6 20.Rxe6 Rxe6 21.Qxg5 Re8
+22.Qe3 Kf8 23.Bxe6 Rxe6 24.Qf4+ Rf6 25.Qb8+ Kf7 26.Rc1 Qxd4 27.Qxb7+ Kg6
+28.Qb1+ Kh6 29.Qc2 g6 30.h3 Rd6 31.Re1 Qd2 32.Re2 Qd1+ 33.Qxd1 Rxd1+ 34.Kh2 Rd3
+35.g3 Ra3 36.Kg2 Kg5 37.Kf1 h5 38.h4+ Kf5 39.Kg2 Kf6 40.Rd2 Kf5 41.Kf1 Kf6
+42.Ke1 Kf7 43.Kd1 Ke6 44.Ke2 Kf7 45.Kf1 Kf6 46.Rc2 Ke6 47.Kg2 Kf6 48.Rd2 Ke6
+49.f3 Kf6 50.Rf2 Kf5 51.Kh2 Rc3 52.Kh3 Ra3 53.Kg2 Rc3 54.Re2 Ra3 55.Rc2 Ra5
+56.Kh2 Ra3 57.Kg2 Kf6 58.Rb2 Rc3 59.f4 Ra3 60.Kh3  1/2-1/2
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "9"]
+[White "Petrovs, Vladimirs"]
+[Black "Heinicke, Herbert"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D71"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.g3 d5 5.Bg2 dxc4 6.Qa4+ c6 7.Qxc4 Be6 8.Qd3 Nbd7
+9.Nf3 Nb6 10.O-O O-O 11.Rd1 h6 12.h3 a5 13.Ne5 Nfd7 14.Ng4 Kh7 15.e4 Qc8
+16.Be3 Nc4 17.Qe2 h5 18.Nh2 Nxe3 19.Qxe3 Nf6 20.Na4 Rb8 21.d5 cxd5 22.Nb6 Qd8
+23.e5 Nd7 24.Nxd5 Bxe5 25.Nf3 Bxb2 26.Ng5+ Kg7 27.Rab1 Be5 28.Nf4 Bxa2 29.Rxd7 Qxd7
+30.Qxe5+ f6 31.Nge6+ Kf7 32.Qe4 Rg8 33.Re1 Rbc8 34.h4 Rc6 35.Nd4 Rd6 36.Nf3 e5
+37.Bh3 Qc6 38.Qe3 Rgd8 39.Bg2 exf4 40.Qxf4 Qc7 41.Qh6 Rg8 42.Rc1 Qd7 43.Bh3 Qxh3
+44.Qf4 Ke7 45.Re1+ Be6 46.Nd4 Rgd8 47.Qh6 Rxd4  0-1
+
+[Event "Bad Harzburg"]
+[Site "Bad Harzburg"]
+[Date "1938.??.??"]
+[Round "9"]
+[White "Eliskases, Erich Gottlieb"]
+[Black "Richter, Kurt"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A34"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 b6 4.g3 Bb7 5.Bg2 e5 6.O-O d6 7.d3 Qc8 8.Ng5 Bxg2
+9.Kxg2 Qc6+ 10.Kg1 h6 11.Nge4 h5 12.f4 h4 13.Nxf6+ gxf6 14.Nd5 hxg3 15.hxg3 Nd7
+16.e4 exf4 17.Bxf4 O-O-O 18.a3 Kb7 19.b4 f5 20.b5 Qc8 21.exf5 Ne5 22.Bxe5 dxe5
+23.Qf3 Kb8 24.Qe4 Bd6 25.Kg2 Rh5 26.g4 Rg5 27.Kf3 Rdg8 28.Ne3 Bc7 29.Rh1 Rd8
+30.Nd5 Qd7 31.Rag1 Rdg8 32.a4 Qd8 33.Rg3 Rh8 34.Rgh3 Rgg8 35.Rh5 Rxh5 36.Rxh5 Bd6
+37.f6 Qd7 38.Qf5 Qb7 39.Rh7 Rd8 40.Qh5 Rf8 41.Rh8 Qc8 42.Rxf8 Qxf8 43.Qh7 Qe8
+44.Ke4 Qc8 45.Qh5 Qe8 46.g5 Kb7 47.Ne3 a6 48.Nf5 Bc7 49.Ne7 axb5 50.axb5 Bd6
+51.g6 fxg6 52.Qxg6 Qh8 53.Kd5 Bc7 54.Ke6 Qh3+ 55.Qf5 Qh6 56.Kd7 Kb8 57.Qe6 Qf8
+58.Qg8  1-0

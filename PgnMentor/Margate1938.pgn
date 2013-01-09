@@ -1,0 +1,811 @@
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "1"]
+[White "Book, Eero"]
+[Black "Alexander, Conel Hughes"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C86"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 b5 7.Bb3 d6 8.a4 Bg4
+9.c3 O-O 10.axb5 axb5 11.Rxa8 Qxa8 12.Qxb5 Na5 13.Bc2 Nxe4 14.Nxe5 Rb8 15.Bxe4 Rxb5
+16.Bxa8 Rxe5 17.d4 Re2 18.Nd2 Bf6 19.b4 Re8 20.Be4 Nc4 21.Nxc4 Rxe4 22.f3 Bxd4+
+23.Kh1 Be6 24.fxe4 Bxc4 25.Rf3 Be5 26.Bf4 Bf6 27.Re3 Be7 28.e5 d5 29.Re1 Kf8
+30.Ra1 Ke8 31.Ra8+ Kd7 32.Rg8 g6 33.Rg7 Ke6 34.Rxh7 c5 35.bxc5 Bxc5 36.h4 d4
+37.cxd4 Bxd4 38.h5 Kf5 39.Bg3 Kg4 40.hxg6 Kxg3 41.gxf7 Bxf7 42.Rg7+ Kh4 43.Rxf7 Bxe5
+44.Re7 Bd6 45.Rg7 Be5 46.Rg8 Bf4 47.Kg1  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "1"]
+[White "Petrovs, Vladimirs"]
+[Black "Golombek, Harry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C90"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 Na5
+9.Bc2 c5 10.d3 O-O 11.Nbd2 Nc6 12.Nf1 d5 13.Bg5 dxe4 14.dxe4 Be6 15.Ne3 Qxd1
+16.Raxd1 Rad8 17.Bxf6 Bxf6 18.Nd5 Bg4 19.Re3 c4 20.h3 Be6 21.Re2 Rd7 22.Nxf6+ gxf6
+23.Rxd7 Bxd7 24.Rd2 Be6 25.Rd6 Rc8 26.Nh4 Kf8 27.Nf5 Bxf5 28.exf5 Ke7 29.Rd5 Rd8
+30.Be4 Rxd5 31.Bxd5 Nd8 32.Kh2 Kd6 33.Be4 Nc6 34.Kg3 Ne7 35.Kg4 Kc5 36.Kh5 Ng8
+37.g4 a5 38.a3 a4 39.h4 h6 40.g5 hxg5 41.hxg5 fxg5 42.Kxg5  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "1"]
+[White "Sergeant, Edward G"]
+[Black "Thomas, George Alan"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B38"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7 6.Nc3 Nc6 7.Be3 Bd7 8.Be2 Rc8
+9.O-O Nf6 10.f3 O-O 11.Qd2 a6 12.Rac1 Ne8 13.f4 Nxd4 14.Bxd4 Qa5 15.Rfd1 Be6
+16.b3 Bxd4+ 17.Qxd4 Ng7 18.Bf3 b5 19.cxb5 axb5 20.b4 Qa6 21.Nd5 Bxd5 22.Qxd5 Qb6+
+23.Kh1 Rxc1 24.Rxc1 Qe3 25.Rd1 Ne6 26.Qxb5 Nxf4 27.Qf1 Rc8 28.Qe1 Qxe1+ 29.Rxe1 Nd3
+30.Ra1 Nxb4 31.a4 Ra8 32.a5 e5 33.Be2 Nc2 34.Ra4 Nd4 35.Bc4 Ra7 36.a6 Kf8
+37.Kg1 Ne6 38.Rb4 Nc5 39.Rb6 Ke7 40.g4 Nd7 41.Rb2 Kd8 42.g5 Nc5 43.Rf2 Ne6
+44.h4 Nf4 45.Ra2 Ne6 46.Kf2 Kc7 47.Ke3 Kb6 48.Rb2+ Kc7 49.Bd5 Rxa6 50.Rb7+ Kd8
+51.Rxf7 Ra3+ 52.Kf2 Nf4 53.Rxh7  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "1"]
+[White "Spielmann, Rudolf"]
+[Black "Menchik, Vera"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.c3 Nc6 7.f4 Qb6 8.Nf3 f6
+9.a3 fxe5 10.fxe5 cxd4 11.cxd4 Be7 12.Nf4 O-O 13.Bd3 Rxf4 14.Bxf4 Qxb2 15.O-O Nf8
+16.Bg5 Bxg5 17.Nxg5 Qxd4+ 18.Kh1 Bd7 19.Qf3 Nxe5 20.Qxf8+  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "1"]
+[White "Alekhine, Alexander"]
+[Black "Milner Barry, Philip Stuart"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A13"]
+
+1.Nf3 d5 2.c4 e6 3.g3 Nf6 4.Bg2 c5 5.cxd5 Nxd5 6.O-O Be7 7.d4 cxd4 8.Nxd4 O-O
+9.e4 Nc7 10.Nc3 e5 11.Nf5 Nc6 12.Be3 Be6 13.Nd5 Nxd5 14.Nh6+ gxh6 15.exd5 Bxd5
+16.Bxd5 Qd6 17.Rc1 Rfd8 18.Qg4+ Qg6 19.Qxg6+ hxg6 20.Bxc6 bxc6 21.Rxc6 Rac8
+22.Rfc1 Rxc6 23.Rxc6 Rd1+ 24.Kg2 Rb1 25.b3 a5 26.Ra6 Bb4 27.Bxh6 Rb2 28.Bg5 Rxa2
+29.Bf6 g5 30.Bxe5 Bc5 31.Rf6 Be7 32.Rc6 f5 33.Rc7 Kf8 34.Bd4 Ke8 35.Ra7 g4
+36.Bb6 Bb4 37.h4 gxh3+ 38.Kxh3 Ra3 39.Kh4 Rxb3 40.Be3 Rd3 41.Kg5 Rd5 42.Kf6 Bc3+
+43.Kg6 Bb2 44.Bg5 Bd4 45.Re7+ Kf8 46.Re6 Rd7 47.Bh6+ Bg7 48.Bf4 Rd8 49.Ra6 Bc3
+50.Kxf5 Rc8 51.Bd6+ Kg8 52.f4  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "2"]
+[White "Petrovs, Vladimirs"]
+[Black "Menchik, Vera"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A11"]
+
+1.c4 Nf6 2.g3 c6 3.b3 d5 4.Bb2 g6 5.Bg2 Bg7 6.Nf3 O-O 7.O-O Nbd7 8.Qc2 Re8
+9.d4 Nf8 10.Nbd2 Bf5 11.Qd1 Qa5 12.a3 Rad8 13.b4 Qc7 14.Qb3 Ne4 15.Rfd1 Nxd2
+16.Rxd2 Be4 17.Rc1 dxc4 18.Qxc4 Qd6 19.Rcd1 Bh6 20.e3 Qd5 21.Qxd5 cxd5 22.Rc1 Rc8
+23.Rdd1 Nd7 24.Bh3 e6 25.Ne5 Nb6 26.Kf1 Bc2 27.Rd2 Ba4 28.Rc5 Bf8 29.Rxc8 Rxc8
+30.Bg4 Bd6 31.Be2 f6 32.Nf3 Nc4 33.Bxc4 Rxc4 34.Ne1 b6 35.f3 Kf7 36.Kf2 Ke7
+37.Nd3 Kd7 38.e4 Rc2 39.Ke3 Rxd2 40.Kxd2 Bb5 41.e5 Bxd3 42.Kxd3 fxe5 43.dxe5 Bf8
+44.b5 Bc5 45.a4 Bg1 46.h3 Bh2 47.g4 Bf4 48.Kd4 Kc7 49.Kd3 Kb7 50.Bd4 a5 51.Ke2 Kc7
+52.Kf2 Kb7 53.h4 h5 54.Bc3 Kc7 55.Bb2 Kb7 56.Ba1  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "2"]
+[White "Golombek, Harry"]
+[Black "Sergeant, Edward G"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D66"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 O-O 7.Rc1 c6 8.Bd3 h6
+9.Bh4 dxc4 10.Bxc4 b5 11.Bd3 a6 12.a4 b4 13.Nb1 Bb7 14.O-O c5 15.Nbd2 cxd4
+16.exd4 Nd5 17.Bxe7 Qxe7 18.Re1 Rac8 19.Nc4 Nf4 20.Be4 Bxe4 21.Rxe4 Nd5 22.a5 Nc3
+23.bxc3 Rxc4 24.cxb4 Qxb4 25.Rxc4 Qxc4 26.Qa1 Rb8 27.Re1 Qb4 28.h3 Rb5 29.Qc1 Qxa5
+30.Qc8+ Nf8 31.Rc1 Qb6 32.Rc6 Qb8 33.Qxb8 Rxb8 34.Rxa6 Ng6 35.Ra7  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "2"]
+[White "Alexander, Conel Hughes"]
+[Black "Spielmann, Rudolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 Bxf6 7.Nf3 b6 8.Bb5+ Bd7
+9.Qe2 Bxb5 10.Qxb5+ c6 11.Qd3 Be7 12.O-O-O Nd7 13.Rhe1 h6 14.Kb1 Qc7 15.c4 O-O
+16.Qe3 Nf6 17.Nxf6+ Bxf6 18.g4 c5 19.d5 exd5 20.Rxd5 Qc6 21.Rg1 Rae8 22.Qd3 Re6
+23.g5 hxg5 24.Nxg5 Bxg5 25.Rdxg5 g6 26.h4 Rfe8 27.a3 Qe4 28.Qxe4 Rxe4 29.h5 Re1+
+30.Rxe1 Rxe1+ 31.Ka2 Kg7 32.hxg6 fxg6 33.Kb3 Re2 34.Rg2 Kf6 35.Kc3 Kf5 36.b4 g5
+37.Kb3 Re4 38.bxc5 bxc5 39.Rg3 Rf4 40.Rd3 Rxf2 41.Rd5+ Kg6 42.Rxc5 g4 43.Rc8 Rf7
+44.Rd8 Rg7 45.c5 g3 46.Rd1 Kf5 47.Kc4 g2 48.Rg1 Ke6 49.Kb5 Kd7 50.a4 Kc7
+51.Ka6 Rg4 52.Ka5 Kc6  0-1
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "2"]
+[White "Milner Barry, Philip Stuart"]
+[Black "Book, Eero"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C16"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 b6 5.Qg4 Bf8 6.Bg5 Qd7 7.O-O-O Ba6 8.Nh3 h6
+9.Be3 Bxf1 10.Rhxf1 Nc6 11.f4 Nge7 12.Qe2 h5 13.Ng5 Nf5 14.Nf3 O-O-O 15.Bf2 Na5
+16.Qa6+ Kb8 17.Nh4 Ne7 18.Be1 c6 19.Na4 Nb7 20.Rf3 Nc8 21.b4 g6 22.Rb3 Bh6
+23.Bd2 Qe7 24.Nf3 Rhf8 25.Nb2 Qc7 26.a4 Ne7 27.Nd3 Rc8 28.Kb2 Ka8 29.Ra1 Nd8
+30.b5 cxb5 31.Rc3 Qb7 32.Rxc8+ Qxc8 33.Qxc8+ Nxc8 34.axb5 Kb8 35.Nb4 a5 36.bxa6 Na7
+37.Kb3 Ndc6 38.Nxc6+ Nxc6 39.c4 Rd8 40.g3 dxc4+ 41.Kxc4 Rd5 42.Rb1 Ka7 43.Rb5 Rd7
+44.d5 exd5+ 45.Rxd5 Rc7 46.Kb5 Ne7 47.Rd6 Rc5+ 48.Ka4 Kxa6 49.Rd7 Nc6 50.Rxf7 Rd5
+51.Rf6 Kb7 52.Rf7+ Ka6 53.Rf6 Kb7 54.Rd6 b5+ 55.Kb3 Rxd6 56.exd6 Kc8 57.Bb4 Nxb4
+58.Kxb4 Kd7 59.Kxb5 Kxd6 60.Nh4 Ke6 61.Nxg6 Kf5 62.Nh4+ Kg4 63.Ng2 Kh3 64.Ne3 Kxh2
+65.Nf5 h4 66.Nxh6 Kxg3  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "2"]
+[White "Thomas, George Alan"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C86"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 d6 7.c3 O-O 8.d4 Bd7
+9.Bb3 Qe8 10.dxe5 Nxe5 11.Nxe5 dxe5 12.Bg5 Bc6 13.Nd2 Nd7 14.Bxe7 Qxe7 15.Rfd1 Nc5
+16.Bd5 Ba4 17.Re1 Bb5 18.Bc4 Rfd8 19.Bxb5 axb5 20.Nb3 Nd3 21.Red1 Nf4 22.Qf3 Rxd1+
+23.Qxd1 Rd8 24.Qf1 b4 25.Rd1 bxc3 26.bxc3 c6 27.g3 Nh3+ 28.Kg2 Ng5 29.Rxd8+ Qxd8
+30.Nc5 Qe7 31.Qd3 h6 32.h4 Nh7 33.Nd7 b5 34.Nb8 Qc7 35.Na6 Qb6 36.Nb4 Nf6
+37.Kf3 h5 38.Qe3 c5 39.Nd3 Qd6 40.Ke2 Qe6 41.Ke1 Qxa2 42.f3 Qg2 43.Nxc5 Qxg3+
+44.Qf2 Qh3 45.Nd3 Nd7 46.Ke2 f6 47.Qa7 Nf8 48.Qb7 Qg2+ 49.Nf2 Ng6 50.Qxb5 Nf4+  0-1
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "3"]
+[White "Menchik, Vera"]
+[Black "Alexander, Conel Hughes"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D40"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.Nc3 c5 5.e3 Nc6 6.Bd3 a6 7.O-O dxc4 8.Bxc4 b5
+9.Bd3 Bb7 10.a4 Qa5 11.axb5 Qxa1 12.bxc6 Bxc6 13.Ne5 Bd7 14.Qf3 Rb8 15.Nc4 Bb5
+16.Bd2 Bxc4 17.Rxa1 Bxd3 18.e4 Bc4 19.Bg5 Nd7 20.d5 e5 21.Bc1 f6 22.Nd1 Bb5
+23.b3 Be7 24.Ne3 Bd3 25.Nf5 Rxb3 26.Nxg7+ Kd8 27.Rxa6 Rb1 28.Qxd3 Rxc1+ 29.Qf1 Rxf1+
+30.Kxf1 Kc8 31.Rc6+ Kb7 32.Nf5 Bf8 33.Ke2 Rg8 34.g3 Rg6 35.h4 h5 36.f4 exf4
+37.gxf4 Rg2+ 38.Kf3 Rb2 39.Ng3 Rb3+ 40.Kf2 Rb2+ 41.Kf3  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "3"]
+[White "Book, Eero"]
+[Black "Thomas, George Alan"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A29"]
+
+1.c4 Nf6 2.Nc3 e5 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nb6 6.Nf3 Nc6 7.d3 Be7 8.O-O O-O
+9.a3 a5 10.Be3 Kh8 11.Rc1 f5 12.Nb5 Be6 13.Nxe5 Bd5 14.Nxc6 bxc6 15.Nc3 Bxg2
+16.Kxg2 Nd5 17.Nxd5 Qxd5+ 18.Kg1 Bd6 19.Qa4 f4 20.Bxf4 Bxf4 21.gxf4 Rf6 22.Qe4 Qf7
+23.Rxc6 Rxf4 24.Rxc7 Rxe4 25.Rxf7 Rxe2 26.b4 Kg8 27.Rb7 axb4 28.axb4 Rd2
+29.b5 Rxd3 30.Rc1 Rd5 31.b6 h6 32.Re7 Rb8 33.b7 Kh7 34.Rcc7  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "3"]
+[White "Spielmann, Rudolf"]
+[Black "Milner Barry, Philip Stuart"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C36"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Nf6 5.Nc3 Nxd5 6.Nxd5 Qxd5 7.d4 Be7 8.c4 Qe4+
+9.Be2 Nc6 10.O-O Bf5 11.Re1 O-O-O 12.Bf1 Qc2 13.Qxc2 Bxc2 14.Bxf4 Rhe8 15.d5 Bc5+
+16.Kh1 Nb4 17.a3 Nd3 18.Bxd3 Bxd3 19.Ne5 Bg6 20.Nxg6 hxg6 21.Be5 Bf2 22.Rf1 Rxe5
+23.Rxf2 f6 24.Kg1  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "3"]
+[White "Sergeant, Edward G"]
+[Black "Petrovs, Vladimirs"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B84"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 a6 7.Be3 Qc7 8.O-O b5
+9.Bf3 Bb7 10.e5 dxe5 11.Ndxb5 axb5 12.Nxb5 Qc8 13.Qd6 Na6 14.Bxb7 Qxb7 15.Qxe5 Qd5
+16.Qxd5 Nxd5 17.Bd4 f6 18.c4 Nf4 19.Rfe1 e5 20.Rad1 Kf7 21.Bc3 Bc5 22.Nd6+ Bxd6
+23.Rxd6 Rhd8 24.Rxd8 Rxd8 25.g3 Nd3 26.Rd1 e4 27.b4 Rc8 28.Rxd3 exd3 29.c5 Nxc5  0-1
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "3"]
+[White "Alekhine, Alexander"]
+[Black "Golombek, Harry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E20"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 d5 5.Bg2 O-O 6.Nf3 c5 7.cxd5 Nxd5 8.Bd2 Nc6
+9.a3 Nxc3 10.bxc3 Ba5 11.O-O cxd4 12.cxd4 Bxd2 13.Qxd2 Qe7 14.Qb2 Rd8 15.Rfc1 Qd6
+16.e3 Rb8 17.Ng5 Bd7 18.Qc2 f5 19.d5 Ne7 20.dxe6 Bxe6 21.Rd1 Qe5 22.Bxb7 h6
+23.Nxe6 Qxe6 24.Qc7 Rxd1+ 25.Rxd1 Re8 26.Bf3 a6 27.Rd6 Qe5 28.Qc4+ Kh7 29.Rxa6 Rc8
+30.Qf7 Rc1+ 31.Kg2  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "4"]
+[White "Golombek, Harry"]
+[Black "Book, Eero"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D47"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 e6 5.Nc3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 b4
+9.Nb1 c5 10.O-O Bb7 11.Nbd2 Be7 12.Qe2 O-O 13.Rd1 Qc7 14.Nf1 Ne4 15.Bd2 Bf6
+16.Be1 Qb6 17.N1d2 Nxd2 18.Bxd2 Bxf3 19.Qxf3 cxd4 20.Qh3 g6 21.e4 Nc5 22.Qf3 Bg7
+23.Bc4 a5 24.h4 Rac8 25.Rac1 f5 26.exf5 gxf5 27.Re1 Kh8 28.Bf4 Ne4 29.Bd3 Rxc1
+30.Rxc1 e5 31.Bh2 Qh6 32.Rc7 Qxh4 33.Rxg7 Kxg7 34.Bxe5+ Kg6 35.g4  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "4"]
+[White "Milner Barry, Philip Stuart"]
+[Black "Menchik, Vera"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C13"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 c5 7.Bxe7 Kxe7 8.f4 cxd4
+9.Qxd4 Nc6 10.Qd2 Qa5 11.Nf3 a6 12.O-O-O Kf8 13.Rh3 b5 14.Nd4 Nxd4 15.Qxd4 b4
+16.Ne2 Qc5 17.Qd2 a5 18.Nd4 Ba6 19.f5 exf5 20.Bxa6 Rxa6 21.Nxf5 Rc6 22.Nd4 Rg6
+23.h5 Rg4 24.Nb3 Qc7 25.Qxd5 Ke7 26.Rf3 Nxe5 27.Re1 f6 28.Nc5 Re8 29.Qe6+ Kf8
+30.Rxe5 Rxe6 31.Nxe6+ Ke7 32.Nxc7+ fxe5 33.Nd5+  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "4"]
+[White "Sergeant, Edward G"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C76"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Bd7 6.c3 g6 7.d4 Bg7 8.dxe5 dxe5
+9.Be3 Nf6 10.Nbd2 Qe7 11.b4 b6 12.h3 O-O 13.Bb3 a5 14.b5 Nd8 15.a4 Nb7 16.Bg5 Nc5
+17.Bd5 Rad8 18.Nc4 h6 19.Bxf6 Bxf6 20.Qc1 Kg7 21.Qe3 Nxa4 22.Rxa4 Bxb5 23.Raa1 Rxd5
+24.exd5 Bxc4 25.Rfd1 Rd8 26.Qe4 Bb3 27.Rd2 Qc5 28.Nxe5 Qxc3  0-1
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "4"]
+[White "Thomas, George Alan"]
+[Black "Spielmann, Rudolf"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C14"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.Nb5 Nb6 8.c3 a6
+9.Na3 c5 10.Nc2 Nc6 11.f4 O-O 12.Nf3 f5 13.Be2 Na4 14.Rb1 cxd4 15.cxd4 Bd7
+16.Qd2 b5 17.O-O b4 18.Rfc1 a5 19.Nce1 Rfc8 20.Rc2 Qd8 21.Nd3 Qb6 22.Nf2 Rc7
+23.Kh1 Rac8 24.Rbc1 h6 25.Nd3 Na7 26.Rxc7 Rxc7 27.Bd1 Bb5 28.Rxc7 Qxc7 29.Bxa4 Bxa4
+30.Nc5 Qc6 31.a3 bxa3 32.bxa3 Qb5 33.Qc1 Bb3 34.Nxe6 Bc4 35.Qe1 Qb6 36.Nc5 Nc6
+37.e6 Qc7 38.Qh4 Be2 39.Qe1 Bxf3 40.gxf3 Qxf4 41.e7 Qxf3+ 42.Kg1 Qg4+ 43.Kh1 Qf3+  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "4"]
+[White "Alexander, Conel Hughes"]
+[Black "Petrovs, Vladimirs"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B84"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 a6 7.a4 b6 8.Bf3 Nfd7
+9.O-O Bb7 10.e5 d5 11.Bh5 g6 12.Bg4 Qe7 13.f4 Bg7 14.b3 O-O 15.Ba3 Nc5 16.b4 Ncd7
+17.Qd2 Rc8 18.Nd1 Qe8 19.Ne3 Nf8 20.Bb2 Nc6 21.Rae1 Nxd4 22.Bxd4 Qxa4 23.Bxb6 Qb5
+24.Bd4 a5 25.bxa5 Qxa5 26.Qxa5 Rxa5 27.Ra1 Rxa1 28.Rxa1 Ra8 29.Rxa8 Bxa8
+30.Bf3 g5 31.fxg5 h6 32.gxh6 Bxh6 33.Ng4 Bg7 34.c4 Ng6 35.cxd5 Bxd5 36.Bxd5 exd5
+37.Kf2 Kh7 38.Ke3 Nf8 39.Bc5 Ne6 40.Bd6 Kg6 41.Nf2 Bh6+ 42.Kf3 Nd4+ 43.Kg4 Nf5
+44.Nd3 Ne3+ 45.Kf3 Kf5 46.h3 Nc4 47.g4+ Kg5 48.Kg3 Bg7 49.h4+ Kg6 50.h5+ Kh7
+51.Kf4 f6 52.Bc7 Bh6+ 53.Kg3 fxe5 54.Nxe5 Nd2 55.Nf7 Ne4+ 56.Kh4 Be3 57.g5 d4
+58.g6+ Kg8 59.Be5 Nd6 60.Nxd6  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "5"]
+[White "Petrovs, Vladimirs"]
+[Black "Alekhine, Alexander"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E02"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ Nbd7 6.Nf3 a6 7.Nc3 Rb8 8.Qxc4 b5
+9.Qd3 Bb7 10.O-O c5 11.dxc5 Nxc5 12.Qxd8+ Rxd8 13.Bf4 b4 14.Nd1 Nd5 15.Rc1 Nxf4
+16.gxf4 Bd6 17.Ne5 Bxg2 18.Kxg2 b3 19.axb3 f6 20.Nc6 Rc8 21.Nd4 Kd7 22.Ne3 Bxf4
+23.Rfd1 Ke7 24.b4 Bxe3 25.fxe3 Nd7 26.Ra1 Nb8 27.b5 axb5 28.Ra7+ Kd6 29.Nxb5+ Kc5
+30.Nd6 Rc6 31.b4+ Kxb4 32.Rb7+ Kc3 33.Ne4+ Kc2 34.Rbb1  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "5"]
+[White "Spielmann, Rudolf"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B50"]
+
+1.e4 c5 2.Nf3 d6 3.b4 cxb4 4.d4 Nf6 5.Bd3 g6 6.Nbd2 Bg7 7.Rb1 a5 8.O-O O-O
+9.Re1 Nc6 10.d5 Nb8 11.a4 bxa3 12.Bxa3 Nbd7 13.Nc4 Ng4 14.Qd2 b5 15.Rxb5 Ba6
+16.Rbb1 Qc7 17.Qe2 Rac8 18.Nfd2 Bxc4 19.Nxc4 Nge5 20.Nxe5 Nxe5 21.Ba6 Rb8
+22.Bb5 h5 23.c4 Rfc8 24.h3 Bh6 25.Rb3 Qa7 26.Kh1 Rc7 27.Rf1 Rbc8 28.c5 dxc5
+29.f4 c4 30.Rg3 Nd3 31.d6 exd6 32.Bxd6 Rb7 33.Qxh5 Nf2+ 34.Kh2 Bg7 35.Qd5 Rxb5
+36.Qxb5 Nxe4 37.Rxg6 fxg6 38.Qd5+ Qf7 39.Qxe4 c3 40.f5 Qc4 41.Qe6+ Qxe6 42.fxe6 c2
+43.e7 Bh6 44.Ba3 Re8 45.g4 Rxe7 46.Bxe7 c1=Q 47.Rxc1 Bxc1  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "5"]
+[White "Book, Eero"]
+[Black "Sergeant, Edward G"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D35"]
+
+1.c4 Nf6 2.Nc3 e6 3.d4 d5 4.Bg5 Be7 5.e3 Nbd7 6.cxd5 exd5 7.Bd3 O-O 8.Nf3 c5
+9.O-O b6 10.Ne5 Bb7 11.f4 Ne4 12.Bxe4 dxe4 13.Bxe7 Qxe7 14.Nxd7 Qxd7 15.dxc5 Qc6
+16.Qd6 bxc5 17.Qxc6 Bxc6 18.Rfd1 Rfd8 19.Rxd8+ Rxd8 20.Rd1 Rxd1+ 21.Nxd1 f5
+22.Kf2 Kf7 23.Ke1 Ke6 24.Kd2 Kd5 25.Nc3+ Kc4 26.Kc2 a5 27.a3 a4 28.Ne2 Bd5
+29.Ng3 g6 30.Ne2 Be6 31.Nc3 Bd7 32.Nd1 Be6 33.Nf2 h6 34.g3 Bd7  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "5"]
+[White "Menchik, Vera"]
+[Black "Thomas, George Alan"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D74"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 g6 4.cxd5 Nxd5 5.g3 Bg7 6.Bg2 O-O 7.O-O c6 8.Re1 Qb6
+9.Na3 a5 10.e4 Nf6 11.Nc4 Qd8 12.Bg5 h6 13.Bd2 b5 14.Nce5 Nfd7 15.Nxd7 Qxd7
+16.Qc1 Kh7 17.a3 Rd8 18.Bc3 Qc7 19.Qe3 Nd7 20.d5 cxd5 21.Bxg7 Kxg7 22.exd5 Nf6
+23.Rac1 Qa7 24.Qxa7 Rxa7 25.Nd4 Rad7 26.Nc6 Re8 27.Rc5 Ba6 28.Nxa5 b4 29.axb4 e6
+30.b5 Bb7 31.dxe6 Bxg2 32.Kxg2 fxe6 33.Rc6 Rd5 34.Rc7+ Kf8 35.Nc4 Re7 36.Rxe7 Kxe7
+37.b6 Rb5 38.Ra1 Nd7 39.Ra7 e5 40.b7 Ke6 41.Ra6+ Ke7 42.Rb6  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "5"]
+[White "Alexander, Conel Hughes"]
+[Black "Milner Barry, Philip Stuart"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2 Qe7 6.d3 Nf6 7.Bg5 Nbd7 8.Nc3 Qxe2+
+9.Bxe2 h6 10.Bh4 g5 11.Bg3 Bg7 12.Nd4 Nb6 13.Ndb5 Nfd5 14.Nxd5 Nxd5 15.Bf3 a6
+16.Nxd6+ cxd6 17.Bxd5 Bxb2 18.Rb1 Bc3+ 19.Ke2 O-O 20.Rhd1 Re8+ 21.Kf1 Re7
+22.Rb6 Ba5 23.Rb3 Ra7 24.c4 Rd7 25.a4 b6 26.f3 Bb7 27.Bxb7 Raxb7 28.Be1 Bxe1
+29.Rxe1 d5 30.Reb1 dxc4 31.dxc4 Rbc7 32.Rxb6 Rxc4 33.Rxa6 Rd2 34.Re1 Rcc2
+35.Rxh6 Rxg2  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "6"]
+[White "Petrovs, Vladimirs"]
+[Black "Milner Barry, Philip Stuart"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E00"]
+
+1.d4 Nf6 2.c4 e6 3.g3 Bb4+ 4.Bd2 Bxd2+ 5.Qxd2 O-O 6.Bg2 d6 7.Nc3 e5 8.Nf3 Nc6
+9.Rd1 Bg4 10.O-O Qe7 11.d5 Na5 12.b3 b6 13.Ne1 Rae8 14.f3 Bc8 15.Nd3 Nd7
+16.Nb5 a6 17.Nxc7 Rd8 18.Rc1 Nc5 19.Na8 Qa7 20.b4 Nab3 21.axb3 Nxb3 22.Qe3 Nxc1
+23.Rxc1 Qxa8 24.Qxb6 Qb7 25.Qxb7 Bxb7 26.e4 Rc8 27.c5 Rc7 28.f4 f6 29.Kf2 Kf7
+30.Ke3 Ke7 31.fxe5 fxe5 32.Nxe5 dxe5 33.d6+ Kd8 34.dxc7+ Kxc7 35.Rf1 Rxf1
+36.Bxf1 Kc6 37.Bc4 Bc8 38.Bf7 Bd7 39.Kd3 Kb5 40.Kc3 a5 41.Bc4+ Ka4 42.b5 Bxb5
+43.Bb3+ Ka3 44.Bd5 Ba6 45.Ba8 Ka4 46.Bc6+ Ka3 47.Bd7 a4 48.c6 Bb5 49.Be8 Ba6
+50.c7 Bc8 51.Bc6 h6 52.h4 g5 53.h5 g4 54.Be8 Be6 55.Bg6 Ka2 56.Bf5 Ka3 57.c8=Q  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "6"]
+[White "Golombek, Harry"]
+[Black "Menchik, Vera"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D95"]
+
+1.d4 Nf6 2.c4 c6 3.Nf3 d5 4.e3 g6 5.Nc3 Bg7 6.Qb3 O-O 7.Bd2 e6 8.Rc1 Nbd7
+9.Bd3 a6 10.O-O dxc4 11.Qxc4 Nd5 12.Rfd1 N5b6 13.Qb3 e5 14.Ne4 Nd5 15.Bc4 exd4
+16.exd4 N7f6 17.Bg5 h6 18.Nxf6+ Nxf6 19.Ne5 hxg5 20.Bxf7+ Rxf7 21.Qxf7+ Kh8
+22.Qxg6 Qd5 23.Qxg5 Kg8 24.Rd3 Nh7 25.Qg6 Qe6 26.Qg3 Qh6 27.Re1 Bf5 28.Rf3 Qd2
+29.Rf1 Rf8 30.Nc4 Qg5 31.Qc7 Be6 32.Rg3 Qf6 33.Ne5 Ng5 34.h4 Ne4 35.Rg6  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "6"]
+[White "Alekhine, Alexander"]
+[Black "Book, Eero"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D28"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O Nc6 7.Qe2 a6 8.Nc3 b5
+9.Bb3 b4 10.d5 Na5 11.Ba4+ Bd7 12.dxe6 fxe6 13.Rd1 bxc3 14.Rxd7 Nxd7 15.Ne5 Ra7
+16.bxc3 Ke7 17.e4 Nf6 18.Bg5 Qc7 19.Bf4 Qb6 20.Rd1 g6 21.Bg5 Bg7 22.Nd7 Rxd7
+23.Rxd7+ Kf8 24.Bxf6 Bxf6 25.e5  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "6"]
+[White "Sergeant, Edward G"]
+[Black "Spielmann, Rudolf"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.Nc3 fxe4 5.Nxe4 Nf6 6.Nxf6+ gxf6 7.d4 d6 8.O-O Bd7
+9.Re1 Qe7 10.dxe5 dxe5 11.Bxc6 Bxc6 12.Nxe5 fxe5 13.Qh5+ Qf7 14.Rxe5+ Be7
+15.Rxe7+ Kxe7 16.Bg5+ Kf8 17.Bh6+ Kg8 18.Qg4+ Qg6 19.Qc4+ Qf7 20.Qg4+ Qg6
+21.Qc4+ Qf7 22.Qg4+  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "6"]
+[White "Thomas, George Alan"]
+[Black "Alexander, Conel Hughes"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A03"]
+
+1.f4 d5 2.Nf3 g6 3.e3 Bg7 4.Be2 Nf6 5.O-O O-O 6.Qe1 c5 7.d3 b6 8.Nbd2 Ng4
+9.Bd1 Ba6 10.h3 Nh6 11.Rb1 Nc6 12.a3 Qd6 13.e4 dxe4 14.Nxe4 Qc7 15.Nh4 c4
+16.b3 cxd3 17.c4 Nd4 18.a4 Bb7 19.Nc3 Qc6 20.Nd5 Rfe8 21.Nf3 Qc5 22.Be3 Bxd5
+23.cxd5 Nhf5 24.Kh2 Nxf3+ 25.Rxf3 Qxd5 26.b4 e5 27.Bb3 Qd7 28.Qd2 e4 29.Rff1 Bd4
+30.Bxd4 Qxd4 31.Rfd1 Rad8  0-1
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "7"]
+[White "Book, Eero"]
+[Black "Petrovs, Vladimirs"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C17"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Bd2 Nc6 6.Nb5 Bxd2+ 7.Qxd2 Nxd4 8.Nxd4 cxd4
+9.Qxd4 Ne7 10.Nf3 Nc6 11.Qe3 O-O 12.Bd3 f6 13.O-O Qb6 14.Qxb6 axb6 15.Rfe1 Nb4
+16.a3 Nxd3 17.cxd3 Bd7 18.Rac1 Rfc8 19.Kf1 Kf7 20.Ke2 Rc6 21.Kd2 Ra4 22.Rc3 Kg6
+23.Rb3 Kf7 24.Rc1 b5 25.Re1 Rc5 26.Rc3 Rc6 27.Rb3 Rc8 28.Rb4 Ke7 29.Rxa4 bxa4
+30.Rc1 Rxc1 31.Kxc1 Be8 32.h3 Bh5 33.g4 Be8 34.Kd2 h5 35.Ke3 b6 36.Kd4 Bg6
+37.Ne1 hxg4 38.hxg4 f5 39.g5 Be8 40.Ng2 Kf7 41.Nf4 Ke7 42.Kc3 Bd7 43.Kb4 Kf7
+44.b3 axb3 45.Kxb3 Ke7 46.Kb4 Kf7 47.a4 Ke7 48.d4 Bc6 49.a5 bxa5+ 50.Kxa5 Be8
+51.Kb4 Bd7 52.Nd3 Be8 53.Nc5 Bg6 54.f4 Bh5 55.Kb5 Be2+ 56.Kc6 Bd1 57.Kc7 Bc2
+58.Nb7 Ba4 59.Nd8 Be8 60.Nc6+ Kf7 61.Kd6 Kg6 62.Nd8 Kh5 63.Nxe6 Kg4  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "7"]
+[White "Menchik, Vera"]
+[Black "Sergeant, Edward G"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A13"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 d4 5.O-O c5 6.e3 Nc6 7.exd4 Nxd4 8.Nc3 Nxf3+
+9.Qxf3 Be7 10.d3 O-O 11.Bf4 a6 12.h3 Nd7 13.Qe2 Re8 14.Rad1 Nf8 15.Rfe1 Ng6
+16.Bc1 Qc7 17.d4 cxd4 18.Rxd4 Bd7 19.Ne4 Bc6 20.Qh5 Rad8 21.Rxd8 Rxd8 22.Ng5 Bxg5
+23.Qxg5 Bxg2 24.Kxg2 Qc6+ 25.Kh2 f6 26.Qe3 Ne5  0-1
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "7"]
+[White "Milner Barry, Philip Stuart"]
+[Black "Thomas, George Alan"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C30"]
+
+1.e4 e5 2.Nc3 Bc5 3.f4 d6 4.Nf3 Nc6 5.Na4 Qe7 6.Nxc5 dxc5 7.Bb5 Bd7 8.fxe5 Nxe5
+9.Bxd7+ Nxd7 10.O-O O-O-O 11.d3 h6 12.Qe1 g5 13.a3 Ngf6 14.b4 Ng4 15.Bb2 f6
+16.bxc5 Qxc5+ 17.Bd4 Qd6 18.h3 Nde5 19.Bxe5 Nxe5 20.Qe3 Kb8 21.Rab1 Rhg8
+22.Rb5 c6 23.Ra5 b6 24.Rb1 Nxf3+ 25.Qxf3 c5 26.Qf5 Ka8 27.Qh7 Qd7 28.Qxd7 Rxd7
+29.Rxb6 g4 30.hxg4 c4 31.Rxf6 cxd3 32.cxd3 Rxd3 33.Rf7 Rxg4 34.Raxa7+ Kb8
+35.Rfb7+ Kc8 36.Rh7 Kb8 37.Rag7 Rxg7 38.Rxg7 Rxa3 39.Kf2 Ra6 40.Kf3 Kc8 41.Kg4 Kd8
+42.Kf5 h5 43.g3 Ra1 44.Ke6 Rg1 45.Rg8+ Kc7 46.Rg5 Rh1 47.Rd5 Rh3 48.Rd7+ Kc8
+49.Rg7 h4 50.gxh4 Rxh4 51.Rg8+ Kc7 52.e5 Rh6+ 53.Ke7 Rh7+ 54.Ke8 Kc6 55.Rg6+ Kc7
+56.e6 Rh8+ 57.Kf7 Rh7+ 58.Rg7 Rh1 59.e7 Rf1+ 60.Ke8 Rf5 61.Rg3 Rf1 62.Rc3+ Kb7
+63.Rc5 Kb6 64.Rc4 Kb5 65.Rc8 Kb6 66.Kd7 Rd1+ 67.Ke6 Re1+ 68.Kf6 Rf1+ 69.Kg5  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "7"]
+[White "Alexander, Conel Hughes"]
+[Black "Golombek, Harry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B74"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Bg7 7.Be3 Nc6 8.Nb3 O-O
+9.O-O Be6 10.f4 Na5 11.f5 Bc4 12.Nxa5 Bxe2 13.Qxe2 Qxa5 14.g4 Qe5 15.Qf3 gxf5
+16.gxf5 Rac8 17.Bf4 Qc5+ 18.Kh1 Kh8 19.Rad1 b5 20.Be3 Qc6 21.Bd4 e5 22.Be3 Rg8
+23.Rf2 Bf8 24.Nd5 Nxd5 25.Rxd5 f6 26.a3 a6 27.Rdd2 Rc7 28.Rg2 Rcg7 29.Rxg7 Rxg7
+30.Rg2 Rxg2 31.Qxg2 Qc4 32.h4 d5 33.h5 Qxe4 34.Qxe4 dxe4 35.Kg2 Kg8 36.Kf2 Kf7
+37.Ke2 Ke8 38.c4 b4 39.a4 b3 40.Kd2 Bb4+ 41.Kd1 Kd7 42.Bb6 Kc6 43.Bd8 Kc5
+44.Bxf6 Kxc4 45.Ke2 Bc3 46.Be7 Bxb2 47.f6 Bc1 48.f7 Bh6 49.Bg5 Bf8 50.Kd2 Kb4
+51.a5 Kxa5 52.Kc3 Ka4 53.Bc1 e3 54.Kd3 Kb4 55.Bb2 a5 56.Kxe3 a4 57.Kd3 e4+  0-1
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "7"]
+[White "Spielmann, Rudolf"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B74"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 g6 7.Be3 Bg7 8.O-O O-O
+9.Nb3 a5 10.a4 Be6 11.Nd4 d5 12.exd5 Bxd5 13.Nxd5 Nxd5 14.Nxc6 bxc6 15.Bd4 e5
+16.Bc5 Re8 17.Bc4 Qc7 18.c3 Rad8 19.Qc2 e4 20.Rad1 Qe5 21.Rfe1 Qh5 22.Qe2 Qxe2
+23.Bxe2 Rb8 24.Ba3 Bf8 25.Bxf8 Kxf8 26.Rd2  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "8"]
+[White "Book, Eero"]
+[Black "Spielmann, Rudolf"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 d6 5.d4 exd4 6.Nxd4 Bd7 7.O-O Be7 8.Re1 O-O
+9.Bf1 Re8 10.b3 Bf8 11.Bb2 g6 12.Nd5 Bg7 13.c4 Nxd4 14.Bxd4 c5 15.Nxf6+ Bxf6
+16.Bxf6 Qxf6  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "8"]
+[White "Golombek, Harry"]
+[Black "Milner Barry, Philip Stuart"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D37"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Bf4 Be7 5.e3 O-O 6.Nc3 c6 7.Bd3 Nbd7 8.O-O Re8
+9.Qe2 Nf8 10.Ne5 N6d7 11.Rfd1 f6 12.Nf3 Ng6 13.Bg3 Ndf8 14.Qc2 Bd6 15.e4 Bxg3
+16.hxg3 Ne7 17.Qb3 Qa5 18.Rac1 dxc4 19.Bxc4 b5 20.Bf1 Bb7 21.d5 exd5 22.exd5 Nxd5
+23.Bxb5 Red8 24.Bc4 Rab8 25.Qc2 Kh8 26.Ne4 Qb4 27.a3 Qe7 28.Re1 Qc7 29.Nc5 Bc8
+30.Qe4 Qd6 31.Qd4 Ne6 32.Nxe6 Bxe6 33.Qxa7 Rxb2 34.Nd4 Bd7 35.Red1 Rbb8 36.Bxd5 cxd5
+37.Rc7 Ra8 38.Qc5 Qxc5 39.Rxc5 Kg8 40.Rxd5 Ba4 41.Ne6 Re8 42.Nc7  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "8"]
+[White "Sergeant, Edward G"]
+[Black "Alexander, Conel Hughes"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.Nc3 d6
+9.Nd5 Na5 10.Nxe7+ Qxe7 11.d3 c5 12.Bg5 h6 13.Bxf6 Qxf6 14.Bd5 Rb8 15.h3 Nb7
+16.Bxb7 Rxb7 17.Nh2 Qg6 18.Re3 f5 19.Rg3 Qf6 20.exf5 Bxf5 21.Qf3 Rbf7 22.Qe3 Be6
+23.Rf3 Qh4 24.Rxf7 Rxf7 25.a3 Bd5 26.Nf1 Bb7 27.f3 g5 28.Nd2 Qh5 29.Ne4 Qg6
+30.Rd1 Qe6 31.b3 Qe7 32.h4 Rf4 33.hxg5 hxg5 34.g4 d5 35.Qxc5 Qg7 36.Nd2 Qh7
+37.Kg2 Qf7 38.Qd6 Qe8 39.Qh6 Qe7 40.Rh1 Qg7 41.Qxg7+ Kxg7 42.Re1 Kf6 43.Kg3 Ke6
+44.Rh1 Rf7 45.Rh6+ Rf6 46.Rxf6+ Kxf6 47.b4 Ke6 48.Nb3 Bc8 49.Nc5+ Kd6 50.c3 a5
+51.d4 a4 52.Nd3 e4 53.Ne5 Be6 54.Kf2 Ke7 55.Ke3 exf3 56.Nxf3 Kf6 57.Ne5 Bf7  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "8"]
+[White "Thomas, George Alan"]
+[Black "Petrovs, Vladimirs"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be3 a6 7.a4 b6 8.Be2 Bb7
+9.f3 Be7 10.O-O O-O 11.Qd2 Nbd7 12.Bf2 Qc7 13.Na2 Nc5 14.b4 Ncd7 15.c4 Rfd8
+16.Rfc1 Ne8 17.Rab1 Ne5 18.Nb3 Nf6 19.Qe3 Nfd7 20.f4 Nc6 21.Bf3 a5 22.b5 Nb4
+23.Nxb4 axb4 24.Ra1 Nc5 25.Nxc5 dxc5 26.e5 Rd4 27.Bxb7 Qxb7 28.Qg3 Rd2 29.Be1 Bh4
+30.Qg4 h5 31.Qf3 Qxf3 32.gxf3 Bxe1 33.Rxe1 Rc2 34.Re4 b3  0-1
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "8"]
+[White "Alekhine, Alexander"]
+[Black "Menchik, Vera"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D54"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.e3 O-O 6.Rc1 Ne4 7.Bxe7 Qxe7 8.cxd5 Nxc3
+9.Rxc3 exd5 10.Bd3 c6 11.Qh5 f5 12.Ne2 Nd7 13.O-O Nf6 14.Qh4 Rf7 15.Rb3 Ne8
+16.Qxe7 Rxe7 17.Nf4 g5 18.Nh5 Be6 19.f4 g4 20.Kf2 Nd6 21.Rh1 Bf7 22.Ng3 Bg6
+23.h3 h5 24.hxg4 hxg4 25.Rc3 Kf7 26.b4 a6 27.a4 Kf6 28.Rc5 Re6 29.Ra5 Ree8
+30.Rc1 Rec8 31.Rac5 Be8 32.R5c2 b5 33.Ra2 Bd7 34.Rca1 Rab8 35.axb5 axb5 36.Ra7 Be8
+37.Rh1 Bg6 38.Rh6 Rg8 39.Rd7 Nf7 40.Nxf5 g3+ 41.Kf3 Rbd8 42.Rc7 Ng5+ 43.fxg5+ Kxg5
+44.Rh3 Bxf5 45.Rxg3+ Kf6 46.Rxg8 Rxg8 47.Bxf5 Kxf5 48.Rxc6  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "9"]
+[White "Alexander, Conel Hughes"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C16"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 b6 5.Qg4 Bf8 6.Bg5 Qd7 7.O-O-O Ba6 8.Nh3 Bxf1
+9.Rhxf1 Nc6 10.f4 Nge7 11.Bxe7 Nxe7 12.Qe2 h5 13.Ng5 Nf5 14.Kb1 Bb4 15.Rf3 c6
+16.Rh3 O-O-O 17.a3 Bxc3 18.Rxc3 Kb7 19.b4 f6 20.Nf3 Ra8 21.a4 a5 22.Rb3 Rhc8
+23.Qe1 Ra6 24.h3 axb4 25.Qxb4 Qe7 26.Qxe7+ Nxe7 27.exf6 gxf6 28.Re1 Rxa4
+29.Rxe6 Ng8 30.g4 hxg4 31.hxg4 Rc7 32.g5 fxg5 33.fxg5 Ne7 34.Rf6 Ng8 35.Re6 Ne7
+36.g6 Nf5 37.Rd3 Ra8 38.Rf6 Ng3 39.Ne5 Ne4 40.Rf7 Rh8 41.Kb2 Nd6 42.Rxc7+ Kxc7
+43.Rc3 Kb7 44.Rg3 Rg8 45.Rh3 Ka6 46.Nxc6 Rxg6 47.Nb4+ Kb5 48.Nxd5 Kc4 49.Nxb6+ Kxd4
+50.Rd3+ Ke4  1/2-1/2
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "9"]
+[White "Menchik, Vera"]
+[Black "Book, Eero"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D13"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.d4 c6 5.cxd5 cxd5 6.Bg5 Be7 7.e3 O-O 8.Bd3 Nbd7
+9.O-O a6 10.a4 b6 11.Qb1 h6 12.Bh4 Bb7 13.Bg3 Nh5 14.Ne2 Nxg3 15.hxg3 Bd6
+16.Rd1 Qe7 17.Qc2 Rfc8 18.Qb3 Rc7 19.Rac1 Rac8 20.Rxc7 Rxc7 21.Bb1 f5 22.Nf4 Bc6
+23.Bd3 Bb7 24.Ne2 Qd8 25.Nh2 Rc8 26.e4 fxe4 27.Bxe4 Qc7 28.Bd3 e5 29.Nf3 exd4
+30.Bf5 Nc5 31.Qa2 Re8 32.Nexd4 Qf7 33.Nh4 Ne4 34.b3 Nc3 35.Qc2 Nxd1 36.Bh7+ Kh8
+37.Ng6+ Kxh7 38.Ne5+ Kg8 39.Nxf7 Re1+ 40.Kh2 Kxf7 41.Qd2 Re4 42.Qxd1 Be5
+43.Nf5 Bb8 44.Qh5+ Kf6 45.Nxh6 gxh6 46.Qxh6+  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "9"]
+[White "Milner Barry, Philip Stuart"]
+[Black "Sergeant, Edward G"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.d3 Qh4+ 6.g3 Nxg3 7.Nf3 Qh5 8.Nxd5 Bg4
+9.Bg2 Nxh1 10.Nxc7+ Kd7 11.Nxa8 Nc6 12.Be3 f6 13.d4 fxe5 14.d5 Kc8 15.dxc6 Bb4+
+16.c3 bxc6 17.cxb4 Rd8 18.Qe2 Kb7 19.Rd1 e4 20.Rxd8 exf3 21.Bxf3 Qh4+ 22.Kd2 Qxd8+
+23.Kc1 Bxf3 24.Qxf3 Qd5 25.Qxd5 cxd5 26.Kd1 g5 27.Ke1 g4 28.Kf1 g3 29.Kg2 Nf2
+30.Bxf2 gxf2 31.Kxf2 Kxa8 32.Ke3  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "9"]
+[White "Spielmann, Rudolf"]
+[Black "Petrovs, Vladimirs"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Bd3 c5 8.dxc5 Bxc5
+9.Bg5 Be7 10.Qe2 O-O 11.O-O-O Qa5 12.Kb1 Qb6 13.h4 Bd7 14.Bxh7+ Nxh7 15.Bxe7 Bb5
+16.c4 Rfe8 17.Bd6 Bc6 18.Be5 Rad8 19.Bc3 Qc5 20.Ne5 f6 21.b4 Qb6 22.Nxc6 Qxc6
+23.f4 b6 24.h5 Rc8 25.Rd4 e5 26.fxe5 Rxe5 27.Qd2 Rce8 28.Rd6 Qe4+ 29.Kb2 Rg5
+30.Rd8 Rxg2 31.Rxe8+  1-0
+
+[Event "Margate"]
+[Site "Margate"]
+[Date "1938.??.??"]
+[Round "9"]
+[White "Thomas, George Alan"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B54"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 g6 6.c3 Bg7 7.Nd2 O-O 8.O-O Nc6
+9.N2f3 Bd7 10.h3 a6 11.Be3 Qc7 12.Qd2 Rfd8 13.Rfe1 Ne5 14.Rad1 Nc4 15.Bxc4 Qxc4
+16.b3 Qc7 17.Bg5 b5 18.e5 dxe5 19.Nxe5 Rac8 20.Qf4 Be8 21.Nef3 Qxf4 22.Bxf4 Rxc3
+23.Rxe7 Nd5 24.Ne2 Rcc8 25.Bc7 Nxc7 26.Rxd8 Rxd8 27.Rxc7 b4 28.g3 Bb5 29.Nf4 h6
+30.Rc5 Rd1+ 31.Kh2 Bf6 32.h4 Ra1 33.Nd5 Bb2 34.Nxb4 Kg7 35.Nc2  1/2-1/2

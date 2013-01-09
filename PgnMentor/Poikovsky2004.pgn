@@ -1,0 +1,826 @@
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.17"]
+[Round "1"]
+[White "Zhang Zhong"]
+[Black "Rublevsky,S"]
+[Result "0-1"]
+[WhiteElo "2639"]
+[BlackElo "2655"]
+[ECO "A04"]
+
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 Nge7 5.Bg2 g6 6.O-O Bg7 7.c3 O-O 8.d4 d5 9.exd5 Nxd5
+10.dxc5 Qa5 11.Nbd2 Qxc5 12.Ne4 Qa5 13.Bg5 h6 14.Bd2 Qc7 15.c4 Nde7 16.Nc3 a6
+17.Re1 Rd8 18.Qc1 Kh7 19.Qc2 Nb4 20.Qb3 Nd3 21.Red1 Nf5 22.Ne4 b5 23.cxb5 Bb7
+24.b6 Qb8 25.Bxh6 Bxh6 26.Neg5+ Kg8 27.Rxd3 Bd5 28.Rxd5 exd5 29.Rd1 Ne7 30.h4 Rd6
+31.Ne5 Bxg5 32.hxg5 Qxb6 33.Qa3 Rad8 34.Ng4 d4 35.Nf6+ Kg7 36.Ne4 Re6 37.Bf3 Nc6
+38.Kg2 Ne5 39.Nc5 Ree8 40.b4 Rd6 41.Ne4 Rdd8 42.Nc5 a5 43.Qxa5 Qxa5 44.bxa5 Nxf3
+45.Kxf3 Rd5 46.Nd3 Rxg5 47.a6 Rf5+ 48.Kg2 Re2 49.Nf4 Rxa2 50.Rxd4 Rxa6 51.Nd3 Ra2
+52.g4 Rf6 53.Kg3 Rd2 54.f4 Re6 55.Kf3 Re8 56.Rd7 Kf8 57.g5 Re6 58.Rd4 Ke7
+59.Rd5 Ree2 60.Re5+ Rxe5 61.Nxe5 Ke6 62.Ng4 Rd3+ 63.Ke4 Ra3 64.Nh6 Rg3 65.Ng8 Rh3
+66.Nf6 Ra3 67.Ng4 Ra4+ 68.Ke3 Rb4 69.Nh6 Rb7 70.Ke4 Kd6 71.Ng8 Rb4+ 72.Ke3 Kd5
+73.Nf6+ Kc4 74.Ng4 Rb7 75.Nh6 Kd5 76.Kf3 Kd4 77.Ng8 Rb3+ 78.Kg4 Ke3 79.Nf6 Rd3
+80.Kg3 Rd4 81.Ng4+ Ke4 82.Ne5 Kf5 83.Nxf7 Rxf4 84.Nd8  0-1
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.17"]
+[Round "1"]
+[White "Malakhov,V"]
+[Black "Grischuk,A"]
+[Result "0-1"]
+[WhiteElo "2700"]
+[BlackElo "2719"]
+[ECO "D15"]
+
+1.c4 Nf6 2.Nf3 c6 3.Nc3 d5 4.e3 a6 5.d4 b5 6.b3 Bg4 7.Be2 Nbd7 8.O-O e6 9.h3 Bh5
+10.Bb2 Bd6 11.Ne5 Bxe2 12.Nxe2 Qc7 13.cxd5 cxd5 14.Rc1 Qb8 15.Nxd7 Nxd7 16.e4 dxe4
+17.d5 O-O 18.dxe6 Nc5 19.Qd4 Nxe6 20.Qxe4 Re8 21.Rfe1 Qa7 22.Qf3 Bc5 23.Ng3 Bd4
+24.Bxd4 Qxd4 25.Rcd1 Qb4 26.Nf5 Rad8 27.Qc6 Qc5 28.Qxc5 Nxc5 29.Rxe8+ Rxe8
+30.b4 Ne4 31.Rd7 h5 32.a3 Nf6 33.Ra7 Re1+ 34.Kh2 Re6 35.f3 Nd5 36.Kg3 Nc3
+37.Rd7 Ne2+ 38.Kf2 Nf4 39.Ne7+ Kh7 40.Nd5 Nd3+ 41.Kg3 Ne5 42.Rc7 Rd6 43.Nc3 Kg6
+44.Ne4 Rd3 45.Kf4 f6 46.Rc3 Rd1 47.Nc5 h4 48.Nxa6 Nc4 49.Kg4 Rg1 50.Nc7 Rxg2+
+51.Kf4 Nd6 52.Rc6 Nf7 53.Ne6 Re2 54.Nd4 Re5 55.Ne6 Re1 56.Nf8+ Kh6 57.Re6 Rg1
+58.Re7 Ng5 59.Ne6 Nxh3+ 60.Kf5 Rg3  0-1
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.17"]
+[Round "1"]
+[White "Zvjaginsev,V"]
+[Black "Onischuk,Al"]
+[Result "1/2-1/2"]
+[WhiteElo "2654"]
+[BlackElo "2652"]
+[ECO "D37"]
+
+1.c4 e6 2.Nf3 d5 3.d4 Nf6 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.cxd5 Nxd5
+9.Nxd5 exd5 10.a3 Nc6 11.Bd3 Bb6 12.O-O d4 13.e4 Bg4 14.h3 Qf6 15.Bg3 Bh5
+16.e5 Nxe5 17.Bxe5 Bxf3 18.Bxf6 Bxd1 19.Bxg7 Kxg7 20.Rfxd1 Rac8 21.Kf1 Rfe8
+22.Rac1 Rxc1 23.Rxc1 h6 24.g3 Kf8 25.Kg2 Re6 26.Rc8+ Re8 27.Rc1 Re6 28.Kf3 Rf6+
+29.Ke2  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.17"]
+[Round "1"]
+[White "Bologan,V"]
+[Black "Aleksandrov,A"]
+[Result "0-1"]
+[WhiteElo "2679"]
+[BlackElo "2679"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Ne7 10.Ne4 Bf5 11.Re1 h6 12.h3 b6 13.g4 Bd7 14.Bf4 Kc8 15.Rad1 a5 16.Bg3 c5
+17.Nh4 a4 18.Ng2 a3 19.b3 c4 20.bxc4 Ra4 21.Ne3 Be6 22.Nc3 Rb4 23.Nb5 Nc6
+24.Nxa3 Bc5 25.Nd5 Rb2 26.Nb5 h5 27.Ndxc7 Rxc2 28.Nxe6 fxe6 29.Nd6+ Kc7 30.Ne4 Nd4
+31.Kg2 Kc6 32.Rd2 Rxc4 33.Red1 hxg4 34.hxg4 Nb5 35.Nxc5 bxc5 36.Rd7 Rxg4
+37.a4 Rxa4 38.Rxg7 Nd4 39.Rb1 Rf8 40.Rbb7 Kd5 41.Rbc7 Ra6 42.Rgd7+ Kc4 43.Rd6 Ra5
+44.Rb6 Kd3 45.Rd7 Kc3 46.Rbd6 Ra2 47.Rh7 Rd2 48.Rc7 c4 49.Ra6 Nf5 50.Kh3 Rh8+
+51.Kg4 Rg8+ 52.Kf4 Rd4+ 53.Kf3 Rd3+ 54.Kf4 Rd4+ 55.Kf3 Rg6 56.Rf7 Rd3+ 57.Ke2  0-1
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.17"]
+[Round "1"]
+[White "Sokolov,I"]
+[Black "Lautier,J"]
+[Result "1/2-1/2"]
+[WhiteElo "2706"]
+[BlackElo "2676"]
+[ECO "D47"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.Nf3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 b4
+9.Ne4 Nxe4 10.Bxe4 Bb7 11.Qc2 Rc8 12.a3 Qb6 13.axb4 Bxb4+ 14.Bd2 c5 15.Bxb7 Bxd2+
+16.Qxd2 Qxb7 17.O-O O-O 18.Ra5 Rc7 19.h3 h6 20.Rfa1 Qb8 21.Qe2  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.18"]
+[Round "2"]
+[White "Aleksandrov,A"]
+[Black "Zvjaginsev,V"]
+[Result "0-1"]
+[WhiteElo "2679"]
+[BlackElo "2654"]
+[ECO "D37"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.Nf3 Nf6 5.Bf4 c5 6.dxc5 Na6 7.cxd5 Nxd5 8.Nxd5 exd5
+9.e3 Nxc5 10.Bb5+ Bd7 11.Bxd7+ Qxd7 12.O-O O-O 13.Be5 Rac8 14.Rc1 a6 15.h3 Rfd8
+16.Qe2 Ne4 17.Rfd1 Rxc1 18.Rxc1 Rc8 19.Rd1 f6 20.Bd4 Qb5 21.Qxb5 axb5 22.Ne1 b4
+23.f3 Nd6 24.Nd3 Nb5 25.Rc1 Rc4 26.Bb6 Kf7 27.Kf2 Ke6 28.Ba5 g5 29.g4 Bd6
+30.Ke2 f5 31.Kd1 h5 32.gxh5 Rh4 33.Nc5+ Bxc5 34.Rxc5 Nd6 35.Ke2 Rxh5 36.Bxb4 Rxh3
+37.Rc2 Nc4 38.Bc3 g4 39.fxg4 fxg4 40.Rc1 Rxe3+ 41.Kf2 Rf3+ 42.Kg1 Kf5 43.b3 Ne5
+44.Bd4 Rd3 45.Bxe5 Kxe5 46.Rc7 Rd2 47.a4 b6 48.Rc6  0-1
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.18"]
+[Round "2"]
+[White "Lautier,J"]
+[Black "Bologan,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2676"]
+[BlackElo "2679"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6 7.Bg5 Bb7 8.e3 d6
+9.f3 Nbd7 10.Nh3 h6 11.Bh4 Rc8 12.Nf2 c5 13.Ng4 d5 14.cxd5 Nxd5 15.Bxd8 Nxc3
+16.Bxb6 Nxb6 17.bxc3 cxd4 18.cxd4 Rc2 19.Nf2 Nd5 20.Nd1 f5 21.Rg1 Rfc8 22.Bd3 Rc1
+23.Rxc1 Rxc1 24.Kf2 Ra1 25.Bc4 Rxa3 26.Re1 Ba6 27.Nb2 Bxc4 28.Nxc4 Rc3 29.Na5 f4
+30.exf4 Nxf4 31.Re4 Rc2+ 32.Kf1 Nxg2 33.Rxe6 Nh4 34.d5 Nxf3 35.h3 Rd2 36.Nc6 Rxd5
+37.Re3 Nd2+ 38.Ke2 Kh7 39.Nxa7 Nc4 40.Rc3 Ne5 41.Nc6 Ng6 42.Kf3 Rf5+ 43.Kg3 Rg5+
+44.Kh2 Nh4 45.Nd4 Rg2+ 46.Kh1 Rf2 47.Kg1 Rd2 48.Nf3 Rg2+ 49.Kf1 Rg3 50.Kf2 Rxf3+
+51.Rxf3 Nxf3 52.Kxf3 Kg6 53.Kg4 Kf6 54.Kh4 g5+ 55.Kg4 Kg6 56.Kf3 h5 57.Kg2 Kg7
+58.Kg3 Kf8 59.Kf2 Ke8 60.Ke2 Kd8 61.Kd2 Kc7 62.Ke3 Kd6 63.Kd2 Ke5 64.Ke3 Kd5
+65.Kd3 Ke5  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.18"]
+[Round "2"]
+[White "Rublevsky,S"]
+[Black "Onischuk,Al"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2652"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nxc6 Qf6 6.Qd2 dxc6 7.Nc3 Bd4 8.Bd3 Ne7
+9.O-O Ng6 10.Qe1 Ne5 11.Be2 g5 12.Kh1 Ng6 13.Bc4 Be6 14.Bxe6 fxe6 15.Be3  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.18"]
+[Round "2"]
+[White "Zhang Zhong"]
+[Black "Malakhov,V"]
+[Result "1-0"]
+[WhiteElo "2639"]
+[BlackElo "2700"]
+[ECO "B35"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Be3 Nf6 7.Bc4 O-O 8.Bb3 a5
+9.O-O d6 10.Ndb5 b6 11.a4 Ba6 12.f4 Nd7 13.Qf3 Bxc3 14.bxc3 Na7 15.c4 Nc5
+16.f5 Nc6 17.Bh6 Ne5 18.Qf4 Re8 19.h4 f6 20.fxg6 hxg6 21.Rae1 Kh7 22.Qd2 Qc8
+23.Bf4 Bb7 24.Nc3 Ne6 25.Bg3 Nxc4 26.Qd1 Ne5 27.Nd5 Bxd5 28.Qxd5 Ng7 29.Bf2 Rb8
+30.Re3 Ng4 31.Rg3 Nxf2 32.h5 g5 33.Qf7 d5 34.Rxf2 Rf8 35.Qg6+ Kh8 36.exd5 Qc5
+37.d6 e6 38.h6 Nh5 39.Qxh5 Qxd6 40.Qg6 Rb7 41.Rd3 Qe5 42.Rd1 Rh7 43.Qxf6+  1-0
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.18"]
+[Round "2"]
+[White "Grischuk,A"]
+[Black "Sokolov,I"]
+[Result "1-0"]
+[WhiteElo "2719"]
+[BlackElo "2706"]
+[ECO "C96"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 cxd4 12.cxd4 Bb7 13.d5 Rc8 14.b3 Qc7 15.Bd3 Nh5
+16.a4 b4 17.Bd2 f5 18.Bxb4 Nf4 19.Nc3 Nxb3 20.Rb1 Nc5 21.Bxc5 Qxc5 22.Rxb7 Qxc3
+23.Bxa6 Qa5 24.Rxe7 Qxa6 25.Nh4 fxe4 26.Qg4 Rf7 27.Nf5 h5 28.Qg5 e3 29.Rxf7 exf2+
+30.Kh2  1-0
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.19"]
+[Round "3"]
+[White "Onischuk,Al"]
+[Black "Aleksandrov,A"]
+[Result "1-0"]
+[WhiteElo "2652"]
+[BlackElo "2679"]
+[ECO "D38"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Bb4 5.cxd5 exd5 6.Bg5 Nbd7 7.e3 c5 8.Bd3 Qa5
+9.Qc2 c4 10.Bf5 g6 11.Bxd7+ Nxd7 12.e4 O-O 13.O-O Nb6 14.e5 Bf5 15.Qd2 Rfe8
+16.a3 Bf8 17.Ne4 Qxd2 18.Nf6+ Kh8 19.Bxd2 Re7 20.Ba5 Rd8 21.g4 Bd3 22.Rfe1 h6
+23.h4 Bg7 24.g5 h5 25.Re3 Bf5 26.Ne1 Re6 27.Ng2 Rc8 28.Nf4 Na4 29.N6xd5 Ra6
+30.Bc3 Bf8 31.Re2 Rd8 32.Ne3 Nxc3 33.bxc3 Bd7 34.Ned5 b5 35.e6 Bxe6 36.Nc7 Rxa3
+37.Rxa3 Bxa3 38.Nfxe6 fxe6 39.Nxb5 Bc1 40.Nxa7 Rd6 41.Nb5 Rb6 42.Re5 Kg7
+43.Kg2 Kf7 44.Rc5 Ke7 45.Na7 Kd7 46.Rxc4 Ba3 47.Kf3 Bf8 48.Ke4 Ra6 49.Nb5 Rb6
+50.Rc7+ Kd8 51.c4 Rxb5 52.cxb5 Kxc7 53.Ke5 Bg7+ 54.Kxe6 Bxd4 55.f3 Bf2 56.Kf6 Bxh4
+57.Kxg6 Bf2 58.Kxh5 Kd7 59.g6  1-0
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.19"]
+[Round "3"]
+[White "Malakhov,V"]
+[Black "Rublevsky,S"]
+[Result "0-1"]
+[WhiteElo "2700"]
+[BlackElo "2655"]
+[ECO "B83"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 d6 6.Be3 Nf6 7.Be2 Be7 8.O-O O-O
+9.f4 e5 10.Nb3 exf4 11.Bxf4 Be6 12.Qd3 d5 13.e5 Nd7 14.Nxd5 Ndxe5 15.Nxe7+ Qxe7
+16.Qg3 f6 17.Rad1 Rad8 18.Qc3 b6 19.a3 Rc8 20.Ba6 Rc7 21.Qe1 Rd7 22.Rxd7 Qxd7
+23.Qd2 Qf7 24.Rd1 Bxb3 25.cxb3 Qxb3 26.Qd5+ Qxd5 27.Rxd5 Kf7 28.Rd2 Rd8 29.Rc2 Ke6
+30.h3 g5 31.Be3 h6 32.Bb7 Ne7 33.g4 Rd3 34.Rc3 Rxc3 35.bxc3 Nd5 36.Bc1 Nxc3
+37.Kg2 Ne2 38.Bd2 Nf4+ 39.Kg3 Ne2+ 40.Kg2 Nc4 41.Bb4 Nf4+ 42.Kg3 a5 43.Bc8+ Kd5
+44.Be7 Nd6 45.Bd7 Ng6 46.Bd8 b5 47.a4 b4 48.Bxa5 b3  0-1
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.19"]
+[Round "3"]
+[White "Zvjaginsev,V"]
+[Black "Lautier,J"]
+[Result "1/2-1/2"]
+[WhiteElo "2654"]
+[BlackElo "2676"]
+[ECO "D10"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 a6 5.Nf3 b5 6.c5 Bg4 7.h3 Bxf3 8.Qxf3 Nbd7
+9.g4 e5 10.g5 e4 11.Qd1 Ng8 12.h4 g6 13.Qg4 h6 14.Rg1 hxg5 15.hxg5 Ne7 16.Bd2 Nf5
+17.f4  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.19"]
+[Round "3"]
+[White "Bologan,V"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteElo "2679"]
+[BlackElo "2719"]
+[ECO "D45"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 a6 6.c5 Nbd7 7.b4 g6 8.Bb2 Bg7 9.Be2 O-O
+10.O-O Qc7 11.Na4 Ne4 12.Ne1 e5 13.dxe5 Nxe5 14.f3 Nf6 15.Nb6 Rb8 16.Bd4 Re8
+17.Qd2 Ned7 18.Nd3 Nxb6 19.cxb6 Qe7 20.Nc5 Nh5 21.Rfe1 Qd8 22.Bf1 Bxd4 23.exd4 Be6
+24.Re5 Ng7 25.Na4 Qd7 26.Rae1 c5 27.Nxc5 Qc6 28.b5 Qxb6 29.bxa6 bxa6 30.Nxa6 Rbc8
+31.Qb4 Qa7 32.a4 Nf5 33.Rd1 Re7 34.a5 Rb7 35.Qd2 Re7 36.g4 Nd6 37.Nc5 Rxc5
+38.dxc5 Qxc5+ 39.Kg2 Qa3 40.Re3 Qa4 41.a6 Re8 42.Qd4 Nc4 43.Bxc4 dxc4 44.a7  1-0
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.19"]
+[Round "3"]
+[White "Sokolov,I"]
+[Black "Zhang Zhong"]
+[Result "1-0"]
+[WhiteElo "2706"]
+[BlackElo "2639"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Ba6 5.Qc2 Bb7 6.Nbd2 c5 7.e4 cxd4 8.e5 Ng8
+9.Nxd4 Nc6 10.Nxc6 Bxc6 11.Ne4 Qc7 12.Bf4 Nf6 13.Nd6+ Bxd6 14.exd6 Qb7 15.f3 Rc8
+16.Bd3 b5 17.c5 Nd5 18.Bd2 h6 19.O-O O-O 20.b4 Rce8 21.Rae1 Qa8 22.Qb2 Qd8
+23.Qd4 f5 24.Re5 a6 25.Rfe1 Rf7 26.a4 Rff8 27.h3 Qf6 28.Kh2 Ra8 29.a5 Rf7
+30.Bc2 Raf8 31.Bb3 Qd8 32.Bc1 Qa8 33.Bb2 Nf6 34.R1e3 Bd5 35.Bc2 Bc6 36.Re2 Qd8
+37.Bb3 Ne8 38.Rd2 Qg5 39.Re3 Nf6 40.Bd1 Nd5 41.Re5 Rf6 42.h4 Qf4+ 43.Qxf4 Nxf4
+44.g3 Nh5 45.Re1 R6f7 46.Be5 Nf6 47.Bxf6 Rxf6 48.h5 f4 49.g4 Kf7 50.Re5 Ke8
+51.Kg1 Kd8 52.Rh2 Kc8 53.Kf2 Kb7 54.Bc2 Rh8 55.Rh4 Bd5 56.Bd3 Rff8 57.Rh3 Bc6
+58.Ke2 Rf6 59.Kd2 Rff8 60.Kc3 Rf6 61.Kd4 Rff8 62.Re1 Rf6 63.Ke5 Rf7 64.Rg1 Rhf8
+65.Re1 Rf6 66.Kd4 R6f7 67.Re5 Rh8 68.Kc3 Rf6 69.Kd2 Rff8 70.Ke2 Rf6 71.Rh4 Rff8
+72.g5 Rf7 73.Rg4 hxg5 74.Rexg5 Rf6 75.Kf2 Rf7 76.Rxg7 Rxg7 77.Rxg7 Rxh5 78.Be4  1-0
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.20"]
+[Round "4"]
+[White "Zhang Zhong"]
+[Black "Bologan,V"]
+[Result "0-1"]
+[WhiteElo "2639"]
+[BlackElo "2679"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.exd5 cxd5 4.cxd5 Nf6 5.Nc3 Nxd5 6.Nf3 e6 7.Bc4 Be7 8.O-O O-O
+9.Re1 Nxc3 10.dxc3 Nd7 11.Qe2 Qc7 12.Bd3 Rd8 13.Bc2 Nf8 14.Qe4 Ng6 15.Qg4 Bd7
+16.h4 e5 17.Qh5 f6 18.Bxg6 hxg6 19.Qxg6 Qc4 20.Be3 Be8 21.Qg3 b6 22.Nd2 Qd3
+23.Qg4 Bd7 24.Qc4+ Qxc4 25.Nxc4 Bc6 26.a4 Kf7 27.f4 Rh8 28.fxe5 Rxh4 29.Bd4 Rah8
+30.Rf1 Rh2 31.Ne3 Kg6 32.exf6 gxf6 33.a5 b5 34.Rae1 a6 35.Rf4 R8h5 36.Rg4+ Kf7
+37.Kf2 Bd6 38.Rf1 Bd7 39.Rg3 f5 40.Rf3 Kg6 41.Ng4 Rh1 42.Rxh1 Rxh1 43.Ne5+ Bxe5
+44.Bxe5 Rb1 45.b4 Rb2+ 46.Kg1 Bc6 47.Rg3+ Kh5 48.Bf4 Be4 49.Rg5+ Kh4 50.Rg6 Kh5
+51.Rg7 Kh4 52.Bg3+ Kh5 53.Be5 Kh4 54.Bf6+ Kh5 55.g3 Kh6 56.Rg8 Bd5 57.Rh8+ Kg6
+58.Be5 Rc2 59.Bf4 Rxc3 60.Rh6+ Kf7 61.Rxa6 Rb3 62.Bd6 Ke6 63.Rb6 Bc4 64.a6 Ra3
+65.Bb8+ Kd5 66.a7 Ke4 67.Kg2 Ra1 68.Rb7 Kd4 69.Rd7+ Bd5+ 70.Kf2 Ra2+ 71.Ke1 Kc4
+72.Rd8 Be4 73.Re8 Kxb4 74.g4 Kc4 75.Rc8+ Kd3 76.gxf5 Bxf5 77.Rc5 Ke3 78.Kd1 Bd3
+79.Kc1 b4 80.Rc8 b3 81.Be5 Rxa7 82.Bf6 Rf7 83.Bc3 Rf2 84.Be5 b2+  0-1
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.20"]
+[Round "4"]
+[White "Malakhov,V"]
+[Black "Sokolov,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2706"]
+[ECO "D10"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 a6 5.Nf3 b5 6.b3 Bg4 7.h3 Bxf3 8.gxf3 Nbd7
+9.f4 e6 10.c5 Be7 11.Bd3 g6 12.Bb2 Qb8 13.Qc2 Nh5 14.Ne2 Bh4 15.Ng1 Bd8 16.Nf3 a5
+17.a3 Ra7 18.Ne5 Nxe5 19.dxe5 f5 20.Be2 Ng7 21.h4 h5 22.O-O-O Be7 23.Rh3 Qd8
+24.Rdh1 Kf7 25.Bd4 Rh6 26.Kb1 a4 27.b4 Rb7 28.Qd1 Rb8 29.Qg1 Rb7 30.Qg3 Rb8
+31.Rg1 Rb7 32.Rh2 Qh8 33.Kc2 Rd7 34.Kd1 Rd8 35.Ke1 Rd7 36.Kf1 Bd8 37.Kg2 Qe8
+38.Kh3 Kg8 39.Bd3 Qe7 40.f3 Qe8 41.Qf2 Qf7 42.Rhg2 Rb7 43.Bc2 Rd7 44.Rg3 Ra7
+45.Qg2 Kh7 46.Rg5 Rd7 47.Bb2 Be7 48.Qg3 Bd8 49.Rg2 Be7 50.Rg1 Bd8 51.Qf2 Kg8
+52.R5g2 Bc7 53.Qg3 Bd8 54.Rd1 Kh7 55.Re2 Ne8 56.Qf2 Nc7 57.Bb1 Kg8 58.Rg1 Rh7
+59.Qg3 Rg7 60.Reg2 Kh7 61.Qf2 Qf8 62.Bd3 Rdf7 63.Bc1 Qe7 64.Bb2 Qf8 65.Bd4 Qe7
+66.Qg3 Rg8 67.Bc2 Rfg7 68.Qe1 Rf7 69.Bd3 Rfg7 70.Bc2 Rf7 71.Bd3 Rfg7 72.Bc2  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.20"]
+[Round "4"]
+[White "Lautier,J"]
+[Black "Onischuk,Al"]
+[Result "1/2-1/2"]
+[WhiteElo "2676"]
+[BlackElo "2652"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5 6.c3 b5 7.Bc2 d5 8.d4 dxe4
+9.Nxe5 Nxe5 10.dxe5 Qxd1 11.Rxd1 Ng4 12.Bxe4 Nxf2 13.Bc6+ Ke7 14.Rd5 Bb6
+15.Bg5+ f6 16.exf6+ gxf6 17.Bh4 Ng4+ 18.Kh1 Rb8 19.Nd2 Be6 20.Rh5 Nf2+ 21.Bxf2 Bxf2
+22.Rf1 Be3 23.Nb3 Rbd8  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.20"]
+[Round "4"]
+[White "Rublevsky,S"]
+[Black "Aleksandrov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2679"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nxc6 Qf6 6.Qd2 dxc6 7.Nc3 Ne7 8.Qf4 Be6
+9.Qxf6 gxf6 10.Na4 Bb4+ 11.Bd2 Bxd2+ 12.Kxd2 O-O-O+ 13.Bd3 b6 14.Rae1 c5
+15.Kc1 Nc6 16.a3 Nd4 17.Nc3 Rhg8 18.g3 Nb3+ 19.Kb1 Nd2+ 20.Kc1 Nb3+  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.20"]
+[Round "4"]
+[White "Grischuk,A"]
+[Black "Zvjaginsev,V"]
+[Result "1-0"]
+[WhiteElo "2719"]
+[BlackElo "2654"]
+[ECO "B35"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Be3 Nf6 7.Bc4 O-O 8.Bb3 e6
+9.f4 Ng4 10.Qxg4 Nxd4 11.O-O-O Nxb3+ 12.axb3 Qa5 13.Kb1 f5 14.Qg5 Bf6 15.Qg3 Bxc3
+16.bxc3 fxe4 17.h4 Qh5 18.Qf2 a5 19.g4 Qb5 20.Rd6 a4 21.Rb6 Qa5 22.b4 Qd5
+23.Qe2 e5 24.h5 exf4 25.Rd1 f3 26.Qe1 Qf7 27.hxg6 hxg6 28.Qh4 Qh7 29.Qg5 Ra6
+30.Rdd6 Rxb6 31.Bxb6 f2 32.Rxg6+ Kf7 33.Qf6+ Ke8 34.Qd8+  1-0
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.21"]
+[Round "9"]
+[White "Aleksandrov,A"]
+[Black "Sokolov,I"]
+[Result "0-1"]
+[WhiteElo "2679"]
+[BlackElo "2706"]
+[ECO "D11"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bg4 5.h3 Bh5 6.Nc3 e6 7.g4 Bg6 8.Ne5 Nbd7
+9.Nxg6 hxg6 10.cxd5 Nxd5 11.Bd2 N5b6 12.Qc2 Qh4 13.Be2 Be7 14.Qe4 g5 15.Qg2 Nd5
+16.O-O-O a5 17.f4 N7b6 18.Ne4 gxf4 19.exf4 Bb4 20.Bd3 Qe7 21.Kb1 Bxd2 22.Qxd2 Qb4
+23.Qf2 Na4 24.Rc1 Nxf4 25.Bc4 O-O-O 26.Rc2 Rxh3 27.Rd1 g5 28.Bf1 Rh1 29.Nxg5 e5
+30.a3 Qb3 31.Ne4 Nxb2 32.Kc1 Nxd1  0-1
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.22"]
+[Round "5"]
+[White "Aleksandrov,A"]
+[Black "Lautier,J"]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2676"]
+[ECO "D45"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 Nf6 5.Nf3 Nbd7 6.Qc2 Bd6 7.g4 Bb4 8.Bd2 Qe7
+9.Rg1 Bxc3 10.Bxc3 Ne4 11.O-O-O Nxc3 12.Qxc3 dxc4 13.Qxc4 O-O 14.g5 Rb8 15.Ne5 c5
+16.f4 b5 17.Qc3 Nxe5 18.dxe5 Rb6 19.Rd6 Qc7 20.Be2 Bb7 21.Qa5 Bc6 22.Rgd1 g6
+23.h4 Qb7 24.Rd8 Bd5 25.Rxf8+ Kxf8 26.h5 gxh5 27.f5 exf5 28.Qd2 Bxa2 29.Qd8+ Kg7
+30.Rd6 Rxd6 31.exd6 Be6 32.Qf6+ Kg8 33.Qd8+ Kg7 34.Qf6+  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.22"]
+[Round "5"]
+[White "Sokolov,I"]
+[Black "Rublevsky,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2706"]
+[BlackElo "2655"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 Bb4+ 5.Nc3 exd4 6.Qxd4 Qxd4 7.Nxd4 Nf6 8.f3 Bc5
+9.Be3 Nc6 10.Ncb5 Bb6 11.Nc2 Ba5+ 12.Bd2 Bb6 13.Bf4 a6 14.Bxc7 axb5 15.Bxb6 Be6
+16.Kf2 Nd7 17.Be3 Nde5 18.Nd4 Nxd4 19.Bxd4 f6 20.Be2 Kf7 21.Rhd1 Rhd8 22.a3 b4
+23.Bc5 bxa3 24.Bxa3 Nd3+ 25.Bxd3 Rxd3 26.Rxd3 cxd3 27.Rc1 Rd8 28.Ke3 d2 29.Rd1 f5  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.22"]
+[Round "5"]
+[White "Onischuk,Al"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2652"]
+[BlackElo "2719"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 b6 7.Bg5 Bb7 8.e3 d6
+9.Ne2 Nbd7 10.Qd3 Ba6 11.Nc3 d5 12.Qd1 Bxc4 13.Bxc4 dxc4 14.Qa4 c5 15.Qxc4 h6
+16.Bh4 cxd4 17.Qxd4 g5 18.Bg3 Nc5 19.h4 Nfe4 20.Nxe4 Qxd4 21.exd4 Nxe4 22.Bh2 Rad8
+23.hxg5 hxg5 24.Rc1 Kg7 25.f3 Nf6  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.22"]
+[Round "5"]
+[White "Bologan,V"]
+[Black "Malakhov,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2700"]
+[ECO "B22"]
+
+1.e4 c5 2.Nf3 Nc6 3.c3 d5 4.exd5 Qxd5 5.d4 e6 6.Na3 Nf6 7.Be2 cxd4 8.Nb5 Qd8
+9.O-O a6 10.Nbxd4 Nxd4 11.cxd4 Bd7 12.Ne5 Bb5 13.Bxb5+ axb5 14.Qb3 Qd5 15.Bg5 Be7
+16.Bxf6 Bxf6 17.Qxd5 exd5 18.Rfe1 O-O 19.Nd7 Rfd8 20.Nxf6+ gxf6 21.Re7 Rdc8
+22.Kf1 Rc2 23.b3 Rd2 24.Ke1 Rxd4 25.Ke2 b6 26.Ke3 Rg4 27.g3 Rc8 28.Rd1 Kf8
+29.Rd7 Re4+ 30.Kf3 Rc2 31.R1xd5 Ree2 32.Kg4 Rxf2 33.h4 Rc3 34.Rxb5 Rff3 35.Rd4 Rxg3+
+36.Kf5 Rg2 37.a4 h5 38.Kxf6 Rg6+ 39.Ke5 Re3+ 40.Kd5 Rc3 41.Rf4 Ke7 42.Kd4 Rcg3
+43.Kc4 R3g4 44.Rf5 Rxf4+ 45.Rxf4 Ke6 46.Re4+ Kd6 47.Rd4+ Kc6 48.Rf4 f5 49.Rxf5  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.22"]
+[Round "5"]
+[White "Zvjaginsev,V"]
+[Black "Zhang Zhong"]
+[Result "1/2-1/2"]
+[WhiteElo "2654"]
+[BlackElo "2639"]
+[ECO "D31"]
+
+1.c4 e6 2.Nc3 d5 3.d4 c6 4.e3 Bd6 5.Nf3 f5 6.Ne5 Nf6 7.Be2 O-O 8.O-O Nbd7
+9.f4 Ne4 10.Nxe4 fxe4 11.Bd2 Nxe5 12.fxe5 Be7 13.b4 Bd7 14.a4 a6 15.g3 Qe8
+16.Rxf8+ Bxf8 17.Qf1 Be7 18.Qh3 Bg5 19.Qg4 Bh6 20.a5 Qe7 21.Rf1 Rf8 22.Rxf8+ Qxf8
+23.h4 Qf5 24.c5  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.23"]
+[Round "6"]
+[White "Grischuk,A"]
+[Black "Aleksandrov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2719"]
+[BlackElo "2679"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Bd7 10.h3 h6 11.b3 Kc8 12.Bb2 Ne7 13.Rad1 b6 14.Nd4 c5 15.Nde2 Bc6
+16.Nf4 Kb7 17.Ncd5 Nxd5 18.Nxd5 c4 19.bxc4 Ba4 20.Ne3 Bc5 21.Bd4 Bxd4 22.Rxd4 Rae8
+23.c5  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.23"]
+[Round "6"]
+[White "Rublevsky,S"]
+[Black "Lautier,J"]
+[Result "1-0"]
+[WhiteElo "2655"]
+[BlackElo "2676"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.c4 Nb6
+9.Nc3 Qe6 10.Qe4 g6 11.Bd3 Ba6 12.b3 Bg7 13.f4 O-O 14.Ba3 Rfe8 15.O-O d5
+16.cxd5 cxd5 17.Qf3 Bxd3 18.Qxd3 f6 19.f5 gxf5 20.exf6 Qxf6 21.Ne2 c5 22.Qf3 c4
+23.Ng3 Qd4+ 24.Kh1 Qg4 25.Rad1 Bf8 26.Bb2 Bg7 27.Bxg7 Qxf3 28.Rxf3 Kxg7 29.Nxf5+ Kh8
+30.Kg1 Rf8 31.Kf2 Rae8 32.Ne3 Rxf3+ 33.Kxf3 Rf8+ 34.Ke2 Re8 35.Rd4 Kg7 36.Kd2 cxb3
+37.axb3 h5 38.Kd3 Re5 39.Rf4 Re8 40.Kd4 Kg6 41.b4 Rb8 42.h4 Re8 43.Nxd5 Nxd5
+44.Kxd5 Re2 45.g4 hxg4 46.Rxg4+ Kh5 47.Rc4 Rb2 48.Kc6 Rb1 49.Kb7  1-0
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.23"]
+[Round "6"]
+[White "Zhang Zhong"]
+[Black "Onischuk,Al"]
+[Result "1/2-1/2"]
+[WhiteElo "2639"]
+[BlackElo "2652"]
+[ECO "C69"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O f6 6.d4 Bg4 7.dxe5 Qxd1 8.Rxd1 fxe5
+9.Nbd2 O-O-O 10.Re1 Bd6 11.h3 Bh5 12.Nh4 Bf7 13.Ndf3 h6 14.b3 g6 15.Bb2 Re8
+16.g4 Nf6 17.Kg2 Nd7 18.Kg3 c5 19.Ng2 c4 20.Ne3 cxb3 21.axb3 Nc5 22.Nd2 b5
+23.f3 Kb7 24.Red1 Ne6 25.Ndc4 bxc4 26.Nxc4 Rd8 27.Na5+ Kc8 28.Nc6 g5 29.Nxd8 Rxd8
+30.Rxa6 Kb7 31.Ra5 Nd4 32.Kf2 Nc6 33.Rb5+ Kc8 34.Ra1 Kd7 35.Ra6 h5 36.c3 Rh8
+37.Kg2 Nd8 38.Ra8 hxg4 39.hxg4 Rh7 40.Bc1 Ne6 41.Be3 Ke7 42.c4 Be8 43.Rbb8 Bd7
+44.Ra6 c5 45.Rg8 Kf7 46.Rxg5 Nxg5 47.Rxd6 Ke7 48.Rd5 Nf7 49.Rxc5 Rh8 50.Ra5 Be6
+51.Ra7+ Kf8 52.Ra6 Ke7 53.Bc5+ Kd7 54.Rb6 Ra8 55.Bf2 Ra2 56.Kg3 Rc2 57.Be3 Re2
+58.Bc1 Rc2 59.Rb7+ Kd8 60.Be3 Rc3 61.Kf2 Nd6 62.Rb6 Kd7 63.g5 Nc8 64.Rb5 Nd6
+65.Rb4 Rc2+ 66.Ke1 Kc6 67.Rb6+ Kd7 68.Kd1 Rc3 69.Kd2 Rxc4 70.Rxd6+ Kxd6 71.bxc4 Bxc4
+72.Bb6 Bf7 73.Ke3 Ke6 74.Ba5 Be8 75.Bd2 Bg6 76.Bb4 Be8 77.Bf8 Bf7 78.Bg7 Bg6
+79.Kf2 Kd6 80.Ke3 Bh7 81.Bxe5+ Kxe5 82.f4+ Ke6 83.Kf3 Bg6 84.Ke3 Bh7  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.23"]
+[Round "6"]
+[White "Sokolov,I"]
+[Black "Bologan,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2706"]
+[BlackElo "2679"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.cxd5 Nxd5 7.Qc2 Be7 8.e4 Nxc3
+9.bxc3 O-O 10.Bd3 c5 11.O-O Qc8 12.Qe2 Ba6 13.Rd1 Rd8 14.h4 Bxd3 15.Rxd3 cxd4
+16.cxd4 Nd7 17.Bg5 Bxg5 18.hxg5 Qa6 19.Rad1 Rac8 20.Qe3 Qa4 21.Qf4 Re8 22.Rc1 Rc6
+23.Rdc3 Rec8 24.Rxc6 Rxc6 25.Rxc6 Qxc6 26.Ne5 Nxe5 27.Qxe5 h6 28.g3 hxg5
+29.Qb8+ Kh7 30.Qxa7 Qxe4 31.Qxb6 Qe1+ 32.Kg2 Qe4+ 33.Kh2 Qc2 34.Kg2  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.23"]
+[Round "6"]
+[White "Malakhov,V"]
+[Black "Zvjaginsev,V"]
+[Result "0-1"]
+[WhiteElo "2700"]
+[BlackElo "2654"]
+[ECO "E97"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.O-O e5 7.d4 Nc6 8.d5 Ne7
+9.Nd2 a5 10.a3 Bd7 11.b3 c6 12.Bb2 Qb6 13.dxc6 bxc6 14.Na4 Qc7 15.c5 d5 16.Nb6 Rad8
+17.Bc3 Nxe4 18.Nxe4 dxe4 19.Bxa5 Nf5 20.Nc4 Qb8 21.Bxd8 Rxd8 22.b4 Be6 23.Qe1 Nd4
+24.Na5 Qc8 25.Rd1 Bh6 26.Kh1 Bf4 27.a4 Bd5 28.Bc4 Nf3 29.Qe2 Nxh2 30.Bxd5 cxd5
+31.f3 Nxf1 32.Rxf1 e3 33.c6 d4 34.Rd1 Bg3 35.f4 e4 36.Nb3 d3 37.Qxe3 Qg4
+38.Rb1 Qh4+ 39.Kg1 Qh2+ 40.Kf1 Qh1+ 41.Qg1 e3 42.Qxh1 e2+ 43.Kg1 d2  0-1
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.24"]
+[Round "7"]
+[White "Onischuk,Al"]
+[Black "Malakhov,V"]
+[Result "1-0"]
+[WhiteElo "2652"]
+[BlackElo "2700"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 a6 5.e3 b5 6.b3 Bg4 7.Be2 Nbd7 8.O-O e6 9.h3 Bh5
+10.Bb2 Bd6 11.Ne5 Bxe2 12.Nxe2 Qc7 13.cxd5 cxd5 14.Rc1 Qb8 15.Nc6 Qb7 16.Qd3 O-O
+17.Rc2 Rac8 18.Rfc1 Nb8 19.Nxb8 Rxc2 20.Qxc2 Rxb8 21.Qc6 Ne8 22.f3 b4 23.e4 a5
+24.Kf2 dxe4 25.Qxb7 e3+ 26.Kxe3 Rxb7 27.Rc8 Rb8 28.Rxb8 Bxb8 29.d5 e5 30.Kd3 Kf8
+31.Kc4 Ke7 32.Kb5 Bd6 33.Kc6 g6 34.Bc1 f5 35.Bg5+ Kf7 36.Bd8 e4 37.fxe4 fxe4
+38.Bxa5 Ke7 39.Bb6 g5 40.Nd4  1-0
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.24"]
+[Round "7"]
+[White "Bologan,V"]
+[Black "Rublevsky,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2655"]
+[ECO "D27"]
+
+1.d4 d5 2.c4 dxc4 3.e3 e6 4.Bxc4 c5 5.Nf3 a6 6.O-O Nf6 7.Bb3 b5 8.a4 b4 9.e4 cxd4
+10.Nbd2 Be7 11.e5 Nfd7 12.Nc4 Nc6 13.Nxd4 Ncxe5 14.Be3 O-O 15.Nxe5 Nxe5 16.f4 Ng6
+17.Qf3 Bd7 18.Rad1 Qa5 19.f5 exf5 20.Nxf5 Qxf5 21.Qxf5 Bxf5 22.Rxf5 Bf6 23.Bd4 Rfd8
+24.Bxf6 gxf6 25.Rxf6 Rxd1+ 26.Bxd1 Rd8 27.Bb3 Ne5 28.Rxa6 Rd2 29.Rb6 Rxb2
+30.Bd5 Ng4 31.Be4 Re2 32.Bd3 Re1+ 33.Bf1 Rb1 34.a5 Ne3 35.Kf2 Nxf1 36.a6 Ra1
+37.Rxb4 Nxh2 38.a7 Rxa7 39.Kg1 Nf3+ 40.gxf3 Ra2 41.Rg4+ Kh8 42.Rf4 Kg7 43.Rg4+ Kh6
+44.Rh4+ Kg6 45.Rg4+ Kf6 46.Rh4 Kg7 47.Rg4+ Kh8 48.Rf4 Ra7 49.Kg2 h6 50.Kg3 Kh7
+51.Rf6 Kg7 52.Rb6 Re7 53.f4 Re6 54.Rb5 Rg6+ 55.Kh4 Kf6 56.Kh3 Rg1 57.Ra5 Kg6
+58.Kh4 Rf1 59.Kg4 h5+ 60.Kg3 Rg1+ 61.Kf2 Rg4 62.Kf3 Kh6 63.Ra8 Rh4 64.Ke4 Kg6
+65.Rg8+ Kf6 66.Kf3 Rh3+ 67.Kg2 Rc3 68.Rg5 h4 69.Rh5 Rg3+ 70.Kf2  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.24"]
+[Round "7"]
+[White "Lautier,J"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2676"]
+[BlackElo "2719"]
+[ECO "E58"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 d5 7.O-O Nc6 8.a3 Bxc3
+9.bxc3 Qc7 10.Bb2 Na5 11.cxd5 exd5 12.Ne5 c4 13.Bc2 Ne4 14.f3 Nd6 15.Qb1 g6
+16.a4 f6 17.Ng4 Bxg4 18.fxg4 Kg7 19.Ba3 Rae8 20.Qb4 Rd8 21.Rf4 Rf7 22.Raf1 Nb3
+23.Bxb3 cxb3 24.Qxb3 Ne4 25.Rxe4 dxe4 26.c4 Rc8 27.Rc1 Qb6 28.Qd1 Qa6 29.c5 Rd7
+30.Qb3 Qc6 31.a5 Rcc7 32.Rf1 Qd5 33.Qb1 Rc6 34.Rf4 Re6 35.h3 h6 36.Bb4 Rf7
+37.Be1 b6 38.axb6 axb6 39.cxb6 Rb7 40.Qc2 Rexb6 41.Bg3 Rb2 42.Qc8 Re7 43.Rxf6 Kxf6
+44.Qf8+ Ke6 45.Qg8+ Rf7 46.Qe8+ Re7 47.Qg8+ Rf7 48.Qe8+ Re7  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.24"]
+[Round "7"]
+[White "Zvjaginsev,V"]
+[Black "Sokolov,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2654"]
+[BlackElo "2706"]
+[ECO "A21"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 Bc5 4.e3 Nf6 5.d4 Nxd5 6.cxd5 exd4 7.exd4 Bb4+ 8.Bd2 Bxd2+
+9.Qxd2 O-O 10.Bc4 d6 11.Ne2 Re8 12.O-O Nd7 13.Nc3 Nf6 14.Bd3 Bd7 15.h3 h6
+16.Rae1 Rxe1 17.Rxe1 Qf8  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.24"]
+[Round "7"]
+[White "Aleksandrov,A"]
+[Black "Zhang Zhong"]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2639"]
+[ECO "E48"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.cxd5 exd5 7.Ne2 Re8 8.Bd2 Bd6
+9.Rc1 a6 10.O-O Nbd7 11.Ng3 b6 12.f3 c5 13.Nce2 Bb7 14.Qe1 Bf8 15.Qf2 Rc8
+16.Kh1 g6 17.Rcd1 Qe7 18.Rfe1 Bh6 19.Nf1 Qf8 20.a3 Re7 21.Bc2 Rce8 22.dxc5 bxc5
+23.b4 Re5 24.Ba4 Rc8 25.Bc3 Re6 26.Qh4 d4 27.Bxd7 Nxd7 28.exd4 cxd4 29.Nxd4 Rxe1
+30.Qxe1 Bg7 31.Ba1 Re8 32.Qf2 Qd6 33.Qc2 Rc8 34.Qb3 Qe7 35.h3 Nb6 36.Ne3 Qc7
+37.Qb1 Qf4 38.Ndc2 Nc4 39.Nxc4 Qxc4 40.Bxg7 Kxg7 41.Ne3 Qc3 42.Rd3 Qc1+ 43.Qxc1 Rxc1+
+44.Kh2 Bc6 45.Nd5 Bb5 46.Rc3 Ra1 47.Nc7 Ra2 48.Nxb5 axb5 49.f4 h5 50.Kg3 h4+
+51.Kf3 f5 52.Rc7+ Kf6 53.Rc6+ Kf7 54.Ra6 Rb2 55.Ra5 Rb3+ 56.Ke2 Rb2+ 57.Kf1 Rb1+
+58.Kf2 Rb2+ 59.Kg1 Rb1+ 60.Kh2 Rb3 61.Rxb5 Rxa3 62.Rb7+ Kf6 63.Rb8 Rb3 64.b5 Rb1
+65.b6 Rb2 66.Kg1 Kg7 67.Kf1 Kh7 68.Rb7+ Kh6 69.Rb8 Kg7 70.Ke1 Rxg2 71.Rc8 Rb2
+72.Rc7+ Kh6 73.b7 g5 74.fxg5+ Kxg5 75.Kd1 Kf4 76.Kc1 Rb6 77.Kc2 Ke5 78.Kd3 Kd6
+79.Rh7 Kc6 80.Kd4 f4 81.Rh6+ Kxb7 82.Rh7+ Kc6 83.Rh6+ Kb7  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.25"]
+[Round "8"]
+[White "Sokolov,I"]
+[Black "Onischuk,Al"]
+[Result "1-0"]
+[WhiteElo "2706"]
+[BlackElo "2652"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.Qc2 Nc6
+9.Rd1 Qa5 10.Be2 dxc4 11.Bxc4 b6 12.O-O Ba6 13.Bxa6 Qxa6 14.Ne4 Ne7 15.Nxf6+ gxf6
+16.Qc3 e5 17.Bh6 Rfd8 18.Nxe5 Rxd1 19.Rxd1 Qa4 20.b3 Qh4 21.Nd7 Qxh6 22.b4 Bxe3
+23.Nxf6+ Kh8 24.Ng4+ Qg7 25.Qxg7+ Kxg7 26.Nxe3 b5 27.g4 a5 28.bxa5 Rxa5 29.Rd2 h5
+30.Rd7 Ng6 31.gxh5 Nh4 32.h6+ Kxh6 33.Rxf7 Rxa2 34.h3 Kg6 35.Rf4 Ra4 36.Rf8 Kg5
+37.Kh2 Rf4 38.Rg8+ Kh5 39.Ng4 b4 40.Rb8 Nf5 41.Rb5 Kg6 42.Kg2 Re4 43.Ne5+ Kf6
+44.Nd7+ Ke7 45.Nb8 Kf6 46.Nc6 Nh4+ 47.Kh2 Re2 48.Rxb4 Kg5 49.Rg4+ Kh5 50.Rf4 Kg5
+51.Rf7 Re4 52.Rg7+ Kh5 53.Re7 Rf4 54.Re5+ Kg6 55.Re2 Kg5 56.Nd8 Kf5 57.Ne6 Rb4
+58.Kg3  1-0
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.25"]
+[Round "8"]
+[White "Rublevsky,S"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2719"]
+[ECO "B52"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 Nf6 6.Nc3 g6 7.O-O Bg7 8.d4 cxd4
+9.Nxd4 O-O 10.f3 Rc8 11.b3 d5 12.exd5 Nxd5 13.Nxd5 e6 14.Bh6 exd5 15.Bxg7 Kxg7  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.25"]
+[Round "8"]
+[White "Malakhov,V"]
+[Black "Aleksandrov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2679"]
+[ECO "D38"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 d5 4.d4 Bb4 5.cxd5 exd5 6.Qa4+ Nc6 7.Bg5 h6 8.Bxf6 Qxf6
+9.e3 O-O 10.Be2  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.25"]
+[Round "8"]
+[White "Bologan,V"]
+[Black "Zvjaginsev,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2679"]
+[BlackElo "2654"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.h3 Bb7
+9.d3 d6 10.a3 Na5 11.Ba2 c5 12.Nc3 Nc6 13.Nd5 Nxd5 14.Bxd5 Qc7 15.c3 Nb8
+16.Bxb7 Qxb7 17.Nh2 Nc6 18.Ng4 f5 19.Ne3 f4 20.Nd5 Bd8 21.a4 b4 22.Bd2 a5
+23.d4 Ne7 24.Qb3 Kh8 25.dxe5 dxe5 26.Qc4 Bb6 27.Red1 Nxd5 28.exd5 Rad8 29.Be1 f3
+30.Bd2 Qxd5 31.Qxd5 Rxd5 32.Be3 Rfd8 33.Rxd5 Rxd5 34.cxb4 axb4 35.a5 Ba7
+36.gxf3 Kg8 37.Kf1 Kf7 38.Ke2 Ke6 39.b3 Rd6 40.Rg1 g6 41.Rc1 Rd8 42.Bxc5  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.25"]
+[Round "8"]
+[White "Zhang Zhong"]
+[Black "Lautier,J"]
+[Result "1-0"]
+[WhiteElo "2639"]
+[BlackElo "2676"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.b3 a6 6.Bxc6 Nxc6 7.Bb2 b5 8.c4 bxc4
+9.bxc4 Rb8 10.Bc3 d6 11.Na3 e5 12.Nc2 Be7 13.Ne3 O-O 14.d3 Qd7 15.Nd2 Bg5
+16.Nd5 Ne7 17.Rb1 Rxb1 18.Qxb1 f5 19.Nb6 Qc7 20.Nxc8 Rxc8 21.Nf3 Bh6 22.Re1 fxe4
+23.Rxe4 Rb8 24.Qd1 Nc6 25.h4 Qb7 26.Re1 Qd7 27.Nh2 Rf8 28.Qa4 Qb7 29.Qc2 Qd7
+30.Qe2 g6 31.Qe4 Bg7 32.Rb1 Qc7 33.Nf3 Bh6 34.g3 Rf7 35.Kg2 Kf8 36.h5 gxh5
+37.Rh1 Rf6 38.Rxh5 Kg8 39.Nh2 Rg6 40.Ng4 Bg7 41.Ne3 Ne7 42.Rh1 Qb8 43.Nd5 Nxd5
+44.Qxd5+ Kh8 45.Bd2 Bf6 46.Rh6 Kg7 47.Rh1 Qb2 48.Qxd6 Qb7+ 49.Qd5 Qxd5+ 50.cxd5 Rg4
+51.f4 exf4 52.Bxf4 Rg6 53.Rb1 Be7 54.Rb7 Kf8 55.Kf3 Ke8 56.Ke4 Kd8 57.Rb8+ Kd7
+58.Rh8 Rg7 59.Ra8 Rg6 60.Ra7+ Kd8 61.d6 Bg5 62.Kd5  1-0
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.26"]
+[Round "9"]
+[White "Lautier,J"]
+[Black "Malakhov,V"]
+[Result "1-0"]
+[WhiteElo "2676"]
+[BlackElo "2700"]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 a6 5.c5 Nbd7 6.Bf4 Nh5 7.Bd2 g6 8.e4 dxe4
+9.Nxe4 Ndf6 10.Nxf6+ Nxf6 11.Bc4 Bg7 12.O-O O-O 13.Qb3 Bg4 14.Ne5 Qxd4 15.Bc3 Qxc5
+16.Rfe1 Nd5 17.Nxg4 Nxc3 18.bxc3 b5 19.Be2 Qxc3 20.Nh6+  1-0
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.26"]
+[Round "9"]
+[White "Zvjaginsev,V"]
+[Black "Rublevsky,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2654"]
+[BlackElo "2655"]
+[ECO "D21"]
+
+1.d4 d5 2.Nf3 e6 3.c4 dxc4 4.Nc3 a6 5.Bg5 Be7 6.Bxe7 Qxe7 7.Qa4+ Nd7 8.Qxc4 c5
+9.Ne4 b5 10.Qc2 c4 11.b3 f5 12.Ned2 cxb3 13.Nxb3 Bb7 14.e3  1/2-1/2
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.26"]
+[Round "9"]
+[White "Grischuk,A"]
+[Black "Zhang Zhong"]
+[Result "1-0"]
+[WhiteElo "2719"]
+[BlackElo "2639"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Bb7 10.d4 Re8 11.Ng5 Rf8 12.Nf3 Re8 13.Nbd2 Bf8 14.a4 h6 15.Bc2 Qd7
+16.b3 g6 17.d5 Ne7 18.c4 c6 19.Bd3 b4 20.Nf1 Nh5 21.dxc6 Bxc6 22.Ne3 Bg7
+23.Ra2 Nf4 24.Nd5 Nxd3 25.Qxd3 Qb7 26.Nh2 Nxd5 27.cxd5 Bd7 28.Ng4 Kh7 29.Ne3 f5
+30.Nc4 fxe4 31.Rxe4 Rec8 32.g4 Rc5 33.Rd2 Rf8 34.Rd1 Rxd5 35.Qxd5 Bc6 36.Nxd6 Bxd5
+37.Nxb7 Bxe4 38.Nc5 Bf3 39.Rd7 Rc8 40.Be3 Rc6 41.Rf7 Bd5 42.Rd7 Bf3 43.Nd3 Kg8
+44.Nxb4 Rc3 45.Rd3 Rxd3 46.Nxd3 Bd1 47.Nc5 a5 48.Kf1 g5 49.Ke1 Bf3 50.Bd2 Bf8
+51.Nd7 Bd6 52.Bxa5 Kf7 53.Nb6 Ke6 54.Nc4 Bb8 55.Bb6 Kd5 56.a5 Kc6 57.a6 Bd6
+58.Nxd6 Kxd6 59.a7 Kd7 60.Bc5 Kc8 61.Bf8 Kb7 62.Bxh6 Bg2 63.Bxg5 Bxh3 64.f3 e4
+65.Kf2 exf3 66.Kxf3 Kxa7 67.Be3+ Kb7 68.g5 Be6 69.b4 Kc6 70.Ke4 Bb3 71.Ke5 Bc4
+72.g6 Kd7 73.Kf6 Ke8 74.g7 Kd7 75.b5 Kd8 76.b6 Kd7 77.Bd2 Kd8 78.Ba5  1-0
+
+[Event "5th Karpov"]
+[Site "Poikovsky RUS"]
+[Date "2004.03.26"]
+[Round "9"]
+[White "Onischuk,Al"]
+[Black "Bologan,V"]
+[Result "0-1"]
+[WhiteElo "2652"]
+[BlackElo "2679"]
+[ECO "E92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3 Ng4 8.Bg5 f6
+9.Bh4 Nc6 10.d5 Ne7 11.Nd2 Nh6 12.O-O g5 13.Bg3 f5 14.exf5 Nhxf5 15.Bh5 Nd4
+16.f3 b5 17.cxb5 Rb8 18.Nde4 Nxb5 19.Qd2 h6 20.Bg4 Nd4 21.Bxc8 Qxc8 22.b3 Qb7
+23.Rac1 Rf7 24.Bf2 Nxd5 25.Bxd4 exd4 26.Nxd5 Qxd5 27.Qd3 Qb5 28.Qxb5 Rxb5
+29.Rc6 Rb6 30.Rc2 c5 31.Re1 d3  0-1

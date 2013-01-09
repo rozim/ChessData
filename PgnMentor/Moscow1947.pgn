@@ -1,0 +1,2290 @@
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Trifunovic, Petar"]
+[Black "Novotelnov, Nikolay Alexandrovi"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E22"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 Nc6 5.e3 d6 6.Bd3 e5 7.Ne2 Bxc3+ 8.Qxc3 e4
+9.Bc2 O-O 10.b3 d5 11.Ba3 Re8 12.Nf4 Ne7 13.Bxe7 Rxe7 14.Nxd5 Nxd5 15.cxd5 Qxd5
+16.O-O Bg4 17.Bd1 Bxd1 18.Rfxd1 Rd7 19.Rac1 c6 20.Qc5 Qxc5 21.Rxc5 Kf8 22.Rdc1 h6
+23.Kf1 Rad8 24.Ke2 Rd5 25.b4 Rxc5 26.bxc5 Ke7 27.Rb1 Rb8 28.a4 b5 29.axb5 cxb5
+30.Ra1 Rb7 31.Ra6 Kd8 32.Kd2  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Boleslavsky, Isaak"]
+[Black "Botvinnik, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Be6 10.Bxe6 fxe6 11.d4 Qd7 12.dxe5 dxe5 13.Qxd7 Nxd7 14.Be3 Nc5 15.Bxc5 Bxc5
+16.Nbd2 Bb6  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Boleslavsky, Isaak"]
+[Black "Kotov, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 Qc7 7.O-O e6 8.f4 Nc6
+9.Be3 Be7 10.Qe1 Nxd4 11.Bxd4 b5 12.a3 Bb7 13.Qg3 O-O 14.Rad1 Rfd8 15.Rf2 Ne8
+16.Qe3 Rd7 17.Bg4 Nf6 18.Bh3 Qc6 19.Qg3 Nh5 20.Qf3 Nf6 21.Qg3 Nh5 22.Qf3 Nf6  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Boleslavsky, Isaak"]
+[Black "Kottnauer, Cenek"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B71"]
+
+1.e4 c5 2.Nf3 d6 3.d4 Nf6 4.Nc3 cxd4 5.Nxd4 g6 6.f4 Nc6 7.Be2 Nxd4 8.Qxd4 Bg7
+9.Be3 O-O 10.Qd2 Be6 11.O-O Qc8 12.Kh1 Rd8 13.Bf3 Bg4 14.Rad1 Bxf3 15.gxf3 Qh3
+16.Qf2 Nh5 17.Ne2 Bxb2 18.c3 Qc8 19.f5 d5 20.Rd2 Ba3 21.Rfd1 Qc4 22.e5 Ng7
+23.Nd4 Bc5 24.e6 Bxd4 25.Rxd4 Qa6 26.Rf4 fxe6 27.fxg6 hxg6 28.Bd4 Rf8 29.Rg4 e5
+30.Bxe5 Rf5 31.Re1 Raf8 32.f4 R8f7 33.Qg2 Kh7 34.Rg1 R7f6 35.Bxf6 Rxf6 36.Rh4+ Kg8
+37.Qxd5+ e6 38.Qd8+ Rf8 39.Rh8+ Kxh8 40.Qxf8+ Kh7 41.Qc8 Qb5 42.c4 Qb2 43.Qd7 Qc2
+44.Qxb7 Qxc4 45.Qxa7 Qxf4 46.Qb7 e5 47.Qg2 Qf5 48.a4 Nh5 49.a5 Nf4 50.Qb7+ Kh6
+51.Qa8 Kh7 52.Qb7+ Kh6 53.Qa8 Kh7  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Boleslavsky, Isaak"]
+[Black "Pachman, Ludek"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C90"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 b5 6.Bb3 Be7 7.O-O d6 8.c3 Na5
+9.Bc2 c5 10.Re1 Nc6 11.a4 Be6 12.d4 cxd4 13.cxd4 Bg4 14.dxe5 dxe5 15.Be3 O-O
+16.Nc3 Bb4 17.h3 Bxf3 18.Qxf3 Nd4 19.Bxd4 Qxd4  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Boleslavsky, Isaak"]
+[Black "Plater, Kazimierz"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Nf3 c5 6.dxc5 Na6 7.Bd2 Nxc5 8.e3 b6
+9.Be2 Bb7 10.O-O Bxc3 11.Bxc3 d5 12.Rad1 Qe7 13.Bb4 Rac8 14.b3 Rfd8 15.Nd4 Qe8
+16.Qb2 dxc4 17.bxc4 Bc6 18.f3 Ba4 19.Nb3 Qc6 20.Rd4 Bxb3 21.axb3 a5 22.Bc3 Ne8
+23.Rfd1 Qc7 24.Be1 f6 25.Qc2 e5 26.Rd5 Rxd5 27.Rxd5 Rd8 28.Qd1 Rxd5 29.Qxd5+ Kf8
+30.b4 axb4 31.Bxb4 Qd6 32.Kf2 Qxd5 33.cxd5 Ke7 34.Bd3 g6 35.Ke2 Kd6 36.e4 Ke7
+37.Ke3 Nd6 38.g3 g5 39.Ba3 Kd7 40.Bf1 Ke7 41.Bb4 Kd8 42.h4 h6 43.h5 Kd7 44.Bh3+ Ke7
+45.Kd2 Kd8 46.Kc2 Kc7 47.Kd2 Kd8 48.Ke3 Nc4+ 49.Ke2 Nd6  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Boleslavsky, Isaak"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 Be7 7.O-O O-O 8.Re1 Nd7
+9.Nbd2 Nb6 10.Bb3 Bf6 11.Nf1 Na5 12.Bc2 c5 13.h3 Nc6 14.Ng3 Qc7 15.Nh2 Be6
+16.Ng4 Be7 17.Qf3 Rfe8 18.Nf5 Bf8 19.h4 Kh8 20.Nge3 g6 21.Ng3 Ne7 22.h5 Ng8
+23.Bb3 Qe7 24.hxg6 fxg6 25.Bxe6 Qxe6 26.a4 a5 27.Nd5 Nxd5 28.exd5 Qe7 29.Ne4 Bh6
+30.Bxh6 Nxh6 31.Qf6+ Qxf6 32.Nxf6 Rf8 33.Ne4 Ra6  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Boleslavsky, Isaak"]
+[Black "Sokolsky, Alexey"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Nf3 d6 6.e3 b6 7.Bd3 Bxc3+ 8.bxc3 Nbd7
+9.O-O Bb7 10.Ba3 c5 11.Nd2 e5 12.f4 Re8 13.fxe5 dxe5 14.d5 Qe7 15.e4 Nf8
+16.Bc1 Ng6 17.Nb3 Rad8 18.Qe2 Bc8 19.h3 h6 20.Be3 Nh7 21.Nd2 Rd6 22.Rf2 Ng5
+23.Nf3 Rf6 24.Nxg5 hxg5 25.g3 Rxf2 26.Bxf2 Bxh3 27.Qh5 g4 28.Be3 Qf6 29.Qf5 Qd6
+30.a4 Ne7 31.Qf2 a5 32.Rb1 Nc8 33.Be2 Qc7 34.Bd3 Nd6 35.Qb2 Rb8 36.Qf2 Rb7
+37.Rb2 Qd7 38.Ra2 f6 39.Ra1 Rb8 40.Rb1 Rb7 41.Ra1 Qe8 42.Ra2 Rf7 43.Qb2 Rb7
+44.Qf2 Qf8 45.Rb2 g6 46.Bc1 f5 47.exf5 e4 48.Be2 Nxf5 49.Qf4 Qf6 50.Rc2 g5
+51.Qxg5+ Qxg5 52.Bxg5 Nxg3 53.Bf4 Nf5 54.Rb2 Kf7 55.Bd1 Ke7 56.Re2 Nd6 57.Bc2 Rb8
+58.Bxe4 Rf8 59.Bf5+ Kd8 60.Bg5+ Kc7 61.Re7+ Kb8 62.Bf4 Rxf5 63.Bxd6+ Kc8
+64.Rc7+ Kd8 65.Rh7 Bf1 66.Bc7+ Kc8 67.Bxb6 Bxc4 68.Rc7+ Kb8 69.d6 Rd5 70.Ba7+ Ka8
+71.Bxc5 Rd1+ 72.Kh2 Be6 73.Re7 Bf5 74.Bd4 Kb8 75.Be5 Kc8 76.Rc7+ Kd8 77.Bf6+ Ke8
+78.Re7+ Kf8 79.Bg7+ Kg8 80.Be5 Rd3 81.Rc7 Re3 82.Bf4 Re8 83.Bg5 Rc8 84.d7 Bxd7
+85.Rxd7 Rxc3 86.Rd5 Kf7 87.Rxa5 Ke6 88.Bf4 Rf3 89.Bg3 Ra3 90.Re5+ Kd7  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Boleslavsky, Isaak"]
+[Black "Trifunovic, Petar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 g6 7.O-O Bg7 8.Re1 O-O
+9.Nbd2 Nd7 10.Nf1 Nb6 11.Bc2 d5 12.Qe2 d4 13.cxd4 Nxd4 14.Nxd4 Qxd4 15.Bb3 Qd6
+16.Be3 Be6 17.Rac1 Rfc8 18.Nd2 Bxb3 19.Nxb3 Nd7 20.Rc3 c5 21.a4 a5 22.Nd2 b6
+23.Rb3 f5 24.Nc4 Qe6 25.exf5 gxf5 26.Bd2 Rc6 27.Bc3 Qd5 28.Qf3 e4 29.dxe4 Qxc4
+30.exf5 Rac8 31.Qg3 Qf7 32.Qxg7+ Qxg7 33.Bxg7 Kf7 34.Rg3 Rd6 35.Bc3 Nf6 36.Rge3 Re8
+37.Rxe8 Nxe8 38.g4 h5 39.f3 Rd3 40.Kg2 Nc7 41.g5  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Bondarevsky, Igor"]
+[Black "Boleslavsky, Isaak"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D00"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nc3 d5 4.Bf4 Bg7 5.h3 Ne4 6.e3 Nxc3 7.bxc3 c5 8.Be5 f6
+9.Bg3 Qa5 10.Qd2 c4 11.Be2 Nd7 12.O-O Nb6 13.Bc7 Bd7 14.Nh2 Rc8 15.Bxb6 axb6
+16.f4 O-O 17.Bf3 Kh8 18.Ng4 Rcd8 19.Rab1 Bc6 20.h4 b5 21.Be2 e6 22.Nh2 Qc7
+23.h5 Ra8 24.hxg6 hxg6 25.Ra1 Ra3 26.Rf3 Qa5 27.e4 dxe4 28.Rg3 f5 29.Kf2 Rd8
+30.Rh1 Kg8 31.Nf1 Be8 32.Rgh3 Qc7 33.Ke1 b4 34.cxb4 Rxh3 35.Rxh3 Bxd4 36.Qc1 Qb6
+37.Ne3 Qxb4+ 38.Kf1 b5 39.c3 Qxc3 40.Qxc3 Bxc3 41.Nxc4 Bf6 42.Na3 Rd2 43.Bxb5 Bxb5+
+44.Nxb5 Rxa2 45.Nc7 e5 46.Nd5 Bg7 47.Rb3 Ra7 48.g4 Kf7 49.Rb5 Ke6 50.Ne3 exf4
+51.gxf5+ gxf5 52.Rb6+ Ke5 53.Rb5+ Ke6 54.Rb6+ Ke5 55.Rb5+ Kd4 56.Nxf5+ Kd3
+57.Rd5+ Kc4 58.Rd8 Be5 59.Re8 Ra5 60.Kg2 Kd3 61.Kh3 Bc7 62.Rf8 e3 63.Nh4 Rh5
+64.Rf7 Be5 65.Rd7+ Ke4 66.Rd1 Bf6  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Bondarevsky, Igor"]
+[Black "Botvinnik, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D30"]
+
+1.d4 d5 2.c4 e6 3.Nf3 c6 4.Nbd2 f5 5.Ne5 Nf6 6.g3 Nbd7 7.Nxd7 Bxd7 8.Bg2 Bd6
+9.c5 Bc7 10.O-O O-O 11.Nf3 Be8 12.Bf4 Bxf4 13.gxf4 Bh5 14.Ne5 Nd7 15.Nxd7 Qxd7
+16.Qd2 h6 17.Rac1 Kh7 18.Rc3 Rg8 19.Rg3 Raf8 20.Rc1 g5 21.e3 Rf6 22.fxg5 hxg5
+23.f4 Rfg6 24.fxg5 Rxg5 25.Rxg5 Rxg5 26.Rf1 Qg7 27.Rf4 Bg4 28.Qf2 Qh6 29.Kh1 Kg7
+30.Bf3 Bxf3+ 31.Rxf3 Kf6 32.Rg3 Qh4 33.Qf4 Qxf4 34.exf4 Rxg3 35.hxg3 Kg6
+36.Kg2 Kh6  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Bondarevsky, Igor"]
+[Black "Keres, Paul"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E04"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Nf3 c6 6.Ne5 Bb4+ 7.Nc3 Nd5 8.Bd2 Nb6
+9.Ne4 a5 10.e3 O-O 11.Qc2 N8d7 12.Bxb4 axb4 13.Nxc4 Nxc4 14.Qxc4 Qe7 15.f4 Nb6
+16.Qb3 Nd5 17.O-O b6 18.Nd2 c5 19.e4 Nc7 20.d5 Ba6 21.Rfe1 Nb5 22.dxe6 fxe6
+23.Nf3 Kh8 24.Bf1 Nc7 25.Bxa6 Rxa6 26.Rad1 Nb5 27.a4 Nd4 28.Nxd4 cxd4 29.Rxd4 e5
+30.fxe5 Qxe5 31.Qxb4 Qf6 32.Qd2 b5 33.b3 bxa4 34.bxa4 h6 35.Rd1 Raa8 36.Qe2 Qc6
+37.Qc4 Qb6 38.Qb5 Qf6 39.Qe2 Qb6 40.Kg2 Qb3 41.Rf1 Rfc8 42.Rf3 Qb1 43.Rf2 Rc1
+44.Qb2 Qa1 45.Qb6 Kh7 46.Rd6 Rg8 47.Qb5 Rg1+ 48.Kh3 Qe1 49.Qf5+ Kh8 50.Qh5 Qxe4
+51.Re2 Qb7 52.Qe5 Qc8+ 53.Kh4 Kh7 54.Qe4+ g6 55.Rc2 Re1 56.Qd3 Qf5 57.Rc7+ Rg7
+58.Rxg7+ Kxg7 59.Rd7+ Kf6 60.Qd4+ Re5 61.Qd6+ Re6 62.Qf8+ Ke5 63.Qc5+ Kf6
+64.Qf8+ Ke5 65.Qb8+ Ke4 66.Qb1+ Ke3 67.Qe1+ Kf3 68.Qf1+ Ke3 69.Qg1+ Kf3 70.Qf1+ Ke3
+71.Qxf5 gxf5 72.a5 f4 73.gxf4 Kxf4 74.Ra7 Kf3 75.Kh3 Kf4 76.Rb7 Ra6 77.Rb5 Kf3
+78.Kh4 Kf4 79.Rb4+ Kf3 80.Ra4 Kg2 81.Ra2+ Kf3 82.Ra3+ Ke4 83.Ra4+ Kf5 84.Kh5 Ke5
+85.Kg4 Ke6 86.Kf4 Kf6 87.Ke4 Ke6 88.Ra3 Ke7 89.Ke5 Ke8 90.h4 Ke7 91.Kd5 Kd7
+92.h5 Kd8 93.Kc5 Kc7 94.Kb5 Rf6 95.Rc3+ Kb7 96.Rc5 Rf1 97.a6+ Ka7 98.Rc7+ Kb8
+99.Rc6 Ka7 100.Rxh6 Rf5+ 101.Kc4 Re5 102.Kd4 Rg5 103.Ke4 Rc5 104.Kd4 Rg5
+105.Rh8 Rf5  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Bondarevsky, Igor"]
+[Black "Kotov, Alexander"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D60"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 Be7 5.Nc3 O-O 6.e3 Nbd7 7.Qb3 c6 8.Be2 b6
+9.O-O Bb7 10.Rad1 Qc7 11.cxd5 exd5 12.Rc1 Qd8 13.Bf4 Nh5 14.Be5 Kh8 15.Nd2 Nhf6
+16.Bg3 Ne8 17.Nf3 Bd6 18.Ne5 Qe7 19.Nxd7 Qxd7 20.a4 Bxg3 21.hxg3 Nd6 22.a5 b5
+23.Na2 Nc4 24.Qc3 Qd8 25.b3 Nxa5 26.Nb4 Qb6 27.Ra1 Rac8 28.Rfc1 f5 29.Qc2 Qd8
+30.Qa2 c5 31.Rxc5 Rxc5 32.dxc5 Nc6 33.Nxc6 Bxc6 34.Qa6 Qf6 35.Rd1 h6 36.Bxb5 Bxb5
+37.Qxb5 a6 38.Qd3 Rd8 39.Rc1 d4 40.Rd1 Rd5 41.exd4 Qc6 42.Qc4 a5 43.Ra1 Rd8
+44.Qa4 Qe4 45.c6 Rc8 46.Rc1 f4 47.gxf4 Qxf4 48.Qa1 Rf8 49.Qb2 Rf7 50.Qc2 Qc7
+51.d5 Rf6 52.Re1 Kg8 53.Qc4 Kh7 54.Re8 h5 55.Qe4+ Kh6 56.Rh8+ Kg5 57.Qe3+ Kg6
+58.Qe8+  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Bondarevsky, Igor"]
+[Black "Kottnauer, Cenek"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bd2 O-O 5.Nf3 b6 6.g3 Bb7 7.Bg2 d6 8.O-O Nbd7
+9.a3 Bxc3 10.Bxc3 Ne4 11.Qc2 f5 12.b4 Nxc3 13.Qxc3 Qe7 14.Rad1 Be4 15.Ne1 Bxg2
+16.Nxg2 Rae8 17.Qb3 Nf6 18.Qa4 a5 19.Qc6 axb4 20.axb4 Qd7 21.Qxd7 Nxd7 22.Ra1 Ra8
+23.Nf4 Kf7 24.d5 exd5 25.cxd5 Nf6 26.h4 Rfe8 27.Rfc1 Rxa1 28.Rxa1 g6 29.e3 h6
+30.b5 Re5 31.Rd1 g5 32.hxg5 hxg5 33.Ne6 Rxd5 34.Nxg5+ Kg6 35.Rxd5 Nxd5 36.Ne6 Kf6
+37.Nd4 Ke5 38.Kf1 Nf6 39.Ke2 Ne4 40.Kf3 Nd2+ 41.Kg2 d5 42.f3 Nc4 43.Kf2 Nd6
+44.Ke2 Nb7  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Bondarevsky, Igor"]
+[Black "Plater, Kazimierz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E18"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O b6 7.Ne5 Bb7 8.Nc3 Qc8
+9.cxd5 exd5 10.Bg5 c6 11.e4 dxe4 12.Nxe4 Qe6 13.Re1 Nxe4 14.Bxe7 Qxe7 15.Bxe4 Qf6
+16.Rc1 g6 17.Rc3 a5 18.Rf3 Qd6 19.Qb3 Qc7 20.Rc1 Ra7 21.Bd5 c5 22.Rxf7 Rxf7
+23.Bxf7+ Kg7 24.Bd5 Qd6 25.Bxb7 Rxb7 26.Nc4 Qxd4 27.Rd1 Qf6 28.Nd6 Re7 29.Qxb6 Nd7
+30.Ne8+ Kf7 31.Qxf6+ Nxf6 32.Nxf6 Kxf6 33.Rd6+ Ke5 34.Ra6 Kd4 35.Rxa5 c4
+36.Rb5 Re1+ 37.Kg2 Rb1 38.a3 Kd3 39.Rb4 g5 40.h3 h5 41.Kf3 Rh1  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Bondarevsky, Igor"]
+[Black "Smyslov, Vassily"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D00"]
+
+1.d4 Nf6 2.Nf3 g6 3.Nc3 d5 4.Bf4 Bg7 5.h3 O-O 6.e3 c5 7.Be2 Nbd7 8.Ne5 e6
+9.O-O Nxe5 10.Bxe5 b6 11.a4 Bb7 12.a5 Bc6 13.Na4 c4 14.Qe1 Re8 15.b3 Bxa4
+16.Rxa4 b5 17.Ra1 a6 18.bxc4 dxc4 19.Bf3 Nd5 20.Bxg7 Kxg7 21.e4 Ne7 22.Qc3 Kg8
+23.Rfd1 Rb8 24.h4 Qc7 25.h5 b4 26.Qe3 e5 27.Qg5 Nc6 28.dxe5 Qxe5 29.Qxe5 Rxe5
+30.h6 Rxa5 31.Rxa5 Nxa5 32.e5 b3 33.cxb3 cxb3 34.Be4 Nc4 35.Kf1 a5 36.Ke2 Kf8
+37.Rd4 Nxe5 38.f4 Ng4 39.Ra4 Re8 40.Kf3 f5  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Bondarevsky, Igor"]
+[Black "Sokolsky, Alexey"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C15"]
+
+1.d4 e6 2.e4 d5 3.Nc3 Bb4 4.Bd3 c5 5.exd5 Qxd5 6.Bd2 Bxc3 7.Bxc3 cxd4 8.Bxd4 Qxg2
+9.Qf3 Qxf3 10.Nxf3 f6 11.Rg1 Kf7 12.O-O-O Nc6 13.Bc3 Nge7 14.Bc4 a6 15.Bb3 Nf5
+16.Rg4 Rd8 17.Rdg1 b5 18.Nh4 Nce7 19.Nxf5 Nxf5 20.a4 Bb7 21.Ba5 Rd4 22.c3 Rxg4
+23.Rxg4 h5 24.Rb4 Bc6 25.Bd1 g6 26.Be2 Ne7 27.c4 Be8 28.Kd2 Ra7 29.Bb6 Rd7+
+30.Kc3 Nc6 31.cxb5 Nxb4 32.Kxb4 Rd2 33.Bf3 axb5 34.a5 Rxb2+ 35.Kc3 Ra2 36.Bb7 Bd7
+37.a6 Bc6 38.Kb4 Ra4+ 39.Kc5 Rc4+ 40.Kd6 Bd5 41.Bxd5  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Botvinnik, Mikhail"]
+[Black "Kholmov, Ratmir D"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E47"]
+
+1.c4 Nf6 2.Nc3 e6 3.d4 Bb4 4.e3 O-O 5.Bd3 d6 6.Ne2 e5 7.O-O Nc6 8.d5 Nb8
+9.a3 Bxc3 10.Nxc3 a5 11.e4 Ne8 12.Be3 f6 13.Qd2 Rf7 14.b4 Nd7 15.c5 b6 16.cxb6 Nxb6
+17.bxa5 Rxa5 18.Nb5 Ra8 19.Qc2 Na4 20.Rfb1 g6 21.Na7 c5 22.Nxc8 Qxc8 23.Bb5 Rfa7
+24.Bc6 f5 25.f3 f4 26.Bf2 g5 27.Rb3 g4 28.fxg4 Qxg4 29.Bxa8 Rxa8 30.Rab1  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Botvinnik, Mikhail"]
+[Black "Kottnauer, Cenek"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D13"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.cxd5 cxd5 5.Nc3 Nc6 6.Bf4 e6 7.e3 Bd6 8.Bd3 O-O
+9.O-O b6 10.Rc1 Bb7 11.a3 Rc8 12.Qe2 Bxf4 13.exf4 Na5 14.Rc2 Nc4 15.Rfc1 a6
+16.Nb1 b5 17.b3 Nd6 18.Rxc8 Bxc8 19.Ne5 Bd7 20.g4 g6 21.Kg2 Nfe8 22.Qe3 f6
+23.Nf3 Ng7 24.h3 Qb6 25.Rc5 Nb7 26.Rc2 Rc8 27.Rxc8+ Bxc8 28.g5 Qc7 29.gxf6 Nh5
+30.Ne5 Nxf6 31.Qd2 Nd6 32.Qc2 Qxc2 33.Bxc2 Nf7 34.Nc3 Nxe5 35.fxe5 Ne8 36.Kf3 Nc7
+37.Ke3 Kf7 38.Ne2 Ke7 39.Nf4 a5 40.Nd3 Na6 41.b4 axb4 42.axb4 Nb8 43.Kd2 Nc6
+44.Kc3 Nd8 45.h4 Nf7 46.Nf4 Bd7 47.Kd2 Be8 48.Bd3 Nh6 49.h5 Nf5 50.hxg6 hxg6
+51.Kc3 Kf7 52.Be2 Bd7 53.Nd3 Ke7 54.Nc5 Be8 55.Na6 Kd8 56.Bg4 Bd7 57.Nc5 Ke7
+58.Kd3 Bc8 59.Bh3 Ke8 60.Kc3  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Botvinnik, Mikhail"]
+[Black "Novotelnov, Nikolay Alexandrovi"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D74"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d5 6.cxd5 Nxd5 7.O-O c5 8.e4 Nb6
+9.d5 e6 10.Bg5 f6 11.Be3 Na6 12.Nc3 Nc4 13.Bc1 e5 14.Nb5 Bd7 15.a4 Qb6 16.b3 Na5
+17.Re1 Nb4 18.Na3 a6 19.Be3 Qd6 20.Nd2 b5 21.Bf1 f5 22.f3 f4 23.Bf2 fxg3
+24.hxg3 Bh6 25.Be3 Bxe3+ 26.Rxe3 Qb6 27.Kf2 Nb7 28.Nc2 Nxc2 29.Qxc2 g5 30.Qc3 Qf6
+31.axb5 axb5 32.Rxa8 Rxa8 33.Re1 h5 34.Ra1 Re8 35.Ra7 Qb6 36.Rxb7 Qxb7 37.Qe3 g4
+38.Qg5+ Kf8 39.Qf6+ Kg8 40.Qg6+ Kf8 41.Qf6+ Kg8 42.Qg6+ Kf8 43.Qxh5 Ra8 44.Qh8+ Kf7
+45.Qh7+ Kf8 46.Qh8+ Kf7 47.Qh7+ Kf8 48.Bxb5 Qxb5 49.Qh8+ Kf7 50.Qxa8 Qd3
+51.Qa5 Bb5 52.Qc7+ Ke8 53.Qxe5+ Kd7 54.Qf5+ Ke8 55.Qh5+  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Botvinnik, Mikhail"]
+[Black "Pachman, Ludek"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A28"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e3 Bb4 5.d4 exd4 6.exd4 d5 7.Bg5 Bg4 8.a3 Be7
+9.Be3 O-O 10.h3 Bxf3 11.gxf3 Re8 12.Be2 dxc4 13.Bxc4 Bd6 14.Qd3 Qe7 15.O-O-O Nh5
+16.Rhg1 Qf6 17.Rg5 Rxe3 18.Rxg7+ Nxg7 19.fxe3 Re8 20.Nd5 Qh6 21.Kb1 Na5 22.e4 Nxc4
+23.Qxc4 c6 24.Nc3 Qe6 25.d5 cxd5 26.Nxd5 f5 27.Re1 Kh8 28.Qd3 fxe4 29.Rxe4 Qg6
+30.Ka2 Rxe4 31.fxe4 Qe6 32.Ka1 Be5 33.Qb5 b6 34.Qf1 Kg8 35.Qf3 Ne8 36.Qb3 Nc7
+37.Qf3 Nxd5 38.exd5 Qf6 39.Qg4+ Kf7 40.Qd7+ Qe7 41.Qf5+ Kg7 42.Ka2 Kh6 43.b4 Qg5
+44.Qe6+ Qf6 45.Qd7 a6  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Botvinnik, Mikhail"]
+[Black "Ragozin, Viacheslav"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E40"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 Qe7 5.Ne2 b6 6.a3 Bxc3+ 7.Nxc3 Bb7 8.d5 d6
+9.Be2 Nbd7 10.O-O O-O 11.e4 exd5 12.exd5 Rfe8 13.Be3 a6 14.Qc2 Ne5 15.Rae1 Bc8
+16.Bd4 Bd7 17.f4 Ng6 18.g4 Qd8 19.g5 Ng4 20.Qd2 h6 21.f5 N6e5 22.h3 Nf6 23.gxf6 Qxf6
+24.Qf4 Re7 25.Kh1 c5 26.Bg1 g6 27.fxg6 Qxf4 28.Rxf4 fxg6 29.Rf6 Bf5 30.Rxd6 Nxc4
+31.Re6 Rxe6 32.dxe6 Bxe6 33.Bf3  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Botvinnik, Mikhail"]
+[Black "Trifunovic, Petar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D14"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.cxd5 cxd5 5.Nc3 Nc6 6.Bf4 Bf5 7.e3 e6 8.Qb3 Bb4
+9.Bb5 O-O 10.O-O Bxc3 11.Bxc6 Bxb2 12.Bxb7 Bxa1 13.Rxa1  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Botvinnik, Mikhail"]
+[Black "Tsvetkov, Alexandar K"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E08"]
+
+1.c4 Nf6 2.d4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O dxc4 7.Qc2 Nbd7 8.Nbd2 Nb6
+9.Nxc4 Nxc4 10.Qxc4 Rb8 11.Bf4 Nd5 12.Bd2 Bd7 13.Ne5 Be8 14.Rac1 c6 15.Rfd1 f6
+16.Nd3 Bf7 17.Qc2 Bd6 18.e4 Nc7 19.Be3 Qe8 20.a4 a6 21.Qc3 Bg6 22.Qa5 Rf7
+23.Nf4 Rd7 24.Nxg6 Qxg6 25.Qb6 Qh5 26.Qb3 Rdd8 27.d5 exd5 28.Ba7 Rbc8 29.Qxb7 f5
+30.exd5  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Gligoric, Svetozar"]
+[Black "Boleslavsky, Isaak"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B62"]
+
+1.e4 c5 2.Ne2 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Bb5 Bd7 8.O-O Be7
+9.Nb3 Qc7 10.Be2 a6 11.Qe1 O-O 12.f4 h6 13.Bh4 b5 14.Bf3 Rab8 15.Rd1 b4 16.Ne2 e5
+17.f5 g6 18.fxg6 fxg6 19.Bf2 Kh7 20.Qd2 Nd8 21.Be3 Nf7 22.c3 Qc4 23.cxb4 Qxb4
+24.Nc3 Be6 25.Rf2 Nd7 26.Nd5 Qxd2 27.Rdxd2 Bg5 28.Bxg5 Nxg5 29.h4 Nxf3+ 30.Rxf3 Rxf3
+31.gxf3 Kg7 32.Na5 Bxd5 33.Rxd5 Rxb2 34.Rxd6 Nf6 35.Nc4 Rxa2 36.Nxe5 g5 37.hxg5 hxg5
+38.Nc6 Nh5 39.Rd5 Kg6 40.Ne5+ Kg7 41.Nc4 Kg6 42.Rd6+ Kf7 43.Ne5+ Ke7 44.Rh6 Ng3
+45.Nc6+ Kf7 46.Nb4 Rb2 47.Nd3 Ra2 48.Nb4 Rb2 49.Nxa6 g4 50.fxg4  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Gligoric, Svetozar"]
+[Black "Bondarevsky, Igor"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C04"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nc6 4.Ngf3 Nf6 5.e5 Nd7 6.Be2 f6 7.exf6 Qxf6 8.Nb3 Bd6
+9.O-O O-O 10.c4 dxc4 11.Bxc4 Nb6 12.Bb5 a6 13.Bxc6 bxc6 14.Qc2 Bd7 15.Nc5 Be8
+16.Bg5 Qf5 17.Qxf5 Rxf5 18.Be3 Bh5 19.Nd2 e5 20.Nce4 exd4 21.Bxd4 Rd5 22.Be3 Nd7
+23.f3 Ne5 24.Rac1 Nd3 25.Rxc6 Be8 26.Rc3 Be5 27.Rb3 Ba4 28.Rb7 Bc6 29.Ra7 Rxa7
+30.Bxa7 Bxb2 31.Nc4 Bd4+ 32.Bxd4 Rxd4 33.Ncd2 Ra4 34.Nc3 Rb4 35.Rd1 Ba4 36.Nxa4 Rxa4
+37.Nb3 Ne5 38.Rd2 Kf7 39.Rc2 c6 40.Nc5 Ra3 41.f4 Ng6 42.g3 Ne7 43.Nd7 Ke6
+44.Nf8+ Kd5 45.Nxh7 Nf5 46.Ng5 Nd4 47.Rb2 c5 48.Rb7 g6 49.Rd7+ Kc6 50.Rg7 Rxa2
+51.Rxg6+ Kb5 52.Rg8 c4 53.Ne4 Ne2+ 54.Kf2 c3 55.Rb8+ Kc4 56.Nxc3 Nxc3+ 57.Kf3 Rxh2
+58.Ra8 Ra2 59.g4 Kd5 60.g5 Ke6 61.Kg4 Ra4 62.g6 Kf6 63.Kh5 Ra1 64.Rf8+ Kg7
+65.Rf7+ Kg8 66.f5 Ne4 67.Ra7 Rf1 68.Rxa6 Rxf5+ 69.Kh6 Rf8 70.Ra7  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Gligoric, Svetozar"]
+[Black "Botvinnik, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D95"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Qb3 e6 7.Bd2 b6 8.Rc1 Bb7
+9.cxd5 exd5 10.Be2 c6 11.O-O Nbd7 12.Rfd1 Re8 13.Be1 Bf8 14.Nd2 Re6 15.Bf3 Qe7
+16.Ne2 Bh6 17.Nf4 Rd6 18.Nf1 a5 19.Ng3 c5 20.dxc5 Nxc5 21.Qc2 Bxf4 22.exf4 d4
+23.Bxb7 Qxb7 24.b4 axb4 25.Bxb4 Rd5 26.Qe2 Qd7 27.f5 Re8 28.Qf3 gxf5 29.Ne2 h6
+30.Nf4 Rde5 31.h3 Rc8 32.Qg3+ Kh7 33.Nh5 Nxh5 34.Qxe5 Nd3 35.Rxd3 Rxc1+ 36.Kh2 Rc4
+37.Bd6 Qe6 38.Rxd4 Rxd4 39.Qxd4 Qxa2 40.Qxb6 Qe6 41.Qd4 Nf6  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Gligoric, Svetozar"]
+[Black "Keres, Paul"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C75"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 Nge7 7.O-O Ng6 8.c4 Be7
+9.Nc3 O-O 10.Be3 Bg4 11.Bxc6 bxc6 12.h3 Bxf3 13.Qxf3 exd4 14.Bxd4 c5 15.Be3 Bf6
+16.Rac1 Re8 17.Rfe1 Re6 18.Kh2 Rb8 19.b3 Nh4 20.Qh5 g6 21.Qg4 Be5+ 22.Bf4 Bxc3
+23.Rxc3 Nf5 24.Bg5 Qe8 25.Rcc1 Nd4 26.Bd2 Qe7 27.Bc3 Re8 28.f3 Nc6 29.Red1 a5
+30.Qf4 Ra8 31.Qh6 f6 32.Qd2 Qe8 33.Qd5 Nd4 34.Qb7 Qc6 35.Qxc6 Nxc6 36.Rb1 Kf7
+37.g4 Ree8 38.Kg3 a4 39.b4 cxb4 40.Bxb4 Rab8 41.Bc3 Ke6 42.h4 Ne5 43.Rxb8 Rxb8
+44.c5 dxc5 45.f4 Nd7 46.f5+ Ke7 47.g5 Rb6 48.Kf4 Rd6 49.Rc1 gxf5 50.exf5 Kf7
+51.Ke4  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Gligoric, Svetozar"]
+[Black "Plater, Kazimierz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Nf3 c5 6.dxc5 Na6 7.a3 Bxc3+ 8.Qxc3 Nxc5
+9.e3 b6 10.Nd2 Bb7 11.f3 d5 12.b4 Ncd7 13.Be2 Rc8 14.Qb2 Qc7 15.O-O Ne5 16.cxd5 Nxd5
+17.Ne4 Rfd8 18.Bd2 Nc4 19.Bxc4 Qxc4 20.Rac1 Qd3 21.Nf2 Qb5 22.e4 Nf6 23.a4 Qxa4
+24.Bg5 Rxc1 25.Rxc1 Rc8 26.Ra1 Qc6 27.Bxf6 gxf6 28.Qxf6 Qc3 29.Ng4 Qxf6 30.Nxf6+ Kg7
+31.Rxa7 Bc6 32.e5 Bb5 33.g4 Rc4 34.Ra8  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Gligoric, Svetozar"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A48"]
+
+1.Nf3 Nf6 2.d4 g6 3.Bf4 Bg7 4.e3 c5 5.Nbd2 b6 6.Bd3 O-O 7.c3 Nc6 8.O-O Bb7
+9.h3 d6 10.Qe2 a6 11.Rad1 cxd4 12.exd4 b5 13.Ne4 Nd5 14.Bc1 Qc7 15.Rfe1 Nd8
+16.Bb1 Rc8 17.a3 Nb6 18.h4 Bd5 19.h5 Bb3 20.Bc2 Bxc2 21.Qxc2 Qd7 22.hxg6 fxg6
+23.Ng3 Nf7 24.Qe2 Bf6 25.Qd3 d5 26.Ne2 e5 27.dxe5 Nxe5 28.Nxe5 Bxe5 29.Nd4 Rfe8
+30.Re2 Bf6 31.Rde1 Rxe2 32.Qxe2 Kf7 33.Qf3 Re8 34.Rd1 Qe7 35.Nc6 Qe2 36.Qxe2 Rxe2
+37.Kf1 Re4 38.Nb4 d4 39.cxd4 a5 40.Nc6 a4 41.f3 Rh4 42.Be3 Ke6 43.Kg1 Rh5
+44.Nb4 Nd5 45.Nxd5 Rxd5 46.Kf1 Rd7 47.Ke2 Rc7 48.Kd3 Kd5 49.b3 Be7 50.bxa4 bxa4
+51.Rb1 Bxa3 52.Rb5+ Ke6 53.Ra5 Bc1 54.Rxa4 Bxe3 55.Kxe3 h5 56.Ra6+ Kf5 57.Ra5+ Kf6
+58.Kf4 Rc2 59.g3 Rd2 60.Ra6+ Kf7 61.Kg5 Rxd4 62.Rf6+ Ke7 63.Rxg6 Rd3 64.Kf4 Ra3
+65.Rg5 Ra4+ 66.Ke3 Ra3+ 67.Kf2 Ra2+ 68.Kg1 h4 69.gxh4 Kf6 70.Rg2 Ra4 71.Rh2 Kg6
+72.Kg2 Ra1 73.Kg3 Rg1+ 74.Rg2 Rh1 75.Kf4+ Kf6 76.Kg4 Kg6 77.Ra2 Rg1+ 78.Kf4 Rb1
+79.Ra6+ Kf7 80.Kg4 Rb4+ 81.f4 Rb2 82.h5 Kg7 83.Rg6+ Kf7 84.Rg5 Rb1 85.Rc5 Kf6
+86.Rc6+ Kg7 87.Kg5 Rg1+ 88.Kf5 Ra1 89.Rc7+ Kh6 90.Re7 Rb1 91.Re8 Kg7 92.Re5 Ra1
+93.Rd5 Rf1 94.Rd4 Ra1 95.Rd6 Ra5+ 96.Kg4 Ra1 97.Re6 Rg1+ 98.Kf5 Ra1 99.h6+ Kh7
+100.Rd6 Ra2 101.Kg5 Rg2+ 102.Kf6 Kxh6 103.Ke7+ Kh7 104.f5 Re2+ 105.Re6 Ra2
+106.f6 Ra8 107.Kf7 Kh6 108.Re1 Ra7+ 109.Re7 Ra8 110.Rd7 Kh7 111.Rd1 Ra7+
+112.Ke6 Ra6+ 113.Rd6 Ra8 114.Rd4 Kg8 115.Rg4+ Kf8  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Gligoric, Svetozar"]
+[Black "Sokolsky, Alexey"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d6 5.Bg5 Nbd7 6.e3 Bxc3+ 7.bxc3 b6 8.Bd3 Bb7
+9.f3 h6 10.Bh4 Qe7 11.Ne2 e5 12.e4 O-O-O 13.Bf2 Nh5 14.Qd2 g6 15.O-O-O Ng7
+16.Be3 h5 17.Rhe1 h4 18.Ng1 f6 19.Bc2 g5 20.Nh3 Ne6 21.Nf2 Nf4 22.Ng4 Kb8
+23.Bg1 Ka8 24.Ne3 Nb8 25.g3 hxg3 26.hxg3 Ne6 27.Bb3 c5 28.Nd5 Qf7 29.dxc5 dxc5
+30.Be3 Nc6 31.Rh1 Na5 32.f4 gxf4 33.gxf4 Rxh1 34.Rxh1 exf4 35.Bxf4 Bxd5 36.cxd5 Nxf4
+37.Qxf4 c4 38.Bc2 Qe7 39.Kb2 b5 40.a3 Nb7 41.Rf1 Rd6 42.Qf5 a5 43.Rh1 Ka7
+44.Rh7 Qd8 45.e5 fxe5 46.Qxe5 Qb6 47.Qf4 Qc5 48.Qf7 Rb6 49.Qc7 Qxc7 50.Rxc7 Rd6
+51.a4 Kb6 52.Rc6+ Rxc6 53.dxc6 Nd6 54.axb5 Kxb5 55.c7 Kb6 56.Bf5 Kxc7 57.Be6 Kb6
+58.Ka3 Nb5+ 59.Kb2 Kc5 60.Bd7 Nc7 61.Ka3 Nd5 62.Kb2 Nb6 63.Be8  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Boleslavsky, Isaak"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A53"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 g6 4.Bf4 Bg7 5.e3 c6 6.Nc3 Qa5 7.Bd3 Nh5 8.Bg5 h6
+9.Bh4 g5 10.Bg3 Nd7 11.Rb1 Ndf6 12.b4 Qd8 13.O-O O-O 14.Qc2 Bd7 15.c5 Nxg3
+16.hxg3 Ng4 17.Nh2 Nxh2 18.Kxh2 f5 19.Ne2 Kh8 20.b5 dxc5 21.Qxc5 cxb5 22.Bxb5 Be6
+23.Rb2 Qd6 24.Qxd6 exd6 25.Bd3 Rf7 26.Rfb1 b6 27.a4 Rc8 28.a5 bxa5 29.Ra1 Bf6
+30.Rxa5 Bd8 31.Ra3 Bb6 32.Ba6 Rd8 33.Rc3 Kg7 34.Bc4 d5 35.Ba6 Re7 36.Kg1 Bd7
+37.f4 Kf6 38.Kf2 Re6 39.Ng1 g4 40.Ne2 Rd6 41.Ra2 Rb8 42.Nc1 Bd8 43.Nd3 Rdb6
+44.Nc5 Be8 45.Be2 Ra8 46.Rca3 Be7 47.Rxa7 Rxa7 48.Rxa7 Rb2 49.Nd3 Rc2 50.Ra5 Ke6
+51.Ke1 h5 52.Kd1 Rc3 53.Kd2 Ra3 54.Rxa3 Bxa3 55.Nc5+ Kf6 56.Ba6 Bb4+ 57.Ke2 Ke7
+58.Kf2 Bd7 59.Bd3 Bc8 60.Bb5 Ba3 61.Nd3 Bd7 62.Bxd7 Kxd7 63.Ke2 Be7 64.Kd2 Kc6
+65.Kc3 Kb5 66.Ne5 Bb4+ 67.Kd3 Be7 68.Kc2 Kb6 69.Kb3 Kb5 70.Kc3 Kb6 71.Ng6 Bf6
+72.Kb4 Bd8 73.Ka4 Ka6 74.Ne5 Ba5 75.Nc6 Be1 76.Ne7 Bxg3 77.Nxf5 Bf2 78.Kb4 Kb6
+79.g3 Kc6 80.Kc3 Kd7 81.Kd3 Ke6 82.Ke2 Bg1 83.Nh4 Kf6 84.Ng2 Kf5 85.Kf1 Bh2
+86.Nh4+  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Botvinnik, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A95"]
+
+1.d4 e6 2.Nf3 f5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.c4 d5 7.Nc3 c6 8.Rb1 Kh8
+9.cxd5 cxd5 10.Bf4 Nc6 11.Ne5 Bd7 12.Rc1 Rc8 13.Qd3 Nh5 14.Bd2 Bd6 15.Nxc6 Bxc6
+16.Qf3 Qe8 17.Qd3 Nf6 18.a3 Rc7 19.Bg5 Ng4 20.Qd2 Nf6 21.Bf4 Qd7 22.Bxd6 Qxd6
+23.Qf4 Qxf4 24.gxf4 Rfc8 25.e3 Bb5 26.Rfe1 Kg8 27.f3 Bc4 28.Bf1 Ne8 29.Bxc4 Rxc4
+30.Kf2 Nd6 31.Ke2 b5 32.Kd3 b4 33.Na2 bxa3 34.bxa3 Ra4 35.Rxc8+ Nxc8 36.Nc3 Rxa3
+37.Kc2 Nd6 38.Rb1 Kf7 39.Rb4 Ra1 40.Kd3 Ra3 41.Kc2 Ra1 42.Kd3 Re1 43.Ra4 Nc4
+44.Rxa7+ Kg6 45.e4 Re3+ 46.Kc2 Rxf3 47.exf5+ Kxf5 48.Rxg7 Rf2+ 49.Kb3 Rb2+
+50.Ka4 Rxh2 51.Rf7+ Kg6 52.Rf8 Nd6 53.Nb5 Nf5 54.Nc7 Re2 55.Ne8 Nxd4 56.Rf6+ Kh5
+57.Rf7 Nf5 58.Rxh7+ Kg4 59.Rd7 Kxf4 60.Nc7 Ke5 61.Kb4 Rc2 62.Kb3 Nd4+ 63.Kb4 Rc4+
+64.Ka5 Nf5 65.Kb6 d4 66.Na6 Nd6 67.Nc5 Kd5 68.Nd3 e5 69.Rh7 Rc6+ 70.Ka5 Nc4+
+71.Kb5 Rb6+ 72.Ka4 Nb2+ 73.Ka5 Nc4+ 74.Ka4 Rb8 75.Nb4+ Ke6 76.Nc6 Nb2+ 77.Ka3 Nc4+
+78.Ka4 Rb1 79.Rh6+ Kf5 80.Nb4  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Kotov, Alexander"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B20"]
+
+1.e4 c5 2.Ne2 Nf6 3.Nbc3 d5 4.exd5 Nxd5 5.Nxd5 Qxd5 6.d4 cxd4 7.Qxd4 Qxd4
+8.Nxd4 a6 9.Be3 Bd7 10.O-O-O Nc6 11.Nb3 e6 12.Nc5 O-O-O 13.Be2 Be8 14.c3 Be7
+15.Bf3 Rxd1+ 16.Rxd1 Nd8 17.g3 Bc6 18.Be2 e5 19.Bg4+ Kb8 20.Nd7+ Bxd7 21.Rxd7 Re8
+22.Bb6 Nc6 23.Bc7+ Ka8 24.Kc2 f6 25.Bf5 h6 26.Be4 g5 27.b4 h5 28.a4 f5 29.Bxf5 Rf8
+30.Be4 Rxf2+ 31.Kd3 Nxb4+ 32.cxb4 Bxb4 33.Kc4 Rd2 34.Rxd2 Bxd2 35.a5 g4 36.Kd5 Bg5
+37.Kd6 h4 38.Kd7  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Kottnauer, Cenek"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E50"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 O-O 6.Nf3 d6 7.O-O Bxc3 8.bxc3 Nc6
+9.e4 e5 10.d5 Na5 11.h3 b6 12.Bg5 h6 13.Be3 Ba6 14.Qe2 Nxe4 15.Bxe4 f5 16.Bc2 Bxc4
+17.Qd1 Bxf1 18.Qxf1 e4 19.Nh2 Qf6 20.Bd2 Rae8 21.Qe2 Re5 22.f3 e3 23.Be1 Rxd5
+24.Qxe3 Re5 25.Qd3 Qe6 26.Bf2 Rd5 27.Qe3 Qxe3 28.Bxe3 Re8 29.Nf1 Kf8 30.Kf2 Nc4
+31.Bc1 Rde5 32.Bd3 Na5 33.Bf4 Rd5 34.Bb5 Re6 35.h4 c4 36.a4 Rd3 37.Bd7 Rf6
+38.Ne3 Rxc3 39.Nxf5 Rc2+ 40.Kf1 Nb7 41.Re1 Kg8  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Plater, Kazimierz"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B81"]
+
+1.e4 c5 2.Ne2 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.g4 Be7 7.Bg2 O-O 8.O-O Nc6
+9.Nb3 a6 10.f4 Qc7 11.g5 Nd7 12.Be3 b5 13.Qh5 b4 14.Ne2 Bb7 15.c4 bxc3 16.Nxc3 Nb4
+17.Rac1 Qd8 18.Nd4 Nc6 19.Rf3 Re8 20.Nxc6 Bxc6 21.f5 exf5 22.Rh3 Nf8 23.exf5 Bxg2
+24.Kxg2 Qa5 25.Rf1 Rab8 26.Bd4 Rxb2+ 27.Kh1 Qb4 28.Bxg7 Qb7+ 29.Rhf3 Kxg7
+30.f6+ Kg8 31.fxe7 Rxe7 32.Kg1 Qb6+ 33.R3f2 Rxf2 34.Rxf2 Re1+ 35.Kg2 Qb7+
+36.Qf3 Qxf3+ 37.Rxf3 Ne6 38.h4 Kg7 39.Kf2 Rh1 40.Kg3 Rg1+ 41.Kh3  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D13"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.cxd5 cxd5 5.Nf3 Nc6 6.Bf4 e6 7.e3 Be7 8.Bd3 O-O
+9.Rc1 b6 10.O-O Bb7 11.Ne5 Nb4 12.Bb1 Nd7 13.Qh5 g6 14.Qh6 Nxe5 15.Bxe5 Bf6
+16.f4 Bxe5 17.fxe5 f5 18.Nb5 Rc8 19.Nd6 Rxc1 20.Rxc1 Qe7 21.h4 Ba6 22.h5 Qh4
+23.a3 Nc6 24.Rxc6 Qe1+ 25.Kh2 Qh4+  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Sokolsky, Alexey"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C71"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c4 Bg4 6.d3 Ne7 7.h3 Bxf3 8.Qxf3 Ng6
+9.Nc3 Be7 10.Be3 Bg5 11.O-O O-O 12.Qg4 h6 13.Ne2 Bxe3 14.fxe3 Qg5 15.Qg3 Qxg3
+16.Nxg3 Nge7 17.Kf2 g6 18.Ke2 Kg7 19.Kd2 h5 20.a3 h4 21.Ne2 f5 22.Nc3 fxe4
+23.Nxe4 Rf5 24.Rg1 Raf8 25.Bd1 Rf1 26.Bf3 Rxa1 27.Rxa1 Nd8 28.b4 Ne6 29.Rb1 b6
+30.a4 Rb8 31.Nc3 Ng5 32.Nd5 Nxf3+ 33.gxf3 Nxd5 34.cxd5 Ra8 35.Rc1 Ra7 36.e4 Kf6
+37.Ke3 g5 38.d4 exd4+ 39.Kxd4 Ke7 40.e5 dxe5+ 41.Kxe5 Kd7 42.Rg1 Ra8 43.Rxg5 Re8+
+44.Kd4 Re1 45.Rg7+ Kd6 46.Rg6+ Kd7 47.Rg4 Kd6 48.Rg6+ Kd7 49.a5 Rb1 50.Kc4 Rc1+
+51.Kd3 Rd1+ 52.Ke3 Rxd5 53.axb6 cxb6 54.Rxb6 a5 55.Ke4 Rh5 56.Kf4 axb4 57.Rxb4 Ke6
+58.Kg4 Rh8 59.Kg5 Rg8+ 60.Kxh4 Kf5 61.Rg4 Rh8+ 62.Kg3 Ra8 63.h4 Ra1 64.h5 Ra6
+65.Rh4 Rh6 66.Rf4+ Kg5 67.Rg4+ Kf5 68.Kh4 Rh8 69.Rg5+ Kf6 70.Kg4 Kf7 71.Rf5+ Kg7
+72.Kg5 Rg8 73.Rf6 Kh7+ 74.Rg6 Ra8 75.f4 Ra1 76.Re6 Rg1+ 77.Kf6 Rf1 78.f5 Rf2
+79.Re5 Rh2 80.Re7+ Kh6 81.Re8 Kh7 82.Ke6 Re2+ 83.Kf7 Ra2 84.f6 Ra6 85.Ke7 Ra7+
+86.Kf8 Ra6 87.f7 Ra7 88.Rc8 Ra1 89.Ke7  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Trifunovic, Petar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B45"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Ndb5 Bb4 7.Nd6+ Ke7 8.Nxc8+ Rxc8
+9.Bd3 d5 10.exd5 Qxd5 11.O-O Qh5 12.Qxh5 Nxh5 13.Bd2 Nf6 14.a3 Bd6 15.Ne4 Nxe4
+16.Bxe4 f5 17.Bd3 Ne5 18.Rad1 Kf7 19.Bb5 Rhd8 20.Ba5 b6 21.Ba6 Rb8 22.Bc3 Ng4
+23.g3 Be5 24.Bb4 Nf6 25.Rxd8 Rxd8 26.b3 Bd6 27.Bxd6 Rxd6 28.Bd3 Nd7  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kholmov, Ratmir D"]
+[Black "Boleslavsky, Isaak"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A48"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.Nbd2 d6 5.e4 O-O 6.c3 Nc6 7.h3 e5 8.dxe5 dxe5
+9.Bb5 h6 10.Bxf6 Qxf6 11.Qe2 Nd8 12.Qe3 Qb6 13.Qxb6 axb6 14.h4 h5 15.Bc4 Ne6
+16.O-O-O Nc5 17.Ng5 c6 18.a3 b5 19.Be2 f6 20.Nh3 Bh6 21.Kc2 Be6 22.b4 Rxa3
+23.bxc5 Ra2+ 24.Kc1 Bxd2+ 25.Rxd2 Ra1+ 26.Kb2 Rxh1 27.Bd1 Ra8 28.Bb3 Bxb3
+29.Kxb3 Rb1+ 30.Kc2 Ra2+  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kholmov, Ratmir D"]
+[Black "Bondarevsky, Igor"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D58"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 b6 8.Bd3 Bb7
+9.O-O Ne4 10.Bxe7 Qxe7 11.Qc2 Nxc3 12.bxc3 dxc4 13.Bxc4 Nd7 14.Bd3 Nf6 15.a4 a5
+16.Ne5 Rab8 17.f4 c5 18.f5 exf5 19.Bxf5 g6 20.Bd3 Rbd8 21.Rae1 Nd7 22.Nxf7 Rde8
+23.Bxg6 Kg7 24.Ne5 Rxf1+ 25.Rxf1 Rf8 26.Rxf8 Nxe5 27.Re8 Qh4 28.Qf2 Qxf2+
+29.Kxf2 Nxg6 30.Rb8 Bc6 31.Rxb6 Bxa4 32.Ra6 c4 33.Rxa5 Bc2 34.Rc5 Bd3 35.g3 Nf8
+36.Rc7+ Kf6 37.e4 Ne6 38.Rc6 Ke7 39.h4 Kd7 40.d5 Nd8 41.Rxh6 Bxe4 42.g4 Bxd5
+43.g5 Be4 44.Ke3 Bd3 45.g6 Ne6 46.Rh7+ Ke8 47.h5 Kf8 48.Rf7+ Kg8 49.Re7 Ng7
+50.Re5 Nf5+ 51.Kf4 Nh4 52.Kg4 Nxg6 53.hxg6 Bxg6 54.Kf4 Kf7 55.Ke3 Kf6 56.Kd4 Bf7
+57.Rc5 Ke6 58.Kxc4 Kd6+ 59.Kd4 Bb3 60.Rb5 Bd1 61.Rb6+ Kc7 62.Rf6 Be2 63.c4 Kb7
+64.Kc5 Bd3 65.Rf7+ Ka6 66.Rf3 Bc2 67.Rf2 Be4 68.Rb2  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kholmov, Ratmir D"]
+[Black "Gligoric, Svetozar"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D14"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nc3 Nf6 5.Nf3 Nc6 6.Bf4 Bf5 7.e3 e6 8.Bd3 Bxd3
+9.Qxd3 Be7 10.h3 O-O 11.O-O Rc8 12.Rac1 Na5 13.Ne5 Nd7 14.e4 dxe4 15.Nxe4 Nxe5
+16.Bxe5 Nc6 17.Rcd1 Qa5 18.Bd6 Rfd8 19.Bxe7 Nxe7 20.Qb3 b6 21.Nc3 Nd5 22.Ne2 g6
+23.a3 Rc7 24.Nc1 Ne7 25.Ne2 Rcd7 26.Rd3 Nf5 27.Rfd1 Nxd4 28.Nxd4 Rxd4 29.Rxd4 Rxd4
+30.Rxd4 Qe1+ 31.Kh2 Qe5+ 32.Qg3 Qxd4 33.Qb8+ Kg7 34.Qxa7 Qxf2 35.b4 e5 36.Qc7 Qd4
+37.a4 e4 38.Qf4 Qxb4 39.Qe5+ Kf8 40.Qb8+ Ke7 41.Qc7+ Ke6 42.Qc8+ Kf6 43.Qh8+ Ke7
+44.Qe5+ Kd7 45.Kh1 Qc4 46.g4 h6 47.Qf4 Ke6 48.Qe3 Qb4 49.Qxh6 Qxa4 50.Qe3 Qd1+
+51.Kh2 Qc2+ 52.Kh1 Qd1+ 53.Kh2 Qd3 54.Qc1 b5 55.Kg2 Qc4 56.Qe3 b4 57.Qb6+ Ke7
+58.h4 b3 59.Kg3 Qd3+ 60.Kf4 Qd6+  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kholmov, Ratmir D"]
+[Black "Keres, Paul"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A32"]
+
+1.d4 Nf6 2.Nf3 c5 3.c4 cxd4 4.Nxd4 e6 5.g3 Nc6 6.Bg2 Bc5 7.Nc2 O-O 8.Nc3 Be7
+9.O-O b6 10.Bf4 Bb7 11.Bd6 Na5 12.Bxe7 Qxe7 13.Bxb7 Nxb7 14.e4 d6 15.Qe2 Rac8
+16.Ne3 a6 17.Rad1 Rc5 18.Rd4 Rfc8 19.Rfd1 Nd7 20.f4 Nf8 21.b4 R5c6 22.Na4 Qc7
+23.Kg2 Rb8 24.b5 axb5 25.cxb5 Rc1 26.Rxc1 Qxc1 27.Nc4 Qb1 28.Ncxb6 Nc5 29.Nxc5 dxc5
+30.Rd6 Qb4 31.a4 Qa5 32.Nc4 Qxa4 33.b6 Qb5 34.Qd3 h5 35.Kh3 Kh7 36.f5 exf5
+37.exf5 Qe8 38.Qd5 Qe2 39.Qxf7 Re8  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kholmov, Ratmir D"]
+[Black "Novotelnov, Nikolay Alexandrovi"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.Nbd2 Nc5 11.Nd4 Nxe5 12.f4 Nc4 13.Qe2 Bd7 14.Re1 Nxb3 15.axb3 Nxd2
+16.Bxd2 c5 17.Nf3 f6 18.Nh4 Kf8 19.Qh5 Be8 20.Qf3 Qd7 21.f5 Bf7 22.Re2 a5
+23.Rae1 Bd8 24.g3 g5 25.fxg6 hxg6 26.Ng2 Rc8 27.Nf4 Rc6 28.Qd3 c4 29.bxc4 bxc4
+30.Qc2 Kg7 31.Qa4 Rd6 32.Qa3 g5 33.Ng2 Re6 34.Rxe6 Bxe6 35.Qc5 Re8 36.Ne3 Qb7
+37.Nf5+ Bxf5 38.Rxe8 Bb6 39.Re7+ Qxe7 40.Qxb6 Bh3 41.Qe3 Qe4 42.Qxe4 dxe4
+43.Kf2 Kg6 44.Be3 f5 45.Bd2 Kh5 46.Ke3 Kg4 47.Kd4 Bf1 48.h4 gxh4 49.gxh4 Bd3
+50.h5 f4 51.b4 cxb3 52.h6 e3  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kholmov, Ratmir D"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Bxc3 7.bxc3 d6 8.Nd2 Ne7
+9.d4 c5 10.Bd3 Ng6 11.a4 cxd4 12.cxd4 d5 13.dxe5 Nxe5 14.Bb2 Qc7 15.exd5 Nxd3
+16.Bxf6 Nf4 17.Bb2 Nxd5 18.Ne4 Nf4 19.Qf3 Bf5 20.Bc1 Bxe4 21.Qxe4 Ne6 22.Be3 Rfc8
+23.a5 Nc5 24.Qd5 Qd7 25.Qf3 Qc6 26.Qxc6 Rxc6 27.Rfb1 Rac8 28.Bxc5 Rxc5 29.Rxb7 Rxc2
+30.g3 a6 31.Ra7 g6 32.Rb1 Rc1+ 33.Rxc1 Rxc1+ 34.Kg2 Rc6 35.h4 Kg7 36.g4 h6
+37.g5 hxg5 38.hxg5 Rc5 39.Rxa6 Rxg5+ 40.Kf3 Rb5 41.Ra8 Kf6 42.Ra7 Ke6 43.Kg4 Rb2  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kholmov, Ratmir D"]
+[Black "Tsvetkov, Alexandar K"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 Nc6 6.Nge2 O-O 7.Be3 e5 8.d5 Ne7
+9.Qd2 Ne8 10.g4 f5 11.gxf5 gxf5 12.O-O-O f4 13.Bf2 Nf6 14.Kb1 Bd7 15.c5 Qe8
+16.Nc1 Qh5 17.Be2 Bh3 18.Rdg1 Ne8 19.Qd1 Rf6 20.Nd3 Rg6 21.Rxg6 Nxg6 22.Ne1 Bf6
+23.Qb3 Bc8 24.h4 Nf8 25.a4 Qf7 26.a5 Kh8 27.Qa4 Qe7 28.c6 Qd8 29.cxb7 Bxb7
+30.a6 Bc8 31.Bb5 Bd7 32.Qc4 Qc8 33.Bc6 Bxc6 34.Qxc6 Nd7 35.Nb5 Nb6 36.Bxb6 cxb6
+37.Qxc8 Rxc8 38.Nd3 Kg7 39.h5 Kh6 40.b3 Rd8 41.Nb4 Rd7 42.Rc1 Rd8 43.Nc6 Ra8
+44.Ncxa7 Bd8 45.Rc8 Nc7 46.Nxc7 Rxa7 47.Nb5 Rxa6 48.Rxd8 Kxh5 49.Nxd6 b5
+50.Nf7  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kotov, Alexander"]
+[Black "Botvinnik, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A85"]
+
+1.d4 e6 2.c4 f5 3.Nc3 Bb4 4.Qc2 Nf6 5.e3 O-O 6.Bd3 d6 7.Ne2 c5 8.d5 Bxc3+
+9.Nxc3 exd5 10.cxd5 Ng4 11.O-O Na6 12.Be2 Bd7 13.b3 Qe7 14.Bb2 Rae8 15.Rae1 Nc7
+16.Bxg4 fxg4 17.e4 Nb5 18.f4 gxf3 19.Rxf3 Rxf3 20.gxf3 Nd4 21.Qg2 Rf8 22.Rf1 Qh4
+23.Qg3 Qxg3+ 24.hxg3 Bh3 25.Rf2 Nxf3+ 26.Kh1 Nd4 27.Rxf8+ Kxf8 28.Kg1 Ke7
+29.Kf2 Bg4 30.Ke3 g5 31.Nb1 Nf3 32.Nd2 Nxd2 33.Kxd2 h5 34.Kd3 Bh3 35.Ke3 Bg2
+36.Bc3 b6 37.b4 h4 38.gxh4 gxh4 39.bxc5 bxc5 40.Be1 h3 41.Bg3 Bf1 42.a3 Bc4
+43.Kd2 Ba2 44.Kc3 Bb1 45.e5 Ba2 46.exd6+ Kd7 47.Bh2 Bxd5 48.Bg3 Kc6 49.Bh2 Be6
+50.Bg3 Kb5 51.Bh2 Ka4 52.Kb2 a5 53.Bg3 Bf5 54.Bh2 c4 55.Bg3 c3+ 56.Kxc3 Kxa3
+57.Bh2 Ka2 58.Bg3  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kotov, Alexander"]
+[Black "Gligoric, Svetozar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D58"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 h6 6.Bh4 O-O 7.Nf3 b6 8.Bd3 Bb7
+9.O-O Nbd7 10.Qe2 dxc4 11.Bxc4 Ne4 12.Bg3 Nxc3 13.bxc3 Bd6 14.e4 Bxg3 15.fxg3 c5
+16.Rad1 cxd4 17.cxd4 Rc8 18.e5 Nb8 19.Rf2 Bd5 20.Bd3 f5 21.exf6 Rxf6 22.Bb1 Nd7
+23.Qe3 Qe7 24.Re2 Qb4 25.Qd3 Nf8 26.Ne5 Bc4 27.Nxc4 Qxc4 28.Qe3 Rd8 29.Bc2 Kh8
+30.Bb3 Qb5 31.Rc2 Rf7 32.h3 Qf5 33.Rc6 Qb5 34.Qe4 Qf5 35.Qe2 Rf6 36.Bc2 Qg5
+37.Kh2 Qa5 38.Be4 Rf7 39.d5 exd5 40.Qh5 Re7 41.Rxd5 Rxd5 42.Bxd5 Qa6  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kotov, Alexander"]
+[Black "Kholmov, Ratmir D"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A56"]
+
+1.d4 Nf6 2.c4 c5 3.d5 e5 4.Nc3 d6 5.e4 Be7 6.g3 O-O 7.Bg2 Ne8 8.Nf3 f5 9.exf5 Bxf5
+10.O-O Na6 11.Be3 Nac7 12.Qe2 Rb8 13.Nd2 Qd7 14.a4 a5 15.Nde4 Nf6 16.Rad1 Nxe4
+17.Bxe4 b6 18.Bc1 Rbe8 19.b3 Bd8 20.f3 Rf7 21.g4 Bxe4 22.Nxe4 Ref8 23.Qg2 Ne8
+24.Qg3 h6 25.Be3 Nf6 26.Nd2 Nh7 27.h4 Qe7 28.Bf2 Qf6 29.Kg2 Qg6 30.Be3 Qc2
+31.g5 hxg5 32.hxg5 Rxf3 33.Rxf3 Qxd1 34.g6 Qe2+ 35.Kg1 Qd1+ 36.Kg2 Qe2+ 37.Bf2 Ng5
+38.Rxf8+ Kxf8 39.Qe3 Qh5 40.Qd3 e4 41.Qg3 Qxg6 42.Be3 Kf7 43.Qg4 Nf3 44.Qxg6+ Kxg6
+45.Nxe4 Nh4+ 46.Kh3 Nf5 47.Bf4 Nd4 48.Nxd6 Bc7 49.Kg4 Nxb3 50.Nc8 Bd8 51.Nd6 Bc7
+52.Nc8 Bd8 53.Na7 Kf7 54.Nc6 Bf6 55.Kf5 Nd4+ 56.Nxd4 cxd4 57.Ke4 Be7 58.Kxd4 Bc5+
+59.Ke5 Ke7 60.Bg5+ Kd7 61.Kf5 Bd4 62.Bc1 Ke7 63.Kg6 Ke8 64.Ba3 Bc3 65.Bd6 Bd4
+66.Ba3 Bc3 67.Kf5 Kf7 68.Ke4 Be1 69.Bb2 Bf2 70.Ke5 Bg3+ 71.Kf5 Bf2 72.Ba3 Bg3
+73.Bc1 Bf2 74.Bg5 g6+ 75.Ke4 Bg1 76.Bh4 Bh2 77.c5 bxc5 78.Bd8 Ke8 79.Bxa5 Kd7
+80.Bd2 Kc7 81.Kd3 Kb6 82.Kc4 Bd6 83.Be3 Ka5 84.Bxc5 Bf4 85.Kb3 g5 86.Bb4+ Kb6
+87.Kc4 g4 88.Kd3 g3 89.Ke2 Bb8 90.Kf3 Bc7 91.a5+ Kb5 92.Be1 Bxa5 93.Bxg3 Kc5
+94.Ke4 Bc3 95.Be5 Bd2 96.Bg7 Kd6  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kotov, Alexander"]
+[Black "Novotelnov, Nikolay Alexandrovi"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D93"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.Qb3 c6 7.Nf3 Qa5 8.Nd2 Nbd7
+9.Be2 Nh5 10.Bxh5 dxc4 11.Qd1 Qxh5 12.Qxh5 gxh5 13.Nxc4 b6 14.Ne4 c5 15.Rd1 cxd4
+16.exd4 Nf6 17.Nc3 Rd8 18.Ne3 Ba6 19.f3 Rd7 20.Kf2 e6 21.Be5 Rad8 22.Rhg1 Bb7
+23.Rge1 Ne8 24.Nc2 Nd6 25.d5 exd5 26.Bxg7 Kxg7 27.Nd4 Kf6 28.Nce2 Nf5 29.Nf4 Ng7
+30.h4 Re7 31.Rxe7 Kxe7 32.Re1+ Kd7 33.Re5 f6 34.Re2 Rc8 35.Rd2 a6 36.Nde2 Ke7
+37.Nc3 d4 38.Rxd4 Nf5 39.Rb4 b5 40.a4 Rd8 41.axb5 a5 42.Rc4 Rd2+ 43.Ke1 Rd7
+44.Rc5 Ng3 45.b6 Kd6 46.Rxa5 Kc6 47.Nfd5 f5 48.b4 Kd6 49.Kf2 Nh1+ 50.Ke3 Rg7
+51.Nf4 Re7+ 52.Kd4 Ng3 53.Nb5+ Kc6 54.Na7+ Kd6 55.Rc5 Ne2+ 56.Nxe2 Rxe2 57.Rc7  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kotov, Alexander"]
+[Black "Plater, Kazimierz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E28"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.a3 Bxc3+ 5.bxc3 O-O 6.e3 d6 7.f3 e5 8.e4 c5
+9.Bd3 Nc6 10.Ne2 b6 11.O-O Qe7 12.Bg5 h6 13.Be3 Bd7 14.Kh1 Rac8 15.g4 g5
+16.d5 Na5 17.h4 Ne8 18.Kg2 f6 19.Rh1 Ng7 20.Ng3 Kf7 21.Rh2 Ke8 22.hxg5 hxg5
+23.Rh7 Kd8 24.Qh1 Kc7 25.Qh6 Rf7 26.Qg6 Rcf8 27.Rah1 Nb7 28.R1h6 Nd8 29.Kf2 Nb7
+30.Bf1 Nd8 31.Bh3 Kc8 32.Nf5 Nxf5 33.gxf5 Rxh7 34.Rxh7 Rf7 35.Rh6 Rf8 36.Bg4 Be8
+37.Rh7 Rf7 38.Rxf7 Qxf7 39.Bxg5 fxg5 40.Qxd6 Qc7 41.Qf6 Nf7 42.Bh5 Qd6 43.Qg7 Qh6
+44.Qxh6 Nxh6 45.Bxe8 Ng8 46.d6 Nf6 47.Bc6 Kd8 48.Ke2 Kc8 49.Kd2 Kd8 50.Kc2 Kc8
+51.Kb3 Kb8 52.Ka4 a6 53.Kb3 Kc8 54.Kc2 Kb8 55.Kd2 Kc8 56.Ke2 Kb8 57.Kf2 Kc8
+58.Kg2 Kb8 59.d7 Kc7 60.Bb7 Kxd7 61.Bxa6 Kc7 62.Bb5 Kd6 63.Ba4 Kc7 64.Bd1 Kd6
+65.Kf2 Kc7 66.Ke3 Kc6 67.Kd3 Kb7 68.Be2 Ka7 69.Bf1 Kb7 70.Bh3 Ka7 71.Kc2 Ka6
+72.Kb3 Ka5 73.Bg4 Ka6 74.Ka4 Ka7 75.Kb5 Kb7 76.a4 Ne8 77.a5 Nd6+ 78.Ka4 Ne8
+79.Bh3  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kotov, Alexander"]
+[Black "Sokolsky, Alexey"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A99"]
+
+1.d4 e6 2.Nf3 f5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.c4 d6 7.b3 Qe8 8.Ba3 a5 9.Nc3 Na6
+10.Bb2 Qh5 11.a3 c6 12.Na2 Ne4 13.Nd2 e5 14.Nxe4 fxe4 15.Bxe4 Bg4 16.f3 Bh3
+17.Rf2 exd4 18.Bxd4 Nc5 19.Nc3 Nxe4 20.Nxe4 d5 21.g4 Qf7 22.cxd5 Qxd5 23.Bb6 Qe6
+24.Qd3 Bh4 25.Qc4 Qxc4 26.bxc4 h5 27.gxh5 Bxf2+ 28.Kxf2 Be6 29.Rg1 Bxc4 30.h6 g6
+31.Rxg6+ Kh7 32.Rd6 Rf5 33.h4 Rg8 34.Be3 Rg6 35.Rd7+ Rf7 36.Rd8 Rxh6 37.Bxh6 Kxh6
+38.Nd6 Rf4 39.Kg3  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kotov, Alexander"]
+[Black "Tsvetkov, Alexandar K"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D46"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 Nf6 5.e3 Nbd7 6.Bd3 Bd6 7.e4 dxe4 8.Nxe4 Nxe4
+9.Bxe4 O-O 10.O-O f5 11.Bc2 e5 12.Bg5 Qe8 13.dxe5 Bc7 14.Re1 Nc5 15.b4 Ne6
+16.c5 a5 17.a3 axb4 18.axb4 Rxa1 19.Qxa1 h6 20.Bc1 Qh5 21.Bb3 Kh7 22.Nd4 Re8
+23.f4 Nxd4 24.Qxd4 Qg6 25.Qa1 Be6 26.Qa2 Qf7 27.Bxe6 Rxe6 28.Rd1 g5 29.Qa8 gxf4
+30.Qxb7 f3 31.Qc8 Re7 32.Bf4 Qg6 33.g3 Qh5 34.Rd2 f2+ 35.Rxf2 Qd1+ 36.Kg2 Qd5+
+37.Kh3 Kg6 38.Qf8 Qe6 39.Qxh6+ Kf7 40.Qh7+ Ke8 41.Qh8+ Kf7 42.Qh5+  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kottnauer, Cenek"]
+[Black "Gligoric, Svetozar"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E01"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 d5 4.Bg2 c5 5.O-O cxd4 6.Nxd4 e5 7.Nf3 Nc6 8.c4 d4
+9.e3 Be7 10.exd4 exd4 11.b3 O-O 12.Bb2 Bc5 13.Ne1 Bg4 14.Qd2 Re8 15.Nd3 Re2
+16.Qc1 Bb6 17.Nd2 Ba5 18.Rd1 Qd7 19.a3 Bc7 20.Nf3 Bh3 21.Bh1 Bf5 22.Rd2 Rae8
+23.b4 Ng4 24.Qc2 Nce5 25.Nfxe5 Nxe5 26.Rxe2 Bxd3 27.Qd2 Bxe2 28.Qxe2 d3 29.Qd2 Nxc4
+30.Qc3 Nxb2 31.Qxb2 d2 32.Bf3 Re1+ 33.Kg2 d1=Q  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kottnauer, Cenek"]
+[Black "Kholmov, Ratmir D"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A43"]
+
+1.d4 Nf6 2.Nf3 c5 3.d5 d6 4.Nc3 g6 5.Bf4 Bg7 6.e4 O-O 7.Be2 b5 8.Bxb5 Nxe4
+9.Nxe4 Qa5+ 10.Bd2 Qxb5 11.Nc3 Qxb2 12.Rb1 Qa3 13.O-O Qa5 14.Nb5 Qd8 15.Re1 Bg4
+16.h3 Bxf3 17.Qxf3 Nd7 18.Qe2 Bf6 19.a4 Re8 20.Na3 Qc8 21.a5 Nb8 22.Qb5 Na6
+23.Qa4 Rd8 24.Qc4 Nc7 25.Nb5 Nxb5 26.Rxb5 Re8 27.Reb1 Bd4 28.c3 Bg7 29.Rb7 Qf5
+30.a6 h5 31.Be3 Bf6 32.Qb3 Kg7 33.c4 g5 34.Rd1 g4 35.Qd3 Qe5 36.Re1 Qc3 37.Qxc3 Bxc3
+38.Re2 gxh3 39.gxh3 Kf6 40.h4 Kf5 41.Bg5 f6 42.Bd2  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kottnauer, Cenek"]
+[Black "Kotov, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D46"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 c6 5.e3 Nbd7 6.Bd3 Bb4 7.a3 Ba5 8.b4 Bc7
+9.Bb2 O-O 10.Qc2 dxc4 11.Bxc4 e5 12.Rd1 Qe7 13.Ba2 exd4 14.Nxd4 Nb6 15.Nf5 Bxf5
+16.Qxf5 Rfe8 17.O-O Qe5 18.Qh3 a5 19.Rd4 axb4 20.Rxb4 Qg5 21.Bb1 h6 22.Rh4 Qe5
+23.Nd1 Qe6 24.Bf5 Qd6 25.g4 Nc4 26.Bxf6 Qxf6 27.g5 Qxg5+ 28.Rg4 Qxf5 29.Rxg7+ Kxg7
+30.Qxf5 Nd2 31.Qg4+ Kh7 32.Qf5+ Kg7 33.Re1 Re5 34.Qh3 Rg5+ 35.Kh1 Rxa3 36.Rg1 Ra5
+37.f4 Rxg1+ 38.Kxg1 Ra2 39.Qg4+ Kf6 40.Qh4+ Kg7 41.Qg4+  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kottnauer, Cenek"]
+[Black "Novotelnov, Nikolay Alexandrovi"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D99"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4 8.Be3 Nfd7
+9.Rd1 Nb6 10.Qb3 Nc6 11.d5 Ne5 12.Be2 Nxf3+ 13.gxf3 Bh3 14.a4 Qb8 15.Rg1 c6
+16.Rg3 Bd7 17.a5 Nc8 18.h4 b6 19.a6 Nd6 20.h5 c5 21.Rg1 Qc8 22.Bf4 Be8 23.Rd2 Qh3
+24.hxg6 hxg6 25.Bg3 Rd8 26.Bb5 Bxc3  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kottnauer, Cenek"]
+[Black "Pachman, Ludek"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D49"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 Nf6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6
+9.e4 c5 10.e5 cxd4 11.Nxb5 axb5 12.exf6 Qb6 13.fxg7 Bxg7 14.Qe2 O-O 15.O-O Nc5
+16.Bxh7+ Kxh7 17.Ng5+ Kg6 18.Qg4 f5 19.Qg3 Rf7 20.Bf4 e5 21.Nxf7+ Kxf7 22.Bxe5 Qg6
+23.Qxg6+ Kxg6 24.Bxg7 Kxg7 25.Rfe1 Kf6 26.Re8 Bb7 27.Rxa8 Bxa8 28.f3 Bd5
+29.b3 d3 30.Kf2 Ke5 31.Ke3 f4+ 32.Kd2 Kd4 33.Re1 Ne6 34.Rc1 Nc5 35.h4 Be6
+36.h5 Bf5 37.h6 Ne6 38.Rc6 Ke5 39.Rb6 Kf6 40.Rxb5 Bh7 41.a4 Nd4 42.Rb7 Kg6
+43.Kxd3 Ne6 44.Rb6 Kxh6+ 45.Kc4 Bg8 46.a5 Kg5 47.a6 Nc7+ 48.Kd4 Bd5 49.b4 Kh4
+50.Rg6 Na8 51.Kc5 Kh5 52.Rd6  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kottnauer, Cenek"]
+[Black "Ragozin, Viacheslav"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D45"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 Bb4 7.O-O O-O 8.Qc2 dxc4
+9.Bxc4 Bd6 10.Rd1 Qe7 11.Ne2 e5 12.Ng3 g6 13.b3 e4 14.Nd2 Re8 15.Bb2 Nb6
+16.Be2 h5 17.Nc4 Nxc4 18.bxc4 h4 19.Nf1 Bf5 20.Rab1 Rad8 21.d5 Ng4 22.h3 Ne5
+23.Qc3 c5 24.Nh2 Kh7 25.Ng4 Bxg4 26.Bxg4 f5 27.Be2 Rg8 28.Kf1 g5 29.Ke1 Kh6
+30.Kd2 Rgf8 31.f3 f4 32.Kc2 Qh7 33.Kb3 b5 34.a3 bxc4+ 35.Ka2 Rb8 36.Bxc4 fxe3
+37.Be2 exf3 38.gxf3 Nxf3 39.Qxe3 Rbe8 40.Qd3 Qxd3 41.Bxd3 Rf7 42.Rf1 Ree7
+43.Rbd1 Kh5 44.Ba6 Re8 45.Bb5 Re3 46.Bc1 Ree7 47.Ba6 Nd4 48.Bc8 Re2+ 49.Kb1 Rxf1
+50.Rxf1 Kg6 51.Bb2 Be5 52.Bxd4 cxd4 53.Bf5+ Kg7 54.Bg4 Re3 55.Rf3 Re1+ 56.Kc2 Bf4
+57.Kd3  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kottnauer, Cenek"]
+[Black "Trifunovic, Petar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D12"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 c6 4.e3 Bf5 5.cxd5 cxd5 6.Nc3 e6 7.Qb3 Qc7 8.Bd2 Nc6
+9.Rc1 Be7 10.Be2 O-O 11.O-O Rfc8 12.Na4 Ne4 13.Be1 Bd6 14.Nc5 Qe7 15.Nxe4 Bxe4
+16.Bd2 Rc7 17.Rfd1 Rac8 18.Qa4 a6 19.a3 Nb8 20.Rxc7 Rxc7 21.Rc1 Rxc1+ 22.Bxc1 Kf8
+23.Bd2  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Kottnauer, Cenek"]
+[Black "Tsvetkov, Alexandar K"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E18"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.Nc3 d5 7.Ne5 O-O 8.O-O Qc8
+9.cxd5 Nxd5 10.Nxd5 Bxd5 11.e4 Bb7 12.Bf4 Bd6 13.Qg4 f5 14.exf5 exf5 15.Qe2 Bxg2
+16.Qc4+ Kh8 17.Kxg2 Bxe5 18.Bxe5 c5 19.dxc5 Nd7 20.Bd6 Qc6+ 21.f3 Rf6 22.Rac1 bxc5
+23.Bxc5 Rc8 24.Rfd1 h6 25.b4 f4 26.Qd5 Nxc5 27.Rxc5 Qxd5 28.Rxc8+ Qg8 29.Rxg8+ Kxg8
+30.a4 fxg3 31.hxg3 Rc6 32.b5 Rc4 33.Rd8+ Kh7 34.Ra8 Rxa4 35.b6 Rb4 36.bxa7 Ra4
+37.Kf2 h5 38.f4 g6 39.Kg2 Kg7 40.Kh3 Kh7 41.Kh4 Kg7  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Novotelnov, Nikolay Alexandrovi"]
+[Black "Boleslavsky, Isaak"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E69"]
+
+1.d4 Nf6 2.c4 d6 3.Nf3 g6 4.g3 Bg7 5.Bg2 O-O 6.O-O Nbd7 7.Nc3 c6 8.h3 e5
+9.e4 exd4 10.Nxd4 Nb6 11.b3 d5 12.exd5 cxd5 13.c5 Nbd7 14.Ba3 Ne5 15.Ndb5 Nc6
+16.Nd6 Be6 17.Nxb7 Qd7 18.Nd6 Bxh3 19.Nxd5 Bxg2 20.Kxg2 Nxd5 21.Qxd5 Ne7
+22.Qc4 Bxa1 23.Rxa1 Nf5 24.Rd1 Qc6+ 25.Kg1 Rad8 26.Rd5 Nxd6 27.cxd6 Qd7 28.Re5 Rfe8
+29.Re7 Rxe7 30.dxe7 Re8 31.Qe4 f6 32.Qc4+ Kg7 33.Bc5 h5 34.b4 Rxe7 35.Bxe7 Qxe7
+36.a4 g5 37.a5 Kg6 38.Kf1 Qd8 39.Qe4+ Kh6 40.Qc6 Kg6 41.a6 Qd1+ 42.Kg2 Qe2
+43.b5 h4  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Novotelnov, Nikolay Alexandrovi"]
+[Black "Bondarevsky, Igor"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E23"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 c5 5.dxc5 Nc6 6.Bd2 Bxc5 7.e3 O-O 8.Rc1 b6
+9.Nf3 d5 10.cxd5 exd5 11.Bb5 Bb7 12.Bxc6 Bxc6 13.Ne2 Ne4 14.Bc3 Nxc3 15.Rxc3 Qe8
+16.a3 Bb5 17.Qxd5 Bxe2 18.Kxe2 Qb5+ 19.Qc4 Qxb2+ 20.Rc2 Qxa3 21.Ra2 Qb4 22.Qxb4 Bxb4
+23.Ra6 Bc5 24.Nd4 Bxd4 25.exd4 Rfd8 26.Kd3 Rd5 27.Rha1 Rad8 28.R1a4 b5 29.Rb4 R8d7
+30.Ra5 Rb7 31.Ke4 Rh5 32.d5 f5+ 33.Kf3 Rxh2 34.Raxb5 Rxb5 35.Rxb5 Rh4 36.Ra5 Rd4
+37.Rxa7 Rxd5 38.Kf4 h6 39.Kf3 Kh7 40.Ra6 g5 41.Kg3 h5 42.Kh2 Rd2 43.f3 Kg7
+44.Rb6 Re2 45.Ra6 h4 46.Kh3 Re3 47.Rb6 Kf7 48.Ra6 Re1 49.Kh2 Re6 50.Ra3 Kg6
+51.g3 Kh5 52.Ra2 Re3 53.Kg2 hxg3 54.Kxg3 Rb3 55.Rc2 f4+ 56.Kf2 Kh4 57.Kg2 Kh5
+58.Ra2 Re3 59.Ra8 Kg6 60.Rg8+ Kf6 61.Rf8+ Kg7 62.Rc8 Kf7 63.Rb8 Rd3 64.Ra8 Kf6
+65.Rf8+ Ke5 66.Re8+ Kf6 67.Rf8+ Kg7 68.Ra8 Kf7 69.Rb8 Rc3 70.Ra8 Kf6 71.Rf8+ Ke5
+72.Re8+ Kd4 73.Rd8+ Ke5 74.Re8+ Kf6 75.Rf8+ Kg7 76.Ra8 Kf7 77.Rb8 Re3 78.Ra8 Re8
+79.Ra6 Re6 80.Ra8 Kg6 81.Rg8+ Kf5 82.Rf8+ Rf6 83.Ra8 Rd6 84.Rf8+ Ke5 85.Re8+ Re6
+86.Rg8 Kf6 87.Rf8+ Kg7 88.Ra8 Re1  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Novotelnov, Nikolay Alexandrovi"]
+[Black "Gligoric, Svetozar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D74"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d5 5.cxd5 Nxd5 6.Nf3 O-O 7.O-O c6 8.Nbd2 Na6
+9.e4 Nb6 10.Nb3 Na4 11.Qe2 Be6 12.Ng5 Bxb3 13.axb3 Nb6 14.Rd1 Nc7 15.Be3 e6
+16.h4 h6 17.Nf3 Nd7 18.Nd2 f5 19.Nc4 Nf6 20.e5 Nfe8 21.Na5 Rb8 22.Bxc6 b6
+23.Nb7 Rxb7 24.Bxb7 g5 25.hxg5 hxg5 26.Qh5 g4 27.Qh1 a5 28.d5 Bxe5 29.dxe6 Qf6
+30.Rd7 Ng7 31.Bh6 Ncxe6 32.Bxg7  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Novotelnov, Nikolay Alexandrovi"]
+[Black "Keres, Paul"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D46"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 Nbd7 6.Bd3 Bb4 7.O-O O-O 8.Bd2 Qe7
+9.Ne5 Rd8 10.a3 Bd6 11.Nxd7 Bxd7 12.c5 Bc7 13.f4 Be8 14.Qc2 g6 15.b4 Nd7
+16.a4 b6 17.a5 f6 18.e4 bxc5 19.bxc5 Rab8 20.exd5 exd5 21.Rfe1 Qg7 22.f5 Nf8
+23.Re3 Bd7 24.Ne2 Re8 25.Rxe8 Rxe8 26.Nf4 Qh6 27.g3 g5 28.Ng2 Qg7 29.Rb1 Bc8
+30.Qd1 Qf7 31.Ne3 h5 32.Be2 Re4 33.Bxh5 Qe7 34.Nc2 Bxf5 35.Rb7 Qd8 36.Bf3 Re7
+37.Ne3 Bg6 38.a6 Ne6 39.Qa4 Bd3 40.Qxc6 Nxd4 41.Qxd5+ Kg7 42.Bc3 Rd7 43.Bxd4 Rxd5
+44.Nxd5 Kg6 45.Rxc7 Qe8 46.Bh5+  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Novotelnov, Nikolay Alexandrovi"]
+[Black "Plater, Kazimierz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A60"]
+
+1.d4 Nf6 2.g3 c5 3.d5 e6 4.c4 exd5 5.cxd5 d6 6.Nc3 g6 7.Bg2 Bg7 8.e4 O-O
+9.Nge2 a6 10.a4 Nbd7 11.O-O Rb8 12.a5 b5 13.axb6 Qxb6 14.h3 Re8 15.Kh1 Qb3
+16.f4 Qxd1 17.Rxd1 Rb4 18.g4 Nb6 19.Ng3 Nc4 20.g5 Nd7 21.Ra2 Rb3 22.Rd3 a5
+23.Bf1 Ba6 24.Nd1 Rb4 25.Rf3 a4 26.b3 Nce5 27.fxe5 Nxe5 28.Re3 Bxf1 29.Nxf1 axb3
+30.Rg2 Nc4 31.Ree2 Ra8 32.e5 Bxe5 33.Rxe5 Nxe5 34.Bb2 Nc4 35.Nfe3 Nxb2 36.Nxb2 Re8
+37.Nec4 Re4 38.Nxd6 Red4 39.Re2 c4 40.Ne4 Rxe4 41.Rxe4 Rb5 42.d6 Rd5 43.Nxc4 Kg7
+44.Re8 Rd4 45.Rb8 b2 46.Ne5 Rxd6 47.Ng4 h6 48.gxh6+ Kh7 49.Rxb2 Rd1+ 50.Kg2 Rd4
+51.Rb7 Rf4 52.Ne5 Kxh6 53.Rxf7 Re4 54.Re7 Ra4 55.Kg3 Kg5 56.Rf7 Ra3+ 57.Rf3 Ra7
+58.Rc3 Rb7 59.Nd3 Ra7 60.Rc5+ Kh6 61.Nf2 g5 62.Ne4 Ra4 63.Nxg5 Ra3+ 64.Nf3 Rb3
+65.Rd5 Ra3 66.Kg4 Ra4+ 67.Nd4 Ra1 68.Rd6+ Kg7 69.Ne6+ Kf6  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Novotelnov, Nikolay Alexandrovi"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D98"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4 8.Be3 Nfd7
+9.Rd1 Nc6 10.Be2 Bxf3 11.gxf3 Nb6 12.Qc5 e6 13.h4 a6 14.h5 Nd7 15.Qc4 Nb6
+16.Qc5 Nd7 17.Qc4 Nb6 18.Qc5 Nd7  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Novotelnov, Nikolay Alexandrovi"]
+[Black "Sokolsky, Alexey"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E06"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.Nbd2 c6 7.Qc2 b6 8.O-O a5
+9.b3 Ba6 10.Bb2 Nbd7 11.Ne5 Rc8 12.e4 c5 13.exd5 exd5 14.Qf5 cxd4 15.Nxd7 Qxd7
+16.Qxd7 Nxd7 17.Bxd5 Nf6 18.Bg2 Bb4 19.Nf3 b5 20.Nxd4 bxc4 21.bxc4 Bxc4  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Pachman, Ludek"]
+[Black "Bondarevsky, Igor"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C15"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Bxc3+ 6.Nxc3 Nc6 7.Bb5 Ne7 8.Bg5 f6
+9.Be3 O-O 10.Qd2 f5 11.f3 Nd5 12.Bxc6 Nxc3 13.Qxc3 bxc6 14.Bf4 Qd5 15.O-O-O Bd7
+16.Bxc7 Be8 17.Be5 f4 18.fxe4 Qxe4 19.Rde1 Qd5 20.Rhf1 Bg6 21.Re2 Rad8 22.Qc5 Qxc5
+23.dxc5 Bh5 24.Ref2 g5 25.h4 Rf5 26.Bd6 e5 27.hxg5 Re8 28.g3 f3 29.Kd2 Rxg5
+30.Rxf3 Bxf3 31.Rxf3 Kg7 32.c4 Kg6 33.b4 Rf5 34.Ke3 Rxf3+ 35.Kxf3 Kf5 36.b5 Ke6
+37.Ke4 Rg8 38.Bxe5 Kd7 39.a4 a6 40.Kd4 Ra8 41.Kc3 axb5  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Pachman, Ludek"]
+[Black "Gligoric, Svetozar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E67"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.Nc3 e5 7.d4 Nbd7 8.h3 c6
+9.dxe5 dxe5 10.Be3 Qe7 11.Qd2 Nc5 12.Rfd1 a5 13.Bh6 e4 14.Bxg7 Kxg7 15.Qe3 Re8
+16.Nd4 Nfd7 17.Nb3 a4 18.Nxc5 Nxc5 19.Rd4 f5 20.Rad1 Ne6 21.Rd6 Qg5 22.Qb6 e3
+23.Qxe3 Qxe3 24.fxe3 Nc5 25.e4 fxe4 26.R6d4 e3 27.Kh2 Ra6 28.Ne4 Nxe4 29.Rxe4 Rxe4
+30.Bxe4 Rb6 31.Rb1 Kf6 32.Kg2 Ke5 33.Kf3 Kd4 34.g4 c5 35.Rd1+ Kxc4 36.Bd5+ Kb4
+37.Kxe3 a3 38.bxa3+ Kxa3 39.Rc1 Rb5 40.Rc3+ Kb2 41.Rb3+ Rxb3+ 42.axb3 h5
+43.Kf4 hxg4 44.hxg4 b5 45.Bf7 Kc3 46.g5 c4 47.bxc4 bxc4 48.e4 Kd4 49.Bxg6 c3
+50.e5 Ba6 51.e6 Bd3 52.Bxd3 Kxd3 53.e7 c2 54.e8=Q c1=Q+ 55.Kf5 Qf1+ 56.Kg6 Kc3
+57.Qf7 Qb1+ 58.Kg7 Kd2 59.g6 Qa1+ 60.Qf6 Qa8 61.Qh4 Qc8 62.Kh7 Qf5 63.Kh6 Qe6
+64.Qf4+ Kc2 65.Kg5 Qe7+ 66.Kh5 Qe2+ 67.Kh6 Qe6 68.Qf3 Qd6 69.Qf2+ Kb1 70.Kh7 Qd3
+71.Qe1+ Kc2 72.Qe6 Kb1 73.Qc6 Qh3+ 74.Kg7 Qd3 75.Kf7 Qb3+ 76.Ke7 Qb4+ 77.Kd7 Qd4+
+78.Kc7 Qg7+ 79.Kb6 Qd4+ 80.Ka5 Qd2+ 81.Ka6 Ka2 82.Qe6+ Ka1 83.Qe5+ Kb1 84.g7 Qa2+
+85.Kb6 Qg8 86.Kc7 Qc4+ 87.Kd6 Qb4+ 88.Ke6 Qb6+ 89.Kf5 Qf2+ 90.Kg6 Qg2+ 91.Qg5 Qc6+
+92.Qf6 Qg2+ 93.Kh7 Qh3+ 94.Qh6 Qd7 95.Kh8 Qd4 96.Qh3 Kb2 97.Qf3 Qe5 98.Qh3 Qd4
+99.Qg3 Ka1 100.Qc7 Kb2 101.Kg8 Qd5+ 102.Kf8 Qf5+ 103.Ke8 Qe4+ 104.Kd8 Qa8+
+105.Kd7 Qd5+ 106.Kc8 Qg8+ 107.Kb7 Qd5+ 108.Ka6 Qa2+ 109.Qa5 Qg8 110.Qe5+ Kb1
+111.Kb6 Qd8+ 112.Kb5 Qd7+ 113.Kb4 Qb7+ 114.Kc4 Qc6+ 115.Qc5 Qe4+ 116.Qd4 Qc6+
+117.Kb3 Qf3+ 118.Ka4 Qa8+ 119.Kb4 Qb7+ 120.Kc3 Qc6+ 121.Qc4 Qf6+ 122.Qd4 Qc6+
+123.Kb3 Qf3+ 124.Qc3 Qb7+ 125.Qb4 Qd5+ 126.Ka3+ Kc2 127.Qb2+  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Pachman, Ludek"]
+[Black "Keres, Paul"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D98"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 d5 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4 8.Be2 Nfd7
+9.Be3 Nb6 10.Qd3 Nc6 11.O-O-O Qc8 12.Qc2 e5 13.Nxe5 Nxe5 14.dxe5 Bxe5 15.Bxg4 Qxg4
+16.f3 Qe6 17.Bd4 Rad8 18.Bxe5 Qxe5 19.g3 c6 20.Rxd8 Rxd8 21.Rd1 Rd4 22.f4 Qc5
+23.Rxd4 Qxd4 24.b3 Qg1+ 25.Kb2 Qe3 26.Qe2 Qd4 27.Qd1 Qf2+ 28.Qe2 Qc5 29.Qd2 Kg7
+30.Ne2 h5 31.Qc3+ Qxc3+ 32.Kxc3 Kf6 33.Kd4  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Pachman, Ludek"]
+[Black "Kholmov, Ratmir D"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D61"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 c6 7.Qc2 O-O 8.Rd1 a6
+9.Bd3 h6 10.Bf4 dxc4 11.Bxc4 b5 12.Be2 Qb6 13.g4 Bb7 14.g5 hxg5 15.Bxg5 c5
+16.Rg1 Rfd8 17.Ne5 Qc7 18.Bh6 Bf8 19.Nxf7 Kxf7 20.Bxg7 c4 21.Qg6+ Ke7 22.e4 Qf4
+23.d5 exd5 24.Rg5 Bxg7 25.Qxg7+ Ke6 26.Bg4+ Nxg4 27.Rxg4 Qe5 28.Rg6+ Nf6
+29.Qxb7 dxe4 30.Nd5 Rab8 31.Qe7+ Kf5 32.Rxf6+  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Pachman, Ludek"]
+[Black "Kotov, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E09"]
+
+1.d4 d5 2.Nf3 e6 3.g3 Nf6 4.Bg2 Be7 5.O-O Nbd7 6.c4 c6 7.Nbd2 O-O 8.Qc2 b6
+9.e4 Bb7 10.Rd1 Rc8 11.b3 Qc7 12.Bb2 Rfd8 13.Rac1 Qb8 14.Qd3 dxe4 15.Nxe4 c5
+16.Nxf6+ Bxf6 17.Qe2 Qa8 18.Ne1 h6 19.Bxb7 Qxb7 20.Ng2 Kh7 21.d5 exd5 22.Rxd5 Bxb2
+23.Qxb2 Nf6 24.Qc2+ g6 25.Rxd8 Rxd8 26.Rd1 Rd4 27.Rxd4 cxd4 28.Qd3 Qe4 29.Nf4 g5
+30.f3 Qxd3 31.Nxd3 Nd7 32.Kf2 Kg6 33.h3 Kf5 34.Nb4 Ne5 35.Nc2 Nc6 36.Ke2 h5
+37.b4 h4 38.gxh4 gxh4 39.b5 Ne5 40.Nxd4+ Kf4 41.Kf2 Nxc4  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Pachman, Ludek"]
+[Black "Novotelnov, Nikolay Alexandrovi"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C97"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Be6 13.Nf1 cxd4 14.cxd4 Rac8 15.Bd3 Bc4
+16.Bxc4 Nxc4 17.Ng3 Rfd8 18.b3 Nb6 19.Ba3 Bf8 20.Rc1 Qb8 21.Bb2 Nbd7 22.Rxc8 Rxc8
+23.Qa1 exd4 24.Nxd4 g6 25.Ndf5 Ne8 26.Ne3 Qb7 27.Rd1 Nc7 28.Qb1 b4 29.Ne2 Re8
+30.Ng3 h5 31.Nd5 Nxd5 32.Rxd5 h4 33.Nf1 Nb6 34.Rd4 a5 35.Ne3 Re6 36.Nd5 Bg7
+37.Nxb6 Qxb6 38.Rc4 Re8 39.Bxg7 Kxg7 40.Qb2+ Kg8 41.Qd2 Qd8 42.Rd4 Qc7 43.f3 Re6
+44.Rc4 Qd8 45.Qd4 Kh7 46.Kf1 Qd7 47.Qd5 Re5 48.Qa8 Rc5 49.Qa6 Qc7 50.Rxc5 Qxc5  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Pachman, Ludek"]
+[Black "Ragozin, Viacheslav"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E53"]
+
+1.Nf3 Nf6 2.d4 d5 3.c4 e6 4.Nc3 Bb4 5.e3 O-O 6.Bd3 c5 7.O-O Nbd7 8.a3 Ba5
+9.Qc2 Bc7 10.Rd1 cxd4 11.exd4 dxc4 12.Bxc4 Nb6 13.Ba2 h6 14.Ne5 Bd7 15.Bf4 Rc8
+16.Qd2 Nfd5 17.Nxd5 exd5 18.Qd3 Nc4 19.Bb1 f5 20.Qg3 Rf6 21.Ba2 Kh7 22.Bxc4 dxc4
+23.Nxd7 Qxd7 24.Be5 Rg6 25.Qf3 Rb6 26.Bxc7 Rxc7 27.Rd2 Qe6 28.Rc1 Rb3 29.Qf4 Re7
+30.h3 Qd5 31.Rcd1 Re6 32.Qc7 Rg6 33.g3 Rgb6 34.Rc1 Rd3 35.Re2 Rxd4 36.Re7 Rd1+
+37.Rxd1 Qxd1+ 38.Kg2 Qd5+ 39.Kg1 Qd4 40.Rd7 Qxb2 41.Qxc4 Qxa3 42.Qf7 Qa1+
+43.Kg2 Qf6 44.Qxf6 Rxf6 45.Rxb7 Ra6 46.h4 h5 47.Kf3 Kg6 48.Rc7 Kf6 49.Kf4 g6
+50.Rb7 Ra4+ 51.Kf3 Ra2 52.Rc7 Ra3+ 53.Kf4 Ra4+ 54.Kf3 Ra6 55.Kf4 Ra4+ 56.Kf3 f4
+57.gxf4  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Pachman, Ludek"]
+[Black "Tsvetkov, Alexandar K"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E89"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.Nge2 c6 8.d5 cxd5
+9.cxd5 Nbd7 10.g4 Ne8 11.Qd2 h6 12.h4 Kh7 13.Ng3 a6 14.Bd3 b5 15.Nf5 gxf5
+16.exf5 e4 17.Bxe4 Nef6 18.Bc2 Ne5 19.O-O-O b4 20.Na4 Nc4 21.Qf2 Nxe3 22.Qxe3 Bd7
+23.Nb6 Re8 24.Qf2 Rb8 25.Nxd7 Qxd7 26.g5 Rbc8 27.Kb1 Kh8 28.Qd2 b3 29.axb3 Qb5
+30.gxf6 Re2 31.fxg7+ Kh7 32.g8=Q+ Rxg8 33.f6+ Rg6 34.Bxg6+ fxg6 35.Qd3 Qe8
+36.h5 Re3 37.f7  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Plater, Kazimierz"]
+[Black "Botvinnik, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B20"]
+
+1.e4 c5 2.Ne2 Nf6 3.Nbc3 d5 4.exd5 Nxd5 5.Nxd5 Qxd5 6.Nc3 Qd8 7.Bc4 Nc6 8.d3 e6
+9.O-O Be7 10.f4 O-O 11.Ne4 Na5 12.Bb3 Qd4+ 13.Kh1 c4 14.c3 Qxd3 15.Qxd3 cxd3
+16.Nf2 Rd8 17.Rd1 Bc5 18.Rxd3 Bd7 19.Be3 Bxe3 20.Rxe3 Bb5 21.Ne4 h6 22.Rae1 Nxb3
+23.axb3 a5 24.h3 Rac8 25.Kg1 Kf8 26.Kh2 Rc7 27.Kg3 b6 28.Kh2 Rcd7 29.Kg1 Rd1
+30.c4 Bc6 31.Nc3 Rxe1+ 32.Rxe1 Ke7 33.Re2 f6 34.Kf2 Rd3 35.h4 h5 36.Re3 Rd2+
+37.Re2 Rd3 38.Re3 Rd2+ 39.Re2 Rxe2+ 40.Nxe2 Kd6 41.Nd4 g6 42.g3 e5 43.fxe5+ fxe5
+44.Nc2 Be4 45.Ne1 Kc5 46.Ke3 Bf5 47.Nf3 Kb4 48.Nd2 Bc2 49.Kf3 Bxb3 50.Ke4 Bxc4
+51.Kxe5 Bd3 52.Kd4 Bf5 53.Nc4 b5 54.Nd2 a4 55.Kd5 Bh3 56.Kd4 Bg2 57.Kd3 Kc5
+58.Kc3 b4+ 59.Kd3 Bd5 60.Nb1 Be6 61.Nd2 Bf5+ 62.Ke3 Bc2  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Plater, Kazimierz"]
+[Black "Kholmov, Ratmir D"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Bd6 5.Ne2 Ne7 6.O-O O-O 7.Bf4 Bf5 8.Nbc3 c6
+9.Bxf5 Nxf5 10.Qd3 Qf6 11.Bxd6 Nxd6 12.Ng3 Nd7 13.Rae1 Rae8 14.Nd1 Re6 15.Re3 Rxe3
+16.Nxe3 Re8 17.c3 Re6 18.Nc2 Qf4 19.Re1 Ne4 20.Nxe4 dxe4 21.Qe3 Qd6 22.Qg3 Qxg3
+23.hxg3 Kf8 24.Kf1 Ke7 25.Ke2 c5 26.d5 Rb6 27.b3 Ra6 28.Kd2 Rxa2 29.Rxe4+ Kd6
+30.c4 b5 31.f4 bxc4 32.bxc4 Nb6 33.Kc3 Na4+ 34.Kd2 Rb2 35.Re3 Nb6 36.Rc3 Rb1
+37.Na3 Rg1 38.Nb5+ Kd7 39.Nxa7 Rxg2+ 40.Kc1 Nc8 41.Nc6 Nd6 42.Ra3 Kc7 43.Ra7+ Kb6
+44.Rd7 Nxc4 45.Ne5 Ne3 46.Rxf7 c4 47.Nxc4+ Nxc4 48.Rxg7 h5 49.Rh7 Rh2 50.f5 Kc5
+51.f6 Kd4 52.Kb1 Kc3 53.d6 Na3+ 54.Ka1 Nc2+ 55.Ka2 Nb4+  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Plater, Kazimierz"]
+[Black "Kottnauer, Cenek"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B20"]
+
+1.e4 c5 2.Ne2 Nf6 3.Nbc3 d5 4.exd5 Nxd5 5.Nxd5 Qxd5 6.Nc3 Qd8 7.Bc4 e6 8.d3 Be7
+9.Qg4 O-O 10.Be3 Nc6 11.O-O Kh8 12.f4 Nd4 13.Bxd4 Qxd4+ 14.Kh1 a6 15.a4 Bd7
+16.Rf3 b5 17.Bb3 Bc6 18.Rh3 c4 19.dxc4 b4 20.Ne2 Qxb2 21.Rf1 Rad8 22.Ng1 Be4
+23.Rg3 Bf5 24.Qe2 Bc5 25.Nf3 Qf6 26.Ne5 Rd6 27.Nd3 Rc8 28.Nxc5 Rxc5 29.Re3 Qd8
+30.Qe1 a5 31.c3 Bd3 32.cxb4 axb4 33.Qxb4 Rc8 34.Rd1 h6 35.h3 Rd7 36.Qd2 Bc2
+37.Qxd7  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Plater, Kazimierz"]
+[Black "Pachman, Ludek"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A14"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.b3 Be7 5.Bb2 O-O 6.Bg2 Nbd7 7.O-O c6 8.Qc2 b6
+9.Nd4 Bb7 10.cxd5 cxd5 11.Nc3 Rc8 12.Rac1 Bc5 13.e3 Ba6 14.Nde2 Bb4 15.d3 Ne5
+16.Rfd1 Nc6 17.a3 Bd6 18.b4 Bb7 19.Qa4 Be5 20.d4 Bb8 21.Rc2 Ne7 22.Rdc1 Nf5
+23.Nb1 Rxc2 24.Qxc2 Nd6 25.Nd2 Ba6 26.Nc3 Qd7 27.a4 Rc8 28.b5 Bb7 29.Qb1 Nc4
+30.Nxc4 Rxc4 31.Bf1 Rc8 32.Ba3 Ne8 33.Na2 Nd6 34.Rxc8+ Qxc8 35.Bb4 Ne4 36.Qd3 f6
+37.Nc3 Bd6 38.Bxd6 Nxd6 39.f3 Kf7 40.Kf2 h6 41.Be2 Qc7 42.Bd1 Ke7  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Plater, Kazimierz"]
+[Black "Ragozin, Viacheslav"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxd4 exd4 6.e5 dxc3 7.exf6 Qxf6 8.dxc3 c6
+9.Bd3 d5 10.O-O Bd6 11.Qh5 h6 12.Be3 Be6 13.Rae1 c5 14.Bb5+ Kd8 15.a4 Kc7
+16.a5 g5 17.Qe2 Rhg8 18.Qd2 Rac8 19.b4 Kb8 20.Ba4 cxb4 21.cxb4 Rc4 22.Qd3 Rxb4
+23.Rb1 Qe5 24.f4 Qe4 25.Rxb4 Qxb4 26.f5 Qxa4 27.fxe6 fxe6 28.a6 Qxa6 29.Qh7 Rc8
+30.Qxh6 Rxc2 31.Qxg5 Rc8 32.Bd4 Bxh2+ 33.Kxh2 Qxf1 34.Qe5+ Ka8 35.Qxe6 Qf4+
+36.Kh3 Rd8  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Plater, Kazimierz"]
+[Black "Trifunovic, Petar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B45"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Ndb5 Bb4 7.a3 Bxc3+ 8.Nxc3 d5
+9.exd5 exd5 10.Bd3 O-O 11.O-O Bg4 12.f3 Be6 13.Re1 h6 14.Qe2 Qd7 15.Qf2 Bf5
+16.Bxf5 Qxf5 17.Be3 Rfe8 18.Nb5 Qd7 19.Qg3 a6 20.Nc7 Nh5 21.Qh4 Qxc7 22.Qxh5 Re5
+23.Qg4 Rae8 24.Bf2 Rxe1+ 25.Rxe1 Rxe1+ 26.Bxe1 Nd8 27.Qd4 Ne6 28.Qxd5 Qb6+
+29.Kf1 Qxb2 30.Qd3 b5 31.Qc3 Qxc3 32.Bxc3 Kf8 33.Kf2 Ke7 34.Ke3 f5 35.g4 g6
+36.gxf5 gxf5 37.Bb4+ Kd7 38.Kd3 Kc6 39.c4 Ng5 40.cxb5+ axb5 41.Ke2  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Plater, Kazimierz"]
+[Black "Tsvetkov, Alexandar K"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B76"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Be3 d6 7.Qd2 Nf6 8.f3 O-O
+9.O-O-O Nxd4 10.Bxd4 Be6 11.Kb1 a6 12.g4 b5 13.h4 Rc8 14.h5 Bc4 15.Qh2 e5
+16.Be3 Be6 17.hxg6 fxg6 18.Qd2 Rc6 19.Bh3 Ne8 20.g5 Qd7 21.Bxe6+ Qxe6 22.Qh2 Rxf3
+23.Qxh7+ Kf8 24.Nd5 Qf7 25.Rhe1 Rc4 26.Qh1 Rxe4 27.Rf1 Rf5 28.Rg1 Rc4 29.Bb6 Rc8
+30.Ne3 Rf4 31.Nd5 Rf5 32.Ne3 Rf4  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Ragozin, Viacheslav"]
+[Black "Boleslavsky, Isaak"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A54"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 Nbd7 5.Bg5 Be7 6.Qc2 c6 7.e3 O-O 8.O-O-O Qa5
+9.Bd3 Re8 10.Bh4 Nf8 11.Kb1 Bg4 12.dxe5 dxe5 13.h3 Bh5 14.g4 Bg6 15.Bf5 Rad8
+16.Bg3 Rxd1+ 17.Rxd1 Bb4 18.Ne2 N6d7 19.h4 Bxf5 20.gxf5 e4 21.Nfd4 Nf6 22.a3 Be7
+23.Nc3 Qb6 24.Ka2 Qa6 25.Qe2 N8d7 26.Nb3 Nb6 27.Nd2 Bf8 28.h5 Qa5 29.h6 Qxf5
+30.hxg7 Bxg7 31.Rg1 h6 32.Qf1 Kh7 33.Bd6 Rg8 34.Bc7 Nbd7 35.Qb1 Bh8 36.Ndxe4 Nxe4
+37.Nxe4 Rxg1 38.Nf6+ Kg6 39.Qxg1+ Kxf6 40.Qg8 Bg7 41.Bd8+ Kg6  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Ragozin, Viacheslav"]
+[Black "Bondarevsky, Igor"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C05"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 b6 6.Ne2 c5 7.O-O cxd4 8.f4 Nc5
+9.Bb5+ Bd7 10.Nxd4 Bxb5 11.Nxb5 Qd7 12.Nd4 Nc6 13.c3 g6 14.N2f3 Nxd4 15.cxd4 Ne4
+16.Ng5 Be7 17.Qf3 f5 18.exf6 Bxf6 19.Be3 Nd6 20.Qh3 Nf5 21.Rae1 O-O 22.Nf3 Rac8
+23.Re2 Rc7 24.Bf2 h5 25.Rfe1 Rc6 26.Kh1 Kg7 27.g4 hxg4 28.Qxg4 Rh8 29.Rg1 Rh6
+30.Ng5 Bxg5 31.fxg5 Rh5 32.Bg3 Qc8 33.Qf4 Rc2 34.Rxc2 Qxc2 35.Qc7+ Qxc7 36.Bxc7 Kf7
+37.Be5 Ke8 38.Rc1 Rh4 39.Rc8+ Kd7 40.Rc7+ Kd8 41.Rxa7 Nxd4 42.Rg7 Nf5 43.Rxg6 Re4
+44.Bf6+ Kc7 45.Rh6 d4 46.Rh3 Kc6 47.Kg2 e5 48.Kf2 Kd5 49.Rb3 Nd6 50.h3 Rh4
+51.Kg2 Ke6 52.Kg3 Nf5+ 53.Kg2 Nd6 54.a4 Re4 55.Kf2 Rf4+ 56.Ke2 Re4+ 57.Kd1 Rh4
+58.Bd8 Nc4 59.Rg3 Rh8 60.Bf6 Rc8 61.Kc2 Nd6+ 62.Kd3 e4+ 63.Kd2 Nc4+ 64.Ke1 Ne3
+65.Rxe3 dxe3 66.Bd4 Rc2 67.g6 Rg2 68.g7 Kd5 69.Kf1 Rg6 70.Bc3 Ke6 71.Ke2 Rg3
+72.h4 Kf5 73.h5 Kf4 74.h6 Rg2+ 75.Kd1 e2+ 76.Kc1  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Ragozin, Viacheslav"]
+[Black "Gligoric, Svetozar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C59"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5+ c6 7.dxc6 bxc6 8.Be2 h6
+9.Nf3 e4 10.Ne5 Bd6 11.d4 exd3 12.Nxd3 Qc7 13.h3 O-O 14.O-O c5 15.c4 Nxc4
+16.Nc3 Ba6 17.Qa4 Na5 18.Be3 Rab8 19.Rab1 c4 20.Ne1 Bc8 21.Nf3 Bf5 22.Rbd1 Bc5
+23.Nd5 Nxd5 24.Rxd5 Bxe3 25.fxe3 Bxh3 26.Qxa5 Qg3 27.Rf2 Rxb2 28.Rd8 Rxd8
+29.Qxd8+ Kh7 30.Bd3+ cxd3 31.Qxd3+ g6 32.Rxb2 Bxg2 33.Rxg2 Qxf3 34.Qd4 h5
+35.Rf2 Qg3+ 36.Kf1 Qh3+ 37.Ke2 Qe6 38.Qxa7 Qc4+ 39.Kd2 Qb4+ 40.Kd3 Qb1+ 41.Kd4 Qb4+
+42.Kd5 Qb5+ 43.Kd6 Qb4+ 44.Qc5 Qb8+ 45.Kd7  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Ragozin, Viacheslav"]
+[Black "Keres, Paul"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E47"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d6 6.Ne2 e5 7.O-O c5 8.Ne4 Qe7
+9.Nxf6+ Qxf6 10.d5 Qe7 11.e4 f5 12.exf5 e4 13.Bc2 Bxf5 14.Ng3 Bg6 15.Qg4 Nd7
+16.Bg5 Nf6 17.Bxf6 Qxf6 18.Bxe4 Rae8 19.Bxg6 hxg6 20.Rad1 Qxb2 21.Qxg6 Qf6
+22.Qxf6 Rxf6 23.f3 Re3 24.Ne4 Rh6 25.Rc1 a6 26.a4 Kf8 27.Kf2 Rd3 28.Rfd1 Rb3
+29.Rb1 Ra3 30.Ra1 Rb3 31.Rdb1 Rd3 32.h3 Ke7 33.Rd1 Rb3 34.Rab1 Ra3 35.Ra1 Rb3
+36.Rdb1 Rd3 37.Ra2 Kd7 38.Ke2 Rd4 39.Rc2 Rh5 40.Ke3 b6 41.Rxb4 Rxe4+ 42.fxe4 cxb4
+43.Rf2 Ke7 44.Kd4 a5 45.Rf3 Rh4 46.g4 g5 47.e5 dxe5+ 48.Kxe5 Rh6 49.Rd3 Rh8
+50.Re3 Rf8 51.d6+ Kd7 52.Kd5 Rf7 53.Re5 b3 54.Re3 b2 55.Rb3 Rf1 56.Rxb2 Rd1+
+57.Ke5 Rxd6 58.Kf5 Rc6 59.Kxg5 Rxc4 60.Rxb6 Rxa4 61.Ra6 Kc7 62.h4 Kb7 63.Rf6 Rc4
+64.h5  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Ragozin, Viacheslav"]
+[Black "Kholmov, Ratmir D"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B10"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Nf6 4.e5 Ne4 5.Be2 e6 6.O-O Be7 7.Nb1 O-O 8.d3 Nc5
+9.Be3 Qc7 10.Nbd2 Ncd7 11.Bf4 c5 12.Re1 Nc6 13.Bf1 b6 14.c3 Ba6 15.Qa4 Qb7
+16.Bg3 c4 17.dxc4 dxc4 18.Qc2 Na5 19.Ne4 Rfd8 20.Rad1 Qc7 21.Nf6+ Nxf6 22.exf6 Qb7  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Ragozin, Viacheslav"]
+[Black "Kotov, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D63"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 O-O 7.Rc1 a6 8.cxd5 exd5
+9.Bd3 c6 10.O-O Ne4 11.Bf4 Ndf6 12.Ne5 Bd6 13.Nxe4 dxe4 14.Bb1 Be6 15.Bg3 Bd5
+16.Bh4 Be7 17.Bg3 Ne8 18.Qc2 Nd6 19.f3 f6 20.Ng4 Re8 21.Nf2 f5 22.fxe4 Nxe4
+23.Be5 Bg5 24.Nxe4 fxe4 25.Qe2 Qd7 26.g3 Qe6 27.h4 Be7 28.Rf4 Bd6 29.Bxd6 Qxd6
+30.Rcf1  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Ragozin, Viacheslav"]
+[Black "Novotelnov, Nikolay Alexandrovi"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 Be7 6.c3 b5 7.Bb3 O-O 8.a4 Bb7
+9.d3 d5 10.Nbd2 Qd6 11.O-O Rad8 12.axb5 axb5 13.Re1 d4 14.c4 b4 15.Nf1 Nd7
+16.Ng3 Nc5 17.Nf5 Qd7 18.Ba4 Nxa4 19.Rxa4 Ra8 20.Qc2 Rfb8 21.Bg5 Bxg5 22.Nxg5 Ne7
+23.Nxe7+ Qxe7 24.Nf3 Bc6 25.Rxa8 Rxa8 26.Nd2 Ra5 27.Rc1 Qc5 28.Qd1 Ra2 29.Ra1 Qa7
+30.Rxa2 Qxa2 31.Qc1 Ba4 32.Kf1 f6 33.Ke2 Bd7 34.Qb1 Qa6 35.Nb3 Qa4 36.Nc5 Qc6
+37.Nxd7 Qxd7 38.Qa1 Kf7 39.h3 c5 40.Qa8 Kg6 41.Kd2 h6 42.Qa5 Qc6 43.Qa7 Kh7
+44.g4 Qc8 45.Kc2 h5 46.f3 h4 47.Kb3 Qc6 48.Qa4 Qc7 49.Qa6 Kg6 50.Kc2 Qd7
+51.Qa8 Kh7 52.Kb3 Kg6 53.Qa5 Qc8 54.Qa7 Qc6 55.Kc2 Kh7 56.Kd2 Qc8 57.Ke2 Qc6
+58.Kd1 Qc8 59.Kc1 Qc6 60.Kb1 Kg6 61.Ka2 Qc8 62.Kb3 Qc6 63.Qe7 Qc8 64.Qa7 Qc6  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Ragozin, Viacheslav"]
+[Black "Tsvetkov, Alexandar K"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A47"]
+
+1.Nf3 Nf6 2.d4 b6 3.g3 Bb7 4.Bg2 e6 5.O-O Be7 6.Nbd2 Qc8 7.b3 c5 8.dxc5 bxc5
+9.c4 O-O 10.Bb2 d5 11.cxd5 exd5 12.Rc1 h6 13.Qc2 Qe6 14.b4 Nbd7 15.bxc5 Bxc5
+16.Nb3 Rfc8 17.Nxc5 Rxc5 18.Qb3 Qb6 19.Bd4 Qxb3 20.axb3 Rb5 21.Nd2 a5 22.Rc7 a4
+23.Ra1 a3 24.e3 Kf8 25.Bf1 Rb4 26.Rc2 Ke7 27.Rca2 Kd6 28.Rxa3 Rxa3 29.Rxa3 Nc5
+30.Bc3 Rb6 31.f3 Bc8 32.e4  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily"]
+[Black "Botvinnik, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C90"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.d3 Be6 10.Nbd2 Bxb3 11.Qxb3 Nd7 12.Qc2 Nb6 13.Nf1 d5 14.Ng3 Qd7 15.Be3 dxe4
+16.dxe4 Nc4 17.Nf5 Rfd8 18.Rad1 Qe6 19.Bc1 Rxd1 20.Rxd1 Rd8 21.b3 Rxd1+ 22.Qxd1 Nd6
+23.Ng3 f6 24.Ne1 Nb7 25.Nf5 Nd6 26.Nxe7+ Nxe7 27.Ba3 f5 28.exf5 Nexf5 29.Nc2 e4
+30.Qd2 h6 31.Bc5 Qe5 32.Ba7 Kh7 33.h3 a5 34.Ne3 Nxe3 35.Bxe3 a4 36.Bf4 Qc5
+37.bxa4 bxa4 38.Qe2 Qc6 39.Be5 Qd5 40.Bxd6 cxd6 41.a3  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily"]
+[Black "Kotov, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B24"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 b6 6.f4 Bb7 7.Nf3 e6 8.O-O Nge7
+9.Bd2 a6 10.Rb1 d5 11.e5 b5 12.Ne2 Qb6 13.c3 b4 14.Qe1 a5 15.c4 Rd8 16.Qf2 dxc4
+17.dxc4 Nd4 18.Nexd4 cxd4 19.Rbc1 Rd7 20.c5 Qd8 21.Ng5 Qa8 22.Bxb7 Qxb7 23.Qf3 Qxf3
+24.Rxf3 Nc6 25.Ne4 Ke7 26.g4 h6 27.Rh3 Rd5 28.Kf1 g5 29.fxg5 Rxe5 30.Re1 hxg5
+31.Rxh8 Bxh8 32.Bxg5+ Kd7 33.Bf4 Rd5 34.Bd6 d3 35.b3 Rd4 36.Nf2 e5 37.Re4 Rd5
+38.g5 Bg7 39.h4 Ke6 40.Re3 d2 41.Nd1 Rd4 42.h5 Kf5 43.Rf3+ Kxg5 44.Rxf7 Bh6
+45.Rc7 Re4 46.Rxc6 Re1+ 47.Kf2 Kxh5 48.Nb2 e4 49.Be5 e3+ 50.Kf3 Bg5 51.Rd6 Rf1+  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily"]
+[Black "Kottnauer, Cenek"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B25"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 e6 6.Be3 d6 7.f4 Nge7 8.Nf3 Nd4
+9.Bf2 Nec6 10.O-O Nxf3+ 11.Bxf3 Nd4 12.Bg2 Bd7 13.Rb1 Bc6 14.Ne2 Nxe2+ 15.Qxe2 O-O
+16.a3 a5 17.Rfd1 Qc7 18.h4 b5 19.c3 b4 20.cxb4 axb4 21.axb4 cxb4 22.h5 Qb7
+23.hxg6 hxg6 24.Rdc1 Rfc8 25.d4 d5 26.f5 dxe4 27.fxg6 f5 28.Be3 Bf6 29.g4 f4
+30.Bxf4 Bxd4+ 31.Be3 Qb6 32.Bxd4 Qxd4+ 33.Qf2 Qg7 34.Qf7+ Qxf7 35.gxf7+ Kxf7
+36.Rc4 Rab8 37.Rbc1 Bd7 38.Bxe4 Rxc4 39.Rxc4 e5 40.Rc7 Ke8 41.g5 Rd8 42.g6 Be6
+43.g7 Rd4 44.Bf3 Rd3 45.Be2 Rg3+ 46.Kf2 Rg5 47.Ra7 Kd8 48.Bf3 Bc4 49.Ke3 Be6
+50.Bc6 Bb3 51.Ke4 Be6 52.Bd5 Bxd5+ 53.Kxd5 Ke8 54.Ke6 Rg6+ 55.Kxe5 Rg2 56.Ra8+ Kf7
+57.g8=Q+ Rxg8 58.Rxg8 Kxg8 59.Kd4  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily"]
+[Black "Pachman, Ludek"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 Bxf6 7.c3 Nd7 8.Nf3 Qe7
+9.Bd3 b6 10.Nxf6+ Nxf6 11.Ne5 O-O 12.Qf3 Bd7 13.Qh3 Rfd8 14.O-O c5 15.Qh4 h6
+16.dxc5 Qxc5 17.Rae1 Bc6 18.Re3 Bb7 19.Rfe1 Rd5 20.b4 Qd6 21.Qh3 Rd8 22.Bc2 Qc7
+23.Bb3 R5d6 24.Qh4 Rd2 25.h3 Bd5 26.Rg3 Kf8 27.Qf4 Qe7 28.Qxd2 Bxb3 29.Qe2 Bd5
+30.c4 Bb7 31.Rd3 Rxd3 32.Qxd3 Qc7 33.Qd4  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily"]
+[Black "Plater, Kazimierz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E68"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O d6 6.d4 Nbd7 7.Nc3 e5 8.e4 c6
+9.Re1 Qc7 10.h3 exd4 11.Nxd4 Nb6 12.b3 Re8 13.Bg5 a5 14.Qd2 a4 15.Rad1 axb3
+16.axb3 Nbd7 17.Bh6 Bh8 18.Nf5 Nc5 19.Nxd6 Re7 20.b4 Ne6 21.c5 b6 22.e5 Nd7
+23.Bxc6  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily"]
+[Black "Ragozin, Viacheslav"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D71"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d5 5.cxd5 Nxd5 6.Nf3 c6 7.O-O Nd7 8.e4 Nc7
+9.Nc3 O-O 10.Be3 Nb6 11.Qc1 Bg4 12.Ne5 Be6 13.Rd1 Re8 14.Ne2 f6 15.Nd3 Bf7
+16.Bh6 Bh8 17.Nc5 Rb8 18.Bf4 g5 19.Bd2 h6 20.b3 Nd7 21.Be3 Nf8 22.Qd2 e6
+23.Rac1 Qe7 24.Nc3 Bg7 25.d5 cxd5 26.exd5 exd5 27.Nxd5 Nxd5 28.Bxd5 b6 29.Ne4 Ne6
+30.Nc3 Rbd8 31.Qc2 Kh8 32.Qf5 Bg8 33.Bc4 Rxd1+ 34.Rxd1 Bh7 35.Qxe6 Qxe6 36.Bxe6 Rxe6
+37.Rd8+ Bg8 38.Nb5 Re7 39.Ra8 Re5 40.Nxa7 Ra5 41.Bxb6 Rxa2 42.b4  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily"]
+[Black "Sokolsky, Alexey"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C81"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Qe2 Nc5 10.Rd1 Nxb3 11.axb3 Bc5 12.Be3 Bxe3 13.Qxe3 Qe7 14.Qc3 Nd8 15.b4 O-O
+16.Nbd2 Bg4 17.h3 Bxf3 18.Nxf3 c6 19.Rd2 h6 20.b3 Re8 21.Nd4 Qg5 22.Rf1 Ne6
+23.f4 Nxf4 24.Rdf2 Ne6 25.Nf5 Rec8 26.h4 Qd8 27.Qg3 Kh7 28.Nd6 Rc7 29.Nxf7 Qe7
+30.Nd6 Rg8 31.Qd3+  1-0
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Smyslov, Vassily"]
+[Black "Trifunovic, Petar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 e6 3.g3 d5 4.exd5 exd5 5.Bg2 Nf6 6.d3 d4 7.Ne4 Nxe4 8.Bxe4 Bd6
+9.Qh5 Nd7 10.Bg5 Be7 11.Nf3 h6 12.h4 Rg8 13.Bf4 Nf6 14.Qe5 Ng4 15.Qd5 Qxd5
+16.Bxd5 Nf6 17.Bc4 Be6 18.Bxe6 fxe6 19.O-O Nd5 20.Bd2 Bd6 21.Rfe1 Kd7 22.c4 dxc3
+23.bxc3 Rgf8 24.Kg2 Rf5 25.c4 Ne7 26.Bc3 Raf8 27.Re3 R5f7 28.Rb1 b6 29.Rb2 Nf5
+30.Ne5+ Bxe5 31.Rxe5 Rc8 32.h5 Rc6 33.g4 Nh4+ 34.Kg3 Nf3 35.Re3 Rd6 36.Bxg7 Rxg7
+37.Rxf3 Rd4 38.Rf4 Rxd3+ 39.f3 Ke7 40.Rb3 Rxb3 41.axb3 Rg8 42.Re4 Rd8 43.Re3  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Sokolsky, Alexey"]
+[Black "Botvinnik, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nc6 4.O-O a6 5.Bxc6+ bxc6 6.d4 cxd4 7.Qxd4 e5 8.Qd3 Nf6
+9.Bg5 Be7 10.Rd1 O-O 11.Na3 Ra7 12.Nc4 Rd7 13.Ne3 h6 14.Bh4 g6 15.c4 Nh5
+16.Bxe7 Qxe7 17.Qc2 Nf4 18.b4 Rdd8 19.Rd2 h5 20.g3 Bg4 21.Nxg4 Nh3+ 22.Kg2 hxg4
+23.Ng1 Ng5 24.Rad1 f5 25.c5 Nxe4 26.cxd6 Qb7 27.Qc4+ Kg7 28.Rc2 Rxd6 29.Rxd6 Nxd6
+30.Qc5 Nf7 31.Qxc6 Qxb4 32.Rc4 Qb5 33.a4 Qa5 34.Rc5 Qb4 35.Rc4 Qd2 36.Rc2 Qd4
+37.Rc4 Qd8 38.Rb4 Qa8 39.Rb6 a5 40.Ne2 Qxc6+ 41.Rxc6 Rd8 42.Nc3 Rd2 43.Rc7 Kf8
+44.Rc5 e4 45.Nd5 Ng5 46.Ne3 Ke7 47.Re5+ Kf6 48.Rc5 Ra2 49.Rc4 Nf3 50.Nd5+ Kg5
+51.Nf4 e3  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Sokolsky, Alexey"]
+[Black "Kholmov, Ratmir D"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B10"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Bg4 5.Bc4 e6 6.c3 Nd7 7.d4 Ngf6 8.Ng3 Be7
+9.h3 Bxf3 10.Qxf3 O-O 11.O-O Re8 12.Be3 Nf8 13.Rad1 Qc7 14.Ne4 Rad8 15.Bc1 a6
+16.Bb3 b5 17.Bc2 Ng6 18.g3 Nxe4 19.Bxe4 c5 20.h4 cxd4 21.cxd4 Bf6 22.Bg5 Bxg5
+23.hxg5 Qe7 24.Qe3 Rd6 25.Rd2 Red8 26.Rfd1 Qa7 27.Qc3 Ne7 28.d5 Nxd5 29.Bxd5 Qd7
+30.Bxe6 Rxd2 31.Bxd7 Rxd1+ 32.Kg2 R1xd7 33.Qa5 Rd6 34.b3 Rf8 35.a4 bxa4 36.bxa4 h6
+37.Qc5 Rg6 38.gxh6 Rxh6 39.a5 Rf6 40.Qc7 Re8 41.Qb7 g5 42.Qd5 Rg6 43.Qb7 g4
+44.Qd7 Ree6 45.Qd8+ Kh7 46.Qh4+ Kg7 47.Qh5 Ref6 48.Qe5 Kh7 49.Kg1 Rf3 50.Qh5+ Kg8
+51.Qd5 Rff6 52.Qd8+ Kg7 53.Qd5 Re6 54.Qd4+ Kh7 55.Qd5 Kh6 56.Qf5 Ref6 57.Qe5 Rf3
+58.Qd4 Kg5 59.Qd2+ Kh5 60.Qd5+ Rg5 61.Qd8 Rff5 62.Qd3 Kh6 63.Qxa6+ Kg7 64.Qd6 Rxa5
+65.Qd4+ Rae5 66.Kg2 Kg8 67.Qd8+ Kh7 68.Qd4 Ref5 69.Qe4 Kg7 70.Qd4+ Rf6 71.Kg1 Kg6
+72.Qe4+ Kh6 73.Qd4 Rgg6 74.Qe5 Rf3 75.Qh8+ Kg5 76.Qe5+ Rf5 77.Qe8 Kf6 78.Qd8+ Kg7
+79.Qd4+ Kh7 80.Qe4  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Sokolsky, Alexey"]
+[Black "Kottnauer, Cenek"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A19"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 Ng8 5.Nf3 Nc6 6.Be2 Nge7 7.O-O Nf5 8.d3 d6
+9.Bg5 Be7 10.Bxe7 Qxe7 11.exd6 Qxd6 12.Ne4 Qe7 13.Qd2 O-O 14.Ng3 Nxg3 15.fxg3 b6
+16.Rae1 Bb7 17.g4 Rad8 18.g5 Qd6 19.Rf2 Nd4 20.Nxd4 Qxd4 21.Bf1 Qh4 22.Re5 Qd4
+23.Qf4 Qxf4 24.Rxf4 Rd6 25.a3 f6 26.gxf6 gxf6 27.Rg4+ Kh8 28.Rh5 e5 29.Rgh4 Rf7
+30.Rh6 Rd4 31.Kf2 Rxh4 32.Rxh4 Bc8 33.Re4 Kg7 34.g3 Kf8 35.Re1 Ke7 36.Bg2 Kd6
+37.Bd5 Be6 38.Bxe6 Kxe6 39.Ke3 f5 40.Rf1 h5 41.b4 Rc7 42.Rb1 Kf6 43.a4 cxb4  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Sokolsky, Alexey"]
+[Black "Pachman, Ludek"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D43"]
+
+1.c4 e6 2.Nc3 d5 3.d4 c6 4.Nf3 Nf6 5.Qb3 Bd6 6.g3 Nbd7 7.Bg2 dxc4 8.Qxc4 e5
+9.O-O O-O 10.Bg5 Qa5 11.Bxf6 Nxf6 12.dxe5 Bxe5 13.Nxe5 Qxe5 14.Rad1 Qh5 15.Rd2 Bh3
+16.Rfd1 Bxg2 17.Kxg2 Rfe8 18.f3 Qa5 19.e4 Rad8 20.Rxd8 Rxd8 21.Qa4 Qc7 22.Rxd8+ Qxd8
+23.Qxa7 h5 24.Qe3 Qd7 25.h4 g6 26.Ne2 Qd1 27.Kf2 Qb1 28.Qd4 Nh7 29.a4 Qc2
+30.a5 Nf8 31.Qc3 Qa4 32.Nf4 Qd1 33.Kg2 Qd6 34.e5 Qd7 35.Qd3 Qc7 36.Qc3 Qd7
+37.Qb4 Qc7 38.Qc5 Qd8 39.b4 Qd2+ 40.Kh3 Qd1 41.Kg2 Qd2+ 42.Kf1 Nd7 43.Qe7 Qc1+
+44.Kf2 Qb2+ 45.Ne2 Nxe5 46.Qxb7 Nd3+ 47.Ke3 Nxb4 48.a6 Qa3+ 49.Kf2 Nd3+ 50.Kg2 Qa2
+51.Qe7 Qxa6 52.Nc3 Kg7 53.Qe2 Qc4 54.Qd2 Qd4 55.Ne4 Qb2 56.Qxb2+ Nxb2 57.Kf2 Nc4
+58.Ke2 f5 59.Nc5 Kf6 60.Kd3 Ne5+ 61.Ke3 Ke7 62.Kf4 Nd7 63.Na4 Kf6 64.g4 Nf8
+65.g5+ Ke6 66.Ke3 Kd5 67.f4 Nd7 68.Nb2 Nb6 69.Nd1 Kc4 70.Nb2+ Kc3 71.Nd1+ Kc2
+72.Nf2 Nd5+  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Sokolsky, Alexey"]
+[Black "Plater, Kazimierz"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B52"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 Nc6 6.Nc3 g6 7.d3 Bg7 8.Be3 e5
+9.Nd5 Nge7 10.a3 O-O 11.O-O f5 12.Rb1 f4 13.Bd2 h6 14.b4 g5 15.h3 Rab8 16.Bc3 Rf7
+17.Nh2 Nd4 18.Bxd4 exd4 19.Qg4 Qxg4 20.Nxe7+ Rxe7 21.hxg4 Kf7 22.bxc5 dxc5
+23.Rb5 Rc8 24.Rfb1 Rcc7 25.Nf3 Ke6 26.Kf1 Kd6 27.Ke2 Kc6 28.a4 Be5 29.a5 Rcd7
+30.Rh1 Rd6 31.Rhb1 Rdd7 32.Nd2 Bd6 33.a6 b6 34.Rh1 Re6 35.Rh5 Rg7 36.Rb1 Rgg6
+37.Kf3 Be5 38.Rb5 Re8 39.Nb1 Ree6 40.Na3 Re8 41.Rb1 Kc7 42.Nb5+ Kb8 43.Rbh1 Ree6  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Sokolsky, Alexey"]
+[Black "Ragozin, Viacheslav"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D22"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 Bg4 5.Bxc4 e6 6.Nc3 Nf6 7.h3 Bh5 8.O-O Nc6
+9.Be2 Bd6 10.Ne5 Bxe2 11.Nxc6 Bxd1 12.Nxd8 Be2 13.Nxe2 Rxd8 14.Nc3 e5 15.Rd1 exd4
+16.exd4 O-O 17.Be3 Rd7 18.Rac1 Rfd8 19.Kf1 h6 20.a3 Be7 21.Ke2 c6 22.Rc2 Nd5
+23.Nxd5 Rxd5 24.Rcd2 f5 25.Rd3 Bf6 26.Rb3 R8d7 27.Rbd3 Kf7 28.g4 Ke6 29.R3d2 g5
+30.f3 h5 31.gxf5+ Kxf5 32.Rd3 R7d6 33.R3d2 Re6 34.Rg1 Rxd4 35.Rc2 Rd5 36.Rc4 Bd8
+37.Rf1 Rde5 38.Re4 Rxe4 39.fxe4+ Kxe4 40.Rf7 b5 41.Rd7  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Sokolsky, Alexey"]
+[Black "Trifunovic, Petar"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A16"]
+
+1.c4 Nf6 2.Nc3 c6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.fxg7 cxd2+ 7.Bxd2 Bxg7 8.Qc2 Qb6
+9.Bc3 Bxc3+ 10.Qxc3 Rg8 11.Bd3 Nd7 12.O-O-O Nf8 13.Ne2 Be6 14.Nf4 O-O-O 15.Nxe6 Nxe6
+16.Bxh7 Rxg2 17.Bf5 Rxf2 18.Rxd8+ Qxd8 19.Rd1 Qg8 20.Bxe6+ fxe6 21.Qd4 Rxh2
+22.a4 Qh8 23.Qd7+ Kb8 24.Rd2 Rxd2 25.Qxd2 Qh1+ 26.Kc2 Qe4+ 27.Kb3 Kc8 28.Qf2 Qd3+
+29.Kb4 b6 30.b3 Qd6+ 31.Kc3 Qe5+ 32.Kb4 Qa5+ 33.Ka3 Qc5+ 34.Qxc5 bxc5 35.Kb2 Kc7
+36.Kc3 Kb6  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Trifunovic, Petar"]
+[Black "Bondarevsky, Igor"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D54"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 h6 6.Bh4 O-O 7.Rc1 b6 8.cxd5 Nxd5
+9.Nxd5 exd5 10.Bxe7 Qxe7 11.Qc2 c5 12.dxc5 d4 13.Nf3 dxe3 14.Bb5 Na6 15.O-O Nxc5
+16.Rfe1 exf2+ 17.Qxf2 Qf6 18.Qd4 Qxd4+ 19.Nxd4 Ne6 20.Bc6 Rb8 21.Nb5 a6 22.Nd6 Nd4
+23.Bd5 Be6 24.Bxe6 Nxe6 25.Rc6 Nd4 26.Rc4 Nb5 27.Nxb5 axb5 28.Rb4 Rfd8 29.Rxb5 Rd2
+30.Kf1 Rc8 31.Re2 Rc1+ 32.Kf2 Rd6  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Trifunovic, Petar"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D73"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 d5 5.c4 dxc4 6.Nbd2 c3 7.bxc3 c5 8.O-O cxd4
+9.cxd4 O-O 10.Bb2 Nc6 11.e4 b6 12.d5 Na5 13.Qe2 Bb7 14.Nb3 Nxb3 15.axb3 a5
+16.Rfd1 Nd7 17.Bxg7 Kxg7 18.b4 axb4 19.Qb2+ Kg8 20.Qxb4 Rxa1 21.Rxa1 Nc5
+22.Rb1 e6 23.Qxb6 Qxb6 24.Rxb6 exd5  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Trifunovic, Petar"]
+[Black "Kholmov, Ratmir D"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E18"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Qc2 d5 8.cxd5 Nxd5
+9.Nc3 Nd7 10.Nxd5 Bxd5 11.Rd1 Nf6 12.Ne5 Bxg2 13.Kxg2 Qd5+ 14.f3 c5 15.e4 Qb7
+16.dxc5 Bxc5 17.Bg5 Rfc8 18.Qe2 Be7 19.Rac1 Rxc1 20.Rxc1 h6 21.Be3 Nd7  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Trifunovic, Petar"]
+[Black "Kotov, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D03"]
+
+1.d4 d5 2.Nf3 e6 3.Bg5 Nf6 4.Nbd2 c5 5.e3 Qb6 6.Rb1 Nc6 7.c3 Bd6 8.Bd3 e5
+9.dxe5 Nxe5 10.Nxe5 Bxe5 11.Nf3 Bg4 12.h3 Bxf3 13.Qxf3 Rd8 14.O-O h6 15.Bxf6 Qxf6
+16.Qxf6 Bxf6 17.Rfd1 Ke7 18.Be2  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Tsvetkov, Alexandar K"]
+[Black "Sokolsky, Alexey"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B10"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Ng3 c5 6.d4 Nc6 7.Be3 Nd5 8.Be2 e6
+9.O-O Be7 10.Bc1 O-O 11.dxc5 Bxc5 12.c4 Nf6 13.Qc2 h6 14.Bd2 Qe7 15.a3 a5
+16.Bc3 Rd8 17.h3 b6 18.Rad1 Bb7 19.Rxd8+ Rxd8 20.Rd1 Rxd1+ 21.Qxd1 Qc7 22.Bxf6 Qxg3
+23.Bd4 Bxd4 24.Nxd4 Qg5 25.Nf3 Qe7 26.Qb3 Qc5 27.Qe3 Qxe3 28.fxe3 Kf8 29.Kf2 Ke7
+30.Ke1 f5 31.Kd2 e5 32.Kc3 g5 33.b4 axb4+ 34.axb4 Kd6  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Tsvetkov, Alexandar K"]
+[Black "Smyslov, Vassily"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B08"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.Be2 O-O 6.O-O b6 7.Be3 Bb7 8.Nd2 e5
+9.d5 Ne8 10.Nc4 Nd7 11.Qd2 Kh8 12.f4 exf4 13.Rxf4 Qe7 14.Raf1 Kg8 15.R4f2 Ne5
+16.Bg5 f6 17.Bh6 Bxh6 18.Qxh6 Rd8 19.Nd2 c5 20.Qh4 Bc8 21.h3 Rf7 22.Nd1 Ng7
+23.Ne3 f5 24.Qg3 Rdf8 25.exf5 Nxf5 26.Nxf5 Rxf5 27.Nc4 Nxc4 28.Bxc4 Rxf2
+29.Rxf2 Qe1+ 30.Bf1 Rxf2 31.Qxf2 Qe5 32.Qe2 Qd4+ 33.Kh2 Kf8 34.c4 Bf5 35.g4 Bb1
+36.a3 Be4 37.Kg3 Qe5+ 38.Kf2 Qf4+ 39.Ke1 Kg7 40.Qd2 Qe5 41.Qc3 Qxc3+ 42.bxc3 g5
+43.Kf2 Kf6 44.Ke3 Ke5 45.Be2 Bc2 46.Kd2 Bb1 47.Ke3 h6 48.Bf3 Bc2 49.Be2 a6
+50.Kd2 Ba4 51.Ke3 b5 52.cxb5 axb5 53.Bf3 Bb3 54.Be2 Bc4 55.Bxc4 bxc4 56.a4 Kxd5
+57.a5 Kc6 58.Ke4 d5+ 59.Ke5 d4 60.cxd4 c3 61.d5+ Kd7 62.a6 c2 63.a7 c1=Q
+64.a8=Q Qf4+  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Tsvetkov, Alexandar K"]
+[Black "Novotelnov, Nikolay Alexandrovi"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D98"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4 8.Be3 Nfd7
+9.Rd1 Nc6 10.Be2 Bxf3 11.Bxf3 e5 12.d5 Nd4 13.Nb5 Nb6 14.Qd3 Nxf3+ 15.gxf3 Nc8
+16.O-O a6 17.Nc3 Qf6 18.Qe2 Nd6 19.Bc5 Bh6 20.Be3 Bf4 21.Bxf4 Qxf4 22.Qe3 Qh4
+23.Ne2 Rae8 24.Rc1 Re7 25.Rc2 f5 26.exf5 Rxf5 27.Ng3 Rff7 28.Rfc1 Nb5 29.Rc4 Nd4
+30.Ne2 b5 31.d6 Nxe2+ 32.Qxe2 bxc4 33.Rxc4 Qg5+ 34.Kf1 cxd6 35.Rc8+ Kg7 36.Qxa6 Qf5
+37.Qa8 e4 38.Rg8+ Kh6  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Tsvetkov, Alexandar K"]
+[Black "Keres, Paul"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C91"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.d4 d6
+9.c3 Bg4 10.h3 Bh5 11.Bg5 Bxf3 12.gxf3 Nh5 13.Be3 Na5 14.dxe5 Nxb3 15.axb3 Bg5
+16.f4 Nxf4 17.Bxf4 Bxf4 18.exd6 cxd6 19.Qg4 Qf6 20.Na3 Rae8 21.Kf1 Re5 22.Nc2 Rg5
+23.Qf3 Qh6 24.Ne3 Bxe3 25.Rxe3 f5 26.e5 f4 27.Rd3 dxe5 28.Re1 Qg6 29.Qd5+ Kh8
+30.Qd6 Rg1+ 31.Ke2 Qe4+ 32.Re3 Rxe1+ 33.Kxe1 Qb1+ 34.Ke2 f3+ 35.Rxf3 Qe4+
+36.Re3 Qc2+ 37.Ke1 Qxf2+ 38.Kd1 h6 39.Qxe5 Qxb2 40.Ke1 a5 41.Rf3 Qc1+ 42.Kf2 Qc2+
+43.Ke3 Rc8 44.Kf4 a4 45.bxa4 Qh2+ 46.Rg3 Qf2+ 47.Ke4 Qc2+ 48.Rd3 bxa4 49.Ke3 a3
+50.Qe7 a2 51.Qd7  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Tsvetkov, Alexandar K"]
+[Black "Gligoric, Svetozar"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 a6 7.a4 Qc7 8.O-O Be7
+9.Be3 Nc6 10.f4 O-O 11.Nb3 Na5 12.Nxa5 Qxa5 13.Qe1 Kh8 14.Bf3 Bd7 15.Qf2 Qc7
+16.Rfd1 Bc6 17.Bb6 Qc8 18.a5 Nd7 19.Bd4 e5 20.Be3 exf4 21.Bxf4 Ne5 22.Bxe5 dxe5
+23.Nd5 Bd8 24.Qc5 Kg8 25.Qd6 Bxd5 26.Qxd5 Qxc2 27.Qxb7 Bg5 28.Rd7 Be3+ 29.Kh1 Ra7
+30.Qd5 Rxd7 31.Qxd7 Qxb2 32.Rd1 Bd4 33.Qc6 Qb5 34.Qxb5 axb5 35.Be2 Rb8 36.Rb1 b4
+37.Bc4 Kf8 38.g3 Ke7 39.Kg2 f6 40.Kf3 Kd6 41.Ke2 Kc5 42.Kd3 Bc3 43.g4 Rd8+
+44.Bd5 Kb5 45.Kc2 Kxa5 46.Kb3 Kb5 47.Rf1 Rd6 48.g5 fxg5 49.Rf7 Rg6 50.Rb7+ Kc5
+51.Bg8 h5 52.Bh7 Rf6 53.Rc7+ Kd4 54.Rd7+ Ke3 55.Rxg7 Kf4 56.Kc4 Rc6+ 57.Kb3 g4
+58.Rf7+ Kg5 59.Bf5 Rd6 60.Rg7+ Kh4 61.Rh7 Bd2 62.Kc4 Rb6 63.Kb3 Bh6 64.Bd7 Kh3
+65.Be8 Kxh2 66.Bxh5 g3 67.Ra7  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Tsvetkov, Alexandar K"]
+[Black "Bondarevsky, Igor"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C18"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Qc7 7.Ne2 Ne7 8.g3 b6
+9.Bh3 Ba6 10.O-O Nbc6 11.Re1 Rc8 12.Nf4 O-O 13.Nh5 Kh8 14.Bg5 Rg8 15.Qg4 Nf5
+16.Qf4 cxd4 17.Bxf5 exf5 18.Qh4 Nd8 19.Nf6 gxf6 20.Bxf6+ Rg7 21.Bxg7+ Kxg7
+22.Qf6+ Kg8 23.Qg5+ Kf8 24.Qh6+ Ke8 25.e6 fxe6 26.cxd4 Qf7 27.Qd2 Kd7 28.a4 Nc6
+29.Ra3 Na5 30.Rf3 Nc4 31.Qe2 Rg8 32.Rf4 Bb7 33.Rh4 Rg6 34.Qf3 Bc6 35.Qf4 Kc8
+36.Rh6 Rxh6 37.Qxh6 Kd7 38.Qf4 Kc8 39.Qh6 Bd7 40.Ra1 Kb7 41.h4 f4 42.g4 e5
+43.Re1 e4 44.Qg5 Nd2  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Tsvetkov, Alexandar K"]
+[Black "Boleslavsky, Isaak"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B58"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nf3 h6 8.O-O Be7
+9.Ne1 O-O 10.f4 exf4 11.Bxf4 Qb6+ 12.Kh1 Qxb2 13.Rf3 Qb4 14.Rb1 Qa5 15.Rg3 Kh7
+16.Rb5 Qd8 17.Bd3 Ne5 18.Bxe5 dxe5 19.Nd5 a6 20.Rb1 b5 21.Ne3 Bc5 22.Qf3 Qd4
+23.c3 Qxe3 24.Qxe3 Bxe3 25.Rxe3 Be6 26.Rb2 Rac8 27.Be2 Rc7 28.Rc2 Rfc8 29.a3 Nd7
+30.Nf3 f6 31.Kg1 Nb6 32.Nd2 Na4 33.Nb1 Kg8 34.Kf2 Kf7 35.h4 g5 36.hxg5 hxg5
+37.g4 Rh8 38.Rd2 Ke7 39.Kg2 Rh4 40.Rg3 Rc8 41.Rc2 Bb3 42.Rc1 Nc5 43.Nd2 Rd8
+44.Nxb3 Nxb3 45.Rd1 Rxd1 46.Bxd1 Nc5 47.c4 Nxe4 48.Re3 Nd6 49.cxb5 axb5 50.a4 bxa4
+51.Kg3 Ke6 52.Ra3 Ne4+ 53.Kg2 Nc5 54.Rc3 Kd6 55.Rc4 f5 56.Rb4 f4 57.Rb6+ Kd5
+58.Rb5 e4 59.Ra5 f3+ 60.Kg3 Rh1 61.Bxa4 Rg1+  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Trifunovic, Petar"]
+[Black "Tsvetkov, Alexandar K"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A15"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 Bb7 4.Bg2 g6 5.b3 Bg7 6.Bb2 O-O 7.O-O d6 8.Nc3 Nbd7
+9.Re1 a5 10.Qc2 Rb8 11.d4 Re8 12.e4 e5 13.d5 Rf8 14.a3 Nh5 15.Nd2 f5 16.f3 Bc8
+17.Nb5 Bh6 18.Na7 Ra8 19.Nxc8 Rxc8 20.b4 Ra8 21.Nf1 Ng7 22.Bc3 f4 23.g4 Bg5
+24.Red1 Qe7 25.Qe2 a4 26.Be1 Bh4 27.Nd2 Bxe1 28.Rxe1 g5 29.Nb1 Qf7 30.Nc3 h5
+31.Bh3 Nf6 32.Qg2 Kh7 33.Kh1 h4 34.Qf2 Rfc8 35.Bf1 c5 36.dxc6 Rxc6 37.Red1 Nfe8
+38.Nb5 Ne6 39.Rd2 Qe7 40.Rad1 Rd8 41.Rd5 Kg7 42.Qc2 Ra8 43.Qd3 Rd8 44.Rd2 Kf8
+45.Qc2 Ra8 46.Qd1 N6c7 47.Nxc7 Qxc7 48.c5 bxc5 49.Bb5 Rb6 50.bxc5 Rxb5 51.cxd6 Nxd6
+52.Rxd6 Rab8 53.Qxa4 h3 54.Rd1 Ra5  1/2-1/2
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Trifunovic, Petar"]
+[Black "Ragozin, Viacheslav"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A10"]
+
+1.Nf3 e6 2.c4 f5 3.b3 Nf6 4.Bb2 Be7 5.g3 d6 6.d4 O-O 7.Bg2 Qe8 8.Nbd2 Nc6
+9.Qc2 Bd7 10.a3 a5 11.h3 Qg6 12.g4 Ne4 13.gxf5 exf5 14.Rg1 Bf6 15.Bh1 Qh6
+16.Nxe4 fxe4 17.Qxe4 Rae8 18.Qd3 Qxh3 19.O-O-O Bf5 20.Qd2 Bg6 21.d5 Ne5 22.Nxe5 Bxe5
+23.Bxe5 Rxe5 24.f3 a4 25.b4 c6 26.Rg5 Qh4 27.Rg4 Qf6 28.Rd4 c5 29.bxc5 dxc5
+30.Rg4 Rxe2  0-1
+
+[Event "Chigorin mem"]
+[Site "Moscow"]
+[Date "1947.??.??"]
+[Round "?"]
+[White "Trifunovic, Petar"]
+[Black "Pachman, Ludek"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D57"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Bb4 5.cxd5 exd5 6.Bg5 h6 7.Bxf6 Bxc3+ 8.bxc3 Qxf6
+9.Qb3 Qd6 10.e3 Nc6 11.c4 dxc4 12.Bxc4 O-O 13.Qc3 Bg4 14.O-O Rad8 15.Be2 Ne7
+16.Rfc1 c6 17.Rab1 Bc8 18.Qa5 a6 19.Qe5 Nf5 20.Qxd6 Nxd6 21.Ne5 Rfe8 22.Rb2 Bf5
+23.g3 Kf8 24.Bf3 f6 25.Nc4 Nxc4 26.Rxc4 Re7 27.a4 Rdd7 28.Kg2 Ke8 29.Rc5 Be4
+30.Bxe4 Rxe4 31.Kf3 Rde7 32.Rxb7 Rxb7 33.Kxe4 Rb4 34.Rxc6 Rxa4 35.Rc7 Ra2
+36.Rxg7 Rxf2 37.h4 f5+ 38.Kd3 a5 39.Ra7 Ra2 40.e4 Rg2 41.Rxa5  1-0

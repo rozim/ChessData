@@ -1,0 +1,215 @@
+[Event "Amsterdam VSB"]
+[Site "Amsterdam"]
+[Date "1993.??.??"]
+[Round "1"]
+[White "Kramnik, Vladimir"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2655"]
+[ECO "A34"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.g3 Bg7 6.Bg2 O-O 7.O-O c5 8.Qa4 Nb6
+9.Qh4 e6 10.Qxd8 Rxd8 11.d3 h6 12.Be3 Na6 13.Rac1 Bd7 14.Nd2 Rab8 15.Nb3 Rdc8
+16.Na5 Bc6 17.Nxc6 bxc6 18.b3 Nd5 19.Bd2 Nab4 20.Na4 Nxa2 21.Rc2 Ndb4 22.Rxc5 Rb5
+23.Rc4 Nd5 24.Rb1 a5 25.d4 Rcb8 26.e4 Ne7 27.Ra1 Nb4 28.Nc3 Nc2 29.Ra2 Nxd4
+30.Nxb5 cxb5 31.Rc7 Nec6 32.f4 e5 33.Be3 Rd8 34.Bf1 Rd6 35.Bxd4 Nxd4 36.Rxa5 exf4
+37.Ra8+ Kh7 38.Rxf7 fxg3 39.hxg3 Rf6 40.Rxf6 Bxf6 41.b4 h5 42.Rb8 Be5 43.Rb7+ Kh6
+44.Kg2 Kg5 45.Bxb5 h4 46.gxh4+ Kxh4 47.Be8 Kg5 48.Rb6 Bc7 49.Rxg6+ Kf4 50.b5 Kxe4
+51.b6  1-0
+
+[Event "Amsterdam VSB"]
+[Site "Amsterdam"]
+[Date "1993.??.??"]
+[Round "1"]
+[White "Piket, Jeroen"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[WhiteElo "2590"]
+[BlackElo "2710"]
+[ECO "D18"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O Nbd7
+9.Nh4 Bg6 10.h3 Bh5 11.Qb3 a5 12.f4 O-O 13.Nf3 Nb6 14.Be2 c5 15.Na2 Rc8 16.Nxb4 cxb4
+17.Bd2 Ne4 18.g4 Bg6 19.Rfc1 Qd5 20.Bd1 Nc4 21.Be1 Ned6 22.Be2 Rc7 23.Ne5 Rfc8
+24.Nxc4 Be4 25.Nxa5 Rxc1 26.Rxc1 Rxc1 27.Qxb4 g5 28.fxg5 Qxg5 29.Kf1 Qxe3
+30.Qxd6 Rc2  0-1
+
+[Event "Amsterdam VSB"]
+[Site "Amsterdam"]
+[Date "1993.??.??"]
+[Round "2"]
+[White "Anand, Viswanathan"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2655"]
+[ECO "C89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 Bb7 12.d4 Bf6 13.Re1 c5 14.dxc5 Re8 15.Na3 Qc7
+16.Rxe8+ Rxe8 17.Bxd5 Rd8 18.Bf4 Qxf4 19.Qf3 Qxf3 20.Bxf3 Bxf3 21.gxf3 b4
+22.Nc2 bxc3 23.bxc3 Rc8 24.Rb1 h6 25.c4 Rxc5 26.Ne3 Bd4 27.Rc1 Bxe3 28.fxe3 Kf8
+29.Kf2 Ke7 30.f4 g5 31.Kf3 gxf4 32.Kxf4 Ke6 33.Ke4 Rh5 34.Rc2 Rh4+ 35.Kd3 f5
+36.Rf2 Ke5 37.Rc2 Kd6 38.Rg2 Rh3 39.Rf2 Ke5 40.c5 Ke6 41.Rc2 Kd7 42.Kd4 Kc6
+43.Re2 h5 44.Rc2 Rh4+ 45.Ke5 Re4+ 46.Kxf5 Rxe3 47.Kg5 Re5+ 48.Kh4 a5 49.h3 Rd5  1/2-1/2
+
+[Event "Amsterdam VSB"]
+[Site "Amsterdam"]
+[Date "1993.??.??"]
+[Round "2"]
+[White "Piket, Jeroen"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2685"]
+[ECO "D47"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7
+9.e4 b4 10.Na4 c5 11.e5 Nd5 12.O-O cxd4 13.Re1 g6 14.Bg5 Qa5 15.Nxd4 a6 16.Rc1 Bg7
+17.Nc6 Bxc6 18.Rxc6 O-O 19.Bc4 h6 20.Bxd5 Qxd5 21.Qxd5 exd5 22.Bf6 Nxe5 23.Bxe5 Rae8
+24.f4 f6 25.Nb6 fxe5 26.Nxd5 exf4 27.Rxe8 Rxe8 28.Rxg6 Kh7 29.Rxa6 Re2 30.Kf1 Rxb2
+31.Nxf4  1/2-1/2
+
+[Event "Amsterdam VSB"]
+[Site "Amsterdam"]
+[Date "1993.??.??"]
+[Round "3"]
+[White "Kramnik, Vladimir"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2685"]
+[BlackElo "2710"]
+[ECO "A17"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 O-O 5.Bg2 b6 6.Qb3 a5 7.Ne5 c6 8.a3 Bxc3
+9.Qxc3 Bb7 10.d4 d6 11.Nd3 Qc8 12.c5 bxc5 13.dxc5 d5 14.Bf4 Nbd7 15.Bd6 Re8
+16.O-O Ba6 17.Rfe1 Qb7 18.Ne5 a4 19.Rad1 Nxe5 20.Bxe5 Ng4 21.Bxg7 e5 22.Bf3 f5
+23.Bxg4 d4 24.Qc1 fxg4 25.Bf6 Qf7 26.Qg5+ Qg6 27.Qxg6+ hxg6 28.f4 exf4 29.gxf4 Kf7
+30.Be5 Rad8 31.Kf2 g5 32.Kg3 gxf4+ 33.Kxf4 Kg6 34.Bd6 Re3 35.Rxd4 Rde8 36.Rc1 Kh5
+37.Rc3 Rxe2 38.h3 Bc8 39.hxg4+ Bxg4 40.Kg3  1/2-1/2
+
+[Event "Amsterdam VSB"]
+[Site "Amsterdam"]
+[Date "1993.??.??"]
+[Round "3"]
+[White "Short, Nigel D"]
+[Black "Piket, Jeroen"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2590"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Be6 10.d4 Bxb3 11.axb3 exd4 12.cxd4 Nb4 13.Nc3 c5 14.Bf4 Re8 15.Re2 Qb6
+16.e5 dxe5 17.dxe5 Red8 18.Rd2 Ne8 19.Qe2 Nc7 20.Qe4 Ne6 21.Be3 Rxd2 22.Nxd2 Rd8
+23.Nf3 Nd4 24.Rd1 Nxf3+ 25.Qxf3 Rxd1+ 26.Qxd1 Qe6 27.f4 f6 28.Ne4 fxe5 29.Qh5 g6
+30.Qxe5 Qxe5 31.fxe5 Nd3 32.e6 Nxb2 33.Bxc5 Bxc5+ 34.Nxc5 a5 35.Nb7 a4 36.Nd6 Kf8
+37.Nxb5 axb3 38.Nd4 Ke7 39.Nxb3  1/2-1/2
+
+[Event "Amsterdam VSB"]
+[Site "Amsterdam"]
+[Date "1993.??.??"]
+[Round "4"]
+[White "Short, Nigel D"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[WhiteElo "2655"]
+[BlackElo "2685"]
+[ECO "B66"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O h6
+9.Be3 Bd7 10.f4 b5 11.Bd3 Be7 12.Kb1 O-O 13.Rhf1 Ng4 14.Nxc6 Bxc6 15.Bg1 Nf6
+16.e5 dxe5 17.fxe5 Nd7 18.Bd4 Bc5 19.Be4 Qc7 20.Bxc6 Qxc6 21.Rf4 Qc7 22.Bxc5 Nxc5
+23.Qd6 Rac8 24.Qxc7 Rxc7 25.Rfd4 Rb8 26.b4 Nb7 27.Ne4 Kf8 28.Kb2 Ke7 29.a3 Rd8
+30.Rxd8 Nxd8 31.Nc5 a5 32.c4 axb4 33.axb4 bxc4 34.Kc3 Nc6 35.Re1 Na7 36.Kxc4 Kd8
+37.Rd1+ Ke7 38.b5 Nc8 39.Kb4 Nb6 40.Rd6 Nd5+ 41.Rxd5  1-0
+
+[Event "Amsterdam VSB"]
+[Site "Amsterdam"]
+[Date "1993.??.??"]
+[Round "4"]
+[White "Anand, Viswanathan"]
+[Black "Piket, Jeroen"]
+[Result "1-0"]
+[WhiteElo "2710"]
+[BlackElo "2590"]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 cxd4 13.cxd4 Bd7 14.Nf1 Rac8 15.Ne3 Nc6
+16.d5 Nb4 17.Bb1 a5 18.a3 Na6 19.b4 Ra8 20.Bd2 Rfc8 21.Bd3 axb4 22.axb4 Qb7
+23.Nh2 Nc7 24.Nhf1 Rxa1 25.Qxa1 Nh5 26.Nc2 f5 27.exf5 Nxd5 28.Nfe3 Kh8 29.Bf1 Nhf6
+30.Rd1 Nb6 31.Na3 Ra8 32.Qb2 Bc6 33.Rc1 d5 34.Bxb5 Bxb5 35.Nxb5 d4 36.Rc7 Qa6
+37.Rxe7 Qxb5 38.Ng4 Nc4 39.Bh6 Nxg4 40.Bxg7+ Kg8 41.Qc1 Qxb4 42.Bf6 Kf8 43.hxg4 Qd2
+44.Qxd2 Nxd2 45.Rd7 Ra5 46.f3 Nc4 47.g5 Ra1+ 48.Kh2 Ra6 49.Rc7 Ne3 50.Bg7+ Kg8
+51.Bxe5 d3 52.Bc3 d2 53.Bxd2 Nf1+ 54.Kh3 Nxd2 55.f6 Ra1 56.Kg4 Rg1 57.Kg3 Rh1
+58.Kf4 Rh4+ 59.Kf5 Ra4 60.Rg7+ Kf8 61.Rxh7  1-0
+
+[Event "Amsterdam VSB"]
+[Site "Amsterdam"]
+[Date "1993.??.??"]
+[Round "5"]
+[White "Piket, Jeroen"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2655"]
+[ECO "D55"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Be7 5.Bg5 O-O 6.e3 h6 7.Bxf6 Bxf6 8.Qb3 c6
+9.Rd1 b6 10.e4 Re8 11.Be2 dxc4 12.Bxc4 Nd7 13.O-O Bb7 14.Rfe1 Qc7 15.Rc1 Nf8
+16.Bd3 Rac8 17.e5 Be7 18.Be4 Qb8 19.a3 Red8 20.Red1 Qa8 21.h4 Rd7 22.Qa4 a6
+23.b4 c5 24.Bxb7 Qxb7 25.dxc5 bxc5 26.b5 axb5 27.Qxb5 Qa7 28.Rxd7 Nxd7 29.Rd1 Rc7
+30.a4 c4  1/2-1/2
+
+[Event "Amsterdam VSB"]
+[Site "Amsterdam"]
+[Date "1993.??.??"]
+[Round "5"]
+[White "Anand, Viswanathan"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2710"]
+[BlackElo "2685"]
+[ECO "B66"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O h6
+9.Be3 Bd7 10.f3 b5 11.Kb1 Ne5 12.Bd3 Qc7 13.g4 b4 14.Nce2 d5 15.Bf4 dxe4
+16.Bxe4 Nxe4 17.fxe4 Rc8 18.b3 f6 19.h4 Qb7 20.Bxe5 fxe5 21.Nf3 Bc6 22.Ng3 Bc5
+23.g5 O-O 24.Nxe5 Bf2 25.Nxc6 Qxc6 26.Nf5 exf5 27.Qxf2 fxe4  1/2-1/2
+
+[Event "Amsterdam VSB"]
+[Site "Amsterdam"]
+[Date "1993.??.??"]
+[Round "6"]
+[White "Kramnik, Vladimir"]
+[Black "Piket, Jeroen"]
+[Result "1-0"]
+[WhiteElo "2685"]
+[BlackElo "2590"]
+[ECO "A26"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.O-O Nc6 7.d3 h6 8.Rb1 e5
+9.b4 a6 10.Nd2 Be6 11.Nd5 Kh7 12.a4 Qd7 13.b5 axb5 14.axb5 Nd8 15.b6 c6 16.Nc7 Rb8
+17.Nxe6 Nxe6 18.e3 Rfe8 19.f4 exf4 20.gxf4 Nc5 21.Nf3 Ra8 22.e4 Ra2 23.Kh1 Qg4
+24.Rb2 Rxb2 25.Bxb2 Qxf4 26.Ng1 Qg4 27.Qa1 Re5 28.Bxe5 dxe5 29.Qa3 Bf8 30.Rxf6 Kg7
+31.Rf1 Ne6 32.Qb2 Qh5 33.Bf3 Qg5 34.Nh3  1-0
+
+[Event "Amsterdam VSB"]
+[Site "Amsterdam"]
+[Date "1993.??.??"]
+[Round "6"]
+[White "Short, Nigel D"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[WhiteElo "2655"]
+[BlackElo "2710"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Nb4
+9.Be2 Be6 10.Nc3 O-O 11.Be3 Bf5 12.Ne5 Bf6 13.g4 Be6 14.f4 Nxc3 15.bxc3 Nc6
+16.Bf3 Bxe5 17.dxe5 d4 18.cxd4 Bxc4 19.d5 Ne7 20.Bc5 Bxf1 21.Kxf1 Qd7 22.Qb3 b6
+23.Ba3 Rae8 24.Rd1 Ng6 25.e6 Qd8 26.f5 Ne5 27.Be2 Qh4 28.Qg3 Qxg3 29.hxg3 fxe6
+30.Bxf8 Kxf8 31.dxe6 Ke7 32.g5 c6 33.g4 g6 34.Rd4 gxf5 35.gxf5 Rf8 36.Rf4 b5
+37.Ke1 h6 38.gxh6 Rh8 39.Re4 Kf6 40.e7 Kxf5 41.Rxe5+  1-0

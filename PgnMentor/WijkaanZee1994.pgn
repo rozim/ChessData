@@ -1,0 +1,827 @@
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "1"]
+[White "Nikolic, Predrag"]
+[Black "Piket, Jeroen"]
+[Result "1-0"]
+[WhiteElo "2625"]
+[BlackElo "2605"]
+[ECO "D47"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bb3 b4
+9.Na4 Ba6 10.Bd2 Rc8 11.Rc1 Qa5 12.Bc4 Be7 13.O-O O-O 14.Bxa6 Qxa6 15.Qb3 Qb5
+16.Rc4 Nd5 17.Rfc1 N7b6 18.Nxb6 Nxb6 19.R4c2 c5 20.dxc5 Rxc5 21.Nd4 Rxc2
+22.Nxb5 Rxd2 23.a3 bxa3 24.bxa3 Rfd8 25.g3 Bf6 26.Rb1 R8d3 27.Qb4 h5 28.Qe4 g6
+29.Nxa7 Rxa3 30.Qb4 Rda2 31.Nb5 Ra4 32.Qc5 Nd7 33.Qc7 Ra1 34.Rxa1 Rxa1+ 35.Kg2 Rd1
+36.Nd6 Be7 37.Ne4 Nf6 38.Qxe7 Nxe4 39.Qe8+ Kg7 40.Qa4 Nxf2 41.Kxf2 Rd2+ 42.Kg1 Rd5
+43.Qc2 Kg8 44.Kf2 Rf5+ 45.Ke2 Rd5 46.Qb2 Ra5 47.e4 Rg5 48.Qb6 Kg7 49.Kf3 h4
+50.Qd4+ e5 51.Qd8 Rh5 52.g4  1-0
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "1"]
+[White "Morovic Fernandez, Ivan"]
+[Black "Hansen, Curt"]
+[Result "0-1"]
+[WhiteElo "2605"]
+[BlackElo "2580"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bf5 6.Ne5 c6 7.Bc4 e6 8.O-O Nbd7
+9.f4 Rd8 10.Qe2 Be7 11.Bb3 h5 12.Kh1 a6 13.Bd2 Qc7 14.Rae1 Nb6 15.Be3 Nbd5
+16.Bg1 Nxc3 17.bxc3 O-O 18.c4 c5 19.c3 g6 20.Qf3 Kg7 21.dxc5 Bxc5 22.Bxc5 Qxc5
+23.Qxb7 Ng4 24.Nxg4 hxg4 25.Qb4 Qc6 26.Ba4 Qc7 27.c5 Rd5 28.Re5 Rb8 29.Qa3 Rxe5
+30.fxe5 Qxe5 31.Qc1 Rb1  0-1
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "1"]
+[White "Tiviakov, Sergei"]
+[Black "Leko, Peter"]
+[Result "1-0"]
+[WhiteElo "2630"]
+[BlackElo "2545"]
+[ECO "B62"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Bb5 Bd7 8.Bxc6 bxc6
+9.Qf3 h6 10.Bh4 e5 11.Nf5 Bxf5 12.Qxf5 Qd7 13.Qf3 Qg4 14.Qxg4 Nxg4 15.h3 Nf6
+16.Bxf6 gxf6 17.O-O Rb8 18.b3 Rg8 19.Rad1 Rb4 20.Rd3 Be7 21.Re1 Kd7 22.Nd1 Ke6
+23.c3 Rb7 24.Ne3 Bf8 25.Red1 Rd7 26.Kf1 Rg5 27.g3 Rd8 28.Ke2 Rg8 29.c4 Be7
+30.Nf5 Bf8 31.h4 Rd7 32.b4 a6 33.Ra3 Ra7 34.Rad3 Rd7 35.Kf3 h5 36.Ra3 Ra7
+37.Ra5 Be7 38.b5 cxb5 39.cxb5 Rb8 40.Ng7+ Kd7 41.Rxa6 Rxa6 42.bxa6 Rb2 43.a4 Rb3+
+44.Kg2 Rb6 45.Rb1  1-0
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "1"]
+[White "Van Wely, Loek"]
+[Black "Sokolov, Ivan"]
+[Result "0-1"]
+[WhiteElo "2570"]
+[BlackElo "2650"]
+[ECO "E10"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5 5.Bg5 Qa5+ 6.Nc3 Ne4 7.Bd2 Nxd2 8.Qxd2 b4
+9.Ne4 Be7 10.e3 O-O 11.d6 Bd8 12.Bd3 Bb7 13.O-O f5 14.Ng3 Qb6 15.Bc2 Bf6
+16.e4 Bxb2 17.Rab1 Bc3 18.Qd3 g6 19.exf5 exf5 20.Nh4 Kh8 21.Rfe1 Nc6 22.Ngxf5 gxf5
+23.Nxf5 Rg8 24.Ne3 Rg7 25.Nd5 Qa6 26.Nc7 Rxg2+ 27.Kh1 Rg7 28.Nxa6 Ne5+ 29.Qe4 Bxe4+
+30.Rxe4 Rf8 31.Rf1 Ng4 32.Nxc5 Nxf2+ 33.Rxf2 Rxf2 34.Re8+ Rg8 35.Rxg8+ Kxg8
+36.Bb3 Rf7 37.Kg2 Kf8 38.Ne4 Ke8 39.c5 Rf5 40.Ba4 Kd8 41.c6 Ra5 42.c7+ Kc8
+43.Bb3 Ra6 44.Bd5 Rb6 45.Bg8 h6  0-1
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "1"]
+[White "Van der Wiel, John TH"]
+[Black "Smirin, Ilia"]
+[Result "1-0"]
+[WhiteElo "2570"]
+[BlackElo "2615"]
+[ECO "B09"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Be2 c5 7.dxc5 Qa5 8.O-O Qxc5+
+9.Kh1 Nbd7 10.Bd3 b6 11.Qe1 Bb7 12.Be3 Qh5 13.Nd2 Ng4 14.Bg1 Bd4 15.Rf3 Bxg1
+16.Qxg1 Qc5 17.Qe1 Ngf6 18.Nb3 Qc7 19.Qh4 Qd8 20.Raf1 e6 21.Rh3 Nh5 22.Nb5 Ndf6
+23.Nd2 e5 24.fxe5 dxe5 25.Nc4 Nf4 26.Nxe5 Nxh3 27.Rxf6 Kg7 28.Ng4 Bxe4 29.Qh6+ Kh8
+30.Nd6 Bd5 31.Qxh3 Be6 32.Qg3 Bxg4 33.Nxf7+ Rxf7 34.Rxf7 Qd5 35.Qf4 Bf5 36.Re7 Rd8
+37.Qh4 g5 38.Qxg5 Qd4 39.Qxf5  1-0
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "2"]
+[White "Sokolov, Ivan"]
+[Black "Van der Wiel, John TH"]
+[Result "1-0"]
+[WhiteElo "2650"]
+[BlackElo "2570"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.Qc2 Be7 7.cxd5 Nxd5 8.Bd2 O-O
+9.e4 Nxc3 10.Bxc3 c5 11.dxc5 bxc5 12.Rd1 Qc7 13.Bd3 Nd7 14.O-O Rfd8 15.Rfe1 h6
+16.Bb5 Nf6 17.Rxd8+ Rxd8 18.Qa4 Ra8 19.Ba5 Qc8 20.Ne5 Bd6 21.Nxf7 Kxf7 22.e5 Bxe5
+23.Rxe5 Bd5 24.Bf1 Qb7 25.Bc3 Kg8 26.f3 Qb6 27.Qh4 Rf8 28.Re1 Rf7 29.Kh1 Nh7
+30.Qg3 Qb7 31.h4 Nf6 32.Qg6 c4 33.Bd4 Qc7 34.Be3 Qe5 35.Re2 Nh5 36.Bf2 Qf5
+37.Qxf5 Rxf5 38.Rc2 Rf4 39.Kg1 Kf7 40.Be2 a5 41.g4 Nf6 42.Be3 Rxf3 43.Bxf3 Bxf3
+44.Rxc4 Bd1 45.Rc7+ Kg8 46.b4 axb4 47.axb4 Nd5 48.Rc8+ Kf7 49.b5  1-0
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "2"]
+[White "Hansen, Curt"]
+[Black "Smirin, Ilia"]
+[Result "1/2-1/2"]
+[WhiteElo "2580"]
+[BlackElo "2615"]
+[ECO "E72"]
+
+1.c4 g6 2.Nc3 Bg7 3.g3 Nf6 4.Bg2 O-O 5.d4 c6 6.e4 d6 7.Nge2 e5 8.O-O Nbd7
+9.h3 a6 10.dxe5 dxe5 11.Be3 Qe7 12.Qc2 b5 13.a3 Re8 14.Rfd1 Bf8 15.cxb5 axb5
+16.Nc1 Ba6 17.b4 c5 18.Nd3 c4 19.Nc5 Nxc5 20.Bxc5 Qc7 21.Bxf8 Rxf8 22.Qd2 Rfd8
+23.Qe3 Kg7 24.Bf1 Qc6 25.Rxd8 Rxd8 26.a4 bxa4 27.Rxa4 Rd4 28.b5 Bxb5 29.Ra5 Ba6
+30.Rxe5 Rd7 31.Rc5 Qe6  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "2"]
+[White "Leko, Peter"]
+[Black "Van Wely, Loek"]
+[Result "1/2-1/2"]
+[WhiteElo "2545"]
+[BlackElo "2570"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.f3 Nc6 8.g4 Be7
+9.Qd2 O-O 10.O-O-O Nxd4 11.Bxd4 b5 12.h4 Rb8 13.g5 Nd7 14.Kb1 b4 15.Ne2 Ne5
+16.Bg2 Nc4 17.Qd3 Qc7 18.b3 Na3+ 19.Kb2 Bd7 20.c4 d5 21.cxd5 Bb5 22.Qd2 Bxe2
+23.Qxe2 Bc5 24.Bxc5 Qxc5 25.Qd2 exd5 26.exd5 Rfe8 27.Rhe1 Rbc8 28.Rxe8+ Rxe8
+29.Bf1 g6 30.d6 Rd8 31.Bc4 Nxc4+ 32.bxc4 Qxc4 33.d7 a5 34.Qe3 Qc7 35.Qe7 a4
+36.Qxb4 Rxd7 37.Rxd7 Qxd7 38.Qb8+ Kg7 39.Qe5+ Kg8 40.Qb8+ Kg7 41.Qe5+ Kg8
+42.f4 Qh3 43.Qe8+ Kg7 44.Qxa4 Qh2+ 45.Kc1 Qxh4 46.Qd4+ Kg8 47.a4 h5 48.gxh6 Qxh6
+49.a5 Qh1+ 50.Kb2 Qf1 51.Ka3 Qb5 52.Qb6 Qd3+ 53.Qb3 Qd6+ 54.Qb4 Qd3+ 55.Qb3 Qd6+
+56.Qb4 Qd3+  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "2"]
+[White "Piket, Jeroen"]
+[Black "Tiviakov, Sergei"]
+[Result "1-0"]
+[WhiteElo "2605"]
+[BlackElo "2630"]
+[ECO "E13"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 b6 5.Bg5 Bb7 6.e3 Bxc3+ 7.bxc3 d6 8.Nd2 Nbd7
+9.f3 h6 10.Bh4 Qe7 11.Bd3 e5 12.e4 g5 13.Bf2 Nh5 14.Nf1 exd4 15.cxd4 f5 16.Ne3 fxe4
+17.Nf5 Qf7 18.fxe4 Nf4 19.O-O Nxg2 20.Bg3 Nf4 21.Bxf4 gxf4 22.Rxf4 Qg6+ 23.Rg4 Qf6
+24.Ng7+ Kd8 25.Kh1 Kc8 26.Bc2 Ba6 27.Ba4 Bb7 28.Qd3 Nc5 29.Rf1 Nxe4 30.Rxf6 Nf2+
+31.Kg1 Nxd3 32.Ne6 Nb2 33.Rxh6 Nxa4 34.Rxh8+ Kd7 35.Rxa8 Bxa8 36.d5  1-0
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "2"]
+[White "Morovic Fernandez, Ivan"]
+[Black "Nikolic, Predrag"]
+[Result "0-1"]
+[WhiteElo "2605"]
+[BlackElo "2625"]
+[ECO "C18"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3 Bd7 8.h4 Ba4
+9.h5 h6 10.Bd3 Nd7 11.Rh3 Qc7 12.Kf1 O-O-O 13.Bf4 Kb8 14.Qd2 Rc8 15.Rg3 c4
+16.Be2 Nf5 17.Rh3 Qd8 18.g4 Ne7 19.Nh4 Ka8 20.Be3 Qg8 21.f4 g6 22.hxg6 fxg6
+23.Nf3 Qg7 24.Kf2 Rhe8 25.Rah1 Ng8 26.Rg3 Rf8 27.Kg2 Rc6 28.Nh4 Qh7 29.Nf3 Nb8
+30.Bd1 Rb6 31.Qc1 Qe7 32.Nh4 Be8 33.Kg1 Ra6 34.Ng2 Qxa3 35.Qd2 Rb6 36.f5 g5
+37.Rf3 Rb1 38.Kh2 exf5 39.gxf5 Nc6 40.Rf2 Qe7 41.Rhf1 Qh7 42.f6 Bd7 43.Qe2 g4
+44.Bd2 Qf7 45.Ne3 a5 46.Re1 h5 47.Nf5 Qg6 48.Nh4 Qh7 49.e6 Nxf6 50.Kg1 Be8
+51.Qf1 Qg7 52.Nf5 Qc7 53.Bf4 Qb6 54.Bd6 Rh8 55.Bc5 Qc7 56.Nd6 Ne4 57.Rf7 Bxf7
+58.exf7 Rf8 59.Nxe4 Rxf7  0-1
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "3"]
+[White "Van der Wiel, John TH"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2545"]
+[ECO "B63"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O Nxd4
+9.Qxd4 O-O 10.e5 dxe5 11.Qxe5 Bd7 12.Bb5 Qe8 13.Bxd7 Nxd7 14.Qg3 Bxg5+ 15.Qxg5 Nf6
+16.Rd3 h6 17.Qe5 Qb8 18.Re1 Qxe5 19.Rxe5 Rfd8 20.Kd2 Kf8 21.Rb5 Rxd3+ 22.Kxd3 Rd8+
+23.Ke2 Rd7 24.a4 Ke7 25.Rc5 Ne8 26.g4  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "3"]
+[White "Van Wely, Loek"]
+[Black "Piket, Jeroen"]
+[Result "0-1"]
+[WhiteElo "2570"]
+[BlackElo "2605"]
+[ECO "D44"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5 hxg5
+10.Bxg5 Nbd7 11.g3 Bb7 12.Bg2 Qb6 13.exf6 O-O-O 14.O-O c5 15.d5 b4 16.Na4 Qb5
+17.a3 exd5 18.axb4 cxb4 19.Re1 d4 20.Qxd4 Bxg2 21.Kxg2 Qxg5 22.Qxc4+ Kb8
+23.Red1 Rc8 24.Qa6 Qf5 25.Nb6 Rxh2+ 26.Kxh2 Qxf2+ 27.Kh3 Qf5+ 28.g4 Qf3+
+29.Kh4 Qf2+ 30.Kh3 Qe3+ 31.Kh4 Qh6+ 32.Kg3 Bd6+  0-1
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "3"]
+[White "Smirin, Ilia"]
+[Black "Sokolov, Ivan"]
+[Result "1-0"]
+[WhiteElo "2615"]
+[BlackElo "2650"]
+[ECO "C60"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 g6 4.d4 exd4 5.Bg5 Be7 6.Bxe7 Ngxe7 7.Nxd4 d5 8.Nc3 O-O
+9.Bxc6 bxc6 10.Nb3 dxe4 11.Nxe4 Bf5 12.Nbc5 Qxd1+ 13.Rxd1 Nd5 14.O-O Kg7
+15.c4 Bxe4 16.Nxe4 Rae8 17.Nc5 Nb6 18.b3 Re5 19.Nd3 Re2 20.a4 Nd7 21.Rfe1 Rxe1+
+22.Rxe1 c5 23.f3 Rb8 24.Re7 Rd8 25.Kf2 Kf6 26.Re3 Rb8 27.Nf4 c6 28.g4 Nf8
+29.h4 h6 30.Rd3 Ne6 31.Nxe6 Kxe6 32.Re3+ Kd7 33.h5 gxh5 34.gxh5 Re8 35.Rd3+ Kc7
+36.f4 Re4 37.Kf3 Re1 38.Kg4 Rg1+ 39.Kf5 Rh1 40.Kf6 Rxh5 41.f5 Rh1 42.Kxf7 h5
+43.Re3 Kd7 44.Rd3+ Kc7 45.f6 h4 46.Ke6 Re1+ 47.Kf5 Rf1+ 48.Kg5 Rh1 49.Rf3 h3
+50.Kh4 h2 51.Kh3 Rg1 52.Kxh2 Rg8 53.f7 Rf8 54.Rf6 Kd7 55.Kg2 a5 56.Kf3 Ke7
+57.Rxc6 Rb8 58.Rc7+ Kf8 59.Ke4 Rxb3 60.Kd5 Ra3 61.Ra7 Ra1 62.Rxa5 Kxf7 63.Kxc5 Rc1
+64.Ra8 Ke7 65.a5 Kd7 66.a6 Kc7 67.Rg8 Ra1 68.a7 Ra5+ 69.Kd4  1-0
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "3"]
+[White "Tiviakov, Sergei"]
+[Black "Morovic Fernandez, Ivan"]
+[Result "1/2-1/2"]
+[WhiteElo "2630"]
+[BlackElo "2605"]
+[ECO "C86"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 Be7 6.c3 b5 7.Bb3 O-O 8.O-O d5
+9.d3 d4 10.cxd4 Nxd4 11.Nxd4 Qxd4 12.Be3 Qd6 13.Rc1 Rd8 14.Nd2 Qxd3 15.Qxd3 Rxd3
+16.Rxc7 Bd7 17.Nf3 Bd6 18.Rcc1 Nxe4 19.Bc2 Rxe3 20.fxe3 Nf6 21.Nd2 Kf8 22.Ne4 Nxe4
+23.Bxe4 Rb8 24.Rc2 Ke7 25.Rd1 Rb6 26.Kf2 f5 27.Bd5 e4 28.g3 h5 29.Bb3 h4
+30.gxh4 Bxh2 31.Rcd2 Bd6 32.Bf7 a5 33.h5 a4 34.Bg6 Be6 35.Kg2 Bc5 36.Re2 Bc4
+37.Rf2 Be6 38.Bxf5 Bxe3 39.Rff1 Bh6 40.Bxe4 Bxa2 41.Bf5 Bc4 42.Rfe1+ Kf6
+43.Bg6 Re6 44.Kf3 Bb3 45.Rxe6+ Kxe6 46.Re1+ Kd6 47.Ke4 b4 48.Kd3 a3 49.bxa3 bxa3
+50.Kc3 Bd5 51.Rd1  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "3"]
+[White "Nikolic, Predrag"]
+[Black "Hansen, Curt"]
+[Result "1/2-1/2"]
+[WhiteElo "2625"]
+[BlackElo "2580"]
+[ECO "A21"]
+
+1.d4 d6 2.c4 e5 3.Nf3 e4 4.Ng5 f5 5.Nc3 c6 6.g3 Be7 7.Nh3 Nf6 8.Bg2 O-O 9.O-O Kh8
+10.d5 Nbd7 11.b3 Ne5 12.Bb2 Bd7 13.Qd2 cxd5 14.Nxd5 Nxd5 15.Qxd5 Bc6 16.Qd2 Ng6
+17.Rad1 Qe8 18.f3 exf3 19.Bxf3 Rd8 20.Bd5 Bxd5 21.Qxd5 Bf6 22.Bxf6 Rxf6 23.Qxb7 Qxe2
+24.Qg2 Qh5 25.Rde1 h6 26.Nf4 Nxf4 27.Rxf4 Re8 28.Rxe8+ Qxe8 29.Qd5 g5 30.Rf2 f4
+31.Qd4 Qe5 32.Qxe5 dxe5 33.c5 e4 34.Rc2 e3 35.c6 e2 36.Rxe2 Rxc6 37.gxf4 gxf4
+38.Kf2 Rc3 39.Re8+ Kg7 40.Re7+ Kf6 41.Rxa7 Kf5 42.Re7 h5 43.Re2 Rc1 44.Rb2 Kg4
+45.b4 h4 46.h3+ Kxh3 47.Kf3 Rf1+ 48.Rf2 Rb1 49.a3 Rb3+ 50.Kxf4 Rxb4+ 51.axb4  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "4"]
+[White "Leko, Peter"]
+[Black "Smirin, Ilia"]
+[Result "1/2-1/2"]
+[WhiteElo "2545"]
+[BlackElo "2615"]
+[ECO "B07"]
+
+1.e4 d6 2.d4 g6 3.c3 Bg7 4.Nf3 Nf6 5.Bd3 O-O 6.O-O Nc6 7.d5 Nb8 8.c4 e5 9.dxe6 fxe6
+10.e5 Nh5 11.exd6 cxd6 12.g3 Nc6 13.Nc3 b6 14.Be4 Qd7 15.Ng5 Nf6 16.Bg2 Bb7
+17.Re1 Rae8 18.Bf4 h6 19.Nge4 Nxe4 20.Nxe4 d5 21.Nd6 Rxf4 22.Nxe8 Rd4 23.Qe2 Qxe8
+24.cxd5 Ne5 25.Rad1 Rxd5 26.Rxd5 Bxd5 27.f4 Bc4 28.Qc2 Nd3 29.Qxc4 Nxe1 30.Be4 Bxb2
+31.Qb4 Bf6 32.Qxe1 Kg7 33.Qc1 Qd7 34.Kg2 e5 35.fxe5 Bxe5 36.Qc2 Qd6 37.Qd3 Qxd3
+38.Bxd3 Bd4 39.Kf3 Kf6 40.Ke4 Bg1 41.h3 Bf2 42.g4  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "4"]
+[White "Hansen, Curt"]
+[Black "Sokolov, Ivan"]
+[Result "0-1"]
+[WhiteElo "2580"]
+[BlackElo "2650"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bc5 5.d3 d6 6.Bg2 h6 7.O-O O-O 8.a3 a5 9.b3 Bf5
+10.Bb2 Qd7 11.e3 Bg4 12.Qc2 Bb6 13.Nd2 Bh3 14.Rac1 Bxg2 15.Kxg2 Nh7 16.Nd5 Ba7
+17.f4 Nd8 18.fxe5 c6 19.Nf4 dxe5 20.Bxe5 Bxe3 21.Rce1 Bxf4 22.gxf4 Ne6 23.Ne4 f6
+24.Bc3 Nd4 25.Qd1 Nf5 26.Kh1 b6 27.Qh5 c5 28.Rg1 Kh8 29.Rg6 Rae8 30.a4 Rf7
+31.Rg2 Rff8 32.Qh3 Rd8 33.Reg1 Rfe8 34.Rd2 Qe6 35.Rdg2 Re7 36.Re2 Qd7 37.Rd2 Nd4
+38.Qxd7 Rexd7 39.Bxd4 Rxd4 40.Rgd1 f5 41.Nc3 Nf6 42.Kg2 Nh5 43.Nd5 Nxf4+
+44.Nxf4 Rxf4 45.Re2 Rfd4 46.Re6 R4d6 47.Rde1 Kh7 48.R1e5 f4 49.h4 Rxd3 50.Rxb6 Rg3+
+51.Kf2 Rd2+ 52.Re2 Rdd3 53.Rb5 Rh3 54.Rxc5 f3  0-1
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "4"]
+[White "Morovic Fernandez, Ivan"]
+[Black "Van Wely, Loek"]
+[Result "1/2-1/2"]
+[WhiteElo "2605"]
+[BlackElo "2570"]
+[ECO "B25"]
+
+1.e4 c5 2.Nc3 d6 3.g3 Nc6 4.Bg2 g6 5.d3 Bg7 6.f4 Nf6 7.Nf3 O-O 8.O-O Rb8
+9.h3 b5 10.g4 b4 11.Ne2 a5 12.f5 c4 13.Be3 cxd3 14.cxd3 Ba6 15.Ned4 Nxd4
+16.Nxd4 Rc8 17.Nf3 Nd7 18.Rf2 d5 19.a3 Nc5 20.Bxc5 dxe4 21.axb4 exf3 22.Qxf3 axb4
+23.d4 Bc4 24.Rd1 b3 25.g5 gxf5 26.Qxf5 e6 27.Qg4 f5 28.gxf6 Rxf6 29.Rxf6 Qxf6
+30.Rc1 Bd3 31.Qg3 Qg6 32.Qxg6 hxg6 33.Re1 Bf5 34.Kh2 e5 35.Bb7 Rc7 36.Bd5+ Kh7
+37.Bxb3 exd4 38.Ba3 d3 39.Kg3 d2 40.Rd1 Bh6 41.Kf2 Bxh3 42.Rh1 Bg4 43.Bb4 Bh5
+44.Bc3 Rd7 45.Bd1 Rf7+ 46.Kg2 Bxd1 47.Rxd1 Kg8 48.Kg3 Rf5 49.Kg4 Be3 50.Kg3 Rf2
+51.Kg4 Kf7 52.Kg3 Ke6 53.Bxd2 Rxd2 54.Re1 Kf5 55.Rxe3 Rxb2  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "4"]
+[White "Nikolic, Predrag"]
+[Black "Tiviakov, Sergei"]
+[Result "0-1"]
+[WhiteElo "2625"]
+[BlackElo "2630"]
+[ECO "E18"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 e6 4.Bg2 Bb7 5.O-O Be7 6.d4 O-O 7.Nc3 Ne4 8.Nxe4 Bxe4
+9.Bf4 c5 10.Qd2 d5 11.dxc5 Bxc5 12.Rfd1 Nc6 13.cxd5 exd5 14.Ng5 Bxg2 15.Qc2 Be4
+16.Nxe4 Nd4 17.Rxd4 Bxd4 18.Ng5 g6 19.Rd1 Bg7 20.Qb3 Qe7 21.Rxd5 Rad8 22.Rxd8 Rxd8
+23.Be3 h6 24.Nf3 Qf6 25.Kg2 Qxb2 26.Qc4 b5 27.Qc7 Rd1 28.Qxa7 Qxe2 29.g4 Qc4
+30.h3 Kh7 31.a3 Rd3 32.Qe7 Qd5 33.Qa7 Qd7 34.Qc5 Kg8 35.Qc1 Bf8  0-1
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "4"]
+[White "Piket, Jeroen"]
+[Black "Van der Wiel, John TH"]
+[Result "1-0"]
+[WhiteElo "2605"]
+[BlackElo "2570"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.Qc2 dxc4 7.e4 c5 8.dxc5 Bxc5
+9.Bxc4 Nbd7 10.O-O Qc7 11.Bd3 a6 12.Bg5 Ng4 13.Qe2 Bd6 14.h3 Nh2 15.Nxh2 Bxh2+
+16.Kh1 Bf4 17.Nd5 exd5 18.exd5+ Be5 19.f4 O-O 20.fxe5 Bxd5 21.Rae1 Qc6 22.Rf4 Rfe8
+23.Qh5 f5 24.Bxf5 g6 25.Bxd7 Bxg2+ 26.Kh2 Qxd7 27.Qg4 Bc6 28.Rd4 Qxg4 29.hxg4 Re6
+30.Bf6 Rae8 31.Rc1 h6 32.Rd6 Rxd6 33.exd6 Re2+ 34.Kg3 Kf7 35.Rxc6 Kxf6 36.Rxb6 a5
+37.Kf3 Rh2 38.b4 axb4 39.axb4 h5 40.g5+ Ke6 41.d7+ Kxd7 42.Rxg6 Rh4 43.b5 Rg4
+44.b6 Kc8 45.Rg7 Kb8 46.g6 Rg1 47.Kf4 h4 48.Kf5 Rf1+ 49.Kg5 Rg1+ 50.Kxh4 Rh1+
+51.Kg5 Rg1+ 52.Kf6 Rf1+ 53.Ke7 Re1+ 54.Kf8 Rg1 55.Rg8 Kb7 56.Kg7  1-0
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "5"]
+[White "Smirin, Ilia"]
+[Black "Piket, Jeroen"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2605"]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 Be7 7.Re1 b5 8.Rxe4 d5
+9.Nxe5 Nxe5 10.Rxe5 bxa4 11.c4 dxc4 12.Qxa4+ Bd7 13.Qxc4 O-O 14.Nc3 Bd6 15.Bg5 Qb8
+16.Re2 Re8 17.d5 Rxe2 18.Qxe2 Qb4 19.Re1 a5 20.h3 h6 21.Bc1 Re8 22.Qd1 Re5
+23.Rxe5  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "5"]
+[White "Sokolov, Ivan"]
+[Black "Leko, Peter"]
+[Result "0-1"]
+[WhiteElo "2650"]
+[BlackElo "2545"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bb5+ c6 8.Ba4 b5
+9.Bb3 b4 10.Bb2 bxc3 11.Bxc3 Nd7 12.Ne2 O-O 13.O-O Ba6 14.Rc1 Rc8 15.Re1 e5
+16.Bb4 Re8 17.d5 c5 18.Bd2 Nb6 19.Be3 Bf8 20.Ba4 Nxa4 21.Qxa4 Bd3 22.f3 c4
+23.Nc3 a5 24.a3 Rb8 25.Nd1 Rb3 26.Nf2 Rxa3 27.Qc6 Qa8 28.Qf6 Bg7 29.Qh4 Qa6
+30.Ng4 Qd6 31.Bh6 f6 32.Bxg7 Kxg7 33.Qh6+ Kg8 34.Re3 Rb3 35.h4 Qf8 36.Qxf8+ Rxf8
+37.Nf2 a4 38.Nxd3 cxd3 39.Rd1 a3 40.Rexd3 Rxd3 41.Rxd3 Ra8 42.Rd1 a2 43.Ra1 Kf7
+44.Kf2 Ke7 45.Ke2 Kd6 46.Kd3 f5 47.Kc3 fxe4 48.fxe4 Ra3+ 49.Kb2 Re3 50.Rxa2 Rxe4
+51.Ra6+ Kxd5 52.g3 Rc4 53.h5 gxh5 54.Rh6 Rc7 55.Rxh5 Kd4 56.g4 e4 57.Rf5 e3
+58.Rf8 e2 59.Re8 Kd3 60.Rd8+ Ke3 61.Re8+ Kf2 62.Rf8+ Ke1 63.Kb3 Kd1 64.Rd8+ Kc1
+65.Re8 Rc2  0-1
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "5"]
+[White "Van Wely, Loek"]
+[Black "Nikolic, Predrag"]
+[Result "0-1"]
+[WhiteElo "2570"]
+[BlackElo "2625"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Nf3 Bb4+ 5.Nc3 exd4 6.Nxd4 Qh4 7.Bxc4 Qxe4+ 8.Kf1 Bxc3
+9.bxc3 Be6 10.Be2 Qd5 11.Bf3 Qc4+ 12.Kg1 Nc6 13.Nxc6 bxc6 14.Ba3 Ne7 15.Qd2 Rd8
+16.Qe3 Rd3 17.Qc5 Qxc5 18.Bxc5 Rxc3 19.Bxa7 c5 20.h4 Nc8 21.Bc6+ Ke7 22.Bb8 Kd6
+23.Bb7 Kd7 24.Rd1+ Nd6 25.Ba7 c6 26.Rb1 Nb5 27.Bb6 Rb8 28.Rd1+ Bd5  0-1
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "5"]
+[White "Tiviakov, Sergei"]
+[Black "Hansen, Curt"]
+[Result "1/2-1/2"]
+[WhiteElo "2630"]
+[BlackElo "2580"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.g3 Nf6 5.Bg2 c6 6.Nf3 Bg4 7.h3 Bxf3 8.Qxf3 e6
+9.O-O Nbd7 10.a3 Be7 11.b3 O-O 12.Bb2 Rfd8 13.d4 Rac8 14.Nd1 b5 15.Ne3 Qc7
+16.Qe2 Nb6 17.Rfd1 a5 18.c4  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "5"]
+[White "Van der Wiel, John TH"]
+[Black "Morovic Fernandez, Ivan"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2605"]
+[ECO "C69"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O f6 6.d4 exd4 7.Nxd4 c5 8.Ne2 Qxd1
+9.Rxd1 Bd7 10.Be3 O-O-O 11.Nbc3 Re8 12.Rd2 Bc6 13.Rad1 b6 14.h4 Ne7 15.h5 f5
+16.e5 Bb7 17.Bg5 Nc6 18.Ng3 Nd4 19.Nce2 Ne6 20.Bh4 g5 21.hxg6 hxg6 22.Bf6 Rg8
+23.Nf4 Bh6 24.Nxe6 Bxd2 25.Nxc7 Kxc7 26.Rxd2 f4 27.Ne2 g5 28.c4 b5 29.cxb5 axb5
+30.Nc3 Bc6 31.Nd5+ Bxd5 32.Rxd5 Kb6 33.Rd6+ Ka5 34.e6 b4 35.b3 Rg6 36.e7 Rxf6
+37.Rxf6 Rxe7 38.Kf1 Kb5 39.Rd6 g4 40.Rg6 Ra7 41.Rxg4 Rxa2 42.Rxf4 Rb2 43.Rf3 c4
+44.Rf5+ Kc6 45.bxc4 Rc2 46.Rb5 Rxc4 47.Rb8  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "6"]
+[White "Hansen, Curt"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[WhiteElo "2580"]
+[BlackElo "2545"]
+[ECO "D32"]
+
+1.Nf3 Nf6 2.c4 c5 3.Nc3 Nc6 4.e3 e6 5.d4 d5 6.cxd5 exd5 7.Be2 cxd4 8.Nxd4 Bd6
+9.O-O O-O 10.b3 Be5 11.Nxc6 bxc6 12.Bb2 Qd6 13.h3 Qe6 14.Bf3 Ne4 15.Bxe4 dxe4
+16.Na4 Bxb2 17.Nxb2 Qg6 18.Kh1 Ba6 19.Nc4 Bxc4 20.bxc4 Rfd8 21.Qa4 Rd7 22.Rad1 Rad8
+23.Rxd7 Rxd7 24.Rd1 Qe6 25.Rxd7 Qxd7 26.c5 f5 27.Qb3+ Kf8 28.g3 Qe7 29.Qb4 Kf7
+30.Kg2 h5 31.h4 Kf6 32.a4 Qe5 33.a5 Qd5 34.a6 Qe5 35.Kh2  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "6"]
+[White "Morovic Fernandez, Ivan"]
+[Black "Smirin, Ilia"]
+[Result "1/2-1/2"]
+[WhiteElo "2605"]
+[BlackElo "2615"]
+[ECO "B96"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qc7 8.Bxf6 gxf6
+9.Be2 Nc6 10.Qd2 Bd7 11.O-O-O h5 12.Kb1 O-O-O 13.Rhf1 Kb8 14.f5 Be7 15.Nxc6+ Bxc6
+16.Bf3 Qa5 17.Ne2 Qe5 18.Nf4 d5 19.exd5 Qxf5 20.Qe3 Bb5 21.Nd3 Qg5 22.Qe1 Rd6
+23.Rf2 Rc8 24.Rfd2 Bf8 25.h4 Qh6 26.g3 f5 27.Nf4 Rb6 28.dxe6 fxe6 29.Rd8 Qf6
+30.Rxc8+ Kxc8 31.c3 Rd6 32.Nxh5 Rxd1+ 33.Bxd1 Qh6 34.Nf4 Bd6 35.Qxe6+ Qxe6
+36.Nxe6 Bxg3 37.h5 Be5 38.Bf3 b6 39.Kc2 a5 40.Nd4 Bc4 41.b3 Bg8 42.Nxf5 Bh7
+43.Be4 Kd7 44.Kd3 Bxf5 45.Bxf5+ Ke7 46.h6 Kf7 47.h7 Kg7  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "6"]
+[White "Tiviakov, Sergei"]
+[Black "Van Wely, Loek"]
+[Result "1-0"]
+[WhiteElo "2630"]
+[BlackElo "2570"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.f3 Nc6 8.Qd2 Be7
+9.g4 O-O 10.O-O-O Nxd4 11.Bxd4 b5 12.g5 Nd7 13.h4 Rb8 14.Kb1 b4 15.Ne2 Qc7
+16.h5 Ne5 17.f4 Nc4 18.Qd3 e5 19.Nc1 Bg4 20.Qxc4 Qxc4 21.Bxc4 Bxd1 22.Rxd1 exd4
+23.Nb3 g6 24.Nxd4 a5 25.hxg6 hxg6 26.f5 Rfc8 27.Bd5 Bxg5 28.fxg6 Kg7 29.gxf7 Kf6
+30.Rf1+ Ke7 31.Nc6+ Rxc6 32.Bxc6 Bf6 33.Be8 Bg7 34.Rf5 Ra8 35.Rb5 Be5 36.Kc1 Ra7
+37.b3 Bf4+ 38.Kd1 Be5 39.Kd2 Bf4+ 40.Ke2 Be5 41.Kd3 Bg7 42.Rg5 Kf8 43.Rg6 Ra6
+44.e5 a4 45.e6 Ra7 46.Bd7  1-0
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "6"]
+[White "Nikolic, Predrag"]
+[Black "Van der Wiel, John TH"]
+[Result "1-0"]
+[WhiteElo "2625"]
+[BlackElo "2570"]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 b5 4.Bg2 Bb7 5.O-O c5 6.c3 Qb6 7.a4 a6 8.Na3 cxd4
+9.Nxd4 Bxg2 10.Kxg2 Nc6 11.Be3 Nxd4 12.Qxd4 Qc6+ 13.f3 Be7 14.axb5 axb5 15.Nc2 O-O
+16.Qd3 Qb7 17.Nd4 b4 18.c4 d5 19.cxd5 Nxd5 20.Bf2 Bf6 21.Rxa8 Rxa8 22.Rc1 h6
+23.Rc5 Be7 24.Rc2 Bf6 25.e4 Ne7 26.Nb3 Rc8 27.Nc5 Qc6 28.Qc4 Qb6 29.Qe2 b3
+30.Rc1 Ng6 31.Nxb3 Qb8 32.Rxc8+ Qxc8 33.Nc5  1-0
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "6"]
+[White "Piket, Jeroen"]
+[Black "Sokolov, Ivan"]
+[Result "1/2-1/2"]
+[WhiteElo "2605"]
+[BlackElo "2650"]
+[ECO "D16"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 dxc4 5.a4 a5 6.e4 Bg4 7.Bxc4 e6 8.Be3 Bb4
+9.Qc2 Nbd7 10.O-O O-O 11.Ne5 Bh5  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "7"]
+[White "Sokolov, Ivan"]
+[Black "Morovic Fernandez, Ivan"]
+[Result "0-1"]
+[WhiteElo "2650"]
+[BlackElo "2605"]
+[ECO "E31"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5 c5 5.d5 h6 6.Bh4 Bxc3+ 7.bxc3 d6 8.e3 e5
+9.f3 Nbd7 10.Bd3 Qe7 11.Ne2 e4 12.Bxe4 g5 13.Bg3 Nxe4 14.fxe4 Nf6 15.e5 dxe5
+16.Nc1 Ne4 17.Nd3 Nxg3 18.hxg3 e4 19.Nf2 Qe5 20.Qc2 Bf5 21.g4 Bg6 22.O-O-O Rd8
+23.Rh3 Kf8 24.Rdh1 Kg7 25.g3 b5 26.cxb5 Rxd5 27.Nd1 Rd3 28.Kb1 c4 29.Nb2 Rxe3
+30.Qh2 Qxc3  0-1
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "7"]
+[White "Van der Wiel, John TH"]
+[Black "Tiviakov, Sergei"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2630"]
+[ECO "B76"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 Nc6 8.Qd2 O-O
+9.O-O-O d5 10.exd5 Nxd5 11.Nxc6 bxc6 12.Bd4 e5 13.Bc5 Be6 14.Ne4 Re8 15.h4 Nf4
+16.g3 Qxd2+ 17.Rxd2 Nh5 18.g4 Nf4 19.h5 Bd5 20.hxg6 fxg6 21.Rdh2 h6 22.Rf2 Ne6
+23.Be3 Rf8 24.Nd2 Nf4 25.Bc4 Rf7 26.Rd1 Rb8 27.Bb3 a5 28.Ne4 Rbf8 29.c4 Bxe4
+30.fxe4 Kh7 31.c5 Rb7 32.Rd6 Rc8 33.Rfd2 Rcc7 34.Ba4 Bf8 35.Rxc6  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "7"]
+[White "Smirin, Ilia"]
+[Black "Nikolic, Predrag"]
+[Result "0-1"]
+[WhiteElo "2615"]
+[BlackElo "2625"]
+[ECO "C90"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.d3 d6
+9.c3 Na5 10.Bc2 c5 11.Nbd2 Nc6 12.a4 Be6 13.Nf1 Re8 14.h3 h6 15.Ng3 Bf8 16.d4 cxd4
+17.cxd4 exd4 18.Nxd4 Nxd4 19.Qxd4 Rc8 20.Bd3 Nd7 21.axb5 Nc5 22.bxa6 Nb3
+23.Qa4 Nxa1 24.Qxa1 d5 25.exd5 Qxd5 26.Be4 Qb5 27.a7 Bd5 28.Bf4 Ra8 29.Bb8 Bxe4
+30.Nxe4 Qc6 31.Nc3 Rxe1+ 32.Qxe1 Bc5 33.Qe5 f6 34.Qf4 Kh8 35.Ne4 Bd4 36.Nc3 Bc5
+37.Ne4 Bb6 38.b4 Qe8 39.Kh2 Bxa7 40.Bxa7 Rxa7 41.Nxf6 gxf6 42.Qxh6+ Kg8 43.Qxf6 Qe4
+44.b5 Rf7 45.Qg5+ Rg7 46.Qd8+ Kh7 47.g4 Qe5+ 48.Kg2 Qxb5 49.Qd4 Qc6+ 50.Kg3 Rd7
+51.Qe3 Qd6+ 52.Kg2 Re7 53.Qg5 Re5 54.Qf4 Qd5+ 55.Kg3 Re1 56.Qc7+ Kg8 57.Qb8+ Kf7
+58.Qf4+ Kg6 59.Kh4 Rg1  0-1
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "7"]
+[White "Leko, Peter"]
+[Black "Piket, Jeroen"]
+[Result "1/2-1/2"]
+[WhiteElo "2545"]
+[BlackElo "2605"]
+[ECO "B64"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O
+9.f4 h6 10.Bh4 e5 11.Nf5 Bxf5 12.exf5 Qa5 13.Bc4 Qb4 14.Bb3 Qxf4 15.Qxf4 exf4
+16.Rhf1 Nh5 17.Bxe7 Nxe7 18.Nd5 Nxd5 19.Bxd5 Rad8 20.Bxb7 g5 21.Rf3 Rfe8
+22.Rfd3 Ng7 23.Rxd6 Rxd6 24.Rxd6 Nxf5 25.Rd3 Re1+ 26.Rd1 Re7 27.Bc6 Rc7 28.Bb5 Ne3
+29.Rd2 f5 30.b4 Kf7 31.c4 Ke6 32.c5 Ke5 33.Kb2 Rb7 34.a4 Rxb5 35.axb5 Nc4+
+36.Kc3 Nxd2 37.Kxd2 g4 38.Ke2  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "7"]
+[White "Van Wely, Loek"]
+[Black "Hansen, Curt"]
+[Result "1-0"]
+[WhiteElo "2570"]
+[BlackElo "2580"]
+[ECO "A90"]
+
+1.d4 e6 2.c4 f5 3.g3 Nf6 4.Bg2 Bb4+ 5.Nd2 O-O 6.Nf3 b6 7.a3 Be7 8.Ne5 c6
+9.O-O Qe8 10.b4 Bb7 11.c5 Na6 12.Ndc4 Nc7 13.cxb6 axb6 14.Nxb6 Ra7 15.Bg5 d6
+16.Bxf6 Rxf6 17.Nd3 Ba6 18.a4 Rb7 19.a5 Nd5 20.Nxd5 cxd5 21.Rb1 Rf8 22.Qd2 Qd7
+23.Rb2 Rfb8 24.Rfb1 Bd8 25.Nc1 Bc4 26.Bf3 Rb5 27.Ra1 Qb7 28.a6 Qa7 29.Qe3 Kf7
+30.g4 Bf6 31.gxf5 exf5 32.Rd2 Rxb4 33.Qf4 Rb1 34.Rxb1 Rxb1 35.Rc2 Qd7 36.a7 Qxa7
+37.Qxf5 g6 38.Bxd5+ Kg7 39.Qc8 Qxd4 40.Qg8+ Kh6 41.Rxc4 Qe5 42.e3 Qf5 43.Qf8+ Kh5
+44.Qxd6 Bb2 45.Be6  1-0
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "8"]
+[White "Tiviakov, Sergei"]
+[Black "Smirin, Ilia"]
+[Result "0-1"]
+[WhiteElo "2630"]
+[BlackElo "2615"]
+[ECO "B07"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Bg5 Bg7 5.Qd2 h6 6.Bh4 g5 7.Bg3 Nh5 8.O-O-O Nd7
+9.Nge2 a6 10.h4 g4 11.f3 f5 12.e5 Nb6 13.exd6 cxd6 14.Bf2 Be6 15.d5 Nc4 16.Qe1 Bd7
+17.Nd4 Ne5 18.Ne6 Bxe6 19.dxe6 Qa5 20.Nd5 Qxa2 21.Qb4 O-O 22.Nxe7+ Kh8 23.Rxd6 Rad8
+24.Bd4 Kh7 25.Rxd8 Rxd8 26.Nxf5 Nc6 27.e7 Rxd4 28.Nxd4 Nxb4 29.e8=Q Ng3 30.Qd7 Nxh1
+31.Qf5+ Kh8 32.Qc8+ Qg8 33.Qxg4 Be5 34.Qe4 Qd5 35.Qxd5 Nxd5 36.Nf5 Ng3 37.Bc4 Nxf5
+38.Bxd5 b6 39.h5 Ng3 40.Bf7 Kg7 41.Be8 Kf6 42.c3 Kg5 43.Kd2 Nxh5 44.Ke3 Bf4+
+45.Kd4 Nf6 46.Bc6 a5 47.b3 Kh4 48.g4 Kg3 49.Kd3 Nh7 50.Ke2 Ng5 51.Bd5 Be5
+52.c4 Kf4 53.Kf2 Bd4+ 54.Ke2 Bc5  0-1
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "8"]
+[White "Van Wely, Loek"]
+[Black "Van der Wiel, John TH"]
+[Result "1-0"]
+[WhiteElo "2570"]
+[BlackElo "2570"]
+[ECO "E12"]
+
+1.Nf3 Nf6 2.c4 b6 3.Nc3 Bb7 4.d4 e6 5.a3 d5 6.Bg5 Nbd7 7.cxd5 exd5 8.Qa4 Be7
+9.Bxf6 Bxf6 10.g3 a6 11.Rd1 O-O 12.Bh3 b5 13.Qc2 Re8 14.O-O Nb6 15.e3 Bc8
+16.Bxc8 Qxc8 17.Ne2 Qg4 18.Kg2 Nc4 19.b3 Nxa3 20.Qc5 Be7 21.Qxd5 Bd6 22.Rc1 a5
+23.Nf4 Bxf4 24.exf4 Qe6 25.Qxe6 Rxe6 26.Rxc7 b4 27.Rfc1 Nb5 28.Rc8+ Re8 29.Rxe8+ Rxe8
+30.Rc5 Rb8 31.d5 f6 32.Nd2 Kf8 33.Nc4 a4 34.bxa4 Nc3 35.a5 Na4 36.Rc7 b3
+37.a6 b2 38.Nxb2 Rxb2 39.d6 Nb6 40.Rb7 Ke8 41.a7 Ra2 42.Rxg7 Kd8 43.Rg8+ Kd7
+44.Rb8  1-0
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "8"]
+[White "Nikolic, Predrag"]
+[Black "Sokolov, Ivan"]
+[Result "1-0"]
+[WhiteElo "2625"]
+[BlackElo "2650"]
+[ECO "E10"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5 5.dxe6 fxe6 6.cxb5 Bb7 7.g3 Qb6 8.a4 a6
+9.Na3 axb5 10.axb5 d5 11.Bh3 Ne4 12.O-O Nd7 13.Nd2 Ndf6 14.Nxe4 Nxe4 15.Bg2 Nd6
+16.e4 dxe4 17.Bf4 Nf5 18.Re1 Rd8 19.Qa4 Ra8 20.Qd1 Rd8 21.Qa4 Ra8 22.Qc4 Bd5
+23.Qe2 Nd4 24.Qh5+ g6 25.Qe5 Rg8 26.Bxe4 Bg7 27.Qd6 Qxd6 28.Bxd6 Bxe4 29.Rxe4 Nf3+
+30.Kg2 Bxb2 31.Ra2 Nd2 32.Re2 Bc1 33.b6 Kd7 34.b7 Rxa3 35.Rxa3 Bxa3 36.Rxd2  1-0
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "8"]
+[White "Hansen, Curt"]
+[Black "Piket, Jeroen"]
+[Result "1-0"]
+[WhiteElo "2580"]
+[BlackElo "2605"]
+[ECO "E69"]
+
+1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 c6 6.Nc3 d6 7.O-O Nbd7 8.e4 e5
+9.b3 exd4 10.Nxd4 Re8 11.h3 Nc5 12.Re1 a5 13.Rb1 Qc7 14.Qc2 Bd7 15.Be3 Rad8
+16.a3 Qc8 17.b4 axb4 18.axb4 Ne6 19.Nde2 Nc7 20.Na4 Bxh3 21.Nb6 Bxg2 22.Nxc8 Bxe4
+23.Qd1 Rxc8 24.Rb3 d5 25.c5 Ng4 26.Nd4 Nxe3 27.Rbxe3 Ne6 28.Nxe6 Rxe6 29.f3 Bf5
+30.Rxe6 Bxe6 31.Qa4 Bc3 32.Rxe6 fxe6 33.Qa7 Bxb4 34.Qb6 Ba3 35.Qa5 Bc1 36.Qe1 Rf8
+37.Qxc1 Rxf3 38.Qb2 Rf7 39.Qe5 h5 40.Qxe6 Kg7 41.Qe5+ Kh7 42.Kg2 Kg8 43.Kh3 Kh7
+44.Kh4 Kg8 45.Qa1 Kh7 46.Qb2 Kg8 47.Kg5 Kh7 48.g4 hxg4 49.Kxg4 d4 50.Qxd4 Rf5
+51.Qd7+ Kh6 52.Qxf5 gxf5+ 53.Kxf5 Kh5 54.Ke5 Kg5 55.Kd6 Kf5 56.Kc7 Ke6 57.Kxb7  1-0
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "8"]
+[White "Morovic Fernandez, Ivan"]
+[Black "Leko, Peter"]
+[Result "0-1"]
+[WhiteElo "2605"]
+[BlackElo "2545"]
+[ECO "B65"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O Nxd4
+9.Qxd4 O-O 10.f4 Qa5 11.Bc4 Bd7 12.Rd3 Rad8 13.Rg3 Kh8 14.e5 dxe5 15.fxe5 Bc6
+16.Qe3 Ng8 17.h4 Qb6 18.Qe2 h6 19.Bd3 Qd4 20.Rg4 Qc5 21.Bf4 f5 22.exf6 Nxf6
+23.Rg5 Qb4 24.Bc7 Rxd3 25.cxd3 hxg5 26.hxg5+ Nh7 27.g6 Bg5+ 28.Kb1 Bh6 29.gxh7 Qe7
+30.Be5 Qg5 31.a3 Kxh7 32.Bd6 Rd8 33.Qxe6 Qg6 34.Qxg6+ Kxg6 35.Be5 Rxd3 36.Re1 Bxg2
+37.Nb5 a6 38.Nd6 Rd2 39.Nc4 Rf2 40.Bg3 Rf1 41.Rxf1 Bxf1 42.Nd6 Bg2 43.Be5 Bg5
+44.Kc2 Bf6 45.Bh2 Kh5 46.b4 Bc6 47.Kd3 b5 48.Bg1 g5 49.Bd4 Bxd4 50.Kxd4 g4
+51.Nf5 Bd7 52.Ne7 Kh4 53.Ke3 Kh3  0-1
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "9"]
+[White "Van der Wiel, John TH"]
+[Black "Hansen, Curt"]
+[Result "0-1"]
+[WhiteElo "2570"]
+[BlackElo "2580"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Be3 c6 5.Qd2 Nd7 6.f3 b5 7.a4 b4 8.Nd1 a5 9.c3 bxc3
+10.bxc3 Ngf6 11.Bd3 O-O 12.Ne2 e5 13.O-O d5 14.Nf2 Ba6 15.Bxa6 Rxa6 16.Qa2 Qc7
+17.Rad1 Raa8 18.Bc1 dxe4 19.fxe4 h5 20.Kh1 Rfe8 21.dxe5 Nxe5 22.Bf4 Qe7 23.Nd4 Nfd7
+24.Nh3 Qc5 25.Nf3 Ra7 26.Nhg5 Qc4 27.Qf2 Rb7 28.Qd4 Qxd4 29.cxd4 Nxf3 30.gxf3 Nb6
+31.Rb1 Bxd4 32.Rfc1 c5 33.Rb5 f6 34.Nh3 Ree7 35.Bd6 Nxa4 36.Rxa5 Red7 37.Bg3 Nc3
+38.Nf4 Kf7 39.Be1 Be3 40.Rxc3 Bxf4 41.Kg2 Rb2+ 42.Kf1 Rb1  0-1
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "9"]
+[White "Leko, Peter"]
+[Black "Nikolic, Predrag"]
+[Result "1/2-1/2"]
+[WhiteElo "2545"]
+[BlackElo "2625"]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.Qe2+ Qe7 7.Qxe7+ Kxe7 8.O-O Re8
+9.Re1+ Kf8 10.Rxe8+  1/2-1/2
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "9"]
+[White "Sokolov, Ivan"]
+[Black "Tiviakov, Sergei"]
+[Result "0-1"]
+[WhiteElo "2650"]
+[BlackElo "2630"]
+[ECO "E39"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Nf3 c5 6.dxc5 Na6 7.e3 Nxc5 8.Bd2 b6
+9.Be2 Bb7 10.O-O Qe7 11.Rfd1 Rac8 12.Nb5 Be4 13.Qc1 Bxd2 14.Nxd2 d5 15.Nxe4 Ncxe4
+16.b3 a6 17.Qa3 Qxa3 18.Nxa3 Nc3 19.Re1 dxc4 20.Bxc4 b5 21.Bf1 Ncd5 22.Red1 Rfd8
+23.Nb1 Nxe3 24.Rxd8+ Rxd8 25.fxe3 Rd1 26.Kf2 Ng4+ 27.Ke2 Rc1 28.g3 Nxe3 29.Kxe3 Rxf1
+30.Kd4 Rc1 31.a4 bxa4 32.bxa4 f5 33.Kd3 e5 34.Kd2 Rh1 35.Kc2 e4 36.Ra3 Rxh2+
+37.Nd2 h5 38.Kd1 h4 39.gxh4 Rxh4 40.Rc3 Rh1+ 41.Ke2 Kf7 42.Rc6 Rh6 43.Rc7+ Kf6
+44.Ra7 Rh2+ 45.Ke3 Rh3+ 46.Ke2 g5 47.Rxa6+ Ke5 48.Rb6 Rh2+ 49.Ke1 Rh1+ 50.Nf1 Rh3
+51.Rg6 Kf4 52.a5 Ra3 53.a6 g4 54.Kf2 e3+ 55.Ke1 Ra1+ 56.Ke2 Ra2+ 57.Ke1 Kf3
+58.Rd6 Ra1+ 59.Rd1 Rxa6 60.Nh2+ Kg2 61.Nxg4 fxg4 62.Ke2 Ra3 63.Rd8 g3 64.Rg8 Kh2
+65.Rh8+ Kg1 66.Rg8 g2 67.Rh8 Ra2+ 68.Ke1 e2 69.Rh7 Ra1+ 70.Kxe2 Ra8 71.Ke1 Re8+
+72.Kd2 Re5  0-1
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "9"]
+[White "Smirin, Ilia"]
+[Black "Van Wely, Loek"]
+[Result "0-1"]
+[WhiteElo "2615"]
+[BlackElo "2570"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.f3 Nc6 8.g4 Be7
+9.Qd2 O-O 10.O-O-O Nxd4 11.Bxd4 b5 12.h4 Rb8 13.Kb1 Nd7 14.g5 b4 15.Ne2 Qc7
+16.h5 Ne5 17.Ng1 Nc4 18.Bxc4 Qxc4 19.h6 g6 20.Bf6 Bxf6 21.gxf6 Rb6 22.Nh3 Bb7
+23.Qe3 Rc6 24.Rh2 a5 25.Rhd2 a4 26.Nf2 Rfc8 27.Ng4 Qb5 28.Qd3 Qa5 29.a3 Rb6
+30.Ka1 d5 31.exd5 Bxd5 32.Ne3 bxa3 33.Qxa3 Rb5 34.Rd4 Ra8 35.f4 Kh8 36.f5 gxf5
+37.Rg1 Qb6 38.Rdd1 Rb8 39.Nc4 Qc7 40.Qd6 Qxc4 41.Rxd5 exd5  0-1
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee"]
+[Date "1994.??.??"]
+[Round "9"]
+[White "Piket, Jeroen"]
+[Black "Morovic Fernandez, Ivan"]
+[Result "1/2-1/2"]
+[WhiteElo "2605"]
+[BlackElo "2605"]
+[ECO "D62"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 O-O 6.e3 Nbd7 7.Qc2 c5 8.cxd5 Nxd5
+9.Bxe7 Qxe7 10.Nxd5 exd5 11.Bd3 g6 12.dxc5 Nxc5 13.O-O Bg4 14.Nd4 Rfc8 15.Rfc1 Bd7
+16.Qd2 Ne6 17.Be2 Qf6 18.Nf3 Bc6 19.Rc3 d4 20.exd4 Rd8 21.Rd1 Rd6 22.Bc4 Rad8
+23.Qc1 Nxd4 24.Nxd4 Rxd4 25.Rxd4 Rxd4 26.Rd3 Re4 27.f3 Re8 28.Qc3 Qxc3  1/2-1/2

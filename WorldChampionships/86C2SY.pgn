@@ -1,0 +1,264 @@
+
+[Event "cm2"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "01"]
+[White "Sokolov A"]
+[Black "Yusupov A"]
+[Result "0-1"]
+[ECO "C19"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3 b6 8.Bb5+ Bd7
+9.Bd3 Ba4 10.h4 h6 11.h5 Nbc6 12.Rh4 c4 13.Be2 Kd7 14.Be3 Qg8
+15.Qd2 Qh7 16.Rc1 Kc7 17.Rf4 Raf8 18.Nh4 Nd8 19.Bg4 Kb7 20.Rf3 Be8
+21.Rh3 g5 22.hxg6 fxg6 23.Nf3 g5 24.Nh2 Qg7 25.Qe2 Bg6 26.Bh5 Nf5
+27.Kd2 Bh7 28.Ng4 Nc6 29.Nf6 Rxf6 30.exf6 Qxf6 31.Bg4 Nd6 32.f3 Bf5
+33.Bxf5 exf5 34.Rch1 f4 35.Bf2 Re8 36.Qd1 Nf5 37.Re1 Re7 38.Rhh1 Kc7
+39.a4 Qf7 40.Rxe7+ Qxe7 41.Re1 Qf7 42.Qe2 Kd7 43.Kc1 h5 44.Kb2 Qg6
+45.Qf1 g4 46.Re2 g3 47.Be1 Nfe7 48.Bd2 Qf5 49.Qe1 h4 50.a5 bxa5 51.Qa1 Ng6
+52.Qa3 h3 53.gxh3 Qh5 54.Qc5 Qxf3 55.Re1 Nge7 56.Qb5 g2 57.Qb7+ Kd6
+58.Rg1 Qf2 59.Bxf4+ Qxf4 60.Rxg2 Qf3 61.Rg4 Qxh3 62.Rf4 Ke6 63.Rf8 Qh6
+64.Rf3 Qh8 65.Re3+ Kd6 66.Rf3 Qh6 67.Rf1 Qg7 68.Ka3 Nf5 69.Qc8 Ne3
+70.Rf8 Nxc2+ 71.Ka4 N2xd4 72.cxd4 Qxd4 0-1
+
+[Event "cm2"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "02"]
+[White "Yusupov A"]
+[Black "Sokolov A"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Nf3 c5 6.O-O Nc6 7.Qa4 Bd7 8.Qxc4 b5
+9.Qd3 Rc8 10.dxc5 Bxc5 11.Nc3 b4 12.Nb5 O-O 13.Be3 Bxe3 14.Qxe3 Ne7
+15.Rfd1 Ned5 16.Qd3 Qb6 17.Nbd4 h6 18.e4 Ne7 19.e5 Nfd5 20.Bf1 Rc7
+21.Qe4 Rfc8 22.Bd3 Ng6 23.h4 a5 24.Nh2 a4 25.h5 Nf8 26.Ng4 Bc6 27.Nxc6 Rxc6
+28.Qf3 a3 29.bxa3 bxa3 30.Rab1 Qc7 31.Be4 Rc3 32.Qe2 Rd8 33.Rd2 Rc1+
+34.Rxc1 Qxc1+ 35.Qd1 Qc4 36.Qf3 Qc1+ 37.Qd1 Qc4 38.Qf3 Qc1+ 1/2-1/2
+
+[Event "cm2"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "03"]
+[White "Sokolov A"]
+[Black "Yusupov A"]
+[Result "0-1"]
+[ECO "C19"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 c5 7.Nf3 b6
+8.a4 Ba6 9.Bxa6 Nxa6 10.O-O Nb8 11.dxc5 bxc5 12.c4 O-O 13.cxd5 Nxd5
+14.Qd3 h6 15.c4 Ne7 16.Qe4 Nd7 17.Rb1 Qa5 18.Rd1 Rad8 19.Qc2 Nxe5
+20.Nxe5 Qc3 21.Qe2 Qxe5 22.Be3 Nf5 23.Qf3 Rxd1+ 24.Rxd1 Nd4
+25.Bxd4 cxd4 26.Qd3 Rd8 27.g3 Qc5 28.f4 Qb4 29.Ra1 a5 30.h4 h5 31.Rb1 Qxa4
+32.Rb5 g6 33.Kf2 Qa2+ 34.Kf3 a4 35.Rb6 Kg7 36.Rb1 Kg8 37.Rb6 Qa1 38.Ke2 a3
+39.Ra6 Qb2+ 40.Qd2 d3+ 0-1
+
+[Event "cm2"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "04"]
+[White "Yusupov A"]
+[Black "Sokolov A"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.Bc3 d5
+9.Ne5 Bb7 10.Nd2 Nbd7 11.O-O c5 12.Nxd7 Qxd7 13.dxc5 bxc5 14.cxd5 exd5
+15.Bxf6 Bxf6 16.Rc1 Rc8 17.e4 dxe4 18.Nxe4 Bxe4 19.Bxe4 g6 20.b4 cxb4
+21.Rxc8+ Qxc8 22.Qd6 Be7 23.Qe5 Qc3 24.Qb8+ Bd8 25.Bc6+ Ke7 26.Rd1 Kf6
+27.Ba4 Kg7 28.Qxa7 Qf6 29.Qd4 Be7 30.Qxf6+ Kxf6 31.Rd7 Rd8 32.Rb7 h5
+33.h4 Rd2 34.Bb3 Re2 35.Kf1 Re5 36.Rc7 Rc5 37.Rd7 Re5 38.Bd5 Kg7 39.Bb3 Kf8
+40.Rb7 Re4 41.Rc7 1/2-1/2
+
+[Event "cm2"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "05"]
+[White "Sokolov A"]
+[Black "Yusupov A"]
+[Result "1/2-1/2"]
+[ECO "C06"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.Bd3 c5 5.e5 Nfd7 6.c3 Nc6 7.Ne2 cxd4 8.cxd4 f6
+9.exf6 Nxf6 10.O-O Bd6 11.Nf3 Qc7 12.Bg5 O-O 13.Rc1 Ng4 14.Ng3 g6
+15.Bb5 Bd7 16.Nh4 Nf6 17.Qd3 Kg7 18.Bxc6 bxc6 19.Qe2 Rf7 20.Nf3 h6
+21.Bd2 Ng4 22.h3 Nf6 23.Ne5 Bxe5 24.dxe5 Ng8 25.b3 Qb6 26.Be3 d4 27.Bd2 c5
+28.Qg4 Bb5 29.Rfe1 Bd3 30.Ne4 Bxe4 31.Qxe4 Raf8 32.f3 Ne7 33.Rc4 Nd5
+34.Rec1 Rc7 35.Kh2 Qb5 36.b4 Rfc8 37.bxc5 Rxc5 38.Rxc5 Rxc5
+39.Qxd4 Rxc1 40.Bxc1 Qb6 41.Qd2 g5 42.h4 Qc7 43.g3 Kg6 44.Qd3+ Kg7
+45.Qd2 Kg6 46.hxg5 h5 47.Qd3+ Kg7 48.Qd2 Kg6 49.Qd3+ Kg7 50.Be3 a5
+51.Bf2 Qc1 52.f4 Qb2 53.Kg1 Qa1+ 54.Qf1 Qxa2 55.Qb5 Ne7 56.Qe8 Ng6
+57.Qd7+ Kg8 58.Qd3 Kg7 59.Qd7+ Kg8 60.Qd8+ Kh7 61.Qd1 Kg7 62.Qxh5 Qb1+
+63.Kg2 a4 64.Bc5 Qc2+ 65.Kh1 Qb1+ 66.Kg2 Qc2+ 67.Kh1 Qb1+ 1/2-1/2
+
+[Event "cm2"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "06"]
+[White "Yusupov A"]
+[Black "Sokolov A"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 d5
+8.Ne5 O-O 9.O-O Bb7 10.Nc3 Nbd7 11.cxd5 Nxd5 12.Nxd5 exd5 13.Nd3 a5
+14.Rc1 Re8 15.Rc2 Nf8 16.Nf4 c6 17.Re1 Ba3 18.Bc3 Qd6 19.e4 dxe4
+20.Rxe4 Bb4 21.Bb2 Rxe4 22.Bxe4 a4 23.bxa4 Rxa4 24.Qg4 Ba3 25.Bc3 g6
+26.Nh5 f5 27.Bxf5 c5 28.Qg5 cxd4 29.Bd2 Qe5 30.Nf6+ Kh8 31.Bd3 Qxg5
+32.Bxg5 Bc5 33.Ne4 Ne6 34.Bf6+ Kg8 35.f3 Kf7 36.Be5 Bd5 37.Nd6+ Ke7
+38.Nc4 Bxf3 39.Rb2 Bd5 40.Nxb6 Bxb6 41.Rxb6 Rxa2 42.Ra6 Rd2 43.Bb5 Rb2
+44.Bf1 Bb7 45.Ra3 Rb1 46.Kf2 Rb2+ 47.Be2 Bd5 48.Ke1 Rb1+ 49.Kd2 Rb2+
+50.Ke1 Rb1+ 51.Kd2 Rb2+ 52.Ke1 1/2-1/2
+
+[Event "cm2"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "07"]
+[White "Sokolov A"]
+[Black "Yusupov A"]
+[Result "1-0"]
+[ECO "C82"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Bc5 10.Qd3 O-O 11.Nbd2 f5 12.exf6 Nxf6 13.a4 Bf7 14.Ng5 Ne5 15.Qg3 Qd6
+16.Bc2 h6 17.Nxf7 Nxf7 18.Nb3 Qxg3 19.hxg3 Bb6 20.Nd4 c5 21.Nf5 Rfe8
+22.axb5 axb5 23.Ne7+ Kf8 24.Ng6+ Kg8 25.Rxa8 Rxa8 26.Be3 d4 27.cxd4 c4
+28.b3 Nd6 29.bxc4 Nxc4 30.Rb1 Na3 31.Ra1 b4 32.Bb3+ Kh7 33.Ne7 Re8
+34.Nc6 Nb5 35.Bc4 Nc3 36.Nxb4 Ng4 37.Bd3+ Kg8 38.Rc1 Nxe3 39.fxe3 Rxe3
+40.Rxc3 Re1+ 41.Kh2 1-0
+
+[Event "cm2"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "08"]
+[White "Yusupov A"]
+[Black "Sokolov A"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 d5
+8.Ne5 Bb7 9.O-O Nbd7 10.Nc3 c5 11.Bf4 O-O 12.cxd5 Nxe5 13.Bxe5 Nxd5
+14.Nxd5 Bxd5 15.e4 Bb7 16.Qg4 f6 17.Qxe6+ Kh8 18.Bf4 cxd4 19.Rfc1 Bc5
+20.b4 Bxb4 21.Rc7 Bc8 22.Qc6 Bg4 23.h3 Be2 24.Qb7 Rb8 25.Qxa7 Ra8
+26.Qb7 Rb8 27.Qa7 Ra8 28.Qb7 Rb8 1/2-1/2
+
+[Event "cm2"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "09"]
+[White "Sokolov A"]
+[Black "Yusupov A"]
+[Result "0-1"]
+[ECO "C06"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.Bd3 c5 5.e5 Nfd7 6.c3 Nc6 7.Ne2 cxd4 8.cxd4 f6
+9.exf6 Nxf6 10.O-O Bd6 11.Nf3 Qc7 12.Bg5 O-O 13.Rc1 Ng4 14.Ng3 g6
+15.Bb5 Bd7 16.Nh4 Nf6 17.Qd3 Rf7 18.Rfe1 Ng4 19.Nf3 Re8 20.a4 Qb6
+21.Re2 Nb4 22.Qb3 Bxb5 23.axb5 Qxb5 24.Rce1 Qd3 25.Qxd3 Nxd3
+26.Rxe6 Rxe6 27.Rxe6 Bf4 28.h3 Ngxf2 29.Ne2 Bxg5 30.Nxg5 Rf5 31.h4 Ng4
+32.Nc3 Nxb2 33.Re8+ Rf8 34.Re2 Rc8 35.Rxb2 Rxc3 36.g3 Rxg3+ 37.Kh1 b6
+38.Ra2 a5 39.Rb2 h6 40.Ne6 Rh3+ 41.Kg1 Rg3+ 0-1
+
+[Event "cm2"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "09"]
+[White "Sokolov A"]
+[Black "Yusupov A"]
+[Result "0-1"]
+[ECO "C06"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.Bd3 c5 5.e5 Nfd7 6.c3 Nc6 7.Ne2 cxd4 8.cxd4 f6
+9.exf6 Nxf6 10.O-O Bd6 11.Nf3 Qc7 12.Bg5 O-O 13.Rc1 Ng4 14.Ng3 g6
+15.Bb5 Bd7 16.Nh4 Nf6 17.Qd3 Rf7 18.Rfe1 Ng4 19.Nf3 Re8 20.a4 Qb6
+21.Re2 0-1
+
+[Event "cm2"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "10"]
+[White "Yusupov A"]
+[Black "Sokolov A"]
+[Result "1/2-1/2"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 d5 8.Ne5 c6
+9.Bc3 Ne4 10.O-O Nxc3 11.Nxc3 O-O 12.Re1 Bb7 13.cxd5 cxd5 14.e4 Bb4
+15.Rc1 Bxc3 16.Rxc3 dxe4 17.Bxe4 Bxe4 18.Rxe4 Nd7 19.Nc6 Qe8 20.Rf4 Nf6
+21.Rxf6 gxf6 22.Qg4+ Kh8 23.Qh4 Kg7 24.Rf3 Qxc6 25.Qxf6+ Kg8 26.Rf4 Qc2
+27.Rg4+ Qg6 28.Rxg6+ hxg6 29.h4 Rfd8 30.h5 gxh5 31.Qg5+ Kf8
+32.Qxh5 Rac8 33.Qh6+ Ke7 34.Qg5+ Ke8 35.Qg8+ Ke7 36.Qg5+ 1/2-1/2
+
+[Event "cm2"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "11"]
+[White "Sokolov A"]
+[Black "Yusupov A"]
+[Result "1-0"]
+[ECO "C19"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 c5 7.Nf3 Qa5
+8.Bd2 Nbc6 9.Be2 cxd4 10.cxd4 Qa4 11.Be3 b6 12.Qd3 Na5 13.Nd2 Bd7
+14.O-O Rc8 15.Rfc1 O-O 16.Rab1 Nc4 17.Rb3 Rc7 18.Nf3 Rfc8 19.Bg5 Ng6
+20.h4 Na5 21.Rb4 Qc6 22.h5 Nf8 23.Qe3 Be8 24.Bf6 h6 25.Qf4 Qc3
+26.Qg4 Ng6 27.hxg6 fxg6 28.Bh4 Qxa3 29.Rbb1 Bf7 30.Rd1 g5 31.Bxg5 hxg5
+32.Nxg5 Qe7 33.Bd3 Rxc2 34.Bxc2 Rxc2 35.Rbc1 Rc6 36.Rxc6 Nxc6
+37.Rd3 Bg6 38.Rc3 Nd8 39.Rc8 Bf7 40.f4 Qd7 41.Ra8 1-0
+
+[Event "cm2"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "12"]
+[White "Yusupov A"]
+[Black "Sokolov A"]
+[Result "0-1"]
+[ECO "E58"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 d5 7.O-O Nc6
+8.a3 Bxc3 9.bxc3 Qc7 10.cxd5 exd5 11.Nh4 Ne7 12.Ra2 Ng6 13.Nxg6 hxg6
+14.f3 Bf5 15.Be2 Rac8 16.g4 Bd7 17.Rb2 b6 18.Ba6 Rce8 19.Bd3 Qc6 20.Rg2 Re7
+21.Qd2 Rc8 22.Bb2 Qa4 23.Re1 Bb5 24.Bc2 Qc4 25.Qd1 cxd4 26.cxd4 Rec7
+27.Bb3 Qc6 28.Qd2 Ba4 29.Ba2 Qb5 30.Qb4 Qd7 31.Bb1 Bc2 32.Bxc2 Rxc2
+33.Ree2 Rxe2 34.Rxe2 Rc4 35.Qe1 a5 36.h3 Ne8 37.e4 Nc7 38.Qg3 Rc6 39.h4 Ne6
+40.exd5 Qxd5 41.Re5 Qd6 42.Qh2 Qc7 43.Re2 Nf4 44.Re4 f5 45.Re8+ Kf7
+46.Ra8 Re6 47.Qd2 Re2 48.Qc3 Nh3+ 0-1
+
+[Event "cm2"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "13"]
+[White "Sokolov A"]
+[Black "Yusupov A"]
+[Result "1-0"]
+[ECO "C19"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 c5 7.Nf3 b6
+8.Ng5 h6 9.Qh5 g6 10.Qh3 Qc7 11.a4 Kf8 12.Kd1 cxd4 13.cxd4 Nbc6 14.Nf3 Nb4
+15.Ne1 Bd7 16.Ba3 a5 17.c3 Na6 18.Bd6 Qd8 19.Bd3 Nc7 20.Kd2 Ne8 21.Ba3 Kg7
+22.Nc2 Nf5 23.Bb2 Qg5+ 24.Ke2 h5 25.Ne3 Nc7 26.Rhb1 Rab8 27.Bc1 Qd8
+28.Qf3 b5 29.Nxf5+ exf5 30.axb5 Nxb5 31.Bd2 Bc6 32.Kf1 a4 33.e6 Nd6
+34.Rxb8 Qxb8 35.Bf4 Qd8 36.c4 Ne4 37.exf7 Kxf7 38.Qe3 dxc4 39.Bxc4+ Bd5
+40.Rxa4 Re8 41.Ra7+ Kg8 42.Qb3 Nf6 43.Be5 Bxc4+ 44.Qxc4+ Qd5 45.Qxd5+ Nxd5
+46.Rg7+ Kf8 47.Rxg6 Ra8 48.g3 Ra1+ 49.Kg2 Ra2 50.Rg5 Ke7 51.Rxh5 Ke6
+52.Rh6+ Ke7 53.Rh5 Ke6 54.Rh6+ Ke7 55.h3 Ne3+ 56.Kf3 Nd1 57.Kf4 Rxf2+
+58.Kg5 Nc3 59.Ra6 Ne4+ 60.Kg6 Nxg3 61.Bxg3 Rg2 62.Kxf5 Rxg3 63.h4 Rh3
+64.Rh6 Re3 65.h5 Re1 66.Rh8 Kf7 67.h6 Ra1 68.Ke5 Ra6 69.d5 1-0
+
+[Event "cm2"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "14"]
+[White "Yusupov A"]
+[Black "Sokolov A"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.cxd5 Nxd5 7.e3 Be7 8.Bd3 Nxc3
+9.bxc3 c5 10.O-O O-O 11.Qe2 Nc6 12.Bb2 Rc8 13.Rad1 cxd4 14.cxd4 Bf6
+15.h4 Bxh4 16.e4 Na5 17.d5 exd5 18.e5 Nc4 19.Bd4 Re8 20.g3 Bg5
+21.Kg2 Rc6 22.Rh1 h6 23.Rh5 Be7 24.Rdh1 Bc5 25.R1h4 Rg6 26.Ba1 b5
+27.Nd4 Rg5 28.Rxg5 Qxg5 29.f4 Qd8 30.Kh2 Qb6 31.Nf5 Ne3 32.e6 Nxf5
+33.Bxf5 Rxe6 34.Bxe6 Qxe6 35.Qxb5 Bb6 36.f5 Qxf5 37.Qe8+ Kh7
+38.Rf4 Qh5+ 39.Rh4 Qf5 40.Rf4 Qh5+ 41.Rh4 1/2-1/2

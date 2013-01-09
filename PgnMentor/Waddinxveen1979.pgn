@@ -1,0 +1,202 @@
+[Event "Waddinxveen"]
+[Site "Waddinxveen"]
+[Date "1979.??.??"]
+[Round "1"]
+[White "Kavalek, Lubomir"]
+[Black "Hort, Vlastimil"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2600"]
+[ECO "C19"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 c5 7.a4 Qa5 8.Bd2 Nbc6
+9.Nf3 Bd7 10.g3 O-O-O 11.Bh3 f5 12.Bg2 h6 13.h4 Qc7 14.Bc1 cxd4 15.cxd4 Nb4
+16.Kd2 Be8 17.Ba3 Nbc6 18.Bd6 Rxd6 19.exd6 Qxd6 20.Kc1 f4 21.Ne5 Nxe5 22.dxe5 Qxe5
+23.Ra3 Nc6 24.Re1 Qd6 25.Rc3 Qb4 26.Qd2 Qxa4 27.Qxf4 d4 28.Rb3 Qa1+ 29.Kd2 Qa5+
+30.Kd1 Qa1+ 31.Kd2 Qa5+ 32.Kd1  1/2-1/2
+
+[Event "Waddinxveen"]
+[Site "Waddinxveen"]
+[Date "1979.??.??"]
+[Round "1"]
+[White "Sosonko, Gennadi"]
+[Black "Karpov, Anatoly"]
+[Result "0-1"]
+[WhiteElo "2535"]
+[BlackElo "2705"]
+[ECO "E05"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O dxc4 7.Qc2 a6 8.Qxc4 b5
+9.Qc2 Bb7 10.Bd2 Be4 11.Qc1 b4 12.Bg5 h6 13.Bxf6 Bxf6 14.Nbd2 Bd5 15.Qc2 Nd7
+16.e4 Bb7 17.Rfd1 Be7 18.Nc4 c5 19.dxc5 Qc7 20.Rxd7 Qxd7 21.Nb6 Qb5 22.Nxa8 Rxa8
+23.Rc1 Rc8 24.Nd4 Qxc5 25.Qxc5 Bxc5 26.Nb3 Bb6 27.e5 Rxc1+ 28.Nxc1 Bc8 29.Be4 a5
+30.Kg2 Bd4 31.Nd3 f5 32.exf6 gxf6 33.g4 Kf8 34.b3 Ke7 35.Kg3 Kd6 36.Kf4 Bd7
+37.h3 Bb5 38.f3 Bd7 39.Kg3 f5 40.gxf5 exf5 41.Bb7 Bb5 42.Ne1 Bc3 43.Nc2  0-1
+
+[Event "Waddinxveen"]
+[Site "Waddinxveen"]
+[Date "1979.??.??"]
+[Round "2"]
+[White "Hort, Vlastimil"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2600"]
+[BlackElo "2705"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Qa5+ 12.Bd2 Qc7 13.O-O-O O-O-O 14.c4 Ngf6 15.Kb1 c5
+16.Bc3 cxd4 17.Nxd4 a6 18.Nf3 Be7 19.Qe2 Bd6 20.Ne4 Nxe4 21.Qxe4 Nf6 22.Qe2 Qc5
+23.Ne5 Bxe5  1/2-1/2
+
+[Event "Waddinxveen"]
+[Site "Waddinxveen"]
+[Date "1979.??.??"]
+[Round "2"]
+[White "Kavalek, Lubomir"]
+[Black "Sosonko, Gennadi"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2535"]
+[ECO "B70"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Bg7 7.O-O Nc6 8.Nb3 O-O
+9.Kh1 Be6 10.f4 Qc8 11.Bf3 Bg4 12.Nd5 Bxf3 13.Qxf3 b5 14.c3 b4 15.Bd2 Qb7
+16.Rae1 a5 17.Nxf6+ exf6 18.Nc1 Rfe8 19.Nd3 Qb5 20.f5 g5 21.h4  1/2-1/2
+
+[Event "Waddinxveen"]
+[Site "Waddinxveen"]
+[Date "1979.??.??"]
+[Round "3"]
+[White "Karpov, Anatoly"]
+[Black "Kavalek, Lubomir"]
+[Result "1-0"]
+[WhiteElo "2705"]
+[BlackElo "2590"]
+[ECO "B92"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O
+9.Bg5 Be6 10.f4 exf4 11.Bxf4 Nc6 12.Kh1 Re8 13.Qe1 Nd7 14.Rd1 Nde5 15.Nd5 Bf8
+16.Qf2 Nd7 17.Bg3 Nce5 18.Bh4 Qc8 19.c3 b5 20.Bg5 Qb7 21.Na5 Qc8 22.Qd4 Nc6
+23.Nxc6 Qxc6 24.c4 Bxd5 25.cxb5 axb5 26.Qxd5 Qxd5 27.Rxd5 Rxe4 28.Bxb5 Ne5
+29.a4 Rb4 30.Bc1 Be7 31.h3 Rb8 32.Rf4 Rb3 33.Rf2 Bh4 34.Rc2 Bg3 35.Bd2 h5
+36.Rc3 Rxc3 37.Bxc3 h4 38.Rxd6 Nc4 39.Rd5 Nd6 40.Bd3 Re8 41.a5 Ne4 42.Bxe4 Rxe4
+43.Kg1 Ra4 44.Kf1 f6 45.Ke2 Kf7 46.Rd7+ Kg6 47.b4 Be5 48.Bd2 Kf5 49.Rxg7  1-0
+
+[Event "Waddinxveen"]
+[Site "Waddinxveen"]
+[Date "1979.??.??"]
+[Round "3"]
+[White "Sosonko, Gennadi"]
+[Black "Hort, Vlastimil"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2600"]
+[ECO "D34"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 c5 5.cxd5 exd5 6.Bg2 Nc6 7.O-O Be7 8.Nc3 O-O
+9.Bg5 Be6 10.dxc5 Bxc5 11.Bxf6 Qxf6 12.Nxd5 Qxb2 13.Nc7 Rad8 14.Qc1 Qxc1
+15.Raxc1 b6 16.Nxe6 fxe6 17.Bh3 Rf6 18.Ng5 Nd4 19.Kg2 Rg6 20.e3 Rxg5 21.exd4 Rxd4  1/2-1/2
+
+[Event "Waddinxveen"]
+[Site "Waddinxveen"]
+[Date "1979.??.??"]
+[Round "4"]
+[White "Hort, Vlastimil"]
+[Black "Kavalek, Lubomir"]
+[Result "1/2-1/2"]
+[WhiteElo "2600"]
+[BlackElo "2590"]
+[ECO "A20"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 c6 4.d4 exd4 5.Qxd4 d5 6.Nf3 Be7 7.cxd5 cxd5 8.Bg2 Nc6
+9.Qa4 O-O 10.Be3 Ng4 11.Bd4 Nxd4 12.Nxd4 Nf6 13.O-O Bc5 14.Rad1 Qb6 15.Rd2 Bd7
+16.Qd1 Bxd4 17.Rxd4 Qxb2 18.Nxd5 Nxd5 19.Bxd5 Bh3 20.Rd2  1/2-1/2
+
+[Event "Waddinxveen"]
+[Site "Waddinxveen"]
+[Date "1979.??.??"]
+[Round "4"]
+[White "Karpov, Anatoly"]
+[Black "Sosonko, Gennadi"]
+[Result "1-0"]
+[WhiteElo "2705"]
+[BlackElo "2535"]
+[ECO "B63"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O
+9.Nb3 Qb6 10.Be3 Qc7 11.f3 a6 12.g4 b5 13.Kb1 Nd7 14.f4 Nb6 15.Qf2 Na4 16.Ne2 Bb7
+17.Bg2 Rac8 18.Nec1 b4 19.g5 Rfe8 20.h4 Na5 21.Nxa5 Qxa5 22.Nb3 Qc7 23.h5 a5
+24.Rhe1 Bf8 25.Bf3 Red8 26.g6 hxg6 27.hxg6 fxg6 28.Rg1 Nc5 29.Nxc5 dxc5 30.Rxd8 Rxd8
+31.Rxg6 Qf7 32.Rg1 c4 33.Rh1 Be7 34.Qh2 Kf8 35.Qe2 Kg8 36.Qxc4 Rc8 37.Qb5 Bd6
+38.Qg5 Qc7 39.Qg6 Qxc2+ 40.Ka1  1-0
+
+[Event "Waddinxveen"]
+[Site "Waddinxveen"]
+[Date "1979.??.??"]
+[Round "5"]
+[White "Kavalek, Lubomir"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2705"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 Ngf6 11.Bf4 Qa5+ 12.Bd2 Qc7 13.O-O-O e6 14.Qe2 c5 15.Kb1 O-O-O
+16.c4 Bd6 17.Ne4 Nxe4 18.Qxe4 Nf6 19.Qe2 Rhe8 20.Bc3 Re7 21.Ne5 cxd4 22.Bxd4 Bxe5
+23.Bxe5 Qa5 24.Rxd8+ Kxd8 25.f3 Rd7 26.g4 Ke7 27.Rh2 Ne8 28.a3 Qa4 29.Rh1 Qb3
+30.Bc3 Nd6 31.Rc1 Nxc4 32.Bb4+ Nd6 33.Rc3  1/2-1/2
+
+[Event "Waddinxveen"]
+[Site "Waddinxveen"]
+[Date "1979.??.??"]
+[Round "5"]
+[White "Hort, Vlastimil"]
+[Black "Sosonko, Gennadi"]
+[Result "1/2-1/2"]
+[WhiteElo "2600"]
+[BlackElo "2535"]
+[ECO "A28"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.e3 Bb4 5.Qc2 Bxc3 6.Qxc3 Qe7 7.a3 a5 8.Be2 O-O
+9.O-O d5 10.d3 Rd8 11.cxd5 Nxd5 12.Qc2 a4 13.Bd2 Be6 14.Rfe1 f6 15.d4 exd4
+16.Bd3 g6 17.Nxd4 Nxd4 18.exd4 Qd7 19.Bxg6 hxg6 20.Qxg6+ Kh8 21.Qh6+ Kg8
+22.Qg6+ Kh8  1/2-1/2
+
+[Event "Waddinxveen"]
+[Site "Waddinxveen"]
+[Date "1979.??.??"]
+[Round "6"]
+[White "Sosonko, Gennadi"]
+[Black "Kavalek, Lubomir"]
+[Result "0-1"]
+[WhiteElo "2535"]
+[BlackElo "2590"]
+[ECO "E97"]
+
+1.d4 g6 2.c4 Bg7 3.Nc3 d6 4.e4 Nf6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.b4 Nh5 10.g3 f5 11.Nd2 Nf6 12.c5 f4 13.Nc4 Bh3 14.Re1 Nc8 15.a4 h5 16.Qd3 Ng4
+17.Nd1 Nh6 18.Ra3 Bg4 19.Bf1 Ne7 20.h3 Bc8 21.Rb3 g5 22.Ba3 Nf7 23.b5 b6
+24.cxd6 cxd6 25.Bb4 Ng6 26.Ra3 g4 27.h4 a5 28.bxa6 Bxa6 29.Qb1 Nxh4 30.gxh4 Qxh4
+31.Nxd6 Ng5 32.Bxa6 f3 33.Bf1 Nh3+ 34.Bxh3 Qxh3 35.Ne3 g3  0-1
+
+[Event "Waddinxveen"]
+[Site "Waddinxveen"]
+[Date "1979.??.??"]
+[Round "6"]
+[White "Karpov, Anatoly"]
+[Black "Hort, Vlastimil"]
+[Result "1-0"]
+[WhiteElo "2705"]
+[BlackElo "2600"]
+[ECO "A30"]
+
+1.c4 Nf6 2.Nf3 e6 3.Nc3 c5 4.g3 b6 5.Bg2 Bb7 6.O-O d5 7.cxd5 Nxd5 8.d4 Nxc3
+9.bxc3 Nd7 10.Re1 cxd4 11.cxd4 Bb4 12.Bg5 f6 13.Bd2 Bxd2 14.Qxd2 Rc8 15.Qd3 Qe7
+16.Rac1 O-O 17.Ng5 fxg5 18.Bxb7 Nc5 19.dxc5 Qxb7 20.Qe3 Rxc5 21.Rxc5 bxc5
+22.Rc1 Qd5 23.Rxc5 Qxa2 24.Rxg5 Qb1+ 25.Kg2 Qb6 26.Re5 Qxe3 27.Rxe3 Re8 28.Ra3 Re7
+29.Ra5 Kf7 30.h4 h6 31.g4 Kf6 32.f4 Rb7 33.Kf3 Rc7 34.Ra6 g6 35.Ra5 Rd7 36.e3 Rb7
+37.h5 g5 38.Ra6 gxf4 39.exf4 Rb3+ 40.Kg2 Rb7 41.Kg3 Kf7 42.Ra4 Kg7 43.g5 Rc7
+44.Ra5 Kg8 45.Rb5 Kf7 46.Kg4 a6 47.Rb8 Rc1 48.g6+ Kg7 49.Rb7+ Kf8 50.Rb6 Rg1+
+51.Kf3 Rf1+ 52.Ke4 Re1+ 53.Kd4 Ke7 54.Rxa6 Kf6 55.Ra7 e5+ 56.fxe5+ Rxe5 57.Ra6+  1-0

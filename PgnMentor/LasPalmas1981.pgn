@@ -1,0 +1,562 @@
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "1"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Garcia Padron, J."]
+[Result "1-0"]
+[WhiteElo "2415"]
+[BlackElo "2370"]
+[ECO "B82"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nc6 6.Be3 Qc7 7.Nb3 Nf6 8.f4 d6
+9.Nc3 Be7 10.Qf3 O-O 11.O-O-O Nb4 12.Kb1 Nd7 13.g4 b5 14.Bd2 Nxd3 15.cxd3 Nc5
+16.Nc1 Bb7 17.d4 Nd7 18.Nd3 Qc4 19.Qe3 Bf6 20.Ne2 e5 21.fxe5 dxe5 22.d5 Qc7
+23.Rc1 Qb8 24.Ba5 Bd8 25.Bxd8 Rxd8 26.Ng3 Nf6 27.Nf5 Ne8 28.Rhf1 Qa7 29.Nxe5 Qxe3
+30.Ne7+  1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "1"]
+[White "Kortschnoj, Viktor"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[WhiteElo "2650"]
+[BlackElo "2620"]
+[ECO "E42"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 cxd4 6.exd4 Ne4 7.a3 Nxc3 8.Nxc3 Bxc3+
+9.bxc3 b6 10.Qf3 Nc6 11.d5 exd5 12.cxd5 Ne5 13.Qg3 O-O 14.Be2 d6 15.O-O Bb7
+16.Rd1 Rc8 17.a4 Qc7 18.Ba3 Rfe8 19.Bb5 Red8 20.Rac1 Qe7 21.Rd4 Rc7 22.Bf1 Qf6
+23.Re1 Re7 24.Re3 Ng6 25.Bc1 h6 26.Bd3 Re5 27.Bxg6 Qxg6 28.Qxg6 fxg6 29.c4 Rc8
+30.Ba3 Ba6 31.Bxd6 Rxe3 32.fxe3 Rxc4 33.Bb8 Rxd4 34.exd4 Bc8 35.Bxa7 Bd7
+36.Bxb6 Bxa4 37.Kf2 Bb3 38.d6 Ba4 39.g4 Kf7 40.d5 Bd7 41.Kf3 g5  1/2-1/2
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "1"]
+[White "Larsen, Bent"]
+[Black "Seirawan, Yasser"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2555"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c3 Nc6 5.Bf4 Bf5 6.Bd3 Bg6 7.Nf3 e6 8.O-O Bd6
+9.Bxd6 Qxd6 10.Bxg6 hxg6 11.Nbd2 Nf6 12.Qe2 Qf4 13.Rfe1 a6 14.a4 g5 15.Qe3 Ke7
+16.a5 Rh5 17.Nf1 Ne4 18.c4 Rd8 19.cxd5 exd5 20.Ng3 Qxe3 21.Rxe3 Rhh8 22.Nxg5 Nxd4
+23.N3xe4 dxe4 24.Rxe4+ Kf6 25.h4 Kg6 26.Ra4 Nc6 27.Rg4 Rd1+ 28.Kh2 f6 29.Nf3+ Kh7
+30.Rac4 Re8 31.b4 Rb1 32.Rgf4 Re7 33.g3 Rd7 34.Kg2 Rd3 35.g4 Ra3 36.g5 fxg5
+37.Nxg5+ Kg6 38.Ne6 Raa1 39.Nf8+ Kh6 40.Rfe4 Rg1+ 41.Kh2 Rh1+ 42.Kg3 Rag1+
+43.Kf3 Re1 44.Nd7 Rxe4 45.Rxe4 Rb1 46.Nc5 Rxb4 47.Nxb7 Kh5 48.Rxb4 Nxb4 49.Kg3 Nc6
+50.Kh3 Ne5 51.Nc5 Nc4 52.Nb3 Nd6 53.Kg3 Nb7 54.f3 g6 55.Kh3 Nd6 56.Nc5 Nc4
+57.Nb7 Ne5 58.f4 Nc6  1/2-1/2
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "2"]
+[White "Kortschnoj, Viktor"]
+[Black "Larsen, Bent"]
+[Result "0-1"]
+[WhiteElo "2650"]
+[BlackElo "2610"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 a5 5.Qc2 Bxd2+ 6.Nbxd2 d6 7.e4 Nc6 8.e5 dxe5
+9.dxe5 Nd7 10.Qc3 Qe7 11.a3 a4 12.Bd3 Nc5 13.Bc2 f5 14.exf6 Qxf6 15.Ne4 Nxe4
+16.Bxe4 Qxc3+ 17.bxc3 Na5 18.Ne5 Nb3 19.Rd1 Ra5 20.f4 Nc5 21.Bf3 Nd7 22.Nxd7 Bxd7
+23.Kf2 Ke7 24.Rd4 Rf8 25.Rhd1 Bc8 26.h4 Rc5 27.g4 b6 28.Kg3 h6 29.Re1 Re8
+30.g5 hxg5 31.hxg5 Rh8 32.Bg4 Kf7 33.Bd1 e5 34.fxe5 Rh3+ 35.Kf4 Be6 36.Bf3 Rxc4
+37.Rxc4 Rh4+ 38.Ke3 Rxc4 39.Kd3 Rh4 40.Be4 Rh3+ 41.Kd2 Rh2+ 42.Re2 Rh4 43.Bc2 Bd5
+44.Bf5 Ke7 45.Rf2 b5 46.Bd3 c6 47.g6 Rh5 48.Rf4 Rxe5 49.c4 bxc4 50.Bxc4 Re4
+51.Rxe4+ Bxe4 52.Be2 Bxg6 53.Bd1 Kd6 54.Bxa4 Bf5 55.Bd1 g5 56.Ke3 Kc5 57.Be2 Kb6
+58.Kd4 Bd7 59.Ke5 c5 60.Ke4 g4 61.Bc4 Ka5 62.Bd3 Be6  0-1
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "2"]
+[White "Seirawan, Yasser"]
+[Black "Bellon Lopez, Juan Manuel"]
+[Result "1-0"]
+[WhiteElo "2555"]
+[BlackElo "2415"]
+[ECO "D45"]
+
+1.c4 e6 2.Nc3 d5 3.d4 c6 4.e3 Nf6 5.Nf3 Nbd7 6.Qc2 Bd6 7.e4 dxe4 8.Nxe4 Nxe4
+9.Qxe4 e5 10.dxe5 Qe7 11.Bf4 Bb4+ 12.Bd2 Bxd2+ 13.Kxd2 Nc5 14.Qh4 g5 15.Qh6 Bf5
+16.Re1 Qd8+ 17.Qd6 Qa5+ 18.Ke3 Ne4 19.Qa3 Qb6+ 20.c5 Nxc5 21.Rd1 Ne6+ 22.Ke2 g4
+23.Nh4 Bc2 24.Rd6 Rd8 25.Ke1 Rxd6 26.exd6 Kd7 27.Be2 Nd4 28.Bxg4+ f5 29.Bh5 Be4
+30.Qc3 Rf8 31.Kd2 Rf6 32.Rd1 Rh6 33.Nf3 Rxd6 34.Ne5+ Ke6 35.Kc1 Kxe5 36.f3 Rd5
+37.b4 Qa6 38.fxe4 Qxa2 39.exd5  1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "2"]
+[White "Timman, Jan H"]
+[Black "Garcia Padron, J."]
+[Result "1-0"]
+[WhiteElo "2620"]
+[BlackElo "2370"]
+[ECO "C95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1 Bf8 14.Bg5 h6 15.Bh4 c5
+16.dxc5 dxc5 17.N3h2 Qc7 18.Qf3 Be7 19.Ne3 g6 20.Rad1 Rad8 21.Re2 Kg7 22.Red2 Nf8
+23.Nhg4 N8h7 24.Bg3 Ng5 25.Qe2 Rxd2 26.Rxd2 Nxg4 27.Nxg4 f6 28.h4 Ne6 29.h5 g5
+30.Ne3 Rd8 31.Nd5 Bxd5 32.exd5 Nf8 33.c4 Qb7 34.Bd3 Rb8 35.f3 Bd6 36.cxb5 axb5
+37.b3 Qf7 38.Bxb5 Qxh5 39.a4 Qf7 40.Qe4 Qc7 41.Rc2 Qe7 42.Bf2 h5 43.Rc3 h4
+44.Be3 Ng6 45.Bd3 Nf8 46.a5 Rb4 47.Bc4 Qd7 48.a6 Ng6 49.Qg4 Qc7 50.Rc1 Rb8
+51.Ra1 Nf8 52.Bd3 Qa7 53.b4 Qf7 54.bxc5 Qa7 55.Rc1 Nd7 56.Qe4 Bxc5 57.Qh7+  1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "3"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Kortschnoj, Viktor"]
+[Result "0-1"]
+[WhiteElo "2415"]
+[BlackElo "2650"]
+[ECO "B82"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.f4 Nc6 7.Be3 e5 8.Nxc6 bxc6
+9.Be2 Qc7 10.O-O Be7 11.Kh1 Be6 12.Qe1 O-O 13.Qg3 Kh8 14.b3 Qa5 15.Bd2 exf4
+16.Bxf4 Nd7 17.Na4 Ne5 18.Rad1 Rad8 19.Rd4 f6 20.Rfd1 Bf7 21.Nc3 Rfe8 22.Ra4 Qc7
+23.Ra6 Bf8 24.Be3 Ra8 25.Rd4 Qb7 26.Rda4 c5 27.Nb5 c4 28.Nc3 Nc6 29.Qf2 Rac8
+30.Bxa7 cxb3 31.axb3 d5 32.exd5 Nb4 33.Rb6 Qc7 34.d6 Bxd6 35.Nb5 Qxc2 36.Nxd6 Qxe2
+37.Nxf7+ Kg8 38.Qg1 Rc1 39.Nh6+ gxh6 40.Qxc1 Qe1+  0-1
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "3"]
+[White "Garcia Padron, J."]
+[Black "Seirawan, Yasser"]
+[Result "1/2-1/2"]
+[WhiteElo "2370"]
+[BlackElo "2555"]
+[ECO "E16"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Nbd2 Bb7 6.Bg2 Be7 7.O-O O-O 8.Qc2 c5
+9.b3 cxd4 10.Nxd4 Bxg2 11.Kxg2 Qc7 12.Bb2 a6 13.Rfd1 d6 14.f3 Qb7 15.e4 Nbd7
+16.Qd3 Rfe8 17.Nf1 Bf8 18.Ne3 d5 19.exd5 exd5 20.Nxd5 Nxd5 21.cxd5 Qxd5 22.Rac1 Ne5
+23.Qe4 Qxe4 24.fxe4 Rad8 25.h3 g6 26.Rc2 Rd7 27.Rdd2 Bg7 28.Nf3 Nd3 29.Bxg7 Kxg7
+30.Rc6 Rxe4 31.Rxb6 Re3 32.Rxa6 Ne1+ 33.Kf2 Rxf3+ 34.Kxe1 Re7+ 35.Re2 Rxe2+
+36.Kxe2 Rxg3 37.b4 Rxh3 38.b5 h5 39.b6 Rh2+ 40.Kd3 Rb2 41.Kc3  1/2-1/2
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "3"]
+[White "Larsen, Bent"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2620"]
+[ECO "B66"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 a6 8.O-O-O h6
+9.Be3 Nxd4 10.Bxd4 b5 11.Bd3 Bb7 12.f4 Be7 13.Kb1 O-O 14.Qe2 b4 15.Na4 Nd7
+16.e5 dxe5 17.fxe5 Qc7 18.Rhf1 Qc6 19.b3 Qxg2 20.Rf2 Qg5 21.Rdf1 Rac8 22.Rf4 Qg2
+23.Bxa6 Qxe2 24.Bxe2 g5 25.R4f2 Be4 26.Bh5 Bf5 27.Kb2 f6 28.Rxf5 exf5 29.e6 Ne5
+30.Nb6 Rc6 31.Nd5 Rxe6 32.Nxe7+ Rxe7 33.Bc5 Rc7 34.Bxf8 Kxf8 35.Rxf5 Ke7
+36.Rf2 Ke6 37.Rd2 f5 38.Rd4 Rb7 39.c3 g4 40.cxb4 Nf3 41.Rd8 Nxh2 42.Rg8 Ke5
+43.a4 f4 44.Bxg4 Nxg4 45.Rxg4 f3 46.Rg1 Rxb4 47.Kc3 Re4 48.a5 Kf4 49.a6 f2
+50.Rg8 Re5  1/2-1/2
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "4"]
+[White "Kortschnoj, Viktor"]
+[Black "Garcia Padron, J."]
+[Result "1-0"]
+[WhiteElo "2650"]
+[BlackElo "2370"]
+[ECO "A65"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 c5 4.d5 exd5 5.cxd5 d6 6.e4 g6 7.f3 Bg7 8.Bg5 O-O
+9.Qd2 Re8 10.Nge2 Na6 11.Ng3 Nc7 12.Be2 Qe7 13.O-O a6 14.Rae1 b5 15.Bd1 Qd7
+16.Qf4 Qe7 17.Qd2 Qd7 18.Bh6 Bb7 19.Bc2 Rf8 20.Qf4 Bxh6 21.Qxh6 Kh8 22.Nd1 Ng8
+23.Qf4 Ne8 24.Qd2 Nc7 25.Ne3 Rae8 26.a3 Qe7 27.f4 f6 28.b4 c4 29.Qd4 Bc8
+30.Nd1 Qg7 31.Nc3 Nh6 32.Qd2 Rf7 33.Nge2 f5 34.Nd4 Bd7 35.Nf3 fxe4 36.Nxe4 Rfe7
+37.Nxd6 Rxe1 38.Nxe1 Rd8 39.Nb7 Rb8 40.Nc5 Bf5 41.Bxf5 Nxf5 42.d6 Na8  1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "4"]
+[White "Larsen, Bent"]
+[Black "Bellon Lopez, Juan Manuel"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2415"]
+[ECO "D30"]
+
+1.c4 e6 2.Nf3 d5 3.d4 c6 4.e3 Nf6 5.Be2 Nbd7 6.O-O Bd6 7.Nbd2 O-O 8.b3 Re8
+9.Bb2 Qe7 10.Ne5 Ba3 11.Bxa3 Qxa3 12.f4 c5 13.Bf3 cxd4 14.exd4 Qb2 15.Qe2 Qxd4+
+16.Kh1 Nxe5 17.fxe5 Nd7 18.Rad1 Qxe5 19.Qf2 Rf8 20.cxd5 exd5 21.Rfe1 Qf4
+22.Re7 Ne5 23.Qg3 Qxg3 24.hxg3 Be6 25.Rxb7 Rfc8 26.Re1 Nd3 27.Re3 Rc1+ 28.Kh2 Nf2
+29.g4 Rc2 30.Re2 Nd3 31.a4 Nf4 32.Rf2 Nd3 33.Re2 Nf4 34.Rf2 g5 35.Kg3 Nd3
+36.Re2 Nf4 37.Rf2 Nd3 38.Re2 Nf4 39.Rf2  1/2-1/2
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "4"]
+[White "Timman, Jan H"]
+[Black "Seirawan, Yasser"]
+[Result "1-0"]
+[WhiteElo "2620"]
+[BlackElo "2555"]
+[ECO "B08"]
+
+1.d4 d6 2.e4 g6 3.Nf3 Nf6 4.Nc3 Bg7 5.Be2 O-O 6.O-O Bg4 7.Be3 Nc6 8.Qd2 e5
+9.d5 Ne7 10.Rad1 Nd7 11.Ng5 Bxe2 12.Nxe2 h6 13.Nh3 Kh7 14.b3 f5 15.exf5 Nxf5
+16.f3 Nf6 17.Ng3 Nxe3 18.Qxe3 c6 19.c4 cxd5 20.cxd5 Qa5 21.Qd2 Qxd2 22.Rxd2 Rac8
+23.Nf2 Rf7 24.Nfe4 Ne8 25.Kf2 Bf6 26.Ke3 Bh4 27.Kd3 Kg7 28.Ne2 Rfc7 29.f4 Rf7
+30.Rdd1 exf4 31.Nxf4 Bf6 32.Ne6+ Kg8 33.Rc1 Rb8 34.Nxf6+ Nxf6 35.Kd4 b5 36.Rc6 Ne8
+37.Rxf7 Kxf7 38.Ra6 Rc8 39.Rxa7+ Kf6 40.a4 bxa4 41.bxa4 Rc2 42.Ra8 Kf7 43.Nd8+ Kf6
+44.Nc6 Nc7 45.Rc8 Na6 46.Rd8 Rd2+ 47.Kc4 Rc2+ 48.Kd3 Rxg2 49.Rxd6+ Kg7 50.Rd7+ Kf6
+51.Kc4 Rb2 52.Ra7 Nb8 53.Nb4 Kf5 54.Rb7 Na6 55.Rf7+  1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "5"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Timman, Jan H"]
+[Result "0-1"]
+[WhiteElo "2415"]
+[BlackElo "2620"]
+[ECO "B07"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.g3 Bg7 5.Bg2 O-O 6.Nge2 Nbd7 7.h3 c5 8.O-O a6
+9.e5 dxe5 10.dxe5 Nxe5 11.Qxd8 Rxd8 12.Be3 Nfd7 13.b3 Nc6 14.Rad1 e5 15.Bxc6 bxc6
+16.Ne4 c4 17.Rd2 Rf8 18.N2c3 cxb3 19.cxb3 f5 20.Nd6 Nf6 21.Nc4 Be6 22.Rd6 Rfe8
+23.Nb6 Rad8 24.Rxc6 f4 25.gxf4 Bxh3 26.fxe5 Ng4 27.Nbd5 Nxe5 28.Nf6+ Bxf6
+29.Rxf6 Bxf1 30.Kxf1 Ng4 31.Rxa6 Nxe3+ 32.fxe3 Rxe3 33.Rc6 Rdd3 34.Ne2 Rd2
+35.Nc1 Rh3 36.Kg1 Rhh2 37.Rc8+ Kg7 38.Rc7+ Kh6 39.a4 Rdg2+ 40.Kf1 Rb2  0-1
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "5"]
+[White "Garcia Padron, J."]
+[Black "Larsen, Bent"]
+[Result "0-1"]
+[WhiteElo "2370"]
+[BlackElo "2610"]
+[ECO "A36"]
+
+1.c4 g6 2.Nc3 c5 3.g3 Bg7 4.Bg2 d6 5.e4 Nc6 6.d3 Nf6 7.Nge2 O-O 8.O-O Bd7
+9.h3 Ne8 10.f4 a6 11.Be3 b5 12.Qd2 Nc7 13.Rae1 Ne6 14.b3 Ned4 15.g4 b4 16.Nd1 a5
+17.Nb2 Nxe2+ 18.Qxe2 Nd4 19.Qd2 Bc6 20.f5 Qd7 21.Bh6 Rae8 22.Bxg7 Kxg7 23.e5 Bxg2
+24.Qxg2 gxf5 25.gxf5+ Kh8 26.Qe4 Rg8+ 27.Kh2 dxe5 28.Qxe5+ f6 29.Qxc5 e6
+30.Re4 Nxf5 31.Rg4 Rxg4 32.hxg4 Qg7 33.Rg1 Rg8 34.Rg2 Qh6+ 35.Kg1 Qc1+ 36.Kh2 Qf4+
+37.Kg1 Ne3  0-1
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "5"]
+[White "Seirawan, Yasser"]
+[Black "Kortschnoj, Viktor"]
+[Result "1-0"]
+[WhiteElo "2555"]
+[BlackElo "2650"]
+[ECO "B81"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.g4 h6 7.g5 hxg5 8.Bxg5 Nc6
+9.Qd2 a6 10.O-O-O Bd7 11.f4 Qc7 12.f5 Ne5 13.h4 O-O-O 14.Bh3 Re8 15.Qf2 Kb8
+16.Kb1 Bc8 17.Rhg1 Nh5 18.a4 g6 19.f6 Bd7 20.Nb3 Bh6 21.Bf1 Rc8 22.Be2 Bxg5
+23.hxg5 Bxa4 24.Nxa4 Qxc2+ 25.Ka2 Rc4 26.Rd4 Nd3 27.Rxc4 Qxc4 28.Qd4 Nb4+
+29.Kb1 Qc2+ 30.Ka1 Qxb3 31.Qxd6+ Ka8 32.Nc3 Rc8 33.Bd1 Nc2+ 34.Bxc2 Qxc2
+35.Rd1 e5 36.Rd5 Nf4 37.Rc5 Rxc5 38.Qf8+ Ka7 39.Qxc5+ Ka8 40.Qc8+ Ka7  1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "6"]
+[White "Timman, Jan H"]
+[Black "Kortschnoj, Viktor"]
+[Result "1-0"]
+[WhiteElo "2620"]
+[BlackElo "2650"]
+[ECO "E16"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 a5 5.g3 b6 6.Bg2 Bb7 7.O-O O-O 8.Bf4 Be7
+9.Nc3 Ne4 10.Qc2 Nxc3 11.Qxc3 d6 12.Qd3 f5 13.Qe3 Qd7 14.Bg5 Re8 15.Rad1 Bf8
+16.Qc3 Be4 17.d5 exd5 18.cxd5 Qf7 19.Be3 h6 20.a3 a4 21.Nh4 Ra5 22.Bxe4 Rxe4
+23.f3 Re5 24.Bd4 Rxe2 25.Qd3 Re8 26.Bc3 Ra8 27.Nxf5 Nd7 28.g4 g6 29.Nh4 Kh7
+30.f4 Nc5 31.Qf3 Re4 32.f5 g5 33.Ng2 Rae8 34.Rfe1 Kg8 35.h4 Bg7 36.f6 gxh4
+37.Rf1 Bf8 38.Nxh4 Re3 39.Qg2 Ne4 40.Nf5 Nxc3 41.Nxe3 Nxd1 42.Nxd1 Re5 43.Nc3 Qg6
+44.f7+ Kh7 45.Ne2 h5 46.Nf4 Qxg4 47.Qxg4 hxg4 48.Ne6 Be7 49.f8=Q Bxf8 50.Rf7+ Kg6
+51.Rxf8 Re1+ 52.Kg2 Rc1 53.Rf2 c6 54.dxc6 Rxc6 55.Kg3 Rc4 56.Rf4 Rxf4 57.Nxf4+ Kf5
+58.Nd5 b5 59.Nc3 d5 60.Nxb5  1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "6"]
+[White "Garcia Padron, J."]
+[Black "Bellon Lopez, Juan Manuel"]
+[Result "1-0"]
+[WhiteElo "2370"]
+[BlackElo "2415"]
+[ECO "D45"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.e4 dxe4 8.Nxe4 Nxe4
+9.Qxe4 e5 10.dxe5 Qe7 11.Bf4 Bb4+ 12.Bd2 Bxd2+ 13.Nxd2 Nxe5 14.f4 Ng6 15.Qxe7+ Kxe7
+16.g3 Rd8 17.O-O-O Kf8 18.Bg2 Rd4 19.b3 Bg4 20.Nf3 Bxf3 21.Bxf3 Rad8 22.Rxd4 Rxd4
+23.Kc2 Ne7 24.Kc3 Rd8 25.b4 Nf5 26.Re1 Re8 27.Rxe8+ Kxe8 28.c5 Kd8 29.Be4 Ne3
+30.h3 h5 31.Kd4 Nf1 32.g4 Ng3 33.Bf3 f6 34.gxh5 Nf5+ 35.Kd3 Kc7 36.Bg4 Ne7
+37.Be6 b6 38.Kc4 b5+ 39.Kd4 Kb7 40.a3 a5 41.Ke4 axb4 42.axb4 Kc7 43.Kf3 Kd8
+44.Kg4 Ke8 45.h6 gxh6 46.Kh5 Kf8 47.Kxh6 Ke8 48.f5 Kd8 49.h4  1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "6"]
+[White "Seirawan, Yasser"]
+[Black "Larsen, Bent"]
+[Result "1/2-1/2"]
+[WhiteElo "2555"]
+[BlackElo "2610"]
+[ECO "D12"]
+
+1.Nf3 d5 2.d4 Bf5 3.c4 e6 4.Nc3 c6 5.e3 Nf6 6.Bd3 Bg6 7.O-O Nbd7 8.Qe2 Bb4
+9.Bd2 a5 10.Bxg6 hxg6 11.cxd5 exd5 12.e4 dxe4 13.Nxe4 O-O 14.Neg5 Re8 15.Qd3 Bxd2
+16.Qxd2 Nd5 17.Rfe1 Rxe1+ 18.Rxe1 Nf8 19.a3 Qc7 20.h4 Rd8 21.g3 Ne7 22.Qd3 f6
+23.Ne4 Nd5 24.Nc5 Qc8 25.Qb3 b6 26.Ne4 Qf5 27.Ned2 Ne6 28.Qc4 Rc8 29.a4 Kh7
+30.Re4 Nd8 31.Qd3 Nf7 32.h5 g5 33.Nh2 Nh6 34.Nc4 Rd8 35.g4 Nf4 36.Qf3 Qc8
+37.b3 Qc7 38.Nf1 b5 39.Nce3 Qb6 40.Ng3 bxa4 41.bxa4 Qb1+ 42.Kh2 Rb8 43.Re7 Rb3
+44.Ne4 Ng8 45.Nd2 Qd3 46.Rxg7+ Kxg7 47.Nxb3 Ne7 48.Nf5+ Nxf5 49.Qxd3 Nxd3
+50.gxf5 Nb2 51.Nxa5 Nxa4 52.Nxc6 Nc3 53.Ne7 Ne4 54.Nc8 Nxf2 55.d5 Ng4+ 56.Kh3 Ne5
+57.Ne7 Nf7 58.Nc6 Kf8 59.Kg3 Nh6 60.Nd4 Nf7 61.Nc2 Ke7 62.Kf3 Kd6 63.Ke4 Kc5
+64.Ne3 Nd6+ 65.Kd3 Nf7 66.Ke4  1/2-1/2
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "7"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Seirawan, Yasser"]
+[Result "0-1"]
+[WhiteElo "2415"]
+[BlackElo "2555"]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nh3 Nf6 8.Nf4 Bh7
+9.Bc4 e6 10.O-O Bd6 11.Ngh5 O-O 12.Re1 Re8 13.c3 Nbd7 14.Bd2 e5 15.Qb3 Rf8
+16.dxe5 Nxe5 17.Rad1 Nxh5 18.Nxh5 Qxh4 19.Bf4 Nxc4 20.Qxc4 Bb8 21.Qb4 c5
+22.Qxc5 Bxf4 23.g3 Bxg3 24.Nxg3 Rae8 25.Qxa7 f5 26.Qc5 Bg6 27.Qd5+ Kh7 28.Rxe8 Bxe8
+29.Qh1 Qg4 30.Rd4 f4 31.Kf1 Bc6 32.Qh5 Qe6 33.Ne2 g6 34.Qc5 Re8 35.Qc4 Qf5
+36.Qd3 Bb5 37.Qxf5 Bxe2+ 38.Kg2 gxf5 39.Rd7+ Kg6 40.Rxb7 f3+ 41.Kh3 Re4 42.b3 Bf1+
+43.Kh2 Rh4+ 44.Kg3 Rg4+ 45.Kh2 f4  0-1
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "7"]
+[White "Garcia Padron, J."]
+[Black "Timman, Jan H"]
+[Result "0-1"]
+[WhiteElo "2370"]
+[BlackElo "2620"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nb6 6.Nf3 Nc6 7.O-O Be7 8.d3 O-O
+9.Be3 f5 10.Rc1 Kh8 11.Na4 f4 12.Bc5 e4 13.Bxe7 Nxe7 14.Ng5 Nxa4 15.Qxa4 exd3
+16.Rfd1 Ng6 17.Qa5 Bf5 18.Nf3 c6 19.Qc3 fxg3 20.hxg3 Qf6 21.Qxf6 Rxf6 22.Nd4 dxe2
+23.Nxe2 Ne5 24.Rc3 Raf8 25.Rd2 h6 26.b3 Bg4 27.f4 Ng6 28.Bf3 Ne5 29.Bg2 Nd7
+30.Bf3 Bxf3 31.Rxf3 R6f7 32.Re3 Nf6 33.Nc3 Kg8 34.Kg2 Rc8 35.Re6 Kf8 36.Ne4 Nxe4
+37.Rxe4 Re8 38.Kf3 Rxe4 39.Kxe4 Re7+ 40.Kf3 Ke8 41.f5 Rd7 42.Re2+ Kf7 43.g4 c5
+44.Rc2 b6 45.Re2 b5 46.Re5 Rc7 47.Ke2 Re7  0-1
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "7"]
+[White "Larsen, Bent"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "2610"]
+[BlackElo "2650"]
+[ECO "C08"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Bb5+ Bd7 6.Bxd7+ Nxd7 7.Ne2 Ngf6 8.O-O Bd6
+9.dxc5 Nxc5 10.Nf3 O-O 11.Be3 Re8 12.c3 Qd7 13.Bd4 Nfe4 14.Qc2 Rac8 15.Rad1 a6
+16.Bxc5 Bxc5 17.Nf4 d4 18.Ne2 d3 19.Rxd3 Qe6 20.Ng3 Nxg3 21.hxg3 Qxa2 22.Rd7 h6
+23.Rxb7 Qd5 24.Qb3 Qxb3 25.Rxb3 Re2 26.Rb7 a5 27.g4 a4 28.g5 hxg5 29.Nxg5 a3
+30.bxa3 Bxa3 31.Rd1 f6 32.Kf1 Rb2 33.Rxb2 Bxb2 34.Ne4 f5 35.Ng3 Rxc3 36.Nxf5 Rc1
+37.Rxc1 Bxc1 38.Ke2 Kf7 39.Kf3 Bb2 40.Kg4 Kf6 41.Nd6 Ke6 42.Ne4 Ke5 43.Nd2 Kf6
+44.Nc4 Bd4 45.f3 Ba1 46.Kh5 Kf5 47.g3 Kf6 48.g4 Bc3 49.f4 Bb4 50.f5 Bc5 51.Nd2 Bd4
+52.Ne4+ Ke5 53.Ng5 Kf6 54.Nh7+ Kf7 55.g5 Ba1 56.g6+ Ke7 57.Kg4 Bb2 58.Ng5 Kf6
+59.Ne4+ Ke5 60.Ng3 Bc1 61.Ne2 Be3 62.Nc3 Bb6 63.Nb1 Ba5 64.Na3 Bc3 65.Nb5 Bb2
+66.Nc7 Kd6 67.Ne6 Ke7 68.Kf4 Kf6 69.Ke4 Ba1 70.Nf4 Kg5 71.Nd3 Kg4 72.Ne5+ Kg5
+73.Nc4 Kg4  1/2-1/2
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "8"]
+[White "Kortschnoj, Viktor"]
+[Black "Bellon Lopez, Juan Manuel"]
+[Result "1-0"]
+[WhiteElo "2650"]
+[BlackElo "2415"]
+[ECO "D44"]
+
+1.d4 c6 2.c4 d5 3.Nf3 Nf6 4.Nc3 e6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5 hxg5
+10.Bxg5 Nbd7 11.g3 Rg8 12.Bxf6 Nxf6 13.exf6 Bb7 14.Bg2 Qb6 15.O-O O-O-O 16.Qh5 Rg6
+17.Ne4 Rxd4 18.Qh7 Qc7 19.h4 c5 20.Rfe1 Rd8 21.Rad1 Bd5 22.Nc3 Bxg2 23.Kxg2 Qb7+
+24.Kh3 Re8 25.Ne4 Kb8 26.Qh5 e5 27.Qf5  1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "8"]
+[White "Seirawan, Yasser"]
+[Black "Garcia Padron, J."]
+[Result "1-0"]
+[WhiteElo "2555"]
+[BlackElo "2370"]
+[ECO "D58"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Be7 4.Nf3 Nf6 5.Bg5 O-O 6.e3 h6 7.Bh4 b6 8.Bd3 Bb7
+9.O-O Nbd7 10.Qe2 dxc4 11.Bxc4 Ne4 12.Bg3 Nxg3 13.hxg3 c5 14.Rfd1 Bxf3 15.gxf3 cxd4
+16.exd4 Bd6 17.Ba6 Nf6 18.Rac1 Qe7 19.Ne4 Rad8 20.Rc6 Nd5 21.a3 Bb8 22.f4 Rd7
+23.Nd2 Nc7 24.Nf3 Nxa6 25.Qxa6 Rfd8 26.Rdc1 g6 27.Rc8 Kg7 28.Qe2 Rd5 29.Qa6 R5d7
+30.R1c6 Rd5 31.b4 g5 32.fxg5 hxg5 33.Qe2 Rxc8 34.Rxc8 Qb7 35.Rc1 Rf5 36.Nh2 Qd5
+37.Rc8 Qb7 38.Re8 Qc7 39.Qh5 Qc1+ 40.Nf1 Rxf2 41.Kxf2  1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "8"]
+[White "Timman, Jan H"]
+[Black "Larsen, Bent"]
+[Result "1-0"]
+[WhiteElo "2620"]
+[BlackElo "2610"]
+[ECO "E12"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.a3 c5 5.d5 Ba6 6.Qc2 exd5 7.cxd5 g6 8.Nc3 Bg7
+9.g3 O-O 10.Bg2 d6 11.O-O Nbd7 12.h3 Ne8 13.a4 Ne5 14.Nxe5 Bxe5 15.Re1 Bg7
+16.e4 Bd4 17.Be3 Ng7 18.Bxd4 cxd4 19.Na2 f5 20.Nb4 Bb7 21.exf5 Nxf5 22.Nc6 Qf6
+23.Qd2 Rae8 24.b4 d3 25.Rad1 Nd4 26.Rxe8 Rxe8 27.Qxd3 Ne2+ 28.Kh2 Nc3 29.Rd2 Nxa4
+30.Nxa7 Qe5 31.Rc2 Ra8 32.Nc6 Qf6 33.Qe3 Kg7 34.Rc4 g5 35.Re4  1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "9"]
+[White "Seirawan, Yasser"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[WhiteElo "2555"]
+[BlackElo "2620"]
+[ECO "A30"]
+
+1.Nf3 Nf6 2.c4 b6 3.g3 Bb7 4.Bg2 e6 5.O-O Be7 6.Nc3 O-O 7.Re1 d5 8.cxd5 Nxd5
+9.e4 Nxc3 10.bxc3 c5 11.d4 cxd4 12.cxd4 Nc6 13.Bb2 Bf6 14.Rb1 Re8 15.h4 h6
+16.d5 exd5 17.e5 Be7 18.e6 Rf8 19.Nh2 d4 20.Ng4 Bc5 21.Rc1 Rb8 22.Bxc6 Bxc6
+23.e7 Qd5 24.exf8=Q+ Kxf8 25.f3 d3+ 26.Re3 d2 27.Rc2 Qxf3 28.Qxf3 Bxf3 29.Rxd2 Bxg4
+30.Ba3 Bxa3 31.Rxa3 Rb7 32.Rd8+ Ke7 33.Ra8 a5 34.Rb3 Be6 35.Rb2 Rc7 36.Kf2 Rc3
+37.Ra7+  1/2-1/2
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "9"]
+[White "Bellon Lopez, Juan Manuel"]
+[Black "Larsen, Bent"]
+[Result "0-1"]
+[WhiteElo "2415"]
+[BlackElo "2610"]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 Bb4 5.Nxe5 Qe7 6.Qd3 Nxe5 7.dxe5 Qxe5 8.Bd2 O-O
+9.O-O-O d6 10.Re1 Re8 11.f4 Qe7 12.g4 Nxg4 13.Rg1 c6 14.Be2 Nf6 15.Bd1 a5
+16.e5 dxe5 17.fxe5 Nd5 18.Bg5 Qe6 19.Bf6 g6 20.Bg4 Qxg4 21.Rxg4 Bxg4 22.Nxd5 cxd5
+23.Rg1 Be6 24.h4 Rec8 25.h5 Rc4 26.a3 Bc5 27.Qd2 Rc8 28.c3 Bxg1 29.Qh6 Be3+
+30.Qxe3 Rg4 31.hxg6 Rxg6 32.Qb6 a4 33.Kd2 Rg4 34.Qxb7 h5 35.Qb6 d4 36.cxd4 h4
+37.d5 Bxd5 38.Qe3 Rg2+ 39.Ke1 h3  0-1
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "9"]
+[White "Garcia Padron, J."]
+[Black "Kortschnoj, Viktor"]
+[Result "0-1"]
+[WhiteElo "2370"]
+[BlackElo "2650"]
+[ECO "D03"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.c3 d5 5.e3 Nbd7 6.Nbd2 Be7 7.Bd3 b6 8.O-O Bb7
+9.Ne5 Nxe5 10.dxe5 Nd7 11.Bxe7 Qxe7 12.f4 O-O-O 13.a4 f6 14.exf6 gxf6 15.a5 c4
+16.Bc2 b5 17.a6 Bc6 18.b4 Nb6 19.Qe2 Kb8 20.Nf3 e5 21.Nh4 Rhe8 22.Nf5 Qc7
+23.Qf2 Rg8 24.Nh6 Rg7 25.Nf5 Rg6 26.Nh4 Rgg8 27.fxe5 fxe5 28.Qf6 d4 29.exd4 exd4
+30.cxd4 Nd5 31.Qh6 Nxb4 32.Bf5 Rxd4 33.Rf2 Qg7 34.Qxg7 Rxg7 35.Nf3 Rf4 36.Ne5 Rxf2
+37.Nxc6+ Nxc6 38.Kxf2 Rf7 39.g4 Nd4 40.Rb1 Kc7 41.Ke3 Nxf5+ 42.gxf5 Rxf5  0-1
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "10"]
+[White "Kortschnoj, Viktor"]
+[Black "Seirawan, Yasser"]
+[Result "1-0"]
+[WhiteElo "2650"]
+[BlackElo "2555"]
+[ECO "D37"]
+
+1.d4 e6 2.c4 d5 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.Bf4 Nf6 7.e3 Be7 8.Be2 O-O
+9.dxc5 Bxc5 10.O-O Be6 11.Rc1 Rc8 12.a3 Bd6 13.Bxd6 Qxd6 14.Qa4 a6 15.Rfd1 Rfd8
+16.h3 h6 17.Rd2 Qc7 18.Nd4 Nxd4 19.Qxd4 Ne4 20.Rdc2 Nxc3 21.Rxc3 Qd7 22.Bf3 Rc4
+23.Qd2 Qe7 24.Rd3 Rxc1+ 25.Qxc1 Qf6 26.Rd4 Rd7 27.Qd2 Bxh3 28.Rxd5 Rxd5 29.Bxd5 Bc8
+30.Qc2 Qd8 31.Qc4 b5 32.Bxf7+ Kf8 33.Qd5 Qf6 34.Bh5 Be6 35.Qd6+ Kg8 36.Qxa6 Qf5
+37.Qa8+ Kh7 38.Bf3 Qb1+ 39.Kh2 Bf5 40.Qd5 Qc2 41.e4 Bg6 42.Qd4  1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "10"]
+[White "Larsen, Bent"]
+[Black "Garcia Padron, J."]
+[Result "1-0"]
+[WhiteElo "2610"]
+[BlackElo "2370"]
+[ECO "A30"]
+
+1.c4 Nf6 2.Nf3 c5 3.Nc3 b6 4.e3 g6 5.b3 Bg7 6.Bb2 O-O 7.Be2 Bb7 8.O-O d6
+9.Rc1 Nbd7 10.d4 Rc8 11.d5 a6 12.Rc2 Qc7 13.Rd2 Rcd8 14.h3 Rfe8 15.Qa1 Nf8
+16.a4 h6 17.Rfd1 N8h7 18.Nh2 Bc8 19.Nf1 Bb7 20.Bd3 Bf8 21.Ng3 Bc8 22.Re2 Bb7
+23.f4 Bg7 24.Rf1 e5 25.dxe6 Rxe6 26.f5 Re5 27.fxg6 fxg6 28.Bxg6 Rg5 29.Bxh7+ Nxh7
+30.Nce4 Bxb2 31.Qxb2 Rg6 32.Rf4 Re8 33.Ref2 Re5 34.Qe2 Qe7 35.Qf3 Rg7 36.Rg4 Rxg4
+37.Qxg4+ Kh8 38.Rf4 Ng5 39.Nf6 Rxe3 40.h4 Nh3+ 41.Kh2  1-0
+
+[Event "Las Palmas"]
+[Site "Las Palmas"]
+[Date "1981.??.??"]
+[Round "10"]
+[White "Timman, Jan H"]
+[Black "Bellon Lopez, Juan Manuel"]
+[Result "1-0"]
+[WhiteElo "2620"]
+[BlackElo "2415"]
+[ECO "A14"]
+
+1.Nf3 e6 2.g3 Nf6 3.Bg2 Be7 4.c4 d5 5.b3 c6 6.O-O O-O 7.Bb2 Nbd7 8.Qc2 a5
+9.a3 Qb6 10.d3 Re8 11.Nbd2 Bf8 12.d4 g6 13.Rfe1 Bg7 14.e4 Nxe4 15.Nxe4 dxe4
+16.Rxe4 c5 17.Rd1 a4 18.Re3 Qc7 19.d5 axb3 20.Qxb3 Ra6 21.Bxg7 Kxg7 22.Qc3+ Kg8
+23.Rde1 Nf8 24.Nd2 Qa5 25.Qb2 Rb6 26.Qc1 Nd7 27.Bh3 f5 28.dxe6 Nf6 29.Nb3 Qa7
+30.Nxc5 Rd6 31.Qc3 Rf8 32.e7 Re8 33.Ne6 Rxe6 34.Rxe6 Bxe6 35.Rxe6 Nh5 36.Bg2 Ng7
+37.Bd5 Kh8 38.Rf6  1-0

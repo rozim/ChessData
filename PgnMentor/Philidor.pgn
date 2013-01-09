@@ -1,0 +1,109 @@
+[Event "Game one"]
+[Site "?"]
+[Date "1749.??.??"]
+[Round "?"]
+[White "Philidor, Francois Andre Dani"]
+[Black "Analysis\ Analyse"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C23"]
+
+1.e4 e5 2.Bc4 Bc5 3.c3 Nf6 4.d4 exd4 5.cxd4 Bb6 6.Nc3 O-O 7.Nge2 c6 8.Bd3 d5
+9.e5 Ne8 10.Be3 f6 11.Qd2 fxe5 12.dxe5 Be6 13.Nf4 Qe7 14.Bxb6 axb6 15.O-O Nd7
+16.Nxe6 Qxe6 17.f4 Nc7 18.Rae1 g6 19.h3 d4 20.Ne4 h6 21.b3 b5 22.g4 Nd5 23.Ng3 Ne3
+24.Rxe3 dxe3 25.Qxe3 Rxa2 26.Re1 Qxb3 27.Qe4 Qe6 28.f5 gxf5 29.gxf5 Qd5 30.Qxd5+ cxd5
+31.Bxb5 Nb6 32.f6 Rb2 33.Bd3 Kf7 34.Bf5 Nc4 35.Nh5 Rg8+ 36.Bg4 Nd2 37.e6+ Kg6
+38.f7 Rf8 39.Nf4+ Kg7 40.Bh5  1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1783.??.??"]
+[Round "?"]
+[White "Count Bruehl"]
+[Black "Philidor, Francois Andre Dani"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C23"]
+
+1.e4 e5 2.Bc4 c6 3.Qe2 d6 4.c3 f5 5.d3 Nf6 6.exf5 Bxf5 7.d4 e4 8.Bg5 d5 9.Bb3 Bd6
+10.Nd2 Nbd7 11.h3 h6 12.Be3 Qe7 13.f4 h5 14.c4 a6 15.cxd5 cxd5 16.Qf2 O-O
+17.Ne2 b5 18.O-O Nb6 19.Ng3 g6 20.Rac1 Nc4 21.Nxf5 gxf5 22.Qg3+ Qg7 23.Qxg7+ Kxg7
+24.Bxc4 bxc4 25.g3 Rab8 26.b3 Ba3 27.Rc2 cxb3 28.axb3 Rbc8 29.Rxc8 Rxc8 30.Ra1 Bb4
+31.Rxa6 Rc3 32.Kf2 Rd3 33.Ra2 Bxd2 34.Rxd2 Rxb3 35.Rc2 h4 36.Rc7+ Kg6 37.gxh4 Nh5
+38.Rd7 Nxf4 39.Bxf4 Rf3+ 40.Kg2 Rxf4 41.Rxd5 Rf3 42.Rd8 Rd3 43.d5 f4 44.d6 Rd2+
+45.Kf1 Kf7 46.h5 e3 47.h6 f3  0-1
+
+[Event "London"]
+[Site "London"]
+[Date "1788.??.??"]
+[Round "?"]
+[White "Von Bruehl, Hans Moritz"]
+[Black "Philidor, Francois Andre Dani"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C38"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4 h6 6.hxg5 hxg5 7.Rxh8 Bxh8 8.d4 g4
+9.Bxf4 gxf3 10.Qxf3 Qe7 11.c3 Nf6 12.Nd2 d5 13.Bd3 dxe4 14.Nxe4 Nxe4 15.Qxe4 Qxe4+
+16.Bxe4 c6 17.Kd2 Be6 18.b3 Nd7 19.Rh1 Bf6 20.Kc2 O-O-O 21.Bd6 Nb6 22.Bc5 Kc7
+23.Rh7 Rh8 24.c4 Rxh7 25.Bxh7 Nd7 26.Kd3 Nxc5+ 27.dxc5 Be7 28.b4 a6 29.a3 f5
+30.Bg6 Kd7 31.Bh5 Bg5 32.Bd1 Bc1 33.Ba4 Bxa3 34.Kc3 Bc1 35.Bd1 Bf4 36.Kd4 Ke7
+37.b5 Kf6 38.Bf3 Bd7 39.b6 Bg3 40.Bd1 Bh4 41.Ke3 Ke5 42.Bf3 Bf2+ 43.Kd3 Bxc5
+44.Kc3 Bxb6  0-1
+
+[Event "London"]
+[Site "London"]
+[Date "1794.??.??"]
+[Round "?"]
+[White "Atwood, George"]
+[Black "Philidor, Francois Andre Dani"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e3 e5 4.d5 c6 5.Bxc4 b5 6.Bb3 c5 7.a4 c4 8.Bc2 Bb7 9.e4 a6
+10.Bd2 Bc5 11.Qe2 Ne7 12.Nf3 f6 13.axb5 axb5 14.Rxa8 Bxa8 15.O-O Qb6 16.Nc3 Bb4
+17.b3 cxb3 18.Bxb3 O-O 19.d6+ Kh8 20.dxe7 Bxe7 21.Rb1 b4 22.Nd5 Bxd5 23.Bxd5 f5
+24.Ne1 fxe4 25.Bxe4 Na6 26.Nd3 b3 27.Bd5 b2 28.Rxb2 Qd4 29.Bb7 Nc5 30.Be3 Qxd3
+31.Bxc5 Qxe2 32.Rxe2 Bxc5 33.Rc2 Bd4 34.Kf1 g6 35.Rc8 Rxc8 36.Bxc8 Kg7 37.h4 h5
+38.Ke2 Kf6 39.Kf3 Kg7 40.Ke4  1/2-1/2
+
+[Event "London"]
+[Site "London"]
+[Date "1794.??.??"]
+[Round "?"]
+[White "Atwood, George"]
+[Black "Philidor, Francois Andre Dani"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C00"]
+
+1.e4 c5 2.f4 Nc6 3.Nf3 e6 4.c3 d5 5.e5 f5 6.d4 Nh6 7.h3 Qb6 8.b3 Bd7 9.Be3 Nf7
+10.Qd2 O-O-O 11.Qf2 cxd4 12.Nxd4 Nxd4 13.Bxd4 Qc6 14.Nd2 b6 15.a4 Bc5 16.Bb5 Bxd4
+17.Qxd4 Qc5 18.Nf3 Bxb5 19.Qxc5+ bxc5 20.axb5 Kb7 21.Ke2 Ra8 22.Ra6 Rhe8
+23.Rd1 Nd8 24.Ne1 c4 25.bxc4 dxc4 26.Rd7+ Kc8 27.Rxg7 Rb8 28.Raxa7 Rxb5 29.Rac7+ Kb8
+30.Rxc4 Rb7 31.Rb4 Rxb4 32.cxb4 Nc6 33.Nd3 Re7 34.Rxe7 Nxe7 35.Nc5 Ng6 36.Nxe6 Kc8
+37.Ke3 Kd7 38.Nd4 Ne7 39.g4 Ke8 40.g5  1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1794.??.??"]
+[Round "?"]
+[White "Atwood, George"]
+[Black "Philidor, Francois Andre Dani"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C00"]
+
+1.e4 c5 2.f4 e6 3.Nf3 Nc6 4.c3 d5 5.e5 f5 6.d4 Nh6 7.a3 Nf7 8.Be3 Qb6 9.Qd2 Bd7
+10.Qf2 c4 11.Bxc4 dxc4 12.d5 Qc7 13.dxc6 Bxc6 14.Bxa7 Bxf3 15.gxf3 g5 16.Be3 gxf4
+17.Bxf4 Nxe5 18.Bxe5 Qxe5+ 19.Qe2 Qxe2+ 20.Kxe2 h5 21.Nd2 Rc8 22.Rhg1 Kf7
+23.Rg2 Be7 24.Rag1 Bf6 25.Nf1 e5 26.Ne3 Ke6 27.Rd1 Rhg8 28.Rxg8 Rxg8 29.Nxc4 Rg2+
+30.Kd3 Rxh2 31.Rd2 Rh3 32.Ke2 b5 33.Ne3 Rh2+ 34.Ke1 Rxd2 35.Kxd2 Bg5 36.Ke2 Bxe3
+37.Kxe3 h4 38.Kf2 e4 39.Kg2 e3 40.Kh3 e2  0-1

@@ -1,0 +1,793 @@
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "1"]
+[White "Gulko, Boris F"]
+[Black "Kasparov, Gary"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2805"]
+[ECO "E92"]
+
+1.c4 g6 2.e4 Bg7 3.d4 d6 4.Nc3 Nf6 5.Be2 O-O 6.Nf3 e5 7.d5 a5 8.Bg5 h6 9.Bh4 Na6
+10.Nd2 Bd7 11.O-O Qe8 12.Kh1 Nh7 13.a3 h5 14.f3 Bf6 15.Bxf6 Nxf6 16.b3 Qe7
+17.Qe1 Kg7 18.Qf2 h4 19.f4 exf4 20.Qxf4 h3 21.gxh3 Bxh3 22.Rf3 Rh8 23.Re3 Rae8
+24.Rg1 Qe5 25.Qxe5 Rxe5 26.Nf3 Reh5 27.Nd4 Rh4 28.Bf3 Nc5 29.Rg3 Bd7 30.Rg2 Rh3
+31.Rge2 Ng4 32.Bxg4 Bxg4 33.Rxh3 Rxh3 34.Rc2 Rd3 35.Ndb5 Bh3 36.Kg1 c6 37.b4 axb4
+38.axb4 cxb5 39.bxc5 b4 40.Ne2 Rf3 41.Ng3 dxc5 42.d6 Kf8 43.e5 Ke8 44.Re2 b3  0-1
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "1"]
+[White "Ivanchuk, Vassily"]
+[Black "Jussupow, Artur"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2660"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Nc6 6.Nxc6 bxc6 7.O-O Be7 8.c4 O-O
+9.Nc3 Nxc3 10.bxc3 dxc4 11.Bxc4 Bf5 12.Bf4 Bd6 13.Bg3 Re8 14.Qa4 Be4 15.Rae1 h5
+16.f3 Bd5 17.Rxe8+ Qxe8 18.Re1 Qd8 19.Bxd5 cxd5 20.Qc6 Bxg3 21.hxg3 Rb8 22.Re5 h4
+23.Kh2 hxg3+ 24.Kxg3 Rb6 25.Qxd5 Qb8 26.Qd7 Rg6+ 27.Kf4 Kh7 28.Rh5+ Kg8 29.Rb5 Rf6+
+30.Ke3 Qf8 31.Qxc7 Qe8+ 32.Re5 Qa4 33.Qc8+ Kh7 34.Re8 Kg6 35.Qg4+ Kh7 36.Qh5+ Rh6
+37.Qf5+ Rg6 38.Qxf7  1-0
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "1"]
+[White "Short, Nigel D"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[WhiteElo "2655"]
+[BlackElo "2715"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Bxf6 gxf6 10.Nd5 Bg7 11.c3 f5 12.exf5 Bxf5 13.Nc2 Be6 14.g3 O-O 15.Bg2 Rb8
+16.O-O Qd7 17.a4 b4 18.Ncxb4 Nxb4 19.cxb4 Bxd5 20.Bxd5 Rxb4 21.b3 a5 22.Qe2 e4
+23.Rad1 Qe7 24.Bc4 Kh8 25.Rd5 f5 26.Rfd1 Be5 27.Rxa5 Rb7 28.Rad5 Qf6 29.f4 exf3
+30.Qxf3 Rg7 31.Kh1 Qh6 32.Rg1 Rg6 33.Rd3 Rg5 34.a5 Rh5 35.Qf2 f4 36.g4 Rh3
+37.Rf3 Rxf3 38.Qxf3 Bd4 39.Rd1 Be3 40.a6 Qf6 41.Qd5 f3 42.Qxd6 Qg7 43.Bd5 Ba7
+44.Qb4 f2 45.Bg2 Re8 46.Rf1 Qe5 47.Bc6 Re7 48.Qd2 Kg7 49.b4 Rf7 50.b5 Bb6
+51.Qd5 Qf4 52.Qe4 Qd6 53.Bd5 Re7 54.Qf5 Bc7 55.Qg5+  1-0
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "1"]
+[White "Timman, Jan H"]
+[Black "Vaganian, Rafael A"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2640"]
+[ECO "D56"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.Nf3 Nf6 5.Bg5 h6 6.Bh4 O-O 7.e3 Ne4 8.Bxe7 Qxe7
+9.Rc1 c6 10.Bd3 Nxc3 11.Rxc3 dxc4 12.Rxc4 Nd7 13.O-O e5 14.dxe5 Nxe5 15.Re4 Nxf3+
+16.Qxf3 Be6 17.Bc4 Rad8 18.Bxe6 fxe6 19.Qg4 Rd6 20.b4 Qd7 21.h3 Rf5 22.a4 Rg5
+23.Qf4 Rdd5 24.Qb8+ Kh7 25.h4 Rg6 26.Rf4 e5 27.Rf8 Rxg2+ 28.Kxg2 Qg4+ 29.Kh2 Qxh4+
+30.Kg2  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "1"]
+[White "Ehlvest, Jaan"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2630"]
+[ECO "E01"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.g3 cxd4 5.Nxd4 d5 6.Bg2 e5 7.Nf3 d4 8.O-O Nc6
+9.e3 Bc5 10.exd4 exd4 11.Re1+ Be6 12.Ng5 O-O 13.Nxe6 fxe6 14.Nd2 Qd6 15.Ne4 Nxe4
+16.Bxe4 h6 17.Bd3 Rf6 18.a3 a5 19.Qe2 a4 20.Bd2 Bb6 21.Bf4 Qd7 22.Qe4 g5
+23.Bd2 Ba5 24.Rad1 Bxd2 25.Rxd2 Ra5 26.f4 gxf4 27.gxf4 Kf8 28.Rg2 Raf5 29.Rf1 Qf7
+30.Rgf2 Ke7 31.Kh1 Kd8 32.Bc2 Kc7 33.Bxa4 e5 34.Bxc6 bxc6 35.Rg1 Qxc4 36.Rc2 Qb5
+37.a4 Qxa4 38.fxe5 Rf4 39.Qg2 R6f5 40.b3 Qb5 41.Qg8 Rg5 42.Rxg5 hxg5 43.Qxg5 Qd5+
+44.Kg1 d3 45.Rxc6+ Kxc6 46.Qxf4 d2 47.Qa4+ Kb7 48.Qb4+ Kc8 49.Qg4+ Kc7  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "2"]
+[White "Vaganian, Rafael A"]
+[Black "Gulko, Boris F"]
+[Result "1/2-1/2"]
+[WhiteElo "2640"]
+[BlackElo "2595"]
+[ECO "A35"]
+
+1.Nf3 c5 2.c4 Nc6 3.Nc3 Nd4 4.g3 Nxf3+ 5.exf3 Nf6 6.d4 e6 7.Bg2 d5 8.cxd5 Nxd5
+9.Nxd5 Qxd5 10.Be3 cxd4 11.Qxd4 Qxd4 12.Bxd4 Bb4+ 13.Ke2 b6 14.f4 Ba6+ 15.Ke3 Rd8
+16.Rhd1 O-O 17.a3 Bd6 18.b4 f6 19.Rac1 Kf7 20.Bc6 Ke7 21.Kf3 Bc8 22.Be3 e5
+23.fxe5 Bxe5 24.Rxd8 Rxd8 25.a4 Be6 26.Be4  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "2"]
+[White "Kasparov, Gary"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo "2805"]
+[BlackElo "2700"]
+[ECO "B17"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Ng5 e6 6.Bd3 Be7 7.N1f3 h6 8.Ne4 Ngf6
+9.c3 O-O 10.O-O c5 11.Ne5 cxd4 12.cxd4 Qb6 13.Nxf6+ Bxf6 14.Be3 Rd8 15.Qc2 Nf8
+16.Rfd1 Bd7 17.d5 Qd6 18.Nxd7 Rxd7 19.dxe6 Qxe6 20.Bc4 Rc7 21.Bxe6 Rxc2 22.Bd5 Rxb2
+23.Rab1 Rxb1 24.Rxb1 Rd8 25.Bxb7 Bd4 26.Bxd4 Rxd4 27.g3 Ne6 28.Bc6 g6  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "2"]
+[White "Topalov, Veselin"]
+[Black "Jussupow, Artur"]
+[Result "1-0"]
+[WhiteElo "2630"]
+[BlackElo "2660"]
+[ECO "C75"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 Nge7 7.Be3 Ng6 8.h4 h5
+9.g3 Be7 10.d5 Nb8 11.Bxd7+ Nxd7 12.Nfd2 Nf6 13.f3 O-O 14.c4 c5 15.Nc3 Qd7
+16.a4 a5 17.Qe2 Kh7 18.O-O-O Rh8 19.Nf1 Kg8 20.Bd2 Ne8 21.Ne3 Nf8 22.b3 g6
+23.f4 Bf6 24.Rdf1 Qe7 25.f5 Ng7 26.Nb5 b6 27.fxg6 fxg6 28.g4 Bxh4 29.Nxd6 Qxd6
+30.Rxh4 Nd7 31.gxh5 Rxh5 32.Rxh5 Nxh5 33.Nf5  1-0
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "2"]
+[White "Kramnik, Vladimir"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[WhiteElo "2715"]
+[BlackElo "2635"]
+[ECO "D85"]
+
+1.Nf3 g6 2.d4 Nf6 3.c4 Bg7 4.Nc3 d5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 c5 8.Rb1 O-O
+9.Be2 cxd4 10.cxd4 Qa5+ 11.Bd2 Qxa2 12.O-O Bg4 13.Bg5 h6 14.Be3 Nc6 15.d5 Na5
+16.Bc5 Bf6 17.e5 Bxe5 18.Rb4 Bxf3 19.Bxf3 Bf6 20.Ra4 Qb3 21.Rxa5 Qxd1 22.Rxd1 b6
+23.d6 Rac8 24.d7 Rcd8 25.Bxe7 Bxe7 26.Rxa7 Rb8 27.Re1 Bd8 28.Re8 b5 29.Ra8 Rxa8
+30.Bxa8 b4 31.Bd5 Kg7 32.Kf1  1-0
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "2"]
+[White "Ehlvest, Jaan"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2655"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3 h6 6.Be3 Bb6 7.Nd5 d6 8.c3 O-O
+9.b4 Nxd5 10.Bxd5 Be6 11.Bxe6 fxe6 12.a4 Bxe3 13.fxe3 Nb8 14.O-O Nd7 15.a5 a6
+16.Qb3 Qe7 17.d4 Kh7  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "3"]
+[White "Gulko, Boris F"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2715"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 g6 5.d4 exd4 6.Nxd4 Bg7 7.Nxc6 dxc6 8.Qxd8+ Kxd8
+9.e4 Bg4 10.Be2 Bxe2 11.Kxe2 Re8 12.f3 Nd7 13.Bg5+ Kc8 14.Rac1 a5 15.Rhd1 a4
+16.Rd2 Nf8 17.Be3 Ra5 18.a3 Ne6 19.Kf2 g5 20.Rcd1 f5 21.exf5 Bxc3 22.bxc3 Rxf5
+23.Rd7 h5 24.Rh7 g4 25.f4 Ng5 26.Rg7 Ne4+ 27.Kf1 Nd6 28.Bb6 Rf7 29.Rxf7 Nxf7
+30.Bd4 Nd6 31.c5 Nc4 32.Kf2 b5 33.cxb6 cxb6 34.Bf6 b5 35.Rd4 Nxa3 36.Rd6 Kc7
+37.Be5 Nc4 38.Re6+ Kd7  0-1
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "3"]
+[White "Ivanchuk, Vassily"]
+[Black "Vaganian, Rafael A"]
+[Result "1-0"]
+[WhiteElo "2700"]
+[BlackElo "2640"]
+[ECO "C09"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Bb5+ Nc6 6.Ngf3 Bd6 7.dxc5 Bxc5 8.Nb3 Bd6
+9.O-O Ne7 10.Re1 O-O 11.Bg5 Bg4 12.Bh4 Re8 13.Bg3 Bxg3 14.hxg3 Qb6 15.a4 h5
+16.Qd3 Bf5 17.Qd2 Be4 18.Nfd4 Nxd4 19.Qxd4 Nc6 20.Qxb6 axb6 21.Re2 Kf8 22.Rd1 Bf5
+23.Red2 Red8 24.f3 g6 25.Kf2 Ke7 26.c3 Be6 27.Nd4 Nxd4 28.Rxd4 Rdc8 29.Rb4 Rc5
+30.Bd3 Rc6 31.Bc2 Ra5 32.Bb3 Rd6 33.Rd2 g5 34.Rd1 f6 35.Bc2 Bf7 36.Rbd4 b5
+37.b4 Ra8 38.a5 Rc8 39.Bd3 Rxc3 40.Bxb5 Rc2+ 41.R1d2 Rxd2+ 42.Rxd2 d4 43.Bd3 Kd8
+44.b5 Be6 45.Rc2 Bc8 46.Rc5 b6 47.axb6 Rxb6 48.Rd5+ Kc7 49.Rxd4 Bd7 50.Rc4+ Kd6
+51.Rc1 Rb7 52.Rb1 Kc5 53.Ke3 Ra7 54.Rc1+ Kb6 55.Ke4 Ra2 56.Bf1 Rf2 57.Rb1 Ra2
+58.Rd1 Ra4+ 59.Kd5 g4 60.Kd6 Bc8 61.Ke7 gxf3 62.gxf3 f5 63.Rd6+ Kb7 64.f4 h4
+65.Bg2+ Kb8 66.gxh4 Rxf4 67.h5 Rg4 68.Rg6 Bb7 69.Rxg4  1-0
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "3"]
+[White "Timman, Jan H"]
+[Black "Ehlvest, Jaan"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2615"]
+[ECO "C62"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7 5.Nc3 exd4 6.Nxd4 g6 7.h4 Bg7 8.Bg5 Nf6
+9.Bxc6 bxc6 10.Qd2 h6 11.Bf4 Ng4 12.f3 Ne5 13.b3 Qb8 14.Be3 a5 15.h5 c5 16.Nde2 g5
+17.O-O a4 18.Rad1 axb3 19.axb3 O-O 20.Nd5 Qd8 21.Ng3 Re8 22.Bf2 Nc6 23.c3 Be6
+24.Qc2 Ne7 25.Ne3 Ra3 26.Rb1 Qa8 27.Ngf5 Bxf5 28.exf5 Nd5 29.Nxd5 Qxd5 30.c4 Qa8
+31.Rfe1 Rxe1+  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "3"]
+[White "Jussupow, Artur"]
+[Black "Kasparov, Gary"]
+[Result "0-1"]
+[WhiteElo "2660"]
+[BlackElo "2805"]
+[ECO "A48"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.c3 c5 5.e3 Qb6 6.Qb3 O-O 7.Nbd2 d6 8.Qxb6 axb6
+9.Nc4 Nbd7 10.Be2 d5 11.Nce5 h6 12.Bf4 c4 13.h4 b5 14.g4 Nb6 15.g5 hxg5 16.hxg5 Ne4
+17.Nd2 Bf5 18.Bg4 Na4 19.Nxe4 dxe4 20.Bxf5 gxf5 21.Rb1 b4 22.cxb4 Nb6 23.a3 Rfc8
+24.g6 Bxe5 25.gxf7+ Kxf7 26.Bxe5 Nd5 27.Kd2 c3+ 28.Kc2 cxb2+ 29.Kxb2 Rc3
+30.Ra1 b5 31.Rhc1 Rd3 32.Rc5 Nb6 33.Rxb5 Nc4+ 34.Kc1 Rg8 35.Bg3 f4 36.Rf5+ Kg6
+37.Rxf4 Rc8 38.Rg4+ Kh5 39.Rh4+ Kg6 40.Rg4+ Kh5 41.Rh4+ Kg5 42.f4+ Kg6 43.f5+ Kg5  0-1
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "3"]
+[White "Short, Nigel D"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2630"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Bg4 6.Be2 e6 7.h3 Bh5 8.O-O Nc6
+9.a3 Be7 10.c4 Qd8 11.dxc5 Qxd1 12.Rxd1 a5 13.Be3 Ne4 14.Nc3 Nxc3 15.bxc3 Bg6
+16.Nd4 O-O-O 17.Nxc6 bxc6 18.Bf3 Bf6 19.Rac1 Rxd1+ 20.Rxd1 Rd8 21.Rxd8+ Kxd8
+22.Bxc6 Bxc3 23.Bb5 e5 24.f3 Kc8 25.Kf2 Bb2 26.a4 Bd4 27.Bxd4 exd4 28.Ke2 Kc7
+29.Be8 Bb1 30.h4 f6 31.Kd2 h6 32.h5 d3 33.Bb5  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "4"]
+[White "Kramnik, Vladimir"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo "2715"]
+[BlackElo "2700"]
+[ECO "D52"]
+
+1.Nf3 Nf6 2.c4 c6 3.Nc3 d5 4.d4 e6 5.Bg5 Nbd7 6.e3 Qa5 7.cxd5 Nxd5 8.Qd2 Bb4
+9.Rc1 h6 10.Bh4 c5 11.a3 Bxc3 12.bxc3 b6 13.e4 N5f6 14.Bd3 Bb7 15.d5 c4 16.dxe6 cxd3
+17.exd7+ Nxd7 18.Qxd3 g5 19.Bg3 Nc5 20.Qd6  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "4"]
+[White "Short, Nigel D"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2635"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 cxd4 8.Nxd4 Bc5
+9.Qd2 Bxd4 10.Bxd4 Nxd4 11.Qxd4 Qb6 12.Qxb6 Nxb6 13.a4 Ke7 14.a5 Nd7 15.g3 g5
+16.Kd2 gxf4 17.gxf4 f6 18.exf6+ Nxf6 19.Bd3 Bd7 20.Ne2 Rhg8 21.Rhg1 Kd6 22.c3  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "4"]
+[White "Topalov, Veselin"]
+[Black "Kasparov, Gary"]
+[Result "0-1"]
+[WhiteElo "2630"]
+[BlackElo "2805"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 d6 6.Be3 Nf6 7.f3 Be7 8.Qd2 O-O
+9.g4 a6 10.O-O-O Nxd4 11.Bxd4 b5 12.Kb1 Bb7 13.h4 Rc8 14.g5 Nd7 15.a3 Ne5
+16.Qe3 Nc4 17.Bxc4 Rxc4 18.Rhg1 b4 19.axb4 Rxb4 20.Rg2 Ba8 21.b3 a5 22.h5 Qc7
+23.Bf6 Rfb8 24.Bxe7 Qxe7 25.Rd4 e5 26.Rxb4 axb4 27.Na2 Qc7 28.Qd3 Kf8 29.g6 fxg6
+30.hxg6 h6 31.f4 exf4 32.Rf2 Kg8 33.Rxf4 Qc5 34.Rf1 Qb5 35.Rc1 Qe5 36.Qc4+ Kh8
+37.Rh1 Bxe4 38.Qc7 Rf8 39.Rxh6+ Kg8 40.Nc1 Bxc2+  0-1
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "4"]
+[White "Vaganian, Rafael A"]
+[Black "Jussupow, Artur"]
+[Result "1/2-1/2"]
+[WhiteElo "2640"]
+[BlackElo "2660"]
+[ECO "A13"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 dxc4 5.Qa4+ Nbd7 6.Qxc4 c5 7.Qb3 Rb8 8.d3 Bd6
+9.Nc3 a6 10.a4 b6 11.Nd2 Bb7 12.Bxb7 Rxb7 13.Nc4 Bc7 14.O-O Qb8 15.Bg5 Ng4
+16.f3 Nge5 17.Nxe5 Bxe5 18.Be3 Bxg3 19.hxg3 Qxg3+ 20.Kh1 Qh3+  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "4"]
+[White "Ehlvest, Jaan"]
+[Black "Gulko, Boris F"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2595"]
+[ECO "B17"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2 h6
+9.Ne4 Nxe4 10.Qxe4 c5 11.Bd2 Qc7 12.Qg4 Kf8 13.Qe4 c4 14.Bf1 Rb8 15.a4 b6
+16.Qe2 Ba6 17.g3 Bb7 18.Bg2 Bd5 19.O-O g6 20.Nh4 Nf6 21.c3 Kg7 22.Bxd5 exd5
+23.Rae1 Rhe8 24.Qd1 Qd7 25.Ng2 Rxe1  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "5"]
+[White "Ivanchuk, Vassily"]
+[Black "Ehlvest, Jaan"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2615"]
+[ECO "D37"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.a3 Nc6
+9.Qc2 Qa5 10.O-O-O Be7 11.g4 dxc4 12.Bxc4 a6 13.Bd3 Kh8 14.g5  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "5"]
+[White "Timman, Jan H"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2630"]
+[ECO "B73"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Be3 d6 7.Be2 Nf6 8.O-O O-O
+9.Qd2 Ng4 10.Bxg4 Bxg4 11.Nxc6 bxc6 12.Bh6 Bxh6 13.Qxh6 Rb8 14.b3 Qa5 15.Qe3 Rfd8
+16.h3 Be6 17.Rfd1 f6 18.Rd3 Qb6 19.Qh6 Qc5 20.Rad1 Kh8 21.R1d2 Rg8 22.Qe3 Qxe3
+23.Rxe3 g5 24.Ne2 Kg7 25.Nd4 Bd7 26.Nf5+ Bxf5 27.exf5 Kf7 28.Rde2 Rb7 29.g4 h5
+30.Kg2 hxg4 31.hxg4 Rh8 32.Re4 a5 33.Re1 Rh7 34.Re6 a4 35.bxa4 Rh8 36.R1e3 Ra8
+37.Rh3 Rxa4 38.Rh7+ Kf8 39.Kg3 Rxa2 40.Rxf6+ exf6 41.Rxb7 Rxc2 42.Rb8+ Ke7
+43.Rb7+ Ke8 44.Rb8+ Kd7 45.Rb7+ Ke8  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "5"]
+[White "Kasparov, Gary"]
+[Black "Vaganian, Rafael A"]
+[Result "1-0"]
+[WhiteElo "2805"]
+[BlackElo "2640"]
+[ECO "D37"]
+
+1.d4 e6 2.c4 d5 3.Nc3 Be7 4.Nf3 Nf6 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.Qc2 Nc6
+9.a3 Qa5 10.O-O-O Be7 11.h4 dxc4 12.Bxc4 b6 13.Ng5 Ba6 14.Nce4 g6 15.Nxf6+ Bxf6
+16.Ne4 Be7 17.Bxa6 Qxa6 18.Kb1 Qb7 19.h5 Rac8 20.hxg6 Nb4 21.gxh7+ Kh8 22.Be5+ f6
+23.Nxf6 Bxf6 24.Bxf6+  1-0
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "5"]
+[White "Gulko, Boris F"]
+[Black "Short, Nigel D"]
+[Result "0-1"]
+[WhiteElo "2595"]
+[BlackElo "2655"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bb4 5.Bg2 O-O 6.O-O d6 7.d3 h6 8.Na4 Ba5
+9.a3 Bb6 10.b4 a6 11.Nxb6 cxb6 12.Bb2 Re8 13.Rc1 b5 14.e4 Be6 15.c5 Bg4 16.h3 Bxf3
+17.Qxf3 dxc5 18.Rxc5 Nd7 19.Rcc1 Nb6 20.Qe3 Na4 21.Ba1 Qd6 22.f4 Rad8 23.fxe5 Qxd3
+24.Qf4 Re7 25.Rf3 Qd2 26.Rf2 Qxf4 27.gxf4 Red7 28.Bf1 Rd1 29.Rfc2 Rxc1 30.Rxc1 Rd2
+31.h4 Ra2 32.Bh3 Rxa3 33.e6 f6 34.Bf5 g6 35.Bxf6 gxf5 36.Rd1 fxe4 37.Rd8+ Kh7
+38.f5 Nxd8 39.e7 Rg3+ 40.Kf2 Rg8 41.exd8=Q Rxd8 42.Bxd8 Nc3 43.Ke3 Nd5+ 44.Kxe4 Nxb4
+45.h5 Nc6 46.Bf6 Kg8 47.Bb2 a5 48.Bc1 Kg7 49.Bb2+ Kf7 50.Bc1 a4 51.Bxh6 a3
+52.Bc1 b4 53.Kd5 Na5 54.Kc5 Nb3+ 55.Kxb4 Nxc1 56.Kxa3 Ne2 57.Kb4 Nd4 58.Kc5 Nxf5  0-1
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "5"]
+[White "Jussupow, Artur"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2660"]
+[BlackElo "2715"]
+[ECO "D31"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 e6 5.b3 Bb4 6.Bb2 c5 7.dxc5 Ne4 8.Qc2 d4 9.exd4 Qxd4
+10.Rc1 Nd7 11.Nf3 Bxc3+ 12.Bxc3 Qxc3+ 13.Qxc3 Nxc3 14.Rxc3 Nxc5 15.b4 Ne4
+16.Re3 Nf6 17.Be2 Ke7 18.O-O Rd8 19.h3 Bd7 20.Ne5 Rac8 21.Ra3 a6 22.Bf3 Rc7
+23.Rd1 Be8 24.Rxd8 Kxd8 25.Rd3+ Ke7 26.c5 a5 27.a3 axb4 28.axb4 Nd7 29.Nc4 Nb8
+30.Nd6 Bc6 31.h4 f6 32.h5 Bxf3 33.Rxf3 Na6 34.Rg3 Kf8 35.Rg4 f5 36.Rd4 Ke7
+37.g4 g6 38.hxg6 hxg6 39.g5 e5 40.Rh4 Ke6 41.Rh6 Rg7 42.Ne8 Rg8 43.Nf6 Rg7
+44.Nh5 Rg8 45.Nf6  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "6"]
+[White "Short, Nigel D"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[WhiteElo "2655"]
+[BlackElo "2700"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e6 7.Bg2 Qc7 8.O-O Be7
+9.a4 Nc6 10.Re1 O-O 11.Be3 Ne5 12.h3 Rb8 13.Qe2 Bd7 14.g4 h6 15.Rad1 Rfc8
+16.f4 Nc4 17.Bc1 e5 18.fxe5 dxe5 19.Nb3 b5 20.axb5 axb5 21.Kh1 b4 22.Nd5 Nxd5
+23.exd5 Bh4 24.Rg1 Bb5 25.d6 Qd7 26.Qe4 Rb6 27.Rd5 Rxd6 28.Nc5 Qa7 29.g5 hxg5
+30.Rgd1 Rxd5 31.Rxd5 Bc6 32.Qf5 Qa8 33.Kh2 Bxd5 34.Bxd5 Nd6 35.Qd3 Qa7 36.Be3 Rxc5  0-1
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "6"]
+[White "Timman, Jan H"]
+[Black "Gulko, Boris F"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2595"]
+[ECO "A53"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 Bg4 4.e3 Nd7 5.Be2 Ngf6 6.d4 Be7 7.e4 O-O 8.Be3 c6
+9.Nd2 Bxe2 10.Qxe2 d5 11.O-O-O dxe4 12.Ndxe4 Nxe4 13.Nxe4 Qa5 14.Kb1 f5 15.Bg5 Qd8
+16.Bxe7 Qxe7 17.Nc3 Rae8 18.Rhe1 Qf7 19.d5 e4 20.Qe3 a6 21.dxc6 bxc6 22.Qa7 Ne5
+23.Qxf7+ Kxf7 24.b3 Nd3 25.Re3 Nc5 26.Kc2 a5 27.Re2 Rd8 28.Red2 Rxd2+ 29.Kxd2 f4
+30.Ke2 Ke6 31.g3 g5 32.gxf4 gxf4 33.Rg1 Ke5 34.Rg5+ Rf5 35.Rg8 Rh5 36.Re8+ Kf5
+37.Ra8 Nd3 38.Nxe4 Kxe4 39.f3+ Kd4 40.Rd8+ Kc3 41.Rxd3+ Kb4 42.Rd6 Rxh2+
+43.Kd3 Kc5  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "6"]
+[White "Topalov, Veselin"]
+[Black "Vaganian, Rafael A"]
+[Result "1-0"]
+[WhiteElo "2630"]
+[BlackElo "2640"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Bd3 b6 8.Qe2 Bb7
+9.Bg5 Be7 10.O-O-O Qd6 11.Ne5 O-O 12.Kb1 Rad8 13.c4 h6 14.Bf4 Qxd4 15.Bh7+ Kxh7
+16.Rxd4 Rxd4 17.Be3 Re4 18.Nf3 Rd8 19.h3 Kg8 20.b3 a5 21.Rd1 Rxd1+ 22.Qxd1 b5
+23.Nd2 Rh4 24.f3 Rh5 25.Qf1 bxc4 26.bxc4 a4 27.Bf4 Rc5 28.Qd3 Rc6 29.a3 Ba6
+30.Be5 Bd6 31.Bb2 Rb6 32.Qc3 Bf8 33.Ka2 Nd7 34.Qa5 Nc5 35.Bd4 Nb3 36.Nxb3 axb3+
+37.Kb2 Rc6 38.c5 Bc4 39.Qa8 Ra6 40.Qd8 Bd5 41.Qxc7 f6 42.Qd7 Rc6 43.Qe8 Ra6
+44.a4 Ra8 45.Qb5 Rd8 46.a5 Ba8 47.Bc3 Kf7 48.a6 Rd5 49.Qb8  1-0
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "6"]
+[White "Kramnik, Vladimir"]
+[Black "Kasparov, Gary"]
+[Result "1/2-1/2"]
+[WhiteElo "2715"]
+[BlackElo "2805"]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Bb3 d5 7.exd5 Nxd5 8.Re1 Bg4
+9.h3 Bh5 10.g4 Bg6 11.Nxe5 Nxe5 12.Rxe5 c6 13.Qf3 Bf6 14.Re2 Kh8 15.Bxd5 cxd5
+16.Nc3 Bxc3 17.bxc3 Rc8 18.Ba3 Re8 19.Rxe8+ Qxe8 20.Qxd5 Rxc3 21.Bb4 Rxc2
+22.Re1 Qc8 23.Qxb7 h5 24.Qxc8+ Rxc8 25.d4 hxg4 26.hxg4 f5 27.gxf5 Bxf5 28.Bc5 a5
+29.Re7 Rc6 30.Re5 Bb1 31.a3 Kg8 32.f3 a4 33.Kf2 Rf6 34.Re8+ Kf7 35.Re7+ Kg6
+36.Ke3 Ba2 37.Ra7 Bd5 38.f4 Kf5 39.Rxg7 Re6+ 40.Kd3 Kxf4 41.Rf7+ Kg4 42.Rd7 Bb3
+43.Bb4 Kf3 44.Rf7+ Kg4 45.Rd7 Kf3 46.Rf7+ Kg4 47.Rf8 Rh6 48.Ke4 Re6+ 49.Kd3 Rh6
+50.Bc5 Rh3+ 51.Ke4 Rh5 52.Rf4+ Kg3 53.Ke3 Rh6 54.Rf1 Kg4 55.Ke4 Re6+ 56.Kd3 Re8
+57.Kc3 Rb8 58.Rf2  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "6"]
+[White "Ehlvest, Jaan"]
+[Black "Jussupow, Artur"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2660"]
+[ECO "A08"]
+
+1.e4 e6 2.Qe2 c5 3.Nf3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nge7 7.c3 d5 8.d3 h6 9.Na3 b6
+10.h4 Ba6 11.e5 Qc7 12.Re1 O-O-O 13.Rb1 g5 14.hxg5 Ng6 15.gxh6 Bxe5 16.Nxe5 Ncxe5
+17.c4 Nc6 18.Nc2 dxc4 19.dxc4 Bb7 20.Bg5 Rdg8 21.Qh5 Nce5 22.Qh1 Ng4 23.Ne3 Nxh6
+24.Bxh6 Bxg2 25.Nxg2 Qc6 26.g4 Nf4 27.Bxf4 Rxh1+ 28.Kxh1 Qf3 29.Bg3 Rh8+
+30.Kg1 Qxg4 31.Re3 Qh3 32.Bh4 Qg4 33.Bg3 Qh3 34.Bh4 Qg4 35.Bg3  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "7"]
+[White "Gulko, Boris F"]
+[Black "Topalov, Veselin"]
+[Result "1/2-1/2"]
+[WhiteElo "2595"]
+[BlackElo "2630"]
+[ECO "A35"]
+
+1.c4 c5 2.Nf3 Nf6 3.Nc3 Nc6 4.g3 d5 5.d4 cxd4 6.Nxd4 dxc4 7.Nxc6 Qxd1+ 8.Nxd1 bxc6
+9.Bg2 Nd5 10.Ne3 e6 11.Nxc4 Ba6 12.b3 Bb4+ 13.Bd2 Bxd2+ 14.Nxd2 Nb4 15.Be4 Ke7
+16.a3 Nd5 17.Rc1 Rhc8 18.f4 c5 19.Kf2 Rab8 20.Rc2 Nf6 21.Bf3 Rd8 22.Rhc1 Bb7
+23.Ke3 Bxf3 24.exf3 Nd7 25.Rc3 Rb5 26.Ke2 h5 27.a4 Rb4 28.Nc4 h4 29.Na5 Rc8
+30.Rc4 Rxc4 31.Rxc4 hxg3 32.hxg3 a6 33.Rc1 Rh8  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "7"]
+[White "Ivanchuk, Vassily"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[WhiteElo "2700"]
+[BlackElo "2635"]
+[ECO "C82"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Bc5 10.Nbd2 O-O 11.Bc2 Bf5 12.Nb3 Bg6 13.Nfd4 Bxd4 14.cxd4 a5 15.Be3 a4
+16.Nc1 a3 17.b3 f6 18.Nd3 fxe5 19.Nxe5 Nxe5 20.Bxe4 dxe4 21.dxe5 Qxd1 22.Rfxd1 Rfd8
+23.h3 Bf7 24.Rxd8+ Rxd8 25.Rc1 Rc8 26.Bc5 Bd5 27.Kf1 c6 28.Ke2 Kf7 29.Ke3 Ke6
+30.Bd6 Ra8 31.Kd4 Ra7 32.Ke3  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "7"]
+[White "Kasparov, Gary"]
+[Black "Ehlvest, Jaan"]
+[Result "1/2-1/2"]
+[WhiteElo "2805"]
+[BlackElo "2615"]
+[ECO "D37"]
+
+1.c4 e6 2.d4 d5 3.Nc3 Be7 4.Nf3 Nf6 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.a3 Nc6
+9.Qc2 Qa5 10.O-O-O Be7 11.h4 Rd8 12.g4 Bd7 13.Kb1 dxc4 14.Bxc4 Rac8 15.g5 Nh5
+16.Bd6 g6 17.Be2 Bxd6 18.Rxd6 Ne7 19.Qb3 Bc6 20.Rxd8+ Rxd8 21.Rd1 Qf5+ 22.Ka1 Rf8
+23.e4 Qc5 24.Qb4 Qxb4 25.axb4 Nf4 26.Bf1 a6 27.Ne5 Rc8 28.Ka2 Kg7 29.Kb3 Be8
+30.Ng4 Ng8 31.Rd4 Bc6 32.b5 axb5 33.Bxb5 h5 34.Bxc6 Rxc6 35.Ne5 Rc7 36.Kb4 Ne7
+37.Nb5 Rc2 38.Rd7 Nc6+ 39.Nxc6 bxc6 40.Nd6 Nd3+ 41.Ka5 Ne5 42.Rd8 Nc4+ 43.Nxc4  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "7"]
+[White "Vaganian, Rafael A"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[WhiteElo "2640"]
+[BlackElo "2715"]
+[ECO "A07"]
+
+1.Nf3 d5 2.g3 Bg4 3.Bg2 Nd7 4.O-O c6 5.d3 Ngf6 6.Nbd2 e5 7.e4 dxe4 8.dxe4 Be7
+9.h3 Bh5 10.b3 O-O 11.Bb2 Qc7 12.c4 a5 13.a3 Rfd8 14.Qc2 Ne8 15.Bc3 f6 16.b4 Nd6
+17.Rfc1 Bf7 18.Bf1 axb4 19.axb4 c5 20.b5 Nf8 21.Nh4 Rxa1 22.Rxa1 Qd7 23.Nf5 Be6
+24.Nxd6 Bxd6 25.h4 Bf7 26.Kh2 Ne6 27.Bh3 Qe7 28.Kg2 Nd4 29.Qd1 Bc7 30.Ra7 Bb6
+31.Ra4 g6 32.Qa1 Kg7 33.Nf1 Ne2 34.Bb2 Qd6 35.Qb1 Qd1 36.Qxd1 Rxd1 37.Ne3 Rg1+
+38.Kh2 Rb1 39.Ra2 Nd4 40.Bc8 Nf3+ 41.Kg2 Nd2 42.Bxb7 Nxc4 43.Nd5 Rxb2 44.Rxb2 Bxd5
+45.Rc2 Ne3+ 46.fxe3 Bxb7 47.Rd2 Bxe4+ 48.Kf2 c4 49.Rd7+ Kh6  0-1
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "7"]
+[White "Jussupow, Artur"]
+[Black "Short, Nigel D"]
+[Result "0-1"]
+[WhiteElo "2660"]
+[BlackElo "2655"]
+[ECO "E31"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Bg5 c5 5.d5 d6 6.e3 h6 7.Bh4 Bxc3+ 8.bxc3 e5
+9.Qc2 Qe7 10.Nf3 Kd8 11.Nd2 Kc7 12.Bd3 g5 13.Bg3 Nh5 14.O-O-O Nd7 15.Rde1 Ndf6
+16.f3 Nxg3 17.hxg3 Bd7 18.Rh2 h5 19.Kb1 g4 20.Ka1 Rhg8 21.f4 h4 22.Rxh4 exf4
+23.gxf4 Nxd5 24.Rhh1 Nb6 25.e4 Rh8 26.Rhf1 Rh2 27.Nb3 Rah8 28.e5 Bc6 29.Be4 Nxc4
+30.Bxc6 bxc6 31.exd6+ Qxd6 32.Qf5 Qd5 33.Re7+ Kb6 34.Qxd5 cxd5 35.Rxf7 Rh1
+36.Rb1 Rxb1+ 37.Kxb1 Rh1+ 38.Kc2 Rh2 39.Rf6+ Kc7 40.Nxc5 Rxg2+ 41.Kd1 g3
+42.Rg6 Rd2+ 43.Ke1 g2 44.Ne6+ Kd7 45.Nd4 Rxa2 46.Ne2 a5 47.Rxg2 a4 48.Rg7+ Kd6
+49.Rg6+ Ke7 50.Ra6 a3 51.Nd4 Rb2 52.Nc6+ Kf7 53.Nb4 d4 54.Rc6 Nd2 55.Ra6 Nb1
+56.Nd5 Nxc3 57.Ra7+ Ke6 58.Nc7+ Kd6 59.Ne8+ Kc6 60.Ra6+ Kb7  0-1
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "8"]
+[White "Topalov, Veselin"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2630"]
+[BlackElo "2715"]
+[ECO "B65"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O Nxd4
+9.Qxd4 O-O 10.f4 Qa5 11.Bc4 Bd7 12.Bb3 Bc6 13.h4 h6 14.Kb1 Qc5 15.Qd3 b5
+16.a3 a5 17.f5 b4 18.Bxf6 Bxf6 19.Qxd6 Qxd6 20.Rxd6 bxc3 21.Rxc6 a4 22.Bc4 exf5
+23.exf5 Rfb8 24.b4 axb3 25.Bxb3 Rxa3 26.Rh3 Rba8 27.Rhxc3 Bxc3 28.Rxc3 Ra1+
+29.Kb2 Rf1 30.g4 Rg1 31.Rc4 Rb8 32.Kc3 Kh7 33.Rd4 Rb7 34.h5 Rf1 35.Bc4 Rf3+
+36.Bd3 Rb8  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "8"]
+[White "Timman, Jan H"]
+[Black "Jussupow, Artur"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2660"]
+[ECO "C18"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Ne7 5.a3 Bxc3+ 6.bxc3 c5 7.Qg4 O-O 8.Bd3 f5
+9.exf6 Rxf6 10.Bg5 Rf7 11.Qh5 g6 12.Qd1 Nbc6 13.Nf3 Qf8 14.O-O c4 15.Be2 h6
+16.Bh4 Nf5 17.Bg3 g5 18.Qd2 Bd7 19.h4 Qe7 20.hxg5 Nxg3 21.fxg3 hxg5 22.Qe3 Raf8
+23.Nxg5 Rxf1+ 24.Bxf1 e5 25.dxe5 Qxe5 26.Qxe5 Nxe5 27.Be2 Bg4 28.Re1 Bxe2
+29.Rxe2 Ng4 30.Re7 Rf5 31.Nf3 Rf7 32.Re8+ Rf8 33.Re7 Rf7 34.Re8+ Rf8 35.Re7  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "8"]
+[White "Short, Nigel D"]
+[Black "Kasparov, Gary"]
+[Result "1/2-1/2"]
+[WhiteElo "2655"]
+[BlackElo "2805"]
+[ECO "B97"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2
+9.Rb1 Qa3 10.f5 Nc6 11.fxe6 fxe6 12.Nxc6 bxc6 13.Be2 Be7 14.O-O O-O 15.Rb3 Qc5+
+16.Be3 Qe5 17.Bd4 Qa5 18.Bb6 Qe5  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "8"]
+[White "Gulko, Boris F"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo "2595"]
+[BlackElo "2700"]
+[ECO "B36"]
+
+1.c4 g6 2.e4 c5 3.Nf3 Nc6 4.d4 cxd4 5.Nxd4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7
+9.Be3 O-O 10.Qd2 Be6 11.f3 Rc8 12.Nd5 Nxd5 13.cxd5 Bd7 14.O-O e6 15.dxe6 Bxe6
+16.Rfd1 Qf6 17.Bxa7 Qxb2 18.Qxb2  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "8"]
+[White "Ehlvest, Jaan"]
+[Black "Vaganian, Rafael A"]
+[Result "1-0"]
+[WhiteElo "2615"]
+[BlackElo "2640"]
+[ECO "C00"]
+
+1.e4 e6 2.Qe2 Nf6 3.e5 Nd5 4.Nf3 d6 5.d4 Ne7 6.h4 b6 7.Nc3 d5 8.Qd1 Ba6 9.Bxa6 Nxa6
+10.Ne2 Qd7 11.c3 c5 12.Qd3 Nb8 13.h5 h6 14.Bd2 Nbc6 15.Nf4 Na5 16.O-O Nec6
+17.b3 cxd4 18.cxd4 Ba3 19.Ne1 Bb2 20.Rb1 Bxd4 21.b4 Nc4 22.b5 Bxf2+ 23.Rxf2 N6xe5
+24.Qg3 O-O-O 25.Bc3 Rhg8 26.Nc2 Kb7 27.a4 Qc7 28.Re1 Nd7 29.Nb4 Nc5 30.Qf3 Ne4
+31.Rxe4 a5 32.bxa6+ Ka7 33.Rxe6 fxe6 34.Nxe6 Qd6 35.Nxd8 Rxd8 36.Qf4 d4 37.Qxd6 Rxd6
+38.Bxd4  1-0
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "9"]
+[White "Kasparov, Gary"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[WhiteElo "2805"]
+[BlackElo "2635"]
+[ECO "E35"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5 6.Bg5 h6 7.Bh4 c5 8.dxc5 g5
+9.Bg3 Ne4 10.e3 Qa5 11.Ne2 Nc6 12.a3 Bf5 13.Qc1 Nxc5 14.axb4 Nd3+ 15.Kd2 Qxb4
+16.Ra4 Nxc1 17.Rxb4 Nxe2 18.Rxb7 Nxg3 19.hxg3 d4 20.exd4 Nxd4 21.Nd5 Rd8
+22.Bc4 O-O 23.Kc3 Ne2+ 24.Kb4 Nd4 25.Ne7+ Kg7 26.Rxa7 Rb8+ 27.Kc5 Ne6+ 28.Bxe6 Bxe6
+29.b4 Rfd8 30.Re1 Kf6 31.Rh1 Kg7 32.Re1 Kf6 33.Rh1  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "9"]
+[White "Ivanchuk, Vassily"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[WhiteElo "2700"]
+[BlackElo "2630"]
+[ECO "A61"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.d5 d6 5.Nc3 exd5 6.cxd5 g6 7.Nd2 Bg7 8.Nc4 O-O
+9.g3 b6 10.a4 Ba6 11.Nb5 Ne8 12.Bg2 Bxb5 13.axb5 Nd7 14.Bf4 Qe7 15.O-O g5
+16.Bd2 Nc7 17.Qb3 f5 18.Rae1 f4 19.gxf4 gxf4 20.Kh1 Ne5 21.Bf3 Qd7 22.Rg1 Qxb5
+23.Qxb5 Nxb5 24.Nxe5 dxe5 25.Bg4 Kh8 26.Bd7 Nc7 27.Bc6 Rad8 28.e4 fxe3 29.Rxe3 Nxd5
+30.Reg3 Ne7 31.Rxg7 Nxc6 32.Be3 Rd6 33.Rc7 Rg8 34.Rxg8+ Kxg8 35.Kg2 e4 36.Kg3 Rf6
+37.Bg5 Rf3+ 38.Kg2 Nd4 39.Rxa7 Nf5 40.Ra4 Rb3 41.Rxe4 Rxb2 42.Rf4 Ng7 43.Rf6 Rb4
+44.Kf3 h5 45.h4 b5 46.Rc6 Rc4 47.Rc8+ Kf7 48.Rc7+ Kg6 49.Rc6+ Kf5 50.Rf6+ Ke5
+51.Rh6 Nf5 52.Rxh5 b4 53.Rh8 Nd4+ 54.Kg4 Ne6+ 55.Kh5 b3 56.Rb8 Rb4 57.Rxb4 cxb4
+58.Bc1 Nf4+ 59.Kg5 Nd3 60.h5 Ke6  0-1
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "9"]
+[White "Kramnik, Vladimir"]
+[Black "Ehlvest, Jaan"]
+[Result "0-1"]
+[WhiteElo "2715"]
+[BlackElo "2615"]
+[ECO "D23"]
+
+1.Nf3 d5 2.d4 e6 3.c4 dxc4 4.Qa4+ Nd7 5.e4 Nf6 6.Nc3 a6 7.Bxc4 Rb8 8.Qc2 b5
+9.Bd3 Bb7 10.Bf4 Rc8 11.Rd1 c5 12.d5 c4 13.dxe6 cxd3 14.exf7+ Kxf7 15.Rxd3 Qe8
+16.O-O Nc5 17.Re3 Kg8 18.Rfe1 h6 19.e5 Nh5 20.Bg3 Ne6 21.Qf5 Qf7 22.Qg4 Nxg3
+23.hxg3 h5 24.Qh4 Bc5 25.Rd3 g5 26.Qh1 g4 27.Ne4 Bxe4 28.Rxe4 Qf5 29.Qh4 Rh6
+30.Nd2  0-1
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "9"]
+[White "Vaganian, Rafael A"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[WhiteElo "2640"]
+[BlackElo "2655"]
+[ECO "D06"]
+
+1.Nf3 d5 2.d4 Bf5 3.c4 e6 4.Nc3 Nc6 5.Bg5 Be7 6.cxd5 exd5 7.Bxe7 Ngxe7 8.e3 O-O
+9.Be2 Nc8 10.O-O a6 11.b4 Bg4 12.Qb3 N6e7 13.a4 c6 14.b5 axb5 15.axb5 Nd6
+16.bxc6 bxc6 17.Ne5 Bxe2 18.Nxe2 Qc7 19.Nf4 Ne4 20.Qc2 Qd6 21.Ned3 Rfb8 22.Rfb1 Rxb1+
+23.Qxb1 Rxa1 24.Qxa1 Qb8 25.h4 g6 26.g3 h6 27.Nc5 Nxc5 28.dxc5 Nf5 29.Kh2 Qb5
+30.Qc1 g5 31.hxg5 hxg5 32.Nh3 f6 33.Qc2 Ne7 34.Ng1 Qc4 35.Qxc4 dxc4 36.Kg2 c3
+37.Ne2 c2 38.e4 Ng6 39.Kf3 Nf8 40.Ke3 Ne6 41.f3 Nxc5 42.Kd2 g4 43.fxg4 Nxe4+
+44.Kxc2 c5 45.Kd3 Nd6 46.Ng1 Kf7 47.Nf3 Ke6 48.g5 f5 49.Nh4 Ne4 50.g6 Nxg3
+51.g7 Kf7 52.Nxf5 Nxf5 53.Kc4 Nxg7 54.Kxc5  1/2-1/2
+
+[Event "Novgorod"]
+[Site "Novgorod"]
+[Date "1995.??.??"]
+[Round "9"]
+[White "Jussupow, Artur"]
+[Black "Gulko, Boris F"]
+[Result "1/2-1/2"]
+[WhiteElo "2660"]
+[BlackElo "2595"]
+[ECO "E53"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 d5 6.Nf3 c5 7.O-O b6 8.cxd5 exd5
+9.Ne5 Re8 10.Ne2 c4 11.Bc2 Bd6 12.f4 b5 13.Ng3 Nbd7 14.Qf3 Bb7 15.Bd2 Bf8
+16.a4 b4 17.a5 Rc8 18.a6 Ba8 19.Nf5 c3 20.bxc3 g6 21.Qh3 b3 22.Bxb3 Ne4 23.Nxf7 Kxf7
+24.Qxh7+ Ke6 25.Qg8+ Kxf5 26.g4+ Kf6 27.f5 Bg7 28.fxg6+ Kxg6 29.Qf7+ Kh7
+30.Qf5+ Kg8 31.Qf7+ Kh8 32.Qh5+ Kg8 33.Qf7+ Kh8 34.Qh5+ Kg8 35.Bxd5+ Bxd5
+36.Qxd5+ Kh8 37.Qh5+ Kg8 38.Qf7+ Kh8 39.Qh5+ Kg8 40.Qf7+ Kh8  1/2-1/2
+

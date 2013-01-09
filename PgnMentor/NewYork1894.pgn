@@ -1,0 +1,1137 @@
+[Event "New York sim"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Walker, W."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.O-O Bc5 5.c3 Nxe4 6.Bd5 Nf6 7.Bxc6 dxc6 8.Nxe5 O-O
+9.d4 Be7 10.Nd2 c5 11.dxc5 Bxc5 12.Nb3 Bd6 13.Nc4 Be7 14.Qf3 Bg4 15.Qf4 Be2
+16.Re1 b5 17.Ne3 Bd6 18.Qf5 Bd3 19.Qh3 Re8 20.Bd2 Ne4 21.Rad1 Ng5 22.Qg4 Re4
+23.Qh5 g6 24.Qh6 Bf8  0-1
+
+[Event "New York sim"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Frere, W."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C25"]
+
+1.e4 e5 2.Nc3 Nc6 3.g3 Bc5 4.Bg2 d6 5.Nge2 Nge7 6.Na4 Bb6 7.Nxb6 axb6 8.d4 exd4
+9.Nxd4 O-O 10.Be3 f5 11.O-O Nxd4 12.Bxd4 fxe4 13.Bxe4 c5 14.Be3 d5 15.Bg2 d4
+16.Bd2 Nc6 17.Qe2 Re8 18.Qf3 Be6 19.Rfe1 Qd7 20.Re2 Bc4 21.Rxe8+ Rxe8 22.b3 Be2
+23.Qd5+ Qxd5 24.Bxd5+ Kf8 25.Bf4 Rd8 26.Bxc6 bxc6 27.Bc7 Rd5 28.Bxb6 c4 29.bxc4 Bxc4
+30.a4 Ba6 31.f3 d3 32.cxd3 Rxd3 33.Rc1 Rxf3 34.Rxc6 Rf1+ 35.Kg2 Bb7 36.Kxf1 Bxc6
+37.a5 h5 38.Kf2 Ke7 39.Ke3 Kd7 40.Kd4 Kc8 41.Kc5 Be4 42.a6 Kb8 43.Kb5 Ka8
+44.Bd4 g6 45.Kb6 Bd3  1/2-1/2
+
+[Event "New York sim"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Helms, H."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C62"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7 5.dxe5 dxe5 6.Nc3 Bd6 7.Bg5 Nge7 8.Nd5 f6
+9.Bxf6 gxf6 10.Nxf6+ Kf7 11.Nxd7 Ng6 12.Qd5+ Ke7 13.Nc5 Nf4 14.Nxb7 Qb8 15.Qxc6 Nxg2+
+16.Kf1 Nf4 17.Qd7+ Kf6 18.Rg1  1-0
+
+[Event "New York sim"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Breckenridge, RA."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.Nf3 Bg4 5.Be2 e6 6.O-O Nf6 7.d4 c6 8.Ne5 Bxe2
+9.Nxe2 Bd6 10.f4 Nbd7 11.Kh1 Rd8 12.Bd2 Qc7 13.Qe1 O-O 14.Qh4 Ne4 15.Be3 Ndf6
+16.Nd3 Nd5 17.Rf3 f5 18.Rg1 Be7 19.Qh3 c5 20.Bc1 c4 21.Ne5 c3 22.b3 Nb4 23.Ng3 Nxg3+
+24.Rxg3 Nd5 25.Rf3 Rf6 26.g4 Rh6 27.Qxh6 gxh6 28.gxf5+ Kf8 29.Rfg3 Nf6 30.fxe6 Rxd4
+31.Rg7 Ke8 32.Ba3 Rd6 33.f5 b5 34.Bxd6 Qxd6 35.Nf7 Qd5+ 36.R7g2 Ng4 37.h3 Ne3
+38.Kh2 Nxg2 39.Rxg2 Bd6+ 40.Nxd6+ Qxd6+ 41.Kh1 Qd1+ 42.Kh2 Qf1 43.Rg8+ Ke7
+44.Rg7+ Kd6 45.e7 Kd7 46.Rf7 a5 47.f6 Qf4+ 48.Kg2 Qe4+ 49.Kf1 Qf4+  0-1
+
+[Event "New York sim"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Luckenbach"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.Ng5 d5 6.exd5 Na5 7.Qe2+ Qe7 8.Bb5+ c6
+9.dxc6 bxc6 10.Ba4 Qxe2+ 11.Kxe2 Bd7 12.Bd2 Nc4 13.Bb3 Nd6 14.Bb4 h6 15.Nf3 Bg4
+16.h3 Bxf3+ 17.Kxf3 Nf5 18.Re1+ Kd7 19.Bxf8 Rhxf8 20.Nd2 Nd6 21.Rad1 Rfe8
+22.Rxe8 Nfxe8 23.Nc4 Nxc4 24.Bxc4 c5 25.c3 Nd6 26.Bd5 Rb8 27.cxd4 cxd4 28.Bb3 Rb4
+29.Rd3 Nb5 30.a3  1-0
+
+[Event "New York sim"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "De Visser, WM."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B45"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nf3 e6 4.d4 cxd4 5.Nxd4 Nf6 6.Be3 Bb4 7.Bd3 d5 8.Nxc6 bxc6
+9.e5 d4 10.Bd2 dxc3 11.bxc3 Bxc3 12.Bxc3 Nd5 13.Bd2 O-O 14.Qh5 f5 15.exf6 Nxf6
+16.Qh4 Bd7 17.O-O Qc7 18.Rae1 e5 19.f4 Qb6+ 20.Be3 Qb4 21.a3 Qa4 22.Bc5 Rfe8
+23.Bb4 e4 24.Bc4+ Nd5 25.f5 Qxc2 26.f6 Be6 27.Bxd5 cxd5 28.Qg3 g6 29.Rc1 Qd3
+30.Qc7 Bf7 31.Qf4 Re6 32.Rcd1 Qe2 33.Qh6 Rxf6 34.Bc3 Qh5 35.Qe3 Rxf1+ 36.Rxf1 Kf8
+37.Qc5+ Kg8 38.Qe7 g5 39.Qf6 Kf8 40.Qh8+ Ke7 41.Qxa8  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "1"]
+[White "Hymes, Edward"]
+[Black "Steinitz, William"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C72"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.d4 Bd7 6.O-O b5 7.Bb3 Nxd4 8.Nxd4 exd4
+9.c3 dxc3 10.Qd5 Be6 11.Qc6+ Bd7 12.Qd5 Be6 13.Qc6+ Bd7 14.Qd5 Be6 15.Qc6+ Bd7
+16.Qd5 Be6 17.Qc6+ Bd7 18.Qd5 Be6 19.Qc6+  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "1"]
+[White "Albin, Adolf"]
+[Black "Delmar, Eugene"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Bg5 Be7 6.Bxf6 gxf6 7.Nf3 c6 8.Qd2 h6
+9.c3 Nd7 10.Be2 f5 11.Ng3 Bg5 12.Qc2 Nb6 13.Nh5 Nd5 14.h4 Be7 15.a3 Rg8 16.g3 Nf6
+17.Ne5 Ng4 18.f4 Nxe5 19.fxe5 Bd7 20.O-O-O Qa5 21.Bf3 O-O-O 22.Qb3 Kb8 23.c4 Rc8
+24.Kb1 Rc7 25.Rh2 c5 26.Qc3 Qxc3 27.bxc3 cxd4 28.Rxd4 Bc6 29.Bxc6 Rxc6 30.Rd7 Rc7
+31.Rhd2 Kc8 32.Rxc7+ Kxc7 33.Ka2 Rg4 34.Rd4 Rg6 35.Kb3 a6 36.a4 Rg8 37.Rd3 Rd8
+38.Rf3 Rg8 39.Nf4 Kc6 40.Ne2 Rg4 41.Rf4 Rxf4 42.Nxf4 Bd8 43.Nd3 a5  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "1"]
+[White "Hanham, James Moore"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 d6 6.Nbd2 O-O 7.O-O Bb6 8.Bb3 Bg4
+9.Re1 Qd7 10.Nf1 Ne7 11.Be3 Ng6 12.Bxb6 axb6 13.Ne3 Nf4 14.Bc2 Kh8 15.g3 Nh3+
+16.Kg2 Bh5 17.Qc1 Ng4 18.Rf1 Nxe3+ 19.fxe3 f5 20.exf5 Qxf5 21.Ng1 Qxf1+ 22.Qxf1 Rxf1
+23.Rxf1 Nxg1 24.Kxg1 Bg6 25.e4 h6 26.a3 b5  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "1"]
+[White "Riccardo Rocamora, S."]
+[Black "Halpern, Jacob C"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C26"]
+
+1.e4 e5 2.Nc3 Nf6 3.g3 Bc5 4.Bg2 d6 5.h3 a6 6.Nge2 Nc6 7.O-O Be6 8.d3 Ne7
+9.Kh2 c6 10.f4 h6 11.Bd2 Qc7 12.Qe1 Nh7 13.Na4 Ba7 14.Ba5 b6 15.Bd2 f6 16.Nac3 O-O
+17.f5 Bf7 18.g4 d5 19.h4 dxe4 20.Nxe4 Bd5 21.N2g3 b5 22.b3 Qd7 23.c4 Bxe4
+24.Bxe4 Nc8 25.cxb5 axb5 26.Rc1 Ne7 27.Bb4 Bd4 28.Rc2 Rfc8 29.Bxe7 Qxe7 30.Bxc6 Qd6
+31.Ne4 Rxc6 32.Nxd6 Rxc2+ 33.Kh3 Raxa2 34.Qe4 Nf8 35.g5 hxg5 36.hxg5 fxg5
+37.Qd5+ Kh7 38.Rh1 Bf2 39.Qf7 Re2 40.f6 Ne6 41.Qxe6 Bh4 42.Qf5+ Kh8 43.f7  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "1"]
+[White "Showalter, Jackson Whipps"]
+[Black "Jasnogrodsky, Nicolai"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C13"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.e5 Be7 7.Qg4 Bf8 8.Nf3 Bd7
+9.Bd3 Nc6 10.a3 g6 11.h4 h5 12.Qg3 Qe7 13.Ne2 O-O-O 14.b4 Be8 15.O-O Qd7
+16.Nd2 Ne7 17.Nb3 Nf5 18.Bxf5 gxf5 19.Rfb1 f6 20.exf6 Qf7 21.Nc5 Qxf6 22.Nf4 Bf7
+23.Qd3 Bxc5 24.bxc5 c6 25.Qb3 Rd7 26.Qa4 a6 27.Nd3 Rc7 28.Ne5 Be8 29.Rb6 Rg7
+30.Rab1 Rhg8 31.Qxa6 Rxg2+ 32.Kf1 Rxf2+ 33.Ke1 Rg1+ 34.Kxf2 Qxh4+ 35.Kxg1 Qxd4+
+36.Kg2 Qd2+ 37.Kf3 Qc3+ 38.Nd3 Kd8 39.Rxb7 Bd7 40.Rxd7+  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "2"]
+[White "Jasnogrodsky, Nicolai"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D11"]
+
+1.Nf3 d5 2.d4 Bf5 3.c4 c6 4.Qb3 Qb6 5.Nc3 e6 6.Bf4 Nf6 7.e3 Nbd7 8.Be2 Be7
+9.O-O O-O 10.Rac1 Ne4 11.Nxe4 Bxe4 12.Ne5 Nxe5 13.Bxe5 f6 14.Bg3 g5 15.f3 Bg6
+16.Rfd1 h5 17.Bd3 Qxb3 18.axb3 Bxd3 19.Rxd3 h4 20.Bf2 f5 21.Re1 Bd6 22.e4 fxe4
+23.fxe4 Bxh2+ 24.Kxh2 Rxf2 25.exd5 cxd5 26.Rxe6 Kf7 27.Re5 g4 28.Rg5 Rg8
+29.Rxd5 g3+ 30.Kg1 Re8 31.Rd1 Ree2 32.Rf1 Rxf1+ 33.Kxf1 Rf2+ 34.Ke1 Rxg2
+35.Rh5 Rh2 36.d5 h3 37.Rf5+ Ke7 38.c5 Rh1+ 39.Ke2 g2 40.d6+ Ke6 41.Re5+ Kxe5
+42.d7 Rd1  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "2"]
+[White "Albin, Adolf"]
+[Black "Riccardo Rocamora, S."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D05"]
+
+1.Nf3 d5 2.d4 Nf6 3.e3 e6 4.Bd3 Be7 5.Ne5 O-O 6.f4 c5 7.c3 Nbd7 8.Nd2 Re8
+9.O-O Nf8 10.g4 N6d7 11.Ndf3 f6 12.Nxd7 Bxd7 13.g5 c4 14.Bc2 fxg5 15.fxg5 Bxg5
+16.Ne5 Bf6 17.Qh5 Bxe5 18.Rxf8+ Kxf8 19.dxe5 h6 20.h4 Re7 21.Qg6 Be8 22.Qh7 Bf7
+23.Qh8+ Bg8 24.Bh7 Kf7 25.Bd2 Bxh7 26.Qxh7 Ke8 27.Rf1 Kd7 28.e4 Qg8 29.Qg6 Rf8
+30.Rxf8 Qxf8 31.exd5 Qf5 32.Qxf5 exf5 33.Bf4 g5 34.e6+ Kc8 35.Be5 gxh4 36.Bf6 Re8
+37.Bxh4 f4 38.Bf6 Rf8 39.Be7 Rf5 40.d6 Rd5 41.d7+ Rxd7 42.exd7+  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "2"]
+[White "Hymes, Edward"]
+[Black "Hanham, James Moore"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Nc3 c6 5.Bd3 Be7 6.Ne2 Ngf6 7.O-O O-O 8.b3 Re8
+9.Bb2 Qc7 10.Ng3 Bf8 11.c4 b6 12.Qd2 Bb7 13.Rfe1 Rad8 14.Nf5 h6 15.h3 Nh7
+16.g4 Re6 17.Kh1 Rf6 18.Rg1 Kh8 19.g5 hxg5 20.Nxg5 g6 21.Nxh7 Kxh7 22.Qg5 c5
+23.d5 Bg7 24.Rg4 Nf8 25.Rh4+ Kg8 26.Nxg7 Rxf2 27.Nf5 Ne6 28.dxe6 Rxf5 29.Qh6  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "2"]
+[White "Delmar, Eugene"]
+[Black "Baird, David Graham"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.a4 b4 10.Be3 Be7 11.a5 O-O 12.Nbd2 Bg4 13.Qe1 Nc5 14.Nd4 Nxd4 15.Bxd4 Ne6
+16.f3 Nxd4 17.fxg4 c5 18.c3 Nxb3 19.Nxb3 c4 20.Nd4 Bc5 21.Kh1 Bxd4 22.cxd4 Qe7
+23.Rf5 Rac8 24.Rc1 Rc6 25.Qg3 Qc7 26.Rcf1 c3 27.bxc3 bxc3 28.Qe3 c2 29.Rc1 Qxa5
+30.h3 Rb8 31.Rff1 Qc7 32.Qf3 Qd8 33.Qxf7+ Kh8 34.e6 Qe8 35.Rfe1 h6 36.Qf5 Rb1
+37.e7 Rxc1 38.Qf8+ Kh7 39.Rxc1 Rc8 40.Qf5+ g6 41.Qe5 Qf7 42.Kh2 Re8 43.Rxc2 Rxe7
+44.Qg3 Qf6 45.Rd2 Rf7 46.Rd3 Qf4 47.Qxf4 Rxf4 48.Kg3 Re4 49.Rc3 Rxd4 50.Rc7+ Kg8
+51.Rc6 Kf7 52.Rxa6 Rd2 53.Kf3 g5 54.Rxh6 Rd3+ 55.Ke2 Rg3 56.Kf2 Rd3 57.Rd6 Kg7
+58.Re6 Kf7 59.Re3 Rd2+ 60.Kf3 Kf6 61.Re2 Rd3+ 62.Kf2 Rd4 63.Ke3 Ke5 64.Rf2 Re4+
+65.Kd2 Ra4 66.Rf5+ Ke4 67.Ke2 d4 68.Rxg5 d3+ 69.Kd1 Ra1+ 70.Kd2 Ra2+ 71.Ke1 Rxg2
+72.Rg8 d2+ 73.Kd1 Kd3 74.Rd8+ Kc3 75.Rc8+ Kd3 76.Rd8+ Kc3  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "2"]
+[White "Steinitz, William"]
+[Black "Halpern, Jacob C"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C05"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.f4 c5 6.c3 Nc6 7.Ngf3 cxd4 8.cxd4 Bb4
+9.a3 Ba5 10.Bd3 f5 11.b4 Bb6 12.Nb3 Qe7 13.Bd2 Nf8 14.b5 Nd8 15.Bb4 Qf7 16.a4 h6
+17.a5 Bc7 18.Rc1 b6 19.a6 Ng6 20.g3 Qd7 21.Qc2 Bxe5 22.dxe5 Ne7 23.Nbd4 Nf7
+24.Qc7 g5 25.Kf2 Ng6 26.Nxe6 Qxe6 27.Rc6 Qd7 28.Qxd7+ Bxd7 29.Rxg6 Nd8 30.e6 Bxe6
+31.Re1 Kf7 32.Ne5+ Ke8 33.Rg7  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "3"]
+[White "Baird, David Graham"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C72"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.d4 Bd7 6.O-O Nge7 7.Bg5 h6 8.Be3 b5
+9.Bb3 exd4 10.Bf4 g5 11.Bg3 Bg7 12.Bd5 O-O 13.c3 Nxd5 14.exd5 dxc3 15.Nxc3 Ne7
+16.Nd4 b4 17.Nce2 Nxd5 18.Qb3 Nb6 19.Qc2 f5 20.f4 c5 21.Qb3+ Kh8 22.Nf3 Ba4
+23.Qd3 Bb5 24.Qc2 g4 25.Nh4 Qf6 26.Rad1 Nc4 27.Bf2 Rae8 28.Rfe1 Ne3 29.Bxe3 Rxe3
+30.g3 Rfe8 31.Rd2 R3e4 32.Kf2 c4 33.Qd1 c3 34.bxc3 bxc3 35.Rxd6 Rxe2+ 36.Rxe2 Rxe2+
+37.Kg1 c2 38.Qxe2 c1=Q+ 39.Qd1 Qd4+ 40.Rxd4 Bxd4+ 41.Kg2 Bc6+ 42.Kf1 Qxd1+  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "3"]
+[White "Hanham, James Moore"]
+[Black "Albin, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 d6 6.Nbd2 O-O 7.O-O a6 8.Bb3 Be6
+9.Bc2 Ba7 10.h3 Qd7 11.Kh2 h6 12.Ng1 g5 13.Ndf3 Kg7 14.d4 exd4 15.Nxd4 Nxd4
+16.cxd4 Qe7 17.f4 g4 18.e5 dxe5 19.dxe5 Bxg1+ 20.Kxg1 Qc5+ 21.Kh2 Nh5 22.hxg4 Rad8
+23.Qe2 Bc4 24.Qe4 Rh8 25.Be3 Qb5 26.a4 Qd5 27.Qxd5 Rxd5 28.Rf2 Re8 29.gxh5 f6
+30.Be4 Rd7 31.Rc1 Bf7 32.Bf5 Rdd8 33.Rxc7 fxe5 34.Bg6  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "3"]
+[White "Riccardo Rocamora, S."]
+[Black "Delmar, Eugene"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.Be3 Nd7 7.Nf3 Nb6 8.c4 Bd7
+9.Bd3 Bc6 10.a3 h5 11.Qd2 Rg8 12.Kf1 Qd7 13.Qa5 Na4 14.b3 Nc5 15.Bc2 b6 16.Qe1 Ne4
+17.Bf4 Nd6 18.d5 Bb7 19.Bg3 O-O-O 20.dxe6 fxe6 21.Rd1 e5 22.Nh4 Qc6 23.Rd5 Qe8
+24.Rd1 Bh6 25.f3 Bg5 26.Nf5 Nxf5 27.Bxf5+ Kb8 28.Rxd8+ Qxd8 29.h4 Bd2 30.Qf2 Bc3
+31.Qc2 Bd4 32.Bf2 Bxf2 33.Kxf2 Qd4+ 34.Kf1 Rd8 35.Ke2 Qf4 36.Rh3 Rd4 37.Bg6 e4
+38.Bxh5 Qe5 39.Qb2 exf3+ 40.Kf2 fxg2  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "3"]
+[White "Showalter, Jackson Whipps"]
+[Black "Hymes, Edward"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C79"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Bd7 6.c3 Nf6 7.Bc2 Be7 8.d4 O-O
+9.h3 Ne8 10.Nh2 exd4 11.cxd4 f5 12.Nc3 fxe4 13.Bb3+ Kh8 14.Nxe4 Bf5 15.Ng3 Bg6
+16.Ne2 Bh5 17.g4 Bf7 18.d5 Ne5 19.f4 Ng6 20.g5 Nh4 21.Nd4 Qc8 22.f5 g6 23.f6 Qxh3
+24.Qg4 Qxg4+ 25.Nxg4 Bd8 26.Ne6 h5 27.Nh6 Bxe6 28.dxe6 Bxf6 29.Nf7+ Kg7 30.gxf6+ Nxf6
+31.Bh6+ Kh7 32.Bxf8  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "3"]
+[White "Halpern, Jacob C"]
+[Black "Jasnogrodsky, Nicolai"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.O-O O-O 7.Bg5 Bg4 8.Nc3 c6
+9.Re1 Nbd7 10.h3 Bh5 11.g4 Bg6 12.Ne5 Qc7 13.Nxd7 Qxd7 14.Bxf6 gxf6 15.Qf3 Kg7
+16.Nd1 Bc7 17.Ne3 Qd6 18.Kf1 Qf4 19.Qxf4 Bxf4 20.Ng2 Bd6 21.Rad1 Rfe8 22.f4 Bxd3+
+23.Rxd3 Rxe1+ 24.Kxe1 Re8+ 25.Kf2 f5 26.Kf3 Re4 27.c3 fxg4+ 28.hxg4 h5 29.Re3 hxg4+
+30.Kxg4 Kg6 31.Rxe4 f5+ 32.Kg3 dxe4 33.Ne3 b5 34.b3 Ba3 35.b4 Bb2 36.Nd1 Bc1
+37.Nf2 Bd2 38.Nd1 Kf6 39.a3 Ke6 40.Kf2 Bxf4 41.Ke2 Bc1 42.Nf2 Kd5 43.Nh3 Kc4
+44.Kd1 Bh6 45.Kc2 f4 46.Nf2 e3 47.Nd3 Kd5 48.Kd1 Ke4 49.Nc5+ Kf3 50.Ke1 Bg5
+51.Nd3 Bh4+ 52.Kd1 a6 53.Ne5+ Ke4 54.Ke2 Bg5 55.Nf3 Bf6 56.Ne1 Kd5 57.Kd3 Bh4
+58.Nf3 Bf2 59.Ne5 Ke6 60.Ke2 Kd5 61.Kd3 Bh4 62.Nf3 Bf6 63.Ne1 Ke6 64.Nf3 Kf5
+65.Ke2 Ke4 66.Ne1 Bd8 67.Nf3 a5 68.Ne1 a4 69.Nf3 Bf6 70.Ne1 Bxd4 71.cxd4 Kxd4
+72.Ng2 Kc3 73.Nxf4 Kb3 74.Kd3 Kxa3 75.Kc3 Ka2 76.Kc2 c5 77.bxc5 b4 78.Ne2 b3+
+79.Kd3 b2 80.Nc3+ Kb3 81.c6 e2 82.Kxe2 Kxc3 83.c7 b1=Q 84.c8=Q+ Kb2 85.Kd2 a3
+86.Qc3+ Ka2 87.Qc2+ Ka1 88.Qc1  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "4"]
+[White "Steinitz, William"]
+[Black "Riccardo Rocamora, S."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.c3 Qe7 6.O-O a6 7.Ba4 b5 8.Bc2 d6
+9.a4 b4 10.d4 exd4 11.cxd4 Ba7 12.e5 dxe5 13.dxe5 Ng4 14.Be4 Qc5 15.Nbd2 Nxf2
+16.Bxc6+ Ke7 17.Rxf2 Qxc6 18.Nb3 Bxf2+ 19.Kxf2 Re8 20.Nbd4 Qg6 21.Be3 Kf8
+22.Rc1 f6 23.Rxc7 fxe5 24.Nc6 e4 25.Bc5+ Kg8 26.Ne7+ Rxe7 27.Rxe7 Be6 28.Qd6 exf3
+29.Qxe6+ Qxe6 30.Rxe6 Rc8 31.Bxb4  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "4"]
+[White "Albin, Adolf"]
+[Black "Showalter, Jackson Whipps"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D05"]
+
+1.Nf3 d5 2.d4 Nf6 3.e3 e6 4.Bd3 b6 5.Ne5 Bb7 6.O-O Bd6 7.f4 Nbd7 8.Nd2 O-O
+9.Rf3 Ne4 10.Rh3 f5 11.Ndf3 Ndf6 12.Bd2 Qe8 13.Qe2 Nxd2 14.Qxd2 c5 15.c3 c4
+16.Bc2 Ne4 17.Qe2 b5 18.Kh1 a5 19.Rg1 Bxe5 20.Nxe5 b4 21.g4 Ra6 22.Bxe4 fxe4
+23.g5 Bc8 24.Rxh7 Kxh7 25.g6+ Kg8 26.Qh5 Rf5 27.Qh7+ Kf8 28.Qh8+ Ke7 29.Qxg7+ Kd6
+30.Nf7+ Kc6 31.Ne5+ Rxe5 32.fxe5 Bd7 33.Rf1 Ra8 34.Rf7 Rd8 35.Kg2 bxc3 36.bxc3 Bc8
+37.a4 Qh8 38.Qxh8 Rxh8 39.g7 Rg8 40.h4 Bd7 41.Kg3 Be8 42.Re7 Kb6 43.Kf4 Bxa4
+44.h5 Be8 45.h6  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "4"]
+[White "Jasnogrodsky, Nicolai"]
+[Black "Baird, David Graham"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D43"]
+
+1.d4 d5 2.Nf3 e6 3.c4 Nf6 4.Nc3 c6 5.Bg5 h6 6.Bxf6 Qxf6 7.e4 dxe4 8.Nxe4 Bb4+
+9.Nc3 Nd7 10.a3 Bxc3+ 11.bxc3 c5 12.Be2 e5 13.O-O cxd4 14.cxd4 exd4 15.Nxd4 O-O
+16.Nb5 Ne5 17.Nc7 Rb8 18.Nd5 Qe6 19.Qd4 Nc6 20.Qc3 Qe5 21.Qxe5 Nxe5 22.f4 Bg4
+23.Bxg4 Nxg4 24.h3 Nf6 25.Rfe1 Rfe8 26.Rab1 Rxe1+ 27.Rxe1 Nxd5 28.cxd5 Kf8
+29.Kf2 Rd8 30.Rd1 Ke7 31.Ke3 Kd6 32.Kd4 Rc8 33.Rb1 b6 34.Rb5 f5 35.g4 g6
+36.a4 Re8 37.gxf5 gxf5 38.a5 Re4+ 39.Kd3 bxa5 40.Rxa5 Rxf4 41.Rxa7 Rh4 42.Rf7 Rxh3+
+43.Kd4 Rh4+ 44.Ke3 Ke5 45.d6 Re4+ 46.Kf3 Rd4 47.d7 Ke6 48.Rh7 Rxd7 49.Rxh6+ Ke5
+50.Ra6 Rd3+ 51.Kf2 Kf4 52.Ra4+ Kg5 53.Ra8 Kg4 54.Rg8+ Kf4 55.Ra8 Rb3 56.Ra4+ Kg5
+57.Ra8 Kg4 58.Rg8+ Kf4 59.Ra8 Rb2+ 60.Kg1 Kf3 61.Ra3+ Ke2 62.Ra4 Rb3 63.Kg2 Ke3
+64.Kg3 Rb1 65.Ra3+ Ke4 66.Ra4+ Ke5 67.Kf3 Rb3+ 68.Kf2 Kf6 69.Ra8 Kg5 70.Rg8+ Kf4
+71.Ra8 Rf3+ 72.Kg2 Re3 73.Kf2 Re4 74.Rb8 Ra4 75.Rb7 Ra2+ 76.Kg1 Kg4 77.Rb4+ f4
+78.Rb8 Kg3 79.Rg8+ Kf3 80.Rb8 Ra1+ 81.Kh2 Re1 82.Ra8 Kf2 83.Ra3 f3 84.Rb3 Re3
+85.Rb2+ Ke1 86.Rb1+ Kf2 87.Rb2+ Re2 88.Rb1 Re1 89.Rb2+ Re2 90.Rb1 Re1 91.Rb2+ Re2
+92.Rb1 Re1 93.Rb2+ Re2 94.Rb1 Rd2 95.Ra1 Rd5 96.Ra2+ Ke3 97.Ra3+ Rd3 98.Ra1 Rd2+
+99.Kg1 Rg2+ 100.Kf1 Rg5 101.Ra8 Kf4 102.Kf2 Rg2+ 103.Kf1  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "4"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Halpern, Jacob C"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D00"]
+
+1.d4 d5 2.e3 e6 3.Bd3 c5 4.c3 Nc6 5.f4 f5 6.Nf3 Nf6 7.O-O Bd6 8.Ne5 O-O 9.Nd2 Ne4
+10.Ndf3 Bxe5 11.Nxe5 Nxe5 12.fxe5 c4 13.Bxe4 fxe4 14.Rxf8+ Qxf8 15.b3 b5
+16.a4 Bd7 17.axb5 Bxb5 18.Ba3 Qe8 19.Bd6 cxb3 20.Qxb3 a6 21.Qb2 h6 22.h3 Ra7
+23.Qf2 Rf7 24.Qg3 Rf5 25.Ra2 Qh5 26.Rf2 Rg5 27.Qf4 Rf5 28.Qg3 Qd1+ 29.Kh2 Qe1
+30.Rxf5 Qxg3+ 31.Kxg3 exf5 32.Kf4 Bd7 33.e6 Bxe6 34.Ke5 Kf7 35.g3 g5 36.h4 a5
+37.Ba3 f4 38.gxf4 gxh4 39.f5 h3 40.fxe6+ Ke8 41.Kxd5 h2 42.Kc6 h1=Q 43.d5 Qh3
+44.Bc5 Qf5 45.c4 h5 46.Bd6 Qf1 47.c5 Qa6+ 48.Kc7 a4 49.Bf4 Qb5 50.Kd6 Qb8+
+51.Kc6 Qc8+ 52.Kd6 a3 53.c6 a2 54.Be5 h4 55.Kc5 h3 56.d6 Qxe6 57.d7+ Qxd7
+58.cxd7+ Kxd7 59.Kd5 h2 60.Bxh2 a1=Q  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "4"]
+[White "Delmar, Eugene"]
+[Black "Hanham, James Moore"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D00"]
+
+1.d4 d5 2.e3 e6 3.Bd3 Bd6 4.f4 Nf6 5.Nf3 b6 6.Ne5 a6 7.O-O c5 8.c3 Ra7 9.Nd2 Rc7
+10.Rf3 g6 11.Rh3 Nc6 12.Ndf3 Ne4 13.Bxe4 dxe4 14.Nd2 Bxe5 15.fxe5 cxd4 16.exd4 Qd5
+17.Qe1 e3 18.Qxe3 f5 19.Nf3 Bb7 20.Bd2 b5 21.b3 Ne7 22.Qe2 h5 23.Rc1 Qd7
+24.c4 Bxf3 25.Qxf3 Qxd4+ 26.Qe3 Qxe3+ 27.Rxe3 bxc4 28.Rxc4 Rxc4 29.bxc4 Kf7
+30.Rb3 Rc8 31.Rb7 Ke8 32.Bb4 Nc6 33.Bd6 g5 34.c5 f4 35.Kf2 Nxe5 36.Bxe5 Rxc5
+37.Bf6 Rc2+ 38.Kf3 g4+ 39.Kxf4 Rxg2 40.Rb2 Rg1 41.Bh4 Kf7 42.Kg5 e5 43.Kf5 Rc1
+44.Kxe5 Rc5+ 45.Kd6 Ra5 46.Rf2+ Kg6 47.Ke6 Ra3 48.Re2 Rh3 49.Be7 g3 50.hxg3 Rxg3
+51.a3 h4 52.Bd6 Rf3 53.a4 h3 54.Kd7 Rc3 55.Bc7 Kf5 56.Re5+ Kg4 57.Re6 a5
+58.Rc6 Rd3+ 59.Ke6 Rd4 60.Rc3 Rxa4 61.Rg3+ Kh4 62.Kf5 Rc4 63.Rg7 Rxc7 64.Rxc7 h2
+65.Kf4 Kh3 66.Rc3+ Kg2 67.Rc2+ Kh3 68.Rc3+ Kg2 69.Rg3+ Kf2  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "5"]
+[White "Hanham, James Moore"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.Nbd2 Bb6 7.Bb3 Ne7 8.Nc4 Ng6
+9.h3 c6 10.O-O Bc7 11.a4 Qe7 12.Re1 O-O 13.d4 Kh8 14.Qd3 Nh5 15.Nh2 Nhf4
+16.Bxf4 Nxf4 17.Qg3 Be6 18.Rad1 f6 19.Nf1 Qf7 20.Nfe3 d5 21.exd5 cxd5 22.dxe5 dxc4
+23.Bxc4 fxe5 24.b3 e4 25.Qh4 Rae8 26.Rd4 g5 27.Qh6 Nxh3+ 28.Kh1 Nxf2+ 29.Kg1 Nh3+
+30.Kh1 Qf2 31.Rf1 Qg1+ 32.Rxg1 Nf2+  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "5"]
+[White "Baird, David Graham"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A00"]
+
+1.d4  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "5"]
+[White "Riccardo Rocamora, S."]
+[Black "Jasnogrodsky, Nicolai"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6 5.Nxf6+ Qxf6 6.Nf3 Bd6 7.Bd3 h6 8.Bd2 Nc6
+9.c3 e5 10.d5 Ne7 11.Bb5+ c6 12.dxc6 bxc6 13.Be2 O-O 14.Qa4 Bd7 15.g4 Ng6
+16.g5 hxg5 17.Bxg5 Qf5 18.h4 c5 19.Qd1 e4 20.Qxd6 exf3 21.Bd3 Qe5+ 22.Qxe5 Nxe5
+23.Be4 Rae8 24.O-O-O Bb5 25.Rhg1 Be2 26.Rd5 f5 27.Bc2 c4 28.Bf4 Nd3+ 29.Bxd3 Bxd3
+30.h5 Rf7 31.Re5 Rfe7 32.Rxe7 Rxe7 33.h6 Kh7 34.hxg7 Kg8 35.Bd6 Re2 36.Bc5 Rc2+
+37.Kd1 Rxb2 38.Rg3 f4 39.Rg5 Rxa2 40.Bd4 Ra1+ 41.Kd2 Ra2+ 42.Kd1 Bc2+ 43.Kc1 Bh7
+44.Rc5 Ra1+ 45.Kb2 Rb1+ 46.Ka2 Rb8 47.Rxc4 Bg6 48.Ka3 a6 49.Rc6 Bd3 50.Rh6 Kf7
+51.Rf6+ Kg8 52.Rxf4 Be2 53.Rh4 Kf7 54.Rh8 Rg8 55.Rxg8 Kxg8 56.Kb4 Kf7 57.c4 a5+
+58.Kc5 a4 59.Kb4 a3 60.c5 Bd3 61.Kxa3 Bc4 62.Kb4 Be6 63.Kb5 Ke7 64.Kb6 Kd8
+65.Kb7 Bd5+ 66.c6 Ke7 67.Kc7  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "5"]
+[White "Showalter, Jackson Whipps"]
+[Black "Delmar, Eugene"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nc6 5.Nf3 Nf6 6.Bd3 Be7 7.O-O Nb4 8.Re1 Nxd3
+9.Qxd3 O-O 10.Bg5 b6 11.Ne5 Bb7 12.Nxf6+ Bxf6 13.Bxf6 Qxf6 14.Re3 Rfd8 15.Rh3 h6
+16.c3 c5 17.Ng4 Qf4 18.Rh4 Qg5 19.Qg3 Kh7 20.f4 Qg6 21.Rd1 cxd4 22.cxd4 Rac8
+23.Ne3 Qxg3 24.hxg3 g6 25.g4 Kg7 26.Kf2 g5 27.fxg5 hxg5 28.Rh5 f6 29.Rdh1 Rh8
+30.Rxh8 Rxh8 31.Rxh8 Kxh8 32.Nc4 Bd5 33.b3 Kg8 34.Nd6 Bc6 35.Nc8 Bd7 36.Nxa7 b5
+37.Ke3 Kf8 38.Kd3 Ke7 39.Kc3 e5 40.dxe5 fxe5 41.Kb4 e4 42.Kc3 Kd6 43.Kd4 b4
+44.Kxe4 Kc5 45.Ke5 Bxg4 46.Kf6 Kb6 47.Kxg5 Bd7 48.Kf4 Kxa7 49.Ke3 Kb6 50.Kd2 Kc5
+51.Kc2 Kd4 52.Kb2  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "5"]
+[White "Hymes, Edward"]
+[Black "Albin, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D12"]
+
+1.Nf3 d5 2.d4 Nf6 3.e3 Bf5 4.c4 c6 5.Nc3 e6 6.Qb3 Qb6 7.Be2 Qxb3 8.axb3 Bc2
+9.c5 Bxb3 10.Ra3 Bc2 11.Kd2 Bg6 12.Rb3 b6 13.cxb6 axb6 14.Rxb6 Bd6 15.Bd3 O-O
+16.Ke2 Bxd3+ 17.Kxd3 Na6 18.Ke2 Nb4 19.Bd2 Rfc8 20.Rc1 Nd7 21.Rb7 Nf6 22.Ne5 Rcb8
+23.Rxb8+ Rxb8 24.Nf3 Ne4 25.Nxe4 dxe4 26.Ng5 f5 27.Nxe6 Kf7 28.Bxb4 Kxe6
+29.Bc3 Ra8 30.f4 Kd5 31.h3 Ra2 32.g4 g6 33.Kd2 fxg4 34.hxg4 Ba3 35.Kc2 Bd6
+36.Rh1 Ra7 37.g5 Ke6 38.b3 Ra2+ 39.Bb2 Ba3 40.Rb1 Kd5 41.Kc3 Bxb2+ 42.Rxb2 Ra1
+43.Rh2 Rd1 44.Kc2 Re1 45.Kd2 Rb1 46.Rxh7 Rxb3 47.Re7 Kc4 48.Rxe4 Rb2+ 49.Ke1 Kd3
+50.Re6 Ra2 51.f5 gxf5 52.g6 f4 53.exf4 Kxd4 54.Re7 c5 55.g7 Rg2 56.f5 Kd5
+57.f6 Kd6 58.Re8  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "6"]
+[White "Delmar, Eugene"]
+[Black "Hymes, Edward"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D05"]
+
+1.d4 d5 2.e3 e6 3.Bd3 Nf6 4.Nf3 Nbd7 5.b3 c5 6.Bb2 Bd6 7.Nbd2 O-O 8.Ne5 b6
+9.O-O Bb7 10.Nxd7 Nxd7 11.f4 f5 12.Nf3 Rc8 13.c4 Qe8 14.Qe1 cxd4 15.Bxd4 Qh5
+16.Qg3 Nf6 17.Rad1 Qh6 18.Ng5 Rce8 19.Bc3 Qg6 20.Qh3 Ne4 21.Nxe4 fxe4 22.Be2 Bc5
+23.b4 Be7 24.Bh5 Qh6 25.Bxe8 Qxh3 26.gxh3 Rxe8 27.f5 Bg5 28.Rfe1 Bh4 29.Re2 exf5
+30.cxd5 Rd8 31.d6 Kf7 32.Be5 Rd7 33.Rc2 Ke6 34.Rc7 g6 35.Rxd7 Kxd7 36.b5 Bd8
+37.Kf2 Ke6 38.Bc3 Bd5 39.Bb4 Bh4+ 40.Kg1 Bg5 41.Kf2 Bh4+ 42.Kg2 f4 43.exf4 e3+
+44.Rxd5 Kxd5 45.Kf3 Kc4 46.a3 Kd3 47.d7 e2 48.Be1 Bd8 49.h4 Kc4 50.Ke4 Kxb5
+51.Kd5 Ka4 52.h5 Kxa3 53.hxg6 hxg6 54.h4 b5 55.f5 gxf5 56.h5 b4 57.h6 b3
+58.h7 b2 59.h8=Q b1=Q 60.Qxd8 Qxe1 61.Qe7+ Ka4 62.d8=Q Qd2+ 63.Kc4 Qc2+ 64.Kd4 Qd1+
+65.Kc3 e1=Q+ 66.Qxe1 Qxe1+ 67.Kb2 Qe2+ 68.Ka1 Qe5+ 69.Ka2 f4 70.Qd7+ Kb4
+71.Qb7+ Qb5 72.Qe7+ Qc5 73.Qb7+ Kc3 74.Qf3+ Qe3 75.Qc6+ Kd2 76.Qg2+ Ke1 77.Qh1+ Ke2
+78.Qg2+ Qf2 79.Qe4+ Kf1+  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "6"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Riccardo Rocamora, S."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C31"]
+
+1.e4 e5 2.f4 d5 3.exd5 e4 4.Nc3 Nf6 5.Qe2 Bd6 6.Nxe4 O-O 7.Nxf6+ Qxf6 8.g3 Bf5
+9.d3 Nd7 10.Qf3 Nb6 11.Be2 Rfe8 12.g4 Bd7 13.g5 Qd4 14.c3 Qxd5 15.Kf2 Bc6
+16.Qxd5 Nxd5 17.Bf3 Nxf4 18.Bxf4 Bxf4 19.Bxc6 bxc6 20.h4 Rab8 21.Rb1 Be3+
+22.Kf3 Bd2 23.Ne2 Re3+ 24.Kf2 Rxd3 25.Nd4 c5 26.Ke2 c4 27.Rhd1 Re8+ 28.Kf2 Be3+
+29.Kf1 Bxd4 30.Rxd3 cxd3 31.cxd4 Re4 32.Kf2 d2 33.Rd1 Rxd4 34.Ke3 Rd6 35.Rxd2 Rxd2
+36.Kxd2 Kf8 37.Kd3 Ke7 38.Kd4 Ke6 39.b4 f5 40.b5 Kd6 41.h5 Ke6 42.a4 Kd6
+43.a5 g6 44.a6 gxh5  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "6"]
+[White "Halpern, Jacob C"]
+[Black "Baird, David Graham"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 d6 5.O-O Nf6 6.d3 O-O 7.Bg5 h6 8.Bh4 Be6
+9.Bb5 a6 10.Ba4 b5 11.Bc2 Bg4 12.Nbd2 g5 13.Bg3 Nh5 14.Kh1 Nf4 15.Bxf4 gxf4
+16.h3 Bh5 17.Bb3 Kh8 18.Bd5 Qe8 19.Qc1 Rb8 20.d4 Bxf3 21.Nxf3 Bb6 22.Bxc6 Qxc6
+23.dxe5 Qxe4 24.exd6 cxd6 25.Qd2 Rbd8 26.Rae1 Qf5 27.g4 fxg3 28.Qxh6+ Qh7
+29.Qxh7+ Kxh7 30.fxg3 Rde8 31.Kg2 f6 32.Rxe8 Rxe8 33.Re1 Re3 34.Rxe3 Bxe3
+35.b3 Kg6 36.g4 d5 37.Kf1 a5 38.Ke2 Bc5 39.h4 b4 40.cxb4 Bxb4 41.Nd4 Bd6
+42.Nf5 Bc5 43.Kd3 Kh7 44.Ne3 a4 45.Nxd5 axb3 46.axb3 f5 47.g5 Bf2 48.h5 Bh4
+49.g6+ Kh6 50.b4 Bg3 51.Ne7 Be5 52.Nxf5+ Kxh5 53.g7 Bxg7 54.Nxg7+ Kg6 55.b5  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "6"]
+[White "Jasnogrodsky, Nicolai"]
+[Black "Hanham, James Moore"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.Nf3 d5 2.d4 e6 3.Bf4 Bd6 4.Bg3 Nf6 5.Nbd2 b6 6.e3 Bb7 7.Bd3 Qe7 8.Ne5 a6
+9.c4 Nbd7 10.O-O O-O 11.Rc1 Bxe5 12.dxe5 Ne8 13.Bb1 Rd8 14.Qc2 g6 15.Nf3 Rc8
+16.Bh4 f6 17.exf6 Nexf6 18.Qc3 Qg7 19.Ng5 Rfe8 20.f4 a5 21.Nf3 dxc4 22.Qxc4 Nd5
+23.Qe2 e5 24.f5 c5 25.fxg6 hxg6 26.Bg5 e4 27.Nh4 Re6 28.Rf2 Rf8 29.Rxf8+ Nxf8
+30.Rf1 Nh7 31.Qg4 Qe5 32.Bh6 Ne7 33.Bf4 Nf6 34.Qh3 Qd5 35.Bc2 Nh5 36.Bg5 Nc6
+37.Rd1 Qxa2 38.Nxg6 Ng7 39.Qh8+ Kf7 40.Rf1+ Nf5 41.Qh7+ Ke8 42.Rxf5 Ne7 43.Bxe7 Rxg6
+44.Qxg6+ Kxe7 45.Qg7+  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "6"]
+[White "Steinitz, William"]
+[Black "Showalter, Jackson Whipps"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D66"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Rc1 O-O 7.Nf3 c6 8.Bd3 h6
+9.Bh4 dxc4 10.Bxc4 Nd5 11.Bg3 N7b6 12.Bd3 Nxc3 13.bxc3 Ba3 14.Rc2 Bd7 15.Ne5 Be8
+16.Qf3 f5 17.O-O Nd5 18.Rb1 b5 19.c4 Nb4 20.Rxb4 Bxb4 21.Nxc6 Bxc6 22.Qxc6 Qb6
+23.cxb5 Qxc6 24.bxc6 a6 25.c7 Rfc8 26.Rc6 Ba5 27.Bc4 Kf8 28.Bxe6 Ke7 29.Bxf5  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "7"]
+[White "Jasnogrodsky, Nicolai"]
+[Black "Hymes, Edward"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 e6 3.Bf4 Nf6 4.Nbd2 Bd6 5.Bg3 O-O 6.e3 Nbd7 7.Bd3 Re8 8.Ne5 c5
+9.c3 Qb6 10.O-O Re7 11.Rb1 Bxe5 12.dxe5 Ne8 13.Qh5 Nf8 14.Bh4 Rd7 15.Nf3 Qc7
+16.Bb5 Ng6 17.Ng5 Rd8 18.Qxh7+ Kf8 19.f4 Bd7 20.Bd3 Nxh4 21.Qh8+ Ke7 22.Qxh4 f6
+23.Nh7 Bc6 24.Bg6 b6 25.Rbd1 Bb7 26.e4 Kd7 27.exf6 gxf6 28.Bxe8+ Kxe8 29.Nxf6+ Kf8
+30.e5 Qg7 31.Rd3 Kf7 32.Rg3 Qh8 33.Nh7 Rg8 34.Ng5+ Ke7 35.Qg4 Bc8 36.Qf3 Qh6
+37.Rh3 Qg6 38.Rh7+ Rg7 39.f5 exf5 40.Rxg7+ Qxg7 41.Qxd5 Qxg5 42.Qxa8 Bd7
+43.Qd5 Qg4 44.Qd6+ Ke8 45.e6 Bb5 46.Rd1 Qg5 47.e7 Qe3+ 48.Kh1 Qxe7 49.Qxe7+ Kxe7
+50.Kg1 Bc6 51.Kf2 c4 52.b3 cxb3 53.axb3 a5 54.g3 b5 55.Ke3 Ke6 56.Kd4 Bd5
+57.c4 bxc4 58.bxc4 Bc6 59.Kc5 Be8 60.Re1+ Kf7 61.Kb6 a4 62.c5  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "7"]
+[White "Halpern, Jacob C"]
+[Black "Hanham, James Moore"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.c3 Nb6 6.Bb3 Qc7 7.Be3 Bg4 8.Nbd2 Nf6
+9.Qc2 Nbd7 10.Ng5 Bh5 11.f4 Ng4 12.Qd3 Be7 13.fxe5 dxe5 14.h3 Ngf6 15.g4 Bg6
+16.Ngf3 Rd8 17.Qc2 b5 18.g5 Nh5 19.Rg1 c5 20.dxc5 Nxc5 21.O-O-O a5 22.a3 O-O
+23.Nh4 b4 24.Nxg6 hxg6 25.Bxc5 Qxc5 26.cxb4 axb4 27.a4 Qe3 28.h4 Nf4 29.Kb1 Nd3
+30.Bd5 Nc5 31.Nc4 Qf4 32.Rdf1 Qxh4 33.Nxe5 b3 34.Qc4 Rxd5 35.exd5 Qh2 36.Nc6 Bd6
+37.Rh1 Qd2 38.Rh3 Qxg5 39.Rfh1 f5 40.Ne5 Qh5 41.Rxh5 gxh5 42.Rxh5 Ne4 43.Nf3 g6
+44.Rh1 Rb8 45.Qd4 Bf8 46.Qh8+ Kf7 47.Ne5+ Ke8 48.Nxg6 Kf7 49.Ne5+ Ke8 50.Qh5+ Kd8
+51.Qf7 Nd2+ 52.Ka1 Be7 53.d6 Rb7 54.Qg8+  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "7"]
+[White "Baird, David Graham"]
+[Black "Riccardo Rocamora, S."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B73"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Be3 d6 7.Be2 Bd7 8.O-O Nf6
+9.Kh1 O-O 10.a3 Ne8 11.Rb1 Kh8 12.f3 f5 13.Qd2 Qc8 14.Nd5 e6 15.Nxc6 bxc6
+16.Nb4 a5 17.Na2 c5 18.Nc3 c4 19.Bd4 Qc6 20.Rfd1 e5 21.Be3 Be6 22.Nd5 Bxd5
+23.exd5 Qc7 24.Qc3 f4 25.Bf2 Rc8 26.Be1 e4 27.Qxa5 Qxa5 28.Bxa5 e3 29.Bb4 Rf5
+30.g4 fxg3 31.hxg3 Nf6 32.Bxd6 Rd8 33.Bb4 Rfxd5 34.Rxd5 Rxd5 35.Bxc4 Rd4
+36.Be2 Nd5 37.Be1 Ne7 38.c3 Rd5 39.Rd1 Kg8 40.Rxd5 Nxd5 41.Bc4  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "7"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Showalter, Jackson Whipps"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D37"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Be7 5.Bf4 a6 6.Rc1 O-O 7.e3 Nbd7 8.Bd3 c5
+9.O-O dxc4 10.Bxc4 b5 11.Bd3 Bb7 12.Qe2 Rc8 13.Ne5 c4 14.Bb1 Qb6 15.Nxd7 Nxd7
+16.Ne4 Qc6 17.f3 f5 18.Nf2 g5 19.Bg3 h5 20.Nd1 h4 21.Be1 Qb6 22.Bf2 Bf6 23.d5 exd5
+24.Bxf5 Qc6 25.f4 Rc7 26.fxg5 Bd8 27.Bxh4 Nc5 28.Qh5 d4 29.Rc2 d3 30.Rd2 Ne4
+31.Bxe4 Rxf1+ 32.Kxf1 Qxe4 33.Nc3 Rh7 34.Nxe4 Rxh5 35.Nd6 Rxh4 36.Nxb7 Bxg5
+37.Kf2 Rxh2 38.Nc5 Rh1 39.Ne4 Bd8 40.a3 Ba5 41.b4 cxb3 42.Rb2 Ra1 43.Rxb3 d2
+44.Nxd2 Bxd2 45.e4 Bc1 46.Rc3 Bxa3 47.Rc7 Rc1 48.Rb7 b4 49.e5 Rc5 50.e6 Rf5+
+51.Kg3 Rb5 52.Ra7 b3  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "7"]
+[White "Steinitz, William"]
+[Black "Albin, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A81"]
+
+1.d4 f5 2.g3 d5 3.Bg2 Nf6 4.Nh3 e6 5.O-O c5 6.dxc5 Bxc5 7.c4 d4 8.b4 Be7
+9.Bb2 O-O 10.a3 e5 11.Nd2 a5 12.Qb3 Ne4 13.Rfd1 axb4 14.axb4 Rxa1 15.Bxa1 Be6
+16.e3 b5 17.Bf1 Nc6 18.exd4 exd4 19.Nf4 Bf7 20.Nf3 Bxb4 21.Nxd4 Nxd4 22.Bxd4 Qa5
+23.Ra1 Qd8 24.Be3 Bd6 25.Qxb5 Bxf4 26.gxf4 Nd2 27.Be2 Qf6 28.Rd1 Qg6+ 29.Kh1 Ne4
+30.Rg1 Qe6 31.Qb2 Nf6 32.Bf3 Kh8 33.c5  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "8"]
+[White "Showalter, Jackson Whipps"]
+[Black "Halpern, Jacob C"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Bd3 Nc6 6.c3 Be7 7.Nf3 Qd5 8.Qe2 Nxe4
+9.Bxe4 Qd6 10.O-O f5 11.Bxc6+ bxc6 12.Ne5 O-O 13.Qf3 Bb7 14.Bf4 Qd5 15.Qg3 Rad8
+16.Rfe1 c5 17.dxc5 Bxc5 18.Bh6 Qxg2+ 19.Qxg2 Bxg2 20.Bg5 Be4 21.Bxd8 Rxd8
+22.Rad1 Bd6 23.b4 Ra8 24.Nc4 Bd5 25.Nxd6 cxd6 26.Rd4 Rc8 27.Rc1 Kf7 28.c4 Ke7
+29.Rc3 Be4 30.f3 Bc6 31.Ra3 Rc7 32.b5 Be8 33.Ra6 Bf7 34.Rdxd6 Rxc4 35.Rdc6 Rb4
+36.Rxa7+ Kf6 37.b6 Bh5 38.Ra3 Be8 39.Rc8 Bh5 40.Rb3 Rxb3 41.axb3 Bxf3 42.Rc7  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "8"]
+[White "Delmar, Eugene"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qe7 5.Nf5 Qxe4+ 6.Ne3 Nf6 7.Bd3 Qh4 8.O-O d5
+9.Bf5 Be6 10.Re1 O-O-O 11.g3 Qh5 12.Qxh5 Nxh5 13.c3 Nf6 14.a4 Re8 15.Bxe6+ Rxe6
+16.Rd1 Ne5 17.b4 c6 18.Nd2 h5 19.Nf5 g6 20.Nd4 Re8 21.h4 Bg7 22.Ba3 Nfg4
+23.N2b3 Nc4 24.Bc1 Nf6 25.Bf4 Ne4 26.Rdc1 Be5 27.Bxe5 Rxe5 28.Nf3 Re7 29.Nbd4 Rhe8
+30.Kg2 Kc7 31.Ra2 Ned6 32.Rcc2 a5 33.Nb3 b6 34.Nfd4 Re1 35.bxa5 Nxa5 36.Nxa5 bxa5
+37.Re2 R1xe2 38.Nxe2 Re4 39.Nd4 Re1 40.Kf3 Ne4 41.Kg2 Nxc3 42.Rc2 Re4 43.Nxc6 Kxc6
+44.Rxc3+ Rc4 45.Rf3 f5 46.Ra3 d4 47.Kf1 Rc2 48.Rb3 Ra2 49.Rb8 Rxa4 50.Rg8 Kd5
+51.Ke2 Ra2+ 52.Kf3 a4 53.Rxg6 a3 54.Rg5 Ke5 55.Rxh5 Rxf2+ 56.Kxf2 a2 57.g4 a1=Q
+58.Rxf5+ Ke4 59.h5 d3 60.Rf7 Qd4+ 61.Kg3 d2 62.Rf4+ Kd3 63.Rxd4+ Kxd4 64.h6 d1=Q
+65.Kh4 Ke5 66.h7 Kf4  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "8"]
+[White "Hanham, James Moore"]
+[Black "Baird, David Graham"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 O-O 6.O-O d6 7.Nbd2 Bb6 8.Bb3 a6
+9.Nc4 Ba7 10.Ne3 h6 11.h3 Be6 12.Bc2 d5 13.Qe2 dxe4 14.dxe4 Qe7 15.Rd1 Rfd8
+16.Bd2 Rd7 17.Nf1 Rad8 18.Ng3 Kh7 19.b3 g6 20.a4 Qc5 21.b4 Nxb4 22.cxb4 Qxc2
+23.Rac1 Qxa4 24.Nxe5 Re7 25.Qf3 Ng8 26.Bc3 Rxd1+ 27.Rxd1 Qc2 28.Rd2 Qc1+
+29.Kh2 c6 30.Ne2 Qf1 31.Nf4 Bb8 32.Nxe6 fxe6 33.Rd8 Bc7 34.Rc8 Qc1 35.g3 Qg5
+36.Qf8 Rg7 37.Qxg7+ Kxg7 38.Nf3+ Qf6 39.Rxc7+  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "8"]
+[White "Hymes, Edward"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.c3 Be7 6.O-O O-O 7.h3 Bd7 8.Ba4 Qc8
+9.Be3 Nd8 10.Bc2 Ne8 11.Nh2 f5 12.exf5 Bxf5 13.f4 exf4 14.Bxf4 Ne6 15.Be3 d5
+16.Nd2 c5 17.Ndf3 Nd6 18.Qe2 c4 19.Nd4 cxd3 20.Bxd3 Bxd3 21.Rxf8+ Bxf8 22.Qxd3 Nc5
+23.Qe2 Nde4 24.Qh5 Qd7 25.Ng4 g6 26.Qh4 Bg7 27.Rf1 Rf8 28.Rxf8+ Kxf8 29.Nf3 h5
+30.Nge5 Qe8 31.Bxc5+ Nxc5 32.Qf4+ Kg8 33.Qd4 Bxe5 34.Qxd5+ Kg7 35.Nxe5 b6
+36.b4 Na4 37.Qd4 Kg8 38.c4 Qe7 39.Qe4 g5 40.Qd5+ Kg7 41.Qd7 Qxd7 42.Nxd7 Kf7
+43.Ne5+ Ke6 44.Nd3 Nc3  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "8"]
+[White "Albin, Adolf"]
+[Black "Jasnogrodsky, Nicolai"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Bd3 Nc6 8.c3 e5
+9.Bc4 exd4 10.Qb3 O-O 11.O-O-O Na5 12.Qa4 Nxc4 13.Qxc4 Be6 14.Qxd4 Qxd4 15.Rxd4 f5
+16.Ng3 c5 17.Rd1 Bxa2 18.Nxf5 Bg5+ 19.Kc2 Rfe8 20.h4 Bf6 21.b3 c4 22.bxc4 Bxc4
+23.Nd6 Be2 24.Rd2 Bg4 25.f3 Be6 26.Nxe8 Rxe8 27.g4 Rc8 28.Ne2 b5 29.g5 Bxc3
+30.Nxc3 b4 31.Rd4 Bf5+ 32.Kb3 bxc3 33.Rc1 c2 34.Kb2 Rb8+ 35.Kc3 Rb1 36.Kd2 Rb3
+37.Rf4 Rd3+ 38.Ke2 Rd5 39.h5 Kf8 40.Rb4 a5 41.Rb8+ Ke7 42.Rb7+ Ke6 43.f4 Rd1
+44.Rb6+ Ke7 45.Rb7+ Kf8 46.Rb8+ Kg7 47.Rxc2 Bxc2 48.f5 h6 49.f6+ Kh7 50.g6+ Bxg6
+51.hxg6+ Kxg6 52.Kxd1 Kxf6 53.Rb5  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "9"]
+[White "Riccardo Rocamora, S."]
+[Black "Hanham, James Moore"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.c3 Nb6 6.Bb3 Qe7 7.O-O Bg4 8.dxe5 dxe5
+9.Be3 Nd7 10.Nbd2 Ngf6 11.Bc2 h6 12.Qe2 g5 13.Rfd1 Be6 14.Nf1 g4 15.N3d2 Nh5
+16.Nc4 Qf6 17.Na5 Nf4 18.Bxf4 exf4 19.Nxb7 Ne5 20.Nd6+ Bxd6 21.Rxd6 f3 22.Qa6 fxg2
+23.Nd2 O-O 24.Qe2 Rad8 25.Rd4 c5 26.Rd5 Bxd5 27.exd5 Rfe8 28.Be4 Qf4 29.Re1 f5  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "9"]
+[White "Baird, David Graham"]
+[Black "Showalter, Jackson Whipps"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Be7 5.d4 exd4 6.e5 Ne4 7.Re1 Nc5 8.Nxd4 Nxd4
+9.Qxd4 O-O 10.Nc3 Ne6 11.Qe4 Re8 12.Be3 c6 13.Bd3 Nf8 14.Bf4 Ng6 15.Rad1 Bg5
+16.Bg3 d5 17.Qd4 Nf8 18.h4 Be7 19.h5 Be6 20.h6 g6 21.Ne2 Qa5 22.Nc1 c5 23.Qf4 c4
+24.Be2 Bf5 25.Bf3 Rad8 26.Qd2 Qxd2 27.Rxd2 Be6 28.Ne2 b6 29.Red1 Rd7 30.Nf4 Bg5
+31.Nxd5 Bxd5 32.Rxd5 Rxd5 33.Bxd5 Rd8 34.f4 Be7 35.Kf2 Ne6 36.Ke2 b5 37.Bxe6 fxe6
+38.Rxd8+ Bxd8 39.Bf2 Kf7 40.g4 Be7 41.Be3 Bf8 42.g5 Ke8 43.b3 cxb3 44.axb3 Kd7
+45.Kd3 Kc6  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "9"]
+[White "Halpern, Jacob C"]
+[Black "Hymes, Edward"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Be7 4.O-O d6 5.c3 Nf6 6.d3 O-O 7.Bb3 Bg4 8.Nbd2 Nd7
+9.Nc4 Kh8 10.h3 Bh5 11.Ne3 Bg5 12.g4 Bxe3 13.Bxe3 Bg6 14.Bg5 Qe8 15.Nh2 Nc5
+16.f4 exf4 17.Bxf4 Ne6 18.Be3 Qe7 19.Qe1 Ne5 20.Rd1 Rad8 21.Qg3 f6 22.Rf2 Rfe8
+23.h4 Nc5 24.Bc2 Nexd3 25.Rxd3 Nxe4 26.Qf3 Nxf2 27.Bxf2 Qe2 28.h5 Bxd3 29.Qxd3 Qxd3
+30.Bxd3 d5 31.Nf3 c6 32.Nh4 Re5 33.h6 Rg5 34.hxg7+ Kxg7 35.Be2 h5 36.Be3 Re5
+37.gxh5 Rde8 38.Kf2 Kg8 39.Ng2 b6 40.Bf3 Rd8 41.Bd4 Re6 42.Nf4 Red6 43.b4 Rc8
+44.Bg4 Rc7 45.h6 c5 46.bxc5 bxc5 47.Be6+ Kh7 48.Be3 d4 49.cxd4 cxd4 50.Bd2 Rc5
+51.Bb3 d3 52.Bb4 d2 53.Bxc5 d1=Q 54.Bxd1 Rxd1 55.Bxa7 Rd2+ 56.Kf3 Rxa2 57.Be3  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "9"]
+[White "Jasnogrodsky, Nicolai"]
+[Black "Delmar, Eugene"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 d6 5.d4 exd4 6.Nxd4 Bd7 7.O-O Be7 8.b3 Nxd4
+9.Bxd7+ Nxd7 10.Qxd4 Bf6 11.Qd2 O-O 12.Bb2 Nc5 13.f3 a5 14.a4 Be5 15.f4 Nxe4
+16.Nxe4 Bxb2 17.Rad1 Bf6 18.g4 Re8 19.Ng3 Qd7 20.g5 Be7 21.Qg2 Qc6 22.Rf3 Bf8
+23.h4 Re7 24.Kh2 Rae8 25.Rdd3 d5 26.Rf2 Rd7 27.Rfd2 Red8 28.c4 d4 29.Qf2 Qb6
+30.Qf3 c5 31.Rg2 Re8 32.h5 Qc6 33.Qg4 g6 34.f5 Bd6 35.hxg6 fxg6 36.f6 Rf7
+37.Re2 Bxg3+ 38.Rxg3 Qd7 39.Rgg2 Rxe2 40.Qxe2 Qd6+ 41.Kg1 Rf8 42.Qe4 Qd7
+43.Re2 d3 44.Rd2 Rd8 45.Qe7 Qxe7 46.fxe7 Re8 47.Rxd3 Rxe7 48.Rd5 Rc7 49.Rd8+ Kf7
+50.Ra8 b6 51.Rb8 Rc6 52.Rb7+ Ke6 53.Kg2 Kf5 54.Rxh7 Kxg5 55.Kf3 Re6 56.Rd7 Kf5
+57.Rd5+ Kf6 58.Kf4 Ke7 59.Kg5 Re3 60.Kxg6 Rxb3 61.Re5+ Kd6 62.Rd5+ Kc6 63.Kf6 Rb4
+64.Ke6 Rxa4 65.Rd6+ Kb7 66.Rd7+ Ka6 67.Kd5 Ra1  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "9"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Albin, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D46"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 Bb4 7.O-O O-O 8.Bd2 Bxc3
+9.Bxc3 dxc4 10.Bxc4 Ne4 11.Bd3 Nxc3 12.bxc3 Qa5 13.Qc2 Qh5 14.Rab1 b6 15.Ne1 Nf6
+16.e4 e5 17.h3 Rd8 18.f4 exf4 19.Rxf4 Qg5 20.Qf2 Be6 21.Rh4 h5 22.Nf3 Qh6
+23.g4 g5 24.e5 gxh4 25.g5 Ng4 26.hxg4 Qg7 27.gxh5 h3 28.h6 Qf8 29.Nd2 Qe7
+30.Ne4 Kh8 31.Kh2 Rg8 32.Rg1 Bd5 33.Nf6 Bg2 34.Nxg8 Rxg8 35.Qf6+ Qxf6 36.gxf6 b5
+37.Bf5 Rd8 38.Bxh3 Bxh3 39.Kxh3 b4 40.cxb4 Rxd4 41.Rg7 Re4 42.Rxf7 Rxe5 43.Re7 Rh5+
+44.Kg4 Rxh6 45.Re8+ Kh7 46.f7  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "10"]
+[White "Steinitz, William"]
+[Black "Jasnogrodsky, Nicolai"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C30"]
+
+1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.Bc4 Nc6 5.c3 Nf6 6.d3 O-O 7.Bb3 Ng4 8.Qe2 a5
+9.f5 a4 10.Bc2 Bf2+ 11.Kf1 Bb6 12.h3 Nf6 13.g4 Re8 14.Kg2 d5 15.Bg5 dxe4
+16.dxe4 Qe7 17.Nbd2 Bd7 18.Nc4 Bc5 19.Rhd1 Red8 20.Bxf6 gxf6 21.Ne3 Bxe3
+22.Qxe3 Na5 23.b3 Bc6 24.Qh6 Kh8 25.g5 Rg8 26.h4 Ra6 27.Kh2 fxg5 28.f6 Qf8
+29.Nxg5  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "10"]
+[White "Delmar, Eugene"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.c3 Be7 6.h3 Bd7 7.Nbd2 O-O 8.Ba4 Rb8
+9.Nf1 b5 10.Bc2 d5 11.g4 Be6 12.Ng5 Qc8 13.Nxe6 fxe6 14.g5 Nd7 15.Qg4 Nd8
+16.Ng3 Bc5 17.Rh2 b4 18.exd5 bxc3 19.bxc3 exd5 20.d4 exd4 21.Qh5 h6 22.Qg6 Rb6
+23.Qh7+ Kf7 24.g6+ Ke8 25.Qxg7 Re6+ 26.Kd1 Qa6 27.cxd4 Bb4 28.Rh1 Qc4 29.Be3 Rxe3
+30.fxe3 Qc3 31.Qxf8+ Nxf8 32.Ke2 Qxc2+ 33.Kf3 Qxg6 34.Rab1 Bd6 35.Ne2 Nh7
+36.h4 Nf6 37.Rhe1 Qg4+ 38.Kf2 Ne4+  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "10"]
+[White "Hymes, Edward"]
+[Black "Baird, David Graham"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 Bc5 6.c3 d6 7.O-O O-O 8.h3 h6 9.Bc2 Bb6
+10.Be3 Ne7 11.Bxb6 cxb6 12.d4 Ng6 13.Nbd2 b5 14.Nb3 b6 15.dxe5 dxe5 16.Qxd8 Rxd8
+17.Rfd1 Bb7 18.Rxd8+ Rxd8 19.Re1 Kf8 20.Nc1 Ne8 21.Ne2 f6 22.Ng3 Ne7 23.Nh4 g6
+24.Nf3 Nc7 25.Rd1 Rxd1+ 26.Bxd1 Ne6 27.Nd2 Nc5 28.Bc2 Nc8 29.f3 Nd6 30.b3  1/2-1/2
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "10"]
+[White "Showalter, Jackson Whipps"]
+[Black "Riccardo Rocamora, S."]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C75"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Ne7 6.c3 Ng6 7.d4 Bd7 8.Bb3 Be7
+9.Ne1 Bg5 10.f4 exf4 11.Nd3 O-O 12.Bxf4 Bf6 13.Nd2 Na5 14.Bc2 Bb5 15.Be3 c5
+16.Qh5 cxd4 17.cxd4 Rc8 18.Bb1 Qb6 19.e5 dxe5 20.Ne4 exd4 21.Nxf6+ gxf6 22.Bc1 Nc4
+23.a4 Bd7 24.a5 Qb5 25.Qh6 Nce5 26.Nxe5 Qxe5 27.Ra3 Rc5 28.b4 Rc3 29.Bf4 Qe2
+30.Ra2 Qg4 31.h3 Qe6 32.Raf2 Bb5 33.Rd1 d3 34.Bd2 Rc6 35.h4 Qg4 36.Rf3 Nxh4  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "10"]
+[White "Albin, Adolf"]
+[Black "Halpern, Jacob C"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Bd3 Nbd7 6.Bg5 Be7 7.Bxf6 Bxf6 8.Nf3 g6
+9.O-O Bg7 10.Qe2 O-O 11.Rad1 Qe7 12.c3 b6 13.Bb5 Bb7 14.Bxd7 Qxd7 15.Ne5 Qd5
+16.Rfe1 Bxe5 17.dxe5 Qxe5 18.Qf3 Kg7 19.h4 f5 20.Rd7+ Kg8 21.Nf6+ Qxf6 22.Qxb7 Rae8
+23.Qxc7 Rf7 24.Qxa7 b5 25.Red1 Ree7 26.Rxe7 Rxe7 27.Qb8+ Kf7 28.Rd8 Qxh4
+29.Rf8+ Kg7 30.Rg8+ Kh6 31.Qxb5 Qf4 32.Qb4 Qc1+ 33.Kh2 Qg5 34.Qd4 e5 35.Qd3 Qf4+
+36.Qg3 g5 37.Qxf4 gxf4 38.g3 f3 39.g4 f4 40.Kh3 e4 41.Kh4 Rg7 42.g5+ Rxg5
+43.Rxg5 e3 44.Rg1 e2 45.Kh3  1-0
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "11"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D26"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 e6 4.e3 c5 5.Nc3 Nc6 6.Bxc4 Nf6 7.O-O cxd4 8.exd4 Be7
+9.Bf4 O-O 10.Rc1 Qb6 11.Nb5 Ne8 12.Re1 Na5 13.Bd3 Bd7 14.Nc7 Rc8 15.Nd5 exd5
+16.Rxe7 Nf6 17.Ng5 Bg4 18.Bxh7+ Nxh7 19.Qxg4 Rxc1+ 20.Bxc1 Nf6 21.Qd1 Nc6
+22.Re1 Qxd4 23.Nf3 Qb6 24.Bg5 Qxb2 25.Re2 Qb5 26.Bxf6 gxf6 27.Rd2 Rd8 28.Nh4 d4
+29.Rd3 Ne5 30.Rb3 Qc6 31.Rg3+ Kf8 32.Qd2 Rc8 33.Qh6+ Ke7 34.Nf5+ Kd7 35.h4 Qc1+
+36.Qxc1 Rxc1+ 37.Kh2 d3  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "11"]
+[White "Baird, David Graham"]
+[Black "Albin, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Nxe5 Nxe5 8.dxe5 Nc5
+9.Bb3 Nxb3 10.axb3 Bb7 11.Qg4 Qe7 12.Nc3 Qe6 13.Qg3 h5 14.h3 Bc5 15.Be3 h4
+16.Qg5 Rh6 17.Qxg7 Rg6 18.Qh8+ Bf8 19.Rfe1 Rxg2+ 20.Kf1 Bf3 21.Qxh4 Qg6 22.Ne2 Rg1+  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "11"]
+[White "Riccardo Rocamora, S."]
+[Black "Hymes, Edward"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A03"]
+
+1.f4 d5 2.Nf3 Nf6 3.e3 e6 4.b3 c5 5.Bb2 Nbd7 6.Bd3 Qc7 7.O-O Bd6 8.Na3 a6
+9.Be2 b5 10.c4 bxc4 11.bxc4 Rb8 12.Rb1 O-O 13.Qe1 Qa5 14.Qc1 Qc7 15.Qe1 Qa5
+16.Qc1 Qc7 17.Ng5 h6 18.Nh3 e5 19.fxe5 Nxe5 20.Rxf6 gxf6 21.Nf4 Be6 22.cxd5 Bf5
+23.d3 c4 24.e4 cxd3 25.Nh5 Qxc1+ 26.Bxc1 Bc5+ 27.Kh1 Rxb1 28.Nxb1 dxe2 29.Nxf6+ Kh8
+30.Bd2 Bf2  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "11"]
+[White "Halpern, Jacob C"]
+[Black "Delmar, Eugene"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C24"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 d5 5.exd5 Nxd5 6.Qe2 Bg4 7.h3 Bxf3 8.Qxf3 Nf6
+9.Bb5 Qd5 10.Qxd5 Nxd5 11.Bxc6+ bxc6 12.c3 Bd6 13.O-O f6 14.a3 g5 15.c4 Ne7
+16.Nc3 Nf5 17.Be3 h5 18.g3 a5 19.Rae1 Kf7 20.Ne4 Rab8 21.Re2 Rb3 22.Rd1 Rhb8
+23.Rdd2 Be7 24.Kf1 Rd8 25.Nc3 Bxa3 26.Re1 Bb4 27.Rc1 a4 28.Rdd1 a3 29.Na2 axb2
+30.Rb1 Ba3 31.Ke2 Ra8 32.Kd2 Be7 33.Kc2 Rba3 34.Nc3 Nd4+ 35.Bxd4 exd4 36.Ne2 c5
+37.Rxb2 Bd6 38.Rdb1 f5 39.Rb3 Ra2+ 40.R1b2 f4 41.gxf4 gxf4 42.Rxa2 Rxa2+
+43.Rb2 Ra8 44.f3 Rg8 45.Rb1 Rg2 46.Kd1 Rf2 47.Ng1 Be7 48.Rc1 Bh4 49.Rb1 Ke7
+50.Rc1 Bg3 51.Rb1 Bh2 52.Ne2 Rxf3 53.Rb7 Rf1+ 54.Kd2 f3 55.Rb5 fxe2  0-1
+
+[Event "New York"]
+[Site "New York"]
+[Date "1894.??.??"]
+[Round "11"]
+[White "Hanham, James Moore"]
+[Black "Showalter, Jackson Whipps"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.Nbd2 O-O 7.O-O Bb6 8.Bb3 Bg4
+9.Re1 Ne7 10.Nf1 Ng6 11.h3 Be6 12.Bc2 h6 13.Be3 Qd7 14.Ng3 Bxe3 15.Rxe3 Nf4
+16.Nd2 Bxh3 17.gxh3 Qxh3 18.Qf3 Ng4 19.Ndf1 h5 20.Nf5 Nxe3 21.Qxh3 Nxh3+
+22.Kh2 Nxc2 23.Rc1 Nxf2 24.Rxc2 Nxd3 25.Ne7+ Kh7 26.Kg3 g6 27.Ne3 Nc5 28.Kf3 a6
+29.Rh2 Nxe4 30.Kxe4 f5+ 31.N7xf5 gxf5+ 32.Nxf5 d5+ 33.Kxe5 Rae8+ 34.Kf4 Re4+
+35.Kg5 Rg4+ 36.Kxh5 Rg1 37.Nh6 Rf6 38.Ng4 Rf5+ 39.Kh4 Kg6  0-1

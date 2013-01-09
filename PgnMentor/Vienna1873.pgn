@@ -1,0 +1,3042 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Bird, Henry Edward"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A02"]
+
+1.f4 e6 2.Nf3 b6 3.b3 Nf6 4.Bb2 Be7 5.c3 Bb7 6.e3 O-O 7.Na3 c5 8.Be2 d5 9.O-O Nc6
+10.Nc2 Ne8 11.Qe1 Nd6 12.Rd1 a5 13.Qg3 a4 14.Bd3 Ne4 15.Bxe4 dxe4 16.c4 f6
+17.Nfe1 axb3 18.axb3 Ra2 19.Bc3 Rf7 20.d4 f5 21.d5 exd5 22.Rxd5 Qc8 23.Rd1 Bf6
+24.Bxf6 Rxf6 25.Rf2 Rg6 26.Qh4 Rh6 27.Qg5 Rg6 28.Qh5 Rh6 29.Qe2 Rb2 30.Qd2 Rxb3
+31.g4 fxg4 32.f5 Ne5 33.Na1 Rb4 34.Qc3 g3 35.hxg3 Nd3 36.Rf1 Qc7 37.Rd2 Qxg3+
+38.Rg2 Qxe3+ 39.Rgf2 Rh1+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Anderssen, Adolf"]
+[Black "Bird, Henry Edward"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.O-O d6 7.d4 exd4 8.cxd4 Bb6
+9.d5 Na5 10.Bb2 Ne7 11.Bd3 O-O 12.Nc3 c5 13.Ne2 f6 14.Qd2 Bg4 15.Rac1 Ng6
+16.Ng3 Rc8 17.Kh1 c4 18.Bb1 c3 19.Bxc3 Nc4 20.Qe1 Re8 21.Nd2 Na3 22.f4 Nxb1
+23.Nxb1 Bd7 24.Qd2 Bb5 25.Rfe1 Bc5 26.Ba5 b6 27.Bc3 a5 28.a3 Rc7 29.Bb2 Rce7
+30.Nf5 Rxe4 31.Rxe4 Rxe4 32.Nc3 Rxf4 33.Nxg7 Rf2 34.Qh6 Rxb2 35.Ne6 Qe7 36.h4 f5
+37.Ng5 Be3 38.Rd1 Bd7 39.Qh5 Bxg5 40.hxg5 Rxg2  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Anderssen, Adolf"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.Bxc6+ bxc6 7.Nc3 g6 8.d4 exd4
+9.Nxd4 Bd7 10.Nf3 Bg4 11.h3 Bxf3 12.Qxf3 Nd7 13.O-O Bg7 14.Qd3 O-O 15.Be3 Qe7
+16.Rae1 Rfb8 17.b3 Qe5 18.Na4 Re8 19.f3 Qb5 20.c4 Qe5 21.Qd2 a5 22.f4 Qe7
+23.Bf2 c5 24.Re2 f5 25.Rfe1 Qf7 26.exf5 Rxe2 27.Rxe2 Qxf5 28.g4 Qf7 29.Bg3 Bd4+
+30.Kh2 Re8 31.Rxe8+ Qxe8 32.Qe1 Qe3 33.Qxe3 Bxe3 34.Nc3 Nb6 35.Kg2 Kf7 36.Kf3 Bd4
+37.Nb5 d5 38.cxd5 Nxd5 39.Ke4 c6 40.Nxd4 Nc3+ 41.Kd3 cxd4 42.a4 Ke6 43.Be1 Nd5
+44.Ke4 c5 45.f5+ gxf5+ 46.gxf5+ Kd6 47.Bxa5 Nf6+ 48.Kd3 Nd7 49.Bd2 Kd5 50.Bf4 Kc6
+51.Ke4 Nb6 52.f6 Nd5 53.f7 Nf6+ 54.Kd3 Nd7 55.Kd2  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Anderssen, Adolf"]
+[Black "Fleissig, Maximilian"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d4 Bxd4 6.Nxd4 Nxd4 7.f4 d6 8.fxe5 dxe5
+9.Bg5 Be6 10.Na3 Qe7 11.c3 Bxc4 12.Nxc4 Ne6 13.Bxf6 gxf6 14.Kh1 Qc5 15.Na3 Rg8
+16.Rxf6 Nf4 17.Rf5 Qf2 18.Qf3 Qxb2 19.Rxe5+ Ne6 20.Rf1 O-O-O 21.Ra5 Rd3 22.g3 Rxf3
+23.Rxf3 Qc1+ 24.Kg2 Nf4+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Bird, Henry Edward"]
+[Black "Meitner, Philipp"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.Nf3 d5 3.Nc3 Nf6 4.exd5 exd5 5.d4 Bd6 6.Bd3 O-O 7.O-O c6 8.Bg5 Bg4
+9.h3 Bh5 10.Be2 h6 11.Bh4 Bxf3 12.Bxf3 Nbd7 13.Ne2 Qc7 14.Qd3 Rae8 15.Bg3 Ne4
+16.Bxe4 dxe4 17.Qb3 Bxg3 18.fxg3 Nf6 19.Nf4 Rd8 20.Rad1 Kh7 21.c4 Rfe8 22.Qe3 Re7
+23.g4 Qd6 24.Ne2 a6 25.Rf5 g6 26.Rf4 Kg7 27.Rdf1 Nh7 28.h4 Rde8 29.Ng3 Qb4
+30.b3 Qa3 31.R1f2 b5 32.c5 Qa5 33.Nxe4 Qd8 34.Qf3 Rf8 35.Nd6 Re1+ 36.Rf1 Qe7
+37.g3 Nf6 38.Rxe1 Qxe1+ 39.Kh2 Qe7 40.Qxc6 Qe2+ 41.Kh3 h5 42.Qg2 Qe6 43.Qd2 Nxg4
+44.Kg2 Qd5+ 45.Kg1 f5 46.Qe2 Nf6 47.Qe5 Qc6 48.Rf1 Kg8 49.Re1 Qf3 50.Qe3 Qc6
+51.Qh6 Qf3 52.Qxg6+ Kh8 53.Nxf5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Bird, Henry Edward"]
+[Black "Pitschel, Karl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C00"]
+
+1.e4 e6 2.Bb5 a6 3.Ba4 c5 4.c3 b5 5.Bc2 Bb7 6.Ne2 Ne7 7.Ng3 Nbc6 8.a4 d5
+9.Qe2 b4 10.d3 g6 11.h4 h5 12.Be3 Ng8 13.Nd2 d4 14.cxd4 cxd4 15.Bg5 f6 16.Nf3 fxg5
+17.Nxg5 Qd7 18.Bb3 Nd8 19.f4 Qd6 20.e5 Qd7 21.N3e4 Be7 22.O-O Bd5 23.Nd6+ Bxd6
+24.Bxd5 exd5 25.exd6+ Kf8 26.Qe5 Qg7 27.Qxd5 Ra7 28.f5 Ke8 29.Rfe1+ Kd7 30.Re7+ Nxe7
+31.dxe7+ Kc8 32.Rc1+ Rc7 33.Qa8+ Kd7 34.Rxc7+ Kxc7 35.exd8=Q+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Bird, Henry Edward"]
+[Black "Rosenthal, Samuel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A02"]
+
+1.f4 e6 2.e3 f5 3.Nf3 c5 4.b3 Nf6 5.Bb2 b6 6.Na3 Bb7 7.c4 Be7 8.Be2 Nc6 9.O-O O-O
+10.Nc2 Qe8 11.d3 Nd8 12.Qd2 Nf7 13.Rae1 Nh6 14.Bd1 Nh5 15.Kh1 Ng4 16.Kg1 Rd8
+17.h3 Nh6 18.Qf2 Qg6 19.Ne5 Qe8 20.Bf3 d6 21.Bxb7 dxe5 22.Rd1 exf4 23.exf4 Qd7
+24.Ba6 Bf6 25.Bxf6 Rxf6 26.d4 Qc6 27.d5 exd5 28.cxd5 Qd6 29.Be2 g6 30.Ne3 Ng7
+31.Nc4 Qf8 32.Qh4 Ne8 33.Ne5 Kg7 34.Bf3 Nd6 35.Rfe1 Ng8 36.Re2 Ne7 37.g4 fxg4
+38.Nxg4 Rf7 39.Re6 Nef5 40.Qe1 Kh8 41.Ne5 Rg7 42.Nc6 Rdd7 43.Qc3 Kg8 44.Rde1 h6
+45.Ne5 Rde7 46.Nxg6 Kh7 47.Bh5 Nb5 48.Qd3 Rxe6 49.Rxe6 Nbd4 50.Kh2 Qf7 51.Re7 Qxd5
+52.Re5 Qf7 53.Re7 Qd5 54.Rxg7+ Kxg7 55.Ne5 Kf6 56.Bg4 Ke6 57.Qa6 Qa8 58.Qa4 Kf6
+59.Qd7 Qf8 60.Qxa7 Qd8 61.Qh7 Qe8 62.a4 Ke6 63.Qxh6+ Kd5 64.Qxb6 Nd6 65.b4 cxb4
+66.Qxb4 Qf8 67.Qa5+ Ke4 68.Qe1+ Kd5 69.Qf2 Qh6 70.Bf3+ Ne4 71.Qa2+ Kc5 72.Qc4+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "Fleissig, Maximilian"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D31"]
+
+1.d4 d5 2.c4 e6 3.Nc3 b6 4.Bf4 Bd6 5.Bg3 Nf6 6.Nf3 Nc6 7.e3 Ne7 8.Rc1 Bb7
+9.Qb3 dxc4 10.Bxc4 O-O 11.Bd3 Ned5 12.Bh4 Nxc3 13.bxc3 Be7 14.Qb1 g6 15.Ne5 Nh5
+16.Bg3 Ng7 17.h4 f5 18.f3 Nh5 19.Bf2 Bf6 20.Nc4 Qe8 21.Nd2 Kh8 22.Rh2 Ng7
+23.Kf1 e5 24.Kg1 f4 25.e4 Rd8 26.d5 Be7 27.c4 c5 28.Qb2 Bd6 29.Qa3 Ra8 30.Rb1 Qe7
+31.Nb3 Bc8 32.Nc1 Bd7 33.Bc2 Rfd8 34.Nd3 Ne8 35.Qb2 Ng7 36.Re1 Rf8 37.Bd1 Nh5
+38.a3 Rab8 39.a4 Kg8 40.Re2 Kh8 41.Be1 Kg8 42.Bc3 Rfe8 43.Qa1 a6 44.Rb2 b5
+45.axb5 axb5 46.Bb3 b4 47.Be1 Ra8 48.Ra2 Rxa2 49.Qxa2 Rb8 50.Qa7 Kf8 51.Kf1 Be8
+52.Qxe7+ Kxe7 53.Bf2 Ra8 54.Ke2 Ra3 55.Nc1 Ba4 56.Bxa4 Rxa4 57.Kd2 Ra3 58.Kc2 Rc3+
+59.Kb2 Rxc4 60.Ne2 b3 61.Kxb3 Rb4+ 62.Kc2 Ra4 63.Nc3 Ra1 64.Nd1 Nf6 65.Rh1 Nd7
+66.Kb2 Ra7 67.Nc3 Nb6 68.Rb1 Na4+ 69.Kc2 Nxc3 70.Kxc3 Ra2 71.Rb2 Rxb2 72.Kxb2 Kd7
+73.Be1 Kc7 74.Ba5+ Kb7 75.Kb3 Ka6 76.Ka4 Bb8 77.Bd8 Bd6 78.Bg5 Bf8 79.Bf6 Bd6
+80.Bd8 h6 81.Bf6 Kb6 82.h5 gxh5 83.Bh4 Ka6 84.Bd8 Bb8 85.Be7 Kb6 86.Bf8 h4
+87.Be7 h3 88.gxh3 h5 89.h4 Kc7 90.Kb5 Kd7 91.Bxc5 Bc7 92.Bf2 Bd8 93.Kc5 Ba5
+94.d6 Bc3 95.Kd5 Bb2 96.Be1 Bd4 97.Bb4 Ba1 98.Kc4 Bb2 99.Bc3 Bxc3 100.Kxc3 Kxd6
+101.Kb4 Kc6 102.Kc4 Kd6 103.Kb5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "Meitner, Philipp"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C46"]
+
+1.e4 e5 2.Nc3 Nc6 3.Nf3 g6 4.Bc4 Bg7 5.d3 h6 6.h4 d6 7.Be3 a6 8.a3 Bg4 9.Ne2 Bxf3
+10.gxf3 Bf6 11.h5 g5 12.c3 Qd7 13.Ng3 Nge7 14.Qb3 O-O 15.Qc2 Na5 16.Ba2 c5
+17.Rg1 Kh8 18.Qd2 Nac6 19.Nf1 Qh3 20.O-O-O Qxh5 21.Nh2 Bg7 22.Ng4 f6 23.Rh1 Qg6
+24.Rh2 h5 25.Rdh1 h4 26.Rxh4+ gxh4 27.Rxh4+ Qh7 28.Rxh7+ Kxh7 29.f4 exf4
+30.Bxf4 Ne5 31.Bxe5 fxe5 32.Qg5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "Paulsen, Louis"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 d6 3.Bc4 Be7 4.O-O Nf6 5.d3 O-O 6.c3 Nc6 7.h3 Na5 8.Bb5 Bd7
+9.Ba4 c5 10.Na3 a6 11.Bg5 b5 12.Bc2 h6 13.Bxf6 Bxf6 14.Qd2 Be6 15.b3 Nc6
+16.Bb1 Ne7 17.Nc2 Ng6 18.Ne3 Nf4 19.Kh2 Qd7 20.Ng1 Bg5 21.Bc2 d5 22.g3 Bxh3
+23.Qd1 Bxf1 24.Qxf1 d4 25.Nf5 Ne6 26.Nf3 Bf6 27.Qh3 Rfd8 28.Kg2 Ng5 29.Nxg5 Bxg5
+30.Rf1 c4 31.cxd4 cxd3 32.Bxd3 Qc7 33.f4 exf4 34.gxf4 Bxf4 35.Qf3 g6 36.e5 Bg5
+37.Nd6 Rf8 38.Qd5 Kg7 39.Ne4 Rad8 40.Nd6 Qd7 41.Qe4 h5 42.Nxf7 Qxf7 43.Rxf7+ Rxf7
+44.Qxg6+ Kf8 45.Qxg5 Rxd4 46.Qe3 Rg4+ 47.Kh3 Rgf4 48.Be4 Rg4 49.Qh6+ Rfg7
+50.Qd6+ Re7 51.Qd8+ Re8 52.Qf6+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "Rosenthal, Samuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D37"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 e6 4.e3 Nf6 5.Bxc4 Be7 6.Nc3 O-O 7.O-O Nbd7 8.Bd2 Nb6
+9.Bd3 c5 10.Ne2 cxd4 11.Nexd4 Bd6 12.Nb5 Be7 13.Qe2 a6 14.Nc3 Bd6 15.Rfd1 Qe7
+16.e4 e5 17.Rac1 Bg4 18.Be3 Nbd7 19.Bg5 h6 20.Nd5 Qe6 21.Bxf6 Nxf6 22.Bc4 Rad8
+23.Nf4 Bxf3 24.gxf3 Qd7 25.Ng6 Rfe8 26.f4 exf4 27.e5 Qf5 28.Qd3 Ne4 29.Nh4 Qg4+
+30.Kf1 Rxe5 31.Nf3 Qh3+ 32.Kg1 Nxf2 33.Bxf7+ Kh8 34.Nxe5 Nxd3 35.Rxd3 f3
+36.Nxf3 Bxh2+ 37.Nxh2 Qxd3 38.Rf1 Qe3+ 39.Kh1 Rd2 40.Bg6 Rxh2+ 41.Kxh2 Qe2+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "Schwarz, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Bd3 Be6 6.Nf3 h6 7.O-O Bxc3 8.bxc3 Nf6
+9.Ba3 Nc6 10.Re1 Ne7 11.c4 c6 12.cxd5 Nfxd5 13.c4 Nf6 14.Rb1 Qc7 15.Qb3 O-O-O
+16.Qa4 a6 17.Bc5 Rde8 18.Qa3 Nf5 19.Bb6 Qf4 20.Ne5 Nd7 21.Qb2 Nxe5 22.Rxe5 Ne7
+23.Bc5 b5 24.Qa3 Kd7 25.Qxa6 Rc8 26.cxb5 Rhd8 27.bxc6+ Ke8 28.Qa7 Qf6 29.Rb7 Nxc6
+30.Bb5 Qxe5 31.Re7+ Kf8 32.Re8+ Kxe8 33.Qe7+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C60"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7 4.d4 exd4 5.Nxd4 Nxd4 6.Qxd4 Nc6 7.Qd5 Be7 8.Nc3 Bf6
+9.Bd2 O-O 10.O-O-O a6 11.Be2 d6 12.f4 g6 13.Qd3 Bg7 14.h4 h5 15.g4 hxg4 16.h5 Be6
+17.hxg6 fxg6 18.e5 Qe8 19.Nd5 Qf7 20.Nf6+ Bxf6 21.exf6 Bf5 22.Qg3 Qxa2 23.Bc3 Kf7
+24.Rh7+ Ke8 25.Bxg4 Be4 26.Qe3 d5 27.Qc5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Anderssen, Adolf"]
+[Black "Heral, Josef"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 c6 5.Bd3 Nf6 6.h3 h6 7.Nf3 g5 8.Qe2 Nbd7
+9.Bd2 Qc7 10.Ne5 Nxe5 11.dxe5 Nd5 12.Nxd5 cxd5 13.Bb5+ Bd7 14.e6 fxe6 15.Bc3 d4
+16.Bxd7+ Qxd7 17.Bxd4 Rh7 18.O-O-O Qd5 19.Bg7 Qf5 20.Be5 Bg7 21.Qb5+ Kf7
+22.Rhe1 Rc8 23.c3 a6 24.Qxb7 Bxe5 25.Qxc8 Rh8 26.Qxa6 Bf4+ 27.Re3 Rb8 28.g4 Qe5
+29.Re1 Qd5 30.Kc2 Bxe3 31.Rxe3 Ra8 32.Qd3 Rxa2 33.Qh7+ Ke8 34.Qg8+ Kd7 35.Qb8 Ra1
+36.Rd3 Rc1+ 37.Kxc1 Qxd3 38.Qa7+ Kc6 39.Qe3 Qg6 40.b4 Qf6 41.Qc5+ Kb7 42.Kb2 e5
+43.b5 Qe6 44.Ka3 Qd6 45.Qb4 Kb6 46.c4 e4 47.Ka4 Qd1+ 48.Qb3 Qa1+ 49.Kb4 Qa5+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Anderssen, Adolf"]
+[Black "Pitschel, Karl"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 Be7 6.Bd3 Nf6 7.h3 O-O 8.O-O Nc6
+9.a3 d5 10.Nc3 a6 11.Ne2 Bd6 12.Bg5 h6 13.Bh4 Be6 14.Qd2 Be7 15.Qe3 Nh7 16.Nf4 Qd7
+17.Bxe7 Qxe7 18.Rae1 Rae8 19.Bxh7+ Kxh7 20.Qd3+ Kg8 21.Nxd5 Qd6 22.Ne3 Rd8
+23.Rd1 b5 24.Qc3 Ne7 25.Ne5 f6 26.N5g4 f5 27.Ne5 f4 28.N3g4 Bxg4 29.hxg4 Rf6
+30.Rfe1 Re6 31.Qf3 Nd5 32.a4 Rde8 33.axb5 axb5 34.c3 c6 35.Ra1 Rf8 36.Ra6 Ne7
+37.Rea1 b4 38.Ra7 bxc3 39.bxc3 Ng6 40.Nd7 Rfe8 41.Kf1 R6e7 42.Nc5 Qf6 43.Rxe7 Rxe7
+44.Ra8+ Kh7 45.Rc8 Qh4 46.Qh3 Qf6 47.Qh5 Qf7 48.Rxc6 Qe8 49.Qxg6+ Qxg6 50.Rxg6 Kxg6
+51.Nd3 Kf7 52.Nxf4 Rc7 53.Ne2 Ke6 54.Ke1 Kd5 55.Kd2 Rf7 56.f3 Kc4 57.Nc1 Ra7
+58.Kc2 Ra3 59.Ne2 Ra2+ 60.Kd1 Rb2 61.Ke1 Kd3 62.Nf4+ Kxc3 63.Kf1 Kxd4 64.Kg1 g5
+65.Nh5 Ke5 66.Kh2  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Fleissig, Maximilian"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C62"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Qxd4 Nc6 5.Bb5 Ne7 6.Bf4 a6 7.Bxc6+ Nxc6 8.Qd2 Be7
+9.Nc3 O-O 10.Rd1 Bf6 11.O-O Bg4 12.h3 Bh5 13.g4 Bg6 14.Rfe1 Re8 15.Qd3 Bxc3
+16.bxc3 d5 17.Nd2 dxe4 18.Qg3 e3 19.Rxe3 Rxe3 20.Qxe3 Bxc2 21.Re1 h6 22.Nf3 Bg6
+23.Nd4 Nxd4 24.cxd4 c6 25.Qe7 Qxe7 26.Rxe7 b5 27.Bd6 a5 28.a3 Bd3 29.Bc5 Bc4
+30.Ra7 Rxa7 31.Bxa7 b4 32.axb4 axb4 33.Bc5 b3 34.Ba3 f6 35.Kg2 Kf7 36.Kf3 Ke6
+37.Ke3 g6 38.h4 g5 39.hxg5 fxg5 40.Kd2 Kf6 41.Ke3 Be6 42.f3 Kg6 43.Bb2 h5
+44.gxh5+ Kxh5 45.Ba3 Kh4 46.Kf2 Kh3 47.Bb2 Bc4 48.Ba3 Bd5 49.Bc1 Kh4 50.Ba3 Kh5
+51.Kg3 Be6 52.Bb2 Kg6 53.Kf2 Kf5 54.Ke3 Bf7 55.Bc1 Bh5 56.Bb2 Ke6 57.Bc1 Bg6
+58.Kd2 Bc2 59.Kc3 Kf5 60.Kd2 Ke6 61.Kc3 Kf6 62.Kd2 Kf5 63.Ke2 Kg6 64.Bb2 Kh5
+65.Kf2 Kh4 66.Kg2 Bf5 67.Bc3 Bh3+ 68.Kh2 g4 69.fxg4 Bxg4 70.d5 cxd5 71.Bf6+ Kh5
+72.Kg2 Kg6 73.Bb2 Kf5  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Fleissig, Maximilian"]
+[Black "Rosenthal, Samuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5 Qxe4+ 6.Be2 Bb4+ 7.Bd2 Kd8 8.O-O Bxd2
+9.Nxd2 Qg6 10.c4 Nf6 11.f4 Re8 12.Nf3 Re7 13.Nc3 d6 14.c5 Qf5 15.cxd6 Qc5+
+16.Kh1 Qxd6 17.Qa4 Qb4 18.Rad1+ Ke8 19.Qc2 Qxf4 20.Nd4 Nxd4 21.Qa4+ Bd7 22.Bb5 Qe5
+23.Bxd7+ Nxd7 24.Rxd4 c6 25.Re4 Qc5 26.Qb3 Ne5 27.Rfe1 Rd8 28.R4e2 Kf8 29.Ne4 Qb6
+30.Qh3 h6 31.Qf5 Ng6 32.Rf1 Kg8 33.Ng5 Qb5 34.Qxb5 cxb5 35.Rxe7 Nxe7 36.Nf3 f6
+37.Rc1 Nc6 38.Kg1 Kf7 39.Kf2 Ke6 40.Re1+ Ne5  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Bird, Henry Edward"]
+[Black "Fleissig, Maximilian"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C00"]
+
+1.e4 e6 2.Bb5 Qg5 3.Bf1 d5 4.Nf3 Qg6 5.exd5 exd5 6.d4 Nf6 7.Ne5 Qe4+ 8.Be3 Ng4
+9.Nxg4 Bxg4 10.Qd2 Qe6 11.Bd3 Bd6 12.O-O O-O 13.Nc3 c6 14.Rae1 Qd7 15.Bf4 Bh5
+16.Bxd6 Qxd6 17.f4 f5 18.Re5 Bg6 19.g4 fxg4 20.f5 Bf7 21.f6 Bg6 22.Bxg6 hxg6
+23.f7+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Fleissig, Maximilian"]
+[Black "Steinitz, William"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C60"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7 4.d4 exd4 5.Nxd4 Nxd4 6.Qxd4 Nc6 7.Bxc6 bxc6
+8.Nc3 Qe7 9.O-O f6 10.Bf4 d6 11.Rfe1 Qf7 12.e5 fxe5 13.Bxe5 Kd8 14.Rad1 Bd7
+15.Bg3 Rg8 16.Ne4 Kc8 17.Qa4 a6 18.Qa5 Qf5 19.Qc3 Be7 20.f3 g5 21.Nc5 Re8
+22.Nxd7 Kxd7 23.Qe5 Qxe5 24.Bxe5 Bf8 25.Bc3 c5 26.Rxe8 Rxe8 27.Re1 Rxe1+
+28.Bxe1 c4 29.Kf2 Ke6 30.Bd2 Be7 31.f4 gxf4 32.Bxf4  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Gelbfuhs, Oscar"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O dxc3 8.Qb3 Qf6
+9.e5 Qg6 10.Nxc3 Nge7 11.Ba3 Bxc3 12.Qxc3 O-O 13.Bd3 Qh6 14.Rfe1 d6 15.Rad1 Bf5
+16.exd6 cxd6 17.Bxd6 Qxd6 18.Bxf5 Qf6 19.Qxf6 gxf6 20.Bc2 Rad8 21.Rb1 b6
+22.Ba4 Rd6 23.Nh4 Rfd8 24.Rbc1 Re6 25.f4 Nd4 26.Rxe6 Nxe6 27.Re1 Kf8 28.Bc2 h6
+29.g3 Rd2 30.Bb3 Nd4 31.Re3 b5 32.Nf3 Nxf3+ 33.Rxf3 a5 34.Rf2 Rd4 35.Kf1 a4
+36.Bc2 Nd5 37.Ke1 Nc3 38.a3 b4 39.Rd2 bxa3  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Bird, Henry Edward"]
+[Black "Heral, Josef"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A03"]
+
+1.f4 d5 2.Nf3 Nc6 3.e3 Nf6 4.b3 Bg4 5.Be2 Bxf3 6.Bxf3 e6 7.c3 Bd6 8.d4 Ne7
+9.Na3 a6 10.O-O c6 11.Nc2 Qc7 12.c4 Qb8 13.Bb2 h6 14.Qd3 g5 15.g3 g4 16.Bg2 h5
+17.e4 Bc7 18.e5 Nd7 19.Ne3 Qa7 20.cxd5 cxd5 21.Kh1 O-O-O 22.f5 Bb6 23.a3 Nxe5
+24.dxe5 Bxe3 25.fxe6 h4 26.gxh4 fxe6 27.Rae1 Bb6 28.Rf6 Rxh4 29.Bc1 Rdh8
+30.Bf4 Bf2 31.Rf1 g3 32.Bxg3 Bxg3 33.Rf8+ Kd7 34.Rxh8 Rxh8 35.Qxg3 Qd4 36.Qg5 Qh4
+37.Qxh4 Rxh4 38.Bf3 Nc6 39.Re1 Nd4 40.Bd1 Kc6 41.Kg2 Kc5 42.Re3 Nf5 43.Re1 Kd4
+44.Bf3 Kc3 45.h3 b5 46.Bg4 d4 47.Bxf5 exf5 48.e6 Rh8 49.h4 d3 50.Re5 d2 51.Rd5 Rxh4
+52.Kf3 Re4 53.Rc5+ Kxb3  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Gelbfuhs, Oscar"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.O-O O-O 7.h3 Be6 8.Bg5 Nbd7
+9.Nbd2 Re8 10.c3 Nf8 11.Ne5 Qc8 12.f4 Ne4 13.Bxe4 dxe4 14.Nxe4 f6 15.Bxf6 Bd5
+16.Qh5 Bxe5 17.fxe5 Bxe4 18.Bxg7 Kxg7 19.Qf7+ Kh8 20.Qf6+ Kg8  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Gelbfuhs, Oscar"]
+[Black "Heral, Josef"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 c6 5.Nf3 Nf6 6.Bd3 g6 7.O-O Bg7 8.Bd2 Qc7
+9.Ne5 O-O 10.b3 Nd5 11.Nxd5 cxd5 12.f4 Nc6 13.c3 b6 14.Qf3 Bb7 15.Rae1 e6
+16.Qh3 Rfe8 17.Rf3 f5 18.Nxc6 Qxc6 19.Rfe3 Re7 20.Qh4 Rae8 21.Rh3 Bh8 22.Ree3 Qd7
+23.Reg3 Rg7 24.Qf6 Qd8 25.Qxd8 Rxd8 26.Re3 Re7 27.Re1 Bf6 28.Bc1 a6 29.Ba3 Ree8
+30.Rhe3 Kf7 31.g3 h5 32.h4 Rc8 33.Bb2 b5 34.Kg2 Bc6 35.Ba3 Bd7 36.Bc5 Rb8
+37.b4 Rbc8 38.Ra1 Ra8 39.Ree1 Rec8  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Gelbfuhs, Oscar"]
+[Black "Pitschel, Karl"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Bd3 Nf6 6.Nf3 O-O 7.O-O Bg4 8.Bg5 h6
+9.Bh4 Bxc3 10.bxc3 g5 11.Bg3 Ne4 12.Qe1 Nxg3 13.fxg3 f6 14.Qf2 Nc6 15.Rae1 Qd7
+16.Nd2 Rae8 17.Rxe8 Qxe8 18.h3 Bc8 19.c4 Nb4 20.cxd5 Nxd3 21.cxd3 Kg7 22.Ne4 Qd8
+23.Rc1 b6 24.Qc2 Kg6 25.Qxc7 Qxd5 26.Qc4 Be6 27.Qxd5 Bxd5 28.Rc7 Rd8 29.Rxa7 Bxe4
+30.dxe4 Rxd4 31.Rb7 Rd1+ 32.Kf2 Rd2+ 33.Kf1 Rxa2 34.Rxb6 Ra1+  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Heral, Josef"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D53"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.Nf3 O-O 6.Bxf6 Bxf6 7.e3 b6 8.Qc2 Bb7
+9.h4 Nd7 10.Bd3 h6 11.cxd5 exd5 12.O-O-O g6 13.g4 Bg7 14.Rh3 c5 15.Rg1 Rc8
+16.h5 cxd4 17.exd4 g5 18.Bf5 Rc4 19.Bd3 Rc7 20.Kb1 Re8 21.Qd2 a6 22.Bc2 b5
+23.Qd3 Nf8 24.Ne2 Bc8 25.Nh2 Rce7 26.Re3 Qd6 27.Rg2 Qb4 28.Rg1 Re4 29.a3 Qd6
+30.Ng3 Rxd4 31.Rxe8 Rxd3 32.Bxd3 Be6 33.Rc1 Qe5 34.Rc2 Qe1+ 35.Ka2 Qd1  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Heral, Josef"]
+[Black "Fleissig, Maximilian"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D53"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.e3 Nc6 7.a3 O-O 8.Nf3 b6
+9.Qc2 Ne7 10.Bd3 h6 11.h4 dxc4 12.Bxc4 Bb7 13.O-O-O Bxf3 14.gxf3 h5 15.Rdg1 g6
+16.Ba2 Rc8 17.Ne4 Bg7 18.Rg5 Nd5 19.Rhg1 c5 20.dxc5 bxc5 21.Bc4 Re8 22.Rd1 Rb8
+23.b3 Qa5 24.a4 Qb4 25.Qa2 Nc3 26.Nxc3 Qxc3+ 27.Qc2 Qa1+ 28.Kd2 Red8+ 29.Ke2 Rxd1
+30.Qxd1 Qxd1+ 31.Kxd1 Rc8 32.Rg1 Bf6 33.Rh1 Kg7 34.Ke2 e5 35.Kf1 Rc7 36.Kg2 Kh6
+37.Kg3 g5 38.hxg5+ Bxg5 39.Rd1 Kg7 40.Rd5 Be7 41.f4 exf4+ 42.Kxf4 h4 43.Kg4 Bf6
+44.Rh5 Rc8 45.f4 Re8 46.Kf3 Rh8 47.Rxh8 Kxh8 48.Bxf7 Kg7 49.Be6 Bc3 50.e4 Kf6
+51.Bh3 Bd4 52.e5+ Kf7 53.Ke4 Bc3 54.Kd5 Bd2 55.f5 Bf4 56.f6 Be3 57.Ke4 Bd4
+58.Kf5 Bc3 59.e6+ Kf8 60.Bg2  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Heral, Josef"]
+[Black "Meitner, Philipp"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C46"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 g6 4.a3 Bg7 5.Bc4 d6 6.h3 a6 7.d3 Nge7 8.Bg5 O-O
+9.Nd5 Qd7 10.Nf6+ Bxf6 11.Bxf6 h6 12.Qd2 Kh7 13.Ng5+ hxg5 14.Qxg5 Nf5 15.g4 Ncd4
+16.Kf1 Nf3 17.Qc1 N5h4 18.c3 d5 19.Bxd5 c6 20.Bxh4 cxd5 21.Bg3 dxe4 22.dxe4 Qd3+
+23.Kg2 Qxe4  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Heral, Josef"]
+[Black "Paulsen, Louis"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D53"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Bd3 Nbd7 7.Nge2 b6 8.O-O Bb7
+9.Ng3 h6 10.Bxf6 Nxf6 11.Nh5 c5 12.Nxf6+ Bxf6 13.dxc5 bxc5 14.Rc1 d4 15.exd4 Bxd4
+16.Ne2 Qg5 17.Ng3 f5 18.Qe2 e5 19.Bb1 Rae8 20.Kh1 e4 21.Rce1 f4 22.Nxe4 Bxe4
+23.Bxe4 f3 24.gxf3 Re5 25.Rg1 Qh4 26.Rg4 Qxf2 27.Qxf2 Bxf2 28.Bh7+ Kxh7 29.Rxe5 Rxf3
+30.Kg2 Rf7 31.Re2 Bd4 32.b4 Rb7 33.b5 Rf7 34.a4 Rf6 35.a5 h5 36.Rxd4 cxd4
+37.Re5 d3 38.Rxh5+ Kg8 39.Rd5 Rf4 40.c5 Rc4 41.b6 axb6 42.cxb6 Rc2+ 43.Kf3 d2
+44.Ke2 Rb2 45.Rxd2 Rb5 46.Rc2 Kh7 47.Ra2 Rh5 48.Kd3 Rh3+ 49.Kc4 Rh4+ 50.Kd5 Rh5+
+51.Kd6  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Heral, Josef"]
+[Black "Pitschel, Karl"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.d4 Bb4 5.d5 Ne7 6.Bd3 Ng6 7.Bd2 O-O 8.Ne2 Bxd2+
+9.Qxd2 d6 10.h3 Re8 11.O-O-O a6 12.c3 b5 13.Bc2 Bd7 14.g4 a5 15.Ng3 Nf4 16.Nf5 Qb8
+17.Rdg1 b4 18.c4 a4 19.Bb1 Qb6 20.Qe3 Qxe3+ 21.fxe3 Ne2+ 22.Kd2 Nxg1 23.Rxg1 g6
+24.Ng3 Kg7 25.Ne1 c5 26.Bd3 a3 27.b3 h6 28.Bb1 Rh8 29.Nh1 Rhf8 30.Nf2 Nh7
+31.h4 Rfe8 32.Ke2 Kf6 33.Rg3 Ke7 34.Nf3 Rg8 35.Bc2 f6 36.Bb1 f5 37.gxf5 gxf5
+38.Rxg8 Rxg8 39.exf5 Nf6 40.Bd3 e4 41.Bxe4 Nxe4 42.Nxe4 Rg2+ 43.Kf1 Rxa2
+44.f6+ Kf7 45.Nxd6+ Kxf6 46.Ne4+ Ke7 47.d6+ Ke6 48.Nxc5+ Kxd6 49.Ne4+ Kc7
+50.Nd4 Rb2  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Heral, Josef"]
+[Black "Rosenthal, Samuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e3 e5 4.Bxc4 exd4 5.exd4 Bd6 6.Nf3 Nf6 7.O-O O-O 8.Nc3 Nc6
+9.Kh1 Bg4 10.Be3 a6 11.h3 Bh5 12.Rg1 b5 13.Bb3 Na5 14.Bc2 Nc4 15.Bg5 h6 16.Bh4 g5
+17.g4 Bg6 18.Nxg5 hxg5 19.Bxg5 Be7 20.Bh6 Re8 21.Bxg6 fxg6 22.Qd3 Kh7 23.h4 Ne5
+24.Qc2 Qxd4 25.Rad1 Qc4 26.h5 Kxh6 27.g5+ Kh7 28.hxg6+ Kg7 29.gxf6+ Bxf6
+30.Qf5 Qe6 31.Qxe6 Rxe6 32.f4 Nc4 33.Rd7+ Re7 34.Rgd1 Rh8+ 35.Kg1 Kxg6 36.f5+ Kxf5
+37.Rf1+ Ke6 38.Rxc7 Rxc7 39.Rxf6+ Kxf6 40.Nd5+ Ke5  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Meitner, Philipp"]
+[Black "Anderssen, Adolf"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4 Qf6 6.Be3 Qxd4 7.Bxd4 d6 8.Nc3 c6
+9.O-O-O Be6 10.h3 Nf6 11.g4 Nd7 12.f4 f6 13.Bg2 Be7 14.Bf2 Bf7 15.Bg3 O-O-O
+16.Rhe1 Nb6 17.Kb1 Rhe8 18.a3 Bf8 19.Bf3 Nc4 20.b3 Nb6 21.Kb2 h6 22.Rd3 Nd7
+23.Red1 Kc7 24.a4 b6 25.Bg2 a6 26.R3d2 b5 27.axb5 axb5 28.Ra1 Ra8 29.Rdd1 b4
+30.Na2 Reb8 31.Be1 c5 32.e5 Ra6 33.exf6 gxf6 34.Nxb4 Rxa1 35.Rxa1 cxb4 36.Ra7+ Kd8
+37.Bc6 Be8 38.Bh4 Be7 39.Bf2 Nc5 40.Bd5 Bd7 41.f5 h5 42.Bd4 hxg4 43.hxg4 Ke8
+44.Ra1 Bb5 45.Rh1 Nd7 46.Rh8+ Bf8 47.Be3 Kd8 48.g5 fxg5 49.Bxg5+ Kc7 50.f6 Bc6
+51.Be6 Nc5 52.Bg4 Be4 53.Bh3 Ra8 54.Bg4 Nd7 55.Bh3 Ne5 56.Bd2 Nf7 57.Rh4 d5
+58.Be6 Ne5 59.Rh8 Ng6 60.Rg8 d4 61.Bf7 Ne5 62.Bh5 Bd6 63.f7 Nd7 64.Bh6 Ra5
+65.Bg4 Bf5 66.Rg5 Bxg4 67.Rxa5 Be6 68.Ra7+ Kb6 69.Rxd7 Bxd7 70.f8=Q Bxf8
+71.Bxf8  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Meitner, Philipp"]
+[Black "Gelbfuhs, Oscar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6 5.Nc3 Be7 6.Bxc6+ bxc6 7.h3 O-O 8.O-O c5
+9.b3 Ne8 10.g4 h5 11.Nh2 hxg4 12.hxg4 Be6 13.Qf3 Qd7 14.Qg2 g5 15.f3 Kg7
+16.Ne2 Rh8 17.Be3 f6 18.Kf2 c6 19.Rh1 Bf7 20.Rag1 Nc7 21.Nf1 Ne6 22.Nfg3 Bg6
+23.Rxh8 Rxh8 24.Rh1 Qe8  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Meitner, Philipp"]
+[Black "Paulsen, Louis"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C23"]
+
+1.e4 e5 2.Nc3 Nc6 3.Bc4 Bc5 4.d3 Na5 5.Nf3 Nxc4 6.dxc4 d6 7.Qd3 Ne7 8.Be3 Bxe3
+9.Qxe3 b6 10.O-O-O Nc6 11.Nd2 O-O 12.f3 Be6 13.g4 a6 14.b3 b5 15.Qd3 bxc4
+16.Nxc4 a5 17.a4 Nb4 18.Qe2 Qe7 19.Ne3 Rfb8 20.Ncd5 Nxd5 21.Nxd5 Qd8 22.Rd3 Ra7
+23.Rhd1 Qg5+ 24.Qd2 Qxd2+ 25.R1xd2 Kf8 26.Ne3 Rb6 27.Kb2 Ke7 28.Ka3 Rab7
+29.c4 Rb8 30.Rb2 c6 31.Rbd2 c5 32.Rb2 Rb4 33.Rdd2 h6 34.Nd1  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Meitner, Philipp"]
+[Black "Rosenthal, Samuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bc4 Ne5 8.Bb3 Qg6
+9.O-O Qxe4 10.Nd2 Qg4 11.Nb5 Bxe3 12.fxe3 Qxd1 13.Raxd1 Kd8 14.Bxf7 d6 15.h3 Nf5
+16.e4 Ne3 17.Bb3 a6 18.Nd4 Nxd1 19.Rxd1 Ke7 20.N2f3 Nxf3+ 21.Nxf3 Be6 22.e5 dxe5
+23.Nxe5 Bxb3 24.axb3 Rhd8 25.Re1 Kf8 26.Re2 Rd1+ 27.Kh2 Re8 28.Rf2+ Kg8 29.Nf3 h6
+30.b4 Rd3 31.Kg1 Rd1+ 32.Kh2 Re7 33.Rc2 Kh7 34.Kg3 b6 35.Nd4 Rd7 36.Nb3 R1d5
+37.Re2 c5 38.bxc5 bxc5 39.Kf2 Kg8 40.Ke1 Kf7 41.Kf2 Re7 42.Rc2 Rf5+ 43.Kg1 Rfe5
+44.Rd2 Re2 45.Rxe2 Rxe2 46.Nxc5 Rxb2 47.Nxa6 Rc2 48.Nc5 Rxc3 49.Ne4 Re3 50.Nd2 Kf6
+51.Kf2 Ra3 52.Nf3 Kf5 53.Nd4+ Ke4 54.Ne6 g5 55.Ng7 Ke5 56.Nh5 Ke6 57.g3 Ke5
+58.Kg2 Ke4 59.g4 Ke3 60.Ng7 Ra7 61.Nh5 Rf7 62.Kg3 Ke2 63.Kg2 Rf2+ 64.Kg3 Kf1
+65.Ng7 Kg1 66.Nf5 Ra2 67.Kf3 Ra3+ 68.Ke4 Rxh3 69.Nxh6 Rxh6 70.Kf5 Kg2 71.Kxg5 Ra6
+72.Kh5 Kg3  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Meitner, Philipp"]
+[Black "Schwarz, Adolf"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Nf6 5.Nf3 Bd6 6.O-O O-O 7.Nc3 c6 8.Bg5 Bg4
+9.h3 Bh5 10.g4 Bg6 11.Ne2 Nbd7 12.Nh4 h6 13.Nxg6 fxg6 14.Bf4 Qc7 15.Bxd6 Qxd6
+16.Ng3 Nh7 17.Kg2 Rf4 18.c3 Raf8 19.Qc2 R8f6 20.Rae1 Ndf8 21.Re3 Ng5 22.f3 Rf7
+23.Qe2 R4f6 24.Qd2 Nfe6 25.Ne2 Qf8 26.f4 Nxf4+ 27.Nxf4 Rxf4 28.Rxf4 Rxf4
+29.Bxg6 Nf3 30.Qd3 Nh4+ 31.Kg3 Nxg6 32.Qxg6 Rf6 33.Qh5 Qd6+ 34.Qe5 Kf7 35.Qxd6 Rxd6  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Meitner, Philipp"]
+[Black "Steinitz, William"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 d6 6.h3 g6 7.d3 Bg7 8.O-O O-O
+9.Bg5 h6 10.Be3 Ne8 11.Bxc6 bxc6 12.d4 f6 13.Qe2 exd4 14.Nxd4 c5 15.Qc4+ Kh7
+16.Ne6 Bxe6 17.Qxe6 Rb8 18.Rab1 f5 19.exf5 Rxf5 20.Nd5 Re5 21.Qf7 Rf5 22.Qe6 Re5  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C25"]
+
+1.e4 e5 2.Nc3 Nc6 3.g3 Bc5 4.Bg2 a6 5.Nge2 d6 6.Nd5 Nf6 7.d3 Nxd5 8.exd5 Ne7
+9.O-O Nf5 10.Kh1 O-O 11.c3 Bd7 12.f4 f6 13.Ng1 Qe8 14.Nh3 Qg6 15.Nf2 Rae8
+16.Ne4 Ne3 17.Bxe3 Bxe3 18.Qf3 exf4 19.gxf4 Bb6 20.f5 Qh6 21.d4 Re7 22.Qg3 Qh5
+23.Rae1 Ref7 24.Bh3 Kh8 25.Rf4 Re7 26.Bg4 Qf7 27.Qh3 Qxd5 28.Qg2 Bc6 29.Bf3 Qf7
+30.Rh4 Rfe8 31.Rf1 h6 32.h3 Bxe4 33.Bxe4 c6 34.Rg1 Bc7 35.b3 Qf8 36.Rg4 d5
+37.Bf3 Re1 38.Qf2 Rxg1+ 39.Rxg1 Qd6 40.Qg2 Re7 41.Bd1 Kg8 42.Bf3 Kf8 43.c4 dxc4
+44.d5 cxb3 45.dxc6 bxa2 46.cxb7 Qa3 47.Ra1 Qc3 48.Qf1 Qb2 49.Bg2 Re2 50.Qc1 Qxc1+
+51.Rxc1 Rb2 52.Be4 Rb4 53.Bd3 Be5 54.Kg2 a1=Q 55.Rxa1 Bxa1 56.Bxa6 Be5  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "Bird, Henry Edward"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C25"]
+
+1.e4 e5 2.Nc3 Bc5 3.Nf3 d6 4.Na4 Bg4 5.Nxc5 dxc5 6.Be2 Qd6 7.h3 Bxf3 8.Bxf3 Nc6
+9.g3 Nge7 10.d3 O-O-O 11.Be3 Nd4 12.Bg2 h5 13.Qd2 Qa6 14.O-O h4 15.g4 Ng6
+16.f4 exf4 17.Bxf4 Nxf4 18.Rxf4 f6 19.Rf2 Ne6 20.Qc3 Rhe8 21.b4 c4 22.dxc4 Rd4
+23.c5 Red8 24.a4 Ng5 25.e5 fxe5 26.Qe3 Qh6 27.Qxe5 Rxb4 28.c3 Rb3 29.Raf1 Qg6
+30.Rf5 Ne6 31.Rf6 gxf6 32.Qxe6+ Kb8 33.Qxb3 Qd3 34.Qxb7+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "Gelbfuhs, Oscar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C25"]
+
+1.e4 e5 2.Nc3 Nc6 3.g3 Bc5 4.Nf3 d6 5.Na4 Bb6 6.Nxb6 axb6 7.Bg2 Nge7 8.d4 Bg4
+9.c3 O-O 10.d5 Nb8 11.h3 Bxf3 12.Qxf3 f5 13.exf5 Nxf5 14.Qg4 Qf6 15.O-O h6
+16.Kh2 Na6 17.Bd2 Rae8 18.Rae1 g6 19.Qc4 Kh7 20.b4 Re7 21.Bc1 Qf7 22.Qd3 Qg7
+23.Re4 Ref7 24.a3 Kg8 25.Qe2 Kh7 26.Qd3 Kg8 27.f4 Re7 28.Bh1 exf4 29.Bxf4 Rfe8
+30.Rfe1 Rxe4 31.Rxe4 Rxe4 32.Bxe4 Qf6 33.Bxf5 gxf5 34.Be3 Kf7 35.Bd4 Qg6
+36.Qf3 Ke7 37.Qe2+ Kd7 38.g4 Kd8 39.gxf5 Qxf5 40.Qg2 Qf4+ 41.Qg3 Qd2+ 42.Kg1 Qd1+
+43.Kf2 Qd2+ 44.Kf3 Qd3+ 45.Kf4 Qh7 46.Qg7 Qxg7 47.Bxg7 Ke7 48.Bxh6 c6 49.Bg5+ Kf7
+50.Bd8 b5 51.dxc6 bxc6 52.Kf5 c5 53.Bb6 cxb4 54.axb4 Ke7 55.h4 Nb8 56.h5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "Schwarz, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Be3 Bd6 6.c4 dxc4 7.Bxc4 O-O 8.Nc3 Nc6
+9.h3 Bd7 10.O-O h6 11.a3 Ne7 12.Ne5 Bc6 13.Qb3 Bxe5 14.dxe5 Nh7 15.Rad1 Qe8
+16.f4 Kh8 17.f5 b6 18.f6 Ng6 19.fxg7+ Kxg7 20.Nd5 Bxd5 21.Bxd5 c6 22.Bxf7 Rxf7
+23.Rxf7+ Qxf7 24.Bxh6+ Kg8 25.e6 Qe7 26.Rd7 Qc5+ 27.Kh1 Qe5 28.e7+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C26"]
+
+1.e4 e5 2.Nc3 Nc6 3.g3 Bc5 4.Bg2 Nf6 5.d3 a6 6.Nf3 d6 7.O-O h6 8.Be3 Bxe3
+9.fxe3 Nh7 10.Nd5 Ne7 11.Nd2 Be6 12.c4 c6 13.Nxe7 Qxe7 14.d4 O-O 15.d5 Bd7
+16.Nf3 c5 17.Qd2 b5 18.b3 Rfb8 19.Rab1 Nf6 20.Nh4 g6 21.h3 Rb6 22.Kh2 Rab8
+23.cxb5 axb5 24.Rf2 Be8 25.Rbf1 Nd7 26.Qe2 Ra8 27.Bf3 Nf6 28.Bg2 Nh7 29.Qg4 Ng5
+30.Nf5 gxf5 31.exf5 f6 32.h4 h5 33.Qe2 Nh7 34.Bf3 Rba6 35.Ra1 e4 36.Bxh5 Qe5
+37.Bxe8 Qxa1 38.Bxb5 Rxa2 39.Qg4+ Kh8 40.Be2 Qe1 41.Kg2 Rg8 42.Qh5 Qd2 43.Qh6 Qxd5
+44.g4 Rxe2 45.Rxe2 Qxf5  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Pitschel, Karl"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Bc4 d5 7.exd5 Bg7 8.Nc3 O-O
+9.d4 Nh5 10.Nxg4 Ng3 11.Rh2 Qe7+ 12.Kf2 h5 13.Qd3 Bf5 14.Qd2 hxg4 15.Qxf4 Nh5
+16.d6 Qe8 17.Nd5 Nxf4 18.Ne7+ Kh8 19.Bxf4 Bxd4+ 20.Kg3 Be6 21.Bd3 cxd6 22.Nf5 Bxf5
+23.Bxf5 Qe2 24.Rhh1 Qf2+ 25.Kxg4 Qxg2+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Pitschel, Karl"]
+[Black "Fleissig, Maximilian"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.Bg5 h6 7.Bh4 g5 8.Bg3 Ne7
+9.Qb3 Rh7 10.Nbd2 Nc6 11.Qc2 Nh5 12.Nb3 Bb6 13.Bb5 f6 14.d4 Bd7 15.O-O-O Qe7
+16.Rhe1 O-O-O 17.Ng1 Kb8 18.Be2 Nxg3 19.hxg3 Rf8 20.g4 a6 21.d5 Nd8 22.f3 h5
+23.gxh5 Rxh5 24.Bd3 Rh2 25.Qe2 Rfh8 26.Nd2 R8h7 27.b4 Nf7 28.Nc4 Ba7 29.Na5 Qe8
+30.c4 Nh8 31.Qc2 Ng6 32.c5 Ba4 33.Nb3 Nf4 34.Bf1 Bb5 35.Rd2 Bxf1 36.Rxf1 Qb5
+37.Rfd1 Qxb4 38.cxd6 cxd6 39.Kb1 Be3 40.Rc1 Bxd2  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Pitschel, Karl"]
+[Black "Meitner, Philipp"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A00"]
+
+1.d4  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Pitschel, Karl"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A00"]
+
+1.d4  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Pitschel, Karl"]
+[Black "Rosenthal, Samuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A00"]
+
+1.d4  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Pitschel, Karl"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Bc4 d5 7.exd5 Bd6 8.d4 Nh5
+9.O-O f3 10.Bb5+ c6 11.Qe1 O-O 12.dxc6 Qb6 13.Bc4 Qxd4+ 14.Qe3 Qxe5 15.Qxe5 Bxe5
+16.gxf3 Nxc6 17.c3 g3 18.f4 Bc7 19.f5 Bb6+ 20.Kg2 Bf2  0-1
+
+[Event "Vienna playoff-1pl"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 b5 6.Bb3 Bb7 7.d3 Bc5 8.c3 O-O
+9.Bg5 h6 10.Bh4 Be7 11.Nbd2 Kh8 12.Nf1 a5 13.a4 bxa4 14.Bxa4 d5 15.Qc2 dxe4
+16.dxe4 Nd7 17.Bg3 Nc5 18.Rd1 Qe8 19.Ne3 Ba6 20.Nd5 Bd6 21.Nh4 Rb8 22.Nf6 Qe6
+23.Bxc6 Qxf6 24.f3 Rb6 25.Bd5 Rfb8 26.b3 Nxb3 27.Nf5 Nc5 28.c4 Rb2 29.Nxd6 cxd6
+30.Qc3 R8b3 31.Qxa5 Re3+ 32.Kf1 Rxf3+ 33.Kg1 Rxg3  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Rosenthal, Samuel"]
+[Black "Gelbfuhs, Oscar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.Bxc6+ bxc6 7.Nc3 Bg4 8.h3 Bh5
+9.g4 Bg6 10.Ne2 c5 11.Ng3 h5 12.Nh4 hxg4 13.Nxg6 fxg6 14.hxg4 Rxh1+ 15.Nxh1 Qd7
+16.f3 Be7 17.Qe2 Kf7 18.Bd2 Qb5 19.O-O-O Qa4 20.Kb1 Rb8 21.Bc3 a5 22.Rf1 Ke8
+23.Nf2 Kd7 24.Nd1 Rh8 25.b3 Qb5 26.a4 Qa6 27.Ne3 c6 28.Nc4 Bd8 29.d4 Ke6
+30.dxc5 dxc5 31.Qd3 Bc7 32.Nxe5 Qxd3 33.Nxd3 Bb6 34.Ne5 Rh3 35.Nxg6  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Rosenthal, Samuel"]
+[Black "Paulsen, Louis"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.exd5 exd5 5.Nf3 Bd6 6.Bd3 O-O 7.O-O Bg4 8.Bg5 c6
+9.h3 Bh5 10.g4 Bg6 11.Ne5 Qb6 12.Bxg6 hxg6 13.Qd3 Nh7 14.Be3 Qc7 15.f4 Nd7
+16.g5 Rae8 17.Kg2 Qc8 18.Ne2 Nb6 19.Ng3 Nc4 20.Bc1 Nb6 21.b3 c5 22.c3 Qc7
+23.Bd2 Rc8 24.Rh1 cxd4 25.cxd4 Qc2 26.Qe3 Bb4 27.Rhd1 Bc3 28.Rab1 Qxa2 29.Rbc1 Bb4
+30.Rxc8 Rxc8 31.Kf3 Qc2 32.Ke2 Rc3 33.Nd3 Rxb3 34.Qe8+ Bf8 35.Ne5 Qc7 36.Nf5 Nc4
+37.Rc1 Rb2 38.Rxc4 dxc4 39.Kd1 Rxd2+ 40.Kxd2 Qa5+ 41.Ke2 Qc7 42.d5 gxf5 43.d6 Qxd6
+44.Qxf7+ Kh8 45.Ng6+ Qxg6 46.Qxg6 b5 47.Qxf5 b4 48.Qc8 c3 49.g6 a5 50.gxh7 b3
+51.Qxf8+ Kxh7 52.Qf5+ Kh6 53.Qg5+ Kh7 54.Qh5+ Kg8 55.Qd5+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Rosenthal, Samuel"]
+[Black "Schwarz, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.O-O O-O 7.Nc3 Bg4 8.Bg5 c6
+9.Ne2 Nbd7 10.Ng3 Qc7 11.h3 Bxf3 12.Qxf3 h6 13.Bd2 Rfe8 14.Nf5 Re6 15.Nxd6 Qxd6
+16.Bf5 Ree8 17.Bf4 Qe7 18.Rae1 Qd8 19.c3 Nf8 20.Bd2 N8h7 21.Rxe8+ Qxe8 22.Re1 Qf8
+23.Qg3 g6 24.Bd3 Rc8 25.Qf4 h5 26.Qe5 Qe8 27.Qe7 Qd7 28.Qa3 Re8 29.Rxe8+ Nxe8
+30.Qxa7 Nf8 31.Qb8 Ne6 32.Qe5 Qd6 33.Qxd6 Nxd6 34.f3 Kf8 35.Kf2 Ke7 36.a4 Kd7
+37.b3 Ke7 38.Ke2 Kd7 39.g4 hxg4 40.fxg4 g5 41.Kf3 f6 42.Be3 Ke7 43.Kg3 Kf7
+44.Bc1 Ke7 45.Ba3 Kd7 46.Bf5 Nxf5+ 47.gxf5 Ng7 48.Kg4 Ke8 49.Bd6 Kf7 50.c4 Ke8
+51.c5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Rosenthal, Samuel"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C46"]
+
+1.e4 e5 2.Nc3 Nc6 3.Nf3 g6 4.d4 exd4 5.Nxd4 Bg7 6.Be3 Nge7 7.Bc4 d6 8.O-O O-O
+9.f4 Na5 10.Bd3 d5 11.exd5 Nxd5 12.Nxd5 Qxd5 13.c3 Rd8 14.Qc2 Nc4 15.Bxc4 Qxc4
+16.Qf2 c5 17.Nf3 b6 18.Ne5 Qe6 19.Qf3 Ba6 20.Rfe1 f6 21.Ng4 h5 22.Nf2 Qf7
+23.f5 g5 24.Rad1 Bb7 25.Qg3 Rd5 26.Rxd5 Qxd5 27.Rd1 Qxf5 28.Qc7 Bd5 29.b3 Re8
+30.c4 Bf7 31.Bc1 Re2 32.Rf1 Qc2 33.Qg3 Qxa2 34.Qb8+ Kh7 35.Qg3 Bg6 36.h4 g4
+37.Nd3 Qxb3 38.Qc7 Qxd3  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Schwarz, Adolf"]
+[Black "Anderssen, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3 a6 6.O-O d6 7.Be3 Bg4 8.Kh1 Ba7
+9.a3 O-O 10.Qd2 Bxf3 11.gxf3 Nh5 12.Rg1 Qf6 13.Qe2 Nd4 14.Bxd4 Bxd4 15.Nd5 Qd8
+16.c3 c6 17.Ne3 Bxe3 18.fxe3 d5 19.Ba2 Nf6 20.Rg3 Qd6 21.Rag1 g6 22.Rg5 Rfe8
+23.Qf2 Kg7 24.Bb1 Rad8 25.Qg3 dxe4 26.fxe4 Qe6 27.Qg2 Rd6 28.h4 Nd7 29.d4 Qe7
+30.h5 h6 31.Rg4 g5 32.Bd3 f6 33.Rg3 c5 34.d5 b5 35.Qf3 c4 36.Be2 Nc5 37.Qf5 Qf7
+38.R3g2 Re7 39.Rf1 Rc7 40.Rgf2 Na4 41.Bd1 Nb6 42.Bg4 a5 43.Qf3 Na4 44.Be6 Qe7
+45.Qxf6+ Qxf6 46.Rxf6  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Schwarz, Adolf"]
+[Black "Bird, Henry Edward"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C28"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.Bc4 Bb4 5.O-O d6 6.d3 Bxc3 7.bxc3 Be6 8.Bb3 h6
+9.Bd2 Bg4 10.Qe2 O-O 11.h3 Bh5 12.g4 Bg6 13.Nh4 Kh7 14.Kh2 d5 15.Rad1 Qd6
+16.f3 Ne7 17.Nf5 Bxf5 18.gxf5 Nh5 19.Rg1 g6 20.f4 Nxf4 21.Bxf4 exf4 22.e5 Qc6
+23.f6 Nf5 24.Qf3 Qxc3 25.Qxf4 Rae8 26.d4 c5 27.Rd3 Qb2 28.Bxd5 Nxd4 29.Rg2 Ne6
+30.Bxe6 Rxe6 31.c3 Qb5 32.c4 Qc6 33.Rg4 Qc7 34.Rd5 Rg8 35.h4 Rge8 36.h5 Rxe5
+37.hxg6+ fxg6 38.f7 Re2+ 39.Kg1 Qxf4 40.Rxf4 Rf8 41.Rd6 Rxa2 42.Rff6 Ra6
+43.Rxa6 bxa6 44.Rc6 Rxf7 45.Rxc5 Kg7 46.Rc8 Kf6 47.c5 Ke6  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Schwarz, Adolf"]
+[Black "Gelbfuhs, Oscar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 d6 5.Nc3 Nf6 6.O-O Be6 7.Bb3 Qd7 8.Be3 Bb6
+9.Qd2 h6 10.Kh1 g5 11.Ng1 Nh5 12.Nd5 O-O-O 13.a4 f5 14.exf5 Bxf5 15.a5 Bxe3
+16.fxe3 Be6 17.a6 b6 18.c4 Bxd5 19.cxd5 Nb8 20.Rfc1 Rdf8 21.Qc2 Rh7 22.Ba4 Qg4
+23.Nf3 Qf5 24.Nd2 Rhf7 25.Bb5 g4 26.e4 Qf2 27.Bd7+ Rxd7 28.Rf1 Rdf7 29.Rxf2 Rxf2
+30.Qd1 Nf4 31.Qxg4+ Nd7 32.Nc4 Rxg2 33.Qf3 Nc5 34.Ne3 Rxb2 35.Qg4+ Kb8 36.Qg7 Rc8
+37.Rf1 Ncxd3 38.h4 Nf2+ 39.Rxf2 Rxf2 40.Ng4 Ra2 41.Nf6  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Schwarz, Adolf"]
+[Black "Heral, Josef"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Bd6 5.Nf3 Nf6 6.O-O O-O 7.Be3 h6 8.c4 dxc4
+9.Bxc4 Nc6 10.Nc3 a6 11.Kh1 Kh8 12.Qd2 Nh7 13.Ng1 f5 14.f4 Nf6 15.Nf3 Ng4
+16.h3 Nxe3 17.Qxe3 Re8 18.Qd2 Bb4 19.Rad1 b5 20.Bb3 Bb7 21.a3 Bxc3 22.bxc3 Na5
+23.Qa2 Nxb3 24.Qxb3 Qd5 25.Qxd5 Bxd5 26.Ne5 Kh7 27.Kg1 Rac8 28.Rfe1 c5 29.Re3 cxd4
+30.Rxd4 Rc5 31.Kf2 Be4 32.Rd6 Rec8 33.Rxa6 Rxc3 34.Rxc3 Rxc3 35.Nf3 Bxf3
+36.gxf3 Rb3 37.Kg3 Rb2 38.Rb6 Rb3 39.h4 Rxa3 40.Rxb5 Kg6 41.Rb7 Ra6 42.Rc7 Kf6
+43.h5 g5 44.Rc4 Rb6 45.Ra4 Rc6  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Schwarz, Adolf"]
+[Black "Pitschel, Karl"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Be3 Nf6 6.Bd3 Nc6 7.Nf3 Bg4 8.h3 Bh5
+9.O-O O-O 10.Kh1 Re8 11.Ne2 Bd6 12.Nf4 Bxf4 13.Bxf4 Bxf3 14.gxf3 Nh5 15.Bg3 Qf6
+16.c3 Re3 17.Bxc7 Rxf3 18.Be2 Rxh3+ 19.Kg2 Qh4 20.Bg4 Rd3 21.Qxd3 Qxg4+ 22.Kh1 Ne7
+23.Rg1 Qh4+ 24.Kg2 Ng6 25.Kf1 Rc8 26.Qf3 Qe7 27.Qxh5 Qxc7 28.Rh1 Qc4+ 29.Qe2 Qc6
+30.Re1 a6 31.Qd3 h6 32.Qf5 Qc4+ 33.Kg1 Rc6 34.Re8+ Nf8 35.Rh3 Qb5 36.Rf3 Rg6+
+37.Qxg6 Qxe8 38.Qb6 Qe1+ 39.Kg2 Qe7 40.Qc5 Qe6 41.Qc7 Ng6 42.Kf1 b5 43.Re3 Qf5
+44.Kg1 Nf4 45.Qd8+ Kh7 46.Qh4 g5 47.Qg3 h5 48.Qf3 g4 49.Qg3 Nh3+ 50.Kg2 Qb1
+51.Kh2 Ng5 52.Qe5 Nf3+ 53.Rxf3 gxf3 54.Qxh5+ Kg7 55.Qg5+ Kf8 56.Qxd5 Qxb2
+57.Qc5+ Ke8 58.d5 Qxa2 59.Qc6+ Ke7 60.Qc7+ Ke8 61.Qe5+ Kd7 62.Qf5+ Kd6 63.Qf6+ Kc7
+64.Qxf7+ Kb6 65.Qf6+ Ka5 66.Qxf3 Qd2 67.Kg3 Qg5+ 68.Kh3 Kb6 69.Qe4 Qh6+ 70.Kg4 Qg7+
+71.Kf4 Qf6+ 72.Qf5 Qxc3 73.Qe6+ Kb7 74.d6 Qd4+ 75.Kg5 Kc6 76.f4 Qg7+ 77.Kf5 Qh7+
+78.Ke5 Qg7+ 79.Ke4 Qg2+ 80.Kf5 Qh3+ 81.Kf6  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "Anderssen, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D55"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 b6 7.Bd3 Bb7 8.O-O Nbd7
+9.cxd5 exd5 10.Rc1 c5 11.dxc5 bxc5 12.Qa4 Ne4 13.Bxe4 dxe4 14.Rfd1 Bxg5 15.Nxg5 Qxg5
+16.Rxd7 Rfb8 17.Qb3 Bc6 18.Qxf7+ Kh8 19.h4 Qg4 20.Rxa7 Rxa7 21.Qxa7 Rxb2
+22.Qxc5 Qe6 23.Rd1 h6 24.Rd6 Qf7 25.Nd1 Re2 26.Kf1  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "Bird, Henry Edward"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C35"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Bh4+ 5.Kf1 d6 6.d4 Bg4 7.Bxf4 Qf6 8.Be3 Ne7
+9.Nd2 h6 10.h3 Bxf3 11.Nxf3 Nd7 12.Kg1 Bg3 13.Nd2 Nb6 14.Bd3 Bf4 15.Bf2 h5
+16.h4 O-O-O 17.Nf3 d5 18.e5 Qe6 19.Qe2 f6 20.Re1 Nc6 21.g3 fxe5 22.gxf4 Qg4+
+23.Kh2 e4 24.Ng5 Qxf4+ 25.Bg3 Qf6 26.Bb5 Nxd4 27.Qf1 Rdf8 28.c3 Qe7 29.cxd4 Rxf1
+30.Rhxf1 Rf8 31.Rxf8+ Qxf8 32.a3 c6 33.Rf1 Qe8 34.Rf7 Nd7 35.Bf1 Nf6 36.Rc7+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "Gelbfuhs, Oscar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A13"]
+
+1.c4 e6 2.e3 f5 3.g3 Nf6 4.Bg2 c6 5.Nf3 d5 6.b3 Bd6 7.Bb2 O-O 8.O-O Nbd7
+9.d4 b6 10.Nc3 Qe7 11.a3 Bb7 12.Qc2 Ne4 13.Nd2 e5 14.Rfe1 Nxd2 15.Qxd2 e4
+16.cxd5 cxd5 17.Nb5 Rfc8 18.Rec1 a6 19.Nxd6 Qxd6 20.a4 Nf6 21.Ba3 Rxc1+ 22.Qxc1 Qc6
+23.Qd2 Rc8 24.Rc1 Qe6 25.Rxc8+ Bxc8 26.Qb4 Kf7 27.Qf8+ Kg6 28.Bf1 f4 29.exf4 e3
+30.Bd3+ Kh6 31.Qe7 exf2+ 32.Kxf2 Qh3 33.Kg1 Qh5 34.Qxf6+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "Heral, Josef"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B45"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e6 4.d4 cxd4 5.Nxd4 Nf6 6.Ndb5 a6 7.Nd6+ Bxd6 8.Qxd6 Qe7
+9.Bf4 Qxd6 10.Bxd6 Kd8 11.O-O-O Ne8 12.Bg3 Ke7 13.e5 f6 14.f4 f5 15.Bh4+ Kf7
+16.Na4 h6 17.Nb6 Rb8 18.Nxc8 Rxc8 19.Rxd7+ Kg6 20.Rxb7 Nc7 21.h3 Nd5 22.Bg3 Ncb4
+23.c3 Nxa2+ 24.Kb1 Naxc3+ 25.bxc3 Nxc3+ 26.Kb2 Nd1+ 27.Ka3 Rc1 28.Bc4 Rc8
+29.Bxe6 Ra1+ 30.Kb4 a5+ 31.Kb5 Rb1+ 32.Ka6 Ra8+ 33.Ra7 Rab8 34.Bf7+ Kh7 35.Bf2 Nxf2
+36.Rxb1 Rxb1 37.Be6 Kg6 38.g4 fxg4 39.hxg4 Nxg4 40.Bxg4 a4 41.f5+ Kg5 42.Rxg7+ Kf4
+43.f6 Kxe5 44.f7 Rf1 45.Bh5 Rf2 46.Rg3 Ke6 47.Re3+ Kd6 48.Re8  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "Schwarz, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A28"]
+
+1.c4 e5 2.e3 Nf6 3.Nc3 Nc6 4.Nf3 Be7 5.d4 exd4 6.exd4 d6 7.Bd3 O-O 8.h3 Re8
+9.Be3 Bd7 10.g4 Bf8 11.Qd2 Nb4 12.Bb1 c6 13.a3 Na6 14.Bc2 Nc7 15.O-O-O d5
+16.g5 Nh5 17.cxd5 Nxd5 18.Ne5 g6 19.Kb1 a5 20.Rc1 b5 21.Nxd5 cxd5 22.Bd1 Bf5+
+23.Ka2 b4 24.a4 Rc8 25.Bb3 Qd6 26.Qe2 Rc3 27.bxc3 bxc3 28.Ka1 c2 29.Rxc2 Rxe5
+30.dxe5 Qxe5+ 31.Ka2 Qd6 32.Bc5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Gelbfuhs, Oscar"]
+[Black "Bird, Henry Edward"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C61"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 exd4 5.d3 Bc5 6.O-O Qh4 7.f4 Nf6 8.h3 c6
+9.Bc4 d6 10.Qe1 Qxe1 11.Rxe1 O-O 12.Bb3 b5 13.a4 b4 14.Nd2 a5 15.Nf3 Nd7
+16.g4 Ba6 17.Bd2 Bb6 18.Kg2 Rac8 19.e5 d5 20.f5 Nc5 21.Rad1 Nxb3 22.cxb3 c5
+23.Bf4 Rfe8 24.Kg3 Bc7 25.h4 Bb8 26.g5 Rc6 27.h5 Bc8 28.f6 h6 29.fxg7 hxg5
+30.Bxg5 Kxg7 31.Kh4 Bc7 32.Rg1 Kf8 33.h6 Rg6 34.Bf4 Bf5 35.Rxg6 Bxg6 36.Kg3 Kg8
+37.Kf2 Bd8 38.Rc1 Be7 39.Ke2 Kh7 40.Kd2 Bh5 41.Rf1 Rg8 42.Rf2 Rg4 43.Ne1 Rxf4
+44.Rxf4 Bg5 45.Ng2 Bg4 46.Ke1 Bxf4 47.Nxf4 Be6 48.Nh5 Kxh6 49.Nf6 Kg6 50.Ne8 c4
+51.bxc4 dxc4 52.dxc4 Bxc4 53.Nd6 Bb3 54.Nb7 Bxa4 55.Nxa5 Kf5 56.Nc4 Bb3 57.Nd2 Bd5
+58.Ke2 Kxe5 59.Kd3 f5 60.Nf1 f4 61.Nd2 b3 62.Nf1 Bb7 63.Nh2 Ba6+ 64.Kd2 Ke4
+65.Ng4 f3  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Fleissig, Maximilian"]
+[Black "Schwarz, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C05"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.c3 Nc6 7.f4 cxd4 8.cxd4 Qb6
+9.Nf3 Be7 10.Ng3 Bb4+ 11.Kf2 f6 12.Be3 fxe5 13.fxe5 O-O 14.Ne2 Be7 15.b3 Nd8
+16.Kg3 Nf7 17.Qd3 Nh8 18.h4 Rf5 19.Kf2 Qd8 20.g4 Rf7 21.Kg2 Nf8 22.Ng3 Nhg6
+23.g5 Nf4+ 24.Bxf4 Rxf4 25.Ne2 Ng6 26.Kg3 Rf5 27.Bh3 Rf8 28.Rhf1 Nh8 29.Kh2 Bd7
+30.Rg1 Rc8 31.h5 g6 32.Rg2 Rf7 33.Nh4 Kg7 34.h6+ Kg8 35.Rag1 Qf8 36.Qe3 Rc2
+37.Ng3 Rff2 38.Rf1 Rxg2+ 39.Nxg2 Nf7  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Fleissig, Maximilian"]
+[Black "Gelbfuhs, Oscar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.Bxc6+ bxc6 7.h3 g6 8.Nc3 Bg7
+9.Be3 O-O 10.Qd2 d5 11.Bh6 Qd6 12.g4 Be6 13.O-O d4 14.Ne2 Nd7 15.Ng3 f6 16.Bxg7 Kxg7
+17.Nh4 Qe7 18.Kh2 f5 19.exf5 Qxh4 20.fxe6 Nc5 21.Qa5 Nxe6 22.Qxe5+ Qf6 23.Qxf6+ Rxf6
+24.Rae1 Raf8 25.Re2 R8f7 26.Ne4 Rf3 27.Rfe1 h6 28.Kg2 c5 29.Nd2 R3f6 30.Kg3 Ng5
+31.Rf1 Nf3 32.Nxf3 Rxf3+ 33.Kg2 h5 34.Re5 hxg4 35.hxg4 c4 36.dxc4 d3 37.cxd3 Rxd3
+38.f3 Rfd7 39.Rfe1 Kf6 40.R1e2 Rd2 41.Re6+ Kf7 42.Kf2 Rxb2 43.Rxa6 Rb4 44.Rc2 Re7
+45.Ra3 Kf6 46.Re3 Rd7 47.Re4 Rd3 48.Rce2 Rd6 49.c5 Rxe4 50.cxd6 Rc4 51.dxc7 Rxc7
+52.a4 Kg5 53.Kg3 Rc3 54.Ra2 Rc1 55.a5 Rg1+ 56.Kh2 Rc1 57.a6 Rc8 58.a7 Ra8
+59.Kg3 Kh6 60.Ra5 Kg7 61.Kf4 Kh6 62.Ke4 Kg7 63.Kd5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Fleissig, Maximilian"]
+[Black "Meitner, Philipp"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A00"]
+
+1.d4  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "1"]
+[White "Rosenthal, Samuel"]
+[Black "Anderssen, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 e6 3.g3 b6 4.Bg2 Bb7 5.Nge2 h5 6.h4 f5 7.Nf4 Nf6 8.d3 fxe4
+9.dxe4 Nc6 10.e5 Ng4 11.Nxh5 Ngxe5 12.Nf4 Qe7 13.Nh3 Nf7 14.O-O O-O-O 15.Re1 Qf6
+16.Ne4 Qf5 17.Neg5 Nd4 18.Bxb7+ Kxb7 19.Re4 Nd6 20.Rf4 Qg6 21.Rxd4 cxd4 22.Qf3+ Kb8
+23.Bf4 e5 24.Bxe5 Re8 25.Nf7 Rg8 26.h5 Qe6 27.Nhg5 Qxe5 28.Nxe5 Rxe5 29.Qb3 Rh8
+30.Nf7 Nxf7 31.Qxf7 Rexh5 32.Qe8+ Kc7 33.Qe4 Bc5 34.Rd1 a5 35.Rd3 g5 36.a3 a4
+37.b4 axb3 38.cxb3 Bxa3 39.Qxd4 Rh1+ 40.Kg2 R1h2+ 41.Kf3 Rf8+ 42.Kg4 Rhxf2
+43.b4 Bb2 44.Qxd7+ Kb8 45.Qd6+ Kb7 46.b5 R2f6 47.Qe7+ Kc8 48.Rd7 Be5 49.Ra7 R6f7
+50.Qe6+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Paulsen, Louis"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.Nf3 g6 5.Bc4 Bg7 6.O-O Nc6 7.d3 Nh6 8.Bd2 Qh5
+9.Nd5 Bg4 10.Nf4 Qf5 11.h3 Bxf3 12.Qxf3 O-O-O 13.Bd5 Nd4 14.Qe4 e5 15.c3 Qxe4
+16.dxe4 exf4 17.cxd4 g5 18.h4 Nf5 19.hxg5 Nxd4 20.Rfd1 Rd7 21.Kf1 c6 22.Bc3 cxd5
+23.Bxd4 Bxd4 24.Rxd4 dxe4 25.Rc1+ Kd8 26.Rxe4 Rg8 27.Rc5 Re8 28.Rxe8+ Kxe8
+29.Ke2 Ke7 30.Kf3 Ke6 31.Rb5 a6 32.Rb4 Kf5 33.Rxf4+ Kxg5 34.Rg4+ Kf6 35.Rb4 b5
+36.a4 Rd5 37.axb5 axb5 38.Rf4+ Ke6 39.Re4+ Kd6 40.Ke3 Rh5 41.Rf4 f5 42.Rd4+ Kc6
+43.g3 Rh1 44.Kd2 Rb1 45.Kc2 Re1 46.Rf4 Re5 47.Kc3 Kd5 48.Kd3 Kd6 49.Rh4 Re7
+50.Rh5 Ke5 51.g4 Kf4 52.gxf5 Kg4 53.Rh6 Kxf5 54.Rh5+ Kg4 55.Rxb5 h5 56.f3+ Kxf3
+57.Rxh5 Rd7+ 58.Kc4 Ke4 59.b4 Rc7+ 60.Kb5 Kd4 61.Kb6 Rg7 62.b5 Rg6+ 63.Ka7  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Bird, Henry Edward"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A02"]
+
+1.f4 e6 2.Nf3 c5 3.e3 f5 4.c3 Nf6 5.Na3 Be7 6.Nc2 O-O 7.b3 b6 8.Bb2 Bb7 9.Be2 Na6
+10.O-O Nc7 11.Qe1 Nce8 12.Rd1 Qc7 13.c4 Ng4 14.h3 Nh6 15.d4 Be4 16.Rd2 Bf6
+17.Qf2 Rd8 18.Nce1 Nf7 19.Nd3 h6 20.Qg3 Kh7 21.Nf2 Bxf3 22.Qxf3 g5 23.Rfd1 gxf4
+24.exf4 Rg8 25.dxc5 bxc5 26.Nd3 Bxb2 27.Rxb2 Nf6 28.Nf2 Rg6 29.Qe3 Rdg8 30.Bf3 Rg3
+31.Rbd2 e5 32.Qc3 R8g6 33.Rd3 e4 34.Nxe4 fxe4 35.f5 Rg7 36.Qxf6 exf3 37.Rd6 Rxg2+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Bird, Henry Edward"]
+[Black "Gelbfuhs, Oscar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A02"]
+
+1.f4 f5 2.e4 fxe4 3.d3 exd3 4.Bxd3 Nf6 5.Nf3 e6 6.Ng5 g6 7.h4 Bh6 8.h5 Bxg5
+9.fxg5 Nd5 10.hxg6 Qe7 11.Rxh7 Rxh7 12.gxh7 Qb4+ 13.Kf1 Qh4 14.Bg6+ Ke7 15.Qh5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Bird, Henry Edward"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A03"]
+
+1.f4 d5 2.Nf3 e6 3.e3 Nf6 4.b3 Be7 5.Bb2 O-O 6.Be2 c5 7.O-O Nc6 8.c3 a6 9.Na3 b6
+10.Nc2 Bb7 11.Qe1 Qc7 12.c4 Rad8 13.d3 b5 14.cxb5 axb5 15.Qg3 Qa5 16.a3 c4
+17.b4 Qa4 18.Ncd4 Nxd4 19.Nxd4 Qa6 20.Nf3 Rc8 21.Bd4 Ne8 22.Ne5 Rd8 23.Qh3 f6
+24.Nf3 Bc8 25.Qg3 Nd6 26.Nh4 Qb7 27.Rac1 cxd3 28.Bxd3 Ne4 29.Qe1 Bd7 30.Nf3 Bd6
+31.Qe2 Rb8 32.Bxe4 dxe4 33.Nd2 Bc6 34.Nb3 Bd5 35.Na5 Qd7 36.Bc5 Rfc8 37.Bxd6 Qxd6
+38.Rxc8+ Rxc8 39.Qxb5 Rc3 40.Qe8+ Qf8 41.Qd7 Qf7 42.Qd8+ Qf8 43.Qb6 Rxa3
+44.Rc1 h6 45.h4 Qe8 46.f5 exf5 47.b5 Kh7 48.Nc6 Ra2 49.Nb4 Rd2 50.Nxd5 Rxd5
+51.Qc6 Qe5 52.b6 Rd2 53.Qc7 Qb2 54.b7 f4 55.Kh1 Rxg2 56.Qxf4 Qxc1+ 57.Kxg2 Qb2+
+58.Kg3 Qxb7 59.Qf5+ Kg8 60.Kf4 Qc7+ 61.Kxe4 Qc2+ 62.Kf4 g5+ 63.hxg5 fxg5+
+64.Ke5 Qxf5+ 65.Kxf5 Kf7 66.e4 Ke7  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Bird, Henry Edward"]
+[Black "Schwarz, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Bd6 5.Nc3 Nf6 6.Bg5 Be6 7.Nge2 c6 8.Qd2 h6
+9.Bh4 Nbd7 10.f4 Bg4 11.O-O O-O 12.Ng3 Qc7 13.h3 Bh5 14.Nf5 Bg6 15.Nxd6 Bxd3
+16.Qxd3 Qxd6 17.f5 Rfe8 18.Bg3 Qf8 19.a3 Ne4 20.Nxe4 Rxe4 21.c4 Rae8 22.Rf3 Qe7
+23.cxd5 cxd5 24.Raf1 Re2 25.Qb5 Nf6 26.Be5 Re4 27.Rc3 a6 28.Qb3 b5 29.Rc7 Qd8
+30.Rfc1 Re2 31.Qg3 Kf8 32.b4 Ra2 33.Qb3 Re2 34.Qf3 Rd2 35.R1c6 Ne4 36.Qh5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Bird, Henry Edward"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.Nxe5 Nxe5
+9.dxe5 c6 10.c3 Bc5 11.Nd2 Nxd2 12.Bxd2 Qh4 13.Kh1 O-O 14.f4 Bg4 15.Qe1 Qxe1
+16.Raxe1 Bf5 17.Be3 Bxe3 18.Rxe3 Rad8 19.Rd1 Rd7 20.h3 h5 21.Rd2 Rfd8 22.Bd1 g6
+23.Bf3 c5 24.g4 hxg4 25.hxg4 Be6 26.Kg2 d4 27.cxd4 Rxd4 28.Rxd4 Rxd4 29.Kg3 Rd2
+30.Kh4 Kf8 31.Kg5 Ke7 32.f5 Bxa2 33.Rc3 Bc4 34.Bb7 gxf5 35.gxf5 a5 36.b3 Rd3
+37.f6+ Kd7 38.Rxd3+ Bxd3 39.Bd5 Ke8 40.Bc6+ Kf8 41.Kf4 Bc2 42.Bd5 a4 43.bxa4 bxa4
+44.e6 fxe6 45.Bxe6 Bb3 46.Bf5 a3 47.Bb1 a2 48.Bxa2 Bxa2 49.Ke3 Kf7 50.Kd3 Kxf6  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Blackburne, Joseph Henry"]
+[Black "Anderssen, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C30"]
+
+1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.Nc3 Nf6 5.Bc4 a6 6.d3 Nc6 7.a3 Bg4 8.h3 Bxf3
+9.Qxf3 Nd4 10.Qg3 Qe7 11.Kd1 c6 12.fxe5 dxe5 13.Rf1 Rg8 14.Bg5 O-O-O 15.b4 Ba7
+16.a4 Qxb4 17.Bd2 Qe7 18.Rb1 g5 19.Qf2 Rg6 20.g4 h6 21.Ne2 b5 22.axb5 axb5
+23.Ba2 Rd7 24.Bb4 Qd8 25.Nxd4 Bxd4 26.Qf5 Ne8 27.Ke2 Rf6 28.Qh7 c5 29.Bd2 b4
+30.Rxf6 Qxf6 31.Rf1 Qd6 32.Qg8 Re7 33.Rxf7 Kd8 34.Rf8 Kd7 35.Bc4 Qb6 36.Qd5+ Kc7
+37.Qa8 Kd7 38.Bb3 Nf6 39.Ba4+ Ke6 40.Qc8+ Nd7 41.Bxd7+ Rxd7 42.Qe8+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Blackburne, Joseph Henry"]
+[Black "Bird, Henry Edward"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C25"]
+
+1.e4 e5 2.Nc3 Bc5 3.Nf3 d6 4.Bc4 Bg4 5.d3 c6 6.Ne2 Bxf3 7.gxf3 Ne7 8.Ng3 Nd7
+9.Bg5 f6 10.Bd2 d5 11.Bb3 a5 12.a4 Qb6 13.Qe2 g6 14.f4 Bd4 15.O-O h5 16.Qd1 Nc5
+17.exd5 cxd5 18.Ba2 h4 19.Ne2 Bxb2 20.Rb1 Qe6 21.f3 Ba3 22.d4 Nd7 23.Nc3 Nb6
+24.Nb5 Bd6 25.Re1 Rh5 26.dxe5 fxe5 27.Be3 Ra6 28.Bd4 Nd7 29.fxe5 Bb8 30.Qe2 Rg5+
+31.Kh1 Rc6 32.f4 Rg4 33.Nd6+ Kf8 34.Rxb7 Nf5 35.Nxf5 gxf5 36.Qb5 Rg7 37.Bxd5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Blackburne, Joseph Henry"]
+[Black "Gelbfuhs, Oscar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A90"]
+
+1.d4 f5 2.g3 e6 3.Bg2 Nf6 4.Nh3 d5 5.O-O Bd6 6.c4 c6 7.Nc3 O-O 8.b3 b6 9.Qc2 Na6
+10.a3 Bd7 11.Rd1 Rc8 12.Bb2 Qe8 13.b4 Nb8 14.c5 bxc5 15.bxc5 Bc7 16.Rab1 Qh5
+17.Bc1 e5 18.dxe5 Bxe5 19.Bf4 Bxf4 20.Nxf4 Qh6 21.h4 Na6 22.Na4 Rb8 23.Qd3 Nc7
+24.Nc3 Ne4 25.Rxb8 Rxb8 26.Nxe4 fxe4 27.Bxe4 Rf8 28.Bg2 Ne6 29.Nxe6 Bxe6
+30.e4 Qf6 31.Qd4 Bg4 32.Rd2 dxe4 33.Bxe4 Qxd4 34.Rxd4 Bf3 35.Bd3 Bd5 36.f4 Rb8
+37.Rb4 Rxb4 38.axb4 h6 39.Kf2 Kf7 40.Ke3 Be6 41.Kd4 Kf6 42.b5 cxb5 43.Bxb5 Kf5
+44.Be2 a5 45.Bd1 Bd7 46.Bf3 a4 47.Kc3 Be8 48.c6 Bxc6 49.Bxc6 Kg4 50.Bd7+ Kxg3
+51.h5 Kxf4 52.Be8 Kg5 53.Bg6 Kf6 54.Kb4 Ke5 55.Kxa4 Kd6 56.Kb4 Kd5 57.Kc3 Kc5
+58.Be4 Kd6 59.Kd4 Ke6 60.Bg6 Kd6 61.Bf5 Ke7 62.Ke5 Kf7 63.Be6+ Kf8 64.Kf5 Ke7
+65.Bc4  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Blackburne, Joseph Henry"]
+[Black "Heral, Josef"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B30"]
+
+1.e4 e5 2.Nc3 c5 3.Nf3 Nc6 4.Bc4 Bd6 5.d3 h6 6.O-O b6 7.Ne2 Bb7 8.c3 Na5
+9.Bb3 g5 10.Ng3 Qc7 11.Bc2 Ne7 12.Be3 Rc8 13.Rc1 Ng6 14.Nf5 Ne7 15.Ng7+ Kf8
+16.Nh5 Ng6 17.Bb1 Qd8 18.Ng3 Bb8 19.h3 d5 20.b4 cxb4 21.cxb4 Rxc1 22.Qxc1 Nc6
+23.Nf5 Nce7 24.Ng3 d4 25.Bd2 Qd7 26.a3 g4 27.hxg4 Qxg4 28.Ba2 Nf4 29.Qc4 Rh7
+30.Nh2 Qg6 31.Nf3 Rg7 32.Bxf4 exf4 33.Qxd4 Nc6 34.Qd5 Bc7 35.Nh4 Qg4 36.Ngf5 f3
+37.g3 Qh3 38.Nxg7 Nd8 39.Qf5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Blackburne, Joseph Henry"]
+[Black "Pitschel, Karl"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D10"]
+
+1.d4 d5 2.c4 c6 3.Nc3 Bf5 4.Qb3 Qd7 5.cxd5 Nf6 6.Nf3 e6 7.Ne5 Qc7 8.Bf4 Bd6
+9.Rc1 O-O 10.g4 Nxg4 11.e4 Nxe5 12.Nb5 Bb4+ 13.Kd1 Bg4+ 14.Be2 Bxe2+ 15.Kxe2 Qa5
+16.Nc7 Ng6 17.Bg3 exd5 18.Nxa8 Na6 19.a3 Rxa8 20.axb4 Qb6 21.Rhd1 Nxb4 22.Bd6 a5
+23.Bc5 Qb5+ 24.Kd2 Nf4 25.Ke3 g5 26.Rd2 dxe4 27.Bxb4 Re8 28.Qc4 Qf5 29.d5 axb4
+30.Rg1 Nxd5+ 31.Ke2 e3 32.fxe3 Rxe3+ 33.Kd1 Nc3+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Anderssen, Adolf"]
+[Black "Schwarz, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bd3 Be7 5.Be3 c6 6.Nf3 Qb6 7.Rb1 h6 8.h3 a6 9.O-O Qc7
+10.e5 Nfd7 11.Ne2 c5 12.c3 Nc6 13.Rc1 c4 14.Bb1 b5 15.Nf4 Bb7 16.b3 O-O-O
+17.bxc4 dxc4 18.Qe2 Nb6 19.Nh5 g6 20.Ng3 Nd5 21.a4 Qa5 22.axb5 axb5 23.Bd2 Kd7
+24.Be4 Nb8 25.Ra1 Qb6 26.Rfb1 Na6 27.Nh2 Nac7 28.Qf3 Rdf8 29.Ng4 h5 30.Ne3 Nxe3
+31.Bxb7 Ned5 32.Bxd5 Nxd5 33.Ra4 Qc6 34.Ra7+ Nc7 35.Ne4 Ra8 36.Rxc7+ Kxc7
+37.Qxf7 Qd7 38.d5 exd5 39.Bf4 Kc8 40.Nd6+ Bxd6 41.Qxd5 Ra6 42.exd6 Ra5 43.Be3 Qb7
+44.Qe6+ Kb8 45.d7 Rd8 46.Qb6 Qxb6 47.Bxb6  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Fleissig, Maximilian"]
+[Black "Bird, Henry Edward"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.O-O d6 7.d4 exd4 8.cxd4 Bb6
+9.Re1 Na5 10.Nc3 Bg4 11.e5 d5 12.Bxd5 c6 13.Bb3 Nxb3 14.Qxb3 Bxf3 15.gxf3 Ne7
+16.Be3 O-O 17.Rad1 Nf5 18.Ne2 Qh4 19.Ng3 Qh3 20.Nxf5 Qxf5 21.Bc1 Rfe8 22.Re4 Re6
+23.Rg4 Rg6 24.Rxg6 hxg6 25.f4 Rd8 26.Be3 c5 27.d5 c4 28.Qa4 Qg4+ 29.Kf1 Bxe3
+30.fxe3 Qf3+ 31.Kg1 Qxe3+ 32.Kh1 Qf3+ 33.Kg1 b5 34.Qc2 Rxd5 35.Rxd5 Qxd5
+36.Qc3 Qe4 37.Qd2 Kh7 38.Qf2 g5 39.Qxa7 Qxf4 40.Qd7 b4 41.Qh3+ Kg6 42.e6  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Fleissig, Maximilian"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C61"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 exd4 5.O-O c6 6.Bc4 Ne7 7.c3 d5 8.exd5 Nxd5
+9.cxd4 Nb6 10.d3 Qxd4 11.Re1+ Be7 12.Be3 Qd6 13.Qh5 O-O 14.Bxb6 axb6 15.Nc3 Ra5
+16.Qe2 Bd8 17.Ne4 Qg6 18.d4 Bc7 19.b4 Rh5 20.Ng3 Rh4 21.Rad1 b5 22.Bb3 Bd6
+23.a3 Qh6 24.h3 Bg4 25.f3 Bxg3 26.fxg4 Bxe1 27.Qxe1 Qf6 28.d5 Rh6 29.d6 Rd8
+30.Qe7 Qxe7 31.dxe7 Rxd1+ 32.Kf2 Rf6+ 33.Ke2  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Fleissig, Maximilian"]
+[Black "Heral, Josef"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 c6 5.Nf3 Bg4 6.Be2 Bxf3 7.Bxf3 Nf6 8.O-O g6
+9.Re1 Bg7 10.d5 Qd8 11.Qe2 O-O 12.Qxe7 Qb6 13.Qa3 Nbd7 14.Be3 Qc7 15.dxc6 bxc6
+16.Qa4 Ne5 17.Qf4 Nxf3+ 18.Qxf3 Nh5 19.Bc5 Rfe8 20.Rxe8+ Rxe8 21.g3 Re6 22.Rd1 h6
+23.b4 Nf6 24.Qd3 Re8 25.Ne2 Qe5 26.Nd4 Qd5 27.c4 Qd7 28.Nf3 Qg4 29.Re1 Rxe1+
+30.Nxe1 Nd7 31.f3 Qe6 32.Qe4 Nxc5 33.bxc5 Qxe4 34.fxe4 Bd4+ 35.Kf1 Bxc5  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Fleissig, Maximilian"]
+[Black "Pitschel, Karl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Nf3 Nf6 6.Bd3 O-O 7.O-O Bxc3 8.bxc3 Re8
+9.Bg5 h6 10.Bh4 Nc6 11.h3 g5 12.Bg3 Nh5 13.Ne5 Ng7 14.f4 Rf8 15.fxg5 hxg5
+16.Qd2 Be6 17.h4 Nh5 18.Bh2 f6 19.Nxc6 bxc6 20.hxg5 fxg5 21.Rxf8+ Kxf8 22.Rf1+ Kg8
+23.Bxc7 Qe7 24.Bd6 Qg7 25.Qe3 Qh6 26.Be7 Nf4 27.Bxg5 Qxg5 28.Rxf4 Bf7 29.Qe5 Qxe5
+30.dxe5 Re8 31.Ra4 Re7 32.c4 dxc4 33.Bxc4 Bxc4 34.Rxc4 Rxe5 35.Kf2 Kf7 36.Kf3 Re6
+37.Ra4 Re7 38.Rf4+ Kg6 39.Rc4 Rc7 40.Ke4 Kf6 41.Kd4 Ke6 42.Kc5 Ke5 43.a4 Rc8
+44.a5 Rc7 45.a6 Rc8 46.Rb4 Rg8 47.c4 Rxg2 48.Rb7 Ra2 49.Rxa7 Ra4 50.Ra8 Ke6
+51.a7 Kd7 52.Rh8  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Gelbfuhs, Oscar"]
+[Black "Fleissig, Maximilian"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Bd6 5.Bd3 Nf6 6.O-O O-O 7.h3 c6 8.c4 Be6
+9.c5 Bc7 10.Bg5 Nbd7 11.Nc3 Re8 12.Ne2 Nf8 13.Bf4 Bxf4 14.Nxf4 Ng6 15.Nxe6 Rxe6
+16.Ng5 Re8 17.Qc2 Nh5 18.Bxg6 hxg6 19.Qd2 Nf6 20.Rae1 Ne4 21.Nxe4 Rxe4 22.f3 Rxe1
+23.Rxe1 Qd7 24.Qf4 Re8 25.Rxe8+ Qxe8 26.Kf2 Qd8 27.b4 a5 28.a3 axb4 29.axb4 b6
+30.b5 cxb5 31.c6 Kf8 32.c7 Qd7 33.Qc1 Qc8 34.Qc6 Ke7 35.Qxb6 Kd7 36.Qxb5+ Kxc7
+37.Qxd5 Qf8 38.Qa5+ Kd7 39.Qb5+ Kc7 40.Qa5+ Kd7 41.Ke3 Qd6 42.Qb5+ Kd8 43.Qe5 Qa3+
+44.Kf2 Qb2+ 45.Kg3 Qd2 46.h4 Qd1 47.Kh2 f6 48.Qd6+ Ke8 49.Qe6+ Kf8 50.d5 Qd4
+51.Kg3 Qd2 52.d6 g5 53.hxg5 Qxg5+ 54.Qg4 Qxg4+ 55.Kxg4  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Gelbfuhs, Oscar"]
+[Black "Meitner, Philipp"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Qh4+ 5.Kf1 g5 6.Nc3 Bg7 7.d4 Bg4 8.Nf3 Bxf3
+9.gxf3 Nc6 10.Bxc6+ bxc6 11.Ne2 Ne7 12.h3 O-O 13.Qe1 Qxe1+ 14.Kxe1 Rfd8 15.c3 c5
+16.d5 Ng6 17.Kf2 c6 18.h4 h6 19.hxg5 hxg5 20.Rg1 f6 21.c4 Kf7 22.Rb1 Ne5
+23.b3 Rh8 24.Bb2 Nd3+ 25.Kg2 Nxb2 26.Rxb2 f5 27.Rd2 fxe4 28.fxe4 Rae8 29.dxc6 Rxe4
+30.Rf1 Rc8 31.Ng3 Rd4 32.Rxd4 Bxd4 33.Ne4 Kg6 34.Nd6 Rxc6 35.Nb5 Re6 36.Nxd4 cxd4
+37.c5 Re2+ 38.Rf2 Rxf2+ 39.Kxf2 Kf6 40.b4 Ke6 41.b5 Kd5 42.c6 Kd6 43.a4 a6
+44.Ke2 axb5 45.axb5 g4 46.Kd3 f3  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Gelbfuhs, Oscar"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3 Nc6 5.Nf3 Bb4 6.O-O O-O 7.d4 Bxc3 8.bxc3 Nxe4
+9.Bxf4 d5 10.Bd3 Ne7 11.Ng5 f5 12.Qh5 Nf6 13.Qe2 Ne4 14.Rae1 h6 15.Nf3 Ng6
+16.Ne5 Nxf4 17.Rxf4 Nxc3 18.Qh5 Qg5 19.Qf3 Be6 20.h4 Qd8 21.Bxf5 Bxf5 22.Rxf5 Ne4
+23.Rf7 Qd6 24.Rf1 Nf6 25.Rxf8+ Rxf8 26.Ng6 Re8 27.g4 Re4 28.Qf5 Qg3+ 29.Kh1 Qh3+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Gelbfuhs, Oscar"]
+[Black "Rosenthal, Samuel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Qh4+ 5.Kf1 g5 6.Nc3 Bg7 7.Nf3 Qh5 8.d4 Ne7
+9.h4 h6 10.e5 Nxd5 11.Nxd5 Na6 12.Qe2 c6 13.Nf6+ Bxf6 14.exf6+ Be6 15.d5 cxd5
+16.Qb5+ Kd8 17.Qxb7 Nc7 18.Bd2 Rc8 19.Qb4 Re8 20.Qd6+ Bd7 21.Ne5 Rxe5 22.Qxe5 Ne6
+23.Ba5+ Rc7 24.Qxd5 Ke8 25.Bxc7 Nxc7 26.Qd6 Bb5+ 27.Kg1 Qe2 28.Kh2 Qe3 29.Rhe1 Be2
+30.Rxe2 Qxe2 31.Qxc7  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Gelbfuhs, Oscar"]
+[Black "Schwarz, Adolf"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Bd3 Nf6 4.exd5 exd5 5.Nf3 Bd6 6.O-O O-O 7.h3 c6 8.Bg5 Be6
+9.Nc3 Nbd7 10.Ne2 Qc7 11.Bh4 h6 12.Bg3 Nh5 13.Bxd6 Qxd6 14.Qd2 f5 15.Rae1 Ndf6
+16.Ng3 Ne4 17.Bxe4 fxe4 18.Nxh5 exf3 19.Qe3 Rae8 20.Qe5 Qd7 21.Qg3 Rf5 22.Re5 Qf7
+23.Rxf5 Bxf5 24.Qxf3 Bxc2 25.Qxf7+ Kxf7 26.Ng3 Bg6 27.f3 Re3 28.Rd1 Rd3 29.Rxd3 Bxd3
+30.Kf2 b6 31.b4 Bg6 32.Ke3 Ke6 33.Ne2 Kd6 34.Nc3 a6 35.a3 c5 36.bxc5+ bxc5  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Gelbfuhs, Oscar"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Nc3 Nxc3 10.bxc3 Be7 11.a4 O-O 12.axb5 axb5 13.Rxa8 Qxa8 14.Qd3 Na7 15.Bg5 Qd8
+16.Bxe7 Qxe7 17.Bxd5 Rd8 18.Qe3 Bxd5 19.Qxa7 Bxf3 20.gxf3 Qg5+ 21.Kh1 Qxe5
+22.Qe3 Qf6 23.Re1 h6 24.f4 Rd6 25.Qe8+ Kh7 26.Qe4+ g6 27.Qb4 Qh4 28.Qxb5 Qxf4
+29.Qe2 Rd2 30.Qe3 Qxf2 31.Qxf2 Rxf2 32.Re7 c5 33.Rc7 Rf5 34.Kg2 g5 35.c4 Kg6
+36.Kg3 Re5 37.Kf3 f5 38.Rc6+ Kh5 39.Rd6 f4 40.Rd5 Re3+ 41.Kf2 Rc3 42.Rxc5 Rxc2+
+43.Kf3 Rxh2 44.Rc8 Rc2 45.c5 Rc3+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Heral, Josef"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C00"]
+
+1.d4 e6 2.e4 Ne7 3.Nc3 f5 4.Bd3 fxe4 5.Nxe4 Nf5 6.c3 Be7 7.Ng3 O-O 8.Nxf5 exf5
+9.Nf3 d5 10.h4 Nd7 11.Bf4 Nf6 12.Qc2 Ne4 13.O-O-O c6 14.Be5 b5 15.Kb1 a5
+16.Ng5 h6 17.Nh3 Bd6 18.f3 Bxe5 19.dxe5 Ng3 20.Rhe1 Qxh4 21.Qf2 f4 22.Qc5 Bxh3
+23.gxh3 Rac8 24.e6 Qf6 25.Qa7 Rfe8 26.e7 Nf5 27.Qxa5 Ne3 28.Rd2 Rxe7 29.Qb4 Rcc7
+30.Rde2 Ra7 31.a3 Qh4 32.Qd6 Qf6 33.Qb8+ Kf7 34.Bh7 Qg5 35.Qg8+ Kf6 36.Qf8+ Ke6
+37.h4 Qf6 38.Qc8+ Kd6 39.Qd8+ Red7 40.Qxf6+ gxf6 41.Bg6 Rg7 42.h5 Rae7 43.b3 Re5
+44.Ra2 Rg5 45.a4 bxa4 46.Rxa4 Ke5 47.Ra6 c5 48.Rc6 c4 49.b4 Ra7 50.Bc2 Rg2
+51.b5 Ra5 52.Rb6 Ra3 53.Kb2 Rb3+ 54.Ka1 Rxc2 55.Ra6 Kf5 56.b6 Rcb2 57.Rxe3 fxe3
+58.b7 e2 59.b8=Q e1=R+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Heral, Josef"]
+[Black "Bird, Henry Edward"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Qd4 Qe7 8.Bd3 d5
+9.Kd1 Bxc3 10.Qxc3 O-O 11.f3 dxe4 12.fxe4 Bg4+ 13.Ke1 Nxe4 14.Bxe4 Qxe4+
+15.Kf2 Qe2+ 16.Kg3 Bf5 17.Re1 Qg4+ 18.Kf2 Rae8 19.Bd2 Re6 20.Rxe6 fxe6 21.Kg1 Be4
+22.Qg3 Qe2 23.Bc3 Bg6 24.Re1 Qxc2 25.Rxe6 Qf5 26.Re1 h5 27.h4 Kh7 28.Re7 Qc5+
+29.Qe3 Qxe3+ 30.Rxe3 c5 31.Re7 Rf7 32.Re5 c4 33.Ra5 c6 34.Rc5 Rf4 35.g3 Rf3
+36.Rxc4 Rxg3+ 37.Kf2 Rg4 38.Rxg4 hxg4  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Heral, Josef"]
+[Black "Gelbfuhs, Oscar"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C46"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 g6 4.Bc4 Bg7 5.a3 Nge7 6.d3 O-O 7.h4 d6 8.h5 Be6
+9.hxg6 hxg6 10.Be3 d5 11.exd5 Nxd5 12.Bxd5 Bxd5 13.Qd2 Bxf3 14.gxf3 f6 15.Bh6 g5
+16.O-O-O Kf7 17.Qe3 Qd4 18.Qe4 Qxe4 19.fxe4 Nd4 20.Bxg7 Kxg7 21.Rh3 Rh8 22.Rdh1 c6
+23.Kd2 Rh4 24.Rxh4 gxh4 25.Ne2 Rh8 26.Nxd4 exd4 27.f4 Kg6 28.Ke2 Kh5 29.Kf3 Rg8
+30.e5 f5 31.Kf2 Rg4 32.Kf3 Rg3+ 33.Kf2 Kg4 34.Rg1 Kxf4 35.Rxg3 hxg3+ 36.Kg2 Kxe5
+37.Kxg3 b5 38.Kf3 c5 39.b4 a6 40.Kg3 Ke6 41.Kf4 cxb4 42.axb4 Kf6 43.Kf3 Kg5  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Heral, Josef"]
+[Black "Schwarz, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B30"]
+
+1.e4 c5 2.Nc3 e6 3.Nf3 Nc6 4.Bb5 Nge7 5.d3 a6 6.Ba4 b5 7.Bb3 Bb7 8.Be3 Ng6
+9.a4 Qb6 10.axb5 axb5 11.Rxa8+ Bxa8 12.h3 Be7 13.O-O O-O 14.Nh2 f5 15.f4 Kh8
+16.e5 Qb7 17.Nf3 Nd4 18.Bxd4 cxd4 19.Ne2 Bc5 20.Kh2 d6 21.Rf2 dxe5 22.fxe5 Qc7
+23.Ng3 Nxe5 24.Ng5 Rf6 25.Qh5 g6 26.Qh4 Bd6 27.Nxe6 Qe7 28.Nf4 Qg7 29.Ne6 g5
+30.Qh5 Qe7 31.Kg1 f4 32.Nxg5 Nf3+ 33.gxf3 Rg6 34.Qxg6 Qe1+ 35.Nf1 hxg6 36.Nf7+ Kg7
+37.Nxd6 Bc6 38.Ne4 Bd7 39.Kg2 Bf5 40.Nh2 Qc1 41.Nd6 Bd7 42.Ng4 Qe1 43.Ne4 Bf5
+44.Rf1 Qe2+ 45.Kg1 Kf8 46.Rf2 Qe1+ 47.Kg2 Kg7 48.Ne5 Kh6 49.Bd5 Kh5 50.Ng4 b4
+51.Kh2 Kh4 52.Rg2 Bxe4 53.Bxe4 Kg5 54.Ne5+ Kf6 55.Nxg6 Qc1 56.b3 Qe3 57.Nh4 Ke5
+58.Rg5+ Kf6 59.Rg6+ Ke5 60.Rg8 Qf2+ 61.Ng2 Qxc2 62.Rg5+ Kf6 63.Rf5+ Kg7 64.Bd5 Qxd3
+65.Rf7+ Kh8 66.Nxf4 Qa6 67.Be6 Qa2+ 68.Kg3 Qb1 69.Kh4 Kg8 70.Ra7+ Kf8 71.Kh5 Ke8
+72.Nd5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Heral, Josef"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A10"]
+
+1.c4 e6 2.e3 f5 3.Nf3 Nf6 4.b3 b6 5.Bb2 Bb7 6.Nc3 Nc6 7.Be2 Be7 8.d4 d5 9.Ng5 Qd7
+10.Bh5+ Nxh5 11.Qxh5+ g6 12.Qh6 dxc4 13.Rc1 Nb4 14.O-O Nd3 15.Rc2 cxb3 16.axb3 Nxb2
+17.Rxb2 Qc6 18.d5 Qxc3 19.Nxe6 Qxb2 20.Qf4 Bd6 21.Qc4 Qe5  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Meitner, Philipp"]
+[Black "Bird, Henry Edward"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Qg6 7.Nb5 Bxe3 8.fxe3 Kd8
+9.Nd2 Nf6 10.g3 d6 11.Bg2 Qg5 12.Qe2 Bg4 13.Nf3 Bxf3 14.Bxf3 Re8 15.O-O h5
+16.Nd4 Ne5 17.Nf5 Nxf3+ 18.Rxf3 Nxe4 19.Qb5 Rb8 20.Rd1 Re6 21.Qa5 Kc8 22.Qxa7 Qg4
+23.Rff1 Re5 24.Qa4 b5 25.Qa6+ Kd8 26.Nxd6 cxd6 27.Rxd6+ Ke7 28.Qa7+ Kxd6
+29.Qxb8+ Kd5 30.Qxb5+ Kd6 31.Qb6+ Ke7 32.Qc7+ Ke6 33.Qc6+ Nd6 34.b4 Qe2 35.a4 Qxe3+
+36.Kh1 Qd3 37.Kg1 Qe3+ 38.Kh1 Rd5 39.c4 Rd2 40.Qf3 Qxf3+ 41.Rxf3 Nxc4 42.Rb3 Kd5  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Meitner, Philipp"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd8 4.d4 g6 5.Be3 Bg7 6.Bc4 Nc6 7.Nge2 Nh6 8.Qd2 Nf5
+9.O-O-O a6 10.h3 b5 11.Bd5 Bb7 12.Bxc6+ Bxc6 13.f3 h5 14.Bf4 Nd6 15.Qd3 b4
+16.Ne4 Bb5 17.Nxd6+ cxd6 18.Qe3 Rc8 19.Rhe1 O-O 20.Kb1 Qa5 21.Nc1 Bd7 22.g4 Be6
+23.Bg5 Rc4 24.Re2 Rfc8 25.Bxe7 Qc7 26.Rdd2 Qxe7 27.d5 Qf6 28.Qb3 Bd7 29.Re4 Ba4
+30.Rxc4 Rxc4 31.g5 Qxg5 32.Qxc4 Qxd2  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Meitner, Philipp"]
+[Black "Fleissig, Maximilian"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D40"]
+
+1.c4 e6 2.e3 d5 3.Nf3 c5 4.d4 Nf6 5.Nc3 Nc6 6.a3 a6 7.Bd3 dxc4 8.Bxc4 b5
+9.Be2 Be7 10.b3 Bb7 11.Bb2 O-O 12.O-O Qb6 13.dxc5 Qxc5 14.b4 Qh5 15.Qb3 Bd6
+16.h3 Ne5 17.Ne1 Qh6 18.f4 Ng6 19.Bf3 Bxf3 20.Rxf3 e5 21.Nd5 Nxd5 22.Qxd5 Rad8
+23.fxe5 Bxe5 24.Qb3 Bb8 25.Bd4 Nh4 26.Rf1 Qd6 27.Rf4 Ng6 28.Bc5 Qc7 29.Bxf8 Nxf4
+30.exf4 Kxf8 31.Nd3 Qd7 32.Rd1 Qd4+ 33.Nf2 Qf6 34.Rxd8+ Qxd8 35.Qd3 Qxd3
+36.Nxd3 Ke7 37.Kf2 Kd6 38.Kf3 Kd5 39.f5 Kc4 40.Ke4 Bd6 41.Ne5+ Kb3 42.Nxf7 Be7
+43.g4 h6 44.Ne5 Kxa3 45.Nc6 Bxb4 46.Nxb4 Kxb4 47.h4 Kc5 48.g5 hxg5 49.hxg5 Kd6  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Meitner, Philipp"]
+[Black "Heral, Josef"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B24"]
+
+1.e4 c5 2.Nc3 e6 3.g3 Nc6 4.Bg2 b6 5.Nge2 Bb7 6.d3 h6 7.Be3 Nf6 8.h3 Bd6
+9.Qd2 Rc8 10.Rd1 Bb8 11.d4 cxd4 12.Nxd4 Ne5 13.b3 Qe7 14.f4 Ng6 15.Qd3 Nh5
+16.Nce2 f5 17.O-O O-O 18.e5 Bxg2 19.Kxg2 d6 20.exd6 Qxd6 21.c4 e5 22.fxe5 Nxe5
+23.Qd2 Nxg3 24.Nxg3 Nxc4 25.Qf2 Nxe3+ 26.Qxe3 f4 27.Qe4 fxg3 28.Nf5 Qc5 29.Ne7+ Kh8
+30.Rxf8+ Rxf8 31.Ng6+ Kg8 32.Qe6+ Kh7 33.Nxf8+ Qxf8  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Meitner, Philipp"]
+[Black "Pitschel, Karl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A00"]
+
+1.d4  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Anderssen, Adolf"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.Bxc6+ bxc6 7.h3 g6 8.Nc3 Bg7
+9.Be3 Rb8 10.b3 c5 11.Qd2 h6 12.g4 Ng8 13.O-O-O Ne7 14.Ne2 Nc6 15.Qc3 Nd4
+16.Nfg1 O-O 17.Ng3 Be6 18.N1e2 Qd7 19.Bxd4 cxd4 20.Qb2 a5 21.Kd2 d5 22.f3 Qe7
+23.Rdf1 Qb4+ 24.Kd1 a4 25.Rh2 c5 26.Nc1 c4 27.a3 Qe7 28.b4 c3 29.Qa1 Qg5
+30.Rff2 f5 31.exf5 gxf5 32.h4 Qg6 33.Nxf5 Bxf5 34.gxf5 Rxf5 35.Ne2 Rbf8 36.Qa2 Qf7
+37.Rh3 Kh7 38.Ng1 Bf6 39.Ke2 Rg8 40.Kf1 Be7 41.Ne2 Rh5 42.f4 Bxh4 43.Rff3 e4
+44.dxe4 Qg6 45.Ng3 Bxg3  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Paulsen, Louis"]
+[Black "Fleissig, Maximilian"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.Nd5 Nxd5 6.exd5 Nd4 7.Nxd4 exd4 8.O-O O-O
+9.d3 Qh4 10.Qf3 f5 11.Bc4 d6 12.a3 Ba5 13.Qf4 Qf6 14.b4 Bb6 15.Bd2 h6 16.h4 Kh7
+17.f3 Bd7 18.a4 a6 19.Bb3 Rg8 20.Kf2 g5 21.hxg5 hxg5 22.Qh2+ Kg6 23.f4 g4
+24.Rh1 Rh8 25.Qg3 Rae8 26.Rae1 Rxh1 27.Rxh1 Rh8 28.Rxh8 Qxh8 29.Kg1 Ba7 30.Be1 Qe8
+31.Qh4 Qe3+ 32.Qf2 Qe8 33.a5 b6 34.Kf1 bxa5 35.bxa5 Bc5 36.Bc4 Bc8 37.Qh4 Qe3
+38.Qg5+ Kf7 39.Qh5+ Kg7 40.Qg5+ Kf7 41.Qh6 Qc1 42.Qh7+ Kf8 43.Qh8+ Kf7 44.Qxc8 Bb4
+45.Qxf5+ Ke7 46.Qe6+ Kd8 47.g3 Bd2 48.Qe2 Bxa5 49.Bxa6 Bc3 50.Bb5 Kc8 51.Bc6  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Paulsen, Louis"]
+[Black "Heral, Josef"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B23"]
+
+1.e4 c5 2.Nc3 Nc6 3.Nge2 e6 4.g3 b6 5.Bg2 Bb7 6.O-O Rc8 7.d4 cxd4 8.Nxd4 Bc5
+9.Ndb5 a6 10.Nd6+ Bxd6 11.Qxd6 Qc7 12.Qd1 Nge7 13.Bf4 Ne5 14.Rc1 N7g6 15.Ne2 O-O
+16.Bxe5 Nxe5 17.Nd4 Rfd8 18.f4 Nc4 19.Qe2 Nxb2 20.Kh1 d5 21.e5 Qc3 22.Nb3 Nc4
+23.Rce1 a5 24.Qf2 Ba6 25.Nd4 Qd2 26.Qg1 Qb4 27.f5 Qc5 28.fxe6 fxe6 29.Nxe6 Qxg1+
+30.Kxg1 Rd7 31.Nd4 Re8 32.e6 Rdd8 33.Bh3 Nd2 34.e7 Rd6 35.Be6+ Kh8 36.Bf7  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Paulsen, Louis"]
+[Black "Meitner, Philipp"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C25"]
+
+1.e4 e5 2.Nc3 Nc6 3.g3 Bc5 4.Bg2 d6 5.d3 Be6 6.Nge2 Qd7 7.h3 a6 8.Nd5 Bxd5
+9.exd5 Qf5 10.O-O Nce7 11.d4 exd4 12.Nxd4 Bxd4 13.Qxd4 Nf6 14.Re1 Kf8 15.c4 b6
+16.Bd2 Nd7 17.Bc3 f6 18.f4 h5 19.Kh2 Qg6 20.b4 Rd8 21.Re6 Qc2 22.Rae1 Ng8
+23.R6e4 Nh6 24.R1e2 Qb1 25.Re1 Qc2 26.R4e2 Qg6 27.Be4 Qf7 28.Qd3 f5 29.Bg2 Ng8
+30.h4 Rh7 31.Re6 g6 32.Qd4 Nh6 33.Bf3 Ng8 34.Kg2 Nh6 35.Bd1 Ng8 36.Ba4 Nh6
+37.Bxd7 Rxd7 38.Rf6 Ng4 39.Rxf7+ Rdxf7 40.Re6  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Paulsen, Louis"]
+[Black "Pitschel, Karl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A00"]
+
+1.d4  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Paulsen, Louis"]
+[Black "Rosenthal, Samuel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C26"]
+
+1.e4 e5 2.Nc3 Nc6 3.g3 Bc5 4.Bg2 d6 5.d3 Nf6 6.Nge2 Bg4 7.h3 Bd7 8.Na4 Bb6
+9.Nxb6 axb6 10.f4 exf4 11.Nxf4 Qe7 12.c4 Qe5 13.O-O O-O-O 14.Ne2 Nd4 15.Bf4 Nxe2+
+16.Qxe2 Qh5 17.g4 Qg6 18.a4 h5 19.g5 Nh7 20.Qe3 f6 21.a5 Nxg5 22.Kh2 bxa5
+23.Rxa5 b6 24.Ra7 Bc6 25.c5 bxc5 26.Qxc5 Qe8 27.Qa5 Ne6 28.Rc1 g5 29.Qa6+ Kd7
+30.Rxc6 gxf4 31.Rxd6+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Pitschel, Karl"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Bc4 d5 7.exd5 Bd6 8.d4 Nh5
+9.O-O Qxh4 10.Qe1 Qxe1 11.Rxe1 O-O 12.Bd3 Re8 13.Bd2 f6 14.Nc4 Rxe1+ 15.Bxe1 Bf8
+16.Nc3 c6 17.a3 cxd5 18.Nxd5 Nc6 19.Bc3 Bd7 20.Re1 Re8 21.Rxe8 Bxe8 22.Bf5 Bf7
+23.Bxg4 Bxd5 24.Bxh5 Bxc4 25.Bf3 Bf7 26.Kf2 Kg7 27.a4 Bg6 28.Bd1 Be4 29.b3 Kg6
+30.Ba1 f5 31.c3 Ba3 32.c4 Bc1 33.d5 Be3+ 34.Kf1 Nd4 35.d6 Kf7 36.c5 Bd3+
+37.Ke1 Nc2+ 38.Bxc2 Bxc2 39.b4 Bxa4 40.Ke2 Bb5+ 41.Ke1 h5  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Pitschel, Karl"]
+[Black "Bird, Henry Edward"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C35"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Bh4+ 5.Kf1 d6 6.d4 Bg4 7.Nc3 Nc6 8.Bb5 a6
+9.Bxc6+ bxc6 10.Bxf4 Qf6 11.Ne2 Bxf3 12.gxf3 g5 13.Rg1 gxf4 14.Rg4 h5 15.Rxf4 Qe7
+16.Rf5 Bg5 17.Qd3 Nh6 18.Ra5 Qf6 19.Kg2 Rg8 20.Kh1 Kd7 21.f4 Ng4 22.Rf1 Bh4
+23.Qf3 Qg6 24.e5 dxe5 25.Rxe5 Rae8 26.f5 Qg5 27.Nf4 Nf2+ 28.Qxf2 Bxf2  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Pitschel, Karl"]
+[Black "Gelbfuhs, Oscar"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Bg7 6.d4 Nf6 7.Bc4 d5 8.exd5 O-O
+9.Nc3 c5 10.dxc6 Nxc6 11.Nxc6 bxc6 12.Bxf4 Nh5 13.Be5 Qe7 14.Qe2 Bxe5 15.Qxe5 Qxe5+
+16.dxe5 Ng3 17.Rg1 Re8 18.O-O-O Rxe5 19.Rd8+ Kg7 20.Ba6 Bb7 21.Rxa8 Bxa8
+22.Kd2 f5 23.Re1 Kf6 24.Rxe5 Kxe5 25.Ne2 Nf1+ 26.Kc3 c5 27.g3 Bf3 28.Nf4 Nxg3
+29.Nd3+ Ke4 30.Nxc5+ Ke3 31.Bd3 Ne4+ 32.Bxe4 fxe4  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Pitschel, Karl"]
+[Black "Heral, Josef"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bd3 Bb4 5.Bg5 h6 6.Bxf6 Qxf6 7.Nf3 Nc6 8.O-O Bxc3
+9.bxc3 O-O 10.Rb1 b6 11.c4 Nxd4 12.Nxd4 Qxd4 13.exd5 Qc5 14.Re1 Qd6 15.Qf3 Bb7
+16.Rbd1 Rae8 17.Qe3 e5 18.Qh3 Bc8 19.g4 g5 20.Qf3 Kg7 21.Qe4 f5 22.gxf5 Bxf5
+23.Qg2 Rf6 24.Re2 h5 25.Rde1 Kh6 26.Qg3 h4 27.Qg2 Qb4 28.Rxe5 Qxe1+ 29.Rxe1 Rxe1+
+30.Bf1 Bxc2 31.Qh3 Rf4 32.Qc8 Bd3 33.Qh8+ Kg6 34.Qg8+ Kh5 35.Qh8+ Kg4 36.h3+ Kf3
+37.Qc3 Rxf1+ 38.Kh2 Rxf2+ 39.Kg1 Rf1+ 40.Kh2 Ke4  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Pitschel, Karl"]
+[Black "Schwarz, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C62"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Qxd4 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Bg5 Ne7 8.Nc3 f6
+9.Be3 Ng6 10.Rd1 Be7 11.Qc4 Qd7 12.h3 Ne5 13.Nxe5 fxe5 14.a4 Bf6 15.b4 Qf7
+16.Qd3 O-O 17.Ke2 Kh8 18.b5 Bd7 19.Nd5 Be6 20.Qc3 Bd8 21.Qb4 c6 22.Nc3 Bc4+
+23.Ke1 d5 24.Bc5 Be7 25.Rd2 Bg5 26.Be3 Bxe3 27.fxe3 Qf1+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Rosenthal, Samuel"]
+[Black "Bird, Henry Edward"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3 Bb4 5.e5 d5 6.Bb5+ c6 7.exf6 cxb5 8.Qe2+ Be6
+9.Qxb5+ Nc6 10.fxg7 Rg8 11.Nf3 Qd7 12.d4 a6 13.Qa4 Rxg7 14.O-O Bd6 15.Ne2 Bh3
+16.Ne1 Bxg2 17.Nxg2 Qh3 18.Rf2 f3 19.Ng3 Bxg3 20.hxg3 Rxg3  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Rosenthal, Samuel"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.O-O O-O 7.Nc3 c6 8.Ne2 Be6
+9.Ng3 Nbd7 10.c3 Qc7 11.Nf5 Bxf5 12.Bxf5 Rae8 13.Qc2 Ne4 14.Re1 Ndf6 15.g3 Re7
+16.Bg5 Nxg5 17.Nxg5 g6 18.Bd3 Rfe8 19.Nf3 Kg7 20.Rxe7 Rxe7 21.Re1  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Rosenthal, Samuel"]
+[Black "Fleissig, Maximilian"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C46"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Bc5 4.Nxe5 Nxe5 5.d4 Bxd4 6.Qxd4 Qf6 7.Be3 Ne7 8.Nb5 N7c6
+9.Qc3 Kd8 10.f4 Ng4 11.e5 Qe7 12.Bc5 Qe6 13.Bc4 Qf5 14.O-O f6 15.h3 Nh6 16.Nd4 Qh5
+17.Rad1 fxe5 18.Ne6+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Rosenthal, Samuel"]
+[Black "Heral, Josef"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B24"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 e6 4.Bg2 b6 5.Nge2 Bb7 6.O-O Rc8 7.d3 Bd6 8.f4 Bb8
+9.f5 h5 10.h3 h4 11.g4 Nf6 12.Bg5 Nd4 13.Nf4 Qc7 14.Qd2 Ng8 15.Nfe2 Qh2+
+16.Kf2 exf5 17.Rh1 Qd6 18.gxf5 Rh5 19.Bf4 Qc6 20.Bxb8 Rxb8 21.Nf4 Rg5 22.Ncd5 Qh6
+23.c3 Nxf5 24.Ke1 Ng3 25.Rg1 Kf8 26.Kd1 Bxd5 27.Nxd5 Qh5+ 28.Kc2 Qe2 29.Rae1 Qxd2+
+30.Kxd2 Ne7 31.Nf4 Nc6 32.Bf3 Ne5 33.Bd1 f5 34.exf5 Rxf5 35.Rxe5 Rxf4 36.Ke3 Rf6
+37.Bg4 d6 38.Rd5 Re8+ 39.Kd2 Nf1+ 40.Rxf1 Rxf1 41.Kc2 Rf6 42.Kb3 Re5 43.c4 Ke7
+44.Ka4 Rxd5 45.cxd5 Rf4+ 46.Kb5 Rxg4  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Rosenthal, Samuel"]
+[Black "Meitner, Philipp"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 d5 5.Bxd5 g5 6.Nf3 Qh5 7.h4 h6 8.Kg1 g4
+9.Ne1 Nf6 10.Nc3 c6 11.Bb3 f3 12.d4 f2+ 13.Kxf2 Nxe4+ 14.Nxe4 g3+ 15.Ke3 Qxd1
+16.c3 Qxb3 17.axb3 f5 18.Nf6+ Kf7 19.Nh5 Be6 20.c4 Bd6 21.Nd3 Nd7 22.Kf3 b5
+23.Ndf4 Bxf4 24.Nxf4 Rhe8 25.Kxg3 bxc4 26.Ra6 Nb6 27.Ra5 Bd7 28.bxc4 Nxc4
+29.Rc5 Nd6 30.Kf3 Rg8 31.Nd3 Be6 32.Ne5+ Kf6 33.Bxh6 Bd5+ 34.Kf4 Rxg2 35.Rhc1 Ne4
+36.Bg5+ Nxg5 37.hxg5+ Kg7 38.R5c2 Rb8 39.Rxg2 Bxg2 40.Ra1 Rxb2 41.Rxa7+ Kg8
+42.Kxf5 Rb4 43.Kf6 Rxd4 44.Ra8+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Rosenthal, Samuel"]
+[Black "Pitschel, Karl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A00"]
+
+1.d4  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Schwarz, Adolf"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.exd5 exd5 5.Nf3 Bd6 6.Bd3 O-O 7.O-O Nc6 8.Bg5 Ne7
+9.Bxf6 gxf6 10.Nh4 Ng6 11.Qh5 c6 12.Ne2 f5 13.Nxf5 Bxf5 14.Bxf5 Qf6 15.c3 Qg7
+16.f4 Rae8 17.Rf2 Re3 18.Raf1 Rfe8 19.Bb1 Nf8 20.Ng3 Rxg3 21.hxg3 Be7 22.Re2 c5
+23.Rfe1 Qf6 24.g4 cxd4 25.g5 Qd6 26.cxd4 Qb4 27.Bxh7+ Nxh7 28.g6 Qxd4+ 29.Kh1 fxg6
+30.Qxg6+ Kf8 31.Qxh7 Qf6 32.Re5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Schwarz, Adolf"]
+[Black "Fleissig, Maximilian"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 d6 5.Nc3 Bg4 6.Be3 Bb4 7.h3 Bxc3+ 8.bxc3 Bh5
+9.Qe2 Nge7 10.d4 d5 11.exd5 Nxd5 12.g4 Bg6 13.Bxd5 Qxd5 14.c4 Qe4 15.c3 O-O-O
+16.Rd1 h5 17.Rg1 Rhe8 18.Ng5 Qc2 19.Qxc2 Bxc2 20.Nxf7 Rd7 21.Rd2 Rxf7 22.d5 Be4
+23.dxc6 Bxc6 24.gxh5  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Schwarz, Adolf"]
+[Black "Meitner, Philipp"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.Bc4 Be7 4.Nc3 Nf6 5.d3 Bg4 6.h3 Bh5 7.Be3 Nc6 8.Qe2 a6
+9.g4 Bg6 10.Nh4 Nd4 11.Bxd4 exd4 12.Nxg6 hxg6 13.Nd5 Nxd5 14.exd5 O-O 15.O-O-O b5
+16.Bb3 a5 17.a4 Qd7 18.axb5 Rfe8 19.f4 Qxb5 20.Bc4 Qb6 21.Qd2 Reb8 22.b3 a4
+23.Kb2 Qc5 24.Ra1 c6 25.Qg2 Qb4 26.Rhb1 Qc3+ 27.Kc1 a3 28.Kd1 Bh4 29.Ke2 Re8+
+30.Kf1 Re3 31.dxc6 Rae8 32.Kg1 Rg3 33.Bd5 Re2 34.Qxg3 Bxg3 35.Rd1 Qxc2 36.Rac1  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Schwarz, Adolf"]
+[Black "Paulsen, Louis"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Bg5 exd4 5.Nxd4 Be7 6.Bd3 O-O 7.Nc3 c6 8.O-O h6
+9.Bd2 Nbd7 10.Nf5 Nc5 11.Nxe7+ Qxe7 12.Re1 Nxd3 13.cxd3 Be6 14.f4 Rad8 15.f5 Bc8
+16.Qf3 Kh7 17.Kh1 Nd7 18.d4 Qf6 19.Rad1 Nb6 20.g4 g6 21.e5 dxe5 22.dxe5 Qh4
+23.Ne4 Nd5 24.Rg1 gxf5 25.gxf5 Rg8 26.Nd6 Ne7 27.Bc3 b5 28.Nxc8 Rxc8 29.e6 b4
+30.Be5 f6 31.Bg3 Qc4 32.Rd7 Rg7 33.Rf1 Qxa2 34.Bd6 Re8 35.Bxe7 Rexe7 36.Qxc6 Qxb2
+37.Rxe7 Rxe7 38.Rg1 Qc3 39.Qg2  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Schwarz, Adolf"]
+[Black "Rosenthal, Samuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 d6 5.O-O Nf6 6.Nc3 Ne7 7.Ne2 Ng6 8.Ng3 O-O
+9.Kh1 c6 10.Bb3 h6 11.Bd2 Kh7 12.h3 Bb6 13.Nh5 Be6 14.Nh2 Bxb3 15.axb3 Nxh5
+16.Qxh5 Qh4 17.Qf5 Rae8 18.f4 Re6 19.Nf3 Qe7 20.fxe5 dxe5 21.Qh5 Kg8 22.Rac1 Nf4
+23.Bxf4 exf4 24.Rce1 Be3 25.Nh4 Qg5 26.Qxg5 hxg5 27.Nf5 Bb6 28.e5 f6 29.exf6 Rfxf6
+30.Ne7+ Kf7 31.Rxe6 Kxe6 32.Re1+ Be3 33.Nc8 Kd7  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Schwarz, Adolf"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3 d6 6.Bg5 h6 7.Bh4 g5 8.Bg3 a6
+9.Qd2 Bg4 10.Ne2 Qe7 11.h4 Bxf3 12.gxf3 O-O-O 13.hxg5 hxg5 14.O-O-O Nh5 15.c3 Qf6
+16.d4 Nxg3 17.Rxh8 Nxe2+ 18.Bxe2 Rxh8 19.dxc5 dxc5 20.Rg1 Rg8 21.Kc2 Nd8
+22.Qd5 Qe7 23.Rd1 c6 24.Qb3 b5 25.c4 Ne6 26.Kb1 Nd4 27.Qe3 Rh8 28.Qd2 Rh2
+29.Bf1 b4 30.Qe3 Qf6 31.Rd3 g4 32.fxg4 Rxf2  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Steinitz, William"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bd3 c5 5.exd5 cxd4 6.Bb5+ Bd7 7.Qxd4 Bxb5 8.Nxb5 Nxd5
+9.Ne2 Nc6 10.Qa4 a6 11.Nbd4 Nb6 12.Nxc6 Nxa4 13.Nxd8 Rxd8 14.O-O Be7 15.b3 Bf6
+16.Rb1 Nc3 17.Nxc3 Bxc3 18.Ba3 f6 19.Rfd1 Kf7 20.Kf1 Ba5 21.Bd6 Rd7 22.Rd3 Rc8
+23.b4 Bd8 24.Rb2 e5 25.Bc5 Rxd3 26.cxd3 b6 27.Be3 b5 28.Ke2 Be7 29.Bd2 Ke6
+30.Kd1 Kd5  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Steinitz, William"]
+[Black "Fleissig, Maximilian"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.c3 Nc6 7.f4 Qb6 8.Nf3 Be7
+9.Ng3 Nf8 10.Bd3 Bd7 11.Bc2 O-O-O 12.dxc5 Bxc5 13.Qe2 a5 14.a3 Qa7 15.Rb1 a4
+16.Nh5 g6 17.Nf6 h6 18.Nxd7 Kxd7 19.Qb5 Ra8 20.Bxa4 Qxa4 21.Qxb7+ Ke8 22.b3 Qa6
+23.Qxa6 Rxa6 24.a4 Ba7 25.Bd2 Nd7 26.Ke2 Ke7 27.Ra1 Na5 28.Rhb1 Rb8 29.b4 Nc4
+30.a5 Rb7 31.Kd3 Nb8 32.Bc1 Kd7 33.Nd2 Nxd2 34.Bxd2 Kc6 35.c4 dxc4+ 36.Kxc4 Rb5
+37.Rb3 Nd7 38.Rd3 Bb8 39.Rxd7 Rxb4+ 40.Bxb4 Kxd7 41.Kb5 Ra8 42.a6 Ba7 43.Rd1+ Ke8
+44.Kc6 Be3 45.Ra1 Kd8 46.Ba5+ Kc8 47.Bb6 Bxf4 48.Rd1 Bg5 49.a7 f5 50.Rd7  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Steinitz, William"]
+[Black "Meitner, Philipp"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.c3 Nc6 7.f4 cxd4 8.cxd4 g6
+9.Nf3 Qb6 10.a3 Ndb8 11.Nc3 Bd7 12.b4 a6 13.Be3 Na7 14.Rc1 Be7 15.Bd3 Nb5
+16.Na4 Qd8 17.Qb3 O-O 18.Nc5 Bxc5 19.dxc5 a5 20.a4 Nc7 21.b5 Ne8 22.Nd4 f6
+23.Nf3 f5 24.Nd4 Rf7 25.h4 h5 26.Bf2 Bc8 27.Rh3 Ng7 28.Be2 Nd7 29.Rhc3 Nf8
+30.c6 Ne8 31.b6 Qe7 32.Rc5 Rh7 33.g3 Rg7 34.Be3 bxc6 35.Nxc6 Qd7 36.Bb5 Ba6
+37.Bxa6 Rxa6 38.Nb8 Qb7 39.Nxa6 Qxa6 40.Rc8 d4 41.Bxd4 Re7 42.R8c6 Qb7 43.Bc5 Rd7
+44.Bxf8 Kxf8 45.Qxe6  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Steinitz, William"]
+[Black "Paulsen, Louis"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A41"]
+
+1.c4 d6 2.d4 g6 3.Nc3 Bg7 4.Nf3 f5 5.g3 Nh6 6.h4 Nf7 7.h5 e6 8.e4 Nd7 9.Bg2 a6
+10.Be3 Nf6 11.hxg6 hxg6 12.Rxh8+ Nxh8 13.e5 Ng4 14.Bg5 Qd7 15.Qe2 Nf7 16.Bh4 c5
+17.dxc5 dxe5 18.Ng5 Nxg5 19.Bxg5 Qc7 20.Ne4 Kf8 21.O-O-O Bd7 22.f3 fxe4 23.fxg4 Be8
+24.Qf2+ Kg8 25.Bxe4 Rc8 26.b3 Bf8 27.Qf6 Bg7 28.Qxe6+ Bf7 29.Qxc8+ Qxc8 30.Rd8+ Qxd8
+31.Bxd8 Be6 32.Bxb7 Bxg4 33.Bxa6 e4 34.c6 e3 35.Ba5 Be5 36.Be1 Bf3 37.Bb5 Kf7
+38.c5 Ke7 39.b4 g5 40.Ba4 Kd8 41.b5 Kc8 42.b6 e2 43.Bb5 g4 44.Ba6+ Kb8 45.c7+ Bxc7
+46.bxc7+ Kxc7 47.Bb5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Steinitz, William"]
+[Black "Pitschel, Karl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Nf3 h6 6.Bd3 Nf6 7.O-O O-O 8.Ne2 Nc6
+9.Ng3 Bd6 10.c3 Re8 11.Nh4 Ne4 12.Ngf5 Qf6 13.Qh5 Bf8 14.g3 g5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Steinitz, William"]
+[Black "Rosenthal, Samuel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A20"]
+
+1.c4 e5 2.e3 Nf6 3.a3 d5 4.cxd5 Nxd5 5.Nf3 Bd6 6.Nc3 Nxc3 7.bxc3 O-O 8.d4 exd4
+9.cxd4 c5 10.d5 Nd7 11.Bb2 Nf6 12.Bc4 a6 13.a4 Bf5 14.O-O Rb8 15.a5 h6 16.Nd2 Ng4
+17.h3 Nh2 18.Re1 Bxh3 19.gxh3 Qg5+ 20.Kh1 Qh4 21.Bf1 Nxf1 22.Nxf1 Qxh3+ 23.Kg1 f5
+24.f4 Kh7 25.Re2 g5 26.Rh2 Qg4+ 27.Rg2 Qxd1 28.Rxd1 g4 29.Be5 Rbd8 30.Ng3 Kg6
+31.Rb2 Bxe5 32.fxe5 Rfe8 33.Rb6+ Kg5 34.e6 h5 35.Ne2 h4 36.Nf4 h3 37.Rxb7 Kh4
+38.Rh7+ Kg3 39.Rf1  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Anderssen, Adolf"]
+[Black "Rosenthal, Samuel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O d3 8.Qb3 Qf6
+9.Re1 Nge7 10.Bg5 Qg6 11.Bxe7 Kxe7 12.e5 Kf8 13.Nbd2 Bb6 14.Ne4 Ke8 15.Nf6+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Anderssen, Adolf"]
+[Black "Paulsen, Louis"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C62"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Qxd4 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Bg5 Nf6 8.Nc3 Be7
+9.O-O-O O-O 10.Rhe1 Re8 11.Kb1 Bd7 12.Bxf6 Bxf6 13.e5 Be7 14.Nd5 Bf8 15.exd6 cxd6
+16.Rxe8 Bxe8 17.Nd2 Bc6 18.Ne4 f5 19.Nec3 Qd7 20.a3 Qf7 21.h3 a6 22.g4 Re8
+23.f4 Re6 24.g5 b5 25.h4 Re8 26.Qd3 Rb8 27.h5 a5 28.b4 axb4 29.axb4 Qxh5
+30.Qxf5 Qf7 31.Qd3 Bd7 32.Ne4 Qf5 33.Rh1 Re8 34.Nef6+ gxf6 35.Nxf6+ Kf7 36.Rxh7+ Bg7
+37.Rxg7+ Kxg7 38.Nxe8+ Kf8 39.Qxf5+ Bxf5 40.Nxd6 Bd7 41.Ne4 Kg7 42.Ng3 Kf7
+43.f5 Ke7 44.Kc1 Kd6 45.g6 Be8 46.Kd2 Kd5 47.Kd3 Ke5 48.Ke3 Kd5 49.Kf4 Kc4
+50.Ne4 Kxb4 51.Nd6 Bc6 52.f6 Kc3 53.Nxb5+ Bxb5 54.f7  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Anderssen, Adolf"]
+[Black "Meitner, Philipp"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C62"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Qxd4 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Bg5 Nf6 8.Nc3 Be7
+9.O-O-O O-O 10.Rhe1 Ne8 11.Bxe7 Qxe7 12.Qc4 Qe6 13.Nd5 Bxd5 14.exd5 Qd7 15.h3 Nf6
+16.Rd4 Rfe8 17.Red1 Qf5 18.Qb3 Qc8 19.Nh4 Re4 20.Rxe4 Nxe4 21.Qf3 Nf6 22.Nf5 Qd7
+23.g4 Re8 24.Qf4 Re5 25.Qg5 Ne8 26.f4 Re2 27.Nd4 Re4 28.f5 Qa4 29.Qd8 Qxa2
+30.Ne6 Qa1+ 31.Kd2 Qa5+ 32.Kc1 Qa4 33.b3  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Anderssen, Adolf"]
+[Black "Gelbfuhs, Oscar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6
+9.Nc3 Na5 10.Bd3 Ne7 11.Ne2 O-O 12.Ng3 Nac6 13.d5 Ne5 14.Nxe5 dxe5 15.Kh1 Ng6
+16.Ba3 Re8 17.Bb5 Bd7 18.Bxd7 Qxd7 19.Nf5 Qd8 20.Qg4 Qf6 21.Rad1 h6 22.Rd3 Qg5
+23.Qd1 Qf4 24.Qe2 Qg5 25.Rg3 Qf6 26.Qh5 Nf4 27.Qxh6 Qxh6 28.Nxh6+ Kh7 29.Nxf7 Bd4
+30.Rg4 c5 31.dxc6 bxc6 32.g3 Nd3 33.Kg2 c5 34.f4 Kg8 35.Ng5 Rab8 36.f5 Bb2
+37.f6 gxf6 38.Rxf6 Bxa3  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Fleissig, Maximilian"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Be2 d5 8.Bf3 dxe4
+9.Bxe4 Bd7 10.O-O Bd6 11.Nd2 Ne5 12.N4f3 N7c6 13.Bg5 Qe6 14.Nxe5 Nxe5 15.f4 h6
+16.Bh4 Nd3 17.f5 Qe5 18.Bg3 Qc5+ 19.Kh1 Bxg3 20.Bxd3 Be5 21.Nc4 O-O-O 22.b4 Qd5
+23.Nxe5 Qxe5 24.Qc2 Rhe8 25.a4 Bc6 26.Bb5 Bxb5 27.axb5 Qxb5 28.Qa2 Qe2 29.Qxa7 Rd2
+30.Qa8+ Kd7 31.Qxb7 Re4 32.Rg1 Rh4 33.Raf1 Qe5  0-1
+
+[Event "Vienna playoff-1pl"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "2"]
+[White "Steinitz, William"]
+[Black "Blackburne, Joseph Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A00"]
+
+1.a3 g6 2.d4 Bg7 3.e4 c5 4.dxc5 Qc7 5.Bd3 Qxc5 6.Ne2 Nc6 7.Be3 Qa5+ 8.Nbc3 d6
+9.O-O Bd7 10.b4 Qd8 11.Rb1 b6 12.Nd5 Nf6 13.Nxf6+ Bxf6 14.Bh6 Ne5 15.h3 Rg8
+16.f4 Nc6 17.Qd2 Qc7 18.c4 Nd8 19.Rfc1 Ne6 20.Nc3 Qb7 21.Nd5 Bh8 22.Kh1 Rc8
+23.Qf2 Bc6 24.Qh4 Nd4 25.Bg5 Bxd5 26.cxd5 Kd7 27.Bxe7 Rxc1+ 28.Rxc1 Rc8 29.Rd1 Rc3
+30.Bf6 Qc8 31.Qg4+ Nf5 32.Bb5+ Kc7 33.Bxc3 h5 34.Qf3 Nh4 35.Bxh8 Qxh8 36.Rc1+ Kb7
+37.Qc3 Qd8 38.Qc6+ Kb8 39.Ba6  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Blackburne, Joseph Henry"]
+[Black "Paulsen, Louis"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 Nb6 5.Bb3 exd4 6.Qxd4 Be6 7.Nc3 Ne7 8.Bf4 Ng6
+9.Bg3 Qd7 10.Rd1 Bxb3 11.axb3 f6 12.Qd2 Be7 13.Nd4 O-O 14.Nf5 Rf7 15.Qe2 Re8
+16.Qg4 Bf8 17.O-O Kh8 18.Qh5 Ne5 19.f4 g6 20.Qh3 Nc6 21.Nh6 Rfe7 22.f5 g5
+23.Ng4 Bg7 24.e5 Nxe5 25.Bxe5 Rxe5 26.Nxe5 Rxe5 27.Rde1 Bf8 28.Rxe5 dxe5
+29.Rd1 Bd6 30.Qf3 Qc8 31.Ne4 Be7 32.g4 Qe8 33.Qc3 c6 34.Qd3 Qb8 35.c4 Kg7
+36.h4 h6 37.hxg5 hxg5 38.Kg2 Qe8 39.Rh1 Qg8 40.Qh3 Nd7 41.Nxg5 fxg5 42.Qh6+ Kf7
+43.Qe6+ Kf8 44.Qxd7  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Blackburne, Joseph Henry"]
+[Black "Rosenthal, Samuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Qe7 6.Nxg4 f5 7.Nf2 fxe4 8.Nc3 Nf6
+9.Ng4 Nh5 10.Ne3 Ng3 11.Qg4 Nxh1 12.Qxf4 c6 13.Nf5 Qe6 14.Be2 d5 15.Bg4 Qf6
+16.d4 Bxf5 17.Bxf5 Bd6 18.Qg4 Rf8 19.Qh5+ Qf7 20.Bg4 Qxh5 21.Bxh5+ Kd7 22.Bh6 Na6
+23.Bg4+ Kc7 24.Bxf8 Rxf8 25.Ne2 Ng3 26.Kd2 Nf1+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Blackburne, Joseph Henry"]
+[Black "Schwarz, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.exd5 exd5 5.Nf3 Bd6 6.Bd3 c6 7.O-O O-O 8.Ne2 Bg4
+9.Ng3 Nbd7 10.Bg5 Qc7 11.Qd2 Nh5 12.Nxh5 Bxh5 13.Bf5 Bg6 14.Nh4 Rfe8 15.Rae1 Bxh2+
+16.Kh1 Bd6 17.Re3 Nf8 18.Rfe1 Bf4 19.Bxf4 Qxf4 20.g3 Qh6 21.Bxg6 hxg6 22.f4 Rxe3
+23.Qxe3 Ne6 24.Kg2 Qh5 25.c3 Qg4 26.Nf3 Qf5 27.Qd2 Re8 28.Ng5 f6 29.Nf3 Kf7
+30.Rf1 Nc7 31.Qd1 Re3 32.Qd2 Qd3 33.Qxd3 Rxd3 34.Kf2 c5 35.Ke2 c4 36.Rg1 Nb5
+37.a4 Nxc3+ 38.bxc3 Rxc3 39.Rb1 b6 40.a5 bxa5 41.Ra1 Ke6 42.g4 Rb3 43.Rxa5 Rb7
+44.Ra6+ Kd7 45.g5 Ke7 46.Nh4 Kf7 47.f5 gxf5 48.g6+ Kf8 49.Nxf5 Rc7 50.Rd6 Ke8
+51.Rxd5 Rc6 52.Kd2 Ra6 53.Nxg7+ Ke7 54.Nf5+ Ke6 55.Rd6+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Blackburne, Joseph Henry"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C60"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7 4.d4 exd4 5.Nxd4 Nxd4 6.Qxd4 Nc6 7.Bxc6 bxc6
+8.O-O f6 9.e5 d5 10.exd6 cxd6 11.Re1+ Be7 12.Bf4 Kf8 13.Nc3 d5 14.Re2 Kf7
+15.Rae1 Re8 16.Qd3 g6 17.Qg3 Bf5 18.Bh6 Qb6 19.b3 Qa5 20.Bd2 g5 21.Qf3 Bxc2
+22.Bxg5 Be4 23.Nxe4 dxe4 24.Qxe4 Qxg5 25.Qxh7+ Kf8 26.Rxe7 Rxe7 27.Qxe7+ Kg8
+28.Re3  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Fleissig, Maximilian"]
+[Black "Gelbfuhs, Oscar"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.Nc3 d6 5.Bxc6+ bxc6 6.d4 exd4 7.Nxd4 Bd7 8.f4 Be7
+9.O-O O-O 10.Kh1 Re8 11.e5 Nd5 12.Ne4 f5 13.Ng3 Qc8 14.Qh5 g6 15.Qh3 Bf8
+16.exd6 Bxd6 17.c4 Ne3 18.Bxe3 Rxe3 19.Rae1 Qe8 20.Nc2 Rxe1 21.Nxe1 Bxf4
+22.Rxf4 Qxe1+ 23.Rf1 Re8 24.Qh4 Qe5 25.b3 c5 26.Qg5 Bc6 27.h3 Qe3 28.Qf6 Ba8
+29.Kh2 Qd2 30.Rg1 Re1 31.Nh5 gxh5  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Fleissig, Maximilian"]
+[Black "Meitner, Philipp"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A00"]
+
+1.d4  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Blackburne, Joseph Henry"]
+[Black "Fleissig, Maximilian"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D11"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 b5 4.a4 c6 5.e3 Bd7 6.Ne5 e6 7.axb5 cxb5 8.Qf3  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Fleissig, Maximilian"]
+[Black "Schwarz, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Nce2 c5 6.c3 Qb6 7.f4 Nc6 8.Nf3 Be7
+9.Ng3 f6 10.Bd3 fxe5 11.fxe5 O-O 12.a3 cxd4 13.cxd4 Kh8 14.Bc2 Rf7 15.Qd3 Nf8
+16.O-O Bd7 17.b3 Ng6 18.Be3 Raf8 19.h4 Qa6 20.Qxa6 bxa6 21.Bxg6 hxg6 22.Ne2 Na5
+23.b4 Nc4 24.Bg5 Kg8 25.Bxe7 Rxe7 26.Ng5 Rf5 27.g4 Rxf1+ 28.Rxf1 Ne3 29.Rc1 Nc4
+30.Nf4 Re8 31.Nxg6 Bb5 32.h5 Ba4 33.Kf2 Bd7 34.Rc3 a5 35.bxa5 Rb8 36.Nf4 Rb2+
+37.Kg3 Ra2 38.Rb3 Rxa3 39.Rxa3 Nxa3 40.Nfxe6 a6 41.Nc7 Nc4 42.e6 Bc6 43.e7 Nxa5
+44.e8=Q+ Bxe8 45.Nxe8 Nb3 46.Nf3 a5 47.Nc7 a4 48.Nxd5 a3 49.Nb4 Nc1 50.Kh4 a2
+51.Nxa2 Nxa2 52.Kg5 Nb4 53.Kf5 Nd5 54.Ke6 Nf6 55.Ne5 Kh7 56.d5 Kh6 57.Nf7+ Kh7
+58.d6  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Fleissig, Maximilian"]
+[Black "Steinitz, William"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C60"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7 4.d4 exd4 5.Nxd4 Nxd4 6.Qxd4 Nc6 7.Bxc6 bxc6
+8.O-O d6 9.Nc3 Be6 10.e5 d5 11.f4 c5 12.Qa4+ Bd7 13.Qa6 c6 14.f5 Qc8 15.Qd3 Be7
+16.Bd2 Qb7 17.e6 Bc8 18.Rae1 Bf6 19.Qg3 fxe6 20.Qd6 Be7  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Gelbfuhs, Oscar"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C00"]
+
+1.e4 e6 2.d4 d5 3.Bd3 dxe4 4.Bxe4 Nf6 5.Bd3 Nc6 6.Nf3 Be7 7.c3 O-O 8.O-O b6
+9.Qc2 Bb7 10.Bf4 Bd6 11.Bg5 h6 12.Bh4 Be7 13.Nbd2 Nd5 14.Bg3 Bd6 15.Rae1 Qd7
+16.Ne5 Bxe5 17.dxe5 Kh8 18.f4 Ndb4 19.cxb4 Nxb4 20.Qc3 Nxd3 21.Rd1 Rad8 22.Nf3 Qb5
+23.Nd4 Qxb2 24.Qxb2 Nxb2 25.Rb1 Nc4 26.Nb3 Nd2 27.Nxd2 Rxd2 28.Rf2 Rfd8 29.Rb2 Rd1+
+30.Rf1 c5  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Gelbfuhs, Oscar"]
+[Black "Heral, Josef"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 d6 5.Nc3 Nf6 6.Be3 Bb4 7.O-O Bxc3 8.bxc3 h6
+9.Nd2 g5 10.f3 Nh5 11.d4 Qf6 12.Nb3 Ne7 13.g3 Bh3 14.Rf2 Qg6 15.Bf1 Be6 16.d5 Bd7
+17.Rb1 b6 18.Be2 Rg8 19.c4 Nf4 20.Bxf4 gxf4 21.g4 f5 22.exf5 Bxf5 23.Bd3 Qg5
+24.Kf1 Bxd3+ 25.cxd3 h5 26.Nd2 hxg4 27.Ne4 Qh4 28.fxg4 Kf7 29.g5 Nf5 30.Qf3 Ke7
+31.Re1 Raf8 32.a3 a5 33.Rb1 Ne3+ 34.Ke2 Ng4 35.Nf6 Nxf6 36.gxf6+ Rxf6 37.Rd1 Rfg6
+38.d4 Qg4 39.Qxg4 Rxg4 40.Kf3 Kf6 41.dxe5+ dxe5 42.d6 cxd6 43.Rxd6+ Kf5 44.Re2 R4g6
+45.Rd5 Re6 46.c5 bxc5 47.Rxc5 Rb8 48.Rxa5 Rb3+ 49.Kf2 Rh3 50.Kf1 f3 51.Rb2 Rc6
+52.Rab5 Rc1+ 53.Kf2 Kf4  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Gelbfuhs, Oscar"]
+[Black "Pitschel, Karl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Nf6
+9.Nc3 h6 10.cxd5 Nxd5 11.Bc4 Be6 12.Qb3 Na5 13.Qa4+ c6 14.Bxd5 Bxd5 15.Nxd5 Qxd5
+16.Re1 Nc4 17.Qb4 c5 18.Qxc5 Qxc5 19.dxc5 Kf8 20.b3 Na5 21.Bd2 Nc6 22.b4 Rc8
+23.Rac1 Bf6 24.b5 Nd8 25.Bb4 Kg8 26.Ne5 Kh7 27.Nc4 Bg5 28.Rc2 Kg6 29.g3 Bf6
+30.Nd6 Rb8 31.Ba3 Ne6 32.Rd1 Nd4 33.Rc4 Nf3+ 34.Kg2 Ne5 35.Ra4 Rhd8 36.Bb2 h5
+37.Rxa7 Nc4 38.Bxf6 gxf6 39.Rd4 Nxd6 40.Rxd6 Rxd6 41.cxd6 Kf5 42.d7 Ke6 43.Rxb7 Rd8
+44.a4  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Heral, Josef"]
+[Black "Fleissig, Maximilian"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.Qa4+ Bd7 4.Qxc4 e6 5.Nf3 Nc6 6.e4 Nf6 7.Bd3 Nb4 8.a3 Nxd3+
+9.Qxd3 c5 10.Be3 Qb6 11.Nc3 Qxb2 12.Rb1 Qxa3 13.Rxb7 Bc6 14.Rb1 Nxe4 15.Rc1 Nxc3
+16.Rxc3 Qa1+ 17.Rc1 Qa5+ 18.Bd2 Qb6 19.O-O Be7 20.Rb1 Qd8 21.Ne5 Qd5 22.Nxc6 Qxc6
+23.dxc5 O-O 24.Be3 Rfd8 25.Qc4 Rd5 26.Qb5 Rc8 27.Qxc6 Rxc6 28.Rb7 Kf8 29.Rxa7 Bxc5
+30.Bxc5+ Rdxc5 31.g3 Rc1 32.Rxc1 Rxc1+ 33.Kg2 g6 34.Rb7 Kg7 35.Ra7 Rc2 36.Rb7 g5
+37.Ra7 g4 38.Rb7 Kg6 39.Re7 Re2 40.Re8 Kg7 41.Re7 Ra2 42.Rb7 Kg6 43.Rb8 Kg7
+44.Rb7 h5 45.Re7 h4 46.gxh4 Ra3 47.Rb7 Rh3 48.Ra7 Rxh4 49.Kg3 Rh3+ 50.Kxg4 Rxh2
+51.Kg3 Rh5 52.f4 Rb5 53.Ra4 Kg6 54.Ra3 Kf5 55.Re3 f6 56.Ra3 Rb4 57.Ra5+ Ke4
+58.Ra3 Rd4 59.Ra6 Rd3+ 60.Kf2 Kf5 61.Ra4 Rb3 62.Rc4 Rh3 63.Ra4 Rh4 64.Kg3 Rg4+
+65.Kf3 e5 66.Rc4 Rxf4+ 67.Rxf4+ exf4 68.Kf2 Ke4 69.Ke2 f3+ 70.Kf2 Kf4 71.Kf1 Ke3
+72.Ke1 f2+ 73.Kf1 f5  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Heral, Josef"]
+[Black "Meitner, Philipp"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D53"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Bd3 dxc4 7.Bxc4 Nfd7 8.Bxe7 Qxe7
+9.Nge2 Nb6 10.Bd3 e5 11.O-O Bg4 12.Qc2 Bxe2 13.Nxe2 g6 14.e4 Nc6 15.f4 Rad8
+16.f5 Qg5 17.Rf3 h5 18.Rg3 Qh6 19.Qb3 Kh7 20.d5 Ne7 21.Qc3 f6 22.Qxc7 Rd7
+23.Qc5 gxf5 24.exf5 Rc8 25.Qa3 Nbxd5 26.Rf1 a6 27.Rh3 Rg8 28.Be4 Nc6 29.Qf3 Qd2
+30.Qxh5+ Kg7 31.Qh7+ Kf8 32.Qxd7  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Heral, Josef"]
+[Black "Paulsen, Louis"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E14"]
+
+1.c4 e6 2.e3 d5 3.d4 Nf6 4.Bd3 Be7 5.Nc3 O-O 6.Nf3 b6 7.O-O Bb7 8.cxd5 exd5
+9.Qc2 c5 10.dxc5 bxc5 11.b3 Nc6 12.a3 Rc8 13.Bf5 Rb8 14.Rb1 Qc7 15.Bb2 g6
+16.Bd3 Rfc8 17.Ba1 Qd8 18.Rfd1 Na5 19.Bc4 d4 20.exd4 Bxf3 21.gxf3 cxd4 22.Ne4 Nxc4
+23.bxc4 Rxb1 24.Rxb1 Nxe4 25.fxe4 Bxa3 26.Qd3 Bc5 27.Kh1 Qf6 28.f3 Bb6 29.Rb5 Qf4
+30.Bxd4 Bxd4 31.Qxd4 Qxf3+ 32.Kg1 Qg4+ 33.Kf2 Qf4+ 34.Kg2 Re8 35.Rd5 Qxe4+
+36.Qxe4 Rxe4 37.c5 Rc4 38.Kf3 Kf8 39.Ke3 Ke7 40.Kd3 Rc1 41.Kd2 Rb1 42.Kc3 Rb7
+43.Kc4 Rc7 44.Kb5 f5 45.c6 f4 46.Kc5 h6 47.Rd6 Kf7 48.Rd4 g5 49.Kd6 Rc8 50.Kd7 Rh8
+51.c7 Kf6 52.Rd6+ Kf5 53.Re6 f3 54.Re8 Rh7+ 55.Re7  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Heral, Josef"]
+[Black "Pitschel, Karl"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D50"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Bb4 5.Qb3 Nc6 6.e3 Bxc3+ 7.bxc3 Ne7 8.Bxf6 gxf6
+9.Nf3 O-O 10.Bd3 c6 11.g4 Kh8 12.h4 Rg8 13.g5 Nf5 14.Kd2 dxc4 15.Bxc4 Nd6
+16.Bd3 b6 17.Qc2 f5 18.c4 c5 19.dxc5 bxc5 20.Qb2+ Rg7 21.h5 Nxc4+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Heral, Josef"]
+[Black "Rosenthal, Samuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.d5 Nf6 5.Bg5 Bb4+ 6.Bd2 Bxd2+ 7.Nxd2 O-O 8.Bxc4 c6
+9.Qb3 b5 10.Bd3 cxd5 11.Ne2 dxe4 12.Nxe4 Bb7 13.Nxf6+ Qxf6 14.O-O a6 15.a4 Qc6
+16.Ng3 Qxg2+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Meitner, Philipp"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B41"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Be2 Nf6 6.Qd3 Nc6 7.Nxc6 bxc6 8.O-O d5
+9.exd5 cxd5 10.Bf4 Be7 11.Nd2 O-O 12.h3 Bb7 13.c3 Qd7 14.Bd1 Rfd8 15.Nb3 a5
+16.Re1 Ne4 17.f3 Nf6 18.Be3 Rdc8 19.Bg5 Qc7 20.Qe3 a4 21.Nd4 a3 22.Rb1 axb2
+23.Nxe6 fxe6 24.Qxe6+ Kf8 25.Bf4 Bc5+ 26.Be3 Re8  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Anderssen, Adolf"]
+[Black "Heral, Josef"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Bd6 5.Nf3 Nf6 6.O-O O-O 7.h3 c6 8.c4 dxc4
+9.Bxc4 h6 10.Qd3 Qa5 11.Bxh6 Qh5 12.Bg5 Nh7 13.Qe3 Bf5 14.Bf4 Bxf4 15.Qxf4 Bxb1
+16.Raxb1 Nd7 17.Rbe1 Ndf6 18.Re5 Qh6 19.Qf5 g6 20.Qd3 Kg7 21.Re7 Nh5 22.Ne5 Nf4
+23.Nxf7 Qh4 24.Qe3 Nf6 25.Ng5+ Kh6 26.Nf3  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Meitner, Philipp"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Nf6 5.Nf3 Bd6 6.O-O O-O 7.h3 h6 8.Nc3 Nc6
+9.Be3 Nb4 10.a3 Nxd3 11.Qxd3 Be6 12.Nh2 Qd7 13.g4 Nh7 14.f4 f5 15.Qe2 Rae8
+16.Rae1 g6 17.Qg2 c6 18.Nb1 Kh8 19.Nd2 Qc7 20.Qg3 g5 21.Qg2 gxf4 22.Bf2 fxg4
+23.Nxg4 Rg8 24.Re2 h5 25.Rfe1 Qd7  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Meitner, Philipp"]
+[Black "Schwarz, Adolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Bd3 Nf6 5.Nf3 Bd6 6.O-O O-O 7.Bg5 Bg4 8.Nbd2 Nbd7
+9.c3 Re8 10.Qc2 Nf8 11.Rae1 Ng6 12.Rxe8+ Qxe8 13.Bxf6 gxf6 14.Bf5 Bxf5 15.Qxf5 Qe6
+16.Qxe6 fxe6 17.g3 Kf7 18.Re1 c5 19.Kg2 b5 20.dxc5 Bxc5 21.Nb3 Bb6 22.Nfd4 Bxd4
+23.Nxd4 e5 24.Nxb5 Rb8 25.a4 a6 26.Nc7 Rxb2 27.Nxd5 Ra2 28.Rb1 e4 29.Rb6 Ne5
+30.Rxf6+ Kg7 31.Re6 Ng4 32.Rxe4 Nxf2 33.Re7+ Kf8 34.Kf3 Nh3 35.Ke3 Rxa4 36.Rxh7 Ng5
+37.Ra7 Re4+ 38.Kd3 Re5 39.Nf4 Ra5 40.h4 Nf3 41.h5  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Meitner, Philipp"]
+[Black "Steinitz, William"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.a4 a6 6.a5 Ba7 7.O-O Nf6 8.b5 axb5
+9.Bxb5 Nxe4 10.Qe2 Nd6 11.Bxc6 dxc6 12.Qxe5+ Be6 13.Qxg7 Kd7 14.Bb2 Rg8 15.Ne5+ Kc8
+16.Qh6 Nf5 17.Qf4 Nd4 18.Kh1 Qd5 19.f3 Nxc2 20.Nc3 Qd4 21.Ra4 Qxf4 22.Rxf4 Bc5
+23.Rc1 Nb4 24.Rh4 Bd6 25.Nc4 Bxc4 26.Rxc4  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Paulsen, Louis"]
+[Black "Schwarz, Adolf"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A28"]
+
+1.c4 e5 2.e3 Nf6 3.Nf3 Nc6 4.Nc3 Be7 5.Be2 h6 6.O-O O-O 7.Nd5 d6 8.Nxe7+ Nxe7
+9.b3 Kh8 10.Bb2 Ng6 11.d4 exd4 12.Qxd4 Re8 13.Rad1 Bf5 14.Qc3 Nf4 15.exf4 Rxe2
+16.Nd4 Rxb2 17.Qxb2 Bd7 18.Qe2 d5 19.cxd5 Nxd5 20.Qe5 c6 21.Rd3 f6 22.Qe4 Qc7
+23.f5 Re8 24.Qg4 Qe5 25.Rd2 Nc3 26.Ne6 Bxe6 27.fxe6 Rxe6 28.Rd8+ Kh7 29.Rd7 f5
+30.Qf3 b5 31.Rf7 Ne2+ 32.Kh1 Nd4 33.Qg3 Qxg3 34.fxg3 a6 35.Ra7 c5 36.Rc7 Re2
+37.Ra1 Nc2 38.Rc1 Nb4 39.a3 Nd3 40.Rb1 Ra2 41.Rd7 c4 42.bxc4 bxc4 43.Rc7 Rc2
+44.h3 c3 45.g4 f4  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Pitschel, Karl"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Bc5 4.Nc3 d6 5.h3 Nc6 6.Nf3 Ne7 7.Be3 Bb4 8.O-O Ng6
+9.Ne2 O-O 10.Ng3 d5 11.Bb3 d4 12.Bd2 Bd6 13.Re1 Nd7 14.a3 Nc5 15.Ba2 Ne6
+16.Nf5 Be7 17.Nxe7+ Qxe7 18.Rc1 Nef4 19.Kh2 Kh8 20.g4 Rd8 21.Rg1 a5 22.Kg3 Ra6
+23.h4 Bxg4 24.Rh1 Nh5+ 25.Kxg4 Qd7+ 26.Kg5 f6+ 27.Kxh5 Nf4+ 28.Bxf4 g6+ 29.Kh6 Qg7+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Rosenthal, Samuel"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.f4 d6 8.Na3 Nxd4
+9.cxd4 Bb4+ 10.Kf2 Bxa3 11.bxa3 O-O 12.Rc1 c6 13.Bd3 d5 14.e5 Qh4+ 15.g3 Qh3
+16.Bf1 Qe6 17.Bd3 f5 18.Bd2 b6 19.Bb4 Bb7 20.Qh5 Rf7 21.Rhg1 Ng6 22.Ke3 c5
+23.dxc5 d4+ 24.Kd2 a5 25.c6 Bxc6 26.Bd6 Bd5 27.Rgf1 b5 28.g4 Be4 29.Rc2 Rd8
+30.gxf5 Rxf5 31.Qe2 Bxd3 32.Qxd3 Nxf4 33.Qxb5 Qh6 34.Kd1 d3 35.Qc4+ Kh8 36.Rcf2 Ng2
+37.Qxd3 Ne3+ 38.Ke2 Rxf2+ 39.Rxf2 Ng4 40.Rf3 Qxh2+ 41.Ke1 Nxe5 42.Bxe5 Qxe5+
+43.Qe2 Qxe2+ 44.Kxe2 g6 45.Rf7 Rd5 46.Ra7 Rf5 47.Ke3 h5 48.Rb7 h4 49.Rc7 h3
+50.Ke4 Rh5 51.Rc1 Kg7 52.Kf4 h2 53.Rh1 Kf6 54.Kg3 a4 55.Kg2 Kg5 56.Kg3 Rh4
+57.Kf3 Rh3+ 58.Kg2 Kg4 59.Kf2 Rxa3  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Rosenthal, Samuel"]
+[Black "Gelbfuhs, Oscar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C48"]
+
+1.e4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Re8 7.Nf3 Nxe4 8.d4 Nxc3
+9.bxc3 Bf8 10.Bd3 d5 11.Ng5 g6 12.f4 f5 13.Nf3 Qf6 14.Ne5 Be6 15.Qf3 Nxe5
+16.fxe5 Qf7 17.Be3 c6 18.Qf4 b6 19.Rf3 Be7 20.h4 Qg7 21.Raf1 Rf8 22.Qh2 Kf7
+23.h5 Ke8 24.hxg6 Qxg6 25.Rg3 Qf7 26.Be2 Rg8 27.Bh5 Rg6 28.Bxg6 hxg6 29.Qh6 Kd7
+30.Qxg6 Rf8 31.Qxf7 Rxf7 32.Bf4 c5 33.Rff3 b5 34.Rg8 Kc7 35.Rfg3 Bf8 36.R3g6 Kd7
+37.Bg5 f4 38.Bh6 Bxh6 39.Rxh6 cxd4 40.cxd4 f3 41.gxf3 Rxf3 42.Rg7+ Rf7 43.Rxf7+ Bxf7
+44.Ra6  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Rosenthal, Samuel"]
+[Black "Paulsen, Louis"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 c5 6.dxc5 Bxc5 7.O-O O-O 8.Nc3 Be6
+9.Ne2 Nc6 10.Ng3 Qb6 11.c3 h6 12.Nf5 Bxf5 13.Bxf5 Rfe8 14.b4 Bf8 15.Be3 Qc7
+16.Rc1 Ne5 17.Nxe5 Qxe5 18.Qf3 Ne4 19.Bd4 Qd6 20.Rfe1 Ng5 21.Qg4 Ne6 22.Bxe6 Rxe6
+23.Rxe6 Qxe6 24.Qxe6 fxe6 25.Re1 Kf7 26.f4 Bd6 27.Re3 a5 28.a3 axb4 29.axb4 Ra2
+30.g3 Rd2 31.Re1 Ra2  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Schwarz, Adolf"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nf6 6.O-O Be7 7.Kh1 Nc6 8.c3 O-O
+9.f4 d5 10.e5 Nd7 11.Nd2 Nc5 12.Bc2 f5 13.N2f3 Ne4 14.Be3 Bd7 15.Qe2 Qe8
+16.Ng1 Na5 17.Bd3 b5 18.Nh3 Nc4 19.Bg1 Rc8 20.Rac1 Qg6 21.Rf3 Qh6 22.Be3 Be8
+23.Rff1 Bh5 24.Nf3 Bg4 25.Rc2 Bxh3 26.gxh3 Qxh3 27.Rg1 Nxe3 28.Qxe3 Bc5 29.Qe2 Bxg1
+30.Bxe4 fxe4 31.Nxg1 Qh6 32.Qe3 Rxf4 33.Rg2 Rcf8 34.Qa7 Rf1 35.Qxa6 Qh3 36.Qa7 g6
+37.Qd7 e3 38.Qxb5 Qf5 39.Qe2 Qe4 40.Qa6 Rxg1+  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Schwarz, Adolf"]
+[Black "Gelbfuhs, Oscar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 d6 5.O-O Bg4 6.Be3 Bb6 7.Nbd2 Nf6 8.Re1 O-O
+9.h3 Bh5 10.c3 d5 11.exd5 Nxd5 12.Qc2 Nxe3 13.fxe3 Bg6 14.Kh1 Kh8 15.e4 Bf2
+16.Re2 Bg3 17.Nf1 Bf4 18.Ne3 Bh5 19.g4 Bg6 20.Nd5 Bg5 21.Rh2 Be7 22.Rf1 f6
+23.Nh4 Na5 24.Nxe7 Qxe7 25.Bb3 Nxb3 26.axb3 Rad8 27.Rf3 Qd6  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Schwarz, Adolf"]
+[Black "Heral, Josef"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C15"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd3 c5 5.Bd2 c4 6.Be2 Bxc3 7.bxc3 Nf6 8.Bg5 h6
+9.Bxf6 Qxf6 10.Qd2 Nc6 11.f4 Qg6 12.exd5 exd5 13.Nf3 O-O 14.O-O f5 15.Rfe1 Bd7
+16.Rad1 Rae8 17.Ne5 Nxe5 18.dxe5 Bc6 19.Bf3 Qe6 20.Bxd5 Bxd5 21.Qxd5 Qxd5
+22.Rxd5 Rd8 23.Red1 Rc8 24.Rd7 Rf7 25.Rxf7 Kxf7 26.Rd7+ Kg6 27.Kf2 b5 28.Rxa7  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Schwarz, Adolf"]
+[Black "Pitschel, Karl"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Be3 Nf6 5.Bd3 Bd6 6.Nf3 O-O 7.O-O Re8 8.Nc3 Nc6
+9.Ne2 Ne7 10.Re1 Ng6 11.Ng3 Bg4 12.h3 Bxg3 13.fxg3 Be6 14.Kh2 Ne4 15.Bxe4 dxe4
+16.Ng5 f5 17.Qh5 Qf6 18.Nxh7 Qf7 19.Ng5 Qf6 20.Nh7  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Anderssen, Adolf"]
+[Black "Pitschel, Karl"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 Bg4 6.Bd3 Nf6 7.h3 Bh5 8.c4 Be7
+9.Qb3 b6 10.Nc3 O-O 11.Be3 Bg6 12.Bxg6 hxg6 13.O-O Nbd7 14.Rad1 Re8 15.c5 Nh7
+16.Rfe1 Qc8 17.Nd5 bxc5 18.dxc5 Rb8 19.Qa4 Bf8 20.Qxa7 Rb7 21.Qa4 dxc5 22.Bg5 Nxg5
+23.Nxg5 Bd6 24.Qc4 Nf8 25.Nf6+ gxf6 26.Qxf7+ Kh8 27.Qxf6+ Kg8 28.Qf7+ Kh8
+29.Rxe8 c6 30.Qf6+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Meitner, Philipp"]
+[Black "Gelbfuhs, Oscar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.Nc3 Bc5 5.d3 O-O 6.O-O d6 7.Bxc6 bxc6 8.h3 Be6
+9.Be3 Bb6 10.Nh2 Nd7 11.Bxb6 axb6 12.g4 d5 13.a3 Qh4 14.Qf3 h5 15.Qg2 hxg4
+16.hxg4 dxe4 17.dxe4 g5 18.Ne2 f6 19.Qg3 Kf7 20.Kg2 Rh8 21.Rh1 Rag8 22.Rag1 Nf8
+23.f3 Ng6 24.Nf1 Qxg3+ 25.Nfxg3 Bc4 26.Kf2 Rd8 27.Rxh8 Rxh8 28.Rh1 Ke6 29.Rxh8 Nxh8
+30.Nf5 Ng6 31.Ng7+ Kf7 32.Nf5 Nh4 33.Ne3 Ba6 34.Ng3 Bb7 35.Ngf5 Ng6 36.Nh6+ Ke6
+37.Nhf5 c5 38.Ng7+ Kf7 39.Ngf5 Nf8 40.Nh6+ Ke6 41.Nhf5 Nd7 42.Ng3 Nb8 43.Nh5 b5
+44.Nd5 Bxd5 45.exd5+ Kxd5 46.Nxf6+ Kd4 47.Ke2 b4 48.axb4 cxb4 49.Ne4 Nd7
+50.Nxg5 Nc5 51.Kd2 b3 52.c3+ Kd5 53.Nh7 Na4 54.Kc1 Nc5 55.Kd2 Ke6 56.Ng5+ Kf6
+57.Nh3 Na4 58.Kc1 Nb6 59.Nf2 Kg5 60.Nd3 Nc4 61.Kd1 e4 62.fxe4 Kxg4 63.Ke2 Kg5
+64.Nc5 Kf4 65.Nxb3 Nxb2 66.Nc5 Nc4 67.Kd3 Nd6 68.Kd4 Nb5+ 69.Kc4 c6 70.Kd3 Ke5
+71.Nd7+ Kd6 72.Nb6 Ke5 73.c4 Nd6 74.Nd7+ Ke6 75.Nf8+ Ke5 76.Ng6+ Ke6 77.Kd4  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Anderssen, Adolf"]
+[Black "Fleissig, Maximilian"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.Bxc6+ bxc6 7.Nc3 c5 8.Bd2 Rb8
+9.b3 g6 10.Qc1 h6 11.O-O Bg7 12.Rb1 Nh5 13.Nd5 Be6 14.c4 c6 15.Nc3 f5 16.Na4 f4
+17.Qe1 O-O 18.Ba5 Qe7 19.b4 cxb4 20.Rxb4 g5 21.Kh1 g4 22.Rxb8 Rxb8 23.Ng1 d5
+24.cxd5 cxd5 25.exd5 Bxd5 26.Nc3 Bc6 27.f3 Rb2 28.Ne4 Bxe4 29.Qxe4 Qh4 30.Qc4+ Kh7
+31.Qe4+  1/2-1/2
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Anderssen, Adolf"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C61"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 exd4 5.d3 c6 6.Bc4 Nf6 7.O-O d5 8.exd5 Nxd5
+9.Nd2 Be6 10.Ne4 Be7 11.Qe2 O-O 12.Bd2 Qd7 13.Rae1 Rae8 14.f4 f5 15.Ng3 Bc5
+16.Qf3 Ne3 17.Bxe3 dxe3 18.Qe2 Bxc4 19.dxc4 Rf6 20.Rd1 Rd6 21.Rxd6 Qxd6 22.Nxf5 Qf6
+23.g4 Rd8 24.Re1 Qxb2 25.g5 Qc3 26.Kh1 Qd2 27.Qxd2 exd2 28.Rd1 Bb4 29.Kg2 Re8
+30.c3 Bxc3 31.Kf2 c5  0-1
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Anderssen, Adolf"]
+[Black "Bird, Henry Edward"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C61"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 exd4 5.d3 c6 6.Ba4 Nf6 7.O-O d5 8.exd5 Nxd5
+9.c3 Bd6 10.cxd4 Qh4 11.g3 Qh3 12.Qe2+ Kd8 13.f3 Re8 14.Qf2 Bf5 15.Nc3 Nxc3
+16.bxc3 Bxd3 17.Re1 Rxe1+ 18.Qxe1 Kd7 19.d5 Bc5+ 20.Kh1 b5 21.Bf4 Qh5 22.dxc6+ Kxc6
+23.Bd1 Rd8 24.a4 Qd5 25.axb5+ Bxb5 26.Kg2 g5 27.Bc2 Kb6 28.c4 Qd7 29.Qa5+ Kb7
+30.Be4+ Bc6 31.Qa6+  1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.??.??"]
+[Round "3"]
+[White "Bird, Henry Edward"]
+[Black "Heral, Josef"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C00"]
+
+1.e4 e6 2.Bb5 a6 3.Ba4 b5 4.Bb3 Bb7 5.d3 d5 6.e5 Nd7 7.Nf3 h6 8.c3 Ne7 9.a4 Ng6
+10.d4 c5 11.Bc2 Nh4 12.O-O Nxf3+ 13.Qxf3 Qb6 14.axb5 cxd4 15.bxa6 Rxa6 16.Rxa6 Bxa6
+17.Re1 Bc5 18.Qg3 d3 19.Ba4 g5 20.b4 Be7 21.Be3 Qb7 22.Bd4 Kd8 23.Qf3 Rf8
+24.Nd2 Nb6 25.Bb3 Kc7 26.Ra1 Bb5 27.Ra5 Bc4 28.Bxc4 Nxc4 29.Nxc4 dxc4 30.Ra7 Qxa7
+31.Bxa7 g4 32.Qe3 Kb7 33.Qb6+ Ka8 34.Qa6  1-0

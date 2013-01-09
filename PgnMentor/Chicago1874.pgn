@@ -1,0 +1,634 @@
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Hosmer, Henry"]
+[Black "Congdon, James Adams"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C36"]
+
+1.e4 e5 2.f4 d5 3.exd5 exf4 4.Nf3 Qxd5 5.Nc3 Qd8 6.Bc4 Bd6 7.O-O Ne7 8.Ng5 O-O
+9.Qh5 h6 10.Nxf7 Rxf7 11.Bxf7+ Kh7 12.d4 Nd7 13.Bxf4 Nf6 14.Qd1 Bg4 15.Qd2 Qf8
+16.Bxd6 cxd6 17.Bc4 Rc8 18.Bd3+ Kh8 19.Rf2 d5 20.Raf1 Neg8 21.Nxd5 Qd6 22.Nxf6 Nxf6
+23.Rxf6  1-0
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Judd, Max"]
+[Black "Perrin, F."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.O-O O-O 7.Nc3 Be6 8.Be3 h6
+9.h3 Kh8 10.Qd2 Ng8 11.Ne2 f5 12.Nf4 Bxf4 13.Bxf4 Nc6 14.Ne5 Rf6 15.Nxc6 bxc6
+16.Rae1 Qd7 17.Re2 Rg6 18.Rfe1 Bf7 19.Kh2 Rf6 20.Be5 Rg6 21.g4 Be6 22.Rg1 h5
+23.gxf5 Bxf5 24.Rxg6 Bxg6 25.Bxg6 Nf6 26.Qg5  1-0
+
+[Event "USA-03.Congress+"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Kennicott, Hiram"]
+[Black "Mackenzie, George Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.h3 Bb6 7.O-O Be6 8.Bb5 h6
+9.Be3 g5 10.Nbd2 g4 11.hxg4 Bxg4 12.Bxc6+ bxc6 13.Qa4 Qd7 14.Nh4 Ke7 15.d4 Rag8
+16.f3 Be6 17.Kf2 Nh5 18.Rad1 Ng3 19.Rg1 Kf8 20.dxe5 Qe7 21.Nf5 Bxf5 22.exf5 Bxe3+
+23.Kxe3 Qxe5+ 24.Kd3 Qxf5+ 25.Kc4 Qd5+ 26.Kb4 Qc5+ 27.Kb3 Ne2 28.Ne4 Qb6+
+29.Qb4 Nxg1 30.Qxb6 axb6 31.Rxg1 d5 32.Nf6 Rg6 33.Ng4 Re6 34.c4 d4 35.Kc2 f5
+36.Nh2 c5 37.Nf1 Re1 38.Kd2 Ra1 39.a3 Kf7 40.Rh1 Rg8 41.g3 Re8 42.g4 Ree1
+43.gxf5 Rxf1 44.Rxh6 Rad1+ 45.Ke2 d3+  0-1
+
+[Event "USA-03.Congress+"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Kennicott, Hiram"]
+[Black "Hosmer, Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B21"]
+
+1.e4 c5 2.d4 cxd4 3.Qxd4 Nc6 4.Qd1 e6 5.Bc4 Nf6 6.Qd3 Bc5 7.Nf3 Qb6 8.O-O Ng4
+9.Qe2 O-O 10.h3 Nge5 11.c3 f5 12.b4 Nxf3+ 13.Qxf3 Ne5 14.Qe2 Bd6 15.Bd3 Qc7
+16.Be3 f4 17.Bd2 f3 18.Qe3 fxg2 19.Kxg2 Rf3 20.Qe2 Rxd3 21.Be3 b6 22.f4 Rxe3
+23.Qxe3 Nc4 24.Qe2 Bb7 25.Kg3 Rf8 26.e5 Nxe5 27.fxe5 Bxe5+ 28.Kg4 Bf6 29.Na3 Qxc3
+30.Nb5 h5+  0-1
+
+[Event "USA-03.Congress+"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Elder, Frederic"]
+[Black "Perrin, F."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Qxd4 Bd7 5.Be3 Nc6 6.Qd2 Nf6 7.Nc3 Be7 8.Be2 Bg4
+9.O-O Bxf3 10.Bxf3 Ne5 11.Be2 g5 12.f4 gxf4 13.Bxf4 h5 14.Bg5 Ng8 15.Rf5 Bxg5
+16.Rxg5 Nf6 17.Rf1 Qe7 18.Qf4 Ned7 19.Rf5 O-O-O 20.Rxf6 Nxf6 21.Qxf6 Qxf6
+22.Rxf6 Rh7 23.Bc4 Rf8 24.Ne2 Kd7 25.Nf4 Re8 26.Bxf7 Rxe4 27.Bg6 Re1+ 28.Kf2 Rhe7
+29.Bxh5 Rc1 30.Bg6 Ree1 31.Bd3 c5 32.b3 Red1 33.g4 Rg1 34.h4 Kc6 35.g5 b5
+36.Rf7 Rg4 37.g6 c4 38.bxc4 bxc4 39.Be4+ Kb6 40.h5 Kc5 41.h6 d5 42.h7 dxe4
+43.h8=Q Rxc2+ 44.Ne2  1-0
+
+[Event "USA-03.Congress+"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Elder, Frederic"]
+[Black "Bock, Frederic"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D45"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 Nf6 5.Nf3 Be7 6.Bd3 O-O 7.O-O dxc4 8.Bxc4 Nbd7
+9.e4 Bb4 10.e5 Nd5 11.Ne2 f6 12.Nf4 N7b6 13.Qb3 Ba5 14.Nd3 Qe7 15.Bd2 Bxd2
+16.Nxd2 fxe5 17.Nxe5 Qh4 18.Ndf3 Qh5 19.Rae1 Nf4 20.Re4 Nbd5 21.Ne1 b5 22.Bd3 Bb7
+23.Nd7 Rf7 24.Nc5 Re8 25.Re5 Qg4 26.Ne4 Rf5 27.f3 Qh4 28.Nd6 Rxe5 29.dxe5 Re7
+30.Bb1 Ne2+ 31.Kh1 Ng3+ 32.Kg1 Nxf1 33.Kxf1 Qxh2 34.Qd3 Ba6 35.Ne4 Qxe5 36.Nc5 Ne3+
+37.Ke2 Nf5+ 38.Ne4 Qxb2+ 39.Kf1 Qd4  0-1
+
+[Event "USA-03.Congress+"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Congdon, James Adams"]
+[Black "Elder, Frederic"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 d5 2.Bf4 e6 3.e3 c5 4.Nf3 Nc6 5.Bb5 Bd6 6.Ne5 Ne7 7.c3 O-O 8.Nxc6 bxc6
+9.Bxd6 Qxd6 10.dxc5 Qxc5 11.Bd3 e5 12.Nd2 Rb8 13.Nb3 Qd6 14.Rb1 f5 15.f3 Qh6
+16.Qd2 e4 17.Be2 Qd6 18.Qd4 Rb6 19.Nc5 g5 20.fxe4 fxe4 21.Nxe4 Qg6 22.Nd2 Bf5
+23.e4 dxe4 24.Bc4+ Nd5 25.Bxd5+ cxd5 26.Qxd5+ Be6 27.Qxe4 Bf5 28.Qd5+ Re6+  0-1
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Mackenzie, George Henry"]
+[Black "Perrin, F."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Bd3 Nf6 6.Nf3 O-O 7.O-O Nc6 8.Bg5 Be6
+9.Ne2 h6 10.Bh4 Be7 11.c3 Ne4 12.Bxe7 Qxe7 13.Qc2 Bg4 14.Ne1 Bxe2 15.Bxe2 Rae8
+16.Bb5 Qd6 17.Nd3 Re6 18.f4 f5 19.Bxc6 Qxc6 20.Ne5 Qe8 21.Rf3 Qe7 22.Rd1 c6
+23.c4 Kh7 24.Ra3 a6 25.Rb3 dxc4 26.Qxc4 Rd8 27.Rxb7 Qe8 28.Qb3 Re7 29.Rxe7 Qxe7
+30.Nxc6 Qd7 31.Nxd8 Qxd8 32.Qe6  1-0
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Mackenzie, George Henry"]
+[Black "Judd, Max"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Nc3 b5 7.Bb3 d6 8.d3 O-O
+9.a4 b4 10.Ne2 Be6 11.Bxe6 fxe6 12.Ng5 Qd7 13.f4 h6 14.Nf3 exf4 15.Nxf4 Nh7
+16.c3 Rab8 17.d4 Bf6 18.Qd3 a5 19.Qc4 Nd8 20.Be3 c6 21.Ng6 Re8 22.e5 d5 23.Qa6 Bg5
+24.Nxg5 Nxg5 25.Qxa5 bxc3 26.Qxc3 Ne4 27.Qa3 Nf7 28.a5 Kh7 29.Nf4 g5 30.Nh5 c5
+31.Qd3 Kh8 32.Nf6 Nxf6 33.Rxf6 Rg8 34.Raf1 Rg7 35.dxc5 Rxb2 36.c6 Qe7 37.Bb6 Kg8
+38.c7 Qd7 39.Rxf7 Rxf7 40.Qg6+ Rg7 41.Qxh6 d4 42.Qf6 Qc6 43.Qd8+ Kh7 44.Rf3  1/2-1/2
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Hosmer, Henry"]
+[Black "Mackenzie, George Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Qh4+ 5.Kf1 c6 6.Bc4 Bg4 7.Nf3 Qh5 8.d4 g5
+9.h4 Bg7 10.Kg1 Bxf3 11.gxf3 Nd7 12.hxg5 Qxg5+ 13.Kf1 O-O-O 14.Bxf7 Qf6 15.Bh5 Qxd4
+16.Qxd4 Bxd4 17.c3 Be5 18.Na3 Ngf6 19.Nc4 Bc7 20.Bf7 b5 21.Nd2 Ne5 22.Be6+ Kb7
+23.a4 a6 24.axb5 axb5 25.Rh6 Rhf8 26.Ke2 Rd3 27.Nb3 Rxf3 28.Nc5+ Kb6 29.b4 Bb8
+30.Bf5 Rf7 31.Ra6+ Kc7 32.Ne6+ Kb7 33.Nc5+ Kc7 34.Ra8 Rxc3 35.Bxf4 Rxc5 36.bxc5 Nd7
+37.Bh2 Kb7 38.Rxb8+ Nxb8 39.Bxe5 Nd7 40.Bd4 Nf8 41.Rf6 Rxf6 42.Bxf6 Kc7 43.Ke3 Nd7
+44.Be7 h5 45.Kd4 Kc8 46.e5 b4 47.e6  1-0
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Judd, Max"]
+[Black "Congdon, James Adams"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D20"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O O-O 8.c4 Nf6
+9.Nc3 dxc4 10.Bxc4 Nbd7 11.h3 Nb6 12.Bb3 c6 13.Be3 Nbd5 14.Re1 Re8 15.Qc2 h6
+16.Rad1 Bb4 17.a3 Ba5 18.Ne5 Bc7 19.Bc1 Qd6 20.Ba2 Be6 21.Bb1 Re7 22.g4 Rae8
+23.g5 hxg5 24.Bxg5 g6 25.Nxd5 Bxd5 26.f4 Bb6 27.Kh2 Re6 28.Qf2 Kg7 29.Qh4 Rh8
+30.Qxh8+ Kxh8 31.Nxf7+ Kg7 32.Nxd6 Rxd6 33.Re7+ Kf8 34.Rxb7 c5 35.dxc5 Bxc5
+36.Rb8+ Kf7 37.b4 Be4 38.Ba2+ Ke7 39.Rxd6 Bxd6 40.Rg8 Bxf4+ 41.Bxf4 Nxg8
+42.Bxg8 Bd3 43.a4 a6 44.Bd5 Kf6 45.h4 Kf5 46.Kg3 Bf1 47.Bc6 Bc4 48.b5 axb5
+49.axb5 Bxb5 50.Bxb5  1-0
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Judd, Max"]
+[Black "Bock, Frederic"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Nc3 d6 7.d4 b5 8.Bb3 Bg4
+9.Ne2 exd4 10.Bd5 Nxd5 11.exd5 Bxf3 12.gxf3 Ne5 13.Nxd4 Qd7 14.f4 Qg4+ 15.Qxg4 Nxg4
+16.Nf5 g6 17.Ne3 Nf6 18.Kg2 Kd7 19.b3 Nh5 20.Kf3 Bf6 21.Rb1 Rhe8 22.Bd2 Re7
+23.Ng2 Rae8 24.Rfe1 Bd4 25.Rxe7+ Rxe7 26.Re1 Nf6 27.Rxe7+ Kxe7 28.c4 Nd7
+29.cxb5 axb5 30.Ba5 Kd8 31.Ne1 Nf6 32.Nc2 Bb2 33.Ne3 Kd7 34.Bd2 c6 35.dxc6+ Kxc6
+36.f5 Be5 37.fxg6 hxg6 38.h3 d5 39.Ng4 Nxg4 40.hxg4 Kc5 41.a3 f6 42.Ke3 Bd4+
+43.Ke2 Bb2 44.Bb4+ Kd4 45.Be7 Kc3 46.Bxf6+ Kxb3 47.Bxb2 Kxb2 48.Kd2 Kxa3
+49.f4 b4 50.f5 gxf5 51.gxf5 b3 52.f6 b2 53.f7 b1=Q 54.f8=Q+ Qb4+ 55.Qxb4+ Kxb4
+56.Kd3 Kc5 57.Kc3 d4+ 58.Kd3 Kd5 59.Kd2 Kc4 60.Kc2 d3+ 61.Kd2 Kd4 62.Kd1 Ke3  1/2-1/2
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Bock, Frederic"]
+[Black "Congdon, James Adams"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Bb4 4.Nxe5 Bxc3 5.dxc3 d6 6.Nf3 Nxe4 7.Bd3 Nf6 8.O-O O-O
+9.Bg5 Bg4 10.Be4 Nc6 11.Qd3 h6 12.Bh4 g5 13.Bg3 Nxe4 14.Qxe4 Bxf3 15.gxf3 Re8
+16.Qa4 Re6 17.f4 gxf4 18.Qxf4 Qg5 19.Qxg5+ hxg5 20.f4 gxf4 21.Rxf4 Rae8 22.Raf1 Ne5
+23.Rf5 Rg6 24.Kh1 Rg7 25.Re1 Kh7 26.Bxe5 Rxe5 27.Rexe5 dxe5 28.Rxe5 f6 29.Re3 Rd7
+30.Rf3 Kg6 31.Kg2 Rd2+ 32.Rf2 Rd7 33.c4 c5 34.a4 a5 35.Kf3 b6 36.c3 Rd6 37.Ke4 Re6+
+38.Kd5 Re5+ 39.Kc6 Re6+ 40.Kb5 f5 41.b4 cxb4 42.cxb4 axb4 43.Kxb4 Re5 44.Rd2 f4
+45.Rd6+ Kg5 46.Rd5 Kf5 47.Rxe5+ Kxe5 48.Kc3 Ke4 49.c5 bxc5 50.a5 Ke3 51.a6 f3
+52.a7 f2 53.a8=Q f1=Q 54.Qe8+ Kf2 55.Qf8+ Kg2 56.Qxf1+ Kxf1 57.h4  1-0
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Bock, Frederic"]
+[Black "Mackenzie, George Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C25"]
+
+1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4 Qh4+ 5.Ke2 d5 6.exd5 Bg4+ 7.Nf3 O-O-O 8.dxc6 Bc5
+9.Qd3 Nh6 10.Qb5 Rhe8+ 11.Kd3 bxc6 12.Qa6+ Kb8 13.Nxh4 Rxd4+  0-1
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Bock, Frederic"]
+[Black "Perrin, F."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Be7 6.O-O Bg4 7.h3 Bh5 8.Nc3 Nc6
+9.Be3 Qd7 10.Be2 O-O-O 11.a3 Kb8 12.b4 Ne4 13.Qe1 Bxf3 14.Bxf3 Nxc3 15.Qxc3 a6
+16.Rfb1 Na7 17.a4 c6 18.Be2 Rc8 19.Qb3 Ka8 20.b5 Rb8 21.Qc3 cxb5 22.axb5 Rhc8
+23.Qb3 g5 24.b6 Nc6 25.Bxa6 bxa6 26.Rxa6+ Kb7 27.Ra7+ Nxa7 28.bxa7+ Ka8 29.axb8=Q+  1-0
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Congdon, James Adams"]
+[Black "Perrin, F."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Nc3 O-O 7.Bxc6 dxc6 8.Nxe5 Bc5
+9.Nf3 Bg4 10.d3 Re8 11.Bg5 h6 12.Bh4 Re6 13.h3 Bh5 14.Kh1 g5 15.Bg3 g4 16.hxg4 Bxg4
+17.Bh4 Qd7 18.Qe2 Nh7 19.Nd1 f5 20.Ne3 Rf8 21.Nxg4 fxg4 22.Nd2 Re5 23.f4 gxf3
+24.Rxf3 Rxf3 25.Qxf3 Ng5 26.Qf6 Qg7 27.Qxg7+ Kxg7 28.Rf1 Kg6 29.c3 Re6 30.Rf5 Be7
+31.Nc4 Nxe4 32.Re5 Rxe5 33.Nxe5+ Kf5 34.dxe4+ Kxe5 35.Bxe7 Kxe4 36.Kh2 Kd5
+37.Bf8 h5 38.Kh3 Ke6 39.Kh4 Kf7 40.Ba3 Kg6 41.b4 b6 42.c4 Kh6 43.c5 bxc5
+44.bxc5 Kg6 45.Bb4 Kh6 46.Bd2+ Kg6 47.a4  1-0
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Hosmer, Henry"]
+[Black "Perrin, F."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A03"]
+
+1.f4 d5 2.Nf3 c5 3.e3 Nc6 4.b3 Bg4 5.Bb2 e6 6.Be2 f6 7.c4 Bxf3 8.Bxf3 d4
+9.Bxc6+ bxc6 10.Qf3 Rc8 11.O-O Nh6 12.Qe4 Kf7 13.exd4 cxd4 14.Qxd4 Qc7 15.Qe4 Bd6
+16.d4 f5 17.Qf3 Rhe8 18.Nd2 Bb4 19.Nb1 Ng4 20.a3 Be7 21.Nd2 Nf6 22.Rae1 Bd8
+23.Qd3 Qd6 24.Nf3 Ne4 25.Ne5+ Kg8 26.Re2 Bc7 27.g4 Rcd8 28.Rg2 Re7 29.c5 Qd5
+30.Qa6 Bxe5 31.fxe5 fxg4 32.Qe2 h5 33.Qe3 g5 34.Re1 Rf8 35.Qxe4 Qxe4 36.Rxe4 Rf3
+37.Rg3 Ref7 38.Rxf3 Rxf3 39.b4  1-0
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Hosmer, Henry"]
+[Black "Judd, Max"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bc4 Ne5 8.Be2 d6
+9.f4 N5c6 10.O-O Bd7 11.Kh1 Bb6 12.Na3 O-O 13.Nc4 Nxd4 14.Nxb6 axb6 15.Bxd4 Qe6
+16.f5 Qxe4 17.Bxg7 Kxg7 18.f6+ Kh8 19.Bf3 Qh4 20.fxe7 Qxe7 21.Bxb7 Ra5 22.Bf3 Re5
+23.Qd4 c5 24.Qd2 Rg8 25.Rad1 Rg6 26.Bd5 Be6 27.Bxe6 Qxe6 28.Qf4 Kg7 29.Rd2 Re4
+30.Qf3 Re3 31.Qf4 Re4 32.Qf3 d5 33.Rdf2 f6 34.Qd1 b5 35.Qb3 Qc6 36.Qa3 Re7
+37.Kg1 h5 38.Rf5 d4 39.g3 b4 40.cxb4 c4 41.b5 Qb7 42.Qd6 Re2 43.Qc6 Qe7 44.R5f3 h4
+45.b6 hxg3 46.hxg3 Qe5 47.Qc7+ Kh8 48.Ra3 Rg8 49.Qxe5 fxe5 50.Rf7 Rxb2 51.b7 c3
+52.Ra8 Rxb7 53.Rxg8+ Kxg8 54.Rxb7 d3 55.Kf2 c2 56.Rc7 d2  0-1
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Perrin, F."]
+[Black "Judd, Max"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 Nf6 5.d3 d6 6.h3 h6 7.O-O O-O 8.Be3 Bb6
+9.a4 Be6 10.Bb3 Qd7 11.Kh2 Nd4 12.Bxd4 exd4 13.Ne2 c5 14.Nfg1 Bc7 15.f4 d5
+16.Ng3 dxe4 17.dxe4 g5 18.e5 Nh7 19.Qh5 Bxb3 20.cxb3 Qe6 21.Rae1 f5 22.Qe2 Rae8
+23.Nh5 gxf4 24.Nxf4 Bxe5 25.Kh1 Qf7 26.Qc2 Bxf4 27.Rxe8 Rxe8 28.Rxf4 Rd8
+29.Qd3 Rd5 30.Nf3 Ng5 31.Nd2 Qe6 32.Qg3 Kh7 33.Qd3 Qe3 34.Qf1 Qxd2 35.Rxf5 Rxf5
+36.Qxf5+ Kg7 37.Qxc5 Qf4 38.Qe7+ Nf7 39.Qe2 Ne5 40.Qb5 d3 41.Qxb7+ Nf7 42.Qc6 Qd4
+43.Qf3 d2 44.Qd1 Ng5 45.a5 Qe3  0-1
+
+[Event "USA-03.Congress+"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Hosmer, Henry"]
+[Black "Kennicott, Hiram"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C61"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 exd4 5.O-O c6 6.Bc4 b5 7.Bb3 Bb7 8.d3 Bb4
+9.Qg4 Qf6 10.Nd2 Ne7 11.f4 Qg6 12.Qe2 O-O 13.f5 Qd6 14.e5 Qc7 15.Ne4 d5 16.Ng3 Rae8
+17.Bf4 Qc8 18.Qg4 Ng6 19.Nh5 Re7 20.Nxg7 Kh8 21.Nh5 Rg8 22.Qg5 Re6 23.fxe6 Qxe6
+24.Qf6+ Qxf6 25.Nxf6 Rd8 26.Rf3 Nxf4 27.Rxf4 c5 28.Rh4 Kg7 29.Rxh7+  1-0
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Perrin, F."]
+[Black "Bock, Frederic"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.c3 Nf6 6.e5 d5 7.Bb5 Ne4 8.cxd4 Bb6
+9.O-O O-O 10.Bxc6 bxc6 11.Nc3 f6 12.a4 a5 13.Re1 fxe5 14.Nxe4 dxe4 15.Qb3+ Qd5
+16.Qxd5+ cxd5 17.Nxe5 Bxd4 18.Nf3 exf3 19.g3 Bf5 20.Rd1 Rfe8 21.Bf4 Bxb2
+22.Rab1 Bxb1  0-1
+
+[Event "USA-03.Congress+"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Mackenzie, George Henry"]
+[Black "Kennicott, Hiram"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 Bb4 4.fxe5 Bxc3 5.dxc3 Nxe4 6.Qd5 Ng5 7.h4 Ne6 8.Nf3 c6
+9.Qd6 h6 10.Be3 Qe7 11.Qxe7+ Kxe7 12.O-O-O Re8 13.g4 f6 14.g5 fxe5 15.Nxe5 d5
+16.gxh6 gxh6 17.Bxh6 Rg8 18.Bd3 Nd7 19.Ng6+ Kd6 20.Rhf1 Ne5 21.Nxe5 Kxe5
+22.Rf7 Kd6 23.Bf5 b5 24.Re1 Re8 25.b4 d4 26.cxd4 Bd7 27.Bxe6 Bxe6 28.Rg7 Bxa2
+29.Bf4+ Kd5 30.Be5 a5 31.bxa5 Rxa5 32.Kb2 b4 33.Ra1 Rea8 34.Rc7 Bc4 35.Rd7+ Ke6
+36.Rd6+ Ke7 37.Rxa5 Rxa5 38.Rxc6 Bd5 39.Rb6 b3 40.cxb3 Kd7 41.h5 Bc6 42.h6 Be4
+43.h7 Bxh7 44.Rb7+ Ke6 45.Rxh7 Rb5 46.Kc3 Kd5 47.Rd7+ Kc6 48.Rd6+ Kb7 49.b4 Ka7
+50.Kc4  1-0
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Perrin, F."]
+[Black "Congdon, James Adams"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E14"]
+
+1.d4 d5 2.c4 e6 3.e3 Nf6 4.Nc3 Be7 5.Bd3 O-O 6.Nf3 b6 7.O-O Bb7 8.cxd5 Nxd5
+9.e4 Nb4 10.Bb1 c5 11.a3 N4a6 12.d5 exd5 13.exd5 Nc7 14.Qd3 g6 15.Rd1 Bf6
+16.Ba2 Ne8 17.Bh6 Ng7 18.Rab1 Na6 19.Ne4 Rc8 20.g4 Re8 21.g5 Be5 22.Nxe5 Rxe5
+23.Qc3 Qe7 24.d6  1-0
+
+[Event "USA-03.Congress+"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Elder, Frederic"]
+[Black "Congdon, James Adams"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E14"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.e3 c5 5.Nf3 b6 6.Bd3 Bb7 7.cxd5 cxd4 8.exd4 Nxd5
+9.O-O Be7 10.Qe2 Nd7 11.Nxd5 Bxd5 12.Bf4 O-O 13.Rfc1 Rc8 14.Rxc8 Qxc8 15.Rc1 Qd8
+16.Ba6 Bxf3 17.Qxf3 Nf6 18.Be5 Nd5 19.Bd3 Bd6 20.Qe4 g6 21.a3 f6 22.Bg3 Qe7
+23.Rc6 Rd8 24.Bc4 f5 25.Bxd6 Rxd6 26.Rc8+ Kf7 27.Qe5 g5 28.Bb3 Kg6 29.Rg8+ Kh6
+30.Bxd5 Rxd5 31.Qe3  1-0
+
+[Event "USA-03.Congress+"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Bock, Frederic"]
+[Black "Elder, Frederic"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Bd6 5.Bd3 Nf6 6.O-O O-O 7.Nc3 h6 8.Be3 Nc6
+9.Qd2 Ne7 10.Rae1 Bf5 11.Nh4 Bxd3 12.Qxd3 Qd7 13.h3 c6 14.f4 Rae8 15.Bd2 Bc7
+16.Re2 Nc8 17.Rfe1 Nd6 18.Nf3 a5 19.Ne5 Qf5 20.Nd1 Qxd3 21.Nxd3 Rxe2 22.Rxe2 Nde4
+23.N1f2 Nxd2 24.Rxd2 Nh5 25.f5 Ng3 26.f6 g5 27.Ng4 Ne4 28.Re2 h5 29.Nge5 Nxf6
+30.Nc5 Bb6 31.Ned3 Re8 32.Rxe8+ Nxe8 33.c3 Nd6 34.Nd7 Bd8 35.Kf2 Kg7 36.Kf3 f5
+37.N3c5 Kh6 38.g4 fxg4+ 39.hxg4 h4 40.Ne5 Be7 41.Nb3 Bd8 42.Nc5 Kh7 43.Ke3 Bf6
+44.Ned3 Kg7 45.Kf3 Kf7 46.Ke3 Nc4+ 47.Ke2 b6 48.Na4 b5 49.Nac5 b4 50.Na4 bxc3
+51.bxc3 Ke7 52.Nab2 Nxb2 53.Nxb2 Kd6 54.a4 c5 55.Ke3 cxd4+ 56.cxd4 Kc6 57.Nd1  1/2-1/2
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Bock, Frederic"]
+[Black "Judd, Max"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bd3 Bd6 6.O-O O-O 7.Nc3 c6 8.Bg5 h6
+9.Bh4 Bg4 10.h3 Bxf3 11.Qxf3 Nbd7 12.Bf5 Qc7 13.Nd1 Rfe8 14.Ne3 Ne4 15.Ng4 Ng5
+16.Nxh6+ gxh6 17.Qh5 Bf4 18.Kh1 Nf6 19.Qd1 Ngh7 20.g3 Bg5 21.f4 Bxh4 22.gxh4 Kh8
+23.Bxh7 Kxh7 24.Qd3+ Ne4 25.Rf3 f5 26.Raf1 Rg8 27.c3 Qg7 28.Qc2 Ng3+ 29.Rxg3 Qxg3
+30.Qxf5+ Qg6  0-1
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Congdon, James Adams"]
+[Black "Bock, Frederic"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Nf3 Nf6 6.Be2 h6 7.O-O O-O 8.h3 Nc6
+9.Bd3 Be6 10.Ne2 Qd7 11.Nf4 Bd6 12.c3 Rae8 13.Bc2 Bf5 14.Nh2 Bxc2 15.Qxc2 Re4
+16.Ne2 Nh5 17.Be3 f5 18.Rae1 Rfe8 19.Nc1 Bf4 20.Nd3 Qd6 21.Nf3 Bxe3 22.Rxe3 Rxe3
+23.fxe3 Rxe3 24.Nfe5 Ng3 25.Rf3 Rxf3 26.Nxf3 Ne4 27.Nfe5 Nxe5 28.Nxe5 c5
+29.Qa4 cxd4 30.Qe8+ Kh7 31.cxd4 Qb6 32.Kh2  1/2-1/2
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Congdon, James Adams"]
+[Black "Hosmer, Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.Bxc6 dxc6 7.Re1 Nc5 8.Nxe5 Be7
+9.d4 Ne6 10.c3 O-O 11.Qg4 c5 12.Bh6 Bf6 13.Nd2 Nxd4 14.Qg3 Nf5  0-1
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Congdon, James Adams"]
+[Black "Judd, Max"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.Bxc6 dxc6 7.Re1 Nc5 8.Nxe5 Be7
+9.Nc3 O-O 10.d3 Re8 11.h3 Be6 12.Be3 Nd7 13.Nf3 c5 14.b3 Bf6 15.Qd2 b6 16.Rad1 h6
+17.Ne4 Be7 18.Ng3 Nf6 19.Bxh6 gxh6 20.Qxh6 Bf8 21.Qg5+ Bg7 22.Nf5 Bxf5 23.Rxe8+ Nxe8
+24.Qxf5 Nd6 25.Qg4 Qf6 26.Re1 Qf5 27.Qg3 Qg6 28.Qxg6 fxg6 29.Re6 Kh7 30.Re7 Rc8
+31.g4 Kh8 32.Nh4 g5 33.Nf3 Bf6 34.Re2 Re8 35.Kf1 Rxe2 36.Kxe2 Nb5 37.a4 Nd4+
+38.Nxd4 Bxd4 39.Kf3 Kg7 40.Kg3 Be5+ 41.Kf3 Kf6 42.Ke4 c6 43.c4 Bh2 44.d4 cxd4
+45.Kxd4 Bg1 46.Ke3 Ke5 47.Kf3 Bh2 48.Ke3 a5 49.Kf3 Bf4 50.Kg2 Ke4  0-1
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Judd, Max"]
+[Black "Hosmer, Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 d6 6.h3 O-O 7.Nc3 Ne7 8.Ne2 Ng6
+9.c3 Bb6 10.Ng3 d5 11.Bb3 Be6 12.Re1 Re8 13.Qc2 h6 14.Bd2 Qd7 15.exd5 Bxh3
+16.d4 e4 17.Nxe4 Bxg2 18.Nxf6+ gxf6 19.Nh2 Bxd5 20.c4 Qh3 21.f3 Bxd4+  0-1
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Judd, Max"]
+[Black "Mackenzie, George Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.c3 d6 6.d3 Bb6 7.Bg5 h6 8.Bh4 g5
+9.Bg3 h5 10.Nxg5 h4 11.Nxf7 Qe7 12.Nxh8 hxg3 13.Nf7 gxf2+ 14.Kh1 Bg4 15.Qd2 Na5
+16.Nh6 Nxc4 17.dxc4 Nxe4 18.Qd3 Qg5 19.Qxe4 Bd7 20.Qh7 O-O-O 21.Nf7 Qe7 22.Nd2 Rf8
+23.Nxd6+ Qxd6 24.Ne4 Qd3 25.Qg7 Rd8 26.Nxf2 Qc2 27.Rac1 Qf5 28.Rcd1 Bxf2
+29.Rd2 Be6 30.Rxd8+ Kxd8 31.Rd1+ Ke8 32.Qh8+ Kf7 33.Qd8 Bb6 34.c5 Bxc5 35.Qxc7+ Be7
+36.Qxb7 e4 37.Qxa7 Qf4 38.Re1 Bc4 39.b4 Bd3 40.a4 Qd2 41.Qg1 Bf6 42.h3 Bxc3
+43.Rd1 Qe2 44.b5 e3 45.b6 Be4 46.Rd7+ Ke6 47.Rd8 Ke7 48.Rc8 Bxg2+ 49.Qxg2 Qd1+
+50.Qg1 e2 51.Rxc3 Qxg1+  0-1
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Mackenzie, George Henry"]
+[Black "Bock, Frederic"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d4 exd4 6.O-O Be7 7.e5 Ne4 8.c3 d3
+9.Be3 O-O 10.Qxd3 d5 11.Nbd2 f5 12.Rad1 Be6 13.Bc2 Qe8 14.Nb3 Qg6 15.Nbd4 Nxd4
+16.Nxd4 f4 17.Bc1 Rad8 18.f3 Bf5 19.Nxf5 Rxf5 20.fxe4 Rg5 21.Qf3 Bc5+ 22.Kh1 Rg3
+23.Qxf4 Rxg2 24.Bb3 c6 25.Qf7+ Kh8 26.Qxg6 Rxg6 27.exd5  1-0
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Mackenzie, George Henry"]
+[Black "Hosmer, Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Be3 Be7 10.Nbd2 Nc5 11.Qe2 d4 12.Bf4 Nxb3 13.axb3 Nb4 14.c3 Nc2 15.Rxa6 d3
+16.Rxa8 dxe2 17.Rxd8+ Kxd8 18.Rc1 Bf5 19.g4 Bd3 20.Kg2 g5 21.Be3 c5 22.Ne1 Nxe1+
+23.Rxe1 h5 24.h3 hxg4 25.hxg4 f6 26.Nf3 fxe5 27.Nxe5 Be4+ 28.f3 Bd5 29.Rxe2 Rf8
+30.Rd2  1-0
+
+[Event "USA-03.Congress+"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Perrin, F."]
+[Black "Elder, Frederic"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B21"]
+
+1.f4 c5 2.e4 Nc6 3.Nf3 e6 4.c4 Nge7 5.d4 cxd4 6.Nxd4 Ng6 7.Nf3 Be7 8.Nc3 a6
+9.Be2 O-O 10.Be3 Rb8 11.O-O d6 12.a3 Bf6 13.Qc2 Qc7 14.Rad1 Rd8 15.Na4 b5
+16.cxb5 axb5 17.Nc3 Na5 18.Rd2 b4 19.axb4 Rxb4 20.Nd5 Qxc2 21.Nxf6+ gxf6
+22.Rxc2 Nb3 23.Rc4 Rxc4 24.Bxc4 Nc5 25.e5 fxe5 26.fxe5 Ba6 27.Bxa6 Nxa6 28.Rd1 d5
+29.Rd2 Nb4 30.Bc5 Nc6 31.Re2 Rb8 32.Kf1 Rb3 33.Nd4 Nxd4 34.Bxd4 Nf4 35.Rd2 Kg7
+36.Bc3 Kg6 37.Kf2 Nh5 38.Kf3 Ng7 39.g4 Ne8 40.h4 Nc7 41.h5+ Kg5 42.Rd3 Rb8
+43.Bd2+ Kh4 44.Kf4  1-0
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Perrin, F."]
+[Black "Hosmer, Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Bd3 Nc6 6.Nf3 d5 7.e5 Nd7 8.Qe2 Qc7
+9.Bf4 Qb6 10.c3 Be7 11.O-O f5 12.exf6 Nxf6 13.b4 O-O 14.Ng5 Nd8 15.Be5 h6
+16.Bd4 Qc7 17.Nh3 Nc6 18.a3 e5 19.Be3 e4 20.Bc2 Ng4 21.f4 exf3 22.Rxf3 Qxh2+
+23.Kf1 Qh1+ 24.Ng1 Nh2+ 25.Ke1 Nxf3+ 26.gxf3 Ne5 27.Bb3 Nxf3+ 28.Qxf3 Rxf3
+29.Bxd5+ Kh8 30.Bxf3 Bh4+ 31.Kd2 Qh2+ 32.Ne2 Bf5 33.c4 Rd8+ 34.Bd5 Bf6 35.Bf4 Qg2
+36.Nc3 Bxc3+ 37.Kxc3 Qxe2  0-1
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "2"]
+[White "Perrin, F."]
+[Black "Mackenzie, George Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A85"]
+
+1.d4 f5 2.e3 Nf6 3.c4 e6 4.Nc3 b6 5.Nf3 Bb7 6.a3 Be7 7.Be2 O-O 8.O-O Qe8
+9.h3 Nc6 10.b4 a6 11.d5 Nd8 12.dxe6 dxe6 13.Bb2 Qg6 14.Kh1 Nf7 15.Rg1 Rad8
+16.Qc2 Qh6 17.Rgf1 Ne5 18.Ng1 Qg6 19.f3 Nh5 20.Rfd1 Ng3+ 21.Kh2 Bd6 22.f4 Ne4
+23.Nxe4 Bxe4 24.Bd3 Nxd3 25.Rxd3 Bxd3  0-1

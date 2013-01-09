@@ -1,0 +1,773 @@
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Ivanovic, Bozidar"]
+[Black "Bukic, Enver"]
+[Result "1-0"]
+[WhiteElo "2440"]
+[BlackElo "2500"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be2 Nge7 7.Nb3 Na5 8.Nxa5 Qxa5
+9.O-O Nc6 10.a3 d6 11.Be3 Be7 12.f4 O-O 13.Qe1 b5 14.Qg3 Qc7 15.Rad1 Kh8
+16.f5 Ne5 17.Qh3 Bd7 18.g4 Rae8 19.Rf2 Qb7 20.g5 exf5 21.exf5 g6 22.Nd5 Bxf5
+23.Qh6 f6 24.gxf6 Rxf6 25.Nxf6 Bxf6 26.Rxf5 Nf7 27.Rxf6 Nxh6 28.Bxh6 Qa7+
+29.Kh1 Qb7+ 30.Bf3 Qe7 31.Rfxd6 Qh4 32.Bd2 Kg7 33.Rd7+ Re7 34.Bb4 Rxd7 35.Rxd7+ Kh8
+36.Bd5  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Gligoric, Svetozar"]
+[Black "Petrosian, Tigran V"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2615"]
+[ECO "D27"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.a4 Nc6 8.Qe2 cxd4
+9.Rd1 Be7 10.exd4 O-O 11.Nc3 Nd5 12.Qe4 Nf6 13.Qe2 Nd5 14.Qe4 Nf6 15.Qe2  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Gligoric, Svetozar"]
+[Black "Jussupow, Artur"]
+[Result "0-1"]
+[WhiteElo "2565"]
+[BlackElo "2485"]
+[ECO "D48"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6
+9.e4 c5 10.d5 c4 11.dxe6 fxe6 12.Bc2 Bb7 13.O-O Qc7 14.Ng5 Nc5 15.f4 h6 16.e5 Nd3
+17.Bxd3 O-O-O 18.Nf3 Rxd3 19.Qe2 Bc5+ 20.Kh1 Nd5 21.Ne4 Rf8 22.Ne1 Rd4 23.Nxc5 Qxc5
+24.Qg4 Qe7 25.Nf3 Rdxf4 26.Bxf4 Rxf4 27.Qg3 g5 28.Rae1 Qb4 29.Rf2 Ne7 30.a3 Qc5
+31.Rd2 Nf5 32.Qh3 g4 33.Qh5 Kb8 34.Nh4 Qxe5 35.Qe8+ Ka7 36.Rdd1 Re4 37.Rxe4 Qxe4
+38.Qf8 Qc6 39.Rd2 c3 40.bxc3 Qxc3 41.Rd1 Qc2 42.Qd8 Qf2  0-1
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Gligoric, Svetozar"]
+[Black "Bukic, Enver"]
+[Result "1-0"]
+[WhiteElo "2565"]
+[BlackElo "2500"]
+[ECO "E43"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Bd3 Bb7 6.Nf3 Ne4 7.O-O f5 8.d5 Bxc3
+9.bxc3 Na6 10.Nd4 Nac5 11.Bxe4 fxe4 12.Ba3 O-O 13.Rb1 Rb8 14.Bxc5 bxc5 15.Ne2 Ba6
+16.Rxb8 Qxb8 17.Qa4 Qb6 18.Nf4 e5 19.Nh5 Bc8 20.Ng3 d6 21.Nxe4 Qa6 22.Qb3 Bf5
+23.Nd2 Bd3 24.Ra1 e4 25.a4 Qc8 26.Ra2 Qf5 27.Nf1 h5 28.h3 Kh7 29.Rb2 a6 30.Ng3 Qe5
+31.Ne2 Bxe2 32.Rxe2 h4 33.Rb2 Rf5 34.Qc2 g6 35.Rb7 Rf7 36.Ra7 Kg7 37.Rxa6 g5
+38.Ra8 Qf5 39.Qe2 Qf6 40.Qc2 Qf5 41.Re8 g4 42.hxg4 Qxg4 43.Rxe4  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Ivanovic, Bozidar"]
+[Black "Jussupow, Artur"]
+[Result "1/2-1/2"]
+[WhiteElo "2440"]
+[BlackElo "2485"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Bf4 O-O 8.Qd2 Nd7
+9.O-O-O Nc5 10.Nd4 Re8 11.f3 Ne6 12.Be3 Bg5 13.Bxg5 Qxg5 14.Qxg5 Nxg5 15.Nb5 Ne6
+16.Re1 Bd7 17.Rxe6 Bxb5 18.Rxe8+ Bxe8 19.Bd3 Bc6 20.Re1 Kf8 21.Kd2 h6 22.Be4 d5
+23.Bd3 Re8 24.Rxe8+ Bxe8 25.c4 dxc4 26.Bxc4 Ke7  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Adorjan, Andras"]
+[Black "Kurajica, Bojan"]
+[Result "1/2-1/2"]
+[WhiteElo "2550"]
+[BlackElo "2505"]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 Be7 7.f4 Nc6 8.Be3 Bd7
+9.O-O a6 10.Qe1 O-O 11.Qg3 Qb8 12.Kh1 b5 13.e5 dxe5 14.fxe5 Nxe5 15.Rxf6 Bxf6
+16.Bf4 Qb6 17.Bxe5 Bxe5 18.Qxe5 f6 19.Qe4 b4 20.Nd1 e5 21.Qd5+  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Gligoric, Svetozar"]
+[Black "Adorjan, Andras"]
+[Result "1/2-1/2"]
+[WhiteElo "2565"]
+[BlackElo "2550"]
+[ECO "E43"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 b6 5.Bd3 Bb7 6.Nf3 O-O 7.O-O c5 8.Na4 cxd4
+9.a3 Be7 10.exd4 d6 11.Re1 Nbd7 12.Nc3 a6 13.d5 exd5 14.cxd5 Ne5 15.Nxe5 dxe5
+16.Rxe5 Bd6 17.Re3 Nxd5 18.Nxd5 Bxd5 19.Bxh7+ Kxh7 20.Qh5+ Kg8 21.Rh3 f5
+22.Qh7+ Kf7 23.Qxf5+ Ke8 24.Re3+ Be7 25.Qg6+ Rf7 26.Bd2 Ra7 27.Rae1 Be4 28.Rxe4 Qxd2
+29.Qxb6 Rd7 30.h3 Kf8 31.R4e2 Qd6 32.Qa5 Kg8 33.b4 Bd8 34.Re8+ Rf8 35.Rxf8+ Kxf8
+36.Qh5 g6 37.Qh8+ Kf7 38.Qh7+ Kf8 39.Qh8+  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Bukic, Enver"]
+[Black "Petrosian, Tigran V"]
+[Result "1/2-1/2"]
+[WhiteElo "2500"]
+[BlackElo "2615"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 d5 6.Bg2 Bb4+ 7.Bd2 Be7 8.Ne5 c6
+9.Bc3 Nfd7 10.Nxd7 Nxd7 11.Nd2 f5 12.O-O O-O 13.a4 Rc8 14.Re1 Nf6 15.a5 b5
+16.c5 Kh8 17.b4 Qc7 18.Ra3 Rce8 19.Bb2 Nd7 20.Nf3 g5 21.Ne5 Bf6 22.Qa1 Bc8
+23.f3 Nxe5  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Adorjan, Andras"]
+[Black "Popovic, Petar"]
+[Result "1-0"]
+[WhiteElo "2550"]
+[BlackElo "2490"]
+[ECO "A16"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nxc3 6.bxc3 Bg7 7.Rb1 Nd7 8.Nf3 O-O
+9.O-O Nb6 10.Ng5 Rb8 11.Qc2 Bd7 12.d3 Ba4 13.Qd2 Qd7 14.c4 Rfd8 15.c5 Nd5
+16.Nxf7 Kxf7 17.Bxd5+ Qxd5 18.Qf4+ Bf6 19.Qxa4 Qxc5 20.Be3 Qh5 21.Rfe1 Kg7
+22.Bxa7 Ra8 23.Rxb7 Rd5 24.Qc4 c6 25.Qxc6 Rad8 26.Bb6 R8d6 27.Qc8  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Adorjan, Andras"]
+[Black "Petrosian, Tigran V"]
+[Result "1/2-1/2"]
+[WhiteElo "2550"]
+[BlackElo "2615"]
+[ECO "C95"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.Nf1 Bf8 14.Ng3 g6 15.a4 c5
+16.d5 c4 17.Bg5 Bg7 18.Ra3 Nc5 19.Qe2 Qc7 20.Rea1 Nfd7 21.axb5 axb5  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Miles, Anthony J"]
+[Black "Ivkov, Borislav"]
+[Result "1-0"]
+[WhiteElo "2545"]
+[BlackElo "2530"]
+[ECO "D37"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Bxc5 8.a3 Nc6
+9.Be2 a6 10.Qc2 dxc4 11.Bxc4 Be7 12.Rd1 Qa5 13.O-O h6 14.Ba2 Bd7 15.Nd2 Rac8
+16.Nc4 Qc5 17.Na4 Qb5 18.Nab6 Na5 19.Nxc8 Rxc8 20.Rc1 Nd5 21.b4 Nxf4 22.exf4 Nxc4
+23.Bxc4 Qh5 24.Qd1 Qxd1 25.Rfxd1 Ba4 26.Be2 Rb8 27.Rd3 g5 28.Bf3 gxf4 29.Rc7 Bf6
+30.Bxb7 Bb5 31.Rd2 Kg7 32.Bf3 Be5 33.Rc5 Kf6 34.Be2 Rb6 35.Bxb5 axb5 36.Kf1 Bd6
+37.Rc3 e5 38.g3 fxg3 39.hxg3 Ke6 40.g4 Ra6 41.Rh3 Bf8 42.Rd8 Bd6 43.Rxh6+ Ke7
+44.Rb8  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Miles, Anthony J"]
+[Black "Jussupow, Artur"]
+[Result "1-0"]
+[WhiteElo "2545"]
+[BlackElo "2485"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 exd5 7.g3 Bd6 8.Bg2 O-O
+9.O-O Re8 10.Bg5 Nbd7 11.Nb5 Ba6 12.Nxd6 cxd6 13.Re1 h6 14.Bxf6 Nxf6 15.Bf1 Qd7
+16.a4 Rac8 17.a5 Bb5 18.axb6 axb6 19.Qb3 Bc4 20.Qb4 Qb5 21.Qxb5 Bxb5 22.e3 Bxf1
+23.Kxf1 Rc4 24.Re2 Rec8 25.Ne1 Rb4 26.f3 g5 27.g4 Rb3 28.Kf2 Kg7 29.h3 h5
+30.Ra3 Rxa3 31.bxa3 Rc3 32.Ra2 h4 33.Ke2 Rc1 34.Nd3 Rh1 35.Rb2 Ra1 36.Rxb6 Rxa3
+37.Rxd6 Ra2+ 38.Kf1 Ra1+ 39.Ne1 Ra3 40.Nc2 Ra2 41.Nb4 Ra5 42.Ke2 Rb5 43.Nd3 Ra5
+44.Rb6 Ra2+ 45.Rb2 Ra1 46.Ne5 Ra7 47.Rb5 Ra2+ 48.Kd3 Ra7 49.Kc3 Rc7+ 50.Rc5 Rb7
+51.Ra5 Kf8 52.Ra6 Ne8 53.e4 Nc7 54.Ra5 f6 55.Nc6 dxe4 56.fxe4 Ne6 57.Rf5 Kg7
+58.e5 fxe5 59.Rxe5 Nf4 60.Rxg5+ Kh8 61.d5 Nxh3 62.Rf5 Kg7 63.Nd8 Ra7 64.Ne6+ Kg8
+65.g5  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Miles, Anthony J"]
+[Black "Kurajica, Bojan"]
+[Result "1-0"]
+[WhiteElo "2545"]
+[BlackElo "2505"]
+[ECO "A14"]
+
+1.c4 e6 2.g3 d5 3.Nf3 Nf6 4.Bg2 Be7 5.O-O O-O 6.b3 b6 7.Bb2 Bb7 8.e3 a5 9.Nc3 Ne4
+10.Nxe4 dxe4 11.Nd4 Bf6 12.Qb1 Bxd4 13.exd4 Qd6 14.d3 Nc6 15.dxe4 Nxd4 16.Rd1 c5
+17.Bxd4 cxd4 18.e5 Qc7 19.Bxb7 Qxb7 20.Rxd4 a4 21.b4 Rfd8 22.Qd3 Rxd4 23.Qxd4 a3
+24.Rd1 h6 25.Qe3 Qc6 26.Rd4 Qc7 27.h4 Qe7 28.Qc3 Qc7 29.Kh2 Kh8 30.h5 Kg8
+31.c5 bxc5 32.bxc5 Qb7 33.Rd2 Qc6 34.Rd6 Qb5 35.c6 Qb2 36.Qf3 Rf8 37.c7 Qxe5
+38.Qc6  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Bukic, Enver"]
+[Black "Popovic, Petar"]
+[Result "1-0"]
+[WhiteElo "2500"]
+[BlackElo "2490"]
+[ECO "A16"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.Qa4+ Bd7 6.Qb3 Nb6 7.d4 Be6 8.Qb5+ N8d7
+9.e4 c6 10.Qa5 Bg7 11.h3 O-O 12.Be2 Bc4 13.O-O Bxe2 14.Nxe2 Nc8 15.Qa4 e5
+16.Be3 Re8 17.Qc2 exd4 18.Bxd4 Bxd4 19.Nexd4 Nd6 20.Rfe1 Qf6 21.Rad1 Rad8
+22.Rd2 Re7 23.Nb3 Qf4 24.Nc5 Nxc5 25.Qxc5 Red7 26.Qe5 Qh6 27.Red1 Re8 28.Qg5 Qxg5
+29.Nxg5 f6 30.Nf3 Re6 31.e5  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Jussupow, Artur"]
+[Black "Velimirovic, Dragoljub"]
+[Result "1-0"]
+[WhiteElo "2485"]
+[BlackElo "2515"]
+[ECO "A43"]
+
+1.d4 c5 2.d5 d6 3.Nc3 g6 4.e4 Bg7 5.Nf3 Nf6 6.Be2 Na6 7.O-O Nc7 8.a4 a6 9.Bf4 O-O
+10.h3 Rb8 11.e5 dxe5 12.Nxe5 Ncxd5 13.Nxf7 Kxf7 14.Nxd5 Qxd5 15.Bxb8 Bxh3
+16.Qxd5+ Nxd5 17.Bg3 Bd7 18.Rad1 e6 19.c4 Nf6 20.b3 Bc6 21.Bd6 Rc8 22.Be5 Nh5
+23.Bxg7 Nxg7 24.Rfe1 Nf5 25.Bg4 a5 26.Bxf5 gxf5 27.f3 Ke7 28.Re5 Be4 29.Kf2 Kf6
+30.f4 Rc6 31.Rd7 Rb6 32.Rxc5 Rxb3 33.Rcc7 Rb2+ 34.Ke3 Rb3+ 35.Kd4 Rd3+ 36.Kc5 Rxd7
+37.Rxd7 Bxg2 38.Rxh7 e5 39.Rh6+ Kg7 40.Rh2 Bc6 41.fxe5 Bxa4 42.Ra2 Bc6 43.Rxa5 f4
+44.Kd6 f3 45.e6 Kg6 46.e7  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Petrosian, Tigran V"]
+[Black "Ivanovic, Bozidar"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2440"]
+[ECO "E05"]
+
+1.c4 e6 2.g3 Nf6 3.Bg2 d5 4.Nf3 Be7 5.O-O O-O 6.d4 dxc4 7.Qc2 a6 8.a4 Bd7
+9.Qxc4 Bc6 10.Bf4 Nbd7 11.Nc3 Nb6 12.Qb3 a5 13.Rfd1 Ra6 14.Qc2 Nbd5 15.Bd2 Nxc3
+16.bxc3 Be4 17.Qa2 c5 18.Bg5 Nd5 19.Bxe7 Qxe7 20.Qa3 Rc8 21.Ne5 Bxg2 22.Kxg2 cxd4
+23.Qxe7 Nxe7 24.cxd4 f6 25.Nd3 Rd6 26.e3 Kf7 27.Kf3 b6 28.Rdc1 Rdc6 29.Ke2 Nd5
+30.Kd2 Ke7 31.e4 Rxc1 32.Rxc1 Rxc1 33.Nxc1 Nc7 34.Nb3 b5 35.axb5 Nxb5 36.Nxa5 Nxd4
+37.Ke3 e5 38.f4  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Petrosian, Tigran V"]
+[Black "Ivkov, Borislav"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2530"]
+[ECO "D55"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.d4 Be7 5.Bg5 h6 6.Bxf6 Bxf6 7.e3 O-O 8.Qd2 b6
+9.cxd5 exd5 10.Rd1 Bb7 11.g3 Qe7 12.Bg2 Rd8 13.Ng1 Na6 14.Nge2 c5 15.O-O Nc7
+16.Rfe1 c4 17.b3 b5 18.bxc4 bxc4 19.Rb1 Bc6 20.Qb2 Qf8 21.Qc2 Rab8 22.h4 Qd6
+23.Nf4 Rb6 24.Rxb6 axb6 25.a4 g5 26.hxg5 Bxg5 27.Nfe2 Qg6 28.Qb1 Rb8 29.Bf3 Qxb1
+30.Rxb1 Kf8 31.Bg2 Ke7 32.f4 Bf6 33.Kf2 Kd6 34.Bf3 Bg7 35.g4 Bf8 36.Ng3 Ke6
+37.f5+ Kd7 38.Nge2 Kd6 39.Nc1 Be7 40.N1a2 Kd7 41.Nb4 Bxb4 42.Rxb4 Kd6 43.e4 dxe4
+44.Nxe4+ Bxe4 45.Bxe4 c3 46.Ke3 b5 47.Kd3 Rc8 48.Bb7  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Petrosian, Tigran V"]
+[Black "Popovic, Petar"]
+[Result "1-0"]
+[WhiteElo "2615"]
+[BlackElo "2490"]
+[ECO "A16"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nxc3 6.bxc3 Bg7 7.Ba3 Nd7 8.Nf3 Nb6
+9.O-O O-O 10.Qc2 Re8 11.d3 Bd7 12.Rab1 Ba4 13.Qc1 Bc6 14.c4 Nd7 15.c5 Nf8
+16.Rd1 e5 17.Nd2 Bxg2 18.Kxg2 Qd5+ 19.Kg1 Qxa2 20.Rxb7 Ne6 21.Qb2 Qd5 22.Ne4 a6
+23.Rb1 Qc6 24.Qa2 h6 25.Qc4 Kh8 26.Nc3 Red8 27.Qe4 Qe8 28.Nd5 Rac8 29.Qc4 Nd4
+30.Nxc7 Qc6 31.R1b6 Nxe2+ 32.Kf1 Nxg3+ 33.hxg3 Qh1+ 34.Ke2 Rd4 35.Qxf7 e4
+36.Qxg7+ Kxg7 37.Ne6+ Kg8 38.Nxd4 exd3+ 39.Kxd3 Rd8 40.Bb2 Qd1+ 41.Kc4 Qf1+
+42.Kc3 Qe1+ 43.Kb3 Qd1+ 44.Nc2 Kf8 45.Bg7+ Kg8 46.Bf6 Rd7 47.c6  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Petrosian, Tigran V"]
+[Black "Sax, Gyula"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2570"]
+[ECO "A26"]
+
+1.Nf3 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 O-O 5.Nc3 d6 6.d3 e5 7.O-O Nc6 8.Rb1 a5
+9.a3 Nd4 10.Ne1 c6 11.b3 Be6 12.e3 Nf5 13.Nf3 h6 14.e4 Ne7 15.d4 Qc7 16.h3 a4
+17.Re1 axb3 18.Qxb3 exd4 19.Nxd4 Bc8 20.Rd1 Nd7 21.Qc2  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Petrosian, Tigran V"]
+[Black "Velimirovic, Dragoljub"]
+[Result "1-0"]
+[WhiteElo "2615"]
+[BlackElo "2515"]
+[ECO "E92"]
+
+1.d4 Nf6 2.c4 c5 3.d5 g6 4.Nc3 Bg7 5.e4 O-O 6.Nf3 d6 7.Be2 e5 8.Bg5 h6 9.Bh4 Qd7
+10.Nd2 Ne8 11.Qa4 Bf6 12.Qxd7 Nxd7 13.Bxf6 Ndxf6 14.Rb1 Nd7 15.f3 f5 16.exf5 gxf5
+17.g3 Ndf6 18.O-O h5 19.f4 e4 20.Nd1 Bd7 21.Ne3 b6 22.a3 h4 23.gxh4 Kf7 24.Rfc1 Rh8
+25.Ng2 Ng7 26.Nf1 Rag8 27.Rc3 Ngh5 28.Ng3 Rg6 29.Nxh5 Nxh5 30.Bxh5 Rxh5 31.Rg3 Rh8
+32.b4 Rc8 33.b5 Rxg3 34.hxg3 Ra8 35.Ne3 a6 36.bxa6 Rxa6 37.Kf2 Rxa3 38.Rxb6 Ra2+
+39.Ke1 Ra1+ 40.Kd2 Ra2+ 41.Kc1 Ra3 42.Rxd6 Rxe3 43.Rxd7+  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Popovic, Petar"]
+[Black "Sax, Gyula"]
+[Result "0-1"]
+[WhiteElo "2490"]
+[BlackElo "2570"]
+[ECO "B73"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Bg7 7.O-O Nc6 8.Be3 O-O
+9.Qd2 Ng4 10.Bxg4 Bxg4 11.f4 Nxd4 12.Bxd4 e5 13.Be3 exf4 14.Rxf4 Be6 15.Rf2 Rc8
+16.a4 Rc4 17.a5 Rb4 18.Bxa7 Rxb2 19.Bb6 Qc8 20.Nd5 Bxd5 21.Qxd5 Rxb6 22.Rb1  0-1
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Sax, Gyula"]
+[Black "Bukic, Enver"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2500"]
+[ECO "B93"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nf3 Qc7 8.a4 Be7
+9.Bd3 O-O 10.O-O Nbd7 11.Nh4 Bd8 12.Nf5 g6 13.Nh6+ Kg7 14.f5 b6 15.g4 Bb7
+16.g5 Nh5 17.f6+ Kh8 18.Be2 Nf4 19.Bxf4 exf4 20.Nd5 Qc5+ 21.Kg2 Ne5 22.b4 Qc6
+23.Rxf4 Rc8 24.c3 Qe8 25.Qd4 Nc6 26.Qf2 Ne5 27.Rh4 Bxd5 28.exd5 Nd7 29.Ng4 h5
+30.Bf3 Ne5 31.Re1 Nxf3 32.Kxf3 Rxc3+ 33.Kg2 Qxa4 34.Ne3 Qd7 35.Qf3 Kg8 36.Rxh5 gxh5
+37.Qxh5 Rxe3 38.Rxe3 Qf5 39.Rh3 Qxd5+ 40.Kg1 Qd4+ 41.Kg2 Qd5+ 42.Kg1 Qd4+
+43.Kg2  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Sax, Gyula"]
+[Black "Gligoric, Svetozar"]
+[Result "1-0"]
+[WhiteElo "2570"]
+[BlackElo "2565"]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.c3 O-O 6.O-O a6 7.Bb3 d6 8.Nbd2 Na5
+9.Bc2 c5 10.Re1 Re8 11.Nf1 Nc6 12.Ng3 Bf8 13.h3 g6 14.Be3 Bg7 15.Qd2 Qe7
+16.d4 Bd7 17.Rad1 cxd4 18.cxd4 Rac8 19.d5 Nd8 20.Bd3 h5 21.Rc1 Rxc1 22.Rxc1 Nh7
+23.Rc7 Nf8 24.Qb4 h4 25.Nf1 f5 26.exf5 e4 27.Bg5 Bf6 28.Bxf6 Qxf6 29.Bxe4 a5
+30.Qc4 b5 31.Qc2 gxf5 32.Bd3 Nf7 33.Qd2 b4 34.Ra7 Ne5 35.Nxe5 dxe5 36.Rxa5 e4
+37.Bc4 f4 38.d6+ Kh8 39.Qd5 Nh7 40.Ra7 Qg7 41.Rxd7  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Sax, Gyula"]
+[Black "Ivanovic, Bozidar"]
+[Result "0-1"]
+[WhiteElo "2570"]
+[BlackElo "2440"]
+[ECO "B71"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.f4 g6 7.Bb5 Bd7 8.Nf3 Bg7
+9.Qe2 O-O 10.e5 dxe5 11.fxe5 Ng4 12.Bf4 a6 13.Bc4 Be6 14.Bxe6 fxe6 15.Bd2 Ncxe5
+16.Nxe5 Nxe5 17.O-O-O Rc8 18.Be3 Qa5 19.Bd4 Rc6 20.Rhf1 Rxf1 21.Rxf1 Nc4  0-1
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Sax, Gyula"]
+[Black "Kurajica, Bojan"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2505"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.Re1 Bg4
+9.c4 Nf6 10.cxd5 Nxd5 11.Nc3 O-O 12.Be4 Be6 13.a3 Qd7 14.Bg5 f6 15.Bh4 g6
+16.Bg3 Rac8 17.Qe2 Bf7 18.Qb5 Rfd8 19.Nxd5 Bxd5 20.Bxd5+ Qxd5 21.Qxb7 Rb8
+22.Qxc7 Rd7 23.Qf4 Rxb2 24.Rac1 Kg7 25.Rc3 Rbb7 26.h4 Bd6 27.Qe4 Qxe4 28.Rxe4 Bxg3
+29.Rxc6 Rb1+ 30.Re1 Rxe1+ 31.Nxe1 Bxh4 32.Nf3 Bg5 33.g3  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Sax, Gyula"]
+[Black "Miles, Anthony J"]
+[Result "1/2-1/2"]
+[WhiteElo "2570"]
+[BlackElo "2545"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Qb6 4.Qe2 g6 5.O-O Bg7 6.Nc3 a6 7.Bxc6 Qxc6 8.Rd1 e5
+9.Nd5 d6 10.b4 Nf6 11.bxc5 Nxd5 12.exd5 Qxd5  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Velimirovic, Dragoljub"]
+[Black "Bukic, Enver"]
+[Result "1-0"]
+[WhiteElo "2515"]
+[BlackElo "2500"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be2 Nge7 7.Be3 Nxd4 8.Qxd4 b5
+9.O-O Nc6 10.Qd2 Be7 11.Rad1 O-O 12.f4 d6 13.Bd3 Bb7 14.Qf2 Qe8 15.Qg3 Nb4
+16.f5 exf5 17.Bd4 f6 18.Rxf5 Rc8 19.Rdf1 Qg6 20.Qe3 Rce8 21.a3 Nxd3 22.cxd3 Bc8
+23.R5f3 Be6 24.Ne2 Rc8 25.Bc3 Qg5 26.Nf4 Bf7 27.Bb4 Qg4 28.Qa7 Rce8 29.Rc1 f5
+30.Bc3 Bg5 31.Rcf1 fxe4 32.Rg3 Qh4 33.Qd4 Qh6 34.Nh3 Be3+ 35.Qxe3 Qxe3+ 36.Rxe3 exd3
+37.Rxd3 Bc4 38.Rxf8+ Rxf8 39.Rd1 d5 40.Ng5 Bb3 41.Re1  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Velimirovic, Dragoljub"]
+[Black "Ivanovic, Bozidar"]
+[Result "1-0"]
+[WhiteElo "2515"]
+[BlackElo "2440"]
+[ECO "B89"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 e6 7.Be3 a6 8.Qe2 Qc7
+9.Bb3 Bd7 10.O-O-O Na5 11.g4 Nxb3+ 12.axb3 b5 13.g5 b4 14.gxf6 bxc3 15.fxg7 Bxg7
+16.Rhg1 Bf6 17.bxc3 Qxc3 18.Kb1 a5 19.Rg3 Qb4 20.Bc1 a4 21.Bb2 axb3 22.Rxb3 Qa5
+23.Ra3 Qxa3 24.Bxa3 Rxa3 25.Nb3 Ke7 26.f4 Bc3 27.Qd3 Bb4 28.Qg3 Rha8 29.Qg5+ Kf8
+30.Qf6 Bc6 31.Qd4 R3a4 32.f5 e5 33.Qe3 Bxe4 34.f6 Bg6 35.Rg1 Ra2 36.Rxg6 hxg6
+37.Qh6+ Ke8 38.Qg7 Bc3 39.Qg8+ Kd7 40.Qxf7+ Kd8 41.Qg8+ Kd7 42.Qf7+ Kc6 43.Qc4+ Kd7
+44.Qxc3 Ke6 45.Qd3 R2a4 46.Qxg6 Rf4 47.h4 Rxf6 48.Nd4+ Ke7 49.Nc6+ Ke6 50.Qg4+ Kd5
+51.Ne7+ Kc5 52.Qg1+ Kc4 53.Qb6 Rh8 54.Kb2 Rhf8 55.Qc6+ Kd4 56.Qc3+ Ke4 57.Qd3+ Kf4
+58.Ng6+  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Velimirovic, Dragoljub"]
+[Black "Miles, Anthony J"]
+[Result "1/2-1/2"]
+[WhiteElo "2515"]
+[BlackElo "2545"]
+[ECO "B76"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6
+9.O-O-O d5 10.exd5 Nxd5 11.Nxc6 bxc6 12.Bd4 e5 13.Bc5 Re8 14.Ne4 f5 15.Nd6 Bf8
+16.c4 Bxd6 17.Bxd6 Qxd6 18.cxd5 cxd5 19.Qxd5+ Qxd5 20.Rxd5 Be6 21.Rxe5 Rac8+
+22.Kd2 Red8+ 23.Ke3 Bxa2 24.Be2 Bc4 25.Re1 Kf7 26.f4 Bxe2 27.Rxe2 Rb8 28.Kf2 Rb7
+29.g3 Rd3 30.R5e3 Rxe3 31.Kxe3 Re7+ 32.Kd3 Rxe2 33.Kxe2 Ke6 34.Ke3 Kd5 35.Kd3 Kc5
+36.Kc3 Kb5 37.Kb3 h6 38.Kc3 a5 39.Kb3 a4+ 40.Ka3 g5 41.b3 axb3 42.fxg5 hxg5
+43.Kxb3 Kc5 44.Kc3  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Velimirovic, Dragoljub"]
+[Black "Sax, Gyula"]
+[Result "0-1"]
+[WhiteElo "2515"]
+[BlackElo "2570"]
+[ECO "B76"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 Nc6 8.Qd2 O-O
+9.O-O-O Be6 10.Kb1 Qc8 11.h4 Rd8 12.Nxe6 fxe6 13.Bh6 Bh8 14.h5 Ne5 15.hxg6 Nxg6
+16.g4 d5 17.g5 Ne8 18.Bh3 Bxc3 19.bxc3 dxe4 20.Qe3 Qc6 21.fxe4 Nc7 22.Ka1 Nb5
+23.Rxd8+ Rxd8 24.Rf1 Na3 25.Qf3 Kh8 26.c4 Nxc2+ 27.Kb2 Nd4 28.Qd3 Qd6 29.Qc3 Qh2+
+30.Ka1 e5 31.Bf5 Qe2 32.Rh1 Rd6 33.c5 Ra6 34.Qb2 Qd3 35.Qb1 Nc2+ 36.Kb2 Ra4
+37.Qd1 Rb4+ 38.Kc1 Qa3+ 39.Kxc2 Rb2+  0-1
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Ivanovic, Bozidar"]
+[Black "Miles, Anthony J"]
+[Result "0-1"]
+[WhiteElo "2440"]
+[BlackElo "2545"]
+[ECO "B78"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 Nc6 8.Qd2 O-O
+9.Bc4 Bd7 10.h4 Rc8 11.Bb3 h5 12.O-O-O Ne5 13.Bg5 Rc5 14.f4 Nc4 15.Qd3 b5
+16.f5 Ne5 17.Qe3 a5 18.fxg6 Nxg6 19.a3 b4 20.Bxf6 Bxf6 21.Na4 Bxa4 22.Bxa4 Qb6
+23.Rh3 bxa3 24.Qxa3 Bxd4 25.Rxd4 Rxc2+ 26.Bxc2 Qxd4 27.Kb1 Rc8 28.Rh1 Qd2
+29.Qb3 Ne5 30.Rc1 Kf8 31.g3 Nc4 32.Qc3 f6 33.e5 dxe5 34.Bf5 Na3+  0-1
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Ivkov, Borislav"]
+[Black "Bukic, Enver"]
+[Result "1/2-1/2"]
+[WhiteElo "2530"]
+[BlackElo "2500"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 c5 5.e3 g6 6.Nc3 Bg7 7.Be2 O-O 8.O-O Bb7 9.d5 exd5
+10.cxd5 Re8 11.Re1 d6 12.Rb1 Nbd7 13.Bf1 a6 14.a4 Qc7 15.b3 Ne4 16.Nxe4 Rxe4
+17.Bc4 Rae8 18.Qd3 Qc8  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Jussupow, Artur"]
+[Black "Ivkov, Borislav"]
+[Result "1-0"]
+[WhiteElo "2485"]
+[BlackElo "2530"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 Qe7 5.g3 O-O 6.Bg2 Bxd2+ 7.Qxd2 d6 8.Nc3 e5
+9.O-O Re8 10.e4 Bg4 11.Ne1 Nc6 12.d5 Nd4 13.f4 Bd7 14.Nd3 c5 15.dxc6 Bxc6
+16.Rae1 Nd7 17.Nb4 Qd8 18.Kh1 Nc5 19.Nbd5 a5 20.Rf2 b5 21.fxe5 dxe5 22.cxb5 Nxb5
+23.Nxb5 Bxb5 24.Rd1 Ne6 25.Qc3 Qb8 26.Bf1 Bxf1 27.Rdxf1 Ra7 28.Rc1 Qd6 29.Qf3 Nd4
+30.Qh5 h6 31.Rcf1 Qg6 32.Qxg6 fxg6 33.Rc1 g5 34.g4 Rb8 35.b3 Ne6 36.Rfc2 Kh7
+37.Rc8 Rxc8 38.Rxc8 Nf4 39.Rc5 a4 40.b4 Nd3 41.Rc2 a3 42.b5 Ra5 43.Nc3 Ra8
+44.Rd2 Nb2 45.Rd6 Na4 46.Ra6 Rxa6 47.bxa6 Nb6 48.a7 Kg6 49.Nb5 Na8 50.Nxa3 Kf6
+51.Nc4  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Jussupow, Artur"]
+[Black "Petrosian, Tigran V"]
+[Result "1/2-1/2"]
+[WhiteElo "2485"]
+[BlackElo "2615"]
+[ECO "A29"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 Bb4 5.Nd5 Bc5 6.Bg2 O-O 7.O-O d6 8.d3 Nxd5
+9.cxd5 Nd4 10.Bd2 a5 11.Nxd4 exd4 12.e4 dxe3 13.fxe3 Qg5 14.d4 Bb6 15.Rf4 Bd7
+16.Qb3 Bf5 17.Raf1 Bg6 18.Qc4 Qe7 19.h4 h6 20.Kh2 Rae8 21.Qe2 Qd8 22.Bc3 f6
+23.e4 Bh7 24.Qh5 Qe7 25.Bh3 Kh8 26.e5 dxe5 27.dxe5 fxe5 28.Rf7 Rxf7 29.Rxf7 Qc5
+30.Rf1 Qe7 31.Rf7 Qc5 32.Rf1 Qe7 33.Bxe5 Bc5 34.Be6 Rf8 35.Bg8 Rd8 36.Qf7 Qxf7
+37.Bxf7 Bd6 38.Bc3 b6 39.Kg2 Bb1 40.a3 Ba2 41.Bd4  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Jussupow, Artur"]
+[Black "Popovic, Petar"]
+[Result "0-1"]
+[WhiteElo "2485"]
+[BlackElo "2490"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.Nc3 d5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 c5 8.Be3 O-O
+9.Rc1 e6 10.d5 exd5 11.exd5 Nd7 12.Be2 Nf6 13.Bxc5 Re8 14.O-O Qxd5 15.Qxd5 Nxd5
+16.Bb5 Rd8 17.Rfd1 Bg4 18.Bxa7 Nxc3 19.Rxd8+ Rxd8 20.a4 Bd7 21.Bb6 Ra8 22.Bd4 Bxb5
+23.Bxc3 Rxa4 24.Bxg7 Kxg7 25.h3 Kf6 26.Rd1 Rb4 27.Nd4 Ba4 28.Rd3 Rb1+ 29.Kh2 Rd1
+30.Rf3+ Ke7 31.Rf4 Bd7 32.Nf3 Rd5 33.g4 b5 34.Nd4 Rc5 35.Re4+ Kd6 36.Rf4 Rc4
+37.Nxb5+ Bxb5 38.Rxf7 Rc7 39.Rf3 Ke5 40.Kg3 Bc4 41.Re3+ Kf6 42.Rf3+ Kg7 43.Rc3 Rc6
+44.f3 Bd5 45.Rd3 Rc5 46.Ra3 Rb5 47.Rd3 Kf6 48.Rd1 Ke6 49.Re1+ Kd6 50.Kf4 h6
+51.h4 Rb4+ 52.Kg3 Rb3 53.Rf1 Ke5 54.Re1+ Kd4 55.Rf1 Ke3 56.Rf2 Bb7 57.f4 Rb1
+58.Ra2 Rg1+  0-1
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Jussupow, Artur"]
+[Black "Sax, Gyula"]
+[Result "1-0"]
+[WhiteElo "2485"]
+[BlackElo "2570"]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Be3 O-O
+9.Be2 Qa5 10.O-O Qxc3 11.Rc1 Qa3 12.Rxc5 Na6 13.Rc2 Nb4 14.Bc1 Qa5 15.Bd2 Qb6
+16.Rb2  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Kurajica, Bojan"]
+[Black "Petrosian, Tigran V"]
+[Result "1/2-1/2"]
+[WhiteElo "2505"]
+[BlackElo "2615"]
+[ECO "B52"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nc6 6.d4 cxd4 7.Nxd4 Nf6 8.Re1 g6
+9.Nxc6 bxc6 10.b3 Bg7 11.Bb2 O-O 12.Nd2 Rfd8 13.Qe2 Qg4 14.Qxg4 Nxg4 15.Bxg7 Kxg7
+16.Nc4  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Miles, Anthony J"]
+[Black "Petrosian, Tigran V"]
+[Result "1/2-1/2"]
+[WhiteElo "2545"]
+[BlackElo "2615"]
+[ECO "A14"]
+
+1.Nf3 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.b3 c5 7.e3 Nc6 8.Bb2 b6 9.Qe2 Bb7
+10.d3 dxc4 11.bxc4 Qc7 12.Nc3 a6 13.Rab1 Rab8 14.Ba1 Na5 15.a4 Rfe8 16.Rfd1 Bc6
+17.Ne1 Bxg2 18.Kxg2 Nc6 19.f4 Bd6 20.Nf3 Bf8 21.e4 Nd7 22.e5 Rb7 23.Re1 Na7
+24.Qe4 Qc6 25.Re2 Qxe4  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Kurajica, Bojan"]
+[Black "Popovic, Petar"]
+[Result "1-0"]
+[WhiteElo "2505"]
+[BlackElo "2490"]
+[ECO "B22"]
+
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.Qxd4 e6 6.Nf3 Nc6 7.Qe4 f5 8.exf6 Nxf6
+9.Qh4 Qc7 10.Bg5 Be7 11.Nbd2 Ne5 12.Nxe5 Qxe5+ 13.Be2 O-O 14.Qg3 Qxg3 15.hxg3 Bc5
+16.f3 d5 17.O-O-O Bd7 18.Bf4 a5 19.Nb3 Bb6 20.Nd4 Rac8 21.Rhe1 Rfe8 22.Bf1 Kf7
+23.g4 g6 24.Be5 Ba4 25.b3 Bc6 26.Nxc6 bxc6 27.Ba6 Rcd8 28.Bb7 c5 29.g5 Nd7
+30.Bc6 Nxe5 31.Bxe8+ Rxe8 32.Rxe5 Bc7 33.Re2 Bf4+ 34.Kc2 Bxg5 35.Rh1 Kg7
+36.c4 Rd8 37.Rxe6 dxc4 38.Rd1 cxb3+ 39.axb3 Rc8 40.Rd7+ Kg8 41.Kc3 Bh6 42.Red6  1-0
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Miles, Anthony J"]
+[Black "Popovic, Petar"]
+[Result "0-1"]
+[WhiteElo "2545"]
+[BlackElo "2490"]
+[ECO "A16"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.dxc3 Qxd1+ 7.Kxd1 Nd7
+8.Bc4 Nc5 9.Ng5 e6 10.Re1 Bd7 11.Kc2 h6 12.Nh3 O-O-O 13.f3 Bd6 14.Be3 b6
+15.e5 Be7 16.Nf2 Ba4+ 17.b3 Bc6 18.b4 Nd7 19.Bf4 Nf8 20.a4 g5 21.Bc1 Ng6
+22.Bf1 Bf8 23.b5 Bb7 24.Nd3 Bg7 25.Bb2 Bd5 26.Re3 Bc4 27.Rae1 h5 28.Re4 Bd5
+29.Rb4 a5 30.bxa6 Bf8 31.Rb5 Bc6 32.Bc1 Be7 33.Rb1 Bxa4+ 34.Kb2 Bb5 35.Nc5 Bc6
+36.Nb3 Ba8 37.c4 c5 38.Kc2 g4 39.Nd2 Kc7 40.Rb3 Bc6 41.Ra3 Nh4 42.Ne4 Nf5
+43.f4 Bh4 44.g3 Be7 45.h4 Nd4+ 46.Kb2 Nf3 47.Ree3 Rd1 48.Bd3 Rd8 49.Ng5 Bxg5
+50.fxg5 Rg1 51.g6 fxg6 52.Bxg6 Rxg3 53.Bxh5 Rg2+ 54.Kb1 Rg1 55.Rec3 Be4+
+56.Kb2 Rg2+ 57.Ka1 Nd4 58.a7 Nc2+ 59.Rxc2 Rxc2 60.Bb2 Rd1+ 61.Ka2 Rdd2 62.Rb3 Rxb2+
+63.Rxb2 Rxb2+ 64.Kxb2 g3 65.Bg6 Ba8  0-1
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Adorjan, Andras"]
+[Black "Jussupow, Artur"]
+[Result "1/2-1/2"]
+[WhiteElo "2550"]
+[BlackElo "2485"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.Re1 Bg4
+9.c4 Nf6 10.cxd5 Nxd5 11.Nc3 O-O 12.Be4 Be6 13.a3 Bf6 14.Na4 Bg4 15.Qd3 Bxf3
+16.Qxf3 Nce7 17.Nc5 b6 18.Qh3 Ng6 19.Nd7 Re8 20.Bd2 c6 21.Bxd5 Rxe1+ 22.Rxe1 cxd5
+23.Nxf6+  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Adorjan, Andras"]
+[Black "Ivkov, Borislav"]
+[Result "1/2-1/2"]
+[WhiteElo "2550"]
+[BlackElo "2530"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Be7 7.Re1 d6 8.c3 O-O
+9.h3 Nd7 10.d4 Nb6 11.Nbd2 exd4 12.cxd4 Nb4 13.Nf1 c5 14.a3 Nc6 15.Be3 Na5
+16.Bc2 Nbc4 17.Bc1 cxd4 18.Nxd4 Bf6 19.Rb1 d5 20.exd5 Bb7 21.Nf5 Qxd5 22.Qxd5 Bxd5
+23.b3 Nb6 24.Be3 Rab8 25.N1g3 Be6 26.Ne4 Nd5 27.Nxf6+ Nxf6 28.Ba7 Rb7 29.Bc5 Rc8
+30.b4 Nc4 31.Rbc1 Rcc7 32.Bd3 Rd7 33.Bxc4 Bxf5 34.Be2 h5 35.Bf3 Rbc7 36.Re5 Be6
+37.Bxh5 Rd3  1/2-1/2
+
+[Event "Vrbas"]
+[Site "Vrbas"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Adorjan, Andras"]
+[Black "Velimirovic, Dragoljub"]
+[Result "1-0"]
+[WhiteElo "2550"]
+[BlackElo "2515"]
+[ECO "B38"]
+
+1.c4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.e4 Bg7 6.Be3 Nf6 7.Nc3 d6 8.Be2 Nd7
+9.O-O Nc5 10.Rc1 O-O 11.Re1 Bd7 12.Bf1 Nxd4 13.Bxd4 a5 14.Bxg7 Kxg7 15.e5 Bc6
+16.Qd4 f6 17.exd6 Qxd6 18.Rcd1 Qxd4 19.Rxe7+ Kg8 20.Rxd4 Rad8 21.Rxd8 Rxd8
+22.b3 Kf8 23.Re2 Rd4 24.f3 g5 25.Kf2 g4 26.fxg4 a4 27.Nxa4 Nxa4 28.bxa4 Rf4+
+29.Kg1 Rxc4 30.Re8+ Bxe8 31.Bxc4 Bxa4 32.Kf2 Bc6 33.Bd3 h6 34.g3 Bd5 35.a3 b6
+36.Ke3 Ke7 37.Kf4 Be6 38.h4 Kd6 39.g5 hxg5+ 40.hxg5 fxg5+ 41.Kxg5 Ke5 42.g4 Bd7
+43.Kh5 Kd4 44.Bf5 Be8+ 45.Kh6 Kc3 46.Kg7  1-0
+
+[Event "It"]
+[Site "Vrbas YUG"]
+[Date "1980.??.??"]
+[Round "?"]
+[White "Miles,A"]
+[Black "Jussupow,A"]
+[Result "1-0"]
+[WhiteElo "2545"]
+[BlackElo "2485"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 exd5 7.g3 Bd6 8.Bg2 O-O
+9.O-O Re8 10.Bg5 Nbd7 11.Nb5 Ba6 12.Nxd6 cxd6 13.Re1 h6 14.Bxf6 Nxf6 15.Bf1 Qd7
+16.a4 Rac8 17.a5 Bb5 18.axb6 axb6 19.Qb3 Bc4 20.Qb4 Qb5 21.Qxb5 Bxb5 22.e3 Bxf1
+23.Kxf1 Rc4 24.Re2 Rec8 25.Ne1 Rb4 26.f3 g5 27.g4 Rb3 28.Kf2 Kg7 29.h3 h5
+30.Ra3 Rxa3 31.bxa3 Rc3 32.Ra2 h4 33.Ke2 Rc1 34.Nd3 Rh1 35.Rb2 Ra1 36.Rxb6 Rxa3
+37.Rxd6 Ra2+ 38.Kf1 Ra1+ 39.Ne1 Ra3 40.Nc2 Ra2 41.Nb4 Ra5 42.Ke2 Rb5 43.Nd3 Ra5
+44.Rb6 Ra2+ 45.Rb2 Ra1 46.Ne5 Ra7 47.Rb5 Ra2+ 48.Kd3 Ra7 49.Kc3 Rc7+ 50.Rc5 Rb7
+51.Ra5 Kf8 52.Ra6 Ne8 53.e4 Nc7 54.Ra5 f6 55.Nc6 dxe4 56.fxe4 Ne6 57.Rf5 Kg7
+58.e5 fxe5 59.Rxe5 Nf4 60.Rxg5+ Kh8 61.d5 Nxh3 62.Rf5 Kg7 63.Nd8 Ra7 64.Ne6+ Kg8
+65.g5  1-0

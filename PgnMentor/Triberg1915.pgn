@@ -1,0 +1,733 @@
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Rabinovich, Ilya Leontievich"]
+[Black "Flamberg, Aleksander Dawidow"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C28"]
+
+1.e4 e5 2.Bc4 Nf6 3.Nc3 Nc6 4.Nge2 Na5 5.d3 Nxc4 6.dxc4 d6 7.O-O g6 8.f3 Bg7
+9.Be3 O-O 10.Qd2 Be6 11.b3 Nd7 12.Ng3 f5 13.exf5 gxf5 14.Bh6 Qf6 15.Bxg7 Qxg7
+16.Nd5 Nf6 17.Rae1 Kh8 18.Nxf6 Qxf6 19.c5 Rad8 20.cxd6 cxd6 21.c4 Bf7 22.Qb2 Kg7
+23.Rf2 Bg6 24.Rd2 b6 25.Red1 Rf7 26.Ne2 e4 27.Nf4 Qxb2 28.Rxb2 Rf6 29.Rbd2 exf3
+30.gxf3 Bf7 31.Kf2 Rh6 32.h3 Kf8 33.Kg3 Ke7 34.Re1+ Kd7 35.Rde2 Kc6 36.Re7 Rd7
+37.h4 a5 38.Rxd7 Kxd7 39.h5 a4 40.Kh4 d5 41.cxd5 axb3 42.axb3 b5 43.Kg5 Ra6
+44.Kxf5 Kd6 45.Rc1 b4 46.Rc4 Rb6 47.Ke4  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Bogoljubow, Efim"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D07"]
+
+1.d4 d5 2.Nf3 Nc6 3.c4 Bg4 4.Nc3 e6 5.Qa4 Bxf3 6.exf3 a6 7.Be3 Nf6 8.c5 Be7
+9.Be2 O-O 10.f4 Kh8 11.O-O Nd7 12.b4 Bf6 13.Rad1 Ne7 14.Bd3 Rg8 15.Bb1 g6
+16.Qc2 Nf5 17.g4 Nxe3 18.fxe3 Bg7 19.g5 f5 20.h4 Bf8 21.Rf3 h5 22.a4 Be7
+23.Rf2 Qf8 24.Na2 Rg7 25.Qc3 b5 26.axb5 axb5 27.Bd3 c6 28.Ra1 Rg8 29.Nc1 Qg7
+30.Rfa2 Rxa2 31.Rxa2 Qf8 32.Ra7 Qc8 33.Qa3 Bd8 34.Nb3 Nb8 35.Kf2 Rg7 36.Ra8 Bc7
+37.Kf3 Kg8 38.Kf2 Kf8 39.Ke2 Ke8  1/2-1/2
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Selezniev, Alexey Sergeevich"]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D00"]
+
+1.d4 d5 2.c3 Nf6 3.Bf4 e6 4.e3 Bd6 5.Nd2 O-O 6.Bd3 Bxf4 7.exf4 c5 8.dxc5 Qc7
+9.Qf3 Qxc5 10.Ne2 Nc6 11.Qg3 Re8 12.O-O e5 13.fxe5 Nxe5 14.Nd4 Nxd3 15.Qxd3 Bd7
+16.Rfe1 Qd6 17.N4f3 Bc6 18.Qd4 b6 19.Ne5 Re6 20.Re3 Rae8 21.Rae1 Bb7 22.f3 Qc7
+23.Nd3 Rxe3 24.Rxe3 Rxe3 25.Qxe3 Kf8 26.Qd4 Qe7 27.Kf2 Ba6 28.Ne5 Bb7 29.Nb3 Ne8
+30.Ng4 Nc7 31.Qf4 Bc8 32.Ne3 Be6 33.Nd4 Qd7 34.Qe5 Ne8 35.f4 Qd6 36.Qxd6+ Nxd6
+37.f5 Bd7 38.Kf3 Bc8 39.Kf4 Bb7 40.Ke5 Nc4+ 41.Nxc4 dxc4 42.g4 Ke7 43.Nc2 b5
+44.a4 a6 45.axb5 axb5 46.Nd4 f6+ 47.Kf4 g5+ 48.fxg6 hxg6 49.h4 Ba6 50.h5 Kf7
+51.Nc6 Kg7 52.Ne7 gxh5 53.gxh5 Kh6 54.Kg4 Bb7 55.Nf5+ Kh7 56.Nd6 Bc6 57.Kf5 Kh6
+58.Kxf6 Kxh5 59.Ke5 Kg4 60.Kd4 Kf3 61.Kc5  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Flamberg, Aleksander Dawidow"]
+[Black "Weinstein, S."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 Nxc3 6.bxc3 c5 7.Qg3 Nc6 8.Nf3 Qa5
+9.Be2 h6 10.O-O Be6 11.Rb1 O-O-O 12.Nh4 d4 13.Bg4 Qxa2 14.Rb2 Qd5 15.Rxf7 Rd7
+16.c4 Qxc4 17.Rxd7 Bxd7 18.Ng6 Rg8 19.e6 Bxe6 20.d3  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Selezniev, Alexey Sergeevich"]
+[Black "Bogoljubow, Efim"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A45"]
+
+1.d4 Nf6 2.Bf4 b6 3.e3 Bb7 4.Nd2 e6 5.c3 Be7 6.Ngf3 O-O 7.Bd3 Nh5 8.h3 Nxf4
+9.exf4 c5 10.O-O Nc6 11.dxc5 bxc5 12.Ne5 Rb8 13.Qc2 g6 14.Rfe1 d5 15.Ndf3 Bd6
+16.Re3 Ne7 17.Rae1 d4 18.R3e2 Bxf3 19.Nxf3 dxc3 20.Qxc3 Nd5 21.Qc4 Rb4 22.Qa6 Rxf4
+23.Be4 Bb8 24.Rc1 Qb6 25.Qa3 Nb4 26.g3 Rf6 27.Re3 e5 28.Qb3 Re6 29.a3 Na6
+30.Bb7 Nc7 31.Bd5 Nxd5 32.Qxd5 Qxb2 33.Rxc5 Bd6 34.Rc6 Rd8 35.Qa5 Qb8 36.Rb3 Qa8
+37.Qa6 h6 38.Nd2 Bc5 39.Rxe6 Rxd2 40.Rxg6+ Kf8 41.Qc6 Bxf2+ 42.Kg2 Bb6+ 43.Kf3 Qd8
+44.Rxh6 Rf2+ 45.Kg4 Qd4+  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "?"]
+[White "Rabinovich, Ilya Leontievich"]
+[Black "Selezniev, Alexey Sergeevich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C28"]
+
+1.e4 e5 2.Bc4 Nf6 3.Nc3 Nc6 4.Nge2 Bc5 5.O-O a6 6.d3 d6 7.Be3 Nd4 8.Bxd4 Bxd4
+9.Nxd4 exd4 10.Ne2 c5 11.Ng3 O-O 12.h3 Qe7 13.f4 Be6 14.Qf3 Bxc4 15.dxc4 b5
+16.Rae1 Qb7 17.cxb5 axb5 18.Nf5 Rxa2 19.Nxd6 Qb6 20.Qb3 Ra4 21.e5 Ne8 22.Qd5 Nc7
+23.Qf3 Ra6 24.Qg3 Nd5 25.f5 f6 26.exf6 Nxf6 27.Re6 Qc7 28.Rfe1 Ne8 29.Rxe8 Qxd6
+30.Qb3+ c4 31.Qxb5  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "1"]
+[White "Bogoljubow, Efim"]
+[Black "Flamberg, Aleksander Dawidow"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.Nc3 Bb4 6.Ne2 Nf6 7.a3 Bd6 8.Ng3 c5
+9.d3 h6 10.Qe2 Be6 11.O-O Nd7 12.c3 Qe7 13.Be3 g6 14.b4 O-O-O 15.Rfb1 Bg4
+16.bxc5 Nxc5 17.Qb2 b5 18.Bxc5 Bxc5 19.a4 Bxf3 20.gxf3 b4 21.d4 exd4 22.cxb4 Ba7
+23.Qc2 Rd6 24.Qd3 h5 25.Ra2 h4 26.Ne2 Re8 27.Rc2 Qf6 28.Rbc1 Re7 29.a5 Kb8
+30.f4 Qe6 31.f3 f6 32.Kh1 c6 33.Re1 Qc8 34.Nc1 Ka8 35.Qf1 Qb7 36.Nd3 Qb5
+37.Rg2 g5 38.fxg5 fxg5 39.e5 Rg6 40.f4 h3 41.Rg3 g4 42.f5 Rg5 43.Qf4 Qd5+
+44.Kg1 Rg8 45.f6 Rh7 46.Qe4 Qf7 47.e6  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "2"]
+[White "Selezniev, Alexey Sergeevich"]
+[Black "Bogoljubow, Efim"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A47"]
+
+1.d4 Nf6 2.Bf4 b6 3.e3 Bb7 4.h3 e6 5.Nd2 c5 6.c3 Be7 7.Ngf3 O-O 8.Bd3 Nc6
+9.Qe2 a6 10.Rd1 Nd5 11.Bh2 f5 12.O-O Kh8 13.Bb1 cxd4 14.c4 d3 15.Qxd3 Nf6
+16.Ne5 d6 17.Nxc6 Bxc6 18.f3 b5 19.b3 Qd7 20.e4 fxe4 21.Nxe4 Nxe4 22.fxe4 bxc4
+23.bxc4 Qa7+ 24.Kh1 e5 25.Bg1 Qb7 26.Rxf8+ Rxf8 27.Rf1 Rxf1 28.Qxf1 Kg8 29.Qd3 h6
+30.Be3 Kh7 31.Bc1 Qb4 32.Bd2 Qb6 33.Be3 Qb2 34.Kh2 Bh4 35.Qc2 Qb4 36.Bd2 Qc5
+37.Qd3 Bd7 38.a3 Be6 39.Bb4 Qf2 40.Qf3 Qb2 41.Bd3 Qd4 42.Be2 Bg5 43.Qd3 Bf4+
+44.Kh1 Qf2 45.Qf3 Qh4 46.Kg1 Qd8 47.Qc3 Qb6+ 48.c5 dxc5 49.Bxc5 Qb1+ 50.Bf1 a5
+51.Bf2 a4 52.Bc5 Qb3 53.Qxb3 axb3 54.Bd3 Kg6 55.Kf2 Kf7 56.Bd6 Kf6 57.Ke2 h5
+58.a4 b2 59.Bb1 Bc4+ 60.Ke1 h4 61.Ba3 Bg3+ 62.Kd2 Bf1 63.a5 Bf2 64.Bxb2 Bxg2
+65.Ke2 Bd4 66.Bc1 Bxh3 67.Be3 Bg4+ 68.Kf2 Bxe3+ 69.Kxe3 Bc8 70.Bd3 g5 71.a6 h3
+72.Kf3 g4+ 73.Kg3 Kg5 74.a7 Bb7 75.Bc2  1/2-1/2
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "2"]
+[White "Weinstein, S."]
+[Black "Rabinovich, Ilya Leontievich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Bxc3 8.bxc3 Qe7
+9.Re1 Nd8 10.d4 Ne6 11.Bc1 c5 12.Bf1 Rd8 13.g3 Qc7 14.Qd3 h6 15.Bg2 Bd7 16.d5 Nf8
+17.Nh4 Ng6 18.Nf5 Bxf5 19.exf5 Ne7 20.g4 Nxg4 21.Qh3 Nf6 22.Bxh6 Qd7 23.Bg5 Qxf5
+24.Qxf5 Nxf5 25.Rab1 Rdb8 26.Bh3 Nh7 27.Bd2 Nh4 28.Bg4 f5 29.Bd1 Nf6 30.Bg5 Ng6
+31.Bxf6 gxf6 32.c4 Nf4 33.Re3 Kf7 34.Rg3 b6 35.Kf1 Rh8  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "2"]
+[White "Flamberg, Aleksander Dawidow"]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 f5 6.d3 Nxc3 7.bxc3 d4 8.Qf4 c5
+9.Bd2 Nc6 10.Nf3 Be6 11.Be2 Be7 12.cxd4 Nxd4 13.Nxd4 cxd4 14.c3 dxc3 15.Bxc3 Rc8
+16.Qa4+ Kf7 17.Rc1 Qb6 18.Rc2 Rxc3 19.Rxc3 Bb4 20.Kd2 Qd4  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "3"]
+[White "Bogoljubow, Efim"]
+[Black "Weinstein, S."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D37"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 Be7 5.Bf4 O-O 6.e3 c6 7.Bd3 dxc4 8.Bxc4 Nbd7
+9.e4 c5 10.O-O cxd4 11.Qxd4 Bc5 12.Qd1 Nh5 13.Bg5 Be7 14.Be3 Nb6 15.Bd3 Nf6
+16.Qe2 Bd7 17.Rfd1 Qe8 18.Nb5 Bxb5 19.Bxb5 Qb8 20.Bg5 h6 21.Bh4 Qf4 22.e5 Nfd5
+23.Bxe7 Nxe7 24.Rd4 Qf5 25.Bd3 Qh5 26.Rh4  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "3"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Selezniev, Alexey Sergeevich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C30"]
+
+1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.Bc4 Nc6 5.Nc3 Bg4 6.h3 Bxf3 7.Qxf3 Qh4+ 8.g3 Nd4
+9.Qg2 Qh5 10.d3 Qf3 11.Qxf3 Nxf3+ 12.Kd1 Nd4 13.Nd5 Kd7 14.b4 b5 15.bxc5 bxc4
+16.cxd6 cxd3 17.c3 Ne6 18.fxe5 cxd6 19.Rf1 f6 20.exf6 Nxf6 21.Rb1 Nc5 22.Nxf6+ gxf6
+23.Rxf6 Nxe4 24.Rb7+ Kc6 25.Rff7 Rhf8 26.Bb2 Rxf7 27.Rxf7 Rb8 28.Rf4 d5 29.Bc1 Rb1  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "3"]
+[White "Rabinovich, Ilya Leontievich"]
+[Black "Flamberg, Aleksander Dawidow"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7 5.O-O d6 6.d4 Bb6 7.a4 a6 8.a5 Nxa5
+9.Rxa5 Bxa5 10.Qa4+ b5 11.Qxa5 bxc4 12.dxe5 dxe5 13.Nxe5 Nf6 14.Bg5 O-O 15.Nd2 Be6
+16.f4 h6 17.Bh4 Rfb8 18.Nc6 Qd6 19.Nxb8 Qxd2 20.f5 Rxb8 21.fxe6 fxe6 22.Qe5 Rxb2
+23.Qxe6+ Kh8 24.Qh3 Nd7 25.Bf2 a5 26.Bd4 Qg5 27.g3 Ne5 28.Qe6 Qh5 29.h4 Qe2
+30.Qc8+ Kh7 31.Qf5+ g6  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "4"]
+[White "Weinstein, S."]
+[Black "Flamberg, Aleksander Dawidow"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Nc3 Nxe4 5.Nxe4 d5 6.Bd3 dxe4 7.Bxe4 Bd6 8.d4 exd4
+9.Nxd4 O-O 10.Nxc6 Qe8 11.Qe2 bxc6 12.Bd3 Rb8 13.O-O Qd8 14.Bd2 Qh4 15.g3 Qh3
+16.Be4 Rxb2 17.Bc3 Rb6 18.Qe3 c5 19.Bxg7 Kxg7 20.Qg5+  1/2-1/2
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "4"]
+[White "Selezniev, Alexey Sergeevich"]
+[Black "Rabinovich, Ilya Leontievich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 d5 2.c3 e6 3.Bf4 Nf6 4.e3 Be7 5.Nd2 O-O 6.Bd3 c5 7.Ngf3 Nc6 8.Ne5 Bd6
+9.Qf3 Bxe5 10.dxe5 Nd7 11.Qh3 f5 12.Nf3 Qe7 13.g4 c4 14.Bc2 Nc5 15.Rg1 Ne4
+16.Nd4 Nxd4 17.exd4 g6 18.Kf1 fxg4 19.Rxg4 Rf7 20.f3 g5 21.Ke2 h5 22.Rxg5+ Nxg5
+23.Bxg5 Qe8 24.Rg1 Kh8 25.Qh4 Rf5 26.Bf6+ Kh7 27.Rg7+ Kh6 28.Qg5+ Rxg5 29.Rh7+  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "5"]
+[White "Bogoljubow, Efim"]
+[Black "Rabinovich, Ilya Leontievich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6 5.d4 Bd7 6.Nc3 Be7 7.Bxc6 Bxc6 8.Qd3 exd4
+9.Nxd4 Bd7 10.Bg5 O-O 11.Rad1 Kh8 12.h3 Ng8 13.Bf4 Bf6 14.Nd5 Re8 15.b3 Be6
+16.Nxf6 Qxf6 17.Bd2 Bd7 18.Rde1 Qg6 19.f4 Nf6 20.f5 Qh5 21.Re2 c5 22.Nf3 d5
+23.Ng5 dxe4 24.Qc4 Kg8 25.g4 b5 26.Qxc5 Qh4 27.Qd4 h6 28.Nxe4 Rxe4 29.Be1 Qxg4+  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "5"]
+[White "Flamberg, Aleksander Dawidow"]
+[Black "Selezniev, Alexey Sergeevich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.c4 Nb6 5.Nc3 e5 6.dxe5 Qxd1+ 7.Nxd1 Nc6 8.f4 Be6
+9.b3 O-O-O 10.Ne3 Bb4+ 11.Kf2 Nd4 12.Nf3 Bc5 13.Ne1 Nf5 14.Bd3 h5 15.g3 g6
+16.Be4 Nxe3 17.Nd3 Ng4+ 18.Ke2 Bd4 19.Rb1 Nh6 20.Rd1 Bg4+ 21.Bf3 Rhe8 22.Bxg4+ hxg4
+23.Be3 Bxe3 24.Kxe3 Nf5+ 25.Kf2 Rd4 26.Ke1 Red8  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "5"]
+[White "Weinstein, S."]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Qh4+ 5.Kf1 Bd6 6.Nf3 Qh5 7.d4 Ne7 8.Bc4 f6
+9.Nc3 c6 10.h3 Nd7 11.Bd2 Bc7 12.Qe2 g5 13.Kg1 b5 14.Bb3 Bb6 15.a4 b4 16.Nd1 a5
+17.Nf2 Qg6 18.Bc4 h5 19.e5 fxe5 20.Nxe5 Nxe5 21.Qxe5 Rf8 22.Re1 Qf6 23.c3 Bf5
+24.Qe2 Bg6 25.Qf3 Ra7 26.Re6 Qg7 27.Qxc6+ Rd7 28.Bb5  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "6"]
+[White "Selezniev, Alexey Sergeevich"]
+[Black "Weinstein, S."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A47"]
+
+1.d4 Nf6 2.Bf4 b6 3.e3 Bb7 4.h3 e6 5.Nf3 Be7 6.Nbd2 d5 7.Ne5 O-O 8.Bd3 c5
+9.c3 Nbd7 10.Qf3 Rc8 11.g4 Nxe5 12.Bxe5 Nd7 13.Bf4 f6 14.g5 e5 15.Bxh7+ Kf7
+16.Bxe5 Nxe5 17.dxe5 Ke8 18.Bf5 Qc7 19.Bxc8 Qxc8 20.exf6 gxf6 21.g6 d4 22.Qh5 Bxh1
+23.g7+ Kd8 24.gxf8=Q+ Bxf8 25.Qf7 Be7 26.Qg8+ Kd7 27.Qxc8+ Kxc8 28.cxd4 cxd4
+29.exd4 Bg2 30.h4 f5 31.h5 Bf6 32.Ke2 Bxd4 33.Rg1 Bd5 34.h6 Bxb2 35.h7 Bxa2
+36.Rg8+ Kb7 37.h8=Q Bxh8 38.Rxh8 a5 39.Ke3 Be6 40.Rh6  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "6"]
+[White "Flamberg, Aleksander Dawidow"]
+[Black "Bogoljubow, Efim"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A30"]
+
+1.d4 Nf6 2.Nf3 b6 3.g3 Bb7 4.Bg2 e6 5.O-O c5 6.b3 Be7 7.Bb2 O-O 8.c4 cxd4
+9.Nbd2 d6 10.Nxd4 Bxg2 11.Kxg2 Qd7 12.e4 Nc6 13.Qe2 Nxd4 14.Bxd4 e5 15.Bb2 Rae8
+16.Rad1 Qc6 17.f3 Nd7 18.Nb1 f5 19.Nc3 f4 20.g4 Rf7 21.Rd2 a6 22.Rfd1 Bf8
+23.h3 Nc5 24.Rd5 Ne6 25.Qd2 Nc7 26.Rd3 Re6 27.Ba3 Rd7 28.Nd5 Qb7 29.Nxc7 Qxc7
+30.Rd5 Qc8 31.Qf2 Qc6 32.R1d2 Rf7 33.Qe2 Rg6 34.Qd1 Rff6 35.Bb4 h5 36.R2d3 Be7
+37.a4 a5 38.Be1 hxg4 39.fxg4 Rf8 40.Qf3 Rh6 41.Bf2 g5 42.Rb5 Bd8 43.Qe2 Bc7
+44.Rf3 Kg7 45.Qd3 Rfh8 46.Kf1 Kf6 47.Kg2 Kg7 48.Kf1 Kf6 49.Kg2 Kg7 50.Qd5 Qd7
+51.Qd1 Qc6 52.Qd5 Qd7 53.Qd1 Qc6 54.Qd3 Kf6 55.Kg1 Kg7 56.Kf1 Kf6 57.Kg1 Kg7
+58.Kg2 Kf6 59.Kf1 Kg7 60.Kg1 Kf6 61.Kg2 Kg7 62.Be1 R6h7  1/2-1/2
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "6"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Rabinovich, Ilya Leontievich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3 Nc6 5.Nf3 Bb4 6.Nd5 Nxe4 7.O-O O-O 8.d4 d6
+9.Bxf4 Bf5 10.c3 Ba5 11.a4 a6 12.b4 Bb6 13.Qb3 Ba7 14.Rae1 Ne5 15.Ne3 Nxf3+
+16.gxf3 Nd2 17.Qa2 Nxc4 18.Nxf5 Ne5 19.Bxe5 Qg5+ 20.Qg2 Qxg2+ 21.Kxg2 dxe5
+22.Rxe5 Rfe8 23.Rfe1 Rxe5 24.Rxe5 Kf8 25.Kf2 Rd8 26.Ke3 g6 27.Ng3 c6 28.Kd3 h5
+29.Re2 Rd5 30.Ne4 Rf5 31.Rf2 Ke7 32.Nc5 Bxc5 33.bxc5 Kd7 34.f4 a5 35.Ke4 Kc7
+36.c4 b6 37.cxb6+ Kxb6 38.Rg2 Rf6 39.Rg5 Re6+ 40.Re5 Rf6 41.h4 Ka6 42.c5 Kb7
+43.f5 Kc7 44.Kf4 Kd7 45.Kg5 Rxf5+ 46.Rxf5 gxf5 47.Kxf5 Ke7 48.Kg5 Ke6 49.Kxh5 Kd5
+50.Kg4 Kxd4 51.h5 Kxc5 52.h6 Kb4 53.h7 Kxa4 54.h8=Q Kb4 55.Qb2+  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "7"]
+[White "Bogoljubow, Efim"]
+[Black "Selezniev, Alexey Sergeevich"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2 Qe7 6.d3 Nf6 7.Nc3 Qxe2+ 8.Bxe2 c6
+9.Ne4 Be7 10.Bf4 d5 11.Nd6+ Bxd6 12.Bxd6 Bg4 13.h3 Bh5 14.Kd2 Nbd7 15.Rhe1 O-O-O
+16.b4 Rhe8 17.a4 Nb6 18.Bc5 Kb8 19.a5 Nbd7 20.Bd6+ Kc8 21.a6 Bxf3 22.axb7+ Kxb7
+23.Bxf3 Rxe1 24.Rxe1 Re8 25.Rxe8 Nxe8 26.Bf4 Nc7 27.c4 dxc4 28.dxc4 a6 29.Kc3 Ne6
+30.b5 axb5 31.cxb5 Nxf4 32.bxc6+ Kc7 33.cxd7 Kxd7  1/2-1/2
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "7"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Flamberg, Aleksander Dawidow"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nc6 4.Nf3 Nf6 5.Nc3 Bb4 6.O-O O-O 7.e5 Ng4 8.d4 d6
+9.exd6 Bxd6 10.h3 Ne3 11.Bxe3 fxe3 12.Nd5 Be6 13.Qe2 Re8 14.Qd3 Bxd5 15.Bxd5 Bh2+
+16.Kxh2 Qxd5 17.Rae1 Qe4 18.Qb3 Nxd4 19.Nxd4 Qxd4 20.Rxf7 Kh8 21.Qxb7 Qd6+
+22.Kg1 Qd2 23.Rff1 e2  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "7"]
+[White "Rabinovich, Ilya Leontievich"]
+[Black "Weinstein, S."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D34"]
+
+1.d4 d5 2.Nf3 c5 3.c4 e6 4.cxd5 exd5 5.Nc3 Nc6 6.g3 Be6 7.Bg2 Nf6 8.O-O Be7
+9.Bg5 Ne4 10.Bxe7 Qxe7 11.Rc1 Nxc3 12.Rxc3 c4 13.Ne5 Nxe5 14.dxe5 Qc5 15.e3 O-O
+16.Qd2 Rfd8 17.Rd1 Rd7 18.Qe2 b5 19.Rd4 Rad8 20.g4 b4 21.Rc1 Qa5 22.f4 g6
+23.Rf1 Rc7 24.f5 Bc8 25.Qf2 Qc5 26.Qh4 Qe7 27.Qxe7 Rxe7 28.Bxd5 Rde8 29.e6 fxe6
+30.Bxc4 gxf5 31.Rxf5 Kh8 32.Re5 Rc7 33.Kg2 Kg7 34.Rf4 Rd7 35.Kg3 Rb7 36.Ba6 Rb6
+37.Rg5+ Kh8 38.Bxc8 Rxc8 39.Rf7 Rg8 40.Rc5 a6 41.Rcc7 Rd8 42.Rxh7+ Kg8 43.h4 b3
+44.h5 bxa2 45.h6 a1=Q 46.Rcg7+ Kf8 47.Rh8+  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "8"]
+[White "Selezniev, Alexey Sergeevich"]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D00"]
+
+1.d4 d5 2.c3 Nf6 3.Bf4 Bf5 4.Qb3 Qc8 5.e3 Nbd7 6.Nf3 e6 7.c4 c6 8.Nc3 Be7
+9.Rc1 O-O 10.h3 Ne4 11.Be2 Ndf6 12.O-O Bd6 13.Bxd6 Nxd6 14.Rfd1 Nfe4 15.Nxe4 Bxe4
+16.Nd2 Bg6 17.Bf3 Qd7 18.Qc3 f5 19.Rf1 Qe7 20.c5 Ne4 21.Bxe4 fxe4 22.f3 exf3
+23.Nxf3 Be4 24.Kh2 Rf5 25.Ne5 Raf8 26.Rxf5 Rxf5 27.Qe1 h5 28.Rd1 Qf6 29.Rd2 Rf1
+30.Qe2 Qf5 31.a3 Rc1 32.Rd1 Rc2 33.Rd2 Rc1 34.Rd1 Rc2 35.Rd2 Rc1 36.Rd1 Rc2
+37.Rd2 Rxd2 38.Qxd2 Qf1 39.h4 g6 40.Kg3 Kg7 41.Qf2 Qxf2+ 42.Kxf2 Bc2 43.g4 hxg4
+44.Nxg4 Bd1 45.Kg3 a6 46.Ne5 Bc2 47.Kf4 Bf5 48.b4 Kf6 49.a4 Bc2 50.a5 Bf5
+51.Nd7+ Ke7 52.Nb6 Kd8 53.Ke5 Kc7 54.Kf6 Kd8 55.Kf7 Bc2 56.Kxe6 Bf5+ 57.Kf7 Bc2
+58.Kf6 Bf5 59.h5  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "8"]
+[White "Weinstein, S."]
+[Black "Bogoljubow, Efim"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C64"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.O-O d6 5.d4 exd4 6.Nxd4 Bd7 7.Be3 Nf6 8.Nc3 Bb4
+9.Nd5 Nxd5 10.exd5 Ne7 11.Bxd7+ Qxd7 12.c4 O-O 13.Qd3 Bc5 14.Nc2 Bb6 15.Bd4 Nf5
+16.Qh3 Rad8 17.Bc3 c6 18.Rad1 Rfe8 19.Rfe1 Rxe1+ 20.Nxe1 f6 21.Qd3 Ne7 22.dxc6 bxc6
+23.b4 Qg4 24.Nf3 Ng6 25.Qf1 Nf4 26.c5 Bc7 27.Rd4 dxc5 28.Rxd8+ Bxd8 29.bxc5 Be7
+30.Bd4 Kf7 31.Be3 Nd5 32.Bd4 Qe4 33.Qd1 Nf4 34.Be3 Nd5 35.Bd4 Nf4 36.Be3 Ne6
+37.Qb3 Kg6 38.Nh4+ Kf7 39.Nf3 a5 40.Nd4 a4 41.Qc4 Qb1+ 42.Bc1 Qe4 43.Be3 f5
+44.g3 Bf6 45.Nxf5 Qxf5 46.Qxa4 Qd5 47.Qa7+ Kg6 48.a4 Nd4 49.Bxd4 Bxd4 50.Qe7 Qe5
+51.Qf8 Bxc5 52.Qf3 Qd5 53.Qg4+ Kf7 54.Qf4+ Ke6 55.h4 Qe5 56.Qc4+ Kd6 57.Qd3+ Kc7
+58.Kf1 h6 59.Qc2 Kb6 60.Qb3+ Ka6 61.Qd3+ Ka5 62.Qd8+ Kxa4 63.Qd1+ Kb5 64.Qd3+ Kb6
+65.Qb3+ Kc7 66.Qf7+ Qe7 67.Qf4+ Kb7 68.Qc4 Bb6  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "8"]
+[White "Flamberg, Aleksander Dawidow"]
+[Black "Rabinovich, Ilya Leontievich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B38"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7 6.Be3 d6 7.Nc3 Nf6 8.f3 Bd7
+9.Be2 Rc8 10.Qd2 Ne5 11.b3 Qa5 12.O-O a6 13.Rac1 h5 14.h3 Nc6 15.Bd3 h4 16.Qf2 Nh5
+17.Nd5 Nxd4 18.Bxd4 Bxd4 19.Qxd4 Qc5 20.Qxc5 dxc5 21.f4 e6 22.Ne3 Bc6 23.Ng4 Rd8
+24.Bb1 f6 25.f5 gxf5 26.exf5 e5 27.Ne3 Nf4 28.Bc2 Ke7 29.Kf2 Rhg8 30.Rfd1 Bxg2
+31.Rxd8 Nxh3+ 32.Ke1 Kxd8 33.Rd1+ Kc7 34.Rd2 Nf4 35.Nxg2 Rxg2 36.Rxg2 Nxg2+
+37.Kf2 Nf4 38.Be4 Nh5  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "9"]
+[White "Rabinovich, Ilya Leontievich"]
+[Black "Selezniev, Alexey Sergeevich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Be7 6.Bd3 Ngf6 7.O-O O-O 8.Qe2 b6
+9.Nxf6+ Nxf6 10.Bg5 Bb7 11.Rad1 Nd7 12.Bc1 Qe8 13.Rfe1 Bf6 14.Bf4 Qc8 15.Ne5 g6
+16.Bh6 Re8 17.Qg4 Nxe5 18.dxe5 Be7 19.h4 Bf8 20.Bg5 c5 21.h5 Qc7 22.Re3 Bc6
+23.Bf6 Bg7 24.Rh3 Bxf6 25.exf6 Rad8 26.Qg5  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "9"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Bogoljubow, Efim"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C64"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.O-O d6 5.d4 exd4 6.Nxd4 Bd7 7.Be3 Nf6 8.Nc3 O-O
+9.Nxc6 bxc6 10.Bxc5 cxb5 11.e5 dxc5 12.exf6 Bc6 13.fxg7 Re8 14.Qh5 Qf6 15.Rfe1 b4
+16.Nd5 Qxb2 17.Nxc7 Rxe1+ 18.Rxe1 Qc3 19.Qd1 Qxg7 20.Nd5 Kh8 21.Qh5 Rg8 22.g3 Qg5
+23.Qxg5 Rxg5 24.Ne7 Ba4 25.f4 Rh5 26.Re2 Rh6 27.Rd2 Re6 28.Rd8+ Kg7 29.Rg8+ Kf6
+30.Nd5+ Kf5 31.Rc8 Ke4 32.Rxc5 Kf3 33.Kf1 Re4 34.Nf6 Re2 35.Ng4 f6 36.Nxf6 Bxc2
+37.Rd5 Rxh2 38.Kg1 Rg2+ 39.Kf1 Rf2+ 40.Ke1 Re2+ 41.Kf1 Bb1 42.Rd4 a5 43.Ng4 Rxa2
+44.Ne5+ Kxg3 45.Nc4 h5 46.Ne3 Kf3  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "9"]
+[White "Flamberg, Aleksander Dawidow"]
+[Black "Weinstein, S."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Bc4 d5 7.exd5 Bg7 8.d4 Nh5
+9.O-O Qxh4 10.Qe1 Qxe1 11.Rxe1 O-O 12.Nc3 Nd7 13.Nb5 c5 14.dxc6 Nxe5 15.cxb7 Bxb7
+16.dxe5 Rad8 17.e6 fxe6 18.Bxe6+ Kh8 19.Bxg4 Rd5 20.Nc3 Rg5 21.Bh3 Bd4+ 22.Kh2 Be5
+23.Kh1 Rfg8 24.Bd2 Rg3 25.Kh2 Bxg2 26.Be6 R8g5 27.Ne2 Ng7 28.Nxg3 Nxe6 29.Kxg2  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "10"]
+[White "Weinstein, S."]
+[Black "Romanovsky, Peter Arsenievich"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C63"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.d3 Nf6 5.Nc3 Bb4 6.Bc4 Qe7 7.Bd2 Bxc3 8.Bxc3 fxe4
+9.dxe4 Nxe4 10.Qd5 Nxc3 11.bxc3 d6 12.Rb1 Nd8 13.O-O Be6 14.Qb5+ c6 15.Qb4 O-O
+16.Bxe6+ Qxe6 17.Rbd1 d5 18.Rfe1 e4 19.Nd4 Qf6 20.f3 b6 21.Qb3 Nb7 22.fxe4 Nc5
+23.Qb1 Nxe4 24.Rf1 Qg6 25.Rd3 c5 26.Nf3 Qf6 27.Nd2 Nxd2 28.Rxd2 Qxc3 29.Rxd5 Qe3+
+30.Kh1 Qe2 31.Rdd1 Rxf1+ 32.Rxf1 Rd8 33.Re1 Qc4 34.h3 h6 35.Re7 Rd2 36.Rxa7 Rxc2
+37.Ra8+ Kh7 38.Ra3 b5 39.Rg3 b4 40.a3 h5 41.axb4 cxb4 42.Kh2 Kh6 43.Qd1 Qc7
+44.Qd5 Rc3 45.Qg5+ Kh7 46.Qxh5+ Kg8 47.Qe8+ Kh7 48.Qg6+ Kh8 49.Qe8+  1/2-1/2
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "10"]
+[White "Bogoljubow, Efim"]
+[Black "Rabinovich, Ilya Leontievich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D34"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5 exd5 6.g3 Be6 7.Bg2 Be7 8.O-O Nc6
+9.dxc5 Bxc5 10.b3 O-O 11.Bb2 Qe7 12.e3 Rfd8 13.Nb5 Ne4 14.Nfd4 Rac8 15.Rc1 Ne5
+16.Nxe6 Qxe6 17.Nd4 Qa6 18.Ba1 Bf8 19.Rxc8 Rxc8 20.Nf5 Qe6 21.Bxe5 Qxf5 22.Qxd5 Nc5
+23.Bd4 Qxd5 24.Bxd5 b6 25.Rd1 Rc7 26.Kf1 Rd7 27.Bf3 g6 28.Rc1 Ne6 29.Bf6 h5
+30.Rc8 Rd2 31.Be2 Kh7 32.Bc4 Bg7 33.Bxg7 Nxg7 34.Bxf7 Rxa2 35.Rc6  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "11"]
+[White "Flamberg, Aleksander Dawidow"]
+[Black "Bogoljubow, Efim"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Nc3 Qh4+ 4.Ke2 Nf6 5.Nf3 Qh5 6.d4 c6 7.Bxf4 d5 8.exd5 Bb4
+9.Kf2 O-O 10.Bd3 Bxc3 11.bxc3 Nxd5 12.Bd2 Be6 13.h3 Nb6 14.Re1 N8d7 15.Re4 Qd5
+16.Rh4 f5 17.c4 Nxc4 18.Bb4 Rfe8 19.Qb1 b5 20.a4 a5 21.Be1 Nf6 22.axb5 cxb5
+23.Bxc4 bxc4 24.Kg1 Ne4 25.Qa2 g5 26.Rh5 Bf7 27.Rh6 Bg6 28.h4 g4 29.Ng5 Kg7
+30.Rxg6+ hxg6 31.c3 Nxg5 32.hxg5 Re4 33.Bf2 f4  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "12"]
+[White "Selezniev, Alexey Sergeevich"]
+[Black "Bogoljubow, Efim"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nc6 4.Nf3 Nf6 5.O-O Nxe4 6.Re1 d5 7.Bxd5 Qxd5 8.Nc3 Qf5
+9.Nxe4 Be6 10.d4 O-O-O 11.c3 Be7 12.b4 g5 13.Qa4 a6 14.b5 axb5 15.Qc2 g4
+16.Nfd2 g3 17.h3 Qh5 18.Nf3 Bxh3 19.Bxf4 Rhg8 20.Nxg3 Qg4 21.Qe4 Bd6 22.Bxd6 Rxd6
+23.Qxg4+ Rxg4 24.Kf2 Rdg6 25.gxh3 Rxg3 26.h4 Rg2+ 27.Ke3 Na5 28.Rg1 Nc4+
+29.Kd3 f5 30.Rxg2 Rxg2 31.Rg1 Rxa2 32.Rg8+ Kd7 33.Ne5+ Nxe5+ 34.dxe5 Ra3
+35.Rg7+ Kc6 36.Kc2 Ra4 37.Rxh7 Re4 38.Rh6+ Kd5 39.Rh7 c6 40.h5 Rxe5 41.Rxb7 Kc4
+42.Rc7 Re2+ 43.Kd1 Re6 44.Rf7 Kxc3 45.Rxf5 b4 46.Rg5 b3 47.Rg3+ Kb2 48.Rg6 Re5
+49.h6 Rd5+ 50.Ke2 c5 51.Rc6 Ka3 52.Rc8 Rh5 53.Rc6 b2 54.Rb6 Rh1 55.h7 Rxh7
+56.Kd2 Rh1  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "12"]
+[White "Rabinovich, Ilya Leontievich"]
+[Black "Weinstein, S."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Qh4+ 5.Kf1 Ne7 6.Nf3 Qh5 7.Nc3 g5 8.h4 h6
+9.Bxf7+ Qxf7 10.Ne5 Qf6 11.Qh5+ Kd8 12.Nf7+ Kd7 13.Nxh8 Bg7 14.Nf7 Ng6 15.Nxh6 Nxh4
+16.Qf7+ Kd8 17.Nd5  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "12"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Flamberg, Aleksander Dawidow"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nc6 4.Nf3 Nf6 5.Nc3 Bb4 6.e5 Ng4 7.Nd5 O-O 8.Nxb4 Nxb4
+9.c3 Nc6 10.d4 d6 11.Bxf4 dxe5 12.dxe5 Qe7 13.Qe2 Be6 14.Bd3 Bd5 15.Ng5 Ncxe5
+16.O-O-O Nxd3+ 17.Qxd3 Nf6 18.Rhe1 Qc5 19.Be5 Bc4 20.Qh3 h6 21.Bxf6 hxg5
+22.Be7 Qa5 23.Bxf8 Rxf8 24.a3 Qa4 25.Qd7 Qb3 26.Qxc7 Qa2 27.Qxb7 Bb3 28.Qe4 Bxd1
+29.Rxd1 Rb8 30.Rd2 g6 31.c4 Rc8 32.Rd4 Kh7 33.Qd3 Re8 34.Rd7 Kg7 35.Kc2 Qa1
+36.Qf3 Rf8 37.Rd1  1-0
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "13"]
+[White "Flamberg, Aleksander Dawidow"]
+[Black "Rabinovich, Ilya Leontievich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Nc3 Qh4+ 4.Ke2 Ne7 5.Nf3 Qh5 6.d4 g5 7.Kf2 g4 8.Ne1 Bh6
+9.Nd3 f3 10.g3 d6 11.Nf4 Bxf4 12.Bxf4 Bd7 13.h3 Nbc6 14.Bc4 gxh3 15.Nd5 O-O-O
+16.Nxe7+ Nxe7 17.Qxf3 Qxf3+ 18.Kxf3 f5 19.e5 Bc6+ 20.Ke3 Bxh1 21.Rxh1 dxe5
+22.Bxe5 Rhe8 23.Bd3 Nc6 24.Bxf5+ Kb8 25.Kf4 Nxd4 26.Bd3 Ne6+ 27.Kf5 Rd5 28.Kf6 Nc5
+29.Bc3 Re6+ 30.Kf7 Rd7+ 31.Kf8 Rde7 32.Bf5 Nd7+ 33.Kg8 Rd6 34.Rxh3 Nf6+ 35.Kf8 Nd5  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "13"]
+[White "Bogoljubow, Efim"]
+[Black "Weinstein, S."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Qe2 Bc5 5.Nf3 Nc6 6.b4 Bxb4 7.c3 Ba5 8.Ba3 d6
+9.e5 O-O 10.O-O Re8 11.d4 Bb6 12.Kh1 Ng4 13.Qe4 d5 14.Bxd5 Nf6 15.Bxf7+ Kxf7
+16.Qxf4 Kg8 17.exf6 Qxf6 18.Qxf6 gxf6 19.Nbd2 Bg4 20.Rae1 Ba5 21.Bb2 Rxe1
+22.Rxe1 Bxf3 23.Nxf3 Kf7 24.Kg1 Ne7 25.Re4 Nd5 26.c4 Bc3 27.Bc1 Nb6 28.Rh4 Kg6
+29.Rh3 Kg7 30.Kf1 Nxc4 31.Nh4 Bd2 32.Bxd2 Nxd2+ 33.Ke2 Ne4 34.Nf5+ Kf7 35.g4 Rh8
+36.Ra3 Ra8 37.Rb3 Rb8 38.Ke3 Re8 39.Kf4 b6 40.h4 Re6 41.Re3 Nd6 42.Nh6+ Ke7
+43.Ng8+ Kf7 44.Nh6+ Ke7 45.Ng8+ Kf7 46.Nh6+ Ke7 47.Ng8+ Kd7 48.d5 Rxe3 49.Kxe3 Ne8
+50.Ke4 Kd6 51.Kf5 Kxd5 52.Nxf6+ Nxf6 53.Kxf6 c5 54.g5 c4 55.h5 c3 56.g6 hxg6
+57.hxg6 c2 58.g7 c1=Q 59.g8=Q+ Kd4 60.Qd8+ Ke4  1/2-1/2
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "14"]
+[White "Selezniev, Alexey Sergeevich"]
+[Black "Rabinovich, Ilya Leontievich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Qh4+ 5.Kf1 g5 6.d4 Ne7 7.Nf3 Qh5 8.Nc3 Bg7
+9.h4 h6 10.Kg1 g4 11.Ne1 f3 12.gxf3 gxf3 13.Nxf3 Bg4 14.Kf2 Nbc6 15.Be3 O-O-O
+16.Bxc6 Nxc6 17.Nd5 f5 18.Nf4 Qe8 19.exf5 Nxd4 20.Qg1 Bxf3 21.Qxg7 Nxf5 22.Qc3 Bxh1
+23.Rxh1 Rf8 24.Rh3 Qe4  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "14"]
+[White "Romanovsky, Peter Arsenievich"]
+[Black "Bogoljubow, Efim"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C33"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3 Nc6 5.Nf3 Bb4 6.O-O O-O 7.d3 Bxc3 8.bxc3 d5
+9.exd5 Nxd5 10.Bxd5 Qxd5 11.Bxf4 Qc5+ 12.Kh1 Qxc3 13.Bxc7 Bg4 14.Rb1 b6 15.Qc1 Be6
+16.a3 Rac8 17.Bg3 Ne7 18.Rf2 Ng6 19.Ng5 Bd5 20.Nh3 Rfe8 21.Nf4 Ba2 22.Ra1 Bb3
+23.Qf1 Nxf4 24.cxb3 Nxd3 25.Rf3 Qxa1 26.Qxa1 Rc1+ 27.Qxc1 Nxc1 28.Rc3 Ne2
+29.Rc7 Rd8 30.Be1 f6 31.Re7 Nc1 32.Bf2 Kf8 33.Re3 Rd3 34.b4 Rxe3 35.Bxe3 Ne2
+36.a4 Nc3 37.a5 Nd5 38.Bd4 Ke7 39.axb6 axb6 40.g4 b5 41.Kg2 Ke6 42.Bc5 Nf4+
+43.Kf3 Nd3 44.Bf8 g5 45.Ke4 Ne5 46.h3 Nd7 47.Bh6 Kf7 48.Kd5 Kg6 49.Ke6 Kxh6
+50.Kxd7 Kg7 51.Kc6 f5 52.gxf5 h5 53.Kd5 Kf6 54.Ke4 h4 55.Ke3 Kxf5 56.Kf3 g4+  0-1
+
+[Event "Triberg"]
+[Site "Triberg"]
+[Date "1915.??.??"]
+[Round "15"]
+[White "Bogoljubow, Efim"]
+[Black "Rabinovich, Ilya Leontievich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6 5.d4 Bd7 6.Nc3 Be7 7.Re1 exd4 8.Nxd4 O-O
+9.Bf1 Re8 10.Nde2 h6 11.Ng3 Bf8 12.h3 Ne5 13.Be3 c6 14.Qd2 Qc7 15.f4 Ng6
+16.Rad1 b5 17.Bd3 b4 18.Nce2 c5 19.f5 Ne5 20.Nf4 Bc6 21.Nfh5 Qd8 22.Nxf6+ Qxf6
+23.b3 Qh4 24.Bf2 Rad8 25.c4 Nxd3 26.Qxd3 Be7 27.Qf3 Qf6 28.Nh5 Qb2 29.Re2 Qc3
+30.Qg4 Bg5 31.Be1 Qe5 32.Bg3 Qe7 33.h4 Bf6 34.Rde1 Bd4+ 35.Kh1 f6 36.Nf4 Be5
+37.Ne6 Ra8 38.Bxe5 dxe5 39.Rd1 Rec8 40.Re3 Kh8 41.Rd6 a5 42.Qd1 Ra7 43.Nxc5 Be8
+44.Ne6 Bf7 45.Nd8 Bh5 46.Qd5  1-0

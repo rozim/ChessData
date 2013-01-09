@@ -1,0 +1,783 @@
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "1"]
+[White "Lombardy, William James"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A05"]
+
+1.Nf3 Nf6 2.c4 g6 3.b3 Bg7 4.Bb2 O-O 5.g3 d6 6.Bg2 e5 7.O-O Nc6 8.Nc3 Nh5
+9.e3 f5 10.d3 g5 11.Ne1 g4 12.f3 Nf6 13.f4 Ne7 14.Qd2 Ng6 15.Nd5 Ne8 16.Rd1 c6
+17.Nc3 exf4 18.exf4 h5 19.Nc2 h4 20.Rfe1 Nf6 21.Ne2 Bd7 22.Bd4 Rf7 23.Bf2 h3
+24.Bh1 Qc7 25.Nc3 a6 26.Nd4 Nf8 27.b4 Rd8 28.Nb3 Re8 29.Rxe8 Bxe8 30.a4 Kh7
+31.Ne2 Re7 32.a5 Kg6 33.Nc3 Bf7 34.Re1 Rd7 35.Qc2 d5 36.Bb6 Qc8 37.Ne2 dxc4
+38.dxc4 Re7 39.Bc5 Re8 40.Bf2 Ne4 41.Bd4 Bxd4+ 42.Nexd4 Nd6 43.Re5 Rxe5 44.fxe5 Qe8
+45.Qe2 Bxc4 46.Qe3 Bxb3 47.Nxb3 Nc4 48.Qe2 Nxe5 49.Nc5 Qe7 50.Nxb7 Nfd7 51.Qd2 Nc4
+52.Qc3 Qe2 53.Bxc6 Nd2 54.Qc1 Ne5  0-1
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "1"]
+[White "Forintos, Gyozo V"]
+[Black "Larsen, Bent"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 c6 8.Be2 b5
+9.Qb3 Qa5 10.Bd2 b4 11.Na4 Nxe4 12.Bxb4 Qc7 13.O-O Na6 14.Ba3 Rb8 15.Qc2 Nd6
+16.Rac1 Bh6 17.Rcd1 Bf5 18.Bd3 Bxd3 19.Rxd3 Nb4 20.Bxb4 Rxb4 21.a3 Rc4 22.Nc3 c5
+23.b3 Rxd4 24.Nd5 Rxd5 25.Rxd5 Rc8 26.Rfd1 a5 27.h4 a4 28.b4 cxb4 29.Qxc7 Rxc7
+30.axb4 Rc2 31.Ra1 Ne4 32.Rxa4 Rc1+ 33.Kh2 Nxf2 34.Ng5 Ng4+ 35.Kg3 Ne3 36.Rd3 Nf5+
+37.Kf2 Rc2+ 38.Kf1 Nxh4 39.Nf3 Nxg2 40.Ne1 Nxe1 41.Kxe1 Rb2 42.Kd1 Kg7 43.Rda3 Bf4
+44.Ra2 Rb1+ 45.Kc2 Rc1+ 46.Kd3 Rd1+ 47.Kc2 Rd8 48.b5 Bg3 49.Ra8 Rd6 50.R8a6 Rd5
+51.b6 h5 52.R2a5 Rxa5 53.Rxa5 f5 54.b7 h4 55.Ra3 Bb8 56.Kd1 g5 57.Ke2 g4
+58.Ra8 Bh2 59.Kf1 h3 60.Ra2  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "1"]
+[White "Geller, Efim P"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D16"]
+
+1.c4 Nf6 2.Nf3 c6 3.d4 d5 4.Nc3 dxc4 5.a4 Na6 6.Ne5 Ng4 7.Nxc4 e5 8.Nxe5 Nxe5
+9.dxe5 Qxd1+ 10.Nxd1 Nc5 11.Nc3 Bf5  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "1"]
+[White "Gligoric, Svetozar"]
+[Black "Matanovic, Aleksandar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.Nxe5 Nxe5
+9.dxe5 c6 10.Be3 Be7 11.Nd2 Nxd2 12.Qxd2 O-O 13.Qc3 Bb7 14.Bc5 Re8 15.f4 Bxc5+
+16.Qxc5 Qe7 17.Qxe7 Rxe7 18.Rae1 Rae8  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "1"]
+[White "Mazzoni, Guy"]
+[Black "Bergraser, Volf"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B14"]
+
+1.e4 d5 2.exd5 Nf6 3.c4 c6 4.d4 cxd5 5.Nc3 e6 6.Bg5 Be7 7.Nf3 Nc6 8.cxd5 Nxd5
+9.Bxe7 Ncxe7 10.Bd3 Ng6 11.O-O O-O 12.Re1 Nxc3 13.bxc3 Bd7 14.Be4 Rc8  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "2"]
+[White "Fischer, Robert James"]
+[Black "Forintos, Gyozo V"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Nb8 10.d4 Nbd7 11.Nh4 exd4 12.cxd4 Nb6 13.Nd2 Nfd5 14.Nhf3 Nb4 15.d5 c5
+16.dxc6 Nxc6 17.Nf1 Bf6 18.Be3 Na5 19.Bd4 Bb7 20.Ng3 Nbc4 21.Bxc4 Nxc4 22.Nh5 Ne5
+23.Nxe5 dxe5 24.Bc5 Qxd1 25.Raxd1 Rfd8 26.Nxf6+ gxf6 27.Rxd8+ Rxd8 28.Be7 Rd4
+29.Re3 Bxe4 30.Bxf6 Kf8 31.a3 Bc6 32.Rxe5 Rd5 33.Re3 Rf5 34.Be5 h5 35.f3 a5
+36.Kf2 a4 37.g4 hxg4 38.hxg4 Rg5 39.Bf6 Rd5 40.f4 Rd2+ 41.Kg3 Rg2+ 42.Kh4 Rd2
+43.f5 Bd5 44.Kg5 Rd1 45.Rc3 Re1 46.Rh3 Ke8 47.Rd3  1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "2"]
+[White "Larsen, Bent"]
+[Black "Mazzoni, Guy"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E35"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5 6.a3 Bxc3+ 7.bxc3 h6 8.e3 O-O
+9.Nf3 c5 10.Bd3 Nc6 11.dxc5 Re8 12.O-O Ne4 13.c4 Bg4 14.Nd4 Ne5 15.c6 bxc6
+16.f3 Nxd3 17.Qxd3 Nc5 18.Qc2 Be6 19.Rd1 Rc8 20.Rb1 Qh4 21.Bd2 dxc4 22.Nxe6 Nxe6
+23.Be1 Qg5 24.Bf2 Qa5 25.a4 Qa6 26.Rb4 Red8 27.Rxd8+ Rxd8 28.h4 c5 29.Rxc4 Rd1+
+30.Qxd1 Qxc4 31.Qd7 a6 32.Qe8+ Nf8 33.e4 Qe6 34.Qb8 Qe7 35.Qc8 Kh7 36.Bxc5 Qxh4
+37.Bxf8 Qe1+ 38.Kh2 Qh4+ 39.Qh3 Qd8 40.Ba3 Qb8+ 41.Qg3 Qb3 42.Bf8  1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "2"]
+[White "Matanovic, Aleksandar"]
+[Black "Geller, Efim P"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C85"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Bxc6 dxc6 7.d3 Nd7 8.Nbd2 O-O
+9.Nc4 f6 10.Nh4 Nc5 11.Nf5 Bxf5 12.exf5 Qd5 13.b3 Rad8 14.Bb2 Rfe8 15.Qg4 Nd7
+16.Rad1 Bc5 17.Bc1 Bd4 18.Bd2 b5 19.Ne3 Qc5 20.b4 Qe7 21.Qe4 Qd6 22.c3 Bxe3
+23.Bxe3 c5 24.a3 cxb4 25.axb4 Nb6 26.Bc5 Qd5 27.Bxb6 Qxe4  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "2"]
+[White "Smyslov, Vassily"]
+[Black "Lombardy, William James"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A53"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 g6 4.Bg5 h6 5.Bh4 g5 6.Bg3 Nh5 7.e3 Nxg3 8.hxg3 e6
+9.g4 Bg7 10.Bd3 Nc6 11.Nge2 Bd7 12.Ng3 Rf8 13.a3 Ne7 14.Qf3 Bc6 15.d5 Bd7
+16.Nh5 Be5 17.Nf6+ Bxf6 18.Qxf6 Ng8 19.Qf3 Qf6 20.Bh7 Qxf3 21.gxf3 Nf6 22.Be4 Rh8
+23.O-O-O Nxe4 24.Nxe4 Ke7 25.Rh2 f5 26.dxe6 Bxe6 27.gxf5 Bxf5 28.Rdh1 Bxe4  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "3"]
+[White "Bergraser, Volf"]
+[Black "Larsen, Bent"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A80"]
+
+1.d4 f5 2.Bg5 g6 3.Nd2 Bg7 4.e3 Nf6 5.Ngf3 d6 6.Bc4 Nc6 7.c3 a6 8.h4 Ne4
+9.Bd5 Nxd2 10.Qxd2 h6 11.Bf4 Bd7 12.Bxc6 Bxc6 13.d5 Bd7 14.Nd4 c6 15.c4 Qb6
+16.O-O Bf6 17.Nf3 Kf7 18.Rac1 cxd5 19.cxd5 Rag8 20.Rc2 g5 21.Bg3 Rc8 22.Rfc1 Rxc2
+23.Rxc2 Rc8 24.Rxc8 Bxc8 25.Qc1 Bd7 26.b3 Qa5 27.hxg5 hxg5 28.e4 Ke8 29.Qd2 Qxd2
+30.Nxd2 Bc3 31.Nf3 f4 32.Bh2 g4 33.Nh4 Be5 34.Ng6 g3 35.Nxe5 gxh2+ 36.Kxh2 dxe5
+37.g3 f3  0-1
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "3"]
+[White "Forintos, Gyozo V"]
+[Black "Smyslov, Vassily"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E25"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 d5 5.a3 Bxc3+ 6.bxc3 c5 7.cxd5 Nxd5 8.dxc5 Qa5
+9.e4 Ne7 10.Ne2 O-O 11.Qd6 Nbc6 12.Be3 Rd8 13.Qg3 e5 14.Bg5 Rd3 15.h4 Kf8
+16.h5 h6 17.Bxe7+ Nxe7 18.Qxe5 Nc6 19.Qh2 Qxc5 20.Qg1 Qa5 21.Kf2 Be6 22.Qh2 Qc5+
+23.Kg3 Qg5+ 24.Kf2 Qe3+ 25.Kg3 Ne5 26.Qh4 Ng4 27.Nd4 Rxd4 28.cxd4 Qf2+ 29.Kf4 Qd2+
+30.Kg3 Qf2+ 31.Kf4 Qxd4 32.fxg4 Qxa1 33.Ba6 Qc3 34.Be2 Qxa3 35.Rd1 Qe7 36.Qxe7+ Kxe7
+37.Rb1 b6 38.g5 hxg5+ 39.Kxg5 a5 40.Rxb6 a4 41.e5 a3 42.Rb7+ Kf8 43.Rb1 a2
+44.Ra1 Ra4 45.h6 gxh6+ 46.Kxh6 Re4 47.Bf3 Rb4  0-1
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "3"]
+[White "Lombardy, William James"]
+[Black "Matanovic, Aleksandar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.d3 exf4 5.Bxf4 Bb4 6.exd5 Nxd5 7.Bd2 Bxc3 8.bxc3 O-O
+9.Nf3 Nc6 10.Be2 Qe7 11.c4 Ne3 12.Bxe3 Qxe3 13.Qd2 Qb6  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "3"]
+[White "Mazzoni, Guy"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B97"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2
+9.Rb1 Qa3 10.e5 dxe5 11.fxe5 Nfd7 12.Bc4 Qa5 13.Nxe6 fxe6 14.Bxe6 Qxe5+ 15.Qe3 Qxe3+
+16.Bxe3 Nc6 17.Nd5 Bd6 18.O-O Nf6 19.Nxf6+ gxf6 20.Rxf6 Ke7 21.Bxc8 Kxf6
+22.Bxb7 Ne5 23.Bxa8 Rxa8 24.Rb7 Rc8 25.Ra7 Rc6 26.Bd4 Kf5 27.c3 Rxc3 28.Rxa6 Rc1+
+29.Kf2 Ng4+ 30.Ke2 Bxh2 31.Kd3 Rd1+ 32.Kc4 Rd2 33.a4 Rxg2 34.Ra8 Ke4 35.Re8+ Ne5+
+36.Bxe5 Bxe5 37.a5 Rc2+ 38.Kb5 Kd5 39.Rd8+ Bd6 40.Rh8 Rc7 41.Kb6 Rd7 42.Rc8 Be5
+43.Rc5+ Ke4 44.Rc4+ Bd4+ 45.Kb5 h5  0-1
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "4"]
+[White "Gligoric, Svetozar"]
+[Black "Geller, Efim P"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E94"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3 Nbd7 8.O-O Re8
+9.d5 Ng4 10.Bg5 f6 11.Bh4 Nf8 12.Nd2 Nh6 13.f3 Nf7 14.b4 Bh6 15.Nb3 Be3+
+16.Kh1 h5 17.c5 Nh7 18.Bb5 Rf8 19.Qe2 Bh6 20.c6 b6 21.Ba6 Bxa6 22.Qxa6 Qc8
+23.Qe2 a6 24.b5 a5 25.Nd2 Bxd2  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "4"]
+[White "Fischer, Robert James"]
+[Black "Bergraser, Volf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Nf6 3.Bb5+ Bd7 4.Bc4 Bg4 5.f3 Bf5 6.g4 Bc8 7.Nc3 Nbd7 8.g5 Nb6
+9.Bb5+ Nfd7 10.f4 Nxd5 11.Nxd5 c6 12.Bc4 cxd5 13.Bxd5 Ne5 14.Be4 Bg4 15.Nf3 Nc6
+16.d4 e6 17.c3 Qc7 18.Qa4 f6 19.Rg1 Bxf3 20.Bxf3 O-O-O 21.Qc4 Kb8 22.Be3 Bd6
+23.gxf6 gxf6 24.Bxc6 bxc6 25.Rf1 e5 26.fxe5 fxe5 27.O-O-O Rhf8 28.Rxf8 Rxf8
+29.dxe5 Bxe5 30.Qb4+  1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "4"]
+[White "Matanovic, Aleksandar"]
+[Black "Forintos, Gyozo V"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B35"]
+
+1.e4 c5 2.Nf3 g6 3.d4 Bg7 4.Nc3 cxd4 5.Nxd4 Nc6 6.Be3 Nf6 7.Bc4 O-O 8.Bb3 Ng4
+9.Qxg4 Nxd4 10.Qd1 Nxb3 11.axb3 b6 12.O-O Bb7 13.Bd4 d6 14.Bxg7 Kxg7 15.Qd4+ Kg8
+16.Nd5 Bxd5 17.exd5 Qc7 18.c4 Qc5 19.Qh4 b5 20.Qxe7 bxc4 21.bxc4 Rfe8 22.Qf6 Qxc4
+23.Qxd6 Rad8 24.Qc6 Qxd5 25.Qxd5 Rxd5 26.Rxa7 Rb5  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "4"]
+[White "Smyslov, Vassily"]
+[Black "Mazzoni, Guy"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E61"]
+
+1.c4 Nf6 2.Nc3 g6 3.d4 Bg7 4.Bg5 d6 5.e3 O-O 6.Be2 c6 7.Nf3 a6 8.Nd2 b5 9.O-O Ra7
+10.a3 h6 11.Bh4 d5 12.cxd5 cxd5 13.Rc1 Nbd7 14.a4 b4 15.Ncb1 Re8 16.Qb3 Qa5
+17.Qa2 e5 18.Nb3 Qd8 19.N1d2 g5 20.Bg3 Ne4 21.Nxe4 dxe4 22.a5 Bb7 23.Qa4 Bd5
+24.Bc4 Bxc4 25.Rxc4 Bf8 26.dxe5 Qa8 27.Rfc1 Nxe5 28.Bxe5 Rxe5 29.Rc8 Qb7
+30.Nd4 Ra8 31.R8c6 Rd8 32.Rc7 Qb8 33.Qb3 Red5 34.g3 R8d7 35.Rc8 Qb7 36.Re8 Rd8
+37.Rxe4  1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "5"]
+[White "Bergraser, Volf"]
+[Black "Smyslov, Vassily"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E62"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.c4 O-O 5.Bg2 d6 6.O-O c6 7.Nc3 Qa5 8.e4 e5 9.dxe5 dxe5
+10.Qd6 Ne8 11.Qd2 Na6 12.b3 Bg4 13.Bb2 Nec7 14.Nb1 Qxd2 15.Nbxd2 Rfd8 16.h3 Be6
+17.Rfd1 f6 18.Nf1 Nb4 19.Ne3 Rxd1+ 20.Rxd1 Nxa2 21.Nc2 Bf8 22.g4 g5 23.Bf1 a5
+24.Ra1 Nb4 25.Nxb4 Bxb4 26.Ne1 b6 27.Nc2 Bc5 28.Bc3 Kf7 29.Be2 Ke7 30.Kg2 Bf7
+31.h4 gxh4 32.Rh1 Bg6 33.f3 Ke6  0-1
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "5"]
+[White "Larsen, Bent"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Nf3 e5 7.O-O Nc6 8.Be3 Re8
+9.dxe5 dxe5 10.Qxd8 Nxd8 11.Nb5 Ne6 12.Ng5 Re7 13.Rfd1 b6 14.c5 Nxc5 15.Rd8+ Bf8
+16.Nxa7 Rxa7 17.Rxc8 Kg7 18.f3 Ne8 19.a3 Nd6 20.Rd8 h6 21.Nh3 Ne6 22.Rb8 Re8
+23.Rxe8 Nxe8 24.Bb5 Nd6 25.Bf1 Nb7 26.Nf2 Bc5 27.Bxc5 Nbxc5 28.Rd1 h5 29.Rd5 Kf6
+30.h4 Ke7 31.Bc4 c6 32.Rd2 Nd4 33.Kf1 f5 34.b4 b5 35.Bg8 fxe4 36.fxe4 Nd7
+37.Rd3 Ra6 38.Rc3 c5 39.g4 c4 40.gxh5 gxh5 41.Bd5 Nf6 42.Rg3 Nxd5 43.exd5 Rf6
+44.Kg2 Nf5 45.Rh3 Rg6+ 46.Kf3 Nd4+ 47.Ke3 Rg2 48.Rh1 Kd6 49.Ne4+ Kxd5 50.Nc3+ Ke6
+51.Rc1 Rh2 52.a4 Rh3+ 53.Kf2 Nb3 54.Kg2 Nxc1 55.Kxh3 bxa4 56.Nxa4 Ne2 57.b5 c3
+58.b6 c2 59.Nc5+ Kd5 60.Nb3 Kc6 61.Kg2 Kxb6  0-1
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "5"]
+[White "Lombardy, William James"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A02"]
+
+1.f4 c5 2.Nf3 Nf6 3.c4 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O O-O 7.Nc3 d6 8.d3 Ne8
+9.Bd2 Nc7 10.Rb1 Rb8 11.Nd5 Bd7 12.Bc3 Nxd5 13.cxd5 Nd4 14.Nxd4 cxd4 15.Bb4 Qb6
+16.Qd2  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "5"]
+[White "Mazzoni, Guy"]
+[Black "Matanovic, Aleksandar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C16"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Qd7 5.Bd2 b6 6.Qg4 f5 7.Qg3 Nc6 8.Bb5 Bb7
+9.Nge2 a6 10.Bd3 Qf7 11.h4 Nge7 12.a3 Bxc3 13.Bxc3 a5 14.h5 h6 15.Nf4 Ba6
+16.Bxa6 Rxa6 17.Qd3 Ra8 18.Rh3 Kd7 19.Bd2 Kc8 20.Rc1 Rd8 21.Be3 a4 22.Bd2 Kb7
+23.Rg3  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "6"]
+[White "Geller, Efim P"]
+[Black "Lombardy, William James"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E62"]
+
+1.c4 g6 2.Nc3 Bg7 3.d4 d6 4.Nf3 Nf6 5.g3 O-O 6.Bg2 Nc6 7.O-O e5 8.d5 Ne7
+9.e4 c6 10.Ne1 cxd5 11.cxd5 Nd7 12.Nd3 f5 13.Qb3 b6 14.exf5 Ba6 15.Ne4 Nxf5
+16.Qa3 Bxd3 17.Qxd3 Nc5 18.Qd1 Nxe4 19.Bxe4 Qc8 20.Qd3 Rf7 21.Kg2 Qd7 22.Bd2 Raf8
+23.Rac1 Qa4 24.Qc4 Qd7 25.f3 Qd8 26.Qd3 Qf6 27.Rc6 Bh6 28.Bxh6 Nxh6 29.Qa3 Rd7
+30.Rfc1 Rff7 31.Rc8+ Kg7 32.Qd3 Nf5 33.h4 Rde7 34.Qd2 h6 35.Qd3 Rd7 36.R1c3 Rde7
+37.a4 Nd4 38.Qe3 Nf5 39.Qd2 Nd4 40.b4 Rd7 41.b5 Rde7 42.Qe3 Rd7 43.Bb1 Rd8
+44.Rxd8 Qxd8 45.Qe4 Nf5 46.Qg4 Qd7 47.h5 g5 48.Bxf5 Qxf5 49.Qxf5 Rxf5 50.Kh3 Rf7
+51.Kg4 Kf6 52.Rc8 Rd7 53.Re8 Kf7 54.Re6 Kg7 55.Rg6+ Kh7 56.Rf6 Kg7 57.Kf5 Rd8
+58.g4 Rd7 59.Rg6+ Kh7 60.Ke6  1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "6"]
+[White "Gligoric, Svetozar"]
+[Black "Forintos, Gyozo V"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D59"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Be7 4.Nf3 Nf6 5.Bg5 O-O 6.e3 h6 7.Bh4 b6 8.cxd5 Nxd5
+9.Bxe7 Qxe7 10.Nxd5 exd5 11.Rc1 Bb7 12.Qa4 Rc8 13.Be2 Nd7 14.O-O c5 15.Qa3 Kf8
+16.Ba6 Bxa6 17.Qxa6 Rc7 18.dxc5 bxc5 19.b4 c4 20.Qa5 Rac8 21.Rfd1 Nf6 22.Nd4 g6
+23.Nb5 Rd7 24.Nc3 Rcd8 25.Rd4 Kg7 26.h3 Qe6 27.Rcd1 h5 28.Qa4 Qf5 29.b5 g5
+30.e4 dxe4 31.Rxd7 Rxd7 32.Qxc4 e3 33.fxe3 Qe5 34.Rxd7 Qxe3+ 35.Kf1 Nxd7
+36.Ne2 Nf6 37.Qd4 Qa3 38.Qd2 Qc5 39.a4 Kg6 40.Qd3+ Kh6 41.Qd4 Qf5+ 42.Kg1 Qe6
+43.a5 Nd5 44.Qf2 h4 45.Nd4 Qe4 46.Nf5+ Kg6 47.Nd6 Qe6 48.Nc4 Nc7 49.Na3 Nd5
+50.Nc2 Qe4 51.Ne1 Nc3 52.b6 Ne2+ 53.Kh1 axb6 54.Qxb6+ f6 55.Nf3 Qf4 56.Qb1+ Kh6
+57.Qe1 Qc4 58.Qa1 Qa6 59.Qe1  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "6"]
+[White "Matanovic, Aleksandar"]
+[Black "Bergraser, Volf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Nf6 3.Bb5+ Bd7 4.Be2 Nxd5 5.d4 e6 6.Nf3 Bd6 7.O-O Nc6 8.Bg5 Be7
+9.Bd2 Bf6 10.c4 Nde7 11.Bc3 Ng6 12.Re1 O-O 13.Nbd2 Nce7 14.Ne4 Nf5 15.Nxf6+ Qxf6
+16.d5 Qd8 17.Bf1 Nfh4 18.Ne5 exd5 19.Qxd5 Bf5 20.Nxg6 hxg6 21.Qxb7 Qg5 22.Re3 Rae8
+23.Rg3 Qf4 24.Qxa7 Be4  1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "6"]
+[White "Smyslov, Vassily"]
+[Black "Larsen, Bent"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B08"]
+
+1.Nf3 g6 2.d4 Bg7 3.e4 d6 4.Be2 Nf6 5.Nc3 O-O 6.O-O Na6 7.Re1 c5 8.Bxa6 cxd4
+9.Bxb7 Bxb7 10.Nxd4 Rc8 11.Nb3 Rxc3 12.bxc3 Nxe4 13.Qd3 Nxc3 14.Bd2 Qc7 15.Nd4 Na4
+16.Rab1 Ba8 17.f3 Nc5 18.Qe3 e5 19.Nb5 Qd7 20.c4 e4 21.Bc3 exf3 22.gxf3 Qh3
+23.Bxg7 Bxf3 24.Qf2 Kxg7 25.Re3 Qf5 26.Rbe1 Nd3 27.Qxf3 Qxf3 28.Rxf3 Nxe1
+29.Rc3 d5 30.cxd5 Rb8 31.Nxa7 Rb2 32.a4 Rd2 33.Nc6 Nd3 34.a5 Rd1+ 35.Kg2 Nf4+
+36.Kf3 Nxd5 37.Ra3 Rc1 38.Nd4 Rd1 39.Ne2 Rf1+ 40.Kg2 Re1 41.Kf2 Rh1  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "7"]
+[White "Forintos, Gyozo V"]
+[Black "Geller, Efim P"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E37"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.a3 Bxc3+ 6.Qxc3 Ne4 7.Qc2 Nc6 8.Nf3 O-O
+9.e3 a5 10.b3  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "7"]
+[White "Fischer, Robert James"]
+[Black "Smyslov, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C69"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O f6 6.d4 Bg4 7.dxe5 Qxd1 8.Rxd1 fxe5
+9.Rd3 Bxf3 10.Rxf3 Nf6 11.Nc3 Bb4 12.Bg5 Bxc3 13.bxc3 Rf8 14.Bxf6 Rxf6 15.Rxf6 gxf6
+16.Rd1 Ke7 17.Rd3 Rf8 18.Kf1 a5 19.g4 Rg8 20.h3 b5 21.Ke2 Ke6 22.Kf3 Rb8
+23.Ke3 c5 24.c4 bxc4 25.Ra3 Rb5 26.Kd2 Kd6 27.Rf3 Ke6 28.Kc1 Rb8 29.Ra3 Rb5
+30.Rc3 Kd6 31.a3 Rb8 32.Rxc4 h5 33.f3 Kc6 34.Rc3 Rd8 35.Rd3 Rh8 36.Kd2 c4
+37.Re3 Kc5 38.Re2 hxg4 39.hxg4 Rh1 40.Rg2  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "7"]
+[White "Larsen, Bent"]
+[Black "Matanovic, Aleksandar"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Bg5 d6 6.Nf3 Nbd7 7.e3 e5 8.Be2 Re8
+9.O-O Bxc3 10.bxc3 b6 11.Nd2 Bb7 12.a4 a5 13.Rae1 h6 14.Bh4 Qe7 15.Bd1 Qf8
+16.Qf5 g6 17.Qb1 Bc6 18.f3 Qg7 19.Bc2 Rab8 20.Re2 Nh7 21.Be4 Bxe4 22.fxe4 f6
+23.Qb5 Qe7 24.Qc6 Rbc8 25.Ref2 Kg7 26.h3 h5 27.Qb5 Rf8 28.Nf3 c6 29.Qb1 Rfe8
+30.Nd2 Qe6 31.Qd1 d5 32.exd5 cxd5 33.cxd5 Qxd5 34.c4 Qc6 35.d5 Qc7 36.g4 g5
+37.Bg3 h4 38.Bh2 Nc5 39.Qc2 Qd7 40.Ra1 Rc7 41.Rff1 Nf8 42.Rab1 Rb7 43.Rb5 Reb8
+44.Ne4 Nxe4 45.Qxe4 Qe8 46.d6 Nd7 47.Rfb1 Qc8 48.Kg2 Nc5 49.Qd5 Nxa4 50.Bxe5 fxe5
+51.Qxe5+ Kg8 52.Qxg5+ Rg7 53.Qd5+ Kh8 54.Qd4 Qc6+ 55.Kg1 Qf3 56.Rg5 Qg3+
+57.Kf1 Rf8+ 58.Ke2 Qf3+ 59.Kd2 Qg2+ 60.Kd3 Nc5+ 61.Rxc5 bxc5 62.Qxc5 a4 63.Qh5+ Kg8
+64.Qe5 a3 65.Qe6+ Kh7 66.c5 a2 67.Ra1 Rf2 68.Qe4+ Qxe4+ 69.Kxe4 Rd2 70.Kf4 Ra7
+71.e4 Rc2 72.e5 Rxc5 73.e6 Ra4+ 74.Kf3 Re5  0-1
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "7"]
+[White "Mazzoni, Guy"]
+[Black "Gligoric, Svetozar"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 Be7 7.O-O O-O 8.Be3 Nc6
+9.f4 Bd7 10.Kh1 a6 11.Bf3 Qc7 12.Qe1 Rac8 13.Rd1 Nxd4 14.Bxd4 e5 15.fxe5 dxe5
+16.Be3 Be6 17.Qg3 Kh8 18.Be2 b5 19.Bd3 Rfd8 20.a3 Qb8 21.Ne2 Nd7 22.Ng1 Nc5
+23.Bxc5 Rxc5 24.Nf3 Bf6 25.Ng5 Bxg5 26.Qxg5 Re8 27.Rd2 Qc7 28.Rfd1 h6 29.Qh4 Qe7
+30.Qxe7 Rxe7 31.Be2 Kh7 32.Kg1 a5 33.c3 Rb7 34.Rd6 Bb3 35.R1d2 b4 36.cxb4 axb4
+37.Ra6 bxa3 38.bxa3 Bc2 39.Bf3 Rc4 40.Re2 Rb1+ 41.Kf2 Bd3 42.Rd2 Bxe4 43.Ra7 Bxf3  0-1
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "8"]
+[White "Gligoric, Svetozar"]
+[Black "Bergraser, Volf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A40"]
+
+1.d4  1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "8"]
+[White "Lombardy, William James"]
+[Black "Forintos, Gyozo V"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.d3 Qb6 6.Nc3 Bxc3 7.Bxc6 Bg7 8.Ba4 Nf6
+9.Bb3 O-O 10.h3 d6 11.c3 Bd7 12.Re1 Bc6 13.e5 dxe5 14.Nxe5 Rad8 15.Nxc6 Qxc6
+16.a4 h6 17.Bc4 e5 18.Rxe5 Ng4 19.Re1 Ne5 20.Bb5 Qd5 21.Bf4 Nxd3 22.Bxd3 Qxd3
+23.Qxd3 Rxd3 24.Re7 g5 25.Be3 b6 26.Rxa7 f5 27.Re1 f4 28.Bc1 Rf7 29.Ra8+ Rf8
+30.Rxf8+ Kxf8 31.Kf1 Rd7 32.g3 f3 33.Be3 Ra7 34.Ra1 Ke7 35.Ke1 Kd6 36.Kd2 Kc6
+37.Kd3 Rd7+ 38.Ke4 Ra7 39.Ra2 c4 40.Kxf3 Ra5 41.Ra1 Kc7  1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "8"]
+[White "Matanovic, Aleksandar"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B70"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 g6 7.Bg2 Bg7 8.O-O O-O
+9.Nde2 Nc6 10.h3 Bd7 11.Nf4 Rc8 12.Ncd5 Nxd5 13.Nxd5 Ne5 14.Bg5 Re8 15.b3 h6
+16.Be3 Be6 17.Nf4 Bd7 18.Nd5 Be6 19.Nf4 Bd7 20.Nd5 Bc6 21.Nb6 Rb8 22.Rc1 Nd7
+23.Nxd7 Qxd7 24.Qd2 Kh7 25.c4 b6 26.Rfe1 Qb7 27.Bd4 Bxd4 28.Qxd4 a5 29.h4 h5
+30.Bh3 Qc7 31.a3 Bb7 32.b4 axb4 33.axb4 Ra8 34.c5 bxc5 35.bxc5 Ra6 36.cxd6 Qxd6
+37.Qxd6 Rxd6 38.Rc7 Rb6 39.Bg2 Rb4 40.e5 Bxg2 41.Kxg2 Kg7 42.Kf3 Kf8 43.Rec1  1/2-1/2
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "9"]
+[White "Bergraser, Volf"]
+[Black "Geller, Efim P"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A40"]
+
+1.d4  0-1
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "9"]
+[White "Geller, Efim P"]
+[Black "Mazzoni, Guy"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A25"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.Rb1 a5 6.a3 d6 7.b4 axb4 8.axb4 Nge7
+9.d3 O-O 10.Nf3 Nd4 11.O-O c6 12.Ne1 f5 13.f4 Kh8 14.Kh1 Ng8 15.Bb2 Nf6 16.e3 Ne6
+17.Nc2 exf4 18.exf4 Bd7 19.Qd2 Nc7 20.Qf2 Be6 21.h3 Re8 22.Ra1 Rxa1 23.Rxa1 d5
+24.c5 Bf7 25.Ne2 Nb5 26.Be5 Nh5 27.Bxg7+ Kxg7 28.Ncd4 Qf6 29.Kh2 Nxd4 30.Nxd4 Qe7
+31.Ra7 Qc7 32.b5 cxb5 33.Nxb5 Qb8 34.Qd4+ Kh6 35.Nd6 Re7 36.g4  1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "9"]
+[White "Larsen, Bent"]
+[Black "Gligoric, Svetozar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E90"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 O-O 5.Bg5 d6 6.e4 Nbd7 7.h3 e5 8.d5 a5 9.Nd2 Nc5
+10.Be2 Bd7 11.b3 c6 12.a3 Qb6 13.Rb1 cxd5 14.cxd5 Rfc8 15.O-O Qc7 16.Rc1 Qb8
+17.a4 b6 18.Bc4 Ne8 19.Bb5 Ra7 20.Qf3 f6 21.Be3 Bxb5 22.Nxb5 Rf7 23.h4 f5
+24.h5 Nd7 25.hxg6 hxg6 26.Rxc8 Qxc8 27.Nc4 Qb8 28.Qh3 f4 29.Bc1 Nc5 30.Re1 Bf8
+31.Ba3 Qd8 32.Bxc5 bxc5 33.Kf1 f3 34.gxf3 Ng7 35.Qg4 Rf6 36.Ke2 Nh5 37.Rh1 Kh7
+38.Qh4 Bh6 39.Ne3 Qf8 40.Ng4 Rxf3 41.Nxh6 Kxh6 42.Nxd6 Rf4 43.Nf5+ Rxf5 44.exf5 Qxf5
+45.Qc4 e4 46.Ke1 Qf3 47.Rh2 Qg4 48.Rxh5+ gxh5 49.Qxc5 h4 50.Qf8+ Qg7 51.Qf4+ Kh5
+52.Qf5+ Qg5 53.Qh7+ Kg4 54.Qxe4+ Kh5 55.Kf1 Qf6 56.Kg2 Qg7+ 57.Kh3 Qc3+ 58.f3 Qc1
+59.Qxh4+ Kg6 60.Qc4 Qh1+ 61.Kg3 Qe1+ 62.Kg4 Qg1+ 63.Kf4 Qh2+ 64.Ke4 Kg5 65.d6 Qf4+
+66.Kd5 Qxf3+ 67.Kc5 Qf8 68.Qd5+ Kg4 69.Kb5 Qd8 70.d7  1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "9"]
+[White "Mazzoni, Guy"]
+[Black "Lombardy, William James"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E69"]
+
+1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 Nbd7 5.g3 g6 6.Bg2 Bg7 7.O-O O-O 8.e4 c6
+9.h3 Qb6 10.c5 dxc5 11.dxe5 Ne8 12.Bg5 Nc7 13.Na4 Qb5 14.Be7 Re8 15.Bd6 Ne6
+16.Re1 Qa5 17.b3 Qd8 18.Rc1 b6 19.Qc2 Ba6 20.Rcd1 Qc8 21.h4 Nef8 22.Bh3 Qb7
+23.Qc3 Bb5 24.Nb2 a5 25.a4 Ba6 26.Nd3 Ne6 27.Nf4 Nd4 28.Bxd7 Nxf3+ 29.Qxf3 Qxd7
+30.Bxc5 Qb7 31.Bd6 Bxe5 32.h5 Bg7 33.e5 g5 34.Ng2 Qc8 35.Ne3 Bb7 36.h6 Bxh6
+37.Nf5 Qe6 38.Qh5 Qxf5 39.Qxh6 Re6 40.Qh5 c5 41.Re3 Rae8 42.Rde1 Kg7 43.g4 Qf4
+44.Qh2 Rh6  0-1
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "9"]
+[White "Smyslov, Vassily"]
+[Black "Matanovic, Aleksandar"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A17"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.a3 Ba5 6.e3 d5 7.Na4 b6 8.Rb1 Na6
+9.cxd5 Nxd5 10.Bb5+ Kf8 11.O-O Bb7 12.d4 Rc8 13.dxc5 Nxc5 14.Nxc5 bxc5 15.Rd1 Qc7
+16.Bd2 Nf6 17.b4 Be4 18.Bd3 Bxf3 19.gxf3 cxb4 20.Qa4 Nd5 21.axb4 Bb6 22.Rbc1 Qb8
+23.Rxc8+ Qxc8 24.e4 Ne7 25.Ba6 Qc7 26.Be3 g5 27.Qd7 Nd5 28.Qxc7 Nxc7 29.Bb7 Bxe3
+30.fxe3 Ke7 31.Rc1 Kd7 32.Bc6+ Kc8 33.Ra1 a6 34.Rd1 Rf8 35.Rd7 Kb8 36.e5 Ka7
+37.Be4 Kb6 38.Kg2 h6 39.Kg3 f5 40.exf6 Rxf6 41.Kg4 Rf8 42.Rh7 Rd8 43.Rxh6 Kb5
+44.Rh7 Nd5 45.Rb7+ Kc6 46.Rg7 Kb5 47.Kxg5 Kxb4 48.h4 Nxe3 49.h5 Rf8 50.h6 Nf5
+51.Rb7+ Kc5 52.h7 Nd6 53.Rc7+ Kd4 54.Bg6 Nf5 55.Rf7  1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "10"]
+[White "Geller, Efim P"]
+[Black "Larsen, Bent"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B38"]
+
+1.Nf3 c5 2.c4 g6 3.d4 cxd4 4.Nxd4 Bg7 5.e4 Nc6 6.Be3 d6 7.Be2 Nh6 8.O-O O-O
+9.Qd2 Ng4 10.Bxg4 Bxg4 11.Nc3 Qa5 12.Rac1 Rfc8 13.b3 a6 14.Rc2 b5 15.Nd5 Qxd2
+16.Rxd2 Bxd4 17.Bxd4 Rab8 18.Rc1 Kf8 19.Bb2 bxc4 20.Rxc4 Ke8 21.Rdc2 Kd7
+22.f3 Be6 23.Rd2 a5 24.h4 Rb5 25.Ra4 f6 26.Kh2 Bxd5 27.Rxd5 Rxd5 28.exd5 Nb4
+29.Rxa5 Rc2 30.a3 Rxb2 31.axb4 Rxb3 32.Ra7+ Ke8 33.Ra8+ Kf7 34.Rb8 Rd3 35.Rb5 Rd4
+36.Kg3 g5 37.hxg5 fxg5 38.Kf2 Rd2+ 39.Kg3 h5 40.Kh3 Rd3 41.Kg3 Kf6 42.Kf2 Rd2+
+43.Kg3 Rd4 44.Kh3 g4+ 45.fxg4 Rxg4 46.Rb8 Rd4 47.Rb5 Re4 48.Rb8 Re5 49.Rb5 e6
+50.Rb8 Rxd5 51.b5 Rd4 52.Rh8 Rb4 53.Rh6+ Kf7 54.Rxh5 Kg6 55.g4 d5 56.Re5 Kf7
+57.Kh4 Rxb5 58.Re1 d4 59.Ra1 Kf6 60.Ra8 Rd5 61.Kg3 d3 62.Ra1 Ke5 63.Kf2 Kd4
+64.Ra7 e5 65.g5 e4 66.Ra4+ Ke5  0-1
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "10"]
+[White "Forintos, Gyozo V"]
+[Black "Mazzoni, Guy"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E68"]
+
+1.Nf3 Nf6 2.g3 g6 3.Bg2 Bg7 4.O-O O-O 5.d4 d6 6.c4 Nbd7 7.Qc2 e5 8.Rd1 Re8
+9.Nc3 c6 10.e4 Qc7 11.h3 exd4 12.Nxd4 a5 13.b3 Nc5 14.Bf4 Nfd7 15.Be3 Nb6
+16.Rab1 Bd7 17.Qc1 a4 18.Bf4 axb3 19.axb3 Be5 20.Bh6 Qb8 21.Be3 Qc7 22.Nce2 Bh8
+23.Qc2 Ra3 24.b4 Ne6 25.c5 dxc5 26.bxc5 Nc8 27.Nf3 Nf8 28.Nd2 Be6 29.Nf4 Ne7
+30.Nxe6 Nxe6 31.Nc4 Ra7 32.Qb3 h5 33.h4 Bf6 34.Nd6 Rea8 35.Nxf7 Kxf7 36.Rd6  1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "10"]
+[White "Gligoric, Svetozar"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E92"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3 Qe7 8.d5 Ne8
+9.h4 f5 10.h5 f4 11.Bd2 g5 12.h6 Bf6 13.Nh2 Kh8 14.Bg4 Bxg4 15.Nxg4 Nd7 16.Qf3 Rg8
+17.O-O-O Rg6 18.g3 c5 19.Rdg1 Nc7 20.Nd1 b5 21.Qe2 bxc4 22.Qxc4 Nb6 23.Qe2 Rag8
+24.f3 Qe8 25.Nc3 a6 26.Rg2 Bd8 27.Rhg1 Nd7 28.Qf1 Rf8 29.Rh2 Nf6 30.gxf4 gxf4
+31.Nxf6 Bxf6 32.Rxg6 hxg6 33.b3 Kh7 34.Nd1 Nb5 35.Nb2 Be7 36.Nc4 Qd7 37.Ba5 Nd4
+38.Bc3 Nb5 39.Bb2 Bd8 40.a4 Na7 41.Bc3 g5 42.Bxe5 dxe5 43.Nxe5 Qd6 44.Nc4 Qg6
+45.Rg2 Nc8 46.Qf2 Nd6 47.Qxc5 Be7 48.Qd4 Nxc4 49.bxc4 Qxh6 50.Kc2 Qh3 51.Qg1 Qd7
+52.Rh2+ Kg7 53.Kd3 Qxa4 54.Rc2 Rb8 55.Rc3 Rb3 56.Qd4+ Kg6 57.e5 Rxc3+  0-1
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "10"]
+[White "Lombardy, William James"]
+[Black "Bergraser, Volf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A40"]
+
+1.d4  1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "11"]
+[White "Bergraser, Volf"]
+[Black "Forintos, Gyozo V"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A40"]
+
+1.d4  0-1
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "11"]
+[White "Fischer, Robert James"]
+[Black "Geller, Efim P"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B97"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2
+9.Rb1 Qa3 10.f5 Nc6 11.fxe6 fxe6 12.Nxc6 bxc6 13.e5 Nd5 14.Nxd5 cxd5 15.Be2 dxe5
+16.O-O Bc5+ 17.Kh1 Rf8 18.c4 Rxf1+ 19.Rxf1 Bb7 20.Bg4 dxc4 21.Bxe6 Qd3 22.Qe1 Be4
+23.Bg4 Rb8 24.Bd1 Kd7 25.Rf7+ Ke6  0-1
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "11"]
+[White "Larsen, Bent"]
+[Black "Lombardy, William James"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D37"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.d4 Be7 5.Bf4 O-O 6.e3 c5 7.dxc5 Qa5 8.Rc1 Bxc5
+9.Nd2 Be7 10.Be2 Nc6 11.O-O Qd8 12.cxd5 Nxd5 13.Nxd5 exd5 14.Nb3 Qb6 15.Qxd5 Bf6
+16.Qe4 g6 17.Bd6 Bf5 18.Qf4 Rfe8 19.Bc5 Qd8 20.Rfd1 Qc8 21.Bd4 Re4 22.Qd6 Be7
+23.Qd5 Qe8 24.Bf3 Re6 25.Bc3 Bf8 26.Qb5 Ne5 27.Be2 Nc6 28.Qxb7 Rb8 29.Qc7 Nb4
+30.Nd4 Nd5 31.Qc4 Nxc3 32.bxc3 Rf6 33.Nxf5 Rxf5 34.Rb1 Rc8 35.Qb3 Bc5 36.c4 Rf6
+37.Bf3 Rb6 38.Qd3 Qf8 39.Rb3 Rcb8 40.h4 Qe7 41.h5 Rxb3 42.axb3 Qf6 43.Qc2 Rd8
+44.Rxd8+ Qxd8 45.g3 Qd6 46.Kg2 Kg7 47.Qc3+ Kg8 48.Qa1 Qb6 49.Bd5 Be7 50.Qa4 Kf8
+51.h6 a5 52.Qd7 Qc5 53.e4 Qb6 54.e5 Qd8 55.Qxd8+ Bxd8 56.c5 Be7 57.c6 Bd8
+58.f4 Ke8 59.Kf3 Ke7 60.Ke4 Bc7 61.g4 Bb8 62.g5 Bc7 63.Kd4  1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1967.??.??"]
+[Round "11"]
+[White "Smyslov, Vassily"]
+[Black "Gligoric, Svetozar"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 Nf6 2.Nf3 g6 3.Bf4 Bg7 4.h3 O-O 5.e3 d5 6.Nbd2 c5 7.c3 cxd4 8.cxd4 Nc6
+9.Be2 Qb6 10.Qb3  1/2-1/2

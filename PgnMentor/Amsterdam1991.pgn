@@ -1,0 +1,807 @@
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "1"]
+[White "Short, Nigel D"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[WhiteElo "2635"]
+[BlackElo "2630"]
+[ECO "C17"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Ba5 6.Qg4 Ne7 7.dxc5 Bxc3+ 8.bxc3 Qa5
+9.Bd2 Ng6 10.h4 h5 11.Qg5 Nd7 12.c4 Qa4 13.cxd5 Ndxe5 14.Be2 Qe4 15.O-O-O O-O
+16.Bc3 f6 17.Qd2 Qxg2 18.Nh3 exd5 19.Bxh5 Nc4 20.Qd4 Nge5 21.Nf4 Qe4 22.Qxd5+ Qxd5
+23.Nxd5 Kh7 24.Rhg1 Bf5 25.Ne7 Be4 26.Rd4 Bf3 27.Bg6+ Kh8 28.h5 Rad8 29.Rh4  1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "1"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Gurevich, Mikhail"]
+[Result "1-0"]
+[WhiteElo "2590"]
+[BlackElo "2650"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4 5.Nxe4 Be7 6.Bxf6 gxf6 7.Nf3 b6 8.Bc4 Bb7
+9.Qe2 Nd7 10.O-O-O c6 11.Rhe1 Qc7 12.Nc3 Nf8 13.Ba6 Bxa6 14.Qxa6 Ng6 15.Qc4 Qd7
+16.g3 h5 17.h4 b5 18.Qd3 Kf8 19.Nd2 Rd8 20.Nb3 Kg7 21.Kb1 Bb4 22.Qf3 f5 23.Nc5 Qc8
+24.a3 Ba5 25.b4 Bb6 26.Ne2 Bxc5 27.dxc5 e5 28.Rd6 Rxd6 29.cxd6 c5 30.Qd5 cxb4
+31.axb4 Qc4 32.Qxc4 bxc4 33.Kb2 Kf6 34.Kc3 Rd8 35.Rd1 Ke6 36.Kxc4 Rxd6 37.Rxd6+ Kxd6
+38.Nc3 Kc6 39.Nd5 f4 40.Nf6 fxg3 41.fxg3 Ne7 42.Nxh5 Nd5 43.Ng7 Nb6+ 44.Kb3 Kd5
+45.h5 e4 46.h6 e3 47.Nh5  1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "1"]
+[White "Kortschnoj, Viktor"]
+[Black "Salov, Valery"]
+[Result "0-1"]
+[WhiteElo "2615"]
+[BlackElo "2645"]
+[ECO "B10"]
+
+1.c4 c6 2.e4 d5 3.exd5 cxd5 4.cxd5 Nf6 5.Qa4+ Nbd7 6.Nc3 g6 7.g4 Bg7 8.g5 Nh5
+9.Nge2 O-O 10.Ng3 e6 11.Nxh5 gxh5 12.d4 Nb6 13.Qd1 exd5 14.Qxh5 Bf5 15.Be3 Re8
+16.Bb5 Re6 17.O-O Nc4 18.Bxc4 dxc4 19.d5 Rg6 20.f4 b5 21.Nxb5 Qe8  0-1
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "1"]
+[White "Van der Wiel, John TH"]
+[Black "Kasparov, Gary"]
+[Result "1/2-1/2"]
+[WhiteElo "2530"]
+[BlackElo "2800"]
+[ECO "B96"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qc7 8.Qf3 Nbd7
+9.O-O-O b5 10.e5 Bb7 11.Qh3 dxe5 12.Nxe6 fxe6 13.Qxe6+ Be7 14.Bxf6 gxf6 15.Be2 h5
+16.Nd5 Bxd5 17.Rxd5 Nc5 18.Qf5 Qc6 19.Qg6+ Kf8 20.Rhd1 Qe8 21.Qf5 Qc8 22.Qg6 Qe6
+23.Bxh5 Qg8 24.Rd8+ Rxd8  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "1"]
+[White "Hjartarson, Johann"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2725"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Nbd2 Bb7 6.Bg2 d5 7.cxd5 Bxd5 8.Qa4+ Qd7
+9.Qc2 Qc6 10.Qd3 Qb7 11.O-O c5 12.dxc5 Bxc5 13.a3 a5 14.Nh4 Bxg2 15.Nxg2 O-O
+16.Qf3 Qxf3 17.Nxf3 Nbd7 18.Be3 Rfc8 19.Rfd1 Kf8 20.Rac1 Ke7 21.Bd4  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "2"]
+[White "Timman, Jan H"]
+[Black "Hjartarson, Johann"]
+[Result "1-0"]
+[WhiteElo "2630"]
+[BlackElo "2535"]
+[ECO "A46"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.g3 Nf6 6.Bg2 Qc7 7.O-O Be7 8.Qe2 d6
+9.c4 Bd7 10.Nc3 Nc6 11.Nb3 Na5 12.Nxa5 Qxa5 13.e5 dxe5 14.Bxb7 Rb8 15.Bg2 O-O
+16.Be3 Rfc8 17.Ba7 Rb4 18.b3 Qc7 19.Be3 Bc6 20.Bxc6 Qxc6 21.Rfd1 Nd7 22.Na4 Rcb8
+23.Rac1 f5 24.Bd2 Rxa4 25.bxa4 Rb2 26.Rb1 Rxa2 27.Ra1 Rxa4 28.Rxa4 Qxa4 29.Bc3 e4
+30.Ra1 Qc6 31.Rb1 Bc5 32.Qh5 Nf8 33.Qg5 Qd7 34.Qd2 Qa7 35.Bb4 Qb6 36.Qe1 e3
+37.Bxc5 Qxc5 38.Qxe3 Qxc4 39.Rb8 Qd5 40.Qa3 Qd1+ 41.Kg2  1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "2"]
+[White "Salov, Valery"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1/2-1/2"]
+[WhiteElo "2645"]
+[BlackElo "2590"]
+[ECO "E12"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.a3 d5 6.cxd5 Nxd5 7.Qc2 Nxc3 8.Qxc3 Bd6
+9.Bg5 f6 10.Bh4 Nd7 11.e3 Qe7 12.Bb5 c6 13.Ba4 b5 14.Bb3 c5 15.O-O O-O 16.Rfd1 Kh8
+17.Bg3 c4 18.Bc2 f5 19.Bxd6 Qxd6 20.Ne5 a5 21.b3 cxb3 22.Bxb3 Rac8 23.Qxa5 Nxe5
+24.dxe5 Qxe5 25.Qb6 Bc6 26.Rac1 Bd7 27.Rxc8 Bxc8 28.h3 h6 29.Qd6 Qxd6 30.Rxd6 Kh7
+31.Kh2 Kg6 32.Bc2 Kf6 33.Bd3 Ke7 34.Rb6 Bd7 35.Bxb5 Bxb5 36.Rxb5 Ra8 37.Rb3 g5
+38.Kg3 Ra4 39.Kf3 h5 40.Ke2 h4 41.Kd3 Kf6 42.Kc2 Ra8 43.Kb2 Rd8 44.Rc3 Rd2+
+45.Rc2 Rd3 46.Rc3 Rd2+ 47.Rc2 Rd3 48.a4 g4 49.Rc3 Rd2+ 50.Rc2 Rd3 51.a5 Rd5
+52.a6 Ra5 53.Rc6 Ke7 54.Rb6 Kd7 55.Kb3 Ra1 56.Kb2 Ra5 57.Rb7+ Kc6 58.Re7 Kd6
+59.Ra7 Ke5 60.f3 gxf3 61.gxf3 f4 62.exf4+ Kxf4 63.Rf7+ Kg3 64.a7 Kxh3 65.Rg7 e5
+66.Kb3 Kh2 67.Kb4 Ra1 68.Kb5 h3 69.Kb6 Rb1+ 70.Kc6 Ra1 71.Kb7 Rb1+ 72.Kc8 Ra1
+73.Kb8 Rb1+ 74.Kc7 Ra1 75.Kd6 Ra5 76.Ke6 Kh1 77.Kf5 Kh2  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "2"]
+[White "Kasparov, Gary"]
+[Black "Gurevich, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo "2800"]
+[BlackElo "2650"]
+[ECO "A86"]
+
+1.c4 f5 2.d4 Nf6 3.g3 d6 4.Bg2 g6 5.Nc3 Bg7 6.d5 O-O 7.Nh3 c6 8.Nf4 e5 9.dxe6 Qe7
+10.O-O Bxe6 11.Nxe6 Qxe6 12.Bf4 Qxc4 13.Qxd6 Na6 14.Rfd1 Nh5 15.Bg5 Bf6 16.Bxf6 Nxf6
+17.Rac1 Qb4 18.Qxb4 Nxb4 19.a3 Na6 20.e4 fxe4 21.Nxe4 Nxe4 22.Bxe4 Rad8 23.h4 Nc7
+24.Bb1 Kg7 25.Ba2 Kf6 26.Kg2 Nb5 27.g4 h5 28.g5+ Kg7 29.Rxd8 Rxd8 30.Re1 Rd7
+31.Re8 Nd6 32.Rg8+ Kh7 33.Rb8 Kg7 34.Rg8+ Kh7 35.Rb8 Kg7 36.Bb1 Nc4 37.Re8 Nxb2
+38.Re6  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "2"]
+[White "Karpov, Anatoly"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2615"]
+[ECO "D45"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.e3 Nbd7 6.Qc2 Bd6 7.Be2 O-O 8.O-O e5
+9.cxd5 cxd5 10.Nb5 Bb8 11.dxe5 Nxe5 12.Bd2 Bg4 13.Nbd4 Ne4 14.Bb4 Re8 15.Rad1 Qb6
+16.Nxe5 Bxe2 17.Nxe2 Bxe5 18.Bc3 Qc7 19.h3 Qc4  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "2"]
+[White "Van der Wiel, John TH"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[WhiteElo "2530"]
+[BlackElo "2635"]
+[ECO "C75"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Bd7 6.c3 Nge7 7.d4 Ng6 8.d5 Nb8
+9.c4 Be7 10.Nc3 O-O 11.Bxd7 Nxd7 12.Qc2 Nh4 13.Nxh4 Bxh4 14.b4 Bg5 15.Rb1 Bxc1
+16.Rfxc1 Qe7 17.c5 dxc5 18.bxc5 Nxc5 19.Na4 Nxa4 20.Qxa4 Ra7 21.g3 Rd8 22.Rc3 h6
+23.Rbc1 c6 24.dxc6 bxc6 25.Rxc6 Rd4 26.R1c4  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "3"]
+[White "Hjartarson, Johann"]
+[Black "Van der Wiel, John TH"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2530"]
+[ECO "A37"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nh6 6.O-O Nf5 7.a3 O-O 8.Rb1 a5
+9.d3 d6 10.Bd2 Bd7 11.Ne1 Rb8 12.e3 Na7 13.a4 Nc6 14.Nb5 Nb4 15.Bc3 e5 16.b3 Qe7
+17.Ba1 Rbd8 18.Nc3 Bc6 19.Nd5 Nxd5 20.cxd5 Bd7 21.Bc3 Ra8 22.Qd2 Qd8 23.Ra1 Bh6  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "3"]
+[White "Short, Nigel D"]
+[Black "Kasparov, Gary"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2800"]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 Qc7 7.Be2 e6 8.Bf3 Nc6
+9.Be3 Be7 10.O-O O-O 11.Kh1 Bd7 12.g4 Nxd4 13.Bxd4 Bc6 14.g5 Nd7 15.Bg2 b5
+16.a3 a5 17.Qe2 Rab8 18.b4 Rfe8 19.Rad1 Bf8 20.Rd3 e5 21.Be3 exf4 22.Bxf4 Ne5
+23.Rh3 Bd7 24.Nd5 Qc4 25.Qxc4 Nxc4 26.Rd3 a4 27.h4 Rbc8 28.h5 Bg4 29.Bf3 Bxf3+
+30.Rdxf3 Rxe4 31.Nc3 d5 32.Nxb5 d4 33.Rd1 Ne5 34.Rff1 Rxc2 35.Nxd4 Rc4 36.Bxe5 Rxe5
+37.Nf3 Re8  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "3"]
+[White "Kortschnoj, Viktor"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[WhiteElo "2615"]
+[BlackElo "2630"]
+[ECO "D55"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Be7 4.Nf3 Nf6 5.Bg5 O-O 6.e3 h6 7.Bxf6 Bxf6 8.Qd2 a6
+9.O-O-O Nc6 10.e4 dxe4 11.Nxe4 b6 12.h4 Bb7 13.Qe3 Be7 14.Bd3 Qd7 15.Bb1 Rad8
+16.g4 f5 17.gxf5 exf5 18.Rhg1 Bd6 19.Nxd6 Qxd6 20.d5 Na5 21.Ne5 Rde8 22.f4 Re7
+23.Qc3  1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "3"]
+[White "Gurevich, Mikhail"]
+[Black "Salov, Valery"]
+[Result "1/2-1/2"]
+[WhiteElo "2650"]
+[BlackElo "2645"]
+[ECO "D12"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.cxd5 cxd5 6.Qb3 Qc7 7.Nc3 e6 8.Bd2 Nc6
+9.Nh4 Be4 10.f3 Bg6 11.Nxg6 hxg6 12.Bd3 a6 13.Rc1 Bd6 14.f4 Rc8 15.Qd1 Qe7
+16.Qf3 Bb4 17.a3 Bxc3 18.Bxc3 Rc7 19.O-O O-O 20.Rc2 b5 21.g4 Rfc8 22.Rg2 b4
+23.axb4 Nxb4 24.Bxb4 Qxb4 25.f5 Qb3 26.Bxa6 Ra8 27.fxg6 fxg6 28.g5 Ne4 29.Qf4 Re7
+30.Be2 Nd2 31.Bd1 Qd3 32.Be2 Qb3 33.Bd1 Qd3 34.Be2 Qb3 35.Bd1  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "3"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2725"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.Bc2 g6 13.d5 Nb8 14.b3 c6 15.c4 a5 16.dxc6 Bxc6
+17.cxb5 Bxb5 18.Nc4 Na6 19.Bg5 Nb4 20.Bb1 Bxc4 21.bxc4 h6 22.Be3 Qc7 23.a3 Na6
+24.Nd2 Nc5 25.Bc2 Reb8 26.Rb1 Qc6 27.Qf3 Bg7 28.Rec1 Nfd7 29.Qd1 Kh7 30.Rxb8 Rxb8
+31.Rb1 Rxb1 32.Qxb1 Bf6 33.Qb5 Qc7 34.Nb3 Nxb3 35.Bxb3 Bg5 36.Ba4 Bxe3 37.Qxd7 Qxd7
+38.Bxd7 Bc5 39.a4 h5 40.h4  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "4"]
+[White "Van der Wiel, John TH"]
+[Black "Kortschnoj, Viktor"]
+[Result "0-1"]
+[WhiteElo "2530"]
+[BlackElo "2615"]
+[ECO "C14"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.f4 O-O 8.Qd2 c5
+9.Nf3 Nc6 10.O-O-O Nb6 11.dxc5 Qxc5 12.Bd3 Bd7 13.Bxh7+ Kxh7 14.Ng5+ Kg8
+15.Qd3 Rfe8 16.Qh7+ Kf8 17.Rhe1 Qb4 18.Qh8+ Ke7 19.Qh4 Kd8 20.Nxe6+ Kc8 21.a3 Qe7
+22.Ng5 f6 23.e6 fxg5 24.exd7+ Qxd7 25.Qxg5 Rxe1 26.Rxe1 a6 27.f5 Kb8 28.Re6 Ka7
+29.Rg6 Re8 30.Rxg7 Re1+ 31.Nd1 Qe8 32.f6 Qe4 33.Qd2 Nc4 34.Qf2+ Ne3  0-1
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "4"]
+[White "Kasparov, Gary"]
+[Black "Salov, Valery"]
+[Result "1/2-1/2"]
+[WhiteElo "2800"]
+[BlackElo "2645"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.c3 d5 6.exd5 Qxd5 7.Re1 Bd7 8.Na3 Ng6
+9.Bf1 Be7 10.d4 cxd4 11.Nb5 Rc8 12.Nfxd4 Nxd4 13.Nxd4 a6 14.g3 b5 15.Bg2 Qc5
+16.h4 Bf6 17.Be3 Qc7 18.Nf5 O-O 19.Nd6 Rcd8 20.Nb7 Rc8 21.Nd6 Rcd8 22.Nb7 Rc8
+23.h5 Ne5 24.Bf4 Bc6 25.Bxc6 Qxc6 26.Bxe5 Bxe5 27.Rxe5 Qxb7 28.h6 Qe7 29.hxg7 Rfd8
+30.Qe2 Rc5 31.a4 Rxe5 32.Qxe5 bxa4 33.Qe4 Qc5 34.Rxa4 a5 35.Qe2 Qg5 36.Rf4 Rd7
+37.Qf3 Qd5 38.Qxd5  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "4"]
+[White "Karpov, Anatoly"]
+[Black "Gurevich, Mikhail"]
+[Result "1-0"]
+[WhiteElo "2725"]
+[BlackElo "2650"]
+[ECO "A87"]
+
+1.d4 f5 2.g3 Nf6 3.Bg2 d6 4.Nf3 g6 5.O-O Bg7 6.c4 O-O 7.Nc3 Qe8 8.Qb3 c6
+9.d5 Na6 10.Be3 Ng4 11.Bf4 Nc5 12.Qc2 h6 13.h3 e5 14.dxe6 Ne5 15.Rad1 Nxe6
+16.Rxd6 Nxc4 17.Rd3 Nxf4 18.gxf4 Be6 19.Rfd1 Qe7 20.b3 Nb6 21.Qd2 Kh7 22.Ne5 Bf6
+23.Qe3 Rae8 24.Na4 Nd5 25.Bxd5 Bxd5 26.Nc3 g5 27.Nxd5 cxd5 28.Rxd5 gxf4 29.Qd3 Bg7
+30.Kf1 Qg5 31.Nf3 Qh5 32.Kg2 Qg6+ 33.Kh2 Qe6 34.Rd2 Rf7 35.Qc4 Qb6 36.Qc5 Qxc5
+37.Rxc5 Rfe7 38.Rcc2 b5 39.Nh4 Re5 40.Kg2 Bf6 41.Nf3 R5e6 42.Ne1 a5 43.Kf3 a4
+44.Rd7+ R8e7 45.Rxe7+ Rxe7 46.Nd3 axb3 47.axb3  1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "4"]
+[White "Short, Nigel D"]
+[Black "Hjartarson, Johann"]
+[Result "1-0"]
+[WhiteElo "2635"]
+[BlackElo "2535"]
+[ECO "B42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nf6 6.O-O d6 7.c4 Bd7 8.Nc3 Nc6
+9.Be3 Ne5 10.Be2 Rc8 11.b3 b5 12.f4 Ng6 13.Nc2 Be7 14.a4 bxc4 15.Bxc4 Qa5
+16.Qe1 Ng4 17.Bd2 Qb6+ 18.Kh1 Bh4 19.g3 Bf6 20.h3 Bxc3 21.Bxc3 Nf6 22.Kh2 O-O
+23.Bxf6 gxf6 24.Ne3 Kg7 25.Rd1 a5 26.Qc3 h5 27.g4 d5 28.g5 dxc4 29.Qxf6+  1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "4"]
+[White "Timman, Jan H"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1-0"]
+[WhiteElo "2630"]
+[BlackElo "2590"]
+[ECO "C19"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Nf3 Qc7 8.a4 b6
+9.Bb5+ Bd7 10.Bd3 Nbc6 11.O-O h6 12.Re1 O-O 13.Bf4 f5 14.exf6 Qxf4 15.fxe7 Nxe7
+16.Bb5 Qc7 17.Qe2 Bc8 18.Qe5 Qd8 19.dxc5 bxc5 20.Rad1 Rf6 21.Qe3 Qd6 22.Ne5 Nf5
+23.Qh3 Bb7 24.Qh5 Ne7 25.Bd3 Raf8 26.Ng4 Rf4 27.Re3 R8f7 28.Rde1 Bc8 29.Bg6 Nxg6
+30.Qxg6 Kf8 31.Ne5 R7f5 32.Qh7 Rxe5 33.Rxe5 Rxa4 34.R5e3 Bd7 35.Rf3+ Rf4
+36.Rg3 Rf7 37.Qh8+ Ke7 38.Rxg7 Qf4 39.Rxf7+ Kxf7 40.Qh7+ Ke8 41.Rb1 Kd8 42.g3 Qd6
+43.Qxh6 Kc7 44.Qh8 Bc8 45.f4  1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "5"]
+[White "Gurevich, Mikhail"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[WhiteElo "2650"]
+[BlackElo "2630"]
+[ECO "E25"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.f3 d5 5.a3 Bxc3+ 6.bxc3 c5 7.cxd5 Nxd5 8.Qd3 O-O
+9.e4 Ne7 10.Be3 Qa5 11.Qd2 Rd8 12.Bd3 Nbc6 13.Ne2 b6 14.Ra2 Ba6 15.O-O cxd4
+16.Nxd4 e5 17.Nxc6 Nxc6 18.c4 Bxc4 19.Qxa5 Nxa5 20.Bxc4 Nxc4 21.Bf2 Rac8
+22.h4 f6 23.a4 Nd2 24.Re1 Nb3 25.Rb1 Nd2 26.Re1 Nb3 27.Rb1 Rd3 28.Kh2 Rd2
+29.Rxd2 Nxd2 30.Rd1 Rc2 31.Kg1 h5 32.Be1 Nc4 33.Rd8+ Kh7 34.Rd7 a6 35.Bb4 Ne3
+36.Bd2 Nc4 37.Bb4 Ne3  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "5"]
+[White "Salov, Valery"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2645"]
+[BlackElo "2725"]
+[ECO "A34"]
+
+1.Nf3 Nf6 2.c4 c5 3.g3 Nc6 4.Bg2 d5 5.cxd5 Nxd5 6.Nc3 Nc7 7.a3 e6 8.O-O Be7
+9.e3 O-O 10.d4 cxd4 11.exd4 Nd5 12.Qd3 Bd7 13.Nxd5 exd5 14.Re1 Be6 15.Bf4 Rc8
+16.Rad1 Qd7 17.Ne5 Nxe5 18.dxe5 Rfd8 19.Be3 b6 20.Rd2 d4 21.Qxd4 Qb5 22.Bf1 Qb3
+23.Rd3 Rxd4 24.Rxb3 Re4 25.Rd3  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "5"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Van der Wiel, John TH"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2530"]
+[ECO "A07"]
+
+1.Nf3 d5 2.g3 c6 3.Bg2 Bg4 4.d3 Nd7 5.Nbd2 e6 6.O-O Bd6 7.b3 Ne7 8.Bb2 O-O
+9.h3 Bh5 10.e4 c5 11.Qe1 Nc6 12.Nh2 Nd4 13.Bxd4 cxd4 14.exd5 exd5 15.Bxd5 Qc7
+16.Nc4 Rae8 17.Qd2 Re2 18.Qg5 Bg6 19.Nf3 Be7 20.Qf4 Qxf4 21.gxf4 Rxc2 22.Nxd4 Rc3
+23.Bxb7 Bf6 24.Nb5 Rxd3 25.Rad1 Nc5 26.Bg2 a6 27.Nc7 Rfd8 28.Nd5 Rxd1 29.Rxd1 Kf8
+30.Bf3 Bh4 31.Ne5 Bf5 32.Kg2 Ne6 33.Nc4 Bc2 34.Rd2 Bb1 35.Kf1 g6 36.b4 h5
+37.a3 Bf5 38.Kg2 g5 39.fxg5 Nxg5 40.Bxh5 Rxd5 41.Rxd5 Be4+ 42.f3 Bxd5 43.Ne3 Bc6
+44.Nf5 Be1 45.Nd4 Bd7 46.Bg4 Ne6 47.Nxe6+ fxe6 48.f4 Bd2 49.Be2 Bb5 50.Kf3 Ke7
+51.Bd1 Bd3 52.h4 Kf6 53.Kg4 e5 54.fxe5+ Kxe5 55.Kf3 Kd4 56.Be2 Kc3 57.a4 Kxb4
+58.Bxd3 Kxa4 59.Bxa6  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "5"]
+[White "Hjartarson, Johann"]
+[Black "Kasparov, Gary"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2800"]
+[ECO "E81"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Bg5 a6 7.Qd2 Nbd7 8.Nge2 c5
+9.d5 b5 10.cxb5 Ne5 11.Nc1 axb5 12.Nxb5 Ba6 13.a4 c4 14.Nc3 Nfd7 15.Be2 Rb8
+16.Be3 Qa5 17.Ra3 Nc5 18.Nd1 c3 19.bxc3 Rb1 20.Bxc5 Qxc5 21.Rb3 Rxc1 22.Bxa6 Ra1
+23.Be2 Nc4 24.Bxc4 Qxc4 25.Qb2 Rxa4 26.Kf2 Qc5+ 27.Ne3 Bh6 28.Re1 Rfa8 29.Rb8+ Rxb8
+30.Qxb8+ Kg7 31.Qb2 Qa7 32.Qc1 Ra3 33.Kg3 Qc5 34.Qb2 Bxe3 35.Rxe3 Qxe3 36.Qxa3 Qe1+
+37.Kh3 h5 38.Qa6 g5 39.g3 g4+ 40.fxg4 hxg4+ 41.Kh4 Qxe4 42.Qc8 Qh7+ 43.Kxg4 Qxh2
+44.Qf5 Qe2+  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "5"]
+[White "Kortschnoj, Viktor"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2635"]
+[ECO "D55"]
+
+1.c4 e6 2.Nc3 d5 3.d4 Be7 4.Nf3 Nf6 5.Bg5 O-O 6.e3 h6 7.Bxf6 Bxf6 8.Qd2 dxc4
+9.Bxc4 c5 10.dxc5 Nd7 11.Ne4 Be7 12.c6 bxc6 13.O-O Nf6 14.Qc2 Bb7 15.Nfd2 c5
+16.Rfd1 Qc7 17.Be2 Rfd8 18.Nc4 Rd5 19.Ned2 Rd7 20.Bf3 Nd5 21.a3 Rad8 22.Nf1 Ba6
+23.Qa4 Bxc4 24.Qxc4 Bf6 25.Rab1 Nb6  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "6"]
+[White "Kasparov, Gary"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2800"]
+[BlackElo "2725"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a4 h6 13.Bc2 exd4 14.cxd4 Nb4 15.Bb1 c5
+16.d5 Nd7 17.Ra3 f5 18.Rae3 Nf6 19.Nh2 Qd7 20.exf5 Rxe3 21.fxe3 Bxd5 22.Ng4 Be7
+23.e4 Bf7 24.Nf3 Rd8 25.Qe2 Bc4 26.Qe3 Nxg4 27.hxg4 Bf6 28.Bd2 Re8 29.b3 Bf7
+30.Qf2 Qe7 31.axb5 axb5 32.Qf1 Rb8 33.Bd3 Nxd3 34.Qxd3 c4 35.bxc4 bxc4 36.Qa3 Rb3
+37.Qa8+ Qe8 38.Qxe8+ Bxe8 39.g5 hxg5 40.Bxg5 Bb2 41.Rd1 Ba3 42.e5 c3 43.exd6 c2
+44.Rd5 Rb1+ 45.Kf2 Rd1 46.Ra5 c1=Q 47.Bxc1 Bxc1 48.Ra6 Rd5 49.f6 g6 50.g4 g5
+51.Ra7 Bf4 52.f7+ Bxf7 53.d7 Kf8 54.Ng1 Rd2+ 55.Ke1 Rd5 56.Nh3 Bd2+ 57.Ke2 Kg7
+58.Ra2 Bc1 59.Rc2 Ba3 60.Nxg5 Bg8 61.Rc7 Kg6  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "6"]
+[White "Timman, Jan H"]
+[Black "Salov, Valery"]
+[Result "0-1"]
+[WhiteElo "2630"]
+[BlackElo "2645"]
+[ECO "B60"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Be2 Qa5 8.Bxf6 gxf6
+9.O-O Nxd4 10.Qxd4 Rc8 11.Nd5 Qc5 12.Qxc5 Rxc5 13.Bd3 Bg7 14.Rad1 e6 15.Ne3 Ke7
+16.c3 b5 17.f4 Rb8 18.a3 a5 19.Nc2 Rb6 20.Rde1 h5 21.Rf3 Bh6 22.Ref1 e5 23.f5 h4
+24.Be2 Bc8 25.Rd3 Bb7 26.Bf3 Rc4 27.Re1 Bf4 28.b3 Rc7 29.Ne3 Bxe3+ 30.Rexe3 b4
+31.axb4 axb4 32.c4 Ra6 33.Rd2 Ra3 34.Kf2 Bc6 35.Bd1 Ra1 36.Kf3 Rca7 37.Red3 R7a6
+38.Ke3 Be8 39.Kf2 R1a2 40.Kf3 Rxd2 41.Rxd2 Bc6 42.Bc2 Ra2 43.Ke3 Rb2 44.Re2 Kd7
+45.Rd2 Kc7 46.g3 hxg3 47.h4 Ba4 48.Re2 Bxb3 49.Bd3 Rxe2+ 50.Kxe2 Bd1+  0-1
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "6"]
+[White "Short, Nigel D"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1-0"]
+[WhiteElo "2635"]
+[BlackElo "2590"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.O-O Ne7 7.c3 Nec6 8.Be3 Nd7
+9.a3 c4 10.Nbd2 b5 11.Ne1 h5 12.g3 Bh3 13.Ng2 g6 14.Re1 Bxg2 15.Kxg2 Rb8
+16.h3 a5 17.Nf3 Be7 18.Qd2 Nb6 19.Ng5 Kf8 20.g4 hxg4 21.hxg4 Kg7 22.Rh1 Qd7
+23.Bf4 Rbf8 24.Qe3 Qd8 25.Nh7 Rxh7 26.Rxh7+ Kxh7 27.Rh1+ Kg8 28.Qh3 Bh4 29.Bh6 g5
+30.f4 gxf4 31.Bd1 Nd7 32.Bc2 Ndxe5 33.dxe5 Nxe5 34.Bxf8 f3+ 35.Kf1 Qg5 36.Qxh4 Qc1+
+37.Qe1 Qxe1+ 38.Kxe1 Kxf8 39.g5 Kg7 40.Kf2 f5 41.Re1 Nd3+ 42.Bxd3 cxd3 43.Kxf3  1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "6"]
+[White "Van der Wiel, John TH"]
+[Black "Gurevich, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo "2530"]
+[BlackElo "2650"]
+[ECO "B06"]
+
+1.e4 g6 2.d4 d6 3.Nc3 Bg7 4.Be3 c6 5.Qd2 Nd7 6.f4 b5 7.Nf3 Ngf6 8.e5 b4 9.exf6 bxc3
+10.Qxc3 Nxf6 11.Qxc6+ Bd7 12.Qa6 O-O 13.Bd3 Qb8 14.Rb1 Ng4 15.Bd2 e5 16.O-O exd4
+17.Rfe1 Ne3 18.c3 Bc8 19.Qa4 Bb7 20.cxd4 Nf5 21.Be4 Bxe4 22.Rxe4 Qb7 23.Re2 Rac8
+24.Be1 h5 25.Rd1 Bh6 26.d5 Rc5 27.Qe4 Qa6 28.Qd3 Qxd3 29.Rxd3 Bxf4 30.g3 Bh6
+31.h3 Bg7 32.Kg2 Rfc8 33.Bf2 Rc2 34.Rdd2 Rxd2 35.Rxd2 a5 36.b3 Rc3 37.Bb6 Bh6
+38.Re2 Ne3+ 39.Kf2 Nd1+ 40.Kg2 Ne3+ 41.Kf2 Nxd5 42.Bxa5 Be3+ 43.Kg2 Rd3 44.Bd2 Kf8
+45.Bxe3 Nxe3+ 46.Kf2 Nd1+ 47.Kg2 Nc3 48.Rb2 Ke7 49.b4 Na4 50.Rc2 Nc3 51.Rb2 Ne4
+52.a4 Kd7 53.a5 Ra3 54.g4 hxg4 55.hxg4 Nf6 56.Ng5 Nxg4 57.Nxf7 Ne3+ 58.Kh2 Nc4
+59.Rg2 Ra4 60.Rxg6 Rxb4  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "6"]
+[White "Hjartarson, Johann"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2615"]
+[ECO "C02"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 Nge7 7.O-O Ng6 8.g3 Be7
+9.h4 cxd4 10.cxd4 O-O 11.h5 Nh8 12.h6 g6 13.Nbd2 f6 14.exf6 Bxf6 15.Nb3 Nf7
+16.Nh2 Nd6 17.Bg4 Rc8 18.Nf3 Ne4 19.Be3 Rf7 20.Rc1 b6 21.a3 Ne7 22.Rxc8 Qxc8
+23.Nbd2 Nf5 24.Bf4 Qf8 25.Re1 Nxh6 26.Bxh6 Qxh6 27.Nxe4 dxe4 28.Rxe4 Kg7
+29.Bxe6 Bxe6 30.Rxe6 Qh5 31.Qb3 Rd7 32.Re8 Qd5 33.Qb4 Qd6 34.Qc4 Qd5 35.Qb4 Qd6
+36.Qxd6 Rxd6 37.Re4 h5 38.Kf1 Rd5 39.Re3 g5 40.Rc3 g4 41.Rc7+ Kh6 42.Rc6 Kg7
+43.Rc7+ Kh6 44.Rc6  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "7"]
+[White "Gurevich, Mikhail"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[WhiteElo "2650"]
+[BlackElo "2635"]
+[ECO "A85"]
+
+1.d4 e6 2.c4 f5 3.Nf3 Nf6 4.Nc3 Bb4 5.Qb3 a5 6.e3 O-O 7.Be2 b6 8.O-O Bb7
+9.c5 Bxc3 10.bxc3 a4 11.Qb2 Nc6 12.cxb6 cxb6 13.c4 Ba6 14.Bd2 d5 15.Rfc1 Ne4
+16.Rab1 Qd7 17.cxd5 Qxd5 18.Bxa6 Rxa6 19.Be1 Rb8 20.Qb5 Qxb5 21.Rxb5 Nd6
+22.Rbb1 b5 23.Ng5 Nd8 24.Rc7 h6 25.Nf3 Rc6 26.Rd7 N8f7 27.Bb4 Rbc8 28.Bc5 Ne4
+29.Rxb5 Nxc5 30.dxc5 Rxc5 31.Rxc5 Rxc5 32.h3 Rc1+ 33.Kh2 Rc2 34.Kg3 Rxa2
+35.Re7 a3 36.Rxe6 Rb2 37.Ra6 a2 38.Nd4 Nd6 39.f3 g5 40.h4 Kf7 41.hxg5 hxg5
+42.Ra7+ Ke8 43.Kh3 f4 44.exf4 gxf4 45.g3  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "7"]
+[White "Kortschnoj, Viktor"]
+[Black "Kasparov, Gary"]
+[Result "0-1"]
+[WhiteElo "2615"]
+[BlackElo "2800"]
+[ECO "E99"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.d4 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
+9.Ne1 Nd7 10.Be3 f5 11.f3 f4 12.Bf2 g5 13.a4 Ng6 14.Nd3 Nf6 15.c5 h5 16.h3 Rf7
+17.c6 a5 18.cxb7 Bxb7 19.b4 Bc8 20.bxa5 Bh6 21.Nb4 g4 22.Nc6 Qf8 23.fxg4 hxg4
+24.hxg4 Bg5 25.Bf3 Qh6 26.Re1 Nh4 27.Bxh4 Bxh4 28.g5 Qxg5 29.Re2 Ng4 30.Rb1 Bg3
+31.Qd3 Qh4  0-1
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "7"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Hjartarson, Johann"]
+[Result "0-1"]
+[WhiteElo "2590"]
+[BlackElo "2535"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.a4 b4 10.a5 Nc5 11.Bg5 Qd7 12.Nbd2 h6 13.Bh4 Be7 14.Bxe7 Qxe7 15.c3 bxc3
+16.bxc3 Nxb3 17.Nxb3 O-O 18.Re1 Rab8 19.Nfd4 Na7 20.Ne2 c5 21.Nf4 Rfd8 22.Qc2 Nc6
+23.Nxe6 fxe6 24.f4 Rb5 25.c4 Nb4 26.Qe2 dxc4 27.Qxc4 Nd3 28.Reb1 Rb4 29.Qxa6 c4
+30.Nd4 Qc5 31.Qxe6+ Kh8 32.h3 Qxd4+ 33.Kh1 Nf2+ 34.Kh2 Qxf4+ 35.Kg1 Qd4 36.Kh2 Rxb1
+37.Rxb1 c3 38.Rb7 Qf4+ 39.g3 Ng4+ 40.hxg4 Rd2+ 41.Kh3 Qf1+ 42.Kh4 Rh2+  0-1
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "7"]
+[White "Salov, Valery"]
+[Black "Van der Wiel, John TH"]
+[Result "1-0"]
+[WhiteElo "2645"]
+[BlackElo "2530"]
+[ECO "E13"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.Nc3 Bb4 5.Bg5 Bb7 6.e3 h6 7.Bh4 g5 8.Bg3 Ne4
+9.Qc2 Bxc3+ 10.bxc3 Nxg3 11.fxg3 g4 12.Nh4 Qg5 13.Qd2 d6 14.Bd3 Nd7 15.O-O h5
+16.Rf4 Rh6 17.Raf1 Rf6 18.Qf2 Ke7 19.e4 Rh8 20.c5 bxc5 21.Bb5 c6 22.Bd3 Bc8
+23.Kh1 Rhh6 24.e5 dxe5 25.dxe5 Qxe5 26.Nf5+ Rxf5 27.Rxf5 exf5 28.Re1 Kf6
+29.Rxe5 Nxe5 30.Qxc5 Be6 31.Qf8 Rh7 32.Bb1 Nd7 33.Qd8+ Kg6 34.h4 gxh3 35.gxh3 Nf6
+36.Kh2 Kg7 37.Qa5 Kg6 38.Qxa7 Rh8 39.Qb6 Ra8 40.Qb2 Rd8 41.Qe2 Kg7 42.a4 Rb8
+43.Bd3 Ra8 44.Bc2 Rb8 45.Bd3 Ra8 46.Qc2 Kg6 47.c4 c5 48.Qa2 Rd8 49.Qe2 Rd4
+50.a5 Bc8 51.Qf3 Ne4 52.g4 hxg4 53.hxg4 fxg4 54.Bxe4+ f5 55.Qxg4+ Kf6 56.Qh4+ Ke5
+57.Qh8+ Kxe4 58.Qxc8 f4 59.Qe6+ Kf3 60.a6  1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "7"]
+[White "Karpov, Anatoly"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[WhiteElo "2725"]
+[BlackElo "2630"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e3 e5 4.Bxc4 exd4 5.exd4 Nf6 6.Nf3 Be7 7.O-O O-O 8.h3 Nbd7
+9.Nc3 Nb6 10.Bb3 c6 11.Re1 Nfd5 12.Ne4 Bf5 13.Ne5 Nd7 14.Qf3 Nxe5 15.dxe5 Bg6
+16.Bf4 Qa5 17.Nd6 Bxd6 18.exd6 Rfe8 19.Rxe8+ Rxe8 20.Bxd5 cxd5 21.d7 Re7
+22.Rc1 Rxd7 23.Rc8+ Rd8 24.b4 Qb6 25.Bc7 Rxc8 26.Bxb6 axb6 27.Qxd5 h6 28.Qxb7 Rc1+
+29.Kh2 Rc2 30.Qxb6 Rxa2 31.Qd4  1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "8"]
+[White "Kasparov, Gary"]
+[Black "Timman, Jan H"]
+[Result "1/2-1/2"]
+[WhiteElo "2800"]
+[BlackElo "2630"]
+[ECO "E12"]
+
+1.Nf3 Nf6 2.c4 b6 3.Nc3 Bb7 4.d4 e6 5.a3 d5 6.cxd5 Nxd5 7.e3 g6 8.Bb5+ c6
+9.Ba4 Bg7 10.e4 Nxc3 11.bxc3 Ba6 12.h4 Qc7 13.e5 Nd7 14.Bf4 h6 15.Qc1 O-O-O
+16.Qe3 c5 17.Nd2 Kb8 18.Bd1 g5 19.Bg3 gxh4 20.Rxh4 Nf8 21.a4 Ng6 22.a5 Nxh4
+23.Bxh4 cxd4 24.cxd4 Rd5 25.axb6 Qxb6 26.Be7 Bf8 27.Bxf8 Rxf8 28.Qa3 Rfd8
+29.Qxa6  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "8"]
+[White "Kortschnoj, Viktor"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1/2-1/2"]
+[WhiteElo "2615"]
+[BlackElo "2590"]
+[ECO "E51"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.a3 Be7 7.Qc2 b6 8.e4 dxe4
+9.Nxe4 Bb7 10.Bd3 Nbd7 11.Bg5 Nxe4 12.Bxe7 Qxe7 13.Bxe4 Bxe4 14.Qxe4 c5 15.O-O Nf6
+16.Qe2 Rfd8 17.Rfd1 a5 18.Rd2 Rd6  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "8"]
+[White "Short, Nigel D"]
+[Black "Salov, Valery"]
+[Result "1/2-1/2"]
+[WhiteElo "2635"]
+[BlackElo "2645"]
+[ECO "B60"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Be2 Qa5 8.Bxf6 gxf6
+9.Nb3 Qg5 10.Nd5 O-O-O 11.O-O Rg8 12.g3 f5 13.f4 Qg7 14.exf5 Bxf5 15.Bf3 Bg4
+16.c4 h5 17.Bxg4+ Qxg4 18.Ne3 Qxd1 19.Raxd1 Bg7 20.Rd2 e6 21.Kf2 Kc7 22.Rfd1 f5
+23.Kf3 Bh8 24.Nc1 a5 25.Ne2 Nb4 26.b3 Rg6 27.Nc2 Nxc2 28.Rxc2 Bf6 29.h3 Kc6
+30.Rd3 b6 31.Rcd2 Kc5 32.Re3 Bh8 33.Nc1 Rdg8 34.Ne2 Rd8 35.Red3 Rd7 36.h4 Kc6
+37.Kf2 Rg8 38.Ng1 Bf6 39.Nf3 Re8 40.Ng5 Bh8 41.Rd1 Bb2 42.Nf3 Kc7 43.a4 Ba3
+44.Kg2 Bc5 45.Re1 Rde7 46.Nd4 Bxd4 47.Rxd4 Kc6 48.Kf3 Rg8 49.Rd3 Rg6 50.Ree3 Rd7
+51.Ke2 Rc7 52.Kd2 Kd7 53.Rd4 Rc6 54.Red3 Ke7 55.Ke2 Rg8 56.Kf2 Rd8 57.Ke2 Rc5
+58.Kd2 d5 59.Ke2 dxc4 60.Rxd8 cxd3+ 61.Rxd3 b5 62.axb5 Rxb5 63.Ke3 Rb4 64.Kd2 e5
+65.fxe5  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "8"]
+[White "Van der Wiel, John TH"]
+[Black "Karpov, Anatoly"]
+[Result "1/2-1/2"]
+[WhiteElo "2530"]
+[BlackElo "2725"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Bb7 10.d4 Re8 11.Ng5 Rf8 12.Nf3 Re8 13.Nbd2 Bf8 14.a4 h6 15.Bc2 Qd7
+16.b3 exd4 17.cxd4 Nb4 18.Bb1 g6 19.axb5 Qxb5 20.d5 c6 21.Bb2 Nh5 22.dxc6 Nxc6
+23.Nc4 Rad8 24.Ne3 Ne5 25.Nd4 Qb6 26.Bc3 Rc8 27.Ne2 Qd8 28.Qd2 Qg5 29.Ng4 Qxd2
+30.Bxd2 Nxg4 31.hxg4 Nf6 32.f3 d5 33.exd5 Rcd8 34.Nc3 Bc5+ 35.Kf1 Rxe1+ 36.Bxe1 Nxd5
+37.Be4 Bd4 38.Ra4 Bxc3 39.Bxd5 Bxd5 40.Bxc3 Bxb3 41.Rb4 Be6 42.Bf6 Re8 43.Rd4 Kf8
+44.Kf2 Ra8 45.Rd8+ Rxd8 46.Bxd8 Bc4 47.Ba5 Ke7 48.Bd2 h5 49.gxh5 gxh5 50.g4  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "8"]
+[White "Hjartarson, Johann"]
+[Black "Gurevich, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2650"]
+[ECO "A86"]
+
+1.d4 f5 2.g3 Nf6 3.Bg2 g6 4.c4 Bg7 5.Nh3 d6 6.d5 c6 7.Nf4 e5 8.dxe6 Qe7 9.Nc3 O-O
+10.O-O Bxe6 11.Nxe6 Qxe6 12.Bf4 Qxc4 13.Qxd6 Na6 14.Rfd1 Nh5 15.Be5 Bxe5
+16.Qxe5 Rae8 17.Qd4 Qxd4 18.Rxd4 Nf6 19.Rad1 Nc5 20.e3 Kf7 21.Kf1 Re7 22.b4  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "9"]
+[White "Karpov, Anatoly"]
+[Black "Short, Nigel D"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2635"]
+[ECO "D58"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 b6 8.Be2 Bb7
+9.Bxf6 Bxf6 10.cxd5 exd5 11.b4 c6 12.O-O Re8 13.Qb3 a5 14.a3 Nd7 15.b5 c5
+16.Nxd5 Bxd4 17.Rad1 Ne5 18.Nxe5 Bxd5 19.Nc4 Qg5 20.g3 Qf5 21.Rfe1 Qe4 22.f3 Qxe3+
+23.Qxe3 Rxe3 24.Nxe3 Bxe3+ 25.Kf1 Bd4 26.Rxd4 cxd4 27.Rd1 Rc8 28.Rxd4 Rc5
+29.f4 Kf8 30.Bd3 Ke7  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "9"]
+[White "Gurevich, Mikhail"]
+[Black "Kortschnoj, Viktor"]
+[Result "1/2-1/2"]
+[WhiteElo "2650"]
+[BlackElo "2615"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Qa5 7.Bd2 Nxc5 8.Nf3 d6
+9.Nb5 Bxd2+ 10.Nxd2 Qb6 11.b4 Ncd7 12.Rd1 a6 13.Nc3 Qc6 14.e4 O-O 15.Be2 b6
+16.O-O Bb7 17.Qd3 Rfd8 18.Rfe1 Rac8 19.Qe3 Qc7 20.f4 Nf8 21.Na4 N8d7 22.Nb2 Qb8
+23.Nd3 b5 24.cxb5 axb5 25.Nf2 Bc6 26.Nb3 e5 27.fxe5 Nxe5 28.Nd4 Bd7 29.Rc1 h6
+30.h3 Rxc1 31.Rxc1 Re8 32.Qd2 Qb6 33.Rd1 Ng6 34.Bf3 Qa7 35.Qc3 Nh4 36.Kh2 Qb8
+37.Kg1 Qb7 38.Qd3 Nxf3+ 39.Nxf3 Bc6 40.Nd4 Nxe4 41.Nxc6 Nxf2 42.Na5 Qb6 43.Qd4 Qxd4
+44.Rxd4 Ne4 45.Nb7 Re6 46.Nd8 Re7 47.Nc6 Rc7 48.Rxe4 Rxc6 49.Re8+ Kh7 50.Rb8 Ra6
+51.Rxb5 Rxa3 52.Ra5 Rd3 53.b5 Kg6 54.Ra1 Kf6 55.Rb1 Ra3 56.b6 Ra8 57.Kf2 Ke6
+58.Ke3 Kd5 59.Rc1 Ra3+ 60.Kf2 Rb3 61.Rc7 Ke6 62.b7 g6 63.Ke2 f5 64.Kf2 f4
+65.Rh7 Kf5 66.Rf7+  1/2-1/2
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "9"]
+[White "Timman, Jan H"]
+[Black "Van der Wiel, John TH"]
+[Result "1-0"]
+[WhiteElo "2630"]
+[BlackElo "2530"]
+[ECO "B97"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.a3 Be7
+9.Qd2 h6 10.Bxf6 Bxf6 11.O-O-O O-O 12.Nb3 Rd8 13.h4 a5 14.g4 a4 15.Nd4 Bxd4
+16.Qxd4 Qxd4 17.Rxd4 e5 18.fxe5 Nc6 19.Rxd6 Bxg4 20.Bb5 Nxe5 21.Rb6 Rd4 22.Rxb7 h5
+23.Re7 f6 24.Rf1 Ng6 25.Rc7 Nxh4 26.Bc6 Rad8 27.Bd5+ Kh8 28.Nb5 R4xd5 29.exd5 Rxd5
+30.Nc3 Rf5 31.Re1 Nf3 32.Ree7 Re5 33.Ne4 Rxe7 34.Rxe7 h4 35.Nf2 Bh5 36.b4 axb3
+37.a4 Ng5 38.Re3 bxc2 39.a5 Bf7 40.a6 Bd5 41.Rd3 Bg2 42.Rd4 h3 43.a7 Ne6
+44.Rh4+ Kg8 45.Rxh3 Kf7 46.Rg3 Bb7 47.Rc3 g5 48.Rxc2 f5 49.Nd3 g4 50.Nc5 Nxc5
+51.Rxc5 g3 52.Kd2 g2 53.Rc1 f4 54.Ke2 Ke6 55.Kf2 Kd7 56.Rc4 f3 57.Rc5 Kd8
+58.Rh5 Kc7 59.Rh8  1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "9"]
+[White "Ljubojevic, Ljubomir"]
+[Black "Kasparov, Gary"]
+[Result "0-1"]
+[WhiteElo "2590"]
+[BlackElo "2800"]
+[ECO "B51"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Nd7 4.d4 Nf6 5.O-O a6 6.Bxd7+ Nxd7 7.Nc3 e6 8.Bg5 Qc7
+9.Re1 cxd4 10.Qxd4 Ne5 11.Rad1 Bd7 12.Nxe5 dxe5 13.Qd2 b5 14.a3 Rc8 15.Re3 f6
+16.Rd3 Bc6 17.Be3 Kf7 18.f3 a5 19.Qf2 b4 20.axb4 axb4 21.Na2 Bb5 22.R3d2 Ra8
+23.Nc1 Be7 24.Bb6 Qc6 25.Nb3 Rhc8 26.Be3 g5 27.g4 h5 28.h3 Kg6 29.Kg2 h4
+30.Qg1 Ra2 31.Rb1 Bc4 32.Nc1 Raa8 33.Nb3 Rd8 34.Rbd1 Rxd2+ 35.Rxd2 Ra2 36.Qb1 Qa4
+37.Bc5 Bxc5 38.Nxc5 Qa7 39.b3 Ra1 40.bxc4 Rxb1  0-1
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1991.??.??"]
+[Round "9"]
+[White "Salov, Valery"]
+[Black "Hjartarson, Johann"]
+[Result "1/2-1/2"]
+[WhiteElo "2645"]
+[BlackElo "2535"]
+[ECO "E68"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d6 6.O-O Nbd7 7.Qc2 e5 8.Rd1 Qe7
+9.Nc3 c6 10.e4 exd4 11.Nxd4 Re8 12.b3 Nc5 13.Bb2 a5 14.Rd2 h5 15.Na4 Nxa4
+16.bxa4 Nd7 17.Nb3 Bxb2 18.Qxb2 Nb6 19.Qd4 c5 20.Qxd6 Qxd6 21.Rxd6 Nxc4 22.Rd5 b6
+23.Rc1 Nb2 24.Rd2 Nxa4 25.e5 Rb8 26.Bc6 Rf8 27.Bb5 c4 28.Rxc4 Nc5 29.Nxc5 bxc5
+30.Rxc5 Bh3 31.f3 Rfc8 32.Rxc8+ Rxc8 33.a4 Rc5 34.Kf2 Rxe5 35.Rd8+ Kg7 36.Ra8 Be6
+37.h4 Bb3 38.Ra7 Rc5 39.Rxa5  1/2-1/2

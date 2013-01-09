@@ -1,0 +1,1697 @@
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "1"]
+[White "Treybal, Karel"]
+[Black "Teichmann, Richard"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 b5 6.Bb3 Bc5 7.a4 Rb8 8.axb5 axb5
+9.Nc3 O-O 10.d3 d6 11.h3 Be6 12.Nd5 Bxd5 13.exd5 Ne7 14.Bg5 Ng6 15.Nd2 h6
+16.Bxf6 Qxf6 17.Ne4 Qe7 18.h4 Ra8 19.Rxa8 Rxa8 20.Kd2 Bb6 21.Qg4 Rf8 22.g3 f5
+23.Qxg6 fxe4 24.Qe6+ Qf7 25.dxe4 Kh7 26.Qxf7 Rxf7 27.Rf1 Rxf2+ 28.Rxf2 Bxf2
+29.h5 Bxg3 30.c4 bxc4 31.Bxc4 g6 32.Be2 gxh5 33.Bxh5 Kg7 34.Ke2 Kf6 35.Kf3 Kg5
+36.Be8 Be1 37.b3  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "1"]
+[White "Tartakower, Saviely"]
+[Black "Wolf, Heinrich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Nd2 d5 7.exd5 cxd5 8.Bb5+ Bd7
+9.Bxd7+ Qxd7 10.O-O Be7 11.Nf3 O-O 12.Bg5 Rfe8 13.Re1 c6 14.Qd3 Qb7 15.Nd4 h6
+16.Bh4 g5 17.Bg3 Ne4 18.Nf5 Bf8 19.b3 Qd7 20.Qf3 Re6 21.Nd4 Rf6 22.Qd3 Re8
+23.Re3 Bc5 24.Rae1 Rfe6 25.Nxe6 Bxe3 26.Rxe3 Rxe6 27.f3 Nxg3 28.hxg3 Rxe3
+29.Qxe3 Kg7 30.Kf2 f6 31.Qc5 Kf7 32.a4 h5 33.a5 h4 34.gxh4 gxh4 35.Qd4 Qc7
+36.b4 Qg3+ 37.Kf1 a6 38.Qa7+ Kg6 39.Qxa6 h3 40.Qd3+ Kg7 41.gxh3 Qxh3+ 42.Ke2 Qh2+
+43.Kd1 Qg1+ 44.Kd2 Qf2+ 45.Kc3 c5 46.Kb2 Qh4 47.a6 Qxb4+ 48.Qb3 Qd4+ 49.Ka2 c4
+50.Qb7+ Kh6 51.a7  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "1"]
+[White "Spielmann, Rudolf"]
+[Black "Mieses, Jacques"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A81"]
+
+1.d4 f5 2.g3 b6 3.Bg2 Nc6 4.Nf3 e6 5.O-O Bb7 6.c4 Bd6 7.Nc3 Nf6 8.a3 a5 9.Nb5 O-O
+10.Qc2 Na7 11.Nxd6 cxd6 12.Bf4 Qc7 13.Rac1 Rac8 14.c5 bxc5 15.dxc5 e5 16.Be3 Ne4
+17.Qb3+ d5 18.Nxe5 Qxe5 19.Qxb7 Nc6 20.Bf4 Qe6 21.Rfd1 g5 22.Bd6 Rfe8 23.Qb3 d4
+24.Qxe6+ Rxe6 25.Bxe4 fxe4 26.Rc4 g4 27.b4 Nxb4 28.Rdxd4 Nc6 29.Rxe4 Rxe4
+30.Rxe4 h5 31.h3 gxh3 32.Rh4 Kf7 33.Rxh5 Nd4 34.Kf1 Nb5 35.Rxh3 Nxa3 36.Rh7+ Ke6
+37.e4 Nc4 38.Re7+ Kf6 39.e5+ Kf5 40.Rxd7 Ra8 41.c6 Nxd6 42.exd6  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "1"]
+[White "Johner, Paul F"]
+[Black "Reti, Richard"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E60"]
+
+1.d4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 5.O-O c5 6.d5 d6 7.c4 Bd7 8.Nc3 Qc8
+9.e4 Bg4 10.Be3 h6 11.Qd2 Nbd7 12.Ne1 Nb6 13.b3 Kh7 14.Nd3 Bh3 15.f4 Bxg2
+16.Kxg2 Ng4 17.Bg1 f5 18.Rae1 fxe4 19.Rxe4 e5 20.dxe6 Qc6 21.Re1 Bxc3 22.Qxc3 Nf6
+23.Nf2 Rae8 24.Kf1 Nxe4 25.Nxe4 Nd7 26.Qd2 Nf6 27.Qxd6 Nxe4 28.Qxc6 Nd2+
+29.Ke2 bxc6 30.Kxd2 Rf5 31.e7 Kg7 32.Re6 Kf7 33.Rxc6 Rxe7 34.Bxc5 Rd7+ 35.Ke3 Rf6
+36.Rxf6+ Kxf6 37.Bd4+ Kf5 38.b4 a6 39.a4 g5 40.b5 axb5 41.axb5 gxf4+ 42.gxf4 Re7+
+43.Be5  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "1"]
+[White "Saemisch, Fritz"]
+[Black "Kostic, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bf4 d5 4.e3 Bd6 5.Bd3 O-O 6.Nbd2 Bxf4 7.exf4 c5 8.dxc5 Qc7
+9.g3 Qxc5 10.O-O Nc6 11.c3 b5 12.Qe2 Rb8 13.Nb3 Qb6 14.Nbd4 Nxd4 15.cxd4 Bd7
+16.Rad1 b4 17.Rfe1 Bb5 18.Ne5 Bxd3 19.Rxd3 Qa6 20.g4 g6 21.Qe3 Qd6 22.Qg3 Kg7
+23.f5 exf5 24.gxf5 Rbe8 25.Qh4 Nh5 26.Rde3 f6 27.fxg6 fxe5 28.Qxh5 hxg6 29.dxe5 Qe6
+30.Qh4 a5 31.Rc1 Rh8 32.Rc7+ Kg8 33.Qd4 Rh5 34.f4 Rf8 35.Rg3 Rh4 36.Qa7 Rfxf4
+37.Re7 Qc6 38.Rc7 Qe6 39.Rg7+ Kh8 40.Re7 Qc8 41.Rc7 Qf8 42.Qa6 Rc4 43.Rxc4 dxc4
+44.Qxg6 Qc5+ 45.Kg2 Qd5+ 46.Rf3 Qd2+ 47.Kg1 Qd1+ 48.Kg2 Qe2+ 49.Kg1 Qxh2+
+50.Kf1 Qh1+ 51.Ke2 Rh2+ 52.Rf2 Rxf2+ 53.Kxf2 Qh2+ 54.Ke1 Qxe5+ 55.Kd1 a4
+56.Qg2 Qd4+ 57.Kc2 Qd3+ 58.Kc1 Qe3+ 59.Kc2 Qd3+ 60.Kc1 Qe3+ 61.Kc2 c3 62.Qa8+ Kg7
+63.Qg2+ Kf8 64.Qa8+ Ke7 65.Qb7+ Kd8 66.Qd5+  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "1"]
+[White "Rubinstein, Akiba"]
+[Black "Maroczy, Geza"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A85"]
+
+1.d4 e6 2.c4 f5 3.e3 Nf6 4.Bd3 b6 5.Nc3 Bb7 6.Nf3 Bb4 7.O-O Bxc3 8.bxc3 O-O
+9.a4 Nc6 10.Nd2 d6 11.Nb3 Ne7 12.a5 c5 13.f4 Ne4 14.Qc2 Qc7 15.Nd2 Nxd2 16.Bxd2 Kh8
+17.Rfe1 e5 18.axb6 axb6 19.Rxa8 Bxa8 20.e4 exd4 21.exf5 Ng8 22.cxd4 cxd4
+23.Qb2 Qc6 24.Bb4 Nf6 25.Re6 Rd8 26.Bf1 Qa4 27.Bxd6 Qd1 28.Be7 d3 29.Bxd8 d2
+30.Bxf6 Kg8 31.Re8+ Kf7 32.Re7+ Kf8 33.Qb4  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "1"]
+[White "Gruenfeld, Ernst"]
+[Black "Tarrasch, Siegbert"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D32"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.Nf3 Nc6 5.cxd5 exd5 6.dxc5 d4 7.Na4 Bxc5 8.Nxc5 Qa5+
+9.Bd2 Qxc5 10.e3 dxe3 11.Bxe3 Qb4+ 12.Qd2 Qxd2+ 13.Nxd2 Nge7 14.Bb5 O-O 15.O-O Bf5
+16.Nb3 Rfd8 17.Rfd1 Bc2 18.Rxd8+ Rxd8 19.Nc5 b6 20.Rc1 Rd1+ 21.Rxd1 Bxd1
+22.Ne4 Nb4 23.Bd2 Nbd5 24.Nd6 Bg4 25.Bc4 Be6 26.Nb5 Nc6  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "2"]
+[White "Maroczy, Geza"]
+[Black "Saemisch, Fritz"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E20"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 O-O 5.Bg2 d5 6.Qb3 Nc6 7.e3 Qe7 8.cxd5 exd5
+9.Ne2 Rd8 10.O-O Na5 11.Qc2 Nc6 12.a3 Bxc3 13.Nxc3 Rb8 14.b4 b6 15.Nxd5 Nxd5
+16.Qxc6 Bb7 17.Qc2 Nf6 18.Bb2 Bxg2 19.Kxg2 Rd5 20.Rac1 Rc8 21.Rfe1 Rh5 22.Qc6 Rh6
+23.Qc2 Qe6 24.f3 Qh3+ 25.Kg1  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "2"]
+[White "Treybal, Karel"]
+[Black "Gruenfeld, Ernst"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 g6 7.Nbd2 Bg7 8.Nf1 O-O
+9.Ng3 b5 10.Bc2 d5 11.Qe2 Re8 12.O-O Bb7 13.Bg5 d4 14.Rad1 Qd6 15.cxd4 Nxd4
+16.Nxd4 Qxd4 17.Bb3 Rf8 18.Be3 Qd6 19.f4 c5 20.Rf2 Nd7 21.f5 Kh8 22.Rdf1 Rac8
+23.h4 Nf6 24.h5 gxh5 25.Nxh5 c4 26.Nxf6 Bxf6 27.dxc4 Bxe4 28.c5 Qd3 29.Rd1 Qxe2
+30.Rxe2 Kg7 31.Rd6 a5 32.Bd2 Bxf5 33.Bxa5 Rxc5 34.Bc3 Bg6 35.Kf2 Re8 36.Re1 Rec8
+37.Re3 R8c7 38.Rb6 Rd7 39.Bb4  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "2"]
+[White "Mieses, Jacques"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.f4 e6 7.Nf3 Nd7 8.Ne5 Nxe5
+9.fxe5 Qd5 10.c3 O-O-O 11.b4 h5 12.Qb3 h4 13.Qxd5 cxd5 14.Ne2 Be4 15.h3 Kb8
+16.Bf4 Be7 17.Ng1 g5 18.Bd2 Nh6 19.Nf3 Rdg8 20.Kf2 g4 21.Bxh6 Rxh6 22.Ne1 g3+
+23.Ke3 Rc8 24.Bd3 Rxc3 25.a3 Bg5+ 26.Ke2 f5 27.Bxe4 dxe4 28.Ra2 Rh8 29.Rf1 Rd8
+30.Nc2 Rdc8  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "2"]
+[White "Teichmann, Richard"]
+[Black "Wolf, Heinrich"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D34"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O
+9.dxc5 Bxc5 10.Na4 Be7 11.Be3 Ng4 12.Bc5 Be6 13.Rc1 Rc8 14.Bxe7 Qxe7 15.Nd4 Rfd8
+16.Nxc6 Rxc6 17.Rxc6 bxc6 18.Qd4 Rb8 19.b3 Rb4 20.Qc3 Bd7 21.Nc5 Rb6 22.Qd4 Nf6
+23.e3 Be8 24.Rc1 Nd7 25.Na4 Rb7 26.h3 Nf8 27.Qc3 Ne6 28.Nc5 Nxc5 29.Qxc5 Qxc5
+30.Rxc5 Kf8  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "2"]
+[White "Tarrasch, Siegbert"]
+[Black "Johner, Paul F"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D55"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Nf3 Be7 5.Bg5 O-O 6.e3 b6 7.cxd5 exd5 8.Bd3 Nbd7
+9.O-O Bb7 10.Qe2 c5 11.dxc5 Nxc5 12.Rfd1 Nfd7 13.Bf4 Ne6 14.Ba6 Nxf4 15.exf4 Bxa6
+16.Qxa6 Nf6 17.Qb7 Bb4 18.Nxd5 Nxd5 19.Qxd5 Qxd5 20.Rxd5 Rfd8 21.Rad1 Rxd5
+22.Rxd5 Rc8 23.g3 Kf8 24.a3 Be7 25.Rd7 a5 26.Rb7 Bd8 27.Ng5 Rc2 28.Nxf7 Bf6
+29.Ne5 Rxb2 30.Nd7+ Ke7 31.Nxf6+ Kxf6 32.a4 h5 33.Kg2 g6 34.h3 Kf5 35.Rc7 Rb4
+36.Rc6 Rb3 37.Rd6 Rb4 38.Rc6 Rb3 39.Kf1 Rb2 40.Ke1 Rb3 41.Rd6 Rb2 42.Kf1 Rb4
+43.Ke2 Rb3 44.Kd2 h4 45.gxh4 Rxh3 46.Rxb6 Kxf4 47.Rf6+ Ke4 48.Rxg6 Rxh4 49.Rg5 Kf3
+50.Rf5+ Kg2 51.Rxa5 Kxf2 52.Ra8 Kf3 53.a5 Ke4 54.a6 Rh7 55.Kc3 Kd5 56.a7 Rc7+
+57.Kb4 Kc6  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "2"]
+[White "Reti, Richard"]
+[Black "Rubinstein, Akiba"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.Nf3 Nc6 5.Bb5 Bd7 6.O-O e6 7.d4 Bb4 8.Qd3 Bxc3
+9.bxc3 a6 10.Bc4 Nge7 11.Rb1 Rb8 12.Ng5 Qf5 13.Qg3 Qxc2 14.Bd3 Qxc3 15.Nxf7 Nf5
+16.Bxf5 Qxg3 17.fxg3 O-O 18.Ba3 exf5 19.Bxf8 Kxf7 20.Ba3 Be6 21.d5 Bxd5 22.Rxf5+ Ke6
+23.Rf2 Na5 24.Re1+ Kd7 25.Rf5 Kc6 26.Rc1+ Nc4 27.Rxc4+ Bxc4 28.Rc5+ Kb6 29.Rxc4 Rd8
+30.Rc2 Rd5 31.Kf2 c5 32.Bb2 g6 33.Ke3 Kc6 34.Rd2 Rh5 35.h3 c4 36.Rd4 b5 37.g4 Re5+
+38.Re4 Rd5 39.Re6+ Kc5 40.Rxa6 Rd3+ 41.Ke4 Kb4 42.Be5 Rd2 43.Bf4 Rd1 44.Bd6+ Kc3
+45.Rb6 Rd4+ 46.Ke5 Rd2 47.Rxb5 Rxa2 48.Rb7 h5 49.gxh5 gxh5 50.Ke4 Re2+ 51.Kf3 Re6
+52.Bf4 h4 53.Rh7 Rc6 54.Rxh4 Kb2 55.Be5+ c3 56.Re4 Ka2 57.Bxc3 Rxc3+ 58.Re3 Rc8
+59.g4 Kb2 60.g5 Kc2 61.h4 Kd2 62.Re2+ Kd3 63.Re7 Kd4 64.g6 Kd5 65.g7 Kd6
+66.Re1 Rg8 67.Rg1 Ke6 68.h5 Kf6 69.h6 Kf7 70.Rg4 Ra8 71.h7 Ra3+ 72.Kf2 Ra2+
+73.Kg3 Kf6 74.g8=Q  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "2"]
+[White "Kostic, Boris"]
+[Black "Spielmann, Rudolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D64"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Be7 5.Bg5 O-O 6.e3 Nbd7 7.Rc1 c6 8.Qc2 Re8
+9.Bd3 h6 10.Bh4 dxc4 11.Bxc4 b5 12.Bd3 Bb7 13.O-O a6 14.a4 Rc8 15.Rfd1 Qa5
+16.Ra1 b4 17.Ne4 c5 18.Nxc5 Nxc5 19.dxc5 Rxc5 20.Qe2 Ne4 21.Bxe7 Rxe7 22.Nd4 Rc8
+23.Nb3 Qd5 24.Bxe4 Qxe4 25.f3 Qc2 26.Rd8+ Kh7 27.Qxc2+ Rxc2 28.Rb1 Bd5 29.Nd4 Rd2
+30.Nc6 Rc7 31.Nxb4 a5 32.Nxd5 exd5 33.h4 Rcc2 34.Kh2 Rxg2+ 35.Kh3 Rh2+ 36.Kg4 Rcg2+
+37.Kf5 Rxh4 38.Ke5 Rg5+ 39.Kd6 Rxa4 40.Kc6 Rf5 41.Rf1 Rb4 42.Rxd5 Rxd5 43.Kxd5 Rxb2
+44.Ra1 Rb5+ 45.Kc4 Rf5 46.f4 g5 47.fxg5 hxg5 48.Kd4 Kg6 49.e4 Rb5 50.Rc1 Rb6  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "3"]
+[White "Spielmann, Rudolf"]
+[Black "Maroczy, Geza"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Nf3 Be7 6.d4 O-O 7.Bd3 f5 8.exf6 Nxf6
+9.O-O Nc6 10.Bg5 Bg4 11.Qe1 h6 12.Bd2 Bxf3 13.Rxf3 Nxd4 14.Rg3 Bc5 15.Kh1 Re8
+16.Qc1 Nh5 17.Rh3 Nf6 18.Rg3 Qd7 19.Bxh6 Ng4 20.Qf4 Ne2 21.Qxg4 Nxg3+ 22.Qxg3  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "3"]
+[White "Rubinstein, Akiba"]
+[Black "Tarrasch, Siegbert"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D34"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O
+9.a3 Be6 10.dxc5 Bxc5 11.b4 Be7 12.Bb2 Ne4 13.b5 Na5 14.Nxe4 dxe4 15.Nd4 Qd5
+16.Qc2 f5 17.Qc3 Nc4 18.Nxf5 Bf6 19.Qxf6 gxf6 20.Ne7+ Kf7 21.Nxd5 Bxd5 22.Rfd1 Ke6
+23.Bc3 Rfd8 24.Rd4 f5 25.g4 Nd6 26.Rad1 Nxb5 27.gxf5+ Kf7 28.Rxd5 Rxd5 29.Rxd5 Nxc3
+30.Rc5 Nxe2+ 31.Kf1 Nf4 32.Bxe4 Rd8 33.Rc7+ Kf6 34.Ke1 Re8 35.f3 Nd5 36.Rxb7 Nc3
+37.Rb4 Nd5 38.Ra4 Re7 39.Kf2 Nb6 40.Ra5 Rc7 41.Kg3 Nd7 42.Ra6+ Kg7 43.Kf4 Nb6
+44.h4 Rf7 45.Kg5 h6+ 46.Kf4 Kf8 47.a4 Rc7 48.a5 Nc4 49.f6 Rd7 50.Rc6 Nxa5
+51.Rc8+ Kf7 52.Ke5 Nb7 53.Bf5  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "3"]
+[White "Wolf, Heinrich"]
+[Black "Mieses, Jacques"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bf5 6.Ne5 c6 7.Bd3 g6 8.O-O Nbd7
+9.Re1 Bxd3 10.Qxd3 Qd8 11.Bg5 Bg7 12.Qe3 Nxe5 13.Qxe5 Kf8 14.Rad1 Qd7 15.Rd3 Re8
+16.h3 Nd5 17.Bh6 f6 18.Bxg7+ Kxg7 19.Qg3 Nxc3 20.bxc3 Kf7 21.Rde3 e6 22.Qf4 g5
+23.Qe4 Qd5 24.Qxd5 cxd5 25.Kf1 Re7 26.Ke2 Rc8 27.Kd2 Rc6 28.Kc1 Rb6 29.g3 Rc7
+30.Kd2 Rc4 31.Ra1 f5 32.Ree1 Rbc6 33.Reb1 b6 34.Rb3 e5 35.dxe5 Ke6 36.a4 Kxe5
+37.Kd3 f4 38.a5 fxg3 39.axb6 axb6 40.fxg3 Rh6 41.Rh1 Re4 42.Rbb1 Rc6 43.Rbe1 h5
+44.Rhf1 Rg6 45.Re3 Rc6 46.Ref3 Rg6 47.Rf8 h4 48.g4 Kd6 49.R1f6+ Rxf6 50.Rxf6+ Kc5
+51.Rf5 Re1 52.c4 Rd1+ 53.Kc3 Kc6 54.cxd5+ Rxd5 55.Rf6+ Kc5 56.Rg6 b5 57.Re6 Rd1
+58.Re5+ Kc6 59.Rxg5 Rh1 60.Kb4 Rb1+ 61.Kc3 Rh1 62.Rh5 Rxh3+ 63.Kb4 Rh2 64.Rc5+ Kd6
+65.Kxb5 Rg2 66.Rh5 Rxc2  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "3"]
+[White "Tartakower, Saviely"]
+[Black "Kostic, Boris"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Nc3 Nbd7 5.g3 Be7 6.Bg2 O-O 7.O-O c6 8.b3 Re8
+9.Bb2 Bf8 10.Qd2 Qc7 11.Rad1 b5 12.Ba3 a5 13.dxe5 dxe5 14.Bxf8 Nxf8 15.Qd6 Qxd6
+16.Rxd6 b4 17.Na4 Nxe4 18.Rxc6 Bd7 19.Rc4 Nd6 20.Rc5 Bxa4 21.bxa4 Rac8 22.Rxa5 Rxc2
+23.Nxe5 Rxa2 24.Bc6 Rb8 25.Rb1 Rd2 26.Ra8 Rxa8 27.Bxa8 Re2 28.Nd3 Ra2 29.Rxb4 g6
+30.Ne5 Ne6 31.Bd5 Ra1+ 32.Kg2 Kf8 33.Rb6 Ke7 34.Nxf7 Nc7 35.Rxd6 Rd1 36.Bc4 Rxd6
+37.Nxd6 Kxd6 38.Kf3  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "3"]
+[White "Saemisch, Fritz"]
+[Black "Reti, Richard"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E90"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 O-O 5.e4 d6 6.h3 e5 7.d5 h6 8.Be3 Kh7 9.Be2 Ng8
+10.g4 f5 11.gxf5 gxf5 12.exf5 Bxf5 13.Qd2 Nd7 14.h4 Ne7 15.h5 Nf6 16.Nh4 Nfg8
+17.O-O-O Rf7 18.Rdg1 Bd7 19.Bd3+ Nf5 20.Ne4 Nge7 21.Ng3 c6 22.Qc2 Qc8 23.Ng6 Kg8
+24.Nxe7+ Nxe7 25.Ne4 Nf5 26.Rg6 cxd5 27.cxd5 Nxe3 28.fxe3 Bf5 29.Nxd6 Bxd3
+30.Qxc8+ Rxc8+ 31.Nxc8 Bxg6 32.d6 Bf5 33.Ne7+ Kf8  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "3"]
+[White "Johner, Paul F"]
+[Black "Treybal, Karel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D94"]
+
+1.d4 Nf6 2.c4 c6 3.Nc3 d5 4.e3 g6 5.Bd3 Bg7 6.Nf3 O-O 7.O-O Nbd7 8.cxd5 Nxd5
+9.e4 Nc7 10.Be3 b6 11.Qd2 c5 12.d5 Ne5 13.Nxe5 Bxe5 14.f4 Bg7 15.Bc4 a6 16.a4 Rb8
+17.a5 b5 18.Be2 c4 19.Bb6 Rxb6 20.axb6 Ne6 21.e5 Qxb6+ 22.Kh1 Nc5 23.Qe3 Na4
+24.Qxb6 Nxb6 25.Rfd1 Rd8 26.Bf3 Bf8 27.Rd2 Kg7 28.Rad1 Bb7 29.d6 Bxf3 30.dxe7 Bxg2+
+31.Kg1 Bxe7 32.Rxd8 Bxd8 33.Rxd8 Bh3 34.Rd6 Nd7 35.Rxa6 b4 36.Nd5 c3 37.bxc3 bxc3
+38.Rc6 Bf5 39.Rxc3 Be4 40.Nc7 Kf8 41.Kf2 Ke7 42.Ke3 Bb7 43.Kd4 Nf8 44.Rb3 Bg2
+45.Rb6 Nd7 46.Ra6 Nb8 47.Ra2 Bh1 48.Ra1 Bg2 49.Ra2 Bh1 50.Ra1 Bg2 51.Rg1 Bf3
+52.Rg3 Bh1 53.Rg1 Bf3 54.Rc1 Nc6+ 55.Ke3 Bg2 56.Kf2 Be4 57.Ke3 Bg2 58.Rc2 Bh1
+59.Rc1 Bg2 60.Kf2 Be4 61.Ke3 Bg2 62.Rc2 Bh1 63.Rc1 Bg2 64.Rg1 Bh3 65.Nd5+ Kf8
+66.Nf6 Kg7 67.Ra1 Ne7 68.Ra7 Nf5+ 69.Kf3 Nd4+ 70.Kg3 Bc8 71.Ra8 Nf5+ 72.Kf2 Be6
+73.Rg8+ Kh6 74.Rh8 Kg7 75.Rxh7+ Kf8 76.Rh8+ Kg7 77.Rg8+ Kh6 78.Rb8 Bc4 79.Ne4 Kg7
+80.Nd6 Be6 81.Nxf5+ Bxf5 82.Ke3 Bh3 83.Kd4 Be6 84.Kc5 Bg4 85.Kd6 Be6 86.Ke7 Bd5
+87.Rb6 Bc4 88.Rf6 Bb3 89.h4 Bc4 90.f5  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "3"]
+[White "Gruenfeld, Ernst"]
+[Black "Teichmann, Richard"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D64"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.Nf3 Nbd7 6.e3 O-O 7.Rc1 c6 8.Qc2 Re8
+9.Bd3 h6 10.Bh4 dxc4 11.Bxc4 b5 12.Bd3 a6 13.O-O Bb7 14.Ne4 Nxe4 15.Bxe7 Qxe7
+16.Bxe4 f5 17.Bd3 Rac8 18.a4 c5 19.axb5 c4 20.Be2 axb5 21.Ra1 Qd6 22.b3 Be4
+23.Qd1 Bd5 24.bxc4 bxc4 25.Qc2 Rc7 26.Qc3 Rb8 27.Rfc1 Rb3 28.Qa5 Rc8 29.Nd2 Rb4
+30.Ra4 Rxa4 31.Qxa4 Nb6 32.Qa5 Qc6 33.f3 Kh7 34.Kf1 Kg8 35.Kg1 Kh7 36.Kf1 Kg8
+37.Kg1 Kh7 38.Kf1  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "4"]
+[White "Kostic, Boris"]
+[Black "Wolf, Heinrich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D28"]
+
+1.d4 d5 2.Nf3 e6 3.c4 Nf6 4.Nc3 dxc4 5.e3 a6 6.Bxc4 c5 7.O-O Nc6 8.Qe2 b5
+9.Bd3 Bb7 10.Rd1 Qc7 11.a4 c4 12.Bc2 b4 13.Ne4 Na5 14.Ng3 Be7 15.e4 O-O 16.e5 Nd5
+17.Ng5 Bxg5 18.Bxg5 Rae8 19.Bf6 Nf4 20.Qg4 Ng6 21.Bxg7 Kxg7 22.Nh5+ Kh8 23.Nf6 Kg7
+24.Qh5 Rh8 25.Qxh7+ Kf8 26.Nxe8 Rxh7 27.Nxc7 Rg7 28.Bxg6 Rxg6 29.g3 Ke7 30.d5 Nb3
+31.d6+ Kd7 32.Rab1 a5 33.f3 Bxf3 34.Rf1 Nd2 35.Rbc1 Nxf1 36.Rxf1 Be4 37.Rxf7+ Kc8
+38.Na6 Rg8 39.Rc7+ Kd8 40.Rxc4 Bd5 41.Rc5 Rg5 42.Rxa5 Rxe5 43.Nxb4 Kd7 44.Nxd5 exd5
+45.Kf2 Kxd6 46.Rb5 Re4 47.b3 d4 48.Rf5 Re8 49.b4 Rb8 50.b5 Ke6 51.Rh5 Ra8
+52.Ke2 Rxa4 53.Kd3 Kd6 54.Rg5 Rb4 55.h4 Ke6 56.b6 Kf6 57.b7 Rxb7 58.Kxd4 Re7
+59.Rg4 Re1 60.Kd3 Kf5 61.Rg5+ Kf6 62.Kd2 Re8 63.Kd3 Re7 64.Rg4 Re1 65.Rf4+ Kg6
+66.Re4 Rg1 67.Rg4+ Kh5 68.Rg5+ Kh6 69.Ke3 Rf1 70.Rg4 Kh5 71.Rf4 Ra1 72.Kf2 Ra2+
+73.Kf3 Rb2 74.Rf5+ Kg6 75.Kg4 Rb4+ 76.Rf4 Rb5 77.Ra4 Rb6 78.h5+ Kh6 79.Kh4 Rc6
+80.g4  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "4"]
+[White "Maroczy, Geza"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A85"]
+
+1.d4 e6 2.c4 f5 3.Nc3 Nf6 4.a3 Be7 5.e3 O-O 6.Bd3 d5 7.Nf3 c6 8.O-O Ne4 9.Qc2 Bd6
+10.b3 Nd7 11.Bb2 Rf6 12.Rfe1 Rh6 13.g3 Qf6 14.Bf1 g5 15.Rad1 g4 16.Nxe4 fxe4
+17.Nd2 Rxh2 18.Kxh2 Qxf2+ 19.Kh1 Nf6 20.Re2 Qxg3 21.Nb1 Nh5 22.Qd2 Bd7 23.Rf2 Qh4+
+24.Kg1 Bg3 25.Bc3 Bxf2+ 26.Qxf2 g3 27.Qg2 Rf8 28.Be1 Rxf1+ 29.Kxf1 e5 30.Kg1 Bg4
+31.Bxg3 Nxg3 32.Re1 Nf5 33.Qf2 Qg5 34.dxe5 Bf3+ 35.Kf1 Ng3+  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "4"]
+[White "Tarrasch, Siegbert"]
+[Black "Saemisch, Fritz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B24"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 d6 4.Bg2 Bd7 5.Nge2 Qc8 6.Nf4 Bg4 7.f3 Bd7 8.d3 g6
+9.Ncd5 Bg7 10.c3 Rb8 11.O-O h5 12.h4 Nh6 13.Kh2 b5 14.Bd2 a5 15.Bh3 e6 16.Ne3 Ne7
+17.Re1 Qa6 18.Bf1 Qa7 19.Rb1 Nc6 20.Qe2 Ng8 21.Nh3 Nge7 22.Bg2 a4 23.f4 a3
+24.b3 b4 25.cxb4 Nxb4 26.Nc4 Nxa2 27.Nxd6+ Kf8 28.e5 Nd5 29.Bxd5 exd5 30.Qf3 Bg4
+31.Qxd5 Be6 32.Qf3 Nb4 33.Bxb4 cxb4 34.Ng5 Kg8 35.Nxe6 fxe6 36.Re2 Kh7 37.Rc1 Rhd8
+38.g4 Rxd6 39.exd6 a2 40.Rxe6 a1=Q 41.Rxa1 Qxa1 42.Qe4 Qf1 43.Qxg6+ Kg8 44.Re8+ Rxe8
+45.Qxe8+ Bf8 46.Qe6+ Kh7 47.Qf7+ Bg7 48.Qxh5+ Bh6 49.Qf5+ Kg8 50.Qd5+ Kf8
+51.g5 Qxf4+ 52.Kh3 Bxg5 53.hxg5 Qe3+ 54.Kg4 Qg1+ 55.Kf5 Qf2+ 56.Kg6  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "4"]
+[White "Reti, Richard"]
+[Black "Spielmann, Rudolf"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D10"]
+
+1.d4 d5 2.c4 c6 3.e3 Nf6 4.Nd2 Bf5 5.Ngf3 e6 6.Be2 Bd6 7.c5 Bc7 8.b4 Nbd7
+9.Bb2 Ne4 10.Nxe4 Bxe4 11.O-O Qf6 12.Nd2 Qh6 13.f4 f5 14.Nxe4 fxe4 15.b5 O-O
+16.Qa4 e5 17.dxe5 Bxe5 18.Bxe5 Nxe5 19.Qd4 Nd7 20.Rab1 Qe6 21.bxc6 Qxc6 22.Bb5 Qe6
+23.Ba4 Rab8 24.Rfd1 Nf6 25.Rd2 Rf7 26.Qe5 Qxe5 27.fxe5 Ng4 28.Rxd5 Nxe3 29.Rd7 Rf5
+30.h3 Rxe5 31.c6 b5 32.c7 Rc8 33.Rd8+ Re8 34.Rxe8+  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "4"]
+[White "Treybal, Karel"]
+[Black "Rubinstein, Akiba"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 Be7 6.O-O b5 7.Bb3 O-O 8.a4 b4
+9.Nd5 Nxe4 10.d4 exd4 11.Nxe7+ Nxe7 12.Qxd4 d5 13.Qxb4 c5 14.Qe1 Bb7 15.c3 Ng6
+16.Be3 Qb6 17.Qd1 Rad8 18.Bc2 Qc7 19.a5 Nf4 20.Ra3 Ne6 21.Qe2 Rfe8 22.Rc1 Nf4
+23.Qf1 Ne6 24.b4 Qe7 25.bxc5 N6xc5 26.Raa1 Rc8 27.Nd4 Nd6 28.Nf5 Nxf5 29.Bxf5 Rc6
+30.Rab1 Qc7 31.Rb6 Rxb6 32.axb6 Qc6 33.Bc2 h6 34.h3 Nd7 35.Bd4 Nxb6 36.Qd3 g6
+37.Qd2 Kh7 38.Qf4 Re7 39.Rb1 Nd7 40.Ba4 Qxa4 41.Qd6 Re6 42.Qf4 Re7 43.Rxb7 Qc6
+44.Ra7 f6 45.Kh2 Kg7 46.g3 Rf7 47.Qe3 Nf8 48.Rxf7+ Kxf7 49.Qxh6 Ne6 50.Be3 Qxc3
+51.Qh7+ Ng7 52.Bh6 f5 53.h4 Qf6 54.Qh8 Ne6 55.Qh7+ Ke8 56.Qb7 Qd4 57.Be3 Qe4
+58.Qc8+ Ke7 59.Qb7+ Ke8 60.Qc8+ Kf7 61.Qb7+ Kg8 62.Qb8+ Kf7 63.Qb7+ Kf6 64.Qxa6 d4
+65.Bf4 Kf7 66.Qa7+ Kf6 67.Qa6 Qd5 68.Bg5+ Kf7 69.Qa7+ Kg8 70.Qb8+ Kf7 71.Qa7+  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "4"]
+[White "Teichmann, Richard"]
+[Black "Mieses, Jacques"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A82"]
+
+1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.f3 d5 5.Bg5 Nc6 6.Bxf6 exf6 7.fxe4 dxe4 8.d5 Ne5
+9.Nxe4 Qe7 10.Qe2 Bg4 11.Nf3 Bxf3 12.gxf3 f5 13.f4 Ng6 14.Ng3 Nxf4 15.Qxe7+ Bxe7
+16.Nxf5 Bb4+ 17.c3 O-O 18.Ng3 Rae8+ 19.Kd2 Bc5 20.Bc4 Kh8 21.Rae1 Rd8 22.b4 Bf2
+23.Re7 Nxd5 24.Bxd5 Rxd5+ 25.Kc2 Bxg3 26.hxg3 Rdf5 27.Rxc7 R5f7  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "4"]
+[White "Gruenfeld, Ernst"]
+[Black "Johner, Paul F"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D52"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.Nd2 dxc4 8.Bxf6 Nxf6
+9.Nxc4 Qc7 10.Rc1 Be7 11.Bd3 Bd7 12.O-O O-O 13.Qe2 Rfd8 14.Rfd1 Be8 15.Ne5 Qa5
+16.Qf3 Rac8 17.a3 b5 18.Ne4 b4 19.Nc4 Qd5 20.axb4 Nxe4 21.Bxe4 Qb5 22.Ne5 Qxb4
+23.Bxc6 f6 24.Bxe8 Rxe8 25.Nc6 Qb7 26.d5 Qd7 27.Qg4 f5 28.Qc4 Red8 29.Nxe7+ Qxe7
+30.Qxc8 Rxc8 31.Rxc8+ Kf7 32.d6  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "5"]
+[White "Wolf, Heinrich"]
+[Black "Maroczy, Geza"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C66"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O d6 5.d4 Bd7 6.Nc3 Be7 7.Re1 exd4 8.Nxd4 O-O
+9.Bg5 h6 10.Bh4 Nh7 11.Bxe7 Qxe7 12.Nd5 Qd8 13.c3 Nf6 14.Bf1 Re8 15.Qf3 Nxd5
+16.Nxc6 Bxc6 17.exd5 Bd7 18.Qf4 Qg5 19.Qd4 a6 20.g3 Rxe1 21.Rxe1 Re8 22.f4 Qd8
+23.Rxe8+ Qxe8 24.Kf2 Bf5 25.b3 Qe4 26.Qxe4 Bxe4 27.Bg2 Bb1 28.a3 Kf8 29.Ke3 Bc2
+30.b4 g6 31.g4  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "5"]
+[White "Tartakower, Saviely"]
+[Black "Reti, Richard"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C44"]
+
+1.e4 e5 2.Nf3 Nc6 3.Be2 Nf6 4.d3 d5 5.Nbd2 Bd6 6.O-O O-O 7.Re1 Bg4 8.c3 Qd7
+9.h3 Bh5 10.Nh4 Bxe2 11.Qxe2 Ne7 12.Nf1 dxe4 13.dxe4 Rfd8 14.Bg5 Qe6 15.Qf3 Nd7
+16.Bxe7 Bxe7 17.Nf5 Bf8 18.b3 Nc5 19.Red1 Qa6 20.N1g3 Rxd1+ 21.Qxd1 Ne6 22.Qd5 Rd8
+23.Qxe5 f6 24.Nh6+ gxh6 25.Qxf6 Bg7 26.Qh4 Qd6 27.Nf5 Qe5 28.Nd4 Qg5 29.Qxg5 Nxg5
+30.Re1 Bxd4 31.cxd4 Rxd4 32.e5 Kf7 33.Rf1 Ke6 34.f4 Ne4 35.g4 Ng3 36.Rf3 Ne2+
+37.Kf2 Nxf4 38.Kg3 Kxe5 39.Re3+ Re4 40.Rc3 Ne2+ 41.Kh4 Nxc3  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "5"]
+[White "Spielmann, Rudolf"]
+[Black "Tarrasch, Siegbert"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.exd5 exd5 5.Bg5 Nc6 6.Bb5 Be7 7.Nge2 O-O 8.O-O a6
+9.Bxc6 bxc6 10.Ng3 h6 11.Bf4 c5 12.Nce2 Bg4 13.dxc5 Bxc5 14.h3 Bxe2 15.Qxe2 Re8
+16.Qf3 Bd6 17.Rae1 Bxf4 18.Qxf4 Qd7 19.Nf5 Rxe1 20.Rxe1 Re8 21.Rd1 Qe6 22.Rd3 Qe1+
+23.Kh2 Qe5 24.Qxe5 Rxe5 25.Ne3 c6 26.c4 dxc4 27.Nxc4 Re2 28.Ra3 Rc2 29.b3 Rxf2
+30.Rxa6 Ne4 31.a4 f5 32.Rxc6 f4 33.Ne5 g5 34.a5 Ra2 35.b4 Ra1 36.Nd3 Ra2
+37.Kg1 h5 38.Rc1 Nd2 39.Ne5 g4 40.hxg4 hxg4 41.Nxg4 f3 42.Rd1 fxg2 43.Rxd2 Rxd2
+44.Ne5 Ra2 45.Nd7 Rb2  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "5"]
+[White "Mieses, Jacques"]
+[Black "Kostic, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B02"]
+
+1.e4 Nf6 2.Nc3 d5 3.exd5 Nxd5 4.Nxd5 Qxd5 5.Qf3 Qc5 6.Qc3 e5 7.Nf3 Nc6 8.Qxc5 Bxc5
+9.Bb5 Bd7 10.O-O f6 11.d3 O-O-O 12.Be3 Bxe3 13.fxe3 Nb4 14.Bxd7+ Rxd7 15.Rf2 e4
+16.dxe4 Re8 17.e5 f5 18.a3 Nc6 19.Nd4 Rxe5 20.Nxf5 g6 21.Nd4 Rxe3 22.Nxc6 bxc6
+23.Raf1 c5 24.g3 Kb7 25.Rf7 Rd2 26.R1f2 Ree2 27.Rxe2 Rxe2 28.Rf2 Re7 29.Kf1 Kc6
+30.Re2 Rd7 31.Ke1 a5 32.Re4 Rd4 33.Re7 h5 34.Ke2 Rd6 35.Ke3 Rf6 36.h4 a4
+37.Re8 Kd5 38.Rd8+ Ke5 39.Re8+ Kd5 40.Rd8+ Ke5 41.Ra8 Rb6 42.Rxa4 Rxb2 43.Kd3 Kd5
+44.Ra8 Ra2 45.Kc3 Ra1 46.Rd8+ Kc6 47.Kb2 Rg1 48.Rd3 Re1 49.Rb3 Re4 50.Rf3 Rg4
+51.Kc3 Kb5 52.Kd2 Ka4 53.Rc3 Kb5 54.Ke2 g5 55.hxg5 Rxg5 56.Kf3 Rg4 57.Rb3+ Ka4
+58.Rc3 Kb5  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "5"]
+[White "Saemisch, Fritz"]
+[Black "Treybal, Karel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D15"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.Nc3 h6 5.e3 e6 6.Bd3 Nbd7 7.O-O Bd6 8.e4 dxe4
+9.Nxe4 Nxe4 10.Bxe4 Nf6 11.Bc2 b6 12.Qe2 Bb7 13.Bd2 O-O 14.Rad1 Qe7 15.Bc3 Rfd8
+16.Rfe1 Rac8 17.a3 a5 18.Bb1 Ba6 19.Bd3 Bb7 20.Nd2 Bb8 21.Ne4 c5 22.d5 Nh7
+23.Ng3 Bxg3 24.hxg3 Nf8 25.Qg4 Qg5 26.Qh3 Rd7 27.f4 Qd8 28.f5 exd5 29.f6 d4
+30.fxg7 Kxg7 31.Bd2 Rd6 32.Bf4 Rcc6 33.Be5+ Kg8 34.Bxd6 Rxd6 35.Qg4+ Qg5
+36.Qf4 Qxf4 37.gxf4 Ne6 38.g3 Kg7 39.Rd2 Bc6 40.Rf2 Bd7 41.g4 Nf8 42.f5 Nh7
+43.Kh2 Ng5 44.Kg3 Bc6 45.Re7 Kf6 46.Ree2 Kg7 47.Rf4 Ba4 48.Rh2 Rf6 49.b4 axb4
+50.axb4 Bc6 51.Ra2 cxb4 52.Rxd4 Nf3 53.Rd8 Ne5 54.Kf4 Nd7 55.Be4 b3 56.Rb2 Nc5
+57.Bxc6 Ne6+ 58.Ke4 Nxd8 59.Bd5 Nc6 60.Rxb3 Ne7 61.Ra3 h5 62.Ra7 Nxd5 63.cxd5 hxg4
+64.Ke5 Rh6 65.Ra4 Kf8 66.d6 Ke8 67.Ra8+ Kd7 68.Ra7+ Kd8 69.Rxf7 Rh1 70.Rg7 Rg1
+71.f6 Re1+ 72.Kd5 Rd1+ 73.Kc6 Ke8 74.d7+ Kf8 75.Re7 b5 76.Re8+ Kf7 77.d8=Q Rxd8
+78.Rxd8 Kxf6 79.Kd5  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "5"]
+[White "Rubinstein, Akiba"]
+[Black "Gruenfeld, Ernst"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E28"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.a3 Bxc3+ 6.bxc3 d6 7.Nf3 Nbd7 8.Be2 c5
+9.O-O Qc7 10.Nd2 e5 11.a4 Re8 12.f4 exd4 13.exd4 Nf8 14.f5 Qe7 15.Bf3 Qe3+
+16.Kh1 Qxc3 17.Rb1 Bxf5 18.Rxb7 Bc2 19.Bb2 Bxd1 20.Bxc3 Bxf3 21.gxf3 Re3
+22.Ba1 cxd4 23.Bxd4 Rd3 24.Nb3 Nh5 25.Bg1 Ne6 26.a5 a6 27.Rb6 Rc3 28.Nd4 Nhf4
+29.Nxe6 Nxe6 30.Rd1 Ra3 31.Rdb1 g5 32.Rxd6 Rxa5 33.Rc1 Ra3 34.c5 a5 35.c6 Rc8
+36.Bb6 a4 37.c7 Rxf3 38.Rd8+ Nxd8 39.cxd8=Q+ Rxd8 40.Bxd8 h6 41.Rc6 Kg7 42.Kg2 Rf4
+43.Bc7 Re4 44.Ra6 f6 45.Kf3 Rc4 46.Bd8 Rf4+ 47.Ke3 h5 48.Bc7 Rc4 49.Bg3 Kf7
+50.Be1 Rc2 51.Bg3 h4 52.Bb8 Rc4 53.Kd3 Rg4 54.Bc7 Kg7 55.Ke3 Rc4 56.Bd8 Rf4
+57.Bb6 Kf7 58.Bd4 Rf1 59.Ke2 Rf4 60.Rxa4 Kg6 61.Ke3 Kh5 62.Ra6 Kg6 63.Ra2 Rf1
+64.Ra1 Rf4 65.Ra2 Rf1 66.Rf2 Re1+ 67.Kf3 Re6 68.Rb2 Re1 69.Rb6 Rf1+ 70.Ke2 Rf4
+71.Bc3 Re4+ 72.Kf3 Rf4+ 73.Kg2 Rf5 74.Rd6 Rf4 75.Bd4 Rg4+ 76.Kf3 Rf4+ 77.Ke2 Rf5
+78.Ra6 Rf4 79.Ke3 Rf1 80.Ra1 Rf4 81.Rb1 Rf5 82.Rb6 Rf4 83.Bc3 Rf1 84.Ra6 Rf4
+85.Rc6 Rf1 86.Rb6 Rf4 87.Rb2 Rc4 88.Bd4 Rc1 89.Rf2 Re1+ 90.Kd3  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "5"]
+[White "Johner, Paul F"]
+[Black "Teichmann, Richard"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D63"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Be7 5.Bg5 Nbd7 6.e3 O-O 7.Rc1 c6 8.a3 a6
+9.Bd3 dxc4 10.Bxc4 b5 11.Bd3 c5 12.Qe2 Bb7 13.O-O Rc8 14.Rcd1 cxd4 15.exd4 Nb6
+16.Ne5 Nbd5 17.Ne4 Nxe4 18.Qxe4 g6 19.Bh6 Re8 20.Qf3 Bf6 21.Be4 Qe7 22.Rd3 Rc7
+23.Re1 Bg7 24.Qh3 Rec8 25.Nf3 Bxh6 26.Qxh6 Qf6 27.Bxd5 Bxd5 28.Ne5 Qg7 29.Qf4 Rc2
+30.Ng4 f5 31.Ne3 Rc1 32.Kf1 Rxe1+ 33.Kxe1 Qc7 34.Qxc7 Rxc7  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "6"]
+[White "Johner, Paul F"]
+[Black "Rubinstein, Akiba"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D30"]
+
+1.d4 d5 2.c4 e6 3.Nf3 a6 4.cxd5 exd5 5.Nc3 Nf6 6.Bg5 Be7 7.e3 O-O 8.Bd3 c6
+9.Bxf6 Bxf6 10.Qc2 h6 11.O-O-O Bg4 12.h3 Bxf3 13.gxf3 a5 14.Kb1 Nd7 15.Ne2 Qb6
+16.Bf5 Rfd8 17.Bxd7 Rxd7 18.Nf4 Rd6 19.Rhg1 Kh8 20.Rg4 Rg8 21.Rdg1 Qc7 22.Nd3 b6
+23.f4 c5 24.dxc5 bxc5 25.Qxc5 Rc6 26.Qa3 Rc8 27.Rd1 Bxb2 28.Kxb2 Rc3 29.Qa4 Rc2+  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "6"]
+[White "Treybal, Karel"]
+[Black "Spielmann, Rudolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.Be3 O-O 11.Nbd2 f5 12.Nxe4 fxe4 13.Nd4 Nxd4 14.cxd4 a5 15.a4 c6
+16.f4 Qd7 17.axb5 cxb5 18.g4 a4 19.Ba2 Bxg4 20.Bxd5+ Kh8 21.e6 Bxe6 22.Bxa8 Rxa8
+23.Qc2 Bc4 24.Rf2 Bd3 25.Qd2 b4 26.Kh1 b3 27.Rg2 Qb7 28.f5 a3 29.f6 Bxf6
+30.Rxa3 Rxa3 31.bxa3 Bc2 32.Rg1 Qc8 33.a4 Qf5 34.a5 Qf3+ 35.Rg2 h5 36.Kg1 b2  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "6"]
+[White "Maroczy, Geza"]
+[Black "Mieses, Jacques"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A81"]
+
+1.d4 f5 2.g3 b6 3.Bg2 Nc6 4.Nf3 e6 5.O-O Bb7 6.Nbd2 Nf6 7.c4 Bd6 8.a3 Rb8
+9.b4 Be7 10.Bb2 d5 11.Qc2 Ne4 12.cxd5 exd5 13.Rac1 a6 14.Rfd1 Rc8 15.Qb3 Qd6
+16.e3 h5 17.Ne5 h4 18.Nxe4 fxe4 19.Bxe4 Nxe5 20.dxe5 Qh6 21.Rxd5 hxg3 22.hxg3 Qh2+
+23.Kf1 Rf8 24.Bg6+ Rf7 25.Bxf7+ Kxf7 26.Rd8+ Kg6 27.Qe6+ Bf6 28.Qg4+ Bg5
+29.Rxc8  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "6"]
+[White "Tarrasch, Siegbert"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Bc4 Bd6 7.Ne2 Qc7 8.Be3 O-O
+9.Qd2 Nd7 10.Bb3 b5 11.Ng3 a5 12.c3 Nb6 13.Ne4 a4 14.Bc2 Nc4 15.Qd3 f5 16.Nxd6 Nxb2
+17.Qe2 Qxd6 18.Bxf5 Qa3 19.O-O Bxf5 20.Bc1 Qxc3 21.Bxb2 Qd3 22.Qxd3 Bxd3
+23.Rfd1 a3 24.Bc3 Bc4 25.Bb4 Rfe8 26.Re1 Rxe1+ 27.Rxe1 h6 28.Re3 Ra4 29.Bxa3 b4
+30.Bc1 Rxa2  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "6"]
+[White "Gruenfeld, Ernst"]
+[Black "Saemisch, Fritz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 c5 4.Bg2 Nc6 5.O-O a6 6.c4 cxd4 7.Nxd4 Qc7 8.Nxc6 dxc6
+9.Nc3 e5 10.Qc2 Be6 11.Na4 Be7 12.Be3 O-O 13.Bb6 Qc8 14.Ba5 Rb8 15.Nb6 Qe8
+16.Qc3 Bd8 17.b3 Bf5 18.Qe3 Qe6 19.Rad1 Re8 20.Qd2 Bc7 21.Na4 b6 22.Bb4 Rbd8
+23.Qc1 e4 24.Rxd8 Rxd8 25.Bd2 c5 26.Bf4 Bxf4 27.Qxf4 Rd6 28.Nc3 h6 29.Rd1 Rd4
+30.Qc7 g5 31.Rxd4 cxd4 32.Qd8+  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "6"]
+[White "Reti, Richard"]
+[Black "Wolf, Heinrich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D64"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Qc2 a6
+9.c5 e5 10.dxe5 Ng4 11.Bxe7 Qxe7 12.Na4 Re8 13.Bd3 h6 14.Nd4 Ndxe5 15.Nb6 Nxf2
+16.Bh7+ Kh8 17.O-O Nfg4 18.Nxa8 Nxe3 19.Qe2 Nxf1 20.Bb1 Nxh2 21.Nb6 Nef3+
+22.gxf3 Qg5+ 23.Kxh2 Rxe2+ 24.Nxe2 Qe5+ 25.Ng3 Qxb2+ 26.Rc2 Qxb1 27.Re2 Be6
+28.f4 g6 29.Na8 h5 30.Nc7 h4 31.Nh1 Qd3 32.Rf2 Bf5  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "6"]
+[White "Teichmann, Richard"]
+[Black "Kostic, Boris"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D64"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nc3 Nbd7 5.Bg5 Be7 6.e3 O-O 7.Rc1 c6 8.Qc2 dxc4
+9.Bxc4 Nd5 10.Ne4 h6 11.Bxe7 Qxe7 12.O-O N5f6 13.Ng3 b6 14.Qe2 c5 15.Ba6 e5
+16.Bxc8 Raxc8 17.dxe5 Nxe5 18.Nxe5 Qxe5 19.f4 Qe6 20.e4 Rfe8 21.e5 Nd7 22.Rcd1 Nb8
+23.Ne4 Rcd8 24.Qf2 Nc6 25.Nd6 Rf8 26.Rfe1 f6 27.f5 Qe7 28.exf6 Qxf6 29.Ne4 Qxf5
+30.Qxf5 Rxf5 31.Rxd8+ Nxd8 32.Nd6 Rf8 33.Re7 Nc6 34.Rc7 Nd4 35.h3 Rf6 36.Nc8 a5
+37.a4 Ne2+ 38.Kh2 Nf4 39.Rd7 Kf8 40.g3 Ng6 41.Rd8+ Kf7 42.Rd7+ Kg8 43.Kg2 Ne5
+44.Rd2 c4 45.Re2 Nd3 46.Ne7+ Kf7 47.Nd5 Re6  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "7"]
+[White "Spielmann, Rudolf"]
+[Black "Gruenfeld, Ernst"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C38"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nc6 4.Nf3 g5 5.O-O d6 6.d4 Bg7 7.c3 h6 8.g3 g4 9.Nh4 f3
+10.Nd2 Bf6 11.Ndxf3 gxf3 12.Qxf3 Rh7 13.Ng6 Rg7 14.Nf4 Bg4 15.Qg2 Bg5 16.h3 Bd7
+17.Nh5 Rh7 18.e5 dxe5 19.Qe4 f5 20.Rxf5 Bxf5 21.Qxf5 Re7 22.Bxg5 hxg5 23.Rf1 Qd6
+24.Bxg8 exd4 25.Qf8+ Kd7 26.Qxa8 Qc5 27.Nf6+ Kd6 28.Qf8 Qe5 29.Kg2 d3 30.Rf2 Qe1
+31.Qh6  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "7"]
+[White "Rubinstein, Akiba"]
+[Black "Teichmann, Richard"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E22"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 c5 5.dxc5 Bxc5 6.Nf3 O-O 7.e3 d5 8.cxd5 exd5
+9.Be2 Bb6 10.O-O Be6 11.Rd1 Qe7 12.Qa4 Nc6 13.b3 Rfd8 14.Ba3 Qe8 15.Qh4 Bc7
+16.Rac1 a6 17.Bd3 h6 18.Na4 Bd6 19.Bxd6 Rxd6 20.Nc5 Qe7 21.Nd4 Ne5 22.Qf4 Nxd3
+23.Rxd3 Rc8 24.Rdc3 Rdd8 25.Qe5 Ng4 26.Qf4 Nf6 27.h3 Rc7 28.Qxc7 Qxc7 29.Ncxe6 Qxc3
+30.Rxc3 fxe6 31.Nxe6 Rd7 32.f3 Kf7 33.Nd4 g6 34.Kf2 Ke7 35.Rc8 Ne8 36.Ke2 Kf7
+37.Kd3 Nd6 38.Rc5 Ne8 39.a4 Ke7 40.h4 h5 41.Ne2 Nc7 42.Nf4 Kd6 43.Rc1 Rg7
+44.g4 hxg4 45.fxg4 a5 46.Rh1 g5 47.hxg5 Rxg5 48.Rh6+ Ke5 49.Ng6+ Kf6 50.Nf8+ Kf7
+51.Rh7+ Rg7 52.Rxg7+ Kxg7 53.Nd7 Na6 54.Kd4 Nb4 55.Nc5 b6 56.Nd7 Nc2+ 57.Kd3 Nb4+
+58.Kc3 Kg6 59.Nxb6 Kg5 60.Kd4 Nc2+ 61.Kxd5 Nxe3+ 62.Kc5 Nxg4 63.Nc4  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "7"]
+[White "Wolf, Heinrich"]
+[Black "Tarrasch, Siegbert"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.Re1 O-O 11.Nd4 Nxe5 12.f3 Bd6 13.fxe4 Bg4 14.Qd2 Qh4 15.h3 Bd7
+16.Bxd5 c6 17.Bb3 c5 18.Nf5 Bxf5 19.exf5 Nd3 20.Re3 c4 21.Bc2 Bc5 22.Bxd3 cxd3
+23.Qf2 Qf6 24.Kf1 Rae8 25.Qf3 Bxe3 26.Bxe3 Qe7 27.Kf2 Qh4+ 28.Kf1 Qe7 29.Kf2 Qh4+
+30.Kf1 Qe7  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "7"]
+[White "Tartakower, Saviely"]
+[Black "Treybal, Karel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Nc2 Bxe3 8.Nxe3 O-O
+9.Be2 d6 10.O-O Qh6 11.Nd2 Kh8 12.f4 f5 13.Nd5 Nxd5 14.exd5 Ne7 15.Qb3 c5
+16.Rae1 Ng8 17.Bd3 Rb8 18.a4 Nf6 19.Bb5 Qg6 20.Re3 Qf7 21.Rfe1 Qc7 22.Re7 Qd8
+23.R7e3 a6 24.Bxa6 Ng4 25.R3e2 Bd7 26.Bb5 Bxb5 27.Qxb5 Nf6 28.Re6 Nxd5 29.Qc4 Nf6
+30.Qd3 d5 31.R1e5 Ra8 32.b3 c4 33.Qd4 cxb3 34.Nxb3 Rc8 35.Rxf5 Rc4 36.Qe5 Re4
+37.Qd6 Re1+ 38.Kf2 Ne4+ 39.Rxe4 Qxd6 40.Rxf8+ Qxf8 41.Rxe1 Qxf4+ 42.Kg1 h6
+43.Nd4 Qd2 44.Nf3 Qxc3 45.Rd1 Qb3 46.Rd4 Kg8 47.h4 Kf7 48.Kh2 Ke6 49.h5 Kd6
+50.Rg4 Qc3 51.Kg3 Kc5 52.Rf4 Qb2 53.Rg4 b6 54.Rf4 Qe2 55.Rg4 Qe8 56.Rh4 Qf7
+57.Kh3 Qd7+ 58.Kg3 Qf5 59.Kh2 Qf7 60.Kg3 Qc7+ 61.Kh3 Qf7 62.Kg3 Qf5 63.Kh2 Kd6
+64.Kg3 Kc7 65.Kh2 Kb7 66.Kg3 Ka6 67.Kh2 Ka5 68.Kg3 Qf7 69.Kh3 d4 70.Rxd4 Qxh5+
+71.Kg3 Qf5 72.Kf2 h5 73.Ke3 g5 74.Nd2 Qe5+ 75.Ne4 Qf4+ 76.Ke2 h4 77.Nd2 Qg3
+78.Nc4+ Kxa4 79.Nxb6+ Kb5  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "7"]
+[White "Saemisch, Fritz"]
+[Black "Johner, Paul F"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D64"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 O-O 7.Rc1 c6 8.Qc2 a6
+9.a3 dxc4 10.Bxc4 b5 11.Bd3 c5 12.Bxf6 Nxf6 13.dxc5 Bxc5 14.Ne4 Bd6 15.Qc6 Be7
+16.Nxf6+ gxf6 17.Bxh7+ Kxh7 18.Qxa8 Qd3 19.Rxc8 Rxc8 20.Qxc8 Qb1+ 21.Ke2 Qxh1
+22.Qe8  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "7"]
+[White "Mieses, Jacques"]
+[Black "Reti, Richard"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Bd3 d5 7.e5 Nd7 8.O-O Nc5
+9.f4 Qh4 10.Be3 Nxd3 11.Qxd3 Be7 12.Nd2 O-O 13.Qc3 Bd7 14.Bc5 Bxc5+ 15.Qxc5 Rfb8
+16.b3 Rb5 17.Qe3 Qe7 18.Nf3 c5 19.c3 a5 20.Qd3 c6 21.c4 dxc4 22.bxc4 Rbb8
+23.f5 Rd8 24.Rae1 g6 25.f6 Qf8 26.Ng5 h6 27.Ne4 Bf5 28.Qg3 Bxe4 29.Rxe4 Kh7
+30.e6 fxe6 31.Qc7+ Kh8 32.Rxe6 Rd2 33.Re7 Rad8 34.Rh7+ Kg8 35.Rg7+ Kh8 36.Qf4  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "7"]
+[White "Kostic, Boris"]
+[Black "Maroczy, Geza"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E21"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 Ne4 5.Qb3 c5 6.Nd2 Bxc3 7.bxc3 Nxd2 8.Bxd2 Qc7
+9.e4 d6 10.Be2 e5 11.O-O Nc6 12.d5 Ne7 13.f4 exf4 14.Bxf4 Ng6 15.Bg3 O-O
+16.Bd3 Re8 17.a4 Ne5 18.Bc2 f6 19.h3 Re7 20.Rfb1 Rb8 21.a5 Bd7 22.a6 b6 23.Re1 Be8
+24.Qa2 Qc8 25.Rab1 Bd7 26.Re3 Qe8 27.Rf1 Qc8 28.Rfe1 b5 29.cxb5 Bxb5 30.Bxe5 Rxe5
+31.c4 Be8 32.Rb1 Rb4 33.Reb3 Bg6 34.Kh2 Rxb3 35.Rxb3 Bxe4 36.Bxe4 Rxe4 37.Qb1 Qf5
+38.Rg3 g5 39.Qb8+ Kg7 40.Qxa7+ Kg6 41.Qb8 Qf4 42.Qg8+ Kh6 43.Qf8+ Kg6 44.Qg8+ Kh6
+45.Qc8 Re3 46.Qg4 Qe5 47.h4 Ra3 48.hxg5+ fxg5 49.Qe6+ Qxe6 50.dxe6 Rxa6 51.e7 Ra8
+52.Rd3 Re8 53.Rxd6+ Kg7 54.Rd5 Kf6 55.Rxc5 Rxe7 56.Kg3 Re4  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "8"]
+[White "Johner, Paul F"]
+[Black "Spielmann, Rudolf"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D64"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Be7 5.Bg5 O-O 6.e3 Nbd7 7.Rc1 c6 8.Qc2 Re8
+9.Bd3 h6 10.Bh4 dxc4 11.Bxc4 b5 12.Bd3 Bb7 13.O-O a6 14.Ne4 Nxe4 15.Bxe7 Qxe7
+16.Bxe4 f5 17.Bd3 Rac8 18.a4 c5 19.Qe2 c4 20.Bb1 Qd6 21.axb5 axb5 22.Rfe1 Bd5
+23.Rcd1 b4 24.e4 fxe4 25.Bxe4 Bxe4 26.Qxe4 c3 27.bxc3 bxc3 28.Rc1 Nf6 29.Qg6 Nd5
+30.Ne5 Qe7 31.g3 Qf6 32.Qe4 Qf5 33.Nd7 Qxe4 34.Rxe4 Rc4 35.Kf1 c2 36.Ne5 Rc3
+37.Ke2 Nb4 38.Re3 Rec8 39.Rxc3 Rxc3 40.Kd2 Rb3 41.f4 h5 42.Ke2 h4 43.gxh4 Rh3
+44.Nf3 Rxf3 45.Kxf3 Nd3 46.Rxc2 Ne1+ 47.Ke4 Nxc2 48.Ke5 Kf7 49.f5 exf5 50.d5 Ne3
+51.d6 Nc4+ 52.Kxf5 Nxd6+ 53.Ke5 Ne8 54.Kf5 Nf6 55.Kg5 Nh7+ 56.Kf5 g6+ 57.Ke5 Nf6
+58.Kf4 Kg7 59.Kg5 Nh5  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "8"]
+[White "Reti, Richard"]
+[Black "Kostic, Boris"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.e4 c5 2.Nf3 e6 3.d4 d5 4.exd5 exd5 5.Be2 Nf6 6.O-O Be7 7.dxc5 O-O 8.Nbd2 Bxc5
+9.Nb3 Be7 10.Bg5 h6 11.Bh4 Nc6 12.c3 Be6 13.Nfd4 Ne4 14.Bxe7 Qxe7 15.Bd3 Nc5
+16.Bc2 Nxb3 17.axb3 Nxd4 18.Qxd4 a6 19.f4 Qf6 20.Qxf6 gxf6 21.Rad1 f5 22.Rd4 Kg7
+23.Bd1 Rac8 24.Bf3 Rc5 25.b4 Rb5 26.Ra1 Rc8 27.Kf2 Kf6 28.Ke3 Ke7 29.h3 Kd6
+30.Be2 Rb6 31.Ra5 Ke7 32.Bf3 Rg8 33.Kf2 Rd8 34.Rc5 Rc6 35.Rxc6 bxc6 36.Rd1 Rb8
+37.Ra1 c5 38.bxc5 Rxb2+ 39.Ke3 Rb5 40.Kd4 a5 41.Ra2 Kd7 42.Be2 Rb1 43.Rxa5 Rb2
+44.Bf3 Rd2+ 45.Ke3 Rc2 46.Kd3 Rb2 47.Ra6 Kc7 48.Rd6 Rb1 49.Kd4 Re1 50.Bxd5 Re2
+51.g3 Re1 52.c4 h5 53.Ra6 Rd1+ 54.Ke5 Re1+ 55.Kf6 Re3 56.Ra7+ Kd8 57.Ra8+ Kd7
+58.Rg8  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "8"]
+[White "Rubinstein, Akiba"]
+[Black "Saemisch, Fritz"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 c5 4.Bg2 Nc6 5.O-O d5 6.b3 Be7 7.Bb2 O-O 8.dxc5 Bxc5
+9.Nbd2 Qe7 10.c4 d4 11.a3 a5 12.b4 axb4 13.axb4 Rxa1 14.Qxa1 Bxb4 15.Bxd4 Nxd4
+16.Qxd4 e5 17.Qe3 Re8 18.Ne4 Nxe4 19.Qxe4 f6 20.Ne1 Be6 21.Nd3 Rc8 22.Qxb7 Rxc4
+23.Qb8+ Qf8 24.Qb6 Bd6 25.Ra1 Rc8 26.Ra6 Rb8 27.Bb7 Bc4 28.Ra4 Bxd3 29.exd3 Bc5
+30.Bd5+ Kh8  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "8"]
+[White "Gruenfeld, Ernst"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A95"]
+
+1.d4 e6 2.Nf3 f5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.c4 d5 7.Nc3 c6 8.Qd3 Ne4
+9.Ne5 Nd7 10.Nxd7 Bxd7 11.f3 Nxc3 12.Qxc3 dxc4 13.Qxc4 b5 14.Qc3 Rc8 15.Be3 a5
+16.Rac1 Bb4 17.Qd3 Qe7 18.a3 Bd6 19.Qd2 b4 20.Bg5 Qf7 21.Bf4 Be7 22.axb4 Bxb4
+23.Qe3 Qe7 24.Bg5 Qd6 25.Bf4 Qe7 26.Bg5 Qd6 27.Bf4 Qe7 28.Bg5 Qd6  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "8"]
+[White "Treybal, Karel"]
+[Black "Wolf, Heinrich"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 Be7 7.Nbd2 O-O 8.Nf1 Be6
+9.Ng3 h6 10.d4 exd4 11.Bxc6 bxc6 12.Nxd4 Qd7 13.O-O Rfe8 14.Qd3 Bf8 15.f3 Reb8
+16.b3 Qe8 17.f4 c5 18.Nxe6 Qxe6 19.c4 Re8 20.Bb2 Nd7 21.f5 Qe7 22.f6 Qe6
+23.Nf5 g6 24.Ng3 Ne5 25.Qd2 a5 26.Rf4 a4 27.Raf1 axb3 28.axb3 Ra2 29.Rh4 Rb8
+30.Qc3 Nxc4 31.Bc1 Ne5 32.Bxh6 Bxh6 33.Rxh6 Qxb3 34.Qc1 Ng4 35.Nf5 Re8 36.Rh4 Rxe4
+37.Ne7+ Rxe7 38.fxe7 Re2 39.Rxg4 Qe3+ 40.Qxe3 Rxe3 41.Rxg6+ Kh7 42.Rgf6  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "8"]
+[White "Teichmann, Richard"]
+[Black "Maroczy, Geza"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C01"]
+
+1.d4 e6 2.e4 d5 3.Nc3 Bb4 4.exd5 exd5 5.Bd3 Nf6 6.Nf3 O-O 7.O-O Bg4 8.Bg5 c6
+9.h3 Bxf3 10.Qxf3 Nbd7 11.Rfe1 Qc7 12.Bf4 Bd6 13.Bxd6 Qxd6 14.a3 Rfe8 15.Re2 Rxe2
+16.Nxe2 Re8 17.Qg3 Qxg3 18.Nxg3 g6 19.Kf1 Kf8 20.Re1 Re7 21.Rxe7 Kxe7 22.Ke2 Ne8
+23.Nf1 Nd6 24.Nd2 Nf8 25.c3 Nd7 26.Kd1 Kd8 27.Ke2 Ke7 28.Kd1 Kd8 29.Ke2 Ke7
+30.Kd1 Nf8 31.Ke2 Ne6 32.Ke3 Nf8 33.Nb3 Ne6 34.Nd2 Nf8 35.Ke2 Nd7 36.Kd1 Nb6
+37.Kc2 Nd7 38.Kd1 Nf8 39.Ke2 Ne6 40.Ke3 Nf8 41.Ke2 Nd7 42.Kd1 Nb6 43.Kc2 Nd7
+44.Kd1 Nf8 45.Ke2 Ne6 46.Ke3  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "8"]
+[White "Tarrasch, Siegbert"]
+[Black "Mieses, Jacques"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A90"]
+
+1.d4 f5 2.g3 e6 3.Bg2 Nf6 4.Nf3 d5 5.O-O Bd6 6.c4 c6 7.Nbd2 Ne4 8.b3 Bb4
+9.Bb2 Bc3 10.Qc2 Bxb2 11.Qxb2 Nd7 12.c5 Qe7 13.b4 Nxd2 14.Nxd2 e5 15.e3 O-O
+16.f4 e4 17.a4 Nf6 18.Rfe1 h5 19.h4 Nd7 20.b5 Rf6 21.Kf2 Rg6 22.Bf1 Nf6 23.Be2 Ng4+
+24.Bxg4 Rxg4 25.bxc6 bxc6 26.Rh1 Ba6 27.Ra3 Qc7 28.Rb3 Rf8 29.Nf1 Qd8 30.Nh2 Rg6
+31.Rb1 Rgf6 32.Rb8 Qe7 33.Qc3 Qc7 34.Qb4 Kh7 35.Nf1 R6f7 36.Rxf8 Rxf8 37.Nd2 Qf7
+38.Nf1 Bxf1 39.Kxf1 Qg6 40.Qe1 Qg4 41.Kg2 Rf6 42.Qd1 Qg6 43.a5 Qe8 44.Rb7 Kh6
+45.a6 Rf7 46.Qa4 Kg6 47.Qb4 Kh7 48.Rb8 Qe6 49.Qa4 Qg6 50.Qd1 Rc7 51.Rd8 Rf7
+52.Rd6 Rf6 53.Rd7 Rf7 54.Rd6 Rf6 55.Rd7 Rf7 56.Rb7 Kh6 57.Rb8 Kh7 58.Rb7 Kh6
+59.Kh2 Kh7 60.Kg2 Kh6 61.Rb8 Kh7 62.Rc8 Rf6 63.Kf2 Rf7 64.Rd8 Rf6 65.Rd7 Rf7
+66.Rb7 Kg8 67.Qg1 Qg4 68.Ke1 Qf3 69.Kd2 Qg4 70.Qe1 Qf3 71.Kc3 Kf8 72.Rb2 Re7
+73.Kb4 Kf7 74.Ka5 Ke6 75.Ka4 Rc7 76.Rb7 Qg2 77.Ka3 Rf7 78.Rxf7 Kxf7 79.Qb1 Qd2
+80.Qb7+ Kg8 81.Qc8+ Kh7 82.Qxf5+ g6  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "9"]
+[White "Wolf, Heinrich"]
+[Black "Gruenfeld, Ernst"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B02"]
+
+1.e4 Nf6 2.d3 d5 3.e5 Nfd7 4.d4 e6 5.f4 c5 6.c3 Qb6 7.Nf3 Nc6 8.Be2 Be7 9.b3 cxd4
+10.cxd4 Bb4+ 11.Kf2 f6 12.Be3 fxe5 13.fxe5 O-O 14.a3 Be7 15.Qd3 Rf7 16.Nd2 Nf8
+17.b4 a6 18.Nb3 Bd7 19.Rhc1 Be8 20.Kg1 Bd8 21.Kh1 Rc7 22.Nc5 Bg6 23.Qd2 Rac8
+24.Rc3 Qa7 25.Rac1 h6 26.Ne1 Nb8 27.Bg4 Bf7 28.Ned3 b6 29.Nb3 Rxc3 30.Rxc3 Rc4
+31.Nb2 Rxc3 32.Qxc3 Qc7 33.Qxc7 Bxc7 34.Be2 Bg6 35.Bd3 Bf7 36.Be2 Bg6 37.Bd3 Bf7
+38.Be2 Bg6 39.Bd3  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "9"]
+[White "Tartakower, Saviely"]
+[Black "Johner, Paul F"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Nc2 Bxe3 8.Nxe3 Qe5
+9.Qd3 f5 10.exf5 d5 11.Be2 Bxf5 12.Nxf5 Nxf5 13.Nd2 O-O 14.O-O Qd6 15.Rad1 Ne5
+16.Qh3 Qf6 17.Nf3 Ng6 18.Bd3 Rae8 19.Rfe1 Rxe1+ 20.Rxe1 Nf4 21.Qxf5 Qxf5
+22.Bxf5 Rxf5 23.Nd4 Rf8 24.Re7 Rf7 25.Re8+ Rf8 26.Rxf8+ Kxf8 27.g3 Nd3 28.Ne6+ Ke7
+29.Nxc7 Nxb2 30.Nxd5+ Kd6 31.Ne3 Na4 32.Nd1 Kc5 33.f4 Kc4 34.Kf2 Nxc3 35.Nxc3 Kxc3
+36.Ke3 Kc4 37.Ke4 b5 38.f5 b4 39.g4 a5 40.g5 a4 41.f6 gxf6 42.gxf6 b3 43.axb3+ axb3
+44.f7 b2 45.f8=Q b1=Q+ 46.Ke5 Qb2+ 47.Ke6 Qxh2  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "9"]
+[White "Spielmann, Rudolf"]
+[Black "Rubinstein, Akiba"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 Qe7+
+9.Qe2 Nxd5 10.Qxe7+ Kxe7 11.a3 Ba5 12.Bd2 Nxc3 13.Bxc3 Bxc3+ 14.bxc3 Be6
+15.Rb1 Rab8 16.Kd2 a5 17.c4 Kd6 18.Kc3 Rxb1 19.Rxb1 Kc5 20.f4 g6 21.g3 Re8
+22.Re1 Kd6 23.c5+ Kxc5 24.Re5+ Kd6 25.Rxa5 Bd5 26.Kd4 Re1 27.c4 Bf3 28.c5+ Kd7
+29.Ra8 Rd1 30.Kc3 Rc1+ 31.Kd4 Rh1 32.a4 Rxh2 33.a5 Rd2 34.Kc3 Ra2 35.a6 h5
+36.Rh8 Ra3+ 37.Kd2 Ke7 38.Rb8 Ra5 39.Ke3 Bd5 40.Kd2 Kf6 41.Rg8 Be6 42.Rh8 Ke7
+43.Rb8 Bf5 44.Bc4 Be6 45.Bd3 Bd5 46.Rc8 Kd7 47.Rh8 Be6 48.Rb8 Ke7 49.Rh8 Bg4
+50.Bc4 Be6 51.Bd3 Bd7 52.Rb8 Be8 53.Bc4 Bd7 54.Bd3 Bf5 55.Bc4 Be6 56.Bd3 Kf6
+57.Rg8 Bd5 58.Rh8 g5 59.Rh6+ Kg7 60.fxg5 Rxc5 61.Rxh5 Ra5 62.Rh7+ Kg8 63.g6 c5
+64.Rh5  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "9"]
+[White "Maroczy, Geza"]
+[Black "Reti, Richard"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Be2 d6 6.d3 Nxe2 7.Qxe2 Be7 8.h3 O-O
+9.O-O Re8 10.Bd2 c6 11.Rad1 Qc7 12.Kh1 b5 13.a3 a5 14.Nh2 b4 15.axb4 axb4
+16.Nb1 d5 17.Rfe1 Ba6 18.Qf3 Rad8 19.Bc1 dxe4 20.dxe4 Rxd1 21.Rxd1 Rd8 22.Rxd8+ Qxd8
+23.Nd2 Qd4 24.Ng4 Nxg4 25.hxg4 Qc5 26.c3 bxc3 27.bxc3 h6 28.c4 Bxc4 29.Nxc4 Qxc4
+30.Be3 c5 31.Qf5 Qd3 32.Qc8+ Kh7 33.Qf5+ Kg8 34.Qc8+  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "9"]
+[White "Saemisch, Fritz"]
+[Black "Teichmann, Richard"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D64"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.Nf3 O-O 6.e3 Nbd7 7.Rc1 c6 8.Qc2 h6
+9.Bf4 Re8 10.c5 Qa5 11.Bd3 Nh5 12.O-O Nxf4 13.exf4 b6 14.cxb6 axb6 15.f5 exf5
+16.Bxf5 Nf6 17.Ne5 Bxf5 18.Qxf5 Rac8 19.Rfe1 Bb4 20.a3 Bxc3 21.Rxc3 Qa7 22.Rg3 Re6
+23.Ree3 Rce8 24.Rgf3 c5 25.dxc5 bxc5 26.Ng4 Nxg4 27.Qxg4 d4 28.Rxe6 Rxe6
+29.h4 Qb8 30.Rg3 Qe5 31.b3 f5 32.Qf3 Qe1+ 33.Kh2 Qe4 34.h5 Kf7 35.Qd1 Qh4+
+36.Kg1 Qe4 37.Kh2 Qh4+ 38.Kg1 Qe4 39.Kh2 Qe5 40.Qf3 Qe4 41.Qd1 Qe2 42.Qc1 Re5
+43.f4 Rd5 44.Qc4 Qxc4 45.bxc4 d3 46.cxd5 c4 47.Rf3 d2 48.Rf1 c3 49.Rd1 Ke7
+50.a4 c2 51.Rxd2 c1=Q 52.d6+ Kd7 53.Rd4 Qc5 54.Rd3 Qc4 55.Rg3 Qxf4 56.Kh3 Qxa4
+57.Rxg7+ Kxd6 58.Rg3 Qd1 59.Rf3 Qh1+ 60.Kg3 Qxh5 61.Kf2 Ke5 62.Re3+ Kf4 63.Ra3 Qd1
+64.Rh3 Qd2+ 65.Kf1 Kg4 66.Kg1 h5 67.Kh2 f4 68.Ra3 Qd6 69.Rf3 Qe5 70.Kh1 Qe1+
+71.Kh2 Qe3  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "9"]
+[White "Mieses, Jacques"]
+[Black "Treybal, Karel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nxc6 bxc6 6.Bd3 Ne7 7.Qe2 O-O 8.O-O d5
+9.Be3 Bb6 10.Nd2 Ng6 11.Nb3 Re8 12.Bxb6 axb6 13.f3 Qf6 14.c3 Nf4 15.Qc2 Nxd3
+16.Qxd3 Ba6 17.Qd2 Bxf1 18.Rxf1 Rxa2 19.exd5 cxd5 20.Nc1 Ra1 21.Qxd5 Qf4
+22.Qd1 Qe3+ 23.Kh1 h6 24.h3 Re6 25.f4 Rd6 26.Qc2 Qd2  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "9"]
+[White "Kostic, Boris"]
+[Black "Tarrasch, Siegbert"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D34"]
+
+1.d4 d5 2.Nf3 c5 3.c4 e6 4.cxd5 exd5 5.Nc3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O
+9.b3 Be6 10.dxc5 Bxc5 11.Bb2 Qe7 12.Nb5 Rac8 13.Nbd4 Ba3 14.Nxc6 Rxc6 15.Bxa3 Qxa3
+16.Nd4 Rc5 17.Qd2 Rfc8 18.h3 Bd7 19.g4 h6 20.Qf4 Qa5 21.b4 Qxb4 22.Rab1 Qa4
+23.Rxb7 Qxa2 24.g5 hxg5 25.Qxg5 R5c7 26.Rb3 Rc3 27.Rb7 R3c7 28.Rb3 Rc3 29.Rb7 R3c7
+30.Rb3 Rc3 31.Rb7 R3c7  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "10"]
+[White "Johner, Paul F"]
+[Black "Wolf, Heinrich"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D24"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 dxc4 5.Qa4+ Nbd7 6.Bg5 Be7 7.Rd1 O-O 8.Qxc4 a6
+9.a4 Nb6 10.Qb3 Nbd5 11.e3 Nxc3 12.bxc3 c5 13.Ne5 cxd4 14.exd4 Qc7 15.Be2 b5
+16.Rc1 bxa4 17.Qxa4 Bb7 18.O-O Rfd8 19.Rfd1 Nd5 20.Bxe7 Qxe7 21.Bf3 Rac8
+22.Bxd5 Rxd5 23.c4 Rxd4 24.Rxd4 Qg5 25.g3 Qxc1+ 26.Rd1 Qb2 27.Qd7 Rf8 28.Qd6 Qe2
+29.c5 Bd5 30.Rxd5 Qe1+ 31.Kg2 Qe4+ 32.Kg1 Qxd5 33.Nc6 Qxd6 34.cxd6 a5 35.Nxa5 Rd8  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "10"]
+[White "Treybal, Karel"]
+[Black "Kostic, Boris"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 g6 7.O-O Bg7 8.d4 O-O 9.dxe5 Nxe5
+10.Nxe5 dxe5 11.Qxd8 Rxd8 12.f3 Be6 13.Be3 Rd3 14.Kf2 Rad8 15.Bc2 R3d7 16.Bb3 Nh5
+17.Bxe6 fxe6 18.g3 h6 19.Ke2 g5 20.c4 g4 21.Nc3 Nf6 22.h3 gxf3+ 23.Rxf3 Nh5
+24.Rd1 Rxd1 25.Nxd1 Nf6 26.Nc3 Nd7 27.g4 Nb8 28.g5 h5 29.g6 Rd7 30.Kf2 Nc6
+31.Kg3 Na5 32.Kh4 Rd3 33.Rg3 Nxc4 34.Bf2 Rxg3 35.Bxg3 Nxb2 36.Kxh5 b5 37.Kg5 b4
+38.Nb1 c5 39.h4 c4 40.Be1 Nd3 41.Bd2 a5 42.a3 Bf8 43.Kf6 bxa3 44.Nxa3 Bxa3
+45.Bxa5 Bb2 46.h5 Nc5 47.h6 Nxe4+ 48.Kxe6 c3  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "10"]
+[White "Gruenfeld, Ernst"]
+[Black "Mieses, Jacques"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A90"]
+
+1.d4 f5 2.g3 e6 3.Bg2 Nf6 4.Nh3 d5 5.O-O Bd6 6.c4 c6 7.Nc3 Nbd7 8.Qd3 Ne4
+9.f3 Nxc3 10.bxc3 Be7 11.e4 Nb6 12.cxd5 cxd5 13.exf5 exf5 14.Re1 O-O 15.Nf4 Bd6
+16.Nxd5 Nxd5 17.Qc4 Bxg3 18.hxg3 Kh8 19.Ba3 Rg8 20.f4 Nb6 21.Qf7 Rb8 22.Kf2 Qf6
+23.Qxf6 gxf6 24.Be7 Kg7 25.Bd6 Ra8 26.Re7+ Kg6 27.Rh1 h5 28.Bf3 Rh8 29.Bc7 Na4
+30.Ba5 Nb2 31.Bd5 Rf8 32.Rc7 Rd8 33.Bf7+ Kg7 34.Rb1 Rd7 35.Rxd7 Bxd7 36.Bd5  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "10"]
+[White "Tarrasch, Siegbert"]
+[Black "Maroczy, Geza"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D15"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.e3 Bf5 6.Bxc4 e6 7.O-O Be7 8.Qe2 Ne4
+9.Nd2 Nxd2 10.Bxd2 Bg6 11.Rad1 Nd7 12.Bc1 Nf6 13.f3 b5 14.Bb3 a6 15.e4 c5
+16.dxc5 Bxc5+ 17.Kh1 Qc7 18.Bg5 O-O 19.Bxf6 gxf6 20.f4 f5 21.g4 b4 22.Na4 Ba7
+23.gxf5 exf5 24.exf5 Bxf5 25.Rd5 Be6 26.Rg5+ Kh8 27.Bxe6 fxe6 28.Qe5+ Qxe5
+29.Rxe5 Rf6 30.Nc5 Bxc5 31.Rxc5 Rd8  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "10"]
+[White "Saemisch, Fritz"]
+[Black "Spielmann, Rudolf"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E10"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.d5 b5 5.Bg5 bxc4 6.e4 Qa5+ 7.Nc3 Nxe4 8.Bxc4 Nxc3
+9.Qd2 Qb4 10.Qxc3 Ba6 11.Qxb4 cxb4 12.Bb3 Bd6 13.dxe6 fxe6 14.O-O-O Be7 15.Rhe1 Nc6
+16.Kb1 O-O-O 17.Ba4 Rhe8 18.Rc1 Kb7 19.Rxe6 Bxg5 20.Bxc6+ dxc6 21.Nxg5 Bd3+
+22.Ka1 Bc4 23.Rxe8 Rxe8 24.f3 Re2 25.Rg1 Bd3 26.Nh3 Bf5 27.Nf4 Rd2 28.h4 c5
+29.g4 Bd7 30.Nh5 Rf2 31.Nxg7 Rxf3 32.g5 Rh3 33.h5 Bg4 34.g6 hxg6 35.hxg6 Rh6
+36.b3 Rxg6 37.Ne6 Rxe6 38.Rxg4 Re1+ 39.Kb2 Re2+ 40.Kb1 Kc6 41.Rg5 Rd2 42.Ka1 a5
+43.Kb1 Rd5 44.Rg8 Rh5 45.Rd8 Rh1+ 46.Kc2 Rh2+ 47.Kb1 Rh7 48.Kc2 Rh2+ 49.Kb1 a4
+50.Rd1 Kb5 51.Rd6 Rh1+ 52.Kc2 Ka5 53.Rd8 a3 54.Rd1 Rxd1 55.Kxd1 c4 56.Kc2 c3
+57.Kc1  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "10"]
+[White "Rubinstein, Akiba"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E10"]
+
+1.d4 e6 2.Nf3 Nf6 3.c4 c5 4.d5 b5 5.e4 Nxe4 6.dxe6 fxe6 7.Bd3 Nf6 8.Ng5 Qe7
+9.cxb5 d5 10.O-O g6 11.Re1 Bg7 12.Qe2 c4 13.Bc2 O-O 14.Nxe6 Re8 15.Nf4 Qf7
+16.Qf1 a6 17.Rxe8+ Nxe8 18.Nc3 Bb7 19.Qe1 d4 20.Ne4 axb5 21.Ng5 Qd7 22.Nfe6 Na6
+23.Bf4 d3 24.Bd1 h6 25.Nxg7 Nxg7 26.Nf3 Re8 27.Qa5 g5 28.Be3 Nf5 29.Qb6 Re6
+30.Qa7 Qe7 31.Rc1 Nxe3  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "10"]
+[White "Teichmann, Richard"]
+[Black "Reti, Richard"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A85"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Ne4 6.Bd3 f5 7.Ne5 Qh4 8.O-O Nd7
+9.f4 Be7 10.Bd2 Nxe5 11.fxe5 Bg5 12.Rf3 Nxd2 13.Qxd2 Qxd4 14.exd4 Bxd2 15.cxd5 exd5
+16.Rd1 Bxc3 17.bxc3 g6 18.h4 Be6 19.Kf2 Ke7 20.Ke3 b6 21.Rb1 Rab8 22.a4 c5
+23.Rf2 c4 24.Bc2 a6 25.Bd1 Bd7 26.Rfb2 b5 27.Bf3 Bc6 28.axb5 axb5 29.Ra2 Ra8
+30.Rba1 Rxa2 31.Rxa2 Ra8 32.Rxa8 Bxa8 33.Kf4 Bc6 34.Bd1 Bd7 35.h5 gxh5 36.Bxh5 h6
+37.Bd1 Kd8 38.Bf3 Be6 39.Bd1 Kd7 40.Bc2 Kc6 41.Bb1 b4 42.cxb4 Kb5 43.Bxf5 c3
+44.Bh7 Kxb4 45.g4 Kc4 46.g5 hxg5+ 47.Kxg5 Bd7 48.Kf6 Ba4 49.e6 c2  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "11"]
+[White "Spielmann, Rudolf"]
+[Black "Teichmann, Richard"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Nf3 Be7 6.Qe2 f5 7.d3 Nc5 8.d4 Ne4
+9.Bf4 O-O 10.h4 c6 11.Qe3 Bb4 12.Nd2 Be6 13.Ncxe4 fxe4 14.Be2 c5 15.c3 cxd4
+16.cxd4 Nc6 17.O-O Qxh4 18.Nxe4 Nxd4 19.Qxd4 dxe4 20.Qxb4 Rxf4 21.Qxb7 Raf8
+22.Qxa7 Qg5 23.Rxf4 Qxf4 24.Qd4 Qg3 25.Bc4 Bxc4 26.Qxc4+ Kh8 27.Qxe4 Qf2+
+28.Kh2 Rf4 29.Qa8+ Rf8  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "11"]
+[White "Mieses, Jacques"]
+[Black "Johner, Paul F"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D01"]
+
+1.d4 d5 2.Nc3 Bf5 3.f3 Nf6 4.Bg5 c6 5.e3 Nbd7 6.Bd3 Bxd3 7.Qxd3 e5 8.Nge2 h6
+9.Bh4 Be7 10.O-O-O Qa5 11.Bg3 exd4 12.exd4 b5 13.Qe3 Qd8 14.Be5 O-O 15.Ng3 Nxe5
+16.dxe5 Nd7 17.f4 Re8 18.Kb1 Bc5 19.Qf3 Kh8 20.Nxd5 Nxe5 21.fxe5 cxd5 22.Rxd5 Qc7
+23.Ne4 Bf8 24.Rxb5 Rac8 25.Nc3 Rxe5 26.Rb7 Qa5 27.Rxf7 Kg8 28.Rf1 Qc5 29.Qb7 a5
+30.Qb3 Kh8 31.a3 Be7 32.Na4 Qc6 33.Qc3 Qxc3 34.Nxc3 Bxa3 35.R7f5 Bd6 36.h3 Rce8
+37.Ka2 Kh7 38.Nb5 Rxf5 39.Rxf5 Be5 40.c4 Kg6 41.Rf2 Rc8 42.Kb3 Kg5 43.Rc2 Rc5
+44.Ka4 Bxb2 45.Nd6 Rc6 46.Rxb2 Rxd6 47.Kxa5 Rd8 48.c5 Ra8+ 49.Kb4  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "11"]
+[White "Wolf, Heinrich"]
+[Black "Rubinstein, Akiba"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Bxc3 8.bxc3 Qe7
+9.Re1 Nd8 10.d4 Bg4 11.h3 Bh5 12.g4 Bg6 13.Nh4 h6 14.Nxg6 fxg6 15.Bc4+ Kh7
+16.Bh4 g5 17.Bg3 Nf7 18.Qf3 Rae8 19.Qe3 b6 20.Bb5 Rd8 21.a4 Nh8 22.a5 Ng6
+23.f3 Nf4 24.Bf1 Kh8 25.Bxf4 gxf4 26.Qf2 g5 27.d5 h5 28.Bg2 Kg7 29.Qe2 Rh8
+30.Kf2 Ra8 31.Reb1 Nd7 32.Qb5 hxg4 33.hxg4 Nc5 34.Rh1 Rh4 35.Rxh4 gxh4 36.Bh3 bxa5
+37.Qxa5 Qd8 38.Rb1 Rb8 39.Rb4 a6 40.Ke2 Rb6 41.Qa1 Kg6 42.Kd2 Kg5 43.Rb1 Qb8
+44.Rh1 a5 45.Bg2 a4 46.Qe1 Qh8 47.Qc1 Ra6 48.Bf1 Ra8 49.Bc4 a3 50.Ba2 Qh7
+51.Rh3 Nd7 52.Qf1 Qh8 53.Rh1 Nc5 54.Qc1 Rb8 55.Qxa3 Ra8 56.Qb2 h3 57.Bc4 Qh4
+58.Be2 Qf2 59.Rxh3 Qe3+ 60.Ke1 Na4  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "11"]
+[White "Tartakower, Saviely"]
+[Black "Saemisch, Fritz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E14"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.Nc3 cxd4 8.Nxd4 Nc6
+9.Nxc6 Bxc6 10.e4 d6 11.Qe2 O-O 12.Bf4 Qc8 13.Rfd1 Rd8 14.Rac1 Qb7 15.b4 Qc8
+16.Bb1 Rd7 17.Rd3 Qd8 18.Rcd1 Rc8 19.b5 Bb7 20.e5 dxe5 21.Bxe5 g6 22.Bxf6 Rxd3
+23.Rxd3  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "11"]
+[White "Reti, Richard"]
+[Black "Tarrasch, Siegbert"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D32"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.Be3 c4 7.g3 Bb4 8.Bg2 Nge7
+9.O-O f6 10.Bd2 O-O 11.b3 Qa5 12.Rc1 b5 13.bxc4 bxc4 14.e4 Bxc3 15.Bxc3 Qxa2
+16.Nd2 Qa6 17.exd5 Nd8 18.Bb4 Rf7 19.Re1 Qb7 20.Bxe7  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "11"]
+[White "Maroczy, Geza"]
+[Black "Treybal, Karel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D04"]
+
+1.d4 d5 2.Nf3 Nf6 3.e3 c5 4.b3 Nc6 5.Bb2 Bg4 6.Be2 e6 7.Nbd2 Bd6 8.O-O O-O
+9.Ne5 Bxe2 10.Qxe2 Bxe5 11.dxe5 Nd7 12.f4 f6 13.exf6 Nxf6 14.Nf3 Qe7 15.Rad1 Rad8
+16.Ne5 Nxe5 17.Bxe5 Rd7 18.c4 Ne4 19.Qc2 Rfd8 20.Bb2 Nf6 21.h3 b6 22.Rd3 dxc4
+23.Rxd7 Qxd7 24.Qxc4 Qd5 25.Qa6 Qe4 26.Bxf6 gxf6 27.Qxa7 Qxe3+ 28.Kh2 Kh8
+29.Qe7 Qd4 30.Qxe6 b5 31.Rf3 b4 32.Qf7 Rg8 33.Rg3 Rxg3 34.Kxg3 h5 35.Qxh5+ Kg7
+36.Qe2 Qd6 37.Kh4 Qxf4+ 38.Qg4+ Qxg4+ 39.Kxg4  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "11"]
+[White "Kostic, Boris"]
+[Black "Gruenfeld, Ernst"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D85"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3 c5 8.Bb5+ Bd7
+9.Bxd7+ Qxd7 10.O-O cxd4 11.cxd4 Nc6 12.Be3 O-O 13.Rb1 Na5 14.d5 Rfc8 15.Bd4 Bxd4
+16.Qxd4 b6 17.Ne5 Qd6 18.Ng4 Qf4 19.Ne3 Rc5 20.Rbc1 Rac8 21.Rxc5 Rxc5 22.f3 h5
+23.g3 Qc7 24.e5 Nc4 25.Nxc4 Rxc4 26.Qe3 Rc3 27.Qd4 Rc4 28.Qe3 Rc2 29.e6 Qc5
+30.Qxc5 Rxc5 31.Rd1 fxe6 32.dxe6 Ra5 33.Rd2 Kg7 34.f4 Kf6 35.Re2 g5 36.fxg5+ Kxg5
+37.Kg2 Kf5 38.Kf3 Ra3+ 39.Kg2 Ra5 40.Kh3 Ra4 41.Rb2 Kxe6 42.Rb5 Rxa2 43.Rxh5 Rb2
+44.Rh8 a5 45.Kg4 a4 46.Ra8 Rb4+ 47.Kf3 b5 48.h4 Kf6 49.g4 Rb3+ 50.Ke4 a3
+51.Ra6+ Kg7 52.Kf5 b4 53.Ra7 Rf3+ 54.Ke4 Rf2 55.Ke3 Rb2  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "12"]
+[White "Saemisch, Fritz"]
+[Black "Wolf, Heinrich"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D35"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nc3 Nbd7 5.cxd5 exd5 6.Bf4 c6 7.e3 Be7 8.h3 Ne4
+9.Qc2 f5 10.Bd3 O-O 11.O-O Bd6 12.Bxd6 Nxd6 13.Rad1 Qf6 14.Nh2 Re8 15.Rfe1 g5
+16.f3 Nf8 17.Qf2 Re7 18.Bf1 Ng6 19.g3 Bd7 20.Bg2 Rae8 21.f4 gxf4 22.gxf4 Nh4
+23.Nf3 Nxg2 24.Kxg2 Ne4 25.Nxe4 fxe4 26.Ne5 Rg7+ 27.Kh2 Bxh3 28.Rg1 Bf5 29.Rxg7+ Kxg7
+30.Rg1+ Kh8 31.Rg5 Rg8 32.Qh4 Rxg5 33.fxg5 Qe6 34.Qf4 Kg7 35.Kg3 a5 36.b3 Kf8
+37.Ng4 Ke7 38.Nh6 Bg6 39.Qc7+ Qd7 40.Ng8+ Ke6 41.Qe5+ Kf7 42.Nh6+ Kf8 43.Qh8+ Ke7
+44.Ng8+ Kf7 45.Nh6+ Ke7  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "12"]
+[White "Teichmann, Richard"]
+[Black "Tarrasch, Siegbert"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D34"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O
+9.dxc5 Bxc5 10.Na4 Be7 11.Be3 b6 12.Nd4 Nxd4 13.Bxd4 Bb7 14.Rc1 Qd7 15.Nc3 Rfd8
+16.Qd3 Ne4 17.Rcd1 Qe6 18.Qb5 f5 19.e3 Rac8 20.Qa4 a6 21.Qb3 b5 22.Bh3 Ng5
+23.Bg2 Ne4 24.Bh3 Ng5 25.Bg2 Ne4 26.Bh3 Ng5 27.Bg2 Ne4  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "12"]
+[White "Johner, Paul F"]
+[Black "Kostic, Boris"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D43"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c6 5.Qd3 Nbd7 6.g3 Bd6 7.Bg2 O-O 8.O-O dxc4
+9.Qxc4 e5 10.e4 exd4 11.Qxd4 Bc5 12.Qd3 Qe7 13.Bf4 Ng4 14.h3 Nde5 15.Nxe5 Nxe5
+16.Qe2 f6 17.Rad1 Be6 18.b3 Rad8 19.Be3 Nf7 20.Na4 Bxe3 21.Qxe3 b6 22.Nc3 Rxd1
+23.Rxd1 Rd8 24.f4 Rxd1+ 25.Nxd1 Qd7 26.Nf2 Qd6 27.Qc3 c5 28.Bf1 Nd8 29.Bc4 Nc6
+30.Qd3 Nd4 31.Kg2 Kf8 32.Bxe6 Qxe6 33.Qa6 Qd7 34.Qd3 Qc6 35.Kf1 g6 36.Ke1 Qb5
+37.Qxb5 Nxb5 38.Kd2 Ke7 39.Kd3 Ke6 40.h4 Nd6 41.Ke3 c4 42.bxc4 Nxc4+ 43.Kd3 Nd6
+44.Kd4 h5 45.Ke3 Nb5 46.Kd3 a6 47.Kc4 Nd6+ 48.Kd3 a5 49.Kd4 Nb5+ 50.Kc4 Na3+
+51.Kb3 Nb5 52.Kc4 Nd6+ 53.Kd4 b5 54.Nd3 b4 55.Nc5+ Ke7 56.Kd3 Nb5 57.Nb7 Nc3
+58.Nxa5 Nxa2 59.Kd4 Ke6 60.Nb3 Nc3 61.Kd3 Ke7 62.Nc1 Ke6 63.Kd4 Nb5+ 64.Kc4 Nd6+
+65.Kd4 f5 66.e5 Ne4 67.Kc4 Nxg3 68.Nd3 Ne2 69.Nc5+ Ke7 70.Nd3 b3 71.Kxb3 Nd4+
+72.Kc4 Nf3 73.Kd5 Nxh4 74.Ne1 g5 75.fxg5 Ng6 76.Nf3 h4 77.e6 h3 78.Nh2 f4
+79.Nf3 Nh4 80.Nh2 Ng6 81.Nf3 Nh4 82.Nh2  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "12"]
+[White "Treybal, Karel"]
+[Black "Reti, Richard"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C46"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Bb4 4.Bb5 Nge7 5.d4 exd4 6.Nxd4 O-O 7.O-O a6 8.Nxc6 Nxc6
+9.Bd3 Bxc3 10.bxc3 d6 11.Rb1 Re8 12.f4 Qf6 13.Qh5 Qxc3 14.e5 g6 15.Qh6 dxe5
+16.f5 e4 17.fxg6 hxg6 18.Bb2 Qc5+ 19.Kh1 Nd4 20.Rf4 Qh5 21.Qxh5 gxh5 22.Bxe4 c5
+23.Rbf1 Rb8 24.Bxd4 cxd4 25.Bd5 Be6 26.Bxe6 Rxe6 27.Rxf7 Re2 28.Rd7 Rf8 29.Rxf8+ Kxf8
+30.h4 Rxc2 31.Rxb7 d3 32.Rd7 d2 33.Kh2 Rxa2 34.Kg3 Ke8 35.Rd4 a5 36.Kf3 a4
+37.Ke2 a3 38.Ra4 Kd7 39.Ra6 Kc7 40.g3 Kb7 41.Ra4 Kc6 42.Ra8 Kb5 43.Ra7 Kb4
+44.Rb7+ Kc3 45.Rc7+ Kb3 46.Rb7+ Kc2 47.Rc7+ Kb1  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "12"]
+[White "Gruenfeld, Ernst"]
+[Black "Maroczy, Geza"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D64"]
+
+1.d4 Nf6 2.Nf3 d5 3.c4 e6 4.Nc3 Be7 5.Bg5 O-O 6.e3 Nbd7 7.Rc1 c6 8.Qc2 b6
+9.cxd5 exd5 10.Bd3 Bb7 11.O-O h6 12.Bh4 Ne4 13.Bxe7 Qxe7 14.Nxe4 dxe4 15.Bxe4 Nf6
+16.Bxc6 Rac8 17.Qa4 Rxc6 18.Rxc6 Ne4 19.Rc2 Ng5 20.Nxg5 Qxg5 21.f4 Qe7 22.Rc3 Be4
+23.Rfc1 Qe6 24.Qa6 Kh7 25.Qe2 f5 26.b3 Rf6 27.Rf1 Rg6 28.Rf2 Rg4 29.h3 Rg3
+30.Kh2 Qg6 31.Rc7 h5 32.Re7 h4 33.Rxe4 fxe4 34.f5 Qg5 35.Rf4 Kg8 36.Rxe4 Rxh3+
+37.gxh3 Qg3+ 38.Kh1 Qxh3+ 39.Kg1  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "12"]
+[White "Rubinstein, Akiba"]
+[Black "Mieses, Jacques"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A81"]
+
+1.d4 f5 2.g3 e6 3.Bg2 Nf6 4.Nf3 d5 5.O-O Nbd7 6.c4 c6 7.Qc2 Ne4 8.Nc3 Be7
+9.b3 g5 10.Nxe4 dxe4 11.Ne5 Nxe5 12.dxe5 g4 13.Be3 h5 14.Rfd1 Qc7 15.Qc3 c5
+16.Rd2 Bd7 17.Rad1 O-O-O 18.a3 Bc6 19.Rd6 b6 20.b4 cxb4 21.axb4 Bxd6 22.exd6 Qd7
+23.b5 Bb7 24.Qa3 Kb8 25.Ra1 Qxd6 26.Qxa7+ Kc7 27.c5 bxc5 28.Rc1 Rc8 29.b6+ Kc6
+30.Bxc5 Qd7 31.Qa4+  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "12"]
+[White "Spielmann, Rudolf"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B41"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Qc7 7.Be2 Bb4 8.f3 O-O
+9.O-O h6 10.Be3 Bxc3 11.bxc3 d5 12.exd5 exd5 13.Qb3 Re8 14.Bf2 Nc6 15.Qc2 Na5
+16.c5 Qxc5 17.Bd3 Qc7 18.Bg3 Qc5 19.Bf2 Qc7 20.Bg3 Qc5 21.Bf2 Qc7 22.Bg3 Qc5  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "13"]
+[White "Reti, Richard"]
+[Black "Gruenfeld, Ernst"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C86"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 b5 7.Bb3 d6 8.c3 Na5
+9.Bc2 c5 10.d4 Qc7 11.h3 Nd7 12.d5 Nb6 13.Nh2 O-O 14.g4 Re8 15.b3 Nd7 16.f4 exf4
+17.Bxf4 Bf6 18.Nf3 Ne5 19.Nxe5 dxe5 20.Be3 Nb7 21.Nd2 Bd7 22.Qf2 Rf8 23.Nf3 Be7
+24.Qg3 Bd6 25.Nh4 c4 26.b4 a5 27.a3 Ra6 28.Nf5 Bxf5 29.gxf5 f6 30.Kh1 Rfa8
+31.Rac1 axb4 32.axb4 Ra3 33.Bd1 Ra1 34.Rg1 Rxc1 35.Bxc1 Kh8 36.Bh5 Bf8 37.Qh4 Ra1
+38.Bg6 h6 39.Be3 Rxg1+ 40.Kxg1 Nd6 41.Kg2 Qc8 42.Kf3 Kg8 43.Qf2 Qa6 44.Bc5 Qa1
+45.Bxd6 Qxc3+ 46.Qe3 Qxe3+ 47.Kxe3 Bxd6 48.Be8  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "13"]
+[White "Wolf, Heinrich"]
+[Black "Spielmann, Rudolf"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C87"]
+
+1.e4 Nc6 2.Nf3 e5 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.d3 d6 7.c3 O-O 8.Re1 Bg4
+9.h3 Bh5 10.Nbd2 b5 11.Bc2 d5 12.Qe2 Bd6 13.Nf1 Qd7 14.Ng3 Bg6 15.Nh4 Ne7
+16.Qf3 dxe4 17.dxe4 Nfd5 18.Re2 Nf4 19.Bxf4 exf4 20.Ngf5 Bxf5 21.Nxf5 Nxf5
+22.exf5 Rfe8 23.Rae1 Kf8 24.Kf1 Rab8 25.Rxe8+ Rxe8 26.Rxe8+ Qxe8 27.Qe4 Qxe4
+28.Bxe4  1/2-1/2
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "13"]
+[White "Tartakower, Saviely"]
+[Black "Teichmann, Richard"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A03"]
+
+1.f4 d5 2.Nf3 g6 3.e3 Bg7 4.d4 Nf6 5.Bd3 O-O 6.Nbd2 b6 7.Qe2 c5 8.c3 Bb7
+9.O-O Ne4 10.Bxe4 dxe4 11.Ng5 Ba6 12.Qf2 Bxf1 13.Qxf1 Nd7 14.Ndxe4 h6 15.Nf3 Nf6
+16.Nxf6+ exf6 17.Bd2 Re8 18.Rd1 Rc8 19.Bc1 Qe7 20.d5 c4 21.Nd4 Qd7 22.Nc6 b5
+23.b3 Re4 24.Ba3 f5 25.bxc4 bxc4 26.Bb4 Kh7 27.Qe1 a6 28.Qd2 Bf6 29.g3 h5
+30.Kf2 h4 31.Bc5 Kg8 32.a4 Kh7 33.a5 g5 34.Bb6 g4 35.Nb4 Kg6 36.Nxa6 hxg3+
+37.hxg3 Rh8 38.Kg2 Rh3 39.Rh1 Bxc3 40.Nc5 Bxd2 41.Nxd7 Rxh1 42.Kxh1 c3 43.Nc5 c2
+44.Nb3 Rb4 45.d6 Rxb3 46.d7 c1=Q+  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "13"]
+[White "Tarrasch, Siegbert"]
+[Black "Treybal, Karel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D53"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 Be7 6.Nf3 a6 7.a4 O-O 8.Bd3 b6
+9.O-O Bb7 10.Qe2 h6 11.Bh4 Ne4 12.Bxe7 Qxe7 13.Qc2 f5 14.Qb3 c6 15.Rfd1 Kh8
+16.Ne2 g5 17.Ne5 Nxe5 18.dxe5 Qc7 19.cxd5 exd5 20.f4 c5 21.Rac1 Rg8 22.Bxe4 fxe4
+23.Rxd5 Bxd5 24.Qxd5 Rad8 25.Qxe4 Rd2 26.Ng3 gxf4 27.exf4 Rxb2 28.f5 Qe7
+29.f6 Qf7 30.Rf1 Re8 31.e6 Rxe6 32.Qxe6 Qxe6 33.f7 Qe3+ 34.Kh1 Rf2 35.f8=Q+ Rxf8
+36.Rxf8+ Kh7  0-1
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "13"]
+[White "Maroczy, Geza"]
+[Black "Johner, Paul F"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 Be7 6.O-O b5 7.Bb3 d6 8.a4 b4
+9.Nd5 Na5 10.Ba2 Nxd5 11.Bxd5 c6 12.Ba2 c5 13.c3 Rb8 14.Bd5 O-O 15.d3 Be6
+16.Bxe6 fxe6 17.Bd2 bxc3 18.bxc3 c4 19.d4 Nb3 20.Ra2 exd4 21.cxd4 Nxd2 22.Rxd2 d5
+23.Ne5 Bg5 24.Rc2 Bf4 25.Nc6 Bxh2+ 26.Kxh2  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "13"]
+[White "Mieses, Jacques"]
+[Black "Saemisch, Fritz"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D01"]
+
+1.d4 Nf6 2.Nc3 d5 3.Bg5 Bf5 4.f3 c6 5.e3 Qb6 6.Na4 Qa5+ 7.c3 e6 8.b4 Qc7
+9.Bf4 Bd6 10.Bxd6 Qxd6 11.Bd3 O-O 12.Ne2 Nbd7 13.Nc5 b6 14.Nxd7 Qxd7 15.Ng3 a5
+16.O-O Bg6 17.a4 Rfc8 18.Ne2 Qd6 19.Bxg6 hxg6 20.Qb3 c5 21.b5 e5 22.Rad1 Re8
+23.Ng3 Rac8 24.Rd2 Qe7 25.Re2 Qc7 26.Rfe1 cxd4 27.exd4 Qxc3 28.Qxc3 Rxc3
+29.dxe5 Nd7 30.e6 fxe6 31.Rxe6 Rxe6 32.Rxe6 Nc5 33.Rxb6 Nxa4 34.Rxg6 Rb3
+35.Nf5 Rxb5 36.Rxg7+ Kh8 37.Ra7 Nc3 38.g4 a4 39.h4 Rb2 40.h5 Ne2+ 41.Kf1  1-0
+
+[Event "Teplitz-Schoenau"]
+[Site "Teplitz-Schoenau"]
+[Date "1922.??.??"]
+[Round "13"]
+[White "Kostic, Boris"]
+[Black "Rubinstein, Akiba"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D37"]
+
+1.d4 d5 2.Nf3 e6 3.c4 a6 4.cxd5 exd5 5.Nc3 Be7 6.Bf4 Nf6 7.e3 O-O 8.Bd3 Nbd7
+9.O-O Re8 10.Rc1 c6 11.Qc2 Nf8 12.Ne5 Nh5 13.Bg3 Bd6 14.Nf3 Nxg3 15.hxg3 Bg4
+16.Na4 Rc8 17.Bf5 Bxf5 18.Qxf5 Rc7 19.Nc5 Rce7 20.Rc3 f6 21.Rfc1 Rf7 22.Qc2 f5
+23.Rb3 Qc8 24.a4 Ng6 25.Rc3 a5 26.Rb3 h6 27.Qd2 Qa8 28.Qc2 Ree7 29.Nxb7 Rxb7
+30.Qxc6 Qb8 31.Rxb7 Rxb7 32.Qxd5+ Kh8 33.Qxf5 Ne7 34.Qxa5 Rxb2 35.Qc3 Ra2
+36.Ra1 Nd5 37.Qc1 Qc7 38.Qf1 Rb2 39.Rb1 Ra2 40.Ra1 Rb2 41.Rb1 Ra2 42.Ra1 Rb2
+43.Rb1 Ra2 44.Rc1 Nc3 45.Kh2 Qa5 46.Ng1 Rd2 47.Qc4 Qb4 48.Qxc3 Rxf2 49.Qxb4 Bxb4
+50.e4  1-0

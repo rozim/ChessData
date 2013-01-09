@@ -1,0 +1,785 @@
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "1"]
+[White "Golombek, Harry"]
+[Black "Thomas, George Alan"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A13"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.b3 Ne4 6.Bb2 Bf6 7.Qc2 Nc6 8.O-O O-O
+9.d3 Bxb2 10.Qxb2 Qf6 11.Qxf6 Nxf6 12.Nc3 Bd7 13.Rfd1 Rfd8 14.e4 dxe4 15.dxe4 Be8
+16.Nb5 Rxd1+ 17.Rxd1 Rc8 18.e5 Nd7 19.Nfd4 Nxd4 20.Rxd4 Nxe5 21.Bxb7 Bxb5
+22.cxb5 Rb8 23.f4 g5 24.Be4 gxf4 25.gxf4 Ng6 26.Bxg6 hxg6 27.a4 Kf8 28.Rc4 Rb7
+29.Kf2 Ke7 30.Kf3 Kd7 31.Kg4 f6 32.h4 Rb8 33.Rd4+ Ke7 34.Rc4 Kd7  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "1"]
+[White "Alexander, Conel Hughes"]
+[Black "Michell, Reginald Pryce"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A28"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd2 O-O 8.g3 d5
+9.Bg2 Be6 10.Qa4 Rb8 11.Rd1 d4 12.Ne4 c5 13.a3 Bxd2+ 14.Rxd2 Nxe4 15.Bxe4 Qe7
+16.Bg2 Rb6 17.O-O Rfb8 18.Qxa7 Rxb2 19.Rxb2 Rxb2 20.Bf3 Bxc4 21.Rc1 Bxe2
+22.Bxe2 Rxe2 23.Qb8+ Qe8 24.Qxe8+ Rxe8 25.Rxc5 Ra8 26.Rxc7 g6  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "1"]
+[White "Flohr, Salo"]
+[Black "Fine, Reuben"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D61"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 d5 4.Bg5 Nbd7 5.e3 Be7 6.Nf3 O-O 7.Qc2 c6 8.a3 Re8
+9.Rd1 dxc4 10.Bxc4 Nd5 11.Bxe7 Qxe7 12.O-O Nxc3 13.Qxc3 c5 14.d5 exd5 15.Rxd5 b6
+16.Rfd1 Rf8 17.b4 cxb4 18.axb4 Nf6 19.Re5 Qc7 20.Ng5 Bb7 21.Ne6 Qc6 22.f3 Ba6
+23.Rd4 Rfc8 24.Nd8 Qc7 25.Rg4 Qxd8 26.Reg5 Qd1+ 27.Kf2 Nxg4+ 28.Rxg4 g6 29.Bxf7+ Kxf7
+30.Rf4+ Kg8 31.Qf6 Qd7  0-1
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "1"]
+[White "Tartakower, Saviely"]
+[Black "Koltanowski, George"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A45"]
+
+1.d4 Nf6 2.g3 d6 3.Bg2 e5 4.dxe5 dxe5 5.Qxd8+ Kxd8 6.Nc3 c6 7.Nf3 Nfd7 8.b3 f6
+9.Bb2 Na6 10.O-O-O Kc7 11.a3 Be7 12.Rd2 Rd8 13.Rhd1 Nf8 14.Rxd8 Bxd8 15.b4 Be6
+16.b5 Nc5 17.Ne1 Be7 18.bxc6 bxc6 19.Nd3 Nxd3+ 20.exd3 Rd8 21.Ne2 Bd5 22.Bxd5 Rxd5
+23.d4 exd4 24.Rxd4 Bc5 25.Rxd5 cxd5 26.Nd4 Bxd4 27.Bxd4 a6 28.c3 Ne6 29.Kc2 Nxd4+
+30.cxd4 Kc6 31.a4  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "1"]
+[White "Tylor, Theodore"]
+[Black "Winter, William"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E16"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Bb4+ 6.Bd2 Bxd2+ 7.Nbxd2 d6 8.O-O O-O
+9.Qc2 Nbd7 10.Rfd1 Qe7 11.Rac1 c5 12.e4 e5 13.d5 Nh5 14.Nh4 g6 15.Nf1 Ng7
+16.Ne3 Qg5 17.Bh3 Bc8 18.Rf1 Nf6 19.Bxc8 Raxc8 20.Nhg2 Ng4 21.f4 Nxe3 22.fxg5 Nxc2
+23.Rxc2 Ne8 24.Rcf2 Kg7 25.Ne3 Rc7 26.Ng4 Rd7 27.Rg2 Rc7 28.h4 Rd7 29.b3 a5
+30.a4  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "2"]
+[White "Koltanowski, George"]
+[Black "Alexander, Conel Hughes"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D95"]
+
+1.d4 Nf6 2.Nf3 g6 3.c4 Bg7 4.Nc3 d5 5.e3 O-O 6.Qb3 c6 7.Bd2 e6 8.Bd3 Nbd7
+9.O-O Nb6 10.Rfd1 dxc4 11.Bxc4 Nxc4 12.Qxc4 Nd7 13.e4 h6 14.e5 Nb6 15.Qe2 Nd5
+16.Ne4 Kh7 17.b4 Rg8 18.Neg5+  1-0
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "2"]
+[White "Michell, Reginald Pryce"]
+[Black "Flohr, Salo"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B03"]
+
+1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.d4 d6 5.exd6 Qxd6 6.c5 Qe6+ 7.Be2 Nd5 8.Nf3 Qd7
+9.O-O e6 10.Nc3 Be7 11.Re1 O-O 12.Ne5 Qd8 13.Nxd5 exd5 14.Bd3 Bf6 15.Bf4 g6
+16.Qd2 Re8 17.Bc2 Be6 18.b4 Nd7 19.c6 Nxe5 20.dxe5 Be7 21.Ba4 b5 22.Bb3 a5
+23.bxa5 Ra6 24.Rac1 Qa8 25.Red1 Rxa5 26.Qe2 Rd8 27.Qf3 Qc8 28.Qg3 d4 29.Bg5 Bxg5
+30.Qxg5 Bxb3 31.axb3 Rd5 32.Rd3 Qe6 33.f4 Ra6 34.Rh3 Rxc6 35.Ra1 Ra6 36.Rxa6 Qxa6
+37.Qh6 d3 38.Qxh7+ Kf8 39.Qh6+ Ke7 40.Qg5+ Kd7 41.Qg4+ Qe6 42.Qd1 Qb6+ 43.Kf1 Qd4
+44.Qd2 Ke7 45.Rf3 c5 46.f5 Rxe5 47.f6+ Ke6 48.Qa5 Rf5 49.Qa6+ Ke5 50.Qxb5 Rxf3+
+51.gxf3 Kxf6 52.Qb6+ Kg7  0-1
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "2"]
+[White "Thomas, George Alan"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B04"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.Nf3 g6 6.Be2 Bg7 7.O-O O-O 8.Nc3 dxe5
+9.Nxe5 Be6 10.f4 f6 11.Nf3 Bf7 12.b3 Na6 13.Be3 c6 14.Qe1 Qc7 15.Rd1 Rad8
+16.Bd3 e6 17.Qh4 Nc8 18.Ne4 Qe7 19.Rfe1 Rd7 20.Qh3 Rfd8 21.Bf2 Nd6 22.Nc3 Qf8
+23.Bb1 Nc7 24.g4 b5 25.c5 Nc8 26.g5 f5 27.Ne5 Bxe5 28.dxe5 Rxd1 29.Rxd1 Rxd1+
+30.Nxd1 Ne7 31.Qd3 Ned5 32.Qd4 h6 33.h4 hxg5 34.fxg5 Qg7 35.Bd3 Be8 36.Be2 Qd7  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "2"]
+[White "Tylor, Theodore"]
+[Black "Fine, Reuben"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 d6 3.Nc3 e5 4.Bc4 Nc6 5.d3 Bg4 6.h3 Be6 7.Nd5 Be7 8.O-O Nf6
+9.Ng5 Bxd5 10.exd5 Nb8 11.Bb5+ Nbd7 12.Ne6 fxe6 13.dxe6 O-O 14.exd7 a6 15.Ba4 b5
+16.Bb3+ d5 17.c3 Qxd7 18.f4 Bd6 19.fxe5 Bxe5 20.Be3 c4 21.dxc4 bxc4 22.Bc2 Rab8
+23.Rb1 Qd6 24.Bd4 Rfe8 25.b4 Bxd4+ 26.Qxd4 Re2 27.Rf2 Rbe8 28.Rbf1 Qg3 29.Bd1 Rxf2
+30.Rxf2 Re1+ 31.Rf1 Re4 32.Qd2 Qe3+ 33.Rf2 Qe1+ 34.Kh2 Re3 35.Qxe1 Rxe1 36.Bf3 Rc1
+37.Rd2 Rxc3 38.Bxd5+ Kf8 39.a4 Rd3 40.Rxd3 cxd3 41.Bb3 Ne4 42.Kg1 Ke7 43.b5 a5  0-1
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "2"]
+[White "Winter, William"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E23"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 c5 5.dxc5 Nc6 6.Nf3 Ne4 7.Bd2 Nxd2 8.Nxd2 Qa5
+9.e3 O-O 10.Be2 Qxc5 11.O-O b6 12.Rfd1 f5 13.a3 Bxc3 14.Qxc3 Bb7 15.Nf3 Rfd8
+16.b4 Qe7 17.Rd2 Rac8 18.Rad1 Nb8 19.Qb3 d5 20.cxd5 Bxd5 21.Bc4 Bxc4 22.Qxc4 Re8
+23.Qb3 Kf8 24.Ne5 Red8 25.h3 Rxd2 26.Rxd2 g6 27.Qb2 Qf6 28.Rd7 Kg8 29.Rf7 Qh8
+30.Qd4 Nc6 31.Qd7 Qxe5  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "3"]
+[White "Flohr, Salo"]
+[Black "Koltanowski, George"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E60"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.g3 O-O 5.Bg2 c6 6.d5 cxd5 7.cxd5 d6 8.Nf3 Na6
+9.O-O Bd7 10.h3 Qb6 11.Rb1 Bf5 12.Be3 Qa5 13.Rc1 Ne4 14.Nd4 Nxc3 15.Rxc3 Bd7
+16.a3 Rfc8 17.b4 Qd8 18.Rc2 Rxc2 19.Qxc2 Qc8 20.Qd3 Bxh3 21.Rc1 Qd7 22.Bxh3 Qxh3
+23.Qb5 Bxd4 24.Bxd4 Rc8 25.Rxc8+ Qxc8 26.Bxa7 e6 27.dxe6 fxe6 28.Qg5 Kf7
+29.Qf4+ Ke7 30.Qh4+ Kf8 31.Qf6+ Kg8 32.Be3  1-0
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "3"]
+[White "Alexander, Conel Hughes"]
+[Black "Thomas, George Alan"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A14"]
+
+1.c4 e6 2.Nf3 Nf6 3.g3 d5 4.Bg2 Be7 5.O-O O-O 6.b3 c6 7.d3 Nbd7 8.Bb2 Qc7
+9.Nc3 Rd8 10.Qc2 Nf8 11.e4 d4 12.Ne2 e5 13.Nd2 c5 14.f4 Ng4 15.Qc1 Ne3 16.Rf2 Nxg2
+17.Kxg2 Bg4 18.Nf3 f6 19.Qd2 Ne6 20.f5 Bxf3+ 21.Rxf3 Ng5 22.Rf2 Qc6 23.h4 Nf7
+24.g4 a6 25.Ng3 b5 26.Rg1 bxc4 27.bxc4 Rab8 28.Nh5 h6 29.Kh2 Rb6 30.Bc1 Qe8
+31.Qe2 Rdb8 32.Qf3 Qd8 33.Qg2 Rb1 34.Rc2 R8b6 35.Ng3 Qe8 36.Nf1 Qa4 37.Kh1 Rb8
+38.Nh2 Qe8 39.Nf3 R1b6 40.Qh2 Nd6 41.Rcg2 Qc6 42.g5 h5 43.gxf6 Bxf6 44.Nxe5 Qe8
+45.Bf4 R8b7 46.Rg6 Nf7 47.Nxf7 Rxf7 48.Qe2 Bd8 49.Qxh5 Rxg6 50.Rxg6 Qa4 51.Rg2 Qb4
+52.Rd2 Qb1+ 53.Qd1 Qb7 54.Qg4 Qb1+ 55.Kh2 Qe1 56.Qg3 Bxh4 57.Qxe1 Bxe1 58.Rb2 g6
+59.Rg2  1-0
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "3"]
+[White "Fine, Reuben"]
+[Black "Michell, Reginald Pryce"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E23"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 c5 5.dxc5 Nc6 6.Nf3 Ne4 7.Bd2 Nxd2 8.Nxd2 Bxc5
+9.e3 O-O 10.O-O-O f5 11.Be2 Qe7 12.Nf3 a6 13.Kb1 d6 14.Na4 Ba7 15.Nb6 Rb8
+16.Rd2 Qc7 17.Nxc8 Rbxc8 18.Rhd1 Rfd8 19.a3 Qe7 20.g3 Rd7 21.Bf1 Rf8 22.Ka2 h6
+23.Qa4 Rfd8 24.Bh3 Kh7 25.g4 g6 26.gxf5 gxf5 27.e4 f4 28.e5 dxe5 29.Qc2+ Kh8
+30.Rxd7 Rxd7 31.Nh4 Qf7 32.Ng6+ Kg7 33.Rg1 Kf6 34.Nh8 Nd4 35.Rg6+ Ke7 36.Qe4 Qe8
+37.Qxe5 Kd8 38.Rxh6 Bb8 39.Qxb8+  1-0
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "3"]
+[White "Golombek, Harry"]
+[Black "Tylor, Theodore"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A14"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.b3 c5 7.cxd5 Nxd5 8.Bb2 Bf6
+9.Qc1 Nc6 10.Nc3 Nxc3 11.dxc3 Qc7 12.Nd2 e5 13.b4 Be7 14.b5 Nd8 15.c4 Be6
+16.Bd5 Bxd5 17.cxd5 f5 18.Nc4 Nf7 19.Qe3 Bf6 20.Rad1 b6 21.d6 Qd7 22.Nxe5 Qxb5
+23.Ba1 Rad8 24.Nxf7 Rxf7 25.Bxf6 Rxf6 26.d7 Kf8 27.Rd5 Rxd7 28.Rfd1 Rxd5
+29.Rxd5 Qb1+ 30.Kg2 Qe4+ 31.Qxe4 fxe4 32.Re5 c4 33.Rxe4 Rc6 34.Rd4 c3 35.Rd1 b5
+36.Kf3 b4 37.Ke3 Ra6 38.Rd8+ Ke7 39.Rb8 Rc6  0-1
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "3"]
+[White "Tartakower, Saviely"]
+[Black "Winter, William"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B20"]
+
+1.e4 c5 2.g3 d5 3.exd5 Qxd5 4.Nf3 Bg4 5.Bg2 Nc6 6.h3 Bh5 7.O-O Nf6 8.g4 Bg6
+9.d3 e6 10.Bf4 Qd7 11.Nc3 Bd6 12.Bxd6 Qxd6 13.Nh4 O-O-O 14.Qf3 Qc7 15.Qe3 Nd4
+16.Rac1 Nd5 17.Nxd5 exd5 18.Rfe1 Ne6 19.b4 Rd7 20.bxc5 Qxc5 21.Qg3 Rhd8 22.c4 d4
+23.Rb1 Qg5 24.Nxg6 hxg6 25.Re5 Qf4 26.Rc5+ Kb8 27.Bxb7  1-0
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "4"]
+[White "Golombek, Harry"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B37"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 g6 4.d4 cxd4 5.Nxd4 Bg7 6.Nc2 Nf6 7.e4 O-O 8.Be2 b6
+9.Be3 Bb7 10.f3 Rc8 11.Rc1 Qc7 12.O-O Na5 13.Na3 Qb8 14.Qd2 Rfd8 15.Nd5 Bxd5
+16.cxd5 Rxc1 17.Rxc1 Rc8 18.Ba6 Rxc1+ 19.Qxc1 Ne8 20.b4 Nc7 21.Bf4 d6 22.Be2 Nb7
+23.Qc6 Kf8 24.Nb5 Ne8 25.Be3 Nd8 26.Qd7 a6 27.Nd4 Qc7 28.Qxc7 Nxc7 29.Nc2 Na8
+30.Bxa6 e6 31.dxe6 fxe6 32.a4 Ke7 33.Bb5 d5 34.Kf2 Kd6 35.Ke2 Nc6 36.exd5 exd5
+37.Bxc6 Kxc6 38.Bd4 Bf8 39.Be5 Kd7 40.Kd3 Nc7 41.Bxc7 Kxc7 42.a5 Kb7 43.axb6 Kxb6
+44.Kd4 Kc6 45.b5+ Kd6 46.b6 Kc6 47.b7  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "4"]
+[White "Koltanowski, George"]
+[Black "Fine, Reuben"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D05"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 c5 4.Bd3 Nc6 5.c3 d5 6.Nbd2 Bd6 7.O-O O-O 8.Qe2 e5
+9.dxc5 Bxc5 10.e4 Bg4 11.exd5 Qxd5 12.Bc4 Qd7 13.h3 Bh5 14.Ne4 Nxe4 15.Qxe4 Qc7
+16.Nh4 Ne7 17.Bg5 Kh8 18.Bxe7 Bxe7 19.Bd3 g6 20.Nf3 Bd6 21.Qc4 Qxc4 22.Bxc4 Bxf3
+23.gxf3 Rac8 24.Bd5 b6 25.Rad1 Be7 26.Rfe1 Bf6 27.Bb3 Rc7 28.Rd3 Kg7 29.Red1 Re8
+30.Rd7 Re7 31.Ba4 Bg5 32.Rxe7 Rxe7 33.Rd7 Rxd7 34.Bxd7 Kf6 35.c4 Bc1 36.b4 Ba3
+37.b5 Ke7 38.Bc6 Kd6 39.Bd5 f6 40.Bg8 h6 41.Bf7 g5 42.Kg2 Kc5 43.Kg3 Kd4
+44.Kg4 Kd3 45.Kf5 Ke2 46.Kxf6 Bb2 47.Bh5 Kd3 48.Kf5 Kxc4 49.Be8 Kd3 50.Bd7 Ke2
+51.Ke4 Kxf2 52.Be6  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "4"]
+[White "Michell, Reginald Pryce"]
+[Black "Tylor, Theodore"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3 Nxc3 6.dxc3 Be7 7.Bf4 Nc6 8.Qd2 Bg4
+9.Be2 O-O 10.O-O-O Rb8 11.Kb1 Bf6 12.h3 Bxf3 13.Bxf3 Ne5 14.Be2 b5 15.g4 g6
+16.g5 Bg7 17.Be3 Rb7 18.Bd4 Qe7 19.Bxe5 dxe5 20.h4 b4 21.c4 a5 22.h5 Re8
+23.hxg6 hxg6 24.c5 c6 25.Bc4 e4 26.Qd6 Qxd6 27.Rxd6 Rc7 28.Re1 Kf8 29.Bb3 Be5
+30.Rd2 Bf4 31.Rde2 Bxg5 32.Rxe4 Rxe4 33.Rxe4 Re7 34.Rxe7  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "4"]
+[White "Thomas, George Alan"]
+[Black "Flohr, Salo"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B05"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.Nf3 Bg4 6.Be2 dxe5 7.c5 e4 8.Ng5 Bxe2
+9.Qxe2 Nd5 10.Qxe4 e6 11.Nc3 Be7 12.Nxd5 Qxd5 13.Qxd5 exd5 14.O-O Nc6 15.Nf3 O-O-O
+16.Bd2 Bf6 17.Bc3 g5 18.h3 h5 19.Rad1 g4 20.hxg4 hxg4 21.Nh2 Rdg8 22.g3 Nd8
+23.Kg2 Ne6 24.Rh1 c6 25.Nf1 Rxh1 26.Kxh1 Bg5 27.Kg2 Kd7 28.Bd2 Bd8 29.Be3 b6
+30.b4 Bf6 31.Nh2 Bh8 32.Rd3 Kc7 33.f3 gxf3+ 34.Nxf3 bxc5 35.bxc5 Rb8 36.Kh3 Rb2
+37.Ra3 Kb7 38.Kg4 Rb5 39.Rb3 Rxb3 40.axb3 Ka6 41.Kf5 Kb5 42.Ne5 Bxe5 43.Kxe5 Kb4
+44.Kd6 Kxb3 45.Kxc6 Kc4 46.Kd6 Kd3 47.Bc1 Kxd4 48.c6 Kc4 49.c7 Nxc7 50.Kxc7 d4
+51.Kd6 a5 52.g4 a4 53.g5 d3 54.Ke7 a3 55.Bxa3 d2 56.Kxf7 d1=Q 57.Be7 Kd5
+58.g6 Qf3+ 59.Bf6 Qf5 60.g7 Qe6+ 61.Kg6 Qg8  0-1
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "4"]
+[White "Winter, William"]
+[Black "Alexander, Conel Hughes"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E33"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 Nc6 5.Nf3 O-O 6.a3 Bxc3+ 7.Qxc3 d6 8.b4 e5
+9.dxe5 Ne4 10.Qe3 f5 11.Bb2 Nxe5 12.Nxe5 dxe5 13.Bxe5 Qe7 14.f4 Be6 15.g3 Bxc4
+16.Bg2 Bd5 17.O-O c6 18.Rfd1 Rfd8 19.g4 Qh4 20.gxf5 Qg4 21.Kh1 Qxf5 22.Rxd5 cxd5
+23.Rg1 Rd7 24.Bd4 Rf8 25.Qb3 Qxf4 26.Bh3 Ng5 27.Bxd7 Qe4+ 28.Rg2 Qxd4 29.Qb1 Ne4
+30.h3 Qe3 31.Qe1 d4 32.Qh4 Rf1+ 33.Kh2 Nf6 34.Bc8 Qc1 35.Be6+ Kh8 36.Qxd4 Qc7+
+37.Rg3 Nh5  0-1
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "5"]
+[White "Alexander, Conel Hughes"]
+[Black "Golombek, Harry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B22"]
+
+1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5 Nd5 5.Bc4 e6 6.d4 d6 7.cxd6 cxd6 8.Nf3 dxe5
+9.dxe5 Bb4+ 10.Nbd2 Nb6 11.O-O Nxc4 12.Qa4+ Nc6 13.Nxc4 O-O 14.Bf4 Qc7 15.Rfd1 Bd7
+16.Rac1 Rfd8 17.Bg5 Be7 18.Qc2 h6 19.Bxe7 Nxe7 20.Nd6 Qxc2 21.Rxc2 Bc6 22.Nd4 Rd7
+23.Re1 Bd5 24.b3 Ng6 25.N6b5 a6 26.Na3 Bxg2 27.Nxe6 Bh3 28.Nc5 Rd5 29.Nxb7 Nxe5
+30.Rc3 Nd3 31.Re3 Nf4 32.Re1  0-1
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "5"]
+[White "Tylor, Theodore"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B66"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nf6 6.Bg5 d6 7.Qd2 a6 8.Rd1 Bd7
+9.Be2 h6 10.Be3 Be7 11.O-O b5 12.a3 Rc8 13.f4 Na5 14.e5 dxe5 15.fxe5 Nh7
+16.Ne4 Bc6 17.Nxe6 Qxd2 18.Nxd2 fxe6 19.Bh5+ Kd7 20.Nc4+ Bd5 21.Nxa5 Rxc2
+22.Rxd5+ exd5 23.Bg4+ Ke8 24.Bh5+ Kd7 25.Bg4+ Ke8  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "5"]
+[White "Fine, Reuben"]
+[Black "Thomas, George Alan"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D64"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 O-O 7.Rc1 c6 8.Qc2 Nh5
+9.Bxe7 Qxe7 10.Bd3 Nhf6 11.O-O dxc4 12.Bxc4 e5 13.e4 exd4 14.Nxd4 Nb6 15.Be2 Rd8
+16.Rfd1 Bg4 17.h3 Bxe2 18.Qxe2 Qe5 19.Nf3 Qe7 20.g3 Rxd1+ 21.Rxd1 Rd8 22.Rxd8+ Qxd8
+23.e5 Nfd5 24.Ne4 Nc8 25.Nd4 Qd7 26.Qh5 h6 27.Nf5 b6 28.Qg4  1-0
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "5"]
+[White "Flohr, Salo"]
+[Black "Winter, William"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D52"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.Bg5 Nbd7 6.e3 Qa5 7.cxd5 Nxd5 8.Qb3 Bb4
+9.Rc1 e5 10.Bc4 exd4 11.Bxd5 cxd5 12.exd4 O-O 13.O-O Nb6 14.a3 Bxc3 15.Rxc3 Bd7
+16.Rc5 Qa6 17.Ne5 Bf5 18.Qg3 Na4 19.Rxd5 Nxb2 20.Be7 Rfe8 21.Bb4 Rac8 22.h3 Nc4
+23.Re1 Nxe5 24.Rdxe5 Rxe5 25.Qxe5 Bd7 26.d5 f6 27.Qg3 Re8 28.Rxe8+ Bxe8 29.Qe3 Qb5
+30.Qe6+ Kh8 31.Bc5 a6 32.Bd4 Qd7 33.f4 Qxe6 34.dxe6 Kg8 35.g4 h5 36.f5 hxg4
+37.hxg4 Ba4 38.Kf2 Bd1 39.Kg3 b5 40.Kf4 Kf8 41.Kg3 Be2 42.Bc3 Bd1 43.Kh4 Bc2
+44.Kg3 Bd1 45.Kf4 Be2 46.Ba5 Bd1 47.Bb4+ Ke8 48.Bd2 Ke7 49.g5 Be2 50.g6 Bd3
+51.Kg4 Be2+ 52.Kg3 Bd3 53.Kf4 Be2  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "5"]
+[White "Michell, Reginald Pryce"]
+[Black "Koltanowski, George"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E91"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 h6 7.O-O Nc6 8.d5 Nb8
+9.h3 a5 10.Be3 b6 11.Nd2 Na6 12.a3 Nc5 13.Qc2 e6 14.dxe6 Bxe6 15.Rad1 Qe7
+16.Rfe1 Nfd7 17.f4 f5 18.Bf3 fxe4 19.Ncxe4 Qf7 20.Nxc5 bxc5 21.Bxa8 Rxa8
+22.b3 Bf5 23.Qc1 a4 24.Bf2 axb3 25.Nxb3 Nb6 26.Bh4 Qxc4 27.Qxc4+ Nxc4 28.Re2 Nxa3
+29.Re7 Nb5 30.Rde1 Bf8 31.Re8 Rxe8 32.Rxe8 c4 33.Nc1 Kf7 34.Rb8 Bd7 35.Kf1 d5
+36.Rd8 Be6 37.Be1 c5 38.Rb8 Nd6 39.Ne2 d4 40.Bf2 c3 41.Ke1 Ne4 42.Bxd4 cxd4
+43.Nxd4 Bc5 44.Nc2 Bd5 45.Rc8 Bb3 46.Kd1 Ba3 47.g4 Bb2 48.Rc6 Nf2+ 49.Ke2 Bxc2
+50.Kxf2 Ba4 51.Rc7+ Ke6  0-1
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "6"]
+[White "Thomas, George Alan"]
+[Black "Michell, Reginald Pryce"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C86"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.Qe2 b5 7.Bb3 Be7 8.c3 Na5
+9.Bc2 c5 10.d4 Qc7 11.d5 O-O 12.h3 Bd7 13.Nh2 b4 14.c4 Rae8 15.Nd2 Nb7 16.Kh1 Kh8
+17.Rg1 Ng8 18.g4 Nd8 19.Ndf1 g6 20.Ng3 f6 21.Nhf1 Nf7 22.Ne3 a5 23.a4 Qc8
+24.f3 Nfh6 25.b3 Rf7 26.Bb2 Qd8 27.Raf1 Bf8 28.Ng2 Bg7 29.Qd2 Rff8 30.Rf2 Nf7
+31.Ne3 Ne7 32.Qe2 g5 33.Nef5 Ng6 34.Nh5 Bxf5 35.gxf5 Nf4 36.Nxf4 gxf4 37.Rfg2 Rg8  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "6"]
+[White "Tylor, Theodore"]
+[Black "Koltanowski, George"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D71"]
+
+1.d4 Nf6 2.c4 g6 3.g3 c6 4.Bg2 d5 5.cxd5 cxd5 6.Nc3 Bg7 7.Bg5 Ne4 8.Nxe4 dxe4
+9.Bxe4 Qxd4 10.Qc2 O-O 11.Rb1 Nc6 12.Nf3 Qb6 13.O-O Be6 14.Be3 Qa5 15.a3 Rac8
+16.Bd2 Qb6 17.b4 Nd4 18.Qd1 Nxf3+ 19.Bxf3 Rfd8 20.Qe1 Qa6 21.Rc1 Bh3 22.Bg2 Bxg2
+23.Kxg2 Qxa3 24.Rxc8 Rxc8 25.Qb1 Qa4 26.Rc1 Rxc1 27.Bxc1 Qd1 28.b5 b6  0-1
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "6"]
+[White "Golombek, Harry"]
+[Black "Flohr, Salo"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A28"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 Bxc3+ 7.bxc3 dxc6
+8.Qd4 Qe7 9.Bg5 O-O 10.Bxf6 gxf6 11.e3 Rd8 12.Qf4 Qa3 13.Qxf6 Rd6 14.Qe5 Qb2
+15.Qe8+ Kg7 16.Qe5+ Kf8 17.Qh8+ Ke7 18.Qe5+ Be6  0-1
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "6"]
+[White "Winter, William"]
+[Black "Fine, Reuben"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D39"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Bg5 Bb4+ 5.Nc3 dxc4 6.e4 c5 7.dxc5 Qa5 8.Bxf6 gxf6
+9.Qd4 Nd7 10.Bxc4 Bxc3+ 11.bxc3 Qxc5 12.O-O e5 13.Qd5 Qxd5 14.Bxd5 Nc5 15.Nd2 Be6
+16.f4 Ke7 17.Nc4 exf4 18.Rxf4 Rac8 19.Ne3 Nd3 20.Nf5+ Kd7 21.Rf3 Ne5 22.Rg3 Bxf5
+23.exf5 b6 24.c4 Ke7 25.Ra3 Rc7 26.Ra6 Rd8 27.a4 Nd3 28.a5 b5 29.Rc6 Rxc6
+30.Bxc6 bxc4 31.Rb1 c3 32.Ba4 Rd5  0-1
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "6"]
+[White "Tartakower, Saviely"]
+[Black "Alexander, Conel Hughes"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C28"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Bb4 4.Bc4 d6 5.d3 Nc6 6.O-O Bg4 7.Nd5 Nxd5 8.exd5 Nd4
+9.c3 Nxf3+ 10.gxf3 Bh3 11.Re1 Qf6 12.Kh1 Ba5 13.f4 Qf5 14.d4 O-O-O 15.dxe5 Bb6
+16.Qf3 dxe5 17.Rxe5 Rhe8 18.Bd3 Qg4 19.Qxg4+ Bxg4 20.Rxe8 Rxe8 21.Kg2 Re1
+22.Rb1 Rd1 23.Be4 f5 24.Bc2 Rxd5 25.f3 Bh5 26.c4 Rd8 27.b4 Bd4 28.Bxf5+ Kb8
+29.Bd2 Bf6 30.Be3 h6 31.b5 Bf7 32.Rc1 Re8 33.Kf2 Bh4+ 34.Ke2 Bf6 35.Be4 Bh5
+36.Kd3 Rd8+ 37.Kc2 Bf7 38.Kb3 Rd6 39.f5 Be5 40.h3 Rd8 41.a4 Rd6 42.a5 Rd8
+43.Kb4 Bd6+ 44.c5 Be7 45.Rg1 Bf6 46.Rg2 Be5 47.Rd2 Rxd2 48.Bxd2 b6 49.Be3 bxa5+
+50.Kxa5 Bc3+ 51.Ka6 Bc4 52.Bc6 Be5 53.f4 Bf6 54.Bd2  1-0
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "7"]
+[White "Alexander, Conel Hughes"]
+[Black "Tylor, Theodore"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 d6 7.Qb3 Qd7 8.dxe5 Bb6
+9.Nbd2 Nh6 10.O-O O-O 11.exd6 Qxd6 12.Bd5 Na5 13.Qb4 Qg6 14.Ne5 Qh5 15.Ndf3 c6
+16.Ba3 Re8 17.Bb3 c5 18.Qb5 Rxe5 19.Nxe5 Qxe5 20.Bd5 c4 21.Bb4 Be6 22.Bxa5 Ng4
+23.g3 Bxd5 24.exd5 Bxf2+ 25.Rxf2 Nxf2 26.Kxf2 Qf5+ 27.Kg2  1-0
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "7"]
+[White "Fine, Reuben"]
+[Black "Golombek, Harry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E34"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 Qxd5 6.e3 c5 7.Bd2 Bxc3 8.bxc3 Nc6
+9.Nf3 Bd7 10.c4 Qd6 11.Bc3 a6 12.Be2 cxd4 13.exd4 O-O 14.O-O Rfd8 15.Rad1 Be8
+16.Rfe1 b6 17.Bf1 Ne7 18.Ne5 Ng6 19.Qc1 Bc6 20.Nxc6 Qxc6 21.Qa3 Ne4 22.Bb2 Nd6
+23.d5 exd5 24.Rxd5 a5 25.Qd3 Nb7 26.g3 Qc7 27.Qd4 f6 28.Bg2 Nc5 29.Qe3 Rxd5
+30.Bxd5+ Kf8 31.Ba3 Qd6 32.Qe6 Qxe6 33.Rxe6 Rb8 34.Rxb6  1-0
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "7"]
+[White "Flohr, Salo"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D30"]
+
+1.d4 d5 2.Nf3 e6 3.c4 b6 4.Nc3 Bb7 5.cxd5 exd5 6.Bf4 Bd6 7.Bxd6 Qxd6 8.e3 Nf6
+9.Ne5 O-O 10.Bd3 c5 11.O-O Nc6 12.f4 cxd4 13.exd4 Nxd4 14.Bxh7+ Kxh7 15.Qxd4 Qc5
+16.Rad1 Rad8 17.Rfe1 Kg8 18.g4 Rfe8 19.h3 Nd7 20.Qxc5 Nxc5 21.Nb5 Ne6 22.f5 Ng5
+23.h4 Rxe5 24.hxg5 Rde8 25.Rxe5 Rxe5 26.Kf2 Kf8 27.Re1 Rxe1 28.Kxe1 Ke7 29.Kd2 a6
+30.Nd4 Kd6 31.Ke3 Bc8 32.b4 Bd7 33.Kf4 Ba4 34.a3 g6 35.Nf3 a5 36.Ne5 axb4
+37.axb4 Be8 38.Nd3 Bb5 39.Ne5 Be8 40.Nd3  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "7"]
+[White "Koltanowski, George"]
+[Black "Thomas, George Alan"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D95"]
+
+1.d4 d5 2.Nf3 Nf6 3.e3 c6 4.c4 g6 5.Nc3 Bg7 6.Qb3 O-O 7.Bd2 dxc4 8.Bxc4 b5
+9.Be2 Be6 10.Qc2 Nbd7 11.Ng5 Bc4 12.Bxc4 bxc4 13.Nce4 h6 14.Nxf6+ Nxf6 15.Nf3 Qd5
+16.Bb4 Ne4 17.Rc1 c5 18.Bxc5 Nxc5 19.dxc5 Qxc5 20.Qxc4 Qxc4 21.Rxc4 Rfc8
+22.Rxc8+ Rxc8 23.Kd2 Bxb2 24.Rb1 Bf6 25.Rc1 Rd8+ 26.Ke2 Rd5 27.Nd2 Ra5 28.Rc2 Kf8
+29.Rc8+ Kg7 30.Rc2 Kf8 31.Rc8+  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "7"]
+[White "Michell, Reginald Pryce"]
+[Black "Winter, William"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E22"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 Nc6 5.e3 O-O 6.a3 Bxc3+ 7.Qxc3 d6 8.Nf3 e5
+9.dxe5 Ne4 10.Qc2 f5 11.exf6 Nxf6 12.Bd2 Qe7 13.Bd3 Bg4 14.Bc3 Ne5 15.Nxe5 dxe5
+16.f3 Bd7 17.O-O c5 18.b4 b6 19.Qb2 Rae8 20.b5 Nh5 21.Qc2 g6 22.Rad1 Bf5
+23.Bxf5 gxf5 24.Rd5 Qg5 25.Re1 Qh4 26.Qe2 f4 27.Bxe5 Rf5 28.g3 Nxg3 29.hxg3 Qxg3+
+30.Qg2 Qxg2+ 31.Kxg2 Rfxe5 32.e4 R5e7 33.Kf2 Rg7 34.Red1 Rf8 35.Rh1 Rf6 36.Rh4 h6
+37.e5 Rfg6 38.Rxf4 Rg2+ 39.Ke3 Ra2 40.Rd8+ Kh7 41.e6  1-0
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "8"]
+[White "Winter, William"]
+[Black "Koltanowski, George"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nb6 6.Nf3 Nc6 7.O-O Be7 8.d3 O-O
+9.Be3 Be6 10.Na4 e4 11.Ne1 exd3 12.Nxd3 Bd5 13.Nxb6 axb6 14.Bxd5 Qxd5 15.Nf4 Qxd1
+16.Rfxd1 Bf6 17.Rd2 Rfd8 18.Rxd8+ Rxd8 19.Nd3 Ne5 20.Nxe5 Bxe5 21.Rc1 c6
+22.Rc2 b5 23.b3 Kf8 24.Rd2 Rxd2 25.Bxd2 Ke7 26.e4 c5 27.Kf1 b4 28.Ke2 b5
+29.Kd3 h6 30.Be3 Kd6  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "8"]
+[White "Alexander, Conel Hughes"]
+[Black "Flohr, Salo"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B25"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nge2 Bd7 7.O-O Qc8 8.Nd5 h5
+9.h3 Rb8 10.Kh2 Nh6 11.c3 b5 12.d4 Kf8 13.Be3 c4 14.Bg5 Ng8 15.Bd2 Nf6 16.Nxf6 Bxf6
+17.Nf4 Bg7 18.Nd5 e6 19.Ne3 Ne7 20.f4 Kg8 21.Qc2 Bh6 22.Rae1 Qc7 23.Kg1 Rh7
+24.Qd1 Kh8 25.g4 hxg4 26.hxg4 e5 27.f5 gxf5 28.exf5 Rg8 29.Qf3 Bc6 30.Qe2 Qb7
+31.dxe5 dxe5 32.Bxc6 Qxc6 33.Qg2 Bxe3+ 34.Bxe3 Rxg4  0-1
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "8"]
+[White "Golombek, Harry"]
+[Black "Michell, Reginald Pryce"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 d6 5.d3 Nf6 6.Bg5 h6 7.Bxf6 Qxf6 8.Nd5 Qd8
+9.c3 Ne7 10.d4 exd4 11.cxd4 Bb6 12.O-O Nxd5 13.Bxd5 O-O 14.h3 c6 15.Bb3 Qf6
+16.Qd3 Be6 17.Bc2 g6 18.Rad1 Rad8 19.Kh1 Bc8 20.Nh2 c5 21.Nf3 Kg7 22.b3 cxd4
+23.Rfe1 Rfe8 24.Re2 Re7 25.b4 Be6 26.Bb3 Rc7 27.Nxd4 Bxd4 28.Qxd4 Qxd4 29.Rxd4 Bxb3
+30.axb3 Rc3 31.Ra2 a6 32.b5 axb5 33.Rb4 Rc5 34.Ra7 Rd7 35.Ra5  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "8"]
+[White "Tartakower, Saviely"]
+[Black "Fine, Reuben"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C50"]
+
+1.e4 e5 2.Nc3 Nf6 3.Bc4 Bc5 4.Nf3 Nc6 5.d3 d6 6.Bg5 h6 7.Bxf6 Qxf6 8.Nd5 Qd8
+9.c3 Ne7 10.d4 Nxd5 11.dxc5 Nf4 12.Bb5+ Bd7 13.Bxd7+ Qxd7 14.g3 Ne6 15.cxd6 Qxd6
+16.Qa4+ c6 17.Rd1 Qc7 18.Qa3 Ng5 19.Nh4 Qe7 20.Qxe7+ Kxe7 21.Nf5+ Kf6 22.Rd6+ Ne6
+23.Ke2 Rhd8 24.Rhd1 h5 25.b3 g6 26.Ne3 Rxd6 27.Rxd6 Rd8 28.Rxd8 Nxd8 29.f4 exf4
+30.gxf4 g5 31.e5+ Ke6 32.fxg5 Kxe5 33.Kf3 Ne6 34.Nc4+ Kd5 35.h4 Nf8 36.Ne3+ Ke5
+37.Nc4+ Kd5 38.Ne3+  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "8"]
+[White "Thomas, George Alan"]
+[Black "Tylor, Theodore"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 Bc5 6.c3 b5 7.Bb3 d6 8.d3 Qe7
+9.Nbd2 Ng4 10.O-O g5 11.Bd5 Bd7 12.Nb3 f6 13.Nxc5 dxc5 14.Nxg5 fxg5 15.Bxc6 Bxc6
+16.Qxg4 h6 17.Be3 Qf7 18.Bxc5 Bd7 19.Qg3 O-O-O 20.Qxe5 Be6 21.a4 Rhe8 22.Qg3 h5
+23.axb5 h4 24.Qe3 axb5 25.Ra8+  1-0
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "9"]
+[White "Thomas, George Alan"]
+[Black "Winter, William"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Nd2 Bg4 7.Qb3 Qc7 8.Ndf3 e6
+9.Bf4 Bd6 10.Bxd6 Qxd6 11.Ne2 O-O 12.O-O-O Rab8 13.h3 Bxf3 14.gxf3 b5 15.Kb1 b4
+16.Qc2 Rb6 17.c4 dxc4 18.Qxc4 Na5 19.Qc1 Rc6 20.Qg5 Qd5 21.Rhg1 Qxg5 22.Rxg5 Nd5
+23.Be4 Rd8 24.Bxd5 exd5 25.Nf4 Rcd6 26.Rc1 h6 27.Rg3 Nc6 28.Rd1 Rc8 29.Rgg1 Kf8
+30.Rge1  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "9"]
+[White "Fine, Reuben"]
+[Black "Alexander, Conel Hughes"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2 Qe7 6.d3 Nf6 7.Bg5 Qxe2+ 8.Bxe2 Be7
+9.Nc3 h6 10.Bh4 Bd7 11.O-O-O Nc6 12.d4 O-O-O 13.Bc4 Rhf8 14.Rhe1 Bg4 15.Re3 d5
+16.Bb5 Ng8 17.Bxe7 Ngxe7 18.h3 Be6 19.Bxc6 Nxc6 20.Ne5 Nxe5 21.Rxe5 c6 22.Rde1 Rde8
+23.Nd1 Bd7 24.Rxe8+ Rxe8 25.Rxe8+ Bxe8 26.Ne3 Bd7 27.Kd1 Kc7 28.c3 Kd6 29.Kd2 Be6
+30.Ke2 Ke7  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "9"]
+[White "Flohr, Salo"]
+[Black "Tylor, Theodore"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D71"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.g3 d5 5.Bg2 dxc4 6.Qa4+ Nbd7 7.Nf3 O-O 8.Qxc4 Nb6
+9.Qd3 Bg4 10.Ne5 Bf5 11.e4 Nxe4 12.Bxe4 Bxe5 13.Bxf5 gxf5 14.Bh6 Bg7 15.Bxg7 Kxg7
+16.O-O-O e6 17.Qe3 Qf6 18.g4 fxg4 19.Rdg1 h5 20.h3 Nc4 21.Qe2 Qxd4 22.hxg4 Rad8
+23.gxh5+ Kh8 24.Rg4 Qd2+ 25.Qxd2 Nxd2 26.Rf4 f5 27.Rd1 Ne4 28.Nxe4 fxe4 29.Rxd8 Rxd8
+30.Rxe4  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "9"]
+[White "Koltanowski, George"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A47"]
+
+1.d4 Nf6 2.Nf3 b6 3.e3 Bb7 4.Nbd2 c5 5.Bd3 Nc6 6.c3 g6 7.a3 d5 8.Qa4 Qc7
+9.dxc5 bxc5 10.e4 Bg7 11.O-O O-O 12.exd5 Nxd5 13.Qh4 Nf4 14.Bc2 Rad8 15.Re1 Nd3
+16.Bxd3 Rxd3 17.Qc4 Rfd8 18.Qxc5 R3d5 19.Qc4 Qd7 20.Qa4 Ra5 21.Qc2 Ne5 22.Nd4 Qg4
+23.f3 Qh4 24.Rd1 Rxd4 25.cxd4 Qxd4+ 26.Kh1 Rd5 27.Rf1 Ba6 28.Nb3 Qb6 29.Bf4 Bxf1
+30.Rxf1 Nd3 31.Bg3 Nxb2 32.h4 h5 33.Rb1 Na4 34.Qc4 Qb5 35.Qc8+ Kh7 36.Nd2 Qd7
+37.Qxd7 Rxd7 38.Ne4 Bf6 39.Rb8 Kg7 40.Ng5 Nb6 41.Bf2 Bxg5 42.hxg5  1/2-1/2
+
+[Event "Hastings3536"]
+[Site "Hastings"]
+[Date "1935.??.??"]
+[Round "9"]
+[White "Michell, Reginald Pryce"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D31"]
+
+1.d4 d5 2.c4 e6 3.Nc3 b6 4.cxd5 exd5 5.Nf3 Bb7 6.Bf4 Bd6 7.Bxd6 Qxd6 8.e3 Nf6
+9.Qa4+ c6 10.Bd3 O-O 11.O-O c5 12.dxc5 bxc5 13.Rfd1 Nbd7 14.Qa3 Rfe8 15.Bb5 Re6
+16.Ne2 Ne5 17.Nxe5 Rxe5 18.Rac1 a6 19.Bd3 Rc8 20.Ng3 h5 21.e4 h4 22.Nf5 Rxf5
+23.exf5 Ng4 24.Kf1 Qf4 25.f3 h3  0-1

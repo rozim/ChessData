@@ -1,0 +1,656 @@
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.e5 Ne4 5.Qe2 Bb4+ 6.Kd1 d5 7.exd6 f5 8.Ng5 O-O
+9.Qc4+ Kh8 10.Qxb4 Nc6 11.Qa3 Nxf2+ 12.Ke1 Nxh1 13.dxc7 Qe8+ 14.Be2 f4 15.Kf1 Bd7
+16.Nd2 Ne5 17.Ndf3 Ng4 18.Bd3 Nhf2 19.Bxh7 Bb5+ 20.Kg1 Qe2 21.Bd2 Nd1 22.Bd3 Bxd3
+23.Qxd3 Qxd3 24.cxd3 Nxb2 25.Rb1 Nxd3 26.Rxb7 Nc5 27.Rb5 Na6 28.Ne6 Rf6 29.Nfxd4 Re8
+30.Rh5+ Kg8 31.Rg5 Ne3 32.Nxg7 Rc8 33.Nge6+ Kh8 34.Ba5 Rf7 35.Ne2 Rf5 36.Bc3+ Kh7
+37.Rg7+ Kh6 38.N2xf4 Nxc7 39.Rg6+ Kh7 40.Ng5+ Rxg5 41.Rxg5 Ne8 42.Bd4 Nd1
+43.Rh5+ Kg8 44.Rh8+ Kf7 45.Rh7+ Kg8 46.Re7 Rd8 47.Ne6 Rc8 48.h4 Nc3 49.Bxc3 Rxc3
+50.Rxe8+ Kf7 51.Ra8 Kxe6 52.Rxa7 Kf5 53.Ra4 Rc2 54.Kh2 Rd2 55.Kh3 Rd3+ 56.g3 Rc3
+57.Ra5+ Kg6 58.a4 Rc4 59.Ra6+ Kh5 60.g4+  1-0
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.O-O d6 7.d4 Bb6 8.a4 Nf6
+9.Bb5 a6 10.Bxc6+ bxc6 11.a5 Ba7 12.dxe5 Nxe4 13.Qe2 d5 14.Nd4 Nxc3 15.Nxc3 Bxd4
+16.Qd3 c5 17.Qg3 Be6 18.Bg5 Qd7 19.Rac1 f6 20.exf6 gxf6 21.Bf4 Rg8 22.Qf3 O-O-O
+23.Rfe1 c4 24.Qe2 Bf5 25.Qa2 Rxg2+ 26.Kh1 Rxf2  0-1
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "1"]
+[White "Lasker, Emanuel"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C87"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.d4 Bd7 6.c3 Nf6 7.Nbd2 Be7 8.O-O O-O
+9.Re1 Re8 10.Nf1 Bf8 11.Ng3 g6 12.h3 Bg7 13.Bc2 Bc8 14.d5 Ne7 15.Be3 Rf8
+16.Qd2 Ne8 17.Bh6 Kh8 18.Rad1 Ng8 19.Bxg7+ Nxg7 20.c4 f5 21.Qc3 fxe4 22.Bxe4 Nf6
+23.Qe3 Nxe4 24.Nxe4 Rf4 25.c5 Bf5 26.Nfg5 Qd7 27.Qxf4 exf4 28.Nf6 Ne6 29.Nxd7 Nxg5
+30.Re7 Kg8 31.Nf6+ Kf8 32.Rxc7  1-0
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "1"]
+[White "Lasker, Emanuel"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.Re1 Bg4
+9.c3 f5 10.Qb3 O-O 11.Bf4 Bxf3 12.gxf3 Ng5 13.Kg2 Qd7 14.Qc2 Ne6 15.Bc1 Bd6
+16.Nd2 Rae8 17.Nf1 Nexd4 18.Qd1 Rxe1 19.Qxe1 Nxf3 20.Kxf3 f4 21.Qd1 Ne5+
+22.Ke2 Qg4+ 23.Kd2 Qxd1+ 24.Kxd1 Nxd3 25.Ke2 Ne5 26.f3 Re8 27.b3 Ng4+ 28.Kd2 Ne3
+29.Bb2 Ng2 30.h3 Bc5 31.Nh2 Bf2 32.c4 dxc4 33.bxc4 h5  0-1
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Bxc3 8.bxc3 Ne7
+9.Bxf6 gxf6 10.Qd2 Ng6 11.Kh1 Kh8 12.d4 Rg8 13.Bd3 Qe7 14.Rab1 b6 15.Ng1 Be6
+16.d5 Bd7 17.g3 Rg7 18.Rbe1 Rag8 19.f3 h5 20.Rf2 Nf8 21.f4 exf4 22.Qxf4 Nh7
+23.Nf3 Bg4 24.Nd4 h4 25.Re3 Qe5 26.gxh4 Bf3+  0-1
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D37"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Be7 5.Bf4 c6 6.e3 Nbd7 7.h3 O-O 8.Bd3 dxc4
+9.Bxc4 Nd5 10.Bh2 Qa5 11.Rc1 N7b6 12.Bb3 Bb4 13.Qc2 Nxc3 14.bxc3 Ba3 15.Rd1 Nd5
+16.Rd3 e5 17.e4 Nxc3 18.O-O exd4 19.Rxd4 Nb5 20.Ra4 Qb6 21.Ng5 Qc5 22.Qd2 h6
+23.Nf3 Qe7 24.e5 a5 25.Rh4 Bb4 26.Qc2 Kh8 27.Bf4 f5 28.exf6 Rxf6 29.Bg5 Bf5
+30.Qc1 Raf8 31.a4 Nc3 32.Kh1 Bd3 33.Re1 Ne2 34.Qd1 Bxe1 35.Qxd3 Rxf3 36.gxf3 Qxg5
+37.Rg4 Nc1 38.Qe4 Qf5  0-1
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "2"]
+[White "Steinitz, William"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D37"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bf4 Be7 5.e3 O-O 6.Rc1 c5 7.dxc5 Bxc5 8.cxd5 exd5
+9.Nf3 Nc6 10.Bd3 d4 11.exd4 Nxd4 12.O-O Bg4 13.Nb5 Bxf3 14.gxf3 Ne6 15.Be5 Nh5
+16.Kh1 Qg5 17.Bg3 Rad8 18.Qc2 Qh6 19.Rcd1 Rc8 20.Qb3 a6 21.Nc3 Nd4 22.Qxb7 Nxg3+
+23.fxg3 Rb8 24.Qxa6 Rb6 25.Qc4 Rxb2 26.h4 Ba7 27.Be4 Qd6 28.f4 Qd7 29.Bg2 Qg4
+30.Qd3 Nf5 31.Ne4 Be3 32.Rf3 Rxg2 33.Kxg2 Nxh4+ 34.Kh2 Nxf3+ 35.Kg2 Nh4+
+36.Kh2 Nf5 37.Rb1 h5 38.Rb4 Ra8 39.a3 Rxa3  0-1
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "2"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Lasker, Emanuel"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Be7 6.Qe2 Nd6 7.Bxc6 bxc6 8.dxe5 Nb7
+9.b3 O-O 10.Bb2 d5 11.exd6 cxd6 12.Nbd2 Bf6 13.Bxf6 Qxf6 14.Rfe1 Nc5 15.Ne4 Nxe4
+16.Qxe4 Bd7 17.c4 Rfe8 18.Qd4 Rxe1+ 19.Rxe1 Qxd4 20.Nxd4 Kf8 21.Kf1 a5 22.a4 Re8
+23.Rxe8+ Kxe8 24.Ke2 Kd8 25.Kd2 Kc7 26.Kc3 Kb6 27.f4 h5 28.h3 Kc5 29.f5 g6
+30.f6 d5 31.cxd5 Kxd5 32.Nf3 Ke6 33.Nd2 Kxf6 34.Nc4 h4 35.Nxa5 Ke5 36.Nc4+ Kf4
+37.Nb6 Bf5 38.Kd4 Be4 39.a5 c5+ 40.Kxc5 Bxg2 41.a6 g5 42.Nd5+ Ke5 43.Ne3 Bf3
+44.b4 Ke6 45.b5 Be2 46.Nd5  1-0
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "2"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Chigorin, Mikhail"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D07"]
+
+1.d4 d5 2.c4 Nc6 3.Nf3 Bg4 4.cxd5 Bxf3 5.dxc6 Bxc6 6.Nc3 e6 7.e4 Nf6 8.f3 Be7
+9.Be3 O-O 10.Bd3 b6 11.O-O Bb7 12.Qc2 Kh8 13.Rac1 Rc8 14.Nb5 c5 15.Nxa7 Ra8
+16.Nb5 cxd4 17.Bxd4 Rxa2 18.Rfd1 Nd7 19.Nc3 Ra7 20.Bb5 Ba6 21.Ra1 Qc8 22.Rxa6 Rxa6
+23.Bxd7 Qc7 24.Bb5 Ra5 25.Qf2 Rd8 26.Bxb6 Rxd1+ 27.Nxd1 Qc1 28.Be2 Ra1 29.Qg3 h6
+30.Bd4 f6 31.Qe1 Bc5 32.Bxc5 Qxc5+ 33.Kf1 Qd4 34.b4 Rb1 35.b5 Kg8 36.g3 Kf7
+37.Kg2 g5 38.h3 e5 39.Qc3 Kg6 40.Qc2 Ra1 41.Qb3 Kg7 42.b6 Ra8 43.b7 Rb8 44.Ne3 Qd7
+45.Nf5+ Kg6 46.Ba6 Qd2+ 47.Kf1 Qc1+ 48.Ke2 Qc5 49.h4 gxh4 50.gxh4 h5 51.Qe3 Qc2+
+52.Qd2 Qc5 53.Kf1 Qf8 54.Qd6 Kf7 55.Bc4+ Kg6 56.Qxf8 Rxf8 57.Ne7+  1-0
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "2"]
+[White "Chigorin, Mikhail"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O d6 7.d4 exd4 8.cxd4 Nf6
+9.Qa4 Bd7 10.Qa3 Bb6 11.e5 dxe5 12.dxe5 Ne4 13.Bd5 Bf5 14.Nc3 Nxc3 15.Bxc6+ bxc6
+16.Qxc3 Qd5 17.Bg5 h6 18.Bh4 g5 19.e6 O-O-O 20.e7 Rde8 21.Bg3 Rhg8 22.Rac1 Be4
+23.Rfd1 Qa5 24.Qf6 Qf5 25.Be5 Qg6 26.Nd2 Bd5 27.Nc4 Qxf6 28.Bxf6 Rg6 29.Nxb6+ axb6
+30.Bd4 Kb7 31.Rd2 Rxe7 32.f3 Re8 33.a3 Ra8 34.Rc3 Ra4 35.Kf2 Re6 36.Be3 Re8
+37.Rd4 Ra5 38.h4 Be6 39.hxg5 hxg5 40.g4 Rea8 41.Bc1 c5 42.Re4 c4 43.f4 gxf4
+44.Rxf4 c5 45.g5 Rg8 46.Re4 Raa8 47.Re5 Rad8 48.Rg3 Rg6 49.Rge3 Kc6 50.Re1 Rgg8
+51.Rg1 Rd5 52.Rxd5 Bxd5 53.Bd2 Be4 54.Re1 Kd5 55.Ke2 Ra8 56.Bc1 c3 57.Rf1 Bg6
+58.Rf6 b5 59.Rb6 Kc4 60.Rc6 Bd3+ 61.Kf3 Re8 62.Rc7 c2  0-1
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "2"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Steinitz, William"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D26"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 dxc4 5.e3 c5 6.Bxc4 Nc6 7.O-O cxd4 8.exd4 Be7
+9.Bf4 O-O 10.Rc1 Qa5 11.Qe2 Rd8 12.Rfd1 a6 13.Bb3 Nb4 14.Ne5 Nbd5 15.Bg5 Nxc3
+16.Rxc3 Bd7 17.Rg3 Be8 18.h3 Qb6 19.Ng4 Nd5 20.Bxe7 Nxe7 21.d5 Nf5 22.Rc3 Bb5
+23.Qe5 Rd6 24.dxe6 Rxd1+ 25.Bxd1 Qxe6 26.Bb3 Qxe5 27.Nxe5 Nd6 28.Rc7 Be8
+29.Bd5 Rb8 30.f4 b5 31.Kf2 b4 32.Ke3 a5 33.g4 a4 34.f5 a3 35.bxa3 bxa3 36.Rc3 Rb5
+37.Kd4 Rb2 38.Re3 Kf8 39.Kc5 Nb5 40.Bb3 h5 41.gxh5 Rf2 42.Rf3 Rxf3 43.Nxf3 Ke7
+44.Kb4 Nd6 45.Kxa3 Nxf5 46.Ba4 Ng3 47.Bxe8 Kxe8 48.Kb4 Nxh5 49.a4 Kd8 50.a5 Kc7
+51.Ng5 Nf4 52.Nxf7 Nxh3 53.Kb5 Nf4 54.a6 Ne6  1/2-1/2
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "2"]
+[White "Lasker, Emanuel"]
+[Black "Chigorin, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C84"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d4 exd4 6.O-O Be7 7.e5 Ne4 8.Re1 Nc5
+9.Bxc6 dxc6 10.Nxd4 O-O 11.Nc3 Re8 12.Bf4 Ne6 13.Nxe6 Qxd1 14.Raxd1 Bxe6
+15.a3 Rad8 16.h3 Rxd1 17.Nxd1 Rd8 18.Ne3 Rd4 19.Bg3 b5 20.Rd1 c5 21.c3 Rxd1+
+22.Nxd1 a5 23.Kf1 a4 24.Bf4 Kf8 25.Bd2 Ke8 26.f4 Bc4+ 27.Kf2 Bd3 28.Ne3 Kd7
+29.Kf3 Ke6 30.Be1 g6 31.g4 h6 32.h4 c6 33.g5 h5 34.Bd2 Bb1 35.Be1 Ba2 36.Bd2 Bd8
+37.Be1 Bb6 38.Bd2 Bb3 39.Be1 Bd5+ 40.Ke2 Be4 41.Bd2 c4 42.Be1 Bd5 43.Bd2 Bxe3
+44.Kxe3  1/2-1/2
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "3"]
+[White "Steinitz, William"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.e5 Ne4 5.Qe2 Bb4+ 6.Kd1 d5 7.exd6 f5 8.dxc7 Qxc7
+9.Nxd4 Nc6 10.c3 Nxd4 11.cxd4 Qd6 12.f3 Qxd4+ 13.Nd2 Bxd2 14.Bxd2 Qxd2+ 15.Qxd2 Nxd2
+16.Kxd2 Be6 17.Bd3 Kf7 18.Rhc1 Rac8 19.Rc3 Rxc3 20.Kxc3 Rc8+ 21.Kb4 Kf6 22.a4 h5
+23.a5 a6 24.Rd1 h4 25.Rd2 Rd8 26.Kc5 Rd5+ 27.Kb6 Bd7 28.Kxb7 Bb5 29.Bxb5 Rxd2
+30.Kxa6 Rxb2 31.Kb6 Rxg2 32.a6 Ra2 33.a7 Rxa7 34.Kxa7 Kg5 35.Kb6 Kf4 36.Bc6 g5
+37.Kc5 h3  1/2-1/2
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "3"]
+[White "Lasker, Emanuel"]
+[Black "Steinitz, William"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C64"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.c3 Qf6 5.O-O Nge7 6.d4 exd4 7.Bxc6 Nxc6 8.e5 Qg6
+9.cxd4 Be7 10.d5 Nb4 11.Nc3 O-O 12.a3 Nd3 13.d6 cxd6 14.Nd5 Bd8 15.exd6 b6
+16.Nf4 Nxf4 17.Bxf4 Bb7 18.Bg3 Bf6 19.Rc1 Bxb2 20.Rc7 Bc6 21.Nd4 Bxd4 22.Qxd4 Qc2
+23.h4 Rfe8 24.f3 h5 25.Kh2 Qa4 26.Qc3 f6 27.Rf2 Qb5 28.Rb2 Qd5 29.Rd2 Qb5
+30.Rb2 Qd5 31.Rd2 Qb5 32.Rb2  1/2-1/2
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "3"]
+[White "Chigorin, Mikhail"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.e5 Ne4 5.Qxd4 d5 6.exd6 Nxd6 7.Nc3 Nc6 8.Qf4 Bf5
+9.Bb5 Be7 10.Nd4 Bd7 11.Bxc6 Bxc6 12.Nxc6 bxc6 13.O-O O-O 14.Be3 Rb8 15.Rab1 Nc8
+16.Qf3 Qd7 17.Rbd1 Bd6 18.b3 Qe6 19.Ne4 Ne7 20.Rfe1 Qg6 21.Bxa7 Rbe8 22.Nxd6 cxd6
+23.c4 c5 24.Bb6 Nf5 25.Bc7 Nd4 26.Qd5 Ne2+ 27.Kf1 Nc3 28.Qxd6 Nxd1 29.Rxd1 Re6
+30.Qd3 Qf6 31.a4 Rfe8 32.a5 Qe7  0-1
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "3"]
+[White "Chigorin, Mikhail"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 d6 6.Nbd2 a6 7.h3 Ba7 8.Bb3 Nd7
+9.Nf1 Nc5 10.Bc2 d5 11.Qe2 d4 12.c4 f6 13.Bd2 Ne6 14.Ng3 b5 15.cxb5 axb5
+16.Bb3 Ne7 17.Nh4 Nc5 18.Bc2 Be6 19.Nh5 O-O 20.g4 Bb6 21.b4 Nb3 22.Bxb3 Bxb3
+23.O-O Bf7 24.Nf5 Nxf5 25.gxf5 Qe8 26.Ng3 Rxa2 27.Rxa2 Bxa2 28.Kh2 Bf7 29.Rg1 Kh8
+30.Qg4 Rg8 31.f4 c5 32.fxe5 fxe5 33.Bg5 Bd8 34.bxc5 b4 35.c6 Qxc6 36.Bxd8 Rxd8
+37.Qg5 Qf6 38.Qc1 Qe7 39.f6 gxf6 40.Nf5 Qf8 41.Qc7 Rc8 42.Qb6 Bg6 43.Nh4 Be8
+44.Nf5 Bd7 45.Nh4 Qh6 46.Qd6 Qxh4 47.Qxd7 Qf4+  0-1
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "3"]
+[White "Steinitz, William"]
+[Black "Chigorin, Mikhail"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D21"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 e6 4.e3 Bb4+ 5.Bd2 Bxd2+ 6.Nbxd2 Nf6 7.Bxc4 O-O 8.O-O Nbd7
+9.Nb3 Qe7 10.Rc1 Rd8 11.Bd3 c6 12.Qd2 Nf8 13.Na5 Ng6 14.Rfd1 Rb8 15.Nc4 Bd7
+16.e4 Be8 17.e5 Nd5 18.Bxg6 hxg6 19.Nd6 f6 20.h4 Nb6 21.Qf4 Bf7 22.Nd2 Rf8
+23.Qg3 Rbd8 24.N2e4 Nd5 25.Rd3 Be8 26.Rb3 b6 27.Ra3 fxe5 28.Qxe5 Nf4 29.Re1 Qxh4
+30.g3 Nh3+ 31.Kg2 Qe7 32.Kxh3 g5 33.Nxe8 Rd5 34.Qxg7+  1-0
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "3"]
+[White "Lasker, Emanuel"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2 Qe7 6.d3 Nf6 7.Bg5 Nc6 8.Nc3 Be6
+9.O-O-O O-O-O 10.d4 d5 11.Ne5 Qe8 12.Qf3 Be7 13.Bb5 Nxe5 14.dxe5 Nd7 15.Bxd7+ Qxd7
+16.Bxe7 Qxe7 17.Nxd5 Qc5 18.Nc3 Qxe5 19.Rde1 Qa5 20.a3 Rd4 21.Qe3 Rhd8 22.Rd1 Qb6
+23.Rxd4 Qxd4 24.Qxd4 Rxd4 25.Rd1 Rxd1+ 26.Kxd1 Kd7 27.Kd2 a6 28.Ke3 Bf5 29.Ne4 Bxe4
+30.Kxe4 Ke6 31.f4 f5+  1/2-1/2
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "4"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D50"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.Bg5 cxd4 6.Qxd4 Nc6 7.Qh4 Be7 8.O-O-O Qa5
+9.e3 Bd7 10.Kb1 h6 11.cxd5 exd5 12.Nd4 O-O 13.Bxf6 Bxf6 14.Qh5 Nxd4 15.exd4 Be6
+16.f4 Rac8 17.f5 Rxc3 18.fxe6 Ra3 19.exf7+ Rxf7 20.bxa3 Qb6+ 21.Bb5 Qxb5+
+22.Ka1 Rc7 23.Rd2 Rc4 24.Rhd1 Rc3 25.Qf5 Qc4 26.Kb2 Rxa3 27.Qe6+ Kh7 28.Kxa3 Qc3+
+29.Ka4 b5+ 30.Kxb5 Qc4+ 31.Ka5 Bd8+ 32.Qb6 Bxb6+  0-1
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "4"]
+[White "Lasker, Emanuel"]
+[Black "Chigorin, Mikhail"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C79"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.d4 Nd7 7.dxe5 Ncxe5 8.Nxe5 dxe5
+9.Nc3 Bd6 10.Qg4 O-O 11.Bh6 Qf6 12.Bxd7 Qxh6 13.Bxc8 Raxc8 14.Rad1 Qg6 15.Qe2 Qe6
+16.Rd3 Rcd8 17.Rfd1 Be7 18.Nd5 c6 19.Nxe7+ Qxe7 20.a3 Rfe8 21.Qd2 Rxd3 22.Qxd3 Kf8
+23.Rd2 h6 24.g3 Rc8 25.Qd7 Rc7 26.Qf5 g6 27.Qf3 Ke8 28.Qe3 Qg5 29.f4 exf4
+30.Qd4  1-0
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "4"]
+[White "Chigorin, Mikhail"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O d6 7.d4 exd4 8.cxd4 Nf6
+9.e5 dxe5 10.Ba3 Be6 11.Bb5 Qd5 12.Qa4 Bd7 13.dxe5 a6 14.exf6 axb5 15.fxg7 Rg8
+16.Qh4 Rxg7 17.Qf6 Rg8 18.Bb2 Rg6 19.Nc3 Bxc3 20.Qxc3 O-O-O 21.Rfd1 Qh5 22.Rac1 Rdg8
+23.g3 Bg4 24.Rd3 Rh6 25.Nh4 Qxh4 26.gxh4  1-0
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "4"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D26"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 dxc4 5.e3 c5 6.Bxc4 Nc6 7.O-O cxd4 8.exd4 Be7
+9.Bf4 O-O 10.Rc1 Qb6 11.Qd2 Rd8 12.Rfd1 Bd7 13.Qe2 Be8 14.Bd3 Rac8 15.h3 Nb4
+16.Bb1 Nbd5 17.Be5 Bc6 18.Ng5 h6 19.Nge4 Nxc3 20.bxc3 Nxe4 21.Bxe4 Bxe4 22.Qxe4 Qc6
+23.Qg4 Bf8 24.c4 f5 25.Qg6 Qe8 26.Qg3 b6 27.Qb3 Qc6 28.a4 a5 29.Rc3 Bd6 30.d5 Qc7
+31.Bxd6 Qxd6 32.Re3 e5 33.Rb1 e4 34.Rc3 Qe5 35.Rc2 Rd6 36.Rbc1 f4 37.c5 bxc5
+38.Rxc5 Rxc5 39.Rxc5 f3 40.Qd1 Rg6 41.g4 e3 42.Qe1 e2 43.Rc1 Qxd5 44.Qc3 Rc6  0-1
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "4"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D07"]
+
+1.d4 d5 2.c4 Nc6 3.Nf3 Bg4 4.cxd5 Bxf3 5.dxc6 Bxc6 6.Nc3 e6 7.e4 Bb4 8.f3 f5
+9.e5 Ne7 10.a3 Ba5 11.Bc4 Bd5 12.Qa4+ c6 13.Bd3 Qb6 14.Bc2 Qa6 15.Bd1 Bc4
+16.f4 O-O-O 17.Be3 Nd5 18.Bd2 Nb6 19.Qc2 Rxd4 20.Rc1 Bd3 21.Qb3 Nc4 22.Kf2 Nxd2
+23.Qxe6+ Kb8 24.Bf3 Qb6 25.Kg3 Nxf3 26.gxf3 Bc4 27.Qxf5 Bxc3 28.bxc3 Rd2
+29.Qh3 g6 30.Kh4 h6 31.Qg4 Qf2+ 32.Qg3 g5+ 33.Kg4 h5+ 34.Kf5 Bd3+ 35.Ke6 Qb6
+36.Qxg5 c5+ 37.Kf7 Bc4+ 38.Kg7 Rg8+  0-1
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "5"]
+[White "Steinitz, William"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D45"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd2 Bd6 7.Bd3 O-O 8.O-O Re8
+9.e4 dxc4 10.Bxc4 Bc7 11.Qb3 c5 12.d5 Ne5 13.Nxe5 Bxe5 14.Rfe1 a6 15.a4 Qc7
+16.h3 Rb8 17.a5 b5 18.axb6 Rxb6 19.Qc2 Bd4 20.Na4 Rb8 21.Bc3 exd5 22.exd5 Bb7
+23.Qd3 Bxd5 24.Bxd4 cxd4 25.Bxd5 Nxd5 26.Qxd4 Nf4 27.Nc3 Red8 28.Qe3 h6 29.Rxa6 Qb7
+30.Qxf4 Qxa6 31.Re7 Qg6 32.b4 Rbc8 33.Re3 Rd3 34.Ne4 Rxe3 35.fxe3 Rc2 36.Ng3 Qc6
+37.Ne4 Rc4 38.Qb8+ Qc8 39.Qe5 Qe6 40.Qb8+ Kh7 41.Ng3 Qxe3+ 42.Kh2 Rc1 43.h4 Rc4  0-1
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "5"]
+[White "Chigorin, Mikhail"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C60"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 g6 4.Nc3 Bg7 5.d3 Nge7 6.Bg5 f6 7.Be3 a6 8.Ba4 b5
+9.Bb3 Na5 10.Qd2 Nxb3 11.axb3 Bb7 12.Bh6 O-O 13.h4 d6 14.O-O-O c5 15.g4 b4
+16.Nb1 a5 17.Rdg1 a4 18.bxa4 Rxa4 19.Qe3 Nc6 20.Bxg7 Kxg7 21.g5 Nd4 22.h5 Nxf3
+23.hxg6 Nxg1 24.gxf6+ Kxf6 25.gxh7 Ke6 26.Rxg1 Kd7 27.Qh3+ Kc6 28.Qe6 Ra8
+29.Rg7 Kb6 30.Na3 Ba6 31.Rd7 Qxd7 32.Qxd7 Rad8 33.Qg7 bxa3 34.bxa3 c4 35.d4 Rxf2
+36.h8=Q Rxh8 37.Qxh8 Rf1+ 38.Kb2 exd4 39.Qxd4+ Kc7 40.a4 Rf7 41.a5 Kc8 42.Qxd6 Rb7+
+43.Kc3 Bb5 44.a6 Rc7 45.a7  1-0
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "5"]
+[White "Chigorin, Mikhail"]
+[Black "Lasker, Emanuel"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.c3 d6 6.Nbd2 O-O 7.Nf1 d5 8.exd5 Nxd5
+9.Be3 Nxe3 10.fxe3 e4 11.dxe4 Qe7 12.Qc2 Ne5 13.Nxe5 Qxe5 14.O-O-O c6 15.Re1 b5
+16.Bd3 Rd8 17.Nd2 Qg5 18.Nf3 Bxe3+ 19.Kb1 Qc5 20.Rhf1 a5 21.Qe2 Bh6 22.Nd4 b4
+23.Bc4 bxc3 24.Nb3 Qe5 25.Rxf7 Kh8 26.Qf3 Be6 27.Re7 c2+ 28.Kxc2 a4 29.Rxe6 axb3+
+30.Qxb3 Qxh2 31.Kb1 Qxg2 32.Rxc6 Rab8 33.Qc3 Bg5 34.Bb3 Bh4 35.Rc1 Bg5 36.Re1 Bh4
+37.Rc1  1/2-1/2
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "5"]
+[White "Lasker, Emanuel"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D37"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Be7 5.e3 O-O 6.Be2 b6 7.O-O Bb7 8.b3 Nbd7
+9.Bb2 Ne4 10.Nxe4 dxe4 11.Nd2 f5 12.f3 Bg5 13.f4 Bf6 14.Rf2 c5 15.Nf1 Qc7
+16.Qd2 Rad8 17.g4 cxd4 18.exd4 Nb8 19.gxf5 Bxd4 20.Bxd4 Nc6 21.Bxb6 axb6
+22.Qe3 Nd4 23.Rd1 Nxe2+ 24.Qxe2 exf5 25.Ne3 Rxd1+ 26.Qxd1 h6 27.b4 Kh7 28.h4 Qe7
+29.Rg2 Rf7 30.Qe1 Qf6 31.h5 Rd7 32.Qg3 Rd3 33.Qg6+ Qxg6 34.hxg6+ Kg8 35.Re2 Rd6
+36.Nxf5 Rf6 37.Ne3 Rxg6+ 38.Kf2 Rf6 39.Kg3 Rg6+ 40.Kf2 Rf6 41.Kg3 Rd6 42.f5 Kf7
+43.Kf4 g5+ 44.fxg6+ Rxg6 45.Nd5 Bxd5 46.cxd5 Ke7 47.Rc2 e3 48.Kxe3 Rg4 49.Rc6 Rxb4
+50.Rxh6  1/2-1/2
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "5"]
+[White "Lasker, Emanuel"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C62"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 4.d4 Bd7 5.Nc3 Nge7 6.dxe5 dxe5 7.Bg5 h6 8.Bxc6 bxc6
+9.Be3 Ng6 10.Qd3 Bd6 11.Nd2 Ne7 12.Nc4 Nc8 13.O-O-O Qe7 14.f4 f6 15.fxe5 fxe5
+16.Rhf1 Qe6 17.Na4 Qe7 18.Bc5 Bxc5 19.Nxc5 Bg4 20.Rd2 Nb6 21.Na6 Rf8 22.Na5 Rxf1+
+23.Qxf1 Rd8 24.Nxc6 Rxd2 25.Nxe7 Rd1+ 26.Qxd1 Bxd1 27.Nc6 Be2 28.Nc5 Bf1
+29.g3 Nc4 30.Nxa7 Bg2 31.Nc6 Nd6 32.Nxe5 Nxe4 33.Nxe4 Bxe4 34.Nd3 Ke7 35.Kd2 Kd6
+36.Kc3 Bd5 37.Kd4 g5 38.c4 Bg2 39.b4 h5 40.b5 h4 41.gxh4 gxh4 42.c5+ Kd7
+43.a4 Kc8 44.c6 Kb8 45.Ne5 Ka7 46.Kc5 Bh3 47.Nd7  1-0
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "5"]
+[White "Steinitz, William"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C79"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.d4 Nd7 7.dxe5 Ncxe5 8.Nxe5 dxe5
+9.Nc3 Bd6 10.Qg4 O-O 11.Bh6 Qf6 12.Bxd7 Qxh6 13.Bxc8 Raxc8 14.Rad1 Qg6 15.Qe2 Qe6
+16.Rd3 Rcd8 17.Rfd1 Be7 18.Nd5 c6 19.Nxe7+ Qxe7 20.a3 Rfe8 21.Qd2 Rxd3 22.Qxd3 Kf8
+23.Rd2 h6 24.g3 Rc8 25.Qd7 Rc7 26.Qf5 g6 27.Qf3 Ke8 28.Qe3 Qg5 29.f4 exf4
+30.Qd4  1-0
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "6"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Steinitz, William"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D26"]
+
+1.d4 d5 2.c4 e6 3.Nc3 dxc4 4.e3 Nf6 5.Nf3 c5 6.Bxc4 Nc6 7.O-O cxd4 8.exd4 Be7
+9.Bf4 O-O 10.Rc1 Qb6 11.Qd2 Rd8 12.Rfd1 Bd7 13.Qe2 Rac8 14.d5 exd5 15.Bxd5 Kf8
+16.Be3 Qa5 17.Bb3 Be8 18.Nd4 Nxd4 19.Bxd4 Bc6 20.Re1 Re8 21.Qd3 Qg5 22.g3 Qh5
+23.Re5 Qh3 24.f3 Bd6 25.Rxe8+ Nxe8 26.Bf2 Rd8 27.Qc4 Qf5 28.f4 Rd7 29.Bc2 Qa5
+30.Bxh7 g6 31.Qd4 Ng7 32.g4 Be7 33.Qxa7 Qxa7 34.Bxa7 Rd2 35.f5 Rg2+ 36.Kf1 Rxg4
+37.fxg6 fxg6 38.h3 Rf4+ 39.Ke2 Kf7 40.Rg1 Rf6 41.a3 Ne6 42.Bxg6+ Rxg6 43.Rxg6 Kxg6
+44.b4 Bf6 45.Kd2 Nf4 46.Kc2 Bxc3 47.Kxc3 Ne6 48.Bb6 Nf8 49.Kc4 Nd7 50.Bd8 b5+
+51.Kd4 Bg2 52.h4 Kh5 53.Be7 Kg4 54.Bd8 Bf3 55.Be7 Bd1 56.Kd5 Ba4 57.Kd6 Nb6
+58.Ke6 Nc4 59.Kd5 Nxa3 60.Kd4 Nc2+ 61.Ke4 Ne1 62.Bd8 Ng2 63.Be7 Nxh4 64.Bf8 Nf5
+65.Bc5 Ng3+ 66.Ke3 Kf5 67.Bd6 Ne4 68.Bb8 Nf6 69.Kd4 Ke6 70.Bg3 Bb3 71.Be1 Kf5
+72.Bg3 Nd5 73.Bd6 Bc4 74.Bb8 Nxb4 75.Kc3 Nc6 76.Bd6 Ke6 77.Bc5 Kd5 78.Bf8 Ke4
+79.Bc5 Ne5 80.Bf8 Ng4 81.Bc5 Ne3 82.Bf8 Nd5+ 83.Kc2 Kd4 84.Bg7+ Kc5 85.Bf8+ Kb6
+86.Kb2 Ka5 87.Ka3 b4+ 88.Kb2 Ka4 89.Bg7 Ba6 90.Bd4 Bc8 91.Bc5 Nf4 92.Bd4 Nd3+
+93.Kb1 Kb3 94.Bg7 Bg4 95.Bf6 Bd1 96.Bg7 Bc2+ 97.Ka1 Nc5 98.Bf8 Na4 99.Bg7 Bd3
+100.Bf8 Kc3  0-1
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "6"]
+[White "Steinitz, William"]
+[Black "Lasker, Emanuel"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D35"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bf4 c5 5.e3 Nc6 6.Nf3 a6 7.dxc5 Bxc5 8.cxd5 Nxd5
+9.Nxd5 exd5 10.Bd3 Bb4+ 11.Ke2 d4 12.exd4 Bg4 13.Be3 Qd5 14.Qb3 Nxd4+ 15.Bxd4 Qxd4
+16.Rhd1 Kf8 17.Bc4 Bxf3+ 18.gxf3 Qe5+ 19.Kf1 Be7 20.Rd7 Rd8 21.Rxd8+ Bxd8
+22.Qxb7 Qc7 23.Qd5 g6 24.Qd4 f6 25.Rd1 Be7 26.Bxa6 Qxh2 27.Qd7 Qf4 28.Bb5 Kf7
+29.Rd4 Qxf3 30.Bc4+ Kf8 31.Qe6 Qh1+ 32.Ke2 Qh5+ 33.f3 Qe5+ 34.Qxe5 fxe5 35.Rd7 h5
+36.Rb7 Rh6 37.Kf1 g5 38.Rb8+ Kg7 39.Rg8+ Kf6 40.Kg2 Kf5 41.Bd3+ Kf4 42.Rg6 Rh8
+43.Rg7 Bc5 44.Bg6 Rd8  1/2-1/2
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "6"]
+[White "Lasker, Emanuel"]
+[Black "Chigorin, Mikhail"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.d4 d5 2.Nf3 Nf6 3.Bf4 Nbd7 4.Nc3 c6 5.e3 e6 6.Bd3 Bb4 7.O-O h6 8.Qe2 O-O
+9.e4 Bxc3 10.bxc3 dxe4 11.Bxe4 Nxe4 12.Qxe4 Nf6 13.Qd3 Nd5 14.Bd2 Ne7 15.Rfe1 Ng6
+16.Ne5 Nxe5 17.Rxe5 f6 18.Re3 f5 19.Rg3 Qh4 20.Rh3 Qe7 21.Re1 Rf6 22.Bf4 Bd7
+23.Rg3 Be8 24.c4 Qd7 25.Rge3 b6 26.Be5 Rg6 27.f3 Bf7 28.Qa3 b5 29.cxb5 cxb5
+30.Rc3 Rc8 31.Ree3 Rc4 32.Rxc4 bxc4 33.Qb4 Qd8 34.Qxc4 Qa5 35.Rc3 Kh7 36.h3 Be8
+37.a3 Bb5 38.Qb4 Qa6 39.Rc7 Bc6 40.c4 Bxf3 41.g3 Qb6 42.Kf2 Be4 43.Qxb6 axb6
+44.a4 h5 45.h4 Rg4 46.Ke3 Bg2 47.Kd3 Kg8 48.Kc3 Kf8 49.Bf4 Ke8 50.Ra7 g5
+51.Bxg5 Rxg3+ 52.Kb4 Rxg5 53.hxg5 h4 54.Rh7 h3 55.g6  1-0
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "6"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Lasker, Emanuel"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bg5 Be7 7.Bxc6 Bxg5 8.dxe5 dxc6
+9.Nxg5 Qxg5 10.exd6 cxd6 11.Re1+ Be6 12.Qxd6 Rd8 13.Qa3 a6 14.Nc3 Qe7 15.Qxe7+ Kxe7
+16.Ne4 b6 17.Ng5 Rd5 18.Nxe6 fxe6 19.Re2 Rhd8 20.Rae1 R8d6 21.f4 Rd2 22.Kf2 Kf6
+23.Kf3 Rxe2 24.Rxe2 Rd5 25.g4 a5 26.Re3 Rd2 27.Rc3 c5 28.Rb3 Rxh2 29.Rxb6 g6
+30.c3 h5 31.Rb5 hxg4+ 32.Kg3 Rd2 33.a4 c4 34.Rxa5 Rxb2 35.Rc5 Ra2 36.Rxc4 g5
+37.fxg5+ Kxg5 38.Rxg4+ Kf5 39.Kf3 Ra3 40.Rc4 Ke5 41.Ke3 Kd5 42.Kd3 e5 43.Rb4 Ra2
+44.c4+ Kc6 45.Kc3 e4 46.Kb3 Ra1 47.Rb5 e3 48.Re5 Rb1+ 49.Kc3 Ra1 50.Rxe3 Rxa4  1/2-1/2
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "6"]
+[White "Chigorin, Mikhail"]
+[Black "Steinitz, William"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C52"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O d6 7.d4 exd4 8.cxd4 Nf6
+9.Qa4 Bd7 10.d5 Ne5 11.Qxa5 Nxc4 12.Qb4 Nb6 13.a4 a5 14.Qd4 O-O 15.Bg5 h6
+16.Bh4 Bg4 17.Ra3 Nbd7 18.Nbd2 Re8 19.Kh1 Ra6 20.Ng1 Rb6 21.f3 Bh5 22.Nc4 Ra6
+23.Rb1 Qa8 24.Ne2 Qa7 25.Qd2 Bg6 26.Rc1 Nh7 27.Nd4 Nc5 28.Bg3 Nf6 29.Nb5 Qb8
+30.e5 Nfe4 31.fxe4 Nxe4 32.Qd4 Nxg3+ 33.Rxg3 dxe5 34.Nxe5 c5 35.dxc6 Qxe5
+36.Qxe5 Rxe5 37.c7 Bf5 38.c8=Q+ Bxc8 39.Rxc8+ Kh7 40.h3 Rc6 41.Rc3 Rxc8 42.Rxc8 Re4
+43.Nc3 Rb4 44.Kg1 f5 45.Rc5 Rb3 46.Ne2 f4 47.Kf2 b6 48.Rc6 g5 49.Nc3 Rb2+
+50.Kf3 Rd2 51.Ne4 Ra2 52.Nf6+ Kg7 53.Kg4 Kf7 54.Kf5 Ke7 55.Re6+ Kd8 56.Nd5 Kc8
+57.Ke5 h5 58.Rg6 Rxg2 59.Nxf4 Rg3 60.Nd5 Rxh3 61.Kd6 Rh4 62.Rg8+ Kb7 63.Rg7+ Kb8
+64.Nxb6 Rh1 65.Kc6 Rc1+ 66.Kb5 Rc7 67.Rxg5 Rh7 68.Nd5 h4 69.Rg6 h3 70.Kb6 Rb7+
+71.Kc6 Rh7 72.Kb6 Rb7+ 73.Kxa5 Rh7 74.Kb6 Rb7+ 75.Ka6 Ra7+ 76.Kb6 Rb7+ 77.Kc5 Rh7
+78.Rg1 h2 79.Rh1 Rh3 80.Nf6 Rh4 81.Kb5 Ka7 82.Nd7 Rh7 83.Nc5 Rh4 84.Nd3 Rh5+
+85.Kb4 Rh4+ 86.Kb3 Rh3 87.Kc2 Ka6 88.Nf2 Rh4 89.Nd1 Rh3 90.Nb2 Ka5 91.Kd1 Kb4
+92.Ke2 Ka3 93.Nd3 Kxa4 94.Nf2 Rh4 95.Kf3 Kb4 96.Kg3 Rh7 97.Ng4 Kc4 98.Rc1+ Kd4
+99.Nxh2  1/2-1/2
+
+[Event "St Petersburg9596"]
+[Site "St Petersburg"]
+[Date "1895.??.??"]
+[Round "6"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Chigorin, Mikhail"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D07"]
+
+1.d4 d5 2.c4 Nc6 3.Nf3 Bg4 4.e3 e6 5.Nc3 Bb4 6.Qb3 Bxf3 7.gxf3 Nge7 8.Bd2 O-O
+9.f4 Rb8 10.O-O-O dxc4 11.Bxc4 b5 12.Bd3 Bxc3 13.Qxc3 Rb6 14.Kb1 a5 15.Rhg1 Nb4
+16.Be4 Ned5 17.Qc5 Qa8 18.Bxb4 axb4 19.Bxd5 exd5 20.Qxb4 Ra6 21.Qb3 Rb8 22.Rg5 c6
+23.Rdg1 g6 24.f5 b4 25.fxg6 hxg6 26.Qd3 Kf8 27.Rxg6 Rxa2 28.Rg8+ Ke7 29.Rxb8 Qa4
+30.Rb7+ Ke6 31.Kc1 Ra1+ 32.Kd2 Rxg1 33.Qc2 Qxc2+ 34.Kxc2 Rg2 35.Rxb4 Rxh2
+36.Rb7 Rxf2+ 37.Kd3 f5 38.Rc7 Kd6 39.Rf7 c5 40.dxc5+ Kxc5 41.Rc7+ Kd6 42.Rc2 Rf3
+43.Kd4 Rh3 44.Rf2 Ke6 45.b4 Rh4+ 46.Rf4 Rh1 47.Kc5 Rc1+ 48.Kd4 Rb1 49.Kc3 Re1
+50.Kd2 Ra1 51.Kd3 Ra3+ 52.Ke2 Ke5 53.Rd4 Rb3 54.Rf4 Rc3 55.Kd2 Rc8 56.Kd3 Rc1
+57.Kd2 Ra1 58.Ke2 Ra2+ 59.Kd3 Rg2 60.Kc3 Re2 61.Kd3 Ra2 62.Kc3  1/2-1/2

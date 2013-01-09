@@ -1,0 +1,736 @@
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.02.23"]
+[Round "1"]
+[White "Vallejo Pons,F"]
+[Black "Kasparov,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2629"]
+[BlackElo "2838"]
+[ECO "A28"]
+
+1.c4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.e4 Bb4 5.d3 d6 6.h3 O-O 7.Be2 Ne7 8.O-O c6
+9.a3 Bxc3 10.bxc3 Ng6 11.Re1 Re8 12.Bf1 Bd7 13.Qb3 Qc8 14.Rb1 b6 15.Kh2 h6
+16.g3 Qc7 17.Bg2 Be6 18.Nd2 Rad8 19.a4 d5 20.a5 dxc4 21.axb6 axb6 22.dxc4 Nd7
+23.Bf1 Ne7 24.Qc2 Nc8 25.Nb3 c5 26.Be3 Nd6 27.Nd2 Ra8 28.Ra1 f6 29.Ra2 Rxa2
+30.Qxa2 Nb8 31.f4 Nc6 32.f5 Bf7 33.g4 Na5 34.h4 Kf8 35.g5 hxg5 36.hxg5 Ke7
+37.Kg1 Rh8 38.Bf2 Rh5 39.Nf3 Qc6 40.Qc2 Bxc4 41.Bg2 Nf7 42.Qd1 Bb3 43.Nxe5 Bxd1
+44.Nxc6+ Nxc6 45.Rxd1 Nxg5 46.Rb1 Nh3+ 47.Bxh3 Rxh3 48.Rxb6 Kd6 49.Kg2 Rxc3  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.02.23"]
+[Round "1"]
+[White "Ponomariov,R"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2727"]
+[BlackElo "2717"]
+[ECO "C18"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3+ 6.bxc3 Ne7 7.Qg4 O-O 8.Bd3 f5
+9.exf6 Rxf6 10.Bg5 Rf7 11.Qh5 g6 12.Qd1 Nbc6 13.Nf3 Qf8 14.O-O c4 15.Be2 h6
+16.Bc1 Bd7 17.Ne1 g5 18.g3 Nf5 19.Ng2 Qg7 20.f4 Nd6 21.Qe1 b5 22.fxg5 Rxf1+
+23.Bxf1 hxg5 24.Ne3 Rf8 25.Bg2 a5 26.Bd2 Qg6 27.Ng4 Rf5 28.Qe3 Kg7 29.Rb1 Kh7
+30.a4 bxa4 31.Bc1 Rf7 32.Ba3 Qxc2 33.Rc1 Qf5 34.Bh3 Ne4 35.Ne5 Qf2+ 36.Qxf2 Rxf2
+37.Nxd7 Ra2 38.Bc5 Nd2 39.Bg2 a3 40.Nf8+ Kh6 41.Re1 e5 42.dxe5 g4 43.e6 Nf3+
+44.Bxf3 gxf3 45.Kf1  1-0
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.02.23"]
+[Round "1"]
+[White "Shirov,A"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2715"]
+[BlackElo "2757"]
+[ECO "B49"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 a6 7.O-O Nf6 8.Be3 Bb4
+9.Na4 Be7 10.Nxc6 bxc6 11.Nb6 Rb8 12.Nxc8 Qxc8 13.Bd4 O-O 14.Qd3 Qc7 15.b3 a5
+16.Rad1 d5 17.exd5 Nxd5 18.Bf3 Rfd8 19.c4 Nf6 20.Qc3 Bd6 21.g3 c5 22.Bxf6 gxf6
+23.Qxf6 Be7 24.Qh6 Qe5 25.Rde1 Qf6 26.Qh5 Bf8 27.Re4 Rd4 28.Rxd4 Qxd4 29.Re1 Qf6
+30.Re4 Bg7 31.Rf4 Qe7 32.Rh4 h6 33.Rg4 f5 34.Rg6 Kh7 35.g4 Rf8 36.gxf5 Rxf5
+37.Be4 Rxh5 38.Rxe6+ Kh8 39.Rxe7 Re5 40.Rxe5 Bxe5 41.Kg2 Kg7 42.Bb1 Kf6 43.h4 Bf4
+44.Kf3 Ke5 45.Kg4 Bc1 46.f3 Bd2 47.Kh5 Kf6 48.Bc2 Bc1 49.Be4 Bd2 50.Bd5 Bc1
+51.a4 Be3 52.Bg8 Bd2  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.02.24"]
+[Round "2"]
+[White "Ivanchuk,V"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2715"]
+[ECO "D11"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Qc2 g6 5.cxd5 cxd5 6.Nc3 Bg7 7.Bf4 Nc6 8.e3 O-O
+9.Be2 Ne4 10.O-O Bf5 11.Nh4 Nxc3 12.Qxc3 Be4 13.Nf3  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.02.24"]
+[Round "2"]
+[White "Anand,V"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2757"]
+[BlackElo "2629"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Ne7 10.Re1 h6 11.h3 Ng6 12.Bd2 Bd7 13.Ne4 Kc8 14.Ng3 c5 15.Nh5 b5 16.Nh2 Kb7
+17.f4 Nh4 18.Re2 Bc6 19.c3 g6 20.Nf6 Be7 21.Be1 Nf5 22.Ne4 Ng7 23.Ng4 Rad8
+24.Ngf2 h5 25.Bd2 h4 26.Be3 Ne6 27.Nf6 a5 28.N2e4 b4 29.Ng5 Rd3  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.02.24"]
+[Round "2"]
+[White "Adams,Mi"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteElo "2742"]
+[BlackElo "2727"]
+[ECO "C92"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Re8 10.d4 Bb7 11.Nbd2 Bf8 12.d5 Nb8 13.Nf1 Nbd7 14.N3h2 Nc5 15.Bc2 c6
+16.b4 Ncd7 17.dxc6 Bxc6 18.Bg5 h6 19.Bxf6 Nxf6 20.Ng4 Nxg4 21.Qxg4 d5 22.exd5 Qxd5
+23.Bb3 Qd8 24.Qh5 Ra7 25.Rxe5 Rxe5 26.Qxe5 Qg5 27.Qxg5 hxg5 28.Ne3 g6 29.Rd1 Rc7
+30.Kf1 Kg7 31.Ke2 Be7 32.Bd5 Bd7 33.Rd3 Bf6 34.c4 bxc4 35.Bxc4 Bc8 36.a3 Bb2
+37.Kd2 f5 38.Kc2 Bxa3 39.Rxa3 f4 40.Kb3 fxe3 41.fxe3 Re7 42.Ka4 Re5 43.Rd3 Bf5
+44.Rd2 Rxe3 45.Bxa6 Be4 46.Rf2 Kh6 47.Bf1 g4 48.hxg4 Re1 49.Be2 Ra1+ 50.Kb3 Rb1+
+51.Kc3 Rc1+ 52.Kd4 Bb7 53.Bf3 Ba6 54.Rb2 Bb5 55.Be2 Bc6 56.Bf3 Bb5 57.Be2 Bc6
+58.Ba6 Rg1 59.b5 Bxg2 60.b6 Kg5 61.Bc8 Kf4 62.Kc5 Be4 63.Rb4 Ke5 64.b7 Rc1+
+65.Kb5 Bxb7 66.Bxb7 Kf6 67.Rc4 Rb1+ 68.Kc6 Kg5 69.Bc8 Rd1 70.Bd7 Kh4 71.Kc7 Rd2
+72.Kd8 Re2 73.Rc6 g5 74.Bf5 Re3 75.Re6 Rg3 76.Rh6+  1-0
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.02.25"]
+[Round "3"]
+[White "Vallejo Pons,F"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2629"]
+[BlackElo "2717"]
+[ECO "C26"]
+
+1.e4 Nf6 2.Nc3 e5 3.Nf3 Nc6 4.g3 Bc5 5.Bg2 d6 6.d3 a6 7.h3 O-O 8.O-O b5 9.a3 Rb8
+10.Kh1 a5 11.Bg5 h6 12.Bh4 Be6 13.Nd5 Bxd5 14.exd5 Nd4 15.Nxd4 exd4 16.g4 Re8
+17.Re1 Rxe1+ 18.Qxe1 b4 19.axb4 Bxb4 20.Qc1 Rb5 21.c3 Bc5 22.c4 Rb3 23.Rxa5 g5
+24.Bg3 Qb8 25.Bf1 Rxb2 26.Ra8 Qxa8 27.Qxb2 Nd7 28.Bg2 Qa3 29.Qe2 Qc1+ 30.Kh2 Ne5  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.02.25"]
+[Round "3"]
+[White "Kasparov,G"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2838"]
+[BlackElo "2757"]
+[ECO "B49"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be2 a6 7.O-O Nf6 8.Be3 Bb4
+9.Na4 Be7 10.Nxc6 bxc6 11.Nb6 Rb8 12.Nxc8 Qxc8 13.Bd4 O-O 14.e5 Nd5 15.c4 Nf4
+16.Bf3 Qc7 17.Re1 Ng6 18.c5 f6 19.exf6 Bxf6 20.Be4 Nf4 21.Bxf6 Rxf6 22.Qc2 h6
+23.Rad1 Nd5 24.g3 a5 25.a3 Rff8 26.Re2 Qd8 27.Rd4 Rb7 28.Bh7+ Kh8 29.Bd3 Qf6
+30.Ra4 Ra8 31.Qd2 Qd8 32.Bb1 Rb5 33.Rh4 Qe7 34.Rxh6+ Kg8 35.Rh4 Rab8 36.Bh7+ Kf7
+37.Qd3 Qg5 38.Qd4 Rxb2 39.Bg6+ Kg8 40.Bh7+ Kf7 41.Bg6+ Kg8 42.Bh7+  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.02.25"]
+[Round "3"]
+[White "Shirov,A"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2715"]
+[BlackElo "2742"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 Bb7
+9.d3 Re8 10.Nc3 b4 11.Nd5 Na5 12.Nxe7+ Qxe7 13.Ba2 d5 14.Bg5 dxe4 15.dxe4 Rad8
+16.Qe2 h6 17.Bxf6 Qxf6 18.Rad1 Qe7 19.h3 g6 20.Qe3 Kg7 21.Bd5 Bxd5 22.exd5 Nc4
+23.Qb3 Na5 24.Qe3 Nc4 25.Qb3 Na5  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.02.26"]
+[Round "4"]
+[White "Ivanchuk,V"]
+[Black "Kasparov,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2838"]
+[ECO "A04"]
+
+1.Nf3 c5 2.g3 g6 3.Bg2 Bg7 4.O-O Nc6 5.c3 d5 6.d4 cxd4 7.cxd4 e6 8.Nc3 Nge7
+9.b3 O-O 10.Qd2 b6 11.Ba3 Ba6 12.Rac1 Qd7 13.Rfd1 Rfd8 14.g4 Rac8 15.h3 h6
+16.e3 Kh7 17.Rc2 Ng8 18.Rdc1 Qe8 19.Ne1 Nf6 20.f4 Kg8 21.Nd3 Bxd3 22.Qxd3 Bf8
+23.Bxf8 Qxf8 24.Qd2 Nb4 25.Rb2 Kg7 26.a3 Nc6 27.b4 Ne7 28.Rbc2 Ne8 29.Bf1 Nd6
+30.Ba6 Rc6 31.Qd3 h5 32.Qe2 Qh8 33.Kg2 Qh7 34.g5  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.02.26"]
+[Round "4"]
+[White "Adams,Mi"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2742"]
+[BlackElo "2629"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Ne7 10.b3 Bg4 11.Ng5 Ke8 12.Bb2 Nd5 13.h3 Bf5 14.g4 Bd7 15.Ne2 h5 16.c4 Nb4
+17.Rad1 hxg4 18.Nxf7 Kxf7 19.Rxd7+ Ke6 20.Rxc7 Nd3 21.Bd4 Rxh3 22.Be3 g5
+23.Rxb7 Nxe5 24.Kg2  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.02.26"]
+[Round "4"]
+[White "Ponomariov,R"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2715"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Nc3 e5 4.Bc4 d6 5.d3 Be7 6.Nd2 Bg5 7.h4 Bxd2+ 8.Bxd2 Nf6
+9.Bg5 Be6 10.Nd5 Bxd5 11.Bxd5 h6 12.Bxf6 Qxf6 13.Qd2 Ne7 14.Bc4 O-O 15.Kf1 Rad8
+16.Re1 d5 17.exd5 Nxd5 18.Qe2 Rfe8 19.Qe4 Nb6 20.Bb3 Rd4 21.Qxb7 c4 22.dxc4 e4
+23.Kg1 Rd7 24.Qa6 e3 25.fxe3 Rxe3 26.Rxe3 Rd1+ 27.Kh2 Qxh4+  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.02.28"]
+[Round "5"]
+[White "Kasparov,G"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteElo "2838"]
+[BlackElo "2742"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Nb4
+9.Be2 O-O 10.a3 Nc6 11.cxd5 Qxd5 12.Nc3 Nxc3 13.bxc3 Bf5 14.Re1 Rfe8 15.Bf4 Rac8
+16.c4 Qe4 17.Be3 Bf6 18.Ra2 b6 19.h3 Na5 20.g4 Bg6 21.g5 Be7 22.Ne5 Bd6 23.Nxg6 hxg6
+24.c5 Bf8 25.Bg4 Rcd8 26.Rae2 Qd5 27.Bf4 Rxe2 28.Qxe2 c6 29.Bc7 Ra8 30.Qe5 Qxe5
+31.Rxe5 Nc4 32.d5 Nxe5 33.Bxe5 cxd5 34.c6 f5 35.gxf6 gxf6 36.Be6+ Kg7 37.Bg3 Bxa3
+38.Bxd5 Rc8 39.c7 Bc5 40.Bb7 Rxc7 41.Bxc7 a5 42.Bc6 g5 43.Kf1 Kg6 44.f3 Kh5
+45.Be8+ Kh6 46.Ke2 f5 47.Bd8  1-0
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.02.28"]
+[Round "5"]
+[White "Anand,V"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2757"]
+[BlackElo "2717"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Bxf6 gxf6 10.Nd5 f5 11.c3 Bg7 12.Bd3 Be6 13.Qh5 O-O 14.exf5 Bxd5 15.f6 h6
+16.fxg7 Kxg7 17.Nc2 Be6 18.Ne3 d5 19.h4 Qf6 20.Bf5 Bxf5 21.Nxf5+ Kh7 22.Rd1 Rad8
+23.Rh3 Qg6 24.Qxg6+ fxg6 25.Ne3 d4 26.Nc2 Rf4 27.Rd2 h5 28.b3 Rd5 29.Kd1 Kg7
+30.Ke1 a5 31.Kd1 Kf6 32.Ke1 Rc5 33.cxd4 exd4 34.Kd1 Rd5 35.Ne1 Ne5 36.Ke2 Re4+
+37.Kd1 Rf4 38.Ke2 Re4+ 39.Kd1 a4 40.Nd3 axb3 41.axb3 Nxd3 42.Rdxd3 Ke5 43.Rdg3 Rg4
+44.Kd2 Rc5 45.f3 Rxg3 46.Rxg3 Kf6 47.Kd3 Rc3+ 48.Kxd4 Rxb3 49.Rg5 Rb4+  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.02.28"]
+[Round "5"]
+[White "Vallejo Pons,F"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2629"]
+[BlackElo "2727"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.a3 O-O
+9.b4 Be6 10.Rb1 f6 11.d3 Nd4 12.Nd2 c6 13.e3 Nb5 14.Nxb5 cxb5 15.Nb3 Na4
+16.Bb2 Bd5 17.e4 Bf7 18.d4 Rc8 19.d5 Qd7 20.Qe2 Bd8 21.Ba1 Bb6 22.Rbc1 a6
+23.h4 Rxc1 24.Rxc1 Rc8 25.Rc2 Rc7 26.Bf3 Qc8 27.Rxc7 Qxc7 28.Qd3 Qc4 29.Be2 Bg6
+30.Qxc4 bxc4 31.Bxc4 Bxe4 32.Nd2 Bf5 33.d6+ Kf8 34.Bd5 Bc8 35.d7 Bxd7 36.Bxb7 Bb5
+37.Be4 h6 38.Bc2 Ke7 39.Kg2 Bd4 40.Nb3 Bxa1 41.Nxa1 Kd6 42.Bb3 Nc3 43.Nc2 Bc6+
+44.Kf1 Bd5 45.Bxd5 Kxd5 46.Ne3+ Ke4 47.h5 f5 48.Nc4 f4 49.Nd6+ Kf3 50.gxf4 exf4
+51.Nf5 Nb5 52.a4 Nc3 53.Nxg7 Nxa4 54.Nf5 Kg4 55.Nxh6+ Kxh5 56.Nf5 Nc3 57.Nd4 Kg4
+58.Kg2 Nd5 59.f3+ Kg5 60.Nc6 Kf6 61.Kh3 Kf5 62.Kh4 Ne3 63.Nb8 Nc2 64.Nxa6 Nd4
+65.Kh3 Nxf3  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.01"]
+[Round "6"]
+[White "Adams,Mi"]
+[Black "Anand,V"]
+[Result "1-0"]
+[WhiteElo "2742"]
+[BlackElo "2757"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.c3 c5 8.Be3 Qc7
+9.Ne5 a6 10.Qa4+ Nd7 11.O-O-O cxd4 12.Nxd7 Qxd7 13.Qc2 Bc5 14.Bxd4 Bxd4 15.Rxd4 Qc7
+16.Bd3 Bd7 17.g3 h6 18.Rd1 O-O-O 19.Rc4 Bc6 20.Be4 Rxd1+ 21.Qxd1 Rd8 22.Qf3 Rd6
+23.h4 Kb8 24.Bxc6 Rxc6 25.Rxc6 bxc6 26.h5 Kb7 27.Kc2 f5 28.Qd3 Qf7 29.Qe2 f4
+30.g4 g6 31.Qe5 g5 32.Qh8 e5 33.Qxh6 e4 34.Qg6 Qc4 35.Qg7+ Kc8 36.Qh8+ Kb7
+37.Qg7+ Kc8 38.Qf8+ Kc7 39.Qe7+ Kc8 40.Qe8+ Kc7 41.Qe7+ Kc8 42.h6 c5 43.Qe8+ Kc7
+44.h7  1-0
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.01"]
+[Round "6"]
+[White "Shirov,A"]
+[Black "Vallejo Pons,F"]
+[Result "1/2-1/2"]
+[WhiteElo "2715"]
+[BlackElo "2629"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4 5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Ne7 10.h3 Ng6 11.Bg5+ Ke8 12.Rad1 Be7 13.Bxe7 Kxe7 14.Nd4 Nf4 15.Ne4 Rd8
+16.Rfe1 Rd5 17.c4 Rd8 18.Kh2 a5 19.g4 a4 20.Kg3 Ne6 21.Nf5+ Kf8 22.f4 b6
+23.Rxd8+ Nxd8 24.Ne3 Ne6 25.f5 Nd4 26.Kf4 Bb7 27.c5 a3 28.b3 Ba6 29.cxb6 cxb6
+30.Nd6 Rd8 31.Ndc4 Bxc4 32.Nxc4 b5 33.Nd6 f6  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.01"]
+[Round "6"]
+[White "Ponomariov,R"]
+[Black "Kasparov,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2838"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f3 e6 7.Be3 Nc6 8.Qd2 Be7
+9.g4 O-O 10.O-O-O Nxd4 11.Bxd4 b5 12.a3 Nd7 13.h4 Rb8 14.f4 Bb7 15.g5 Nc5
+16.Bg2 a5 17.Bxc5 dxc5 18.Qxd8 Rfxd8 19.Nxb5 Bxe4 20.Bxe4 Rxb5 21.Rxd8+ Bxd8
+22.f5 exf5 23.Bxf5 g6 24.Re1 Kg7 25.Bd3 Rb7 26.Re5 Be7 27.c3 h6 28.Kc2 hxg5
+29.hxg5 Kf8 30.Rd5 Rb8 31.Rd7 Bxg5 32.Bc4 Be7 33.Ra7 g5 34.Rxa5 g4 35.Bd5 f5
+36.Be6 g3 37.Bd5 Rd8 38.Bf3 Kf7 39.b4 Rh8 40.Kb3 Rh2 41.Bd5+ Kf6 42.Ra8 Rd2
+43.Bf3 Kf7 44.bxc5 Bxc5  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.02"]
+[Round "7"]
+[White "Kasparov,G"]
+[Black "Shirov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2838"]
+[BlackElo "2715"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.c3 Nf6 6.Re1 O-O 7.d4 cxd4 8.cxd4 d5
+9.e5 Ne4 10.Nc3 Bf5 11.Nh4 Be6 12.Bxc6 bxc6 13.Na4 g5 14.Nf3 f6 15.Be3 g4
+16.Nd2 fxe5 17.Nxe4 dxe4 18.Nc5 Bf5 19.dxe5 Qxd1 20.Raxd1 Bxe5 21.Nd7 Bxd7
+22.Rxd7 Bxb2 23.Rxe7 Rfe8 24.Rc7 Rec8 25.Re7 Re8 26.Rc7  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.02"]
+[Round "7"]
+[White "Anand,V"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2757"]
+[BlackElo "2727"]
+[ECO "B32"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.c4 Be7 7.Be2 a6 8.N5c3 Bg5
+9.Nd2 Nf6 10.O-O O-O 11.b3 Nd4 12.Nf3 Bxc1 13.Rxc1 Nxf3+ 14.Bxf3 Be6 15.Qd2 Qc7
+16.Rfd1 Rfd8 17.h3 h6 18.Qe2 Rac8 19.Bg4 Qa5 20.Nd5  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.02"]
+[Round "7"]
+[White "Ivanchuk,V"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteElo "2717"]
+[BlackElo "2742"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 Bb7
+9.d3 Re8 10.Na3 Bxa3 11.bxa3 d5 12.exd5 Nxd5 13.Bb2 Nf4 14.Bc1 Nxg2 15.Ng5 Nxe1
+16.Qh5 Qd7 17.Bxf7+ Kf8 18.Be3 Nd4 19.Rxe1 Nf3+ 20.Kf1 Nxg5 21.Bc5+ Re7 22.Rxe5 Nxf7
+23.Rxe7 Qxe7 24.Bxe7+ Kxe7 25.Qc5+ Kd7 26.Qd4+ Ke7 27.Qxg7 bxa4 28.Qc3 Kd7
+29.Qd4+ Nd6 30.Qxa4+ Ke6 31.Qg4+ Nf5 32.Qc4+ Bd5 33.Qxc7 h5 34.c4 Bh1 35.f4 Rf8
+36.Qb6+ Kf7 37.Qa7+ Ne7 38.Qxa6 Rb8 39.d4 Rb1+ 40.Ke2 Rb2+ 41.Kd3 Rb3+ 42.Kd2 Rh3
+43.d5 Rxh2+ 44.Kd3 Nxd5 45.cxd5 Bxd5 46.f5 Ra2 47.Qa7+ Kf6 48.Qd4+ Kg5 49.Qxd5 Rxa3+
+50.Ke4  1-0
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.03"]
+[Round "8"]
+[White "Ivanchuk,V"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2727"]
+[ECO "D23"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 dxc4 4.Qa4+ Nc6 5.Nc3 Nd5 6.Qxc4 Nb6 7.Qb3 e5 8.dxe5 Be6
+9.Qc2 Nd4 10.Qd3 Bc5 11.e3 Nxf3+ 12.gxf3 Qxd3 13.Bxd3 O-O-O 14.Be2 Bb4 15.Bd2 Na4
+16.a3 Bxc3 17.Bxc3 Nxc3 18.bxc3 Rd5 19.f4 Rc5 20.Rc1  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.03"]
+[Round "8"]
+[White "Kasparov,G"]
+[Black "Vallejo Pons,F"]
+[Result "1-0"]
+[WhiteElo "2838"]
+[BlackElo "2629"]
+[ECO "B41"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Qc7 7.a3 b6 8.Be3 Bb7
+9.f3 Nc6 10.Be2 Rb8 11.b4 Be7 12.O-O O-O 13.Rc1 Ne5 14.f4 Ng6 15.Bd3 Ba8
+16.Qe2 Kh8 17.e5 Ng8 18.Qh5 a5 19.Ndb5 Qc6 20.Rc2 axb4 21.axb4 Bxb4 22.Ne4 f5
+23.Ng5 Nh6 24.Kh1 Bc5 25.Bc1 Qc8 26.h3 Kg8 27.Kh2 Ne7 28.Nd6 Bxd6 29.exd6 Nc6
+30.Bb2 Nb4 31.Rd2 b5 32.Rc1 Qe8 33.Qe2 Nxd3 34.Rxd3 Nf7 35.Rg3 Nxg5 36.Rxg5 Rf7
+37.Qe5 Qf8 38.cxb5 h6 39.Rg3 Kh7 40.Bd4 Bd5 41.b6 Rf6 42.Rcc3 Rf7 43.Rc7 Be4
+44.Rb3 Bd5 45.Rb5 Bb7 46.Ra5 Qd8 47.Ra7 Be4 48.Qxe6 Qh4 49.Qxf7 Qxf4+ 50.Kg1  1-0
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.03"]
+[Round "8"]
+[White "Anand,V"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2757"]
+[BlackElo "2715"]
+[ECO "B32"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 6.N1c3 a6 7.Na3 b5 8.Nd5 Nf6
+9.c4 b4 10.Nxf6+ Qxf6 11.Nc2 Qg6 12.Qd5 Bb7 13.Nxb4 Rc8 14.Be3 Be7 15.h4 O-O
+16.h5 Qg4 17.f3 Qg3+ 18.Kd1 Bg5 19.Nxc6 Bxe3 20.Ne7+ Kh8 21.Qd3 Bg5 22.Nxc8 Rxc8
+23.h6 gxh6 24.Kc2 d5 25.exd5 Bxd5 26.Qxd5 Rd8 27.Qc5 Rd2+ 28.Kb3 Kg7 29.a3 e4
+30.Rh3 Qf4 31.fxe4  1-0
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.04"]
+[Round "9"]
+[White "Vallejo Pons,F"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2629"]
+[BlackElo "2757"]
+[ECO "A29"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 Nc6 4.g3 Bb4 5.Nd5 Bc5 6.Bg2 d6 7.O-O O-O 8.e3 a6
+9.b3 Ba7 10.Nxf6+ Qxf6 11.Bb2 Bg4 12.h3 Bh5 13.d3 Qe7 14.Qd2 f5 15.Rae1 Rae8
+16.Bc3 Kh8 17.Nh4 Qg5 18.Kh2 f4 19.exf4 exf4 20.Rxe8 Bxe8 21.Nf3 fxg3+  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.04"]
+[Round "9"]
+[White "Shirov,A"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteElo "2715"]
+[BlackElo "2717"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.a4 Bb7
+9.d3 Re8 10.Nbd2 Bf8 11.c3 Na5 12.Ba2 c5 13.d4 d6 14.b4 exd4 15.bxa5 dxc3
+16.Nf1 Nxe4 17.axb5 axb5 18.a6 Bc6 19.Rxe4 Bxe4 20.Bxf7+ Kxf7 21.Ng5+ Kg8
+22.Nxe4 Qc8 23.Nxc3 Rxa6 24.Rb1 b4 25.Nd5 Ra7 26.Rb3 Ra1 27.h3 Re5 28.Nf4 Qe8
+29.Rf3 c4 30.Kh2 b3 31.Qd2 d5 32.Ne3 Bd6 33.g3 Qc6 34.Ng4 d4 35.Qxd4 Re4
+36.Qxa1  1-0
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.04"]
+[Round "9"]
+[White "Ponomariov,R"]
+[Black "Adams,Mi"]
+[Result "1-0"]
+[WhiteElo "2727"]
+[BlackElo "2742"]
+[ECO "C89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Re4 g5
+16.Qe2 Nf6 17.Nd2 Bf5 18.f3 c5 19.Qf2 c4 20.Bc2 h6 21.b3 cxb3 22.axb3 Rfc8
+23.Bb2 Bb4 24.Re5 Bxc2 25.cxb4 Bg6 26.Rc5 Re8 27.Nf1 Rad8 28.d5 Nd7 29.Ne3 h5
+30.f4 h4 31.f5 hxg3 32.hxg3 Bh5 33.d6 Re4 34.Rac1 Nxc5 35.bxc5 Kh7 36.Bf6 Rg8
+37.d7 Rh4 38.Qg2 Bf3 39.Qxh3 Rxh3 40.Kf2 g4 41.Nf1 Rh5 42.d8=Q Rxd8 43.Bxd8 Rxf5
+44.Ne3 Rh5 45.Bh4  1-0
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.06"]
+[Round "10"]
+[White "Adams,Mi"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2742"]
+[BlackElo "2715"]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O Nge7 5.c3 a6 6.Ba4 b5 7.Bc2 Bb7 8.Qe2 Ng6
+9.d4 cxd4 10.cxd4 Nh4 11.Nbd2 Rc8 12.Bb1 Bd6 13.a4 bxa4 14.Rxa4 Nxf3+ 15.Nxf3 Nb4
+16.Bd2 a5 17.Rd1 O-O 18.Bc3 Qb6 19.Ra1 Bf4 20.Ne5 Qc7 21.Qg4 Bxe5 22.dxe5 Bc6
+23.h4 Kh8 24.Ra3 Rg8 25.h5 h6 26.Qf4 Rcf8 27.Bd4 Bb5 28.Rc3 Nc6 29.Bc5 Be2
+30.Rd2 Bxh5 31.Rh3  1-0
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.06"]
+[Round "10"]
+[White "Anand,V"]
+[Black "Kasparov,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2757"]
+[BlackElo "2838"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e5 7.Nb3 Be6 8.f3 Nbd7
+9.g4 b5 10.g5 b4 11.Ne2 Nh5 12.Qd2 a5 13.Ng3 Nxg3 14.hxg3 a4 15.Nc1 Qa5 16.Nd3 d5
+17.exd5 Qxd5 18.Bg2 Qb5 19.Bh3 Bxh3 20.Rxh3 Be7 21.Rh4 f5 22.O-O-O b3 23.a3 Rc8
+24.c3 Nf8 25.Rh2 Ng6 26.Nb4 Rd8 27.Nd5 Kf7 28.Qd3 Qxd3 29.Rxd3 f4 30.gxf4 exf4
+31.Nxf4 Nxf4 32.Rxd8 Rxd8 33.Bxf4 Rd3 34.Rh3 Kg6 35.Bd2 Bd8 36.Rg3 Be7 37.Rh3 Bd8
+38.Rg3 Kf5 39.Kd1 Bc7  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.06"]
+[Round "10"]
+[White "Ivanchuk,V"]
+[Black "Vallejo Pons,F"]
+[Result "1-0"]
+[WhiteElo "2717"]
+[BlackElo "2629"]
+[ECO "B42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nf6 6.O-O d6 7.c4 Be7 8.Nc3 O-O
+9.f4 Re8 10.Kh1 Nbd7 11.Qe2 g6 12.Bd2 Bf8 13.Rad1 Nh5 14.Nf3 b6 15.e5 Bb7
+16.Ng5 Ng7 17.Be4 Qc7 18.Qf3 Bxe4 19.Ncxe4 h6 20.exd6 Qd8 21.Qh3 hxg5 22.fxg5 e5
+23.Qxd7  1-0
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.07"]
+[Round "11"]
+[White "Kasparov,G"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2838"]
+[BlackElo "2717"]
+[ECO "B41"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Qc7 7.a3 Be7 8.Be3 O-O
+9.Rc1 Nc6 10.Be2 Nxd4 11.Qxd4 d6 12.O-O Rb8 13.Qb6 Qxb6 14.Bxb6 Bd7 15.Rfd1 Rfc8
+16.b4 Be8 17.Ba7 Ra8 18.Be3 Nd7 19.Na4 Rc6 20.f3 Kf8 21.Kf2 h6 22.g3 Rc7
+23.Bf4 Rc6 24.Be3 Rc7 25.Bf4 Rc6 26.h4 Ra7 27.Nc3 Ra8 28.Na4 Ra7 29.Nc3 Ra8  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.07"]
+[Round "11"]
+[White "Vallejo Pons,F"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2629"]
+[BlackElo "2742"]
+[ECO "A05"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 c5 4.g3 b6 5.Bg2 Bb7 6.O-O Be7 7.Re1 Ne4 8.Nxe4 Bxe4
+9.d3 Bb7 10.e4 O-O 11.d4 cxd4 12.Nxd4 d6 13.b3 a6 14.Be3 Nd7 15.f4 Re8 16.Bf2 Qc7
+17.Rc1 Bf6 18.Qd2 Rad8 19.g4 Nc5 20.b4 g6 21.Nc2 Nd7 22.g5 Bg7 23.Ne3 h5
+24.gxh6 Bxh6 25.Ng4 Bf8 26.Bh4 Rc8 27.Bg5 a5 28.a3 axb4 29.axb4 Ba6 30.f5 Bxc4
+31.f6 Ne5 32.Nh6+ Bxh6 33.Bxh6 b5 34.Bg7 Qb6+ 35.Kh1 Ng4 36.h3 Qf2 37.Qg5 Be2
+38.hxg4 Bf3 39.Bxf3 Qxf3+ 40.Kh2 Qf2+ 41.Kh1 Qf3+  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.07"]
+[Round "11"]
+[White "Shirov,A"]
+[Black "Ponomariov,R"]
+[Result "1/2-1/2"]
+[WhiteElo "2715"]
+[BlackElo "2727"]
+[ECO "D20"]
+
+1.d4 d5 2.c4 dxc4 3.e4 Nf6 4.e5 Nd5 5.Bxc4 Nb6 6.Bd3 Nc6 7.Be3 Nb4 8.Be4 f5
+9.exf6 exf6 10.Nc3 f5 11.Bb1 N4d5 12.Nf3 Bd6 13.Bg5 Be7 14.Bd2 O-O 15.O-O Nxc3
+16.bxc3 Be6 17.Re1 Bd5 18.Bd3 Nc4 19.Bxc4 Bxc4 20.Ne5 Bf7 21.Nxf7 Rxf7 22.Qb3 c5
+23.d5 b5 24.Re6 Qd7 25.Rae1 c4 26.Qd1 Rd8 27.Qe2 Qxd5 28.Rxe7 Rxe7 29.Qxe7 Qxd2
+30.Qe6+ Kf8 31.Qxf5+ Kg8 32.Qe6+ Kf8 33.Qe7+ Kg8 34.Qe6+ Kf8 35.h4 Qd7 36.Qa6 Qd2
+37.Qe6 Qd7 38.Qe5 Re8 39.Qc5+ Kg8 40.Rxe8+ Qxe8 41.Qd5+ Kh8 42.Kf1 h6 43.f3 a5
+44.Kf2 Qg6 45.Qa8+ Kh7 46.Qxa5 Qc2+ 47.Kg3 Qg6+ 48.Kf2  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.08"]
+[Round "12"]
+[White "Ivanchuk,V"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2717"]
+[BlackElo "2757"]
+[ECO "E06"]
+
+1.d4 d5 2.Nf3 e6 3.g3 Nf6 4.Bg2 Be7 5.c4 O-O 6.Qc2 c5 7.dxc5 Qa5+ 8.Nc3 dxc4
+9.O-O Nc6 10.Bg5 Qxc5 11.Bxf6 Bxf6 12.Ne4 Qe7 13.Rfd1 b5 14.a4 Ba6 15.Nxf6+ Qxf6
+16.Rd6 Rac8 17.Nd2 Nd4 18.Qd1 Rcd8 19.Ne4 Qe5 20.f4 Qxd6 21.Nxd6 Rxd6 22.e3 Nf5
+23.Qe1  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.08"]
+[Round "12"]
+[White "Adams,Mi"]
+[Black "Kasparov,G"]
+[Result "1/2-1/2"]
+[WhiteElo "2742"]
+[BlackElo "2838"]
+[ECO "B90"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.Qf3 Nbd7 8.Be2 h5
+9.Bg5 Qa5 10.Bd2 Qb6 11.Nb3 Qc7 12.a4 b6 13.Bg5 Bb7 14.Rd1 Be7 15.Qe3 Nc5
+16.Nd2 Rd8 17.O-O Ng4 18.Bxg4 hxg4 19.Bxe7 d5 20.Qg3 Qxg3 21.fxg3 Kxe7 22.exd5 exd5
+23.Rde1+ Kf8 24.b4 Ne4 25.Ncxe4 dxe4 26.Nc4 Rh5 27.Nxb6 Rd6 28.Nc4 Rd4 29.Ne3 Rxb4
+30.Rd1 Re5 31.Rd7 Re7 32.Rd8+ Re8 33.Rd7 Re7 34.Rd8+  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.08"]
+[Round "12"]
+[White "Ponomariov,R"]
+[Black "Vallejo Pons,F"]
+[Result "1-0"]
+[WhiteElo "2727"]
+[BlackElo "2629"]
+[ECO "B43"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 b5 6.Bd3 Bb7 7.O-O Nc6 8.Nxc6 Bxc6
+9.Qe2 Ne7 10.Bd2 Ng6 11.a4 b4 12.Nd5 a5 13.c3 b3 14.g3 Bd6 15.Ne3 O-O 16.Nc4 Bc5
+17.Be3 Qe7 18.Nd2 Ne5 19.Bxc5 Qxc5 20.Nxb3 Qd6 21.Bb5 f5 22.f4 Ng4 23.e5 Qd5
+24.Bxc6 dxc6 25.Nd4 c5 26.Nb5 Rad8 27.h3 Nh6 28.Rfd1 Qb3 29.Rd6  1-0
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.09"]
+[Round "13"]
+[White "Kasparov,G"]
+[Black "Ponomariov,R"]
+[Result "1-0"]
+[WhiteElo "2838"]
+[BlackElo "2727"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.c3 c5 8.Ne5 Nd7
+9.Bb5 Bd6 10.Qg4 Kf8 11.O-O Nxe5 12.dxe5 Bxe5 13.Bg5 Bf6 14.Rad1 Qc7 15.Qh4 Bxg5
+16.Qxg5 f6 17.Qh5 g6 18.Qh6+ Kf7 19.Rd3 a6 20.Rh3 Qe7 21.Bd3 f5 22.g4 Qf6
+23.Rd1 b5 24.Be2 e5 25.Rhd3 Ra7 26.Rd6 Qg7 27.Qe3 Rc7 28.a4 e4 29.axb5 axb5
+30.Bxb5 Qe5 31.Qg5 Qe7 32.Qh6 Be6 33.Qf4 Bc8 34.Qh6 Be6 35.gxf5 gxf5 36.Be2 Qf6
+37.Bh5+ Ke7 38.Rxe6+  1-0
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.09"]
+[Round "13"]
+[White "Anand,V"]
+[Black "Adams,Mi"]
+[Result "1/2-1/2"]
+[WhiteElo "2757"]
+[BlackElo "2742"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Nc6 7.O-O Be7 8.c4 Nb4
+9.Be2 O-O 10.Nc3 Bf5 11.a3 Nxc3 12.bxc3 Nc6 13.cxd5 Qxd5 14.Re1 Rfe8 15.Bf4 Rac8
+16.c4 Qe4 17.Be3 Bf6 18.Ra2 b6 19.h3 Na5 20.g4 Bg6 21.g5 Be7 22.Ne5 Bd6 23.Nxg6 hxg6
+24.c5 Bf8 25.Bg4 Rcd8 26.Rae2 Qc6 27.cxb6  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.09"]
+[Round "13"]
+[White "Vallejo Pons,F"]
+[Black "Shirov,A"]
+[Result "1-0"]
+[WhiteElo "2629"]
+[BlackElo "2715"]
+[ECO "B50"]
+
+1.e4 c5 2.Nf3 d6 3.Bc4 Nf6 4.d3 e6 5.Bb3 Be7 6.O-O O-O 7.c3 Nc6 8.Re1 b5
+9.Nbd2 d5 10.e5 Nd7 11.d4 Ba6 12.Nf1 b4 13.Ba4 Rc8 14.Bxc6 Rxc6 15.cxb4 Bxf1
+16.Rxf1 cxb4 17.Be3 Qa5 18.g3 Rfc8 19.Ne1 Qb5 20.h4 a5 21.b3 a4 22.Nd3 Rc3
+23.Nf4 Nf8 24.Qg4 Qd7 25.h5 axb3 26.axb3 Rxb3 27.h6 g6 28.Nh3 Rbc3 29.Bg5 b3
+30.Rfb1 Rb8 31.Kg2 Rc7 32.Rb2 Bxg5 33.Qxg5 Qe7 34.Qe3 Qb4 35.Qf4 Qe7 36.Qf3 Rcb7
+37.Rab1 Nd7 38.Rxb3 Rxb3 39.Rxb3 Qf8 40.Rxb8 Nxb8 41.Ng5 Nd7 42.Qf4 Qe7 43.Qc1 Qd8
+44.Nf3 Kf8 45.Ng5 Kg8 46.Nf3 Kf8 47.Kg1 Qb8 48.Qa3+ Ke8 49.Ng5 Nf8 50.Qa4+ Ke7
+51.Kg2 Qb7 52.Qa3+ Ke8 53.Qf3 Qe7 54.Qf6  1-0
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.10"]
+[Round "14"]
+[White "Shirov,A"]
+[Black "Kasparov,G"]
+[Result "0-1"]
+[WhiteElo "2715"]
+[BlackElo "2838"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 b5
+9.Bxf6 gxf6 10.Nd5 f5 11.Bxb5 axb5 12.Nxb5 Ra4 13.b4 Qh4 14.O-O Rg8 15.f4 Kd8
+16.c3 Ra6 17.a4 fxe4 18.f5 Bb7 19.Ra2 e3 20.Nxe3 Qe4 21.Re1 Nxb4 22.cxb4 Bh6
+23.Kh1 Bxe3 24.Qe2 Rc6 25.a5 Qxb4 26.Nxd6 Rxd6 27.Qxe3 Qd4 28.Qc1 Qd5  0-1
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.10"]
+[Round "14"]
+[White "Ponomariov,R"]
+[Black "Anand,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2727"]
+[BlackElo "2757"]
+[ECO "C89"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5
+9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Re4 g5
+16.Qe2 f5 17.Bxd5+ cxd5 18.Re6 f4 19.Rxd6 Bg4 20.Qf1 Qxf1+ 21.Kxf1 Rae8 22.Bd2 Bh3+
+23.Kg1 fxg3 24.hxg3 Re2 25.Be3 Rxe3 26.fxe3 Rf1+ 27.Kh2 g4 28.Rxd5  1/2-1/2
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2002.03.10"]
+[Round "14"]
+[White "Adams,Mi"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteElo "2742"]
+[BlackElo "2717"]
+[ECO "B42"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nf6 6.O-O d6 7.c4 b6 8.Nc3 Bb7
+9.f4 Be7 10.f5 Nc6 11.Be3 Nxd4 12.Bxd4 O-O 13.fxe6 fxe6 14.Qe2 Kh8 15.Rad1 Nd7
+16.Rxf8+ Qxf8 17.Na4 Bf6 18.Bxf6 Qxf6 19.Qe3 Rd8 20.b4 a5 21.Nxb6 axb4 22.Rf1 Qh6
+23.Qxh6 gxh6 24.Nxd7 Rxd7 25.Rb1 Ba6 26.Rxb4 d5 27.Ra4 Bxc4 28.Bxc4 dxc4
+29.Rxc4 Rd1+ 30.Kf2 Rd2+ 31.Kg3 Rxa2 32.Rc6 Ra3+ 33.Kh4 Ra2 34.Kh3 Ra3+ 35.g3 Ra2
+36.Rxe6 h5 37.Re7 Re2 38.e5 h6 39.Re8+ Kg7 40.Re7+ Kg6 41.e6 Kf6 42.Re8 Kg6
+43.e7 Kg7 44.g4 hxg4+ 45.Kxg4 Kf7 46.Rh8  1/2-1/2

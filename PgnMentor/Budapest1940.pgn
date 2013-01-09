@@ -1,0 +1,287 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1940.??.??"]
+[Round "1"]
+[White "Balla, Zoltan"]
+[Black "Barcza, Gedeon"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 Na5
+9.Bc2 c5 10.d4 Qc7 11.h3 O-O 12.Nbd2 cxd4 13.cxd4 Nc6 14.d5 Nb4 15.Bb1 a5
+16.Nf1 Bd7 17.Bd2 Na6 18.Ng3 Rfb8 19.Bd3 Nc5 20.Rc1 Qb7 21.Bb1 b4 22.Be3 Na4
+23.Qb3 Bd8 24.Nd2 Bb6 25.Nc4 Ne8 26.Nf5 Bxe3 27.Qxe3 Bxf5 28.exf5 Nb6 29.Nxb6 Qxb6
+30.Rc6 Qxe3 31.fxe3 Rb5 32.e4 Rc5 33.Rc1 Rxc1+ 34.Rxc1 Ra7 35.Rc8 Kf8 36.Bd3 Rc7
+37.Rxc7 Nxc7 38.Kf2 Ke7 39.Ke3 Kf6 40.Be2 Na8 41.a3 bxa3 42.bxa3 Nb6 43.Bb5 g6
+44.fxg6 hxg6 45.h4 g5 46.g3 Kg6 47.Be2 gxh4 48.gxh4 f5 49.Kf3 f4 50.Kg4 Nd7
+51.h5+ Kf6 52.Bb5 Nc5 53.Kf3 Kg5 54.Be8 Kh6 55.Bg6 Nd7 56.Be8 Nf6 57.Bb5 Kxh5
+58.Ba4 Nh7 59.Bc2 Ng5+ 60.Kf2 Kg4 61.Bd3 Nh3+ 62.Ke2 Kg3  0-1
+
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1940.??.??"]
+[Round "1"]
+[White "Rethy, Pal"]
+[Black "Euwe, Max"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A06"]
+
+1.Nf3 d5 2.b3 Nf6 3.Bb2 g6 4.e3 Bg7 5.c4 O-O 6.cxd5 Nxd5 7.Bxg7 Kxg7 8.Qc2 Qd6
+9.Qb2+ f6 10.d4 c5 11.Nc3 cxd4 12.Nxd5 Qxd5 13.Qxd4 Qh5 14.Be2 Nc6 15.Qb2 Qa5+
+16.Qd2 Qxd2+ 17.Nxd2 Nb4 18.O-O Rd8 19.Rfd1 Be6 20.a3 Nd5 21.Rac1 Rac8 22.Ne4 Bf5
+23.Rxc8 Rxc8 24.Rxd5 Bxe4 25.Rd7 Rc1+ 26.Rd1 Rc3 27.Bc4 Bc6 28.h3 a5 29.Bd5 Be8
+30.a4 b6 31.Be6 Bf7 32.Bxf7 Kxf7 33.Rb1 Ke6 34.Kf1 Kd6 35.b4 Ra3 36.Rd1+ Kc6
+37.bxa5 bxa5 38.Rd4 e5 39.Rh4 h5 40.Ke2 Kd5 41.g3 Ra2+ 42.Ke1 Kc5 43.f3 f5
+44.Kd1 e4 45.Rf4 Kc4 46.fxe4 Kd3 47.Kc1 fxe4 48.Rf6 Kxe3 49.Rxg6 Rxa4 50.Rg5 Kf3
+51.Rxh5 Kxg3 52.Rf5 e3 53.Kd1 Ra2 54.h4 e2+ 55.Ke1 Kxh4 56.Rf8 Kg5 57.Rf7 a4
+58.Rf8 a3 59.Rg8+ Kf6 60.Rf8+ Ke7 61.Ra8 Ra1+ 62.Kxe2 a2  0-1
+
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1940.??.??"]
+[Round "1"]
+[White "Vidmar, Milan Sr"]
+[Black "Szabo, Laszlo"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E19"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Qc2 Nxc3
+9.Qxc3 d6 10.Qc2 f5 11.Ne1 Qc8 12.e4 Nd7 13.exf5 exf5 14.Qe2 Bxg2 15.Nxg2 Bf6
+16.Be3 Qb7 17.Nf4 Rae8 18.Qc2 Re4 19.Rad1 g6 20.b3 Rfe8 21.Nd5 Bg7 22.Nc3 R4e7
+23.Bg5 Re6 24.d5 Re5 25.Bf4 R5e7 26.Nb5 Re4 27.Nc3 R4e7 28.Nb5 Nf8 29.Nd4 Re4
+30.Nf3 Qc8 31.Rfe1  1/2-1/2
+
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1940.??.??"]
+[Round "2"]
+[White "Barcza, Gedeon"]
+[Black "Rethy, Pal"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D02"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 c6 4.d4 Bf5 5.Nbd2 Nbd7 6.c4 e6 7.b3 Bb4 8.Bb2 Ne4
+9.a3 Bc3 10.Bxc3 Nxc3 11.Qc1 Ne4 12.Nh4 Nxd2 13.Qxd2 Bg6 14.O-O O-O 15.Nxg6 hxg6
+16.Rac1 Rc8 17.Rc3 Nf6 18.b4 dxc4 19.Rxc4 e5 20.Rd1 exd4 21.Rxd4 Qe7 22.Rd3 c5
+23.Re3 Qc7 24.bxc5 Rcd8 25.Rd3 Rxd3 26.Qxd3 Qxc5 27.Bxb7 Ng4 28.Qd4 Qh5 29.h4 Ne5
+30.Rd2 Kh7 31.Qxa7 g5 32.Qd4 gxh4 33.Qxh4 Qxh4 34.gxh4 Rb8 35.Be4+ Kh6 36.Kg2 Rb3
+37.Ra2 Rb5 38.a4 Ra5 39.Bd3 Kh5 40.Kg3 Nc6 41.Bb5 Nd4 42.Rd2 Nf5+ 43.Kf4 Nxh4
+44.Ke5 g5 45.Kf6 Ng6 46.Rd5 Ra7 47.Rxg5+ Kh6 48.Rg1 Kh7 49.Bd3 Rxa4 50.Kxf7 Rf4+
+51.Ke6 Rxf2 52.Bxg6+ Kg7 53.Bf7+  1-0
+
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1940.??.??"]
+[Round "2"]
+[White "Vidmar, Milan Sr"]
+[Black "Balla, Zoltan"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E97"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Nc6 7.O-O Bg4 8.Be3 e5
+9.d5 Ne7 10.Qd2 Nh5 11.h3 Bd7 12.g4 Nf4 13.Bxf4 exf4 14.Qxf4 f5 15.Qg3 f4
+16.Qg2 h6 17.Rad1 g5 18.e5 dxe5 19.Bd3 Be8 20.Rfe1 Ng6 21.Bxg6 Bxg6 22.Nxe5 Bh7
+23.Nf3 Qd6 24.Nb5 Qc5 25.b3 Rae8 26.d6 cxd6 27.Nxd6 Rxe1+ 28.Nxe1 f3 29.Nxf3 Rd8
+30.Rd5 Qb4 31.Nf5 Rxd5 32.cxd5 Bxf5 33.gxf5 Qe4 34.Qg4 Qxd5 35.h4 Bf6 36.hxg5 Qd1+
+37.Kg2 hxg5 38.Qc4+ Kf8 39.Qc8+ Bd8 40.Qxb7 Qd3 41.Qb4+ Be7 42.Qb8+ Bd8 43.Qe5 Qd1
+44.Qh8+ Ke7 45.Qg8 Kd7 46.Qe6+ Kc7 47.f6 g4 48.Ne5  1-0
+
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1940.??.??"]
+[Round "2"]
+[White "Szabo, Laszlo"]
+[Black "Euwe, Max"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C87"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.Re1 Bd7 7.c3 Be7 8.d4 O-O
+9.Nbd2 exd4 10.cxd4 Nb4 11.Bxd7 Qxd7 12.Nf1 d5 13.Ne5 Qe8 14.a3 Nc6 15.Nxc6 Qxc6
+16.e5 Ne4 17.Ne3 Qd7 18.f3 Ng5 19.f4 Ne4 20.f5 Rfe8 21.Qf3 c6 22.f6 Bf8 23.fxg7 Bxg7
+24.Nf5 Qe6 25.Be3 Qg6 26.Rad1 f6 27.Nh4 Qf7 28.Rf1 Qe6 29.exf6 Bxf6 30.Nf5 Kh8
+31.Qh5 Rg8 32.Rf3 Bg5 33.Rdf1 Raf8 34.Nh6 Bxe3+ 35.Rxe3 Rxf1+ 36.Kxf1 Qf6+
+37.Nf5 Rf8 38.g4 Qxd4 39.Qxh7+ Kxh7  0-1
+
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1940.??.??"]
+[Round "3"]
+[White "Euwe, Max"]
+[Black "Barcza, Gedeon"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D93"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.Nf3 O-O 6.Rc1 c6 7.e3 Be6 8.Ng5 Bf5
+9.Qb3 Qb6 10.Qxb6 axb6 11.cxd5 Nxd5 12.Nxd5 cxd5 13.a3 Nd7 14.Bb5 e5 15.Bxd7 exf4
+16.Bxf5 gxf5 17.Nh3 fxe3 18.fxe3 Bh6 19.Kf2 Rfe8 20.Rhe1 Rac8 21.Nf4 Bxf4
+22.exf4 Rxc1 23.Rxc1 Re4 24.Rc7 Rxd4 25.Ke3 Re4+ 26.Kd3 Rxf4 27.Rxb7 Rf2
+28.Rxb6 Rxg2 29.a4 Rxh2 30.a5 Rh1 31.Rb3 Rh3+ 32.Kc2 Rh2+ 33.Kb1 Re2 34.a6 Re7
+35.Ra3  1-0
+
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1940.??.??"]
+[Round "3"]
+[White "Balla, Zoltan"]
+[Black "Szabo, Laszlo"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D42"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6 5.Nc3 Nxd5 6.Nf3 Nc6 7.d4 e6 8.a3 Be7
+9.Bd3 O-O 10.O-O a6 11.Qe2 b5 12.Rd1 Bb7 13.Ne4 Nf6 14.Nxf6+ Bxf6 15.Be3 Qd5
+16.Rac1 Rac8 17.Rc5 Nxd4 18.Bxd4 Rxc5 19.Bxf6 gxf6 20.Bxh7+ Kxh7 21.Rxd5 Bxd5
+22.h3 Rfc8 23.Nd4 Rc1+ 24.Kh2 R8c4 25.Qd2 Be4 26.Qf4 f5 27.Qg5 Rc8 28.Qf6 Kg8
+29.h4 R1c7 30.Qh6 e5 31.Qg5+ Kf8 32.Nxf5 Bxf5 33.Qxf5 Re8 34.Qf6 Rc4 35.Qh8+ Ke7
+36.Qxe5+ Kd7 37.Qd5+ Kc8 38.Kh3 Re6 39.h5 Rc2 40.Qf5 Rc7 41.h6 Kb8 42.Qf4 f5
+43.Kg3 Rg6+ 44.Kf3 Kb7 45.Qxf5 Rxh6 46.Qe4+ Kb8 47.Qe5 Kb7 48.g4 Rf7+ 49.Kg3  1-0
+
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1940.??.??"]
+[Round "3"]
+[White "Rethy, Pal"]
+[Black "Vidmar, Milan Sr"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A06"]
+
+1.Nf3 d5 2.b3 Nf6 3.Bb2 g6 4.e3 Bg7 5.c4 O-O 6.cxd5 Nxd5 7.Bxg7 Kxg7 8.d4 Bg4
+9.Be2 c5 10.O-O cxd4 11.Qxd4+ Nf6 12.Qb2 Nc6 13.Rd1 Qa5 14.h3 Bxf3 15.Bxf3 Rfd8
+16.Nd2 Qb5 17.a4 Qb4 18.Nc4 Rac8 19.Rxd8 Nxd8 20.Ne5 Rc7 21.Rd1 Ne6 22.Nd3 Qa5
+23.Qe5 Qxe5 24.Nxe5 Ng5 25.Be2 Nge4 26.Bc4 Nd6 27.Bd3 Nd5 28.Nc4 Nxc4 29.Bxc4 Nc3
+30.Ra1 Rd7 31.Kf1 Rd2 32.f3 Rb2 33.Rc1 Nb1 34.Bd5 e6 35.Bxb7 Rxb3 36.Bc8 Nc3
+37.a5 Kf6 38.Rc2 Nd5 39.Kf2 Rxe3 40.Bb7 Rc3 41.Rb2 Nf4 42.Kg3 Nd3 43.Rb5 Rc5
+44.Rb3 Rg5+ 45.Kh2 Nc5 46.Rb5 Nxb7 47.Rxb7 Rxa5  0-1
+
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1940.??.??"]
+[Round "4"]
+[White "Vidmar, Milan Sr"]
+[Black "Euwe, Max"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D27"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 e6 5.Bxc4 c5 6.O-O Nc6 7.Qe2 Nf6 8.a4 Be7
+9.dxc5 Bxc5 10.e4 Qc7 11.h3 O-O 12.Bg5 Nh5 13.Kh1 h6 14.Be3 Nf4 15.Qd2 Bxe3
+16.Qxe3 e5 17.Rc1 Qd6 18.Bf1 Be6 19.Nbd2 Rad8  1/2-1/2
+
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1940.??.??"]
+[Round "4"]
+[White "Balla, Zoltan"]
+[Black "Rethy, Pal"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B56"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Nxc6 bxc6 7.Bd3 g6 8.Bg5 Bg7
+9.h3 Nd7 10.Qd2 h6 11.Be3 Ne5 12.Be2 Be6 13.f4 Nc4 14.Bxc4 Bxc4 15.Bd4 e5
+16.fxe5 c5 17.Bf2 Bxe5 18.Nd1 Qf6 19.c3 Rb8 20.b3 Ba6 21.Rc1 O-O 22.c4 Bb7
+23.O-O Qf4 24.Qxf4 Bxf4 25.Rc3 Bxe4 26.Bxc5 Be5 27.Re3 f5 28.Ba3 Rb6 29.Bb2 Re8
+30.Bxe5 dxe5 31.Rfe1 Rbe6 32.Nc3 Bc6 33.Nd5 Bxd5 34.cxd5 Ra6 35.Rxe5 Rxe5
+36.Rxe5 Rxa2 37.Re7 Ra6 38.Kf2 Kf8 39.Rc7 Rd6 40.Rxa7 Rxd5 41.Rb7 Re5 42.b4 Re4
+43.Kf3 h5 44.b5 h4 45.b6 Rb4 46.Ke3 g5 47.Kd3 g4 48.Kc3 Rb1 49.Kd4 gxh3 50.gxh3 f4
+51.Ke4 Rb4+ 52.Kf3 Ke8 53.Kg4 f3+ 54.Kxf3 Kd8 55.Ke3 Kc8 56.Rc7+ Kb8 57.Rc6 Rb3+
+58.Kd4 Rxh3 59.Rh6 Kb7  1/2-1/2
+
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1940.??.??"]
+[Round "4"]
+[White "Szabo, Laszlo"]
+[Black "Barcza, Gedeon"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C90"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 Na5
+9.Bc2 c5 10.d3 O-O 11.Nbd2 Ne8 12.d4 exd4 13.cxd4 Nc6 14.Nf1 Bg4 15.dxc5 dxc5
+16.Be3 Nc7 17.h3 Qxd1 18.Bxd1 Bxf3 19.Bxf3 Nb4 20.Red1 Rad8 21.Ng3 Nc2 22.Rac1 Nxe3
+23.fxe3 Rxd1+ 24.Rxd1 Rd8 25.Rxd8+ Bxd8 26.Ne2 Bf6 27.b3 Kf8 28.Nf4 Ke7 29.Nd5+ Kd6
+30.Nxc7 Kxc7 31.Kf2 Kb6 32.Bh5 g6 33.Bg4 c4 34.bxc4 bxc4 35.Ke2 Kc5 36.Bc8 a5
+37.Bb7 Be5 38.Bd5 f6 39.Bg8 h6 40.Bf7 g5 41.Kd2 Bb2 42.Kc2 Ba3 43.Be6 Bb4
+44.Bf7 Be1 45.Be6 c3 46.Bf7 Kd6 47.Kd3 Ke5  1/2-1/2
+
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1940.??.??"]
+[Round "5"]
+[White "Euwe, Max"]
+[Black "Balla, Zoltan"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E91"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Nc6 7.d5 Ne5 8.Nxe5 dxe5
+9.O-O e6 10.Be3 Re8 11.Rc1 b6 12.b4 Bb7 13.Qb3 c6 14.Rfd1 exd5 15.cxd5 cxd5
+16.Nxd5 Nxd5 17.exd5 Qd6 18.Bb5 Red8 19.Bc6 Rab8 20.h3 Bf8 21.a3 Bc8 22.b5 Bd7
+23.Qa4 Bxc6 24.dxc6 Qc7 25.Bg5 Rd6 26.Rxd6 Bxd6 27.Bf6 Re8 28.Rd1 h6 29.Qh4 Re6
+30.a4 Qc8 31.Qg4 Qc7 32.Qf3 Qb8 33.Bh4 Kg7 34.Bg3 Kg8 35.Qd5 Qc7 36.f3 Qe7
+37.Bf2 Kh7 38.Qd2 f5 39.a5 e4 40.axb6 axb6 41.fxe4 fxe4 42.Bxb6 Qf6 43.Qf2 Qe7
+44.Rf1 e3 45.Qf7+ Qxf7 46.Rxf7+ Kg8 47.Rf1 e2 48.Re1 Bb4 49.c7 Bxe1 50.c8=Q+ Kf7
+51.Bc5 Kf6 52.Qf8+ Ke5 53.Qf3  1-0
+
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1940.??.??"]
+[Round "5"]
+[White "Barcza, Gedeon"]
+[Black "Vidmar, Milan Sr"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D77"]
+
+1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 Nf6 5.c4 dxc4 6.Na3 O-O 7.O-O c3 8.bxc3 c5
+9.Ne5 Nd5 10.Bb2 cxd4 11.cxd4 b6 12.Nac4 Bb7 13.Qb3 Nc6 14.Nxc6 Bxc6 15.e4 Nc7
+16.d5 Bxb2 17.Nxb2 Bb7 18.Rfc1 Na6 19.Nd3 Rc8 20.a4 Rc7 21.Rxc7 Qxc7 22.Rc1 Nc5
+23.Nxc5 bxc5 24.Qb5 Ba8 25.Qxc5 Qd7 26.Qa5 e6 27.Rc7 Qd8 28.Rxa7 exd5 29.exd5 Qb8
+30.h3 h5 31.h4 Rd8 32.Kh2 Bxd5 33.Bxd5 Rxd5 34.Ra8 Rxa5 35.Rxb8+ Kg7 36.Rb4 Rc5
+37.Rb2 Ra5 38.Ra2 Kf6 39.Kg2 Ke5 40.Kf3 Kd4 41.Ra1 f6 42.Re1 Kd5 43.Re4 Rc5
+44.Re1 Ra5 45.Ra1 Kc4 46.Rb1 Kc5 47.Ra1 Kc4 48.Ke3 f5 49.f4 Ra6 50.a5 Re6+
+51.Kf3 Ra6 52.Re1 Kd4 53.Re5 Rc6 54.Rb5 Rc3+ 55.Kg2 Rc2+ 56.Kh3 Ra2 57.Re5 Kd3
+58.Re6 Rxa5 59.Rxg6 Ke3  1/2-1/2
+
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1940.??.??"]
+[Round "5"]
+[White "Rethy, Pal"]
+[Black "Szabo, Laszlo"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A06"]
+
+1.Nf3 Nf6 2.b3 d5 3.Bb2 c5 4.e3 Nc6 5.Be2 g6 6.O-O Bg7 7.d4 cxd4 8.exd4 O-O
+9.c4 dxc4 10.bxc4 Ne4 11.Nbd2 Bf5 12.Nb3 a5 13.Qc1 a4 14.d5 Bxb2 15.Qxb2 a3
+16.Qc1 Nb4 17.Nbd4 Qd6 18.Nxf5 gxf5 19.Nd2 b5 20.Nxe4 fxe4 21.Rb1 bxc4 22.Qxc4 Nxd5
+23.Rfd1 e6 24.Qxe4 Qf4 25.Qxf4 Nxf4 26.Bf3 Rab8 27.g3 Nd5 28.Rxb8 Rxb8 29.Rd3 Rb1+
+30.Kg2 Nb4 31.Rxa3 Ra1 32.Ra8+ Kg7 33.a4 Nd3 34.Bb7 Ra2 35.a5 Rxf2+ 36.Kg1 Ra2
+37.a6 Nc5 38.Bc8 Kf6 39.Ra7 Kg6 40.h3 h5 41.Bb7 Nxb7 42.axb7 Rb2 43.Kf1 f6
+44.Ke1 Kg5 45.Kd1 e5 46.Kc1 Rb6 47.Kd2 f5 48.Kc3 e4 49.Kd4 h4 50.g4 fxg4
+51.Kxe4  1/2-1/2

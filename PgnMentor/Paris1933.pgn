@@ -1,0 +1,731 @@
+[Event "Paris m"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Lilienthal, Andor"]
+[Black "Tartakower, Saviely"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D09"]
+
+1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.Nbd2 Be6 6.g3 Qd7 7.Bg2 Nge7 8.O-O Ng6
+9.a3 O-O-O 10.b4 Ncxe5 11.Nxe5 Nxe5 12.Qc2 d3 13.exd3 Nxd3 14.Nb3 Nxc1 15.Raxc1 Bf5
+16.Qb2 h5 17.c5 c6 18.b5 h4 19.bxc6 bxc6 20.Na5 hxg3 21.hxg3 Qc7 22.Nxc6 Rd7
+23.Nd4 Bh3 24.c6 Rd8 25.Qb7+ Qxb7 26.cxb7+ Kd7 27.Bxh3+ Rxh3 28.Nc6  1-0
+
+[Event "Paris m"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Lilienthal, Andor"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A47"]
+
+1.d4 c5 2.e3 e6 3.Nf3 b6 4.Nbd2 Nf6 5.Bd3 Bb7 6.O-O Nc6 7.c3 cxd4 8.exd4 Qc7
+9.Re1 h6 10.Nf1 Be7 11.Qe2 Nd5 12.Ng3 g5 13.Nh5 O-O-O 14.Ba6 Rdg8 15.Bxb7+ Kxb7
+16.Ne5 Nxe5 17.dxe5 Rc8 18.a4 a6 19.Qf3 Qc6 20.Bd2 f5 21.exf6 Nxf6 22.Qxc6+ Kxc6
+23.Nxf6 Bxf6 24.Be3 d5 25.Red1 e5 26.Rd3 Rhd8 27.Rad1 b5 28.axb5+ axb5 29.Ra1 Ra8
+30.Rdd1 d4 31.cxd4 exd4 32.Rac1+ Kb7 33.Bd2 Ra2 34.b4 Rc8 35.Rxc8 Kxc8 36.h4 Kb7
+37.hxg5 hxg5 38.Kf1 Kc6 39.Rc1+ Kd5 40.Bxg5 Bxg5 41.Rc5+ Ke4 42.Rxg5 Ra1+
+43.Ke2 d3+ 44.Kd2 Ra2+ 45.Ke1 Re2+ 46.Kd1 Rxf2 47.Rxb5 Rxg2  1/2-1/2
+
+[Event "Paris m"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Tartakower, Saviely"]
+[Black "Lilienthal, Andor"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C13"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.Nf3 b6 7.Bd3 Bb7 8.Qe2 dxe4
+9.Bxe4 c6 10.O-O-O Qc7 11.Ne5 Bxe5 12.dxe5 Qxe5 13.Qd3 O-O 14.Bxh7+ Kh8 15.Be4 f5
+16.Bf3 Na6 17.Qc4 Qf6 18.Rd6 Rfe8 19.Re1 b5 20.Qf4 e5 21.Rxf6 exf4 22.Rxe8+ Rxe8
+23.Rxf5  1-0
+
+[Event "Paris m"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Tartakower, Saviely"]
+[Black "Lilienthal, Andor"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7 5.O-O d6 6.d4 Bb6 7.a3 a6 8.Be3 Ba7
+9.d5 Nb8 10.Bxa7 Rxa7 11.Nbd2 Nf6 12.h3 O-O 13.Nh2 Nbd7 14.Bd3 Re8 15.f4 exf4
+16.Rxf4 Nxd5 17.Rf2 Ne5 18.Qe2 Nf6 19.Raf1 Be6 20.Nhf3 Nfd7 21.Nd4 Nxd3 22.Qxd3 Ne5
+23.Qg3 Raa8 24.N2f3 Nd3 25.Re2 Nc5 26.Ng5 Bc4 27.Nf5 Qe5 28.Rf4 Bxe2 29.Nh6+ gxh6
+30.Nxf7+ Qg7 31.Nxh6+ Kh8 32.Nf7+  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "1"]
+[White "Znosko Borovsky, Eugene "]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D63"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bg5 Nbd7 6.e3 O-O 7.Rc1 a6 8.a3 h6
+9.Bh4 dxc4 10.Bxc4 b5 11.Ba2 c5 12.O-O Bb7 13.Bb1 Re8 14.dxc5 Nxc5 15.Qc2 Qb6
+16.Ne5 Rad8 17.Rfd1 Kf8 18.b4 Nce4 19.Nd7+ Rxd7 20.Rxd7 Nxd7 21.Bxe7+ Kxe7
+22.Nxe4 Rc8 23.Qb2 Rxc1+ 24.Qxc1 Bxe4 25.Bxe4 Ne5 26.Qc3 Qd6 27.Bf3 g5 28.Be2 f6
+29.f3 Nd7 30.Qc2 f5 31.Qc3 Qe5 32.Qd3 Nb6 33.e4 fxe4 34.Qxe4 Qa1+ 35.Kf2 Nd5
+36.Qh7+ Kd6 37.Qd3 Ke5 38.Bd1 Qd4+ 39.Qxd4+ Kxd4 40.g3 Kc3 41.h4 Kb2 42.hxg5 hxg5
+43.a4 Nc3 44.axb5 Nxd1+ 45.Ke1 axb5 46.Kxd1 Kc3 47.f4 gxf4 48.g4 Kd4 49.Ke2 Ke4
+50.Kf2 e5 51.Kg2 Kd5 52.Kf3 Ke6 53.Ke4 Kf6  0-1
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "1"]
+[White "Alekhine, Alexander"]
+[Black "Lazard, Frederic"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D32"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 c5 5.cxd5 exd5 6.Bg5 Be6 7.Bxf6 Qxf6 8.e4 dxe4
+9.Bb5+ Bd7 10.Nxe4 Qb6 11.Bxd7+ Nxd7 12.O-O Be7 13.dxc5 Nxc5 14.Nxc5 Qxc5
+15.Rc1 Rd8 16.Qa4+ b5 17.Qg4 Qb6 18.Qxg7 Qf6 19.Qxf6 Bxf6 20.Rfe1+ Kf8 21.Rc7 Kg7
+22.g4 h6 23.Ne5 Bxe5 24.Rxe5 Rd4 25.h3 a6 26.Ra7 Ra4 27.a3 b4 28.Rf5 bxa3
+29.Raxf7+ Kg8 30.bxa3 Rxa3 31.h4 h5 32.Rf8+ Kg7 33.R5f7+ Kg6 34.Rf6+ Kg7
+35.R8f7+ Kg8 36.Ra7 hxg4 37.Rg6+ Kf8 38.Rb6  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "1"]
+[White "Baratz, Abraham"]
+[Black "Lilienthal, Andor"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E11"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 Bb4+ 4.Bd2 Qe7 5.e3 Bxd2+ 6.Qxd2 b6 7.Nc3 Bb7 8.Bd3 d6
+9.e4 Nbd7 10.O-O O-O 11.Rfe1 e5 12.Rad1  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "1"]
+[White "Raizman, Maurice"]
+[Black "Gromer, Aristide"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E15"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.g3 Bb7 5.Bg2 Qc8 6.Nc3 d6 7.O-O Ne4 8.Qd3 Nxc3
+9.bxc3 Be7 10.e4 Nd7 11.Bg5 Bxg5 12.Nxg5 h6 13.Nh3 e5 14.f4 c5 15.fxe5 dxe5
+16.d5 Qc7 17.Nf2 Nf6 18.Nd1 Bc8 19.d6 Qc6 20.Ne3 Be6 21.Nf5 Bxf5 22.exf5 e4
+23.Rfe1 O-O-O 24.Bxe4 Nxe4 25.Qxe4 Qxe4 26.Rxe4 Rxd6 27.Re7 Rd7 28.Rae1 Rhd8
+29.Kf2 Kc7 30.Kf3 Rxe7 31.Rxe7+ Rd7 32.Rxd7+ Kxd7 33.Ke4 Kd6 34.h4 g5 35.fxg6 fxg6
+36.h5 gxh5 37.Kf5 b5 38.cxb5 Kd5 39.a4 Kc4 40.Ke4 Kxc3 41.a5  1-0
+
+[Event "Paris m"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "1"]
+[White "Bernstein, Ossip"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C71"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.d4 b5 6.Bb3 Nxd4 7.Nxd4 exd4 8.Bd5 Rb8
+9.Bc6+ Bd7 10.Bxd7+ Qxd7 11.Qxd4 Nf6 12.O-O Be7 13.Nc3 O-O 14.Re1 Rfe8 15.Bg5 b4
+16.Nd5 Nxd5  0-1
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "1"]
+[White "Zuckerman, Bernard"]
+[Black "Frentz, M."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D37"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Nbd7 5.e3 c5 6.cxd5 exd5 7.dxc5 Nxc5 8.Bb5+ Bd7
+9.O-O Bxb5 10.Nxb5 Be7 11.b4 Ne6 12.Bb2 O-O 13.a3 a5 14.bxa5 Rxa5 15.a4 Qa8
+16.Nfd4 Rc8 17.Nf5 Bd8 18.Rb1 Rxa4 19.Nbd6 Rc7 20.Bxf6 Bxf6 21.Qxd5 Ra5 22.Qf3 g6
+23.Nh6+ Kg7 24.Ng4 Bc3 25.Nb5 Rxb5 26.Rxb5 Qa6 27.Rd5 b5 28.e4 Nd4 29.Qe3 Qc8
+30.h3 f5 31.Qh6+ Kh8 32.exf5 Ne2+ 33.Kh1 gxf5 34.Rfd1 Bd4 35.R5xd4 Nxd4 36.Qf6+ Rg7
+37.Rxd4 fxg4 38.Rd8+ Qxd8 39.Qxd8+ Rg8 40.Qf6+  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "2"]
+[White "Tartakower, Saviely"]
+[Black "Lilienthal, Andor"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C29"]
+
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 f5 6.d3 Nxc3 7.bxc3 d4 8.Qf2 dxc3
+9.d4 Be6 10.Bd3 Be7 11.Ne2 O-O 12.O-O Nc6 13.Be3 Nb4 14.Nxc3 Nxd3 15.cxd3 f4
+16.Bd2 Bb4 17.g3 fxg3 18.Qe3 gxh2+ 19.Kxh2 Be7 20.Ne4 Kh8 21.Qg1 Rxf1 22.Rxf1 Qe8
+23.Qg3 Qh5+ 24.Kg1 Rf8 25.Rxf8+ Bxf8 26.Ng5 Bg8 27.e6 h6 28.Ne4 Bxe6 29.Qxc7 Qg4+
+30.Kf2 Qh4+ 31.Ke3 Qh3+ 32.Ke2 Bg4+ 33.Kf2 Qf3+ 34.Kg1 Qd1+ 35.Kf2 Qe2+ 36.Kg1 Bf3
+37.Nf2 Qxd2 38.Qf7 Qe1+  0-1
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "2"]
+[White "Znosko Borovsky, Eugene "]
+[Black "Zuckerman, Bernard"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 e6 4.Nf3 Nf6 5.Bg5 h6 6.Bxf6 Qxf6 7.Bd3 Bb4 8.O-O O-O
+9.e5 Qd8 10.Ne2 Re8 11.Nf4 Nd7 12.Kh1 Be7 13.Rg1 c5 14.c3 cxd4 15.cxd4 Nf8
+16.g4 Bd7 17.g5 hxg5 18.Nh3 f6 19.exf6 Bxf6 20.Nfxg5 e5 21.Qh5 Bxh3 22.Nf7 Qb6
+23.Nh6+ Kh8 24.Nf7+ Kg8 25.Nh6+ Kh8 26.Bg6 Nxg6 27.Rxg6 Re6 28.Rag1 Bg5 29.Nf5+ Bh6
+30.Nxh6 Rxg6 31.Rxg6 Qxg6 32.Qxg6 Rc8 33.Nf7+ Kg8 34.Nh6+ Kh8 35.Nf7+ Kg8
+36.Qg5 Rf8 37.Nh6+ Kh7 38.Ng4 Bf1 39.dxe5  1-0
+
+[Event "Paris m"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "2"]
+[White "Alekhine, Alexander"]
+[Black "Bernstein, Ossip"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C86"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 d6 7.c3 O-O 8.d4 Bd7
+9.Bb3 exd4 10.cxd4 Na5 11.Bc2 Bb5 12.Bd3 Bxd3 13.Qxd3 d5 14.e5 Ne4 15.Nc3 Nxc3
+16.Qxc3 Nc6 17.Bd2 Qd7 18.Rac1 a5 19.Qb3 Ra6 20.Rfe1 Nd8 21.Qd3 Ne6 22.Be3 Rb6
+23.Rc2 Qa4 24.Ra1 Qb5 25.Ne1 f6 26.f4 fxe5 27.fxe5 c6 28.Qxb5 Rxb5 29.Nd3 Bd8
+30.a4 Rb3 31.Rc3 Rb6 32.Rf1 Ra6 33.Rxf8+ Kxf8 34.Kf1 Ke7 35.Ke2 Kd7 36.Nc5+ Nxc5
+37.dxc5 Ke6 38.Bd4 Kf5 39.Kf3 h5 40.Rb3 Ra7 41.h3 h4 42.Bf2 Bg5 43.g3 Kxe5
+44.gxh4 Bh6 45.h5 Bc1 46.Bg3+ Kd4 47.Bf2+ Ke5 48.Bg3+ Kd4 49.Bf2+ Ke5  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "2"]
+[White "Gromer, Aristide"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C73"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Bxc6+ bxc6 6.d4 f6 7.Nc3 g6 8.dxe5 fxe5
+9.Be3 Rb8 10.Qd3 Nf6 11.O-O-O Ng4 12.Qc4 Bd7 13.h4 Nxe3 14.fxe3 Bh6 15.h5 Qf6
+16.Rdf1 Qe6 17.Qd3 g5 18.Nd2 g4 19.Rf2 Rf8 20.Rxf8+ Kxf8 21.Qxa6 Bxe3 22.Qd3 Qh6
+23.Nd1 Bg5 24.c4 Ke7 25.Kc2 Ra8 26.a3 c5 27.Nf1 Ba4+ 28.b3 Bc6 29.a4 Qf8
+30.Ng3 Qf4 31.Nc3 Qf2+ 32.Nge2 Qxg2 33.Rg1 Qh2 34.Rxg4 Qxh5 35.Rg2 Rf8 36.Ng3 Qf3
+37.Qxf3 Rxf3 38.Nd5+ Bxd5 39.cxd5 h6 40.Nf5+ Kd7 41.Rh2 Bf4 42.Rg2 Bg5 43.Rh2 Kc8
+44.Nxh6 Bxh6 45.Rxh6 Re3 46.Rh4 Kb7 47.a5 Re2+ 48.Kc3 Ra2 49.Kc4 Rxa5 50.Rh2 Ra1
+51.Rb2 Rd1 52.Kc3 Kb6 53.b4 c4 54.Rh2 Kb5 55.Rh7 Rd3+ 56.Kc2 Kb6 57.Rh8 Re3
+58.Rh4 Rb3 59.Rh7 Re3 60.Rh4 Rf3 61.Rh8 Rf4 62.Rb8+ Ka7 63.Rb5 Rxe4 64.Kc3 Rd4
+65.Kc2 Rd3  0-1
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "3"]
+[White "Zuckerman, Bernard"]
+[Black "Tartakower, Saviely"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E14"]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Nc3 Be7 5.e3 O-O 6.Bd3 c5 7.O-O Nc6 8.b3 b6 9.Bb2 Bb7
+10.Rc1 Rc8 11.Qe2 cxd4 12.exd4 Qd6 13.Rfd1 Qf4 14.g3 Qg4 15.cxd5 Nb4 16.Ne5 Qxe2
+17.Bxe2 Nbxd5 18.Nxd5 Nxd5 19.Bb5 Rxc1 20.Rxc1 Rc8 21.Bc6 Bxc6 22.Nxc6 a6
+23.Nxe7+ Nxe7 24.Rc4 b5 25.Rc5 Kf8 26.Ba3 Ke8 27.Rh5 h6 28.Bc5 Nd5 29.Re5 a5
+30.Kf1 Kd7 31.f4 g6 32.a3 a4 33.b4 h5 34.Kf2 Nc3 35.Kf3 Nb1 36.Re3 Nd2+ 37.Ke2 Nc4
+38.Rc3 Kc6 39.Kf3 Kd5 40.Rd3 f6 41.Be7 Nb2 42.Re3 Nd1 43.Re1 Rc3+ 44.Ke2 Nb2
+45.Bxf6 Nc4 46.Rg1 Rxa3 47.g4 Ke4  0-1
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "3"]
+[White "Lilienthal, Andor"]
+[Black "Lazard, Frederic"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D32"]
+
+1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nf6 6.Bg5 cxd4 7.Bxf6 gxf6 8.Qxd4 Be6
+9.e4 Nc6 10.Bb5 dxe4 11.Qxe4 f5 12.Bxc6+ bxc6 13.Qxc6+ Bd7 14.Qd5 Be6 15.Qb5+ Qd7
+16.Qxd7+ Bxd7 17.Nd5 O-O-O 18.Rc1+ Kb8 19.O-O Bd6 20.Rfd1 Be6 21.Ne3 f4 22.Nc4 Bc5
+23.Nce5 Kb7 24.Rxd8 Rxd8 25.h3 Rc8 26.Nd3 Bd6 27.Rxc8 Kxc8 28.a3 f6 29.Kf1 Bf7
+30.Ke1 Kd7 31.Kd2 Kc6 32.Nd4+ Kd5 33.Ne2 Ke4 34.Nc3+ Kf5 35.Nb5 Bb8 36.f3 a6
+37.Nd4+ Kg5 38.b4 Bd5 39.a4 Kh4 40.Ne2 Bc6 41.a5 Kg5 42.Nd4 Bd5 43.b5 Be5
+44.Nc6 axb5 45.Ndb4 Be6 46.a6 Bc8 47.Ne7 Bd6 48.Nxc8 Bxb4+ 49.Ke2 Bc5 50.Nd6 Kh4
+51.Nxb5  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "3"]
+[White "Alekhine, Alexander"]
+[Black "Frentz, M."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B60"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Qa5 7.Bxf6 gxf6 8.Bb5 Bd7
+9.O-O O-O-O 10.Nb3 Qb6 11.a4 a5 12.Nd5 Qa7 13.Qd2 Rg8 14.Kh1 f5 15.f3 Kb8
+16.exf5 Bxf5 17.Bxc6 bxc6 18.Nxa5 Qc5 19.Nb4 Ka8 20.Nbxc6 Rc8 21.c4 Rxc6
+22.Nxc6 Qxc6 23.Qa5+  1-0
+
+[Event "Paris m"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "3"]
+[White "Bernstein, Ossip"]
+[Black "Alekhine, Alexander"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Bb4 4.Bc4 Nf6 5.O-O O-O 6.d3 Bxc3 7.bxc3 d5 8.exd5 Nxd5
+9.Bd2 Bg4 10.Re1 Qd6 11.Rb1 Nb6 12.Bb5 Rae8 13.Bxc6 bxc6 14.c4 Na4 15.Qe2 f5
+16.Qe3 e4 17.dxe4 Rxe4 18.Qxa7 Bxf3 19.gxf3 Rxe1+ 20.Bxe1 Nb6 21.c5 Qg6+
+22.Kf1 Nd5 23.Rb8 Qh5 24.Rxf8+ Kxf8 25.Qb8+ Ke7 26.Qb3 Qxh2 27.Bd2 Qh1+ 28.Ke2 Qa1
+29.c4 Qe5+ 30.Kf1 Nf6 31.Bc3 Qe6 32.a4 g5 33.a5 g4 34.a6 gxf3 35.Bxf6+ Qxf6
+36.Qe3+ Kf7 37.Qxf3 Qa1+ 38.Kg2 Qxa6 39.Qxf5+ Kg7 40.Qd7+ Kg6 41.Qxc7 Qa8
+42.Qd6+ Kg7 43.Qe7+ Kg6 44.Qe6+ Kg7 45.f3 Qb7 46.Kg3 Qc7+ 47.Kg4 Qb7 48.f4 Kf8
+49.Qf6+ Kg8 50.Qd8+ Kg7 51.Qd6 Qc8+ 52.f5 Qe8 53.Kf4 Kf7 54.Qh6 Kg8 55.Qf6 Qb8+
+56.Qd6 Qb7 57.Qd8+ Kg7 58.Kg5 h6+ 59.Kf4 Qf7 60.Ke5 h5 61.Qg5+ Kf8 62.Kd6 Qh7
+63.Qd8+ Kf7 64.Qe7+ Kg8 65.Qxh7+ Kxh7 66.f6  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "4"]
+[White "Znosko Borovsky, Eugene "]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C87"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.c3 Bd7 7.Re1 Be7 8.d4 O-O
+9.Nbd2 Be8 10.Bxc6 Bxc6 11.dxe5 dxe5 12.Nxe5 Bxe4 13.Nxe4 Qxd1 14.Nxf6+ gxf6
+15.Rxd1 fxe5 16.Bh6 Rfd8 17.Kf1 f5 18.Rxd8+ Rxd8 19.g3 Kf7 20.Be3 h5 21.Ke2 Ke6
+22.Rd1 Rg8 23.f3 h4 24.Bf2 hxg3 25.hxg3 Rh8 26.Bg1 Bd6 27.Kf1 Rg8 28.Bf2 b5
+29.b3 a5 30.Kg2 a4 31.Rd2 axb3 32.axb3 Ra8 33.c4 Ra3 34.c5 Be7 35.Rb2 b4
+36.g4 f4 37.Kf1 Ra1+ 38.Ke2 Rc1 39.Ra2 Rc3 40.Ra7 Kd7 41.Rb7 Rxb3 42.Rb8 Rb2+
+43.Kf1 b3 44.Kg1 Kc6 45.Kf1 Kd5 46.Rb7 e4 47.fxe4+ Kxe4 48.Rxc7 Kf3 49.Rxe7 Rxf2+
+50.Ke1 b2 51.Rb7 Rc2 52.c6 Kg3 53.c7 f3 54.Kd1 Rxc7 55.Rxb2 f2  0-1
+
+[Event "Paris m"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "4"]
+[White "Alekhine, Alexander"]
+[Black "Bernstein, Ossip"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D56"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 h6 6.Bh4 Ne4 7.Bxe7 Qxe7 8.Qb3 Nxc3
+9.Qxc3 O-O 10.Nf3 c6 11.Bd3 Nd7 12.O-O dxc4 13.Bxc4 b6 14.a4 Bb7 15.a5 c5
+16.Be2 cxd4 17.Nxd4 Rac8 18.Qd2 Qd6 19.a6 Ba8 20.Rfd1 Nc5 21.Qb4 Qe7 22.Qa3 Rfd8
+23.f3 e5 24.Nf5 Qf6 25.e4 Kh7 26.Qe3 Ne6 27.Rxd8 Rxd8 28.Rc1 h5 29.Bc4 Nd4
+30.Nxd4 Rxd4 31.h3 Rd6 32.Bd5 Bc6 33.Qb3 Kg6 34.Qc4 Bxd5 35.exd5 Qd8 36.Rd1 f5
+37.b4 Kh7 38.b5 Qg5 39.Re1 Qf4 40.Qxf4 exf4 41.Re7 Rxd5 42.Rxa7 Rxb5 43.Rb7 Kh6
+44.a7 Ra5 45.Rxb6+ g6 46.Rb7 Kg5 47.Rg7  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "4"]
+[White "Tartakower, Saviely"]
+[Black "Lazard, Frederic"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E14"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.e3 b6 5.Bd3 Bb7 6.Nc3 g6 7.e4 cxd4 8.Nxd4 Nc6
+9.Be3 Bg7 10.f3 Ng4 11.Nxc6 Nxe3 12.Nxd8 Nxd1 13.Nxb7 Nxc3 14.bxc3 Bxc3+
+15.Ke2 Bxa1 16.Rxa1 f6 17.f4 Ke7 18.e5 fxe5 19.fxe5 Rac8 20.Rf1 Rhf8 21.Rxf8 Kxf8
+22.Ke3 Rc7 23.Nd6 Rc5 24.Kd4 Ra5 25.Bb1 Ra4 26.Kc3 Ra5 27.Kd4 Ra4 28.Kc3 Ra5  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "4"]
+[White "Frentz, M."]
+[Black "Baratz, Abraham"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D36"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.cxd5 exd5 7.Bd3 Be7 8.Nge2 Nf8
+9.Qc2 Bg4 10.Ng3 h6 11.Bxf6 Bxf6 12.h3 Bd7 13.Nh5 Ne6 14.Nxf6+ Qxf6 15.O-O-O b5
+16.Kb1 a5 17.Rc1 O-O 18.Rhf1 Rfb8 19.Ne2 b4 20.Qd2 Rc8 21.f4 Re8 22.Ng1 Qe7
+23.Nf3 Nd8 24.Ne5 f6 25.Nxd7 Qxd7 26.Rf3 Nf7 27.Qc2 Nd8 28.Bh7+ Kh8 29.Bf5 Qd6
+30.Qc5 Qxc5 31.Rxc5 Re7 32.Kc1 Rc7 33.Kd2 Nb7 34.Rc1 Kg8 35.Be6+ Kf8 36.Bxd5 Rac8
+37.Be4 Nd6 38.Bd3 c5 39.Rxc5 Rxc5 40.dxc5 Nb7 41.Rf1 Nxc5 42.Rc1 Ke7 43.Bf5 Rc7
+44.Ke2 Kd6 45.Rd1+ Kc6 46.Rd8 Na4 47.Rd2 Re7 48.g4 Nb6 49.Rd4 Na4 50.Rd2 Nb6
+51.Rc2+ Kd6 52.Rd2+ Kc5 53.Rc2+ Kd6 54.Kf3 Rc7 55.Rd2+ Ke7 56.h4 Rc1 57.h5 Ra1
+58.b3 Rc1 59.Ke4 Rc5 60.Kf3 Rc3 61.Rd1 a4 62.bxa4 Ra3 63.Rd4 Rxa4 64.Bb1 Nc8
+65.Rc4 Kd8 66.Rc5 Nd6 67.g5 Kd7 68.gxh6 gxh6 69.Rd5 Kc6 70.Rd2 Ra5 71.Rc2+ Kb6
+72.Rd2 Kc6 73.Rh2 Kb6 74.Bh7 Ra8 75.Rg2 Kc5 76.Bg8 Nf5 77.Rc2+ Kd6 78.Bb3 Re8
+79.Rd2+ Kc7 80.Rd3 Re7 81.e4 Ng7 82.Rd4 Nxh5 83.Rxb4 Rg7 84.Rb5 Rg3+ 85.Kf2 Rh3
+86.Rf5 Ng3 87.Kg2 Nxf5 88.Kxh3 Nd6 89.Bd5 Kb6 90.Kg4 f5+ 91.exf5 Ne8 92.Bh1 Nf6+
+93.Kf3 Kc5 94.Ke3 Kd6 95.a4 Kc5 96.a5 Ng4+ 97.Ke4 Nf2+ 98.Ke5 Nd3+ 99.Ke6 Nxf4+
+100.Ke5 Nh3 101.Bg2 Ng5 102.Bf1 h5 103.Kf6 Ne4+ 104.Ke5 Ng5 105.f6 h4 106.Kf5 Nf7
+107.Kg4 Kd6 108.Kxh4 Ne5 109.a6 Kc7 110.Kg5  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "4"]
+[White "Gromer, Aristide"]
+[Black "Lilienthal, Andor"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Be7 6.Bd3 Ngf6 7.Nxf6+ Nxf6 8.Be3 O-O
+9.Qd2 b6 10.h4 Bb7 11.Rh3 c5 12.O-O-O Bd5 13.Bh6 c4 14.Ne5 cxd3 15.Rg3 g6
+16.Bxf8 Qxf8 17.Qxd3 Rc8 18.Re3 Qh6 19.Qa6 Rc7 20.g3 Be4 21.Rd2 Bf5 22.Qa4 Nd5
+23.Qe8+ Bf8 24.Qd8 f6 25.Nd7 Rxd7 26.Qxd7 Nxe3 27.fxe3 Qxe3 28.Qc8 Qxg3 29.h5 Qe3
+30.a4 gxh5 31.d5 exd5 32.Qd8 Qg1+ 33.Rd1 Qc5 34.Rd2 Qd6 35.Qa8 Be4 36.a5 bxa5
+37.Kb1 h4 38.Qxa7 h3 39.Qg1+ Kh8 40.Qf1 h2 41.Rxh2 Qxh2 42.Qxf6+ Kg8 43.Qe6+ Kg7
+44.Qd7+ Kh6 45.Qe6+ Kg5 46.Qg8+ Kh4 47.Qxf8 Qxc2+ 48.Ka2 Qa4+ 49.Qa3 Qxa3+  0-1
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "4"]
+[White "Zuckerman, Bernard"]
+[Black "Raizman, Maurice"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Be7 6.Bd3 Ngf6 7.O-O O-O 8.c3 b6
+9.Qc2 Bb7 10.Bf4 h6 11.Rad1 Nd5 12.Bc1 Qc8 13.Qe2 Re8 14.Ne5 N5f6 15.Ng3 c5
+16.f4 Bf8 17.f5 cxd4 18.cxd4 exf5 19.Bxf5 Ba6 20.Qf2 Bxf1 21.Bxd7 Qc7 22.Bxe8 Rxe8
+23.Nxf1 Rxe5 24.dxe5 Qxe5 25.Be3  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "5"]
+[White "Lilienthal, Andor"]
+[Black "Frentz, M."]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D63"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 O-O 7.Rc1 c6 8.a3 a6
+9.Bd3 dxc4 10.Bxc4 b5 11.Ba2 c5 12.O-O Bb7 13.Qd2 cxd4 14.exd4 Nb6 15.Ne5 Nbd5
+16.Bb1 Rc8 17.Nxd5 Qxd5 18.Nf3 Bd6 19.Qd3 Ne4 20.Qxe4 Qxe4 21.Bxe4 Bxe4 22.Nd2 Bd5
+23.Nb1 Bc4 24.Rfe1 Rc7 25.Nc3 f5 26.Bd2 Rfc8 27.Nd1 Bb3 28.Rxc7 Rxc7 29.Ne3 Kf7
+30.Rc1 Rxc1+ 31.Bxc1 Ke7 32.g3 Kd7 33.Kf1 Kc6 34.f4 b4 35.axb4 Kb5 36.Bd2 Ka4
+37.Ke2 Bd5 38.Kd1 Kb3 39.Kc1 h5 40.Bc3 h4 41.Nc2 h3 42.Ne3 g6 43.Be1  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "5"]
+[White "Raizman, Maurice"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D63"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Nf3 Be7 5.Bg5 Nbd7 6.e3 O-O 7.Rc1 a6 8.cxd5 exd5
+9.Bd3 c6 10.O-O Re8 11.Bf4 Nf8 12.Qc2 Nh5 13.Be5 f6 14.Bg3 Nxg3 15.hxg3 Be6
+16.Ne2 g5 17.Kh2 Kg7 18.Rh1 Bf7 19.g4 Bg6 20.g3 Bxd3 21.Qxd3 Qd7 22.Qf5 Qxf5
+23.gxf5 a5 24.Kg2 a4 25.Nh2 Bd6 26.Ng4 Nd7 27.Rh2 Rh8 28.Rh6 Kf7 29.Rch1 Kg7
+30.f3 Ra6 31.Nc3 Bb4 32.Nd1 Be7 33.e4 c5 34.Nc3 dxe4 35.fxe4 cxd4 36.Nd5 Bd8
+37.Rd1 Re8 38.Rxd4 Ne5 39.Nde3 Bb6 40.Rb4 Bxe3 41.Rxb7+ Nf7 42.Nxe3 Kxh6
+43.Rxf7 Rxe4 44.Kf3 Rd4 45.Ng4+ Rxg4 46.Kxg4 Rb6 47.Kf3 Rxb2 48.Rxf6+ Kg7
+49.Ra6 Rb4 50.g4  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "5"]
+[White "Alekhine, Alexander"]
+[Black "Zuckerman, Bernard"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D63"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 O-O 7.Rc1 b6 8.cxd5 exd5
+9.Bb5 Bb7 10.O-O a6 11.Ba4 c5 12.Bxd7 Nxd7 13.Bxe7 Qxe7 14.dxc5 Qxc5 15.Nd4 Rac8
+16.Nf5 Kh8 17.Ne2 Qb4 18.Qd4 Qxd4 19.Nexd4 Rxc1 20.Rxc1 Nc5 21.Nd6 Ba8 22.b4 Nd3
+23.Rc7 Kg8 24.Nc8 Nxb4 25.Nxb6 Rb8 26.Nd7 Rd8 27.a3 Nd3 28.Ra7 Rc8 29.Kf1  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "5"]
+[White "Lazard, Frederic"]
+[Black "Gromer, Aristide"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A03"]
+
+1.f4 d5 2.Nf3 g6 3.b3 Bg7 4.Nc3 d4 5.Ne4 Bf5 6.Ng3 Qd6 7.Nxf5 gxf5 8.g3 Nc6
+9.Bb2 O-O-O 10.e3 Qc5 11.exd4 Nxd4 12.Nxd4 Bxd4 13.Bxd4 Qxd4 14.Bg2 Rd6 15.Bf3 Nf6
+16.c3 Qb6 17.Qc2 Re6+ 18.Kf1 Ne4 19.d3 Qe3 20.Bxe4 fxe4 21.dxe4 Rxe4 22.Kg2 Rd8
+23.Rad1 Qe2+ 24.Qxe2 Rxe2+ 25.Kf3 Rxd1 26.Rxd1 Rxh2 27.a4 h5 28.f5 h4 29.gxh4 Rxh4
+30.Kg3 Re4 31.Kf3 Re5 32.Kf4 f6 33.b4 a5 34.Rd2 b5 35.axb5 Rxb5 36.bxa5 Rxa5
+37.Re2 Kd7 38.Rd2+ Ke8 39.Rd4 Rc5 40.Rd3 Rc4+ 41.Kf3 e5 42.fxe6 Ke7 43.Re3 Rc6
+44.Kf4 Rxe6 45.Rd3 Re5 46.Rh3 Ke6 47.Rh8 Rc5 48.Re8+ Kd7 49.Re3 Kd6 50.Rf3 Ke6
+51.Ke4 Rc4+ 52.Kd3 Rh4 53.c4 c5 54.Re3+ Kd6 55.Rf3 Rd4+ 56.Kc3 Ke6 57.Rh3 Rg4
+58.Rh8 Rg3+ 59.Kd2 Ke5 60.Rd8 Ke4 61.Rd5 Rg5 62.Rd6 Rf5 63.Ke2 Ke5 64.Rd8 Kf4
+65.Rd6 Re5+ 66.Kf2 f5 67.Rc6 Ke4 68.Rd6 f4 69.Rf6 Rf5 70.Rd6 Rh5 71.Re6+ Kd4
+72.Kf3 Rh4 73.Re4+ Kd3 74.Re1 Kxc4 75.Rc1+ Kd4 76.Rd1+ Ke5 77.Re1+ Kd5 78.Rd1+ Kc6
+79.Rc1 Rh2 80.Kxf4 Re2 81.Kf3 Re7 82.Kf4 Re8 83.Rc2 Kd5 84.Rd2+ Kc4 85.Rd7 Kc3
+86.Rc7 c4 87.Kf3 Kd3 88.Rd7+ Kc2 89.Rc7 c3 90.Rd7 Kc1 91.Rc7 c2 92.Rb7 Kd1
+93.Rd7+ Ke1 94.Rc7 Re2 95.Rh7 Kd1  0-1
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "5"]
+[White "Baratz, Abraham"]
+[Black "Znosko Borovsky, Eugene "]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D63"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 Be7 6.Nf3 O-O 7.Rc1 c6 8.cxd5 exd5
+9.Bd3 Ne4 10.Bxe4 Bxg5 11.Bb1 Be7 12.O-O Bd6 13.Qc2 Nf6 14.e4 dxe4 15.Nxe4 Nxe4
+16.Qxe4 g6 17.Rfe1 Qa5 18.Qh4 Kg7 19.Ng5 h6 20.Ne4 g5 21.Qh5 Bb4 22.Re3 Bf5
+23.Nxg5 Bxb1 24.Rxb1 Qf5 25.Rf1 Bd6 26.f4 hxg5 27.Rg3 Be7 28.fxg5 Qg6 29.Qe2 Rae8
+30.Re3 Qd6 31.Re1 Rh8 32.h3 Qxd4 33.Kh1 Bd6 34.Rxe8 Rxe8 35.Qxe8 Qf4 36.Kg1 Bc5+
+37.Kh1 Bd6 38.Kg1 Bc5+  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "6"]
+[White "Raizman, Maurice"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A06"]
+
+1.Nf3 d5 2.b3 c5 3.Bb2 Nc6 4.e3 Bg4 5.Bb5 Rc8 6.O-O a6 7.Bxc6+ Rxc6 8.h3 Bxf3
+9.Qxf3 Nf6 10.d3 g6 11.e4 d4 12.Nd2 Bh6 13.Nc4 b5 14.Ne5 Re6 15.Ng4 Bd2 16.a4 Nd7
+17.axb5 h5 18.Ne3 axb5 19.Nd5 O-O 20.Qg3 Nf6 21.Nc7 Rb6 22.Ra7 c4 23.Qe5 c3
+24.Bc1 b4 25.Nd5 Nxd5 26.exd5 Rb5 27.Qxe7 Bxc1 28.Rxc1 Qxe7 29.Rxe7 Rd8 30.Ra1 Rdxd5
+31.Raa7 Rf5 32.Rad7 Ra5 33.Ra7 Rfe5 34.Rxf7 Rxa7 35.Rxa7 Re2 36.Ra2 h4 37.Kf1 Rd2
+38.Ke1 Kf7 39.Ra4 Rxc2 40.Rxb4 Rb2 41.Rc4 Rxb3 42.Ke2 Rb1 43.Kf3 Re1 44.Kf4 Ke6
+45.g4 hxg3 46.fxg3 Kd5 47.Rc8 Rd1 48.Rd8+ Ke6 49.Rc8 Rxd3  0-1
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "6"]
+[White "Tartakower, Saviely"]
+[Black "Gromer, Aristide"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A37"]
+
+1.c4 c5 2.Nc3 g6 3.g3 Nc6 4.Bg2 Bg7 5.d3 d6 6.Nf3 h6 7.h3 e5 8.Bd2 Be6 9.Rb1 Nge7
+10.e4 Qd7 11.a3 O-O 12.b4 Rab8 13.Nd5 f5 14.b5 Nd8 15.Nxe7+ Qxe7 16.Nh4 Qf7
+17.Qe2 f4 18.Nf3 g5 19.Ng1 h5 20.Bf3 g4 21.hxg4 hxg4 22.Bxg4 fxg3 23.Nh3 Qg6
+24.Bh5 gxf2+ 25.Nxf2 Qg2 26.Rf1 Bd7 27.Be3 Ne6 28.Bg4 Rf6 29.Bh3 Qg3 30.Kd2 Rbf8
+31.Bf5 Nd4 32.Bxd4 exd4 33.Ng4 R6f7 34.Bxd7 Rxd7 35.Rxf8+ Kxf8 36.Rf1+ Rf7
+37.Rxf7+ Kxf7 38.Qf2+ Qxf2+ 39.Nxf2 Kg6 40.Ke2 Be5 41.Kf3 Kh5 42.Nh3 Kg6
+43.Kg4 a5 44.Nf2 Bg7 45.a4 b6 46.Nh3 Bh6 47.Ng1 Bg7 48.Nf3 Bf6 49.Kf4 Kf7
+50.Kf5 Ke7 51.Nh2 Kf7 52.Nf3 Ke7 53.e5 dxe5 54.Nxe5 Bg7 55.Ng6+ Kd6 56.Nf4 Bh6
+57.Nd5 Bd2 58.Nxb6 Bc1 59.Nd5 Bd2 60.Nf6 Kc7 61.Ke6 Bb4 62.Nd5+ Kb7 63.Kd6 Ba3
+64.Nf6 Bb4 65.Nd7 Ba3 66.Kd5  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "7"]
+[White "Lazard, Frederic"]
+[Black "Znosko Borovsky, Eugene "]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C47"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Nxc6 bxc6 7.Bd3 d5 8.exd5 Qe7+
+9.Kf1 cxd5 10.Bg5 Bxc3 11.bxc3 O-O 12.Qf3 Re8 13.h3 Rb8 14.Kg1 h6 15.Bh4 Rb6
+16.Kh2 g5 17.Bg3 h5 18.Rhe1 Qxe1 19.Rxe1 Rxe1 20.Bxc7 Rc6 21.Qg3 g4 22.Be5 Nd7
+23.Bd4 Nf8 24.f3 Ree6 25.fxg4 hxg4 26.Bf5 Re8 27.Qh4 g3+ 28.Kxg3 f6 29.Bd3 Ree6
+30.Qh6 Rc7 31.Bxf6 Rb7 32.Qh8+ Kf7 33.Bg7 Ng6 34.Qxc8  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "7"]
+[White "Alekhine, Alexander"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B02"]
+
+1.e4 Nf6 2.e5 Nd5 3.Nf3 d6 4.Bc4 e6 5.d4 Nc6 6.O-O dxe5 7.dxe5 Nb6 8.Bd3 Nb4
+9.Bg5 Be7 10.Bxe7 Qxe7 11.Be4 O-O 12.c3 N4d5 13.Qc2 f5 14.exf6 gxf6 15.Nbd2 Bd7
+16.Rfe1 Rf7 17.Nc4 c6 18.Nxb6 Nxb6 19.Nd4 Kh8 20.Rad1 Rd8 21.Bf3 e5 22.Nf5 Bxf5
+23.Qxf5 Rff8 24.Rxd8 Rxd8 25.Rd1 Rxd1+ 26.Bxd1 e4 27.Bb3 e3 28.Kf1 exf2 29.Kxf2 Qe5
+30.Qg4 Qg5 31.Qxg5 fxg5 32.Kf3 Kg7  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "8"]
+[White "Zuckerman, Bernard"]
+[Black "Lazard, Frederic"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E12"]
+
+1.d4 Nf6 2.Nf3 b6 3.c4 e6 4.Nc3 Bb7 5.Bg5 Be7 6.Qc2 d6 7.e4 Nbd7 8.Be2 h6
+9.Bf4 O-O 10.e5 Ne8 11.O-O-O c6 12.h4 d5 13.Rh3 f5 14.exf6 Nexf6 15.Bxh6 gxh6
+16.Qg6+ Kh8 17.Bd3 Bd6 18.Qxh6+ Kg8 19.Qg6+ Kh8 20.Ne5 Bxe5 21.Qh6+ Kg8 22.dxe5 Nxe5
+23.Qg5+ Kf7 24.Qxe5 Qb8 25.Qe3 c5 26.Rf3 Qd8 27.Re1  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "8"]
+[White "Znosko Borovsky, Eugene "]
+[Black "Gromer, Aristide"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "B24"]
+
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nge2 e5 6.d3 h6 7.Be3 d6 8.h3 Be6 9.O-O Nge7
+10.Qd2 Qd7 11.Kh2 g5 12.Nd5 f5 13.Nxe7 Nxe7 14.exf5 Nxf5 15.c3 Nxe3 16.Qxe3 O-O-O
+17.b4 Kb8 18.bxc5 dxc5 19.Qxc5 Qxd3 20.Rad1 Qa6 21.Qe7 Rde8 22.Qxg7 Bc4 23.Rd7 e4
+24.Bxe4  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "8"]
+[White "Tartakower, Saviely"]
+[Black "Frentz, M."]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "A18"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.cxd5 exd5 5.e5 d4 6.exf6 dxc3 7.fxg7 cxd2+ 8.Bxd2 Bxg7
+9.Qc2 Nc6 10.Nf3 Bg4 11.O-O-O Bxf3 12.gxf3 Nd4 13.Qe4+ Qe7 14.Qxe7+ Kxe7
+15.Bb4+ Ke8 16.Bb5+ c6 17.Rhe1+ Ne6 18.Bc4 Rd8 19.Bxe6 Rxd1+ 20.Kxd1 fxe6
+21.Rxe6+ Kd8 22.Re7 Bxb2 23.Rxb7 Bd4 24.Bc5 Kc8 25.Rxa7 Kb8 26.Bxd4 Rd8 27.Rxh7 Rxd4+
+28.Ke2 Ra4 29.h4 Rxa2+ 30.Ke3 Kc8 31.h5 Kd8 32.h6 Ke8 33.Rc7 Kf8 34.h7 Ra3+
+35.Kf4  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "8"]
+[White "Alekhine, Alexander"]
+[Black "Baratz, Abraham"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "E54"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 e6 5.Nc3 Nf6 6.Nf3 Bb4 7.Bd3 dxc4 8.Bxc4 O-O
+9.O-O b6 10.Bg5 Bb7 11.Rc1 Nc6 12.Qd3 Be7 13.a3 Nd5 14.Bxd5 Bxg5 15.Nxg5 Qxg5
+16.Be4 g6 17.Qb5 Qxb5 18.Nxb5 Na5 19.Bxb7 Nxb7 20.Rc7 Rfb8 21.Re1 a6 22.Nc3 Nd6
+23.d5 Ne8 24.Rc6 exd5 25.Nxd5 b5 26.Nb6 Rxb6 27.Rxb6 Kf8 28.Rc1 Ra7 29.Rb8 Re7
+30.Kf1 Re6 31.Re1 Ke7 32.Rxe6+ fxe6 33.Rb7+ Kd6 34.Rxh7 a5 35.Rh6 Kd5 36.Rxg6 Nd6
+37.h4 Nc4 38.h5  1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "9"]
+[White "Frentz, M."]
+[Black "Znosko Borovsky, Eugene "]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D17"]
+
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 Na6 7.f3 Nd7 8.Nxc4 e5
+9.e4 exd4 10.Qxd4 Nb4 11.Bd3 Nc5 12.Qxd8+ Rxd8 13.Bb1 Be6 14.Nd2 Ncd3+ 15.Bxd3 Nxd3+
+16.Ke2 Nf4+ 17.Kf1 Bc5 18.g3 Nd3 19.Ke2 O-O 20.a5 Rd7 21.Ra4 Rfd8 22.Nc4 b5
+23.axb6 axb6 24.Ne3 Nxc1+  0-1
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "9"]
+[White "Baratz, Abraham"]
+[Black "Tartakower, Saviely"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "D65"]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Nbd7 6.Nf3 O-O 7.Rc1 a6 8.cxd5 exd5
+9.Bd3 c6 10.Qc2 Re8 11.O-O Nf8 12.Ne5 Ne4 13.Bxe7 Qxe7 14.Nxe4 dxe4 15.Bc4 Be6
+16.Bxe6 Qxe6 17.Qc4 f6 18.Qxe6+ Nxe6 19.Nd7 Rad8 20.Nc5 Nxc5 21.Rxc5 Re7
+22.Rfc1 Kf7 23.R1c2 Ke6 24.Kf1 Red7 25.Ke2 Rd5 26.Kd2 Rxc5 27.Rxc5 Kd6 28.b4 b6
+29.Rc3 Ra8 30.Ra3 Kd5  1/2-1/2
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1933.??.??"]
+[Round "9"]
+[White "Lilienthal, Andor"]
+[Black "Alekhine, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C79"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Nf6 6.O-O Bd7 7.d4 Nxe4 8.Re1 Nf6
+9.dxe5 dxe5 10.Bxc6 Bxc6 11.Qxd8+ Kxd8 12.Nxe5 Bd5 13.Bg5 Be6 14.Nd2 h6 15.Bxf6+ gxf6
+16.Ng6 Rg8 17.Nxf8 Rxf8  1/2-1/2
