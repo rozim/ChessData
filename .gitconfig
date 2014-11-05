@@ -1,5 +1,5 @@
 # This is Git's per-user configuration file.
 [core]
 # Please adapt and uncomment the following lines:
-#	user = Dave Spencer
-#	email = david.spencerian@google.com
+	user = Dave Spencer
+	email = david.spencerian@google.com
