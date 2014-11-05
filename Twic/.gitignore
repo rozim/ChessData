@@ -1,1 +1,6 @@
+*.zip
 *~
+*.out
+*.err
+polyglot.bin
+
