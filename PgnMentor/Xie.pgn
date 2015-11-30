@@ -12644,19 +12644,18 @@
 [Site "Taby SWE"]
 [Date "2007.08.09"]
 [Round "?"]
-[White "Engfeldt,Jan"]
+[White "Johansson,Ch"]
 [Black "Xie Jun"]
 [Result "1/2-1/2"]
-[WhiteElo ""]
+[WhiteElo "2136"]
 [BlackElo "2573"]
-[ECO "A03"]
+[ECO "D03"]
 
-1.f4 d5 2.Nf3 g6 3.e3 Bg7 4.Be2 Nd7 5.d4 Ngf6 6.O-O O-O 7.Qe1 c5 8.c3 Ne4
-9.Nbd2 Ndf6 10.Ne5 Nxd2 11.Bxd2 Ne4 12.Rd1 f6 13.Nf3 Be6 14.Bc1 Bf7 15.Qh4 Rc8
-16.g4 Qa5 17.a3 Qa4 18.g5 b5 19.gxf6 exf6 20.dxc5 Rxc5 21.Nd4 f5 22.Bd3 Qa6
-23.Kh1 Qb6 24.Rg1 a5 25.Rg2 b4 26.axb4 axb4 27.Rdg1 Bxd4 28.cxd4 Rc7 29.Qe1 Kg7
-30.Bd2 Rb8 31.Qb1 Be8 32.Rc1 Rbc8 33.Rxc7+ Rxc7 34.Be1 Bb5 35.Bxe4 dxe4 36.Bxb4 Bf1
-37.Qxf1 Qxb4  1/2-1/2
+1.d4 g6 2.Nf3 Bg7 3.c3 Nf6 4.Bg5 O-O 5.Nbd2 d5 6.e3 Nbd7 7.Bd3 Qe8 8.Bf4 c6
+9.h3 Nh5 10.O-O e5 11.dxe5 Nxe5 12.Nxe5 Bxe5 13.Bxe5 Qxe5 14.Re1 Nf6 15.e4 dxe4
+16.Nxe4 Nxe4 17.Rxe4 Qc7 18.Qe1 Be6 19.Qe2 Rad8 20.Bc4 Bxc4 21.Qxc4 Rd2 22.Re2 Rfd8
+23.Rae1 Rxe2 24.Qxe2 Rd5 25.c4 Rd4 26.b3 Qd6 27.Qe7 Qd7 28.Qe8+ Kg7 29.Qe5+ Kg8
+30.Qb8+ Kg7 31.Qxa7 Rd2 32.a4 Qf5 33.Qe3 Rd3 34.Qb6 Rd2 35.Qe3  1/2-1/2
 
 [Event "SCT Simul"]
 [Site "Taby SWE"]
@@ -12699,16 +12698,17 @@
 [Site "Taby SWE"]
 [Date "2007.08.09"]
 [Round "?"]
-[White "Johansson,Ch"]
+[White "Engfeldt,Jan"]
 [Black "Xie Jun"]
 [Result "1/2-1/2"]
-[WhiteElo "2136"]
+[WhiteElo ""]
 [BlackElo "2573"]
-[ECO "D03"]
+[ECO "A03"]
 
-1.d4 g6 2.Nf3 Bg7 3.c3 Nf6 4.Bg5 O-O 5.Nbd2 d5 6.e3 Nbd7 7.Bd3 Qe8 8.Bf4 c6
-9.h3 Nh5 10.O-O e5 11.dxe5 Nxe5 12.Nxe5 Bxe5 13.Bxe5 Qxe5 14.Re1 Nf6 15.e4 dxe4
-16.Nxe4 Nxe4 17.Rxe4 Qc7 18.Qe1 Be6 19.Qe2 Rad8 20.Bc4 Bxc4 21.Qxc4 Rd2 22.Re2 Rfd8
-23.Rae1 Rxe2 24.Qxe2 Rd5 25.c4 Rd4 26.b3 Qd6 27.Qe7 Qd7 28.Qe8+ Kg7 29.Qe5+ Kg8
-30.Qb8+ Kg7 31.Qxa7 Rd2 32.a4 Qf5 33.Qe3 Rd3 34.Qb6 Rd2 35.Qe3  1/2-1/2
+1.f4 d5 2.Nf3 g6 3.e3 Bg7 4.Be2 Nd7 5.d4 Ngf6 6.O-O O-O 7.Qe1 c5 8.c3 Ne4
+9.Nbd2 Ndf6 10.Ne5 Nxd2 11.Bxd2 Ne4 12.Rd1 f6 13.Nf3 Be6 14.Bc1 Bf7 15.Qh4 Rc8
+16.g4 Qa5 17.a3 Qa4 18.g5 b5 19.gxf6 exf6 20.dxc5 Rxc5 21.Nd4 f5 22.Bd3 Qa6
+23.Kh1 Qb6 24.Rg1 a5 25.Rg2 b4 26.axb4 axb4 27.Rdg1 Bxd4 28.cxd4 Rc7 29.Qe1 Kg7
+30.Bd2 Rb8 31.Qb1 Be8 32.Rc1 Rbc8 33.Rxc7+ Rxc7 34.Be1 Bb5 35.Bxe4 dxe4 36.Bxb4 Bf1
+37.Qxf1 Qxb4  1/2-1/2
 

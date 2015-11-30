@@ -245,6 +245,22 @@
 [Site "Kiljava"]
 [Date "1984.??.??"]
 [Round "?"]
+[White "Wolff, Patrick G"]
+[Black "Gunawan, Ruben"]
+[Result "1-0"]
+[WhiteElo "2225"]
+[BlackElo ""]
+[ECO "B99"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7
+9.O-O-O Nbd7 10.g4 b5 11.Bxf6 Nxf6 12.g5 Nd7 13.f5 Nc5 14.f6 gxf6 15.gxf6 Bf8
+16.Nf5 exf5 17.Nd5 Qc6 18.exf5 Nd7 19.Bg2 Bb7 20.Rhe1+ Kd8 21.Qe3 Ne5 22.Ne7 Qxg2
+23.Rxd6+ Ke8 24.Qxe5 Bh6+ 25.Kb1 Kf8 26.Red1 Re8 27.Rd8  1-0
+
+[Event "Wch U20"]
+[Site "Kiljava"]
+[Date "1984.??.??"]
+[Round "?"]
 [White "Wells, Peter K"]
 [Black "Wolff, Patrick G"]
 [Result "1-0"]
@@ -274,22 +290,6 @@
 1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.e5 Nfd7 7.h4 c5 8.e6 fxe6
 9.h5 gxh5 10.Rxh5 Nf6 11.Rh4 Nc6 12.Be3 Qa5 13.Bd3 cxd4 14.Nxd4 Nxd4 15.Bxd4 e5
 16.fxe5 dxe5 17.Be3 e4 18.Bc4+ Kh8 19.Qd4 Bg4 20.Bb3 Rac8 21.Bd2 Qa6 22.Qe3 Nd5  0-1
-
-[Event "Wch U20"]
-[Site "Kiljava"]
-[Date "1984.??.??"]
-[Round "?"]
-[White "Wolff, Patrick G"]
-[Black "Gunawan, Ruben"]
-[Result "1-0"]
-[WhiteElo "2225"]
-[BlackElo ""]
-[ECO "B99"]
-
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7
-9.O-O-O Nbd7 10.g4 b5 11.Bxf6 Nxf6 12.g5 Nd7 13.f5 Nc5 14.f6 gxf6 15.gxf6 Bf8
-16.Nf5 exf5 17.Nd5 Qc6 18.exf5 Nd7 19.Bg2 Bb7 20.Rhe1+ Kd8 21.Qe3 Ne5 22.Ne7 Qxg2
-23.Rxd6+ Ke8 24.Qxe5 Bh6+ 25.Kb1 Kf8 26.Red1 Re8 27.Rd8  1-0
 
 [Event "USA-ch"]
 [Site "Estes Park"]
@@ -1022,6 +1022,23 @@
 [Site "?"]
 [Date "1986.??.??"]
 [Round "?"]
+[White "Gurevich, Ilya"]
+[Black "Wolff, Patrick G"]
+[Result "1-0"]
+[WhiteElo "2295"]
+[BlackElo "2370"]
+[ECO "B09"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Bd3 Na6 7.O-O c5 8.d5 Rb8
+9.Kh1 Bg4 10.Bc4 Nc7 11.a4 a6 12.a5 Nb5 13.Qd3 Nxc3 14.bxc3 e6 15.dxe6 fxe6
+16.h3 d5 17.hxg4 Nxe4 18.Qe3 Qd6 19.Rb1 g5 20.Nd2 Nxd2 21.Qxd2 gxf4 22.Be2 Qd8
+23.Rb6 e5 24.c4 Qh4+ 25.Kg1 e4 26.Qxd5+ Rf7 27.Rb3 Rd8 28.Qe6 Rd3 29.Be3 Rxe3
+30.Rxf4 Bf6 31.Rxf6  1-0
+
+[Event "USA-chJ"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "?"]
 [White "Wolff, Patrick G"]
 [Black "Litvinchuk, John"]
 [Result "1/2-1/2"]
@@ -1067,18 +1084,21 @@
 [Site "?"]
 [Date "1986.??.??"]
 [Round "?"]
-[White "Gurevich, Ilya"]
-[Black "Wolff, Patrick G"]
+[White "Wolff, Patrick G"]
+[Black "Shtern, Igor"]
 [Result "1-0"]
-[WhiteElo "2295"]
-[BlackElo "2370"]
-[ECO "B09"]
+[WhiteElo "2370"]
+[BlackElo "2295"]
+[ECO "B33"]
 
-1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Bd3 Na6 7.O-O c5 8.d5 Rb8
-9.Kh1 Bg4 10.Bc4 Nc7 11.a4 a6 12.a5 Nb5 13.Qd3 Nxc3 14.bxc3 e6 15.dxe6 fxe6
-16.h3 d5 17.hxg4 Nxe4 18.Qe3 Qd6 19.Rb1 g5 20.Nd2 Nxd2 21.Qxd2 gxf4 22.Be2 Qd8
-23.Rb6 e5 24.c4 Qh4+ 25.Kg1 e4 26.Qxd5+ Rf7 27.Rb3 Rd8 28.Qe6 Rd3 29.Be3 Rxe3
-30.Rxf4 Bf6 31.Rxf6  1-0
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 Be6
+9.Nc4 Nd4 10.Bxf6 gxf6 11.Ne3 Bh6 12.Bd3 Bxe3 13.fxe3 Nc6 14.Qf3 Ne7 15.Qxf6 Rg8
+16.Qf2 Qb6 17.O-O-O O-O-O 18.Rhg1 Kb8 19.a3 Rc8 20.Qd2 Rgd8 21.Rge1 Qc6 22.Qf2 Rc7
+23.Qf3 Rdc8 24.Rd2 Qc5 25.Red1 Qa5 26.Nd5 Nxd5 27.exd5 Bxd5 28.Be4 Bxe4 29.Qxe4 Qc5
+30.c3 f5 31.Qxf5 Qxe3 32.Kb1 Qh6 33.Rxd6 Qxh2 34.Qg5 Rc6 35.Rd7 h6 36.Qe7 Rb6
+37.Rd8 Rxd8 38.Rxd8+ Ka7 39.Qf8 Qg1+ 40.Ka2 Rc6 41.Ra8+ Kb6 42.Qb4+ Kc7 43.Qe7+ Kb6
+44.Qb4+ Kc7 45.Qa5+ Kd6 46.Rd8+ Ke7 47.Qd5 Qc5 48.Rd7+ Kf6 49.Qf3+ Kg6 50.Qg4+ Kf6
+51.Qg7+ Kf5 52.Rf7+ Ke4 53.Qh7+ Ke3 54.Rf3+  1-0
 
 [Event "USA-chJ"]
 [Site "?"]
@@ -1119,26 +1139,6 @@
 [Site "?"]
 [Date "1986.??.??"]
 [Round "?"]
-[White "Wolff, Patrick G"]
-[Black "Shtern, Igor"]
-[Result "1-0"]
-[WhiteElo "2370"]
-[BlackElo "2295"]
-[ECO "B33"]
-
-1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 Be6
-9.Nc4 Nd4 10.Bxf6 gxf6 11.Ne3 Bh6 12.Bd3 Bxe3 13.fxe3 Nc6 14.Qf3 Ne7 15.Qxf6 Rg8
-16.Qf2 Qb6 17.O-O-O O-O-O 18.Rhg1 Kb8 19.a3 Rc8 20.Qd2 Rgd8 21.Rge1 Qc6 22.Qf2 Rc7
-23.Qf3 Rdc8 24.Rd2 Qc5 25.Red1 Qa5 26.Nd5 Nxd5 27.exd5 Bxd5 28.Be4 Bxe4 29.Qxe4 Qc5
-30.c3 f5 31.Qxf5 Qxe3 32.Kb1 Qh6 33.Rxd6 Qxh2 34.Qg5 Rc6 35.Rd7 h6 36.Qe7 Rb6
-37.Rd8 Rxd8 38.Rxd8+ Ka7 39.Qf8 Qg1+ 40.Ka2 Rc6 41.Ra8+ Kb6 42.Qb4+ Kc7 43.Qe7+ Kb6
-44.Qb4+ Kc7 45.Qa5+ Kd6 46.Rd8+ Ke7 47.Qd5 Qc5 48.Rd7+ Kf6 49.Qf3+ Kg6 50.Qg4+ Kf6
-51.Qg7+ Kf5 52.Rf7+ Ke4 53.Qh7+ Ke3 54.Rf3+  1-0
-
-[Event "USA-chJ"]
-[Site "?"]
-[Date "1986.??.??"]
-[Round "?"]
 [White "Rachels, Stuart"]
 [Black "Wolff, Patrick G"]
 [Result "1/2-1/2"]
@@ -1170,6 +1170,24 @@
 23.Ne5 Rxb4 24.Rxb4 Nxb4 25.Nc4 Qxd4 26.Rxd4 Na6 27.Nd6 Rd8 28.Rc4 e5 29.Rc1 g6
 30.Bf1 b5 31.Bg2 Bd7 32.e4 Kg7 33.exf5 gxf5 34.f4 exf4 35.gxf4 Rb8 36.Kf2 Kf6
 37.Ke3 h6 38.Kd4 Nc7 39.Bh3 Ra8 40.Bg2 Ne6+ 41.Ke3  0-1
+
+[Event "Wch U20"]
+[Site "Baguio"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Stefansson, Hannes"]
+[Black "Wolff, Patrick G"]
+[Result "0-1"]
+[WhiteElo "2335"]
+[BlackElo "2370"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O O-O 8.c4 c6
+9.Nc3 Nxc3 10.bxc3 dxc4 11.Bxc4 Bg4 12.h3 Bh5 13.Re1 Nd7 14.g4 Bg6 15.Ne5 Bxe5
+16.dxe5 Nxe5 17.Qxd8 Nf3+ 18.Kf1 Rfxd8 19.Re3 b5 20.Be2 Nd2+ 21.Bxd2 Rxd2
+22.Bf3 Rd6 23.a4 bxa4 24.Rxa4 Kf8 25.Be4 Re6 26.Bxg6 Rxe3 27.fxe3 hxg6 28.Ra6 Ke7
+29.Rxc6 a5 30.Rb6 a4 31.Ke2 a3 32.Rb1 Kd6 33.Kd3 a2 34.Ra1 Kc5 35.e4 g5 36.e5 Ra4
+37.Kc2 Kc4 38.Kb2 Ra5 39.Kc2 Rxe5  0-1
 
 [Event "Wch U20"]
 [Site "Baguio"]
@@ -1272,24 +1290,6 @@
 31.g3 Kd6 32.f4 exf4 33.gxf4 c5 34.Rb5 Kc6 35.h4 Ra7 36.Rb8 Ra8 37.Rxa8 Rxa8
 38.h5 Rg8 39.hxg6 Rxg6 40.Rh1 Rg2+ 41.Kd3 Rg3+ 42.Kc2 Rg2 43.Kd1 Rg3 44.Rh6 Rxc3
 45.e5 Kd5 46.exf6 Ke6 47.Ne4 Rc4 48.Ng5+ Kd6 49.f7+  1-0
-
-[Event "Wch U20"]
-[Site "Baguio"]
-[Date "1987.??.??"]
-[Round "?"]
-[White "Stefansson, Hannes"]
-[Black "Wolff, Patrick G"]
-[Result "0-1"]
-[WhiteElo "2335"]
-[BlackElo "2370"]
-[ECO "C42"]
-
-1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O O-O 8.c4 c6
-9.Nc3 Nxc3 10.bxc3 dxc4 11.Bxc4 Bg4 12.h3 Bh5 13.Re1 Nd7 14.g4 Bg6 15.Ne5 Bxe5
-16.dxe5 Nxe5 17.Qxd8 Nf3+ 18.Kf1 Rfxd8 19.Re3 b5 20.Be2 Nd2+ 21.Bxd2 Rxd2
-22.Bf3 Rd6 23.a4 bxa4 24.Rxa4 Kf8 25.Be4 Re6 26.Bxg6 Rxe3 27.fxe3 hxg6 28.Ra6 Ke7
-29.Rxc6 a5 30.Rb6 a4 31.Ke2 a3 32.Rb1 Kd6 33.Kd3 a2 34.Ra1 Kc5 35.e4 g5 36.e5 Ra4
-37.Kc2 Kc4 38.Kb2 Ra5 39.Kc2 Rxe5  0-1
 
 [Event "Wch U20"]
 [Site "Baguio"]
@@ -1400,18 +1400,18 @@
 [Site "New York"]
 [Date "1987.??.??"]
 [Round "?"]
-[White "De Firmian, Nick E"]
+[White "Petursson, Margeir"]
 [Black "Wolff, Patrick G"]
-[Result "1-0"]
-[WhiteElo "2500"]
+[Result "0-1"]
+[WhiteElo "2535"]
 [BlackElo "2430"]
-[ECO "D82"]
+[ECO "A57"]
 
-1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 c5 6.dxc5 Qa5 7.Rc1 dxc4 8.Bxc4 O-O
-9.Ne2 Qxc5 10.Nb5 Qb4+ 11.Kf1 Ne4 12.a3 Nd2+ 13.Kg1 Qxb2 14.Rc2 Nxc4 15.Rxb2 Nxb2
-16.Qc2 Na6 17.Nbd4 e5 18.Qxb2 Nc5 19.h4 Nd3 20.Qb5 Nxf4 21.Nxf4 exf4 22.h5 fxe3
-23.fxe3 Bg4 24.Qg5 gxh5 25.Nf5 Bxf5 26.Qxf5 Rfe8 27.Rxh5 h6 28.Rh3 Rad8 29.Rg3 Rd6
-30.Qc5 Rd1+ 31.Kf2 Red8 32.Kf3 b6 33.Qe5 f6 34.Qe7  1-0
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3 b4 5.Nbd2 d6 6.a3 bxa3 7.Rxa3 e5 8.dxe6 fxe6
+9.g3 Nc6 10.Bg2 Qc7 11.Ng5 Be7 12.Qa4 d5 13.Re3 O-O 14.Nxe6 Bxe6 15.Rxe6 Nd4
+16.Ra6 Qe5 17.e3 Ng4 18.Bxd5+ Kh8 19.Ne4 Nf3+ 20.Ke2 Rae8 21.Qd7 Qh5 22.h3 Nfe5
+23.Qe6 Nxf2+ 24.g4 Nfxg4 25.hxg4 Qxh1 26.Qxe5 Qxc1 27.g5 Rb8 28.Ra2 Qb1 29.Qxe7 Qxa2
+30.Nd6 Rxb2+  0-1
 
 [Event "New York op"]
 [Site "New York"]
@@ -1555,6 +1555,23 @@
 [Site "New York"]
 [Date "1987.??.??"]
 [Round "?"]
+[White "De Firmian, Nick E"]
+[Black "Wolff, Patrick G"]
+[Result "1-0"]
+[WhiteElo "2500"]
+[BlackElo "2430"]
+[ECO "D82"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 c5 6.dxc5 Qa5 7.Rc1 dxc4 8.Bxc4 O-O
+9.Ne2 Qxc5 10.Nb5 Qb4+ 11.Kf1 Ne4 12.a3 Nd2+ 13.Kg1 Qxb2 14.Rc2 Nxc4 15.Rxb2 Nxb2
+16.Qc2 Na6 17.Nbd4 e5 18.Qxb2 Nc5 19.h4 Nd3 20.Qb5 Nxf4 21.Nxf4 exf4 22.h5 fxe3
+23.fxe3 Bg4 24.Qg5 gxh5 25.Nf5 Bxf5 26.Qxf5 Rfe8 27.Rxh5 h6 28.Rh3 Rad8 29.Rg3 Rd6
+30.Qc5 Rd1+ 31.Kf2 Red8 32.Kf3 b6 33.Qe5 f6 34.Qe7  1-0
+
+[Event "New York op"]
+[Site "New York"]
+[Date "1987.??.??"]
+[Round "?"]
 [White "Wolff, Patrick G"]
 [Black "Morovic Fernandez, Ivan"]
 [Result "1/2-1/2"]
@@ -1568,23 +1585,6 @@
 23.Nf4 Re8 24.Nxd5 Rxe5 25.Ne3 Rbe8 26.Rd6 R5e6 27.Rxe6 Rxe6 28.Rd8+ Re8
 29.Rd6 Rc8 30.Kc3 Kf8 31.Kc4 g6 32.Nd5 b5+ 33.Kd3 Bxd5 34.Rxd5 Ke7 35.Ke4 Rc6
 36.g4 Re6+ 37.Kf3 Rf6+ 38.Kg3 Rc6 39.f4 b4 40.a4 c4 41.Ra5 a6 42.f5  1/2-1/2
-
-[Event "New York op"]
-[Site "New York"]
-[Date "1987.??.??"]
-[Round "?"]
-[White "Petursson, Margeir"]
-[Black "Wolff, Patrick G"]
-[Result "0-1"]
-[WhiteElo "2535"]
-[BlackElo "2430"]
-[ECO "A57"]
-
-1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3 b4 5.Nbd2 d6 6.a3 bxa3 7.Rxa3 e5 8.dxe6 fxe6
-9.g3 Nc6 10.Bg2 Qc7 11.Ng5 Be7 12.Qa4 d5 13.Re3 O-O 14.Nxe6 Bxe6 15.Rxe6 Nd4
-16.Ra6 Qe5 17.e3 Ng4 18.Bxd5+ Kh8 19.Ne4 Nf3+ 20.Ke2 Rae8 21.Qd7 Qh5 22.h3 Nfe5
-23.Qe6 Nxf2+ 24.g4 Nfxg4 25.hxg4 Qxh1 26.Qxe5 Qxc1 27.g5 Rb8 28.Ra2 Qb1 29.Qxe7 Qxa2
-30.Nd6 Rxb2+  0-1
 
 [Event "New York op"]
 [Site "New York"]
@@ -1704,6 +1704,21 @@
 [Site "Philadelphia"]
 [Date "1987.??.??"]
 [Round "?"]
+[White "Lief, Adam"]
+[Black "Wolff, Patrick G"]
+[Result "0-1"]
+[WhiteElo "2280"]
+[BlackElo "2380"]
+[ECO "D77"]
+
+1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d5 6.O-O dxc4 7.Ne5 c5 8.dxc5 Qc7
+9.Nxc4 Qxc5 10.Nba3 Nc6 11.h3 Rd8 12.Bd2 Bf5 13.Qa4 Be4 14.Be3 Nd4 15.Bxd4 Rxd4
+16.e3 Rd5 17.b4 Qc8 18.Rac1 Bxg2 19.Kxg2 b5 20.Nxb5 Qb7  0-1
+
+[Event "Philadelphia op"]
+[Site "Philadelphia"]
+[Date "1987.??.??"]
+[Round "?"]
 [White "Wolff, Patrick G"]
 [Black "Browne, Walter S"]
 [Result "1-0"]
@@ -1724,21 +1739,6 @@
 [Site "Philadelphia"]
 [Date "1987.??.??"]
 [Round "?"]
-[White "Lief, Adam"]
-[Black "Wolff, Patrick G"]
-[Result "0-1"]
-[WhiteElo "2280"]
-[BlackElo "2380"]
-[ECO "D77"]
-
-1.d4 Nf6 2.c4 g6 3.Nf3 Bg7 4.g3 O-O 5.Bg2 d5 6.O-O dxc4 7.Ne5 c5 8.dxc5 Qc7
-9.Nxc4 Qxc5 10.Nba3 Nc6 11.h3 Rd8 12.Bd2 Bf5 13.Qa4 Be4 14.Be3 Nd4 15.Bxd4 Rxd4
-16.e3 Rd5 17.b4 Qc8 18.Rac1 Bxg2 19.Kxg2 b5 20.Nxb5 Qb7  0-1
-
-[Event "Philadelphia op"]
-[Site "Philadelphia"]
-[Date "1987.??.??"]
-[Round "?"]
 [White "Gulko, Boris F"]
 [Black "Wolff, Patrick G"]
 [Result "1/2-1/2"]
@@ -1750,24 +1750,6 @@
 9.Be3 Nc6 10.Qa4 Ng4 11.Bf4 Bc5 12.Qb5 Qe7 13.Nc3 Rd8 14.Rac1 h6 15.Na4 Bd6
 16.Bxd6 Rxd6 17.e3 Bf5 18.Nc5 b6 19.Nb3 Nce5 20.Nxe5 Nxe5 21.Rc3 Bd3 22.Rxd3 a6
 23.Qxd5 Rxd5 24.Rxd5 Rc8 25.Nd4 g6  1/2-1/2
-
-[Event "USA-chJ"]
-[Site "USA"]
-[Date "1987.??.??"]
-[Round "?"]
-[White "Wolff, Patrick G"]
-[Black "Fishbein, Alexander"]
-[Result "1-0"]
-[WhiteElo "2380"]
-[BlackElo "2410"]
-[ECO "C80"]
-
-1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
-9.Be3 Nc5 10.c3 Nxb3 11.axb3 Bg4 12.Bf4 Be7 13.h3 Bh5 14.Nbd2 O-O 15.Qe2 Qc8
-16.Qe3 h6 17.b4 a5 18.bxa5 Nxa5 19.Nd4 c5 20.Nxb5 Qc6 21.Nd6 Bg6 22.b4 cxb4
-23.cxb4 Nc4 24.Qc5 Qxc5 25.bxc5 Bd3 26.Rxa8 Rxa8 27.Rc1 g5 28.N2xc4 dxc4
-29.Be3 Ra6 30.Nxc4 f6 31.Nb6 Bd8 32.e6 Bf5 33.e7 Bxe7 34.c6 Kf7 35.c7 Bd6
-36.c8=Q Bxc8 37.Nxc8 Be5 38.Nb6 Kg6 39.Nd5 Rd6 40.Ne7+ Kh7 41.Nf5 Rd7 42.g4  1-0
 
 [Event "USA-chJ"]
 [Site "USA"]
@@ -1876,6 +1858,24 @@
 37.Kc2 g5 38.b4 Nb6 39.Kc3 Rd7 40.Be5+ Kh7 41.c5 Nd5+ 42.Kc4 a6 43.a4 Kg6
 44.b5 axb5+ 45.axb5 Kf5 46.c6 bxc6 47.bxc6 Rd8 48.Kc5 Ne7 49.Bc7 Nxc6 50.Kxc6 Rd2
 51.Rg1 h5 52.g4+ hxg4 53.Bg3 Ke4 54.Bd6 Kf5 55.Kd7 Re2 56.Rf1+  1-0
+
+[Event "USA-chJ"]
+[Site "USA"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Wolff, Patrick G"]
+[Black "Fishbein, Alexander"]
+[Result "1-0"]
+[WhiteElo "2380"]
+[BlackElo "2410"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.Be3 Nc5 10.c3 Nxb3 11.axb3 Bg4 12.Bf4 Be7 13.h3 Bh5 14.Nbd2 O-O 15.Qe2 Qc8
+16.Qe3 h6 17.b4 a5 18.bxa5 Nxa5 19.Nd4 c5 20.Nxb5 Qc6 21.Nd6 Bg6 22.b4 cxb4
+23.cxb4 Nc4 24.Qc5 Qxc5 25.bxc5 Bd3 26.Rxa8 Rxa8 27.Rc1 g5 28.N2xc4 dxc4
+29.Be3 Ra6 30.Nxc4 f6 31.Nb6 Bd8 32.e6 Bf5 33.e7 Bxe7 34.c6 Kf7 35.c7 Bd6
+36.c8=Q Bxc8 37.Nxc8 Be5 38.Nb6 Kg6 39.Nd5 Rd6 40.Ne7+ Kh7 41.Nf5 Rd7 42.g4  1-0
 
 [Event "USA-chJ"]
 [Site "USA"]
@@ -2152,6 +2152,22 @@
 [Date "1988.??.??"]
 [Round "?"]
 [White "Wolff, Patrick G"]
+[Black "Vinke, Dietmar"]
+[Result "1-0"]
+[WhiteElo "2500"]
+[BlackElo "2315"]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.Bc4 c6 4.d4 Nd7 5.O-O Be7 6.dxe5 dxe5 7.Ng5 Bxg5 8.Qh5 Qe7
+9.Qxg5 Qxg5 10.Bxg5 Nc5 11.Nd2 Ne6 12.Be3 Nf6 13.Nf3 Nxe4 14.Nxe5 Nd6 15.Bd3 f6
+16.Nf3 O-O 17.Rad1 Nf7 18.Rfe1 Rd8 19.a4 Nc7 20.h3 b6 21.a5 bxa5 22.Ra1 Nd5
+23.Bc5 Nd6 24.Nd4 Bb7 25.Rxa5 Nf4 26.Bf1 a6 27.f3 Nb5 28.Nf5  1-0
+
+[Event "Gausdal Int"]
+[Site "Gausdal"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Wolff, Patrick G"]
 [Black "Rolvaag, Mikael"]
 [Result "1-0"]
 [WhiteElo "2500"]
@@ -2165,22 +2181,6 @@
 30.Rxe1 Ne6 31.Bxb7 Qxb7 32.Nh6+ Kf8 33.Rxe6 fxe6 34.Qh8+ Ke7 35.Qxh7+ Kd6
 36.Nf7+ Kc6 37.Ne5+ Kd5 38.Ndc4 Nf4 39.Qd7+ Ke4 40.f3+ Kf5 41.g4+ Kf6 42.Qf7+ Kg5
 43.Qe7+ Kh6 44.g5+ Kh5 45.Qh7+ Kxg5 46.h4+ Kf6 47.Qf7+  1-0
-
-[Event "Gausdal Int"]
-[Site "Gausdal"]
-[Date "1988.??.??"]
-[Round "?"]
-[White "Wolff, Patrick G"]
-[Black "Vinke, Dietmar"]
-[Result "1-0"]
-[WhiteElo "2500"]
-[BlackElo "2315"]
-[ECO "C41"]
-
-1.e4 e5 2.Nf3 d6 3.Bc4 c6 4.d4 Nd7 5.O-O Be7 6.dxe5 dxe5 7.Ng5 Bxg5 8.Qh5 Qe7
-9.Qxg5 Qxg5 10.Bxg5 Nc5 11.Nd2 Ne6 12.Be3 Nf6 13.Nf3 Nxe4 14.Nxe5 Nd6 15.Bd3 f6
-16.Nf3 O-O 17.Rad1 Nf7 18.Rfe1 Rd8 19.a4 Nc7 20.h3 b6 21.a5 bxa5 22.Ra1 Nd5
-23.Bc5 Nd6 24.Nd4 Bb7 25.Rxa5 Nf4 26.Bf1 a6 27.f3 Nb5 28.Nf5  1-0
 
 [Event "Gausdal Int"]
 [Site "Gausdal"]
@@ -2319,27 +2319,6 @@
 [Site "New York"]
 [Date "1988.??.??"]
 [Round "?"]
-[White "Gulko, Boris F"]
-[Black "Wolff, Patrick G"]
-[Result "1/2-1/2"]
-[WhiteElo "2595"]
-[BlackElo "2530"]
-[ECO "D95"]
-
-1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7 5.Qb3 dxc4 6.Bxc4 O-O 7.Nf3 Nc6 8.Ne5 Nxe5
-9.dxe5 Ng4 10.f4 c6 11.a4 Rb8 12.h3 Nh6 13.O-O Bd7 14.Rd1 Qc8 15.Kh2 Kh8
-16.e4 g5 17.Qc2 b5 18.axb5 cxb5 19.Bb3 a5 20.Qd3 Be6 21.Bxe6 fxe6 22.fxg5 Bxe5+
-23.Kh1 Nf7 24.Be3 Qc6 25.Bd4 Kg8 26.Rac1 Qb7 27.g6 hxg6 28.Bxe5 Nxe5 29.Qg3 Qc7
-30.Nxb5 Qxc1 31.Rxc1 Rxb5 32.Qg5 Rf7 33.h4 Kh7 34.h5 gxh5 35.Qxh5+ Kg7 36.Qg5+ Kh7
-37.b3 Rf6 38.Qg3 Rg6 39.Qe3 Rb4 40.Kg1 Rg4 41.Rc5 Rbxe4 42.Qh3+ Rh4 43.Qc3 Ng6
-44.Rg5 a4 45.g3 Rhg4 46.Rxg4 Rxg4 47.b4 Nf4 48.Qc2+ Kg7 49.Qxa4 Nd5 50.Qa1+ Kg6
-51.Qe5 Rxb4 52.Qxe6+ Nf6 53.Qxe7 Rg4 54.Kf2 Nh5 55.Qe8+ Kg5 56.Qg8+ Kf5 57.Qh7+ Kg5
-58.Qe7+ Kg6 59.Qe8+ Kg5 60.Qe5+ Kg6  1/2-1/2
-
-[Event "New York op"]
-[Site "New York"]
-[Date "1988.??.??"]
-[Round "?"]
 [White "Wolff, Patrick G"]
 [Black "Groszpeter, Attila"]
 [Result "1/2-1/2"]
@@ -2383,6 +2362,27 @@
 16.h3 h6 17.Nh2 Rd3 18.Ng4 Rfd8 19.Ne3 Nxe3 20.Rxe3 Rxe3 21.Qxe3 Rd5 22.f4 Qd7
 23.Rf1 Rd1 24.a3 Rxf1+ 25.Kxf1 Qb5+ 26.Kg1 Qxb2 27.g4 Bd5 28.Nd2 Qxa3 29.f5 Qa4
 30.c4 Bc6 31.f6 Qa1+ 32.Kh2  0-1
+
+[Event "New York op"]
+[Site "New York"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Gulko, Boris F"]
+[Black "Wolff, Patrick G"]
+[Result "1/2-1/2"]
+[WhiteElo "2595"]
+[BlackElo "2530"]
+[ECO "D95"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.e3 Bg7 5.Qb3 dxc4 6.Bxc4 O-O 7.Nf3 Nc6 8.Ne5 Nxe5
+9.dxe5 Ng4 10.f4 c6 11.a4 Rb8 12.h3 Nh6 13.O-O Bd7 14.Rd1 Qc8 15.Kh2 Kh8
+16.e4 g5 17.Qc2 b5 18.axb5 cxb5 19.Bb3 a5 20.Qd3 Be6 21.Bxe6 fxe6 22.fxg5 Bxe5+
+23.Kh1 Nf7 24.Be3 Qc6 25.Bd4 Kg8 26.Rac1 Qb7 27.g6 hxg6 28.Bxe5 Nxe5 29.Qg3 Qc7
+30.Nxb5 Qxc1 31.Rxc1 Rxb5 32.Qg5 Rf7 33.h4 Kh7 34.h5 gxh5 35.Qxh5+ Kg7 36.Qg5+ Kh7
+37.b3 Rf6 38.Qg3 Rg6 39.Qe3 Rb4 40.Kg1 Rg4 41.Rc5 Rbxe4 42.Qh3+ Rh4 43.Qc3 Ng6
+44.Rg5 a4 45.g3 Rhg4 46.Rxg4 Rxg4 47.b4 Nf4 48.Qc2+ Kg7 49.Qxa4 Nd5 50.Qa1+ Kg6
+51.Qe5 Rxb4 52.Qxe6+ Nf6 53.Qxe7 Rg4 54.Kf2 Nh5 55.Qe8+ Kg5 56.Qg8+ Kf5 57.Qh7+ Kg5
+58.Qe7+ Kg6 59.Qe8+ Kg5 60.Qe5+ Kg6  1/2-1/2
 
 [Event "New York op"]
 [Site "New York"]
@@ -2505,23 +2505,6 @@
 [Date "1988.??.??"]
 [Round "?"]
 [White "Wolff, Patrick G"]
-[Black "Nickoloff, Bryon"]
-[Result "1-0"]
-[WhiteElo "2530"]
-[BlackElo "2390"]
-[ECO "C90"]
-
-1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
-9.a4 b4 10.d4 bxc3 11.bxc3 Bg4 12.Be3 exd4 13.cxd4 d5 14.exd5 Nxd5 15.Nbd2 Bb4
-16.Qc2 Nxe3 17.fxe3 Na5 18.Rf1 c5 19.Ba2 cxd4 20.exd4 Bh5 21.Rad1 Bg6 22.Ne4 Bd6
-23.Rde1 Re8 24.Nfg5 Rf8 25.Nxf7 Rxf7 26.Rxf7 Bxf7 27.Bxf7+ Kh8 28.Nxd6 Qxd6
-29.Qc5 Qf4 30.Rf1 Qe3+ 31.Kh1 Qe2 32.Qf5 Rf8 33.Bc4  1-0
-
-[Event "Saint John op-1"]
-[Site "Saint John"]
-[Date "1988.??.??"]
-[Round "?"]
-[White "Wolff, Patrick G"]
 [Black "Kopec, Danny"]
 [Result "0-1"]
 [WhiteElo "2530"]
@@ -2555,6 +2538,23 @@
 44.b4 Rf2 45.Re4 Nf3 46.Kb2 Rf8 47.a4 Rh2 48.Ne6 Rf6 49.Nxg7 Rc6 50.Rxf3 Rcxc2+
 51.Kb3 Kxg7 52.a5 Ra2 53.Rg4+ Kh7 54.Rf7+ Kh8 55.Rd4 Rhb2+ 56.Kc4 Rc2+ 57.Kb5 Rc8
 58.a6 Ra8 59.Rd6  1-0
+
+[Event "Saint John op-1"]
+[Site "Saint John"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Wolff, Patrick G"]
+[Black "Nickoloff, Bryon"]
+[Result "1-0"]
+[WhiteElo "2530"]
+[BlackElo "2390"]
+[ECO "C90"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.a4 b4 10.d4 bxc3 11.bxc3 Bg4 12.Be3 exd4 13.cxd4 d5 14.exd5 Nxd5 15.Nbd2 Bb4
+16.Qc2 Nxe3 17.fxe3 Na5 18.Rf1 c5 19.Ba2 cxd4 20.exd4 Bh5 21.Rad1 Bg6 22.Ne4 Bd6
+23.Rde1 Re8 24.Nfg5 Rf8 25.Nxf7 Rxf7 26.Rxf7 Bxf7 27.Bxf7+ Kh8 28.Nxd6 Qxd6
+29.Qc5 Qf4 30.Rf1 Qe3+ 31.Kh1 Qe2 32.Qf5 Rf8 33.Bc4  1-0
 
 [Event "Saint John op-1"]
 [Site "Saint John"]
@@ -2667,23 +2667,6 @@
 [Site "Hastings"]
 [Date "1989.??.??"]
 [Round "?"]
-[White "Holland, Edward"]
-[Black "Wolff, Patrick G"]
-[Result "0-1"]
-[WhiteElo "2310"]
-[BlackElo "2505"]
-[ECO "B44"]
-
-1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.Bf4 e5 7.Be3 Nf6 8.Bc4 Be6
-9.Bd5 Qa5+ 10.N1c3 Bxd5 11.exd5 Nb4 12.O-O a6 13.Na3 Rc8 14.Qe1 Nbxd5 15.Nxd5 Qxd5
-16.f4 Be7 17.c4 Qe4 18.Qg3 O-O 19.Rae1 Rfe8 20.fxe5 Qxe5 21.Qf2 Qh5 22.Bd4 Ng4
-23.Qg3 Bh4 24.Rxe8+ Rxe8 25.Qh3 Re4 26.Nc2 g6 27.g3 Rxd4 28.Nxd4 Bf6 29.Qg2 Bxd4+
-30.Kh1 Ne3 31.g4 Qe5  0-1
-
-[Event "Hastings Challengers8990"]
-[Site "Hastings"]
-[Date "1989.??.??"]
-[Round "?"]
 [White "Flear, Glenn C"]
 [Black "Wolff, Patrick G"]
 [Result "0-1"]
@@ -2696,6 +2679,24 @@
 16.Qg4 g6 17.Qe4 Qb6 18.Bh6 Rg8 19.b4 cxb4 20.Nxd4 Qxd4 21.Qxc6 Qd5 22.Qxd5 exd5
 23.Rfd1 Ra5 24.Rac1 Nxe5 25.Rc8+ Bd8 26.Rb8 Nc6 27.Rb7 Bf6 28.Re1+ Kd8 29.Rxf7 Be7
 30.Ne2 Rxa4 31.Nf4 b3 32.Kf1 b2 33.Nd3 Ne5 34.Rxe7 Nxd3 35.Rb7 Nxe1 36.Rxb2 Re8  0-1
+
+[Event "Hastings Challengers8990"]
+[Site "Hastings"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Fatin, Tarek"]
+[Black "Wolff, Patrick G"]
+[Result "0-1"]
+[WhiteElo "2325"]
+[BlackElo "2505"]
+[ECO "A25"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.d3 d6 6.e3 Nge7 7.Nge2 h5 8.h3 h4 9.e4 hxg3
+10.fxg3 Be6 11.Nd5 Qd7 12.Bg5 Ng8 13.Qd2 f6 14.Be3 Nd8 15.Qa5 b6 16.Qa6 Ne7
+17.g4 O-O 18.g5 fxg5 19.Bxg5 Nec6 20.Qa4 Rf7 21.Be3 Nb7 22.Kd2 Raf8 23.Raf1 Nc5
+24.Rxf7 Rxf7 25.Qd1 Bxd5 26.exd5 Nb4 27.Nc1 Bh6 28.Rf1 Rxf1 29.Qxf1 Bxe3+
+30.Kxe3 Qe7 31.Kd2 Qg5+ 32.Kd1 Nbxd3 33.Nxd3 Nxd3 34.Qxd3 Qxg2 35.a3 Kg7
+36.b4 Qf2 37.Kc1 Qd4 38.Qb3 e4 39.c5 e3 40.Qd1 Qxd1+ 41.Kxd1 bxc5 42.bxc5 dxc5  0-1
 
 [Event "Hastings Challengers8990"]
 [Site "Hastings"]
@@ -2819,19 +2820,34 @@
 [Site "Hastings"]
 [Date "1989.??.??"]
 [Round "?"]
-[White "Fatin, Tarek"]
+[White "Holland, Edward"]
 [Black "Wolff, Patrick G"]
 [Result "0-1"]
-[WhiteElo "2325"]
+[WhiteElo "2310"]
 [BlackElo "2505"]
-[ECO "A25"]
+[ECO "B44"]
 
-1.c4 e5 2.g3 Nc6 3.Bg2 g6 4.Nc3 Bg7 5.d3 d6 6.e3 Nge7 7.Nge2 h5 8.h3 h4 9.e4 hxg3
-10.fxg3 Be6 11.Nd5 Qd7 12.Bg5 Ng8 13.Qd2 f6 14.Be3 Nd8 15.Qa5 b6 16.Qa6 Ne7
-17.g4 O-O 18.g5 fxg5 19.Bxg5 Nec6 20.Qa4 Rf7 21.Be3 Nb7 22.Kd2 Raf8 23.Raf1 Nc5
-24.Rxf7 Rxf7 25.Qd1 Bxd5 26.exd5 Nb4 27.Nc1 Bh6 28.Rf1 Rxf1 29.Qxf1 Bxe3+
-30.Kxe3 Qe7 31.Kd2 Qg5+ 32.Kd1 Nbxd3 33.Nxd3 Nxd3 34.Qxd3 Qxg2 35.a3 Kg7
-36.b4 Qf2 37.Kc1 Qd4 38.Qb3 e4 39.c5 e3 40.Qd1 Qxd1+ 41.Kxd1 bxc5 42.bxc5 dxc5  0-1
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.Bf4 e5 7.Be3 Nf6 8.Bc4 Be6
+9.Bd5 Qa5+ 10.N1c3 Bxd5 11.exd5 Nb4 12.O-O a6 13.Na3 Rc8 14.Qe1 Nbxd5 15.Nxd5 Qxd5
+16.f4 Be7 17.c4 Qe4 18.Qg3 O-O 19.Rae1 Rfe8 20.fxe5 Qxe5 21.Qf2 Qh5 22.Bd4 Ng4
+23.Qg3 Bh4 24.Rxe8+ Rxe8 25.Qh3 Re4 26.Nc2 g6 27.g3 Rxd4 28.Nxd4 Bf6 29.Qg2 Bxd4+
+30.Kh1 Ne3 31.g4 Qe5  0-1
+
+[Event "London WFW"]
+[Site "London"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Wolff, Patrick G"]
+[Black "King, Daniel J"]
+[Result "0-1"]
+[WhiteElo "2485"]
+[BlackElo "2500"]
+[ECO "C08"]
+
+1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nf6 5.exd5 exd5 6.Bb5+ Bd7 7.Bxd7+ Nbxd7
+8.O-O Be7 9.dxc5 Nxc5 10.Nd4 Qd7 11.N2f3 O-O 12.Ne5 Qc7 13.Bf4 Qb6 14.Nf5 Bd8
+15.Qf3 Nce4 16.c4 dxc4 17.Rfe1 Qxb2 18.Nxc4 Qb5 19.Ncd6 Nxd6 20.Bxd6 Re8
+21.Be7 Bxe7 22.Nxe7+ Kh8 23.Rab1 Rxe7  0-1
 
 [Event "London WFW"]
 [Site "London"]
@@ -2961,24 +2977,6 @@
 [Date "1989.??.??"]
 [Round "?"]
 [White "Wolff, Patrick G"]
-[Black "Lalic, Susan"]
-[Result "0-1"]
-[WhiteElo "2485"]
-[BlackElo "2310"]
-[ECO "B14"]
-
-1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.Qb3 Bg7 7.cxd5 O-O 8.Be2 Nbd7
-9.Bf3 Nb6 10.Bg5 Bg4 11.Bxf6 Bxf3 12.Nxf3 Bxf6 13.a4 a5 14.O-O Qd6 15.Ne4 Qb4
-16.Qxb4 axb4 17.d6 Nxa4 18.Rfc1 Nb6 19.Rxa8 Rxa8 20.g4 Bg7 21.dxe7 Nd5 22.h3 h6
-23.Nd6 Nxe7 24.Rc7 Ra1+ 25.Kg2 Nd5 26.Rxb7 Nf4+ 27.Kh2 Nd3 28.Nxf7 Rb1 29.d5 Rxb2
-30.d6 Nc5 31.Rc7 Rxf2+ 32.Kg3 Ne4+ 33.Kf4 Nd2 34.Ke3 Rxf3+ 35.Kxd2 Rxf7 36.d7 Bf6
-37.Rc8+ Rf8 38.Re8 Kf7 39.Re4 Bc3+ 40.Kc2 Rd8 41.g5  0-1
-
-[Event "London WFW"]
-[Site "London"]
-[Date "1989.??.??"]
-[Round "?"]
-[White "Wolff, Patrick G"]
 [Black "Davies, Nigel R"]
 [Result "0-1"]
 [WhiteElo "2485"]
@@ -3000,16 +2998,18 @@
 [Date "1989.??.??"]
 [Round "?"]
 [White "Wolff, Patrick G"]
-[Black "King, Daniel J"]
+[Black "Lalic, Susan"]
 [Result "0-1"]
 [WhiteElo "2485"]
-[BlackElo "2500"]
-[ECO "C08"]
+[BlackElo "2310"]
+[ECO "B14"]
 
-1.e4 e6 2.d4 d5 3.Nd2 c5 4.Ngf3 Nf6 5.exd5 exd5 6.Bb5+ Bd7 7.Bxd7+ Nbxd7
-8.O-O Be7 9.dxc5 Nxc5 10.Nd4 Qd7 11.N2f3 O-O 12.Ne5 Qc7 13.Bf4 Qb6 14.Nf5 Bd8
-15.Qf3 Nce4 16.c4 dxc4 17.Rfe1 Qxb2 18.Nxc4 Qb5 19.Ncd6 Nxd6 20.Bxd6 Re8
-21.Be7 Bxe7 22.Nxe7+ Kh8 23.Rab1 Rxe7  0-1
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.Qb3 Bg7 7.cxd5 O-O 8.Be2 Nbd7
+9.Bf3 Nb6 10.Bg5 Bg4 11.Bxf6 Bxf3 12.Nxf3 Bxf6 13.a4 a5 14.O-O Qd6 15.Ne4 Qb4
+16.Qxb4 axb4 17.d6 Nxa4 18.Rfc1 Nb6 19.Rxa8 Rxa8 20.g4 Bg7 21.dxe7 Nd5 22.h3 h6
+23.Nd6 Nxe7 24.Rc7 Ra1+ 25.Kg2 Nd5 26.Rxb7 Nf4+ 27.Kh2 Nd3 28.Nxf7 Rb1 29.d5 Rxb2
+30.d6 Nc5 31.Rc7 Rxf2+ 32.Kg3 Ne4+ 33.Kf4 Nd2 34.Ke3 Rxf3+ 35.Kxd2 Rxf7 36.d7 Bf6
+37.Rc8+ Rf8 38.Re8 Kf7 39.Re4 Bc3+ 40.Kc2 Rd8 41.g5  0-1
 
 [Event "London WFW"]
 [Site "London"]
@@ -3130,6 +3130,21 @@
 9.bxc3 O-O 10.Nxc6 bxc6 11.Bd3 Qd5 12.Qc2 Qxg2 13.Bxh7+ Kh8 14.Be4 Bf5 15.Bxf5 Qxh1+
 16.Ke2 Rab8 17.Be4 Qg1 18.Bf3 Bh4 19.Kd3 Rfd8+ 20.Kc4 Be7  0-1
 
+[Event "New York op"]
+[Site "New York"]
+[Date "1989.??.??"]
+[Round "2"]
+[White "Wolff, Patrick G"]
+[Black "Pliester, Leon"]
+[Result "1-0"]
+[WhiteElo "2485"]
+[BlackElo "2385"]
+[ECO "B96"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 b5 8.e5 dxe5
+9.fxe5 Qc7 10.exf6 Qe5+ 11.Be2 Qxg5 12.O-O Qe5 13.Nf3 Qxf6 14.Ne4 Qf4 15.Nfg5 Qe3+
+16.Kh1 Ra7 17.Bh5 g6 18.Nf6+ Ke7 19.Nd5+ exd5 20.Re1 Qxe1+ 21.Qxe1+  1-0
+
 [Event "New York exh"]
 [Site "New York"]
 [Date "1989.??.??"]
@@ -3145,21 +3160,6 @@
 9.Ne2 Nxd5 10.cxd5 Ne7 11.Bxe5 dxe5 12.Qxc5 b6 13.Qc2 Nxd5 14.Nc3 Bb7 15.Bd3 Nxc3
 16.dxc3 Qh4 17.O-O Rad8 18.f3 Rd6 19.Rad1 Rfd8 20.Be2 Qg5 21.Kf2 Qh4+ 22.Kg1 Qh6
 23.f4 exf4 24.exf4 Qe6 25.Rxd6 Qe3+ 26.Rf2 Rxd6 27.Bf1 g6  1/2-1/2
-
-[Event "New York op"]
-[Site "New York"]
-[Date "1989.??.??"]
-[Round "2"]
-[White "Wolff, Patrick G"]
-[Black "Pliester, Leon"]
-[Result "1-0"]
-[WhiteElo "2485"]
-[BlackElo "2385"]
-[ECO "B96"]
-
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 b5 8.e5 dxe5
-9.fxe5 Qc7 10.exf6 Qe5+ 11.Be2 Qxg5 12.O-O Qe5 13.Nf3 Qxf6 14.Ne4 Qf4 15.Nfg5 Qe3+
-16.Kh1 Ra7 17.Bh5 g6 18.Nf6+ Ke7 19.Nd5+ exd5 20.Re1 Qxe1+ 21.Qxe1+  1-0
 
 [Event "New York op"]
 [Site "New York"]
@@ -3858,6 +3858,24 @@
 [Site "Hastings"]
 [Date "1990.??.??"]
 [Round "?"]
+[White "Levitt, Jonathan"]
+[Black "Wolff, Patrick G"]
+[Result "0-1"]
+[WhiteElo "2480"]
+[BlackElo "2505"]
+[ECO "A57"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3 b4 5.Nbd2 g6 6.e4 Bg7 7.Bd3 d6 8.O-O O-O 9.Re1 e5
+10.dxe6 Bxe6 11.e5 dxe5 12.Nxe5 Ng4 13.Ndf3 Nxe5 14.Nxe5 Bxe5 15.Rxe5 Bxc4
+16.Re3 Nc6 17.b3 Qf6 18.Rb1 Bxd3 19.Bb2 Qf5 20.Qxd3 Qxd3 21.Rxd3 Rad8 22.Rbd1 Rxd3
+23.Rxd3 Rd8 24.Rxd8+ Nxd8 25.Bf6 Nb7 26.Kf1 Kf8 27.g4 Ke8 28.Ke2 Kd7 29.Kd3 Ke6
+30.Bg5 Nd6 31.h3 Kd5 32.Be7 Nb5 33.Bf6 Nc7 34.Bg5 Ne6 35.Be3 g5 36.f3 Nf4+
+37.Bxf4 gxf4 38.g5 a5 39.h4 c4+  0-1
+
+[Event "Hastings Masters"]
+[Site "Hastings"]
+[Date "1990.??.??"]
+[Round "?"]
 [White "Wolff, Patrick G"]
 [Black "Farago, Ivan"]
 [Result "1/2-1/2"]
@@ -3939,24 +3957,6 @@
 [ECO "A00"]
 
 1.d4  1-0
-
-[Event "Hastings Masters"]
-[Site "Hastings"]
-[Date "1990.??.??"]
-[Round "?"]
-[White "Levitt, Jonathan"]
-[Black "Wolff, Patrick G"]
-[Result "0-1"]
-[WhiteElo "2480"]
-[BlackElo "2505"]
-[ECO "A57"]
-
-1.d4 Nf6 2.c4 c5 3.d5 b5 4.Nf3 b4 5.Nbd2 g6 6.e4 Bg7 7.Bd3 d6 8.O-O O-O 9.Re1 e5
-10.dxe6 Bxe6 11.e5 dxe5 12.Nxe5 Ng4 13.Ndf3 Nxe5 14.Nxe5 Bxe5 15.Rxe5 Bxc4
-16.Re3 Nc6 17.b3 Qf6 18.Rb1 Bxd3 19.Bb2 Qf5 20.Qxd3 Qxd3 21.Rxd3 Rad8 22.Rbd1 Rxd3
-23.Rxd3 Rd8 24.Rxd8+ Nxd8 25.Bf6 Nb7 26.Kf1 Kf8 27.g4 Ke8 28.Ke2 Kd7 29.Kd3 Ke6
-30.Bg5 Nd6 31.h3 Kd5 32.Be7 Nb5 33.Bf6 Nc7 34.Bg5 Ne6 35.Be3 g5 36.f3 Nf4+
-37.Bxf4 gxf4 38.g5 a5 39.h4 c4+  0-1
 
 [Event "Hastings Masters"]
 [Site "Hastings"]
@@ -4212,6 +4212,25 @@
 [Date "1990.??.??"]
 [Round "?"]
 [White "Wolff, Patrick G"]
+[Black "Watson, William N"]
+[Result "1-0"]
+[WhiteElo "2500"]
+[BlackElo "2470"]
+[ECO "B17"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 g6 7.Bc4 e6 8.Qe2 Nb6
+9.Bb3 h6 10.N5f3 Bg7 11.c3 c5 12.dxc5 Nbd7 13.Ne5 Nxe5 14.Qxe5 O-O 15.Nf3 Nd5
+16.Qe2 Nxc3 17.Qc2 Nd5 18.O-O Qc7 19.Bxd5 exd5 20.Be3 b6 21.Rfc1 Bg4 22.Nd4 bxc5
+23.Qxc5 Qb7 24.h3 Bd7 25.Qc7 Rab8 26.b3 Bb5 27.Qa5 Rfc8 28.Qd2 h5 29.Bf4 Ra8
+30.Rxc8+ Rxc8 31.Re1 Re8 32.Rc1 Qb6 33.Be3 Qa6 34.Rc7 Bd3 35.Nc6 Bb1 36.Ne7+ Kh8
+37.Rxa7 Qe6 38.Bd4 f6 39.Nxd5 Qe1+ 40.Qxe1 Rxe1+ 41.Kh2 Re6 42.Nc3 Bd3 43.Rd7 Bf5
+44.Rd8+ Kh7 45.Nd5 Bb1 46.Nc3 Bf5 47.b4 Bh6 48.Nd5 Bg5 49.b5 Be4 50.b6  1-0
+
+[Event "London WFW"]
+[Site "London"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Wolff, Patrick G"]
 [Black "Hodgson, Julian M"]
 [Result "0-1"]
 [WhiteElo "2500"]
@@ -4278,25 +4297,6 @@
 17.g5 Nh5 18.Rc1 d5 19.exd5 exd5 20.Qd2 Bf5 21.Nd4 Ng3 22.Rfd1 Be4 23.Nxe4 Nxe4
 24.Bxe4 dxe4 25.Qg2 Na2 26.Qxe4 Nxc1 27.Rxc1 Bc5 28.c3 Re8 29.Qf3 Rxb3 30.Qf2 Qb7
 31.Rc2 Rb1+ 32.Kh2 Rh1+ 33.Kg3 Qd7 34.f5 Bd6+ 35.Bf4 Re4 36.Ne2 Qxf5  0-1
-
-[Event "London WFW"]
-[Site "London"]
-[Date "1990.??.??"]
-[Round "?"]
-[White "Wolff, Patrick G"]
-[Black "Watson, William N"]
-[Result "1-0"]
-[WhiteElo "2500"]
-[BlackElo "2470"]
-[ECO "B17"]
-
-1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 g6 7.Bc4 e6 8.Qe2 Nb6
-9.Bb3 h6 10.N5f3 Bg7 11.c3 c5 12.dxc5 Nbd7 13.Ne5 Nxe5 14.Qxe5 O-O 15.Nf3 Nd5
-16.Qe2 Nxc3 17.Qc2 Nd5 18.O-O Qc7 19.Bxd5 exd5 20.Be3 b6 21.Rfc1 Bg4 22.Nd4 bxc5
-23.Qxc5 Qb7 24.h3 Bd7 25.Qc7 Rab8 26.b3 Bb5 27.Qa5 Rfc8 28.Qd2 h5 29.Bf4 Ra8
-30.Rxc8+ Rxc8 31.Re1 Re8 32.Rc1 Qb6 33.Be3 Qa6 34.Rc7 Bd3 35.Nc6 Bb1 36.Ne7+ Kh8
-37.Rxa7 Qe6 38.Bd4 f6 39.Nxd5 Qe1+ 40.Qxe1 Rxe1+ 41.Kh2 Re6 42.Nc3 Bd3 43.Rd7 Bf5
-44.Rd8+ Kh7 45.Nd5 Bb1 46.Nc3 Bf5 47.b4 Bh6 48.Nd5 Bg5 49.b5 Be4 50.b6  1-0
 
 [Event "London WFW"]
 [Site "London"]
@@ -4402,22 +4402,6 @@
 [Site "New York"]
 [Date "1990.??.??"]
 [Round "?"]
-[White "King, Daniel J"]
-[Black "Wolff, Patrick G"]
-[Result "1-0"]
-[WhiteElo "2560"]
-[BlackElo "2540"]
-[ECO "A25"]
-
-1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 d6 6.Nge2 Be6 7.d4 Bxc4 8.d5 Bxe2
-9.Qxe2 Nb8 10.Qb5+ Nd7 11.Qxb7 Rb8 12.Qxa7 Nc5 13.Qa5 f5 14.O-O e4 15.Nb5 Ne7
-16.Rd1 O-O 17.Bf1 Rb7 18.Rb1 Qb8 19.a4 Kh8 20.b3 Ng8 21.Ba3 Nf6 22.Bxc5 dxc5
-23.Bc4 Ng4 24.d6 cxd6 25.Nxd6 Ra7 26.Qxc5 Ne5 27.Rd5 Nf3+ 28.Kg2 h5 29.Nb5 Re7  1-0
-
-[Event "New York WFW"]
-[Site "New York"]
-[Date "1990.??.??"]
-[Round "?"]
 [White "Wolff, Patrick G"]
 [Black "Mednis, Edmar John"]
 [Result "1/2-1/2"]
@@ -4477,6 +4461,24 @@
 [Date "1990.??.??"]
 [Round "?"]
 [White "Wolff, Patrick G"]
+[Black "Speelman, Jonathan S"]
+[Result "0-1"]
+[WhiteElo "2540"]
+[BlackElo "2605"]
+[ECO "B14"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2 Nc6
+9.Be2 O-O 10.O-O Re8 11.Rd1 Bf8 12.Bg5 Qa5 13.Ne4 Bd7 14.a3 Rac8 15.Qd3 Qc7
+16.Rac1 Nf4 17.Bxf4 Qxf4 18.Nc5 Rc7 19.g3 Qh6 20.Qe4 Rd8 21.b4 Be8 22.Bc4 a5
+23.Qb1 axb4 24.axb4 Qf6 25.Qb3 Nxb4 26.Ne4 Qg6 27.Nc5 Nc6 28.Bd3 Qh6 29.Qb6 Rdc8
+30.Nxb7 Nxd4 31.Rxc7 Nxf3+ 32.Kg2 Qxh2+ 33.Kf1 Rxc7 34.Qxc7 Qg1+ 35.Ke2 Nd4+
+36.Kd2 Bb4+ 37.Kc1 Ba3+ 38.Kd2 Qxf2+ 39.Kc3 Qb2+  0-1
+
+[Event "New York WFW"]
+[Site "New York"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Wolff, Patrick G"]
 [Black "Averbakh, Yuri L"]
 [Result "1-0"]
 [WhiteElo "2540"]
@@ -4509,19 +4511,17 @@
 [Site "New York"]
 [Date "1990.??.??"]
 [Round "?"]
-[White "Wolff, Patrick G"]
-[Black "Speelman, Jonathan S"]
-[Result "0-1"]
-[WhiteElo "2540"]
-[BlackElo "2605"]
-[ECO "B14"]
+[White "King, Daniel J"]
+[Black "Wolff, Patrick G"]
+[Result "1-0"]
+[WhiteElo "2560"]
+[BlackElo "2540"]
+[ECO "A25"]
 
-1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2 Nc6
-9.Be2 O-O 10.O-O Re8 11.Rd1 Bf8 12.Bg5 Qa5 13.Ne4 Bd7 14.a3 Rac8 15.Qd3 Qc7
-16.Rac1 Nf4 17.Bxf4 Qxf4 18.Nc5 Rc7 19.g3 Qh6 20.Qe4 Rd8 21.b4 Be8 22.Bc4 a5
-23.Qb1 axb4 24.axb4 Qf6 25.Qb3 Nxb4 26.Ne4 Qg6 27.Nc5 Nc6 28.Bd3 Qh6 29.Qb6 Rdc8
-30.Nxb7 Nxd4 31.Rxc7 Nxf3+ 32.Kg2 Qxh2+ 33.Kf1 Rxc7 34.Qxc7 Qg1+ 35.Ke2 Nd4+
-36.Kd2 Bb4+ 37.Kc1 Ba3+ 38.Kd2 Qxf2+ 39.Kc3 Qb2+  0-1
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 d6 6.Nge2 Be6 7.d4 Bxc4 8.d5 Bxe2
+9.Qxe2 Nb8 10.Qb5+ Nd7 11.Qxb7 Rb8 12.Qxa7 Nc5 13.Qa5 f5 14.O-O e4 15.Nb5 Ne7
+16.Rd1 O-O 17.Bf1 Rb7 18.Rb1 Qb8 19.a4 Kh8 20.b3 Ng8 21.Ba3 Nf6 22.Bxc5 dxc5
+23.Bc4 Ng4 24.d6 cxd6 25.Nxd6 Ra7 26.Qxc5 Ne5 27.Rd5 Nf3+ 28.Kg2 h5 29.Nb5 Re7  1-0
 
 [Event "New York WFW"]
 [Site "New York"]
@@ -5256,24 +5256,6 @@
 [Event "USA-ch m"]
 [Site "Los Angeles"]
 [Date "1991.??.??"]
-[Round "2.3"]
-[White "Fedorowicz, John P"]
-[Black "Wolff, Patrick G"]
-[Result "1-0"]
-[WhiteElo "2525"]
-[BlackElo "2545"]
-[ECO "B63"]
-
-1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O
-9.Nb3 Qb6 10.f3 Rd8 11.Be3 Qc7 12.Qf2 d5 13.exd5 Nxd5 14.Nxd5 Rxd5 15.Rxd5 exd5
-16.Bb5 Ne5 17.Rd1 Nc4 18.Bc5 Bg5+ 19.Kb1 Be6 20.h4 Bf4 21.Bd4 Bg3 22.Qe2 Bxh4
-23.Bxc4 Qxc4 24.Qe5 Bf6 25.Qe3 Bf5 26.Rc1 Bxd4 27.Nxd4 Bg6 28.b3 Qc5 29.Kb2 b6
-30.c3 Rc8 31.g4 Qd6 32.f4 Be4 33.a4 a6 34.Rg1 Re8 35.g5 h5 36.g6 fxg6 37.f5 Qh2+
-38.Ka3 Re5 39.Qg5 Bxf5 40.Qd8+  1-0
-
-[Event "USA-ch m"]
-[Site "Los Angeles"]
-[Date "1991.??.??"]
 [Round "2.2"]
 [White "Fedorowicz, John P"]
 [Black "Wolff, Patrick G"]
@@ -5290,6 +5272,24 @@
 37.Qxc6 d4 38.Rf3 Qg5+ 39.Rf4 Qxg3 40.Qf3 Qh2+ 41.Qf2 dxc3+ 42.Kxc3 Qh1 43.Qd4+ Kg8
 44.Kd2 Qg2+ 45.Rf2 Qc6 46.Re2 Qc2+ 47.Ke1 Qc1+ 48.Kf2 Qc6 49.Qf4 Kg7 50.Qe5+ Kh7
 51.Kg3  1-0
+
+[Event "USA-ch m"]
+[Site "Los Angeles"]
+[Date "1991.??.??"]
+[Round "2.3"]
+[White "Fedorowicz, John P"]
+[Black "Wolff, Patrick G"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2545"]
+[ECO "B63"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O
+9.Nb3 Qb6 10.f3 Rd8 11.Be3 Qc7 12.Qf2 d5 13.exd5 Nxd5 14.Nxd5 Rxd5 15.Rxd5 exd5
+16.Bb5 Ne5 17.Rd1 Nc4 18.Bc5 Bg5+ 19.Kb1 Be6 20.h4 Bf4 21.Bd4 Bg3 22.Qe2 Bxh4
+23.Bxc4 Qxc4 24.Qe5 Bf6 25.Qe3 Bf5 26.Rc1 Bxd4 27.Nxd4 Bg6 28.b3 Qc5 29.Kb2 b6
+30.c3 Rc8 31.g4 Qd6 32.f4 Be4 33.a4 a6 34.Rg1 Re8 35.g5 h5 36.g6 fxg6 37.f5 Qh2+
+38.Ka3 Re5 39.Qg5 Bxf5 40.Qd8+  1-0
 
 [Event "USA-ch m"]
 [Site "Los Angeles"]
@@ -6226,6 +6226,23 @@
 [Site "Las Vegas"]
 [Date "1992.??.??"]
 [Round "?"]
+[White "Franett, Michael"]
+[Black "Wolff, Patrick G"]
+[Result "1/2-1/2"]
+[WhiteElo ""]
+[BlackElo "2570"]
+[ECO "D91"]
+
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bg5 Ne4 6.Bf4 Nxc3 7.bxc3 c5 8.e3 Nc6
+9.Be2 dxc4 10.Bxc4 O-O 11.O-O Bf5 12.Qe2 Rc8 13.Rfd1 Be4 14.Rac1 Na5 15.Bd3 Qd5
+16.c4 Bxf3 17.gxf3 Qd7 18.d5 b6 19.e4 e5 20.Be3 f5 21.exf5 gxf5 22.Kh1 Nb7
+23.Rg1 Rf7 24.Qc2 Nd6 25.f4 e4 26.Be2 Kh8 27.Rg3 Bf6 28.Bd2 Qe7 29.Bc3 Bd4
+30.Qb2 Qf6 31.Rd1 Bxc3 32.Qxc3 Qxc3 33.Rxc3 Rg7 34.a4 Rcg8 35.Rg3  1/2-1/2
+
+[Event "Las Vegas op"]
+[Site "Las Vegas"]
+[Date "1992.??.??"]
+[Round "?"]
 [White "Wolff, Patrick G"]
 [Black "Szmetan, Ricardo"]
 [Result "1-0"]
@@ -6256,23 +6273,6 @@
 1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O O-O 8.Re1 Re8
 9.c4 c6 10.Nc3 Nxc3 11.bxc3 Bg4 12.Bg5 f6 13.Bd2 Rxe1+ 14.Qxe1 Qf8 15.Qb1 Bxf3
 16.Qxb7 Nd7 17.Qxd7 Bh5 18.c5 Rd8 19.Qh3  1-0
-
-[Event "Las Vegas op"]
-[Site "Las Vegas"]
-[Date "1992.??.??"]
-[Round "?"]
-[White "Franett, Michael"]
-[Black "Wolff, Patrick G"]
-[Result "1/2-1/2"]
-[WhiteElo ""]
-[BlackElo "2570"]
-[ECO "D91"]
-
-1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bg5 Ne4 6.Bf4 Nxc3 7.bxc3 c5 8.e3 Nc6
-9.Be2 dxc4 10.Bxc4 O-O 11.O-O Bf5 12.Qe2 Rc8 13.Rfd1 Be4 14.Rac1 Na5 15.Bd3 Qd5
-16.c4 Bxf3 17.gxf3 Qd7 18.d5 b6 19.e4 e5 20.Be3 f5 21.exf5 gxf5 22.Kh1 Nb7
-23.Rg1 Rf7 24.Qc2 Nd6 25.f4 e4 26.Be2 Kh8 27.Rg3 Bf6 28.Bd2 Qe7 29.Bc3 Bd4
-30.Qb2 Qf6 31.Rd1 Bxc3 32.Qxc3 Qxc3 33.Rxc3 Rg7 34.a4 Rcg8 35.Rg3  1/2-1/2
 
 [Event "New York Reshevsky"]
 [Site "New York"]
@@ -7217,6 +7217,24 @@
 [Site "Wijk aan Zee"]
 [Date "1992.??.??"]
 [Round "5"]
+[White "Wolff, Patrick G"]
+[Black "Van Mil, Johannes A J"]
+[Result "1-0"]
+[WhiteElo "2570"]
+[BlackElo "2445"]
+[ECO "B46"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be2 Nge7 7.Bf4 Ng6 8.Bg3 Be7
+9.O-O O-O 10.Nb3 d6 11.a4 Na5 12.Nxa5 Qxa5 13.Qd2 Rd8 14.Rfd1 Qc5 15.Ra3 h5
+16.h3 h4 17.Bh2 b6 18.Rb3 Rb8 19.Kf1 Ne5 20.Bf4 Nc4 21.Bxc4 Qxc4+ 22.Kg1 Bd7
+23.Ra1 Bc6 24.Bg5 f6 25.Be3 Bxe4 26.Nxe4 Qxe4 27.Rb4 Qf5 28.Rxh4 d5 29.c3 e5
+30.Qe2 Bc5 31.Qxa6 d4 32.Qc4+ Kf8 33.cxd4 exd4 34.Bxd4 g5 35.Re4 Kg7 36.Rae1 Rxd4
+37.Rxd4 Rd8 38.Rxd8 Qxf2+ 39.Kh2 Qxe1 40.Qg8+ Kh6 41.Qh8+ Kg6 42.Qe8+  1-0
+
+[Event "Hoogovens-B"]
+[Site "Wijk aan Zee"]
+[Date "1992.??.??"]
+[Round "5"]
 [White "De Boer, Gert Jan"]
 [Black "Wolff, Patrick G"]
 [Result "1/2-1/2"]
@@ -7236,24 +7254,6 @@
 66.gxf6 Rc5 67.Kg3 Rc3+ 68.Kg2 Kxf6 69.Rd6+ Kf5 70.Ne2 Nc4 71.Rxb6 Nxb6 72.Nxc3 Ke5
 73.Kf3 Nd5 74.Ne2 b6 75.Kf2 Ke4 76.Ke1 Kd3 77.Ng3 Nc3 78.Nf5 Nxb5 79.Kd1 Nd4
 80.Nd6 Ne2 81.Nf7 Nd4  1/2-1/2
-
-[Event "Hoogovens-B"]
-[Site "Wijk aan Zee"]
-[Date "1992.??.??"]
-[Round "5"]
-[White "Wolff, Patrick G"]
-[Black "Van Mil, Johannes A J"]
-[Result "1-0"]
-[WhiteElo "2570"]
-[BlackElo "2445"]
-[ECO "B46"]
-
-1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 6.Be2 Nge7 7.Bf4 Ng6 8.Bg3 Be7
-9.O-O O-O 10.Nb3 d6 11.a4 Na5 12.Nxa5 Qxa5 13.Qd2 Rd8 14.Rfd1 Qc5 15.Ra3 h5
-16.h3 h4 17.Bh2 b6 18.Rb3 Rb8 19.Kf1 Ne5 20.Bf4 Nc4 21.Bxc4 Qxc4+ 22.Kg1 Bd7
-23.Ra1 Bc6 24.Bg5 f6 25.Be3 Bxe4 26.Nxe4 Qxe4 27.Rb4 Qf5 28.Rxh4 d5 29.c3 e5
-30.Qe2 Bc5 31.Qxa6 d4 32.Qc4+ Kf8 33.cxd4 exd4 34.Bxd4 g5 35.Re4 Kg7 36.Rae1 Rxd4
-37.Rxd4 Rd8 38.Rxd8 Qxf2+ 39.Kh2 Qxe1 40.Qg8+ Kh6 41.Qh8+ Kg6 42.Qe8+  1-0
 
 [Event "Hoogovens-B"]
 [Site "Wijk aan Zee"]
@@ -8269,6 +8269,22 @@
 [Site "Philadelphia"]
 [Date "1993.??.??"]
 [Round "?"]
+[White "Arnason, Jon L"]
+[Black "Wolff, Patrick G"]
+[Result "1/2-1/2"]
+[WhiteElo "2530"]
+[BlackElo "2585"]
+[ECO "B88"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.O-O Nc6 8.Kh1 Be7
+9.Bb3 O-O 10.f4 Nxd4 11.Qxd4 b5 12.Bd2 Qc7 13.Rae1 e5 14.Qd3 exf4 15.Bxf4 Be6
+16.e5 dxe5 17.Bxe5 Qb6 18.Bd4 Qd6 19.Bxe6 fxe6 20.Ne4 Nxe4 21.Qxe4 Rxf1+
+22.Rxf1 Rf8 23.Rxf8+  1/2-1/2
+
+[Event "World op"]
+[Site "Philadelphia"]
+[Date "1993.??.??"]
+[Round "?"]
 [White "Wolff, Patrick G"]
 [Black "Olafsson, Helgi"]
 [Result "1/2-1/2"]
@@ -8319,22 +8335,6 @@
 30.axb5 axb5 31.h4 h6 32.h5 Nh8 33.Nc1 Nf7 34.Nd3 b4 35.e5 f5 36.Bxc6 Qxc6+
 37.Qf3 Ra8 38.Ra1 Rxa1 39.Bxa1 Nd8 40.Bb2 Kf7 41.Qxc6 Nxc6 42.Kf3 Rb8 43.Re1 Ne7
 44.Ke2 Nd5 45.Ra1 Rc8 46.Kd2 g6 47.hxg6+ Kxg6 48.Bd4 Kh5  1/2-1/2
-
-[Event "World op"]
-[Site "Philadelphia"]
-[Date "1993.??.??"]
-[Round "?"]
-[White "Arnason, Jon L"]
-[Black "Wolff, Patrick G"]
-[Result "1/2-1/2"]
-[WhiteElo "2530"]
-[BlackElo "2585"]
-[ECO "B88"]
-
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.O-O Nc6 8.Kh1 Be7
-9.Bb3 O-O 10.f4 Nxd4 11.Qxd4 b5 12.Bd2 Qc7 13.Rae1 e5 14.Qd3 exf4 15.Bxf4 Be6
-16.e5 dxe5 17.Bxe5 Qb6 18.Bd4 Qd6 19.Bxe6 fxe6 20.Ne4 Nxe4 21.Qxe4 Rxf1+
-22.Rxf1 Rf8 23.Rxf8+  1/2-1/2
 
 [Event "World op"]
 [Site "Philadelphia"]
@@ -8584,6 +8584,27 @@
 17.Bxe4 Be8 18.d5 exd5 19.Rxd5 b5 20.Rad1 Rab8 21.Qc3 f6 22.Bb1 Be5 23.Nxe5 Nxe5
 24.cxb5 axb5 25.Bc2 Nc4 26.Rxd8 Rxd8 27.Rxd8 Qxd8 28.Bc1 Bg6  1/2-1/2
 
+[Event "Wijk op"]
+[Site "Wijk aan Zee"]
+[Date "1993.??.??"]
+[Round "1"]
+[White "Wolff, Patrick G"]
+[Black "Rotstein, Arkadij"]
+[Result "1-0"]
+[WhiteElo "2580"]
+[BlackElo "2465"]
+[ECO "B22"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.d4 cxd4 6.cxd4 d6 7.Bc4 dxe5 8.dxe5 Bb4+
+9.Bd2 Nc6 10.O-O Be7 11.Qe2 O-O 12.Nc3 Nxc3 13.Bxc3 b6 14.Nd2 Bb7 15.Ne4 Nd4
+16.Qg4 h5 17.Qxh5 Bxe4 18.Rad1 Bc5 19.b4 Bg6 20.Qg4 Bf5 21.Qf4 Qc7 22.bxc5 bxc5
+23.Bxd4 cxd4 24.Rxd4 Rfd8 25.Rd6 Rdc8 26.Bb3 Qc3 27.h3 a5 28.Rfd1 a4 29.Bxa4 Rc4
+30.Qg5 Rf8 31.Bb3 Re4 32.Qd2 Qxd2 33.R1xd2 Rxe5 34.f3 g5 35.Kf2 Kg7 36.Rd8 Rxd8
+37.Rxd8 Rc5 38.Rd2 Rc3 39.Ke2 Kf6 40.Rd7 Bb1 41.Kd2 Rc8 42.a4 Bg6 43.Rb7 Rd8+
+44.Ke3 Bd3 45.a5 Ba6 46.Rb6 Bf1 47.Kf2 Bd3 48.Rb4 Ra8 49.Ra4 Rb8 50.Ra3 Ba6
+51.Ke3 Ke5 52.Bc2 f5 53.Bd3 f4+ 54.Kd2 Rd8 55.Kc2 Bb7 56.a6 Bd5 57.Ra4 Rc8+
+58.Kd2 Kd6 59.Be4 Ra8 60.Bxd5 exd5 61.a7  1-0
+
 [Event "Wijk m"]
 [Site "Wijk aan Zee"]
 [Date "1993.??.??"]
@@ -8621,27 +8642,6 @@
 9.Na4 Bb7 10.O-O Be7 11.a3 bxa3 12.b3 c5 13.dxc5 Nxc5 14.Bb5+ Ncd7 15.Ne5 Qc7
 16.Qd4 O-O 17.Nxd7 Rfd8 18.Bxa3 Bxa3 19.Nxf6+ gxf6 20.Qxf6 Be7 21.Qc3 Rac8
 22.Qxc7 Rxc7 23.Bc4 Bd5 24.Bxd5 Rxd5 25.Rfc1 Rb7 26.Rab1 Rdb5 27.g3  1/2-1/2
-
-[Event "Wijk op"]
-[Site "Wijk aan Zee"]
-[Date "1993.??.??"]
-[Round "1"]
-[White "Wolff, Patrick G"]
-[Black "Rotstein, Arkadij"]
-[Result "1-0"]
-[WhiteElo "2580"]
-[BlackElo "2465"]
-[ECO "B22"]
-
-1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.d4 cxd4 6.cxd4 d6 7.Bc4 dxe5 8.dxe5 Bb4+
-9.Bd2 Nc6 10.O-O Be7 11.Qe2 O-O 12.Nc3 Nxc3 13.Bxc3 b6 14.Nd2 Bb7 15.Ne4 Nd4
-16.Qg4 h5 17.Qxh5 Bxe4 18.Rad1 Bc5 19.b4 Bg6 20.Qg4 Bf5 21.Qf4 Qc7 22.bxc5 bxc5
-23.Bxd4 cxd4 24.Rxd4 Rfd8 25.Rd6 Rdc8 26.Bb3 Qc3 27.h3 a5 28.Rfd1 a4 29.Bxa4 Rc4
-30.Qg5 Rf8 31.Bb3 Re4 32.Qd2 Qxd2 33.R1xd2 Rxe5 34.f3 g5 35.Kf2 Kg7 36.Rd8 Rxd8
-37.Rxd8 Rc5 38.Rd2 Rc3 39.Ke2 Kf6 40.Rd7 Bb1 41.Kd2 Rc8 42.a4 Bg6 43.Rb7 Rd8+
-44.Ke3 Bd3 45.a5 Ba6 46.Rb6 Bf1 47.Kf2 Bd3 48.Rb4 Ra8 49.Ra4 Rb8 50.Ra3 Ba6
-51.Ke3 Ke5 52.Bc2 f5 53.Bd3 f4+ 54.Kd2 Rd8 55.Kc2 Bb7 56.a6 Bd5 57.Ra4 Rc8+
-58.Kd2 Kd6 59.Be4 Ra8 60.Bxd5 exd5 61.a7  1-0
 
 [Event "Wijk op"]
 [Site "Wijk aan Zee"]
@@ -9308,20 +9308,6 @@
 64.Qe6 Qg2+ 65.Kh4 Qh2+ 66.Kg5 Qxg3+ 67.Kh6 Qh2+ 68.Kg5 Qd2+ 69.Rf4 h6+ 70.Kg6 Qg2+
 71.Kxh6 Qh2+ 72.Kg6 Qg3+ 73.Kh5 Qxf4  0-1
 
-[Event "New York op"]
-[Site "New York"]
-[Date "1994.??.??"]
-[Round "3"]
-[White "Wolff, Patrick G"]
-[Black "Finegold, Benjamin"]
-[Result "1/2-1/2"]
-[WhiteElo "2590"]
-[BlackElo "2475"]
-[ECO "B36"]
-
-1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7
-9.O-O O-O 10.Bg5 Be6 11.Qd2  1/2-1/2
-
 [Event "PCA-op"]
 [Site "New York"]
 [Date "1994.??.??"]
@@ -9341,6 +9327,20 @@
 37.Ra5 Ra7 38.Nd5 Nc6 39.Rc5 Ne5 40.Nc7 Nd3 41.Nxe6 fxe6 42.Rc8+ Kf7 43.Nb3 Rdd7
 44.c5 Rdc7 45.Rxc7+ Rxc7 46.Ra2 g5 47.Rd2 Nb4 48.Rd8 Kf6 49.Rh8 Nd3 50.Rxh6+ Ke5
 51.Rg6 Rb7 52.Na5 Rb5 53.Nc4+ Kf4 54.Kh2 g4 55.Rxg4+  1-0
+
+[Event "New York op"]
+[Site "New York"]
+[Date "1994.??.??"]
+[Round "3"]
+[White "Wolff, Patrick G"]
+[Black "Finegold, Benjamin"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2475"]
+[ECO "B36"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 d6 7.Be2 Nxd4 8.Qxd4 Bg7
+9.O-O O-O 10.Bg5 Be6 11.Qd2  1/2-1/2
 
 [Event "PCA-op"]
 [Site "New York"]
@@ -9396,6 +9396,24 @@
 30.Rxd7 Qxd7 31.Ne7+ Kh7 32.Nxg6 Qd1+ 33.Kh2 fxg6 34.Qxa6 Qd2 35.Qb6 h5 36.h4 Qd5
 37.a4 g5 38.Qb5 Qd6+ 39.g3 Qf6 40.Qe2 gxh4 41.Qxh5+ Kg8 42.Qe8+ Kh7 43.Qxe4+  1-0
 
+[Event "PCA-op"]
+[Site "New York"]
+[Date "1994.??.??"]
+[Round "6"]
+[White "Gurevich, Ilya"]
+[Black "Wolff, Patrick G"]
+[Result "0-1"]
+[WhiteElo "2570"]
+[BlackElo "2595"]
+[ECO "B92"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O
+9.Kh1 Nbd7 10.g4 h6 11.g5 hxg5 12.Bxg5 Re8 13.Rg1 Nf8 14.Qd2 Be6 15.Bf3 Rc8
+16.h4 N6h7 17.Bh6 Bf6 18.h5 Kh8 19.Be3 Qd7 20.Rad1 Bxb3 21.Rg3 Be6 22.Rdg1 g5
+23.Rxg5 Nxg5 24.Bxg5 Qe7 25.Bh4 Nh7 26.Bg3 Bh4 27.Bh2 Rg8 28.Rd1 Rcd8 29.Nd5 Qg5
+30.Qe2 Bg4 31.Rg1 Nf6 32.Ne7 Qxh5 33.Rxg4 Nxg4 34.Nf5 Bf6 35.Bxg4 Qxg4 36.f3 Qh3
+37.Ne3 Bg5 38.Nd5 Rg6 39.f4 Bxf4 40.Nxf4 exf4  0-1
+
 [Event "New York op"]
 [Site "New York"]
 [Date "1994.??.??"]
@@ -9415,24 +9433,6 @@
 37.Bg2 Qf8 38.h4 Qe7 39.Bf3 Rg8 40.Ne4 Bd7 41.Nec5 Be8 42.Rg1 Bf7 43.Qh2 Bh6
 44.h5 g5 45.fxg5 Bxg5 46.Ne4 Bh6 47.Rxg8+ Bxg8 48.Rxc6 b4 49.Nec5 bxa3 50.bxa3 Ra8
 51.Qd6 Qg7 52.Bxd5 Qg4 53.Bg2 Qxh5+ 54.Kg1 Qd1+ 55.Kh2  1-0
-
-[Event "PCA-op"]
-[Site "New York"]
-[Date "1994.??.??"]
-[Round "6"]
-[White "Gurevich, Ilya"]
-[Black "Wolff, Patrick G"]
-[Result "0-1"]
-[WhiteElo "2570"]
-[BlackElo "2595"]
-[ECO "B92"]
-
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O
-9.Kh1 Nbd7 10.g4 h6 11.g5 hxg5 12.Bxg5 Re8 13.Rg1 Nf8 14.Qd2 Be6 15.Bf3 Rc8
-16.h4 N6h7 17.Bh6 Bf6 18.h5 Kh8 19.Be3 Qd7 20.Rad1 Bxb3 21.Rg3 Be6 22.Rdg1 g5
-23.Rxg5 Nxg5 24.Bxg5 Qe7 25.Bh4 Nh7 26.Bg3 Bh4 27.Bh2 Rg8 28.Rd1 Rcd8 29.Nd5 Qg5
-30.Qe2 Bg4 31.Rg1 Nf6 32.Ne7 Qxh5 33.Rxg4 Nxg4 34.Nf5 Bf6 35.Bxg4 Qxg4 36.f3 Qh3
-37.Ne3 Bg5 38.Nd5 Rg6 39.f4 Bxf4 40.Nxf4 exf4  0-1
 
 [Event "New York op"]
 [Site "New York"]
@@ -9515,23 +9515,6 @@
 [Site "Philadelphia"]
 [Date "1994.??.??"]
 [Round "?"]
-[White "Pakkanen, Jukka"]
-[Black "Wolff, Patrick G"]
-[Result "1-0"]
-[WhiteElo "2315"]
-[BlackElo "2595"]
-[ECO "B91"]
-
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nde2 Nbd7 8.Bg2 b5
-9.Nd5 Nxd5 10.Qxd5 Nb6 11.Qd3 Be6 12.O-O Qc7 13.b3 Be7 14.f4 O-O 15.f5 Bd7
-16.g4 Rac8 17.c3 Rfd8 18.g5 Bf8 19.Qg3 g6 20.Ba3 Bc6 21.Qh4 b4 22.Bxb4 Bb5
-23.Rae1 a5 24.Ba3 Bxe2 25.Rxe2 Qxc3 26.Ref2 Rc7 27.Rf3 Qd4+ 28.Kh1 Be7 29.fxg6 fxg6
-30.Qh6  1-0
-
-[Event "World op"]
-[Site "Philadelphia"]
-[Date "1994.??.??"]
-[Round "?"]
 [White "Wolff, Patrick G"]
 [Black "Manion, Josh"]
 [Result "1-0"]
@@ -9546,25 +9529,22 @@
 30.Qe2 Rg8 31.b4 Bf8 32.Qc4 Rc8 33.Nxb6 Qxc4 34.Nxc4 Nxb4 35.Bb3 Nxa6 36.Nxd6 Bxd6
 37.Rxd6 Nc7 38.Bxg8 Rxg8 39.Rd8 Bc6  1-0
 
-[Event "Harvard Cup"]
-[Site "Boston"]
-[Date "1995.??.??"]
+[Event "World op"]
+[Site "Philadelphia"]
+[Date "1994.??.??"]
 [Round "?"]
-[White "Comp WChess"]
+[White "Pakkanen, Jukka"]
 [Black "Wolff, Patrick G"]
-[Result "0-1"]
-[WhiteElo ""]
-[BlackElo "2565"]
-[ECO "B01"]
+[Result "1-0"]
+[WhiteElo "2315"]
+[BlackElo "2595"]
+[ECO "B91"]
 
-1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 c6 5.Nf3 Nf6 6.Ne5 Be6 7.Bc4 Bxc4 8.Nxc4 Qa6
-9.Qe2 e6 10.O-O Nd5 11.Ne4 Nd7 12.Ncd6+ Bxd6 13.Nxd6+ Ke7 14.Qxa6 bxa6 15.Ne4 N5f6
-16.Nxf6 Nxf6 17.c4 Rhd8 18.Rd1 c5 19.Be3 Ng4 20.dxc5 Nxe3 21.fxe3 Rxd1+ 22.Rxd1 a5
-23.c6 Rd8 24.Rxd8 Kxd8 25.Kf2 Kc7 26.Ke2 Kxc6 27.Kd2 Kc5 28.Kd3 a4 29.e4 f6
-30.Kc3 g6 31.g4 a6 32.Kd3 a5 33.Kc3 h5 34.gxh5 gxh5 35.h4 a3 36.bxa3 a4 37.Kd3 f5
-38.e5 f4 39.Kc3 f3 40.Kd3 f2 41.Ke2 Kxc4 42.Kxf2 Kd4 43.Kf3 Kxe5 44.Ke3 Kf5
-45.Kf3 e5 46.Ke3 Kg4 47.Ke4 Kxh4 48.Kxe5 Kg3 49.Kd4 h4 50.Kc5 h3 51.Kb5 h2
-52.Kxa4  0-1
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 e5 7.Nde2 Nbd7 8.Bg2 b5
+9.Nd5 Nxd5 10.Qxd5 Nb6 11.Qd3 Be6 12.O-O Qc7 13.b3 Be7 14.f4 O-O 15.f5 Bd7
+16.g4 Rac8 17.c3 Rfd8 18.g5 Bf8 19.Qg3 g6 20.Ba3 Bc6 21.Qh4 b4 22.Bxb4 Bb5
+23.Rae1 a5 24.Ba3 Bxe2 25.Rxe2 Qxc3 26.Ref2 Rc7 27.Rf3 Qd4+ 28.Kh1 Be7 29.fxg6 fxg6
+30.Qh6  1-0
 
 [Event "Harvard Cup"]
 [Site "Boston"]
@@ -9661,6 +9641,26 @@
 9.Nc3 b6 10.Qe2 Bd7 11.Qe4 f5 12.Qe2 b5 13.b3 Qa5 14.Bd2 Qc7 15.g3 f4 16.Kg2 Rf5
 17.g4 Rf7 18.h3 b4 19.Nd1 c4 20.dxc4 c5 21.Nb2 Bc6 22.Kg1 Qb7 23.Nh2 Nh4
 24.Nd3 Bf3 25.Nxf3 Nxf3+ 26.Kf1 Rd8 27.Rad1 Nxd2+  0-1
+
+[Event "Harvard Cup"]
+[Site "Boston"]
+[Date "1995.??.??"]
+[Round "?"]
+[White "Comp WChess"]
+[Black "Wolff, Patrick G"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo "2565"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 c6 5.Nf3 Nf6 6.Ne5 Be6 7.Bc4 Bxc4 8.Nxc4 Qa6
+9.Qe2 e6 10.O-O Nd5 11.Ne4 Nd7 12.Ncd6+ Bxd6 13.Nxd6+ Ke7 14.Qxa6 bxa6 15.Ne4 N5f6
+16.Nxf6 Nxf6 17.c4 Rhd8 18.Rd1 c5 19.Be3 Ng4 20.dxc5 Nxe3 21.fxe3 Rxd1+ 22.Rxd1 a5
+23.c6 Rd8 24.Rxd8 Kxd8 25.Kf2 Kc7 26.Ke2 Kxc6 27.Kd2 Kc5 28.Kd3 a4 29.e4 f6
+30.Kc3 g6 31.g4 a6 32.Kd3 a5 33.Kc3 h5 34.gxh5 gxh5 35.h4 a3 36.bxa3 a4 37.Kd3 f5
+38.e5 f4 39.Kc3 f3 40.Kd3 f2 41.Ke2 Kxc4 42.Kxf2 Kd4 43.Kf3 Kxe5 44.Ke3 Kf5
+45.Kf3 e5 46.Ke3 Kg4 47.Ke4 Kxh4 48.Kxe5 Kg3 49.Kd4 h4 50.Kc5 h3 51.Kb5 h2
+52.Kxa4  0-1
 
 [Event "USA-ch"]
 [Site "Modesto"]
@@ -10108,6 +10108,24 @@
 [Site "North Bay"]
 [Date "1996.??.??"]
 [Round "?"]
+[White "Karklins, Andrew"]
+[Black "Wolff, Patrick G"]
+[Result "0-1"]
+[WhiteElo "2355"]
+[BlackElo "2580"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 c6 5.Bf4 Nf6 6.Qd2 Bf5 7.Nf3 Nbd7 8.Bd3 Bxd3
+9.Qxd3 Nd5 10.Bg3 e6 11.O-O Nxc3 12.bxc3 Be7 13.Rfb1 b6 14.c4 O-O 15.a4 Rfd8
+16.Bf4 Bf6 17.c3 e5 18.Bd2 Re8 19.Qf5 Rad8 20.Re1 g6 21.Qc2 Qa6 22.Qb3 e4
+23.Ng5 e3 24.Bxe3 Rxe3 25.Rxe3 Bxg5 26.Re2 Bf6 27.Rae1 Qc8 28.Qc2 Kg7 29.f4 Nf8
+30.Kh1 Qg4 31.Qe4 c5 32.h3 Qd7 33.g4 h6 34.Qg2 Ne6 35.Qf3 cxd4 36.Rd2 d3
+37.Re3 Nc5 38.Qg2 Bxc3 39.Rd1 Qxa4 40.Rc1 d2  0-1
+
+[Event "North Bay op"]
+[Site "North Bay"]
+[Date "1996.??.??"]
+[Round "?"]
 [White "Peckford, William"]
 [Black "Wolff, Patrick G"]
 [Result "1/2-1/2"]
@@ -10139,24 +10157,6 @@
 30.Kg1 Bb7 31.Kh1 Na5 32.Be4 Ba6 33.Bd3 Qd8 34.Rc3 Bb7 35.Bc2 Bc6 36.Rd3 Rxd3
 37.Bxd3 Nb3 38.Bc2 Qb8 39.Qe1 Qb7 40.Qc3 Nd4 41.Bd1 Nxf3 42.Bxf3 Bxf3 43.gxf3 Qd7
 44.Qc2 Bg5 45.Kg2 Bf4 46.Bxc5 Bxe5 47.Bf2 f5 48.c5 Qc6 49.b3 axb3 50.Qxb3 g5  1/2-1/2
-
-[Event "North Bay op"]
-[Site "North Bay"]
-[Date "1996.??.??"]
-[Round "?"]
-[White "Karklins, Andrew"]
-[Black "Wolff, Patrick G"]
-[Result "0-1"]
-[WhiteElo "2355"]
-[BlackElo "2580"]
-[ECO "B01"]
-
-1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 c6 5.Bf4 Nf6 6.Qd2 Bf5 7.Nf3 Nbd7 8.Bd3 Bxd3
-9.Qxd3 Nd5 10.Bg3 e6 11.O-O Nxc3 12.bxc3 Be7 13.Rfb1 b6 14.c4 O-O 15.a4 Rfd8
-16.Bf4 Bf6 17.c3 e5 18.Bd2 Re8 19.Qf5 Rad8 20.Re1 g6 21.Qc2 Qa6 22.Qb3 e4
-23.Ng5 e3 24.Bxe3 Rxe3 25.Rxe3 Bxg5 26.Re2 Bf6 27.Rae1 Qc8 28.Qc2 Kg7 29.f4 Nf8
-30.Kh1 Qg4 31.Qe4 c5 32.h3 Qd7 33.g4 h6 34.Qg2 Ne6 35.Qf3 cxd4 36.Rd2 d3
-37.Re3 Nc5 38.Qg2 Bxc3 39.Rd1 Qxa4 40.Rc1 d2  0-1
 
 [Event "North Bay op"]
 [Site "North Bay"]
@@ -10723,3 +10723,341 @@
 23.dxe5 Nxe5 24.Nxe5 dxe5 25.Rad1 Kh7 26.Qe2 f6 27.Bc4 a5 28.Rd2 Rd8 29.Bd5 Be8
 30.Qc4 Rdb8 31.Qa2 Qc7 32.Bc4 Rd8 33.Rxd8 Qxd8 34.Kg2 Bb8 35.f3 Rd6 36.Re2 Bc6
 37.Bf2 Ba7 38.Be3 Qd7 39.Qa3 Rd1 40.Bxc5 f5 41.gxf5 Qd8 42.Bxa7 Qg5+  1/2-1/2
+
+[Event "USCL 2007"]
+[Site "ICC INT"]
+[Date "2007.09.05"]
+[Round "2"]
+[White "Boskovic,D"]
+[Black "Wolff,Pa"]
+[Result "1/2-1/2"]
+[WhiteElo "2473"]
+[BlackElo "2564"]
+[ECO "B52"]
+
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Nxd7 5.O-O Ngf6 6.Qe2 e6 7.c4 Be7 8.Nc3 O-O
+9.d4 cxd4 10.Nxd4 Rc8 11.b3 a6 12.Bb2 Qa5 13.Rac1 Bd8 14.Kh1 Bb6 15.Rfd1 Rfd8
+16.f4 Ba7 17.f5 Bxd4 18.Rxd4 exf5 19.exf5 Qxf5 20.Nd5 Re8 21.Ne7+ Rxe7 22.Qxe7 Re8
+23.Qxd6 Qc2 24.Rf1 Qxb2 25.Rd2 Qc3 26.h3 Nc5 27.Qd4 Qa5 28.Rf5 Nfe4 29.Re5 Rf8
+30.Rd1 Qxa2 31.Rxe4 Nxe4 32.Qxe4 Qxb3 33.Rb1 Qc3 34.Rxb7 g6 35.Ra7 Qf6 36.c5 Kg7
+37.c6 Rd8 38.Rd7 Rxd7 39.cxd7 Qd6 40.Qe8  1/2-1/2
+
+[Event "USCL 2007"]
+[Site "ICC INT"]
+[Date "2007.09.26"]
+[Round "5"]
+[White "Burnett,R"]
+[Black "Wolff,Pa"]
+[Result "0-1"]
+[WhiteElo "2373"]
+[BlackElo "2564"]
+[ECO "B63"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O
+9.f3 Nxd4 10.Qxd4 Qa5 11.h4 Bd7 12.Qd2 b5 13.e5 b4 14.Bxf6 gxf6 15.Qh6 Qxe5
+16.f4 Qe3+ 17.Kb1 Qg3 18.f5 bxc3 19.Rh3 Qg7 20.Qe3 Rfb8 21.Rg3 Rxb2+ 22.Ka1 d5
+23.Rxg7+ Kxg7 24.Qxc3 Rb6 25.fxe6 Bxe6 26.Qg3+ Kf8 27.Qf4 Rab8 28.Qh6+ Kg8
+29.c3 Bf5 30.a4 Rb3 31.Bb5 Be6 32.Qf4 Rc8 33.Rd3 Kh8 34.Rg3 Rbxc3 35.Rxc3 Rxc3
+36.Qb8+ Kg7 37.Qxa7 Bd6 38.Qf2 Bg3 39.Qf1 Be5 40.Kb1 Ra3 41.Kc2 Bg4 42.Kd2 Ra1
+43.Qd3 Rd1+  0-1
+
+[Event "USCL 2007"]
+[Site "ICC INT"]
+[Date "2007.10.03"]
+[Round "6"]
+[White "Christiansen,L"]
+[Black "Wolff,Pa"]
+[Result "1-0"]
+[WhiteElo "2575"]
+[BlackElo "2564"]
+[ECO "B63"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O
+9.Nb3 Qb6 10.f3 Rd8 11.Qe1 a6 12.h4 Qc7 13.h5 h6 14.Be3 d5 15.Kb1 dxe4 16.Rxd8+ Bxd8
+17.fxe4 b5 18.Bd3 Qe5 19.Qe2 Be7 20.g3 Qxg3 21.Rg1 Qh3 22.Bxh6 Nxh5 23.e5 Bb7
+24.Qe4 Kf8 25.Qh7 Ke8 26.Bxg7 Kd7 27.Nd5 Rd8 28.Nf6+ Kc8 29.Qxh5 Qe3 30.Rc1 Nxe5
+31.Bh6 Qg3 32.Ne4 Bxe4 33.Bxe4 f5 34.Bxf5 exf5 35.Qxf5+ Nd7 36.Bf4 Qf3 37.Nd4 Qb7
+38.c4  1-0
+
+[Event "USCL 2007"]
+[Site "ICC INT"]
+[Date "2007.10.31"]
+[Round "10"]
+[White "Wolff,Pa"]
+[Black "Boskovic,D"]
+[Result "1-0"]
+[WhiteElo "2564"]
+[BlackElo "2473"]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qc7 5.Nc3 e6 6.Be2 a6 7.O-O Nf6 8.Be3 Be7
+9.f4 d6 10.Kh1 O-O 11.Qe1 Nxd4 12.Bxd4 b5 13.a3 Bb7 14.Qg3 Bc6 15.Rae1 Qb7
+16.Bd3 g6 17.b4 a5 18.f5 e5 19.Be3 axb4 20.axb4 Ra3 21.Nd5 Bxd5 22.exd5 e4
+23.Bc1 Ra1 24.Be2 Qxd5 25.Bb2 Rxe1 26.Qxe1 Nd7 27.f6 Bd8 28.Qc1 Kh8 29.c4 Qe6
+30.Qf4 Nb6 31.Qh6 Rg8 32.Rf4 g5 33.Bg4  1-0
+
+[Event "USCL Wildcard 2007"]
+[Site "ICC INT"]
+[Date "2007.11.07"]
+[Round "1"]
+[White "Becerra Rivero,J"]
+[Black "Wolff,Pa"]
+[Result "1/2-1/2"]
+[WhiteElo "2568"]
+[BlackElo "2564"]
+[ECO "B65"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O Nxd4
+9.Qxd4 O-O 10.f4 Qa5 11.Bc4 Bd7 12.e5 dxe5 13.Qxe5 Qb6 14.f5 Rac8 15.Bb3 Ng4
+16.Qf4 Bxg5 17.Qxg5 Nf6  1/2-1/2
+
+[Event "USCL 2008"]
+[Site "ICC INT"]
+[Date "2008.08.27"]
+[Round "1"]
+[White "Wolff,Pa"]
+[Black "Zivanic,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2564"]
+[BlackElo "2477"]
+[ECO "B48"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Bd3 Nf6 8.O-O h5
+9.h3 Bd6 10.Re1 b5 11.a4 b4 12.Nd5 exd5 13.exd5 Ne7 14.Nf5 O-O 15.Bd4 Bh2+
+16.Kh1 Nxf5 17.Bxf6 Qb6 18.Bg5 Qxf2 19.Rf1 Ng3+ 20.Kxh2 Nxf1+ 21.Qxf1 Qxf1
+22.Rxf1 Re8 23.d6 Re5 24.Bf4 Re6 25.Bf5 Re8 26.Bg5 Bb7 27.Be7 Bc6 28.b3 Ra7
+29.Bd3 Bd5 30.Rf5 Be6 31.Rxh5 f6 32.g4 Kf7 33.Rc5 g5 34.Be4 a5 35.Kg3 Rh8
+36.Bg2  1/2-1/2
+
+[Event "USCL 2008"]
+[Site "ICC INT"]
+[Date "2008.09.17"]
+[Round "4"]
+[White "Kudrin,S"]
+[Black "Wolff,Pa"]
+[Result "1/2-1/2"]
+[WhiteElo "2563"]
+[BlackElo "2564"]
+[ECO "B63"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O Nxd4
+9.Qxd4 O-O 10.f3 Bd7 11.h4 Qa5 12.Bd2 Qc5 13.Qxc5 dxc5 14.e5 Nd5 15.Bg5 Bxg5+
+16.hxg5 Nxc3 17.bxc3 Bc6 18.Bd3 g6 19.Rh4 Kg7 20.Rdh1 Rh8 21.Kd2 b5 22.Ke3 Rab8
+23.Be4 Bxe4  1/2-1/2
+
+[Event "USCL 2008"]
+[Site "ICC INT"]
+[Date "2008.10.15"]
+[Round "8"]
+[White "Wolff,Pa"]
+[Black "Ehlvest,J"]
+[Result "0-1"]
+[WhiteElo "2564"]
+[BlackElo "2603"]
+[ECO "C00"]
+
+1.e4 e6 2.d3 c5 3.Nd2 Nc6 4.g3 d6 5.Bg2 g6 6.f4 Bg7 7.Ne2 Nge7 8.O-O O-O
+9.g4 f5 10.Ng3 fxg4 11.Qxg4 Nd4 12.Qd1 e5 13.fxe5 dxe5 14.Rxf8+ Qxf8 15.Nc4 Nec6
+16.Ne3 Ne6 17.Nd5 Nf4 18.Be3 Nh3+ 19.Bxh3 Bxh3 20.c3 b6 21.Rc1 Qd6 22.a3 Be6
+23.b4 cxb4 24.axb4 Bxd5 25.exd5 Qxd5 26.Ne4 Rd8 27.Nf2 e4 28.d4 b5 29.Qg4 a5
+30.bxa5 Nxa5 31.Re1 Re8 32.Bd2 Nc4 33.Rxe4 Rf8 34.Be1 Rf5 35.Re8+ Kf7 36.Qe4 Qxe4
+37.Rxe4 Bh6 38.Ng4 Bf4 39.Kg2 h5 40.Nf2 Ne3+ 41.Kf3 Nd5 42.Kg2 Bh6 43.Nd1 Bc1
+44.Bg3 g5 45.Re2 h4 46.Be5 Bf4 47.Kh3 Kg6 48.Rb2 Bxe5 49.Rxb5 Bxd4  0-1
+
+[Event "USCL 2009"]
+[Site "ICC INT"]
+[Date "2009.10.07"]
+[Round "6"]
+[White "Wolff,Pa"]
+[Black "Becerra Rivero,J"]
+[Result "1-0"]
+[WhiteElo "2564"]
+[BlackElo "2557"]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.a4 Na5 8.Ba2 c5
+9.Nc3 Nc6 10.Bg5 Nb4 11.Bc4 Be6 12.h3 Nd7 13.Bd2 Nb6 14.Bxe6 fxe6 15.Ne2 Nc6
+16.Ng3 Qd7 17.c3 Bf6 18.b4 Nc8 19.Qb3 N8e7 20.bxc5 dxc5 21.a5 Ng6 22.Be3 Be7
+23.Nf5 Rac8 24.Red1 Kh8 25.Nxe7 Qxe7 26.Ng5 Nd8 27.d4 exd4 28.cxd4 Nf4 29.Bxf4 Rxf4
+30.Qg3 Rf6 31.dxc5 Rg6 32.f4 h6 33.Qh4 Qxc5+ 34.Kh1 Qc2 35.Qh5 Rf6 36.Qe8+  1-0
+
+[Event "USCL 2009"]
+[Site "ICC INT"]
+[Date "2009.10.26"]
+[Round "9"]
+[White "Wolff,Pa"]
+[Black "Burnett,R"]
+[Result "1-0"]
+[WhiteElo "2564"]
+[BlackElo "2368"]
+[ECO "B06"]
+
+1.e4 d6 2.d4 g6 3.Nf3 Bg7 4.Be2 c6 5.a4 Nd7 6.O-O Qc7 7.Nc3 Ngf6 8.Be3 b6
+9.Nd2 e5 10.dxe5 Nxe5 11.h3 O-O 12.f4 Ned7 13.Bf3 Ba6 14.Re1 Rfe8 15.Ra3 Rad8
+16.b4 h6 17.b5 Bb7 18.bxc6 Bxc6 19.Bd4 Nh5 20.Bxg7 Nxg7 21.Kh1 Nf6 22.Nb5 Qb7
+23.Rd3 Bxb5 24.axb5 Qc7 25.Nb3 Ngh5 26.Bxh5 Nxh5 27.Nd4 Nxf4 28.Rf3 Ne6 29.Nc6 Rd7
+30.Rf6 a6 31.c4 axb5 32.cxb5 Nd8 33.Nb4 Re5 34.Nd5 Qc5 35.Rxg6+ fxg6 36.Nf6+ Kg7
+37.Nxd7 Qxb5 38.Nxe5 Qxe5 39.Qa4 Nf7 40.Rf1 Qe7 41.Qd4+ Qe5 42.Qc4 Qe7 43.Qc3+ Qe5
+44.Qc7 Qe6 45.Qb7 h5 46.Rf4 Qc4 47.Kh2 Qe6 48.h4 Kg8 49.Qxb6 Qe5 50.g3 Qe7
+51.Qb3 Kg7 52.Qc3+ Ne5 53.Kg2 Kh7 54.Qd4 Ng4 55.Rf3 Qc7 56.Rc3 Qa5 57.Rc2 Kg8
+58.Rc8+ Kf7 59.Qc4+ Ke7 60.Qc7+ Qxc7 61.Rxc7+ Kf6 62.Ra7 Ke5 63.Ra4 Nf6 64.Kf3 d5
+65.exd5 Nxd5 66.Ra5 Ke6 67.Ke4 Nc7 68.Ra7 Nb5 69.Ra6+ Kf7 70.Ke5 Kg7 71.Rb6 Nc3
+72.Rb7+ Kh6 73.Rb3 Ne2 74.Re3 Ng1 75.Kf6 Nh3 76.Re8 Kh7 77.Re7+ Kh6 78.Rg7 Nf2
+79.Rxg6+ Kh7 80.Kg5  1-0
+
+[Event "USCL 2009"]
+[Site "ICC INT"]
+[Date "2009.11.04"]
+[Round "10"]
+[White "Ludwig,Dan"]
+[Black "Wolff,Pa"]
+[Result "1-0"]
+[WhiteElo "2461"]
+[BlackElo "2564"]
+[ECO "A21"]
+
+1.d4 d6 2.c4 e5 3.Nf3 e4 4.Ng5 f5 5.Nc3 c6 6.f3 Be7 7.Nh3 Nf6 8.Bg5 O-O 9.Nf4 Na6
+10.e3 Re8 11.Bxf6 Bxf6 12.fxe4 Bg5 13.g3 Bxf4 14.gxf4 Qh4+ 15.Kd2 fxe4 16.Qe1 Qf6
+17.Qg3 c5 18.d5 Nc7 19.Qg5 Qxg5 20.fxg5 Re5 21.h4 b5 22.b3 bxc4 23.bxc4 Rb8
+24.Kc2 Ba6 25.a3 Na8 26.Na4 Rf5 27.Kc3 Rf2 28.Rg1 Nc7 29.Rg4 Bc8 30.Rg2 Rf3
+31.Re1 Bd7 32.Nb2 Rh3 33.Rf2 Rxh4 34.Rf4 Rh2 35.Re2 Rxe2 36.Bxe2 Re8 37.Nd1 Re5
+38.Nf2 Rxg5 39.Nxe4 Re5 40.Nxd6 Rxe3+ 41.Kd2 Re7 42.Bd3 g5 43.Rf1 Ne8 44.Ne4 Rxe4
+45.Bxe4 Nd6 46.Kd3 Kg7 47.Rb1 h5 48.Rb8 Bh3 49.Rd8 Bf1+ 50.Ke3 Nxc4+ 51.Kf2 Nd2
+52.d6 Bb5 53.Bf5 Kf6 54.d7 Bxd7 55.Rxd7 Nc4 56.Bd3  1-0
+
+[Event "USCL QF 2009"]
+[Site "ICC INT"]
+[Date "2009.11.11"]
+[Round "1"]
+[White "Ramirez,Alej"]
+[Black "Wolff,Pa"]
+[Result "1/2-1/2"]
+[WhiteElo "2547"]
+[BlackElo "2564"]
+[ECO "D22"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 b5 5.a4 Bb7 6.b3 e6 7.axb5 axb5 8.Rxa8 Bxa8
+9.bxc4 bxc4 10.Bxc4 Nf6 11.O-O Nbd7 12.Nc3 Bb4 13.Qb3 Bd6 14.Nb5 O-O 15.Nxd6 cxd6
+16.Ba3 Ne4 17.d5 Ndc5 18.Qc2 Bxd5 19.Bxd5 exd5 20.Bb2 Qa5 21.Nd4 Qd2 22.Qxd2 Nxd2
+23.Rd1 Nc4 24.Ba1 Ra8 25.Nf5 f6 26.Ne7+ Kf7 27.Nxd5 Ra2 28.Bd4 Nb3 29.Bc3 Rc2
+30.g4 Ne5 31.h3 Nc5 32.Kg2 Ned3 33.Be1 Ke6 34.Nb4 Nxe1+ 35.Rxe1 Rb2 36.Nc6 Ne4
+37.Re2 Rxe2 38.Nd4+ Ke5 39.Nxe2 d5 40.Nd4 g6 41.h4 Nc3 42.Kf3 Ne4 43.Ke2 Kd6
+44.f3 Nc5 45.f4 Ne4 46.Nf3 h5 47.gxh5 Ng3+ 48.Kf2 Nxh5 49.Nd4 f5 50.Nf3 Ke6
+51.Ne5 Kf6 52.Kf3  1/2-1/2
+
+[Event "USCL"]
+[Site "ICC INT"]
+[Date "2010.08.23"]
+[Round "1"]
+[White "Wolff,Pa"]
+[Black "Wang Puchen"]
+[Result "1-0"]
+[WhiteElo "2564"]
+[BlackElo "2469"]
+[ECO "B92"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 e5 7.Nb3 Be7 8.O-O O-O
+9.Kh1 Nc6 10.f4 b5 11.fxe5 Nxe5 12.Nd4 Bb7 13.Nf5 Nxe4 14.Nd5 Bg5 15.Qd4 Nc5
+16.Bxg5 Qxg5 17.h4 Qd8 18.Nde7+ Kh8 19.Qxd6 Qxd6 20.Nxd6 Ne4 21.Nxb7 Ng3+
+22.Kg1 Nxe2+ 23.Kf2 Nd4 24.Rae1 f6 25.Re4 Nxc2 26.Kg3 Rfe8 27.Nf5 Nc4 28.Rff4 g5
+29.Rxe8+ Rxe8 30.Rf2 N2e3 31.b3 gxh4+ 32.Kxh4 Re4+ 33.Kh3 Nd1 34.Rc2 Nde3
+35.Rf2 Nb6 36.Nbd6 Re6 37.g3 Nbd5 38.a4 b4 39.Nc4 Nxc4 40.bxc4 Nb6 41.Rd2 Kg8
+42.Rd8+ Kf7 43.Rb8 h5 44.Nd4 Rd6 45.c5 Nd7 46.Rxb4 Nxc5 47.a5 Kg6 48.Nf3 Rd3
+49.Nh4+ Kg5 50.Rf4 Ne6 51.Rf5+  1-0
+
+[Event "USCL"]
+[Site "ICC INT"]
+[Date "2010.08.30"]
+[Round "2"]
+[White "Becerra Rivero,J"]
+[Black "Wolff,Pa"]
+[Result "1/2-1/2"]
+[WhiteElo "2557"]
+[BlackElo "2564"]
+[ECO "D04"]
+
+1.d4 d5 2.Nf3 Nf6 3.e3 g6 4.c4 c6 5.Nc3 Bg7 6.Be2 O-O 7.O-O a6 8.b3 Nbd7
+9.a4 c5 10.Ba3 cxd4 11.exd4 Re8 12.Re1 e5 13.dxe5 Nxe5 14.Nxe5 Rxe5 15.Bf3 Rxe1+
+16.Qxe1 dxc4 17.Rd1 Bd7 18.bxc4 Qa5 19.Nd5 Qxe1+ 20.Rxe1 Nxd5 21.cxd5 Bxa4
+22.d6 Rd8 23.Bxb7 Bf8 24.Bxa6 Bxd6 25.Bxd6 Rxd6  1/2-1/2
+
+[Event "USCL"]
+[Site "ICC INT"]
+[Date "2010.09.20"]
+[Round "5"]
+[White "Wolff,Pa"]
+[Black "Kretchetov,A"]
+[Result "1/2-1/2"]
+[WhiteElo "2564"]
+[BlackElo "2391"]
+[ECO "C53"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d3 a6 6.Nbd2 Ba7 7.O-O d6 8.Bb3 Ne7
+9.Nh4 Bg4 10.Ndf3 h6 11.h3 Bd7 12.d4 exd4 13.e5 dxe5 14.Nxe5 Be6 15.Bxe6 fxe6
+16.Nhg6 Nxg6 17.Nxg6 Rg8 18.Qe2 Qd7 19.cxd4 O-O-O 20.Bf4 Nd5 21.Be5 Qf7 22.Qc2 Bb6
+23.Rac1 Kb8 24.a3 Qf5 25.Rfe1 Rd7 26.Qe4 Nf6 27.Qxf5 exf5 28.Nh4 Bxd4 29.Bxd4 Rxd4
+30.Nxf5 Rd7 31.g4 Nd5 32.Rc4 Rf8 33.Rce4  1/2-1/2
+
+[Event "US Chess League 2011"]
+[Site "ICC INT"]
+[Date "2011.09.07"]
+[Round "2"]
+[White "Wolff,Pa"]
+[Black "Bercys,S"]
+[Result "1/2-1/2"]
+[WhiteElo "2564"]
+[BlackElo "2477"]
+[ECO "C03"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Be7 4.Ngf3 Nf6 5.e5 Nfd7 6.Bd3 c5 7.c3 Nc6 8.O-O a5
+9.a4 b6 10.Re1 Ba6 11.Bb1 cxd4 12.cxd4 Nb4 13.Nf1 Rc8 14.h4 Bxh4 15.Nxh4 Qxh4
+16.Nh2 h6 17.Ra3 Rc4 18.Nf3 Qe7 19.Rae3 Kd8 20.Bd2 Rc6 21.Nh2 Kc7 22.Rg3 f5
+23.exf6 gxf6 24.Ng4 h5 25.Nh6 h4 26.Rh3 Kb7 27.Rxh4 Qf8 28.Qf3 Ka7 29.Qh3 Bc8
+30.Nf5 Rg8 31.Ng3 f5 32.Nh5 Nf6 33.Nxf6 Qxf6 34.Rh7+ Ka8 35.Bc3 Qd8 36.Re3 Rc7
+37.Rxc7 Qxc7 38.Qh4 Qd7 39.b3 Qc7 40.Qh2 Kb7 41.Rh3 Rg7 42.Qxc7+ Kxc7 43.f3 Kd6
+44.Kf2 Bd7 45.Bd2 b5 46.Bf4+ Kc6 47.axb5+ Kxb5 48.Rh8 Nc6 49.Bd6 Kb6 50.Bd3 Kb7
+51.Be2 Rf7 52.Ke3 Rg7 53.Bf1 Kb6 54.Kf4 Kb7 55.Bc5 Kc7 56.g3 Rf7 57.Be2 Kb7
+58.Kg5 Rg7+ 59.Kf4 Rf7 60.Ke3 f4+ 61.gxf4 Ne7 62.Bxe7 Rxe7 63.Bd3 Rg7 64.Rh7 Rxh7
+65.Bxh7 Kc6 66.Bd3 Kd6 67.f5 e5 68.f6 Be8 69.Bf5 Bf7 70.Kd3 Be8 71.Kc3 Bh5
+72.Kd3 Be8 73.Ke3 Bf7 74.Bc8 Bh5 75.f4  1/2-1/2
+
+[Event "US Chess League 2011"]
+[Site "ICC INT"]
+[Date "2011.10.05"]
+[Round "6"]
+[White "Wolff,Pa"]
+[Black "Stripunsky,A"]
+[Result "1-0"]
+[WhiteElo "2564"]
+[BlackElo "2563"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.d4 cxd4 6.cxd4 d6 7.a3 Bd7 8.Bd3 Bc6
+9.O-O Nd7 10.b4 a6 11.Re1 Rc8 12.Ng5 g6 13.Qf3 Qe7 14.exd6 Qf6 15.Qg4 Bh6
+16.Bd2 O-O 17.Qh4 Qg7 18.Nf3 Bxd2 19.Nbxd2 Rfd8 20.Ne5 Qf6 21.Qg3 Qf4 22.Ne4 Qxg3
+23.hxg3 Nb8 24.Rac1 Kg7 25.Ng5 Be8 26.Be4 Rxc1 27.Rxc1 Nc6 28.d7 Bxd7 29.Ngxf7 Rf8
+30.Bxd5 exd5 31.Nxc6 Bxc6 32.Ne5 a5 33.bxa5 Ra8 34.Rc5 Kf6 35.f3 Ra6 36.Nd3 Ra8
+37.Nb4 Ke7 38.a6 Kd6 39.a4 Bxa4 40.axb7 Rb8 41.Rxd5+ Ke6 42.Ra5 Bd7 43.Na6  1-0
+
+[Event "US Chess League 2011 Playoff"]
+[Site "ICC INT"]
+[Date "2011.11.07"]
+[Round "1"]
+[White "Wolff,Pa"]
+[Black "Matikozian,A"]
+[Result "0-1"]
+[WhiteElo "2564"]
+[BlackElo "2457"]
+[ECO "B54"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 a6 6.c4 e6 7.Nc3 b6 8.Be3 Bb7
+9.Be2 Nbd7 10.O-O Be7 11.Qd2 O-O 12.Rfd1 Qc7 13.Rac1 Rac8 14.b4 Qb8 15.Nb3 Rfe8
+16.Bf4 Ne5 17.Na4 Bc6 18.Nb2 Red8 19.Qe3 h6 20.b5 axb5 21.cxb5 Ba8 22.Rxc8 Rxc8
+23.Bxe5 dxe5 24.Nc4 Qa7 25.a4 Qxa4 26.Nxb6 Qa7 27.Qf2 Rc3 28.Ra1 Qxa1+ 29.Nxa1 Bc5
+30.Qxc5 Rxc5 31.Nb3 Rc3 32.Na5 Ra3 33.Nac4 Ra2 34.Bf1 Kf8 35.Nxe5 Ke7 36.Nc8+ Kd8
+37.Nd6 Nd7 38.Ndxf7+ Ke7 39.Nxd7 Kxd7 40.Bd3 Ke7 41.Ne5 Kd6 42.Nc6 Bxc6 43.bxc6 Kxc6
+44.Bc4 Ra1+ 45.Kf2 e5 46.Kg3 Rc1 47.Bd5+ Kd6 48.h4 Rc2 49.Kh3 Kc5 50.g3 Kd4
+51.Kg4 Ke3 52.f4 exf4 53.gxf4 Rg2+ 54.Kf5 Rf2 55.Kg6 Rg2+ 56.Kf5 Rf2 57.Kg6 Rxf4
+58.h5 Rg4+ 59.Kh7 Rg1 60.Bc6 Kf4 61.Be8 Kxe4 62.Bg6+ Kf4 63.Kxg7 Kg5 64.Kf7 Rf1+
+65.Ke6 Re1+ 66.Kd5 Kf4 67.Kd6 Re5 68.Bf7 Kf5 69.Bg6+ Kf6 70.Kd7 Rd5+ 71.Kc6 Rg5
+72.Be8 Rg8  0-1

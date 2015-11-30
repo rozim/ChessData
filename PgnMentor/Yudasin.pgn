@@ -2,18 +2,18 @@
 [Site "Frunze"]
 [Date "1981.??.??"]
 [Round "?"]
-[White "Kupreichik, Viktor D"]
+[White "Jussupow, Artur"]
 [Black "Yudasin, Leonid"]
-[Result "0-1"]
-[WhiteElo "2580"]
+[Result "1-0"]
+[WhiteElo "2585"]
 [BlackElo "2345"]
-[ECO "B61"]
+[ECO "A19"]
 
-1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2 Rc8 8.f4 Nxd4
-9.Qxd4 Qa5 10.e5 dxe5 11.fxe5 e6 12.O-O-O Bc6 13.Nb5 Bxb5 14.exf6 Bc6 15.h4 Rg8
-16.Bc4 gxf6 17.Rhe1 fxg5 18.Bxe6 fxe6 19.Rxe6+ Be7 20.Rxe7+ Kxe7 21.Qe3+ Kf7
-22.Rf1+ Kg7 23.Qe7+ Kh6 24.Rf7 Rcf8 25.Qd6+ Kh5 26.g4+ Kxg4 27.Qe6+ Kg3 28.Qe3+ Kh2
-29.b4 Qxb4 30.Qe5+ Kh1  0-1
+1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 Ng8 5.Nf3 Nc6 6.d4 cxd4 7.Nxd4 Nxe5 8.Bf4 f6
+9.Qa4 Qb6 10.Ncb5 a6 11.O-O-O Rb8 12.Nc3 Bc5 13.Nf3 Bxf2 14.Kb1 Qc7 15.Bd3 Ne7
+16.Ne4 Bc5 17.Rhe1 O-O 18.Nxc5 Qxc5 19.Nxe5 fxe5 20.Bxe5 b5 21.cxb5 Rxb5
+22.Bd6 Qg5 23.Bxe7 Qxe7 24.Bxb5 axb5 25.Qxb5 Qh4 26.Rf1 Rd8 27.Qb6 h6 28.Rd4 Qg5
+29.h4 Qg6+ 30.Ka1 Re8 31.g4 Qc2 32.Rdf4 e5 33.Rf7 d5  1-0
 
 [Event "URS-ch49"]
 [Site "Frunze"]
@@ -185,6 +185,23 @@
 [Site "Frunze"]
 [Date "1981.??.??"]
 [Round "?"]
+[White "Kupreichik, Viktor D"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[WhiteElo "2580"]
+[BlackElo "2345"]
+[ECO "B61"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bg5 Bd7 7.Qd2 Rc8 8.f4 Nxd4
+9.Qxd4 Qa5 10.e5 dxe5 11.fxe5 e6 12.O-O-O Bc6 13.Nb5 Bxb5 14.exf6 Bc6 15.h4 Rg8
+16.Bc4 gxf6 17.Rhe1 fxg5 18.Bxe6 fxe6 19.Rxe6+ Be7 20.Rxe7+ Kxe7 21.Qe3+ Kf7
+22.Rf1+ Kg7 23.Qe7+ Kh6 24.Rf7 Rcf8 25.Qd6+ Kh5 26.g4+ Kxg4 27.Qe6+ Kg3 28.Qe3+ Kh2
+29.b4 Qxb4 30.Qe5+ Kh1  0-1
+
+[Event "URS-ch49"]
+[Site "Frunze"]
+[Date "1981.??.??"]
+[Round "?"]
 [White "Yudasin, Leonid"]
 [Black "Kuzmin, Gennadi P"]
 [Result "1/2-1/2"]
@@ -196,23 +213,6 @@
 9.d4 Bg4 10.Be3 exd4 11.cxd4 Qd7 12.d5 Bxf3 13.gxf3 Na5 14.Bc2 Qh3 15.Nd2 Nh5
 16.f4 Bf6 17.Rb1 Nc4 18.Nxc4 bxc4 19.Kh1 g6 20.Rg1 Bg7 21.b3 c3 22.Bd3 Rae8
 23.Rc1 a5 24.Be2 Nf6 25.Bf1 Qh5 26.Qxh5 Nxh5 27.Bd3 Nf6 28.Rxc3 Nxd5 29.Rc4 Nxe3  1/2-1/2
-
-[Event "URS-ch49"]
-[Site "Frunze"]
-[Date "1981.??.??"]
-[Round "?"]
-[White "Jussupow, Artur"]
-[Black "Yudasin, Leonid"]
-[Result "1-0"]
-[WhiteElo "2585"]
-[BlackElo "2345"]
-[ECO "A19"]
-
-1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 Ng8 5.Nf3 Nc6 6.d4 cxd4 7.Nxd4 Nxe5 8.Bf4 f6
-9.Qa4 Qb6 10.Ncb5 a6 11.O-O-O Rb8 12.Nc3 Bc5 13.Nf3 Bxf2 14.Kb1 Qc7 15.Bd3 Ne7
-16.Ne4 Bc5 17.Rhe1 O-O 18.Nxc5 Qxc5 19.Nxe5 fxe5 20.Bxe5 b5 21.cxb5 Rxb5
-22.Bd6 Qg5 23.Bxe7 Qxe7 24.Bxb5 axb5 25.Qxb5 Qh4 26.Rf1 Rd8 27.Qb6 h6 28.Rd4 Qg5
-29.h4 Qg6+ 30.Ka1 Re8 31.g4 Qc2 32.Rdf4 e5 33.Rf7 d5  1-0
 
 [Event "URS-ch49"]
 [Site "Frunze"]
@@ -511,6 +511,21 @@
 [Site "Ivano Frankovsk"]
 [Date "1982.??.??"]
 [Round "?"]
+[White "Makarichev, Sergey"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2505"]
+[BlackElo "2405"]
+[ECO "E20"]
+
+1.c4 Nf6 2.Nc3 e6 3.d4 Bb4 4.g3 c5 5.Nf3 cxd4 6.Nxd4 O-O 7.Bg2 d5 8.cxd5 Nxd5
+9.Bd2 Bxc3 10.bxc3 Nb6 11.O-O e5 12.Nb5 Nc4 13.Bc1 Nc6 14.Bd5 N6a5 15.Qd3 a6
+16.Na3 Bf5  1/2-1/2
+
+[Event "URS-ch sf"]
+[Site "Ivano Frankovsk"]
+[Date "1982.??.??"]
+[Round "?"]
 [White "Dydyshko, Viacheslav"]
 [Black "Yudasin, Leonid"]
 [Result "1-0"]
@@ -562,21 +577,6 @@
 [Site "Ivano Frankovsk"]
 [Date "1982.??.??"]
 [Round "?"]
-[White "Makarichev, Sergey"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2505"]
-[BlackElo "2405"]
-[ECO "E20"]
-
-1.c4 Nf6 2.Nc3 e6 3.d4 Bb4 4.g3 c5 5.Nf3 cxd4 6.Nxd4 O-O 7.Bg2 d5 8.cxd5 Nxd5
-9.Bd2 Bxc3 10.bxc3 Nb6 11.O-O e5 12.Nb5 Nc4 13.Bc1 Nc6 14.Bd5 N6a5 15.Qd3 a6
-16.Na3 Bf5  1/2-1/2
-
-[Event "URS-ch sf"]
-[Site "Ivano Frankovsk"]
-[Date "1982.??.??"]
-[Round "?"]
 [White "Salov, Valery"]
 [Black "Yudasin, Leonid"]
 [Result "1-0"]
@@ -610,20 +610,18 @@
 [Site "Minsk"]
 [Date "1982.??.??"]
 [Round "?"]
-[White "Mochalov, Evgeny V"]
+[White "Psakhis, Lev"]
 [Black "Yudasin, Leonid"]
 [Result "0-1"]
-[WhiteElo "2435"]
+[WhiteElo "2545"]
 [BlackElo "2405"]
-[ECO "E18"]
+[ECO "E16"]
 
-1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O b6 7.Nc3 Bb7 8.Ne5 Na6
-9.a3 c5 10.cxd5 exd5 11.Be3 Nc7 12.Rc1 Ne6 13.dxc5 bxc5 14.Na4 Qb8 15.Qb3 Rc8
-16.Rfd1 Rc7 17.Bh3 Bd6 18.Ng4 Nd7 19.Rxd5 Bxd5 20.Qxd5 Qf8 21.Rd1 Be7 22.Ne5 Nxe5
-23.Qxe5 Bf6 24.Qe4 Nd4 25.Bxd4 cxd4 26.b4 Qe8 27.Bg2 Rd8 28.Nc5 Re7 29.Qf3 Rxe2
-30.Ne4 d3 31.Nxf6+ gxf6 32.Bf1 Re1 33.Rxd3 Rxd3 34.Qxd3 Qe4 35.Qxe4 Rxe4
-36.Kg2 Re1 37.Bb5 Ra1 38.Bc6 Rxa3 39.b5 Rb3 40.Kh3 Rb2 41.f3 Kf8 42.g4 Ke7
-43.Kg3 Kd6 44.Be8 Kc5 45.h4 Rxb5 46.Bxf7 Kd6 47.f4 h6  0-1
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Nbd2 Bb7 6.Bg2 Be7 7.O-O O-O 8.Qc2 d5
+9.cxd5 exd5 10.Ne5 c5 11.Ndf3 Nbd7 12.Bf4 Ne4 13.Rfd1 Ndf6 14.dxc5 Bxc5 15.Nd3 Qe7
+16.Ng5 Bd6 17.Bxd6 Qxd6 18.Nf3 Rac8 19.Qb3 Ba6 20.Nd4 Ng4 21.h3 Bc4 22.Qb4 Qf6
+23.hxg4 Qxd4 24.e3 Qf6 25.Qe1 Bxd3 26.Rxd3 Rc2 27.Rxd5 Nxf2 28.Rc1 Rxc1 29.Qxc1 Nxg4
+30.Qd2 a6 31.e4 h5 32.Qd4 Qc6 33.Qc3 Qc8  0-1
 
 [Event "Minsk"]
 [Site "Minsk"]
@@ -681,6 +679,25 @@
 [Site "Minsk"]
 [Date "1982.??.??"]
 [Round "?"]
+[White "Mochalov, Evgeny V"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[WhiteElo "2435"]
+[BlackElo "2405"]
+[ECO "E18"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O b6 7.Nc3 Bb7 8.Ne5 Na6
+9.a3 c5 10.cxd5 exd5 11.Be3 Nc7 12.Rc1 Ne6 13.dxc5 bxc5 14.Na4 Qb8 15.Qb3 Rc8
+16.Rfd1 Rc7 17.Bh3 Bd6 18.Ng4 Nd7 19.Rxd5 Bxd5 20.Qxd5 Qf8 21.Rd1 Be7 22.Ne5 Nxe5
+23.Qxe5 Bf6 24.Qe4 Nd4 25.Bxd4 cxd4 26.b4 Qe8 27.Bg2 Rd8 28.Nc5 Re7 29.Qf3 Rxe2
+30.Ne4 d3 31.Nxf6+ gxf6 32.Bf1 Re1 33.Rxd3 Rxd3 34.Qxd3 Qe4 35.Qxe4 Rxe4
+36.Kg2 Re1 37.Bb5 Ra1 38.Bc6 Rxa3 39.b5 Rb3 40.Kh3 Rb2 41.f3 Kf8 42.g4 Ke7
+43.Kg3 Kd6 44.Be8 Kc5 45.h4 Rxb5 46.Bxf7 Kd6 47.f4 h6  0-1
+
+[Event "Minsk"]
+[Site "Minsk"]
+[Date "1982.??.??"]
+[Round "?"]
 [White "Jussupow, Artur"]
 [Black "Yudasin, Leonid"]
 [Result "1-0"]
@@ -693,23 +710,6 @@
 16.Bxf6 Bxf6 17.Qh7+ Kf8 18.Nf3 Nc7 19.Rfe1 Re8 20.e4 g6 21.Qxh6+ Bg7 22.Qf4 dxe4
 23.Ng5 f5 24.Bxf5 gxf5 25.Qxf5+ Kg8 26.Qf7+ Kh8 27.d5 Qf6 28.Qh5+ Kg8 29.Ncxe4 Qe5
 30.Qf7+ Kh8 31.Qg6 Kg8 32.f4 Qxb2 33.Re2  1-0
-
-[Event "Minsk"]
-[Site "Minsk"]
-[Date "1982.??.??"]
-[Round "?"]
-[White "Psakhis, Lev"]
-[Black "Yudasin, Leonid"]
-[Result "0-1"]
-[WhiteElo "2545"]
-[BlackElo "2405"]
-[ECO "E16"]
-
-1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Nbd2 Bb7 6.Bg2 Be7 7.O-O O-O 8.Qc2 d5
-9.cxd5 exd5 10.Ne5 c5 11.Ndf3 Nbd7 12.Bf4 Ne4 13.Rfd1 Ndf6 14.dxc5 Bxc5 15.Nd3 Qe7
-16.Ng5 Bd6 17.Bxd6 Qxd6 18.Nf3 Rac8 19.Qb3 Ba6 20.Nd4 Ng4 21.h3 Bc4 22.Qb4 Qf6
-23.hxg4 Qxd4 24.e3 Qf6 25.Qe1 Bxd3 26.Rxd3 Rc2 27.Rxd5 Nxf2 28.Rc1 Rxc1 29.Qxc1 Nxg4
-30.Qd2 a6 31.e4 h5 32.Qd4 Qc6 33.Qc3 Qc8  0-1
 
 [Event "Minsk"]
 [Site "Minsk"]
@@ -1196,24 +1196,6 @@
 [Site "Lvov"]
 [Date "1983.??.??"]
 [Round "?"]
-[White "Karsa, Laszlo"]
-[Black "Yudasin, Leonid"]
-[Result "1-0"]
-[WhiteElo "2460"]
-[BlackElo "2500"]
-[ECO "A30"]
-
-1.Nf3 Nf6 2.c4 e6 3.e3 b6 4.b3 Bb7 5.Bb2 c5 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 O-O
-9.Be2 d5 10.cxd5 exd5 11.O-O Nbd7 12.Rfd1 Re8 13.Bb5 Bf8 14.Rac1 Re6 15.Qh4 a6
-16.Bxd7 Qxd7 17.Ng5 Rd6 18.Ba3 h6 19.Nf3 Re6 20.Bxf8 Rxf8 21.Qf4 Rfe8 22.Na4 Rc6
-23.Rxc6 Bxc6 24.Nxb6 Qb7 25.Qd4 Re6 26.Rc1 Ne4 27.Na4 Bxa4 28.Qxa4 Rf6 29.Qe8+ Kh7
-30.Rc8 Qb4 31.Qh8+ Kg6 32.Rg8 Ng5 33.Qxg7+ Kf5 34.Nd4+ Ke4 35.Nc2 Qc3 36.h4 Nh3+
-37.Kh2 Nxf2 38.Qh7+ Ke5 39.Re8+ Kd6 40.Qg8 Re6 41.Qf8+ Ke5 42.Qg7+ f6 43.Qg3+  1-0
-
-[Event "Lvov"]
-[Site "Lvov"]
-[Date "1983.??.??"]
-[Round "?"]
 [White "Pirttimaki, Timo"]
 [Black "Yudasin, Leonid"]
 [Result "0-1"]
@@ -1232,6 +1214,24 @@
 58.Nb7 Rc8 59.Nxc5 Nxc5 60.Rb6 Ra8 61.Nb4 d4 62.Rd6 Ke5 63.Rc6 Ra5 64.Kg2 Rb5
 65.Kf1 Rxb4 66.Rxc5+ Kd6 67.Rc8 Rb2 68.h4 Kd5 69.h5 d3 70.Rd8+ Kc4 71.f4 Rh2
 72.Ke1 Rxh5 73.Kd2 Rh2+ 74.Kd1 Rg2 75.Rd6 Rxg3 76.Rxe6 Kc3 77.Rc6+ Kd4 78.Re6 h5  0-1
+
+[Event "Lvov"]
+[Site "Lvov"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Karsa, Laszlo"]
+[Black "Yudasin, Leonid"]
+[Result "1-0"]
+[WhiteElo "2460"]
+[BlackElo "2500"]
+[ECO "A30"]
+
+1.Nf3 Nf6 2.c4 e6 3.e3 b6 4.b3 Bb7 5.Bb2 c5 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 O-O
+9.Be2 d5 10.cxd5 exd5 11.O-O Nbd7 12.Rfd1 Re8 13.Bb5 Bf8 14.Rac1 Re6 15.Qh4 a6
+16.Bxd7 Qxd7 17.Ng5 Rd6 18.Ba3 h6 19.Nf3 Re6 20.Bxf8 Rxf8 21.Qf4 Rfe8 22.Na4 Rc6
+23.Rxc6 Bxc6 24.Nxb6 Qb7 25.Qd4 Re6 26.Rc1 Ne4 27.Na4 Bxa4 28.Qxa4 Rf6 29.Qe8+ Kh7
+30.Rc8 Qb4 31.Qh8+ Kg6 32.Rg8 Ng5 33.Qxg7+ Kf5 34.Nd4+ Ke4 35.Nc2 Qc3 36.h4 Nh3+
+37.Kh2 Nxf2 38.Qh7+ Ke5 39.Re8+ Kd6 40.Qg8 Re6 41.Qf8+ Ke5 42.Qg7+ f6 43.Qg3+  1-0
 
 [Event "Lvov"]
 [Site "Lvov"]
@@ -1475,6 +1475,20 @@
 [Site "Trnava"]
 [Date "1983.??.??"]
 [Round "?"]
+[White "Ftacnik, Lubomir"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2560"]
+[BlackElo "2500"]
+[ECO "D14"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nc3 Nc6 5.Nf3 Nf6 6.Bf4 Bf5 7.e3 e6 8.Bd3 Bxd3
+9.Qxd3 Bd6 10.Bxd6 Qxd6 11.O-O O-O 12.Rac1 Rac8 13.a3  1/2-1/2
+
+[Event "Trnava"]
+[Site "Trnava"]
+[Date "1983.??.??"]
+[Round "?"]
 [White "Yudasin, Leonid"]
 [Black "Vaisser, Anatoli"]
 [Result "1/2-1/2"]
@@ -1517,20 +1531,6 @@
 9.c3 d5 10.exd5 e4 11.dxc6 exf3 12.d4 fxg2 13.Bg5 Re8 14.Qf3 Bg4 15.Qxg2 Bf5
 16.Nd2 bxc3 17.bxc3 Rb8 18.Re5 Bg6 19.Rae1 Kf8 20.h4 Ng8 21.Qf3 f6 22.h5 Bxh5
 23.Qxh5 Rxb3 24.Nxb3 fxe5 25.Nc5  1-0
-
-[Event "Trnava"]
-[Site "Trnava"]
-[Date "1983.??.??"]
-[Round "?"]
-[White "Ftacnik, Lubomir"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2560"]
-[BlackElo "2500"]
-[ECO "D14"]
-
-1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nc3 Nc6 5.Nf3 Nf6 6.Bf4 Bf5 7.e3 e6 8.Bd3 Bxd3
-9.Qxd3 Bd6 10.Bxd6 Qxd6 11.O-O O-O 12.Rac1 Rac8 13.a3  1/2-1/2
 
 [Event "Trnava"]
 [Site "Trnava"]
@@ -1819,6 +1819,22 @@
 [Site "Leningrad"]
 [Date "1984.??.??"]
 [Round "?"]
+[White "Yudasin, Leonid"]
+[Black "Cherepkov, Alexander V"]
+[Result "1/2-1/2"]
+[WhiteElo "2460"]
+[BlackElo "2425"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.Re1 Bf5
+9.c4 Nb4 10.Bf1 O-O 11.a3 Nc6 12.cxd5 Qxd5 13.Nc3 Nxc3 14.bxc3 Bf6 15.Bf4 Rac8
+16.Ne5 Nxe5 17.Bxe5 Bd8 18.Qa4 a6 19.c4 Qd7 20.Qxd7 Bxd7 21.Rab1 Rb8 22.Re3 b6
+23.c5  1/2-1/2
+
+[Event "White Knights"]
+[Site "Leningrad"]
+[Date "1984.??.??"]
+[Round "?"]
 [White "Vyzmanavin, Alexey"]
 [Black "Yudasin, Leonid"]
 [Result "1/2-1/2"]
@@ -1831,22 +1847,6 @@
 16.Rac1 Qe6 17.b4 a5 18.Qb3 axb4 19.axb4 b5 20.Nd3 Bc8 21.Ra1 Bd7 22.Ra2 Ng4
 23.Rxa8 Rxa8 24.h3 Nh6 25.Ne5 Ra6 26.Nxd7 Qxd7 27.e4 dxe4 28.Nxe4 Ra7 29.d5 cxd5
 30.Qxd5 Qxd5 31.Rxd5 Ra4 32.Rxb5 Rxb4  1/2-1/2
-
-[Event "White Knights"]
-[Site "Leningrad"]
-[Date "1984.??.??"]
-[Round "?"]
-[White "Yudasin, Leonid"]
-[Black "Cherepkov, Alexander V"]
-[Result "1/2-1/2"]
-[WhiteElo "2460"]
-[BlackElo "2425"]
-[ECO "C42"]
-
-1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.Re1 Bf5
-9.c4 Nb4 10.Bf1 O-O 11.a3 Nc6 12.cxd5 Qxd5 13.Nc3 Nxc3 14.bxc3 Bf6 15.Bf4 Rac8
-16.Ne5 Nxe5 17.Bxe5 Bd8 18.Qa4 a6 19.c4 Qd7 20.Qxd7 Bxd7 21.Rab1 Rb8 22.Re3 b6
-23.c5  1/2-1/2
 
 [Event "White Knights"]
 [Site "Leningrad"]
@@ -2023,17 +2023,17 @@
 [Site "Sverdlovsk"]
 [Date "1984.??.??"]
 [Round "?"]
-[White "Yudasin, Leonid"]
-[Black "Gorelov, Sergey G"]
+[White "Rashkovsky, Nukhim N"]
+[Black "Yudasin, Leonid"]
 [Result "1/2-1/2"]
-[WhiteElo "2480"]
-[BlackElo "2420"]
-[ECO "B45"]
+[WhiteElo "2400"]
+[BlackElo "2480"]
+[ECO "E12"]
 
-1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.a3 d6 7.f4 Be7 8.Nf3 O-O
-9.Bd3 a6 10.O-O b5 11.b4 a5 12.Rb1 axb4 13.axb4 d5 14.exd5 Nxd5 15.Nxd5 exd5
-16.c3 Ba6 17.Nd4 Nxd4 18.cxd4 Qb6 19.Be2 Bf6 20.Bb2 Be7 21.Bc1 Bf6 22.Bb2 Be7
-23.Bc1 Bf6 24.Bb2  1/2-1/2
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Ba6 5.e3 d5 6.Nbd2 Be7 7.b3 O-O 8.Bb2 c5 9.Bd3 Nc6
+10.O-O Rc8 11.Qe2 cxd4 12.exd4 Rc7 13.Rac1 dxc4 14.bxc4 Bb7 15.Rfd1 Re8 16.Ne4 Na5
+17.d5 exd5 18.Nxf6+ Bxf6 19.Bxf6 gxf6 20.Qd2 dxc4 21.Bxh7+ Kxh7 22.Qc2+ Be4
+23.Rxd8 Bxc2 24.Rxe8 Bg6 25.h4 Nb3 26.Rc3 b5 27.g4 a5 28.Rb8 Be4 29.Ne1  1/2-1/2
 
 [Event "URS-FL"]
 [Site "Sverdlovsk"]
@@ -2171,17 +2171,17 @@
 [Site "Sverdlovsk"]
 [Date "1984.??.??"]
 [Round "?"]
-[White "Rashkovsky, Nukhim N"]
-[Black "Yudasin, Leonid"]
+[White "Yudasin, Leonid"]
+[Black "Gorelov, Sergey G"]
 [Result "1/2-1/2"]
-[WhiteElo "2400"]
-[BlackElo "2480"]
-[ECO "E12"]
+[WhiteElo "2480"]
+[BlackElo "2420"]
+[ECO "B45"]
 
-1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.a3 Ba6 5.e3 d5 6.Nbd2 Be7 7.b3 O-O 8.Bb2 c5 9.Bd3 Nc6
-10.O-O Rc8 11.Qe2 cxd4 12.exd4 Rc7 13.Rac1 dxc4 14.bxc4 Bb7 15.Rfd1 Re8 16.Ne4 Na5
-17.d5 exd5 18.Nxf6+ Bxf6 19.Bxf6 gxf6 20.Qd2 dxc4 21.Bxh7+ Kxh7 22.Qc2+ Be4
-23.Rxd8 Bxc2 24.Rxe8 Bg6 25.h4 Nb3 26.Rc3 b5 27.g4 a5 28.Rb8 Be4 29.Ne1  1/2-1/2
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.a3 d6 7.f4 Be7 8.Nf3 O-O
+9.Bd3 a6 10.O-O b5 11.b4 a5 12.Rb1 axb4 13.axb4 d5 14.exd5 Nxd5 15.Nxd5 exd5
+16.c3 Ba6 17.Nd4 Nxd4 18.cxd4 Qb6 19.Be2 Bf6 20.Bb2 Be7 21.Bc1 Bf6 22.Bb2 Be7
+23.Bc1 Bf6 24.Bb2  1/2-1/2
 
 [Event "URS-FL"]
 [Site "Sverdlovsk"]
@@ -2576,16 +2576,16 @@
 [Site "Albena"]
 [Date "1985.??.??"]
 [Round "?"]
-[White "Toshkov, Tihomir"]
+[White "Spassov, Liuben"]
 [Black "Yudasin, Leonid"]
 [Result "1/2-1/2"]
-[WhiteElo "2420"]
+[WhiteElo "2395"]
 [BlackElo "2470"]
-[ECO "E18"]
+[ECO "A30"]
 
-1.Nf3 Nf6 2.c4 e6 3.Nc3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.d4 d5 8.Ne5 Na6
-9.cxd5 exd5 10.Bf4 Qc8 11.Rc1 Rd8 12.Nd3 c5 13.Be5 Ne4 14.dxc5 bxc5 15.Nf4 Nxc3
-16.bxc3 Bg5 17.Rb1 Bc6 18.Bh3 Bd7 19.Bg2 Bc6 20.Bh3 Bd7 21.Bg2  1/2-1/2
+1.Nf3 c5 2.c4 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nc6 6.d4 Nb6 7.e3 Bg4 8.Nc3 cxd4
+9.exd4 e6 10.O-O Be7 11.h3 Bxf3 12.Bxf3 Qd7 13.Be3 O-O 14.Qe2 Bf6 15.Rfd1 Nxd4
+16.Bxd4 Bxd4 17.Nb5 e5 18.Nxd4 exd4 19.Qe4 Rab8 20.Rxd4 Qxh3  1/2-1/2
 
 [Event "Albena"]
 [Site "Albena"]
@@ -2679,6 +2679,21 @@
 [Site "Albena"]
 [Date "1985.??.??"]
 [Round "?"]
+[White "Toshkov, Tihomir"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2420"]
+[BlackElo "2470"]
+[ECO "E18"]
+
+1.Nf3 Nf6 2.c4 e6 3.Nc3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.d4 d5 8.Ne5 Na6
+9.cxd5 exd5 10.Bf4 Qc8 11.Rc1 Rd8 12.Nd3 c5 13.Be5 Ne4 14.dxc5 bxc5 15.Nf4 Nxc3
+16.bxc3 Bg5 17.Rb1 Bc6 18.Bh3 Bd7 19.Bg2 Bc6 20.Bh3 Bd7 21.Bg2  1/2-1/2
+
+[Event "Albena"]
+[Site "Albena"]
+[Date "1985.??.??"]
+[Round "?"]
 [White "Yudasin, Leonid"]
 [Black "Vilela, Jose Luis"]
 [Result "1-0"]
@@ -2690,21 +2705,6 @@
 9.Ne2 e5 10.d5 Ne7 11.O-O Ng6 12.Ng3 Nf4 13.Bb1 g6 14.Re1 O-O 15.Nf1 Qe8
 16.g3 N4h5 17.f4 Kh8 18.Ra2 Rg8 19.Kh1 Bd7 20.Bd3 Bg4 21.Qc2 b5 22.cxb5 exf4
 23.c4 fxg3 24.Bb2 Qe7 25.hxg3 Ng7 26.Nh2 Bd7 27.Qf2 Nfe8 28.e5 Rf8 29.a4  1-0
-
-[Event "Albena"]
-[Site "Albena"]
-[Date "1985.??.??"]
-[Round "?"]
-[White "Spassov, Liuben"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2395"]
-[BlackElo "2470"]
-[ECO "A30"]
-
-1.Nf3 c5 2.c4 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nc6 6.d4 Nb6 7.e3 Bg4 8.Nc3 cxd4
-9.exd4 e6 10.O-O Be7 11.h3 Bxf3 12.Bxf3 Qd7 13.Be3 O-O 14.Qe2 Bf6 15.Rfd1 Nxd4
-16.Bxd4 Bxd4 17.Nb5 e5 18.Nxd4 exd4 19.Qe4 Rab8 20.Rxd4 Qxh3  1/2-1/2
 
 [Event "Albena"]
 [Site "Albena"]
@@ -3591,6 +3591,23 @@
 [Site "Kiev"]
 [Date "1986.??.??"]
 [Round "?"]
+[White "Dvoirys, Semen I"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2470"]
+[BlackElo "2485"]
+[ECO "B65"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O
+9.f4 Nxd4 10.Qxd4 Qa5 11.Kb1 Rd8 12.Bc4 Bd7 13.Bb3 Bc6 14.Rhe1 h6 15.Bh4 Qh5
+16.Bg3 d5 17.exd5 Nxd5 18.Nxd5 Bxd5 19.Re5 Bf3 20.Rxh5 Bxh5 21.Qxd8+ Rxd8
+22.Rxd8+ Bxd8 23.Bf2 Bc7 24.g3 a6 25.Kc1 g5 26.Be3 Bd8 27.c4 gxf4 28.Bxf4 Kg7
+29.Bd1 Bxd1 30.Kxd1 h5 31.Ke2 Kf6 32.h3 e5 33.Be3 Kf5 34.Kf3 e4+ 35.Ke2 Be7  1/2-1/2
+
+[Event "URS-ch53"]
+[Site "Kiev"]
+[Date "1986.??.??"]
+[Round "?"]
 [White "Azmaiparashvili, Zurab"]
 [Black "Yudasin, Leonid"]
 [Result "1-0"]
@@ -3642,23 +3659,6 @@
 16.Qg4 Rfe8 17.Bh6 Bf8 18.Nxc6 Qxc6 19.Rxf7 Kxf7 20.Rf1+ Nf6 21.exf6 g6 22.Qh4 Ra7
 23.Bxf8 Kxf8 24.Ne4 Qxc2 25.Ng5 Qd3 26.Qf2 Rf7 27.Nxf7 Kxf7 28.Rc1 Qd6 29.h3 e5
 30.Qh4 h5 31.Qc4+ Re6 32.Rf1 a5 33.g4 hxg4 34.hxg4 e4 35.g5 Qg3 36.Qd5  1/2-1/2
-
-[Event "URS-ch53"]
-[Site "Kiev"]
-[Date "1986.??.??"]
-[Round "?"]
-[White "Dvoirys, Semen I"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2470"]
-[BlackElo "2485"]
-[ECO "B65"]
-
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O
-9.f4 Nxd4 10.Qxd4 Qa5 11.Kb1 Rd8 12.Bc4 Bd7 13.Bb3 Bc6 14.Rhe1 h6 15.Bh4 Qh5
-16.Bg3 d5 17.exd5 Nxd5 18.Nxd5 Bxd5 19.Re5 Bf3 20.Rxh5 Bxh5 21.Qxd8+ Rxd8
-22.Rxd8+ Bxd8 23.Bf2 Bc7 24.g3 a6 25.Kc1 g5 26.Be3 Bd8 27.c4 gxf4 28.Bxf4 Kg7
-29.Bd1 Bxd1 30.Kxd1 h5 31.Ke2 Kf6 32.h3 e5 33.Be3 Kf5 34.Kf3 e4+ 35.Ke2 Be7  1/2-1/2
 
 [Event "URS-ch53"]
 [Site "Kiev"]
@@ -3881,19 +3881,19 @@
 [Site "Kujbyshev"]
 [Date "1986.??.??"]
 [Round "?"]
-[White "Ubilava, Elizbar"]
-[Black "Yudasin, Leonid"]
-[Result "1-0"]
-[WhiteElo "2515"]
+[White "Yudasin, Leonid"]
+[Black "Novikov, Igor A"]
+[Result "1/2-1/2"]
+[WhiteElo "2495"]
 [BlackElo "2495"]
-[ECO "E20"]
+[ECO "B87"]
 
-1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.g3 Nc6 6.Bg2 Ne4 7.Qd3 cxd4 8.Nxd4 Nxc3
-9.bxc3 Ne5 10.Qc2 Bc5 11.Qa4 O-O 12.Nb3 Be7 13.c5 d5 14.cxd6 Bxd6 15.Bf4 Qc7
-16.O-O Nc4 17.Bxd6 Nxd6 18.Rfd1 a5 19.Qd4 Nb5 20.Qd3 Na3 21.Qd6 Qxd6 22.Rxd6 Ra7
-23.Rad1 a4 24.Nc5 b5 25.Rc6 g6 26.f4 Re7 27.Kf2 Kg7 28.Rd3 h6 29.h4 g5 30.hxg5 hxg5
-31.Rb6 Rc7 32.Ne4 gxf4 33.gxf4 Rh8 34.c4 Nxc4 35.Rxb5 e5 36.Rg3+ Kf8 37.Rc3 Rh4
-38.fxe5 Bf5 39.Rb8+ Ke7 40.Nf6 Rc8 41.Rxc8 Bxc8  1-0
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Bb3 b5 8.Bg5 Be7
+9.Qf3 Qc7 10.O-O-O O-O 11.e5 Bb7 12.exf6 Bxf3 13.fxe7 Bxd1 14.exf8=Q+ Kxf8
+15.Rxd1 d5 16.g3 Nd7 17.Be3 Nc5 18.Kb1 Rc8 19.a3 Qb7 20.f4 b4 21.axb4 Qxb4
+22.f5 Nxb3 23.Nxb3 Qg4 24.Bc5+ Kg8 25.fxe6 fxe6 26.Re1 Qc4 27.Bd4 a5 28.Be5 a4
+29.Nd4 a3 30.Nb3 axb2 31.Kxb2 Ra8 32.Bd4 Rb8 33.Rd1 h6 34.Be5 Rb7 35.h4 Qg4
+36.Rd3 Qf5 37.Re3 Qf2 38.Re2 Qf3 39.Kc1 Rb4 40.Kd2 Rc4 41.Re3 Qf2+ 42.Re2  1/2-1/2
 
 [Event "URS-FL"]
 [Site "Kujbyshev"]
@@ -4035,19 +4035,19 @@
 [Site "Kujbyshev"]
 [Date "1986.??.??"]
 [Round "?"]
-[White "Yudasin, Leonid"]
-[Black "Novikov, Igor A"]
-[Result "1/2-1/2"]
-[WhiteElo "2495"]
+[White "Ubilava, Elizbar"]
+[Black "Yudasin, Leonid"]
+[Result "1-0"]
+[WhiteElo "2515"]
 [BlackElo "2495"]
-[ECO "B87"]
+[ECO "E20"]
 
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 7.Bb3 b5 8.Bg5 Be7
-9.Qf3 Qc7 10.O-O-O O-O 11.e5 Bb7 12.exf6 Bxf3 13.fxe7 Bxd1 14.exf8=Q+ Kxf8
-15.Rxd1 d5 16.g3 Nd7 17.Be3 Nc5 18.Kb1 Rc8 19.a3 Qb7 20.f4 b4 21.axb4 Qxb4
-22.f5 Nxb3 23.Nxb3 Qg4 24.Bc5+ Kg8 25.fxe6 fxe6 26.Re1 Qc4 27.Bd4 a5 28.Be5 a4
-29.Nd4 a3 30.Nb3 axb2 31.Kxb2 Ra8 32.Bd4 Rb8 33.Rd1 h6 34.Be5 Rb7 35.h4 Qg4
-36.Rd3 Qf5 37.Re3 Qf2 38.Re2 Qf3 39.Kc1 Rb4 40.Kd2 Rc4 41.Re3 Qf2+ 42.Re2  1/2-1/2
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Nf3 c5 5.g3 Nc6 6.Bg2 Ne4 7.Qd3 cxd4 8.Nxd4 Nxc3
+9.bxc3 Ne5 10.Qc2 Bc5 11.Qa4 O-O 12.Nb3 Be7 13.c5 d5 14.cxd6 Bxd6 15.Bf4 Qc7
+16.O-O Nc4 17.Bxd6 Nxd6 18.Rfd1 a5 19.Qd4 Nb5 20.Qd3 Na3 21.Qd6 Qxd6 22.Rxd6 Ra7
+23.Rad1 a4 24.Nc5 b5 25.Rc6 g6 26.f4 Re7 27.Kf2 Kg7 28.Rd3 h6 29.h4 g5 30.hxg5 hxg5
+31.Rb6 Rc7 32.Ne4 gxf4 33.gxf4 Rh8 34.c4 Nxc4 35.Rxb5 e5 36.Rg3+ Kf8 37.Rc3 Rh4
+38.fxe5 Bf5 39.Rb8+ Ke7 40.Nf6 Rc8 41.Rxc8 Bxc8  1-0
 
 [Event "URS-FL"]
 [Site "Kujbyshev"]
@@ -4881,6 +4881,27 @@
 [Site "Norilsk"]
 [Date "1987.??.??"]
 [Round "?"]
+[White "Malisauskas, Vidmantas"]
+[Black "Yudasin, Leonid"]
+[Result "1-0"]
+[WhiteElo "2325"]
+[BlackElo "2480"]
+[ECO "B91"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 Nc6 7.Bg2 Bd7 8.Nd5 e6
+9.Nxf6+ Qxf6 10.Nb3 Be7 11.O-O O-O 12.Nc5 dxc5 13.Qxd7 Rab8 14.c3 Ne5 15.Qd1 Rfd8
+16.Qe2 Nd3 17.f4 e5 18.fxe5 Qe6 19.Bf4 c4 20.Kh1 b5 21.Qh5 g6 22.Qh6 Bf8
+23.Qh4 Be7 24.Qh6 Bf8 25.Qh4 Bg7 26.Bh3 Qc6 27.e6 Qxe4+ 28.Bg2 Qxe6 29.Bxb8 Rxb8
+30.Qe4 Qxe4 31.Bxe4 Nxb2 32.Bd5 Rd8 33.Bxf7+ Kh8 34.Rae1 Bxc3 35.Re6 a5 36.Rb6 Bb4
+37.Rxb5 Rd7 38.Be6 Re7 39.Rf7 Rxf7 40.Bxf7 c3 41.Bb3 Nd3 42.Bc2 Nc5 43.Kg2 Ne6
+44.Rd5 Kg7 45.Kf3 Kf6 46.Ke4 Ng5+ 47.Ke3 Nf7 48.Rd7 h5 49.Rc7 Nd6 50.Bd3 Nf5+
+51.Bxf5 Kxf5 52.Rc4 g5 53.Kd3 g4 54.Rf4+ Kg5 55.Rd4 Kg6 56.Rd5 Kh6 57.Kc2 h4
+58.gxh4 Be7 59.Rxa5 Bxh4 60.a4 Bf2 61.Rf5 Bg1 62.Rf8 Kg6 63.Rg8+ Kf5 64.h3  1-0
+
+[Event "URS-ch otbor"]
+[Site "Norilsk"]
+[Date "1987.??.??"]
+[Round "?"]
 [White "Shneider, Aleksandr"]
 [Black "Yudasin, Leonid"]
 [Result "1/2-1/2"]
@@ -4896,25 +4917,6 @@
 36.Kd3 Rxf2 37.Kxc3 Rxh2 38.Rcc7 Rf2 39.b6 Rf6 40.Kb4 h5 41.Kb5 Rf5+ 42.Rc5 Rf6
 43.Rbc7 Ra1 44.b7 Rb1+ 45.Ka5 Rfb6 46.Rc8+ Ke7 47.R5c7+ Kd6 48.Rxf7 Rxb7
 49.Rxb7 Rxb7  1/2-1/2
-
-[Event "URS-ch otbor"]
-[Site "Norilsk"]
-[Date "1987.??.??"]
-[Round "?"]
-[White "Shabalov, Alexander"]
-[Black "Yudasin, Leonid"]
-[Result "0-1"]
-[WhiteElo "2375"]
-[BlackElo "2480"]
-[ECO "B37"]
-
-1.Nf3 c5 2.c4 g6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bg7 6.e4 d6 7.Be2 Nc6 8.Nc2 Be6
-9.O-O Rc8 10.Ne3 O-O 11.Bd2 Nd4 12.Rc1 Nd7 13.b3 Nc5 14.Ned5 f5 15.Be3 Nxe2+
-16.Qxe2 Nxe4 17.Nxe4 fxe4 18.Rcd1 Bxd5 19.Rxd5 Rf5 20.Rfd1 Rxd5 21.cxd5 Qc7
-22.Qg4 Qc2 23.h4 Rf8 24.Rc1 Qxa2 25.Qe6+ Kh8 26.Qxe7 Qb2 27.Qxd6 a5 28.g3 Qxb3
-29.Kg2 a4 30.Rc7 a3 31.g4 Qd1 32.Rxg7 Qxg4+ 33.Kf1 Kxg7 34.Bd4+ Kg8 35.Qe5 Qd7
-36.d6 Rf5 37.Qh8+ Kf7 38.Qxh7+ Ke6 39.Qxg6+ Kd5 40.Ba1 Qf7 41.Qg3 b5 42.Ke1 b4
-43.Qe3 Kc6 44.Qd4 Qd5 45.Qh8 Kxd6 46.Bd4 Kc7 47.Qg7+ Kc6 48.Qa7 Kb5 49.Qb6+ Kc4  0-1
 
 [Event "URS-ch otbor"]
 [Site "Norilsk"]
@@ -5040,22 +5042,20 @@
 [Site "Norilsk"]
 [Date "1987.??.??"]
 [Round "?"]
-[White "Malisauskas, Vidmantas"]
+[White "Shabalov, Alexander"]
 [Black "Yudasin, Leonid"]
-[Result "1-0"]
-[WhiteElo "2325"]
+[Result "0-1"]
+[WhiteElo "2375"]
 [BlackElo "2480"]
-[ECO "B91"]
+[ECO "B37"]
 
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 Nc6 7.Bg2 Bd7 8.Nd5 e6
-9.Nxf6+ Qxf6 10.Nb3 Be7 11.O-O O-O 12.Nc5 dxc5 13.Qxd7 Rab8 14.c3 Ne5 15.Qd1 Rfd8
-16.Qe2 Nd3 17.f4 e5 18.fxe5 Qe6 19.Bf4 c4 20.Kh1 b5 21.Qh5 g6 22.Qh6 Bf8
-23.Qh4 Be7 24.Qh6 Bf8 25.Qh4 Bg7 26.Bh3 Qc6 27.e6 Qxe4+ 28.Bg2 Qxe6 29.Bxb8 Rxb8
-30.Qe4 Qxe4 31.Bxe4 Nxb2 32.Bd5 Rd8 33.Bxf7+ Kh8 34.Rae1 Bxc3 35.Re6 a5 36.Rb6 Bb4
-37.Rxb5 Rd7 38.Be6 Re7 39.Rf7 Rxf7 40.Bxf7 c3 41.Bb3 Nd3 42.Bc2 Nc5 43.Kg2 Ne6
-44.Rd5 Kg7 45.Kf3 Kf6 46.Ke4 Ng5+ 47.Ke3 Nf7 48.Rd7 h5 49.Rc7 Nd6 50.Bd3 Nf5+
-51.Bxf5 Kxf5 52.Rc4 g5 53.Kd3 g4 54.Rf4+ Kg5 55.Rd4 Kg6 56.Rd5 Kh6 57.Kc2 h4
-58.gxh4 Be7 59.Rxa5 Bxh4 60.a4 Bf2 61.Rf5 Bg1 62.Rf8 Kg6 63.Rg8+ Kf5 64.h3  1-0
+1.Nf3 c5 2.c4 g6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bg7 6.e4 d6 7.Be2 Nc6 8.Nc2 Be6
+9.O-O Rc8 10.Ne3 O-O 11.Bd2 Nd4 12.Rc1 Nd7 13.b3 Nc5 14.Ned5 f5 15.Be3 Nxe2+
+16.Qxe2 Nxe4 17.Nxe4 fxe4 18.Rcd1 Bxd5 19.Rxd5 Rf5 20.Rfd1 Rxd5 21.cxd5 Qc7
+22.Qg4 Qc2 23.h4 Rf8 24.Rc1 Qxa2 25.Qe6+ Kh8 26.Qxe7 Qb2 27.Qxd6 a5 28.g3 Qxb3
+29.Kg2 a4 30.Rc7 a3 31.g4 Qd1 32.Rxg7 Qxg4+ 33.Kf1 Kxg7 34.Bd4+ Kg8 35.Qe5 Qd7
+36.d6 Rf5 37.Qh8+ Kf7 38.Qxh7+ Ke6 39.Qxg6+ Kd5 40.Ba1 Qf7 41.Qg3 b5 42.Ke1 b4
+43.Qe3 Kc6 44.Qd4 Qd5 45.Qh8 Kxd6 46.Bd4 Kc7 47.Qg7+ Kc6 48.Qa7 Kb5 49.Qb6+ Kc4  0-1
 
 [Event "URS-ch otbor"]
 [Site "Norilsk"]
@@ -5071,24 +5071,6 @@
 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 e6 7.Be3 a6 8.Qe2 Be7
 9.O-O-O O-O 10.Bb3 Qc7 11.Rhg1 Nd7 12.g4 Nc5 13.g5 Bd7 14.Rg3 Rfc8 15.Qh5 g6
 16.Qh6 Bf8 17.Qh4 Be7 18.Qh6 Bf8 19.Qh4 Be7 20.Qh6  1/2-1/2
-
-[Event "Tbilisi"]
-[Site "Tbilisi"]
-[Date "1987.??.??"]
-[Round "?"]
-[White "Shabanov, Yuri"]
-[Black "Yudasin, Leonid"]
-[Result "1-0"]
-[WhiteElo "2410"]
-[BlackElo "2505"]
-[ECO "A47"]
-
-1.d4 Nf6 2.Nf3 c5 3.c3 b6 4.Bg5 Bb7 5.Nbd2 e6 6.e3 Be7 7.Bd3 h6 8.Bxf6 Bxf6
-9.Qe2 O-O 10.O-O Nc6 11.Rfd1 d5 12.Rac1 Re8 13.a3 a6 14.b4 e5 15.dxe5 Nxe5
-16.Nxe5 Bxe5 17.Nf3 Bc7 18.bxc5 bxc5 19.Rb1 Qc8 20.Qc2 Bc6 21.Bf5 Qd8 22.e4 c4
-23.exd5 Bd7 24.Rb4 Bxf5 25.Qxf5 Rc8 26.g3 Ba5 27.Rb7 Qf6 28.Qxf6 gxf6 29.d6 Red8
-30.d7 Rc6 31.Re1 Kf8 32.Re3 Rd6 33.Re4 Rd3 34.Kg2 Rxc3 35.Nd2 Rxa3 36.Nxc4 Ra4
-37.Ra7 Bc3 38.Rc7 Be5 39.Nxe5 Rc4 40.Nc6  1-0
 
 [Event "Tbilisi"]
 [Site "Tbilisi"]
@@ -5175,6 +5157,24 @@
 9.Bf4 a6 10.Nd6+ Bxd6 11.Qxd6 Nf7 12.Qa3 b6 13.Be2 Bb7 14.O-O Ne7 15.Rfd1 O-O
 16.Na4 Bc6 17.Qb3 e5 18.Be3 b5 19.Nb6 bxc4 20.Bxc4 Rb8 21.Bc5 d5 22.Qa3 Re8
 23.Bxe7 Qxe7 24.Qxe7 Rxe7 25.Nxd5 Reb7 26.b3 a5 27.Rac1 Kf8 28.Ba6 Bxd5  1/2-1/2
+
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Shabanov, Yuri"]
+[Black "Yudasin, Leonid"]
+[Result "1-0"]
+[WhiteElo "2410"]
+[BlackElo "2505"]
+[ECO "A47"]
+
+1.d4 Nf6 2.Nf3 c5 3.c3 b6 4.Bg5 Bb7 5.Nbd2 e6 6.e3 Be7 7.Bd3 h6 8.Bxf6 Bxf6
+9.Qe2 O-O 10.O-O Nc6 11.Rfd1 d5 12.Rac1 Re8 13.a3 a6 14.b4 e5 15.dxe5 Nxe5
+16.Nxe5 Bxe5 17.Nf3 Bc7 18.bxc5 bxc5 19.Rb1 Qc8 20.Qc2 Bc6 21.Bf5 Qd8 22.e4 c4
+23.exd5 Bd7 24.Rb4 Bxf5 25.Qxf5 Rc8 26.g3 Ba5 27.Rb7 Qf6 28.Qxf6 gxf6 29.d6 Red8
+30.d7 Rc6 31.Re1 Kf8 32.Re3 Rd6 33.Re4 Rd3 34.Kg2 Rxc3 35.Nd2 Rxa3 36.Nxc4 Ra4
+37.Ra7 Bc3 38.Rc7 Be5 39.Nxe5 Rc4 40.Nc6  1-0
 
 [Event "Tbilisi"]
 [Site "Tbilisi"]
@@ -5269,6 +5269,24 @@
 [Site "Moscow"]
 [Date "1988.??.??"]
 [Round "?"]
+[White "Smyslov, Vassily"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[WhiteElo "2550"]
+[BlackElo "2505"]
+[ECO "A08"]
+
+1.Nf3 c5 2.g3 d5 3.Bg2 g6 4.c3 Bg7 5.d4 Nd7 6.Bf4 Ngf6 7.Qc1 Qb6 8.O-O O-O
+9.Na3 Ne4 10.Nc2 cxd4 11.cxd4 Ndf6 12.b3 Be6 13.Qb2 Rfc8 14.Rac1 Nc3 15.Rfe1 Nfe4
+16.Ng5 Bf5 17.Nxe4 Bxe4 18.Bxe4 dxe4 19.Bd2 Nd5 20.e3 h5 21.Na3 Rd8 22.Rc4 Qe6
+23.Bc1 a6 24.Qe2 b5 25.Rc5 Nb4 26.Rf1 Nd3 27.Rc2 h4 28.Bd2 Qh3 29.Ba5 Rd5
+30.Nb1 hxg3 31.fxg3 b4 32.Bc7 e5 33.Nd2 exd4 34.Nxe4 dxe3 35.Rc4 Qe6 36.Ng5 Rxg5
+37.Qxd3 Re8 38.Qe2 Rd5 39.Rc2 Bd4 40.Bf4 Bb6 41.Kg2 Qe4+ 42.Rf3 g5 43.Rc4 Qe6  0-1
+
+[Event "URS-ch55"]
+[Site "Moscow"]
+[Date "1988.??.??"]
+[Round "?"]
 [White "Ivanchuk, Vassily"]
 [Black "Yudasin, Leonid"]
 [Result "1/2-1/2"]
@@ -5279,21 +5297,6 @@
 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Nb3 Be7
 9.Be2 Qe3 10.Qd3 Qxd3 11.cxd3 h6 12.Bh4 Nxe4 13.Bxe7 Nxc3 14.Bxd6 Nxe2 15.Kxe2 Nc6
 16.Rhc1 f6 17.a4 e5  1/2-1/2
-
-[Event "URS-ch55"]
-[Site "Moscow"]
-[Date "1988.??.??"]
-[Round "?"]
-[White "Khalifman, Alexander"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2530"]
-[BlackElo "2505"]
-[ECO "D24"]
-
-1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 dxc4 5.Bg5 Be7 6.e4 c5 7.dxc5 Qa5 8.Qc2 Nc6
-9.Bxc4 Qxc5 10.Qe2 Nd4 11.Nxd4 Qxg5 12.e5 Nd7 13.Nf3 Qxg2 14.Rg1 Qh3 15.Rxg7 Nb6
-16.Rg3 Qh6 17.Bb5+  1/2-1/2
 
 [Event "URS-ch55"]
 [Site "Moscow"]
@@ -5382,19 +5385,16 @@
 [Site "Moscow"]
 [Date "1988.??.??"]
 [Round "?"]
-[White "Smyslov, Vassily"]
+[White "Khalifman, Alexander"]
 [Black "Yudasin, Leonid"]
-[Result "0-1"]
-[WhiteElo "2550"]
+[Result "1/2-1/2"]
+[WhiteElo "2530"]
 [BlackElo "2505"]
-[ECO "A08"]
+[ECO "D24"]
 
-1.Nf3 c5 2.g3 d5 3.Bg2 g6 4.c3 Bg7 5.d4 Nd7 6.Bf4 Ngf6 7.Qc1 Qb6 8.O-O O-O
-9.Na3 Ne4 10.Nc2 cxd4 11.cxd4 Ndf6 12.b3 Be6 13.Qb2 Rfc8 14.Rac1 Nc3 15.Rfe1 Nfe4
-16.Ng5 Bf5 17.Nxe4 Bxe4 18.Bxe4 dxe4 19.Bd2 Nd5 20.e3 h5 21.Na3 Rd8 22.Rc4 Qe6
-23.Bc1 a6 24.Qe2 b5 25.Rc5 Nb4 26.Rf1 Nd3 27.Rc2 h4 28.Bd2 Qh3 29.Ba5 Rd5
-30.Nb1 hxg3 31.fxg3 b4 32.Bc7 e5 33.Nd2 exd4 34.Nxe4 dxe3 35.Rc4 Qe6 36.Ng5 Rxg5
-37.Qxd3 Re8 38.Qe2 Rd5 39.Rc2 Bd4 40.Bf4 Bb6 41.Kg2 Qe4+ 42.Rf3 g5 43.Rc4 Qe6  0-1
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 dxc4 5.Bg5 Be7 6.e4 c5 7.dxc5 Qa5 8.Qc2 Nc6
+9.Bxc4 Qxc5 10.Qe2 Nd4 11.Nxd4 Qxg5 12.e5 Nd7 13.Nf3 Qxg2 14.Rg1 Qh3 15.Rxg7 Nb6
+16.Rg3 Qh6 17.Bb5+  1/2-1/2
 
 [Event "URS-ch55"]
 [Site "Moscow"]
@@ -5554,19 +5554,21 @@
 [Site "Simferopol"]
 [Date "1988.??.??"]
 [Round "?"]
-[White "Giorgadze, Giorgi"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2410"]
-[BlackElo "2505"]
-[ECO "E10"]
+[White "Yudasin, Leonid"]
+[Black "Dvoirys, Semen I"]
+[Result "1-0"]
+[WhiteElo "2505"]
+[BlackElo "2440"]
+[ECO "D32"]
 
-1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.e3 g6 5.Nc3 Bg7 6.dxc5 Na6 7.Be2 Nxc5 8.O-O O-O
-9.Qc2 a5 10.e4 b6 11.e5 Ng4 12.Bg5 f6 13.exf6 Nxf6 14.Rad1 Bb7 15.Qc1 Rc8
-16.Rd6 Rc6 17.Rxc6 Bxc6 18.Ne5 Bb7 19.Bh6 d6 20.Bxg7 Kxg7 21.Nd3 Nxd3 22.Bxd3 Ng4
-23.f3 Nxh2 24.Kxh2 Qh4+ 25.Kg1 Qd4+ 26.Rf2 Qxd3 27.Qd2 Qxd2 28.Rxd2 d5 29.Na4 dxc4
-30.Nxb6 Bd5 31.Rd4 Rb8 32.Nxd5 exd5 33.Rxd5 Rxb2 34.Rxa5 c3 35.Rc5 c2 36.Kh2 Rxa2
-37.Kg3 Kf6 38.f4 Ke6 39.Kf3 Kd6 40.Rc8 Kd5 41.Ke3 Ke6 42.Kf3 Kd5  1/2-1/2
+1.c4 Nf6 2.Nc3 c5 3.Nf3 Nc6 4.e3 e6 5.d4 d5 6.dxc5 Bxc5 7.cxd5 exd5 8.Be2 O-O
+9.O-O Bg4 10.b3 a6 11.Bb2 Ba7 12.Rc1 Re8 13.h3 Bh5 14.Nd4 Bxe2 15.Ncxe2 Ne5
+16.Qc2 Ne4 17.Rfd1 Ng6 18.Nc3 Rc8 19.Qe2 Nf6 20.Nf3 Qd7 21.Qd3 Rcd8 22.Na4 Ne4
+23.Bd4 Bb8 24.Bb6 Rc8 25.Rxc8 Rxc8 26.Ba5 Qe7 27.Nb6 Re8 28.Nxd5 Qa3 29.Bb4 Qxa2
+30.Qxe4 Rxe4 31.Nc3 Bd6 32.Nxa2 Bxb4 33.Ng5 Re5 34.Nxb4 Rxg5 35.Rd8+ Nf8
+36.Nd5 Re5 37.f4 Re4 38.Kf2 f6 39.Kf3 Re6 40.f5 Re5 41.e4 h5 42.Rb8 b5 43.Ra8 h4
+44.Kf4 b4 45.Rxa6 Nd7 46.Ra8+ Kf7 47.Ra7 Ke8 48.Rc7 Kd8 49.Rc4 Nb8 50.Rxb4 Nc6
+51.Rb7  1-0
 
 [Event "URS-FL56"]
 [Site "Simferopol"]
@@ -5713,21 +5715,19 @@
 [Site "Simferopol"]
 [Date "1988.??.??"]
 [Round "?"]
-[White "Yudasin, Leonid"]
-[Black "Dvoirys, Semen I"]
-[Result "1-0"]
-[WhiteElo "2505"]
-[BlackElo "2440"]
-[ECO "D32"]
+[White "Yurtaev, Leonid"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2485"]
+[BlackElo "2505"]
+[ECO "A70"]
 
-1.c4 Nf6 2.Nc3 c5 3.Nf3 Nc6 4.e3 e6 5.d4 d5 6.dxc5 Bxc5 7.cxd5 exd5 8.Be2 O-O
-9.O-O Bg4 10.b3 a6 11.Bb2 Ba7 12.Rc1 Re8 13.h3 Bh5 14.Nd4 Bxe2 15.Ncxe2 Ne5
-16.Qc2 Ne4 17.Rfd1 Ng6 18.Nc3 Rc8 19.Qe2 Nf6 20.Nf3 Qd7 21.Qd3 Rcd8 22.Na4 Ne4
-23.Bd4 Bb8 24.Bb6 Rc8 25.Rxc8 Rxc8 26.Ba5 Qe7 27.Nb6 Re8 28.Nxd5 Qa3 29.Bb4 Qxa2
-30.Qxe4 Rxe4 31.Nc3 Bd6 32.Nxa2 Bxb4 33.Ng5 Re5 34.Nxb4 Rxg5 35.Rd8+ Nf8
-36.Nd5 Re5 37.f4 Re4 38.Kf2 f6 39.Kf3 Re6 40.f5 Re5 41.e4 h5 42.Rb8 b5 43.Ra8 h4
-44.Kf4 b4 45.Rxa6 Nd7 46.Ra8+ Kf7 47.Ra7 Ke8 48.Rc7 Kd8 49.Rc4 Nb8 50.Rxb4 Nc6
-51.Rb7  1-0
+1.Nf3 Nf6 2.d4 e6 3.c4 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.e4 Bg7 8.Bd3 a6
+9.h3 b5 10.O-O O-O 11.a3 Re8 12.Re1 Ra7 13.Bf4 Rae7 14.Qc2 b4 15.axb4 cxb4
+16.Na4 Bd7 17.Re3 Bb5 18.Nd2 Nh5 19.Bh2 Bh6 20.Re2 f5 21.Nc4 fxe4 22.Bxe4 b3
+23.Qd3 Qc7 24.Bxd6 Qxc4 25.Bxe7 Qxd3 26.Bxd3 Bxd3 27.Ree1 Nd7 28.Nc5 Nxc5
+29.Bxc5 Rd8 30.d6 Bg7 31.Ba3 Nf4 32.Re3 Bd4 33.Re7 Bf6 34.Rb7 Bc4 35.Rb4 Ne2+
+36.Kh1 Bf7 37.Rd1 g5 38.Ra4 Nf4 39.Rxa6 Bg6 40.Rd2 Nd3 41.f3 Be5 42.Rc6  1/2-1/2
 
 [Event "URS-FL56"]
 [Site "Simferopol"]
@@ -5800,19 +5800,19 @@
 [Site "Simferopol"]
 [Date "1988.??.??"]
 [Round "?"]
-[White "Yurtaev, Leonid"]
+[White "Giorgadze, Giorgi"]
 [Black "Yudasin, Leonid"]
 [Result "1/2-1/2"]
-[WhiteElo "2485"]
+[WhiteElo "2410"]
 [BlackElo "2505"]
-[ECO "A70"]
+[ECO "E10"]
 
-1.Nf3 Nf6 2.d4 e6 3.c4 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.e4 Bg7 8.Bd3 a6
-9.h3 b5 10.O-O O-O 11.a3 Re8 12.Re1 Ra7 13.Bf4 Rae7 14.Qc2 b4 15.axb4 cxb4
-16.Na4 Bd7 17.Re3 Bb5 18.Nd2 Nh5 19.Bh2 Bh6 20.Re2 f5 21.Nc4 fxe4 22.Bxe4 b3
-23.Qd3 Qc7 24.Bxd6 Qxc4 25.Bxe7 Qxd3 26.Bxd3 Bxd3 27.Ree1 Nd7 28.Nc5 Nxc5
-29.Bxc5 Rd8 30.d6 Bg7 31.Ba3 Nf4 32.Re3 Bd4 33.Re7 Bf6 34.Rb7 Bc4 35.Rb4 Ne2+
-36.Kh1 Bf7 37.Rd1 g5 38.Ra4 Nf4 39.Rxa6 Bg6 40.Rd2 Nd3 41.f3 Be5 42.Rc6  1/2-1/2
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.e3 g6 5.Nc3 Bg7 6.dxc5 Na6 7.Be2 Nxc5 8.O-O O-O
+9.Qc2 a5 10.e4 b6 11.e5 Ng4 12.Bg5 f6 13.exf6 Nxf6 14.Rad1 Bb7 15.Qc1 Rc8
+16.Rd6 Rc6 17.Rxc6 Bxc6 18.Ne5 Bb7 19.Bh6 d6 20.Bxg7 Kxg7 21.Nd3 Nxd3 22.Bxd3 Ng4
+23.f3 Nxh2 24.Kxh2 Qh4+ 25.Kg1 Qd4+ 26.Rf2 Qxd3 27.Qd2 Qxd2 28.Rxd2 d5 29.Na4 dxc4
+30.Nxb6 Bd5 31.Rd4 Rb8 32.Nxd5 exd5 33.Rxd5 Rxb2 34.Rxa5 c3 35.Rc5 c2 36.Kh2 Rxa2
+37.Kg3 Kf6 38.f4 Ke6 39.Kf3 Kd6 40.Rc8 Kd5 41.Ke3 Ke6 42.Kf3 Kd5  1/2-1/2
 
 [Event "URS-FL56"]
 [Site "Simferopol"]
@@ -5855,6 +5855,25 @@
 [Site "Tallinn"]
 [Date "1988.??.??"]
 [Round "?"]
+[White "Krasenkow, Michal"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[WhiteElo "2460"]
+[BlackElo "2475"]
+[ECO "E12"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 exd5 7.g3 Be7 8.Qa4+ c6
+9.Ne5 O-O 10.Bg2 Nfd7 11.Nd3 Na6 12.O-O Nc7 13.Nf4 Nf6 14.Bd2 Bd6 15.b4 Re8
+16.Rfe1 Ne4 17.Nxe4 dxe4 18.Qc2 Qe7 19.e3 Rac8 20.a4 g5 21.Nh5 Nd5 22.Reb1 Ba6
+23.b5 cxb5 24.Qb3 Bb7 25.axb5 Ra8 26.Ra4 Kh8 27.Rba1 Bb8 28.Bf1 f5 29.Bc4 Rd8
+30.Qd1 Qe6 31.Kh1 Qh6 32.Qe2 f4 33.gxf4 gxf4 34.Qg4 Nf6 35.Nxf6 fxe3 36.Nh5 exd2
+37.Rg1 e3+ 38.f3 Qg6 39.Be2 Qxg4 40.Rxg4 a6 41.Nf6 axb5 42.Rxa8 Bxa8 43.d5 Be5
+44.Ne4 Bxd5 45.Ng5 Bf6 46.Kg1 Bxg5 47.Rxg5 Bc4  0-1
+
+[Event "URS Cup rapid playoff"]
+[Site "Tallinn"]
+[Date "1988.??.??"]
+[Round "?"]
 [White "Yudasin, Leonid"]
 [Black "Krasenkow, Michal"]
 [Result "1-0"]
@@ -5885,25 +5904,6 @@
 16.e5 Nxd6 17.Nxd6 Rf8 18.f4 Na5 19.Qc2 b5 20.Bxa8 Qxa8 21.Qc7 Qd8 22.Rac1 Nc4
 23.Qxd8 Rxd8 24.Rfd1 f6 25.Nxc4 bxc4 26.Rxd4 fxe5 27.fxe5 Kf8 28.Rcxc4 Ke8
 29.Rc7 a5 30.b3  1-0
-
-[Event "URS Cup rapid playoff"]
-[Site "Tallinn"]
-[Date "1988.??.??"]
-[Round "?"]
-[White "Krasenkow, Michal"]
-[Black "Yudasin, Leonid"]
-[Result "0-1"]
-[WhiteElo "2460"]
-[BlackElo "2475"]
-[ECO "E12"]
-
-1.d4 Nf6 2.Nf3 e6 3.c4 b6 4.a3 Bb7 5.Nc3 d5 6.cxd5 exd5 7.g3 Be7 8.Qa4+ c6
-9.Ne5 O-O 10.Bg2 Nfd7 11.Nd3 Na6 12.O-O Nc7 13.Nf4 Nf6 14.Bd2 Bd6 15.b4 Re8
-16.Rfe1 Ne4 17.Nxe4 dxe4 18.Qc2 Qe7 19.e3 Rac8 20.a4 g5 21.Nh5 Nd5 22.Reb1 Ba6
-23.b5 cxb5 24.Qb3 Bb7 25.axb5 Ra8 26.Ra4 Kh8 27.Rba1 Bb8 28.Bf1 f5 29.Bc4 Rd8
-30.Qd1 Qe6 31.Kh1 Qh6 32.Qe2 f4 33.gxf4 gxf4 34.Qg4 Nf6 35.Nxf6 fxe3 36.Nh5 exd2
-37.Rg1 e3+ 38.f3 Qg6 39.Be2 Qxg4 40.Rxg4 a6 41.Nf6 axb5 42.Rxa8 Bxa8 43.d5 Be5
-44.Ne4 Bxd5 45.Ng5 Bf6 46.Kg1 Bxg5 47.Rxg5 Bc4  0-1
 
 [Event "URS Cup rapid"]
 [Site "Tallinn"]
@@ -6139,23 +6139,6 @@
 [Date "1989.??.??"]
 [Round "?"]
 [White "Yudasin, Leonid"]
-[Black "Silva, Marco"]
-[Result "1-0"]
-[WhiteElo "2540"]
-[BlackElo "2330"]
-[ECO "C54"]
-
-1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.b4 Bb6 6.d3 d6 7.a4 a6 8.O-O O-O 9.Bg5 Ne7
-10.a5 Ba7 11.Nbd2 c6 12.Bb3 Ng6 13.Nc4 Be6 14.Re1 h6 15.Be3 Bxe3 16.Rxe3 Qc7
-17.Nb6 Rae8 18.Bxe6 Rxe6 19.c4 Kh8 20.Qc2 Qd8 21.d4 Ng4 22.Rb3 exd4 23.Nxd4 Qf6
-24.Nxe6 Qxa1+ 25.Rb1 Qe5 26.Nxf8 Qxh2+ 27.Kf1 Nxf8 28.Qd3 Qh1+ 29.Ke2 Qxg2
-30.Qf3 Qxf3+ 31.Kxf3 Ne5+ 32.Ke3 Ne6 33.f4 Ng4+ 34.Kf3 Nf6 35.Nc8 g5 36.f5  1-0
-
-[Event "Bern"]
-[Site "Bern"]
-[Date "1989.??.??"]
-[Round "?"]
-[White "Yudasin, Leonid"]
 [Black "Herzog, Juerg"]
 [Result "1-0"]
 [WhiteElo "2540"]
@@ -6181,6 +6164,23 @@
 1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 e5 5.Bg2 Nb6 6.Nf3 Nc6 7.O-O Be6 8.d3 Be7
 9.a3 O-O 10.b4 Nd4 11.Bb2 Nxf3+ 12.Bxf3 c6 13.Ne4 Nd7 14.Qc2 Bd5 15.Nd2 Bd6
 16.Ne4 Be7 17.Nd2 Bd6 18.Ne4  1/2-1/2
+
+[Event "Bern"]
+[Site "Bern"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Yudasin, Leonid"]
+[Black "Silva, Marco"]
+[Result "1-0"]
+[WhiteElo "2540"]
+[BlackElo "2330"]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.b4 Bb6 6.d3 d6 7.a4 a6 8.O-O O-O 9.Bg5 Ne7
+10.a5 Ba7 11.Nbd2 c6 12.Bb3 Ng6 13.Nc4 Be6 14.Re1 h6 15.Be3 Bxe3 16.Rxe3 Qc7
+17.Nb6 Rae8 18.Bxe6 Rxe6 19.c4 Kh8 20.Qc2 Qd8 21.d4 Ng4 22.Rb3 exd4 23.Nxd4 Qf6
+24.Nxe6 Qxa1+ 25.Rb1 Qe5 26.Nxf8 Qxh2+ 27.Kf1 Nxf8 28.Qd3 Qh1+ 29.Ke2 Qxg2
+30.Qf3 Qxf3+ 31.Kxf3 Ne5+ 32.Ke3 Ne6 33.f4 Ng4+ 34.Kf3 Nf6 35.Nc8 g5 36.f5  1-0
 
 [Event "Bern"]
 [Site "Bern"]
@@ -6302,6 +6302,24 @@
 [Site "Budapest"]
 [Date "1989.??.??"]
 [Round "?"]
+[White "Yudasin, Leonid"]
+[Black "Saltaev, Mihail"]
+[Result "1/2-1/2"]
+[WhiteElo "2540"]
+[BlackElo "2400"]
+[ECO "B44"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 a6 7.N5c3 Nf6 8.Be2 Be7
+9.O-O Qc7 10.Be3 Ne5 11.Nd2 O-O 12.f4 Ned7 13.Rc1 b6 14.g4 Ne8 15.g5 Rb8
+16.Qe1 Qd8 17.Qg3 f6 18.h4 Nc7 19.Nf3 Bb7 20.Nd4 Nc5 21.Qg2 f5 22.Bf3 fxe4
+23.Bg4 e5 24.fxe5 Rxf1+ 25.Rxf1 dxe5 26.Nf5 Bf8 27.Rd1 Qe8 28.Nd6 Bxd6 29.Rxd6 Bc6
+30.b4 Nb7 31.Rd1 b5 32.Bf5 Rd8 33.Rxd8 Qxd8 34.cxb5 Nxb5 35.Nxb5 axb5 36.Bxe4 Qd1+
+37.Kf2 Nd8 38.Qf3 Qxf3+ 39.Kxf3 Kf7 40.Bb6  1/2-1/2
+
+[Event "Spring op"]
+[Site "Budapest"]
+[Date "1989.??.??"]
+[Round "?"]
 [White "Luther, Thomas"]
 [Black "Yudasin, Leonid"]
 [Result "0-1"]
@@ -6368,24 +6386,6 @@
 [Site "Budapest"]
 [Date "1989.??.??"]
 [Round "?"]
-[White "Yudasin, Leonid"]
-[Black "Saltaev, Mihail"]
-[Result "1/2-1/2"]
-[WhiteElo "2540"]
-[BlackElo "2400"]
-[ECO "B44"]
-
-1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 a6 7.N5c3 Nf6 8.Be2 Be7
-9.O-O Qc7 10.Be3 Ne5 11.Nd2 O-O 12.f4 Ned7 13.Rc1 b6 14.g4 Ne8 15.g5 Rb8
-16.Qe1 Qd8 17.Qg3 f6 18.h4 Nc7 19.Nf3 Bb7 20.Nd4 Nc5 21.Qg2 f5 22.Bf3 fxe4
-23.Bg4 e5 24.fxe5 Rxf1+ 25.Rxf1 dxe5 26.Nf5 Bf8 27.Rd1 Qe8 28.Nd6 Bxd6 29.Rxd6 Bc6
-30.b4 Nb7 31.Rd1 b5 32.Bf5 Rd8 33.Rxd8 Qxd8 34.cxb5 Nxb5 35.Nxb5 axb5 36.Bxe4 Qd1+
-37.Kf2 Nd8 38.Qf3 Qxf3+ 39.Kxf3 Kf7 40.Bb6  1/2-1/2
-
-[Event "Spring op"]
-[Site "Budapest"]
-[Date "1989.??.??"]
-[Round "?"]
 [White "Barczay, Laszlo"]
 [Black "Yudasin, Leonid"]
 [Result "0-1"]
@@ -6422,26 +6422,6 @@
 [Site "Leningrad"]
 [Date "1989.??.??"]
 [Round "?"]
-[White "Ivanov, Sergey"]
-[Black "Yudasin, Leonid"]
-[Result "0-1"]
-[WhiteElo "2465"]
-[BlackElo "2555"]
-[ECO "A32"]
-
-1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.g3 cxd4 5.Nxd4 Qc7 6.Nd2 Bc5 7.N2b3 Be7 8.Qc2 Nc6
-9.Bg2 Bb4+ 10.Bd2 Nxd4 11.Nxd4 Bxd2+ 12.Qxd2 Qxc4 13.Rc1 Qa6 14.Qb4 Qb6 15.Nb5 Kd8
-16.Qa4 d6 17.Rc3 Bd7 18.Rb3 Ke7 19.O-O Rhc8 20.Qd4 d5 21.Qxb6 axb6 22.Nc3 Ra6
-23.e4 dxe4 24.Nxe4 Nd5 25.Nc3 Nxc3 26.bxc3 Bc6 27.Rfb1 Bxg2 28.Kxg2 Rc6 29.R1b2 Kd7
-30.Kf3 Kc7 31.Ke3 Ra5 32.Rd2 g5 33.h3 h5 34.a3 Re5+ 35.Kd3 Re1 36.Rb4 Rc1
-37.Rc4 Rh1 38.Rd4 Rd6 39.Rxd6 Kxd6 40.Ke4+ Kc6 41.Ke5 Rxh3 42.Kf6 h4 43.gxh4 gxh4
-44.Kxf7 Rf3+ 45.Kxe6 h3 46.a4 h2 47.Rd6+ Kc5 48.Rd5+ Kc4 49.Rh5 Rxf2 50.Kd6 Kxc3
-51.Kc7 Kb4 52.Rh4+ Ka5 53.Kxb7 b5  0-1
-
-[Event "Leningrad2"]
-[Site "Leningrad"]
-[Date "1989.??.??"]
-[Round "?"]
 [White "Khenkin, Igor"]
 [Black "Yudasin, Leonid"]
 [Result "1/2-1/2"]
@@ -6471,6 +6451,26 @@
 16.fxg7 Nxa1 17.gxf8=Q+ Qxf8 18.Ke2 Nc2 19.Kd3 Nb4+ 20.cxb4 Qxb4 21.b3 b5
 22.Ra1 c5 23.Kc2 Rd8 24.axb5 c4 25.Rb1 Qxb5 26.bxc4 Qa4+ 27.Kc3 Qa3+ 28.Kd4 dxc4+
 29.Bd5 Qd3+  0-1
+
+[Event "Leningrad2"]
+[Site "Leningrad"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Ivanov, Sergey"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[WhiteElo "2465"]
+[BlackElo "2555"]
+[ECO "A32"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.g3 cxd4 5.Nxd4 Qc7 6.Nd2 Bc5 7.N2b3 Be7 8.Qc2 Nc6
+9.Bg2 Bb4+ 10.Bd2 Nxd4 11.Nxd4 Bxd2+ 12.Qxd2 Qxc4 13.Rc1 Qa6 14.Qb4 Qb6 15.Nb5 Kd8
+16.Qa4 d6 17.Rc3 Bd7 18.Rb3 Ke7 19.O-O Rhc8 20.Qd4 d5 21.Qxb6 axb6 22.Nc3 Ra6
+23.e4 dxe4 24.Nxe4 Nd5 25.Nc3 Nxc3 26.bxc3 Bc6 27.Rfb1 Bxg2 28.Kxg2 Rc6 29.R1b2 Kd7
+30.Kf3 Kc7 31.Ke3 Ra5 32.Rd2 g5 33.h3 h5 34.a3 Re5+ 35.Kd3 Re1 36.Rb4 Rc1
+37.Rc4 Rh1 38.Rd4 Rd6 39.Rxd6 Kxd6 40.Ke4+ Kc6 41.Ke5 Rxh3 42.Kf6 h4 43.gxh4 gxh4
+44.Kxf7 Rf3+ 45.Kxe6 h3 46.a4 h2 47.Rd6+ Kc5 48.Rd5+ Kc4 49.Rh5 Rxf2 50.Kd6 Kxc3
+51.Kc7 Kb4 52.Rh4+ Ka5 53.Kxb7 b5  0-1
 
 [Event "Leningrad2"]
 [Site "Leningrad"]
@@ -7001,27 +7001,6 @@
 [Site "Podolsk"]
 [Date "1989.??.??"]
 [Round "?"]
-[White "Frolov, Artur"]
-[Black "Yudasin, Leonid"]
-[Result "0-1"]
-[WhiteElo "2460"]
-[BlackElo "2555"]
-[ECO "B80"]
-
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.f3 b5 8.g4 Bb7
-9.g5 Nfd7 10.Rg1 Qc7 11.Qd2 Nc6 12.O-O-O Nde5 13.Rg3 Rc8 14.f4 Nxd4 15.Bxd4 Nc4
-16.Bxc4 Qxc4 17.b3 Qc7 18.Re1 b4 19.Na4 Bc6 20.Nb6 Rb8 21.Nd5 Qb7 22.f5 e5
-23.Bb2 Bxd5 24.exd5 Be7 25.f6 gxf6 26.gxf6 Bxf6 27.Qh6 Be7 28.Bxe5 dxe5 29.d6 Bd8
-30.Qg7 Kd7 31.Kb1 Bb6 32.Qxf7+ Kc8 33.Qf6 Rd8 34.Qxe5 Qc6 35.Rg7 Rb7 36.Qf5+ Rbd7
-37.Rd1 Kb8 38.Rxh7 Rxh7 39.Qxh7 Rxd6 40.Qg8+ Kb7 41.Qh7+ Bc7 42.Rxd6 Qxd6
-43.Qe4+ Kb6 44.h4 a5 45.Qe8 Kb7 46.Qe4+ Qc6 47.Qe7 Qh1+ 48.Kb2 Qd5 49.a3 Qe5+
-50.Qxe5 Bxe5+ 51.Ka2 Kc6 52.axb4 axb4 53.h5 Bg7 54.Kb1 Kd5 55.Kc1 Kd4 56.c4 bxc3
-57.Kc2 Bf8  0-1
-
-[Event "Podolsk GMA-qual"]
-[Site "Podolsk"]
-[Date "1989.??.??"]
-[Round "?"]
 [White "Yudasin, Leonid"]
 [Black "Timoshenko, Georgy"]
 [Result "1-0"]
@@ -7056,6 +7035,27 @@
 37.exd6 Kxd6 38.Bc3 Kc6 39.Kg3 e5 40.dxe5 d4 41.Bb2 Kd5 42.Bc1 Kxe5 43.Bxe3 Nxe3
 44.Ng1 f6 45.Nf3+ Kd5 46.Kf4 Ng2+ 47.Kg3 Ne3 48.a5 Kc5 49.Kf4 Nd5+ 50.Ke4 Ne3
 51.Nh2 Nd5 52.axb6  1/2-1/2
+
+[Event "Podolsk GMA-qual"]
+[Site "Podolsk"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Frolov, Artur"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[WhiteElo "2460"]
+[BlackElo "2555"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 e6 7.f3 b5 8.g4 Bb7
+9.g5 Nfd7 10.Rg1 Qc7 11.Qd2 Nc6 12.O-O-O Nde5 13.Rg3 Rc8 14.f4 Nxd4 15.Bxd4 Nc4
+16.Bxc4 Qxc4 17.b3 Qc7 18.Re1 b4 19.Na4 Bc6 20.Nb6 Rb8 21.Nd5 Qb7 22.f5 e5
+23.Bb2 Bxd5 24.exd5 Be7 25.f6 gxf6 26.gxf6 Bxf6 27.Qh6 Be7 28.Bxe5 dxe5 29.d6 Bd8
+30.Qg7 Kd7 31.Kb1 Bb6 32.Qxf7+ Kc8 33.Qf6 Rd8 34.Qxe5 Qc6 35.Rg7 Rb7 36.Qf5+ Rbd7
+37.Rd1 Kb8 38.Rxh7 Rxh7 39.Qxh7 Rxd6 40.Qg8+ Kb7 41.Qh7+ Bc7 42.Rxd6 Qxd6
+43.Qe4+ Kb6 44.h4 a5 45.Qe8 Kb7 46.Qe4+ Qc6 47.Qe7 Qh1+ 48.Kb2 Qd5 49.a3 Qe5+
+50.Qxe5 Bxe5+ 51.Ka2 Kc6 52.axb4 axb4 53.h5 Bg7 54.Kb1 Kd5 55.Kc1 Kd4 56.c4 bxc3
+57.Kc2 Bf8  0-1
 
 [Event "Podolsk GMA-qual"]
 [Site "Podolsk"]
@@ -7143,6 +7143,23 @@
 [Date "1989.??.??"]
 [Round "?"]
 [White "Yudasin, Leonid"]
+[Black "Petrienko, Vladimir"]
+[Result "1-0"]
+[WhiteElo "2540"]
+[BlackElo "2420"]
+[ECO "B82"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Qb6 7.Nb3 e6 8.O-O Be7
+9.Be3 Qc7 10.f4 a6 11.Bd3 b5 12.Qf3 Bb7 13.Kh1 O-O 14.Qh3 Nb4 15.Nd4 Rae8
+16.a3 Nxd3 17.cxd3 Nd7 18.Rf3 Bf6 19.Rg3 Nc5 20.Rd1 Bxd4 21.Bxd4 f6 22.Qh4 e5
+23.Be3 exf4 24.Qxf4 Qe7 25.Rh3 Rf7 26.Kg1 Qe6 27.Qh4 h6 28.Rg3 Kh7 29.Ne2 Qb3
+30.Rd2 Nxe4 31.dxe4 Rxe4 32.Bf4 Qe6  1-0
+
+[Event "URS Army-ch"]
+[Site "Simferopol"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Yudasin, Leonid"]
 [Black "Tseshkovsky, Vitaly"]
 [Result "1/2-1/2"]
 [WhiteElo "2540"]
@@ -7202,41 +7219,6 @@
 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5 cxd5 5.Nc3 Nc6 6.Bf4 e6 7.e3 Bd6 8.Bg3 Ne4
 9.Bxd6 Nxc3 10.bxc3 Qxd6 11.Bd3  1/2-1/2
 
-[Event "URS Army-ch"]
-[Site "Simferopol"]
-[Date "1989.??.??"]
-[Round "?"]
-[White "Yudasin, Leonid"]
-[Black "Petrienko, Vladimir"]
-[Result "1-0"]
-[WhiteElo "2540"]
-[BlackElo "2420"]
-[ECO "B82"]
-
-1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Qb6 7.Nb3 e6 8.O-O Be7
-9.Be3 Qc7 10.f4 a6 11.Bd3 b5 12.Qf3 Bb7 13.Kh1 O-O 14.Qh3 Nb4 15.Nd4 Rae8
-16.a3 Nxd3 17.cxd3 Nd7 18.Rf3 Bf6 19.Rg3 Nc5 20.Rd1 Bxd4 21.Bxd4 f6 22.Qh4 e5
-23.Be3 exf4 24.Qxf4 Qe7 25.Rh3 Rf7 26.Kg1 Qe6 27.Qh4 h6 28.Rg3 Kh7 29.Ne2 Qb3
-30.Rd2 Nxe4 31.dxe4 Rxe4 32.Bf4 Qe6  1-0
-
-[Event "URS-ch57"]
-[Site "Leningrad"]
-[Date "1990.??.??"]
-[Round "?"]
-[White "Yudasin, Leonid"]
-[Black "Beliavsky, Alexander G"]
-[Result "1/2-1/2"]
-[WhiteElo "2615"]
-[BlackElo "2605"]
-[ECO "C86"]
-
-1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 b5 7.Bb3 d6 8.c3 O-O
-9.h3 Be6 10.d4 Bxb3 11.axb3 exd4 12.cxd4 d5 13.e5 Ne4 14.Nc3 f5 15.exf6 Bxf6
-16.Rd1 Re8 17.Be3 Qd6 18.Qc2 h6 19.Rac1 Nb4 20.Qb1 c6 21.Ne2 Qf8 22.Nf4 Qf7
-23.Nd3 Nxd3 24.Qxd3 Re6 25.Rc2 Qc7 26.Rdc1 Rae8 27.b4 Rc8 28.Qb3 Qd7 29.Bf4 Nd6
-30.Bxd6 Qxd6 31.Qa3 Qd7 32.Rc5 Be7 33.R5c3 Bf6 34.Kf1 Rce8 35.Qa2 Kh8 36.g4 Qb7
-37.Ra3 Ra8 38.Ra1 Re4 39.Rxa6  1/2-1/2
-
 [Event "URS-ch57"]
 [Site "Leningrad"]
 [Date "1990.??.??"]
@@ -7290,6 +7272,20 @@
 9.cxd5 exd5 10.Bd3 c6 11.Qc2 Re8 12.O-O Ne4 13.Bxe4 Bxh4 14.Bh7+ Kh8 15.Bf5 Bf6
 16.b4 Nb6 17.a4 Qe7 18.Bxc8 Rexc8 19.Nd2 Kg8 20.Rb1 Qd6 21.Rfc1 Rc7 22.Ne2 Nd7
 23.Qb3 Be7 24.Nf4 Nf6 25.Nd3 Qd8 26.Ra1 Bd6 27.Ra2  1/2-1/2
+
+[Event "URS-ch57"]
+[Site "Leningrad"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Epishin, Vladimir"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2590"]
+[BlackElo "2615"]
+[ECO "D35"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.cxd5 exd5 5.Nc3 Bd6 6.Bg5 c6 7.Qc2 Be6 8.e3 Nbd7
+9.Bd3 Qc7 10.Rc1 a6 11.Bh4 Bg4 12.a3 Bh5 13.b4 O-O 14.Bg3  1/2-1/2
 
 [Event "URS-ch57"]
 [Site "Leningrad"]
@@ -7394,15 +7390,19 @@
 [Site "Leningrad"]
 [Date "1990.??.??"]
 [Round "?"]
-[White "Epishin, Vladimir"]
-[Black "Yudasin, Leonid"]
+[White "Yudasin, Leonid"]
+[Black "Beliavsky, Alexander G"]
 [Result "1/2-1/2"]
-[WhiteElo "2590"]
-[BlackElo "2615"]
-[ECO "D35"]
+[WhiteElo "2615"]
+[BlackElo "2605"]
+[ECO "C86"]
 
-1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.cxd5 exd5 5.Nc3 Bd6 6.Bg5 c6 7.Qc2 Be6 8.e3 Nbd7
-9.Bd3 Qc7 10.Rc1 a6 11.Bh4 Bg4 12.a3 Bh5 13.b4 O-O 14.Bg3  1/2-1/2
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Qe2 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Be6 10.d4 Bxb3 11.axb3 exd4 12.cxd4 d5 13.e5 Ne4 14.Nc3 f5 15.exf6 Bxf6
+16.Rd1 Re8 17.Be3 Qd6 18.Qc2 h6 19.Rac1 Nb4 20.Qb1 c6 21.Ne2 Qf8 22.Nf4 Qf7
+23.Nd3 Nxd3 24.Qxd3 Re6 25.Rc2 Qc7 26.Rdc1 Rae8 27.b4 Rc8 28.Qb3 Qd7 29.Bf4 Nd6
+30.Bxd6 Qxd6 31.Qa3 Qd7 32.Rc5 Be7 33.R5c3 Bf6 34.Kf1 Rce8 35.Qa2 Kh8 36.g4 Qb7
+37.Ra3 Ra8 38.Ra1 Re4 39.Rxa6  1/2-1/2
 
 [Event "URS-ch57"]
 [Site "Leningrad"]
@@ -7436,6 +7436,28 @@
 1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 exd5 5.cxd5 d6 6.Nc3 g6 7.e4 Bg7 8.h3 O-O
 9.Bd3 b5 10.Nxb5 Nxe4 11.O-O a6 12.Na3 Nf6 13.Nc4 Ra7 14.Bf4 Rd7 15.Bc2 Bb7
 16.Ne3 Qc7 17.Rb1 Rdd8 18.Bg5 Nbd7 19.Nd2  1/2-1/2
+
+[Event "Lvov zt"]
+[Site "Lvov"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Lerner, Konstantin Z"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[WhiteElo "2560"]
+[BlackElo "2575"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.a3 Bxc5 7.Nf3 a6 8.Bg5 Be7
+9.e3 d6 10.Be2 Nbd7 11.O-O b6 12.Nd4 Bb7 13.a4 O-O 14.a5 bxa5 15.Nb3 Rab8
+16.Nxa5 Ba8 17.Rfb1 Rb4 18.e4 Rfb8 19.Ra2 Nc5 20.Bf3 Ncd7 21.Bd2 Ne5 22.Be2 Bd8
+23.h3 Qa7 24.Be3 Bb6 25.Bxb6 Qxb6 26.b3 Nfd7 27.Ra3 Nc5 28.Kh1 h6 29.f3 Nc6
+30.Nxc6 Bxc6 31.Bd1 Ba4 32.Nxa4 Nxa4 33.Qd2 Nc5 34.Bc2 Qc7 35.Rd1 R4b6 36.Qc3 e5
+37.Rd5 Ne6 38.Rda5 Nc5 39.Kh2 Kh7 40.Qd2 g6 41.Ra2 Kg7 42.R5a3 Qe7 43.Qf2 Qg5
+44.Ra1 Nxb3 45.Bxb3 Rxb3 46.Rxb3 Rxb3 47.h4 Qf4+ 48.Qg3 Qxg3+ 49.Kxg3 Rb6
+50.Ra5 Rc6 51.Kf2 h5 52.Ra4 Kf6 53.g4 Ke6 54.Kg3 Rb6 55.Ra5 Kd7 56.gxh5 gxh5
+57.Ra3 Kc7 58.Ra5 Kb7 59.Ra3 Rc6 60.Ra4 Kb6 61.Rb4+ Kc5 62.Rb7 f6 63.Rh7 a5
+64.Rxh5 a4 65.Rh8 Ra6 66.h5 a3 67.h6 a2 68.Rc8+ Kd4  0-1
 
 [Event "Lvov zt"]
 [Site "Lvov"]
@@ -7540,28 +7562,6 @@
 51.Kf5 a5 52.Kxg4 axb4 53.Rh1 Qa6 54.Qc2 Qe2+ 55.Kg3 Kg8 56.Qh7+ Kf8 57.Qh6+ Bg7
 58.Qd6+ Qe7 59.Re1 Qxd6+ 60.cxd6 Bf6 61.d7 b3 62.Bh6+ Kg8 63.Re8+ Kh7 64.Bc1 Nb4
 65.Re3 Nc2 66.Rf3 Bd8 67.Rxf7+ Kg8 68.Rf4 Bc7 69.Kf2 Nb4 70.Rf3  1-0
-
-[Event "Lvov zt"]
-[Site "Lvov"]
-[Date "1990.??.??"]
-[Round "?"]
-[White "Lerner, Konstantin Z"]
-[Black "Yudasin, Leonid"]
-[Result "0-1"]
-[WhiteElo "2560"]
-[BlackElo "2575"]
-[ECO "E38"]
-
-1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Qc7 6.a3 Bxc5 7.Nf3 a6 8.Bg5 Be7
-9.e3 d6 10.Be2 Nbd7 11.O-O b6 12.Nd4 Bb7 13.a4 O-O 14.a5 bxa5 15.Nb3 Rab8
-16.Nxa5 Ba8 17.Rfb1 Rb4 18.e4 Rfb8 19.Ra2 Nc5 20.Bf3 Ncd7 21.Bd2 Ne5 22.Be2 Bd8
-23.h3 Qa7 24.Be3 Bb6 25.Bxb6 Qxb6 26.b3 Nfd7 27.Ra3 Nc5 28.Kh1 h6 29.f3 Nc6
-30.Nxc6 Bxc6 31.Bd1 Ba4 32.Nxa4 Nxa4 33.Qd2 Nc5 34.Bc2 Qc7 35.Rd1 R4b6 36.Qc3 e5
-37.Rd5 Ne6 38.Rda5 Nc5 39.Kh2 Kh7 40.Qd2 g6 41.Ra2 Kg7 42.R5a3 Qe7 43.Qf2 Qg5
-44.Ra1 Nxb3 45.Bxb3 Rxb3 46.Rxb3 Rxb3 47.h4 Qf4+ 48.Qg3 Qxg3+ 49.Kxg3 Rb6
-50.Ra5 Rc6 51.Kf2 h5 52.Ra4 Kf6 53.g4 Ke6 54.Kg3 Rb6 55.Ra5 Kd7 56.gxh5 gxh5
-57.Ra3 Kc7 58.Ra5 Kb7 59.Ra3 Rc6 60.Ra4 Kb6 61.Rb4+ Kc5 62.Rb7 f6 63.Rh7 a5
-64.Rxh5 a4 65.Rh8 Ra6 66.h5 a3 67.h6 a2 68.Rc8+ Kd4  0-1
 
 [Event "Lvov zt"]
 [Site "Lvov"]
@@ -8164,22 +8164,6 @@
 [Site "Pamplona"]
 [Date "1990.??.??"]
 [Round "?"]
-[White "Polgar, Judit"]
-[Black "Yudasin, Leonid"]
-[Result "0-1"]
-[WhiteElo "2540"]
-[BlackElo "2615"]
-[ECO "B53"]
-
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Nc3 Nf6 8.Bg5 e6
-9.O-O-O Be7 10.Qd3 Qa5 11.Bh4 O-O 12.Nd4 Rfc8 13.f4 b5 14.e5 dxe5 15.fxe5 Nd5
-16.Nxc6 Rxc6 17.Bxe7 Nxe7 18.Qd7 b4 19.Nb5 b3 20.a3 Rxc2+ 21.Kb1 Ng6 22.Rhe1 Rac8
-23.Nd4 Nxe5 24.Qb7 Nd3 25.Nxc2 bxc2+ 26.Ka2 Rf8  0-1
-
-[Event "Pamplona"]
-[Site "Pamplona"]
-[Date "1990.??.??"]
-[Round "?"]
 [White "Yudasin, Leonid"]
 [Black "Novikov, Igor A"]
 [Result "1-0"]
@@ -8213,6 +8197,22 @@
 29.f3 f6 30.Bg3 Rc1+ 31.Kf2 Rc2 32.Rxd3 Nxa4 33.Ke1 Nc5 34.Rd8+ Kf7 35.Ra8 Rb2
 36.Bc7 a4 37.Bd6 Nd3+ 38.Ke2 Bc4 39.Rxa4 Bxb5 40.Ra7 Ke6 41.Bg3 Nf4+ 42.Kd1 Nd3
 43.e4 Ba6 44.Ra8 Ra2 45.Rd8 Nb4 46.Nb3 Ke7 47.Rd2  1/2-1/2
+
+[Event "Pamplona"]
+[Site "Pamplona"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Polgar, Judit"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[WhiteElo "2540"]
+[BlackElo "2615"]
+[ECO "B53"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Nc3 Nf6 8.Bg5 e6
+9.O-O-O Be7 10.Qd3 Qa5 11.Bh4 O-O 12.Nd4 Rfc8 13.f4 b5 14.e5 dxe5 15.fxe5 Nd5
+16.Nxc6 Rxc6 17.Bxe7 Nxe7 18.Qd7 b4 19.Nb5 b3 20.a3 Rxc2+ 21.Kb1 Ng6 22.Rhe1 Rac8
+23.Nd4 Nxe5 24.Qb7 Nd3 25.Nxc2 bxc2+ 26.Ka2 Rf8  0-1
 
 [Event "Pamplona"]
 [Site "Pamplona"]
@@ -8321,6 +8321,22 @@
 [Site "Podolsk"]
 [Date "1990.??.??"]
 [Round "?"]
+[White "Sveshnikov, Evgeny"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2515"]
+[BlackElo "2575"]
+[ECO "C43"]
+
+1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.dxe5 d5 5.Nbd2 Nc6 6.Nxe4 dxe4 7.Qxd8+ Nxd8
+8.Nd4 Bc5 9.Be3 O-O 10.Bc4 Bxd4 11.Bxd4 Be6 12.Bxe6 fxe6 13.O-O Nc6 14.Bc3 b5
+15.a3 a5 16.Rfe1 b4 17.Bd2 Rad8 18.Bg5 Rd4 19.axb4 axb4 20.b3 Nxe5 21.Re2 Nf7
+22.Be7 Rb8 23.Rae1 Nd6  1/2-1/2
+
+[Event "URS-chT"]
+[Site "Podolsk"]
+[Date "1990.??.??"]
+[Round "?"]
 [White "Yudasin, Leonid"]
 [Black "Moroz, Alexander"]
 [Result "1-0"]
@@ -8335,23 +8351,6 @@
 29.Bf1 Re6 30.Qd3 Rd8 31.Rxb4 g5 32.h4 Qg6 33.Qxg6+ fxg6 34.Bc4 gxh5 35.Bxe6+ Kg7
 36.Kf1 Kf6 37.Bc4 d3 38.Rb1 Rd4 39.hxg5+ hxg5 40.Bb5 h4 41.Rd1 d2 42.gxh4 gxh4
 43.Ke2 h3 44.Ke3 Ke5 45.Rxd2 h2 46.f4+ Rxf4 47.Rxh2 Rf7 48.Rd2 Rh7 49.Rd7  1-0
-
-[Event "URS-chT"]
-[Site "Podolsk"]
-[Date "1990.??.??"]
-[Round "?"]
-[White "Yudasin, Leonid"]
-[Black "Bagirov, Vladimir"]
-[Result "1/2-1/2"]
-[WhiteElo "2575"]
-[BlackElo "2470"]
-[ECO "D11"]
-
-1.g3 d5 2.Bg2 c6 3.Nf3 Bg4 4.c4 Nd7 5.d4 e6 6.O-O Ngf6 7.b3 Bd6 8.Bb2 O-O
-9.Nbd2 Qe7 10.Ne5 Bf5 11.h3 h6 12.g4 Bh7 13.e3 Ne4 14.Ndf3 f6 15.Nxd7 Qxd7
-16.Ne1 Qc7 17.Nd3 a5 18.a4 Rfe8 19.Re1 Bf8 20.Rc1 Qb6 21.f3 Ng5 22.Kh1 Qc7
-23.Nf4 e5 24.dxe5 fxe5 25.Nh5 dxc4 26.Rxc4 Rad8 27.Qa1 Bg6 28.f4 exf4 29.exf4 Rxe1+
-30.Qxe1 Re8 31.Qa1 Bxh5 32.gxh5 Nh7 33.Qb1 Qf7 34.Qg6 Nf6  1/2-1/2
 
 [Event "URS-chT"]
 [Site "Podolsk"]
@@ -8467,33 +8466,18 @@
 [Site "Podolsk"]
 [Date "1990.??.??"]
 [Round "?"]
-[White "Sveshnikov, Evgeny"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2515"]
-[BlackElo "2575"]
-[ECO "C43"]
-
-1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.dxe5 d5 5.Nbd2 Nc6 6.Nxe4 dxe4 7.Qxd8+ Nxd8
-8.Nd4 Bc5 9.Be3 O-O 10.Bc4 Bxd4 11.Bxd4 Be6 12.Bxe6 fxe6 13.O-O Nc6 14.Bc3 b5
-15.a3 a5 16.Rfe1 b4 17.Bd2 Rad8 18.Bg5 Rd4 19.axb4 axb4 20.b3 Nxe5 21.Re2 Nf7
-22.Be7 Rb8 23.Rae1 Nd6  1/2-1/2
-
-[Event "USA op"]
-[Site "USA"]
-[Date "1990.??.??"]
-[Round "?"]
 [White "Yudasin, Leonid"]
-[Black "Brookshear, T."]
-[Result "1-0"]
+[Black "Bagirov, Vladimir"]
+[Result "1/2-1/2"]
 [WhiteElo "2575"]
-[BlackElo ""]
-[ECO "B12"]
+[BlackElo "2470"]
+[ECO "D11"]
 
-1.e4 c6 2.d4 d5 3.e5 h5 4.Bd3 g6 5.Nf3 Bf5 6.Bxf5 gxf5 7.O-O e6 8.Bg5 Be7
-9.h4 Qb6 10.b3 c5 11.c4 dxc4 12.d5 cxb3 13.axb3 Nd7 14.Na3 f6 15.Nc4 Qd8
-16.exf6 Ndxf6 17.d6 Bf8 18.Nfe5 Qc8 19.Re1 Rh7 20.Qf3 Nd7 21.Rad1 Bg7 22.Nxd7 Kxd7
-23.Rxe6 Kxe6 24.Qd5+ Kd7 25.Qxf5+ Kc6 26.d7 Qf8 27.Qe4+  1-0
+1.g3 d5 2.Bg2 c6 3.Nf3 Bg4 4.c4 Nd7 5.d4 e6 6.O-O Ngf6 7.b3 Bd6 8.Bb2 O-O
+9.Nbd2 Qe7 10.Ne5 Bf5 11.h3 h6 12.g4 Bh7 13.e3 Ne4 14.Ndf3 f6 15.Nxd7 Qxd7
+16.Ne1 Qc7 17.Nd3 a5 18.a4 Rfe8 19.Re1 Bf8 20.Rc1 Qb6 21.f3 Ng5 22.Kh1 Qc7
+23.Nf4 e5 24.dxe5 fxe5 25.Nh5 dxc4 26.Rxc4 Rad8 27.Qa1 Bg6 28.f4 exf4 29.exf4 Rxe1+
+30.Qxe1 Re8 31.Qa1 Bxh5 32.gxh5 Nh7 33.Qb1 Qf7 34.Qg6 Nf6  1/2-1/2
 
 [Event "USA op"]
 [Site "USA"]
@@ -8606,6 +8590,23 @@
 [Site "USA"]
 [Date "1990.??.??"]
 [Round "?"]
+[White "Brady, Stephen"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[WhiteElo "2290"]
+[BlackElo "2575"]
+[ECO "B22"]
+
+1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.d4 cxd4 6.cxd4 d6 7.Bb5+ Bd7 8.Bxd7+ Nxd7
+9.O-O Rc8 10.Bd2 dxe5 11.dxe5 Be7 12.Nc3 N5b6 13.Rc1 Nc4 14.Qe2 O-O 15.b3 Nxd2
+16.Qxd2 Nxe5 17.Qe3 Nxf3+ 18.Qxf3 Qa5 19.Qxb7 Ba3 20.b4 Qb6 21.Qxb6 axb6
+22.Rc2 Rc4 23.Nb1 Rxc2 24.Nxa3 Rxa2 25.Nc4 Rb8 26.Rd1 h6 27.g3 b5 28.Ne5 Re2
+29.Nc6 Ra8 30.Nd4 Rd8  0-1
+
+[Event "USA op"]
+[Site "USA"]
+[Date "1990.??.??"]
+[Round "?"]
 [White "Yudasin, Leonid"]
 [Black "Rolletschek, Heinrich"]
 [Result "1/2-1/2"]
@@ -8642,18 +8643,37 @@
 [Site "USA"]
 [Date "1990.??.??"]
 [Round "?"]
-[White "Brady, Stephen"]
-[Black "Yudasin, Leonid"]
-[Result "0-1"]
-[WhiteElo "2290"]
-[BlackElo "2575"]
-[ECO "B22"]
+[White "Yudasin, Leonid"]
+[Black "Brookshear, T."]
+[Result "1-0"]
+[WhiteElo "2575"]
+[BlackElo ""]
+[ECO "B12"]
 
-1.e4 c5 2.Nf3 e6 3.c3 Nf6 4.e5 Nd5 5.d4 cxd4 6.cxd4 d6 7.Bb5+ Bd7 8.Bxd7+ Nxd7
-9.O-O Rc8 10.Bd2 dxe5 11.dxe5 Be7 12.Nc3 N5b6 13.Rc1 Nc4 14.Qe2 O-O 15.b3 Nxd2
-16.Qxd2 Nxe5 17.Qe3 Nxf3+ 18.Qxf3 Qa5 19.Qxb7 Ba3 20.b4 Qb6 21.Qxb6 axb6
-22.Rc2 Rc4 23.Nb1 Rxc2 24.Nxa3 Rxa2 25.Nc4 Rb8 26.Rd1 h6 27.g3 b5 28.Ne5 Re2
-29.Nc6 Ra8 30.Nd4 Rd8  0-1
+1.e4 c6 2.d4 d5 3.e5 h5 4.Bd3 g6 5.Nf3 Bf5 6.Bxf5 gxf5 7.O-O e6 8.Bg5 Be7
+9.h4 Qb6 10.b3 c5 11.c4 dxc4 12.d5 cxb3 13.axb3 Nd7 14.Na3 f6 15.Nc4 Qd8
+16.exf6 Ndxf6 17.d6 Bf8 18.Nfe5 Qc8 19.Re1 Rh7 20.Qf3 Nd7 21.Rad1 Bg7 22.Nxd7 Kxd7
+23.Rxe6 Kxe6 24.Qd5+ Kd7 25.Qxf5+ Kc6 26.d7 Qf8 27.Qe4+  1-0
+
+[Event "Moscow7 op"]
+[Site "Moscow"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Yudasin, Leonid"]
+[Black "Lempert, Igor"]
+[Result "1-0"]
+[WhiteElo "2595"]
+[BlackElo "2440"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Bf4 Bg4 7.Qb3 Qc8 8.Nd2 e6
+9.Ngf3 Be7 10.O-O Bh5 11.Rfe1 O-O 12.Ne5 Nxe5 13.dxe5 Nd7 14.Qc2 Bg6 15.Bxg6 fxg6
+16.Bg3 Bc5 17.Qd3 Nb6 18.b3 Qe8 19.a4 Rf7 20.a5 Nc8 21.Red1 Rd7 22.Ne4 Bf8
+23.c4 a6 24.h3 h6 25.Ra4 Rb8 26.c5 Na7 27.Nd6 Bxd6 28.exd6 Nc6 29.Re1 Rc8
+30.Rg4 g5 31.h4 gxh4 32.Bxh4 Qf7 33.Qe3 Kh8 34.Qxe6 Qxe6 35.Rxe6 Rf8 36.b4 Rf5
+37.f3 d4 38.Re7 Rf7 39.Rge4 Kg8 40.Rxd7 Rxd7 41.Be1 Kf7 42.Kf2 Rd8 43.Ke2 Re8
+44.Rxe8 Kxe8 45.Kd3 Kd7 46.Ke4 Ke6 47.Bd2 h5 48.Be1 g5 49.Bd2 Kf6 50.Kd5 d3
+51.b5  1-0
 
 [Event "Moscow7 op"]
 [Site "Moscow"]
@@ -8724,21 +8744,18 @@
 [Site "Moscow"]
 [Date "1991.??.??"]
 [Round "?"]
-[White "Yudasin, Leonid"]
-[Black "Lempert, Igor"]
-[Result "1-0"]
-[WhiteElo "2595"]
-[BlackElo "2440"]
-[ECO "B13"]
+[White "Zaitsev, Igor A"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[WhiteElo "2405"]
+[BlackElo "2595"]
+[ECO "B53"]
 
-1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Bf4 Bg4 7.Qb3 Qc8 8.Nd2 e6
-9.Ngf3 Be7 10.O-O Bh5 11.Rfe1 O-O 12.Ne5 Nxe5 13.dxe5 Nd7 14.Qc2 Bg6 15.Bxg6 fxg6
-16.Bg3 Bc5 17.Qd3 Nb6 18.b3 Qe8 19.a4 Rf7 20.a5 Nc8 21.Red1 Rd7 22.Ne4 Bf8
-23.c4 a6 24.h3 h6 25.Ra4 Rb8 26.c5 Na7 27.Nd6 Bxd6 28.exd6 Nc6 29.Re1 Rc8
-30.Rg4 g5 31.h4 gxh4 32.Bxh4 Qf7 33.Qe3 Kh8 34.Qxe6 Qxe6 35.Rxe6 Rf8 36.b4 Rf5
-37.f3 d4 38.Re7 Rf7 39.Rge4 Kg8 40.Rxd7 Rxd7 41.Be1 Kf7 42.Kf2 Rd8 43.Ke2 Re8
-44.Rxe8 Kxe8 45.Kd3 Kd7 46.Ke4 Ke6 47.Bd2 h5 48.Be1 g5 49.Bd2 Kf6 50.Kd5 d3
-51.b5  1-0
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Nc3 Nf6 8.Bg5 e6
+9.O-O-O Be7 10.Rhe1 O-O 11.e5 dxe5 12.Nxe5 Bxg2 13.Qh4 Nd5 14.f4 Bxg5 15.fxg5 Qa5
+16.Nxd5 exd5 17.Nd7 Rfc8 18.Qg4 Qxa2 19.Qxg2 Qa1+ 20.Kd2 Qxb2 21.Qxd5 Rxc2+
+22.Ke3 Re8+ 23.Kf3 Qc3+ 24.Kg4 h5+ 25.gxh6 Rxe1 26.Rxe1 Qxe1 27.Nf6+ gxf6
+28.Qd8+ Kh7 29.Qd3+ Kxh6 30.Qxc2  0-1
 
 [Event "Moscow7 op"]
 [Site "Moscow"]
@@ -8770,23 +8787,6 @@
 
 1.Nf3 Nf6 2.c4 c5 3.Nc3 e6 4.g3 b6 5.Bg2 Bb7 6.O-O Be7 7.d4 cxd4 8.Qxd4 Nc6
 9.Qf4 O-O 10.Rd1 Bb4 11.Ne4 Nxe4 12.Qxe4 Qc8 13.Qd3 Rd8 14.b3 Be7 15.Bb2 Nb4  1/2-1/2
-
-[Event "Moscow7 op"]
-[Site "Moscow"]
-[Date "1991.??.??"]
-[Round "?"]
-[White "Zaitsev, Igor A"]
-[Black "Yudasin, Leonid"]
-[Result "0-1"]
-[WhiteElo "2405"]
-[BlackElo "2595"]
-[ECO "B53"]
-
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Bb5 Bd7 6.Bxc6 Bxc6 7.Nc3 Nf6 8.Bg5 e6
-9.O-O-O Be7 10.Rhe1 O-O 11.e5 dxe5 12.Nxe5 Bxg2 13.Qh4 Nd5 14.f4 Bxg5 15.fxg5 Qa5
-16.Nxd5 exd5 17.Nd7 Rfc8 18.Qg4 Qxa2 19.Qxg2 Qa1+ 20.Kd2 Qxb2 21.Qxd5 Rxc2+
-22.Ke3 Re8+ 23.Kf3 Qc3+ 24.Kg4 h5+ 25.gxh6 Rxe1 26.Rxe1 Qxe1 27.Nf6+ gxf6
-28.Qd8+ Kh7 29.Qd3+ Kxh6 30.Qxc2  0-1
 
 [Event "Moscow7 op"]
 [Site "Moscow"]
@@ -9553,6 +9553,22 @@
 [Date "1991.??.??"]
 [Round "?"]
 [White "Yudasin, Leonid"]
+[Black "Touzane, Olivier"]
+[Result "1-0"]
+[WhiteElo "2595"]
+[BlackElo "2250"]
+[ECO "C11"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.Qd2 cxd4
+9.Nxd4 Bc5 10.O-O-O O-O 11.h4 Bxd4 12.Bxd4 b5 13.Kb1 Qa5 14.h5 b4 15.Ne2 Nc5
+16.g4 Ne4 17.Qe3 Nxd4 18.Nxd4 Qc7 19.g5 Rb8 20.Bg2 a5 21.Bxe4 dxe4 22.Rhe1 Bb7
+23.Nb5 Qc6 24.Nd6 Rfd8 25.g6 fxg6 26.hxg6 h6 27.f5 exf5 28.Qb3+  1-0
+
+[Event "Podolsk"]
+[Site "Podolsk"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Yudasin, Leonid"]
 [Black "Terterians, Vladimir"]
 [Result "1-0"]
 [WhiteElo "2595"]
@@ -9585,22 +9601,6 @@
 23.Rgg3 Rc5 24.Qd3 Rd8 25.Qh7 Na5 26.Rc3 Nc4 27.Rgd3 Nb2 28.Rxd8+ Qxd8 29.Rxc5 bxc5
 30.Qxf7 Qd1+ 31.Kf2 Qxc2 32.Qf8+ Kc7 33.Qd6+ Kc8 34.Qxe6+ Kc7 35.Qd6+ Kc8
 36.e6 Nd3+ 37.Kg3 Qd2 38.Qd7+ Kb8 39.Qd8+ Bc8 40.Qd6+  1-0
-
-[Event "Podolsk"]
-[Site "Podolsk"]
-[Date "1991.??.??"]
-[Round "?"]
-[White "Yudasin, Leonid"]
-[Black "Touzane, Olivier"]
-[Result "1-0"]
-[WhiteElo "2595"]
-[BlackElo "2250"]
-[ECO "C11"]
-
-1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.Qd2 cxd4
-9.Nxd4 Bc5 10.O-O-O O-O 11.h4 Bxd4 12.Bxd4 b5 13.Kb1 Qa5 14.h5 b4 15.Ne2 Nc5
-16.g4 Ne4 17.Qe3 Nxd4 18.Nxd4 Qc7 19.g5 Rb8 20.Bg2 a5 21.Bxe4 dxe4 22.Rhe1 Bb7
-23.Nb5 Qc6 24.Nd6 Rfd8 25.g6 fxg6 26.hxg6 h6 27.f5 exf5 28.Qb3+  1-0
 
 [Event "Podolsk"]
 [Site "Podolsk"]
@@ -10546,22 +10546,25 @@
 51.Rh8 Kxd6 52.Rxh2 a4 53.Rh7 Ke6 54.Rh6+ Ke7 55.Ra6 a3 56.f3 Ra1 57.Kg4 a2
 58.Kf5 Rf1 59.Rxa2 Rxf3+ 60.Kxe5 Rg3 61.Kf4 Rg1 62.Ra3 Ke6  1/2-1/2
 
-[Event "Alekhine op"]
+[Event "Moscow Tal mem"]
 [Site "Moscow"]
 [Date "1992.??.??"]
 [Round "?"]
 [White "Yudasin, Leonid"]
-[Black "Ye Rongguang"]
-[Result "1-0"]
+[Black "Yagupov, Igor"]
+[Result "1/2-1/2"]
 [WhiteElo "2635"]
-[BlackElo "2540"]
-[ECO "B82"]
+[BlackElo "2400"]
+[ECO "B33"]
 
-1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Qb6 7.Nb3 e6 8.O-O Be7
-9.Be3 Qc7 10.f4 O-O 11.Bd3 a6 12.Qf3 b5 13.Rad1 Bb7 14.Qh3 Rfe8 15.g4 Nb4
-16.g5 Nd7 17.f5 exf5 18.exf5 Nxd3 19.cxd3 Bd8 20.Nd4 Ne5 21.f6 gxf6 22.Nf5 Kh8
-23.Ne4 Rg8 24.Nfxd6 Bd5 25.Nxf6 Bxf6 26.Rxf6 Rg6 27.Rc1 Qd8 28.Qg3 Qxf6 29.gxf6 Rxg3+
-30.hxg3 Nxd3 31.Rd1 Rd8 32.Bf4 Bc4 33.Rxd3 Bxd3  1-0
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Ndb5 d6 7.Bf4 e5 8.Bg5 a6
+9.Na3 b5 10.Nd5 Be7 11.Nxe7 Nxe7 12.Qf3 Bg4 13.Qg3 Be6 14.Bd3 Ng6 15.Qf3 d5
+16.c3 h6 17.Bxf6 Qxf6 18.Qxf6 gxf6 19.g3 dxe4 20.Bxe4 Rb8 21.Nc2 f5 22.Bg2 a5
+23.O-O f4 24.Rfe1 Ke7 25.b4 fxg3 26.hxg3 axb4 27.Nxb4 Rbc8 28.Re3 h5 29.Bc6 h4
+30.Bxb5 hxg3 31.fxg3 f5 32.Rae1 Kf6 33.a4 Rcg8 34.Bc6 f4 35.Rd3 Ne7 36.Bg2 Nf5
+37.gxf4 exf4 38.Re4 Rg4 39.Rf3 Rhh4 40.a5 Ng3 41.Re1 Bc4 42.Kf2 Kf5 43.Nc6 Ne4+
+44.Rxe4 Rxg2+ 45.Kxg2 Kxe4 46.Nd4 Rh5 47.Kf2 Rxa5 48.Rh3 Ra2+ 49.Ke1 Ra1+
+50.Kd2 Rg1 51.Rh8 Rg2+ 52.Ke1 Bd5 53.Re8+ Kd3 54.Ne2  1/2-1/2
 
 [Event "Alekhine op"]
 [Site "Moscow"]
@@ -10720,25 +10723,22 @@
 31.Qb2 Qb6+ 32.Kf1 Qe6 33.Qg7+ Ke7 34.Re5 Kd6 35.Rxe6+ fxe6 36.Rd4+ Kc6 37.Rxd8 Rxd8
 38.Qc3+ Kb7 39.Qb4+ Ka8 40.Qe7  1-0
 
-[Event "Moscow Tal mem"]
+[Event "Alekhine op"]
 [Site "Moscow"]
 [Date "1992.??.??"]
 [Round "?"]
 [White "Yudasin, Leonid"]
-[Black "Yagupov, Igor"]
-[Result "1/2-1/2"]
+[Black "Ye Rongguang"]
+[Result "1-0"]
 [WhiteElo "2635"]
-[BlackElo "2400"]
-[ECO "B33"]
+[BlackElo "2540"]
+[ECO "B82"]
 
-1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Ndb5 d6 7.Bf4 e5 8.Bg5 a6
-9.Na3 b5 10.Nd5 Be7 11.Nxe7 Nxe7 12.Qf3 Bg4 13.Qg3 Be6 14.Bd3 Ng6 15.Qf3 d5
-16.c3 h6 17.Bxf6 Qxf6 18.Qxf6 gxf6 19.g3 dxe4 20.Bxe4 Rb8 21.Nc2 f5 22.Bg2 a5
-23.O-O f4 24.Rfe1 Ke7 25.b4 fxg3 26.hxg3 axb4 27.Nxb4 Rbc8 28.Re3 h5 29.Bc6 h4
-30.Bxb5 hxg3 31.fxg3 f5 32.Rae1 Kf6 33.a4 Rcg8 34.Bc6 f4 35.Rd3 Ne7 36.Bg2 Nf5
-37.gxf4 exf4 38.Re4 Rg4 39.Rf3 Rhh4 40.a5 Ng3 41.Re1 Bc4 42.Kf2 Kf5 43.Nc6 Ne4+
-44.Rxe4 Rxg2+ 45.Kxg2 Kxe4 46.Nd4 Rh5 47.Kf2 Rxa5 48.Rh3 Ra2+ 49.Ke1 Ra1+
-50.Kd2 Rg1 51.Rh8 Rg2+ 52.Ke1 Bd5 53.Re8+ Kd3 54.Ne2  1/2-1/2
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Bc4 Qb6 7.Nb3 e6 8.O-O Be7
+9.Be3 Qc7 10.f4 O-O 11.Bd3 a6 12.Qf3 b5 13.Rad1 Bb7 14.Qh3 Rfe8 15.g4 Nb4
+16.g5 Nd7 17.f5 exf5 18.exf5 Nxd3 19.cxd3 Bd8 20.Nd4 Ne5 21.f6 gxf6 22.Nf5 Kh8
+23.Ne4 Rg8 24.Nfxd6 Bd5 25.Nxf6 Bxf6 26.Rxf6 Rg6 27.Rc1 Qd8 28.Qg3 Qxf6 29.gxf6 Rxg3+
+30.hxg3 Nxd3 31.Rd1 Rd8 32.Bf4 Bc4 33.Rxd3 Bxd3  1-0
 
 [Event "Moscow Tal mem"]
 [Site "Moscow"]
@@ -11167,24 +11167,6 @@
 [Site "Ponferrada"]
 [Date "1992.??.??"]
 [Round "?"]
-[White "Nedobora, Mikhail"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2355"]
-[BlackElo "2580"]
-[ECO "A32"]
-
-1.d4 Nf6 2.c4 e6 3.g3 c5 4.Nf3 cxd4 5.Nxd4 Qc7 6.Nc3 a6 7.Bg5 Qxc4 8.Rc1 Qb4
-9.a3 Qa5 10.Bxf6 gxf6 11.Bg2 Nc6 12.O-O Be7 13.Qd2 O-O 14.Rfd1 Kh8 15.b4 Qe5
-16.Nf3 Qh5 17.Nd4 Rb8 18.Na4 Qe5 19.Nb6 Rd8 20.e4 a5 21.Rc4 axb4 22.axb4 Qd6
-23.Nc2 Qxd2 24.Rxd2 d5 25.exd5 exd5 26.Nxd5 Be6 27.Rd1 Ra8 28.b5 Na5 29.Rc3 b6
-30.Nce3 Bc5 31.Rcd3 Rac8 32.Nxf6 Rxd3 33.Rxd3 Bxe3 34.fxe3 Rc1+ 35.Kf2 Rc2+
-36.Kg1 Rc1+  1/2-1/2
-
-[Event "Ponferrada op"]
-[Site "Ponferrada"]
-[Date "1992.??.??"]
-[Round "?"]
 [White "Yudasin, Leonid"]
 [Black "Frois, Antonio"]
 [Result "1-0"]
@@ -11213,6 +11195,24 @@
 16.a4 Ba6 17.Ne1 Rf8 18.Be3 f6 19.Bxd4 cxd4 20.exf6 Bxf6 21.Nf3 c5 22.Nxf6+ Rxf6
 23.Ne5 Rd8 24.g4 Kg7 25.h4 Rd6 26.Kh2 Rf8 27.Kg3 Ra8 28.Rh2 h5 29.gxh5 gxh5
 30.Rg1 Rf8 31.Kh3+ Kf6 32.Rhg2 Rdd8 33.Rg7 Bc8 34.R1g6+ Kf5 35.Kg3 Rd5 36.Rh7  1-0
+
+[Event "Ponferrada op"]
+[Site "Ponferrada"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Nedobora, Mikhail"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2355"]
+[BlackElo "2580"]
+[ECO "A32"]
+
+1.d4 Nf6 2.c4 e6 3.g3 c5 4.Nf3 cxd4 5.Nxd4 Qc7 6.Nc3 a6 7.Bg5 Qxc4 8.Rc1 Qb4
+9.a3 Qa5 10.Bxf6 gxf6 11.Bg2 Nc6 12.O-O Be7 13.Qd2 O-O 14.Rfd1 Kh8 15.b4 Qe5
+16.Nf3 Qh5 17.Nd4 Rb8 18.Na4 Qe5 19.Nb6 Rd8 20.e4 a5 21.Rc4 axb4 22.axb4 Qd6
+23.Nc2 Qxd2 24.Rxd2 d5 25.exd5 exd5 26.Nxd5 Be6 27.Rd1 Ra8 28.b5 Na5 29.Rc3 b6
+30.Nce3 Bc5 31.Rcd3 Rac8 32.Nxf6 Rxd3 33.Rxd3 Bxe3 34.fxe3 Rc1+ 35.Kf2 Rc2+
+36.Kg1 Rc1+  1/2-1/2
 
 [Event "Ponferrada op"]
 [Site "Ponferrada"]
@@ -13001,6 +13001,25 @@
 [Site "Tilburg"]
 [Date "1993.??.??"]
 [Round "1"]
+[White "Yudasin, Leonid"]
+[Black "Minasian, Artashes"]
+[Result "1-0"]
+[WhiteElo "2605"]
+[BlackElo "2535"]
+[ECO "B00"]
+
+1.e4 Nc6 2.Nf3 d6 3.d4 Nf6 4.Nbd2 Bg4 5.c3 e6 6.Bd3 d5 7.e5 Nd7 8.O-O f6
+9.exf6 Qxf6 10.h3 Bh5 11.Qb3 O-O-O 12.Bb5 Ndb8 13.Qa4 Bd6 14.b4 g5 15.Bxc6 Nxc6
+16.b5 Nb8 17.Ne5 Rhg8 18.f3 Be8 19.Qxa7 Bxb5 20.Rb1 Ba6 21.c4 Bxe5 22.dxe5 Qxe5
+23.Bb2 d4 24.Rfe1 Qf4 25.Ne4 d3 26.Red1 h5 27.Bc1 Qe5 28.Nc5 d2 29.Bxd2 Rxd2
+30.Rxd2 Qe3+ 31.Rf2 Rd8 32.Rxb7 Rd1+ 33.Kh2 Bxb7 34.Qxb7+ Kd8 35.Qxb8+ Ke7
+36.Qxc7+ Kf8 37.Qc8+ Kf7 38.Qxe6+ Qxe6 39.Nxe6 Kxe6 40.Rc2 h4 41.c5 Kd7 42.c6+ Kc7
+43.Rc5 Ra1 44.Rxg5 Kxc6 45.Rg4 Rxa2 46.Rxh4  1-0
+
+[Event "Tilburg rapid20"]
+[Site "Tilburg"]
+[Date "1993.??.??"]
+[Round "1"]
 [White "Minasian, Artashes"]
 [Black "Yudasin, Leonid"]
 [Result "1/2-1/2"]
@@ -13017,25 +13036,6 @@
 43.g4 hxg4+ 44.Kxg4 Ke4 45.Kg5 b5 46.Ng6 Ne5 47.Nh8 Nf3+ 48.Kg4 Ne5+ 49.Kg5 Nf3+
 50.Kf6 Be8 51.Bg5 a5 52.Nf7 Bxf7 53.Kxf7 Nxh4 54.Bxh4 b4 55.a4 Kd5 56.Bd8 Kc4
 57.Ke6 b3 58.Bf6 Kb4 59.Kd5 Kxa4 60.Kc4 b2 61.Bxb2  1/2-1/2
-
-[Event "Tilburg rapid20"]
-[Site "Tilburg"]
-[Date "1993.??.??"]
-[Round "1"]
-[White "Yudasin, Leonid"]
-[Black "Minasian, Artashes"]
-[Result "1-0"]
-[WhiteElo "2605"]
-[BlackElo "2535"]
-[ECO "B00"]
-
-1.e4 Nc6 2.Nf3 d6 3.d4 Nf6 4.Nbd2 Bg4 5.c3 e6 6.Bd3 d5 7.e5 Nd7 8.O-O f6
-9.exf6 Qxf6 10.h3 Bh5 11.Qb3 O-O-O 12.Bb5 Ndb8 13.Qa4 Bd6 14.b4 g5 15.Bxc6 Nxc6
-16.b5 Nb8 17.Ne5 Rhg8 18.f3 Be8 19.Qxa7 Bxb5 20.Rb1 Ba6 21.c4 Bxe5 22.dxe5 Qxe5
-23.Bb2 d4 24.Rfe1 Qf4 25.Ne4 d3 26.Red1 h5 27.Bc1 Qe5 28.Nc5 d2 29.Bxd2 Rxd2
-30.Rxd2 Qe3+ 31.Rf2 Rd8 32.Rxb7 Rd1+ 33.Kh2 Bxb7 34.Qxb7+ Kd8 35.Qxb8+ Ke7
-36.Qxc7+ Kf8 37.Qc8+ Kf7 38.Qxe6+ Qxe6 39.Nxe6 Kxe6 40.Rc2 h4 41.c5 Kd7 42.c6+ Kc7
-43.Rc5 Ra1 44.Rxg5 Kxc6 45.Rg4 Rxa2 46.Rxh4  1-0
 
 [Event "Tilburg"]
 [Site "Tilburg"]
@@ -13105,6 +13105,22 @@
 37.Kh1 Ra5 38.Ra7 Rxa7 39.Nxa7+ Kd5 40.Rb1 Re2 41.Nb5 e5 42.g4 e4 43.g5 e3
 44.Rg1 Rf2 45.g6 e2 46.Nd4  1-0
 
+[Event "Tilburg blitz"]
+[Site "Tilburg"]
+[Date "1993.??.??"]
+[Round "3"]
+[White "Nikolic, Predrag"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2625"]
+[BlackElo "2605"]
+[ECO "E11"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Bb4+ 5.Bd2 Bxd2+ 6.Nxd2 O-O 7.Ngf3 Nbd7 8.O-O c5
+9.cxd5 Nxd5 10.Ne4 Qb6 11.Rc1 Qxb2 12.Rc2 Qb4 13.Nxc5 Nxc5 14.dxc5 Bd7 15.Qd4 Bc6
+16.e4 Qxd4 17.Nxd4 Nb4 18.Rc4 Nd3 19.Nxc6 bxc6 20.Rc3 Rfd8 21.Rb1 g6 22.f4 Rd4
+23.e5 Nb4 24.a3 Nd5 25.Bxd5 Rxd5  1/2-1/2
+
 [Event "Tilburg"]
 [Site "Tilburg"]
 [Date "1993.??.??"]
@@ -13123,22 +13139,6 @@
 30.b4 a5 31.b5 a4 32.Rde1 Bd5 33.Kh2 Qc8 34.Re3 g6 35.Rg3 Kh7 36.Qh4 Bg7
 37.Nf5 h5 38.Nxg7 Kxg7 39.Qg5 Re6 40.Qh6+ Kg8 41.Qxh5 Bc4 42.Re1 Bxb5 43.Qh4 Qc4
 44.Rg4 Qc7 45.Qh6  1-0
-
-[Event "Tilburg blitz"]
-[Site "Tilburg"]
-[Date "1993.??.??"]
-[Round "3"]
-[White "Nikolic, Predrag"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2625"]
-[BlackElo "2605"]
-[ECO "E11"]
-
-1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Bb4+ 5.Bd2 Bxd2+ 6.Nxd2 O-O 7.Ngf3 Nbd7 8.O-O c5
-9.cxd5 Nxd5 10.Ne4 Qb6 11.Rc1 Qxb2 12.Rc2 Qb4 13.Nxc5 Nxc5 14.dxc5 Bd7 15.Qd4 Bc6
-16.e4 Qxd4 17.Nxd4 Nb4 18.Rc4 Nd3 19.Nxc6 bxc6 20.Rc3 Rfd8 21.Rb1 g6 22.f4 Rd4
-23.e5 Nb4 24.a3 Nd5 25.Bxd5 Rxd5  1/2-1/2
 
 [Event "Tilburg blitz"]
 [Site "Tilburg"]
@@ -13256,6 +13256,25 @@
 [Site "Cala Galdana"]
 [Date "1994.??.??"]
 [Round "?"]
+[White "Yudasin, Leonid"]
+[Black "Spraggett, Kevin"]
+[Result "1-0"]
+[WhiteElo "2625"]
+[BlackElo "2550"]
+[ECO "B44"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 a6 7.N5c3 Nf6 8.Be2 Be7
+9.O-O O-O 10.Na3 b6 11.Bf4 Bb7 12.Re1 Rc8 13.Rc1 Re8 14.Bf1 Ne5 15.Rc2 Qc7
+16.Rd2 Rcd8 17.h3 h6 18.Bg3 Nh7 19.Qc2 Nf6 20.Be2 Qc6 21.f4 Ng6 22.Bf3 Nh5
+23.e5 Qxf3 24.gxf3 Nxg3 25.exd6 Bxd6 26.Red1 Bc5+ 27.Kh2 Rxd2+ 28.Qxd2 Nf5
+29.Qd7 Re7 30.Qd8+ Kh7 31.Ne4 Be3 32.Rd7 Ngh4 33.Nf6+ gxf6 34.Rxe7 Bxf4+
+35.Kg1 Be3+ 36.Kf1 Bxf3 37.Rxf7+ Kg6 38.Rxf6+ Kh5 39.Qe8+ Kg5 40.Rxf5+ Nxf5
+41.Nc2  1-0
+
+[Event "ESP-chT"]
+[Site "Cala Galdana"]
+[Date "1994.??.??"]
+[Round "?"]
 [White "Cabezas Ayala, Ivan"]
 [Black "Yudasin, Leonid"]
 [Result "0-1"]
@@ -13283,20 +13302,6 @@
 1.Nf3 d6 2.d4 Nf6 3.g3 g6 4.Bg2 Bg7 5.c4 O-O 6.O-O c6 7.Nc3 Bf5 8.b3 Ne4
 9.Bb2 Nxc3 10.Bxc3 Be4 11.e3 Nd7 12.Rc1 d5 13.Qe2 Nf6 14.Bh3 Bf5 15.Bxf5 gxf5
 16.Rfd1 Rc8 17.Ne5  1/2-1/2
-
-[Event "ESP-chT"]
-[Site "Cala Galdana"]
-[Date "1994.??.??"]
-[Round "?"]
-[White "Campora, Daniel H"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2535"]
-[BlackElo "2625"]
-[ECO "B22"]
-
-1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.Qxd4 e6 6.Nf3 Nc6 7.Qe4 d6 8.Nbd2 dxe5
-9.Nxe5 Nxe5 10.Qxe5 Qd6 11.Bb5+ Bd7 12.Bxd7+ Qxd7 13.O-O Qc7 14.Qe4 Bd6 15.Nf3 O-O  1/2-1/2
 
 [Event "ESP-chT"]
 [Site "Cala Galdana"]
@@ -13336,20 +13341,15 @@
 [Site "Cala Galdana"]
 [Date "1994.??.??"]
 [Round "?"]
-[White "Yudasin, Leonid"]
-[Black "Spraggett, Kevin"]
-[Result "1-0"]
-[WhiteElo "2625"]
-[BlackElo "2550"]
-[ECO "B44"]
+[White "Campora, Daniel H"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2535"]
+[BlackElo "2625"]
+[ECO "B22"]
 
-1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 a6 7.N5c3 Nf6 8.Be2 Be7
-9.O-O O-O 10.Na3 b6 11.Bf4 Bb7 12.Re1 Rc8 13.Rc1 Re8 14.Bf1 Ne5 15.Rc2 Qc7
-16.Rd2 Rcd8 17.h3 h6 18.Bg3 Nh7 19.Qc2 Nf6 20.Be2 Qc6 21.f4 Ng6 22.Bf3 Nh5
-23.e5 Qxf3 24.gxf3 Nxg3 25.exd6 Bxd6 26.Red1 Bc5+ 27.Kh2 Rxd2+ 28.Qxd2 Nf5
-29.Qd7 Re7 30.Qd8+ Kh7 31.Ne4 Be3 32.Rd7 Ngh4 33.Nf6+ gxf6 34.Rxe7 Bxf4+
-35.Kg1 Be3+ 36.Kf1 Bxf3 37.Rxf7+ Kg6 38.Rxf6+ Kh5 39.Qe8+ Kg5 40.Rxf5+ Nxf5
-41.Nc2  1-0
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.d4 cxd4 5.Qxd4 e6 6.Nf3 Nc6 7.Qe4 d6 8.Nbd2 dxe5
+9.Nxe5 Nxe5 10.Qxe5 Qd6 11.Bb5+ Bd7 12.Bxd7+ Qxd7 13.O-O Qc7 14.Qe4 Bd6 15.Nf3 O-O  1/2-1/2
 
 [Event "ESP-chT"]
 [Site "Cala Galdana"]
@@ -13457,6 +13457,25 @@
 [Site "Moscow"]
 [Date "1994.??.??"]
 [Round "1"]
+[White "Kramnik, Vladimir"]
+[Black "Yudasin, Leonid"]
+[Result "1-0"]
+[WhiteElo "2710"]
+[BlackElo "2625"]
+[ECO "A34"]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.g3 Bg7 6.Bg2 O-O 7.O-O c5 8.d3 Nxc3
+9.bxc3 Bxc3 10.Bh6 Bg7 11.Bxg7 Kxg7 12.Qa4 Na6 13.Qa3 Rb8 14.Rab1 f6 15.Rfc1 e5
+16.Nd2 b6 17.Rc4 b5 18.Rc2 Rf7 19.Ne4 c4 20.dxc4 bxc4 21.Rbc1 Rb4 22.Rxc4 Rxc4
+23.Rxc4 Rc7 24.Rxc7+ Qxc7 25.Nd6 Kh6 26.Qe3+ g5 27.Nxc8 Qxc8 28.Qxa7 Qc1+
+29.Bf1 Nc5 30.Qc7 Qa3 31.Qd6 Kg7 32.e3 Qc1 33.Kg2 Qc2 34.Qe7+ Kg6 35.Qe8+ Kg7
+36.Qc6 h5 37.a4 h4 38.a5 Qc3 39.a6 Qa5 40.Bb5 Qa3 41.Qc7+ Kh6 42.Qe7 Qb4
+43.Qxf6+ Kh7 44.Qf5+ Kh6 45.a7  1-0
+
+[Event "PCA/Intel-GP"]
+[Site "Moscow"]
+[Date "1994.??.??"]
+[Round "1"]
 [White "Yudasin, Leonid"]
 [Black "Kramnik, Vladimir"]
 [Result "1/2-1/2"]
@@ -13496,25 +13515,6 @@
 51.Rfxf7 Rxd5 52.Ka4 Re1 53.Rfd7+ Ke6 54.Rxd5 Kxd5 55.Kb5 e4 56.a6 e3 57.a7 Ra1
 58.Kb6 Ra3 59.b4 Kc4 60.Re7 Kd3 61.b5  1-0
 
-[Event "PCA/Intel-GP"]
-[Site "Moscow"]
-[Date "1994.??.??"]
-[Round "1"]
-[White "Kramnik, Vladimir"]
-[Black "Yudasin, Leonid"]
-[Result "1-0"]
-[WhiteElo "2710"]
-[BlackElo "2625"]
-[ECO "A34"]
-
-1.Nf3 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.g3 Bg7 6.Bg2 O-O 7.O-O c5 8.d3 Nxc3
-9.bxc3 Bxc3 10.Bh6 Bg7 11.Bxg7 Kxg7 12.Qa4 Na6 13.Qa3 Rb8 14.Rab1 f6 15.Rfc1 e5
-16.Nd2 b6 17.Rc4 b5 18.Rc2 Rf7 19.Ne4 c4 20.dxc4 bxc4 21.Rbc1 Rb4 22.Rxc4 Rxc4
-23.Rxc4 Rc7 24.Rxc7+ Qxc7 25.Nd6 Kh6 26.Qe3+ g5 27.Nxc8 Qxc8 28.Qxa7 Qc1+
-29.Bf1 Nc5 30.Qc7 Qa3 31.Qd6 Kg7 32.e3 Qc1 33.Kg2 Qc2 34.Qe7+ Kg6 35.Qe8+ Kg7
-36.Qc6 h5 37.a4 h4 38.a5 Qc3 39.a6 Qa5 40.Bb5 Qa3 41.Qc7+ Kh6 42.Qe7 Qb4
-43.Qxf6+ Kh7 44.Qf5+ Kh6 45.a7  1-0
-
 [Event "Moscow PCA-op rapid"]
 [Site "Moscow"]
 [Date "1994.??.??"]
@@ -13551,20 +13551,6 @@
 31.Nd2 Bd8 32.Qb3 Ne8 33.Be3 Qb7 34.Na4 Qb5 35.Nc3 Qb7 36.Na4 Qb5 37.Nb6 Nf6
 38.Qc3 Kf7 39.Qc8 Be7 40.Qe6+ Ke8 41.g4 Be4 42.Nxe4 Nxe4 43.Qg8+ Bf8 44.Bh6  1-0
 
-[Event "Moscow PCA-op rapid"]
-[Site "Moscow"]
-[Date "1994.??.??"]
-[Round "4"]
-[White "Azmaiparashvili, Zurab"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2625"]
-[BlackElo "2625"]
-[ECO "E34"]
-
-1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 Qxd5 6.Nf3 Qf5 7.Qb3 c5 8.e3 O-O
-9.a3 Ba5 10.dxc5 Qxc5 11.Bd2 Nc6 12.e4 Nxe4 13.Qc2 Bxc3 14.Bxc3 Nxc3 15.Qxc3  1/2-1/2
-
 [Event "Moscow ol (Men)"]
 [Site "Moscow"]
 [Date "1994.??.??"]
@@ -13585,6 +13571,20 @@
 44.Kf4 Nd7 45.Re1 Rc8 46.Re4 Rc5 47.Ra3 Nb8 48.Kg5 a5 49.Rb3 f5 50.Rf4 Nd7
 51.Rb5 Rxe5 52.Rxe5 Nxe5 53.Rf1 Kf7 54.Rb1 Nd7 55.c5 Nxc5 56.Rxb6 Ne4+ 57.Kf4 g5+
 58.Ke5 Nxg3 59.Rxe6 h4 60.Ra6 f4 61.Rxa5 g4 62.hxg4 h3 63.Kxf4 h2 64.Ra7+  1/2-1/2
+
+[Event "Moscow PCA-op rapid"]
+[Site "Moscow"]
+[Date "1994.??.??"]
+[Round "4"]
+[White "Azmaiparashvili, Zurab"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2625"]
+[BlackElo "2625"]
+[ECO "E34"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 Qxd5 6.Nf3 Qf5 7.Qb3 c5 8.e3 O-O
+9.a3 Ba5 10.dxc5 Qxc5 11.Bd2 Nc6 12.e4 Nxe4 13.Qc2 Bxc3 14.Bxc3 Nxc3 15.Qxc3  1/2-1/2
 
 [Event "Moscow ol (Men)"]
 [Site "Moscow"]
@@ -13662,6 +13662,23 @@
 36.Rxf5 Rxf5 37.Rg4 Qe5 38.Qxe5 Rxe5 39.Rd4 Rd5 40.Re4 Kg7 41.Kf1 Rd1+ 42.Ke2 Rb1
 43.Ke3 Rxb2 44.Rd4 Kf6 45.f4 Kf5 46.Kf3 Rb3+ 47.Kg2 f6 48.h3 Rc3 49.h4 h5  0-1
 
+[Event "Moscow ol (Men)"]
+[Site "Moscow"]
+[Date "1994.??.??"]
+[Round "7"]
+[White "Shirov, Alexei"]
+[Black "Yudasin, Leonid"]
+[Result "1-0"]
+[WhiteElo "2740"]
+[BlackElo "2625"]
+[ECO "E42"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 cxd4 6.exd4 d5 7.c5 Ne4 8.Bd2 Nxd2
+9.Qxd2 a5 10.a3 Bxc3 11.Nxc3 a4 12.Bd3 Bd7 13.O-O Nc6 14.Bc2 Ne7 15.Rae1 b6
+16.Qd1 bxc5 17.dxc5 Qa5 18.Qd4 O-O 19.Re3 f5 20.Bxa4 Bxa4 21.Rxe6 Ng6 22.b4 Qa7
+23.b5 Qa5 24.b6 Be8 25.Nxd5 Bf7 26.Rxg6 Bxg6 27.c6 Rae8 28.b7 Bf7 29.Nb6 Be6
+30.h4 Qxa3 31.Rb1 Rd8 32.Qxd8 Rxd8 33.c7 Rf8 34.b8=Q f4 35.Re1 Qd6 36.c8=Q  1-0
+
 [Event "Moscow PCA-op rapid"]
 [Site "Moscow"]
 [Date "1994.??.??"]
@@ -13682,23 +13699,6 @@
 44.Qxe1 Rxe1+ 45.Kh2 Rc1 46.Rf2 Kf8 47.Kg3 Kf7 48.Kf4 g5+ 49.fxg6+ hxg6 50.h4 Rh1
 51.g3 Re1 52.Rc2 Bf5 53.Re2 Rf1+ 54.Ke3 Rc1 55.Nb3 Rc2 56.Rxc2 Bxc2 57.Nc5 g5
 58.hxg5 fxg5 59.Kf3 Kg6 60.Na2 a5 61.Nb7 a4 62.Nc3 Bd3  1/2-1/2
-
-[Event "Moscow ol (Men)"]
-[Site "Moscow"]
-[Date "1994.??.??"]
-[Round "7"]
-[White "Shirov, Alexei"]
-[Black "Yudasin, Leonid"]
-[Result "1-0"]
-[WhiteElo "2740"]
-[BlackElo "2625"]
-[ECO "E42"]
-
-1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Ne2 cxd4 6.exd4 d5 7.c5 Ne4 8.Bd2 Nxd2
-9.Qxd2 a5 10.a3 Bxc3 11.Nxc3 a4 12.Bd3 Bd7 13.O-O Nc6 14.Bc2 Ne7 15.Rae1 b6
-16.Qd1 bxc5 17.dxc5 Qa5 18.Qd4 O-O 19.Re3 f5 20.Bxa4 Bxa4 21.Rxe6 Ng6 22.b4 Qa7
-23.b5 Qa5 24.b6 Be8 25.Nxd5 Bf7 26.Rxg6 Bxg6 27.c6 Rae8 28.b7 Bf7 29.Nb6 Be6
-30.h4 Qxa3 31.Rb1 Rd8 32.Qxd8 Rxd8 33.c7 Rf8 34.b8=Q f4 35.Re1 Qd6 36.c8=Q  1-0
 
 [Event "Moscow PCA-op rapid"]
 [Site "Moscow"]
@@ -14058,6 +14058,22 @@
 [Date "1994.??.??"]
 [Round "?"]
 [White "Yudasin, Leonid"]
+[Black "Van Wely, Loek"]
+[Result "1/2-1/2"]
+[WhiteElo "2625"]
+[BlackElo "2570"]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e6 7.Be2 Nc6 8.O-O Be7
+9.Be3 O-O 10.Kh1 Qc7 11.Qd2 Bd7 12.f4 Rfe8 13.Bd3 Ng4 14.Bg1 Nxd4 15.Bxd4 Bf6
+16.Bxf6 Nxf6 17.Rae1 e5 18.fxe5 Rxe5 19.Rxf6 gxf6 20.Nd5 Qd8 21.Qh6 Bf5 22.Nxf6+ Kh8
+23.Rf1 Bg6 24.h4 Re6 25.Qg5 Kg7 26.Nh5+ Kh8 27.Nf6 Kg7  1/2-1/2
+
+[Event "World op"]
+[Site "Philadelphia"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Yudasin, Leonid"]
 [Black "Fishbein, Alexander"]
 [Result "1/2-1/2"]
 [WhiteElo "2625"]
@@ -14087,22 +14103,6 @@
 
 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Bc4 Bf5 8.O-O e6
 9.h3 Be7 10.Re1 O-O 11.c3 a5 12.a4 h6 13.Bf4 Nd5 14.Bg3 Bd6 15.Ne5 Qc7  1/2-1/2
-
-[Event "World op"]
-[Site "Philadelphia"]
-[Date "1994.??.??"]
-[Round "?"]
-[White "Yudasin, Leonid"]
-[Black "Van Wely, Loek"]
-[Result "1/2-1/2"]
-[WhiteElo "2625"]
-[BlackElo "2570"]
-[ECO "B85"]
-
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 e6 7.Be2 Nc6 8.O-O Be7
-9.Be3 O-O 10.Kh1 Qc7 11.Qd2 Bd7 12.f4 Rfe8 13.Bd3 Ng4 14.Bg1 Nxd4 15.Bxd4 Bf6
-16.Bxf6 Nxf6 17.Rae1 e5 18.fxe5 Rxe5 19.Rxf6 gxf6 20.Nd5 Qd8 21.Qh6 Bf5 22.Nxf6+ Kh8
-23.Rf1 Bg6 24.h4 Re6 25.Qg5 Kg7 26.Nh5+ Kh8 27.Nf6 Kg7  1/2-1/2
 
 [Event "ISR-ch"]
 [Site "Tel Aviv"]
@@ -14306,23 +14306,6 @@
 [Site "Tilburg"]
 [Date "1994.??.??"]
 [Round "1"]
-[White "Rogers, Ian"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2560"]
-[BlackElo "2625"]
-[ECO "E41"]
-
-1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 Nc6 6.Ne2 cxd4 7.exd4 d5 8.cxd5 Qxd5
-9.O-O Qh5 10.Ne4 Nxe4 11.Bxe4 Bd6 12.Bf4 Bxf4 13.Nxf4 Qxd1 14.Rfxd1 Bd7 15.Nd3 Rc8
-16.Nc5 b6 17.Nxd7 Kxd7 18.d5 Ne7 19.dxe6+ Kxe6 20.Rd3 Rhd8 21.Re1 Rxd3 22.Bxh7+ Re3
-23.Rxe3+ Kf6 24.Rf3+ Ke6 25.Bd3 Rc1+ 26.Bf1 Nd5 27.g3 Rb1 28.Rb3 a6 29.Kg2 b5
-30.Be2 Nb6 31.Bd3 Rc1 32.h4 Na4 33.g4 Ke5 34.Rb4 Nc5 35.Be2  1/2-1/2
-
-[Event "Tilburg"]
-[Site "Tilburg"]
-[Date "1994.??.??"]
-[Round "1"]
 [White "Yudasin, Leonid"]
 [Black "Rogers, Ian"]
 [Result "1/2-1/2"]
@@ -14379,6 +14362,40 @@
 [Event "Tilburg"]
 [Site "Tilburg"]
 [Date "1994.??.??"]
+[Round "1"]
+[White "Rogers, Ian"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2560"]
+[BlackElo "2625"]
+[ECO "E41"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 Nc6 6.Ne2 cxd4 7.exd4 d5 8.cxd5 Qxd5
+9.O-O Qh5 10.Ne4 Nxe4 11.Bxe4 Bd6 12.Bf4 Bxf4 13.Nxf4 Qxd1 14.Rfxd1 Bd7 15.Nd3 Rc8
+16.Nc5 b6 17.Nxd7 Kxd7 18.d5 Ne7 19.dxe6+ Kxe6 20.Rd3 Rhd8 21.Re1 Rxd3 22.Bxh7+ Re3
+23.Rxe3+ Kf6 24.Rf3+ Ke6 25.Bd3 Rc1+ 26.Bf1 Nd5 27.g3 Rb1 28.Rb3 a6 29.Kg2 b5
+30.Be2 Nb6 31.Bd3 Rc1 32.h4 Na4 33.g4 Ke5 34.Rb4 Nc5 35.Be2  1/2-1/2
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1994.??.??"]
+[Round "2"]
+[White "Yudasin, Leonid"]
+[Black "Vladimirov, Evgeny"]
+[Result "0-1"]
+[WhiteElo "2625"]
+[BlackElo "2580"]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.c3 Na5 8.Bb5 a6
+9.Ba4 c5 10.Nbd2 Qc7 11.Nf1 Be6 12.h3 Rad8 13.Bg5 h6 14.Bh4 g6 15.d4 Nh5
+16.Bxe7 Qxe7 17.b4 Nc4 18.Bb3 cxd4 19.cxd4 Rc8 20.Rc1 b5 21.Ne3 Nf4 22.Rc2 Nxe3
+23.Rxe3 Rxc2 24.Qxc2 Rc8 25.Qd2 Bxb3 26.Rxb3 Rc4 27.Ra3 Rxd4 28.Qe3 Rxb4
+29.Rxa6 Qc7 30.Qd2 Qc4 31.Qe1 Nd3 32.Qd1 Rb2 33.Kh2 Qxe4 34.Rxd6 Qf4+ 35.Kg1 Nxf2  0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1994.??.??"]
 [Round "2"]
 [White "Vladimirov, Evgeny"]
 [Black "Yudasin, Leonid"]
@@ -14431,23 +14448,6 @@
 [Event "Tilburg"]
 [Site "Tilburg"]
 [Date "1994.??.??"]
-[Round "2"]
-[White "Yudasin, Leonid"]
-[Black "Vladimirov, Evgeny"]
-[Result "0-1"]
-[WhiteElo "2625"]
-[BlackElo "2580"]
-[ECO "C55"]
-
-1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.c3 Na5 8.Bb5 a6
-9.Ba4 c5 10.Nbd2 Qc7 11.Nf1 Be6 12.h3 Rad8 13.Bg5 h6 14.Bh4 g6 15.d4 Nh5
-16.Bxe7 Qxe7 17.b4 Nc4 18.Bb3 cxd4 19.cxd4 Rc8 20.Rc1 b5 21.Ne3 Nf4 22.Rc2 Nxe3
-23.Rxe3 Rxc2 24.Qxc2 Rc8 25.Qd2 Bxb3 26.Rxb3 Rc4 27.Ra3 Rxd4 28.Qe3 Rxb4
-29.Rxa6 Qc7 30.Qd2 Qc4 31.Qe1 Nd3 32.Qd1 Rb2 33.Kh2 Qxe4 34.Rxd6 Qf4+ 35.Kg1 Nxf2  0-1
-
-[Event "Tilburg"]
-[Site "Tilburg"]
-[Date "1994.??.??"]
 [Round "3"]
 [White "Glek, Igor V"]
 [Black "Yudasin, Leonid"]
@@ -14465,6 +14465,23 @@
 44.Nd6 b6 45.Rf4 Rc2+ 46.Rf2 Rxf2+ 47.Kxf2 Be5 48.Nf5 Kf7 49.Kf3 Ke6 50.Ne3 Bc7
 51.g4 Ke5 52.g5 Bd8 53.Kg4 Kd4 54.Nf5+ Kc5 55.h5 Kb4 56.Nd4 Kxa4 57.Kf5 Be7
 58.g6 hxg6+ 59.hxg6 Bf8 60.Ne6 Bh6 61.Kg4  1-0
+
+[Event "Tilburg blitz"]
+[Site "Tilburg"]
+[Date "1994.??.??"]
+[Round "3"]
+[White "Yudasin, Leonid"]
+[Black "Glek, Igor V"]
+[Result "1/2-1/2"]
+[WhiteElo "2625"]
+[BlackElo "2615"]
+[ECO "C02"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Nh6 6.Bxh6 gxh6 7.Be2 f6 8.O-O cxd4
+9.cxd4 a6 10.Nbd2 Bg7 11.exf6 Qxf6 12.Nb3 O-O 13.Rc1 Kh8 14.Rc3 a5 15.a4 e5
+16.dxe5 Nxe5 17.Nxe5 Qxe5 18.Bf3 Qf4 19.Rc5 Be5 20.Re1 Qxh2+ 21.Kf1 b6 22.Qxd5 Ba6+
+23.Rb5 Rae8 24.Re4 Bxb5+ 25.Qxb5 Qh1+ 26.Ke2 Qb1 27.Nd4 Bxd4 28.Rxe8 Qxb2+
+29.Kd1 Qa1+ 30.Kd2 Qc3+ 31.Kd1 Qa1+ 32.Kd2  1/2-1/2
 
 [Event "Tilburg"]
 [Site "Tilburg"]
@@ -14484,23 +14501,6 @@
 31.Qd2 Rxc1 32.Rxc1 Qb8 33.Kh2 Qb7 34.g4 g6 35.Qf2 Ke8 36.gxf5 exf5 37.Qh4 Nf8
 38.Ng5 Rc6 39.Re1 Qe7 40.Qh6 Rc3 41.Bxf5 Rxb3 42.Bg4 Bb7 43.f5 Rb2+ 44.Kg3 Rb3+
 45.Kf4 Bc8 46.f6 Qa7 47.Qg7 Qxd4+ 48.Ne4 g5+ 49.Kxg5 Qxe5+ 50.Kh6  1-0
-
-[Event "Tilburg blitz"]
-[Site "Tilburg"]
-[Date "1994.??.??"]
-[Round "3"]
-[White "Yudasin, Leonid"]
-[Black "Glek, Igor V"]
-[Result "1/2-1/2"]
-[WhiteElo "2625"]
-[BlackElo "2615"]
-[ECO "C02"]
-
-1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Nh6 6.Bxh6 gxh6 7.Be2 f6 8.O-O cxd4
-9.cxd4 a6 10.Nbd2 Bg7 11.exf6 Qxf6 12.Nb3 O-O 13.Rc1 Kh8 14.Rc3 a5 15.a4 e5
-16.dxe5 Nxe5 17.Nxe5 Qxe5 18.Bf3 Qf4 19.Rc5 Be5 20.Re1 Qxh2+ 21.Kf1 b6 22.Qxd5 Ba6+
-23.Rb5 Rae8 24.Re4 Bxb5+ 25.Qxb5 Qh1+ 26.Ke2 Qb1 27.Nd4 Bxd4 28.Rxe8 Qxb2+
-29.Kd1 Qa1+ 30.Kd2 Qc3+ 31.Kd1 Qa1+ 32.Kd2  1/2-1/2
 
 [Event "Tilburg blitz"]
 [Site "Tilburg"]
@@ -16351,26 +16351,6 @@
 [Site "Kranevo"]
 [Date "1996.??.??"]
 [Round "?"]
-[White "Yudasin, Leonid"]
-[Black "Spasov, Vasil"]
-[Result "1/2-1/2"]
-[WhiteElo "2595"]
-[BlackElo "2575"]
-[ECO "B31"]
-
-1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.Nc3 Bg4 7.h3 Bxf3 8.Qxf3 Nf6
-9.O-O Nd7 10.Be3 O-O 11.a3 a5 12.a4 b6 13.Rab1 Re8 14.Ne2 Nf8 15.h4 e5 16.h5 Ne6
-17.g3 b5 18.Kg2 c4 19.dxc4 bxc4 20.Rfd1 Qe7 21.b3 cxb3 22.cxb3 Rab8 23.Bd2 Ra8
-24.Qc3 Qb7 25.Qc4 Nd4 26.Be3 c5 27.Nc3 Bf8 28.Nd5 Re6 29.Rh1 Rc8 30.hxg6 hxg6
-31.Rh4 Bg7 32.Bh6 Rd6 33.Bxg7 Kxg7 34.Rbh1 Rxd5 35.Qxd5 Qxd5 36.exd5 Rd8
-37.Rh7+ Kf6 38.Rh8 Rxd5 39.Rb8 Ke6 40.Rhh8 Rd6 41.Rb7 f5 42.Ra8 Nc6 43.Rg8 Kd5
-44.Rbg7 Nd4 45.Rxg6 Rxg6 46.Rxg6 Nxb3 47.Kf1 c4 48.Ke2 Kd4 49.g4 fxg4 50.Rxg4+ Kc3
-51.Ke3 Nc5 52.Rg8 Nxa4 53.Ra8 Kb4 54.Rb8+ Kc5 55.Re8 Kd5 56.Ra8 Nc5 57.Rxa5  1/2-1/2
-
-[Event "EUCup Gr1"]
-[Site "Kranevo"]
-[Date "1996.??.??"]
-[Round "?"]
 [White "Bareev, Evgeny"]
 [Black "Yudasin, Leonid"]
 [Result "1/2-1/2"]
@@ -16387,6 +16367,26 @@
 43.g3 Qe1 44.Rc3 Qd1 45.Na3 Nf7 46.Rd3 Qc1 47.Rxf3 Ng5 48.Re3 Nxh3+ 49.Kg2 Qc6+
 50.f3 Ng5 51.Nc4 Qd7 52.Kf2 Kg7 53.f4 Nf7 54.Ne5 Qd2+ 55.Be2 Nd6 56.Rd3 Qb4
 57.Kg2 g5 58.Bf3 gxf4 59.gxf4 Kf6 60.Rd5 Qa3 61.Ng4+ Kf7 62.Re5 Kf8 63.Ne3 Qb2+  1/2-1/2
+
+[Event "EUCup Gr1"]
+[Site "Kranevo"]
+[Date "1996.??.??"]
+[Round "?"]
+[White "Yudasin, Leonid"]
+[Black "Spasov, Vasil"]
+[Result "1/2-1/2"]
+[WhiteElo "2595"]
+[BlackElo "2575"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.Bxc6 dxc6 5.d3 Bg7 6.Nc3 Bg4 7.h3 Bxf3 8.Qxf3 Nf6
+9.O-O Nd7 10.Be3 O-O 11.a3 a5 12.a4 b6 13.Rab1 Re8 14.Ne2 Nf8 15.h4 e5 16.h5 Ne6
+17.g3 b5 18.Kg2 c4 19.dxc4 bxc4 20.Rfd1 Qe7 21.b3 cxb3 22.cxb3 Rab8 23.Bd2 Ra8
+24.Qc3 Qb7 25.Qc4 Nd4 26.Be3 c5 27.Nc3 Bf8 28.Nd5 Re6 29.Rh1 Rc8 30.hxg6 hxg6
+31.Rh4 Bg7 32.Bh6 Rd6 33.Bxg7 Kxg7 34.Rbh1 Rxd5 35.Qxd5 Qxd5 36.exd5 Rd8
+37.Rh7+ Kf6 38.Rh8 Rxd5 39.Rb8 Ke6 40.Rhh8 Rd6 41.Rb7 f5 42.Ra8 Nc6 43.Rg8 Kd5
+44.Rbg7 Nd4 45.Rxg6 Rxg6 46.Rxg6 Nxb3 47.Kf1 c4 48.Ke2 Kd4 49.g4 fxg4 50.Rxg4+ Kc3
+51.Ke3 Nc5 52.Rg8 Nxa4 53.Ra8 Kb4 54.Rb8+ Kc5 55.Re8 Kd5 56.Ra8 Nc5 57.Rxa5  1/2-1/2
 
 [Event "ISL-ISR"]
 [Site "Reykjavik"]
@@ -16591,22 +16591,6 @@
 44.g5 hxg5 45.Rxa6 g4 46.Rc6 Rh5 47.Bf4 Rd5+ 48.Ke3 Rd3+ 49.Ke2 g3 50.Rc5 Rf3
 51.Be3 Ng4 52.Rh5+ Kg8 53.Bg1 Rb3 54.Bd4 g2 55.Rg5 Rxb2+  0-1
 
-[Event "Petrov mem"]
-[Site "St Petersburg"]
-[Date "1996.??.??"]
-[Round "1"]
-[White "Yudasin, Leonid"]
-[Black "Loskutov, Oleg"]
-[Result "0-1"]
-[WhiteElo "2635"]
-[BlackElo "2440"]
-[ECO "B93"]
-
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nf3 Nbd7 8.a4 Be7
-9.Bd3 O-O 10.O-O exf4 11.a5 b6 12.Nd4 bxa5 13.Bxf4 Qb6 14.Be3 Nc5 15.Nd5 Nxd5
-16.exd5 Bd7 17.Bf5 Qxb2 18.Qg4 Qc3 19.Bf2 Bf6 20.Rad1 Bb5 21.Bh4 Bxd4+ 22.Rxd4 Bxf1
-23.Bf6 g6 24.Qh4 Qe3+ 25.Kxf1 Qc1+ 26.Kf2 Rfe8 27.Bg4 Qe1+  0-1
-
 [Event "RUS-Cup1 Chigorin mem"]
 [Site "St Petersburg"]
 [Date "1996.??.??"]
@@ -16623,6 +16607,22 @@
 16.Qd2 Ne8 17.b4 Bb3 18.Rac1 Qd7 19.e5 Nac7 20.exd6 Bxc4 21.Re7 Qd8 22.Bxc4 Nxd6
 23.Bxd6 Qxd6 24.Rxf7 Ne6 25.Rxb7 Rxc4 26.Rxc4 Qd5 27.Qe2 Qxb7 28.Qxe6+ Kh8
 29.Ne5  1-0
+
+[Event "Petrov mem"]
+[Site "St Petersburg"]
+[Date "1996.??.??"]
+[Round "1"]
+[White "Yudasin, Leonid"]
+[Black "Loskutov, Oleg"]
+[Result "0-1"]
+[WhiteElo "2635"]
+[BlackElo "2440"]
+[ECO "B93"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 e5 7.Nf3 Nbd7 8.a4 Be7
+9.Bd3 O-O 10.O-O exf4 11.a5 b6 12.Nd4 bxa5 13.Bxf4 Qb6 14.Be3 Nc5 15.Nd5 Nxd5
+16.exd5 Bd7 17.Bf5 Qxb2 18.Qg4 Qc3 19.Bf2 Bf6 20.Rad1 Bb5 21.Bh4 Bxd4+ 22.Rxd4 Bxf1
+23.Bf6 g6 24.Qh4 Qe3+ 25.Kxf1 Qc1+ 26.Kf2 Rfe8 27.Bg4 Qe1+  0-1
 
 [Event "Petrov mem"]
 [Site "St Petersburg"]
@@ -16777,21 +16777,6 @@
 30.Qg3 Rc4 31.a5 Rec8 32.h3 h6 33.Kh1 Kh7 34.Nf5 Nh5 35.Qe5 f6 36.Qxd5 R8c5
 37.Qd3 Nf4 38.Qb1 Ng6 39.Rd7 Rc7 40.Ne7  1-0
 
-[Event "RUS-Cup1 Chigorin mem"]
-[Site "St Petersburg"]
-[Date "1996.??.??"]
-[Round "6"]
-[White "Ionov, Sergey"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2490"]
-[BlackElo "2595"]
-[ECO "E15"]
-
-1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 d5 6.cxd5 Bb4+ 7.Bd2 Bxd2+ 8.Qxd2 Nxd5
-9.Bg2 Nd7 10.O-O O-O 11.Rd1 Bb7 12.Nc3 c5 13.dxc5 Nxc5 14.b4 Nxc3 15.Qxc3 Ne4
-16.Qe3 Qe7  1/2-1/2
-
 [Event "Petrov mem"]
 [Site "St Petersburg"]
 [Date "1996.??.??"]
@@ -16807,6 +16792,21 @@
 9.f4 d6 10.Qf3 b5 11.f5 Nbd7 12.Qg3 b4 13.fxe6 fxe6 14.Ne2 O-O 15.Be3 Ne5
 16.Nbd4 Bd7 17.a3 Qb7 18.Nf4 Nxe4 19.Bxe4 Qxe4 20.Ndxe6 Bxe6 21.Nxe6 Rxf1+
 22.Rxf1 Ng4 23.Bg5 Qxe6  1/2-1/2
+
+[Event "RUS-Cup1 Chigorin mem"]
+[Site "St Petersburg"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Ionov, Sergey"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2490"]
+[BlackElo "2595"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.b3 d5 6.cxd5 Bb4+ 7.Bd2 Bxd2+ 8.Qxd2 Nxd5
+9.Bg2 Nd7 10.O-O O-O 11.Rd1 Bb7 12.Nc3 c5 13.dxc5 Nxc5 14.b4 Nxc3 15.Qxc3 Ne4
+16.Qe3 Qe7  1/2-1/2
 
 [Event "Petrov mem"]
 [Site "St Petersburg"]
@@ -16847,22 +16847,6 @@
 37.b5 axb5 38.axb5 Rb3 39.Ra7 Rd7 40.d5 Rxb5 41.d6 Ke6 42.Bf4 Ra5 43.Re1+ Kf7
 44.Rxa5 bxa5 45.Ra1 g5 46.hxg5 fxg5 47.Be5 Ke6 48.Rxa5 Bd5 49.f4 gxf4+ 50.Bxf4 g5  1/2-1/2
 
-[Event "RUS-Cup1 Chigorin mem"]
-[Site "St Petersburg"]
-[Date "1996.??.??"]
-[Round "8"]
-[White "Fedorov, Alexei"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2555"]
-[BlackElo "2595"]
-[ECO "B24"]
-
-1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nge7 7.Nc3 d6 8.Be3 Nd4
-9.Ne1 h5 10.Qd2 h4 11.Nd1 e5 12.c3 Ndc6 13.f4 hxg3 14.hxg3 exf4 15.gxf4 Bh3
-16.Nf2 Bxg2 17.Kxg2 Qd7 18.Nf3 O-O-O 19.Rh1 f5 20.Rxh8 Rxh8 21.Rh1 Rxh1 22.Kxh1 b6
-23.Qc2 fxe4 24.dxe4 d5 25.Kg2 dxe4 26.Qxe4 Kc7 27.Ng5 Nd8 28.f5 Qd5  1/2-1/2
-
 [Event "Petrov mem"]
 [Site "St Petersburg"]
 [Date "1996.??.??"]
@@ -16885,18 +16869,18 @@
 [Event "RUS-Cup1 Chigorin mem"]
 [Site "St Petersburg"]
 [Date "1996.??.??"]
-[Round "9"]
-[White "Yudasin, Leonid"]
-[Black "Kupreichik, Viktor D"]
+[Round "8"]
+[White "Fedorov, Alexei"]
+[Black "Yudasin, Leonid"]
 [Result "1/2-1/2"]
-[WhiteElo "2595"]
-[BlackElo "2510"]
-[ECO "B50"]
+[WhiteElo "2555"]
+[BlackElo "2595"]
+[ECO "B24"]
 
-1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Bd3 g6 5.Bc2 Bg7 6.d4 O-O 7.O-O cxd4 8.cxd4 Nc6
-9.h3 e5 10.d5 Nb4 11.Bb3 a5 12.Re1 b5 13.a3 Na6 14.Bc2 Bd7 15.Be3 Qb8 16.Nbd2 Rc8
-17.Qb1 Nc5 18.Rc1 b4 19.b3 a4 20.axb4 Qxb4 21.bxa4 Qxb1 22.Bxb1 Rxa4 23.Rxa4 Nxa4
-24.Nc4 Bf8 25.Ne1 Be7 26.f3  1/2-1/2
+1.e4 c5 2.Nf3 e6 3.d3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nge7 7.Nc3 d6 8.Be3 Nd4
+9.Ne1 h5 10.Qd2 h4 11.Nd1 e5 12.c3 Ndc6 13.f4 hxg3 14.hxg3 exf4 15.gxf4 Bh3
+16.Nf2 Bxg2 17.Kxg2 Qd7 18.Nf3 O-O-O 19.Rh1 f5 20.Rxh8 Rxh8 21.Rh1 Rxh1 22.Kxh1 b6
+23.Qc2 fxe4 24.dxe4 d5 25.Kg2 dxe4 26.Qxe4 Kc7 27.Ng5 Nd8 28.f5 Qd5  1/2-1/2
 
 [Event "Petrov mem"]
 [Site "St Petersburg"]
@@ -16913,6 +16897,22 @@
 9.Kh1 Qc7 10.a4 b6 11.Bf3 Bb7 12.f5 e5 13.Nde2 Nbd7 14.g4 h6 15.g5 hxg5 16.Bxg5 Rfe8
 17.Ng3 Rad8 18.Qd2 d5 19.exd5 e4 20.Ngxe4 Nxe4 21.Nxe4 Ne5 22.Bxe7 Nxf3 23.Nf6+ gxf6
 24.Rxf3 Bxd5 25.Qg2+  1-0
+
+[Event "RUS-Cup1 Chigorin mem"]
+[Site "St Petersburg"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Yudasin, Leonid"]
+[Black "Kupreichik, Viktor D"]
+[Result "1/2-1/2"]
+[WhiteElo "2595"]
+[BlackElo "2510"]
+[ECO "B50"]
+
+1.e4 c5 2.Nf3 d6 3.c3 Nf6 4.Bd3 g6 5.Bc2 Bg7 6.d4 O-O 7.O-O cxd4 8.cxd4 Nc6
+9.h3 e5 10.d5 Nb4 11.Bb3 a5 12.Re1 b5 13.a3 Na6 14.Bc2 Bd7 15.Be3 Qb8 16.Nbd2 Rc8
+17.Qb1 Nc5 18.Rc1 b4 19.b3 a4 20.axb4 Qxb4 21.bxa4 Qxb1 22.Bxb1 Rxa4 23.Rxa4 Nxa4
+24.Nc4 Bf8 25.Ne1 Be7 26.f3  1/2-1/2
 
 [Event "Tel Aviv Cup rapid"]
 [Site "Tel Aviv"]
@@ -17452,6 +17452,21 @@
 [Site "Aaland-Stockholm"]
 [Date "1997.??.??"]
 [Round "?"]
+[White "Khropov, Boris"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2270"]
+[BlackElo "2610"]
+[ECO "B42"]
+
+1.Nf3 c5 2.e4 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Be7 7.O-O d6 8.a4 b6
+9.Be3 Nf6 10.N1d2 Nbd7 11.a5 b5 12.c4 Ne5 13.Qe2 bxc4 14.Nxc4 Nxc4 15.Bxc4 Bb7
+16.Bb6 Qb8 17.Nd2 O-O 18.Bd3  1/2-1/2
+
+[Event "Viking op"]
+[Site "Aaland-Stockholm"]
+[Date "1997.??.??"]
+[Round "?"]
 [White "Medvegy, Nora"]
 [Black "Yudasin, Leonid"]
 [Result "1/2-1/2"]
@@ -17467,21 +17482,6 @@
 35.Kc3 exf4 36.Rxf4 Re8 37.b4 Re5 38.Rh4 h5 39.Rf4 Re8 40.Kc4 Re5 41.h4 Kb6
 42.Kd3 Rb5 43.Rf5 Rxb4 44.Rxh5 Kc6 45.Rh8 d5 46.e5 Re4 47.Rh6+ Kc5 48.e6 Kd6
 49.h5 Rxe6 50.Rh8 Ke5 51.h6 Kf5 52.Kd4  1/2-1/2
-
-[Event "Viking op"]
-[Site "Aaland-Stockholm"]
-[Date "1997.??.??"]
-[Round "?"]
-[White "Khropov, Boris"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2270"]
-[BlackElo "2610"]
-[ECO "B42"]
-
-1.Nf3 c5 2.e4 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 6.Nb3 Be7 7.O-O d6 8.a4 b6
-9.Be3 Nf6 10.N1d2 Nbd7 11.a5 b5 12.c4 Ne5 13.Qe2 bxc4 14.Nxc4 Nxc4 15.Bxc4 Bb7
-16.Bb6 Qb8 17.Nd2 O-O 18.Bd3  1/2-1/2
 
 [Event "Viking op"]
 [Site "Aaland-Stockholm"]
@@ -17912,24 +17912,6 @@
 [Site "St Petersburg"]
 [Date "1997.??.??"]
 [Round "?"]
-[White "Chepukaitis, Genrikh"]
-[Black "Yudasin, Leonid"]
-[Result "0-1"]
-[WhiteElo "2320"]
-[BlackElo "2600"]
-[ECO "E60"]
-
-1.Nf3 Nf6 2.e3 g6 3.b4 Bg7 4.Bb2 O-O 5.c4 d6 6.d4 e5 7.dxe5 Ng4 8.Be2 Nc6
-9.Nc3 Ngxe5 10.Nxe5 Nxe5 11.O-O Be6 12.Qb3 Re8 13.Rad1 a5 14.bxa5 Rxa5 15.Nb5 b6
-16.Bc3 Ra8 17.Bxe5 Bxe5 18.f4 Bg7 19.Bf3 Ra5 20.Bc6 Bd7 21.Bf3 Re7 22.Rd2 Qc8
-23.a4 Bf5 24.Rfd1 Be4 25.Bxe4 Rxe4 26.Ra2 Qb7 27.Qd3 Re7 28.Kf2 Ra8 29.Re1 Rae8
-30.Ree2 Re6 31.Rac2 R8e7 32.Ra2 Bf6 33.Nd4 Re4 34.Nf3 Qc6 35.Nd2 R4e6 36.a5 bxa5
-37.Rxa5 Qb6 38.Ra8+ Kg7 39.Qb3 Qc6 40.Qa4 Qc5 41.Ra5 Rxe3 42.Rxc5 Rxe2+ 43.Kg3 Rxd2  0-1
-
-[Event "White Nights op"]
-[Site "St Petersburg"]
-[Date "1997.??.??"]
-[Round "?"]
 [White "Anjuhin, Alex"]
 [Black "Yudasin, Leonid"]
 [Result "0-1"]
@@ -17979,6 +17961,24 @@
 
 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.a4 g6 7.f4 Bg7 8.Nf3 Nc6
 9.Bd3 Bg4 10.h3 Bxf3 11.Qxf3 O-O 12.O-O Rc8 13.Kh1 Nd7 14.Nd5  1/2-1/2
+
+[Event "White Nights op"]
+[Site "St Petersburg"]
+[Date "1997.??.??"]
+[Round "?"]
+[White "Chepukaitis, Genrikh"]
+[Black "Yudasin, Leonid"]
+[Result "0-1"]
+[WhiteElo "2320"]
+[BlackElo "2600"]
+[ECO "E60"]
+
+1.Nf3 Nf6 2.e3 g6 3.b4 Bg7 4.Bb2 O-O 5.c4 d6 6.d4 e5 7.dxe5 Ng4 8.Be2 Nc6
+9.Nc3 Ngxe5 10.Nxe5 Nxe5 11.O-O Be6 12.Qb3 Re8 13.Rad1 a5 14.bxa5 Rxa5 15.Nb5 b6
+16.Bc3 Ra8 17.Bxe5 Bxe5 18.f4 Bg7 19.Bf3 Ra5 20.Bc6 Bd7 21.Bf3 Re7 22.Rd2 Qc8
+23.a4 Bf5 24.Rfd1 Be4 25.Bxe4 Rxe4 26.Ra2 Qb7 27.Qd3 Re7 28.Kf2 Ra8 29.Re1 Rae8
+30.Ree2 Re6 31.Rac2 R8e7 32.Ra2 Bf6 33.Nd4 Re4 34.Nf3 Qc6 35.Nd2 R4e6 36.a5 bxa5
+37.Rxa5 Qb6 38.Ra8+ Kg7 39.Qb3 Qc6 40.Qa4 Qc5 41.Ra5 Rxe3 42.Rxc5 Rxe2+ 43.Kg3 Rxd2  0-1
 
 [Event "White Nights op"]
 [Site "St Petersburg"]
@@ -18268,6 +18268,20 @@
 [Site "Vilnius"]
 [Date "1997.??.??"]
 [Round "?"]
+[White "Malisauskas, Vidmantas"]
+[Black "Yudasin, Leonid"]
+[Result "1/2-1/2"]
+[WhiteElo "2530"]
+[BlackElo "2600"]
+[ECO "C01"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bg5 Be7 6.Bd3 Bg4 7.O-O O-O 8.Nbd2 Nbd7
+9.c3 c6 10.Qc2  1/2-1/2
+
+[Event "Mikenas mem op"]
+[Site "Vilnius"]
+[Date "1997.??.??"]
+[Round "?"]
 [White "Ionov, Sergey"]
 [Black "Yudasin, Leonid"]
 [Result "1-0"]
@@ -18359,20 +18373,6 @@
 
 1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7
 9.Nd2 c6 10.b4 a5 11.bxa5 Qxa5 12.Nb3 Qxc3 13.Bd2 Qb2 14.Bc1  1/2-1/2
-
-[Event "Mikenas mem op"]
-[Site "Vilnius"]
-[Date "1997.??.??"]
-[Round "?"]
-[White "Malisauskas, Vidmantas"]
-[Black "Yudasin, Leonid"]
-[Result "1/2-1/2"]
-[WhiteElo "2530"]
-[BlackElo "2600"]
-[ECO "C01"]
-
-1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.Bg5 Be7 6.Bd3 Bg4 7.O-O O-O 8.Nbd2 Nbd7
-9.c3 c6 10.Qc2  1/2-1/2
 
 [Event "Mikenas mem op"]
 [Site "Vilnius"]
@@ -18806,22 +18806,6 @@
 [Event "ISR-ch"]
 [Site "Ramat Aviv"]
 [Date "1998.11.10"]
-[Round "2.2"]
-[White "Liss, Eran"]
-[Black "Yudasin, Leonid"]
-[Result "1-0"]
-[WhiteElo "2505"]
-[BlackElo "2550"]
-[ECO "E57"]
-
-1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.Bd3 dxc4 8.Bxc4 O-O
-9.O-O Nc6 10.Bg5 Be7 11.a3 b6 12.Qd3 Bb7 13.Rfe1 Nd5 14.Bxd5 Bxg5 15.Be4 g6
-16.Rad1 Bf6 17.d5 exd5 18.Bxd5 Na5 19.Qe3 Qc7 20.Bxb7 Qxb7 21.Nd5 Bxb2 22.Ne5 Rad8
-23.Nf6+ Kg7 24.Neg4  1-0
-
-[Event "ISR-ch"]
-[Site "Ramat Aviv"]
-[Date "1998.11.10"]
 [Round "2.1"]
 [White "Yudasin, Leonid"]
 [Black "Liss, Eran"]
@@ -18836,6 +18820,22 @@
 23.Qd3 b6 24.Bb3 Kh8 25.Ne3 Ba6 26.Bc4 Bxc4 27.Qxc4 Qf3 28.dxe5 dxe5 29.Nd5 Qg4
 30.Kg2 Rad8 31.f3 Qh5 32.Ne3 Qg6 33.Kf2 h5 34.a3 Qf6 35.b4 axb4 36.axb4 Ra8
 37.Rd7 c6 38.Rd6 Rfc8 39.Red1 b5 40.Qb3 g6 41.Qb2 Ra7 42.Ra1  1/2-1/2
+
+[Event "ISR-ch"]
+[Site "Ramat Aviv"]
+[Date "1998.11.10"]
+[Round "2.2"]
+[White "Liss, Eran"]
+[Black "Yudasin, Leonid"]
+[Result "1-0"]
+[WhiteElo "2505"]
+[BlackElo "2550"]
+[ECO "E57"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.Bd3 dxc4 8.Bxc4 O-O
+9.O-O Nc6 10.Bg5 Be7 11.a3 b6 12.Qd3 Bb7 13.Rfe1 Nd5 14.Bxd5 Bxg5 15.Be4 g6
+16.Rad1 Bf6 17.d5 exd5 18.Bxd5 Na5 19.Qe3 Qc7 20.Bxb7 Qxb7 21.Nd5 Bxb2 22.Ne5 Rad8
+23.Nf6+ Kg7 24.Neg4  1-0
 
 [Event "Dos Hermanas op"]
 [Site "Dos Hermanas"]
@@ -19810,21 +19810,6 @@
 [Site "Beersheba"]
 [Date "1999.??.??"]
 [Round "?"]
-[White "Yudasin, Leonid"]
-[Black "Mittelman, Gur"]
-[Result "1/2-1/2"]
-[WhiteElo "2549"]
-[BlackElo "2416"]
-[ECO "B13"]
-
-1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.Bg5 Nf6 7.Nd2 e6 8.Ngf3 Bd6
-9.O-O Ng4 10.h3 h6 11.Bh4 Nh2 12.Re1 g5 13.Nxg5 hxg5 14.Bxg5 Kf8 15.Bf6 Rh6
-16.Bg5 Rh8 17.Bf6  1/2-1/2
-
-[Event "Beersheba-weekend"]
-[Site "Beersheba"]
-[Date "1999.??.??"]
-[Round "?"]
 [White "Rapoport, Evgeny"]
 [Black "Yudasin, Leonid"]
 [Result "0-1"]
@@ -19838,6 +19823,21 @@
 24.Nd5 Qc6 25.Nxf6+ Bxf6 26.Re1 d5 27.Qd3 Rxe6 28.Qxf5 Rxe1+ 29.Bxe1 Bxb2
 30.Bh4 Bg7 31.h3 c4 32.Qc2 d4 33.f5 d3 34.Qa2 Qe4 35.f6 Bh6 36.Qf2 d2 37.f7+ Kf8
 38.Qc5+ Kxf7 39.Qc7+ Kg6 40.Qd6+ Kh5 41.Bf2 Bf4  0-1
+
+[Event "Beersheba-weekend"]
+[Site "Beersheba"]
+[Date "1999.??.??"]
+[Round "?"]
+[White "Yudasin, Leonid"]
+[Black "Mittelman, Gur"]
+[Result "1/2-1/2"]
+[WhiteElo "2549"]
+[BlackElo "2416"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Qc7 6.Bg5 Nf6 7.Nd2 e6 8.Ngf3 Bd6
+9.O-O Ng4 10.h3 h6 11.Bh4 Nh2 12.Re1 g5 13.Nxg5 hxg5 14.Bxg5 Kf8 15.Bf6 Rh6
+16.Bg5 Rh8 17.Bf6  1/2-1/2
 
 [Event "ISR-chT"]
 [Site "Israel"]
@@ -24537,3 +24537,591 @@
 30.Qxb4 Qxb4 31.Rxb4 Rc1 32.e3 Ra1 33.Bd5 f5 34.Ke2 Bf6 35.Nc2 Ra5 36.Rb8+ Ke7
 37.Nb4 Rb5 38.Rxb5 Bxb5 39.Bc4 Bxc4 40.dxc4 Kd6 41.e4 Kc5 42.Nd5 Bd8 43.Kd3 Ba5
 44.exf5 gxf5 45.Ne7 e4+ 46.Ke3 Kxc4 47.Nxf5 Kd5 48.g4  1/2-1/2
+
+[Event "ch-Marshall CC"]
+[Site "New York USA"]
+[Date "2007.12.07"]
+[Round "1"]
+[White "Yudasin,L"]
+[Black "Korley,Kassa"]
+[Result "1/2-1/2"]
+[WhiteElo "2550"]
+[BlackElo ""]
+[ECO "B30"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 Nd4 4.Nxd4 cxd4 5.O-O a6 6.Ba4 b5 7.Bb3 Bb7 8.d3 e6
+9.f4 Nf6 10.f5 Qc7 11.Bf4 e5 12.Bg5 Be7 13.Nd2 d6 14.Kh1 h5 15.Qe2 Ng4 16.Bxe7 Qxe7
+17.c3 dxc3 18.bxc3 Nf6 19.Nf3 h4 20.Ng5 d5 21.exd5 Nxd5 22.h3 O-O-O 23.Bxd5 Rxd5
+24.Ne4 Rhd8 25.Rf3 Kb8 26.a4 bxa4 27.Rxa4 Rb5 28.Qc2 Qd7 29.c4 Bxe4 30.cxb5 Bxf3
+31.gxf3 Qxf5 32.Qc6 Qxh3+ 33.Kg1 Qg3+ 34.Kf1 Qh3+ 35.Kf2 Qh2+ 36.Kf1 Qh1+
+37.Kf2 Qh2+  1/2-1/2
+
+[Event "ch-Marshall CC"]
+[Site "New York USA"]
+[Date "2007.12.08"]
+[Round "3"]
+[White "Sarkar,J"]
+[Black "Yudasin,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2413"]
+[BlackElo "2550"]
+[ECO "E36"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.a3 Be7 6.cxd5 exd5 7.Bf4 c6 8.e3 Bg4
+9.Bxb8 Rxb8 10.h3 Be6 11.Nf3 O-O 12.Bd3 c5 13.dxc5 Bxc5 14.Ng5 h6 15.Nxe6 fxe6
+16.O-O Rc8  1/2-1/2
+
+[Event "ch-Marshall CC"]
+[Site "New York USA"]
+[Date "2007.12.09"]
+[Round "4"]
+[White "Yudasin,L"]
+[Black "Bonin,J"]
+[Result "1-0"]
+[WhiteElo "2550"]
+[BlackElo "2343"]
+[ECO "C55"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Nc6 4.Nf3 Be7 5.O-O O-O 6.Re1 d6 7.Bb3 Nd7 8.c3 Nc5
+9.Bc2 f5 10.exf5 Bxf5 11.d4 Bxc2 12.Qxc2 e4 13.Nfd2 Nd3 14.Rxe4 Nxf2 15.Re2 Bh4
+16.Nf3 Nh3+ 17.Kh1 Qf6 18.Be3 Rae8 19.Na3 Ng5 20.Bxg5 Rxe2 21.Qxe2 Bxg5 22.Qb5 Bf4
+23.Qxb7 d5 24.Qb5 Ne7 25.Qd7 Qf7 26.Nb5 c6 27.Na3 Qf6 28.Re1 Ng6 29.c4 Bb8
+30.cxd5 Nf4 31.Qxc6 Qf5 32.d6 Nxg2 33.Kxg2 Qg4+ 34.Kh1 Rxf3 35.Qd5+ Kf8 36.d7  1-0
+
+[Event "ch-Marshall CC"]
+[Site "New York USA"]
+[Date "2007.12.09"]
+[Round "5"]
+[White "Yudasin,L"]
+[Black "Ehlvest,J"]
+[Result "1/2-1/2"]
+[WhiteElo "2550"]
+[BlackElo "2601"]
+[ECO "E19"]
+
+1.Nf3 Nf6 2.c4 e6 3.d4 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Nc3 Ne4 8.Qc2 Nxc3
+9.Qxc3 f5 10.b3 Bf6 11.Bb2 Nc6 12.Qd2 Ne7 13.Rfd1 Be4 14.Rac1 d6 15.Ne1  1/2-1/2
+
+[Event "ch-Marshall CC"]
+[Site "New York USA"]
+[Date "2007.12.15"]
+[Round "6"]
+[White "Kudrin,S"]
+[Black "Yudasin,L"]
+[Result "0-1"]
+[WhiteElo "2563"]
+[BlackElo "2550"]
+[ECO "B43"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.g3 Bb4 7.Nb3 Nc6 8.a4 Nf6
+9.Bd2 Be7 10.f4 d5 11.exd5 exd5 12.Bg2 d4 13.Ne2 O-O 14.O-O Rd8 15.Bxc6 Qxc6
+16.Nexd4 Bc5 17.c3 Bg4 18.Qb1 Ba7 19.Be3 Qd5 20.Qc2 Re8 21.Rfe1 h5 22.Qg2 Qd7
+23.Bf2 Bh3 24.Qf3 Ng4 25.Rxe8+ Rxe8 26.Re1 Rxe1+ 27.Bxe1 Qe6 28.Bf2 Qc4 29.Qd1 Qd5  0-1
+
+[Event "ch-Marshall CC"]
+[Site "New York USA"]
+[Date "2007.12.15"]
+[Round "7"]
+[White "Stripunsky,A"]
+[Black "Yudasin,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2592"]
+[BlackElo "2550"]
+[ECO "B33"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb3 Nf6 6.Nc3 e6 7.Bd3 Bd6 8.Qe2 Be7
+9.g4 d5 10.exd5 Nxd5 11.Nxd5 exd5 12.c3 O-O 13.Be3 Qc7 14.O-O-O Re8 15.Bc2 Bg5
+16.h3 Bxe3+ 17.fxe3 Qg3 18.Qd3  1/2-1/2
+
+[Event "ch-Marshall CC"]
+[Site "New York USA"]
+[Date "2007.12.16"]
+[Round "8"]
+[White "Yudasin,L"]
+[Black "Krush,I"]
+[Result "1/2-1/2"]
+[WhiteElo "2550"]
+[BlackElo "2475"]
+[ECO "B31"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Bxc6 dxc6 6.d3 Nf6 7.Nc3 O-O 8.Be3 b6
+9.Qd2 Ng4 10.Bg5 f6 11.Bh4 e5 12.h3 Nh6 13.Bg3 Be6 14.Rad1 Nf7 15.Qe2 Qd7
+16.Nd2  1/2-1/2
+
+[Event "ch-Marshall CC"]
+[Site "New York USA"]
+[Date "2007.12.16"]
+[Round "9"]
+[White "Charbonneau,P"]
+[Black "Yudasin,L"]
+[Result "1-0"]
+[WhiteElo "2507"]
+[BlackElo "2550"]
+[ECO "B22"]
+
+1.e4 c6 2.c4 d5 3.exd5 cxd5 4.cxd5 Qxd5 5.Nc3 Qd6 6.d4 e6 7.Nf3 Nf6 8.Bc4 Be7
+9.O-O O-O 10.Qe2 a6 11.Bg5 Nbd7 12.Rad1 b5 13.Bb3 Bb7 14.Rfe1 Rfe8 15.Ne5 Nb6
+16.Nxf7 Kxf7 17.Bxe6+ Kf8 18.d5 Bc8 19.Qf3 Qc7 20.Ne4 Bxe6 21.dxe6 Qb7 22.Qf5 Kg8
+23.Bxf6 Bxf6 24.Nd6 Qc6 25.e7 h6 26.Qe6+ Kh7 27.Nxe8  1-0
+
+[Event "US Amateur Team-ch East"]
+[Site "Parsippany USA"]
+[Date "2008.02.18"]
+[Round "5"]
+[White "Yudasin,L"]
+[Black "Ippolito,D"]
+[Result "1/2-1/2"]
+[WhiteElo "2549"]
+[BlackElo "2417"]
+[ECO "C54"]
+
+1.e4 e5 2.Bc4 Nf6 3.d3 Nc6 4.Nf3 Bc5 5.c3 a6 6.O-O Ba7 7.Bb3 d6 8.Re1 O-O
+9.h3 Be6 10.Ba4 b5 11.Bc2 d5 12.Nbd2 dxe4 13.dxe4 h6 14.Nh2 b4 15.Qe2 Qe7
+16.Ba4 bxc3 17.bxc3 Na5 18.Nb3 Nc4 19.Nd2 Na5 20.Nhf3 Rfd8 21.Bb3 Nh5 22.Nxe5 Nf4
+23.Qf3 Nxh3+ 24.gxh3 Bxb3 25.Nxb3 Qxe5 26.Bf4 Qb5 27.Nxa5 Qxa5 28.Qg3 Qc5
+29.Rad1 Rxd1 30.Rxd1 Qc6 31.Bxc7 Qxe4 32.Be5 g6 33.Qg2 Qxg2+ 34.Kxg2 Re8
+35.Rd5 g5 36.f4 gxf4 37.Bxf4 Re2+ 38.Kf3 Rxa2 39.Bxh6 Ra3 40.Rg5+ Kh7 41.Bg7 Bb6
+42.Ke4 Bd8 43.Rg3 Bh4 44.Rg4 Be1 45.Kd3 f5 46.Rg1 Bf2 47.Rg2 Bc5 48.Be5 Ra4
+49.Rg7+ Kh6 50.Rc7 Bf2 51.Rf7 Kg5 52.Rg7+ Kh4 53.Rf7 Kg5 54.Rf8 Re4 55.Rg8+ Kh4
+56.Rh8+ Kg5  1/2-1/2
+
+[Event "World Open"]
+[Site "Philadelphia USA"]
+[Date "2008.07.05"]
+[Round "6"]
+[White "Yudasin,L"]
+[Black "Bartholomew,J"]
+[Result "1-0"]
+[WhiteElo "2550"]
+[BlackElo "2440"]
+[ECO "B01"]
+
+1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.g3 c6 5.Bg2 Nf6 6.Nf3 Bf5 7.O-O e6 8.h3 Be7
+9.Nh4 Bg6 10.Nxg6 hxg6 11.a3 Nbd7 12.d3 O-O 13.Rb1 Qc7 14.b4 a6 15.Re1 Rfe8
+16.Qe2 Rac8 17.Nd1 b5 18.c4 c5 19.Ne3 Red8 20.Bb2 Nb6 21.Ba1 Qd7 22.Red1 bxc4
+23.dxc4 Qa4 24.Nd5 exd5 25.Qxe7 Rd7 26.Qe2 Re8 27.Qf3 Nxc4 28.Bxf6 gxf6 29.bxc5 Qc6
+30.Rxd5 Nd2 31.Qd3 Nxb1 32.Rxd7 Re1+ 33.Kh2 Qxc5 34.Qb3 Re6 35.Qxb1 Qxf2  1-0
+
+[Event "2nd NJ Futurity Int"]
+[Site "New Jersey USA"]
+[Date "2008.07.07"]
+[Round "1"]
+[White "Ju,E"]
+[Black "Yudasin,L"]
+[Result "0-1"]
+[WhiteElo "2286"]
+[BlackElo "2550"]
+[ECO "B96"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qc7 8.Qf3 b5
+9.O-O-O b4 10.Nce2 Nbd7 11.Kb1 Bb7 12.Ng3 Be7 13.Bd3 h6 14.Bh4 Qb6 15.Nb3 g5
+16.fxg5 Ne5 17.Qe2 Nfg4 18.Nf1 hxg5 19.Bg3 a5 20.Nbd2 Bf6 21.Nc4 Nxc4 22.Bxc4 Ne5
+23.Ne3 Bg7 24.Bb5+ Kf8 25.Ng4 Ba6 26.Bxa6 Qxa6 27.Qxa6 Rxa6 28.Nxe5 Bxe5
+29.Bxe5 dxe5 30.Rd7 Rh4 31.Rf1 Rf4 32.Rxf4 exf4 33.Kc1 Kg7 34.Kd2 Kf6 35.Ke2 Rc6
+36.Rd2 g4 37.h3 gxh3 38.gxh3 Ke5 39.Kf3 f5 40.Re2 Rc4 41.h4 fxe4+ 42.Kg4 Rc8  0-1
+
+[Event "2nd NJ Futurity Int"]
+[Site "New Jersey USA"]
+[Date "2008.07.08"]
+[Round "2"]
+[White "Yudasin,L"]
+[Black "Almeida Saenz,A"]
+[Result "1-0"]
+[WhiteElo "2550"]
+[BlackElo "2419"]
+[ECO "C55"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3 Be7 5.O-O O-O 6.Re1 d6 7.Bb3 Na5 8.Ba4 c5
+9.c3 a6 10.d4 b5 11.Bc2 cxd4 12.cxd4 Bg4 13.d5 Rc8 14.Nbd2 Nc4 15.Nxc4 bxc4
+16.h3 Bxf3 17.Qxf3 Nd7 18.Bd2 Nc5 19.Qe2 Bg5 20.Bc3 Nd7 21.g3 g6 22.Rf1 Bf6
+23.Ba4 Bg7 24.Bc6 Qc7 25.Qxc4 Nb8 26.Rac1 Nxc6 27.Be1 Qd7 28.dxc6 Qxh3 29.Bb4 Bh6
+30.Rc2 Rfe8 31.Rd1 Be3 32.fxe3 Qxg3+ 33.Rg2 Qxe3+ 34.Rf2 Qg3+ 35.Kf1 Re6
+36.Rxd6 Qh3+ 37.Ke2 Qg4+ 38.Kd2 Qg3 39.Rxf7 Qg4 40.Rf2  1-0
+
+[Event "2nd NJ Futurity Int"]
+[Site "New Jersey USA"]
+[Date "2008.07.08"]
+[Round "3"]
+[White "Erenburg,S"]
+[Black "Yudasin,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2563"]
+[BlackElo "2550"]
+[ECO "B80"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be3 a6 7.f3 Nc6 8.Qd2 d5
+9.exd5 Nxd5 10.Nxd5 Qxd5 11.c4 Qd6 12.O-O-O Bd7 13.Be2 e5 14.Nb3 Qxd2+ 15.Rxd2 Bb4
+16.Rdd1 Rc8 17.Kb1 Be6 18.Bb6 Nb8 19.Rc1 Nd7 20.Be3 Ke7 21.Rhd1 Rc7 22.a3 Bd6
+23.c5 Rc6 24.Na5 Rc7 25.b4 b6 26.Nb3 Rhc8  1/2-1/2
+
+[Event "2nd NJ Futurity Int"]
+[Site "New Jersey USA"]
+[Date "2008.07.09"]
+[Round "4"]
+[White "Yudasin,L"]
+[Black "Ehlvest,J"]
+[Result "1/2-1/2"]
+[WhiteElo "2550"]
+[BlackElo "2603"]
+[ECO "D59"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 d5 4.e3 Be7 5.c4 O-O 6.Nc3 h6 7.Bh4 b6 8.cxd5 Nxd5
+9.Bxe7 Qxe7 10.Nxd5 exd5 11.Be2 Be6 12.O-O c5 13.Qa4  1/2-1/2
+
+[Event "2nd NJ Futurity Int"]
+[Site "New Jersey USA"]
+[Date "2008.07.09"]
+[Round "5"]
+[White "Molner,M"]
+[Black "Yudasin,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2337"]
+[BlackElo "2550"]
+[ECO "C10"]
+
+1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bd3 c5 7.Nxf6+ Nxf6 8.dxc5 Qa5+
+9.c3 Qxc5 10.O-O Be7 11.Qe2 O-O 12.Be3 Qc7 13.Bd4 Rd8 14.Rad1 Bd7 15.Ne5 Ba4
+16.b3 Be8 17.Rfe1 Bc5  1/2-1/2
+
+[Event "2nd NJ Futurity Int"]
+[Site "New Jersey USA"]
+[Date "2008.07.10"]
+[Round "6"]
+[White "Yudasin,L"]
+[Black "Zlotnikov,M"]
+[Result "1-0"]
+[WhiteElo "2550"]
+[BlackElo "2345"]
+[ECO "B07"]
+
+1.e4 d6 2.d4 Nf6 3.Nc3 c6 4.f4 Qa5 5.Bd3 Bg4 6.Nf3 e5 7.Be3 Bxf3 8.Qxf3 Nbd7
+9.O-O Be7 10.Ne2 h5 11.c3 g6 12.a4 Qc7 13.a5 O-O 14.b4 b5 15.Kh1 a6 16.Rae1 Rfe8
+17.Bb1 Kg7 18.Bg1 Rh8 19.Nc1 Nh7 20.Qd3 Bf6 21.Ba2 Rae8 22.Qd1 Re7 23.Qb3 Rf8
+24.Nd3 Kg8 25.dxe5 dxe5 26.f5 Qd8 27.fxg6  1-0
+
+[Event "2nd NJ Futurity Int"]
+[Site "New Jersey USA"]
+[Date "2008.07.10"]
+[Round "7"]
+[White "Palatnik,S"]
+[Black "Yudasin,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2472"]
+[BlackElo "2550"]
+[ECO "E20"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.g3 c5 5.Nf3 Nc6 6.Bg2 Ne4 7.Bd2 Nxd2 8.Qxd2 cxd4
+9.Nxd4 Ne5 10.Nc2 Be7 11.Qd4 Bf6 12.O-O-O Nc6 13.Qe3 O-O 14.Kb1 Ne5 15.c5 Ng4
+16.Qf4 Bxc3 17.bxc3 Nf6 18.Rd2 Re8 19.Na3 e5 20.Nc2 e4 21.Rhd1 b6 22.Ne3 Qc7
+23.c6 Qd8  1/2-1/2
+
+[Event "2nd NJ Futurity Int"]
+[Site "New Jersey USA"]
+[Date "2008.07.11"]
+[Round "8"]
+[White "Yudasin,L"]
+[Black "Scekic,M"]
+[Result "1-0"]
+[WhiteElo "2550"]
+[BlackElo "2371"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.c3 e6 5.Be3 Qb6 6.Qb3 Nd7 7.Nd2 Ne7 8.f4 f6 9.Ngf3 fxe5
+10.fxe5 h6 11.h4 c5 12.Qxb6 axb6 13.h5 c4 14.Nh4 b5 15.Be2 Bh7 16.Bg4 Nf5
+17.Bxf5 exf5 18.O-O Be7 19.Nxf5 Bxf5 20.Rxf5 Nf8 21.e6 Rd8 22.Re1 Nxe6 23.Bf2 Ng5
+24.Ree5 Nf7 25.Rxd5 Ra8 26.a3 Nd6 27.Rfe5 Kf7 28.Ne4 Rhd8 29.Rxe7+ Kxe7 30.Bh4+ Ke6
+31.Re5+ Kd7 32.Nxd6  1-0
+
+[Event "2nd NJ Futurity Int"]
+[Site "New Jersey USA"]
+[Date "2008.07.11"]
+[Round "9"]
+[White "Ippolito,D"]
+[Black "Yudasin,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2445"]
+[BlackElo "2550"]
+[ECO "E38"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Nc6 6.Nf3 Bxc5 7.a3 b6 8.Bg5 Be7
+9.e3 Bb7 10.Be2 O-O 11.O-O  1/2-1/2
+
+[Event "2nd Marshall CC Int"]
+[Site "New York USA"]
+[Date "2009.06.19"]
+[Round "1"]
+[White "Zenyuk,I"]
+[Black "Yudasin,L"]
+[Result "0-1"]
+[WhiteElo "2305"]
+[BlackElo "2550"]
+[ECO "E90"]
+
+1.d4 Nf6 2.Nf3 e6 3.c4 c5 4.d5 d6 5.Nc3 g6 6.e4 Bg7 7.Bd3 O-O 8.h3 Na6 9.O-O Nc7
+10.Re1 e5 11.Ne2 Nfe8 12.g4 h5 13.gxh5 Bxh3 14.Ng3 Bg4 15.Be2 b5 16.Ng5 Bd7
+17.a4 Bf6 18.Nf3 bxc4 19.Kg2 Ng7 20.Rh1 Bg4 21.Nh2 Bd7 22.Nf3 Rb8 23.Qd2 g5
+24.h6 Nge8 25.Nh2 Qc8 26.Nh5 Bd8 27.Rg1 Kh8 28.Kh1 f5 29.exf5 Nxd5 30.Bxc4 Nb6
+31.Bb5 Bxf5 32.Bxe8 Be4+ 33.f3 Rxf3 34.Nxf3 Qh3+ 35.Qh2 Qxf3+ 36.Rg2 Qf1+
+37.Qg1 Bxg2+ 38.Kh2 Qxg1+ 39.Kxg1 Bf3 40.Ra3 e4  0-1
+
+[Event "2nd Marshall CC Int"]
+[Site "New York USA"]
+[Date "2009.06.19"]
+[Round "2"]
+[White "Yudasin,L"]
+[Black "Braylovsky,G"]
+[Result "0-1"]
+[WhiteElo "2550"]
+[BlackElo "2358"]
+[ECO "B40"]
+
+1.e4 c5 2.Nf3 e6 3.g3 Nc6 4.d3 Nge7 5.Bg2 d5 6.O-O dxe4 7.dxe4 Nd4 8.Ne5 Ng6
+9.Nc4 b5 10.Ne3 Bb7 11.c3 Nc6 12.Qe2 Qb6 13.f4 c4 14.b3 cxb3 15.axb3 Na5
+16.Nd2 Rc8 17.Bb2 Bc5 18.Rfe1 Rd8 19.Bc1 b4 20.Kh1 bxc3 21.Ndc4 Nxc4 22.Nxc4 Ba6
+23.Nxb6 Bxe2 24.Na4 Bb4 25.Rxe2 Rd1+ 26.Bf1 Rxf1+ 27.Kg2 Rd1 28.Re3 c2 29.Re2 O-O
+30.Rxc2 Rfd8 31.Nb2 Re1 32.Rxa7 Rxe4 33.Ra4 f5 34.Rc4 Bd2  0-1
+
+[Event "2nd Marshall CC Int"]
+[Site "New York USA"]
+[Date "2009.06.23"]
+[Round "9"]
+[White "Milman,L"]
+[Black "Yudasin,L"]
+[Result "1-0"]
+[WhiteElo "2462"]
+[BlackElo "2550"]
+[ECO "B85"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 Qc7 6.Be2 Nf6 7.O-O d6 8.f4 Nc6
+9.Be3 Be7 10.Qe1 O-O 11.Rd1 Re8 12.Qg3 Bf8 13.Kh1 Kh8 14.a3 d5 15.Bd3 e5
+16.Nxc6 bxc6 17.fxe5 Qxe5 18.Qxe5 Rxe5 19.Bd4 Rh5 20.exd5 cxd5 21.Be2 Rf5
+22.Bxf6 gxf6 23.Nxd5 Rxf1+ 24.Rxf1 a5 25.a4 Be6 26.Nxf6 Rd8 27.Ne4 Rd4 28.Ng5 Bc4
+29.Rd1 Rf4 30.Bf3 Be7 31.Nh3 Rh4 32.Nf2 Be6 33.b3 Bf5 34.g3 Rb4 35.Re1 Bc5
+36.Re2 Bg6 37.Kg2 Kg7 38.Bd5 Rd4 39.Be4 f5 40.Bf3 Bd6 41.c3  1-0
+
+[Event "World Open"]
+[Site "Philadelphia USA"]
+[Date "2009.07.04"]
+[Round "6"]
+[White "Bareev,E"]
+[Black "Yudasin,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2636"]
+[BlackElo "2550"]
+[ECO "E32"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.Nf3 d6 6.g3 b6 7.Bg2 Bb7 8.O-O Bxc3
+9.Qxc3 a5 10.b3 Nbd7 11.Bb2 Ne4 12.Qc2 f5 13.d5 Ndc5 14.Nd4 Qg5 15.f3 Nf6
+16.dxe6 Qe3+ 17.Rf2 Nce4 18.Nxf5 Qxf2+ 19.Kh1 Nh5 20.Bd4 Nhxg3+ 21.hxg3 Nxg3+
+22.Kh2 Qxe2 23.Ne7+ Kh8 24.Qc3 Nf5 25.Nxf5 Rxf5 26.Re1 Qxa2 27.Ra1 Qe2 28.Re1 Qa2
+29.Ra1  1/2-1/2
+
+[Event "World Open"]
+[Site "Philadelphia USA"]
+[Date "2009.07.05"]
+[Round "9"]
+[White "Yudasin,L"]
+[Black "Kacheishvili,G"]
+[Result "1-0"]
+[WhiteElo "2550"]
+[BlackElo "2613"]
+[ECO "B27"]
+
+1.e4 c5 2.Nf3 g6 3.c3 Bg7 4.d4 cxd4 5.cxd4 d5 6.e5 Nh6 7.Nc3 O-O 8.h3 Nc6
+9.Bb5 Bf5 10.O-O Qb6 11.Be3 Be4 12.Bxc6 Bxf3 13.Qd2 bxc6 14.Bxh6 Bxh6 15.Qxh6 Qxb2
+16.Qe3 Be4 17.Rfc1 Qa3 18.Nxe4 Qxe3 19.fxe3 dxe4 20.Rxc6 Rfc8 21.Rac1 Rxc6
+22.Rxc6 a5 23.Kf2 Rb8 24.Rc2 Kg7 25.Kg3 g5 26.h4 gxh4+ 27.Kxh4 f6 28.exf6+ Kxf6
+29.Kg4 Rb4 30.Kf4 Ra4 31.Kxe4 Ra3 32.g4 Ke6 33.g5 Kd6 34.Kf4 Kd5 35.Rh2 Ra4
+36.Rxh7 e5+ 37.Kf5 Rxa2 38.e4+ Kxd4 39.Rd7+ Kc3 40.g6 a4 41.Ra7 Kb3 42.g7 Rg2
+43.Kf6 a3 44.Kf7 Rf2+ 45.Ke8 Rg2 46.Kf8 Rf2+ 47.Rf7 Rxf7+ 48.Kxf7 a2 49.g8=Q a1=Q
+50.Kf6+ Kc2 51.Qd5 Qc3 52.Qxe5 Qc8 53.Qd5 Qh8+ 54.Kf7 Qh7+ 55.Ke8 Qh8+ 56.Kd7 Qg7+
+57.Kc6 Qf6+ 58.Qd6 Qf3 59.Qc5+ Kb1 60.Qd4 Qg2 61.Kc5 Qc2+ 62.Kb4 Qc7 63.Qd3+  1-0
+
+[Event "US Amateur Team-ch East"]
+[Site "Parsippany USA"]
+[Date "2010.02.14"]
+[Round "3"]
+[White "Uesugi,S"]
+[Black "Yudasin,L"]
+[Result "0-1"]
+[WhiteElo "2314"]
+[BlackElo "2554"]
+[ECO "A11"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 c6 4.c4 dxc4 5.a4 Be6 6.O-O Na6 7.Na3 Bd5 8.Qc2 e6
+9.Nxc4 Nb4 10.Qc3 Ne4 11.Qe5 f6 12.Qh5+ g6 13.Qh4 h5 14.Ne3 g5 15.Qh3 f5
+16.g4 Qf6 17.d3 hxg4 18.Nxg4 Qg7 19.dxe4 Rxh3 20.Bxh3 fxg4 21.Bxg4 Bxe4 22.Nxg5 Be7
+23.h4 Bf5 24.Bh5+ Kd7 25.Rd1+ Nd5 26.Bf3 Rh8 27.e4 Bxe4 28.Bxe4 Rxh4 29.Bxd5 cxd5
+30.f4 Bxg5 31.fxg5 Qe5  0-1
+
+[Event "US Amateur Team-ch East"]
+[Site "Parsippany USA"]
+[Date "2010.02.14"]
+[Round "4"]
+[White "Yudasin,L"]
+[Black "Sarkar,J"]
+[Result "1/2-1/2"]
+[WhiteElo "2554"]
+[BlackElo "2388"]
+[ECO "B20"]
+
+1.e4 c5 2.g3 d5 3.exd5 Qxd5 4.Qf3 Nf6 5.Bg2 Qd8 6.Ne2 Nc6 7.Qe3 Nd5 8.Qxc5 Ndb4
+9.Na3 e5 10.Qe3 Be6 11.O-O Nd5 12.Qd3 f5 13.Nc3 e4 14.Qe2 Bxa3 15.Nxd5 Bxd5
+16.bxa3 Nd4 17.Qh5+ g6 18.Qd1 Nf3+ 19.Bxf3 exf3 20.Qe1+ Kf7 21.Qe3 Qf6 22.Rb1 Rhe8
+23.Qh6 Qg7 24.Qf4 Qe5 25.Qh4 Qf6 26.Qxh7+ Qg7 27.Qxg7+ Kxg7 28.Bb2+ Kf7 29.Rfe1 Bxa2
+30.Rbc1 Rxe1+ 31.Rxe1 Re8  1/2-1/2
+
+[Event "US Amateur Team-ch East"]
+[Site "Parsippany USA"]
+[Date "2011.02.20"]
+[Round "4"]
+[White "Yudasin,L"]
+[Black "Fisher,William"]
+[Result "1-0"]
+[WhiteElo "2519"]
+[BlackElo "2165"]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nc3 Nc6 4.Bb5 Bd6 5.d3 a6 6.Ba4 h6 7.Ne2 b5 8.Bb3 Bc5
+9.Ng3 d6 10.c3 O-O 11.O-O d5 12.exd5 Nxd5 13.Nxe5 Nxe5 14.d4 Bg4 15.f3 Be6
+16.dxc5 Re8 17.f4 Nc4 18.Bxc4 bxc4 19.f5 Bc8 20.Nh5 Kh7 21.Qg4 Rg8 22.Qxc4 a5
+23.Qe4 Ba6 24.f6+ g6 25.c4 Re8 26.Qd4 gxh5 27.cxd5  1-0
+
+[Event "39th World Open"]
+[Site "Philadelphia USA"]
+[Date "2011.07.02"]
+[Round "4"]
+[White "Yudasin,L"]
+[Black "Bluvshtein,M"]
+[Result "1/2-1/2"]
+[WhiteElo "2522"]
+[BlackElo "2589"]
+[ECO "C50"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.O-O a6 6.c3 Ba7 7.Bb3 d6 8.Re1 h6
+9.Nbd2 O-O 10.Nf1 Ne7 11.Ng3 Ng6 12.h3 Re8  1/2-1/2
+
+[Event "39th World Open"]
+[Site "Philadelphia USA"]
+[Date "2011.07.02"]
+[Round "5"]
+[White "Kamsky,G"]
+[Black "Yudasin,L"]
+[Result "1-0"]
+[WhiteElo "2732"]
+[BlackElo "2522"]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 e6 3.g3 b5 4.Bg2 c5 5.c3 Bb7 6.O-O d5 7.a4 b4 8.a5 bxc3 9.Nxc3 Na6
+10.Ne5 Nd7 11.Bf4 f6 12.Nc4 cxd4 13.Nb5 dxc4 14.Bxb7 e5 15.Nxd4 Ndc5 16.Bc6+ Kf7
+17.Nb5 Qxd1 18.Raxd1 Rb8 19.Be3 Nb4 20.Nxa7 Nxc6 21.Nxc6 Rc8 22.Nd8+ Kg6
+23.Rd5 Be7 24.Bxc5 Bxc5 25.Nb7 Bd4 26.Rb1 Rc7 27.a6 Ra8 28.Rd6 Bc5 29.Nxc5 Rxc5
+30.Ra1 Rb5 31.Ra2 Ra7 32.Rc6 Rb4 33.Kf1 Kf7 34.Ke1 Ke7 35.Kd2 Kd7 36.Rc5 Kd6
+37.Rca5 Rb3 38.Kc2 Kc6 39.R5a3 Rxa3 40.Rxa3 h5 41.Kc3 Kb5 42.h4 Kc5 43.Ra5+  1-0
+
+[Event "39th World Open"]
+[Site "Philadelphia USA"]
+[Date "2011.07.03"]
+[Round "6"]
+[White "Yudasin,L"]
+[Black "Holt,C"]
+[Result "1-0"]
+[WhiteElo "2522"]
+[BlackElo "2417"]
+[ECO "C00"]
+
+1.e4 e6 2.Qe2 c5 3.Nf3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nge7 7.d3 O-O 8.c3 e5
+9.a3 a5 10.a4 h6 11.Be3 d6 12.Qd2 Kh7 13.d4 cxd4 14.cxd4 Bg4 15.d5 Nb4 16.Ne1 Qd7
+17.f3 Bh3 18.Nd3 Nxd3 19.Qxd3 h5 20.Nd2 Rfb8 21.Nc4 Bxg2 22.Kxg2 Nc8 23.Bd2 b5
+24.axb5 a4 25.b3 Rxb5 26.bxa4 Rc5 27.Be3 Rc7 28.Nb6 Nxb6 29.Bxb6 Rb7 30.a5 Bf6
+31.Bf2 h4 32.Ra2 Rb4 33.Rfa1 Bd8 34.g4 Rb5 35.a6 g5 36.Rb1 Ra5 37.Rxa5 Bxa5
+38.Qc4 Bd2 39.Rb7 Qe8 40.a7 Kg7 41.Qc7 Bf4 42.h3 Rc8 43.Rb8  1-0
+
+[Event "39th World Open"]
+[Site "Philadelphia USA"]
+[Date "2011.07.03"]
+[Round "7"]
+[White "Wang Puchen"]
+[Black "Yudasin,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2437"]
+[BlackElo "2522"]
+[ECO "E15"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.g3 Ba6 5.Qc2 Bb7 6.Bg2 c5 7.dxc5 bxc5 8.O-O Be7
+9.Nc3 O-O 10.Rd1 Qb6 11.b3 Rd8 12.Bb2 d6 13.Ng5 Bxg2 14.Kxg2 Nbd7 15.Kg1 Nf8
+16.Rd2 d5 17.cxd5 exd5 18.Na4 Qc6 19.Rad1 Rac8 20.e4 d4 21.Qc4 Qe8 22.Re2 N6d7
+23.Nf3 Rb8 24.Qc2 Ne6 25.Bc1 Nb6 26.Nb2 Qb5 27.Qd3 Qxd3 28.Rxd3 f6 29.Nd2 Kf7
+30.Ndc4 Rbc8 31.f4 Bf8 32.Kg2  1/2-1/2
+
+[Event "39th World Open"]
+[Site "Philadelphia USA"]
+[Date "2011.07.04"]
+[Round "8"]
+[White "Lapshun,Y"]
+[Black "Yudasin,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2442"]
+[BlackElo "2522"]
+[ECO "A46"]
+
+1.d4 Nf6 2.Nf3 e6 3.Bg5 a6 4.Bh4 d6 5.e3 g5 6.g3 Nh5 7.Bd3 Bg7 8.Nbd2 Qe7
+9.c3 Nd7 10.Qe2 Ndf6 11.O-O-O Bd7 12.Kb1 O-O-O 13.Nc4 Kb8 14.Nfd2 Nxg3 15.hxg3 Bc8
+16.e4 Nd7 17.f4 b6 18.Ne3  1/2-1/2
+
+[Event "39th World Open"]
+[Site "Philadelphia USA"]
+[Date "2011.07.04"]
+[Round "9"]
+[White "Yudasin,L"]
+[Black "Yang,Dar"]
+[Result "1/2-1/2"]
+[WhiteElo "2522"]
+[BlackElo "2432"]
+[ECO "C00"]
+
+1.e4 e6 2.Qe2 c5 3.Nf3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nge7 7.c3 O-O 8.d3 d6
+9.a3 e5 10.b4 a6 11.Be3 b6 12.Qd2 Be6 13.Bh6 cxb4 14.Bxg7 Kxg7 15.axb4 d5
+16.exd5 Bxd5 17.Qe2 f6 18.Nbd2 Qc7 19.Rfc1 Rfe8 20.Ne4 Rad8 21.h4 a5 22.b5 Nb8
+23.c4 Bxe4 24.Qxe4 Nf5 25.c5 bxc5 26.Qa8 Rxd3 27.Rxa5 Re7 28.Ra3 Rd8 29.Qa5 Qxa5
+30.Rxa5 e4 31.Ne1 Nd4 32.Ra2 Nxb5 33.Rxc5 Nd4 34.Rc4 f5 35.Nc2 Nbc6 36.Nxd4 Nxd4
+37.Rca4 Rdd7 38.Ra1 h5 39.Ra6 Re6 40.Rxe6 Nxe6 41.Bf1 Rd2 42.Bc4 Nd4 43.Ra7+ Kh6
+44.Bg8 Nf3+ 45.Kg2 g5 46.hxg5+ Kxg5 47.Rg7+ Kf6 48.Rf7+ Kg6 49.Ra7 Ne1+ 50.Kg1 Nd3
+51.Ra2 Rxa2 52.Bxa2 Kg5 53.Bb3 h4 54.gxh4+ Kxh4 55.Kg2 Kg5 56.Kg3 f4+ 57.Kg2 Kf5
+58.Bd5 Ke5 59.Bc6 Kd4 60.Kf1 Nc5 61.Ke2 f3+ 62.Ke1  1/2-1/2
+
+[Event "US Amateur Team-ch East"]
+[Site "Parsippany USA"]
+[Date "2012.02.19"]
+[Round "4"]
+[White "Yudasin,L"]
+[Black "Shetty,A"]
+[Result "1-0"]
+[WhiteElo "2528"]
+[BlackElo "2121"]
+[ECO "C00"]
+
+1.e4 e6 2.Qe2 c5 3.Nf3 Nc6 4.g3 g6 5.Bg2 Bg7 6.O-O Nge7 7.d3 O-O 8.c3 d5
+9.e5 a6 10.Bf4 b5 11.b3 h6 12.h4 Bd7 13.Nbd2 Nf5 14.c4 bxc4 15.bxc4 d4 16.Ne4 Qe7
+17.Rab1 Rab8 18.Nf6+ Kh8 19.Rxb8 Nxb8 20.g4 Nxh4 21.Nxh4 g5 22.Qe4 Bxf6 23.exf6  1-0
+
+[Event "43rd Annual World Open"]
+[Site "Arlington USA"]
+[Date "2015.07.04"]
+[Round "7"]
+[White "Bachmann,Ax"]
+[Black "Yudasin,L"]
+[Result "1/2-1/2"]
+[WhiteElo "2633"]
+[BlackElo "2510"]
+[ECO "B40"]
+
+1.Nf3 c5 2.e4 e6 3.g3 Nc6 4.Bg2 Nf6 5.Nc3 d5 6.exd5 Nxd5 7.O-O Be7 8.Re1 Nxc3
+9.bxc3 O-O 10.c4 Rb8 11.d3 b6 12.Bf4 Bd6 13.Bd2 Bb7 14.Bc3 Re8 15.Qc1 Be7
+16.Qb2 Bf6 17.Bxf6 Qxf6 18.Qxf6 gxf6 19.Reb1 f5 20.Rb2 Kg7 21.a4 e5 22.Nh4 Kf6
+23.a5 Nb4 24.axb6 axb6 25.Bxb7 Rxb7 26.Ng2 Rd8 27.Ne3 e4 28.dxe4 fxe4 29.c3 Nd3
+30.Rb5 Ne5 31.Rab1 Rd2 32.Rxb6+ Rxb6 33.Rxb6+ Ke7 34.Nd5+ Kf8 35.Ne3 Nf3+
+36.Kg2 Ne1+ 37.Kf1 Nd3 38.Rf6 Kg7 39.Rf5 Ra2 40.h4 Ra3 41.Nd5 h6 42.Nf6 e3
+43.fxe3 Rxc3 44.Ne8+ Kg6 45.g4 Rxc4 46.h5+ Kh7 47.Rxf7+ Kg8 48.Rc7 Ne5 49.Nf6+ Kf8
+50.e4 Rc2 51.g5 hxg5 52.Nh7+ Kg8 53.Nf6+ Kf8 54.h6 Rh2 55.Nh7+ Ke8 56.Nf6+ Kd8
+57.Rxc5 Rxh6 58.Rd5+ Kc8  1/2-1/2
