@@ -12975,30 +12975,6 @@ Rb5 64.Kf4 Bf7 65.Rg1 a4 66.Rg7 Rb7 0-1
 [Site "Barcelona (Spain)"]
 [Date "2015.08.22"]
 [Round "2"]
-[White "Libiszewski Fabien (FRA)"]
-[Black "Ossa Orlando (COL)"]
-[Result "1/2-1/2"]
-[ECO "C65"]
-[WhiteElo "2525"]
-[BlackElo "2255"]
-[ID ""]
-[FileName ""]
-[Annotator ""]
-[Source ""]
-[Remark ""]
-
-1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 Bc5 5.Bxc6 dxc6 6.Nbd2 O-O 7.Nc4
-Ng4 8.O-O f5 9.Bg5 Qe8 10.exf5 e4 11.Nh4 Qh5 12.h3 Qxg5 13.Qxg4
-Be7 14.g3 exd3 15.Ne5 Bxf5 16.Qxg5 Bxg5 17.Nxf5 Rxf5 18.Nxd3
-Bf6 19.f4 Rd5 20.Rae1 c5 21.Ne5 Bxe5 22.fxe5 Rd2 23.e6 Re8 24.Rf2
-Rxf2 25.Kxf2 Kf8 26.Re5 b6 27.Rf5+ Kg8 28.Re5 g6 29.g4 Kf8 30.Ke3
-Ke7 31.g5 Kd6 32.Ke4 Rxe6 33.Rxe6+ Kxe6 34.c4 Kd6 35.a4 Ke6 36.b3
-Kd6 37.h4 Ke6 38.Kf4 Kd6 39.Ke4 a6 40.Kf4 Ke6 41.Ke4 Ke5 1/2-1/2
-
-[Event "It \"Sants open\""]
-[Site "Barcelona (Spain)"]
-[Date "2015.08.22"]
-[Round "2"]
 [White "Lopez Mulet Inigo (ESP)"]
 [Black "Nordenbaek Jan (DEN)"]
 [Result "1-0"]
@@ -13246,32 +13222,6 @@ Rg8 8.Qh6 Rg6 9.Qe3 b6 10.Ne2 Bb7 11.Nf4 Rg8 12.a4 Nc6 13.Qh3
 Ne7 14.Bb5+ c6 15.Be2 Ned5 16.O-O Qc7 17.Qh4 Qe7 18.c4 Nxf4 19.Qxf4
 Rg6 20.Qe5 O-O-O 21.Bf4 Kd7 22.a5 Ke8 23.axb6 axb6 24.Ra7 Rd7
 25.Qb8+ 1-0
-
-[Event "It \"Sants open\""]
-[Site "Barcelona (Spain)"]
-[Date "2015.08.22"]
-[Round "2"]
-[White "Pedini Dario (ITA)"]
-[Black "Dvirnyy Daniyyl (ITA)"]
-[Result "0-1"]
-[ECO "C02"]
-[WhiteElo "2249"]
-[BlackElo "2543"]
-[ID ""]
-[FileName ""]
-[Annotator ""]
-[Source ""]
-[Remark ""]
-
-1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.a3 f6 7.b4 fxe5
-8.dxe5 Qc7 9.Bf4 Nh6 10.Bd3 O-O-O 11.Nbd2 Be7 12.Qe2 Rdf8 13.Bxh6
-gxh6 14.b5 Na5 15.c4 Be8 16.O-O Bh5 17.Qe3 Rhg8 18.Bxh7 Rh8 19.Bd3
-dxc4 20.Be4 Bxf3 21.Nxf3 Nb3 22.Ra2 Qa5 23.a4 Rd8 24.g3 Rd7 25.Kg2
-Kb8 26.Rb1 Bg5 27.Qe2 Qb4 28.h4 Bd8 29.Rc2 c3 30.a5 Bxa5 31.Ra2
-c4 32.Rxa5 Qxa5 33.Qxc4 Nd2 34.Qxe6 Rhd8 35.Nxd2 cxd2 36.Rd1
-Qxb5 37.Qf5 Re7 38.e6 Qb4 39.Bf3 Qd4 40.h5 Qd6 41.Bg4 Qd5+ 42.Qxd5
-Rxd5 43.f4 Kc7 44.f5 Kd6 45.Kf3 Ke5 46.Ke3 Kf6 47.Ke4 Rd6 48.Be2
-Rc7 49.g4 Rc1 50.g5+ hxg5 51.h6 Rxd1 52.Bxd1 Rd8 53.Kd4 Ke5+ 0-1
 
 [Event "It \"Sants open\""]
 [Site "Barcelona (Spain)"]
