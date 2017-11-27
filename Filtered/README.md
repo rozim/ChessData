@@ -24,3 +24,10 @@ Stats are:
         Dup[2]    :    31462  (similar..)
 
 To use of course concat filter_??.pgn if you want one big file.
+
+2 opening books based on these files.
+The books were made as follows:
+
+cat filtered_??.pgn > /tmp/filtered.pgn
+./polyglot make-book -pgn /tmp/filtered.pgn  -bin filtered-book-popularity.bin -max-ply 40 -min-game 5
+./polyglot make-book -pgn /tmp/filtered.pgn  -bin filtered-book-uniform.bin    -max-ply 40 -min-game 5 -uniform
