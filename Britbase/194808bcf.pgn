@@ -1,0 +1,1625 @@
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.30"]
+[Round "1"]
+[White "Aitken, James Macrae"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/1pRk1p1p/1P2p1p1/3p4/3r1P2/7P/6P1/6K1 b - - 0 43"]
+[PlyCount "1"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+43... Ke8 $2 {etc (Source: BCM, Oct 1948, p337)} (43... Kd6 44. Rxf7 (44. g3 f6
+$17) 44... Kc6 $17) 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.30"]
+[Round "1"]
+[White "Alexander, C Hugh O'D"]
+[Black "Abrahams, Gerald"]
+[Result "1-0"]
+[ECO "C81"]
+[Annotator "part-game"]
+[PlyCount "29"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Na5 10. Nd4 Bc5 11. c3 Bxd4 12. cxd4 h6 13. f3 Ng5 14. f4 Ne4 15. f5
+{... 28 moves. Source: BCM, Oct 1948, p337} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.30"]
+[Round "1"]
+[White "Broadbent, Reginald Joseph"]
+[Black "Newman, Richard Hilary"]
+[Result "1-0"]
+[ECO "B20"]
+[PlyCount "2"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 {(... 43 moves)} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.30"]
+[Round "1"]
+[White "Morry, William Ritson"]
+[Black "Milner-Barry, Philip Stuart"]
+[Result "0-1"]
+[ECO "A92"]
+[PlyCount "66"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. c4 d5 7. Nbd2 c6 8. Qc2
+Ne4 9. Ne5 Nd7 10. Nxd7 Bxd7 11. f3 Nxd2 12. Bxd2 Be8 13. e3 Kh8 14. b3 g5 15.
+Bc3 Bf6 16. Rad1 Bg6 17. Qe2 Qb6 18. Kh1 Rad8 19. e4 Rd7 20. Qd2 Qd8 21. cxd5
+cxd5 22. e5 Be7 23. Rc1 f4 24. Bh3 Qb6 25. gxf4 gxf4 26. Rg1 Ba3 27. Ba5 Bxc1
+28. Rxc1 Qa6 29. Bf1 b5 30. Qb4 Rg8 31. Bxb5 Bh5 32. h4 Bxf3+ 33. Kh2 Rdg7 {
+Source: CHESS, vol. 14, Nov 1948, p28} 0-1
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.30"]
+[Round "1"]
+[White "Thomas, George Alan"]
+[Black "Wood, Gabriel Jacquin"]
+[Result "1-0"]
+[ECO "B23"]
+[PlyCount "3"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nc3 {(... 55 moves)} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.30"]
+[Round "1"]
+[White "Wood, Baruch Harold"]
+[Black "Winter, William"]
+[Result "1-0"]
+[ECO "B76"]
+[PlyCount "47"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7 8.
+Qd2 O-O 9. O-O-O Bd7 10. f3 a6 11. g4 b5 12. h4 Nxd4 13. Bxd4 b4 14. Nd5 Nxd5
+15. Bxg7 Kxg7 16. exd5 Bb5 17. h5 Bxe2 18. hxg6 fxg6 19. Qh6+ Kf6 20. g5+ Kf7
+21. Qxh7+ Ke8 22. Qxg6+ Kd7 23. Qe6+ Ke8 24. Qxe2 {Source: BCM, Oct 1948, p337}
+1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.31"]
+[Round "2"]
+[White "Abrahams, Gerald"]
+[Black "Aitken, James Macrae"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "8/4r1pp/8/2k5/pp3PPP/3R4/1P1K4/8 b - - 0 45"]
+[PlyCount "1"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+45... Ra7 $2 {etc (Source: BCM, Oct 1948, p339)} (45... Re4 46. Rf3 Rd4+ 47.
+Kc2 (47. Kc1 Kc4 {/\ Rd3-+}) 47... b3+ 48. Kc1 Kb4 49. h5 a3 $19) 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.31"]
+[Round "2"]
+[White "Golombek, Harry"]
+[Black "Thomas, George Alan"]
+[Result "0-1"]
+[ECO "E15"]
+[PlyCount "88"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 Bxd2+ 6. Qxd2 Ba6 7. Qc2 c5 8.
+Bg2 Nc6 9. dxc5 bxc5 10. O-O O-O 11. b3 Qe7 12. Nc3 d5 13. cxd5 exd5 14. Rfe1
+Rac8 15. Rad1 d4 16. Na4 Nb4 17. Qb2 Bb5 18. e3 d3 19. Nc3 Ba6 20. Rd2 Nc2 21.
+Rc1 c4 22. Ne1 Nxe1 23. Rxe1 Qb4 24. bxc4 Qxc4 25. Nb1 Ne4 26. Bxe4 Qxe4 27.
+Qd4 Qxd4 28. exd4 Rfd8 29. Kg2 Kf8 30. Re5 Rxd4 31. Ra5 Rd6 32. Na3 Rc3 33. f3
+Rdc6 34. Kf2 Re6 35. Ra4 f5 36. g4 Rc1 37. gxf5 Re2+ 38. Rxe2 dxe2 39. Nc2 Rf1+
+40. Ke3 Bb5 41. Rb4 e1=Q+ 42. Nxe1 Rxe1+ 43. Kf4 Bc6 44. Rc4 Be8 {Source: BCM,
+Nov 1948, p402} 0-1
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.31"]
+[Round "2"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Alexander, C Hugh O'D"]
+[Result "1/2-1/2"]
+[ECO "C27"]
+[PlyCount "25"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+{A position after White's move 13 g4 is given in BCM, which seems to indicate
+an opening roughly as follows:} 1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Qh5 Nd6 5.
+Bb3 Nc6 6. d3 g6 7. Qf3 Bg7 8. Nh3 Nf5 9. Ng5 O-O 10. h4 Ncd4 11. Qe4 d6 12.
+Qd5 Qe7 13. g4 {Wade's comment is "Alexander completely refuted Milner-Barry's
+opening and [in this position] had an easy win. However, he missed this
+opportunity though eventually winning two pawns. After that Milner-Barry put
+great heart into the fight, held on to the major pieces, making it too
+dangerous to use the extra material. In the last two sessions of this
+four-session battle Alexander does not appear to have had a win." (Source: BCM,
+Oct 1948, p339)} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.31"]
+[Round "2"]
+[White "Newman, Richard Hilary"]
+[Black "Wood, Baruch Harold"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "8/8/pK4R1/8/1P6/8/7p/r6k b - - 0 55"]
+[PlyCount "3"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+55... Rg1 56. Rc6 Rg4 {[possibly more moves played] Source: BCM, Oct 1948, p339
+} 0-1
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.31"]
+[Round "2"]
+[White "Winter, William"]
+[Black "Morry, William Ritson"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[PlyCount "5"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 d5 2. c4 e6 3. cxd5 {(BCM says QGD Exchange, 46 moves)} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.31"]
+[Round "2"]
+[White "Wood, Gabriel Jacquin"]
+[Black "Broadbent, Reginald Joseph"]
+[Result "0-1"]
+[ECO "E33"]
+[PlyCount "80"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. Bd2 O-O 7. a3 Bxc3 8.
+Bxc3 Qe7 9. b4 e5 10. dxe5 Nxe5 11. e3 a5 (11... Bg4 {Euwe-Kitto, Plymouth 1948
+}) 12. bxa5 Re8 13. Be2 Nc6 14. O-O Ne4 15. Bb2 Rxa5 16. Bd3 Rh5 17. Bxe4 Qxe4
+18. Qxe4 Rxe4 19. Nd2 Re8 20. Bc3 b6 21. a4 Bd7 22. e4 Rc5 23. Rfb1 Na5 24. Rb4
+Be6 25. Bd4 Rh5 26. Be3 f5 27. exf5 Rxf5 28. Rc1 Bd7 29. Nf3 Nc6 30. Rb5 Ne5
+31. Nxe5 Bxb5 32. cxb5 Rfxe5 33. Rxc7 Rc5 34. Rc6 Rxc6 35. bxc6 Rc8 36. Kf1
+Rxc6 37. Ke2 Kf7 38. Kd3 Ke6 39. Bd4 g6 40. g4 Kd5 {Source: London Chess
+Bulletin, 14 Jan 1949} 0-1
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.01"]
+[Round "3"]
+[White "Aitken, James Macrae"]
+[Black "Milner-Barry, Philip Stuart"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[PlyCount "5"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {... Ruy Lopez, 33 moves} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.01"]
+[Round "3"]
+[White "Alexander, C Hugh O'D"]
+[Black "Winter, William"]
+[Result "1-0"]
+[ECO "B67"]
+[PlyCount "39"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 h6 10. Bh4 b5 11. Qe1 b4 12. Nxc6 Bxc6 13. Nd5 Bxd5 14. exd5
+Be7 15. dxe6 O-O 16. exf7+ Kh8 17. Qe6 b3 18. axb3 Ra7 19. Bc4 Rd7 20. Rhe1 {
+Sources: Manchester Guardian, 3 Sept 1948; Glasgow Herald, 1 Oct 1948; BCM,
+Oct 1948, p340} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.01"]
+[Round "3"]
+[White "Broadbent, Reginald Joseph"]
+[Black "Golombek, Harry"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "7n/pbk5/1p2p1p1/3p1pP1/P2P1P1N/KPP5/4B3/8 b - - 0 57"]
+[PlyCount "20"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+57... Bc6 (57... a5 {draws}) 58. Kb4 Be8 (58... a5+ {was the last chance}) 59.
+a5 Bc6 60. Bb5 Kb7 61. axb6 axb6 (61... Kxb6 62. Bxc6 Kxc6 63. Ka5 Kb7 64. Kb5
+Kc7 65. Ka6 $18) 62. Bxc6+ Kxc6 63. Ka4 Kc7 64. Kb5 Kb7 65. b4 Kc7 66. Ka6 Kc6
+67. Nf3 {Source: BCM, Oct 1948, p341} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.01"]
+[Round "3"]
+[White "Newman, Richard Hilary"]
+[Black "Wood, Gabriel Jacquin"]
+[Result "0-1"]
+[ECO "E67"]
+[PlyCount "52"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+{Rough reconstruction of what may have happened in this game:} 1. d4 Nf6 2. c4
+g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. Qc2 c6 9. Rd1 Qe7
+10. dxe5 dxe5 11. Be3 Nc5 12. Qd2 Nh5 13. Bh6 f5 14. h3 Ne6 15. Bxg7 Nexg7 16.
+b3 e4 {and this is the position given in BCM. The game continued:} 17. Ne1 f4
+18. Nxe4 fxg3 19. fxg3 Bxh3 20. Qd6 Rae8 21. Qxe7 Rxe7 22. Nc3 Bxg2 23. Kxg2
+Nf5 24. Rd3 Nhxg3 25. e3 Nh5 26. Nc2 Nh4+ {and Black won (Source: BCM, Oct
+1948, p341)} 0-1
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.01"]
+[Round "3"]
+[White "Thomas, George Alan"]
+[Black "Abrahams, Gerald"]
+[Result "1-0"]
+[ECO "C81"]
+[PlyCount "55"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[Source "Pickard & Son"]
+[SourceDate "2001.12.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Qe2 Na5 10. Rd1 Be7 11. Nbd2 Nxd2 12. Bxd2 Nc4 13. Bxc4 bxc4 14. b3 cxb3
+15. axb3 O-O 16. Rxa6 Rxa6 17. Qxa6 c5 18. Qd3 g5 19. Nxg5 Bxg5 20. Qg3 h6 21.
+h4 Bf5 22. hxg5 Bxc2 23. gxh6+ Bg6 24. Bg5 Qb6 25. h7+ Kxh7 26. Qh4+ Kg8 27.
+Bf6 Bh7 28. Qh6 {Source: Glasgow Herald, 17 Sept 1948} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.01"]
+[Round "3"]
+[White "Wood, Baruch Harold"]
+[Black "Morry, William Ritson"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "5kN1/1p5p/2p1P3/4K3/8/p7/7P/8 w - - 0 42"]
+[PlyCount "19"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+42. e7+ Kf7 43. Kd6 a2 44. Nf6 $1 a1=Q 45. e8=Q+ Kg7 46. Qg8+ Kh6 47. Qxh7+ Kg5
+48. h4+ Kf4 49. Qe4+ Kg3 50. Qg4+ Kh2 51. Qf4+ {and won (Source: BCM, Oct 1948,
+p341)} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.02"]
+[Round "4"]
+[White "Abrahams, Gerald"]
+[Black "Broadbent, Reginald Joseph"]
+[Result "0-1"]
+[ECO "E20"]
+[PlyCount "6"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 {... Nimzo-Indian, 33 moves} 0-1
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.02"]
+[Round "4"]
+[White "Golombek, Harry"]
+[Black "Newman, Richard Hilary"]
+[Result "1-0"]
+[ECO "D30"]
+[PlyCount "4"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 d5 2. c4 e6 {...QGD, 55 moves} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.02"]
+[Round "4"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Thomas, George Alan"]
+[Result "1/2-1/2"]
+[ECO "C25"]
+[PlyCount "3"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nc3 {... Vienna, 46 moves. "... had only an open king file, which
+always limits the range of battle. The major pieces came off early" (Wade, BCM)
+} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.02"]
+[Round "4"]
+[White "Morry, William Ritson"]
+[Black "Alexander, C Hugh O'D"]
+[Result "1/2-1/2"]
+[ECO "D48"]
+[Annotator "part-game"]
+[PlyCount "35"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. a4 Bb7 10. O-O b4 11. Ne4 c5 12. Nxc5 Bxc5 13. dxc5 Nxc5 14. Bc4 Qc7 15.
+Bd2 Ng4 $1 16. g3 Qc6 17. Bxb4 Ne5 18. Bd5 $1 {"Morry came out a pawn up but
+Alexander worked his pieces into aggressive positions and at the time of the
+first adjournment had good winning chances. Bishops of opposite colour proved
+the drawing factor" (Source: BCM, Oct 1948, p342)... 67 moves} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.02"]
+[Round "4"]
+[White "Winter, William"]
+[Black "Aitken, James Macrae"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[PlyCount "12"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+{Presumably} 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 {...
+QGD, Lasker's Defence, 28 moves} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.02"]
+[Round "4"]
+[White "Wood, Gabriel Jacquin"]
+[Black "Wood, Baruch Harold"]
+[Result "0-1"]
+[ECO "B23"]
+[PlyCount "3"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nc3 {... Sicilian 2 Nc3, 65 moves} 0-1
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.03"]
+[Round "5"]
+[White "Aitken, James Macrae"]
+[Black "Morry, William Ritson"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[PlyCount "6"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bb4 {... Ruy Lopez (Alapin Defence), 54 moves}
+1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.03"]
+[Round "5"]
+[White "Broadbent, Reginald Joseph"]
+[Black "Milner-Barry, Philip Stuart"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4R3/3r4/8/8/8/1P6/1K3p2/5k2 w - - 0 75"]
+[PlyCount "5"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+75. Kc3 Rg7 $2 (75... Rf7 76. Kd4 Kg1 $19) 76. Kd4 Kg2 77. Rf8 {Source: BCM,
+Oct 1948, p343} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.03"]
+[Round "5"]
+[White "Newman, Richard Hilary"]
+[Black "Abrahams, Gerald"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "4r1k1/p4r1p/1p3q2/2pP1pp1/2P1n3/3QRN2/P4PPP/4R1K1 w - - 0 26"]
+[PlyCount "41"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+26. Nxg5 Qxg5 27. Rg3 Nxg3 28. Rxe8+ Rf8 29. Rxf8+ Kxf8 30. fxg3 Qc1+ 31. Kf2
+Qb2+ 32. Kf3 Ke8 33. Qe2+ Qxe2+ 34. Kxe2 Kd7 35. Ke3 Kd6 36. Kf4 b5 37. Kxf5 b4
+38. Ke4 a5 39. Kd3 a4 40. Kc2 Ke5 41. g4 Kf6 42. h4 Kg6 43. h5+ Kf6 (43... Kg5
+44. d6 Kf6 45. g5+ $18) 44. h6 Kg5 45. d6 Kf6 46. g5+ {Source: BCM, Oct 1948,
+p343} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.03"]
+[Round "5"]
+[White "Thomas, George Alan"]
+[Black "Winter, William"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "2b3k1/2N2p1p/6p1/1p1P4/1r6/5BP1/P3R1KP/b7 w - - 0 32"]
+[PlyCount "11"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+32. d6 Be5 33. Rd2 Bd7 34. Na6 Ra4 35. Nb8 Ra7 36. Bc6 Bc3 37. Rc2 {Source:
+BCM, Oct 1948, p343} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.03"]
+[Round "5"]
+[White "Wood, Baruch Harold"]
+[Black "Alexander, C Hugh O'D"]
+[Result "1-0"]
+[ECO "D31"]
+[PlyCount "49"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4 Qxe4+
+8. Be2 Qxg2 9. Bf3 Qg5 10. Ne2 Ne7 11. Rg1 Qf6 12. Ng3 Nf5 13. Ne4 Qd8 14. Rxg7
+Qxd1+ 15. Rxd1 Nd7 16. Nd6+ Nxd6 17. Bxd6 Nf8 18. Be5 Nd7 19. Bc3 Ke7 20. Bh5
+Rf8 21. Bd2 e5 22. Bg5+ Nf6 23. Rxh7 Bf5 24. Rh6 Bg6 25. Bxg6 {"and eventually
+won" ...56 moves (Source: BCM, Oct 1948, p344)} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.03"]
+[Round "5"]
+[White "Wood, Gabriel Jacquin"]
+[Black "Golombek, Harry"]
+[Result "0-1"]
+[ECO "B18"]
+[PlyCount "64"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. f4 e6 7. Nf3 Nd7 8. Bd3
+Bd6 9. O-O Ne7 10. Ne5 Bxd3 11. Qxd3 Nf6 12. Bd2 O-O 13. Rae1 c5 14. c3 cxd4
+15. cxd4 Rc8 16. Kh1 Bb8 17. Bc3 Qd5 18. Bb4 Bd6 19. Bxd6 Qxd6 20. f5 Nxf5 21.
+Rxf5 exf5 22. Nxf5 Qc7 23. Qg3 g6 24. Qg5 Ne4 25. Ne7+ Kg7 26. Qh4 Qd8 27. Ng4
+h5 28. Ne3 f5 29. d5 f4 30. d6 Rc5 31. b4 Re5 32. N3d5 Ng3+ {Source: The Times,
+4 Sept 1948; Glasgow Herald, 8 Oct 1948} 0-1
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.04"]
+[Round "6"]
+[White "Abrahams, Gerald"]
+[Black "Wood, Gabriel Jacquin"]
+[Result "0-1"]
+[ECO "E60"]
+[PlyCount "4"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 g6 {... King's Indian, 54 moves} 0-1
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.04"]
+[Round "6"]
+[White "Alexander, C Hugh O'D"]
+[Black "Aitken, James Macrae"]
+[Result "1-0"]
+[ECO "B70"]
+[PlyCount "55"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. g3 Bd7 7. Bg2 Nc6 8. O-O
+Bg7 9. Nde2 Qc8 10. Nd5 Nxd5 11. exd5 Ne5 12. Be3 O-O 13. Bd4 Bh3 14. b3 Bxg2
+15. Kxg2 Qf5 16. f3 Rfc8 17. c3 h5 18. Qb1 Qd7 19. h3 Qb5 20. c4 Qb4 21. Bc3
+Qc5 22. Bd4 Qb4 23. f4 Qd2 24. fxe5 dxe5 25. Qb2 Qd3 26. Rf3 Qe4 27. Be3 $2 ({
+A doubt about the score creeps in here. The score gives 27.B-K3, and the
+columnist giving the game backs it up, but was it perhaps a scoring error?
+Hard to believe both Alexander and Aitken missed this fairly simple tactic.
+However, had the more plausible 27.Bc3 (B-B3) been played, then White's 28th
+move would have left the knight en prise on e2.} 27. Bc3 {makes a lot more
+sense and would avert the trick that Black missed. But now} g5 {and} 28. Qb1 $4
+{is an unfeasible blunder.}) 27... g5 (27... Qxf3+ $1 28. Kxf3 e4+ {with a
+likely Black win. Dugald MacIsaac, in his Glasgow Herald column of 12 Nov 1948,
+sticks to his original version of the score when he points out the above trick,
+saying "this surprising error, spotted by several of our readers, seems to
+have been generally overlooked."}) 28. Qb1 {Source: Glasgow Herald, 22 Oct
+1948 (a few moves of the game given in BCM, Oct 1948, p345)} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.04"]
+[Round "6"]
+[White "Golombek, Harry"]
+[Black "Wood, Baruch Harold"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "4kb1r/pp1qn3/2r5/2Pp2pp/1P1Pp1n1/4P1PB/P2B1RNP/R2Q2K1 b k - 0 23"]
+[PlyCount "1"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+{giving up temporarily a second pawn for considerable counter-chances and
+succeeded in drawing a rook and pawn ending, a pawn down.} 23... Nf5 {...
+Semi-Slav, 76 moves (Source: BCM, Oct 1948, p345)} (23... Rch6 {followed by
+Qc7 gives Black possibly a winning attack (Wade)}) 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.04"]
+[Round "6"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Newman, Richard Hilary"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[PlyCount "3"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. c3 {... Sicilian 2 c3, 24 moves} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.04"]
+[Round "6"]
+[White "Morry, William Ritson"]
+[Black "Thomas, George Alan"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[PlyCount "6"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 {... QGD Orthodox, 40 moves} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.04"]
+[Round "6"]
+[White "Winter, William"]
+[Black "Broadbent, Reginald Joseph"]
+[Result "1/2-1/2"]
+[ECO "E26"]
+[PlyCount "88"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 Nc6 7. Bd3 d6 8. Ne2
+e5 9. d5 Ne7 10. Ng3 O-O 11. Qc2 h6 12. O-O Ne8 13. f4 exf4 14. Rxf4 Nf6 15.
+Rxf6 gxf6 16. e4 Kh8 17. Bxh6 Rg8 18. Rf1 Ng6 19. Nh5 Ne5 20. Be2 Rg6 21. Bc1
+Qg8 22. Nf4 Rg5 23. Bd1 Qh7 24. Ne6 Bxe6 25. Bxg5 fxg5 26. dxe6 fxe6 27. Qf2
+Qg7 28. Qg3 Kg8 29. Bg4 Re8 30. Qh3 Nxg4 31. Qxg4 Qh6 32. Rf3 Re7 33. Qg3 e5
+34. Rf5 Rg7 35. Qf2 g4 36. Rf8+ Kh7 37. Qf5+ Qg6 38. Qc8 Qxe4 39. Rh8+ Kg6 40.
+Qe8+ $2 (40. Qe6+ {mates}) 40... Kg5 41. Qh5+ $2 (41. h4+ $1 gxh3 42. Qd8+) (
+41. Qd8+ Kf4 42. Rf8+ Ke3 43. Qxd6 $16) 41... Kf6 42. Rf8+ Ke6 43. Qe8+ Re7 44.
+Qc8+ Rd7 {Source: BCM, Oct 1948, p345} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.06"]
+[Round "7"]
+[White "Broadbent, Reginald Joseph"]
+[Black "Morry, William Ritson"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[PlyCount "5"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {... Ruy Lopez, 52 moves. Note that this game was
+played off after Round 11 was completed (thus 10/11 Sept)} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.06"]
+[Round "7"]
+[White "Golombek, Harry"]
+[Black "Abrahams, Gerald"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+{... Stonewall Defence, 53 moves}  1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.06"]
+[Round "7"]
+[White "Newman, Richard Hilary"]
+[Black "Winter, William"]
+[Result "1/2-1/2"]
+[ECO "B70"]
+[PlyCount "10"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 {... Sicilian Dragon, 28
+moves} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.06"]
+[Round "7"]
+[White "Thomas, George Alan"]
+[Black "Alexander, C Hugh O'D"]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[PlyCount "5"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 {... Ruy Lopez, 26 moves} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.06"]
+[Round "7"]
+[White "Wood, Baruch Harold"]
+[Black "Aitken, James Macrae"]
+[Result "1-0"]
+[ECO "A03"]
+[PlyCount "71"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[Source "Pickard & Son"]
+[SourceDate "2001.12.15"]
+
+1. f4 d5 2. Nf3 g6 3. e3 Bg7 4. Be2 Nd7 5. O-O Ngf6 6. d3 O-O 7. Qe1 c5 8. Nbd2
+Qc7 9. Qg3 Nh5 10. Qh4 Bf6 11. Ng5 h6 12. g4 Nxf4 13. exf4 hxg5 14. fxg5 Bd4+
+15. Kg2 Qe5 16. Bf3 Bxb2 17. Bxb2 Qxb2 18. Bxd5 Ne5 19. Rae1 e6 20. Ne4 Rd8 21.
+Bb3 Nxd3 22. Qh6 Nxe1+ 23. Rxe1 Qg7 24. Nf6+ Kf8 25. Qh3 b6 26. Qf3 Rb8 27. Qf4
+Rb7 28. Re3 Ke7 29. Rh3 Rbd7 30. Rh7 Bb7+ 31. Kg3 Qf8 32. Qe5 Bd5 33. Bxd5 Rxd5
+34. Nxd5+ Rxd5 35. Qf6+ Ke8 36. Rh8 {Sources: The Times, 9 Sept 1948; Glasgow
+Herald, 24 Sept 1948. BCM gives the game length as 35 moves.} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.06"]
+[Round "7"]
+[White "Wood, Gabriel Jacquin"]
+[Black "Milner-Barry, Philip Stuart"]
+[Result "1/2-1/2"]
+[ECO "E40"]
+[PlyCount "75"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Be7 6. Nf3 Nbd7 7. Bd3 O-O 8. b3
+b6 9. cxd5 exd5 10. O-O Bb7 11. Ne5 Ne4 12. Bb2 f6 13. Nf3 a6 14. Qc2 f5 15.
+Ne5 Bd6 16. f3 Nxc3 17. Bxc3 g6 18. e4 Nxe5 19. dxe5 Bc5+ 20. Kh1 fxe4 21. fxe4
+Qd7 22. exd5 Bxd5 23. b4 Be3 24. Qe2 Bh6 25. Bc4 Qe6 26. Rxf8+ Rxf8 27. Bxa6
+Qc6 28. Bb2 Rf4 29. Bb5 Qe6 30. Rf1 Qh3 31. Kg1 Rxf1+ 32. Kxf1 Qxh2 33. Bd4
+Qf4+ 34. Bf2 Qc1+ 35. Be1 Qf4+ 36. Bf2 Qc1+ 37. Be1 Qf4+ 38. Bf2 {Source: BCM,
+Dec 1948, p439} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.07"]
+[Round "8"]
+[White "Alexander, C Hugh O'D"]
+[Black "Broadbent, Reginald Joseph"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[PlyCount "2"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 {...French Defence, 60 moves ("Alexander had an edge in a rook and
+pawn ending due to a queenside majority. After Broadbent gave up continually
+opposing the rook entry Broadbent secured sufficient counterplay on the other
+wing" (Wade, BCM)} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.07"]
+[Round "8"]
+[White "Abrahams, Gerald"]
+[Black "Wood, Baruch Harold"]
+[Result "1-0"]
+[Annotator "part-game"]
+[SetUp "1"]
+[FEN "1r2n3/2r1kN2/2RpB3/3Pp3/1P2P2p/P3QP2/6q1/1K6 w - - 0 59"]
+[PlyCount "23"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+59. Nxd6 Rxc6 60. Nf5+ Kf6 61. Qh6+ Qg6 62. Qxh4+ Qg5 63. Qxg5+ Kxg5 64. dxc6
+Nc7 65. Bc4 Kf6 66. Ne3 Ke7 67. Kc2 Kd6 68. Bd5 Nxd5 69. exd5 Rf8 70. a4 {...
+74 moves} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.07"]
+[Round "8"]
+[White "Abrahams, Gerald"]
+[Black "Wood, Baruch Harold"]
+[Result "*"]
+[Annotator "part-game"]
+[SetUp "1"]
+[FEN "7r/2p1qkr1/1p1p1n1p/2nPpPp1/p1P1P1Nb/4BP2/PP2Q1B1/1K3R1R w - - 0 28"]
+[PlyCount "19"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+{This position is given in BCM, Nov 1948, but White's dark-squared bishop is
+missing from the diagram. Consequently, it is only a guess as to where it
+should appear. c1, d2 and e3 are all possibilities.} 28. Rxh4 gxh4 29. Nxh6+
+Kf8 30. Rh1 Nh5 31. Ng4 Rgh7 32. f6 Nxf6 33. Bg5 {[This position definitely
+happened]} Ncd7 34. c5 Qg7 35. cxd6 cxd6 36. Bxf6 Nxf6 37. Qa6 {... King's
+Indian, 1-0, 74 moves (n.b. I have left out the result as this game is
+recorded in two separate sections, and this allows the ChessBase crosstable
+function to work - JS)} *
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.07"]
+[Round "8"]
+[White "Aitken, James Macrae"]
+[Black "Thomas, George Alan"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/p2R4/1p2pkp1/2P2p1p/1P5P/1P6/1K3PP1/5r2 w - - 0 38"]
+[PlyCount "11"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+38. Rxa7 (38. Rd2 $18) 38... Rxf2+ 39. Kc3 b5 40. Rb7 Ke5 41. Rxb5 f4 (41...
+Kd5 42. Rb6 {/\ Rd6 should win - Wade}) 42. c6+ Kd6 43. Rc5 {Source: BCM, Nov
+1948, p375} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.07"]
+[Round "8"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Golombek, Harry"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+[PlyCount "10"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+{BCM says that "Milner-Barry was qualitatively speaking a centre passed pawn
+up against Golombek (Caro Kann, 30 moves) so the continuation may have been} 1.
+e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 {etc} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.07"]
+[Round "8"]
+[White "Morry, William Ritson"]
+[Black "Newman, Richard Hilary"]
+[Result "0-1"]
+[ECO "A45"]
+[PlyCount "2"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 {... Dutch Defence, 46 moves} 0-1
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.07"]
+[Round "8"]
+[White "Winter, William"]
+[Black "Wood, Gabriel Jacquin"]
+[Result "0-1"]
+[ECO "E72"]
+[PlyCount "78"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. g3 Nbd7 6. Bg2 e5 7. Nge2 O-O 8. O-O
+a5 9. h3 c6 10. Be3 Qe7 11. Re1 Ne8 12. Nc1 f5 13. exf5 gxf5 14. Nd3 Qf7 15. d5
+c5 16. Qd2 Qg6 17. Kh2 Ndf6 18. Rad1 Bd7 19. Nc1 Nh5 20. N1e2 Nef6 21. Rg1 Kh8
+22. Bf3 Rg8 23. Nb5 Bxb5 24. cxb5 e4 25. Bg2 Nd7 26. Nf4 Nxf4 27. Bxf4 Ne5 28.
+Bxe5 Bxe5 29. Kh1 b6 30. Rde1 Qf6 31. Re2 Rg6 32. b3 Rag8 33. Bf1 h5 34. Qe3 f4
+35. Qxe4 fxg3 36. f3 Bd4 37. Rgg2 Bf2 38. Rd2 R6g7 39. Re2 Qa1 {Source: BCM,
+Nov 1948, p374 and 403} 0-1
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.08"]
+[Round "9"]
+[White "Abrahams, Gerald"]
+[Black "Milner-Barry, Philip Stuart"]
+[Result "0-1"]
+[ECO "A50"]
+[PlyCount "60"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. Nf3 Nf6 2. c4 b6 3. d4 Bb7 4. Nbd2 e6 5. e3 Be7 6. Bd3 d5 7. cxd5 Nxd5 8.
+O-O Nd7 9. Nc4 c5 10. Nce5 Nxe5 11. Nxe5 O-O 12. dxc5 Bxc5 13. Qf3 Qc7 14. Qh3
+f5 15. Nf3 Rf6 16. e4 Nb4 17. e5 Rg6 18. Nh4 Nxd3 19. Nxg6 Nxf2 20. Qb3 Bd5 21.
+Qc2 Ng4+ 22. Kh1 hxg6 23. Bf4 g5 24. Bxg5 Qxe5 25. Bf4 Qe4 26. Qxe4 Bxe4 27. h3
+Ne3 28. Bxe3 Bxe3 29. Rfe1 f4 30. Kh2 Rc8 {Sources: Glasgow Herald, 5 Nov 1948;
+BCM, Jan 1949, p29} 0-1
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.08"]
+[Round "9"]
+[White "Broadbent, Reginald Joseph"]
+[Black "Aitken, James Macrae"]
+[Result "1-0"]
+[ECO "C73"]
+[PlyCount "57"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 exd4 7. Nxd4 c5 8.
+Nf3 Bb7 9. Nc3 Nf6 10. O-O Be7 11. Re1 O-O 12. Qd3 Nd7 13. Bf4 Kh8 14. Rad1 f6
+15. Nd2 Ne5 16. Qe2 a5 17. Nd5 Ba6 18. c4 Re8 19. Bg3 Nc6 20. f4 Bf8 21. f5 Bc8
+22. Qh5 Ra7 23. Bh4 Nb4 24. Nxf6 gxf6 25. e5 Rxe5 26. Rxe5 Be7 27. Rxe7 Qxe7
+28. Re1 Qd7 29. Bxf6+ {Sources: Manchester Guardian, Sept 11 1948; BCM, Nov
+1948, p401} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.08"]
+[Round "9"]
+[White "Golombek, Harry"]
+[Black "Winter, William"]
+[Result "1/2-1/2"]
+[ECO "E61"]
+[PlyCount "6"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d6 {... King's Indian, 81 moves} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.08"]
+[Round "9"]
+[White "Newman, Richard Hilary"]
+[Black "Alexander, C Hugh O'D"]
+[Result "1/2-1/2"]
+[ECO "D10"]
+[PlyCount "6"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 {... Slav Exchange, 56 moves} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.08"]
+[Round "9"]
+[White "Wood, Baruch Harold"]
+[Black "Thomas, George Alan"]
+[Result "1/2-1/2"]
+[ECO "D55"]
+[PlyCount "12"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 {... QGD Lasker,
+61 moves. "Hanging pawns were a weakness for BH Wood in the endgame against
+Thomas. A pawn down in the rook and pawn ending, he just scraped a draw by
+getting rid of pawns and dragging the king back in time to stop Thomas's pawn"
+(Wade, BCM)} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.08"]
+[Round "9"]
+[White "Wood, Gabriel Jacquin"]
+[Black "Morry, William Ritson"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[PlyCount "4"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 g6 {... King's Indian, 51 moves} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.09"]
+[Round "10"]
+[White "Aitken, James Macrae"]
+[Black "Newman, Richard Hilary"]
+[Result "1/2-1/2"]
+[ECO "B70"]
+[PlyCount "10"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 {... Sicilian Dragon, 43
+moves} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.09"]
+[Round "10"]
+[White "Alexander, C Hugh O'D"]
+[Black "Wood, Gabriel Jacquin"]
+[Result "0-1"]
+[ECO "B68"]
+[PlyCount "38"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Be7 9. f4 Bd7 10. Nf3 b5 11. a3 b4 12. axb4 Nxb4 13. e5 Qa5 14. Qd4 dxe5
+15. Qxe5 Qa1+ 16. Kd2 Qxb2 17. Ne1 Rc8 18. Bd3 Nxd3 19. Kxd3 Bb4 {Source: BCM,
+Nov 1948, p377} 0-1
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.09"]
+[Round "10"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Wood, Baruch Harold"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1b6/4p1p1/3pPpPp/1k1K1P2/4N1P1/1P6/8 w - - 0 55"]
+[PlyCount "17"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+55. Nxf5 exf5 56. e6 Bc6 57. e7 Kb3 $4 {(sealed - game was played off after
+round 11 was finished)} (57... Kb5 58. e8=Q Bxe8 59. Kxd5 Bc6+ 60. Ke6 h4 61.
+gxh4 Bf3 $19) 58. Kc5 Ba4 59. Kxd5 Kxb2 60. Ke6 Be8 61. Kf6 Kc3 62. Kg7 Kd4 63.
+Kf8 {etc and won (BCM, November 1948, p378)} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.09"]
+[Round "10"]
+[White "Morry, William Ritson"]
+[Black "Golombek, Harry"]
+[Result "0-1"]
+[ECO "A40"]
+[PlyCount "1"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 {... QP Opening, 42 moves} 0-1
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.09"]
+[Round "10"]
+[White "Thomas, George Alan"]
+[Black "Broadbent, Reginald Joseph"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[PlyCount "122"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. g3 ({A pleasant change from the routine move} 2. d4) 2... d5 3. Bg2
+dxe4 4. Nc3 Nf6 ({It would be exceedingly dangerous to win a pawn by} 4... f5
+5. f3 exf3 6. Nxf3) 5. Nxe4 Nxe4 6. Bxe4 Nd7 7. d4 Nf6 8. Bg2 Be7 9. Ne2 O-O
+10. O-O {[White retains an advantage because of his well-placed g2 B, Black's
+next moves aim at isolating White's d-pawn, or alternatively at freeing his
+own c8 B.]} c5 11. c3 cxd4 12. Nxd4 e5 13. Nb3 Qc7 14. Qe2 Be6 15. Re1 Nd7 16.
+f4 Bd6 17. fxe5 Nxe5 18. Bf4 Nc4 19. Bxd6 Nxd6 20. Nd4 Bc4 21. Qf2 Rae8 22. b3
+Bd3 23. c4 Qc5 24. Rad1 Be4 25. Nf5 Qxf5 26. Rxd6 Qxf2+ 27. Kxf2 Bxg2 28. Rxe8
+Rxe8 29. Kxg2 Kf8 30. Kf3 Ke7 31. Rd4 Rc8 32. Ke4 Rc6 33. c5 Rf6 34. Rd2 Rf1
+35. Kd5 Rc1 36. b4 Rb1 37. Kc4 a6 38. a3 Rc1+ 39. Kb3 a5 40. Ka4 (40. Rd6 {
+would probably have won - BCM/Wade}) 40... axb4 41. axb4 Ra1+ 42. Kb3 Ra8 43.
+Kc4 h5 44. b5 h4 45. c6 bxc6 46. b6 hxg3 47. hxg3 Ke6 48. Kc5 Ra1 49. b7 Rb1
+50. Kxc6 Rc1+ 51. Kb6 Rb1+ 52. Kc7 Rc1+ 53. Kd8 Rb1 54. Rd7 g5 55. Re7+ Kf5 56.
+Rxf7+ Kg4 57. Rg7 Kf3 58. Kc8 g4 59. b8=Q Rxb8+ 60. Kxb8 Kxg3 61. Kc7 Kf3 {
+Source: BCM, Jan 1949, p30. Curiously, the BCM of Nov 1948, p377, gives the
+length of this game as 52, but the game as given in the Jan 1949 issue was
+annotated by Broadbent so can be assumed to be correct.} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.09"]
+[Round "10"]
+[White "Winter, William"]
+[Black "Abrahams, Gerald"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[PlyCount "6"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 {... Giuoco Piano, 43 moves} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.10"]
+[Round "11"]
+[White "Abrahams, Gerald"]
+[Black "Morry, William Ritson"]
+[Result "1-0"]
+[ECO "C10"]
+[PlyCount "43"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Be7 6. Bd3 Ngf6 7. Neg5 h6 8.
+Nh3 b6 9. Ne5 Nxe5 10. dxe5 Nd7 11. Qf3 Rb8 12. Qg3 Kf8 13. Bf4 Bb7 14. O-O-O
+c6 15. Rd2 Qc7 16. Bg6 Rd8 17. Rhd1 Nc5 18. b4 Rxd2 19. Bxd2 Nd7 20. Qf4 Nxe5
+21. Bc3 f6 22. Bxe5 {Source: BCM, Nov 1948, p379} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.10"]
+[Round "11"]
+[White "Broadbent, Reginald Joseph"]
+[Black "Wood, Baruch Harold"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "3q1rk1/7p/1Np1b1p1/P3p3/1P2P2b/3pB3/3Q2P1/R5K1 w - - 0 27"]
+[PlyCount "9"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+{Sicilian Dragon, 33 moves. When Broadbent and Wood sat down to play this
+last-round game, they still had one adjourned game each to finish (Broadbent,
+his 7th round game with Morry, and Wood his 10th round game with Milner-Barry).
+Hence they both had 7/9 at the time.} 27. a6 Bg3 $19 28. Rf1 Qh4 $4 (28... Bh2+
+29. Kxh2 Rxf1 30. Bf2 Qe7 $19 {and Baruch Wood would have been 1948 British
+Champion}) 29. Rxf8+ Kxf8 30. a7 $18 Qh2+ 31. Kf1 {... 33 moves (Source: BCM,
+Nov 1948, p379)} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.10"]
+[Round "11"]
+[White "Golombek, Harry"]
+[Black "Alexander, C Hugh O'D"]
+[Result "1-0"]
+[ECO "D35"]
+[PlyCount "7"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 {... QGD Exchange, 35 moves} 1-0
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.10"]
+[Round "11"]
+[White "Milner-Barry, Philip Stuart"]
+[Black "Winter, William"]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[PlyCount "3"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. c3 {... Sicilian 2 c3 (BCM says 3 c3 - not sure what that means),
+27 moves} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.10"]
+[Round "11"]
+[White "Newman, Richard Hilary"]
+[Black "Thomas, George Alan"]
+[Result "1/2-1/2"]
+[ECO "D35"]
+[PlyCount "7"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 {... QGD Exchange, 45 moves} 1/2-1/2
+
+[Event "BCF-ch 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.10"]
+[Round "11"]
+[White "Wood, Gabriel Jacquin"]
+[Black "Aitken, James Macrae"]
+[Result "1-0"]
+[ECO "B23"]
+[PlyCount "3"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nc3 {... Sicilian 2 Nc3, 49 moves} 1-0
+
+[Event "BCF-ch 35th Premier"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.30"]
+[Round "1"]
+[White "Znosko-Borovsky, Eugene"]
+[Black "Penrose, Oliver"]
+[Result "0-1"]
+[ECO "C73"]
+[PlyCount "72"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. Bxc6+ bxc6 6. d4 f6 7. Be3 g6 8. Qd2
+Bg7 9. O-O Ne7 10. Nc3 O-O 11. dxe5 fxe5 12. Bh6 Bg4 13. Bxg7 Kxg7 14. Ne1 h6
+15. Nd3 g5 16. Nd1 Be6 17. Qc3 Kh7 18. Ne3 Qe8 19. f3 h5 20. Rae1 Ng8 21. g3
+Nf6 22. Ng2 Bd7 23. f4 exf4 24. gxf4 Nxe4 25. Qd4 d5 26. fxg5 Nxg5 27. Ndf4 Ne4
+28. c4 Rd8 29. cxd5 Bf5 30. Ne3 cxd5 31. Nxf5 Rxf5 32. Qd3 Rd7 33. Nxd5 Rg7+
+34. Kh1 Nf2+ 35. Rxf2 Qxe1+ 36. Rf1 Qxf1+ {Source: BCM, Oct 1948, p338} 0-1
+
+[Event "BCF-ch 35th Premier"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.31"]
+[Round "2"]
+[White "Penrose, Jonathan"]
+[Black "Truscott, Alan Fraser"]
+[Result "1-0"]
+[ECO "B18"]
+[PlyCount "61"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nf6 7. Bd3 e6 8.
+O-O Bd6 9. Re1 O-O 10. Bxg6 hxg6 11. Bg5 Qc7 12. Ne5 Nbd7 13. Qe2 c5 14. Nxd7
+Nxd7 15. dxc5 Nxc5 16. Rad1 Be7 17. Bxe7 Qxe7 18. Qb5 Rfd8 19. b4 Na6 20. a3
+Rac8 21. c4 Nb8 22. c5 Nc6 23. Ne4 Nd4 24. Qa4 b5 25. Qa5 Nc2 26. Rf1 Rxd1 27.
+Rxd1 Qc7 28. Qxc7 Rxc7 29. Rd8+ Kh7 30. Ng5+ Kh6 31. f4 1-0
+
+[Event "BCF-ch 35th Premier"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.31"]
+[Round "2"]
+[White "Penrose, Oliver"]
+[Black "Rhodes, Herbert Gibson"]
+[Result "1-0"]
+[ECO "C90"]
+[PlyCount "57"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. a4 Bg4 10. h3 Bd7 11. d4 exd4 12. cxd4 Na5 13. Bc2 d5 14. e5 Ne4 15.
+Nbd2 Nxd2 16. Qxd2 Nc4 17. Qd3 g6 18. b3 Bf5 19. Qe2 Bxc2 20. Qxc2 Nb6 21. axb5
+axb5 22. Rxa8 Qxa8 23. Qxc7 Bd8 24. Qc5 Qa6 25. Bh6 Re8 26. e6 Be7 27. exf7+
+Kxf7 28. Ne5+ Kg8 29. Qc6 {Source: Phillips book 2003} 1-0
+
+[Event "BCF-ch 35th Premier"]
+[Site "London, Bishopsgate"]
+[Date "1948.08.31"]
+[Round "2"]
+[White "Wallis, Philip Norman"]
+[Black "Sergeant, Edward Guthlac"]
+[Result "0-1"]
+[ECO "A07"]
+[PlyCount "60"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 Bf5 4. O-O e6 5. b3 Nbd7 6. Bb2 Bd6 7. c4 O-O 8. d3
+Qe7 9. Nd4 Bg6 10. Nb5 Rfe8 11. Nxd6 Qxd6 12. Nd2 Rad8 13. f4 Qb6+ 14. d4 Ng4
+15. Rf3 Be4 16. Nxe4 dxe4 17. Rc3 e5 18. fxe5 Ndxe5 19. c5 Qf6 20. Qe1 Nd3 21.
+Rxd3 exd3 22. e4 Qh6 23. h3 d2 24. Qe2 Qe3+ 25. Qxe3 Nxe3 26. Bf3 c6 27. Kf2
+Rxe4 28. b4 d1=Q 29. Bxd1 Nxd1+ 30. Rxd1 f5 {"and Black won" (BCM)} 0-1
+
+[Event "BCF-ch 35th Premier"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.03"]
+[Round "5"]
+[White "Penrose, Jonathan"]
+[Black "Wallis, Philip Norman"]
+[Result "1-0"]
+[ECO "A40"]
+[PlyCount "71"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 e6 2. c4 b6 3. e4 Bb7 4. Nc3 Bb4 5. Qc2 Qh4 6. d5 f5 7. exf5 exd5 8. cxd5
+Bxd5 9. Bd2 Bxc3 10. Bxc3 Nf6 11. O-O-O O-O 12. f3 Bb7 13. Ne2 c5 14. Kb1 Nd5
+15. Bd2 a5 16. a3 Kh8 17. Ng3 Nc6 18. Qe4 Qxe4+ 19. fxe4 Nf6 20. Bc3 Rad8 21.
+Rd6 Ne8 22. Rd2 d5 23. exd5 Ne7 24. Bc4 Nd6 25. f6 gxf6 26. Ba2 Kg8 27. Re1 Kf7
+28. Re6 Ng8 29. Rf2 Kg6 30. Kc1 Bc8 31. Bb1+ Kh6 32. Rf4 Bxe6 33. Rh4+ Kg5 34.
+Rh5+ Kf4 35. Bd2+ Kg4 36. Bc2 {Sources: Glasgow Herald, 10 Sept 1948; Essex
+County Chess Association, Jubilee Handbook 1948} 1-0
+
+[Event "BCF-ch 35th Premier"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.04"]
+[Round "6"]
+[White "Hooper, David Vincent"]
+[Black "Barden, Leonard William"]
+[Result "1-0"]
+[ECO "D66"]
+[PlyCount "57"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Rc1 Nbd7 7. Nf3 c6 8. Bd3
+h6 9. Bh4 dxc4 10. Bxc4 b5 11. Bd3 a6 12. O-O c5 13. a4 c4 14. Bb1 Qb6 15. Ne5
+Rd8 16. f4 Bb7 17. Qe2 Rac8 18. f5 Bd5 19. axb5 axb5 20. Nxd7 Rxd7 21. fxe6
+Bxe6 22. Qc2 Rdd8 23. d5 Bd7 24. d6 Qxd6 25. Rcd1 Qe5 26. Bxf6 Bxf6 27. Qh7+
+Kf8 28. Nd5 g6 29. Rxf6 {Source: BCM, Oct 1948, p346} 1-0
+
+[Event "BCF-ch 35th Premier"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.04"]
+[Round "6"]
+[White "Penrose, Oliver"]
+[Black "Truscott, Alan Fraser"]
+[Result "1-0"]
+[ECO "B71"]
+[PlyCount "51"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f4 Nc6 7. Nxc6 bxc6 8.
+e5 dxe5 9. Qxd8+ Kxd8 10. fxe5 Ng4 11. Bf4 g5 12. O-O-O+ Ke8 13. Nb5 Bd7 14.
+Nc7+ Kd8 15. e6 fxe6 16. Nxe6+ Ke8 17. Nc7+ Kd8 18. Ne6+ {(The version in BCM
+does not include this repetition, nor does the Glasgow Herald one)} Ke8 19.
+Nc7+ Kd8 20. Nxa8 gxf4 21. Bc4 Kc8 22. Ba6+ (22. Rxd7 Kxd7 23. Rd1+ Kc8 24.
+Ba6+ Kb8 25. Rd8#) 22... Kd8 23. Bc4 Nf2 24. Be6 Nxh1 25. Rxd7+ Kc8 26. Rxe7+ {
+Sources: Glasgow Herald, 10 Sept 1948; Essex County Chess Association, Jubilee
+Handbook 1948} 1-0
+
+[Event "BCF-ch 35th Premier"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.07"]
+[Round "8"]
+[White "Hooper, David Vincent"]
+[Black "Truscott, Alan Fraser"]
+[Result "0-1"]
+[ECO "E67"]
+[PlyCount "68"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Nbd7 4. g3 e5 5. Bg2 g6 6. O-O Bg7 7. Nc3 O-O 8. Qc2
+c6 9. h3 Qe7 10. e4 exd4 11. Nxd4 Nc5 12. Bf4 a5 13. Rad1 Ne8 14. Be3 Nc7 15.
+Rfe1 N7e6 16. Nf5 gxf5 17. exf5 Qc7 18. fxe6 Bxe6 19. Bxc5 dxc5 20. Ne4 Qe5 21.
+Nd6 Qxb2 22. Qe4 Qxa2 23. Bf1 Rfd8 24. Qf4 Qb2 25. Rxe6 fxe6 26. Qf7+ Kh8 27.
+Qxe6 Rxd6 28. Rxd6 Rf8 29. Be2 Bd4 30. Qe4 Qa1+ 31. Bf1 Rxf2 32. Qxd4+ Qxd4 33.
+Rxd4 Rxf1+ 34. Kxf1 cxd4 {Source: BCM, Nov 1948, p376} 0-1
+
+[Event "BCF-ch 35th Premier"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.09"]
+[Round "8"]
+[White "Hirsch, Kurt August"]
+[Black "Wallis, Philip Norman"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "1r5k/2p4p/bn1p2p1/p1pPp1q1/P1P1P1P1/2PBNP2/R3Q3/4K3 b - - 0 33"]
+[PlyCount "3"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+33... Bxc4 34. Nxc4 Nxc4 {... x moves} 0-1
+
+[Event "BCF-ch 35th Premier"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.09"]
+[Round "10"]
+[White "Hooper, David Vincent"]
+[Black "Penrose, Jonathan"]
+[Result "1-0"]
+[ECO "E32"]
+[PlyCount "69"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d6 5. Nf3 Nbd7 6. g3 e5 7. Bg2 O-O 8. O-O
+Bxc3 9. Qxc3 Qe7 10. b3 c5 11. dxe5 dxe5 12. Bb2 Re8 13. Rad1 Rb8 14. e3 b6 15.
+Nh4 Nf8 16. Bc6 Bd7 17. Bxd7 N8xd7 18. f4 Qe6 19. fxe5 Qxe5 20. Nf5 Qxc3 21.
+Bxc3 Rbd8 22. Nxg7 {winning a pawn... (moves to here) Source: BCM, Nov 1948,
+p378...} Kxg7 23. Rd6 Kg8 24. Bxf6 Nxf6 25. Rxd8 Rxd8 26. Rxf6 Rd3 27. Rf3 Rd2
+28. Rf2 Rd3 29. Re2 a5 30. Kf2 Kg7 31. Rc2 Rd1 32. Kf3 f5 33. e4 Rf1+ 34. Kg2
+Rb1 35. exf5 {and 1-0 (57 moves) Source: 'Reflections' by David Hooper, pages
+15-16. Contributed by Andy Ansel.} 1-0
+
+[Event "BCF-ch 35th Premier"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.10"]
+[Round "11"]
+[White "Perkins, Nicholas Anthony"]
+[Black "Rhodes, Herbert Gibson"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/1p4p1/p1pn2k1/P6p/2PP4/1R6/5PK1/8 w - - 0 40"]
+[PlyCount "17"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+40. d5 Nxc4 41. Rxb7 cxd5 42. Rb6+ Kf5 43. Rxa6 Ke4 44. Ra8 d4 45. Re8+ Kf4 46.
+a6 d3 47. a7 Nb6 48. Re3 {Source: BCM, Nov 1948, p380} 1-0
+
+[Event "BCF-ch 35th Premier"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.10"]
+[Round "11"]
+[White "Wallis, Philip Norman"]
+[Black "Hooper, David Vincent"]
+[Result "1-0"]
+[ECO "A09"]
+[Annotator "part-game"]
+[PlyCount "27"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. O-O e5 5. c4 d4 6. d3 g6 7. e3 Bg7 8. exd4
+cxd4 9. b4 Nge7 10. b5 Nb8 11. Re1 f6 12. Ba3 O-O 13. Bxe7 Qxe7 14. Nxd4 {...
+41 moves. Source: BCM, Nov 1948, p380} 1-0
+
+[Event "BCF-chW 35th"]
+[Site "London, Bishopsgate"]
+[Date "1948.09.10"]
+[Round "10"]
+[White "Tranmer, Eileen Betsy"]
+[Black "Price, Edith Charlotte"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "5R2/1kr3p1/p3p2p/2qpP2P/1b1N2P1/nP1Q4/PK1B4/8 b - - 0 44"]
+[PlyCount "27"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "GBR"]
+
+44... Nb5 45. Nxb5 axb5 46. Rf1 Ba3+ 47. Kb1 Ka6 48. Be3 Qe7 49. Bd2 Bb4 50. a4
+Bxd2 51. axb5+ Kb6 52. Qxd2 Kxb5 53. Qd3+ Kb6 54. Kb2 Qb4 55. Ra1 Ra7 56. Rc1
+Qa3+ 57. Kc2 Rc7+ {Source: BCM, Nov 1948, p380} 0-1
+
+[Event "BCF-ch 35th First Class A"]
+[Site "London, Bishopsgate"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Derby, Leo"]
+[Black "Cook, Percy Baldwin"]
+[Result "0-1"]
+[ECO "D04"]
+[PlyCount "66"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 c5 4. c3 Nbd7 5. Bd3 g6 6. Nbd2 Bg7 7. O-O O-O 8. Re1
+Re8 9. Ne5 Nxe5 10. dxe5 Nd7 11. f4 Nf8 12. Nf3 Bg4 13. h3 Bxf3 14. Qxf3 e6 15.
+e4 d4 16. Bb5 Re7 17. cxd4 Qxd4+ 18. Be3 Qb4 19. Qe2 Rc7 20. Rac1 Rd8 21. a3
+Qxe4 22. Bxc5 Qxe2 23. Bxe2 Rd2 24. Be3 Rxc1 25. Bxd2 Rxe1+ 26. Bxe1 g5 27. g3
+gxf4 28. gxf4 Bh6 29. Bd2 Ng6 30. f5 Bxd2 31. fxg6 hxg6 32. b3 Bc3 33. Kg2 Bxe5
+{"and wins" source: Essex County Chess Association, Jubilee Handbook 1948} 0-1
+
+[Event "BCF-ch 35th First Class A"]
+[Site "London, Bishopsgate"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Glyde, Lawrence AJ"]
+[Black "Mortimer, EC (Rev)"]
+[Result "1-0"]
+[ECO "D06"]
+[PlyCount "37"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Bf5 4. c4 c6 5. Nc3 e6 6. Qb3 Qc8 7. Bd2 Bd6 8. Rc1
+Nbd7 9. cxd5 exd5 10. Nb5 Be7 11. Bb4 Qb8 12. Bxe7 Kxe7 13. Qa3+ Kd8 14. Nd6
+Be6 15. Qb4 Nb6 16. Ne5 Qc7 17. Bb5 Ne4 18. Nxb7+ Qxb7 19. Nxc6+ {source:
+Essex County Chess Association, Jubilee Handbook 1948} 1-0
+
+[Event "BCF-ch 35th First Class A"]
+[Site "London, Bishopsgate"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Smith, JW."]
+[Black "Mortimer, EC (Rev)"]
+[Result "1-0"]
+[ECO "D10"]
+[PlyCount "51"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 Nf6 2. Nc3 c6 3. d4 d5 4. e3 dxc4 5. Bxc4 b5 6. Bxb5 cxb5 7. Qf3 Bd7 8.
+Qxa8 Bc6 9. Qxa7 b4 10. d5 Nxd5 11. Nxd5 Bxd5 12. Nf3 e6 13. Ne5 Be7 14. Qa4+
+Nd7 15. O-O f6 16. Qxd7+ Qxd7 17. Nxd7 Kxd7 18. Rd1 Kc6 19. b3 Ra8 20. Bb2 Bc5
+21. Bd4 Bd6 22. f3 e5 23. Rac1+ Kd7 24. Bc5 Ke6 25. Bxd6 Kxd6 26. e4 {Source:
+Sussex Daily News, 5 Jan 1949. The article states that the game was played in
+the Major event, but the British Chess Magazine of October 1948 tells us that
+Smith came third in the First Class 'A' event.} 1-0
+
+[Event "BCF-ch 35th Swiss Tournament"]
+[Site "London, Bishopsgate"]
+[Date "1948.??.??"]
+[Round "?"]
+[White "Wood, EG (Rev)"]
+[Black "Richards, NP."]
+[Result "1-0"]
+[ECO "A46"]
+[PlyCount "11"]
+[EventDate "1948.08.30"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 Bb4+ 4. c3 Ba5 5. Nbd2 b6 $4 6. b4 {Source: CHESS,
+November 1948.} 1-0
+

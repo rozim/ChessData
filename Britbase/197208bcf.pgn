@@ -1,0 +1,4347 @@
+﻿[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "Basman, Michael John"]
+[Black "Speelman, Jonathan S"]
+[Result "0-1"]
+[ECO "B02"]
+[WhiteElo "2385"]
+[PlyCount "76"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 e6 4. g3 d6 5. exd6 Bxd6 6. Bg2 O-O 7. Nge2 Bd7 8.
+Nxd5 exd5 9. Bxd5 Bh3 10. Bxb7 Nd7 11. d4 Rb8 12. Bf3 Qf6 13. Ng1 Rfe8+ 14. Be3
+Bf5 15. g4 Bg6 16. b3 c5 17. Kf1 cxd4 18. Bxd4 Be5 19. c3 Rbd8 20. Kg2 Bxd4 21.
+cxd4 Ne5 22. Bb7 Nd3 23. Nh3 Rxd4 24. Qf3 Qe6 25. Rhd1 h6 26. Rxd3 Rxd3 27. Nf4
+Rxf3 28. Nxe6 Rc3 29. Nf4 Be4+ 30. Bxe4 Rxe4 31. Nd5 Rxg4+ 32. Kf1 Rc5 33. Rd1
+Re4 34. Ne3 Re7 35. Rd8+ Kh7 36. b4 Rc1+ 37. Ke2 Rc2+ 38. Rd2 Rxd2+ 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "Bellin, Robert"]
+[Black "Hindle, Owen"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+[WhiteElo "2315"]
+[PlyCount "69"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. d5 Nb4 15.
+Bb1 a5 16. a3 Na6 17. b4 Bd7 18. bxa5 Qxa5 19. Nb3 Qc7 20. Bd2 Rfc8 21. Ra2 Qb8
+22. Bd3 Nc5 23. Nxc5 dxc5 24. Bc3 Bd6 25. Qa1 c4 26. Bf1 Re8 27. Nh2 Qc7 28.
+Kh1 Ra4 29. g4 Rea8 30. f4 Rxa3 31. Rxa3 Rxa3 32. Qb2 Rb3 33. Qa1 Ra3 34. Qb2
+Rb3 35. Qa1 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "Edwards, Raymond B"]
+[Black "Corden, Martyn"]
+[Result "0-1"]
+[ECO "D88"]
+[BlackElo "2275"]
+[PlyCount "102"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 O-O 9. O-O Nc6 10. Be3 cxd4 11. cxd4 Bg4 12. f3 Na5 13. Rc1 Nxc4 14. Rxc4
+Bd7 15. Qb3 a6 16. d5 Bb5 17. Rc2 Qd7 18. Qb4 Rfc8 19. Rfc1 Bxe2 20. Rxe2 Rxc1+
+21. Bxc1 Rc8 22. Ba3 Bc3 23. Qb3 b5 24. Bc1 Bd4+ 25. Be3 Rc3 26. Bxd4 Rxb3 27.
+axb3 Qc7 28. Ra2 f6 29. g3 a5 30. Kg2 a4 31. bxa4 bxa4 32. Ra3 Qc1 33. Ra2 Qc4
+34. Rd2 a3 35. Ba1 Qb4 36. Ra2 Qb3 37. Rf2 Kf7 38. Rf1 h5 39. h4 a2 40. Rf2 g5
+41. hxg5 fxg5 42. Rb2 Qc4 43. Kf2 g4 44. fxg4 hxg4 45. Re2 Qb3 46. Be5 Qf3+ 47.
+Ke1 a1=Q+ 48. Bxa1 Qh1+ 49. Kd2 Qxa1 50. Rf2+ Ke8 51. Rf4 Qg1 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "Eley, Brian"]
+[Black "Lee, Peter N"]
+[Result "1-0"]
+[ECO "B61"]
+[BlackElo "2390"]
+[PlyCount "80"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Qd2 Rc8 8.
+O-O-O Nxd4 9. Qxd4 Qa5 10. Bd2 a6 11. f3 Qc5 12. Qxc5 Rxc5 13. Be3 Rc8 14. Kb1
+Bc6 15. Nd5 Nd7 16. c4 e6 17. Nb4 Be7 18. Be2 O-O 19. Bf4 Ne5 20. Nxc6 Rxc6 21.
+Bxe5 dxe5 22. Rd7 Bc5 23. Rxb7 a5 24. Kc2 g5 25. Rd1 Bd4 26. Kb3 Rfc8 27. Rb5
+Rc5 28. Rxc5 Rxc5 29. Ka3 Kf8 30. b3 Ke7 31. Ka4 Rc7 32. a3 Ra7 33. Rh1 Bf2 34.
+Rd1 Bd4 35. g3 Kd6 36. Rh1 Kc5 37. h4 Be3 38. hxg5 Bxg5 39. Rxh7 Kd4 40. Bd1
+Ke3 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "Farrand, Julian T"]
+[Black "Keene, Raymond"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[BlackElo "2435"]
+[PlyCount "54"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. Be2 Bg7 5. Be3 O-O 6. h3 Na6 7. Nf3 c5 8. d5
+Nc7 9. O-O a6 10. a4 b6 11. Qd2 Rb8 12. Bh6 b5 13. Bxg7 Kxg7 14. e5 dxe5 15.
+axb5 axb5 16. Nxe5 Bb7 17. Nxb5 Ncxd5 18. c4 Nb4 19. Qf4 Qb6 20. Bf3 Ba6 21.
+Nc3 Rbc8 22. Rfd1 Nc2 23. Rac1 Nd4 24. Bg4 Rcd8 25. Na4 Qd6 26. Qe3 Nxg4 27.
+hxg4 Bb7 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "Haygarth, Michael J"]
+[Black "Pritchard, David B"]
+[Result "1-0"]
+[ECO "C42"]
+[PlyCount "103"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Bg5 Qxe2+ 8.
+Bxe2 Be7 9. Nc3 h6 10. Bf4 O-O 11. Nd4 a6 12. Bf3 c5 13. Nb3 Nc6 14. O-O Be6
+15. Ne4 Ne8 16. Rfe1 a5 17. Nc1 Nd4 18. Bd1 b5 19. c3 Nc6 20. a4 b4 21. Nb3
+bxc3 22. bxc3 g5 23. Bd2 c4 24. dxc4 Bxc4 25. Nd4 Nxd4 26. cxd4 f5 27. Ng3 Bd8
+28. Nxf5 Rxf5 29. Rxe8+ Rf8 30. Rxf8+ Kxf8 31. Rb1 Bf6 32. Be3 Re8 33. Bh5 Re7
+34. h3 Ra7 35. Bf3 d5 36. h4 Ke7 37. hxg5 hxg5 38. Rb6 Rc7 39. Rb8 Ba2 40. Rb5
+Kd6 41. Rxa5 Bb3 42. Rb5 Bc4 43. Rb8 Ra7 44. Rg8 Rxa4 45. Rg6 Ke7 46. Bxg5 Bxg5
+47. Rxg5 Ke6 48. Bg4+ Kd6 49. Rf5 Bd3 50. Rf6+ Kc7 51. Rf4 Kb6 52. Be6 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "Hutchings, Stuart"]
+[Black "Penrose, Jonathan"]
+[Result "1/2-1/2"]
+[ECO "A06"]
+[BlackElo "2450"]
+[PlyCount "95"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. Nf3 c5 2. b3 d5 3. e3 Nf6 4. Bb2 e6 5. Bb5+ Bd7 6. Bxd7+ Nbxd7 7. O-O Be7 8.
+c4 O-O 9. d3 a6 10. Nbd2 b5 11. Qe2 Qb6 12. Bc3 Rfd8 13. Rfb1 Nf8 14. b4 cxb4
+15. Bxb4 Bxb4 16. Rxb4 Qa5 17. a3 bxc4 18. dxc4 Rab8 19. Nb3 Qc7 20. cxd5 Nxd5
+21. Rc1 Qd6 22. Rxb8 Rxb8 23. Nfd2 Qxa3 24. Ra1 Qb2 25. Rb1 Nc3 26. Rxb2 Nxe2+
+27. Kf1 Nc1 28. Rb1 Nxb3 29. Nxb3 f6 30. Ke2 Kf7 31. Kd3 Nd7 32. Kc2 Rc8+ 33.
+Kd2 Rb8 34. Kc2 Ne5 35. Ra1 Rb6 36. h3 Rc6+ 37. Kd2 Nc4+ 38. Ke2 Ke7 39. Nd4
+Rb6 40. Rc1 Rb2+ 41. Ke1 Ne5 42. Rc7+ Nd7 43. g3 g6 44. Ra7 Rb6 45. f4 h5 46.
+g4 hxg4 47. hxg4 Kd6 48. Nf3 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "James, Geoffrey H"]
+[Black "Miles, Anthony J"]
+[Result "0-1"]
+[ECO "A36"]
+[BlackElo "2285"]
+[PlyCount "80"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 g6 2. Nc3 c5 3. g3 Bg7 4. Bg2 Nc6 5. e3 e5 6. Nge2 Nge7 7. O-O d6 8. Nd5
+Nxd5 9. cxd5 Ne7 10. d4 exd4 11. exd4 cxd4 12. Nxd4 O-O 13. Be3 Nf5 14. Nxf5
+Bxf5 15. Bd4 Rc8 16. Bxg7 Kxg7 17. Qd4+ Qf6 18. Qxf6+ Kxf6 19. Rac1 Rfe8 20.
+Rxc8 Rxc8 21. f4 h5 22. h4 Rc2 23. Rf2 Rc1+ 24. Rf1 Rxf1+ 25. Kxf1 Bb1 26. a3
+Kf5 27. Kf2 Be4 28. Bh3+ Kf6 29. Bg2 Bxg2 30. Kxg2 Kf5 31. Kf3 a6 32. b4 b5 33.
+Ke3 Kg4 34. Kf2 Kh3 35. f5 Kg4 36. fxg6 fxg6 37. Kg2 Kf5 38. Kf3 Ke5 39. g4
+Kxd5 40. gxh5 gxh5 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "Lemon, Richard C"]
+[Black "Hartston, William R"]
+[Result "1/2-1/2"]
+[ECO "B49"]
+[BlackElo "2420"]
+[PlyCount "83"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be2 Qc7 7. Be3 b5 8.
+Nxc6 Qxc6 9. e5 Bb7 10. Bf3 Qc7 11. Bxb7 Qxb7 12. O-O Qc7 13. f4 Nh6 14. Qd3
+Be7 15. Rad1 Rd8 16. Ne4 Nf5 17. Qe2 O-O 18. Rd2 d5 19. exd6 Bxd6 20. Nxd6 Rxd6
+21. Rfd1 Rfd8 22. Bf2 Rxd2 23. Rxd2 Rxd2 24. Qxd2 h6 25. h3 Ne7 26. Bd4 Nd5 27.
+g3 Qc6 28. b3 Ne7 29. Qg2 Qd7 30. Qa8+ Kh7 31. Qe4+ f5 32. Qd3 Nc6 33. Bc3 Qxd3
+34. cxd3 Kg6 35. Kf2 Kf7 36. g4 g6 37. Ke3 Ke7 38. Kf3 Kf7 39. Ke3 h5 40. gxh5
+gxh5 41. Kf3 Ne7 42. a3 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "Littlewood, John Eric"]
+[Black "Harman, Ronald FA"]
+[Result "1-0"]
+[ECO "B47"]
+[WhiteElo "2340"]
+[PlyCount "81"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Nb3 a6 7. Bd3 Nf6 8. f4
+d6 9. Qf3 Be7 10. O-O O-O 11. g4 Nd7 12. Qh3 Nb4 13. g5 Nxd3 14. cxd3 Qd8 15.
+Kh1 Re8 16. Rg1 Nf8 17. Qf3 g6 18. Bd2 b5 19. Nd1 d5 20. Nf2 f5 21. gxf6 Bxf6
+22. e5 Bg7 23. Ba5 Qe7 24. Rac1 Qf7 25. Nd4 Bb7 26. Nh3 Rac8 27. Rcf1 Bh6 28.
+Qe3 Qe7 29. a3 Kh8 30. Rg2 Bc6 31. Kg1 Bd7 32. Ng5 Qg7 33. Bb4 Kg8 34. Bd6 Ra8
+35. Qh3 a5 36. Nc2 Rac8 37. Ne3 Rc6 38. Ng4 Bxg5 39. fxg5 Rec8 40. Rgf2 Rxd6
+41. exd6 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "McFarland, Robert S"]
+[Black "Webb, Simon"]
+[Result "1-0"]
+[ECO "C19"]
+[PlyCount "72"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Nf3 Nbc6 8.
+Bd3 Qa5 9. O-O c4 10. Be2 f6 11. exf6 gxf6 12. Qd2 Nf5 13. Re1 Bd7 14. a4 O-O-O
+15. Ba3 Be8 16. Reb1 Rg8 17. Kh1 Rg7 18. Bf8 Rg4 19. Ba3 Re4 20. Rb5 Qc7 21.
+Rab1 b6 22. Ng1 Rf4 23. Qe1 Re4 24. Qd2 Ncxd4 25. cxd4 Bxb5 26. axb5 c3 27. Qd1
+Nxd4 28. Bd3 Rf4 29. Bc1 Rh4 30. g3 Rg8 31. gxh4 Qg7 32. Qf1 Qg4 33. f3 Qxh4
+34. Be3 e5 35. Qf2 Qh5 36. Bxd4 exd4 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "Mestel, A Jonathan"]
+[Black "Knox, Victor W"]
+[Result "1-0"]
+[ECO "C50"]
+[PlyCount "131"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. d4 Bg4 5. c3 Qf6 6. Qb3 O-O-O 7. Bg5 Qg6 8.
+Bxd8 Qxe4+ 9. Be2 Nxd8 10. Nbd2 Qf4 11. dxe5 dxe5 12. Qc4 Qxc4 13. Bxc4 f6 14.
+O-O Ne7 15. h3 Bd7 16. Rad1 Ne6 17. Ne4 Nf5 18. Rfe1 Nf4 19. Bb3 Nd6 20. Bc2
+Be7 21. Nxd6+ Bxd6 22. Nd2 Be7 23. Nc4 g6 24. h4 Rd8 25. g3 Ne6 26. Ne3 c6 27.
+b4 Bf8 28. Bb3 Bg7 29. Rd2 Kc7 30. Red1 Bc8 31. Rxd8 Nxd8 32. Bg8 h6 33. Bh7 g5
+34. h5 Bf8 35. Kg2 Nf7 36. Bf5 Nd6 37. Bxc8 Kxc8 38. g4 Kc7 39. a4 Ne4 40. Rd3
+Nd6 41. Nf1 Kd7 42. Ng3 Ke6 43. Kf3 Be7 44. Rd1 Bf8 45. Ne4 b6 46. Nxd6 Bxd6
+47. Ke4 Be7 48. f3 Bd6 49. c4 Bxb4 50. Rd8 a5 51. Rc8 Kd7 52. Rh8 b5 53. cxb5
+cxb5 54. axb5 a4 55. Ra8 a3 56. Kd5 Kc7 57. Kc4 Bd6 58. Ra6 f5 59. gxf5 e4 60.
+fxe4 g4 61. Kb3 g3 62. Ra7+ Kb6 63. Rg7 Kxb5 64. f6 Kc5 65. f7 Kd4 66. Rxg3 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "Perkins, Alan H"]
+[Black "Emsley, JS."]
+[Result "1/2-1/2"]
+[ECO "E65"]
+[PlyCount "79"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 g6 4. Bg2 Bg7 5. Nf3 d6 6. d4 Nbd7 7. O-O O-O 8. e4
+cxd4 9. Nxd4 a6 10. h3 Qc7 11. Qe2 Nc5 12. Be3 e5 13. Nc2 Be6 14. Rfd1 Ncd7 15.
+Na3 Rac8 16. Rac1 Bxc4 17. Nxc4 Qxc4 18. Qd2 Qb4 19. b3 Rc6 20. Qb2 Rfc8 21. a3
+Qa5 22. b4 Qc7 23. Na4 b5 24. Rxc6 Qxc6 25. Rc1 Qb7 26. Rxc8+ Qxc8 27. Nc3 Qc6
+28. Qb3 Nb6 29. Bxb6 Qxb6 30. Nd5 Qd4 31. Nxf6+ Bxf6 32. Bf3 Bg5 33. Kg2 Bd2
+34. Qc2 Qc3 35. Qxc3 Bxc3 36. Bd1 Bb2 37. a4 Ba3 38. axb5 axb5 39. Be2 Bxb4 40.
+Bxb5 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "Pritchett, Craig"]
+[Black "Cooke, John R"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2340"]
+[PlyCount "51"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 a6 10. O-O-O Nxd4 11. Bxd4 Bxd4 12. Qxd4 f6 13. exf6 Qxf6 14. g3
+Qxd4 15. Rxd4 Kf7 16. f5 exf5 17. Nxd5 b5 18. Bh3 g6 19. Re1 Rb8 20. g4 Nb6 21.
+Re7+ Kf8 22. Ra7 Nxd5 23. Rxd5 Be6 24. Rd6 fxg4 25. Bg2 Bf5 26. Bc6 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "Stean, Michael"]
+[Black "Trangmar, Alan G"]
+[Result "0-1"]
+[ECO "B36"]
+[WhiteElo "2275"]
+[PlyCount "81"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Dragon"]
+[Source "CUCC"]
+[SourceDate "1998.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "1998.01.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6 8.
+Be2 Bg7 9. O-O O-O 10. Bg5 h6 11. Bd2 Bd7 12. Qe3 a6 13. a4 b6 14. Ra2 Qc7 15.
+a5 bxa5 16. Rfa1 Rfb8 17. Bc1 Ng4 18. Bxg4 Bxg4 19. Qd3 Be6 20. Nd5 Bxd5 21.
+Qxd5 e6 22. Qd3 Rb4 23. Rxa5 Qxc4 24. Qxd6 Qxe4 25. Be3 Rxb2 26. h3 Rb5 27.
+R5a4 Rb1+ 28. Rxb1 Qxb1+ 29. Kh2 Qb5 30. Qa3 Be5+ 31. g3 Qf1 32. Qc5 Rd8 33.
+Rh4 Qb5 34. Qc1 Bf6 35. Rxh6 Kg7 36. Rh4 Bxh4 37. gxh4 Qe5+ 38. Bf4 Qd5 39.
+Qa1+ f6 40. Qxa6 Rd7 41. Qa1 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Clarke, Peter H"]
+[Result "0-1"]
+[ECO "C84"]
+[BlackElo "2360"]
+[PlyCount "84"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 exd4 7. Re1 O-O 8. e5
+Ne8 9. Bf4 f6 10. Bxc6 dxc6 11. Qxd4 Qxd4 12. Nxd4 fxe5 13. Bxe5 Bf6 14. Nc3
+Nd6 15. f4 Bxe5 16. fxe5 Nf5 17. Nf3 h6 18. Ne2 c5 19. Nc3 Be6 20. Rad1 Rad8
+21. b3 Nd4 22. Nxd4 cxd4 23. Ne4 b6 24. Rd2 Rd5 25. Nf2 c5 26. Nd3 g5 27. Rf2
+Rxf2 28. Kxf2 Kf7 29. h4 Bf5 30. hxg5 hxg5 31. Rh1 Bxd3 32. cxd3 Rxe5 33. Rh7+
+Kg6 34. Rb7 Re6 35. g3 Kf5 36. Rf7+ Kg4 37. Rf8 Re3 38. Rf6 Rxd3 39. Rxb6 Rd2+
+40. Ke1 Rxa2 41. Rc6 Rc2 42. Rxa6 Kxg3 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.14"]
+[Round "1"]
+[White "Williams, A Howard"]
+[Black "Sherman, David"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2390"]
+[PlyCount "40"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 c6 4. c3 d5 5. Nbd2 dxe4 6. Nxe4 Nd7 7. Bc4 Nh6 8.
+Bg5 Nb6 9. Bb3 O-O 10. O-O Nf5 11. Re1 h6 12. Bd2 a5 13. Nc5 Nd5 14. Ne5 e6 15.
+Qf3 b6 16. Ne4 c5 17. Ng3 Nxg3 18. Bxd5 Qxd5 19. Qxd5 exd5 20. hxg3 Re8 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Clarke, Peter H"]
+[Black "Littlewood, John Eric"]
+[Result "1/2-1/2"]
+[ECO "D25"]
+[WhiteElo "2360"]
+[BlackElo "2340"]
+[PlyCount "33"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 Bg4 5. Bxc4 e6 6. O-O Nc6 7. h3 Bh5 8. Bb5
+Bd6 9. Bd2 O-O 10. Bc3 Ne4 11. Nbd2 Nxd2 12. Bxd2 e5 13. Bxc6 bxc6 14. dxe5
+Bxf3 15. Qxf3 Bxe5 16. Bc3 Bxc3 17. bxc3 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Cooke, John R"]
+[Black "Stean, Michael"]
+[Result "0-1"]
+[ECO "B93"]
+[BlackElo "2275"]
+[PlyCount "68"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 Qc7 7. Bd3 Nbd7 8.
+Be3 b5 9. a3 Bb7 10. Nf3 g6 11. Qe2 Bg7 12. O-O O-O 13. Kh1 e5 14. fxe5 dxe5
+15. Rad1 Rae8 16. h3 Nh5 17. Qe1 f5 18. Nd2 Ndf6 19. Kg1 Nf4 20. Kh2 g5 21. g3
+Nxd3 22. cxd3 f4 23. Bg1 Qd7 24. Rf3 g4 25. hxg4 Qxg4 26. gxf4 Nh5 27. Be3 exf4
+28. Qg1 Bc8 29. Bc5 Qh4+ 30. Kg2 Rf6 31. Qf2 Rg6+ 32. Kf1 Bh3+ 33. Rxh3 Qxh3+
+34. Ke1 Rg2 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Corden, Martyn"]
+[Black "Haygarth, Michael J"]
+[Result "1/2-1/2"]
+[ECO "C16"]
+[WhiteElo "2275"]
+[PlyCount "119"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Bd2 b6 6. Nb5 Bf8 7. Qg4 Ne7 8. Bb4
+Nbc6 9. Bxe7 Nxe7 10. Nf3 Nf5 11. Bd3 a6 12. Nc3 Bb7 13. O-O g6 14. Ne2 h5 15.
+Qf4 Bh6 16. Ng5 Qe7 17. h4 Nxh4 18. Qxh4 Qxg5 19. Qh3 c5 20. f4 Qe7 21. c3 c4
+22. Bc2 Bc6 23. Qf3 Kd8 24. b3 b5 25. a4 Kc7 26. b4 Qd7 27. a5 Raf8 28. g3 f5
+29. Kf2 Qe7 30. Rh1 Be8 31. Ke3 Kc6 32. Rag1 Rfg8 33. Bd1 g5 34. Qf2 h4 35.
+gxh4 gxf4+ 36. Nxf4 Rxg1 37. Rxg1 Bxf4+ 38. Qxf4 Rxh4 39. Qg5 Rh3+ 40. Bf3
+Qxg5+ 41. Rxg5 Bf7 42. Kf2 Kd7 43. Kg2 Rh7 44. Kg3 Ke7 45. Kg2 Kf8 46. Kg3 Rh6
+47. Kg2 Bg6 48. Kg3 Kg7 49. Kg2 Kh7 50. Kg3 Bf7 51. Kf4 Rh3 52. Rg3 Rh4+ 53.
+Kg5 Rh6 54. Be2 Kg7 55. Kf4+ Bg6 56. Bf3 Rh4+ 57. Kg5 Rh2 58. Bd1 Kf7 59. Bf3
+Rh8 60. Kf4 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Emsley, JS."]
+[Black "Williams, A Howard"]
+[Result "0-1"]
+[ECO "A26"]
+[BlackElo "2390"]
+[PlyCount "92"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nf3 Nf6 7. O-O O-O 8. a3
+Nd4 9. Nd2 c6 10. e3 Ne6 11. Nf3 Nh5 12. Qc2 f5 13. b4 g5 14. Bb2 g4 15. Nh4 f4
+16. Be4 Nf6 17. Nf5 Rf7 18. Nxg7 Rxg7 19. exf4 Nd4 20. Qd1 Qe8 21. Bg2 Qh5 22.
+Ne4 Nxe4 23. Bxd4 Nf6 24. fxe5 dxe5 25. Bb2 Bd7 26. d4 e4 27. d5 Rg6 28. h4
+gxh3 29. Qxh5 Nxh5 30. Bxe4 Rg4 31. Bf3 Rg5 32. dxc6 Bxc6 33. Bxc6 bxc6 34. Kh2
+Rf8 35. Rae1 Rg6 36. Kxh3 Rf5 37. Re4 Nxg3 38. fxg3 Rxf1 39. Re8+ Rf8 40. Re7
+Rf3 41. Rxa7 Rfxg3+ 42. Kh4 Rg1 43. Rg7+ Rxg7 44. Bxg7 Kxg7 45. b5 cxb5 46.
+cxb5 Ra1 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Harman, Ronald FA"]
+[Black "Bellin, Robert"]
+[Result "1/2-1/2"]
+[ECO "B57"]
+[BlackElo "2315"]
+[PlyCount "81"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nb3 e6 8.
+O-O Be7 9. Be3 Qc7 10. f4 a6 11. a4 b6 12. Qe2 Bb7 13. h3 O-O 14. Qf2 Nb4 15.
+Bd3 Nd7 16. Rfd1 Nc5 17. Nxc5 bxc5 18. Na2 Nxa2 19. Rxa2 c4 20. Bf1 Bxe4 21.
+Rd4 Bd5 22. f5 Bf6 23. Rd1 c3 24. b3 Bb7 25. a5 d5 26. Bb6 Qc6 27. Ra4 g6 28.
+fxg6 fxg6 29. Qg3 Rf7 30. h4 e5 31. h5 g5 32. h6 e4 33. Be2 Raf8 34. Bg4 Be7
+35. Bh5 Rf5 36. Bg4 R5f6 37. Bd4 Rxh6 38. Qe5 Bf6 39. Be6+ Kg7 40. Qxg5+ Rg6
+41. Qxd5 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Hartston, William R"]
+[Black "Farrand, Julian T"]
+[Result "1-0"]
+[ECO "A35"]
+[WhiteElo "2420"]
+[PlyCount "81"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 g6 4. e3 Bg7 5. d4 d6 6. d5 Ne5 7. Nxe5 Bxe5 8. Bd3
+Bg7 9. O-O Nh6 10. e4 O-O 11. Bg5 f6 12. Bh4 g5 13. Bg3 f5 14. exf5 Bxf5 15.
+Ne4 Bxe4 16. Bxe4 Nf5 17. Qg4 Nd4 18. Qxg5 e5 19. Qh5 h6 20. Qg6 Qf6 21. Qh7+
+Kf7 22. Bd3 Rae8 23. Qe4 Kg8 24. f4 Qf5 25. Qxf5 Nxf5 26. Bxf5 Rxf5 27. fxe5
+Rxf1+ 28. Kxf1 Bxe5 29. Bxe5 Rxe5 30. Re1 Rf5+ 31. Ke2 b5 32. b3 bxc4 33. bxc4
+Rh5 34. h3 Rg5 35. g4 Kf7 36. Kf3 Rg6 37. Re6 Rxe6 38. dxe6+ Kxe6 39. Ke4 a5
+40. a4 Kf6 41. Kd5 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Hindle, Owen"]
+[Black "Hutchings, Stuart"]
+[Result "1-0"]
+[ECO "A17"]
+[PlyCount "79"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. g3 O-O 5. Bg2 d5 6. Qb3 Nc6 7. O-O Bxc3 8.
+Qxc3 d4 9. Qc2 e5 10. d3 h6 11. a3 a5 12. e3 Bf5 13. e4 Be6 14. b3 Nd7 15. Bd2
+Qe7 16. h3 f5 17. Nh4 Qf6 18. Nxf5 Bxf5 19. exf5 Qxf5 20. g4 Qg6 21. b4 axb4
+22. axb4 Rxa1 23. Rxa1 h5 24. g5 Qf5 25. Rf1 Ne7 26. f4 Ng6 27. fxe5 Qxe5 28.
+Rxf8+ Ndxf8 29. Qd1 Nf4 30. Bxf4 Qxf4 31. Bd5+ Kh8 32. Qxh5+ Nh7 33. g6 Qg3+
+34. Kh1 Qe1+ 35. Kg2 Qd2+ 36. Kg3 Qe1+ 37. Kf4 Qf2+ 38. Bf3 Qe3+ 39. Kf5 Qxd3+
+40. Kg4 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Keene, Raymond"]
+[Black "McFarland, Robert S"]
+[Result "1-0"]
+[ECO "E18"]
+[WhiteElo "2435"]
+[PlyCount "57"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Bd2
+d6 9. d5 Nxc3 10. Bxc3 exd5 11. cxd5 c6 12. dxc6 Nxc6 13. Qd2 Qd7 14. Rfd1 Rad8
+15. b4 a6 16. Qb2 Qg4 17. h3 Qg6 18. b5 Nb8 19. bxa6 Bxa6 20. Nd4 d5 21. Rab1
+Bc5 22. Nb3 Bc4 23. Nxc5 bxc5 24. Ba5 Rde8 25. Bxd5 Bxd5 26. Rxd5 Nc6 27. Rxc5
+Nd4 28. Re1 Qe4 29. Kh2 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Knox, Victor W"]
+[Black "James, Geoffrey H"]
+[Result "1-0"]
+[ECO "C55"]
+[PlyCount "107"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 Nc6 2. d4 e5 3. Nf3 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bd7 8.
+Bxc6 bxc6 9. O-O Bc5 10. f3 Ng5 11. Kh1 O-O 12. Nc3 Ne6 13. Nb3 Bb6 14. f4 f5
+15. Qd3 d4 16. Ne2 c5 17. Qc4 Qe8 18. a4 Rd8 19. Ng3 Bc6 20. Nd2 Ba5 21. Nf3
+Bd5 22. Qe2 c4 23. Bd2 Bxd2 24. Nxd2 Qc6 25. b3 cxb3 26. cxb3 d3 27. Qf2 Nd4
+28. Rac1 Qb7 29. Rc3 Ne6 30. Rfc1 c5 31. Ngf1 Qb4 32. Ne3 Qd4 33. Qe1 Qxf4 34.
+Rxd3 Bb7 35. Rxd8 Rxd8 36. Ndc4 Qe4 37. Nd6 Rxd6 38. exd6 f4 39. d7 fxe3 40.
+Qe2 Qd5 41. Rd1 Qg5 42. Kg1 Nd4 43. Rxd4 cxd4 44. Qc4+ Kf8 45. Qb4+ Kf7 46.
+Qxb7 Qd8 47. Qd5+ Ke7 48. Qxd4 Qxd7 49. Qxg7+ Kd8 50. Qxd7+ Kxd7 51. Kf1 Kd6
+52. Ke2 Kc5 53. g4 Kd4 54. b4 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Lee, Peter N"]
+[Black "Edwards, Raymond B"]
+[Result "1-0"]
+[ECO "B10"]
+[WhiteElo "2390"]
+[PlyCount "81"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8. b4 a5
+9. bxa5 Qxa5 10. Bb2 d4 11. a4 Qc7 12. Nc4 Be6 13. c3 Bxc4 14. dxc4 c5 15. Qb3
+Nbc6 16. cxd4 cxd4 17. c5 Na5 18. Qb5 Nec6 19. Ba3 Rfd8 20. Qd3 Bh6 21. Rab1
+Qd7 22. Rfd1 Qe6 23. Bf1 Rac8 24. Rb5 Rc7 25. Qc2 Kh8 26. Bd3 Rf8 27. Nh4 Bg5
+28. Ng2 f5 29. exf5 gxf5 30. f4 exf4 31. Bc1 f3 32. Bxg5 fxg2 33. Bf4 Rcf7 34.
+Qxg2 Re8 35. Qc2 Qd5 36. Rf1 Re4 37. Qd2 Nc4 38. Qa2 Ne3 39. Qxd5 Nxd5 40. Bxe4
+fxe4 41. Bh6 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Miles, Anthony J"]
+[Black "Mestel, A Jonathan"]
+[Result "0-1"]
+[ECO "A11"]
+[WhiteElo "2285"]
+[PlyCount "82"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. b3 Nf6 2. Bb2 g6 3. g3 Bg7 4. Bg2 d5 5. Nf3 O-O 6. c4 c6 7. O-O Nbd7 8. Qc2
+Re8 9. d4 b5 10. Nbd2 Ba6 11. Rfe1 bxc4 12. bxc4 Rb8 13. Rab1 Nb6 14. Ne5 Qc8
+15. Rec1 Nfd7 16. c5 Na8 17. Nxd7 Qxd7 18. e4 Nc7 19. e5 Qf5 20. Qxf5 gxf5 21.
+Ba1 f4 22. Nb3 Bh6 23. gxf4 Bxf4 24. Rc3 Ne6 25. Rd1 Be2 26. Re1 Bc4 27. Rf3
+Bxb3 28. axb3 Rb4 29. Kh1 Reb8 30. Rb1 Bh6 31. Rg3+ Kh8 32. Bh3 a5 33. Bf5 Bf4
+34. Rh3 h6 35. Rf3 Bg5 36. Bc2 f6 37. exf6 Bxf6 38. Bc3 Nxd4 39. Bxb4 axb4 40.
+Rxf6 exf6 41. Bd3 Ra8 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Penrose, Jonathan"]
+[Black "Perkins, Alan H"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2450"]
+[PlyCount "139"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d6 4. f4 Nf6 5. Bd3 e5 6. Nf3 O-O 7. dxe5 dxe5 8. Nxe5
+Na6 9. Be3 Qe7 10. O-O Nc5 11. Bxc5 Qxc5+ 12. Kh1 Nh5 13. Nc4 Be6 14. Nbd2 Rad8
+15. Qc2 b5 16. Nb3 Ng3+ 17. hxg3 Qh5+ 18. Kg1 bxc4 19. Be2 cxb3 20. axb3 Bxb3
+21. Bxh5 Bxc2 22. Bf3 a6 23. Rf2 Bd3 24. Ra5 Rb8 25. e5 Rb5 26. Ra4 c5 27. c4
+Rb4 28. Rxb4 cxb4 29. b3 Bf5 30. Rd2 Rb8 31. g4 Be6 32. Rd6 Bxc4 33. bxc4 b3
+34. Be4 b2 35. Bb1 Bf8 36. Rd1 a5 37. Kf2 a4 38. Ba2 Bc5+ 39. Kf3 Kf8 40. Ke4
+Ke7 41. Rd5 Rb3 42. Rxc5 Ra3 43. Bb1 Ra1 44. Kd3 Rxb1 45. Kc2 Rg1 46. Kxb2
+Rxg2+ 47. Ka3 Rxg4 48. Rc7+ Ke8 49. e6 Rxf4 50. Rc8+ Ke7 51. exf7 Kxf7 52. Kxa4
+h5 53. Kb5 h4 54. c5 Rf1 55. c6 Rc1 56. Rh8 g5 57. c7 Rxc7 58. Rh7+ Kg6 59.
+Rxc7 g4 60. Rc8 g3 61. Rg8+ Kf5 62. Kc4 Kf4 63. Kd4 Kf3 64. Rf8+ Kg2 65. Ke3 h3
+66. Rh8 Kh2 67. Rg8 g2 68. Kf2 Kh1 69. Rg7 h2 70. Rxg2 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Pritchard, David B"]
+[Black "Basman, Michael John"]
+[Result "1-0"]
+[ECO "A01"]
+[BlackElo "2385"]
+[PlyCount "132"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. b3 b5 2. e3 Bb7 3. Bb2 e6 4. f4 Nf6 5. Nf3 b4 6. Be2 Be7 7. O-O O-O 8. Ne5
+a5 9. a4 Nc6 10. Bf3 Ra6 11. Qe2 Qa8 12. d3 Nxe5 13. fxe5 Nd5 14. Nd2 Qa7 15.
+Nc4 f5 16. Kh1 Qa8 17. Rae1 Qe8 18. Bh5 g6 19. Bf3 g5 20. g3 g4 21. Bg2 Qh5 22.
+Bc1 Raa8 23. Bd2 Bg5 24. Rf2 Qg6 25. e4 Bxd2 26. Qxd2 Ne7 27. Nxa5 Bxe4 28.
+Rxe4 Rxa5 29. Re1 Rb8 30. Qf4 Qg7 31. Rfe2 Ng6 32. Qc4 c5 33. d4 f4 34. gxf4
+Nxf4 35. Rf2 Qh6 36. Kg1 Kh8 37. d5 Nh3+ 38. Bxh3 gxh3 39. Qf4 Rg8+ 40. Kh1
+Qxf4 41. Rxf4 exd5 42. Re3 Ra6 43. Rf6 Re6 44. Rxe6 dxe6 45. Rxh3 c4 46. Rh6
+Re8 47. Kg2 Kg7 48. Rf6 cxb3 49. cxb3 Rc8 50. Rf4 Rc2+ 51. Kf1 Kg6 52. h4 Rc3
+53. Rxb4 Kf5 54. a5 Kxe5 55. a6 Rc8 56. a7 Ra8 57. Rb7 Kd6 58. Rxh7 d4 59. Ke2
+e5 60. h5 e4 61. h6 Ke5 62. Re7+ Kf4 63. Rf7+ Ke5 64. h7 d3+ 65. Ke3 Rd8 66.
+Rd7 Rf8 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Sherman, David"]
+[Black "Lemon, Richard C"]
+[Result "0-1"]
+[ECO "A12"]
+[PlyCount "130"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. g3 d5 2. Bg2 Nf6 3. Nf3 c6 4. d3 Bf5 5. O-O h6 6. b3 e6 7. Bb2 Nbd7 8. c4
+Be7 9. Nbd2 O-O 10. Re1 Bh7 11. a3 a5 12. Qc2 Re8 13. Rec1 Bc5 14. Qc3 Qe7 15.
+d4 Bd6 16. Ne5 Rec8 17. c5 Bc7 18. b4 Nf8 19. f4 N6d7 20. Re1 Re8 21. e4 Qd8
+22. Nxd7 Nxd7 23. e5 b5 24. Bh3 Nf8 25. Qe3 Qd7 26. Bc3 axb4 27. axb4 Ng6 28.
+g4 Ne7 29. Qf2 Kh8 30. Nb3 Be4 31. Bg2 Bxg2 32. Kxg2 Rec8 33. Qb2 Bd8 34. Rf1
+g6 35. Qc2 Kg7 36. h3 Ra4 37. Rxa4 bxa4 38. Nd2 Ra8 39. Ra1 Qa7 40. Nb1 Qa6 41.
+Bb2 Qb5 42. Na3 Qxb4 43. Bc3 Qb3 44. Qxb3 axb3 45. Nb1 Ra2+ 46. Rxa2 bxa2 47.
+Na3 Ba5 48. Ba1 Bd2 49. Kf3 g5 50. fxg5 Bxg5 51. Nc2 Bd2 52. Ke2 Ba5 53. Kd3
+Kg6 54. h4 h5 55. gxh5+ Kxh5 56. Bc3 Bxc3 57. Kxc3 Kxh4 58. Kb3 Kg4 59. Kxa2
+Kf4 60. Kb3 Ke4 61. Kb4 Kd3 62. Kb3 Nf5 63. Nb4+ Kxd4 64. Nxc6+ Kxc5 65. Nd8
+Nh6 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Speelman, Jonathan S"]
+[Black "Pritchett, Craig"]
+[Result "1/2-1/2"]
+[ECO "A22"]
+[BlackElo "2340"]
+[PlyCount "90"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bb4 4. Bg2 O-O 5. e4 c6 6. Nge2 d5 7. cxd5 cxd5 8.
+exd5 Bf5 9. d4 e4 10. O-O Nbd7 11. h3 h6 12. Qb3 Qa5 13. a3 Bxc3 14. Nxc3 Nb6
+15. Bd2 Qa6 16. Rfc1 Qc4 17. Qd1 Nfxd5 18. Nxe4 Qxd4 19. Nc3 Rad8 20. Nxd5 Nxd5
+21. Ba5 Qxd1+ 22. Rxd1 b6 23. Be1 Be6 24. Rd4 Nf6 25. Rad1 Rxd4 26. Rxd4 Rc8
+27. Bc3 Nd7 28. h4 Rc4 29. Rxc4 Bxc4 30. f4 Be6 31. Kf2 h5 32. Ke3 g6 33. a4
+Kf8 34. a5 Ke7 35. Bb4+ Kf6 36. Kd4 Kf5 37. Bf3 Kf6 38. axb6 axb6 39. Bd6 Kg7
+40. Kc3 f5 41. Kb4 Kf7 42. Kb5 Bb3 43. Kc6 Ke6 44. Bb4 Nf6 45. Kxb6 Ne4 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Trangmar, Alan G"]
+[Black "Eley, Brian"]
+[Result "0-1"]
+[ECO "A21"]
+[PlyCount "44"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 e5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. e3 Nh6 6. Nge2 O-O 7. O-O f5 8. d4
+Nd7 9. dxe5 dxe5 10. e4 f4 11. gxf4 Qh4 12. fxe5 Ng4 13. h3 Nxf2 14. Qd5+ Kh8
+15. e6 Ne5 16. Be3 c6 17. Qc5 Nf3+ 18. Bxf3 Nxh3+ 19. Kg2 Bxe6 20. Rh1 Rxf3 21.
+Rhf1 Qg4+ 22. Kh2 Nf2 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "2"]
+[White "Webb, Simon"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "1-0"]
+[ECO "D35"]
+[PlyCount "107"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Nbd7 5. cxd5 exd5 6. Bf4 c6 7. e3 Ne4 8.
+Nxe4 dxe4 9. Nd2 Nf6 10. Qc2 Bf5 11. a3 Bd6 12. Bg5 O-O 13. Be2 Re8 14. g4 Bg6
+15. h4 h6 16. h5 Bh7 17. Bh4 Be7 18. Bg3 Nd5 19. Qb3 Qb6 20. Bc4 Qxb3 21. Bxb3
+a5 22. Bxd5 cxd5 23. Nb1 Red8 24. Nc3 f5 25. gxf5 Bxf5 26. Kd2 Rac8 27. Rhg1
+Bg5 28. Be5 Be6 29. Ne2 Rc6 30. Rac1 Rdc8 31. Rxc6 Rxc6 32. Bf4 Bxf4 33. Nxf4
+Bf7 34. b4 axb4 35. axb4 Rc4 36. Ra1 Kf8 37. Ra5 Rxb4 38. Nxd5 Bxd5 39. Rxd5
+Rb2+ 40. Ke1 Rb1+ 41. Ke2 Rb2+ 42. Kf1 Rb1+ 43. Kg2 Ke7 44. Re5+ Kd6 45. Rxe4
+Kd5 46. Re7 b5 47. Kf3 Kc4 48. Rc7+ Kb3 49. d5 Rd1 50. Ke4 b4 51. Ke5 Rh1 52.
+d6 Rxh5+ 53. Ke4 Rh1 54. Rc5 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.15"]
+[Round "3"]
+[White "Penrose, Jonathan"]
+[Black "Webb, Simon"]
+[Result "1-0"]
+[ECO "C09"]
+[WhiteElo "2450"]
+[PlyCount "59"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. O-O cxd4 8.
+Nb3 Nge7 9. Nfxd4 O-O 10. Qh5 Ne5 11. Be2 a5 12. a4 Re8 13. Bd2 Nc4 14. Bc3 Ng6
+15. Bd3 Nce5 16. Bf5 Bxf5 17. Qxf5 Ra6 18. Rfe1 Bb8 19. g3 Ne7 20. Qh3 Rh6 21.
+Qg2 b6 22. Rad1 Qd7 23. Nb5 Ng4 24. h3 Nf6 25. Bxf6 Rxf6 26. c4 Re6 27. cxd5
+Nxd5 28. Rf1 Rd8 29. Rd2 Bf4 30. Rd3 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "Basman, Michael John"]
+[Black "Cooke, John R"]
+[Result "0-1"]
+[ECO "C33"]
+[WhiteElo "2385"]
+[PlyCount "78"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. f4 exf4 3. Qe2 d6 4. d4 Nc6 5. c3 Qh4+ 6. Qf2 Qxf2+ 7. Kxf2 Nf6 8.
+Bd3 g5 9. h4 Ng4+ 10. Ke2 f6 11. Nf3 Be7 12. b4 Bd7 13. a4 Kf7 14. g3 fxg3 15.
+Bc4+ Kg6 16. Nbd2 f5 17. hxg5 f4 18. Nh4+ Kg7 19. Ndf3 Rhf8 20. Ng2 Nf2 21. Rh4
+Nxe4 22. Bxf4 Rae8 23. Ne3 Nxc3+ 24. Kd3 Ne4 25. b5 Nb4+ 26. Kxe4 Bxg5+ 27.
+Be5+ dxe5 28. Nxg5 exd4+ 29. Kxd4 Rxe3 30. Rc1 Rfe8 31. Rxh7+ Kf6 32. Rxd7 Kxg5
+33. Rxc7 b6 34. Rg7+ Kh6 35. Rg4 Kh5 36. Rf4 Kg5 37. Rcf1 Nc2+ 38. Kd5 R8e5+
+39. Kd6 g2 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "Bellin, Robert"]
+[Black "Keene, Raymond"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[WhiteElo "2315"]
+[BlackElo "2435"]
+[PlyCount "36"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. f4 Nf6 5. Nf3 O-O 6. Bd3 Nc6 7. O-O Bg4 8. e5
+dxe5 9. dxe5 Nd5 10. h3 Nxc3 11. bxc3 Bf5 12. Be3 Qd5 13. Bxf5 Qxd1 14. Rfxd1
+gxf5 15. Nd4 Nxd4 16. cxd4 e6 17. Rab1 b6 18. Rb3 Rfd8 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "Edwards, Raymond B"]
+[Black "Harman, Ronald FA"]
+[Result "1-0"]
+[ECO "D87"]
+[PlyCount "107"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 c5 9. O-O Nc6 10. Be3 Qc7 11. Rc1 Rd8 12. Kh1 Ne5 13. Bf4 cxd4 14. cxd4 Qb6
+15. Bd5 Nc6 16. Be3 e6 17. Bxc6 bxc6 18. d5 Qa5 19. Nd4 Qxa2 20. Nxc6 Rd7 21.
+d6 Bb7 22. f4 Bxc6 23. Rxc6 e5 24. f5 f6 25. Rf2 Qf7 26. h3 Rad8 27. Rd2 Bf8
+28. Rd5 gxf5 29. exf5 h5 30. Rd3 Qh7 31. Qb3+ Qf7 32. Qxf7+ Kxf7 33. Bc5 h4 34.
+Kg1 Kg7 35. Kf2 Kh6 36. Kf3 Rg7 37. Ke4 Rxg2 38. Be3+ Kh5 39. Rc7 Rg7 40. Rxg7
+Bxg7 41. d7 Bf8 42. Bxa7 Be7 43. Be3 Ra8 44. Rc3 Ra4+ 45. Kd5 Ra5+ 46. Ke6 e4
+47. Bd4 Ra4 48. Be3 Bd8 49. Rc8 Ra5 50. Rxd8 Re5+ 51. Kd6 Rd5+ 52. Kc6 Rd6+ 53.
+Kb5 Rd5+ 54. Bc5 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "Eley, Brian"]
+[Black "Mestel, A Jonathan"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[PlyCount "82"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d6 4. Bd3 e5 5. Ne2 Nc6 6. Be3 Nge7 7. d5 Nb8 8. Qd2
+O-O 9. f3 f5 10. Na3 Nd7 11. O-O-O b6 12. g4 f4 13. Bf2 Nc5 14. b4 Nxd3+ 15.
+Qxd3 b5 16. Kd2 a5 17. Nc2 c6 18. dxc6 Be6 19. Ke1 Bxa2 20. Qxb5 Bb3 21. Rd2
+axb4 22. cxb4 Qb8 23. Qxb8 Rfxb8 24. Nc1 Ba4 25. Ke2 Bb5+ 26. Nd3 Nxc6 27. Rb1
+Bc4 28. Kd1 Ra2 29. Rb2 Rxb2 30. Nxb2 Bb3 31. Nd3 Rxb4 32. Ndxb4 Nxb4 33. Kc1
+Nxc2 34. Rxc2 Bxc2 35. Kxc2 Kf7 36. Kd3 Ke6 37. Kc4 Bf6 38. Bb6 Bh4 39. Ba5 Bf2
+40. Bb4 Bg1 41. h3 Bf2 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "Farrand, Julian T"]
+[Black "Sherman, David"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[PlyCount "33"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 d5 2. Nc3 Bf5 3. Bf4 Nf6 4. f3 c5 5. e4 dxe4 6. fxe4 Nxe4 7. Bxb8 Nxc3 8.
+Qf3 Qd5 9. Qxc3 Rxb8 10. O-O-O g6 11. Bc4 Qd6 12. Nf3 Bg7 13. Bb5+ Bd7 14. Qxc5
+Qxc5 15. Bxd7+ Kxd7 16. dxc5+ Kc6 17. Rhe1 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "Haygarth, Michael J"]
+[Black "Speelman, Jonathan S"]
+[Result "1-0"]
+[ECO "B06"]
+[PlyCount "76"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Be2 c6 5. Nf3 b5 6. a3 a6 7. Bg5 Nf6 8. h3 O-O
+9. O-O h6 10. Be3 Qc7 11. Qd2 Kh7 12. Rad1 Nbd7 13. Nh2 a5 14. Bd3 b4 15. axb4
+axb4 16. Ne2 c5 17. Ng3 Bb7 18. c4 cxd4 19. Bxd4 Nc5 20. Qxb4 Ra4 21. Qc3 Nxd3
+22. b3 Ra2 23. Qxd3 Qc6 24. Rfe1 Rfa8 25. Nf3 R8a3 26. Rd2 Rxd2 27. Nxd2 Kg8
+28. Nf3 h5 29. e5 dxe5 30. Rxe5 Qd7 31. Re3 Ba8 32. Bb2 Qxd3 33. Rxd3 Ra2 34.
+Be5 Bxf3 35. Rxf3 Rd2 36. Kf1 h4 37. Bxf6 exf6 38. Ne4 Rb2 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "Hutchings, Stuart"]
+[Black "Emsley, JS."]
+[Result "1-0"]
+[ECO "A42"]
+[PlyCount "53"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 g6 2. e4 Bg7 3. d4 d6 4. Nc3 Nd7 5. Be2 c5 6. d5 Ngf6 7. Nf3 O-O 8. Bf4
+Qa5 9. O-O a6 10. a4 h6 11. h4 Nh5 12. Bd2 Qc7 13. g4 Nhf6 14. g5 hxg5 15. hxg5
+Nh7 16. Kg2 Re8 17. Nh4 Ndf8 18. f4 e6 19. Bd3 Qd7 20. f5 exf5 21. exf5 Bd4 22.
+Qf3 Kg7 23. Rh1 Qd8 24. fxg6 Nxg5 25. Qh5 Nh3 26. Bh6+ Kf6 27. Raf1+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "James, Geoffrey H"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "0-1"]
+[ECO "E01"]
+[PlyCount "122"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 Nf6 2. Nc3 e6 3. g3 d5 4. d4 dxc4 5. Bg2 c5 6. Qa4+ Bd7 7. Qxc4 Bc6 8.
+Bxc6+ Nxc6 9. dxc5 Qa5 10. Qb5 Qxb5 11. Nxb5 O-O-O 12. Nf3 Bxc5 13. Bf4 Ne4 14.
+O-O f6 15. Rac1 e5 16. b4 Bb6 17. Be3 Bxe3 18. fxe3 Kb8 19. a3 Rd7 20. Nc3 Nxc3
+21. Rxc3 Rhd8 22. b5 Ne7 23. e4 Nc8 24. Rc4 Nd6 25. Rb4 b6 26. Nh4 Nb7 27. Nf5
+Nc5 28. Kg2 Rd2 29. Kf3 R8d7 30. Rc1 g6 31. Ne3 Ne6 32. Nd5 Nd4+ 33. Kg4 h5+
+34. Kh3 Rxe2 35. Nxf6 Rf7 36. Rbc4 Nf3 37. g4 h4 38. g5 Nxg5+ 39. Kxh4 Ne6 40.
+Ng4 Rg2 41. Rc8+ Kb7 42. Rh8 g5+ 43. Kh5 Nf4+ 44. Kxg5 Rg7+ 45. Kf5 R2xg4 46.
+Rcc8 R4g5+ 47. Kf6 R7g6+ 48. Ke7 Rg7+ 49. Kf6 R5g6+ 50. Kxe5 Nd3+ 51. Kf5 Rg5+
+52. Kf6 R7g6+ 53. Kf7 Ne5+ 54. Ke7 Rg7+ 55. Ke6 Nd7 56. a4 Nc5+ 57. Kf6 Nxe4+
+58. Ke6 R7g6+ 59. Ke7 Re5+ 60. Kf7 Rf6+ 61. Kg7 Re7+ 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "Lemon, Richard C"]
+[Black "Hindle, Owen"]
+[Result "1/2-1/2"]
+[ECO "E75"]
+[PlyCount "42"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Bg5 c5 7. d5 e6 8. Qd2
+exd5 9. exd5 a6 10. Nf3 Bg4 11. O-O Nbd7 12. a4 Re8 13. a5 b6 14. axb6 Qxb6 15.
+h3 Bxf3 16. Bxf3 Qb3 17. Bd1 Qb4 18. Ra4 Qb8 19. b3 Ne4 20. Nxe4 Rxe4 21. Bc2
+Re8 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "Littlewood, John Eric"]
+[Black "Hartston, William R"]
+[Result "0-1"]
+[ECO "B83"]
+[WhiteElo "2340"]
+[BlackElo "2420"]
+[PlyCount "64"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Be3 Nf6 6. Nc3 Qc7 7. f4 d6 8. Be2
+Be7 9. Qd2 a6 10. O-O-O O-O 11. Bf3 Nxd4 12. Bxd4 e5 13. Be3 b5 14. a3 Bb7 15.
+Qf2 Rac8 16. Rd3 Bc6 17. g4 Qb7 18. Qg2 exf4 19. Bxf4 b4 20. axb4 Qxb4 21. g5
+Nd7 22. Bg4 Nc5 23. Bxc8 Nxd3+ 24. cxd3 Rxc8 25. Kb1 Bf8 26. Qf2 Bb5 27. Qd2
+Bxd3+ 28. Qxd3 Rxc3 29. Qd5 Rc5 30. Qa8 Rb5 31. Bc1 d5 32. Qe8 Qd4 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "McFarland, Robert S"]
+[Black "Miles, Anthony J"]
+[Result "1-0"]
+[ECO "B04"]
+[BlackElo "2285"]
+[PlyCount "87"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Be2 Bg7 6. c4 Nb6 7. exd6 cxd6 8. h3
+O-O 9. O-O Nc6 10. Nc3 Bf5 11. Bf4 h6 12. Be3 d5 13. c5 Nc4 14. Bxc4 dxc4 15.
+Qa4 Bd3 16. Rfd1 f5 17. d5 Ne5 18. Nd4 f4 19. Bxf4 Rxf4 20. Ne6 Qb8 21. Nxf4
+Nf3+ 22. gxf3 Qxf4 23. Rxd3 Qg5+ 24. Kf1 cxd3 25. Qc4 Qf5 26. Qg4 Rd8 27. Qxf5
+gxf5 28. c6 bxc6 29. dxc6 Bxc3 30. bxc3 e5 31. Ke1 d2+ 32. Ke2 Kf7 33. Rd1 Kf6
+34. Rxd2 Rc8 35. c4 Rxc6 36. Kd3 Ra6 37. Kc3 Ra3+ 38. Kb4 Rxf3 39. c5 Rxh3 40.
+c6 Rh1 41. Rc2 Rb1+ 42. Ka5 Rb8 43. c7 Rc8 44. Ka6 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "Perkins, Alan H"]
+[Black "Knox, Victor W"]
+[Result "1/2-1/2"]
+[ECO "E69"]
+[PlyCount "55"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 e5 2. Nc3 d6 3. g3 g6 4. d4 Nd7 5. Nf3 Bg7 6. Bg2 Ngf6 7. O-O O-O 8. e4
+Re8 9. Re1 c6 10. h3 exd4 11. Nxd4 Qb6 12. Nc2 Ne5 13. Be3 Qa5 14. Bf1 Be6 15.
+Na3 Rad8 16. f4 Ned7 17. Nc2 Nf8 18. Nd4 Bc8 19. Bf2 N8d7 20. Nb3 Qc7 21. Qc2
+b6 22. Rad1 Bb7 23. Rd2 a6 24. Bg2 c5 25. Red1 Bf8 26. Re2 Bc6 27. a4 Rc8 28.
+Nd2 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "Pritchard, David B"]
+[Black "Trangmar, Alan G"]
+[Result "0-1"]
+[ECO "B31"]
+[PlyCount "80"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 Nf6 6. Nc3 O-O 7. d3 Nd4 8. Bc4
+Nxf3+ 9. Qxf3 d6 10. Bg5 h6 11. Bd2 Ng4 12. Nd1 Ne5 13. Qe2 Rb8 14. a4 a6 15.
+a5 Nc6 16. Qf1 Bd7 17. f4 Qc8 18. Rb1 Kh7 19. Ne3 Qd8 20. Nd5 Nxa5 21. Bxa5
+Qxa5 22. Nxe7 b5 23. Bb3 Qd8 24. Nd5 a5 25. Kh1 a4 26. Ba2 b4 27. Bc4 a3 28. e5
+Be6 29. Qf3 dxe5 30. fxe5 Qg5 31. bxa3 bxa3 32. Rxb8 Rxb8 33. Nf6+ Bxf6 34.
+Bxe6 Qxe5 35. Qf1 Qb2 36. Bxf7 Bg7 37. Qf4 Rf8 38. Bxg6+ Kg8 39. Qa4 a2 40. d4
+Bxd4 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "Pritchett, Craig"]
+[Black "Clarke, Peter H"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2340"]
+[BlackElo "2360"]
+[PlyCount "36"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. c4
+Nf6 9. Nc3 dxc4 10. Bxc4 O-O 11. a3 Bg4 12. Be3 Bd6 13. h3 Bh5 14. Bg5 h6 15.
+Bh4 Bxf3 16. Qxf3 Nxd4 17. Qxb7 Nf5 18. Bxf6 Qxf6 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "Stean, Michael"]
+[Black "Lee, Peter N"]
+[Result "1/2-1/2"]
+[ECO "B61"]
+[WhiteElo "2275"]
+[BlackElo "2390"]
+[PlyCount "49"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Qd2 Rc8 8.
+O-O-O Nxd4 9. Qxd4 Qa5 10. Bd2 a6 11. f3 e5 12. Qd3 Be6 13. a3 Qc7 14. Bg5 Nd7
+15. Be3 Be7 16. Qe2 O-O 17. Nd5 Bxd5 18. Rxd5 Nf6 19. Rd1 d5 20. exd5 Rfd8 21.
+d6 Rxd6 22. Rxd6 Qxd6 23. Qd2 Qe6 24. Kb1 Nd5 25. Bd3 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.16"]
+[Round "3"]
+[White "Williams, A Howard"]
+[Black "Corden, Martyn"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2390"]
+[BlackElo "2275"]
+[PlyCount "51"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nf3 c5 6. dxc5 Nc6 7. Bf4 Bxc5 8.
+Bd3 a6 9. O-O b5 10. Re1 Qc7 11. Bg3 Bb7 12. Nxd5 Qa5 13. Nc3 Bb4 14. Ng5 Bxc3
+15. bxc3 Nc5 16. Qh5 Qc7 17. Rad1 g6 18. Qf3 Qe7 19. Ne4 Nxe4 20. Bxe4 Na5 21.
+Bxb7 Qxb7 22. Qf6 Rg8 23. Bh4 Nc6 24. Rd6 h6 25. Rxc6 g5 26. Qf3 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Basman, Michael John"]
+[Black "James, Geoffrey H"]
+[Result "1-0"]
+[ECO "C30"]
+[WhiteElo "2385"]
+[PlyCount "47"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Qe7 5. Qe2 Nf6 6. d4 exd4 7. cxd4 Bb6 8. Nc3
+Bg4 9. e5 Nfd7 10. Be3 Nc6 11. O-O-O dxe5 12. fxe5 O-O-O 13. h3 Bh5 14. g4 Bg6
+15. Bg2 Nb4 16. a3 Nc2 17. Bf4 Ba5 18. Nd5 Qf8 19. Nh4 Nb6 20. Nxg6 fxg6 21.
+Nxb6+ Bxb6 22. Qe4 Nxd4 23. Qxb7+ Kd7 24. e6+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Clarke, Peter H"]
+[Black "Lemon, Richard C"]
+[Result "1/2-1/2"]
+[ECO "E09"]
+[WhiteElo "2360"]
+[PlyCount "61"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nbd2 e6 5. g3 Be7 6. Bg2 O-O 7. O-O b6 8. b3
+Bb7 9. Bb2 Nbd7 10. Qc2 c5 11. Rac1 Rc8 12. Qb1 Rc7 13. cxd5 Nxd5 14. Qa1 N5f6
+15. Rfd1 Qa8 16. dxc5 Nxc5 17. b4 Na6 18. a3 Rfc8 19. Nb3 Rxc1 20. Rxc1 Nc7 21.
+Nbd4 Nce8 22. Rxc8 Qxc8 23. Qc1 Qxc1+ 24. Bxc1 Nd7 25. Nd2 Bxg2 26. Kxg2 a6 27.
+f4 b5 28. Kf3 Kf8 29. e4 Nb6 30. Ke3 Nc7 31. Kd3 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Cooke, John R"]
+[Black "Sherman, David"]
+[Result "1/2-1/2"]
+[ECO "E90"]
+[PlyCount "78"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. h3 Na6 7. Bd3 c5 8. d5 e5
+9. Bg5 h6 10. Be3 Nc7 11. a3 Nh5 12. Nd2 Nf4 13. Bf1 f5 14. g3 Nfe6 15. exf5
+gxf5 16. dxe6 f4 17. Nde4 fxe3 18. fxe3 Bxe6 19. Qxd6 Qxd6 20. Nxd6 b6 21. Rd1
+Rad8 22. Nde4 Rxd1+ 23. Kxd1 Ne8 24. g4 Nf6 25. Be2 Nxe4 26. Nxe4 Bc8 27. Rf1
+Bb7 28. Rxf8+ Bxf8 29. Nc3 Be7 30. Bf1 Kg7 31. Ke1 Bh4+ 32. Kd2 Bc6 33. e4 Kf6
+34. Kd3 Bf2 35. Nd1 Bd4 36. h4 Ba4 37. Nc3 Bxc3 38. Kxc3 Bd1 39. Bh3 Be2
+1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Corden, Martyn"]
+[Black "Littlewood, John Eric"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2275"]
+[BlackElo "2340"]
+[PlyCount "82"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 g6 4. g3 Bg7 5. Bg2 Nf6 6. O-O O-O 7. c3 d6 8. Nbd2
+Rb8 9. Re1 b5 10. d4 b4 11. Nb3 bxc3 12. bxc3 cxd4 13. cxd4 Ba6 14. Ba3 Nb4 15.
+Bxb4 Rxb4 16. Qd2 Qb6 17. e5 Nd5 18. Qg5 h6 19. Qg4 Bb5 20. Nh4 Nc7 21. e6 f5
+22. Qf3 Rf6 23. Rac1 Bc4 24. Qc3 g5 25. a3 Ra4 26. Nd2 d5 27. Qc2 Rxa3 28. Nxc4
+dxc4 29. Nxf5 Bf8 30. g4 Nxe6 31. Qxc4 Kh8 32. Rb1 Qa6 33. Qxa6 Rxa6 34. Rb8 h5
+35. h3 hxg4 36. hxg4 Rb6 37. Ra8 Nc7 38. Rxa7 Nb5 39. Ra8 e6 40. Ng3 Nxd4 41.
+Ne4 Rf4 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Harman, Ronald FA"]
+[Black "Emsley, JS."]
+[Result "1/2-1/2"]
+[ECO "B72"]
+[PlyCount "80"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 Bd7 8. h3
+Nc6 9. O-O O-O 10. f4 Rc8 11. Bb3 a6 12. Qd3 b5 13. Rae1 b4 14. Nce2 Nxd4 15.
+Bxd4 Bb5 16. Qe3 Qc7 17. e5 Ne8 18. e6 f5 19. Bxg7 Nxg7 20. Rf2 Nh5 21. Nd4 Bc4
+22. g4 fxg4 23. hxg4 Nf6 24. Qh3 Qc5 25. Rd1 Qb6 26. f5 g5 27. Rg2 Bxb3 28.
+axb3 Kh8 29. Rd3 Rg8 30. Qf3 Rc5 31. Kf1 Rb8 32. Rh2 Rg8 33. Qd1 Re5 34. Rg2
+Nd5 35. Rgg3 Nf4 36. Rde3 Qb7 37. Qf3 Qb6 38. c3 Rc8 39. Qd1 Qb7 40. Qf3 Qb6
+1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Hartston, William R"]
+[Black "Eley, Brian"]
+[Result "1/2-1/2"]
+[ECO "C26"]
+[WhiteElo "2420"]
+[PlyCount "96"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 d5 4. exd5 Nxd5 5. Bg2 Nxc3 6. bxc3 c6 7. Nf3 Bd6 8.
+O-O O-O 9. d4 Nd7 10. Re1 exd4 11. cxd4 Nb6 12. Qd3 Qf6 13. c4 Bf5 14. Qc3 Bg4
+15. Ne5 Bxe5 16. Rxe5 Nd7 17. Re4 Qg6 18. Bf4 Rfe8 19. Rae1 Rxe4 20. Bxe4 Bf5
+21. Bg2 Nb6 22. d5 h6 23. Re7 Rc8 24. Qd4 cxd5 25. cxd5 Bd7 26. Qe4 Bf5 27. Qe5
+Nd7 28. Qe3 Nc5 29. Re8+ Rxe8 30. Qxe8+ Kh7 31. h3 Qf6 32. Be5 Bd7 33. Qf8 Qxe5
+34. Qxc5 b6 35. Qc2+ g6 36. h4 Kg7 37. Qd2 Qd6 38. Kh2 h5 39. Qe2 b5 40. Qd2
+Kf8 41. Qa5 Qb6 42. Qb4+ Ke8 43. Qf4 Bf5 44. f3 Ke7 45. Qe5+ Kd7 46. Qg7 Ke7
+47. Qe5+ Kd7 48. Qg7 Ke7 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Hindle, Owen"]
+[Black "Haygarth, Michael J"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[PlyCount "47"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. e3 d6 5. d3 g6 6. Nf3 Bg7 7. Be2 O-O 8. O-O
+Re8 9. Nbd2 a5 10. a3 Bd7 11. Qc2 Nh5 12. Bc3 f5 13. Qb2 Qe7 14. b4 b6 15. Rfe1
+Nf6 16. Bf1 Qf8 17. d4 e4 18. Ng5 axb4 19. axb4 h6 20. Nh3 Ne7 21. Rxa8 Rxa8
+22. f4 Ra4 23. Nf2 Qa8 24. Ra1 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Keene, Raymond"]
+[Black "Pritchett, Craig"]
+[Result "1-0"]
+[ECO "A61"]
+[WhiteElo "2435"]
+[BlackElo "2340"]
+[PlyCount "70"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bd3
+O-O 9. Nd2 Nbd7 10. Nc4 Nb6 11. Ne3 Re8 12. O-O c4 13. Bc2 Bd7 14. Bd2 Rc8 15.
+Kh1 Rc5 16. f3 Nc8 17. a4 a6 18. Ne2 Ne7 19. Bb4 Rc8 20. Bc3 Kh8 21. Qd2 Neg8
+22. Bd4 b5 23. axb5 Bxb5 24. Qc3 Nh5 25. Bxg7+ Nxg7 26. Nd4 Qb6 27. Ra2 Qc5 28.
+Rfa1 h5 29. Bd1 Kh7 30. Ra5 Nh6 31. Ba4 Rb8 32. Nec2 Rb7 33. Nb4 Qc7 34. Nxa6
+Bxa6 35. Bxe8 Nxe8 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Knox, Victor W"]
+[Black "Hutchings, Stuart"]
+[Result "1-0"]
+[ECO "C17"]
+[PlyCount "53"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Bd2 c5 6. Nb5 Bxd2+ 7. Qxd2 O-O 8.
+dxc5 Nd7 9. f4 Nxc5 10. Bd3 Nxd3+ 11. Qxd3 Qb6 12. O-O-O Bd7 13. Nd4 f5 14.
+Ngf3 Rac8 15. Rhg1 Qa5 16. Kb1 Nc6 17. a3 b5 18. Nxc6 Rxc6 19. Nd4 Rc4 20. g4
+fxg4 21. Rxg4 Rf7 22. Rdg1 g6 23. c3 Qc7 24. h4 Kf8 25. h5 gxh5 26. Rg8+ Ke7
+27. Qh3 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Lee, Peter N"]
+[Black "Penrose, Jonathan"]
+[Result "1/2-1/2"]
+[ECO "A08"]
+[WhiteElo "2390"]
+[BlackElo "2450"]
+[PlyCount "32"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d5 5. Nbd2 Bd6 6. Bg2 Nge7 7. O-O O-O 8. Nh4
+Bd7 9. f4 f5 10. b3 b5 11. Bb2 a5 12. a4 bxa4 13. Rxa4 Qb6 14. Kh1 Nb4 15. Ra1
+a4 16. Nhf3 axb3 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Mestel, A Jonathan"]
+[Black "Williams, A Howard"]
+[Result "1-0"]
+[ECO "B09"]
+[BlackElo "2390"]
+[PlyCount "77"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 Nf6 2. Nc3 d6 3. d4 g6 4. f4 Bg7 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8. O-O
+Qxc5+ 9. Kh1 Nbd7 10. Ne1 Qc7 11. Nd3 Nb6 12. Bf3 Be6 13. g4 Rad8 14. f5 Bc4
+15. a4 a5 16. Qe1 Nfd7 17. Rf2 e6 18. Bg5 Rde8 19. fxg6 fxg6 20. Bg2 Ne5 21.
+Nxe5 Bxe5 22. Bh6 Bg7 23. Bxg7 Qxg7 24. e5 d5 25. b3 Ba6 26. Nb5 Bxb5 27. axb5
+Nd7 28. Rxf8+ Rxf8 29. Rxa5 Nxe5 30. Ra7 Qf6 31. h3 Rf7 32. b6 g5 33. c4 Nd3
+34. Qa1 Nf2+ 35. Kg1 d4 36. Rxb7 Rxb7 37. Qa8+ Kg7 38. Qxb7+ Kh6 39. Qf3 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Miles, Anthony J"]
+[Black "Edwards, Raymond B"]
+[Result "1/2-1/2"]
+[ECO "A01"]
+[WhiteElo "2285"]
+[PlyCount "50"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d6 4. Bb5 Bd7 5. Nc3 g6 6. Nf3 Bg7 7. O-O Nf6 8. d4
+O-O 9. Bxc6 Bxc6 10. dxe5 Ne4 11. Nxe4 Bxe4 12. Qe2 dxe5 13. Nxe5 Bxe5 14. Bxe5
+Bxg2 15. Kxg2 Qd5+ 16. Qf3 Qxe5 17. Qxb7 Rad8 18. Rad1 Qc3 19. Qe4 Rfe8 20. Qc4
+Qxc4 21. bxc4 Rxd1 22. Rxd1 Re6 23. Rd3 Ra6 24. a3 Rc6 25. Rc3 Rc5 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Perkins, Alan H"]
+[Black "Stean, Michael"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[BlackElo "2275"]
+[PlyCount "91"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. Be2 Nf6 5. Nbd2 O-O 6. O-O b6 7. Re1 Bb7 8. Bf1
+Nbd7 9. a4 c5 10. c3 cxd4 11. Nxd4 Nc5 12. f3 e5 13. N4b3 Qc7 14. c4 Bh6 15.
+Nb1 Bxc1 16. Nxc1 a5 17. Nc3 Bc6 18. b3 Rad8 19. Ra2 Nh5 20. Rd2 Nf4 21. N1e2
+Nfe6 22. Qc2 Qe7 23. Red1 Kh8 24. Qb2 Kg8 25. Qc2 Ng7 26. Kh1 f5 27. Ng3 f4 28.
+Nge2 g5 29. Nd5 Bxd5 30. Rxd5 Nge6 31. Qb2 Nc7 32. R5d2 N5a6 33. Nc1 Nb4 34.
+Nd3 Nxd3 35. Rxd3 Na6 36. Rd5 Rf6 37. Rb5 Rb8 38. Qf2 Qc7 39. g3 Qc6 40. Rbd5
+Nc5 41. gxf4 gxf4 42. Qb2 Ra8 43. Bh3 Ra7 44. Qc2 Rg7 45. Bf5 Qc7 46. R1d2
+1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Speelman, Jonathan S"]
+[Black "Bellin, Robert"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[BlackElo "2315"]
+[PlyCount "58"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Rb8 10. Qd2 b5 11. a3 f5 12. e5 dxe5 13. fxe5 Qc7 14. a4 bxa4 15.
+Nxa4 Nxe5 16. Nxe5 Bxe5 17. Qf2 Nc6 18. Bxc5 Rd8 19. Be3 Bd4 20. c3 Bxe3 21.
+Qxe3 Ne5 22. Qf4 Qd6 23. d4 Nc4 24. Qxd6 Rxd6 25. Rf2 Bb7 26. Bxb7 Rxb7 27. Nc5
+Rxb2 28. Rxb2 Nxb2 29. Rxa7 Nd1 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Pritchard, David B"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[PlyCount "55"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 d6 2. d4 g6 3. f4 Bg7 4. c3 Nf6 5. Bd3 e5 6. Nf3 Nbd7 7. O-O O-O 8. fxe5
+dxe5 9. dxe5 Ng4 10. e6 fxe6 11. Bg5 Bf6 12. Bxf6 Qxf6 13. Qe2 Nge5 14. Nbd2 b6
+15. Nxe5 Qxe5 16. Rxf8+ Kxf8 17. Rf1+ Kg7 18. Qf3 Qf6 19. Qg3 Qe5 20. Qf3 Qf6
+21. Qg3 Qe5 22. Qh4 Qc5+ 23. Kh1 Bb7 24. Nf3 Rf8 25. Ng5 Rxf1+ 26. Bxf1 Nf8 27.
+Qf4 Qe7 28. Nf3 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Trangmar, Alan G"]
+[Black "McFarland, Robert S"]
+[Result "1/2-1/2"]
+[ECO "E29"]
+[PlyCount "44"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 O-O 7. Bd3 Nc6 8.
+Nf3 d5 9. cxd5 exd5 10. Nd2 Re8 11. O-O Bg4 12. f3 Bh5 13. Re1 Bg6 14. Bxg6
+hxg6 15. Nb3 cxd4 16. cxd4 Na5 17. Nxa5 Qxa5 18. Bd2 Qa6 19. Qb3 Rac8 20. Rab1
+b6 21. Rbc1 Rxc1 22. Rxc1 Rc8 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.17"]
+[Round "4"]
+[White "Webb, Simon"]
+[Black "Farrand, Julian T"]
+[Result "1/2-1/2"]
+[ECO "A31"]
+[PlyCount "82"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nb5 Bc5 6. Nd6+ Ke7 7. Nf5+ Kf8 8.
+Be3 Bb4+ 9. Bd2 Qb6 10. Ne3 d6 11. g3 h5 12. h4 Ng4 13. Nxg4 Bxg4 14. Bg2 Nc6
+15. O-O Nd4 16. Re1 Rc8 17. Nc3 Rxc4 18. Nd5 Qc5 19. Bxb4 Rxb4 20. Nxb4 Qxb4
+21. a3 Qb6 22. Qd3 g5 23. Rac1 gxh4 24. gxh4 Rg8 25. Kf1 Qd8 26. e3 Nf3 27.
+Bxf3 Bxf3 28. e4 Bg4 29. Re3 Rg6 30. Ke1 Qxh4 31. Rc7 Rf6 32. Qf1 Rf3 33. Rcc3
+Rf4 34. Qg1 Be6 35. Qg2 Rg4 36. Rg3 Rxe4+ 37. Rce3 Rxe3+ 38. Rxe3 Qc4 39. Rc3
+Bd5 40. Qg5 Qe4+ 41. Kd2 Qd4+ 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "Bellin, Robert"]
+[Black "Perkins, Alan H"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2315"]
+[PlyCount "48"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 c6 5. Be3 Qb6 6. Rb1 f5 7. e5 dxe5 8. fxe5
+Bxe5 9. Bc4 Bg7 10. Qd2 Nf6 11. Nf3 e6 12. Bb3 Qa6 13. Ne2 O-O 14. O-O Ne4 15.
+Qe1 c5 16. dxc5 Nd7 17. a3 Ndxc5 18. Ba2 Bd7 19. Ned4 g5 20. Nb3 Nxb3 21. Bxb3
+h6 22. Nd2 Nxd2 23. Bxd2 Kh7 24. c4 Qb6+ 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "Edwards, Raymond B"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "1/2-1/2"]
+[ECO "D36"]
+[PlyCount "109"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 Nf6 2. Nc3 e6 3. d4 d5 4. cxd5 exd5 5. Bg5 Nbd7 6. e3 h6 7. Bh4 c6 8. Bd3
+Be7 9. Qc2 O-O 10. Nge2 Re8 11. O-O Ne4 12. Bxe7 Qxe7 13. Rae1 Ndf6 14. Nd1 Qb4
+15. Nec3 Bd7 16. f3 Nd6 17. a3 Qb6 18. Na4 Qc7 19. e4 Nc4 20. e5 Nxe5 21. dxe5
+Rxe5 22. Nc5 Rae8 23. Rxe5 Rxe5 24. Nxd7 Nxd7 25. Qf2 Qb6 26. Qxb6 Nxb6 27. Kf2
+c5 28. Re1 Rxe1 29. Kxe1 Kf8 30. Kd2 Ke7 31. Ne3 g6 32. b3 d4 33. Nc4 Nd5 34.
+Be4 Ke6 35. Bxd5+ Kxd5 36. a4 f6 37. Kd3 Kc6 38. f4 b5 39. axb5+ Kxb5 40. g4
+Kb4 41. Nd2 f5 42. gxf5 gxf5 43. h4 h5 44. Kc2 a5 45. Nf3 d3+ 46. Kxd3 Kxb3 47.
+Nd2+ Kb4 48. Nc4 a4 49. Ne3 Kb3 50. Nxf5 c4+ 51. Kd2 c3+ 52. Kc1 a3 53. Ne3 a2
+54. Nc2 Kc4 55. Kd1 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "Eley, Brian"]
+[Black "Keene, Raymond"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[BlackElo "2435"]
+[PlyCount "53"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. f4 a6 5. Nf3 b5 6. Bd3 Bb7 7. O-O Nd7 8. Qe2 c5
+9. dxc5 Nxc5 10. Be3 Nxd3 11. cxd3 Nf6 12. Kh1 O-O 13. Bd4 Qd7 14. a3 a5 15. b4
+axb4 16. axb4 Bc6 17. Qb2 Qb7 18. Nd2 e5 19. fxe5 Ng4 20. Nb3 Nxe5 21. Rad1 Qd7
+22. Na5 Rac8 23. Nxc6 Qxc6 24. Nd5 Rfe8 25. Nb6 Rc7 26. Nd5 Rcc8 27. Nb6
+1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "Emsley, JS."]
+[Black "Basman, Michael John"]
+[Result "0-1"]
+[ECO "A21"]
+[BlackElo "2385"]
+[PlyCount "76"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 e5 2. Nc3 f5 3. d3 Nf6 4. g3 Be7 5. Bg2 O-O 6. e3 Nc6 7. Nge2 Rb8 8. O-O
+a6 9. f4 g6 10. a3 b5 11. cxb5 axb5 12. b4 h6 13. Bxc6 dxc6 14. fxe5 Nd7 15. d4
+Nb6 16. Nf4 Qe8 17. Ra2 g5 18. Nd3 Be6 19. Raf2 Qg6 20. Qc2 Bc4 21. Rd1 Rf7 22.
+Nc5 Bxc5 23. bxc5 Nd5 24. Nxd5 Bxd5 25. Rdf1 Bc4 26. Re1 Qe6 27. Bd2 Ra8 28.
+Ra1 Bd5 29. Qd1 Qg6 30. Qc2 h5 31. h3 Kg7 32. Kh2 Kf8 33. a4 bxa4 34. Rxa4 Rxa4
+35. Qxa4 h4 36. g4 fxg4 37. Rxf7+ Qxf7 38. Be1 Qf3 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "Farrand, Julian T"]
+[Black "Miles, Anthony J"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[BlackElo "2285"]
+[PlyCount "145"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 e6 4. e3 Be7 5. Bd3 c5 6. Nf3 O-O 7. O-O Nc6 8. h3
+b6 9. a3 Bb7 10. Re1 Nh5 11. Bh2 f5 12. g4 fxg4 13. hxg4 Nf6 14. g5 Ng4 15. Bf4
+Nxf2 16. Kxf2 cxd4 17. Nxd4 Nxd4 18. Qh5 Nf5 19. Rh1 h6 20. gxh6 Nxh6 21. Rag1
+Rxf4+ 22. exf4 Bc5+ 23. Kf1 Bxg1 24. Qg6 Qf6 25. Qxf6 gxf6 26. Rxg1+ Kf7 27.
+Rh1 Kg7 28. Rg1+ Kf8 29. Nb5 e5 30. fxe5 fxe5 31. Rg6 Ng8 32. Nc7 e4 33. Be2
+Rc8 34. Ne6+ Ke7 35. Nd4 Kf7 36. Rd6 Nf6 37. c3 Rh8 38. Nb5 Ke7 39. c4 Rh1+ 40.
+Kg2 Re1 41. Kf2 Rb1 42. cxd5 Bxd5 43. Rxf6 Kxf6 44. Nc3 Rxb2 45. Nxd5+ Ke5 46.
+Ne7 Rc2 47. a4 Rc7 48. Ng6+ Kd4 49. Bb5 Rc2+ 50. Ke1 Ke3 51. Kd1 Rc5 52. Nf8
+Kf2 53. Ne6 Rc8 54. Ng5 Rd8+ 55. Kc2 e3 56. Ne4+ Kf3 57. Nc3 Rd4 58. Bc6+ Kf2
+59. Bb5 Ke1 60. Ba6 Rd2+ 61. Kb3 Rh2 62. Bb5 Kd2 63. Kb2 Rh5 64. Ne4+ Ke1 65.
+Nc3 Kf2 66. Bc4 a5 67. Nd1+ Kf3 68. Nc3 Re5 69. Kb3 Kf2 70. Nd1+ Ke1 71. Nc3 e2
+72. Nxe2 Re3+ 73. Kb2 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "Haygarth, Michael J"]
+[Black "Mestel, A Jonathan"]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[PlyCount "67"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+a6 9. O-O c5 10. Qe2 Bb7 11. Rd1 Qc7 12. Bc2 Be7 13. e4 b4 14. Na4 cxd4 15.
+Rxd4 Rc8 16. Bd3 O-O 17. b3 Qa5 18. Bg5 Ne5 19. Bd2 Nxd3 20. Rxd3 Bxe4 21. Rd4
+Bc6 22. Nb2 Rfd8 23. Nc4 Qf5 24. Rf4 Qh5 25. Nce5 Bb5 26. Qe1 Nd5 27. Nxf7 Rf8
+28. g4 Qg6 29. N7e5 Qc2 30. Nd4 Qb2 31. Rxf8+ Bxf8 32. Nxb5 axb5 33. Nd3 Qf6
+34. Rc1 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "Hutchings, Stuart"]
+[Black "Cooke, John R"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[PlyCount "48"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. d4 dxc4 5. Bg2 Bb4+ 6. Bd2 a5 7. O-O O-O 8.
+Bxb4 axb4 9. Ne5 Ra6 10. Nxc4 b5 11. Ne5 Rd6 12. Qb3 Rxd4 13. e3 Rd6 14. Qxb4
+Nd5 15. Qb3 Nd7 16. Nxd7 Qxd7 17. Nc3 Nxc3 18. Qxc3 Ba6 19. Rfc1 Rd8 20. h4 Qc8
+21. Qa5 c5 22. a4 bxa4 23. Rxc5 Qb8 24. Qxa4 Qxb2 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "James, Geoffrey H"]
+[Black "Harman, Ronald FA"]
+[Result "1-0"]
+[ECO "B82"]
+[PlyCount "77"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Bd3 b5 8. a3
+Bb7 9. O-O Nbd7 10. Kh1 Be7 11. Qe2 Qc7 12. Bd2 g6 13. Rae1 e5 14. fxe5 dxe5
+15. Nb3 O-O 16. Rf3 Kg7 17. Ref1 Ng8 18. g4 f6 19. Nd5 Bxd5 20. exd5 Rac8 21.
+Rh3 Rfe8 22. Qe4 Nf8 23. a4 Qd7 24. axb5 axb5 25. Qf3 Red8 26. Be4 b4 27. Be3
+Qb5 28. Ra1 Rd7 29. Rg3 Bd8 30. Rgg1 Ne7 31. Bh6+ Kf7 32. Bxf8 Kxf8 33. Qxf6+
+Kg8 34. Qe6+ Kg7 35. Qxe5+ Kg8 36. Qe6+ Kg7 37. Nd4 Qc4 38. Qxd7 Qxd4 39. Rae1
+1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "Lemon, Richard C"]
+[Black "Knox, Victor W"]
+[Result "0-1"]
+[ECO "D30"]
+[PlyCount "80"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. e3 c6 5. Bd3 Nbd7 6. Nbd2 c5 7. b3 Be7 8. O-O
+O-O 9. Bb2 b6 10. Rc1 Bb7 11. Qe2 Ne4 12. Ne5 Nxe5 13. dxe5 Nxd2 14. Qxd2 dxc4
+15. bxc4 Qc7 16. Qe2 Rfd8 17. f4 g6 18. e4 Rd7 19. f5 Rad8 20. Rcd1 Qc6 21. Rf3
+Qa4 22. f6 Bf8 23. Rc1 Ba6 24. Rc2 Qxa2 25. g4 Qb3 26. Rc3 Qb4 27. Qc2 Bb7 28.
+Bc1 h6 29. Re3 Rd4 30. Kf2 Bc6 31. Ke2 Ba4 32. Qd2 Bb3 33. Qe1 Bxc4 34. Bxc4
+Rxc4 35. Rxc4 Qxc4+ 36. Kf3 Qd4 37. Re2 Qxe5 38. Bb2 Rd3+ 39. Kg2 Qf4 40. h3
+Qf3+ 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "Littlewood, John Eric"]
+[Black "Speelman, Jonathan S"]
+[Result "1-0"]
+[ECO "B04"]
+[WhiteElo "2340"]
+[PlyCount "55"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Bg7 7. exd6 cxd6 8.
+O-O O-O 9. Re1 h6 10. a4 a5 11. Na3 Nc6 12. c3 Nd7 13. Qe2 Re8 14. Bxf7+ Kxf7
+15. Qe6+ Kf8 16. Qxg6 e6 17. Bxh6 Qf6 18. Rxe6 Rxe6 19. Bxg7+ Qxg7 20. Qxe6 Qf6
+21. Qb3 Qf7 22. Qxf7+ Kxf7 23. Nb5 d5 24. Nc7 Rb8 25. Re1 Nb6 26. b3 Bf5 27. h4
+Bc2 28. Ng5+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "McFarland, Robert S"]
+[Black "Hartston, William R"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[BlackElo "2420"]
+[PlyCount "34"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 Be7 7. Be2 Nc6 8.
+O-O O-O 9. f4 Bd7 10. Qe1 Nxd4 11. Bxd4 Bc6 12. Qg3 g6 13. Bf3 Nd7 14. Rad1 Qa5
+15. f5 Ne5 16. fxe6 fxe6 17. Bg4 Rxf1+ 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "Penrose, Jonathan"]
+[Black "Trangmar, Alan G"]
+[Result "1-0"]
+[ECO "B36"]
+[WhiteElo "2450"]
+[PlyCount "53"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6 8.
+Be3 Bg7 9. f3 O-O 10. Qd2 Qa5 11. Rc1 a6 12. b3 Bd7 13. Bd3 Rfc8 14. O-O b5 15.
+Rc2 b4 16. Ne2 Be6 17. Rcc1 Rab8 18. h3 Nd7 19. f4 Nc5 20. Bb1 Bd7 21. Ng3 Qc7
+22. Rf3 a5 23. f5 Be5 24. Bf4 f6 25. Bxe5 dxe5 26. Qh6 Bc6 27. Nh5 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "Pritchard, David B"]
+[Black "Lee, Peter N"]
+[Result "1-0"]
+[ECO "A05"]
+[BlackElo "2390"]
+[PlyCount "89"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. d3 Nc6 4. c3 Nf6 5. Nbd2 g6 6. g3 Bg7 7. Bg2 O-O 8. O-O
+Rb8 9. a4 Bd7 10. Re1 a6 11. e5 Ne8 12. d4 cxd4 13. cxd4 dxe5 14. dxe5 Bg4 15.
+h3 Bf5 16. Ra3 Nc7 17. g4 Be6 18. Qe2 Nd5 19. Ne4 Qc7 20. Nc5 Nd4 21. Nxd4 Qxc5
+22. Be3 Qa5 23. f4 Rfd8 24. Nb3 Qb4 25. Bd2 Qb6+ 26. Kh1 Nxf4 27. Bxf4 Bxb3 28.
+e6 Rbc8 29. Rxb3 Qxb3 30. exf7+ Qxf7 31. Bxb7 Rc4 32. Be5 Rxa4 33. Bc7 Rf8 34.
+Bg3 Qb3 35. Qg2 Qxb2 36. Re2 Ra1+ 37. Kh2 Qa3 38. Qd5+ Kh8 39. Be5 Qa5 40.
+Bxg7+ Kxg7 41. Rxe7+ Kf6 42. Qe6+ Kg5 43. Qe3+ Kf6 44. g5+ Kf5 45. Be4# 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "Pritchett, Craig"]
+[Black "Corden, Martyn"]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2340"]
+[BlackElo "2275"]
+[PlyCount "81"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
+9. dxc5 Nxc5 10. Qf2 Qe7 11. a3 b4 12. axb4 Nxb4 13. Ra5 Nb7 14. Bb5+ Bd7 15.
+Bxd7+ Qxd7 16. Ra1 Be7 17. O-O Qc7 18. Kh1 Nc5 19. Nb5 Qc8 20. Nbd4 Ne4 21. Qe2
+O-O 22. c3 Nc6 23. Ra2 Bc5 24. Rfa1 Nb8 25. Nd2 Nxd2 26. Qxd2 Bxd4 27. Bxd4 Qc4
+28. Ra4 Qb5 29. Ra5 Qb7 30. R5a4 Rc8 31. b4 h6 32. h3 Nc6 33. Bc5 Qb5 34. Qa2
+Nb8 35. Ra5 Qd3 36. Qa3 Qe4 37. b5 Qxf4 38. b6 Nc6 39. b7 Nxa5 40. Qxa5 Rcb8
+41. bxa8=Q 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "Sherman, David"]
+[Black "Webb, Simon"]
+[Result "0-1"]
+[ECO "C07"]
+[PlyCount "50"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. Bb5 cxd4 6. Nxd4 Bd7 7. Nxc6 bxc6 8.
+Bd3 Qc7 9. O-O Bd6 10. h3 Nf6 11. c4 O-O 12. Qe2 dxe4 13. Nxe4 Nxe4 14. Qxe4 f5
+15. Qe2 e5 16. f3 c5 17. Bd2 Bc6 18. Bc3 Qe7 19. Rae1 Rae8 20. a3 Bc7 21. f4 e4
+22. Qf2 Qf7 23. Bc2 Qxc4 24. Qg3 Rf7 25. Bxg7 Rxg7 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "Stean, Michael"]
+[Black "Hindle, Owen"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+[WhiteElo "2275"]
+[PlyCount "38"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5 8.
+Nb3 Qxd1 9. Rxd1 Bd7 10. Bf4 O-O-O 11. Nc3 Be6 12. Rxd8+ Kxd8 13. Rd1+ Kc8 14.
+Nd5 Bxd5 15. Rxd5 b6 16. Rd1 Ne7 17. Kf1 Nc6 18. c4 Bd6 19. Bxd6 Rd8 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.18"]
+[Round "5"]
+[White "Williams, A Howard"]
+[Black "Clarke, Peter H"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2390"]
+[BlackElo "2360"]
+[PlyCount "44"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. c4
+Nb4 9. cxd5 Nxd3 10. Qxd3 Qxd5 11. Re1 Bf5 12. Nc3 Nxc3 13. Qxc3 c6 14. Bg5 f6
+15. Qe3 Qd7 16. Bf4 Kf7 17. Re2 Rhe8 18. Rae1 Kf8 19. Qb3 Bg4 20. Bd2 Bd6 21.
+Rxe8+ Rxe8 22. Rxe8+ Kxe8 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Clarke, Peter H"]
+[Black "McFarland, Robert S"]
+[Result "1/2-1/2"]
+[ECO "E38"]
+[WhiteElo "2360"]
+[PlyCount "36"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Bxc5 6. Nf3 d5 7. cxd5 Nxd5 8.
+Nxd5 Qxd5 9. Bd2 Nd7 10. e3 O-O 11. Bd3 h6 12. O-O Be7 13. Rfd1 Qc5 14. Bc3 Bf6
+15. Rac1 Bxc3 16. Qb1 Qe7 17. Rxc3 Nc5 18. Be2 b6 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Cooke, John R"]
+[Black "Bellin, Robert"]
+[Result "0-1"]
+[ECO "A46"]
+[BlackElo "2315"]
+[PlyCount "80"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b5 4. Bg2 Bb7 5. O-O Be7 6. Nbd2 O-O 7. c3 a5 8. Re1
+d5 9. Ne5 c5 10. a4 b4 11. dxc5 bxc3 12. Nb3 Qc7 13. Nd3 Nbd7 14. bxc3 Ne4 15.
+Be3 e5 16. Rc1 Bc6 17. f3 Bg5 18. Bxg5 Nxg5 19. Ra1 Ne6 20. e4 dxe4 21. fxe4
+Rab8 22. Qc2 Rb7 23. Ra3 Rfb8 24. Rf1 Bxa4 25. Rxa4 Rxb3 26. Rfa1 Ndxc5 27.
+Rxa5 Nxd3 28. Qxd3 Rxc3 29. Qd1 g6 30. Ra7 Rb7 31. Rxb7 Qxb7 32. Qd6 Qc7 33.
+Qxc7 Rxc7 34. Ra5 Rc5 35. Ra7 Kg7 36. Bh3 Ng5 37. Bg2 Rc4 38. Ra5 Nxe4 39. Rxe5
+Rc1+ 40. Bf1 Nd2 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Corden, Martyn"]
+[Black "Farrand, Julian T"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "2275"]
+[PlyCount "18"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Bc4 Qc7 6. Qe2 Nb6 7. Bd3 Nc6 8. Nf3
+e6 9. cxd4 Nxd4 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Emsley, JS."]
+[Black "James, Geoffrey H"]
+[Result "0-1"]
+[ECO "A25"]
+[PlyCount "98"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 e5 4. Nc3 Nc6 5. d3 Nf6 6. e3 O-O 7. Nge2 d6 8. O-O
+Ne7 9. b3 c6 10. Qc2 d5 11. Rd1 Be6 12. Na4 b6 13. Bb2 Nd7 14. Rac1 Rc8 15. Ba3
+c5 16. Nac3 d4 17. exd4 exd4 18. Ne4 Ne5 19. h3 h6 20. Nf4 Bd7 21. b4 f5 22.
+Nd6 Rc7 23. bxc5 bxc5 24. Nb5 g5 25. Nd5 Rc6 26. Nxa7 Ra6 27. Bxc5 Nxd5 28.
+Bxd5+ Rf7 29. Nb5 Be6 30. Qb3 f4 31. Nxd4 Bxd5 32. cxd5 Qf6 33. g4 f3 34. Nf5
+h5 35. d4 hxg4 36. Qb8+ Kh7 37. Qxe5 Qxf5 38. Qxf5+ Rxf5 39. Rc2 gxh3 40. d6
+Rd5 41. Kh2 Kg6 42. Kxh3 Kf5 43. Kh2 Be5+ 44. Kg1 Ra8 45. Rcd2 Bf4 46. Rd3 g4
+47. a3 Rh8 48. Re1 Bh2+ 49. Kf1 Bxd6 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Harman, Ronald FA"]
+[Black "BYE"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Hartston, William R"]
+[Black "Haygarth, Michael J"]
+[Result "1-0"]
+[ECO "C92"]
+[WhiteElo "2420"]
+[PlyCount "81"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. b4 Bf8 14. Bb2 g6 15. a3
+Bg7 16. c4 exd4 17. cxb5 axb5 18. Nxd4 c6 19. N4b3 Rc8 20. a4 bxa4 21. Na5 Ba8
+22. Ndc4 d5 23. Nd6 Nxe4 24. Rxe4 dxe4 25. Bxg7 Kxg7 26. Nac4 Rb8 27. Nxe8+
+Qxe8 28. Rxa4 Nf6 29. Ra7 Bb7 30. Nd6 Qe7 31. Rxb7 Rxb7 32. Nxb7 Qxb7 33. Qd4
+Qe7 34. Ba4 Qe6 35. Qc3 Kf8 36. Bxc6 Qd6 37. b5 h5 38. b6 e3 39. fxe3 Nd7 40.
+Bxd7 Qxd7 41. Qb4+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Hindle, Owen"]
+[Black "Littlewood, John Eric"]
+[Result "0-1"]
+[ECO "A01"]
+[BlackElo "2340"]
+[PlyCount "84"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. b3 c5 2. Bb2 Nc6 3. f4 Nf6 4. Nf3 e6 5. e3 Be7 6. Be2 b6 7. O-O Bb7 8. Qe1
+d6 9. a4 a6 10. Qg3 g6 11. Na3 Nb4 12. c3 Nc6 13. d3 Qc7 14. Rac1 Nd7 15. e4 d5
+16. b4 dxe4 17. dxe4 Nf6 18. e5 Nh5 19. Qg4 cxb4 20. cxb4 Bxb4 21. f5 Qe7 22.
+fxg6 hxg6 23. Nc4 Bc5+ 24. Kh1 O-O 25. Bd3 Ng7 26. Ng5 Nb4 27. Qh4 Nh5 28. Be2
+Be4 29. Bxh5 gxh5 30. Qxh5 Bg6 31. Qh6 Nd3 32. Nd6 Be3 33. Rf6 Qxf6 34. exf6
+Nf2+ 35. Kg1 Ng4+ 36. Kf1 Bd3+ 37. Ke1 Nxh6 38. Rc3 Bxg5 39. Rxd3 Bf4 40. Ne4
+Nf5 41. Rf3 Nh4 42. Rh3 Ng6 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Keene, Raymond"]
+[Black "Williams, A Howard"]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2435"]
+[BlackElo "2390"]
+[PlyCount "41"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. e3 c5 6. a3 Bxd2+ 7. Qxd2 O-O 8.
+Be2 d6 9. O-O Nc6 10. b4 Qe7 11. Bb2 Bb7 12. dxc5 dxc5 13. b5 Na5 14. Qc3 Rfd8
+15. Rad1 Ne8 16. Bd3 Bxf3 17. gxf3 Qh4 18. Be2 f6 19. Rxd8 Rxd8 20. Qc2 Qg5+
+21. Kh1 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Knox, Victor W"]
+[Black "Eley, Brian"]
+[Result "0-1"]
+[ECO "C84"]
+[PlyCount "240"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 b5 7. dxe5 Nxe4 8.
+Bb3 Nc5 9. Bd5 O-O 10. Nc3 Bb7 11. Re1 d6 12. exd6 Bxd6 13. Bg5 Qd7 14. Qd2
+Rae8 15. Rxe8 Rxe8 16. Rd1 b4 17. Ne2 Ne4 18. Qd3 Bxh2+ 19. Kf1 Nc5 20. Qc4 Bd6
+21. Be3 Ne6 22. Qh4 Be7 23. Qg4 Bf6 24. Rd3 Qe7 25. Ng3 Bxb2 26. Nf5 Qf6 27.
+Nh6+ Kf8 28. Bxc6 Bxc6 29. Qxb4+ Re7 30. Ng4 Qf5 31. a4 a5 32. Qxb2 Qxg4 33.
+Rb3 Qxa4 34. Ne5 Re8 35. Qc3 Bd5 36. Bc5+ Kg8 37. Rb1 Qe4 38. Nf3 Bc4+ 39. Kg1
+Nxc5 40. Re1 Be2 41. Qxc5 Qa8 42. Nd4 Bg4 43. Rxe8+ Qxe8 44. Qxa5 h5 45. Nf5
+Bxf5 46. Qxf5 g6 47. Qc5 Qd7 48. g3 Qd6 49. Qc4 c5 50. c3 Kg7 51. Kg2 Qe5 52.
+Kf1 Kf6 53. Kg2 Qf5 54. Kg1 Ke7 55. Kg2 Kd6 56. Qa6+ Kd5 57. Qa2+ Ke5 58. Kg1
+Qf3 59. Qc4 Qd1+ 60. Kh2 Qd5 61. Qf4+ Ke6 62. Qe3+ Kd7 63. Qf4 Kc6 64. Qa4+ Kc7
+65. Qa7+ Kd6 66. Qb8+ Ke6 67. Qf4 Qd3 68. Qc1 Kd5 69. Qf4 f5 70. Qg5 Qxc3 71.
+Qxg6 Qf3 72. Qf7+ Kd4 73. Kg1 c4 74. Qa7+ Kd3 75. Qa6 Qe4 76. Qb5 Ke2 77. Qa6
+Qb1+ 78. Kh2 Kxf2 79. Qa7+ Kf3 80. Qa8+ Qe4 81. Qa3+ Qe3 82. Qa8+ Kf2 83. Qa2+
+Qe2 84. Qa7+ Kf3+ 85. Kh3 Qg2+ 86. Kh4 Qxg3+ 87. Kxh5 Qg4+ 88. Kh6 Qe4 89. Qa1
+c3 90. Qf1+ Ke3 91. Qe1+ Kd4 92. Qd1+ Qd3 93. Qa4+ Ke3 94. Kg5 c2 95. Qf4+ Ke2
+96. Qh2+ Kd1 97. Qg1+ Kd2 98. Qf2+ Kc1 99. Qb6 Qe4 100. Qg1+ Kd2 101. Qf2+ Kd3
+102. Qf1+ Kc3 103. Qa1+ Kb3 104. Qc1 f4 105. Qf1 Qe5+ 106. Kg4 Kb2 107. Qh1
+Qe2+ 108. Kh4 f3 109. Qg1 Qe7+ 110. Kg4 Qg7+ 111. Kh3 Qxg1 112. Kh4 f2 113. Kh3
+f1=B+ 114. Kh4 c1=B 115. Kh5 Bd2 116. Kh4 Be1+ 117. Kh5 Be2+ 118. Kh6 Bd2+ 119.
+Kh7 Bd3+ 120. Kh8 Bc3# 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Mestel, A Jonathan"]
+[Black "Penrose, Jonathan"]
+[Result "0-1"]
+[ECO "B82"]
+[BlackElo "2450"]
+[PlyCount "70"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 Be7 6. Be3 Nf6 7. f4 Nc6 8. Qf3
+e5 9. Nxc6 bxc6 10. f5 Qa5 11. Bc4 Rb8 12. Bb3 d5 13. Bd2 Bb4 14. O-O-O O-O 15.
+a3 Bxc3 16. Bxc3 Qc7 17. exd5 Rxb3 18. cxb3 cxd5 19. Kb1 d4 20. Bb4 Re8 21.
+Rhe1 Bb7 22. Qe2 a5 23. Bd2 Be4+ 24. Ka1 Qb7 25. b4 Bxf5 26. Bg5 Bg4 27. Qd3
+Bxd1 28. Bxf6 gxf6 29. Qxd1 axb4 30. Qg4+ Kh8 31. Qf5 Qc6 32. axb4 e4 33. b5
+Qe6 34. Qxe6 Rxe6 35. b6 e3 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Miles, Anthony J"]
+[Black "Basman, Michael John"]
+[Result "1-0"]
+[ECO "C16"]
+[WhiteElo "2285"]
+[BlackElo "2385"]
+[PlyCount "95"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Bd7 5. Bd2 a6 6. Bd3 Bf8 7. Qg4 Nc6 8. Rc1
+f5 9. Qf4 g5 10. Qg3 h6 11. h4 Qe7 12. hxg5 O-O-O 13. Nf3 Qg7 14. Qh2 Nb4 15.
+a3 Nxd3+ 16. cxd3 Qf7 17. Qg3 f4 18. Qxf4 Qh7 19. Ke2 Be8 20. Qxf8 Bb5 21. Nxb5
+Rxf8 22. Rxc7+ Qxc7 23. Nxc7 Kxc7 24. gxh6 Kd7 25. Rh5 Ne7 26. Nh4 Rfg8 27. Bg5
+Rh7 28. g4 Nc6 29. Ke3 Ke8 30. f4 Kf7 31. f5 Nb8 32. Nf3 Nd7 33. Kf4 Rgh8 34.
+Kg3 Rg8 35. Kh4 Ke8 36. Bd2 exf5 37. Ng5 Rxg5 38. Kxg5 fxg4 39. Kxg4 Kf7 40.
+Kf5 Nf8 41. Rh4 Ne6 42. Rg4 Ke7 43. Bg5+ Kf7 44. Be3 Nf8 45. Rg7+ Rxg7 46. hxg7
+Kxg7 47. e6 Nh7 48. Bh6+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Perkins, Alan H"]
+[Black "Pritchett, Craig"]
+[Result "1/2-1/2"]
+[ECO "A88"]
+[BlackElo "2340"]
+[PlyCount "82"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 f5 2. Nf3 Nf6 3. g3 d6 4. d4 g6 5. Bg2 Bg7 6. O-O O-O 7. Nc3 c6 8. d5 Qa5
+9. Nd4 Qc5 10. Qd3 Ng4 11. Nb3 Qb6 12. c5 dxc5 13. Na4 Qa6 14. Qxa6 Nxa6 15.
+dxc6 bxc6 16. h3 c4 17. Bxc6 Rb8 18. hxg4 cxb3 19. Bd5+ e6 20. Bxb3 fxg4 21.
+Rd1 Be5 22. Be3 Rb5 23. Bxa7 Kg7 24. Rac1 h5 25. Bd4 Bxd4 26. Rxd4 Rbf5 27. Nb6
+Rxf2 28. Nxc8 Rxe2 29. Bc4 Rxc8 30. Rcd1 Rxb2 31. Bxa6 Rc3 32. Bd3 Ra3 33. Rd7+
+Kf6 34. Rd6 Raxa2 35. Re1 Rg2+ 36. Kh1 Rh2+ 37. Kg1 Rhg2+ 38. Kh1 Rh2+ 39. Kg1
+Rag2+ 40. Kf1 Rf2+ 41. Kg1 Rhg2+ 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Sherman, David"]
+[Black "Edwards, Raymond B"]
+[Result "1-0"]
+[ECO "B16"]
+[PlyCount "45"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 Bg4 4. d4 dxe4 5. Nxe4 Nf6 6. Nxf6+ gxf6 7. Bf4 Nd7
+8. Be2 Qb6 9. O-O Bg7 10. Nh4 Be6 11. c4 Rd8 12. Qd3 Kf8 13. Qc3 a5 14. Rad1 f5
+15. Qg3 Nf6 16. Bc7 Qxb2 17. Bxd8 Qxe2 18. Rfe1 Qxc4 19. Bxe7+ Kxe7 20. Qxg7
+Rg8 21. Nxf5+ Kd7 22. Qxf6 Qd5 23. Qe7+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Speelman, Jonathan S"]
+[Black "Hutchings, Stuart"]
+[Result "1/2-1/2"]
+[ECO "A17"]
+[PlyCount "38"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4 4. g3 O-O 5. Bg2 d5 6. a3 Bxc3 7. bxc3 Nc6 8.
+cxd5 exd5 9. O-O Re8 10. d3 Ne7 11. a4 c5 12. Rb1 Nc6 13. Re1 h6 14. Nd2 b6 15.
+c4 Bb7 16. cxd5 Nxd5 17. Bb2 Nf6 18. Nc4 Qe7 19. Qb3 Rad8 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Stean, Michael"]
+[Result "0-1"]
+[ECO "C02"]
+[BlackElo "2275"]
+[PlyCount "58"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Qb6 6. Be2 cxd4 7. cxd4 Nge7 8. Na3
+Nf5 9. Nc2 Bb4+ 10. Kf1 Be7 11. g4 Nh4 12. Nxh4 Bxh4 13. Kg2 Bd7 14. f4 Be7 15.
+Be3 Rc8 16. Bd3 Qxb2 17. Rb1 Qxa2 18. Rxb7 Nb4 19. Rxb4 Bxb4 20. Qe2 a5 21. Ra1
+Qb2 22. Rc1 O-O 23. f5 Ba4 24. f6 Rc3 25. Bd2 Rxd3 26. Qxd3 Bxd2 27. Qxd2 Rc8
+28. Qg5 Rxc2+ 29. Kg3 Qc3+ 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Trangmar, Alan G"]
+[Black "Lemon, Richard C"]
+[Result "1-0"]
+[ECO "D92"]
+[PlyCount "91"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. Rc1 dxc4 7. e3 c5 8. Bxc4
+cxd4 9. Nxd4 Nbd7 10. Ndb5 Ne8 11. b4 a6 12. Na3 Nef6 13. O-O b5 14. Be2 Bb7
+15. Qb3 Rc8 16. Nab1 Nb6 17. Rfd1 Qe8 18. Be5 Nc4 19. Bd4 Qc6 20. Bf3 Qc7 21.
+Bxb7 Qxb7 22. a4 Rfd8 23. Na3 Nxa3 24. Qxa3 Ng4 25. Bxg7 Kxg7 26. h3 Ne5 27.
+Rxd8 Rxd8 28. axb5 axb5 29. Qa5 Rb8 30. Ra1 Nc6 31. Qa6 Qd7 32. Rd1 Nxb4 33.
+Qa1 Nc2 34. Qb2 Qf5 35. Ne4+ f6 36. Qxc2 b4 37. f3 b3 38. Qb2 Qe6 39. Rd3 Qb6
+40. Nd2 Rc8 41. Rxb3 Qd6 42. Kf2 Kf7 43. Qd4 Qe6 44. Rc3 Rxc3 45. Qxc3 Kg7 46.
+Qc7 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.19"]
+[Round "6"]
+[White "Webb, Simon"]
+[Black "Pritchard, David B"]
+[Result "1-0"]
+[ECO "A87"]
+[PlyCount "123"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 c5 2. d5 f5 3. Nf3 Nf6 4. g3 d6 5. Bg2 g6 6. O-O Bg7 7. c4 O-O 8. Nc3 Na6
+9. Rb1 Rb8 10. b3 Nc7 11. Bb2 b5 12. Qc2 bxc4 13. bxc4 e5 14. dxe6 Bxe6 15. Qd3
+Ne4 16. Ba1 Rxb1 17. Rxb1 Qd7 18. Ne1 Qf7 19. Bxe4 fxe4 20. Nxe4 Bxc4 21. Qe3
+Bxa1 22. Rxa1 Re8 23. Qf3 Qxf3 24. exf3 Re6 25. Ng2 d5 26. Nxc5 Rc6 27. Nd7
+Bxa2 28. Rxa2 Rc1+ 29. Ne1 Rxe1+ 30. Kg2 Re7 31. Nc5 Na8 32. f4 Nb6 33. g4 Kf7
+34. Nd3 Nc4 35. Ra6 Rb7 36. h4 Nb6 37. Kf3 Re7 38. Ne5+ Ke8 39. Nc6 Rc7 40.
+Nxa7 Rc3+ 41. Ke2 Nc4 42. Nb5 Rh3 43. h5 gxh5 44. g5 Kf7 45. Nd4 Ra3 46. Rf6+
+Ke8 47. Rh6 Ra2+ 48. Kf1 Nd2+ 49. Kg1 Ra4 50. Ne6 Ke7 51. Nc7 d4 52. Rxh7+ Kf8
+53. Ne6+ Kg8 54. Rg7+ Kh8 55. g6 Nf3+ 56. Kg2 Ra6 57. Rh7+ Kg8 58. Kxf3 Rxe6
+59. f5 Rd6 60. Ke2 d3+ 61. Kd2 Rd5 62. f6 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "Basman, Michael John"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "1-0"]
+[ECO "C32"]
+[WhiteElo "2385"]
+[PlyCount "49"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. Qe2 Bc5 6. dxe4 O-O 7. Nc3 Re8 8. Bd2
+Bxg1 9. Rxg1 Bg4 10. Qd3 Nxe4 11. Nxe4 f5 12. h3 Rxe4+ 13. Kf2 Bh5 14. g4 Bg6
+15. gxf5 Bxf5 16. Qc3 Re7 17. Bc4 Kh8 18. Be3 Qd6 19. Rg5 Bg6 20. Bd3 Bxd3 21.
+cxd3 Nd7 22. Rag1 Rf8 23. Rxg7 Nf6 24. Rxe7 Qxe7 25. Bc5 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "Bellin, Robert"]
+[Black "Miles, Anthony J"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2315"]
+[BlackElo "2285"]
+[PlyCount "34"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Bg5 Nbd7 8.
+Nc3 Qxe2+ 9. Bxe2 h6 10. Bh4 g6 11. O-O-O Bg7 12. Rhe1 O-O 13. Nd2 Nb6 14. Bg3
+Nfd5 15. Nxd5 Nxd5 16. Bf3 Be6 17. d4 b5 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "Edwards, Raymond B"]
+[Black "Cooke, John R"]
+[Result "1-0"]
+[ECO "D36"]
+[PlyCount "69"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 e6 2. Nc3 Nf6 3. d4 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Bd3 Nbd7 8.
+Qc2 b5 9. Nf3 Bb7 10. O-O O-O 11. Rac1 Re8 12. Ne5 g6 13. f4 b4 14. Ne2 Nxe5
+15. fxe5 Ne4 16. Bxe7 Qxe7 17. Bxe4 dxe4 18. Ng3 Qg5 19. Qxe4 f5 20. Qd3 h5 21.
+Rc5 a5 22. Qb3+ Kg7 23. Rf3 Ba6 24. Nxf5+ Kh8 25. Nd6 Qh4 26. Rc1 Rf8 27. Nf7+
+Kg7 28. e6 Rae8 29. d5 c5 30. Qd1 g5 31. Rxc5 g4 32. Rf2 g3 33. hxg3 Qxg3 34.
+Rf3 Qg4 35. Rc7 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "Emsley, JS."]
+[Black "BYE"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "Farrand, Julian T"]
+[Black "Hindle, Owen"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[PlyCount "68"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. Be2 Bg7 5. Be3 O-O 6. a3 c6 7. h3 Nbd7 8. Nf3
+e5 9. dxe5 dxe5 10. O-O Qe7 11. b4 Rd8 12. Qb1 Nh5 13. Rd1 Nf4 14. Bc4 Nb6 15.
+Rxd8+ Qxd8 16. Bb3 Qe7 17. Qf1 Be6 18. Rd1 Bxb3 19. cxb3 Rd8 20. Bc5 Qc7 21.
+Rxd8+ Qxd8 22. Qd1 Qxd1+ 23. Nxd1 f6 24. Nc3 Bf8 25. Be3 Ne6 26. Kf1 Nc8 27.
+Ke2 a5 28. bxa5 Bxa3 29. Na4 Nd6 30. Kd3 Bb4 31. Bd2 Bc5 32. Be3 Bb4 33. Bd2
+Bc5 34. Be3 Bb4 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "Haygarth, Michael J"]
+[Black "Trangmar, Alan G"]
+[Result "1-0"]
+[ECO "A70"]
+[PlyCount "87"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Bd3 Bg7 8. Nf3
+O-O 9. O-O a6 10. a4 Nbd7 11. Bg5 h6 12. Bh4 Qc7 13. Nd2 Ne5 14. Be2 g5 15. Bg3
+Rb8 16. a5 Nfd7 17. Qc2 Ng6 18. Nc4 Nde5 19. Nxe5 Nxe5 20. f4 gxf4 21. Bxf4 b5
+22. axb6 Qxb6 23. Nd1 Ng6 24. Be3 Kh7 25. Kh1 a5 26. Bd2 Ra8 27. Ra3 Be5 28.
+Qc1 Qd8 29. g3 Bh3 30. Rg1 Bd4 31. Be3 Qe7 32. Nf2 Bxe3 33. Qxe3 Bd7 34. Rga1
+a4 35. Bd1 Rab8 36. Qc3 f5 37. Bc2 f4 38. Bxa4 fxg3 39. Qxg3 Rxf2 40. Qxf2
+Qxe4+ 41. Kg1 Bf5 42. Re1 Qxd5 43. Bc6 Qg8 44. Qxf5 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "Hutchings, Stuart"]
+[Black "Sherman, David"]
+[Result "1/2-1/2"]
+[ECO "A23"]
+[PlyCount "88"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 c6 4. Nf3 e4 5. Nd4 d5 6. cxd5 Qb6 7. Nb3 a5 8. d3 a4
+9. Be3 Qb4 10. dxe4 axb3 11. a3 Qc4 12. Bd4 cxd5 13. e3 Qc7 14. exd5 Na6 15.
+Qxb3 Bc5 16. Rd1 Bg4 17. Bxa6 bxa6 18. Qa4+ Nd7 19. Bxc5 Bxd1 20. Qe4+ Qe5 21.
+Kxd1 Qxe4 22. Nxe4 Nxc5 23. Nxc5 Ke7 24. e4 Kd6 25. Nd3 Rac8 26. Kd2 Rc4 27.
+Re1 Re8 28. f3 a5 29. b4 axb4 30. axb4 Ra8 31. e5+ Kxd5 32. Nf4+ Kc6 33. e6
+Rd8+ 34. Nd3 fxe6 35. Rxe6+ Rd6 36. Rxd6+ Kxd6 37. Ke3 Rc2 38. h4 Kd5 39. h5
+Kc4 40. Nf4 Rc1 41. Ke4 Re1+ 42. Kf5 Re3 43. Kg4 Re8 44. Kf5 Re3 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "James, Geoffrey H"]
+[Black "Corden, Martyn"]
+[Result "1-0"]
+[ECO "C11"]
+[BlackElo "2275"]
+[PlyCount "43"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. dxc5
+Bxc5 9. Bxc5 Nxc5 10. Qd2 b5 11. Bd3 b4 12. Ne2 Qb6 13. Ned4 Nxd4 14. Nxd4 a5
+15. Bb5+ Bd7 16. Bxd7+ Nxd7 17. O-O O-O 18. Kh1 Rac8 19. Rad1 g6 20. Rf3 Nc5
+21. f5 Ne4 22. Qh6 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "Keene, Raymond"]
+[Black "Mestel, A Jonathan"]
+[Result "1/2-1/2"]
+[ECO "A29"]
+[WhiteElo "2435"]
+[PlyCount "82"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. Nf3 Nc6 2. c4 e5 3. Nc3 Bb4 4. g3 Nf6 5. Nd5 e4 6. Nh4 d6 7. Nxb4 Nxb4 8. a3
+Nc6 9. d3 exd3 10. Qxd3 Be6 11. Bg2 O-O 12. O-O d5 13. cxd5 Bxd5 14. Bg5 Bxg2
+15. Qxd8 Raxd8 16. Kxg2 Rfe8 17. Rfe1 Rd5 18. Bxf6 gxf6 19. Nf3 Ne5 20. Red1
+Red8 21. Rxd5 Rxd5 22. Rc1 Nxf3 23. Kxf3 Rd2 24. b4 Ra2 25. Rc3 Kg7 26. Re3 f5
+27. Kf4 Kf6 28. h3 Rc2 29. Kf3 b6 30. Rd3 c5 31. bxc5 bxc5 32. Ke3 Ke6 33. Rd2
+Rc1 34. Rd8 Ra1 35. Rd3 c4 36. Rc3 Kd5 37. g4 f4+ 38. Kd2 Ra2+ 39. Kd1 Rb2 40.
+Rf3 Rb3 41. Rxf4 Rxa3 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "Lemon, Richard C"]
+[Black "Speelman, Jonathan S"]
+[Result "1-0"]
+[ECO "E74"]
+[PlyCount "91"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 h6 8. Be3 e6
+9. dxe6 Bxe6 10. Qd2 Kh7 11. O-O-O Qa5 12. f3 b5 13. Nxb5 Qxa2 14. Qc2 Nc6 15.
+Nc3 Qa5 16. Rxd6 Nd4 17. Qa4 Qxa4 18. Nxa4 Ne8 19. Rxe6 Nxe6 20. Nxc5 N8c7 21.
+Nh3 Rfb8 22. Nd3 Bd4 23. Bd2 Rb3 24. Kc2 Rab8 25. Bc1 Na6 26. Nhf4 Nxf4 27.
+Bxf4 R8b7 28. Bc1 R3b6 29. Rd1 Bg7 30. f4 Rc7 31. Nf2 Nb4+ 32. Kb1 a5 33. e5 a4
+34. Ne4 Bf8 35. Rd8 a3 36. Nf6+ Rxf6 37. exf6 a2+ 38. Ka1 Ra7 39. Bd1 Bc5 40.
+Bd2 Nc6 41. Rc8 Bd4 42. Bc3 Bxc3 43. bxc3 Na5 44. c5 Rd7 45. Ba4 Rd3 46. Kxa2
+1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "Littlewood, John Eric"]
+[Black "Eley, Brian"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "2340"]
+[PlyCount "34"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. c3 Bd7 6. Nbd2 Be7 7. Nf1 O-O 8. Ba4
+Qe8 9. Ng3 d5 10. exd5 Nxd5 11. O-O Nd4 12. cxd4 Bxa4 13. b3 Bb5 14. Nxe5 Bf6
+15. Re1 Bxe5 16. Rxe5 Qd7 17. Nf5 Rae8 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "McFarland, Robert S"]
+[Black "Perkins, Alan H"]
+[Result "1/2-1/2"]
+[ECO "C93"]
+[PlyCount "65"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 h6 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 Bd7 13. Nf1 g6 14. Ng3 Bg7 15. Be3
+Qe7 16. Qd2 Kh7 17. b4 Red8 18. a4 exd4 19. cxd4 a5 20. bxa5 Nxa5 21. axb5 Nc4
+22. Qb4 Nxe3 23. fxe3 Rxa1 24. Rxa1 Rb8 25. Ra5 c6 26. b6 c5 27. dxc5 dxc5 28.
+Qd2 Bc6 29. Ra7 Qe6 30. Qa5 Nd7 31. Ba4 Rxb6 32. Bxc6 Qxc6 33. Qd2 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "Penrose, Jonathan"]
+[Black "Hartston, William R"]
+[Result "1-0"]
+[ECO "B52"]
+[WhiteElo "2450"]
+[BlackElo "2420"]
+[PlyCount "75"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c4 g6 7. d4 cxd4 8.
+Nxd4 Bg7 9. Be3 Nf6 10. f3 Rc8 11. Nc3 Nxd4 12. Qxd4 O-O 13. Qd3 a6 14. Rac1
+Qc6 15. b3 e6 16. Rfd1 Ne8 17. Na4 Rd8 18. Nb6 Nc7 19. a4 f5 20. b4 f4 21. Bf2
+g5 22. b5 Qe8 23. Qa3 Qe7 24. Rd3 Be5 25. Rcd1 Qf7 26. c5 d5 27. Nc4 Bf6 28.
+Nd6 Qe7 29. b6 Ne8 30. exd5 exd5 31. Rxd5 Qe2 32. Qb3 Nxd6 33. cxd6 Kh8 34. d7
+Qe6 35. Qd3 Rf7 36. Rd6 Qe7 37. Qd5 Rff8 38. Qxb7 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "Pritchard, David B"]
+[Black "Harman, Ronald FA"]
+[Result "1-0"]
+[ECO "A16"]
+[PlyCount "61"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 Nb6 6. Nf3 Bg7 7. d3 O-O 8.
+Bf4 Nc6 9. Qd2 Re8 10. Bh6 Bh8 11. h4 e5 12. h5 Nd4 13. Ng5 Qe7 14. Nxh7 Kxh7
+15. hxg6+ Kg8 16. g7 Bxg7 17. Bxg7 Nf5 18. Be4 f6 19. Bh6 c6 20. g4 Nd6 21. f4
+Nxe4 22. Nxe4 exf4 23. Bxf4 Bxg4 24. O-O-O Nd5 25. Rdg1 f5 26. Rh5 Qd7 27.
+Rxg4+ fxg4 28. Rxd5 Qe6 29. Rg5+ Kh7 30. Qc3 Re7 31. Nf6+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "Pritchett, Craig"]
+[Black "Webb, Simon"]
+[Result "0-1"]
+[ECO "C19"]
+[WhiteElo "2340"]
+[PlyCount "70"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Nf3 Nbc6 8. a4
+Qa5 9. Bd2 Bd7 10. Be2 c4 11. O-O f6 12. exf6 gxf6 13. Nh4 O-O-O 14. Bg4 Ng6
+15. Nxg6 hxg6 16. Re1 e5 17. Bxd7+ Rxd7 18. Qg4 exd4 19. Qxg6 dxc3 20. Bf4 d4
+21. Qxf6 Qd8 22. Qe6 Qg8 23. g4 Qxe6 24. Rxe6 d3 25. Kg2 Rd4 26. Kg3 Kd7 27.
+Rxc6 Kxc6 28. Be5 Rdd8 29. Bxh8 Rxh8 30. Rd1 Re8 31. f3 Re2 32. cxd3 c2 33. Rc1
+cxd3 34. g5 Kd5 35. g6 Ke6 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "Stean, Michael"]
+[Black "Clarke, Peter H"]
+[Result "1/2-1/2"]
+[ECO "E08"]
+[WhiteElo "2275"]
+[BlackElo "2360"]
+[PlyCount "46"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. d4 Nbd7 7. Qc2 c6 8. Rd1
+b6 9. b3 Bb7 10. Nc3 Rc8 11. e4 Bb4 12. Nd2 c5 13. exd5 exd5 14. a3 Bxc3 15.
+Qxc3 Qc7 16. Bb2 Rfd8 17. dxc5 Nxc5 18. cxd5 Bxd5 19. Bxd5 Rxd5 20. Nc4 Rxd1+
+21. Rxd1 Rd8 22. Rxd8+ Qxd8 23. Ne3 Nd3 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.21"]
+[Round "7"]
+[White "Williams, A Howard"]
+[Black "Knox, Victor W"]
+[Result "1/2-1/2"]
+[ECO "E69"]
+[WhiteElo "2390"]
+[PlyCount "81"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 O-O 5. O-O d6 6. d4 Nbd7 7. Nc3 e5 8. e4
+Re8 9. Re1 c6 10. h3 Qb6 11. d5 Nc5 12. Qc2 a5 13. Be3 Qc7 14. Nd2 Nh5 15. Rad1
+Na6 16. Na4 c5 17. Nc3 f5 18. exf5 gxf5 19. Nf1 Qf7 20. Nb5 Bf8 21. f4 e4 22.
+a3 Nc7 23. Nxc7 Qxc7 24. a4 Bg7 25. Kh2 Qf7 26. Bf2 Bd7 27. Ne3 Kh8 28. Rg1 Rg8
+29. Bf1 Bd4 30. b3 Rg7 31. Qd2 b6 32. Be2 Rag8 33. Rdf1 Nf6 34. Rg2 Rg6 35.
+Rfg1 Qg7 36. Kh1 Rh6 37. Rh2 Rg6 38. Rhg2 Bc8 39. Bd1 Qh6 40. Rh2 Qg7 41. Rhg2
+1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Basman, Michael John"]
+[Black "Hutchings, Stuart"]
+[Result "1-0"]
+[ECO "C17"]
+[WhiteElo "2385"]
+[PlyCount "80"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. Bd2 c5 6. Nb5 Bxd2+ 7. Qxd2 O-O 8. f4
+cxd4 9. Nf3 Qb6 10. O-O-O Bd7 11. Nbxd4 Nbc6 12. Be2 Nxd4 13. Qxd4 Qa5 14. Kb1
+Nc6 15. Qd2 Qxd2 16. Rxd2 Be8 17. g3 f6 18. exf6 gxf6 19. f5 e5 20. g4 Bf7 21.
+Rg1 Kh8 22. c3 Rad8 23. b3 d4 24. Kb2 dxc3+ 25. Kxc3 e4 26. Nd4 Ne5 27. Nc2
+Rc8+ 28. Kb2 Rc5 29. Rg3 Rfc8 30. Re3 h5 31. h3 hxg4 32. hxg4 Rg8 33. Rxe4 Bd5
+34. Rxe5 fxe5 35. b4 Rxc2+ 36. Rxc2 Bg2 37. Bd1 Bd5 38. Rc7 Rd8 39. Bc2 Bf3 40.
+f6 e4 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Clarke, Peter H"]
+[Black "Perkins, Alan H"]
+[Result "1/2-1/2"]
+[ECO "E32"]
+[WhiteElo "2360"]
+[PlyCount "35"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8.
+e3 d6 9. f3 h6 10. Bh4 Nbd7 11. Bd3 e5 12. Ne2 Rc8 13. O-O Qe7 14. e4 exd4 15.
+Qxd4 Ne5 16. Rfd1 Rfd8 17. Rac1 Ng6 18. Bxf6 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Cooke, John R"]
+[Black "BYE"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Corden, Martyn"]
+[Black "Harman, Ronald FA"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2275"]
+[PlyCount "65"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 Ng4 6. Bg5 h6 7. Bh4 Nc6 8. d5
+Nd4 9. h3 Ne5 10. Qxd4 Nf3+ 11. Nxf3 Bxd4 12. Nxd4 g5 13. Bg3 c5 14. dxc6 bxc6
+15. Nxc6 Qb6 16. O-O-O Kf8 17. Nxe7 Rb8 18. Na4 Qb4 19. Bxd6 Qxa4 20. Nd5+ Kg8
+21. Nc3 Qa5 22. Bxb8 Be6 23. a3 Kh7 24. Bd6 Rc8 25. Be2 Kg7 26. Bg4 Rxc3 27.
+Bb4 Rxc2+ 28. Kxc2 Qa4+ 29. Kb1 Bb3 30. Bc3+ Kf8 31. Rd8+ Ke7 32. Rd7+ Ke8 33.
+Bf6 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Eley, Brian"]
+[Black "Penrose, Jonathan"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[BlackElo "2450"]
+[PlyCount "34"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O Nc6 8.
+Be3 O-O 9. f4 Qc7 10. Qe1 Nxd4 11. Bxd4 e5 12. fxe5 dxe5 13. Qg3 Bc5 14. Bxc5
+Qxc5+ 15. Kh1 Kh8 16. Rxf6 gxf6 17. Qh4 Rg8 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Hartston, William R"]
+[Black "Keene, Raymond"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "2420"]
+[BlackElo "2435"]
+[PlyCount "44"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. Be3 a6 5. f3 Nd7 6. Qd2 b5 7. Nh3 Bb7 8. Be2 c5
+9. d5 Ngf6 10. Bh6 O-O 11. Bxg7 Kxg7 12. a4 Qb6 13. O-O c4+ 14. Kh1 Rfc8 15.
+Na2 Nc5 16. axb5 axb5 17. Nb4 Rxa1 18. Rxa1 Ra8 19. Rxa8 Bxa8 20. c3 Nb3 21.
+Qe1 Qe3 22. Nc2 Qa7 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Hindle, Owen"]
+[Black "Pritchard, David B"]
+[Result "1-0"]
+[ECO "A01"]
+[PlyCount "119"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. b3 d5 2. Bb2 c5 3. e3 Nc6 4. Bb5 e6 5. Nf3 Nge7 6. O-O a6 7. Bxc6+ Nxc6 8.
+d4 Qf6 9. c4 cxd4 10. exd4 Bd6 11. Nc3 Ne7 12. Re1 O-O 13. Ne5 Rd8 14. Re3 Nf5
+15. Rd3 Bf8 16. Na4 Qe7 17. Nb6 Rb8 18. Qf3 f6 19. Ng4 Qc7 20. c5 Bd7 21. Re1
+Qc6 22. Bc1 Re8 23. a4 Rbd8 24. h3 h5 25. Nh2 Nxd4 26. Rxd4 Bxc5 27. Rh4 Qxb6
+28. b4 Bd4 29. a5 Qxb4 30. Rd1 e5 31. Qxh5 Qc5 32. Qh8+ Kf7 33. Qh5+ Ke7 34.
+Rhxd4 exd4 35. Re1+ Kd6 36. Bf4+ Kc6 37. Rb1 b5 38. axb6 Qc2 39. Rc1 Qxc1+ 40.
+Bxc1 Re1+ 41. Nf1 Rxc1 42. Qe2 Rc4 43. Nd2 Rc1+ 44. Kh2 Kxb6 45. Qe7 Kc7 46.
+Qxg7 Rc6 47. Nb3 Re8 48. Nxd4 Rb6 49. Qg3+ Kb7 50. Nb3 Bb5 51. h4 Re7 52. h5
+Be8 53. Qf3 Ka7 54. g4 Rg7 55. Nd4 Bd7 56. Qxd5 Bxg4 57. Nc6+ Rxc6 58. Qxc6 Rh7
+59. Qc5+ Ka8 60. Qd5+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Knox, Victor W"]
+[Black "Stean, Michael"]
+[Result "0-1"]
+[ECO "B99"]
+[BlackElo "2275"]
+[PlyCount "68"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. Bd3 b5 11. Rhe1 Bb7 12. Qg3 O-O-O 13. e5 dxe5 14. fxe5
+Nxe5 15. Bxb5 Ng6 16. Qxc7+ Kxc7 17. Bf1 h6 18. Be3 Bb4 19. Bg1 Nf4 20. Re3 Rd7
+21. a3 Be7 22. g3 N4d5 23. Nxd5+ Nxd5 24. Rb3 Rhd8 25. Nf3 Kc8 26. Be2 Bf6 27.
+c4 Ne7 28. Rxd7 Rxd7 29. Kb1 Nc6 30. Be3 g5 31. h3 Na5 32. Rb6 Bxf3 33. Rxa6
+Bxe2 34. Rxa5 Bxc4 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Lemon, Richard C"]
+[Black "Farrand, Julian T"]
+[Result "1/2-1/2"]
+[ECO "A58"]
+[PlyCount "69"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 e6 6. Nc3 Nxd5 7. Nxd5 exd5 8.
+Qxd5 Nc6 9. e3 Be7 10. Bd2 O-O 11. Nf3 Qb6 12. Qb3 Qd8 13. Be2 d5 14. O-O Bxa6
+15. Bxa6 Rxa6 16. Rfd1 Rb6 17. Qa4 Nb4 18. Bxb4 Rxb4 19. Qc6 Rxb2 20. Rxd5 Qa8
+21. Qxa8 Rxa8 22. Kf1 Raxa2 23. Rxa2 Rxa2 24. Rd2 Ra7 25. Rc2 f6 26. Ke2 Kf7
+27. Nd2 Ke6 28. Nc4 g6 29. Rb2 Kd5 30. Kd3 Kc6 31. Rb6+ Kc7 32. Rb2 Bd8 33. Rb1
+Kc6 34. Rb8 Kc7 35. Rb2 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Mestel, A Jonathan"]
+[Black "Littlewood, John Eric"]
+[Result "0-1"]
+[ECO "B87"]
+[BlackElo "2340"]
+[PlyCount "54"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nf6 6. Bc4 e6 7. Bb3 b5 8. Be3
+b4 9. Na4 Nxe4 10. Nxe6 fxe6 11. Nb6 Nd7 12. Nxa8 Nec5 13. Qg4 Bb7 14. Bxc5
+Nxc5 15. Bxe6 Bxa8 16. O-O-O Qf6 17. Rhe1 Be7 18. Bd5 Bxd5 19. Qc8+ Kf7 20.
+Qxh8 Bxa2 21. Re3 Qg6 22. Rde1 Be6 23. f4 b3 24. f5 Qxf5 25. cxb3 Bg5 26. Qb8
+Qd3 27. Qa7+ Kg6 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Miles, Anthony J"]
+[Black "Pritchett, Craig"]
+[Result "1/2-1/2"]
+[ECO "B89"]
+[WhiteElo "2285"]
+[BlackElo "2340"]
+[PlyCount "83"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 d6 6. Be3 Nf6 7. Bc4 Bd7 8.
+Qe2 a6 9. O-O-O b5 10. Bb3 Na5 11. f3 Be7 12. g4 O-O 13. g5 Ne8 14. Rhg1 Nxb3+
+15. axb3 Qa5 16. Kb1 g6 17. f4 b4 18. Na2 Ng7 19. Bd2 Rfb8 20. f5 Bf8 21. f6
+Nh5 22. Qe1 d5 23. e5 Qb6 24. Rg4 a5 25. c3 Bc5 26. Bc1 bxc3 27. Qxc3 Bxd4 28.
+Rgxd4 Qxb3 29. R1d3 Qb6 30. Qd2 a4 31. Rb4 Qg1 32. Rxb8+ Rxb8 33. Rc3 Bb5 34.
+Rc7 a3 35. Qc3 Qb6 36. Rc8+ Be8 37. Rxb8 Qxb8 38. b4 h6 39. gxh6 Kh7 40. Bxa3
+Nf4 41. Qd4 Ne2 42. Qe3 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Sherman, David"]
+[Black "James, Geoffrey H"]
+[Result "1-0"]
+[ECO "B00"]
+[PlyCount "81"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Bg4 4. c3 e5 5. Bb5 exd4 6. cxd4 a6 7. Bxc6+ bxc6 8.
+h3 Bh5 9. O-O Nf6 10. Re1 Be7 11. Nbd2 O-O 12. b3 d5 13. e5 Nd7 14. Bb2 c5 15.
+Qc2 Re8 16. Rac1 cxd4 17. Qxc7 Bxf3 18. Nxf3 Bb4 19. Red1 Qxc7 20. Rxc7 Nxe5
+21. Nxd4 Nd3 22. Bc3 Bxc3 23. Rxc3 Nf4 24. Kf1 g6 25. h4 Rac8 26. Rxc8 Rxc8 27.
+Ne2 Nxe2 28. Kxe2 Rc5 29. Kd3 Kf8 30. Re1 a5 31. Re2 a4 32. Kd4 Rb5 33. bxa4
+Rb4+ 34. Kxd5 Rxa4 35. g3 f5 36. Kc5 f4 37. Kb5 Ra3 38. gxf4 Rf3 39. a4 Rxf4
+40. a5 Rxh4 41. a6 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Speelman, Jonathan S"]
+[Black "Edwards, Raymond B"]
+[Result "1/2-1/2"]
+[ECO "A25"]
+[PlyCount "59"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 d6 4. Bg2 g6 5. e3 Bg7 6. Nge2 Be6 7. d3 Qd7 8. Nd5
+Nge7 9. Rb1 O-O 10. O-O Nd8 11. b4 c6 12. Nxe7+ Qxe7 13. b5 Qd7 14. bxc6 bxc6
+15. Ba3 Rc8 16. Qd2 f5 17. f4 Nf7 18. Rb3 g5 19. Rfb1 h6 20. Qa5 Rc7 21. Rb8
+Rxb8 22. Rxb8+ Kh7 23. Qb4 d5 24. c5 Rc8 25. Rb7 Rc7 26. Rb8 Rc8 27. Rxc8 Qxc8
+28. Bf1 Qc7 29. Bb2 Bd7 30. Bh3 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Emsley, JS."]
+[Result "1-0"]
+[ECO "B22"]
+[PlyCount "61"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 e6 7. Be2 Bb4+ 8.
+Nc3 Nge7 9. O-O Bxc3 10. bxc3 O-O 11. Bd3 Qh5 12. Re1 Ng6 13. Rb1 a6 14. Rb6
+Rd8 15. Qc2 Qa5 16. Qb1 Rd5 17. Bd2 Rb5 18. Bxb5 Qxb6 19. Bd3 Qc7 20. c4 Nce7
+21. h4 h5 22. g3 Bd7 23. Ng5 Nf5 24. Bxf5 exf5 25. Qc1 Rc8 26. c5 b6 27. Qd1
+bxc5 28. Qxh5 Bc6 29. Qh7+ Kf8 30. Bf4 Qa5 31. Bd6+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Trangmar, Alan G"]
+[Black "Bellin, Robert"]
+[Result "1-0"]
+[ECO "A36"]
+[BlackElo "2315"]
+[PlyCount "81"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. e3 e5 6. Nge2 Nge7 7. d3 O-O 8. O-O
+Rb8 9. Nd5 d6 10. a3 Nxd5 11. cxd5 Ne7 12. Bd2 b6 13. Qc2 Bb7 14. Nc3 Qd7 15.
+b4 Rfc8 16. b5 c4 17. dxc4 Rxc4 18. Qb3 Rbc8 19. e4 f5 20. f3 g5 21. Rac1 Qc7
+22. Bxg5 Qc5+ 23. Kh1 Rxc3 24. Rxc3 Qxc3 25. Qxc3 Rxc3 26. Bxe7 Bf8 27. Bxf8
+Kxf8 28. Ra1 Ke7 29. a4 Kd7 30. Bh3 Rxf3 31. Bxf5+ Kd8 32. Bxh7 Bc8 33. Kg2 Rc3
+34. Ra2 Bg4 35. h3 Bd1 36. h4 Kc7 37. Bf5 Bb3 38. Ra3 Rc2+ 39. Kh3 Bc4 40. h5
+Kb7 41. Kh4 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Webb, Simon"]
+[Black "Haygarth, Michael J"]
+[Result "1/2-1/2"]
+[ECO "E41"]
+[PlyCount "36"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6 8.
+Qc2 e5 9. O-O Bd7 10. Rb1 b6 11. a3 Qc7 12. Nh4 O-O-O 13. f4 exf4 14. exf4 h6
+15. f5 Rhe8 16. Nf3 Ng4 17. Be4 Nf6 18. Bd3 Ng4 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.22"]
+[Round "8"]
+[White "Williams, A Howard"]
+[Black "McFarland, Robert S"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2390"]
+[PlyCount "55"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. f4 h6 6. Bh4 c6 7. Qd2 Qa5 8. Nf3 b5
+9. Bd3 b4 10. Ne2 Ba6 11. O-O Bxd3 12. cxd3 Qb6 13. Kh1 e6 14. f5 exf5 15. Bxf6
+Bxf6 16. e5 Be7 17. Nf4 Na6 18. d5 dxe5 19. Nxe5 cxd5 20. Nxd5 Qd6 21. Nxe7
+Kxe7 22. Rfe1 Kf8 23. Rac1 Nc7 24. Rc6 Qd8 25. Qxb4+ Kg7 26. Qb7 Rc8 27. Rec1
+Re8 28. Rxc7 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "Bellin, Robert"]
+[Black "Corden, Martyn"]
+[Result "1/2-1/2"]
+[ECO "C08"]
+[WhiteElo "2315"]
+[BlackElo "2275"]
+[PlyCount "85"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Nc6 6. Qe2+ Qe7 7. dxc5 Qxe2+
+8. Nxe2 Bxc5 9. Nb3 Bb6 10. a4 a6 11. Bxc6+ bxc6 12. a5 Ba7 13. Be3 Bxe3 14.
+fxe3 Nf6 15. Ned4 Bd7 16. Nc5 Kd8 17. b4 Re8 18. Kd2 Kc7 19. Rhf1 Kd6 20. c3
+Ra7 21. Rae1 Bc8 22. h3 h6 23. Kd3 Rae7 24. Ndb3 Kc7 25. Rf2 Kd6 26. Kd2 Kc7
+27. Nd4 Kd6 28. Ree2 Kc7 29. Kd3 Kd6 30. Rf4 Nh5 31. Rf3 Nf6 32. Ndb3 Kc7 33.
+Rf1 Kd6 34. Kd2 Kc7 35. Rfe1 Kd6 36. Nd4 Kc7 37. Kc2 Kd6 38. Kd3 Re5 39. Rf2
+R5e7 40. Nf5+ Bxf5+ 41. Rxf5 Nd7 42. Nxd7 Kxd7 43. Rf4 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "Edwards, Raymond B"]
+[Black "Pritchard, David B"]
+[Result "0-1"]
+[ECO "A43"]
+[PlyCount "146"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 c5 2. d5 f5 3. c4 g6 4. Nc3 Nf6 5. g3 d6 6. Bg2 Bg7 7. Nh3 Na6 8. O-O O-O
+9. Nf4 Rb8 10. Rb1 Nc7 11. b3 b5 12. Qc2 bxc4 13. bxc4 Rxb1 14. Qxb1 Bd7 15.
+Bd2 Qb8 16. Qc2 Ng4 17. Rb1 Qc8 18. Nb5 a6 19. Na7 Qa8 20. Nc6 e5 21. Ne6 Bxe6
+22. dxe6 e4 23. e7 Re8 24. Qa4 Ne5 25. Nxe5 Bxe5 26. Qd7 Qc8 27. Qc6 Rxe7 28.
+Rb7 Qd7 29. Qxd7 Rxd7 30. Ba5 d5 31. cxd5 Re7 32. e3 Nxd5 33. Rxe7 Nxe7 34. Bf1
+Kf7 35. Bc4+ Ke8 36. Bb6 Bd6 37. Bxa6 Kd7 38. Bb5+ Kc8 39. Kf1 Kb7 40. Ba5 Nc6
+41. Bc3 Kb6 42. Bc4 Be5 43. Bd2 g5 44. Be6 Ne7 45. Ke2 Kc6 46. Kd1 Kd6 47. Bc4
+Nd5 48. Kc2 h6 49. Kb3 h5 50. a4 Nf6 51. h3 Nd5 52. a5 Kc6 53. a6 Bb8 54. Ba5
+Ba7 55. Bd8 g4 56. h4 Nb4 57. Be6 Nd3 58. Bxf5 Nxf2 59. Bg6 Kb5 60. Bxh5 c4+
+61. Kc3 Nd1+ 62. Kd2 Nxe3 63. Bf7 Nf5 64. Bf6 Nxg3 65. h5 e3+ 66. Ke1 Ne4 67.
+Be5 Ng5 68. Bd5 Nf3+ 69. Bxf3 gxf3 70. h6 c3 71. h7 c2 72. Bb2 Bd4 73. h8=Q
+Bxh8 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "Emsley, JS."]
+[Black "Speelman, Jonathan S"]
+[Result "0-1"]
+[ECO "A26"]
+[PlyCount "142"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 Nc6 4. d3 d6 5. Nf3 e5 6. Nc3 f5 7. O-O Nf6 8. Bg5 h6
+9. Bxf6 Qxf6 10. Nd5 Qf7 11. Nd2 Nd4 12. e3 Ne6 13. Nc3 O-O 14. f4 c6 15. Rc1
+Bd7 16. b4 Rae8 17. Kh1 exf4 18. gxf4 g5 19. fxg5 hxg5 20. Nce4 g4 21. Nxd6 Qh5
+22. d4 Re7 23. c5 Ng5 24. N2c4 Rf6 25. Qe1 Rh6 26. Qg3 Nf7 27. Nxf7 Rxf7 28.
+Rf4 Bf6 29. Bf1 Be6 30. Nd6 Rfh7 31. Rc2 Bd5+ 32. e4 fxe4 33. Rxg4+ Kf8 34. Bg2
+Qxh2+ 35. Qxh2 Rxh2+ 36. Kg1 Bxd4+ 37. Kf1 R2h4 38. Rxh4 Rxh4 39. Ke1 Rh7 40.
+Nxe4 Bxe4 41. Bxe4 Re7 42. Re2 Bc3+ 43. Kd1 Bxb4 44. Rf2+ Kg7 45. Rg2+ Kf6 46.
+Bd3 Bxc5 47. Rg6+ Kf7 48. Rg5 Bd4 49. Kc2 Ke8 50. Rg8+ Kd7 51. Bf5+ Kc7 52. Kd3
+Bc5 53. Rh8 Re3+ 54. Kc4 b5+ 55. Kxc5 Re5+ 56. Kb4 Rxf5 57. Ka5 Rf4 58. Rh7+
+Kd6 59. Ka6 Ra4+ 60. Kb7 Rxa2 61. Rh6+ Kc5 62. Rh5+ Kb4 63. Kxc6 Rc2+ 64. Kb7
+Ka4 65. Kxa7 b4 66. Kb6 b3 67. Ra5+ Kb4 68. Rb5+ Kc3 69. Rc5+ Kd2 70. Rb5 b2
+71. Ka5 Kc1 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "Farrand, Julian T"]
+[Black "Basman, Michael John"]
+[Result "0-1"]
+[ECO "A21"]
+[BlackElo "2385"]
+[PlyCount "116"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 e5 2. Nc3 f5 3. e3 Nf6 4. d4 e4 5. Nge2 g6 6. Bd2 Bh6 7. d5 c5 8. Nf4 O-O
+9. h4 Qe7 10. Nce2 d6 11. Ng1 Ng4 12. Be2 Ne5 13. g3 Na6 14. a3 Nc7 15. Bc3 Bd7
+16. b4 b6 17. Qd2 Rfb8 18. Kf1 Ne8 19. Ngh3 Rc8 20. b5 Nc7 21. a4 a6 22. Kg2 a5
+23. Qc2 Be8 24. Rag1 Bf7 25. Qd1 Kf8 26. Kf1 Bg7 27. Ba1 h5 28. Kg2 Ke8 29. f3
+exf3+ 30. Bxf3 Nxc4 31. Kh2 Kf8 32. Re1 Bxa1 33. Qxa1 Ne5 34. Rhf1 Kg8 35. Bg2
+Re8 36. e4 fxe4 37. Bxe4 Ng4+ 38. Kg1 Qe5 39. Bxg6 Qxa1 40. Bxf7+ Kxf7 41. Rxa1
+Ke7 42. Ng5 Kd7 43. Nge6 Nxe6 44. dxe6+ Rxe6 45. Nxe6 Kxe6 46. Rae1+ Ne5 47.
+Rf4 Rg8 48. Kg2 d5 49. Ref1 d4 50. Rf6+ Kd5 51. Rxb6 d3 52. Rh6 c4 53. Rd1 c3
+54. Rxh5 d2 55. Kf2 Ke4 56. Ke2 Rxg3 57. Rh1 Re3+ 58. Kd1 Kd3 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "Harman, Ronald FA"]
+[Black "Thomas, Andrew Rowland B"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[PlyCount "84"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Bc4 d6 5. d3 Be6 6. Bxe6 fxe6 7. O-O Nc6 8.
+Ne2 Qd7 9. c3 Ba5 10. a4 Bb6 11. Ng3 a5 12. Nd2 d5 13. Qe2 O-O 14. Nf3 Rae8 15.
+b3 Bc5 16. Bb2 Bd6 17. Rad1 Qf7 18. c4 Nh5 19. Nxe5 Nxg3 20. fxg3 Qe7 21. Nxc6
+bxc6 22. Rxf8+ Rxf8 23. exd5 exd5 24. Qxe7 Bxe7 25. Bc3 Rb8 26. Bxa5 Rxb3 27.
+cxd5 cxd5 28. Ra1 Bc5+ 29. Kf1 Bb6 30. Bxb6 cxb6 31. Ke2 Kf7 32. a5 bxa5 33.
+Rxa5 Ke6 34. Ra7 Kf6 35. Rd7 Rb5 36. Ke3 h5 37. h3 g6 38. g4 hxg4 39. hxg4 Ke6
+40. Rg7 Kf6 41. Rg8 Rb2 42. g3 Rg2 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "Haygarth, Michael J"]
+[Black "Eley, Brian"]
+[Result "0-1"]
+[ECO "D37"]
+[PlyCount "180"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. Bf4 Bxc5 7. e3 d5 8. Nf3
+Nc6 9. a3 Qa5 10. Rd1 Ne4 11. cxd5 Nxc3 12. bxc3 exd5 13. Rxd5 Qxa3 14. Be2 Ne7
+15. Rd1 Bf5 16. e4 Be6 17. Rb1 Bb6 18. O-O Rac8 19. c4 Ng6 20. Bd2 Qe7 21. Rb5
+Bc5 22. Ng5 b6 23. Nxe6 fxe6 24. g3 Ne5 25. Kg2 Nc6 26. Bc3 e5 27. Rbb1 Rcd8
+28. Rbd1 Bd4 29. Bd2 Qc5 30. Bg5 Ra8 31. Qa2 a5 32. Bg4 a4 33. Rb1 Kh8 34. Bd2
+a3 35. Rb5 Qe7 36. f3 Ra4 37. Rc1 Rfa8 38. Rcb1 Qf7 39. Rd5 h5 40. Bd7 Qf6 41.
+h4 Bb2 42. Bg5 Qg6 43. Bd2 Nb4 44. Bxb4 Rxb4 45. Bb5 Qf7 46. Rd7 Qe6 47. Rd5
+Qf7 48. Rd7 Qg8 49. Rd5 Qf8 50. Rd3 Qc5 51. Kh3 Qc8+ 52. g4 Qg8 53. Bc6 Rd8 54.
+Bd5 hxg4+ 55. fxg4 Qf8 56. Rg3 Qf4 57. g5 Rf8 58. g6 Qf2 59. Bf7 Rxf7 60. gxf7
+Qxf7 61. Rbg1 Qe6+ 62. Kh2 Bc1 63. Rxc1 Rb2+ 64. Rc2 Rxa2 65. Rxa2 Qxc4 66.
+Raxa3 Qe2+ 67. Kh3 Qxe4 68. Raf3 Kg8 69. Rf1 b5 70. Rff3 b4 71. Re3 Qd5 72. Rb3
+Qc4 73. Rgf3 e4 74. Rfe3 Kf7 75. Kg4 Kf6 76. Kf4 Qe6 77. Kg3 Qd6+ 78. Kh3 Ke5
+79. Rb1 Kf4 80. Reb3 Qd7+ 81. Kh2 Qg4 82. Rf1+ Ke5 83. Rxb4 Qxh4+ 84. Kg2 Qg4+
+85. Kh1 Qe2 86. Rbb1 e3 87. Rfe1 Qf3+ 88. Kh2 e2 89. Ra1 g5 90. Reb1 Kf5 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "Hutchings, Stuart"]
+[Black "BYE"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "James, Geoffrey H"]
+[Black "Cooke, John R"]
+[Result "1-0"]
+[ECO "C65"]
+[PlyCount "67"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. c3 Nxe4 6. d4 exd4 7. cxd4 Be7 8.
+d5 Nd6 9. Nc3 a6 10. Bd3 Na7 11. Re1 Kf8 12. Ne5 f6 13. Qf3 Kg8 14. Ng4 Nab5
+15. Bd2 b6 16. Nxb5 axb5 17. Bc3 Bb7 18. Re2 Qf8 19. Rae1 Re8 20. Qg3 Kf7 21.
+Qf3 Kg8 22. Bf5 Bc8 23. h4 Nxf5 24. Qxf5 d6 25. Qf3 Bd7 26. h5 Bd8 27. Rxe8
+Bxe8 28. h6 Bd7 29. hxg7 Kxg7 30. Qg3 Kf7 31. Qf4 Bxg4 32. Qxg4 h5 33. Qf5 Rh6
+34. Qd7+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "Keene, Raymond"]
+[Black "Webb, Simon"]
+[Result "1-0"]
+[ECO "D78"]
+[WhiteElo "2435"]
+[PlyCount "80"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c6 5. Bg2 d5 6. Nbd2 O-O 7. O-O Ne4 8. cxd5
+cxd5 9. Ne5 Nxd2 10. Bxd2 Qb6 11. Bc3 Rd8 12. e3 Nc6 13. Nd3 e6 14. Qd2 a5 15.
+b3 Bd7 16. Rfc1 Bf8 17. h4 Be8 18. Rab1 Ne7 19. Rc2 Nf5 20. Rbc1 Bd6 21. Nc5
+Qa7 22. Bb2 b6 23. Nd3 Qb7 24. Bh3 Ng7 25. Ne5 Rac8 26. Bf1 Rxc2 27. Qxc2 f6
+28. Ng4 Qe7 29. Qe2 Ra8 30. e4 dxe4 31. Qxe4 Rd8 32. Qe2 h5 33. Ne3 Ba3 34. Bg2
+Bxb2 35. Qxb2 Qb4 36. d5 e5 37. Qc2 Bd7 38. Qxg6 f5 39. d6 e4 40. Nd5 Qd4 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "Knox, Victor W"]
+[Black "Miles, Anthony J"]
+[Result "1-0"]
+[ECO "C47"]
+[BlackElo "2285"]
+[PlyCount "80"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 Bb4 5. Nxe5 Nxe4 6. Qf3 Nf6 7. Be3 Qe7 8.
+Bd3 Nxe5 9. dxe5 Qxe5 10. O-O O-O 11. Nb5 Ba5 12. Bd4 Qd5 13. Qg3 Ne8 14. Qh4
+h6 15. Rad1 Qe6 16. c3 d6 17. h3 c5 18. Rfe1 Qd7 19. Be3 Bd8 20. Qg3 Kh8 21.
+Bc4 Bb6 22. Bf4 Qf5 23. Rxe8 Rxe8 24. Nxd6 Qh5 25. Nxe8 Qxd1+ 26. Kh2 Bg4 27.
+Bxf7 Qd7 28. Bg6 Be6 29. Be5 Rxe8 30. Bxe8 Qe7 31. Bg6 Bxa2 32. Qf4 Kg8 33. Bd6
+Qf6 34. Qg3 Bd8 35. Be4 b6 36. Be5 Qf8 37. Qg6 Qf7 38. Qh7+ Kf8 39. Bd6+ Ke8
+40. Bc6+ Qd7 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "Littlewood, John Eric"]
+[Black "Penrose, Jonathan"]
+[Result "1/2-1/2"]
+[ECO "A03"]
+[WhiteElo "2340"]
+[BlackElo "2450"]
+[PlyCount "38"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. b3 c5 2. Bb2 d5 3. e3 Nf6 4. f4 g6 5. Nf3 Bg7 6. Bb5+ Bd7 7. a4 O-O 8. O-O
+Nc6 9. Qe2 Qc7 10. d3 Nh5 11. Bxg7 Nxg7 12. Bxc6 Bxc6 13. Nbd2 Rad8 14. Rae1 a6
+15. Qf2 b5 16. axb5 axb5 17. e4 dxe4 18. dxe4 Bd7 19. Qe3 f6 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "McFarland, Robert S"]
+[Black "Lemon, Richard C"]
+[Result "1/2-1/2"]
+[ECO "E87"]
+[PlyCount "49"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 d6 6. Be3 e5 7. d5 Nh5 8. Qd2 f5
+9. O-O-O Nd7 10. exf5 gxf5 11. Bd3 Nc5 12. Bc2 a5 13. Nge2 Bd7 14. h3 f4 15.
+Bf2 Kh8 16. Rdg1 Qe7 17. g4 fxg3 18. Nxg3 Nf4 19. Be3 Qh4 20. Nce4 b6 21. Kb1
+Bh6 22. Nf2 Rf7 23. Ng4 Bg7 24. Rh2 Re8 25. Ne4 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "Mestel, A Jonathan"]
+[Black "Hindle, Owen"]
+[Result "1-0"]
+[ECO "C54"]
+[PlyCount "161"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+
+8. Nbxd2 d5 9. exd5 Nxd5 10. Qb3 Nce7 11. O-O O-O 12. Rfe1 Nb6 13. Bd3 Nf5 14.
+Qc2 g6 15. Ne4 Nd5 16. Qb3 Nf6 17. Nxf6+ Qxf6 18. Rac1 c6 19. Bxf5 gxf5 20. Qb4
+Rb8 21. Qc5 a6 22. Qe5 Qxe5 23. Rxe5 Be6 24. a4 Rfd8 25. a5 Rd7 26. h3 Rbd8 27.
+Rc3 Kg7 28. Kf1 Kf6 29. Ke2 Bd5 30. Nh4 Be6 31. Nxf5 Rxd4 32. Nxd4 Kxe5 33.
+Re3+ Kf6 34. Nxe6 fxe6 35. Rf3+ Kg6 36. Rb3 Rd5 37. Rxb7 Rxa5 38. Rb6 Rb5 39.
+Rxc6 Rxb2+ 40. Ke3 Kf5 41. Rxa6 Rb3+ 42. Kd4 Rb4+ 43. Kc3 Rb1 44. Ra7 h6 45.
+Rf7+ Kg6 46. Rf8 Rg1 47. g3 Rd1 48. Kc2 Rd7 49. Rf3 Rd8 50. Re3 Kf5 51. Rd3 Ra8
+52. Kd2 Ra1 53. Ke2 Rh1 54. h4 Ra1 55. Kf3 Ra2 56. Rb3 Rc2 57. Rb5+ Kf6 58. Rb4
+Rc3+ 59. Kg4 Rc5 60. h5 Ra5 61. Kh4 Ra1 62. Rf4+ Ke7 63. Rb4 Kf6 64. Rb7 Ra4+
+65. g4 Ra1 66. f4 Rh1+ 67. Kg3 Rg1+ 68. Kh3 Rf1 69. Rh7 Rxf4 70. Rxh6+ Kf7 71.
+Kh4 Ra4 72. Rg6 Ra8 73. Kg5 Re8 74. Rf6+ Ke7 75. h6 Rh8 76. Rf1 e5 77. Kh5 Ke6
+78. g5 Ra8 79. h7 e4 80. g6 Ra2 81. Rh1 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "Perkins, Alan H"]
+[Black "Williams, A Howard"]
+[Result "1/2-1/2"]
+[ECO "A22"]
+[BlackElo "2390"]
+[PlyCount "44"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Bb4 4. Bg2 O-O 5. Nf3 Re8 6. O-O e4 7. Nd4 Nc6 8. Nc2
+Bxc3 9. bxc3 d5 10. cxd5 Qxd5 11. Ne3 Qh5 12. f3 exf3 13. exf3 Nd5 14. f4 Qxd1
+15. Nxd1 Nb6 16. Ne3 f6 17. d4 Bd7 18. Bd2 Rad8 19. Rfe1 Be6 20. f5 Bf7 21.
+Bxc6 bxc6 22. Ng2 Nc4 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "Pritchett, Craig"]
+[Black "Sherman, David"]
+[Result "1/2-1/2"]
+[ECO "C96"]
+[WhiteElo "2340"]
+[PlyCount "149"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 cxd4 12. cxd4 Nc6 13. Nc3 Rb8 14. Be3 b4 15.
+Na4 exd4 16. Nxd4 Nxd4 17. Qxd4 Nd7 18. Rad1 Qc7 19. Bb3 Nc5 20. Nxc5 dxc5 21.
+Qd2 Rd8 22. Qe2 Rxd1 23. Rxd1 Rb6 24. Bd5 Be6 25. Qc4 h6 26. f4 Rd6 27. b3 Bxd5
+28. exd5 Rb6 29. Rc1 Rb5 30. Rc2 Bd6 31. Qe4 Qe7 32. Qxe7 Bxe7 33. g4 Kf8 34.
+Kf2 a5 35. Kf3 a4 36. bxa4 Ra5 37. Ke4 Rxa4 38. Ke5 f6+ 39. Ke6 Ra6+ 40. Kf5
+Kf7 41. Bxc5 Ra4 42. g5 hxg5 43. Kg4 b3 44. axb3 Rxf4+ 45. Kg3 Bxc5 46. Rxc5
+Rb4 47. Rc3 Rd4 48. Kf3 Rxd5 49. b4 Ke6 50. Rb3 Kd6 51. b5 Kc7 52. b6+ Kb7 53.
+Re3 Kxb6 54. Re7 Kc6 55. Rxg7 Kd6 56. Ra7 Ke5 57. Re7+ Kf5 58. Re3 Kg6 59. Ra3
+f5 60. Ra8 Rd3+ 61. Kg2 f4 62. Rg8+ Kf6 63. Rf8+ Kg7 64. Ra8 Rg3+ 65. Kh2 Kf6
+66. Rf8+ Ke5 67. Re8+ Kf5 68. Ra8 Re3 69. Kg2 Re2+ 70. Kf3 Rh2 71. Rf8+ Kg6 72.
+Rh8 Kg7 73. Rh5 Kg6 74. Rh8 Kf5 75. Rf8+ 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "Stean, Michael"]
+[Black "Hartston, William R"]
+[Result "1-0"]
+[ECO "A29"]
+[WhiteElo "2275"]
+[BlackElo "2420"]
+[PlyCount "109"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 Nf6 2. g3 e5 3. Nc3 Bb4 4. Nf3 Nc6 5. Bg2 O-O 6. O-O Re8 7. d3 Bxc3 8.
+bxc3 e4 9. Nd4 h6 10. c5 exd3 11. Qxd3 Ne5 12. Qc2 Qe7 13. Ba3 Nc4 14. Qa4 Nxa3
+15. Qxa3 Qe5 16. e4 d6 17. cxd6 cxd6 18. Rfe1 Bd7 19. Rab1 Bc6 20. f4 Qc5 21.
+Qxc5 dxc5 22. Nxc6 bxc6 23. c4 Nd7 24. e5 Rac8 25. Rb7 Nb6 26. Rxa7 Nxc4 27.
+Rc1 Ne3 28. Rxc5 Nxg2 29. Kxg2 Red8 30. Ra6 Rd2+ 31. Kh3 g6 32. a4 Ra2 33. a5
+h5 34. Raxc6 Rxc6 35. Rxc6 Rxa5 36. Kh4 Ra2 37. Kg5 Kg7 38. Rc7 Re2 39. Ra7 Re3
+40. Rb7 Re2 41. Re7 Re1 42. e6 Rxe6 43. Rxe6 fxe6 44. h3 Kf7 45. Kh6 Kf6 46. g4
+h4 47. g5+ Kf5 48. Kg7 Kxf4 49. Kxg6 e5 50. Kf6 e4 51. g6 e3 52. g7 e2 53. g8=Q
+e1=Q 54. Qg4+ Ke3 55. Qe6+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.23"]
+[Round "9"]
+[White "Trangmar, Alan G"]
+[Black "Clarke, Peter H"]
+[Result "1/2-1/2"]
+[ECO "D66"]
+[BlackElo "2360"]
+[PlyCount "30"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Be7 4. Nf3 Nf6 5. Bg5 O-O 6. e3 c6 7. Rc1 Nbd7 8. Bd3
+dxc4 9. Bxc4 b5 10. Bd3 a6 11. O-O Bb7 12. e4 c5 13. e5 Ng4 14. Bxe7 Qxe7 15.
+Be4 Bxe4 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Basman, Michael John"]
+[Black "Haygarth, Michael J"]
+[Result "0-1"]
+[ECO "C16"]
+[WhiteElo "2385"]
+[PlyCount "62"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. Qg4 Bf8 6. Nh3 Ne7 7. Bg5 Ba6 8. Nb5
+Qd7 9. c4 dxc4 10. Nc3 Nbc6 11. O-O-O O-O-O 12. Qf3 h6 13. Bxe7 Bxe7 14. g3 Kb8
+15. Bg2 Bb7 16. Rhe1 Bb4 17. Nf4 Na5 18. d5 Qe7 19. a3 Bxc3 20. Qxc3 g5 21. d6
+cxd6 22. exd6 Qd7 23. Nh5 Bxg2 24. f3 Qc6 25. Re3 g4 26. d7 Bxf3 27. Qxh8 Rxh8
+28. d8=Q+ Rxd8 29. Rxd8+ Kb7 30. Nf6 Qc5 31. Rb8+ Ka6 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Clarke, Peter H"]
+[Black "Knox, Victor W"]
+[Result "1/2-1/2"]
+[ECO "A32"]
+[WhiteElo "2360"]
+[PlyCount "34"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e6 5. e3 Nc6 6. Be2 Be7 7. O-O O-O 8.
+Nc3 a6 9. b3 Qc7 10. Bb2 d6 11. Rc1 Bd7 12. Bd3 Rac8 13. Ne4 Nxe4 14. Bxe4 Qa5
+15. f4 f5 16. Bb1 b5 17. c5 Nxd4 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Cooke, John R"]
+[Black "Emsley, JS."]
+[Result "1-0"]
+[ECO "E73"]
+[PlyCount "105"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 g6 6. Be2 Bg7 7. h4 h5 8. Bg5 a6 9.
+Nh3 Qa5 10. f3 Nbd7 11. Nf2 Nh7 12. Bd2 Qd8 13. g4 Ndf6 14. g5 Nd7 15. Qc2 O-O
+16. O-O-O b5 17. cxb5 axb5 18. Bxb5 Ba6 19. Bc6 Ra7 20. a3 Qb8 21. Rdg1 Nb6 22.
+Nb5 Bxb5 23. Bxb5 Nxd5 24. exd5 Qxb5 25. Ne4 Qb6 26. Bc3 Rb8 27. Rf1 Rab7 28.
+Rhg1 Qc7 29. Rg2 Rb5 30. a4 Rb3 31. Nd2 R3b7 32. Re1 Qd7 33. Rge2 Qh3 34. Qe4
+Qd7 35. a5 Rb4 36. Bxb4 Rxb4 37. Nc4 f5 38. Qc2 Qc7 39. Rd1 Nf8 40. b3 Nd7 41.
+Qa2 Bf8 42. Kc2 Qa7 43. Ra1 Nb8 44. a6 Nd7 45. Qa5 Nb6 46. Nxb6 Rxb6 47. Ra4
+Bg7 48. Qxb6 Qxb6 49. a7 c4 50. a8=Q+ Kh7 51. Rxc4 e4 52. fxe4 fxe4 53. Qc6 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Edwards, Raymond B"]
+[Black "BYE"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Eley, Brian"]
+[Black "Stean, Michael"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[BlackElo "2275"]
+[PlyCount "37"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 Be7 7. O-O Nc6 8.
+Be3 O-O 9. f4 Qc7 10. Qe1 Bd7 11. Qg3 Nxd4 12. Bxd4 Bc6 13. Bd3 Rad8 14. Kh1 b6
+15. Qh3 e5 16. Be3 Qb7 17. Rae1 b5 18. fxe5 dxe5 19. Bg5 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Harman, Ronald FA"]
+[Black "Farrand, Julian T"]
+[Result "0-1"]
+[ECO "B33"]
+[PlyCount "44"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 Bb4 7. a3 Bxc3+ 8.
+Nxc3 O-O 9. Bc4 d6 10. Bg5 h6 11. Bh4 Be6 12. Bd3 Rc8 13. O-O g5 14. Bg3 Ne7
+15. h4 Ng6 16. hxg5 hxg5 17. f3 Nf4 18. Bf2 Kg7 19. Be3 Rh8 20. Kf2 Rh2 21.
+Bxf4 gxf4 22. Rh1 Qb6+ 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Hartston, William R"]
+[Black "Mestel, A Jonathan"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+[WhiteElo "2420"]
+[PlyCount "91"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. Re1 Bc5 8. c3
+d6 9. d4 Bb6 10. a4 h6 11. Qd3 O-O 12. axb5 axb5 13. Rxa8 Qxa8 14. Nh4 Na5 15.
+Bc2 Bxe4 16. Rxe4 Qxe4 17. Qxe4 Nxe4 18. Bxe4 Nb3 19. Be3 exd4 20. cxd4 Bxd4
+21. Nc3 Bxe3 22. fxe3 Re8 23. Bd5 b4 24. Nb5 Rxe3 25. Nxc7 Nd4 26. Kf1 g5 27.
+Nf3 Nxf3 28. gxf3 Kg7 29. Kf2 Re5 30. b3 f5 31. Bc4 Ra5 32. f4 Ra2+ 33. Kg3 Kg6
+34. Nd5 Rc2 35. Nxb4 Rc3+ 36. Kg2 gxf4 37. Nd5 Rc2+ 38. Kf3 Rxh2 39. b4 Rc2 40.
+Bd3 Rd2 41. Nxf4+ Kf6 42. Ke3 Rb2 43. b5 d5 44. Nxd5+ Ke5 45. Nf4 Rb4 46. Ng6+
+1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Hindle, Owen"]
+[Black "Pritchett, Craig"]
+[Result "0-1"]
+[ECO "A01"]
+[BlackElo "2340"]
+[PlyCount "94"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. e3 d5 5. cxd5 Nxd5 6. a3 Bd6 7. d3 O-O 8. Nf3
+Kh8 9. Nbd2 f5 10. Qc2 Qf6 11. b4 Bd7 12. Nc4 b5 13. Ncd2 a5 14. bxa5 Nxa5 15.
+Be2 c5 16. O-O Bc6 17. Rfe1 Rae8 18. Bf1 Qh6 19. e4 Nf4 20. Bc3 fxe4 21. Nxe4
+Bxe4 22. Rxe4 Nc6 23. Rae1 Qh5 24. Qb2 Nh3+ 25. Kh1 Rxf3 26. gxf3 b4 27. axb4
+cxb4 28. Bxh3 Qxh3 29. Bxe5 Rxe5 30. Rxe5 Bxe5 31. f4 Qf3+ 32. Kg1 Qg4+ 33. Kf1
+Qh3+ 34. Kg1 Qg4+ 35. Kf1 Qxf4 36. d4 Nxd4 37. Qxb4 h6 38. Qc5 Qf3 39. Kg1 Qg4+
+40. Kh1 Qf3+ 41. Kg1 Ne2+ 42. Kf1 Bd4 43. Qc8+ Kh7 44. Qc2+ Kg8 45. Qc4+ Kf8
+46. Qc8+ Kf7 47. Qd7+ Kg6 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Hutchings, Stuart"]
+[Black "Bellin, Robert"]
+[Result "0-1"]
+[ECO "A04"]
+[BlackElo "2315"]
+[PlyCount "94"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. Nf3 c5 2. b3 d6 3. c4 e5 4. Nc3 g6 5. Qc2 Bg7 6. Bb2 Ne7 7. e3 Nbc6 8. Be2
+O-O 9. d3 Bf5 10. e4 Bd7 11. Nd5 Nxd5 12. cxd5 Nd4 13. Bxd4 cxd4 14. Qd2 Rc8
+15. h4 h5 16. Qb4 Qc7 17. O-O a5 18. Qa3 Qc5 19. Qxc5 Rxc5 20. Rfc1 Rfc8 21.
+Rxc5 Rxc5 22. Ne1 Bh6 23. Kf1 Bb5 24. g4 hxg4 25. Bxg4 Bd2 26. Rd1 Bb4 27. h5
+gxh5 28. Bxh5 Kg7 29. Bg4 Kf6 30. Ke2 Kg5 31. Bf5 Bxe1 32. Kxe1 Kf4 33. Ke2
+Rc2+ 34. Rd2 Rxd2+ 35. Kxd2 Kf3 36. Bc8 b6 37. a4 Be8 38. Ke1 b5 39. axb5 Bxb5
+40. Kd2 Kxf2 41. Bf5 f6 42. Bc8 Be8 43. Bf5 Bh5 44. Bd7 Bg6 45. Be6 Kf3 46. Bd7
+Kf4 47. Ke2 f5 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Miles, Anthony J"]
+[Black "Lemon, Richard C"]
+[Result "1-0"]
+[ECO "B47"]
+[WhiteElo "2285"]
+[PlyCount "79"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. g3 Nc6 7. Bg2 Nf6 8. O-O
+Nxd4 9. Qxd4 Bc5 10. Bf4 d6 11. Qd2 Nd7 12. b4 Bxb4 13. Nd5 exd5 14. Qxb4 Nc5
+15. e5 dxe5 16. Bxe5 Qxe5 17. Rfe1 Ne4 18. Bxe4 Qe7 19. Bxd5 Be6 20. Qa4+ b5
+21. Qd4 O-O-O 22. c4 Qc7 23. Bxe6+ fxe6 24. Qe4 Qb7 25. Qxe6+ Kb8 26. cxb5 axb5
+27. Rab1 Rd5 28. a4 Rhd8 29. Qe4 R8d7 30. axb5 Qb6 31. Qxh7 Rd2 32. Qf5 Kb7 33.
+Qf3+ Kb8 34. Re8+ Rd8 35. Qf4+ Kb7 36. Re7+ R8d7 37. Qxd2 Rxe7 38. Qd5+ Kb8 39.
+Ra1 Kc7 40. Ra6 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Penrose, Jonathan"]
+[Black "Keene, Raymond"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[WhiteElo "2450"]
+[BlackElo "2435"]
+[PlyCount "31"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. f4 Nf6 5. Nf3 O-O 6. Be2 c5 7. dxc5 Qa5 8. O-O
+Qxc5+ 9. Kh1 Nc6 10. Bd3 Bg4 11. Qe1 Rac8 12. Be3 Qa5 13. Qg3 Bxf3 14. Qxf3 Nd7
+15. Bd2 Nc5 16. a3 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Pritchard, David B"]
+[Black "Perkins, Alan H"]
+[Result "1-0"]
+[ECO "E67"]
+[PlyCount "81"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 g6 2. Nc3 Bg7 3. Nf3 Nf6 4. g3 O-O 5. Bg2 d6 6. d4 Nbd7 7. O-O e5 8. e3
+Re8 9. b3 c6 10. Ba3 e4 11. Nd2 Qa5 12. Qc1 d5 13. b4 Qd8 14. cxd5 cxd5 15. Nb5
+Re6 16. Qc7 Qf8 17. Rfc1 Ne8 18. Qc2 Nb6 19. Qb3 Qe7 20. Rc5 Qd8 21. Rac1 Bf8
+22. f3 exf3 23. Bxf3 Bxc5 24. bxc5 Nc4 25. Nxc4 dxc4 26. Rxc4 a6 27. Nd6 Nxd6
+28. cxd6 Rb8 29. Rc7 Rf6 30. e4 Be6 31. d5 Bh3 32. e5 Rf5 33. Qc3 Qg5 34. Bc1
+Qg4 35. Kf2 Re8 36. e6 Rxf3+ 37. Qxf3 Qxf3+ 38. Kxf3 fxe6 39. g4 h5 40. d7 Rf8+
+41. Ke3 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Sherman, David"]
+[Black "McFarland, Robert S"]
+[Result "1-0"]
+[ECO "B09"]
+[PlyCount "65"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. d5
+Nc7 9. a4 e6 10. dxe6 fxe6 11. e5 Nfd5 12. Ne4 Ne8 13. Bb5 Bd7 14. Bxd7 Qxd7
+15. exd6 Nxf4 16. Bxf4 Rxf4 17. Nxc5 Qxd6 18. Qxd6 Nxd6 19. Nxe6 Rc4 20. Nxg7
+Kxg7 21. Rfd1 Nf5 22. c3 Re8 23. Rd7+ Re7 24. Rxe7+ Nxe7 25. Rd1 Rc7 26. Nd4
+Rc4 27. Rf1 Rxa4 28. Ne6+ Kh6 29. Rf7 Nf5 30. Rxb7 Ra1+ 31. Kf2 Rc1 32. g4 Nd6
+33. Rxa7 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Speelman, Jonathan S"]
+[Black "James, Geoffrey H"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[PlyCount "53"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 Nf6 4. e5 Nfd7 5. d4 b6 6. Bg5 Be7 7. h4 c6 8. Rh3
+Ba6 9. Bxa6 Nxa6 10. Rg3 Bxg5 11. Nxg5 Qe7 12. Qe2 Nc7 13. O-O-O O-O-O 14. f4
+f6 15. Nf3 Qf7 16. Qe3 Rhg8 17. Ne2 Qh5 18. Rh3 Rdf8 19. Rg1 f5 20. Ng3 Qe8 21.
+h5 h6 22. Nh4 Rf7 23. Ng6 Nf8 24. Nxf8 Qxf8 25. Ne2 g6 26. hxg6 Rxg6 27. Qa3
+1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Thomas, Andrew Rowland B"]
+[Black "Corden, Martyn"]
+[Result "0-1"]
+[ECO "B02"]
+[BlackElo "2275"]
+[PlyCount "68"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 Nc6 5. Nf3 g6 6. Bf4 Bg7 7. Qd2 d6 8.
+Bh6 O-O 9. Bxg7 Kxg7 10. O-O-O Bg4 11. exd6 cxd6 12. h4 h5 13. Be2 Qa5 14. Kb1
+Rac8 15. Nd4 Bxe2 16. Nxc6 Rxc6 17. Qxe2 e6 18. g4 Ra6 19. a3 Rb6 20. Ka2 Rc8
+21. c4 Rc5 22. Rd4 hxg4 23. Rhd1 Rf5 24. Rxg4 Qc5 25. Rgd4 a5 26. f4 Rh5 27.
+Qe1 Kh7 28. R1d2 Rc6 29. b3 a4 30. b4 Qf5 31. Qf2 Qf6 32. Rxd6 Rxc4 33. R6d4
+Rc3 34. Rd7 Rxa3+ 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Webb, Simon"]
+[Black "Trangmar, Alan G"]
+[Result "1-0"]
+[ECO "E92"]
+[PlyCount "87"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e4 d6 6. Be2 e5 7. Be3 Ng4 8. Bg5
+f6 9. Bh4 c6 10. d5 c5 11. Nd2 Nh6 12. f3 a6 13. Rb1 Nd7 14. O-O Qe8 15. Bf2 f5
+16. exf5 gxf5 17. Bd3 Kh8 18. Qc2 Qh5 19. Rfe1 Bf6 20. Nf1 Bh4 21. Ng3 Qg5 22.
+Be3 f4 23. Nge4 Qe7 24. Bf2 Nf5 25. Bxh4 Qxh4 26. Qf2 Qh5 27. Kh1 Rg8 28. Ne2
+Qh6 29. b4 b6 30. g3 Nf6 31. gxf4 exf4 32. Nxf6 Qxf6 33. Nxf4 Nd4 34. Nh5 Qf7
+35. Ng3 Bg4 36. Re3 Bxf3+ 37. Kg1 Raf8 38. bxc5 bxc5 39. Rb6 Qh5 40. Re7 Rxg3+
+41. Qxg3 Qh6 42. Rbb7 Be4 43. Rxe4 Qc1+ 44. Kg2 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.24"]
+[Round "10"]
+[White "Williams, A Howard"]
+[Black "Littlewood, John Eric"]
+[Result "1-0"]
+[ECO "D74"]
+[WhiteElo "2390"]
+[BlackElo "2340"]
+[PlyCount "55"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. Nf3 Nf6 2. g3 g6 3. c4 Bg7 4. d4 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Na6 8.
+Nc3 c5 9. Nxd5 Qxd5 10. Be3 Rd8 11. dxc5 Be6 12. Qc1 Qh5 13. Rd1 Bd5 14. Rd2
+Bc6 15. Qc4 Rxd2 16. Nxd2 Bxg2 17. Kxg2 Rc8 18. Rb1 Nc7 19. f3 Nd5 20. Bf2 Bh6
+21. Ne4 Be3 22. Rd1 Nb6 23. Qb4 Bxf2 24. cxb6 Bxb6 25. Qxe7 Qa5 26. Rd7 Qxa2
+27. Nf6+ Kh8 28. Qe5 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Bellin, Robert"]
+[Black "Basman, Michael John"]
+[Result "1-0"]
+[ECO "B72"]
+[WhiteElo "2315"]
+[BlackElo "2385"]
+[PlyCount "69"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Nbd7 7. f3 Nb6 8. a4
+Bg7 9. a5 Nbd7 10. Be2 O-O 11. O-O Ne5 12. Nd5 Bd7 13. c4 Ne8 14. Bg5 f6 15.
+Be3 e6 16. Nc3 Nc6 17. Ndb5 Nxa5 18. Nxa7 f5 19. Nab5 fxe4 20. fxe4 Rxf1+ 21.
+Bxf1 Be5 22. Bd4 Bxd4+ 23. Qxd4 Nc6 24. Rxa8 Qxa8 25. Qd2 Ne5 26. h3 Qa5 27.
+Na3 Qb4 28. Ncb1 Qc5+ 29. Kh1 Nf6 30. Nc3 Bc6 31. Qf4 Nh5 32. Qh4 Qe3 33. Kh2
+Qd2 34. Be2 Kg7 35. Bxh5 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Cooke, John R"]
+[Black "Harman, Ronald FA"]
+[Result "0-1"]
+[ECO "D94"]
+[PlyCount "34"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd2 c5 7. dxc5 Na6 8. cxd5
+Nxc5 9. Bc4 e6 10. d6 Qxd6 11. O-O a6 12. Qc2 b5 13. Be2 Bb7 14. Rad1 Rac8 15.
+Qb1 b4 16. Nb5 axb5 17. Bxb4 Qb6 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Corden, Martyn"]
+[Black "McFarland, Robert S"]
+[Result "1-0"]
+[ECO "C16"]
+[WhiteElo "2275"]
+[PlyCount "75"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Qg4 f5 6. Qg3 Nc6 7. Bb5 Bf8 8. h4 a6
+9. Bxc6 Qxc6 10. Nh3 Qd7 11. O-O Ne7 12. Ne2 b6 13. b3 Bb7 14. Ba3 O-O-O 15.
+Rfd1 Rg8 16. c4 Nc6 17. Bxf8 Rdxf8 18. Rac1 Nd8 19. Rd2 g6 20. Rdc2 Rg7 21.
+Nhf4 Re8 22. cxd5 exd5 23. Rxc7+ Qxc7 24. Rxc7+ Rxc7 25. Nc3 Rd7 26. h5 Ne6 27.
+hxg6 Nxf4 28. g7 Ng6 29. Na4 Rxg7 30. Nxb6+ Kb8 31. e6+ Ka7 32. Qd6 Nf8 33.
+Nxd5 Nxe6 34. Qb6+ Ka8 35. Nf6 Rxg2+ 36. Kf1 Rc8 37. d5 Rc1+ 38. Kxg2 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Eley, Brian"]
+[Black "Williams, A Howard"]
+[Result "1-0"]
+[ECO "B02"]
+[BlackElo "2390"]
+[PlyCount "95"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 d6 5. Bf4 Nc6 6. Nf3 g6 7. Bc4 Bg7 8.
+Qe2 O-O 9. h3 dxe5 10. Rd1 Qe8 11. Nxe5 Bf5 12. Bb5 a6 13. Nxc6 bxc6 14. Ba4 e5
+15. Be3 Qe6 16. Bb3 Qf6 17. Qc4 a5 18. O-O Rfb8 19. g4 a4 20. Bxa4 Be6 21. Qxc6
+Qh4 22. Bb3 Bxb3 23. axb3 Qxh3 24. Qg2 Qxg2+ 25. Kxg2 Rd8 26. f3 f5 27. gxf5
+gxf5 28. b4 Kf7 29. b5 Ke6 30. Rxd8 Rxd8 31. Rh1 Rh8 32. Rh5 h6 33. c4 Ra8 34.
+Rh1 f4 35. Bf2 Ra2 36. Rb1 Kf5 37. c5 e4 38. fxe4+ Kxe4 39. b6 cxb6 40. cxb6
+f3+ 41. Kh3 Rxb2 42. Rxb2 Bxb2 43. b7 Be5 44. Bg3 f2 45. Bxf2 Bb8 46. c4 h5 47.
+Bg3 Ba7 48. Kh4 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Emsley, JS."]
+[Black "Hindle, Owen"]
+[Result "0-1"]
+[ECO "A10"]
+[PlyCount "62"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. Nc3 d6 7. d3 Kh8 8. a3 c6
+9. Qc2 Qc7 10. d4 e5 11. e3 e4 12. Ne1 Nbd7 13. f3 d5 14. cxd5 cxd5 15. fxe4
+fxe4 16. Bd2 Nb6 17. b3 Bd7 18. a4 Rac8 19. Qa2 Qd6 20. Nc2 Ng4 21. Nb5 Qh6 22.
+h3 Nf6 23. Kh2 g5 24. Nxa7 Ra8 25. Ba5 Nxa4 26. bxa4 Rxa7 27. Bc7 Rxa4 28. Rxf6
+Bxf6 29. Qxd5 Rxa1 30. Nxa1 Bxh3 31. Qxe4 Bf5+ 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Farrand, Julian T"]
+[Black "Pritchard, David B"]
+[Result "1-0"]
+[ECO "B02"]
+[PlyCount "86"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. d4 Nc6 6. Nf3 e5 7. dxe5 Qxd1+
+8. Kxd1 Bg4 9. Bf4 O-O-O+ 10. Kc1 a6 11. c3 Bc5 12. Bc4 Rhf8 13. Ng5 b5 14. h3
+bxc4 15. hxg4 Bxf2 16. Kc2 h6 17. Ne4 Bb6 18. Nd2 Na5 19. g5 hxg5 20. Bxg5 f6
+21. exf6 gxf6 22. Bf4 f5 23. Rae1 Rd7 24. Re5 c6 25. Rhe1 Bc7 26. Re8+ Rxe8 27.
+Rxe8+ Kb7 28. Bxc7 Kxc7 29. Rf8 Rd5 30. Nf3 Nb7 31. Rf7+ Kb6 32. Nd4 Nd6 33.
+Rd7 a5 34. Kc1 a4 35. a3 Kc5 36. Ne6+ Kb6 37. Nf4 Kc5 38. Nxd5 cxd5 39. Kd2 f4
+40. Rd8 Ne4+ 41. Ke2 Kc6 42. Kf3 Nc5 43. Rc8+ Kd6 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Haygarth, Michael J"]
+[Black "Clarke, Peter H"]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[BlackElo "2360"]
+[PlyCount "24"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 Bxe5 8.
+dxe5 Nc6 9. Bf4 Be6 10. Na3 Nc5 11. cxd5 Qxd5 12. Bb5 Rfd8 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "James, Geoffrey H"]
+[Black "Hutchings, Stuart"]
+[Result "1-0"]
+[ECO "C16"]
+[PlyCount "77"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Bd2 b6 6. Nb5 Bf8 7. a4 Ba6 8. Be2 c6
+9. Nc3 Bxe2 10. Qxe2 c5 11. dxc5 Bxc5 12. Nf3 Ne7 13. O-O O-O 14. Nb5 a6 15.
+Na3 Nbc6 16. c3 Bxa3 17. Rxa3 Ng6 18. b4 f6 19. exf6 Rxf6 20. c4 d4 21. Qe4 Rc8
+22. b5 Nb8 23. Rc1 Qd6 24. Raa1 e5 25. bxa6 Nxa6 26. Qb7 Rcf8 27. Qxa6 e4 28.
+c5 Qd7 29. Qc4+ Kh8 30. Qxd4 Qg4 31. h3 Qh5 32. Qxe4 bxc5 33. Be3 Rxf3 34. Rxc5
+Rxe3 35. Qxe3 Qh4 36. a5 Qf6 37. Rac1 Ne7 38. a6 Nf5 39. Qf3 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Knox, Victor W"]
+[Black "Sherman, David"]
+[Result "1-0"]
+[ECO "B09"]
+[PlyCount "87"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5 dxe5 7. fxe5 Nd5 8. Ne4
+f6 9. Bc4 c6 10. O-O Nd7 11. exf6 exf6 12. Bb3 b5 13. a4 N7b6 14. Nc5 Qd6 15.
+Bd2 Kh8 16. Qe1 Bf5 17. Qf2 Nc4 18. axb5 cxb5 19. Ra6 Ndb6 20. Rfa1 Rf7 21. Bb4
+Qd5 22. Nd2 Bh6 23. Nf1 Bg5 24. c3 h5 25. Bd1 Bg4 26. Bc2 Re7 27. h4 Re2 28.
+Be4 Rxf2 29. Bxd5 Nxd5 30. Kxf2 Bxh4+ 31. g3 Bg5 32. Rxa7 Rxa7 33. Rxa7 Nxb2
+34. Rb7 Nxb4 35. cxb4 h4 36. Rxb5 hxg3+ 37. Kxg3 Be2 38. Rb8+ Kh7 39. Nh2 f5
+40. Nf3 Bf6 41. Ne6 Bc4 42. Rf8 Bg7 43. Nfg5+ Kh6 44. Nf7+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Lemon, Richard C"]
+[Black "Edwards, Raymond B"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Littlewood, John Eric"]
+[Black "Keene, Raymond"]
+[Result "0-1"]
+[ECO "A43"]
+[WhiteElo "2340"]
+[BlackElo "2435"]
+[PlyCount "112"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. f4 Nf6 5. Nf3 O-O 6. Be2 c5 7. d5 Na6 8. e5 Nd7
+9. e6 fxe6 10. dxe6 Nf6 11. Ng5 d5 12. Bf3 Qa5 13. Bd2 Qb6 14. f5 d4 15. Ne2
+gxf5 16. O-O h6 17. Nh3 Bxe6 18. Qe1 Ne4 19. Bc1 Bc4 20. Nhf4 Nb4 21. Qd1 Nf6
+22. Ng6 Rfe8 23. Ne5 Qe6 24. Bf4 Bd5 25. Kh1 Ne4 26. Nd3 Nxd3 27. cxd3 Nf6 28.
+Qd2 Kh7 29. Rae1 Qf7 30. Ng3 e6 31. Qd1 Rad8 32. Be5 Rg8 33. Qe2 Bxf3 34. Rxf3
+Rde8 35. b4 b6 36. bxc5 bxc5 37. Qc2 Rc8 38. Qc4 Nd5 39. Bxg7 Rxg7 40. Ne4 Qe7
+41. Ng3 Qd6 42. Qa4 Rcg8 43. Rf2 Ne3 44. Nh5 Rf7 45. Rb1 Ng4 46. Rf4 Kg6 47. h3
+Ne3 48. Rg1 Kxh5 49. g4+ Kh4 50. Rf2 Qd5+ 51. Kh2 f4 52. Qa5 c4 53. Qe1 Kg5 54.
+h4+ Kg6 55. h5+ Kh7 56. dxc4 Nxg4+ 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Mestel, A Jonathan"]
+[Black "Webb, Simon"]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[PlyCount "98"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nc6 5. exd5 exd5 6. Bb5 Bd6 7. dxc5 Bxc5 8.
+Bxc6+ bxc6 9. O-O Nf6 10. Re1+ Be6 11. Nb3 Bb6 12. a4 Ne4 13. Nfd4 Qh4 14. Be3
+O-O 15. Nf3 Qh5 16. Nfd2 Qg6 17. Nf1 Rfd8 18. a5 Bc7 19. f3 Nf6 20. Bd4 Nd7 21.
+Qd2 Bd6 22. Qc3 c5 23. Nxc5 Bxc5 24. Bxc5 Nxc5 25. Qxc5 Rdc8 26. Qd4 Rc4 27.
+Qe5 Rxc2 28. Ne3 Rd2 29. Rad1 Qd3 30. Qc3 Qxc3 31. bxc3 Ra2 32. Nxd5 Rxa5 33.
+Nc7 Rc8 34. Nxe6 fxe6 35. Rxe6 Rc7 36. Rc1 Ra2 37. Kf1 Kf7 38. Re2 Ra3 39. Re3
+a5 40. Rc2 a4 41. Kf2 Rc4 42. Re4 Rcxc3 43. Rxc3 Rxc3 44. Rxa4 Rc2+ 45. Kg3 Kf6
+46. Ra6+ Kf5 47. h4 h5 48. Ra5+ Kg6 49. Rg5+ Kh6 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Perkins, Alan H"]
+[Black "Miles, Anthony J"]
+[Result "1/2-1/2"]
+[ECO "A42"]
+[BlackElo "2285"]
+[PlyCount "42"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. c4 g6 2. e4 e5 3. Nf3 Bg7 4. d4 d6 5. Nc3 Nc6 6. dxe5 dxe5 7. Qxd8+ Nxd8 8.
+Nb5 Kd7 9. Be3 Ne6 10. Rd1+ Kc6 11. c5 Ne7 12. a4 b6 13. cxb6 axb6 14. Rc1+ Kb7
+15. Bc4 Rxa4 16. b3 Ra2 17. Bxe6 Bxe6 18. Rxc7+ Kb8 19. O-O Ra5 20. Rxe7 Rxb5
+21. Ra1 Ra5 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Pritchett, Craig"]
+[Black "Hartston, William R"]
+[Result "0-1"]
+[ECO "B82"]
+[WhiteElo "2340"]
+[BlackElo "2420"]
+[PlyCount "134"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Qc7 7. Bd3 b5 8. Nb3
+Nf6 9. f4 d6 10. O-O Be7 11. Qf3 Bb7 12. Kh1 O-O 13. Qh3 Nb4 14. a3 Nxd3 15.
+cxd3 Rac8 16. Rac1 Qd7 17. Bd4 Rfd8 18. Bb6 Re8 19. Na5 Ba8 20. Ne2 Rxc1 21.
+Rxc1 Rc8 22. Rxc8+ Qxc8 23. Nc3 Qb8 24. Qe3 Nd7 25. Bd4 Qc7 26. Nb3 Nc5 27.
+Nxc5 dxc5 28. Be5 Qd7 29. Ne2 a5 30. h3 Qc6 31. Ng3 f6 32. Bc3 b4 33. Bd2 f5
+34. axb4 axb4 35. b3 g6 36. Qe2 h5 37. exf5 exf5 38. Bc1 Kf7 39. Nf1 Qd6 40.
+Qc2 h4 41. Be3 Bd5 42. Nd2 Qf6 43. Nc4 Qc3 44. Qxc3 bxc3 45. Kh2 c2 46. g3 Bf6
+47. Bc1 hxg3+ 48. Kxg3 Bd4 49. Ne5+ Kg7 50. Nc4 Kh6 51. Na5 Kh5 52. Nc4 Bc3 53.
+Nd2 Bf6 54. Ba3 Bh4+ 55. Kh2 Bf2 56. Nf1 Bxb3 57. Bc1 Kh4 58. Kg2 Bd4 59. Ne3
+Ba4 60. Kf3 Kxh3 61. Ke2 Bg7 62. Kf2 Bf6 63. Ng2 Bd4+ 64. Kf1 Bb5 65. Ne1 c4
+66. Nxc2 cxd3 67. Nxd4 d2+ 0-1
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Stean, Michael"]
+[Black "Penrose, Jonathan"]
+[Result "1/2-1/2"]
+[ECO "B83"]
+[WhiteElo "2275"]
+[BlackElo "2450"]
+[PlyCount "43"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O 8. f4
+Nc6 9. Be3 Qc7 10. Qe1 Nxd4 11. Bxd4 e5 12. fxe5 dxe5 13. Qg3 Bc5 14. Bxc5
+Qxc5+ 15. Kh1 Kh8 16. Rxf6 gxf6 17. Qh4 Rg8 18. Qxf6+ Rg7 19. Qd8+ Rg8 20. Qf6+
+Rg7 21. Qd8+ Rg8 22. Qf6+ 1/2-1/2
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Thomas, Andrew Rowland B"]
+[Black "BYE"]
+[Result "1-0"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+ 1-0
+
+[Event "GBR-ch 59th"]
+[Site "Brighton"]
+[Date "1972.08.25"]
+[Round "11"]
+[White "Trangmar, Alan G"]
+[Black "Speelman, Jonathan S"]
+[Result "1-0"]
+[ECO "E62"]
+[PlyCount "69"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 Nc6 7. O-O e5 8. d5
+Ne7 9. c5 Ne8 10. cxd6 Nxd6 11. e4 Bd7 12. Qb3 Qb8 13. Bg5 Re8 14. Rfd1 h6 15.
+Be3 b6 16. Rac1 Qb7 17. Nd2 c5 18. a4 Rad8 19. Nb5 Nec8 20. Bf1 Rf8 21. a5 Nxb5
+22. Bxb5 Bxb5 23. Qxb5 Nd6 24. Qd3 f5 25. f3 Qf7 26. axb6 axb6 27. b4 f4 28.
+Bf2 fxg3 29. hxg3 cxb4 30. Bxb6 Rd7 31. Rc6 Bf6 32. Bc5 Be7 33. Bxb4 h5 34. Bc3
+Bf6 35. Qa6 1-0
+
+[Event "GBR-ch59 Major Open"]
+[Site "Brighton"]
+[Date "1972.08.??"]
+[Round "?"]
+[White "Dickson, George A"]
+[Black "Henderson, GN."]
+[Result "0-1"]
+[ECO "D80"]
+[Annotator "D/Oct72"]
+[PlyCount "76"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Dragon"]
+[Source "CUCC"]
+[SourceDate "1998.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "1998.01.01"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c5 6. e3 Qa5 7. Qb3 cxd4 8. exd4
+Nc6 9. Nf3 e5 10. cxd5 exd4 11. dxc6 dxc3 12. bxc3 Bg7 13. cxb7 Qxc3+ 14. Qxc3
+Bxc3+ 15. Kd1 Bxb7 16. Bb5+ Kf8 17. Rc1 Kg7 18. Bd3 Rac8 19. Rc2 f6 20. Kc1
+Rhd8 21. Ne1 Bd2+ 22. Kb2 Rb8 23. Rc7+ Kh6 24. Kc2 Ba5 25. Rc4 Bd5 26. Rxe4
+Bxe4 27. Bxe4 Rbc8+ 28. Kb3 Rd4 29. Bxf6 Rb4+ 30. Ka3 Rxe4 31. Nd3 Re6 32. Bb2
+Rb8 33. Bc1+ Kg7 34. Bf4 Rb7 35. Ka4 Bc3 36. Nc5 Rb4+ 37. Ka3 Reb6 38. Bc1 R6b5
+0-1
+
+[Event "GBR-ch59 Major Open"]
+[Site "Brighton"]
+[Date "1972.08.??"]
+[Round "?"]
+[White "Holloway, Nigel J"]
+[Black "Lamb, Harry"]
+[Result "1-0"]
+[ECO "E69"]
+[Annotator "D/Oct72"]
+[PlyCount "81"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Dragon"]
+[Source "CUCC"]
+[SourceDate "1998.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "1998.01.01"]
+[SourceQuality "1"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nbd7 7. Nc3 c6 8. e4
+e5 9. h3 Re8 10. Re1 Qa5 11. Rb1 a6 12. d5 c5 13. a3 Qc7 14. Be3 Nb6 15. Nd2
+Nh5 16. Kh2 f5 17. exf5 Bxf5 18. Nce4 Nf6 19. Qc2 Rac8 20. Nxf6+ Bxf6 21. Be4
+Qd7 22. b4 Na4 23. b5 axb5 24. Rxb5 Ra8 25. g4 Bxe4 26. Nxe4 Rf8 27. Reb1 b6
+28. Kg2 Be7 29. Rh1 Ra5 30. Rxa5 bxa5 31. Rb1 Bd8 32. Bh6 Rf7 33. Rb8 Nb6 34.
+Bg5 Nc8 35. Qb3 Kg7 36. Qb5 h6 37. Qxd7 Rxd7 38. Bxd8 Rxd8 39. Nxd6 Nxd6 40.
+Rxd8 Nxc4 41. Rc8 1-0
+
+[Event "GBR-ch59 Major Open"]
+[Site "Brighton"]
+[Date "1972.08.??"]
+[Round "?"]
+[White "Holloway, Nigel J"]
+[Black "Ripley, John M"]
+[Result "1-0"]
+[ECO "D02"]
+[Annotator "D/Oct72"]
+[PlyCount "80"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Dragon"]
+[Source "CUCC"]
+[SourceDate "1998.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "1998.01.01"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. c3 Nbd7 7. Qb3 c6 8. Ne5
+Nb6 9. Nd2 Ng4 10. Nxg4 Bxg4 11. e4 dxe4 12. Nxe4 Be6 13. Qd1 Bd5 14. Bf4 Nd7
+15. Qc2 e5 16. dxe5 Nxe5 17. Rad1 Qb6 18. b3 Be6 19. h3 h6 20. Nd6 Rfd8 21.
+Rfe1 Nd7 22. Rxe6 fxe6 23. Qxg6 Nf8 24. Qf7+ Kh8 25. Qh5 Kg8 26. Bxh6 Bxh6 27.
+Qxh6 Qc5 28. Rd5 cxd5 29. Qg5+ Kh7 30. Be4+ dxe4 31. Qxc5 e3 32. fxe3 Rd7 33.
+e4 Rad8 34. Qh5+ Kg7 35. e5 Ng6 36. c4 Rh8 37. Qg4 Re7 38. h4 Kh7 39. Qh5+ Kg7
+40. Qg5 Kh7 1-0
+
+[Event "GBR-ch59 Major Open"]
+[Site "Brighton"]
+[Date "1972.08.??"]
+[Round "?"]
+[White "Sugden, John N"]
+[Black "Holloway, Nigel J"]
+[Result "1-0"]
+[ECO "B50"]
+[Annotator "D/Oct72"]
+[PlyCount "39"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Dragon"]
+[Source "CUCC"]
+[SourceDate "1998.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "1998.01.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 a6 4. g3 g6 5. d4 cxd4 6. Nxd4 Bg7 7. Bg2 Nf6 8. O-O
+O-O 9. b3 Bd7 10. Bb2 Nc6 11. Nd5 Nxd5 12. Nxc6 bxc6 13. Bxg7 Kxg7 14. exd5
+cxd5 15. Qxd5 Rb8 16. Rfe1 Be6 17. Qd4+ Kg8 18. c4 a5 19. Bd5 a4 20. Rxe6 (20.
+Rxe6 fxe6 21. Bxe6+ Rf7 22. Rb1 Qf8 23. b4 Qg7 24. Qa7 Re8 25. Qxa4) 1-0
+
+[Event "GBR-ch59 Major Open"]
+[Site "Brighton"]
+[Date "1972.08.??"]
+[Round "?"]
+[White "Sugden, John N"]
+[Black "Lamb, Harry"]
+[Result "0-1"]
+[ECO "D87"]
+[Annotator "D/Jan73"]
+[PlyCount "50"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Dragon"]
+[Source "CUCC"]
+[SourceDate "1998.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "1998.01.01"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 c5 9. O-O Nc6 10. Be3 Qc7 11. Rc1 Rd8 12. Kh1 Na5 13. Bd3 c4 14. Bb1 b5 15.
+f4 e6 16. Qe1 f5 17. d5 exd5 18. exf5 Bxf5 19. Bxf5 gxf5 20. Rf3 Nc6 21. Rg3
+Rd6 22. Nd4 Nxd4 23. Rxg7+ Qxg7 24. Bxd4 Qg6 25. Qe5 Re8 0-1
+
+[Event "GBR-ch59 Major Open"]
+[Site "Brighton"]
+[Date "1972.08.??"]
+[Round "?"]
+[White "Watson, J."]
+[Black "Sugden, John N"]
+[Result "0-1"]
+[ECO "E73"]
+[Annotator "D/Oct72"]
+[PlyCount "84"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Dragon"]
+[Source "CUCC"]
+[SourceDate "1998.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "1998.01.01"]
+[SourceQuality "1"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 g6 4. e4 Bg7 5. Be2 Nbd7 6. Bg5 e5 7. d5 h6 8. Be3
+Nc5 9. f3 a5 10. g4 Nh7 11. h4 f5 12. gxf5 gxf5 13. exf5 Bf6 14. Bf2 Bxf5 15.
+Qd2 Nf8 16. O-O-O Nfd7 17. f4 e4 18. Bh5+ Kf8 19. Be2 Rg8 20. Nb5 Rg2 21. Nd4
+Rxf2 22. Nxf5 Nd3+ 23. Kb1 Ra6 24. Qe3 N7c5 25. b3 Rb6 26. Rxd3 Nxd3 27. Bxd3
+Rb2+ 28. Kc1 exd3 29. Qxd3 Rxa2 30. Nd4 Bxd4 31. Qxd4 Kf7 32. Kb1 Rg2 33. Qd3
+Rg7 34. Nf3 a4 35. Nd4 Qf6 36. Nf5 Rxb3+ 37. Qxb3 axb3 38. Nxh6+ Qxh6 39. Rf1
+Qf6 40. Rf3 Rg2 41. Rxb3 Rg1+ 42. Kc2 Qxf4 0-1
+
+[Event "GBR-ch59 Major Open"]
+[Site "Brighton"]
+[Date "1972.08.??"]
+[Round "?"]
+[White "Webb, Jeffrey RL"]
+[Black "Holloway, Nigel J"]
+[Result "0-1"]
+[ECO "B98"]
+[Annotator "D/Oct72"]
+[PlyCount "64"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Dragon"]
+[Source "CUCC"]
+[SourceDate "1998.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "1998.01.01"]
+[SourceQuality "1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O O-O 10. Bd3 Nc6 11. Nxc6 bxc6 12. g4 Rb8 13. e5 dxe5 14. fxe5 Nd5
+15. Bxe7 Nxe7 16. Rhe1 c5 17. Qh3 Ng6 18. g5 Qb6 19. b3 Qa5 20. Kb2 Rb4 21. Ne4
+c4 22. c3 Rb7 23. Nf6+ gxf6 24. gxf6 Kh8 25. Qh6 Rg8 26. Re3 cxd3 27. Qxh7+ (
+27. Rg1) 27... Kxh7 28. Rh3+ Nh4 29. Rxh4+ Kg6 30. Rg1+ Kf5 31. Rf1+ Kg5 32.
+Rh3 Qxe5 0-1
+
+[Event "GBR-ch59 Major Open"]
+[Site "Brighton"]
+[Date "1972.08.??"]
+[Round "11"]
+[White "Holloway, Nigel J"]
+[Black "De Veauce, Louis"]
+[Result "1-0"]
+[Annotator "D/Jan73"]
+[SetUp "1"]
+[FEN "6k1/1pR4p/2p3p1/8/1rP5/p5PP/P4P2/6K1 w - - 0 31"]
+[PlyCount "33"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Dragon"]
+[Source "CUCC"]
+[SourceDate "1998.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "1998.01.01"]
+[SourceQuality "1"]
+
+31. c5 h5 32. Kg2 Rb5 33. Kf3 Rxc5 34. Rxb7 Rc3+ 35. Kf4 Rc2 36. Kg5 Rxa2 37.
+Kxg6 Rxf2 38. Ra7 Rf3 39. Ra8+ Rf8 40. Rxa3 h4 41. g4 c5 42. Kg5 (42. Rc3)
+42... c4 43. Kxh4 Rc8 44. Rc3 Kf7 45. Kg5 Ke6 46. h4 Ke5 47. h5 1-0
+
+[Event "GBR-ch59 U16"]
+[Site "Brighton"]
+[Date "1972.08.??"]
+[Round "?"]
+[White "Goldschmidt, Martin"]
+[Black "Crouch, Colin S"]
+[Result "0-1"]
+[ECO "B00"]
+[PlyCount "34"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Ne5 5. Bf4 Ng6 6. Bg3 f5 7. h4 e5 8. h5 f4
+9. hxg6 fxg3 10. Rxh7 gxf2+ 11. Kxf2 Rxh7 12. Bb5+ c6 13. dxc6 Bc5+ 14. Kf1
+Qf6+ 15. Nf3 Rh1+ 16. Ke2 exf3+ 17. gxf3 Rh2+ 0-1
+
+[Event "GBR-ch59 U21"]
+[Site "Brighton"]
+[Date "1972.08.??"]
+[Round "4"]
+[White "Wolfarth, George E"]
+[Black "Kneebone, Robin F G"]
+[Result "0-1"]
+[ECO "B07"]
+[PlyCount "54"]
+[EventDate "1972.08.14"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "GBR"]
+[SourceTitle "Dragon"]
+[Source "CUCC"]
+[SourceDate "1998.01.01"]
+[SourceVersion "1"]
+[SourceVersionDate "1998.01.01"]
+[SourceQuality "1"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d6 4. f4 Nf6 5. Bd3 O-O 6. Nf3 c5 7. d5 e6 8. O-O exd5
+9. exd5 Nxd5 10. Bxg6 hxg6 11. Qxd5 Be6 12. Qxb7 Nd7 13. Qa6 Nb6 14. Na3 Re8
+15. Rd1 Bg4 16. Qf1 d5 17. h3 Bf5 18. Qf2 c4 19. Be3 Bd3 20. Bd4 Re2 21. Qg3
+Nd7 22. Bxg7 Kxg7 23. b4 Nf6 24. Ne5 Be4 25. Nf3 Qb6+ 26. Kh1 Nh5 27. Qh4 Qe3
+0-1
+
