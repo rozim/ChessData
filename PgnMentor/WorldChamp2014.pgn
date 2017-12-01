@@ -1,0 +1,288 @@
+[Event "WCh 2014"]
+[Site "Sochi RUS"]
+[Date "2014.11.08"]
+[Round "1"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2863"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "1503014"]
+[EventDate "2014.11.08"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nxc3 7. Bxc3 O-O 8.
+Qd2 Nc6 9. Nf3 Bg4 10. d5 Bxf3 11. Bxg7 Kxg7 12. gxf3 Ne5 13. O-O-O c6 14. Qc3
+f6 15. Bh3 cxd5 16. exd5 Nf7 17. f4 Qd6 18. Qd4 Rad8 19. Be6 Qb6 20. Qd2 Rd6 21.
+Rhe1 Nd8 22. f5 Nxe6 23. Rxe6 Qc7+ 24. Kb1 Rc8 25. Rde1 Rxe6 26. Rxe6 Rd8 27.
+Qe3 Rd7 28. d6 exd6 29. Qd4 Rf7 30. fxg6 hxg6 31. Rxd6 a6 32. a3 Qa5 33. f4 Qh5
+34. Qd2 Qc5 35. Rd5 Qc4 36. Rd7 Qc6 37. Rd6 Qe4+ 38. Ka2 Re7 39. Qc1 a5 40. Qf1
+a4 41. Rd1 Qc2 42. Rd4 Re2 43. Rb4 b5 44. Qh1 Re7 45. Qd5 Re1 46. Qd7+ Kh6 47.
+Qh3+ Kg7 48. Qd7+ 1/2-1/2
+
+[Event "WCh 2014"]
+[Site "Sochi RUS"]
+[Date "2014.11.09"]
+[Round "2"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2863"]
+[BlackElo "2792"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "1503014"]
+[BlackFideId "5000017"]
+[EventDate "2014.11.08"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. O-O d6 6. Re1 O-O 7. Bxc6 bxc6 8. h3
+Re8 9. Nbd2 Nd7 10. Nc4 Bb6 11. a4 a5 12. Nxb6 cxb6 13. d4 Qc7 14. Ra3 Nf8 15.
+dxe5 dxe5 16. Nh4 Rd8 17. Qh5 f6 18. Nf5 Be6 19. Rg3 Ng6 20. h4 Bxf5 21. exf5
+Nf4 22. Bxf4 exf4 23. Rc3 c5 24. Re6 Rab8 25. Rc4 Qd7 26. Kh2 Rf8 27. Rce4 Rb7
+28. Qe2 b5 29. b3 bxa4 30. bxa4 Rb4 31. Re7 Qd6 32. Qf3 Rxe4 33. Qxe4 f3+ 34. g3
+h5 35. Qb7 1-0
+
+[Event "WCh 2014"]
+[Site "Sochi RUS"]
+[Date "2014.11.11"]
+[Round "3"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2863"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "5000017"]
+[BlackFideId "1503014"]
+[EventDate "2014.11.08"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 c6 8. Bd3 b6
+9. b4 a5 10. a3 Ba6 11. Bxa6 Rxa6 12. b5 cxb5 13. c6 Qc8 14. c7 b4 15. Nb5 a4
+16. Rc1 Ne4 17. Ng5 Ndf6 18. Nxe4 Nxe4 19. f3 Ra5 20. fxe4 Rxb5 21. Qxa4 Ra5 22.
+Qc6 bxa3 23. exd5 Rxd5 24. Qxb6 Qd7 25. O-O Rc8 26. Rc6 g5 27. Bg3 Bb4 28. Ra1
+Ba5 29. Qa6 Bxc7 30. Qc4 e5 31. Bxe5 Rxe5 32. dxe5 Qe7 33. e6 Kf8 34. Rc1 1-0
+
+[Event "WCh 2014"]
+[Site "Sochi RUS"]
+[Date "2014.11.12"]
+[Round "4"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2863"]
+[BlackElo "2792"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[WhiteFideId "1503014"]
+[BlackFideId "5000017"]
+[EventDate "2014.11.08"]
+
+1. e4 c5 2. Nf3 e6 3. g3 Nc6 4. Bg2 d5 5. exd5 exd5 6. O-O Nf6 7. d4 Be7 8. Be3
+cxd4 9. Nxd4 Bg4 10. Qd3 Qd7 11. Nd2 O-O 12. N2f3 Rfe8 13. Rfe1 Bd6 14. c3 h6
+15. Qf1 Bh5 16. h3 Bg6 17. Rad1 Rad8 18. Nxc6 bxc6 19. c4 Be4 20. Bd4 Nh7 21.
+cxd5 Bxd5 22. Rxe8+ Rxe8 23. Qd3 Nf8 24. Nh4 Be5 25. Bxd5 Qxd5 26. Bxe5 Qxe5 27.
+b3 Ne6 28. Nf3 Qf6 29. Kg2 Rd8 30. Qe2 Rd5 31. Rxd5 cxd5 32. Ne5 Qf5 33. Nd3 Nd4
+34. g4 Qd7 35. Qe5 Ne6 36. Kg3 Qb5 37. Nf4 Nxf4 38. Kxf4 Qb4+ 39. Kf3 d4 40.
+Qe8+ Kh7 41. Qxf7 Qd2 42. Qf5+ Kh8 43. h4 Qxa2 44. Qe6 Qd2 45. Qe8+ Kh7 46. Qe4+
+Kh8 47. Qe8+ Kh7 1/2-1/2
+
+[Event "WCh 2014"]
+[Site "Sochi RUS"]
+[Date "2014.11.14"]
+[Round "5"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2863"]
+[ECO "E15"]
+[Opening "Queen's Indian"]
+[Variation "4.g3"]
+[WhiteFideId "5000017"]
+[BlackFideId "1503014"]
+[EventDate "2014.11.08"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 Be7 6. Nc3 Bb7 7. Bg2 c6 8. e4 d5
+9. exd5 cxd5 10. Ne5 O-O 11. O-O Nc6 12. cxd5 Nxe5 13. d6 Nc6 14. dxe7 Qxe7 15.
+Bg5 h6 16. d5 Na5 17. Bxf6 Qxf6 18. dxe6 Qxe6 19. Re1 Qf6 20. Nd5 Bxd5 21. Bxd5
+Rad8 22. Qf3 Qxb2 23. Rad1 Qf6 24. Qxf6 gxf6 25. Re7 Kg7 26. Rxa7 Nc6 27. Rb7
+Nb4 28. Bb3 Rxd1+ 29. Bxd1 Nxa2 30. Rxb6 Nc3 31. Bf3 f5 32. Kg2 Rd8 33. Rc6 Ne4
+34. Bxe4 fxe4 35. Rc4 f5 36. g4 Rd2 37. gxf5 e3 38. Re4 Rxf2+ 39. Kg3 Rxf5 1/2-1/2
+
+[Event "WCh 2014"]
+[Site "Sochi RUS"]
+[Date "2014.11.15"]
+[Round "6"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2863"]
+[BlackElo "2792"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan, Maroczy bind (Reti variation)"]
+[WhiteFideId "1503014"]
+[BlackFideId "5000017"]
+[EventDate "2014.11.08"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Qd3 Nc6 8. Nxc6
+dxc6 9. Qxd8+ Kxd8 10. e5 Nd7 11. Bf4 Bxc3+ 12. bxc3 Kc7 13. h4 b6 14. h5 h6 15.
+O-O-O Bb7 16. Rd3 c5 17. Rg3 Rag8 18. Bd3 Nf8 19. Be3 g6 20. hxg6 Nxg6 21. Rh5
+Bc6 22. Bc2 Kb7 23. Rg4 a5 24. Bd1 Rd8 25. Bc2 Rdg8 26. Kd2 a4 27. Ke2 a3 28. f3
+Rd8 29. Ke1 Rd7 30. Bc1 Ra8 31. Ke2 Ba4 32. Be4+ Bc6 33. Bxg6 fxg6 34. Rxg6 Ba4
+35. Rxe6 Rd1 36. Bxa3 Ra1 37. Ke3 Bc2 38. Re7+ 1-0
+
+[Event "WCh 2014"]
+[Site "Sochi RUS"]
+[Date "2014.11.17"]
+[Round "7"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2863"]
+[BlackElo "2792"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "5000017"]
+[EventDate "2014.11.08"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6 14. g3 Bxg5
+15. Bxg5 Rg6 16. h4 f6 17. exf6 gxf6 18. Bf4 Nxh4 19. f3 Rd8 20. Kf2 Rxd1 21.
+Nxd1 Nf5 22. Rh1 Bxa2 23. Rxh5 Be6 24. g4 Nd6 25. Rh7 Nf7 26. Ne3 Kd8 27. Nf5 c5
+28. Ng3 Ne5 29. Rh8+ Rg8 30. Bxe5 fxe5 31. Rh5 Bxg4 32. fxg4 Rxg4 33. Rxe5 b6
+34. Ne4 Rh4 35. Ke2 Rh6 36. b3 Kd7 37. Kd2 Kc6 38. Nc3 a6 39. Re4 Rh2+ 40. Kc1
+Rh1+ 41. Kb2 Rh6 42. Nd1 Rg6 43. Ne3 Rh6 44. Re7 Rh2 45. Re6+ Kb7 46. Kc3 Rh4
+47. Kb2 Rh2 48. Nd5 Rd2 49. Nf6 Rf2 50. Kc3 Rf4 51. Ne4 Rh4 52. Nf2 Rh2 53. Rf6
+Rh7 54. Nd3 Rh3 55. Kd2 Rh2+ 56. Rf2 Rh4 57. c4 Rh3 58. Kc2 Rh7 59. Nb2 Rh5 60.
+Re2 Rg5 61. Nd1 b5 62. Nc3 c6 63. Ne4 Rh5 64. Nf6 Rg5 65. Re7+ Kb6 66. Nd7+ Ka5
+67. Re4 Rg2+ 68. Kc1 Rg1+ 69. Kd2 Rg2+ 70. Ke1 bxc4 71. Rxc4 Rg3 72. Nxc5 Kb5
+73. Rc2 a5 74. Kf2 Rh3 75. Rc1 Kb4 76. Ke2 Rc3 77. Nd3+ Kxb3 78. Ra1 Kc4 79. Nf2
+Kb5 80. Rb1+ Kc4 81. Ne4 Ra3 82. Nd2+ Kd5 83. Rh1 a4 84. Rh5+ Kd4 85. Rh4+ Kc5
+86. Kd1 Kb5 87. Kc2 Rg3 88. Ne4 Rg2+ 89. Kd3 a3 90. Nc3+ Kb6 91. Ra4 a2 92. Nxa2
+Rg3+ 93. Kc2 Rg2+ 94. Kb3 Rg3+ 95. Nc3 Rh3 96. Rb4+ Kc7 97. Rg4 Rh7 98. Kc4 Rf7
+99. Rg5 Kb6 100. Na4+ Kc7 101. Kc5 Kd7 102. Kb6 Rf1 103. Nc5+ Ke7 104. Kxc6 Rd1
+105. Rg6 Kf7 106. Rh6 Rg1 107. Kd5 Rg5+ 108. Kd4 Rg6 109. Rh1 Rg2 110. Ne4 Ra2
+111. Rf1+ Ke7 112. Nc3 Rh2 113. Nd5+ Kd6 114. Rf6+ Kd7 115. Nf4 Rh1 116. Rg6
+Rd1+ 117. Nd3 Ke7 118. Ra6 Kd7 119. Ke4 Ke7 120. Rc6 Kd7 121. Rc1 Rxc1 122. Nxc1 1/2-1/2
+
+[Event "WCh 2014"]
+[Site "Sochi RUS"]
+[Date "2014.11.18"]
+[Round "8"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2863"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "5000017"]
+[BlackFideId "1503014"]
+[EventDate "2014.11.08"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. a3
+Nc6 9. Qc2 Re8 10. Bg5 Be7 11. Rd1 Qa5 12. Bd3 h6 13. Bh4 dxc4 14. Bxc4 a6 15.
+O-O b5 16. Ba2 Bb7 17. Bb1 Rad8 18. Bxf6 Bxf6 19. Ne4 Be7 20. Nc5 Bxc5 21. Qxc5
+b4 22. Rc1 bxa3 23. bxa3 Qxc5 24. Rxc5 Ne7 25. Rfc1 Rc8 26. Bd3 Red8 27. Rxc8
+Rxc8 28. Rxc8+ Nxc8 29. Nd2 Nb6 30. Nb3 Nd7 31. Na5 Bc8 32. Kf1 Kf8 33. Ke1 Ke7
+34. Kd2 Kd6 35. Kc3 Ne5 36. Be2 Kc5 37. f4 Nc6 38. Nxc6 Kxc6 39. Kd4 f6 40. e4
+Kd6 41. e5+ 1/2-1/2
+
+[Event "WCh 2014"]
+[Site "Sochi RUS"]
+[Date "2014.11.20"]
+[Round "9"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2863"]
+[BlackElo "2792"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "5000017"]
+[EventDate "2014.11.08"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Ne2 b6 12. Rd1 Ba6 13. Nf4 Bb7 14. e6 Bd6
+15. exf7+ Kxf7 16. Ng5+ Kf6 17. Ne4+ Kf7 18. Ng5+ Kf6 19. Ne4+ Kf7 20. Ng5+ 1/2-1/2
+
+[Event "WCh 2014"]
+[Site "Sochi RUS"]
+[Date "2014.11.21"]
+[Round "10"]
+[White "Anand, Viswanathan"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2792"]
+[BlackElo "2863"]
+[ECO "D97"]
+[Opening "Gruenfeld"]
+[Variation "Russian, Prins variation"]
+[WhiteFideId "5000017"]
+[BlackFideId "1503014"]
+[EventDate "2014.11.08"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6 8. Be2
+c5 9. d5 e6 10. O-O exd5 11. exd5 Re8 12. Bg5 h6 13. Be3 Bf5 14. Rad1 Ne4 15.
+Nxe4 Bxe4 16. Qc1 Qf6 17. Bxh6 Qxb2 18. Qxb2 Bxb2 19. Ng5 Bd4 20. Nxe4 Rxe4 21.
+Bf3 Re7 22. d6 Rd7 23. Bf4 Nb4 24. Rd2 Re8 25. Rc1 Re6 26. h4 Be5 27. Bxe5 Rxe5
+28. Bxb7 Rxb7 29. d7 Nc6 30. d8=Q+ Nxd8 31. Rxd8+ Kg7 32. Rd2 1/2-1/2
+
+[Event "WCh 2014"]
+[Site "Sochi RUS"]
+[Date "2014.11.23"]
+[Round "11"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2863"]
+[BlackElo "2792"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "5000017"]
+[EventDate "2014.11.08"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Bd7 10. Nc3 h6 11. b3 Kc8 12. Bb2 c5 13. Rad1 b6 14. Rfe1 Be6
+15. Nd5 g5 16. c4 Kb7 17. Kh2 a5 18. a4 Ne7 19. g4 Ng6 20. Kg3 Be7 21. Nd2 Rhd8
+22. Ne4 Bf8 23. Nef6 b5 24. Bc3 bxa4 25. bxa4 Kc6 26. Kf3 Rdb8 27. Ke4 Rb4 28.
+Bxb4 cxb4 29. Nh5 Kb7 30. f4 gxf4 31. Nhxf4 Nxf4 32. Nxf4 Bxc4 33. Rd7 Ra6 34.
+Nd5 Rc6 35. Rxf7 Bc5 36. Rxc7+ Rxc7 37. Nxc7 Kc6 38. Nb5 Bxb5 39. axb5+ Kxb5 40.
+e6 b3 41. Kd3 Be7 42. h4 a4 43. g5 hxg5 44. hxg5 a3 45. Kc3 1-0
+

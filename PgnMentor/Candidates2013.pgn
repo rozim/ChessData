@@ -1,0 +1,1451 @@
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.15"]
+[Round "1.1"]
+[White "Aronian,L"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2872"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence"]
+[WhiteFideId "13300474"]
+[BlackFideId "1503014"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 d5 6. Nc3 O-O 7. e3 Qe7 8.
+Rc1 Rd8 9. Qc2 a6 10. a3 Nbd7 11. Be2 dxc4 12. Bxc4 c5 13. Be2 b5 14. dxc5 Qxc5
+15. b4 Qe7 16. O-O Bb7 17. a4 Qxb4 18. axb5 axb5 19. Qb1 Qxb1 20. Rxb1 Bxf3 21.
+Bxf3 Rab8 22. Nxb5 Ne5 23. Nd4 Nxf3+ 24. Nxf3 Rxb1 25. Rxb1 h6 26. h3 g5 27. g4
+Kg7 28. Kg2 Rd7 29. Rb2 Rc7 30. Nd4 Nd5 31. Rc2 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.15"]
+[Round "1.2"]
+[White "Gelfand,B"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2740"]
+[BlackElo "2793"]
+[ECO "E11"]
+[Opening "Bogo-Indian defence, Gruenfeld variation"]
+[WhiteFideId "2805677"]
+[BlackFideId "13400924"]
+[EventDate "2013.03.15"]
+
+1. d4 e6 2. c4 Bb4+ 3. Nd2 Nf6 4. Nf3 O-O 5. a3 Be7 6. e4 d6 7. Be2 Nbd7 8. b4
+e5 9. Bb2 a5 10. O-O exd4 11. Nxd4 Re8 12. Qc2 Bf8 13. N4b3 axb4 14. axb4 Rxa1
+15. Rxa1 c6 16. Bf1 d5 17. exd5 Bxb4 18. dxc6 bxc6 19. Nd4 Qc7 20. N2f3 Bf8 21.
+g3 Bb7 22. Bg2 Qb6 23. Re1 Rxe1+ 24. Nxe1 c5 25. Nb5 Bc6 26. Qe2 Qb7 27. Bxf6
+Nxf6 28. Bxc6 Qxc6 29. Ng2 g6 30. Nc3 h5 31. Nf4 Qe8 32. Kf1 Qxe2+ 33. Kxe2 Nd7
+34. Nd3 Nb6 35. Ne4 Nxc4 36. Nexc5 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.15"]
+[Round "1.3"]
+[White "Ivanchuk,V"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2764"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "14100010"]
+[BlackFideId "4126025"]
+[EventDate "2013.03.15"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bg5 Nbd7 11. Bxf6 Nxf6 12. Nbd2 Rc8 13. Nb3 Be4 14. Qc3 Nd5
+15. Qd2 c5 16. Nxc5 Bxc5 17. dxc5 Rxc5 18. Rfc1 Rxc1+ 19. Rxc1 Qa8 20. Bf1 Bxf3
+21. exf3 Rc8 22. h4 h5 23. Bd3 Rxc1+ 24. Qxc1 Qd8 25. a3 g6 26. Be4 Qf6 27. Qd2
+Kg7 28. f4 Nb6 29. b3 Nd5 30. Kg2 Qa1 31. Bxd5 exd5 32. Qxd5 Qxa3 33. Qe5+ Kg8
+34. Qe8+ Qf8 35. Qc6 Qb4 36. f5 Qxb3 37. fxg6 Qe6 38. gxf7+ Kxf7 39. Qb7+ Kg6
+40. Kf3 Qf7+ 41. Qxf7+ Kxf7 42. Ke4 a5 43. f3 a4 44. Kd3 a3 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.15"]
+[Round "1.4"]
+[White "Svidler,P"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2810"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "4101588"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. a3 cxd4 8.
+cxd4 e5 9. Nf3 exd4 10. Qxd4 Qxd4 11. Nxd4 Be7 12. Be3 O-O 13. Bc4 Nd7 14. Ke2
+Nb6 15. Bb3 Bd7 16. Nf5 Bf6 17. Rab1 Rfd8 18. Rhc1 Bb5+ 19. Kf3 Bd3 20. Bc2 Ba6
+21. Bb3 Bd3 22. Bc2 Ba6 23. Bb3 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.16"]
+[Round "2.1"]
+[White "Aronian,L"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2740"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[WhiteFideId "13300474"]
+[BlackFideId "2805677"]
+[EventDate "2013.03.15"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 g6 4. e3 Nf6 5. d4 cxd4 6. exd4 d5 7. cxd5 Nxd5 8.
+Qb3 Nxc3 9. Bc4 Nd5 10. Bxd5 e6 11. Bxc6+ bxc6 12. O-O Be7 13. Be3 Qd5 14. Rfc1
+Qxb3 15. axb3 Bb7 16. Ne5 O-O 17. Ra4 Rfd8 18. Nc4 Bf6 19. Na5 Rd7 20. Rb4 Ba6
+21. Nxc6 Rb7 22. h3 Kg7 23. Rxb7 Bxb7 24. Ne5 Bd8 25. b4 Rc8 26. Bh6+ Kg8 27.
+Rxc8 Bxc8 28. Nc6 Bf6 29. b5 Bd7 30. g4 g5 31. h4 gxh4 32. g5 Bxc6 33. bxc6 Bd8
+34. Kg2 Bc7 35. Kh3 1-0
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.16"]
+[Round "2.2"]
+[White "Carlsen,M"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2872"]
+[BlackElo "2810"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "4101588"]
+[EventDate "2013.03.15"]
+
+1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bf4 d5 7. e3 Bb4 8. Be2
+dxc4 9. Nxc6 Qxd1+ 10. Rxd1 bxc6 11. Bxc4 Nd5 12. O-O Nxf4 13. exf4 Bxc3 14.
+bxc3 Ke7 15. Rb1 Bd7 16. Rb7 Rhb8 17. Rfb1 Rxb7 18. Rxb7 a5 19. Bd3 h6 20. h4
+Kd8 21. Kf1 Kc8 22. Rb1 Rb8 23. Rxb8+ Kxb8 24. Ke2 Kc7 25. Ke3 Kd6 26. Kd4 c5+
+27. Ke3 Bc6 28. g3 f6 29. a3 e5 30. fxe5+ Kxe5 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.16"]
+[Round "2.3"]
+[White "Grischuk,A"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2747"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "4126025"]
+[BlackFideId "4102142"]
+[EventDate "2013.03.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. d4 d6 10. dxe5 dxe5 11. Nbd2 Bc5 12. Qe2 Qe7 13. Nc4 Bg4 14. c3 bxc3 15.
+bxc3 h6 16. Bc2 Qe6 17. Ne3 Bxe3 18. Qxe3 Na5 19. Nd2 Qc6 20. h3 Be6 21. Qg3 Nd7
+22. Rb1 Rfb8 23. Ba3 Nc4 24. Nxc4 Qxc4 25. Bb4 a5 26. Bd3 Qa2 27. Ra1 Qd2 28.
+Red1 Qf4 29. Qxf4 exf4 30. Be7 Re8 31. Ba3 Bb3 32. Bb5 Bxd1 33. Bxd7 Bc2 34.
+Bxe8 Rxe8 35. f3 Rd8 36. Be7 Rd7 37. Bh4 g5 38. Be1 Rd1 39. Rxd1 Bxd1 40. c4
+Bxa4 41. Bxa5 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.16"]
+[Round "2.4"]
+[White "Radjabov,T"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2757"]
+[ECO "A88"]
+[Opening "Dutch"]
+[Variation "Leningrad, main variation with c6"]
+[WhiteFideId "13400924"]
+[BlackFideId "14100010"]
+[EventDate "2013.03.15"]
+
+1. d4 d6 2. Nf3 g6 3. c4 f5 4. Nc3 Nf6 5. g3 Bg7 6. Bg2 O-O 7. O-O c6 8. Rb1 Ne4
+9. Qc2 Nxc3 10. bxc3 e5 11. dxe5 dxe5 12. Ba3 Rf7 13. Rfd1 Qe8 14. e4 f4 15. Rd3
+fxg3 16. hxg3 Na6 17. Ng5 Rc7 18. Bd6 Bf6 19. Qd2 Rd7 20. Bh3 Rg7 21. Bxe5 Bxe5
+22. Rd8 Bxh3 23. Rxe8+ Rxe8 24. Nxh3 Nc5 25. Qe3 Bd6 26. f3 Ne6 27. Kg2 g5 28.
+Nf2 h5 29. Qxa7 Bc5 30. Qa4 Rf8 31. Nd3 h4 32. Qa5 b6 33. Rxb6 Bxb6 34. Qxb6
+hxg3 1-0
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.17"]
+[Round "3.1"]
+[White "Svidler,P"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2793"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[WhiteFideId "4102142"]
+[BlackFideId "13400924"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. Nge2 Nc6 8. d5 Na5
+9. Ng3 a6 10. Be2 Nd7 11. Rc1 b5 12. cxb5 axb5 13. Bxb5 Ne5 14. O-O Nac4 15. Bg5
+Bd7 16. Bxd7 Qxd7 17. Qe2 Nxb2 18. Qxb2 Nd3 19. Qd2 Nxc1 20. Rxc1 Bxc3 21. Rxc3
+Rfb8 22. Qc2 f6 23. Bc1 Qa4 24. a3 Kf7 25. Nf1 Qxc2 26. Rxc2 f5 27. Nd2 Ra4 28.
+Nc4 fxe4 29. fxe4 Rb3 30. Kf2 Ke8 31. e5 Ra6 32. exd6 exd6 33. Ke2 Kd7 34. Bf4
+h5 35. h4 Ra4 36. Kd2 Rb1 37. Kc3 Ra6 38. Re2 Rd1 39. Re6 Rxd5 40. Rxg6 Rd4 41.
+Bxd6 Rxh4 42. Ne5+ Kc8 43. Rg8+ Kb7 44. Bxc5 Re6 45. Rg7+ Kc8 46. Nc4 Rg4 47.
+Nd6+ Kb8 48. Rb7+ Ka8 49. Rd7 Rg8 50. Nc4 Rxg2 51. Bd6 Rxd6 52. Nxd6 h4 53. Rh7
+Rh2 54. Kb4 h3 55. Ka5 1-0
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.17"]
+[Round "3.2"]
+[White "Kramnik,V"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2764"]
+[ECO "D71"]
+[Opening "Neo-Gruenfeld, 5.cd"]
+[WhiteFideId "4101588"]
+[BlackFideId "4126025"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 Nb6 7. Nc3 Nc6 8. e3
+O-O 9. O-O Re8 10. h3 e5 11. d5 Na5 12. Qc2 c6 13. b4 Nac4 14. dxc6 bxc6 15. Rd1
+Qe7 16. Nd2 Bf5 17. Nce4 Rad8 18. a3 h5 19. Nxc4 Rxd1+ 20. Qxd1 Nxc4 21. Ra2 Rd8
+22. Qf1 Nd6 23. Nc5 Nb5 24. Bxc6 Nc3 25. Rd2 Rxd2 26. Bxd2 Qd6 27. Bxc3 Qxc6 28.
+Qg2 Qd6 29. e4 Qd1+ 30. Kh2 Bc8 31. f3 Qc1 32. Qd2 Qf1 33. Qg2 Qc1 34. Qd2 Qf1
+35. Qg2 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.17"]
+[Round "3.3"]
+[White "Gelfand,B"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2740"]
+[BlackElo "2872"]
+[ECO "D52"]
+[Opening "QGD"]
+[Variation "Cambridge Springs defence, Yugoslav variation"]
+[WhiteFideId "2805677"]
+[BlackFideId "1503014"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bg5 c6 6. e3 Qa5 7. cxd5 Nxd5 8. Rc1
+Nxc3 9. bxc3 Ba3 10. Rc2 b6 11. Bd3 Ba6 12. O-O Bxd3 13. Qxd3 O-O 14. e4 Rfe8
+15. e5 h6 16. Bh4 c5 17. Nd2 cxd4 18. cxd4 Rac8 19. Nc4 Qb5 20. f4 Rc7 21. Qxa3
+Rxc4 22. Rxc4 Qxc4 23. Bf2 Qc7 24. Rc1 Qb7 25. Qd6 Nf8 26. g3 Rc8 27. Rxc8 Qxc8
+28. d5 exd5 29. Qxd5 g6 30. Kg2 Ne6 31. Qf3 Kg7 32. a3 h5 33. h4 Qc2 34. Qb7 Qa4
+35. Qf3 b5 36. f5 gxf5 37. Qxf5 Qxa3 38. Qxh5 a5 39. Qg4+ Kf8 40. h5 Qc1 41. Qe4
+b4 42. Be3 Qc7 43. Qa8+ Kg7 44. h6+ Kh7 45. Qe4+ Kg8 46. Qa8+ Qd8 47. Qxd8+ Nxd8
+48. Kf3 a4 49. Ke4 Nc6 50. Bc1 Na5 51. Bd2 b3 52. Kd3 Nc4 53. Bc3 a3 54. g4 Kh7
+55. g5 Kg6 56. Bd4 b2 57. Kc2 Nd2 0-1
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.17"]
+[Round "3.4"]
+[White "Ivanchuk,V"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2809"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[WhiteFideId "14100010"]
+[BlackFideId "13300474"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nd2 c5 4. e3 b6 5. Ngf3 Bb7 6. c3 Be7 7. Bd3 O-O 8. Bxf6
+Bxf6 9. h4 Nc6 10. Ng5 g6 11. f4 Ne7 12. Qg4 h5 13. Qh3 cxd4 14. exd4 b5 15. a3
+Qb6 16. Rg1 Nd5 17. Nge4 Bg7 18. Qf3 b4 19. axb4 Nxb4 20. Nc4 Qb5 21. Ne5 Nxd3+
+22. Nxd3 Qf5 23. Ndc5 Bc6 24. b4 Rfb8 25. Ra5 a6 26. Qe3 Qg4 27. g3 Rb5 28. Rxa6
+Rxa6 29. Nxa6 e5 30. dxe5 Bxe4 31. c4 Rb6 32. Qxb6 Qf3 33. Qf2 Qa3 34. Nc5 0-1
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.19"]
+[Round "4.1"]
+[White "Radjabov,T"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2810"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[WhiteFideId "13400924"]
+[BlackFideId "4101588"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 dxc4 7. Bxc4 c5 8. O-O
+cxd4 9. exd4 b6 10. Qe2 Bb7 11. Bg5 Bxc3 12. bxc3 Nbd7 13. Rac1 Qc7 14. Bd3 Ng4
+15. Be4 Bxe4 16. Qxe4 Ngf6 17. Qe2 Rac8 18. c4 h6 19. Bh4 Qb7 20. Rfe1 Rfe8 21.
+a4 Qa6 22. Qa2 Rc6 23. Qb3 Rec8 24. Bxf6 Nxf6 25. Ne5 Rd6 26. Red1 Rcd8 27. Qb4
+Qc8 28. Nf3 Ne4 29. h4 Nf6 30. a5 Ng4 31. axb6 axb6 32. Re1 Rc6 33. Qb5 Qc7 34.
+Re4 Rd5 35. Qb3 h5 36. Ree1 Rf5 37. Qd3 g6 38. Rc2 Qd6 39. Rd1 Rc8 40. Qe2 Rd8
+41. Rcd2 Qc6 42. Rc2 Qc7 43. Rcd2 Rc8 44. Rc2 Ra5 45. Rdc1 Qd6 46. Qe4 Rf5 47.
+g3 Nf6 48. Qe3 Ng4 49. Qe4 Nf6 50. Qe3 Ng4 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.19"]
+[Round "4.2"]
+[White "Aronian,L"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2747"]
+[ECO "D22"]
+[Opening "QGA"]
+[Variation "Haberditz variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "4102142"]
+[EventDate "2013.03.15"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5 5. a4 Bb7 6. b3 e6 7. bxc4 bxc4 8. Bxc4
+Nf6 9. Nbd2 Nbd7 10. Rb1 Rb8 11. O-O Be7 12. Qe2 O-O 13. Bb2 c5 14. Bxa6 Bxa6
+15. Qxa6 Ra8 16. Qb5 Ra5 17. Qb3 Qa8 18. Ra1 Rb8 19. Qc2 cxd4 20. Nxd4 Rc8 21.
+Qb1 Rxa4 22. Rxa4 Qxa4 23. Rc1 Qa6 24. Rxc8+ Qxc8 25. h3 h6 26. Qc2 Qxc2 27.
+Nxc2 Nd5 28. Ba3 Bxa3 29. Nxa3 Nc5 30. Nc2 Kf8 31. Kf1 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.19"]
+[Round "4.3"]
+[White "Gelfand,B"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2740"]
+[BlackElo "2757"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[WhiteFideId "2805677"]
+[BlackFideId "14100010"]
+[EventDate "2013.03.15"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. Nc3 e6 5. Bf4 Bxf3 6. gxf3 Bb4 7. e3 Nge7 8.
+Qc2 dxc4 9. Bxc4 Nd5 10. Bg3 h5 11. h3 Qd7 12. O-O-O O-O-O 13. Ne4 Kb8 14. Kb1
+h4 15. Bh2 Bd6 16. f4 f5 17. Ng5 Na5 18. Be2 Rc8 19. Qd2 Bb4 20. Qd3 c5 21. dxc5
+Rxc5 22. e4 Rhc8 23. Rc1 Nc4 24. Rxc4 Rxc4 25. exd5 exd5 26. Qb3 Qc6 27. Bxc4
+dxc4 28. Qf3 Qb5 29. Qe2 Re8 30. Qc2 c3 31. bxc3 Bxc3+ 32. Qb3 Qd3+ 33. Qc2 Qb5+
+34. Qb3 Qd3+ 35. Qc2 Qb5+ 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.19"]
+[Round "4.4"]
+[White "Carlsen,M"]
+[Black "Grischuk,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2872"]
+[BlackElo "2764"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "1503014"]
+[BlackFideId "4126025"]
+[EventDate "2013.03.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. h3 a6 8. Bxc6
+bxc6 9. Re1 Re8 10. Nbd2 d5 11. exd5 Qxd5 12. Nb3 Bf8 13. c4 Qd6 14. Be3 Nd7 15.
+d4 e4 16. Nfd2 a5 17. a4 f5 18. c5 Qg6 19. Nc4 Nf6 20. Bf4 Nd5 21. Qd2 Be6 22.
+Nbxa5 Reb8 23. Ne5 Qf6 24. Bh2 Rxa5 25. Qxa5 Rxb2 26. Rab1 Ra2 27. Qa6 e3 28.
+fxe3 Qg5 29. Re2 Nxe3 30. Nf3 Qg6 31. Rxa2 Bxa2 32. Rb2 Bc4 33. Qa5 Bd5 34. Qe1
+f4 35. Bxf4 Nc2 36. Qf2 Bxf3 37. Rxc2 1-0
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.20"]
+[Round "5.1"]
+[White "Ivanchuk,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2872"]
+[ECO "D93"]
+[Opening "Gruenfeld with Bf4    e3"]
+[WhiteFideId "14100010"]
+[BlackFideId "1503014"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. Nf3 O-O 6. e3 c5 7. dxc5 Qa5 8. Rc1
+Rd8 9. Qa4 Qxc5 10. b4 Qc6 11. Qa3 dxc4 12. b5 Qb6 13. Bxc4 Be6 14. Bxe6 Qxe6
+15. O-O Nbd7 16. Ng5 Qf5 17. Qxe7 Nh5 18. Rfd1 Nxf4 19. exf4 Bf8 20. Qe4 Qxe4
+21. Ncxe4 Nb6 22. g3 Rxd1+ 23. Rxd1 Be7 24. Nf3 Rc8 25. Ne5 Rc7 26. Kg2 f6 27.
+Nf3 Kf7 28. h4 Rc2 29. a4 Ra2 30. Nc3 Ra3 31. Rc1 Nxa4 32. Ne4 Rd3 33. Rc7 Ke6
+34. Rxb7 Rd7 35. Rb8 Rd8 36. Rb7 Rd7 37. Rxd7 Kxd7 38. Nd4 f5 39. Ng5 Bxg5 40.
+fxg5 Nc3 41. h5 gxh5 42. Kh3 Kd6 43. Kh4 Kd5 44. Nxf5 Nxb5 45. Kxh5 Ke4 46. Ne3
+Nd6 47. Kh6 Nf7+ 48. Kxh7 Nxg5+ 49. Kg6 Nh3 50. Nd1 Kf3 51. Kf5 Nxf2 52. Nxf2
+Kxg3 53. Nd1 a5 54. Ke4 a4 55. Kd4 a3 56. Nc3 a2 57. Nxa2 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.20"]
+[Round "5.2"]
+[White "Svidler,P"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2740"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "2805677"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Nb6 6. e3 Bg7 7. f4 O-O 8. Nf3
+Bg4 9. h3 Bxf3 10. Qxf3 c6 11. h4 N8d7 12. h5 e6 13. hxg6 hxg6 14. e4 f5 15. g4
+Nf6 16. gxf5 exf5 17. e5 Ng4 18. d5 cxd5 19. O-O-O d4 20. Nb5 Qd5 21. Qh3 Rfc8+
+22. Kb1 Rc6 23. e6 Qxe6 24. Bg2 Nf2 25. Qh7+ Kf7 26. Rde1 Qf6 27. Bxc6 bxc6 28.
+Nc7 Rh8 29. Qxh8 Bxh8 30. Ne8 Nxh1 31. Nxf6 Ng3 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.20"]
+[Round "5.3"]
+[White "Kramnik,V"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2809"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "4101588"]
+[BlackFideId "13300474"]
+[EventDate "2013.03.15"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 e6 4. c4 c6 5. O-O Nf6 6. cxd5 Bxf3 7. Bxf3 cxd5 8.
+Nc3 Nc6 9. d4 Be7 10. e3 O-O 11. Bd2 Qb8 12. Rc1 Rc8 13. Bg2 b5 14. e4 b4 15.
+Bf4 Qb6 16. Na4 Qa5 17. e5 Nd7 18. Be3 Nb6 19. Nxb6 axb6 20. f4 Qxa2 21. f5 exf5
+22. b3 Qa5 23. Qf3 Nd8 24. Qxd5 Rxc1 25. Rxc1 Qxd5 26. Bxd5 Ra5 27. Bf3 Ra3 28.
+Rc8 Rxb3 29. Kf2 Rc3 30. Rb8 b3 31. Rxb6 g5 32. Rb8 Rc4 33. d5 Rb4 34. Rxb4 Bxb4
+35. Bd1 b2 36. Bc2 Nb7 37. Bxg5 Nc5 38. Bxf5 Na4 39. d6 Nc3 40. d7 Ba5 41. Ke3
+f6 42. Bxf6 Nd5+ 43. Kd4 Nxf6 44. exf6 Kf7 45. Bxh7 Kxf6 46. Kd5 Ke7 47. Kc6 Kd8
+48. g4 Be1 49. h3 Bh4 50. Kd6 Be7+ 51. Ke6 Bh4 52. Bb1 Kc7 53. Be4 Kd8 54. Bc2
+Kc7 55. Bb1 Kd8 56. Be4 Kc7 57. Bd3 Kd8 58. Kd6 Be7+ 59. Ke6 Bh4 60. Bf5 Kc7 61.
+Kf7 b1=Q 62. Bxb1 Kxd7 63. Ba2 Kd6 64. Kg6 Ke5 65. Kh5 Be7 66. g5 Kf4 67. h4 Kg3
+68. Bc4 Bf8 69. Be2 Bg7 70. Bc4 Bf8 71. g6 Kf4 72. Ba2 Bg7 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.20"]
+[Round "5.4"]
+[White "Grischuk,A"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2793"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "4126025"]
+[BlackFideId "13400924"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 Nh5 8. Be2
+Nxf4 9. exf4 b6 10. b4 a5 11. a3 c6 12. O-O Qc7 13. g3 g6 14. Re1 Ba6 15. Qc2
+Bxe2 16. Nxe2 Ra7 17. Rab1 axb4 18. axb4 Rfa8 19. Nc1 Ra3 20. Nd3 Bf6 21. Kg2
+Qb7 22. Rec1 Kg7 23. Qd1 b5 24. Nde5 R8a4 25. Rc2 Bd8 26. Qe2 h6 27. Nd3 Nf6 28.
+Nfe5 Nd7 29. Rcb2 Nxe5 30. dxe5 Qd7 31. Rb3 Be7 32. Ne1 Qa7 33. Nc2 Rxb3 34.
+Rxb3 Bxc5 35. bxc5 Qxc5 36. Ne3 h5 37. Qc2 Qb6 38. Rb2 Re4 39. Rb1 c5 40. Nd1
+Qc6 41. Nc3 Rc4 42. Qd3 b4 43. Ne2 Qa4 44. f5 Qc2 45. Qxc2 Rxc2 46. Nf4 gxf5 47.
+Nxh5+ Kh6 48. Nf6 Ra2 49. Nd7 Ra5 50. Nxc5 Rxc5 51. Rxb4 d4 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.21"]
+[Round "6.1"]
+[White "Radjabov,T"]
+[Black "Aronian,L"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2809"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "13400924"]
+[BlackFideId "13300474"]
+[EventDate "2013.03.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O Re8 7. Nbd2 a6 8. Ba4
+b5 9. Bb3 d6 10. Re1 Be6 11. Nf1 Bxb3 12. axb3 d5 13. Qc2 h6 14. Ng3 a5 15. h3
+Qd7 16. Be3 Bf8 17. Rad1 Rad8 18. Nf5 Qe6 19. g4 dxe4 20. dxe4 Ne7 21. Rxd8 Rxd8
+22. Ra1 Ra8 23. c4 b4 24. g5 hxg5 25. Nxg5 Qc8 26. Nxe7+ Bxe7 27. Kh2 Ra6 28.
+Rg1 Nd7 29. Qe2 Rg6 30. Qh5 Nf6 31. Qf3 Rh6 32. Ne6 Rh7 33. Ng5 Rh4 34. Rg2 Qd7
+35. Rg1 g6 36. Bc1 Qe8 37. Be3 a4 38. bxa4 Qxa4 39. Bc1 b3 40. Qg3 Rh5 41. Qd3
+Qc6 42. Be3 Rh4 43. Kg3 Rh8 44. Kh2 Kg7 45. c5 Qa4 46. Qc3 Re8 47. Qd3 Rd8 48.
+Qc3 Qb5 49. Kg2 Rd3 50. Qc1 Nh5 51. Nf3 Qb4 52. Qe1 Qa4 53. Nxe5 Qxe4+ 54. Nf3
+Nf4+ 0-1
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.21"]
+[Round "6.2"]
+[White "Svidler,P"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2872"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "4102142"]
+[BlackFideId "1503014"]
+[EventDate "2013.03.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a4 b4
+9. Nbd2 O-O 10. a5 Be6 11. Nc4 Rb8 12. c3 bxc3 13. bxc3 h6 14. Re1 Qc8 15. Bc2
+Rd8 16. Qe2 Bf8 17. Ne3 d5 18. exd5 Nxd5 19. Nxd5 Rxd5 20. h3 Bf5 21. Rd1 Qe6
+22. Bb1 Qd7 23. Be3 e4 24. Nd4 Nxd4 25. Bxd4 exd3 26. Bxd3 Bxd3 27. Rxd3 c5 28.
+Be5 Rxd3 29. Bxb8 c4 30. Be5 Bc5 31. Rb1 Qd5 32. Rb8+ Kh7 33. Qh5 Qe4 34. Rb2
+Rd5 35. Re2 Qb1+ 36. Kh2 f6 0-1
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.21"]
+[Round "6.3"]
+[White "Kramnik,V"]
+[Black "Ivanchuk,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2757"]
+[ECO "E10"]
+[Opening "Queen's pawn game"]
+[WhiteFideId "4101588"]
+[BlackFideId "14100010"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Bd6 6. Bg2 Nbd7 7. O-O O-O 8. Qc2
+c6 9. Nc3 dxc4 10. Rfd1 Qc7 11. Ng5 Be7 12. a4 e5 13. a5 exd4 14. Bf4 Bd6 15.
+Rxd4 Bxf4 16. Rxf4 h6 17. Nf3 b5 18. axb6 Nxb6 19. Rxf6 gxf6 20. Nd4 Bd7 21. Qd2
+Kg7 22. Bxc6 Bxc6 23. Nf5+ Kg6 24. Ra5 Rh8 25. Qd4 Rag8 26. Rc5 Qd7 27. Qf4 h5
+28. Nh4+ Kg7 29. Nf5+ Kg6 30. Nh4+ Kg7 31. Nf5+ 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.21"]
+[Round "6.4"]
+[White "Grischuk,A"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2740"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[WhiteFideId "4126025"]
+[BlackFideId "2805677"]
+[EventDate "2013.03.15"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bf1 d5 7. d3 d4 8. e5 Nd5
+9. c4 dxc3 10. bxc3 Rb8 11. Bb2 b5 12. Nbd2 Be7 13. Ne4 O-O 14. Rb1 Nb6 15. Ba1
+Bb7 16. c4 b4 17. Qd2 a5 18. Qf4 Nd7 19. Qg3 Ba8 20. h4 a4 21. h5 h6 22. Qg4 Qc7
+23. Nd6 Ncxe5 24. Nxe5 Nf6 25. Qd1 Bxd6 26. Qxa4 Nxh5 27. Qd1 Nf6 28. Ng4 Nxg4
+29. Qxg4 e5 30. f4 Rbe8 31. Re3 f6 32. Rbe1 Qf7 33. f5 Bc6 34. Rh3 Kh7 35. Bb2
+Ra8 36. Bc1 Rg8 37. Re2 Bf8 38. Rf2 Re8 39. Be2 e4 40. Qh4 exd3 41. Bh5 Re1+ 42.
+Rf1 Rxf1+ 43. Kxf1 Qe7 44. Rxd3 Qe5 45. Qg4 Be8 46. Bg6+ Bxg6 47. fxg6+ Kh8 48.
+Rd7 Bd6 49. Bxh6 Qa1+ 50. Kf2 Qxa2+ 51. Kf1 Qb1+ 52. Kf2 Qc2+ 53. Kg1 Qb1+ 54.
+Kf2 Qb2+ 55. Kf1 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.23"]
+[Round "7.1"]
+[White "Gelfand,B"]
+[Black "Kramnik,V"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2740"]
+[BlackElo "2810"]
+[ECO "E54"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3, Gligoric system with 7...dc"]
+[WhiteFideId "2805677"]
+[BlackFideId "4101588"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 dxc4 7. Bxc4 c5 8. O-O
+cxd4 9. exd4 b6 10. Qe2 Bb7 11. Bg5 Nbd7 12. Rac1 Qb8 13. Rfd1 Rc8 14. Bd3 Bd6
+15. g3 a6 16. Bxf6 Nxf6 17. Ne4 Rxc1 18. Rxc1 Ne8 19. Ned2 Qd8 20. Be4 Rc8 21.
+Qf1 Rxc1 22. Qxc1 Qc8 23. Qc3 Nf6 24. Bxb7 Qxb7 25. Ne5 Nd5 26. Qc6 Qxc6 27.
+Nxc6 Kf8 28. Nc4 Bc7 29. Ne3 Nxe3 30. fxe3 Bd6 31. Ne5 Bxe5 32. dxe5 Ke7 33. Kf2
+Kd7 34. e4 Kc6 35. Ke3 Kc5 36. Kd3 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.23"]
+[Round "7.2"]
+[White "Ivanchuk,V"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2747"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[WhiteFideId "14100010"]
+[BlackFideId "4102142"]
+[EventDate "2013.03.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Ba6 9. g3 g6 10. b3 Bg7 11. Bb2 O-O-O 12. Bg2 Rhe8 13. O-O Bxe5 14. Qxe5 Qxe5
+15. Bxe5 Rxe5 16. cxd5 Bxf1 17. Kxf1 cxd5 18. Nc3 c6 19. Rc1 Kb7 20. Na4 a5 21.
+Bf3 Kc7 22. Nc5 Ree8 23. Rc2 Ra8 24. Rd2 Re7 25. Rd4 Rae8 26. Nd3 g5 27. Ra4 Kb6
+28. Rd4 Kc7 29. Ra4 Kb6 30. Rd4 Kc7 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.23"]
+[Round "7.3"]
+[White "Carlsen,M"]
+[Black "Radjabov,T"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2872"]
+[BlackElo "2793"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[WhiteFideId "1503014"]
+[BlackFideId "13400924"]
+[EventDate "2013.03.15"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. b3 d6 6. O-O Ne7 7. e5 Ng6 8. exd6
+Bxd6 9. Nc3 e5 10. Re1 O-O 11. d3 f5 12. Ba3 Be6 13. Na4 Qe7 14. c4 Rad8 15. Qe2
+Bc8 16. Qe3 f4 17. Qe4 Kh8 18. Rad1 Bg4 19. Rd2 Bxf3 20. Qxf3 Nh4 21. Qe4 f3 22.
+g3 Ng2 23. Nc3 Qe6 24. Re3 Nxe3 25. fxe3 f2+ 26. Rxf2 Rxf2 27. Kxf2 Rf8+ 28. Ke2
+Qh3 29. Qh1 Be7 30. Ne4 Qg4+ 31. Kd2 Qh3 32. Ke2 h5 33. Bb2 Qg4+ 34. Kd2 Qh3 35.
+Ke2 Qg4+ 36. Kd2 Qh3 37. Ke2 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.23"]
+[Round "7.4"]
+[White "Aronian,L"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2764"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[WhiteFideId "13300474"]
+[BlackFideId "4126025"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Bd2
+Bf6 9. Ne5 Nxc3 10. Bxc3 Bxg2 11. Kxg2 c5 12. Nf3 cxd4 13. Bxd4 Be7 14. Qd3 d6
+15. Qc3 e5 16. Be3 Nd7 17. Rfd1 Rc8 18. Rac1 f5 19. b4 Kh8 20. c5 bxc5 21. bxc5
+e4 22. Nd4 Nxc5 23. Nb5 Qb6 24. Qc4 a6 25. Nc3 Qd8 26. Na4 Nxa4 27. Qxa4 Rxc1
+28. Rxc1 a5 29. Qb5 h6 30. Rd1 Bg5 31. Bb6 Qb8 32. a4 f4 33. h4 f3+ 34. exf3
+exf3+ 35. Kh2 Bf6 36. Bxa5 Be5 37. Qxb8 Rxb8 38. h5 Ra8 39. Rd5 Kg8 40. Kh3 Kf7
+41. Kg4 Ke6 42. Rb5 Bd4 43. Bb6 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.24"]
+[Round "8.1"]
+[White "Radjabov,T"]
+[Black "Gelfand,B"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2740"]
+[ECO "A33"]
+[Opening "English"]
+[Variation "symmetrical, Geller variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "2805677"]
+[EventDate "2013.03.15"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g3 Qb6 7. Nb3 Ne5 8. e4
+Bb4 9. Qe2 d6 10. f4 Nc6 11. Be3 Bxc3+ 12. bxc3 Qc7 13. Bg2 e5 14. c5 b6 15.
+cxd6 Qxd6 16. O-O O-O 17. f5 Rd8 18. Rfd1 Qa3 19. Rxd8+ Nxd8 20. Bg5 Ba6 21. Qd2
+Qe7 22. Rd1 Nb7 23. Bf3 Rd8 24. Qc1 Rxd1+ 25. Bxd1 Nd6 26. Bxf6 gxf6 27. Qe3 Qc7
+28. a4 Qd7 29. a5 Nxe4 30. Bc2 Qb5 31. Qf3 Ng5 32. Qg2 bxa5 0-1
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.24"]
+[Round "8.2"]
+[White "Grischuk,A"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2757"]
+[ECO "B35"]
+[Opening "Sicilian"]
+[Variation "accelerated fianchetto, modern variation with Bc4"]
+[WhiteFideId "4126025"]
+[BlackFideId "14100010"]
+[EventDate "2013.03.15"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Bc4 Qa5 8.
+O-O O-O 9. Bb3 d6 10. Nd5 Re8 11. Nxf6+ Bxf6 12. c3 Ne5 13. h3 Qa6 14. Nc2 Nd3
+15. Qf3 Be6 16. Bd4 Bxd4 17. Nxd4 Bc4 18. Rfb1 Ne5 19. Qe3 Bxb3 20. axb3 Qb6 21.
+Ra3 a6 22. Rd1 Rac8 23. Nc2 Qxe3 24. Nxe3 Nd7 25. f3 Kf8 26. Kf2 Rc6 27. g4 e6
+28. h4 Ke7 29. Ra5 Rec8 30. Kg3 h6 31. Rd2 Nc5 32. Ra3 a5 33. Nc2 Ra6 34. Rd1
+Rca8 35. Nd4 Kd7 36. Nb5 e5 37. b4 axb4 38. cxb4 Ne6 39. Nxd6 1-0
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.24"]
+[Round "8.3"]
+[White "Kramnik,V"]
+[Black "Svidler,P"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2747"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "4102142"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Be3 Qa5 9. Qd2 Nc6 10. Rc1 cxd4 11. cxd4 Qxd2+ 12. Kxd2 O-O 13. d5 Rd8 14. Kc2
+Ne5 15. Nxe5 Bxe5 16. Bc4 Bd7 17. f4 Bd6 18. Kb3 f6 19. a4 Rdc8 20. h4 Rab8 21.
+Bb5 Bxb5 22. axb5 a6 23. b6 Kf7 24. h5 Rxc1 25. hxg6+ Kxg6 26. Bxc1 Rg8 27. g4
+h6 28. Rh5 Kf7 29. e5 Bc5 30. e6+ Kf8 31. Rh4 Kg7 32. f5 Rd8 33. Bxh6+ Kg8 34.
+Kc4 Bxb6 35. g5 Bf2 36. Rg4 Kh7 37. gxf6 exf6 38. e7 Rc8+ 39. Kb3 Bc5 40. Rc4 1-0
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.24"]
+[Round "8.4"]
+[White "Carlsen,M"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2872"]
+[BlackElo "2809"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "1503014"]
+[BlackFideId "13300474"]
+[EventDate "2013.03.15"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. d4 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bd2 Bd6 11. a3 Nbd7 12. b4 Ra7 13. Nc3 Qa8 14. Nh4 Bxg2 15.
+Nxg2 c6 16. Rac1 a5 17. Ne4 Nxe4 18. Qxe4 Rc8 19. Nf4 axb4 20. Bxb4 c5 21. Qxa8
+Raxa8 22. dxc5 Bxc5 23. Nd3 Bf8 24. Rxc8 Rxc8 25. Rb1 Ra8 26. Bxf8 Kxf8 27. Rxb5
+Rxa3 28. g4 h6 29. h4 Ra2 30. Kf1 Ra1+ 31. Kg2 Ra2 32. Kf3 Ra3 33. Kg3 Ra2 34.
+e3 Rd2 35. Nf4 g6 36. g5 hxg5 37. hxg5 Ke7 38. e4 Rc2 39. f3 Rc5 40. Rxc5 Nxc5
+41. Ng2 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.25"]
+[Round "9.1"]
+[White "Kramnik,V"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2872"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "4101588"]
+[BlackFideId "1503014"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Ne5 Nc6 8. Bxc6
+bxc6 9. Nxc6 Qe8 10. Nxe7+ Qxe7 11. Qc2 e5 12. Rd1 Rb8 13. Nc3 h6 14. dxe5 Qxe5
+15. Bf4 Qe7 16. Rd4 Be6 17. Rad1 Rb6 18. Qd2 Kh7 19. f3 Rfb8 20. Qe3 Rxb2 21.
+Rxc4 R2b7 22. Ra4 Re8 23. Rxa7 Rxa7 24. Qxa7 Qb4 25. Be5 Nd5 26. Nxd5 Bxd5 27.
+Qxc7 Qc4 28. a3 f6 29. Qxc4 Bxc4 30. Bc3 Rxe2 31. Rd4 Bb5 32. Bb4 Re3 33. Kf2
+Re2+ 34. Kg1 Re3 35. f4 Re2 36. Rd6 Rc2 37. g4 Bc6 38. Bd2 Bf3 39. h3 Ra2 40.
+Bb4 Rg2+ 41. Kf1 Rh2 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.25"]
+[Round "9.2"]
+[White "Svidler,P"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2764"]
+[ECO "E81"]
+[Opening "King's Indian"]
+[Variation "Saemisch, 5...O-O"]
+[WhiteFideId "4102142"]
+[BlackFideId "4126025"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. Nge2 Nc6 8. d5 Ne5
+9. Ng3 h5 10. Be2 h4 11. Nf1 e6 12. f4 Nxc4 13. Bxc4 b5 14. Bxb5 exd5 15. e5
+dxe5 16. fxe5 Bg4 17. exf6 Bxd1 18. fxg7 Kxg7 19. Bxc5 h3 20. Rxd1 hxg2 21. Rg1
+gxf1=Q+ 22. Kxf1 Qh4 23. Rg2 Rfd8 24. Rd4 Qh5 25. Rf4 d4 26. Bxd4+ Rxd4 27. Rxd4
+Rb8 28. a4 a6 29. Bxa6 Qf3+ 30. Rf2 Qh1+ 31. Ke2 Rxb2+ 32. Rd2 Qc1 33. Kd3 Rb6
+34. Bc4 Rd6+ 35. Bd5 Rd7 36. Rf4 f5 37. Rd4 Kh6 38. h4 Rc7 39. Bc4 Qf1+ 40. Re2
+f4 41. Kc2 f3 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.25"]
+[Round "9.3"]
+[White "Ivanchuk,V"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2793"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "14100010"]
+[BlackFideId "13400924"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 Ne4 7. Bxe7 Qxe7 8.
+cxd5 Nxc3 9. bxc3 exd5 10. Qb3 c6 11. e3 O-O 12. Be2 Nd7 13. O-O Nf6 14. Rfc1
+Bg4 15. c4 dxc4 16. Qxc4 Rfe8 17. h3 Be6 18. Qc5 Qc7 19. Rc2 Bd5 20. Rac1 Qd8
+21. Qa3 Ne4 22. Ne5 Nd6 23. Bf3 Bxf3 24. Nxf3 Qd7 25. Qb4 Rad8 26. a4 Qe6 27.
+Ne5 f6 28. Nd3 Qf7 29. Qa5 a6 30. Nc5 Rc8 31. Qb4 Rcd8 32. Qb6 Rc8 33. Rb1 Re7
+34. Nd3 Rce8 35. Qb3 Qxb3 36. Rxb3 Kf7 37. g4 g5 38. Nc5 Rc8 39. Kg2 Rcc7 40.
+Nd3 Kg6 41. Nc5 h5 42. Rb1 Ne4 43. Nxe4 Rxe4 44. Kf3 Ree7 45. e4 Rcd7 46. Ke3
+Rd5 47. f3 Rd6 48. Rb6 Red7 49. Rd2 hxg4 50. hxg4 Kf7 51. a5 Ke7 52. Rb1 Kf7 53.
+Rh1 Kg7 54. Rh5 Rd8 55. Rd1 R8d7 56. e5 Rd5 57. Rdh1 Kf7 58. Rh7+ Ke6 59. Rxd7
+Kxd7 60. Rh7+ Ke6 61. Rh6 c5 62. Rxf6+ Ke7 63. Rb6 Rxd4 64. Rxb7+ Ke6 65. Rg7
+Ra4 66. Rxg5 Rxa5 67. f4 Ra3+ 68. Kd2 Ra2+ 69. Kc3 Rf2 70. Rg6+ Kd5 71. Rd6+ Ke4
+72. Rf6 a5 73. e6 Kd5 74. f5 Re2 75. Rf8 Kd6 76. f6 1-0
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.25"]
+[Round "9.4"]
+[White "Gelfand,B"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2740"]
+[BlackElo "2809"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "2805677"]
+[BlackFideId "13300474"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. Be2 c6 8. O-O
+Nh5 9. Be5 f6 10. Bg3 f5 11. Be5 Nhf6 12. h3 Nxe5 13. Nxe5 Nd7 14. f4 Nxe5 15.
+fxe5 Bg5 16. Qd2 Bd7 17. Rac1 Rc8 18. a3 Kh8 19. b4 Be8 20. Bd3 Rc7 21. Ne2 Bh5
+22. Nf4 Bxf4 23. exf4 Rd7 24. Qe3 dxc4 25. Bxc4 Rxd4 26. Bxe6 Bf7 27. Bxf5 Bc4
+28. e6 Qd6 29. Rfe1 Re8 30. e7 Bf7 31. Rc5 g6 32. Bg4 h5 33. f5 Kg7 34. fxg6
+Bxg6 35. Bxh5 Rd3 36. Qe5+ Qxe5 37. Rcxe5 Bxh5 38. Rxh5 Rxa3 39. Rf5 Rd3 40. Re4
+Rd7 41. Rg4+ Kh6 42. Rf6+ Kh7 43. Rf7+ Kh6 44. Rgg7 Rd1+ 45. Kh2 Rf1 46. Rh7+
+Kg6 47. Rhg7+ Kh6 48. Rh7+ Kg6 49. Rfg7+ Kf6 50. h4 Ke6 51. Rg4 Kf5 52. Kg3 Re1
+53. Rf4+ Ke6 54. h5 Rxe7 55. Rxe7+ Kxe7 56. Kh4 b6 57. h6 Rh1+ 58. Kg5 Ke6 59.
+Kg6 Ke5 60. Rf5+ 1-0
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.27"]
+[Round "10.1"]
+[White "Grischuk,A"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2810"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "4101588"]
+[EventDate "2013.03.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. Nc3 Bd7 10. h3 h6 11. Rd1 Kc8 12. a4 a5 13. b3 b6 14. Bb2 Ne7 15.
+Rd2 c5 16. Ne2 Ng6 17. Rad1 Be6 18. c4 Be7 19. Nc3 Kb7 20. Nd5 Rad8 21. Nxe7
+Rxd2 22. Nxd2 Nxe7 23. Nf1 Kc8 24. f3 g5 25. Ng3 Rd8 26. Rxd8+ Kxd8 27. Kf2 Bf5
+28. Nxf5 Nxf5 29. g4 Nd4 30. Bxd4 cxd4 31. Ke2 Kd7 32. Kd3 c5 33. Ke4 Ke6 34. f4
+gxf4 35. Kxf4 d3 36. Ke3 Kxe5 37. Kxd3 Kf4 38. Ke2 Kg3 39. Ke3 Kxh3 40. Kf4 Kh4
+41. Kf5 Kg3 0-1
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.27"]
+[Round "10.2"]
+[White "Carlsen,M"]
+[Black "Gelfand,B"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2872"]
+[BlackElo "2740"]
+[ECO "B30"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (without ...d6)"]
+[WhiteFideId "1503014"]
+[BlackFideId "2805677"]
+[EventDate "2013.03.15"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bf1 d5 7. exd5 Nxd5 8. d4
+Nf6 9. Be3 cxd4 10. Nxd4 Bd7 11. c4 Nxd4 12. Bxd4 Bc6 13. Nc3 Be7 14. a3 a5 15.
+Qd3 O-O 16. Rad1 Qc7 17. Be5 Qb6 18. Qg3 Rfd8 19. Rxd8+ Qxd8 20. Rd1 Qb6 21. Bd4
+Qb3 22. Rd3 Qc2 23. b4 axb4 24. axb4 Nh5 25. Qe5 Bf6 26. Qxh5 Bxd4 27. Rxd4 Qxc3
+28. Qa5 Rf8 29. Qb6 e5 30. Rd1 g6 31. b5 Be4 32. Qf6 h5 33. h4 Bf5 34. Rd5 Qc1
+35. Qxe5 Be6 36. Rd4 Ra8 37. Qe2 Kh7 38. Rd1 Qc3 39. Qe4 Ra1 40. Rxa1 Qxa1 41.
+c5 Qc3 42. Qxb7 Qe1 43. b6 Bc4 44. Qf3 Qxf1+ 45. Kh2 Qb1 46. b7 Qb5 47. c6 Bd5
+48. Qg3 1-0
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.27"]
+[Round "10.3"]
+[White "Aronian,L"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2757"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "14100010"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Bf4 Bb4+ 6. Nc3 Bxc3+ 7. bxc3 Qe7
+8. Qd5 f6 9. exf6 Nxf6 10. Qd3 d6 11. g3 O-O 12. Bg2 Bg4 13. O-O Rae8 14. Rae1
+Kh8 15. Nd4 Ne5 16. Bxe5 dxe5 17. Nf5 Bxf5 18. Qxf5 Nd7 19. Qe4 c6 20. Rd1 Nb6
+21. Rd3 Qc5 22. Qh4 g6 23. Be4 Kg7 24. Kg2 Qxc4 25. Rfd1 Qxa2 26. g4 Rf4 27. Bf5
+Nd5 28. Rh3 Rh8 29. e3 gxf5 30. exf4 1-0
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.27"]
+[Round "10.4"]
+[White "Radjabov,T"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2747"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "modern exchange variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "4102142"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O Bg4 13. Bg5 h6 14. Be3
+Nc6 15. d5 Na5 16. Re1 b6 17. Nd4 Bd7 18. Ra1 Qb2 19. Rb1 Qa2 20. Ra1 Qb2 21.
+Rb1 Qa2 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.28"]
+[Round "11.1"]
+[White "Svidler,P"]
+[Black "Aronian,L"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2809"]
+[ECO "E26"]
+[Opening "Nimzo-Indian"]
+[Variation "Saemisch variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "13300474"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 c5 6. e3 Qa5 7. Bd2 Ne4 8. Bd3
+Nxd2 9. Qxd2 d6 10. f4 Nd7 11. Nf3 f5 12. e4 fxe4 13. Bxe4 Nf6 14. Bc2 Bd7 15.
+O-O cxd4 16. Qxd4 O-O 17. Qxd6 Qxc3 18. Bd3 Rad8 19. Rac1 Qa5 20. Ne5 Bc8 21.
+Qb4 Qc7 22. c5 g5 23. c6 b5 24. Qe1 Rd5 25. Qg3 h6 26. fxg5 Qxe5 27. Qxe5 Rxe5
+28. gxf6 Kf7 29. Rf4 Rd8 30. Be4 Rd2 31. h4 a5 32. Rc3 Re2 33. Bg6+ Kf8 34. Rd4
+Rd5 35. Rxd5 exd5 36. Rc5 Re1+ 37. Kh2 Rf1 38. f7 b4 39. axb4 axb4 40. Rxd5 Kg7
+41. Rd8 1-0
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.28"]
+[Round "11.2"]
+[White "Ivanchuk,V"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2740"]
+[ECO "D93"]
+[Opening "Gruenfeld with Bf4    e3"]
+[WhiteFideId "14100010"]
+[BlackFideId "2805677"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. e3 c5 7. dxc5 Ne4 8. Rc1
+Nd7 9. cxd5 Qa5 10. Nd4 Nxc3 11. bxc3 Qxa2 12. c6 Nc5 13. Be2 Qxd5 14. Bf3 Qc4
+15. Be2 Qd5 16. Bf3 Qc4 17. Be2 Qd5 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.28"]
+[Round "11.3"]
+[White "Grischuk,A"]
+[Black "Carlsen,M"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2872"]
+[ECO "D90"]
+[Opening "Gruenfeld"]
+[Variation "Three knights variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "1503014"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. h4 c6 6. Bg5 O-O 7. Bxf6 Bxf6 8. h5
+Bf5 9. e3 e6 10. hxg6 Bxg6 11. Bd3 Nd7 12. Qe2 e5 13. Bxg6 hxg6 14. dxe5 Nxe5
+15. cxd5 cxd5 16. Rd1 Qa5 17. Kf1 Rad8 18. Nd4 Qc5 19. Nb3 Qc6 20. Na5 Qc7 21.
+Nb3 Qc6 22. Na5 Qc7 23. Nb3 Qc6 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.28"]
+[Round "11.4"]
+[White "Kramnik,V"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2793"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "4101588"]
+[BlackFideId "13400924"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c5 4. Nf3 Bg7 5. Bg2 cxd4 6. Nxd4 O-O 7. Nc3 Qc7 8. b3
+d5 9. Ndb5 Qa5 10. Bd2 dxc4 11. bxc4 Qd8 12. O-O a6 13. Na3 Bf5 14. Nc2 Nc6 15.
+Ne3 Qd7 16. Nxf5 Qxf5 17. Rb1 Rad8 18. Qc1 Qe6 19. Re1 Qxc4 20. Rxb7 Ne5 21. Bf4
+Qe6 22. h3 Nc4 23. e4 Ne5 24. Bxe5 Qxe5 25. Nd5 Rfe8 26. Nb4 Rd7 27. Nc6 Qe6 28.
+Rb6 Qxa2 29. e5 Nd5 30. Rb2 Qa4 31. Bxd5 Rxd5 32. Rb4 Qa2 33. Nxe7+ Kh8 34. Nxd5
+Qxd5 35. Qc4 Qxc4 36. Rxc4 Bxe5 37. Kf1 1-0
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.29"]
+[Round "12.1"]
+[White "Gelfand,B"]
+[Black "Svidler,P"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2740"]
+[BlackElo "2747"]
+[ECO "A15"]
+[Opening "English opening"]
+[WhiteFideId "2805677"]
+[BlackFideId "4102142"]
+[EventDate "2013.03.15"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qb3 Nb6 6. d4 Be6 7. Qc2 Bg4 8.
+Qe4 Bxf3 9. Qxf3 c6 10. e3 Bg7 11. Be2 e5 12. dxe5 Bxe5 13. Qe4 Qe7 14. Bd2 N8d7
+15. Qc2 O-O 16. O-O Rfe8 17. Rfd1 a5 18. Be1 a4 19. Rab1 Nc5 20. Bf1 Red8 21. g3
+Bg7 22. Rxd8+ Rxd8 23. b4 axb3 24. axb3 Ra8 25. b4 Ncd7 26. Ne4 Ra1 27. Rxa1
+Bxa1 28. Qa2 Be5 29. Bg2 Nf6 30. Nc5 Bd6 31. Nd3 Ne4 32. Qa7 Nd5 33. Qd4 f5 34.
+Qc4 Qe6 35. f3 Ng5 36. Bd2 Nc7 37. Qxe6+ Ngxe6 38. f4 Nd5 39. e4 fxe4 40. Bxe4
+Nd4 41. Kf2 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.29"]
+[Round "12.2"]
+[White "Aronian,L"]
+[Black "Kramnik,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2810"]
+[ECO "D42"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 7.Bd3"]
+[WhiteFideId "13300474"]
+[BlackFideId "4101588"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3 Be7 8. a3
+O-O 9. Qc2 cxd4 10. exd4 f5 11. O-O Bf6 12. Nxd5 Qxd5 13. Be3 b5 14. Qe2 Bb7 15.
+Rac1 a6 16. Rfd1 f4 17. Rc5 Qd6 18. Qc2 fxe3 19. Bxh7+ Kh8 20. fxe3 Ne7 21. e4
+Rac8 22. e5 Bxe5 23. Nxe5 Rxc5 24. Ng6+ Nxg6 25. dxc5 Be4 26. Rxd6 Bxc2 27. Bxg6
+Bxg6 28. Rxe6 Bd3 29. h4 a5 30. c6 Rf1+ 31. Kh2 Rc1 32. Re3 Bb1 33. Rc3 Rxc3 34.
+bxc3 Kg8 35. c7 Bf5 36. Kg3 Kf7 37. Kf4 Bc8 38. Kg5 Bd7 39. h5 Be6 40. g3 a4 41.
+g4 Kf8 42. Kf4 Ke7 43. g5 Kd7 44. Ke5 Bg8 45. c8=Q+ Kxc8 46. Kd6 Kd8 47. Kc6 Ke7
+48. Kxb5 Ke6 49. Kxa4 Kf5 50. g6 Kg5 51. Kb5 Kxh5 52. a4 Kxg6 53. a5 Kf6 54. a6
+Bd5 55. c4 Ba8 56. Kb6 Ke5 57. Kc7 g5 58. Kb8 Be4 59. Kc7 g4 60. a7 g3 61. c5
+Ba8 62. Kb8 Bc6 0-1
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.29"]
+[Round "12.3"]
+[White "Radjabov,T"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2764"]
+[ECO "E35"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.cd ed"]
+[WhiteFideId "13400924"]
+[BlackFideId "4126025"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bxf6 Qxf6 8.
+a3 Bxc3+ 9. Qxc3 O-O 10. e3 Bf5 11. Nf3 Nd7 12. Be2 Rfc8 13. O-O c5 14. b3 Qb6
+15. dxc5 Nxc5 16. b4 Na4 17. Qe5 Nc3 18. Rfe1 Bg4 19. Bd3 Bxf3 20. gxf3 Qe6 21.
+Qd4 Rc6 22. b5 Rc7 23. Kh1 Re8 24. Rg1 Qe5 25. Qxe5 Rxe5 26. Rg4 Kf8 27. a4 Rc5
+28. Rd4 g6 29. h3 Re6 30. Kg2 Kg7 31. Rb4 b6 32. Rd4 f5 33. Kf1 Kf6 34. Ke1 Re7
+35. Kd2 Rc8 36. Ra3 Rec7 37. Ra1 g5 38. Rb4 Rd8 39. Rd4 Rdc8 40. Ra3 h5 41. h4
+g4 42. Rf4 gxf3 43. Bxf5 Ke5 44. Rxc3 Rxc3 45. Bxc8 Rxc8 46. Kd3 Rc1 47. Rxf3
+Rc4 48. Rf7 Rxa4 49. f4+ Ke6 50. Rh7 Ra3+ 51. Kd4 Ra4+ 52. Kd3 Ra3+ 53. Ke2 Ra2+
+54. Kf3 Ra3 55. Rh6+ Ke7 56. Rxh5 d4 57. Re5+ Kf6 58. Re4 dxe3 59. Rxe3 Ra5 60.
+Re5 a6 61. bxa6 Rxa6 62. Rb5 Ra1 63. Rxb6+ Kf5 64. Rb5+ Kf6 65. Kg4 Rg1+ 66. Kh5
+Rh1 67. Ra5 Rh2 68. Ra8 Rh1 69. Rg8 Kf7 70. Rg4 Kf6 71. Rg8 Kf7 72. Rc8 Kf6 73.
+Rc5 Rh2 74. Rg5 Rh1 75. Kg4 Rg1+ 76. Kf3 Rf1+ 77. Kg3 Rg1+ 78. Kf2 Rh1 79. h5
+Rh4 80. Kg3 Rh1 81. Ra5 Rg1+ 82. Kf2 Rh1 83. Kg2 Rh4 84. Kf3 Rh1 85. h6 Rxh6 86.
+Ra6+ Kf5 87. Rxh6 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.29"]
+[Round "12.4"]
+[White "Carlsen,M"]
+[Black "Ivanchuk,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2872"]
+[BlackElo "2757"]
+[ECO "B48"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[WhiteFideId "1503014"]
+[BlackFideId "14100010"]
+[EventDate "2013.03.15"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
+O-O-O Bb4 9. f3 Ne7 10. Nb3 d5 11. e5 Nd7 12. f4 b6 13. Bd4 Nc5 14. a3 Ne4 15.
+Qe1 Nxc3 16. Bxc3 Bxc3 17. Qxc3 Qxc3 18. bxc3 a5 19. Nd4 Ba6 20. Bd3 Kd7 21. Kd2
+Nc6 22. Rb1 Bxd3 23. Kxd3 Rab8 24. Nb5 g5 25. g3 Rhg8 26. c4 gxf4 27. gxf4 Ne7
+28. Rhg1 dxc4+ 29. Kxc4 Nd5 30. Nd6 Kc6 31. Nxf7 Nxf4 32. Kb3 Kc5 33. Ng5 h6 34.
+Ne4+ Kd4 35. Nf6 Rxg1 36. Rxg1 Rc8 37. Re1 Rc3+ 38. Kb2 Rf3 39. Re4+ Kc5 40.
+Nd7+ Kd5 41. Nf6+ Kc5 42. Nd7+ Kc6 43. Nf6 Ng6 44. Rc4+ Kb5 45. Re4 Rf5 46. Ne8
+Kc5 47. Nc7 Nxe5 48. Rh4 Kd6 49. Nb5+ Kd7 50. a4 h5 51. Nd4 Rg5 52. Re4 Nc4+ 53.
+Kc3 Re5 54. Rh4 Nd6 55. Kd3 Rd5 56. c4 Rg5 57. Nf3 Rc5 58. Nd2 Rf5 59. Nb3 Nb7
+60. Rh3 Kd6 61. Kc3 Nc5 62. Nxc5 Kxc5 63. Re3 e5 64. h4 Kd6 65. Rd3+ Ke6 66. Rg3
+Kf6 67. Rd3 Rf4 68. Rd6+ Kf5 69. Rxb6 Rxh4 70. c5 Rxa4 71. Rh6 Ke4 72. Rd6 Rd4
+73. Ra6 Kd5 74. Rxa5 Rc4+ 75. Kd3 Rxc5 76. Ra4 Rc7 77. Rh4 Rh7 78. Ke3 Ke6 79.
+Ke4 Rh8 80. Ke3 Kf5 81. Ke2 Kg5 82. Re4 Re8 83. Ke3 h4 84. Ke2 h3 85. Kf2 h2 86.
+Kg2 h1=Q+ 87. Kxh1 Kf5 88. Re1 Rg8 89. Kh2 Kf4 90. Rf1+ Ke3 0-1
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.31"]
+[Round "13.1"]
+[White "Radjabov,T"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2793"]
+[BlackElo "2872"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "13400924"]
+[BlackFideId "1503014"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d6 5. Nf3 Nbd7 6. g3 O-O 7. Bg2 e5 8. O-O
+c6 9. Rd1 Re8 10. dxe5 dxe5 11. a3 Bxc3 12. Qxc3 Qe7 13. b4 Nb6 14. Be3 Ng4 15.
+Nd2 f5 16. h3 Nxe3 17. Qxe3 e4 18. Rac1 Be6 19. Qc3 Rad8 20. Bf1 c5 21. bxc5 Na4
+22. Qb4 Nxc5 23. Nb3 Rxd1 24. Rxd1 Na6 25. Qxe7 Rxe7 26. e3 Kf7 27. Be2 b6 28.
+Rd8 Nc5 29. Nd4 Kf6 30. Kf1 Rd7 31. Rf8+ Bf7 32. Ke1 g6 33. h4 h6 34. Rc8 Be6
+35. Rf8+ Rf7 36. Rh8 Rc7 37. Nb5 Rd7 38. Nd4 h5 39. Rf8+ Bf7 40. Rc8 Ke5 41. Ra8
+a6 42. Rc8 Rd6 43. Nc6+ Kf6 44. Nd4 Be6 45. Rf8+ Ke7 46. Ra8 Rd7 47. Rb8 Rb7 48.
+Rxb7+ Nxb7 49. Kd2 Kd6 50. Kc3 Bf7 51. Nb3 Ke5 52. Bf1 a5 53. Be2 Be6 54. Bf1
+Bd7 55. Be2 Ba4 56. Nd4 Nc5 57. Kb2 Be8 58. Kc3 Bf7 59. Nc6+ Kd6 60. Nd4 Nd7 61.
+Nb5+ Kc5 62. Nd4 Ne5 63. Nb3+ Kc6 64. a4 Kd7 65. Nd4 Kd6 66. Nb5+ Kc5 67. Nd4
+Be8 68. Nb3+ Kd6 69. c5+ Kc7 70. Kd4 Nc6+ 71. Kc3 Ne7 72. cxb6+ Kxb6 73. Nd2
+Bxa4 74. Nc4+ Ka6 75. Na3+ Kb7 76. Nc4 Ka6 77. Na3+ Ka7 78. Kd4 Nc6+ 79. Kc5 Ne5
+80. Nc4 Nd3+ 81. Kd4 Nc1 82. Bf1 Bb5 83. Nxa5 Bxf1 84. Nc6+ Kb6 85. Ne7 Nd3 86.
+Nxg6 Kc7 87. Ne7 Bh3 88. Nd5+ Kd6 89. Nf6 Bg4 0-1
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.31"]
+[Round "13.2"]
+[White "Grischuk,A"]
+[Black "Aronian,L"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2764"]
+[BlackElo "2809"]
+[ECO "D11"]
+[Opening "QGD Slav"]
+[Variation "3.Nf3"]
+[WhiteFideId "4126025"]
+[BlackFideId "13300474"]
+[EventDate "2013.03.15"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. g3 dxc4 5. Bg2 Nbd7 6. Qc2 Nb6 7. Nbd2 g6 8. O-O
+Bg7 9. Nxc4 Bf5 10. Qc3 Nxc4 11. Qxc4 O-O 12. Rd1 a5 13. Qb3 Qd6 14. Ne5 Nd7 15.
+Nc4 Qb4 16. Ne3 Qxb3 17. axb3 Be6 18. d5 cxd5 19. Nxd5 Nc5 20. Ra3 Bxd5 21. Rxd5
+Rac8 22. Bg5 e6 23. Rd6 Bxb2 24. Rxa5 Bc1 25. Bf6 Nxb3 26. Rb5 Nd2 27. Rd3 b6
+28. e3 Nc4 29. Bf1 Ba3 30. Rd1 Rfe8 31. Rd7 Bf8 32. Bxc4 Rxc4 33. Rxb6 Bg7 34.
+Be7 Rcc8 35. Kg2 Rb8 36. Rc6 Rbc8 37. Rb6 Rb8 38. Rc6 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.31"]
+[Round "13.3"]
+[White "Kramnik,V"]
+[Black "Gelfand,B"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2810"]
+[BlackElo "2740"]
+[ECO "E60"]
+[Opening "King's Indian"]
+[Variation "3.g3"]
+[WhiteFideId "4101588"]
+[BlackFideId "2805677"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. e3 dxc4 6. Ne2 Bg7 7. O-O O-O 8. Na3
+Nbd7 9. Nxc4 Nb6 10. Na5 Qc7 11. b4 e5 12. dxe5 Qxe5 13. Nd4 Ne4 14. Qc2 Re8 15.
+Ba3 Qe7 16. Rad1 h5 17. Rd3 Nd5 18. Rfd1 Bg4 19. Rc1 Bxd4 20. Rxd4 Ng5 21. Qd3
+Nf3+ 22. Bxf3 Bxf3 23. b5 Qe6 24. Nxb7 cxb5 25. Nd6 Qh3 26. Qf1 Qxf1+ 27. Kxf1
+Re6 28. Nxb5 Rb8 29. Nd6 Nf6 30. Rf4 Bd5 31. Rc2 Ne4 32. Nxf7 Ra6 33. Bc1 Re8
+34. Rc7 Rxa2 35. Nh6+ Kh8 36. Nf7+ Kg8 37. f3 Bxf7 38. Rfxf7 Rd8 39. Rg7+ Kf8
+40. Rgf7+ Kg8 41. Ke1 Nc5 42. Rg7+ Kf8 43. Rgf7+ Kg8 44. Rg7+ Kf8 45. Rh7 Nd3+
+46. Kf1 Kg8 47. Rcg7+ Kf8 48. Rf7+ Kg8 49. Rfg7+ Kf8 50. Rb7 Kg8 51. Rhg7+ Kf8
+52. Rgc7 Nxc1 53. Rxc1 Rxh2 54. Kg1 Re2 55. e4 a5 56. Ra7 a4 57. Rb1 a3 58. Rxa3
+Rdd2 59. Ra7 Rg2+ 1/2-1/2
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.03.31"]
+[Round "13.4"]
+[White "Svidler,P"]
+[Black "Ivanchuk,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2747"]
+[BlackElo "2757"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Euwe variation"]
+[WhiteFideId "4102142"]
+[BlackFideId "14100010"]
+[EventDate "2013.03.15"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 Nge7 7. O-O Ng6 8. g3
+cxd4 9. cxd4 f6 10. exf6 Qxf6 11. Bg5 Qf7 12. Be3 h6 13. Nc3 Bd6 14. Nb5 Bb8 15.
+Ne5 Ngxe5 16. dxe5 Nxe5 17. Bc5 Nc4 18. b3 b6 19. Bb4 a5 20. Bc3 Bxb5 21. Bh5 g6
+22. Bxh8 gxh5 23. Re1 Qf5 24. bxc4 Bxc4 25. Qd4 Bc7 26. Be5 O-O-O 27. Rac1 Rd7
+28. a4 Qg4 29. Qe3 h4 30. Qxh6 hxg3 31. hxg3 Bd8 32. Bf4 Re7 33. Bg5 Kd7 34.
+Bxe7 Bxe7 35. Kg2 Bc5 36. f3 Qf5 37. Qg7+ 1-0
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.04.01"]
+[Round "14.1"]
+[White "Aronian,L"]
+[Black "Radjabov,T"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2793"]
+[ECO "E71"]
+[Opening "King's Indian"]
+[Variation "Makagonov system (5.h3)"]
+[WhiteFideId "13300474"]
+[BlackFideId "13400924"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Bg5 a6 7. Nf3 c5 8. dxc5 Qa5
+9. Bd3 dxc5 10. O-O Nc6 11. Nd5 Be6 12. Qb3 b5 13. Rac1 bxc4 14. Bxc4 Nxe4 15.
+Qb7 Rac8 16. Bxe7 Bxd5 17. Bxf8 Rb8 18. Qxb8 Nxb8 19. Bxd5 Kxf8 20. Bxe4 Nd7 21.
+b3 Qxa2 22. Rcd1 Ne5 23. Rd8+ Ke7 24. Rb8 Nxf3+ 25. Bxf3 Bd4 26. g3 a5 27. Re1+
+Kf6 28. Re2 Qb1+ 29. Kg2 a4 30. Rb7 a3 31. Bd5 a2 32. Rxf7+ Kg5 33. h4+ Kh6 34.
+Ree7 g5 35. Be4 1-0
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.04.01"]
+[Round "14.2"]
+[White "Carlsen,M"]
+[Black "Svidler,P"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2872"]
+[BlackElo "2747"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "1503014"]
+[BlackFideId "4102142"]
+[EventDate "2013.03.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3 O-O
+9. Nc3 Bb7 10. Bd2 Qd7 11. a4 Nd8 12. axb5 axb5 13. Rxa8 Bxa8 14. Ne2 Ne6 15.
+Ng3 c5 16. Nf5 Bd8 17. c4 bxc4 18. Bxc4 Bc7 19. Re1 Re8 20. Qc1 Nh5 21. g3 g6
+22. Nh6+ Kg7 23. Ng5 Nxg5 24. Bxg5 d5 25. exd5 Bxd5 26. Ng4 Bf3 27. Bf6+ Kg8 28.
+Nh6+ Kf8 29. Qe3 Bb7 30. Bh4 Qh3 31. f3 Nf4 32. gxf4 Qxh4 33. Nxf7 Bxf3 34. Qf2
+Qg4+ 35. Qg3 exf4 36. Rxe8+ Kxe8 37. Qxg4 Bxg4 38. Ng5 h6 39. Nf7 h5 40. Nh6 Bd1
+41. Kf2 f3 42. h3 Bf4 43. Nf7 g5 44. Ke1 g4 45. hxg4 hxg4 46. Kxd1 g3 47. Ke1 g2
+48. Kf2 Bh2 0-1
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.04.01"]
+[Round "14.3"]
+[White "Ivanchuk,V"]
+[Black "Kramnik,V"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2757"]
+[BlackElo "2810"]
+[ECO "B08"]
+[Opening "Pirc"]
+[Variation "classical system, 5.Be2"]
+[WhiteFideId "14100010"]
+[BlackFideId "4101588"]
+[EventDate "2013.03.15"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O a6 7. h3 Nc6 8. Bg5 b5
+9. a3 h6 10. Be3 e5 11. dxe5 dxe5 12. Qc1 Kh7 13. Bc5 Re8 14. Rd1 Bd7 15. b4 Qc8
+16. Qe3 Nd8 17. a4 bxa4 18. Nxa4 Ne6 19. Bc4 Nh5 20. Nc3 Nhf4 21. Nd5 Bb5 22.
+Bb3 Bc6 23. Ra5 Qb7 24. g3 Nxh3+ 25. Kg2 Nhg5 26. Rh1 Kg8 27. Nxg5 Nxg5 28. f3
+Bxd5 29. Bxd5 c6 30. Bc4 Qc8 31. Qb3 h5 32. Be3 Ne6 33. Rha1 h4 34. gxh4 Qd8 35.
+Rxa6 Rc8 36. Rh1 Rc7 37. Bxe6 Rxe6 38. b5 Rb7 39. b6 c5 40. Rb1 Bf8 41. Qd5 Qb8
+42. Rba1 Rd6 43. Ra8 Rxd5 44. Rxb8 Rxb8 45. exd5 Bd6 46. Ra6 Rb7 47. Kf1 1-0
+
+[Event "FIDE Candidates"]
+[Site "London ENG"]
+[Date "2013.04.01"]
+[Round "14.4"]
+[White "Gelfand,B"]
+[Black "Grischuk,A"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2740"]
+[BlackElo "2764"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "2805677"]
+[BlackFideId "4126025"]
+[EventDate "2013.03.15"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nxc3 7. Bxc3 c5 8. d5
+Bxc3+ 9. bxc3 O-O 10. Qd2 e6 11. Bc4 exd5 12. Bxd5 Nc6 13. Nf3 Qf6 14. O-O Bg4
+15. Qe3 Bxf3 16. gxf3 Rae8 17. Kh1 b5 18. Rad1 b4 19. f4 Ne7 20. c4 Qa6 21. Qxc5
+Nxd5 22. exd5 Qa3 23. d6 Qf3+ 24. Kg1 Qg4+ 25. Kh1 Qf3+ 26. Kg1 Qg4+ 27. Kh1
+Qf3+ 1/2-1/2
