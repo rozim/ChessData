@@ -1,4 +1,4 @@
-﻿[Event "BCF-ch 42nd"]
+[Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
 [Date "1954.08.22"]
 [Round "1"]
@@ -6,20 +6,19 @@
 [Black "Green, Arnold Yorvath"]
 [Result "1-0"]
 [ECO "C30"]
-[PlyCount "81"]
 [EventDate "1955.08.22"]
+[PlyCount "81"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nc3 Nc6 5. f4 d6 6. Nf3 O-O 7. f5 Na5 8. Bg5
-c6 9. Qe2 b5 10. Bb3 Re8 11. g4 Bb7 12. Qg2 Nxb3 13. axb3 d5 14. h4 Qd6 15.
-Bxf6 gxf6 16. g5 Kh8 17. Qg4 Rg8 18. Qh5 Rg7 19. Qh6 fxg5 20. Qxd6 Bxd6 21. f6
-Rg6 22. hxg5 b4 23. Ne2 Kg8 24. Ng3 c5 25. O-O-O Rd8 26. Rh4 Kf8 27. Rxh7 Rg8
-28. Nf5 dxe4 29. Nh6 exf3 30. Rxf7+ Ke8 31. Rxb7 Rxg5 32. Nf7 Rf5 33. Nxd8 Kxd8
-34. Rxa7 Rxf6 35. Rf1 Bf8 36. Kd2 Bh6+ 37. Ke1 Ke8 38. Kf2 Kf8 39. Rc7 Bg5 40.
-Rxc5 Bh4+ 41. Ke3 {Source: The Times, 25 Aug 1955; Glasgow Herald, 30 Sept 1955
-} 1-0
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nc3 Nc6 5. f4 d6 6. Nf3 O-O 7. f5 Na5 8.
+Bg5 c6 9. Qe2 b5 10. Bb3 Re8 11. g4 Bb7 12. Qg2 Nxb3 13. axb3 d5 14. h4 Qd6
+15. Bxf6 gxf6 16. g5 Kh8 17. Qg4 Rg8 18. Qh5 Rg7 19. Qh6 fxg5 20. Qxd6 Bxd6
+21. f6 Rg6 22. hxg5 b4 23. Ne2 Kg8 24. Ng3 c5 25. O-O-O Rd8 26. Rh4 Kf8 27.
+Rxh7 Rg8 28. Nf5 dxe4 29. Nh6 exf3 30. Rxf7+ Ke8 31. Rxb7 Rxg5 32. Nf7 Rf5
+33. Nxd8 Kxd8 34. Rxa7 Rxf6 35. Rf1 Bf8 36. Kd2 Bh6+ 37. Ke1 Ke8 38. Kf2
+Kf8 39. Rc7 Bg5 40. Rxc5 Bh4+ 41. Ke3 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -29,19 +28,19 @@ Rxc5 Bh4+ 41. Ke3 {Source: The Times, 25 Aug 1955; Glasgow Herald, 30 Sept 1955
 [Black "Soesan, Joseph Maurice"]
 [Result "1-0"]
 [ECO "A10"]
-[PlyCount "81"]
 [EventDate "1955.08.22"]
+[PlyCount "81"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. Nf3 e6 2. c4 f5 3. Nc3 Nf6 4. b3 Be7 5. Bb2 O-O 6. Qc2 b6 7. e4 fxe4 8. Nxe4
-Bb7 9. Neg5 g6 10. h4 Nh5 11. Ne5 Qe8 12. O-O-O Bf6 13. Ng4 Kg7 14. Nxf6 Nxf6
-15. h5 h6 16. Ne4 Bxe4 17. Qxe4 Nc6 18. Bd3 e5 19. Qh4 g5 20. Qh3 Qe6 21. Bf5
-Qd6 22. Bb1 Qe6 23. Qd3 Qf7 24. Rde1 d6 25. g3 Nb4 26. Qf5 Kh8 27. f4 gxf4 28.
-gxf4 Nd7 29. Qxf7 Rxf7 30. fxe5 dxe5 31. d4 exd4 32. Bxd4+ Kg8 33. Bc3 a5 34.
-Re6 Rf2 35. Rxh6 Kf7 36. Rh7+ Ke6 37. Re1+ Kd6 38. Rd1+ Ke6 39. Rhxd7 Nxa2+ 40.
-Bxa2 Rxa2 41. Rxc7 {Source: bulletin} 1-0
+1. Nf3 e6 2. c4 f5 3. Nc3 Nf6 4. b3 Be7 5. Bb2 O-O 6. Qc2 b6 7. e4 fxe4 8.
+Nxe4 Bb7 9. Neg5 g6 10. h4 Nh5 11. Ne5 Qe8 12. O-O-O Bf6 13. Ng4 Kg7 14.
+Nxf6 Nxf6 15. h5 h6 16. Ne4 Bxe4 17. Qxe4 Nc6 18. Bd3 e5 19. Qh4 g5 20. Qh3
+Qe6 21. Bf5 Qd6 22. Bb1 Qe6 23. Qd3 Qf7 24. Rde1 d6 25. g3 Nb4 26. Qf5 Kh8
+27. f4 gxf4 28. gxf4 Nd7 29. Qxf7 Rxf7 30. fxe5 dxe5 31. d4 exd4 32. Bxd4+
+Kg8 33. Bc3 a5 34. Re6 Rf2 35. Rxh6 Kf7 36. Rh7+ Ke6 37. Re1+ Kd6 38. Rd1+
+Ke6 39. Rhxd7 Nxa2+ 40. Bxa2 Rxa2 41. Rxc7 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -51,21 +50,21 @@ Bxa2 Rxa2 41. Rxc7 {Source: bulletin} 1-0
 [Black "Penrose, Jonathan"]
 [Result "0-1"]
 [ECO "B04"]
-[PlyCount "104"]
 [EventDate "1955.08.22"]
+[PlyCount "104"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nc6 5. c4 Nb6 6. exd6 exd6 7. Be2 Be7 8.
-O-O O-O 9. a3 a5 10. Nc3 Bg4 11. b3 Bf6 12. Be3 d5 13. c5 Nc8 14. h3 Bh5 15.
-Kh2 Re8 16. Qd2 Bg6 17. g4 Qd7 18. g5 Bd8 19. Nh4 N6e7 20. Bg4 Nf5 21. Nf3 c6
-22. Ne5 Bc7 23. Bf4 Qd8 24. Rae1 Nce7 25. Re2 f6 26. gxf6 gxf6 27. Nxg6 hxg6
-28. Rfe1 Qb8 29. Bxc7 Qxc7+ 30. Kg1 Kf7 31. Nd1 Ng7 32. Qh6 Ng8 33. Qh7 Rxe2
-34. Rxe2 f5 35. Ne3 Qf4 36. Nxf5 gxf5 37. Bh5+ Kf8 38. Qg6 Nxh5 39. Qxh5 Qh6
-40. Qxf5+ Qf6 41. Qh5 Qf7 42. Qh4 Re8 43. Rxe8+ Kxe8 44. Qg3 Kf8 45. Qb8+ Kg7
-46. Qd8 Nf6 47. f3 Qg6+ 48. Kf2 Qc2+ 49. Kg3 Kg6 50. h4 Qd3 51. Qxa5 Qe2 52.
-Qc3 Nh5+ {Source: bulletin} 0-1
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nc6 5. c4 Nb6 6. exd6 exd6 7. Be2 Be7
+8. O-O O-O 9. a3 a5 10. Nc3 Bg4 11. b3 Bf6 12. Be3 d5 13. c5 Nc8 14. h3 Bh5
+15. Kh2 Re8 16. Qd2 Bg6 17. g4 Qd7 18. g5 Bd8 19. Nh4 N6e7 20. Bg4 Nf5 21.
+Nf3 c6 22. Ne5 Bc7 23. Bf4 Qd8 24. Rae1 Nce7 25. Re2 f6 26. gxf6 gxf6 27.
+Nxg6 hxg6 28. Rfe1 Qb8 29. Bxc7 Qxc7+ 30. Kg1 Kf7 31. Nd1 Ng7 32. Qh6 Ng8
+33. Qh7 Rxe2 34. Rxe2 f5 35. Ne3 Qf4 36. Nxf5 gxf5 37. Bh5+ Kf8 38. Qg6
+Nxh5 39. Qxh5 Qh6 40. Qxf5+ Qf6 41. Qh5 Qf7 42. Qh4 Re8 43. Rxe8+ Kxe8 44.
+Qg3 Kf8 45. Qb8+ Kg7 46. Qd8 Nf6 47. f3 Qg6+ 48. Kf2 Qc2+ 49. Kg3 Kg6 50.
+h4 Qd3 51. Qxa5 Qe2 52. Qc3 Nh5+ 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -75,18 +74,17 @@ Qc3 Nh5+ {Source: bulletin} 0-1
 [Black "Griffiths, Arthur S"]
 [Result "1-0"]
 [ECO "D06"]
-[PlyCount "61"]
 [EventDate "1955.08.22"]
+[PlyCount "61"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 d5 3. cxd5 Nxd5 4. e4 Nf6 5. Nc3 c6 6. Bc4 e6 7. Nf3 Be7 8. O-O
-O-O 9. Qc2 b6 10. Rd1 Bb7 11. Bg5 Nbd7 12. Rd2 Rc8 13. Rad1 Ne8 14. Bf4 Ndf6
-15. Qb3 b5 16. Bxe6 fxe6 17. Qxe6+ Kh8 18. Ng5 Nxe4 19. Ncxe4 Rxf4 20. Nf7+
-Rxf7 21. Qxf7 Rc7 22. Nc5 Bc8 23. Re2 Nd6 24. Qf3 h6 25. Ne6 Bxe6 26. Rxe6 Bf6
-27. Rde1 Qd7 28. a4 Rc8 29. Rxf6 gxf6 30. Qxf6+ Kg8 31. Re7 {Source: bulletin;
-(moves 15-end) BCM, Oct 1955, p290} 1-0
+1. d4 Nf6 2. c4 d5 3. cxd5 Nxd5 4. e4 Nf6 5. Nc3 c6 6. Bc4 e6 7. Nf3 Be7 8.
+O-O O-O 9. Qc2 b6 10. Rd1 Bb7 11. Bg5 Nbd7 12. Rd2 Rc8 13. Rad1 Ne8 14. Bf4
+Ndf6 15. Qb3 b5 16. Bxe6 fxe6 17. Qxe6+ Kh8 18. Ng5 Nxe4 19. Ncxe4 Rxf4 20.
+Nf7+ Rxf7 21. Qxf7 Rc7 22. Nc5 Bc8 23. Re2 Nd6 24. Qf3 h6 25. Ne6 Bxe6 26.
+Rxe6 Bf6 27. Rde1 Qd7 28. a4 Rc8 29. Rxf6 gxf6 30. Qxf6+ Kg8 31. Re7 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -96,19 +94,17 @@ Rxf7 21. Qxf7 Rc7 22. Nc5 Bc8 23. Re2 Nd6 24. Qf3 h6 25. Ne6 Bxe6 26. Rxe6 Bf6
 [Black "Phillips, Alan"]
 [Result "0-1"]
 [ECO "E67"]
-[PlyCount "56"]
 [EventDate "1955.08.22"]
+[PlyCount "56"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. Nc3 Bg7 5. g3 O-O 6. Bg2 Nbd7 7. O-O e5 8. Qc2
-Re8 9. Rd1 c6 10. b4 e4 11. Ne1 d5 12. cxd5 cxd5 13. Nb5 Re6 14. Bf4 Rc6 15.
-Qb3 Nb6 16. a4 Nh5 17. Bc1 Be6 18. a5 Nc4 19. Na3 Rac8 20. Nec2 Nxa3 21. Nxa3
-Bxd4 22. Bb2 Bxb2 23. Qxb2 Qe8 24. e3 Ng7 25. Kf1 Qe7 26. Nb5 Rc2 27. Qb1 Qf6
-28. f4 Rb2 {Source: bulletin; Phillips Book 2003, where White is referred to
-as 'M Spasojevic' which was his birth name before coming to live in England.}
-0-1
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. Nc3 Bg7 5. g3 O-O 6. Bg2 Nbd7 7. O-O e5 8.
+Qc2 Re8 9. Rd1 c6 10. b4 e4 11. Ne1 d5 12. cxd5 cxd5 13. Nb5 Re6 14. Bf4
+Rc6 15. Qb3 Nb6 16. a4 Nh5 17. Bc1 Be6 18. a5 Nc4 19. Na3 Rac8 20. Nec2
+Nxa3 21. Nxa3 Bxd4 22. Bb2 Bxb2 23. Qxb2 Qe8 24. e3 Ng7 25. Kf1 Qe7 26. Nb5
+Rc2 27. Qb1 Qf6 28. f4 Rb2 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -118,18 +114,18 @@ as 'M Spasojevic' which was his birth name before coming to live in England.}
 [Black "Golombek, Harry"]
 [Result "1/2-1/2"]
 [ECO "E43"]
-[PlyCount "71"]
 [EventDate "1955.08.22"]
+[PlyCount "71"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. f3 c5 7. Nge2 cxd4 8. exd4
-O-O 9. O-O d5 10. cxd5 Nxd5 11. Nxd5 Bxd5 12. Bf4 Nc6 13. Rc1 Bd6 14. Bb1 Bxf4
-15. Nxf4 Rc8 16. Qd3 g6 17. Rfd1 Qd6 18. Qe3 Ne7 19. Ne2 Bc4 20. Ng3 Nd5 21.
-Qh6 Qf4 22. Qxf4 Nxf4 23. Kf2 Rfd8 24. Ne4 Kf8 25. g3 Nd5 26. Nd2 Bb5 27. a3
-Ba4 28. Re1 Ne7 29. Ke3 Bc6 30. Be4 Bd5 31. Kd3 Rc6 32. Bxd5 Rxd5 33. Rxc6 Nxc6
-34. Nb3 Ke7 35. Kc3 Kd6 36. Rd1 {Source: Peter Parr; bulletin} 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. f3 c5 7. Ne2 cxd4 8.
+exd4 O-O 9. O-O d5 10. cxd5 Nxd5 11. Nxd5 Bxd5 12. Bf4 Nc6 13. Rc1 Bd6 14.
+Bb1 Bxf4 15. Nxf4 Rc8 16. Qd3 g6 17. Rfd1 Qd6 18. Qe3 Ne7 19. Ne2 Bc4 20.
+Ng3 Nd5 21. Qh6 Qf4 22. Qxf4 Nxf4 23. Kf2 Rfd8 24. Ne4 Kf8 25. g3 Nd5 26.
+Nd2 Bb5 27. a3 Ba4 28. Re1 Ne7 29. Ke3 Bc6 30. Be4 Bd5 31. Kd3 Rc6 32. Bxd5
+Rxd5 33. Rxc6 Nxc6 34. Nb3 Ke7 35. Kc3 Kd6 36. Rd1 1/2-1/2
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -139,22 +135,22 @@ Ba4 28. Re1 Ne7 29. Ke3 Bc6 30. Be4 Bd5 31. Kd3 Rc6 32. Bxd5 Rxd5 33. Rxc6 Nxc6
 [Black "Barden, Leonard William"]
 [Result "1-0"]
 [ECO "A60"]
-[PlyCount "111"]
 [EventDate "1955.08.22"]
+[PlyCount "111"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. Nxd5 Nxd5 6. Qxd5 d6 7. Nf3 Nc6 8.
-Bg5 Qb6 9. Qd2 Bf5 10. Nh4 Be6 11. e4 Ne5 12. b3 Qc6 13. Qc2 h6 14. Bd2 Be7 15.
-Nf3 O-O 16. Bc3 Nxf3+ 17. gxf3 f5 18. Rg1 Bf6 19. O-O-O fxe4 20. fxe4 Be5 21.
-Bd3 Qe8 22. Bxe5 dxe5 23. Rg3 Qh5 24. Rdg1 Rf7 25. Qb2 Kh8 26. Be2 Qh4 27. Qxe5
-Qf4+ 28. Qxf4 Rxf4 29. Rxg7 Rg8 30. Rxg8+ Bxg8 31. f3 Rh4 32. Rg2 Bf7 33. Kd2
-Rf4 34. Ke3 Rf6 35. e5 Ra6 36. Bd3 Ra3 37. Ke4 a5 38. f4 Be8 39. Rb2 a4 40. f5
-axb3 41. axb3 Bc6+ 42. Kf4 Kg7 43. Be4 Ra1 44. f6+ Kf7 45. Bd5+ Bxd5 46. cxd5
-Rf1+ 47. Ke3 Rf5 48. Ke4 Rf1 49. Re2 b5 50. Re3 Rh1 51. h3 Rd1 52. Rd3 Re1+ 53.
-Kf4 Rf1+ 54. Kg3 c4 55. bxc4 bxc4 56. Rf3 {Source: bulletin; (moves 23-29) BCM,
-Oct 1955, p290} 1-0
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. Nxd5 Nxd5 6. Qxd5 d6 7. Nf3 Nc6
+8. Bg5 Qb6 9. Qd2 Bf5 10. Nh4 Be6 11. e4 Ne5 12. b3 Qc6 13. Qc2 h6 14. Bd2
+Be7 15. Nf3 O-O 16. Bc3 Nxf3+ 17. gxf3 f5 18. Rg1 Bf6 19. O-O-O fxe4 20.
+fxe4 Be5 21. Bd3 Qe8 22. Bxe5 dxe5 23. Rg3 Qh5 24. Rdg1 Rf7 25. Qb2 Kh8 26.
+Be2 Qh4 27. Qxe5 Qf4+ 28. Qxf4 Rxf4 29. Rxg7 Rg8 30. Rxg8+ Bxg8 31. f3 Rh4
+32. Rg2 Bf7 33. Kd2 Rf4 34. Ke3 Rf6 35. e5 Ra6 36. Bd3 Ra3 37. Ke4 a5 38.
+f4 Be8 39. Rb2 a4 40. f5 axb3 41. axb3 Bc6+ 42. Kf4 Kg7 43. Be4 Ra1 44. f6+
+Kf7 45. Bd5+ Bxd5 46. cxd5 Rf1+ 47. Ke3 Rf5 48. Ke4 Rf1 49. Re2 b5 50. Re3
+Rh1 51. h3 Rd1 52. Rd3 Re1+ 53. Kf4 Rf1+ 54. Kg3 c4 55. bxc4 bxc4 56. Rf3
+1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -164,18 +160,17 @@ Oct 1955, p290} 1-0
 [Black "Wheatcroft, George Shorrock A"]
 [Result "1-0"]
 [ECO "B33"]
-[PlyCount "59"]
 [EventDate "1955.08.22"]
+[PlyCount "59"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Ndb5 d6 7. Bf4 e5 8.
-Bg5 a6 9. Na3 b5 10. Bxf6 gxf6 11. Nd5 Be6 12. c3 f5 13. exf5 Bxf5 14. Qf3 Bd7
-15. Nf6+ Ke7 16. Nd5+ Ke8 17. Bd3 Bg7 18. O-O Rc8 19. Nc2 Be6 20. Nce3 Ne7 21.
-Nxe7 Kxe7 22. Be4 Bh6 23. Nd5+ Kf8 24. a4 Qg5 25. axb5 axb5 26. Ra7 Kg7 27. Nc7
-Bc4 28. Bd5 Bxd5 29. Qxd5 Qd2 30. Ne8+ {Sources: bulletin; BCM, Nov 1955, p343}
-1-0
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Ndb5 d6 7. Bf4 e5
+8. Bg5 a6 9. Na3 b5 10. Bxf6 gxf6 11. Nd5 Be6 12. c3 f5 13. exf5 Bxf5 14.
+Qf3 Bd7 15. Nf6+ Ke7 16. Nd5+ Ke8 17. Bd3 Bg7 18. O-O Rc8 19. Nc2 Be6 20.
+Nce3 Ne7 21. Nxe7 Kxe7 22. Be4 Bh6 23. Nd5+ Kf8 24. a4 Qg5 25. axb5 axb5
+26. Ra7 Kg7 27. Nc7 Bc4 28. Bd5 Bxd5 29. Qxd5 Qd2 30. Ne8+ 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -185,19 +180,19 @@ Bc4 28. Bd5 Bxd5 29. Qxd5 Qd2 30. Ne8+ {Sources: bulletin; BCM, Nov 1955, p343}
 [Black "Davey, Stanley Clifford"]
 [Result "1-0"]
 [ECO "E85"]
-[PlyCount "77"]
 [EventDate "1955.08.22"]
+[PlyCount "77"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 Nbd7 8. Qd2
-Re8 9. O-O-O c6 10. g4 Qa5 11. Ng3 Nb6 12. h4 Na4 13. Nxa4 Qxa4 14. Kb1 Nd7 15.
-Be2 c5 16. dxc5 dxc5 17. h5 Qc6 18. hxg6 fxg6 19. Bh6 Nf8 20. Bxg7 Kxg7 21.
-Qh6+ Kg8 22. Rd5 Qc7 23. Qg5 Kf7 24. Rh6 b6 25. Nf5 Bxf5 26. gxf5 Qe7 27. fxg6+
-hxg6 28. Qg1 Kg7 29. Qh1 Qg5 30. Rh4 Qf6 31. Rh8 Qf4 32. Bd1 Ne6 33. Rh4 Qg5
-34. Rd7+ Kf6 35. Rhh7 Rf8 36. Ba4 Rad8 37. a3 Nd4 38. Rxa7 Qd2 39. Qh4+ {
-Source: bulletin; (moves 25-end) BCM, Oct 1955, p291} 1-0
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. Nge2 Nbd7 8.
+Qd2 Re8 9. O-O-O c6 10. g4 Qa5 11. Ng3 Nb6 12. h4 Na4 13. Nxa4 Qxa4 14. Kb1
+Nd7 15. Be2 c5 16. dxc5 dxc5 17. h5 Qc6 18. hxg6 fxg6 19. Bh6 Nf8 20. Bxg7
+Kxg7 21. Qh6+ Kg8 22. Rd5 Qc7 23. Qg5 Kf7 24. Rh6 b6 25. Nf5 Bxf5 26. gxf5
+Qe7 27. fxg6+ hxg6 28. Qg1 Kg7 29. Qh1 Qg5 30. Rh4 Qf6 31. Rh8 Qf4 32. Bd1
+Ne6 33. Rh4 Qg5 34. Rd7+ Kf6 35. Rhh7 Rf8 36. Ba4 Rad8 37. a3 Nd4 38. Rxa7
+Qd2 39. Qh4+ 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -207,19 +202,19 @@ Source: bulletin; (moves 25-end) BCM, Oct 1955, p291} 1-0
 [Black "Moore, BJ."]
 [Result "0-1"]
 [ECO "D80"]
-[PlyCount "76"]
 [EventDate "1955.08.22"]
+[PlyCount "76"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Nxe4 dxe4 6. Qd2 Bg7 7. e3 c5 8. Rd1
-O-O 9. Ne2 Nc6 10. d5 Ne5 11. Nc3 Bg4 12. Rc1 f5 13. h3 Bh5 14. Rg1 Qd7 15. Rc2
-Nf7 16. Bh4 g5 17. Bg3 Rad8 18. h4 h6 19. Rh1 Bg6 20. Be2 Ne5 21. hxg5 hxg5 22.
-Kd1 Kf7 23. Kc1 Rh8 24. Rf1 Nd3+ 25. Kb1 Nb4 26. Bd1 Nxc2 27. Bxc2 Kg8 28. a3
-a6 29. f3 exf3 30. Rxf3 b5 31. d6 e5 32. cxb5 axb5 33. Qd5+ Bf7 34. Qxc5 Rh1+
-35. Nd1 Qxd6 36. Qxd6 Rxd6 37. Rxf5 Rdxd1+ 38. Bxd1 Bb3 {time - Source:
-bulletin; (moves 18-end) BCM, Oct 1955, p291} 0-1
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Nxe4 dxe4 6. Qd2 Bg7 7. e3 c5 8.
+Rd1 O-O 9. Ne2 Nc6 10. d5 Ne5 11. Nc3 Bg4 12. Rc1 f5 13. h3 Bh5 14. Rg1 Qd7
+15. Rc2 Nf7 16. Bh4 g5 17. Bg3 Rad8 18. h4 h6 19. Rh1 Bg6 20. Be2 Ne5 21.
+hxg5 hxg5 22. Kd1 Kf7 23. Kc1 Rh8 24. Rf1 Nd3+ 25. Kb1 Nb4 26. Bd1 Nxc2 27.
+Bxc2 Kg8 28. a3 a6 29. f3 exf3 30. Rxf3 b5 31. d6 e5 32. cxb5 axb5 33. Qd5+
+Bf7 34. Qxc5 Rh1+ 35. Nd1 Qxd6 36. Qxd6 Rxd6 37. Rxf5 Rdxd1+ 38. Bxd1 Bb3
+0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -229,19 +224,20 @@ bulletin; (moves 18-end) BCM, Oct 1955, p291} 0-1
 [Black "Parr, Frank"]
 [Result "1/2-1/2"]
 [ECO "B55"]
-[PlyCount "84"]
 [EventDate "1955.08.22"]
+[PlyCount "84"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Bb5+ Nbd7 7. Nf5 d5 8.
-exd5 Qa5+ 9. Nc3 a6 10. Bxd7+ Bxd7 11. Ne3 Bc5 12. O-O O-O-O 13. Kh1 Qb4 14. a3
-Qh4 15. Qe1 Qxe1 16. Rxe1 Bxe3 17. Bxe3 Rde8 18. Ne4 Nxe4 19. fxe4 Bg4 20. c4
-Kd7 21. c5 Rc8 22. b4 Bh5 23. b5 Bg6 24. Bg1 axb5 25. Rab1 Ra8 26. Rxb5 Rhb8
-27. Reb1 Bxe4 28. c6+ Ke8 29. R1b4 f5 30. Rxb7 Rd8 31. c7 Rdc8 32. Rb8 Bxd5 33.
-R4b5 Be4 34. Rxe5+ Kd7 35. Rxa8 Rxa8 36. Bc5 Kxc7 37. Bb4 Kc6 38. Re6+ Kd5 39.
-Re7 Rc8 40. h3 g6 41. Rxh7 Kd4 42. Rd7+ Bd5 {Source: Peter Parr} 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Bb5+ Nbd7 7. Nf5 d5
+8. exd5 Qa5+ 9. Nc3 a6 10. Bxd7+ Bxd7 11. Ne3 Bc5 12. O-O O-O-O 13. Kh1 Qb4
+14. a3 Qh4 15. Qe1 Qxe1 16. Rxe1 Bxe3 17. Bxe3 Rde8 18. Ne4 Nxe4 19. fxe4
+Bg4 20. c4 Kd7 21. c5 Rc8 22. b4 Bh5 23. b5 Bg6 24. Bg1 axb5 25. Rab1 Ra8
+26. Rxb5 Rhb8 27. Reb1 Bxe4 28. c6+ Ke8 29. R1b4 f5 30. Rxb7 Rd8 31. c7
+Rdc8 32. Rb8 Bxd5 33. R4b5 Be4 34. Rxe5+ Kd7 35. Rxa8 Rxa8 36. Bc5 Kxc7 37.
+Bb4 Kc6 38. Re6+ Kd5 39. Re7 Rc8 40. h3 g6 41. Rxh7 Kd4 42. Rd7+ Bd5
+1/2-1/2
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -251,18 +247,17 @@ Re7 Rc8 40. h3 g6 41. Rxh7 Kd4 42. Rd7+ Bd5 {Source: Peter Parr} 1/2-1/2
 [Black "Gibbs, Peter Campbell"]
 [Result "1-0"]
 [ECO "B10"]
-[PlyCount "61"]
 [EventDate "1955.08.22"]
+[PlyCount "61"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. h3 Bh5 5. e6 fxe6 6. g4 Bf7 7. d4 Nf6 8. Bd3
-Qd6 9. Nc3 Nbd7 10. Qe2 c5 11. dxc5 Nxc5 12. Bb5+ Ncd7 13. g5 a6 14. gxf6 axb5
-15. Nxb5 Qb8 16. Ng5 Nxf6 17. b3 h6 18. Nxe6 Bxe6 19. Qxe6 g6 20. Bb2 Ra6 21.
-Qe3 Kf7 22. O-O-O Re6 23. Qf3 Bg7 24. Rxd5 Rc8 25. Rd2 Kg8 26. Qg3 Qa8 27. Qxg6
-Rec6 28. Kb1 Qa5 29. Rg1 Ne8 30. Qd3 Ra6 31. a4 {time - Source: bulletin; The
-Times, 29 Aug 1955; Glasgow Herald, 2 Sept 1955; BCM, Nov 1955, p340} 1-0
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. h3 Bh5 5. e6 fxe6 6. g4 Bf7 7. d4 Nf6 8.
+Bd3 Qd6 9. Nc3 Nbd7 10. Qe2 c5 11. dxc5 Nxc5 12. Bb5+ Ncd7 13. g5 a6 14.
+gxf6 axb5 15. Nxb5 Qb8 16. Ng5 Nxf6 17. b3 h6 18. Nxe6 Bxe6 19. Qxe6 g6 20.
+Bb2 Ra6 21. Qe3 Kf7 22. O-O-O Re6 23. Qf3 Bg7 24. Rxd5 Rc8 25. Rd2 Kg8 26.
+Qg3 Qa8 27. Qxg6 Rec6 28. Kb1 Qa5 29. Rg1 Ne8 30. Qd3 Ra6 31. a4 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -272,22 +267,22 @@ Times, 29 Aug 1955; Glasgow Herald, 2 Sept 1955; BCM, Nov 1955, p340} 1-0
 [Black "Aitken, James Macrae"]
 [Result "0-1"]
 [ECO "D05"]
-[PlyCount "120"]
 [EventDate "1955.08.22"]
+[PlyCount "120"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
 1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. Bd3 d5 5. O-O Nbd7 6. b3 Qc7 7. Bb2 cxd4 8.
-exd4 Bd6 9. Nbd2 Nf8 10. Ne5 Bxe5 11. dxe5 N6d7 12. Qe2 Ng6 13. f4 O-O 14. Ba3
-Nc5 15. Qe3 b6 16. c4 Ba6 17. Be2 Rfe8 18. Rac1 d4 19. Qg3 Bb7 20. Bf3 Nd3 21.
-Bxb7 Nxc1 22. Bf3 Nxa2 23. Bd6 Qd7 24. Bxa8 Rxa8 25. Nf3 d3 26. Nd2 a5 27. Qxd3
-Nb4 28. Qe3 Qb7 29. Qe4 Qxe4 30. Nxe4 Nc6 31. g3 Nge7 32. Bxe7 Nxe7 33. Rd1 Nf5
-34. Rd7 h6 35. Rb7 a4 36. bxa4 Rxa4 37. Nd6 Ne3 38. Rxb6 Nxc4 39. Rb8+ Kh7 40.
-Nxf7 Ra6 41. Rc8 Ne3 42. Nd6 Ra2 43. Re8 Rg2+ 44. Kh1 Rf2 45. h4 Kg6 46. Rxe6+
-Kh5 47. Ne4 Re2 48. Ra6 Kg4 49. Ra3 Nf5 50. Nd6 Kh3 51. g4+ Ng3+ 52. Rxg3+ Kxg3
-53. Nf5+ Kxf4 54. Nxg7 Rxe5 55. g5 Kg3 56. Nh5+ Kxh4 57. Nf4 Kg3 58. Ng2 Re2
-59. g6 Rxg2 60. g7 Kf2 {Source: bulletin} 0-1
+exd4 Bd6 9. Nbd2 Nf8 10. Ne5 Bxe5 11. dxe5 N6d7 12. Qe2 Ng6 13. f4 O-O 14.
+Ba3 Nc5 15. Qe3 b6 16. c4 Ba6 17. Be2 Rfe8 18. Rac1 d4 19. Qg3 Bb7 20. Bf3
+Nd3 21. Bxb7 Nxc1 22. Bf3 Nxa2 23. Bd6 Qd7 24. Bxa8 Rxa8 25. Nf3 d3 26. Nd2
+a5 27. Qxd3 Nb4 28. Qe3 Qb7 29. Qe4 Qxe4 30. Nxe4 Nc6 31. g3 Nge7 32. Bxe7
+Nxe7 33. Rd1 Nf5 34. Rd7 h6 35. Rb7 a4 36. bxa4 Rxa4 37. Nd6 Ne3 38. Rxb6
+Nxc4 39. Rb8+ Kh7 40. Nxf7 Ra6 41. Rc8 Ne3 42. Nd6 Ra2 43. Re8 Rg2+ 44. Kh1
+Rf2 45. h4 Kg6 46. Rxe6+ Kh5 47. Ne4 Re2 48. Ra6 Kg4 49. Ra3 Nf5 50. Nd6
+Kh3 51. g4+ Ng3+ 52. Rxg3+ Kxg3 53. Nf5+ Kxf4 54. Nxg7 Rxe5 55. g5 Kg3 56.
+Nh5+ Kxh4 57. Nf4 Kg3 58. Ng2 Re2 59. g6 Rxg2 60. g7 Kf2 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -297,18 +292,18 @@ Kh5 47. Ne4 Re2 48. Ra6 Kg4 49. Ra3 Nf5 50. Nd6 Kh3 51. g4+ Ng3+ 52. Rxg3+ Kxg3
 [Black "Parr, Frank"]
 [Result "0-1"]
 [ECO "A80"]
-[PlyCount "72"]
 [EventDate "1955.08.22"]
+[PlyCount "72"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 f5 2. Nf3 Nf6 3. c3 e6 4. Bg5 Be7 5. Nbd2 d5 6. Ne5 O-O 7. Qc2 c5 8. e3
-b6 9. f3 Bb7 10. Be2 Nc6 11. Nxc6 Bxc6 12. g4 fxg4 13. f4 Kh8 14. O-O-O cxd4
-15. exd4 Nh5 16. Bxe7 Qxe7 17. Bxg4 Nxf4 18. Nf3 Bb5 19. Ne5 Rf6 20. h4 Ng6 21.
-Nf3 Nf8 22. Rde1 Be8 23. h5 Rc8 24. Rhg1 b5 25. a3 a5 26. b4 Rh6 27. Re5 Nd7
-28. Rg5 axb4 29. axb4 Nf6 30. Rxg7 Qxg7 31. Bxe6 Qc7 32. Bxc8 Qxc8 33. Qg2
-Qxc3+ 34. Kb1 Qxb4+ 35. Kc2 Qe7 36. Qg5 Rxh5 {Source: Peter Parr} 0-1
+1. d4 f5 2. Nf3 Nf6 3. c3 e6 4. Bg5 Be7 5. Nbd2 d5 6. Ne5 O-O 7. Qc2 c5 8.
+e3 b6 9. f3 Bb7 10. Be2 Nc6 11. Nxc6 Bxc6 12. g4 fxg4 13. f4 Kh8 14. O-O-O
+cxd4 15. exd4 Nh5 16. Bxe7 Qxe7 17. Bxg4 Nxf4 18. Nf3 Bb5 19. Ne5 Rf6 20.
+h4 Ng6 21. Nf3 Nf8 22. Rde1 Be8 23. h5 Rc8 24. Rhg1 b5 25. a3 a5 26. b4 Rh6
+27. Re5 Nd7 28. Rg5 axb4 29. axb4 Nf6 30. Rxg7 Qxg7 31. Bxe6 Qc7 32. Bxc8
+Qxc8 33. Qg2 Qxc3+ 34. Kb1 Qxb4+ 35. Kc2 Qe7 36. Qg5 Rxh5 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -318,18 +313,17 @@ Qxc3+ 34. Kb1 Qxb4+ 35. Kc2 Qe7 36. Qg5 Rxh5 {Source: Peter Parr} 0-1
 [Black "Wood, Baruch Harold"]
 [Result "0-1"]
 [ECO "B58"]
-[PlyCount "60"]
 [EventDate "1955.08.22"]
+[PlyCount "60"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Ndb5 a6 8.
-Na3 b5 9. Nd5 Nxd5 10. Qxd5 Qc7 11. Be3 Be6 12. Qd2 Rd8 13. Bf3 d5 14. exd5 Nb4
-15. Qe2 Nxd5 16. Bxd5 Bxd5 17. Bd4 f6 18. f4 Bxa3 19. fxe5 Bc4 20. Qe3 Rxd4 21.
-Qxd4 fxe5 22. Qe4 Bxb2 23. Qa8+ Ke7 24. Qxh8 Bc3+ 25. Kf2 Qb6+ 26. Kg3 Qe3+ 27.
-Kh4 Qh6+ 28. Kg3 Qf4+ 29. Kh3 Be6+ 30. g4 Qxg4# {Source: bulletin; (moves
-18-end) BCM, Oct 1955, p292} 0-1
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Ndb5 a6
+8. Na3 b5 9. Nd5 Nxd5 10. Qxd5 Qc7 11. Be3 Be6 12. Qd2 Rd8 13. Bf3 d5 14.
+exd5 Nb4 15. Qe2 Nxd5 16. Bxd5 Bxd5 17. Bd4 f6 18. f4 Bxa3 19. fxe5 Bc4 20.
+Qe3 Rxd4 21. Qxd4 fxe5 22. Qe4 Bxb2 23. Qa8+ Ke7 24. Qxh8 Bc3+ 25. Kf2 Qb6+
+26. Kg3 Qe3+ 27. Kh4 Qh6+ 28. Kg3 Qf4+ 29. Kh3 Be6+ 30. g4 Qxg4# 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -339,21 +333,21 @@ Kh4 Qh6+ 28. Kg3 Qf4+ 29. Kh3 Be6+ 30. g4 Qxg4# {Source: bulletin; (moves
 [Black "Golombek, Harry"]
 [Result "0-1"]
 [ECO "B14"]
-[PlyCount "106"]
 [EventDate "1955.08.22"]
+[PlyCount "106"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 c6 2. c4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. Bf4 O-O 8. c5
-Bd7 9. b4 b6 10. Bd3 a5 11. a3 axb4 12. axb4 Rxa1 13. Qxa1 bxc5 14. bxc5 Nc6
-15. O-O Nh5 16. Bd2 f5 17. Na4 Nf6 18. Nb6 Ne4 19. Bf4 Bf6 20. Nxd7 Qxd7 21.
-Bb5 Qb7 22. Bxc6 Qxc6 23. Ne5 Bxe5 24. Bxe5 Nd2 25. Re1 Ra8 26. Qc3 Nc4 27. Qg3
-Nxe5 28. Qxe5 Kf7 29. h4 Rc8 30. h5 h6 31. Re3 Qd7 32. Rg3 Kf8 33. Rg6 Rc6 34.
-f3 Kg8 35. g4 fxg4 36. Rxg4 Ra6 37. Kh2 Kh7 38. Rg2 Qf7 39. Rf2 Ra3 40. Kg2 Rc3
-41. Qe1 Rc4 42. Qb1+ Kg8 43. Rb2 Qxh5 44. Rb8+ Kf7 45. Rb7+ Kf6 46. Rb2 Qg5+
-47. Kh3 Rc1 48. Qa2 Qe3 49. Kg2 Qxd4 50. Rf2 Qe5 51. f4 Qe4+ 52. Kg3 Rg1+ 53.
-Kh3 Qh1+ {Source: bulletin; (moves 35-end) BCM, Oct 1955, p292} 0-1
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 e6 6. Nf3 Be7 7. Bf4 O-O 8.
+c5 Bd7 9. b4 b6 10. Bd3 a5 11. a3 axb4 12. axb4 Rxa1 13. Qxa1 bxc5 14. bxc5
+Nc6 15. O-O Nh5 16. Bd2 f5 17. Na4 Nf6 18. Nb6 Ne4 19. Bf4 Bf6 20. Nxd7
+Qxd7 21. Bb5 Qb7 22. Bxc6 Qxc6 23. Ne5 Bxe5 24. Bxe5 Nd2 25. Re1 Ra8 26.
+Qc3 Nc4 27. Qg3 Nxe5 28. Qxe5 Kf7 29. h4 Rc8 30. h5 h6 31. Re3 Qd7 32. Rg3
+Kf8 33. Rg6 Rc6 34. f3 Kg8 35. g4 fxg4 36. Rxg4 Ra6 37. Kh2 Kh7 38. Rg2 Qf7
+39. Rf2 Ra3 40. Kg2 Rc3 41. Qe1 Rc4 42. Qb1+ Kg8 43. Rb2 Qxh5 44. Rb8+ Kf7
+45. Rb7+ Kf6 46. Rb2 Qg5+ 47. Kh3 Rc1 48. Qa2 Qe3 49. Kg2 Qxd4 50. Rf2 Qe5
+51. f4 Qe4+ 52. Kg3 Rg1+ 53. Kh3 Qh1+ 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -363,19 +357,19 @@ Kh3 Qh1+ {Source: bulletin; (moves 35-end) BCM, Oct 1955, p292} 0-1
 [Black "Martin, Geoffrey J"]
 [Result "1-0"]
 [ECO "D05"]
-[PlyCount "75"]
 [EventDate "1955.08.22"]
+[PlyCount "75"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 d5 2. Nf3 Nf6 3. e3 c5 4. c3 Nbd7 5. Nbd2 g6 6. b4 cxb4 7. cxb4 Bg7 8.
-Bb2 O-O 9. Be2 Ne8 10. O-O Nd6 11. Qb3 Nb6 12. a4 e6 13. Rfc1 Bd7 14. b5 Nbc8
-15. Ba3 f6 16. Ne1 Rf7 17. Nd3 b6 18. Nb4 Nb7 19. Qa2 Ncd6 20. Nc6 Bxc6 21.
-bxc6 Na5 22. e4 Ne8 23. exd5 exd5 24. Bf3 Nc7 25. Bb4 Bf8 26. Bxa5 bxa5 27. Nf1
-Kh8 28. Ne3 Bh6 29. Rc5 Bxe3 30. fxe3 Qe7 31. Qa3 Re8 32. Rxa5 Qxe3+ 33. Qxe3
-Rxe3 34. Rxa7 Kg7 35. Rb7 Rd3 36. a5 Rxd4 37. a6 Na8 38. a7 {time - Source:
-bulletin} 1-0
+1. d4 d5 2. Nf3 Nf6 3. e3 c5 4. c3 Nbd7 5. Nbd2 g6 6. b4 cxb4 7. cxb4 Bg7
+8. Bb2 O-O 9. Be2 Ne8 10. O-O Nd6 11. Qb3 Nb6 12. a4 e6 13. Rfc1 Bd7 14. b5
+Nbc8 15. Ba3 f6 16. Ne1 Rf7 17. Nd3 b6 18. Nb4 Nb7 19. Qa2 Ncd6 20. Nc6
+Bxc6 21. bxc6 Na5 22. e4 Ne8 23. exd5 exd5 24. Bf3 Nc7 25. Bb4 Bf8 26. Bxa5
+bxa5 27. Nf1 Kh8 28. Ne3 Bh6 29. Rc5 Bxe3 30. fxe3 Qe7 31. Qa3 Re8 32. Rxa5
+Qxe3+ 33. Qxe3 Rxe3 34. Rxa7 Kg7 35. Rb7 Rd3 36. a5 Rxd4 37. a6 Na8 38. a7
+1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -385,36 +379,18 @@ bulletin} 1-0
 [Black "Thomas, Andrew Rowland B"]
 [Result "1-0"]
 [ECO "C24"]
+[EventDate "1955.08.22"]
 [PlyCount "61"]
-[EventDate "1955.08.22"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Qe2 Be7 5. f4 d5 6. exd5 exf4 7. d6 Qxd6 8. Nf3
-O-O 9. O-O Bg4 10. Nc3 Nbd7 11. Bxf4 Qxf4 12. Qxe7 Rae8 13. Qb4 Qc7 14. Bb3 c5
-15. Qa4 Bxf3 16. Rxf3 Ne5 17. Rxf6 c4 18. Rf4 Nxd3 19. Rxc4 Qe5 20. Re4 Qc5+
-21. Qd4 Rxe4 22. Qxc5 Nxc5 23. Nxe4 Nxe4 24. Re1 Nd6 25. Bd5 Rd8 26. c4 b6 27.
-Re7 Nc8 28. Rc7 Rf8 29. Bxf7+ Rxf7 30. Rxc8+ Rf8 31. Rxf8+ {Source: bulletin;
-BCM, Nov 1955, p343} 1-0
-
-[Event "BCF-ch 42nd"]
-[Site "Aberystwyth"]
-[Date "1955.08.24"]
-[Round "3"]
-[White "Moore, BJ."]
-[Black "Perkins, Nicholas Anthony"]
-[Result "1-0"]
-[SetUp "1"]
-[FEN "1r2q2k/3n1ppp/2p5/p1b1pPBQ/P1B1P3/1P5P/5P2/6RK b - - 0 28"]
-[PlyCount "16"]
-[EventDate "1955.08.22"]
-[EventType "swiss"]
-[EventRounds "11"]
-[EventCountry "GBR"]
-
-28... f6 29. Bf7 Qe7 30. Bd2 Bxf2 31. Rg2 Bb6 32. Rg4 Nf8 33. Bh6 Ne6 34. fxe6
-g5 35. Bxg5 fxg5 36. Rh4 {Source: BCM, Oct 1955, p292} 1-0
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Qe2 Be7 5. f4 d5 6. exd5 exf4 7. d6 Qxd6 8.
+Nf3 O-O 9. O-O Bg4 10. Nc3 Nbd7 11. Bxf4 Qxf4 12. Qxe7 Rae8 13. Qb4 Qc7 14.
+Bb3 c5 15. Qa4 Bxf3 16. Rxf3 Ne5 17. Rxf6 c4 18. Rf4 Nxd3 19. Rxc4 Qe5 20.
+Re4 Qc5+ 21. Qd4 Rxe4 22. Qxc5 Nxc5 23. Nxe4 Nxe4 24. Re1 Nd6 25. Bd5 Rd8
+26. c4 b6 27. Re7 Nc8 28. Rc7 Rf8 29. Bxf7+ Rxf7 30. Rxc8+ Rf8 31. Rxf8+
+1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -424,18 +400,17 @@ g5 35. Bxg5 fxg5 36. Rh4 {Source: BCM, Oct 1955, p292} 1-0
 [Black "Abrahams, Gerald"]
 [Result "1-0"]
 [ECO "B10"]
-[PlyCount "57"]
 [EventDate "1955.08.22"]
+[PlyCount "57"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. Nbd2 O-O 7. e4 c6 8. Re1
-f6 9. c3 Be6 10. d4 dxe4 11. Nxe4 Nd7 12. dxe5 fxe5 13. Bg5 h6 14. Qd6 hxg5 15.
-Qxe6+ Kh8 16. Nfxg5 Nf6 17. Rad1 Qc7 18. Nxf6 Rxf6 19. Qh3+ Kg8 20. Rd7 Qb6 21.
-Re2 Re8 22. Qh7+ Kf8 23. Bh3 c5 24. Red2 c4 25. Bg2 Rf5 26. Bd5 Rc8 27. Rxe7
-Kxe7 28. Qxg7+ Kd8 29. Be6+ {Source: bulletin; The Times, 29 Aug 1955; Glasgow
-Herald, 2 Sept 1955; BCM, Oct 1955, p311; Phillips Book 2003} 1-0
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7 6. Nbd2 O-O 7. e4 c6 8.
+Re1 f6 9. c3 Be6 10. d4 dxe4 11. Nxe4 Nd7 12. dxe5 fxe5 13. Bg5 h6 14. Qd6
+hxg5 15. Qxe6+ Kh8 16. Nfxg5 Nf6 17. Rad1 Qc7 18. Nxf6 Rxf6 19. Qh3+ Kg8
+20. Rd7 Qb6 21. Re2 Re8 22. Qh7+ Kf8 23. Bh3 c5 24. Red2 c4 25. Bg2 Rf5 26.
+Bd5 Rc8 27. Rxe7 Kxe7 28. Qxg7+ Kd8 29. Be6+ 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -445,21 +420,21 @@ Herald, 2 Sept 1955; BCM, Oct 1955, p311; Phillips Book 2003} 1-0
 [Black "Aitken, James Macrae"]
 [Result "1-0"]
 [ECO "C47"]
-[PlyCount "101"]
 [EventDate "1955.08.22"]
+[PlyCount "101"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Bd3 O-O
-8. O-O d5 9. exd5 cxd5 10. Bg5 c6 11. Qf3 Be7 12. Rae1 Be6 13. h3 Rb8 14. Bc1
-Nd7 15. Ne2 Bf6 16. Nf4 Ne5 17. Rxe5 Bxe5 18. Qh5 f5 19. Nxe6 Qe8 20. Qxe8
-Rfxe8 21. Nc5 Bd6 22. Nb3 f4 23. Bd2 c5 24. c4 d4 25. Re1 Rxe1+ 26. Bxe1 Kf7
-27. Bd2 Kf6 28. f3 h6 29. Kf1 g5 30. Be4 Bc7 31. Bc1 Rb4 32. Bd5 Bd6 33. Ke2
-Rb8 34. Nd2 Be7 35. Ne4+ Kf5 36. b3 Rb6 37. Kd3 Ra6 38. a3 Rb6 39. b4 cxb4 40.
-c5 Rb8 41. axb4 Ke5 42. Kc4 Rd8 43. Bb7 d3 44. Bb2+ Ke6 45. Bc3 Bf6 46. Bxf6 d2
-47. Nxd2 Rxd2 48. Bd4 Rxg2 49. c6 Kd6 50. Bxa7 Kc7 51. b5 {Source: bulletin}
-1-0
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bc5 6. Nxc6 bxc6 7. Bd3
+O-O 8. O-O d5 9. exd5 cxd5 10. Bg5 c6 11. Qf3 Be7 12. Rae1 Be6 13. h3 Rb8
+14. Bc1 Nd7 15. Ne2 Bf6 16. Nf4 Ne5 17. Rxe5 Bxe5 18. Qh5 f5 19. Nxe6 Qe8
+20. Qxe8 Rfxe8 21. Nc5 Bd6 22. Nb3 f4 23. Bd2 c5 24. c4 d4 25. Re1 Rxe1+
+26. Bxe1 Kf7 27. Bd2 Kf6 28. f3 h6 29. Kf1 g5 30. Be4 Bc7 31. Bc1 Rb4 32.
+Bd5 Bd6 33. Ke2 Rb8 34. Nd2 Be7 35. Ne4+ Kf5 36. b3 Rb6 37. Kd3 Ra6 38. a3
+Rb6 39. b4 cxb4 40. c5 Rb8 41. axb4 Ke5 42. Kc4 Rd8 43. Bb7 d3 44. Bb2+ Ke6
+45. Bc3 Bf6 46. Bxf6 d2 47. Nxd2 Rxd2 48. Bd4 Rxg2 49. c6 Kd6 50. Bxa7 Kc7
+51. b5 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -469,20 +444,19 @@ c5 Rb8 41. axb4 Ke5 42. Kc4 Rd8 43. Bb7 d3 44. Bb2+ Ke6 45. Bc3 Bf6 46. Bxf6 d2
 [Black "Milner-Barry, Philip Stuart"]
 [Result "1-0"]
 [ECO "E02"]
-[PlyCount "81"]
 [EventDate "1955.08.22"]
+[PlyCount "81"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Bd7 6. Qxc4 Bc6 7. Nf3 Nbd7 8.
-Nc3 Nb6 9. Qd3 Nbd5 10. O-O Nxc3 11. bxc3 Be4 12. Qb5+ c6 13. Qb3 Be7 14. c4
-O-O 15. Bb2 Qd6 16. a3 Rab8 17. Rfd1 b5 18. c5 Qd8 19. Ne5 Bxg2 20. Kxg2 Qe8
-21. Qf3 Nd5 22. e4 Nf6 23. Bc3 h6 24. Rdb1 a5 25. Bxa5 Ra8 26. Bc3 Qc8 27. Qe2
-Nd7 28. Nd3 e5 29. d5 cxd5 30. exd5 Nxc5 31. Nxe5 Qf5 32. Qf3 Qxf3+ 33. Kxf3
-Bf6 34. Rxb5 Nd7 35. Nxd7 Bxc3 36. Ra2 Rfd8 37. Nb6 Ra5 38. a4 f5 39. Rc2 Rxb5
-40. axb5 Bd4 41. Nc8 {Source: bulletin; The Times, 30 Aug 1955; Glasgow Herald,
-9 Sept 1955; BCM, Oct 1955, p310} 1-0
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Bd7 6. Qxc4 Bc6 7. Nf3 Nbd7
+8. Nc3 Nb6 9. Qd3 Nbd5 10. O-O Nxc3 11. bxc3 Be4 12. Qb5+ c6 13. Qb3 Be7
+14. c4 O-O 15. Bb2 Qd6 16. a3 Rab8 17. Rfd1 b5 18. c5 Qd8 19. Ne5 Bxg2 20.
+Kxg2 Qe8 21. Qf3 Nd5 22. e4 Nf6 23. Bc3 h6 24. Rdb1 a5 25. Bxa5 Ra8 26. Bc3
+Qc8 27. Qe2 Nd7 28. Nd3 e5 29. d5 cxd5 30. exd5 Nxc5 31. Nxe5 Qf5 32. Qf3
+Qxf3+ 33. Kxf3 Bf6 34. Rxb5 Nd7 35. Nxd7 Bxc3 36. Ra2 Rfd8 37. Nb6 Ra5 38.
+a4 f5 39. Rc2 Rxb5 40. axb5 Bd4 41. Nc8 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -492,17 +466,16 @@ Bf6 34. Rxb5 Nd7 35. Nxd7 Bxc3 36. Ra2 Rfd8 37. Nb6 Ra5 38. a4 f5 39. Rc2 Rxb5
 [Black "Haygarth, Michael J"]
 [Result "0-1"]
 [ECO "E52"]
-[PlyCount "48"]
 [EventDate "1955.08.22"]
+[PlyCount "48"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. cxd5 exd5 8. a3
-Bd6 9. b3 Re8 10. Qc2 a6 11. Bb2 Bb7 12. g4 Nbd7 13. h4 c5 14. dxc5 Nxc5 15.
-Nd4 Nxd3+ 16. Qxd3 Nxg4 17. Nf5 Ne5 18. Qf1 d4 19. Rg1 Nf3+ 20. Ke2 Be5 21. Qh3
-dxc3 22. Nxg7 Qd2+ 23. Kf1 Qd3+ 24. Kg2 Ne1# {Source: bulletin; (moves 16-end)
-BCM, Oct 1955, p293} 0-1
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. cxd5 exd5 8.
+a3 Bd6 9. b3 Re8 10. Qc2 a6 11. Bb2 Bb7 12. g4 Nbd7 13. h4 c5 14. dxc5 Nxc5
+15. Nd4 Nxd3+ 16. Qxd3 Nxg4 17. Nf5 Ne5 18. Qf1 d4 19. Rg1 Nf3+ 20. Ke2 Be5
+21. Qh3 dxc3 22. Nxg7 Qd2+ 23. Kf1 Qd3+ 24. Kg2 Ne1# 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -512,20 +485,20 @@ BCM, Oct 1955, p293} 0-1
 [Black "Abrahams, Gerald"]
 [Result "1-0"]
 [ECO "D02"]
-[PlyCount "93"]
 [EventDate "1955.08.22"]
+[PlyCount "93"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 d5 2. Nf3 Bf5 3. Bf4 e6 4. e3 Nf6 5. Bd3 Ne4 6. O-O Be7 7. c4 O-O 8. Nc3
-Nc6 9. Rc1 g5 10. Be5 Nxe5 11. Nxe5 f6 12. Nf3 c6 13. Qc2 Nxc3 14. Qxc3 Bxd3
-15. Qxd3 g4 16. Nd2 f5 17. f4 a5 18. c5 a4 19. Rc2 Rf6 20. Rb1 Rh6 21. Nf1 Rg6
-22. b4 Rg7 23. b5 cxb5 24. Rxb5 Qc8 25. Rcb2 Bd8 26. Qb1 b6 27. cxb6 Rb7 28.
-Qc2 Qd7 29. Kf2 Ra6 30. Qc5 Be7 31. Qc3 a3 32. R2b3 Ra4 33. Nd2 Kg7 34. Rb1 Ra6
-35. Qd3 Ra4 36. Nb3 Bb4 37. Nc5 Bxc5 38. dxc5 Rc4 39. R5b4 Rxb4 40. Rxb4 Qe7
-41. Qc3+ Kg6 42. g3 Rb8 43. c6 Qd6 44. b7 Qc7 45. Qc5 d4 46. exd4 Rd8 47. Kg1 {
-Source: Peter Parr} 1-0
+1. d4 d5 2. Nf3 Bf5 3. Bf4 e6 4. e3 Nf6 5. Bd3 Ne4 6. O-O Be7 7. c4 O-O 8.
+Nc3 Nc6 9. Rc1 g5 10. Be5 Nxe5 11. Nxe5 f6 12. Nf3 c6 13. Qc2 Nxc3 14. Qxc3
+Bxd3 15. Qxd3 g4 16. Nd2 f5 17. f4 a5 18. c5 a4 19. Rc2 Rf6 20. Rb1 Rh6 21.
+Nf1 Rg6 22. b4 Rg7 23. b5 cxb5 24. Rxb5 Qc8 25. Rcb2 Bd8 26. Qb1 b6 27.
+cxb6 Rb7 28. Qc2 Qd7 29. Kf2 Ra6 30. Qc5 Be7 31. Qc3 a3 32. R2b3 Ra4 33.
+Nd2 Kg7 34. Rb1 Ra6 35. Qd3 Ra4 36. Nb3 Bb4 37. Nc5 Bxc5 38. dxc5 Rc4 39.
+R5b4 Rxb4 40. Rxb4 Qe7 41. Qc3+ Kg6 42. g3 Rb8 43. c6 Qd6 44. b7 Qc7 45.
+Qc5 d4 46. exd4 Rd8 47. Kg1 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -535,20 +508,20 @@ Source: Peter Parr} 1-0
 [Black "Cook, Percy Baldwin"]
 [Result "1-0"]
 [ECO "A47"]
-[PlyCount "91"]
 [EventDate "1955.08.22"]
+[PlyCount "91"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. Nf3 b6 3. e3 Bb7 4. Be2 e6 5. O-O Be7 6. b3 O-O 7. Bb2 d6 8. c4 c5
-9. Nbd2 Nbd7 10. Qc2 d5 11. Rfd1 Rc8 12. Rac1 dxc4 13. bxc4 cxd4 14. exd4 Qc7
-15. a4 Qf4 16. Qb3 Bc6 17. Ra1 Ne4 18. Qe3 Qxe3 19. fxe3 Nxd2 20. Nxd2 Nf6 21.
-Bf3 Bb4 22. Ba3 Bxa3 23. Rxa3 Rfd8 24. a5 g5 25. axb6 axb6 26. Rb1 g4 27. Bxc6
-Rxc6 28. Ra6 Nd7 29. Kf2 Rcc8 30. Kg3 f5 31. Rba1 Kf7 32. Ra7 Ke7 33. R1a6 Kf6
-34. Rb7 Rb8 35. Rc7 Rbc8 36. Rb7 Rb8 37. Raa7 Rxb7 38. Rxb7 Ke7 39. c5 bxc5 40.
-dxc5 Rc8 41. Nc4 Rb8 42. Ra7 f4+ 43. exf4 Rb3+ 44. Kh4 Kd8 45. c6 Nb6 46. Rb7 {
-Source: bulletin} 1-0
+1. d4 Nf6 2. Nf3 b6 3. e3 Bb7 4. Be2 e6 5. O-O Be7 6. b3 O-O 7. Bb2 d6 8.
+c4 c5 9. Nbd2 Nbd7 10. Qc2 d5 11. Rfd1 Rc8 12. Rac1 dxc4 13. bxc4 cxd4 14.
+exd4 Qc7 15. a4 Qf4 16. Qb3 Bc6 17. Ra1 Ne4 18. Qe3 Qxe3 19. fxe3 Nxd2 20.
+Nxd2 Nf6 21. Bf3 Bb4 22. Ba3 Bxa3 23. Rxa3 Rfd8 24. a5 g5 25. axb6 axb6 26.
+Rb1 g4 27. Bxc6 Rxc6 28. Ra6 Nd7 29. Kf2 Rcc8 30. Kg3 f5 31. Rba1 Kf7 32.
+Ra7 Ke7 33. R1a6 Kf6 34. Rb7 Rb8 35. Rc7 Rbc8 36. Rb7 Rb8 37. Raa7 Rxb7 38.
+Rxb7 Ke7 39. c5 bxc5 40. dxc5 Rc8 41. Nc4 Rb8 42. Ra7 f4+ 43. exf4 Rb3+ 44.
+Kh4 Kd8 45. c6 Nb6 46. Rb7 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -558,20 +531,20 @@ Source: bulletin} 1-0
 [Black "Israel, Harold"]
 [Result "0-1"]
 [ECO "A56"]
-[PlyCount "92"]
 [EventDate "1955.08.22"]
+[PlyCount "92"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 c5 3. d5 d6 4. Qc2 g6 5. Nc3 Bg7 6. e4 O-O 7. Nf3 Na6 8. a3 Nc7
-9. Bd3 e5 10. b4 Nh5 11. Ne2 b6 12. O-O f5 13. Nd2 f4 14. f3 g5 15. Kf2 g4 16.
-fxg4 Qh4+ 17. Kg1 Bxg4 18. Nf3 Bxf3 19. gxf3 Rf6 20. Rf2 Qh3 21. Bb2 Rg6+ 22.
-Kh1 Ng3+ 23. Nxg3 fxg3 24. Rg2 Rf8 25. Rf1 Bh6 26. Qe2 Bf4 27. Bc1 h5 28. Bxf4
-Rxf4 29. Rfg1 h4 30. Qf1 Kf7 31. Be2 Ne8 32. bxc5 bxc5 33. Qd1 Nf6 34. Bf1 Nh5
-35. Rb2 Qc8 36. Qa4 Kg7 37. Qc6 Qf8 38. Bh3 Rxf3 39. Bf5 Rxf5 40. exf5 Qxf5 41.
-Qc7+ Kh6 42. Qd8 Qf3+ 43. Rgg2 h3 44. Qh8+ Kg5 45. Qd8+ Nf6 46. hxg3 hxg2+ {
-Source: bulletin} 0-1
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Qc2 g6 5. Nc3 Bg7 6. e4 O-O 7. Nf3 Na6 8. a3
+Nc7 9. Bd3 e5 10. b4 Nh5 11. Ne2 b6 12. O-O f5 13. Nd2 f4 14. f3 g5 15. Kf2
+g4 16. fxg4 Qh4+ 17. Kg1 Bxg4 18. Nf3 Bxf3 19. gxf3 Rf6 20. Rf2 Qh3 21. Bb2
+Rg6+ 22. Kh1 Ng3+ 23. Nxg3 fxg3 24. Rg2 Rf8 25. Rf1 Bh6 26. Qe2 Bf4 27. Bc1
+h5 28. Bxf4 Rxf4 29. Rfg1 h4 30. Qf1 Kf7 31. Be2 Ne8 32. bxc5 bxc5 33. Qd1
+Nf6 34. Bf1 Nh5 35. Rb2 Qc8 36. Qa4 Kg7 37. Qc6 Qf8 38. Bh3 Rxf3 39. Bf5
+Rxf5 40. exf5 Qxf5 41. Qc7+ Kh6 42. Qd8 Qf3+ 43. Rgg2 h3 44. Qh8+ Kg5 45.
+Qd8+ Nf6 46. hxg3 hxg2+ 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -581,17 +554,16 @@ Source: bulletin} 0-1
 [Black "Penrose, Jonathan"]
 [Result "0-1"]
 [ECO "B14"]
-[PlyCount "48"]
 [EventDate "1955.08.22"]
+[PlyCount "48"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 c5 5. e3 cxd4 6. exd4 Be7 7. Nf3 O-O 8. Bd3
-dxc4 9. Bxc4 b6 10. Qe2 Bb7 11. O-O Nc6 12. Rad1 Nb4 13. Ne5 Nbd5 14. f4 Nxc3
-15. bxc3 Ne4 16. Nxf7 Kxf7 17. Bd3 Qd5 18. c4 Qxd4+ 19. Kh1 Bc5 20. Bc2 Qe3 21.
-Qh5+ Kg8 22. Qh4 Rxf4 23. Rfe1 Raf8 24. h3 Qxh3+ {Sources: bulletin; The Times,
-30 Aug 1955; The Observer, 25 Sept 1955; BCM, Nov 1955, p342} 0-1
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 c5 5. e3 cxd4 6. exd4 Be7 7. Nf3 O-O 8.
+Bd3 dxc4 9. Bxc4 b6 10. Qe2 Bb7 11. O-O Nc6 12. Rad1 Nb4 13. Ne5 Nbd5 14.
+f4 Nxc3 15. bxc3 Ne4 16. Nxf7 Kxf7 17. Bd3 Qd5 18. c4 Qxd4+ 19. Kh1 Bc5 20.
+Bc2 Qe3 21. Qh5+ Kg8 22. Qh4 Rxf4 23. Rfe1 Raf8 24. h3 Qxh3+ 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -601,23 +573,24 @@ Qh5+ Kg8 22. Qh4 Rxf4 23. Rfe1 Raf8 24. h3 Qxh3+ {Sources: bulletin; The Times,
 [Black "Fazekas, Stefan"]
 [Result "1-0"]
 [ECO "A62"]
-[PlyCount "141"]
 [EventDate "1955.08.22"]
+[PlyCount "141"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Bg2 g6 7. Nc3 Bg7 8. Nf3
-O-O 9. O-O Re8 10. Qa4 h6 11. h3 a6 12. Nd2 b5 13. Qd1 Ra7 14. a4 b4 15. Nce4
-Nxe4 16. Nxe4 Rae7 17. Nd2 Rxe2 18. Nc4 R2e7 19. Bf4 Rd7 20. h4 Bf8 21. Qd2 Kh7
-22. a5 Rb7 23. Rae1 Rxe1 24. Rxe1 Bf5 25. Be4 Bxe4 26. Rxe4 Rd7 27. Qe3 Qf6 28.
-Re8 Re7 29. Rxe7 Qxe7 30. Bxh6 Qxe3 31. Bxe3 Nd7 32. Bf4 Nf6 33. Nb6 Ne8 34. g4
-Bg7 35. b3 Bd4 36. Kf1 Kg7 37. Ke2 Kf6 38. f3 Ke7 39. Kd3 Nc7 40. Bg3 Ne8 41.
-g5 f5 42. gxf6+ Bxf6 43. Nc4 Kd7 44. Ke4 Be7 45. Nb6+ Kc7 46. Kf4 Ng7 47. Bf2
-Nf5 48. h5 Bf6 49. hxg6 Ne7 50. Bg1 Kd8 51. Kg4 Ke8 52. Kh5 Nf5 53. Bh2 Nd4 54.
-Kh6 Nxb3 55. Bxd6 Nxa5 56. Bxc5 b3 57. Na4 b2 58. Nxb2 Bxb2 59. Kh7 Nb3 60. Ba3
-Bf6 61. g7 Bxg7 62. Kxg7 Nd4 63. f4 a5 64. Bb2 Nf5+ 65. Kf6 Ne3 66. Ke6 Nc4 67.
-Bd4 a4 68. d6 Nxd6 69. Kxd6 Kf7 70. f5 a3 71. f6 {Source: bulletin} 1-0
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Bg2 g6 7. Nc3 Bg7 8.
+Nf3 O-O 9. O-O Re8 10. Qa4 h6 11. h3 a6 12. Nd2 b5 13. Qd1 Ra7 14. a4 b4
+15. Nce4 Nxe4 16. Nxe4 Rae7 17. Nd2 Rxe2 18. Nc4 R2e7 19. Bf4 Rd7 20. h4
+Bf8 21. Qd2 Kh7 22. a5 Rb7 23. Rae1 Rxe1 24. Rxe1 Bf5 25. Be4 Bxe4 26. Rxe4
+Rd7 27. Qe3 Qf6 28. Re8 Re7 29. Rxe7 Qxe7 30. Bxh6 Qxe3 31. Bxe3 Nd7 32.
+Bf4 Nf6 33. Nb6 Ne8 34. g4 Bg7 35. b3 Bd4 36. Kf1 Kg7 37. Ke2 Kf6 38. f3
+Ke7 39. Kd3 Nc7 40. Bg3 Ne8 41. g5 f5 42. gxf6+ Bxf6 43. Nc4 Kd7 44. Ke4
+Be7 45. Nb6+ Kc7 46. Kf4 Ng7 47. Bf2 Nf5 48. h5 Bf6 49. hxg6 Ne7 50. Bg1
+Kd8 51. Kg4 Ke8 52. Kh5 Nf5 53. Bh2 Nd4 54. Kh6 Nxb3 55. Bxd6 Nxa5 56. Bxc5
+b3 57. Na4 b2 58. Nxb2 Bxb2 59. Kh7 Nb3 60. Ba3 Bf6 61. g7 Bxg7 62. Kxg7
+Nd4 63. f4 a5 64. Bb2 Nf5+ 65. Kf6 Ne3 66. Ke6 Nc4 67. Bd4 a4 68. d6 Nxd6
+69. Kxd6 Kf7 70. f5 a3 71. f6 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -627,17 +600,17 @@ Bd4 a4 68. d6 Nxd6 69. Kxd6 Kf7 70. f5 a3 71. f6 {Source: bulletin} 1-0
 [Black "Milan, Slade"]
 [Result "1-0"]
 [ECO "B41"]
-[PlyCount "53"]
 [EventDate "1955.08.22"]
+[PlyCount "53"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Be2 e6 8. O-O
-Be7 9. Be3 O-O 10. f4 Bd7 11. Kh1 Nc6 12. Nf3 Na5 13. Rc1 Rac8 14. Qe1 Rfe8 15.
-Nd2 Qb8 16. g4 Rf8 17. g5 Ne8 18. f5 Nc6 19. Qh4 Ne5 20. Nf3 b5 21. Nxe5 dxe5
-22. f6 Bc5 23. Bxc5 Rxc5 24. Rf3 h6 25. fxg7 Nxg7 26. Qxh6 b4 27. Rh3 {Source:
-bulletin; Glasgow Herald, 23 Sept 1955; (moves 16-end) BCM, Oct 1955, p293} 1-0
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Qc7 7. Be2 e6 8.
+O-O Be7 9. Be3 O-O 10. f4 Bd7 11. Kh1 Nc6 12. Nf3 Na5 13. Rc1 Rac8 14. Qe1
+Rfe8 15. Nd2 Qb8 16. g4 Rf8 17. g5 Ne8 18. f5 Nc6 19. Qh4 Ne5 20. Nf3 b5
+21. Nxe5 dxe5 22. f6 Bc5 23. Bxc5 Rxc5 24. Rf3 h6 25. fxg7 Nxg7 26. Qxh6 b4
+27. Rh3 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -647,21 +620,21 @@ bulletin; Glasgow Herald, 23 Sept 1955; (moves 16-end) BCM, Oct 1955, p293} 1-0
 [Black "Purdy, John Spencer"]
 [Result "0-1"]
 [ECO "C64"]
-[PlyCount "102"]
 [EventDate "1955.08.22"]
+[PlyCount "102"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. d3 Ne7 8.
-Qh5 Ng6 9. Bg5 f6 10. Bd2 O-O 11. Na3 c6 12. Ba4 d5 13. Rad1 Be6 14. Bb3 Qd7
-15. h3 f5 16. Be3 fxe4 17. dxe4 Bc7 18. Nc2 Qf7 19. exd5 cxd5 20. Nb4 Rad8 21.
-Bc5 Nf4 22. Qxf7+ Rxf7 23. Be3 d4 24. Bxe6 Nxe6 25. cxd4 exd4 26. Bc1 Ba5 27.
-Nd3 Rc7 28. Bd2 Bb6 29. Rc1 Rdc8 30. Rfe1 Nc5 31. Nxc5 Rxc5 32. Rxc5 Rxc5 33.
-Rc1 Rf5 34. Kf1 d3 35. f3 Kf7 36. Re1 Rc5 37. Bc3 Ba5 38. Bxa5 Rxa5 39. a3 Rc5
-40. Rd1 Rc2 41. Rxd3 Rxb2 42. f4 Ke6 43. g4 g6 44. Kg1 a5 45. Kf1 a4 46. Ke1
-Rb3 47. Kd2 h5 48. Kc2 Rxd3 49. Kxd3 Kd5 50. Ke3 h4 51. Kd3 b5 {Source:
-bulletin} 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nd4 5. Nxd4 Bxd4 6. c3 Bb6 7. d3 Ne7
+8. Qh5 Ng6 9. Bg5 f6 10. Bd2 O-O 11. Na3 c6 12. Ba4 d5 13. Rad1 Be6 14. Bb3
+Qd7 15. h3 f5 16. Be3 fxe4 17. dxe4 Bc7 18. Nc2 Qf7 19. exd5 cxd5 20. Nb4
+Rad8 21. Bc5 Nf4 22. Qxf7+ Rxf7 23. Be3 d4 24. Bxe6 Nxe6 25. cxd4 exd4 26.
+Bc1 Ba5 27. Nd3 Rc7 28. Bd2 Bb6 29. Rc1 Rdc8 30. Rfe1 Nc5 31. Nxc5 Rxc5 32.
+Rxc5 Rxc5 33. Rc1 Rf5 34. Kf1 d3 35. f3 Kf7 36. Re1 Rc5 37. Bc3 Ba5 38.
+Bxa5 Rxa5 39. a3 Rc5 40. Rd1 Rc2 41. Rxd3 Rxb2 42. f4 Ke6 43. g4 g6 44. Kg1
+a5 45. Kf1 a4 46. Ke1 Rb3 47. Kd2 h5 48. Kc2 Rxd3 49. Kxd3 Kd5 50. Ke3 h4
+51. Kd3 b5 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -671,17 +644,16 @@ bulletin} 0-1
 [Black "Thomas, Andrew Rowland B"]
 [Result "0-1"]
 [ECO "A58"]
-[PlyCount "50"]
 [EventDate "1955.08.22"]
+[PlyCount "50"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. g3 g6 8. Bg2
-Bg7 9. Nf3 Nbd7 10. O-O Nb6 11. Re1 O-O 12. e4 Nfd7 13. Qc2 Nc4 14. b3 Qa5 15.
-e5 Ndxe5 16. Nxe5 Bxe5 17. Rxe5 Nxe5 18. Bh6 Rfb8 19. Re1 c4 20. bxc4 Bxc4 21.
-h3 Qa3 22. Bc1 Qb4 23. Re3 Rc8 24. f4 Bd3 25. Rxd3 Nxd3 {Source: BCM, Oct 1955,
-p312} 0-1
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. g3 g6 8.
+Bg2 Bg7 9. Nf3 Nbd7 10. O-O Nb6 11. Re1 O-O 12. e4 Nfd7 13. Qc2 Nc4 14. b3
+Qa5 15. e5 Ndxe5 16. Nxe5 Bxe5 17. Rxe5 Nxe5 18. Bh6 Rfb8 19. Re1 c4 20.
+bxc4 Bxc4 21. h3 Qa3 22. Bc1 Qb4 23. Re3 Rc8 24. f4 Bd3 25. Rxd3 Nxd3 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -691,15 +663,15 @@ p312} 0-1
 [Black "Golombek, Harry"]
 [Result "1/2-1/2"]
 [ECO "B10"]
-[PlyCount "38"]
 [EventDate "1955.08.22"]
+[PlyCount "38"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 c6 2. Nf3 d5 3. e5 c5 4. c4 d4 5. d3 Nc6 6. Bf4 e6 7. h4 h5 8. Nbd2 Nge7
-9. a3 Nf5 10. g3 b6 11. Bh3 Qd7 12. O-O Bb7 13. Ne4 Nce7 14. Re1 Bxe4 15. Rxe4
-Nc6 16. Re1 Be7 17. Nd2 g6 18. Bg2 Rc8 19. Rb1 Rf8 {Source: bulletin} 1/2-1/2
+1. e4 c6 2. Nf3 d5 3. e5 c5 4. c4 d4 5. d3 Nc6 6. Bf4 e6 7. h4 h5 8. Nbd2
+Nge7 9. a3 Nf5 10. g3 b6 11. Bh3 Qd7 12. O-O Bb7 13. Ne4 Nce7 14. Re1 Bxe4
+15. Rxe4 Nc6 16. Re1 Be7 17. Nd2 g6 18. Bg2 Rc8 19. Rb1 Rf8 1/2-1/2
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -709,18 +681,17 @@ Nc6 16. Re1 Be7 17. Nd2 g6 18. Bg2 Rc8 19. Rb1 Rf8 {Source: bulletin} 1/2-1/2
 [Black "Moore, BJ."]
 [Result "1-0"]
 [ECO "C99"]
-[PlyCount "59"]
 [EventDate "1955.08.22"]
+[PlyCount "59"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
-O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Rd8 13. Nf1 cxd4 14. cxd4 d5 15.
-Nxe5 dxe4 16. Bf4 Qb6 17. Be3 Bb7 18. Ng3 Bd5 19. Nf5 Bf8 20. Bg5 Be6 21. Nh6+
-gxh6 22. Bxf6 Rxd4 23. Qh5 Bg7 24. Bxg7 Kxg7 25. Bxe4 Re8 26. Re3 Qc7 27. f4
-Nc4 28. Rg3+ Kf8 29. Qxh6+ Ke7 30. Nc6+ {Sources: bulletin; BCM, Nov 1955,
-p341; Phillips Book 2003} 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Rd8 13. Nf1 cxd4 14. cxd4
+d5 15. Nxe5 dxe4 16. Bf4 Qb6 17. Be3 Bb7 18. Ng3 Bd5 19. Nf5 Bf8 20. Bg5
+Be6 21. Nh6+ gxh6 22. Bxf6 Rxd4 23. Qh5 Bg7 24. Bxg7 Kxg7 25. Bxe4 Re8 26.
+Re3 Qc7 27. f4 Nc4 28. Rg3+ Kf8 29. Qxh6+ Ke7 30. Nc6+ 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -730,19 +701,18 @@ p341; Phillips Book 2003} 1-0
 [Black "Parr, Frank"]
 [Result "0-1"]
 [ECO "A85"]
-[PlyCount "74"]
 [EventDate "1955.08.22"]
+[PlyCount "74"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 f5 2. c4 Nf6 3. Nc3 e6 4. e3 d6 5. Qc2 e5 6. f3 Nc6 7. d5 Nb8 8. Bd3 g6
-9. Nh3 Bg7 10. Nf2 Nbd7 11. g4 Nc5 12. Be2 fxg4 13. fxg4 O-O 14. b4 Nxg4 15.
-Bxg4 Rxf2 16. Kxf2 Qh4+ 17. Kg1 Qxg4+ 18. Qg2 Qxc4 19. Bd2 Qxb4 20. h4 Qg4 21.
-h5 Qxg2+ 22. Kxg2 Bf5 23. hxg6 hxg6 24. Rhc1 a6 25. Kg3 Bd3 26. Rg1 Rf8 27.
-Rac1 Rf5 28. Rg2 Bf6 29. Kh2 Kf7 30. Rg4 Bd8 31. Rcg1 Rh5+ 32. Kg2 Bf5 33. Rg3
-Ne4 34. Nxe4 Bxe4+ 35. Kf1 Rh2 36. Rg4 Bf5 37. R1g2 Rxg2 {Sources: bulletin;
-Peter Parr; The Times, 1 Sept 1955} 0-1
+1. d4 f5 2. c4 Nf6 3. Nc3 e6 4. e3 d6 5. Qc2 e5 6. f3 Nc6 7. d5 Nb8 8. Bd3
+g6 9. Nh3 Bg7 10. Nf2 Nbd7 11. g4 Nc5 12. Be2 fxg4 13. fxg4 O-O 14. b4 Nxg4
+15. Bxg4 Rxf2 16. Kxf2 Qh4+ 17. Kg1 Qxg4+ 18. Qg2 Qxc4 19. Bd2 Qxb4 20. h4
+Qg4 21. h5 Qxg2+ 22. Kxg2 Bf5 23. hxg6 hxg6 24. Rhc1 a6 25. Kg3 Bd3 26. Rg1
+Rf8 27. Rac1 Rf5 28. Rg2 Bf6 29. Kh2 Kf7 30. Rg4 Bd8 31. Rcg1 Rh5+ 32. Kg2
+Bf5 33. Rg3 Ne4 34. Nxe4 Bxe4+ 35. Kf1 Rh2 36. Rg4 Bf5 37. R1g2 Rxg2 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -752,21 +722,21 @@ Peter Parr; The Times, 1 Sept 1955} 0-1
 [Black "Moore, BJ."]
 [Result "1/2-1/2"]
 [ECO "D77"]
-[PlyCount "110"]
 [EventDate "1955.08.22"]
+[PlyCount "110"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. g3 g6 3. Bg2 d5 4. c4 Bg7 5. Nf3 O-O 6. O-O dxc4 7. Nc3 Nfd7 8.
-Bf4 Nc6 9. d5 Nce5 10. Nd4 Nc5 11. Qd2 e6 12. Bg5 f6 13. Bh6 exd5 14. Bxd5+ Kh8
-15. Bxg7+ Kxg7 16. f4 Ng4 17. h3 Nh6 18. g4 Qe7 19. Rad1 Re8 20. e4 c6 21. Bxc4
-Be6 22. Nxe6+ Nxe6 23. Bxe6 Qxe6 24. Qd7+ Qe7 25. g5 fxg5 26. f5 Ng8 27. Rd6
-gxf5 28. Rxf5 h6 29. Re5 Qxd7 30. Rxd7+ Kg6 31. Rxe8 Rxe8 32. Rxb7 Re7 33. Rb4
-Rd7 34. a4 Kf6 35. a5 Ke6 36. a6 Ne7 37. Rb7 Ng6 38. b4 Ne5 39. b5 cxb5 40.
-Nxb5 Nc6 41. Nc3 Rxb7 42. axb7 Kd7 43. Nd5 Nb8 44. Kf2 Kc6 45. Kf3 Kxb7 46. Kg4
-a5 47. Kh5 a4 48. Kxh6 a3 49. Nb4 Na6 50. Nc2 a2 51. Kxg5 Nc5 52. Kf5 Kc7 53.
-h4 Kd7 54. h5 Nxe4 55. Kxe4 Ke7 {Source: bulletin} 1/2-1/2
+1. d4 Nf6 2. g3 g6 3. Bg2 d5 4. c4 Bg7 5. Nf3 O-O 6. O-O dxc4 7. Nc3 Nfd7
+8. Bf4 Nc6 9. d5 Nce5 10. Nd4 Nc5 11. Qd2 e6 12. Bg5 f6 13. Bh6 exd5 14.
+Bxd5+ Kh8 15. Bxg7+ Kxg7 16. f4 Ng4 17. h3 Nh6 18. g4 Qe7 19. Rad1 Re8 20.
+e4 c6 21. Bxc4 Be6 22. Nxe6+ Nxe6 23. Bxe6 Qxe6 24. Qd7+ Qe7 25. g5 fxg5
+26. f5 Ng8 27. Rd6 gxf5 28. Rxf5 h6 29. Re5 Qxd7 30. Rxd7+ Kg6 31. Rxe8
+Rxe8 32. Rxb7 Re7 33. Rb4 Rd7 34. a4 Kf6 35. a5 Ke6 36. a6 Ne7 37. Rb7 Ng6
+38. b4 Ne5 39. b5 cxb5 40. Nxb5 Nc6 41. Nc3 Rxb7 42. axb7 Kd7 43. Nd5 Nb8
+44. Kf2 Kc6 45. Kf3 Kxb7 46. Kg4 a5 47. Kh5 a4 48. Kxh6 a3 49. Nb4 Na6 50.
+Nc2 a2 51. Kxg5 Nc5 52. Kf5 Kc7 53. h4 Kd7 54. h5 Nxe4 55. Kxe4 Ke7 1/2-1/2
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -776,16 +746,16 @@ h4 Kd7 54. h5 Nxe4 55. Kxe4 Ke7 {Source: bulletin} 1/2-1/2
 [Black "Martin, Geoffrey J"]
 [Result "1-0"]
 [ECO "D30"]
-[PlyCount "41"]
 [EventDate "1955.08.22"]
+[PlyCount "41"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. Nf3 Nf6 2. g3 e6 3. Bg2 Be7 4. O-O O-O 5. c4 d5 6. b3 c5 7. Bb2 Nc6 8. cxd5
-exd5 9. d4 Be6 10. dxc5 Ne4 11. Nc3 Nxc5 12. Nd4 Bf6 13. e3 Qd7 14. Nce2 Ne5
-15. Ba3 Rac8 16. Rc1 b6 17. Nf4 Be7 18. Bxc5 Bxc5 19. Ndxe6 fxe6 20. Nxe6 Nf3+
-21. Bxf3 {Source: bulletin} 1-0
+1. Nf3 Nf6 2. g3 e6 3. Bg2 Be7 4. O-O O-O 5. c4 d5 6. b3 c5 7. Bb2 Nc6 8.
+cxd5 exd5 9. d4 Be6 10. dxc5 Ne4 11. Nc3 Nxc5 12. Nd4 Bf6 13. e3 Qd7 14.
+Nce2 Ne5 15. Ba3 Rac8 16. Rc1 b6 17. Nf4 Be7 18. Bxc5 Bxc5 19. Ndxe6 fxe6
+20. Nxe6 Nf3+ 21. Bxf3 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -795,19 +765,19 @@ exd5 9. d4 Be6 10. dxc5 Ne4 11. Nc3 Nxc5 12. Nd4 Bf6 13. e3 Qd7 14. Nce2 Ne5
 [Black "Phillips, Alan"]
 [Result "1/2-1/2"]
 [ECO "E85"]
-[PlyCount "78"]
 [EventDate "1955.08.22"]
+[PlyCount "78"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 e5 6. Nge2 O-O 7. Be3 Nc6 8. Qd2
-a6 9. d5 Na5 10. Ng3 c5 11. Bh6 b5 12. Bxg7 Kxg7 13. cxb5 axb5 14. Bxb5 Nb3 15.
-Qd1 Nxa1 16. Qxa1 Ba6 17. Bxa6 Rxa6 18. Qc1 Ng8 19. O-O Qe7 20. f4 exf4 21.
-Qxf4 Rb6 22. Nd1 Nh6 23. Rf2 Qe5 24. Qxe5+ dxe5 25. Rc2 Rc8 26. Ne3 f6 27. Ngf1
-Nf7 28. Nc4 Ra6 29. a3 Rb8 30. Nfd2 f5 31. Kf2 Kf6 32. Ke3 Nd6 33. Nxd6 Rxd6
-34. Rxc5 Rxb2 35. Nc4 Rb3+ 36. Kf2 Ra6 37. d6 Rd3 38. exf5 gxf5 39. Rc7 Rdxd6 {
-Source: bulletin; (moves 14-end) BCM, Oct 1955, p294} 1/2-1/2
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. f3 e5 6. Nge2 O-O 7. Be3 Nc6 8.
+Qd2 a6 9. d5 Na5 10. Ng3 c5 11. Bh6 b5 12. Bxg7 Kxg7 13. cxb5 axb5 14. Bxb5
+Nb3 15. Qd1 Nxa1 16. Qxa1 Ba6 17. Bxa6 Rxa6 18. Qc1 Ng8 19. O-O Qe7 20. f4
+exf4 21. Qxf4 Rb6 22. Nd1 Nh6 23. Rf2 Qe5 24. Qxe5+ dxe5 25. Rc2 Rc8 26.
+Ne3 f6 27. Ngf1 Nf7 28. Nc4 Ra6 29. a3 Rb8 30. Nfd2 f5 31. Kf2 Kf6 32. Ke3
+Nd6 33. Nxd6 Rxd6 34. Rxc5 Rxb2 35. Nc4 Rb3+ 36. Kf2 Ra6 37. d6 Rd3 38.
+exf5 gxf5 39. Rc7 Rdxd6 1/2-1/2
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -817,24 +787,24 @@ Source: bulletin; (moves 14-end) BCM, Oct 1955, p294} 1/2-1/2
 [Black "Clarke, Peter Hugh"]
 [Result "1/2-1/2"]
 [ECO "C19"]
-[PlyCount "145"]
 [EventDate "1955.08.22"]
+[PlyCount "145"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Nbc6 8. Nf3
-Qa5 9. Bd2 c4 10. Be2 O-O 11. O-O f6 12. exf6 Rxf6 13. Bg5 Rf8 14. Qd2 Bd7 15.
-Bxe7 Nxe7 16. Ne5 Be8 17. Bg4 Rf6 18. Qe3 Rd8 19. Rfb1 Qc7 20. f4 Rd6 21. g3
-Ra6 22. a5 Nc8 23. Nf3 Ne7 24. Qe5 Qc8 25. Ng5 h6 26. Nf3 Bg6 27. Rb2 Bf5 28.
-Bxf5 Rxf5 29. Qe3 Nc6 30. Rba2 Rf6 31. Ne5 Nxe5 32. Qxe5 Rf5 33. Qe2 Qc7 34.
-Rb2 Rf7 35. Rb5 Re7 36. Rab1 b6 37. axb6 Rxb6 38. Rxb6 axb6 39. Re1 Kf8 40. Qh5
-Qd8 41. Qe5 b5 42. Kg2 Kf7 43. Kf3 Qc7 44. Qh5+ Kg8 45. Ra1 Qc6 46. Qe5 Rc7 47.
-Re1 Kf7 48. Qh5+ Kf8 49. Qg6 Qe8 50. Qxe8+ Kxe8 51. Rxe6+ Kf7 52. Rd6 Ra7 53.
-Ke2 Ra1 54. Rxd5 Rh1 55. Rh5 Kg6 56. g4 Rg1 57. h3 Rg2+ 58. Kd1 Rg1+ 59. Kd2
-Rg2+ 60. Kc1 Rg3 61. Kb2 Rf3 62. d5 Kf6 63. d6 Ke6 64. Rd5 Kd7 65. Ka3 Rxc3+
-66. Kb4 Rxc2 67. Kc5 c3 68. Rd3 Rc1 69. Re3 c2 70. Re7+ Kd8 71. Re2 Kd7 72.
-Re7+ Kd8 73. Re2 {Source: bulletin} 1/2-1/2
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. a4 Nbc6 8.
+Nf3 Qa5 9. Bd2 c4 10. Be2 O-O 11. O-O f6 12. exf6 Rxf6 13. Bg5 Rf8 14. Qd2
+Bd7 15. Bxe7 Nxe7 16. Ne5 Be8 17. Bg4 Rf6 18. Qe3 Rd8 19. Rfb1 Qc7 20. f4
+Rd6 21. g3 Ra6 22. a5 Nc8 23. Nf3 Ne7 24. Qe5 Qc8 25. Ng5 h6 26. Nf3 Bg6
+27. Rb2 Bf5 28. Bxf5 Rxf5 29. Qe3 Nc6 30. Rba2 Rf6 31. Ne5 Nxe5 32. Qxe5
+Rf5 33. Qe2 Qc7 34. Rb2 Rf7 35. Rb5 Re7 36. Rab1 b6 37. axb6 Rxb6 38. Rxb6
+axb6 39. Re1 Kf8 40. Qh5 Qd8 41. Qe5 b5 42. Kg2 Kf7 43. Kf3 Qc7 44. Qh5+
+Kg8 45. Ra1 Qc6 46. Qe5 Rc7 47. Re1 Kf7 48. Qh5+ Kf8 49. Qg6 Qe8 50. Qxe8+
+Kxe8 51. Rxe6+ Kf7 52. Rd6 Ra7 53. Ke2 Ra1 54. Rxd5 Rh1 55. Rh5 Kg6 56. g4
+Rg1 57. h3 Rg2+ 58. Kd1 Rg1+ 59. Kd2 Rg2+ 60. Kc1 Rg3 61. Kb2 Rf3 62. d5
+Kf6 63. d6 Ke6 64. Rd5 Kd7 65. Ka3 Rxc3+ 66. Kb4 Rxc2 67. Kc5 c3 68. Rd3
+Rc1 69. Re3 c2 70. Re7+ Kd8 71. Re2 Kd7 72. Re7+ Kd8 73. Re2 1/2-1/2
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -844,22 +814,22 @@ Re7+ Kd8 73. Re2 {Source: bulletin} 1/2-1/2
 [Black "Penrose, Jonathan"]
 [Result "1-0"]
 [ECO "A80"]
-[PlyCount "117"]
 [EventDate "1955.08.22"]
+[PlyCount "117"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 f5 2. e3 Nf6 3. Bd3 d6 4. Nf3 Nc6 5. c4 e5 6. d5 Ne7 7. Bc2 g6 8. Nc3 Bg7
-9. Ba4+ Kf8 10. Bc2 Bh6 11. e4 Bxc1 12. Qxc1 f4 13. Bd1 h6 14. g3 g5 15. gxf4
-gxf4 16. Be2 Bh3 17. Rg1 Qd7 18. Qc2 Kf7 19. c5 Rag8 20. Rxg8 Rxg8 21. Qb3 Qc8
-22. cxd6 cxd6 23. Qa3 Qb8 24. O-O-O a6 25. Nd2 Rg2 26. Bf1 Rxh2 27. Bxh3 Rxh3
-28. Qb4 Qc7 29. Nc4 Nc8 30. Kb1 Ng4 31. Rc1 Nxf2 32. Nd1 Qd7 33. Nxf2 Rf3 34.
-Qd2 Ne7 35. Qe2 Rg3 36. Qh5+ Kg7 37. Rh1 Rg6 38. Qh4 Ng8 39. Rc1 Rg5 40. Qh3
-Qd8 41. Qa3 Rg2 42. Rf1 Rg6 43. Qa5 Qd7 44. Qb6 Kh7 45. Rh1 Rg2 46. Rf1 Rg6 47.
-Rc1 h5 48. Rh1 Kh6 49. Nd3 Qe7 50. Kc2 Qg5 51. Rh2 Qe7 52. Ne1 Qh7 53. Nd2 Nf6
-54. Qxd6 Nxe4 55. Qf8+ Rg7 56. Nd3 b5 57. Nf3 Qg8 58. Qxg8 Rxg8 59. Ndxe5 {
-Sources: bulletin; Peter Parr} 1-0
+1. d4 f5 2. e3 Nf6 3. Bd3 d6 4. Nf3 Nc6 5. c4 e5 6. d5 Ne7 7. Bc2 g6 8. Nc3
+Bg7 9. Ba4+ Kf8 10. Bc2 Bh6 11. e4 Bxc1 12. Qxc1 f4 13. Bd1 h6 14. g3 g5
+15. gxf4 gxf4 16. Be2 Bh3 17. Rg1 Qd7 18. Qc2 Kf7 19. c5 Rag8 20. Rxg8 Rxg8
+21. Qb3 Qc8 22. cxd6 cxd6 23. Qa3 Qb8 24. O-O-O a6 25. Nd2 Rg2 26. Bf1 Rxh2
+27. Bxh3 Rxh3 28. Qb4 Qc7 29. Nc4 Nc8 30. Kb1 Ng4 31. Rc1 Nxf2 32. Nd1 Qd7
+33. Nxf2 Rf3 34. Qd2 Ne7 35. Qe2 Rg3 36. Qh5+ Kg7 37. Rh1 Rg6 38. Qh4 Ng8
+39. Rc1 Rg5 40. Qh3 Qd8 41. Qa3 Rg2 42. Rf1 Rg6 43. Qa5 Qd7 44. Qb6 Kh7 45.
+Rh1 Rg2 46. Rf1 Rg6 47. Rc1 h5 48. Rh1 Kh6 49. Nd3 Qe7 50. Kc2 Qg5 51. Rh2
+Qe7 52. Ne1 Qh7 53. Nd2 Nf6 54. Qxd6 Nxe4 55. Qf8+ Rg7 56. Nd3 b5 57. Nf3
+Qg8 58. Qxg8 Rxg8 59. Ndxe5 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -869,16 +839,16 @@ Sources: bulletin; Peter Parr} 1-0
 [Black "Beach, Thomas John"]
 [Result "1/2-1/2"]
 [ECO "E67"]
-[PlyCount "47"]
 [EventDate "1955.08.22"]
+[PlyCount "47"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d6 5. O-O O-O 6. c4 Nbd7 7. Nc3 e5 8. Qc2
-Re8 9. b3 exd4 10. Nxd4 c6 11. Bb2 a5 12. Rad1 Nc5 13. Rfe1 Qb6 14. e3 a4 15.
-Nxa4 Nxa4 16. bxa4 Qb4 17. Rb1 Qxa4 18. Qxa4 Rxa4 19. Nxc6 bxc6 20. Bxf6 Rxc4
-21. Bxg7 Kxg7 22. Rb6 d5 23. Ra1 Bf5 24. Bf1 1/2-1/2
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d6 5. O-O O-O 6. c4 Nbd7 7. Nc3 e5 8.
+Qc2 Re8 9. b3 exd4 10. Nxd4 c6 11. Bb2 a5 12. Rad1 Nc5 13. Rfe1 Qb6 14. e3
+a4 15. Nxa4 Nxa4 16. bxa4 Qb4 17. Rb1 Qxa4 18. Qxa4 Rxa4 19. Nxc6 bxc6 20.
+Bxf6 Rxc4 21. Bxg7 Kxg7 22. Rb6 d5 23. Ra1 Bf5 24. Bf1 1/2-1/2
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -888,19 +858,19 @@ Nxa4 Nxa4 16. bxa4 Qb4 17. Rb1 Qxa4 18. Qxa4 Rxa4 19. Nxc6 bxc6 20. Bxf6 Rxc4
 [Black "Haygarth, Michael J"]
 [Result "1-0"]
 [ECO "C34"]
-[PlyCount "75"]
 [EventDate "1955.08.22"]
+[PlyCount "75"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. Nc3 d5 6. Be2 g6 7. O-O Bg4 8. d4
-Bg7 9. h3 Be6 10. Nh2 Ng3 11. Rxf4 Nxe2+ 12. Qxe2 O-O 13. Be3 Nd7 14. Raf1 c5
-15. Ng4 f5 16. exf6 Nxf6 17. Nxf6+ Bxf6 18. Qf2 cxd4 19. Bxd4 Bxd4 20. Rxf8+
-Qxf8 21. Qxd4 Qg7 22. Rf6 Qd7 23. Ne2 Bf7 24. Nf4 Rc8 25. Nd3 Qe7 26. Rf2 b6
-27. Ne5 Be6 28. c3 Qg5 29. h4 Qc1+ 30. Kh2 Rf8 31. Rxf8+ Kxf8 32. Nc6 Kf7 33.
-Qe5 Bf5 34. Qxd5+ Kg7 35. Qe5+ Kf7 36. b4 Qa3 37. Qe7+ Kg8 38. Qf6 {Source:
-bulletin; (moves 28-end) BCM, Oct 1955, p294} 1-0
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. Nc3 d5 6. Be2 g6 7. O-O Bg4 8.
+d4 Bg7 9. h3 Be6 10. Nh2 Ng3 11. Rxf4 Nxe2+ 12. Qxe2 O-O 13. Be3 Nd7 14.
+Raf1 c5 15. Ng4 f5 16. exf6 Nxf6 17. Nxf6+ Bxf6 18. Qf2 cxd4 19. Bxd4 Bxd4
+20. Rxf8+ Qxf8 21. Qxd4 Qg7 22. Rf6 Qd7 23. Ne2 Bf7 24. Nf4 Rc8 25. Nd3 Qe7
+26. Rf2 b6 27. Ne5 Be6 28. c3 Qg5 29. h4 Qc1+ 30. Kh2 Rf8 31. Rxf8+ Kxf8
+32. Nc6 Kf7 33. Qe5 Bf5 34. Qxd5+ Kg7 35. Qe5+ Kf7 36. b4 Qa3 37. Qe7+ Kg8
+38. Qf6 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -910,19 +880,19 @@ bulletin; (moves 28-end) BCM, Oct 1955, p294} 1-0
 [Black "Aitken, James Macrae"]
 [Result "1/2-1/2"]
 [ECO "D05"]
-[PlyCount "82"]
 [EventDate "1955.08.22"]
+[PlyCount "82"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. Nf3 d5 3. e3 c5 4. c3 Nbd7 5. Nbd2 g6 6. b4 cxb4 7. cxb4 Bg7 8.
-Bb2 O-O 9. Be2 b6 10. O-O Bb7 11. Rc1 a5 12. b5 Rc8 13. Qb3 Re8 14. Ne5 Nxe5
-15. dxe5 Nd7 16. e6 Nc5 17. exf7+ Kxf7 18. Qa3 e5 19. e4 Bh6 20. f4 Kg7 21.
-exd5 Qxd5 22. Bf3 Qxd2 23. Bxb7 Rcd8 24. Bc6 Rd3 25. Bc3 Qe3+ 26. Kh1 Red8 27.
-Rce1 Rxc3 28. Rxe3 Rxa3 29. Rxa3 exf4 30. Rc3 Rd2 31. Rb1 Na4 32. Ra3 Nc5 33.
-Bf3 Kf6 34. Kg1 Bf8 35. h4 Nd3 36. Rc3 Bc5+ 37. Kh1 Ke5 38. h5 Kd4 39. Rcb3 a4
-40. Rxd3+ Kxd3 41. Rd1 Rxd1+ {Source: Glasgow Herald, 16 Sept 1955} 1/2-1/2
+1. d4 Nf6 2. Nf3 d5 3. e3 c5 4. c3 Nbd7 5. Nbd2 g6 6. b4 cxb4 7. cxb4 Bg7
+8. Bb2 O-O 9. Be2 b6 10. O-O Bb7 11. Rc1 a5 12. b5 Rc8 13. Qb3 Re8 14. Ne5
+Nxe5 15. dxe5 Nd7 16. e6 Nc5 17. exf7+ Kxf7 18. Qa3 e5 19. e4 Bh6 20. f4
+Kg7 21. exd5 Qxd5 22. Bf3 Qxd2 23. Bxb7 Rcd8 24. Bc6 Rd3 25. Bc3 Qe3+ 26.
+Kh1 Red8 27. Rce1 Rxc3 28. Rxe3 Rxa3 29. Rxa3 exf4 30. Rc3 Rd2 31. Rb1 Na4
+32. Ra3 Nc5 33. Bf3 Kf6 34. Kg1 Bf8 35. h4 Nd3 36. Rc3 Bc5+ 37. Kh1 Ke5 38.
+h5 Kd4 39. Rcb3 a4 40. Rxd3+ Kxd3 41. Rd1 Rxd1+ 1/2-1/2
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -932,20 +902,20 @@ Bf3 Kf6 34. Kg1 Bf8 35. h4 Nd3 36. Rc3 Bc5+ 37. Kh1 Ke5 38. h5 Kd4 39. Rcb3 a4
 [Black "Golombek, Harry"]
 [Result "0-1"]
 [ECO "B18"]
-[PlyCount "90"]
 [EventDate "1955.08.22"]
+[PlyCount "90"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. Nh3 Bd6 8.
-Bf4 Nf6 9. c3 Qc7 10. Qd2 Nbd7 11. Bxd6 Qxd6 12. Nf4 Nb6 13. Bb3 Nbd5 14. Bxd5
-Nxd5 15. Nge2 O-O-O 16. Nxg6 hxg6 17. f4 g5 18. fxg5 Rxh2 19. Rxh2 Qxh2 20.
-O-O-O Qxg2 21. c4 Nb6 22. b3 c5 23. Rg1 Qf2 24. Rg4 Qf1+ 25. Kb2 Qf5 26. Qf4
-Qd3 27. Qe4 Qd2+ 28. Qc2 Qa5 29. Qc3 Qxc3+ 30. Kxc3 cxd4+ 31. Nxd4 Kd7 32. b4
-Rc8 33. Nc2 Ke7 34. Ne3 Nd5+ 35. Nxd5+ exd5 36. c5 Ke6 37. Kd4 Rh8 38. b5 Rh2
-39. a4 Rc2 40. Rg1 Rc4+ 41. Kd3 Rxc5 42. Re1+ Kd6 43. Rf1 Rc7 44. Kd4 Rc4+ 45.
-Kd3 Ke6 {Source: bulletin; (moves 17-31) BCM, Oct 1955, p295} 0-1
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Bc4 e6 7. Nh3 Bd6
+8. Bf4 Nf6 9. c3 Qc7 10. Qd2 Nbd7 11. Bxd6 Qxd6 12. Nf4 Nb6 13. Bb3 Nbd5
+14. Bxd5 Nxd5 15. Nge2 O-O-O 16. Nxg6 hxg6 17. f4 g5 18. fxg5 Rxh2 19. Rxh2
+Qxh2 20. O-O-O Qxg2 21. c4 Nb6 22. b3 c5 23. Rg1 Qf2 24. Rg4 Qf1+ 25. Kb2
+Qf5 26. Qf4 Qd3 27. Qe4 Qd2+ 28. Qc2 Qa5 29. Qc3 Qxc3+ 30. Kxc3 cxd4+ 31.
+Nxd4 Kd7 32. b4 Rc8 33. Nc2 Ke7 34. Ne3 Nd5+ 35. Nxd5+ exd5 36. c5 Ke6 37.
+Kd4 Rh8 38. b5 Rh2 39. a4 Rc2 40. Rg1 Rc4+ 41. Kd3 Rxc5 42. Re1+ Kd6 43.
+Rf1 Rc7 44. Kd4 Rc4+ 45. Kd3 Ke6 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -955,18 +925,18 @@ Kd3 Ke6 {Source: bulletin; (moves 17-31) BCM, Oct 1955, p295} 0-1
 [Black "Barden, Leonard William"]
 [Result "0-1"]
 [ECO "E65"]
-[PlyCount "72"]
 [EventDate "1955.08.22"]
+[PlyCount "72"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 c5 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nc3 Nc6 7. O-O d6 8. e3
-Bf5 9. Qe2 Ne4 10. Nh4 Nxc3 11. bxc3 Bd7 12. Rb1 b6 13. f4 Qc8 14. f5 Qa6 15.
-Be4 Rac8 16. Bd2 Na5 17. fxg6 fxg6 18. Nxg6 hxg6 19. Bxg6 Qxc4 20. Qh5 Rf6 21.
-Qh7+ Kf8 22. e4 cxd4 23. Bg5 dxc3 24. Bxf6 exf6 25. Rxf6+ Bxf6 26. Qxd7 Rd8 27.
-Qh7 c2 28. Rc1 Nc6 29. Rxc2 Bd4+ 30. Rf2+ Bxf2+ 31. Kxf2 Qd4+ 32. Kg2 Qg7 33.
-Qh5 Ne7 34. Bh7 Rc8 35. Bf5 Rc2+ 36. Kh3 Rc5 {Source: bulletin} 0-1
+1. d4 Nf6 2. c4 c5 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nc3 Nc6 7. O-O d6 8.
+e3 Bf5 9. Qe2 Ne4 10. Nh4 Nxc3 11. bxc3 Bd7 12. Rb1 b6 13. f4 Qc8 14. f5
+Qa6 15. Be4 Rac8 16. Bd2 Na5 17. fxg6 fxg6 18. Nxg6 hxg6 19. Bxg6 Qxc4 20.
+Qh5 Rf6 21. Qh7+ Kf8 22. e4 cxd4 23. Bg5 dxc3 24. Bxf6 exf6 25. Rxf6+ Bxf6
+26. Qxd7 Rd8 27. Qh7 c2 28. Rc1 Nc6 29. Rxc2 Bd4+ 30. Rf2+ Bxf2+ 31. Kxf2
+Qd4+ 32. Kg2 Qg7 33. Qh5 Ne7 34. Bh7 Rc8 35. Bf5 Rc2+ 36. Kh3 Rc5 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -976,17 +946,17 @@ Qh5 Ne7 34. Bh7 Rc8 35. Bf5 Rc2+ 36. Kh3 Rc5 {Source: bulletin} 0-1
 [Black "Sergeant, Edward Guthlac"]
 [Result "1-0"]
 [ECO "C84"]
-[PlyCount "53"]
 [EventDate "1955.08.22"]
+[PlyCount "53"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 O-O 8. d3
-Bd7 9. Nbd2 Ne8 10. Bc2 g6 11. Nf1 f5 12. Bh6 Ng7 13. exf5 gxf5 14. d4 e4 15.
-d5 exf3 16. dxc6 Bxc6 17. gxf3 Bg5 18. Bxg7 Kxg7 19. Ng3 Bf4 20. Nh5+ Kh6 21.
-Nxf4 Qg5+ 22. Ng2 Rf6 23. Qc1 f4 24. Re7 Rg6 25. Bxg6 Qxe7 26. Qxf4+ Kxg6 27.
-Nh4+ {Source: bulletin} 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 O-O 8.
+d3 Bd7 9. Nbd2 Ne8 10. Bc2 g6 11. Nf1 f5 12. Bh6 Ng7 13. exf5 gxf5 14. d4
+e4 15. d5 exf3 16. dxc6 Bxc6 17. gxf3 Bg5 18. Bxg7 Kxg7 19. Ng3 Bf4 20.
+Nh5+ Kh6 21. Nxf4 Qg5+ 22. Ng2 Rf6 23. Qc1 f4 24. Re7 Rg6 25. Bxg6 Qxe7 26.
+Qxf4+ Kxg6 27. Nh4+ 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -996,17 +966,17 @@ Nh4+ {Source: bulletin} 1-0
 [Black "Wade, Robert Graham"]
 [Result "0-1"]
 [ECO "D50"]
-[PlyCount "56"]
 [EventDate "1955.08.22"]
+[PlyCount "56"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 c5 5. cxd5 cxd4 6. Qa4+ Qd7 7. Qxd4 Nc6 8.
-Qd1 Nxd5 9. e4 Nxc3 10. bxc3 Qc7 11. Nf3 Bd7 12. Be2 Ne5 13. O-O Nxf3+ 14. Bxf3
-Bd6 15. g3 Be5 16. Rb1 Bc6 17. Bg2 Bxc3 18. Qc1 Be5 19. Rd1 O-O 20. f4 Bf6 21.
-Bxf6 gxf6 22. e5 f5 23. Rd6 Qa5 24. Bxc6 bxc6 25. Qxc6 Qxa2 26. Qb7 Rac8 27.
-Ra6 Qe2 28. Rc6 Qe3+ {Source: bulletin} 0-1
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 c5 5. cxd5 cxd4 6. Qa4+ Qd7 7. Qxd4 Nc6
+8. Qd1 Nxd5 9. e4 Nxc3 10. bxc3 Qc7 11. Nf3 Bd7 12. Be2 Ne5 13. O-O Nxf3+
+14. Bxf3 Bd6 15. g3 Be5 16. Rb1 Bc6 17. Bg2 Bxc3 18. Qc1 Be5 19. Rd1 O-O
+20. f4 Bf6 21. Bxf6 gxf6 22. e5 f5 23. Rd6 Qa5 24. Bxc6 bxc6 25. Qxc6 Qxa2
+26. Qb7 Rac8 27. Ra6 Qe2 28. Rc6 Qe3+ 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1016,17 +986,17 @@ Ra6 Qe2 28. Rc6 Qe3+ {Source: bulletin} 0-1
 [Black "Purdy, John Spencer"]
 [Result "1-0"]
 [ECO "B39"]
-[PlyCount "55"]
 [EventDate "1955.08.22"]
+[PlyCount "55"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Nf6 7. Nc3 Ng4 8.
-Qxg4 Nxd4 9. Qd1 Ne6 10. Rc1 Qa5 11. a3 b6 12. Bd3 Nc5 13. O-O Nxd3 14. Qxd3
-O-O 15. Nd5 Bxb2 16. Nxe7+ Kh8 17. Bd4+ Bxd4 18. Qxd4+ f6 19. c5 bxc5 20. Rxc5
-Qb6 21. Qe3 Bb7 22. Nxg6+ Kg7 23. Nxf8 Rxf8 24. Rd1 Bxe4 25. Rxd7+ Rf7 26. Qg3+
-Kh6 27. Qf4+ Kg7 28. Rxf7+ {Source: bulletin} 1-0
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Nf6 7. Nc3 Ng4
+8. Qxg4 Nxd4 9. Qd1 Ne6 10. Rc1 Qa5 11. a3 b6 12. Bd3 Nc5 13. O-O Nxd3 14.
+Qxd3 O-O 15. Nd5 Bxb2 16. Nxe7+ Kh8 17. Bd4+ Bxd4 18. Qxd4+ f6 19. c5 bxc5
+20. Rxc5 Qb6 21. Qe3 Bb7 22. Nxg6+ Kg7 23. Nxf8 Rxf8 24. Rd1 Bxe4 25. Rxd7+
+Rf7 26. Qg3+ Kh6 27. Qf4+ Kg7 28. Rxf7+ 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1036,21 +1006,21 @@ Kh6 27. Qf4+ Kg7 28. Rxf7+ {Source: bulletin} 1-0
 [Black "Parr, Frank"]
 [Result "1-0"]
 [ECO "B92"]
-[PlyCount "107"]
 [EventDate "1955.08.22"]
+[PlyCount "107"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8. O-O
-Qc7 9. f4 Nbd7 10. f5 Bc4 11. a4 Be7 12. a5 b5 13. axb6 Qxb6+ 14. Kh1 Bxb3 15.
-cxb3 O-O 16. Bc4 Nc5 17. Bg5 Rab8 18. Bxf6 Bxf6 19. Nd5 Qd8 20. b4 Nd7 21. Rxa6
-Nb6 22. Nxb6 Rxb6 23. b5 Qc7 24. Qd5 Bd8 25. Rd1 Qe7 26. Rda1 Qb7 27. Qxb7 Rxb7
-28. Rxd6 Bb6 29. b3 Rfb8 30. g3 Kf8 31. Bd5 Ke7 32. Rc6 Bd8 33. Rac1 Kf8 34.
-Bc4 Ke8 35. Rd1 Ke7 36. Rd5 f6 37. Re6+ Kf8 38. Rc6 Bb6 39. Kg2 Ra7 40. Rd2
-Rab7 41. Kf3 Bd4 42. g4 Rb6 43. Rc2 Ke8 44. Rc7 g5 45. Rxh7 R8b7 46. Rh8+ Ke7
-47. Bd5 Rb8 48. Rc7+ Kd6 49. Rhh7 Rd8 50. Ke2 Bg1 51. h3 Bd4 52. Kd3 Bf2 53.
-Kc4 Be3 54. Be6 {Sources: bulletin; Peter Parr} 1-0
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8.
+O-O Qc7 9. f4 Nbd7 10. f5 Bc4 11. a4 Be7 12. a5 b5 13. axb6 Qxb6+ 14. Kh1
+Bxb3 15. cxb3 O-O 16. Bc4 Nc5 17. Bg5 Rab8 18. Bxf6 Bxf6 19. Nd5 Qd8 20. b4
+Nd7 21. Rxa6 Nb6 22. Nxb6 Rxb6 23. b5 Qc7 24. Qd5 Bd8 25. Rd1 Qe7 26. Rda1
+Qb7 27. Qxb7 Rxb7 28. Rxd6 Bb6 29. b3 Rfb8 30. g3 Kf8 31. Bd5 Ke7 32. Rc6
+Bd8 33. Rac1 Kf8 34. Bc4 Ke8 35. Rd1 Ke7 36. Rd5 f6 37. Re6+ Kf8 38. Rc6
+Bb6 39. Kg2 Ra7 40. Rd2 Rab7 41. Kf3 Bd4 42. g4 Rb6 43. Rc2 Ke8 44. Rc7 g5
+45. Rxh7 R8b7 46. Rh8+ Ke7 47. Bd5 Rb8 48. Rc7+ Kd6 49. Rhh7 Rd8 50. Ke2
+Bg1 51. h3 Bd4 52. Kd3 Bf2 53. Kc4 Be3 54. Be6 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1060,22 +1030,21 @@ Kc4 Be3 54. Be6 {Sources: bulletin; Peter Parr} 1-0
 [Black "Thomas, Andrew Rowland B"]
 [Result "0-1"]
 [ECO "C78"]
-[PlyCount "108"]
 [EventDate "1955.08.22"]
+[PlyCount "108"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. Nxe5 Nxe5 7. d4 Nxe4 8.
-Qe2 Be7 9. Qxe4 Ng6 10. c4 O-O 11. Nc3 f5 12. Qd3 f4 13. f3 d6 14. Bc2 Bh4 15.
-Bd2 Bf5 16. Ne4 c6 17. d5 Ne5 18. Qb3 cxd5 19. cxd5 Bxe4 20. Bxe4 b5 21. Bc3
-Nc4 22. Qc2 h6 23. Qd3 Bf6 24. a4 Nxb2 25. Bxb2 Bxb2 26. Ra2 Be5 27. axb5 Qb6+
-28. Kh1 Qxb5 29. Rb1 Qxd3 30. Bxd3 a5 31. Bc2 Bc3 32. h4 Rab8 33. Rxb8 Rxb8 34.
-Ba4 Be1 35. Bc2 Kf7 36. Kh2 Bxh4 37. Rxa5 Bg3+ 38. Kh3 Kf6 39. Ra7 h5 40. Rd7
-Rb6 41. Rd8 Ra6 42. Rb8 Ra1 43. Rb1 Ra2 44. Bh7 Ra5 45. Bg8 g5 46. Be6 Ra7 47.
-Bc8 Rg7 48. Rb5 g4+ 49. fxg4 hxg4+ 50. Bxg4 Rh7+ 51. Bh5 Rxh5+ 52. Kg4 Rg5+ 53.
-Kf3 Re5 54. Kg4 Bh2 {time. Source: 'Chess for the Love of it' by ARB Thomas 
-(Routledge & Kegan Paul, 1973)} 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. Nxe5 Nxe5 7. d4 Nxe4
+8. Qe2 Be7 9. Qxe4 Ng6 10. c4 O-O 11. Nc3 f5 12. Qd3 f4 13. f3 d6 14. Bc2
+Bh4 15. Bd2 Bf5 16. Ne4 c6 17. d5 Ne5 18. Qb3 cxd5 19. cxd5 Bxe4 20. Bxe4
+b5 21. Bc3 Nc4 22. Qc2 h6 23. Qd3 Bf6 24. a4 Nxb2 25. Bxb2 Bxb2 26. Ra2 Be5
+27. axb5 Qb6+ 28. Kh1 Qxb5 29. Rb1 Qxd3 30. Bxd3 a5 31. Bc2 Bc3 32. h4 Rab8
+33. Rxb8 Rxb8 34. Ba4 Be1 35. Bc2 Kf7 36. Kh2 Bxh4 37. Rxa5 Bg3+ 38. Kh3
+Kf6 39. Ra7 h5 40. Rd7 Rb6 41. Rd8 Ra6 42. Rb8 Ra1 43. Rb1 Ra2 44. Bh7 Ra5
+45. Bg8 g5 46. Be6 Ra7 47. Bc8 Rg7 48. Rb5 g4+ 49. fxg4 hxg4+ 50. Bxg4 Rh7+
+51. Bh5 Rxh5+ 52. Kg4 Rg5+ 53. Kf3 Re5 54. Kg4 Bh2 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1085,19 +1054,19 @@ Kf3 Re5 54. Kg4 Bh2 {time. Source: 'Chess for the Love of it' by ARB Thomas
 [Black "Milner-Barry, Philip Stuart"]
 [Result "0-1"]
 [ECO "C55"]
-[PlyCount "82"]
 [EventDate "1955.08.22"]
+[PlyCount "82"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. Nc3 Nc6 5. O-O Be7 6. Nxe4 d5 7. Bb5 dxe4 8.
-Nxe5 Qd5 9. Nxc6 bxc6 10. Ba4 O-O 11. Bb3 Qf5 12. d4 Ba6 13. Re1 Rad8 14. h3 h5
-15. c3 Rd6 16. Bc2 Bh4 17. Qf3 Qxf3 18. gxf3 Rg6+ 19. Kh2 Bxf2 20. Rxe4 f5 21.
-Re7 Bh4 22. Re3 Bf1 23. Bd2 Bg3+ 24. Kh1 Bxh3 25. Be1 h4 26. f4 Bg2+ 27. Kxg2
-Bxf4+ 28. Kf3 Bxe3 29. Kxe3 Re8+ 30. Kf3 Rg1 31. Kf2 Rh1 32. Bxf5 h3 33. Bd7
-Rf8+ 34. Kg3 Rff1 35. Rd1 Rxe1 36. Rd2 Re3+ 37. Kh4 Rhe1 38. Bxc6 R3e2 39. Rd3
-h2 40. Rh3 Rg1 41. a4 Kh7 {Source: bulletin} 0-1
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. Nc3 Nc6 5. O-O Be7 6. Nxe4 d5 7. Bb5
+dxe4 8. Nxe5 Qd5 9. Nxc6 bxc6 10. Ba4 O-O 11. Bb3 Qf5 12. d4 Ba6 13. Re1
+Rad8 14. h3 h5 15. c3 Rd6 16. Bc2 Bh4 17. Qf3 Qxf3 18. gxf3 Rg6+ 19. Kh2
+Bxf2 20. Rxe4 f5 21. Re7 Bh4 22. Re3 Bf1 23. Bd2 Bg3+ 24. Kh1 Bxh3 25. Be1
+h4 26. f4 Bg2+ 27. Kxg2 Bxf4+ 28. Kf3 Bxe3 29. Kxe3 Re8+ 30. Kf3 Rg1 31.
+Kf2 Rh1 32. Bxf5 h3 33. Bd7 Rf8+ 34. Kg3 Rff1 35. Rd1 Rxe1 36. Rd2 Re3+ 37.
+Kh4 Rhe1 38. Bxc6 R3e2 39. Rd3 h2 40. Rh3 Rg1 41. a4 Kh7 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1107,19 +1076,19 @@ h2 40. Rh3 Rg1 41. a4 Kh7 {Source: bulletin} 0-1
 [Black "Wade, Robert Graham"]
 [Result "0-1"]
 [ECO "E01"]
-[PlyCount "78"]
 [EventDate "1955.08.22"]
+[PlyCount "78"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. c4 Nf6 2. Nc3 e6 3. g3 d5 4. d4 dxc4 5. Qa4+ Qd7 6. Qxc4 Qc6 7. e4 Bd7 8.
-Qe2 Bb4 9. Bd2 Bxc3 10. Bxc3 Qxe4 11. Qxe4 Nxe4 12. Bg2 Bc6 13. d5 Bxd5 14.
-Bxg7 Rg8 15. Be5 Nc6 16. Bf4 Nb4 17. Ke2 Bc4+ 18. Kf3 Ng5+ 19. Kg4 Ne4+ 20. Kf3
-Nf6 21. Rd1 Bd5+ 22. Rxd5 Nfxd5 23. Ne2 Nxf4 24. Nxf4 O-O-O 25. Ke2 Rd6 26. a3
-Nc6 27. Rd1 Rgd8 28. Rxd6 cxd6 29. h4 Kd7 30. g4 Ne5 31. g5 Ng6 32. Nh5 Ke7 33.
-Be4 d5 34. Bd3 Nxh4 35. Bxh7 Rh8 36. Nf6 Ng6 37. b4 Rc8 38. Bxg6 fxg6 39. Ng4
-Rc4 {Source: bulletin} 0-1
+1. c4 Nf6 2. Nc3 e6 3. g3 d5 4. d4 dxc4 5. Qa4+ Qd7 6. Qxc4 Qc6 7. e4 Bd7
+8. Qe2 Bb4 9. Bd2 Bxc3 10. Bxc3 Qxe4 11. Qxe4 Nxe4 12. Bg2 Bc6 13. d5 Bxd5
+14. Bxg7 Rg8 15. Be5 Nc6 16. Bf4 Nb4 17. Ke2 Bc4+ 18. Kf3 Ng5+ 19. Kg4 Ne4+
+20. Kf3 Nf6 21. Rd1 Bd5+ 22. Rxd5 Nfxd5 23. Ne2 Nxf4 24. Nxf4 O-O-O 25. Ke2
+Rd6 26. a3 Nc6 27. Rd1 Rgd8 28. Rxd6 cxd6 29. h4 Kd7 30. g4 Ne5 31. g5 Ng6
+32. Nh5 Ke7 33. Be4 d5 34. Bd3 Nxh4 35. Bxh7 Rh8 36. Nf6 Ng6 37. b4 Rc8 38.
+Bxg6 fxg6 39. Ng4 Rc4 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1129,18 +1098,18 @@ Rc4 {Source: bulletin} 0-1
 [Black "Cook, Percy Baldwin"]
 [Result "0-1"]
 [ECO "C27"]
-[PlyCount "72"]
 [EventDate "1955.08.22"]
+[PlyCount "72"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 e5 2. Nc3 Nf6 3. Bc4 c6 4. Qe2 Bc5 5. d3 d6 6. f4 Bg4 7. Nf3 exf4 8. Bxf4
-O-O 9. h3 Bxf3 10. Qxf3 Nbd7 11. g4 Ne5 12. Bxe5 dxe5 13. Ne2 b5 14. Bb3 Nd7
-15. h4 Be7 16. g5 Nc5 17. Rh3 a5 18. c3 Nxb3 19. axb3 a4 20. b4 c5 21. bxc5
-Bxc5 22. Qf5 Qd6 23. Rd1 a3 24. bxa3 Rxa3 25. d4 exd4 26. Nxd4 Bxd4 27. Rxd4
-Ra1+ 28. Ke2 Qa3 29. Rhd3 Qc1 30. Kf3 Qg1 31. Ke2 Qe1+ 32. Kf3 Ra2 33. Qh3 Qf2+
-34. Kg4 g6 35. Qf3 Qg1+ 36. Qg3 Rg2 {Source: bulletin} 0-1
+1. e4 e5 2. Nc3 Nf6 3. Bc4 c6 4. Qe2 Bc5 5. d3 d6 6. f4 Bg4 7. Nf3 exf4 8.
+Bxf4 O-O 9. h3 Bxf3 10. Qxf3 Nbd7 11. g4 Ne5 12. Bxe5 dxe5 13. Ne2 b5 14.
+Bb3 Nd7 15. h4 Be7 16. g5 Nc5 17. Rh3 a5 18. c3 Nxb3 19. axb3 a4 20. b4 c5
+21. bxc5 Bxc5 22. Qf5 Qd6 23. Rd1 a3 24. bxa3 Rxa3 25. d4 exd4 26. Nxd4
+Bxd4 27. Rxd4 Ra1+ 28. Ke2 Qa3 29. Rhd3 Qc1 30. Kf3 Qg1 31. Ke2 Qe1+ 32.
+Kf3 Ra2 33. Qh3 Qf2+ 34. Kg4 g6 35. Qf3 Qg1+ 36. Qg3 Rg2 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1150,18 +1119,18 @@ Ra1+ 28. Ke2 Qa3 29. Rhd3 Qc1 30. Kf3 Qg1 31. Ke2 Qe1+ 32. Kf3 Ra2 33. Qh3 Qf2+
 [Black "Gibbs, Peter Campbell"]
 [Result "1-0"]
 [ECO "E87"]
-[PlyCount "67"]
 [EventDate "1955.08.22"]
+[PlyCount "67"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. d5 g6 5. e4 Bg7 6. f3 Nh5 7. Be3 O-O 8. Qd2 f5
-9. exf5 gxf5 10. Bd3 a6 11. Nge2 Nd7 12. O-O-O Ndf6 13. Bg5 Qe8 14. Rde1 Bd7
-15. h3 Bh8 16. g4 Ng7 17. Ng3 Qf7 18. gxf5 Nfh5 19. Rhg1 Nxg3 20. Rxg3 Bxf5 21.
-Reg1 Bxd3 22. Qxd3 Qf5 23. Ne4 Rae8 24. Qd2 Rf7 25. Qg2 h5 26. Bf6 Qf4+ 27. Kd1
-Ree7 28. Bxe7 Rxe7 29. Qd2 Qf8 30. Qh6 Rf7 31. Rg6 Rxf3 32. Nf6+ Kf7 33. Nh7
-Qg8 34. Ng5+ {Source: bulletin} 1-0
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. d5 g6 5. e4 Bg7 6. f3 Nh5 7. Be3 O-O 8. Qd2
+f5 9. exf5 gxf5 10. Bd3 a6 11. Nge2 Nd7 12. O-O-O Ndf6 13. Bg5 Qe8 14. Rde1
+Bd7 15. h3 Bh8 16. g4 Ng7 17. Ng3 Qf7 18. gxf5 Nfh5 19. Rhg1 Nxg3 20. Rxg3
+Bxf5 21. Reg1 Bxd3 22. Qxd3 Qf5 23. Ne4 Rae8 24. Qd2 Rf7 25. Qg2 h5 26. Bf6
+Qf4+ 27. Kd1 Ree7 28. Bxe7 Rxe7 29. Qd2 Qf8 30. Qh6 Rf7 31. Rg6 Rxf3 32.
+Nf6+ Kf7 33. Nh7 Qg8 34. Ng5+ 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1171,20 +1140,20 @@ Qg8 34. Ng5+ {Source: bulletin} 1-0
 [Black "Aitken, James Macrae"]
 [Result "1/2-1/2"]
 [ECO "D52"]
-[PlyCount "97"]
 [EventDate "1955.08.22"]
+[PlyCount "97"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. Nd2 Bb4 8. Qc2
-O-O 9. Bh4 c5 10. Bd3 Re8 11. O-O Bxc3 12. bxc3 Qc7 13. f4 dxc4 14. Nxc4 b5 15.
-Ne5 c4 16. Be2 Nd5 17. Rf3 f6 18. Nxd7 Bxd7 19. Bg3 f5 20. Be1 Bc6 21. Rh3 Nf6
-22. Bh4 Ne4 23. Bf3 Kh8 24. Bh5 Rf8 25. Bg6 h6 26. Rc1 Kg8 27. Qe2 Be8 28. Bxe8
-Raxe8 29. Rf3 Qf7 30. Rff1 Rb8 31. Qb2 Qc7 32. Rc2 a5 33. a3 Rf7 34. Rb1 Rb7
-35. Be1 Qe7 36. Qc1 g6 37. Ra1 Qe8 38. a4 bxa4 39. Rca2 Qb5 40. Rxa4 Ra7 41.
-Qa3 Rfb7 42. Qa2 Nd6 43. Kf1 Qb2 44. Rxa5 Qxa2 45. R5xa2 Rxa2 46. Rxa2 Ne4 47.
-Ra4 Rb1 48. Ke2 Rb2+ 49. Kf1 {Source: Peter Parr} 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Nbd7 5. e3 c6 6. Nf3 Qa5 7. Nd2 Bb4 8.
+Qc2 O-O 9. Bh4 c5 10. Bd3 Re8 11. O-O Bxc3 12. bxc3 Qc7 13. f4 dxc4 14.
+Nxc4 b5 15. Ne5 c4 16. Be2 Nd5 17. Rf3 f6 18. Nxd7 Bxd7 19. Bg3 f5 20. Be1
+Bc6 21. Rh3 Nf6 22. Bh4 Ne4 23. Bf3 Kh8 24. Bh5 Rf8 25. Bg6 h6 26. Rc1 Kg8
+27. Qe2 Be8 28. Bxe8 Raxe8 29. Rf3 Qf7 30. Rff1 Rb8 31. Qb2 Qc7 32. Rc2 a5
+33. a3 Rf7 34. Rb1 Rb7 35. Be1 Qe7 36. Qc1 g6 37. Ra1 Qe8 38. a4 bxa4 39.
+Rca2 Qb5 40. Rxa4 Ra7 41. Qa3 Rfb7 42. Qa2 Nd6 43. Kf1 Qb2 44. Rxa5 Qxa2
+45. R5xa2 Rxa2 46. Rxa2 Ne4 47. Ra4 Rb1 48. Ke2 Rb2+ 49. Kf1 1/2-1/2
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1194,19 +1163,18 @@ Ra4 Rb1 48. Ke2 Rb2+ 49. Kf1 {Source: Peter Parr} 1/2-1/2
 [Black "Phillips, Alan"]
 [Result "1-0"]
 [ECO "C44"]
-[PlyCount "71"]
 [EventDate "1955.08.22"]
+[PlyCount "71"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 Bg4 7. Be2 O-O-O
-8. Be3 Nf6 9. h3 Bxf3 10. Bxf3 Qd7 11. O-O Nxd4 12. Bxd4 Qxd4 13. Qb3 Qb6 14.
-Qxf7 Qxb2 15. Nd2 Qxd2 16. Rad1 Rd7 17. Bg4 Nxg4 18. Qe8+ Rd8 19. Qe6+ Qd7 20.
-Rxd7 Rxd7 21. hxg4 Bd6 22. g5 g6 23. f4 Rhd8 24. f5 gxf5 25. Rxf5 Kb8 26. Rf7
-Bc5+ 27. Kh2 Rd3 28. Rxh7 Bd6+ 29. g3 a6 30. Qf6 Bxg3+ 31. Kg2 R8d6 32. Qf8+
-Ka7 33. Rh3 Be5 34. Rxd3 Rxd3 35. Qc5+ b6 36. Qxe5 {Source: bulletin; The
-Times, 2 Sept 1955; (moves 11-end) BCM, Oct 1955, p296} 1-0
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 Bg4 7. Be2
+O-O-O 8. Be3 Nf6 9. h3 Bxf3 10. Bxf3 Qd7 11. O-O Nxd4 12. Bxd4 Qxd4 13. Qb3
+Qb6 14. Qxf7 Qxb2 15. Nd2 Qxd2 16. Rad1 Rd7 17. Bg4 Nxg4 18. Qe8+ Rd8 19.
+Qe6+ Qd7 20. Rxd7 Rxd7 21. hxg4 Bd6 22. g5 g6 23. f4 Rd8 24. f5 gxf5 25.
+Rxf5 Kb8 26. Rf7 Bc5+ 27. Kh2 Rd3 28. Rxh7 Bd6+ 29. g3 a6 30. Qf6 Bxg3+ 31.
+Kg2 R8d6 32. Qf8+ Ka7 33. Rh3 Be5 34. Rxd3 Rxd3 35. Qc5+ b6 36. Qxe5 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1216,19 +1184,19 @@ Times, 2 Sept 1955; (moves 11-end) BCM, Oct 1955, p296} 1-0
 [Black "Abrahams, Gerald"]
 [Result "0-1"]
 [ECO "D31"]
-[PlyCount "78"]
 [EventDate "1955.08.22"]
+[PlyCount "78"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 Bb4 5. e5 Ne7 6. a3 Bxc3+ 7. bxc3 O-O 8. Bd3
-dxc4 9. Bxc4 c5 10. Nf3 Nbc6 11. O-O cxd4 12. cxd4 Nf5 13. Be3 Nce7 14. Bg5 h6
-15. Bxe7 Nxe7 16. Qd3 Bd7 17. Nd2 Bc6 18. Ne4 Nf5 19. Rad1 Qh4 20. d5 exd5 21.
-Bxd5 Bxd5 22. Qxd5 Ne7 23. Qxb7 Rab8 24. Nf6+ gxf6 25. Qxe7 Rfe8 26. Qxa7 Ra8
-27. Qb7 fxe5 28. Rd7 Qf6 29. Qb3 e4 30. a4 Ra5 31. Rfd1 Rg5 32. R1d5 Rg7 33. a5
-Re6 34. Qa3 Rg6 35. Rd8+ Kh7 36. Ra8 Qf3 37. Qxf3 exf3 38. Rd1 Rxg2+ 39. Kh1
-Re4 {Source: bulletin} 0-1
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 Bb4 5. e5 Ne7 6. a3 Bxc3+ 7. bxc3 O-O 8.
+Bd3 dxc4 9. Bxc4 c5 10. Nf3 Nbc6 11. O-O cxd4 12. cxd4 Nf5 13. Be3 Nce7 14.
+Bg5 h6 15. Bxe7 Nxe7 16. Qd3 Bd7 17. Nd2 Bc6 18. Ne4 Nf5 19. Rad1 Qh4 20.
+d5 exd5 21. Bxd5 Bxd5 22. Qxd5 Ne7 23. Qxb7 Rab8 24. Nf6+ gxf6 25. Qxe7
+Rfe8 26. Qxa7 Ra8 27. Qb7 fxe5 28. Rd7 Qf6 29. Qb3 e4 30. a4 Ra5 31. Rfd1
+Rg5 32. R1d5 Rg7 33. a5 Re6 34. Qa3 Rg6 35. Rd8+ Kh7 36. Ra8 Qf3 37. Qxf3
+exf3 38. Rd1 Rxg2+ 39. Kh1 Re4 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1238,24 +1206,24 @@ Re4 {Source: bulletin} 0-1
 [Black "Golombek, Harry"]
 [Result "0-1"]
 [ECO "A30"]
-[PlyCount "144"]
 [EventDate "1955.08.22"]
+[PlyCount "144"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 c5 5. Nc3 g6 6. O-O Bg7 7. Re1 d6 8. e4 e5
-9. d3 O-O 10. h3 Nc6 11. Be3 Nd4 12. Qd2 Qd7 13. Kh2 Bc6 14. Bh6 Bxh6 15. Qxh6
-Nc2 16. Ng5 Nd4 17. Rf1 Ne6 18. f4 exf4 19. Rxf4 Nxg5 20. Rxf6 Ne6 21. Raf1
-Rae8 22. e5 Bxg2 23. Kxg2 dxe5 24. Nd5 Nc7 25. Ne3 Re6 26. Ng4 Ne8 27. Kh2 Rxf6
-28. Rxf6 Qxd3 29. h4 Qc2+ 30. Kh3 Qd1 31. Rf2 Qd7 32. h5 Ng7 33. hxg6 hxg6 34.
-Qg5 Nh5 35. Kh2 Qd4 36. Rd2 Qxc4 37. Nxe5 Qf1 38. Ng4 Re8 39. Ne3 Qf3 40. Ng2
-Re2 41. Rxe2 Qxe2 42. g4 Ng7 43. Qd8+ Ne8 44. b3 Kg7 45. g5 Qe5+ 46. Kh3 Qe6+
-47. Kh4 Nd6 48. Nf4 Nf5+ 49. Kg4 Qd6 50. Qxd6 Nxd6 51. Nd5 Ne8 52. Kf4 f6 53.
-gxf6+ Nxf6 54. Ne7 Kf7 55. Nc8 Nd5+ 56. Ke5 Nb4 57. Nxa7 Nxa2 58. Nc8 Nc1 59.
-Nxb6 Nxb3 60. Kd5 g5 61. Nd7 Ke7 62. Ne5 Kf6 63. Ng4+ Kf5 64. Nh6+ Kf4 65. Kc4
-Nd4 66. Kxc5 Nf5 67. Ng8 Ke5 68. Kc4 Ke6 69. Kd3 Kf7 70. Ke4 Nd6+ 71. Kf3 Kxg8
-72. Kg4 Nf7 {Source: bulletin} 0-1
+1. Nf3 Nf6 2. c4 b6 3. g3 Bb7 4. Bg2 c5 5. Nc3 g6 6. O-O Bg7 7. Re1 d6 8.
+e4 e5 9. d3 O-O 10. h3 Nc6 11. Be3 Nd4 12. Qd2 Qd7 13. Kh2 Bc6 14. Bh6 Bxh6
+15. Qxh6 Nc2 16. Ng5 Nd4 17. Rf1 Ne6 18. f4 exf4 19. Rxf4 Nxg5 20. Rxf6 Ne6
+21. Raf1 Rae8 22. e5 Bxg2 23. Kxg2 dxe5 24. Nd5 Nc7 25. Ne3 Re6 26. Ng4 Ne8
+27. Kh2 Rxf6 28. Rxf6 Qxd3 29. h4 Qc2+ 30. Kh3 Qd1 31. Rf2 Qd7 32. h5 Ng7
+33. hxg6 hxg6 34. Qg5 Nh5 35. Kh2 Qd4 36. Rd2 Qxc4 37. Nxe5 Qf1 38. Ng4 Re8
+39. Ne3 Qf3 40. Ng2 Re2 41. Rxe2 Qxe2 42. g4 Ng7 43. Qd8+ Ne8 44. b3 Kg7
+45. g5 Qe5+ 46. Kh3 Qe6+ 47. Kh4 Nd6 48. Nf4 Nf5+ 49. Kg4 Qd6 50. Qxd6 Nxd6
+51. Nd5 Ne8 52. Kf4 f6 53. gxf6+ Nxf6 54. Ne7 Kf7 55. Nc8 Nd5+ 56. Ke5 Nb4
+57. Nxa7 Nxa2 58. Nc8 Nc1 59. Nxb6 Nxb3 60. Kd5 g5 61. Nd7 Ke7 62. Ne5 Kf6
+63. Ng4+ Kf5 64. Nh6+ Kf4 65. Kc4 Nd4 66. Kxc5 Nf5 67. Ng8 Ke5 68. Kc4 Ke6
+69. Kd3 Kf7 70. Ke4 Nd6+ 71. Kf3 Kxg8 72. Kg4 Nf7 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1265,19 +1233,19 @@ Nd4 66. Kxc5 Nf5 67. Ng8 Ke5 68. Kc4 Ke6 69. Kd3 Kf7 70. Ke4 Nd6+ 71. Kf3 Kxg8
 [Black "Purdy, John Spencer"]
 [Result "1/2-1/2"]
 [ECO "D02"]
-[PlyCount "82"]
 [EventDate "1955.08.22"]
+[PlyCount "82"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. Nf3 d5 2. g3 Nf6 3. Bg2 Nc6 4. d4 Bf5 5. c4 dxc4 6. Qa4 Nd7 7. Qxc4 Nb6 8.
-Qb3 e6 9. O-O Be4 10. e3 Nb4 11. Ne1 Bxg2 12. Nxg2 Qd5 13. Qd1 O-O-O 14. a3 Nc6
-15. Nc3 Qd7 16. b4 h5 17. Qe2 g5 18. Bb2 Bg7 19. Rac1 f5 20. Rc2 Kb8 21. Rfc1
-Rc8 22. b5 Ne7 23. a4 Ned5 24. a5 Nxc3 25. Bxc3 Nd5 26. Bb2 Bf6 27. a6 b6 28.
-e4 fxe4 29. Qxe4 Qxb5 30. Qxe6 Rhe8 31. Qf5 c6 32. Qd7 Nc7 33. Qxc6 Qxc6 34.
-Rxc6 Ne6 35. Ba3 Rxc6 36. Rxc6 Bxd4 37. Bd6+ Ka8 38. Ne3 Bc5 39. Nd5 Bxd6 40.
-Rxd6 Kb8 41. Nf6 Re7 1/2-1/2
+1. Nf3 d5 2. g3 Nf6 3. Bg2 Nc6 4. d4 Bf5 5. c4 dxc4 6. Qa4 Nd7 7. Qxc4 Nb6
+8. Qb3 e6 9. O-O Be4 10. e3 Nb4 11. Ne1 Bxg2 12. Nxg2 Qd5 13. Qd1 O-O-O 14.
+a3 Nc6 15. Nc3 Qd7 16. b4 h5 17. Qe2 g5 18. Bb2 Bg7 19. Rac1 f5 20. Rc2 Kb8
+21. Rfc1 Rc8 22. b5 Ne7 23. a4 Ned5 24. a5 Nxc3 25. Bxc3 Nd5 26. Bb2 Bf6
+27. a6 b6 28. e4 fxe4 29. Qxe4 Qxb5 30. Qxe6 Rhe8 31. Qf5 c6 32. Qd7 Nc7
+33. Qxc6 Qxc6 34. Rxc6 Ne6 35. Ba3 Rxc6 36. Rxc6 Bxd4 37. Bd6+ Ka8 38. Ne3
+Bc5 39. Nd5 Bxd6 40. Rxd6 Kb8 41. Nf6 Re7 1/2-1/2
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1287,17 +1255,17 @@ Rxd6 Kb8 41. Nf6 Re7 1/2-1/2
 [Black "Penrose, Jonathan"]
 [Result "1-0"]
 [ECO "C14"]
-[PlyCount "53"]
 [EventDate "1955.08.22"]
+[PlyCount "53"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Ne4 6. Nxe4 dxe4 7. Be3 c5 8.
-dxc5 Qc7 9. Qd4 Nd7 10. Qxe4 Nxe5 11. Nf3 Nxf3+ 12. Qxf3 Bd7 13. O-O-O Rc8 14.
-Bc4 b5 15. Rxd7 Qxd7 16. Rd1 Qxd1+ 17. Kxd1 bxc4 18. Qb7 Rd8+ 19. Ke2 Bf6 20.
-Qb5+ Rd7 21. c6 Rc7 22. Bxa7 O-O 23. Bb8 Rcc8 24. c7 c3 25. b4 Bd4 26. a4 e5
-27. a5 {Source: bulletin; (moves 14-end) BCM, Oct 1955, p296} 1-0
+dxc5 Qc7 9. Qd4 Nd7 10. Qxe4 Nxe5 11. Nf3 Nxf3+ 12. Qxf3 Bd7 13. O-O-O Rc8
+14. Bc4 b5 15. Rxd7 Qxd7 16. Rd1 Qxd1+ 17. Kxd1 bxc4 18. Qb7 Rd8+ 19. Ke2
+Bf6 20. Qb5+ Rd7 21. c6 Rc7 22. Bxa7 O-O 23. Bb8 Rcc8 24. c7 c3 25. b4 Bd4
+26. a4 e5 27. a5 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1307,19 +1275,19 @@ Qb5+ Rd7 21. c6 Rc7 22. Bxa7 O-O 23. Bb8 Rcc8 24. c7 c3 25. b4 Bd4 26. a4 e5
 [Black "Walker, J."]
 [Result "1-0"]
 [ECO "A21"]
-[PlyCount "77"]
 [EventDate "1955.08.22"]
+[PlyCount "77"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. c4 e5 2. Nc3 f5 3. g3 Nf6 4. Bg2 d6 5. d3 Be7 6. Nf3 c6 7. e4 Na6 8. O-O O-O
-9. a3 Qe8 10. h3 fxe4 11. dxe4 Qh5 12. Nh2 Qf7 13. b3 Nc7 14. Ra2 Ne6 15. Be3
-g5 16. f4 exf4 17. gxf4 gxf4 18. Bxf4 Nxf4 19. Rxf4 d5 20. e5 Bc5+ 21. Kh1 Nh5
-22. Bxd5 Nxf4 23. Bxf7+ Rxf7 24. Ne4 Be7 25. Ng4 Bxg4 26. Qxg4+ Ng6 27. c5 Kh8
-28. Nd6 Rf4 29. Qe6 Raf8 30. Kh2 Bh4 31. Rg2 Rf2 32. Rxf2 Rxf2+ 33. Kg1 Rg2+
-34. Kh1 Rf2 35. Nf5 Rf1+ 36. Kh2 Rf2+ 37. Kg1 Rg2+ 38. Kh1 Nf8 39. Qf7 {Source:
-bulletin} 1-0
+1. c4 e5 2. Nc3 f5 3. g3 Nf6 4. Bg2 d6 5. d3 Be7 6. Nf3 c6 7. e4 Na6 8. O-O
+O-O 9. a3 Qe8 10. h3 fxe4 11. dxe4 Qh5 12. Nh2 Qf7 13. b3 Nc7 14. Ra2 Ne6
+15. Be3 g5 16. f4 exf4 17. gxf4 gxf4 18. Bxf4 Nxf4 19. Rxf4 d5 20. e5 Bc5+
+21. Kh1 Nh5 22. Bxd5 Nxf4 23. Bxf7+ Rxf7 24. Ne4 Be7 25. Ng4 Bxg4 26. Qxg4+
+Ng6 27. c5 Kh8 28. Nd6 Rf4 29. Qe6 Raf8 30. Kh2 Bh4 31. Rg2 Rf2 32. Rxf2
+Rxf2+ 33. Kg1 Rg2+ 34. Kh1 Rf2 35. Nf5 Rf1+ 36. Kh2 Rf2+ 37. Kg1 Rg2+ 38.
+Kh1 Nf8 39. Qf7 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1329,20 +1297,20 @@ bulletin} 1-0
 [Black "Parr, Frank"]
 [Result "0-1"]
 [ECO "B50"]
-[PlyCount "90"]
 [EventDate "1955.08.22"]
+[PlyCount "90"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 c5 2. Nf3 d6 3. g3 e5 4. Bg2 Nc6 5. c3 Be7 6. d3 Nf6 7. Na3 O-O 8. O-O
-Bg4 9. Nc2 d5 10. Ne3 Be6 11. Ng5 d4 12. Nf5 Bxf5 13. exf5 dxc3 14. bxc3 Qd7
-15. Ne4 Qxf5 16. Ba3 Nxe4 17. Bxe4 Qe6 18. Rb1 Rab8 19. Qa4 Rfd8 20. Rfe1 Qd6
-21. Bxc6 bxc6 22. Rxb8 Qxb8 23. d4 Bf8 24. dxe5 Qc7 25. e6 fxe6 26. Qc4 Rd5 27.
-Rxe6 Qf7 28. Qe4 Rd2 29. Qe3 Rxa2 30. Bc1 Rxf2 31. Re8 Rf1+ 32. Kg2 Rd1 33.
-Rxf8+ Qxf8 34. Qe6+ Kh8 35. Bf4 Qd8 36. c4 Qg8 37. Qxc6 Qxc4 38. Qa8+ Qg8 39.
-Qxa7 c4 40. Qc7 Qd5+ 41. Kf2 Qd4+ 42. Kg2 Qe4+ 43. Kh3 h6 44. Be5 Qf5+ 45. Kh4
-Qg5+ {Sources: bulletin; Peter Parr} 0-1
+1. e4 c5 2. Nf3 d6 3. g3 e5 4. Bg2 Nc6 5. c3 Be7 6. d3 Nf6 7. Na3 O-O 8.
+O-O Bg4 9. Nc2 d5 10. Ne3 Be6 11. Ng5 d4 12. Nf5 Bxf5 13. exf5 dxc3 14.
+bxc3 Qd7 15. Ne4 Qxf5 16. Ba3 Nxe4 17. Bxe4 Qe6 18. Rb1 Rab8 19. Qa4 Rfd8
+20. Rfe1 Qd6 21. Bxc6 bxc6 22. Rxb8 Qxb8 23. d4 Bf8 24. dxe5 Qc7 25. e6
+fxe6 26. Qc4 Rd5 27. Rxe6 Qf7 28. Qe4 Rd2 29. Qe3 Rxa2 30. Bc1 Rxf2 31. Re8
+Rf1+ 32. Kg2 Rd1 33. Rxf8+ Qxf8 34. Qe6+ Kh8 35. Bf4 Qd8 36. c4 Qg8 37.
+Qxc6 Qxc4 38. Qa8+ Qg8 39. Qxa7 c4 40. Qc7 Qd5+ 41. Kf2 Qd4+ 42. Kg2 Qe4+
+43. Kh3 h6 44. Be5 Qf5+ 45. Kh4 Qg5+ 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1352,18 +1320,18 @@ Qg5+ {Sources: bulletin; Peter Parr} 0-1
 [Black "Beach, Thomas John"]
 [Result "1-0"]
 [ECO "E73"]
-[PlyCount "63"]
 [EventDate "1955.08.22"]
+[PlyCount "63"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Be3 e5 7. d5 Nbd7 8. h4
-Nc5 9. Bf3 Bd7 10. b4 Na6 11. Rb1 b6 12. h5 Qe7 13. Qe2 Nb8 14. Nh3 a5 15. b5
-Bc8 16. Kd2 Nbd7 17. g4 Nc5 18. Rbg1 Nfd7 19. g5 f5 20. gxf6 Qxf6 21. Rg3 Re8
-22. hxg6 hxg6 23. Ng5 Nf8 24. Bg4 Qd8 25. Rgh3 Bd7 26. Qf3 Re7 27. Rh4 Bxg4 28.
-Qxg4 Qd7 29. Qg2 Bf6 30. R1h2 Bxg5 31. Rh8+ Kf7 32. Bxg5 {Source: bulletin; 
-(moves 22-end) BCM, Oct 1955, p297} 1-0
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Be3 e5 7. d5 Nbd7 8.
+h4 Nc5 9. Bf3 Bd7 10. b4 Na6 11. Rb1 b6 12. h5 Qe7 13. Qe2 Nb8 14. Nh3 a5
+15. b5 Bc8 16. Kd2 Nbd7 17. g4 Nc5 18. Rbg1 Nfd7 19. g5 f5 20. gxf6 Qxf6
+21. Rg3 Re8 22. hxg6 hxg6 23. Ng5 Nf8 24. Bg4 Qd8 25. Rgh3 Bd7 26. Qf3 Re7
+27. Rh4 Bxg4 28. Qxg4 Qd7 29. Qg2 Bf6 30. R1h2 Bxg5 31. Rh8+ Kf7 32. Bxg5
+1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1373,19 +1341,19 @@ Qxg4 Qd7 29. Qg2 Bf6 30. R1h2 Bxg5 31. Rh8+ Kf7 32. Bxg5 {Source: bulletin;
 [Black "Barden, Leonard William"]
 [Result "0-1"]
 [ECO "B26"]
-[PlyCount "76"]
 [EventDate "1955.08.22"]
+[PlyCount "76"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Rb8 7. f4 Nf6 8. h3 O-O
-9. Nge2 Bd7 10. g4 b5 11. Ng3 b4 12. Nce2 Ne8 13. f5 Bxb2 14. Bh6 Ng7 15. Rb1
-Be5 16. h4 Nd4 17. Bf4 Qa5 18. O-O Rbc8 19. Bxe5 dxe5 20. Rf2 Ba4 21. Nxd4 cxd4
-22. g5 Rc6 23. h5 Qc5 24. Rc1 Ne8 25. fxg6 hxg6 26. Nf5 gxf5 27. exf5 e4 28.
-Bxe4 Nd6 29. g6 Nxe4 30. dxe4 d3 31. Qxd3 fxg6 32. Qg3 Rcf6 33. hxg6 Kg7 34.
-Kg2 Bc6 35. Re1 Rxf5 36. Rxf5 Rxf5 37. Qh4 Rh5 38. Qf4 Rg5+ {time - Source:
-bulletin} 0-1
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3 Rb8 7. f4 Nf6 8. h3
+O-O 9. Nge2 Bd7 10. g4 b5 11. Ng3 b4 12. Nce2 Ne8 13. f5 Bxb2 14. Bh6 Ng7
+15. Rb1 Be5 16. h4 Nd4 17. Bf4 Qa5 18. O-O Rbc8 19. Bxe5 dxe5 20. Rf2 Ba4
+21. Nxd4 cxd4 22. g5 Rc6 23. h5 Qc5 24. Rc1 Ne8 25. fxg6 hxg6 26. Nf5 gxf5
+27. exf5 e4 28. Bxe4 Nd6 29. g6 Nxe4 30. dxe4 d3 31. Qxd3 fxg6 32. Qg3 Rcf6
+33. hxg6 Kg7 34. Kg2 Bc6 35. Re1 Rxf5 36. Rxf5 Rxf5 37. Qh4 Rh5 38. Qf4
+Rg5+ 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1395,21 +1363,21 @@ bulletin} 0-1
 [Black "Moore, BJ."]
 [Result "0-1"]
 [ECO "B17"]
-[PlyCount "102"]
 [EventDate "1955.08.22"]
+[PlyCount "102"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 Be7 8.
-O-O O-O 9. Qe2 c5 10. Rd1 Qc7 11. c4 Re8 12. b3 b6 13. Bb2 Bb7 14. Ne5 Rad8 15.
-Ne4 Bxe4 16. Bxe4 Nxe4 17. Qxe4 Nxe5 18. dxe5 Rd7 19. Kf1 Red8 20. Ke2 h5 21.
-a4 Bg5 22. Bc3 g6 23. h3 Kg7 24. f4 Bh6 25. g4 hxg4 26. hxg4 Kg8 27. Rxd7 Qxd7
-28. Rf1 Bxf4 29. Rxf4 Qd1+ 30. Kf2 Rd3 31. Be1 Rxb3 32. Rf3 Rb2+ 33. Kf1 Qc1
-34. Qd3 Kg7 35. Qe3 Qxc4+ 36. Qd3 Qxg4 37. Rg3 Qf4+ 38. Rf3 Qh2 39. Rg3 Qh1+
-40. Rg1 Qh5 41. Rg2 Qh1+ 42. Rg1 Qd5 43. Rg3 Ra2 44. a5 b5 45. Qe3 Qc4+ 46. Qd3
-Qxd3+ 47. Rxd3 b4 48. Bh4 g5 49. Bxg5 c4 50. Rd1 b3 51. Bd2 Rxd2 {Source:
-bulletin} 0-1
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 Be7
+8. O-O O-O 9. Qe2 c5 10. Rd1 Qc7 11. c4 Re8 12. b3 b6 13. Bb2 Bb7 14. Ne5
+Rad8 15. Ne4 Bxe4 16. Bxe4 Nxe4 17. Qxe4 Nxe5 18. dxe5 Rd7 19. Kf1 Red8 20.
+Ke2 h5 21. a4 Bg5 22. Bc3 g6 23. h3 Kg7 24. f4 Bh6 25. g4 hxg4 26. hxg4 Kg8
+27. Rxd7 Qxd7 28. Rf1 Bxf4 29. Rxf4 Qd1+ 30. Kf2 Rd3 31. Be1 Rxb3 32. Rf3
+Rb2+ 33. Kf1 Qc1 34. Qd3 Kg7 35. Qe3 Qxc4+ 36. Qd3 Qxg4 37. Rg3 Qf4+ 38.
+Rf3 Qh2 39. Rg3 Qh1+ 40. Rg1 Qh5 41. Rg2 Qh1+ 42. Rg1 Qd5 43. Rg3 Ra2 44.
+a5 b5 45. Qe3 Qc4+ 46. Qd3 Qxd3+ 47. Rxd3 b4 48. Bh4 g5 49. Bxg5 c4 50. Rd1
+b3 51. Bd2 Rxd2 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1419,21 +1387,21 @@ bulletin} 0-1
 [Black "Aitken, James Macrae"]
 [Result "1-0"]
 [ECO "E02"]
-[PlyCount "109"]
 [EventDate "1955.08.22"]
+[PlyCount "109"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Bd7 6. Qxc4 Bc6 7. Nf3 Nbd7 8.
-Nc3 Be7 9. O-O O-O 10. Qd3 Nd5 11. Nxd5 exd5 12. Bf4 a6 13. Rac1 Rc8 14. Rfd1
-Ba4 15. b3 Bb5 16. Qd2 Ba3 17. Rc2 f6 18. Ne1 Nb6 19. Nd3 Bd6 20. Nc5 Qe7 21.
-Nxb7 Bb4 22. Qe3 Qf7 23. Qc1 Na8 24. a3 Be7 25. Nc5 g5 26. Be3 Bxc5 27. Rxc5
-Nb6 28. a4 Bxe2 29. Rd2 Qh5 30. a5 Nd7 31. Bxd5+ Kh8 32. Rxc7 Rxc7 33. Qxc7 Bg4
-34. f3 Qe8 35. Bf2 Bf5 36. g4 Bg6 37. Bc6 Rf7 38. Qd6 Kg7 39. b4 h5 40. h3 Re7
-41. b5 axb5 42. a6 Qf8 43. Kg2 hxg4 44. hxg4 Nb6 45. Bxb5 Nc8 46. Qc5 Qd8 47.
-d5 Qa5 48. d6 Re5 49. Rd5 Rxd5 50. Qxd5 Bf7 51. Qc6 Nxd6 52. a7 Be8 53. Qxd6
-Bxb5 54. Qe7+ Kg6 55. Qe4+ {Source: bulletin} 1-0
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Bd7 6. Qxc4 Bc6 7. Nf3 Nbd7
+8. Nc3 Be7 9. O-O O-O 10. Qd3 Nd5 11. Nxd5 exd5 12. Bf4 a6 13. Rac1 Rc8 14.
+Rfd1 Ba4 15. b3 Bb5 16. Qd2 Ba3 17. Rc2 f6 18. Ne1 Nb6 19. Nd3 Bd6 20. Nc5
+Qe7 21. Nxb7 Bb4 22. Qe3 Qf7 23. Qc1 Na8 24. a3 Be7 25. Nc5 g5 26. Be3 Bxc5
+27. Rxc5 Nb6 28. a4 Bxe2 29. Rd2 Qh5 30. a5 Nd7 31. Bxd5+ Kh8 32. Rxc7 Rxc7
+33. Qxc7 Bg4 34. f3 Qe8 35. Bf2 Bf5 36. g4 Bg6 37. Bc6 Rf7 38. Qd6 Kg7 39.
+b4 h5 40. h3 Re7 41. b5 axb5 42. a6 Qf8 43. Kg2 hxg4 44. hxg4 Nb6 45. Bxb5
+Nc8 46. Qc5 Qd8 47. d5 Qa5 48. d6 Re5 49. Rd5 Rxd5 50. Qxd5 Bf7 51. Qc6
+Nxd6 52. a7 Be8 53. Qxd6 Bxb5 54. Qe7+ Kg6 55. Qe4+ 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1443,21 +1411,21 @@ Bxb5 54. Qe7+ Kg6 55. Qe4+ {Source: bulletin} 1-0
 [Black "Milner-Barry, Philip Stuart"]
 [Result "0-1"]
 [ECO "E43"]
-[PlyCount "106"]
 [EventDate "1955.08.22"]
+[PlyCount "106"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. f3 O-O 7. Nge2 d5 8. cxd5
-exd5 9. O-O c5 10. a3 Bxc3 11. Nxc3 Nc6 12. Bb5 a6 13. Ba4 b5 14. Bc2 Qb6 15.
-Ne2 Rfe8 16. Kh1 c4 17. Qe1 b4 18. Qh4 Ne7 19. axb4 Qxb4 20. g4 Ng6 21. Qg3
-Rad8 22. g5 Nd7 23. h4 Nb6 24. h5 Nf8 25. Kg2 Qd6 26. Qh4 Qe7 27. Qg3 Rd6 28.
-Bd2 c3 29. bxc3 Nc4 30. Bc1 Re6 31. e4 dxe4 32. f4 e3+ 33. Kh3 Nd2 34. Re1 Ne4
-35. Bxe4 Rxe4 36. Kh2 Qc7 37. Ba3 Ne6 38. Rf1 Qc4 39. Qg4 Bc8 40. Qg2 Nxg5 41.
-Rg1 f6 42. Bd6 Bh3 43. fxg5 Bxg2 44. Rxg2 fxg5 45. Ra5 Rh4+ 46. Kg1 Qd3 47. Ra1
-Qf5 48. c4 Qh3 49. Bh2 Rf8 50. Rxa6 Rf2 51. Ra8+ Kf7 52. Ra7+ Ke8 53. Ra8+ Kd7
-{Sources: bulletin; Peter Parr; (moves 28-43) BCM, Oct 1955, p297} 0-1
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. f3 O-O 7. Ne2 d5 8.
+cxd5 exd5 9. O-O c5 10. a3 Bxc3 11. Nxc3 Nc6 12. Bb5 a6 13. Ba4 b5 14. Bc2
+Qb6 15. Ne2 Rfe8 16. Kh1 c4 17. Qe1 b4 18. Qh4 Ne7 19. axb4 Qxb4 20. g4 Ng6
+21. Qg3 Rad8 22. g5 Nd7 23. h4 Nb6 24. h5 Nf8 25. Kg2 Qd6 26. Qh4 Qe7 27.
+Qg3 Rd6 28. Bd2 c3 29. bxc3 Nc4 30. Bc1 Re6 31. e4 dxe4 32. f4 e3+ 33. Kh3
+Nd2 34. Re1 Ne4 35. Bxe4 Rxe4 36. Kh2 Qc7 37. Ba3 Ne6 38. Rf1 Qc4 39. Qg4
+Bc8 40. Qg2 Nxg5 41. Rg1 f6 42. Bd6 Bh3 43. fxg5 Bxg2 44. Rxg2 fxg5 45. Ra5
+Rh4+ 46. Kg1 Qd3 47. Ra1 Qf5 48. c4 Qh3 49. Bh2 Rf8 50. Rxa6 Rf2 51. Ra8+
+Kf7 52. Ra7+ Ke8 53. Ra8+ Kd7 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1467,15 +1435,15 @@ Qf5 48. c4 Qh3 49. Bh2 Rf8 50. Rxa6 Rf2 51. Ra8+ Kf7 52. Ra7+ Ke8 53. Ra8+ Kd7
 [Black "Wade, Robert Graham"]
 [Result "1/2-1/2"]
 [ECO "C44"]
-[PlyCount "30"]
 [EventDate "1955.08.22"]
+[PlyCount "30"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 Nf6 5. e5 Ne4 6. Qe2 d5 7. exd6 f5 8. Nbd2
-Bxd6 9. Nxe4 fxe4 10. Qxe4+ Qe7 11. Qxe7+ Bxe7 12. Nxd4 Nxd4 13. cxd4 Be6 14.
-Be2 O-O-O 15. O-O Bf6 {Source: bulletin} 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 Nf6 5. e5 Ne4 6. Qe2 d5 7. exd6 f5 8.
+Nbd2 Bxd6 9. Nxe4 fxe4 10. Qxe4+ Qe7 11. Qxe7+ Bxe7 12. Nxd4 Nxd4 13. cxd4
+Be6 14. Be2 O-O-O 15. O-O Bf6 1/2-1/2
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1485,17 +1453,17 @@ Be2 O-O-O 15. O-O Bf6 {Source: bulletin} 1/2-1/2
 [Black "Wood, Baruch Harold"]
 [Result "1-0"]
 [ECO "B74"]
-[PlyCount "55"]
 [EventDate "1955.08.22"]
+[PlyCount "55"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7 8.
-O-O O-O 9. Nb3 Be6 10. f4 Na5 11. f5 Bc4 12. g4 d5 13. e5 Nd7 14. Nxa5 Bxe2 15.
-Qxe2 Qxa5 16. Bd4 Rac8 17. Rad1 Rc4 18. Kh1 Rd8 19. fxg6 fxg6 20. e6 Nf6 21.
-Bxf6 Bxf6 22. Nxd5 Rd4 23. Rxd4 Bxd4 24. Nxe7+ Kh8 25. c4 Qe5 26. Qxe5+ Bxe5
-27. Nxg6+ hxg6 28. e7 {Sources: bulletin; Phillips Book 2003} 1-0
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 g6 7. Be3 Bg7
+8. O-O O-O 9. Nb3 Be6 10. f4 Na5 11. f5 Bc4 12. g4 d5 13. e5 Nd7 14. Nxa5
+Bxe2 15. Qxe2 Qxa5 16. Bd4 Rac8 17. Rad1 Rc4 18. Kh1 Rd8 19. fxg6 fxg6 20.
+e6 Nf6 21. Bxf6 Bxf6 22. Nxd5 Rd4 23. Rxd4 Bxd4 24. Nxe7+ Kh8 25. c4 Qe5
+26. Qxe5+ Bxe5 27. Nxg6+ hxg6 28. e7 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1505,19 +1473,19 @@ Bxf6 Bxf6 22. Nxd5 Rd4 23. Rxd4 Bxd4 24. Nxe7+ Kh8 25. c4 Qe5 26. Qxe5+ Bxe5
 [Black "Martin, Geoffrey J"]
 [Result "1-0"]
 [ECO "A52"]
-[PlyCount "81"]
 [EventDate "1955.08.22"]
+[PlyCount "81"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. c4 Nf6 2. d4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. Nc3 Bc5 6. Be2 O-O 7. Nf3 Nbc6 8.
-Nxe5 Nxe5 9. O-O a5 10. Kh1 d6 11. f4 Nc6 12. Nb5 Bd7 13. b3 Ne7 14. Bb2 f5 15.
-e5 Bxb5 16. cxb5 dxe5 17. Bxe5 Bd6 18. Qd4 Bxe5 19. Qxe5 Nc8 20. Rad1 Nd6 21.
-b6 Rf6 22. bxc7 Qxc7 23. Bc4+ Kh8 24. Rd5 Re8 25. Rfd1 Rfe6 26. Rxd6 Rxe5 27.
-fxe5 h6 28. e6 Qc5 29. a4 Qe3 30. Rd7 f4 31. Rf7 g5 32. Rf1 h5 33. Rf5 Rg8 34.
-Rd1 Kh7 35. Rf7+ Kh8 36. e7 h4 37. Rf8 h3 38. Rxg8+ Kh7 39. e8=Q hxg2+ 40. Kxg2
-f3+ 41. Kh1 {Source: bulletin} 1-0
+1. c4 Nf6 2. d4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. Nc3 Bc5 6. Be2 O-O 7. Nf3 Nbc6
+8. Nxe5 Nxe5 9. O-O a5 10. Kh1 d6 11. f4 Nc6 12. Nb5 Bd7 13. b3 Ne7 14. Bb2
+f5 15. e5 Bxb5 16. cxb5 dxe5 17. Bxe5 Bd6 18. Qd4 Bxe5 19. Qxe5 Nc8 20.
+Rad1 Nd6 21. b6 Rf6 22. bxc7 Qxc7 23. Bc4+ Kh8 24. Rd5 Re8 25. Rfd1 Rfe6
+26. Rxd6 Rxe5 27. fxe5 h6 28. e6 Qc5 29. a4 Qe3 30. Rd7 f4 31. Rf7 g5 32.
+Rf1 h5 33. Rf5 Rg8 34. Rd1 Kh7 35. Rf7+ Kh8 36. e7 h4 37. Rf8 h3 38. Rxg8+
+Kh7 39. e8=Q hxg2+ 40. Kxg2 f3+ 41. Kh1 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1527,20 +1495,19 @@ f3+ 41. Kh1 {Source: bulletin} 1-0
 [Black "Golombek, Harry"]
 [Result "0-1"]
 [ECO "E14"]
-[PlyCount "80"]
 [EventDate "1955.08.22"]
+[PlyCount "80"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. Nf3 b6 3. c4 Bb7 4. e3 e6 5. Bd3 Be7 6. Nc3 c5 7. O-O cxd4 8. Nxd4
-O-O 9. e4 d6 10. Qe2 Nbd7 11. b3 Rc8 12. Bb2 Qc7 13. Rac1 Rfe8 14. Kh1 a6 15.
-f4 Qc5 16. Nc2 Qh5 17. Rf3 Nc5 18. Ne1 Nxd3 19. Nxd3 d5 20. Nf2 dxc4 21. g4 Qa5
-22. g5 Nd7 23. Rh3 cxb3 24. axb3 Nf8 25. Rg1 Bc5 26. Rg2 Bd4 27. Qe1 Rc7 28.
-Rd3 Rd7 29. Qd2 Red8 30. h4 Qb4 31. Qe2 Bxf2 32. Rxd7 Rxd7 33. Rxf2 Qxb3 34. h5
-b5 35. h6 b4 36. Nd5 exd5 37. hxg7 dxe4 38. gxf8=Q+ Kxf8 39. Kh2 e3 40. Qg4 Qd1
-{Source: bulletin; Manchester Guardian, 22 Sept 1955; Glasgow Herald, 14 Oct
-1955; BCM, Oct 1955, p313} 0-1
+1. d4 Nf6 2. Nf3 b6 3. c4 Bb7 4. e3 e6 5. Bd3 Be7 6. Nc3 c5 7. O-O cxd4 8.
+Nxd4 O-O 9. e4 d6 10. Qe2 Nbd7 11. b3 Rc8 12. Bb2 Qc7 13. Rac1 Rfe8 14. Kh1
+a6 15. f4 Qc5 16. Nc2 Qh5 17. Rf3 Nc5 18. Ne1 Nxd3 19. Nxd3 d5 20. Nf2 dxc4
+21. g4 Qa5 22. g5 Nd7 23. Rh3 cxb3 24. axb3 Nf8 25. Rg1 Bc5 26. Rg2 Bd4 27.
+Qe1 Rc7 28. Rd3 Rd7 29. Qd2 Red8 30. h4 Qb4 31. Qe2 Bxf2 32. Rxd7 Rxd7 33.
+Rxf2 Qxb3 34. h5 b5 35. h6 b4 36. Nd5 exd5 37. hxg7 dxe4 38. gxf8=Q+ Kxf8
+39. Kh2 e3 40. Qg4 Qd1 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1550,13 +1517,13 @@ b5 35. h6 b4 36. Nd5 exd5 37. hxg7 dxe4 38. gxf8=Q+ Kxf8 39. Kh2 e3 40. Qg4 Qd1
 [Black "Griffiths, Arthur S"]
 [Result "0-1"]
 [ECO "A00"]
-[PlyCount "0"]
 [EventDate "1955.08.22"]
+[PlyCount "0"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-{White was taken ill before the game and defaulted}  0-1
+0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1566,16 +1533,16 @@ b5 35. h6 b4 36. Nd5 exd5 37. hxg7 dxe4 38. gxf8=Q+ Kxf8 39. Kh2 e3 40. Qg4 Qd1
 [Black "Wade, Robert Graham"]
 [Result "0-1"]
 [ECO "B34"]
-[PlyCount "40"]
 [EventDate "1955.08.22"]
+[PlyCount "40"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Nb3 O-O 8.
-Be2 b6 9. f4 Bb7 10. Bf3 e5 11. O-O Qe7 12. g3 Rad8 13. Qd2 d5 14. Qg2 exf4 15.
-Bxf4 Nd4 16. Nxd4 dxe4 17. Nxe4 Nxe4 18. c3 g5 19. Bxe4 Bxe4 20. Rfe1 Rxd4 {
-Source: bulletin; (moves 18-end) BCM, Oct 1955, p298} 0-1
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Nb3 O-O
+8. Be2 b6 9. f4 Bb7 10. Bf3 e5 11. O-O Qe7 12. g3 Rad8 13. Qd2 d5 14. Qg2
+exf4 15. Bxf4 Nd4 16. Nxd4 dxe4 17. Nxe4 Nxe4 18. c3 g5 19. Bxe4 Bxe4 20.
+Rfe1 Rxd4 0-1
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1585,19 +1552,19 @@ Source: bulletin; (moves 18-end) BCM, Oct 1955, p298} 0-1
 [Black "Penrose, Jonathan"]
 [Result "1-0"]
 [ECO "A80"]
-[PlyCount "81"]
 [EventDate "1955.08.22"]
+[PlyCount "81"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 f5 2. g4 fxg4 3. e4 d6 4. h3 e5 5. dxe5 dxe5 6. Qxd8+ Kxd8 7. Nc3 c6 8.
-Be2 Nf6 9. Bg5 gxh3 10. O-O-O+ Kc7 11. f4 h6 12. Bxf6 gxf6 13. f5 Bd7 14. Nxh3
-Bc5 15. Rh2 b5 16. Rdh1 Na6 17. Nd1 Rag8 18. Nhf2 Bxf2 19. Nxf2 Nc5 20. b4 Na4
-21. Ng4 Nc3 22. Nxf6 Rf8 23. Kd2 Nxe2 24. Nxd7 Kxd7 25. Kxe2 Rf6 26. Rg2 Ke7
-27. Rg7+ Rf7 28. Rhg1 a5 29. a3 c5 30. bxa5 Ra8 31. Rxf7+ Kxf7 32. Rg6 Rxa5 33.
-Rxh6 Rxa3 34. Re6 c4 35. Rxe5 b4 36. Rb5 b3 37. cxb3 cxb3 38. Ke3 b2+ 39. Kf4
-Ra2 40. e5 Kg7 41. Rb7+ {Sources: bulletin; BCM, Oct 1955, p298} 1-0
+1. d4 f5 2. g4 fxg4 3. e4 d6 4. h3 e5 5. dxe5 dxe5 6. Qxd8+ Kxd8 7. Nc3 c6
+8. Be2 Nf6 9. Bg5 gxh3 10. O-O-O+ Kc7 11. f4 h6 12. Bxf6 gxf6 13. f5 Bd7
+14. Nxh3 Bc5 15. Rh2 b5 16. Rdh1 Na6 17. Nd1 Rag8 18. Nhf2 Bxf2 19. Nxf2
+Nc5 20. b4 Na4 21. Ng4 Nc3 22. Nxf6 Rf8 23. Kd2 Nxe2 24. Nxd7 Kxd7 25. Kxe2
+Rf6 26. Rg2 Ke7 27. Rg7+ Rf7 28. Rhg1 a5 29. a3 c5 30. bxa5 Ra8 31. Rxf7+
+Kxf7 32. Rg6 Rxa5 33. Rxh6 Rxa3 34. Re6 c4 35. Rxe5 b4 36. Rb5 b3 37. cxb3
+cxb3 38. Ke3 b2+ 39. Kf4 Ra2 40. e5 Kg7 41. Rb7+ 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1607,20 +1574,20 @@ Ra2 40. e5 Kg7 41. Rb7+ {Sources: bulletin; BCM, Oct 1955, p298} 1-0
 [Black "Abrahams, Gerald"]
 [Result "1-0"]
 [ECO "A84"]
-[PlyCount "89"]
 [EventDate "1955.08.22"]
+[PlyCount "89"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 f5 5. Bd3 Bd6 6. Nf3 Nh6 7. Qc2 O-O 8. b3 Nd7
-9. Bb2 Nf6 10. Ne5 Bxe5 11. dxe5 Nfg4 12. Ne2 Nf7 13. Nf4 Nfxe5 14. O-O-O Nxd3+
-15. Rxd3 Qe7 16. f3 Nf6 17. cxd5 cxd5 18. Kb1 Bd7 19. Be5 Rac8 20. Qb2 Bb5 21.
-Rd2 Nd7 22. Bc3 Rc7 23. Bxg7 Rfc8 24. Bd4 a5 25. Rg1 Kf7 26. g4 fxg4 27. a4
-Bxa4 28. bxa4 Rc4 29. Nd3 h5 30. fxg4 Qg5 31. Rf1+ Ke8 32. gxh5 Qxh5 33. Qa3
-Qg6 34. Kb2 R8c6 35. Rdf2 Kd8 36. Rf7 Qg2+ 37. Ka1 Kc8 38. Be5 b6 39. R1f2 Qh1+
-40. Ka2 Rc2+ 41. Rxc2 Rxc2+ 42. Bb2 Qxh2 43. Qe7 Qc7 44. Qe8+ Qd8 45. Qxe6 {
-Source: bulletin} 1-0
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 f5 5. Bd3 Bd6 6. Nf3 Nh6 7. Qc2 O-O 8. b3
+Nd7 9. Bb2 Nf6 10. Ne5 Bxe5 11. dxe5 Nfg4 12. Ne2 Nf7 13. Nf4 Nfxe5 14.
+O-O-O Nxd3+ 15. Rxd3 Qe7 16. f3 Nf6 17. cxd5 cxd5 18. Kb1 Bd7 19. Be5 Rac8
+20. Qb2 Bb5 21. Rd2 Nd7 22. Bc3 Rc7 23. Bxg7 Rfc8 24. Bd4 a5 25. Rg1 Kf7
+26. g4 fxg4 27. a4 Bxa4 28. bxa4 Rc4 29. Nd3 h5 30. fxg4 Qg5 31. Rf1+ Ke8
+32. gxh5 Qxh5 33. Qa3 Qg6 34. Kb2 R8c6 35. Rdf2 Kd8 36. Rf7 Qg2+ 37. Ka1
+Kc8 38. Be5 b6 39. R1f2 Qh1+ 40. Ka2 Rc2+ 41. Rxc2 Rxc2+ 42. Bb2 Qxh2 43.
+Qe7 Qc7 44. Qe8+ Qd8 45. Qxe6 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1630,18 +1597,18 @@ Source: bulletin} 1-0
 [Black "Lloyd, Kenneth William"]
 [Result "1/2-1/2"]
 [ECO "D05"]
-[PlyCount "72"]
 [EventDate "1955.08.22"]
+[PlyCount "72"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 Nf6 2. Nf3 e6 3. e3 d5 4. Bd3 Bd6 5. O-O Nbd7 6. Nbd2 O-O 7. b3 e5 8. e4
-exd4 9. Nxd4 Be5 10. c3 Nc5 11. Qc2 Nxd3 12. Qxd3 Qd6 13. h3 c5 14. Nb5 Qc6 15.
-f4 dxe4 16. Nxe4 Bb8 17. Ng3 a6 18. Na3 b5 19. c4 Bb7 20. Rf2 b4 21. Nc2 Bc7
-22. Ne3 Rfe8 23. Qc2 Rad8 24. Nef5 Re1+ 25. Kh2 Qe6 26. Bb2 Rxa1 27. Bxa1 Ne8
-28. Re2 Qd7 29. Nh5 Bd6 30. Nh6+ gxh6 31. Rxe8+ Qxe8 32. Nf6+ Kf8 33. Nxe8
-Bxf4+ 34. Kg1 Kxe8 35. Qxh7 Rd1+ 36. Kf2 Rd2+ {Source: bulletin} 1/2-1/2
+1. d4 Nf6 2. Nf3 e6 3. e3 d5 4. Bd3 Bd6 5. O-O Nbd7 6. Nbd2 O-O 7. b3 e5 8.
+e4 exd4 9. Nxd4 Be5 10. c3 Nc5 11. Qc2 Nxd3 12. Qxd3 Qd6 13. h3 c5 14. Nb5
+Qc6 15. f4 dxe4 16. Nxe4 Bb8 17. Ng3 a6 18. Na3 b5 19. c4 Bb7 20. Rf2 b4
+21. Nc2 Bc7 22. Ne3 Rfe8 23. Qc2 Rad8 24. Nef5 Re1+ 25. Kh2 Qe6 26. Bb2
+Rxa1 27. Bxa1 Ne8 28. Re2 Qd7 29. Nh5 Bd6 30. Nh6+ gxh6 31. Rxe8+ Qxe8 32.
+Nf6+ Kf8 33. Nxe8 Bxf4+ 34. Kg1 Kxe8 35. Qxh7 Rd1+ 36. Kf2 Rd2+ 1/2-1/2
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1651,19 +1618,19 @@ Bxf4+ 34. Kg1 Kxe8 35. Qxh7 Rd1+ 36. Kf2 Rd2+ {Source: bulletin} 1/2-1/2
 [Black "Beach, Thomas John"]
 [Result "1-0"]
 [ECO "C44"]
-[PlyCount "81"]
 [EventDate "1955.08.22"]
+[PlyCount "81"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 Bg4 7. Be2 Nf6 8.
-Nc3 Bb4 9. O-O Bxc3 10. bxc3 O-O 11. Bf4 Qf5 12. Bg3 Nd5 13. Qd2 Rfe8 14. Bd3
-Qh5 15. Ne5 Nxe5 16. Bxe5 c5 17. Rab1 cxd4 18. cxd4 b6 19. a4 Bf5 20. Rb3 Bxd3
-21. Qxd3 f6 22. Bg3 Rac8 23. a5 Qf7 24. axb6 axb6 25. h3 g6 26. Ra1 Ra8 27.
-Rba3 Qb7 28. Qb5 Re1+ 29. Rxe1 Rxa3 30. Re8+ Kg7 31. Rd8 Ra5 32. Qe8 Kh6 33.
-Rd7 Qa6 34. Qf8+ Kg5 35. Rxh7 Qc4 36. Qh6+ Kf5 37. Rg7 Qxd4 38. Qxg6+ Ke6 39.
-Qf7+ Kf5 40. Qd7+ Ke4 41. Rg4+ {Source: bulletin} 1-0
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 d5 5. exd5 Qxd5 6. cxd4 Bg4 7. Be2 Nf6
+8. Nc3 Bb4 9. O-O Bxc3 10. bxc3 O-O 11. Bf4 Qf5 12. Bg3 Nd5 13. Qd2 Rfe8
+14. Bd3 Qh5 15. Ne5 Nxe5 16. Bxe5 c5 17. Rab1 cxd4 18. cxd4 b6 19. a4 Bf5
+20. Rb3 Bxd3 21. Qxd3 f6 22. Bg3 Rac8 23. a5 Qf7 24. axb6 axb6 25. h3 g6
+26. Ra1 Ra8 27. Rba3 Qb7 28. Qb5 Re1+ 29. Rxe1 Rxa3 30. Re8+ Kg7 31. Rd8
+Ra5 32. Qe8 Kh6 33. Rd7 Qa6 34. Qf8+ Kg5 35. Rxh7 Qc4 36. Qh6+ Kf5 37. Rg7
+Qxd4 38. Qxg6+ Ke6 39. Qf7+ Kf5 40. Qd7+ Ke4 41. Rg4+ 1-0
 
 [Event "BCF-ch 42nd"]
 [Site "Aberystwyth"]
@@ -1673,19 +1640,19 @@ Qf7+ Kf5 40. Qd7+ Ke4 41. Rg4+ {Source: bulletin} 1-0
 [Black "Parr, Frank"]
 [Result "0-1"]
 [ECO "A96"]
-[PlyCount "82"]
 [EventDate "1955.08.22"]
+[PlyCount "82"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. c4 d6 7. b3 Qe8 8. Bb2
-Qh5 9. e3 c6 10. Nbd2 Nbd7 11. Ne1 Qh6 12. Nd3 e5 13. dxe5 dxe5 14. Nxe5 Nxe5
-15. Bxe5 Ng4 16. Nf3 Nxe5 17. Nxe5 Bf6 18. Bd5+ cxd5 19. Qxd5+ Kh8 20. Nf7+
-Rxf7 21. Qxf7 g5 22. Rad1 Qg7 23. Qe8+ Qg8 24. Qxg8+ Kxg8 25. f4 g4 26. e4 fxe4
-27. f5 Bg5 28. Rd5 b6 29. f6 Be3+ 30. Kg2 Be6 31. Re5 Kf7 32. Rxe4 Bc5 33. h3
-gxh3+ 34. Kh2 Rd8 35. g4 Rd3 36. g5 Bd6+ 37. Kh1 Bd7 38. Rh4 Bc6+ 39. Kg1 h2+
-40. Kf2 Bg3+ 41. Ke2 Bxh4 {Source: Peter Parr} 0-1
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nf3 Be7 5. O-O O-O 6. c4 d6 7. b3 Qe8 8.
+Bb2 Qh5 9. e3 c6 10. Nbd2 Nbd7 11. Ne1 Qh6 12. Nd3 e5 13. dxe5 dxe5 14.
+Nxe5 Nxe5 15. Bxe5 Ng4 16. Nf3 Nxe5 17. Nxe5 Bf6 18. Bd5+ cxd5 19. Qxd5+
+Kh8 20. Nf7+ Rxf7 21. Qxf7 g5 22. Rad1 Qg7 23. Qe8+ Qg8 24. Qxg8+ Kxg8 25.
+f4 g4 26. e4 fxe4 27. f5 Bg5 28. Rd5 b6 29. f6 Be3+ 30. Kg2 Be6 31. Re5 Kf7
+32. Rxe4 Bc5 33. h3 gxh3+ 34. Kh2 Rd8 35. g4 Rd3 36. g5 Bd6+ 37. Kh1 Bd7
+38. Rh4 Bc6+ 39. Kg1 h2+ 40. Kf2 Bg3+ 41. Ke2 Bxh4 0-1
 
 [Event "BCF-ch 42nd Major Open"]
 [Site "Aberystwyth"]
@@ -1695,18 +1662,18 @@ gxh3+ 34. Kh2 Rd8 35. g4 Rd3 36. g5 Bd6+ 37. Kh1 Bd7 38. Rh4 Bc6+ 39. Kg1 h2+
 [Black "Rhodes, Herbert Gibson"]
 [Result "0-1"]
 [ECO "C99"]
-[PlyCount "70"]
 [EventDate "1955.08.22"]
+[PlyCount "70"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
-O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bb7 14. Nf1 Rac8 15.
-Bd3 d5 16. exd5 e4 17. Bxe4 Nxe4 18. Rxe4 Bxd5 19. Re1 Nc6 20. Be3 Bb4 21. N1d2
-f5 22. a3 Bd6 23. Nb3 f4 24. Bd2 Qf7 25. Na5 Bxf3 26. gxf3 Qh5 27. Qb3+ Kh8 28.
-Nxc6 Qxh3 29. Qe6 Qxf3 30. Ne5 Bxe5 31. Qxe5 Rc6 32. Bxf4 Rg6+ 33. Bg5 h6 34.
-Qh2 Rxg5+ 35. Kf1 Rh5 {Source: bulletin; Manchester Guardian, 6 Oct 1955} 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Bb7 14. Nf1
+Rac8 15. Bd3 d5 16. exd5 e4 17. Bxe4 Nxe4 18. Rxe4 Bxd5 19. Re1 Nc6 20. Be3
+Bb4 21. N1d2 f5 22. a3 Bd6 23. Nb3 f4 24. Bd2 Qf7 25. Na5 Bxf3 26. gxf3 Qh5
+27. Qb3+ Kh8 28. Nxc6 Qxh3 29. Qe6 Qxf3 30. Ne5 Bxe5 31. Qxe5 Rc6 32. Bxf4
+Rg6+ 33. Bg5 h6 34. Qh2 Rxg5+ 35. Kf1 Rh5 0-1
 
 [Event "BCF-ch 42nd U18"]
 [Site "Aberystwyth"]
@@ -1716,19 +1683,19 @@ Qh2 Rxg5+ 35. Kf1 Rh5 {Source: bulletin; Manchester Guardian, 6 Oct 1955} 0-1
 [Black "Tidmarsh, David A"]
 [Result "0-1"]
 [ECO "D02"]
-[PlyCount "80"]
 [EventDate "1955.08.22"]
+[PlyCount "80"]
 [EventType "swiss"]
 [EventRounds "11"]
 [EventCountry "GBR"]
 
-1. d4 d5 2. Nf3 a6 3. Bf4 Nf6 4. Nbd2 b5 5. e3 e6 6. Bd3 c5 7. c3 c4 8. Bb1 a5
-9. Ne5 Bd7 10. a3 Nc6 11. Ndf3 Nxe5 12. Nxe5 b4 13. Nxd7 Nxd7 14. axb4 axb4 15.
-Rxa8 Qxa8 16. Qe2 Qa1 17. Qc2 b3 18. Qc1 Nb6 19. Kd2 Na4 20. e4 Nxb2 21. exd5
-Na4 22. dxe6 Ba3 23. exf7+ Kd8 24. Bg5+ Kc7 25. Qe1 Qb2+ 26. Ke3 Nxc3 27. Kf3
-Rf8 28. Qe5+ Bd6 29. Qa5+ Kb7 30. Be4+ Nxe4 31. Qd5+ Kb6 32. Qxe4 Rxf7+ 33. Kg4
-Qxf2 34. Bd8+ Bc7 35. Bxc7+ Rxc7 36. d5 h5+ 37. Kxh5 Qf7+ 38. Qg6+ Qxg6+ 39.
-Kxg6 Kc5 40. Rd1 Rd7 {Source: bulletin} 0-1
+1. d4 d5 2. Nf3 a6 3. Bf4 Nf6 4. Nbd2 b5 5. e3 e6 6. Bd3 c5 7. c3 c4 8. Bb1
+a5 9. Ne5 Bd7 10. a3 Nc6 11. Ndf3 Nxe5 12. Nxe5 b4 13. Nxd7 Nxd7 14. axb4
+axb4 15. Rxa8 Qxa8 16. Qe2 Qa1 17. Qc2 b3 18. Qc1 Nb6 19. Kd2 Na4 20. e4
+Nxb2 21. exd5 Na4 22. dxe6 Ba3 23. exf7+ Kd8 24. Bg5+ Kc7 25. Qe1 Qb2+ 26.
+Ke3 Nxc3 27. Kf3 Rf8 28. Qe5+ Bd6 29. Qa5+ Kb7 30. Be4+ Nxe4 31. Qd5+ Kb6
+32. Qxe4 Rxf7+ 33. Kg4 Qxf2 34. Bd8+ Bc7 35. Bxc7+ Rxc7 36. d5 h5+ 37. Kxh5
+Qf7+ 38. Qg6+ Qxg6+ 39. Kxg6 Kc5 40. Rd1 Rd7 0-1
 
 [Event "BCF-ch 42nd U21"]
 [Site "Aberystwyth"]
@@ -1738,19 +1705,19 @@ Kxg6 Kc5 40. Rd1 Rd7 {Source: bulletin} 0-1
 [Black "Landry, Thomas Anselm"]
 [Result "0-1"]
 [ECO "B17"]
-[PlyCount "84"]
 [EventDate "1955.08.22"]
+[PlyCount "84"]
 [EventType "tourn"]
 [EventRounds "14"]
 [EventCountry "GBR"]
 
-1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 Qc7 7. Bd3 e6 8.
-O-O Bd6 9. Re1 O-O 10. c3 h6 11. Bd2 b6 12. Qc2 Bb7 13. Re2 c5 14. Ne4 c4 15.
-Nxf6+ Nxf6 16. Be4 Bxe4 17. Rxe4 Nxe4 18. Qxe4 b5 19. Qg4 a6 20. Bxh6 f5 21.
-Qh5 gxh6 22. Qg6+ Kh8 23. Qxh6+ Qh7 24. Qxe6 Be7 25. Re1 Bf6 26. d5 Rae8 27.
-Qxf6+ Rxf6 28. Rxe8+ Kg7 29. Re7+ Kh6 30. Rxh7+ Kxh7 31. Kf1 Rd6 32. Nd4 Rxd5
-33. a3 a5 34. Ke2 b4 35. axb4 axb4 36. Ke3 b3 37. Nc6 Rd3+ 38. Ke2 Rxc3 39. Kd1
-Rc2 40. Nd4 Rxb2 41. Nxf5 Rxf2 42. Ne3 b2 {Source: bulletin} 0-1
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 Qc7 7. Bd3 e6
+8. O-O Bd6 9. Re1 O-O 10. c3 h6 11. Bd2 b6 12. Qc2 Bb7 13. Re2 c5 14. Ne4
+c4 15. Nxf6+ Nxf6 16. Be4 Bxe4 17. Rxe4 Nxe4 18. Qxe4 b5 19. Qg4 a6 20.
+Bxh6 f5 21. Qh5 gxh6 22. Qg6+ Kh8 23. Qxh6+ Qh7 24. Qxe6 Be7 25. Re1 Bf6
+26. d5 Rae8 27. Qxf6+ Rxf6 28. Rxe8+ Kg7 29. Re7+ Kh6 30. Rxh7+ Kxh7 31.
+Kf1 Rd6 32. Nd4 Rxd5 33. a3 a5 34. Ke2 b4 35. axb4 axb4 36. Ke3 b3 37. Nc6
+Rd3+ 38. Ke2 Rxc3 39. Kd1 Rc2 40. Nd4 Rxb2 41. Nxf5 Rxf2 42. Ne3 b2 0-1
 
 [Event "BCF-chW 42nd"]
 [Site "Aberystwyth"]
@@ -1760,15 +1727,15 @@ Rc2 40. Nd4 Rxb2 41. Nxf5 Rxf2 42. Ne3 b2 {Source: bulletin} 0-1
 [Black "Doulton, Joan Frances"]
 [Result "1-0"]
 [ECO "E68"]
-[PlyCount "55"]
 [EventDate "1955.08.22"]
+[PlyCount "55"]
 [EventType "tourn"]
 [EventRounds "9"]
 [EventCountry "GBR"]
 
-1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O d6 5. d4 O-O 6. c4 Nbd7 7. Nc3 e5 8. e4
-exd4 9. Nxd4 Nc5 10. Nb3 Nfd7 11. Be3 Nxb3 12. axb3 a5 13. Qc2 c6 14. Rfd1 Ne5
-15. h3 f5 16. c5 fxe4 17. Rxd6 Qe8 18. Nxe4 Nf3+ 19. Kh1 Be5 20. Qc4+ Kg7 21.
-Rad1 Bxd6 22. Rxd6 Rf7 23. Bxf3 Rxf3 24. Qd4+ Kg8 25. Rd8 Be6 26. Rxe8+ Rxe8
-27. Bh6 Re7 28. Qd8+ {Source: bulletin} 1-0
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O d6 5. d4 O-O 6. c4 Nbd7 7. Nc3 e5 8.
+e4 exd4 9. Nxd4 Nc5 10. Nb3 Nfd7 11. Be3 Nxb3 12. axb3 a5 13. Qc2 c6 14.
+Rfd1 Ne5 15. h3 f5 16. c5 fxe4 17. Rxd6 Qe8 18. Nxe4 Nf3+ 19. Kh1 Be5 20.
+Qc4+ Kg7 21. Rad1 Bxd6 22. Rxd6 Rf7 23. Bxf3 Rxf3 24. Qd4+ Kg8 25. Rd8 Be6
+26. Rxe8+ Rxe8 27. Bh6 Re7 28. Qd8+ 1-0
 
