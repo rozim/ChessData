@@ -5,22 +5,22 @@
 [White "Grachev, Boris"]
 [Black "Buhmann, Rainer"]
 [Result "1/2-1/2"]
-[ECO "D11"]
 [WhiteElo "2682"]
 [BlackElo "2606"]
-[PlyCount "118"]
+[ECO "D11"]
 [EventDate "2011.??.??"]
+[PlyCount "118"]
 
-1. c4 c6 2. d4 d5 3. e3 Nf6 4. Nf3 a6 5. Bd3 Bg4 6. Nbd2 Nbd7 7. Qc2 e6 8. O-O
-dxc4 9. Qxc4 Be7 10. Ne5 Bh5 11. Qc2 Rc8 12. Nxd7 Nxd7 13. b4 Bg6 14. Rb1 Bxd3
-15. Qxd3 O-O 16. a3 b5 17. Nb3 Ne5 18. Qc2 Nc4 19. Nd2 Nb6 20. Bb2 Qc7 21. Rfc1
-Qa7 22. Bc3 Rfd8 23. h3 h6 24. Qe4 Qd7 25. Rc2 Qd5 26. Qg4 Qf5 27. Rbc1 Rd7 28.
-Ba1 Rdc7 29. Qg3 Qg5 30. Qf3 Qf5 31. Qe2 Bd6 32. Qf1 Be7 33. Qe2 Bd6 34. h4 Be7
-35. g3 Qd5 36. e4 Qd7 37. Qe3 f5 38. d5 cxd5 39. Rxc7 Rxc7 40. Rxc7 Qxc7 41.
-exf5 Qc1+ 42. Kg2 Qxa1 43. Qxb6 Qxa3 44. Qxe6+ Kf8 45. Nf3 Bf6 46. Qd6+ Ke8 47.
-g4 Bc3 48. Qe6+ Kf8 49. g5 Qxb4 50. f6 gxf6 51. g6 Qe7 52. Qc8+ Kg7 53. Qxc3
-Kxg6 54. Nd2 Qe6 55. Qc2+ Kh5 56. f3 Qe2+ 57. Kh3 Qe6+ 58. Kg2 Qe2+ 59. Kh3
-Qe6+ 1/2-1/2
+1. c4 c6 2. d4 d5 3. e3 Nf6 4. Nf3 a6 5. Bd3 Bg4 6. Nbd2 Nbd7 7. Qc2 e6 8.
+O-O dxc4 9. Qxc4 Be7 10. Ne5 Bh5 11. Qc2 Rc8 12. Nxd7 Nxd7 13. b4 Bg6 14.
+Rb1 Bxd3 15. Qxd3 O-O 16. a3 b5 17. Nb3 Ne5 18. Qc2 Nc4 19. Nd2 Nb6 20. Bb2
+Qc7 21. Rfc1 Qa7 22. Bc3 Rfd8 23. h3 h6 24. Qe4 Qd7 25. Rc2 Qd5 26. Qg4 Qf5
+27. Rbc1 Rd7 28. Ba1 Rdc7 29. Qg3 Qg5 30. Qf3 Qf5 31. Qe2 Bd6 32. Qf1 Be7
+33. Qe2 Bd6 34. h4 Be7 35. g3 Qd5 36. e4 Qd7 37. Qe3 f5 38. d5 cxd5 39.
+Rxc7 Rxc7 40. Rxc7 Qxc7 41. exf5 Qc1+ 42. Kg2 Qxa1 43. Qxb6 Qxa3 44. Qxe6+
+Kf8 45. Nf3 Bf6 46. Qd6+ Ke8 47. g4 Bc3 48. Qe6+ Kf8 49. g5 Qxb4 50. f6
+gxf6 51. g6 Qe7 52. Qc8+ Kg7 53. Qxc3 Kxg6 54. Nd2 Qe6 55. Qc2+ Kh5 56. f3
+Qe2+ 57. Kh3 Qe6+ 58. Kg2 Qe2+ 59. Kh3 Qe6+ 1/2-1/2
 
 [Event "BL 1112 SV Hockenheim - SV Mülheim Nord"]
 [Site "?"]
@@ -29,21 +29,21 @@ Qe6+ 1/2-1/2
 [White "Baramidze, David"]
 [Black "Fridman, Daniel"]
 [Result "1/2-1/2"]
-[ECO "D37"]
 [WhiteElo "2591"]
 [BlackElo "2652"]
-[PlyCount "108"]
+[ECO "D37"]
 [EventDate "2011.??.??"]
+[PlyCount "108"]
 
-1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. cxd5 Nxd5 8.
-Nxd5 exd5 9. a3 c5 10. dxc5 Nxc5 11. Be5 Bg4 12. Be2 Bxf3 13. Bxf3 Bf6 14. Bxf6
-Qxf6 15. Qc2 Ne6 16. Bxd5 Rac8 17. Qb3 Nc5 18. Qc2 Ne6 19. Qb3 Nc5 20. Qb5 Rfd8
-21. Rd1 Qf5 22. e4 Nxe4 23. O-O g6 24. Qd3 Nd6 25. Qxf5 gxf5 26. Rd3 Rc2 27. b4
-Rdc8 28. g3 R8c3 29. Rfd1 Rc1 30. Kg2 Rxd1 31. Rxd1 Rxa3 32. Bxb7 Nxb7 33. Rd7
-Na5 34. bxa5 Rxa5 35. Kf3 Kg7 36. Rd6 Ra2 37. h4 h5 38. Ke3 a5 39. Ra6 Ra4 40.
-f3 f6 41. Ra7+ Kg6 42. f4 Re4+ 43. Kf2 a4 44. Kf3 Rc4 45. Kf2 Rb4 46. Kf3 Rb3+
-47. Kg2 a3 48. Kf2 Rc3 49. Kg2 Rc2+ 50. Kf3 Ra2 51. Ke3 Ra1 52. Kf2 a2 53. Kg2
-Kh6 54. Kh2 Kg6 1/2-1/2
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. cxd5 Nxd5
+8. Nxd5 exd5 9. a3 c5 10. dxc5 Nxc5 11. Be5 Bg4 12. Be2 Bxf3 13. Bxf3 Bf6
+14. Bxf6 Qxf6 15. Qc2 Ne6 16. Bxd5 Rac8 17. Qb3 Nc5 18. Qc2 Ne6 19. Qb3 Nc5
+20. Qb5 Rfd8 21. Rd1 Qf5 22. e4 Nxe4 23. O-O g6 24. Qd3 Nd6 25. Qxf5 gxf5
+26. Rd3 Rc2 27. b4 Rdc8 28. g3 R8c3 29. Rfd1 Rc1 30. Kg2 Rxd1 31. Rxd1 Rxa3
+32. Bxb7 Nxb7 33. Rd7 Na5 34. bxa5 Rxa5 35. Kf3 Kg7 36. Rd6 Ra2 37. h4 h5
+38. Ke3 a5 39. Ra6 Ra4 40. f3 f6 41. Ra7+ Kg6 42. f4 Re4+ 43. Kf2 a4 44.
+Kf3 Rc4 45. Kf2 Rb4 46. Kf3 Rb3+ 47. Kg2 a3 48. Kf2 Rc3 49. Kg2 Rc2+ 50.
+Kf3 Ra2 51. Ke3 Ra1 52. Kf2 a2 53. Kg2 Kh6 54. Kh2 Kg6 1/2-1/2
 
 [Event "BL 1112 SV Hockenheim - SV Mülheim Nord"]
 [Site "?"]
@@ -52,17 +52,18 @@ Kh6 54. Kh2 Kg6 1/2-1/2
 [White "Landa, Konstantin"]
 [Black "Saric, Ivan"]
 [Result "1-0"]
-[ECO "E97"]
 [WhiteElo "2639"]
 [BlackElo "2643"]
-[PlyCount "65"]
+[ECO "E97"]
 [EventDate "2011.??.??"]
+[PlyCount "65"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. Be3
-Ng4 9. Bg5 f6 10. Bh4 Nh6 11. dxe5 dxe5 12. c5 Kh8 13. Qa4 Bg4 14. Rfd1 Qe7 15.
-Nd5 Qf7 16. Bg3 Bxf3 17. Bxf3 f5 18. Be2 Nd4 19. Rxd4 exd4 20. Bc4 Qe8 21. Qb4
-f4 22. Nxf4 Qxe4 23. Ne6 d3 24. Nxg7 Kxg7 25. Re1 Qf5 26. Be6 Qg5 27. Be5+ Rf6
-28. f4 Qxe5 29. Rxe5 Re8 30. Bb3 Rd8 31. Re7+ Kf8 32. Rxh7 a5 33. Qc3 1-0
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8.
+Be3 Ng4 9. Bg5 f6 10. Bh4 Nh6 11. dxe5 dxe5 12. c5 Kh8 13. Qa4 Bg4 14. Rfd1
+Qe7 15. Nd5 Qf7 16. Bg3 Bxf3 17. Bxf3 f5 18. Be2 Nd4 19. Rxd4 exd4 20. Bc4
+Qe8 21. Qb4 f4 22. Nxf4 Qxe4 23. Ne6 d3 24. Nxg7 Kxg7 25. Re1 Qf5 26. Be6
+Qg5 27. Be5+ Rf6 28. f4 Qxe5 29. Rxe5 Re8 30. Bb3 Rd8 31. Re7+ Kf8 32. Rxh7
+a5 33. Qc3 1-0
 
 [Event "BL 1112 SV Hockenheim - SV Mülheim Nord"]
 [Site "?"]
@@ -71,19 +72,20 @@ f4 22. Nxf4 Qxe4 23. Ne6 d3 24. Nxg7 Kxg7 25. Re1 Qf5 26. Be6 Qg5 27. Be5+ Rf6
 [White "Miroshnichenko, Evgenij"]
 [Black "Golod, Vitali"]
 [Result "1-0"]
-[ECO "A07"]
 [WhiteElo "2624"]
 [BlackElo "2579"]
-[PlyCount "89"]
+[ECO "A07"]
 [EventDate "2011.??.??"]
+[PlyCount "89"]
 
-1. Nf3 d5 2. g3 g6 3. c4 c6 4. Qa4 d4 5. Bg2 Bg7 6. d3 Nh6 7. Nbd2 Nf5 8. O-O
-O-O 9. b4 Re8 10. Rb1 Nd7 11. Nb3 e5 12. Nfd2 Nd6 13. Na5 Nf6 14. Qc2 Qc7 15.
-a4 Bd7 16. c5 Nf5 17. Nac4 Be6 18. Ne4 Nxe4 19. dxe4 Nh6 20. Nd6 Rf8 21. f4 f6
-22. f5 Bd7 23. e3 dxe3 24. Bxe3 Kh8 25. Qb3 Be8 26. Rbd1 Bf7 27. Qc2 Bg8 28.
-Bh3 Rad8 29. Rd3 gxf5 30. Bxh6 Bxh6 31. Bxf5 b6 32. Rfd1 Rb8 33. Nc4 Rbd8 34.
-Nd6 Rb8 35. Qg2 bxc5 36. Qh3 Qg7 37. bxc5 Rb4 38. Be6 Bg5 39. Bxg8 Qxg8 40. Qd7
-Rb2 41. Nf5 Rfb8 42. h4 Bf4 43. Qe7 Rf8 44. Qxf8 Qxf8 45. Rd8 1-0
+1. Nf3 d5 2. g3 g6 3. c4 c6 4. Qa4 d4 5. Bg2 Bg7 6. d3 Nh6 7. Nbd2 Nf5 8.
+O-O O-O 9. b4 Re8 10. Rb1 Nd7 11. Nb3 e5 12. Nfd2 Nd6 13. Na5 Nf6 14. Qc2
+Qc7 15. a4 Bd7 16. c5 Nf5 17. Nac4 Be6 18. Ne4 Nxe4 19. dxe4 Nh6 20. Nd6
+Rf8 21. f4 f6 22. f5 Bd7 23. e3 dxe3 24. Bxe3 Kh8 25. Qb3 Be8 26. Rbd1 Bf7
+27. Qc2 Bg8 28. Bh3 Rad8 29. Rd3 gxf5 30. Bxh6 Bxh6 31. Bxf5 b6 32. Rfd1
+Rb8 33. Nc4 Rbd8 34. Nd6 Rb8 35. Qg2 bxc5 36. Qh3 Qg7 37. bxc5 Rb4 38. Be6
+Bg5 39. Bxg8 Qxg8 40. Qd7 Rb2 41. Nf5 Rfb8 42. h4 Bf4 43. Qe7 Rf8 44. Qxf8
+Qxf8 45. Rd8 1-0
 
 [Event "BL 1112 SV Hockenheim - SV Mülheim Nord"]
 [Site "?"]
@@ -92,23 +94,24 @@ Rb2 41. Nf5 Rfb8 42. h4 Bf4 43. Qe7 Rf8 44. Qxf8 Qxf8 45. Rd8 1-0
 [White "Malakhatko, Vadim"]
 [Black "Ribli, Zoltan"]
 [Result "1/2-1/2"]
-[ECO "D11"]
 [WhiteElo "2543"]
 [BlackElo "2588"]
-[PlyCount "141"]
+[ECO "D11"]
 [EventDate "2011.??.??"]
+[PlyCount "141"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qb3 dxc4 5. Qxc4 Bg4 6. Nbd2 Nbd7 7. g3 e6 8.
-Bg2 Be7 9. O-O O-O 10. Re1 Rc8 11. Qb3 Qb6 12. Nc4 Qa6 13. Nfe5 b5 14. Nxg4
-bxc4 15. Qf3 c5 16. dxc5 Bxc5 17. Nxf6+ Nxf6 18. Bd2 Nd5 19. Bf1 Qb6 20. Rab1
-Nb4 21. Bxb4 Bxb4 22. Rec1 Bd2 23. Rc2 c3 24. e3 Rfd8 25. Qe2 Qb4 26. Bg2 Qa4
-27. b3 Qa5 28. Qf3 g6 29. Bf1 Qb4 30. Bg2 a5 31. Qe4 Qd6 32. Bf1 Rb8 33. Rd1
-Qb4 34. Qxb4 axb4 35. Ra1 Ra8 36. Bb5 Kf8 37. Kf1 Ke7 38. Ke2 Kd6 39. a4 bxa3
-40. Ba4 Kc5 41. Rxa3 Kb4 42. Ra1 Ra5 43. h4 f5 44. Rca2 e5 45. Rd1 f4 46. gxf4
-exf4 47. Rg1 Rf5 48. Rg4 Bc1 49. Rc2 Bb2 50. Rxf4+ Rxf4 51. exf4 Rd5 52. Bc6
-Rh5 53. Kd3 Rc5 54. Be4 Kxb3 55. f3 Ba3 56. h5 gxh5 57. f5 Rc8 58. Bd5+ Kb4 59.
-f6 Rd8 60. Kd4 h4 61. Rh2 Kb5 62. Ke4 Re8+ 63. Kd3 Rd8 64. Ke4 Kc5 65. Bb3 Re8+
-66. Kd3 Re5 67. Rxh4 Rf5 68. f7 Rxf3+ 69. Ke2 Rf6 70. Rh6 Rxf7 71. Bxf7 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qb3 dxc4 5. Qxc4 Bg4 6. Nbd2 Nbd7 7. g3 e6
+8. Bg2 Be7 9. O-O O-O 10. Re1 Rc8 11. Qb3 Qb6 12. Nc4 Qa6 13. Nfe5 b5 14.
+Nxg4 bxc4 15. Qf3 c5 16. dxc5 Bxc5 17. Nxf6+ Nxf6 18. Bd2 Nd5 19. Bf1 Qb6
+20. Rab1 Nb4 21. Bxb4 Bxb4 22. Rec1 Bd2 23. Rc2 c3 24. e3 Rfd8 25. Qe2 Qb4
+26. Bg2 Qa4 27. b3 Qa5 28. Qf3 g6 29. Bf1 Qb4 30. Bg2 a5 31. Qe4 Qd6 32.
+Bf1 Rb8 33. Rd1 Qb4 34. Qxb4 axb4 35. Ra1 Ra8 36. Bb5 Kf8 37. Kf1 Ke7 38.
+Ke2 Kd6 39. a4 bxa3 40. Ba4 Kc5 41. Rxa3 Kb4 42. Ra1 Ra5 43. h4 f5 44. Rca2
+e5 45. Rd1 f4 46. gxf4 exf4 47. Rg1 Rf5 48. Rg4 Bc1 49. Rc2 Bb2 50. Rxf4+
+Rxf4 51. exf4 Rd5 52. Bc6 Rh5 53. Kd3 Rc5 54. Be4 Kxb3 55. f3 Ba3 56. h5
+gxh5 57. f5 Rc8 58. Bd5+ Kb4 59. f6 Rd8 60. Kd4 h4 61. Rh2 Kb5 62. Ke4 Re8+
+63. Kd3 Rd8 64. Ke4 Kc5 65. Bb3 Re8+ 66. Kd3 Re5 67. Rxh4 Rf5 68. f7 Rxf3+
+69. Ke2 Rf6 70. Rh6 Rxf7 71. Bxf7 1/2-1/2
 
 [Event "BL 1112 SV Hockenheim - SV Mülheim Nord"]
 [Site "?"]
@@ -117,22 +120,22 @@ f6 Rd8 60. Kd4 h4 61. Rh2 Kb5 62. Ke4 Re8+ 63. Kd3 Rd8 64. Ke4 Kc5 65. Bb3 Re8+
 [White "Paehtz, Elisabeth"]
 [Black "Berelowitsch, Alexander"]
 [Result "1/2-1/2"]
-[ECO "C15"]
 [WhiteElo "2461"]
 [BlackElo "2563"]
-[PlyCount "120"]
+[ECO "C15"]
 [EventDate "2011.??.??"]
+[PlyCount "120"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Nge2 dxe4 5. a3 Be7 6. Nxe4 Nf6 7. N2g3 O-O 8.
-c3 Nxe4 9. Nxe4 Nd7 10. Be2 b6 11. O-O Bb7 12. Bf3 Bd5 13. Qe2 Nf6 14. Bf4 Nxe4
-15. Bxe4 Bxe4 16. Qxe4 Bd6 17. Be5 Qd7 18. Rfe1 Bxe5 19. Qxe5 Rad8 20. Re3 Qd6
-21. Qh5 c5 22. Rg3 Qf4 23. dxc5 Rd5 24. Qg4 Qxg4 25. Rxg4 Rfd8 26. Rd4 bxc5 27.
-Rxd5 Rxd5 28. b4 Rd3 29. Rc1 Kf8 30. Kf1 Rd2 31. bxc5 Rd5 32. Rb1 Rxc5 33. Rb8+
-Ke7 34. Rb7+ Kf6 35. Rxa7 Rxc3 36. h4 Rc2 37. g3 h5 38. Kg2 Rc3 39. a4 Ra3 40.
-Ra5 e5 41. Ra7 g6 42. a5 e4 43. a6 Ra1 44. Kh2 Ke6 45. Kg2 f6 46. Ra8 Ke5 47.
-a7 Kf5 48. Kh2 Ra2 49. Kg1 Kg4 50. Rf8 Rxa7 51. Rxf6 Kh3 52. Kf1 e3 53. Rxg6
-Ra1+ 54. Ke2 exf2 55. Kxf2 Ra3 56. Rg5 Rb3 57. Rxh5 Rxg3 58. Rg5 Rg4 59. Rxg4
-Kxg4 60. h5 Kxh5 1/2-1/2
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 dxe4 5. a3 Be7 6. Nxe4 Nf6 7. N2g3 O-O
+8. c3 Nxe4 9. Nxe4 Nd7 10. Be2 b6 11. O-O Bb7 12. Bf3 Bd5 13. Qe2 Nf6 14.
+Bf4 Nxe4 15. Bxe4 Bxe4 16. Qxe4 Bd6 17. Be5 Qd7 18. Rfe1 Bxe5 19. Qxe5 Rad8
+20. Re3 Qd6 21. Qh5 c5 22. Rg3 Qf4 23. dxc5 Rd5 24. Qg4 Qxg4 25. Rxg4 Rfd8
+26. Rd4 bxc5 27. Rxd5 Rxd5 28. b4 Rd3 29. Rc1 Kf8 30. Kf1 Rd2 31. bxc5 Rd5
+32. Rb1 Rxc5 33. Rb8+ Ke7 34. Rb7+ Kf6 35. Rxa7 Rxc3 36. h4 Rc2 37. g3 h5
+38. Kg2 Rc3 39. a4 Ra3 40. Ra5 e5 41. Ra7 g6 42. a5 e4 43. a6 Ra1 44. Kh2
+Ke6 45. Kg2 f6 46. Ra8 Ke5 47. a7 Kf5 48. Kh2 Ra2 49. Kg1 Kg4 50. Rf8 Rxa7
+51. Rxf6 Kh3 52. Kf1 e3 53. Rxg6 Ra1+ 54. Ke2 exf2 55. Kxf2 Ra3 56. Rg5 Rb3
+57. Rxh5 Rxg3 58. Rg5 Rg4 59. Rxg4 Kxg4 60. h5 Kxh5 1/2-1/2
 
 [Event "BL 1112 SV Hockenheim - SV Mülheim Nord"]
 [Site "?"]
@@ -141,19 +144,19 @@ Kxg4 60. h5 Kxh5 1/2-1/2
 [White "Hausrath, Daniel"]
 [Black "Gasthofer, Alexander"]
 [Result "1-0"]
-[ECO "D02"]
 [WhiteElo "2507"]
 [BlackElo "2456"]
-[PlyCount "77"]
+[ECO "D02"]
 [EventDate "2011.??.??"]
+[PlyCount "77"]
 
-1. Nf3 Nf6 2. g3 d5 3. Bg2 g6 4. O-O Bg7 5. d4 O-O 6. Be3 Be6 7. Qc1 Qc8 8. Bh6
-Bh3 9. Bxg7 Kxg7 10. Qe3 Bxg2 11. Kxg2 Re8 12. Nbd2 Nbd7 13. c4 dxc4 14. Nxc4
-c5 15. Rac1 cxd4 16. Qxd4 Qc5 17. Qf4 Qb4 18. Rfd1 Rec8 19. Nd4 Qc5 20. e4 Qh5
-21. Nf3 b5 22. Na5 e5 23. Qe3 Qh6 24. Qxh6+ Kxh6 25. Rxc8 Rxc8 26. g4 Kg7 27.
-g5 Nxe4 28. Rxd7 Rc2 29. Nxe5 Rxf2+ 30. Kg1 Rf5 31. Nac6 Rxg5+ 32. Kf1 Rf5+ 33.
-Ke2 a6 34. Re7 Nc5 35. Nd4 Rg5 36. b4 Na4 37. Rxf7+ Kg8 38. Re7 Nc3+ 39. Kd3
-1-0
+1. Nf3 Nf6 2. g3 d5 3. Bg2 g6 4. O-O Bg7 5. d4 O-O 6. Be3 Be6 7. Qc1 Qc8 8.
+Bh6 Bh3 9. Bxg7 Kxg7 10. Qe3 Bxg2 11. Kxg2 Re8 12. Nbd2 Nbd7 13. c4 dxc4
+14. Nxc4 c5 15. Rac1 cxd4 16. Qxd4 Qc5 17. Qf4 Qb4 18. Rfd1 Rec8 19. Nd4
+Qc5 20. e4 Qh5 21. Nf3 b5 22. Na5 e5 23. Qe3 Qh6 24. Qxh6+ Kxh6 25. Rxc8
+Rxc8 26. g4 Kg7 27. g5 Nxe4 28. Rxd7 Rc2 29. Nxe5 Rxf2+ 30. Kg1 Rf5 31.
+Nac6 Rxg5+ 32. Kf1 Rf5+ 33. Ke2 a6 34. Re7 Nc5 35. Nd4 Rg5 36. b4 Na4 37.
+Rxf7+ Kg8 38. Re7 Nc3+ 39. Kd3 1-0
 
 [Event "BL 1112 SV Hockenheim - SV Mülheim Nord"]
 [Site "?"]
@@ -162,21 +165,22 @@ Ke2 a6 34. Re7 Nc5 35. Nd4 Rg5 36. b4 Na4 37. Rxf7+ Kg8 38. Re7 Nc3+ 39. Kd3
 [White "Rau, Hannes"]
 [Black "Levin, Felix"]
 [Result "0-1"]
-[ECO "D11"]
 [WhiteElo "2464"]
 [BlackElo "2482"]
-[PlyCount "114"]
+[ECO "D11"]
 [EventDate "2011.??.??"]
+[PlyCount "114"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. Bd3 e6 6. O-O Nbd7 7. Nbd2 Bd6 8. b3
-O-O 9. Bb2 Qb8 10. h3 Bf5 11. Qc2 Bg6 12. Bxg6 hxg6 13. e4 e5 14. exd5 cxd5 15.
-cxd5 exd4 16. Bxd4 Nxd5 17. Nc4 Bc7 18. Rfd1 N7f6 19. Rac1 Bf4 20. Be5 Bxe5 21.
-Nfxe5 Re8 22. Ng4 Nf4 23. Nxf6+ gxf6 24. Rd2 Re6 25. h4 Qe8 26. Ne3 Rc6 27. Qd1
-Rxc1 28. Qxc1 Rc8 29. Qb2 Qe6 30. g3 Nh5 31. Qd4 f5 32. Qd5 Qe7 33. Qd6 Rc1+
-34. Kh2 Qe4 35. Qd8+ Kh7 36. Rd1 Rxd1 37. Nxd1 f4 38. Qd2 fxg3+ 39. fxg3 Qf3
-40. Qd6 Nxg3 41. Qxg3 Qxd1 42. Qf2 Qd6+ 43. Kh3 Qe6+ 44. Kg3 a6 45. Qd4 Qe1+
-46. Kf3 Qb1 47. Qd7 Qh1+ 48. Kg3 Qg1+ 49. Kh3 Qe3+ 50. Kg2 Qe4+ 51. Kg3 Kg7 52.
-Qd2 Qe5+ 53. Kh3 b5 54. b4 f5 55. a3 f4 56. Qd7+ Kh6 57. Kg4 Qe3 0-1
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. Bd3 e6 6. O-O Nbd7 7. Nbd2 Bd6 8.
+b3 O-O 9. Bb2 Qb8 10. h3 Bf5 11. Qc2 Bg6 12. Bxg6 hxg6 13. e4 e5 14. exd5
+cxd5 15. cxd5 exd4 16. Bxd4 Nxd5 17. Nc4 Bc7 18. Rfd1 N7f6 19. Rac1 Bf4 20.
+Be5 Bxe5 21. Nfxe5 Re8 22. Ng4 Nf4 23. Nxf6+ gxf6 24. Rd2 Re6 25. h4 Qe8
+26. Ne3 Rc6 27. Qd1 Rxc1 28. Qxc1 Rc8 29. Qb2 Qe6 30. g3 Nh5 31. Qd4 f5 32.
+Qd5 Qe7 33. Qd6 Rc1+ 34. Kh2 Qe4 35. Qd8+ Kh7 36. Rd1 Rxd1 37. Nxd1 f4 38.
+Qd2 fxg3+ 39. fxg3 Qf3 40. Qd6 Nxg3 41. Qxg3 Qxd1 42. Qf2 Qd6+ 43. Kh3 Qe6+
+44. Kg3 a6 45. Qd4 Qe1+ 46. Kf3 Qb1 47. Qd7 Qh1+ 48. Kg3 Qg1+ 49. Kh3 Qe3+
+50. Kg2 Qe4+ 51. Kg3 Kg7 52. Qd2 Qe5+ 53. Kh3 b5 54. b4 f5 55. a3 f4 56.
+Qd7+ Kh6 57. Kg4 Qe3 0-1
 
 [Event "BL 1112 SC Eppingen - SF Katernberg"]
 [Site "?"]
@@ -185,21 +189,22 @@ Qd2 Qe5+ 53. Kh3 b5 54. b4 f5 55. a3 f4 56. Qd7+ Kh6 57. Kg4 Qe3 0-1
 [White "Fontaine, Robert"]
 [Black "Bologan, Victor"]
 [Result "0-1"]
-[ECO "A30"]
 [WhiteElo "2552"]
 [BlackElo "2657"]
-[PlyCount "114"]
+[ECO "A30"]
 [EventDate "2011.??.??"]
+[PlyCount "114"]
 
-1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. g3 Qb6 6. Nb3 Ne5 7. Bg2 Bb4+ 8.
-N1d2 Nxc4 9. a3 Nxd2 10. axb4 Nxb3 11. Qxb3 d5 12. Qc3 Nf6 13. Be3 Qd8 14. Bxa7
-O-O 15. O-O Bd7 16. Bd4 Rc8 17. Qd2 Bc6 18. Ra5 b6 19. Ra7 Nd7 20. Qf4 Bb5 21.
-b3 Re8 22. Ba1 Rc2 23. Re1 h6 24. Qd4 Nf6 25. Qd1 Rc8 26. Be5 Nd7 27. Bb2 Qe7
-28. Qd4 Qf8 29. Qd2 Red8 30. e3 Rc6 31. e4 Rdc8 32. Rc1 Rxc1+ 33. Bxc1 d4 34.
-Bb2 e5 35. Bh3 Qd6 36. Ra1 Rd8 37. Bxd7 Rxd7 38. Rc1 Qe6 39. Qd1 Ra7 40. Ra1
-Rxa1 41. Bxa1 Qd6 42. Bb2 Qxb4 43. f4 f6 44. fxe5 fxe5 45. Bc1 Qc3 46. Kf2 Bd3
-47. Bd2 Qb2 48. Ke1 Qb1 49. Bb4 Kf7 50. Bd6 Kf6 51. Qxb1 Bxb1 52. Bc7 b5 53. b4
-Bxe4 54. Bd6 h5 55. h4 Ke6 56. Bf8 g6 57. Bg7 Bf5 0-1
+1. c4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. g3 Qb6 6. Nb3 Ne5 7. Bg2 Bb4+
+8. N1d2 Nxc4 9. a3 Nxd2 10. axb4 Nxb3 11. Qxb3 d5 12. Qc3 Nf6 13. Be3 Qd8
+14. Bxa7 O-O 15. O-O Bd7 16. Bd4 Rc8 17. Qd2 Bc6 18. Ra5 b6 19. Ra7 Nd7 20.
+Qf4 Bb5 21. b3 Re8 22. Ba1 Rc2 23. Re1 h6 24. Qd4 Nf6 25. Qd1 Rc8 26. Be5
+Nd7 27. Bb2 Qe7 28. Qd4 Qf8 29. Qd2 Red8 30. e3 Rc6 31. e4 Rdc8 32. Rc1
+Rxc1+ 33. Bxc1 d4 34. Bb2 e5 35. Bh3 Qd6 36. Ra1 Rd8 37. Bxd7 Rxd7 38. Rc1
+Qe6 39. Qd1 Ra7 40. Ra1 Rxa1 41. Bxa1 Qd6 42. Bb2 Qxb4 43. f4 f6 44. fxe5
+fxe5 45. Bc1 Qc3 46. Kf2 Bd3 47. Bd2 Qb2 48. Ke1 Qb1 49. Bb4 Kf7 50. Bd6
+Kf6 51. Qxb1 Bxb1 52. Bc7 b5 53. b4 Bxe4 54. Bd6 h5 55. h4 Ke6 56. Bf8 g6
+57. Bg7 Bf5 0-1
 
 [Event "BL 1112 SC Eppingen - SF Katernberg"]
 [Site "?"]
@@ -208,16 +213,16 @@ Bxe4 54. Bd6 h5 55. h4 Ke6 56. Bf8 g6 57. Bg7 Bf5 0-1
 [White "Balogh, Csaba"]
 [Black "Bischoff, Klaus"]
 [Result "1/2-1/2"]
-[ECO "B81"]
 [WhiteElo "2662"]
 [BlackElo "2547"]
-[PlyCount "44"]
+[ECO "B81"]
 [EventDate "2011.??.??"]
+[PlyCount "44"]
 
-1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. Bg2 a6 8. h3 g5
-9. Be3 Nbd7 10. Qe2 Ne5 11. O-O-O Nfd7 12. f4 gxf4 13. Bxf4 b5 14. Qf2 Bb7 15.
-Rhf1 Bg7 16. Nce2 Qc7 17. Ng3 Rh7 18. Nh5 Bh8 19. Bg3 O-O-O 20. Bh4 Rg8 21. Kb1
-Kb8 22. Qe1 Rc8 1/2-1/2
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. Bg2 a6 8.
+h3 g5 9. Be3 Nbd7 10. Qe2 Ne5 11. O-O-O Nfd7 12. f4 gxf4 13. Bxf4 b5 14.
+Qf2 Bb7 15. Rhf1 Bg7 16. Nce2 Qc7 17. Ng3 Rh7 18. Nh5 Bh8 19. Bg3 O-O-O 20.
+Bh4 Rg8 21. Kb1 Kb8 22. Qe1 Rc8 1/2-1/2
 
 [Event "BL 1112 SC Eppingen - SF Katernberg"]
 [Site "?"]
@@ -226,17 +231,17 @@ Kb8 22. Qe1 Rc8 1/2-1/2
 [White "Lahno, Kateryna"]
 [Black "Tiviakov, Sergei"]
 [Result "1/2-1/2"]
-[ECO "A20"]
 [WhiteElo "2554"]
 [BlackElo "2647"]
-[PlyCount "54"]
+[ECO "A20"]
 [EventDate "2011.??.??"]
+[PlyCount "54"]
 
-1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nf3 Nc6 6. O-O Nb6 7. b3 Bd6 8.
-Bb2 O-O 9. d3 Qe7 10. Nc3 Bg4 11. h3 Bd7 12. Nd2 Ba3 13. Bxa3 Qxa3 14. Nc4 Qe7
-15. a4 Nxc4 16. bxc4 Na5 17. Rb1 Rab8 18. Qd2 b6 19. Nb5 Bc6 20. Qb4 Qd7 21. c5
-a6 22. cxb6 Bxg2 23. Kxg2 cxb6 24. Nc3 Nc6 25. Qg4 Qe7 26. Nd5 Qd8 27. Nb4 Nxb4
-1/2-1/2
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nf3 Nc6 6. O-O Nb6 7. b3 Bd6
+8. Bb2 O-O 9. d3 Qe7 10. Nc3 Bg4 11. h3 Bd7 12. Nd2 Ba3 13. Bxa3 Qxa3 14.
+Nc4 Qe7 15. a4 Nxc4 16. bxc4 Na5 17. Rb1 Rab8 18. Qd2 b6 19. Nb5 Bc6 20.
+Qb4 Qd7 21. c5 a6 22. cxb6 Bxg2 23. Kxg2 cxb6 24. Nc3 Nc6 25. Qg4 Qe7 26.
+Nd5 Qd8 27. Nb4 Nxb4 1/2-1/2
 
 [Event "BL 1112 SC Eppingen - SF Katernberg"]
 [Site "?"]
@@ -245,23 +250,23 @@ a6 22. cxb6 Bxg2 23. Kxg2 cxb6 24. Nc3 Nc6 25. Qg4 Qe7 26. Nd5 Qd8 27. Nb4 Nxb4
 [White "Gyimesi, Zoltan"]
 [Black "Firman, Nazar"]
 [Result "1-0"]
-[ECO "E10"]
 [WhiteElo "2646"]
 [BlackElo "2517"]
-[PlyCount "135"]
+[ECO "E10"]
 [EventDate "2011.??.??"]
+[PlyCount "135"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. Bg5 b4 6. a3 h6 7. Bh4 Na6 8. Nbd2
-bxa3 9. Rxa3 Nb4 10. e4 d6 11. Nd4 g5 12. Bg3 cxd4 13. Qa4+ Nd7 14. Qxb4 Rb8
-15. Qa4 Rxb2 16. Bd3 Be7 17. Rb3 Rxb3 18. Nxb3 O-O 19. Qxa7 e5 20. Ke2 Qe8 21.
-Qa3 Nb6 22. Ra1 f5 23. exf5 e4 24. Bxe4 Nxc4 25. Qb4 Bf6 26. f3 Ne3 27. Ra8
-Nxf5 28. Na5 Nxg3+ 29. hxg3 Qe5 30. Kf2 Bg7 31. Qb1 d3 32. Qxd3 Qa1 33. Qb1 Qa3
-34. Qb3 Qa1 35. Qb1 Bd4+ 36. Ke2 Qa3 37. Qd3 Bc3 38. Ra7 Qc1 39. Qd1 Qa3 40.
-Qb3 Qa1 41. Qb1 Qxb1 42. Bxb1 Bd4 43. Re7 Bf6 44. Re3 Bd7 45. Nc6 Re8 46. Be4
-Kf8 47. Rd3 h5 48. Kf2 Ra8 49. Rb3 Bc8 50. Bg6 Ra2+ 51. Kg1 h4 52. gxh4 gxh4
-53. Rb8 Kg7 54. Rxc8 Kxg6 55. Re8 Kf5 56. Re6 Be5 57. Nxe5 dxe5 58. Re8 Rd2 59.
-Rd8 h3 60. gxh3 Kf4 61. d6 Kxf3 62. h4 Rd1+ 63. Kh2 e4 64. d7 Ke2 65. h5 e3 66.
-h6 Rd6 67. Kg3 Rxh6 68. Rg8 1-0
+bxa3 9. Rxa3 Nb4 10. e4 d6 11. Nd4 g5 12. Bg3 cxd4 13. Qa4+ Nd7 14. Qxb4
+Rb8 15. Qa4 Rxb2 16. Bd3 Be7 17. Rb3 Rxb3 18. Nxb3 O-O 19. Qxa7 e5 20. Ke2
+Qe8 21. Qa3 Nb6 22. Ra1 f5 23. exf5 e4 24. Bxe4 Nxc4 25. Qb4 Bf6 26. f3 Ne3
+27. Ra8 Nxf5 28. Na5 Nxg3+ 29. hxg3 Qe5 30. Kf2 Bg7 31. Qb1 d3 32. Qxd3 Qa1
+33. Qb1 Qa3 34. Qb3 Qa1 35. Qb1 Bd4+ 36. Ke2 Qa3 37. Qd3 Bc3 38. Ra7 Qc1
+39. Qd1 Qa3 40. Qb3 Qa1 41. Qb1 Qxb1 42. Bxb1 Bd4 43. Re7 Bf6 44. Re3 Bd7
+45. Nc6 Re8 46. Be4 Kf8 47. Rd3 h5 48. Kf2 Ra8 49. Rb3 Bc8 50. Bg6 Ra2+ 51.
+Kg1 h4 52. gxh4 gxh4 53. Rb8 Kg7 54. Rxc8 Kxg6 55. Re8 Kf5 56. Re6 Be5 57.
+Nxe5 dxe5 58. Re8 Rd2 59. Rd8 h3 60. gxh3 Kf4 61. d6 Kxf3 62. h4 Rd1+ 63.
+Kh2 e4 64. d7 Ke2 65. h5 e3 66. h6 Rd6 67. Kg3 Rxh6 68. Rg8 1-0
 
 [Event "BL 1112 SC Eppingen - SF Katernberg"]
 [Site "?"]
@@ -270,17 +275,18 @@ h6 Rd6 67. Kg3 Rxh6 68. Rg8 1-0
 [White "Siebrecht, Sebastian"]
 [Black "Postny, Evgeny"]
 [Result "0-1"]
-[ECO "D15"]
 [WhiteElo "2471"]
 [BlackElo "2622"]
-[PlyCount "64"]
+[ECO "D15"]
 [EventDate "2011.??.??"]
+[PlyCount "64"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. c5 g6 6. Bf4 Bg7 7. h3 Ne4 8. Nxe4
-dxe4 9. Ne5 Be6 10. e3 Nd7 11. Nxd7 Qxd7 12. Qc2 Bd5 13. Be2 O-O 14. h4 h6 15.
-g4 Rfe8 16. Rg1 e5 17. dxe5 Qe7 18. O-O-O Bxe5 19. Bxh6 Qxh4 20. Rh1 Qf6 21.
-Rh3 Rad8 22. Rdh1 Bxa2 23. Bf4 Bd5 24. g5 Qg7 25. R1h2 Bxf4 26. exf4 Be6 27.
-Rh8+ Qxh8 28. Rxh8+ Kxh8 29. Qxe4 Bf5 30. Qc4 Kg8 31. f3 a5 32. b3 Re3 0-1
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. c5 g6 6. Bf4 Bg7 7. h3 Ne4 8.
+Nxe4 dxe4 9. Ne5 Be6 10. e3 Nd7 11. Nxd7 Qxd7 12. Qc2 Bd5 13. Be2 O-O 14.
+h4 h6 15. g4 Rfe8 16. Rg1 e5 17. dxe5 Qe7 18. O-O-O Bxe5 19. Bxh6 Qxh4 20.
+Rh1 Qf6 21. Rh3 Rad8 22. Rdh1 Bxa2 23. Bf4 Bd5 24. g5 Qg7 25. R1h2 Bxf4 26.
+exf4 Be6 27. Rh8+ Qxh8 28. Rxh8+ Kxh8 29. Qxe4 Bf5 30. Qc4 Kg8 31. f3 a5
+32. b3 Re3 0-1
 
 [Event "BL 1112 SC Eppingen - SF Katernberg"]
 [Site "?"]
@@ -289,18 +295,18 @@ Rh8+ Qxh8 28. Rxh8+ Kxh8 29. Qxe4 Bf5 30. Qc4 Kg8 31. f3 a5 32. b3 Re3 0-1
 [White "Acs, Peter"]
 [Black "Kotainy, Jens"]
 [Result "1/2-1/2"]
-[ECO "C12"]
 [WhiteElo "2587"]
 [BlackElo "2406"]
-[PlyCount "69"]
+[ECO "C12"]
 [EventDate "2011.??.??"]
+[PlyCount "69"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8. Qg4
-g6 9. Bd3 Nxd2 10. Kxd2 c5 11. h4 Nc6 12. Qf4 Qa5 13. dxc5 Qxc5 14. Ne2 Bd7 15.
-Rab1 b6 16. Rh3 O-O-O 17. Rf3 Kb7 18. Nd4 f5 19. Nb5 g5 20. Qe3 Qxe3+ 21. Rxe3
-f4 22. Re2 Rdf8 23. Rh1 g4 24. c4 dxc4 25. Bxc4 Na5 26. Nd6+ Kc7 27. Bd3 Bc6
-28. Be4 Rhg8 29. Bxc6 Nxc6 30. Rb1 a6 31. Re4 Nxe5 32. Nb5+ axb5 33. Rxe5 Rd8+
-34. Kc3 Rd6 35. Rb4 1/2-1/2
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bd2 Bxc3 7. bxc3 Ne4 8.
+Qg4 g6 9. Bd3 Nxd2 10. Kxd2 c5 11. h4 Nc6 12. Qf4 Qa5 13. dxc5 Qxc5 14. Ne2
+Bd7 15. Rab1 b6 16. Rh3 O-O-O 17. Rf3 Kb7 18. Nd4 f5 19. Nb5 g5 20. Qe3
+Qxe3+ 21. Rxe3 f4 22. Re2 Rdf8 23. Rh1 g4 24. c4 dxc4 25. Bxc4 Na5 26. Nd6+
+Kc7 27. Bd3 Bc6 28. Be4 Rhg8 29. Bxc6 Nxc6 30. Rb1 a6 31. Re4 Nxe5 32. Nb5+
+axb5 33. Rxe5 Rd8+ 34. Kc3 Rd6 35. Rb4 1/2-1/2
 
 [Event "BL 1112 SC Eppingen - SF Katernberg"]
 [Site "?"]
@@ -309,24 +315,24 @@ f4 22. Re2 Rdf8 23. Rh1 g4 24. c4 dxc4 25. Bxc4 Na5 26. Nd6+ Kc7 27. Bd3 Bc6
 [White "Glek, Igor V"]
 [Black "Bindrich, Falko"]
 [Result "1/2-1/2"]
-[ECO "C47"]
 [WhiteElo "2408"]
 [BlackElo "2548"]
-[PlyCount "142"]
+[ECO "C47"]
 [EventDate "2011.??.??"]
+[PlyCount "142"]
 
-1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 Bc5 5. Bg2 d6 6. d3 a6 7. O-O h6 8. a3 O-O
-9. b4 Ba7 10. Be3 Nd4 11. h3 Bd7 12. Bxd4 exd4 13. Ne2 c5 14. bxc5 dxc5 15. Ne5
-Re8 16. f4 Rc8 17. Kh2 Bb8 18. Nxd7 Qxd7 19. c4 dxc3 20. Nxc3 Rcd8 21. e5 Qxd3
-22. Qxd3 Rxd3 23. Rf3 Rxf3 24. Bxf3 b5 25. Bb7 Nh5 26. Bxa6 b4 27. axb4 cxb4
-28. Nd5 Rd8 29. Rd1 Kf8 30. Be2 g6 31. Nxb4 Rxd1 32. Bxd1 Ng7 33. Nc6 Bc7 34.
-Bg4 Bb6 35. Bd7 Bc7 36. Kg2 h5 37. Kf3 Bb6 38. g4 hxg4+ 39. hxg4 Bc7 40. Ke4
-Bb6 41. Nb4 Ba5 42. Nd5 Be1 43. f5 gxf5+ 44. gxf5 Bf2 45. Nf4 Be1 46. Ng2 Bc3
-47. Nf4 Bb2 48. Ba4 Bc3 49. Nd5 Bb2 50. Nf6 Ba1 51. Nd7+ Ke8 52. Bb5 Bb2 53.
-Nb6+ Kf8 54. Nc4 Bc3 55. Nd6 Nh5 56. Bc4 Ng3+ 57. Kf4 f6 58. Nf7 Nxf5 59. Kxf5
-fxe5 60. Ng5 Ke7 61. Ne4 Bd4 62. Ba2 Bb2 63. Nd2 Bc3 64. Nc4 Bd4 65. Ke4 Bc3
-66. Ne3 Bd4 67. Ng4 Bb2 68. Kf5 Bd4 69. Nf6 Ba1 70. Nd5+ Kd6 71. Ke4 Bd4
-1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 Bc5 5. Bg2 d6 6. d3 a6 7. O-O h6 8. a3
+O-O 9. b4 Ba7 10. Be3 Nd4 11. h3 Bd7 12. Bxd4 exd4 13. Ne2 c5 14. bxc5 dxc5
+15. Ne5 Re8 16. f4 Rc8 17. Kh2 Bb8 18. Nxd7 Qxd7 19. c4 dxc3 20. Nxc3 Rcd8
+21. e5 Qxd3 22. Qxd3 Rxd3 23. Rf3 Rxf3 24. Bxf3 b5 25. Bb7 Nh5 26. Bxa6 b4
+27. axb4 cxb4 28. Nd5 Rd8 29. Rd1 Kf8 30. Be2 g6 31. Nxb4 Rxd1 32. Bxd1 Ng7
+33. Nc6 Bc7 34. Bg4 Bb6 35. Bd7 Bc7 36. Kg2 h5 37. Kf3 Bb6 38. g4 hxg4+ 39.
+hxg4 Bc7 40. Ke4 Bb6 41. Nb4 Ba5 42. Nd5 Be1 43. f5 gxf5+ 44. gxf5 Bf2 45.
+Nf4 Be1 46. Ng2 Bc3 47. Nf4 Bb2 48. Ba4 Bc3 49. Nd5 Bb2 50. Nf6 Ba1 51.
+Nd7+ Ke8 52. Bb5 Bb2 53. Nb6+ Kf8 54. Nc4 Bc3 55. Nd6 Nh5 56. Bc4 Ng3+ 57.
+Kf4 f6 58. Nf7 Nxf5 59. Kxf5 fxe5 60. Ng5 Ke7 61. Ne4 Bd4 62. Ba2 Bb2 63.
+Nd2 Bc3 64. Nc4 Bd4 65. Ke4 Bc3 66. Ne3 Bd4 67. Ng4 Bb2 68. Kf5 Bd4 69. Nf6
+Ba1 70. Nd5+ Kd6 71. Ke4 Bd4 1/2-1/2
 
 [Event "BL 1112 SC Eppingen - SF Katernberg"]
 [Site "?"]
@@ -335,23 +341,24 @@ fxe5 60. Ng5 Ke7 61. Ne4 Bd4 62. Ba2 Bb2 63. Nd2 Bc3 64. Nc4 Bd4 65. Ke4 Bc3
 [White "Medvegy, Zoltan"]
 [Black "Thesing, Matthias"]
 [Result "1-0"]
-[ECO "E05"]
 [WhiteElo "2531"]
 [BlackElo "2404"]
-[PlyCount "135"]
+[ECO "E05"]
 [EventDate "2011.??.??"]
+[PlyCount "135"]
 
-1. c4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Be7 5. d4 O-O 6. O-O dxc4 7. Qc2 a6 8. Qxc4
-b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Bb7 12. Qc2 Be4 13. Qc1 Bb7 14. Bf4 Bd6 15.
-Rd1 Qe7 16. Nbd2 Nbd7 17. Ne5 Bxg2 18. Kxg2 Rac8 19. Nc6 Qe8 20. Bg5 e5 21.
-Bxf6 Nxf6 22. e4 Nd7 23. d5 Nb6 24. Qc2 Kh8 25. Nf3 f6 26. b3 Ra8 27. a4 bxa4
-28. bxa4 Nd7 29. Rab1 Nb8 30. Rb7 Nd7 31. Rb3 Qh5 32. h3 Rae8 33. Re1 f5 34.
-exf5 Qxf5 35. Qxf5 Rxf5 36. Nfd4 Rff8 37. Ne6 Rg8 38. Rb7 Rc8 39. a5 h6 40.
-Reb1 Nf6 41. Na7 Ra8 42. Nxc7 Bxc7 43. Rxc7 Nxd5 44. Rd7 Nf6 45. Re7 Nd5 46.
-Rd7 Nf6 47. Rdb7 Rge8 48. Nc6 Rac8 49. R1b6 Ne4 50. Rb8 Rxb8 51. Nxb8 Rf8 52.
-f3 Nd2 53. Nd7 Rxf3 54. Rxa6 Ra3 55. Nxe5 Ra2 56. Nc6 Nc4+ 57. Kf3 Ra3+ 58. Kf4
-Ra4 59. Kf5 Kh7 60. h4 Ra3 61. g4 Ne3+ 62. Kf4 Ng2+ 63. Ke4 Nxh4 64. Ra8 Ra4+
-65. Kd5 Rxg4 66. a6 Nf5 67. a7 Ra4 68. Re8 1-0
+1. c4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Be7 5. d4 O-O 6. O-O dxc4 7. Qc2 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 Bb7 12. Qc2 Be4 13. Qc1 Bb7 14. Bf4
+Bd6 15. Rd1 Qe7 16. Nbd2 Nbd7 17. Ne5 Bxg2 18. Kxg2 Rac8 19. Nc6 Qe8 20.
+Bg5 e5 21. Bxf6 Nxf6 22. e4 Nd7 23. d5 Nb6 24. Qc2 Kh8 25. Nf3 f6 26. b3
+Ra8 27. a4 bxa4 28. bxa4 Nd7 29. Rab1 Nb8 30. Rb7 Nd7 31. Rb3 Qh5 32. h3
+Rae8 33. Re1 f5 34. exf5 Qxf5 35. Qxf5 Rxf5 36. Nfd4 Rff8 37. Ne6 Rg8 38.
+Rb7 Rc8 39. a5 h6 40. Reb1 Nf6 41. Na7 Ra8 42. Nxc7 Bxc7 43. Rxc7 Nxd5 44.
+Rd7 Nf6 45. Re7 Nd5 46. Rd7 Nf6 47. Rdb7 Rge8 48. Nc6 Rac8 49. R1b6 Ne4 50.
+Rb8 Rxb8 51. Nxb8 Rf8 52. f3 Nd2 53. Nd7 Rxf3 54. Rxa6 Ra3 55. Nxe5 Ra2 56.
+Nc6 Nc4+ 57. Kf3 Ra3+ 58. Kf4 Ra4 59. Kf5 Kh7 60. h4 Ra3 61. g4 Ne3+ 62.
+Kf4 Ng2+ 63. Ke4 Nxh4 64. Ra8 Ra4+ 65. Kd5 Rxg4 66. a6 Nf5 67. a7 Ra4 68.
+Re8 1-0
 
 [Event "BL 1112 Hansa Dortmund - Werder Bremen"]
 [Site "?"]
@@ -360,27 +367,28 @@ Ra4 59. Kf5 Kh7 60. h4 Ra3 61. g4 Ne3+ 62. Kf4 Ng2+ 63. Ke4 Nxh4 64. Ra8 Ra4+
 [White "Efimenko, Zahar"]
 [Black "Berg, Emanuel"]
 [Result "1-0"]
-[ECO "C06"]
 [WhiteElo "2703"]
 [BlackElo "2575"]
-[PlyCount "187"]
+[ECO "C06"]
 [EventDate "2011.??.??"]
+[PlyCount "187"]
 
-1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
-f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qc7 12. Bd2 O-O 13. Rc1 Bd7 14. Ng3 Rae8
-15. Re1 Qb6 16. Bc3 Bf4 17. Rc2 Nb4 18. Bxb4 Qxb4 19. Ne2 Bd6 20. Nc3 Re7 21.
-Ne5 Kh8 22. Bf1 Be8 23. h3 Nd7 24. a3 Qb6 25. Na4 Qd8 26. Nxd7 Bxd7 27. Nc5
-Bxc5 28. Rxc5 Ref7 29. Re2 b6 30. Rc3 Bb5 31. Rd2 Bxf1 32. Qxf1 h6 33. Qe1 Qh4
-34. Re3 Rf4 35. Rxe6 Qg5 36. Qe3 Qf5 37. Re5 Qb1+ 38. Kh2 Qf1 39. Rxd5 Rxf2 40.
-Rxf2 Qxf2 41. Qe5 Qf7 42. Rd6 Kg8 43. d5 Qc7 44. Re6 Qxe5+ 45. Rxe5 Rf2 46. d6
-Rd2 47. Re7 Rxd6 48. Rxa7 Rd2 49. b4 b5 50. h4 Rd3 51. h5 Rd5 52. g4 Rd3 53.
-Kg2 Kf8 54. Kf2 Rc3 55. Ra5 Ke7 56. Ke2 Rg3 57. Kf2 Rc3 58. Ke2 Rg3 59. Rxb5
-Rxa3 60. Re5+ Kd6 61. Re3 Ra2+ 62. Kf3 Rb2 63. Re4 Kd5 64. Kf4 Rf2+ 65. Kg3 Rb2
-66. Re7 Rxb4 67. Rxg7 Rb6 68. g5 Ke5 69. g6 Rb3+ 70. Kg2 Rb2+ 71. Kf3 Rb3+ 72.
-Ke2 Rb2+ 73. Kd3 Rh2 74. Re7+ Kf6 75. Rf7+ Ke6 76. Rf8 Rg2 77. Rh8 Kf6 78. Rxh6
-Kg7 79. Rh7+ Kg8 80. Ke4 Rg5 81. Kf4 Ra5 82. Kg4 Ra4+ 83. Kg5 Ra5+ 84. Kh6 Ra8
-85. Rg7+ Kh8 86. Re7 Kg8 87. Kg5 Ra5+ 88. Kf6 Ra6+ 89. Re6 Ra8 90. h6 Kh8 91.
-h7 Rb8 92. Kg5 Kg7 93. Re7+ Kh8 94. Kh6 1-0
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8.
+cxd4 f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qc7 12. Bd2 O-O 13. Rc1 Bd7 14.
+Ng3 Rae8 15. Re1 Qb6 16. Bc3 Bf4 17. Rc2 Nb4 18. Bxb4 Qxb4 19. Ne2 Bd6 20.
+Nc3 Re7 21. Ne5 Kh8 22. Bf1 Be8 23. h3 Nd7 24. a3 Qb6 25. Na4 Qd8 26. Nxd7
+Bxd7 27. Nc5 Bxc5 28. Rxc5 Ref7 29. Re2 b6 30. Rc3 Bb5 31. Rd2 Bxf1 32.
+Qxf1 h6 33. Qe1 Qh4 34. Re3 Rf4 35. Rxe6 Qg5 36. Qe3 Qf5 37. Re5 Qb1+ 38.
+Kh2 Qf1 39. Rxd5 Rxf2 40. Rxf2 Qxf2 41. Qe5 Qf7 42. Rd6 Kg8 43. d5 Qc7 44.
+Re6 Qxe5+ 45. Rxe5 Rf2 46. d6 Rd2 47. Re7 Rxd6 48. Rxa7 Rd2 49. b4 b5 50.
+h4 Rd3 51. h5 Rd5 52. g4 Rd3 53. Kg2 Kf8 54. Kf2 Rc3 55. Ra5 Ke7 56. Ke2
+Rg3 57. Kf2 Rc3 58. Ke2 Rg3 59. Rxb5 Rxa3 60. Re5+ Kd6 61. Re3 Ra2+ 62. Kf3
+Rb2 63. Re4 Kd5 64. Kf4 Rf2+ 65. Kg3 Rb2 66. Re7 Rxb4 67. Rxg7 Rb6 68. g5
+Ke5 69. g6 Rb3+ 70. Kg2 Rb2+ 71. Kf3 Rb3+ 72. Ke2 Rb2+ 73. Kd3 Rh2 74. Re7+
+Kf6 75. Rf7+ Ke6 76. Rf8 Rg2 77. Rh8 Kf6 78. Rxh6 Kg7 79. Rh7+ Kg8 80. Ke4
+Rg5 81. Kf4 Ra5 82. Kg4 Ra4+ 83. Kg5 Ra5+ 84. Kh6 Ra8 85. Rg7+ Kh8 86. Re7
+Kg8 87. Kg5 Ra5+ 88. Kf6 Ra6+ 89. Re6 Ra8 90. h6 Kh8 91. h7 Rb8 92. Kg5 Kg7
+93. Re7+ Kh8 94. Kh6 1-0
 
 [Event "BL 1112 Hansa Dortmund - Werder Bremen"]
 [Site "?"]
@@ -389,17 +397,17 @@ h7 Rb8 92. Kg5 Kg7 93. Re7+ Kh8 94. Kh6 1-0
 [White "Miton, Kamil"]
 [Black "Fressinet, Laurent"]
 [Result "1/2-1/2"]
-[ECO "D46"]
 [WhiteElo "2628"]
 [BlackElo "2696"]
-[PlyCount "58"]
+[ECO "D46"]
 [EventDate "2011.??.??"]
+[PlyCount "58"]
 
-1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8. O-O
-dxc4 9. Bxc4 a6 10. Ne4 Nxe4 11. Qxe4 c5 12. Rd1 Qe7 13. Bd2 Nf6 14. Qh4 b5 15.
-dxc5 Bxc5 16. Bd3 Bb7 17. Rac1 Rac8 18. Bc3 h6 19. Kf1 Rfe8 20. Bxf6 Qxf6 21.
-Qxf6 gxf6 22. Ke2 Be7 23. g4 Kg7 24. Nd2 Rxc1 25. Rxc1 Rc8 26. Rxc8 Bxc8 27.
-Ne4 e5 28. f3 f5 29. gxf5 Bxf5 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8.
+O-O dxc4 9. Bxc4 a6 10. Ne4 Nxe4 11. Qxe4 c5 12. Rd1 Qe7 13. Bd2 Nf6 14.
+Qh4 b5 15. dxc5 Bxc5 16. Bd3 Bb7 17. Rac1 Rac8 18. Bc3 h6 19. Kf1 Rfe8 20.
+Bxf6 Qxf6 21. Qxf6 gxf6 22. Ke2 Be7 23. g4 Kg7 24. Nd2 Rxc1 25. Rxc1 Rc8
+26. Rxc8 Bxc8 27. Ne4 e5 28. f3 f5 29. gxf5 Bxf5 1/2-1/2
 
 [Event "BL 1112 Hansa Dortmund - Werder Bremen"]
 [Site "?"]
@@ -408,18 +416,18 @@ Ne4 e5 28. f3 f5 29. gxf5 Bxf5 1/2-1/2
 [White "McShane, Luke James"]
 [Black "Tikkanen, Hans"]
 [Result "1-0"]
-[ECO "C05"]
 [WhiteElo "2671"]
 [BlackElo "2591"]
-[PlyCount "72"]
+[ECO "C05"]
 [EventDate "2011.??.??"]
+[PlyCount "72"]
 
-1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qb6 8. a3 c4
-9. Ne2 Na5 10. g4 Qb3 11. Qd2 Qb5 12. Qe3 Nb3 13. Rb1 Nb6 14. Ng3 Bd7 15. f5
-Be7 16. Nh5 Rg8 17. f6 gxf6 18. exf6 Bd6 19. Ng7+ Kd8 20. Ng5 Rf8 21. Nxh7 Rh8
-22. Ng5 Rf8 23. Nf3 Bc6 24. Be2 Nd7 25. g5 Qb6 26. Kf1 Nxc1 27. Qxc1 Qc7 28.
-Qe1 Rh8 29. Qf2 Nf8 30. h4 Qb6 31. h5 Ng6 32. Kg1 Nf4 33. Bf1 Nd3 34. Bxd3 cxd3
-35. g6 Kd7 36. Ng5 fxg6 1-0
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. f4 Nc6 7. Ndf3 Qb6 8.
+a3 c4 9. Ne2 Na5 10. g4 Qb3 11. Qd2 Qb5 12. Qe3 Nb3 13. Rb1 Nb6 14. Ng3 Bd7
+15. f5 Be7 16. Nh5 Rg8 17. f6 gxf6 18. exf6 Bd6 19. Ng7+ Kd8 20. Ng5 Rf8
+21. Nxh7 Rh8 22. Ng5 Rf8 23. Nf3 Bc6 24. Be2 Nd7 25. g5 Qb6 26. Kf1 Nxc1
+27. Qxc1 Qc7 28. Qe1 Rh8 29. Qf2 Nf8 30. h4 Qb6 31. h5 Ng6 32. Kg1 Nf4 33.
+Bf1 Nd3 34. Bxd3 cxd3 35. g6 Kd7 36. Ng5 fxg6 1-0
 
 [Event "BL 1112 Hansa Dortmund - Werder Bremen"]
 [Site "?"]
@@ -428,16 +436,16 @@ Qe1 Rh8 29. Qf2 Nf8 30. h4 Qb6 31. h5 Ng6 32. Kg1 Nf4 33. Bf1 Nd3 34. Bxd3 cxd3
 [White "Henrichs, Thomas"]
 [Black "Roiz, Michael"]
 [Result "1/2-1/2"]
-[ECO "D66"]
 [WhiteElo "2473"]
 [BlackElo "2668"]
-[PlyCount "41"]
+[ECO "D66"]
 [EventDate "2011.??.??"]
+[PlyCount "41"]
 
-1. Nf3 d5 2. d4 e6 3. c4 c6 4. Nc3 Nf6 5. Bg5 Be7 6. e3 Nbd7 7. Rc1 O-O 8. Bd3
-h6 9. Bh4 dxc4 10. Bxc4 Nd5 11. Bg3 Nxc3 12. bxc3 b6 13. O-O Bb7 14. Qe2 c5 15.
-Rfd1 Qc8 16. e4 Re8 17. Bb5 Bc6 18. Ba6 Bb7 19. Bb5 Bc6 20. Ba6 Bb7 21. Bb5
-1/2-1/2
+1. Nf3 d5 2. d4 e6 3. c4 c6 4. Nc3 Nf6 5. Bg5 Be7 6. e3 Nbd7 7. Rc1 O-O 8.
+Bd3 h6 9. Bh4 dxc4 10. Bxc4 Nd5 11. Bg3 Nxc3 12. bxc3 b6 13. O-O Bb7 14.
+Qe2 c5 15. Rfd1 Qc8 16. e4 Re8 17. Bb5 Bc6 18. Ba6 Bb7 19. Bb5 Bc6 20. Ba6
+Bb7 21. Bb5 1/2-1/2
 
 [Event "BL 1112 Hansa Dortmund - Werder Bremen"]
 [Site "?"]
@@ -446,19 +454,19 @@ Rfd1 Qc8 16. e4 Re8 17. Bb5 Bc6 18. Ba6 Bb7 19. Bb5 Bc6 20. Ba6 Bb7 21. Bb5
 [White "Nyback, Tomi"]
 [Black "Kohlweyer, Bernd"]
 [Result "1-0"]
-[ECO "E52"]
 [WhiteElo "2627"]
 [BlackElo "2458"]
-[PlyCount "81"]
+[ECO "E52"]
 [EventDate "2011.??.??"]
+[PlyCount "81"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. e3 O-O 6. Bd3 d5 7. cxd5 exd5 8. O-O
-Bb7 9. a3 Bd6 10. b4 a6 11. Bb2 Nbd7 12. Ne2 Ne4 13. Ne5 Qe7 14. f3 Nef6 15. f4
-Ne4 16. Bxe4 dxe4 17. Ng3 f5 18. Qb3+ Kh8 19. Rac1 b5 20. Rfd1 Rae8 21. Nc6
-Bxc6 22. Rxc6 Nb6 23. d5 Qf7 24. Bd4 Nc4 25. a4 Ra8 26. Ne2 Kg8 27. Nc3 Rfb8
-28. Ra1 Qh5 29. Qd1 Qxd1+ 30. Nxd1 Nd2 31. Ra2 Nb3 32. Be5 a5 33. axb5 Rxb5 34.
-Bxd6 Rxd5 35. Be5 Rxd1+ 36. Kf2 Rd7 37. Rc3 Nd2 38. bxa5 c5 39. Ke2 Rad8 40. a6
-Nb1 41. Rcc2 1-0
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. e3 O-O 6. Bd3 d5 7. cxd5 exd5 8.
+O-O Bb7 9. a3 Bd6 10. b4 a6 11. Bb2 Nbd7 12. Ne2 Ne4 13. Ne5 Qe7 14. f3
+Nef6 15. f4 Ne4 16. Bxe4 dxe4 17. Ng3 f5 18. Qb3+ Kh8 19. Rac1 b5 20. Rfd1
+Rae8 21. Nc6 Bxc6 22. Rxc6 Nb6 23. d5 Qf7 24. Bd4 Nc4 25. a4 Ra8 26. Ne2
+Kg8 27. Nc3 Rfb8 28. Ra1 Qh5 29. Qd1 Qxd1+ 30. Nxd1 Nd2 31. Ra2 Nb3 32. Be5
+a5 33. axb5 Rxb5 34. Bxd6 Rxd5 35. Be5 Rxd1+ 36. Kf2 Rd7 37. Rc3 Nd2 38.
+bxa5 c5 39. Ke2 Rad8 40. a6 Nb1 41. Rcc2 1-0
 
 [Event "BL 1112 Hansa Dortmund - Werder Bremen"]
 [Site "?"]
@@ -467,22 +475,22 @@ Nb1 41. Rcc2 1-0
 [White "Klyuner, Vyacheslav"]
 [Black "Hracek, Zbynek"]
 [Result "0-1"]
-[ECO "B80"]
 [WhiteElo "2428"]
 [BlackElo "2624"]
-[PlyCount "122"]
+[ECO "B80"]
 [EventDate "2011.??.??"]
+[PlyCount "122"]
 
-1. e4 c5 2. Nf3 d6 3. Nc3 e6 4. g3 Nf6 5. Bg2 Nc6 6. O-O Be7 7. d4 cxd4 8. Nxd4
-Bd7 9. h3 O-O 10. g4 Nxd4 11. Qxd4 Bc6 12. a4 a6 13. a5 Nd7 14. Be3 Rc8 15. Qd2
-Ne5 16. b3 Ng6 17. Na4 Nh4 18. Nb6 Nxg2 19. Nxc8 Qxc8 20. Kxg2 Bxe4+ 21. f3 Bc6
-22. c4 e5 23. Bg5 f6 24. Bh4 Qe6 25. Kh2 g5 26. Be1 f5 27. Qe2 h5 28. gxh5 Kf7
-29. Bc3 Rh8 30. f4 g4 31. hxg4 fxg4 32. Kg3 Rxh5 33. Qxg4 Bh4+ 34. Qxh4 Rxh4
-35. fxe5+ Ke8 36. Kxh4 Qh6+ 37. Kg4 Bd7+ 38. Kg3 Qh3+ 39. Kf4 Qxc3 40. exd6
-Qxb3 41. Rae1+ Kd8 42. Re4 Bc6 43. Rd4 Qc3 44. Rfd1 Kd7 45. R1d2 Qf3+ 46. Ke5
-Qh5+ 47. Kf4 Qh4+ 48. Kf5 Be4+ 49. Ke5 Qe1 50. Kf4 Bg6 51. Kf3 Qe5 52. Kf2 Bh5
-53. Kg2 Qxa5 54. Rf2 Qg5+ 55. Kh2 a5 56. Rff4 Bg6 57. Rg4 Qe5+ 58. Kg2 a4 59.
-c5 a3 60. Rb4 Qd5+ 61. Kg3 a2 0-1
+1. e4 c5 2. Nf3 d6 3. Nc3 e6 4. g3 Nf6 5. Bg2 Nc6 6. O-O Be7 7. d4 cxd4 8.
+Nxd4 Bd7 9. h3 O-O 10. g4 Nxd4 11. Qxd4 Bc6 12. a4 a6 13. a5 Nd7 14. Be3
+Rc8 15. Qd2 Ne5 16. b3 Ng6 17. Na4 Nh4 18. Nb6 Nxg2 19. Nxc8 Qxc8 20. Kxg2
+Bxe4+ 21. f3 Bc6 22. c4 e5 23. Bg5 f6 24. Bh4 Qe6 25. Kh2 g5 26. Be1 f5 27.
+Qe2 h5 28. gxh5 Kf7 29. Bc3 Rh8 30. f4 g4 31. hxg4 fxg4 32. Kg3 Rxh5 33.
+Qxg4 Bh4+ 34. Qxh4 Rxh4 35. fxe5+ Ke8 36. Kxh4 Qh6+ 37. Kg4 Bd7+ 38. Kg3
+Qh3+ 39. Kf4 Qxc3 40. exd6 Qxb3 41. Rae1+ Kd8 42. Re4 Bc6 43. Rd4 Qc3 44.
+Rfd1 Kd7 45. R1d2 Qf3+ 46. Ke5 Qh5+ 47. Kf4 Qh4+ 48. Kf5 Be4+ 49. Ke5 Qe1
+50. Kf4 Bg6 51. Kf3 Qe5 52. Kf2 Bh5 53. Kg2 Qxa5 54. Rf2 Qg5+ 55. Kh2 a5
+56. Rff4 Bg6 57. Rg4 Qe5+ 58. Kg2 a4 59. c5 a3 60. Rb4 Qd5+ 61. Kg3 a2 0-1
 
 [Event "BL 1112 Hansa Dortmund - Werder Bremen"]
 [Site "?"]
@@ -491,23 +499,23 @@ c5 a3 60. Rb4 Qd5+ 61. Kg3 a2 0-1
 [White "Rapport, Richard"]
 [Black "Wegener, Olaf"]
 [Result "1/2-1/2"]
-[ECO "E12"]
 [WhiteElo "2547"]
 [BlackElo "2423"]
-[PlyCount "135"]
+[ECO "E12"]
 [EventDate "2011.??.??"]
+[PlyCount "135"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. e3 Be7 8. Bb5+
-c6 9. Bd3 O-O 10. e4 Nxc3 11. bxc3 c5 12. O-O Qc7 13. Qe2 Nc6 14. Bb2 Rfd8 15.
-Rad1 Na5 16. Ne5 Bd6 17. f4 Qe7 18. Rf3 f6 19. Nc4 Nxc4 20. Bxc4 Kh8 21. Rh3
-Bxf4 22. Qg4 e5 23. Be6 Bc8 24. Bxc8 Raxc8 25. d5 Qf7 26. c4 Kg8 27. Rf3 Qd7
-28. Qxd7 Rxd7 29. a4 a5 30. Kf2 Rd6 31. Ke2 Re8 32. Rb1 Ra8 33. Ba3 Kf7 34. Rh3
-Kg6 35. Rf1 h5 36. Bb2 Rh8 37. Bc3 Rg8 38. Rh1 Rf8 39. Rf3 Rh8 40. g3 Bh6 41.
-Rf5 Re8 42. Rg1 Bg5 43. h4 Bh6 44. Kd3 Kh7 45. Rgf1 Re7 46. R5f2 Ra7 47. Ke2
-Re7 48. Rf3 Ra7 49. Kf2 Re7 50. Kg2 Kg6 51. Kh3 Re8 52. Rg1 Re7 53. g4 hxg4+
-54. Kxg4 Bf4 55. h5+ Kf7 56. Kf5 Re8 57. Rxf4 exf4 58. e5 fxe5 59. Bxe5 Rxe5+
-60. Kxe5 Rh6 61. Kxf4 Rxh5 62. Rb1 Rh6 63. Ke5 Ke7 64. Rg1 Rh5+ 65. Ke4 Rh4+
-66. Ke5 Rh5+ 67. Ke4 Rh4+ 68. Ke5 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. e3 Be7 8.
+Bb5+ c6 9. Bd3 O-O 10. e4 Nxc3 11. bxc3 c5 12. O-O Qc7 13. Qe2 Nc6 14. Bb2
+Rfd8 15. Rad1 Na5 16. Ne5 Bd6 17. f4 Qe7 18. Rf3 f6 19. Nc4 Nxc4 20. Bxc4
+Kh8 21. Rh3 Bxf4 22. Qg4 e5 23. Be6 Bc8 24. Bxc8 Raxc8 25. d5 Qf7 26. c4
+Kg8 27. Rf3 Qd7 28. Qxd7 Rxd7 29. a4 a5 30. Kf2 Rd6 31. Ke2 Re8 32. Rb1 Ra8
+33. Ba3 Kf7 34. Rh3 Kg6 35. Rf1 h5 36. Bb2 Rh8 37. Bc3 Rg8 38. Rh1 Rf8 39.
+Rf3 Rh8 40. g3 Bh6 41. Rf5 Re8 42. Rg1 Bg5 43. h4 Bh6 44. Kd3 Kh7 45. Rgf1
+Re7 46. R5f2 Ra7 47. Ke2 Re7 48. Rf3 Ra7 49. Kf2 Re7 50. Kg2 Kg6 51. Kh3
+Re8 52. Rg1 Re7 53. g4 hxg4+ 54. Kxg4 Bf4 55. h5+ Kf7 56. Kf5 Re8 57. Rxf4
+exf4 58. e5 fxe5 59. Bxe5 Rxe5+ 60. Kxe5 Rh6 61. Kxf4 Rxh5 62. Rb1 Rh6 63.
+Ke5 Ke7 64. Rg1 Rh5+ 65. Ke4 Rh4+ 66. Ke5 Rh5+ 67. Ke4 Rh4+ 68. Ke5 1/2-1/2
 
 [Event "BL 1112 Hansa Dortmund - Werder Bremen"]
 [Site "?"]
@@ -516,17 +524,17 @@ Re7 48. Rf3 Ra7 49. Kf2 Re7 50. Kg2 Kg6 51. Kh3 Re8 52. Rg1 Re7 53. g4 hxg4+
 [White "Ackermann, Hans Werner"]
 [Black "Babula, Vlastimil"]
 [Result "0-1"]
-[ECO "A08"]
 [WhiteElo "2296"]
 [BlackElo "2572"]
-[PlyCount "60"]
+[ECO "A08"]
 [EventDate "2011.??.??"]
+[PlyCount "60"]
 
-1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O Nge7 7. c3 d5 8. Qe2
-O-O 9. Rd1 e5 10. h3 h6 11. c4 d4 12. Nbd2 Be6 13. Nf1 Qd7 14. g4 f5 15. exf5
-gxf5 16. N3h2 Rf7 17. Ng3 Raf8 18. f3 Re8 19. Nh5 Ng6 20. Qd2 Nf4 21. Nxf4 exf4
-22. a3 Ne5 23. Qc2 fxg4 24. hxg4 Qe7 25. Bd2 Qg5 26. Kh1 h5 27. Rg1 hxg4 28.
-fxg4 Nxg4 29. Be1 Nxh2 30. Bh3 Ng4 0-1
+1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O Nge7 7. c3 d5 8.
+Qe2 O-O 9. Rd1 e5 10. h3 h6 11. c4 d4 12. Nbd2 Be6 13. Nf1 Qd7 14. g4 f5
+15. exf5 gxf5 16. N3h2 Rf7 17. Ng3 Raf8 18. f3 Re8 19. Nh5 Ng6 20. Qd2 Nf4
+21. Nxf4 exf4 22. a3 Ne5 23. Qc2 fxg4 24. hxg4 Qe7 25. Bd2 Qg5 26. Kh1 h5
+27. Rg1 hxg4 28. fxg4 Nxg4 29. Be1 Nxh2 30. Bh3 Ng4 0-1
 
 [Event "BL 1112 SV Wattenscheid - Turm Emsdette"]
 [Site "?"]
@@ -535,18 +543,19 @@ fxg4 Nxg4 29. Be1 Nxh2 30. Bh3 Ng4 0-1
 [White "Spoelman, Wouter"]
 [Black "Macieja, Bartlomiej"]
 [Result "0-1"]
-[ECO "E20"]
 [WhiteElo "2563"]
 [BlackElo "2613"]
-[PlyCount "74"]
+[ECO "E20"]
 [EventDate "2011.??.??"]
+[PlyCount "74"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 Nc6 5. e4 O-O 6. Be3 d5 7. e5 Nd7 8. cxd5
-exd5 9. a3 Bxc3+ 10. bxc3 f6 11. f4 fxe5 12. dxe5 Nb6 13. Bd3 Nc4 14. Bc1 Qh4+
-15. g3 Qe7 16. Ra2 N6xe5 17. fxe5 Nxe5 18. Ne2 Bg4 19. h3 Nf3+ 20. Kf1 Ne5+ 21.
-Ke1 Nf3+ 22. Kf1 Ne5+ 23. Ke1 Bf3 24. Rf1 Bg2 25. Rxf8+ Rxf8 26. Bf4 g5 27. Kf2
-Bxh3 28. Bb1 c6 29. Qh1 Bg4 30. Kg1 gxf4 31. gxf4 Ng6 32. Qg2 Qe3+ 33. Kh2 Bxe2
-34. f5 Qf4+ 35. Qg3 Qxg3+ 36. Kxg3 Bc4 37. Rg2 Ne7 0-1
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 Nc6 5. e4 O-O 6. Be3 d5 7. e5 Nd7 8.
+cxd5 exd5 9. a3 Bxc3+ 10. bxc3 f6 11. f4 fxe5 12. dxe5 Nb6 13. Bd3 Nc4 14.
+Bc1 Qh4+ 15. g3 Qe7 16. Ra2 N6xe5 17. fxe5 Nxe5 18. Ne2 Bg4 19. h3 Nf3+ 20.
+Kf1 Ne5+ 21. Ke1 Nf3+ 22. Kf1 Ne5+ 23. Ke1 Bf3 24. Rf1 Bg2 25. Rxf8+ Rxf8
+26. Bf4 g5 27. Kf2 Bxh3 28. Bb1 c6 29. Qh1 Bg4 30. Kg1 gxf4 31. gxf4 Ng6
+32. Qg2 Qe3+ 33. Kh2 Bxe2 34. f5 Qf4+ 35. Qg3 Qxg3+ 36. Kxg3 Bc4 37. Rg2
+Ne7 0-1
 
 [Event "BL 1112 SV Wattenscheid - Turm Emsdette"]
 [Site "?"]
@@ -555,21 +564,21 @@ Bxh3 28. Bb1 c6 29. Qh1 Bg4 30. Kg1 gxf4 31. gxf4 Ng6 32. Qg2 Qe3+ 33. Kh2 Bxe2
 [White "Bartel, Mateusz"]
 [Black "Ipatov, Alexander"]
 [Result "1/2-1/2"]
-[ECO "C26"]
 [WhiteElo "2627"]
 [BlackElo "2591"]
-[PlyCount "103"]
+[ECO "C26"]
 [EventDate "2011.??.??"]
+[PlyCount "103"]
 
-1. e4 e5 2. Nc3 Nf6 3. g3 d5 4. exd5 Nxd5 5. Bg2 Ne7 6. Nge2 g6 7. h4 Nbc6 8.
-h5 gxh5 9. d3 Ng6 10. Nd5 Bg4 11. c3 Bg7 12. Qb3 Rb8 13. Ne3 Be6 14. Bd5 Bxd5
-15. Qxd5 Qxd5 16. Nxd5 O-O 17. Bg5 f6 18. Be3 Rfd8 19. Nxc7 Rxd3 20. Ne6 h4 21.
-gxh4 Kf7 22. Nc5 Rdd8 23. Ng3 Nge7 24. Nce4 h6 25. Nh5 Bh8 26. Bc5 b6 27. Bd6
-Rb7 28. O-O-O Rbd7 29. Nhg3 Ke6 30. Ba3 Rxd1+ 31. Rxd1 Rxd1+ 32. Kxd1 f5 33.
-Nd6 e4 34. Nc4 b5 35. Nd6 a6 36. Nb7 Kd5 37. Na5 Nxa5 38. Bxe7 Nc4 39. b3 Nb2+
-40. Kd2 Ke6 41. Bf8 Bf6 42. Bxh6 Bxh4 43. Ne2 Bxf2 44. Nf4+ Ke5 45. Kc2 Nd3 46.
-Nxd3+ exd3+ 47. Kxd3 Bc5 48. c4 f4 49. cxb5 axb5 50. a4 bxa4 51. Bxf4+ Kxf4 52.
-bxa4 1/2-1/2
+1. e4 e5 2. Nc3 Nf6 3. g3 d5 4. exd5 Nxd5 5. Bg2 Ne7 6. Nge2 g6 7. h4 Nbc6
+8. h5 gxh5 9. d3 Ng6 10. Nd5 Bg4 11. c3 Bg7 12. Qb3 Rb8 13. Ne3 Be6 14. Bd5
+Bxd5 15. Qxd5 Qxd5 16. Nxd5 O-O 17. Bg5 f6 18. Be3 Rfd8 19. Nxc7 Rxd3 20.
+Ne6 h4 21. gxh4 Kf7 22. Nc5 Rdd8 23. Ng3 Nge7 24. Nce4 h6 25. Nh5 Bh8 26.
+Bc5 b6 27. Bd6 Rb7 28. O-O-O Rbd7 29. Nhg3 Ke6 30. Ba3 Rxd1+ 31. Rxd1 Rxd1+
+32. Kxd1 f5 33. Nd6 e4 34. Nc4 b5 35. Nd6 a6 36. Nb7 Kd5 37. Na5 Nxa5 38.
+Bxe7 Nc4 39. b3 Nb2+ 40. Kd2 Ke6 41. Bf8 Bf6 42. Bxh6 Bxh4 43. Ne2 Bxf2 44.
+Nf4+ Ke5 45. Kc2 Nd3 46. Nxd3+ exd3+ 47. Kxd3 Bc5 48. c4 f4 49. cxb5 axb5
+50. a4 bxa4 51. Bxf4+ Kxf4 52. bxa4 1/2-1/2
 
 [Event "BL 1112 SV Wattenscheid - Turm Emsdette"]
 [Site "?"]
@@ -578,17 +587,18 @@ bxa4 1/2-1/2
 [White "Swiercz, Dariusz"]
 [Black "Bogner, Sebastian"]
 [Result "1/2-1/2"]
-[ECO "B86"]
 [WhiteElo "2585"]
 [BlackElo "2534"]
-[PlyCount "65"]
+[ECO "B86"]
 [EventDate "2011.??.??"]
+[PlyCount "65"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8.
-Bg5 Qa5 9. Qd2 Be7 10. O-O-O Nc5 11. Rhe1 O-O 12. Kb1 Qc7 13. f4 h6 14. Bxf6
-Bxf6 15. f5 Bd7 16. fxe6 fxe6 17. Nf3 Be7 18. Qe3 Rac8 19. Ne2 a5 20. Ned4 Nxb3
-21. Qxb3 a4 22. Qd3 e5 23. Ne2 Qc5 24. Nc3 a3 25. Nd5 Bd8 26. b3 Rf7 27. Rc1 b5
-28. c3 Bc6 29. Red1 Bb7 30. Qe2 Kh8 31. Rc2 Kg8 32. Rcc1 Kh8 33. Rc2 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7
+8. Bg5 Qa5 9. Qd2 Be7 10. O-O-O Nc5 11. Rhe1 O-O 12. Kb1 Qc7 13. f4 h6 14.
+Bxf6 Bxf6 15. f5 Bd7 16. fxe6 fxe6 17. Nf3 Be7 18. Qe3 Rac8 19. Ne2 a5 20.
+Ned4 Nxb3 21. Qxb3 a4 22. Qd3 e5 23. Ne2 Qc5 24. Nc3 a3 25. Nd5 Bd8 26. b3
+Rf7 27. Rc1 b5 28. c3 Bc6 29. Red1 Bb7 30. Qe2 Kh8 31. Rc2 Kg8 32. Rcc1 Kh8
+33. Rc2 1/2-1/2
 
 [Event "BL 1112 SV Wattenscheid - Turm Emsdette"]
 [Site "?"]
@@ -597,20 +607,21 @@ Bxf6 15. f5 Bd7 16. fxe6 fxe6 17. Nf3 Be7 18. Qe3 Rac8 19. Ne2 a5 20. Ned4 Nxb3
 [White "Rustemov, Alexander"]
 [Black "Grandelius, Nils"]
 [Result "1/2-1/2"]
-[ECO "D38"]
 [WhiteElo "2537"]
 [BlackElo "2536"]
-[PlyCount "99"]
+[ECO "D38"]
 [EventDate "2011.??.??"]
+[PlyCount "99"]
 
-1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. Rc1
-dxc4 9. Bxc4 c5 10. O-O cxd4 11. exd4 Rd8 12. Ne4 Qe7 13. Qe2 Nc6 14. Rfd1 Ba5
-15. Bb5 Bd7 16. Ne5 Bb6 17. Bxc6 Bxc6 18. Rxc6 bxc6 19. Nxc6 Qc7 20. Nxd8 Rxd8
-21. Nc5 Bxc5 22. dxc5 Rxd1+ 23. Qxd1 Qxc5 24. g3 e5 25. a3 e4 26. Qd2 Qc4 27.
-Kg2 a6 28. Qe3 Qd5 29. b4 Qc4 30. h4 f5 31. h5 Qf7 32. a4 Qxh5 33. b5 axb5 34.
-axb5 Qd1 35. b6 Qd5 36. Kh2 Kh7 37. Qc1 Qb5 38. Qe3 Qd5 39. Kg1 Qd1+ 40. Kg2
-Qd5 41. Kh2 Kh8 42. Qf4 Kh7 43. Qe3 Kh8 44. Qc1 Kh7 45. Qc8 f4 46. gxf4 Qd4 47.
-Qf5+ Kh8 48. Qc8+ Kh7 49. Qf5+ Kh8 50. Qc8+ 1/2-1/2
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8.
+Rc1 dxc4 9. Bxc4 c5 10. O-O cxd4 11. exd4 Rd8 12. Ne4 Qe7 13. Qe2 Nc6 14.
+Rfd1 Ba5 15. Bb5 Bd7 16. Ne5 Bb6 17. Bxc6 Bxc6 18. Rxc6 bxc6 19. Nxc6 Qc7
+20. Nxd8 Rxd8 21. Nc5 Bxc5 22. dxc5 Rxd1+ 23. Qxd1 Qxc5 24. g3 e5 25. a3 e4
+26. Qd2 Qc4 27. Kg2 a6 28. Qe3 Qd5 29. b4 Qc4 30. h4 f5 31. h5 Qf7 32. a4
+Qxh5 33. b5 axb5 34. axb5 Qd1 35. b6 Qd5 36. Kh2 Kh7 37. Qc1 Qb5 38. Qe3
+Qd5 39. Kg1 Qd1+ 40. Kg2 Qd5 41. Kh2 Kh8 42. Qf4 Kh7 43. Qe3 Kh8 44. Qc1
+Kh7 45. Qc8 f4 46. gxf4 Qd4 47. Qf5+ Kh8 48. Qc8+ Kh7 49. Qf5+ Kh8 50. Qc8+
+1/2-1/2
 
 [Event "BL 1112 SV Wattenscheid - Turm Emsdette"]
 [Site "?"]
@@ -619,21 +630,21 @@ Qf5+ Kh8 48. Qc8+ Kh7 49. Qf5+ Kh8 50. Qc8+ 1/2-1/2
 [White "Hector, Jonny"]
 [Black "Appel, Ralf"]
 [Result "1-0"]
-[ECO "B03"]
 [WhiteElo "2575"]
 [BlackElo "2529"]
-[PlyCount "111"]
+[ECO "B03"]
 [EventDate "2011.??.??"]
+[PlyCount "111"]
 
-1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
-e6 9. Nf3 Be7 10. d5 Nb4 11. Rc1 exd5 12. a3 c5 13. axb4 d4 14. Bxd4 cxd4 15.
-Nxd4 Qb8 16. Qe2 Be6 17. Nxe6 fxe6 18. c5 Nd7 19. Qe4 O-O 20. Bc4 Nxe5 21.
-Bxe6+ Kh8 22. Nd5 Re8 23. O-O Bg5 24. Rce1 Rxe6 25. Qf5 Nf3+ 26. Qxf3 Rxe1 27.
-Rxe1 Qg8 28. b5 Re8 29. Rxe8 Qxe8 30. g3 h6 31. h4 Bd2 32. Qd3 Bb4 33. Qc4 Ba5
-34. Kg2 Qe5 35. b4 Bd8 36. Nf4 Qb2+ 37. Kh3 Qb1 38. Qd5 Bc7 39. Kg4 Qxb4 40. c6
-bxc6 41. bxc6 a5 42. Qd7 Qd6 43. Qe8+ Kh7 44. Kh3 Bb8 45. h5 Bc7 46. Qg6+ Qxg6
-47. hxg6+ Kg8 48. Ne6 Bd6 49. c7 Bxc7 50. Nxc7 a4 51. Nb5 Kf8 52. Kg4 Ke7 53.
-Kf5 Kd7 54. g4 Ke7 55. Ke5 Kd7 56. Na3 1-0
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
+Nc3 e6 9. Nf3 Be7 10. d5 Nb4 11. Rc1 exd5 12. a3 c5 13. axb4 d4 14. Bxd4
+cxd4 15. Nxd4 Qb8 16. Qe2 Be6 17. Nxe6 fxe6 18. c5 Nd7 19. Qe4 O-O 20. Bc4
+Nxe5 21. Bxe6+ Kh8 22. Nd5 Re8 23. O-O Bg5 24. Rce1 Rxe6 25. Qf5 Nf3+ 26.
+Qxf3 Rxe1 27. Rxe1 Qg8 28. b5 Re8 29. Rxe8 Qxe8 30. g3 h6 31. h4 Bd2 32.
+Qd3 Bb4 33. Qc4 Ba5 34. Kg2 Qe5 35. b4 Bd8 36. Nf4 Qb2+ 37. Kh3 Qb1 38. Qd5
+Bc7 39. Kg4 Qxb4 40. c6 bxc6 41. bxc6 a5 42. Qd7 Qd6 43. Qe8+ Kh7 44. Kh3
+Bb8 45. h5 Bc7 46. Qg6+ Qxg6 47. hxg6+ Kg8 48. Ne6 Bd6 49. c7 Bxc7 50. Nxc7
+a4 51. Nb5 Kf8 52. Kg4 Ke7 53. Kf5 Kd7 54. g4 Ke7 55. Ke5 Kd7 56. Na3 1-0
 
 [Event "BL 1112 SV Wattenscheid - Turm Emsdette"]
 [Site "?"]
@@ -642,20 +653,20 @@ Kf5 Kd7 54. g4 Ke7 55. Ke5 Kd7 56. Na3 1-0
 [White "Holzke, Frank Dr"]
 [Black "Pruijssers, Roeland"]
 [Result "1/2-1/2"]
-[ECO "C50"]
 [WhiteElo "2506"]
 [BlackElo "2475"]
-[PlyCount "96"]
+[ECO "C50"]
 [EventDate "2011.??.??"]
+[PlyCount "96"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. c3 Bg4 6. b4 Bb6 7. a4 a6 8. d3 Qf6
-9. Be3 Bxf3 10. Qxf3 Qxf3 11. gxf3 Nge7 12. Na3 Ng6 13. Bd5 Bxe3 14. fxe3 Nge7
-15. Bb3 Rf8 16. Nc4 f5 17. b5 axb5 18. axb5 Rxa1 19. Rxa1 Nd8 20. d4 exd4 21.
-cxd4 Kd7 22. e5 d5 23. Nb2 Ne6 24. Ra4 f4 25. e4 Ng5 26. Nd3 b6 27. exd5 Nxf3+
-28. Kf2 Nd2 29. d6 Nxb3 30. dxe7 Kxe7 31. d5 Rd8 32. Nxf4 g5 33. d6+ cxd6 34.
-Ra7+ Rd7 35. Nd5+ Ke6 36. Rxd7 Kxd7 37. Nxb6+ Ke6 38. exd6 Kxd6 39. Nc4+ Kd5
-40. b6 Nc5 41. Nd2 Kc6 42. Kf3 h5 43. Ne4 Nxe4 44. Kxe4 Kxb6 45. Kf5 g4 46. Kg5
-Kc7 47. Kxh5 Kd7 48. Kxg4 Ke7 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. c3 Bg4 6. b4 Bb6 7. a4 a6 8. d3
+Qf6 9. Be3 Bxf3 10. Qxf3 Qxf3 11. gxf3 Nge7 12. Na3 Ng6 13. Bd5 Bxe3 14.
+fxe3 Nge7 15. Bb3 Rf8 16. Nc4 f5 17. b5 axb5 18. axb5 Rxa1 19. Rxa1 Nd8 20.
+d4 exd4 21. cxd4 Kd7 22. e5 d5 23. Nb2 Ne6 24. Ra4 f4 25. e4 Ng5 26. Nd3 b6
+27. exd5 Nxf3+ 28. Kf2 Nd2 29. d6 Nxb3 30. dxe7 Kxe7 31. d5 Rd8 32. Nxf4 g5
+33. d6+ cxd6 34. Ra7+ Rd7 35. Nd5+ Ke6 36. Rxd7 Kxd7 37. Nxb6+ Ke6 38. exd6
+Kxd6 39. Nc4+ Kd5 40. b6 Nc5 41. Nd2 Kc6 42. Kf3 h5 43. Ne4 Nxe4 44. Kxe4
+Kxb6 45. Kf5 g4 46. Kg5 Kc7 47. Kxh5 Kd7 48. Kxg4 Ke7 1/2-1/2
 
 [Event "BL 1112 SV Wattenscheid - Turm Emsdette"]
 [Site "?"]
@@ -664,17 +675,17 @@ Kc7 47. Kxh5 Kd7 48. Kxg4 Ke7 1/2-1/2
 [White "Burg, Twan"]
 [Black "Handke, Florian"]
 [Result "1-0"]
-[ECO "C41"]
 [WhiteElo "2462"]
 [BlackElo "2518"]
-[PlyCount "59"]
+[ECO "C41"]
 [EventDate "2011.??.??"]
+[PlyCount "59"]
 
-1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 c6 8. Re1
-a5 9. b3 Nb6 10. Bf1 exd4 11. Nxd4 d5 12. e5 Ne8 13. Nce2 g6 14. Nf4 Ng7 15.
-Bb2 Be6 16. Qf3 Qc7 17. Qg3 Bc5 18. Bd3 Nd7 19. h4 Qb6 20. Nf3 Rfe8 21. h5 Nf8
-22. h6 Nf5 23. Bxf5 Bxf5 24. e6 fxe6 25. Nd3 e5 26. Nxc5 Qxc5 27. Rxe5 Qxc2 28.
-Rae1 Be4 29. Ba1 Qc5 30. R1xe4 1-0
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 c6 8.
+Re1 a5 9. b3 Nb6 10. Bf1 exd4 11. Nxd4 d5 12. e5 Ne8 13. Nce2 g6 14. Nf4
+Ng7 15. Bb2 Be6 16. Qf3 Qc7 17. Qg3 Bc5 18. Bd3 Nd7 19. h4 Qb6 20. Nf3 Rfe8
+21. h5 Nf8 22. h6 Nf5 23. Bxf5 Bxf5 24. e6 fxe6 25. Nd3 e5 26. Nxc5 Qxc5
+27. Rxe5 Qxc2 28. Rae1 Be4 29. Ba1 Qc5 30. R1xe4 1-0
 
 [Event "BL 1112 SV Wattenscheid - Turm Emsdette"]
 [Site "?"]
@@ -683,19 +694,20 @@ Rae1 Be4 29. Ba1 Qc5 30. R1xe4 1-0
 [White "Straeter, Timo"]
 [Black "Kleijn, Christov"]
 [Result "1-0"]
-[ECO "D12"]
 [WhiteElo "2327"]
 [BlackElo "2429"]
-[PlyCount "91"]
+[ECO "D12"]
 [EventDate "2011.??.??"]
+[PlyCount "91"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Bd3 Bxd3 6. Qxd3 e6 7. O-O Be7 8. Nc3
-O-O 9. e4 dxe4 10. Nxe4 Nbd7 11. Bd2 Qc7 12. Rad1 Rad8 13. Bc3 Rfe8 14. Rfe1
-Qb6 15. b3 Nxe4 16. Qxe4 Bb4 17. Bxb4 Qxb4 18. g3 a5 19. Qc2 Nf6 20. Kg2 Re7
-21. Re2 Qb6 22. Red2 h6 23. Ne5 Qc7 24. c5 Nd7 25. Nc4 Ra8 26. Re1 b5 27. cxb6
-Nxb6 28. Nxb6 Qxb6 29. Re5 Rd7 30. Rc5 Rd6 31. Qc4 Rad8 32. Qc3 Ra8 33. Rc2 Ra6
-34. h4 a4 35. b4 Qd8 36. b5 Rb6 37. Rxc6 Rb8 38. Rc8 Rxc8 39. Qxc8 Rxd4 40. b6
-Kh7 41. b7 Qd5+ 42. Kh2 Rd1 43. f3 Qe5 44. b8=Q Qe1 45. Qg8+ Kg6 46. h5+ 1-0
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Bd3 Bxd3 6. Qxd3 e6 7. O-O Be7 8.
+Nc3 O-O 9. e4 dxe4 10. Nxe4 Nbd7 11. Bd2 Qc7 12. Rad1 Rad8 13. Bc3 Rfe8 14.
+Rfe1 Qb6 15. b3 Nxe4 16. Qxe4 Bb4 17. Bxb4 Qxb4 18. g3 a5 19. Qc2 Nf6 20.
+Kg2 Re7 21. Re2 Qb6 22. Red2 h6 23. Ne5 Qc7 24. c5 Nd7 25. Nc4 Ra8 26. Re1
+b5 27. cxb6 Nxb6 28. Nxb6 Qxb6 29. Re5 Rd7 30. Rc5 Rd6 31. Qc4 Rad8 32. Qc3
+Ra8 33. Rc2 Ra6 34. h4 a4 35. b4 Qd8 36. b5 Rb6 37. Rxc6 Rb8 38. Rc8 Rxc8
+39. Qxc8 Rxd4 40. b6 Kh7 41. b7 Qd5+ 42. Kh2 Rd1 43. f3 Qe5 44. b8=Q Qe1
+45. Qg8+ Kg6 46. h5+ 1-0
 
 [Event "BL 1112 SG Solingen - OSG Baden Baden"]
 [Site "?"]
@@ -704,21 +716,21 @@ Kh7 41. b7 Qd5+ 42. Kh2 Rd1 43. f3 Qe5 44. b8=Q Qe1 45. Qg8+ Kg6 46. h5+ 1-0
 [White "Adams, Michael"]
 [Black "Ragger, Markus"]
 [Result "1/2-1/2"]
-[ECO "B12"]
 [WhiteElo "2733"]
 [BlackElo "2655"]
-[PlyCount "107"]
+[ECO "B12"]
 [EventDate "2011.??.??"]
+[PlyCount "107"]
 
-1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 8. Na3
-a6 9. c4 Nbc6 10. Qa4 Qa5+ 11. Qxa5 Nxa5 12. O-O dxc4 13. Nxc4 Nxc4 14. Bxc4
-Be4 15. Rac1 Bd5 16. Be2 Rc8 17. Rxc8+ Nxc8 18. Rc1 Kd7 19. a3 Ne7 20. f4 Nc6
-21. Nxc6 Bxc6 22. Kf2 Be7 23. Bc5 Bxc5+ 24. Rxc5 Rc8 25. g4 Bd5 26. Rxc8 Kxc8
-27. b4 Kd7 28. Ke3 g6 29. Kd4 Bc6 30. g5 Kc7 31. h4 Kd7 32. h5 Ba4 33. h6 Kc7
-34. Bc4 Bc2 35. Kc3 Bf5 36. a4 Kd7 37. Be2 Kc7 38. Kd4 Bc2 39. a5 Ba4 40. Kc5
-Bc6 41. Bc4 Bd7 42. Bb3 Be8 43. Ba2 Bd7 44. Bc4 Be8 45. Be2 Bc6 46. Bd3 Be8 47.
-Be4 Bc6 48. Bc2 Bd7 49. Bb3 Be8 50. Kd4 Bd7 51. Ba2 Kd8 52. Kc4 Kc8 53. Bb3 Kc7
-54. Kc5 1/2-1/2
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 8.
+Na3 a6 9. c4 Nbc6 10. Qa4 Qa5+ 11. Qxa5 Nxa5 12. O-O dxc4 13. Nxc4 Nxc4 14.
+Bxc4 Be4 15. Rac1 Bd5 16. Be2 Rc8 17. Rxc8+ Nxc8 18. Rc1 Kd7 19. a3 Ne7 20.
+f4 Nc6 21. Nxc6 Bxc6 22. Kf2 Be7 23. Bc5 Bxc5+ 24. Rxc5 Rc8 25. g4 Bd5 26.
+Rxc8 Kxc8 27. b4 Kd7 28. Ke3 g6 29. Kd4 Bc6 30. g5 Kc7 31. h4 Kd7 32. h5
+Ba4 33. h6 Kc7 34. Bc4 Bc2 35. Kc3 Bf5 36. a4 Kd7 37. Be2 Kc7 38. Kd4 Bc2
+39. a5 Ba4 40. Kc5 Bc6 41. Bc4 Bd7 42. Bb3 Be8 43. Ba2 Bd7 44. Bc4 Be8 45.
+Be2 Bc6 46. Bd3 Be8 47. Be4 Bc6 48. Bc2 Bd7 49. Bb3 Be8 50. Kd4 Bd7 51. Ba2
+Kd8 52. Kc4 Kc8 53. Bb3 Kc7 54. Kc5 1/2-1/2
 
 [Event "BL 1112 SG Solingen - OSG Baden Baden"]
 [Site "?"]
@@ -727,25 +739,25 @@ Be4 Bc6 48. Bc2 Bd7 49. Bb3 Be8 50. Kd4 Bd7 51. Ba2 Kd8 52. Kc4 Kc8 53. Bb3 Kc7
 [White "Stellwagen, Daniel"]
 [Black "Bacrot, Etienne"]
 [Result "1/2-1/2"]
-[ECO "D15"]
 [WhiteElo "2625"]
 [BlackElo "2705"]
-[PlyCount "155"]
+[ECO "D15"]
 [EventDate "2011.??.??"]
+[PlyCount "155"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 b5 6. b3 Bf5 7. Bd3 Bxd3 8. Qxd3
-e6 9. O-O Nbd7 10. e4 b4 11. exd5 cxd5 12. cxd5 bxc3 13. dxe6 fxe6 14. Ng5 Be7
-15. Nxe6 Nc5 16. Nxg7+ Kf7 17. Qe3 Qd5 18. dxc5 Rhg8 19. Qxc3 Rxg7 20. g3 Qxc5
-21. Qxc5 Bxc5 22. Bb2 Rg5 23. Kg2 Rd8 24. Rad1 Rgd5 25. Rxd5 Rxd5 26. Bxf6 Kxf6
-27. Rc1 a5 28. Rc2 Bb4 29. h3 Kf5 30. Rc7 h6 31. Rh7 Kg6 32. Ra7 Rd2 33. Ra6+
-Kg7 34. a3 Bc5 35. Rxa5 Rxf2+ 36. Kh1 Rf1+ 37. Kg2 Rf2+ 38. Kh1 Bd6 39. Ra7+
-Kf6 40. Ra6 Ke7 41. Ra7+ Kf6 42. Ra6 Rd2 43. b4 Ke5 44. Rc6 Rd3 45. Rc4 Kf5 46.
-Rh4 Bxg3 47. Rxh6 Bf4 48. Rc6 Ke4 49. Kg2 Rxa3 50. Rc4+ Ke3 51. Rc2 Be5 52. Rf2
-Ra8 53. Rf3+ Ke4 54. Rb3 Rg8+ 55. Kf1 Kd4 56. h4 Kc4 57. Rh3 Kxb4 58. h5 Kc5
-59. h6 Kd6 60. Ke2 Ke6 61. Kf3 Kf7 62. Ke4 Ke6 63. h7 Rh8 64. Rh6+ Bf6 65. Kf4
-Kf7 66. Kf5 Bg7 67. Rh1 Rb8 68. Rh5 Bh8 69. Kg5 Rb5+ 70. Kg4 Rb1 71. Kf5 Rf1+
-72. Kg5 Kg7 73. Rh3 Rb1 74. Rh5 Kf7 75. Kf5 Rb4 76. Kg5 Bf6+ 77. Kf5 Rb8 78.
-Rh6 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 b5 6. b3 Bf5 7. Bd3 Bxd3 8.
+Qxd3 e6 9. O-O Nbd7 10. e4 b4 11. exd5 cxd5 12. cxd5 bxc3 13. dxe6 fxe6 14.
+Ng5 Be7 15. Nxe6 Nc5 16. Nxg7+ Kf7 17. Qe3 Qd5 18. dxc5 Rhg8 19. Qxc3 Rxg7
+20. g3 Qxc5 21. Qxc5 Bxc5 22. Bb2 Rg5 23. Kg2 Rd8 24. Rad1 Rgd5 25. Rxd5
+Rxd5 26. Bxf6 Kxf6 27. Rc1 a5 28. Rc2 Bb4 29. h3 Kf5 30. Rc7 h6 31. Rh7 Kg6
+32. Ra7 Rd2 33. Ra6+ Kg7 34. a3 Bc5 35. Rxa5 Rxf2+ 36. Kh1 Rf1+ 37. Kg2
+Rf2+ 38. Kh1 Bd6 39. Ra7+ Kf6 40. Ra6 Ke7 41. Ra7+ Kf6 42. Ra6 Rd2 43. b4
+Ke5 44. Rc6 Rd3 45. Rc4 Kf5 46. Rh4 Bxg3 47. Rxh6 Bf4 48. Rc6 Ke4 49. Kg2
+Rxa3 50. Rc4+ Ke3 51. Rc2 Be5 52. Rf2 Ra8 53. Rf3+ Ke4 54. Rb3 Rg8+ 55. Kf1
+Kd4 56. h4 Kc4 57. Rh3 Kxb4 58. h5 Kc5 59. h6 Kd6 60. Ke2 Ke6 61. Kf3 Kf7
+62. Ke4 Ke6 63. h7 Rh8 64. Rh6+ Bf6 65. Kf4 Kf7 66. Kf5 Bg7 67. Rh1 Rb8 68.
+Rh5 Bh8 69. Kg5 Rb5+ 70. Kg4 Rb1 71. Kf5 Rf1+ 72. Kg5 Kg7 73. Rh3 Rb1 74.
+Rh5 Kf7 75. Kf5 Rb4 76. Kg5 Bf6+ 77. Kf5 Rb8 78. Rh6 1/2-1/2
 
 [Event "BL 1112 SG Solingen - OSG Baden Baden"]
 [Site "?"]
@@ -754,22 +766,23 @@ Rh6 1/2-1/2
 [White "Naiditsch, Arkadij"]
 [Black "L'Ami, Erwin"]
 [Result "1-0"]
-[ECO "C77"]
 [WhiteElo "2707"]
 [BlackElo "2592"]
-[PlyCount "129"]
+[ECO "C77"]
 [EventDate "2011.??.??"]
+[PlyCount "129"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. Nbd2 Bg7 8. Nf1
-O-O 9. Ng3 b5 10. Bc2 Bb7 11. O-O Nb8 12. d4 Nbd7 13. a4 c5 14. Qe2 exd4 15.
-cxd4 Re8 16. Bg5 Qb6 17. Rfd1 cxd4 18. axb5 Nxe4 19. Bxe4 d5 20. Nxd4 Nc5 21.
-Be3 Nxe4 22. bxa6 Bxa6 23. Qc2 Rec8 24. Qb1 Qb4 25. Nxe4 dxe4 26. Qxe4 Bb7 27.
-Rxa8 Bxa8 28. Qg4 Rd8 29. Qe2 h5 30. h3 Kh7 31. Qd2 Qb7 32. f3 Rb8 33. Ra1 Qb4
-34. Qxb4 Rxb4 35. Rxa8 Bxd4 36. Bxd4 Rxd4 37. Ra1 Rb4 38. Ra2 Rd4 39. Ra1 Rb4
-40. Rb1 Kh6 41. b3 Kg5 42. Kf2 Kf4 43. Rb2 g5 44. Ke2 Ke5 45. Kd3 Kd5 46. Kc3
-Rf4 47. Ra2 Kc6 48. Ra4 Rf5 49. Rc4+ Kb5 50. Kd3 f6 51. b4 Rd5+ 52. Rd4 Re5 53.
-Re4 Rd5+ 54. Ke3 Rd1 55. Rd4 Rb1 56. Ke4 Rb2 57. g4 Rh2 58. Rd6 Rxh3 59. Rxf6
-Kxb4 60. Rf5 hxg4 61. fxg4 Rg3 62. Rxg5 Rg1 63. Kf3 Kc4 64. Ra5 Kd4 65. g5 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. Nbd2 Bg7 8.
+Nf1 O-O 9. Ng3 b5 10. Bc2 Bb7 11. O-O Nb8 12. d4 Nbd7 13. a4 c5 14. Qe2
+exd4 15. cxd4 Re8 16. Bg5 Qb6 17. Rfd1 cxd4 18. axb5 Nxe4 19. Bxe4 d5 20.
+Nxd4 Nc5 21. Be3 Nxe4 22. bxa6 Bxa6 23. Qc2 Rec8 24. Qb1 Qb4 25. Nxe4 dxe4
+26. Qxe4 Bb7 27. Rxa8 Bxa8 28. Qg4 Rd8 29. Qe2 h5 30. h3 Kh7 31. Qd2 Qb7
+32. f3 Rb8 33. Ra1 Qb4 34. Qxb4 Rxb4 35. Rxa8 Bxd4 36. Bxd4 Rxd4 37. Ra1
+Rb4 38. Ra2 Rd4 39. Ra1 Rb4 40. Rb1 Kh6 41. b3 Kg5 42. Kf2 Kf4 43. Rb2 g5
+44. Ke2 Ke5 45. Kd3 Kd5 46. Kc3 Rf4 47. Ra2 Kc6 48. Ra4 Rf5 49. Rc4+ Kb5
+50. Kd3 f6 51. b4 Rd5+ 52. Rd4 Re5 53. Re4 Rd5+ 54. Ke3 Rd1 55. Rd4 Rb1 56.
+Ke4 Rb2 57. g4 Rh2 58. Rd6 Rxh3 59. Rxf6 Kxb4 60. Rf5 hxg4 61. fxg4 Rg3 62.
+Rxg5 Rg1 63. Kf3 Kc4 64. Ra5 Kd4 65. g5 1-0
 
 [Event "BL 1112 SG Solingen - OSG Baden Baden"]
 [Site "?"]
@@ -778,18 +791,18 @@ Kxb4 60. Rf5 hxg4 61. fxg4 Rg3 62. Rxg5 Rg1 63. Kf3 Kc4 64. Ra5 Kd4 65. g5 1-0
 [White "Nikolic, Predrag"]
 [Black "Movsesian, Sergej"]
 [Result "1/2-1/2"]
-[ECO "D10"]
 [WhiteElo "2636"]
 [BlackElo "2715"]
-[PlyCount "71"]
+[ECO "D10"]
 [EventDate "2011.??.??"]
+[PlyCount "71"]
 
-1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Qc2 g6 6. Nf3 Bg7 7. Bd3 O-O 8. O-O
-Bg4 9. Nd2 dxc4 10. Bxc4 b5 11. Be2 b4 12. Nde4 Nxe4 13. Nxe4 Bxe2 14. Qxe2 Qd5
-15. Qc2 Nd7 16. Bd2 a5 17. Rfc1 Rfc8 18. Nc5 Nxc5 19. Qxc5 e5 20. Qxd5 cxd5 21.
-dxe5 Bxe5 22. Rxc8+ Rxc8 23. Rc1 Rxc1+ 24. Bxc1 f5 25. h3 Kf7 26. Kf1 d4 27.
-Ke2 dxe3 28. Kxe3 Ke6 29. Kd3 Kd5 30. b3 h5 31. Bg5 Bc7 32. f3 Bb6 33. Bf6 Bc7
-34. Ke3 Ke6 35. Bg7 Kd5 36. Bf6 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Qc2 g6 6. Nf3 Bg7 7. Bd3 O-O 8.
+O-O Bg4 9. Nd2 dxc4 10. Bxc4 b5 11. Be2 b4 12. Nde4 Nxe4 13. Nxe4 Bxe2 14.
+Qxe2 Qd5 15. Qc2 Nd7 16. Bd2 a5 17. Rfc1 Rfc8 18. Nc5 Nxc5 19. Qxc5 e5 20.
+Qxd5 cxd5 21. dxe5 Bxe5 22. Rxc8+ Rxc8 23. Rc1 Rxc1+ 24. Bxc1 f5 25. h3 Kf7
+26. Kf1 d4 27. Ke2 dxe3 28. Kxe3 Ke6 29. Kd3 Kd5 30. b3 h5 31. Bg5 Bc7 32.
+f3 Bb6 33. Bf6 Bc7 34. Ke3 Ke6 35. Bg7 Kd5 36. Bf6 1/2-1/2
 
 [Event "BL 1112 SG Solingen - OSG Baden Baden"]
 [Site "?"]
@@ -798,16 +811,16 @@ Ke2 dxe3 28. Kxe3 Ke6 29. Kd3 Kd5 30. b3 h5 31. Bg5 Bc7 32. f3 Bb6 33. Bf6 Bc7
 [White "Nielsen, Peter-Heine"]
 [Black "Jussupow, Artur"]
 [Result "1/2-1/2"]
-[ECO "E11"]
 [WhiteElo "2687"]
 [BlackElo "2566"]
-[PlyCount "47"]
+[ECO "E11"]
 [EventDate "2011.??.??"]
+[PlyCount "47"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8. Qc2
-b6 9. Rd1 Bb7 10. b3 Na6 11. Nc3 c5 12. cxd5 Nb4 13. Qb2 exd5 14. Rac1 h6 15.
-Bf4 Qd7 16. a3 Na6 17. e4 dxe4 18. dxc5 Qc8 19. Nd2 e3 20. Bxe3 Bxg2 21. Kxg2
-Bxc5 22. Nf1 Qb7+ 23. Kg1 Rad8 24. b4 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8.
+Qc2 b6 9. Rd1 Bb7 10. b3 Na6 11. Nc3 c5 12. cxd5 Nb4 13. Qb2 exd5 14. Rac1
+h6 15. Bf4 Qd7 16. a3 Na6 17. e4 dxe4 18. dxc5 Qc8 19. Nd2 e3 20. Bxe3 Bxg2
+21. Kxg2 Bxc5 22. Nf1 Qb7+ 23. Kg1 Rad8 24. b4 1/2-1/2
 
 [Event "BL 1112 SG Solingen - OSG Baden Baden"]
 [Site "?"]
@@ -816,17 +829,17 @@ Bxc5 22. Nf1 Qb7+ 23. Kg1 Rad8 24. b4 1/2-1/2
 [White "Naumann, Alexander"]
 [Black "Kasimdzhanov, Rustam"]
 [Result "1/2-1/2"]
-[ECO "D76"]
 [WhiteElo "2546"]
 [BlackElo "2678"]
-[PlyCount "52"]
+[ECO "D76"]
 [EventDate "2011.??.??"]
+[PlyCount "52"]
 
-1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 Nb6 7. Nc3 Nc6 8. e3
-O-O 9. O-O Re8 10. d5 Na5 11. Nd4 Bd7 12. b3 c6 13. dxc6 Nxc6 14. Nxc6 Bxc6 15.
-Bxc6 bxc6 16. Bb2 Qc8 17. Qe2 Qe6 18. Rac1 a5 19. Rc2 a4 20. Nxa4 Nxa4 21. Bxg7
-Kxg7 22. bxa4 Rxa4 23. Rfc1 Rea8 24. Rxc6 Qxa2 25. Qxa2 Rxa2 26. R6c2 Rxc2
-1/2-1/2
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. Nf3 Nb6 7. Nc3 Nc6
+8. e3 O-O 9. O-O Re8 10. d5 Na5 11. Nd4 Bd7 12. b3 c6 13. dxc6 Nxc6 14.
+Nxc6 Bxc6 15. Bxc6 bxc6 16. Bb2 Qc8 17. Qe2 Qe6 18. Rac1 a5 19. Rc2 a4 20.
+Nxa4 Nxa4 21. Bxg7 Kxg7 22. bxa4 Rxa4 23. Rfc1 Rea8 24. Rxc6 Qxa2 25. Qxa2
+Rxa2 26. R6c2 Rxc2 1/2-1/2
 
 [Event "BL 1112 SG Solingen - OSG Baden Baden"]
 [Site "?"]
@@ -835,19 +848,19 @@ Kxg7 22. bxa4 Rxa4 23. Rfc1 Rea8 24. Rxc6 Qxa2 25. Qxa2 Rxa2 26. R6c2 Rxc2
 [White "Nisipeanu, Liviu-Dieter"]
 [Black "Wegerle, Joerg"]
 [Result "1-0"]
-[ECO "D22"]
 [WhiteElo "2638"]
 [BlackElo "2450"]
-[PlyCount "81"]
+[ECO "D22"]
 [EventDate "2011.??.??"]
+[PlyCount "81"]
 
-1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5 5. a4 Bb7 6. b3 e6 7. bxc4 bxc4 8. Bxc4
-Nf6 9. O-O Nc6 10. a5 Bd6 11. Nbd2 Nb4 12. Ba3 O-O 13. Bxb4 Bxb4 14. Qb3 Qd6
-15. Rfb1 Bxd2 16. Nxd2 Ne4 17. Qc2 Nxd2 18. Rxb7 Qc6 19. Rb4 Ne4 20. Bd3 Qxc2
-21. Bxc2 Nd6 22. Bd3 Ra7 23. g4 Rfa8 24. Rc1 Kf8 25. f4 Ke7 26. Be2 h6 27. h4
-f6 28. h5 Kd7 29. Bf3 Rg8 30. Kf2 Rf8 31. Ke2 Rd8 32. Bc6+ Ke7 33. Kd3 e5 34.
-fxe5 fxe5 35. Rc5 exd4 36. Re5+ Kf6 37. exd4 g6 38. Rb1 gxh5 39. Rf1+ Kg7 40.
-Re7+ Kg6 41. gxh5+ 1-0
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5 5. a4 Bb7 6. b3 e6 7. bxc4 bxc4 8.
+Bxc4 Nf6 9. O-O Nc6 10. a5 Bd6 11. Nbd2 Nb4 12. Ba3 O-O 13. Bxb4 Bxb4 14.
+Qb3 Qd6 15. Rfb1 Bxd2 16. Nxd2 Ne4 17. Qc2 Nxd2 18. Rxb7 Qc6 19. Rb4 Ne4
+20. Bd3 Qxc2 21. Bxc2 Nd6 22. Bd3 Ra7 23. g4 Rfa8 24. Rc1 Kf8 25. f4 Ke7
+26. Be2 h6 27. h4 f6 28. h5 Kd7 29. Bf3 Rg8 30. Kf2 Rf8 31. Ke2 Rd8 32.
+Bc6+ Ke7 33. Kd3 e5 34. fxe5 fxe5 35. Rc5 exd4 36. Re5+ Kf6 37. exd4 g6 38.
+Rb1 gxh5 39. Rf1+ Kg7 40. Re7+ Kg6 41. gxh5+ 1-0
 
 [Event "BL 1112 SG Solingen - OSG Baden Baden"]
 [Site "?"]
@@ -856,19 +869,20 @@ Re7+ Kg6 41. gxh5+ 1-0
 [White "Schaefer, Markus"]
 [Black "Schlosser, Philipp"]
 [Result "1-0"]
-[ECO "B32"]
 [WhiteElo "2399"]
 [BlackElo "2591"]
-[PlyCount "89"]
+[ECO "B32"]
 [EventDate "2011.??.??"]
+[PlyCount "89"]
 
-1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Bd3 d5 7. exd5 Nxd5 8.
-O-O g6 9. c4 Ndb4 10. Be4 Bg7 11. Nc3 O-O 12. Be3 Qc7 13. f4 Rd8 14. Qe2 Na5
-15. Nxa5 Qxa5 16. a3 Nc6 17. b4 Qh5 18. Qxh5 gxh5 19. Rac1 f5 20. Bb1 Kf7 21.
-Rf2 Be6 22. Nd5 Rac8 23. Ba2 h4 24. Rd1 h3 25. Rfd2 hxg2 26. b5 Na5 27. c5 Rd7
-28. Kxg2 b6 29. cxb6 axb6 30. Nxb6 Rxd2+ 31. Rxd2 Rc3 32. Bxe6+ Kxe6 33. Re2
-Kf7 34. Nd5 Rxa3 35. Bc5 Rb3 36. Rxe7+ Kg6 37. Bb4 Nc4 38. b6 Nxb6 39. Re6+ Kh5
-40. Rxb6 Rb2+ 41. Kf3 Bd4 42. Bc5 Rf2+ 43. Kg3 Bxc5 44. Nf6+ Kg6 45. Rc6 1-0
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Bd3 d5 7. exd5
+Nxd5 8. O-O g6 9. c4 Ndb4 10. Be4 Bg7 11. Nc3 O-O 12. Be3 Qc7 13. f4 Rd8
+14. Qe2 Na5 15. Nxa5 Qxa5 16. a3 Nc6 17. b4 Qh5 18. Qxh5 gxh5 19. Rac1 f5
+20. Bb1 Kf7 21. Rf2 Be6 22. Nd5 Rac8 23. Ba2 h4 24. Rd1 h3 25. Rfd2 hxg2
+26. b5 Na5 27. c5 Rd7 28. Kxg2 b6 29. cxb6 axb6 30. Nxb6 Rxd2+ 31. Rxd2 Rc3
+32. Bxe6+ Kxe6 33. Re2 Kf7 34. Nd5 Rxa3 35. Bc5 Rb3 36. Rxe7+ Kg6 37. Bb4
+Nc4 38. b6 Nxb6 39. Re6+ Kh5 40. Rxb6 Rb2+ 41. Kf3 Bd4 42. Bc5 Rf2+ 43. Kg3
+Bxc5 44. Nf6+ Kg6 45. Rc6 1-0
 
 [Event "BL 1112 SC Remagen - SG Turm Trier"]
 [Site "?"]
@@ -877,17 +891,17 @@ Kf7 34. Nd5 Rxa3 35. Bc5 Rb3 36. Rxe7+ Kg6 37. Bb4 Nc4 38. b6 Nxb6 39. Re6+ Kh5
 [White "Lupulescu, Constantin"]
 [Black "Gharamian, Tigran"]
 [Result "1-0"]
-[ECO "E90"]
 [WhiteElo "2655"]
 [BlackElo "2676"]
-[PlyCount "59"]
+[ECO "E90"]
 [EventDate "2011.??.??"]
+[PlyCount "59"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 a6 7. Be3 Nbd7 8. g4 c5
-9. Bg2 cxd4 10. Nxd4 Ne5 11. Qe2 Bd7 12. f4 Nc6 13. O-O-O Qc7 14. Kb1 Rfc8 15.
-Nb3 b5 16. c5 Be6 17. Nd5 Bxd5 18. exd5 Na7 19. c6 b4 20. h4 Nb5 21. h5 Rcb8
-22. hxg6 hxg6 23. f5 g5 24. Bxg5 a5 25. Bh6 a4 26. Bxg7 axb3 27. Qe3 Nc3+ 28.
-bxc3 bxa2+ 29. Ka1 b3 30. Rh8+ 1-0
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 a6 7. Be3 Nbd7 8.
+g4 c5 9. Bg2 cxd4 10. Nxd4 Ne5 11. Qe2 Bd7 12. f4 Nc6 13. O-O-O Qc7 14. Kb1
+Rfc8 15. Nb3 b5 16. c5 Be6 17. Nd5 Bxd5 18. exd5 Na7 19. c6 b4 20. h4 Nb5
+21. h5 Rcb8 22. hxg6 hxg6 23. f5 g5 24. Bxg5 a5 25. Bh6 a4 26. Bxg7 axb3
+27. Qe3 Nc3+ 28. bxc3 bxa2+ 29. Ka1 b3 30. Rh8+ 1-0
 
 [Event "BL 1112 SC Remagen - SG Turm Trier"]
 [Site "?"]
@@ -896,17 +910,17 @@ bxc3 bxa2+ 29. Ka1 b3 30. Rh8+ 1-0
 [White "Parligras, Mircea"]
 [Black "Howell, David W L"]
 [Result "1-0"]
-[ECO "D85"]
 [WhiteElo "2625"]
 [BlackElo "2633"]
-[PlyCount "59"]
+[ECO "D85"]
 [EventDate "2011.??.??"]
+[PlyCount "59"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
-Rc1 O-O 9. Qd2 Qa5 10. Nf3 Nd7 11. d5 f5 12. exf5 Rxf5 13. Bd3 Rxf3 14. gxf3
-Ne5 15. Be4 Bf5 16. c4 Qa3 17. Ke2 Bd7 18. d6 exd6 19. Qxd6 Qxa2+ 20. Rc2 Qb3
-21. Rhc1 Bc6 22. Rd2 Rf8 23. Bxc6 Nxc6 24. Qxc5 a5 25. Qb5 a4 26. Rb1 Qc3 27.
-Qd5+ Kh8 28. Rxb7 Qf6 29. Rb6 Rc8 30. Qd7 1-0
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5
+8. Rc1 O-O 9. Qd2 Qa5 10. Nf3 Nd7 11. d5 f5 12. exf5 Rxf5 13. Bd3 Rxf3 14.
+gxf3 Ne5 15. Be4 Bf5 16. c4 Qa3 17. Ke2 Bd7 18. d6 exd6 19. Qxd6 Qxa2+ 20.
+Rc2 Qb3 21. Rhc1 Bc6 22. Rd2 Rf8 23. Bxc6 Nxc6 24. Qxc5 a5 25. Qb5 a4 26.
+Rb1 Qc3 27. Qd5+ Kh8 28. Rxb7 Qf6 29. Rb6 Rc8 30. Qd7 1-0
 
 [Event "BL 1112 SC Remagen - SG Turm Trier"]
 [Site "?"]
@@ -915,18 +929,18 @@ Qd5+ Kh8 28. Rxb7 Qf6 29. Rb6 Rc8 30. Qd7 1-0
 [White "Bobras, Piotr"]
 [Black "Dgebuadze, Alexandre"]
 [Result "1-0"]
-[ECO "C18"]
 [WhiteElo "2544"]
 [BlackElo "2544"]
-[PlyCount "73"]
+[ECO "C18"]
 [EventDate "2011.??.??"]
+[PlyCount "73"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Bd3
-Nbc6 9. Bg5 Qa5 10. Ne2 Ng6 11. O-O c4 12. Bxg6 fxg6 13. a4 Rb8 14. h4 b5 15.
-axb5 Qxb5 16. Bc1 Rb7 17. f3 Qb6 18. Qg5 Bd7 19. Kf2 Rf5 20. Qe3 h6 21. g4 Rf7
-22. Kg3 Qd8 23. Ba3 a5 24. Nf4 g5 25. Ng2 gxh4+ 26. Nxh4 a4 27. Rh1 Be8 28.
-Raf1 Na7 29. f4 Nb5 30. Bb4 a3 31. f5 exf5 32. gxf5 a2 33. f6 Qb8 34. Kf2 Bd7
-35. Rfg1 Be6 36. Qxh6 a1=Q 37. Qh8+ 1-0
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8.
+Bd3 Nbc6 9. Bg5 Qa5 10. Ne2 Ng6 11. O-O c4 12. Bxg6 fxg6 13. a4 Rb8 14. h4
+b5 15. axb5 Qxb5 16. Bc1 Rb7 17. f3 Qb6 18. Qg5 Bd7 19. Kf2 Rf5 20. Qe3 h6
+21. g4 Rf7 22. Kg3 Qd8 23. Ba3 a5 24. Nf4 g5 25. Ng2 gxh4+ 26. Nxh4 a4 27.
+Rh1 Be8 28. Raf1 Na7 29. f4 Nb5 30. Bb4 a3 31. f5 exf5 32. gxf5 a2 33. f6
+Qb8 34. Kf2 Bd7 35. Rfg1 Be6 36. Qxh6 a1=Q 37. Qh8+ 1-0
 
 [Event "BL 1112 SC Remagen - SG Turm Trier"]
 [Site "?"]
@@ -935,18 +949,18 @@ Raf1 Na7 29. f4 Nb5 30. Bb4 a3 31. f5 exf5 32. gxf5 a2 33. f6 Qb8 34. Kf2 Bd7
 [White "Swinkels, Robin"]
 [Black "Gonda, Laszlo"]
 [Result "1/2-1/2"]
-[ECO "A11"]
 [WhiteElo "2494"]
 [BlackElo "2520"]
-[PlyCount "66"]
+[ECO "A11"]
 [EventDate "2011.??.??"]
+[PlyCount "66"]
 
-1. c4 Nf6 2. g3 c6 3. Bg2 d5 4. Nf3 dxc4 5. O-O Na6 6. Na3 Qd5 7. Ne1 Qd4 8.
-Qa4 Nd7 9. Nec2 Qg4 10. Nxc4 Qxe2 11. Re1 Qh5 12. b4 e6 13. Bb2 Nc7 14. Nd4 Nb6
-15. Nxb6 axb6 16. Qc2 Bd7 17. Nf5 Nd5 18. b5 Nb4 19. Qe4 Qg6 20. a3 Nd5 21.
-bxc6 bxc6 22. Qc2 Kd8 23. Nd4 Qxc2 24. Nxc2 f6 25. Nd4 e5 26. Nc2 Bd6 27. d4
-Re8 28. dxe5 Bxe5 29. Nd4 Bxd4 30. Rxe8+ Bxe8 31. Bxd4 b5 32. Bc5 Bf7 33. Re1
-Ra4 1/2-1/2
+1. c4 Nf6 2. g3 c6 3. Bg2 d5 4. Nf3 dxc4 5. O-O Na6 6. Na3 Qd5 7. Ne1 Qd4
+8. Qa4 Nd7 9. Nec2 Qg4 10. Nxc4 Qxe2 11. Re1 Qh5 12. b4 e6 13. Bb2 Nc7 14.
+Nd4 Nb6 15. Nxb6 axb6 16. Qc2 Bd7 17. Nf5 Nd5 18. b5 Nb4 19. Qe4 Qg6 20. a3
+Nd5 21. bxc6 bxc6 22. Qc2 Kd8 23. Nd4 Qxc2 24. Nxc2 f6 25. Nd4 e5 26. Nc2
+Bd6 27. d4 Re8 28. dxe5 Bxe5 29. Nd4 Bxd4 30. Rxe8+ Bxe8 31. Bxd4 b5 32.
+Bc5 Bf7 33. Re1 Ra4 1/2-1/2
 
 [Event "BL 1112 SC Remagen - SG Turm Trier"]
 [Site "?"]
@@ -955,17 +969,17 @@ Ra4 1/2-1/2
 [White "Gordon, Stephen"]
 [Black "Bok, Benjamin"]
 [Result "1-0"]
-[ECO "A16"]
 [WhiteElo "2535"]
 [BlackElo "2488"]
-[PlyCount "55"]
+[ECO "A16"]
 [EventDate "2011.??.??"]
+[PlyCount "55"]
 
-1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qb3 Nb6 6. d4 Bg7 7. e4 Bg4 8.
-Bb5+ c6 9. Ng5 O-O 10. Be2 Bxe2 11. Nxe2 N8d7 12. Qh3 h6 13. Nf3 h5 14. e5 c5
-15. e6 cxd4 16. exf7+ Rxf7 17. Ng5 Rf5 18. g4 Rxg5 19. Bxg5 Ne5 20. Nf4 Nbc4
-21. gxh5 Qa5+ 22. Kf1 Nd2+ 23. Kg2 Nf7 24. Bxe7 g5 25. Qg4 Re8 26. Rhe1 Rxe7
-27. Rxe7 Nh6 28. Qe6+ 1-0
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qb3 Nb6 6. d4 Bg7 7. e4 Bg4
+8. Bb5+ c6 9. Ng5 O-O 10. Be2 Bxe2 11. Nxe2 N8d7 12. Qh3 h6 13. Nf3 h5 14.
+e5 c5 15. e6 cxd4 16. exf7+ Rxf7 17. Ng5 Rf5 18. g4 Rxg5 19. Bxg5 Ne5 20.
+Nf4 Nbc4 21. gxh5 Qa5+ 22. Kf1 Nd2+ 23. Kg2 Nf7 24. Bxe7 g5 25. Qg4 Re8 26.
+Rhe1 Rxe7 27. Rxe7 Nh6 28. Qe6+ 1-0
 
 [Event "BL 1112 SC Remagen - SG Turm Trier"]
 [Site "?"]
@@ -974,19 +988,20 @@ Bb5+ c6 9. Ng5 O-O 10. Be2 Bxe2 11. Nxe2 N8d7 12. Qh3 h6 13. Nf3 h5 14. e5 c5
 [White "Michiels, Bart"]
 [Black "Galyas, Miklos"]
 [Result "1-0"]
-[ECO "A40"]
 [WhiteElo "2501"]
 [BlackElo "2458"]
-[PlyCount "87"]
+[ECO "A40"]
 [EventDate "2011.??.??"]
+[PlyCount "87"]
 
-1. d4 e6 2. c4 Bb4+ 3. Nd2 c5 4. a3 Bxd2+ 5. Qxd2 cxd4 6. Qxd4 Nf6 7. b4 Nc6 8.
-Qb2 d5 9. cxd5 Qxd5 10. Nf3 O-O 11. Bg5 Ne4 12. Rd1 Qf5 13. Be3 Rd8 14. Rxd8+
-Nxd8 15. g4 Qb5 16. Bg2 Nc6 17. Nd4 Qd5 18. Nxc6 bxc6 19. O-O Ba6 20. Qc2 f5
-21. Rd1 Qc4 22. Qxc4 Bxc4 23. Rd7 a5 24. Bd4 axb4 25. axb4 Ra2 26. Bxe4 fxe4
-27. Rxg7+ Kf8 28. Rxh7 Bxe2 29. g5 Rd2 30. Bf6 Bf3 31. h4 e3 32. fxe3 Rg2+ 33.
-Kf1 Be4 34. Rh8+ Kf7 35. h5 e5 36. Rh7+ Bxh7 37. Kxg2 Be4+ 38. Kg3 Ke6 39. Kg4
-Bc2 40. Bg7 Bd1+ 41. Kh4 Bc2 42. g6 Kf5 43. Bxe5 Bd1 44. e4+ 1-0
+1. d4 e6 2. c4 Bb4+ 3. Nd2 c5 4. a3 Bxd2+ 5. Qxd2 cxd4 6. Qxd4 Nf6 7. b4
+Nc6 8. Qb2 d5 9. cxd5 Qxd5 10. Nf3 O-O 11. Bg5 Ne4 12. Rd1 Qf5 13. Be3 Rd8
+14. Rxd8+ Nxd8 15. g4 Qb5 16. Bg2 Nc6 17. Nd4 Qd5 18. Nxc6 bxc6 19. O-O Ba6
+20. Qc2 f5 21. Rd1 Qc4 22. Qxc4 Bxc4 23. Rd7 a5 24. Bd4 axb4 25. axb4 Ra2
+26. Bxe4 fxe4 27. Rxg7+ Kf8 28. Rxh7 Bxe2 29. g5 Rd2 30. Bf6 Bf3 31. h4 e3
+32. fxe3 Rg2+ 33. Kf1 Be4 34. Rh8+ Kf7 35. h5 e5 36. Rh7+ Bxh7 37. Kxg2
+Be4+ 38. Kg3 Ke6 39. Kg4 Bc2 40. Bg7 Bd1+ 41. Kh4 Bc2 42. g6 Kf5 43. Bxe5
+Bd1 44. e4+ 1-0
 
 [Event "BL 1112 SC Remagen - SG Turm Trier"]
 [Site "?"]
@@ -995,19 +1010,19 @@ Bc2 40. Bg7 Bd1+ 41. Kh4 Bc2 42. g6 Kf5 43. Bxe5 Bd1 44. e4+ 1-0
 [White "Seger, Ruediger"]
 [Black "Teske, Henrik"]
 [Result "1/2-1/2"]
-[ECO "B22"]
 [WhiteElo "2390"]
 [BlackElo "2547"]
-[PlyCount "82"]
+[ECO "B22"]
 [EventDate "2011.??.??"]
+[PlyCount "82"]
 
-1. e4 c5 2. c3 d5 3. exd5 Nf6 4. d4 Nxd5 5. Nf3 e6 6. Bd3 cxd4 7. cxd4 Bb4+ 8.
-Bd2 Bxd2+ 9. Qxd2 O-O 10. Nc3 Nc6 11. O-O Ncb4 12. Be2 b6 13. Ne5 Bb7 14. a3
-Nxc3 15. bxc3 Nc6 16. Nxc6 Bxc6 17. c4 Qd7 18. Qb2 Rab8 19. Rab1 a6 20. Rfd1
-Rfd8 21. Rd2 Qe7 22. d5 exd5 23. Bf3 Rd6 24. cxd5 Bd7 25. Re2 Qf6 26. Qxf6 Rxf6
-27. Rc1 Kf8 28. Rec2 Ke8 29. Be4 g6 30. f3 Rd6 31. f4 b5 32. Kf2 b4 33. Rb2
-Rdb6 34. axb4 Rxb4 35. Rxb4 Rxb4 36. Ke3 a5 37. Rc5 Rb5 38. Rxb5 Bxb5 39. Kd4
-a4 40. Bb1 Kd7 41. Kc5 Bf1 1/2-1/2
+1. e4 c5 2. c3 d5 3. exd5 Nf6 4. d4 Nxd5 5. Nf3 e6 6. Bd3 cxd4 7. cxd4 Bb4+
+8. Bd2 Bxd2+ 9. Qxd2 O-O 10. Nc3 Nc6 11. O-O Ncb4 12. Be2 b6 13. Ne5 Bb7
+14. a3 Nxc3 15. bxc3 Nc6 16. Nxc6 Bxc6 17. c4 Qd7 18. Qb2 Rab8 19. Rab1 a6
+20. Rfd1 Rfd8 21. Rd2 Qe7 22. d5 exd5 23. Bf3 Rd6 24. cxd5 Bd7 25. Re2 Qf6
+26. Qxf6 Rxf6 27. Rc1 Kf8 28. Rec2 Ke8 29. Be4 g6 30. f3 Rd6 31. f4 b5 32.
+Kf2 b4 33. Rb2 Rdb6 34. axb4 Rxb4 35. Rxb4 Rxb4 36. Ke3 a5 37. Rc5 Rb5 38.
+Rxb5 Bxb5 39. Kd4 a4 40. Bb1 Kd7 41. Kc5 Bf1 1/2-1/2
 
 [Event "BL 1112 SC Remagen - SG Turm Trier"]
 [Site "?"]
@@ -1016,16 +1031,16 @@ a4 40. Bb1 Kd7 41. Kc5 Bf1 1/2-1/2
 [White "Seel, Christian"]
 [Black "Cioara, Andrei Nestor"]
 [Result "1/2-1/2"]
-[ECO "A17"]
 [WhiteElo "2481"]
 [BlackElo "2436"]
-[PlyCount "42"]
+[ECO "A17"]
 [EventDate "2011.??.??"]
+[PlyCount "42"]
 
-1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 Bxc3 5. bxc3 d6 6. Bg2 e5 7. d3 Nc6 8. O-O
-O-O 9. Rb1 Re8 10. Nd2 Qd7 11. h3 b6 12. Kh2 Bb7 13. e4 Rf8 14. Nf3 Ne7 15. Nh4
-Ne8 16. g4 c6 17. Qe2 Nc7 18. f4 exf4 19. Bxf4 Ng6 20. Nxg6 hxg6 21. Bg3 Ne6
-1/2-1/2
+1. Nf3 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 Bxc3 5. bxc3 d6 6. Bg2 e5 7. d3 Nc6 8.
+O-O O-O 9. Rb1 Re8 10. Nd2 Qd7 11. h3 b6 12. Kh2 Bb7 13. e4 Rf8 14. Nf3 Ne7
+15. Nh4 Ne8 16. g4 c6 17. Qe2 Nc7 18. f4 exf4 19. Bxf4 Ng6 20. Nxg6 hxg6
+21. Bg3 Ne6 1/2-1/2
 
 [Event "BL 1112 SK König Tegel - Hamburger SK"]
 [Site "Berlin Tegel"]
@@ -1034,17 +1049,17 @@ Ne8 16. g4 c6 17. Qe2 Nc7 18. f4 exf4 19. Bxf4 Ng6 20. Nxg6 hxg6 21. Bg3 Ne6
 [White "Wojtaszek, Radoslav"]
 [Black "Rabiega, Robert"]
 [Result "1-0"]
-[ECO "D07"]
 [WhiteElo "2704"]
 [BlackElo "2501"]
-[PlyCount "59"]
+[ECO "D07"]
 [EventDate "2011.??.??"]
+[PlyCount "59"]
 
-1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. e3 e5 5. Nc3 Bb4 6. a3 Bxc3+ 7. bxc3 Nf6 8.
-c4 Qd6 9. d5 Nb8 10. Ne2 Ne4 11. f3 Nc5 12. Nc3 O-O 13. Be2 a6 14. O-O Nbd7 15.
-e4 f5 16. exf5 Rxf5 17. Be3 b6 18. a4 Rf8 19. a5 Nf6 20. Qb1 Rb8 21. Qb4 Rd8
-22. Bxc5 Qxc5+ 23. Qxc5 bxc5 24. Na4 Nd7 25. Rab1 Rxb1 26. Rxb1 Kf8 27. Bd3 g6
-28. Kf2 Ke7 29. g4 Rf8 30. Ke3 1-0
+1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. e3 e5 5. Nc3 Bb4 6. a3 Bxc3+ 7. bxc3 Nf6
+8. c4 Qd6 9. d5 Nb8 10. Ne2 Ne4 11. f3 Nc5 12. Nc3 O-O 13. Be2 a6 14. O-O
+Nbd7 15. e4 f5 16. exf5 Rxf5 17. Be3 b6 18. a4 Rf8 19. a5 Nf6 20. Qb1 Rb8
+21. Qb4 Rd8 22. Bxc5 Qxc5+ 23. Qxc5 bxc5 24. Na4 Nd7 25. Rab1 Rxb1 26. Rxb1
+Kf8 27. Bd3 g6 28. Kf2 Ke7 29. g4 Rf8 30. Ke3 1-0
 
 [Event "BL 1112 SK König Tegel - Hamburger SK"]
 [Site "Berlin Tegel"]
@@ -1053,17 +1068,17 @@ e4 f5 16. exf5 Rxf5 17. Be3 b6 18. a4 Rf8 19. a5 Nf6 20. Qb1 Rb8 21. Qb4 Rd8
 [White "Stern, Rene"]
 [Black "Ghaem Maghami, Ehsan"]
 [Result "0-1"]
-[ECO "E30"]
 [WhiteElo "2506"]
 [BlackElo "2583"]
-[PlyCount "61"]
+[ECO "E30"]
 [EventDate "2011.??.??"]
+[PlyCount "61"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 b5 6. dxe6 fxe6 7. cxb5 d5 8. a3
-Ba5 9. e3 O-O 10. Bd3 Nbd7 11. Nge2 Bc7 12. Bh4 Bb7 13. Bg3 e5 14. O-O Qe7 15.
-Rc1 Rad8 16. Qa4 c4 17. Bb1 Nc5 18. Qc2 Nb3 19. Rce1 Qf7 20. Nc1 d4 21. exd4
-exd4 22. Bxc7 d3 23. Nxd3 Rxd3 24. Bg3 Nd2 25. Ba2 Rfd8 26. Rd1 Kh8 27. Rfe1
-Nh5 28. Re2 Nf3+ 29. Kf1 Nxg3+ 30. hxg3 Qh5 31. Re4 0-1
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 b5 6. dxe6 fxe6 7. cxb5 d5 8.
+a3 Ba5 9. e3 O-O 10. Bd3 Nbd7 11. Ne2 Bc7 12. Bh4 Bb7 13. Bg3 e5 14. O-O
+Qe7 15. Rc1 Rad8 16. Qa4 c4 17. Bb1 Nc5 18. Qc2 Nb3 19. Rce1 Qf7 20. Nc1 d4
+21. exd4 exd4 22. Bxc7 d3 23. Nxd3 Rxd3 24. Bg3 Nd2 25. Ba2 Rfd8 26. Rd1
+Kh8 27. Rfe1 Nh5 28. Re2 Nf3+ 29. Kf1 Nxg3+ 30. hxg3 Qh5 31. Re4 0-1
 
 [Event "BL 1112 SK König Tegel - Hamburger SK"]
 [Site "Berlin Tegel"]
@@ -1072,16 +1087,16 @@ Nh5 28. Re2 Nf3+ 29. Kf1 Nxg3+ 30. hxg3 Qh5 31. Re4 0-1
 [White "Hansen, Sune Berg"]
 [Black "Richter, Michael"]
 [Result "1-0"]
-[ECO "C05"]
 [WhiteElo "2566"]
 [BlackElo "2484"]
-[PlyCount "41"]
+[ECO "C05"]
 [EventDate "2011.??.??"]
+[PlyCount "41"]
 
-1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ngf3 a5 8. O-O
-Be7 9. a4 Qb6 10. dxc5 Bxc5 11. Qe2 f6 12. exf6 Nxf6 13. Bc2 O-O 14. Nb3 e5 15.
-Qb5 Nd7 16. Nxc5 Qxc5 17. Bb3 Rxf3 18. gxf3 Qf8 19. Qxd5+ Kh8 20. Qf7 Qxf7 21.
-Bxf7 1-0
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. c3 c5 6. Bd3 Nc6 7. Ngf3 a5 8.
+O-O Be7 9. a4 Qb6 10. dxc5 Bxc5 11. Qe2 f6 12. exf6 Nxf6 13. Bc2 O-O 14.
+Nb3 e5 15. Qb5 Nd7 16. Nxc5 Qxc5 17. Bb3 Rxf3 18. gxf3 Qf8 19. Qxd5+ Kh8
+20. Qf7 Qxf7 21. Bxf7 1-0
 
 [Event "BL 1112 SK König Tegel - Hamburger SK"]
 [Site "Berlin Tegel"]
@@ -1090,20 +1105,21 @@ Bxf7 1-0
 [White "Muse, Mladen"]
 [Black "Ftacnik, Lubomir Dr"]
 [Result "1/2-1/2"]
-[ECO "A37"]
 [WhiteElo "2443"]
 [BlackElo "2570"]
-[PlyCount "100"]
+[ECO "A37"]
 [EventDate "2011.??.??"]
+[PlyCount "100"]
 
-1. Nf3 c5 2. c4 Nc6 3. g3 e5 4. Nc3 g6 5. Bg2 Bg7 6. O-O Nge7 7. d3 O-O 8. a3
-d6 9. Rb1 a5 10. Bd2 Rb8 11. Ne1 Be6 12. Nc2 d5 13. cxd5 Nxd5 14. Ne3 Nde7 15.
-Ne4 b6 16. b4 axb4 17. axb4 cxb4 18. Bxb4 Nxb4 19. Rxb4 Nc6 20. Rb1 Nd4 21. Nc3
-f5 22. Nb5 Kh8 23. Nxd4 exd4 24. Nc2 Qd6 25. Rb2 Rfc8 26. Qd2 Rc5 27. Rfb1 b5
-28. Na3 Bd7 29. Nc2 h6 30. Nb4 g5 31. Ra2 Rbc8 32. Bb7 Re8 33. Bf3 Rc3 34. Ra6
-Qe5 35. h3 Rec8 36. Qa2 g4 37. hxg4 fxg4 38. Be4 Rc1+ 39. Rxc1 Rxc1+ 40. Kg2
-Qh5 41. Ra8+ Bc8 42. Rxc8+ Rxc8 43. Nc6 Re8 44. Qa3 Qg5 45. Qd6 Qf6 46. Qd7 Rf8
-47. f3 gxf3+ 48. exf3 Rf7 49. Qe8+ Rf8 50. Qd7 Rf7 1/2-1/2
+1. Nf3 c5 2. c4 Nc6 3. g3 e5 4. Nc3 g6 5. Bg2 Bg7 6. O-O Nge7 7. d3 O-O 8.
+a3 d6 9. Rb1 a5 10. Bd2 Rb8 11. Ne1 Be6 12. Nc2 d5 13. cxd5 Nxd5 14. Ne3
+Nde7 15. Ne4 b6 16. b4 axb4 17. axb4 cxb4 18. Bxb4 Nxb4 19. Rxb4 Nc6 20.
+Rb1 Nd4 21. Nc3 f5 22. Nb5 Kh8 23. Nxd4 exd4 24. Nc2 Qd6 25. Rb2 Rfc8 26.
+Qd2 Rc5 27. Rfb1 b5 28. Na3 Bd7 29. Nc2 h6 30. Nb4 g5 31. Ra2 Rbc8 32. Bb7
+Re8 33. Bf3 Rc3 34. Ra6 Qe5 35. h3 Rec8 36. Qa2 g4 37. hxg4 fxg4 38. Be4
+Rc1+ 39. Rxc1 Rxc1+ 40. Kg2 Qh5 41. Ra8+ Bc8 42. Rxc8+ Rxc8 43. Nc6 Re8 44.
+Qa3 Qg5 45. Qd6 Qf6 46. Qd7 Rf8 47. f3 gxf3+ 48. exf3 Rf7 49. Qe8+ Rf8 50.
+Qd7 Rf7 1/2-1/2
 
 [Event "BL 1112 SK König Tegel - Hamburger SK"]
 [Site "Berlin Tegel"]
@@ -1112,18 +1128,18 @@ Qh5 41. Ra8+ Bc8 42. Rxc8+ Rxc8 43. Nc6 Re8 44. Qa3 Qg5 45. Qd6 Qf6 46. Qd7 Rf8
 [White "Rogozenco, Dorian"]
 [Black "Von Herman, Ulf"]
 [Result "1-0"]
-[ECO "E54"]
 [WhiteElo "2552"]
 [BlackElo "2419"]
-[PlyCount "71"]
+[ECO "E54"]
 [EventDate "2011.??.??"]
+[PlyCount "71"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
-cxd4 9. exd4 a6 10. a3 Bxc3 11. bxc3 b5 12. Bd3 Bb7 13. a4 Qc7 14. Bd2 Nbd7 15.
-axb5 axb5 16. Qe2 Bd5 17. Rxa8 Rxa8 18. Bxb5 Ng4 19. Rd1 Ra2 20. h3 Ngf6 21.
-Bd3 Nb6 22. Ne5 Na4 23. Rc1 Nb2 24. Bb1 Ra4 25. Bg5 Nc4 26. Bxf6 gxf6 27. Qc2
-fxe5 28. Qxa4 e4 29. Re1 Qf4 30. Bxe4 Qd2 31. Rf1 Bxe4 32. Qxc4 Bd3 33. Qc8+
-Kg7 34. Ra1 Qb2 35. Re1 Qd2 36. Re3 1-0
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 cxd4 9. exd4 a6 10. a3 Bxc3 11. bxc3 b5 12. Bd3 Bb7 13. a4 Qc7 14. Bd2
+Nbd7 15. axb5 axb5 16. Qe2 Bd5 17. Rxa8 Rxa8 18. Bxb5 Ng4 19. Rd1 Ra2 20.
+h3 Ngf6 21. Bd3 Nb6 22. Ne5 Na4 23. Rc1 Nb2 24. Bb1 Ra4 25. Bg5 Nc4 26.
+Bxf6 gxf6 27. Qc2 fxe5 28. Qxa4 e4 29. Re1 Qf4 30. Bxe4 Qd2 31. Rf1 Bxe4
+32. Qxc4 Bd3 33. Qc8+ Kg7 34. Ra1 Qb2 35. Re1 Qd2 36. Re3 1-0
 
 [Event "BL 1112 SK König Tegel - Hamburger SK"]
 [Site "Berlin Tegel"]
@@ -1132,18 +1148,18 @@ Kg7 34. Ra1 Qb2 35. Re1 Qd2 36. Re3 1-0
 [White "Breier, Andreas"]
 [Black "Heinemann, Thies"]
 [Result "0-1"]
-[ECO "E06"]
 [WhiteElo "2400"]
 [BlackElo "2469"]
-[PlyCount "72"]
+[ECO "E06"]
 [EventDate "2011.??.??"]
+[PlyCount "72"]
 
-1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Bg2 d5 6. Nf3 O-O 7. O-O c6 8. Qc2
-b6 9. Bf4 Ba6 10. cxd5 cxd5 11. Rc1 Nbd7 12. Nc3 b5 13. a4 Qb6 14. Nxb5 Bxb5
-15. axb5 Qxb5 16. Bf1 Qb4 17. Bd2 Qb7 18. e3 Rfb8 19. Ra2 Bb4 20. Ba6 Qb6 21.
-Qa4 Bxd2 22. Nxd2 Qd8 23. Nb3 Rb6 24. Nc5 Rab8 25. b3 Nxc5 26. Rxc5 Ne4 27. Rc1
-Rxb3 28. Rac2 Rb1 29. Rxb1 Rxb1+ 30. Kg2 Nd6 31. Bd3 Rb7 32. Rc6 g6 33. Qa3 Rb6
-34. Rc5 Qb8 35. Ra5 Rb3 36. Qc5 Nb7 0-1
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Bg2 d5 6. Nf3 O-O 7. O-O c6 8.
+Qc2 b6 9. Bf4 Ba6 10. cxd5 cxd5 11. Rc1 Nbd7 12. Nc3 b5 13. a4 Qb6 14. Nxb5
+Bxb5 15. axb5 Qxb5 16. Bf1 Qb4 17. Bd2 Qb7 18. e3 Rfb8 19. Ra2 Bb4 20. Ba6
+Qb6 21. Qa4 Bxd2 22. Nxd2 Qd8 23. Nb3 Rb6 24. Nc5 Rab8 25. b3 Nxc5 26. Rxc5
+Ne4 27. Rc1 Rxb3 28. Rac2 Rb1 29. Rxb1 Rxb1+ 30. Kg2 Nd6 31. Bd3 Rb7 32.
+Rc6 g6 33. Qa3 Rb6 34. Rc5 Qb8 35. Ra5 Rb3 36. Qc5 Nb7 0-1
 
 [Event "BL 1112 SK König Tegel - Hamburger SK"]
 [Site "Berlin Tegel"]
@@ -1152,16 +1168,16 @@ Rxb3 28. Rac2 Rb1 29. Rxb1 Rxb1+ 30. Kg2 Nd6 31. Bd3 Rb7 32. Rc6 g6 33. Qa3 Rb6
 [White "Sebastian, Dirk"]
 [Black "Muse, Drazen"]
 [Result "0-1"]
-[ECO "B13"]
 [WhiteElo "2446"]
 [BlackElo "2388"]
-[PlyCount "50"]
+[ECO "B13"]
 [EventDate "2011.??.??"]
+[PlyCount "50"]
 
-1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Ne2 Bg4 7. f3 Bd7 8. Bf4
-e5 9. dxe5 Nxe5 10. Na3 a6 11. Bxe5 Qxe5 12. Qb3 Bc5 13. O-O-O Nf6 14. Nc2 O-O
-15. g4 b5 16. f4 Qc7 17. g5 Ng4 18. Qxd5 Nf2 19. f5 Rad8 20. g6 Bc8 21. gxh7+
-Kh8 22. Qf3 Bb7 23. Qh5 Bxh1 24. f6 gxf6 25. Qh6 Qe5 0-1
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Ne2 Bg4 7. f3 Bd7 8.
+Bf4 e5 9. dxe5 Nxe5 10. Na3 a6 11. Bxe5 Qxe5 12. Qb3 Bc5 13. O-O-O Nf6 14.
+Nc2 O-O 15. g4 b5 16. f4 Qc7 17. g5 Ng4 18. Qxd5 Nf2 19. f5 Rad8 20. g6 Bc8
+21. gxh7+ Kh8 22. Qf3 Bb7 23. Qh5 Bxh1 24. f6 gxf6 25. Qh6 Qe5 0-1
 
 [Event "BL 1112 SK König Tegel - Hamburger SK"]
 [Site "Berlin Tegel"]
@@ -1170,17 +1186,17 @@ Kh8 22. Qf3 Bb7 23. Qh5 Bxh1 24. f6 gxf6 25. Qh6 Qe5 0-1
 [White "Fruebing, Stefan"]
 [Black "Berger, Steve"]
 [Result "1/2-1/2"]
-[ECO "C19"]
 [WhiteElo "2373"]
 [BlackElo "2416"]
-[PlyCount "62"]
+[ECO "C19"]
 [EventDate "2011.??.??"]
+[PlyCount "62"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Bd7 8. a4
-Qa5 9. Bd2 Nbc6 10. Bb5 Qc7 11. O-O Na5 12. Qe2 b6 13. Bg5 cxd4 14. cxd4 Bxb5
-15. Qxb5+ Qd7 16. Qd3 h6 17. Bxe7 Qxe7 18. Qb5+ Qd7 19. Qb4 Rc8 20. c3 Rc4 21.
-Qa3 Qe7 22. Nd2 Qxa3 23. Rxa3 Rc7 24. f4 g6 25. Kf2 h5 26. Ke2 Kd7 27. Kd3 Rhc8
-28. g3 Kc6 29. h3 Kb7 30. Rh1 Nc4 31. Nxc4 Rxc4 1/2-1/2
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Bd7 8.
+a4 Qa5 9. Bd2 Nbc6 10. Bb5 Qc7 11. O-O Na5 12. Qe2 b6 13. Bg5 cxd4 14. cxd4
+Bxb5 15. Qxb5+ Qd7 16. Qd3 h6 17. Bxe7 Qxe7 18. Qb5+ Qd7 19. Qb4 Rc8 20. c3
+Rc4 21. Qa3 Qe7 22. Nd2 Qxa3 23. Rxa3 Rc7 24. f4 g6 25. Kf2 h5 26. Ke2 Kd7
+27. Kd3 Rhc8 28. g3 Kc6 29. h3 Kb7 30. Rh1 Nc4 31. Nxc4 Rxc4 1/2-1/2
 
 [Event "BL 1112 USV TU Dresden - Schachfr. Berl"]
 [Site "Berlin Tegel"]
@@ -1189,16 +1205,16 @@ Qa3 Qe7 22. Nd2 Qxa3 23. Rxa3 Rc7 24. f4 g6 25. Kf2 h5 26. Ke2 Kd7 27. Kd3 Rhc8
 [White "Melkumyan, Hrant"]
 [Black "Almasi, Zoltan"]
 [Result "1/2-1/2"]
-[ECO "E55"]
 [WhiteElo "2619"]
 [BlackElo "2710"]
-[PlyCount "48"]
+[ECO "E55"]
 [EventDate "2011.??.??"]
+[PlyCount "48"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8. Bxc4
-Nbd7 9. Qe2 a6 10. a4 Qe7 11. Na2 Ba5 12. dxc5 Bc7 13. b4 a5 14. Ba3 axb4 15.
-Bxb4 Nxc5 16. Rfc1 Bd6 17. Nc3 Bd7 18. Nb5 Bxb5 19. Bxb5 Nb3 20. Bxd6 Qxd6 21.
-Rd1 Qe7 22. Rab1 Nc5 23. Qb2 Nxa4 24. Bxa4 Rxa4 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O dxc4 8.
+Bxc4 Nbd7 9. Qe2 a6 10. a4 Qe7 11. Na2 Ba5 12. dxc5 Bc7 13. b4 a5 14. Ba3
+axb4 15. Bxb4 Nxc5 16. Rfc1 Bd6 17. Nc3 Bd7 18. Nb5 Bxb5 19. Bxb5 Nb3 20.
+Bxd6 Qxd6 21. Rd1 Qe7 22. Rab1 Nc5 23. Qb2 Nxa4 24. Bxa4 Rxa4 1/2-1/2
 
 [Event "BL 1112 USV TU Dresden - Schachfr. Berl"]
 [Site "Berlin Tegel"]
@@ -1207,19 +1223,20 @@ Rd1 Qe7 22. Rab1 Nc5 23. Qb2 Nxa4 24. Bxa4 Rxa4 1/2-1/2
 [White "Socko, Bartosz"]
 [Black "Kraemer, Martin"]
 [Result "1/2-1/2"]
-[ECO "C01"]
 [WhiteElo "2628"]
 [BlackElo "2492"]
-[PlyCount "86"]
+[ECO "C01"]
 [EventDate "2011.??.??"]
+[PlyCount "86"]
 
-1. c4 e6 2. e4 d5 3. exd5 exd5 4. d4 Nf6 5. Nc3 Bb4 6. Bd3 O-O 7. Nge2 dxc4 8.
-Bxc4 Nc6 9. O-O Bf5 10. a3 Bd6 11. Nb5 Be7 12. Ng3 Bg4 13. f3 Be6 14. Bxe6 fxe6
-15. Be3 Qd7 16. Bf2 Rad8 17. Ne2 Nd5 18. Re1 Kh8 19. Qd2 h6 20. Rad1 Bg5 21.
-Qd3 Qf7 22. Nbc3 a6 23. Ne4 Be7 24. Qb3 Na5 25. Qc2 Nc6 26. Nc5 Bxc5 27. dxc5
-e5 28. b4 Nf6 29. Ng3 Nd5 30. Qc4 Kg8 31. Ne4 Nf4 32. Qxf7+ Kxf7 33. Be3 Rxd1
-34. Rxd1 Rd8 35. Rxd8 Nxd8 36. Bxf4 exf4 37. Kf2 Ke6 38. Ke2 Nc6 39. Kd3 Ne5+
-40. Kd4 Nc6+ 41. Kc4 Ne5+ 42. Kd4 Nc6+ 43. Kc4 Ne5+ 1/2-1/2
+1. c4 e6 2. e4 d5 3. exd5 exd5 4. d4 Nf6 5. Nc3 Bb4 6. Bd3 O-O 7. Ne2 dxc4
+8. Bxc4 Nc6 9. O-O Bf5 10. a3 Bd6 11. Nb5 Be7 12. Ng3 Bg4 13. f3 Be6 14.
+Bxe6 fxe6 15. Be3 Qd7 16. Bf2 Rad8 17. Ne2 Nd5 18. Re1 Kh8 19. Qd2 h6 20.
+Rad1 Bg5 21. Qd3 Qf7 22. Nbc3 a6 23. Ne4 Be7 24. Qb3 Na5 25. Qc2 Nc6 26.
+Nc5 Bxc5 27. dxc5 e5 28. b4 Nf6 29. Ng3 Nd5 30. Qc4 Kg8 31. Ne4 Nf4 32.
+Qxf7+ Kxf7 33. Be3 Rxd1 34. Rxd1 Rd8 35. Rxd8 Nxd8 36. Bxf4 exf4 37. Kf2
+Ke6 38. Ke2 Nc6 39. Kd3 Ne5+ 40. Kd4 Nc6+ 41. Kc4 Ne5+ 42. Kd4 Nc6+ 43. Kc4
+Ne5+ 1/2-1/2
 
 [Event "BL 1112 USV TU Dresden - Schachfr. Berl"]
 [Site "Berlin Tegel"]
@@ -1228,15 +1245,15 @@ e5 28. b4 Nf6 29. Ng3 Nd5 30. Qc4 Kg8 31. Ne4 Nf4 32. Qxf7+ Kxf7 33. Be3 Rxd1
 [White "Antoniewski, Rafal"]
 [Black "Gajewski, Grzegorz"]
 [Result "1/2-1/2"]
-[ECO "B90"]
 [WhiteElo "2585"]
 [BlackElo "2607"]
-[PlyCount "34"]
+[ECO "B90"]
 [EventDate "2011.??.??"]
+[PlyCount "34"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
-O-O 9. O-O Qc7 10. Bb3 Be6 11. Qe2 Rc8 12. Rfd1 b5 13. Bg5 Nbd7 14. Ne1 Bg4 15.
-Nf3 Be6 16. Ne1 Bg4 17. Nf3 Be6 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8.
+Bc4 O-O 9. O-O Qc7 10. Bb3 Be6 11. Qe2 Rc8 12. Rfd1 b5 13. Bg5 Nbd7 14. Ne1
+Bg4 15. Nf3 Be6 16. Ne1 Bg4 17. Nf3 Be6 1/2-1/2
 
 [Event "BL 1112 USV TU Dresden - Schachfr. Berl"]
 [Site "Berlin Tegel"]
@@ -1245,23 +1262,24 @@ Nf3 Be6 16. Ne1 Bg4 17. Nf3 Be6 1/2-1/2
 [White "Boensch, Uwe"]
 [Black "Michalik, Peter"]
 [Result "1/2-1/2"]
-[ECO "D56"]
 [WhiteElo "2530"]
 [BlackElo "2511"]
-[PlyCount "136"]
+[ECO "D56"]
 [EventDate "2011.??.??"]
+[PlyCount "136"]
 
-1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Be7 5. Nc3 h6 6. Bh4 O-O 7. e3 Ne4 8. Bxe7
-Qxe7 9. Qc2 Nxc3 10. Qxc3 c6 11. Be2 dxc4 12. Bxc4 b6 13. Be2 Bb7 14. O-O Nd7
-15. Rfc1 Rfe8 16. b4 Rac8 17. h3 e5 18. Nxe5 Nxe5 19. dxe5 Qxe5 20. Bf3 Qe7 21.
-Qb3 Rc7 22. Qa4 Ra8 23. Rab1 a5 24. bxa5 Rxa5 25. Qf4 b5 26. Rc5 Rd7 27. Re5
-Qd8 28. Qe4 Ra8 29. Bg4 Rc7 30. Rd1 Qf8 31. Qf4 c5 32. Bd7 Bc6 33. Bf5 Rca7 34.
-Bb1 c4 35. Qf5 g6 36. Qf6 Qg7 37. Qf4 Rd7 38. Rxd7 Bxd7 39. Qd4 Re8 40. f4 Rxe5
-41. fxe5 Be6 42. Qc5 b4 43. Qxb4 Qxe5 44. Kf2 Qf6+ 45. Ke2 Bd5 46. e4 Be6 47.
-a4 Qg5 48. Kf3 Qc1 49. a5 Qf1+ 50. Kg3 c3 51. Bc2 g5 52. Qd6 Bc4 53. Qd8+ Kh7
-54. e5+ Kg7 55. Qd4 Kf8 56. Qf2 Qc1 57. e6 Bxe6 58. a6 Qa3 59. Qb6 Ke7 60. Qc7+
-Kf6 61. a7 Bd5 62. Qd8+ Ke6 63. Qe8+ Kf6 64. Qd8+ Ke6 65. Qc8+ Ke7 66. Qc7+ Ke6
-67. Qc8+ Ke7 68. Qc7+ Ke6 1/2-1/2
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Be7 5. Nc3 h6 6. Bh4 O-O 7. e3 Ne4 8.
+Bxe7 Qxe7 9. Qc2 Nxc3 10. Qxc3 c6 11. Be2 dxc4 12. Bxc4 b6 13. Be2 Bb7 14.
+O-O Nd7 15. Rfc1 Rfe8 16. b4 Rac8 17. h3 e5 18. Nxe5 Nxe5 19. dxe5 Qxe5 20.
+Bf3 Qe7 21. Qb3 Rc7 22. Qa4 Ra8 23. Rab1 a5 24. bxa5 Rxa5 25. Qf4 b5 26.
+Rc5 Rd7 27. Re5 Qd8 28. Qe4 Ra8 29. Bg4 Rc7 30. Rd1 Qf8 31. Qf4 c5 32. Bd7
+Bc6 33. Bf5 Rca7 34. Bb1 c4 35. Qf5 g6 36. Qf6 Qg7 37. Qf4 Rd7 38. Rxd7
+Bxd7 39. Qd4 Re8 40. f4 Rxe5 41. fxe5 Be6 42. Qc5 b4 43. Qxb4 Qxe5 44. Kf2
+Qf6+ 45. Ke2 Bd5 46. e4 Be6 47. a4 Qg5 48. Kf3 Qc1 49. a5 Qf1+ 50. Kg3 c3
+51. Bc2 g5 52. Qd6 Bc4 53. Qd8+ Kh7 54. e5+ Kg7 55. Qd4 Kf8 56. Qf2 Qc1 57.
+e6 Bxe6 58. a6 Qa3 59. Qb6 Ke7 60. Qc7+ Kf6 61. a7 Bd5 62. Qd8+ Ke6 63.
+Qe8+ Kf6 64. Qd8+ Ke6 65. Qc8+ Ke7 66. Qc7+ Ke6 67. Qc8+ Ke7 68. Qc7+ Ke6
+1/2-1/2
 
 [Event "BL 1112 USV TU Dresden - Schachfr. Berl"]
 [Site "Berlin Tegel"]
@@ -1270,19 +1288,19 @@ Kf6 61. a7 Bd5 62. Qd8+ Ke6 63. Qe8+ Kf6 64. Qd8+ Ke6 65. Qc8+ Ke7 66. Qc7+ Ke6
 [White "Schneider, Ilja"]
 [Black "Maiwald, Jens-Uwe"]
 [Result "1-0"]
-[ECO "B07"]
 [WhiteElo "2472"]
 [BlackElo "2459"]
-[PlyCount "81"]
+[ECO "B07"]
 [EventDate "2011.??.??"]
+[PlyCount "81"]
 
-1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Nge2 Bg7 5. g3 O-O 6. Bg2 e5 7. O-O Nc6 8. dxe5
-dxe5 9. Bg5 Qxd1 10. Rfxd1 Nb4 11. a3 Nxc2 12. Bxf6 Bxf6 13. Rac1 Nd4 14. Nxd4
-exd4 15. Nd5 Bg7 16. Rxc7 Bg4 17. Rd2 d3 18. Rxd3 Bxb2 19. Rxb7 Bg7 20. Ne7+
-Kh8 21. Nc6 a5 22. a4 Bc8 23. Rc7 Be6 24. e5 Rfc8 25. Rxc8+ Rxc8 26. f4 Bf8 27.
-Kf2 Rc7 28. Ke3 Bc5+ 29. Kd2 Rb7 30. Bd5 Bf5 31. Rb3 Rd7 32. Rb8+ Kg7 33. Rd8
-Rb7 34. Kc3 Bg1 35. Nxa5 Rc7+ 36. Nc4 Bxh2 37. a5 Bxg3 38. Kb4 Bxf4 39. a6 Bg5
-40. Rb8 Bh4 41. Rb7 1-0
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Nge2 Bg7 5. g3 O-O 6. Bg2 e5 7. O-O Nc6 8.
+dxe5 dxe5 9. Bg5 Qxd1 10. Rfxd1 Nb4 11. a3 Nxc2 12. Bxf6 Bxf6 13. Rac1 Nd4
+14. Nxd4 exd4 15. Nd5 Bg7 16. Rxc7 Bg4 17. Rd2 d3 18. Rxd3 Bxb2 19. Rxb7
+Bg7 20. Ne7+ Kh8 21. Nc6 a5 22. a4 Bc8 23. Rc7 Be6 24. e5 Rfc8 25. Rxc8+
+Rxc8 26. f4 Bf8 27. Kf2 Rc7 28. Ke3 Bc5+ 29. Kd2 Rb7 30. Bd5 Bf5 31. Rb3
+Rd7 32. Rb8+ Kg7 33. Rd8 Rb7 34. Kc3 Bg1 35. Nxa5 Rc7+ 36. Nc4 Bxh2 37. a5
+Bxg3 38. Kb4 Bxf4 39. a6 Bg5 40. Rb8 Bh4 41. Rb7 1-0
 
 [Event "BL 1112 USV TU Dresden - Schachfr. Berl"]
 [Site "Berlin Tegel"]
@@ -1291,19 +1309,19 @@ Rb7 34. Kc3 Bg1 35. Nxa5 Rc7+ 36. Nc4 Bxh2 37. a5 Bxg3 38. Kb4 Bxf4 39. a6 Bg5
 [White "Tischbierek, Raj"]
 [Black "Berndt, Stephan"]
 [Result "0-1"]
-[ECO "D78"]
 [WhiteElo "2454"]
 [BlackElo "2441"]
-[PlyCount "77"]
+[ECO "D78"]
 [EventDate "2011.??.??"]
+[PlyCount "77"]
 
-1. g3 g6 2. d4 d5 3. Bg2 Bg7 4. Nf3 Nf6 5. O-O O-O 6. Nbd2 Nbd7 7. c4 c6 8. b3
-b6 9. Bb2 Bb7 10. e3 c5 11. Qe2 dxc4 12. bxc4 e6 13. a4 Qc7 14. a5 Ne4 15. Nb3
-Rfc8 16. Rfc1 Rab8 17. Ne1 Nd6 18. d5 Bxb2 19. Qxb2 exd5 20. cxd5 c4 21. e4
-Bxd5 22. e5 Ne4 23. Rd1 Ba8 24. e6 fxe6 25. Nd4 Ndc5 26. axb6 Rxb6 27. Qc2 Bd5
-28. Rac1 Qb7 29. Rb1 Rb8 30. Rxb6 Qxb6 31. Ra1 Nd3 32. Nef3 Ndxf2 33. Qa4 Nd3
-34. Bh3 Ndc5 35. Qa3 Qb2 36. Qxa7 Ra8 37. Bxe6+ Nxe6 38. Qxa8+ Bxa8 39. Rxa8+
-0-1
+1. g3 g6 2. d4 d5 3. Bg2 Bg7 4. Nf3 Nf6 5. O-O O-O 6. Nbd2 Nbd7 7. c4 c6 8.
+b3 b6 9. Bb2 Bb7 10. e3 c5 11. Qe2 dxc4 12. bxc4 e6 13. a4 Qc7 14. a5 Ne4
+15. Nb3 Rfc8 16. Rfc1 Rab8 17. Ne1 Nd6 18. d5 Bxb2 19. Qxb2 exd5 20. cxd5
+c4 21. e4 Bxd5 22. e5 Ne4 23. Rd1 Ba8 24. e6 fxe6 25. Nd4 Ndc5 26. axb6
+Rxb6 27. Qc2 Bd5 28. Rac1 Qb7 29. Rb1 Rb8 30. Rxb6 Qxb6 31. Ra1 Nd3 32.
+Nef3 Ndxf2 33. Qa4 Nd3 34. Bh3 Ndc5 35. Qa3 Qb2 36. Qxa7 Ra8 37. Bxe6+ Nxe6
+38. Qxa8+ Bxa8 39. Rxa8+ 0-1
 
 [Event "BL 1112 USV TU Dresden - Schachfr. Berl"]
 [Site "Berlin Tegel"]
@@ -1312,23 +1330,24 @@ Bxd5 22. e5 Ne4 23. Rd1 Ba8 24. e6 fxe6 25. Nd4 Ndc5 26. axb6 Rxb6 27. Qc2 Bd5
 [White "Polzin, Rainer"]
 [Black "Uhlmann, Wolfgang"]
 [Result "1-0"]
-[ECO "C18"]
 [WhiteElo "2469"]
 [BlackElo "2379"]
-[PlyCount "141"]
+[ECO "C18"]
 [EventDate "2011.??.??"]
+[PlyCount "141"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8. Bd3
-f5 9. exf6 Rxf6 10. Bg5 Rf7 11. Qh5 g6 12. Qd1 Qa5 13. Bd2 Nbc6 14. Nf3 Qa4 15.
-dxc5 e5 16. Be2 Qa5 17. c4 Qxc5 18. cxd5 Nxd5 19. O-O Bf5 20. c4 Nf6 21. Be3
-Qf8 22. c5 Rd7 23. Qb3+ Kg7 24. Bb5 Qe7 25. Rfe1 Be4 26. Bg5 Bd5 27. Qc3 e4 28.
-Bxc6 Bxc6 29. Ne5 Rd5 30. Nxc6 bxc6 31. Be3 Rad8 32. h3 Rd3 33. Qb2 h6 34. Rab1
-g5 35. Qb7 Qxb7 36. Rxb7+ R8d7 37. Reb1 Kf7 38. a4 Ke6 39. Rxd7 Rxd7 40. a5 Nd5
-41. a6 Nc7 42. Rb4 Nxa6 43. Rxe4+ Kf5 44. Ra4 Nb8 45. g4+ Kg6 46. Kg2 h5 47.
-Rb4 Na6 48. Ra4 Nc7 49. Rxa7 hxg4 50. hxg4 Rf7 51. Kg3 Re7 52. Bd2 Rd7 53. Be3
-Re7 54. Kf3 Rf7+ 55. Kg2 Re7 56. Bd2 Rf7 57. Rb7 Ne6 58. Rxf7 Kxf7 59. Be3 Kf6
-60. Kg3 Ke5 61. Bxg5 Nxc5 62. f4+ Ke4 63. f5 Nd7 64. Bc1 c5 65. Bb2 c4 66. Ba1
-Kd3 67. Kf4 c3 68. Bxc3 Kxc3 69. g5 Kd4 70. f6 Kd5 71. Kf5 1-0
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8.
+Bd3 f5 9. exf6 Rxf6 10. Bg5 Rf7 11. Qh5 g6 12. Qd1 Qa5 13. Bd2 Nbc6 14. Nf3
+Qa4 15. dxc5 e5 16. Be2 Qa5 17. c4 Qxc5 18. cxd5 Nxd5 19. O-O Bf5 20. c4
+Nf6 21. Be3 Qf8 22. c5 Rd7 23. Qb3+ Kg7 24. Bb5 Qe7 25. Rfe1 Be4 26. Bg5
+Bd5 27. Qc3 e4 28. Bxc6 Bxc6 29. Ne5 Rd5 30. Nxc6 bxc6 31. Be3 Rad8 32. h3
+Rd3 33. Qb2 h6 34. Rab1 g5 35. Qb7 Qxb7 36. Rxb7+ R8d7 37. Reb1 Kf7 38. a4
+Ke6 39. Rxd7 Rxd7 40. a5 Nd5 41. a6 Nc7 42. Rb4 Nxa6 43. Rxe4+ Kf5 44. Ra4
+Nb8 45. g4+ Kg6 46. Kg2 h5 47. Rb4 Na6 48. Ra4 Nc7 49. Rxa7 hxg4 50. hxg4
+Rf7 51. Kg3 Re7 52. Bd2 Rd7 53. Be3 Re7 54. Kf3 Rf7+ 55. Kg2 Re7 56. Bd2
+Rf7 57. Rb7 Ne6 58. Rxf7 Kxf7 59. Be3 Kf6 60. Kg3 Ke5 61. Bxg5 Nxc5 62. f4+
+Ke4 63. f5 Nd7 64. Bc1 c5 65. Bb2 c4 66. Ba1 Kd3 67. Kf4 c3 68. Bxc3 Kxc3
+69. g5 Kd4 70. f6 Kd5 71. Kf5 1-0
 
 [Event "BL 1112 USV TU Dresden - Schachfr. Berl"]
 [Site "Berlin Tegel"]
@@ -1337,19 +1356,19 @@ Kd3 67. Kf4 c3 68. Bxc3 Kxc3 69. g5 Kd4 70. f6 Kd5 71. Kf5 1-0
 [White "Hoffmann, Paul"]
 [Black "Mihok, Oliver"]
 [Result "1-0"]
-[ECO "B40"]
 [WhiteElo "2317"]
 [BlackElo "2445"]
-[PlyCount "106"]
+[ECO "B40"]
 [EventDate "2011.??.??"]
+[PlyCount "106"]
 
-1. e4 c5 2. Nf3 e6 3. c4 a6 4. Nc3 Qc7 5. Be2 d6 6. d4 cxd4 7. Nxd4 Nf6 8. Be3
-b6 9. O-O Bb7 10. f3 Be7 11. Qd2 O-O 12. Rfc1 Rc8 13. a4 Qd8 14. a5 bxa5 15.
-Nb3 Nc6 16. Na4 Nd7 17. c5 dxc5 18. Nbxc5 Nxc5 19. Qxd8+ Rxd8 20. Nxc5 Bxc5 21.
-Rxc5 h6 22. Bd1 Rd3 23. Kf2 Rad8 24. Ba4 Nb4 25. Rc7 Bc8 26. Bb6 R3d6 27. Bxa5
-Nd3+ 28. Kg1 Nxb2 29. Rcc1 Nxa4 30. Bxd8 Rxd8 31. Rxa4 Kf8 32. Rac4 Bd7 33. Rd1
-Ke7 34. Rc7 a5 35. Ra7 a4 36. e5 Ke8 37. Kf2 Ke7 38. f4 Ke8 39. Rd4 Bc6 40.
-Rxd8+ Kxd8 41. Rxf7 g6 42. Ke3 Bxg2 43. Kd4 Bd5 44. Ra7 Bb3 45. Kc3 Ke8 46. Rg7
-Bd5 47. Kb4 Be4 48. Kxa4 Kf8 49. Rc7 g5 50. fxg5 hxg5 51. Kb4 Bg6 52. Kc5 Bf7
-53. Kd6 Kg7 1-0
+1. e4 c5 2. Nf3 e6 3. c4 a6 4. Nc3 Qc7 5. Be2 d6 6. d4 cxd4 7. Nxd4 Nf6 8.
+Be3 b6 9. O-O Bb7 10. f3 Be7 11. Qd2 O-O 12. Rfc1 Rc8 13. a4 Qd8 14. a5
+bxa5 15. Nb3 Nc6 16. Na4 Nd7 17. c5 dxc5 18. Nbxc5 Nxc5 19. Qxd8+ Rxd8 20.
+Nxc5 Bxc5 21. Rxc5 h6 22. Bd1 Rd3 23. Kf2 Rad8 24. Ba4 Nb4 25. Rc7 Bc8 26.
+Bb6 R3d6 27. Bxa5 Nd3+ 28. Kg1 Nxb2 29. Rcc1 Nxa4 30. Bxd8 Rxd8 31. Rxa4
+Kf8 32. Rac4 Bd7 33. Rd1 Ke7 34. Rc7 a5 35. Ra7 a4 36. e5 Ke8 37. Kf2 Ke7
+38. f4 Ke8 39. Rd4 Bc6 40. Rxd8+ Kxd8 41. Rxf7 g6 42. Ke3 Bxg2 43. Kd4 Bd5
+44. Ra7 Bb3 45. Kc3 Ke8 46. Rg7 Bd5 47. Kb4 Be4 48. Kxa4 Kf8 49. Rc7 g5 50.
+fxg5 hxg5 51. Kb4 Bg6 52. Kc5 Bf7 53. Kd6 Kg7 1-0
 
