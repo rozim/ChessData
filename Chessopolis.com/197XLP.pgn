@@ -1,4 +1,3 @@
-
 [Event "Lone Pine"]
 [Site "?"]
 [Date "1971.??.??"]
@@ -7,13 +6,13 @@
 [Black "Gligoric S"]
 [Result "0-1"]
 
-1.c4 g6 2.Nc3 Bg7 3.d4 Nf6 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6 8.Qd2 cxd5
-9.cxd5 Nbd7 10.Nge2 a6 11.g4 h5 12.g5 Nh7 13.h4 f6 14.Bg2 fxg5
-15.hxg5 b5 16.Nc1 Nc5 17.b4 Na4 18.Nxa4 bxa4 19.Nd3 Bd7 20.Rc1 Bb5
-21.Nb2 Rf4 22.Bxf4 exf4 23.Nd3 Qxg5 24.Rc2 Rf8 25.Kd1 a3 26.Nc1 Ba4
-27.Nb3 Bb2 28.Rxb2 axb2 29.Qxb2 Rb8 30.Qd2 Nf6 31.Kc1 Bxb3 32.axb3 Qe5
-33.Kb1 g5 34.Rc1 g4 35.Rc7 Nh7 36.Ka2 Ng5 37.Qe2 h4 38.fxg4 Rf8 39.Bf3 Qd4
-40.Rc4 Qe3 0-1
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2
+cxd5 9. cxd5 Nbd7 10. Nge2 a6 11. g4 h5 12. g5 Nh7 13. h4 f6 14. Bg2 fxg5
+15. hxg5 b5 16. Nc1 Nc5 17. b4 Na4 18. Nxa4 bxa4 19. Nd3 Bd7 20. Rc1 Bb5
+21. Nb2 Rf4 22. Bxf4 exf4 23. Nd3 Qxg5 24. Rc2 Rf8 25. Kd1 a3 26. Nc1 Ba4
+27. Nb3 Bb2 28. Rxb2 axb2 29. Qxb2 Rb8 30. Qd2 Nf6 31. Kc1 Bxb3 32. axb3
+Qe5 33. Kb1 g5 34. Rc1 g4 35. Rc7 Nh7 36. Ka2 Ng5 37. Qe2 h4 38. fxg4 Rf8
+39. Bf3 Qd4 40. Rc4 Qe3 0-1
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -23,11 +22,11 @@
 [Black "Gligoric S"]
 [Result "0-1"]
 
-1.c4 g6 2.Nc3 Bg7 3.d4 Nf6 4.e4 d6 5.f4 O-O 6.Nf3 c5 7.d5 e6 8.Be2 exd5
-9.exd5 Nh5 10.Qd2 Re8 11.Kf2 Bg4 12.g3 Nd7 13.h3 Bxc3 14.bxc3 Ndf6
-15.Bd3 Qd7 16.f5 Bxf5 17.g4 Bxg4 18.hxg4 Nxg4+ 19.Kg1 Re3 20.Qd1 Rae8
-21.Rh4 Nf4 22.Bxe3 Rxe3 23.Bf1 h5 24.Rb1 Qe7 25.Rb2 Qe4 26.Rf2 Nxf2
-27.Kxf2 Rxc3 28.Rxf4 Qxf4 29.Qe2 g5 30.Kg2 Re3 31.Qf2 Qg4+ 0-1
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5 e6 8. Be2
+exd5 9. exd5 Nh5 10. Qd2 Re8 11. Kf2 Bg4 12. g3 Nd7 13. h3 Bxc3 14. bxc3
+Ndf6 15. Bd3 Qd7 16. f5 Bxf5 17. g4 Bxg4 18. hxg4 Nxg4+ 19. Kg1 Re3 20. Qd1
+Rae8 21. Rh4 Nf4 22. Bxe3 Rxe3 23. Bf1 h5 24. Rb1 Qe7 25. Rb2 Qe4 26. Rf2
+Nxf2 27. Kxf2 Rxc3 28. Rxf4 Qxf4 29. Qe2 g5 30. Kg2 Re3 31. Qf2 Qg4+ 0-1
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -37,11 +36,12 @@
 [Black "Miles A"]
 [Result "1-0"]
 
-1.e4 c5 2.Nf3 d6 3.Nc3 Nf6 4.d4 cxd4 5.Nxd4 g6 6.Be2 Bg7 7.O-O Nc6
-8.Be3 O-O 9.Qd2 Ng4 10.Bxg4 Bxg4 11.Nd5 Bd7 12.c4 Ne5 13.b3 Bc6 14.Bh6 Bxh6
-15.Qxh6 e6 16.Nc3 Qb6 17.Rad1 Rad8 18.h3 Qc5 19.Rfe1 a6 20.Qe3 Rfe8
-21.Rd2 Nd7 22.Nxc6 Qxc6 23.Red1 Nb6 24.e5 d5 25.Ne4 Kg7 26.Nf6 Rf8
-27.Nh5+ gxh5 28.Qg5+ Kh8 29.Qf6+ Kg8 30.Rd3 Rfe8 31.Qh6 h4 32.Rd4 1-0
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 g6 6. Be2 Bg7 7. O-O Nc6
+8. Be3 O-O 9. Qd2 Ng4 10. Bxg4 Bxg4 11. Nd5 Bd7 12. c4 Ne5 13. b3 Bc6 14.
+Bh6 Bxh6 15. Qxh6 e6 16. Nc3 Qb6 17. Rad1 Rad8 18. h3 Qc5 19. Rfe1 a6 20.
+Qe3 Rfe8 21. Rd2 Nd7 22. Nxc6 Qxc6 23. Red1 Nb6 24. e5 d5 25. Ne4 Kg7 26.
+Nf6 Rf8 27. Nh5+ gxh5 28. Qg5+ Kh8 29. Qf6+ Kg8 30. Rd3 Rfe8 31. Qh6 h4 32.
+Rd4 1-0
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -51,10 +51,10 @@
 [Black "Evans L"]
 [Result "1-0"]
 
-1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Nf3 Nf6 5.Be2 O-O 6.O-O c6 7.h3 Qc7 8.a4 e5
-9.dxe5 dxe5 10.Bc4 Nbd7 11.Be3 a5 12.Qd2 Nb6 13.Bb3 Rd8 14.Qe2 Nbd7
-15.Bxf7+ Kh8 16.Ng5 Nf8 17.Bb3 Rd7 18.f4 h6 19.fxe5 Qxe5 20.Qc4 Nd5
-21.Nf3 Qe8 22.Bd4 b5 23.axb5 cxb5 24.Nxb5 1-0
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O c6 7. h3 Qc7 8.
+a4 e5 9. dxe5 dxe5 10. Bc4 Nbd7 11. Be3 a5 12. Qd2 Nb6 13. Bb3 Rd8 14. Qe2
+Nbd7 15. Bxf7+ Kh8 16. Ng5 Nf8 17. Bb3 Rd7 18. f4 h6 19. fxe5 Qxe5 20. Qc4
+Nd5 21. Nf3 Qe8 22. Bd4 b5 23. axb5 cxb5 24. Nxb5 1-0
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -64,14 +64,14 @@
 [Black "Kavalek L"]
 [Result "1/2-1/2"]
 
-1.Nf3 g6 2.e4 Bg7 3.d4 d6 4.Be2 Nf6 5.Nc3 O-O 6.O-O c6 7.Bg5 Qc7
-8.Qd2 b5 9.a3 Nbd7 10.Rfe1 a6 11.e5 dxe5 12.dxe5 Nxe5 13.Nxe5 Qxe5
-14.Bxb5 Qc7 15.Bf4 Qb7 16.Bc4 Bf5 17.Na4 Rfd8 18.Qe2 Nd5 19.Bg5 h6
-20.Bh4 g5 21.Bg3 a5 22.h4 e6 23.hxg5 hxg5 24.Rad1 Nf4 25.Bxf4 gxf4
-26.Bd3 Rd5 27.Bxf5 Rxf5 28.Qf3 Qc7 29.Rd3 Rd8 30.Red1 Rdd5 31.Nc3 Rxd3
-32.Rxd3 Rc5 33.Qg4 Qe5 34.Rd8+ Kh7 35.Kf1 Qh5 36.Qxh5+ Rxh5 37.Na4 Rh1+
-38.Ke2 Rc1 39.c3 Rg1 40.Kf3 e5 41.Nc5 f5 42.g3 fxg3 43.fxg3 e4+ 44.Kf4 Rf1+
-45.Kg5 e3 46.Re8 Bh6+ 47.Kf6 Bg7+ 48.Kg5 Bh6+ 1/2-1/2
+1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O c6 7. Bg5 Qc7 8.
+Qd2 b5 9. a3 Nbd7 10. Rfe1 a6 11. e5 dxe5 12. dxe5 Nxe5 13. Nxe5 Qxe5 14.
+Bxb5 Qc7 15. Bf4 Qb7 16. Bc4 Bf5 17. Na4 Rfd8 18. Qe2 Nd5 19. Bg5 h6 20.
+Bh4 g5 21. Bg3 a5 22. h4 e6 23. hxg5 hxg5 24. Rad1 Nf4 25. Bxf4 gxf4 26.
+Bd3 Rd5 27. Bxf5 Rxf5 28. Qf3 Qc7 29. Rd3 Rd8 30. Red1 Rdd5 31. Nc3 Rxd3
+32. Rxd3 Rc5 33. Qg4 Qe5 34. Rd8+ Kh7 35. Kf1 Qh5 36. Qxh5+ Rxh5 37. Na4
+Rh1+ 38. Ke2 Rc1 39. c3 Rg1 40. Kf3 e5 41. Nc5 f5 42. g3 fxg3 43. fxg3 e4+
+44. Kf4 Rf1+ 45. Kg5 e3 46. Re8 Bh6+ 47. Kf6 Bg7+ 48. Kg5 Bh6+ 1/2-1/2
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -81,12 +81,13 @@
 [Black "Stoutenborough R"]
 [Result "1-0"]
 
-1.c4 Nf6 2.Nc3 d5 3.d4 g6 4.Nf3 Bg7 5.Bf4 O-O 6.Rc1 c5 7.dxc5 Be6 8.Nd4 Nc6
-9.Nxe6 fxe6 10.e3 Qa5 11.Be2 e5 12.cxd5 exf4 13.dxc6 bxc6 14.Qa4 Qxa4
-15.Nxa4 fxe3 16.fxe3 Bh6 17.Bf3 Bxe3 18.Rc3 Bd4 19.Rc4 Rad8 20.Ke2 e5
-21.Bxc6 Ng4 22.Bf3 Ne3 23.Rxd4 exd4 24.c6 Rfe8 25.Kd3 Nd5 26.Rc1 Nc7
-27.Rc5 Re3+ 28.Kd2 Kf7 29.Ra5 a6 30.Nb6 Re6 31.Nc4 Kf6 32.Kd3 Re1 33.h3 Rb1
-34.Ra4 Ke6 35.Rb4 Nb5 36.a4 Nd6 37.c7 Rc8 38.Rb6 1-0
+1. c4 Nf6 2. Nc3 d5 3. d4 g6 4. Nf3 Bg7 5. Bf4 O-O 6. Rc1 c5 7. dxc5 Be6 8.
+Nd4 Nc6 9. Nxe6 fxe6 10. e3 Qa5 11. Be2 e5 12. cxd5 exf4 13. dxc6 bxc6 14.
+Qa4 Qxa4 15. Nxa4 fxe3 16. fxe3 Bh6 17. Bf3 Bxe3 18. Rc3 Bd4 19. Rc4 Rad8
+20. Ke2 e5 21. Bxc6 Ng4 22. Bf3 Ne3 23. Rxd4 exd4 24. c6 Rfe8 25. Kd3 Nd5
+26. Rc1 Nc7 27. Rc5 Re3+ 28. Kd2 Kf7 29. Ra5 a6 30. Nb6 Re6 31. Nc4 Kf6 32.
+Kd3 Re1 33. h3 Rb1 34. Ra4 Ke6 35. Rb4 Nb5 36. a4 Nd6 37. c7 Rc8 38. Rb6
+1-0
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -96,8 +97,8 @@
 [Black "Christiansen L"]
 [Result "0-1"]
 
-1.d4 Nf6 2.c4 d6 3.Nc3 Bf5 4.f3 e5 5.e4 exd4 6.Nb5 Bd7 7.Nxd4 Nc6 8.Be3 Qe7
-9.Nge2 d5 10.cxd5 Nxd5 11.exd5 Qxe3 12.Nc2 Bb4+ 0-1
+1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 4. f3 e5 5. e4 exd4 6. Nb5 Bd7 7. Nxd4 Nc6 8.
+Be3 Qe7 9. Nge2 d5 10. cxd5 Nxd5 11. exd5 Qxe3 12. Nc2 Bb4+ 0-1
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -107,11 +108,11 @@
 [Black "Dake A"]
 [Result "0-1"]
 
-1.Nf3 Nf6 2.g3 d5 3.Bg2 c6 4.d3 Bf5 5.O-O h6 6.c4 e6 7.Nc3 Nbd7
-8.Nd4 Bh7 9.e4 Bc5 10.Nc2 dxe4 11.dxe4 Ne5 12.Be3 Qe7 13.Qe2 Nfg4
-14.Bxc5 Qxc5 15.h3 Nf6 16.Ne3 O-O-O 17.a3 Rd3 18.b4 Qd4 19.Na4 Bxe4
-20.Nc2 Rxg3 21.Nxd4 Rxg2+ 22.Kh1 Rxf2+ 23.Qxe4 Nxe4 24.Rxf2 Nxf2+
-25.Kg2 Nfd3 0-1
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. d3 Bf5 5. O-O h6 6. c4 e6 7. Nc3 Nbd7 8.
+Nd4 Bh7 9. e4 Bc5 10. Nc2 dxe4 11. dxe4 Ne5 12. Be3 Qe7 13. Qe2 Nfg4 14.
+Bxc5 Qxc5 15. h3 Nf6 16. Ne3 O-O-O 17. a3 Rd3 18. b4 Qd4 19. Na4 Bxe4 20.
+Nc2 Rxg3 21. Nxd4 Rxg2+ 22. Kh1 Rxf2+ 23. Qxe4 Nxe4 24. Rxf2 Nxf2+ 25. Kg2
+Nfd3 0-1
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -121,11 +122,11 @@
 [Black "Dake A"]
 [Result "1-0"]
 
-1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qb6 5.Nb3 Nf6 6.Nc3 e6 7.Bd3 a6
-8.O-O Be7 9.Be3 Qc7 10.f4 d6 11.Qf3 Bd7 12.Kh1 Nb4 13.a3 Nxd3
-14.cxd3 Bc6 15.Rac1 O-O 16.Nd4 Rac8 17.f5 e5 18.Nxc6 bxc6 19.Nd5 Nxd5
-20.exd5 c5 21.Rc4 Rfe8 22.Qh5 Bf6 23.Rg4 Qd8 24.Bh6 Kh8 25.Bxg7+ Bxg7
-26.f6 Qxf6 27.Rxf6 Bxf6 28.Qh6 1-0
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb3 Nf6 6. Nc3 e6 7. Bd3 a6
+8. O-O Be7 9. Be3 Qc7 10. f4 d6 11. Qf3 Bd7 12. Kh1 Nb4 13. a3 Nxd3 14.
+cxd3 Bc6 15. Rac1 O-O 16. Nd4 Rac8 17. f5 e5 18. Nxc6 bxc6 19. Nd5 Nxd5 20.
+exd5 c5 21. Rc4 Rfe8 22. Qh5 Bf6 23. Rg4 Qd8 24. Bh6 Kh8 25. Bxg7+ Bxg7 26.
+f6 Qxf6 27. Rxf6 Bxf6 28. Qh6 1-0
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -135,16 +136,17 @@
 [Black "Karklins A"]
 [Result "0-1"]
 
-1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c3 Be7 7.Nbd2 O-O 8.Nf1 Re8
-9.Qe2 Bf8 10.h3 Nd7 11.Bc2 a5 12.Ne3 Nc5 13.O-O b5 14.a3 Bd7 15.Bd2 Ne6
-16.g3 Ne7 17.Kh2 a4 18.Nh4 Kh8 19.f4 exf4 20.gxf4 Ng8 21.Nhg2 Nc5 22.f5 Nf6
-23.Nf4 c6 24.Qf3 d5 25.exd5 cxd5 26.Nfxd5 Bc6 27.c4 bxc4 28.dxc4 Nce4
-29.Bb4 Bxb4 30.Nxb4 Ng5 31.Qg3 Qd2+ 32.Rf2 Qxe3 33.Qxe3 Rxe3 34.Nxc6 Nxh3!
-35.Rd2 Nf4 36.Rf1 Ng4+ 37.Kh1 Rh3+ 38.Kg1 Rg3+ 39.Kh1 Re8 40.Be4 Rh3+
-41.Kg1 g5 42.Rd8 Rxd8 43.Nxd8 Rg3+ 44.Kh1 Rh3+ 45.Kg1 Ne2+ 46.Kg2 Rg3+
-47.Kh1 Rh3+ 48.Kg2 Rh2+ 49.Kf3 Ne5+ 50.Ke3 Nxc4+ 51.Kd3 Nxb2+
-52.Ke3 Nc4+ 53.Kd3 Ne5+ 54.Ke3 Nf4 55.Kd4 f6 56.Ne6 Ne2+ 57.Kc5 Ng3
-58.Re1 Rb2 59.Kd6 Rd2+ 60.Ke7 Nh5 61.Nc5 Kg7 62.Nxa4 Rd7+ 63.Ke8 Kg8 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 Be7 7. Nbd2 O-O 8.
+Nf1 Re8 9. Qe2 Bf8 10. h3 Nd7 11. Bc2 a5 12. Ne3 Nc5 13. O-O b5 14. a3 Bd7
+15. Bd2 Ne6 16. g3 Ne7 17. Kh2 a4 18. Nh4 Kh8 19. f4 exf4 20. gxf4 Ng8 21.
+Nhg2 Nc5 22. f5 Nf6 23. Nf4 c6 24. Qf3 d5 25. exd5 cxd5 26. Nfxd5 Bc6 27.
+c4 bxc4 28. dxc4 Nce4 29. Bb4 Bxb4 30. Nxb4 Ng5 31. Qg3 Qd2+ 32. Rf2 Qxe3
+33. Qxe3 Rxe3 34. Nxc6 Nxh3 35. Rd2 Nf4 36. Rf1 Ng4+ 37. Kh1 Rh3+ 38. Kg1
+Rg3+ 39. Kh1 Re8 40. Be4 Rh3+ 41. Kg1 g5 42. Rd8 Rxd8 43. Nxd8 Rg3+ 44. Kh1
+Rh3+ 45. Kg1 Ne2+ 46. Kg2 Rg3+ 47. Kh1 Rh3+ 48. Kg2 Rh2+ 49. Kf3 Ne5+ 50.
+Ke3 Nxc4+ 51. Kd3 Nxb2+ 52. Ke3 Nc4+ 53. Kd3 Ne5+ 54. Ke3 Nf4 55. Kd4 f6
+56. Ne6 Ne2+ 57. Kc5 Ng3 58. Re1 Rb2 59. Kd6 Rd2+ 60. Ke7 Nh5 61. Nc5 Kg7
+62. Nxa4 Rd7+ 63. Ke8 Kg8 0-1
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -154,12 +156,13 @@
 [Black "Grefe J"]
 [Result "1-0"]
 
-1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 d6 6.g3 Nxd4 7.Qxd4 Ne7
-8.Bg5 Nc6 9.Qd2 Qd7 10.O-O-O a6 11.Bf4 Ne5 12.Qd4 Nc6 13.Qb6 Be7 14.Bh3 g5
-15.Be3 Bd8 16.Qb3 Qc7 17.Qa3 Be7 18.Nb5 axb5 19.Qxa8 O-O 20.Qa3 b4
-21.Qb3 Bd7 22.Bf1 Ra8 23.f4 d5 24.exd5 Na5 25.Qd3 b3 26.axb3 Bb4
-27.Kb1 exd5 28.Qxd5 Be6 29.Qxg5+ Kf8 30.Qe5 Nxb3 31.cxb3 Qxe5 32.fxe5 Bxb3
-33.Rd4 Ba2+ 34.Kc1 Rc8+ 35.Kd1 Bc5 36.Rd3 Bb4 37.Bh6+ Ke8 38.Bh3 1-0
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 d6 6. g3 Nxd4 7. Qxd4 Ne7
+8. Bg5 Nc6 9. Qd2 Qd7 10. O-O-O a6 11. Bf4 Ne5 12. Qd4 Nc6 13. Qb6 Be7 14.
+Bh3 g5 15. Be3 Bd8 16. Qb3 Qc7 17. Qa3 Be7 18. Nb5 axb5 19. Qxa8 O-O 20.
+Qa3 b4 21. Qb3 Bd7 22. Bf1 Ra8 23. f4 d5 24. exd5 Na5 25. Qd3 b3 26. axb3
+Bb4 27. Kb1 exd5 28. Qxd5 Be6 29. Qxg5+ Kf8 30. Qe5 Nxb3 31. cxb3 Qxe5 32.
+fxe5 Bxb3 33. Rd4 Ba2+ 34. Kc1 Rc8+ 35. Kd1 Bc5 36. Rd3 Bb4 37. Bh6+ Ke8
+38. Bh3 1-0
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -169,14 +172,14 @@
 [Black "Formanek E"]
 [Result "1-0"]
 
-1.d4 f5 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.c4 d6 7.Nc3 Nc6 8.Qc2
-e5 9.dxe5 Nxe5 10.Rd1 Nf7 11.Nd4 c6 12.b3 Bd7 13.Bb2 Qc7 14.e3 Rad8
-15.Rac1 Rfe8 16.b4 Bc8 17.b5 Ne5 18.bxc6 bxc6 19.Nxc6 Nxc6 20.Nb5 Qb6
-21.Nxd6 Qc5  22.Nxe8 Rxe8 23.Bxf6 Bxf6 24.Qa4 Bb7 25.Rd7 Ba8 26.Rc7
-Qb6 27.Rxc6 Bxc6 28.Bxc6 Rc8 29.Bd5+ Kf8 30.Kg2 Rc7 31.h4 Ke7 32.h5
-gxh5 33.Qc2 Qb2 34.Qxf5 Qxc1 35.Qe6+ Kd8 36.Qxf6+ Kc8 37.Qe6+ Kb8
-38.Qe8+ Rc8 39.Qb5+ Kc7 40.Qb7+ Kd8 41.Be6 Rc7 42.Qb8+ Ke7 43.Qxc7+
-Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Nc6 8.
+Qc2 e5 9. dxe5 Nxe5 10. Rd1 Nf7 11. Nd4 c6 12. b3 Bd7 13. Bb2 Qc7 14. e3
+Rad8 15. Rac1 Rfe8 16. b4 Bc8 17. b5 Ne5 18. bxc6 bxc6 19. Nxc6 Nxc6 20.
+Nb5 Qb6 21. Nxd6 Qc5 22. Nxe8 Rxe8 23. Bxf6 Bxf6 24. Qa4 Bb7 25. Rd7 Ba8
+26. Rc7 Qb6 27. Rxc6 Bxc6 28. Bxc6 Rc8 29. Bd5+ Kf8 30. Kg2 Rc7 31. h4 Ke7
+32. h5 gxh5 33. Qc2 Qb2 34. Qxf5 Qxc1 35. Qe6+ Kd8 36. Qxf6+ Kc8 37. Qe6+
+Kb8 38. Qe8+ Rc8 39. Qb5+ Kc7 40. Qb7+ Kd8 41. Be6 Rc7 42. Qb8+ Ke7 43.
+Qxc7+ Kxe6 44. Qxh7 Qa3 45. Qe4+ Kd6 46. Qd5+ 1-0
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -186,11 +189,11 @@ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
 [Black "Kaplan J"]
 [Result "1/2-1/2"]
 
-1.Nf3 g6 2.e4 Bg7 3.d4 d6 4.Nc3 c6 5.Be2 b5 6.e5 b4 7.Ne4 d5 8.Nc5 Nd7
-9.Nxd7 Bxd7 10.Bd2 Rb8 11.O-O e6 12.a3 a5 13.axb4 axb4 14.Ra7 Ne7 15.Bg5 h6
-16.Bxe7 Qxe7 17.Qd2 O-O 18.Rfa1 Rfc8 19.Ba6 Rd8 20.Bd3 c5 21.dxc5 Qxc5
-22.h4 Qf8 23.Rc7 Rbc8 24.Rb7 Bc6 25.Rxb4 d4 26.Nxd4 Bxe5 27.Nxc6 Rxc6
-28.Rb7 Rc7 29.Rxc7 Bxc7 30.Ra6 Qg7 31.Qc3 1/2-1/2
+1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. Nc3 c6 5. Be2 b5 6. e5 b4 7. Ne4 d5 8. Nc5
+Nd7 9. Nxd7 Bxd7 10. Bd2 Rb8 11. O-O e6 12. a3 a5 13. axb4 axb4 14. Ra7 Ne7
+15. Bg5 h6 16. Bxe7 Qxe7 17. Qd2 O-O 18. Rfa1 Rfc8 19. Ba6 Rd8 20. Bd3 c5
+21. dxc5 Qxc5 22. h4 Qf8 23. Rc7 Rbc8 24. Rb7 Bc6 25. Rxb4 d4 26. Nxd4 Bxe5
+27. Nxc6 Rxc6 28. Rb7 Rc7 29. Rxc7 Bxc7 30. Ra6 Qg7 31. Qc3 1/2-1/2
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -200,12 +203,12 @@ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
 [Black "Lengyel L"]
 [Result "1-0"]
 
-1.Nf3 g6 2.e4 Bg7 3.d4 d6 4.Be2 Nf6 5.Nc3 O-O 6.O-O c6 7.Bg5 Qc7
-8.Re1 e5 9.Qd2 Bg4 10.Rad1 Nbd7 11.h3 Bxf3 12.Bxf3 Rfe8 13.d5 cxd5
-14.Nxd5 Nxd5 15.Qxd5 Qxc2 16.Qxd6 Nf8 17.Qa3 Qc4 18.Be2 Qe6 19.Rd6 Qc8
-20.Bb5 Ne6 21.Bd7 Qb8 22.Bxe8 Qxe8 23.Qg3 Qb5 24.Rd2 h6 25.Be3 Qa4
-26.Qf3 Qxa2 27.Rd7 Nd4 28.Bxd4 exd4 29.Rxb7 Qe6 30.Rc1 Be5 31.Rc6 Qa2
-32.g3 Qb1+ 33.Kg2 Rf8 34.Rc8 1-0
+1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O c6 7. Bg5 Qc7 8.
+Re1 e5 9. Qd2 Bg4 10. Rad1 Nbd7 11. h3 Bxf3 12. Bxf3 Rfe8 13. d5 cxd5 14.
+Nxd5 Nxd5 15. Qxd5 Qxc2 16. Qxd6 Nf8 17. Qa3 Qc4 18. Be2 Qe6 19. Rd6 Qc8
+20. Bb5 Ne6 21. Bd7 Qb8 22. Bxe8 Qxe8 23. Qg3 Qb5 24. Rd2 h6 25. Be3 Qa4
+26. Qf3 Qxa2 27. Rd7 Nd4 28. Bxd4 exd4 29. Rxb7 Qe6 30. Rc1 Be5 31. Rc6 Qa2
+32. g3 Qb1+ 33. Kg2 Rf8 34. Rc8 1-0
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -215,14 +218,14 @@ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
 [Black "Browne W"]
 [Result "0-1"]
 
-1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nge2 O-O 6.f3 c5 7.Be3 b6 8.d5 Nbd7
-9.Qd2 Ne5 10.b3 a6 11.Ng3 b5 12.cxb5 Qa5 13.Rc1 axb5 14.Bxb5 Ba6
-15.Be2 Rfb8 16.O-O c4 17.bxc4 Nxc4 18.Bxc4 Bxc4 19.Rf2 Nd7 20.Bd4 Ne5
-21.Bxe5 Bxe5 22.f4 Bxc3 23.Qxc3 Qxc3 24.Rxc3 Rb1+ 25.Nf1 Ra4 26.g3 f5
-27.Re3 fxe4 28.Kg2 Bxd5 29.Kh3 Bxa2 30.Rc3 Be6+ 31.Kh4 Ra2 32.Rxa2 Bxa2
-33.Ne3 Be6 34.Rc7 Kf7 35.g4 Rb3 36.Nc2 Bd5 37.Nd4 Rb4 38.Ne2 Rc4 39.Ra7 Rc2
-40.Nd4 Rxh2+ 41.Kg3 Rd2 42.Nb5 Rd3+ 43.Kh4 Bc6 44.Na3 d5 45.Rc7 Rxa3
-46.Rxc6 e6 0-1
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 O-O 6. f3 c5 7. Be3 b6 8. d5
+Nbd7 9. Qd2 Ne5 10. b3 a6 11. Ng3 b5 12. cxb5 Qa5 13. Rc1 axb5 14. Bxb5 Ba6
+15. Be2 Rfb8 16. O-O c4 17. bxc4 Nxc4 18. Bxc4 Bxc4 19. Rf2 Nd7 20. Bd4 Ne5
+21. Bxe5 Bxe5 22. f4 Bxc3 23. Qxc3 Qxc3 24. Rxc3 Rb1+ 25. Nf1 Ra4 26. g3 f5
+27. Re3 fxe4 28. Kg2 Bxd5 29. Kh3 Bxa2 30. Rc3 Be6+ 31. Kh4 Ra2 32. Rxa2
+Bxa2 33. Ne3 Be6 34. Rc7 Kf7 35. g4 Rb3 36. Nc2 Bd5 37. Nd4 Rb4 38. Ne2 Rc4
+39. Ra7 Rc2 40. Nd4 Rxh2+ 41. Kg3 Rd2 42. Nb5 Rd3+ 43. Kh4 Bc6 44. Na3 d5
+45. Rc7 Rxa3 46. Rxc6 e6 0-1
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -232,11 +235,11 @@ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
 [Black "Dobric"]
 [Result "0-1"]
 
-1.e4 e5 2.Nc3 Nc6 3.Bc4 Nf6 4.d3 Bc5 5.f4 d6 6.Nf3 Ng4 7.Qe2 Bf2+ 8.Kf1 Bb6
-9.Nd5 O-O 10.Nxb6 axb6 11.f5 Na5 12.Bg5 Nf6 13.g4 c6 14.a3 Nxc4 15.dxc4 h6
-16.Bxf6 Qxf6 17.Rd1 b5 18.cxb5 d5 19.Kf2 Ra4 20.b4 Rxa3 21.exd5 Re8
-22.bxc6 bxc6 23.d6 e4 24.Nd4 Qxd6 25.Kg2 Qxb4 26.Rhe1 c5 27.Nb3 e3
-28.Kg3 Bb7 29.f6 Qe4 0-1
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. f4 d6 6. Nf3 Ng4 7. Qe2 Bf2+ 8.
+Kf1 Bb6 9. Nd5 O-O 10. Nxb6 axb6 11. f5 Na5 12. Bg5 Nf6 13. g4 c6 14. a3
+Nxc4 15. dxc4 h6 16. Bxf6 Qxf6 17. Rd1 b5 18. cxb5 d5 19. Kf2 Ra4 20. b4
+Rxa3 21. exd5 Re8 22. bxc6 bxc6 23. d6 e4 24. Nd4 Qxd6 25. Kg2 Qxb4 26.
+Rhe1 c5 27. Nb3 e3 28. Kg3 Bb7 29. f6 Qe4 0-1
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -246,10 +249,10 @@ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
 [Black "Strauss D"]
 [Result "1-0"]
 
-1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Qb6 8.Qd2 cxd4
-9.Nxd4 Qxb2 10.Rb1 Qa3 11.Bb5 Na5 12.O-O Bb4 13.Rxb4 Qxb4 14.f5 O-O
-15.Rf4 Nc4 16.Bxc4 dxc4 17.Rg4 g6 18.f6 Nxe5 19.Rh4 Nd7 20.Nb3 Nxf6
-21.Bc5 Qxc5+ 22.Nxc5 e5 23.Qg5 1-0
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Qb6 8.
+Qd2 cxd4 9. Nxd4 Qxb2 10. Rb1 Qa3 11. Bb5 Na5 12. O-O Bb4 13. Rxb4 Qxb4 14.
+f5 O-O 15. Rf4 Nc4 16. Bxc4 dxc4 17. Rg4 g6 18. f6 Nxe5 19. Rh4 Nd7 20. Nb3
+Nxf6 21. Bc5 Qxc5+ 22. Nxc5 e5 23. Qg5 1-0
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -259,9 +262,9 @@ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
 [Black "Karklins A"]
 [Result "0-1"]
 
-1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.O-O Qd6 6.c3 Bg4 7.d4 exd4
-8.cxd4 O-O-O 9.Be3 f5 10.e5 Qg6 11.Nc3 Ne7 12.Qe2 h6 13.Na4 f4 14.Bc1 Rxd4
-15.b3 Rd3 16.Kh1 Nf5 17.Bxf4 Rxf3 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qd6 6. c3 Bg4 7. d4 exd4
+8. cxd4 O-O-O 9. Be3 f5 10. e5 Qg6 11. Nc3 Ne7 12. Qe2 h6 13. Na4 f4 14.
+Bc1 Rxd4 15. b3 Rd3 16. Kh1 Nf5 17. Bxf4 Rxf3 0-1
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -271,9 +274,10 @@ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
 [Black "Burstow"]
 [Result "1-0"]
 
-1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Be3 Nf6 7.Nxc6 bxc6
-8.e5 Ng8 9.f4 f6 10.Bc4 fxe5 11.fxe5 Qa5 12.O-O Qxe5 13.Bf7+ Kd8 14.Qd2 Nf6
-15.Rae1 Qh5 16.Rxf6 exf6 17.Nd5 cxd5 18.Qa5+ Ke7 19.Bg5+ 1-0
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Nxc6
+bxc6 8. e5 Ng8 9. f4 f6 10. Bc4 fxe5 11. fxe5 Qa5 12. O-O Qxe5 13. Bf7+ Kd8
+14. Qd2 Nf6 15. Rae1 Qh5 16. Rxf6 exf6 17. Nd5 cxd5 18. Qa5+ Ke7 19. Bg5+
+1-0
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -283,13 +287,12 @@ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
 [Black "Dake A"]
 [Result "0-1"]
 
-1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qb3 c5 5.dxc5 Nc6 6.Nf3 Ne4 7.Bd2 Nxd2
-8.Nxd2 O-O 9.g3 f5 10.Bg2 Bxc5 11.O-O b6 12.Qd1 a6 13.Nb3 Be7
-14.Qd2 Ra7 15.e4 Ne5 16.exf5 Rxf5 17.Qe2 Qc7 18.Nd4 Rf7 19.Ndb5 axb5
-20.Nxb5 Qxc4 21.Qxc4 Nxc4 22.Nxa7 Ba6 23.b3 Ne5 24.Rfe1 Nd3 25.Re4 Bc5
-26.Ra4 Rxf2 27.b4 Nxb4 28.h4 b5 29.Nxb5 Bxb5 30.Ra5 Rf1+ 31.Kh2 Rxa1
-32.Rxb5 d6 0-1
-
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Nc6 6. Nf3 Ne4 7. Bd2 Nxd2
+8. Nxd2 O-O 9. g3 f5 10. Bg2 Bxc5 11. O-O b6 12. Qd1 a6 13. Nb3 Be7 14. Qd2
+Ra7 15. e4 Ne5 16. exf5 Rxf5 17. Qe2 Qc7 18. Nd4 Rf7 19. Ndb5 axb5 20. Nxb5
+Qxc4 21. Qxc4 Nxc4 22. Nxa7 Ba6 23. b3 Ne5 24. Rfe1 Nd3 25. Re4 Bc5 26. Ra4
+Rxf2 27. b4 Nxb4 28. h4 b5 29. Nxb5 Bxb5 30. Ra5 Rf1+ 31. Kh2 Rxa1 32. Rxb5
+d6 0-1
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -299,14 +302,14 @@ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
 [Black "Dake A"]
 [Result "0-1"]
 
-1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6
-8.c3 O-O 9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 Re8 13.a4 Bf8 14.b4 c5
-15.bxc5 dxc5 16.dxe5 Nxe5 17.Nxe5 Rxe5 18.c4 bxc4 19.Nxc4 Re6 20.e5 Qd5
-21.Qxd5 Nxd5 22.Na5 Nb4 23.Bf5 Bd5 24.Bxe6 fxe6 25.Rb1 Ba2 26.Rb2 Nd3
-27.Rxa2 Nxe1 28.Nc4 Nd3 29.Bd2 Rb8 30.Kf1 Rb1+ 31.Ke2 Nb4 32.Ra3 Nc2
-33.Rc3 Nd4+ 34.Kd3 Nc6 35.Be3 Ra1 36.f4 Rxa4 37.Nd6 Nb4+ 38.Ke2 Nd5
-39.Rxc5 Ra2+ 40.Bd2 Nxf4+ 41.Kd1 Nd3 42.Rc8 Nxe5 43.Bg5 h6 44.Be7 Ng6
-45.Bxf8 Nxf8 46.Nc4 Rxg2 47.Ne5 Rg5 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. b4 c5
+15. bxc5 dxc5 16. dxe5 Nxe5 17. Nxe5 Rxe5 18. c4 bxc4 19. Nxc4 Re6 20. e5
+Qd5 21. Qxd5 Nxd5 22. Na5 Nb4 23. Bf5 Bd5 24. Bxe6 fxe6 25. Rb1 Ba2 26. Rb2
+Nd3 27. Rxa2 Nxe1 28. Nc4 Nd3 29. Bd2 Rb8 30. Kf1 Rb1+ 31. Ke2 Nb4 32. Ra3
+Nc2 33. Rc3 Nd4+ 34. Kd3 Nc6 35. Be3 Ra1 36. f4 Rxa4 37. Nd6 Nb4+ 38. Ke2
+Nd5 39. Rxc5 Ra2+ 40. Bd2 Nxf4+ 41. Kd1 Nd3 42. Rc8 Nxe5 43. Bg5 h6 44. Be7
+Ng6 45. Bxf8 Nxf8 46. Nc4 Rxg2 47. Ne5 Rg5 0-1
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -316,11 +319,11 @@ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
 [Black "Jacobs John"]
 [Result "1-0"]
 
-1.Nf3 Nf6 2.g3 d5 3.c4 e6 4.Bg2 Be7 5.b3 c5 6.cxd5 exd5 7.d4 Nc6 8.O-O O-O
-9.Bb2 Ne4 10.dxc5 Bxc5 11.Nc3 Nxc3 12.Bxc3 d4 13.Bb2 Bg4 14.Rc1 Bb6
-15.h3 Be6 16.Qd2 Qd7 17.Kh2 Rfe8 18.Rfd1 Rad8 19.Ba3 Bd5 20.Qb2 Qf5
-21.Kg1 Bxf3 22.Bxf3 d3 23.Kg2 Rxe2 24.Bxe2 Qxf2+ 25.Kh1 dxe2 26.Rxd8+ Nxd8
-27.Qe5 Qf1+ 1-0
+1. Nf3 Nf6 2. g3 d5 3. c4 e6 4. Bg2 Be7 5. b3 c5 6. cxd5 exd5 7. d4 Nc6 8.
+O-O O-O 9. Bb2 Ne4 10. dxc5 Bxc5 11. Nc3 Nxc3 12. Bxc3 d4 13. Bb2 Bg4 14.
+Rc1 Bb6 15. h3 Be6 16. Qd2 Qd7 17. Kh2 Rfe8 18. Rfd1 Rad8 19. Ba3 Bd5 20.
+Qb2 Qf5 21. Kg1 Bxf3 22. Bxf3 d3 23. Kg2 Rxe2 24. Bxe2 Qxf2+ 25. Kh1 dxe2
+26. Rxd8+ Nxd8 27. Qe5 Qf1+ 1-0
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -330,12 +333,12 @@ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
 [Black "Browne W"]
 [Result "0-1"]
 
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Qe2 b5 8.f4 e5
-9.Nd5 Bb7 10.fxe5 dxe5 11.Nf3 Qa5+ 12.Bd2 b4 13.c4 Bc5 14.g3 O-O
-15.Bh3 Bxd5 16.cxd5 Rac8 17.Bf1 Bb6 18.a3 Rc2 19.Qxa6 Qc5 20.Qe2 b3
-21.Bh3 Nxe4 22.Qxe4 Nf6 23.Qe3 Qxe3+ 24.Bxe3 Bxe3 25.d6 Bf2+ 26.Kf1 Nd5
-27.Re1 Bxe1 28.Nxe1 Ne3+ 29.Kg1 Rd8 30.d7 f5 31.Bxf5 Nxf5 32.Nxc2 bxc2
-33.Kf2 Rxd7 34.Rc1 Nd4 35.Ke3 Rc7 36.Kd3 Nb3 0-1
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Qe2 b5
+8. f4 e5 9. Nd5 Bb7 10. fxe5 dxe5 11. Nf3 Qa5+ 12. Bd2 b4 13. c4 Bc5 14. g3
+O-O 15. Bh3 Bxd5 16. cxd5 Rac8 17. Bf1 Bb6 18. a3 Rc2 19. Qxa6 Qc5 20. Qe2
+b3 21. Bh3 Nxe4 22. Qxe4 Nf6 23. Qe3 Qxe3+ 24. Bxe3 Bxe3 25. d6 Bf2+ 26.
+Kf1 Nd5 27. Re1 Bxe1 28. Nxe1 Ne3+ 29. Kg1 Rd8 30. d7 f5 31. Bxf5 Nxf5 32.
+Nxc2 bxc2 33. Kf2 Rxd7 34. Rc1 Nd4 35. Ke3 Rc7 36. Kd3 Nb3 0-1
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -345,15 +348,15 @@ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
 [Black "Rodriguez Ruben"]
 [Result "0-1"]
 
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6
-8.O-O-O Bd7 9.f4 Be7 10.Nf3 b5 11.Bxf6 gxf6 12.Kb1 Rc8 13.f5 Qb6 14.Bd3 h5
-15.fxe6 fxe6 16.Ne2 Bf8 17.Nf4 Rh6 18.e5 fxe5 19.Ng6 Bg7 20.Be4 Nd4
-21.Nxd4 exd4 22.Rhf1 Rc7 23.Qg5 Bc6 24.Rde1 Bxe4 25.Rxe4 e5 26.Qf5 Qc6
-27.Re2 Qc4 28.Ref2 d3 29.cxd3 Qg4 30.Nf8 Qxf5 31.Rxf5 d5 32.h3 e4
-33.Rxd5 Bxf8 34.dxe4 Rg6 35.Rf2 h4 36.Rh5 Be7 37.Rh7 Re6 38.Rf4 Rc4
-39.g3 hxg3 40.Rg7 Bd6 41.Rh4 Rf6 42.Rh8+ Rf8 43.Rxf8+ Kxf8 44.Rg6 Ke7
-45.Rg4 Be5 46.h4 Rc6 47.a4 b4 48.Rg5 Kd6 49.h5 b3 50.h6 Rc1+
-51.Kxc1 Bf4+ 52.Kd1 Bxg5 0-1
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. Kb1 Rc8 13. f5 Qb6 14. Bd3
+h5 15. fxe6 fxe6 16. Ne2 Bf8 17. Nf4 Rh6 18. e5 fxe5 19. Ng6 Bg7 20. Be4
+Nd4 21. Nxd4 exd4 22. Rhf1 Rc7 23. Qg5 Bc6 24. Rde1 Bxe4 25. Rxe4 e5 26.
+Qf5 Qc6 27. Re2 Qc4 28. Ref2 d3 29. cxd3 Qg4 30. Nf8 Qxf5 31. Rxf5 d5 32.
+h3 e4 33. Rxd5 Bxf8 34. dxe4 Rg6 35. Rf2 h4 36. Rh5 Be7 37. Rh7 Re6 38. Rf4
+Rc4 39. g3 hxg3 40. Rg7 Bd6 41. Rh4 Rf6 42. Rh8+ Rf8 43. Rxf8+ Kxf8 44. Rg6
+Ke7 45. Rg4 Be5 46. h4 Rc6 47. a4 b4 48. Rg5 Kd6 49. h5 b3 50. h6 Rc1+ 51.
+Kxc1 Bf4+ 52. Kd1 Bxg5 0-1
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -363,11 +366,12 @@ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
 [Black "Browne W"]
 [Result "0-1"]
 
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.f4 b5 8.Qd3 Bb7
-9.O-O-O e6 10.a3 Rc8 11.f5 e5 12.Nde2 Qc7 13.Rd2 Be7 14.h4 O-O 15.g4 b4
-16.axb4 d5 17.exd5 Bxb4 18.Kb1 e4 19.Qh3 Qa5 20.Rd4 Bxc3 21.Nxc3 Nxd5
-22.Nxd5 Bxd5 23.c4 Bc6 24.Bg2 Rb8 25.Bf4 Rb7 26.Rc1 Nc5 27.Rc3 Ba4
-28.Bd6 Qb6 29.Rd2 Nb3 30.Rxb3 Bxb3 31.Bxf8 Qa5 32.Re2 Qa2+ 33.Kc1 Rd7 0-1
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. f4 b5 8.
+Qd3 Bb7 9. O-O-O e6 10. a3 Rc8 11. f5 e5 12. Nde2 Qc7 13. Rd2 Be7 14. h4
+O-O 15. g4 b4 16. axb4 d5 17. exd5 Bxb4 18. Kb1 e4 19. Qh3 Qa5 20. Rd4 Bxc3
+21. Nxc3 Nxd5 22. Nxd5 Bxd5 23. c4 Bc6 24. Bg2 Rb8 25. Bf4 Rb7 26. Rc1 Nc5
+27. Rc3 Ba4 28. Bd6 Qb6 29. Rd2 Nb3 30. Rxb3 Bxb3 31. Bxf8 Qa5 32. Re2 Qa2+
+33. Kc1 Rd7 0-1
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -377,14 +381,14 @@ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
 [Black "Formanek E"]
 [Result "1-0"]
 
-1.Nf3 f5 2.d4 Nf6 3.g3 g6 4.Bg2 Bg7 5.O-O O-O 6.c4 d6 7.Nc3 Nc6 8.Qc2 e5
-9.dxe5 Nxe5 10.Rd1 Nf7 11.Nd4 c6 12.b3 Bd7 13.Bb2 Qc7 14.e3 Rad8
-15.Rac1 Rfe8 16.b4 Bc8 17.b5 Ne5 18.bxc6 bxc6 19.Nxc6 Nxc6 20.Nb5 Qb6
-21.Nxd6 Qc5 22.Nxe8 Rxe8 23.Bxf6 Bxf6 24.Qa4 Bb7 25.Rd7 Ba8 26.Rc7 Qb6
-27.Rxc6 Bxc6 28.Bxc6 Rc8 29.Bd5+ Kf8 30.Kg2 Rc7 31.h4 Ke7 32.h5 gxh5
-33.Qc2 Qb2 34.Qxf5 Qxc1 35.Qe6+ Kd8 36.Qxf6+ Kc8 37.Qe6+ Kb8
-38.Qe8+ Rc8 39.Qb5+ Kc7 40.Qb7+ Kd8 41.Be6 Rc7 42.Qb8+ Ke7
-43.Qxc7+ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
+1. Nf3 f5 2. d4 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Nc6 8.
+Qc2 e5 9. dxe5 Nxe5 10. Rd1 Nf7 11. Nd4 c6 12. b3 Bd7 13. Bb2 Qc7 14. e3
+Rad8 15. Rac1 Rfe8 16. b4 Bc8 17. b5 Ne5 18. bxc6 bxc6 19. Nxc6 Nxc6 20.
+Nb5 Qb6 21. Nxd6 Qc5 22. Nxe8 Rxe8 23. Bxf6 Bxf6 24. Qa4 Bb7 25. Rd7 Ba8
+26. Rc7 Qb6 27. Rxc6 Bxc6 28. Bxc6 Rc8 29. Bd5+ Kf8 30. Kg2 Rc7 31. h4 Ke7
+32. h5 gxh5 33. Qc2 Qb2 34. Qxf5 Qxc1 35. Qe6+ Kd8 36. Qxf6+ Kc8 37. Qe6+
+Kb8 38. Qe8+ Rc8 39. Qb5+ Kc7 40. Qb7+ Kd8 41. Be6 Rc7 42. Qb8+ Ke7 43.
+Qxc7+ Kxe6 44. Qxh7 Qa3 45. Qe4+ Kd6 46. Qd5+ 1-0
 
 [Event "Lone Pine"]
 [Site "?"]
@@ -394,7 +398,9 @@ Kxe6 44.Qxh7 Qa3 45.Qe4+ Kd6 46.Qd5+ 1-0
 [Black "Taylor Tim"]
 [Result "1-0"]
 
-1.Nf3 f5 2.g3 Nf6 3.Bg2 d6 4.d4 g6 5.O-O Bg7 6.Nc3 O-O 7.Re1 Na6 8.e4 fxe4
-9.Nxe4 Nxe4 10.Rxe4 c5 11.Ng5 d5 12.Rh4 h6 13.Nh3 g5 14.Bxg5 hxg5
-15.Nxg5 Bf5 16.Qh5 Qd6 17.Re1 Nc7 18.dxc5 Qxc5 19.Rf4 Qxc2 20.Be4 Qd2
-21.Bxf5 Qxe1+ 22.Kg2 Rf6 23.Bh7+ Kh8 24.Rxf6 Bxf6 25.Nf7+ Kg7 26.Qg6+ 1-0
+1. Nf3 f5 2. g3 Nf6 3. Bg2 d6 4. d4 g6 5. O-O Bg7 6. Nc3 O-O 7. Re1 Na6 8.
+e4 fxe4 9. Nxe4 Nxe4 10. Rxe4 c5 11. Ng5 d5 12. Rh4 h6 13. Nh3 g5 14. Bxg5
+hxg5 15. Nxg5 Bf5 16. Qh5 Qd6 17. Re1 Nc7 18. dxc5 Qxc5 19. Rf4 Qxc2 20.
+Be4 Qd2 21. Bxf5 Qxe1+ 22. Kg2 Rf6 23. Bh7+ Kh8 24. Rxf6 Bxf6 25. Nf7+ Kg7
+26. Qg6+ 1-0
+

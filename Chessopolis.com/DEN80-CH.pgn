@@ -1,4 +1,3 @@
-
 [Event "?"]
 [Site "DEN-ch, Odense"]
 [Date "1980.??.??"]
@@ -8,11 +7,10 @@
 [Result "1/2-1/2"]
 [ECO "B12"]
 
-1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 h6 7. h4 a6 8.
-Be3 c5 9. f4 Ne7 10. dxc5 Nbc6 11. a3 h5 12. Bh3 hxg4 13. Bxg4 Bf5 14.
-Bxf5 Nxf5 15. Bf2 d4 16. Ne4 Bxc5 17. Qd3 Qa5+ 18. Kf1 O-O-O 19. Rb1
-Be7 20. b4 Qb5 21. Ng1 Qd5 22. Nf3 b5 23. Ke2 f6 24. exf6 gxf6 25. Rhg1
-Rhg8 1/2-1/2
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 h6 7. h4 a6 8. Be3
+c5 9. f4 Ne7 10. dxc5 Nbc6 11. a3 h5 12. Bh3 hxg4 13. Bxg4 Bf5 14. Bxf5
+Nxf5 15. Bf2 d4 16. Ne4 Bxc5 17. Qd3 Qa5+ 18. Kf1 O-O-O 19. Rb1 Be7 20. b4
+Qb5 21. Ng1 Qd5 22. Nf3 b5 23. Ke2 f6 24. exf6 gxf6 25. Rhg1 Rhg8 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -23,9 +21,8 @@ Rhg8 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "A40"]
 
-1. d4 e6 2. c4 b6 3. Nc3 Bb7 4. Qc2 Bb4 5. Nf3 c5 6. a3 Ba5 7. Be3 Qe7
-8. Rd1 Nf6 9. Bd2 O-O 10. dxc5 bxc5 11. e3 Nc6 12. Bd3 d6 13. O-O
-1/2-1/2
+1. d4 e6 2. c4 b6 3. Nc3 Bb7 4. Qc2 Bb4 5. Nf3 c5 6. a3 Ba5 7. Be3 Qe7 8.
+Rd1 Nf6 9. Bd2 O-O 10. dxc5 bxc5 11. e3 Nc6 12. Bd3 d6 13. O-O 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -36,8 +33,8 @@ Rhg8 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "B20"]
 
-1. g3 c5 2. Bg2 Nc6 3. e4 g6 4. d3 Bg7 5. f4 d6 6. Nf3 f5 7. O-O Nf6
-8. Nc3 O-O 9. Kh1 Kh8 10. Be3 Be6 11. Bg1 Qd7 12. Re1 Rae8 1/2-1/2
+1. g3 c5 2. Bg2 Nc6 3. e4 g6 4. d3 Bg7 5. f4 d6 6. Nf3 f5 7. O-O Nf6 8. Nc3
+O-O 9. Kh1 Kh8 10. Be3 Be6 11. Bg1 Qd7 12. Re1 Rae8 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -48,12 +45,11 @@ Rhg8 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "A91"]
 
-1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nc3 O-O 6. Nh3 d6 7. O-O c6
-8. b3 e5 9. Bb2 Qe8 10. e3 Ng4 11. Re1 Na6 12. f3 Nh6 13. Nf2 Qg6 14.
-Ne2 Bf6 15. Nd3 Nf7 16. c5 e4 17. Nef4 Qh6 18. fxe4 fxe4 19. Bxe4 dxc5
-20. Bg2 Re8 21. Rc1 cxd4 22. exd4 Bf5 23. Ne5 Nxe5 24. dxe5 Bg5 25. Rc4
-Rad8 26. Qe2 Nc7 27. h4 Bxf4 28. Rxf4 Bd3 29. Qe3 Ne6 30. Rf2 Qxe3 31.
-Rxe3 1/2-1/2
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nc3 O-O 6. Nh3 d6 7. O-O c6 8. b3
+e5 9. Bb2 Qe8 10. e3 Ng4 11. Re1 Na6 12. f3 Nh6 13. Nf2 Qg6 14. Ne2 Bf6 15.
+Nd3 Nf7 16. c5 e4 17. Nef4 Qh6 18. fxe4 fxe4 19. Bxe4 dxc5 20. Bg2 Re8 21.
+Rc1 cxd4 22. exd4 Bf5 23. Ne5 Nxe5 24. dxe5 Bg5 25. Rc4 Rad8 26. Qe2 Nc7
+27. h4 Bxf4 28. Rxf4 Bd3 29. Qe3 Ne6 30. Rf2 Qxe3 31. Rxe3 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -64,10 +60,10 @@ Rxe3 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "A33"]
 
-1. c4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 e6 6. g3 Bc5 7. Nb3
-Bb4 8. Bg2 d5 9. O-O dxc4 10. Nd2 O-O 11. Nxc4 Qe7 12. Be3 Rd8 13. Qc2
-Bd7 14. Rad1 Be8 15. Ne4 Nxe4 16. Bxe4 h6 17. a3 Bc5 18. Bxc5 Qxc5 19.
-b4 Qe7 20. e3 Rac8 21. Qb3 b5 22. Nb2 Ne5 23. Rxd8 Qxd8 24. Rd1 1/2-1/2
+1. c4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 e6 6. g3 Bc5 7. Nb3 Bb4
+8. Bg2 d5 9. O-O dxc4 10. Nd2 O-O 11. Nxc4 Qe7 12. Be3 Rd8 13. Qc2 Bd7 14.
+Rad1 Be8 15. Ne4 Nxe4 16. Bxe4 h6 17. a3 Bc5 18. Bxc5 Qxc5 19. b4 Qe7 20.
+e3 Rac8 21. Qb3 b5 22. Nb2 Ne5 23. Rxd8 Qxd8 24. Rd1 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -78,10 +74,10 @@ b4 Qe7 20. e3 Rac8 21. Qb3 b5 22. Nb2 Ne5 23. Rxd8 Qxd8 24. Rd1 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "B06"]
 
-1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 b5 6. f3 Nd7 7. Nge2 Ngf6
-8. g4 Nb6 9. b3 h5 10. g5 Nfd7 11. a4 bxa4 12. Nxa4 O-O 13. Nxb6 Nxb6
-14. Bg2 e5 15. O-O Qe7 16. dxe5 dxe5 17. Rfd1 Be6 18. Nc1 h4 19. Qf2 h3
-20. Bf1 a5 21. Nd3 a4 22. Nc5 axb3 1/2-1/2
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 b5 6. f3 Nd7 7. Nge2 Ngf6 8.
+g4 Nb6 9. b3 h5 10. g5 Nfd7 11. a4 bxa4 12. Nxa4 O-O 13. Nxb6 Nxb6 14. Bg2
+e5 15. O-O Qe7 16. dxe5 dxe5 17. Rfd1 Be6 18. Nc1 h4 19. Qf2 h3 20. Bf1 a5
+21. Nd3 a4 22. Nc5 axb3 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -92,19 +88,18 @@ b4 Qe7 20. e3 Rac8 21. Qb3 b5 22. Nb2 Ne5 23. Rxd8 Qxd8 24. Rd1 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "D85"]
 
-1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3
-c5 8. Be3 Nc6 9. Rc1 cxd4 10. cxd4 Bg4 11. d5 Ne5 12. Be2 Nxf3+ 13.
-gxf3 Bd7 14. Qb3 b5 15. O-O O-O 16. f4 Qa5 17. e5 Rac8 18. a3 a6 19.
-Qb4 Qxb4 20. axb4 g5 21. Kg2 gxf4 22. Bxf4 Bf5 23. Rxc8 Rxc8 24. Ra1
-Be4+ 25. Bf3 Rc4 26. Bxe4 Rxe4 27. Kf3 Rd4 28. Rxa6 h5 29. Ra8+ Kh7
-30. d6 exd6 31. exd6 Bf6 32. h3 Kg6 33. Rb8 Rxb4 34. d7 Rd4 35. Be5
-Bxe5 36. d8=Q Rxd8 37. Rxd8 b4 38. Ke4 Bc3 39. Rg8+ Kh7 40. Rg5 Kh6
-41. Rb5 Be1 42. f4 Kg6 43. Rb6+ f6 44. Rb8 Bc3 45. Rg8+ Kf7 46. Rg3 Ke6
-47. Re3 f5+ 48. Kd3+ Kf6 49. Re2 h4 50. Kc4 Kf7 51. Ra2 Kf6 52. Ra6+
-Kf7 53. Kd3 Be1 54. Rb6 Bc3 55. Kc2 Ke7 56. Kd3 Kf7 57. Ke2 Ke7 58. Kd1
-Kf7 59. Kc2 Ke7 60. Rh6 Be1 61. Kb3 Bg3 62. Kxb4 Kf7 63. Kc4 Kg7 64.
-Rh5 Kg6 65. Rg5+ Kf6 66. Rg8 Bxf4 67. Kd5 Kf7 68. Ra8 Bg3 69. Ra6 f4
-1/2-1/2
+1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. Nc3 d5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Be3 Nc6 9. Rc1 cxd4 10. cxd4 Bg4 11. d5 Ne5 12. Be2 Nxf3+ 13. gxf3 Bd7
+14. Qb3 b5 15. O-O O-O 16. f4 Qa5 17. e5 Rac8 18. a3 a6 19. Qb4 Qxb4 20.
+axb4 g5 21. Kg2 gxf4 22. Bxf4 Bf5 23. Rxc8 Rxc8 24. Ra1 Be4+ 25. Bf3 Rc4
+26. Bxe4 Rxe4 27. Kf3 Rd4 28. Rxa6 h5 29. Ra8+ Kh7 30. d6 exd6 31. exd6 Bf6
+32. h3 Kg6 33. Rb8 Rxb4 34. d7 Rd4 35. Be5 Bxe5 36. d8=Q Rxd8 37. Rxd8 b4
+38. Ke4 Bc3 39. Rg8+ Kh7 40. Rg5 Kh6 41. Rb5 Be1 42. f4 Kg6 43. Rb6+ f6 44.
+Rb8 Bc3 45. Rg8+ Kf7 46. Rg3 Ke6 47. Re3 f5+ 48. Kd3+ Kf6 49. Re2 h4 50.
+Kc4 Kf7 51. Ra2 Kf6 52. Ra6+ Kf7 53. Kd3 Be1 54. Rb6 Bc3 55. Kc2 Ke7 56.
+Kd3 Kf7 57. Ke2 Ke7 58. Kd1 Kf7 59. Kc2 Ke7 60. Rh6 Be1 61. Kb3 Bg3 62.
+Kxb4 Kf7 63. Kc4 Kg7 64. Rh5 Kg6 65. Rg5+ Kf6 66. Rg8 Bxf4 67. Kd5 Kf7 68.
+Ra8 Bg3 69. Ra6 f4 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -115,13 +110,13 @@ Rh5 Kg6 65. Rg5+ Kf6 66. Rg8 Bxf4 67. Kd5 Kf7 68. Ra8 Bg3 69. Ra6 f4
 [Result "0-1"]
 [ECO "A38"]
 
-1. Nf3 Nf6 2. b3 g6 3. Bb2 Bg7 4. g3 O-O 5. Bg2 c5 6. c4 Nc6 7. O-O d6
-8. Nc3 e5 9. Ne1 Be6 10. d3 d5 11. cxd5 Nxd5 12. Rc1 b6 13. Nc2 Rc8
-14. Nxd5 Bxd5 15. Bh3 f5 16. Ne3 Bf7 17. Nc4 Rc7 18. Bg2 Qe7 19. Bc3
-Rd8 20. Qc2 Nd4 21. Qb2 Bd5 22. Rcd1 Bxg2 23. Kxg2 b5 24. Bxd4 exd4
-25. Na3 a6 26. Rc1 Bf8 27. Nb1 Rc6 28. Rc2 Re6 29. f3 Re8 30. Rf2 Bh6
-31. a3 Be3 32. Rf1 f4 33. b4 Re5 34. bxc5 Rh5 35. c6 Qg5 36. g4 Rxh2+
-37. Kxh2 Qh4+ 38. Kg2 Qg3+ 39. Kh1 Qh3# 0-1
+1. Nf3 Nf6 2. b3 g6 3. Bb2 Bg7 4. g3 O-O 5. Bg2 c5 6. c4 Nc6 7. O-O d6 8.
+Nc3 e5 9. Ne1 Be6 10. d3 d5 11. cxd5 Nxd5 12. Rc1 b6 13. Nc2 Rc8 14. Nxd5
+Bxd5 15. Bh3 f5 16. Ne3 Bf7 17. Nc4 Rc7 18. Bg2 Qe7 19. Bc3 Rd8 20. Qc2 Nd4
+21. Qb2 Bd5 22. Rcd1 Bxg2 23. Kxg2 b5 24. Bxd4 exd4 25. Na3 a6 26. Rc1 Bf8
+27. Nb1 Rc6 28. Rc2 Re6 29. f3 Re8 30. Rf2 Bh6 31. a3 Be3 32. Rf1 f4 33. b4
+Re5 34. bxc5 Rh5 35. c6 Qg5 36. g4 Rxh2+ 37. Kxh2 Qh4+ 38. Kg2 Qg3+ 39. Kh1
+Qh3# 0-1
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -132,10 +127,10 @@ Rd8 20. Qc2 Nd4 21. Qb2 Bd5 22. Rcd1 Bxg2 23. Kxg2 b5 24. Bxd4 exd4
 [Result "1/2-1/2"]
 [ECO "A01"]
 
-1. b3 b6 2. Bb2 Bb7 3. e3 e6 4. f4 Qh4+ 5. g3 Qd8 6. Nf3 Nf6 7. Bg2 Be7
-8. O-O O-O 9. Qe2 a5 10. a4 Na6 11. Na3 Nb4 12. d3 Rb8 13. e4 d6 14.
-Nb5 Nd7 15. c3 Na6 16. d4 c6 17. Na3 Nc7 18. Rfe1 Ba6 19. Qd2 d5 20.
-Nc2 dxe4 21. Rxe4 b5 22. Ba3 Bxa3 23. Rxa3 bxa4 24. Rxa4 Rxb3 1/2-1/2
+1. b3 b6 2. Bb2 Bb7 3. e3 e6 4. f4 Qh4+ 5. g3 Qd8 6. Nf3 Nf6 7. Bg2 Be7 8.
+O-O O-O 9. Qe2 a5 10. a4 Na6 11. Na3 Nb4 12. d3 Rb8 13. e4 d6 14. Nb5 Nd7
+15. c3 Na6 16. d4 c6 17. Na3 Nc7 18. Rfe1 Ba6 19. Qd2 d5 20. Nc2 dxe4 21.
+Rxe4 b5 22. Ba3 Bxa3 23. Rxa3 bxa4 24. Rxa4 Rxb3 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -146,12 +141,11 @@ Nc2 dxe4 21. Rxe4 b5 22. Ba3 Bxa3 23. Rxa3 bxa4 24. Rxa4 Rxb3 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "A22"]
 
-1. c4 e5 2. Nc3 Nf6 3. Nf3 e4 4. Ng5 b5 5. d3 exd3 6. cxb5 dxe2 7. Bxe2
-Bb7 8. O-O Be7 9. Bf3 d5 10. Nh3 a6 11. Nf4 axb5 12. Nfxd5 Nxd5 13.
-Nxd5 Bxd5 14. Bxd5 c6 15. Bb3 Qxd1 16. Rxd1 O-O 17. Be3 c5 18. Bd5 Ra6
-19. b3 Nc6 20. Rd2 Rd8 21. Re1 Nb4 22. Bb7 Rad6 23. Rde2 Rd1 24. Kf1
-Rxe1+ 25. Kxe1 Bf6 26. f3 g6 27. Be4 c4 28. bxc4 bxc4 29. Bc5 Bc3+ 30.
-Kf1 f5 1/2-1/2
+1. c4 e5 2. Nc3 Nf6 3. Nf3 e4 4. Ng5 b5 5. d3 exd3 6. cxb5 dxe2 7. Bxe2 Bb7
+8. O-O Be7 9. Bf3 d5 10. Nh3 a6 11. Nf4 axb5 12. Nfxd5 Nxd5 13. Nxd5 Bxd5
+14. Bxd5 c6 15. Bb3 Qxd1 16. Rxd1 O-O 17. Be3 c5 18. Bd5 Ra6 19. b3 Nc6 20.
+Rd2 Rd8 21. Re1 Nb4 22. Bb7 Rad6 23. Rde2 Rd1 24. Kf1 Rxe1+ 25. Kxe1 Bf6
+26. f3 g6 27. Be4 c4 28. bxc4 bxc4 29. Bc5 Bc3+ 30. Kf1 f5 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -162,9 +156,9 @@ Kf1 f5 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "A26"]
 
-1. c4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. Nc3 Nc6 7. d3 e5
-8. Bg5 h6 9. Bxf6 Bxf6 10. Rb1 Be6 11. b4 a6 12. Nd5 Bg7 13. Qd2 Ne7
-14. Nxe7+ Qxe7 15. Qc2 c6 16. Rfc1 1/2-1/2
+1. c4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. Nc3 Nc6 7. d3 e5 8.
+Bg5 h6 9. Bxf6 Bxf6 10. Rb1 Be6 11. b4 a6 12. Nd5 Bg7 13. Qd2 Ne7 14. Nxe7+
+Qxe7 15. Qc2 c6 16. Rfc1 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -175,13 +169,12 @@ Kf1 f5 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "D46"]
 
-1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c6 5. e3 Nbd7 6. Bd3 Bd6 7. e4 dxe4
-8. Nxe4 Nxe4 9. Bxe4 Bb4+ 10. Bd2 Bxd2+ 11. Qxd2 c5 12. Rd1 cxd4 13.
-Nxd4 O-O 14. O-O Nf6 15. Bf3 Qc7 16. Qb4 Bd7 17. Nb3 Rac8 18. Qxb7 Qxb7
-19. Bxb7 Rxc4 20. Rc1 Bb5 21. Rfd1 Rb8 22. Nc5 g6 23. Rxc4 Bxc4 24. b3
-Bd5 25. Ba6 Rb6 26. Rc1 Kf8 27. Bd3 Ke7 28. f3 Rc6 29. Bb5 Rc7 30. Nd3
-Rxc1+ 31. Nxc1 Kd6 32. Nd3 e5 33. Kf2 e4 34. Nf4 Bb7 35. Bc4 Ke5
-1/2-1/2
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c6 5. e3 Nbd7 6. Bd3 Bd6 7. e4 dxe4 8.
+Nxe4 Nxe4 9. Bxe4 Bb4+ 10. Bd2 Bxd2+ 11. Qxd2 c5 12. Rd1 cxd4 13. Nxd4 O-O
+14. O-O Nf6 15. Bf3 Qc7 16. Qb4 Bd7 17. Nb3 Rac8 18. Qxb7 Qxb7 19. Bxb7
+Rxc4 20. Rc1 Bb5 21. Rfd1 Rb8 22. Nc5 g6 23. Rxc4 Bxc4 24. b3 Bd5 25. Ba6
+Rb6 26. Rc1 Kf8 27. Bd3 Ke7 28. f3 Rc6 29. Bb5 Rc7 30. Nd3 Rxc1+ 31. Nxc1
+Kd6 32. Nd3 e5 33. Kf2 e4 34. Nf4 Bb7 35. Bc4 Ke5 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -192,13 +185,13 @@ Rxc1+ 31. Nxc1 Kd6 32. Nd3 e5 33. Kf2 e4 34. Nf4 Bb7 35. Bc4 Ke5
 [Result "0-1"]
 [ECO "D16"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5 7. g3 e6
-8. Bg2 a5 9. Nxc4 Na6 10. h3 Nb4 11. O-O Be7 12. g4 Bg6 13. e4 Nd7 14.
-f4 f6 15. Qe2 Nb6 16. Na3 O-O 17. Be3 f5 18. Rad1 fxe4 19. Nxe4 N4d5
-20. Nc5 Qc8 21. Bc1 Bf7 22. Be4 Bd6 23. Bc2 Bxc5 24. dxc5 Nd7 25. Qe4
-g6 26. Qd4 Qd8 27. Nc4 Qh4 28. Rf3 e5 29. fxe5 Be6 30. Rdf1 Rxf3 31.
-Rxf3 Qe1+ 32. Rf1 Qg3+ 33. Kh1 Qxh3+ 34. Kg1 Qg3+ 35. Kh1 Nb4 36. Be4
-Qh3+ 37. Kg1 Qxg4+ 38. Kh2 Qe2+ 0-1
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5 7. g3 e6 8.
+Bg2 a5 9. Nxc4 Na6 10. h3 Nb4 11. O-O Be7 12. g4 Bg6 13. e4 Nd7 14. f4 f6
+15. Qe2 Nb6 16. Na3 O-O 17. Be3 f5 18. Rad1 fxe4 19. Nxe4 N4d5 20. Nc5 Qc8
+21. Bc1 Bf7 22. Be4 Bd6 23. Bc2 Bxc5 24. dxc5 Nd7 25. Qe4 g6 26. Qd4 Qd8
+27. Nc4 Qh4 28. Rf3 e5 29. fxe5 Be6 30. Rdf1 Rxf3 31. Rxf3 Qe1+ 32. Rf1
+Qg3+ 33. Kh1 Qxh3+ 34. Kg1 Qg3+ 35. Kh1 Nb4 36. Be4 Qh3+ 37. Kg1 Qxg4+ 38.
+Kh2 Qe2+ 0-1
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -209,18 +202,17 @@ Qh3+ 37. Kg1 Qxg4+ 38. Kh2 Qe2+ 0-1
 [Result "1/2-1/2"]
 [ECO "E12"]
 
-1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 h6 6. Bh4 Be7 7. Qc2 d5
-8. Bxf6 Bxf6 9. cxd5 Bxd5 10. Nxd5 Qxd5 11. e3 O-O 12. Bd3 Qa5+ 13. Ke2
-c6 14. a3 a6 15. g4 g6 16. h4 Bg7 17. h5 g5 18. Bc4 c5 19. Rad1 cxd4
-20. Nxd4 Bxd4 21. exd4 b5 22. Bxe6 Kg7 23. Bxf7 Rxf7 24. Qg6+ Kf8 25.
-Qxh6+ Ke8 26. Rh3 Raa7 27. Re3+ Rae7 28. Qh8+ Rf8 29. Rxe7+ Kxe7 30.
-Qg7+ Rf7 31. Qe5+ Kd7 32. Qxb8 Qa4 33. Rc1 Rxf2+ 34. Ke1 Rc2 35. Qb7+
-Kd6 36. Qb6+ Kd7 37. Qa7+ Kd8 38. Qa8+ Kc7 39. Qa7+ Kd8 40. Qb8+ Kd7
-41. Rxc2 Qxc2 42. Qb7+ Ke8 43. Qf3 Qc1+ 44. Kf2 Kd7 45. Qf7+ Kd6 46.
-Qf6+ Kd7 47. Qg7+ Kd8 48. Qf8+ Kd7 49. Qf5+ Kd8 50. Qd5+ Ke8 51. Qf3
-Kd7 52. h6 Qxb2+ 53. Kg3 Qxd4 54. h7 Qe5+ 55. Kg2 Qb2+ 56. Kg3 Qe5+
-57. Kh3 Qh8 58. Qb7+ Ke6 59. Qxa6+ Kf7 60. Qb7+ Kg6 61. Qe4+ Kh6 62.
-Qc6+ Kxh7 63. Qxb5 Qc3+ 64. Kg2 Qd2+ 65. Kf1 1/2-1/2
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 h6 6. Bh4 Be7 7. Qc2 d5 8.
+Bxf6 Bxf6 9. cxd5 Bxd5 10. Nxd5 Qxd5 11. e3 O-O 12. Bd3 Qa5+ 13. Ke2 c6 14.
+a3 a6 15. g4 g6 16. h4 Bg7 17. h5 g5 18. Bc4 c5 19. Rad1 cxd4 20. Nxd4 Bxd4
+21. exd4 b5 22. Bxe6 Kg7 23. Bxf7 Rxf7 24. Qg6+ Kf8 25. Qxh6+ Ke8 26. Rh3
+Raa7 27. Re3+ Rae7 28. Qh8+ Rf8 29. Rxe7+ Kxe7 30. Qg7+ Rf7 31. Qe5+ Kd7
+32. Qxb8 Qa4 33. Rc1 Rxf2+ 34. Ke1 Rc2 35. Qb7+ Kd6 36. Qb6+ Kd7 37. Qa7+
+Kd8 38. Qa8+ Kc7 39. Qa7+ Kd8 40. Qb8+ Kd7 41. Rxc2 Qxc2 42. Qb7+ Ke8 43.
+Qf3 Qc1+ 44. Kf2 Kd7 45. Qf7+ Kd6 46. Qf6+ Kd7 47. Qg7+ Kd8 48. Qf8+ Kd7
+49. Qf5+ Kd8 50. Qd5+ Ke8 51. Qf3 Kd7 52. h6 Qxb2+ 53. Kg3 Qxd4 54. h7 Qe5+
+55. Kg2 Qb2+ 56. Kg3 Qe5+ 57. Kh3 Qh8 58. Qb7+ Ke6 59. Qxa6+ Kf7 60. Qb7+
+Kg6 61. Qe4+ Kh6 62. Qc6+ Kxh7 63. Qxb5 Qc3+ 64. Kg2 Qd2+ 65. Kf1 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -231,13 +223,13 @@ Qc6+ Kxh7 63. Qxb5 Qc3+ 64. Kg2 Qd2+ 65. Kf1 1/2-1/2
 [Result "1-0"]
 [ECO "A30"]
 
-1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. a3 O-O
-8. d4 cxd4 9. Qxd4 Nc6 10. Qd3 d6 11. Rd1 Qb8 12. b3 Ne5 13. Nxe5 dxe5
-14. Bb2 Bxg2 15. Kxg2 Qb7+ 16. Qf3 e4 17. Qf4 a6 18. a4 Rfd8 19. Rxd8+
-Rxd8 20. Rd1 Re8 21. Nb1 h6 22. Qe5 Bc5 23. e3 Bf8 24. Nc3 Rc8 25. Kg1
-Be7 26. h3 Kh7 27. Qd4 Rc7 28. Qe5 Qc6 29. Nxe4 b5 30. axb5 axb5 31.
-cxb5 Qb7 32. Nc3 Rc5 33. Qd4 Rh5 34. Qd3+ g6 35. Qf1 Bb4 36. Qg2 Qb8
-37. Ne4 Nxe4 38. Qxe4 Rxb5 39. Rd7 Rb7 1-0
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. a3 O-O 8.
+d4 cxd4 9. Qxd4 Nc6 10. Qd3 d6 11. Rd1 Qb8 12. b3 Ne5 13. Nxe5 dxe5 14. Bb2
+Bxg2 15. Kxg2 Qb7+ 16. Qf3 e4 17. Qf4 a6 18. a4 Rfd8 19. Rxd8+ Rxd8 20. Rd1
+Re8 21. Nb1 h6 22. Qe5 Bc5 23. e3 Bf8 24. Nc3 Rc8 25. Kg1 Be7 26. h3 Kh7
+27. Qd4 Rc7 28. Qe5 Qc6 29. Nxe4 b5 30. axb5 axb5 31. cxb5 Qb7 32. Nc3 Rc5
+33. Qd4 Rh5 34. Qd3+ g6 35. Qf1 Bb4 36. Qg2 Qb8 37. Ne4 Nxe4 38. Qxe4 Rxb5
+39. Rd7 Rb7 1-0
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -248,14 +240,14 @@ cxb5 Qb7 32. Nc3 Rc5 33. Qd4 Rh5 34. Qd3+ g6 35. Qf1 Bb4 36. Qg2 Qb8
 [Result "1/2-1/2"]
 [ECO "A26"]
 
-1. g3 g6 2. Bg2 Bg7 3. c4 Nf6 4. Nc3 O-O 5. e4 d6 6. Nge2 Nc6 7. O-O e5
-8. d3 Bd7 9. h3 a6 10. Bg5 h6 11. Be3 Rb8 12. a3 Kh7 13. b4 Qc8 14. Kh2
-Nd4 15. Rc1 Ng8 16. Nd5 Qd8 17. c5 dxc5 18. bxc5 Nxe2 19. Qxe2 Bc6 20.
-f4 Ne7 21. Qa2 Qd7 22. fxe5 Bxd5 23. exd5 Bxe5 24. Bf4 Bxf4 25. Rxf4
-Nf5 26. Qf2 Rbe8 27. Rf1 h5 28. Be4 Nh6 29. Rf6 Rg8 30. Qf4 Rg7 31. Qg5
-Qd8 32. Kg2 Qd7 33. Rb1 Qa4 34. Rxb7 Qc2+ 35. Rf2 Qxc5 36. Qf6 a5 37.
-a4 Ng8 38. Qc6 Qxc6 39. dxc6 f5 40. Bd5 Nf6 41. Bc4 Re5 42. Rb5 Rge7
-43. Rfb2 Re3 44. Rxa5 1/2-1/2
+1. g3 g6 2. Bg2 Bg7 3. c4 Nf6 4. Nc3 O-O 5. e4 d6 6. Nge2 Nc6 7. O-O e5 8.
+d3 Bd7 9. h3 a6 10. Bg5 h6 11. Be3 Rb8 12. a3 Kh7 13. b4 Qc8 14. Kh2 Nd4
+15. Rc1 Ng8 16. Nd5 Qd8 17. c5 dxc5 18. bxc5 Nxe2 19. Qxe2 Bc6 20. f4 Ne7
+21. Qa2 Qd7 22. fxe5 Bxd5 23. exd5 Bxe5 24. Bf4 Bxf4 25. Rxf4 Nf5 26. Qf2
+Rbe8 27. Rf1 h5 28. Be4 Nh6 29. Rf6 Rg8 30. Qf4 Rg7 31. Qg5 Qd8 32. Kg2 Qd7
+33. Rb1 Qa4 34. Rxb7 Qc2+ 35. Rf2 Qxc5 36. Qf6 a5 37. a4 Ng8 38. Qc6 Qxc6
+39. dxc6 f5 40. Bd5 Nf6 41. Bc4 Re5 42. Rb5 Rge7 43. Rfb2 Re3 44. Rxa5
+1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -266,14 +258,13 @@ a4 Ng8 38. Qc6 Qxc6 39. dxc6 f5 40. Bd5 Nf6 41. Bc4 Re5 42. Rb5 Rge7
 [Result "1/2-1/2"]
 [ECO "E44"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Ne4 6. Qc2 f5 7. a3
-Bxc3+ 8. Nxc3 Nxc3 9. Qxc3 Bb7 10. b4 d6 11. d5 e5 12. Bd3 O-O 13. O-O
-Nd7 14. f4 Qe7 15. Bb2 e4 16. Be2 Nf6 17. h3 Bc8 18. Rfd1 Bd7 19. Rac1
-Rab8 20. Rd2 Qf7 21. Kf2 h5 22. g3 Kh7 23. Rg1 Rg8 24. Ke1 Rb7 25. Qd4
-Qg6 26. Bd1 Rbb8 27. Rdg2 Rge8 28. Be2 Qf7 29. b5 Re7 30. Qd2 a5 31.
-Qd1 Rh8 32. Qa1 Kg8 33. Kd2 Rh6 34. Kc2 Kf8 35. Qd1 Rh7 36. Qa1 Rh6
-37. Bxf6 Qxf6 38. Qxf6+ gxf6 39. g4 hxg4 40. hxg4 Rg7 41. g5 fxg5 42.
-Rxg5 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ne4 6. Qc2 f5 7. a3 Bxc3+ 8.
+Nxc3 Nxc3 9. Qxc3 Bb7 10. b4 d6 11. d5 e5 12. Bd3 O-O 13. O-O Nd7 14. f4
+Qe7 15. Bb2 e4 16. Be2 Nf6 17. h3 Bc8 18. Rfd1 Bd7 19. Rac1 Rab8 20. Rd2
+Qf7 21. Kf2 h5 22. g3 Kh7 23. Rg1 Rg8 24. Ke1 Rb7 25. Qd4 Qg6 26. Bd1 Rbb8
+27. Rdg2 Rge8 28. Be2 Qf7 29. b5 Re7 30. Qd2 a5 31. Qd1 Rh8 32. Qa1 Kg8 33.
+Kd2 Rh6 34. Kc2 Kf8 35. Qd1 Rh7 36. Qa1 Rh6 37. Bxf6 Qxf6 38. Qxf6+ gxf6
+39. g4 hxg4 40. hxg4 Rg7 41. g5 fxg5 42. Rxg5 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -284,9 +275,9 @@ Rxg5 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "B12"]
 
-1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 h5 8.
-Nf4 Bh7 9. Nxh5 cxd4 10. Qxd4 Nc6 11. Bb5 Qd7 12. Be3 Bxc2 13. Qd2 Bg6
-14. Nf4 Bh7 15. Nfe2 Bb4 16. a3 Ba5 1/2-1/2
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nc3 e6 5. g4 Bg6 6. Nge2 c5 7. h4 h5 8. Nf4
+Bh7 9. Nxh5 cxd4 10. Qxd4 Nc6 11. Bb5 Qd7 12. Be3 Bxc2 13. Qd2 Bg6 14. Nf4
+Bh7 15. Nfe2 Bb4 16. a3 Ba5 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -297,13 +288,13 @@ Nf4 Bh7 9. Nxh5 cxd4 10. Qxd4 Nc6 11. Bb5 Qd7 12. Be3 Bxc2 13. Qd2 Bg6
 [Result "1/2-1/2"]
 [ECO "E90"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 c5 7. d5 a6 8.
-a4 e6 9. Be2 exd5 10. exd5 b6 11. O-O Re8 12. Bd3 Ra7 13. Bf4 h6 14.
-Qd2 Kh7 15. Rfe1 Rae7 16. Rxe7 Rxe7 17. Re1 Bf8 18. Rxe7 Qxe7 19. Qe3
-Qxe3 20. fxe3 Ne8 21. g4 Kg7 22. Kf2 Be7 23. b3 Bf6 24. Ne4 Be7 25. a5
-Nd7 26. axb6 Nxb6 27. Ke2 f5 28. gxf5 Bxf5 29. Nf2 Bc8 30. e4 g5 31.
-Bg3 Nd7 32. e5 dxe5 33. Bf5 Nd6 34. Bxd7 Bxd7 35. Nxe5 Bc8 36. Ned3 Bf5
-37. Nxc5 Nxc4 38. Nxa6 Nd6 39. Nb8 Nb5 1/2-1/2
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 c5 7. d5 a6 8. a4
+e6 9. Be2 exd5 10. exd5 b6 11. O-O Re8 12. Bd3 Ra7 13. Bf4 h6 14. Qd2 Kh7
+15. Rfe1 Rae7 16. Rxe7 Rxe7 17. Re1 Bf8 18. Rxe7 Qxe7 19. Qe3 Qxe3 20. fxe3
+Ne8 21. g4 Kg7 22. Kf2 Be7 23. b3 Bf6 24. Ne4 Be7 25. a5 Nd7 26. axb6 Nxb6
+27. Ke2 f5 28. gxf5 Bxf5 29. Nf2 Bc8 30. e4 g5 31. Bg3 Nd7 32. e5 dxe5 33.
+Bf5 Nd6 34. Bxd7 Bxd7 35. Nxe5 Bc8 36. Ned3 Bf5 37. Nxc5 Nxc4 38. Nxa6 Nd6
+39. Nb8 Nb5 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -314,9 +305,9 @@ Bg3 Nd7 32. e5 dxe5 33. Bf5 Nd6 34. Bxd7 Bxd7 35. Nxe5 Bc8 36. Ned3 Bf5
 [Result "1/2-1/2"]
 [ECO "C84"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1
-b5 8. e5 Nxe5 9. Rxe5 d6 10. Re1 bxa4 11. Nxd4 Bd7 12. Qf3 O-O 13. Nc6
-Bxc6 14. Qxc6 Re8 15. Nc3 Qd7 16. Qxd7 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. Re1 b5 8.
+e5 Nxe5 9. Rxe5 d6 10. Re1 bxa4 11. Nxd4 Bd7 12. Qf3 O-O 13. Nc6 Bxc6 14.
+Qxc6 Re8 15. Nc3 Qd7 16. Qxd7 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -327,16 +318,16 @@ Bxc6 14. Qxc6 Re8 15. Nc3 Qd7 16. Qxd7 1/2-1/2
 [Result "0-1"]
 [ECO "E69"]
 
-1. c4 g6 2. d4 Bg7 3. Nf3 d6 4. g3 Nf6 5. Bg2 O-O 6. Nc3 Nbd7 7. O-O e5
-8. e4 c6 9. h3 Qb6 10. Re1 Re8 11. Re2 Qb4 12. Rc2 exd4 13. Nxd4 Nc5
-14. Bd2 Qb6 15. Be3 Qc7 16. f3 a5 17. Bf2 a4 18. Rb1 Nh5 19. b4 axb3
-20. axb3 f5 21. b4 Ne6 22. Nde2 Ng5 23. g4 fxe4 24. Nxe4 Nxe4 25. fxe4
-Nf6 26. Nc3 Nd7 27. Kh1 Ra3 28. Qc1 Ra8 29. Qf1 Ne5 30. c5 Be6 31. Nd1
-Ra3 32. cxd6 Qxd6 33. b5 Rd3 34. bxc6 bxc6 35. Bc5 Qd8 36. Ne3 Qh4 37.
-Qe1 Qg5 38. Qe2 Red8 39. Rf1 R3d7 40. Bb6 Rb8 41. Ba5 Rb3 42. Nd5 Bxg4
-43. hxg4 Qh4+ 44. Kg1 Nxg4 45. Rf2 Rb1+ 46. Bf1 Bd4 47. Nf6+ Nxf6 48.
-Be1 Qxe4 49. Qc4+ Kg7 50. Bc3 Qxc2 51. Qxd4 Rxd4 52. Bxd4 Qxf2+ 53.
-Kxf2 Rb4 54. Bc3 Rb3 55. Bd4 Rb4 56. Bc3 Ra4 0-1
+1. c4 g6 2. d4 Bg7 3. Nf3 d6 4. g3 Nf6 5. Bg2 O-O 6. Nc3 Nbd7 7. O-O e5 8.
+e4 c6 9. h3 Qb6 10. Re1 Re8 11. Re2 Qb4 12. Rc2 exd4 13. Nxd4 Nc5 14. Bd2
+Qb6 15. Be3 Qc7 16. f3 a5 17. Bf2 a4 18. Rb1 Nh5 19. b4 axb3 20. axb3 f5
+21. b4 Ne6 22. Nde2 Ng5 23. g4 fxe4 24. Nxe4 Nxe4 25. fxe4 Nf6 26. Nc3 Nd7
+27. Kh1 Ra3 28. Qc1 Ra8 29. Qf1 Ne5 30. c5 Be6 31. Nd1 Ra3 32. cxd6 Qxd6
+33. b5 Rd3 34. bxc6 bxc6 35. Bc5 Qd8 36. Ne3 Qh4 37. Qe1 Qg5 38. Qe2 Red8
+39. Rf1 R3d7 40. Bb6 Rb8 41. Ba5 Rb3 42. Nd5 Bxg4 43. hxg4 Qh4+ 44. Kg1
+Nxg4 45. Rf2 Rb1+ 46. Bf1 Bd4 47. Nf6+ Nxf6 48. Be1 Qxe4 49. Qc4+ Kg7 50.
+Bc3 Qxc2 51. Qxd4 Rxd4 52. Bxd4 Qxf2+ 53. Kxf2 Rb4 54. Bc3 Rb3 55. Bd4 Rb4
+56. Bc3 Ra4 0-1
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -347,10 +338,9 @@ Kxf2 Rb4 54. Bc3 Rb3 55. Bd4 Rb4 56. Bc3 Ra4 0-1
 [Result "1/2-1/2"]
 [ECO "B50"]
 
-1. e4 c5 2. Nf3 d6 3. d3 g6 4. c3 Nf6 5. Nbd2 Bg7 6. a4 O-O 7. g3 Nc6
-8. Bg2 Bd7 9. O-O a6 10. Nc4 b5 11. axb5 axb5 12. Rxa8 Qxa8 13. Nb6 Qa2
-14. Nxd7 Nxd7 15. d4 b4 16. dxc5 Nxc5 17. Qd5 Qa4 18. Nd4 Nxd4 19. cxd4
-1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d3 g6 4. c3 Nf6 5. Nbd2 Bg7 6. a4 O-O 7. g3 Nc6 8.
+Bg2 Bd7 9. O-O a6 10. Nc4 b5 11. axb5 axb5 12. Rxa8 Qxa8 13. Nb6 Qa2 14.
+Nxd7 Nxd7 15. d4 b4 16. dxc5 Nxc5 17. Qd5 Qa4 18. Nd4 Nxd4 19. cxd4 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -361,12 +351,11 @@ Kxf2 Rb4 54. Bc3 Rb3 55. Bd4 Rb4 56. Bc3 Ra4 0-1
 [Result "1/2-1/2"]
 [ECO "A10"]
 
-1. c4 g6 2. g3 Bg7 3. Bg2 d6 4. Nc3 Nd7 5. Nf3 e5 6. O-O Ne7 7. d3 O-O
-8. Rb1 f5 9. Qc2 h6 10. b4 g5 11. Bb2 Nf6 12. Nd2 a6 13. a4 Qe8 14. b5
-Qh5 15. Nd5 Nexd5 16. cxd5 Rf7 17. b6 f4 18. Ne4 Nxe4 19. dxe4 cxb6
-20. f3 fxg3 21. hxg3 Bd7 22. Qc7 Qg6 23. Qxb7 Raf8 24. Qxb6 g4 25. Ba3
-Rf6 26. Qe3 gxf3 27. Rxf3 Bxa4 28. Rxf6 Rxf6 29. Bh3 Bb5 30. Rc1 Bf8
-1/2-1/2
+1. c4 g6 2. g3 Bg7 3. Bg2 d6 4. Nc3 Nd7 5. Nf3 e5 6. O-O Ne7 7. d3 O-O 8.
+Rb1 f5 9. Qc2 h6 10. b4 g5 11. Bb2 Nf6 12. Nd2 a6 13. a4 Qe8 14. b5 Qh5 15.
+Nd5 Nexd5 16. cxd5 Rf7 17. b6 f4 18. Ne4 Nxe4 19. dxe4 cxb6 20. f3 fxg3 21.
+hxg3 Bd7 22. Qc7 Qg6 23. Qxb7 Raf8 24. Qxb6 g4 25. Ba3 Rf6 26. Qe3 gxf3 27.
+Rxf3 Bxa4 28. Rxf6 Rxf6 29. Bh3 Bb5 30. Rc1 Bf8 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -377,11 +366,11 @@ Rf6 26. Qe3 gxf3 27. Rxf3 Bxa4 28. Rxf6 Rxf6 29. Bh3 Bb5 30. Rc1 Bf8
 [Result "1/2-1/2"]
 [ECO "A50"]
 
-1. d4 Nf6 2. Nf3 b6 3. c4 Bb7 4. Nc3 Ne4 5. Nxe4 Bxe4 6. e3 e6 7. Be2
-Bb4+ 8. Bd2 Bxd2+ 9. Qxd2 O-O 10. O-O d6 11. Qc3 Nd7 12. Nd2 Bb7 13.
-Bf3 Bxf3 14. Nxf3 f5 15. b4 Qe7 16. Rfd1 Nf6 17. Qc2 g6 18. a3 a5 19.
-Rac1 axb4 20. axb4 Ra7 21. Ra1 Rfa8 22. Qb2 Nd7 23. Rxa7 Rxa7 24. Ra1
-Rxa1+ 25. Qxa1 e5 26. h3 1/2-1/2
+1. d4 Nf6 2. Nf3 b6 3. c4 Bb7 4. Nc3 Ne4 5. Nxe4 Bxe4 6. e3 e6 7. Be2 Bb4+
+8. Bd2 Bxd2+ 9. Qxd2 O-O 10. O-O d6 11. Qc3 Nd7 12. Nd2 Bb7 13. Bf3 Bxf3
+14. Nxf3 f5 15. b4 Qe7 16. Rfd1 Nf6 17. Qc2 g6 18. a3 a5 19. Rac1 axb4 20.
+axb4 Ra7 21. Ra1 Rfa8 22. Qb2 Nd7 23. Rxa7 Rxa7 24. Ra1 Rxa1+ 25. Qxa1 e5
+26. h3 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -392,14 +381,14 @@ Rxa1+ 25. Qxa1 e5 26. h3 1/2-1/2
 [Result "1-0"]
 [ECO "D30"]
 
-1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. Bg5 Be7 5. e3 O-O 6. Nbd2 Nbd7 7. Qc2
-b6 8. cxd5 Nxd5 9. Bxe7 Nxe7 10. Bd3 h6 11. Bh7+ Kh8 12. Be4 Rb8 13.
-O-O c5 14. Rfd1 Bb7 15. Bxb7 Rxb7 16. dxc5 Qc7 17. Rac1 Qxc5 18. Ne4
-Qxc2 19. Rxc2 Nd5 20. Nd6 Rc7 21. Rxc7 Nxc7 22. Rc1 Nc5 23. b4 N5a6
-24. Ne5 Kg8 25. Nc6 Ra8 26. a3 g5 27. h4 Kg7 28. hxg5 hxg5 29. e4 Kf6
-30. Rc3 Kg7 31. Rg3 Ne8 32. Rxg5+ Kf8 33. Nxe8 Rxe8 34. Nxa7 Rd8 35.
-Rb5 Rd3 36. a4 Ra3 37. Rxb6 Rxa4 38. Nc6 Kg7 39. Rb7 Kg6 40. Ne5+ Kg5
-41. Rxf7 Rxb4 42. f4+ Kh6 43. g4 Rxe4 44. g5+ Kh5 45. Rh7# 1-0
+1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. Bg5 Be7 5. e3 O-O 6. Nbd2 Nbd7 7. Qc2 b6 8.
+cxd5 Nxd5 9. Bxe7 Nxe7 10. Bd3 h6 11. Bh7+ Kh8 12. Be4 Rb8 13. O-O c5 14.
+Rfd1 Bb7 15. Bxb7 Rxb7 16. dxc5 Qc7 17. Rac1 Qxc5 18. Ne4 Qxc2 19. Rxc2 Nd5
+20. Nd6 Rc7 21. Rxc7 Nxc7 22. Rc1 Nc5 23. b4 N5a6 24. Ne5 Kg8 25. Nc6 Ra8
+26. a3 g5 27. h4 Kg7 28. hxg5 hxg5 29. e4 Kf6 30. Rc3 Kg7 31. Rg3 Ne8 32.
+Rxg5+ Kf8 33. Nxe8 Rxe8 34. Nxa7 Rd8 35. Rb5 Rd3 36. a4 Ra3 37. Rxb6 Rxa4
+38. Nc6 Kg7 39. Rb7 Kg6 40. Ne5+ Kg5 41. Rxf7 Rxb4 42. f4+ Kh6 43. g4 Rxe4
+44. g5+ Kh5 45. Rh7# 1-0
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -410,11 +399,11 @@ Rb5 Rd3 36. a4 Ra3 37. Rxb6 Rxa4 38. Nc6 Kg7 39. Rb7 Kg6 40. Ne5+ Kg5
 [Result "0-1"]
 [ECO "A43"]
 
-1. d4 Nf6 2. Nf3 c5 3. d5 b5 4. Bg5 Qb6 5. Bxf6 Qxf6 6. Nbd2 Qxb2 7. e4
-Ba6 8. a4 bxa4 9. Rb1 Qc3 10. Rxb8+ Rxb8 11. Bxa6 g6 12. O-O Bg7 13. e5
-O-O 14. Ne4 Qa5 15. Bc4 d6 16. h4 a3 17. Kh2 Qb4 18. Qe2 Qb2 19. c3
-dxe5 20. Nfd2 a2 21. d6 exd6 22. Nxd6 a1=Q 23. Rxa1 Qxa1 24. N2e4 Qc1
-25. Ng5 Rb2 26. Qd3 Qf4+ 27. Kh3 Rd2 0-1
+1. d4 Nf6 2. Nf3 c5 3. d5 b5 4. Bg5 Qb6 5. Bxf6 Qxf6 6. Nbd2 Qxb2 7. e4 Ba6
+8. a4 bxa4 9. Rb1 Qc3 10. Rxb8+ Rxb8 11. Bxa6 g6 12. O-O Bg7 13. e5 O-O 14.
+Ne4 Qa5 15. Bc4 d6 16. h4 a3 17. Kh2 Qb4 18. Qe2 Qb2 19. c3 dxe5 20. Nfd2
+a2 21. d6 exd6 22. Nxd6 a1=Q 23. Rxa1 Qxa1 24. N2e4 Qc1 25. Ng5 Rb2 26. Qd3
+Qf4+ 27. Kh3 Rd2 0-1
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -425,9 +414,9 @@ dxe5 20. Nfd2 a2 21. d6 exd6 22. Nxd6 a1=Q 23. Rxa1 Qxa1 24. N2e4 Qc1
 [Result "1/2-1/2"]
 [ECO "A67"]
 
-1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7
-8. Bb5+ Nfd7 9. a4 O-O 10. Nf3 a6 11. Bd3 Nf6 12. O-O Bg4 13. Be3 Nbd7
-14. h3 Bxf3 15. Qxf3 Qa5 16. Qf2 Rfe8 1/2-1/2
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8.
+Bb5+ Nfd7 9. a4 O-O 10. Nf3 a6 11. Bd3 Nf6 12. O-O Bg4 13. Be3 Nbd7 14. h3
+Bxf3 15. Qxf3 Qa5 16. Qf2 Rfe8 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -438,13 +427,12 @@ dxe5 20. Nfd2 a2 21. d6 exd6 22. Nxd6 a1=Q 23. Rxa1 Qxa1 24. N2e4 Qc1
 [Result "1-0"]
 [ECO "A20"]
 
-1. g3 e5 2. c4 c6 3. d4 exd4 4. Qxd4 d5 5. Bg2 dxc4 6. Qxc4 Be6 7. Qc2
-Qc8 8. Nd2 Nf6 9. b3 Be7 10. Bb2 O-O 11. Ngf3 Bf5 12. e4 Bh3 13. O-O
-Bxg2 14. Kxg2 Na6 15. a3 Rd8 16. Rad1 b6 17. Ne5 c5 18. Ndf3 Rf8 19.
-Nh4 Qb7 20. Nf5 Rfe8 21. f3 Bf8 22. Nc4 Re6 23. Rd2 Nc7 24. Rfd1 Nce8
-25. a4 g6 26. Nfe3 a6 27. Nd5 b5 28. Nce3 Nxd5 29. Nxd5 Bg7 30. Bxg7
-Kxg7 31. Qxc5 Nf6 32. Nxf6 Kxf6 33. Rd7 Qc6 34. Qd4+ Kg5 35. Rxf7 Rf6
-36. Qe3+ 1-0
+1. g3 e5 2. c4 c6 3. d4 exd4 4. Qxd4 d5 5. Bg2 dxc4 6. Qxc4 Be6 7. Qc2 Qc8
+8. Nd2 Nf6 9. b3 Be7 10. Bb2 O-O 11. Ngf3 Bf5 12. e4 Bh3 13. O-O Bxg2 14.
+Kxg2 Na6 15. a3 Rd8 16. Rad1 b6 17. Ne5 c5 18. Ndf3 Rf8 19. Nh4 Qb7 20. Nf5
+Rfe8 21. f3 Bf8 22. Nc4 Re6 23. Rd2 Nc7 24. Rfd1 Nce8 25. a4 g6 26. Nfe3 a6
+27. Nd5 b5 28. Nce3 Nxd5 29. Nxd5 Bg7 30. Bxg7 Kxg7 31. Qxc5 Nf6 32. Nxf6
+Kxf6 33. Rd7 Qc6 34. Qd4+ Kg5 35. Rxf7 Rf6 36. Qe3+ 1-0
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -455,16 +443,15 @@ Kxg7 31. Qxc5 Nf6 32. Nxf6 Kxf6 33. Rd7 Qc6 34. Qd4+ Kg5 35. Rxf7 Rf6
 [Result "1-0"]
 [ECO "E91"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 Bg4 7. O-O
-Nfd7 8. Be3 Nc6 9. d5 Bxf3 10. Bxf3 Na5 11. Qa4 Bxc3 12. bxc3 b6 13.
-Be2 e5 14. dxe6 fxe6 15. f4 Qe8 16. Rae1 Nc5 17. Qxe8 Raxe8 18. Bxc5
-dxc5 19. Rd1 Rd8 20. g3 Kf7 21. Kf2 Ke7 22. e5 Rxd1 23. Rxd1 g5 24. Ke3
-gxf4+ 25. gxf4 Rg8 26. Kf3 Nc6 27. Rf1 a5 28. a4 Nd8 29. Kf2 Rf8 30.
-Ke3 Rg8 31. Rf3 Nf7 32. Rh3 Rg7 33. Bd3 h6 34. Rg3 Kf8 35. Rg6 Rxg6
-36. Bxg6 Nd8 37. Kf3 Nc6 38. Kg4 Kg7 39. Be4 Ne7 40. h4 Kf7 41. Kh5 Kg7
-42. Kg4 Kf7 43. Bc2 Nc8 44. h5 b5 45. cxb5 Nb6 46. Kf3 c4 47. Ke3 Nd5+
-48. Kd4 Nxf4 49. Kxc4 Nxh5 50. Kc5 Ke7 51. b6 cxb6+ 52. Kxb6 Kd7 53. c4
-Kc8 54. c5 Nf4 55. Be4 h5 56. c6 1-0
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 Bg4 7. O-O Nfd7 8.
+Be3 Nc6 9. d5 Bxf3 10. Bxf3 Na5 11. Qa4 Bxc3 12. bxc3 b6 13. Be2 e5 14.
+dxe6 fxe6 15. f4 Qe8 16. Rae1 Nc5 17. Qxe8 Raxe8 18. Bxc5 dxc5 19. Rd1 Rd8
+20. g3 Kf7 21. Kf2 Ke7 22. e5 Rxd1 23. Rxd1 g5 24. Ke3 gxf4+ 25. gxf4 Rg8
+26. Kf3 Nc6 27. Rf1 a5 28. a4 Nd8 29. Kf2 Rf8 30. Ke3 Rg8 31. Rf3 Nf7 32.
+Rh3 Rg7 33. Bd3 h6 34. Rg3 Kf8 35. Rg6 Rxg6 36. Bxg6 Nd8 37. Kf3 Nc6 38.
+Kg4 Kg7 39. Be4 Ne7 40. h4 Kf7 41. Kh5 Kg7 42. Kg4 Kf7 43. Bc2 Nc8 44. h5
+b5 45. cxb5 Nb6 46. Kf3 c4 47. Ke3 Nd5+ 48. Kd4 Nxf4 49. Kxc4 Nxh5 50. Kc5
+Ke7 51. b6 cxb6+ 52. Kxb6 Kd7 53. c4 Kc8 54. c5 Nf4 55. Be4 h5 56. c6 1-0
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -475,17 +462,16 @@ Kc8 54. c5 Nf4 55. Be4 h5 56. c6 1-0
 [Result "0-1"]
 [ECO "A30"]
 
-1. Nf3 c5 2. c4 Nf6 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. b3 Be7 7. Bb2 O-O
-8. Nc3 d6 9. d4 cxd4 10. Nxd4 Bxg2 11. Kxg2 a6 12. e4 Qc7 13. Qe2 Nc6
-14. Rfd1 Rab8 15. Rd2 Rfc8 16. Rad1 Nxd4 17. Rxd4 Qb7 18. f3 Nd7 19.
-Ba1 h6 20. h3 Rc7 21. Kh2 Rbc8 22. R1d2 Ne5 23. f4 Nd7 24. Qd1 Nf6 25.
-e5 dxe5 26. fxe5 Nh7 27. h4 Bc5 28. R4d3 Nf8 29. Qg4 Bb4 30. a3 Bxc3
-31. Bxc3 b5 32. Rd4 bxc4 33. bxc4 Qb3 34. Bb4 Rxc4 35. h5 Rxd4 36. Qxd4
-Nh7 37. Qd7 Qc4 38. Rf2 Ng5 39. Bd2 Qc5 40. Be3 Qc7 41. Qd4 Rd8 42. Qb2
-Rd5 43. Bxg5 hxg5 44. Re2 Qc4 45. Rf2 Qd4 46. Qb8+ Rd8 47. Qb2 Qe3 48.
-Qe2 Qxe2 49. Rxe2 Rd3 50. Kh3 Rxa3 51. Kg4 a5 52. Re1 Rb3 53. Rc1 Re3
-54. Rc5 a4 55. Ra5 Re4+ 56. Kf3 Rb4 57. Ra7 g4+ 58. Ke3 f5 59. exf6
-gxf6 60. h6 f5 61. Kd3 Re4 62. Kd2 a3 0-1
+1. Nf3 c5 2. c4 Nf6 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. b3 Be7 7. Bb2 O-O 8.
+Nc3 d6 9. d4 cxd4 10. Nxd4 Bxg2 11. Kxg2 a6 12. e4 Qc7 13. Qe2 Nc6 14. Rfd1
+Rab8 15. Rd2 Rfc8 16. Rad1 Nxd4 17. Rxd4 Qb7 18. f3 Nd7 19. Ba1 h6 20. h3
+Rc7 21. Kh2 Rbc8 22. R1d2 Ne5 23. f4 Nd7 24. Qd1 Nf6 25. e5 dxe5 26. fxe5
+Nh7 27. h4 Bc5 28. R4d3 Nf8 29. Qg4 Bb4 30. a3 Bxc3 31. Bxc3 b5 32. Rd4
+bxc4 33. bxc4 Qb3 34. Bb4 Rxc4 35. h5 Rxd4 36. Qxd4 Nh7 37. Qd7 Qc4 38. Rf2
+Ng5 39. Bd2 Qc5 40. Be3 Qc7 41. Qd4 Rd8 42. Qb2 Rd5 43. Bxg5 hxg5 44. Re2
+Qc4 45. Rf2 Qd4 46. Qb8+ Rd8 47. Qb2 Qe3 48. Qe2 Qxe2 49. Rxe2 Rd3 50. Kh3
+Rxa3 51. Kg4 a5 52. Re1 Rb3 53. Rc1 Re3 54. Rc5 a4 55. Ra5 Re4+ 56. Kf3 Rb4
+57. Ra7 g4+ 58. Ke3 f5 59. exf6 gxf6 60. h6 f5 61. Kd3 Re4 62. Kd2 a3 0-1
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -496,18 +482,17 @@ gxf6 60. h6 f5 61. Kd3 Re4 62. Kd2 a3 0-1
 [Result "1-0"]
 [ECO "A56"]
 
-1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Be2 O-O 7. Nf3 Ne8
-8. a3 a6 9. b4 b6 10. Rb1 Nd7 11. O-O Ra7 12. Be3 Qc7 13. Ne1 g6 14.
-Nd3 Ng7 15. a4 Rb7 16. a5 bxa5 17. bxc5 dxc5 18. Rxb7 Bxb7 19. Na4 f5
-20. f3 Nh5 21. exf5 gxf5 22. f4 Nxf4 23. Nxf4 exf4 24. Bxf4 Bd6 25.
-Bxd6 Qxd6 26. Bd3 f4 27. Qh5 Qe7 28. Bf5 Bc8 29. Be6+ Kh8 30. Qh6 Rf6
-31. Qh3 Qg7 32. Qc3 Rf8 33. Qxg7+ Kxg7 34. Bxd7 Bxd7 35. Nxc5 Bg4 36.
-Na4 Be2 37. Rc1 Kf6 38. Nb6 Rg8 39. Kf2 Bd3 40. c5 Be4 41. g3 Ke5 42.
-c6 fxg3+ 43. hxg3 Bxd5 44. c7 Bb7 45. c8=Q Bxc8 46. Nxc8 Kd4 47. Ne7
-Rf8+ 48. Kg2 a4 49. Nc6+ Ke4 50. Ra1 Kd5 51. Na5 Kc5 52. Rxa4 Kb5 53.
-Ra1 Rc8 54. Kh3 Rc5 55. Kh4 Kb6 56. Nb3 Rc3 57. Nd2 a5 58. g4 Kb5 59.
-Rb1+ Ka6 60. Ne4 Rc2 61. Rb8 a4 62. Kg5 Ka5 63. Rb7 a3 64. Rxh7 a2 65.
-Nc3 1-0
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. Be2 O-O 7. Nf3 Ne8 8. a3
+a6 9. b4 b6 10. Rb1 Nd7 11. O-O Ra7 12. Be3 Qc7 13. Ne1 g6 14. Nd3 Ng7 15.
+a4 Rb7 16. a5 bxa5 17. bxc5 dxc5 18. Rxb7 Bxb7 19. Na4 f5 20. f3 Nh5 21.
+exf5 gxf5 22. f4 Nxf4 23. Nxf4 exf4 24. Bxf4 Bd6 25. Bxd6 Qxd6 26. Bd3 f4
+27. Qh5 Qe7 28. Bf5 Bc8 29. Be6+ Kh8 30. Qh6 Rf6 31. Qh3 Qg7 32. Qc3 Rf8
+33. Qxg7+ Kxg7 34. Bxd7 Bxd7 35. Nxc5 Bg4 36. Na4 Be2 37. Rc1 Kf6 38. Nb6
+Rg8 39. Kf2 Bd3 40. c5 Be4 41. g3 Ke5 42. c6 fxg3+ 43. hxg3 Bxd5 44. c7 Bb7
+45. c8=Q Bxc8 46. Nxc8 Kd4 47. Ne7 Rf8+ 48. Kg2 a4 49. Nc6+ Ke4 50. Ra1 Kd5
+51. Na5 Kc5 52. Rxa4 Kb5 53. Ra1 Rc8 54. Kh3 Rc5 55. Kh4 Kb6 56. Nb3 Rc3
+57. Nd2 a5 58. g4 Kb5 59. Rb1+ Ka6 60. Ne4 Rc2 61. Rb8 a4 62. Kg5 Ka5 63.
+Rb7 a3 64. Rxh7 a2 65. Nc3 1-0
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -518,16 +503,16 @@ Nc3 1-0
 [Result "1/2-1/2"]
 [ECO "E51"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Be7 7. Nf3 b6
-8. O-O dxc4 9. Bxc4 Bb7 10. Qe2 Nbd7 11. Rd1 Ne4 12. Bd3 Nxc3 13. bxc3
-Bf6 14. a4 c5 15. Ba3 Qc7 16. e4 e5 17. d5 a6 18. Bc4 Qd6 19. Qe3 Be7
-20. Be2 Qg6 21. Rab1 Bc8 22. Nd2 Bg5 23. Qd3 b5 24. Nf1 Rd8 25. Ng3 c4
-26. Qc2 Nf6 27. Be7 Re8 28. Bxf6 Bxf6 29. axb5 axb5 30. Rxb5 Bd7 31.
-Rb4 Be7 32. Rxc4 Bb5 33. Nf5 Bxc4 34. Bxc4 Bf8 35. Bb5 Red8 36. Bc6 Ra5
-37. h3 Qf6 38. c4 g6 39. Ne3 h5 40. Qd3 Bc5 41. Qe2 Ra3 42. Rd3 Rxd3
-43. Qxd3 Rb8 44. Nd1 Bd4 45. Qc2 Qd6 46. Kh2 Qc5 47. Qe2 Kg7 48. Bb5
-Ra8 49. Ne3 Qd6 50. Nc2 Qb6 51. Nxd4 Qxd4 52. Qe3 Qb2 53. d6 Ra3 54.
-Qc5 Rd3 55. d7 Qa1 56. Qb6 Qc1 57. g3 Qe1 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Be7 7. Nf3 b6 8.
+O-O dxc4 9. Bxc4 Bb7 10. Qe2 Nbd7 11. Rd1 Ne4 12. Bd3 Nxc3 13. bxc3 Bf6 14.
+a4 c5 15. Ba3 Qc7 16. e4 e5 17. d5 a6 18. Bc4 Qd6 19. Qe3 Be7 20. Be2 Qg6
+21. Rab1 Bc8 22. Nd2 Bg5 23. Qd3 b5 24. Nf1 Rd8 25. Ng3 c4 26. Qc2 Nf6 27.
+Be7 Re8 28. Bxf6 Bxf6 29. axb5 axb5 30. Rxb5 Bd7 31. Rb4 Be7 32. Rxc4 Bb5
+33. Nf5 Bxc4 34. Bxc4 Bf8 35. Bb5 Red8 36. Bc6 Ra5 37. h3 Qf6 38. c4 g6 39.
+Ne3 h5 40. Qd3 Bc5 41. Qe2 Ra3 42. Rd3 Rxd3 43. Qxd3 Rb8 44. Nd1 Bd4 45.
+Qc2 Qd6 46. Kh2 Qc5 47. Qe2 Kg7 48. Bb5 Ra8 49. Ne3 Qd6 50. Nc2 Qb6 51.
+Nxd4 Qxd4 52. Qe3 Qb2 53. d6 Ra3 54. Qc5 Rd3 55. d7 Qa1 56. Qb6 Qc1 57. g3
+Qe1 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -538,18 +523,18 @@ Qc5 Rd3 55. d7 Qa1 56. Qb6 Qc1 57. g3 Qe1 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "A25"]
 
-1. c4 e5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. e3 Nh6 6. Nge2 d6 7. Rb1 f5
-8. d3 O-O 9. O-O Nf7 10. b4 Ne7 11. b5 g5 12. f4 Ng6 13. Nd5 Bd7 14.
-Bd2 c6 15. bxc6 bxc6 16. Ndc3 gxf4 17. exf4 exf4 18. Nxf4 Nxf4 19. gxf4
-Kh8 20. Qa4 Rg8 21. Kh1 Qc7 22. Ne2 Rgb8 23. Ba5 Qc8 24. Bc3 Bxc3 25.
-Nxc3 Qc7 26. Qa3 Rg8 27. Ne2 Rg6 28. Qc3+ Kg8 29. Bf3 Rb8 30. Ng3 Rxb1
-31. Rxb1 Nh6 32. Nh5 Ng4 33. Bxg4 fxg4 34. Nf6+ Kf7 35. Nxh7 Rh6 36.
-Qh8 Qc8 37. Ng5+ Kg6 38. Qd4 d5 39. Qe5 Qe8 40. Qxe8+ Bxe8 41. Kg2 dxc4
-42. dxc4 Kf5 43. Re1 Bd7 44. Nf7 Rf6 45. Ne5 Rd6 46. Kg3 Be6 47. Re3
-Rd1 48. Nxc6 Bxc4 49. Re5+ Kf6 50. Ra5 Be6 51. Ne5 Rg1+ 52. Kf2 Rh1
-53. Kg2 Rc1 54. Rxa7 Rc2+ 55. Kg3 Rc3+ 56. Kf2 Kf5 57. Ra5 Kf6 58. Ra6
-Kf5 59. Ra5 Kf6 60. Ra6 Kf5 61. Nc6 Kxf4 62. Nd4 Bc4 63. Ra4 Ke5 64.
-Nc6+ Kd6 65. Nb4 Rf3+ 66. Ke1 Rh3 67. Kf2 Be6 68. Kg2 Re3 1/2-1/2
+1. c4 e5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. e3 Nh6 6. Nge2 d6 7. Rb1 f5 8.
+d3 O-O 9. O-O Nf7 10. b4 Ne7 11. b5 g5 12. f4 Ng6 13. Nd5 Bd7 14. Bd2 c6
+15. bxc6 bxc6 16. Ndc3 gxf4 17. exf4 exf4 18. Nxf4 Nxf4 19. gxf4 Kh8 20.
+Qa4 Rg8 21. Kh1 Qc7 22. Ne2 Rgb8 23. Ba5 Qc8 24. Bc3 Bxc3 25. Nxc3 Qc7 26.
+Qa3 Rg8 27. Ne2 Rg6 28. Qc3+ Kg8 29. Bf3 Rb8 30. Ng3 Rxb1 31. Rxb1 Nh6 32.
+Nh5 Ng4 33. Bxg4 fxg4 34. Nf6+ Kf7 35. Nxh7 Rh6 36. Qh8 Qc8 37. Ng5+ Kg6
+38. Qd4 d5 39. Qe5 Qe8 40. Qxe8+ Bxe8 41. Kg2 dxc4 42. dxc4 Kf5 43. Re1 Bd7
+44. Nf7 Rf6 45. Ne5 Rd6 46. Kg3 Be6 47. Re3 Rd1 48. Nxc6 Bxc4 49. Re5+ Kf6
+50. Ra5 Be6 51. Ne5 Rg1+ 52. Kf2 Rh1 53. Kg2 Rc1 54. Rxa7 Rc2+ 55. Kg3 Rc3+
+56. Kf2 Kf5 57. Ra5 Kf6 58. Ra6 Kf5 59. Ra5 Kf6 60. Ra6 Kf5 61. Nc6 Kxf4
+62. Nd4 Bc4 63. Ra4 Ke5 64. Nc6+ Kd6 65. Nb4 Rf3+ 66. Ke1 Rh3 67. Kf2 Be6
+68. Kg2 Re3 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -560,9 +545,9 @@ Nc6+ Kd6 65. Nb4 Rf3+ 66. Ke1 Rh3 67. Kf2 Be6 68. Kg2 Re3 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "B29"]
 
-1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 Nc6 7. c3
-cxd4 8. Nxd4 Nxe5 9. Bb5 Bc5 10. Bf4 Ng6 11. Qe2+ Qe7 12. Be3 Bxd4 13.
-Bxd4 1/2-1/2
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 Nc6 7. c3 cxd4
+8. Nxd4 Nxe5 9. Bb5 Bc5 10. Bf4 Ng6 11. Qe2+ Qe7 12. Be3 Bxd4 13. Bxd4
+1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -573,16 +558,15 @@ Bxd4 1/2-1/2
 [Result "0-1"]
 [ECO "A15"]
 
-1. c4 Nf6 2. Nf3 b6 3. e3 Bb7 4. b3 g6 5. Bb2 Bg7 6. d4 O-O 7. Be2 e6
-8. O-O d6 9. Nc3 Nbd7 10. Qc2 c5 11. Rfd1 Qe7 12. dxc5 Nxc5 13. Nd4 a6
-14. Bf3 Rac8 15. Bxb7 Qxb7 16. Qe2 Rfd8 17. Rac1 d5 18. cxd5 Nxd5 19.
-Nxd5 Rxd5 20. b4 Na4 21. Ba1 b5 22. Nb3 Bxa1 23. Rxc8+ Qxc8 24. Rxa1
-Qc4 25. Qxc4 bxc4 26. Nc5 Nxc5 27. bxc5 Rxc5 28. Kf1 Kf8 29. Ke2 Rb5
-30. Rc1 Rb2+ 31. Kf3 Rxa2 32. Rxc4 a5 33. Rc7 Kg7 34. h4 h5 35. Rb7 Kf6
-36. Rb5 a4 37. Ra5 a3 38. g3 Ke7 39. Ra7+ Kd6 40. Rxf7 Rc2 41. Ra7 a2
-42. Kf4 Rxf2+ 43. Kg5 Rg2 44. Kxg6 Rxg3+ 45. Kxh5 Rg2 46. Ra5 Kc6 47.
-Kh6 Kb6 48. Ra8 Kb5 49. h5 Kc4 50. Kh7 Kb3 51. h6 Rg4 52. Rxa2 Kxa2
-53. Kh8 e5 54. h7 Kb3 55. e4 Rxe4 0-1
+1. c4 Nf6 2. Nf3 b6 3. e3 Bb7 4. b3 g6 5. Bb2 Bg7 6. d4 O-O 7. Be2 e6 8.
+O-O d6 9. Nc3 Nbd7 10. Qc2 c5 11. Rfd1 Qe7 12. dxc5 Nxc5 13. Nd4 a6 14. Bf3
+Rac8 15. Bxb7 Qxb7 16. Qe2 Rfd8 17. Rac1 d5 18. cxd5 Nxd5 19. Nxd5 Rxd5 20.
+b4 Na4 21. Ba1 b5 22. Nb3 Bxa1 23. Rxc8+ Qxc8 24. Rxa1 Qc4 25. Qxc4 bxc4
+26. Nc5 Nxc5 27. bxc5 Rxc5 28. Kf1 Kf8 29. Ke2 Rb5 30. Rc1 Rb2+ 31. Kf3
+Rxa2 32. Rxc4 a5 33. Rc7 Kg7 34. h4 h5 35. Rb7 Kf6 36. Rb5 a4 37. Ra5 a3
+38. g3 Ke7 39. Ra7+ Kd6 40. Rxf7 Rc2 41. Ra7 a2 42. Kf4 Rxf2+ 43. Kg5 Rg2
+44. Kxg6 Rxg3+ 45. Kxh5 Rg2 46. Ra5 Kc6 47. Kh6 Kb6 48. Ra8 Kb5 49. h5 Kc4
+50. Kh7 Kb3 51. h6 Rg4 52. Rxa2 Kxa2 53. Kh8 e5 54. h7 Kb3 55. e4 Rxe4 0-1
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -593,13 +577,13 @@ Kh6 Kb6 48. Ra8 Kb5 49. h5 Kc4 50. Kh7 Kb3 51. h6 Rg4 52. Rxa2 Kxa2
 [Result "0-1"]
 [ECO "B13"]
 
-1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. h3 e5 7. dxe5
-Nxe5 8. Be2 Bd6 9. Nd2 Qe7 10. Ndf3 Nc6 11. Be3 O-O 12. Nd4 Ne4 13. Qd3
-Ne5 14. Qb5 Nc5 15. b4 a6 16. Qa5 Ncd3+ 17. Bxd3 Nxd3+ 18. Kf1 Be6 19.
-Nge2 Rac8 20. Qa3 Qf6 21. Rd1 Bf5 22. Nxf5 Qxf5 23. Qb3 Rfe8 24. Nd4
-Qe4 25. Qc2 Nf4 26. Bxf4 Qxf4 27. Qd3 Be5 28. Ne2 Qf6 29. Rc1 Bf4 30.
-Rc2 Be3 31. Ng3 g6 32. h4 Qf4 33. Rh3 Bb6 34. Nh1 Re4 35. Qxd5 Rd8 36.
-g3 Qf3 37. Qxe4 Qxe4 0-1
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. h3 e5 7. dxe5 Nxe5
+8. Be2 Bd6 9. Nd2 Qe7 10. Ndf3 Nc6 11. Be3 O-O 12. Nd4 Ne4 13. Qd3 Ne5 14.
+Qb5 Nc5 15. b4 a6 16. Qa5 Ncd3+ 17. Bxd3 Nxd3+ 18. Kf1 Be6 19. Nge2 Rac8
+20. Qa3 Qf6 21. Rd1 Bf5 22. Nxf5 Qxf5 23. Qb3 Rfe8 24. Nd4 Qe4 25. Qc2 Nf4
+26. Bxf4 Qxf4 27. Qd3 Be5 28. Ne2 Qf6 29. Rc1 Bf4 30. Rc2 Be3 31. Ng3 g6
+32. h4 Qf4 33. Rh3 Bb6 34. Nh1 Re4 35. Qxd5 Rd8 36. g3 Qf3 37. Qxe4 Qxe4
+0-1
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -610,13 +594,12 @@ g3 Qf3 37. Qxe4 Qxe4 0-1
 [Result "1-0"]
 [ECO "E52"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7
-8. Bd2 Bd6 9. Qc2 c5 10. cxd5 exd5 11. Ne5 c4 12. Bf5 Nc6 13. f4 Ne7
-14. Bh3 a6 15. Be1 Ng6 16. g4 b5 17. g5 Ne4 18. Nxe4 dxe4 19. Ng4 Kh8
-20. Bg2 Re8 21. h4 Qd7 22. f5 Ne7 23. Ne5 Bxe5 24. dxe5 Nc6 25. Rd1 Qc7
-26. e6 fxe6 27. f6 Ne5 28. fxg7+ Kg8 29. Bxe4 Bxe4 30. Qxe4 Nd3 31.
-Rf8+ Kxg7 32. Rxe8 Rxe8 33. Bc3+ Kg8 34. Kg2 Qd7 35. g6 Qd5 36. gxh7+
-1-0
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 b6 7. O-O Bb7 8.
+Bd2 Bd6 9. Qc2 c5 10. cxd5 exd5 11. Ne5 c4 12. Bf5 Nc6 13. f4 Ne7 14. Bh3
+a6 15. Be1 Ng6 16. g4 b5 17. g5 Ne4 18. Nxe4 dxe4 19. Ng4 Kh8 20. Bg2 Re8
+21. h4 Qd7 22. f5 Ne7 23. Ne5 Bxe5 24. dxe5 Nc6 25. Rd1 Qc7 26. e6 fxe6 27.
+f6 Ne5 28. fxg7+ Kg8 29. Bxe4 Bxe4 30. Qxe4 Nd3 31. Rf8+ Kxg7 32. Rxe8 Rxe8
+33. Bc3+ Kg8 34. Kg2 Qd7 35. g6 Qd5 36. gxh7+ 1-0
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -627,11 +610,11 @@ Rf8+ Kxg7 32. Rxe8 Rxe8 33. Bc3+ Kg8 34. Kg2 Qd7 35. g6 Qd5 36. gxh7+
 [Result "1/2-1/2"]
 [ECO "B82"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. f4 a6 7. Be3 b5
-8. Qf3 Bb7 9. Bd3 Nbd7 10. g4 b4 11. Nce2 Nc5 12. Ng3 Be7 13. g5 Nfd7
-14. O-O-O Qc7 15. Kb1 g6 16. h4 O-O-O 17. Qe2 Kb8 18. h5 Nb6 19. Nb3
-Nba4 20. Nxc5 Nxc5 21. Bxc5 dxc5 22. Bxa6 Qxf4 23. Bxb7 Kxb7 24. Qb5+
-Kc7 25. Qa5+ 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. f4 a6 7. Be3 b5 8.
+Qf3 Bb7 9. Bd3 Nbd7 10. g4 b4 11. Nce2 Nc5 12. Ng3 Be7 13. g5 Nfd7 14.
+O-O-O Qc7 15. Kb1 g6 16. h4 O-O-O 17. Qe2 Kb8 18. h5 Nb6 19. Nb3 Nba4 20.
+Nxc5 Nxc5 21. Bxc5 dxc5 22. Bxa6 Qxf4 23. Bxb7 Kxb7 24. Qb5+ Kc7 25. Qa5+
+1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -642,9 +625,9 @@ Kc7 25. Qa5+ 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "A07"]
 
-1. g3 Nf6 2. Bg2 d5 3. Nf3 c6 4. O-O Bg4 5. d3 Nbd7 6. Nbd2 e5 7. e4
-Bd6 8. h3 Bh5 9. Qe1 O-O 10. Nh4 Re8 11. a3 a5 12. b3 b5 13. Bb2 a4
-14. b4 dxe4 15. Nxe4 Nxe4 16. Qxe4 Rc8 1/2-1/2
+1. g3 Nf6 2. Bg2 d5 3. Nf3 c6 4. O-O Bg4 5. d3 Nbd7 6. Nbd2 e5 7. e4 Bd6 8.
+h3 Bh5 9. Qe1 O-O 10. Nh4 Re8 11. a3 a5 12. b3 b5 13. Bb2 a4 14. b4 dxe4
+15. Nxe4 Nxe4 16. Qxe4 Rc8 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -655,12 +638,11 @@ Bd6 8. h3 Bh5 9. Qe1 O-O 10. Nh4 Re8 11. a3 a5 12. b3 b5 13. Bb2 a4
 [Result "1-0"]
 [ECO "D42"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e3 cxd4 7. exd4
-Be7 8. Bd3 Nc6 9. O-O O-O 10. Re1 Re8 11. a3 g6 12. Bc4 Nxc3 13. bxc3
-Bf6 14. Bh6 Bd7 15. Qd2 Ne7 16. Ne5 Nf5 17. Bf4 Rc8 18. Ba2 Bc6 19. Ng4
-Bg7 20. Bg5 Qd6 21. Nf6+ Bxf6 22. Bxf6 Bd5 23. g4 Ng7 24. Qh6 Qf8 25.
-Re3 Bxa2 26. Rxa2 e5 27. Rh3 Nh5 28. Qxf8+ Kxf8 29. gxh5 exd4 30. Bxd4
-1-0
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e3 cxd4 7. exd4 Be7
+8. Bd3 Nc6 9. O-O O-O 10. Re1 Re8 11. a3 g6 12. Bc4 Nxc3 13. bxc3 Bf6 14.
+Bh6 Bd7 15. Qd2 Ne7 16. Ne5 Nf5 17. Bf4 Rc8 18. Ba2 Bc6 19. Ng4 Bg7 20. Bg5
+Qd6 21. Nf6+ Bxf6 22. Bxf6 Bd5 23. g4 Ng7 24. Qh6 Qf8 25. Re3 Bxa2 26. Rxa2
+e5 27. Rh3 Nh5 28. Qxf8+ Kxf8 29. gxh5 exd4 30. Bxd4 1-0
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -671,13 +653,13 @@ Re3 Bxa2 26. Rxa2 e5 27. Rh3 Nh5 28. Qxf8+ Kxf8 29. gxh5 exd4 30. Bxd4
 [Result "1/2-1/2"]
 [ECO "A48"]
 
-1. Nf3 g6 2. d4 Bg7 3. c3 Nf6 4. Bg5 O-O 5. Nbd2 d5 6. h3 c6 7. e3 Bf5
-8. Be2 Qb6 9. Qb3 Nbd7 10. O-O Rfe8 11. Bf4 Ne4 12. Nxe4 Bxe4 13. Qxb6
-axb6 14. Nd2 Bf5 15. g4 Be6 16. a3 b5 17. f3 Nb6 18. Bd3 Nc4 19. Nxc4
-bxc4 20. Bc2 Bd7 21. e4 f6 22. Rad1 e5 23. Be3 Be6 24. Rfe1 Bf7 25. f4
-exf4 26. Bxf4 dxe4 27. Bxe4 Bd5 28. Bc2 Kf7 29. Kf2 Rxe1 30. Rxe1 Re8
-31. Rxe8 Kxe8 32. h4 Kf7 33. g5 Ke6 34. Kg3 f5 35. Bb8 Be4 36. Bd1 Kd5
-37. Kf4 Bf8 38. b4 Be7 39. Bc7 Bf8 40. Ke3 Ke6 1/2-1/2
+1. Nf3 g6 2. d4 Bg7 3. c3 Nf6 4. Bg5 O-O 5. Nbd2 d5 6. h3 c6 7. e3 Bf5 8.
+Be2 Qb6 9. Qb3 Nbd7 10. O-O Rfe8 11. Bf4 Ne4 12. Nxe4 Bxe4 13. Qxb6 axb6
+14. Nd2 Bf5 15. g4 Be6 16. a3 b5 17. f3 Nb6 18. Bd3 Nc4 19. Nxc4 bxc4 20.
+Bc2 Bd7 21. e4 f6 22. Rad1 e5 23. Be3 Be6 24. Rfe1 Bf7 25. f4 exf4 26. Bxf4
+dxe4 27. Bxe4 Bd5 28. Bc2 Kf7 29. Kf2 Rxe1 30. Rxe1 Re8 31. Rxe8 Kxe8 32.
+h4 Kf7 33. g5 Ke6 34. Kg3 f5 35. Bb8 Be4 36. Bd1 Kd5 37. Kf4 Bf8 38. b4 Be7
+39. Bc7 Bf8 40. Ke3 Ke6 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -688,11 +670,11 @@ exf4 26. Bxf4 dxe4 27. Bxe4 Bd5 28. Bc2 Kf7 29. Kf2 Rxe1 30. Rxe1 Re8
 [Result "1/2-1/2"]
 [ECO "C16"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 b6 7. Qg4
-Kf8 8. Nh3 c5 9. a4 Qc7 10. Kd1 Ba6 11. Bxa6 Nxa6 12. Qe2 Nb8 13. Ng5
-h6 14. Nf3 Nd7 15. a5 bxa5 16. Qd3 Nc6 17. Ba3 Kg8 18. Re1 cxd4 19. Bd6
-Qc8 20. cxd4 Nb6 21. Nd2 Nb4 22. Qb3 Nc6 23. c3 Qa6 24. Rb1 Kh7 25. Qb5
-Qxb5 26. Rxb5 Rhc8 27. Ke2 Na4 1/2-1/2
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 b6 7. Qg4 Kf8 8.
+Nh3 c5 9. a4 Qc7 10. Kd1 Ba6 11. Bxa6 Nxa6 12. Qe2 Nb8 13. Ng5 h6 14. Nf3
+Nd7 15. a5 bxa5 16. Qd3 Nc6 17. Ba3 Kg8 18. Re1 cxd4 19. Bd6 Qc8 20. cxd4
+Nb6 21. Nd2 Nb4 22. Qb3 Nc6 23. c3 Qa6 24. Rb1 Kh7 25. Qb5 Qxb5 26. Rxb5
+Rhc8 27. Ke2 Na4 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -703,10 +685,10 @@ Qxb5 26. Rxb5 Rhc8 27. Ke2 Na4 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "A26"]
 
-1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d3 g6 5. g3 Bg7 6. Bg2 O-O 7. O-O d6
-8. Rb1 a5 9. a3 h6 10. b4 axb4 11. axb4 Be6 12. b5 Ne7 13. Qb3 Nd7 14.
-Nd2 Nc5 15. Qc2 Qd7 16. Nde4 Nxe4 17. Nxe4 Kh7 18. Bd2 Rg8 19. Rfc1 f5
-20. Nc3 c6 21. Na4 Nc8 22. c5 d5 23. bxc6 Qxc6 24. Rb4 Ra6 1/2-1/2
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d3 g6 5. g3 Bg7 6. Bg2 O-O 7. O-O d6 8.
+Rb1 a5 9. a3 h6 10. b4 axb4 11. axb4 Be6 12. b5 Ne7 13. Qb3 Nd7 14. Nd2 Nc5
+15. Qc2 Qd7 16. Nde4 Nxe4 17. Nxe4 Kh7 18. Bd2 Rg8 19. Rfc1 f5 20. Nc3 c6
+21. Na4 Nc8 22. c5 d5 23. bxc6 Qxc6 24. Rb4 Ra6 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -717,19 +699,18 @@ Nd2 Nc5 15. Qc2 Qd7 16. Nde4 Nxe4 17. Nxe4 Kh7 18. Bd2 Rg8 19. Rfc1 f5
 [Result "1-0"]
 [ECO "A08"]
 
-1. g3 d5 2. Bg2 Nf6 3. Nf3 c5 4. O-O Nc6 5. d3 e6 6. Nbd2 Be7 7. e4 O-O
-8. Re1 b5 9. e5 Nd7 10. Nf1 a5 11. h4 b4 12. Bf4 Ba6 13. Ng5 Qe8 14.
-Qg4 Kh8 15. Rad1 Rc8 16. Bh3 Nb6 17. Bc1 Rb8 18. Nh2 Nd4 19. Rd2 Bc8
-20. c3 bxc3 21. bxc3 Nf5 22. Rb2 Ba6 23. Qd1 Bb5 24. Bxf5 exf5 25. Bf4
-Bxg5 26. hxg5 Na4 27. Rc2 Qe6 28. d4 cxd4 29. Qxd4 Rbc8 30. Nf3 Nc5
-31. Qe3 Ba4 32. Rb2 Qa6 33. Reb1 Ne4 34. Rc1 Qc4 35. Nd2 Nxd2 36. Rxd2
-Bd7 37. Qa7 Be6 38. Qxa5 Qe4 39. Rd4 Qf3 40. Qb4 Rb8 41. Qa4 Rfc8 42.
-Qd1 Qxd1+ 43. Rdxd1 Ra8 44. Rd2 Rcb8 45. Be3 Kg8 46. Bd4 Rb5 47. f3
-Rba5 48. Rcc2 g6 49. Kf2 Kg7 50. Ke3 Ra4 51. Rh2 R4a5 52. Rb2 Kg8 53.
-Kd3 Kg7 54. Bb6 Ra3 55. Bc5 R3a4 56. Be7 h5 57. gxh6+ Kh7 58. a3 R4a7
-59. Bb4 Ra6 60. Rbd2 Rc6 61. Ke3 Ra4 62. Rd4 Ra8 63. Kf4 Rcc8 64. Kg5
-Rcb8 65. Ra2 Ra4 66. Rh2 Raa8 67. Rh1 Rb7 68. Ra1 Ra4 69. Rad1 Rb5 70.
-c4 dxc4 71. Rd8 Ra7 72. Bf8 f6+ 73. Kxf6 1-0
+1. g3 d5 2. Bg2 Nf6 3. Nf3 c5 4. O-O Nc6 5. d3 e6 6. Nbd2 Be7 7. e4 O-O 8.
+Re1 b5 9. e5 Nd7 10. Nf1 a5 11. h4 b4 12. Bf4 Ba6 13. Ng5 Qe8 14. Qg4 Kh8
+15. Rad1 Rc8 16. Bh3 Nb6 17. Bc1 Rb8 18. Nh2 Nd4 19. Rd2 Bc8 20. c3 bxc3
+21. bxc3 Nf5 22. Rb2 Ba6 23. Qd1 Bb5 24. Bxf5 exf5 25. Bf4 Bxg5 26. hxg5
+Na4 27. Rc2 Qe6 28. d4 cxd4 29. Qxd4 Rbc8 30. Nf3 Nc5 31. Qe3 Ba4 32. Rb2
+Qa6 33. Reb1 Ne4 34. Rc1 Qc4 35. Nd2 Nxd2 36. Rxd2 Bd7 37. Qa7 Be6 38. Qxa5
+Qe4 39. Rd4 Qf3 40. Qb4 Rb8 41. Qa4 Rfc8 42. Qd1 Qxd1+ 43. Rdxd1 Ra8 44.
+Rd2 Rcb8 45. Be3 Kg8 46. Bd4 Rb5 47. f3 Rba5 48. Rcc2 g6 49. Kf2 Kg7 50.
+Ke3 Ra4 51. Rh2 R4a5 52. Rb2 Kg8 53. Kd3 Kg7 54. Bb6 Ra3 55. Bc5 R3a4 56.
+Be7 h5 57. gxh6+ Kh7 58. a3 R4a7 59. Bb4 Ra6 60. Rbd2 Rc6 61. Ke3 Ra4 62.
+Rd4 Ra8 63. Kf4 Rcc8 64. Kg5 Rcb8 65. Ra2 Ra4 66. Rh2 Raa8 67. Rh1 Rb7 68.
+Ra1 Ra4 69. Rad1 Rb5 70. c4 dxc4 71. Rd8 Ra7 72. Bf8 f6+ 73. Kxf6 1-0
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -740,13 +721,13 @@ c4 dxc4 71. Rd8 Ra7 72. Bf8 f6+ 73. Kxf6 1-0
 [Result "1-0"]
 [ECO "E45"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Nge2 Ba6 6. a3 Be7 7. Nf4 d5
-8. b3 O-O 9. Bb2 Bb7 10. Bd3 Nbd7 11. O-O c6 12. Qe2 Bd6 13. Nh5 Qe7
-14. e4 Nxh5 15. Qxh5 Nf6 16. Qh3 dxe4 17. Nxe4 Nxe4 18. Bxe4 f5 19. Bf3
-Rae8 20. Rfe1 a5 21. g3 c5 22. Qg2 Bxf3 23. Qxf3 cxd4 24. Bxd4 Bc5 25.
-Qe3 f4 26. Qe4 fxg3 27. hxg3 Qc7 28. Re2 Bxd4 29. Qxd4 Qc6 30. Rae1 Rf3
-31. Re3 Rxe3 32. Rxe3 Rf8 33. b4 axb4 34. axb4 Rf6 35. Rd3 h6 36. Ra3
-Rf8 37. Ra7 Rf7 38. Qd8+ Rf8 39. Qe7 1-0
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Be7 7. Nf4 d5 8. b3
+O-O 9. Bb2 Bb7 10. Bd3 Nbd7 11. O-O c6 12. Qe2 Bd6 13. Nh5 Qe7 14. e4 Nxh5
+15. Qxh5 Nf6 16. Qh3 dxe4 17. Nxe4 Nxe4 18. Bxe4 f5 19. Bf3 Rae8 20. Rfe1
+a5 21. g3 c5 22. Qg2 Bxf3 23. Qxf3 cxd4 24. Bxd4 Bc5 25. Qe3 f4 26. Qe4
+fxg3 27. hxg3 Qc7 28. Re2 Bxd4 29. Qxd4 Qc6 30. Rae1 Rf3 31. Re3 Rxe3 32.
+Rxe3 Rf8 33. b4 axb4 34. axb4 Rf6 35. Rd3 h6 36. Ra3 Rf8 37. Ra7 Rf7 38.
+Qd8+ Rf8 39. Qe7 1-0
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -757,13 +738,13 @@ Rf8 37. Ra7 Rf7 38. Qd8+ Rf8 39. Qe7 1-0
 [Result "0-1"]
 [ECO "D94"]
 
-1. c4 c6 2. Nc3 d5 3. d4 Nf6 4. e3 g6 5. Nf3 Bg7 6. Be2 O-O 7. O-O Ne4
-8. Qb3 dxc4 9. Bxc4 Nd6 10. Bd3 Bg4 11. Ne5 Be6 12. Qc2 Nd7 13. f4 f5
-14. Bd2 Nf6 15. b4 Bd5 16. a4 Nfe4 17. b5 Nxc3 18. Bxc3 cxb5 19. axb5
-Ne4 20. Bb4 Bxe5 21. fxe5 Qd7 22. Rfc1 Rfc8 23. Qb2 b6 24. Qa3 e6 25.
-h3 Bb7 26. Bd6 g5 27. Bc4 Bd5 28. Bxd5 exd5 29. Rxc8+ Rxc8 30. Qxa7
-Qxa7 31. Rxa7 Rc1+ 32. Kh2 f4 33. exf4 gxf4 34. Ra8+ Kg7 35. Ba3 Rf1
-36. Bb2 Rb1 37. e6 Ng3 38. Ra1 Rxb2 39. Re1 Re2 0-1
+1. c4 c6 2. Nc3 d5 3. d4 Nf6 4. e3 g6 5. Nf3 Bg7 6. Be2 O-O 7. O-O Ne4 8.
+Qb3 dxc4 9. Bxc4 Nd6 10. Bd3 Bg4 11. Ne5 Be6 12. Qc2 Nd7 13. f4 f5 14. Bd2
+Nf6 15. b4 Bd5 16. a4 Nfe4 17. b5 Nxc3 18. Bxc3 cxb5 19. axb5 Ne4 20. Bb4
+Bxe5 21. fxe5 Qd7 22. Rfc1 Rfc8 23. Qb2 b6 24. Qa3 e6 25. h3 Bb7 26. Bd6 g5
+27. Bc4 Bd5 28. Bxd5 exd5 29. Rxc8+ Rxc8 30. Qxa7 Qxa7 31. Rxa7 Rc1+ 32.
+Kh2 f4 33. exf4 gxf4 34. Ra8+ Kg7 35. Ba3 Rf1 36. Bb2 Rb1 37. e6 Ng3 38.
+Ra1 Rxb2 39. Re1 Re2 0-1
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -774,14 +755,13 @@ Qxa7 31. Rxa7 Rc1+ 32. Kh2 f4 33. exf4 gxf4 34. Ra8+ Kg7 35. Ba3 Rf1
 [Result "1/2-1/2"]
 [ECO "B20"]
 
-1. e4 e6 2. d3 c5 3. g3 Nc6 4. Bg2 g6 5. f4 Bg7 6. Nf3 Nge7 7. O-O O-O
-8. Nbd2 d5 9. e5 Nf5 10. Re1 b6 11. g4 Nfd4 12. c3 Nxf3+ 13. Nxf3 a5
-14. Be3 f5 15. exf6 Bxf6 16. Bf2 Ra7 17. Bg3 b5 18. Re2 d4 19. Rc1 dxc3
-20. bxc3 Rd7 21. Ne1 Rd6 22. Qb3 Qb6 23. Bf2 Be7 24. a4 Na7 25. Re5
-Rxf4 26. Bxc5 Qc7 27. axb5 Rb6 28. Bxb6 Qxb6+ 29. d4 Rxg4 30. Qd1 Rf4
-31. Qe2 Bf6 32. Rc5 Rxd4 33. cxd4 Bxd4+ 34. Kh1 Bxc5 35. Nd3 Be3 36.
-Re1 Bd4 37. Ne5 Qxb5 38. Qxb5 Nxb5 39. Nc6 Bf6 40. Rb1 Nd6 41. Rb8 Kf7
-1/2-1/2
+1. e4 e6 2. d3 c5 3. g3 Nc6 4. Bg2 g6 5. f4 Bg7 6. Nf3 Nge7 7. O-O O-O 8.
+Nbd2 d5 9. e5 Nf5 10. Re1 b6 11. g4 Nfd4 12. c3 Nxf3+ 13. Nxf3 a5 14. Be3
+f5 15. exf6 Bxf6 16. Bf2 Ra7 17. Bg3 b5 18. Re2 d4 19. Rc1 dxc3 20. bxc3
+Rd7 21. Ne1 Rd6 22. Qb3 Qb6 23. Bf2 Be7 24. a4 Na7 25. Re5 Rxf4 26. Bxc5
+Qc7 27. axb5 Rb6 28. Bxb6 Qxb6+ 29. d4 Rxg4 30. Qd1 Rf4 31. Qe2 Bf6 32. Rc5
+Rxd4 33. cxd4 Bxd4+ 34. Kh1 Bxc5 35. Nd3 Be3 36. Re1 Bd4 37. Ne5 Qxb5 38.
+Qxb5 Nxb5 39. Nc6 Bf6 40. Rb1 Nd6 41. Rb8 Kf7 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -792,9 +772,9 @@ Re1 Bd4 37. Ne5 Qxb5 38. Qxb5 Nxb5 39. Nc6 Bf6 40. Rb1 Nd6 41. Rb8 Kf7
 [Result "1/2-1/2"]
 [ECO "A01"]
 
-1. b3 d5 2. Bb2 Bg4 3. Nf3 Nd7 4. e3 Ngf6 5. Be2 e6 6. O-O Bd6 7. c4 c6
-8. d3 O-O 9. a3 Qe7 10. Nbd2 a5 11. Nd4 Bxe2 12. Qxe2 Rfc8 13. Rfc1 Ne8
-14. cxd5 cxd5 15. Nb5 Be5 16. Bxe5 1/2-1/2
+1. b3 d5 2. Bb2 Bg4 3. Nf3 Nd7 4. e3 Ngf6 5. Be2 e6 6. O-O Bd6 7. c4 c6 8.
+d3 O-O 9. a3 Qe7 10. Nbd2 a5 11. Nd4 Bxe2 12. Qxe2 Rfc8 13. Rfc1 Ne8 14.
+cxd5 cxd5 15. Nb5 Be5 16. Bxe5 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -805,9 +785,9 @@ Re1 Bd4 37. Ne5 Qxb5 38. Qxb5 Nxb5 39. Nc6 Bf6 40. Rb1 Nd6 41. Rb8 Kf7
 [Result "1/2-1/2"]
 [ECO "B14"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Qb3 c5 7. cxd5
-cxd4 8. exd4 Nbd7 9. Be2 Nb6 10. Bf3 Bg4 11. Bxg4 Nxg4 12. Nf3 Nf6 13.
-d6 exd6 14. O-O Nh5 15. Bg5 Qd7 1/2-1/2
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Qb3 c5 7. cxd5 cxd4 8.
+exd4 Nbd7 9. Be2 Nb6 10. Bf3 Bg4 11. Bxg4 Nxg4 12. Nf3 Nf6 13. d6 exd6 14.
+O-O Nh5 15. Bg5 Qd7 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -818,13 +798,13 @@ d6 exd6 14. O-O Nh5 15. Bg5 Qd7 1/2-1/2
 [Result "0-1"]
 [ECO "A71"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7
-8. Bg5 h6 9. Bh4 a6 10. Nd2 b5 11. Qc2 O-O 12. Be2 Re8 13. O-O Nbd7
-14. a4 b4 15. Nd1 b3 16. Qxb3 g5 17. Bg3 Nxe4 18. Nxe4 Rxe4 19. Qc2 Nf6
-20. Ne3 Bb7 21. Nf5 Bxd5 22. Rad1 Re6 23. h4 Be4 24. Bd3 Bxd3 25. Rxd3
-Ne4 26. Bxd6 Nxd6 27. Qxc5 Qc8 28. Qxc8+ Nxc8 29. Rd8+ Kh7 30. Rd7 Ra7
-31. Rxa7 Nxa7 32. hxg5 hxg5 33. Rd1 Nc6 34. b3 Be5 35. Rd7 Kg6 36. g4
-Bf4 37. Rb7 Ne5 38. Ne7+ Kg7 39. Nf5+ Kf6 40. Nh6 Kg6 0-1
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8.
+Bg5 h6 9. Bh4 a6 10. Nd2 b5 11. Qc2 O-O 12. Be2 Re8 13. O-O Nbd7 14. a4 b4
+15. Nd1 b3 16. Qxb3 g5 17. Bg3 Nxe4 18. Nxe4 Rxe4 19. Qc2 Nf6 20. Ne3 Bb7
+21. Nf5 Bxd5 22. Rad1 Re6 23. h4 Be4 24. Bd3 Bxd3 25. Rxd3 Ne4 26. Bxd6
+Nxd6 27. Qxc5 Qc8 28. Qxc8+ Nxc8 29. Rd8+ Kh7 30. Rd7 Ra7 31. Rxa7 Nxa7 32.
+hxg5 hxg5 33. Rd1 Nc6 34. b3 Be5 35. Rd7 Kg6 36. g4 Bf4 37. Rb7 Ne5 38.
+Ne7+ Kg7 39. Nf5+ Kf6 40. Nh6 Kg6 0-1
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -835,13 +815,12 @@ Bf4 37. Rb7 Ne5 38. Ne7+ Kg7 39. Nf5+ Kf6 40. Nh6 Kg6 0-1
 [Result "1-0"]
 [ECO "E99"]
 
-1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6
-8. d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 13. c5 g5 14. Rc1
-Ng6 15. cxd6 cxd6 16. Nb5 Rf7 17. Qc2 Ne8 18. a4 h5 19. Nf2 Bd7 20. Qb3
-Bf8 21. Rc2 Rg7 22. h3 Nh4 23. Rfc1 g4 24. fxg4 hxg4 25. hxg4 Rh7 26.
-Rc3 Bh6 27. Qd1 a6 28. Na3 Rb8 29. a5 f3 30. Bxf3 Bxd2 31. Qxd2 Qxa5
-32. Qg5+ Kf8 33. g3 Nxf3+ 34. Rxf3+ Rf7 35. Rcc3 Qd8 36. Qh6+ Ng7 37.
-Qxd6+ 1-0
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8.
+d5 Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 13. c5 g5 14. Rc1 Ng6
+15. cxd6 cxd6 16. Nb5 Rf7 17. Qc2 Ne8 18. a4 h5 19. Nf2 Bd7 20. Qb3 Bf8 21.
+Rc2 Rg7 22. h3 Nh4 23. Rfc1 g4 24. fxg4 hxg4 25. hxg4 Rh7 26. Rc3 Bh6 27.
+Qd1 a6 28. Na3 Rb8 29. a5 f3 30. Bxf3 Bxd2 31. Qxd2 Qxa5 32. Qg5+ Kf8 33.
+g3 Nxf3+ 34. Rxf3+ Rf7 35. Rcc3 Qd8 36. Qh6+ Ng7 37. Qxd6+ 1-0
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -852,12 +831,12 @@ Qxd6+ 1-0
 [Result "0-1"]
 [ECO "A06"]
 
-1. Nf3 d5 2. b3 c5 3. e3 Nc6 4. Bb2 e6 5. Bb5 Nge7 6. O-O a6 7. Be2 d4
-8. b4 Ng6 9. bxc5 Bxc5 10. exd4 Nxd4 11. Nxd4 Bxd4 12. c3 Bc5 13. d4
-Bd6 14. Nd2 O-O 15. g3 b5 16. a4 Bd7 17. Bf3 Rc8 18. axb5 axb5 19. Ra6
-Bc7 20. Ne4 e5 21. Nc5 Bh3 22. Re1 Bb6 23. Nb7 Qc7 24. Ba3 exd4 25. Bd6
-Qxc3 26. Ra3 Qc2 27. Qxc2 Rxc2 28. Bxf8 Nxf8 29. Rd3 Ne6 30. Bd1 Rc1
-31. Nd6 h5 32. f3 Nc5 33. Rd2 d3 34. Nc8 Ba5 0-1
+1. Nf3 d5 2. b3 c5 3. e3 Nc6 4. Bb2 e6 5. Bb5 Ne7 6. O-O a6 7. Be2 d4 8. b4
+Ng6 9. bxc5 Bxc5 10. exd4 Nxd4 11. Nxd4 Bxd4 12. c3 Bc5 13. d4 Bd6 14. Nd2
+O-O 15. g3 b5 16. a4 Bd7 17. Bf3 Rc8 18. axb5 axb5 19. Ra6 Bc7 20. Ne4 e5
+21. Nc5 Bh3 22. Re1 Bb6 23. Nb7 Qc7 24. Ba3 exd4 25. Bd6 Qxc3 26. Ra3 Qc2
+27. Qxc2 Rxc2 28. Bxf8 Nxf8 29. Rd3 Ne6 30. Bd1 Rc1 31. Nd6 h5 32. f3 Nc5
+33. Rd2 d3 34. Nc8 Ba5 0-1
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -868,13 +847,12 @@ Qxc3 26. Ra3 Qc2 27. Qxc2 Rxc2 28. Bxf8 Nxf8 29. Rd3 Ne6 30. Bd1 Rc1
 [Result "1-0"]
 [ECO "B85"]
 
-1. e4 c5 2. Nf3 e6 3. Nc3 d6 4. Be2 Nf6 5. d4 cxd4 6. Nxd4 Be7 7. O-O
-a6 8. f4 O-O 9. Bf3 Qc7 10. Be3 Nc6 11. Kh1 Rd8 12. g4 Nxd4 13. Qxd4
-Nd7 14. g5 b5 15. Bg2 Bb7 16. f5 Ne5 17. fxe6 fxe6 18. Bh3 Bc8 19. a4
-b4 20. Ne2 Ng6 21. Qd2 Bd7 22. Nd4 Nf8 23. Qf2 Re8 24. Qf7+ Kh8 25. Rf2
-Qb7 26. Bg2 Qc8 27. Nf5 exf5 28. exf5 Ne6 29. fxe6 Bxe6 30. Qh5 Bg4
-31. Qh4 Rb8 32. Bd4 Qe6 33. Rf4 Bf5 34. Re1 Qg6 35. Qf2 Bxc2 36. Rxe7
-1-0
+1. e4 c5 2. Nf3 e6 3. Nc3 d6 4. Be2 Nf6 5. d4 cxd4 6. Nxd4 Be7 7. O-O a6 8.
+f4 O-O 9. Bf3 Qc7 10. Be3 Nc6 11. Kh1 Rd8 12. g4 Nxd4 13. Qxd4 Nd7 14. g5
+b5 15. Bg2 Bb7 16. f5 Ne5 17. fxe6 fxe6 18. Bh3 Bc8 19. a4 b4 20. Ne2 Ng6
+21. Qd2 Bd7 22. Nd4 Nf8 23. Qf2 Re8 24. Qf7+ Kh8 25. Rf2 Qb7 26. Bg2 Qc8
+27. Nf5 exf5 28. exf5 Ne6 29. fxe6 Bxe6 30. Qh5 Bg4 31. Qh4 Rb8 32. Bd4 Qe6
+33. Rf4 Bf5 34. Re1 Qg6 35. Qf2 Bxc2 36. Rxe7 1-0
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -885,10 +863,10 @@ Qb7 26. Bg2 Qc8 27. Nf5 exf5 28. exf5 Ne6 29. fxe6 Bxe6 30. Qh5 Bg4
 [Result "1/2-1/2"]
 [ECO "A49"]
 
-1. d4 g6 2. g3 Bg7 3. Bg2 Nf6 4. Nf3 O-O 5. O-O d6 6. b3 c6 7. Bb2 Nbd7
-8. Re1 Ne4 9. Nbd2 Ndf6 10. Nxe4 Nxe4 11. Qd3 Nf6 12. Nd2 d5 13. f3 a5
-14. c4 Be6 15. Bc3 Qd7 16. e4 Rfd8 17. a3 a4 18. cxd5 cxd5 19. e5 Ne8
-20. Bf1 Rdc8 21. bxa4 Qxa4 22. Bb4 Bf8 1/2-1/2
+1. d4 g6 2. g3 Bg7 3. Bg2 Nf6 4. Nf3 O-O 5. O-O d6 6. b3 c6 7. Bb2 Nbd7 8.
+Re1 Ne4 9. Nbd2 Ndf6 10. Nxe4 Nxe4 11. Qd3 Nf6 12. Nd2 d5 13. f3 a5 14. c4
+Be6 15. Bc3 Qd7 16. e4 Rfd8 17. a3 a4 18. cxd5 cxd5 19. e5 Ne8 20. Bf1 Rdc8
+21. bxa4 Qxa4 22. Bb4 Bf8 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -899,12 +877,12 @@ Qb7 26. Bg2 Qc8 27. Nf5 exf5 28. exf5 Ne6 29. fxe6 Bxe6 30. Qh5 Bg4
 [Result "1/2-1/2"]
 [ECO "E12"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Bf4 Bb7 5. e3 Be7 6. Nc3 Nh5 7. Bg3 d6
-8. Qc2 g6 9. O-O-O Nd7 10. Be2 a6 11. Ne1 Nxg3 12. hxg3 c5 13. d5 e5
-14. f4 Qc7 15. g4 O-O-O 16. g3 Kb8 17. Nf3 exf4 18. exf4 h6 19. Nd2 Bf6
-20. Nde4 Bg7 21. Bf3 Rde8 22. Rde1 Bc8 23. Qa4 f5 24. gxf5 gxf5 25. Nd2
-Bxc3 26. bxc3 Rxe1+ 27. Rxe1 Nf6 28. Nf1 Rh7 29. Qb3 Ka7 30. Kd2 Qd8
-31. Qc2 Qg8 32. Re2 Rg7 33. Qd1 Bd7 34. Qe1 Qf8 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Bf4 Bb7 5. e3 Be7 6. Nc3 Nh5 7. Bg3 d6 8.
+Qc2 g6 9. O-O-O Nd7 10. Be2 a6 11. Ne1 Nxg3 12. hxg3 c5 13. d5 e5 14. f4
+Qc7 15. g4 O-O-O 16. g3 Kb8 17. Nf3 exf4 18. exf4 h6 19. Nd2 Bf6 20. Nde4
+Bg7 21. Bf3 Rde8 22. Rde1 Bc8 23. Qa4 f5 24. gxf5 gxf5 25. Nd2 Bxc3 26.
+bxc3 Rxe1+ 27. Rxe1 Nf6 28. Nf1 Rh7 29. Qb3 Ka7 30. Kd2 Qd8 31. Qc2 Qg8 32.
+Re2 Rg7 33. Qd1 Bd7 34. Qe1 Qf8 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -915,9 +893,9 @@ Bxc3 26. bxc3 Rxe1+ 27. Rxe1 Nf6 28. Nf1 Rh7 29. Qb3 Ka7 30. Kd2 Qd8
 [Result "1/2-1/2"]
 [ECO "B14"]
 
-1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5
-O-O 8. Be2 Na6 9. Bf3 Qb6 10. Qxb6 axb6 11. Nge2 Nb4 12. O-O Rd8 13.
-Bg5 Nbxd5 1/2-1/2
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
+8. Be2 Na6 9. Bf3 Qb6 10. Qxb6 axb6 11. Nge2 Nb4 12. O-O Rd8 13. Bg5 Nbxd5
+1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -928,8 +906,8 @@ Bg5 Nbxd5 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "A07"]
 
-1. g3 d5 2. Nf3 g6 3. Bg2 Bg7 4. O-O Nf6 5. d3 O-O 6. Nbd2 Nc6 7. e4
-dxe4 8. dxe4 1/2-1/2
+1. g3 d5 2. Nf3 g6 3. Bg2 Bg7 4. O-O Nf6 5. d3 O-O 6. Nbd2 Nc6 7. e4 dxe4
+8. dxe4 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -940,11 +918,11 @@ dxe4 8. dxe4 1/2-1/2
 [Result "1-0"]
 [ECO "D61"]
 
-1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Qc2 c6
-8. O-O-O b6 9. h4 Bb7 10. Kb1 Rc8 11. Bd3 h6 12. e4 dxe4 13. Nxe4 Nxe4
-14. Bxe4 f5 15. Bxe7 Qxe7 16. Bd3 c5 17. d5 exd5 18. Bxf5 d4 19. Rhe1
-Qd6 20. Be6+ Kh8 21. Ng5 Nf6 22. Qg6 Rc7 23. f3 Ba6 24. Nf7+ Rcxf7 25.
-Bxf7 b5 26. Re6 Qd7 27. Rxf6 1-0
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 O-O 7. Qc2 c6 8.
+O-O-O b6 9. h4 Bb7 10. Kb1 Rc8 11. Bd3 h6 12. e4 dxe4 13. Nxe4 Nxe4 14.
+Bxe4 f5 15. Bxe7 Qxe7 16. Bd3 c5 17. d5 exd5 18. Bxf5 d4 19. Rhe1 Qd6 20.
+Be6+ Kh8 21. Ng5 Nf6 22. Qg6 Rc7 23. f3 Ba6 24. Nf7+ Rcxf7 25. Bxf7 b5 26.
+Re6 Qd7 27. Rxf6 1-0
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -955,19 +933,18 @@ Bxf7 b5 26. Re6 Qd7 27. Rxf6 1-0
 [Result "0-1"]
 [ECO "E42"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nge2 cxd4 6. exd4 O-O 7. a3
-Bxc3+ 8. Nxc3 d5 9. Bg5 dxc4 10. Bxc4 h6 11. Be3 Nbd7 12. O-O Nb6 13.
-Bb3 Bd7 14. Bf4 Bc6 15. Re1 Nfd5 16. Nxd5 Nxd5 17. Bg3 Qb6 18. Be5 f6
-19. Bg3 Rfe8 20. Qd3 Rad8 21. Bc2 f5 22. b4 Bb5 23. Qd2 Bc4 24. Be5 Qc6
-25. a4 Rf8 26. Rec1 a6 27. b5 axb5 28. axb5 Qd7 29. Ba4 Bxb5 30. Bb3
-Bc6 31. Qd3 Qe7 32. f3 Rc8 33. Ra7 Qd7 34. Re1 Ra8 35. Rxa8 Rxa8 36. g4
-Rf8 37. gxf5 Rxf5 38. Kf2 Qf7 39. Rg1 Rg5 40. Bc2 Rxg1 41. Qh7+ Kf8
-42. Kxg1 Nf6 43. Bd6+ Ke8 44. Qh8+ Kd7 45. Qf8 Qxf8 46. Bxf8 Nh5 47.
-Bg6 Nf4 48. Bf7 Bxf3 49. Bxg7 h5 50. Kf2 Bd1 51. Bh6 Nd5 52. Bg6 Ne7
-53. Be4 b5 54. h3 Nf5 55. Bxf5 exf5 56. Bf8 Ke6 57. Ke3 Bb3 58. Kf4 Kf6
-59. Bb4 Bd5 60. Bc3 Ke6 61. Kg5 Bf3 62. Kf4 Bg2 63. Kg5 Bxh3 64. Kxh5
-f4 65. Kh4 Bf5 66. Bd2 f3 67. Kg3 Be4 68. Kf2 Kd5 69. Ke3 Kc4 70. Be1
-b4 71. Kd2 b3 72. Kc1 Kd3 73. Kb2 Bd5 0-1
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Ne2 cxd4 6. exd4 O-O 7. a3 Bxc3+
+8. Nxc3 d5 9. Bg5 dxc4 10. Bxc4 h6 11. Be3 Nbd7 12. O-O Nb6 13. Bb3 Bd7 14.
+Bf4 Bc6 15. Re1 Nfd5 16. Nxd5 Nxd5 17. Bg3 Qb6 18. Be5 f6 19. Bg3 Rfe8 20.
+Qd3 Rad8 21. Bc2 f5 22. b4 Bb5 23. Qd2 Bc4 24. Be5 Qc6 25. a4 Rf8 26. Rec1
+a6 27. b5 axb5 28. axb5 Qd7 29. Ba4 Bxb5 30. Bb3 Bc6 31. Qd3 Qe7 32. f3 Rc8
+33. Ra7 Qd7 34. Re1 Ra8 35. Rxa8 Rxa8 36. g4 Rf8 37. gxf5 Rxf5 38. Kf2 Qf7
+39. Rg1 Rg5 40. Bc2 Rxg1 41. Qh7+ Kf8 42. Kxg1 Nf6 43. Bd6+ Ke8 44. Qh8+
+Kd7 45. Qf8 Qxf8 46. Bxf8 Nh5 47. Bg6 Nf4 48. Bf7 Bxf3 49. Bxg7 h5 50. Kf2
+Bd1 51. Bh6 Nd5 52. Bg6 Ne7 53. Be4 b5 54. h3 Nf5 55. Bxf5 exf5 56. Bf8 Ke6
+57. Ke3 Bb3 58. Kf4 Kf6 59. Bb4 Bd5 60. Bc3 Ke6 61. Kg5 Bf3 62. Kf4 Bg2 63.
+Kg5 Bxh3 64. Kxh5 f4 65. Kh4 Bf5 66. Bd2 f3 67. Kg3 Be4 68. Kf2 Kd5 69. Ke3
+Kc4 70. Be1 b4 71. Kd2 b3 72. Kc1 Kd3 73. Kb2 Bd5 0-1
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -978,8 +955,7 @@ b4 71. Kd2 b3 72. Kc1 Kd3 73. Kb2 Bd5 0-1
 [Result "1/2-1/2"]
 [ECO "A24"]
 
-1. c4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. Nc3 e5 7. d3
-1/2-1/2
+1. c4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. Nc3 e5 7. d3 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -990,11 +966,10 @@ b4 71. Kd2 b3 72. Kc1 Kd3 73. Kb2 Bd5 0-1
 [Result "1/2-1/2"]
 [ECO "E74"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 b5
-8. cxb5 a6 9. bxa6 Bxa6 10. Nf3 h6 11. Bd2 Bxe2 12. Qxe2 Nbd7 13. O-O
-Qb6 14. Rab1 Rfb8 15. h3 Qa6 16. Qxa6 Rxa6 17. b3 Ra3 18. Bc1 Ra6 19.
-Bd2 Ra3 20. Rbc1 Ne8 21. Rc2 Raa8 22. Re1 Nc7 23. Re2 Kh7 24. Bf4 Na6
-25. Nd1 1/2-1/2
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 b5 8.
+cxb5 a6 9. bxa6 Bxa6 10. Nf3 h6 11. Bd2 Bxe2 12. Qxe2 Nbd7 13. O-O Qb6 14.
+Rab1 Rfb8 15. h3 Qa6 16. Qxa6 Rxa6 17. b3 Ra3 18. Bc1 Ra6 19. Bd2 Ra3 20.
+Rbc1 Ne8 21. Rc2 Raa8 22. Re1 Nc7 23. Re2 Kh7 24. Bf4 Na6 25. Nd1 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -1005,9 +980,9 @@ Bd2 Ra3 20. Rbc1 Ne8 21. Rc2 Raa8 22. Re1 Nc7 23. Re2 Kh7 24. Bf4 Na6
 [Result "1/2-1/2"]
 [ECO "E48"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nge2 cxd4 7. exd4
-d5 8. a3 dxc4 9. Bxc4 Be7 10. O-O Nc6 11. Qd3 b6 12. Bg5 Bb7 13. Rfd1
-Nd5 14. Bd2 Nxc3 15. Bxc3 Bf6 16. d5 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 cxd4 7. exd4 d5 8.
+a3 dxc4 9. Bxc4 Be7 10. O-O Nc6 11. Qd3 b6 12. Bg5 Bb7 13. Rfd1 Nd5 14. Bd2
+Nxc3 15. Bxc3 Bf6 16. d5 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -1018,11 +993,11 @@ Nd5 14. Bd2 Nxc3 15. Bxc3 Bf6 16. d5 1/2-1/2
 [Result "1/2-1/2"]
 [ECO "A30"]
 
-1. Nf3 Nf6 2. c4 c5 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. b3 Be7 7. Bb2 O-O
-8. Nc3 Nc6 9. d4 Nxd4 10. Nxd4 Bxg2 11. Kxg2 cxd4 12. Qxd4 Qc7 13. e4
-d6 14. Rfd1 Rfd8 15. f3 a6 16. a4 Bf8 17. Rac1 Nd7 18. Qd3 Rac8 19. Qc2
-Qb7 20. Rd2 Nc5 21. Rcd1 Qb8 22. Re2 Be7 23. Bc1 Qb7 24. Bf4 Qc6 25.
-Red2 Nb7 26. Be3 Qc7 27. Qb2 Nc5 28. Bd4 Bf8 1/2-1/2
+1. Nf3 Nf6 2. c4 c5 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. b3 Be7 7. Bb2 O-O 8.
+Nc3 Nc6 9. d4 Nxd4 10. Nxd4 Bxg2 11. Kxg2 cxd4 12. Qxd4 Qc7 13. e4 d6 14.
+Rfd1 Rfd8 15. f3 a6 16. a4 Bf8 17. Rac1 Nd7 18. Qd3 Rac8 19. Qc2 Qb7 20.
+Rd2 Nc5 21. Rcd1 Qb8 22. Re2 Be7 23. Bc1 Qb7 24. Bf4 Qc6 25. Red2 Nb7 26.
+Be3 Qc7 27. Qb2 Nc5 28. Bd4 Bf8 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -1033,12 +1008,12 @@ Red2 Nb7 26. Be3 Qc7 27. Qb2 Nc5 28. Bd4 Bf8 1/2-1/2
 [Result "1-0"]
 [ECO "D36"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Nbd7 5. Bg5 c6 6. cxd5 exd5 7. e3
-Be7 8. Bd3 O-O 9. Qc2 Re8 10. O-O Nf8 11. Rae1 Nh5 12. Bxe7 Rxe7 13. b4
-a6 14. a4 Rc7 15. Rb1 Bg4 16. Ne5 Be6 17. Rfc1 Rac8 18. Qb2 f6 19. Nf3
-Bg4 20. Nd2 Ng6 21. h3 Be6 22. Be2 Nhf4 23. exf4 Nxf4 24. Bf1 g5 25.
-Re1 Bf5 26. Ra1 Rg7 27. Re3 Qb6 28. Ne2 Kh8 29. Qc3 h5 30. Re1 Qd8 31.
-Nxf4 gxf4 32. R3e2 Qd7 33. Qf3 Rcg8 34. Qxf4 Kh7 35. Re3 Bxh3 1-0
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 Nbd7 5. Bg5 c6 6. cxd5 exd5 7. e3 Be7
+8. Bd3 O-O 9. Qc2 Re8 10. O-O Nf8 11. Rae1 Nh5 12. Bxe7 Rxe7 13. b4 a6 14.
+a4 Rc7 15. Rb1 Bg4 16. Ne5 Be6 17. Rfc1 Rac8 18. Qb2 f6 19. Nf3 Bg4 20. Nd2
+Ng6 21. h3 Be6 22. Be2 Nhf4 23. exf4 Nxf4 24. Bf1 g5 25. Re1 Bf5 26. Ra1
+Rg7 27. Re3 Qb6 28. Ne2 Kh8 29. Qc3 h5 30. Re1 Qd8 31. Nxf4 gxf4 32. R3e2
+Qd7 33. Qf3 Rcg8 34. Qxf4 Kh7 35. Re3 Bxh3 1-0
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -1049,16 +1024,16 @@ Nxf4 gxf4 32. R3e2 Qd7 33. Qf3 Rcg8 34. Qxf4 Kh7 35. Re3 Bxh3 1-0
 [Result "1/2-1/2"]
 [ECO "B85"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e6 7. Be2 Be7
-8. O-O Qc7 9. f4 O-O 10. Bf3 Nc6 11. Be3 Na5 12. Kh1 Nc4 13. Bc1 Rd8
-14. b3 Ne5 15. Bb2 Nxf3 16. Qxf3 e5 17. Nde2 Bg4 18. Qd3 Rac8 19. Rac1
-Qa5 20. h3 Bxe2 21. Nxe2 d5 22. fxe5 Nxe4 23. Ng3 Bg5 24. Rcd1 Qc5 25.
-e6 fxe6 26. Nxe4 dxe4 27. Qxe4 Qc6 28. Qg4 Bh6 29. c4 Rxd1 30. Rxd1 Rf8
-31. Ba3 Re8 32. Rd6 Qc8 33. Qd1 e5 34. Qd5+ Kh8 35. Qe4 Qc7 36. Rd3 Qc6
-37. Rd5 Qf6 38. Rd1 Qc6 39. Rd5 Qf6 40. Rd1 Qc6 41. Qf5 Qg6 42. Qxg6
-hxg6 43. Kg1 Be3+ 44. Kf1 Bd4 45. Ke2 Re6 46. b4 Rf6 47. Rf1 Kg8 48. b5
-Kf7 49. Bc1 axb5 50. axb5 Ke6 51. Rf3 e4 52. Rf4 Ke5 53. g3 g5 54. Rxf6
-gxf6 55. g4 Kd6 56. Ba3+ Ke6 57. Bc1 Kd6 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e6 7. Be2 Be7 8.
+O-O Qc7 9. f4 O-O 10. Bf3 Nc6 11. Be3 Na5 12. Kh1 Nc4 13. Bc1 Rd8 14. b3
+Ne5 15. Bb2 Nxf3 16. Qxf3 e5 17. Nde2 Bg4 18. Qd3 Rac8 19. Rac1 Qa5 20. h3
+Bxe2 21. Nxe2 d5 22. fxe5 Nxe4 23. Ng3 Bg5 24. Rcd1 Qc5 25. e6 fxe6 26.
+Nxe4 dxe4 27. Qxe4 Qc6 28. Qg4 Bh6 29. c4 Rxd1 30. Rxd1 Rf8 31. Ba3 Re8 32.
+Rd6 Qc8 33. Qd1 e5 34. Qd5+ Kh8 35. Qe4 Qc7 36. Rd3 Qc6 37. Rd5 Qf6 38. Rd1
+Qc6 39. Rd5 Qf6 40. Rd1 Qc6 41. Qf5 Qg6 42. Qxg6 hxg6 43. Kg1 Be3+ 44. Kf1
+Bd4 45. Ke2 Re6 46. b4 Rf6 47. Rf1 Kg8 48. b5 Kf7 49. Bc1 axb5 50. axb5 Ke6
+51. Rf3 e4 52. Rf4 Ke5 53. g3 g5 54. Rxf6 gxf6 55. g4 Kd6 56. Ba3+ Ke6 57.
+Bc1 Kd6 1/2-1/2
 
 [Event "?"]
 [Site "DEN-ch, Odense"]
@@ -1069,12 +1044,11 @@ gxf6 55. g4 Kd6 56. Ba3+ Ke6 57. Bc1 Kd6 1/2-1/2
 [Result "1-0"]
 [ECO "D41"]
 
-1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3
-cxd4 8. cxd4 Nc6 9. Be2 Bb4+ 10. Bd2 Qa5 11. Bxb4 Qxb4+ 12. Qd2 Ke7
-13. Qxb4+ Nxb4 14. Kd2 Rd8 15. Rhc1 f6 16. Rc7+ Rd7 17. Rxd7+ Kxd7 18.
-Bb5+ Kd8 19. Rb1 Nc6 20. Bxc6 bxc6 21. Ne1 Kc7 22. Nd3 Rb8 23. Rxb8
-Kxb8 24. Kc3 Kc7 25. Nf4 g6 26. e5 fxe5 27. dxe5 c5 28. h4 Kc6 29. g4
-Ba6 30. Nxg6 Kd5 31. h5 Ke4 32. h6 Be2 33. g5 Bh5 34. Ne7 Kxe5 35. g6
-Bxg6 36. Nxg6+ Kf6 37. Nf8 e5 38. Nxh7+ Kg6 39. Ng5 1-0
-
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4
+8. cxd4 Nc6 9. Be2 Bb4+ 10. Bd2 Qa5 11. Bxb4 Qxb4+ 12. Qd2 Ke7 13. Qxb4+
+Nxb4 14. Kd2 Rd8 15. Rhc1 f6 16. Rc7+ Rd7 17. Rxd7+ Kxd7 18. Bb5+ Kd8 19.
+Rb1 Nc6 20. Bxc6 bxc6 21. Ne1 Kc7 22. Nd3 Rb8 23. Rxb8 Kxb8 24. Kc3 Kc7 25.
+Nf4 g6 26. e5 fxe5 27. dxe5 c5 28. h4 Kc6 29. g4 Ba6 30. Nxg6 Kd5 31. h5
+Ke4 32. h6 Be2 33. g5 Bh5 34. Ne7 Kxe5 35. g6 Bxg6 36. Nxg6+ Kf6 37. Nf8 e5
+38. Nxh7+ Kg6 39. Ng5 1-0
 
