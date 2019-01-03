@@ -7,8 +7,8 @@
 [Result "0-1"]
 [WhiteElo "2741"]
 [BlackElo "2770"]
-[EventDate "2004.09.25"]
 [ECO "C42"]
+[EventDate "2004.09.25"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
 8. c4 Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14.
@@ -20,7 +20,7 @@ Qc6 Ra5 39. Kg3 Rda8 40. h4 R5a6 41. Qc1 Ra5 42. Qh6 Rxa4 43. h5 R4a5 44.
 Qf4 g5 45. Qf6 h6 46. f3 R5a6 47. Qc3 Ra4 48. Qc6 R8a6 49. Qe8+ Kg7 50. Qb5
 R4a5 51. Qb4 Rd5 52. Qb3 Rad6 53. Qc4 Rd3 54. Kf2 Ra3 55. Qc5 Ra2+ 56. Kg3
 Rf6 57. Qb4 Raa6 58. Kg2 Rf4 59. Qb2+ Raf6 60. Qe5 Rxf3 61. Qa1 Rf1 62. Qc3
-R1f2+ 63. Kg3 R2f3+ 64. Qxf3 Rxf3+ 65. Kxf3 Kf6 0-1
+Rf2+ 63. Kg3 Rf3+ 64. Qxf3 Rxf3+ 65. Kxf3 Kf6 0-1
 
 [Event "WCh"]
 [Site "Brissago SUI"]
@@ -31,8 +31,8 @@ R1f2+ 63. Kg3 R2f3+ 64. Qxf3 Rxf3+ 65. Kxf3 Kf6 0-1
 [Result "1/2-1/2"]
 [WhiteElo "2770"]
 [BlackElo "2741"]
-[EventDate "2004.09.25"]
 [ECO "C88"]
+[EventDate "2004.09.25"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
 h3 Bb7 9. d3 Re8 10. Nc3 Bb4 11. Ng5 Rf8 12. a3 Bxc3 13. bxc3 Na5 14. Ba2
@@ -47,8 +47,8 @@ c5 15. f4 exf4 16. e5 Nd5 17. Bxd5 Qxg5 18. Bxb7 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2741"]
 [BlackElo "2770"]
-[EventDate "2004.09.25"]
 [ECO "C42"]
+[EventDate "2004.09.25"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
 8. c4 Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14.
@@ -64,8 +64,8 @@ Rexd1 Bd7 21. Bd2 Bf6 22. Bxa5 Bxd4 23. Rxd4 Rxe2 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2770"]
 [BlackElo "2741"]
-[EventDate "2004.09.25"]
 [ECO "C88"]
+[EventDate "2004.09.25"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
 h3 Bb7 9. d3 d6 10. a3 Nd7 11. Nc3 Nd4 12. Ba2 Nxf3+ 13. Qxf3 Bg5 14. Bxg5
@@ -84,8 +84,8 @@ h5 39. h4 Rd2 40. g3 Kg7 41. Kg2 Rd1 42. Re3 Kh7 43. Kf3 Rd2 1/2-1/2
 [Result "1-0"]
 [WhiteElo "2741"]
 [BlackElo "2770"]
-[EventDate "2004.09.25"]
 [ECO "D37"]
+[EventDate "2004.09.25"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8.
 cxd5 Nxd5 9. Nxd5 exd5 10. a3 Nc6 11. Bd3 Bb6 12. O-O Bg4 13. h3 Bh5 14. b4
@@ -109,8 +109,8 @@ Kd3 Bh4 46. Bd4 Ra3+ 47. Kc2 Ra2+ 48. Kd3 Ra3+ 49. Kc4 Ra4+ 50. Kd5 Ra5+
 [Result "1/2-1/2"]
 [WhiteElo "2770"]
 [BlackElo "2741"]
-[EventDate "2004.09.25"]
 [ECO "C88"]
+[EventDate "2004.09.25"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
 h3 Bb7 9. d3 d6 10. a3 Na5 11. Ba2 c5 12. Nbd2 Nc6 13. c3 Qd7 14. Nf1 d5
@@ -126,8 +126,8 @@ h3 Bb7 9. d3 d6 10. a3 Na5 11. Ba2 c5 12. Nbd2 Nc6 13. c3 Qd7 14. Nf1 d5
 [Result "1/2-1/2"]
 [WhiteElo "2741"]
 [BlackElo "2770"]
-[EventDate "2004.09.25"]
 [ECO "D16"]
+[EventDate "2004.09.25"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 Nc6 8.
 O-O cxd4 9. exd4 Be7 10. Be3 O-O 11. Ne5 Nb4 12. a5 Bd7 13. d5 exd5 14.
@@ -143,8 +143,8 @@ Bf6 20. Nf3 b6 21. axb6 1/2-1/2
 [Result "0-1"]
 [WhiteElo "2770"]
 [BlackElo "2741"]
-[EventDate "2004.09.25"]
 [ECO "C89"]
+[EventDate "2004.09.25"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
 c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3
@@ -162,8 +162,8 @@ h4 g4 0-1
 [Result "1/2-1/2"]
 [WhiteElo "2741"]
 [BlackElo "2770"]
-[EventDate "2004.09.25"]
 [ECO "E15"]
+[EventDate "2004.09.25"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 Bb7 8.
 Bg2 d5 9. cxd5 exd5 10. O-O O-O 11. Bf4 Na6 12. Qc2 Re8 13. Rfd1 c6 14. Ne5
@@ -178,8 +178,8 @@ h6 15. a3 Nc7 16. e4 Ne6 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2770"]
 [BlackElo "2741"]
-[EventDate "2004.09.25"]
 [ECO "C78"]
+[EventDate "2004.09.25"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 b5 7. Bc2 d5 8.
 exd5 Qxd5 9. a4 b4 10. d4 exd4 11. Bb3 Qd8 12. Re1+ Be7 13. Nxd4 Nxd4 14.
@@ -197,8 +197,8 @@ Bxf5 b3 33. Rd3 Rc4 34. Bd7 Rb4 35. Bc6 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2741"]
 [BlackElo "2770"]
-[EventDate "2004.09.25"]
 [ECO "E15"]
+[EventDate "2004.09.25"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 Bxc5 8.
 O-O O-O 9. Nc3 Be7 10. Bf4 a6 11. Rfd1 d6 12. Qc2 Qc7 13. Rac1 Rd8 14. Qd2
@@ -213,8 +213,8 @@ Nh5 15. Bg5 Nf6 16. Bf4 Nh5 17. Bg5 Nf6 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2770"]
 [BlackElo "2741"]
-[EventDate "2004.09.25"]
 [ECO "B19"]
+[EventDate "2004.09.25"]
 
 1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
 h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Qa5+ 12. Bd2 Qc7 13. O-O-O Ngf6 14.
@@ -232,8 +232,8 @@ Qxg4 33. Qe4 Qxh5 34. Nd4 Qg6 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2741"]
 [BlackElo "2770"]
-[EventDate "2004.09.25"]
 [ECO "A73"]
+[EventDate "2004.09.25"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. Nd2 Bg7 8.
 e4 O-O 9. Be2 Na6 10. O-O Ne8 11. Nc4 Nac7 12. a4 f5 13. exf5 Rxf5 14. Bg4
@@ -256,8 +256,8 @@ Kf5 Rb5+ 63. Kf6 Rb6+ 64. Kf7 Rxg6 65. Kxg6 1/2-1/2
 [Result "1-0"]
 [WhiteElo "2770"]
 [BlackElo "2741"]
-[EventDate "2004.09.25"]
 [ECO "B12"]
+[EventDate "2004.09.25"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Nd2 c5 7. dxc5 e6 8. Nb3
 Bxc5 9. Nxc5 Qa5+ 10. c3 Qxc5 11. Nf3 Ne7 12. Bd3 Nbc6 13. Be3 Qa5 14. Qd2
@@ -266,3 +266,4 @@ gxh5 Nxh5 21. b4 a6 22. a4 Kd8 23. Ng5 Be8 24. b5 Nf4 25. b6 Nxd3 26. Kxd3
 Rc8 27. Rxc8+ Kxc8 28. Rc1+ Bc6 29. Nxf7 Rxh4 30. Nd6+ Kd8 31. Rg1 Rh3+ 32.
 Ke2 Ra3 33. Rxg7 Rxa4 34. f4 Ra2+ 35. Kf3 Ra3+ 36. Kg4 Rd3 37. f5 Rxd4+ 38.
 Kg5 exf5 39. Kf6 Rg4 40. Rc7 Rh4 41. Nf7+ 1-0
+

@@ -7,8 +7,8 @@
 [Result "0-1"]
 [WhiteElo "2746"]
 [BlackElo "2745"]
-[EventDate "2009.05.13"]
 [ECO "B52"]
+[EventDate "2009.05.13"]
 
 1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nf6 6. Nc3 g6 7. d4 cxd4
 8. Nxd4 Bg7 9. f3 O-O 10. Be3 Nc6 11. O-O Rac8 12. b3 e6 13. Rc1 Rfd8 14.
@@ -24,20 +24,20 @@ Qd2 d5 15. exd5 exd5 16. c5 Nxd4 17. Bxd4 Ne4 18. Qe3 Nxc5 19. Rcd1 Bxd4
 [Result "1/2-1/2"]
 [WhiteElo "2738"]
 [BlackElo "2717"]
-[EventDate "2009.05.13"]
 [ECO "D82"]
+[EventDate "2009.05.13"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 dxc4 8.
-Bxc4 O-O 9. Nge2 Qxc5 10. Qb3 Nc6 11. Nb5 Qh5 12. Ng3 Qh4 13. Nc7 e5 14.
-Bg5 Qxg5 15. h4 Qg4 16. Nxa8 e4 17. Nc7 Na5 18. Qb5 Nxc4 19. Qxc4 Bd7 20.
-Nd5 Nxd5 21. Qxd5 Bxb2 22. Rc2 Bc6 23. Qg5 Qxg5 24. hxg5 Be5 25. Ne2 Rd8
-26. Rd2 Re8 27. O-O Kg7 28. Rc1 h6 29. Nd4 Bxd4 30. gxh6+ Kxh6 31. exd4 Rd8
-32. a3 f5 33. g3 Bd5 34. Kf1 g5 35. Ke2 Kg6 36. Rdc2 Bc6 37. Ke3 Kh5 38.
-Rc5 Bd5 39. Ra5 Kg4 40. Rcc5 Be6 41. Rxa7 b6 42. Rc1 Bd5 43. Rg7 Ra8 44.
-Rc3 Ra4 45. Rg6 b5 46. Rf6 Bc4 47. Rd6 Bd3 48. f4 Kxg3 49. Rg6 g4 50. d5 b4
-51. axb4 Ra2 52. d6 Bb5 53. Rg7 Re2+ 54. Kd4+ Kxf4 55. Kc5 Rd2 56. Kxb5
-Rxd6 57. Rc1 Re6 58. Rf1+ Kg3 59. Rf7 Re5+ 60. Kc4 e3 61. R7xf5 Rxf5 62.
-Rxf5 e2 63. Re5 Kf2 64. b5 e1=Q 65. Rxe1 1/2-1/2
+Bxc4 O-O 9. Ne2 Qxc5 10. Qb3 Nc6 11. Nb5 Qh5 12. Ng3 Qh4 13. Nc7 e5 14. Bg5
+Qxg5 15. h4 Qg4 16. Nxa8 e4 17. Nc7 Na5 18. Qb5 Nxc4 19. Qxc4 Bd7 20. Nd5
+Nxd5 21. Qxd5 Bxb2 22. Rc2 Bc6 23. Qg5 Qxg5 24. hxg5 Be5 25. Ne2 Rd8 26.
+Rd2 Re8 27. O-O Kg7 28. Rc1 h6 29. Nd4 Bxd4 30. gxh6+ Kxh6 31. exd4 Rd8 32.
+a3 f5 33. g3 Bd5 34. Kf1 g5 35. Ke2 Kg6 36. Rdc2 Bc6 37. Ke3 Kh5 38. Rc5
+Bd5 39. Ra5 Kg4 40. Rcc5 Be6 41. Rxa7 b6 42. Rc1 Bd5 43. Rg7 Ra8 44. Rc3
+Ra4 45. Rg6 b5 46. Rf6 Bc4 47. Rd6 Bd3 48. f4 Kxg3 49. Rg6 g4 50. d5 b4 51.
+axb4 Ra2 52. d6 Bb5 53. Rg7 Re2+ 54. Kd4+ Kxf4 55. Kc5 Rd2 56. Kxb5 Rxd6
+57. Rc1 Re6 58. Rf1+ Kg3 59. Rf7 Re5+ 60. Kc4 e3 61. R7xf5 Rxf5 62. Rxf5 e2
+63. Re5 Kf2 64. b5 e1=Q 65. Rxe1 1/2-1/2
 
 [Event "5th MTel Masters"]
 [Site "Sofia BUL"]
@@ -48,8 +48,8 @@ Rxf5 e2 63. Re5 Kf2 64. b5 e1=Q 65. Rxe1 1/2-1/2
 [Result "1-0"]
 [WhiteElo "2770"]
 [BlackElo "2812"]
-[EventDate "2009.05.13"]
 [ECO "D43"]
+[EventDate "2009.05.13"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
 Bd3 dxc4 9. Bxc4 g6 10. O-O Bg7 11. e4 O-O 12. e5 Qe7 13. Qe2 b5 14. Bd3
@@ -67,8 +67,8 @@ Kf2 Qd8 33. Qd3 Qxe7 34. Rxd7 Qh4+ 35. Kf3 Qh5+ 36. Kg3 1-0
 [Result "1/2-1/2"]
 [WhiteElo "2745"]
 [BlackElo "2812"]
-[EventDate "2009.05.13"]
 [ECO "C64"]
+[EventDate "2009.05.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. c3 O-O 6. d4 Bb6 7. dxe5 Nxe4
 8. Qd5 Nc5 9. Na3 Ne7 10. Qd1 Ne4 11. Bd3 d5 12. exd6 Nxd6 13. Bg5 h6 14.
@@ -90,8 +90,8 @@ Ke5 51. g3 Be6 52. Kf3 Kd5 53. Be2 Ke5 54. Ke3 Bd7 55. Bf3 Be6 56. Be2 Bd7
 [Result "1/2-1/2"]
 [WhiteElo "2717"]
 [BlackElo "2770"]
-[EventDate "2009.05.13"]
 [ECO "B90"]
+[EventDate "2009.05.13"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 g6 7. g4 Bg7 8.
 Bg2 O-O 9. Be3 Nc6 10. Qd2 Bd7 11. O-O-O b5 12. f4 Rc8 13. e5 b4 14. Nce2
@@ -108,8 +108,8 @@ Bxd5 exd5 21. Qd4+ Kg8 22. axb4 Qa2 23. Nc3 Qa1+ 24. Kd2 Qxb2 25. Rhf1 Rxf1
 [Result "0-1"]
 [WhiteElo "2746"]
 [BlackElo "2738"]
-[EventDate "2009.05.13"]
 [ECO "C42"]
+[EventDate "2009.05.13"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3
 Nc6 8. Qd2 Be6 9. O-O-O Qd7 10. Kb1 a6 11. Be2 Bf6 12. Ng5 Bxg5 13. Bxg5 f6
@@ -130,8 +130,8 @@ Kg2 51. h3 Kh2 0-1
 [Result "1/2-1/2"]
 [WhiteElo "2770"]
 [BlackElo "2746"]
-[EventDate "2009.05.13"]
 [ECO "D11"]
+[EventDate "2009.05.13"]
 
 1. d4 d5 2. c4 c6 3. Nf3 e6 4. Qc2 Nf6 5. Nbd2 dxc4 6. Nxc4 c5 7. dxc5 Bxc5
 8. g3 b5 9. Nce5 Qc7 10. Qb3 a6 11. Bg2 Bb7 12. O-O Bd5 13. Qc3 Ne4 14. Qe1
@@ -152,8 +152,8 @@ Bxa6 Rxa6 39. Kf2 a4 40. Rc4 axb3 41. axb3 Ra2+ 42. Kg1 Ra1+ 43. Kg2 Ra2+
 [Result "1/2-1/2"]
 [WhiteElo "2738"]
 [BlackElo "2745"]
-[EventDate "2009.05.13"]
 [ECO "D86"]
+[EventDate "2009.05.13"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
 8. Ne2 Nc6 9. Be3 O-O 10. O-O Na5 11. Bd3 b6 12. Rb1 cxd4 13. cxd4 Bb7 14.
@@ -172,8 +172,8 @@ Ke8 33. g5 fxg5 34. Bxg5 Kd7 35. a4 e6 36. Be3 Kd6 37. Bf4+ Kd7 38. Be3 Kd6
 [Result "1/2-1/2"]
 [WhiteElo "2812"]
 [BlackElo "2717"]
-[EventDate "2009.05.13"]
 [ECO "B90"]
+[EventDate "2009.05.13"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8.
 f3 Be6 9. Qd2 O-O 10. O-O-O a5 11. Qe1 Qc8 12. a4 Nc6 13. g4 Nb4 14. Kb1 d5
@@ -194,8 +194,8 @@ Nb3 f6 28. gxf6 gxf6 29. Ne4 Rxd5 30. Bxb6 Rxd2 31. Nbxd2 Rd5 32. Nc3 Rd7
 [Result "1/2-1/2"]
 [WhiteElo "2770"]
 [BlackElo "2745"]
-[EventDate "2009.05.13"]
 [ECO "D44"]
+[EventDate "2009.05.13"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
 g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 c5 13. d5 Qb6 14. Bg2
@@ -214,8 +214,8 @@ Qb3+ Bb6 39. Qf7+ Bc7 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2717"]
 [BlackElo "2746"]
-[EventDate "2009.05.13"]
 [ECO "B41"]
+[EventDate "2009.05.13"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Qf3 Qc7 8.
 a3 Be7 9. Qg3 d6 10. Qxg7 Rg8 11. Qh6 Nbd7 12. Qe3 b6 13. Bd2 Bb7 14. f3
@@ -236,8 +236,8 @@ Nb4 Ra8 45. Nc2 Kc6 46. Bd3 Kxc5 47. Rf1 Ne5 48. Nxd4 Kxd4 49. Bxb5 Rxa3
 [Result "1-0"]
 [WhiteElo "2812"]
 [BlackElo "2738"]
-[EventDate "2009.05.13"]
 [ECO "D17"]
+[EventDate "2009.05.13"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6
 8. Ne5 a5 9. f3 Nfd7 10. e4 Nxe5 11. dxe5 Qxd1+ 12. Kxd1 Be6 13. Kc2 f6 14.
@@ -255,8 +255,8 @@ Kf7 33. b7 1-0
 [Result "0-1"]
 [WhiteElo "2746"]
 [BlackElo "2812"]
-[EventDate "2009.05.13"]
 [ECO "B99"]
+[EventDate "2009.05.13"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
 Qf3 Qc7 9. O-O-O Nbd7 10. Bd3 h6 11. Qh3 Nc5 12. Rhe1 Rg8 13. Bh4 g5 14. e5
@@ -278,11 +278,11 @@ Kxd1 Qxf1+ 44. Kd2 Qf4+ 45. Kd1 bxa2 46. Qc8+ Kf7 47. Qd7+ Kf6 48. Qd8+ Kf5
 [Result "1/2-1/2"]
 [WhiteElo "2738"]
 [BlackElo "2770"]
-[EventDate "2009.05.13"]
 [ECO "D82"]
+[EventDate "2009.05.13"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 dxc4 8.
-Bxc4 O-O 9. Nge2 Qxc5 10. Qb3 Qa5 11. O-O Nbd7 12. a3 Nb6 13. Bc7 Bd7 14.
+Bxc4 O-O 9. Ne2 Qxc5 10. Qb3 Qa5 11. O-O Nbd7 12. a3 Nb6 13. Bc7 Bd7 14.
 Nd4 Rac8 15. Bxb6 Qxb6 16. Qxb6 axb6 17. Be2 Rc7 18. Ndb5 Rc6 19. Nd4 Rc7
 20. Ndb5 Rc6 21. Rfd1 Rb8 22. Nd4 Rc7 23. Ndb5 Rc6 24. Nd4 Rc7 25. Ndb5 Rc6
 1/2-1/2
@@ -296,8 +296,8 @@ Nd4 Rac8 15. Bxb6 Qxb6 16. Qxb6 axb6 17. Be2 Rc7 18. Ndb5 Rc6 19. Nd4 Rc7
 [Result "1/2-1/2"]
 [WhiteElo "2745"]
 [BlackElo "2717"]
-[EventDate "2009.05.13"]
 [ECO "B99"]
+[EventDate "2009.05.13"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
 Qf3 Qc7 9. O-O-O Nbd7 10. g4 h6 11. Bxf6 Bxf6 12. h4 Qb6 13. Nb3 Qc7 14. e5
@@ -317,8 +317,8 @@ Kb6 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2812"]
 [BlackElo "2770"]
-[EventDate "2009.05.13"]
 [ECO "D56"]
+[EventDate "2009.05.13"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8.
 Bxe7 Qxe7 9. Rc1 Nxc3 10. Rxc3 c6 11. Be2 dxc4 12. Bxc4 Nd7 13. O-O e5 14.
@@ -338,8 +338,8 @@ Rxd5 Qf6 21. Qd4 Be6 22. Qxf6 gxf6 23. Rh5 Bxb3 24. axb3 Ng6 25. Rxh6 Rd3
 [Result "1/2-1/2"]
 [WhiteElo "2717"]
 [BlackElo "2738"]
-[EventDate "2009.05.13"]
 [ECO "C42"]
+[EventDate "2009.05.13"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3
 Nc6 8. Qd2 Be6 9. O-O-O Qd7 10. Kb1 Bf6 11. Be2 O-O-O 12. Nd4 Bxd4 13. cxd4
@@ -358,17 +358,17 @@ d5 14. Rhe1 Rhe8 15. f3 Bf5 16. Bf1 h5 17. a3 Kb8 18. b3 Re7 19. Kb2 Rde8
 [Result "1-0"]
 [WhiteElo "2745"]
 [BlackElo "2746"]
-[EventDate "2009.05.13"]
 [ECO "C80"]
+[EventDate "2009.05.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
 dxe5 Be6 9. Nbd2 Be7 10. Re1 Nc5 11. c3 d4 12. Bc2 O-O 13. cxd4 Nxd4 14.
 Nxd4 Qxd4 15. Nf3 Qxd1 16. Rxd1 Rfd8 17. Nd4 Bd5 18. Nf5 Bf8 19. Bg5 Rd7
 20. Ne7+ Bxe7 21. Bxe7 Rxe7 22. Rxd5 Ne6 23. g3 g6 24. f4 c5 25. Kf2 Kg7
-26. Rad1 c4 27. Ke3 f6 28. Rd7 Kf7 29. Be4 Rae8 30. Rxe7+ Rxe7 31. exf6
-Kxf6 32. Rd6 Kg7 33. f5 gxf5 34. Bxf5 Nf8+ 35. Kd2 Re5 36. g4 a5 37. Ra6 a4
-38. Rb6 Ng6 39. Kc3 Ne7 40. Rb7 Kf6 41. Bxh7 Kg5 42. h3 Kf4 43. Rd7 Re2 44.
-a3 Nc6 45. Rf7+ Kg3 46. g5 Re3+ 47. Kd2 Rb3 48. g6 Rxb2+ 49. Kc1 1-0
+26. Rad1 c4 27. Ke3 f6 28. Rd7 Kf7 29. Be4 Re8 30. Rxe7+ Rxe7 31. exf6 Kxf6
+32. Rd6 Kg7 33. f5 gxf5 34. Bxf5 Nf8+ 35. Kd2 Re5 36. g4 a5 37. Ra6 a4 38.
+Rb6 Ng6 39. Kc3 Ne7 40. Rb7 Kf6 41. Bxh7 Kg5 42. h3 Kf4 43. Rd7 Re2 44. a3
+Nc6 45. Rf7+ Kg3 46. g5 Re3+ 47. Kd2 Rb3 48. g6 Rxb2+ 49. Kc1 1-0
 
 [Event "5th MTel Masters"]
 [Site "Sofia BUL"]
@@ -379,8 +379,8 @@ a3 Nc6 45. Rf7+ Kg3 46. g5 Re3+ 47. Kd2 Rb3 48. g6 Rxb2+ 49. Kc1 1-0
 [Result "1/2-1/2"]
 [WhiteElo "2812"]
 [BlackElo "2745"]
-[EventDate "2009.05.13"]
 [ECO "D44"]
+[EventDate "2009.05.13"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
 g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 c5 13. d5 Qb6 14. Bg2
@@ -397,8 +397,8 @@ Re2 Qd3 27. Re3 Qd2 28. Re2 Qd3 29. Re3 Qd2 30. Re2 1/2-1/2
 [Result "1-0"]
 [WhiteElo "2770"]
 [BlackElo "2717"]
-[EventDate "2009.05.13"]
 [ECO "D97"]
+[EventDate "2009.05.13"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nc6
 8. Be2 e5 9. d5 Nd4 10. Nxd4 exd4 11. Qxd4 c6 12. d6 Nd5 13. Qd3 Nxc3 14.
@@ -417,8 +417,8 @@ Rxe6 39. Qd8+ Kg7 40. Rg1+ Kf7 41. Qg8+ Ke7 42. Rg7+ Kd6 43. Qf8+ 1-0
 [Result "1/2-1/2"]
 [WhiteElo "2738"]
 [BlackElo "2746"]
-[EventDate "2009.05.13"]
 [ECO "A62"]
+[EventDate "2009.05.13"]
 
 1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8.
 Nf3 O-O 9. O-O Re8 10. Bf4 Na6 11. Re1 Bg4 12. h3 Bxf3 13. Bxf3 Nd7 14. e4
@@ -436,8 +436,8 @@ Qg7 34. Bh6 Qf6 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2746"]
 [BlackElo "2770"]
-[EventDate "2009.05.13"]
 [ECO "B35"]
+[EventDate "2009.05.13"]
 
 1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 O-O
 8. Bb3 d6 9. f3 Bd7 10. Qd2 Nxd4 11. Bxd4 b5 12. h4 a5 13. a4 bxa4 14. Bxa4
@@ -456,8 +456,8 @@ Nd1 Rfc8 21. Ne3 Ra8 22. Ra2 a4 23. Rfa1 axb3 24. Rxa8 Nxa8 25. cxb3 Nb6
 [Result "1/2-1/2"]
 [WhiteElo "2717"]
 [BlackElo "2812"]
-[EventDate "2009.05.13"]
 [ECO "B90"]
+[EventDate "2009.05.13"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 Be7 8.
 Bg2 Nfd7 9. Be3 Nc6 10. Qd2 Nde5 11. b3 Nxd4 12. Bxd4 O-O 13. O-O-O b5 14.
@@ -477,8 +477,8 @@ Rxc2 39. Kxc2 Qxa2+ 40. Kc1 Qa1+ 41. Kc2 Qa2+ 42. Kc1 Qa1+ 43. Kc2 Qa2+
 [Result "1/2-1/2"]
 [WhiteElo "2745"]
 [BlackElo "2738"]
-[EventDate "2009.05.13"]
 [ECO "E04"]
+[EventDate "2009.05.13"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Qa4 Bd7 8.
 Qxc4 cxd4 9. Nxd4 Rc8 10. Nc3 Nxd4 11. Qxd4 Bc5 12. Qh4 O-O 13. Bg5 h6 14.
@@ -498,8 +498,8 @@ fxg4 39. hxg4 f6 40. Bc6 Bd1 41. Bd7 Kf7 42. Bc8 Be2 43. Bd7 Bd1 44. Bc8
 [Result "1-0"]
 [WhiteElo "2812"]
 [BlackElo "2746"]
-[EventDate "2009.05.13"]
 [ECO "C97"]
+[EventDate "2009.05.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
 c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. d5 Bd7 13. b3 c4 14. Ba3 Bd8 15.
@@ -525,8 +525,8 @@ h7 Kc2 81. h8=Q 1-0
 [Result "1/2-1/2"]
 [WhiteElo "2717"]
 [BlackElo "2745"]
-[EventDate "2009.05.13"]
 [ECO "C78"]
+[EventDate "2009.05.13"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8.
 c3 d6 9. d4 Bb6 10. Na3 O-O 11. axb5 axb5 12. Nxb5 Bg4 13. Be3 exd4 14.
@@ -547,8 +547,8 @@ Kg7 50. Rd7+ 1/2-1/2
 [Result "1-0"]
 [WhiteElo "2770"]
 [BlackElo "2738"]
-[EventDate "2009.05.13"]
 [ECO "D15"]
+[EventDate "2009.05.13"]
 
 1. c4 c6 2. d4 d5 3. Nf3 Nf6 4. Nc3 a6 5. c5 Bf5 6. Nh4 Bg6 7. Bf4 Nbd7 8.
 Nxg6 hxg6 9. h3 b6 10. cxb6 Qxb6 11. Rb1 e6 12. e3 c5 13. a3 Bd6 14. Na4
@@ -566,8 +566,8 @@ Rc7 33. Bc6 1-0
 [Result "1-0"]
 [WhiteElo "2745"]
 [BlackElo "2770"]
-[EventDate "2009.05.13"]
 [ECO "B33"]
+[EventDate "2009.05.13"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. Bd3 Ne7 12. Nxe7 Qxe7 13. c4 f5 14.
@@ -584,15 +584,15 @@ Rbg8 27. Qh6 Qc7 28. Nb4 Ba8 29. Nd5 Qd8 30. Rxe4 1-0
 [Result "1/2-1/2"]
 [WhiteElo "2738"]
 [BlackElo "2812"]
-[EventDate "2009.05.13"]
 [ECO "D82"]
+[EventDate "2009.05.13"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 dxc4 8.
-Bxc4 O-O 9. Nge2 Qxc5 10. Qb3 Nc6 11. Nb5 Qh5 12. Ng3 Qh4 13. Nc7 e5 14.
-Bg5 Qxg5 15. h4 Qg4 16. Nxa8 Qd7 17. Rd1 Qe7 18. Qa3 Nb4 19. O-O Bg4 20. f3
-Bh6 21. fxg4 Nxg4 22. Rxf7 Rxf7 23. Nf1 Kg7 24. Bxf7 Qxf7 25. Qxb4 Qf2+ 26.
-Kh1 Qxh4+ 27. Kg1 Qf2+ 28. Kh1 Qh4+ 29. Kg1 Bxe3+ 30. Nxe3 Qf2+ 31. Kh1
-Qh4+ 32. Kg1 Qf2+ 33. Kh1 Qh4+ 1/2-1/2
+Bxc4 O-O 9. Ne2 Qxc5 10. Qb3 Nc6 11. Nb5 Qh5 12. Ng3 Qh4 13. Nc7 e5 14. Bg5
+Qxg5 15. h4 Qg4 16. Nxa8 Qd7 17. Rd1 Qe7 18. Qa3 Nb4 19. O-O Bg4 20. f3 Bh6
+21. fxg4 Nxg4 22. Rxf7 Rxf7 23. Nf1 Kg7 24. Bxf7 Qxf7 25. Qxb4 Qf2+ 26. Kh1
+Qxh4+ 27. Kg1 Qf2+ 28. Kh1 Qh4+ 29. Kg1 Bxe3+ 30. Nxe3 Qf2+ 31. Kh1 Qh4+
+32. Kg1 Qf2+ 33. Kh1 Qh4+ 1/2-1/2
 
 [Event "5th MTel Masters"]
 [Site "Sofia BUL"]
@@ -603,8 +603,8 @@ Qh4+ 32. Kg1 Qf2+ 33. Kh1 Qh4+ 1/2-1/2
 [Result "1-0"]
 [WhiteElo "2746"]
 [BlackElo "2717"]
-[EventDate "2009.05.13"]
 [ECO "D74"]
+[EventDate "2009.05.13"]
 
 1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nc6
 8. Nc3 Nb6 9. e3 Re8 10. Re1 e5 11. d5 Na5 12. e4 c6 13. Bg5 f6 14. Be3

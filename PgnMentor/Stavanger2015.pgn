@@ -7,8 +7,8 @@
 [Result "1-0"]
 [WhiteElo "2773"]
 [BlackElo "2781"]
-[EventDate "2015.06.17"]
 [ECO "B31"]
+[EventDate "2015.06.17"]
 
 1. Nf3 c5 2. e4 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. O-O Bg7 6. Re1 Rb8 7. h3 Qc7
 8. c3 Nf6 9. e5 Nd5 10. c4 Nb4 11. d4 cxd4 12. a3 Na6 13. Qxd4 O-O 14. c5
@@ -27,8 +27,8 @@ Kf6 38. f4 Kg7 39. Kg3 Kg8 40. Qe3 Kg7 41. h4 Kg8 42. Qe5 1-0
 [Result "0-1"]
 [WhiteElo "2876"]
 [BlackElo "2798"]
-[EventDate "2015.06.17"]
 [ECO "D43"]
+[EventDate "2015.06.17"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
 Rc1 g6 9. Be2 Bg7 10. cxd5 exd5 11. b4 a6 12. a4 O-O 13. b5 axb5 14. axb5
@@ -50,8 +50,8 @@ Bd1 f5 58. Be2 f4 59. Qxh5 Qxf2 60. Qg5+ Kf7 0-1
 [Result "1/2-1/2"]
 [WhiteElo "2804"]
 [BlackElo "2805"]
-[EventDate "2015.06.17"]
 [ECO "C65"]
+[EventDate "2015.06.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nbd2 O-O 6. Bxc6 bxc6 7. Nxe5
 Re8 8. Nef3 d5 9. O-O Bg4 10. h3 Bh5 11. Qe2 dxe4 12. Nxe4 h6 13. Be3 Nxe4
@@ -70,8 +70,8 @@ Bd1 1/2-1/2
 [Result "1-0"]
 [WhiteElo "2802"]
 [BlackElo "2677"]
-[EventDate "2015.06.17"]
 [ECO "A20"]
+[EventDate "2015.06.17"]
 
 1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nf3 Nc6 6. O-O Nb6 7. b3 Be7
 8. Bb2 f6 9. d4 e4 10. Ne1 f5 11. f3 exf3 12. Nxf3 Nd5 13. Qd3 O-O 14. e3
@@ -81,7 +81,7 @@ Nxe5 27. dxe5 c6 28. Bd4 Nd7 29. Bf3 Rf8 30. Bh5 Qh6 31. Be3 Qe6 32. Bf4 a5
 33. Ng5 Qf5 34. Bg4 Qg6 35. Bh5 Qf5 36. e6 Nf6 37. Bf7+ Kh8 38. Rf1 Ne4 39.
 Nxe4 Qxe4 40. Qxe4 Bxe4 41. Be3 axb4 42. Bc5 Rd2 43. Rfe1 Bxc5+ 44. Rxc5
 Rg2+ 45. Kf1 b3 46. Rxe4 b2 47. Re1 Rxh2 48. Rce5 Rh1+ 49. Kg2 b1=Q 50.
-Rxb1 Rxb1 51. e7 Ra8 52. e8=R+ Rxe8 53. Rxe8+ 1-0
+Rxb1 Rxb1 51. e7 Ra8 52. e8=R+ Rxe8 53. Rxe8# 1-0
 
 [Event "3rd Norway Chess 2015"]
 [Site "Stavanger NOR"]
@@ -92,8 +92,8 @@ Rxb1 Rxb1 51. e7 Ra8 52. e8=R+ Rxe8 53. Rxe8+ 1-0
 [Result "1-0"]
 [WhiteElo "2723"]
 [BlackElo "2780"]
-[EventDate "2015.06.17"]
 [ECO "D38"]
+[EventDate "2015.06.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 Nbd7
 8. e3 g5 9. Bg3 Ne4 10. Qc2 h5 11. h3 Bxc3+ 12. bxc3 Nxg3 13. fxg3 Nb6 14.
@@ -115,8 +115,8 @@ Qd6+ Ke8 51. Qc6+ Ke7 52. Qc7+ Ke6 53. Qd6+ Kf7 54. Qd7+ Kf8 55. Qf5+ Ke7
 [Result "1/2-1/2"]
 [WhiteElo "2781"]
 [BlackElo "2780"]
-[EventDate "2015.06.17"]
 [ECO "A22"]
+[EventDate "2015.06.17"]
 
 1. c4 Nf6 2. Nc3 e5 3. e3 Bb4 4. Nge2 c6 5. a3 Ba5 6. b4 Bc7 7. Bb2 O-O 8.
 Ng3 d5 9. cxd5 Nxd5 10. Qc2 Nd7 11. Bd3 N7f6 12. O-O Nxc3 13. Bxc3 Be6 14.
@@ -134,8 +134,8 @@ fxg4 Qxg4+ 26. Kf2 Qh4+ 27. Ke2 Qg4+ 28. Kd3 Qf5+ 29. Ke2 Qg4+ 30. Kd3 Qf5+
 [Result "1/2-1/2"]
 [WhiteElo "2773"]
 [BlackElo "2804"]
-[EventDate "2015.06.17"]
 [ECO "A14"]
+[EventDate "2015.06.17"]
 
 1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. O-O O-O 6. b3 c5 7. Bb2 Nc6 8.
 e3 b6 9. Nc3 Ba6 10. Qe2 Qd7 11. Rfd1 Rac8 12. Nb5 Rfd8 13. Rac1 dxc4 14.
@@ -156,8 +156,8 @@ Kf7 44. e4 h5 45. Rb7+ Ke6 46. Rb6+ Kd7 47. Kf5 Kc7 48. Rb2 Kd7 49. e5 Rf1+
 [Result "1/2-1/2"]
 [WhiteElo "2798"]
 [BlackElo "2802"]
-[EventDate "2015.06.17"]
 [ECO "C78"]
+[EventDate "2015.06.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. a4 Rb8 8.
 Nxe5 Nxe5 9. d4 Bxd4 10. Qxd4 d6 11. Bf4 c5 12. Qd2 O-O 13. f3 c4 14. Ba2
@@ -178,8 +178,8 @@ Kf8 51. Ke1 Kg8 52. Ke2 Kf8 1/2-1/2
 [Result "1-0"]
 [WhiteElo "2805"]
 [BlackElo "2876"]
-[EventDate "2015.06.17"]
 [ECO "C67"]
+[EventDate "2015.06.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
 Nf5 8. Qxd8+ Kxd8 9. h3 h6 10. Rd1+ Ke8 11. Nc3 Ne7 12. b3 Bf5 13. Nd4 Bh7
@@ -199,8 +199,8 @@ Bf6 45. Rg2 1-0
 [Result "1/2-1/2"]
 [WhiteElo "2677"]
 [BlackElo "2723"]
-[EventDate "2015.06.17"]
 [ECO "A29"]
+[EventDate "2015.06.17"]
 
 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. e4 d6 8.
 d3 h6 9. Be3 Kh7 10. h3 Nd7 11. Rc1 Nd4 12. Bxd4 exd4 13. Ne2 c5 14. h4 b5
@@ -222,8 +222,8 @@ Kh6 51. Bf1 Kh5 52. f5 Kg4 53. f6 h3 54. Bxh3+ Kxh3 55. Kxf7 d3 56. Kg7 d2
 [Result "1-0"]
 [WhiteElo "2802"]
 [BlackElo "2805"]
-[EventDate "2015.06.17"]
 [ECO "A35"]
+[EventDate "2015.06.17"]
 
 1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 g6 7. O-O Bg7
 8. Nxd5 Qxd5 9. d3 O-O 10. Be3 Bd7 11. Nd4 Qd6 12. Nxc6 Bxc6 13. Bxc6 Qxc6
@@ -244,8 +244,8 @@ Ra2+ 51. Kf3 Rd2 52. Rd7 Kc6 53. Rd5 Kb6 54. e5 Kc6 55. Rd8 Kc7 56. Rd6 1-0
 [Result "0-1"]
 [WhiteElo "2723"]
 [BlackElo "2798"]
-[EventDate "2015.06.17"]
 [ECO "D47"]
+[EventDate "2015.06.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
 Bd3 Bb7 9. O-O a6 10. e4 c5 11. d5 Qc7 12. dxe6 fxe6 13. Bc2 Bd6 14. Ng5
@@ -262,10 +262,10 @@ Nf8 15. f4 O-O-O 16. Qe1 e5 17. f5 h6 18. Nf3 N8d7 19. Kh1 Rhe8 20. Bd2 Qc6
 [Result "1/2-1/2"]
 [WhiteElo "2876"]
 [BlackElo "2773"]
-[EventDate "2015.06.17"]
 [ECO "B51"]
+[EventDate "2015.06.17"]
 
-1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c3 Ngf6 5. Qe2 a6 6. Ba4 b5 7. Bc2 e6 8.
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c3 Nf6 5. Qe2 a6 6. Ba4 b5 7. Bc2 e6 8.
 d4 Bb7 9. O-O Be7 10. Re1 O-O 11. Nbd2 cxd4 12. cxd4 Rc8 13. Nf1 Re8 14.
 Ng3 Bf8 15. Be3 Rc7 16. Bd3 e5 17. d5 Nc5 18. Bc2 b4 19. a3 b3 20. Bxc5
 Rxc5 21. Bxb3 Qb6 22. Bc4 Rec8 23. Bd3 g6 24. Nf1 Bh6 25. Ne3 a5 26. b4
@@ -288,8 +288,8 @@ Kf8 Kg5 75. g7 Kxh5 76. g8=Q Nxg8 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2780"]
 [BlackElo "2677"]
-[EventDate "2015.06.17"]
 [ECO "A29"]
+[EventDate "2015.06.17"]
 
 1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7
 8. a3 O-O 9. d3 Be6 10. Be3 Nd5 11. Bd2 f6 12. Qc2 Nb6 13. b4 Nd4 14. Nxd4
@@ -311,8 +311,8 @@ Bc1 Rd8 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2804"]
 [BlackElo "2781"]
-[EventDate "2015.06.17"]
 [ECO "B33"]
+[EventDate "2015.06.17"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Rb8 13. a4 bxa4 14.
@@ -331,8 +331,8 @@ fxe5 Rxe5 27. Qd4 Qf6 28. Rc4 Bd7 29. Rf3 Bxb5 30. Nxb5 Rxe2+ 31. Kh3 Rxb2
 [Result "1-0"]
 [WhiteElo "2798"]
 [BlackElo "2780"]
-[EventDate "2015.06.17"]
 [ECO "D38"]
+[EventDate "2015.06.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qa4+ Nc6
 8. e3 O-O 9. Be2 dxc4 10. O-O Bd7 11. Bxc4 Bxc3 12. bxc3 Rfd8 13. Be2 Be8
@@ -354,8 +354,8 @@ Rc7+ Ke8 51. Rxg7 fxe5 52. Rcc7 Kf8 53. Rh7 Kg8 54. Rcg7+ Kf8 55. Rd7 Kg8
 [Result "1/2-1/2"]
 [WhiteElo "2773"]
 [BlackElo "2802"]
-[EventDate "2015.06.17"]
 [ECO "C78"]
+[EventDate "2015.06.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8.
 a4 Rb8 9. d4 Bb6 10. Na3 O-O 11. axb5 axb5 12. Nxb5 Bg4 13. Bc2 exd4 14.
@@ -377,8 +377,8 @@ Bd5+ Rxd5 51. Rxf6+ Kxf6 52. Rxc3 Rd8 53. Kg4 Rc8 54. c7 Ke6 55. Kh5 Kd6
 [Result "1-0"]
 [WhiteElo "2804"]
 [BlackElo "2876"]
-[EventDate "2015.06.17"]
 [ECO "C84"]
+[EventDate "2015.06.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8.
 Nbd2 Re8 9. Re1 b5 10. Bc2 Bf8 11. Nf1 g6 12. h3 Bb7 13. Ng3 Nb8 14. d4
@@ -398,8 +398,8 @@ Nxg6 Kxg6 45. Rf8 a4 46. c4 h5 47. Kf2 1-0
 [Result "1-0"]
 [WhiteElo "2781"]
 [BlackElo "2677"]
-[EventDate "2015.06.17"]
 [ECO "A20"]
+[EventDate "2015.06.17"]
 
 1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. d3 Be7 7. Nh3 g5 8.
 Ng1 h5 9. h3 Nc6 10. Bxc6+ bxc6 11. Nf3 f6 12. Be3 Bxh3 13. Rxh3 g4 14. Rh1
@@ -419,8 +419,8 @@ Ke4 Rh3 45. Kd4 Kh7 46. Kc4 Rh4+ 47. Kc3 Rh3+ 48. Kb2 Kxh6 49. Rxa5 1-0
 [Result "1/2-1/2"]
 [WhiteElo "2805"]
 [BlackElo "2723"]
-[EventDate "2015.06.17"]
 [ECO "B90"]
+[EventDate "2015.06.17"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8.
 g3 Be6 9. Bg2 b5 10. O-O Nbd7 11. Be3 Be7 12. Nd5 Nxd5 13. exd5 Bf5 14. f4
@@ -439,8 +439,8 @@ Kg7 33. g4 Rc3 34. Rd2 Be3 35. Re2 a5 36. Be4 Bd4 37. Bf3 Bf6 38. g5 Bd4
 [Result "1/2-1/2"]
 [WhiteElo "2723"]
 [BlackElo "2773"]
-[EventDate "2015.06.17"]
 [ECO "D45"]
+[EventDate "2015.06.17"]
 
 1. c4 e6 2. Nc3 d5 3. d4 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8.
 O-O e5 9. cxd5 cxd5 10. e4 exd4 11. Nxd5 Nxd5 12. exd5 h6 13. Nxd4 Qh4 14.
@@ -460,8 +460,8 @@ hxg4 45. hxg4 g6 46. Nd4 Nxd4+ 47. Bxd4 Ke6 1/2-1/2
 [Result "1-0"]
 [WhiteElo "2876"]
 [BlackElo "2781"]
-[EventDate "2015.06.17"]
 [ECO "B91"]
+[EventDate "2015.06.17"]
 
 1. Nf3 c5 2. e4 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8.
 Bg2 b5 9. Nd5 Nbd7 10. Nec3 Bb7 11. a4 Nxd5 12. Nxd5 Nf6 13. axb5 Nxd5 14.
@@ -481,8 +481,8 @@ Bd7 45. Bg6 1-0
 [Result "1/2-1/2"]
 [WhiteElo "2802"]
 [BlackElo "2804"]
-[EventDate "2015.06.17"]
 [ECO "E32"]
+[EventDate "2015.06.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. e3 b6 8.
 cxd5 exd5 9. Bd3 Ba6 10. Bxa6 Nxa6 11. Qd3 Qc8 12. Ne2 c5 13. b3 cxd4 14.
@@ -502,8 +502,8 @@ Re7+ Kg6 39. Re6 Nd2+ 40. Bxd2 Rxd2 41. Rxb6 Ra2 42. Rb4 Rd2 43. Ra4 Rb2
 [Result "0-1"]
 [WhiteElo "2677"]
 [BlackElo "2798"]
-[EventDate "2015.06.17"]
 [ECO "D12"]
+[EventDate "2015.06.17"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8.
 Bd2 Nbd7 9. Qc2 a6 10. O-O-O Be7 11. Kb1 Qc7 12. h3 Rd8 13. c5 e5 14. f4
@@ -528,8 +528,8 @@ Ke6 0-1
 [Result "1-0"]
 [WhiteElo "2780"]
 [BlackElo "2805"]
-[EventDate "2015.06.17"]
 [ECO "A30"]
+[EventDate "2015.06.17"]
 
 1. c4 c5 2. Nf3 Nf6 3. e3 e6 4. d4 d5 5. cxd5 exd5 6. Bb5+ Bd7 7. Bxd7+
 Nbxd7 8. dxc5 Nxc5 9. O-O Be7 10. Nc3 O-O 11. b3 Nce4 12. Ne2 Qa5 13. Bb2
@@ -551,8 +551,8 @@ Qxg4 38. Nf6+ Nxf6 39. Qxf6 Qxg3+ 40. Kxg3 Ne4+ 41. Kf4 Nxf6 42. Ke5 Kg6
 [Result "1/2-1/2"]
 [WhiteElo "2876"]
 [BlackElo "2802"]
-[EventDate "2015.06.17"]
 [ECO "D56"]
+[EventDate "2015.06.17"]
 
 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Ne4 8.
 Bxe7 Qxe7 9. Rc1 c6 10. Qc2 Nxc3 11. Qxc3 dxc4 12. Bxc4 b6 13. O-O Nd7 14.
@@ -580,8 +580,8 @@ Qe4 27. Qxe4 Nxe4 28. b3 Nd2 29. Rc1 a5 30. Rc2 Nb1 31. Rc1 Nd2 32. Rc2 Nb1
 [Result "1-0"]
 [WhiteElo "2804"]
 [BlackElo "2723"]
-[EventDate "2015.06.17"]
 [ECO "B90"]
+[EventDate "2015.06.17"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 h6 8.
 Bg2 Nc6 9. Be3 Be7 10. f4 Nd7 11. O-O Nxd4 12. Qxd4 O-O 13. Qd2 Rb8 14. Ne2
@@ -598,10 +598,10 @@ dxe4 27. Be2 e3+ 28. Kg1 Bc5 29. Kf1 1-0
 [Result "0-1"]
 [WhiteElo "2781"]
 [BlackElo "2798"]
-[EventDate "2015.06.17"]
 [ECO "E20"]
+[EventDate "2015.06.17"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 O-O 6. e4 d6 7. Nge2 b5 8. Nf4
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 O-O 6. e4 d6 7. Ne2 b5 8. Nf4
 exd5 9. cxd5 a6 10. Be2 Nbd7 11. O-O c4 12. Be3 Bc5 13. Bxc5 Nxc5 14. b4
 cxb3 15. axb3 b4 16. Nb5 Qb6 17. Kh1 g5 18. Qd4 Ncd7 19. Qxb6 Nxb6 20. Nc7
 Ra7 21. Nb5 Re7 22. Nxd6 gxf4 23. Bxa6 Rd8 24. Bxc8 Rxd6 25. Bf5 Nbd7 26.
@@ -618,8 +618,8 @@ d6 Rh6 39. Rh2 Rxd6 0-1
 [Result "1/2-1/2"]
 [WhiteElo "2805"]
 [BlackElo "2677"]
-[EventDate "2015.06.17"]
 [ECO "A13"]
+[EventDate "2015.06.17"]
 
 1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 d4 5. e3 Nc6 6. O-O Bc5 7. b4 Bxb4 8.
 exd4 O-O 9. Bb2 Rb8 10. Na3 Bxa3 11. Bxa3 Re8 12. Bb2 b5 13. Bc3 bxc4 14.
@@ -639,8 +639,8 @@ Qf2+ 44. Kh3 Qf1+ 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2773"]
 [BlackElo "2780"]
-[EventDate "2015.06.17"]
 [ECO "D39"]
+[EventDate "2015.06.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 dxc4 6. e4 c5 7. Bxc4 cxd4
 8. Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Nbd7 11. Bxf6 Qxc3+ 12. Kf1 gxf6 13. h4
@@ -658,8 +658,8 @@ f5 32. exf5+ Kxf5 33. Rf4+ Kg6 34. Rd4 Kf5 35. Rf4+ Kg6 36. Rd4 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2677"]
 [BlackElo "2773"]
-[EventDate "2015.06.17"]
 [ECO "B08"]
+[EventDate "2015.06.17"]
 
 1. Nf3 g6 2. e4 d6 3. d4 Bg7 4. Nc3 Nf6 5. Be3 a6 6. Qd2 b5 7. Bh6 O-O 8.
 Bd3 Bg4 9. e5 dxe5 10. dxe5 Nh5 11. Bxg7 Nxg7 12. Be4 Bxf3 13. Bxf3 Qxd2+
@@ -681,8 +681,8 @@ Rg2 Kg7 58. Ke3 Kf7 59. Rh2 Kf8 60. Kd4 Kf7 61. Rg2 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2798"]
 [BlackElo "2805"]
-[EventDate "2015.06.17"]
 [ECO "E60"]
+[EventDate "2015.06.17"]
 
 1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. cxd5 cxd5 6. Nf3 Bg7 7. Nc3 O-O 8.
 Ne5 e6 9. O-O Nfd7 10. Nf3 Nf6 11. Bf4 Nc6 12. Ne5 Nxe5 13. Bxe5 Bd7 14.
@@ -702,8 +702,8 @@ Qd8+ 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2723"]
 [BlackElo "2876"]
-[EventDate "2015.06.17"]
 [ECO "D43"]
+[EventDate "2015.06.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 8.
 Nxe4 dxe4 9. Nd2 Qxd4 10. e3 Qxb2 11. Rb1 Qc3 12. Be2 Nd7 13. O-O Nc5 14.
@@ -718,8 +718,8 @@ Nb3 Nd3 15. Nd2 Nc5 16. Nb3 Nd3 17. Nd2 Nc5 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2780"]
 [BlackElo "2804"]
-[EventDate "2015.06.17"]
 [ECO "A29"]
+[EventDate "2015.06.17"]
 
 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. O-O e4 7. Ng5 Bxc3
 8. bxc3 Re8 9. f3 exf3 10. Nxf3 Qe7 11. e3 Ne5 12. Nxe5 Qxe5 13. Rb1 Rb8
@@ -735,8 +735,8 @@ Bg2 1/2-1/2
 [Result "1/2-1/2"]
 [WhiteElo "2802"]
 [BlackElo "2781"]
-[EventDate "2015.06.17"]
 [ECO "A37"]
+[EventDate "2015.06.17"]
 
 1. c4 c5 2. Nf3 Nc6 3. Nc3 e5 4. g3 g6 5. Bg2 Bg7 6. a3 Nge7 7. O-O O-O 8.
 Ne1 d6 9. Nc2 Be6 10. Ne3 Qd7 11. d3 Bh3 12. Rb1 Bxg2 13. Kxg2 f5 14. Ned5
@@ -755,8 +755,8 @@ Qc4 Qxc4 33. Rxc4 Kg7 34. e4 fxe4 35. dxe4 Rxe4 36. Rxc5 R8e7 37. Ra5 R4e5
 [Result "1/2-1/2"]
 [WhiteElo "2781"]
 [BlackElo "2805"]
-[EventDate "2015.06.17"]
 [ECO "A49"]
+[EventDate "2015.06.17"]
 
 1. Nf3 Nf6 2. g3 g6 3. d4 d5 4. c4 c6 5. Bg2 Bg7 6. Qb3 O-O 7. Nc3 Qb6 8.
 O-O Rd8 9. Na4 Qxb3 10. axb3 Na6 11. Nc3 Bf5 12. Bf4 Nh5 13. Bg5 Nf6 14.
@@ -777,8 +777,8 @@ Kf3 Rf1+ 51. Kg2 Ra1 1/2-1/2
 [Result "1-0"]
 [WhiteElo "2876"]
 [BlackElo "2780"]
-[EventDate "2015.06.17"]
 [ECO "C90"]
+[EventDate "2015.06.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8.
 c3 O-O 9. Re1 Na5 10. Bc2 c5 11. Nbd2 Nc6 12. Nf1 h6 13. Ne3 Re8 14. a4 Be6
@@ -797,8 +797,8 @@ Ne1 Nh5 39. gxf5 exf5 40. Qc4 1-0
 [Result "1-0"]
 [WhiteElo "2773"]
 [BlackElo "2798"]
-[EventDate "2015.06.17"]
 [ECO "E10"]
+[EventDate "2015.06.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8.
 Qc2 Nbd7 9. Rd1 b6 10. b3 a5 11. Bc3 Bb7 12. Nbd2 c5 13. Ne5 cxd4 14. Bxd4
@@ -820,8 +820,8 @@ Kd4 1-0
 [Result "1/2-1/2"]
 [WhiteElo "2802"]
 [BlackElo "2723"]
-[EventDate "2015.06.17"]
 [ECO "B92"]
+[EventDate "2015.06.17"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
 Qd3 b5 9. a4 b4 10. Nd5 Bb7 11. Nxf6+ Bxf6 12. Bd2 a5 13. c3 bxc3 14. Bxc3
@@ -841,8 +841,8 @@ Rg1 Rf6 45. Rf1 Rg6 46. Rg1 Rf6 47. Rf1 1/2-1/2
 [Result "1-0"]
 [WhiteElo "2804"]
 [BlackElo "2677"]
-[EventDate "2015.06.17"]
 [ECO "A20"]
+[EventDate "2015.06.17"]
 
 1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. d3 Be7 7. Be3 O-O
 8. Rc1 f5 9. Nf3 Nc6 10. O-O Be6 11. b4 a6 12. a3 Kh8 13. Na4 Nxa4 14. Qxa4
@@ -860,8 +860,8 @@ Qf6 33. Qe2 g6 34. Bxg6 Qxg6 35. Qxe5+ Kg8 36. Qxc5 1-0
 [Result "1/2-1/2"]
 [WhiteElo "2723"]
 [BlackElo "2781"]
-[EventDate "2015.06.17"]
 [ECO "D38"]
+[EventDate "2015.06.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 Nbd7
 8. e3 g5 9. Bg3 Ne4 10. Qc2 h5 11. h3 Qf6 12. Bd3 Bxc3+ 13. bxc3 Nxg3 14.
@@ -880,8 +880,8 @@ Kxe6 26. Rh7 Rf8 27. a4 b6 28. Kd3 c5 29. Rh6+ f6 30. Rh7 Rf5 31. Rf4 c4+
 [Result "1/2-1/2"]
 [WhiteElo "2798"]
 [BlackElo "2804"]
-[EventDate "2015.06.17"]
 [ECO "D38"]
+[EventDate "2015.06.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8.
 Rc1 dxc4 9. Bxc4 c5 10. O-O cxd4 11. Nxd4 Bd7 12. Qb3 Nc6 13. Nxc6 Bxc3 14.
@@ -896,8 +896,8 @@ Rxc3 Bxc6 15. Bb5 Bd5 16. Bc4 Bc6 17. Bb5 Bd5 18. Bc4 1/2-1/2
 [Result "1-0"]
 [WhiteElo "2677"]
 [BlackElo "2876"]
-[EventDate "2015.06.17"]
 [ECO "D30"]
+[EventDate "2015.06.17"]
 
 1. d4 d5 2. c4 e6 3. Nf3 a6 4. Bg5 f6 5. Bd2 dxc4 6. e3 Nc6 7. Bxc4 Bd6 8.
 e4 Nge7 9. O-O O-O 10. Qb3 Kh8 11. Bxe6 Bxh2+ 12. Kxh2 Qd6+ 13. Kh1 Bxe6
@@ -915,8 +915,8 @@ hxg6 32. Rxc7 Rxb3 33. Rd1 Nc6 34. Rdd7 1-0
 [Result "0-1"]
 [WhiteElo "2780"]
 [BlackElo "2802"]
-[EventDate "2015.06.17"]
 [ECO "A25"]
+[EventDate "2015.06.17"]
 
 1. c4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 d6 5. e3 a6 6. Nge2 Ba7 7. a3 h5 8. d4
 h4 9. b4 Nge7 10. c5 Bf5 11. Bb2 Qd7 12. Qb3 h3 13. Bf3 exd4 14. Nxd4 Bg4
@@ -935,8 +935,8 @@ gxf6 gxf6 39. Nf4 b6 40. Nxh3 Rb1 0-1
 [Result "1/2-1/2"]
 [WhiteElo "2805"]
 [BlackElo "2773"]
-[EventDate "2015.06.17"]
 [ECO "C80"]
+[EventDate "2015.06.17"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
 dxe5 Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 d4 12. Nb3 d3 13. Bb1 Nxb3 14. axb3
