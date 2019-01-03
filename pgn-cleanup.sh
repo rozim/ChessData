@@ -1,7 +1,9 @@
 
 
-for d in RebelSite Convekta Kingbase Britbase PgnMentor ChessNostalgia.com WorldChampionships Corus ChessOk.com PgnDownloads Chessopolis.com Twic Npollock Bundesliga; do
-  for f in $d/*.pgn; do
+# for d in RebelSite Convekta Kingbase Britbase PgnMentor ChessNostalgia.com WorldChampionships Corus ChessOk.com PgnDownloads Chessopolis.com Twic Npollock Bundesliga; do
+for d in Convekta; do
+    for f in $d/*.pgn; do
+	echo $f
 	pgn-extract \
 	-C \
 	-D \

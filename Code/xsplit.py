@@ -2,7 +2,7 @@ import os
 import sys
 
 
-bytes = 45 * 1024 * 1024
+bytes = 25 * 1024 * 1024
 github_limit = 50 * 1024 * 1024
 
 for fn in sys.argv[1:]:
