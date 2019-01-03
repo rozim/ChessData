@@ -24,7 +24,7 @@ for fn in sys.argv[1:]:
         if space >= bytes:
           assert space < github_limit, space
           print "chunk {}, lines {}, bytes {}".format(chunk, len(ar), sum([len(x) for x in ar]))
-          with open("{}_part{:02d}.pgn".format(base, chunk), 'w') as fw:
+          with open("{}_part_{:02d}.pgn".format(base, chunk), 'w') as fw:
             fw.write('\n'.join(ar))
             chunk += 1
           ar, space = [], 0
@@ -35,7 +35,7 @@ for fn in sys.argv[1:]:
 
     if len(ar) > 0:
       print "chunk {}, lines {}, bytes {}".format(chunk, len(ar), sum([len(x) for x in ar]))
-      with open("{}_part{:02d}.pgn".format(base, chunk), 'w') as fw:
+      with open("{}_part_{:02d}.pgn".format(base, chunk), 'w') as fw:
         fw.write('\n'.join(ar))
     print("RM {}".format(fn))
     os.remove(fn)
