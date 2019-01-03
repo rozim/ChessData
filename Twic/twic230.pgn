@@ -1,6 +1,11 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "?"]
 
-Novgorod Open
---------------
 
 [Event "Open"]
 [Site "Novgorod RUS"]
@@ -9,9 +14,9 @@ Novgorod Open
 [White "Vaulin,A"]
 [Black "Sherbakov,R"]
 [Result "1-0"]
-[ECO "A43"]
 [WhiteElo "2547"]
 [BlackElo "2559"]
+[ECO "A43"]
 
 1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. Nc3 d6 5. e4 Bg4 6. Be2 Bxf3 7. Bxf3 Bg7 8.
 Bf4 Nbd7 9. Qd2 O-O 10. O-O Ne8 11. a4 Nc7 12. Bh6 Bxh6 13. Qxh6 e5 14.
@@ -31,9 +36,9 @@ f6 Rf4+ 57. Kg3 Nd4 58. Rb1 Ne2+ 59. Kh4 Nb4 60. f7+ Kh8 61. Rxb4 1-0
 [White "Voitsekhovsky,S"]
 [Black "Loginov,Va"]
 [Result "1/2-1/2"]
-[ECO "B88"]
 [WhiteElo "2558"]
 [BlackElo "2532"]
+[ECO "B88"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8.
 f4 Nc6 9. Be3 O-O 10. Qf3 Qc7 11. O-O-O b5 12. e5 Nxd4 13. Bxd4 dxe5 14.
@@ -53,9 +58,9 @@ Kf5 58. b6 Rh1 59. Bg1 Bb7 60. Kc5 Rh7 61. Kd6 Kxf4 1/2-1/2
 [White "Lastin,A"]
 [Black "Galkin,A"]
 [Result "0-1"]
-[ECO "B80"]
 [WhiteElo "2558"]
 [BlackElo "2507"]
+[ECO "B80"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be3 a6 7. f3 b5 8.
 Qd2 Nbd7 9. g4 h6 10. O-O-O Bb7 11. Bd3 Ne5 12. Rhe1 Nfd7 13. f4 Nxg4 14.
@@ -75,9 +80,9 @@ b4 51. Rcf5 Qd6 52. Rf1 bxa3 53. Qb3 axb2+ 54. Kb1 Qe7 55. Rb5 Qe4+ 56. Ka2
 [White "Yevseev,D"]
 [Black "Kalugin,S"]
 [Result "1-0"]
-[ECO "E07"]
 [WhiteElo "2503"]
 [BlackElo "2355"]
+[ECO "E07"]
 
 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O c6 7. Nc3 Nbd7 8.
 Qd3 b6 9. Rd1 Ba6 10. b3 Ne8 11. e4 dxc4 12. bxc4 Nd6 13. Qc2 Nxc4 14. a4
@@ -96,9 +101,9 @@ a3 51. Rxb6+ Kg7 52. Ra6 a2 53. Kg2 Kh8 54. Ra7 1-0
 [White "Chuprov,D"]
 [Black "Ibragimov,I"]
 [Result "1/2-1/2"]
-[ECO "A21"]
 [WhiteElo "2400"]
 [BlackElo "2602"]
+[ECO "A21"]
 
 1. c4 e5 2. Nc3 d6 3. g3 g6 4. Bg2 Bg7 5. e3 f5 6. Nge2 Nf6 7. d3 O-O 8.
 O-O c6 9. Rb1 Be6 10. b3 Re8 11. f4 Nbd7 12. h3 d5 13. Kh2 Bf7 14. Ba3 Qb6
@@ -117,9 +122,9 @@ Nc5 Nxc5 27. Rxc5 Qb6 28. Rc2 Qd4 29. Qxd4 Rxd4 30. Nf3 Rdd8 31. Ne5 Bd5
 [White "Lugovoi,A"]
 [Black "Filipenko,A"]
 [Result "1/2-1/2"]
-[ECO "D43"]
 [WhiteElo "2510"]
 [BlackElo "2360"]
+[ECO "D43"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
 Bg3 b5 9. Be2 Nbd7 10. Qc2 Nh5 11. O-O Nxg3 12. fxg3 Bb7 13. a4 a6 14. Kh1
@@ -139,9 +144,9 @@ Kg5 45. Bd7 Be7 46. Kf2 Bd6 47. Kf1 Kf6 48. Kg1 Ke5 49. Kf1 Be7 50. Be8 h4
 [White "Iskusnyh,S"]
 [Black "Sargissian,G"]
 [Result "1/2-1/2"]
-[ECO "A33"]
 [WhiteElo "2486"]
 [BlackElo "2390"]
+[ECO "A33"]
 
 1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g3 Qb6 7. Nb3 Ne5
 8. e4 Bb4 9. Qe2 d6 10. Bd2 Bd7 11. f4 Ng6 12. O-O-O O-O 13. Bg2 Rfc8 14.
@@ -155,11 +160,11 @@ cxd5 a4 21. N3d4 1/2-1/2
 [White "Nenashev,A"]
 [Black "Dokutchaev,A"]
 [Result "1-0"]
-[ECO "E46"]
 [WhiteElo "2616"]
 [BlackElo "2443"]
+[ECO "E46"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 d5 6. a3 Be7 7. Ng3 c5 8.
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. Ng3 c5 8.
 dxc5 Bxc5 9. b4 Be7 10. Bb2 Nc6 11. Qc2 Bd7 12. Rd1 Rc8 13. Qb3 Qb6 14.
 cxd5 exd5 15. Bd3 Be6 16. Na4 Qc7 17. O-O d4 18. Qc2 a5 19. exd4 axb4 20.
 d5 b3 21. Qe2 Nxd5 22. Bxh7+ Kxh7 23. Rxd5 Bxd5 24. Qh5+ Kg8 25. Bxg7 Kxg7
@@ -173,9 +178,9 @@ d5 b3 21. Qe2 Nxd5 22. Bxh7+ Kxh7 23. Rxd5 Bxd5 24. Qh5+ Kg8 25. Bxg7 Kxg7
 [White "Popov,Val"]
 [Black "Nadanian,A"]
 [Result "1/2-1/2"]
-[ECO "D34"]
 [WhiteElo "2582"]
 [BlackElo "2413"]
+[ECO "D34"]
 
 1. Nf3 d5 2. d4 e6 3. c4 c5 4. cxd5 exd5 5. g3 Nc6 6. Bg2 Nf6 7. O-O Be7 8.
 Nc3 O-O 9. dxc5 Bxc5 10. Bg5 d4 11. Na4 Be7 12. Rc1 Be6 13. a3 Re8 14. b4
@@ -191,9 +196,9 @@ Rf3 Re8 27. Nf5 Ree2 28. Rd4 Be1 29. Nxh6+ gxh6 30. Rg4+ Kh8 31. Nf6 Rxf2+
 [White "Dreev,A"]
 [Black "Kotsur,P"]
 [Result "0-1"]
-[ECO "B07"]
 [WhiteElo "2639"]
 [BlackElo "2511"]
+[ECO "B07"]
 
 1. d4 d6 2. e4 Nf6 3. f3 d5 4. e5 Ng8 5. c4 dxc4 6. Bxc4 e6 7. Ne2 Ne7 8.
 Be3 c5 9. dxc5 Qxd1+ 10. Kxd1 Nd7 11. Bb5 Nc6 12. Nbc3 Ndxe5 13. Kc2 Bd7
@@ -213,9 +218,9 @@ Ka4 Nac4 45. Nxc6 Nxb6+ 46. Kb4 f4 47. Bf2 Nd5+ 48. Kc5 Ne3 49. Ba4 Nb7+
 [White "Beshukov,S"]
 [Black "Iliushkin,E"]
 [Result "1-0"]
-[ECO "B21"]
 [WhiteElo "2511"]
 [BlackElo "2405"]
+[ECO "B21"]
 
 1. e4 c5 2. d3 Nc6 3. f4 e6 4. Nf3 d6 5. c3 Nf6 6. g3 Be7 7. Bg2 Qc7 8. O-O
 c4 9. Na3 cxd3 10. Qxd3 a6 11. c4 O-O 12. Kh1 Rb8 13. Bd2 Nd7 14. Rfc1 b6
@@ -236,9 +241,9 @@ g5 Bd6 64. f6 gxf6 65. gxf6 Bf8 66. f7 c2 67. Rd3 1-0
 [White "Prokopchuk,E"]
 [Black "Strukov,R"]
 [Result "1-0"]
-[ECO "B12"]
 [WhiteElo "2489"]
 [BlackElo "2325"]
+[ECO "B12"]
 
 1. e4 c6 2. d4 Qa5+ 3. c3 d5 4. e5 Bf5 5. Nd2 e6 6. Ngf3 Nd7 7. Nh4 Ne7 8.
 Nxf5 Nxf5 9. Bd3 Be7 10. O-O O-O-O 11. b4 Qc7 12. Qe2 h5 13. Nb3 g6 14. a4
@@ -254,9 +259,9 @@ Rxf2 32. Kxf2 b6 33. a6 Kb8 34. Ke3 Kc7 35. Kf4 bxc5 36. dxc5 Kd7 1-0
 [White "Karpatchev,A"]
 [Black "Ivanov,T"]
 [Result "1-0"]
-[ECO "E80"]
 [WhiteElo "2477"]
 [BlackElo "2390"]
+[ECO "E80"]
 
 1. e4 d6 2. d4 Nf6 3. f3 c6 4. c4 g6 5. Nc3 Bg7 6. Bg5 O-O 7. Qd2 e5 8. d5
 cxd5 9. Nxd5 Nc6 10. Ne2 Be6 11. Nec3 Nd4 12. Bd3 Bxd5 13. cxd5 h6 14. Be3
@@ -278,9 +283,9 @@ fxe4 Bd4+ 64. Kf3 fxe4+ 65. Kxe4 Bc5 66. b7 Ba7 67. Rg8+ Kh7 68. Ra8 Re7+
 [White "Vokarev,S"]
 [Black "Akobian,V"]
 [Result "0-1"]
-[ECO "B07"]
 [WhiteElo "2462"]
 [BlackElo "2359"]
+[ECO "B07"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 6. dxe5 dxe5 7. f5 b5 8.
 Nf3 Nbd7 9. Qe2 a6 10. Bd2 Qb6 11. Nd1 Bb7 12. a4 Bd6 13. b4 c5 14. axb5
@@ -296,9 +301,9 @@ Rxf7 Qxg2+ 33. Qxg2 Bxg2 34. Bxb4 Re2 35. Kg3 Nh5+ 0-1
 [White "Sambuev,B"]
 [Black "Goloshchapov,A"]
 [Result "0-1"]
-[ECO "D46"]
 [WhiteElo "2409"]
 [BlackElo "2446"]
+[ECO "D46"]
 
 1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8.
 O-O dxc4 9. Bxc4 b5 10. Be2 Bb7 11. a3 a6 12. e4 e5 13. Rd1 Qb8 14. h3 Re8
@@ -316,12 +321,12 @@ Qc2+ Kg5 45. Qe2 Qe4 0-1
 [White "Bratchenko,A"]
 [Black "Yandemirov,V"]
 [Result "0-1"]
-[ECO "D91"]
 [WhiteElo "2342"]
 [BlackElo "2475"]
+[ECO "D91"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 c6
-8. dxc6 Nxc6 9. d5 Qa5 10. Nge4 Bf5 11. Nd2 Bxc3 12. bxc3 Qxd5 13. Qb3 Qc5
+8. dxc6 Nxc6 9. d5 Qa5 10. Ne4 Bf5 11. Nd2 Bxc3 12. bxc3 Qxd5 13. Qb3 Qc5
 14. Qc4 Qe5 15. Rc1 O-O 16. e3 Rfd8 17. Qb5 Rac8 18. Qxe5 Nxe5 19. e4 Be6
 20. Rc2 Rc5 21. f3 Ra5 22. c4 Nc6 23. Rb2 Ra4 24. Be2 Nb4 25. a3 Nc6 26.
 Rb3 b5 27. Rc3 b4 28. axb4 Ra1+ 29. Bd1 Nxb4 30. g3 Ra2 0-1
@@ -333,9 +338,9 @@ Rb3 b5 27. Rc3 b4 28. axb4 Ra1+ 29. Bd1 Nxb4 30. g3 Ra2 0-1
 [White "Polovodin,I"]
 [Black "Loginov,A"]
 [Result "0-1"]
-[ECO "B06"]
 [WhiteElo "2468"]
 [BlackElo "2320"]
+[ECO "B06"]
 
 1. d4 g6 2. e4 Bg7 3. Nf3 d6 4. Be2 Nd7 5. O-O e5 6. Nc3 Ngf6 7. dxe5 dxe5
 8. b3 O-O 9. a4 Nc5 10. Ba3 Ncxe4 11. Nxe4 Nxe4 12. Bxf8 Qxf8 13. Qe1 Qc5
@@ -352,9 +357,9 @@ c4 33. Ree1 b3 34. cxb3 cxb3 35. Reb1 b2 36. Ra2 Nc3 37. Rxa3 Rxa3 38. Rxb2
 [White "Feoktistov,A"]
 [Black "Akhmadeev,V"]
 [Result "1-0"]
-[ECO "D59"]
 [WhiteElo "2390"]
 [BlackElo "2467"]
+[ECO "D59"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8.
 Rc1 Bb7 9. cxd5 Nxd5 10. Nxd5 exd5 11. Bxe7 Qxe7 12. Bd3 c5 13. O-O c4 14.
@@ -371,9 +376,9 @@ gxh4 39. R5f6+ 1-0
 [White "Malinin,Y"]
 [Black "Hovhanisian,M"]
 [Result "1/2-1/2"]
-[ECO "A80"]
 [WhiteElo "2324"]
 [BlackElo "2395"]
+[ECO "A80"]
 
 1. d4 f5 2. Nc3 d5 3. Bf4 Nf6 4. e3 c6 5. Bd3 e6 6. Nf3 Be7 7. O-O O-O 8.
 Ne2 Bd7 9. c4 Ne4 10. Bxe4 dxe4 11. Ne5 Be8 12. f3 exf3 13. Nxf3 Nd7 14. d5
@@ -394,9 +399,9 @@ Rh2 63. Kf6 Rf2+ 64. Kg5 1/2-1/2
 [White "Pavlov,Al"]
 [Black "Chepukaitis,G"]
 [Result "0-1"]
-[ECO "E15"]
 [WhiteElo "2308"]
 [BlackElo "2415"]
+[ECO "E15"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 6. Bg2 Nbd7 7. O-O dxc4 8.
 Ne5 Nxe5 9. Bxa8 Qxa8 10. dxe5 Nd7 11. Bb2 Qc6 12. Nd2 Bb7 13. Nf3 cxb3 14.
@@ -412,9 +417,9 @@ fxe4 33. fxe4 Bb7 34. Rf3 Qg4 35. Qc4 Bxe4 36. Nxe4 Nxe4+ 37. Kg2 0-1
 [White "Kharlov,A"]
 [Black "Volzhin,A"]
 [Result "0-1"]
-[ECO "D32"]
 [WhiteElo "2600"]
 [BlackElo "2548"]
+[ECO "D32"]
 
 1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. e3 d5 5. cxd5 exd5 6. d4 a6 7. Be2 Nc6 8.
 O-O Bd6 9. dxc5 Bxc5 10. b3 O-O 11. Bb2 Ba7 12. Qd3 Be6 13. Rad1 Qe7 14.
@@ -430,9 +435,9 @@ Qf1 Ng4 33. Rb4 Nxh3 34. Bxh3 Rad8 35. Rxe4 Nxf2+ 0-1
 [White "Yarovik,Y"]
 [Black "Kondenko,A"]
 [Result "1-0"]
-[ECO "A50"]
 [WhiteElo "2415"]
 [BlackElo "2254"]
+[ECO "A50"]
 
 1. d4 Nf6 2. c4 Nc6 3. Nc3 e5 4. d5 Ne7 5. g3 Ng6 6. Bg2 Bc5 7. Nf3 O-O 8.
 O-O h6 9. Ne1 a6 10. Nc2 d6 11. e4 Bg4 12. Qd3 Qd7 13. Be3 Bh3 14. Bxc5
@@ -451,9 +456,9 @@ Nd3 g5 46. Nxb4 h5 47. c5 g4 48. hxg4 hxg4 49. Rg3 f5 50. c6 Nf6 51. d6 Kf7
 [White "Tuturin,S"]
 [Black "Danielian,E"]
 [Result "1/2-1/2"]
-[ECO "B17"]
 [WhiteElo "2248"]
 [BlackElo "2353"]
+[ECO "B17"]
 
 1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Ng5 e6 7. N1f3 Bd6
 8. Qe2 h6 9. Ne4 Nxe4 10. Qxe4 1/2-1/2
@@ -465,9 +470,9 @@ Nd3 g5 46. Nxb4 h5 47. c5 g4 48. hxg4 hxg4 49. Rg3 f5 50. c6 Nf6 51. d6 Kf7
 [White "Tetradze,N"]
 [Black "Iljinsky,Y"]
 [Result "1-0"]
-[ECO "E62"]
 [WhiteElo "2090"]
 [BlackElo "2340"]
+[ECO "E62"]
 
 1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nc6 7. Nc3 Bg4 8.
 h3 Bxf3 9. Bxf3 Nd7 10. e3 f5 11. Rb1 e5 12. d5 Na5 13. Be2 b6 14. b4 Nb7
@@ -487,8 +492,8 @@ Bd8 Kd3 52. Ba5 Ke2 53. Kg4 Kd3 54. Bb4 Kc4 55. a3 Kd3 56. Nc7 Kc4 57. Ne8
 [White "Levada,I"]
 [Black "Shvedov,S"]
 [Result "1/2-1/2"]
-[ECO "E92"]
 [BlackElo "2331"]
+[ECO "E92"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Nf3 e5 7. dxe5 dxe5 8.
 Qxd8 Rxd8 9. Bg5 Re8 10. Nd5 Nxd5 11. cxd5 c6 12. Bc4 cxd5 13. Bxd5 Nc6 14.
@@ -501,8 +506,8 @@ O-O-O Nb4 15. Bb3 a6 16. Kb1 h6 17. Be3 Bf8 18. h3 Nc6 19. Bb6 1/2-1/2
 [White "Nalesny,I"]
 [Black "Krasilnikov,E"]
 [Result "1/2-1/2"]
-[ECO "E69"]
 [BlackElo "2130"]
+[ECO "E69"]
 
 1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. h3 Nbd7 7. O-O e5 8.
 Nc3 c6 9. e4 a5 10. Be3 a4 11. b4 axb3 12. axb3 Rxa1 13. Qxa1 exd4 14. Nxd4
@@ -517,8 +522,8 @@ Re8 15. Qb1 Qe7 16. Nde2 h5 17. Rd1 Nc5 18. f3 Nfd7 19. Bf2 Kh7 20. Qc2 Na6
 [White "Makovetsky,B"]
 [Black "Shomoev,A"]
 [Result "1-0"]
-[ECO "C00"]
 [BlackElo "2105"]
+[ECO "C00"]
 
 1. e4 e6 2. c4 c5 3. Nc3 Nc6 4. Nf3 Nf6 5. a3 Qc7 6. d4 cxd4 7. Nxd4 Nxd4
 8. Qxd4 Bc5 9. Qd3 O-O 10. Be2 a6 11. b4 Be7 12. Be3 b6 13. O-O Bb7 14. f3
@@ -535,9 +540,9 @@ d6 15. g4 Rac8 16. Rac1 Rfe8 17. g5 Nd7 18. f4 Bf8 19. h4 Qb8 20. Rfd1 Rcd8
 [White "Ovod,E"]
 [Black "Driamin,D"]
 [Result "0-1"]
-[ECO "E54"]
 [WhiteElo "2290"]
 [BlackElo "2267"]
+[ECO "E54"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 d5 7. O-O cxd4 8.
 exd4 dxc4 9. Bxc4 b6 10. Bg5 Bb7 11. Ne5 Be7 12. Qe2 Nd5 13. Bxe7 Qxe7 14.
@@ -554,8 +559,8 @@ gxh6 0-1
 [White "Osoblivy,G"]
 [Black "Kazakov,V"]
 [Result "1-0"]
-[ECO "C02"]
 [BlackElo "2046"]
+[ECO "C02"]
 
 1. e4 c6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 e6 6. Bd3 cxd4 7. cxd4 Bb4+ 8.
 Nc3 Nge7 9. O-O Ng6 10. Be3 O-O 11. Ng5 Be7 12. h4 Bxg5 13. Bxg5 Qb6 14. h5
@@ -588,9 +593,9 @@ Rad1 Rad8 21. Kg2 Be7 22. Qf3 Qxf3+ 23. Kxf3 Bf6 24. Bc1 Kh7 25. Be3 Kg6
 [White "Kobalija,M"]
 [Black "Burmakin,V"]
 [Result "1-0"]
-[ECO "B07"]
 [WhiteElo "2537"]
 [BlackElo "2534"]
+[ECO "B07"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. f4 c6 6. Qd2 b5 7. Bd3 Qb6 8. e5
 Nd5 9. Nxd5 cxd5 10. c3 dxe5 11. fxe5 Nc6 12. Ne2 b4 13. Be3 bxc3 14. bxc3
@@ -605,9 +610,9 @@ Rc7 27. Nf2 Qa4 28. Ng4 Qxa2 29. Nf6+ Kh8 30. Rf3 Nc4 31. Rh3 h5 1-0
 [White "Akopian,V"]
 [Black "Sorokin,M"]
 [Result "1-0"]
-[ECO "A34"]
 [WhiteElo "2640"]
 [BlackElo "2551"]
+[ECO "A34"]
 
 1. c4 Nf6 2. Nc3 c5 3. g3 Nc6 4. Bg2 g6 5. Nf3 b6 6. d4 cxd4 7. Nxd4 Bb7 8.
 e4 Nxd4 9. Qxd4 Bg7 10. O-O d6 11. Bg5 O-O 12. Qd2 Rc8 13. b3 Nd7 14. Rac1
@@ -622,9 +627,9 @@ fxe3 Bh6 27. Re1 Nd2 28. Nd6 Ra8 29. Re2 Rxa4 30. Nxf5 1-0
 [White "Yemelin,V"]
 [Black "Dolmatov,S"]
 [Result "1/2-1/2"]
-[ECO "C08"]
 [WhiteElo "2550"]
 [BlackElo "2589"]
+[ECO "C08"]
 
 1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 Nf6 5. exd5 exd5 6. Bb5+ Bd7 7. Bxd7+
 Nbxd7 8. O-O Be7 9. dxc5 Nxc5 10. Re1 O-O 11. Nf1 Re8 12. Be3 a5 13. Nd4
@@ -638,9 +643,9 @@ Qb5 20. Bxc5 Qxc5 1/2-1/2
 [White "Volkov,S"]
 [Black "Galliamova,A"]
 [Result "1-0"]
-[ECO "D31"]
 [WhiteElo "2587"]
 [BlackElo "2558"]
+[ECO "D31"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Qc2 Nbd7 6. Bd2 b6 7. cxd5 exd5 8.
 Bd3 Bb7 9. Nf3 Qc7 10. O-O Be7 11. Rae1 O-O 12. e4 dxe4 13. Nxe4 h6 14.
@@ -653,9 +658,9 @@ Bxh6 gxh6 15. Qd2 Rfe8 16. Qxh6 c5 17. Nxf6+ Nxf6 18. Re5 1-0
 [White "Poluljahov,A"]
 [Black "Malaniuk,V"]
 [Result "0-1"]
-[ECO "C55"]
 [WhiteElo "2566"]
 [BlackElo "2552"]
+[ECO "C55"]
 
 1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nf3 h6 5. O-O d6 6. Re1 g6 7. d4 Qe7 8. c3
 Bg7 9. Nbd2 O-O 10. h3 Bd7 11. Nf1 Rae8 12. Ng3 Kh8 13. b4 a6 14. Rb1 Qd8
@@ -675,9 +680,9 @@ Kxb5 57. Kxh4 Kc4 58. Kg5 b5 59. h4 Kxd5 60. h5 Ke6 61. Kxf4 b4 0-1
 [White "Zakharevich,I"]
 [Black "Dvoirys,S"]
 [Result "1-0"]
-[ECO "D82"]
 [WhiteElo "2532"]
 [BlackElo "2562"]
+[ECO "D82"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Qa4+ Qxa4
 8. Nxa4 O-O 9. Nc3 Be6 10. Nf3 dxc4 11. Nd4 Nd5 12. Nxe6 fxe6 13. Bxc4 Nxf4
@@ -692,9 +697,9 @@ Nxf2 26. h3 Bb6 27. Kh2 Kf7 28. Bd5 Rd2 29. Bb3 1-0
 [White "Kharitonov,AY"]
 [Black "Iljushin,A"]
 [Result "1-0"]
-[ECO "A35"]
 [WhiteElo "2562"]
 [BlackElo "2484"]
+[ECO "A35"]
 
 1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. e3 f5 5. d4 cxd4 6. exd4 e4 7. Ne5 Nf6 8.
 Be2 Bb4 9. O-O O-O 10. c5 d5 11. Bf4 Ba5 12. Rc1 Be6 13. Qa4 Bd7 14. Nxd7
@@ -710,9 +715,9 @@ Qxe3 Nd7 33. Bg8+ Kh8 34. Bf7+ Kh7 35. Rh8+ 1-0
 [White "Sargissian,G"]
 [Black "Nenashev,A"]
 [Result "1-0"]
-[ECO "C96"]
 [WhiteElo "2390"]
 [BlackElo "2616"]
+[ECO "C96"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
 c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Nd7 12. dxc5 dxc5 13. Nbd2 Bb7 14. Nf1
@@ -732,9 +737,9 @@ Ra8 33. Nfe3 h5 34. h4 Rac8 35. Kf2 Re8 36. g4 Rh8 37. Kg3 Rc6 38. g5 Rcc8
 [White "Kotsur,P"]
 [Black "Volzhin,A"]
 [Result "1/2-1/2"]
-[ECO "C42"]
 [WhiteElo "2511"]
 [BlackElo "2548"]
+[ECO "C42"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O
 1/2-1/2
@@ -746,9 +751,9 @@ Ra8 33. Nfe3 h5 34. h4 Rac8 35. Kf2 Re8 36. g4 Rh8 37. Kg3 Rc6 38. g5 Rcc8
 [White "Ibragimov,I"]
 [Black "Lugovoi,A"]
 [Result "1-0"]
-[ECO "A08"]
 [WhiteElo "2602"]
 [BlackElo "2510"]
+[ECO "A08"]
 
 1. e4 c5 2. d3 e6 3. g3 d5 4. Nd2 Nc6 5. Bg2 Nf6 6. Ngf3 g6 7. O-O Bg7 8.
 exd5 Nxd5 9. Nb3 b6 10. Bg5 f6 11. Bd2 e5 12. c4 Nde7 13. Ne1 O-O 14. f4
@@ -769,9 +774,9 @@ Re7+ Kg6 64. Nb4 h5 65. Nd5 h4 66. Re8 Bd7 67. Rb8 1-0
 [White "Goloshchapov,A"]
 [Black "Poluljahov,A"]
 [Result "1-0"]
-[ECO "B48"]
 [WhiteElo "2446"]
 [BlackElo "2566"]
+[ECO "B48"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Bd3 b5 8.
 Nxc6 Qxc6 9. O-O Bb7 10. Re1 Nf6 11. Bd4 Be7 12. Qf3 b4 13. Nd1 d6 14. b3
@@ -792,9 +797,9 @@ Kc7 Rc2+ 64. Kd8 Rd2+ 65. Ke8 1-0
 [White "Dvoirys,S"]
 [Black "Iskusnyh,S"]
 [Result "1/2-1/2"]
-[ECO "B63"]
 [WhiteElo "2562"]
 [BlackElo "2486"]
+[ECO "B63"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 Be7
 8. O-O-O Nxd4 9. Qxd4 a6 10. f4 b5 11. Be2 Bb7 12. Bf3 Rc8 13. e5 Bxf3 14.
@@ -807,9 +812,9 @@ gxf3 dxe5 15. Qxd8+ 1/2-1/2
 [White "Sherbakov,R"]
 [Black "Karpatchev,A"]
 [Result "1/2-1/2"]
-[ECO "D20"]
 [WhiteElo "2559"]
 [BlackElo "2477"]
+[ECO "D20"]
 
 1. d4 d5 2. c4 dxc4 3. e4 Nc6 4. Nf3 Bg4 5. d5 Ne5 6. Nbd2 e6 7. Qa4+ Qd7
 8. Qxd7+ Nxd7 9. dxe6 Bxe6 10. Nd4 Ne5 11. Nxe6 fxe6 12. Bxc4 Bb4 13. Bxe6
@@ -828,9 +833,9 @@ Ra2 44. Bb4 Rxa6+ 45. Kxa6 h5 46. Kb6 h4 47. Kxc6 h3 48. Bd6 Kf3 49. b4 g5
 [White "Galliamova,A"]
 [Black "Prokopchuk,E"]
 [Result "1-0"]
-[ECO "A54"]
 [WhiteElo "2558"]
 [BlackElo "2489"]
+[ECO "A54"]
 
 1. Nf3 Nf6 2. c4 d6 3. d4 Nbd7 4. Nc3 e5 5. Bg5 Be7 6. e3 c6 7. Qc2 O-O 8.
 O-O-O Qa5 9. Bd3 Re8 10. g4 exd4 11. exd4 Nf8 12. h3 a6 13. Rhe1 Be6 14.
@@ -846,9 +851,9 @@ Bf4 Ra6 33. Be5 Kf8 34. Qh7 Nxe5 35. dxe5 Qxe5 36. Rhe1 1-0
 [White "Iljushin,A"]
 [Black "Lastin,A"]
 [Result "0-1"]
-[ECO "D93"]
 [WhiteElo "2484"]
 [BlackElo "2558"]
+[ECO "D93"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 g6 5. Bf4 Bg7 6. e3 O-O 7. Nc3 Be6 8.
 Ng5 Bf5 9. Qb3 b6 10. Rc1 Nh5 11. Bxb8 Rxb8 12. Nf3 c5 13. Rd1 Bg4 14. Be2
@@ -863,9 +868,9 @@ Bf8 27. Rd8 Qb7 28. Nfd4 Rxc6 29. Nxc6 Qxc6 30. Qd3 Nd5 31. Qd4 Qc7 0-1
 [White "Sorokin,M"]
 [Black "Chuprov,D"]
 [Result "1-0"]
-[ECO "E69"]
 [WhiteElo "2551"]
 [BlackElo "2400"]
+[ECO "E69"]
 
 1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 c6 6. e4 d6 7. d4 Nbd7 8.
 h3 e5 9. O-O Qa5 10. Re1 exd4 11. Nxd4 Ne5 12. Bf1 Re8 13. Be3 Be6 14. Nb3
@@ -882,9 +887,9 @@ Ng5 33. Kh1 Qe7 34. Rd2 Qf7 35. Rd4 Kh8 36. h4 Nh7 37. g5 Qh5 38. g6 Nf8
 [White "Filipenko,A"]
 [Black "Beshukov,S"]
 [Result "0-1"]
-[ECO "D46"]
 [WhiteElo "2360"]
 [BlackElo "2511"]
+[ECO "D46"]
 
 1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8.
 O-O dxc4 9. Bxc4 b5 10. Be2 Bb7 11. a3 a6 12. b4 a5 13. Rb1 axb4 14. axb4
@@ -898,9 +903,9 @@ Qe7 15. Qb3 Nd5 16. Nxd5 exd5 17. Bd2 Nb6 18. Ra1 Nc4 19. Bc3 f5 20. g3 f4
 [White "Akobian,V"]
 [Black "Popov,Val"]
 [Result "0-1"]
-[ECO "D00"]
 [WhiteElo "2359"]
 [BlackElo "2582"]
+[ECO "D00"]
 
 1. d4 d5 2. Bg5 f6 3. Bf4 c5 4. e3 Nc6 5. Nf3 Bg4 6. Be2 cxd4 7. exd4 e6 8.
 c3 Bd6 9. Bg3 Nge7 10. Nh4 Bxe2 11. Qxe2 Kf7 12. O-O g5 13. Nf3 Ng6 14.
@@ -917,9 +922,9 @@ Rf1 Qf5 0-1
 [White "Kalugin,S"]
 [Black "Feoktistov,A"]
 [Result "1/2-1/2"]
-[ECO "D26"]
 [WhiteElo "2355"]
 [BlackElo "2390"]
+[ECO "D26"]
 
 1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O b5 7. Bb3 Bb7 8.
 Nc3 c5 9. Qe2 cxd4 10. Rd1 Be7 11. exd4 O-O 12. Bg5 b4 13. Bxf6 Bxf6 14.
@@ -935,9 +940,9 @@ Kf1 Kg7 33. Rd7 Bf6 34. Rd6 Re6 35. Rd7 Re8 36. Rd6 Re6 37. Rd7 1/2-1/2
 [White "Akopian,V"]
 [Black "Kobalija,M"]
 [Result "1/2-1/2"]
-[ECO "D10"]
 [WhiteElo "2640"]
 [BlackElo "2537"]
+[ECO "D10"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Bd3 dxc4 6. Bxc4 b5 7. Bd3 e6 8.
 Nf3 Bb7 9. O-O c5 10. dxc5 Bxc5 11. e4 Nbd7 12. Bf4 h6 13. Qe2 Nh5 14. Bd2
@@ -952,9 +957,9 @@ Qg4 Qb7 21. Qxg7 O-O-O 22. Qxb2 Qxe4 23. Ba5 Rhg8 24. g3 Rxd1 25. Rxd1 Kb8
 [White "Yandemirov,V"]
 [Black "Nadanian,A"]
 [Result "1-0"]
-[ECO "A08"]
 [WhiteElo "2475"]
 [BlackElo "2413"]
+[ECO "A08"]
 
 1. Nf3 d5 2. g3 c5 3. Bg2 Nf6 4. O-O Nc6 5. d4 cxd4 6. Nxd4 Na5 7. Nb3 e5
 8. Bg5 Be6 9. Nc3 d4 10. Ne4 Nxb3 11. axb3 Be7 12. Nxf6+ gxf6 13. Bh6 Qc7
@@ -971,9 +976,9 @@ Ka8 32. Rxe4 Qb1+ 33. Kg2 Qb5 34. Re5 Qd7 35. h5 Rh8 36. Qe4 Rf8 37. h6 Qf7
 [White "Loginov,A"]
 [Black "Vokarev,S"]
 [Result "1-0"]
-[ECO "D91"]
 [WhiteElo "2320"]
 [BlackElo "2462"]
+[ECO "D91"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. cxd5 Nxg5 7. Nxg5 e6
 8. Qd2 exd5 9. Qe3+ Kf8 10. Qf4 Bf6 11. h4 h6 12. Nf3 Be6 13. e3 c6 14. Bd3
@@ -991,9 +996,9 @@ Rxc5 bxc5 45. Kc2 Re4 46. Rb3 a4 47. Rb1 Kf8 48. Kc3 1-0
 [White "Dokutchaev,A"]
 [Black "Malinin,Y"]
 [Result "1/2-1/2"]
-[ECO "E91"]
 [WhiteElo "2443"]
 [BlackElo "2324"]
+[ECO "E91"]
 
 1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. c4 Bg7 5. Nc3 d6 6. e4 O-O 7. Be2 e6 8.
 dxe6 Bxe6 9. O-O Nc6 10. Bf4 Qb6 11. Qb3 Nd4 12. Nxd4 cxd4 13. Nd5 Qxb3 14.
@@ -1008,9 +1013,9 @@ Rd6 27. Bb4 Rb6 28. Ba5 Rd6 29. Bb4 Rb6 30. Ba5 1/2-1/2
 [White "Chepukaitis,G"]
 [Black "Sambuev,B"]
 [Result "1/2-1/2"]
-[ECO "A45"]
 [WhiteElo "2415"]
 [BlackElo "2409"]
+[ECO "A45"]
 
 1. d4 Nf6 2. Bg5 Ne4 3. Bh4 d5 4. f3 Nf6 5. Nc3 e6 6. e4 Be7 7. Bf2 b6 8.
 e5 Nfd7 9. f4 c5 10. Nf3 Ba6 11. Nb5 O-O 12. c3 Nc6 13. a4 cxd4 14. Nbxd4
@@ -1032,9 +1037,9 @@ Rb2 57. Nd4 Rxh2 58. Kd3 Rg2 59. Kc4 Rxg3 60. b6 Re3 61. b7 Re8 62. Kc5 h5
 [White "Ivanov,T"]
 [Black "Yarovik,Y"]
 [Result "1-0"]
-[ECO "E91"]
 [WhiteElo "2390"]
 [BlackElo "2415"]
+[ECO "E91"]
 
 1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 Na6 7. O-O e5 8.
 Re1 Qe8 9. Bf1 Bg4 10. Be3 Nd7 11. d5 f5 12. Be2 f4 13. Bc1 Bxf3 14. Bxf3
@@ -1051,9 +1056,9 @@ Nxd6 Qxd5 40. Qxh4+ Kg7 41. Qg5+ Kh7 42. Qh5+ 1-0
 [White "Iliushkin,E"]
 [Black "Tetradze,N"]
 [Result "1/2-1/2"]
-[ECO "E92"]
 [WhiteElo "2405"]
 [BlackElo "2090"]
+[ECO "E92"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. h3
 Na6 9. Be3 Bd7 10. Nd2 Ne8 11. g4 Nc5 12. Nb3 Nxb3 13. Qxb3 f5 14. f3 Bf6
@@ -1075,9 +1080,9 @@ Kc6 1/2-1/2
 [White "Hovhanisian,M"]
 [Black "Bratchenko,A"]
 [Result "1/2-1/2"]
-[ECO "B02"]
 [WhiteElo "2395"]
 [BlackElo "2342"]
+[ECO "B02"]
 
 1. e4 Nf6 2. Nc3 d5 3. e5 Ne4 4. Nce2 Nc5 5. d4 Ne6 6. f4 g6 7. Nf3 Ng7 8.
 Be3 Bg4 9. Nc1 Nf5 10. Bf2 h5 11. h3 Bxf3 12. Qxf3 h4 13. e6 fxe6 14. Qg4
@@ -1097,9 +1102,9 @@ Qa8+ 1/2-1/2
 [White "Strukov,R"]
 [Black "Tuturin,S"]
 [Result "0-1"]
-[ECO "A04"]
 [WhiteElo "2325"]
 [BlackElo "2248"]
+[ECO "A04"]
 
 1. e4 e6 2. d3 c5 3. Nf3 Nc6 4. g3 d6 5. Bg2 g6 6. O-O Bg7 7. c3 Nge7 8.
 Re1 O-O 9. Nbd2 Rb8 10. Nb3 b5 11. d4 c4 12. Nbd2 d5 13. exd5 exd5 14. Nf1
@@ -1116,9 +1121,9 @@ Qe5+ 39. Kh4 Qh2+ 40. Bh3 Qxf2+ 41. Kh5 Qxe3 0-1
 [White "Krasilnikov,E"]
 [Black "Polovodin,I"]
 [Result "0-1"]
-[ECO "B25"]
 [WhiteElo "2130"]
 [BlackElo "2468"]
+[ECO "B25"]
 
 1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8.
 O-O O-O 9. Be3 Nd4 10. e5 Nef5 11. Bf2 Nxf3+ 12. Bxf3 dxe5 13. Bxc5 exf4
@@ -1134,8 +1139,8 @@ Kf2 Qb1 32. Qd4 Qxc2+ 33. Kg1 Qd1+ 34. Kf2 Qd2+ 0-1
 [White "Akhmadeev,V"]
 [Black "Nalesny,I"]
 [Result "1-0"]
-[ECO "E70"]
 [WhiteElo "2467"]
+[ECO "E70"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 e5 6. d5 O-O 7. Nge2 a5 8.
 O-O Na6 9. Ng3 Nc5 10. Bc2 Ne8 11. Be3 b6 12. Qd2 Bf6 13. a3 Ng7 14. b4 Nb7
@@ -1154,9 +1159,9 @@ Bc7 Ra7 52. Rb8+ Kh7 53. Bb6 Ra6 54. a5 Nf5 55. Nb5 1-0
 [White "Galkin,A"]
 [Black "Kharlov,A"]
 [Result "1/2-1/2"]
-[ECO "B06"]
 [WhiteElo "2507"]
 [BlackElo "2600"]
+[ECO "B06"]
 
 1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d6 5. Be2 b5 6. O-O e5 1/2-1/2
 
@@ -1167,8 +1172,8 @@ Bc7 Ra7 52. Rb8+ Kh7 53. Bb6 Ra6 54. a5 Nf5 55. Nb5 1-0
 [White "Danielian,E"]
 [Black "Levada,I"]
 [Result "1/2-1/2"]
-[ECO "A41"]
 [WhiteElo "2353"]
+[ECO "A41"]
 
 1. d4 d6 2. c3 e5 3. e4 Nf6 4. Bd3 g6 5. Bg5 h6 6. Bh4 Bg7 7. Nf3 Nbd7 8.
 O-O O-O 9. Nbd2 Qe8 10. Re1 Nh5 11. Qc2 Nf4 12. Bf1 Nb6 13. a4 a5 14. dxe5
@@ -1181,8 +1186,8 @@ dxe5 15. Nc4 Qe6 16. Nfd2 Nxg2 17. Bxg2 Nxc4 18. Nxc4 Qxc4 1/2-1/2
 [White "Shvedov,S"]
 [Black "Makovetsky,B"]
 [Result "1-0"]
-[ECO "A44"]
 [WhiteElo "2331"]
+[ECO "A44"]
 
 1. d4 c5 2. d5 e5 3. c4 d6 4. e4 Ne7 5. Nc3 a6 6. h3 b6 7. Bd3 g6 8. Nf3
 Bg7 9. Be3 Nd7 10. g4 f6 11. Ne2 h5 12. gxh5 Rxh5 13. Ng3 Rh8 14. h4 b5 15.
@@ -1197,9 +1202,9 @@ Kf1 Nf8 22. Bxh6 Qxa2 23. Ra1 Qxb2 24. Rb1 c3 25. Rxb2 cxb2 26. Bb1 Nfg6
 [White "Driamin,D"]
 [Black "Pavlov,Al"]
 [Result "1/2-1/2"]
-[ECO "A34"]
 [WhiteElo "2267"]
 [BlackElo "2308"]
+[ECO "A34"]
 
 1. c4 Nf6 2. Nc3 c5 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nc7 6. d3 e5 7. f4 exf4 8.
 Bxf4 Nc6 9. Nf3 Ne6 10. Be3 Be7 11. O-O O-O 12. Rc1 Rb8 13. Bf2 b6 14. e3
@@ -1214,8 +1219,8 @@ Qd8 27. Qc4 1/2-1/2
 [White "Shomoev,A"]
 [Black "Osoblivy,G"]
 [Result "1/2-1/2"]
-[ECO "D70"]
 [WhiteElo "2105"]
+[ECO "D70"]
 
 1. Nf3 d5 2. d4 Nf6 3. c4 g6 4. cxd5 Nxd5 5. e4 Nb6 6. Be2 Bg7 7. Nc3 O-O
 8. Be3 Bg4 9. O-O Nc6 10. d5 Bxf3 11. gxf3 Ne5 12. Bd4 e6 13. f4 Ned7 14.
@@ -1231,8 +1236,8 @@ Nb6 26. Rc5 a4 27. Bg4 f5 28. Rcxc7+ Rxc7 29. Rxc7+ Kf6 30. Bf3 Nxd5
 [White "Gavrilov,An"]
 [Black "Kofanov,S"]
 [Result "1/2-1/2"]
-[ECO "B42"]
 [WhiteElo "2251"]
+[ECO "B42"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 a6 6. O-O e6 7. c4 Nbd7 8.
 Nc3 Be7 9. Be3 O-O 10. f4 Qc7 11. Qe2 b6 12. Kh1 Bb7 13. Bg1 Rac8 14. Rae1
@@ -1248,9 +1253,9 @@ Kh8 32. Nd5 Bxd5 33. Qh5+ 1/2-1/2
 [White "Kazakov,V"]
 [Black "Iljinsky,Y"]
 [Result "1-0"]
-[ECO "C00"]
 [WhiteElo "2046"]
 [BlackElo "2340"]
+[ECO "C00"]
 
 1. e4 e6 2. d3 c5 3. Nd2 Nc6 4. g3 g6 5. Bg2 Bg7 6. Ngf3 Nge7 7. O-O O-O 8.
 Re1 d6 9. a4 Bd7 10. Nc4 Qc7 11. Bf4 e5 12. Bd2 h6 13. Ne3 f5 14. Nh4 f4
@@ -1263,8 +1268,8 @@ Re1 d6 9. a4 Bd7 10. Nc4 Qc7 11. Bf4 e5 12. Bd2 h6 13. Ne3 f5 14. Nh4 f4
 [White "Kondenko,A"]
 [Black "Sazhin,M"]
 [Result "1/2-1/2"]
-[ECO "B07"]
 [WhiteElo "2254"]
+[ECO "B07"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. a4 Nbd7 5. f4 g6 6. Nf3 Bg7 7. e5 Nd5 8. h4
 Nxc3 9. bxc3 Nb6 10. a5 Nd5 11. c4 Nc7 12. h5 Bg4 13. h6 Bf8 14. Rb1 Rb8
@@ -1286,9 +1291,9 @@ Bxf8 b2 70. Bd6 b1=Q 71. f8=Q Qb7+ 1/2-1/2
 [White "Volkov,S"]
 [Black "Vaulin,A"]
 [Result "1-0"]
-[ECO "A62"]
 [WhiteElo "2587"]
 [BlackElo "2547"]
+[ECO "A62"]
 
 1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 g6 6. g3 d6 7. Bg2 Bg7 8.
 Nf3 O-O 9. O-O Na6 10. Nd2 Nc7 11. a4 b6 12. Rb1 Nfe8 13. Nc4 Ba6 14. Qd3
@@ -1305,9 +1310,9 @@ Ne8 39. Nxe8 Rxe8 1-0
 [White "Burmakin,V"]
 [Black "Kharitonov,AY"]
 [Result "1/2-1/2"]
-[ECO "D36"]
 [WhiteElo "2534"]
 [BlackElo "2562"]
+[ECO "D36"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. cxd5 exd5 6. Bg5 c6 7. Qc2 g6 8.
 e3 Bf5 9. Bd3 Bxd3 10. Qxd3 1/2-1/2
@@ -1319,9 +1324,9 @@ e3 Bf5 9. Bd3 Bxd3 10. Qxd3 1/2-1/2
 [White "Malaniuk,V"]
 [Black "Zakharevich,I"]
 [Result "1/2-1/2"]
-[ECO "B20"]
 [WhiteElo "2552"]
 [BlackElo "2532"]
+[ECO "B20"]
 
 1. g3 g6 2. Bg2 Bg7 3. e4 d6 4. d3 c5 5. f4 Nc6 6. Nf3 e6 7. O-O Nge7 8. a4
 O-O 9. c3 e5 10. Na3 h6 11. Be3 exf4 12. Bxf4 g5 13. Be3 f5 14. Qb3+ Kh8
@@ -1340,9 +1345,9 @@ Kd3 Bxb2 51. Nxb2 Nf5 52. Kc4 Kg6 1/2-1/2
 [White "Dolmatov,S"]
 [Black "Yevseev,D"]
 [Result "1/2-1/2"]
-[ECO "B14"]
 [WhiteElo "2589"]
 [BlackElo "2503"]
+[ECO "B14"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. Qb3 Bg7 7. cxd5 O-O
 8. Be2 Na6 9. Bf3 Qb6 10. Qxb6 axb6 11. Nge2 Nb4 12. O-O Rd8 13. d6 Rxd6
@@ -1355,9 +1360,9 @@ Kd3 Bxb2 51. Nxb2 Nf5 52. Kc4 Kg6 1/2-1/2
 [White "Voitsekhovsky,S"]
 [Black "Dreev,A"]
 [Result "1/2-1/2"]
-[ECO "B14"]
 [WhiteElo "2558"]
 [BlackElo "2639"]
+[ECO "B14"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. cxd5 exd5
 8. Bb5+ Bd7 9. Bd3 Nc6 10. O-O Bg4 11. Re1+ Be7 12. Qb3 Bxf3 13. Qxb7 Qc8
@@ -1372,9 +1377,9 @@ Ra3 Nd7 26. f4 Rb6 27. Nc8 Rb8 28. Na7 Rb6 29. Nc8 1/2-1/2
 [White "Loginov,Va"]
 [Black "Yemelin,V"]
 [Result "1-0"]
-[ECO "A37"]
 [WhiteElo "2532"]
 [BlackElo "2550"]
+[ECO "A37"]
 
 1. Nf3 c5 2. g3 Nc6 3. c4 g6 4. Bg2 Bg7 5. Nc3 e6 6. a3 Nge7 7. Rb1 d5 8.
 b4 cxb4 9. axb4 a5 10. b5 Nb4 11. c5 e5 12. O-O d4 13. Ne4 O-O 14. Ba3 Ned5
@@ -1383,32 +1388,6 @@ Nxd5 Bxd5 22. d3 Bxd6 23. cxd6 Qxd6 24. dxe4 Bxe4 25. Qb3+ Kg7 26. Rbc1
 Rac8 27. Rfd1 Rxc1 28. Rxc1 Rf7 29. Qb2 Bxg2 30. Kxg2 f4 31. Rd1 Rd7 32.
 Kg1 h5 33. Rd3 Qf6 34. Rf3 g5 35. h4 gxh4 36. Rxf4 Qe5 37. Rxh4 Kh6 1-0
 
-[Event "Open"]
-[Site "Novgorod RUS"]
-[Date "1999.03.27"]
-[Round "9"]
-[White "Gavrilov,An"]
-[Black "BYE"]
-[Result "1-0"]
-[WhiteElo "2251"]
-
-1-0
-
-[Event "Open"]
-[Site "Novgorod RUS"]
-[Date "1999.03.19"]
-[Round "10"]
-[White "Ovod,E"]
-[Black "BYE"]
-[Result "1-0"]
-[WhiteElo "2290"]
-
-1-0
-
-
-XXX Mar del Plata International
--------------------------------
-
 [Event "XXX International Open"]
 [Site "Mar del Plata ARG"]
 [Date "1999.03.27"]
@@ -1416,8 +1395,8 @@ XXX Mar del Plata International
 [White "Alegria,Gregorio"]
 [Black "Piscicelli,D"]
 [Result "0-1"]
-[ECO "E41"]
 [BlackElo "2350"]
+[ECO "E41"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Bd3 Nc6 6. Nf3 Bxc3+ 7. bxc3 d6
 8. O-O e5 9. e4 b6 10. Bg5 h6 11. Be3 g5 12. Bc2 Qe7 13. d5 Na5 14. Ba4+
@@ -1434,9 +1413,9 @@ Qxc4 b5 39. Qb3 Rd3 40. a4 Qh7 0-1
 [White "Fuentes,A"]
 [Black "Giaccio,A"]
 [Result "0-1"]
-[ECO "C03"]
 [WhiteElo "2177"]
 [BlackElo "2505"]
+[ECO "C03"]
 
 1. e4 e6 2. d4 d5 3. Nd2 a6 4. Ngf3 Nf6 5. Bd3 c5 6. e5 Nfd7 7. c3 Nc6 8.
 O-O Be7 9. Re1 cxd4 10. cxd4 Qb6 11. Nb3 a5 12. a4 Nb4 13. Bb1 Qd8 14. Bd2
@@ -1473,8 +1452,8 @@ Kg3 Ke4 51. Kh4 Nf3+ 52. Kxh5 Nxe5 53. fxe5 Kxe5 54. Kg5 Kd5 0-1
 [White "Alonso,S"]
 [Black "Farace,D"]
 [Result "1-0"]
-[ECO "B19"]
 [WhiteElo "2339"]
+[ECO "B19"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nf6 8.
 Ne5 Bh7 9. Bc4 e6 10. Qe2 Nd5 11. c3 Be7 12. Nh5 Rg8 13. Qg4 Bf6 14. Bd3
@@ -1488,9 +1467,9 @@ O-O-O Ke7 21. d5 cxd5 22. cxd5 Ne8 23. dxe6 Rc8+ 24. Kb1 fxe6 25. Rd7+ 1-0
 [White "Amura,C"]
 [Black "Monetti,C"]
 [Result "1-0"]
-[ECO "A52"]
 [WhiteElo "2355"]
 [BlackElo "2015"]
+[ECO "A52"]
 
 1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. Nc3 Qe7 7. Qb3 Na5
 8. Qc2 Nxc4 9. a3 Bc5 10. e3 Ncxe3 11. fxe3 Bxe3 12. Nd5 Bf2+ 13. Ke2 Qc5
@@ -1505,8 +1484,8 @@ Kf5 26. Nf7 1-0
 [White "Claverie,R"]
 [Black "Van Riemsdijk,H"]
 [Result "0-1"]
-[ECO "C26"]
 [BlackElo "2418"]
+[ECO "C26"]
 
 1. e4 e5 2. Bc4 Nf6 3. Nc3 Bb4 4. Nf3 d6 5. h3 c6 6. d3 Nbd7 7. Bd2 b5 8.
 Bb3 Nc5 9. Ne2 Bxd2+ 10. Qxd2 a5 11. a3 Nxb3 12. cxb3 Be6 13. b4 axb4 14.
@@ -1525,8 +1504,8 @@ fxe4 Bxe4+ 51. Kg3 Rf3+ 52. Kh2 Bd5 53. b5 Kd6 0-1
 [White "Di Diego,Osvaldo"]
 [Black "Needleman,A"]
 [Result "0-1"]
-[ECO "A57"]
 [BlackElo "2359"]
+[ECO "A57"]
 
 1. d4 Nf6 2. Nf3 g6 3. c4 c5 4. d5 b5 5. cxb5 a6 6. b6 Qxb6 7. Nc3 Bg7 8.
 e4 O-O 9. Be2 d6 10. O-O a5 11. h3 Nfd7 12. Re1 Ba6 13. Qc2 Bxe2 14. Rxe2
@@ -1541,8 +1520,8 @@ fxe4 27. Qh4 Bf6 28. Nf7+ Kg7 29. Ng5 Bxg5 30. Qxg5 c3 0-1
 [White "Felgaer,R"]
 [Black "Lebensohn,Lisandro"]
 [Result "1-0"]
-[ECO "B01"]
 [WhiteElo "2364"]
+[ECO "B01"]
 
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 Nf6 5. Bc4 Bf5 6. O-O Nbd7 7. d4 c6
 8. Re1 e6 9. Ne5 Bb4 10. Bd2 Rd8 11. Qf3 O-O 12. a3 Bxc3 13. Bxc3 Qc7 14.
@@ -1560,9 +1539,9 @@ Rc1+ 45. Kh2 Nf4 46. Be3 1-0
 [White "Ferraro,H"]
 [Black "Peralta,F"]
 [Result "0-1"]
-[ECO "E67"]
 [WhiteElo "2081"]
 [BlackElo "2433"]
+[ECO "E67"]
 
 1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nbd7 7. Nc3 e5 8.
 Bg5 h6 9. Bd2 e4 10. Ne1 Re8 11. Qc1 Kh7 12. f3 exf3 13. Nxf3 c5 14. e3 a6
@@ -1579,8 +1558,8 @@ Qc1 Qa2 40. Rxg7+ Kh8 0-1
 [White "Fiszman,Felix"]
 [Black "Fiorito,F"]
 [Result "0-1"]
-[ECO "B22"]
 [BlackElo "2440"]
+[ECO "B22"]
 
 1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. Bc4 Qc7 6. Qxd4 Nb6 7. Bb3 Nc6
 8. Qf4 Qxe5+ 9. Ne2 Qxf4 10. Bxf4 e6 11. Nd2 d5 12. O-O-O Be7 13. Bc7 O-O
@@ -1596,8 +1575,8 @@ Nc3 Bxc3 33. bxc3 Rxa3 0-1
 [White "Giardelli,S"]
 [Black "Jimenez,Jo"]
 [Result "1-0"]
-[ECO "E01"]
 [WhiteElo "2437"]
+[ECO "E01"]
 
 1. c4 Nf6 2. d4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Bd2 Be7 6. Nc3 O-O 7. Nf3 Ne4 8.
 O-O Nxc3 9. Bxc3 c6 10. Qd3 Nd7 11. e4 Nf6 12. Nd2 dxc4 13. Nxc4 b5 14. Ne5
@@ -1612,8 +1591,8 @@ Qc7 21. g4 Rac8 22. e5 Be7 23. f5 Bg5 24. Qf2 exf5 25. gxf5 f6 26. Qg3 Qf7
 [White "Held,Kurt"]
 [Black "Dorin,M"]
 [Result "0-1"]
-[ECO "D02"]
 [BlackElo "2397"]
+[ECO "D02"]
 
 1. d4 Nf6 2. Nf3 d5 3. Bf4 c6 4. c3 Bf5 5. e3 h6 6. Ne5 e6 7. Nd2 Be7 8.
 Be2 Nbd7 9. O-O O-O 10. Ndf3 c5 11. Nxd7 Nxd7 12. Ne5 Nf6 13. g4 Bh7 14.
@@ -1650,9 +1629,9 @@ Qxf5 39. Bxd2 Qd3 40. Ke1 Qe3+ 0-1
 [White "Hoffman,A"]
 [Black "Modotti,P"]
 [Result "1-0"]
-[ECO "D34"]
 [WhiteElo "2547"]
 [BlackElo "2065"]
+[ECO "D34"]
 
 1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 c4 8.
 O-O Be7 9. Ne5 O-O 10. Bg5 Be6 11. f4 Qb6 12. Bxf6 Bxf6 13. e3 Qxb2 14.
@@ -1667,8 +1646,8 @@ Nxd5 Bxd5 15. Bxd5 Nxe5 16. dxe5 Be7 17. Bxc4 Bc5 18. Re1 Rac8 19. Rb1 Qc3
 [White "Kanefsck,G"]
 [Black "Gastiaburo,Hernan"]
 [Result "1/2-1/2"]
-[ECO "B80"]
 [WhiteElo "2391"]
+[ECO "B80"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be3 a6 7. f3 Nc6 8.
 g4 Be7 9. Qd2 O-O 10. O-O-O Nxd4 11. Bxd4 b5 12. Kb1 b4 13. Ne2 a5 14. Ng3
@@ -1688,8 +1667,8 @@ Nd4+ 57. Kg2 h4 58. Be8 Bg3 59. Bb5 Kf4 1/2-1/2
 [White "Lingua,Alejo"]
 [Black "Spangenberg,H"]
 [Result "0-1"]
-[ECO "A08"]
 [BlackElo "2531"]
+[ECO "A08"]
 
 1. e4 c5 2. Nf3 e6 3. d3 d5 4. Nbd2 Nc6 5. g3 Bd6 6. Bg2 Nge7 7. O-O O-O 8.
 Nh4 dxe4 9. dxe4 e5 10. Nc4 Bc7 11. Ne3 Be6 12. Nd5 c4 13. c3 Qd7 14. Qa4
@@ -1707,8 +1686,8 @@ Rxf5 g3 0-1
 [White "Luchetti,P"]
 [Black "Vasta,E"]
 [Result "0-1"]
-[ECO "E70"]
 [BlackElo "2375"]
+[ECO "E70"]
 
 1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 O-O 5. Bd3 d6 6. f3 c5 7. d5 e6 8. Bg5
 h6 9. Be3 exd5 10. cxd5 a6 11. Qd2 Kh7 12. Nge2 b5 13. g4 Nbd7 14. O-O-O
@@ -1724,8 +1703,8 @@ Qb2+ 32. Kd3 Qd2+ 33. Kc4 Qd4+ 34. Kb3 c4+ 0-1
 [White "Martinyuk,Milka"]
 [Black "Braga,F"]
 [Result "0-1"]
-[ECO "A05"]
 [BlackElo "2461"]
+[ECO "A05"]
 
 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. d3 c5 5. Nbd2 Nc6 6. O-O O-O 7. e4 b6 8.
 Re1 e5 9. Nc4 d6 10. a4 h6 11. c3 Be6 12. Ne3 d5 13. exd5 Nxd5 14. Nc4 Qc7
@@ -1741,9 +1720,9 @@ Kf2 Nh3+ 0-1
 [White "Milos,G"]
 [Black "Zuriel,M"]
 [Result "1-0"]
-[ECO "B82"]
 [WhiteElo "2586"]
 [BlackElo "2070"]
+[ECO "B82"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f4 Be7 8.
 Qf3 Qc7 9. g4 b5 10. g5 Nfd7 11. O-O-O b4 12. Nce2 Bb7 13. f5 Nc5 14. fxe6
@@ -1759,8 +1738,8 @@ fxe6 15. Nf4 Bxe4 16. Nfxe6 Bxf3 17. Nxc7+ Kd8 18. Nxf3 Kxc7 19. Nd4 Nbd7
 [White "Panno,O"]
 [Black "Restuccia,F"]
 [Result "1-0"]
-[ECO "D06"]
 [WhiteElo "2454"]
+[ECO "D06"]
 
 1. d4 d5 2. Nf3 Bf5 3. c4 e6 4. Qb3 Nc6 5. Bd2 Rb8 6. e3 a6 7. cxd5 exd5 8.
 Nc3 Nf6 9. Rc1 Be7 10. Be2 O-O 11. O-O Re8 12. Rfd1 Bd6 13. g3 Bf8 14. Be1
@@ -1776,8 +1755,8 @@ Bxe7 33. Rc7 1-0
 [White "Perez Pietronave,C"]
 [Black "Covas,G"]
 [Result "1-0"]
-[ECO "B50"]
 [WhiteElo "2316"]
+[ECO "B50"]
 
 1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 g6 5. O-O Bg7 6. Bb5+ Bd7 7. Bxd7+
 Nbxd7 8. Re1 O-O 9. d4 e5 10. h3 Re8 11. d5 Rf8 12. Na3 Qe7 13. Nc4 h6 14.
@@ -1795,9 +1774,9 @@ Bxg3+ 45. Kg2 Qxc8 46. Rxc8 Bh4 47. Bd8 1-0
 [White "Pierrot,F"]
 [Black "Sobrero,S"]
 [Result "1-0"]
-[ECO "B12"]
 [WhiteElo "2442"]
 [BlackElo "2028"]
+[ECO "B12"]
 
 1. e4 c6 2. d4 d5 3. Nd2 e5 4. dxe5 dxe4 5. Qe2 Bf5 6. Nxe4 Qa5+ 7. Nc3 Nd7
 8. Nf3 Bb4 9. Bd2 O-O-O 10. a3 Re8 11. O-O-O Bxa3 12. Nb5 Bxb2+ 13. Kxb2
@@ -1820,8 +1799,8 @@ Rc2 67. c6 Rb2 68. Rg3 Re2 69. Kc8 Rc2 70. Re3+ Kf7 71. c7 Rxg2 72. Rb3 Ke6
 [White "Rodriguez,And URU"]
 [Black "Iregui,V"]
 [Result "1-0"]
-[ECO "B33"]
 [WhiteElo "2500"]
+[ECO "B33"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 Bg7 11. c3 O-O 12. Nc2 f5 13. exf5 Bxf5 14.
@@ -1830,7 +1809,7 @@ b4 21. cxb4 axb4 22. Nc4 Qd7 23. g5 Qa7 24. a3 bxa3 25. Qxa3 Qxa3 26. bxa3
 Rfd8 27. Na5 Rb2 28. Nb4 Nf4 29. Rd2 Rxd2 30. Kxd2 d5 31. Bc2 Nh3 32. Rg2
 Nxg5 33. Rxg5 Bh6 34. f4 f6 35. Rh5 Bxf4+ 36. Ke1 h6 37. Bf5 Bf7 38. Rh3 d4
 39. Nd3 Be3 40. Be4 Be6 41. Rf3 Bg5 42. Nc5 Bg4 43. Rb3 f5 44. Bf3 e4 45.
-Bxg4 fxg4 46. Nab7 Rc8 47. Nxe4 Bf4 48. h3 Re8 49. Nbc5 g3 50. Kf1 h5 51.
+Bxg4 fxg4 46. Nab7 Rc8 47. Nxe4 Bf4 48. h3 Re8 49. Nc5 g3 50. Kf1 h5 51.
 Nxg3 Bxg3 52. Rxg3 Rc8 53. Ne4 Rf8+ 54. Ke2 Kh7 55. a4 Ra8 56. Ra3 Kg6 57.
 a5 Re8 58. Kd3 Re6 59. a6 Kf5 60. a7 1-0
 
@@ -1841,8 +1820,8 @@ a5 Re8 58. Kd3 Re6 59. a6 Kf5 60. a7 1-0
 [White "Rosito,J"]
 [Black "Lehrmann,Jose Maria"]
 [Result "1-0"]
-[ECO "B01"]
 [WhiteElo "2379"]
+[ECO "B01"]
 
 1. e4 d5 2. exd5 Nf6 3. d4 c6 4. dxc6 Nxc6 5. Bb5 e5 6. Qe2 e4 7. c3 Be7 8.
 Be3 O-O 9. Nd2 a6 10. Ba4 Re8 11. Bc2 Bg4 12. Qf1 Bd6 13. h3 Bh5 14. Ne2
@@ -1857,9 +1836,9 @@ Qxe3 Rxe3 27. Bxg6 fxg6 28. Rce1 Rxh3 29. Re6 Na7 30. Re7 1-0
 [White "Rubinetti,J"]
 [Black "Evans,P"]
 [Result "1-0"]
-[ECO "B98"]
 [WhiteElo "2432"]
 [BlackElo "2110"]
+[ECO "B98"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8.
 Qf3 Qc7 9. O-O-O Nc6 10. Nxc6 Qxc6 11. Bd3 b5 12. a3 Rb8 13. Rhe1 b4 14.
@@ -1875,9 +1854,9 @@ Ke6 32. Ke3 g5 33. Bc4+ Bd5 34. fxg5 hxg5 35. h5 Kxe5 36. Bxd5 1-0
 [White "Slipak,S"]
 [Black "Bonifazi,M"]
 [Result "1-0"]
-[ECO "D58"]
 [WhiteElo "2521"]
 [BlackElo "2052"]
+[ECO "D58"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Rc1 b6 8.
 Nf3 Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. Bd3 Nd7 12. O-O c6 13. Qa4 Re8 14.
@@ -1892,9 +1871,9 @@ Nxf7 Kxf7 27. Be6+ Ke7 28. Qg6 Qd8 29. Qxg7+ 1-0
 [White "Szmetan,J"]
 [Black "Saralegui,M"]
 [Result "1-0"]
-[ECO "A41"]
 [WhiteElo "2403"]
 [BlackElo "2075"]
+[ECO "A41"]
 
 1. Nf3 d6 2. d4 Bg4 3. e4 Nd7 4. Be2 e5 5. d5 Be7 6. O-O Ngf6 7. Ne1 Bxe2
 8. Qxe2 O-O 9. c4 Ne8 10. Nc3 c5 11. g3 Bg5 12. f4 exf4 13. gxf4 Bf6 14.
@@ -1913,8 +1892,8 @@ Bxh8 Rxh8 39. Rg6 Qf4 40. Qg5+ Qxg5 41. Rxg5 Nf6 42. e5 Ne4 43. exd6+ Kxd6
 [White "Szmukler,R"]
 [Black "Hernandez,Gi"]
 [Result "0-1"]
-[ECO "A75"]
 [BlackElo "2558"]
+[ECO "A75"]
 
 1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. e4 Bg7 8.
 Be2 O-O 9. O-O Bg4 10. Re1 a6 11. a4 Bxf3 12. Bxf3 Nbd7 13. Bf4 Qe7 14. h3
@@ -1931,9 +1910,9 @@ Qe5 39. Qd1 Bd4 0-1
 [White "Wisniacki,F"]
 [Black "Soppe,G"]
 [Result "0-1"]
-[ECO "D07"]
 [WhiteElo "2035"]
 [BlackElo "2448"]
+[ECO "D07"]
 
 1. d4 d5 2. Nf3 Nc6 3. c4 Bg4 4. cxd5 Bxf3 5. dxc6 Bxc6 6. Nc3 e6 7. f3
 Qh4+ 8. g3 Qf6 9. Be3 Nh6 10. Bg2 Nf5 11. Bf2 O-O-O 12. e3 h5 13. Qe2 h4
@@ -1950,8 +1929,8 @@ Kd7 38. Kd2 c5 39. Ke3 b5 40. Ba3 Kd6 41. g6 fxg6 0-1
 [White "Bianchi,Al"]
 [Black "Conte,Juan Carlos"]
 [Result "1-0"]
-[ECO "A14"]
 [WhiteElo "2225"]
+[ECO "A14"]
 
 1. c4 e6 2. g3 Nf6 3. Bg2 d5 4. Nf3 Be7 5. O-O O-O 6. b3 c6 7. Bb2 Nbd7 8.
 Qc2 b6 9. Nc3 Bb7 10. Rad1 e5 11. d4 e4 12. Nd2 Rc8 13. f3 c5 14. e3 cxd4
@@ -1967,9 +1946,9 @@ Qxe4 33. fxe4 Rxc5 34. Bxf6 Rc2 35. Bg4 Re8 36. d6 Bxe4 37. d7 1-0
 [White "Braga,F"]
 [Black "Bianchi,Al"]
 [Result "1-0"]
-[ECO "B25"]
 [WhiteElo "2461"]
 [BlackElo "2225"]
+[ECO "B25"]
 
 1. e4 e6 2. d3 c5 3. g3 g6 4. Bg2 Bg7 5. Nc3 Nc6 6. f4 d6 7. Nf3 Nge7 8.
 Be3 Nd4 9. O-O O-O 10. Bf2 Rb8 11. Qd2 b6 12. Nxd4 cxd4 13. Nb5 e5 14. Qb4
@@ -1983,9 +1962,9 @@ Nxf7 1-0
 [White "Faig,C"]
 [Black "Pierrot,F"]
 [Result "0-1"]
-[ECO "C67"]
 [WhiteElo "2234"]
 [BlackElo "2442"]
+[ECO "C67"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
 Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. g4 Ne7 11. h3 h5 12. Nh2 Ng6 13. Re1 Bb4
@@ -2002,9 +1981,9 @@ Ke6 32. Bd2 Nd5 33. Bg5 Nf6+ 34. Kd3 Kf5 35. Bh4 g5 36. Bg3 Nd5 37. c4 Nf4+
 [White "Feige,J"]
 [Black "Szmetan,J"]
 [Result "0-1"]
-[ECO "B05"]
 [WhiteElo "2194"]
 [BlackElo "2403"]
+[ECO "B05"]
 
 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6 6. O-O Bxf3 7. Bxf3 dxe5
 8. dxe5 e6 9. c4 Ne7 10. Be4 Nd7 11. f4 Nc5 12. Bc2 Nf5 13. Bxf5 exf5 14.
@@ -2021,9 +2000,9 @@ Rxc4 38. f6+ Kd7 39. Rf8 Ke6 40. Re8+ Kf5 41. Re7 a3 0-1
 [White "Fiorito,F"]
 [Black "Labollita,M"]
 [Result "1-0"]
-[ECO "B20"]
 [WhiteElo "2440"]
 [BlackElo "2199"]
+[ECO "B20"]
 
 1. e4 c5 2. d3 d5 3. Nd2 Nc6 4. g3 g6 5. Bg2 e6 6. Ne2 Bg7 7. O-O Nge7 8.
 f4 O-O 9. e5 b5 10. Nf3 Rb8 11. g4 f6 12. exf6 Bxf6 13. h3 Bd7 14. c3 b4
@@ -2038,9 +2017,9 @@ f4 O-O 9. e5 b5 10. Nf3 Rb8 11. g4 f6 12. exf6 Bxf6 13. h3 Bd7 14. c3 b4
 [White "Giaccio,A"]
 [Black "Cristobal,R"]
 [Result "1-0"]
-[ECO "C02"]
 [WhiteElo "2505"]
 [BlackElo "2260"]
+[ECO "C02"]
 
 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. a3 Bb5 7. c4 Bxc4 8.
 Bxc4 dxc4 9. d5 Nd7 10. Nc3 f6 11. exf6 gxf6 12. Qe2 e5 13. Nd2 O-O-O 14.
@@ -2053,9 +2032,9 @@ Nxc4 Qb3 15. O-O Kb8 16. f4 Bh6 17. fxe5 Bxc1 18. Rfxc1 fxe5 19. a4 1-0
 [White "Peralta,F"]
 [Black "Letelier,R"]
 [Result "1-0"]
-[ECO "E87"]
 [WhiteElo "2433"]
 [BlackElo "2190"]
+[ECO "E87"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Ne8 8. Qd2
 f5 9. O-O-O f4 10. Bf2 Nd7 11. Kb1 Rf7 12. Nge2 Bf8 13. Nc1 Kh8 14. Nd3 Qe7
@@ -2070,9 +2049,9 @@ Nca4 b6 22. d6 Rf6 23. dxc7 Qxc7 24. cxb6 Nxb6 25. Nxb6 Rxb6 26. Bxb6 Qxb6
 [White "Sola,R"]
 [Black "Rodriguez,And URU"]
 [Result "0-1"]
-[ECO "A80"]
 [WhiteElo "2265"]
 [BlackElo "2500"]
+[ECO "A80"]
 
 1. Nf3 d6 2. d4 f5 3. Nc3 Nf6 4. Bg5 Nbd7 5. d5 c5 6. e3 Qb6 7. Rb1 g6 8.
 Be2 Bg7 9. O-O O-O 10. h3 a6 11. Bf4 Qa5 12. a4 Nb6 13. Ra1 Ne4 14. Nxe4
@@ -2088,9 +2067,9 @@ b5 21. Bg4 Bxg4 22. hxg4 Nc3 23. Rc2 b4 24. Bg3 Qd7 25. f3 a5 26. e4 Bd4+
 [White "Soppe,G"]
 [Black "Della Morte,P"]
 [Result "1-0"]
-[ECO "A05"]
 [WhiteElo "2448"]
 [BlackElo "2220"]
+[ECO "A05"]
 
 1. Nf3 Nf6 2. g3 g6 3. b4 Bg7 4. Bb2 c6 5. Na3 Qb6 6. Rb1 O-O 7. Bd4 Qc7 8.
 Bg2 d6 9. Ba1 e5 10. d3 Nbd7 11. O-O Nh5 12. b5 f5 13. bxc6 bxc6 14. c4 Nc5
@@ -2108,9 +2087,9 @@ Na2 45. g4 Be4 1-0
 [White "Loiterstein,M"]
 [Black "Hoffman,A"]
 [Result "1-0"]
-[ECO "A77"]
 [WhiteElo "2280"]
 [BlackElo "2547"]
+[ECO "A77"]
 
 1. d4 c5 2. d5 g6 3. e4 d6 4. c4 Bg7 5. Be2 Nf6 6. Nc3 O-O 7. Nf3 e6 8. O-O
 exd5 9. cxd5 Re8 10. Nd2 Nbd7 11. Qc2 Ne5 12. f4 Neg4 13. Nf3 Nh5 14. h3 f5
@@ -2125,9 +2104,9 @@ Qxg3 21. e5 dxe5 22. fxe5 Bxe3+ 23. Rxe3 Rxe5 24. Qxc5 Rxe3 25. Qxe3 Bg4
 [White "Del Castillo,G"]
 [Black "Milos,G"]
 [Result "0-1"]
-[ECO "A08"]
 [WhiteElo "2288"]
 [BlackElo "2586"]
+[ECO "A08"]
 
 1. e4 c5 2. Nf3 e6 3. d3 d5 4. Nbd2 Nc6 5. g3 g6 6. Bg2 Bg7 7. O-O Nge7 8.
 Re1 b6 9. c3 a5 10. Nf1 d4 11. c4 e5 12. h3 O-O 13. N1h2 Bd7 14. Ng4 a4 15.
@@ -2142,9 +2121,9 @@ Qxd1+ 28. Nxd1 e4 29. Bf1 f4 30. Rg5 Ne5 0-1
 [White "Dorin,M"]
 [Black "Mosconi,A"]
 [Result "1-0"]
-[ECO "A05"]
 [WhiteElo "2397"]
 [BlackElo "2166"]
+[ECO "A05"]
 
 1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O e6 5. b3 Be7 6. Bb2 O-O 7. c4 c5 8.
 d3 a6 9. Nbd2 Ra7 10. Qc2 d5 11. e4 b5 12. cxd5 exd5 13. e5 Ne8 14. a4 bxa4
@@ -2163,9 +2142,9 @@ Re3 Qd7 34. Rce1 Ref7 35. Nxf8 Rxf8 36. Qf4 R8f7 37. Ne6 Qa7 38. Qd4 Qxd4
 [White "Forestani,A"]
 [Black "Panno,O"]
 [Result "0-1"]
-[ECO "A04"]
 [WhiteElo "2250"]
 [BlackElo "2454"]
+[ECO "A04"]
 
 1. Nf3 g6 2. g3 Bg7 3. Bg2 c5 4. O-O Nc6 5. c4 Nh6 6. Nc3 Nf5 7. d3 O-O 8.
 Ne1 b6 9. Nc2 Bb7 10. Rb1 d6 11. a3 Qd7 12. e4 Nfd4 13. Ne3 f5 14. f4 e6
@@ -2180,9 +2159,9 @@ Ne4 Rxf4 28. Rxf4 Rxf4 29. Qh5 Bxe4 30. Qxh6 Bxg2+ 31. Nxg2 Rf5 0-1
 [White "Gamboa,J"]
 [Black "Giardelli,S"]
 [Result "0-1"]
-[ECO "A35"]
 [WhiteElo "2225"]
 [BlackElo "2437"]
+[ECO "A35"]
 
 1. c4 Nf6 2. Nc3 c5 3. g3 g6 4. Bg2 Bg7 5. Nf3 Nc6 6. O-O d6 7. d4 cxd4 8.
 Nxd4 Bd7 9. Nc2 O-O 10. b3 Qa5 11. Bd2 Qh5 12. e4 Bg4 13. f3 Bh3 14. g4
@@ -2199,9 +2178,9 @@ Rxd6 Nb7 33. Rd1 Nxa5 34. Bf1 Red8 35. Nd5 f5 36. exf5 gxf5 37. Bxb5 Rxc1
 [White "Hernandez,Gi"]
 [Black "Geloso,C"]
 [Result "1/2-1/2"]
-[ECO "C96"]
 [WhiteElo "2558"]
 [BlackElo "2275"]
+[ECO "C96"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
 h3 d6 9. c3 Na5 10. Bc2 c5 11. d4 Nc6 12. Nbd2 Qb6 13. dxc5 dxc5 14. Nh2
@@ -2216,8 +2195,8 @@ Bxc5 Nxc5 27. bxc5 Qxc5 28. Rxd8 1/2-1/2
 [White "Hobaica,Juan Pablo"]
 [Black "Slipak,S"]
 [Result "0-1"]
-[ECO "C45"]
 [BlackElo "2521"]
+[ECO "C45"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nf5 d6 6. Nxg7+ Kf8 7. Nh5
 Qh4 8. Ng3 Nf6 9. Be2 Ne5 10. f3 Rg8 11. Kd2 d5 12. c3 dxe4 13. Kc2 exf3
@@ -2235,9 +2214,9 @@ f3 38. Kc4 f2 39. Bxf2 Bxf2 40. Kb5 Kf7 41. c4 Ke7 42. Kc6 Kd8 43. Kb7 Bg3
 [White "Laplaza,J"]
 [Black "Rosito,J"]
 [Result "0-1"]
-[ECO "C78"]
 [WhiteElo "2190"]
 [BlackElo "2379"]
+[ECO "C78"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8.
 d4 Bb6 9. a4 Bg4 10. d5 Ne7 11. Qe2 O-O 12. axb5 axb5 13. Rxa8 Qxa8 14. Na3
@@ -2254,8 +2233,8 @@ g6 39. b6 f2 0-1
 [White "Leskovar,Mar"]
 [Black "Farah,R"]
 [Result "1-0"]
-[ECO "C42"]
 [BlackElo "2177"]
+[ECO "C42"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Bg5
 Qxe2+ 8. Bxe2 Be7 9. Nc3 c6 10. O-O Na6 11. Rfe1 Nc7 12. Nd4 O-O 13. Bg4
@@ -2273,9 +2252,9 @@ fxe5+ Kxe5 39. Rh7 f4 40. gxf4+ Ke4 41. Rxh6 Rg8 42. Rh7 Rg2+ 43. Kd1 d4
 [White "Spangenberg,H"]
 [Black "Paz,V"]
 [Result "1/2-1/2"]
-[ECO "B80"]
 [WhiteElo "2531"]
 [BlackElo "2270"]
+[ECO "B80"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g3 Be7 7. Bg2 a6 8.
 O-O Qc7 9. Re1 O-O 10. a4 Nc6 11. h3 Bd7 12. g4 h6 13. g5 hxg5 14. Bxg5
@@ -2294,9 +2273,9 @@ Ke7 51. Rd1 Rc8 52. Rf1 f6 53. Rf3 Bd4+ 54. Kc2 Rh8 55. Rh3 1/2-1/2
 [White "Van Riemsdijk,H"]
 [Black "Ferrara,A"]
 [Result "1/2-1/2"]
-[ECO "A35"]
 [WhiteElo "2418"]
 [BlackElo "2185"]
+[ECO "A35"]
 
 1. c4 g6 2. Nc3 Bg7 3. d4 c5 4. Nf3 cxd4 5. Nxd4 Nc6 6. Nc2 Bxc3+ 7. bxc3
 Nf6 8. g3 Qa5 9. Qd2 d6 10. Bg2 O-O 11. O-O Be6 12. Ne3 Rac8 13. Rb1 b6 14.
@@ -2310,8 +2289,8 @@ Rb3 Qa6 15. Nd5 Qxc4 16. Rb4 Qc5 17. Nxf6+ exf6 18. Bxc6 Rxc6 19. Qh6 Qh5
 [White "Acosta,Mariano"]
 [Black "Perez Pietronave,C"]
 [Result "0-1"]
-[ECO "C40"]
 [BlackElo "2316"]
+[ECO "C40"]
 
 1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Nxc6 dxc6 5. d3 Bc5 6. Nc3 Nf6 7. Be2 O-O
 8. O-O fxe4 9. Nxe4 Nxe4 10. dxe4 Qh4 11. Bf3 Be6 12. Qe2 b5 13. b3 Rf7 14.
@@ -2329,9 +2308,9 @@ Ke8 45. f6 Rf1 0-1
 [White "Bianchi,Al"]
 [Black "Sobrero,S"]
 [Result "1-0"]
-[ECO "B23"]
 [WhiteElo "2225"]
 [BlackElo "2028"]
+[ECO "B23"]
 
 1. e4 d6 2. f4 c5 3. Nf3 Nc6 4. Bc4 e6 5. Nc3 Nf6 6. d4 cxd4 7. Nxd4 Qb6 8.
 Nf3 Be7 9. Bb3 O-O 10. Qe2 a6 11. Rg1 e5 12. Be3 Qa5 13. O-O-O Ng4 14. Bd2
@@ -2360,9 +2339,9 @@ hxg5 Rxc1+ 27. Rxc1 Nxg5 28. Rc7 Nf7 29. Bf4 Qb6 30. Bxf5 h6 31. Qg4+ 1-0
 [White "Alonso,S"]
 [Black "Soppe,G"]
 [Result "1-0"]
-[ECO "B01"]
 [WhiteElo "2339"]
 [BlackElo "2448"]
+[ECO "B01"]
 
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Bc4 a6 6. Bb3 Nc6 7. Nge2 e5
 8. dxe5 Qxd1+ 9. Nxd1 Nxe5 10. Bf4 Bd6 11. h3 O-O 12. Ndc3 Bd7 13. O-O h6
@@ -2377,8 +2356,8 @@ hxg5 26. Rxe8+ Kxe8 27. Kg2 Kd7 28. Re1 c5 29. g4 Rb8 1-0
 [White "Cristobal,R"]
 [Black "Restuccia,F"]
 [Result "1-0"]
-[ECO "A03"]
 [WhiteElo "2260"]
+[ECO "A03"]
 
 1. f4 d5 2. Nf3 g6 3. e3 Bg7 4. c4 c6 5. Nc3 Nf6 6. Be2 O-O 7. O-O a6 8. d4
 dxc4 9. a4 c5 10. d5 e6 11. e4 exd5 12. exd5 Ne8 13. Ne5 Nd6 14. Be3 Qc7
@@ -2393,9 +2372,9 @@ Qxf7 21. Qxf7+ Kxf7 22. Bxd4+ Kg8 23. Bxc5 bxa4 24. Nd5 Nd7 25. Ne7+ Kg7
 [White "Felgaer,R"]
 [Black "Braga,F"]
 [Result "0-1"]
-[ECO "B43"]
 [WhiteElo "2364"]
 [BlackElo "2461"]
+[ECO "B43"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. g3 Bb7 7. Bg2 Be7 8.
 O-O Qc7 9. Re1 d6 10. Qg4 Nd7 11. e5 dxe5 12. Ndxb5 axb5 13. Nxb5 Qa5 14.
@@ -2410,9 +2389,9 @@ Bxb7 Qxe1+ 15. Kg2 Rb8 16. Qxg7 Rxb7 17. Qxh8 Qe4+ 18. Kg1 Qg6 19. a4 Bf6
 [White "Ferrara,A"]
 [Black "Spangenberg,H"]
 [Result "0-1"]
-[ECO "B07"]
 [WhiteElo "2185"]
 [BlackElo "2531"]
+[ECO "B07"]
 
 1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5 7. h3 b6 8.
 O-O Ba6 9. Re1 Nc6 10. Be3 Re8 11. Qd2 Nd7 12. Rad1 Bxe2 13. Nxe2 exd4 14.
@@ -2430,9 +2409,9 @@ Nd6+ 45. Kd3 gxh5 46. Bxh5 Kf5 47. Kd4 Kxg5 48. Be2 Kf4 49. Bh5 f6 0-1
 [White "Giardelli,S"]
 [Black "Loiterstein,M"]
 [Result "1-0"]
-[ECO "A14"]
 [WhiteElo "2437"]
 [BlackElo "2280"]
+[ECO "A14"]
 
 1. c4 Nf6 2. g3 c5 3. Bg2 e6 4. Nf3 Be7 5. b3 O-O 6. Bb2 Nc6 7. O-O d5 8.
 e3 b6 9. Qe2 Bb7 10. Rd1 Qc7 11. Nc3 Rfd8 12. Rac1 Rac8 13. d3 Qb8 14. a3
@@ -2450,9 +2429,9 @@ Kf3 Qf6+ 45. Ke4 1-0
 [White "Guzzardo,R"]
 [Black "Vasta,E"]
 [Result "1/2-1/2"]
-[ECO "C63"]
 [WhiteElo "2135"]
 [BlackElo "2375"]
+[ECO "C63"]
 
 1. e4 Nc6 2. Nf3 e5 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. Bg5 Bb4+ 7. c3 Bc5
 8. O-O d6 9. Nbd2 O-O 10. b4 Bb6 11. Nc4 Kh8 12. a4 a6 13. Nxb6 cxb6 14.
@@ -2466,9 +2445,9 @@ Rd3 Qe6 21. Nf3 Ng6 22. g3 Rf6 23. Rfd1 Qg4 24. Nd4 Qg5 25. Nf3 1/2-1/2
 [White "Kanefsck,G"]
 [Black "Bibiloni,J"]
 [Result "1-0"]
-[ECO "C50"]
 [WhiteElo "2391"]
 [BlackElo "2218"]
+[ECO "C50"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. O-O Nf6 5. d3 O-O 6. Re1 d6 7. Bb3 Be6 8.
 c3 Qd7 9. Nbd2 g6 10. Nf1 Nh5 11. d4 Bxb3 12. Qxb3 Nf4 13. Bxf4 exf4 14.
@@ -2487,8 +2466,8 @@ a2 51. Rgd7 Rg8 52. Rxd6 Rhg2 53. Kf4 Rf2+ 54. Ke5 Rb8 55. e7 1-0
 [White "Milos,G"]
 [Black "Leskovar,Mar"]
 [Result "1-0"]
-[ECO "C41"]
 [WhiteElo "2586"]
+[ECO "C41"]
 
 1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 g6 5. g3 Bg7 6. Bg2 Nc6 7. Nxc6 bxc6
 8. O-O Ne7 9. Nc3 Rb8 10. Qd2 O-O 11. b3 f5 12. Bb2 fxe4 13. Bxe4 Bh3 14.
@@ -2503,8 +2482,8 @@ Nxc6 Rbe8 21. Bxd5+ Kg7 22. f4 Nc3 23. Bf3 Rxe1+ 24. Rxe1 Nxa2 25. Re5 Rf7
 [White "Neme,J"]
 [Black "Acosta,Mariano"]
 [Result "0-1"]
-[ECO "B03"]
 [WhiteElo "2085"]
+[ECO "B03"]
 
 1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8.
 Nc3 e6 9. Nf3 Be7 10. Be2 O-O 11. O-O f6 12. Nh4 fxe5 13. Nxf5 exf5 14. d5
@@ -2524,9 +2503,9 @@ Kf3 52. a4 e3+ 53. Kd1 a5 54. Ke1 Nf6 55. Nd4+ Kxg3 56. Ke2 Nd5 57. Kd3 Kf2
 [White "Panno,O"]
 [Black "Piscicelli,D"]
 [Result "1/2-1/2"]
-[ECO "B70"]
 [WhiteElo "2454"]
 [BlackElo "2350"]
+[ECO "B70"]
 
 1. g3 c5 2. Bg2 g6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Bg7 6. Nb3 Nf6 7. Nc3 O-O
 8. O-O d6 9. e4 Bg4 10. f3 Be6 11. f4 a5 12. a4 Nb4 13. Ra3 Rc8 14. h3 Qb6+
@@ -2541,9 +2520,9 @@ Nd4 Qb8 22. Nd5 Re8 23. Nxb4 axb4 24. Raa1 b3 25. cxb3 Nxb3 26. Nxb3 Bxb3
 [White "Perez Pietronave,C"]
 [Black "Fiorito,F"]
 [Result "0-1"]
-[ECO "B50"]
 [WhiteElo "2316"]
 [BlackElo "2440"]
+[ECO "B50"]
 
 1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 g6 5. O-O Bg7 6. Bb5+ Bd7 7. Bxd7+ Qxd7
 8. Re1 Nc6 9. d4 cxd4 10. cxd4 d5 11. e5 Ne4 12. Nbd2 Nxd2 13. Bxd2 O-O 14.
@@ -2557,9 +2536,9 @@ Rad1 Rxb4 21. Rd3 Rd8 22. Qh4 Qb5 0-1
 [White "Pierrot,F"]
 [Black "De las Heras,J"]
 [Result "1/2-1/2"]
-[ECO "C41"]
 [WhiteElo "2442"]
 [BlackElo "2312"]
+[ECO "C41"]
 
 1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nf6 5. Nc3 Be7 6. Bg5 O-O 7. O-O-O
 Nc6 8. Qd2 a6 9. Bd3 b5 10. Rhe1 Ne5 11. Nxe5 dxe5 12. Bf1 Qxd2+ 13. Rxd2
@@ -2576,9 +2555,9 @@ Nd6 Nc6+ 39. Kb5 Nd4+ 40. Kxc5 Ne6+ 41. Kb5 Nd4+ 42. Ka5 Nc6+ 1/2-1/2
 [White "Rodriguez,And URU"]
 [Black "Needleman,A"]
 [Result "1-0"]
-[ECO "B47"]
 [WhiteElo "2500"]
 [BlackElo "2359"]
+[ECO "B47"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. g3 d6 7. Bg2 Bd7 8.
 O-O Nf6 9. a4 Rc8 10. Be3 b6 11. Ndb5 Qb8 12. g4 h6 13. f4 Be7 14. Qe2 a6
@@ -2593,9 +2572,9 @@ Kd7 27. Rxf7+ Kxe6 28. Qf5+ Kd6 29. Nab5+ 1-0
 [White "Rosito,J"]
 [Black "Giaccio,A"]
 [Result "1/2-1/2"]
-[ECO "C02"]
 [WhiteElo "2379"]
 [BlackElo "2505"]
+[ECO "C02"]
 
 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Nge7 6. Bd3 cxd4 7. cxd4 Nf5 8.
 Bxf5 exf5 9. Nc3 Be6 10. Ne2 Rg8 11. h4 h6 12. h5 g5 13. hxg6 fxg6 14. Ng3
@@ -2608,9 +2587,9 @@ g5 15. Nh5 Be7 16. Bd2 Rc8 17. Rc1 Kf7 18. Bc3 Rg6 19. Kf1 1/2-1/2
 [White "Rubinetti,J"]
 [Black "Sevillano,D"]
 [Result "1-0"]
-[ECO "B32"]
 [WhiteElo "2432"]
 [BlackElo "2250"]
+[ECO "B32"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6
 Qf6 8. Qa3 Qg6 9. Be3 d6 10. Nc3 Nge7 11. O-O-O O-O 12. Rxd6 Be6 13. h4 h5
@@ -2625,9 +2604,9 @@ Qxb3 26. axb3 1-0
 [White "Slipak,S"]
 [Black "Dorin,M"]
 [Result "1-0"]
-[ECO "E52"]
 [WhiteElo "2521"]
 [BlackElo "2397"]
+[ECO "E52"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. e3 O-O 6. Bd3 d5 7. O-O dxc4 8.
 Bxc4 Bb7 9. Qe2 Qc8 10. Bd2 c5 11. Rac1 cxd4 12. exd4 Bxc3 13. Bxc3 Ba6 14.
@@ -2645,9 +2624,9 @@ Qd6+ Kg8 45. Qb8+ 1-0
 [White "Daneri,M"]
 [Black "Van Riemsdijk,H"]
 [Result "0-1"]
-[ECO "A04"]
 [WhiteElo "2154"]
 [BlackElo "2418"]
+[ECO "A04"]
 
 1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O Nge7 7. Re1 d6 8.
 c3 O-O 9. h4 e5 10. h5 Bg4 11. h6 Bf6 12. Nbd2 Bg5 13. Nc4 Bxc1 14. Qxc1 f6
@@ -2668,9 +2647,9 @@ Nf2 Rxb4 64. Rh1 Rb3+ 0-1
 [White "Geloso,C"]
 [Black "Moreda,L"]
 [Result "1/2-1/2"]
-[ECO "B07"]
 [WhiteElo "2275"]
 [BlackElo "2325"]
+[ECO "B07"]
 
 1. e4 d6 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nf6 5. Nge2 O-O 6. O-O c6 7. d3 Nbd7 8.
 h3 e5 9. Be3 b5 10. Qd2 d5 11. exd5 b4 12. dxc6 bxc3 13. bxc3 Nb8 14. c7
@@ -2688,9 +2667,9 @@ Kg3 Rg6+ 1/2-1/2
 [White "Paz,V"]
 [Black "Vidal,R"]
 [Result "1/2-1/2"]
-[ECO "E65"]
 [WhiteElo "2270"]
 [BlackElo "2105"]
+[ECO "E65"]
 
 1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 d6 5. Nf3 O-O 6. O-O c5 7. d4 Na6 8.
 h3 Bd7 9. Kh2 Rb8 10. dxc5 Nxc5 11. Nd4 a6 12. a4 Ne6 13. e3 Qc7 14. b3 Bc6
@@ -2707,9 +2686,9 @@ Bxa5 Rc2 39. Bd2 Na2 40. Rb3 Rc7 41. Ra3 Rc2 42. Rb3 Rc7 43. Ra3 1/2-1/2
 [White "Ramirez,Em"]
 [Black "Peralta,F"]
 [Result "1/2-1/2"]
-[ECO "B41"]
 [WhiteElo "2300"]
 [BlackElo "2433"]
+[ECO "B41"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. g3 d5 6. Nc3 dxe4 7. Nxe4 e5 8.
 Nb3 Qxd1+ 9. Kxd1 Bg4+ 10. Be2 Bxe2+ 11. Kxe2 Nd7 12. Rd1 Ngf6 13. Nd6+
@@ -2728,9 +2707,9 @@ Kd4 51. Rxa6 Kxc4 52. Rxh6 Rxa2 1/2-1/2
 [White "Villanueva,Mat"]
 [Black "Hernandez,Gi"]
 [Result "0-1"]
-[ECO "B68"]
 [WhiteElo "2035"]
 [BlackElo "2558"]
+[ECO "B68"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
 O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. a3 b4 12. axb4 Nxb4 13. Bc4 Qc7 14. Bb3
@@ -2747,8 +2726,8 @@ Ke1 Rxc4 39. Kd2 Kd6 40. Kd3 Kd5 0-1
 [White "Acosta,Mariano"]
 [Black "Cordero,A"]
 [Result "0-1"]
-[ECO "A55"]
 [BlackElo "2280"]
+[ECO "A55"]
 
 1. Nf3 Nf6 2. d4 d6 3. c4 Nbd7 4. Nc3 e5 5. e4 Be7 6. Be2 O-O 7. O-O Re8 8.
 Qc2 c6 9. Rd1 Qc7 10. h3 Nf8 11. Be3 Ng6 12. Rac1 Nd7 13. d5 c5 14. a3 Qd8
@@ -2767,9 +2746,9 @@ Na3 Kf6 52. Rc2 Ra1 53. Nb5 Ke7 54. Nc3 Kd7 55. Ne2 Kc7 0-1
 [White "Alonso,S"]
 [Black "Slipak,S"]
 [Result "0-1"]
-[ECO "B19"]
 [WhiteElo "2339"]
 [BlackElo "2521"]
+[ECO "B19"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nf6 8.
 Ne5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Nbd7 12. f4 Bd6 13. O-O-O Qc7 14.
@@ -2789,9 +2768,9 @@ Kd4 57. Kf5 Kc3 58. Kxf6 Kxc2 59. g4 a4 60. g5 a3 0-1
 [White "Bademian,J"]
 [Black "Amura,C"]
 [Result "1/2-1/2"]
-[ECO "B22"]
 [WhiteElo "2165"]
 [BlackElo "2355"]
+[ECO "B22"]
 
 1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 g6 5. Nf3 Bg7 6. Be2 cxd4 7. cxd4 Nf6
 8. Nc3 Qa5 9. O-O O-O 10. h3 Nc6 11. Be3 Bf5 12. a3 Rad8 13. b4 Qc7 14. Rc1
@@ -2808,8 +2787,8 @@ h6 39. h4 hxg5 40. hxg5 Kf8 41. Ke3 Ke7 42. Bh3 1/2-1/2
 [White "Dorin,M"]
 [Black "Perez,Raul"]
 [Result "1-0"]
-[ECO "C41"]
 [WhiteElo "2397"]
+[ECO "C41"]
 
 1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Nc3 Be7 5. Bc4 Ngf6 6. h3 O-O 7. Be3 c6 8.
 Bb3 Qc7 9. O-O b5 10. a3 a6 11. Qe2 h6 12. Rfe1 Re8 13. Nh4 Bf8 14. Ng6
@@ -2824,9 +2803,9 @@ Kf1 Be6 27. Rxg6+ Kxg6 28. Rd1 Rd8 29. Rd3 Qxa3 30. e5 fxe5 31. Qg5+ 1-0
 [White "Fiorito,F"]
 [Black "Milos,G"]
 [Result "0-1"]
-[ECO "C26"]
 [WhiteElo "2440"]
 [BlackElo "2586"]
+[ECO "C26"]
 
 1. e4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 d6 5. Nf3 Bg4 6. h3 Bh5 7. d3 f6 8.
 Na4 Nge7 9. Nxc5 dxc5 10. Be3 Qd6 11. a3 Nd4 12. g4 Bf7 13. Nxd4 cxd4 14.
@@ -2843,9 +2822,9 @@ axb5 axb5 28. Bh3 c4 29. bxc4 bxc4 30. Bb4 Rxg1 31. Kxg1 Nb7 32. Kh1 Qb6
 [White "Gamboa,J"]
 [Black "Szmetan,J"]
 [Result "0-1"]
-[ECO "A30"]
 [WhiteElo "2225"]
 [BlackElo "2403"]
+[ECO "A30"]
 
 1. c4 c5 2. Nc3 Nf6 3. g3 e6 4. Nf3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8.
 Qxd4 d6 9. b3 Nbd7 10. Rd1 a6 11. Bb2 O-O 12. e4 Qb8 13. h3 Re8 14. Rd2 Bf8
@@ -2861,8 +2840,8 @@ Rh2+ 33. Kd1 0-1
 [White "Giaccio,A"]
 [Black "Ramirez,E"]
 [Result "1-0"]
-[ECO "B04"]
 [WhiteElo "2505"]
+[ECO "B04"]
 
 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nc3 g6 7. h3 Bg7 8.
 Nf3 O-O 9. Be2 Nc6 10. O-O Bf5 11. a3 Na5 12. b3 h6 13. Be3 Nc6 14. Qd2 Kh7
@@ -2880,9 +2859,9 @@ Qe8 46. Bxc8 Qxc8 47. Rg1 Bf8 48. Bf4 Bg7 49. Rb1 Qf8 50. Bg3 1-0
 [White "Hernandez,Gi"]
 [Black "Kanefsck,G"]
 [Result "1/2-1/2"]
-[ECO "B78"]
 [WhiteElo "2558"]
 [BlackElo "2391"]
+[ECO "B78"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
 Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Ne5 11. Bb3 Rc8 12. Kb1 Nc4 13. Bxc4 Rxc4 14.
@@ -2914,9 +2893,9 @@ Bd7 27. fxg4 Nxg4 28. Qf3 f5 29. Qxb7 1-0
 [White "Laplaza,J"]
 [Black "Felgaer,R"]
 [Result "0-1"]
-[ECO "B76"]
 [WhiteElo "2190"]
 [BlackElo "2364"]
+[ECO "B76"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
 Qd2 Nc6 9. O-O-O d5 10. Qe1 e5 11. Nxc6 bxc6 12. Bc5 Re8 13. exd5 cxd5 14.
@@ -2933,8 +2912,8 @@ Kd6 0-1
 [White "Leskovar,Mar"]
 [Black "Della Morte,P"]
 [Result "1-0"]
-[ECO "B56"]
 [BlackElo "2220"]
+[ECO "B56"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. f4 Qb6 7. Nf3 e6 8.
 Bd3 Be7 9. Qe2 a6 10. Rb1 O-O 11. Be3 Qc7 12. O-O b5 13. a3 Bb7 14. Kh1 Na5
@@ -2950,9 +2929,9 @@ h3 Nc4 33. Qc6 Ne5 34. Qd5 Nf7 35. Qd4+ Qe5 36. Re1 Rd8 37. Rxe5 1-0
 [White "Needleman,A"]
 [Black "Albarran,G"]
 [Result "1-0"]
-[ECO "A37"]
 [WhiteElo "2359"]
 [BlackElo "2180"]
+[ECO "A37"]
 
 1. Nf3 c5 2. g3 g6 3. Bg2 Bg7 4. O-O Nc6 5. c4 e5 6. Nc3 Nge7 7. Rb1 d6 8.
 a3 a5 9. d3 O-O 10. Ne1 Be6 11. Nc2 Rb8 12. b4 axb4 13. axb4 b6 14. b5 Na5
@@ -2968,9 +2947,9 @@ a3 a5 9. d3 O-O 10. Ne1 Be6 11. Nc2 Rb8 12. b4 axb4 13. axb4 b6 14. b5 Na5
 [White "Peralta,F"]
 [Black "Caceres,S"]
 [Result "1-0"]
-[ECO "E29"]
 [WhiteElo "2433"]
 [BlackElo "2060"]
+[ECO "E29"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. e3 c5 7. Bd3 Nc6
 8. Ne2 d6 9. O-O b6 10. e4 Ne8 11. f4 f5 12. Ng3 g6 13. Be3 Nf6 14. h3 Ba6
@@ -2989,9 +2968,9 @@ Kg8 52. Rg7+ Kh8 53. Rd7 1-0
 [White "Piscicelli,D"]
 [Black "Pierrot,F"]
 [Result "0-1"]
-[ECO "D91"]
 [WhiteElo "2350"]
 [BlackElo "2442"]
+[ECO "D91"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 dxc4 6. e3 Be6 7. Ne5 Nd5 8.
 Nxc4 c5 9. Qa4+ Qd7 10. Qxd7+ Nxd7 11. Nxd5 Bxd5 12. dxc5 Rc8 13. Rc1 Rxc5
@@ -3011,9 +2990,9 @@ Kd4 Kc1 0-1
 [White "Soppe,G"]
 [Black "Bianchi,Al"]
 [Result "1-0"]
-[ECO "A06"]
 [WhiteElo "2448"]
 [BlackElo "2225"]
+[ECO "A06"]
 
 1. Nf3 c5 2. b3 d5 3. e3 Nf6 4. Bb2 e6 5. d4 Nc6 6. Bd3 b6 7. O-O Bb7 8.
 Nbd2 Be7 9. a3 O-O 10. Ne5 Nxe5 11. dxe5 Ne4 12. Nb1 f5 13. f3 Ng5 14. Nd2
@@ -3029,9 +3008,9 @@ Ke1 Rf7 34. Qf2 Qe7 35. Rg6 Bd7 36. Rxb6 Qd8 37. Rb8 1-0
 [White "Spangenberg,H"]
 [Black "Rosito,J"]
 [Result "1-0"]
-[ECO "A25"]
 [WhiteElo "2531"]
 [BlackElo "2379"]
+[ECO "A25"]
 
 1. c4 e5 2. g3 Nc6 3. Bg2 g6 4. e3 Bg7 5. Ne2 d6 6. Nbc3 h5 7. h3 h4 8. g4
 f5 9. gxf5 Bxf5 10. d4 exd4 11. Nxd4 Bd7 12. Nxc6 bxc6 13. Qd3 Qf6 14. Nb5
@@ -3049,9 +3028,9 @@ h1=Q 45. Rxh1+ Bxh1 46. Rh2+ Kg5 47. Qxg6+ Kf4 48. Rxh1 1-0
 [White "Van Riemsdijk,H"]
 [Black "Panno,O"]
 [Result "1/2-1/2"]
-[ECO "B32"]
 [WhiteElo "2418"]
 [BlackElo "2454"]
+[ECO "B32"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6 5. Nb5 Nf6 6. Be3 Qd8 7. f3 a6
 8. N5c3 e6 9. Na4 d5 10. Nb6 Rb8 11. exd5 Nxd5 12. Bf2 Be7 13. Nxd5 exd5
@@ -3069,9 +3048,9 @@ Rb6 38. Ne4 Rc6 39. Kf1 f6 40. Rd1 Rc1 41. Rxc1 Nxc1 42. Nc5 a5 43. Ke1 Na2
 [White "Vasta,E"]
 [Black "Labollita,M"]
 [Result "1-0"]
-[ECO "B93"]
 [WhiteElo "2375"]
 [BlackElo "2199"]
+[ECO "B93"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Nbd7 8.
 a4 Be7 9. Bd3 O-O 10. O-O exf4 11. Kh1 Nc5 12. Bxf4 Bg4 13. a5 Re8 14. Qd2
@@ -3087,9 +3066,9 @@ Qxe4 33. Nxe4 Be2 34. Re1 Bb5 35. Nd6 Nc6 36. Bxg7 Kxg7 1-0
 [White "Braga,F"]
 [Black "Giardelli,S"]
 [Result "1/2-1/2"]
-[ECO "B22"]
 [WhiteElo "2461"]
 [BlackElo "2437"]
+[ECO "B22"]
 
 1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Be2 cxd4 7. Qxd4 Qxd4
 8. Nxd4 a6 9. Nd2 e5 10. N4f3 Nc6 1/2-1/2
@@ -3101,9 +3080,9 @@ Qxe4 33. Nxe4 Be2 34. Re1 Bb5 35. Nd6 Nc6 36. Bxg7 Kxg7 1-0
 [White "De las Heras,J"]
 [Black "Rubinetti,J"]
 [Result "0-1"]
-[ECO "C71"]
 [WhiteElo "2312"]
 [BlackElo "2432"]
+[ECO "C71"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. c4 Nf6 6. Nc3 Bg4 7. h3 Bxf3 8.
 Qxf3 Nd7 9. Bxc6 bxc6 10. h4 Be7 11. g3 O-O 12. d3 Nc5 13. Qe2 Rb8 14. Be3
@@ -3125,9 +3104,9 @@ Ke2 Nf4+ 0-1
 [White "Mondaca,O"]
 [Black "Rodriguez,And URU"]
 [Result "0-1"]
-[ECO "A80"]
 [WhiteElo "2180"]
 [BlackElo "2500"]
+[ECO "A80"]
 
 1. d4 f5 2. Bg5 c5 3. d5 Qb6 4. Nc3 g6 5. Rb1 Bg7 6. Bd2 Nf6 7. Nf3 O-O 8.
 g3 d6 9. Bg2 Na6 10. Na4 Qd8 11. c4 Nc7 12. Nc3 Rb8 13. a4 b6 14. O-O Bd7
@@ -3146,9 +3125,9 @@ Qb1 Qxb1+ 40. Nxb1 fxe3 41. fxe3 Kf8 42. Nd2 Bc8 43. Ne4 Nxe4 44. Bxe4 Bxh3
 [White "Recoulat,E"]
 [Black "Hoffman,A"]
 [Result "0-1"]
-[ECO "A56"]
 [WhiteElo "2171"]
 [BlackElo "2547"]
+[ECO "A56"]
 
 1. d4 c5 2. d5 g6 3. c4 d6 4. Nc3 Bg7 5. e4 Nf6 6. Nf3 O-O 7. h3 Na6 8. Bd3
 e5 9. g4 Nc7 10. Bg5 Bd7 11. Qd2 a6 12. Ke2 b5 13. b3 Rb8 14. Rab1 Na8 15.
@@ -3182,9 +3161,9 @@ cxb4 Qxd4 21. Be3 Qxb4 22. Bxa7 Qxb3 23. Qxe7 Qxh3 24. Qd7 Rcd8 25. Qa4 Bd4
 [White "Amura,C"]
 [Black "Recoulat,E"]
 [Result "1-0"]
-[ECO "D17"]
 [WhiteElo "2355"]
 [BlackElo "2171"]
+[ECO "D17"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7
 8. Bg5 e6 9. f3 Bb4 10. e4 Bg6 11. Be2 O-O 12. O-O a5 13. Rc1 Rac8 14. Qb3
@@ -3198,9 +3177,9 @@ Nc5 Ra8 21. Nxb7 Nxa4 22. b3 Ra7 23. Nd6 Nb6 24. Rxc6 Nbd7 25. Ra1 1-0
 [White "Cristobal,R"]
 [Black "Fiorito,F"]
 [Result "1/2-1/2"]
-[ECO "A03"]
 [WhiteElo "2260"]
 [BlackElo "2440"]
+[ECO "A03"]
 
 1. f4 d5 2. Nf3 c6 3. e3 Bg4 4. c4 e6 5. h3 Bxf3 6. Qxf3 Nf6 7. Nc3 Be7 8.
 d4 O-O 9. a3 c5 10. cxd5 exd5 11. dxc5 Bxc5 12. Bd2 Nc6 13. O-O-O Qe7 14.
@@ -3217,9 +3196,9 @@ Nxd5 Nxd5 15. Qxd5 Bxe3 16. Bxe3 Qxe3+ 17. Qd2 Qg3 18. Kb1 Rfd8 19. Bd3 Rd4
 [White "Felgaer,R"]
 [Black "Dorin,M"]
 [Result "1-0"]
-[ECO "C16"]
 [WhiteElo "2364"]
 [BlackElo "2397"]
+[ECO "C16"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. a3 Bxc3+ 6. bxc3 Qd7 7. Qg4 f5 8.
 Qg3 Ba6 9. Bxa6 Nxa6 10. Ne2 O-O-O 11. a4 Kb7 12. a5 b5 13. O-O Ka8 14. Ba3
@@ -3235,9 +3214,9 @@ Qc4 21. Nxh7 Ng8 22. Rab1 c6 23. Qd2 g4 24. Nf8 Rh6 25. Qg5 Qe2 26. Qxg8 f4
 [White "Giardelli,S"]
 [Black "Giaccio,A"]
 [Result "0-1"]
-[ECO "A13"]
 [WhiteElo "2437"]
 [BlackElo "2505"]
+[ECO "A13"]
 
 1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 c6 5. Qc2 Nbd7 6. O-O Bd6 7. d4 O-O 8.
 Bf4 Bxf4 9. gxf4 Ne4 10. e3 Qe7 11. Ne5 Nd6 12. Nd2 f6 13. Nef3 Kh8 14.
@@ -3256,8 +3235,8 @@ Rc2 a4 51. Nc4 axb3 52. axb3 Nf4+ 53. Kg3 0-1
 [White "Guzzardo,R"]
 [Black "Leskovar,Mar"]
 [Result "0-1"]
-[ECO "B13"]
 [WhiteElo "2135"]
+[ECO "B13"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 g6 6. Nf3 Nh6 7. h3 f6 8.
 O-O Bg7 9. Re1 O-O 10. c4 e6 11. cxd5 exd5 12. Nc3 Nf5 13. Bc2 Nfe7 14. Bf4
@@ -3276,9 +3255,9 @@ Ba7 h4 51. Bb6 h3 0-1
 [White "Hoffman,A"]
 [Black "Needleman,A"]
 [Result "0-1"]
-[ECO "B40"]
 [WhiteElo "2547"]
 [BlackElo "2359"]
+[ECO "B40"]
 
 1. e4 c5 2. Nf3 e6 3. d3 d5 4. Qe2 Nf6 5. e5 Nfd7 6. g3 Nc6 7. Bg2 Qa5+ 8.
 c3 Nd4 9. Nxd4 cxd4 10. O-O dxc3 11. bxc3 Nc5 12. Ba3 Bd7 13. f4 Qa6 14.
@@ -3293,8 +3272,8 @@ Rxc3 27. Rxc3 Qxc3 28. Qf4 0-1
 [White "Kanefsck,G"]
 [Black "Hobaica,Juan Pablo"]
 [Result "1/2-1/2"]
-[ECO "B53"]
 [WhiteElo "2391"]
+[ECO "B53"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3
 Nf6 8. Bg5 e6 9. O-O-O Be7 10. Rhe1 O-O 11. Qd2 Qa5 12. Kb1 Rfd8 13. Nd4
@@ -3325,9 +3304,9 @@ fxg4 39. Qe6+ Kh8 40. Qxg4 Bf5 41. Qf3 Bxh3+ 42. Ke2 Qc2+ 0-1
 [White "Milos,G"]
 [Black "Slipak,S"]
 [Result "1/2-1/2"]
-[ECO "A25"]
 [WhiteElo "2586"]
 [BlackElo "2521"]
+[ECO "A25"]
 
 1. c4 e5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. Rb1 a5 6. d3 d6 7. e4 f5 8. Nge2
 Nf6 9. Nd5 Nxd5 10. cxd5 Ne7 11. d4 O-O 12. dxe5 dxe5 13. Be3 fxe4 14. Nc3
@@ -3340,9 +3319,9 @@ Nf5 15. Bc5 e3 16. fxe3 Nd6 17. e4 b6 18. Bf2 1/2-1/2
 [White "Mosconi,A"]
 [Black "Piscicelli,D"]
 [Result "0-1"]
-[ECO "B23"]
 [WhiteElo "2166"]
 [BlackElo "2350"]
+[ECO "B23"]
 
 1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bc4 e6 6. f5 Nge7 7. fxg6 hxg6
 8. O-O d5 9. Bb5 a6 10. Bxc6+ Nxc6 11. d3 Nd4 12. Bf4 O-O 13. Ne5 Nc6 14.
@@ -3361,9 +3340,9 @@ Bxf5 0-1
 [White "Palmisano,J"]
 [Black "Van Riemsdijk,H"]
 [Result "1/2-1/2"]
-[ECO "A43"]
 [WhiteElo "2139"]
 [BlackElo "2418"]
+[ECO "A43"]
 
 1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 d6 7. O-O Na6 8.
 Re1 Nc7 9. a4 b6 10. Bf4 a6 11. Bc4 Bb7 12. Qd3 Qc8 13. Rad1 Rd8 14. Qe3
@@ -3380,9 +3359,9 @@ Qe2 Rg8 33. Qh5+ Rg6 34. Qxh7+ Qg7 35. Qh5 Rh8 36. Qxg6+ Qxg6 37. Rxg6 Kxg6
 [White "Panno,O"]
 [Black "Alonso,S"]
 [Result "1/2-1/2"]
-[ECO "E69"]
 [WhiteElo "2454"]
 [BlackElo "2339"]
+[ECO "E69"]
 
 1. c4 Nf6 2. Nc3 g6 3. e4 e5 4. Nf3 d6 5. d4 exd4 6. Nxd4 Bg7 7. g3 O-O 8.
 Bg2 c6 9. O-O Nbd7 10. h3 Nc5 11. Be3 Re8 12. Qc2 Qe7 13. Rfe1 Bd7 14. Nb3
@@ -3401,9 +3380,9 @@ Kh5 Rg2 45. Re7+ Kg8 46. Rc7 Rxb2 47. h7+ Kh8 48. Kg6 Rg2+ 49. Kh6 Rh2+
 [White "Perez Pietronave,C"]
 [Black "Hernandez,Gi"]
 [Result "0-1"]
-[ECO "B40"]
 [WhiteElo "2316"]
 [BlackElo "2558"]
+[ECO "B40"]
 
 1. e4 c5 2. Nf3 e6 3. c3 d5 4. e5 d4 5. b4 cxb4 6. Nxd4 Ne7 7. Qh5 Nbc6 8.
 Bb5 Bd7 9. Nf3 Ng6 10. d4 Qa5 11. a4 bxa3 12. Bc4 Rc8 13. Ba2 Nb4 14. O-O
@@ -3417,9 +3396,9 @@ Bxa3 21. fxe6 Rxf2 0-1
 [White "Pierrot,F"]
 [Black "Peralta,F"]
 [Result "1-0"]
-[ECO "B42"]
 [WhiteElo "2442"]
 [BlackElo "2433"]
+[ECO "B42"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 7. Qe2 d6 8.
 c4 g6 9. Nc3 Bg7 10. Rd1 O-O 11. Nf3 Nc6 12. h3 b6 13. Be3 Nd7 14. Rac1
@@ -3435,9 +3414,9 @@ Rxe5 1-0
 [White "Rodriguez,And URU"]
 [Black "Spangenberg,H"]
 [Result "0-1"]
-[ECO "C30"]
 [WhiteElo "2500"]
 [BlackElo "2531"]
+[ECO "C30"]
 
 1. e4 e5 2. f4 Qh4+ 3. g3 Qe7 4. fxe5 d6 5. Nc3 dxe5 6. Nf3 c6 7. Bc4 Bg4
 8. d3 Nd7 9. O-O Ngf6 10. Kg2 b5 11. Bb3 Nc5 12. h3 Bxf3+ 13. Qxf3 a5 14.
@@ -3453,9 +3432,9 @@ Kd2 Be3+ 33. Kc3 Qc6+ 34. Kb4 Re4+ 0-1
 [White "Rosito,J"]
 [Black "Benko,F"]
 [Result "1-0"]
-[ECO "B12"]
 [WhiteElo "2379"]
 [BlackElo "2128"]
+[ECO "B12"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O c5 7. Be3 Qb6 8. c4
 Ne7 9. Nc3 Nc6 10. cxd5 Nxd4 11. Nxd4 cxd4 12. Bxd4 Qa5 13. d6 a6 14. f4 h6
@@ -3468,9 +3447,9 @@ Ne7 9. Nc3 Nc6 10. cxd5 Nxd4 11. Nxd4 cxd4 12. Bxd4 Qa5 13. d6 a6 14. f4 h6
 [White "Rubinetti,J"]
 [Black "Braga,F"]
 [Result "1-0"]
-[ECO "A48"]
 [WhiteElo "2432"]
 [BlackElo "2461"]
+[ECO "A48"]
 
 1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d6 5. c3 O-O 6. e3 Nbd7 7. Be2 e5 8.
 O-O h6 9. Bh4 Qe8 10. Bxf6 Nxf6 11. a4 Qe7 12. a5 c5 13. dxe5 dxe5 14. e4
@@ -3486,9 +3465,9 @@ Bd7 15. Re1 Bc6 16. Bc4 Rad8 17. Qb3 a6 18. Qc2 h5 19. Bb3 Bh6 20. Nc4 Nd7
 [White "Sola,R"]
 [Black "Vasta,E"]
 [Result "1/2-1/2"]
-[ECO "A07"]
 [WhiteElo "2265"]
 [BlackElo "2375"]
+[ECO "A07"]
 
 1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Nc6 6. Nbd2 Nge7 7. c3 a5 8.
 Qc2 O-O 9. e4 h6 10. Re1 Be6 11. b3 f5 12. exd5 Nxd5 13. Bb2 Bf7 14. a3 Re8
@@ -3501,9 +3480,9 @@ Qc2 O-O 9. e4 h6 10. Re1 Be6 11. b3 f5 12. exd5 Nxd5 13. Bb2 Bf7 14. a3 Re8
 [White "Szmetan,J"]
 [Black "Loiterstein,M"]
 [Result "1-0"]
-[ECO "A30"]
 [WhiteElo "2403"]
 [BlackElo "2280"]
+[ECO "A30"]
 
 1. Nf3 c5 2. c4 Nf6 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. Nc3 d6 7. e3 Be7 8. d4
 O-O 9. d5 e5 10. Nh4 g6 11. f4 Ne8 12. Nf3 exf4 13. gxf4 f5 14. e4 fxe4 15.
@@ -3518,9 +3497,9 @@ Re6 Nf6 28. Qd3 Rg8 29. f5 g5 30. Ne4 1-0
 [White "Cordero,A"]
 [Black "Soppe,G"]
 [Result "1/2-1/2"]
-[ECO "A12"]
 [WhiteElo "2280"]
 [BlackElo "2448"]
+[ECO "A12"]
 
 1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. b3 e6 5. Be2 Nbd7 6. O-O Bd6 7. Bb2 O-O 8.
 d3 e5 9. cxd5 cxd5 10. Ba3 Bxa3 11. Nxa3 Qe7 12. Nc2 b6 13. d4 e4 14. Nd2
@@ -3538,9 +3517,9 @@ Qe1 Rd8 46. Re2 Qg7 47. Rg1 Qh6 48. Rf1 Nh5 1/2-1/2
 [White "Mondaca,O"]
 [Black "Faig,C"]
 [Result "0-1"]
-[ECO "E81"]
 [WhiteElo "2180"]
 [BlackElo "2234"]
+[ECO "E81"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 a6 7. Qd2 c6 8. Bd3
 b5 9. cxb5 axb5 10. Nge2 Nbd7 11. O-O b4 12. Nd1 c5 13. Nf2 Qa5 14. Bh6
@@ -3555,8 +3534,8 @@ b3 27. e6 fxe6 28. fxg6 Rxf1+ 29. Rxf1 Qxg2+ 30. Qxg2 Rxg2 0-1
 [White "Bianchi,Al"]
 [Black "Jimenez,Jo"]
 [Result "0-1"]
-[ECO "C45"]
 [WhiteElo "2225"]
+[ECO "C45"]
 
 1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Nd5 7. a3 Qe7
 8. Qe2 g6 9. c4 Ba6 10. Qe4 Nf6 11. Qe2 Nd5 12. Nd2 Bg7 13. Nf3 Nb6 14. b3
@@ -3589,8 +3568,8 @@ Rh2 a5 40. a3 Rh8 41. Rbh1 1/2-1/2
 [White "Acosta,Mariano"]
 [Black "Hoffman,A"]
 [Result "0-1"]
-[ECO "B79"]
 [BlackElo "2547"]
+[ECO "B79"]
 
 1. e4 c5 2. Nf3 g6 3. Nc3 Bg7 4. d4 cxd4 5. Nxd4 Nc6 6. Be3 d6 7. Bc4 Nf6
 8. f3 O-O 9. Qd2 Bd7 10. O-O-O Qa5 11. Kb1 Rfc8 12. Bb3 Ne5 13. h4 Nc4 14.
@@ -3608,9 +3587,9 @@ d5 45. Rh2 Rg5 46. Rh7 Rf5 47. Rxf5+ Kxf5 48. Rh5+ Kg4 49. Rxd5 f2 0-1
 [White "Bademian,J"]
 [Black "Daneri,M"]
 [Result "0-1"]
-[ECO "C16"]
 [WhiteElo "2165"]
 [BlackElo "2154"]
+[ECO "C16"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Qd7 5. Qg4 f5 6. Qg3 b6 7. Nf3 Ba6 8.
 Bxa6 Nxa6 9. O-O Bxc3 10. bxc3 O-O-O 11. a4 Kb7 12. Bd2 g6 13. Rfb1 c6 14.
@@ -3637,9 +3616,9 @@ Kg2 Rf5 99. Ra8 Kc2 100. Rc8+ Kd3 101. Rd8+ Kc3 102. Rd7 Rf4 0-1
 [White "Braga,F"]
 [Black "Alonso,S"]
 [Result "1/2-1/2"]
-[ECO "B26"]
 [WhiteElo "2461"]
 [BlackElo "2339"]
+[ECO "B26"]
 
 1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e5 6. Be3 d6 7. Qd2 Be6 8.
 Nge2 Nd4 9. O-O Ne7 10. f4 O-O 11. Rf2 Rb8 12. Raf1 f5 13. Nd5 Nxd5 14.
@@ -3659,9 +3638,9 @@ Bf5 57. Rb4 fxg3+ 58. Kxg3 Ne3 59. Kf2 Nd5 60. Rc4 Nf6 61. Ra4 1/2-1/2
 [White "De las Heras,J"]
 [Black "Giardelli,S"]
 [Result "0-1"]
-[ECO "A45"]
 [WhiteElo "2312"]
 [BlackElo "2437"]
+[ECO "A45"]
 
 1. d4 c5 2. d5 Nf6 3. g3 b5 4. Bg2 d6 5. e4 Nbd7 6. f4 Nb6 7. Nd2 g6 8.
 Ngf3 Bg7 9. O-O O-O 10. Re1 a5 11. Nf1 b4 12. h3 Ne8 13. Ne3 Nc7 14. g4 Nb5
@@ -3676,9 +3655,9 @@ e6 f6 28. Nb4 Qg3 29. Rf1 Rd8 30. Bd2 Nxd5 0-1
 [White "Del Castillo,G"]
 [Black "Kanefsck,G"]
 [Result "1/2-1/2"]
-[ECO "A07"]
 [WhiteElo "2288"]
 [BlackElo "2391"]
+[ECO "A07"]
 
 1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. d3 Bf5 5. O-O e6 6. Nbd2 h6 7. b3 Be7 8.
 Bb2 O-O 9. Qe1 Bh7 10. e4 a5 11. a4 Na6 12. Qe2 Nb4 13. Ne1 Rc8 14. Kh1 Ne8
@@ -3694,9 +3673,9 @@ Qc7 34. Bg2 1/2-1/2
 [White "Dorin,M"]
 [Black "Ferrara,A"]
 [Result "1-0"]
-[ECO "C42"]
 [WhiteElo "2397"]
 [BlackElo "2185"]
+[ECO "C42"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Nxe5 O-O 5. Be2 Re8 6. Nf3 Nxe4 7. Nd5
 Ba5 8. O-O c6 9. b4 cxd5 10. bxa5 Qf6 11. Rb1 Nc6 12. Bb5 a6 13. Ba4 Nxa5
@@ -3712,9 +3691,9 @@ Rxc4 Bb7 27. Be4 Bxe4 28. Rcxe4 Qe7 29. g3 Red8 30. Qd6 Qxd6 31. exd6 f6
 [White "Faig,C"]
 [Black "Panno,O"]
 [Result "1/2-1/2"]
-[ECO "B31"]
 [WhiteElo "2234"]
 [BlackElo "2454"]
+[ECO "B31"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. Bxc6 dxc6 7. d3 Qe7
 8. a4 Nf6 9. a5 O-O 10. Nc3 Rd8 11. Qe2 Ne8 12. b3 Nc7 13. Qe3 f6 14. Ba3
@@ -3734,9 +3713,9 @@ Be2 57. Ne3 c3 58. h5 gxh5 59. gxh5 Bxh5 60. Nd5+ Kxa5 61. Nxc3 1/2-1/2
 [White "Fiorito,F"]
 [Black "Cordero,A"]
 [Result "1-0"]
-[ECO "B09"]
 [WhiteElo "2440"]
 [BlackElo "2280"]
+[ECO "B09"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. e5 dxe5 8.
 fxe5 Nd5 9. Nxd5 Qxd5 10. c3 Bg4 11. O-O Rad8 12. Qe1 Qd7 13. Bf4 Bxf3 14.
@@ -3750,9 +3729,9 @@ h5 21. g4 c5 22. gxh5 Nf5 23. Bxf5 exf5 24. h6 1-0
 [White "Giaccio,A"]
 [Black "Milos,G"]
 [Result "1/2-1/2"]
-[ECO "C88"]
 [WhiteElo "2505"]
 [BlackElo "2586"]
+[ECO "C88"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
 d3 Bb7 9. Nc3 d6 10. a3 Qd7 11. Bg5 h6 12. Bd2 Rfe8 13. Nd5 Nxd5 14. exd5
@@ -3769,9 +3748,9 @@ Kxg5 39. Bf7 1/2-1/2
 [White "Hernandez,Gi"]
 [Black "Felgaer,R"]
 [Result "1-0"]
-[ECO "B78"]
 [WhiteElo "2558"]
 [BlackElo "2364"]
+[ECO "B78"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
 Qd2 Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. Kb1 Nc4 13. Bxc4 Rxc4 14.
@@ -3786,8 +3765,8 @@ Nxe7+ Qxe7 21. Qxd7 Qxd7 22. Rxd7 Bd4 23. b4 Rxf3 24. bxc5 Bxc5 25. Re1 Rf6
 [White "Hobaica,Juan Pablo"]
 [Black "Rosito,J"]
 [Result "1-0"]
-[ECO "A45"]
 [BlackElo "2379"]
+[ECO "A45"]
 
 1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. Nc3 Bb4 6. Qd2 e5 7. a3 Bxc3
 8. bxc3 d6 9. Bd3 O-O 10. Ne2 Nc6 11. Qe3 Re8 12. f4 Bg4 13. O-O exd4 14.
@@ -3801,9 +3780,9 @@ Nxd4 Re7 15. f5 Nxd4 16. cxd4 Rae8 17. h3 Bxf5 18. g4 Rxe4 19. Bxe4 Rxe4
 [White "Needleman,A"]
 [Black "Szmetan,J"]
 [Result "1-0"]
-[ECO "A43"]
 [WhiteElo "2359"]
 [BlackElo "2403"]
+[ECO "A43"]
 
 1. d4 c5 2. c3 e6 3. Nf3 Nc6 4. e4 d5 5. exd5 Qxd5 6. Be3 Nf6 7. Bd3 cxd4
 8. cxd4 Nb4 9. Nc3 Nxd3+ 10. Qxd3 Qa5 11. O-O Be7 12. Ne5 O-O 13. Rfc1 Rd8
@@ -3824,9 +3803,9 @@ Kd8 63. Kf7 1-0
 [White "Peralta,F"]
 [Black "Cristobal,R"]
 [Result "1/2-1/2"]
-[ECO "A44"]
 [WhiteElo "2433"]
 [BlackElo "2260"]
+[ECO "A44"]
 
 1. d4 c5 2. d5 e5 3. e4 d6 4. Nc3 Be7 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 a6 8.
 Qg3 Bf6 9. a4 Ne7 10. h4 Nd7 11. Qf3 h5 12. g3 g6 13. Bh3 Bg7 14. O-O O-O
@@ -3842,9 +3821,9 @@ Qe2 Nf6 22. Nb6 Nxe4 23. Nxa8 Qxa8 24. Bg2 Nxd2 25. Qxd2 e4 26. Rad1 Qd8
 [White "Piscicelli,D"]
 [Black "Amura,C"]
 [Result "1-0"]
-[ECO "A32"]
 [WhiteElo "2350"]
 [BlackElo "2355"]
+[ECO "A32"]
 
 1. d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2
 O-O 8. Bg2 d5 9. cxd5 Nxd5 10. O-O Nd7 11. Rd1 N7b6 12. Nc3 Qe7 13. Rac1 a6
@@ -3864,9 +3843,9 @@ Kxh6 57. Kxf6 Bd5 58. Ne2 Bc4 59. Nd4 Kh5 60. Ke7 1-0
 [White "Slipak,S"]
 [Black "Rubinetti,J"]
 [Result "1-0"]
-[ECO "D56"]
 [WhiteElo "2521"]
 [BlackElo "2432"]
+[ECO "D56"]
 
 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 Ne4 8.
 Bxe7 Qxe7 9. Rc1 c6 10. Bd3 Nxc3 11. Rxc3 Nd7 12. cxd5 exd5 13. O-O Re8 14.
@@ -3887,9 +3866,9 @@ Kd5 63. Kxa4 Ke4 64. Kb4 Rg8 65. Nc4 Rb8+ 66. Kc3 Kf3 1-0
 [White "Soppe,G"]
 [Black "Sola,R"]
 [Result "1-0"]
-[ECO "E11"]
 [WhiteElo "2448"]
 [BlackElo "2265"]
+[ECO "E11"]
 
 1. Nf3 Nf6 2. d4 e6 3. c4 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Nc3 Bxc3 7. Bxc3 Ne4
 8. Rc1 O-O 9. Bg2 d6 10. O-O Nxc3 11. Rxc3 e5 12. d5 Nb8 13. b4 a5 14. Ra3
@@ -3906,8 +3885,8 @@ Bg4 15. Nd2 Na6 16. bxa5 f5 17. Nb3 f4 18. Qd2 Rf6 19. Nc1 Raf8 20. Nd3 Bc8
 [White "Rodriguez,Guillermo"]
 [Black "Bianchi,Al"]
 [Result "0-1"]
-[ECO "B90"]
 [BlackElo "2225"]
+[ECO "B90"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 b5 8.
 Bg5 Be7 9. Qd2 b4 10. Nd1 Nc6 11. Ne3 Nxe4 12. Qd5 Nxg5 13. Qxc6+ Bd7 14.
@@ -3922,10 +3901,10 @@ Nxe4+ 0-1
 [White "Leskovar,Mar"]
 [Black "Rodriguez,And URU"]
 [Result "1/2-1/2"]
-[ECO "C15"]
 [BlackElo "2500"]
+[ECO "C15"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Nge2 Nc6 5. a3 Ba5 6. Qd3 dxe4 7. Qxe4 Nf6
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Nc6 5. a3 Ba5 6. Qd3 dxe4 7. Qxe4 Nf6
 8. Qh4 Ne7 9. Bg5 Nf5 10. Bxf6 gxf6 11. Qf4 Bd7 12. O-O-O Qe7 13. Ne4 O-O-O
 14. N2g3 Nxg3 15. hxg3 f5 16. Qg5 Qf8 17. Nf6 h6 18. Qf4 c6 19. Be2 Bc7 20.
 Qe3 Kb8 21. Kb1 Bc8 22. Bf3 Bd6 23. Rd3 Qe7 24. Nh5 c5 25. c3 Qc7 26. Rhd1
@@ -3940,9 +3919,9 @@ Ne2 Bg5 40. Rdd1 e4 41. Bh5 1/2-1/2
 [White "Spangenberg,H"]
 [Black "Pierrot,F"]
 [Result "1-0"]
-[ECO "A37"]
 [WhiteElo "2531"]
 [BlackElo "2442"]
+[ECO "A37"]
 
 1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. Nf3 e5 6. O-O Nge7 7. a3 a5 8.
 d3 d6 9. Ne1 Be6 10. Nc2 O-O 11. Ne3 f5 12. Ned5 Kh8 13. Bg5 h6 14. Bxe7
@@ -3970,9 +3949,9 @@ Ke5 Re1 99. Kf5 Ke8 100. Bd5 Kd8 101. Be6 Re2 102. Kf6 Rf2+ 103. Bf5 Rh2
 [White "Vasta,E"]
 [Black "Palmisano,J"]
 [Result "1-0"]
-[ECO "C15"]
 [WhiteElo "2375"]
 [BlackElo "2139"]
+[ECO "C15"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qd3 Nf6 5. e5 Ne4 6. a3 Bxc3+ 7. bxc3 c5 8.
 Ne2 cxd4 9. cxd4 f6 10. f3 Ng5 11. exf6 Qxf6 12. Qe3 Nf7 13. a4 Nd6 14. Ng3
@@ -3991,8 +3970,8 @@ Rd8 52. Qb7 Qg6 53. Rc8 Rg8 54. Qg7+ 1-0
 [White "Van Riemsdijk,H"]
 [Black "Leskovar,Mat"]
 [Result "1-0"]
-[ECO "B10"]
 [WhiteElo "2418"]
+[ECO "B10"]
 
 1. e4 c6 2. c4 d5 3. exd5 cxd5 4. cxd5 Nf6 5. Nc3 a6 6. Qa4+ Nbd7 7. Be2 b6
 8. d4 Bb7 9. Qb3 b5 10. a4 Nb6 11. axb5 a5 12. Nf3 Nfxd5 13. O-O e6 14. Bd2
@@ -4012,8 +3991,8 @@ Rg3 Rb6+ 57. Kf7 Rb7+ 58. Kf6 a3 59. g7 a2 60. Rg2+ Ka3 61. Rxa2+ Kxa2 1-0
 [White "Alegria,Gregorio"]
 [Black "Moccero,E"]
 [Result "0-1"]
-[ECO "B19"]
 [BlackElo "2191"]
+[ECO "B19"]
 
 1. d4 d5 2. Nc3 c6 3. e4 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. h5 Bh7 8.
 Nf3 Nd7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 e6 12. O-O-O Ngf6 13. c4 O-O-O 14.
@@ -4043,8 +4022,8 @@ b3 Qc3 27. Rxa7 Qa1+ 0-1
 [White "Bianchi,Al"]
 [Black "Fiszman,Felix"]
 [Result "1-0"]
-[ECO "B20"]
 [WhiteElo "2225"]
+[ECO "B20"]
 
 1. e4 c5 2. b4 b6 3. b5 Bb7 4. Nc3 e6 5. Nf3 Nf6 6. Qe2 d5 7. exd5 Nxd5 8.
 Nxd5 Qxd5 9. Bb2 Qe4 10. d3 Qxe2+ 11. Bxe2 f6 12. O-O Bd6 13. a4 Kf7 14. a5
@@ -4059,9 +4038,9 @@ Ke7 27. b6 Rd8 28. bxa7 Nb6 29. Rb1 Na8 30. Rb8 1-0
 [White "Alonso,S"]
 [Black "Zuriel,M"]
 [Result "1-0"]
-[ECO "B82"]
 [WhiteElo "2339"]
 [BlackElo "2070"]
+[ECO "B82"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e6 7. Be3 b5 8.
 Bd3 Bb7 9. Qf3 Nbd7 10. a3 Rc8 11. Nde2 Nc5 12. Bd4 Be7 13. O-O O-O 14. g4
@@ -4079,9 +4058,9 @@ Kf7 45. Kg5 Bc4 46. Rc3 Kg7 47. a4 Kf7 48. axb5 axb5 49. Ra3 1-0
 [White "Benko,F"]
 [Black "Geloso,C"]
 [Result "1-0"]
-[ECO "A40"]
 [WhiteElo "2128"]
 [BlackElo "2275"]
+[ECO "A40"]
 
 1. Nf3 g6 2. d4 Bg7 3. Bf4 Nf6 4. Qc1 O-O 5. Bh6 d6 6. Bxg7 Kxg7 7. e3 Nc6
 8. Bb5 Bd7 9. Nc3 a6 10. Be2 e5 11. d5 Ne7 12. Qd2 b5 13. a3 Nfg8 14. O-O
@@ -4103,9 +4082,9 @@ Qh3 Qd7 71. Qf1 c6 72. Qd1 cxd5 73. exd5 Qa7 74. Qd3 Rg7 75. Rf1 Qe3+ 1-0
 [White "Cristobal,R"]
 [Black "Braga,F"]
 [Result "1-0"]
-[ECO "A05"]
 [WhiteElo "2260"]
 [BlackElo "2461"]
+[ECO "A05"]
 
 1. Nf3 Nf6 2. b3 c5 3. Bb2 e6 4. c4 Nc6 5. e3 Be7 6. Be2 O-O 7. O-O d5 8.
 d4 dxc4 9. Bxc4 a6 10. dxc5 Bxc5 11. Ne5 Nxe5 12. Bxe5 b5 13. Bd3 Bb7 14.
@@ -4121,9 +4100,9 @@ Qf7 Qe5 33. Nc3 1-0
 [White "Della Morte,P"]
 [Black "Dorin,M"]
 [Result "0-1"]
-[ECO "B35"]
 [WhiteElo "2220"]
 [BlackElo "2397"]
+[ECO "B35"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4 O-O
 8. Bb3 Qa5 9. O-O d6 10. h3 Bd7 11. Nf3 Qh5 12. Ne2 Qa5 13. Ng3 Qc7 14. Qe2
@@ -4143,9 +4122,9 @@ Nc1 Bd1+ 51. Ne2 Bf8 52. g4 hxg4+ 53. hxg4 Bb4 54. Ng2 Kd3 55. Nh4 Bxe2+
 [White "Faig,C"]
 [Black "Soppe,G"]
 [Result "0-1"]
-[ECO "B04"]
 [WhiteElo "2234"]
 [BlackElo "2448"]
+[ECO "B04"]
 
 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 c6 6. O-O Bg7 7. Bb3 Bg4 8.
 c4 Nc7 9. Bf4 Ne6 10. Bg3 Bxf3 11. gxf3 dxe5 12. dxe5 Qxd1 13. Bxd1 Nd7 14.
@@ -4161,9 +4140,9 @@ Rad1 Bh6 21. Rxd3 Rxd3 22. Re4 Bc1 23. Ne2 Bxb2 24. Nf4 Rd4 25. Rxd4 Bxd4
 [White "Felgaer,R"]
 [Black "Bibiloni,J"]
 [Result "1-0"]
-[ECO "C50"]
 [WhiteElo "2364"]
 [BlackElo "2218"]
+[ECO "C50"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 d6 5. dxe5 dxe5 6. Qxd8+ Bxd8 7. Nc3
 Nf6 8. Be3 h6 9. O-O-O O-O 10. Bb5 Nd7 11. Rd2 Nd4 12. Bxd7 Nxc2 13. Kxc2
@@ -4177,9 +4156,9 @@ Nd5+ Bxd5 20. Rxd5 1-0
 [White "Forestani,A"]
 [Black "Peralta,F"]
 [Result "1-0"]
-[ECO "A26"]
 [WhiteElo "2250"]
 [BlackElo "2433"]
+[ECO "A26"]
 
 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 O-O 5. Nc3 d6 6. O-O e5 7. d3 Nc6 8.
 Bg5 h6 9. Bxf6 Bxf6 10. Nd5 Bg7 11. Rb1 a5 12. a3 Ne7 13. Nd2 Nf5 14. e3
@@ -4191,7 +4170,7 @@ Rc2 Qc7 40. Qxc7 R4xc7 41. Re2 Rxc3 42. bxc3 Rxc3 43. Nc2 Rb3 44. Kg2 Kg7
 45. Kg3 Bd7 46. Rfe1 Kg8 47. Rf2 Kg7 48. Rh2 Be6 49. h5 gxh5 50. Rxh5 Rc3
 51. Rh2 Bg5 52. Rb1 Bxe3 53. Rxb7+ Kf6 54. Nxe3 Rxe3+ 55. Kg2 Rxa3 56. Rh6+
 Kf5 57. Rb6 Ra2+ 58. Kg1 Ra1+ 59. Kf2 Ra2+ 60. Ke1 Ra1+ 61. Kd2 g3 62.
-Rbxe6 g2 63. Rhg6 g1=Q 64. Ref6+ 1-0
+Rbxe6 g2 63. Rhg6 g1=Q 64. Ref6# 1-0
 
 [Event "XXX International Open"]
 [Site "Mar del Plata ARG"]
@@ -4200,9 +4179,9 @@ Rbxe6 g2 63. Rhg6 g1=Q 64. Ref6+ 1-0
 [White "Giaccio,A"]
 [Black "Hernandez,Gi"]
 [Result "0-1"]
-[ECO "B49"]
 [WhiteElo "2505"]
 [BlackElo "2558"]
+[ECO "B49"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Qc7 6. f4 a6 7. Be3 b5 8.
 Be2 Bb7 9. Bf3 Rc8 10. Nb3 d6 11. O-O Nf6 12. Qe1 Be7 13. Qf2 O-O 14. a3
@@ -4217,9 +4196,9 @@ Bxc5 0-1
 [White "Giardelli,S"]
 [Black "Vasta,E"]
 [Result "1/2-1/2"]
-[ECO "A20"]
 [WhiteElo "2437"]
 [BlackElo "2375"]
+[ECO "A20"]
 
 1. c4 e5 2. g3 Nc6 3. Bg2 f5 4. Nc3 g6 5. Rb1 a5 6. e3 Bg7 7. Nge2 Nf6 8.
 O-O O-O 9. d3 d6 10. b3 Be6 11. f4 Bf7 12. Bb2 d5 13. cxd5 Nxd5 14. Nxd5
@@ -4233,8 +4212,8 @@ axb3 Ra6 1/2-1/2
 [White "Hobaica,Juan Pablo"]
 [Black "Fiorito,F"]
 [Result "0-1"]
-[ECO "B65"]
 [BlackElo "2440"]
+[ECO "B65"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7
 8. O-O-O O-O 9. f4 Nxd4 10. Qxd4 Qa5 11. Bc4 Bd7 12. e5 dxe5 13. fxe5 Bc6
@@ -4252,9 +4231,9 @@ Nd5+ 44. Kxb5 Qd3+ 45. Ka4 Nxc3+ 46. Kb3 0-1
 [White "Hoffman,A"]
 [Black "Daneri,M"]
 [Result "1-0"]
-[ECO "E70"]
 [WhiteElo "2547"]
 [BlackElo "2154"]
+[ECO "E70"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 O-O 6. Ng3 c5 7. d5 e6 8.
 Be2 exd5 9. exd5 Na6 10. O-O Nc7 11. a4 Rb8 12. f4 h6 13. Bd2 a6 14. a5 Bd7
@@ -4275,9 +4254,9 @@ Rf1+ 64. Bxf1 Qxf1+ 65. Kd2 Qf2+ 66. Re2 Qd4+ 67. Kc1 Qxc4+ 68. Rac2 1-0
 [White "Kanefsck,G"]
 [Black "Loiterstein,M"]
 [Result "1-0"]
-[ECO "B29"]
 [WhiteElo "2391"]
 [BlackElo "2280"]
+[ECO "B29"]
 
 1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 Nxc3 5. dxc3 Nc6 6. Bc4 e6 7. O-O Qc7
 8. Qe2 h6 9. Re1 Be7 10. Bf4 b6 11. Nd2 Bb7 12. a4 O-O-O 13. Ba6 d5 14.
@@ -4294,9 +4273,9 @@ Qf8 d4 33. cxd4 Nxd4 34. Re7 Qc6 35. Rxd7+ Qxd7 36. Qc5+ Kb7 37. c3 Nf3+
 [White "Labollita,M"]
 [Black "Moreda,L"]
 [Result "0-1"]
-[ECO "D07"]
 [WhiteElo "2199"]
 [BlackElo "2325"]
+[ECO "D07"]
 
 1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. e3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. bxc3 Nf6
 8. f3 e4 9. Ne2 O-O 10. Ng3 Re8 11. Be2 Na5 12. Qc2 b5 13. a4 Qb3 14. Qxb3
@@ -4310,9 +4289,9 @@ Ke1 Nd5 21. fxe4 Nxc3 22. Ra3 Nxe2 0-1
 [White "Milos,G"]
 [Black "Needleman,A"]
 [Result "1-0"]
-[ECO "B47"]
 [WhiteElo "2586"]
 [BlackElo "2359"]
+[ECO "B47"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nxd4
 8. Qxd4 b5 9. Rd1 b4 10. Na4 Rb8 11. c4 bxc3 12. Nxc3 Nf6 13. Bg5 Bc5 14.
@@ -4329,9 +4308,9 @@ exd6 O-O 21. Be7 Bxd6 22. Bxf8 Bxf8 23. Bxd5 Be6 24. Bxe6 fxe6 25. g3 Re8
 [White "Panno,O"]
 [Black "Del Castillo,G"]
 [Result "1-0"]
-[ECO "A31"]
 [WhiteElo "2454"]
 [BlackElo "2288"]
+[ECO "A31"]
 
 1. d4 Nf6 2. c4 c5 3. Nf3 g6 4. Nc3 Bg7 5. e4 cxd4 6. Nxd4 d6 7. Be2 O-O 8.
 O-O a6 9. Be3 Re8 10. Rc1 e6 11. Qd2 b6 12. Rfd1 Bb7 13. f3 Nbd7 14. Nc2
@@ -4345,8 +4324,8 @@ Bf8 15. Bf1 Qb8 16. Qf2 Bc6 17. Nd4 Bb7 18. Rc2 Ne5 19. Qh4 Bg7 20. b3 Ned7
 [White "Pierrot,F"]
 [Black "Leskovar,Mar"]
 [Result "1/2-1/2"]
-[ECO "C41"]
 [WhiteElo "2442"]
+[ECO "C41"]
 
 1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nf6 5. e5 dxe5 6. Qxd8+ Kxd8 7. Nxe5
 Bb4+ 8. Bd2 Re8 9. Bxb4 Rxe5+ 10. Be2 Nd5 11. Bd2 Nc6 12. Nc3 Nd4 13. O-O-O
@@ -4370,9 +4349,9 @@ Be3 Kxh4 83. Kf2 Bd5 84. Bf4 1/2-1/2
 [White "Rodriguez,And URU"]
 [Black "Van Riemsdijk,H"]
 [Result "1/2-1/2"]
-[ECO "A01"]
 [WhiteElo "2500"]
 [BlackElo "2418"]
+[ECO "A01"]
 
 1. b3 e5 2. Bb2 Nc6 3. e3 d6 4. d4 exd4 5. exd4 d5 6. Nf3 Bg4 7. Be2 Qd7 8.
 Nbd2 f6 9. O-O Nge7 10. Re1 Be6 11. c4 g6 12. Bd3 Bg7 13. Qe2 Kf7 14. cxd5
@@ -4392,9 +4371,9 @@ Kb3 57. Nf4 1/2-1/2
 [White "Rubinetti,J"]
 [Black "Piscicelli,D"]
 [Result "0-1"]
-[ECO "D26"]
 [WhiteElo "2432"]
 [BlackElo "2350"]
+[ECO "D26"]
 
 1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 c5 6. Qe2 a6 7. dxc5 Bxc5
 8. O-O Qc7 9. e4 Ng4 10. Nc3 Nc6 11. g3 O-O 12. Bf4 Nge5 13. Nxe5 Nxe5 14.
@@ -4415,9 +4394,9 @@ Be3 Bxe3 21. Qxe3 Bh5 22. g4 Bf7 23. Rxd8+ Rxd8 24. Rd1 Rxd1 25. Nxd1 g5
 [White "Slipak,S"]
 [Black "Spangenberg,H"]
 [Result "1/2-1/2"]
-[ECO "A60"]
 [WhiteElo "2521"]
 [BlackElo "2531"]
+[ECO "A60"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. Nxd5 d6 6. Nf3 g6 7. Bg5 Bg7 8.
 e3 a6 9. a4 Bg4 10. Be2 Bxf3 11. Bxf3 Nbd7 12. O-O O-O 13. Be2 Re8 14. Qc2
@@ -4430,9 +4409,9 @@ Qa5 1/2-1/2
 [White "Szmetan,J"]
 [Black "Sevillano,D"]
 [Result "1-0"]
-[ECO "D78"]
 [WhiteElo "2403"]
 [BlackElo "2250"]
+[ECO "D78"]
 
 1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O c6 6. d4 d5 7. Qb3 Qb6 8.
 Nc3 dxc4 9. Qxc4 Na6 10. b3 Be6 11. Qd3 Rad8 12. Ba3 Rfe8 13. h3 Qa5 14.
@@ -4447,8 +4426,8 @@ Qxb6 axb6 21. Bxg7 Kxg7 22. Ra7 Bxb3 23. Rxb7 Rd6 24. Rc1 e5 25. Ne1 Nf6
 [White "Acosta,Mariano"]
 [Black "Rosito,J"]
 [Result "0-1"]
-[ECO "A25"]
 [BlackElo "2379"]
+[ECO "A25"]
 
 1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 d6 6. Nge2 h5 7. d4 h4 8. O-O
 h3 9. Bh1 f5 10. d5 Nce7 11. e4 Nf6 12. f4 c6 13. Be3 cxd5 14. cxd5 Ng4 15.
@@ -4463,13 +4442,13 @@ Bxf5 fxg3 22. Nxg3 Bxf5 23. Nxf5 Rxf5 24. a5 Bh6 25. Qd4 Bxc1 26. Qxg4 Rg5
 [White "Morel,O"]
 [Black "Bianchi,Al"]
 [Result "0-1"]
-[ECO "C01"]
 [WhiteElo "2070"]
 [BlackElo "2225"]
+[ECO "C01"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. Nge2 Nge7 7. O-O
-Bf5 8. Bf4 Qd7 9. a3 Ba5 10. b4 Bb6 11. Bb5 a6 12. Ba4 O-O 13. Qd2 Ng6 14.
-Bg3 Be6 15. Rae1 a5 16. Nf4 Nxf4 17. Qxf4 axb4 18. axb4 Ra7 19. Re3 Qc8 20.
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nc6 6. Ne2 Nge7 7. O-O Bf5
+8. Bf4 Qd7 9. a3 Ba5 10. b4 Bb6 11. Bb5 a6 12. Ba4 O-O 13. Qd2 Ng6 14. Bg3
+Be6 15. Rae1 a5 16. Nf4 Nxf4 17. Qxf4 axb4 18. axb4 Ra7 19. Re3 Qc8 20.
 Bxc6 bxc6 21. Bh4 Bf5 22. Rfe1 Bxc2 23. g4 Ra8 24. Be7 Re8 25. h4 Qd7 26.
 h5 f5 27. Re6 Be4 28. Nxe4 fxe4 29. Qf5 Rxe7 0-1
 
@@ -4495,8 +4474,8 @@ Rd1 g6 27. e5 Re8 28. Rd5 Qb7 29. Qf3 1/2-1/2
 [White "Albarran,G"]
 [Black "Hobaica,Juan Pablo"]
 [Result "1/2-1/2"]
-[ECO "D45"]
 [WhiteElo "2180"]
+[ECO "D45"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. b3 O-O 8.
 Bd3 Re8 9. O-O e5 10. cxd5 cxd5 11. e4 exd4 12. Nxd5 h6 13. Bb2 Nxd5 14.
@@ -4516,9 +4495,9 @@ Be8 45. Bd3 Bc6 46. Bg6 Bd7 47. Bf7 Bc6 48. Bg8 Be8 49. Bb3 Bc6 50. Bf7 Bd7
 [White "Alonso,S"]
 [Black "Giardelli,S"]
 [Result "1-0"]
-[ECO "B42"]
 [WhiteElo "2339"]
 [BlackElo "2437"]
+[ECO "B42"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. a4 Be7 8.
 Nc3 O-O 9. Be3 Nc6 10. f4 Qc7 11. Kh1 Nxd4 12. Bxd4 e5 13. Bg1 exf4 14.
@@ -4534,8 +4513,8 @@ Bd8 33. c4 Qb3 34. gxf6 Rgf7 35. Qh6 Re8 36. Bxh7 1-0
 [White "Braga,F"]
 [Black "Quercia,Abel"]
 [Result "1-0"]
-[ECO "C00"]
 [WhiteElo "2461"]
+[ECO "C00"]
 
 1. e4 e6 2. d3 d5 3. Nd2 b6 4. g3 Bb7 5. Bg2 Nf6 6. e5 Nfd7 7. Ngf3 c5 8.
 O-O Nc6 9. Re1 Qc7 10. Qe2 g6 11. Nf1 Bg7 12. Bf4 d4 13. N1d2 O-O 14. h4 h6
@@ -4551,9 +4530,9 @@ O-O Nc6 9. Re1 Qc7 10. Qe2 g6 11. Nf1 Bg7 12. Bf4 d4 13. N1d2 O-O 14. h4 h6
 [White "Daneri,M"]
 [Black "Amura,C"]
 [Result "1/2-1/2"]
-[ECO "B30"]
 [WhiteElo "2154"]
 [BlackElo "2355"]
+[ECO "B30"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. d3 Ne7 6. Bd2 Ng6 7. h4 h5 8.
 e5 c4 9. dxc4 c5 10. Bc3 Bb7 11. Nbd2 Be7 12. g3 f6 13. O-O Qc7 14. Qe2 Qc6
@@ -4570,9 +4549,9 @@ fxe5 dxe5 33. Rd7 f4 34. Rxa7+ Kb8 35. gxf4 Rg2+ 36. Kxg2 Qg4+ 37. Rg3 Qe2+
 [White "De las Heras,J"]
 [Black "Caceres,S"]
 [Result "1-0"]
-[ECO "B44"]
 [WhiteElo "2312"]
 [BlackElo "2060"]
+[ECO "B44"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. Bf4 e5 7. Be3 a6 8.
 N5c3 Nf6 9. Nd5 Nxd5 10. exd5 Ne7 11. f3 g6 12. c4 Bg7 13. Nc3 Nf5 14. Qd2
@@ -4590,9 +4569,9 @@ axb7 Ba7 46. b5 Kg7 47. b6 Bb8 48. Nf2 Kg6 49. Nxh3 Kh5 50. Nf2 1-0
 [White "Dorin,M"]
 [Black "Hoffman,A"]
 [Result "1/2-1/2"]
-[ECO "B38"]
 [WhiteElo "2397"]
 [BlackElo "2547"]
+[ECO "B38"]
 
 1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Bg7 5. c4 Nc6 6. Be3 Nf6 7. Nc3 d6 8.
 Be2 O-O 9. O-O Nxd4 10. Bxd4 Bd7 11. Kh1 Bc6 12. f3 a5 13. b3 Nd7 14. Rb1
@@ -4608,9 +4587,9 @@ exd6 33. Qd5+ Kh8 34. Rf1 Rf8 1/2-1/2
 [White "Forestani,A"]
 [Black "Szmetan,J"]
 [Result "1/2-1/2"]
-[ECO "A30"]
 [WhiteElo "2250"]
 [BlackElo "2403"]
+[ECO "A30"]
 
 1. Nf3 c5 2. b3 Nf6 3. c4 e6 4. Bb2 Be7 5. g3 b6 6. Bg2 Bb7 7. O-O a6 8. d3
 O-O 9. Nbd2 d6 10. Qc2 Qc7 11. a3 Nbd7 12. Rad1 Rfe8 13. Rfe1 Bf8 14. Ne4
@@ -4624,9 +4603,9 @@ bxc4 Rab8 21. Bc3 Qb7+ 22. f3 Qb3 23. Qd3 Qa4 24. Rb1 Qc6 25. e4 1/2-1/2
 [White "Hernandez,Gi"]
 [Black "Slipak,S"]
 [Result "1/2-1/2"]
-[ECO "C67"]
 [WhiteElo "2558"]
 [BlackElo "2521"]
+[ECO "C67"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
 Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 a5 11. Rd1 a4 12. g4 Ne7 13. Kg2 h5 14.
@@ -4639,8 +4618,8 @@ Kg3 hxg4 15. hxg4 Ng6 16. Bg5 Be6 1/2-1/2
 [White "Jimenez,Jo"]
 [Black "Kanefsck,G"]
 [Result "0-1"]
-[ECO "B53"]
 [BlackElo "2391"]
+[ECO "B53"]
 
 1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. dxc5 Qa5+ 5. c3 Qxc5 6. Bd3 g6 7. Be3 Qc7
 8. Na3 a6 9. Nc4 Nbd7 10. Qe2 Bg7 11. O-O O-O 12. a4 Nc5 13. Bxc5 Qxc5 14.
@@ -4658,9 +4637,9 @@ Kc7 0-1
 [White "Moreda,L"]
 [Black "Pierrot,F"]
 [Result "0-1"]
-[ECO "A04"]
 [WhiteElo "2325"]
 [BlackElo "2442"]
+[ECO "A04"]
 
 1. e4 c5 2. c3 Nf6 3. d3 Nc6 4. Nf3 g6 5. g3 d6 6. Bg2 Bg7 7. O-O O-O 8.
 Nh4 e5 9. Na3 d5 10. f4 exf4 11. gxf4 dxe4 12. dxe4 Qe7 13. e5 Nh5 14. Nf3
@@ -4679,15 +4658,15 @@ Nc7 0-1
 [White "Needleman,A"]
 [Black "Panno,O"]
 [Result "0-1"]
-[ECO "B82"]
 [WhiteElo "2359"]
 [BlackElo "2454"]
+[ECO "B82"]
 
 1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 d6 6. Be3 a6 7. Bd3 Nf6 8.
 f4 Qc7 9. Qf3 Be7 10. O-O O-O 11. Nb3 Re8 12. g4 Nd7 13. g5 b5 14. Rae1 Bf8
 15. Qh3 Nb4 16. Re2 g6 17. e5 Bb7 18. Be4 Nd5 19. Bxd5 exd5 20. Bd4 Nc5 21.
 Rf3 Bg7 22. Qh4 Ne6 23. Rh3 Nxd4 24. Nxd4 Qb6 25. Qxh7+ Kf8 26. Rd3 dxe5
-27. fxe5 Rxe5 28. Rxe5 Bxe5 29. Nce2 Re8 30. Kg2 Bg7 31. Qh3 Qd6 32. c3 Qe5
+27. fxe5 Rxe5 28. Rxe5 Bxe5 29. Ne2 Re8 30. Kg2 Bg7 31. Qh3 Qd6 32. c3 Qe5
 33. Qg3 Qe4+ 34. Rf3 Be5 35. Qf2 Re7 36. Ng3 Qh4 37. Kg1 Kg8 38. Qd2 b4 39.
 Kg2 bxc3 40. bxc3 Qg4 41. Rf6 Bc8 42. Nc6 Bxf6 43. gxf6 Rb7 44. Qh6 Qh3+
 45. Qxh3 Rb2+ 46. Kf3 Bxh3 47. a4 Bd7 48. Ne7+ Kf8 49. h4 Bxa4 50. Ke3 Bb3
@@ -4700,9 +4679,9 @@ Kg2 bxc3 40. bxc3 Qg4 41. Rf6 Bc8 42. Nc6 Bxf6 43. gxf6 Rb7 44. Qh6 Qh3+
 [White "Soppe,G"]
 [Black "Fiorito,F"]
 [Result "1/2-1/2"]
-[ECO "A42"]
 [WhiteElo "2448"]
 [BlackElo "2440"]
+[ECO "A42"]
 
 1. d4 g6 2. c4 Bg7 3. e4 d6 4. Nc3 e5 5. Nf3 exd4 6. Nxd4 Nc6 7. Nxc6 bxc6
 8. Bd2 Ne7 9. Be2 O-O 10. O-O c5 11. Bg5 f6 12. Bh4 g5 13. Bg3 f5 1/2-1/2
@@ -4714,9 +4693,9 @@ Kg2 bxc3 40. bxc3 Qg4 41. Rf6 Bc8 42. Nc6 Bxf6 43. gxf6 Rb7 44. Qh6 Qh3+
 [White "Spangenberg,H"]
 [Black "Milos,G"]
 [Result "1/2-1/2"]
-[ECO "C99"]
 [WhiteElo "2531"]
 [BlackElo "2586"]
+[ECO "C99"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
 c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 1/2-1/2
@@ -4728,9 +4707,9 @@ c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 1/2-1/2
 [White "Van Riemsdijk,H"]
 [Black "Felgaer,R"]
 [Result "0-1"]
-[ECO "B76"]
 [WhiteElo "2418"]
 [BlackElo "2364"]
+[ECO "B76"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
 Qd2 Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 e5 13. Bc5 Be6 14.
@@ -4747,9 +4726,9 @@ Ne6 33. Bb4 Qd4+ 34. Qxd4 Rxd4 35. Bd2 Rd7 36. b4 h4 37. Bf1 g5 38. c4 Nd4
 [White "Piscicelli,D"]
 [Black "Giaccio,A"]
 [Result "1/2-1/2"]
-[ECO "A40"]
 [WhiteElo "2350"]
 [BlackElo "2505"]
+[ECO "A40"]
 
 1. d4 e6 2. c4 Bb4+ 3. Bd2 a5 4. g3 Nf6 5. Bg2 O-O 6. Nf3 Nc6 7. O-O Re8 8.
 Nc3 d6 9. Rc1 e5 10. d5 Ne7 11. Bg5 Bxc3 12. Rxc3 Ne4 13. Rc1 Nxg5 14. Nxg5
@@ -4766,8 +4745,8 @@ fxe5 Rxe5 39. Rxe5 fxe5 40. Qd3 1/2-1/2
 [White "Leskovar,Mar"]
 [Black "Cristobal,R"]
 [Result "0-1"]
-[ECO "A01"]
 [BlackElo "2260"]
+[ECO "A01"]
 
 1. b3 d5 2. Bb2 c6 3. Nf3 Bf5 4. g3 Nd7 5. Bg2 Qc7 6. c4 e6 7. O-O Ngf6 8.
 d3 Be7 9. Nc3 O-O 10. cxd5 exd5 11. Rc1 h6 12. e4 dxe4 13. dxe4 Bxe4 14.
@@ -4783,9 +4762,9 @@ Nc6 Nb4 33. Nxb4 Rxb4 34. Rc7 0-1
 [White "Bademian,J"]
 [Black "Rubinetti,J"]
 [Result "0-1"]
-[ECO "B22"]
 [WhiteElo "2165"]
 [BlackElo "2432"]
+[ECO "B22"]
 
 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 6. cxd4 b6 7. Nc3 Nxc3 8.
 bxc3 Qc7 9. Bb2 Bb7 10. Bd3 d6 11. O-O Nd7 12. exd6 Bxd6 13. h3 O-O 14. Re1
@@ -4804,9 +4783,9 @@ Rxc5 bxc5 52. Ng1 Nf4 0-1
 [White "Wisniacki,F"]
 [Black "Sola,R"]
 [Result "1/2-1/2"]
-[ECO "E50"]
 [WhiteElo "2035"]
 [BlackElo "2265"]
+[ECO "E50"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 Nc6 7. O-O Bxc3 8.
 bxc3 d6 9. Nd2 e5 10. a4 cxd4 11. cxd4 exd4 12. e4 Nd7 13. Nb3 Nc5 14. Bb2
@@ -4825,9 +4804,9 @@ Nc5 51. Bd4 1/2-1/2
 [White "Bianchi,Al"]
 [Black "Peralta,F"]
 [Result "0-1"]
-[ECO "B42"]
 [WhiteElo "2225"]
 [BlackElo "2433"]
+[ECO "B42"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 7. c4 Nc6 8.
 Be3 Ne5 9. h3 d6 10. Nc3 Nxd3 11. Qxd3 Be7 12. f4 O-O 13. Rac1 b6 14. Nf3
@@ -4869,9 +4848,9 @@ f6 27. h6 Rd7 28. Rd2 Re8 29. hxg7+ Kxg7 30. Rd3 1-0
 [White "Slipak,S"]
 [Black "Soppe,G"]
 [Result "1/2-1/2"]
-[ECO "A06"]
 [WhiteElo "2521"]
 [BlackElo "2448"]
+[ECO "A06"]
 
 1. Nf3 Nf6 2. b3 d5 3. Bb2 c6 4. d3 Bg4 5. Nbd2 Nbd7 6. h3 Bxf3 7. Nxf3 g6
 8. g3 Bg7 9. Bg2 Qa5+ 10. Qd2 Qxd2+ 11. Nxd2 Nh5 12. Bxg7 Nxg7 13. O-O
@@ -4884,9 +4863,9 @@ f6 27. h6 Rd7 28. Rd2 Re8 29. hxg7+ Kxg7 30. Rd3 1-0
 [White "Pierrot,F"]
 [Black "Alonso,S"]
 [Result "1/2-1/2"]
-[ECO "B22"]
 [WhiteElo "2442"]
 [BlackElo "2339"]
+[ECO "B22"]
 
 1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 cxd4 5. cxd4 Nc6 6. Nf3 e5 7. Nc3 Bb4
 8. Bd2 Bxc3 1/2-1/2
@@ -4898,8 +4877,8 @@ f6 27. h6 Rd7 28. Rd2 Re8 29. hxg7+ Kxg7 30. Rd3 1-0
 [White "Hobaica,Juan Pablo"]
 [Black "Vasta,E"]
 [Result "1/2-1/2"]
-[ECO "A45"]
 [BlackElo "2375"]
+[ECO "A45"]
 
 1. d4 Nf6 2. Bg5 e6 3. e4 h6 4. Bxf6 Qxf6 5. Nc3 d6 6. Qd2 g6 7. f4 Bg7 8.
 Nf3 Nc6 9. e5 dxe5 10. dxe5 1/2-1/2
@@ -4911,9 +4890,9 @@ Nf3 Nc6 9. e5 dxe5 10. dxe5 1/2-1/2
 [White "Rosito,J"]
 [Black "Gamboa,J"]
 [Result "1/2-1/2"]
-[ECO "C01"]
 [WhiteElo "2379"]
 [BlackElo "2225"]
+[ECO "C01"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 a6 6. Qf3 Qf6 7. Be3 Qxf3
 8. Nxf3 Ne7 9. Kd2 Bf5 10. a3 Bd6 11. Be2 Ng8 12. Rae1 Nd7 13. h3 h5 14.
@@ -4926,9 +4905,9 @@ Bg5 Kf8 1/2-1/2
 [White "Milos,G"]
 [Black "Hernandez,Gi"]
 [Result "1/2-1/2"]
-[ECO "B32"]
 [WhiteElo "2586"]
 [BlackElo "2558"]
+[ECO "B32"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be7 7. Bd3 Be6 8.
 O-O Nf6 9. N1c3 a6 10. Na3 O-O 11. Nc2 Nd7 12. b3 Nc5 13. Be2 f5 14. exf5
@@ -4944,8 +4923,8 @@ Bxc4 33. Rxf6 gxf6 34. Bd1 Ne7 35. Kf2 1/2-1/2
 [White "Giacio,Alfredo"]
 [Black "Dorin,M"]
 [Result "1-0"]
-[ECO "C02"]
 [BlackElo "2397"]
+[ECO "C02"]
 
 1. e4 e6 2. d4 d5 3. e5 b6 4. c3 Qd7 5. Nh3 Ba6 6. Bxa6 Nxa6 7. O-O c5 8.
 Nf4 cxd4 9. cxd4 g6 10. Nd2 Ne7 11. Nf3 h5 12. Nd3 Bh6 13. Bxh6 Rxh6 14.
@@ -4960,9 +4939,9 @@ Re7 21. Nf4 Qd7 22. Nh4 Rh6 23. h3 Re8 24. Rc6 Qe7 25. Qg3 Kh7 26. Nf3 Kg7
 [White "Rodriguez,And URU"]
 [Black "Felgaer,R"]
 [Result "1-0"]
-[ECO "B54"]
 [WhiteElo "2500"]
 [BlackElo "2364"]
+[ECO "B54"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Nb3 Be7 7. c4 O-O 8.
 Be3 Be6 9. Be2 Nbd7 10. Nc3 Rc8 11. Nd5 Nb6 12. Nxb6 axb6 13. Nd2 b5 14.
@@ -4980,9 +4959,9 @@ Rd2 45. Rb8 Be2 46. Rb7 1-0
 [White "Giardelli,S"]
 [Black "Sevillano,D"]
 [Result "1-0"]
-[ECO "A16"]
 [WhiteElo "2437"]
 [BlackElo "2250"]
+[ECO "A16"]
 
 1. c4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d5 6. cxd5 Nxd5 7. O-O Nxc3
 8. bxc3 e5 9. Rb1 Nc6 10. Ne1 Re8 11. d3 Qd7 12. Nc2 Rb8 13. Nb4 Nxb4 14.
@@ -4997,9 +4976,9 @@ Rd8+ Kg7 27. Qh4 1-0
 [White "Amura,C"]
 [Black "Needleman,A"]
 [Result "1-0"]
-[ECO "A45"]
 [WhiteElo "2355"]
 [BlackElo "2359"]
+[ECO "A45"]
 
 1. d4 Nf6 2. Bg5 g6 3. Bxf6 exf6 4. e3 d5 5. c4 dxc4 6. Bxc4 Bd6 7. Nc3 O-O
 8. Qf3 c5 9. Nge2 cxd4 10. Nxd4 Nd7 11. Qe2 Ne5 12. Bb3 Qa5 13. h3 b6 14.
@@ -5015,9 +4994,9 @@ f4 1-0
 [White "Bibiloni,J"]
 [Black "Van Riemsdijk,H"]
 [Result "1/2-1/2"]
-[ECO "C26"]
 [WhiteElo "2218"]
 [BlackElo "2418"]
+[ECO "C26"]
 
 1. e4 e5 2. Bc4 Nf6 3. Nc3 Bb4 4. Nge2 Nxe4 5. Nxe4 d5 6. c3 Be7 7. Bd3
 dxe4 8. Bxe4 O-O 9. O-O Nd7 10. d4 Nf6 11. Bc2 exd4 12. Nxd4 c5 13. Nf5
@@ -5032,8 +5011,8 @@ c4 Kg7 26. Ke3 a5 27. a4 Kf6 28. h4 h6 29. f4 Ne8 1/2-1/2
 [White "Caceres,S"]
 [Black "Leskovar,Mar"]
 [Result "0-1"]
-[ECO "A40"]
 [WhiteElo "2060"]
+[ECO "A40"]
 
 1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 Bxc3+ 5. bxc3 f5 6. g3 Qa5 7. Qd3 d6 8.
 Nf3 Nf6 9. Bg2 Nbd7 10. O-O Qa4 11. h3 Nb6 12. Nd2 Bd7 13. e3 O-O-O 14. Bf3
@@ -5049,11 +5028,11 @@ R8h2+ 27. Bg2 Rxg2+ 28. Kxg2 Rxe1 29. Qf2 Rxe3 30. Bxe3 Ng4 31. Qe2 Nxc4
 [White "Moreda,L"]
 [Black "Albarran,G"]
 [Result "1-0"]
-[ECO "C15"]
 [WhiteElo "2325"]
 [BlackElo "2180"]
+[ECO "C15"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Nge2 Nc6 5. a3 Ba5 6. Qd3 dxe4 7. Qxe4 Nf6
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Nc6 5. a3 Ba5 6. Qd3 dxe4 7. Qxe4 Nf6
 8. Qh4 Ne7 9. Bg5 Nf5 10. Qf4 Nd5 11. Bxd8 Nxf4 12. Nxf4 Kxd8 13. O-O-O Ke7
 14. Ne4 Rd8 15. c3 c6 16. Be2 Bc7 17. Nd3 b6 18. g3 Bb7 19. Bf3 Nd6 20. Nd2
 Rac8 21. Rhe1 Kf8 22. Kc2 Bb8 23. Ne5 c5 24. dxc5 Bxf3 25. Ndxf3 Rxc5 26.
@@ -5071,9 +5050,9 @@ Nxb6 Nf3+ 51. Ke3 Nxh2 52. Nc4+ Kd5 53. Nxa5 Nf1+ 54. Kf4 Nxg3 55. Kxg3 Ke4
 [White "Fiorito,F"]
 [Black "Piscicelli,D"]
 [Result "1/2-1/2"]
-[ECO "B45"]
 [WhiteElo "2440"]
 [BlackElo "2350"]
+[ECO "B45"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Nxc6 bxc6 7. Bd3 e5
 8. O-O Be7 9. Kh1 d6 10. f4 Nd7 11. Ne2 O-O 12. Ng3 exf4 13. Bxf4 Ne5 14.
@@ -5093,9 +5072,9 @@ Qxc5 R8a5 52. Qd6 Rxh5+ 53. Kg1 Qd7 54. Qf4 Rg5 55. Qe3 Qa7 56. Bd4 c5
 [White "Panno,O"]
 [Black "Spangenberg,H"]
 [Result "1-0"]
-[ECO "A41"]
 [WhiteElo "2454"]
 [BlackElo "2531"]
+[ECO "A41"]
 
 1. Nf3 d6 2. d4 Bg4 3. e3 Nf6 4. c4 Nbd7 5. Nc3 e5 6. Be2 Be7 7. O-O O-O 8.
 e4 c6 9. Be3 a6 10. d5 Bxf3 11. Bxf3 c5 12. Be2 Ne8 13. Qd2 g6 14. a4 f5
@@ -5115,9 +5094,9 @@ Rxc4 57. Rxg6+ Ke5 58. Rg5+ Kf6 59. h4 Ra4 1-0
 [White "Kanefsck,G"]
 [Black "Cristobal,R"]
 [Result "1/2-1/2"]
-[ECO "B08"]
 [WhiteElo "2391"]
 [BlackElo "2260"]
+[ECO "B08"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 c6 6. a4 a5 7. Be3 Na6 8. Be2
 O-O 9. O-O Nb4 10. Qc1 Qc7 11. Nd2 Nd7 12. Na2 b6 13. c3 Nxa2 14. Rxa2 d5
@@ -5135,9 +5114,9 @@ Rxa1 Qxa1+ 40. Kh2 Qf6 41. dxe6+ fxe6 42. Rh5 Rc5 43. Qb8 Rc7 44. Qb5+ Ke7
 [White "Rubinetti,J"]
 [Black "Forestani,A"]
 [Result "1-0"]
-[ECO "E04"]
 [WhiteElo "2432"]
 [BlackElo "2250"]
+[ECO "E04"]
 
 1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 c5 5. O-O Nc6 6. d4 dxc4 7. Ne5 Nxe5 8.
 dxe5 Qxd1 9. Rxd1 Nd5 10. Na3 Bd7 11. Nxc4 Bc6 12. Na5 Be7 13. Nxc6 bxc6
@@ -5160,9 +5139,9 @@ Rf3+ 76. Ke2 Re3+ 77. Kd2 Rxb3 78. h8=Q Rb2+ 79. Kc1 1-0
 [White "Hoffman,A"]
 [Black "De las Heras,J"]
 [Result "1-0"]
-[ECO "D43"]
 [WhiteElo "2547"]
 [BlackElo "2312"]
+[ECO "D43"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
 a3 Bd6 9. Bd3 Qe7 10. O-O O-O 11. Qc2 Rd8 12. Rfe1 dxc4 13. Bxc4 b5 14. Bd3
@@ -5180,9 +5159,9 @@ Bb7 15. Ne4 Bb8 16. Nfd2 f5 17. Ng3 a6 18. Nb3 a5 19. Nf1 a4 20. Nc1 Ba7
 [White "Szmetan,J"]
 [Black "Ramirez,Em"]
 [Result "1-0"]
-[ECO "A30"]
 [WhiteElo "2403"]
 [BlackElo "2300"]
+[ECO "A30"]
 
 1. Nf3 Nf6 2. c4 c5 3. g3 b6 4. Bg2 Bb7 5. O-O g6 6. e3 Qc7 7. d4 d6 8. d5
 b5 9. Re1 bxc4 10. e4 Nbd7 11. Nc3 Bg7 12. Nd2 Ne5 13. Nxc4 Nxc4 14. Qa4+
@@ -5200,9 +5179,9 @@ gxf6 Rb3 46. Rg2 Rg3 47. f7 Ne4 48. Na4 Rxg2+ 49. Kxg2 Nf6 50. Nb6 1-0
 [White "Sola,R"]
 [Black "Braga,F"]
 [Result "0-1"]
-[ECO "A14"]
 [WhiteElo "2265"]
 [BlackElo "2461"]
+[ECO "A14"]
 
 1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 Be7 5. O-O O-O 6. b3 c5 7. Na3 Nc6 8.
 Nc2 e5 9. cxd5 Nxd5 10. Bb2 Bf6 11. d3 Qd7 12. Nd2 b6 13. Ne4 Be7 14. Qc1
@@ -5216,10 +5195,6 @@ Rh6 51. Rf1 h4 52. Nh3+ Ke6 53. Rh1 Kd6 54. Ng5 Kc6 55. Nf3 h3 56. Nxd4+
 Bxd4 57. Kxd4 Kd6 58. Rh2 Rh4+ 59. Ke3 Kd5 60. Ke2 Kd4 61. Kd2 Rh5 62. Kc2
 Ke3 63. Kc3 Kf3 64. Kd4 Kg3 65. Rh1 Kg2 0-1
 
-
-First Saturday GM April
------------------------
-
 [Event "FSGM April"]
 [Site "Budapest HUN"]
 [Date "1999.04.03"]
@@ -5227,9 +5202,9 @@ First Saturday GM April
 [White "Horvath,Cs"]
 [Black "Csom,I"]
 [Result "1/2-1/2"]
-[ECO "D36"]
 [WhiteElo "2524"]
 [BlackElo "2455"]
+[ECO "D36"]
 
 1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 Nbd7 5. cxd5 exd5 6. Bg5 c6 7. e3 Be7
 8. Bd3 O-O 9. O-O Re8 10. Qc2 Nf8 11. Rae1 Ne4 12. Bxe7 Qxe7 13. Bxe4 dxe4
@@ -5242,9 +5217,9 @@ First Saturday GM April
 [White "Bu Xiangzhi"]
 [Black "Seres,L"]
 [Result "1-0"]
-[ECO "A43"]
 [WhiteElo "2365"]
 [BlackElo "2428"]
+[ECO "A43"]
 
 1. d4 e6 2. Nf3 c5 3. c3 Nc6 4. Bf4 cxd4 5. cxd4 Qb6 6. Qd2 Nf6 7. Nc3 d5
 8. e3 Ne4 9. Qc2 Bd7 10. Be2 Rc8 11. O-O Bb4 12. Nxe4 Nxd4 13. Qxc8+ Bxc8
@@ -5259,9 +5234,9 @@ First Saturday GM April
 [White "Zontakh,A"]
 [Black "Schebler,G"]
 [Result "1-0"]
-[ECO "B15"]
 [WhiteElo "2530"]
 [BlackElo "2439"]
+[ECO "B15"]
 
 1. e4 c6 2. d4 d5 3. Nc3 g6 4. Nf3 Bg4 5. h3 Bxf3 6. Qxf3 dxe4 7. Nxe4 Qxd4
 8. Bd2 Nf6 9. Nxf6+ Qxf6 10. Qxf6 exf6 11. O-O-O Nd7 12. Bc4 Ne5 13. Bb3 g5
@@ -5275,9 +5250,9 @@ Rhe1 a6 21. Bg4 Ne5 22. Bc5 Bf8 23. Bd7+ 1-0
 [White "Roeder,M"]
 [Black "Hoang Thanh Trang"]
 [Result "1/2-1/2"]
-[ECO "A87"]
 [WhiteElo "2448"]
 [BlackElo "2450"]
+[ECO "A87"]
 
 1. d4 f5 2. g3 g6 3. Bg2 Bg7 4. c4 Nf6 5. Nc3 O-O 6. Nf3 d6 7. O-O Qe8 8.
 d5 a5 9. Nd4 Na6 10. e4 fxe4 11. Nxe4 Nxe4 12. Bxe4 Bh3 13. Re1 Qf7 14. Be3
@@ -5297,9 +5272,9 @@ Kc2 Kf2 51. Kd2 Kf1 52. Kd1 Kg2 53. Ke2 Kxh2 54. Kf2 Kh1 55. Kg3 h2 56. Kf2
 [White "Nguyen Anh Dung"]
 [Black "Hoffmann,M"]
 [Result "1/2-1/2"]
-[ECO "D93"]
 [WhiteElo "2485"]
 [BlackElo "2407"]
+[ECO "D93"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 dxc4 8.
 Bxc4 O-O 9. Nf3 Qxc5 10. Bb3 Qa5 11. O-O Nc6 12. h3 Bf5 13. Qe2 Ne4 14.
@@ -5314,9 +5289,9 @@ h4 h5 27. Ba4 Rd5 28. Bxc6 bxc6 29. b3 Bf6 1/2-1/2
 [White "Riazantsev,A"]
 [Black "Hausrath,D"]
 [Result "1/2-1/2"]
-[ECO "E81"]
 [WhiteElo "2387"]
 [BlackElo "2400"]
+[ECO "E81"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. Nge2 cxd4 8.
 Nxd4 Nc6 9. Be2 Bd7 10. Qd2 Nxd4 11. Bxd4 Bc6 12. O-O a5 13. Rfd1 a4 14.
@@ -5332,9 +5307,9 @@ Raxc5 33. fxe4 Be6 34. Be3 R5c6 35. Rbc1 1/2-1/2
 [White "Balinov,I"]
 [Black "Salmensuu,O"]
 [Result "1-0"]
-[ECO "B50"]
 [WhiteElo "2434"]
 [BlackElo "2449"]
+[ECO "B50"]
 
 1. e4 c5 2. Nf3 d6 3. Bc4 Nf6 4. d3 g6 5. O-O Bg7 6. c3 O-O 7. Re1 Nc6 8.
 Bb3 b6 9. d4 cxd4 10. cxd4 Bg4 11. Be3 Na5 12. Bc2 e5 13. Nbd2 Nh5 14. h3
@@ -5354,9 +5329,9 @@ Qb6 Kh5 33. Qd4 Qxd4 34. Nxd4 Be5 35. Nb3 Bxb2 36. Nc5 Bc3 37. Nxd3 exd3
 [White "Hausrath,D"]
 [Black "Bu Xiangzhi"]
 [Result "1-0"]
-[ECO "A11"]
 [WhiteElo "2400"]
 [BlackElo "2365"]
+[ECO "A11"]
 
 1. Nf3 Nf6 2. g3 d5 3. Bg2 Bf5 4. O-O e6 5. c4 c6 6. d3 h6 7. cxd5 exd5 8.
 Qb3 Qb6 9. Qc2 Nbd7 10. Nc3 Be7 11. e4 dxe4 12. dxe4 Bh7 13. Be3 Qc7 14.
@@ -5372,9 +5347,9 @@ Nd6 Bxd6 27. Rxd6 Nxe4 28. Nxe4 Bxe4 29. Bxe4 Rxe4 30. Rd7 Re6 31. Qd3 g6
 [White "Seres,L"]
 [Black "Nguyen Anh Dung"]
 [Result "0-1"]
-[ECO "E19"]
 [WhiteElo "2428"]
 [BlackElo "2485"]
+[ECO "E19"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8.
 Qc2 Nxc3 9. Qxc3 Be4 10. Ne1 Bxg2 11. Nxg2 c6 12. Bf4 d6 13. Rac1 Nd7 14.
@@ -5390,9 +5365,9 @@ Qxd4 34. Rxb3 Nxe5 35. Qf4 Rxb3 0-1
 [White "Hoang Thanh Trang"]
 [Black "Balinov,I"]
 [Result "1/2-1/2"]
-[ECO "D85"]
 [WhiteElo "2450"]
 [BlackElo "2434"]
+[ECO "D85"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bb5+ c6
 8. Ba4 O-O 9. Ne2 Nd7 10. O-O e5 11. Be3 Qe7 12. Qc2 Nb6 13. Bb3 Be6 14. f4
@@ -5408,9 +5383,9 @@ Nd5 21. Qg3 Rfe8 22. Kh1 Qc4 23. Nf3 Ne7 24. Qf2 c5 25. a4 Rd3 26. a5 Red8
 [White "Csom,I"]
 [Black "Riazantsev,A"]
 [Result "1-0"]
-[ECO "A42"]
 [WhiteElo "2455"]
 [BlackElo "2387"]
+[ECO "A42"]
 
 1. c4 g6 2. d4 Bg7 3. Nf3 d6 4. g3 Nd7 5. Bg2 e5 6. Nc3 Ne7 7. e4 O-O 8.
 O-O exd4 9. Nxd4 Nc6 10. Nde2 Nde5 11. b3 f5 12. f4 Ng4 13. exf5 Bxf5 14.
@@ -5427,9 +5402,9 @@ Rbd2 Ne7 33. R5d3 Rxd3 34. Rxd3 gxf5 35. Rd7 Ng6 36. Nxf5 h5 37. Rxb7 hxg4
 [White "Hoffmann,M"]
 [Black "Roeder,M"]
 [Result "1-0"]
-[ECO "B92"]
 [WhiteElo "2407"]
 [BlackElo "2448"]
+[ECO "B92"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
 O-O O-O 9. Kh1 b6 10. Be3 Bb7 11. f3 Qc7 12. a4 Nc6 13. Nd5 Nxd5 14. exd5
@@ -5448,9 +5423,9 @@ g3+ 45. Kg1 Nxf6 46. Qxf6 Rb1 47. Kg2 Rb3 48. Qg5+ Kf8 49. Qxa5 f5 50. Qc5+
 [White "Schebler,G"]
 [Black "Salmensuu,O"]
 [Result "0-1"]
-[ECO "A30"]
 [WhiteElo "2439"]
 [BlackElo "2449"]
+[ECO "A30"]
 
 1. Nf3 c5 2. c4 Nf6 3. g3 d5 4. Bg2 Nc6 5. cxd5 Nxd5 6. d4 cxd4 7. Nxd4
 Ndb4 8. Nxc6 Qxd1+ 9. Kxd1 Nxc6 10. Nc3 g6 11. Be3 Bg7 12. Rc1 O-O 13. Ke1
@@ -5469,9 +5444,9 @@ e3 51. Be7 Bd1 52. a5 e2 53. Bb4 c5 54. Be1 Ba4 55. Ke5 0-1
 [White "Zontakh,A"]
 [Black "Horvath,Cs"]
 [Result "1/2-1/2"]
-[ECO "B33"]
 [WhiteElo "2530"]
 [BlackElo "2524"]
+[ECO "B33"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5 d6 7. Bf4 e5
 8. Bg5 a6 9. Na3 b5 10. Bxf6 gxf6 11. Nd5 f5 12. c3 Bg7 13. exf5 Bxf5 14.
@@ -5486,10 +5461,6 @@ Re1 51. Rb6+ Ke7 52. Bf5 Rh1 53. Kf3 h5 54. Rh6 h4 55. Kg4 Ra1 56. Re6+ Kf7
 63. Rc2 Bb4 64. Kg4 Be1 65. Rg2 Rd3 66. Bc6 Rc3 67. Bf3 Rc7 68. Bd1 Rc3 69.
 Kh3 Rd3 70. Be2 Re3 1/2-1/2
 
-
-First Saturday IMA
--------------------
-
 [Event "FSIMA April"]
 [Site "Budapest HUN"]
 [Date "1999.04.03"]
@@ -5497,9 +5468,9 @@ First Saturday IMA
 [White "Neumeier,K"]
 [Black "Ganaus,H"]
 [Result "1/2-1/2"]
-[ECO "B33"]
 [WhiteElo "2248"]
 [BlackElo "2279"]
+[ECO "B33"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
 8. Na3 b5 9. Nd5 Qa5+ 10. Bd2 Qd8 11. Bg5 Qa5+ 1/2-1/2
@@ -5511,9 +5482,9 @@ First Saturday IMA
 [White "Wallner,J"]
 [Black "Wagener,C"]
 [Result "0-1"]
-[ECO "C00"]
 [WhiteElo "2290"]
 [BlackElo "2216"]
+[ECO "C00"]
 
 1. e4 e6 2. Nf3 d5 3. Nc3 Nf6 4. exd5 exd5 5. d4 Bd6 6. Bd3 O-O 7. O-O Bg4
 8. Bg5 c6 9. h3 Bh5 10. Bf5 Nbd7 11. Qd3 Qb6 12. a4 Rfe8 13. Nd2 Bg6 14.
@@ -5529,9 +5500,9 @@ Nb3 Qc7 15. Rfe1 Nh5 16. Qf3 Nf8 17. Bxg6 hxg6 18. Nc5 Bxc5 19. dxc5 Ne6
 [White "Klicnar,M"]
 [Black "Lengyel,B"]
 [Result "1-0"]
-[ECO "C98"]
 [WhiteElo "2250"]
 [BlackElo "2350"]
+[ECO "C98"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
 c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 Nc6 13. d5 Na5 14. Nf1 Nc4
@@ -5550,9 +5521,9 @@ d8=Q fxg2 46. Qe7+ Nf7 47. Kxg2 Qf4 48. Rf1 Qd2+ 49. Kg1 Qd5 50. Qf6+ Kg8
 [White "Mossong,H"]
 [Black "Bawart,M"]
 [Result "0-1"]
-[ECO "B26"]
 [WhiteElo "2270"]
 [BlackElo "2333"]
+[ECO "B26"]
 
 1. e4 c5 2. Nf3 Nc6 3. d3 g6 4. g3 Bg7 5. Bg2 e5 6. Be3 Nge7 7. O-O d6 8.
 Qd2 O-O 9. Nc3 Rb8 10. Bh6 f6 11. Bxg7 Kxg7 12. Nh4 g5 13. Nf3 Ng6 14. Nd5
@@ -5572,9 +5543,9 @@ c4+ 57. bxc4+ Kc5 0-1
 [White "Zimmerman,Y"]
 [Black "Farago,S"]
 [Result "0-1"]
-[ECO "E76"]
 [WhiteElo "2374"]
 [BlackElo "2314"]
+[ECO "E76"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. dxc5 Qa5 8.
 Bd3 Qxc5 9. Qe2 Nc6 10. Be3 Qa5 11. O-O Ng4 12. Bd2 Nd4 13. Nxd4 Bxd4+ 14.
@@ -5594,9 +5565,9 @@ Kxg5 57. Bf3 Rb2 58. Be2 Rxb5 59. Kf2 Kf4 60. Bxc4 Rc5 0-1
 [White "Ganaus,H"]
 [Black "Wallner,J"]
 [Result "1-0"]
-[ECO "D61"]
 [WhiteElo "2279"]
 [BlackElo "2290"]
+[ECO "D61"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 e6 5. Bg5 Nbd7 6. e3 Be7 7. Nc3 O-O 8.
 a3 a5 9. cxd5 exd5 10. Bd3 Re8 11. O-O Nf8 12. h3 Ng6 13. Ne5 Nxe5 14. dxe5
@@ -5610,9 +5581,9 @@ Qxg6+ Kf8 21. exf6 1-0
 [White "Farago,S"]
 [Black "Mossong,H"]
 [Result "1-0"]
-[ECO "B32"]
 [WhiteElo "2314"]
 [BlackElo "2270"]
+[ECO "B32"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. a4 Be6 7. N1c3 a6 8.
 Na3 Rc8 9. Nc4 Be7 10. Nd5 Bxd5 11. exd5 Nb8 12. Be3 f5 13. g4 f4 14. Bb6
@@ -5627,9 +5598,9 @@ Rxe5 Nd7 27. Qxd6 Nxe5 28. Qxe5 Kf7 29. Qe6+ 1-0
 [White "Klicnar,M"]
 [Black "Neumeier,K"]
 [Result "0-1"]
-[ECO "B70"]
 [WhiteElo "2250"]
 [BlackElo "2248"]
+[ECO "B70"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O
 8. Bg5 Nc6 9. Nb3 Be6 10. f4 b5 11. Bf3 Bc4 12. Re1 e5 13. f5 b4 14. Nd5
@@ -5647,9 +5618,9 @@ e4 27. Be2 Be5 28. b4 Nc8 29. Ra3 Qxb4 30. Rb3 Qa5 31. Rb7 Rf7 32. Bd2 Qxd2
 [White "Lengyel,B"]
 [Black "Bawart,M"]
 [Result "0-1"]
-[ECO "B32"]
 [WhiteElo "2350"]
 [BlackElo "2333"]
+[ECO "B32"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. a4 Be7 7. N1c3 Be6
 8. Nd5 Rc8 9. Nxe7 Kxe7 10. Bg5+ Nf6 11. c3 a6 12. Na3 Qb6 13. Nc4 Bxc4 14.
@@ -5669,9 +5640,9 @@ Ra8+ Kb5 50. Qxb7+ Kc4 51. Qa6+ Kd4 52. Qa7+ Nc5 53. Rg8 Qg1+ 54. Kg3 Qe4
 [White "Wagener,C"]
 [Black "Zimmerman,Y"]
 [Result "0-1"]
-[ECO "B07"]
 [WhiteElo "2216"]
 [BlackElo "2374"]
+[ECO "B07"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. h3 Bg7 6. f4 e5 7. Qf3 exf4 8.
 Bxf4 d5 9. e5 Nh5 10. Be3 Qh4+ 11. Bf2 Qf4 12. Nce2 Qxf3 13. Nxf3 f5 14. g3
@@ -5687,10 +5658,6 @@ Rxg6 Nxc5 58. dxc5 Rxc5 59. R1g2 Rxg2 60. Rxg2 Kb6 61. Kb2 b4 62. Rg6+ Rc6
 Kb1 Re3 70. Kc2 Re1 71. Kd3 Rb1 72. Rc2+ Kd6 73. Re2 Rb2 74. Rc2 Ke5 75.
 Rxb2 axb2 76. Kc2 d4 0-1
 
-
-First Saturday IMB
-------------------
-
 [Event "FSIMB April"]
 [Site "Budapest HUN"]
 [Date "1999.04.03"]
@@ -5698,9 +5665,9 @@ First Saturday IMB
 [White "Eperjesi,L"]
 [Black "Kahn,E"]
 [Result "1/2-1/2"]
-[ECO "A07"]
 [WhiteElo "2329"]
 [BlackElo "2296"]
+[ECO "A07"]
 
 1. Nf3 d5 2. g3 c6 3. Bg2 Nf6 4. b3 Bg4 5. Bb2 e6 6. O-O Be7 7. d3 Nbd7 8.
 Nbd2 O-O 9. h3 Bh5 10. Qe1 a5 11. a3 Re8 12. e4 dxe4 1/2-1/2
@@ -5712,9 +5679,9 @@ Nbd2 O-O 9. h3 Bh5 10. Qe1 a5 11. a3 Re8 12. e4 dxe4 1/2-1/2
 [White "Schneider,At"]
 [Black "Serrer,C"]
 [Result "1-0"]
-[ECO "D11"]
 [WhiteElo "2374"]
 [BlackElo "2285"]
+[ECO "D11"]
 
 1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Qc2 g6 5. Bf4 Na6 6. e3 Bf5 7. Qb3 Nb4 8.
 Na3 Qa5 9. Nd2 Ne4 10. Rd1 g5 11. Bg3 Nxg3 12. hxg3 e6 13. Be2 Bd6 14. Kf1
@@ -5728,9 +5695,9 @@ Nxc6 exd4 21. Ne7+ Kb7 22. Nxf5 dxe3 23. Qe4+ 1-0
 [White "Cooke,E"]
 [Black "Jamrich,G"]
 [Result "1-0"]
-[ECO "D07"]
 [WhiteElo "2169"]
 [BlackElo "2273"]
+[ECO "D07"]
 
 1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. e3 e5 5. Nc3 Bb4 6. a3 Bxc3+ 7. bxc3 Qd6
 8. Nf3 Bg4 9. Be2 Rd8 10. O-O Nge7 11. a4 O-O 12. Ba3 Qf6 13. Rc1 Rfe8 14.
@@ -5747,9 +5714,9 @@ Bd4 Bd7 40. Rc1 Bxa4 41. Kg3 b6 42. Be5 Nxe3 43. Nxe4 Bd7 44. Ng5+ 1-0
 [White "Khechumyan,G"]
 [Black "Dolgener,T"]
 [Result "1/2-1/2"]
-[ECO "D85"]
 [WhiteElo "2372"]
 [BlackElo "2275"]
+[ECO "D85"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Na4 e5 6. dxe5 Bb4+ 7. Bd2 Ne3
 8. fxe3 Bxd2+ 9. Qxd2 Qh4+ 10. g3 Qxa4 11. Bg2 O-O 12. Nf3 Nc6 13. O-O Bg4
@@ -5767,9 +5734,9 @@ Rd7+ Re7 45. Rd8 1/2-1/2
 [White "Leskiewicz,M"]
 [Black "Pham Minh Hoang"]
 [Result "1/2-1/2"]
-[ECO "A65"]
 [WhiteElo "2223"]
 [BlackElo "2357"]
+[ECO "A65"]
 
 1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f3 Bg7 8.
 Bg5 h6 9. Bf4 Nh5 10. Be3 f5 11. Qd2 fxe4 12. Nxe4 O-O 13. Bd3 Kh7 14. Ne2
@@ -5787,9 +5754,9 @@ Rd5 45. h4 b5 46. g4+ Ke5 47. Rc6 Rd6 48. Rc5+ Rd5 49. Rc6 Rd6 1/2-1/2
 [White "Dolgener,T"]
 [Black "Schneider,At"]
 [Result "0-1"]
-[ECO "B50"]
 [WhiteElo "2275"]
 [BlackElo "2374"]
+[ECO "B50"]
 
 1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 Nc6 5. d4 cxd4 6. cxd4 Qa5+ 7. Nc3 d5
 8. e5 Ne4 9. O-O Nxc3 10. bxc3 e6 11. Bd2 Qc7 12. c4 dxc4 13. Bxc4 Nxd4 14.
@@ -5807,9 +5774,9 @@ Bc5 39. Ke3 e5 40. Kd3 Bxd4 41. a4 Kg5 42. Re1 Kf4 43. Rf1+ Bf3 44. a5 Be3
 [White "Pham Minh Hoang"]
 [Black "Cooke,E"]
 [Result "0-1"]
-[ECO "E66"]
 [WhiteElo "2357"]
 [BlackElo "2169"]
+[ECO "E66"]
 
 1. c4 Nf6 2. Nc3 c5 3. Nf3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. d4 d6 8.
 d5 Na5 9. Qd3 a6 10. Nd2 Ng4 11. e4 Ne5 12. Qe2 b5 13. cxb5 axb5 14. Nxb5
@@ -5824,9 +5791,9 @@ Rxb8+ Rxb8 27. Nxc4 Nxc4 28. Rc2 Qa5 29. Qg1 Nb2 0-1
 [White "Kahn,E"]
 [Black "Khechumyan,G"]
 [Result "1-0"]
-[ECO "D80"]
 [WhiteElo "2296"]
 [BlackElo "2372"]
+[ECO "D80"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 c6 6. e3 Bg7 7. cxd5 Nxc3 8.
 bxc3 cxd5 9. Qa4+ Nc6 10. Bb5 Bd7 11. Qa3 a6 12. Bd3 Na5 13. Bxe7 Qxe7 14.
@@ -5844,9 +5811,9 @@ Qd6+ Kg7 38. Qe5+ Kg6 39. Qe4+ Kh6 40. Bxh5 f5 41. Qf3 g4+ 42. Bxg4 fxg4+
 [White "Bodrogi,M"]
 [Black "Leskiewicz,M"]
 [Result "0-1"]
-[ECO "B24"]
 [WhiteElo "2177"]
 [BlackElo "2223"]
+[ECO "B24"]
 
 1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. d3 Bg7 5. Be3 d6 6. Qd2 e6 7. Nf3 Nd4 8.
 Bg2 Ne7 9. O-O Nxf3+ 10. Bxf3 Nc6 11. Bg2 O-O 12. f4 Qa5 13. Nd1 Qxd2 14.
@@ -5863,9 +5830,9 @@ Kd2 a4 39. h4 Bd8 40. Bh3 g5 41. hxg5 Bxg5+ 42. Ne3 Bd8 43. Be6 0-1
 [White "Jamrich,G"]
 [Black "Eperjesi,L"]
 [Result "1/2-1/2"]
-[ECO "B12"]
 [WhiteElo "2273"]
 [BlackElo "2329"]
+[ECO "B12"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Be7 6. O-O h5 7. b3 Nh6 8. c4
 Bg4 9. Bxh6 Rxh6 10. Nbd2 Nd7 11. h3 Bf5 12. Nh2 Ba3 13. Bxh5 Bb2 14. Bg4
@@ -5878,10 +5845,6 @@ a6 21. Nb3 Kg8 22. Na5 Rb8 23. Qe2 Qg5 24. Rc3 Qf4 25. Qd1 Rh7 26. a4 Qg5
 51. Kg4 Rg8 52. Rd7 Kf8+ 53. Kh3 Rg6 54. Ng4 Rf5 55. Ra7 Kg7 56. Ra3 Re6
 57. Kg2 1/2-1/2
 
-
-Korchnoi-Spassky, Active Chess
-------------------------------
-
 [Event "Active Chess Match"]
 [Site "St Petersburg RUS"]
 [Date "1999.03.27"]
@@ -5889,9 +5852,9 @@ Korchnoi-Spassky, Active Chess
 [White "Spassky,B"]
 [Black "Korchnoi,V"]
 [Result "1-0"]
-[ECO "C02"]
 [WhiteElo "2549"]
 [BlackElo "2673"]
+[ECO "C02"]
 
 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 a5 7. Bd3 Bd7 8. Bc2
 h5 9. O-O Nh6 10. b3 Be7 11. Ra2 cxd4 12. cxd4 Rc8 13. Bxh6 Rxh6 14. Qd2
@@ -5908,9 +5871,9 @@ Rh8 15. h4 Kf8 16. Qf4 Kg8 17. Nbd2 g6 18. Rd1 Kg7 19. Nf1 Na7 20. Ng5 Be8
 [White "Korchnoi,V"]
 [Black "Spassky,B"]
 [Result "1-0"]
-[ECO "D85"]
 [WhiteElo "2673"]
 [BlackElo "2549"]
+[ECO "D85"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nb6 7. Be3 O-O
 8. Be2 f5 9. exf5 Bxf5 10. Qb3+ Kh8 11. Nf3 Nc6 12. d5 Ne5 13. Rd1 Qc8 14.
@@ -5927,9 +5890,9 @@ Kh7 1-0
 [White "Spassky,B"]
 [Black "Korchnoi,V"]
 [Result "0-1"]
-[ECO "C02"]
 [WhiteElo "2549"]
 [BlackElo "2673"]
+[ECO "C02"]
 
 1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 a5 7. Bd3 Bd7 8. Bc2
 h5 9. O-O Nh6 10. Ra2 Be7 11. Be3 Nf5 12. Bxf5 exf5 13. dxc5 Bxc5 14. Bxc5
@@ -5937,7 +5900,7 @@ Qxc5 15. a4 Be6 16. Nd4 Nxe5 17. Nd2 Ng4 18. Re1 Qd6 19. N2f3 O-O 20. h3
 Nf6 21. Nxe6 fxe6 22. Qd4 Rac8 23. Ne5 Nd7 24. Nxd7 Qxd7 25. b3 Qc6 26. Rc2
 Rf6 27. Re5 Qc5 28. Qd3 Qb6 29. c4 Qa6 30. Qd2 Qd6 31. f4 Qb6+ 32. Re3 dxc4
 33. bxc4 Rd8 34. Qf2 Rd1+ 35. Kh2 Qb1 36. Rb2 Rh1+ 37. Kg3 Rg6+ 38. Kh4 Qd1
-39. Qe2 Qd8+ 40. Kxh5 Rh6+ 0-1
+39. Qe2 Qd8+ 40. Kxh5 Rh6# 0-1
 
 [Event "Active Chess Match"]
 [Site "St Petersburg RUS"]
@@ -5946,9 +5909,9 @@ Rf6 27. Re5 Qc5 28. Qd3 Qb6 29. c4 Qa6 30. Qd2 Qd6 31. f4 Qb6+ 32. Re3 dxc4
 [White "Korchnoi,V"]
 [Black "Spassky,B"]
 [Result "0-1"]
-[ECO "D85"]
 [WhiteElo "2673"]
 [BlackElo "2549"]
+[ECO "D85"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Nb6 6. Bf4 Bg7 7. e3 O-O
 8. Nf3 c5 9. dxc5 N6d7 10. Rc1 Nc6 11. Bb5 Nxc5 12. O-O Bf5 13. Qe2 Bd3 14.
@@ -5966,9 +5929,9 @@ Rbb1 Rxd4 33. Rxd4 Rxd4 34. bxa6 bxa6 35. Rb6 Nc4 36. Rxa6 Rd2+ 37. Kf1 Ra2
 [White "Spassky,B"]
 [Black "Korchnoi,V"]
 [Result "1/2-1/2"]
-[ECO "C66"]
 [WhiteElo "2549"]
 [BlackElo "2673"]
+[ECO "C66"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Bd7 6. c3 g6 7. Re1 Bg7 8.
 d4 O-O 9. Bg5 Qe8 10. Bxf6 Bxf6 11. d5 Nb8 12. Bxd7 Nxd7 13. c4 a5 14. Nc3
@@ -5985,9 +5948,9 @@ Qxg2+ 33. Kxg2 Bd4 34. Nfd2 Ne3+ 35. Kf3 h6 36. b5 g5 37. g4 Kf7 38. h3 Nc2
 [White "Korchnoi,V"]
 [Black "Spassky,B"]
 [Result "1-0"]
-[ECO "D70"]
 [WhiteElo "2673"]
 [BlackElo "2549"]
+[ECO "D70"]
 
 1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8.
 f4 c6 9. Nf3 Be6 10. Qc2 N8d7 11. Be2 Bc4 12. g4 e6 13. h4 Qe7 14. h5 c5
@@ -6002,9 +5965,9 @@ gxf5 27. Qxf5 Rxd4 28. Rdg1 1-0
 [White "Spassky,B"]
 [Black "Korchnoi,V"]
 [Result "1/2-1/2"]
-[ECO "C33"]
 [WhiteElo "2549"]
 [BlackElo "2673"]
+[ECO "C33"]
 
 1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 Nc6 5. Nf3 Bb4 6. O-O O-O 7. e5 d5 8.
 Bb3 Ng4 9. d4 Bxc3 10. bxc3 Ne3 11. Bxe3 fxe3 12. Qd3 Na5 13. Rae1 c6 14.
@@ -6020,9 +5983,9 @@ Kh8 27. h4 Re6 28. h5 Qe8 29. Qf4 Rf7 30. Qg4 Rf8 31. Qf3 Qe7 32. Qf4 a6
 [White "Korchnoi,V"]
 [Black "Spassky,B"]
 [Result "1-0"]
-[ECO "A59"]
 [WhiteElo "2673"]
 [BlackElo "2549"]
+[ECO "A59"]
 
 1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
 Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. h3 Ra6 13. Re1 Qa8 14. Bg5
@@ -6039,9 +6002,9 @@ Kh3 Nd6 39. Qe6+ Kh7 40. Nd7 Be7 41. Nxc5 1-0
 [White "Spassky,B"]
 [Black "Korchnoi,V"]
 [Result "1/2-1/2"]
-[ECO "C48"]
 [WhiteElo "2549"]
 [BlackElo "2673"]
+[ECO "C48"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Nd4 5. Ba4 c6 6. O-O Qa5 7. Bb3 Nxb3
 8. cxb3 d6 9. h3 Be7 10. d4 O-O 11. a3 exd4 12. Nxd4 Qh5 13. Qxh5 Nxh5 14.
@@ -6058,17 +6021,14 @@ Ke8 39. Bf2 Kf7 40. Kd4 Ke7 41. Bh4+ Ke8 42. Bg5 Kf8 1/2-1/2
 [White "Korchnoi,V"]
 [Black "Spassky,B"]
 [Result "1/2-1/2"]
-[ECO "A87"]
 [WhiteElo "2673"]
 [BlackElo "2549"]
+[ECO "A87"]
 
 1. d4 f5 2. c4 Nf6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O d6 7. b4 e5 8.
 dxe5 dxe5 9. Qb3 e4 10. Ng5 h6 11. Rd1 Qe8 12. Nh3 g5 13. f4 g4 14. Nf2 Be6
 15. Na3 a5 16. b5 Nbd7 17. Bb2 Nc5 18. Qc2 Qe7 19. e3 c6 20. Bf1 Rac8 21.
 Rac1 Rfd8 22. Rxd8+ Rxd8 23. bxc6 bxc6 24. Nb1 Nfd7 1/2-1/2
-
-Indian National Championships
------------------------------
 
 [Event "ch-IND"]
 [Site "Nagpur IND"]
@@ -6077,9 +6037,9 @@ Indian National Championships
 [White "Sashikiran,K"]
 [Black "Suvrajit,S"]
 [Result "1-0"]
-[ECO "E81"]
 [WhiteElo "2525"]
 [BlackElo "2335"]
+[ECO "E81"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 a6 7. Bd3 c6 8.
 Nge2 b5 9. e5 Ne8 10. f4 Be6 11. c5 Qd7 12. O-O Nc7 13. cxd6 exd6 14. Ne4
@@ -6096,9 +6056,9 @@ Kxf7 39. Nxb7 Rf6 40. Nc5 1-0
 [White "Koshy,V"]
 [Black "Ravi,T"]
 [Result "0-1"]
-[ECO "A14"]
 [WhiteElo "2368"]
 [BlackElo "2336"]
+[ECO "A14"]
 
 1. c4 e6 2. g3 Nf6 3. Bg2 d5 4. Nf3 Be7 5. O-O O-O 6. b3 b6 7. Bb2 Bb7 8.
 e3 c5 9. Nc3 Nbd7 10. Qe2 Rc8 11. Rfd1 Qc7 12. Rac1 Qb8 13. d4 cxd4 14.
@@ -6115,9 +6075,9 @@ b5 39. Qb3 Qe4+ 40. Kf1 Qe1+ 41. Kg2 bxa4 0-1
 [White "Bakre,T"]
 [Black "Neelotpal,D"]
 [Result "0-1"]
-[ECO "C18"]
 [WhiteElo "2333"]
 [BlackElo "2436"]
+[ECO "C18"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Qc7 8.
 Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Be3 Nf5 14.
@@ -6139,9 +6099,9 @@ Rxa4 0-1
 [White "Rathore,S"]
 [Black "Ramesh,R"]
 [Result "0-1"]
-[ECO "A18"]
 [WhiteElo "2372"]
 [BlackElo "2391"]
+[ECO "A18"]
 
 1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 Nc6
 8. Nf3 e5 9. Bg5 Qg6 10. d5 Nb8 11. Qd2 Bd6 12. Qe3 f6 13. Bd3 Qh5 14. c5
@@ -6166,9 +6126,9 @@ Rb7 Qf6+ 87. Kh5 Qxf3+ 0-1
 [White "Thipsay,P"]
 [Black "Kunte,A"]
 [Result "1-0"]
-[ECO "B42"]
 [WhiteElo "2467"]
 [BlackElo "2455"]
+[ECO "B42"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qb6 6. Nb3 Qc7 7. O-O Nc6
 8. Nc3 b5 9. f4 d6 10. Kh1 Bb7 11. Qf3 Nf6 12. Bd2 Be7 13. Rae1 b4 14. Nd1
@@ -6184,9 +6144,9 @@ Rfc8 34. Ne3 Rxc4 35. Nxc4 Qa7 36. Ne3 1-0
 [White "Shankar,R"]
 [Black "Saravanan,V"]
 [Result "0-1"]
-[ECO "E92"]
 [WhiteElo "2394"]
 [BlackElo "2393"]
+[ECO "E92"]
 
 1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 Nf6 5. Nf3 O-O 6. Be2 e5 7. dxe5 dxe5 8.
 Qxd8 Rxd8 9. Bg5 Na6 10. Nd5 Nxd5 11. cxd5 f6 12. Bxa6 bxa6 13. Bd2 Bb7 14.
@@ -6203,9 +6163,9 @@ Rxb2 27. a4 Ra2 28. h4 h5 29. Rd1 Bf8 30. Nb7 Bxa4 31. Rd5 Bb3 32. Rd7+ Ke6
 [White "Prakash,G"]
 [Black "Konguvel,P"]
 [Result "1/2-1/2"]
-[ECO "E97"]
 [WhiteElo "2403"]
 [BlackElo "2436"]
+[ECO "E97"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8.
 d5 Ne7 9. Bg5 Nh5 10. Ne1 Nf4 11. Nd3 Nxe2+ 12. Qxe2 h6 13. Bd2 f5 14. f4
@@ -6223,9 +6183,9 @@ Kg4 39. Ne1 Ne7 40. Ke6 Nf5 41. Ke5 Ne7 42. a3 a5 43. b4 axb4 44. axb4 Ng6+
 [White "Hegde,R"]
 [Black "Deshmukh,A"]
 [Result "1/2-1/2"]
-[ECO "A09"]
 [WhiteElo "2397"]
 [BlackElo "2430"]
+[ECO "A09"]
 
 1. Nf3 d5 2. c4 dxc4 3. e3 e6 4. Bxc4 Nf6 5. O-O a6 6. b3 Be7 7. Bb2 c5 8.
 d4 cxd4 9. Nxd4 1/2-1/2
@@ -6237,9 +6197,9 @@ d4 cxd4 9. Nxd4 1/2-1/2
 [White "Prasad,D"]
 [Black "Mishra,N"]
 [Result "1-0"]
-[ECO "B47"]
 [WhiteElo "2435"]
 [BlackElo "2363"]
+[ECO "B47"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O Nf6
 8. Kh1 Bb4 9. Bg5 Bxc3 10. Bxf6 gxf6 11. bxc3 Ne7 12. Qd2 h5 13. f4 b6 14.
@@ -6255,9 +6215,9 @@ Qf4 Ng4 33. Nb5 Qa2 34. Nd6+ Ke7 35. Rb8 e5 36. Nf5+ Ke6 37. Rb6+ 1-0
 [White "Saravanan,V"]
 [Black "Thipsay,P"]
 [Result "1/2-1/2"]
-[ECO "B48"]
 [WhiteElo "2393"]
 [BlackElo "2467"]
+[ECO "B48"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6
 8. f3 b5 9. g4 d6 10. Nxc6 Qxc6 11. O-O-O Be7 12. Ne2 Bb7 13. Nd4 1/2-1/2
@@ -6269,9 +6229,9 @@ Qf4 Ng4 33. Nb5 Qa2 34. Nd6+ Ke7 35. Rb8 e5 36. Nf5+ Ke6 37. Rb6+ 1-0
 [White "Mishra,N"]
 [Black "Suvrajit,S"]
 [Result "1/2-1/2"]
-[ECO "E81"]
 [WhiteElo "2363"]
 [BlackElo "2335"]
+[ECO "E81"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 a6 7. Qd2 c6 8. Bd3
 b5 9. Nge2 Nbd7 10. O-O bxc4 11. Bxc4 Nb6 12. Bb3 a5 13. Na4 Ba6 14. Rfc1
@@ -6292,9 +6252,9 @@ Kxc7 Nxh4 64. d6 Ng6 65. Kd8 Ne5 66. Be4 1/2-1/2
 [White "Ravi,T"]
 [Black "Sashikiran,K"]
 [Result "0-1"]
-[ECO "C44"]
 [WhiteElo "2336"]
 [BlackElo "2525"]
+[ECO "C44"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 dxc3 6. Bxf7+ Kxf7 7. Qd5+
 Kf8 8. Qxc5+ Qe7 9. Qxe7+ Ngxe7 10. Nxc3 a6 11. O-O d6 12. h3 h6 13. Be3
@@ -6310,9 +6270,9 @@ Rxg4 26. a3 Rag8 27. g3 Be6 28. Re1 h5 29. Nd1 Bd5 30. Ne3 Nxe3 31. Bxe3 h4
 [White "Neelotpal,D"]
 [Black "Koshy,V"]
 [Result "1/2-1/2"]
-[ECO "B06"]
 [WhiteElo "2436"]
 [BlackElo "2368"]
+[ECO "B06"]
 
 1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Nf3 c6 5. Be2 Nd7 6. O-O Qc7 7. a4 Ngf6 8.
 Bg5 O-O 9. Qd2 e5 10. Rad1 Re8 11. dxe5 dxe5 12. Qd6 Qxd6 13. Rxd6 Bf8 14.
@@ -6327,9 +6287,9 @@ Bxc4 27. Nbxc4 Rdc8 28. Rfd1 Rc7 29. b5 1/2-1/2
 [White "Ramesh,R"]
 [Black "Bakre,T"]
 [Result "1/2-1/2"]
-[ECO "B56"]
 [WhiteElo "2391"]
 [BlackElo "2333"]
+[ECO "B56"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. g3 e5 7. Nde2 Bg4
 8. Bg2 Nd4 9. O-O Rc8 10. h3 Nxe2+ 11. Nxe2 Be6 12. Nc3 Be7 13. Be3 O-O 14.
@@ -6350,9 +6310,9 @@ Rd6+ Ke3 51. Rb6 Rd1 52. Rxb2 Rd2+ 53. Rxd2 Kxd2 54. Kh2 Ke1 55. Kg1 Ke2
 [White "Kunte,A"]
 [Black "Rathore,S"]
 [Result "1-0"]
-[ECO "C92"]
 [WhiteElo "2455"]
 [BlackElo "2372"]
+[ECO "C92"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
 c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 h6 13. d5 Nb8 14. c4 b4 15.
@@ -6371,9 +6331,9 @@ Rc3 g2+ 52. Rxg2 Qh4 53. Rc8+ Kg7 54. d8=Q Qxh3+ 55. Kg1 Be3+ 56. Kf1 1-0
 [White "Konguvel,P"]
 [Black "Shankar,R"]
 [Result "1-0"]
-[ECO "B13"]
 [WhiteElo "2436"]
 [BlackElo "2394"]
+[ECO "B13"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5
 8. Qb3 Bxf3 9. gxf3 e6 10. Qxb7 Nxd4 11. Bb5+ Nxb5 12. Qc6+ Ke7 13. Qxb5
@@ -6391,9 +6351,9 @@ Rc8 44. b7 Rb8 45. Rb3 Kf6 46. Kb2 Ke6 47. Kc3 Kd6 48. Kc4 Kc6 49. f4 1-0
 [White "Deshmukh,A"]
 [Black "Prakash,G"]
 [Result "1/2-1/2"]
-[ECO "D10"]
 [WhiteElo "2430"]
 [BlackElo "2403"]
+[ECO "D10"]
 
 1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Nc6 6. e3 a6 7. Rc1 Bf5 8.
 Nf3 Rc8 9. Be2 e6 10. O-O Bd6 11. Bxd6 Qxd6 12. Ne5 O-O 13. g4 Bg6 14. f4
@@ -6409,9 +6369,9 @@ Kf2 Qa1 27. Qxa6 Qc1 28. Qd6+ Kf7 29. Qd7+ Kf8 30. Qd8+ Kf7 31. Qd7+ Kf8
 [White "Prasad,D"]
 [Black "Hegde,R"]
 [Result "1-0"]
-[ECO "B56"]
 [WhiteElo "2435"]
 [BlackElo "2397"]
+[ECO "B56"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bd7 6. Be2 Nc6 7. Nb3 e6
 8. O-O Be7 9. Be3 O-O 10. f4 Rc8 11. Kh1 a6 12. a4 e5 13. a5 exf4 14. Bb6
@@ -6429,9 +6389,9 @@ Re8+ Kf7 45. Qc4+ Kg6 46. Re6 1-0
 [White "Hegde,R"]
 [Black "Mishra,N"]
 [Result "1-0"]
-[ECO "A13"]
 [WhiteElo "2397"]
 [BlackElo "2363"]
+[ECO "A13"]
 
 1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. O-O Be7 6. Qc2 a6 7. Qxc4 b5 8.
 Qc2 Bb7 9. a4 O-O 10. axb5 axb5 11. Rxa8 Bxa8 12. Nc3 c6 13. b3 Na6 14. Bb2
@@ -6450,9 +6410,9 @@ Bg4 Rb1+ 45. Kg2 Kf7 46. Bh5+ Ke7 47. Qg7+ Kd8 48. Qf8+ Kc7 49. Qf4+ Kd7
 [White "Prakash,G"]
 [Black "Prasad,D"]
 [Result "1/2-1/2"]
-[ECO "D12"]
 [WhiteElo "2403"]
 [BlackElo "2435"]
+[ECO "D12"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. cxd5 cxd5 6. Qb3 Qc7 7. Bd2 Nc6
 8. Na3 e6 9. Rc1 Ne4 10. Bb5 Nxd2 11. Kxd2 Qa5+ 12. Ke2 Bxa3 13. bxa3 O-O
@@ -6469,9 +6429,9 @@ Rac4 32. Rb5 a4 33. R5b4 Rxb4 34. Rxb4 Ra8 35. Rb7 Kg7 36. g4 h5 37. h3 h4
 [White "Shankar,R"]
 [Black "Deshmukh,A"]
 [Result "1-0"]
-[ECO "B22"]
 [WhiteElo "2394"]
 [BlackElo "2430"]
+[ECO "B22"]
 
 1. e4 c5 2. c3 e5 3. Nf3 Nc6 4. Bc4 h6 5. O-O d6 6. d4 Qc7 7. dxe5 dxe5 8.
 Nbd2 Nf6 9. Re1 a6 10. a4 Be7 11. Nf1 O-O 12. Ng3 Na5 13. Ba2 c4 14. Nh4
@@ -6487,9 +6447,9 @@ g3 Rxd1 33. Rxd1 Ng6 34. Qh5 1-0
 [White "Thipsay,P"]
 [Black "Konguvel,P"]
 [Result "1-0"]
-[ECO "B74"]
 [WhiteElo "2467"]
 [BlackElo "2436"]
+[ECO "B74"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O Nc6
 8. Be3 O-O 9. Nb3 Be6 10. f4 Qc8 11. Kh1 Bg4 12. Qd2 Bxe2 13. Qxe2 Rb8 14.
@@ -6505,9 +6465,9 @@ exd5 Qa6 21. Qe4 Bxd4 22. Qxd4 Qxa2 23. f5 Rac8 24. fxg6 fxg6 25. Qxb4 Rxc2
 [White "Rathore,S"]
 [Black "Saravanan,V"]
 [Result "1/2-1/2"]
-[ECO "B44"]
 [WhiteElo "2372"]
 [BlackElo "2393"]
+[ECO "B44"]
 
 1. e4 c5 2. Ne2 Nc6 3. c4 e6 4. Nbc3 Nf6 5. d4 cxd4 6. Nxd4 Bb4 7. Nxc6
 bxc6 8. Bd3 e5 9. O-O Bc5 10. Qf3 d6 11. h3 h6 12. Be3 Nd7 13. Na4 Bxe3 14.
@@ -6527,9 +6487,9 @@ gxh4 57. Kxf4 1/2-1/2
 [White "Bakre,T"]
 [Black "Kunte,A"]
 [Result "0-1"]
-[ECO "B42"]
 [WhiteElo "2333"]
 [BlackElo "2455"]
+[ECO "B42"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 7. Qe2 d6 8.
 f4 Nc6 9. Nxc6 bxc6 10. c4 Be7 11. Nc3 e5 12. f5 Bb7 13. Bd2 h6 14. b4 O-O
@@ -6545,9 +6505,9 @@ f4 Nc6 9. Nxc6 bxc6 10. c4 Be7 11. Nc3 e5 12. f5 Bb7 13. Bd2 h6 14. b4 O-O
 [White "Koshy,V"]
 [Black "Ramesh,R"]
 [Result "0-1"]
-[ECO "A00"]
 [WhiteElo "2368"]
 [BlackElo "2391"]
+[ECO "A00"]
 
 1. g3 Nf6 2. Bg2 d5 3. d3 c6 4. Nd2 Bg4 5. h3 Bc8 6. Ngf3 Nbd7 7. O-O e5 8.
 e4 Bd6 9. exd5 cxd5 10. c4 d4 11. c5 Nxc5 12. Nc4 O-O 13. Nfxe5 Bc7 14. Bd2
@@ -6561,9 +6521,9 @@ Ne4 21. Be3 Ba5 22. Red1 Nxg3 23. Nd4 Bg6 24. Rxd3 Bb6 25. fxg3 Bxd3 0-1
 [White "Sashikiran,K"]
 [Black "Neelotpal,D"]
 [Result "1-0"]
-[ECO "D47"]
 [WhiteElo "2525"]
 [BlackElo "2436"]
+[ECO "D47"]
 
 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
 Bd3 Bb7 9. e4 b4 10. Na4 c5 11. e5 Nd5 12. Nxc5 Nxc5 13. dxc5 Bxc5 14. O-O
@@ -6577,9 +6537,9 @@ h6 15. Nd2 Be7 16. Nc4 Kf8 17. Qe2 g6 18. Be3 Kg7 19. Rad1 Rc8 20. Nd6 Bxd6
 [White "Suvrajit,S"]
 [Black "Ravi,T"]
 [Result "1/2-1/2"]
-[ECO "E15"]
 [WhiteElo "2335"]
 [BlackElo "2336"]
+[ECO "E15"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 c5 6. Bg2 Bb7 7. e4 cxd4 8.
 O-O d6 9. Nxd4 a6 10. Re1 Qc7 11. a4 Nc6 12. Nxc6 Bxc6 13. a5 b5 14. cxb5
@@ -6598,9 +6558,9 @@ Kxg5 45. Kd2 Kf4 46. Kc3 Ke4 47. Nc6 Na6 48. h4 h5 49. Nd4 Kf4 50. Ne6+ Kg4
 [White "Mishra,N"]
 [Black "Ravi,T"]
 [Result "1-0"]
-[ECO "E04"]
 [WhiteElo "2363"]
 [BlackElo "2336"]
+[ECO "E04"]
 
 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 Nc6 6. O-O Rb8 7. a4 a6 8.
 a5 b5 9. axb6 cxb6 10. Bf4 Bd6 11. Ne5 Ne7 12. Nxc4 Bxf4 13. gxf4 Ng6 14.
@@ -6621,9 +6581,9 @@ Qc6+ 62. Kd4 1-0
 [White "Neelotpal,D"]
 [Black "Suvrajit,S"]
 [Result "0-1"]
-[ECO "B01"]
 [WhiteElo "2436"]
 [BlackElo "2335"]
+[ECO "B01"]
 
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 c6 6. Bc4 Bg4 7. h3 Bh5
 8. Bd2 e6 9. Qe2 Bb4 10. g4 Bg6 11. Ne5 Nbd7 12. Nxg6 hxg6 13. a3 Nd5 14.
@@ -6639,9 +6599,9 @@ Qxc2 0-1
 [White "Ramesh,R"]
 [Black "Sashikiran,K"]
 [Result "1/2-1/2"]
-[ECO "B17"]
 [WhiteElo "2391"]
 [BlackElo "2525"]
+[ECO "B17"]
 
 1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. N1f3 Bd6
 8. Qe2 h6 9. Ne4 Nxe4 10. Qxe4 Qc7 11. Qg4 Kf8 12. O-O c5 13. Qh4 b6 14.
@@ -6656,9 +6616,9 @@ Ne5 Be4 27. b3 Rd5 28. Rxd5 Nxd5 29. Rc1 Rc8 1/2-1/2
 [White "Kunte,A"]
 [Black "Koshy,V"]
 [Result "1/2-1/2"]
-[ECO "B23"]
 [WhiteElo "2455"]
 [BlackElo "2368"]
+[ECO "B23"]
 
 1. e4 d6 2. Nc3 g6 3. f4 Bg7 4. Nf3 c5 5. Bc4 Nc6 6. O-O Nh6 7. d3 O-O 8.
 f5 gxf5 9. Nh4 e6 10. Qh5 Ng4 11. exf5 Nf6 12. Qg5 d5 13. Bb3 Nd4 14. Qg3
@@ -6676,9 +6636,9 @@ Kh2 f6 27. Bh6 Bxc3 28. bxc3 Nxa2 29. Rxb7 Rg8 30. fxe6 Nxc3 31. Nf5 Nd5
 [White "Saravanan,V"]
 [Black "Bakre,T"]
 [Result "0-1"]
-[ECO "B57"]
 [WhiteElo "2393"]
 [BlackElo "2333"]
+[ECO "B57"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6 7. Nxc6
 bxc6 8. O-O g6 9. Be3 Qc7 10. h3 Bg7 11. f4 O-O 12. Bd4 Rd8 13. Qe1 d5 14.
@@ -6696,9 +6656,9 @@ Re5 e6 33. Rg5 Rca3 34. Rg4 Rxa2 35. Rxa2 Rxa2+ 36. Kf3 Ra3+ 37. Kf2 Rd3
 [White "Konguvel,P"]
 [Black "Rathore,S"]
 [Result "1-0"]
-[ECO "C92"]
 [WhiteElo "2436"]
 [BlackElo "2372"]
+[ECO "C92"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
 c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 h6 13. Bc2 exd4 14. cxd4
@@ -6715,9 +6675,9 @@ dxe5 33. Nxd3 Qb6+ 34. Qf2 Qxf2+ 35. Kxf2 Rf8+ 36. Rf3 Rc8 37. Bxe5 Rc2+
 [White "Deshmukh,A"]
 [Black "Thipsay,P"]
 [Result "0-1"]
-[ECO "E71"]
 [WhiteElo "2430"]
 [BlackElo "2467"]
+[ECO "E71"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. h3 d6 6. Bg5 c6 7. Nf3 e5 8.
 dxe5 dxe5 9. Qxd8 Rxd8 10. Nxe5 Re8 11. O-O-O Na6 12. f4 Nc5 13. Bd3 Nh5
@@ -6732,9 +6692,9 @@ dxe5 dxe5 9. Qxd8 Rxd8 10. Nxe5 Re8 11. O-O-O Na6 12. f4 Nc5 13. Bd3 Nh5
 [White "Prasad,D"]
 [Black "Shankar,R"]
 [Result "1/2-1/2"]
-[ECO "B14"]
 [WhiteElo "2435"]
 [BlackElo "2394"]
+[ECO "B14"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. cxd5 Nxd5 7. Nf3 g6
 8. Qb3 Nxc3 9. Bc4 e6 10. bxc3 Bg7 11. Ba3 Bf8 12. Bxf8 Kxf8 13. O-O Kg7
@@ -6749,9 +6709,9 @@ cxb6 Rb8 21. Qc3 Rxb6 22. Ne5 Nxe5 23. dxe5 Qe7 24. Bxa8 Rxa8 25. Rad1 Rab8
 [White "Hegde,R"]
 [Black "Prakash,G"]
 [Result "0-1"]
-[ECO "B14"]
 [WhiteElo "2397"]
 [BlackElo "2403"]
+[ECO "B14"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. cxd5 Nxd5
 8. Bd2 Nc6 9. Bd3 O-O 10. O-O Be7 11. Qe2 Nf6 12. Ne4 Qb6 13. Rfd1 Bd7 14.
@@ -6770,9 +6730,9 @@ Rd2 45. Bc5 Rd5 46. Bb6 Nc6 47. Kg3 Rd3 48. Bc5 Rd2 49. Rb1 Bc8 50. Re1 f4+
 [White "Prakash,G"]
 [Black "Mishra,N"]
 [Result "1-0"]
-[ECO "E14"]
 [WhiteElo "2403"]
 [BlackElo "2363"]
+[ECO "E14"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Bb7 5. Bd3 d5 6. cxd5 exd5 7. O-O Bd6 8.
 Nc3 O-O 9. b3 a6 10. Bb2 Nbd7 11. Ne2 Re8 12. Ng3 g6 13. Rc1 Ne4 14. Qc2
@@ -6792,9 +6752,9 @@ Bd7 51. Kh3 h6 52. Kh4 Bc8 53. Nb5+ Ke6 54. g4 Ke7 55. gxf5 gxf5 56. Nd4
 [White "Shankar,R"]
 [Black "Hegde,R"]
 [Result "1-0"]
-[ECO "C41"]
 [WhiteElo "2394"]
 [BlackElo "2397"]
+[ECO "C41"]
 
 1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bg5 Nbd7 7. Bc4 Bg7
 8. Qd2 O-O 9. O-O-O Re8 10. f4 c6 11. Nf3 Qb6 12. e5 dxe5 13. fxe5 Ng4 14.
@@ -6811,9 +6771,9 @@ Rd7 g5 38. Qf7+ 1-0
 [White "Thipsay,P"]
 [Black "Prasad,D"]
 [Result "1/2-1/2"]
-[ECO "B85"]
 [WhiteElo "2467"]
 [BlackElo "2435"]
+[ECO "B85"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8.
 a4 Nc6 9. Be3 O-O 10. f4 Qc7 11. Kh1 Re8 12. Qd2 Na5 13. Rad1 b6 1/2-1/2
@@ -6825,9 +6785,9 @@ a4 Nc6 9. Be3 O-O 10. f4 Qc7 11. Kh1 Re8 12. Qd2 Na5 13. Rad1 b6 1/2-1/2
 [White "Bakre,T"]
 [Black "Konguvel,P"]
 [Result "1/2-1/2"]
-[ECO "B76"]
 [WhiteElo "2333"]
 [BlackElo "2436"]
+[ECO "B76"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
 Qd2 O-O 9. O-O-O d5 10. Qe1 e5 11. Nxc6 bxc6 12. exd5 Nxd5 13. Bc4 Be6 14.
@@ -6843,9 +6803,9 @@ Bxf6 27. Rxf6 Nxb3+ 28. cxb3 Qxb3 29. Qc2 Qa3+ 30. Kd1 Rb2 31. Rxf7+ Kh8
 [White "Koshy,V"]
 [Black "Saravanan,V"]
 [Result "1/2-1/2"]
-[ECO "A26"]
 [WhiteElo "2368"]
 [BlackElo "2393"]
+[ECO "A26"]
 
 1. c4 g6 2. g3 Bg7 3. Bg2 e5 4. Nc3 Nc6 5. e4 d6 6. d3 h5 7. Nf3 Nd4 8. h4
 Bg4 9. Qa4+ Bd7 10. Qd1 Nxf3+ 11. Bxf3 Ne7 12. Be3 Bh6 13. Bxh6 Rxh6 14.
@@ -6859,16 +6819,16 @@ Ne2 Nxe2 21. Kxe2 exf4 22. gxf4 f5 23. Rhg1 Re7 24. Kd2 Kf7 1/2-1/2
 [White "Sashikiran,K"]
 [Black "Kunte,A"]
 [Result "0-1"]
-[ECO "E32"]
 [WhiteElo "2525"]
 [BlackElo "2455"]
+[ECO "E32"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Ba6
 8. e3 d6 9. Bd3 Nbd7 10. Ne2 h6 11. Bh4 Rc8 12. b4 c5 13. dxc5 bxc5 14. b5
 Bb7 15. O-O Ne5 16. Bb1 Qe7 17. f3 Ng6 18. Bf2 Nd7 19. a4 f5 20. Ra2 Nge5
 21. Bg3 h5 22. h4 Ng6 23. Nf4 Nde5 24. Nxh5 Rf7 25. Rd2 Re8 26. Kf2 Ba8 27.
 a5 d5 28. Bxe5 d4 29. exd4 Nxe5 30. dxe5 Qxh4+ 31. Ng3 f4 32. Rh1 fxg3+ 33.
-Kg1 Qg5 34. Bh7+ Kf8 35. Qd3 Qxe5 36. Rd1 Rd7 37. Bg6 Qe3+ 38. Kf1 Qf2+ 0-1
+Kg1 Qg5 34. Bh7+ Kf8 35. Qd3 Qxe5 36. Rd1 Rd7 37. Bg6 Qe3+ 38. Kf1 Qf2# 0-1
 
 [Event "ch-IND"]
 [Site "Nagpur IND"]
@@ -6877,9 +6837,9 @@ Kg1 Qg5 34. Bh7+ Kf8 35. Qd3 Qxe5 36. Rd1 Rd7 37. Bg6 Qe3+ 38. Kf1 Qf2+ 0-1
 [White "Suvrajit,S"]
 [Black "Ramesh,R"]
 [Result "1-0"]
-[ECO "A07"]
 [WhiteElo "2335"]
 [BlackElo "2391"]
+[ECO "A07"]
 
 1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bg4 5. d3 Nbd7 6. Nbd2 e6 7. e4 Be7 8.
 h3 Bh5 9. Qe2 O-O 10. a4 dxe4 11. dxe4 e5 12. Rd1 Qc7 13. b3 Rfe8 14. Bb2
@@ -6897,9 +6857,9 @@ gxh6 Bxh6 39. Qg4+ Kf8 40. Qxd1 Bxf4 41. Qd8+ Kg7 42. Bf5 Rxe5 43. Qd4 Kf6
 [White "Ravi,T"]
 [Black "Neelotpal,D"]
 [Result "1-0"]
-[ECO "B22"]
 [WhiteElo "2336"]
 [BlackElo "2436"]
+[ECO "B22"]
 
 1. e4 c5 2. c3 d6 3. d4 Nf6 4. Bd3 g6 5. h3 Bg7 6. Nf3 O-O 7. dxc5 dxc5 8.
 O-O Nc6 9. a4 Nd7 10. Be3 b6 11. Qe2 Bb7 12. Nh2 e5 13. Nd2 Nd4 14. cxd4
@@ -6919,9 +6879,9 @@ Nxe3 Qf4+ 57. g3 Qf6 58. Qc2+ Qg6 1-0
 [White "Rathore,S"]
 [Black "Deshmukh,A"]
 [Result "1-0"]
-[ECO "B39"]
 [WhiteElo "2372"]
 [BlackElo "2430"]
+[ECO "B39"]
 
 1. e4 c5 2. Ne2 g6 3. c4 Bg7 4. d4 cxd4 5. Nxd4 Nc6 6. Be3 Nf6 7. Nc3 Ng4
 8. Qxg4 Nxd4 9. Qd1 Ne6 10. Rc1 O-O 11. Be2 f5 12. exf5 gxf5 13. f4 d6 14.
@@ -6932,10 +6892,6 @@ Qxd1 33. Rcxd1 Bxf3 34. gxf3 h5 35. Rb1 Nd3 36. Re2 Rc8 37. c5 e4 38. fxe4
 fxe4 39. Rxb7 Nxc5 40. Bxc5 Rxc5 41. Rxe4 Rc1+ 42. Kg2 Rc2+ 43. Kh3 Rc3+
 44. Kh4 Rc5 45. Re8+ Kh7 46. Ree7 1-0
 
-
-Danish Championships
---------------------
-
 [Event "ch-DEN"]
 [Site "Aarhus DEN"]
 [Date "1999.03.30"]
@@ -6943,9 +6899,9 @@ Danish Championships
 [White "Borge,N"]
 [Black "Hansen,SuB"]
 [Result "0-1"]
-[ECO "B80"]
 [WhiteElo "2466"]
 [BlackElo "2499"]
+[ECO "B80"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bc1 Nf6
 8. f3 e6 9. Be3 b5 10. Qd2 Bb7 11. a4 b4 12. Na2 d5 13. e5 Nfd7 14. f4 Nc5
@@ -6962,9 +6918,9 @@ Rxc8+ Kh7 33. Nd6 Re7 34. Nxe4 Rxe6 35. g3 Ng4 36. Nxf6+ Nxf6 37. Bf4 Qg2
 [White "Larsen,B"]
 [Black "Nielsen,PH"]
 [Result "1/2-1/2"]
-[ECO "D55"]
 [WhiteElo "2532"]
 [BlackElo "2515"]
+[ECO "D55"]
 
 1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bf4 O-O 7. e3 c5 8.
 dxc5 Bxc5 9. Be2 dxc4 10. Bxc4 Nh5 11. Qxd8 Rxd8 12. Bc7 Rd7 13. Be5 Nc6
@@ -6977,9 +6933,9 @@ dxc5 Bxc5 9. Be2 dxc4 10. Bxc4 Nh5 11. Qxd8 Rxd8 12. Bc7 Rd7 13. Be5 Nc6
 [White "Hansen,Cu"]
 [Black "Hansen,LB"]
 [Result "1/2-1/2"]
-[ECO "D45"]
 [WhiteElo "2608"]
 [BlackElo "2565"]
+[ECO "D45"]
 
 1. c4 c6 2. d4 d5 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8.
 b3 Re8 9. O-O Qe7 10. Bb2 h6 11. Rad1 b6 12. e4 Nxe4 13. Nxe4 dxe4 14. Qxe4
@@ -6994,9 +6950,9 @@ Rc1 Nd7 27. Kf1 e5 28. Ke2 Rd6 29. Bb4 Nc5 30. f3 1/2-1/2
 [White "Mortensen,E"]
 [Black "El Kher,H"]
 [Result "1-0"]
-[ECO "A04"]
 [WhiteElo "2424"]
 [BlackElo "2338"]
+[ECO "A04"]
 
 1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O d6 7. c3 e5 8. a4
 Nge7 9. Na3 O-O 10. Bg5 h6 11. Bxe7 Nxe7 12. Nc4 Be6 13. a5 Qc7 14. Qa4 f5
@@ -7013,9 +6969,9 @@ fxe5 Ng5 40. Bg2 Kh7 41. d4 1-0
 [White "Fries Nielsen,JO"]
 [Black "Schandorff,L"]
 [Result "1/2-1/2"]
-[ECO "B30"]
 [WhiteElo "2447"]
 [BlackElo "2527"]
+[ECO "B30"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. b3 Ne7 6. O-O Ng6 7. Ba3 Be7
 8. d4 cxd4 9. Bxe7 Qxe7 10. Nxd4 O-O 11. c4 Bb7 12. Nc3 a6 13. Qh5 c5 14.
@@ -7028,9 +6984,9 @@ Nf3 Bc6 15. Rfe1 Qf6 16. Re3 Bxe4 17. Qxc5 Bc6 1/2-1/2
 [White "Hansen,LB"]
 [Black "Borge,N"]
 [Result "1-0"]
-[ECO "A48"]
 [WhiteElo "2565"]
 [BlackElo "2466"]
+[ECO "A48"]
 
 1. d4 Nf6 2. Nf3 g6 3. c3 Bg7 4. Bg5 O-O 5. Nbd2 b6 6. e3 Bb7 7. a4 a6 8.
 Bc4 c5 9. O-O d6 10. b4 cxd4 11. cxd4 Nc6 12. Qb1 Rc8 13. Rc1 a5 14. bxa5
@@ -7046,9 +7002,9 @@ dxc4 33. a5 c3 34. Qc5 Qxc5 35. dxc5 c2 36. a6 Bd4 37. a7 1-0
 [White "Hansen,SuB"]
 [Black "Larsen,B"]
 [Result "1-0"]
-[ECO "B04"]
 [WhiteElo "2499"]
 [BlackElo "2532"]
+[ECO "B04"]
 
 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 g6 6. Bc4 c6 7. O-O Bg7 8.
 Re1 O-O 9. Bb3 Nd7 10. Nf3 N7f6 11. h3 Be6 12. c4 Nb6 13. Qe2 a5 14. a4 Nc8
@@ -7065,9 +7021,9 @@ Rc7 1-0
 [White "Nielsen,PH"]
 [Black "Fries Nielsen,JO"]
 [Result "1-0"]
-[ECO "E20"]
 [WhiteElo "2515"]
 [BlackElo "2447"]
+[ECO "E20"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8.
 cxd5 Nxd5 9. Qb3 Nc6 10. Nxc6 bxc6 11. O-O a5 12. Qc2 Ba6 13. Na4 Be7 14.
@@ -7083,9 +7039,9 @@ Kg2 Bxc7 33. Rb7 Bd6 34. Bxe6+ Kf8 35. Bxg7+ Ke8 36. Bd7+ 1-0
 [White "El Kher,H"]
 [Black "Hansen,Cu"]
 [Result "0-1"]
-[ECO "D52"]
 [WhiteElo "2338"]
 [BlackElo "2608"]
+[ECO "D52"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bg5 c6 6. e3 Qa5 7. Bxf6 Nxf6
 8. Nd2 Be7 9. Bd3 dxc4 10. Nxc4 Qc7 11. Rc1 O-O 12. O-O Rd8 13. Qe2 Bd7 14.
@@ -7104,9 +7060,9 @@ Rxb5 Bxa3 51. Ra5 Bc1 0-1
 [White "Schandorff,L"]
 [Black "Mortensen,E"]
 [Result "1/2-1/2"]
-[ECO "A28"]
 [WhiteElo "2527"]
 [BlackElo "2424"]
+[ECO "A28"]
 
 1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. d3 Bb4 5. e4 d6 6. g3 Bg4 7. h3 Bxf3 8.
 Qxf3 a5 9. Bg2 a4 10. Bd2 a3 11. b3 Nd4 12. Qd1 c6 13. Ne2 Bxd2+ 14. Qxd2
@@ -7126,9 +7082,9 @@ Nb8 57. Rg3 Na6 58. Rg4 Nb4 1/2-1/2
 [White "Borge,N"]
 [Black "El Kher,H"]
 [Result "1/2-1/2"]
-[ECO "B33"]
 [WhiteElo "2466"]
 [BlackElo "2338"]
+[ECO "B33"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Rb8 12. Nc2 Bg5 13. a4 bxa4 14.
@@ -7153,9 +7109,9 @@ Ke6 87. Ng5+ Bxg5 88. Kxg5 Kf7 89. h6 Kg8 90. Kg6 Kh8 91. h7 1/2-1/2
 [White "Larsen,B"]
 [Black "Hansen,LB"]
 [Result "1/2-1/2"]
-[ECO "C50"]
 [WhiteElo "2532"]
 [BlackElo "2565"]
+[ECO "C50"]
 
 1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bc4 Bc5 5. d3 O-O 6. O-O h6 7. Be3 d6 8.
 Bxc5 dxc5 9. h3 a6 10. a3 Qd6 11. Nh4 Be6 12. Nf5 Bxf5 13. exf5 Nd4 14. Ne4
@@ -7171,9 +7127,9 @@ Qd4 27. h4 Kf8 28. g5 hxg5 29. hxg5 Ke7 30. g6 f6 31. Bf3 Qf4 32. Be4 Qg4+
 [White "Nielsen,PH"]
 [Black "Hansen,SuB"]
 [Result "1/2-1/2"]
-[ECO "D26"]
 [WhiteElo "2515"]
 [BlackElo "2499"]
+[ECO "D26"]
 
 1. d4 d5 2. c4 dxc4 3. e3 e6 4. Bxc4 Nf6 5. Nf3 c5 6. O-O Nc6 7. a3 a6 8.
 dxc5 Qxd1 9. Rxd1 Bxc5 10. b4 Ba7 11. Bb2 Ke7 12. Nbd2 Bd7 13. Nb3 Rhc8 14.
@@ -7187,9 +7143,9 @@ Bd6 21. Bd4 Rxa1 22. Rxa1 Rc2 23. Nf3 Nd7 24. Nfe1 1/2-1/2
 [White "Hansen,Cu"]
 [Black "Schandorff,L"]
 [Result "1-0"]
-[ECO "D20"]
 [WhiteElo "2608"]
 [BlackElo "2527"]
+[ECO "D20"]
 
 1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 exd4 5. Bxc4 Nc6 6. O-O Be6 7. Bxe6
 fxe6 8. Qb3 Qd7 9. Qxb7 Rb8 10. Qa6 Nf6 11. Nbd2 Bd6 12. Qd3 O-O 13. h3 e5
@@ -7210,9 +7166,9 @@ Bb4 Ne7 45. Re2 Rxe2+ 46. Kxe2 Kd7 47. Bc3 Ke6 48. Bxg7 Nd5 49. Re4+ Kf7
 [White "Fries Nielsen,JO"]
 [Black "Mortensen,E"]
 [Result "1/2-1/2"]
-[ECO "B30"]
 [WhiteElo "2447"]
 [BlackElo "2424"]
+[ECO "B30"]
 
 1. e4 c5 2. Nf3 Nc6 3. Nc3 e6 4. Bb5 Nge7 5. O-O Ng6 6. Bxc6 bxc6 7. e5 f6
 8. Re1 Be7 9. d3 O-O 10. exf6 Bxf6 11. Ne4 d6 12. c3 e5 13. Qa4 Qc7 14. d4
@@ -7226,11 +7182,11 @@ Bf4 c5 21. Qd1 Rad8 1/2-1/2
 [White "El Kher,H"]
 [Black "Larsen,B"]
 [Result "1-0"]
-[ECO "B23"]
 [WhiteElo "2338"]
 [BlackElo "2532"]
+[ECO "B23"]
 
-1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d5 5. Bb5 Nge7 6. Ne5 Bd7 7. Nxd7 Qxd7
+1. e4 c5 2. Nc3 Nc6 3. f4 e6 4. Nf3 d5 5. Bb5 Ne7 6. Ne5 Bd7 7. Nxd7 Qxd7
 8. Qf3 a6 9. Bxc6 Qxc6 10. exd5 Nxd5 11. d3 O-O-O 12. Bd2 Nb4 13. Qxc6+
 Nxc6 14. O-O-O h5 15. Ne4 Be7 16. Rhf1 Nd4 17. Ba5 Rd7 18. Bb6 c4 19. dxc4
 Ne2+ 20. Kb1 Rxd1+ 21. Rxd1 Nxf4 22. Rf1 Nxg2 23. Rg1 Nf4 24. Rxg7 Rf8 25.
@@ -7246,15 +7202,15 @@ a7 Ra8 44. Ra5 Ke6 45. h4 f4 46. Ke2 1-0
 [White "Hansen,SuB"]
 [Black "Fries Nielsen,JO"]
 [Result "1-0"]
-[ECO "B42"]
 [WhiteElo "2499"]
 [BlackElo "2447"]
+[ECO "B42"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Nc3 Nc6
 8. Qe2 d6 9. Be3 Bxe3 10. Qxe3 Nf6 11. O-O-O O-O 12. f4 e5 13. f5 b5 14. g4
 Nxg4 15. Qg3 Nf6 16. Rhg1 Ne8 17. Nd5 f6 18. Qh4 Ra7 19. Rg3 Kh8 20. Rdg1
 g5 21. fxg6 f5 22. Qh6 Rg7 23. gxh7 Rff7 24. exf5 Rxg3 25. Rxg3 Rxh7 26.
-Qf8+ 1-0
+Qf8# 1-0
 
 [Event "ch-DEN"]
 [Site "Aarhus DEN"]
@@ -7263,9 +7219,9 @@ Qf8+ 1-0
 [White "Hansen,LB"]
 [Black "Nielsen,PH"]
 [Result "1/2-1/2"]
-[ECO "D58"]
 [WhiteElo "2565"]
 [BlackElo "2515"]
+[ECO "D58"]
 
 1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8.
 Qb3 Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. Rd1 Re8 12. Bd3 c5 13. dxc5 Nd7 14.
@@ -7283,9 +7239,9 @@ Bd7 39. Rxd5 Rc1 40. Re4+ Kf8 41. Rf4+ Ke7 42. Re4+ Kf8 43. Rf4+ Ke8
 [White "Mortensen,E"]
 [Black "Hansen,Cu"]
 [Result "0-1"]
-[ECO "C00"]
 [WhiteElo "2424"]
 [BlackElo "2608"]
+[ECO "C00"]
 
 1. e4 c5 2. Nf3 e6 3. d3 Nc6 4. g3 d5 5. Qe2 Nf6 6. Bg2 Be7 7. O-O O-O 8.
 e5 Ne8 9. c4 Nc7 10. Nc3 a6 11. Bf4 b5 12. b3 Bb7 13. h4 Ra7 14. Nh2 Nd4
@@ -7305,9 +7261,9 @@ Kf3 Qd3+ 45. Qe3 Qxe3+ 46. fxe3 Kg6 47. Ne6 Rb2 48. Nf4+ Kg5 49. Nh3+ Kf6
 [White "Schandorff,L"]
 [Black "Borge,N"]
 [Result "1-0"]
-[ECO "D85"]
 [WhiteElo "2527"]
 [BlackElo "2466"]
+[ECO "D85"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
 8. Rb1 O-O 9. Be2 Nc6 10. d5 Ne5 11. Nxe5 Bxe5 12. Qd2 e6 13. f4 Bc7 14.
@@ -7326,9 +7282,9 @@ Kg4 45. Bxe5 Be6 46. Bd6 Kh3 47. Kf2 c4 48. Ke3 g4 49. Kd4 c3 50. Kxc3 Bd5
 [White "Larsen,B"]
 [Black "Schandorff,L"]
 [Result "1-0"]
-[ECO "D47"]
 [WhiteElo "2532"]
 [BlackElo "2527"]
+[ECO "D47"]
 
 1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
 Be2 a6 9. e4 b4 10. e5 bxc3 11. exf6 Nxf6 12. bxc3 Bd6 13. O-O O-O 14. Bg5
@@ -7337,7 +7293,7 @@ gxf6 21. Bc4 Qc7 22. g3 a5 23. Nd2 Bb4 24. Ne4 Qe7 25. Qe3 Bb7 26. a3 Bxe4
 27. Qxe4 f5 28. Qf3 Bxa3 29. Rb7 Qd6 30. d5 exd5 31. Bxd5 Bb4 32. Bc4 Qe5
 33. Bd3 Kh8 34. Bxf5 Qg7 35. Bc2 Kg8 36. Kg2 Kh8 37. Bb3 Kg8 38. h4 h6 39.
 Qd5 Bc3 40. Rb6 Kh8 41. Qh5 Bf6 42. Ra6 a4 43. Bxa4 Rb8 44. Bc2 Kg8 45. Bd3
-Bd4 46. Bc4 Kf8 47. Qd5 Re8 48. Rxh6 Qxh6 49. Qxf7+ 1-0
+Bd4 46. Bc4 Kf8 47. Qd5 Re8 48. Rxh6 Qxh6 49. Qxf7# 1-0
 
 [Event "ch-DEN"]
 [Site "Aarhus DEN"]
@@ -7346,9 +7302,9 @@ Bd4 46. Bc4 Kf8 47. Qd5 Re8 48. Rxh6 Qxh6 49. Qxf7+ 1-0
 [White "Nielsen,PH"]
 [Black "El Kher,H"]
 [Result "1-0"]
-[ECO "D78"]
 [WhiteElo "2515"]
 [BlackElo "2338"]
+[ECO "D78"]
 
 1. c4 Nf6 2. g3 c6 3. Nf3 d5 4. Bg2 g6 5. b3 Bg7 6. O-O O-O 7. d4 dxc4 8.
 bxc4 c5 9. Bb2 Qb6 10. Qb3 Ne4 11. e3 cxd4 12. Bxd4 Qa6 13. Bxg7 Kxg7 14.
@@ -7363,9 +7319,9 @@ Rxd7 Qf5 27. e4 Qh5 28. Rd8 1-0
 [White "Hansen,SuB"]
 [Black "Hansen,LB"]
 [Result "1/2-1/2"]
-[ECO "C92"]
 [WhiteElo "2499"]
 [BlackElo "2565"]
+[ECO "C92"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
 c3 O-O 9. h3 a5 10. d3 a4 11. Bc2 Be6 12. Nbd2 Re8 13. d4 Bd7 14. d5 Na5
@@ -7382,9 +7338,9 @@ Rxd1 39. Qg4+ Kf8 40. Qc8+ Kg7 41. Qg4+ 1/2-1/2
 [White "Fries Nielsen,JO"]
 [Black "Hansen,Cu"]
 [Result "1-0"]
-[ECO "B25"]
 [WhiteElo "2447"]
 [BlackElo "2608"]
+[ECO "B25"]
 
 1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nge2 d6 6. d3 e5 7. h4 h6 8. Nd5
 Nge7 9. c4 Nxd5 10. cxd5 Nb8 11. Be3 Nd7 12. Qd2 b6 13. a3 a5 14. Nc3 Nf6
@@ -7401,9 +7357,9 @@ Rxf4 Rxf4 39. Nxf4 Rg3 40. Nh5 Rg1+ 41. Kd2 1-0
 [White "Borge,N"]
 [Black "Mortensen,E"]
 [Result "0-1"]
-[ECO "B47"]
 [WhiteElo "2466"]
 [BlackElo "2424"]
+[ECO "B47"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7 5. Nc3 e6 6. g3 a6 7. Bg2 Bb4 8.
 O-O Nf6 9. Na4 O-O 10. c4 b5 11. a3 Nxd4 12. e5 Qxe5 13. Bxa8 Ba5 14. Be3
@@ -7423,9 +7379,9 @@ Ke6 39. Ba4 g5 40. Bd1 h4 41. gxh4 gxh4 42. Bf3 f5 43. h3 f4 44. Be4 Kf6
 [White "Mortensen,E"]
 [Black "Larsen,B"]
 [Result "1-0"]
-[ECO "B31"]
 [WhiteElo "2424"]
 [BlackElo "2532"]
+[ECO "B31"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Nf6 5. Qe2 a6 6. Ba4 b5 7. Bc2 Bb7 8.
 O-O d6 9. d4 cxd4 10. cxd4 Nb4 11. Bb3 Bxe4 12. Bxf7+ Kxf7 13. Ng5+ Kg8 14.
@@ -7440,9 +7396,9 @@ Nxe4 Qd7 15. Nxf6+ exf6 16. Qf3 Re8 17. Bd2 Nc6 18. Nc3 Nxd4 19. Qd5+ Ne6
 [White "Schandorff,L"]
 [Black "Nielsen,PH"]
 [Result "1/2-1/2"]
-[ECO "A36"]
 [WhiteElo "2527"]
 [BlackElo "2515"]
+[ECO "A36"]
 
 1. c4 c5 2. Nf3 g6 3. g3 Bg7 4. Bg2 Nc6 5. Nc3 e6 6. e3 Nge7 7. d4 cxd4 8.
 Nxd4 Nxd4 9. exd4 d5 10. cxd5 Nxd5 11. Nxd5 exd5 12. O-O 1/2-1/2
@@ -7454,16 +7410,16 @@ Nxd4 Nxd4 9. exd4 d5 10. cxd5 Nxd5 11. Nxd5 exd5 12. O-O 1/2-1/2
 [White "El Kher,H"]
 [Black "Hansen,SuB"]
 [Result "0-1"]
-[ECO "E15"]
 [WhiteElo "2338"]
 [BlackElo "2499"]
+[ECO "E15"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 c5 8.
 O-O O-O 9. Qc2 Be4 10. Qb2 Nc6 11. Bxb4 cxb4 12. Nbd2 d5 13. Rfd1 Rc8 14.
 a3 bxa3 15. Rxa3 a5 16. Raa1 Nb4 17. Rac1 Qe7 18. Nxe4 Nxe4 19. cxd5 exd5
 20. Bh3 Rxc1 21. Rxc1 Qf6 22. Rc7 h5 23. Qc1 g5 24. g4 Na2 25. Qe3 Qd6 26.
 Ra7 hxg4 27. Bxg4 f5 28. Nxg5 Qg6 29. Nh7 Qxg4+ 30. Kh1 Rf7 31. Rxf7 Kxf7
-32. Qh6 Nxf2+ 0-1
+32. Qh6 Nxf2# 0-1
 
 [Event "ch-DEN"]
 [Site "Aarhus DEN"]
@@ -7472,9 +7428,9 @@ Ra7 hxg4 27. Bxg4 f5 28. Nxg5 Qg6 29. Nh7 Qxg4+ 30. Kh1 Rf7 31. Rxf7 Kxf7
 [White "Hansen,LB"]
 [Black "Fries Nielsen,JO"]
 [Result "1-0"]
-[ECO "D02"]
 [WhiteElo "2565"]
 [BlackElo "2447"]
+[ECO "D02"]
 
 1. Nf3 d5 2. d4 Nc6 3. Bf4 Bg4 4. e3 e6 5. Nbd2 Bd6 6. c3 Nge7 7. Be2 O-O
 8. h4 f6 9. Bxd6 cxd6 10. h5 h6 11. Nh4 Bxe2 12. Qxe2 e5 13. O-O f5 14. f4
@@ -7491,9 +7447,9 @@ Nxd4 39. cxd4 Rd6 40. Qe5 Rd8 41. b4 1-0
 [White "Hansen,Cu"]
 [Black "Borge,N"]
 [Result "1-0"]
-[ECO "A34"]
 [WhiteElo "2608"]
 [BlackElo "2466"]
+[ECO "A34"]
 
 1. c4 Nf6 2. Nc3 c5 3. Nf3 b6 4. e4 d6 5. d4 cxd4 6. Nxd4 Bb7 7. Qe2 e6 8.
 g4 Be7 9. g5 Nfd7 10. h4 a6 11. Be3 Nc6 12. Bg2 Rc8 13. Rc1 O-O 14. O-O
@@ -7503,10 +7459,6 @@ Rce1 Qd8 27. Qxd8 Rxd8 28. Rc1 Nc6 29. Rc3 a5 30. Rfc1 Nd4 31. Kf2 Nb5 32.
 R3c2 h6 33. Ke3 d5 34. exd5 Nd6 35. Rf2 Ne8 36. Rc5 a4 37. bxa4 Nf6 38. Rb2
 Bxd5 39. Rd2 e4 40. Rd1 Ra8 41. Rcxd5 Nxd5+ 42. Rxd5 Rxa4 1-0
 
-
-5th Werther Schloss Open
--------------------------
-
 [Event "5th Schloss Open A"]
 [Site "Werther GER"]
 [Date "1999.03.26"]
@@ -7514,9 +7466,9 @@ Bxd5 39. Rd2 e4 40. Rd1 Ra8 41. Rcxd5 Nxd5+ 42. Rxd5 Rxa4 1-0
 [White "Bunzmann,D"]
 [Black "Ciaffone,R"]
 [Result "1-0"]
-[ECO "E62"]
 [WhiteElo "2555"]
 [BlackElo "2192"]
+[ECO "E62"]
 
 1. c4 d6 2. g3 g6 3. Bg2 Bg7 4. Nf3 e5 5. Nc3 Nc6 6. O-O Nf6 7. d4 O-O 8.
 d5 Ne7 9. e4 Nd7 10. b4 a5 11. Ba3 axb4 12. Bxb4 b6 13. a4 Nc5 14. a5 f5
@@ -7531,8 +7483,8 @@ Bxf3 Qxf3 27. Rb8 1-0
 [White "Otte,Marco"]
 [Black "Kalinitschew,S"]
 [Result "0-1"]
-[ECO "A21"]
 [BlackElo "2528"]
+[ECO "A21"]
 
 1. c4 e5 2. Nc3 Bb4 3. g3 Bxc3 4. dxc3 d6 5. Bg2 Ne7 6. Nf3 Nbc6 7. O-O Be6
 8. b3 f6 9. Ne1 Qd7 10. Nc2 Bh3 11. e4 h5 12. f3 Bxg2 13. Kxg2 Nd8 14. Be3
@@ -7548,8 +7500,8 @@ Kb8 33. a3 Nf6 34. Qe2 Qa8 0-1
 [White "Maksimenko,A"]
 [Black "Stephan,G"]
 [Result "1-0"]
-[ECO "A07"]
 [WhiteElo "2524"]
+[ECO "A07"]
 
 1. Nf3 d5 2. g3 Bg4 3. Bg2 Nd7 4. O-O c6 5. d3 Bxf3 6. Bxf3 Ne5 7. Bg2 Nf6
 8. Nd2 e6 9. b3 Be7 10. Bb2 Qc7 11. e4 dxe4 12. dxe4 O-O 13. Qe2 Rfd8 14.
@@ -7569,8 +7521,8 @@ Kh7 51. h5 gxh5 52. gxh5 Kg7 53. Kc2 Kh7 54. Rc7 Rxa6 55. Rxf7+ Kg8 56. Rf6
 [White "Schwarz,T"]
 [Black "Meijers,V"]
 [Result "0-1"]
-[ECO "D55"]
 [BlackElo "2425"]
+[ECO "D55"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 b6 7. Rc1 Bb7 8.
 Be2 Nfd7 9. cxd5 exd5 10. O-O a6 11. Ne5 Re8 12. Bf3 c6 13. Nxd7 Nxd7 14.
@@ -7586,9 +7538,9 @@ Qe3+ 33. Kh2 c5 34. Re1 Qf2 35. Rg1 Re6 0-1
 [White "Sulypa,A"]
 [Black "Geisler,R"]
 [Result "1-0"]
-[ECO "A55"]
 [WhiteElo "2424"]
 [BlackElo "2235"]
+[ECO "A55"]
 
 1. c4 c6 2. e4 e5 3. Nf3 d6 4. d4 Nd7 5. Nc3 Ngf6 6. Be2 Be7 7. O-O O-O 8.
 Rb1 a5 9. b3 Re8 10. Qc2 Qc7 11. Rd1 Bf8 12. h3 exd4 13. Nxd4 Nc5 14. Bf3
@@ -7602,9 +7554,9 @@ Rxe6 21. c5 h5 22. cxd6 Bxd6 23. Rxd6 Rxd6 24. Nb5 1-0
 [White "Meyer,Ju"]
 [Black "Kozakov,M"]
 [Result "0-1"]
-[ECO "B48"]
 [WhiteElo "2112"]
 [BlackElo "2420"]
+[ECO "B48"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. f4 b5 8.
 Nxc6 Qxc6 9. Bd3 Bb7 10. O-O Nf6 11. a3 b4 12. axb4 Bxb4 13. Bd4 d6 14. Qe2
@@ -7621,8 +7573,8 @@ Rc8 26. c3 g6 27. Kg4 h6 28. Ra1 f5+ 29. Kf3 g5 30. Ra7 Kc7 31. fxg5 hxg5
 [White "Seger,R"]
 [Black "Schermer,D"]
 [Result "1-0"]
-[ECO "B22"]
 [WhiteElo "2384"]
+[ECO "B22"]
 
 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 e6 6. cxd4 d6 7. a3 Bd7 8.
 Bd3 Bc6 9. O-O Be7 10. Re1 Nd7 11. b4 a6 12. Nbd2 dxe5 13. dxe5 O-O 14. Nd4
@@ -7638,8 +7590,8 @@ Ng7 33. a5 Rxd1+ 34. Qxd1 Qa7 35. Qd8+ Bf8 36. Bd4 1-0
 [White "Wolf,N"]
 [Black "Hoffmann,Al"]
 [Result "0-1"]
-[ECO "B33"]
 [BlackElo "2350"]
+[ECO "B33"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
 8. Bxf6 gxf6 9. Na3 b5 10. Nd5 f5 11. Bd3 Be6 12. Qh5 Rg8 13. Qxh7 Rg6 14.
@@ -7656,8 +7608,8 @@ Kxd6 39. Rg1 0-1
 [White "Pasalic,M"]
 [Black "Hollmann,B"]
 [Result "1-0"]
-[ECO "C98"]
 [WhiteElo "2350"]
+[ECO "C98"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
 c3 O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nf1
@@ -7672,8 +7624,8 @@ Rh8 27. Qxd6 Nc4 28. Nh5+ Kg8 29. Qg3+ Kf8 30. Qg7+ 1-0
 [White "Wiebusch,N"]
 [Black "Kandic,M"]
 [Result "0-1"]
-[ECO "A41"]
 [BlackElo "2315"]
+[ECO "A41"]
 
 1. d4 d6 2. c4 e5 3. dxe5 dxe5 4. Qxd8+ Kxd8 5. Bg5+ f6 6. Bd2 Be6 7. Nc3
 Bxc4 8. O-O-O Nd7 9. f4 c6 10. fxe5 fxe5 11. Nf3 Be7 12. Be1 Bf6 13. g4 h6
@@ -7692,9 +7644,9 @@ Rf7 50. Rg1 Rf2 51. e6 Ra2 52. Ke1 Re2+ 53. Kf1 Rxe6 54. Rxg7 d2 0-1
 [White "Peric,Sl"]
 [Black "Schuermann,T"]
 [Result "1-0"]
-[ECO "A47"]
 [WhiteElo "2300"]
 [BlackElo "2260"]
+[ECO "A47"]
 
 1. d4 e6 2. Nf3 Nf6 3. e3 b6 4. Bd3 Bb7 5. O-O Ne4 6. Nfd2 d5 7. c3 Bd6 8.
 Qg4 Nd7 9. Qxg7 Rf8 10. Qh6 Rg8 11. f3 Rg6 12. Qh3 Qg5 13. fxe4 Rh6 14. Nf3
@@ -7709,8 +7661,8 @@ Nd2 Bxh4 21. Bxh4 Rxh4 22. Rxf7+ Qxf7 23. Qxh4 Qg6 24. Qf2 h5 25. Rf1 Rg7
 [White "Adam,D"]
 [Black "Hoellmann,L"]
 [Result "0-1"]
-[ECO "B22"]
 [BlackElo "2260"]
+[ECO "B22"]
 
 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Nc3 Nxc3
 8. bxc3 e6 9. exd6 Bxd6 10. Bd3 Qa5 11. Bd2 O-O 12. Ng5 h6 13. Ne4 Be7 14.
@@ -7732,8 +7684,8 @@ Rf7 62. Ke4 Bc7 63. Rg8 Rf4+ 64. Ke3 Rf7 65. Re8+ Kf5 66. Re6 g5 67. Kd4 g4
 [White "Kaid,A"]
 [Black "Krueger,H"]
 [Result "1/2-1/2"]
-[ECO "A08"]
 [WhiteElo "2256"]
+[ECO "A08"]
 
 1. Nf3 Nf6 2. g3 d5 3. Bg2 c5 4. O-O Nc6 5. d4 cxd4 6. Nxd4 e5 7. Nxc6 bxc6
 8. c4 Bb7 9. Qa4 Qd7 10. Bg5 d4 11. Rd1 Bd6 12. e3 dxe3 13. Bxe3 Qc7 14.
@@ -7751,8 +7703,8 @@ cxb5 39. cxb5 f5 40. b6 f4 41. Rb2 e3 42. fxe3 fxe3 43. b7 e2 44. Rxe2 Rxb7
 [White "Lewin,T"]
 [Black "Gazic,J"]
 [Result "0-1"]
-[ECO "A60"]
 [BlackElo "2244"]
+[ECO "A60"]
 
 1. d4 e6 2. c4 c5 3. d5 Nf6 4. Nc3 d6 5. e4 Be7 6. f4 O-O 7. Nf3 exd5 8.
 cxd5 a6 9. a4 Re8 10. Be2 Bf8 11. Nd2 b6 12. O-O Bb7 13. Bf3 Nbd7 14. Re1
@@ -7769,8 +7721,8 @@ Kf1 h4 38. Rd8+ Kg7 39. Rcc8 h3 40. Rg8+ Kf6 0-1
 [White "Bock,J"]
 [Black "Schaar,A"]
 [Result "1/2-1/2"]
-[ECO "E08"]
 [WhiteElo "2224"]
+[ECO "E08"]
 
 1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O Nbd7 7. Qc2 c6 8.
 Rd1 Ne4 9. Ne5 Nxe5 10. dxe5 f5 11. Be3 Bd7 12. f3 Ng5 13. Nc3 Qe8 14. Qb3
@@ -7787,8 +7739,8 @@ Kh2 Qc6 33. Rd2 Qb5 34. a3 Re2+ 35. Rxe2 Qxe2+ 36. Kg1 Qe1+ 37. Kg2 Qe2+
 [White "Mussgnug,J"]
 [Black "Korte,M"]
 [Result "1/2-1/2"]
-[ECO "B33"]
 [BlackElo "2185"]
+[ECO "B33"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Bg5 12. Nc2 Rb8 13. a4 bxa4 14.
@@ -7804,8 +7756,8 @@ Bb3 axb3 27. Rxa7 Bb6 28. Rxh7 Kxh7 29. Qxg6+ Kh8 30. Qh6+ Kg8 31. Qg6+ Kh8
 [White "Cremer,J"]
 [Black "Ruerup,HH"]
 [Result "1/2-1/2"]
-[ECO "B22"]
 [WhiteElo "2180"]
+[ECO "B22"]
 
 1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Na3 Bd7 7. Nc2 Nc6 8.
 Be2 cxd4 9. Ncxd4 Nxd4 10. Qxd4 Bd6 11. O-O Bc6 12. Rd1 Be7 13. Qxd5 Bxd5
@@ -7819,8 +7771,8 @@ Be2 cxd4 9. Ncxd4 Nxd4 10. Qxd4 Bd6 11. O-O Bc6 12. Rd1 Be7 13. Qxd5 Bxd5
 [White "Voss,M"]
 [Black "Menk,R"]
 [Result "0-1"]
-[ECO "E11"]
 [BlackElo "2179"]
+[ECO "E11"]
 
 1. d4 e6 2. c4 Nf6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Bxd2+ 6. Qxd2 b6 7. Qc2
 Bb7 8. Bg5 h6 9. Bxf6 Qxf6 10. e4 Qg6 11. Bd3 Qxg2 12. Ke2 f5 13. Rhg1 Qh3
@@ -7837,8 +7789,8 @@ Qxb3+ 38. Kc1 Qxa3+ 39. Kb1 Qb3+ 40. Kc1 Qc3+ 41. Kb1 Nf5 0-1
 [White "Hofene,D"]
 [Black "Schroeter,HC"]
 [Result "1/2-1/2"]
-[ECO "B23"]
 [WhiteElo "2170"]
+[ECO "B23"]
 
 1. e4 c5 2. Nc3 e6 3. f4 d5 4. Nf3 Nc6 5. Bb5 a6 6. Bxc6+ bxc6 7. d3 Rb8 8.
 O-O Nf6 9. e5 Ng4 10. Qe2 h5 11. f5 exf5 12. h3 Be6 13. hxg4 hxg4 14. Ng5
@@ -7852,8 +7804,8 @@ Be7 15. Nxe6 fxe6 16. Qf2 Kd7 17. Ne2 g5 18. c4 Qf8 19. g3 Rh3 20. Qg2 Qh6
 [White "Maetzing,HD"]
 [Black "Bacholke,M"]
 [Result "1-0"]
-[ECO "A00"]
 [BlackElo "2155"]
+[ECO "A00"]
 
 1. Nc3 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Bb6 6. Nd5 Nf6 7. Nxb6
 axb6 8. Nxc6 bxc6 9. Bg5 O-O 10. Qd4 d6 11. Bxf6 Qxf6 12. Qxf6 gxf6 13. e3
@@ -7870,9 +7822,9 @@ hxg5+ Kg7 39. f6+ Kf8 40. Re2 Ba4 41. Rh2 1-0
 [White "Grosselohmann,G"]
 [Black "Loew,G"]
 [Result "1/2-1/2"]
-[ECO "A90"]
 [WhiteElo "2135"]
 [BlackElo "2329"]
+[ECO "A90"]
 
 1. d4 d5 2. Nf3 e6 3. g3 c6 4. Bg2 f5 5. O-O Nf6 6. c4 Bd6 7. b3 Qe7 8. a4
 a5 9. Ba3 Bxa3 10. Nxa3 b6 11. cxd5 cxd5 12. Rc1 O-O 13. Nb5 Na6 14. Ne5
@@ -7889,8 +7841,8 @@ Kc7 33. Kd2 Bc6 34. Be2 g6 35. Kc3 Kd7 36. Bd1 b5 37. Kd4 bxa4 38. bxa4 Kc7
 [White "Fenner,M"]
 [Black "Mroczek,M"]
 [Result "0-1"]
-[ECO "C00"]
 [BlackElo "2132"]
+[ECO "C00"]
 
 1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Nc6 5. g3 dxe4 6. dxe4 e5 7. Bb5 Bc5
 8. Nxe5 Bxf2+ 9. Kxf2 Qd4+ 10. Kg2 Qxe5 11. Bxc6+ bxc6 12. Nf3 Qh5 13. Bg5
@@ -7903,8 +7855,8 @@ Bh3+ 14. Kg1 Bg4 15. Qd4 Bxf3 16. Qe5+ Kf8 17. Rf1 Bxh1 18. Kxh1 0-1
 [White "Goessling,G"]
 [Black "Amrhein,T"]
 [Result "1-0"]
-[ECO "C43"]
 [WhiteElo "2150"]
+[ECO "C43"]
 
 1. e4 e5 2. Nf3 Nf6 3. d4 exd4 4. e5 Qe7 5. Be2 Ne4 6. O-O c5 7. Re1 d5 8.
 exd6 Nxd6 9. Bb5+ Nxb5 10. Rxe7+ Bxe7 11. Bf4 Be6 12. Qd3 a6 13. Nbd2 O-O
@@ -7919,8 +7871,8 @@ Rd7 26. Nxd4 Rxd4 27. Rc1 Bd5 28. Nc3 Rbd2 29. h3 h6 30. Nxd5 1-0
 [White "Tannebaum,G"]
 [Black "Schnur,G"]
 [Result "0-1"]
-[ECO "D05"]
 [BlackElo "2113"]
+[ECO "D05"]
 
 1. d4 e6 2. Nf3 d5 3. e3 c5 4. c3 Nc6 5. Nbd2 Nf6 6. Bd3 Be7 7. O-O Qc7 8.
 Qe2 b6 9. dxc5 Bxc5 10. e4 d4 11. cxd4 Bxd4 12. Nb3 Be5 13. Nxe5 Qxe5 14.
@@ -7938,8 +7890,8 @@ Kc5 45. Kf3 Kc4 46. Ke3 Rc3+ 47. Kd2 Rb3 0-1
 [White "Schaffarczyk,A"]
 [Black "Roever,L"]
 [Result "1-0"]
-[ECO "B15"]
 [WhiteElo "2117"]
+[ECO "B15"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3
 O-O 8. Qc2 h6 9. Ne2 c5 10. Be3 Qc7 11. O-O-O cxd4 12. Nxd4 a6 13. Kb1 Nc6
@@ -7947,7 +7899,7 @@ O-O 8. Qc2 h6 9. Ne2 c5 10. Be3 Qc7 11. O-O-O cxd4 12. Nxd4 a6 13. Kb1 Nc6
 g4 Bf4 21. Qe2 Qe6 22. Qc2 Qc6 23. d5 Qxc2+ 24. Bxc2 Bd7 25. Bc5 Rfc8 26.
 Ba3 b5 27. Be4 Rab8 28. Bb4 Rc4 29. a3 g6 30. d6 Bg5 31. Bd5 Rcc8 32. f4
 Bf6 33. Rxh6 Bg7 34. Rxg6 Kf8 35. Rg5 Bf6 36. Rh5 Kg7 37. g5 Bg4 38. gxf6+
-Kxf6 39. Rh6+ Kg7 40. Rdh1 Bf5+ 41. Ka2 Rh8 42. Bc3+ Kf8 43. Rxh8+ 1-0
+Kxf6 39. Rh6+ Kg7 40. Rdh1 Bf5+ 41. Ka2 Rh8 42. Bc3+ Kf8 43. Rxh8# 1-0
 
 [Event "5th Schloss Open A"]
 [Site "Werther GER"]
@@ -7956,8 +7908,8 @@ Kxf6 39. Rh6+ Kg7 40. Rdh1 Bf5+ 41. Ka2 Rh8 42. Bc3+ Kf8 43. Rxh8+ 1-0
 [White "Fischer,Bernd"]
 [Black "Erpel,W"]
 [Result "0-1"]
-[ECO "D02"]
 [BlackElo "2115"]
+[ECO "D02"]
 
 1. d4 e6 2. Nf3 Nf6 3. g3 d5 4. Bg2 Nbd7 5. c3 Ne4 6. Qc2 f5 7. Ne5 Bd6 8.
 f4 Ndf6 9. b3 O-O 10. Ba3 c5 11. Nd2 Nxd2 12. Qxd2 cxd4 13. Bxd6 dxc3 14.
@@ -7975,8 +7927,8 @@ Kf3 h6 39. Kf2 g5 40. hxg5 hxg5 41. Kf3 b5 42. g4 f4 43. Kf2 b4 44. Kf3 Ne6
 [White "Schuh,D"]
 [Black "Venderbosch,F"]
 [Result "1-0"]
-[ECO "C47"]
 [WhiteElo "2060"]
+[ECO "C47"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. exd5
 cxd5 8. O-O Be7 9. Bg5 O-O 10. Nc3 c6 11. Re1 Qd6 12. Ne2 Ng4 13. Bf4 Qf6
@@ -7984,7 +7936,7 @@ cxd5 8. O-O Be7 9. Bg5 O-O 10. Nc3 c6 11. Re1 Qd6 12. Ne2 Ng4 13. Bf4 Qf6
 20. Qxe3 fxe3 21. Rxf6 c5 22. c4 Be6 23. cxd5 Bxd5 24. Rf5 Rad8 25. Nf4 c4
 26. Be2 Be4 27. Re5 Rd4 28. Rd1 Rfd8 29. Rxd4 Rxd4 30. Bg4 f6 31. Re7 f5
 32. Bh5 Rd2 33. Be2 Rxb2 34. Bxc4+ Kf8 35. Rxh7 Rf2 36. Ne6+ Kg8 37. Ng5+
-Kf8 38. Rf7+ Ke8 39. Bb5+ Kd8 40. Ne6+ Kc8 41. Ba6+ Kb8 42. Rf8+ 1-0
+Kf8 38. Rf7+ Ke8 39. Bb5+ Kd8 40. Ne6+ Kc8 41. Ba6+ Kb8 42. Rf8# 1-0
 
 [Event "5th Schloss Open A"]
 [Site "Werther GER"]
@@ -7993,8 +7945,8 @@ Kf8 38. Rf7+ Ke8 39. Bb5+ Kd8 40. Ne6+ Kc8 41. Ba6+ Kb8 42. Rf8+ 1-0
 [White "Thies,D"]
 [Black "Mussgnug,O"]
 [Result "0-1"]
-[ECO "B12"]
 [BlackElo "2055"]
+[ECO "B12"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Ne7 7. Bd3 Bg6 8.
 c4 dxc4 9. Bxc4 Nb6 10. Be2 Ned5 11. Bg5 Be7 12. Bxe7 Qxe7 13. Nc3 O-O 14.
@@ -8011,11 +7963,11 @@ Nd2 b5 39. Kg2 Kh7 40. Kf3 Kg6 41. Ne4 Nb1 0-1
 [White "Chapman,Al"]
 [Black "Hoffmann,W"]
 [Result "1/2-1/2"]
-[ECO "B12"]
 [WhiteElo "2039"]
+[ECO "B12"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. a3 c5 6. Bb5+ Nc6 7. dxc5 Bxc5 8.
-b4 Bb6 9. Nd4 Nge7 10. Nxf5 Nxf5 11. Bb2 Qc7 12. O-O O-O 13. Re1 Rac8 14.
+b4 Bb6 9. Nd4 Ne7 10. Nxf5 Nxf5 11. Bb2 Qc7 12. O-O O-O 13. Re1 Rac8 14.
 Bd3 Nfe7 15. Nc3 a6 16. b5 Nxe5 17. Nxd5 Bxf2+ 18. Kf1 Nxd5 19. Bxe5 Qc5
 20. Qh5 Nf6 21. Qh3 Bxe1 22. Rxe1 Rfd8 23. bxa6 bxa6 24. Re3 Rxd3 25. cxd3
 Qc1+ 26. Re1 Qxa3 27. Bxf6 gxf6 1/2-1/2
@@ -8042,9 +7994,9 @@ gxf7+ Rxf7 27. Bxe3 Rxf1+ 28. Bxf1 Qxe3 29. Kg2 0-1
 [White "Hoellmann,L"]
 [Black "Bunzmann,D"]
 [Result "1/2-1/2"]
-[ECO "A40"]
 [WhiteElo "2260"]
 [BlackElo "2555"]
+[ECO "A40"]
 
 1. d4 e6 2. c4 Bb4+ 3. Bd2 a5 4. g3 Nc6 5. Nf3 d6 6. Bg2 e5 7. Bxb4 axb4 8.
 d5 Nb8 9. Qd2 Na6 10. a3 bxa3 11. Rxa3 Nh6 12. O-O O-O 13. Nc3 Bg4 14. Ng5
@@ -8061,9 +8013,9 @@ Kf3 Qd3+ 39. Kf2 Qd2+ 40. Kf3 Qd3+ 1/2-1/2
 [White "Kalinitschew,S"]
 [Black "Gazic,J"]
 [Result "1-0"]
-[ECO "A43"]
 [WhiteElo "2528"]
 [BlackElo "2244"]
+[ECO "A43"]
 
 1. d4 c5 2. d5 Nf6 3. Nc3 d6 4. e4 g6 5. Nf3 Bg7 6. Bb5+ Nbd7 7. a4 O-O 8.
 O-O Ne5 9. Nxe5 dxe5 10. Be3 Qc7 11. Be2 Bd7 12. f3 Ne8 13. Bb5 b6 14. Bg5
@@ -8079,9 +8031,9 @@ axb5 33. axb5 Rd5 34. b6 1-0
 [White "Menk,R"]
 [Black "Maksimenko,A"]
 [Result "0-1"]
-[ECO "E67"]
 [WhiteElo "2179"]
 [BlackElo "2524"]
+[ECO "E67"]
 
 1. Nf3 d6 2. d4 Nf6 3. g3 Nbd7 4. Bg2 e5 5. d5 g6 6. O-O Bg7 7. c4 O-O 8.
 Nc3 a5 9. e4 Nc5 10. Re1 c6 11. Rb1 Qc7 12. b3 Bd7 13. Bb2 cxd5 14. Nxd5
@@ -8098,9 +8050,9 @@ Rb8 39. Ra6+ Kg7 0-1
 [White "Meijers,V"]
 [Black "Goessling,G"]
 [Result "1-0"]
-[ECO "C63"]
 [WhiteElo "2425"]
 [BlackElo "2150"]
+[ECO "C63"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. O-O Bc5 7. Bxc6
 bxc6 8. Nxe5 O-O 9. Bg5 Qe8 10. Bxf6 Rxf6 11. Nd3 Bd4 12. Nd2 d6 13. Kh1
@@ -8114,9 +8066,9 @@ Qg6 14. Qe2 Ba6 15. Rab1 Raf8 16. f4 Bb6 17. c4 d5 18. b3 Re8 19. Ne5 Qg3
 [White "Mroczek,M"]
 [Black "Sulypa,A"]
 [Result "0-1"]
-[ECO "A47"]
 [WhiteElo "2132"]
 [BlackElo "2424"]
+[ECO "A47"]
 
 1. Nf3 c5 2. c3 Nf6 3. d4 b6 4. g3 Bb7 5. Bg2 e6 6. O-O Be7 7. Bg5 O-O 8.
 Nbd2 h6 9. Bxf6 Bxf6 10. e4 cxd4 11. cxd4 Nc6 12. e5 Be7 13. Ne4 Nb4 14.
@@ -8131,9 +8083,9 @@ Nde4 Nc4 21. Rac1 a6 22. Na4 b5 23. Nac5 Bxc5 24. dxc5 Qxe5 25. Rfe1 Qc7
 [White "Kozakov,M"]
 [Black "Schaffarczyk,A"]
 [Result "1-0"]
-[ECO "B81"]
 [WhiteElo "2420"]
 [BlackElo "2117"]
+[ECO "B81"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 Nc6 7. g5 Nd7 8.
 Be3 Be7 9. h4 O-O 10. Qe2 a6 11. O-O-O Nxd4 12. Bxd4 b5 13. f4 b4 14. Na4
@@ -8148,9 +8100,9 @@ Bg2 Nc3+ 28. Bxc3 bxc3 29. Nf6+ Kh8 1-0
 [White "Schnur,G"]
 [Black "Seger,R"]
 [Result "0-1"]
-[ECO "D85"]
 [WhiteElo "2113"]
 [BlackElo "2384"]
+[ECO "D85"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
 8. Be3 Qa5 9. Qd2 Nc6 10. Rc1 cxd4 11. cxd4 Qxd2+ 12. Kxd2 O-O 13. Bb5 f5
@@ -8167,9 +8119,9 @@ a4 38. f4 Rd5 39. Ke3 Bc4 40. Nb4 gxf4+ 41. Kxf4 Bxa6 0-1
 [White "Hoffmann,Al"]
 [Black "Schuh,D"]
 [Result "1-0"]
-[ECO "B76"]
 [WhiteElo "2350"]
 [BlackElo "2060"]
+[ECO "B76"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8.
 Qd2 Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 e5 13. Bc5 Be6 14.
@@ -8185,9 +8137,9 @@ Kxf8 33. Rxh7 Qe2 34. Qh5 Qd2+ 35. Kb2 Rd8 36. Qg6 Qd4+ 37. Ka2 1-0
 [White "Erpel,W"]
 [Black "Pasalic,M"]
 [Result "0-1"]
-[ECO "B22"]
 [WhiteElo "2115"]
 [BlackElo "2350"]
+[ECO "B22"]
 
 1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 e6 5. Nf3 Nf6 6. Be2 Nc6 7. O-O cxd4
 8. cxd4 Be7 9. Nc3 Qd8 10. a3 O-O 11. h3 b6 12. Be3 Bb7 13. Rc1 Rc8 14. Qa4
@@ -8208,8 +8160,8 @@ Bc1 Be1 65. Ba3 Kd6 66. Kc2 Kc6 67. Bb2 Kd5 68. Ba3 Kc4 69. Bb2 Bg3 0-1
 [White "Kandic,M"]
 [Black "Maetzing,HD"]
 [Result "1-0"]
-[ECO "B00"]
 [WhiteElo "2315"]
+[ECO "B00"]
 
 1. e4 a6 2. d4 b5 3. f4 Bb7 4. Bd3 Nf6 5. Qe2 e6 6. Nf3 c5 7. c3 Be7 8. O-O
 cxd4 9. cxd4 Nc6 10. a3 Nxd4 11. Nxd4 Bc5 12. Be3 Qb6 13. Nc2 Nxe4 14. b4
@@ -8226,11 +8178,11 @@ Nb3 Bc4 21. Na5 d5 22. Naxc4 dxc4 23. Rad1 Rhd8 24. Nd5+ Kf8 25. Nc7 Rxd1
 [White "Mussgnug,O"]
 [Black "Peric,Sl"]
 [Result "0-1"]
-[ECO "C15"]
 [WhiteElo "2055"]
 [BlackElo "2300"]
+[ECO "C15"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Nge2 Nc6 5. e5 f6 6. exf6 Nxf6 7. a3 Bxc3+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Nc6 5. e5 f6 6. exf6 Nxf6 7. a3 Bxc3+
 8. Nxc3 e5 9. Bb5 e4 10. Bg5 O-O 11. h3 Ne7 12. Qd2 c6 13. Be2 Nf5 14. g4
 Nd6 15. O-O-O b5 16. Rdg1 a5 17. Nd1 b4 18. Rg3 Qb6 19. Bxf6 Rxf6 20. a4
 Ba6 21. Bxa6 Qxa6 22. b3 Raf8 23. h4 Qc8 24. Rh2 Qc7 25. Qe2 Qa7 26. Qd2
@@ -8244,8 +8196,8 @@ Re8 33. Kb2 Nxf2 34. Qxf2 Qxd4+ 35. Kb1 Rxe3 36. Rxf3 Qd1+ 0-1
 [White "Kuhn,Gerd"]
 [Black "Kaid,A"]
 [Result "1/2-1/2"]
-[ECO "A81"]
 [BlackElo "2256"]
+[ECO "A81"]
 
 1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 d5 5. O-O Bd6 6. Bf4 Bxf4 7. gxf4 O-O
 8. Nbd2 Ne4 9. Re1 Kh8 10. Nf1 g5 11. fxg5 Nxg5 12. Ne5 Nd7 13. f4 Nxe5 14.
@@ -8262,8 +8214,8 @@ Nxe6 h4 39. Ng5 h3 40. Nxh3 Kxh3 41. f5 Kg4 42. f6 Bc4 43. b3 1/2-1/2
 [White "Ruerup,HH"]
 [Black "Bock,J"]
 [Result "0-1"]
-[ECO "C02"]
 [BlackElo "2224"]
+[ECO "C02"]
 
 1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. Bd3 cxd4 6. O-O f6 7. Bb5 Bd7 8.
 Bxc6 bxc6 9. Qxd4 fxe5 10. Nxe5 Nf6 11. Nd2 Bd6 12. Ndf3 O-O 13. b3 Qc7 14.
@@ -8277,9 +8229,9 @@ a5 21. Rde1 Bc6 22. Qa3 Rxf3 23. gxf3 Ng5 24. Re4 Nxf3+ 0-1
 [White "Korte,M"]
 [Black "Chapman,Al"]
 [Result "0-1"]
-[ECO "B33"]
 [WhiteElo "2185"]
 [BlackElo "2039"]
+[ECO "B33"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Be6 12. Nc2 Bg5 13. a4 bxa4 14.
@@ -8295,8 +8247,8 @@ Ra8+ Kf7 32. Ra1 Bd3 33. Nxd6+ Ke6 0-1
 [White "Schaar,A"]
 [Black "Cremer,J"]
 [Result "1/2-1/2"]
-[ECO "A48"]
 [BlackElo "2180"]
+[ECO "A48"]
 
 1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Bxf6 Bxf6 5. e4 d6 6. Nbd2 c5 7. c3 O-O
 8. Be2 cxd4 9. Nxd4 Nc6 10. N2b3 Qb6 11. Qd2 Nxd4 12. Nxd4 Rd8 13. Bc4 Qc5
@@ -8310,9 +8262,9 @@ Rfd1 Bg7 21. Rd3 h5 1/2-1/2
 [White "Loew,G"]
 [Black "Hofene,D"]
 [Result "1/2-1/2"]
-[ECO "A48"]
 [WhiteElo "2329"]
 [BlackElo "2170"]
+[ECO "A48"]
 
 1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. e3 d6 5. Bd3 O-O 6. O-O Qe8 7. c3 e5 8.
 e4 Nc6 9. dxe5 dxe5 10. Qc2 Nh5 11. Nbd2 Nf4 12. Rad1 Bg4 13. Rfe1 h6 14.
@@ -8326,8 +8278,8 @@ Qa4 Nb8 21. Ng1 b5 22. Qc2 Bxe2+ 23. Nxe2 g5 24. Nf3 c5 1/2-1/2
 [White "Schroeter,HC"]
 [Black "Grosselohmann,G"]
 [Result "0-1"]
-[ECO "A39"]
 [BlackElo "2135"]
+[ECO "A39"]
 
 1. c4 c5 2. Nc3 Nf6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O Nc6 7. d4 cxd4 8.
 Nxd4 Nxd4 9. Qxd4 d6 10. Qh4 Be6 11. Bh6 Bxh6 12. Qxh6 Bxc4 13. Qe3 Qd7 14.
@@ -8378,8 +8330,8 @@ Bxb6 axb5 39. Bxc7+ Kxc7 40. axb5 Kb6 41. Kd3 Kxb5 42. Ke4 Kc5 43. f4 exf4
 [White "Bacholke,M"]
 [Black "Adam,D"]
 [Result "0-1"]
-[ECO "B01"]
 [WhiteElo "2155"]
+[ECO "B01"]
 
 1. e4 d5 2. exd5 Nf6 3. Bb5+ Bd7 4. Bc4 Bg4 5. Nf3 Nxd5 6. Nc3 e6 7. O-O
 Be7 8. h3 Bh5 9. g4 Bg6 10. Ne5 Bd6 11. Bxd5 exd5 12. Re1 Kf8 13. Nxd5 Bxe5
@@ -8392,8 +8344,8 @@ Be7 8. h3 Bh5 9. g4 Bg6 10. Ne5 Bd6 11. Bxd5 exd5 12. Re1 Kf8 13. Nxd5 Bxe5
 [White "Ciaffone,R"]
 [Black "Lewin,T"]
 [Result "1/2-1/2"]
-[ECO "B49"]
 [WhiteElo "2192"]
+[ECO "B49"]
 
 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O b5 8.
 Nxc6 dxc6 9. Be3 Nf6 10. a3 Bb7 11. f4 c5 12. Bf3 Rd8 13. Qe2 Be7 14. Qf2
@@ -8450,8 +8402,8 @@ Bd3 45. Rd8 a4 46. R2xd3 Rxd3 47. Rxd3 b3 48. Rd7+ Kf6 49. Rb7 Kf5 50. Rb4
 [White "Geisler,R"]
 [Black "Tannebaum,G"]
 [Result "1-0"]
-[ECO "E61"]
 [WhiteElo "2235"]
+[ECO "E61"]
 
 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. Nf3 c6 5. e3 Nf6 6. Be2 O-O 7. Qc2 Qc7 8.
 O-O Nbd7 9. a4 a5 10. b3 e5 11. Ba3 Re8 12. Rac1 Bf8 13. Rfd1 h6 14. h3 Nb8
@@ -8470,8 +8422,8 @@ hxg5 fxg5 52. f3 Ke7 53. Re2 Rb1+ 54. Kf2 Ne6 55. Nxe6 Kxe6 56. fxe4 1-0
 [White "Amrhein,T"]
 [Black "Meyer,Ju"]
 [Result "1/2-1/2"]
-[ECO "B22"]
 [BlackElo "2112"]
+[ECO "B22"]
 
 1. e4 c5 2. c3 d6 3. d4 Nf6 4. dxc5 Nc6 5. Bc4 Nxe4 6. Bxf7+ Kxf7 7. Qd5+
 e6 8. Qxe4 d5 9. Qf3+ Qf6 10. Be3 Ne5 11. Qxf6+ gxf6 12. b4 Rg8 13. g3 Bd7
@@ -8551,25 +8503,13 @@ Ka6 32. Bb6 Kb5 33. Kf1 Nxa5 34. Bxa5 Ra7 35. Rd1 Kxa5 36. Rxd6 0-1
 [Event "5th Schloss Open A"]
 [Site "Werther GER"]
 [Date "1999.03.27"]
-[Round "2"]
-[White "Schuermann,T"]
-[Black "Koehler,W"]
-[Result "0-1"]
-[ECO "A00"]
-[WhiteElo "2260"]
-
-0-1
-
-[Event "5th Schloss Open A"]
-[Site "Werther GER"]
-[Date "1999.03.27"]
 [Round "3"]
 [White "Seger,R"]
 [Black "Kalinitschew,S"]
 [Result "1-0"]
-[ECO "B22"]
 [WhiteElo "2384"]
 [BlackElo "2528"]
+[ECO "B22"]
 
 1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Be3 cxd4 6. Bxd4 Nc6 7. Nf3 Nh6
 8. Nbd2 Nf5 9. Nb3 Be7 10. Be2 O-O 11. O-O Re8 12. Re1 Nfxd4 13. Nbxd4 Bf6
@@ -8584,9 +8524,9 @@ Ka6 32. Bb6 Kb5 33. Kf1 Nxa5 34. Bxa5 Ra7 35. Rd1 Kxa5 36. Rxd6 0-1
 [White "Maksimenko,A"]
 [Black "Hoffmann,Al"]
 [Result "0-1"]
-[ECO "A35"]
 [WhiteElo "2524"]
 [BlackElo "2350"]
+[ECO "A35"]
 
 1. Nf3 c5 2. c4 Nf6 3. Nc3 Nc6 4. e3 e5 5. d4 cxd4 6. exd4 e4 7. Ne5 Bd6 8.
 Bf4 Qe7 9. c5 Bb8 10. Nb5 O-O 11. Nd6 e3 12. fxe3 Bxd6 13. cxd6 Qxd6 14. a3
@@ -8599,12 +8539,12 @@ Nd5 15. Nxf7 Qe7 16. Nh6+ Kh8 17. Bg3 Nxe3 0-1
 [White "Pasalic,M"]
 [Black "Meijers,V"]
 [Result "1-0"]
-[ECO "E04"]
 [WhiteElo "2350"]
 [BlackElo "2425"]
+[ECO "E04"]
 
 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 Nc6 6. Qa4 Bb4+ 7. Bd2 Nd5
-8. Bxb4 Ndxb4 9. Nc3 Bd7 10. O-O a6 11. a3 b5 12. Qd1 Nd5 13. Ne4 O-O 14.
+8. Bxb4 Nxb4 9. Nc3 Bd7 10. O-O a6 11. a3 b5 12. Qd1 Nd5 13. Ne4 O-O 14.
 Qc2 Qe7 15. Rad1 Rfd8 16. e3 Be8 17. Neg5 g6 18. e4 Nb6 19. e5 Nd5 20. Rfe1
 Na5 21. h4 Nb3 22. h5 c5 23. hxg6 fxg6 24. Ne4 Kg7 25. dxc5 Nxc5 26. Nxc5
 Qxc5 27. Nd4 Bf7 28. Re4 Rd7 29. Rh4 Rad8 30. Qe4 Ne7 31. Qe3 Kh8 32. Qh6
@@ -8623,9 +8563,9 @@ Qxf5+ Kg7 44. Qf6+ Kh7 45. e6 Bxe6 46. Qxe6 Rxg3 47. Qxa6 Rb3 48. Qf6 Kg8
 [White "Sulypa,A"]
 [Black "Kandic,M"]
 [Result "1-0"]
-[ECO "D36"]
 [WhiteElo "2424"]
 [BlackElo "2315"]
+[ECO "D36"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. Qc2 Be7 7. e3 O-O 8.
 Bd3 Nbd7 9. Nge2 Re8 10. O-O Nf8 11. f3 h6 12. Bh4 Nh5 13. Bf2 Bd6 14. Kh1
@@ -8638,9 +8578,9 @@ Ne6 15. Rae1 Qg5 16. g4 Qf6 17. Ng1 Ng5 18. Bh4 1-0
 [White "Peric,Sl"]
 [Black "Kozakov,M"]
 [Result "1/2-1/2"]
-[ECO "A49"]
 [WhiteElo "2300"]
 [BlackElo "2420"]
+[ECO "A49"]
 
 1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. a4 a5 7. Nc3 Nc6 8.
 d5 Nb4 9. Nd4 Bd7 10. e4 c6 11. h3 cxd5 12. exd5 Qc8 13. Kh2 Qc4 14. Ndb5
@@ -8659,15 +8599,15 @@ Rb5 44. h4 Kf8 45. Rh7 Rb3 46. h5 b5 47. h6 Re3 48. Rh8+ Kf7 49. f5 Re2+
 [White "Bunzmann,D"]
 [Black "Grosselohmann,G"]
 [Result "1-0"]
-[ECO "A39"]
 [WhiteElo "2555"]
 [BlackElo "2135"]
+[ECO "A39"]
 
 1. c4 c5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. d4 cxd4 7. Nxd4 Nc6
 8. Nc3 Nxd4 9. Qxd4 d6 10. Qd2 Be6 11. Bxb7 Rb8 12. Bd5 Nxd5 13. Nxd5 Qd7
 14. e4 Bh3 15. Re1 Bg4 16. Rb1 Rfc8 17. Qd3 f5 18. e5 f4 19. exd6 Bf5 20.
 Qd1 Bxb1 21. Bxf4 Bf5 22. Rxe7 Qd8 23. d7 Rxb2 24. dxc8=Q Qxc8 25. Rxg7+
-Kh8 26. Be5 Rb1 27. Rxg6+ 1-0
+Kh8 26. Be5 Rb1 27. Rxg6# 1-0
 
 [Event "5th Schloss Open A"]
 [Site "Werther GER"]
@@ -8676,9 +8616,9 @@ Kh8 26. Be5 Rb1 27. Rxg6+ 1-0
 [White "Chapman,Al"]
 [Black "Hoellmann,L"]
 [Result "0-1"]
-[ECO "B12"]
 [WhiteElo "2039"]
 [BlackElo "2260"]
+[ECO "B12"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. a3 c5 6. dxc5 Bxc5 7. Bb5+ Nd7 8.
 b4 Bb6 9. Bb2 Rc8 10. Ba4 Ne7 11. Nc3 a6 12. O-O O-O 13. Qe2 Bg4 14. Rad1
@@ -8694,8 +8634,8 @@ Rg1 Nh3 21. Rg3 Nxf2+ 22. Kg2 Nxd1 23. Qxd1 Rc4 24. Qe1 Rfc8 25. Ne2 Kh8
 [White "Bock,J"]
 [Black "Kuhn,Gerd"]
 [Result "1-0"]
-[ECO "A44"]
 [WhiteElo "2224"]
+[ECO "A44"]
 
 1. d4 c5 2. d5 e5 3. e4 d6 4. Nc3 g6 5. Nf3 Bg7 6. Be2 Na6 7. O-O Nc7 8. a4
 Nf6 9. Nd2 O-O 10. Nc4 Nfe8 11. Ra3 a6 12. Rb3 Rb8 13. Nb6 Na8 14. a5 Nxb6
@@ -8712,8 +8652,8 @@ Qe2 c4 40. Qh5 cxb3 41. Qh6+ 1-0
 [White "Mussgnug,J"]
 [Black "Menk,R"]
 [Result "1-0"]
-[ECO "C05"]
 [BlackElo "2179"]
+[ECO "C05"]
 
 1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 b6 7. Ne2 Ba6 8.
 Bc2 Nc6 9. Nf3 Rc8 10. Bg5 Qc7 11. Rc1 h6 12. Be3 cxd4 13. cxd4 Bxe2 14.
@@ -8737,9 +8677,9 @@ Bxd4 Nf3 64. Be3 d4 65. Bf4+ Ke6 66. Bc4+ Kf5 67. Bc7 Nf7 68. Kxf7 Nxg5+
 [White "Kaid,A"]
 [Black "Mussgnug,O"]
 [Result "0-1"]
-[ECO "A49"]
 [WhiteElo "2256"]
 [BlackElo "2055"]
+[ECO "A49"]
 
 1. Nf3 Nf6 2. g3 d6 3. d4 g6 4. b3 Bg7 5. Bb2 Ne4 6. Bg2 f5 7. O-O Nd7 8.
 Nbd2 Ndf6 9. a4 e6 10. Nc4 O-O 11. Ne1 Bd7 12. Qc1 Bc6 13. f3 d5 14. Ne5
@@ -8756,9 +8696,9 @@ Kg1 Qe3+ 39. Kf1 Qc1+ 0-1
 [White "Gazic,J"]
 [Black "Geisler,R"]
 [Result "0-1"]
-[ECO "B01"]
 [WhiteElo "2244"]
 [BlackElo "2235"]
+[ECO "B01"]
 
 1. e4 d5 2. exd5 Nf6 3. Nf3 Qxd5 4. d4 Bg4 5. Be2 Nc6 6. c4 Qd7 7. h3 Bh5
 8. g4 Bg6 9. d5 Nb4 10. Ne5 Qd6 11. Qa4+ c6 12. Bf4 Bc2 13. b3 Nd7 14. Nxd7
@@ -8772,8 +8712,8 @@ Rxc2 e6 21. Nd3 Rxd3 22. Qa4 Rxd2+ 23. Rxd2 Qe4+ 0-1
 [White "Cremer,J"]
 [Black "Schermer,D"]
 [Result "1-0"]
-[ECO "B30"]
 [WhiteElo "2180"]
+[ECO "B30"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 Na5 4. b3 a6 5. Be2 d5 6. exd5 Qxd5 7. Bb2 Bf5
 8. O-O Nf6 9. c4 Qd6 10. d4 cxd4 11. Nxd4 Bg6 12. Qe1 Nc6 13. Nxc6 Qxc6 14.
@@ -8789,8 +8729,8 @@ Bxg6+ 1-0
 [White "Hofene,D"]
 [Black "Schaar,A"]
 [Result "1/2-1/2"]
-[ECO "B01"]
 [WhiteElo "2170"]
+[ECO "B01"]
 
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. g3 c6 5. Bg2 Bf5 6. Nge2 e6 7. O-O Nf6
 8. Nd4 Bg6 9. Qe2 Be7 10. Re1 O-O 11. d3 Nbd7 12. Nb3 Qc7 13. Bf4 Bd6 14.
@@ -8803,8 +8743,8 @@ Bxd6 Qxd6 15. Na5 Qc7 16. Nc4 Rad8 17. a4 1/2-1/2
 [White "Otte,Marco"]
 [Black "Mroczek,M"]
 [Result "1/2-1/2"]
-[ECO "A15"]
 [BlackElo "2132"]
+[ECO "A15"]
 
 1. c4 e6 2. Nf3 b6 3. g3 Bb7 4. Bg2 Be7 5. O-O Nf6 6. d3 d5 7. Nbd2 O-O 8.
 Rb1 c5 9. cxd5 exd5 10. b3 d4 11. Bb2 Nd5 12. Qc1 Nc6 13. a3 Rc8 14. Qc2
@@ -8823,9 +8763,9 @@ Rc2 51. Kg4 Rc4+ 1/2-1/2
 [White "Goessling,G"]
 [Black "Loew,G"]
 [Result "1-0"]
-[ECO "C43"]
 [WhiteElo "2150"]
 [BlackElo "2329"]
+[ECO "C43"]
 
 1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O
 Qh4 8. c4 O-O-O 9. Nc3 Bd6 10. g3 Nxg3 11. fxg3 Bxg3 12. Qe2 Bxh2+ 13. Qxh2
@@ -8841,8 +8781,8 @@ e7 1-0
 [White "Wiebusch,N"]
 [Black "Schnur,G"]
 [Result "0-1"]
-[ECO "D40"]
 [BlackElo "2113"]
+[ECO "D40"]
 
 1. d4 d5 2. c4 e6 3. Nf3 c5 4. e3 Nc6 5. Nc3 Nf6 6. Be2 a6 7. O-O Bd6 8.
 Re1 O-O 9. a3 dxc4 10. dxc5 Bxc5 11. Bxc4 b5 12. Bd3 Bb7 13. Qc2 Qb6 14. b4
@@ -8859,8 +8799,8 @@ Rd8 0-1
 [White "Schaffarczyk,A"]
 [Black "Fenner,M"]
 [Result "1/2-1/2"]
-[ECO "B96"]
 [WhiteElo "2117"]
+[ECO "B96"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nc6 8.
 Nxc6 bxc6 9. Qf3 Qb6 10. O-O-O Rb8 11. b3 d5 12. Bxf6 gxf6 13. exd5 cxd5
@@ -8877,8 +8817,8 @@ Qxc3 38. Qf2+ Bd4 39. Qe2 Qa1+ 40. Kc2 Qc3+ 41. Kd1 Qa1+ 1/2-1/2
 [White "Adam,D"]
 [Black "Erpel,W"]
 [Result "0-1"]
-[ECO "C19"]
 [BlackElo "2115"]
+[ECO "C19"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 Nbc6
 8. a4 Qa5 9. Bd2 Bd7 10. Bd3 c4 11. Be2 O-O-O 12. Qb1 h6 13. h3 Rdf8 14.
@@ -8894,8 +8834,8 @@ Qxe5 33. Qf2 Re3 34. Bf3 Qc7 35. Bc1 Nf5 36. Bxe3 fxe3+ 0-1
 [White "Schuh,D"]
 [Black "Koehler,W"]
 [Result "1-0"]
-[ECO "B01"]
 [WhiteElo "2060"]
+[ECO "B01"]
 
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bg4 6. h3 Qh5 7. Be2 Nc6
 8. O-O O-O-O 9. hxg4 Nxg4 10. Bf4 f5 11. d5 g5 12. Bg3 f4 13. Nh2 fxg3 14.
@@ -8908,8 +8848,8 @@ Bxg4+ 1-0
 [White "Maetzing,HD"]
 [Black "Korte,M"]
 [Result "0-1"]
-[ECO "A00"]
 [BlackElo "2185"]
+[ECO "A00"]
 
 1. Nc3 d5 2. e4 d4 3. Nce2 Nf6 4. Ng3 e5 5. Nf3 Bd6 6. c3 c5 7. Bb5+ Nc6 8.
 Bxc6+ bxc6 9. d3 dxc3 10. bxc3 h6 11. O-O O-O 12. Qc2 Qc7 13. c4 Rb8 14.
@@ -8923,8 +8863,8 @@ Qxb2 Rxb2 21. fxe5 Rd8 22. Rxf7 Rb1+ 23. Nf1 Be6 0-1
 [White "Ruerup,HH"]
 [Black "Ciaffone,R"]
 [Result "1-0"]
-[ECO "B13"]
 [BlackElo "2192"]
+[ECO "B13"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nc6 5. Nf3 Nf6 6. Bf4 e6 7. c5 Be7 8.
 Bb5 O-O 9. Nc3 Bd7 10. Bxc6 Bxc6 11. O-O b6 12. b4 bxc5 13. bxc5 Nd7 14.
@@ -8959,8 +8899,8 @@ h4 c5 9. d5 Qa5 10. h5 Nf8 11. hxg6 fxg6 12. f3 a6 13. a4 Bd7 14. Ra3 Nh5
 [White "Meyer,Ju"]
 [Black "Roever,L"]
 [Result "0-1"]
-[ECO "B76"]
 [WhiteElo "2112"]
+[ECO "B76"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8.
 Qd2 O-O 9. O-O-O d5 10. Kb1 e5 11. Nxc6 bxc6 12. exd5 Nxd5 13. Nxd5 cxd5
@@ -9036,8 +8976,8 @@ Qg7 27. Bf3 Qxe5 28. Rfe1 Qf5 29. Qxf5 Rxf5 30. Rxe6 Rxa3 31. Bxd5 Rxd5 0-1
 [White "Tannebaum,G"]
 [Black "Bacholke,M"]
 [Result "1/2-1/2"]
-[ECO "E61"]
 [BlackElo "2155"]
+[ECO "E61"]
 
 1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. Nc3 Nf6 5. Bg5 O-O 6. e3 c6 7. Be2 Nbd7 8.
 O-O a6 9. Qc2 b5 10. a3 Bb7 11. Rac1 Rc8 12. Qb3 Qb6 13. Rfd1 Rfe8 14. Qa2
@@ -9069,8 +9009,8 @@ Bd4 33. Nxe4 1-0
 [White "Schuermann,T"]
 [Black "Venderbosch,F"]
 [Result "1-0"]
-[ECO "D66"]
 [WhiteElo "2260"]
+[ECO "D66"]
 
 1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 c6 8.
 Rc1 Nbd7 9. Bd3 dxc4 10. Bb1 b5 11. Qc2 g6 12. e4 Bb7 13. Bxf6 Bxf6 14. e5
@@ -9085,9 +9025,9 @@ Kf8 27. Be4 Rh6 28. Qf3+ Kg8 29. Bh7+ Rxh7 30. Qxa8+ 1-0
 [White "Hoffmann,Al"]
 [Black "Sulypa,A"]
 [Result "1/2-1/2"]
-[ECO "A16"]
 [WhiteElo "2350"]
 [BlackElo "2424"]
+[ECO "A16"]
 
 1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 g6 5. Qa4+ Bd7 6. Qh4 Nxc3 7. dxc3
 Nc6 8. e4 e5 9. Bg5 Be7 10. Bc4 h5 11. Bxe7 Qxe7 12. Qg5 Qxg5 13. Nxg5 f6
@@ -9100,9 +9040,9 @@ Nc6 8. e4 e5 9. Bg5 Be7 10. Bc4 h5 11. Bxe7 Qxe7 12. Qg5 Qxg5 13. Nxg5 f6
 [White "Pasalic,M"]
 [Black "Seger,R"]
 [Result "1/2-1/2"]
-[ECO "D77"]
 [WhiteElo "2350"]
 [BlackElo "2384"]
+[ECO "D77"]
 
 1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. c4 dxc4 7. Na3 Nc6 8.
 Nxc4 Be6 9. b3 a5 10. a4 Bd5 11. Bb2 e6 12. Nfe5 Nxe5 13. Nxe5 Bxg2 14.
@@ -9115,9 +9055,9 @@ Kxg2 c6 15. e3 1/2-1/2
 [White "Bock,J"]
 [Black "Bunzmann,D"]
 [Result "0-1"]
-[ECO "A40"]
 [WhiteElo "2224"]
 [BlackElo "2555"]
+[ECO "A40"]
 
 1. d4 e6 2. g3 c5 3. Nf3 b6 4. Bg2 Bb7 5. O-O cxd4 6. Qxd4 Nc6 7. Qd1 Nf6
 8. c4 Be7 9. Nc3 O-O 10. b3 Rc8 11. Bb2 Qc7 12. Ng5 Rfd8 13. e3 Qe5 14. Nf3
@@ -9131,8 +9071,8 @@ Bxg5 21. Qxg5 Bxg2 22. Kxg2 Qb7+ 23. Kg1 Qf3 24. Rac1 Qe2 0-1
 [White "Kozakov,M"]
 [Black "Mussgnug,J"]
 [Result "1/2-1/2"]
-[ECO "C17"]
 [WhiteElo "2420"]
+[ECO "C17"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+ 7. Qxd2 O-O
 8. c3 Bd7 9. Nf3 Bxb5 10. Bxb5 Qa5 11. Bd3 cxd4 12. cxd4 Nbc6 13. Qxa5 Nxa5
@@ -9150,9 +9090,9 @@ Kg6 44. Kxa5 Ne6 1/2-1/2
 [White "Hoellmann,L"]
 [Black "Peric,Sl"]
 [Result "0-1"]
-[ECO "D27"]
 [WhiteElo "2260"]
 [BlackElo "2300"]
+[ECO "D27"]
 
 1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. Nc3 a6 5. e3 Nf6 6. Bxc4 b5 7. Bd3 Bb7 8.
 O-O c5 9. Qe2 Nbd7 10. Rd1 Qc7 11. e4 cxd4 12. Nxd4 Bc5 13. Be3 O-O 14.
@@ -9168,9 +9108,9 @@ Bd3 a4 33. Nd2 Bd4 34. Qg3 Rc3 35. Kh2 b4 36. Nf1 Bxe4 0-1
 [White "Kalinitschew,S"]
 [Black "Goessling,G"]
 [Result "1-0"]
-[ECO "D30"]
 [WhiteElo "2528"]
 [BlackElo "2150"]
+[ECO "D30"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. Bd3 Nbd7 6. O-O dxc4 7. Bxc4 b5 8.
 Bd3 a6 9. a4 Bb7 10. Nbd2 Bd6 11. Ne4 Nxe4 12. Bxe4 O-O 13. Bd2 Qe7 14.
@@ -9188,9 +9128,9 @@ Rf7 44. Ra5 Kd6 45. Be5+ Ke6 46. Bf4 Kf6 47. Ra6+ Kg7 48. Bh6+ 1-0
 [White "Schnur,G"]
 [Black "Maksimenko,A"]
 [Result "0-1"]
-[ECO "D27"]
 [WhiteElo "2113"]
 [BlackElo "2524"]
+[ECO "D27"]
 
 1. d4 d5 2. c4 dxc4 3. e3 a6 4. Bxc4 e6 5. Nf3 c5 6. O-O Nf6 7. dxc5 Qxd1
 8. Rxd1 Bxc5 9. Nc3 Nbd7 10. b3 b5 11. Bd3 Bb7 12. Bb2 Rc8 13. Rac1 Be7 14.
@@ -9207,9 +9147,9 @@ Nd4 Nc1 39. Ke1 Kxe3 40. Nxf5+ Kd3 0-1
 [White "Meijers,V"]
 [Black "Erpel,W"]
 [Result "1-0"]
-[ECO "C01"]
 [WhiteElo "2425"]
 [BlackElo "2115"]
+[ECO "C01"]
 
 1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. Bd3 Ne7 6. Bg5 f6 7. Bh4 Bf5
 8. O-O O-O 9. Nc3 c6 10. Re1 Bxd3 11. Qxd3 Qd7 12. Na4 Na6 13. a3 Ng6 14.
@@ -9226,9 +9166,9 @@ Rc7 39. Rd8 1-0
 [White "Kandic,M"]
 [Black "Schuh,D"]
 [Result "1-0"]
-[ECO "B23"]
 [WhiteElo "2315"]
 [BlackElo "2060"]
+[ECO "B23"]
 
 1. e4 c5 2. Nc3 Nc6 3. Bc4 g6 4. f4 d6 5. Nf3 Bg7 6. O-O e6 7. d3 Nge7 8.
 Qe1 O-O 9. Ne2 Rb8 10. a4 a6 11. c3 b5 12. axb5 axb5 13. Bb3 Na5 14. Bc2 c4
@@ -9245,17 +9185,17 @@ Nh5 Bh8 22. Qg3+ Kf7 23. cxb4 Nxb4 24. Bd2 Qg8 25. Ng5+ Kf8 26. Qe3 Nac6
 [White "Mussgnug,O"]
 [Black "Cremer,J"]
 [Result "0-1"]
-[ECO "B90"]
 [WhiteElo "2055"]
 [BlackElo "2180"]
+[ECO "B90"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8.
 Bc4 Be6 9. Bd5 Nc6 10. O-O Qc7 11. Qe2 Nb4 12. Bxe6 fxe6 13. a3 Nc6 14. Qc4
 Qc8 15. Bb6 O-O 16. f4 exf4 17. Rxf4 Ne5 18. Qxc8 Raxc8 19. Na5 Nfd7 20.
 Rxf8+ Rxf8 21. Bd4 b6 22. Bxe5 Nxe5 23. Nb3 Bg5 24. Ne2 Be3+ 25. Kh1 Ng4
 26. h3 Nf2+ 27. Kh2 Nxe4 28. Nbd4 Rf2 29. Re1 Bd2 30. Rd1 e5 31. Ng3 Bf4
-32. Ndf5 Nxg3 33. Nxg3 Rxc2 34. Rxd6 Rxb2 35. Rd8+ Kf7 36. Rd3 e4 37. Rd5
-Ke6 38. Rd4 Re2 39. Kg1 Bxg3 40. Kf1 Re1+ 0-1
+32. Nf5 Nxg3 33. Nxg3 Rxc2 34. Rxd6 Rxb2 35. Rd8+ Kf7 36. Rd3 e4 37. Rd5
+Ke6 38. Rd4 Re2 39. Kg1 Bxg3 40. Kf1 Re1# 0-1
 
 [Event "5th Schloss Open A"]
 [Site "Werther GER"]
@@ -9264,9 +9204,9 @@ Ke6 38. Rd4 Re2 39. Kg1 Bxg3 40. Kf1 Re1+ 0-1
 [White "Geisler,R"]
 [Black "Hofene,D"]
 [Result "1/2-1/2"]
-[ECO "E32"]
 [WhiteElo "2235"]
 [BlackElo "2170"]
+[ECO "E32"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b5 7. b3 Bb7
 8. f3 Nh5 9. Nh3 f5 10. e3 Qh4+ 11. Nf2 bxc4 12. bxc4 Nc6 13. Be2 Nf6 14.
@@ -9281,8 +9221,8 @@ Ne4 21. Bxe4 Rxb1 22. Rxb1 Qxe4 23. Rf1 dxc4 24. Nf4 Ne7 25. Qxc4 Nd5
 [White "Korte,M"]
 [Black "Hollmann,B"]
 [Result "0-1"]
-[ECO "C54"]
 [WhiteElo "2185"]
+[ECO "C54"]
 
 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O Bg4 7. Nbd2 Qd7 8.
 Bb3 Ne7 9. Nc4 Ng6 10. Be3 b5 11. Ncd2 O-O 12. d4 Bb6 13. Qc2 Rae8 14. a4
@@ -9298,8 +9238,8 @@ Kh8 32. Qxg7+ Kxg7 0-1
 [White "Grosselohmann,G"]
 [Black "Ruerup,HH"]
 [Result "1-0"]
-[ECO "D11"]
 [WhiteElo "2135"]
+[ECO "D11"]
 
 1. d4 d5 2. Nf3 Nf6 3. g3 Bf5 4. Bg2 e6 5. O-O Nbd7 6. c4 h6 7. Nc3 c6 8.
 Nd2 Bb4 9. a3 Ba5 10. Re1 O-O 11. b4 Bb6 12. e3 Bh7 13. f4 a6 14. Bb2 Ba7
@@ -9317,8 +9257,8 @@ Rxf6 Rxd5 46. Rxh6+ 1-0
 [White "Mroczek,M"]
 [Black "Schroeter,HC"]
 [Result "1/2-1/2"]
-[ECO "A49"]
 [WhiteElo "2132"]
+[ECO "A49"]
 
 1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d6 6. d4 Ne4 7. Nbd2 f5 8.
 c4 e6 9. Qc2 d5 10. Rc1 c6 11. O-O Nd7 12. Ne1 Bh6 13. Bxe4 fxe4 14. Ng2
@@ -9335,8 +9275,8 @@ Rf2 Ne4 39. Rf3 Nd2 40. Rf2 Ne4 1/2-1/2
 [White "Krueger,H"]
 [Black "Schaffarczyk,A"]
 [Result "0-1"]
-[ECO "A80"]
 [BlackElo "2117"]
+[ECO "A80"]
 
 1. Nf3 f5 2. d4 g6 3. c3 Nf6 4. Bg5 Bg7 5. Nbd2 d5 6. Ne5 O-O 7. Bxf6 Bxf6
 8. f4 b6 9. Ndf3 e6 10. h4 Qe8 11. e3 Bb7 12. Bd3 a6 13. g4 Nd7 14. Nxd7
@@ -9358,8 +9298,8 @@ e6 Kc7 63. a5 Bxe3 64. a6 Kd6 65. Kb4 Bb6 66. Kc3 Kxe6 67. Kb3 d4 68. Kc4
 [White "Schaar,A"]
 [Black "Chapman,Al"]
 [Result "1-0"]
-[ECO "A46"]
 [BlackElo "2039"]
+[ECO "A46"]
 
 1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 Qa5+ 5. c3 Ne4 6. Bf4 cxd4 7. exd4 Be7
 8. Bd3 f5 9. Nbd2 d5 10. Ne5 O-O 11. h4 Nd7 12. Nxd7 Bxd7 13. Nf3 Rac8 14.
@@ -9402,7 +9342,7 @@ Re4 f5 27. gxf5 gxf5 28. Rf4 g5 29. Rff1 f4 30. Qg2 g4 31. Kh1 Rg7 32. Qe4
 Qf6 33. Rde1 Rg5 34. Bc2 Rf7 35. d6 g3 36. Rg1 Qxd6 37. Rd1 Qh6 38. Rd8+
 Kg7 39. Rd2 Ng4 40. Qg2 Nxh2 41. Qxh2 gxh2 42. Rxg5+ Qxg5 43. Rg2 Qxg2+ 44.
 Kxg2 f3+ 45. Kxh2 f2 46. Bd3 f1=Q 47. Bxf1 Rxf1 48. Kg2 Rf5 49. Kh1 Kh6 50.
-Kh2 Kg5 51. Kh1 Kg4 52. Kh2 Rf2+ 53. Kh1 Kg3 54. Kg1 b6 55. Kh1 Rf1+ 0-1
+Kh2 Kg5 51. Kh1 Kg4 52. Kh2 Rf2+ 53. Kh1 Kg3 54. Kg1 b6 55. Kh1 Rf1# 0-1
 
 [Event "5th Schloss Open A"]
 [Site "Werther GER"]
@@ -9411,9 +9351,9 @@ Kh2 Kg5 51. Kh1 Kg4 52. Kh2 Rf2+ 53. Kh1 Kg3 54. Kg1 b6 55. Kh1 Rf1+ 0-1
 [White "Loew,G"]
 [Black "Kaid,A"]
 [Result "1/2-1/2"]
-[ECO "A80"]
 [WhiteElo "2329"]
 [BlackElo "2256"]
+[ECO "A80"]
 
 1. d4 e6 2. Nf3 f5 3. d5 Nf6 4. dxe6 d5 5. Ng5 Qe7 6. Nc3 Bxe6 7. Nxe6 Qxe6
 8. Nb5 Qb6 9. Qd3 Bc5 10. Qxf5 O-O 11. e3 g6 12. Qd3 Nc6 13. Be2 a6 14. Nc3
@@ -9426,26 +9366,13 @@ Bxd3 cxd3 34. Qf3 Re8 1/2-1/2
 [Site "Werther GER"]
 [Date "1999.03.28"]
 [Round "4"]
-[White "Gazic,J"]
-[Black "Schuermann,T"]
-[Result "0-1"]
-[ECO "A00"]
-[WhiteElo "2244"]
-[BlackElo "2260"]
-
-0-1
-
-[Event "5th Schloss Open A"]
-[Site "Werther GER"]
-[Date "1999.03.28"]
-[Round "4"]
 [White "Menk,R"]
 [Black "Adam,D"]
 [Result "1-0"]
-[ECO "A52"]
 [WhiteElo "2179"]
+[ECO "A52"]
 
-1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Bb4+ 5. Nd2 Nc6 6. Ngf3 Qe7 7. e3
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Bb4+ 5. Nd2 Nc6 6. Nf3 Qe7 7. e3
 Ngxe5 8. Nxe5 Nxe5 9. Be2 O-O 10. O-O Ng6 11. Bg3 Bd6 12. Bxd6 Qxd6 13. Qc2
 Qf6 14. c5 d5 15. Nf3 Bg4 16. Rfd1 c6 17. Rd4 Bxf3 18. Bxf3 Rfe8 19. Rb4
 Rab8 20. Qb3 Qe7 21. Rc1 Qc7 22. g3 Ne5 23. Be2 Nd7 24. Ra4 b5 25. cxb6
@@ -9524,8 +9451,8 @@ Re5+ 44. Kh6 Nf5+ 45. Kh7 Re7 46. a4 Kf8+ 47. Kg6 Ng3 48. b5 Ke8 49. a5 Kd7
 [White "Bacholke,M"]
 [Black "Lewin,T"]
 [Result "1-0"]
-[ECO "B40"]
 [WhiteElo "2155"]
+[ECO "B40"]
 
 1. e4 c5 2. Nf3 e6 3. c4 Nc6 4. Nc3 a6 5. Be2 Qc7 6. O-O g6 7. d4 cxd4 8.
 Nxd4 Bg7 9. Be3 Nge7 10. Qd2 O-O 11. Rfd1 Nxd4 12. Bxd4 e5 13. Be3 b6 14.
@@ -9540,8 +9467,8 @@ Qd6 Qxd6 15. Rxd6 f5 16. Rxb6 Rf6 17. Rd1 Rxb6 18. Bxb6 fxe4 19. Nxe4 Nf5
 [White "Ciaffone,R"]
 [Black "Voss,M"]
 [Result "0-1"]
-[ECO "B77"]
 [WhiteElo "2192"]
+[ECO "B77"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. Qd2 O-O
 8. f3 Nc6 9. Bc4 Nd7 10. O-O-O Nde5 11. Bb3 Na5 12. Kb1 Nec4 13. Qd3 Nxe3
@@ -9575,8 +9502,8 @@ Kg7 51. Bg4 Rd7 52. Rxd7 Nxd7 53. Bxe6 fxe6 54. Ne3 Nb6 55. Kg4 1/2-1/2
 [White "Thies,D"]
 [Black "Meyer,Ju"]
 [Result "1/2-1/2"]
-[ECO "B87"]
 [BlackElo "2112"]
+[ECO "B87"]
 
 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
 Bg5 Be7 9. Qf3 Bb7 10. Bxe6 Qa5 11. Nb3 Qb6 12. Be3 Qd8 13. Bd5 Nxd5 14.
@@ -9606,9 +9533,9 @@ Nc5 1-0
 [White "Bunzmann,D"]
 [Black "Hoffmann,Al"]
 [Result "1-0"]
-[ECO "A25"]
 [WhiteElo "2555"]
 [BlackElo "2350"]
+[ECO "A25"]
 
 1. c4 e5 2. g3 Nc6 3. Bg2 g6 4. Nc3 Bg7 5. Rb1 a5 6. a3 d6 7. b4 axb4 8.
 axb4 Nf6 9. b5 Nd4 10. e3 Ne6 11. Nge2 O-O 12. O-O h5 13. d4 exd4 14. exd4
@@ -9625,9 +9552,9 @@ h4 15. Qd2 Nh7 16. Nd5 Neg5 17. f4 h3 18. fxg5 hxg2 19. Kxg2 Be6 20. h4 c6
 [White "Sulypa,A"]
 [Black "Pasalic,M"]
 [Result "1-0"]
-[ECO "E12"]
 [WhiteElo "2424"]
 [BlackElo "2350"]
+[ECO "E12"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 Be7 6. e3 d6 7. Bd3 Nbd7 8.
 O-O c5 9. Qe2 h6 10. Bh4 a6 11. Bg3 Nh5 12. d5 Nxg3 13. hxg3 exd5 14. Nxd5
@@ -9642,9 +9569,9 @@ Nh8 Bh2+ 27. Kh1 Re4 28. Qf3+ Rf4 29. Ng6+ Ke8 30. exf4 1-0
 [White "Seger,R"]
 [Black "Peric,Sl"]
 [Result "1-0"]
-[ECO "C03"]
 [WhiteElo "2384"]
 [BlackElo "2300"]
+[ECO "C03"]
 
 1. e4 e6 2. d4 d5 3. Nd2 b6 4. Ngf3 c6 5. Ne5 Nf6 6. exd5 Qxd5 7. Ndf3 Be7
 8. Bd3 O-O 9. O-O c5 10. dxc5 Bxc5 11. c4 Qd8 12. Bg5 Bb7 13. Qc2 h6 14.
@@ -9663,9 +9590,9 @@ Ke6 50. a4 a6 51. b5 axb5 52. axb5 Kd6 53. Kd4 Ke6 54. c5 1-0
 [White "Cremer,J"]
 [Black "Kalinitschew,S"]
 [Result "0-1"]
-[ECO "B30"]
 [WhiteElo "2180"]
 [BlackElo "2528"]
+[ECO "B30"]
 
 1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. b3 Ng6 6. Bb2 f6 7. d4 cxd4 8.
 Nxd4 Nxd4 9. Bxd4 Qc7 10. Re1 Bd6 11. h3 O-O 12. Nc3 a6 13. Bf1 b5 14. Re3
@@ -9679,9 +9606,9 @@ Ne5 21. Qd4 Be8 0-1
 [White "Maksimenko,A"]
 [Black "Kozakov,M"]
 [Result "1-0"]
-[ECO "E94"]
 [WhiteElo "2524"]
 [BlackElo "2420"]
+[ECO "E94"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 Na6 7. O-O e5 8.
 Be3 c6 9. d5 Ng4 10. Bg5 f6 11. Bh4 c5 12. Ne1 h5 13. h3 Nh6 14. a3 Bd7 15.
@@ -9698,8 +9625,8 @@ Re8 33. Bf4 c4 34. d6 Bd4 35. Bg5 Re6 36. Rd5 Bb6 37. Na4 Ba5 38. Bd2 Bd8
 [White "Mussgnug,J"]
 [Black "Meijers,V"]
 [Result "0-1"]
-[ECO "C42"]
 [BlackElo "2425"]
+[ECO "C42"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O
 8. c4 c6 9. Nc3 Nxc3 10. bxc3 Bg4 11. Rb1 b6 12. cxd5 cxd5 13. Re1 Nc6 14.
@@ -9720,9 +9647,9 @@ gxf5 Kxf5 58. Bb4 g4 59. hxg4+ Kxg4 60. Ba5 h3+ 61. Kh2 Rd2 62. Kg1 Rd1+
 [White "Hoellmann,L"]
 [Black "Kandic,M"]
 [Result "0-1"]
-[ECO "D36"]
 [WhiteElo "2260"]
 [BlackElo "2315"]
+[ECO "D36"]
 
 1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. cxd5 exd5 6. Bg5 c6 7. Qc2 O-O
 8. e3 Nbd7 9. Bd3 Re8 10. O-O Nf8 11. Rae1 h6 12. Bh4 Ne4 13. Bxe4 Bxh4 14.
@@ -9739,8 +9666,8 @@ Ne2 R1h2 0-1
 [White "Otte,Marco"]
 [Black "Bock,J"]
 [Result "1/2-1/2"]
-[ECO "A36"]
 [BlackElo "2224"]
+[ECO "A36"]
 
 1. c4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. e3 e5 6. Nge2 Nge7 7. O-O O-O 8.
 Rb1 Rb8 9. a3 a6 10. b4 cxb4 11. axb4 b5 12. cxb5 axb5 13. d4 exd4 14. exd4
@@ -9762,9 +9689,9 @@ Nc3 Kg7 33. Nxd5 Nxd5 34. Bxc6 Bxc6 35. Rxc6 Nc3 36. Kg2 Ne2 37. Rc7 Bxd4
 [White "Grosselohmann,G"]
 [Black "Geisler,R"]
 [Result "1/2-1/2"]
-[ECO "E18"]
 [WhiteElo "2135"]
 [BlackElo "2235"]
+[ECO "E18"]
 
 1. d4 d5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. c4 b6 7. Nc3 Bb7 8.
 Qc2 Nbd7 9. cxd5 Nxd5 10. Nxd5 Bxd5 11. e4 Bb7 12. Bf4 Rc8 13. Rad1 c5 14.
@@ -9778,8 +9705,8 @@ d5 exd5 15. exd5 Re8 16. d6 Bf6 17. Ng5 Bxg5 18. Bxg5 Qxg5 19. Bxb7 Rcd8
 [White "Schaffarczyk,A"]
 [Black "Schaar,A"]
 [Result "1-0"]
-[ECO "B01"]
 [WhiteElo "2117"]
+[ECO "B01"]
 
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Nf3 Nf6 6. Bc4 Bf5 7. Ne5 e6
 8. g4 Be4 9. O-O Bd5 10. Nxd5 cxd5 11. Be2 Nbd7 12. f4 Ne4 13. Be3 Nxe5 14.
@@ -9811,9 +9738,9 @@ Qf1 Ba6 33. Rxe6 fxe6 34. Qe1 Re2 35. Qd1 Bxb5 36. Rc8+ Kg7 37. Qa1+ Kh6
 [White "Schuh,D"]
 [Black "Menk,R"]
 [Result "1/2-1/2"]
-[ECO "A08"]
 [WhiteElo "2060"]
 [BlackElo "2179"]
+[ECO "A08"]
 
 1. e4 e6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 Nf6 6. Bg2 b6 7. O-O Bb7 8.
 Re1 Be7 9. e5 Nd7 10. Qe2 Qc7 11. c4 d4 12. Nf1 O-O-O 13. h4 h6 14. N1h2
@@ -9831,9 +9758,9 @@ Rxf6 Nxf6 39. Rxe5+ Kb4 40. Rf5 Ng4 41. Nf3 Kc3 42. Rd5 Ra8 43. Nxd4 Kxd3
 [White "Hofene,D"]
 [Black "Mussgnug,O"]
 [Result "1/2-1/2"]
-[ECO "C50"]
 [WhiteElo "2170"]
 [BlackElo "2055"]
+[ECO "C50"]
 
 1. e4 e5 2. Bc4 Nc6 3. Nf3 d6 4. c3 Na5 5. Be2 f5 6. d4 fxe4 7. Ng5 d5 8.
 dxe5 Be7 9. h4 Bf5 10. e6 Bxg5 11. Bxg5 Nf6 12. Bh5+ g6 13. Bxf6 Qxf6 14.
@@ -9846,10 +9773,10 @@ Qxd5 Bxe6 15. Qxa5 1/2-1/2
 [White "Schwarz,T"]
 [Black "Mroczek,M"]
 [Result "0-1"]
-[ECO "A40"]
 [BlackElo "2132"]
+[ECO "A40"]
 
-1. d4 e6 2. c4 Bb4+ 3. Nd2 b6 4. Ngf3 Bb7 5. e3 f5 6. Bd3 Nf6 7. O-O O-O 8.
+1. d4 e6 2. c4 Bb4+ 3. Nd2 b6 4. Nf3 Bb7 5. e3 f5 6. Bd3 Nf6 7. O-O O-O 8.
 a3 Be7 9. b3 Ne4 10. Bb2 d5 11. Rc1 Nd7 12. Qe2 a5 13. Rfd1 Bd6 14. Nf1 Qe7
 15. a4 g5 16. N3d2 g4 17. cxd5 exd5 18. Nxe4 fxe4 19. Qxg4+ Kh8 20. Bb5 Nf6
 21. Qh4 Rg8 22. h3 Rg6 23. g4 Rag8 24. Ng3 Bc8 25. Be2 Qf8 26. Kh1 Rh6 27.
@@ -9864,8 +9791,8 @@ Qf3+ 39. Kh2 Qe2+ 40. Rg2 Qxh5 0-1
 [White "Goessling,G"]
 [Black "Schermer,D"]
 [Result "1-0"]
-[ECO "B33"]
 [WhiteElo "2150"]
+[ECO "B33"]
 
 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
 8. Na3 b5 9. Nd5 Be7 10. Nxe7 Nxe7 11. Bd3 Bb7 12. Qe2 O-O 13. c4 Ng6 14.
@@ -9882,8 +9809,8 @@ Nd5 Nd3 39. Nxf6+ Qxf6 40. Rxe8+ Kh7 41. Qxe4+ g6 42. Rxd3 Qxf2 43. Qe1 1-0
 [White "Schroeter,HC"]
 [Black "Schnur,G"]
 [Result "1/2-1/2"]
-[ECO "D32"]
 [BlackElo "2113"]
+[ECO "D32"]
 
 1. c4 e6 2. Nc3 d5 3. d4 c5 1/2-1/2
 
@@ -9894,9 +9821,9 @@ Nd5 Nd3 39. Nxf6+ Qxf6 40. Rxe8+ Kh7 41. Qxe4+ g6 42. Rxd3 Qxf2 43. Qe1 1-0
 [White "Erpel,W"]
 [Black "Schuermann,T"]
 [Result "1-0"]
-[ECO "C18"]
 [WhiteElo "2115"]
 [BlackElo "2260"]
+[ECO "C18"]
 
 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8.
 Bg5 Qa5 9. Ne2 Nbc6 10. Bxe7 Nxe7 11. dxc5 f6 12. Qb4 Qc7 13. exf6 Rxf6 14.
@@ -9929,8 +9856,8 @@ Bxe2 27. Nxe2 Na6 28. Kc4 Ke6 29. Nc1 Be7 30. Nd3 g5 31. Be1 Bf6 32. Bc3 h5
 [White "Kaid,A"]
 [Black "Hoffmann,W"]
 [Result "1-0"]
-[ECO "A11"]
 [WhiteElo "2256"]
+[ECO "A11"]
 
 1. Nf3 c6 2. g3 Nf6 3. Bg2 d5 4. c4 dxc4 5. O-O Bf5 6. Na3 Nbd7 7. Nxc4 e6
 8. d3 Nb6 9. Na5 Qc7 10. Bf4 Qc8 11. Rc1 Nfd5 12. Bd2 Bg6 13. Ne5 Bd6 14.
@@ -9944,8 +9871,8 @@ Nec4 Nxc4 15. dxc4 Ne7 16. Bc3 Qc7 17. Nxb7 Bxg3 18. hxg3 Qxb7 19. Bxg7 Rg8
 [White "Ruerup,HH"]
 [Black "Korte,M"]
 [Result "1/2-1/2"]
-[ECO "B01"]
 [BlackElo "2185"]
+[ECO "B01"]
 
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Nf3 Nf6 6. Bc4 Bf5 7. O-O e6
 8. Re1 Be7 9. Ne2 Bd6 10. Bf4 Qc7 11. Bxd6 Qxd6 12. Ng3 Bg6 13. c3 Nbd7 14.
@@ -9962,8 +9889,8 @@ Rd7 Rd1 39. Kf3 d3 40. b3 Kg7 41. h4 d2 42. Ke2 Rb1 43. Rxd2 Rxb3 1/2-1/2
 [White "Voss,M"]
 [Black "Bacholke,M"]
 [Result "1/2-1/2"]
-[ECO "A44"]
 [BlackElo "2155"]
+[ECO "A44"]
 
 1. d4 c5 2. d5 e5 3. Nc3 d6 4. Nf3 g6 5. e4 Bg7 6. Be2 Ne7 7. Nd2 Nd7 8.
 O-O O-O 9. a4 a6 10. Nc4 Nb6 11. Na3 Bd7 12. a5 Nbc8 13. Nc4 Bb5 14. Ne3
@@ -9976,8 +9903,8 @@ Bd7 15. Nc4 Bb5 16. Ne3 Bd7 17. Nc4 Bb5 1/2-1/2
 [White "Chapman,Al"]
 [Black "Roever,L"]
 [Result "1-0"]
-[ECO "B12"]
 [WhiteElo "2039"]
+[ECO "B12"]
 
 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. a3 Nd7 6. c4 dxc4 7. Bxc4 Ne7 8.
 O-O Nd5 9. Re1 Be7 10. Nbd2 O-O 11. Ne4 c5 12. Bd2 cxd4 13. h3 N7b6 14. Bb3
@@ -9991,8 +9918,8 @@ a5 15. Nxd4 Bg6 16. Rc1 a4 17. Ba2 Rc8 18. Rxc8 Qxc8 19. Qg4 h5 20. Qg3 Rd8
 [White "Wolf,N"]
 [Black "Loew,G"]
 [Result "1-0"]
-[ECO "C42"]
 [BlackElo "2329"]
+[ECO "C42"]
 
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4
 Bg4 8. Be2 O-O 9. Qd2 Nd7 10. h3 Bf5 11. Nd4 Be4 12. f3 Bg6 13. O-O-O h6
@@ -10001,7 +9928,7 @@ f4 f5 21. g5 h5 22. Qg2 Qd7 23. Bd2 Re6 24. Ne3 Rae8 25. Qf3 Qc6 26. Rhf1
 Bxg5 27. fxg5 f4 28. Nc2 Qa6 29. Bxf4 Bf7 30. c4 Bg6 31. Rde1 Rxe1+ 32.
 Rxe1 Rxe1+ 33. Nxe1 Qxc4 34. Bxd6 Qe6 35. Qf8+ Kh7 36. Qe7 Qxh3 37. Kc1
 Bxd3 38. Nxd3 Qxd3 39. Bxc5 Qc4+ 40. Kd2 Qxa2 41. Qe4+ Kg8 42. Qe8+ Kh7 43.
-g6+ Kh6 44. Be3+ 1-0
+g6+ Kh6 44. Be3# 1-0
 
 [Event "5th Schloss Open A"]
 [Site "Werther GER"]
@@ -10094,8 +10021,8 @@ Ba6 15. b4 Qe7 16. Bc3 dxc4 17. Nxc4 b5 18. Ncd2 c4 19. Be4 Nb6 20. Ne5 Bb7
 [White "Venderbosch,F"]
 [Black "Ciaffone,R"]
 [Result "0-1"]
-[ECO "B01"]
 [BlackElo "2192"]
+[ECO "B01"]
 
 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Nf3 Nf6 6. Bd2 Bf5 7. Ne4 Qd8
 8. Nxf6+ gxf6 9. Bc4 e6 10. Be3 Nd7 11. Qe2 Qa5+ 12. Bd2 Qc7 13. O-O-O
