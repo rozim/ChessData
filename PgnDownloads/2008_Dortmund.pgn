@@ -5,30 +5,21 @@
 [White "Naiditsch, Arkadij"]
 [Black "Nepomniachtchi, Ian"]
 [Result "1/2-1/2"]
-[ECO "B86"]
 [WhiteElo "2624"]
 [BlackElo "2634"]
-[PlyCount "59"]
+[ECO "B86"]
 [EventDate "2008.06.28"]
+[PlyCount "59"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8.
-Bg5 h6 9. Bxf6 Qxf6 10. O-O g5 11. Nde2 $146 {Novelty.} (11. f4 {
-Nisipeanu-Grischuk at Foros 2006 went} Bg7 12. e5 dxe5 13. f5 e4 14. Nce2 exf5
-15. Rxf5 Qb6 16. Rxf7 Bf6 17. Qd2 Ne5 18. Rxf6 Qxf6 19. Rf1 Qb6 20. Nc3 {
-with good compensation for white.}) 11... Rg8 12. f4 {Pretty sharp!} gxf4 13.
-Nxf4 Qg5 14. Kh1 Ne5 {
-White has to think of something because positionally Black is doing fine.} 15.
-Na4 Bd7 16. Nb6 Rd8 17. Qe2 Bb5 18. c4 Bc6 19. Rae1 Bg7 {
-A bit of a strange position which however is balanced.} 20. Bd1 Ng6 21. Nh5 (
-21. Nfd5 $5 Be5) 21... Be5 22. Nd5 $5 {22. Ba4 was interesting.} exd5 23. exd5
-Bd7 24. Nf6+ Ke7 25. Ne4 Qh4 {
-Black plays it safe. He could have played for a win with 25...Qc1} (25... Qc1
-26. Nf6 Rg7 {but it looks a bit clumsy.}) 26. g3 Qh3 27. Nf2 Qf5 28. Ne4 Qh3
-29. Nf2 Qf5 30. Ne4 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7
+8. Bg5 h6 9. Bxf6 Qxf6 10. O-O g5 11. Nde2 Rg8 12. f4 gxf4 13. Nxf4 Qg5 14.
+Kh1 Ne5 15. Na4 Bd7 16. Nb6 Rd8 17. Qe2 Bb5 18. c4 Bc6 19. Rae1 Bg7 20. Bd1
+Ng6 21. Nh5 Be5 22. Nd5 exd5 23. exd5 Bd7 24. Nf6+ Ke7 25. Ne4 Qh4 26. g3
+Qh3 27. Nf2 Qf5 28. Ne4 Qh3 29. Nf2 Qf5 30. Ne4 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -37,28 +28,20 @@ Black plays it safe. He could have played for a win with 25...Qc1} (25... Qc1
 [White "Mamedyarov, Shakhriyar"]
 [Black "Leko, Peter"]
 [Result "1/2-1/2"]
-[ECO "E25"]
 [WhiteElo "2752"]
 [BlackElo "2741"]
-[PlyCount "47"]
+[ECO "E25"]
 [EventDate "2008.06.28"]
+[PlyCount "47"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5 8.
-dxc5 Qa5 9. e4 Ne7 10. Be3 O-O 11. Qb3 Qc7 12. Ne2 $146 {Novelty.} (12. Bb5 {
-The Timman-Karpov, Candidates Final (Kuala Lumpur) 1990 went following} Nec6
-13. Rd1 Na5 14. Qb4 e5 15. Ne2 Be6 16. c4 a6 17. Ba4 Nxc4 18. Bf2 Nc6 19. Qc3
-Qa5 20. Bxc6 bxc6 21. Qxa5 Nxa5 22. O-O {and ended in a draw.}) 12... Nd7 13.
-Nf4 Nxc5 14. Qc4 b6 15. Bxc5 bxc5 (15... Qxc5 {
-would be sligthly better for White.} 16. Qxc5 bxc5 17. Rb1) 16. Nd3 Nc6 17.
-Qxc5 (17. Nxc5 {is not a good idea.} Ne5 18. Qd4 Rd8) 17... Ba6 {
-Black has excellent compensation and will almost surely win back his pawn.} 18.
-Nb4 Bxf1 19. Nxc6 Rfc8 20. Ne7+ Kf8 21. Ng6+ Kg8 22. Ne7+ Kf8 23. Ng6+ Kg8 24.
-Ne7+ {White could have played on with 24.Qxc7} (24. Qxc7 Rxc7 25. Rxf1 hxg6 26.
-Rc1 {but after 26... Rb8 Black has enough play.}) 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5
+8. dxc5 Qa5 9. e4 Ne7 10. Be3 O-O 11. Qb3 Qc7 12. Ne2 Nd7 13. Nf4 Nxc5 14.
+Qc4 b6 15. Bxc5 bxc5 16. Nd3 Nc6 17. Qxc5 Ba6 18. Nb4 Bxf1 19. Nxc6 Rfc8
+20. Ne7+ Kf8 21. Ng6+ Kg8 22. Ne7+ Kf8 23. Ng6+ Kg8 24. Ne7+ 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -67,33 +50,23 @@ Rc1 {but after 26... Rb8 Black has enough play.}) 1/2-1/2
 [White "Ivanchuk, Vassily"]
 [Black "Van Wely, Loek"]
 [Result "1/2-1/2"]
-[ECO "B85"]
 [WhiteElo "2740"]
 [BlackElo "2677"]
-[PlyCount "77"]
+[ECO "B85"]
 [EventDate "2008.06.28"]
+[PlyCount "77"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. a4 Nc6 8. O-O
-Be7 9. Be3 O-O 10. f4 Qc7 11. Kh1 Re8 12. Bf3 Bf8 13. Qd2 Rb8 14. Rfd1 {
-Typically Ivanchuk: in a well-known type of position he finds a new set-up.} (
-14. Qf2 {Hansen-Nielsen, Silkeborg 2008 went} e5 15. Nde2 b5 16. axb5 axb5 17.
-fxe5 Nxe5 18. Nf4 {and ended in a draw.}) 14... Na5 15. Qf2 {
-White plays very subtle. Here 15. b3 looks fine as well.} Nc4 16. Bc1 e5 17.
-Nde2 exf4 (17... d5 $5 18. Nxd5 Nxd5 19. Rxd5 Be6 20. Rd1 Rbd8 {
-gives nice compensation.}) 18. Nxf4 Be6 19. b3 Ne5 20. Bb2 g6 {
-Black has almost reached full equality.} 21. Ncd5 Bxd5 22. Nxd5 Nxd5 23. Rxd5
-Bg7 24. c4 {Black's minor pieces are both excellent and for the moment his
-d-pawn is easy to protect. However, in the long run White might be able to
-increase the pressure and so Van Wely decides to go for the ending with heavy
-pieces.} Nxf3 25. gxf3 (25. Bxg7 Ng5 $5 26. Rxg5 Kxg7 27. Qd4+ Kg8 $11) 25...
-Bxb2 26. Qxb2 Re5 27. Rad1 Rxd5 28. Rxd5 Qb6 $1 {
-By activating the queen, Black has solved the last problems.} 29. Kg2 Rc8 30.
-Qc3 Rc5 31. h4 Rxd5 32. cxd5 Qd8 33. Kg3 Qb6 34. Kg2 Qd8 35. e5 Qxh4 36. exd6
-Qg5+ 37. Kf2 Qh4+ 38. Kg2 Qg5+ 39. Kf2 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. a4 Nc6 8.
+O-O Be7 9. Be3 O-O 10. f4 Qc7 11. Kh1 Re8 12. Bf3 Bf8 13. Qd2 Rb8 14. Rfd1
+Na5 15. Qf2 Nc4 16. Bc1 e5 17. Nde2 exf4 18. Nxf4 Be6 19. b3 Ne5 20. Bb2 g6
+21. Ncd5 Bxd5 22. Nxd5 Nxd5 23. Rxd5 Bg7 24. c4 Nxf3 25. gxf3 Bxb2 26. Qxb2
+Re5 27. Rad1 Rxd5 28. Rxd5 Qb6 29. Kg2 Rc8 30. Qc3 Rc5 31. h4 Rxd5 32. cxd5
+Qd8 33. Kg3 Qb6 34. Kg2 Qd8 35. e5 Qxh4 36. exd6 Qg5+ 37. Kf2 Qh4+ 38. Kg2
+Qg5+ 39. Kf2 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -102,27 +75,21 @@ Qg5+ 37. Kf2 Qh4+ 38. Kg2 Qg5+ 39. Kf2 1/2-1/2
 [White "Gustafsson, Jan"]
 [Black "Kramnik, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "D85"]
 [WhiteElo "2603"]
 [BlackElo "2788"]
-[PlyCount "58"]
+[ECO "D85"]
 [EventDate "2008.06.28"]
+[PlyCount "58"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 {Kramnik rarely plays the Gruenfeld but he has
-lots of experience with the White pieces of course. Besides, both his seconds
-Svidler and Van Wely play it regularly.} 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7.
-Nf3 c5 8. Bb5+ Nc6 9. O-O cxd4 10. cxd4 O-O 11. Be3 Bg4 12. Bxc6 bxc6 13. Rc1
-Qa5 14. Qd2 Qxd2 15. Nxd2 Rfd8 16. Nb3 a5 17. Rxc6 a4 18. Nc5 Bxd4 19. Bxd4
-Rxd4 20. f3 Rc8 21. Rxc8+ Bxc8 22. Rc1 a3 23. Nb3 Rd8 24. Rc7 Be6 25. Ra7 Rd1+
-26. Kf2 Bxb3 27. axb3 Rd2+ {
-Kramnik-Svidler, Amber (blindfold) 2007 ended as a draw at this point.} 28. Kg3
-a2 29. b4 Rb2 {Until the last move, this game had been played before, and so
-it wasn't more than kind of a test for Gustafsson. But the German knows his
-theory.} 1/2-1/2
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5
+8. Bb5+ Nc6 9. O-O cxd4 10. cxd4 O-O 11. Be3 Bg4 12. Bxc6 bxc6 13. Rc1 Qa5
+14. Qd2 Qxd2 15. Nxd2 Rfd8 16. Nb3 a5 17. Rxc6 a4 18. Nc5 Bxd4 19. Bxd4
+Rxd4 20. f3 Rc8 21. Rxc8+ Bxc8 22. Rc1 a3 23. Nb3 Rd8 24. Rc7 Be6 25. Ra7
+Rd1+ 26. Kf2 Bxb3 27. axb3 Rd2+ 28. Kg3 a2 29. b4 Rb2 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -131,34 +98,23 @@ theory.} 1/2-1/2
 [White "Nepomniachtchi, Ian"]
 [Black "Mamedyarov, Shakhriyar"]
 [Result "1/2-1/2"]
-[ECO "C84"]
 [WhiteElo "2634"]
 [BlackElo "2752"]
-[PlyCount "79"]
+[ECO "C84"]
 [EventDate "2008.06.28"]
+[PlyCount "79"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 Bg4 8. Nbd2
-Nd7 9. h3 Bh5 10. Re1 Nc5 11. Bc2 Ne6 12. Nf1 Bg5 13. Ng3 Bxf3 14. Qxf3 O-O 15.
-Be3 g6 16. Bb3 $146 {Novelty.} (16. Ne2 {
-This prehistoric line gives us an opportunity to look at a Smyslov game:} Kg7
-17. d4 exd4 18. cxd4 Bxe3 19. Qxe3 Qf6 20. Rad1 Rfe8 21. d5 Nb4 22. Bb1 Nc5 23.
-a3 Qxb2 24. axb4 Qxb4 25. Nd4 f6 26. f4 Re7 27. Qg3 Kf7 28. Qh4 Kg7 29. e5 Rf7
-30. f5 Qb6 31. exf6+ Kg8 32. fxg6 {1-0, Smyslov-Ragozin, USSR Ch Moscow 1940})
-16... Kg7 17. Ne2 Nc5 18. Bc2 f5 19. Bxc5 dxc5 20. exf5 Rxf5 21. Qg4 Bh4 22.
-Rf1 Kh8 23. Ba4 b5 24. Bb3 Na5 25. Be6 Rf8 26. a4 Qf6 27. g3 h5 $6 28. Qxh4 $6
-(28. Qe4 $1 {
-It looks like both players have missed 28.Qe4! which is good for white.} Qxe6
-$2 29. Nf4 $1) 28... Qxe6 29. Qe4 Qf5 30. Qxf5 gxf5 31. axb5 {
-The immediate 31.f4 might have given more winning chances.} axb5 32. f4 e4 33.
-dxe4 fxe4 34. Rfd1 (34. b4 cxb4 35. cxb4 Nc6) 34... Nc4 35. Rxa8 (35. b3 Ne3
-36. Rxa8 (36. Rdc1 Rad8) 36... Rxa8 37. Rd7 Ra1+ 38. Kf2 Nd1+ {
-and Black gives perpetual check.}) 35... Rxa8 36. Rd7 Ra1+ 37. Kf2 Nxb2 38. Ke3
-Nc4+ 39. Kxe4 Re1 40. Kf3 {With a draw offer because Black can repeat moves.}
-1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 Bg4 8.
+Nbd2 Nd7 9. h3 Bh5 10. Re1 Nc5 11. Bc2 Ne6 12. Nf1 Bg5 13. Ng3 Bxf3 14.
+Qxf3 O-O 15. Be3 g6 16. Bb3 Kg7 17. Ne2 Nc5 18. Bc2 f5 19. Bxc5 dxc5 20.
+exf5 Rxf5 21. Qg4 Bh4 22. Rf1 Kh8 23. Ba4 b5 24. Bb3 Na5 25. Be6 Rf8 26. a4
+Qf6 27. g3 h5 28. Qxh4 Qxe6 29. Qe4 Qf5 30. Qxf5 gxf5 31. axb5 axb5 32. f4
+e4 33. dxe4 fxe4 34. Rfd1 Nc4 35. Rxa8 Rxa8 36. Rd7 Ra1+ 37. Kf2 Nxb2 38.
+Ke3 Nc4+ 39. Kxe4 Re1 40. Kf3 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -167,33 +123,26 @@ Nc4+ 39. Kxe4 Re1 40. Kf3 {With a draw offer because Black can repeat moves.}
 [White "Leko, Peter"]
 [Black "Ivanchuk, Vassily"]
 [Result "1-0"]
-[ECO "B46"]
 [WhiteElo "2741"]
 [BlackElo "2740"]
-[PlyCount "113"]
+[ECO "B46"]
 [EventDate "2008.06.28"]
+[PlyCount "113"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 d5 8.
-O-O Nf6 9. Qf3 Be7 10. Qg3 Nh5 11. Qf3 Nf6 12. e5 Nd7 13. Qg3 g6 14. Bh6 c5
-$146 {Novelty.} (14... Bf8 {
-Here (without the move repetition) they usually play} 15. Bxf8 Kxf8 16. Rfe1 a5
-17. Na4 Kg7 18. c4 h5 19. h4 {Kurnosov-Movsesian, EuCh Plovdiv 2008}) 15. Na4
-c4 16. Be2 Bb7 17. b3 Bc6 18. Nb2 Rb8 (18... Nxe5 $6 19. Qxe5 Bf6 20. Qg3 Bxb2
-21. Rab1 Bf6 22. bxc4 {is good for White.}) 19. Nd1 Nc5 20. Ne3 Ne4 21. Qh3 Ng5
-22. Qg4 c3 23. a3 {prevents Rb4.} (23. Bxa6 Rb4 24. Qe2 Ne4 $44) 23... Bb5 $2 {
-Now White will have time for f2-f3 and the black knight has nowhere to go.} 24.
-Bxb5+ axb5 25. f3 Qb6 26. Rae1 {It went wrong for Black. Leko also reacts well
-to Ivanchuk's next (desperate) attempts.} d4 27. Nd1 d3+ 28. Kh1 dxc2 29. Nf2
-Bc5 30. Nd3 Be3 31. Bxg5 Bd2 32. Re2 O-O 33. Nc1 {This should be winning.} b4
-34. Bxd2 cxd2 35. Rxd2 bxa3 36. Rxc2 {"The rest is technique."} Rfc8 37. Qe4
-Rxc2 38. Qxc2 Qd4 39. Na2 Qxe5 40. b4 Rd8 41. h3 h5 42. Rb1 Qe3 43. Rd1 Rd5 44.
-Qb1 Qe2 45. Re1 Qd2 46. Rc1 Rd8 47. b5 Rb8 48. Rc3 h4 49. b6 Qd6 50. Rb3 Rb7
-51. Nc3 Qc6 52. Rxa3 Qxb6 53. Qxb6 Rxb6 54. Ra4 g5 55. f4 Rb3 56. Ne2 Re3 57.
-Ng1 1-0
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 d5
+8. O-O Nf6 9. Qf3 Be7 10. Qg3 Nh5 11. Qf3 Nf6 12. e5 Nd7 13. Qg3 g6 14. Bh6
+c5 15. Na4 c4 16. Be2 Bb7 17. b3 Bc6 18. Nb2 Rb8 19. Nd1 Nc5 20. Ne3 Ne4
+21. Qh3 Ng5 22. Qg4 c3 23. a3 Bb5 24. Bxb5+ axb5 25. f3 Qb6 26. Rae1 d4 27.
+Nd1 d3+ 28. Kh1 dxc2 29. Nf2 Bc5 30. Nd3 Be3 31. Bxg5 Bd2 32. Re2 O-O 33.
+Nc1 b4 34. Bxd2 cxd2 35. Rxd2 bxa3 36. Rxc2 Rfc8 37. Qe4 Rxc2 38. Qxc2 Qd4
+39. Na2 Qxe5 40. b4 Rd8 41. h3 h5 42. Rb1 Qe3 43. Rd1 Rd5 44. Qb1 Qe2 45.
+Re1 Qd2 46. Rc1 Rd8 47. b5 Rb8 48. Rc3 h4 49. b6 Qd6 50. Rb3 Rb7 51. Nc3
+Qc6 52. Rxa3 Qxb6 53. Qxb6 Rxb6 54. Ra4 g5 55. f4 Rb3 56. Ne2 Re3 57. Ng1
+1-0
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -202,45 +151,21 @@ Ng1 1-0
 [White "Kramnik, Vladimir"]
 [Black "Van Wely, Loek"]
 [Result "1-0"]
-[ECO "D30"]
 [WhiteElo "2788"]
 [BlackElo "2677"]
-[PlyCount "57"]
+[ECO "D30"]
 [EventDate "2008.06.28"]
+[PlyCount "57"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. b3 Nbd7 6. Bb2 b6 7. Bd3 Bb7 8. O-O
-Bd6 9. Nbd2 (9. Nc3 {
-In Amber (blindfold), Monte Carlo, 2007 same opponents played} O-O 10. Qc2 Re8
-11. Rad1 Qe7 12. e4 dxe4 13. Nxe4 Nxe4 14. Bxe4 Nf6 15. Bd3 Ba3 16. Ba1 h6 17.
-Rfe1 Rad8) 9... O-O 10. Ne5 Qe7 $146 {Novelty.} (10... Qc7 11. f4 c5 12. Qe1
-cxd4 13. exd4 Bb4 14. a3 Bxd2 15. Qxd2 Ne4 16. Qe3 f6 17. Rac1 Qd8 18. Nxd7
-Qxd7 19. b4 Rfc8 {Savchenko-Caruana, EU Ch Plovdiv 2008}) 11. Qf3 Rfd8 12. Qh3
-h6 13. f4 Bb4 14. Ndf3 Ne4 15. Nxd7 Rxd7 16. Ne5 Rc7 $2 {Allows the following
-moves by White. Better is 16... Rdd8 when 17. f5 gives White a small
-initiative.} 17. Bxe4 dxe4 18. c5 $1 bxc5 $2 {
-From looking at the game, 18... f6 seems a logical suggestion.} 19. a3 Ba5 20.
-dxc5 Qxc5 21. b4 Qb5 22. Qg3 $1 {The nice pointe of White's play. Suddenly he
-directs his attention to the black king, who has no defenders.} Bb6 $6 {
-This loses by force.} (22... f5 {is not enough either.} 23. Qg6 Re7 (23... Bb6
-24. Qxe6+ Kh8 25. Qxf5 Bxe3+ 26. Kh1) 24. Rad1 Bb6 25. Rfe1 {
-and White should be winning here.}) (22... f6 $1 {looks like to be best here.}
-23. Ng4 Kh7 24. Bxf6 Bb6 {OK, White is much better here as well, probably
-winning, but he still has to show it.}) 23. Nd7 g6 (23... f6 {
-was a surprising possibility.} 24. Nxf6+ Kf8 25. Nxe4 Qe2 {
-but with a few accurate moves, White will win this:} 26. Bd4 Bxd4 27. Rae1
-Bxe3+ 28. Kh1) 24. Nf6+ Kf8 (24... Kh8 25. Qh4 h5 26. Ne8+ Kg8 27. Qf6 {
-and the black king has to walk to the center anyway.}) (24... Kg7 25. f5 $1 {
-and Black won't make it.}) 25. Be5 $1 Rcc8 {
-Objectively there were better moves but Black's position was already hopeless.}
-26. Qh4 h5 (26... Bxe3+ 27. Kh1 c5 28. Nh7+ Ke8 29. Rfd1 (29. Bd6 Kd7 30. Qe7+
-Kc6 31. bxc5 $18) 29... Bd4 30. Qxh6 $18) 27. Nh7+ Ke8 (27... Kg8 28. Qf6) 28.
-Bd6 Rc7 29. Rfd1 $1 {With a quiet move, Kramnik finishes in style.} (29. Rfd1 {
-Black resigned because of the deadly threat} 30. Nf6+ Kd8 31. Nd5+ Kc8 32.
-Nxb6+ Qxb6 33. Bc5) 1-0
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 e6 5. b3 Nbd7 6. Bb2 b6 7. Bd3 Bb7 8.
+O-O Bd6 9. Nbd2 O-O 10. Ne5 Qe7 11. Qf3 Rfd8 12. Qh3 h6 13. f4 Bb4 14. Ndf3
+Ne4 15. Nxd7 Rxd7 16. Ne5 Rc7 17. Bxe4 dxe4 18. c5 bxc5 19. a3 Ba5 20. dxc5
+Qxc5 21. b4 Qb5 22. Qg3 Bb6 23. Nd7 g6 24. Nf6+ Kf8 25. Be5 Rcc8 26. Qh4 h5
+27. Nh7+ Ke8 28. Bd6 Rc7 29. Rfd1 1-0
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -249,38 +174,20 @@ Nxb6+ Qxb6 33. Bc5) 1-0
 [White "Gustafsson, Jan"]
 [Black "Naiditsch, Arkadij"]
 [Result "1-0"]
-[ECO "D39"]
 [WhiteElo "2603"]
 [BlackElo "2624"]
-[PlyCount "45"]
+[ECO "D39"]
 [EventDate "2008.06.28"]
+[PlyCount "45"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4 8.
-Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Bd7 11. Bxf6 gxf6 12. Bxd7+ Nxd7 13. O-O a6 14.
-Rb1 Qc7 15. Qh5 Ke7 (15... Nc5 {Gelfand-Jakovenko, Moscow 2007 went} 16. Rb4
-Qe5 17. Qh4 Qg5 18. Qh3 Qe5 19. Qh4 Qg5 20. Qh3 Qe5 21. Re1 Rd8 22. Qe3 Rg8 23.
-Nf3 Qc7 24. Rd4 Nd7 25. Red1 Ke7 26. g3 Ne5) 16. f4 $146 {Novelty.} (16. Rfd1 {
-Avrukh-Grischuk, Biel 2007 went} b5 17. Rb2 Rac8 18. Rbd2 Nc5 19. Re2 Qf4 20.
-g3 Qg5 21. Qf3 h5 22. e5 f5) 16... Qxc3 17. Rfd1 Rab8 $2 {
-After his courageous 16th move, Black goes astray on the next one.} (17... Qe3+
-{is also bad.} 18. Kh1 Qxe4 19. Nf5+ $1 exf5 (19... Qxf5 20. Rxd7+ $1 Kxd7 21.
-Qxf7+ Kd6 22. Rb6+ Kd5 (22... Kc5 23. Qc7+) 23. Qd7+ Kc4 24. Qa4+ Kd5 25. Qa5+
-Ke4 26. Rb4+ {and Black gets mated.}) 20. Re1 Rac8 21. Qxf5 Qe6 22. Rxe6+ fxe6
-23. Qg4 $18) (17... Rhd8 $1 {is best with the idea} 18. Rxb7 (18. Kh1 Rac8 $1
-19. e5 b5 $1) 18... Qe3+ 19. Kh1 Rac8 $1 {
-and because of the back rank, White has nothing:} 20. Nb3 Qxe4 21. Nc5 Qc6 22.
-Rbxd7+ Rxd7 23. Nxd7 Rd8 $11) 18. e5 $1 Qe3+ $2 {
-This square will turn out to be quite unfortunate for the Black queen.} (18...
-Rhd8 {is the only try} 19. Kh1 fxe5 20. fxe5 h6 $1 {
-and black still has some hope.} 21. Qxh6 Nxe5 22. Qh4+ f6 23. Rb6 Rxd4 24. Qxd4
-Qxd4 25. Rxd4 $16) 19. Kh1 {Now there's no defence.} Rhd8 (19... Qe4 20. exf6+
-Kf8 (20... Nxf6 21. Qc5+ Ke8 22. Nc6) 21. Nxe6+ $1 Qxe6 22. Qh6+ Ke8 23. Re1)
-20. exf6+ Ke8 (20... Nxf6 21. Rxb7+ $1 Rxb7 22. Nc6+) 21. Nxe6 $1 Nxf6 22. Nc7+
-Ke7 23. Qh4 1-0
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4
+8. Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Bd7 11. Bxf6 gxf6 12. Bxd7+ Nxd7 13. O-O
+a6 14. Rb1 Qc7 15. Qh5 Ke7 16. f4 Qxc3 17. Rfd1 Rab8 18. e5 Qe3+ 19. Kh1
+Rhd8 20. exf6+ Ke8 21. Nxe6 Nxf6 22. Nc7+ Ke7 23. Qh4 1-0
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -289,22 +196,21 @@ Ke7 23. Qh4 1-0
 [White "Van Wely, Loek"]
 [Black "Leko, Peter"]
 [Result "1/2-1/2"]
-[ECO "E15"]
 [WhiteElo "2677"]
 [BlackElo "2741"]
-[PlyCount "61"]
+[ECO "E15"]
 [EventDate "2008.06.28"]
+[PlyCount "61"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8. Rc1
-d5 9. cxd5 exd5 10. Bg2 Bb7 11. O-O Nbd7 12. Bf4 c6 13. Qc2 Re8 14. Qb2 Nf8 15.
-b4 Ne6 16. Be3 $146 {Novelty.} (16. Be5 Rc8 17. Rfd1 Ne4 {
-Bologan-Iljin, Dresden 2007}) 16... Bd6 17. a4 Qe7 18. Rb1 a6 19. Bd2 Rab8 20.
-e3 c5 21. bxc5 bxc5 22. Qa2 g6 23. dxc5 Bxc5 24. Ne2 Ne4 25. Rfd1 Ba8 26. Rxb8
-Rxb8 27. Be1 Bb4 28. Rb1 Bd6 29. Rd1 Bb4 30. Rb1 Bd6 31. Rd1 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8.
+Rc1 d5 9. cxd5 exd5 10. Bg2 Bb7 11. O-O Nbd7 12. Bf4 c6 13. Qc2 Re8 14. Qb2
+Nf8 15. b4 Ne6 16. Be3 Bd6 17. a4 Qe7 18. Rb1 a6 19. Bd2 Rab8 20. e3 c5 21.
+bxc5 bxc5 22. Qa2 g6 23. dxc5 Bxc5 24. Ne2 Ne4 25. Rfd1 Ba8 26. Rxb8 Rxb8
+27. Be1 Bb4 28. Rb1 Bd6 29. Rd1 Bb4 30. Rb1 Bd6 31. Rd1 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -313,59 +219,23 @@ Rxb8 27. Be1 Bb4 28. Rb1 Bd6 29. Rd1 Bb4 30. Rb1 Bd6 31. Rd1 1/2-1/2
 [White "Naiditsch, Arkadij"]
 [Black "Kramnik, Vladimir"]
 [Result "1-0"]
-[ECO "C42"]
 [WhiteElo "2624"]
 [BlackElo "2788"]
-[PlyCount "83"]
+[ECO "C42"]
 [EventDate "2008.06.28"]
+[PlyCount "83"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8.
-Re1 Bg4 9. c4 Nf6 10. Nc3 Bxf3 11. Qxf3 Nxd4 12. Qd1 Ne6 13. cxd5 Nxd5 14. Bb5+
-c6 15. Nxd5 cxb5 16. Bf4 (16. Qb3 O-O 17. Nxe7+ Qxe7 18. Qxb5 a6 19. Qb3 Rfd8
-20. Be3 Rac8 21. Rac1 h6 22. h3 Nd4 {1/2-1/2, Kasparov-Karpov, Moscow 1985})
-16... Nxf4 17. Rxe7+ Kf8 18. Re5 Qd6 19. Qd2 $1 $146 {Novelty.  On the
-Playchess server there was great excitement over Naiditsch' dramatic novelty -
-except that one visitor, Garry Kasparov, who is in Barcelona, preparing for an
-ICBI lecture on Wednesday, told us that he had analysed this back in 1999
-(with the moves 16.a4 b4 17.Bf4 inserted). He predicted a good game for White,
-giving us all the main lines before they occurred on the board. There is
-apparently nothing new under the sun.} (19. Rf5 {
-Kasimdzhanov-Jussupow, Essen 2001 went} Rd8 20. Ne3 Qxd1+ 21. Rxd1 Rxd1+ 22.
-Nxd1 Ne6 23. Rxb5 b6 24. Nc3 Ke7 {and ended in a draw.}) 19... Ng6 $2 {
-Kramnik played this move after 45 minutes of thought. He realised that he was
-in trouble. The critical move is of course 19...Qxe5} (19... Qxe5 20. Qb4+ Ke8
-(20... Kg8 $4 21. Ne7+ Kf8 22. Nc6+ Kg8 23. Nxe5 {is winning for white.}) 21.
-Re1 (21. Qxb5+ Kd8 22. Rd1 Ne2+ 23. Kh1 Nd4 24. Qxb7 (24. Qb4 Re8 25. h3 Kc8)
-24... Rc8 {and White remains a rook down, but the position is unclear - but
-not worse for him.} 25. h3 (25. Ne3 $5) 25... g5 $1 (25... Rc5 $6 26. Qa8+ Kd7
-27. Qxa7+ Kd6 28. Nc3 {followed by f2-f4.}) 26. Qxa7 Ke8 27. Qxd4 Qxd4 28. Rxd4
-Rc2 (28... f5 29. f4 $11) 29. Rb4 Kd7 30. Kg1 Kd6 31. Ne3 $11) 21... Ne2+ 22.
-Kf1 Rc8 (22... Qxd5 23. Rxe2+ Kd7 24. Rd2 (24. Qe7+ Kc6 25. Rc2+ Kb6 26. Qe3+
-Ka5 27. Qa3+ Kb6 {is a draw by perpetual check.}) 24... Qxd2 25. Qxd2+ Ke6 {
-and here too White will give perpetual.}) 23. f4 Qxd5 24. Rxe2+ Kd7 25. Rd2 Rc5
-26. Rxd5+ Rxd5 {is a better version but White can still force the draw:} 27.
-Qb3 $1 Kd6 (27... Rf5 $2 28. Qd3+ Ke6 29. Qe4+ Kf6 30. g4) 28. Qb4+ {
-and now it's unclear whether Black can try for more with} Kc7 29. Qc3+ Kb8 30.
-Qxg7 Rc8) 20. Ree1 {Now White is clearly better. Kasparov admitted he may have
-underestimated the potential of this line back in 1999.} f6 (20... Rd8 21. Rad1
-f6 (21... Ne7 22. Qe3 Nc6 (22... Nxd5 $2 23. Rxd5) 23. Nf6 $1 Qxf6 24. Qc5+ Kg8
-25. Rd6 $1 $18) 22. Qe3 b6 23. Nc3 $16) 21. Rad1 Kf7 22. Qe3 Rhe8 (22... Rhd8 {
-Also after} 23. Ne7 Qxe7 24. Qb3+ Kf8 25. Rxe7 Nxe7 26. g3 a6 27. Rxd8+ Rxd8
-28. Qc2 {White should win.}) 23. Ne7 $1 {Wins the queen.} Qxe7 24. Qb3+ Kf8 25.
-Rxe7 Rxe7 26. Qxb5 Rae8 {You reach this thanks to preparation, and your
-position is just fantastic. However, the opponent is... Kramnik! Well, let's
-first optimize the forces.} 27. g3 Ne5 28. Kg2 Nc6 29. b4 a6 30. Qb6 h6 31. a4
-Ne5 32. Qc5 Kg8 33. b5 axb5 34. axb5 Nf7 35. h4 Kh8 36. Rd2 Kg8 37. Kh3 Kh8 38.
-f4 $1 Kg8 39. h5 {
-The perfect set-up is reached, where e5 is not available for Black.} Kh8 40.
-Qf5 $1 {Now Black loses because he cannot prevent the exchange of rooks.} Nd8
-41. Rd7 Ne6 (41... Rxd7 42. Qxd7 Rf8 43. Qe7 Rg8 44. Kg4 {and the White king
-just walks to d7 to liquidate to a winning pawn ending. Now we know why White
-also optimized his queenside!}) 42. Qd5 1-0
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Bg4 9. c4 Nf6 10. Nc3 Bxf3 11. Qxf3 Nxd4 12. Qd1 Ne6 13. cxd5 Nxd5
+14. Bb5+ c6 15. Nxd5 cxb5 16. Bf4 Nxf4 17. Rxe7+ Kf8 18. Re5 Qd6 19. Qd2
+Ng6 20. Ree1 f6 21. Rad1 Kf7 22. Qe3 Rhe8 23. Ne7 Qxe7 24. Qb3+ Kf8 25.
+Rxe7 Rxe7 26. Qxb5 Rae8 27. g3 Ne5 28. Kg2 Nc6 29. b4 a6 30. Qb6 h6 31. a4
+Ne5 32. Qc5 Kg8 33. b5 axb5 34. axb5 Nf7 35. h4 Kh8 36. Rd2 Kg8 37. Kh3 Kh8
+38. f4 Kg8 39. h5 Kh8 40. Qf5 Nd8 41. Rd7 Ne6 42. Qd5 1-0
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -374,25 +244,21 @@ also optimized his queenside!}) 42. Qd5 1-0
 [White "Mamedyarov, Shakhriyar"]
 [Black "Gustafsson, Jan"]
 [Result "1/2-1/2"]
-[ECO "D43"]
 [WhiteElo "2752"]
 [BlackElo "2603"]
-[PlyCount "53"]
+[ECO "D43"]
 [EventDate "2008.06.28"]
+[PlyCount "53"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
-9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. Nxd7 Nxd7 13. Bd6 a6 14. Re1 c5 15.
-dxc5 Rc8 16. a4 b4 17. c6 Bxc6 18. Bxb4 $146 {Novelty.} (18. Nd5 {
-Inarkiev-Aronian, Khanty-Mansiysk 2007 went} Ne5 19. Be7 Qd7 20. Nf6+ Kxe7 21.
-Nxd7 Bxd7 22. Qd2 a5 23. Rad1 Rhd8 24. Qd6+ Ke8 25. Qb6 Ra8 26. Rd6 Rdb8 27.
-Qc5 Rc8 28. Qb6 Rcb8 29. Qe3 Rc8 30. h4) 18... Qb6 19. Ba3 Bd4 20. Bxc4 Ne5 (
-20... Bxf2+ 21. Kh1 Bb7 (21... Bxe1 22. Qd6 Qd8 23. Rxe1 $36) 22. a5 Qd4 23.
-Re2 Qxd1+ 24. Rxd1 Bc5 $11) 21. Bxa6 Bxf2+ 22. Kh1 Rd8 23. Qe2 Bxe1 24. Rxe1 f6
-25. Qh5+ Kd7 26. Qe2 Ke8 27. Qh5+ 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. Nxd7 Nxd7 13. Bd6 a6 14. Re1
+c5 15. dxc5 Rc8 16. a4 b4 17. c6 Bxc6 18. Bxb4 Qb6 19. Ba3 Bd4 20. Bxc4 Ne5
+21. Bxa6 Bxf2+ 22. Kh1 Rd8 23. Qe2 Bxe1 24. Rxe1 f6 25. Qh5+ Kd7 26. Qe2
+Ke8 27. Qh5+ 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -401,22 +267,19 @@ Re2 Qxd1+ 24. Rxd1 Bc5 $11) 21. Bxa6 Bxf2+ 22. Kh1 Rd8 23. Qe2 Bxe1 24. Rxe1 f6
 [White "Ivanchuk, Vassily"]
 [Black "Nepomniachtchi, Ian"]
 [Result "1/2-1/2"]
-[ECO "B86"]
 [WhiteElo "2740"]
 [BlackElo "2634"]
-[PlyCount "37"]
+[ECO "B86"]
 [EventDate "2008.06.28"]
+[PlyCount "37"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8. Bb3
-Qc7 9. f4 Nc6 10. Kh1 Na5 11. f5 Nxb3 12. axb3 Bd7 (12... O-O 13. Bg5 Bd7 14.
-Qf3 b5 15. Ndxb5 axb5 16. Rxa8 Rxa8 17. fxe6 fxe6 18. Bxf6 Bxf6 19. Nd5 exd5
-20. e5 Rf8 21. Qxd5+ Kh8 22. exf6 Rxf6 23. Rxf6 gxf6 24. Qf7 Qd8 {
-Cetkovic-Orlov, Pula 1991}) 13. Rf3 Rc8 14. Rg3 e5 15. Nde2 Bc6 16. Bg5 Nxe4
-17. Nxe4 Bxe4 18. Nc3 Bc6 19. Bxe7 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O Be7 8.
+Bb3 Qc7 9. f4 Nc6 10. Kh1 Na5 11. f5 Nxb3 12. axb3 Bd7 13. Rf3 Rc8 14. Rg3
+e5 15. Nde2 Bc6 16. Bg5 Nxe4 17. Nxe4 Bxe4 18. Nc3 Bc6 19. Bxe7 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -425,46 +288,24 @@ Cetkovic-Orlov, Pula 1991}) 13. Rf3 Rc8 14. Rg3 e5 15. Nde2 Bc6 16. Bg5 Nxe4
 [White "Nepomniachtchi, Ian"]
 [Black "Van Wely, Loek"]
 [Result "1-0"]
-[ECO "B90"]
 [WhiteElo "2634"]
 [BlackElo "2677"]
-[PlyCount "95"]
+[ECO "B90"]
 [EventDate "2008.06.28"]
+[PlyCount "95"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Qd2
-Nbd7 9. O-O-O Be7 10. f4 Ng4 11. g3 Nxe3 12. Qxe3 b5 13. Kb1 Qb6 14. Qe2 $1
-$146 {Novelty.  14.Qe1 is what Nisipeanu played against Van Wely only twenty
-days ago, at the Aerosvit Tournament in Foros. White won, but surely Van Wely
-has found an improvement. He doesn't get a chance to show it, since
-Nepomniachtchi has found something subtle himself.} b4 15. Na4 Qc6 {At first si
-ght this looks like a clear refutation since the knight has nowhere to go.} 16.
-f5 $1 {
-Of course that was the idea. White will get great play on the white squares.}
-Bxf5 (16... Qxa4 17. fxe6 fxe6 18. Qg4 {or 18. Bh3 with excellent compensation.
-}) 17. exf5 Qxa4 (17... Qxh1 $2 18. Bg2 Qxh2 19. Rh1) 18. Bg2 {Here too it's
-the white squares, as we often see in the Najdorf and Sveshnikov, that are
-worth a pawn.} O-O {Van Wely decides to sacrifice an exchange. Apparently he
-didn't like the alternative.} (18... Rc8 19. Rd5 Nf6 20. Ra5 Qd7 21. g4 $5) 19.
-Bxa8 (19. Nd4 $5) 19... Rxa8 20. g4 {Black doesn't have more compensation that
-his extra pawn and so White is clearly better.} Qc6 21. Na5 Qc7 22. Nc4 $6 a5 {
-Allows the following liquidation - Van Wely probably hoped that a drastic
-change of the position would offer the best practical chances here.} (22... Rc8
-23. Ne3 Nb6 24. h4 {is no fun for black.}) 23. Nxd6 Bxd6 24. Qd3 Nf6 25. Qxd6
-Qxd6 26. Rxd6 Nxg4 27. Rg1 {This could well be inaccurate.} (27. Re1 $142 Nxh2
-(27... f6 28. Rg1 $1 Nxh2 29. Rd7) 28. Rxe5 h5 29. Kc1 {looks won for White.})
-27... Nxh2 28. f6 g6 29. Rg2 Nf3 30. Re2 h5 31. Re3 e4 (31... Nd4 $5 32. Rxe5
-Ne6 {is not so clear because Black will start running with his kingside pawns.}
-) 32. Rxe4 g5 $6 {
-Now Black loses by force. 32... Kh7 was probably the last chance.} 33. Rd3 $1
-g4 34. Rd5 Ra6 35. Rf4 Re6 (35... Kh7 36. Rxh5+ Kg6 37. Rc5 Nh2 38. Kc1 g3 39.
-Rff5 $18) 36. a4 Re1+ (36... Re5 37. Rxe5 Nxe5 38. Rf5 Nf3 39. Rxh5 g3 40. Rh3
-$18) (36... Ne5 37. Rxa5 g3 38. Rf5 $18) 37. Ka2 Rh1 38. Rxa5 Kh7 39. Rd5 Kg6
-40. a5 Re1 41. a6 Re8 42. a7 Ra8 43. Ra5 Nh2 44. Rxb4 g3 45. Rb8 Rxa7 46. Rg8+
-Kxf6 47. Rxa7 Ng4 48. Ra3 1-0
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8.
+Qd2 Nbd7 9. O-O-O Be7 10. f4 Ng4 11. g3 Nxe3 12. Qxe3 b5 13. Kb1 Qb6 14.
+Qe2 b4 15. Na4 Qc6 16. f5 Bxf5 17. exf5 Qxa4 18. Bg2 O-O 19. Bxa8 Rxa8 20.
+g4 Qc6 21. Na5 Qc7 22. Nc4 a5 23. Nxd6 Bxd6 24. Qd3 Nf6 25. Qxd6 Qxd6 26.
+Rxd6 Nxg4 27. Rg1 Nxh2 28. f6 g6 29. Rg2 Nf3 30. Re2 h5 31. Re3 e4 32. Rxe4
+g5 33. Rd3 g4 34. Rd5 Ra6 35. Rf4 Re6 36. a4 Re1+ 37. Ka2 Rh1 38. Rxa5 Kh7
+39. Rd5 Kg6 40. a5 Re1 41. a6 Re8 42. a7 Ra8 43. Ra5 Nh2 44. Rxb4 g3 45.
+Rb8 Rxa7 46. Rg8+ Kxf6 47. Rxa7 Ng4 48. Ra3 1-0
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -473,29 +314,23 @@ Kxf6 47. Rxa7 Ng4 48. Ra3 1-0
 [White "Naiditsch, Arkadij"]
 [Black "Mamedyarov, Shakhriyar"]
 [Result "1/2-1/2"]
-[ECO "B46"]
 [WhiteElo "2624"]
 [BlackElo "2752"]
-[PlyCount "82"]
+[ECO "B46"]
 [EventDate "2008.06.28"]
+[PlyCount "82"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 d5 8.
-O-O Nf6 9. Re1 (9. Qf3 Be7 10. Qg3 Nh5 11. Qf3 Nf6 12. e5 Nd7 13. Qg3 g6 14.
-Bh6 c5 15. Na4 c4 16. Be2 {Leko-Ivanchuk, Dortmund 2008}) 9... Be7 10. e5 Nd7
-11. Qg4 g6 12. Na4 Qa5 13. Bh6 c5 14. b3 c4 15. Bf1 Bb7 16. Qg3 $146 {Novelty.}
-(16. Re3 Bc6 17. Qf4 Qc7 (17... Bxa4 18. Rf3 O-O-O 19. Qxf7 Rhe8 20. bxa4 Bc5
-21. Rb1 Qxa4 22. Bg5 Qc6 23. Bxd8 Nxe5 24. Rb8+ Kxb8 25. Bc7+ Qxc7 26. Qxe8+
-Qc8 27. Qxc8+ Kxc8 28. Rh3 Ng4 29. Rf3 Ne5 30. Rh3 Ng4 31. Rf3 {
-1/2-1/2, Carlsen-Mamedyarov, Moskau 2006}) 18. Nb2 Bc5 19. Re2 Rb8 20. Nd1 Qa5
-{1/2-1/2, Khairullin-Svidler, Moskau 2006}) 16... Bc6 17. Nb2 Rb8 18. Reb1 Bf8
-19. Bxf8 Kxf8 20. bxc4 Kg7 21. a3 Rhc8 22. Qe3 Rc7 23. cxd5 Bxd5 24. c4 Ba8 25.
-Nd3 Rxb1 26. Rxb1 Rxc4 27. Nb4 Rc8 28. Re1 Bb7 29. h4 h5 30. f4 Nb6 31. Rc1 Nd5
-32. Nxd5 Rxc1 33. Qxc1 Qxd5 34. Qe3 a5 35. Kf2 Qa2+ 36. Kg1 Qb2 37. Be2 Bd5 38.
-Bf3 Bb3 39. Qc5 Qd2 40. g3 a4 41. Bg2 Qd1+ 1/2-1/2
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 d5
+8. O-O Nf6 9. Re1 Be7 10. e5 Nd7 11. Qg4 g6 12. Na4 Qa5 13. Bh6 c5 14. b3
+c4 15. Bf1 Bb7 16. Qg3 Bc6 17. Nb2 Rb8 18. Reb1 Bf8 19. Bxf8 Kxf8 20. bxc4
+Kg7 21. a3 Rhc8 22. Qe3 Rc7 23. cxd5 Bxd5 24. c4 Ba8 25. Nd3 Rxb1 26. Rxb1
+Rxc4 27. Nb4 Rc8 28. Re1 Bb7 29. h4 h5 30. f4 Nb6 31. Rc1 Nd5 32. Nxd5 Rxc1
+33. Qxc1 Qxd5 34. Qe3 a5 35. Kf2 Qa2+ 36. Kg1 Qb2 37. Be2 Bd5 38. Bf3 Bb3
+39. Qc5 Qd2 40. g3 a4 41. Bg2 Qd1+ 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -504,49 +339,20 @@ Bf3 Bb3 39. Qc5 Qd2 40. g3 a4 41. Bg2 Qd1+ 1/2-1/2
 [White "Kramnik, Vladimir"]
 [Black "Leko, Peter"]
 [Result "1/2-1/2"]
-[ECO "E15"]
 [WhiteElo "2788"]
 [BlackElo "2741"]
-[PlyCount "45"]
+[ECO "E15"]
 [EventDate "2008.06.28"]
+[PlyCount "45"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 c5 6. d5 exd5 7. cxd5 Bb7 8. Bg2
-Nxd5 9. Qb3 $5 ({Aronian-Leko in Moskau 2006 went} 9. O-O Be7 10. Rd1 Nc6 11.
-Qf5 Nf6 12. e4 g6 13. Qf4 O-O 14. e5 Nh5 15. Qh6 Nd4 {
-and ended in a draw after 27 moves.}) 9... Nf6 (9... Nc7 10. Ne5 d5 11. Nc3 Bd6
-12. Nxf7 $1 Kxf7 13. Nxd5 Kf8 14. Bg5 Bxd5 15. Bxd8 Bxg2 16. O-O-O Bxh1 17.
-Rxd6 Ne8 18. Qe6 Nc6 19. Rd7 {1-0, Kazhgaleyev-Al Sayed, Doha 2006}) 10. Ne5 d5
-11. Nc3 Be7 (11... Bd6 $2 {is bad because of} 12. Nxd5 $1 Bxe5 13. Nxf6+ Bxf6
-14. Bxb7 $18) 12. Qa4+ $146 {
-Novelty.  A new move that took Kramnik some minutes on the clock.} (12. Bf4 O-O
-13. Rd1 Qc8 14. Nxd5 Nxd5 15. Bxd5 Bxd5 16. Qxd5 Na6 17. a3 Nc7 18. Qd7 Bf6 19.
-Ng4 Bd4 20. Qxc8 Raxc8 21. Be5 Ne6 22. e3 Bxe5 23. Nxe5 Rfd8 {
-1/2-1/2, Karavade-Sachdev, Pune 2007}) 12... Nbd7 13. Nc6 Bxc6 14. Qxc6 Rc8 15.
-Qa4 {Modern gambit play: White has sacrificed a pawn and made four moves with
-his queen!} d4 16. Nb5 O-O 17. O-O (17. Nxa7 {
-is too risky because Black can sacrifice an exchange with} Ra8 $1 18. Bxa8 Qxa8
-19. O-O {and White has problems freeing himself, e.g.} b5 $1 (19... c4 20. Bf4
-Nc5 21. Qa3 Nd5 22. Nb5 Nxf4 23. gxf4 Qd5 {
-and GM Shipov finds Black's initiative quite dangerous. However after} 24. Rad1
-Ne6 25. Qxe7 Qxb5 26. Qd6 {the position is just highly unclear.}) 20. Qa5 Bd8
-$1 {followed by ...Bb6 with a big advantage for black.}) 17... Ne5 {
-Nice centralisation by Leko.} 18. Qxa7 (18. Nxa7 Rc7 ({or again} 18... Ra8 $5
-19. Bxa8 Qxa8 $44 {and black has enough compensation.}) 19. f4 Neg4 20. Nb5 Rd7
-21. Bc6 Qc8 22. Bxd7 Qxd7 23. Qc4 Ne4 $44 {and black has compensation.}) 18...
-Nc6 {Unfortunately this theoretically interesting game now ends in a
-repetition of moves. If anyone, it's Leko who should be blamed, because he has
-alternative moves here.} (18... Re8 $5 19. Bf4 Bf8) (18... d3 19. Bf4 Ng6 ({
-also possible is} 19... dxe2 $141 20. Rfe1 Nd3 21. Rxe2 Nxf4 22. gxf4 Qd3 23.
-Nc3 Bd8) 20. Bc7 Qd7 21. a4 dxe2 22. Rfe1 Qd2 23. Bf3 Qxb2 24. Bxb6 $13 {
-and the position is unclear.}) 19. Qb7 Na5 20. Qa7 {
-Kramnik couldn't really chose to play on.} (20. Qa6 $6 Nd5 21. Bxd5 Qxd5 22.
-Qxb6 Bd8 23. Qd6 Qc4 24. Qd7 Rc6 25. a4 Re6 {
-with excellent compensation. Here, best seems} 26. b4 cxb4 27. Qxd4) 20... Nc6
-21. Qb7 Na5 22. Qa7 Nc6 23. Qb7 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 c5 6. d5 exd5 7. cxd5 Bb7 8.
+Bg2 Nxd5 9. Qb3 Nf6 10. Ne5 d5 11. Nc3 Be7 12. Qa4+ Nbd7 13. Nc6 Bxc6 14.
+Qxc6 Rc8 15. Qa4 d4 16. Nb5 O-O 17. O-O Ne5 18. Qxa7 Nc6 19. Qb7 Na5 20.
+Qa7 Nc6 21. Qb7 Na5 22. Qa7 Nc6 23. Qb7 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -555,36 +361,21 @@ with excellent compensation. Here, best seems} 26. b4 cxb4 27. Qxd4) 20... Nc6
 [White "Gustafsson, Jan"]
 [Black "Ivanchuk, Vassily"]
 [Result "1/2-1/2"]
-[ECO "D44"]
 [WhiteElo "2603"]
 [BlackElo "2740"]
-[PlyCount "61"]
+[ECO "D44"]
 [EventDate "2008.06.28"]
+[PlyCount "61"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 b5 7. a4 c6 8. e5 h6
-9. exf6 hxg5 10. fxg7 Rg8 11. g3 g4 ({A young Van Wely once tried} 11... Bb7
-12. Bg2 c5 13. O-O g4 14. Nh4 Bxg2 15. Nxg2 cxd4 16. Nxb5 Nc6 17. Qxg4 a6 18.
-Qe4 Rc8 19. Rfd1 $1 $16 {Jussupow-Van Wely, Groningen 1994}) 12. Nh4 (12. Ne5
-Qd5 $1 13. Nxg4 Qe4+ $1 (13... Qxh1 14. Nf6+) 14. Qe2 Qxd4 $15) 12... Bb7 $146
-{Novelty.} (12... c5 13. Bg2 cxd4 14. O-O (14. Bxa8 $142 dxc3 15. Qxd8+ Kxd8
-16. O-O-O+ $16) 14... dxc3 15. Qxg4 cxb2 16. Rad1 (16. Rab1 $5) 16... Qc7 $1
-17. Bxa8 bxa4 $1 {Tyomkin-Gonzalez de la Torre, Andorra 2000.     And now
-according to Tyomkin White should have played} 18. Qh5 $1 Bc3 (18... Nd7 19.
-Rxd7 $1) 19. Nf5 $1 exf5 20. Rfe1+ $3 Bxe1 21. Rxe1+ Qe7 (21... Be6 22. Qh8 $1)
-22. Rxe7+ Kxe7 23. Qe2+ Be6 24. Qxb2 $16) 13. Bg2 (13. Qxg4 {
-also seems possible} c5 14. Bg2 Bxg2 15. Nxg2 cxd4 16. Rd1 Nc6 17. O-O $13)
-13... Rxg7 14. axb5 Qb6 15. bxc6 Nxc6 16. O-O Ne7 {
-16...O-O-O looks perfectly playable.} 17. Qe2 Rc8 18. Qe5 {
-I wonder if Gusti is satisfied about this one - Black wants to go to f8 anyway.
-} (18. Bxb7 $5 Qxb7 19. Ne4 $36) 18... Kf8 {But hey, against the great Chuky a
-draw is fine of course, and that's what he forces with the following moves.}
-19. Na4 Qc7 20. Qxc7 Rxc7 21. Bxb7 Rxb7 22. Rfc1 Rc7 23. Nc5 c3 24. bxc3 Bxc5
-25. dxc5 Rg5 26. Ra4 Nc6 27. Kg2 Rb7 28. Rc2 Rb5 29. f3 gxf3+ 30. Nxf3 Rgxc5
-31. Nd4 1/2-1/2
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 b5 7. a4 c6 8. e5
+h6 9. exf6 hxg5 10. fxg7 Rg8 11. g3 g4 12. Nh4 Bb7 13. Bg2 Rxg7 14. axb5
+Qb6 15. bxc6 Nxc6 16. O-O Ne7 17. Qe2 Rc8 18. Qe5 Kf8 19. Na4 Qc7 20. Qxc7
+Rxc7 21. Bxb7 Rxb7 22. Rfc1 Rc7 23. Nc5 c3 24. bxc3 Bxc5 25. dxc5 Rg5 26.
+Ra4 Nc6 27. Kg2 Rb7 28. Rc2 Rb5 29. f3 gxf3+ 30. Nxf3 Rgxc5 31. Nd4 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -593,32 +384,19 @@ draw is fine of course, and that's what he forces with the following moves.}
 [White "Van Wely, Loek"]
 [Black "Gustafsson, Jan"]
 [Result "0-1"]
-[ECO "D31"]
 [WhiteElo "2677"]
 [BlackElo "2603"]
-[PlyCount "36"]
+[ECO "D31"]
 [EventDate "2008.06.28"]
+[PlyCount "36"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. c4 e6 2. d4 d5 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4 Qxe4+
-8. Be2 Na6 9. Ba5 ({Gustafsson feels that this important alternative is more
-dangerous for Black. As an example, we give the stem game:} 9. Bd6 Bd7 10. Nf3
-c5 11. Ne5 Bc6 12. Nxc6 bxc6 13. O-O Ne7 14. Qa4 Nb4 15. Bxc5 a5 16. Bf3 Qc2
-17. b3 Rc8 18. Qxa5 Nd3 19. Be4 Qe2 20. Bxd3 Qxd3 21. Rad1 Qf5 22. Qa7 {
-1-0, Taimanov-Steiner, Saltsjobaden 1952}) 9... b6 10. Qd6 Bd7 11. O-O-O O-O-O
-12. Bc3 f6 13. Bf3 $2 {
-Van Wely mixes up the move order and this is critical in such a sharp line.} ({
-Also not good is} 13. b3 $2 Qxg2 14. Bf3 Qg5+ 15. Kb2 Qc5 16. Qg3 Ne7 17. Qxg7
-Nf5 18. Qxf6 Rhf8 19. Qg5 Qxf2+ 20. Rd2 Qe3 {Van Wely-Shirov, Amber rapid 2002}
-) (13. Qa3 {Normally White plays} Kb7 14. Bf3 Qf4+ 15. Rd2 Qc7 16. Ne2 e5 {
-Atalik-Pavasovic, Nova Gorica 2003}) 13... Qxc4 14. Be2 $146 {Novelty.  Only
-this is new, but it's already bad for White. 14. Qa3 was played in Bick-Balazs,
-Budapest 2006.} Qxa2 15. Nf3 Nc5 16. Ne5 Ne4 17. Bc4 Qa1+ 18. Kc2 Qa4+ ({
-and White resigned because of} 18... Qa4+ 19. Bb3 Qxb3+ 20. Kxb3 Nxd6 21. Rxd6
-fxe5 $19) 0-1
+1. c4 e6 2. d4 d5 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4
+Qxe4+ 8. Be2 Na6 9. Ba5 b6 10. Qd6 Bd7 11. O-O-O O-O-O 12. Bc3 f6 13. Bf3
+Qxc4 14. Be2 Qxa2 15. Nf3 Nc5 16. Ne5 Ne4 17. Bc4 Qa1+ 18. Kc2 Qa4+ 0-1
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -627,28 +405,23 @@ fxe5 $19) 0-1
 [White "Mamedyarov, Shakhriyar"]
 [Black "Kramnik, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "E15"]
 [WhiteElo "2752"]
 [BlackElo "2788"]
-[PlyCount "79"]
+[ECO "E15"]
 [EventDate "2008.06.28"]
+[PlyCount "79"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8. O-O
-Be7 9. Nc3 O-O 10. Rd1 Qb6 11. Bf4 Rd8 12. Rd2 d6 13. Rad1 Ne8 14. e4 Bc6 15.
-Qc2 Nd7 16. e5 dxe5 17. Nxe5 Nxe5 18. Bxe5 Bxg2 19. Kxg2 Nf6 20. Ne4 Rxd2 $146
-{Novelty.} ({Braun-Tischbierek, Tegernsee 2007 went} 20... Qc6 21. f3 Nxe4 22.
-Qxe4 Qxe4 23. fxe4 Kf8 24. Kf3 f6 25. Bc7 Rxd2 26. Rxd2 Ke8 $11) 21. Rxd2 Rd8
-22. Bxf6 gxf6 (22... Bxf6 $2 23. Rxd8+ Bxd8 24. Qa4 Kf8 25. Qd7 {
-is very unpleasant for black.}) 23. g4 {White is slightly better.} h5 $5 (23...
-Rd4 $5) 24. h3 ({After} 24. gxh5 f5 25. Ng3 Rd4 {
-black has compensation, but perhaps white still has some chances.}) 24... hxg4
-25. hxg4 Rxd2 26. Qxd2 Qc6 27. f3 f5 28. gxf5 exf5 29. Nc3 Qg6+ 30. Kf1 Qh5 31.
-Qg2+ Kf8 32. Nd5 Qh6 33. f4 Bd6 34. Qg1 Qh5 35. Kf2 Qh8 36. Qc1 Qd4+ 37. Kf3
-Qd3+ 38. Kf2 Qd4+ 39. Kf3 Qd3+ 40. Kf2 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8.
+O-O Be7 9. Nc3 O-O 10. Rd1 Qb6 11. Bf4 Rd8 12. Rd2 d6 13. Rad1 Ne8 14. e4
+Bc6 15. Qc2 Nd7 16. e5 dxe5 17. Nxe5 Nxe5 18. Bxe5 Bxg2 19. Kxg2 Nf6 20.
+Ne4 Rxd2 21. Rxd2 Rd8 22. Bxf6 gxf6 23. g4 h5 24. h3 hxg4 25. hxg4 Rxd2 26.
+Qxd2 Qc6 27. f3 f5 28. gxf5 exf5 29. Nc3 Qg6+ 30. Kf1 Qh5 31. Qg2+ Kf8 32.
+Nd5 Qh6 33. f4 Bd6 34. Qg1 Qh5 35. Kf2 Qh8 36. Qc1 Qd4+ 37. Kf3 Qd3+ 38.
+Kf2 Qd4+ 39. Kf3 Qd3+ 40. Kf2 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -657,26 +430,21 @@ Qd3+ 38. Kf2 Qd4+ 39. Kf3 Qd3+ 40. Kf2 1/2-1/2
 [White "Leko, Peter"]
 [Black "Nepomniachtchi, Ian"]
 [Result "1/2-1/2"]
-[ECO "B52"]
 [WhiteElo "2741"]
 [BlackElo "2634"]
-[PlyCount "59"]
+[ECO "B52"]
 [EventDate "2008.06.28"]
+[PlyCount "59"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. Nc3 g6 7. d4 cxd4 8.
-Nxd4 Nf6 9. h3 Bg7 10. Be3 O-O 11. O-O Rfc8 12. b3 e6 $146 {Novelty} (12... a6
-{Petschar-Wohlmann, Oostenrijk 1996  went} 13. a4 Qd8 14. Qd2 Nd7 15. Rab1 Nc5
-16. Nxc6 bxc6 17. Bd4) 13. Rc1 Qe7 14. Qd2 a6 15. Rfd1 Nxd4 16. Bxd4 Rc6 17. a4
-Rac8 18. Re1 Qf8 19. Rcd1 Nd7 20. Bxg7 Qxg7 21. Ne2 ({The pawn offer} 21. e5 $5
-Nxe5 22. Ne4 {looks interesting because} Rd8 23. Qg5 {is annoying for black.})
-21... Nc5 22. Nd4 R6c7 23. Qe3 Rd7 24. a5 Rdd8 25. Rd2 e5 $1 {
-Black doesn't wait.} 26. Ne2 f5 27. exf5 gxf5 28. Red1 Ne4 29. Rd5 Kh8 30. f4 {
-Unfortunately, Leko again offers an early draw. There is still enough play
-left in this position,right?} 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 Nc6 6. Nc3 g6 7. d4 cxd4
+8. Nxd4 Nf6 9. h3 Bg7 10. Be3 O-O 11. O-O Rfc8 12. b3 e6 13. Rc1 Qe7 14.
+Qd2 a6 15. Rfd1 Nxd4 16. Bxd4 Rc6 17. a4 Rac8 18. Re1 Qf8 19. Rcd1 Nd7 20.
+Bxg7 Qxg7 21. Ne2 Nc5 22. Nd4 R6c7 23. Qe3 Rd7 24. a5 Rdd8 25. Rd2 e5 26.
+Ne2 f5 27. exf5 gxf5 28. Red1 Ne4 29. Rd5 Kh8 30. f4 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -685,38 +453,25 @@ left in this position,right?} 1/2-1/2
 [White "Ivanchuk, Vassily"]
 [Black "Naiditsch, Arkadij"]
 [Result "1-0"]
-[ECO "D27"]
 [WhiteElo "2740"]
 [BlackElo "2624"]
-[PlyCount "105"]
+[ECO "D27"]
 [EventDate "2008.06.28"]
+[PlyCount "105"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e3 a6 6. a4 c5 7. Bxc4 Nc6 8. O-O
-Be7 9. dxc5 Qxd1 10. Rxd1 Bxc5 11. Bd2 b6 12. Bd3 Bb7 $146 {Novelty} ({
-I.Sokolov-Wells, London/Crowthorne 2006 went} 12... Nb4 13. Be2 Bb7 14. a5 bxa5
-15. Rxa5 Be7 16. Ne5 O-O 17. f3 Rfd8 18. e4) 13. Ne4 Be7 14. Nxf6+ Bxf6 15.
-Rac1 O-O 16. Be4 {White's advantage is very small and somehow Black should be
-able to equalize here.} Rfc8 17. b3 Na5 18. Bxb7 Nxb7 19. Bb4 Bb2 20. Rxc8+
-Rxc8 21. Rd7 Na5 $6 (21... Nd8 {This looks better} 22. g4 Nc6 23. Bd6 b5) 22.
-Bxa5 bxa5 23. g4 h6 24. Kg2 Bc3 $6 {
-"Threatening" 25...Rb8 but Black cannot win the b-pawn like this.} 25. g5 $1
-Rb8 26. Rd3 Rc8 (26... Rxb3 $2 27. Nd4 Ra3 28. Nc2 Rb3 29. gxh6 gxh6 30. e4 {
-and Black finds himself caught in an "eternal pin".}) 27. h4 hxg5 28. hxg5 Kh7
-29. Kg3 Kg6 30. Kf4 Rc6 31. e4 f6 32. Kg4 fxg5 {
-Perhaps Black should have waited with something like 32... Bb2} 33. Nxg5 e5 34.
-Nf3 Kf6 35. Kh5 Ke7 36. Nh4 Kf6 37. Rf3+ Ke6 38. Nf5 Kd7 (38... Kf7 {
-Black's last chance might have been} 39. Ne3+ Ke8 40. Nc4 Be1 $1 41. Nxe5 Rc5
-42. Rf5 Bxf2 43. Kg6 Ke7) 39. Rd3+ Kc7 40. Nxg7 {
-This is probably winning - especially with Ivanchuk's technique.} Be1 41. f3
-Rc3 42. Ne6+ Kc6 43. Rxc3+ Bxc3 44. Kg6 Kd6 45. Kf5 Kc6 46. f4 exf4 47. Kxf4
-Bf6 48. e5 Be7 49. Ke4 Bh4 50. Kd4 Bg3 51. Ng5 Bf4 52. Nf3 Bg3 53. Kc4 {
-White's next move is 54.Nd4+ gaining control over d5. A great game by Ivanchuk
-that started a bit dull and was indeed close to a draw at some point. But
-fighting spiritprevailed!} 1-0
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e3 a6 6. a4 c5 7. Bxc4 Nc6 8.
+O-O Be7 9. dxc5 Qxd1 10. Rxd1 Bxc5 11. Bd2 b6 12. Bd3 Bb7 13. Ne4 Be7 14.
+Nxf6+ Bxf6 15. Rac1 O-O 16. Be4 Rfc8 17. b3 Na5 18. Bxb7 Nxb7 19. Bb4 Bb2
+20. Rxc8+ Rxc8 21. Rd7 Na5 22. Bxa5 bxa5 23. g4 h6 24. Kg2 Bc3 25. g5 Rb8
+26. Rd3 Rc8 27. h4 hxg5 28. hxg5 Kh7 29. Kg3 Kg6 30. Kf4 Rc6 31. e4 f6 32.
+Kg4 fxg5 33. Nxg5 e5 34. Nf3 Kf6 35. Kh5 Ke7 36. Nh4 Kf6 37. Rf3+ Ke6 38.
+Nf5 Kd7 39. Rd3+ Kc7 40. Nxg7 Be1 41. f3 Rc3 42. Ne6+ Kc6 43. Rxc3+ Bxc3
+44. Kg6 Kd6 45. Kf5 Kc6 46. f4 exf4 47. Kxf4 Bf6 48. e5 Be7 49. Ke4 Bh4 50.
+Kd4 Bg3 51. Ng5 Bf4 52. Nf3 Bg3 53. Kc4 1-0
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -725,33 +480,21 @@ fighting spiritprevailed!} 1-0
 [White "Naiditsch, Arkadij"]
 [Black "Van Wely, Loek"]
 [Result "1-0"]
-[ECO "B86"]
 [WhiteElo "2624"]
 [BlackElo "2677"]
-[PlyCount "51"]
+[ECO "B86"]
 [EventDate "2008.06.28"]
+[PlyCount "51"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8.
-Bg5 h6 9. Bh4 Nc5 10. Qe2 Be7 11. O-O-O O-O 12. Bg3 $1 $146 {Novelty.  I like
-this move. White prevents tricks with ...Nxe4 and already supports f2-f4 and
-e4-e5.} ({Estay-Michel Yunis, Santiago 1998  went} 12. f4 Nfxe4 13. Nxe4 Nxb3+
-14. Nxb3 Bxh4 15. Rxd6 Qc7 16. g3 Be7 17. Rd2 Bd7 18. Rhd1 Bb5) 12... Qc7 $2 {
-Naiditsch considered this move as the first clear mistake.} 13. e5 dxe5 14.
-Bxe5 Qa5 15. Kb1 Bd7 16. f4 b5 17. g4 b4 18. g5 bxc3 $2 {This loses.} (18...
-hxg5 {
-At first sight 18... hxg5 doesn't seem to terrible for Black because after} 19.
-fxg5 Ne8 20. Nd5 $1 exd5 21. Bxd5 {he has the surprising} Nd3 $1 22. Bxg7 (22.
-Bxa8 Nxe5 23. Rhe1 Bd6) 22... Qxd5 (22... Nxg7 23. Bxa8 Ne5 24. Qe4 $1 $16) 23.
-Bxf8 Bxf8 24. Qxd3 Bg4 $13) 19. gxf6 gxf6 {
-You cannot call this a blunder anymore - Black was lost already.} (19... Bxf6
-20. Bxf6 gxf6 21. Qh5 Kh7 22. Nxe6 $1 $18) 20. Nf5 $1 exf5 21. Bxc3 Qd8 22. Qh5
-Kh7 23. Rhg1 Qe8 24. Rg3 Rg8 {The only move that prevents a direct mate.} (
-24... Nxb3 25. Qxh6+ Kxh6 26. Rh3+ Kg6 27. Rg1#) 25. Bxf7 Rxg3 26. hxg3 {
-Black resigned - he has to give up his queen.} 1-0
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7
+8. Bg5 h6 9. Bh4 Nc5 10. Qe2 Be7 11. O-O-O O-O 12. Bg3 Qc7 13. e5 dxe5 14.
+Bxe5 Qa5 15. Kb1 Bd7 16. f4 b5 17. g4 b4 18. g5 bxc3 19. gxf6 gxf6 20. Nf5
+exf5 21. Bxc3 Qd8 22. Qh5 Kh7 23. Rhg1 Qe8 24. Rg3 Rg8 25. Bxf7 Rxg3 26.
+hxg3 1-0
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -760,23 +503,21 @@ Black resigned - he has to give up his queen.} 1-0
 [White "Mamedyarov, Shakhriyar"]
 [Black "Ivanchuk, Vassily"]
 [Result "1/2-1/2"]
-[ECO "E49"]
 [WhiteElo "2752"]
 [BlackElo "2740"]
-[PlyCount "57"]
+[ECO "E49"]
 [EventDate "2008.06.28"]
+[PlyCount "57"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 exd5 8.
-e3 O-O 9. Bd3 b6 10. Ne2 Ba6 11. O-O Re8 12. Ng3 Bxd3 13. Qxd3 Nc6 14. Ra2 ({
-Gavrikov suggested} 14. Bb2 Rc8 15. Rad1 cxd4 16. cxd4 Na5 17. e4) 14... Qd7
-15. Re2 Re6 16. Bb2 Rd8 17. Rd1 Ne7 $146 {Novelty} (17... g6 {
-Serper-Onischuk, San Diego 2006} 18. e4 $1 dxe4 19. fxe4 h5 20. Qc2 $5 $36) 18.
-e4 Qa4 19. Bc1 Rc8 20. Rde1 g6 21. dxc5 Rxc5 22. Be3 Rc8 23. Bd4 dxe4 24. Nxe4
-Nxe4 25. Rxe4 Rxe4 26. Qxe4 Nf5 27. Bxb6 Qxe4 28. fxe4 axb6 29. exf5 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 exd5
+8. e3 O-O 9. Bd3 b6 10. Ne2 Ba6 11. O-O Re8 12. Ng3 Bxd3 13. Qxd3 Nc6 14.
+Ra2 Qd7 15. Re2 Re6 16. Bb2 Rd8 17. Rd1 Ne7 18. e4 Qa4 19. Bc1 Rc8 20. Rde1
+g6 21. dxc5 Rxc5 22. Be3 Rc8 23. Bd4 dxe4 24. Nxe4 Nxe4 25. Rxe4 Rxe4 26.
+Qxe4 Nf5 27. Bxb6 Qxe4 28. fxe4 axb6 29. exf5 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -785,33 +526,23 @@ Nxe4 25. Rxe4 Rxe4 26. Qxe4 Nf5 27. Bxb6 Qxe4 28. fxe4 axb6 29. exf5 1/2-1/2
 [White "Kramnik, Vladimir"]
 [Black "Nepomniachtchi, Ian"]
 [Result "1/2-1/2"]
-[ECO "D11"]
 [WhiteElo "2788"]
 [BlackElo "2634"]
-[PlyCount "78"]
+[ECO "D11"]
 [EventDate "2008.06.28"]
+[PlyCount "78"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bh5 6. Nc3 e6 7. g4 Bg6 8. Ne5
-Nbd7 9. h4 dxc4 10. Nxg6 hxg6 11. g5 Nh7 $146 {Novelty.  Because he attacks
-pawn g5, Black has time to protect his c4 pawn. However, the knight on h7
-doesn't look very nice.} ({Milov-Najer, President's Cup, Baku 2008 went} 11...
-Nd5 12. Bxc4 Bb4 13. Bd2 Qe7 14. Be2 O-O-O 15. Qc2 Kb8) 12. Bg2 Bb4 13. Qe2 Nb6
-14. a3 Ba5 15. Bd2 Nf8 16. Ne4 Bxd2+ 17. Qxd2 Qe7 18. Qb4 {
-Being a pawn, Kramnik still goes for the ending.} Qxb4+ 19. axb4 Kd7 20. b5 Kc7
-21. bxc6 bxc6 22. Nd2 Nfd7 23. Ra5 $1 {
-White prevents 23...e5 and indeed has nice compensation here.} a6 24. Bf1 Rhb8
-25. Rh3 Kd6 (25... Nd5 26. Nxc4 Rb5 27. h5 Rxa5 28. Nxa5 gxh5 29. Rxh5 c5 $132)
-26. h5 gxh5 27. Rxh5 Ke7 28. Rh7 g6 29. Kd1 Ra7 30. Kc1 Rc7 31. Ne4 Rcb7 32.
-Nd2 Rc7 33. Ne4 Rcb7 34. Rxa6 {
-Kramnik decides to play on, but it will be a draw soon anyway.} Nd5 35. Bxc4
-Rxb2 36. Nd2 (36. Rxc6 $4 Rb1+ 37. Kd2 R8b2+ 38. Kd3 Nb4+ 39. Kc3 Rc2#) 36...
-R2b6 37. Rxb6 N5xb6 38. Bd3 Nf8 39. Rh4 Nfd7 {Just like Gustafsson,
-Nepomniachtchi plays an excellent tournament. Eight times winner Kramnik isn't
-even winning the Oscar for supporting act this time.} 1/2-1/2
+Nbd7 9. h4 dxc4 10. Nxg6 hxg6 11. g5 Nh7 12. Bg2 Bb4 13. Qe2 Nb6 14. a3 Ba5
+15. Bd2 Nf8 16. Ne4 Bxd2+ 17. Qxd2 Qe7 18. Qb4 Qxb4+ 19. axb4 Kd7 20. b5
+Kc7 21. bxc6 bxc6 22. Nd2 Nfd7 23. Ra5 a6 24. Bf1 Rhb8 25. Rh3 Kd6 26. h5
+gxh5 27. Rxh5 Ke7 28. Rh7 g6 29. Kd1 Ra7 30. Kc1 Rc7 31. Ne4 Rcb7 32. Nd2
+Rc7 33. Ne4 Rcb7 34. Rxa6 Nd5 35. Bxc4 Rxb2 36. Nd2 R2b6 37. Rxb6 N5xb6 38.
+Bd3 Nf8 39. Rh4 Nfd7 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -820,42 +551,24 @@ even winning the Oscar for supporting act this time.} 1/2-1/2
 [White "Gustafsson, Jan"]
 [Black "Leko, Peter"]
 [Result "0-1"]
-[ECO "E15"]
 [WhiteElo "2603"]
 [BlackElo "2741"]
-[PlyCount "90"]
+[ECO "E15"]
 [EventDate "2008.06.28"]
+[PlyCount "90"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8. O-O
-Be7 9. Nc3 O-O 10. Rd1 Qb6 11. Bf4 Rd8 12. Rd2 d6 13. Rad1 Ne8 14. e4 Bc6 15.
-Qc2 Qb7 (15... Nd7 {Mamedyarov-Kramnik, Dortmund 2008 went} 16. e5 dxe5 17.
-Nxe5 Nxe5 18. Bxe5 Bxg2 19. Kxg2 Nf6 20. Ne4) 16. Qb3 Qxb3 17. axb3 f6 $146 {
-Novelty.  Prevents e4-e5 forever - or so it seems.} ({
-Dlugy-Berzinsh, Liepaja 2006 went} 17... Nd7 $6 18. e5 dxe5 19. Nxe5 Nxe5 20.
-Bxe5 Rxd2 21. Rxd2 Bxg2 22. Kxg2 $14) 18. Ne1 ({
-Here 18. e5 is quite interesting:} 18. e5 fxe5 19. Nxe5 Bxg2 20. Kxg2 Rc8 21.
-Nf3 Nc6 $13) 18... Nd7 19. Ra1 Rdb8 20. Ra3 Rb7 21. e5 $6 {
-But here it's probably not good.} Nxe5 22. Bxe5 Bxg2 23. Bxd6 ({After} 23. Bxf6
-{Black might go for} Bc6 {
-which is wrong after the text move because the c5 would become weak.}) 23...
-Nxd6 24. Kxg2 Nf5 $15 {Now White's pieces look rather clumsy - Black has a
-clear plus. Probably b3 cannot be saved anymore.} 25. Ra6 Nd4 26. Nf3 Nxb3 27.
-Rd3 e5 {It's not so easy to win it - this was also the opinion of IM (with
-five GM norms) Michael Hoffman, who came to support Gusti today. He hoped for
-a blockade on the white squares.} 28. Rd5 Rd8 29. Rxd8+ (29. Ne4 Rbd7 30. g4 $5
-) 29... Bxd8 30. Rd6 Be7 31. Ra6 Nd4 {
-No blockade today. Black is a healthy pawn up now.} 32. Nxd4 cxd4 33. Nb5 d3 $1
-{Well played by Leko.} 34. Kf1 Bc5 35. Rc6 d2 $6 {But this is inaccurate.} ({
-Preferable is} 35... Bb4 36. Ra6 Kf7) 36. Ke2 Rd7 37. Nc3 Bd4 (37... Bxf2 38.
-Kxf2 d1=Q 39. Nxd1 Rxd1 40. b4 {is probably a draw.}) 38. Kxd2 $6 ({After} 38.
-Nd1 Kf7 39. c5 {
-Black still has to show whether his advantage is winning or not.}) 38... Bxf2+
-39. Nd5 a5 40. b3 Kf7 41. g4 Rb7 42. Ke2 (42. Kc2 e4) 42... Bd4 43. h4 e4 44.
-h5 Rxb3 45. Rc7+ Ke6 (45... Ke6 46. Rxg7 Rb2+ {is winning.}) 0-1
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8.
+O-O Be7 9. Nc3 O-O 10. Rd1 Qb6 11. Bf4 Rd8 12. Rd2 d6 13. Rad1 Ne8 14. e4
+Bc6 15. Qc2 Qb7 16. Qb3 Qxb3 17. axb3 f6 18. Ne1 Nd7 19. Ra1 Rdb8 20. Ra3
+Rb7 21. e5 Nxe5 22. Bxe5 Bxg2 23. Bxd6 Nxd6 24. Kxg2 Nf5 25. Ra6 Nd4 26.
+Nf3 Nxb3 27. Rd3 e5 28. Rd5 Rd8 29. Rxd8+ Bxd8 30. Rd6 Be7 31. Ra6 Nd4 32.
+Nxd4 cxd4 33. Nb5 d3 34. Kf1 Bc5 35. Rc6 d2 36. Ke2 Rd7 37. Nc3 Bd4 38.
+Kxd2 Bxf2+ 39. Nd5 a5 40. b3 Kf7 41. g4 Rb7 42. Ke2 Bd4 43. h4 e4 44. h5
+Rxb3 45. Rc7+ Ke6 0-1
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -864,52 +577,23 @@ h5 Rxb3 45. Rc7+ Ke6 (45... Ke6 46. Rxg7 Rb2+ {is winning.}) 0-1
 [White "Van Wely, Loek"]
 [Black "Mamedyarov, Shakhriyar"]
 [Result "0-1"]
-[ECO "D38"]
 [WhiteElo "2677"]
 [BlackElo "2752"]
-[PlyCount "78"]
+[ECO "D38"]
 [EventDate "2008.06.28"]
+[PlyCount "78"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Bb4 5. cxd5 exd5 6. Bg5 Nbd7 7. Qc2 h6 8.
-Bh4 O-O ({Van Wely-Eljanov, Foros 2007 went} 8... g5 9. Bg3 Ne4 10. Nd2 Nxg3
-11. hxg3 Nb6 12. a3 Bf8 13. e3 Bg7 14. Bd3 Qe7 15. Nb3 O-O 16. Bh7+ Kh8 17. Bf5
-c6 18. O-O-O $14) 9. e3 c5 10. Bd3 c4 11. Bf5 Nb6 12. g4 $5 $146 {Novelty.  Typ
-ically Van Wely. He's playing a terrible tournament, with two draws and four
-losses, and many players would have been satisfied with a quick draw, to get
-it over with. But not the Dutchman, who always plays for a win. However if
-someone still wonders why he's still invited to major tournaments: this is one
-of the answers!} ({Kelly-Schandorff, Goeteborg 2005 went} 12. Bxc8 Rxc8 13. O-O
-Re8 14. Ne5 Bxc3 15. bxc3 Qd6 16. Rfb1 Nfd7 17. Nxd7 Qxd7 18. a4 Rc6 19. Rb5
-Nc8 20. Qd1 a6 21. Rb2 Ree6 22. Qg4 Rb6 23. Rxb6 Nxb6 24. Qd1 Nc8 25. Qg4 Nb6
-$11) 12... g5 {Black can't really do without this move.} 13. Bg3 Bxf5 14. gxf5
-(14. Qxf5 $2 Ne4 $17) 14... Ne4 15. Nd2 Qe7 (15... Qd7 {is not a good idea} 16.
-Ndxe4 Qxf5 {because White can simply play} 17. O-O-O) 16. Ke2 {
-Here the king is quite safe. Steinitz would have been proud of White's play!} (
-16. O-O-O $2 Bxc3 17. bxc3 Qa3+) 16... Nxd2 17. Kxd2 Qe4 {Black tries his luck
-in the ending. An interesting plan was 17... Nd7 to manoeuver the knight to e4.
-} 18. h4 g4 (18... Kg7 $5) 19. Qxe4 dxe4 20. h5 $1 {
-Now White is slightly better.} Kh7 21. Rh4 Rg8 22. Rg1 Nd5 23. Be5 f6 24. Bh2
-Rac8 25. Rhxg4 {A surprising possibility was 25. Bd6!?} Rxg4 26. Rxg4 Rc6 27.
-Rxe4 Ra6 28. a3 Bxc3+ 29. bxc3 Rxa3 30. Re6 b5 31. e4 Ra2+ 32. Ke1 Nxc3 33. e5
-Ra1+ 34. Kd2 Nd5 35. exf6 c3+ 36. Kd3 $2 {In timetrouble White still tries to
-win. After the game, Van Wely said he didn't have enough time here to evaluate
-the upcoming complications correctly. "I could have drawn it if I wanted to."
-The following analysis confirms this.} (36. Kc2 Kg8 37. Rd6 Ra2+ 38. Kd3 Rd2+
-39. Ke4 c2 40. Rc6 Rxf2 41. Be5 Nb6 42. Bg3 Nc4 43. Rc8+ Kf7 44. Rc7+ Ke8 45.
-Rc8+ Kf7 (45... Kd7 $2 {This loses to} 46. f7 Re2+ (46... c1=Q 47. Rc7+ Kd8 48.
-f8=Q#) 47. Kf3 Re3+ 48. Kf2 Kxc8 49. f8=Q+ Kb7 50. Qf7+ Kc6 51. d5+ Kb6 52. Bb8
-Ka5 53. Qxa7+ Kb4 54. Qa1 $18) 46. Rc7+ Ke8 47. Rc8+) 36... Rd1+ $2 {
-Surprisingly, this move throws away the win!} ({Better is} 36... Kg8 37. Re8+
-Kf7 38. Rc8 Rd1+ 39. Ke4 Nxf6+ 40. Kf3 b4 {should be winning for Black.}) 37.
-Ke2 $2 (37. Ke4 $3 {would have been a brilliant escape.} c2 38. Kxd5 c1=Q 39.
-Re7+ Kg8 40. Rg7+ $1 Kh8 (40... Kf8 $4 41. Bd6+ Ke8 42. f7+ Kd7 43. f8=Q#) 41.
-Rc7 $1 Qb2 42. Rc8+ Kh7 43. Rc7+ {and the black king has to return to h8,
-because 43... Kg8?? allows mate in four!} Kg8 $4 44. f7+ Kg7 45. Be5+ Kf8 46.
-Bd6+ Kg7 47. f8=Q#) 37... c2 38. f7 Kg7 39. Rxh6 Kxf7 0-1
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Bb4 5. cxd5 exd5 6. Bg5 Nbd7 7. Qc2 h6
+8. Bh4 O-O 9. e3 c5 10. Bd3 c4 11. Bf5 Nb6 12. g4 g5 13. Bg3 Bxf5 14. gxf5
+Ne4 15. Nd2 Qe7 16. Ke2 Nxd2 17. Kxd2 Qe4 18. h4 g4 19. Qxe4 dxe4 20. h5
+Kh7 21. Rh4 Rg8 22. Rg1 Nd5 23. Be5 f6 24. Bh2 Rac8 25. Rhxg4 Rxg4 26. Rxg4
+Rc6 27. Rxe4 Ra6 28. a3 Bxc3+ 29. bxc3 Rxa3 30. Re6 b5 31. e4 Ra2+ 32. Ke1
+Nxc3 33. e5 Ra1+ 34. Kd2 Nd5 35. exf6 c3+ 36. Kd3 Rd1+ 37. Ke2 c2 38. f7
+Kg7 39. Rxh6 Kxf7 0-1
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -918,35 +602,20 @@ Bd6+ Kg7 47. f8=Q#) 37... c2 38. f7 Kg7 39. Rxh6 Kxf7 0-1
 [White "Nepomniachtchi, Ian"]
 [Black "Gustafsson, Jan"]
 [Result "1/2-1/2"]
-[ECO "C77"]
 [WhiteElo "2634"]
 [BlackElo "2603"]
-[PlyCount "43"]
+[ECO "C77"]
 [EventDate "2008.06.28"]
+[PlyCount "43"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. Nc3 d6 8. Nd5
-h6 9. c3 Be6 10. Nxf6+ {Nepomniachtchi has been working with Morozevich and
-often plays the same opening lines as the current world's no. 2.} ({
-Morozevich-Kasimdzhanov in Tomsk 2006 went} 10. Be3 O-O 11. O-O Bxd5 12. exd5
-Bxe3 13. fxe3 Ne7 14. e4 Ng6 15. Qd2 Nd7 16. Kh1 Qb8 17. Bc2 Qb6 18. a4 bxa4
-19. Rxa4 a5 20. d4 Rfe8 21. b3 Nf6 22. dxe5 Nxe5 23. Nd4 Nfd7 24. Nf5 {
-1-0, Morozevich-Kasimdzhanov, Tomsk 2006}) 10... Qxf6 11. Be3 $146 {Novelty.} (
-{Asrian-Svetushkin in Moskau 2007 went} 11. O-O O-O 12. Be3 Bxe3 13. fxe3 Qe7
-14. Qe1 Rae8 15. Nh4 Qd7 16. Qg3 Kh7 17. Nf5 g6 18. Nh4 Ne7 19. Rf6 Ng8 20.
-Bxe6 Rxe6 21. Nxg6 Rfe8 22. Rxe6 fxe6 23. Nh4 Rf8 24. Qg6+ Kh8 25. Rf1 Rxf1+
-26. Kxf1 c5 27. g3 a5 28. b3 b4 29. c4 d5 30. Qh5 dxc4 31. Ng6+ {
-1-0, Asrian-Svetushkin, Moskau 2007}) 11... Bxb3 12. axb3 Bxe3 13. fxe3 O-O 14.
-O-O Qe6 15. Nh4 Ne7 16. Nf5 Kh7 17. b4 {This is what White had been playing
-for: two semi-open files, a nice f5 square and a backward a-pawn in the
-opponent's camp. But it sounds better than it actually is.} Ng8 18. Qc2 g6 19.
-Ng3 c5 20. bxc5 dxc5 21. d4 c4 22. Rf3 {Both players could have ended shared
-first, if they had won, but it would have meant a second place on tiebreak
-anyway. And since the tournament has no prize money, there was not much to
-play for.} 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. Nc3 d6 8.
+Nd5 h6 9. c3 Be6 10. Nxf6+ Qxf6 11. Be3 Bxb3 12. axb3 Bxe3 13. fxe3 O-O 14.
+O-O Qe6 15. Nh4 Ne7 16. Nf5 Kh7 17. b4 Ng8 18. Qc2 g6 19. Ng3 c5 20. bxc5
+dxc5 21. d4 c4 22. Rf3 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -955,38 +624,21 @@ play for.} 1/2-1/2
 [White "Leko, Peter"]
 [Black "Naiditsch, Arkadij"]
 [Result "1/2-1/2"]
-[ECO "C89"]
 [WhiteElo "2741"]
 [BlackElo "2624"]
-[PlyCount "61"]
+[ECO "C89"]
 [EventDate "2008.06.28"]
+[PlyCount "61"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
-d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Bf5 14. Qf3 Qh4
-15. g3 Qh3 16. Bxd5 cxd5 17. Qxd5 Rad8 18. Qg2 Qxg2+ 19. Kxg2 Bxd3 20. Be3 Be4+
-21. f3 Bc6 22. Nd2 Rfe8 23. Bd4 {This line was sort of a specialy of
-aggressive players whose names start with an 's', such as Shirov, Smeets and
-Stellwagen. However, Leko has started playing at as well, already a month ago
-at the Karen Asrian Memorial rapid tournament in Yerevan.} ({
-Leko-Sargissian, Yerevan 2008 went} 23. Nb3 f6 24. Kf2 Bc7 25. Nd4 Bd7 26. Rad1
-Kf7 27. Rd2 Bc8 28. Red1 h5 29. Ne2 Rxd2 30. Rxd2 Be6 31. b3 g5 {
-and after 47 moves ended in a draw.}) 23... Rxe1 ({
-Leko-Aronian, Yerevan 2008 went} 23... h5 24. Kf2 f6 25. Rxe8+ Rxe8 26. Nf1 Kf7
-27. Ne3 Rd8 28. a3 Bc7 29. Re1 Rd7 {and after 41 moves ended in a draw.}) 24.
-Rxe1 f6 25. Kf2 $146 {Novelty.  Finally a new move.} ({
-Bacrot-Sargissian, French Team Ch (Evry) 2008 went} 25. Nf1 h5 26. Bb6 Re8 27.
-Ne3 Kf7 28. Kf2 h4 29. Rd1 Bb8 30. Nc2 g5 31. gxh4 gxh4 32. Rd4 Rh8 33. Nb4 Ba8
-34. f4 a5 35. Na6 Ke6 36. Nxb8 Rxb8 37. Bxa5 {
-and White managed to win this ending.}) 25... h5 26. Ne4 Bf8 {Black's bishop
-pair is enough compensation in such positions since White's main plan is to
-start pushing the queenside pawns, which simultaneously makes them a target.}
-27. Re2 Kf7 28. Nc5 Bxc5 29. Bxc5 Rd7 30. Bd4 a5 31. b3 {With the rooks, this
-ending is less drawish than without them, but still it's very difficult to
-make progress with White. And Leko just needed a draw anyway.} 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Bf5 14. Qf3
+Qh4 15. g3 Qh3 16. Bxd5 cxd5 17. Qxd5 Rad8 18. Qg2 Qxg2+ 19. Kxg2 Bxd3 20.
+Be3 Be4+ 21. f3 Bc6 22. Nd2 Rfe8 23. Bd4 Rxe1 24. Rxe1 f6 25. Kf2 h5 26.
+Ne4 Bf8 27. Re2 Kf7 28. Nc5 Bxc5 29. Bxc5 Rd7 30. Bd4 a5 31. b3 1/2-1/2
 
 [Event "Sparkassen Chess Meeting"]
 [Site "Dortmund, Germany"]
@@ -995,38 +647,22 @@ make progress with White. And Leko just needed a draw anyway.} 1/2-1/2
 [White "Ivanchuk, Vassily"]
 [Black "Kramnik, Vladimir"]
 [Result "1-0"]
-[ECO "C42"]
 [WhiteElo "2740"]
 [BlackElo "2788"]
-[PlyCount "97"]
+[ECO "C42"]
 [EventDate "2008.06.28"]
+[PlyCount "97"]
 [EventType "tourn"]
 [EventRounds "7"]
 [EventCountry "GER"]
 [EventCategory "18"]
 
-1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8.
-Re1 Bg4 9. c4 Nf6 10. Nc3 Bxf3 11. Qxf3 Nxd4 12. Qd1 Ne6 13. cxd5 Nxd5 14. Bb5+
-c6 15. Nxd5 cxb5 16. Qh5 {Ivanchuk doesn't repeat the line with which
-Naiditsch beat Kramnik in the third round. The Ukrainian trusts his opponent
-to have analysed the critical move 19... Qxe5 deeply.} ({
-In third round Naiditsch-Kramnik the game went} 16. Bf4 Nxf4 17. Rxe7+ Kf8 18.
-Re5 Qd6 19. Qd2 $1 {and Naiditsch ended up winning.}) 16... O-O 17. Nxe7+ Qxe7
-18. Qxb5 Rfd8 19. Be3 a6 20. Qb3 Rac8 21. h3 (21. Rac1 h6 22. h3 Nd4 {
-1/2-1/2, Kasparov-Karpov, Moscow 1985}) 21... h6 22. Rad1 Rxd1 23. Rxd1 b5 $146
-{Novelty.} ({Tsuboi-Almada, Sao Paulo 1989 went} 23... Rd8 24. Rc1 Nd4 25. Bxd4
-Rxd4 26. Rc8+ Kh7 27. Rc2) 24. Rd3 Rc6 25. Qd5 {White has the smallest
-possible advantage of a bishop against a knight, which isn't worth much as
-long as the heavy pieces are on the board. But you can always try, can't you?}
-Qe8 26. Rd2 Qc8 27. b3 Rc3 28. h4 a5 29. Rd1 Rc2 30. Qxb5 Rxa2 31. h5 Nf8 32.
-Rd4 Qc7 33. Rd1 Rb2 34. Rc1 Qd7 35. Qb8 Rc2 36. Ra1 (36. Rxc2 $6 Qd1+ 37. Kh2
-Qxh5+ $1 38. Kg3 Qg6+ $11) 36... Qf5 37. Qd8 Qxh5 38. Rxa5 Qg4 39. Ra4 Qd7 40.
-Rd4 Qb7 41. b4 Rb2 42. Bd2 Rb1+ 43. Kh2 Qb5 44. Qd5 Qe2 45. Be3 Ng6 46. Qf5 Qf1
-47. Kg3 Rb3 48. Re4 Nf8 $2 {No, this really isn't Kramnik's tournament. In a
-position that's probably still drawn, he commits a blunder.} ({Necessary was} 
-48... Qh1 49. b5 (49. Re8+ Kh7 50. Qxf7 Qh4+) 49... Kh7 50. Rd4 $1 {
-to cover the d1 square so that the king can go to f3} (50. b6 h5 $1) 50... Qc1
-51. Rd5 {and White can still try, but it's probably a draw.}) 49. Rf4 {
-which threatens 50.Qxf7, forking the rook and the knight, for which there is
-no reasonable defence.} 1-0
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Bg4 9. c4 Nf6 10. Nc3 Bxf3 11. Qxf3 Nxd4 12. Qd1 Ne6 13. cxd5 Nxd5
+14. Bb5+ c6 15. Nxd5 cxb5 16. Qh5 O-O 17. Nxe7+ Qxe7 18. Qxb5 Rfd8 19. Be3
+a6 20. Qb3 Rac8 21. h3 h6 22. Rad1 Rxd1 23. Rxd1 b5 24. Rd3 Rc6 25. Qd5 Qe8
+26. Rd2 Qc8 27. b3 Rc3 28. h4 a5 29. Rd1 Rc2 30. Qxb5 Rxa2 31. h5 Nf8 32.
+Rd4 Qc7 33. Rd1 Rb2 34. Rc1 Qd7 35. Qb8 Rc2 36. Ra1 Qf5 37. Qd8 Qxh5 38.
+Rxa5 Qg4 39. Ra4 Qd7 40. Rd4 Qb7 41. b4 Rb2 42. Bd2 Rb1+ 43. Kh2 Qb5 44.
+Qd5 Qe2 45. Be3 Ng6 46. Qf5 Qf1 47. Kg3 Rb3 48. Re4 Nf8 49. Rf4 1-0
 

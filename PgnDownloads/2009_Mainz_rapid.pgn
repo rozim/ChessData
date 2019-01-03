@@ -5,25 +5,25 @@
 [White "Anand, Viswanathan"]
 [Black "Aronian, Levon"]
 [Result "0-1"]
+[WhiteElo "2788"]
+[BlackElo "2768"]
 [ECO "D11"]
-[WhiteElo "2788"]
-[BlackElo "2768"]
+[TimeControl "1200+5"]
+[EventDate "2009.07.31"]
 [PlyCount "82"]
-[EventDate "2009.07.31"]
 [EventType "tourn (rapid)"]
 [EventRounds "6"]
 [EventCountry "GER"]
 [EventCategory "20"]
 [SourceDate "2009.07.27"]
-[TimeControl "1200+5"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Nc3 Nbd7 8. Bd3
-Bb4 9. O-O O-O 10. Qd1 dxc4 11. Bxc4 c5 12. Qb3 cxd4 13. exd4 Qa5 14. Rd1 Rac8
-15. Bd2 Nb6 16. Bf1 Bxc3 17. Bxc3 Qa4 18. Bb4 Rfd8 19. Bc5 h6 20. Bb5 Qxb3 21.
-axb3 Rc7 22. Be2 Nc8 23. Bxa7 Rc2 24. Bc4 Rxb2 25. Bc5 Ne4 26. Re1 Ncd6 27. Ba3
-Rd2 28. Bf1 Rxd4 29. Bc1 Nd2 30. Bb2 Rd5 31. Rad1 Nf5 32. Be2 Nxb3 33. Rxd5
-Rxd5 34. Rb1 Nbd4 35. Bf1 Nc6 36. Bc3 Rd7 37. g4 Nfe7 38. f4 Nd5 39. Bd2 Kf8
-40. Kf2 Ke7 41. h4 Nf6 0-1
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Nc3 Nbd7 8.
+Bd3 Bb4 9. O-O O-O 10. Qd1 dxc4 11. Bxc4 c5 12. Qb3 cxd4 13. exd4 Qa5 14.
+Rd1 Rac8 15. Bd2 Nb6 16. Bf1 Bxc3 17. Bxc3 Qa4 18. Bb4 Rfd8 19. Bc5 h6 20.
+Bb5 Qxb3 21. axb3 Rc7 22. Be2 Nc8 23. Bxa7 Rc2 24. Bc4 Rxb2 25. Bc5 Ne4 26.
+Re1 Ncd6 27. Ba3 Rd2 28. Bf1 Rxd4 29. Bc1 Nd2 30. Bb2 Rd5 31. Rad1 Nf5 32.
+Be2 Nxb3 33. Rxd5 Rxd5 34. Rb1 Nbd4 35. Bf1 Nc6 36. Bc3 Rd7 37. g4 Nfe7 38.
+f4 Nd5 39. Bd2 Kf8 40. Kf2 Ke7 41. h4 Nf6 0-1
 
 [Event "14th Rapid World Championship"]
 [Site "Mainz, Germany"]
@@ -32,28 +32,28 @@ Rxd5 34. Rb1 Nbd4 35. Bf1 Nc6 36. Bc3 Rd7 37. g4 Nfe7 38. f4 Nd5 39. Bd2 Kf8
 [White "Nepomniachtchi, Ian"]
 [Black "Naiditsch, Arkadij"]
 [Result "1-0"]
+[WhiteElo "2632"]
+[BlackElo "2697"]
 [ECO "C48"]
-[WhiteElo "2632"]
-[BlackElo "2697"]
+[TimeControl "1200+5"]
+[EventDate "2009.07.31"]
 [PlyCount "117"]
-[EventDate "2009.07.31"]
 [EventType "tourn (rapid)"]
 [EventRounds "6"]
 [EventCountry "GER"]
 [EventCategory "20"]
 [SourceDate "2009.07.27"]
-[TimeControl "1200+5"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nc3 O-O 6. Bxc6 dxc6 7. Be3 Bd6 8.
-h3 c5 9. Nd2 Nd7 10. Qe2 Nb8 11. Nb3 b6 12. O-O Nc6 13. f4 Nd4 14. Bxd4 exd4
-15. Nd1 f5 16. e5 Be7 17. Nd2 Bb7 18. Nf3 Qd5 19. a4 a6 20. b3 Kh8 21. Nf2 g5
-22. Nh1 gxf4 23. Qd2 Rg8 24. Kh2 Bg5 25. Rae1 Rae8 26. Re2 Bh6 27. Qe1 Re6 28.
-Qh4 b5 29. axb5 axb5 30. Qh5 Rf8 31. Ra1 c4 32. bxc4 bxc4 33. Ra4 cxd3 34. cxd3
-c5 35. Ra7 Bg7 36. Rb2 Re7 37. Qh4 Rfe8 38. Qxf4 c4 39. dxc4 Qe4 40. Qxe4 fxe4
-41. Rbxb7 Rxb7 42. Rxb7 exf3 43. gxf3 Bxe5+ 44. Kg2 Rg8+ 45. Kf1 Ra8 46. Nf2
-Ra1+ 47. Kg2 Ra2 48. f4 Bxf4 49. Kf3 Bh6 50. Ng4 Bg5 51. Ke4 h5 52. Ne5 Bf6 53.
-Ng6+ Kg8 54. Nf4 Ra3 55. c5 Re3+ 56. Kf5 Be5 57. c6 Bd6 58. Rd7 Bb8 59. Rd8+
-1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nc3 O-O 6. Bxc6 dxc6 7. Be3 Bd6
+8. h3 c5 9. Nd2 Nd7 10. Qe2 Nb8 11. Nb3 b6 12. O-O Nc6 13. f4 Nd4 14. Bxd4
+exd4 15. Nd1 f5 16. e5 Be7 17. Nd2 Bb7 18. Nf3 Qd5 19. a4 a6 20. b3 Kh8 21.
+Nf2 g5 22. Nh1 gxf4 23. Qd2 Rg8 24. Kh2 Bg5 25. Rae1 Rae8 26. Re2 Bh6 27.
+Qe1 Re6 28. Qh4 b5 29. axb5 axb5 30. Qh5 Rf8 31. Ra1 c4 32. bxc4 bxc4 33.
+Ra4 cxd3 34. cxd3 c5 35. Ra7 Bg7 36. Rb2 Re7 37. Qh4 Rfe8 38. Qxf4 c4 39.
+dxc4 Qe4 40. Qxe4 fxe4 41. Rbxb7 Rxb7 42. Rxb7 exf3 43. gxf3 Bxe5+ 44. Kg2
+Rg8+ 45. Kf1 Ra8 46. Nf2 Ra1+ 47. Kg2 Ra2 48. f4 Bxf4 49. Kf3 Bh6 50. Ng4
+Bg5 51. Ke4 h5 52. Ne5 Bf6 53. Ng6+ Kg8 54. Nf4 Ra3 55. c5 Re3+ 56. Kf5 Be5
+57. c6 Bd6 58. Rd7 Bb8 59. Rd8+ 1-0
 
 [Event "14th Rapid World Championship"]
 [Site "Mainz, Germany"]
@@ -62,27 +62,28 @@ Ng6+ Kg8 54. Nf4 Ra3 55. c5 Re3+ 56. Kf5 Be5 57. c6 Bd6 58. Rd7 Bb8 59. Rd8+
 [White "Anand, Viswanathan"]
 [Black "Nepomniachtchi, Ian"]
 [Result "0-1"]
+[WhiteElo "2788"]
+[BlackElo "2632"]
 [ECO "B97"]
-[WhiteElo "2788"]
-[BlackElo "2632"]
+[TimeControl "1200+5"]
+[EventDate "2009.07.31"]
 [PlyCount "112"]
-[EventDate "2009.07.31"]
 [EventType "tourn (rapid)"]
 [EventRounds "6"]
 [EventCountry "GER"]
 [EventCategory "20"]
 [SourceDate "2009.07.27"]
-[TimeControl "1200+5"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2
-Qxb2 9. Rb1 Qa3 10. e5 h6 11. Bh4 dxe5 12. fxe5 g5 13. Bf2 Ng4 14. Bg3 Nd7 15.
-Be2 Ngxe5 16. O-O Bg7 17. Nxe6 fxe6 18. Ne4 Rf8 19. Bh5+ Ke7 20. Rb3 Rxf1+ 21.
-Kxf1 Nc4 22. Rxa3 Nxd2+ 23. Nxd2 Be5 24. Rf3 Bxg3 25. Rf7+ Kd6 26. hxg3 b5 27.
-Rh7 Bb7 28. Bf3 Rf8 29. Ke2 Bd5 30. Bxd5 exd5 31. Rxh6+ Rf6 32. Rh5 Re6+ 33.
-Kd1 g4 34. Nb3 Nf6 35. Rf5 Ne4 36. Kc1 Nc3 37. a3 Re3 38. Rf6+ Ke5 39. Rxa6
-Rxg3 40. Nc5 Rxg2 41. Nd3+ Kd4 42. Ne1 Re2 43. Nd3 Rh2 44. Ne1 Ne4 45. Kb2 Rh1
-46. Nd3 Nc3 47. a4 Nxa4+ 48. Ka3 Ra1+ 49. Kb4 Rb1+ 50. Ka3 Nc5 51. Nxc5 Kxc5
-52. Rg6 Rg1 53. Kb3 g3 54. Rg4 g2 55. Kb2 b4 56. Rg5 Kd6 0-1
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8.
+Qd2 Qxb2 9. Rb1 Qa3 10. e5 h6 11. Bh4 dxe5 12. fxe5 g5 13. Bf2 Ng4 14. Bg3
+Nd7 15. Be2 Ngxe5 16. O-O Bg7 17. Nxe6 fxe6 18. Ne4 Rf8 19. Bh5+ Ke7 20.
+Rb3 Rxf1+ 21. Kxf1 Nc4 22. Rxa3 Nxd2+ 23. Nxd2 Be5 24. Rf3 Bxg3 25. Rf7+
+Kd6 26. hxg3 b5 27. Rh7 Bb7 28. Bf3 Rf8 29. Ke2 Bd5 30. Bxd5 exd5 31. Rxh6+
+Rf6 32. Rh5 Re6+ 33. Kd1 g4 34. Nb3 Nf6 35. Rf5 Ne4 36. Kc1 Nc3 37. a3 Re3
+38. Rf6+ Ke5 39. Rxa6 Rxg3 40. Nc5 Rxg2 41. Nd3+ Kd4 42. Ne1 Re2 43. Nd3
+Rh2 44. Ne1 Ne4 45. Kb2 Rh1 46. Nd3 Nc3 47. a4 Nxa4+ 48. Ka3 Ra1+ 49. Kb4
+Rb1+ 50. Ka3 Nc5 51. Nxc5 Kxc5 52. Rg6 Rg1 53. Kb3 g3 54. Rg4 g2 55. Kb2 b4
+56. Rg5 Kd6 0-1
 
 [Event "14th Rapid World Championship"]
 [Site "Mainz, Germany"]
@@ -91,26 +92,26 @@ Rxg3 40. Nc5 Rxg2 41. Nd3+ Kd4 42. Ne1 Re2 43. Nd3 Rh2 44. Ne1 Ne4 45. Kb2 Rh1
 [White "Aronian, Levon"]
 [Black "Naiditsch, Arkadij"]
 [Result "1-0"]
+[WhiteElo "2768"]
+[BlackElo "2697"]
 [ECO "E58"]
-[WhiteElo "2768"]
-[BlackElo "2697"]
+[TimeControl "1200+5"]
+[EventDate "2009.07.31"]
 [PlyCount "97"]
-[EventDate "2009.07.31"]
 [EventType "tourn (rapid)"]
 [EventRounds "6"]
 [EventCountry "GER"]
 [EventCategory "20"]
 [SourceDate "2009.07.27"]
-[TimeControl "1200+5"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
-Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. h3 b6 12. Ba2 Rd8 13. Bb2 Bb7 14. Re1 Na5
-15. Rc1 h6 16. Nd2 Ne4 17. Nxe4 Bxe4 18. c4 Bb7 19. d5 b5 20. Qg4 f5 21. Qg6
-exd5 22. cxb5 c4 23. Qxf5 Rf8 24. Qe6+ Qf7 25. Qxf7+ Rxf7 26. Bc3 Nb3 27. Bxb3
-cxb3 28. Bd4 a6 29. Rb1 axb5 30. Rxb3 Bc6 31. Rc1 Bd7 32. Rc5 Kh7 33. Rbc3 Ra4
-34. Rxd5 b4 35. axb4 Rxb4 36. Rc7 Be6 37. Rxf7 Bxf7 38. Rd7 Kg8 39. g4 Rb5 40.
-Kg2 h5 41. Kg3 hxg4 42. hxg4 g5 43. Bf6 Ra5 44. f3 Rb5 45. e4 Ra5 46. e5 Rb5
-47. Re7 Bd5 48. Rg7+ Kf8 49. Rxg5 1-0
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8.
+a3 Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 11. h3 b6 12. Ba2 Rd8 13. Bb2 Bb7 14. Re1
+Na5 15. Rc1 h6 16. Nd2 Ne4 17. Nxe4 Bxe4 18. c4 Bb7 19. d5 b5 20. Qg4 f5
+21. Qg6 exd5 22. cxb5 c4 23. Qxf5 Rf8 24. Qe6+ Qf7 25. Qxf7+ Rxf7 26. Bc3
+Nb3 27. Bxb3 cxb3 28. Bd4 a6 29. Rb1 axb5 30. Rxb3 Bc6 31. Rc1 Bd7 32. Rc5
+Kh7 33. Rbc3 Ra4 34. Rxd5 b4 35. axb4 Rxb4 36. Rc7 Be6 37. Rxf7 Bxf7 38.
+Rd7 Kg8 39. g4 Rb5 40. Kg2 h5 41. Kg3 hxg4 42. hxg4 g5 43. Bf6 Ra5 44. f3
+Rb5 45. e4 Ra5 46. e5 Rb5 47. Re7 Bd5 48. Rg7+ Kf8 49. Rxg5 1-0
 
 [Event "14th Rapid World Championship"]
 [Site "Mainz, Germany"]
@@ -119,27 +120,27 @@ Kg2 h5 41. Kg3 hxg4 42. hxg4 g5 43. Bf6 Ra5 44. f3 Rb5 45. e4 Ra5 46. e5 Rb5
 [White "Naiditsch, Arkadij"]
 [Black "Anand, Viswanathan"]
 [Result "0-1"]
+[WhiteElo "2697"]
+[BlackElo "2788"]
 [ECO "B12"]
-[WhiteElo "2697"]
-[BlackElo "2788"]
-[PlyCount "104"]
+[TimeControl "1200+5"]
 [EventDate "2009.07.31"]
+[PlyCount "104"]
 [EventType "tourn (rapid)"]
 [EventRounds "6"]
 [EventCountry "GER"]
 [EventCategory "20"]
 [SourceDate "2009.07.27"]
-[TimeControl "1200+5"]
 
-1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. Be3 cxd4 8. Nxd4
-Nxd4 9. Bxd4 Ne7 10. c4 dxc4 11. Bxc4 Nc6 12. Bb5 Be7 13. Nc3 O-O 14. Bxc6 bxc6
-15. Qa4 c5 16. Be3 Qb8 17. Qd7 Re8 18. Nd5 Bf8 19. Rad1 exd5 20. Qxf5 d4 21.
-Bc1 Qxe5 22. Qxe5 Rxe5 23. Rfe1 f6 24. Kf1 Kf7 25. b4 Rxe1+ 26. Kxe1 cxb4 27.
-Rxd4 Ke6 28. Rc4 a5 29. Be3 Bd6 30. Kd2 a4 31. Kc2 Kd5 32. Rd4+ Kc6 33. Bd2 Bc5
-34. Rg4 Rb8 35. Rxg7 b3+ 36. axb3 axb3+ 37. Kb1 Rd8 38. Ba5 Rd3 39. Rg3 Rxg3
-40. fxg3 Kb5 41. Bd2 f5 42. Bh6 Bd6 43. Kb2 Kc4 44. Kc1 Be5 45. Kd2 Kd4 46.
-Be3+ Kd5 47. Bh6 Kc4 48. Be3 h5 49. Bb6 Bc3+ 50. Kc1 Bd4 51. Bc7 Kd3 52. Bd6
-Ke2 0-1
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. Be3 cxd4 8.
+Nxd4 Nxd4 9. Bxd4 Ne7 10. c4 dxc4 11. Bxc4 Nc6 12. Bb5 Be7 13. Nc3 O-O 14.
+Bxc6 bxc6 15. Qa4 c5 16. Be3 Qb8 17. Qd7 Re8 18. Nd5 Bf8 19. Rad1 exd5 20.
+Qxf5 d4 21. Bc1 Qxe5 22. Qxe5 Rxe5 23. Rfe1 f6 24. Kf1 Kf7 25. b4 Rxe1+ 26.
+Kxe1 cxb4 27. Rxd4 Ke6 28. Rc4 a5 29. Be3 Bd6 30. Kd2 a4 31. Kc2 Kd5 32.
+Rd4+ Kc6 33. Bd2 Bc5 34. Rg4 Rb8 35. Rxg7 b3+ 36. axb3 axb3+ 37. Kb1 Rd8
+38. Ba5 Rd3 39. Rg3 Rxg3 40. fxg3 Kb5 41. Bd2 f5 42. Bh6 Bd6 43. Kb2 Kc4
+44. Kc1 Be5 45. Kd2 Kd4 46. Be3+ Kd5 47. Bh6 Kc4 48. Be3 h5 49. Bb6 Bc3+
+50. Kc1 Bd4 51. Bc7 Kd3 52. Bd6 Ke2 0-1
 
 [Event "14th Rapid World Championship"]
 [Site "Mainz, Germany"]
@@ -148,23 +149,24 @@ Ke2 0-1
 [White "Nepomniachtchi, Ian"]
 [Black "Aronian, Levon"]
 [Result "1/2-1/2"]
+[WhiteElo "2632"]
+[BlackElo "2768"]
 [ECO "C54"]
-[WhiteElo "2632"]
-[BlackElo "2768"]
+[TimeControl "1200+5"]
+[EventDate "2009.07.31"]
 [PlyCount "63"]
-[EventDate "2009.07.31"]
 [EventType "tourn (rapid)"]
 [EventRounds "6"]
 [EventCountry "GER"]
 [EventCategory "20"]
 [SourceDate "2009.07.27"]
-[TimeControl "1200+5"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 Ba7 7. h3 d6 8. Nbd2
-O-O 9. Nf1 Be6 10. Ng3 Bxb3 11. axb3 Ne7 12. Nh4 Kh8 13. O-O d5 14. Qe2 Qd6 15.
-Bg5 Qe6 16. b4 h6 17. Be3 Bxe3 18. Qxe3 Rad8 19. Ngf5 Nxf5 20. Nxf5 Rd7 21.
-Rfe1 dxe4 22. dxe4 Kh7 23. Ra5 b6 24. Rxa6 Rfd8 25. Qf3 g6 26. Ne3 Kg7 27. Ra7
-Qc6 28. Raa1 Rd2 29. Rad1 Rxd1 30. Nxd1 Rd2 31. Qg3 Qe6 32. Qf3 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. Bb3 Ba7 7. h3 d6 8.
+Nbd2 O-O 9. Nf1 Be6 10. Ng3 Bxb3 11. axb3 Ne7 12. Nh4 Kh8 13. O-O d5 14.
+Qe2 Qd6 15. Bg5 Qe6 16. b4 h6 17. Be3 Bxe3 18. Qxe3 Rad8 19. Ngf5 Nxf5 20.
+Nxf5 Rd7 21. Rfe1 dxe4 22. dxe4 Kh7 23. Ra5 b6 24. Rxa6 Rfd8 25. Qf3 g6 26.
+Ne3 Kg7 27. Ra7 Qc6 28. Raa1 Rd2 29. Rad1 Rxd1 30. Nxd1 Rd2 31. Qg3 Qe6 32.
+Qf3 1/2-1/2
 
 [Event "14th Rapid World Championship"]
 [Site "Mainz, Germany"]
@@ -173,30 +175,31 @@ Qc6 28. Raa1 Rd2 29. Rad1 Rxd1 30. Nxd1 Rd2 31. Qg3 Qe6 32. Qf3 1/2-1/2
 [White "Aronian, Levon"]
 [Black "Anand, Viswanathan"]
 [Result "1/2-1/2"]
+[WhiteElo "2768"]
+[BlackElo "2788"]
 [ECO "D76"]
-[WhiteElo "2768"]
-[BlackElo "2788"]
-[PlyCount "148"]
-[EventDate "2009.07.31"]
-[EventType "tourn (rapid)"]
-[EventRounds "6"]
-[EventCountry "GER"]
-[EventCategory "20"]
-[SourceDate "2009.07.27"]
 [TimeControl "1200+5"]
+[EventDate "2009.07.31"]
+[PlyCount "148"]
+[EventType "tourn (rapid)"]
+[EventRounds "6"]
+[EventCountry "GER"]
+[EventCategory "20"]
+[SourceDate "2009.07.27"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. g3 Nb6 7. Bg2 Nc6 8. e3
-O-O 9. O-O Re8 10. d5 Na5 11. Nd4 Bd7 12. b3 c5 13. dxc6 Nxc6 14. Nxc6 Bxc6 15.
-Bxc6 bxc6 16. Bb2 c5 17. Qe2 Qd7 18. Rfd1 Qc6 19. Rac1 Rab8 20. Nb1 Bxb2 21.
-Qxb2 Rec8 22. Qe5 Qc7 23. Qxc7 Rxc7 24. Na3 a5 25. Kf1 a4 26. b4 Nd7 27. Rd4
-cxd4 28. Rxc7 Nf6 29. b5 dxe3 30. Rxe7 exf2 31. Kxf2 Nd5 32. Re4 Nc3 33. Rc4
-Nxa2 34. Ke3 Rd8 35. Rxa4 Nc3 36. Rc4 Nd5+ 37. Kd3 Ra8 38. Nc2 Kf8 39. Kd4 Nb6
-40. Rc6 Rd8+ 41. Kc5 Nd7+ 42. Kb4 Ke7 43. Na3 h5 44. Nc4 h4 45. b6 hxg3 46.
-hxg3 Nxb6 47. Nxb6 Rd1 48. Rc3 f5 49. Kc5 g5 50. Nd5+ Kf7 51. Kd6 Kg6 52. Ke5
-Re1+ 53. Ne3 f4 54. gxf4 gxf4 55. Kxf4 Kf6 56. Rc5 Ke6 57. Re5+ Kd7 58. Ke4 Ra1
-59. Rh5 Ra4+ 60. Ke5 Ra1 61. Rh6 Re1 62. Kd4 Ra1 63. Nc4 Rd1+ 64. Kc5 Ke7 65.
-Ne3 Rc1+ 66. Kd5 Re1 67. Re6+ Kf7 68. Re4 Ra1 69. Ke5 Re1 70. Kf5 Re2 71. Re5
-Re1 72. Re6 Re2 73. Rf6+ Ke7 74. Nd5+ Kd7 1/2-1/2
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. g3 Nb6 7. Bg2 Nc6
+8. e3 O-O 9. O-O Re8 10. d5 Na5 11. Nd4 Bd7 12. b3 c5 13. dxc6 Nxc6 14.
+Nxc6 Bxc6 15. Bxc6 bxc6 16. Bb2 c5 17. Qe2 Qd7 18. Rfd1 Qc6 19. Rac1 Rab8
+20. Nb1 Bxb2 21. Qxb2 Rec8 22. Qe5 Qc7 23. Qxc7 Rxc7 24. Na3 a5 25. Kf1 a4
+26. b4 Nd7 27. Rd4 cxd4 28. Rxc7 Nf6 29. b5 dxe3 30. Rxe7 exf2 31. Kxf2 Nd5
+32. Re4 Nc3 33. Rc4 Nxa2 34. Ke3 Rd8 35. Rxa4 Nc3 36. Rc4 Nd5+ 37. Kd3 Ra8
+38. Nc2 Kf8 39. Kd4 Nb6 40. Rc6 Rd8+ 41. Kc5 Nd7+ 42. Kb4 Ke7 43. Na3 h5
+44. Nc4 h4 45. b6 hxg3 46. hxg3 Nxb6 47. Nxb6 Rd1 48. Rc3 f5 49. Kc5 g5 50.
+Nd5+ Kf7 51. Kd6 Kg6 52. Ke5 Re1+ 53. Ne3 f4 54. gxf4 gxf4 55. Kxf4 Kf6 56.
+Rc5 Ke6 57. Re5+ Kd7 58. Ke4 Ra1 59. Rh5 Ra4+ 60. Ke5 Ra1 61. Rh6 Re1 62.
+Kd4 Ra1 63. Nc4 Rd1+ 64. Kc5 Ke7 65. Ne3 Rc1+ 66. Kd5 Re1 67. Re6+ Kf7 68.
+Re4 Ra1 69. Ke5 Re1 70. Kf5 Re2 71. Re5 Re1 72. Re6 Re2 73. Rf6+ Ke7 74.
+Nd5+ Kd7 1/2-1/2
 
 [Event "14th Rapid World Championship"]
 [Site "Mainz, Germany"]
@@ -205,27 +208,27 @@ Re1 72. Re6 Re2 73. Rf6+ Ke7 74. Nd5+ Kd7 1/2-1/2
 [White "Naiditsch, Arkadij"]
 [Black "Nepomniachtchi, Ian"]
 [Result "1-0"]
+[WhiteElo "2697"]
+[BlackElo "2632"]
 [ECO "B92"]
-[WhiteElo "2697"]
-[BlackElo "2632"]
-[PlyCount "119"]
 [EventDate "2009.07.31"]
+[PlyCount "119"]
 [EventType "tourn (rapid)"]
 [EventRounds "6"]
 [EventCountry "GER"]
 [EventCategory "20"]
 [SourceDate "2009.07.27"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8. Be2
-O-O 9. O-O Be6 10. Qd2 Nbd7 11. a4 Rc8 12. a5 Qc7 13. Rfd1 Rfd8 14. Qe1 Qc6 15.
-Bf3 Nf8 16. Rac1 Ng6 17. Bg5 h6 18. Bxf6 Bxf6 19. g3 Ne7 20. h4 b5 21. Nd5 Bxd5
-22. exd5 Qd7 23. Qe2 Qc7 24. Bg4 Rb8 25. Nd2 Qxa5 26. Ne4 Kf8 27. Qf3 Ng8 28.
-Bh5 Ke7 29. c4 bxc4 30. Rxc4 Rbc8 31. Rxc8 Rxc8 32. Bxf7 Qd8 33. Be6 Rc7 34. g4
-Qe8 35. Bxg8 Qxg8 36. g5 hxg5 37. hxg5 Rc4 38. gxf6+ gxf6+ 39. Kf1 Qg6 40. Ng3
-Rf4 41. Qb3 Qg4 42. Rc1 Kf7 43. Rc7+ Kg6 44. Ne2 Rb4 45. Qd3+ e4 46. Qg3 Qxg3
-47. Nxg3 f5 48. Rc6 f4 49. Rxd6+ Kg5 50. Nxe4+ Rxe4 51. Rxa6 Rb4 52. d6 Kg4 53.
-d7 Rd4 54. Ra7 f3 55. Ke1 Kf5 56. b4 Ke4 57. b5 Kd3 58. b6 Rd6 59. b7 Kc2 60.
-Ra2+ 1-0
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be7 8.
+Be2 O-O 9. O-O Be6 10. Qd2 Nbd7 11. a4 Rc8 12. a5 Qc7 13. Rfd1 Rfd8 14. Qe1
+Qc6 15. Bf3 Nf8 16. Rac1 Ng6 17. Bg5 h6 18. Bxf6 Bxf6 19. g3 Ne7 20. h4 b5
+21. Nd5 Bxd5 22. exd5 Qd7 23. Qe2 Qc7 24. Bg4 Rb8 25. Nd2 Qxa5 26. Ne4 Kf8
+27. Qf3 Ng8 28. Bh5 Ke7 29. c4 bxc4 30. Rxc4 Rbc8 31. Rxc8 Rxc8 32. Bxf7
+Qd8 33. Be6 Rc7 34. g4 Qe8 35. Bxg8 Qxg8 36. g5 hxg5 37. hxg5 Rc4 38. gxf6+
+gxf6+ 39. Kf1 Qg6 40. Ng3 Rf4 41. Qb3 Qg4 42. Rc1 Kf7 43. Rc7+ Kg6 44. Ne2
+Rb4 45. Qd3+ e4 46. Qg3 Qxg3 47. Nxg3 f5 48. Rc6 f4 49. Rxd6+ Kg5 50. Nxe4+
+Rxe4 51. Rxa6 Rb4 52. d6 Kg4 53. d7 Rd4 54. Ra7 f3 55. Ke1 Kf5 56. b4 Ke4
+57. b5 Kd3 58. b6 Rd6 59. b7 Kc2 60. Ra2+ 1-0
 
 [Event "14th Rapid World Championship"]
 [Site "Mainz, Germany"]
@@ -234,25 +237,25 @@ Ra2+ 1-0
 [White "Naiditsch, Arkadij"]
 [Black "Aronian, Levon"]
 [Result "0-1"]
-[ECO "C60"]
 [WhiteElo "2697"]
 [BlackElo "2768"]
-[PlyCount "98"]
+[ECO "C60"]
 [EventDate "2009.07.31"]
+[PlyCount "98"]
 [EventType "tourn (rapid)"]
 [EventRounds "6"]
 [EventCountry "GER"]
 [EventCategory "20"]
 [SourceDate "2009.07.27"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O g6 5. c3 a6 6. Bxc6 Nxc6 7. d4 d6 8. d5
-Ne7 9. c4 Bg7 10. Nc3 O-O 11. Ne1 b5 12. cxb5 axb5 13. Nd3 Bd7 14. Nb4 h6 15.
-Qd3 f5 16. f3 f4 17. Bd2 Qe8 18. Rfc1 g5 19. Nd1 Rc8 20. Nf2 h5 21. h3 Ng6 22.
-Na6 Qd8 23. Rc3 Bf6 24. Rac1 g4 25. Nxc7 Bh4 26. hxg4 Bxf2+ 27. Kxf2 Qh4+ 28.
-Ke2 Qh2 29. gxh5 b4 30. Rc4 Nh4 31. Rf1 Bh3 32. Rf2 Bxg2 33. Kd1 Qh1+ 34. Kc2
-Bxf3 35. Kb3 Qd1+ 36. Qc2 Qxc2+ 37. Kxc2 Bxe4+ 38. Kb3 Bd3 39. Rc1 Nf5 40. Kxb4
-Nd4 41. b3 Ne2 42. Rc6 Nd4 43. Rc3 Rb8+ 44. Ka3 Rfc8 45. Kb2 Bf5 46. Bxf4 exf4
-47. Rc4 Nc2 48. Rfxf4 Ne3 49. Rc3 Nd1+ 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O g6 5. c3 a6 6. Bxc6 Nxc6 7. d4 d6 8.
+d5 Ne7 9. c4 Bg7 10. Nc3 O-O 11. Ne1 b5 12. cxb5 axb5 13. Nd3 Bd7 14. Nb4
+h6 15. Qd3 f5 16. f3 f4 17. Bd2 Qe8 18. Rfc1 g5 19. Nd1 Rc8 20. Nf2 h5 21.
+h3 Ng6 22. Na6 Qd8 23. Rc3 Bf6 24. Rac1 g4 25. Nxc7 Bh4 26. hxg4 Bxf2+ 27.
+Kxf2 Qh4+ 28. Ke2 Qh2 29. gxh5 b4 30. Rc4 Nh4 31. Rf1 Bh3 32. Rf2 Bxg2 33.
+Kd1 Qh1+ 34. Kc2 Bxf3 35. Kb3 Qd1+ 36. Qc2 Qxc2+ 37. Kxc2 Bxe4+ 38. Kb3 Bd3
+39. Rc1 Nf5 40. Kxb4 Nd4 41. b3 Ne2 42. Rc6 Nd4 43. Rc3 Rb8+ 44. Ka3 Rfc8
+45. Kb2 Bf5 46. Bxf4 exf4 47. Rc4 Nc2 48. Rfxf4 Ne3 49. Rc3 Nd1+ 0-1
 
 [Event "14th Rapid World Championship"]
 [Site "Mainz, Germany"]
@@ -261,34 +264,35 @@ Nd4 41. b3 Ne2 42. Rc6 Nd4 43. Rc3 Rb8+ 44. Ka3 Rfc8 45. Kb2 Bf5 46. Bxf4 exf4
 [White "Nepomniachtchi, Ian"]
 [Black "Anand, Viswanathan"]
 [Result "1/2-1/2"]
-[ECO "B13"]
 [WhiteElo "2632"]
 [BlackElo "2788"]
-[PlyCount "211"]
+[ECO "B13"]
 [EventDate "2009.07.31"]
+[PlyCount "211"]
 [EventType "tourn (rapid)"]
 [EventRounds "6"]
 [EventCountry "GER"]
 [EventCategory "20"]
 [SourceDate "2009.07.27"]
 
-1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Be6 7. Bg5 Ne4 8.
-cxd5 Bxd5 9. Be3 g6 10. Nxd5 Qxd5 11. Qa4 Bg7 12. Bc4 Qd6 13. O-O O-O 14. Rfd1
-Qb4 15. Qc2 Nd6 16. Bd3 Rac8 17. Qe2 e6 18. a3 Qb3 19. Bb1 Rfd8 20. Ba2 Qb5 21.
-Rd3 Nf5 22. Qd2 Na5 23. Rc3 Nc4 24. Bxc4 Rxc4 25. Rac1 Rxc3 26. Qxc3 h6 27. h3
-a6 28. Qc7 Rd7 29. Qc8+ Kh7 30. Rc7 Rxc7 31. Qxc7 Qxb2 32. Qxf7 Nxe3 33. fxe3
-Qxa3 34. Qxe6 a5 35. d5 a4 36. d6 Qd3 37. d7 a3 38. Nd4 Bxd4 39. exd4 Qxd4+ 40.
-Kh1 a2 41. Qxa2 Qxd7 42. Qb2 b5 43. Qb4 h5 44. h4 Kg7 45. Kh2 Qc7+ 46. g3 Qe5
-47. Qb3 Qe2+ 48. Kh3 Qc4 49. Qb2+ Kh7 50. Qf6 Qc8+ 51. Kh2 Qb7 52. g4 hxg4 53.
-h5 Qc7+ 54. Kg2 gxh5 55. Qf5+ Kg8 56. Qg5+ Qg7 57. Qxb5 Qf7 58. Qg5+ Kh7 59.
-Qe3 Qf6 60. Qe4+ Kg7 61. Qd5 Kh6 62. Qd2+ Kg6 63. Qd3+ Kg7 64. Qd5 Qf7 65. Qe5+
-Kg8 66. Qg5+ Kh7 67. Qe3 Qd5+ 68. Kg3 Kg6 69. Qe8+ Qf7 70. Qe4+ Qf5 71. Qe8+
-Kg7 72. Qe7+ Kh6 73. Qe3+ Qg5 74. Qe6+ Qg6 75. Qe3+ Kg7 76. Qe5+ Kh7 77. Qe7+
-Qg7 78. Qe4+ Kh6 79. Qe6+ Qg6 80. Qe3+ Kg7 81. Qe7+ Qf7 82. Qe5+ Qf6 83. Qe4
-Kf7 84. Kg2 Qb2+ 85. Kg3 Qa3+ 86. Kg2 Qc5 87. Qh7+ Ke6 88. Qg6+ Kd7 89. Qf7+
-Kc6 90. Qe6+ Kb7 91. Qb3+ Kc7 92. Qf7+ Kb6 93. Qb3+ Ka5 94. Qa2+ Kb6 95. Qb3+
-Qb5 96. Qe3+ Kb7 97. Qe7+ Ka8 98. Qa3+ Kb8 99. Qf8+ Ka7 100. Qa3+ Kb6 101. Qe3+
-Qc5 102. Qb3+ Kc7 103. Qf7+ Kd8 104. Qg8+ Kd7 105. Qf7+ Kc6 106. Qe6+ 1/2-1/2
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Be6 7. Bg5 Ne4
+8. cxd5 Bxd5 9. Be3 g6 10. Nxd5 Qxd5 11. Qa4 Bg7 12. Bc4 Qd6 13. O-O O-O
+14. Rfd1 Qb4 15. Qc2 Nd6 16. Bd3 Rac8 17. Qe2 e6 18. a3 Qb3 19. Bb1 Rfd8
+20. Ba2 Qb5 21. Rd3 Nf5 22. Qd2 Na5 23. Rc3 Nc4 24. Bxc4 Rxc4 25. Rac1 Rxc3
+26. Qxc3 h6 27. h3 a6 28. Qc7 Rd7 29. Qc8+ Kh7 30. Rc7 Rxc7 31. Qxc7 Qxb2
+32. Qxf7 Nxe3 33. fxe3 Qxa3 34. Qxe6 a5 35. d5 a4 36. d6 Qd3 37. d7 a3 38.
+Nd4 Bxd4 39. exd4 Qxd4+ 40. Kh1 a2 41. Qxa2 Qxd7 42. Qb2 b5 43. Qb4 h5 44.
+h4 Kg7 45. Kh2 Qc7+ 46. g3 Qe5 47. Qb3 Qe2+ 48. Kh3 Qc4 49. Qb2+ Kh7 50.
+Qf6 Qc8+ 51. Kh2 Qb7 52. g4 hxg4 53. h5 Qc7+ 54. Kg2 gxh5 55. Qf5+ Kg8 56.
+Qg5+ Qg7 57. Qxb5 Qf7 58. Qg5+ Kh7 59. Qe3 Qf6 60. Qe4+ Kg7 61. Qd5 Kh6 62.
+Qd2+ Kg6 63. Qd3+ Kg7 64. Qd5 Qf7 65. Qe5+ Kg8 66. Qg5+ Kh7 67. Qe3 Qd5+
+68. Kg3 Kg6 69. Qe8+ Qf7 70. Qe4+ Qf5 71. Qe8+ Kg7 72. Qe7+ Kh6 73. Qe3+
+Qg5 74. Qe6+ Qg6 75. Qe3+ Kg7 76. Qe5+ Kh7 77. Qe7+ Qg7 78. Qe4+ Kh6 79.
+Qe6+ Qg6 80. Qe3+ Kg7 81. Qe7+ Qf7 82. Qe5+ Qf6 83. Qe4 Kf7 84. Kg2 Qb2+
+85. Kg3 Qa3+ 86. Kg2 Qc5 87. Qh7+ Ke6 88. Qg6+ Kd7 89. Qf7+ Kc6 90. Qe6+
+Kb7 91. Qb3+ Kc7 92. Qf7+ Kb6 93. Qb3+ Ka5 94. Qa2+ Kb6 95. Qb3+ Qb5 96.
+Qe3+ Kb7 97. Qe7+ Ka8 98. Qa3+ Kb8 99. Qf8+ Ka7 100. Qa3+ Kb6 101. Qe3+ Qc5
+102. Qb3+ Kc7 103. Qf7+ Kd8 104. Qg8+ Kd7 105. Qf7+ Kc6 106. Qe6+ 1/2-1/2
 
 [Event "14th Rapid World Championship"]
 [Site "Mainz, Germany"]
@@ -297,23 +301,23 @@ Qc5 102. Qb3+ Kc7 103. Qf7+ Kd8 104. Qg8+ Kd7 105. Qf7+ Kc6 106. Qe6+ 1/2-1/2
 [White "Anand, Viswanathan"]
 [Black "Naiditsch, Arkadij"]
 [Result "1/2-1/2"]
-[ECO "D39"]
 [WhiteElo "2788"]
 [BlackElo "2697"]
-[PlyCount "68"]
+[ECO "D39"]
 [EventDate "2009.07.31"]
+[PlyCount "68"]
 [EventType "tourn (rapid)"]
 [EventRounds "6"]
 [EventCountry "GER"]
 [EventCategory "20"]
 [SourceDate "2009.07.27"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4 8.
-Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Bd7 11. Bxf6 gxf6 12. Bxd7+ Nxd7 13. O-O a6 14.
-Rb1 Qc7 15. Qh5 Nc5 16. Rfe1 O-O-O 17. Re3 e5 18. Nb3 Nxb3 19. axb3 Qd7 20. g3
-Qe6 21. Rf3 Kd7 22. b4 Ke7 23. Qh4 Rdg8 24. Rd1 Rg6 25. Rf5 h6 26. c4 Rg5 27.
-c5 Rxf5 28. exf5 Qxf5 29. b5 Rd8 30. Rxd8 Kxd8 31. bxa6 bxa6 32. Qxh6 Qb1+ 33.
-Kg2 Qe4+ 34. Kg1 Qe1+ 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4
+8. Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Bd7 11. Bxf6 gxf6 12. Bxd7+ Nxd7 13. O-O
+a6 14. Rb1 Qc7 15. Qh5 Nc5 16. Rfe1 O-O-O 17. Re3 e5 18. Nb3 Nxb3 19. axb3
+Qd7 20. g3 Qe6 21. Rf3 Kd7 22. b4 Ke7 23. Qh4 Rdg8 24. Rd1 Rg6 25. Rf5 h6
+26. c4 Rg5 27. c5 Rxf5 28. exf5 Qxf5 29. b5 Rd8 30. Rxd8 Kxd8 31. bxa6 bxa6
+32. Qxh6 Qb1+ 33. Kg2 Qe4+ 34. Kg1 Qe1+ 1/2-1/2
 
 [Event "14th Rapid World Championship"]
 [Site "Mainz, Germany"]
@@ -322,23 +326,23 @@ Kg2 Qe4+ 34. Kg1 Qe1+ 1/2-1/2
 [White "Aronian, Levon"]
 [Black "Nepomniachtchi, Ian"]
 [Result "1/2-1/2"]
-[ECO "A29"]
 [WhiteElo "2768"]
 [BlackElo "2632"]
-[PlyCount "70"]
+[ECO "A29"]
 [EventDate "2009.07.31"]
+[PlyCount "70"]
 [EventType "tourn (rapid)"]
 [EventRounds "6"]
 [EventCountry "GER"]
 [EventCategory "20"]
 [SourceDate "2009.07.27"]
 
-1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8.
-a3 g5 9. d3 g4 10. Nd2 h5 11. b4 h4 12. Nb3 hxg3 13. hxg3 Be6 14. Na5 Nxa5 15.
-bxa5 Nd5 16. Nxd5 Bxd5 17. Qa4+ c6 18. a6 Bxg2 19. Kxg2 Qd5+ 20. f3 gxf3+ 21.
-Rxf3 b5 22. Qg4 f6 23. Be3 Kf7 24. Qf5 Qe6 25. Qxe6+ Kxe6 26. Rc1 Rhc8 27. Bc5
-Bxc5 28. Rxc5 Rab8 29. g4 Rb6 30. d4 Rg8 31. Kg3 exd4 32. Rcf5 Rg6 33. Kh4 Rh6+
-34. Rh5 Rg6 35. Rhf5 Rh6+ 1/2-1/2
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7
+8. a3 g5 9. d3 g4 10. Nd2 h5 11. b4 h4 12. Nb3 hxg3 13. hxg3 Be6 14. Na5
+Nxa5 15. bxa5 Nd5 16. Nxd5 Bxd5 17. Qa4+ c6 18. a6 Bxg2 19. Kxg2 Qd5+ 20.
+f3 gxf3+ 21. Rxf3 b5 22. Qg4 f6 23. Be3 Kf7 24. Qf5 Qe6 25. Qxe6+ Kxe6 26.
+Rc1 Rhc8 27. Bc5 Bxc5 28. Rxc5 Rab8 29. g4 Rb6 30. d4 Rg8 31. Kg3 exd4 32.
+Rcf5 Rg6 33. Kh4 Rh6+ 34. Rh5 Rg6 35. Rhf5 Rh6+ 1/2-1/2
 
 [Event "1st place match"]
 [Site "Mainz, Germany"]
@@ -347,26 +351,26 @@ Bxc5 28. Rxc5 Rab8 29. g4 Rb6 30. d4 Rg8 31. Kg3 exd4 32. Rcf5 Rg6 33. Kh4 Rh6+
 [White "Aronian, Levon"]
 [Black "Nepomniachtchi, Ian"]
 [Result "1-0"]
-[ECO "A29"]
 [WhiteElo "2768"]
 [BlackElo "2632"]
-[PlyCount "123"]
+[ECO "A29"]
 [EventDate "2009.08.02"]
+[PlyCount "123"]
 [EventType "match (rapid)"]
 [EventRounds "4"]
 [EventCountry "GER"]
 [SourceDate "2009.07.27"]
 
-1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8.
-a3 O-O 9. b4 Be6 10. d3 f6 11. Bb2 Qd7 12. Ne4 Rad8 13. Rc1 a6 14. Qc2 Qe8 15.
-Ba1 Qf7 16. Nc5 Bxc5 17. bxc5 Nd5 18. Rb1 Rb8 19. d4 exd4 20. Nxd4 Nxd4 21.
-Bxd4 Bd7 22. Be4 f5 23. Bf3 Bc6 24. Rbd1 Rbe8 25. Ba1 Ne7 26. Qb2 Ng6 27. Bxc6
-bxc6 28. e3 Re6 29. Rd4 Ne5 30. Qe2 Qe7 31. Ra4 Nd7 32. Qa2 Kh8 33. Rxa6 Nxc5
-34. Ra7 Ne4 35. Rxc7 Qxc7 36. Qxe6 Ng5 37. Qc4 c5 38. Qd5 h6 39. Rc1 Ne4 40. f3
-Ng5 41. Qxc5 Qf7 42. Qc6 Qh5 43. Rf1 Rf7 44. h4 Nh7 45. Rd1 Nf6 46. Kg2 Kh7 47.
-Bxf6 Rxf6 48. Rd6 Rf8 49. Rd7 Qe8 50. Kf2 Qe5 51. Rd4 Re8 52. Qc3 Re6 53. Rc4
-Qd6 54. h5 Re7 55. Qc2 Rf7 56. a4 Qd8 57. Rf4 Qg5 58. g4 Qh4+ 59. Kg2 Qe7 60.
-Rxf5 Rxf5 61. Qxf5+ Kh8 62. Qf4 1-0
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7
+8. a3 O-O 9. b4 Be6 10. d3 f6 11. Bb2 Qd7 12. Ne4 Rad8 13. Rc1 a6 14. Qc2
+Qe8 15. Ba1 Qf7 16. Nc5 Bxc5 17. bxc5 Nd5 18. Rb1 Rb8 19. d4 exd4 20. Nxd4
+Nxd4 21. Bxd4 Bd7 22. Be4 f5 23. Bf3 Bc6 24. Rbd1 Rbe8 25. Ba1 Ne7 26. Qb2
+Ng6 27. Bxc6 bxc6 28. e3 Re6 29. Rd4 Ne5 30. Qe2 Qe7 31. Ra4 Nd7 32. Qa2
+Kh8 33. Rxa6 Nxc5 34. Ra7 Ne4 35. Rxc7 Qxc7 36. Qxe6 Ng5 37. Qc4 c5 38. Qd5
+h6 39. Rc1 Ne4 40. f3 Ng5 41. Qxc5 Qf7 42. Qc6 Qh5 43. Rf1 Rf7 44. h4 Nh7
+45. Rd1 Nf6 46. Kg2 Kh7 47. Bxf6 Rxf6 48. Rd6 Rf8 49. Rd7 Qe8 50. Kf2 Qe5
+51. Rd4 Re8 52. Qc3 Re6 53. Rc4 Qd6 54. h5 Re7 55. Qc2 Rf7 56. a4 Qd8 57.
+Rf4 Qg5 58. g4 Qh4+ 59. Kg2 Qe7 60. Rxf5 Rxf5 61. Qxf5+ Kh8 62. Qf4 1-0
 
 [Event "1st place match"]
 [Site "Mainz, Germany"]
@@ -375,22 +379,22 @@ Rxf5 Rxf5 61. Qxf5+ Kh8 62. Qf4 1-0
 [White "Nepomniachtchi, Ian"]
 [Black "Aronian, Levon"]
 [Result "0-1"]
-[ECO "C65"]
 [WhiteElo "2632"]
 [BlackElo "2768"]
-[PlyCount "68"]
+[ECO "C65"]
 [EventDate "2009.08.02"]
+[PlyCount "68"]
 [EventType "match (rapid)"]
 [EventRounds "4"]
 [EventCountry "GER"]
 [SourceDate "2009.07.27"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 Bc5 5. d3 d6 6. c3 Bb6 7. h3 Bd7 8. Nbd2
-Ne7 9. Bxd7+ Qxd7 10. Nc4 Ng6 11. h4 h6 12. g3 Qe6 13. a4 c6 14. a5 Bc7 15. Ne3
-Ne7 16. h5 d5 17. Ra4 O-O-O 18. Nh4 Qd7 19. Kf1 c5 20. b3 c4 21. dxc4 Nxe4 22.
-Qc2 Nc5 23. Ra2 d4 24. cxd4 exd4 25. Neg2 d3 26. Qd1 Ne4 27. a6 d2 28. axb7+
-Kb8 29. Bb2 Nf5 30. Kg1 Nxf2 31. Kxf2 Bb6+ 32. Ne3 Nxe3 33. Be5+ Kxb7 34. Qf3+
-Qc6 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 Bc5 5. d3 d6 6. c3 Bb6 7. h3 Bd7 8.
+Nbd2 Ne7 9. Bxd7+ Qxd7 10. Nc4 Ng6 11. h4 h6 12. g3 Qe6 13. a4 c6 14. a5
+Bc7 15. Ne3 Ne7 16. h5 d5 17. Ra4 O-O-O 18. Nh4 Qd7 19. Kf1 c5 20. b3 c4
+21. dxc4 Nxe4 22. Qc2 Nc5 23. Ra2 d4 24. cxd4 exd4 25. Neg2 d3 26. Qd1 Ne4
+27. a6 d2 28. axb7+ Kb8 29. Bb2 Nf5 30. Kg1 Nxf2 31. Kxf2 Bb6+ 32. Ne3 Nxe3
+33. Be5+ Kxb7 34. Qf3+ Qc6 0-1
 
 [Event "1st place match"]
 [Site "Mainz, Germany"]
@@ -399,25 +403,26 @@ Qc6 0-1
 [White "Aronian, Levon"]
 [Black "Nepomniachtchi, Ian"]
 [Result "1/2-1/2"]
-[ECO "D75"]
 [WhiteElo "2768"]
 [BlackElo "2632"]
-[PlyCount "113"]
+[ECO "D75"]
 [EventDate "2009.08.02"]
+[PlyCount "113"]
 [EventType "match (rapid)"]
 [EventRounds "4"]
 [EventCountry "GER"]
 [SourceDate "2009.07.27"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Nf3 Bg7 6. g3 O-O 7. Bg2 c5 8. O-O
-Nxc3 9. bxc3 Nc6 10. Rb1 Qa5 11. d5 Ne5 12. Nxe5 Bxe5 13. Bh6 Rd8 14. Qc2 Rb8
-15. c4 Bd7 16. Rfc1 b6 17. h4 Qa4 18. Rb3 b5 19. cxb5 Rxb5 20. Rxb5 Qxc2 21.
-Rxc2 Bxb5 22. Rxc5 Bxe2 23. Bf1 Bf3 24. Bg2 Be2 25. Bf1 Bg4 26. Be3 Rb8 27. Rb5
-Rxb5 28. Bxb5 a5 29. Kg2 Bd1 30. a4 Bb3 31. Bc6 Bd6 32. Kf3 f5 33. Bd2 Bc7 34.
-Ke2 Bc4+ 35. Kd1 Kf7 36. Ke1 Bb6 37. Bc3 h6 38. Bd2 Kg7 39. Bc3+ Kf7 40. Bd2
-Kg7 41. Bc3+ Kh7 42. Bd2 Bd3 43. f3 Bc4 44. Bc1 Bc7 45. Kf2 Bd6 46. Be3 Bb4 47.
-Bf4 Kg7 48. Be3 Bc3 49. Bc1 Bb4 50. Be3 h5 51. Bd4+ Kf7 52. Be5 Bc5+ 53. Kg2
-Bd6 54. Bxd6 exd6 55. f4 Ke7 56. Kf2 Kd8 57. Ke3 1/2-1/2
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Nf3 Bg7 6. g3 O-O 7. Bg2 c5 8.
+O-O Nxc3 9. bxc3 Nc6 10. Rb1 Qa5 11. d5 Ne5 12. Nxe5 Bxe5 13. Bh6 Rd8 14.
+Qc2 Rb8 15. c4 Bd7 16. Rfc1 b6 17. h4 Qa4 18. Rb3 b5 19. cxb5 Rxb5 20. Rxb5
+Qxc2 21. Rxc2 Bxb5 22. Rxc5 Bxe2 23. Bf1 Bf3 24. Bg2 Be2 25. Bf1 Bg4 26.
+Be3 Rb8 27. Rb5 Rxb5 28. Bxb5 a5 29. Kg2 Bd1 30. a4 Bb3 31. Bc6 Bd6 32. Kf3
+f5 33. Bd2 Bc7 34. Ke2 Bc4+ 35. Kd1 Kf7 36. Ke1 Bb6 37. Bc3 h6 38. Bd2 Kg7
+39. Bc3+ Kf7 40. Bd2 Kg7 41. Bc3+ Kh7 42. Bd2 Bd3 43. f3 Bc4 44. Bc1 Bc7
+45. Kf2 Bd6 46. Be3 Bb4 47. Bf4 Kg7 48. Be3 Bc3 49. Bc1 Bb4 50. Be3 h5 51.
+Bd4+ Kf7 52. Be5 Bc5+ 53. Kg2 Bd6 54. Bxd6 exd6 55. f4 Ke7 56. Kf2 Kd8 57.
+Ke3 1/2-1/2
 
 [Event "1st place match"]
 [Site "Mainz, Germany"]
@@ -426,21 +431,22 @@ Bd6 54. Bxd6 exd6 55. f4 Ke7 56. Kf2 Kd8 57. Ke3 1/2-1/2
 [White "Nepomniachtchi, Ian"]
 [Black "Aronian, Levon"]
 [Result "1/2-1/2"]
-[ECO "C22"]
 [WhiteElo "2632"]
 [BlackElo "2768"]
+[ECO "C22"]
 [Annotator "Robot 3"]
-[PlyCount "49"]
 [EventDate "2009.08.02"]
+[PlyCount "49"]
 [EventType "match (rapid)"]
 [EventRounds "4"]
 [EventCountry "GER"]
 [SourceDate "2009.07.27"]
 
-1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 Bb4 6. Bd2 O-O 7. O-O-O Re8
-8. Qg3 Rxe4 9. a3 Rg4 10. Qe3 Bf8 11. f3 Rg6 12. Qf2 d5 13. Bd3 d4 14. Bxg6
-hxg6 15. Bg5 Qe8 16. Bxf6 gxf6 17. Nb5 Bh6+ 18. Kb1 Be3 19. Qg3 Bf5 20. Nxc7
-Qd7 21. Nxa8 Bxc2+ 22. Kxc2 Qf5+ 23. Kb3 Qd5+ 24. Kc2 Qf5+ 25. Kb3 1/2-1/2
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 Bb4 6. Bd2 O-O 7. O-O-O
+Re8 8. Qg3 Rxe4 9. a3 Rg4 10. Qe3 Bf8 11. f3 Rg6 12. Qf2 d5 13. Bd3 d4 14.
+Bxg6 hxg6 15. Bg5 Qe8 16. Bxf6 gxf6 17. Nb5 Bh6+ 18. Kb1 Be3 19. Qg3 Bf5
+20. Nxc7 Qd7 21. Nxa8 Bxc2+ 22. Kxc2 Qf5+ 23. Kb3 Qd5+ 24. Kc2 Qf5+ 25. Kb3
+1/2-1/2
 
 [Event "3rd place match"]
 [Site "Mainz, Germany"]
@@ -449,20 +455,21 @@ Qd7 21. Nxa8 Bxc2+ 22. Kxc2 Qf5+ 23. Kb3 Qd5+ 24. Kc2 Qf5+ 25. Kb3 1/2-1/2
 [White "Anand, Viswanathan"]
 [Black "Naiditsch, Arkadij"]
 [Result "1/2-1/2"]
-[ECO "C55"]
 [WhiteElo "2788"]
 [BlackElo "2697"]
-[PlyCount "51"]
+[ECO "C55"]
 [EventDate "2009.08.02"]
+[PlyCount "51"]
 [EventType "match (rapid)"]
 [EventRounds "4"]
 [EventCountry "GER"]
 [SourceDate "2009.07.27"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Re1 d6 7. a4 Na5 8. Ba2
-c5 9. Bg5 Nc6 10. Bxf6 Bxf6 11. Nc3 Ne7 12. Nd5 Nxd5 13. Bxd5 Be6 14. Bxe6 fxe6
-15. c3 Rc8 16. Qe2 g6 17. Nd2 h5 18. Nc4 Rc7 19. Rf1 Re8 20. h3 Kg7 21. b4 cxb4
-22. cxb4 d5 23. Ne3 Bg5 24. exd5 exd5 25. Rfd1 Qd7 26. b5 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. Re1 d6 7. a4 Na5 8.
+Ba2 c5 9. Bg5 Nc6 10. Bxf6 Bxf6 11. Nc3 Ne7 12. Nd5 Nxd5 13. Bxd5 Be6 14.
+Bxe6 fxe6 15. c3 Rc8 16. Qe2 g6 17. Nd2 h5 18. Nc4 Rc7 19. Rf1 Re8 20. h3
+Kg7 21. b4 cxb4 22. cxb4 d5 23. Ne3 Bg5 24. exd5 exd5 25. Rfd1 Qd7 26. b5
+1/2-1/2
 
 [Event "3rd place match"]
 [Site "Mainz, Germany"]
@@ -471,22 +478,22 @@ c5 9. Bg5 Nc6 10. Bxf6 Bxf6 11. Nc3 Ne7 12. Nd5 Nxd5 13. Bxd5 Be6 14. Bxe6 fxe6
 [White "Naiditsch, Arkadij"]
 [Black "Anand, Viswanathan"]
 [Result "1/2-1/2"]
-[ECO "C95"]
 [WhiteElo "2697"]
 [BlackElo "2788"]
-[PlyCount "67"]
+[ECO "C95"]
 [EventDate "2009.08.02"]
+[PlyCount "67"]
 [EventType "match (rapid)"]
 [EventRounds "4"]
 [EventCountry "GER"]
 [SourceDate "2009.07.27"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
-O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15.
-a4 c5 16. d5 c4 17. Bg5 h6 18. Be3 Nc5 19. Ra3 Rb8 20. Qd2 h5 21. Ng5 Bh6 22.
-Nf1 Nfd7 23. axb5 axb5 24. Rea1 Qe7 25. h4 Ra8 26. Qd1 Ra6 27. Rxa6 Bxa6 28.
-Ra3 Ra8 29. Qa1 Qf8 30. Nf3 Bxe3 31. Nxe3 Bb7 32. Rxa8 Qxa8 33. Qxa8+ Bxa8 34.
-Nd2 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3
+g6 15. a4 c5 16. d5 c4 17. Bg5 h6 18. Be3 Nc5 19. Ra3 Rb8 20. Qd2 h5 21.
+Ng5 Bh6 22. Nf1 Nfd7 23. axb5 axb5 24. Rea1 Qe7 25. h4 Ra8 26. Qd1 Ra6 27.
+Rxa6 Bxa6 28. Ra3 Ra8 29. Qa1 Qf8 30. Nf3 Bxe3 31. Nxe3 Bb7 32. Rxa8 Qxa8
+33. Qxa8+ Bxa8 34. Nd2 1/2-1/2
 
 [Event "3rd place match"]
 [Site "Mainz, Germany"]
@@ -495,20 +502,20 @@ Nd2 1/2-1/2
 [White "Anand, Viswanathan"]
 [Black "Naiditsch, Arkadij"]
 [Result "1/2-1/2"]
-[ECO "C65"]
 [WhiteElo "2788"]
 [BlackElo "2697"]
-[PlyCount "45"]
+[ECO "C65"]
 [EventDate "2009.08.02"]
+[PlyCount "45"]
 [EventType "match (rapid)"]
 [EventRounds "4"]
 [EventCountry "GER"]
 [SourceDate "2009.07.27"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Bg4 7. h3 Bxf3 8.
-Qxf3 Nd7 9. Nd2 Qe7 10. Nc4 f6 11. a4 Nf8 12. c3 a5 13. Nxa5 Rxa5 14. b4 Bxb4
-15. cxb4 Ra8 16. Be3 Ne6 17. Rfb1 O-O 18. Qd1 Rfd8 19. Qb3 Qf7 20. a5 Nd4 21.
-Bxd4 Qxb3 22. Rxb3 Rxd4 23. Kf1 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Bg4 7. h3 Bxf3
+8. Qxf3 Nd7 9. Nd2 Qe7 10. Nc4 f6 11. a4 Nf8 12. c3 a5 13. Nxa5 Rxa5 14. b4
+Bxb4 15. cxb4 Ra8 16. Be3 Ne6 17. Rfb1 O-O 18. Qd1 Rfd8 19. Qb3 Qf7 20. a5
+Nd4 21. Bxd4 Qxb3 22. Rxb3 Rxd4 23. Kf1 1/2-1/2
 
 [Event "3rd place match"]
 [Site "Mainz, Germany"]
@@ -517,20 +524,20 @@ Bxd4 Qxb3 22. Rxb3 Rxd4 23. Kf1 1/2-1/2
 [White "Naiditsch, Arkadij"]
 [Black "Anand, Viswanathan"]
 [Result "1/2-1/2"]
-[ECO "C65"]
 [WhiteElo "2697"]
 [BlackElo "2788"]
+[ECO "C65"]
 [Annotator "Robot 3"]
-[PlyCount "54"]
 [EventDate "2009.08.02"]
+[PlyCount "54"]
 [EventType "match (rapid)"]
 [EventRounds "4"]
 [EventCountry "GER"]
 [SourceDate "2009.07.27"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. c3 O-O 6. d4 Bb6 7. Bg5 d6 8. a4
-a5 9. Na3 exd4 10. Bxc6 bxc6 11. Nxd4 Bxd4 12. Qxd4 h6 13. Bxf6 Qxf6 14. Qxf6
-gxf6 15. Nc2 Be6 16. Rfb1 c5 17. b4 axb4 18. cxb4 Rfb8 19. f3 f5 20. bxc5 Rxb1+
-21. Rxb1 Rxa4 22. cxd6 cxd6 23. exf5 Bxf5 24. Rb8+ Kg7 25. Ne3 Be6 26. Rd8 d5
-27. g4 Ra2 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. c3 O-O 6. d4 Bb6 7. Bg5 d6 8.
+a4 a5 9. Na3 exd4 10. Bxc6 bxc6 11. Nxd4 Bxd4 12. Qxd4 h6 13. Bxf6 Qxf6 14.
+Qxf6 gxf6 15. Nc2 Be6 16. Rfb1 c5 17. b4 axb4 18. cxb4 Rfb8 19. f3 f5 20.
+bxc5 Rxb1+ 21. Rxb1 Rxa4 22. cxd6 cxd6 23. exf5 Bxf5 24. Rb8+ Kg7 25. Ne3
+Be6 26. Rd8 d5 27. g4 Ra2 1/2-1/2
 

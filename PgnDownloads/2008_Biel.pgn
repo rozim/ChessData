@@ -5,24 +5,24 @@
 [White "Alekseev, Evgeny"]
 [Black "Bacrot, Etienne"]
 [Result "1-0"]
-[ECO "D15"]
 [WhiteElo "2708"]
 [BlackElo "2691"]
-[PlyCount "85"]
+[ECO "D15"]
 [EventDate "2008.07.19"]
+[PlyCount "85"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 a6 5. c5 Nbd7 6. Bf4 Nh5 7. Bd2 Nhf6 8. Qc2
-Qc7 9. e4 e5 10. exd5 cxd5 11. b4 Be7 12. Be2 O-O 13. O-O e4 14. Ne1 Nb8 15.
-Qc1 Be6 16. Nc2 Nc6 17. Rb1 Bd8 18. a4 Ne7 19. Bf4 Qd7 20. b5 Ba5 21. Rb3 Bg4
-22. Bxg4 Nxg4 23. Ne3 Nxe3 24. fxe3 Nf5 25. Ne2 axb5 26. axb5 g6 27. Qb2 Bd8
-28. Rc1 Be7 29. c6 bxc6 30. bxc6 Qe6 31. c7 Rac8 32. Rb6 Qd7 33. Qb5 Qxb5 34.
-Rxb5 g5 35. Rxd5 gxf4 36. Rxf5 fxe3 37. Rc6 Ra8 38. Rf1 Rfc8 39. d5 Ra2 40. d6
-Bxd6 41. Rxd6 Rxc7 42. Rd8+ Kg7 43. Ng3 1-0
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 a6 5. c5 Nbd7 6. Bf4 Nh5 7. Bd2 Nhf6 8.
+Qc2 Qc7 9. e4 e5 10. exd5 cxd5 11. b4 Be7 12. Be2 O-O 13. O-O e4 14. Ne1
+Nb8 15. Qc1 Be6 16. Nc2 Nc6 17. Rb1 Bd8 18. a4 Ne7 19. Bf4 Qd7 20. b5 Ba5
+21. Rb3 Bg4 22. Bxg4 Nxg4 23. Ne3 Nxe3 24. fxe3 Nf5 25. Ne2 axb5 26. axb5
+g6 27. Qb2 Bd8 28. Rc1 Be7 29. c6 bxc6 30. bxc6 Qe6 31. c7 Rac8 32. Rb6 Qd7
+33. Qb5 Qxb5 34. Rxb5 g5 35. Rxd5 gxf4 36. Rxf5 fxe3 37. Rc6 Ra8 38. Rf1
+Rfc8 39. d5 Ra2 40. d6 Bxd6 41. Rxd6 Rxc7 42. Rd8+ Kg7 43. Ng3 1-0
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -31,115 +31,28 @@ Bxd6 41. Rxd6 Rxc7 42. Rd8+ Kg7 43. Ng3 1-0
 [White "Carlsen, Magnus"]
 [Black "Pelletier, Yannick"]
 [Result "1-0"]
-[ECO "E15"]
 [WhiteElo "2775"]
 [BlackElo "2569"]
-[PlyCount "127"]
+[ECO "E15"]
 [EventDate "2008.07.19"]
+[PlyCount "127"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-{Live commentary by IM Miodrag Perunovic and Goran Urosevic (taken from www.
-chessdom.com)} 1. d4 {Good day everyone, welcome to the Chessdom live coverage
-of Biel Grandmaster Tournament 2008. Magnus Carlsen won the last year's event
-after a tiebreak match with Alexander Onischuk, but Yannick Pelletier had a
-good tournament and beat Carlsen with Black. Perhaps we get to see this
-Nimzo-Indian again :) Enjoy the game.} Nf6 2. c4 e6 3. Nf3 $5 {
-This time, Carlsen is avoiding the Nimzo-Indian.} b6 {Black can choose between
-a variety of defenses, 3...c5 for Benoni or Bluemenfeld, 3...d5 for Queen's
-Gambit Declined or 3...Bb4+ for Bogo-Indian. Of course, other transpositions
-are possible as well. Pelletier wants to play Queen's Indian defence.} 4. g3 {
-Tigran Petrosian invented the waiting and useful 4.a3 which Garry Kasparov
-perfected later.} Ba6 5. Qc2 $5 {A modern way of dealing with Black's maneuver
-Ba6-b7 where White is trying not to push b3 and prepares to sacrifice a pawn
-instead. Aronian, Radjabov, Gelfand and Kramnik all tried this line.} Bb7 6.
-Bg2 c5 7. d5 exd5 8. cxd5 Nxd5 ({The other way to take the pawn is} 8... Bxd5 {
-but then White grabs some tempi for development, for example} 9. Nc3 Bc6 10. e4
-d6 11. Bf4) 9. O-O Be7 10. Rd1 Nc6 {
-Carlsen himself played 10... Qc8 against Peter Svidler recently.} 11. Qf5 Nf6
-12. e4 {The most consistent follow-up after the aggressive Qf5.} (12. Nc3 {
-has been tried in one game, but it appears too slow} O-O 13. e4 g6 14. Qf4 d6 {
-and your commentator IM Miodrag Perunovic won this game with Black :)}) 12...
-d6 ({More common is} 12... g6 {and now the game Carlsen-Ivanchuk 2007 continued
-} 13. Qf4 O-O 14. e5 Nh5 15. Qg4 d5 16. exd6 Bf6 17. Nc3 Nd4 18. Nxd4 Bxg2 19.
-Nf5 $1 {White eventually won.}) 13. e5 Qd7 {This plan of dealing with White
-Queen has been tried only once, in Bareev-J.Polgar in the last year's
-Candidate matches. Bareev convincingly won, but Peletier probably has some
-improvement up in his sleeve.} 14. Qxd7+ Nxd7 15. exd6 Bf6 16. Re1+ Kf8 17. Nc3
-{Black is usually giving the extra pawn back, in order to finish the
-development without harm. After a short forced sequence, material is equal and
-White d6 pawn is deep inside the enemy territory. As long as Black can't
-attack it successfully, it goes into White's advantage because it is seriously
-limiting Black's mobility. Pelletier still has to connect his Rooks.} Nb4 18.
-Bg5 $5 {GM Krasenkow criticized this move in his annotations and suggested 18.
-Rd1 with "plus/equal advantage to White". Carlsen might find the Rook move to
-be too slow and suggests exchange sacrifice.} Nc2 $5 $146 {Novelty. Pelletier
-accepts the challenge! White can continue with 19. Bxf6 Nxf6 20. Re7 or
-sacrifice an exchange with immediate 19. Re7!?} ({Judit Polgar played} 18...
-Bxf3 19. Bxf3 Rd8 20. Bxf6 Nxf6 21. Re7 {
-but it ended bad after Bareev's Rook invaded the 7th rank.}) 19. Re7 $1 {
-A daring exchange sacrifice, perfectly fitting with Carlsen's aggressive
-playing profile. An important question is how will White recapture should
-Black take on e7 (which seems like the only move). If 20. Bxe7+ then Black
-King will be strained on g8, but White d6 pawn is still blocked by the Nd7 and
-it is unclear if White can unlock it. 20. dxe7+ brings pawn one step closer to
-the promoting square, but the main question is if Black will have time to
-close the d-file with Bxf3 and Nd4. Very interesting position :)} ({
-Krasenkow gave the following line} 19. Bxf6 Nxf6 20. Re7 Bxf3 21. Bxf3 Re8 22.
-Rxe8+ Kxe8 {but White will have serious problems to keep the d6 pawn.}) 19...
-Bxf3 $5 ({Pelletier sidesteps the most challenging} 19... Bxe7 20. Bxe7+ Kg8
-21. Rd1 {with possible ideas of Ne5 and Nb5.}) 20. Bxf3 {The tempo on Ra8
-allows White to trade on f6 and keep the Rook on the 7th rank. This now
-resembles Bareev-Polgar and White is probably better.} Bxg5 ({Actually, on} 
-20... Rd8 21. Bd5 {is devastating.} (21. Bxf6 Nxf6 {
-would be like Bareev-Polgar game.})) 21. Rxd7 Rd8 22. Rxd8+ Bxd8 23. Rd1 {
-Carlsen now enjoys stable advantage because Black pieces are poorlycoordinated.
-Light-squared Bishop will prevent the blockade on d7 and d6 pawn will limit
-Black Bishop. Nb5 is also in the air...} Nd4 24. Bg2 $5 {Nd4 is preventing
-possible Bc6+, but if Black attempts to play Ke8, White can insert Nb5.} h5 $1
-{Rook has to find a road to enter the play.} 25. a4 a6 26. Bb7 Rh6 $1 {
-Of course, Pelletier would love to trade a6 for d6. Perhaps 24. Bg2 was played
-a bit too quick. It is understandable that Carlsen wanted to keeptheopposite-c
-oloured Bishops on the board, but with hindsight, 24. Kg2 looked better. In
-that case, Bishop from f3 is eyeing h5 pawn.} 27. d7 Rd6 28. Bc8 (28. Bxa6 Rxd7
-29. Kg2 {
-White eventually has to move his King and prevent all kind of tactics...})
-28... Nf3+ {This motif, while King is on g1, allows Black to trade off the
-Rooks and reduce the pressure.} 29. Kg2 Rxd1 30. Nxd1 Ne1+ 31. Kf1 Nf3 32. h4
-Ke7 33. Ne3 {It looks like a6 might be eventually traded for d7 and then Black
-will be able to hold. 33...g6 and 33...Nd4 are good.} g6 34. Bxa6 Kxd7 35. Ke2
-Ne5 $5 (35... Nd4+ $5 {with Bf6 next}) 36. f4 Ng4 {Pelletier is aiming for an
-opposite-coloured Bishops ending...With no other pieces on the board, it is an
-easy draw. Carlsen will probably avoid it.} 37. Bb5+ Ke7 38. Nd5+ Kd6 39. Bc4
-Nh6 $1 {Pelletier is accurate in spite of being in slight time trouble. After
-the possible Nf5, White weak pawn also comes under attack...} 40. Ne3 Bf6 41.
-Bd3 Bd8 42. Kf3 {Maybe White will be able to push f4-f5 at the convenient
-moment and after gxf5 recapture with the Bishop, offering N vs B ending.} Ng4
-$5 43. Nxg4 {If White avoids the trade with 43.Nc4+ Kd5 then f4-f5 is not
-possible because of contact between Kd5 and Nc4.} hxg4+ 44. Kxg4 Ke6 45. Bc4+
-Ke7 46. Kf3 f5 47. Ke2 Kf8 48. Kd3 Bf6 49. b3 {
-Bb2-c1-d2 looks like a timely maneuver to counter possible White's Kb5.} Bb2 $1
-50. Bd5 Ba3 51. Kc4 Bb4 52. Kb5 Ba5 53. Bc4 (53. b4 $5 cxb4 54. Bb3 {is a very 
-interesting attempt to create zugzwang, but Black can probably hold with
-timely b6-b5 (when White King is on e5 or similar) and then Bb6-Bf2-Bxg3-Bxf4
-when Bishop is controlling promotion square b8.}) 53... Ke7 54. Kc6 Kf6 55. Bd3
-Kf7 $6 (55... Ke6 {
-looks safer because the King is still with f5-pawn. If white plays} 56. g4 {
-Black should be able to use the passed g-pawn as decoy and contain White pawns.
-}) 56. h5 $1 gxh5 57. Bxf5 {
-Now White has excellent winning chances because h5 is very weak.} Kf6 58. Be4
-$1 {King will be tied for h5-pawn.} Kg7 59. Bf3 Kh6 60. Kb5 $1 Kg6 61. Bd1 Kh6
-62. Be2 Kg6 63. Bf3 Kh6 64. Bc6 $1 {Final finesse! Now Black will be brought
-into zugzwang after Be8-f7 and lose the h5-pawn. With the Bishop unfortunately
-locked on a5, the resulting endgame is winning for White - Pelletier realized
-this and threw the towel. After Black's mistake on 55th move, Carlsen used the
-opportunity to win the first round of Biel International! It will be
-interesting to analyze the position after 53. b4!?, maybe this was winning as
-well. Thank you everyone for following Chessdom live commentary, have a nice
-day.} 1-0
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8.
+cxd5 Nxd5 9. O-O Be7 10. Rd1 Nc6 11. Qf5 Nf6 12. e4 d6 13. e5 Qd7 14. Qxd7+
+Nxd7 15. exd6 Bf6 16. Re1+ Kf8 17. Nc3 Nb4 18. Bg5 Nc2 19. Re7 Bxf3 20.
+Bxf3 Bxg5 21. Rxd7 Rd8 22. Rxd8+ Bxd8 23. Rd1 Nd4 24. Bg2 h5 25. a4 a6 26.
+Bb7 Rh6 27. d7 Rd6 28. Bc8 Nf3+ 29. Kg2 Rxd1 30. Nxd1 Ne1+ 31. Kf1 Nf3 32.
+h4 Ke7 33. Ne3 g6 34. Bxa6 Kxd7 35. Ke2 Ne5 36. f4 Ng4 37. Bb5+ Ke7 38.
+Nd5+ Kd6 39. Bc4 Nh6 40. Ne3 Bf6 41. Bd3 Bd8 42. Kf3 Ng4 43. Nxg4 hxg4+ 44.
+Kxg4 Ke6 45. Bc4+ Ke7 46. Kf3 f5 47. Ke2 Kf8 48. Kd3 Bf6 49. b3 Bb2 50. Bd5
+Ba3 51. Kc4 Bb4 52. Kb5 Ba5 53. Bc4 Ke7 54. Kc6 Kf6 55. Bd3 Kf7 56. h5 gxh5
+57. Bxf5 Kf6 58. Be4 Kg7 59. Bf3 Kh6 60. Kb5 Kg6 61. Bd1 Kh6 62. Be2 Kg6
+63. Bf3 Kh6 64. Bc6 1-0
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -148,23 +61,23 @@ day.} 1-0
 [White "Dominguez Perez, Lenier"]
 [Black "Onischuk, Alexander"]
 [Result "1/2-1/2"]
-[ECO "C78"]
 [WhiteElo "2708"]
 [BlackElo "2670"]
-[PlyCount "71"]
+[ECO "C78"]
 [EventDate "2008.07.19"]
+[PlyCount "71"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 b5 7. Bb3 d6 8. a4
-Bg4 9. axb5 axb5 10. Rxa8 Qxa8 11. h3 Bh5 12. d3 O-O 13. Bg5 Nd7 14. g4 Bg6 15.
-Nh4 Kh8 16. Bd5 h6 17. Bc1 Nf6 18. b4 Bb6 19. Bb3 Ne7 20. Qf3 c5 21. bxc5 dxc5
-22. Bxh6 c4 23. Bg5 cxb3 24. Bxf6 Nc6 25. Bg5 b4 26. Qd1 bxc3 27. Qxb3 Ba5 28.
-Be3 Qd8 29. Nxg6+ fxg6 30. Nxc3 Qxd3 31. Qa4 Nd4 32. Qxa5 Nf3+ 33. Kg2 Nh4+ 34.
-Kg1 Nf3+ 35. Kg2 Nh4+ 36. Kg1 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 b5 7. Bb3 d6 8.
+a4 Bg4 9. axb5 axb5 10. Rxa8 Qxa8 11. h3 Bh5 12. d3 O-O 13. Bg5 Nd7 14. g4
+Bg6 15. Nh4 Kh8 16. Bd5 h6 17. Bc1 Nf6 18. b4 Bb6 19. Bb3 Ne7 20. Qf3 c5
+21. bxc5 dxc5 22. Bxh6 c4 23. Bg5 cxb3 24. Bxf6 Nc6 25. Bg5 b4 26. Qd1 bxc3
+27. Qxb3 Ba5 28. Be3 Qd8 29. Nxg6+ fxg6 30. Nxc3 Qxd3 31. Qa4 Nd4 32. Qxa5
+Nf3+ 33. Kg2 Nh4+ 34. Kg1 Nf3+ 35. Kg2 Nh4+ 36. Kg1 1/2-1/2
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -173,25 +86,25 @@ Kg1 Nf3+ 35. Kg2 Nh4+ 36. Kg1 1/2-1/2
 [White "Alekseev, Evgeny"]
 [Black "Carlsen, Magnus"]
 [Result "1/2-1/2"]
-[ECO "E15"]
 [WhiteElo "2708"]
 [BlackElo "2775"]
-[PlyCount "94"]
+[ECO "E15"]
 [EventDate "2008.07.19"]
+[PlyCount "94"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8. O-O
-Be7 9. Nc3 O-O 10. Rd1 Qb6 11. Bf4 Rd8 12. Rd2 d6 13. Rad1 a6 14. Qc2 Qc7 15.
-e4 Nh5 16. Be3 Nc6 17. h3 h6 18. Nh2 Rac8 19. Nf1 Nf6 20. f4 d5 21. cxd5 Nd4
-22. Qb1 exd5 23. e5 Ne4 24. Nxe4 dxe4 25. Kf2 Nf3 26. Rxd8+ Rxd8 27. Rxd8+ Qxd8
-28. Qc1 g5 29. Bxf3 exf3 30. fxg5 hxg5 31. Qd2 Qb6 32. Nh2 Qg6 33. Ng4 c4 34.
-Nf6+ Kg7 35. g4 Qd3 36. Ne8+ Kg6 37. Nd6 Ba8 38. b3 Qxd2+ 39. Bxd2 cxb3 40.
-axb3 f6 41. Bc3 fxe5 42. Bxe5 a5 43. Nf5 Bd8 44. Bc3 Bb7 45. Nd4 Bf6 46. Ke3
-Be5 47. Be1 Bxd4+ 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qa4 Bb7 6. Bg2 c5 7. dxc5 bxc5 8.
+O-O Be7 9. Nc3 O-O 10. Rd1 Qb6 11. Bf4 Rd8 12. Rd2 d6 13. Rad1 a6 14. Qc2
+Qc7 15. e4 Nh5 16. Be3 Nc6 17. h3 h6 18. Nh2 Rac8 19. Nf1 Nf6 20. f4 d5 21.
+cxd5 Nd4 22. Qb1 exd5 23. e5 Ne4 24. Nxe4 dxe4 25. Kf2 Nf3 26. Rxd8+ Rxd8
+27. Rxd8+ Qxd8 28. Qc1 g5 29. Bxf3 exf3 30. fxg5 hxg5 31. Qd2 Qb6 32. Nh2
+Qg6 33. Ng4 c4 34. Nf6+ Kg7 35. g4 Qd3 36. Ne8+ Kg6 37. Nd6 Ba8 38. b3
+Qxd2+ 39. Bxd2 cxb3 40. axb3 f6 41. Bc3 fxe5 42. Bxe5 a5 43. Nf5 Bd8 44.
+Bc3 Bb7 45. Nd4 Bf6 46. Ke3 Be5 47. Be1 Bxd4+ 1/2-1/2
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -200,23 +113,23 @@ Be5 47. Be1 Bxd4+ 1/2-1/2
 [White "Bacrot, Etienne"]
 [Black "Onischuk, Alexander"]
 [Result "1/2-1/2"]
-[ECO "C92"]
 [WhiteElo "2691"]
 [BlackElo "2670"]
-[PlyCount "69"]
+[ECO "C92"]
 [EventDate "2008.07.19"]
+[PlyCount "69"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
-d6 9. h3 Nd7 10. d4 Bf6 11. a4 Bb7 12. Na3 Nb6 13. d5 Na5 14. axb5 axb5 15. Be3
-Qd7 16. Bxb6 cxb6 17. Ba2 Rfc8 18. Qd3 Ba6 19. Qe3 Qc7 20. Nc2 Nc4 21. Qc1 Bb7
-22. Nb4 g6 23. Bb3 Rxa1 24. Qxa1 Bg7 25. Qc1 Rf8 26. Bc2 Bc8 27. Bd3 Bd7 28.
-Qc2 Bh6 29. Ra1 Na5 30. Re1 Nc4 31. Qe2 Ra8 32. Rd1 Qc8 33. Ne1 Bg5 34. Rb1 Nd2
-35. Rd1 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Nd7 10. d4 Bf6 11. a4 Bb7 12. Na3 Nb6 13. d5 Na5 14. axb5 axb5
+15. Be3 Qd7 16. Bxb6 cxb6 17. Ba2 Rfc8 18. Qd3 Ba6 19. Qe3 Qc7 20. Nc2 Nc4
+21. Qc1 Bb7 22. Nb4 g6 23. Bb3 Rxa1 24. Qxa1 Bg7 25. Qc1 Rf8 26. Bc2 Bc8
+27. Bd3 Bd7 28. Qc2 Bh6 29. Ra1 Na5 30. Re1 Nc4 31. Qe2 Ra8 32. Rd1 Qc8 33.
+Ne1 Bg5 34. Rb1 Nd2 35. Rd1 1/2-1/2
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -225,25 +138,25 @@ Qc2 Bh6 29. Ra1 Na5 30. Re1 Nc4 31. Qe2 Ra8 32. Rd1 Qc8 33. Ne1 Bg5 34. Rb1 Nd2
 [White "Pelletier, Yannick"]
 [Black "Dominguez Perez, Lenier"]
 [Result "1/2-1/2"]
-[ECO "D85"]
 [WhiteElo "2569"]
 [BlackElo "2708"]
-[PlyCount "90"]
+[ECO "D85"]
 [EventDate "2008.07.19"]
+[PlyCount "90"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5 8.
-Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O Bg4 13. Rxb7 Bxf3 14.
-Bxf3 Bxd4 15. Bb4 Nc6 16. Bxe7 Rfe8 17. Bg5 Be5 18. Bg4 Nd4 19. f4 Bg7 20. e5
-Ne6 21. Bf3 h6 22. Qd7 Nc5 23. Bd5 Nxd7 24. Bxa2 Nc5 25. Bxf7+ Kf8 26. Bxe8
-Nxb7 27. Bxg6 hxg5 28. fxg5+ Kg8 29. Be4 Rb8 30. Rb1 Bxe5 31. Rxb7 Rxb7 32.
-Bxb7 Bf4 33. h4 Bg3 34. h5 a5 35. Bc6 Kg7 36. Kf1 Bf4 37. g6 Kh6 38. Ke2 Be5
-39. g4 Kg5 40. Kf3 Bg7 41. Ba4 Bf8 42. Bb3 Bg7 43. Bd1 Bf8 44. Ke4 a4 45. Bxa4
-Kxg4 1/2-1/2
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 c5
+8. Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O Bg4 13. Rxb7 Bxf3
+14. Bxf3 Bxd4 15. Bb4 Nc6 16. Bxe7 Rfe8 17. Bg5 Be5 18. Bg4 Nd4 19. f4 Bg7
+20. e5 Ne6 21. Bf3 h6 22. Qd7 Nc5 23. Bd5 Nxd7 24. Bxa2 Nc5 25. Bxf7+ Kf8
+26. Bxe8 Nxb7 27. Bxg6 hxg5 28. fxg5+ Kg8 29. Be4 Rb8 30. Rb1 Bxe5 31. Rxb7
+Rxb7 32. Bxb7 Bf4 33. h4 Bg3 34. h5 a5 35. Bc6 Kg7 36. Kf1 Bf4 37. g6 Kh6
+38. Ke2 Be5 39. g4 Kg5 40. Kf3 Bg7 41. Ba4 Bf8 42. Bb3 Bg7 43. Bd1 Bf8 44.
+Ke4 a4 45. Bxa4 Kxg4 1/2-1/2
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -252,91 +165,22 @@ Kxg4 1/2-1/2
 [White "Carlsen, Magnus"]
 [Black "Bacrot, Etienne"]
 [Result "1-0"]
-[ECO "D36"]
 [WhiteElo "2775"]
 [BlackElo "2691"]
-[PlyCount "61"]
+[ECO "D36"]
 [EventDate "2008.07.19"]
+[PlyCount "61"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-{Live commentary by IM Miodrag Perunovic and Goran Urosevic (taken from www.
-chessdom.com)} 1. d4 {Good day everyone, welcome to the Chessdom live coverage
-of Biel International 3rd round. Bacrot is very solid player who is mostly
-angling for Marshall attack or Slav defence with Black pieces. Carlsen won
-their last-round encounter at the Baku Grand Prix, but Bacrot was already on a
-losing streak.} d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 $5 {Bacrot specialized in
-Chebanenko Slav which features 4...a6, but he already lost in this line to
-Evgeny Alekseev in the first round.} 5. Bg5 {Carlsen is aiming for the
-sharpest lines in the Semi-Slav. 5. e3 would take the game into also popular
-Meran defence.} Nbd7 $5 {Avoiding the ultra-sharp Botvinnik Slav with 5...dxc4
-and Anti-Moscow with 5...h6 6. Bh4 dxc4. The selected Cambridge-Springs is not
-without venom though. Vassily Ivanchuk also liked to use it from time to time.}
-6. cxd5 $5 {Good practical decision to transpose into Exchange variation of
-the Queen's Gambit Declined. After the main 6. e3 Qa5, White would have to
-deal with pins against the King and possible tactics against Bishop on g5.}
-exd5 7. e3 Be7 8. Qc2 Nh5 $5 {The "normal" 8...0-0 is more popular, but Bacrot
-wants to solve the issue of dark-squared Bishops before turning to something
-else. The tempi lost on this operation is not really significant as Black will
-be able to complete his development.} 9. Bxe7 {Believe it or not, Vladimir
-Kramnik played adventurous 9.h4 move against Garry Kasparov! It was in a blitz
-game though, and it ended in a draw.} Qxe7 10. O-O-O {A move typical for
-Carlsen, who will even in this "boring" Carlsbad pawn structure seek for an
-opportunity to attack. The long castle was played in this position as early as
-on 1928!} Nb6 11. h3 {
-Loek Van Wely and Antoaneta Stefanova have tried 11.Ne5 here.} Be6 {Bacrot is r
-ushing to castle long. Some other players, including Ivanchuk, have tried to
-execute regular plan of 11...g6 with Ng7 (after White's Bd3) and Bf5.} 12. Bd3
-O-O-O 13. Kb1 Kb8 14. Nd2 g6 {While White Knight is being transfered to the
-queenside, Black is now building a post on f5. If 15. g4 Ng7, Black will
-continue with h7-h5 which should bring some relief.} 15. Nb3 Ng7 16. f3 {
-With idea to meet Be6-f5 with e4. This might cause some problems if Bacrot
-manages to exploit now slightly weakened dark squares. 16...Nf5!? is looking
-good.} Bf5 {Bacrot decided to provoke e4. The mighty-looking center could also
-turn to be vulnerable, particularly if Black hits d4 somehow.} 17. Bxf5 {
-This brings the Knight to f5 and Carlsen will have to spend some moves in
-supporting e3 pawn or preparing e4-push. The point is that e3 is the forking
-square for Qc2 and Rd1.} Nxf5 18. Rhe1 {18...Nxe3 is risky because Black Queen
-is on the line with Re1 and Black will have hard time to untangle the pin.
-After 18...Nc4 Carlsen will have to play Qc1 before trying to push e3-e4. This
-gives some time to Bacrot to maybe even increase the pressure.} Nc4 19. Qc1 {
-Bacrot is probably taking his time to double-check consequences of immediate
-Nxe3. Safer road is 19...Qg5.} Qg5 {...and he decided not to test Carlsen's
-calculating skills. It is still possible to play 20. g4 and drag Bacrot into
-complications after Nxe3. 20. e4 Qxc1+ 21. Rxc1 dxe4 leaves White equal but
-with broken pawns.} 20. g4 $5 {Risky and sharp, just like Magnus likes it.} Ng7
-$5 {It is possible that Carlsen's huge energy and self-confidence sometimes
-scare his opponents. Bacrot had more active possibilities, like Nxe3 or Nh4,
-but he decided to retreat. This presents Carlsen with opportunity to
-consolidate his pawn structure and transform it into real asset.} 21. f4 $5 {
-Still following the narrow path! 21. e4 was safer but Carlsen wants to avoid
-the trade of Queens when storming with pawns, even if it includes a pawn
-sacrifice.} Qh4 22. e4 Qxh3 23. exd5 cxd5 {Probably only now Carlsen noticed
-that intended 24. Nxd5 is met by sneaky 24...Qxg4! 25. Qxc4 Qf5+ and Black
-regains the Knight.} 24. Nc5 {So he switches to different plan. The Knight is
-adding on b7 and White wants to play Re7 if Black is greedy (Qxg4).} Ne6 $1 {
-Better than allowing the unpleasant 24... Rhe8 25.b3 Nd6 26.Nxd5 Qxg4 27.Na6+}
-25. b3 $1 {It is important to drive the Knight to weaker position before
-dealing with d5 or executing some tactics against Black King.} Nxc5 {Bacrot had
-a number of alternatives, but he decided to eliminate the Nc5 that was
-breathing on his King's neck. However, now that d-file is open for White Rook,
-it is no longer possible to rely on Qxg4-f5 in holding Nc4's position and if
-White decides to push his b-pawn the Kb8 might again come under fire.} 26. dxc5
-Na5 27. b4 {Exactly! Carlsen is not missing this chance.} Nc4 {
-Bacrot is taking serious risk being short on time. Perhaps better was Nc6.} 28.
-Nxd5 Na3+ 29. Ka1 $1 {
-Precision! 29. Kb2 Qg2+ (attacking on Nd5) complicates matters.} Rhe8 $2 {
-Re1-e3 was threatening, but now c5-c6! comes in with great force! Black is
-immediately lost.} 30. c6 $1 bxc6 31. Qxc6 {Bacrot's position collapsed within
-only a couple of moves! Probably already 25...Nc5 was imprecise and 27...Nc4
-was serious mistake. Black was doing fine, perhaps he was even slightly better
-at some point, but Carlsen's sharpness and persistence once again forced his
-opponent to lose the control. Thank you everyone for following Chessdom live
-coverage of Biel International, join us again for round 4 on Thursday at 14:00
-CET (Tomorrow is rest day).} 1-0
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 Nbd7 6. cxd5 exd5 7. e3 Be7
+8. Qc2 Nh5 9. Bxe7 Qxe7 10. O-O-O Nb6 11. h3 Be6 12. Bd3 O-O-O 13. Kb1 Kb8
+14. Nd2 g6 15. Nb3 Ng7 16. f3 Bf5 17. Bxf5 Nxf5 18. Rhe1 Nc4 19. Qc1 Qg5
+20. g4 Ng7 21. f4 Qh4 22. e4 Qxh3 23. exd5 cxd5 24. Nc5 Ne6 25. b3 Nxc5 26.
+dxc5 Na5 27. b4 Nc4 28. Nxd5 Na3+ 29. Ka1 Rhe8 30. c6 bxc6 31. Qxc6 1-0
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -345,23 +189,23 @@ CET (Tomorrow is rest day).} 1-0
 [White "Dominguez Perez, Lenier"]
 [Black "Alekseev, Evgeny"]
 [Result "1/2-1/2"]
-[ECO "C67"]
 [WhiteElo "2708"]
 [BlackElo "2708"]
-[PlyCount "71"]
+[ECO "C67"]
 [EventDate "2008.07.19"]
+[PlyCount "71"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
-8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Be7 11. g4 Nh4 12. Nxh4 Bxh4 13. Bf4 Be7 14.
-Rfd1 Be6 15. f3 Rd8 16. Kg2 Rd7 17. Ne2 c5 18. Ng3 g6 19. Ne4 h6 20. Nf6+ Bxf6
-21. exf6 Kd8 22. a3 Kc8 23. Kg3 h5 24. Rxd7 Kxd7 25. Re1 a5 26. Re5 b6 27. h4
-a4 28. Re2 Re8 29. Be5 Bd5 30. Kf4 Kc6 31. Re3 b5 32. Bc3 Rxe3 33. Kxe3 Kd6 34.
-Kf4 Ke6 35. Ba5 Kxf6 36. Bxc7 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Be7 11. g4 Nh4 12. Nxh4 Bxh4 13. Bf4
+Be7 14. Rfd1 Be6 15. f3 Rd8 16. Kg2 Rd7 17. Ne2 c5 18. Ng3 g6 19. Ne4 h6
+20. Nf6+ Bxf6 21. exf6 Kd8 22. a3 Kc8 23. Kg3 h5 24. Rxd7 Kxd7 25. Re1 a5
+26. Re5 b6 27. h4 a4 28. Re2 Re8 29. Be5 Bd5 30. Kf4 Kc6 31. Re3 b5 32. Bc3
+Rxe3 33. Kxe3 Kd6 34. Kf4 Ke6 35. Ba5 Kxf6 36. Bxc7 1/2-1/2
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -370,26 +214,27 @@ Kf4 Ke6 35. Ba5 Kxf6 36. Bxc7 1/2-1/2
 [White "Onischuk, Alexander"]
 [Black "Pelletier, Yannick"]
 [Result "1-0"]
-[ECO "E15"]
 [WhiteElo "2670"]
 [BlackElo "2569"]
-[PlyCount "113"]
+[ECO "E15"]
 [EventDate "2008.07.19"]
+[PlyCount "113"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 Bb4 6. Qc2 O-O 7. Bg2 d5 8. O-O
-c5 9. dxc5 Bxc5 10. cxd5 Nxd5 11. Ne4 Nb4 12. Qd2 Be7 13. a3 Qxd2 14. Bxd2 Nd5
-15. Nd4 Bc5 16. Nxc5 bxc5 17. Nf5 Nc6 18. Rfc1 Nd4 19. Nxd4 cxd4 20. Bb4 Rfd8
-21. Bc5 e5 22. Rc2 Rac8 23. Rac1 Nc3 24. bxc3 Rxc5 25. cxd4 Rxc2 26. Rxc2 exd4
-27. Be4 Kf8 28. f3 Ke7 29. Kf2 d3 30. Rc7+ Kf8 31. Rxa7 d2 32. Bc2 Rc8 33. Bd1
-Rc1 34. Rxa6 Rxd1 35. Ke3 h5 36. a4 Rh1 37. Kxd2 Rxh2 38. Rc6 h4 39. gxh4 Rxh4
-40. a5 Ra4 41. a6 g5 42. e4 Ke7 43. Kc3 Kd7 44. Rf6 Ke7 45. Rb6 Kd7 46. Kb3 Ra1
-47. Kc4 Ra3 48. Kb4 Ra1 49. Kb5 Rb1+ 50. Kc5 Rc1+ 51. Kd5 Ra1 52. Rb7+ Kc8 53.
-Rxf7 Rxa6 54. Ke5 Ra1 55. Kf6 Rg1 56. e5 Rg3 57. Ke7 1-0
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 Bb4 6. Qc2 O-O 7. Bg2 d5 8.
+O-O c5 9. dxc5 Bxc5 10. cxd5 Nxd5 11. Ne4 Nb4 12. Qd2 Be7 13. a3 Qxd2 14.
+Bxd2 Nd5 15. Nd4 Bc5 16. Nxc5 bxc5 17. Nf5 Nc6 18. Rfc1 Nd4 19. Nxd4 cxd4
+20. Bb4 Rfd8 21. Bc5 e5 22. Rc2 Rac8 23. Rac1 Nc3 24. bxc3 Rxc5 25. cxd4
+Rxc2 26. Rxc2 exd4 27. Be4 Kf8 28. f3 Ke7 29. Kf2 d3 30. Rc7+ Kf8 31. Rxa7
+d2 32. Bc2 Rc8 33. Bd1 Rc1 34. Rxa6 Rxd1 35. Ke3 h5 36. a4 Rh1 37. Kxd2
+Rxh2 38. Rc6 h4 39. gxh4 Rxh4 40. a5 Ra4 41. a6 g5 42. e4 Ke7 43. Kc3 Kd7
+44. Rf6 Ke7 45. Rb6 Kd7 46. Kb3 Ra1 47. Kc4 Ra3 48. Kb4 Ra1 49. Kb5 Rb1+
+50. Kc5 Rc1+ 51. Kd5 Ra1 52. Rb7+ Kc8 53. Rxf7 Rxa6 54. Ke5 Ra1 55. Kf6 Rg1
+56. e5 Rg3 57. Ke7 1-0
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -398,25 +243,25 @@ Rxf7 Rxa6 54. Ke5 Ra1 55. Kf6 Rg1 56. e5 Rg3 57. Ke7 1-0
 [White "Dominguez Perez, Lenier"]
 [Black "Bacrot, Etienne"]
 [Result "1-0"]
-[ECO "C88"]
 [WhiteElo "2708"]
 [BlackElo "2691"]
-[PlyCount "97"]
+[ECO "C88"]
 [EventDate "2008.07.19"]
+[PlyCount "97"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
-Bb7 9. d3 d6 10. a3 Na5 11. Ba2 c5 12. Nbd2 Nc6 13. Nf1 Bc8 14. c3 Be6 15. Bxe6
-fxe6 16. b4 Qd7 17. Ng3 a5 18. bxc5 dxc5 19. Qb3 Rfb8 20. a4 b4 21. Be3 c4 22.
-Qxc4 bxc3 23. Red1 Bb4 24. Rac1 Rc8 25. Qa2 Qd6 26. Ne2 Nd8 27. d4 Nxe4 28.
-dxe5 Qa6 29. Nf4 Rc4 30. Nd4 Rac8 31. Nb5 Nf7 32. Qc2 Bc5 33. Nd4 Bxd4 34. Rxd4
-Qc6 35. Nxe6 Nxe5 36. Rcd1 Nd2 37. Ng5 Qg6 38. Rxc4 Ndxc4 39. Qxc3 h6 40. Bf4
-Qf5 41. Bxe5 Nxe5 42. Qb3+ Kh8 43. Ne6 Qe4 44. Qd5 Qxa4 45. Rd4 Qa1+ 46. Kh2
-Ng6 47. Qf5 Kh7 48. h4 Qe1 49. Re4 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 d6 10. a3 Na5 11. Ba2 c5 12. Nbd2 Nc6 13. Nf1 Bc8 14. c3 Be6
+15. Bxe6 fxe6 16. b4 Qd7 17. Ng3 a5 18. bxc5 dxc5 19. Qb3 Rfb8 20. a4 b4
+21. Be3 c4 22. Qxc4 bxc3 23. Red1 Bb4 24. Rac1 Rc8 25. Qa2 Qd6 26. Ne2 Nd8
+27. d4 Nxe4 28. dxe5 Qa6 29. Nf4 Rc4 30. Nd4 Rac8 31. Nb5 Nf7 32. Qc2 Bc5
+33. Nd4 Bxd4 34. Rxd4 Qc6 35. Nxe6 Nxe5 36. Rcd1 Nd2 37. Ng5 Qg6 38. Rxc4
+Ndxc4 39. Qxc3 h6 40. Bf4 Qf5 41. Bxe5 Nxe5 42. Qb3+ Kh8 43. Ne6 Qe4 44.
+Qd5 Qxa4 45. Rd4 Qa1+ 46. Kh2 Ng6 47. Qf5 Kh7 48. h4 Qe1 49. Re4 1-0
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -425,77 +270,24 @@ Ng6 47. Qf5 Kh7 48. h4 Qe1 49. Re4 1-0
 [White "Onischuk, Alexander"]
 [Black "Carlsen, Magnus"]
 [Result "1/2-1/2"]
-[ECO "D19"]
 [WhiteElo "2670"]
 [BlackElo "2775"]
-[PlyCount "77"]
+[ECO "D19"]
 [EventDate "2008.07.19"]
+[PlyCount "77"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-{Live commentary by IM Miodrag Perunovic and Goran Urosevic (taken from www.
-chessdom.com)} 1. d4 {Good day everyone, welcome to the Chessdom live coverage
-of Biel International. Last year these two players have tied the first place
-with 5.5/ 9 and after 2-2 in the tiebreaks, Carlsen won the Armageddon game to
-claim the trophy. Onischuk, who has just been selected to represent USA at the
-Chess Olympiad, is very solid player and makes use of all tactical chances.
-Enjoy the game.} d5 2. c4 c6 $5 {Possibly a small surprise as Carlsen mostly
-used Slav defence in fast time controls. The only regular tournament game that
-I can recall at the moment is against Alexander Grischuk at the Baku Grand
-Prix.} 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 {Grischuk used the sharper 6.Ne5}
-e6 7. Bxc4 Bb4 8. O-O Nbd7 {Equally popular alternative is 8... O-O and then
-the following line has been thoroughly researched 9.Qe2 Nbd7 10.e4 Bg6 11.Bd3
-Bh5 12.e5 Nd5} 9. Qe2 Bg4 $5 {
-9...0-0 or 9...Bg6 would probably transpose to the above-mentioned line.} 10.
-h3 {Kramnik and Topalov have tested 10.Rd1 Qa5 11.e4} Bxf3 {Now 10... Bh5
-takes away desired square from Black Queen (Qa5-h5) and White can prepare e4.
-11.Rd1 O-O 12.e4} 11. Qxf3 O-O 12. Rd1 {Now that Nf3 is gone, it is generally
-a good idea to overprotect d4 because Black is planning c5 or e5. ( On
-immediate 12.e4 Black can just grab this pawn 12... Nb6 13.Bb3 Qxd4)} e5 $5 {
-More direct than preparatory 12...Rb8 or 12...Qa5. The only way for White to
-fight for the advantage is 13. d5 Bxc3!? 14. dxc6!? e4...} 13. d5 Bxc3 14. dxc6
-e4 15. Qe2 Be5 {On cxd7 Black will move his Queen and play Rd8. White still
-has some delay in completing the development and e4 pawn gives more space to
-Black on the kingside. (15... bxc6 16.bxc3 might be nasty for Black after
-White Bishops get to use open diagonals.)} 16. cxd7 Qe7 17. Ra2 $5 {Interesting
-solution, after b2-b3, Rook will transfer to d2 and fight for the d-file.
-Black will play Rd8-d7.} Rfd8 18. b3 Rxd7 19. Rxd7 Qxd7 {Better take with the
-Queen without allowing Ba3 or Qg4. Black's only weak spot is f7, and as long
-as White pieces are held on proper distance, Black is equal.} 20. Rd2 Qe7 21.
-Rd1 h6 22. Qa2 $5 {With idea to play Ba3, and after later b3-b4, White has a
-prepared battery against f7.} Rd8 {But after Rd1 was left unprotected, this
-simple move solves all problems. Black Queen on the 7th rank will protect f7
-forever.} 23. Rxd8+ Qxd8 24. Qd2 $5 {A draw offer?} Qe7 {Magnus says not yet..}
-25. Qa5 $5 {Onischuk wants to force Black to move one of the queenside pawns
-thus creating a possible weakness. But Black can ignore it for a second and
-counterattack with 25...Qd6!?} b6 26. Qd2 a5 $5 {Preparing an outpost on c5.
-Again, Carlsen is playing very fast. He has 80 minutes left on his clock.} 27.
-Bb2 Bxb2 28. Qxb2 {It is still too early to move the Knight, because of
-sensible pawns on e4 and f7, but Qd6 looks perfectly fine.} Kf8 $5 29. Qd4 Qc7
-{Now that Black didn't play Qd6, White got a chance to centralize his Queen.
-28...Qd6 29. Qd4 Qxd4 30. exd4 would have been slightly better endgame for
-Black.} 30. Kf1 Ke7 {Preparing 31...Qc5, 32. Qxc5 dxc5 with Nf6-e8-d6. But not
-31...Qd6 because it loses f7 pawn...} 31. Ke2 g5 $1 {The move is not that
-strong as it shows Carlsen's intention to fight for a win. White's pawns
-structure is still very solid and it's hard to find targets for attack. Black
-Queen is tied for dark squares because it has to prevent Qe5+.} 32. g3 Qc5 {
-It looks like White will have to trade the Queens, otherwise Qf5 is nasty.} 33.
-Qxc5+ bxc5 34. f4 $5 {Good idea to provoke Black into trading his e4 pawn.
-Isolated e3 would not be of great significance after White King gets some
-extra squares to operate on. Of course, Black is not forced to take. Perhaps
-34. f3 was more to the point?} Ne8 $5 35. g4 Nd6 36. Bd5 Kf6 {36... f5!? was
-tempting, but Carlsen probably wants to maneuver for few moves longer before
-committing to drastic structural changes.} 37. Kf2 Kg6 38. Kg3 f6 {This now rem
-inded me of endgame from Saidy-Fischer when Black pretended to be "lazy" and
-moved his pawns one square at a time. Of course, Onischuk's position is much
-better then in mentioned game, besides he has good opportunity to push f4-f5
-here.} 39. Be6 {Accompanied with draw offer, which Carlsen accepted. It would
-be very hard to make progress without taking excessive risks. Thank you
-everyone for following Chessdom live coverage of Biel International, see you
-again on Friday, 14:00 CET, for the 5th round.} 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8.
+O-O Nbd7 9. Qe2 Bg4 10. h3 Bxf3 11. Qxf3 O-O 12. Rd1 e5 13. d5 Bxc3 14.
+dxc6 e4 15. Qe2 Be5 16. cxd7 Qe7 17. Ra2 Rfd8 18. b3 Rxd7 19. Rxd7 Qxd7 20.
+Rd2 Qe7 21. Rd1 h6 22. Qa2 Rd8 23. Rxd8+ Qxd8 24. Qd2 Qe7 25. Qa5 b6 26.
+Qd2 a5 27. Bb2 Bxb2 28. Qxb2 Kf8 29. Qd4 Qc7 30. Kf1 Ke7 31. Ke2 g5 32. g3
+Qc5 33. Qxc5+ bxc5 34. f4 Ne8 35. g4 Nd6 36. Bd5 Kf6 37. Kf2 Kg6 38. Kg3 f6
+39. Be6 1/2-1/2
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -504,11 +296,11 @@ again on Friday, 14:00 CET, for the 5th round.} 1/2-1/2
 [White "Pelletier, Yannick"]
 [Black "Alekseev, Evgeny"]
 [Result "0-1"]
-[ECO "D38"]
 [WhiteElo "2569"]
 [BlackElo "2708"]
-[PlyCount "70"]
+[ECO "D38"]
 [EventDate "2008.07.19"]
+[PlyCount "70"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
@@ -516,11 +308,11 @@ again on Friday, 14:00 CET, for the 5th round.} 1/2-1/2
 [SourceDate "2008.07.17"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qb3 c5 8.
-cxd5 exd5 9. a3 Bxc3+ 10. Qxc3 b6 11. e3 O-O 12. Be2 Nd7 13. O-O Bb7 14. Rfc1
-c4 15. a4 a6 16. Qb4 Bc6 17. Nd2 b5 18. axb5 axb5 19. b3 Qg6 20. Bf3 Rfb8 21.
-h3 Rxa1 22. Rxa1 Qc2 23. Nb1 Qc1+ 24. Kh2 Qb2 25. Qc3 Qxf2 26. bxc4 bxc4 27.
-Nd2 Rc8 28. Ra5 Nf6 29. Rc5 Bd7 30. Rxc8+ Bxc8 31. Nb3 Bf5 32. Nc5 g5 33. Qa3
-Kg7 34. Nb7 g4 35. hxg4 Bxg4 0-1
+cxd5 exd5 9. a3 Bxc3+ 10. Qxc3 b6 11. e3 O-O 12. Be2 Nd7 13. O-O Bb7 14.
+Rfc1 c4 15. a4 a6 16. Qb4 Bc6 17. Nd2 b5 18. axb5 axb5 19. b3 Qg6 20. Bf3
+Rfb8 21. h3 Rxa1 22. Rxa1 Qc2 23. Nb1 Qc1+ 24. Kh2 Qb2 25. Qc3 Qxf2 26.
+bxc4 bxc4 27. Nd2 Rc8 28. Ra5 Nf6 29. Rc5 Bd7 30. Rxc8+ Bxc8 31. Nb3 Bf5
+32. Nc5 g5 33. Qa3 Kg7 34. Nb7 g4 35. hxg4 Bxg4 0-1
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -529,23 +321,23 @@ Kg7 34. Nb7 g4 35. hxg4 Bxg4 0-1
 [White "Alekseev, Evgeny"]
 [Black "Onischuk, Alexander"]
 [Result "1/2-1/2"]
-[ECO "C54"]
 [WhiteElo "2708"]
 [BlackElo "2670"]
-[PlyCount "68"]
+[ECO "C54"]
 [EventDate "2008.07.19"]
+[PlyCount "68"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 a6 6. Bb3 d6 7. O-O O-O 8. Be3
-Bxe3 9. fxe3 d5 10. exd5 Nxd5 11. Qe2 Be6 12. Nbd2 Qe7 13. d4 exd4 14. exd4 Nf4
-15. Qe4 Bxb3 16. Qxf4 Bd5 17. Nh4 Be6 18. Rae1 Qd6 19. Qxd6 cxd6 20. Nf5 Rad8
-21. Ne3 d5 22. Nb3 b6 23. Nc1 Rfe8 24. Nd3 f6 25. Nf4 Bf7 26. Nf5 Kf8 27. g4
-Ne7 28. Nxe7 Rxe7 29. Kf2 Rde8 30. Rxe7 Rxe7 31. h4 Re4 32. Kg3 Re3+ 33. Kf2
-Re4 34. Kg3 Re3+ 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. c3 a6 6. Bb3 d6 7. O-O O-O 8.
+Be3 Bxe3 9. fxe3 d5 10. exd5 Nxd5 11. Qe2 Be6 12. Nbd2 Qe7 13. d4 exd4 14.
+exd4 Nf4 15. Qe4 Bxb3 16. Qxf4 Bd5 17. Nh4 Be6 18. Rae1 Qd6 19. Qxd6 cxd6
+20. Nf5 Rad8 21. Ne3 d5 22. Nb3 b6 23. Nc1 Rfe8 24. Nd3 f6 25. Nf4 Bf7 26.
+Nf5 Kf8 27. g4 Ne7 28. Nxe7 Rxe7 29. Kf2 Rde8 30. Rxe7 Rxe7 31. h4 Re4 32.
+Kg3 Re3+ 33. Kf2 Re4 34. Kg3 Re3+ 1/2-1/2
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -554,23 +346,23 @@ Re4 34. Kg3 Re3+ 1/2-1/2
 [White "Bacrot, Etienne"]
 [Black "Pelletier, Yannick"]
 [Result "1-0"]
-[ECO "C41"]
 [WhiteElo "2691"]
 [BlackElo "2569"]
-[PlyCount "67"]
+[ECO "C41"]
 [EventDate "2008.07.19"]
+[PlyCount "67"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O c6 7. a4 O-O 8. Re1
-a5 9. h3 Nb6 10. Ba2 Nfd7 11. Be3 exd4 12. Bxd4 Nc5 13. Bxc5 dxc5 14. Qe2 Qd6
-15. Rad1 Qh6 16. Nd2 Be6 17. Bxe6 Qxe6 18. f4 f5 19. exf5 Qxe2 20. Rxe2 Bf6 21.
-Nde4 Bd4+ 22. Kh2 Rxf5 23. g3 Rff8 24. b3 Bxc3 25. Nxc3 c4 26. Re7 Rab8 27.
-bxc4 Rfd8 28. Rxb7 Nxc4 29. Ne4 h6 30. f5 Ne3 31. Rxd8+ Rxd8 32. g4 Nxc2 33.
-Ra7 Re8 34. Ng3 1-0
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O c6 7. a4 O-O 8.
+Re1 a5 9. h3 Nb6 10. Ba2 Nfd7 11. Be3 exd4 12. Bxd4 Nc5 13. Bxc5 dxc5 14.
+Qe2 Qd6 15. Rad1 Qh6 16. Nd2 Be6 17. Bxe6 Qxe6 18. f4 f5 19. exf5 Qxe2 20.
+Rxe2 Bf6 21. Nde4 Bd4+ 22. Kh2 Rxf5 23. g3 Rff8 24. b3 Bxc3 25. Nxc3 c4 26.
+Re7 Rab8 27. bxc4 Rfd8 28. Rxb7 Nxc4 29. Ne4 h6 30. f5 Ne3 31. Rxd8+ Rxd8
+32. g4 Nxc2 33. Ra7 Re8 34. Ng3 1-0
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -579,563 +371,277 @@ Ra7 Re8 34. Ng3 1-0
 [White "Carlsen, Magnus"]
 [Black "Dominguez Perez, Lenier"]
 [Result "1/2-1/2"]
-[ECO "B81"]
 [WhiteElo "2775"]
 [BlackElo "2708"]
-[PlyCount "48"]
+[ECO "B81"]
 [EventDate "2008.07.19"]
+[PlyCount "48"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-{Live commentary by IM Miodrag Perunovic and Goran Urosevic (taken from www.
-chessdom.com)} 1. e4 {Good day everyone, welcome to the Chessdom live coverage
-of Biel Festival. The best Cuban player Leinier Dominguez joined the 2700 club
-at the July FIDE list. He is great expert for Naidorf Sicilian and even Peter
-Leko hired him as second for the 2007 World Championship in Mexico. However,
-he also plays Petroff defence sometimes and he might use it to counter
-Carlsen's usual aggression. On 1.d4 he is mostly using Slav defence. Enjoy the
-game.} c5 {Sicilian after all! Carlsen already beat Dominguez in Naidorf at
-the 2007 World Cup. The mini-match was better remembered by the Ruy Lopez
-Chigorin-Marshall hybrid which Carlsen used in the other game (ended in draw).}
-2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 $1 {Even Bobby Fischer used
-this move in the unforgettable game against Miguel Naidorf at the 1962 Varna
-Olympiad. Those who don't want to castle short are even playing 6. Rg1!?} e6 7.
-g4 b5 8. Bg2 {
-The idea behind h3 was to setup a more aggressive fianchetto variation.} Bb7 9.
-O-O Nc6 {Nakamura-Ninov and Karjakin-Van Wely saw White winning after 9... b4
-10.Nd5! The position is full of danger, but if Black is careful, he should be
-able to quickly equalize.} 10. Nxc6 Bxc6 11. Re1 $1 {
-Again, Nd5 comes in if Black pushes b4.} Nd7 {But Dominguez is experienced
-player and parries the tactics. 12. Nd5 is not that dangerous anymore because
-Black will simply go back with Bb7 and threaten exd5, when there is no Nd4 to
-jump on c6 or f5. Perhaps Carlsen could now transfer his Knight to d4 or play
-a4.} 12. Nd5 $5 {Still, Carlsen plays it! Psychologically, this kind of moves
-can be hard to meet. Your calculation shows there is nothing concrete, but
-panic might sneak on the back door.} Bb7 13. Qd4 {The Queen is dominating the
-center and prevents 13...exd5 because 14. exd5 Ne5 is met by f4 and 14. exd5
-Be7 with 15. Qxg7. Maybe a "neutral" 13...Rc8 could be played? Then White has
-to take care of c2 pawn.} Ne5 $5 {The idea is to chase White Queen away.} (
-13... Rc8 $5 14. Qa7 (14. a4 $5 bxa4 (14... Rxc2 15. axb5 axb5 16. Nc3 $1))
-14... Rb8) 14. f4 Nc6 15. Qf2 {15. Qb6 wo uld have saved the Knight, but
-Carlsen wants to avoid the Queens' exchange for the time of being. Taking the
-Knight on d5 might be dangerous, 15...exd5 16. exd5+ Ne7 17. f5!? with
-possible Be3-b6 and Black has problems with coordination and development.} exd5
-$5 {Dominguez knows which positions in Naidorf can be successfully defended.
-It was already hard to untie the pieces and Black decided to take the risk.}
-16. exd5+ Ne7 17. a4 $5 {Maintaining the pressure on both fronts, axb5 might
-be convenient in some positions. f4-f5 should come in sometime soon.} Kd7 $5 {
-A very brave King walk!! Black is not threatening to take on d5 as of yet,
-because of nasty pins over the diagonal and axb5, he simply wants to find a
-safer place for his King and untie the Knight. However, queenside can still
-come under the attack of White's heavy artillery. This now becomes very
-interesting.} 18. Be3 Bxd5 $5 {
-Now that Bishop is on e3, Black can grab the pawn.} ({
-The other capture was also interesting, with sample line} 18... Nxd5 19. axb5
-axb5 20. Qe2 Bc6 21. Bxd5 Bxd5 22. Qxb5+ Bc6 23. Qf5+ Kc7 24. Rxa8 Qxa8 25.
-Qxf7+) 19. Bb6 Qb8 $1 {It is important to keep an eye on Bb6. Carlsen will
-probably continue 20. Rxe7+ Bxe7 21. Bxd5 where White still maintains strong
-pressure.} 20. Rxe7+ Bxe7 21. Bxd5 Bh4 {Now it becomes obvious why Qb8 was
-stronger than Qc8, 22. Qxh4 Qxb6+ is better for Black.} 22. Qd4 Bf6 23. Qf2 Bh4
-24. Qd4 Bf6 {The problem is that Qe3 allows Re8 and even Re2 when Black might
-take over the initiative. White is forced to agree on moves repetition. The
-game was short but full of interesting variations. Thank you everyone for
-following Chessdom live coverage, see you again on Saturday, 14:00 CET.}
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 b5 8.
+Bg2 Bb7 9. O-O Nc6 10. Nxc6 Bxc6 11. Re1 Nd7 12. Nd5 Bb7 13. Qd4 Ne5 14. f4
+Nc6 15. Qf2 exd5 16. exd5+ Ne7 17. a4 Kd7 18. Be3 Bxd5 19. Bb6 Qb8 20.
+Rxe7+ Bxe7 21. Bxd5 Bh4 22. Qd4 Bf6 23. Qf2 Bh4 24. Qd4 Bf6 1/2-1/2
+
+[Event "41st Biel Chess Festival"]
+[Site "Biel, Switzerland"]
+[Date "2008.07.26"]
+[Round "6"]
+[White "Bacrot, Etienne"]
+[Black "Alekseev, Evgeny"]
+[Result "1-0"]
+[WhiteElo "2691"]
+[BlackElo "2708"]
+[ECO "E15"]
+[EventDate "2008.07.19"]
+[PlyCount "85"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "SUI"]
+[EventCategory "18"]
+[SourceDate "2008.07.17"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Nf3 d5 6. Qc2 O-O 7. Bg2 c6 8.
+O-O Nbd7 9. Rd1 b6 10. b3 Ba6 11. Bf4 Rc8 12. Nc3 Nh5 13. Bc1 Nhf6 14. Bb2
+Qc7 15. Rac1 dxc4 16. bxc4 Bxc4 17. Ne5 Nxe5 18. dxe5 Nd5 19. Ne4 b5 20.
+Nd6 Bxd6 21. exd6 Qd7 22. a4 f6 23. Ba3 Nb6 24. a5 Na4 25. Rd4 Bd5 26. Bc5
+Bxg2 27. Kxg2 e5 28. Rd2 Rfd8 29. Qb3+ Qf7 30. Qe3 Rd7 31. a6 h6 32. f3 Qe6
+33. Bxa7 Ra8 34. Rxc6 Raxa7 35. Qd3 b4 36. Rc8+ Kf7 37. Qh7 f5 38. Qg8+ Kf6
+39. Rf8+ Rf7 40. Rxf7+ Rxf7 41. Qd8+ Kg6 42. d7 Nc5 43. Qe8 1-0
+
+[Event "41st Biel Chess Festival"]
+[Site "Biel, Switzerland"]
+[Date "2008.07.26"]
+[Round "6"]
+[White "Onischuk, Alexander"]
+[Black "Dominguez Perez, Lenier"]
+[Result "0-1"]
+[WhiteElo "2670"]
+[BlackElo "2708"]
+[ECO "D97"]
+[EventDate "2008.07.19"]
+[PlyCount "182"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "SUI"]
+[EventCategory "18"]
+[SourceDate "2008.07.17"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8.
+Be2 b5 9. Qb3 c5 10. dxc5 Bb7 11. e5 Nfd7 12. Be3 e6 13. Rd1 Qc7 14. O-O
+Nxc5 15. Qa3 Ncd7 16. Qe7 Rc8 17. Ng5 Nf8 18. Qxc7 Rxc7 19. f4 h6 20. Nf3
+Nc6 21. Nd4 g5 22. Nxc6 Bxc6 23. fxg5 hxg5 24. Bxg5 Bxe5 25. Bf3 Rac8 26.
+Bxc6 Rxc6 27. Bf6 Bxf6 28. Rxf6 Rc4 29. a3 Kg7 30. Rf2 f5 31. Rd6 R8c6 32.
+Rxc6 Rxc6 33. g4 fxg4 34. Rg2 Ng6 35. Rxg4 Kf6 36. Kf2 Ne5 37. Rf4+ Kg6 38.
+Ke2 Nc4 39. Ne4 Nxb2 40. h4 Nc4 41. Rf6+ Kh5 42. Ng5 Nxa3 43. Nxe6 Rc2+ 44.
+Kd3 b4 45. Rf5+ Kg6 46. Rc5 Rf2 47. Nd4 b3 48. Nxb3 Rf3+ 49. Ke4 Rxb3 50.
+Rc6+ Kh5 51. Rxa6 Nc4 52. Ra8 Nd2+ 53. Kd4 Kxh4 54. Rg8 Nf3+ 55. Kc4 Rb1
+56. Kd5 Ng5 57. Ke5 Kg4 58. Kd4 Rd1+ 59. Ke5 Re1+ 60. Kd5 Re7 61. Kd4 Kf5
+62. Rf8+ Nf7 63. Ra8 Kf4 64. Rf8 Rd7+ 65. Kc5 Ke4 66. Ra8 Rc7+ 67. Kb4 Kd4
+68. Kb3 Ne5 69. Rd8+ Nd7 70. Kb2 Kd3 71. Rh8 Rb7+ 72. Kc1 Nc5 73. Rh3+ Kd4
+74. Kc2 Rc7 75. Rh4+ Ne4+ 76. Kb3 Rc8 77. Kb2 Rg8 78. Kb3 Rg2 79. Kb4 Rb2+
+80. Ka3 Rb8 81. Ka4 Kd5 82. Ka3 Nc5 83. Ka2 Ne6 84. Ka3 Nd4 85. Rh7 Rb6 86.
+Ka2 Kc4 87. Rc7+ Kd3 88. Rd7 Kc2 89. Ka3 Nc6 90. Ka4 Rb4+ 91. Ka3 Rb5 0-1
+
+[Event "41st Biel Chess Festival"]
+[Site "Biel, Switzerland"]
+[Date "2008.07.26"]
+[Round "6"]
+[White "Pelletier, Yannick"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[WhiteElo "2569"]
+[BlackElo "2775"]
+[ECO "E15"]
+[EventDate "2008.07.19"]
+[PlyCount "80"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "SUI"]
+[EventCategory "18"]
+[SourceDate "2008.07.17"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 d5 8.
+cxd5 exd5 9. Nc3 O-O 10. O-O Bb7 11. Rc1 Nbd7 12. Bf4 c6 13. Qc2 Re8 14.
+Rcd1 Bb4 15. Bd2 Rc8 16. Qb2 Qe7 17. Rfe1 Qf8 18. Bh3 Rcd8 19. Qc2 h6 20.
+Nh4 c5 21. Nf5 a6 22. Qb2 Bxc3 23. Bxc3 Ne4 24. dxc5 Nxc3 25. Qxc3 bxc5 26.
+Qa5 Nf6 27. Qb6 Bc8 28. Kg2 Ne4 29. f3 Ng5 30. g4 h5 31. Rc1 g6 32. Ng3
+Nxh3 33. Kxh3 hxg4+ 34. fxg4 Qh6+ 35. Kg2 Bxg4 36. Qxc5 Re3 37. Qd4 Qh3+
+38. Kg1 Rxg3+ 39. hxg3 Qxg3+ 40. Kh1 Bf5 0-1
+
+[Event "41st Biel Chess Festival"]
+[Site "Biel, Switzerland"]
+[Date "2008.07.28"]
+[Round "7"]
+[White "Carlsen, Magnus"]
+[Black "Alekseev, Evgeny"]
+[Result "0-1"]
+[WhiteElo "2775"]
+[BlackElo "2708"]
+[ECO "C48"]
+[EventDate "2008.07.19"]
+[PlyCount "167"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "SUI"]
+[EventCategory "18"]
+[SourceDate "2008.07.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nc3 O-O 6. Bxc6 dxc6 7. Nxe5
+Qd4 8. Be3 Qxe5 9. d4 Qe7 10. dxc5 Nxe4 11. Qd4 Bf5 12. O-O-O Rad8 13. Qb4
+Qe6 14. Kb1 b5 15. b3 Qe5 16. Nxe4 Bxe4 17. Bd4 Qf5 18. Qc3 f6 19. f3 Bd5
+20. Rhe1 Rd7 21. Bf2 Rfd8 22. Rd4 h5 23. h3 Bf7 24. g4 hxg4 25. hxg4 Qg5
+26. Kb2 Rxd4 27. Bxd4 Qd5 28. Rd1 b4 29. Qxb4 Qxf3 30. Rd2 Qxg4 31. Bc3 Qc8
+32. Rg2 Bd5 33. Rg1 Qf5 34. Qb7 Kf7 35. Qxc7+ Rd7 36. Qc8 Be4 37. Qh8 Qh7
+38. Qc8 Qf5 39. Rf1 Qe6 40. Qh8 Re7 41. Rd1 Re8 42. Qh2 Bf5 43. Rd2 Re7 44.
+Qb8 Rd7 45. Rf2 Bg6 46. Rh2 Qe8 47. Qg3 Qe4 48. Rg2 Re7 49. Rd2 Rb7 50. Qh2
+Re7 51. Qb8 Bf5 52. a4 Bg6 53. a5 Bf5 54. a6 Bg6 55. Qg3 Bf5 56. Rg2 Bg6
+57. Rh2 Bf5 58. Qb8 Bg6 59. Ka3 Bh7 60. Rd2 Bf5 61. Qh8 Qe3 62. Kb2 Qe4 63.
+Rf2 Qg4 64. Qh2 Bg6 65. Qd6 Qe6 66. Qxe6+ Kxe6 67. Ba5 Be4 68. c4 g5 69.
+Bd2 Rg7 70. Re2 f5 71. b4 g4 72. b5 cxb5 73. cxb5 g3 74. Re1 Kd5 75. Be3
+Bd3 76. Rd1 Ke4 77. Rxd3 Kxd3 78. Bg1 f4 79. b6 f3 80. b7 Rg8 81. c6 f2 82.
+c7 fxg1=Q 83. c8=Q Qd4+ 84. Ka2 0-1
+
+[Event "41st Biel Chess Festival"]
+[Site "Biel, Switzerland"]
+[Date "2008.07.28"]
+[Round "7"]
+[White "Dominguez Perez, Lenier"]
+[Black "Pelletier, Yannick"]
+[Result "1-0"]
+[WhiteElo "2708"]
+[BlackElo "2569"]
+[ECO "C88"]
+[EventDate "2008.07.19"]
+[PlyCount "111"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "SUI"]
+[EventCategory "18"]
+[SourceDate "2008.07.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+a4 b4 9. d3 d6 10. Nbd2 Na5 11. Ba2 Rb8 12. c3 bxc3 13. bxc3 c5 14. d4 cxd4
+15. cxd4 Nc6 16. Ba3 Nxd4 17. Nxd4 exd4 18. Nf3 Bb7 19. Qd3 d5 20. Bxe7
+Qxe7 21. exd5 Qd8 22. Rab1 Bxd5 23. Rxb8 Qxb8 24. Bxd5 Nxd5 25. Qxd4 Nf6
+26. h3 Qc7 27. Rb1 Rd8 28. Rb7 Qc8 29. Qb6 h6 30. Rc7 Qf5 31. Rc1 Rc8 32.
+Re1 Qd3 33. Qb7 Rf8 34. a5 Nd5 35. Qd7 Nf4 36. Qxd3 Nxd3 37. Rd1 Nc5 38.
+Rd6 Ra8 39. Rb6 Rc8 40. Ne5 Re8 41. f4 Re6 42. Rb8+ Kh7 43. Nxf7 Rf6 44.
+Rh8+ Kg6 45. Ne5+ Kf5 46. Rc8 Nb3 47. Rc4 g5 48. g4+ Ke6 49. Rc6+ Ke7 50.
+Ng6+ Kf7 51. Rc7+ Ke6 52. f5+ Kd5 53. Ne7+ Ke4 54. Ng8 Rf8 55. Nxh6 Nd4 56.
+Nf7 1-0
+
+[Event "41st Biel Chess Festival"]
+[Site "Biel, Switzerland"]
+[Date "2008.07.28"]
+[Round "7"]
+[White "Onischuk, Alexander"]
+[Black "Bacrot, Etienne"]
+[Result "0-1"]
+[WhiteElo "2670"]
+[BlackElo "2691"]
+[ECO "A70"]
+[EventDate "2008.07.19"]
+[PlyCount "110"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "SUI"]
+[EventCategory "18"]
+[SourceDate "2008.07.17"]
+
+1. d4 e6 2. c4 c5 3. d5 exd5 4. cxd5 d6 5. e4 g6 6. Nc3 Bg7 7. Bd3 a6 8. h3
+b5 9. Nf3 Nf6 10. O-O O-O 11. Re1 Re8 12. a3 Ra7 13. Bf4 Rae7 14. Rc1 Qb6
+15. b4 Nbd7 16. Qd2 Bb7 17. Be3 Qd8 18. Bf4 Qb6 19. Bg5 Rc8 20. Be3 Qd8 21.
+Bf4 Nb6 22. bxc5 Rxc5 23. Bxd6 Qxd6 24. e5 Qd8 25. exf6 Rxe1+ 26. Rxe1 Bxf6
+27. Ne4 Rc8 28. Nxf6+ Qxf6 29. Be4 Re8 30. Qd3 Nc4 31. Nd2 Bxd5 32. Qxd5
+Rd8 33. Nxc4 Rxd5 34. Bxd5 bxc4 35. Bxc4 Qc3 36. Re4 Qxa3 37. g3 Kf8 38.
+Rf4 f5 39. Kg2 Qd6 40. h4 Ke7 41. Bb3 a5 42. Kg1 Qd3 43. Ba4 h6 44. Bc6 Kd6
+45. Be8 g5 46. hxg5 hxg5 47. Ra4 Qd1+ 48. Kg2 Qd5+ 49. Kh2 Ke7 50. Bh5 Qb5
+51. Ra2 g4 52. Bg6 a4 53. Bh7 Kf8 54. Rc2 Qd7 55. Bg6 Kg7 0-1
+
+[Event "41st Biel Chess Festival"]
+[Site "Biel, Switzerland"]
+[Date "2008.07.29"]
+[Round "8"]
+[White "Alekseev, Evgeny"]
+[Black "Dominguez Perez, Lenier"]
+[Result "0-1"]
+[WhiteElo "2708"]
+[BlackElo "2708"]
+[ECO "B91"]
+[EventDate "2008.07.19"]
+[PlyCount "90"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "SUI"]
+[EventCategory "18"]
+[SourceDate "2008.07.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8.
+Bg2 b5 9. h3 Nbd7 10. g4 b4 11. Nd5 Nxd5 12. exd5 a5 13. O-O h5 14. gxh5
+Rxh5 15. Nd4 Nf6 16. Nc6 Qc7 17. Qf3 Bf5 18. Re1 Qd7 19. a3 b3 20. cxb3
+Bxh3 21. Bd2 Bxg2 22. Kxg2 Rf5 23. Qd3 Nh5 24. Rh1 g6 25. b4 Bg5 26. b5
+Bxd2 27. Qxd2 Rf4 28. Rh3 Kf8 29. Rah1 Qg4+ 30. Kf1 Ng3+ 31. Rxg3 Qxg3 32.
+b6 Qf3 33. Rh2 Kg8 34. b7 Re8 35. b4 axb4 36. axb4 Qg3 37. Rh1 Qf3 38. Rh2
+Qg3 39. Rh1 Qb3 40. b8=Q Rxb8 41. Nxb8 Rxb4 42. Nd7 Qc4+ 43. Kg2 Qg4+ 44.
+Kh2 Qh5+ 45. Kg2 Rg4+ 0-1
+
+[Event "41st Biel Chess Festival"]
+[Site "Biel, Switzerland"]
+[Date "2008.07.29"]
+[Round "8"]
+[White "Bacrot, Etienne"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2691"]
+[BlackElo "2775"]
+[ECO "E20"]
+[EventDate "2008.07.19"]
+[PlyCount "62"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "SUI"]
+[EventCategory "18"]
+[SourceDate "2008.07.17"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8.
+cxd5 Nxd5 9. Qb3 Qa5 10. Bd2 Nc6 11. Nxc6 bxc6 12. O-O Bxc3 13. bxc3 Ba6
+14. Rfd1 Qc5 15. e4 Bc4 16. Qa4 Nb6 17. Qb4 Qh5 18. Bf4 c5 19. Qb2 Rad8 20.
+Rxd8 Rxd8 21. f3 f5 22. exf5 Qxf5 23. Re1 Qd5 24. Qa3 Qc6 25. Qxa7 Ra8 26.
+Qe7 Nd5 27. Qd6 Qxd6 28. Bxd6 Nxc3 29. Bxc5 Rxa2 30. Bf1 Bxf1 31. Kxf1 Kf7
 1/2-1/2
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
-[Date "2008.07.26"]
-[Round "6"]
-[White "Bacrot, Etienne"]
-[Black "Alekseev, Evgeny"]
-[Result "1-0"]
-[ECO "E15"]
-[WhiteElo "2691"]
-[BlackElo "2708"]
-[PlyCount "85"]
-[EventDate "2008.07.19"]
-[EventType "tourn"]
-[EventRounds "10"]
-[EventCountry "SUI"]
-[EventCategory "18"]
-[SourceDate "2008.07.17"]
-
-1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Nf3 d5 6. Qc2 O-O 7. Bg2 c6 8. O-O
-Nbd7 9. Rd1 b6 10. b3 Ba6 11. Bf4 Rc8 12. Nc3 Nh5 13. Bc1 Nhf6 14. Bb2 Qc7 15.
-Rac1 dxc4 16. bxc4 Bxc4 17. Ne5 Nxe5 18. dxe5 Nd5 19. Ne4 b5 20. Nd6 Bxd6 21.
-exd6 Qd7 22. a4 f6 23. Ba3 Nb6 24. a5 Na4 25. Rd4 Bd5 26. Bc5 Bxg2 27. Kxg2 e5
-28. Rd2 Rfd8 29. Qb3+ Qf7 30. Qe3 Rd7 31. a6 h6 32. f3 Qe6 33. Bxa7 Ra8 34.
-Rxc6 Raxa7 35. Qd3 b4 36. Rc8+ Kf7 37. Qh7 f5 38. Qg8+ Kf6 39. Rf8+ Rf7 40.
-Rxf7+ Rxf7 41. Qd8+ Kg6 42. d7 Nc5 43. Qe8 1-0
-
-[Event "41st Biel Chess Festival"]
-[Site "Biel, Switzerland"]
-[Date "2008.07.26"]
-[Round "6"]
-[White "Onischuk, Alexander"]
-[Black "Dominguez Perez, Lenier"]
-[Result "0-1"]
-[ECO "D97"]
-[WhiteElo "2670"]
-[BlackElo "2708"]
-[PlyCount "182"]
-[EventDate "2008.07.19"]
-[EventType "tourn"]
-[EventRounds "10"]
-[EventCountry "SUI"]
-[EventCategory "18"]
-[SourceDate "2008.07.17"]
-
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. Be2
-b5 9. Qb3 c5 10. dxc5 Bb7 11. e5 Nfd7 12. Be3 e6 13. Rd1 Qc7 14. O-O Nxc5 15.
-Qa3 Ncd7 16. Qe7 Rc8 17. Ng5 Nf8 18. Qxc7 Rxc7 19. f4 h6 20. Nf3 Nc6 21. Nd4 g5
-22. Nxc6 Bxc6 23. fxg5 hxg5 24. Bxg5 Bxe5 25. Bf3 Rac8 26. Bxc6 Rxc6 27. Bf6
-Bxf6 28. Rxf6 Rc4 29. a3 Kg7 30. Rf2 f5 31. Rd6 R8c6 32. Rxc6 Rxc6 33. g4 fxg4
-34. Rg2 Ng6 35. Rxg4 Kf6 36. Kf2 Ne5 37. Rf4+ Kg6 38. Ke2 Nc4 39. Ne4 Nxb2 40.
-h4 Nc4 41. Rf6+ Kh5 42. Ng5 Nxa3 43. Nxe6 Rc2+ 44. Kd3 b4 45. Rf5+ Kg6 46. Rc5
-Rf2 47. Nd4 b3 48. Nxb3 Rf3+ 49. Ke4 Rxb3 50. Rc6+ Kh5 51. Rxa6 Nc4 52. Ra8
-Nd2+ 53. Kd4 Kxh4 54. Rg8 Nf3+ 55. Kc4 Rb1 56. Kd5 Ng5 57. Ke5 Kg4 58. Kd4 Rd1+
-59. Ke5 Re1+ 60. Kd5 Re7 61. Kd4 Kf5 62. Rf8+ Nf7 63. Ra8 Kf4 64. Rf8 Rd7+ 65.
-Kc5 Ke4 66. Ra8 Rc7+ 67. Kb4 Kd4 68. Kb3 Ne5 69. Rd8+ Nd7 70. Kb2 Kd3 71. Rh8
-Rb7+ 72. Kc1 Nc5 73. Rh3+ Kd4 74. Kc2 Rc7 75. Rh4+ Ne4+ 76. Kb3 Rc8 77. Kb2 Rg8
-78. Kb3 Rg2 79. Kb4 Rb2+ 80. Ka3 Rb8 81. Ka4 Kd5 82. Ka3 Nc5 83. Ka2 Ne6 84.
-Ka3 Nd4 85. Rh7 Rb6 86. Ka2 Kc4 87. Rc7+ Kd3 88. Rd7 Kc2 89. Ka3 Nc6 90. Ka4
-Rb4+ 91. Ka3 Rb5 0-1
-
-[Event "41st Biel Chess Festival"]
-[Site "Biel, Switzerland"]
-[Date "2008.07.26"]
-[Round "6"]
-[White "Pelletier, Yannick"]
-[Black "Carlsen, Magnus"]
-[Result "0-1"]
-[ECO "E15"]
-[WhiteElo "2569"]
-[BlackElo "2775"]
-[PlyCount "80"]
-[EventDate "2008.07.19"]
-[EventType "tourn"]
-[EventRounds "10"]
-[EventCountry "SUI"]
-[EventCategory "18"]
-[SourceDate "2008.07.17"]
-
-{Live commentary by IM Miodrag Perunovic and Goran Urosevic (taken from www.
-chessdom.com)} 1. d4 {Good day everyone, welcome to the Chessdom live coverage
-of Biel International. Yannick Pelletier is currently last-placed with only 0.
-5 points after five games. He will probably try not to force too much and stay
-even. But Magnus Carlsen is playing very sharp and you can never know. Enjoy
-the game.} Nf6 {
-Carlsen played Slav defence in the 4th round game against Alex Onischuk.} 2.
-Nf3 $5 {I know some people play this to avoid Budapest gambit :)} e6 3. c4 b6 {
-Nevertheless, the players have reached the Queen's Indian defence. The opening
-is very popular and was deeply explored over the recent years.} 4. g3 Ba6 {
-The other main line 4... Bb7 has slower pace.} 5. b3 {5.Qc2!? with later pawn
-sacrifice on d5 was tested in the games of Aronian, Gelfand and Kramnik. Even
-Carlsen played it against Pelletier in the 1st round in Biel.} Bb4+ 6. Bd2 Be7
-7. Bg2 d5 $5 {The other Biel participant, Evgeny Alekseev, likes to play this
-way. The preparatory 7...c6 (with next d5) is much more popular, while some
-Georgian players go with immediate 7...Bb7.} 8. cxd5 {
-The most consistent reply. On other moves, like 8. Ne5, Black can play c6.}
-exd5 9. Nc3 O-O 10. O-O Bb7 {Now that White has traded his c4-pawn, the Bishop
-is not doing much on a6. Black is preparing c7-c5 and Bishop is needed on b7
-to increase control over square e4.} 11. Rc1 Nbd7 12. Bf4 {White is also
-improving his Bishop, by taking eye on c7-pawn and supporting future Nf3-e5.}
-c6 {Peter Leko played the same way against Loek Van Wely at the Dortmund
-Sparkassen few weeks ago. The immediate c5 is probably premature because White
-could press the weaknesses with Nb5.} 13. Qc2 $5 {13. Ne5 is also consistent
-with White's plans. Our friend Michael Roiz tested a slow but interesting plan
-of 13. Ne1!? with idea Nd3-Bg5-Bxf6-e3 where White has good control in the
-center, but somewhat rigid structure.} Re8 14. Rcd1 $5 {A curious setup for
-Rooks. Levon Aronian played it once as introduction for a piece sacrifice and
-he won that game against GM Huzman. Van Wely continued 14. Qb2 against Leko.
-The Queen there stops Ba3 and supports future activities on e5.} Bb4 {
-Huzman also played Bb4 but then went to chase White Bishop with Nh5. Aronian
-simply supported it with e3 and sacrificed a piece for strong attack.} 15. Bd2
-{
-Pelletier is trying to maintain status-quo without committing himself too soon.
-} (15. Ne5 {is not to be recommended} Nxe5 16. Bxe5 (16. dxe5 Ng4 {
-trouble with e5 pawn.}) 16... Nd7 {
-and if White moves the Bishop, Black will take on c3 and e2.}) 15... Rc8 16.
-Qb2 Qe7 $1 {Now White is feeling pressured on e2 and Van Wely's plan of
-advancing pawns on queenside is already ruled out.} 17. Rfe1 Qf8 $5 18. Bh3 {
-Good move, to slow Black's regrouping down. Best would be not to allow Ne5 and
-move the Rc8 immediately.} Rcd8 19. Qc2 $5 {Ok, he is definitely waiting :)} h6
-20. Nh4 {Trying to make use of the "weakening" h6 and place the Knight on f5.
-Kasparov said once that Knight safely nested on f5 is worth a pawn. Luckily
-for Carlsen, he can chase it anytime with g6, but at the cost of further
-weakening in the pawn structure. Now that White has abandoned center for a
-moment, Black could use this chance to strike with c5.} c5 $1 {
-20...Ne4!? was also worth of consideration, but c5 looks more to the point.}
-21. Nf5 a6 {Now that c-pawn has advanced, Carlsen wants to cover b5-square.
-His basic ideas are cxd4-Nc5 or immediate Ne4.} 22. Qb2 (22. a3 $5 {
-was an interesting attempt, where} Bxa3 23. Nb1 Bb4 24. Bxb4 cxb4 25. Qc7 Ne4 {
-gives excellent compensation to White. But Black is not forced to run into
-this line and has 22...Bxc3 with Ne4 instead.}) 22... Bxc3 $5 {Carlsen is ly
-changing the rhythm. This will probably transform the structure into hanging
-pawns.} 23. Bxc3 Ne4 24. dxc5 Nxc3 25. Qxc3 bxc5 26. Qa5 $5 {A neat way to
-block the queenside. White is also threatening Qc7. But since White Rook is
-not on its "natural" square - c1, Black has time for Nf6 and Ne4 (if needed).}
-Nf6 27. Qb6 {This only helps Black to make a pin on c8-h3 diagonal.} ({
-Probably better was to press on c5-pawn with} 27. Rc1 Ne4 28. Bg2) ({
-The tempting} 27. Nxh6+ $2 {is losing because} gxh6 28. Qb6 Qd6 29. Qxb7 Re7 {
-White Queen ends trapped.}) 27... Bc8 $1 28. Kg2 {A sad necessity.} (28. Nxh6+
-{fails to} gxh6 29. Bxc8 Rd6 $1) 28... Ne4 $1 {Preventing all kind of Nxh6
-tricks and threatening Ng5 or Nc3 or g6-Bxh3-Nxf2. Black is clearly better
-after White's premature Qb6.} 29. f3 Ng5 $1 {White has serious problems with
-his minor pieces, all consequence of allowing Black to play Bc8. Equally
-strong was 29... Nc3!} 30. g4 (30. Bg4 g6 31. Nh4 Bxg4 32. fxg4 {
-with catastrophic pawn weaknesses.}) 30... h5 $1 {Breaking the pawn wall
-around White King. Black heavy pieces will soon invade over 'e' and maybe even
-'h' file. Pelletier is down to one minute on the clock for the remaining 10
-moves, while Carlsen has almost one hour.} 31. Rc1 g6 32. Ng3 {The straightforw
-ard 32. ..Nxh3 33. Kxh3 hxg4+ 34. fxg4 Qh6+ looks like a way to go. On the
-other hand, the nasty 32...Ne6! might be even stronger!} Nxh3 33. Kxh3 hxg4+
-34. fxg4 Qh6+ 35. Kg2 Bxg4 {White is simply lost.} 36. Qxc5 $6 {
-Allowing Rc8 and Rxe2+!} Re3 {Carlsen takes a different course, pilling his
-pieces near the enemy King. The Rook will probably take on g3 at some point.} (
-36... Rc8 37. Qa3 Rxe2+ 38. Rxe2 $1 (38. Nxe2 Qh3+ 39. Kg1 Qe3+ 40. Kg2 Bh3+ {
-is checkmate soon.}) 38... Rxc1 {ThreateningQh3+}) 37. Qd4 Qh3+ 38. Kg1 Rxg3+
-39. hxg3 Qxg3+ 40. Kh1 Bf5 $1 {Pelletier has reached the time control, but his
-position is hopeless. Update: Few minutes later he resigned! A wonderful
-attacking game after Pelletier erred on 27th move. This leaves the Swiss
-player knocked on the bottom of the crosstable with 0.5 points only. Carlsen
-will remain alone in the lead if Bacrot holds against Alekseev. Thank you
-everyone for following Chessdom live commentary. Note that tomorrow is rest
-day, see you again onMonday!} 0-1
-
-[Event "41st Biel Chess Festival"]
-[Site "Biel, Switzerland"]
-[Date "2008.07.28"]
-[Round "7"]
-[White "Carlsen, Magnus"]
-[Black "Alekseev, Evgeny"]
-[Result "0-1"]
-[ECO "C48"]
-[WhiteElo "2775"]
-[BlackElo "2708"]
-[PlyCount "167"]
-[EventDate "2008.07.19"]
-[EventType "tourn"]
-[EventRounds "10"]
-[EventCountry "SUI"]
-[EventCategory "18"]
-[SourceDate "2008.07.17"]
-
-{Live commentary by IM Miodrag Perunovic and Goran Urosevic (taken from www.
-chessdom.com) Good day everyone, welcome to the Chessdom live coverage of Biel
-International. Alekseev won one game against Carlsen back in the 2004 at the
-junior event, but all of their recent games ended in draws. It is possible
-that they will continue discussion in the Queen's Indian defence. Enjoy the
-game!} 1. e4 {No QID this time.} e5 {Nowadays, on the top level e5 is almost
-more popular than Sicilian defence. The main reason is that White still
-haven't found clear ways to achieve advantage against Ruy Lopez Marshall
-attack.} 2. Nf3 Nc6 3. Bb5 Nf6 {Berlin variation, revived by Vladimir Kramnik.
-It helped him win the World Championship match against Garry Kasparov and
-other players followed his footprints.} 4. d3 $5 {A relatively new approach,
-adopted from players who hate to play with microscopic advantage in the main
-line.} ({The main line:} 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
-Qxd8+ Kxd8) 4... Bc5 5. Nc3 $5 {The position now resembles some variations of
-Four Knights opening, rather than Ruy Lopez. The more flexible solution is to
-castle and keep the option of playing c3. Carlsen obviously has different
-intentions. GM Emil Sutovsky liked to play 5. Bxc6 here.} O-O {It is interestin
-g to point that Alekseev himself played this position with White, last month
-at the Foros Aerosvit. In the game against Pavel Eljanov, he continued 6. 0-0
-and after Nd4 we saw a classical Rubinstein counterattack in the Four Knights.
-That game finished in quick draw. Mikhail Chigorin played 6. Bg5!?} 6. Bxc6 $5
-{Carlsen goes another way.} dxc6 {The pawn structure is similar to the Ruy
-Lopez exchange variation, but the difference is that Black didn't play a6 and
-it will be harder for White to prepare d4. On the other hand, Black Knight
-would be much happier on e7.} 7. Nxe5 $5 {Now this is brave! White is picking
-up the fight before bringing the King into security. Black can play 7...Bxf2+
-8. Kxf2 Qd4+ 9. Be3 Qxe5 or immediate 7...Qd4 8. Be3 Qxe5 9. d4 with dxc5. 7.
-h3 was safer.} Qd4 ({The other capture also looked promising, sample line} 7...
-Bxf2+ 8. Kxf2 Qd4+ 9. Be3 Qxe5 10. h3 Nh5 $1 11. Qf3 f5 12. d4 Qe8 13. e5 f4 {
-With excellent play for Black.}) 8. Be3 Qxe5 9. d4 Qe7 10. dxc5 Nxe4 {
-The last few moves were forced. Now 11. Nxe4 Qxe4 12. 0-0 Be6 causes some
-problems to White, because Queen has to defend c2 and Black Rooks will quickly
-grab the open files.} 11. Qd4 $5 {
-Probably better than exchange on e4 because now White could castle long!?} Bf5
-(11... Nxc3 12. Qxc3 Rd8 $5 13. O-O $2 Be6 {
-With idea Rd5-Rad8 would have been equal.}) 12. O-O-O {Alright! This helps
-White to protect sensitive c2-pawn and fight better for the d-file (King
-controlling d1). The drawback is that kingside pawns, that are not protected
-by the King, might come under attack. Still, White could drop one of them if
-opening of the files will help in pressuring the Black King.} Rad8 13. Qb4 {
-Winning the tempo against b7-pawn. Now if 13...b6, maybe 14. Qa3!? touching on
-a7? For this reason, 12...Rfd8 might have been more precise.} Qe6 $5 {
-A fine small push that highlights some of the weaknesses in White's camp. The
-main threat of Nxc3 and Qxa2 forces White to do something about it. 14. Kb1
-might not be the best way since White is losing some of the control on the
-d-file. 14. a3 allows b6 since Queen's desirable square is taken away. Most
-likely, Carlsen will exchange one or two pairs of pieces to reduce Black's
-tactical possibilities and continue playing on the structure.} 14. Kb1 $5 {
-Carlsen wants to keep as many pieces on the board as possible. He might not
-have double Rook's exchange at the disposal, but there are other possibilities.
-14...Qg6 is indirectly pressuring on the weak c2.} (14. Nxe4 $5 Bxe4 ({But not
-} 14... Qxe4 15. Qxe4 Bxe4 16. f3 Bd5 17. Bf4 $1 {
-when White is slightly better.}) 15. Rxd8 Rxd8 16. Rd1 Rxd1+ 17. Kxd1 {
-with roughly equal ending.}) 14... b5 {The threat is a7-a5, and after White
-takes, Black plays Ra8, Nxc3 and takes on a2.} 15. b3 {This weakening is
-serious concession. Nc3 might become loose and White will probably trade it
-soon.} Qe5 {15... Qg6!? is posing bigger problems because g2 is also under
-attack 16.Nxe4 Bxe4 17.Qc3 b4! 18.Qc4 Qxg2 19.Rhg1 Rxd1+} 16. Nxe4 Bxe4 17. Bd4
-Qf5 18. Qc3 {18. Rd2 was also fine. The position is now completely equal.} f6
-19. f3 Bd5 20. Rhe1 ({The daring pawn hunt with} 20. Qa5 $5 {
-allows Black to gain nice counterplay} Bf7 21. Rhe1 (21. Qxa7 $2 Bg6 {and Rd4})
-21... Bg6 22. Rd2 Qf4) 20... Rd7 {Both players will spend a couple of moves on
-solidifying the position. Alekseev wants to double the Rook and maybe transfer
-the Bishop to g6, while Carlsen will play Kb2 and move the (in some positions
-hanging) Bishop from d4.} 21. Bf2 Rfd8 22. Rd4 h5 {Taking g4 under control and
-giving some air to the King. The Bishop will probably move to g6 in the future.
-} 23. h3 {Is he insisting on g4? It is possible that Black will face the "how
-to improve beautiful position" paradox that was so nicely explained in books
-of GM Suba.} Bf7 24. g4 hxg4 25. hxg4 Qg5 {
-Some progress here, Queen was forced away from the ideal diagonal.} 26. Kb2
-Rxd4 27. Bxd4 Qd5 28. Rd1 $1 {Exclamation mark only because White is not
-afraid to go under the pin. With Bishop on d4, f4-g5 might be a good plan. The
-alternative was 28. Bf2} b4 $1 {Excellent reaction. Trying to drive the Queen
-from this diagonal and swap b-pawn for very important f3.} 29. Qxb4 (29. Qe3 $5
-Re8 30. Qf4) 29... Qxf3 30. Rd2 {Idea is 30...Qxg4 31. Bc3!?} (30. Rg1 {
-allows Queen's trade after Qe4.}) 30... Qxg4 31. Bc3 Qc8 32. Rg2 Bd5 {
-The certain pressure against Black King is compensating for the pawn deficit.}
-33. Rg1 Qf5 {Maybe chance for Qb7?} 34. Qb7 Kf7 35. Qxc7+ {Another possibility
-was to take a7-pawn and push the passer sometime in the future. Obviously,
-Carlsen wanted to have his Queen near the enemy King.} Rd7 36. Qc8 Be4 {
-The only move! Allowing Qh8 would have been very dangerous. Now Black will
-have Qh7.} 37. Qh8 Qh7 38. Qc8 Qf5 39. Rf1 $5 Qe6 $5 (39... Qxf1 40. Qxd7+ Kf8
-{looks like a draw.} (40... Kg8 $4 41. Qe8+ Kh7 42. Qxe4+)) 40. Qh8 Re7 {
-The show goes on.} 41. Rd1 Re8 42. Qh2 Bf5 43. Rd2 (43. Rd6 {allows} Qe2 {
-and Magnus wants those heavy pieces on the board.}) 43... Re7 44. Qb8 Rd7 {
-It was about time Alekseev to try exchanging the Rooks and soften c2 defence.
-But this might not be the best way to do it, since White has 45. Rd6 and then
-Qe2 is met by Rxd7 (which was not possible in the line given above).} 45. Rf2
-Bg6 46. Rh2 Qe8 (46... Qe4 $5) 47. Qg3 Qe4 {
-This is the best square for the Queen. It protects Bg6 and attacks on c2.} 48.
-Rg2 Re7 49. Rd2 Rb7 {
-Odd-looking move, but it doesn't change the assessment. Still dead equal.} 50.
-Qh2 Re7 51. Qb8 Bf5 52. a4 {Finally, a pawn is moved :) It is hard to make any
-progress though, as long as Alekseev is firmly pressing on c2.} Bg6 53. a5 Bf5
-54. a6 Bg6 55. Qg3 Bf5 56. Rg2 Bg6 57. Rh2 Bf5 58. Qb8 {White is trying to
-sneak in through the 8th rank, but even simple Kg6 keeps Black intact.} Bg6 59.
-Ka3 Bh7 60. Rd2 Bf5 61. Qh8 Qe3 62. Kb2 Qe4 63. Rf2 Qg4 64. Qh2 Bg6 65. Qd6 Qe6
-66. Qxe6+ $5 Kxe6 67. Ba5 {The Queens have left the board, and this is now
-interesting endgame. White might be planning to check on e2, trade the Rooks
-and play Bb6.} Be4 {Covering the possible check and taking c6 under protection.
-} 68. c4 g5 {It is too early to speculate who will be faster in this race, but
-Black pawn have a clear road ahead...} 69. Bd2 Rg7 70. Re2 f5 71. b4 g4 72. b5
-cxb5 73. cxb5 g3 74. Re1 {Hoping to block the promoting square. Immediate 74.
-b6 was also interesting, White sacrifices Bishop for pawn, but his own pawns
-are very close to promotion.} Kd5 75. Be3 {Probably immediate b6 was better.}
-Bd3 $1 {Exactly, now Black grabs the advantage.} 76. Rd1 Ke4 77. Rxd3 Kxd3 78.
-Bg1 f4 79. b6 f3 80. b7 Rg8 $1 {
-This is the crucial tempo, White has to push c-pawn, but it's too late...} 81.
-c6 f2 82. c7 fxg1=Q 83. c8=Q Qd4+ 84. Ka2 {And Carlsen resigned seeing that 84.
-.. Rxc8 and 85...Qc4+ is winning for Black. An odd game, where nothing
-happened for about 30 moves and then White decided for a sudden pawn race.
-Black turned to be faster because his pawns had no obstacles on the way. Thank
-you everyone for following Chessdom live commentary, see you again tomorrow at
-14:00 CET.} 0-1
-
-[Event "41st Biel Chess Festival"]
-[Site "Biel, Switzerland"]
-[Date "2008.07.28"]
-[Round "7"]
-[White "Dominguez Perez, Lenier"]
-[Black "Pelletier, Yannick"]
-[Result "1-0"]
-[ECO "C88"]
-[WhiteElo "2708"]
-[BlackElo "2569"]
-[PlyCount "111"]
-[EventDate "2008.07.19"]
-[EventType "tourn"]
-[EventRounds "10"]
-[EventCountry "SUI"]
-[EventCategory "18"]
-[SourceDate "2008.07.17"]
-
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
-b4 9. d3 d6 10. Nbd2 Na5 11. Ba2 Rb8 12. c3 bxc3 13. bxc3 c5 14. d4 cxd4 15.
-cxd4 Nc6 16. Ba3 Nxd4 17. Nxd4 exd4 18. Nf3 Bb7 19. Qd3 d5 20. Bxe7 Qxe7 21.
-exd5 Qd8 22. Rab1 Bxd5 23. Rxb8 Qxb8 24. Bxd5 Nxd5 25. Qxd4 Nf6 26. h3 Qc7 27.
-Rb1 Rd8 28. Rb7 Qc8 29. Qb6 h6 30. Rc7 Qf5 31. Rc1 Rc8 32. Re1 Qd3 33. Qb7 Rf8
-34. a5 Nd5 35. Qd7 Nf4 36. Qxd3 Nxd3 37. Rd1 Nc5 38. Rd6 Ra8 39. Rb6 Rc8 40.
-Ne5 Re8 41. f4 Re6 42. Rb8+ Kh7 43. Nxf7 Rf6 44. Rh8+ Kg6 45. Ne5+ Kf5 46. Rc8
-Nb3 47. Rc4 g5 48. g4+ Ke6 49. Rc6+ Ke7 50. Ng6+ Kf7 51. Rc7+ Ke6 52. f5+ Kd5
-53. Ne7+ Ke4 54. Ng8 Rf8 55. Nxh6 Nd4 56. Nf7 1-0
-
-[Event "41st Biel Chess Festival"]
-[Site "Biel, Switzerland"]
-[Date "2008.07.28"]
-[Round "7"]
-[White "Onischuk, Alexander"]
-[Black "Bacrot, Etienne"]
-[Result "0-1"]
-[ECO "A70"]
-[WhiteElo "2670"]
-[BlackElo "2691"]
-[PlyCount "110"]
-[EventDate "2008.07.19"]
-[EventType "tourn"]
-[EventRounds "10"]
-[EventCountry "SUI"]
-[EventCategory "18"]
-[SourceDate "2008.07.17"]
-
-1. d4 e6 2. c4 c5 3. d5 exd5 4. cxd5 d6 5. e4 g6 6. Nc3 Bg7 7. Bd3 a6 8. h3 b5
-9. Nf3 Nf6 10. O-O O-O 11. Re1 Re8 12. a3 Ra7 13. Bf4 Rae7 14. Rc1 Qb6 15. b4
-Nbd7 16. Qd2 Bb7 17. Be3 Qd8 18. Bf4 Qb6 19. Bg5 Rc8 20. Be3 Qd8 21. Bf4 Nb6
-22. bxc5 Rxc5 23. Bxd6 Qxd6 24. e5 Qd8 25. exf6 Rxe1+ 26. Rxe1 Bxf6 27. Ne4 Rc8
-28. Nxf6+ Qxf6 29. Be4 Re8 30. Qd3 Nc4 31. Nd2 Bxd5 32. Qxd5 Rd8 33. Nxc4 Rxd5
-34. Bxd5 bxc4 35. Bxc4 Qc3 36. Re4 Qxa3 37. g3 Kf8 38. Rf4 f5 39. Kg2 Qd6 40.
-h4 Ke7 41. Bb3 a5 42. Kg1 Qd3 43. Ba4 h6 44. Bc6 Kd6 45. Be8 g5 46. hxg5 hxg5
-47. Ra4 Qd1+ 48. Kg2 Qd5+ 49. Kh2 Ke7 50. Bh5 Qb5 51. Ra2 g4 52. Bg6 a4 53. Bh7
-Kf8 54. Rc2 Qd7 55. Bg6 Kg7 0-1
-
-[Event "41st Biel Chess Festival"]
-[Site "Biel, Switzerland"]
-[Date "2008.07.29"]
-[Round "8"]
-[White "Alekseev, Evgeny"]
-[Black "Dominguez Perez, Lenier"]
-[Result "0-1"]
-[ECO "B91"]
-[WhiteElo "2708"]
-[BlackElo "2708"]
-[PlyCount "90"]
-[EventDate "2008.07.19"]
-[EventType "tourn"]
-[EventRounds "10"]
-[EventCountry "SUI"]
-[EventCategory "18"]
-[SourceDate "2008.07.17"]
-
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg2
-b5 9. h3 Nbd7 10. g4 b4 11. Nd5 Nxd5 12. exd5 a5 13. O-O h5 14. gxh5 Rxh5 15.
-Nd4 Nf6 16. Nc6 Qc7 17. Qf3 Bf5 18. Re1 Qd7 19. a3 b3 20. cxb3 Bxh3 21. Bd2
-Bxg2 22. Kxg2 Rf5 23. Qd3 Nh5 24. Rh1 g6 25. b4 Bg5 26. b5 Bxd2 27. Qxd2 Rf4
-28. Rh3 Kf8 29. Rah1 Qg4+ 30. Kf1 Ng3+ 31. Rxg3 Qxg3 32. b6 Qf3 33. Rh2 Kg8 34.
-b7 Re8 35. b4 axb4 36. axb4 Qg3 37. Rh1 Qf3 38. Rh2 Qg3 39. Rh1 Qb3 40. b8=Q
-Rxb8 41. Nxb8 Rxb4 42. Nd7 Qc4+ 43. Kg2 Qg4+ 44. Kh2 Qh5+ 45. Kg2 Rg4+ 0-1
-
-[Event "41st Biel Chess Festival"]
-[Site "Biel, Switzerland"]
-[Date "2008.07.29"]
-[Round "8"]
-[White "Bacrot, Etienne"]
-[Black "Carlsen, Magnus"]
-[Result "1/2-1/2"]
-[ECO "E20"]
-[WhiteElo "2691"]
-[BlackElo "2775"]
-[PlyCount "62"]
-[EventDate "2008.07.19"]
-[EventType "tourn"]
-[EventRounds "10"]
-[EventCountry "SUI"]
-[EventCategory "18"]
-[SourceDate "2008.07.17"]
-
-{Live commentary by IM Miodrag Perunovic and Goran Urosevic (taken from www.
-chessdom.com)} 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 {Etienne Bacrot kicks off
-with his favorite move ! With this move he succeeded so many nice wins
-especially if black continues with 4...b6.Lets have a look and see what
-currently one of the best world players has prepared....} c5 {this move will
-transpose game into g3 system against Nimzo if Bacrot opts for it. Besides 5.
-g3 , recommend is also 5.e3 which would lead to sort of Karo Kan - Panov
-variation.} 5. g3 {
-Exactly what we expected! This game will be very interesting!} cxd4 6. Nxd4 O-O
-7. Bg2 d5 8. cxd5 Nxd5 9. Qb3 Qa5 10. Bd2 Nc6 11. Nxc6 bxc6 12. O-O Bxc3 {
-Carlsen is repeating his game vs Jakovenko from Moscow memorial in 2007. In
-that game he managed to win, but still Jakovenko had slightly better position
-most of the middlegame. Let's see if he prepared anything ....} 13. bxc3 Ba6 {
-Exactly what he's played in that game . Jakovenko now went with 14.Rfd1,
-although 14.Qc2!? might be interesting aswell!?} 14. Rfd1 Qc5 {Nice positional
-move that allows black to play Bc4 with blockade after Bc4 and also moves
-queen away from potential c4 tricks.} 15. e4 Bc4 16. Qa4 Nb6 17. Qb4 Qh5 {
-Of course that black must not trade queens due to pair of bishops advantage
-for white.} 18. Bf4 c5 $5 {This is a very critical moment of the game, where
-Carlsen is repeating exactly the same game as he had vs Jakovenko last year.
-Interesting possibilities that have been used are 18...e5!? and 18...Be2.} (
-18... e5 $5 19. Be3 Be2 20. Re1 Nc4 21. Qc5 Rfd8 {Najer - Jakovenko RUS-ch
-super final where black managed to win in really messy game.}) (18... Be2 19.
-Re1 c5 20. Qb3 e5 {where after} 21. Bc1 $1 {
-Grischuk nicely outplayed Gelfand in positionally deep rook ending!}) 19. Qb2
-Rad8 20. Rxd8 Rxd8 $146 {Novelty! In above mentioned game Jakovenko played 20.
-Re1!?- giving up of d file, but in order to keep all rooks on the board and to
-have full control of important e2 square....Although I think Bacrot's move is
-deeply analyzed in his own kitchen, so let's have a look who is better
-prepared and who's gonna take advantage of better opening knowledge.} 21. f3 {
-makes pawns being connected and he hopes for Re1, h4 and Be3 plan, where white
-hopes to exploit pair of bishops advantage on long term.} f5 {The best reaction
-! This move breaks quite flexible and strong white pawns and leads into
-complications. Although, don't forget , after ef5 Qf5 , black will have to
-face big positional problems, lack of pair of bishops, isolated a7 , c5 and e6
-pawns! White gets a nice position!} 22. exf5 Qxf5 {22...ef5 was out of
-consideration mainly because of weak pawns on a7 and c5 after 23.Qa3!} 23. Re1
-{This move just points out e6 weakness and controls e5 square.At some point
-white might take advantage of Qa3 , and Re5 ideas.Also . h4 preventing any
-kind of wild g5 would be also nice for white.} Qd5 {Interesting move. Black
-attacks pawn on a2, but much more important is the fact that the queen may go
-to c6 or b7 where it's going to defend a7 and c5 pawns. Very strong home
-preparation for Bacrot and unless Carlsen comes up with something else, he
-will have to start to defend very soon. Possibilities are 24.Qa3 or more
-natural 24.h4 with idea to release rook on e1 (to go for example on e5)and to
-create h2 shelter for its king.} 24. Qa3 {Bacrot wants to play against
-weaknesses. From that point of view Qa3 looks very strong since Qa7 is
-currently threat but also h4 with Re5....Carlsen will have to look up for some
-active defensive moves like...Qc6 or Rd7.} Qc6 {Active defense! Carlsen is
-hoping for 25.Qa7 Ra8 26. Qe7 Nd5 27.Qg5 Nf4 28.Qf4 and after 28...Ba2
-position is equal.Beside that pretty drawish alternative, white has 25.Be3 or
-still 25.h4!?} 25. Qxa7 {This will transpose game into equal ending but maybe
-Bacrot saw something more than above written variation....} Ra8 26. Qe7 Nd5 27.
-Qd6 {Bacrot is willing to play slightly better ending where pair of bishops
-should decide , although , material will be so reduced that I doubt any of
-sides will be in chance to win after Qd6 28.Bd6 Nc3 29.Bc5 Ra2} Qxd6 28. Bxd6
-Nxc3 29. Bxc5 Rxa2 {Arising position with only one weakness in black's
-structure on the board is not enough for white to materialize its advantage.
-Also, pair of bishops without pawn on both sides of the board can not be
-exploited in its full strength.} 30. Bf1 {this move shows Bacrot's unambitious
-intentions inn this game.I am still regreting for not trying 24.h4!? since
-black's position would be very hardly defendable thereafter.} Bxf1 31. Kxf1 Kf7
-{Draw, a bit disappointing ending by white. Although, we have to admit that
-both players should be satisfied with outcome of this game, Bacrot - because
-he managed to get draw against currently the best world player and for Carlsen
-who managed to hold dangerous Bacrot with black and to recover after loss in
-previous round. Thank you for following the game live with Chessdom.com. See
-you tomorrow!} 1/2-1/2
-
-[Event "41st Biel Chess Festival"]
-[Site "Biel, Switzerland"]
 [Date "2008.07.29"]
 [Round "8"]
 [White "Pelletier, Yannick"]
 [Black "Onischuk, Alexander"]
 [Result "1/2-1/2"]
-[ECO "D38"]
 [WhiteElo "2569"]
 [BlackElo "2670"]
-[PlyCount "106"]
+[ECO "D38"]
 [EventDate "2008.07.19"]
+[PlyCount "106"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 Nbd7 6. cxd5 exd5 7. e3 c5 8.
-Bb5 Qa5 9. O-O Bxc3 10. Bxd7+ Nxd7 11. bxc3 O-O 12. a4 Re8 13. Qb3 c4 14. Qc2
-Qa6 15. a5 Nf8 16. Bf4 g6 17. Qb2 Bf5 18. Rfe1 f6 19. Qb4 g5 20. Bg3 Ng6 21.
-Nd2 h5 22. f3 h4 23. Bf2 Bd3 24. e4 Qc6 25. exd5 Qxd5 26. Ne4 Kg7 27. Nd6 Rxe1+
-28. Rxe1 h3 29. Qxb7+ Qxb7 30. Nxb7 Nf4 31. Bg3 Ne2+ 32. Kf2 Nxc3 33. Nc5 hxg2
-34. Kxg2 Nd5 35. Kf2 Bf5 36. Rc1 Bd3 37. Nxd3 cxd3 38. Rd1 Rc8 39. Rxd3 Rc2+
-40. Ke1 Ra2 41. Rd2 Rxa5 42. Rc2 Kf7 43. Rc5 Rxc5 44. dxc5 Ke6 45. Kd2 Ne7 46.
-Kd3 Kd5 47. h4 Nf5 48. hxg5 Nxg3 49. gxf6 Nh5 50. f7 Nf4+ 51. Kc3 Ne6 52. Kb4
-Kc6 53. Ka5 Kxc5 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 Nbd7 6. cxd5 exd5 7. e3 c5
+8. Bb5 Qa5 9. O-O Bxc3 10. Bxd7+ Nxd7 11. bxc3 O-O 12. a4 Re8 13. Qb3 c4
+14. Qc2 Qa6 15. a5 Nf8 16. Bf4 g6 17. Qb2 Bf5 18. Rfe1 f6 19. Qb4 g5 20.
+Bg3 Ng6 21. Nd2 h5 22. f3 h4 23. Bf2 Bd3 24. e4 Qc6 25. exd5 Qxd5 26. Ne4
+Kg7 27. Nd6 Rxe1+ 28. Rxe1 h3 29. Qxb7+ Qxb7 30. Nxb7 Nf4 31. Bg3 Ne2+ 32.
+Kf2 Nxc3 33. Nc5 hxg2 34. Kxg2 Nd5 35. Kf2 Bf5 36. Rc1 Bd3 37. Nxd3 cxd3
+38. Rd1 Rc8 39. Rxd3 Rc2+ 40. Ke1 Ra2 41. Rd2 Rxa5 42. Rc2 Kf7 43. Rc5 Rxc5
+44. dxc5 Ke6 45. Kd2 Ne7 46. Kd3 Kd5 47. h4 Nf5 48. hxg5 Nxg3 49. gxf6 Nh5
+50. f7 Nf4+ 51. Kc3 Ne6 52. Kb4 Kc6 53. Ka5 Kxc5 1/2-1/2
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -1144,114 +650,26 @@ Kc6 53. Ka5 Kxc5 1/2-1/2
 [White "Dominguez Perez, Lenier"]
 [Black "Carlsen, Magnus"]
 [Result "1/2-1/2"]
-[ECO "B78"]
 [WhiteElo "2708"]
 [BlackElo "2775"]
-[PlyCount "103"]
+[ECO "B78"]
 [EventDate "2008.07.19"]
+[PlyCount "103"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-{Live commentary by IM Miodrag Perunovic and Goran Urosevic (taken from www.
-chessdom.com)} 1. e4 c5 {At the 2007 World Cup, when Carlsen eliminated
-Dominguez, he used an interesting Ruy Lopez hybrid to earn a draw with Black
-pieces. This time we'll have Sicilian. Maybe Dragon, the latest addition to
-Carlsen's repertoire?} 2. Nf3 g6 $5 {We're already used to seeing Carlsen
-introducing new stuff into his openings in key moments. Currently, he is
-trailing Dominguez by full point, and he clearly wants to win and catch him on
-the crosstable. This move order can lead to it's unique setups, but numerous
-transpositions are also possible.} 3. d4 Bg7 {Carlsen himself played 4. Nc3,
-while Ivanchuk tested all kinds of moves, including 4. d5 and 4. c3.} 4. Nc3
-cxd4 5. Nxd4 {Dominguez makes practical decision, avoid all mind-games and
-take the position into familiar system - Accelerated Dragon.} Nc6 6. Be3 Nf6 7.
-Bc4 ({A modest 7.Be2 also had its share of popularity} 7. Be2 O-O 8. O-O d5 9.
-exd5 Nxd5 {this position was first seen in Tarasch-Lipke, 1898! Later, Tarasch
-"improved" Black's play with 9...Nb4, but both moves remained equally used in
-the practice.}) 7... O-O (7... Qa5 $5 {forces White to remain within
-Accelerated Dragon. By the way, in former Yugoslavia (and I believe in other
-Eastern European countries) AD is called Simagin Sicilian, after the great
-innovator who popularized this setup and was one of the pioneers in exploring
-the "Sicilian exchange sacrifice".} 8. O-O O-O 9. Bb3 d6) 8. Bb3 d6 {
-Now the game definitely transposes into Sicilian Dragon...} (8... a5 $5 9. f3 (
-9. a4 $5) 9... d5 $5) 9. f3 Bd7 10. Qd2 Rc8 {The first crossroad. There are
-numerous alternatives to Rc8, for example 10...Nxd4 (with next b5), 10...Qa5
-or 10...Ne5.} 11. O-O-O {11.h4!? can be considerably sharper. Radjabov played
-this way against Carlsen at the recent Baku Grand Prix and lost after forcing
-too much.} Ne5 12. Kb1 a6 $5 {Novelty for Carlsen's games. Earlier he used 12.
-.. Re8!? against Karjakin and Leko and drew both games. The most popular is 12.
-..Nc4. Update: Dominguez is still thinking, he must be very surprised with
-this rare move. The most obvious continuations are 13. h4 which will probably
-be met with h7-h7, and 13. g4 b5. He knows this, but he still has to estimate
-the resulting positions and compare them to already familiar procedures.} 13.
-h4 $5 {Probably the most challenging for Black's "slow" a6.} h5 14. g4 $5 {
-Now this is very aggressive! Exactly what Carlsen was hoping for (unless he
-ends checkmated :)). 14. Bg5!? or 14. Bh6 were viable alternatives.} hxg4 15.
-h5 ({Also interesting is} 15. f4 Nc4 16. Bxc4 Rxc4 17. e5 $5 Nh5 $5) 15... Nxh5
-16. Bh6 {There are similar positions in Dragon Sicilian, but without Kb1 and
-a6 included. The question is how it matters and who could possibly benefit
-from it.} e6 {A very important defensive move. Taking away square d5, closing
-the diagonal for Bb3, and in some variations control of square g5 could be
-crucial.} 17. Rdg1 Qf6 (17... g3 $5 18. Rxh5 $5 gxh5 19. Rxg3 Ng6 20. Nf5 {
-looked too risky for Black.}) 18. fxg4 Bxh6 19. Qxh6 {Now we see one of the
-advantages of Kb1 inclusion. There is no more forcing Queen's exchange since
-19...Qf4 is not check.} Qg7 20. Qe3 Nf6 21. g5 {After the forced line, Black
-has emerged with extra pawn and White still has a strong pressure on the
-kingside. The position could be evaluated as roughly equal, but with lots of
-possibilities for both sides.} Nh5 22. Nde2 $5 {Probably aiming to exchange
-the Nh5, but it might prove to be too slow. Dominguez should be careful as 22..
-.b5 and next a7-a5 might cause problems on the queenside.} a5 $5 {Dominguez pro
-bably contemplating over 23. Rxh5 exchange sacrifice and next Nf4. Black can
-fend the attack off, but precision will be required.} 23. Rxh5 $1 {
-"!" for bravery :)} gxh5 24. Nf4 {Black pieces might turn to look clumsy,
-particularly if White Knight reaches f6. Still, King on g7 or g6 should be
-safe in most of the lines. Sometime Black can even counter-sacrifice on c3 and
-play for a slightly better endgame.} Ng4 $5 {Intending counterattack? Queen's
-diagonal is open and Rxc3 comes handy. Engines preferred the "ugly" Qh8, but
-it is hardly to be expected from a human.} 25. Qh3 {Probably the best. Other
-Queen moves would allow a burst of Black's energy. For example 25.Qf3 Qd4!
-when there are certain problems with the back rank and next Rc8-c5 threatens
-to capture g5.} Qd4 (25... Rxc3 $5) 26. Nce2 $1 {Now this is totally different
-because White can capture on h5 with his Queen as well.} Qxe4 {The only move,
-which is also guarding h7 in case if White plays Qxh5. But 27. Nxh5 is much
-stronger and Black will be facing huge problem.} 27. Qxh5 $6 {Dominguez was
-with at least 15 minutes on the clock, it is hard to believe that he didn't
-see Nxh5. Now Carlsen has a chance to come back into the game. Rh1 is not
-really a threat, Black can play Kg7...} a4 $1 28. Rh1 {Actually, I stand
-corrected, 28..Kg7 is met by 29. Ng3! and Queen loses control over h7. Always
-look one move deeper :)} Qxh1+ {Then this is the only way...But Black will
-have two Rooks for a Queen and he should be fine once (if) his King is
-consolidated.} 29. Qxh1 axb3 30. axb3 Bc6 {Aiming to take the b1-h7 diagonal.}
-(30... e5 $6 31. Nd5) 31. Qh4 Be4 {Right on time to protect the Knight, since
-32. Qxg4 loses to Bxc2+. Still, Nh5-f6 is a serious threat.} 32. Nc3 Bf5 33.
-Nh5 f6 {Everything else was losing. If White takes on f6, Black will play Kf7.
-34. Ng3, hitting Bf5, looks nasty.} 34. Ng3 $1 {Dominguez is down to only few
-minutes on the clock but he finds the strongest move.} Rc7 {Black didn't have
-much choice, the 7th rank should be protected in case of Nxf5 and g6.} 35. Nxf5
-exf5 36. gxf6 ({But not} 36. Nd5 Rh7 $1 37. Qe1 {
-The only move, otherwise Rh1+ and Ra8+} fxg5 {and Black escapes.}) 36... Nxf6
-37. Qg5+ Kf7 38. Qxf5 Re7 39. b4 $5 {Important step in preventing all kinds of
-back-rank trouble. The King gets some air.} Re5 40. Qf2 {Dominguez was in
-serious time trouble while playing the last couple of moves. Now the time
-control has passed and he can plan on how (if possible) to exploit the small
-advantage.} Rd8 41. b3 Rd7 42. Kb2 Rde7 43. Qb6 Rd7 {Black is well coordinated
-to protect his pawns and prevent Nd5. Perhaps Dominguez missed an opportunity
-to transfer the Knight to d4 with 41. Ne2.} 44. Qd4 Ke7 45. Qd3 {Maybe attempti
-ng Ne2... Black pawns are weak, but the play is ongoing on the small front and
-it is hard to use the long-range powers of White Queen.} Kf7 46. Nb5 Ke7 47.
-Nd4 Kf7 {Quite funny, now Carlsen does the same, repeating two moves, that
-Alekseev did against him two days ago.} 48. Qf3 Rh5 49. Nf5 Ke6 50. Nd4+ Kf7
-51. Nf5 Ke6 52. Nd4+ {Carlsen can claim the threefold repetition with Kf7.
-However, he should do it before he moves, in order to avoid the
-misunderstanding that occurred in the game against Emil Sutovsky at the 2007
-ETCC.    Update: And the draw has been agreed. A very interesting game where
-both players missed their chances. It looks like 27. Nxh5 was crushing, and
-even though Dominguez played all the best moves since, he was unable to
-convert the advantage after Carlsen's persistent defence. Dominguez maintains
-the full point lead before the last round. Thank you everyone for following
-Chessdom live coverage, see you again tomorrow at 14:00 CET.} 1/2-1/2
+1. e4 c5 2. Nf3 g6 3. d4 Bg7 4. Nc3 cxd4 5. Nxd4 Nc6 6. Be3 Nf6 7. Bc4 O-O
+8. Bb3 d6 9. f3 Bd7 10. Qd2 Rc8 11. O-O-O Ne5 12. Kb1 a6 13. h4 h5 14. g4
+hxg4 15. h5 Nxh5 16. Bh6 e6 17. Rdg1 Qf6 18. fxg4 Bxh6 19. Qxh6 Qg7 20. Qe3
+Nf6 21. g5 Nh5 22. Nde2 a5 23. Rxh5 gxh5 24. Nf4 Ng4 25. Qh3 Qd4 26. Nce2
+Qxe4 27. Qxh5 a4 28. Rh1 Qxh1+ 29. Qxh1 axb3 30. axb3 Bc6 31. Qh4 Be4 32.
+Nc3 Bf5 33. Nh5 f6 34. Ng3 Rc7 35. Nxf5 exf5 36. gxf6 Nxf6 37. Qg5+ Kf7 38.
+Qxf5 Re7 39. b4 Re5 40. Qf2 Rd8 41. b3 Rd7 42. Kb2 Rde7 43. Qb6 Rd7 44. Qd4
+Ke7 45. Qd3 Kf7 46. Nb5 Ke7 47. Nd4 Kf7 48. Qf3 Rh5 49. Nf5 Ke6 50. Nd4+
+Kf7 51. Nf5 Ke6 52. Nd4+ 1/2-1/2
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -1260,25 +678,26 @@ Chessdom live coverage, see you again tomorrow at 14:00 CET.} 1/2-1/2
 [White "Onischuk, Alexander"]
 [Black "Alekseev, Evgeny"]
 [Result "0-1"]
-[ECO "E15"]
 [WhiteElo "2670"]
 [BlackElo "2708"]
-[PlyCount "104"]
+[ECO "E15"]
 [EventDate "2008.07.19"]
+[PlyCount "104"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 d5 8. cxd5
-exd5 9. O-O O-O 10. Nc3 Bb7 11. Bf4 Na6 12. Ne5 Re8 13. Rc1 h6 14. Nb5 Bf8 15.
-Nc6 Qd7 16. Nbxa7 Rxa7 17. Nxa7 Ra8 18. Qc2 c5 19. a3 Rxa7 20. Rfd1 Qe6 21. Qd3
-Ra8 22. Qb5 Nd7 23. Qd3 Nf6 24. Qb5 Ne8 25. Qd3 Nac7 26. a4 Rc8 27. Qe3 Nf6 28.
-dxc5 bxc5 29. Qxe6 Nxe6 30. Be5 Rd8 31. e3 Ba8 32. Rd3 Ne8 33. Rcd1 N8c7 34. f4
-Na6 35. Bc3 Nec7 36. Ba5 Rb8 37. Rc3 Bd6 38. Rdc1 Kf8 39. Kf2 Ne8 40. Bf1 Nac7
-41. Bg2 Na6 42. Bf1 Nb4 43. Bb5 Na2 44. Rxc5 Nxc1 45. Rxc1 Ke7 46. Ke2 Bb7 47.
-Kd3 Bc8 48. e4 dxe4+ 49. Kxe4 Ba3 50. Re1 Nd6+ 51. Kd5+ Be6+ 52. Kc6 Rc8+ 0-1
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 d5 8.
+cxd5 exd5 9. O-O O-O 10. Nc3 Bb7 11. Bf4 Na6 12. Ne5 Re8 13. Rc1 h6 14. Nb5
+Bf8 15. Nc6 Qd7 16. Nbxa7 Rxa7 17. Nxa7 Ra8 18. Qc2 c5 19. a3 Rxa7 20. Rfd1
+Qe6 21. Qd3 Ra8 22. Qb5 Nd7 23. Qd3 Nf6 24. Qb5 Ne8 25. Qd3 Nac7 26. a4 Rc8
+27. Qe3 Nf6 28. dxc5 bxc5 29. Qxe6 Nxe6 30. Be5 Rd8 31. e3 Ba8 32. Rd3 Ne8
+33. Rcd1 N8c7 34. f4 Na6 35. Bc3 Nec7 36. Ba5 Rb8 37. Rc3 Bd6 38. Rdc1 Kf8
+39. Kf2 Ne8 40. Bf1 Nac7 41. Bg2 Na6 42. Bf1 Nb4 43. Bb5 Na2 44. Rxc5 Nxc1
+45. Rxc1 Ke7 46. Ke2 Bb7 47. Kd3 Bc8 48. e4 dxe4+ 49. Kxe4 Ba3 50. Re1 Nd6+
+51. Kd5+ Be6+ 52. Kc6 Rc8+ 0-1
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -1287,21 +706,21 @@ Kd3 Bc8 48. e4 dxe4+ 49. Kxe4 Ba3 50. Re1 Nd6+ 51. Kd5+ Be6+ 52. Kc6 Rc8+ 0-1
 [White "Pelletier, Yannick"]
 [Black "Bacrot, Etienne"]
 [Result "1/2-1/2"]
-[ECO "D45"]
 [WhiteElo "2569"]
 [BlackElo "2691"]
-[PlyCount "44"]
+[ECO "D45"]
 [EventDate "2008.07.19"]
+[PlyCount "44"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 e6 6. Qc2 c5 7. cxd5 exd5 8. Be2
-Nc6 9. O-O Be6 10. Rd1 Nb4 11. Qd2 Ne4 12. Nxe4 dxe4 13. a3 exf3 14. Bxf3 Nc6
-15. d5 Ne5 16. dxe6 Nxf3+ 17. gxf3 fxe6 18. Qc2 Qg5+ 19. Kf1 Rd8 20. Qa4+ Kf7
-21. Rxd8 Qxd8 22. Qf4+ Qf6 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 e6 6. Qc2 c5 7. cxd5 exd5 8.
+Be2 Nc6 9. O-O Be6 10. Rd1 Nb4 11. Qd2 Ne4 12. Nxe4 dxe4 13. a3 exf3 14.
+Bxf3 Nc6 15. d5 Ne5 16. dxe6 Nxf3+ 17. gxf3 fxe6 18. Qc2 Qg5+ 19. Kf1 Rd8
+20. Qa4+ Kf7 21. Rxd8 Qxd8 22. Qf4+ Qf6 1/2-1/2
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -1310,24 +729,24 @@ Nc6 9. O-O Be6 10. Rd1 Nb4 11. Qd2 Ne4 12. Nxe4 dxe4 13. a3 exf3 14. Bxf3 Nc6
 [White "Alekseev, Evgeny"]
 [Black "Pelletier, Yannick"]
 [Result "1-0"]
-[ECO "D81"]
 [WhiteElo "2708"]
 [BlackElo "2569"]
-[PlyCount "85"]
+[ECO "D81"]
 [EventDate "2008.07.19"]
+[PlyCount "85"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Qb3 dxc4 5. Qxc4 Bg7 6. e4 O-O 7. Be2 a6 8. Be3
-b5 9. Qb3 Bb7 10. f3 Nfd7 11. Nh3 Nc6 12. Rd1 Nb6 13. d5 Na5 14. Qc2 Nac4 15.
-Bxc4 Nxc4 16. Bc5 Re8 17. O-O Qc8 18. b3 Nd6 19. Nf4 c6 20. Kh1 Be5 21. Nfe2
-Qc7 22. dxc6 Bxc6 23. Bd4 Bxd4 24. Rxd4 Rac8 25. Qd2 Red8 26. Rd1 Nb7 27. Qe3
-Rxd4 28. Nxd4 Rd8 29. h4 b4 30. Nxc6 Rxd1+ 31. Nxd1 Qxc6 32. Qd4 Qc2 33. Kh2
-Nd6 34. Ne3 Qf2 35. Nf5 Qxd4 36. Nxd4 Nb5 37. Nc6 a5 38. Nxe7+ Kf8 39. Nc6 Nc3
-40. Nxa5 Nxa2 41. Kg3 Ke7 42. Kf4 Kd6 43. Kg5 1-0
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Qb3 dxc4 5. Qxc4 Bg7 6. e4 O-O 7. Be2 a6 8.
+Be3 b5 9. Qb3 Bb7 10. f3 Nfd7 11. Nh3 Nc6 12. Rd1 Nb6 13. d5 Na5 14. Qc2
+Nac4 15. Bxc4 Nxc4 16. Bc5 Re8 17. O-O Qc8 18. b3 Nd6 19. Nf4 c6 20. Kh1
+Be5 21. Nfe2 Qc7 22. dxc6 Bxc6 23. Bd4 Bxd4 24. Rxd4 Rac8 25. Qd2 Red8 26.
+Rd1 Nb7 27. Qe3 Rxd4 28. Nxd4 Rd8 29. h4 b4 30. Nxc6 Rxd1+ 31. Nxd1 Qxc6
+32. Qd4 Qc2 33. Kh2 Nd6 34. Ne3 Qf2 35. Nf5 Qxd4 36. Nxd4 Nb5 37. Nc6 a5
+38. Nxe7+ Kf8 39. Nc6 Nc3 40. Nxa5 Nxa2 41. Kg3 Ke7 42. Kf4 Kd6 43. Kg5 1-0
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -1336,11 +755,11 @@ Nd6 34. Ne3 Qf2 35. Nf5 Qxd4 36. Nxd4 Nb5 37. Nc6 a5 38. Nxe7+ Kf8 39. Nc6 Nc3
 [White "Bacrot, Etienne"]
 [Black "Dominguez Perez, Lenier"]
 [Result "1-0"]
-[ECO "D27"]
 [WhiteElo "2691"]
 [BlackElo "2708"]
-[PlyCount "71"]
+[ECO "D27"]
 [EventDate "2008.07.19"]
+[PlyCount "71"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
@@ -1348,11 +767,11 @@ Nd6 34. Ne3 Qf2 35. Nf5 Qxd4 36. Nxd4 Nb5 37. Nc6 a5 38. Nxe7+ Kf8 39. Nc6 Nc3
 [SourceDate "2008.07.17"]
 
 1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. Bb3 cxd4 8.
-exd4 Nc6 9. Nc3 Be7 10. Bg5 O-O 11. Qd2 Na5 12. Bc2 b5 13. Rad1 b4 14. Qd3 g6
-15. d5 exd5 16. Nxd5 Qxd5 17. Qxd5 Nxd5 18. Rxd5 Bxg5 19. Nxg5 Nb7 20. Rd4 h6
-21. Nf3 a5 22. Be4 Rb8 23. Rc1 Be6 24. h4 Bxa2 25. Ne5 Be6 26. Rc7 Nd8 27. Ra7
-Rb5 28. Nd7 Bxd7 29. Rdxd7 Kg7 30. Ra6 Kg8 31. Bd5 Kg7 32. g4 Re8 33. Kf1 Rc5
-34. Ra8 Rc1+ 35. Kg2 Rc2 36. Bxf7 1-0
+exd4 Nc6 9. Nc3 Be7 10. Bg5 O-O 11. Qd2 Na5 12. Bc2 b5 13. Rad1 b4 14. Qd3
+g6 15. d5 exd5 16. Nxd5 Qxd5 17. Qxd5 Nxd5 18. Rxd5 Bxg5 19. Nxg5 Nb7 20.
+Rd4 h6 21. Nf3 a5 22. Be4 Rb8 23. Rc1 Be6 24. h4 Bxa2 25. Ne5 Be6 26. Rc7
+Nd8 27. Ra7 Rb5 28. Nd7 Bxd7 29. Rdxd7 Kg7 30. Ra6 Kg8 31. Bd5 Kg7 32. g4
+Re8 33. Kf1 Rc5 34. Ra8 Rc1+ 35. Kg2 Rc2 36. Bxf7 1-0
 
 [Event "41st Biel Chess Festival"]
 [Site "Biel, Switzerland"]
@@ -1361,66 +780,23 @@ Rb5 28. Nd7 Bxd7 29. Rdxd7 Kg7 30. Ra6 Kg8 31. Bd5 Kg7 32. g4 Re8 33. Kf1 Rc5
 [White "Carlsen, Magnus"]
 [Black "Onischuk, Alexander"]
 [Result "1/2-1/2"]
-[ECO "C77"]
 [WhiteElo "2775"]
 [BlackElo "2670"]
-[PlyCount "71"]
+[ECO "C77"]
 [EventDate "2008.07.19"]
+[PlyCount "71"]
 [EventType "tourn"]
 [EventRounds "10"]
 [EventCountry "SUI"]
 [EventCategory "18"]
 [SourceDate "2008.07.17"]
 
-{Live commentary by IM Miodrag Perunovic and Goran Urosevic (taken from www.
-chessdom.com)} 1. e4 {Hello everyone, welcome to the Chessdom live coverage of
-the last round of Biel International. Last year Magnus Carlsen and Alexander
-Onischuk have played a tiebreak match to determinate the winner, but this time
-Cuban star Leinier Dominguez is in best position to claim the trophy. Onischuk
-might be a bit tired after a long series of tournaments (Foros, Poikovsky) and
-Carlsen will certainly play for a win. Enjoy the game!} e5 {
-Last year Carlsen opened with 1.d4 and won in the Queen's Gambit Declined.} 2.
-Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 $5 {Probably played with
-intention to avoid Onischuk's favorite Marshall attack. Transpositions are
-still possible though. It is interesting to note that Carlsen also used the
-"quiet" d3 against Alekseev's Berlin defence.} d6 7. c3 O-O 8. Nbd2 Re8 9. Re1
-Bf8 {They are blitzing through the opening... Onischuk is delaying b7-b5,
-which still allows Bxc6. The defect in the pawn structure would be compensated
-with pair of Bishops and excellent play over the files "b" and (soon) "e".
-Carlsen keeps the Bishop and more options at hand.} 10. Nf1 h6 {Better to preve
-nt Ng5 on time, before f7 becomes vulnerable. Black Bishop will be
-fianchettoed after some delay, while Re8 is ready for d4 which will White play
-sooner or later.} 11. Ng3 b5 12. Bc2 {Carlsen already had this position in one
-game at the 2004(!) Norway Championship. Most commonly Black continue with
-natural g6, but some players, like Dmitry Jakovenko and Mateusz Bartel, have
-tried immediate d5!?} d5 $5 13. d4 $1 {Others used to play cautious h3 or a4,
-but Carlsen immediately strikes back in the center, in the spirit of his
-earlier game vs IM Elsness. On 13...dxe4 14. Nxe4 Bf5 he will probably play 15.
-d5!? again. 13...Bg4 also deserves attention since White didn't have time to
-play h3. Other moves are probably inferior.} dxe4 {If you are wondering why is
-Carlsen taking this long to move, he is probably down in the Open section
-watching the games of his friends :) 15. d5 given in the previous comment
-wouldn't be good because Black didn't play g6 and there is no trick with 15.
-d5 Nxd5 16. Qxd5 Qxd5 17. Nf6+, so probably immediate 15. Nxf6+ is best.} 14.
-Nxe4 Bf5 15. Nxf6+ Qxf6 {Too late for d5, as Black has excellent reply in
-e5-e4! after the square has been cleared. There will be further exchanges,
-either on f5 or on e5.} 16. Nxe5 Nxe5 (16... Bxc2 17. Qxc2 Nxe5 18. dxe5 Rxe5
-19. Rxe5 Qxe5 {would have been similar to the game continuation.}) 17. dxe5
-Rxe5 {The position is equal.} 18. Rxe5 Qxe5 19. Be3 Bxc2 20. Qxc2 {Already tomo
-rrow Carlsen is playing at the 13th Grenkeleasing Rapid World Championship in
-Mainz, together with Anand, Morozevich and J. Polgar.} Rd8 21. Rd1 Rxd1+ 22.
-Qxd1 Bd6 23. g3 Qe4 24. Bd4 f5 $5 {Onischuk is trying to find motifs to play
-for a win. Moving the pawn to g3 created small weakness, but it is nothing
-significant and the play is still completely equal.} 25. a3 Be5 26. Bc5 Qc4 27.
-Ba7 Bf6 28. Kg2 c6 29. Be3 Qe4+ 30. Kg1 a5 31. Bf4 a4 32. h3 Qd5 33. Qe2 {
-Isolated pawn after Queen's exchange 32. Qxd5+ cxd5 would not guarantee
-advantage to White because Black can cover all of his weaknesses.} Qe4 34. Qd1
-Qd5 35. Qe2 Qe4 36. Qd1 {And game is drawn after the three-fold repetition.
-Neither of the players can improve the position. Carlsen completed the
-tournament with 6.0/10 and is packing his bags on the way to Mainz. Onischuk
-finished with 4.0. This completes our coverage of the Biel International,
-thank you everyone for following the commentary on Chessdom.com. See you soon!}
-1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8.
+Nbd2 Re8 9. Re1 Bf8 10. Nf1 h6 11. Ng3 b5 12. Bc2 d5 13. d4 dxe4 14. Nxe4
+Bf5 15. Nxf6+ Qxf6 16. Nxe5 Nxe5 17. dxe5 Rxe5 18. Rxe5 Qxe5 19. Be3 Bxc2
+20. Qxc2 Rd8 21. Rd1 Rxd1+ 22. Qxd1 Bd6 23. g3 Qe4 24. Bd4 f5 25. a3 Be5
+26. Bc5 Qc4 27. Ba7 Bf6 28. Kg2 c6 29. Be3 Qe4+ 30. Kg1 a5 31. Bf4 a4 32.
+h3 Qd5 33. Qe2 Qe4 34. Qd1 Qd5 35. Qe2 Qe4 36. Qd1 1/2-1/2
 
 [Event "Rapid tie-break for 1st place"]
 [Site "Biel, Switzerland"]
@@ -1429,22 +805,23 @@ thank you everyone for following the commentary on Chessdom.com. See you soon!}
 [White "Alekseev, Evgeny"]
 [Black "Dominguez Perez, Lenier"]
 [Result "1/2-1/2"]
-[ECO "D27"]
 [WhiteElo "2708"]
 [BlackElo "2708"]
-[PlyCount "74"]
+[ECO "D27"]
 [EventDate "2008.07.31"]
+[PlyCount "74"]
 [EventType "match (rapid)"]
 [EventRounds "2"]
 [EventCountry "SUI"]
 [SourceDate "2008.07.17"]
 
-1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. dxc5 Bxc5 8.
-Qxd8+ Kxd8 9. Ne5 Ke7 10. Be2 Bd7 11. Nc3 Rc8 12. Nxd7 Nbxd7 13. Bd2 Bd6 14.
-Rfc1 Rc7 15. Nd1 Rac8 16. Rxc7 Rxc7 17. Rc1 Rxc1 18. Bxc1 Nd5 19. Kf1 f5 20. h3
-g6 21. Bd2 Bb4 22. Bxb4+ Nxb4 23. Nc3 Kd6 24. a3 Nc6 25. Ke1 Nf6 26. Kd2 Ne5
-27. b4 Nc6 28. Kc2 e5 29. Kb3 e4 30. b5 axb5 31. Nxb5+ Kc5 32. Nc3 Na5+ 33. Kc2
-Nc6 34. Na4+ Kd6 35. Nc3 Kc5 36. Na4+ Kd6 37. Nc3 Kc5 1/2-1/2
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. dxc5 Bxc5
+8. Qxd8+ Kxd8 9. Ne5 Ke7 10. Be2 Bd7 11. Nc3 Rc8 12. Nxd7 Nbxd7 13. Bd2 Bd6
+14. Rfc1 Rc7 15. Nd1 Rac8 16. Rxc7 Rxc7 17. Rc1 Rxc1 18. Bxc1 Nd5 19. Kf1
+f5 20. h3 g6 21. Bd2 Bb4 22. Bxb4+ Nxb4 23. Nc3 Kd6 24. a3 Nc6 25. Ke1 Nf6
+26. Kd2 Ne5 27. b4 Nc6 28. Kc2 e5 29. Kb3 e4 30. b5 axb5 31. Nxb5+ Kc5 32.
+Nc3 Na5+ 33. Kc2 Nc6 34. Na4+ Kd6 35. Nc3 Kc5 36. Na4+ Kd6 37. Nc3 Kc5
+1/2-1/2
 
 [Event "Rapid tie-break for 1st place"]
 [Site "Biel, Switzerland"]
@@ -1453,27 +830,27 @@ Nc6 34. Na4+ Kd6 35. Nc3 Kc5 36. Na4+ Kd6 37. Nc3 Kc5 1/2-1/2
 [White "Dominguez Perez, Lenier"]
 [Black "Alekseev, Evgeny"]
 [Result "1/2-1/2"]
-[ECO "C67"]
 [WhiteElo "2708"]
 [BlackElo "2708"]
-[PlyCount "130"]
+[ECO "C67"]
 [EventDate "2008.07.31"]
+[PlyCount "130"]
 [EventType "match (rapid)"]
 [EventRounds "2"]
 [EventCountry "SUI"]
 [SourceDate "2008.07.17"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
-8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Be7 11. g4 Nh4 12. Nxh4 Bxh4 13. Kg2 Be7 14.
-Bf4 Be6 15. Rfd1 a5 16. Ne2 h5 17. f3 Rd8 18. Nd4 hxg4 19. hxg4 Bc8 20. Ne2
-Rxd1 21. Rxd1 c5 22. Nc3 Be6 23. Nd5 Bd8 24. c4 b6 25. a4 Rh7 26. b3 Rh8 27.
-Bg3 Rh7 28. Nf4 Bc8 29. Nd5 Be6 30. Bf4 Rh8 31. Rd2 Rh7 32. Nc3 Rh8 33. Ne4 f5
-34. exf6 gxf6 35. Ng3 Rh7 36. Be3 Rd7 37. Rxd7 Bxd7 38. Kf2 Kf7 39. Ke2 Kg6 40.
-Kd3 Bc6 41. Nf5 Bd7 42. Ke4 Bc6+ 43. Kd3 Bd7 44. Nh4+ Kf7 45. Bf2 Bc8 46. Bg3
-Bd7 47. Ke4 Bc6+ 48. Ke3 Bd7 49. Nf5 Bxf5 50. gxf5 Ke7 51. Kf4 Kf7 52. Kg4 Kg7
-53. Kh5 Kh7 54. Bf4 Kg7 55. Kg4 Kf7 56. Bg3 Kg7 57. Kf4 Kf7 58. Ke4 Ke8 59. Bh2
-Ke7 60. Bg3 Ke8 61. Kf4 Kf7 62. Kg4 Kg7 63. Kh5 Kh7 64. Bh2 Kg7 65. Bf4 Kh7
-1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Be7 11. g4 Nh4 12. Nxh4 Bxh4 13. Kg2
+Be7 14. Bf4 Be6 15. Rfd1 a5 16. Ne2 h5 17. f3 Rd8 18. Nd4 hxg4 19. hxg4 Bc8
+20. Ne2 Rxd1 21. Rxd1 c5 22. Nc3 Be6 23. Nd5 Bd8 24. c4 b6 25. a4 Rh7 26.
+b3 Rh8 27. Bg3 Rh7 28. Nf4 Bc8 29. Nd5 Be6 30. Bf4 Rh8 31. Rd2 Rh7 32. Nc3
+Rh8 33. Ne4 f5 34. exf6 gxf6 35. Ng3 Rh7 36. Be3 Rd7 37. Rxd7 Bxd7 38. Kf2
+Kf7 39. Ke2 Kg6 40. Kd3 Bc6 41. Nf5 Bd7 42. Ke4 Bc6+ 43. Kd3 Bd7 44. Nh4+
+Kf7 45. Bf2 Bc8 46. Bg3 Bd7 47. Ke4 Bc6+ 48. Ke3 Bd7 49. Nf5 Bxf5 50. gxf5
+Ke7 51. Kf4 Kf7 52. Kg4 Kg7 53. Kh5 Kh7 54. Bf4 Kg7 55. Kg4 Kf7 56. Bg3 Kg7
+57. Kf4 Kf7 58. Ke4 Ke8 59. Bh2 Ke7 60. Bg3 Ke8 61. Kf4 Kf7 62. Kg4 Kg7 63.
+Kh5 Kh7 64. Bh2 Kg7 65. Bf4 Kh7 1/2-1/2
 
 [Event "Blitz tie-break for 1st place"]
 [Site "Biel, Switzerland"]
@@ -1482,24 +859,24 @@ Ke7 60. Bg3 Ke8 61. Kf4 Kf7 62. Kg4 Kg7 63. Kh5 Kh7 64. Bh2 Kg7 65. Bf4 Kh7
 [White "Alekseev, Evgeny"]
 [Black "Dominguez Perez, Lenier"]
 [Result "1/2-1/2"]
-[ECO "B92"]
 [WhiteElo "2708"]
 [BlackElo "2708"]
-[PlyCount "95"]
+[ECO "B92"]
 [EventDate "2008.07.31"]
+[PlyCount "95"]
 [EventType "match (blitz)"]
 [EventRounds "2"]
 [EventCountry "SUI"]
 [SourceDate "2008.07.17"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
-O-O 9. Bf3 b5 10. a4 b4 11. Nd5 Nxd5 12. Qxd5 Ra7 13. Be3 Be6 14. Qd3 Rd7 15.
-Rfd1 Qc7 16. Nd2 Rfd8 17. a5 Rc8 18. Rdc1 Qb7 19. c3 d5 20. exd5 Bxd5 21. Bxd5
-Rxd5 22. Qe4 bxc3 23. bxc3 Qc6 24. Rab1 Nd7 25. c4 Nf6 26. Qf5 Rxa5 27. Nb3 Ra4
-28. c5 Nd5 29. Bd2 g6 30. Qxe5 Bf6 31. Qd6 Be7 32. Qg3 Bd8 33. Qd6 Be7 34. Qg3
-Bd8 35. Qf3 Bc7 36. g3 Ne7 37. Qxc6 Nxc6 38. Bh6 Rb4 39. Nd2 Rxb1 40. Rxb1 f5
-41. Nc4 Rb8 42. Rd1 Rd8 43. Rb1 Rb8 44. Re1 Kf7 45. Nd6+ Bxd6 46. cxd6 Rd8 47.
-Bf4 Rd7 48. h4 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8.
+O-O O-O 9. Bf3 b5 10. a4 b4 11. Nd5 Nxd5 12. Qxd5 Ra7 13. Be3 Be6 14. Qd3
+Rd7 15. Rfd1 Qc7 16. Nd2 Rfd8 17. a5 Rc8 18. Rdc1 Qb7 19. c3 d5 20. exd5
+Bxd5 21. Bxd5 Rxd5 22. Qe4 bxc3 23. bxc3 Qc6 24. Rab1 Nd7 25. c4 Nf6 26.
+Qf5 Rxa5 27. Nb3 Ra4 28. c5 Nd5 29. Bd2 g6 30. Qxe5 Bf6 31. Qd6 Be7 32. Qg3
+Bd8 33. Qd6 Be7 34. Qg3 Bd8 35. Qf3 Bc7 36. g3 Ne7 37. Qxc6 Nxc6 38. Bh6
+Rb4 39. Nd2 Rxb1 40. Rxb1 f5 41. Nc4 Rb8 42. Rd1 Rd8 43. Rb1 Rb8 44. Re1
+Kf7 45. Nd6+ Bxd6 46. cxd6 Rd8 47. Bf4 Rd7 48. h4 1/2-1/2
 
 [Event "Blitz tie-break for 1st place"]
 [Site "Biel, Switzerland"]
@@ -1508,21 +885,22 @@ Bf4 Rd7 48. h4 1/2-1/2
 [White "Dominguez Perez, Lenier"]
 [Black "Alekseev, Evgeny"]
 [Result "0-1"]
-[ECO "C65"]
 [WhiteElo "2708"]
 [BlackElo "2708"]
-[PlyCount "88"]
+[ECO "C65"]
 [EventDate "2008.07.31"]
+[PlyCount "88"]
 [EventType "match (blitz)"]
 [EventRounds "2"]
 [EventCountry "SUI"]
 [SourceDate "2008.07.17"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. Re1 Bb6 8. h3
-Ne7 9. Nbd2 c6 10. Ba4 Ng6 11. Nf1 h6 12. Ng3 Re8 13. d4 Qc7 14. Bc2 Be6 15.
-Be3 Rad8 16. Qc1 Kh7 17. Bd3 c5 18. Nf5 Bxf5 19. exf5 Nf8 20. Bb5 Re7 21. dxe5
-dxe5 22. Qc2 e4 23. Nd2 Qe5 24. f3 Qxf5 25. fxe4 Qg6 26. Bf2 Ne6 27. Nf3 Nf4
-28. Nh4 Nxh3+ 29. Kf1 Qg4 30. e5+ g6 31. exf6 Rxe1+ 32. Bxe1 c4 33. Qe2 Qf4+
-34. Nf3 Rd3 35. Bd2 Be3 36. Bxc4 Rxd2 37. gxh3 Rxe2 38. Kxe2 Qxc4+ 39. Kxe3
-Qe6+ 40. Kf2 Qxf6 41. Re1 Qb6+ 42. Kg3 Qxb2 43. Re7 Kg7 44. Re3 Qxa2 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. Re1 Bb6 8.
+h3 Ne7 9. Nbd2 c6 10. Ba4 Ng6 11. Nf1 h6 12. Ng3 Re8 13. d4 Qc7 14. Bc2 Be6
+15. Be3 Rad8 16. Qc1 Kh7 17. Bd3 c5 18. Nf5 Bxf5 19. exf5 Nf8 20. Bb5 Re7
+21. dxe5 dxe5 22. Qc2 e4 23. Nd2 Qe5 24. f3 Qxf5 25. fxe4 Qg6 26. Bf2 Ne6
+27. Nf3 Nf4 28. Nh4 Nxh3+ 29. Kf1 Qg4 30. e5+ g6 31. exf6 Rxe1+ 32. Bxe1 c4
+33. Qe2 Qf4+ 34. Nf3 Rd3 35. Bd2 Be3 36. Bxc4 Rxd2 37. gxh3 Rxe2 38. Kxe2
+Qxc4+ 39. Kxe3 Qe6+ 40. Kf2 Qxf6 41. Re1 Qb6+ 42. Kg3 Qxb2 43. Re7 Kg7 44.
+Re3 Qxa2 0-1
 

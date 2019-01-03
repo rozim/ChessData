@@ -5,11 +5,12 @@
 [White "Grischuk, Alexander"]
 [Black "Jakovenko, Dmitrij"]
 [Result "1/2-1/2"]
-[ECO "D37"]
 [WhiteElo "2771"]
 [BlackElo "2726"]
-[PlyCount "57"]
+[ECO "D37"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "57"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -20,13 +21,12 @@
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 Nh5 8. Bd3
-Nxf4 9. exf4 b6 10. b4 a5 11. a3 c6 12. O-O Qc7 13. Qd2 Ba6 14. Bxa6 Rxa6 15.
-Qe2 Ra7 16. f5 axb4 17. axb4 Rxa1 18. Rxa1 e5 19. cxb6 Qxb6 20. dxe5 Bxb4 21.
-Rb1 Re8 22. Na2 c5 23. Qe3 Qb8 24. Nxb4 cxb4 25. e6 fxe6 26. fxe6 Qd6 27. Nd4
-Nc5 28. Rxb4 Nxe6 29. Rb1 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 Nh5 8.
+Bd3 Nxf4 9. exf4 b6 10. b4 a5 11. a3 c6 12. O-O Qc7 13. Qd2 Ba6 14. Bxa6
+Rxa6 15. Qe2 Ra7 16. f5 axb4 17. axb4 Rxa1 18. Rxa1 e5 19. cxb6 Qxb6 20.
+dxe5 Bxb4 21. Rb1 Re8 22. Na2 c5 23. Qe3 Qb8 24. Nxb4 cxb4 25. e6 fxe6 26.
+fxe6 Qd6 27. Nd4 Nc5 28. Rxb4 Nxe6 29. Rb1 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -35,11 +35,12 @@ Nc5 28. Rxb4 Nxe6 29. Rb1 1/2-1/2
 [White "Karjakin, Sergey"]
 [Black "Potkin, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "C11"]
 [WhiteElo "2760"]
 [BlackElo "2646"]
-[PlyCount "67"]
+[ECO "C11"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "67"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -50,14 +51,13 @@ Nc5 28. Rxb4 Nxe6 29. Rb1 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
-9. Be2 Qb6 10. Nd1 cxd4 11. Nxd4 Nxd4 12. Bxd4 Bc5 13. c3 O-O 14. O-O a5 15. a3
-Bb7 16. Nf2 b4 17. Ng4 h5 18. Ne3 g6 19. Rf3 Ba6 20. Bxa6 bxc3 21. bxc3 Rxa6
-22. g4 hxg4 23. Nxg4 Rb8 24. Rh3 Qb2 25. Qxb2 Rxb2 26. Bxc5 Nxc5 27. Nf6+ Kg7
-28. Rh7+ Kf8 29. f5 exf5 30. Rd1 Ne4 31. Rh8+ Kg7 32. Rh7+ Kf8 33. Rh8+ Kg7 34.
-Rh7+ 1/2-1/2
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8.
+Qd2 b5 9. Be2 Qb6 10. Nd1 cxd4 11. Nxd4 Nxd4 12. Bxd4 Bc5 13. c3 O-O 14.
+O-O a5 15. a3 Bb7 16. Nf2 b4 17. Ng4 h5 18. Ne3 g6 19. Rf3 Ba6 20. Bxa6
+bxc3 21. bxc3 Rxa6 22. g4 hxg4 23. Nxg4 Rb8 24. Rh3 Qb2 25. Qxb2 Rxb2 26.
+Bxc5 Nxc5 27. Nf6+ Kg7 28. Rh7+ Kf8 29. f5 exf5 30. Rd1 Ne4 31. Rh8+ Kg7
+32. Rh7+ Kf8 33. Rh8+ Kg7 34. Rh7+ 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -66,11 +66,12 @@ Rh7+ 1/2-1/2
 [White "Khismatullin, Denis"]
 [Black "Nepomniachtchi, Ian"]
 [Result "0-1"]
-[ECO "D76"]
 [WhiteElo "2659"]
 [BlackElo "2720"]
-[PlyCount "56"]
+[ECO "D76"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "56"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -81,13 +82,12 @@ Rh7+ 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. cxd5 Nxd5 7. d4 Nc6 8.
-Nc3 Nb6 9. e3 Re8 10. Re1 a5 11. Qc2 e5 12. Nxe5 Nxe5 13. dxe5 Bxe5 14. e4 c6
-15. f4 Bd4+ 16. Kh1 Nd5 17. Rd1 Nb4 18. Qe2 Qb6 19. a3 Nd5 20. Qc2 Nf6 21. h3
-Be6 22. Na4 Qa7 23. Bd2 Rad8 24. Bc3 Nh5 25. Bxd4 Rxd4 26. Kh2 Rxa4 27. f5 Rc4
-28. Qe2 Bd5 0-1
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. cxd5 Nxd5 7. d4 Nc6
+8. Nc3 Nb6 9. e3 Re8 10. Re1 a5 11. Qc2 e5 12. Nxe5 Nxe5 13. dxe5 Bxe5 14.
+e4 c6 15. f4 Bd4+ 16. Kh1 Nd5 17. Rd1 Nb4 18. Qe2 Qb6 19. a3 Nd5 20. Qc2
+Nf6 21. h3 Be6 22. Na4 Qa7 23. Bd2 Rad8 24. Bc3 Nh5 25. Bxd4 Rxd4 26. Kh2
+Rxa4 27. f5 Rc4 28. Qe2 Bd5 0-1
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -96,11 +96,12 @@ Be6 22. Na4 Qa7 23. Bd2 Rad8 24. Bc3 Nh5 25. Bxd4 Rxd4 26. Kh2 Rxa4 27. f5 Rc4
 [White "Kurnosov, Igor"]
 [Black "Zvjaginsev, Vadim"]
 [Result "1/2-1/2"]
-[ECO "C11"]
 [WhiteElo "2676"]
 [BlackElo "2676"]
-[PlyCount "80"]
+[ECO "C11"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "80"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -111,15 +112,14 @@ Be6 22. Na4 Qa7 23. Bd2 Rad8 24. Bc3 Nh5 25. Bxd4 Rxd4 26. Kh2 Rxa4 27. f5 Rc4
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
-Bc5 9. Qd2 O-O 10. O-O-O Bxd4 11. Bxd4 Qa5 12. Kb1 Rb8 13. Be3 b5 14. Ne2 Qxd2
-15. Rxd2 Bb7 16. Rg1 Rfc8 17. c3 a6 18. g3 Ne7 19. Nc1 Nc5 20. Bxc5 Rxc5 21.
-Nb3 Rc7 22. Bd3 Bc8 23. Rc1 Bd7 24. Nd4 Rbc8 25. Rdc2 Nc6 26. b3 Nxd4 27. cxd4
-Rxc2 28. Rxc2 Rxc2 29. Kxc2 a5 30. b4 a4 31. g4 g6 32. Kd2 Kg7 33. Ke3 h6 34.
-Kf3 Bc6 35. Kg3 Bd7 36. Kh4 Be8 37. Bc2 Kh7 38. a3 Kg7 39. Bd3 Kh7 40. Kg3 Kg7
-1/2-1/2
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8.
+Nxd4 Bc5 9. Qd2 O-O 10. O-O-O Bxd4 11. Bxd4 Qa5 12. Kb1 Rb8 13. Be3 b5 14.
+Ne2 Qxd2 15. Rxd2 Bb7 16. Rg1 Rfc8 17. c3 a6 18. g3 Ne7 19. Nc1 Nc5 20.
+Bxc5 Rxc5 21. Nb3 Rc7 22. Bd3 Bc8 23. Rc1 Bd7 24. Nd4 Rbc8 25. Rdc2 Nc6 26.
+b3 Nxd4 27. cxd4 Rxc2 28. Rxc2 Rxc2 29. Kxc2 a5 30. b4 a4 31. g4 g6 32. Kd2
+Kg7 33. Ke3 h6 34. Kf3 Bc6 35. Kg3 Bd7 36. Kh4 Be8 37. Bc2 Kh7 38. a3 Kg7
+39. Bd3 Kh7 40. Kg3 Kg7 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -128,11 +128,12 @@ Kf3 Bc6 35. Kg3 Bd7 36. Kh4 Be8 37. Bc2 Kh7 38. a3 Kg7 39. Bd3 Kh7 40. Kg3 Kg7
 [White "Tomashevsky, Evgeny"]
 [Black "Malakhov, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "D15"]
 [WhiteElo "2699"]
 [BlackElo "2712"]
-[PlyCount "95"]
+[ECO "D15"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "95"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -143,16 +144,15 @@ Kf3 Bc6 35. Kg3 Bd7 36. Kh4 Be8 37. Bc2 Kh7 38. a3 Kg7 39. Bd3 Kh7 40. Kg3 Kg7
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 b5 6. b3 Bg4 7. Be2 Nbd7 8. O-O e6
-9. h3 Bh5 10. Bb2 Qb8 11. Ne5 Bxe2 12. Qxe2 Nxe5 13. dxe5 Nd7 14. cxd5 cxd5 15.
-Rad1 Be7 16. f4 O-O 17. Qg4 Qa7 18. Kh1 Rac8 19. f5 Nxe5 20. Qg3 f6 21. fxe6
-Qb6 22. Nxd5 Qxe6 23. Bxe5 fxe5 24. Qg4 Rxf1+ 25. Rxf1 Rc6 26. e4 Bc5 27. Qxe6+
-Rxe6 28. Rc1 Bd4 29. Rc8+ Kf7 30. Rc7+ Kf8 31. g4 h5 32. Kg2 hxg4 33. hxg4 g5
-34. Rc1 Kf7 35. Rc7+ Kf8 36. a4 bxa4 37. bxa4 a5 38. Rc1 Kg7 39. Rc7+ Kf8 40.
-Kg3 Rh6 41. Rc1 Kg7 42. Rb1 Rc6 43. Rb7+ Kf8 44. Rb5 Rc2 45. Rxa5 Re2 46. Kf3
-Rf2+ 47. Kg3 Re2 48. Kf3 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 b5 6. b3 Bg4 7. Be2 Nbd7 8.
+O-O e6 9. h3 Bh5 10. Bb2 Qb8 11. Ne5 Bxe2 12. Qxe2 Nxe5 13. dxe5 Nd7 14.
+cxd5 cxd5 15. Rad1 Be7 16. f4 O-O 17. Qg4 Qa7 18. Kh1 Rac8 19. f5 Nxe5 20.
+Qg3 f6 21. fxe6 Qb6 22. Nxd5 Qxe6 23. Bxe5 fxe5 24. Qg4 Rxf1+ 25. Rxf1 Rc6
+26. e4 Bc5 27. Qxe6+ Rxe6 28. Rc1 Bd4 29. Rc8+ Kf7 30. Rc7+ Kf8 31. g4 h5
+32. Kg2 hxg4 33. hxg4 g5 34. Rc1 Kf7 35. Rc7+ Kf8 36. a4 bxa4 37. bxa4 a5
+38. Rc1 Kg7 39. Rc7+ Kf8 40. Kg3 Rh6 41. Rc1 Kg7 42. Rb1 Rc6 43. Rb7+ Kf8
+44. Rb5 Rc2 45. Rxa5 Re2 46. Kf3 Rf2+ 47. Kg3 Re2 48. Kf3 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -161,11 +161,12 @@ Rf2+ 47. Kg3 Re2 48. Kf3 1/2-1/2
 [White "Vitiugov, Nikita"]
 [Black "Svidler, Peter"]
 [Result "1/2-1/2"]
-[ECO "A16"]
 [WhiteElo "2709"]
 [BlackElo "2722"]
-[PlyCount "75"]
+[ECO "A16"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "75"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -176,14 +177,14 @@ Rf2+ 47. Kg3 Re2 48. Kf3 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qa4+ Bd7 6. Qh4 Nxc3 7. bxc3 Nc6
-8. d4 e6 9. Qg3 Bd6 10. Bf4 Qe7 11. e4 Bxf4 12. Qxf4 f6 13. Qe3 e5 14. Rb1 b6
-15. Bb5 O-O 16. O-O Rfd8 17. h4 Na5 18. Bxd7 Rxd7 19. h5 Re8 20. hxg6 exd4 21.
-gxh7+ Qxh7 22. Nxd4 Qxe4 23. Qh6 Nc4 24. f3 Qe3+ 25. Qxe3 Rxe3 26. Rbd1 Nb2 27.
-Rc1 Na4 28. Nf5 Re2 29. Rf2 Rxf2 30. Kxf2 Rd2+ 31. Kg3 Rxa2 32. c4 Rd2 33. Ra1
-Nb2 34. Rxa7 Rd7 35. Ne3 Kf7 36. Nd5 Nxc4 37. Rxc7 Rxc7 38. Nxc7 1/2-1/2
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qa4+ Bd7 6. Qh4 Nxc3 7. bxc3
+Nc6 8. d4 e6 9. Qg3 Bd6 10. Bf4 Qe7 11. e4 Bxf4 12. Qxf4 f6 13. Qe3 e5 14.
+Rb1 b6 15. Bb5 O-O 16. O-O Rfd8 17. h4 Na5 18. Bxd7 Rxd7 19. h5 Re8 20.
+hxg6 exd4 21. gxh7+ Qxh7 22. Nxd4 Qxe4 23. Qh6 Nc4 24. f3 Qe3+ 25. Qxe3
+Rxe3 26. Rbd1 Nb2 27. Rc1 Na4 28. Nf5 Re2 29. Rf2 Rxf2 30. Kxf2 Rd2+ 31.
+Kg3 Rxa2 32. c4 Rd2 33. Ra1 Nb2 34. Rxa7 Rd7 35. Ne3 Kf7 36. Nd5 Nxc4 37.
+Rxc7 Rxc7 38. Nxc7 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -192,11 +193,12 @@ Nb2 34. Rxa7 Rd7 35. Ne3 Kf7 36. Nd5 Nxc4 37. Rxc7 Rxc7 38. Nxc7 1/2-1/2
 [White "Grischuk, Alexander"]
 [Black "Vitiugov, Nikita"]
 [Result "1-0"]
-[ECO "C02"]
 [WhiteElo "2771"]
 [BlackElo "2709"]
-[PlyCount "71"]
+[ECO "C02"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "71"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -207,14 +209,13 @@ Nb2 34. Rxa7 Rd7 35. Ne3 Kf7 36. Nd5 Nxc4 37. Rxc7 Rxc7 38. Nxc7 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. a3 c4 7. Nbd2 Na5 8. g3 Bd7
-9. Bg2 O-O-O 10. O-O f5 11. exf6 gxf6 12. Re1 Bd6 13. Bh3 Bc7 14. Rb1 Kb8 15.
-b4 cxb3 16. Nxb3 Ne7 17. Nfd2 Qc6 18. Nc5 Nf5 19. Ndb3 Nxb3 20. Qxb3 b6 21. a4
-Bc8 22. a5 e5 23. axb6 axb6 24. Ba3 Nh4 25. Bg2 Nxg2 26. Kxg2 Rde8 27. Na4 exd4
-28. Rxe8 Rxe8 29. cxd4 Re6 30. Bc5 b5 31. Nc3 Ba6 32. Nxb5 Bxb5 33. Qxb5+ Qxb5
-34. Rxb5+ Kc8 35. Bf8 Bb6 36. Rxd5 1-0
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. a3 c4 7. Nbd2 Na5 8. g3
+Bd7 9. Bg2 O-O-O 10. O-O f5 11. exf6 gxf6 12. Re1 Bd6 13. Bh3 Bc7 14. Rb1
+Kb8 15. b4 cxb3 16. Nxb3 Ne7 17. Nfd2 Qc6 18. Nc5 Nf5 19. Ndb3 Nxb3 20.
+Qxb3 b6 21. a4 Bc8 22. a5 e5 23. axb6 axb6 24. Ba3 Nh4 25. Bg2 Nxg2 26.
+Kxg2 Rde8 27. Na4 exd4 28. Rxe8 Rxe8 29. cxd4 Re6 30. Bc5 b5 31. Nc3 Ba6
+32. Nxb5 Bxb5 33. Qxb5+ Qxb5 34. Rxb5+ Kc8 35. Bf8 Bb6 36. Rxd5 1-0
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -223,11 +224,12 @@ Bc8 22. a5 e5 23. axb6 axb6 24. Ba3 Nh4 25. Bg2 Nxg2 26. Kxg2 Rde8 27. Na4 exd4
 [White "Jakovenko, Dmitrij"]
 [Black "Malakhov, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "C67"]
 [WhiteElo "2726"]
 [BlackElo "2712"]
-[PlyCount "71"]
+[ECO "C67"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "71"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -238,14 +240,13 @@ Bc8 22. a5 e5 23. axb6 axb6 24. Ba3 Nh4 25. Bg2 Nxg2 26. Kxg2 Rde8 27. Na4 exd4
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6 bxc6 8.
-dxe5 Nb7 9. Nc3 O-O 10. Re1 Nc5 11. Be3 Ne6 12. Rad1 d5 13. exd6 cxd6 14. Nd4
-Bd7 15. Nf5 d5 16. Nxe7+ Qxe7 17. Qd2 Rfe8 18. Ne2 Qf6 19. c4 Red8 20. cxd5
-cxd5 21. Nd4 Qg6 22. Rc1 Nxd4 23. Bxd4 Bh3 24. f3 Rdc8 25. Kh1 Be6 26. Qf4 h6
-27. h4 a6 28. Qe5 Kh7 29. Kh2 Rxc1 30. Rxc1 Rc8 31. Rxc8 Bxc8 32. b4 Bd7 33.
-Qxd5 Be6 34. Qa5 Bc4 35. Qe5 Bxa2 36. Qe4 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6
+bxc6 8. dxe5 Nb7 9. Nc3 O-O 10. Re1 Nc5 11. Be3 Ne6 12. Rad1 d5 13. exd6
+cxd6 14. Nd4 Bd7 15. Nf5 d5 16. Nxe7+ Qxe7 17. Qd2 Rfe8 18. Ne2 Qf6 19. c4
+Red8 20. cxd5 cxd5 21. Nd4 Qg6 22. Rc1 Nxd4 23. Bxd4 Bh3 24. f3 Rdc8 25.
+Kh1 Be6 26. Qf4 h6 27. h4 a6 28. Qe5 Kh7 29. Kh2 Rxc1 30. Rxc1 Rc8 31. Rxc8
+Bxc8 32. b4 Bd7 33. Qxd5 Be6 34. Qa5 Bc4 35. Qe5 Bxa2 36. Qe4 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -254,11 +255,12 @@ Qxd5 Be6 34. Qa5 Bc4 35. Qe5 Bxa2 36. Qe4 1/2-1/2
 [White "Nepomniachtchi, Ian"]
 [Black "Kurnosov, Igor"]
 [Result "1/2-1/2"]
-[ECO "C67"]
 [WhiteElo "2720"]
 [BlackElo "2676"]
-[PlyCount "90"]
+[ECO "C67"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "90"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -269,15 +271,15 @@ Qxd5 Be6 34. Qa5 Bc4 35. Qe5 Bxa2 36. Qe4 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
-8. Qxd8+ Kxd8 9. Nc3 Ke8 10. Rd1 Ne7 11. h3 Ng6 12. Bg5 Be7 13. Bxe7 Kxe7 14.
-Ne4 Re8 15. Re1 Kf8 16. Ng3 Be6 17. h4 Bd5 18. h5 Nf4 19. Nh4 Rad8 20. c4 Be6
-21. b3 b5 22. h6 gxh6 23. Re4 Ng6 24. Nh5 bxc4 25. bxc4 f5 26. exf6 Bc8 27.
-Rxe8+ Rxe8 28. Nf3 Bg4 29. Ng7 Rd8 30. Nh2 Bc8 31. Re1 Kf7 32. Nh5 Re8 33. Rxe8
-Kxe8 34. Nf1 Ne5 35. Ne3 Kf7 36. c5 Kg6 37. f4 Nd7 38. g4 Nxf6 39. Nxf6 Kxf6
-40. Kf2 Be6 41. a3 h5 42. g5+ Kg6 43. Kg3 h6 44. gxh6 Kxh6 45. Nc2 Kg6 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. Rd1 Ne7 11. h3 Ng6 12. Bg5 Be7 13. Bxe7
+Kxe7 14. Ne4 Re8 15. Re1 Kf8 16. Ng3 Be6 17. h4 Bd5 18. h5 Nf4 19. Nh4 Rad8
+20. c4 Be6 21. b3 b5 22. h6 gxh6 23. Re4 Ng6 24. Nh5 bxc4 25. bxc4 f5 26.
+exf6 Bc8 27. Rxe8+ Rxe8 28. Nf3 Bg4 29. Ng7 Rd8 30. Nh2 Bc8 31. Re1 Kf7 32.
+Nh5 Re8 33. Rxe8 Kxe8 34. Nf1 Ne5 35. Ne3 Kf7 36. c5 Kg6 37. f4 Nd7 38. g4
+Nxf6 39. Nxf6 Kxf6 40. Kf2 Be6 41. a3 h5 42. g5+ Kg6 43. Kg3 h6 44. gxh6
+Kxh6 45. Nc2 Kg6 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -286,11 +288,12 @@ Kxe8 34. Nf1 Ne5 35. Ne3 Kf7 36. c5 Kg6 37. f4 Nd7 38. g4 Nxf6 39. Nxf6 Kxf6
 [White "Potkin, Vladimir"]
 [Black "Tomashevsky, Evgeny"]
 [Result "0-1"]
-[ECO "D38"]
 [WhiteElo "2646"]
 [BlackElo "2699"]
-[PlyCount "80"]
+[ECO "D38"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "80"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -301,15 +304,14 @@ Kxe8 34. Nf1 Ne5 35. Ne3 Kf7 36. c5 Kg6 37. f4 Nd7 38. g4 Nxf6 39. Nxf6 Kxf6
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 Nbd7 6. cxd5 exd5 7. e3 c5 8.
-dxc5 Qa5 9. Rc1 Bxc3+ 10. bxc3 O-O 11. Nd4 Qxa2 12. Be2 Qa3 13. Nb5 Qxc5 14.
-Bf4 Ne8 15. O-O Nb6 16. Qd4 Qxd4 17. cxd4 Bd7 18. Rb1 Bxb5 19. Rxb5 Nf6 20. Bc7
-Nfd7 21. Bg4 f5 22. Bf3 Rac8 23. Bxb6 Nxb6 24. g3 Rf6 25. Ra1 a6 26. Rb3 Kf8
-27. Kg2 Ke7 28. Rab1 Rcc6 29. g4 fxg4 30. Bxg4 Kd8 31. Kg3 Kc7 32. f3 Rc4 33.
-Rd3 Nc8 34. e4 Ne7 35. e5 Rf8 36. f4 g6 37. Rf1 b5 38. f5 gxf5 39. Bh5 Rg8+ 40.
-Kf4 a5 0-1
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 Nbd7 6. cxd5 exd5 7. e3 c5
+8. dxc5 Qa5 9. Rc1 Bxc3+ 10. bxc3 O-O 11. Nd4 Qxa2 12. Be2 Qa3 13. Nb5 Qxc5
+14. Bf4 Ne8 15. O-O Nb6 16. Qd4 Qxd4 17. cxd4 Bd7 18. Rb1 Bxb5 19. Rxb5 Nf6
+20. Bc7 Nfd7 21. Bg4 f5 22. Bf3 Rac8 23. Bxb6 Nxb6 24. g3 Rf6 25. Ra1 a6
+26. Rb3 Kf8 27. Kg2 Ke7 28. Rab1 Rcc6 29. g4 fxg4 30. Bxg4 Kd8 31. Kg3 Kc7
+32. f3 Rc4 33. Rd3 Nc8 34. e4 Ne7 35. e5 Rf8 36. f4 g6 37. Rf1 b5 38. f5
+gxf5 39. Bh5 Rg8+ 40. Kf4 a5 0-1
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -318,11 +320,12 @@ Kf4 a5 0-1
 [White "Svidler, Peter"]
 [Black "Khismatullin, Denis"]
 [Result "1-0"]
-[ECO "B07"]
 [WhiteElo "2722"]
 [BlackElo "2659"]
-[PlyCount "89"]
+[ECO "B07"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "89"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -333,15 +336,15 @@ Kf4 a5 0-1
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 d6 2. d4 Nf6 3. f3 e5 4. d5 Be7 5. Be3 Nh5 6. Qd2 h6 7. Ne2 Bg5 8. Nbc3
-Nd7 9. g3 Nb6 10. h4 Bxe3 11. Qxe3 Nf6 12. g4 h5 13. g5 Nfd7 14. Nc1 O-O 15.
-Nb3 Nb8 16. Na5 c6 17. O-O-O Qe7 18. dxc6 bxc6 19. Nc4 Nxc4 20. Bxc4 Be6 21.
-Bxe6 fxe6 22. Qd2 Rd8 23. g6 d5 24. f4 Nd7 25. exd5 cxd5 26. Rhe1 e4 27. f5 Nf6
-28. fxe6 Rab8 29. Qd4 Rb6 30. Nxe4 Nxe4 31. Rxe4 Rxe6 32. Rxe6 Qxe6 33. Rg1 a5
-34. b3 a4 35. Kb1 a3 36. Qa7 d4 37. Qxa3 d3 38. cxd3 Qe3 39. Rd1 Qe2 40. Qc1
-Kh8 41. Re1 Qxd3+ 42. Qc2 Qg3 43. Qe4 Rf8 44. Rd1 Qh3 45. Qf4 1-0
+1. e4 d6 2. d4 Nf6 3. f3 e5 4. d5 Be7 5. Be3 Nh5 6. Qd2 h6 7. Ne2 Bg5 8.
+Nbc3 Nd7 9. g3 Nb6 10. h4 Bxe3 11. Qxe3 Nf6 12. g4 h5 13. g5 Nfd7 14. Nc1
+O-O 15. Nb3 Nb8 16. Na5 c6 17. O-O-O Qe7 18. dxc6 bxc6 19. Nc4 Nxc4 20.
+Bxc4 Be6 21. Bxe6 fxe6 22. Qd2 Rd8 23. g6 d5 24. f4 Nd7 25. exd5 cxd5 26.
+Rhe1 e4 27. f5 Nf6 28. fxe6 Rab8 29. Qd4 Rb6 30. Nxe4 Nxe4 31. Rxe4 Rxe6
+32. Rxe6 Qxe6 33. Rg1 a5 34. b3 a4 35. Kb1 a3 36. Qa7 d4 37. Qxa3 d3 38.
+cxd3 Qe3 39. Rd1 Qe2 40. Qc1 Kh8 41. Re1 Qxd3+ 42. Qc2 Qg3 43. Qe4 Rf8 44.
+Rd1 Qh3 45. Qf4 1-0
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -350,11 +353,12 @@ Kh8 41. Re1 Qxd3+ 42. Qc2 Qg3 43. Qe4 Rf8 44. Rd1 Qh3 45. Qf4 1-0
 [White "Zvjaginsev, Vadim"]
 [Black "Karjakin, Sergey"]
 [Result "0-1"]
-[ECO "B53"]
 [WhiteElo "2676"]
 [BlackElo "2760"]
-[PlyCount "66"]
+[ECO "B53"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "66"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -365,13 +369,13 @@ Kh8 41. Re1 Qxd3+ 42. Qc2 Qg3 43. Qe4 Rf8 44. Rd1 Qh3 45. Qf4 1-0
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3 Nf6 8.
-Bg5 e6 9. Bxf6 Qxf6 10. Qe3 Qd8 11. O-O-O Be7 12. Kb1 O-O 13. Nd4 Bd7 14. f4
-Qa5 15. g4 b5 16. g5 b4 17. Nce2 Qc5 18. h4 a5 19. Qf3 Rfc8 20. Rc1 a4 21. c4
-bxc3 22. Rxc3 Qb6 23. Rhc1 Rc5 24. Rxc5 dxc5 25. Nc2 Rb8 26. Qc3 Bb5 27. Ng3
-Bd3 28. Ka1 c4 29. a3 Qf2 30. Qe5 Rb3 31. Nh5 Bf8 32. Nb4 Qf3 33. Nxd3 Rxd3 0-1
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3
+Nf6 8. Bg5 e6 9. Bxf6 Qxf6 10. Qe3 Qd8 11. O-O-O Be7 12. Kb1 O-O 13. Nd4
+Bd7 14. f4 Qa5 15. g4 b5 16. g5 b4 17. Nce2 Qc5 18. h4 a5 19. Qf3 Rfc8 20.
+Rc1 a4 21. c4 bxc3 22. Rxc3 Qb6 23. Rhc1 Rc5 24. Rxc5 dxc5 25. Nc2 Rb8 26.
+Qc3 Bb5 27. Ng3 Bd3 28. Ka1 c4 29. a3 Qf2 30. Qe5 Rb3 31. Nh5 Bf8 32. Nb4
+Qf3 33. Nxd3 Rxd3 0-1
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -380,11 +384,12 @@ Bd3 28. Ka1 c4 29. a3 Qf2 30. Qe5 Rb3 31. Nh5 Bf8 32. Nb4 Qf3 33. Nxd3 Rxd3 0-1
 [White "Karjakin, Sergey"]
 [Black "Nepomniachtchi, Ian"]
 [Result "1-0"]
-[ECO "B90"]
 [WhiteElo "2760"]
 [BlackElo "2720"]
-[PlyCount "97"]
+[ECO "B90"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "97"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -395,16 +400,15 @@ Bd3 28. Ka1 c4 29. a3 Qf2 30. Qe5 Rb3 31. Nh5 Bf8 32. Nb4 Qf3 33. Nxd3 Rxd3 0-1
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
-O-O 9. O-O Nc6 10. Re1 Be6 11. Nd5 b5 12. Bb3 Bxd5 13. Bxd5 Qc7 14. c3 Nxd5 15.
-Qxd5 Bf6 16. Red1 Rfd8 17. a4 Ne7 18. Qd3 Qc6 19. axb5 axb5 20. Rxa8 Rxa8 21.
-h4 h6 22. Bg5 hxg5 23. hxg5 Rd8 24. gxf6 gxf6 25. Nh2 d5 26. Ng4 d4 27. Qg3 Ng6
-28. Qf3 Kg7 29. Ne3 Ne7 30. Qg4+ Kf8 31. Qh4 Kg7 32. Rd3 Qb6 33. cxd4 exd4 34.
-Qg4+ Kf8 35. Qd1 Ke8 36. Qh5 Rd6 37. Qh8+ Kd7 38. Ng4 Qc6 39. e5 Ng6 40. Nxf6+
-Ke6 41. Qh3+ Kxe5 42. Ng4+ Kd5 43. Rd1 Qe8 44. Qf3+ Qe4 45. Qxf7+ Qe6 46. Ne3+
-Ke5 47. Ng4+ Kd5 48. Qb7+ Kc4 49. Rc1+ 1-0
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8.
+Bc4 O-O 9. O-O Nc6 10. Re1 Be6 11. Nd5 b5 12. Bb3 Bxd5 13. Bxd5 Qc7 14. c3
+Nxd5 15. Qxd5 Bf6 16. Red1 Rfd8 17. a4 Ne7 18. Qd3 Qc6 19. axb5 axb5 20.
+Rxa8 Rxa8 21. h4 h6 22. Bg5 hxg5 23. hxg5 Rd8 24. gxf6 gxf6 25. Nh2 d5 26.
+Ng4 d4 27. Qg3 Ng6 28. Qf3 Kg7 29. Ne3 Ne7 30. Qg4+ Kf8 31. Qh4 Kg7 32. Rd3
+Qb6 33. cxd4 exd4 34. Qg4+ Kf8 35. Qd1 Ke8 36. Qh5 Rd6 37. Qh8+ Kd7 38. Ng4
+Qc6 39. e5 Ng6 40. Nxf6+ Ke6 41. Qh3+ Kxe5 42. Ng4+ Kd5 43. Rd1 Qe8 44.
+Qf3+ Qe4 45. Qxf7+ Qe6 46. Ne3+ Ke5 47. Ng4+ Kd5 48. Qb7+ Kc4 49. Rc1+ 1-0
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -413,11 +417,12 @@ Ke5 47. Ng4+ Kd5 48. Qb7+ Kc4 49. Rc1+ 1-0
 [White "Khismatullin, Denis"]
 [Black "Grischuk, Alexander"]
 [Result "1/2-1/2"]
-[ECO "E06"]
 [WhiteElo "2659"]
 [BlackElo "2771"]
-[PlyCount "36"]
+[ECO "E06"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "36"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -428,11 +433,10 @@ Ke5 47. Ng4+ Kd5 48. Qb7+ Kc4 49. Rc1+ 1-0
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. d4 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8. Bf4
-b6 9. Nc3 Nbd7 10. Rc1 Nh5 11. Bd2 Nhf6 12. Bf4 Nh5 13. Bd2 Nhf6 14. Qa4 Bb7
-15. Bf4 Nh5 16. Bd2 Nhf6 17. Bf4 Nh5 18. Bd2 Nhf6 1/2-1/2
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. d4 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8.
+Bf4 b6 9. Nc3 Nbd7 10. Rc1 Nh5 11. Bd2 Nhf6 12. Bf4 Nh5 13. Bd2 Nhf6 14.
+Qa4 Bb7 15. Bf4 Nh5 16. Bd2 Nhf6 17. Bf4 Nh5 18. Bd2 Nhf6 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -441,11 +445,12 @@ b6 9. Nc3 Nbd7 10. Rc1 Nh5 11. Bd2 Nhf6 12. Bf4 Nh5 13. Bd2 Nhf6 14. Qa4 Bb7
 [White "Kurnosov, Igor"]
 [Black "Svidler, Peter"]
 [Result "0-1"]
-[ECO "B42"]
 [WhiteElo "2676"]
 [BlackElo "2722"]
-[PlyCount "82"]
+[ECO "B42"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "82"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -456,15 +461,14 @@ b6 9. Nc3 Nbd7 10. Rc1 Nh5 11. Bd2 Nhf6 12. Bf4 Nh5 13. Bd2 Nhf6 14. Qa4 Bb7
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Be7 7. Qg4 g6 8. Qe2
-d6 9. O-O Nc6 10. c4 Ne5 11. h3 Nf6 12. Bh6 Nh5 13. N1d2 Nxd3 14. Qxd3 g5 15.
-e5 dxe5 16. Qf3 Nf4 17. Bg7 Rg8 18. Bxe5 Qd3 19. c5 Qxf3 20. Nxf3 f6 21. Bd6 e5
-22. Nfd2 g4 23. h4 Be6 24. g3 Nd3 25. Rab1 a5 26. Ne4 Nb4 27. Rfe1 a4 28. Nc1
-Kf7 29. a3 Nc2 30. Rd1 Bf5 31. Bxe7 Bxe4 32. Bd6 Nxa3 33. Ra1 Nc2 34. Ra2 Ke6
-35. Rd2 Nd4 36. Kf1 Nf3 37. Re2 Bd5 38. Ra3 Bc4 39. Nd3 Nd4 40. Rc3 Bxd3 41.
-Rxd3 Nxe2 0-1
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Be7 7. Qg4 g6 8.
+Qe2 d6 9. O-O Nc6 10. c4 Ne5 11. h3 Nf6 12. Bh6 Nh5 13. N1d2 Nxd3 14. Qxd3
+g5 15. e5 dxe5 16. Qf3 Nf4 17. Bg7 Rg8 18. Bxe5 Qd3 19. c5 Qxf3 20. Nxf3 f6
+21. Bd6 e5 22. Nfd2 g4 23. h4 Be6 24. g3 Nd3 25. Rab1 a5 26. Ne4 Nb4 27.
+Rfe1 a4 28. Nc1 Kf7 29. a3 Nc2 30. Rd1 Bf5 31. Bxe7 Bxe4 32. Bd6 Nxa3 33.
+Ra1 Nc2 34. Ra2 Ke6 35. Rd2 Nd4 36. Kf1 Nf3 37. Re2 Bd5 38. Ra3 Bc4 39. Nd3
+Nd4 40. Rc3 Bxd3 41. Rxd3 Nxe2 0-1
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -473,11 +477,12 @@ Rxd3 Nxe2 0-1
 [White "Malakhov, Vladimir"]
 [Black "Potkin, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "A14"]
 [WhiteElo "2712"]
 [BlackElo "2646"]
-[PlyCount "155"]
+[ECO "A14"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "155"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -488,21 +493,20 @@ Rxd3 Nxe2 0-1
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. c4 e6 2. Nf3 d5 3. b3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O b6 7. Bb2 Bb7 8. e3 c5
-9. Nc3 Nbd7 10. Qe2 Qc7 11. Rac1 Rac8 12. Nh4 dxc4 13. bxc4 Bxg2 14. Nxg2 Qc6
-15. f4 Ne4 16. Nb5 Ra8 17. Qf3 Rfc8 18. f5 Bf6 19. Bxf6 Ndxf6 20. d3 a6 21. Na3
-Nd6 22. e4 Nd7 23. Qf4 exf5 24. e5 Nb7 25. Qxf5 Qe6 26. Qxe6 fxe6 27. Nf4 Re8
-28. Nc2 Na5 29. Rcd1 Nxe5 30. Rde1 Nac6 31. Re3 g5 32. Nh5 Rf8 33. Rb1 Rab8 34.
-a4 Rfd8 35. Nf6+ Kg7 36. Ne4 h6 37. Nf2 Rf8 38. Re2 Rfd8 39. Re3 Rf8 40. Re2 a5
-41. Kg2 Rf7 42. h3 Kf8 43. Re3 Ke7 44. Re2 Nf3 45. Re3 Nfe5 46. Re2 Kd6 47. Na3
-Kd7 48. Nb5 Rbf8 49. Rbb2 Nb4 50. Re3 Nf3 51. Ng4 h5 52. Rxf3 hxg4 53. Rxf7+
-Rxf7 54. hxg4 e5 55. Nc3 Kc6 56. Ne4 Nxd3 57. Re2 Rg7 58. Kf3 Nb4 59. Rh2 Rf7+
-60. Ke3 Rd7 61. Rd2 Rd4 62. Nxg5 Rxc4 63. Nf7 Nd5+ 64. Kf2 Rd4 65. Nxe5+ Kd6
-66. Rxd4 cxd4 67. Nf3 Nc3 68. Nxd4 Nxa4 69. g5 Nc5 70. g6 Ne6 71. Ke1 Ke5 72.
-Nb5 Kf6 73. Nd6 a4 74. Kd2 Kxg6 75. Kc3 Nc7 76. Kb4 b5 77. Nxb5 Nxb5 78. Kxa4
-1/2-1/2
+1. c4 e6 2. Nf3 d5 3. b3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O b6 7. Bb2 Bb7 8.
+e3 c5 9. Nc3 Nbd7 10. Qe2 Qc7 11. Rac1 Rac8 12. Nh4 dxc4 13. bxc4 Bxg2 14.
+Nxg2 Qc6 15. f4 Ne4 16. Nb5 Ra8 17. Qf3 Rfc8 18. f5 Bf6 19. Bxf6 Ndxf6 20.
+d3 a6 21. Na3 Nd6 22. e4 Nd7 23. Qf4 exf5 24. e5 Nb7 25. Qxf5 Qe6 26. Qxe6
+fxe6 27. Nf4 Re8 28. Nc2 Na5 29. Rcd1 Nxe5 30. Rde1 Nac6 31. Re3 g5 32. Nh5
+Rf8 33. Rb1 Rab8 34. a4 Rfd8 35. Nf6+ Kg7 36. Ne4 h6 37. Nf2 Rf8 38. Re2
+Rfd8 39. Re3 Rf8 40. Re2 a5 41. Kg2 Rf7 42. h3 Kf8 43. Re3 Ke7 44. Re2 Nf3
+45. Re3 Nfe5 46. Re2 Kd6 47. Na3 Kd7 48. Nb5 Rbf8 49. Rbb2 Nb4 50. Re3 Nf3
+51. Ng4 h5 52. Rxf3 hxg4 53. Rxf7+ Rxf7 54. hxg4 e5 55. Nc3 Kc6 56. Ne4
+Nxd3 57. Re2 Rg7 58. Kf3 Nb4 59. Rh2 Rf7+ 60. Ke3 Rd7 61. Rd2 Rd4 62. Nxg5
+Rxc4 63. Nf7 Nd5+ 64. Kf2 Rd4 65. Nxe5+ Kd6 66. Rxd4 cxd4 67. Nf3 Nc3 68.
+Nxd4 Nxa4 69. g5 Nc5 70. g6 Ne6 71. Ke1 Ke5 72. Nb5 Kf6 73. Nd6 a4 74. Kd2
+Kxg6 75. Kc3 Nc7 76. Kb4 b5 77. Nxb5 Nxb5 78. Kxa4 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -511,11 +515,12 @@ Nb5 Kf6 73. Nd6 a4 74. Kd2 Kxg6 75. Kc3 Nc7 76. Kb4 b5 77. Nxb5 Nxb5 78. Kxa4
 [White "Tomashevsky, Evgeny"]
 [Black "Zvjaginsev, Vadim"]
 [Result "1/2-1/2"]
-[ECO "E46"]
 [WhiteElo "2699"]
 [BlackElo "2676"]
-[PlyCount "54"]
+[ECO "E46"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "54"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -526,13 +531,12 @@ Nb5 Kf6 73. Nd6 a4 74. Kd2 Kxg6 75. Kc3 Nc7 76. Kb4 b5 77. Nxb5 Nxb5 78. Kxa4
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 c6 6. a3 Ba5 7. b4 Bc7 8. e4 d5
-9. e5 Ne8 10. Ng3 f6 11. f4 fxe5 12. fxe5 a5 13. Rb1 axb4 14. axb4 Qh4 15. Be3
-Nd7 16. Qh5 Qxh5 17. Nxh5 Ra3 18. Bd2 Nxe5 19. dxe5 Bxe5 20. Rc1 Nd6 21. Ng3
-dxc4 22. Be2 b5 23. Rf1 Nf5 24. Nce4 Bb2 25. Rc2 Be5 26. Rc1 Bb2 27. Rc2 Be5
-1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 c6 6. a3 Ba5 7. b4 Bc7 8. e4
+d5 9. e5 Ne8 10. Ng3 f6 11. f4 fxe5 12. fxe5 a5 13. Rb1 axb4 14. axb4 Qh4
+15. Be3 Nd7 16. Qh5 Qxh5 17. Nxh5 Ra3 18. Bd2 Nxe5 19. dxe5 Bxe5 20. Rc1
+Nd6 21. Ng3 dxc4 22. Be2 b5 23. Rf1 Nf5 24. Nce4 Bb2 25. Rc2 Be5 26. Rc1
+Bb2 27. Rc2 Be5 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -541,11 +545,12 @@ dxc4 22. Be2 b5 23. Rf1 Nf5 24. Nce4 Bb2 25. Rc2 Be5 26. Rc1 Bb2 27. Rc2 Be5
 [White "Vitiugov, Nikita"]
 [Black "Jakovenko, Dmitrij"]
 [Result "1/2-1/2"]
-[ECO "D16"]
 [WhiteElo "2709"]
 [BlackElo "2726"]
-[PlyCount "50"]
+[ECO "D16"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "50"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -556,12 +561,12 @@ dxc4 22. Be2 b5 23. Rf1 Nf5 24. Nce4 Bb2 25. Rc2 Be5 26. Rc1 Bb2 27. Rc2 Be5
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 Nc6 8. O-O
-cxd4 9. exd4 Be7 10. Bg5 O-O 11. Re1 Bd7 12. Qe2 Nb4 13. Ne5 Rc8 14. Rad1 Nfd5
-15. Nxd5 Nxd5 16. Bxd5 Bxg5 17. Bxb7 Bxa4 18. Ra1 Rc7 19. Be4 Be8 20. Qd3 g6
-21. d5 exd5 22. Bxd5 Bf6 23. Rad1 Bxe5 24. Rxe5 Qf6 25. Qe3 Bc6 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 Nc6 8.
+O-O cxd4 9. exd4 Be7 10. Bg5 O-O 11. Re1 Bd7 12. Qe2 Nb4 13. Ne5 Rc8 14.
+Rad1 Nfd5 15. Nxd5 Nxd5 16. Bxd5 Bxg5 17. Bxb7 Bxa4 18. Ra1 Rc7 19. Be4 Be8
+20. Qd3 g6 21. d5 exd5 22. Bxd5 Bf6 23. Rad1 Bxe5 24. Rxe5 Qf6 25. Qe3 Bc6
+1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -570,11 +575,12 @@ cxd4 9. exd4 Be7 10. Bg5 O-O 11. Re1 Bd7 12. Qe2 Nb4 13. Ne5 Rc8 14. Rad1 Nfd5
 [White "Grischuk, Alexander"]
 [Black "Kurnosov, Igor"]
 [Result "1/2-1/2"]
-[ECO "E60"]
 [WhiteElo "2771"]
 [BlackElo "2676"]
-[PlyCount "81"]
+[ECO "E60"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "81"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -585,15 +591,14 @@ cxd4 9. exd4 Be7 10. Bg5 O-O 11. Re1 Bd7 12. Qe2 Nb4 13. Ne5 Rc8 14. Rad1 Nfd5
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 Nf6 2. c4 g6 3. f3 Nc6 4. d5 Ne5 5. e4 d6 6. Nc3 Bg7 7. f4 Ned7 8. Nh3
-O-O 9. Be2 Nc5 10. Nf2 Re8 11. O-O e5 12. dxe6 Bxe6 13. Qc2 Bd7 14. Bf3 Bc6 15.
-Bd2 a5 16. Rfe1 Nfd7 17. Rad1 Qe7 18. b3 Qf8 19. Nb5 Bxb5 20. cxb5 Qe7 21. Be3
-Rac8 22. a3 Ne6 23. b4 axb4 24. axb4 Nb6 25. Qb3 Ra8 26. g3 Qf6 27. Rd3 Qb2 28.
-Qxb2 Bxb2 29. f5 gxf5 30. Bxb6 fxe4 31. Nxe4 cxb6 32. Nxd6 Red8 33. Red1 Ra3
-34. Rxa3 Bxa3 35. Nf5 Rxd1+ 36. Bxd1 Bxb4 37. Kg2 Bc5 38. Bb3 Nd4 39. Nxd4 Bxd4
-40. Bd5 Kg7 41. Bxb7 1/2-1/2
+1. d4 Nf6 2. c4 g6 3. f3 Nc6 4. d5 Ne5 5. e4 d6 6. Nc3 Bg7 7. f4 Ned7 8.
+Nh3 O-O 9. Be2 Nc5 10. Nf2 Re8 11. O-O e5 12. dxe6 Bxe6 13. Qc2 Bd7 14. Bf3
+Bc6 15. Bd2 a5 16. Rfe1 Nfd7 17. Rad1 Qe7 18. b3 Qf8 19. Nb5 Bxb5 20. cxb5
+Qe7 21. Be3 Rac8 22. a3 Ne6 23. b4 axb4 24. axb4 Nb6 25. Qb3 Ra8 26. g3 Qf6
+27. Rd3 Qb2 28. Qxb2 Bxb2 29. f5 gxf5 30. Bxb6 fxe4 31. Nxe4 cxb6 32. Nxd6
+Red8 33. Red1 Ra3 34. Rxa3 Bxa3 35. Nf5 Rxd1+ 36. Bxd1 Bxb4 37. Kg2 Bc5 38.
+Bb3 Nd4 39. Nxd4 Bxd4 40. Bd5 Kg7 41. Bxb7 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -602,11 +607,12 @@ Qxb2 Bxb2 29. f5 gxf5 30. Bxb6 fxe4 31. Nxe4 cxb6 32. Nxd6 Red8 33. Red1 Ra3
 [White "Jakovenko, Dmitrij"]
 [Black "Potkin, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "D46"]
 [WhiteElo "2726"]
 [BlackElo "2646"]
-[PlyCount "90"]
+[ECO "D46"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "90"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -617,15 +623,15 @@ Qxb2 Bxb2 29. f5 gxf5 30. Bxb6 fxe4 31. Nxe4 cxb6 32. Nxd6 Red8 33. Red1 Ra3
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
-dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. Rd1 Qc7 12. Bd2 a5 13. Rac1 Rac8 14. e4 e5 15.
-h3 exd4 16. Nxd4 Nc5 17. Nf5 b4 18. Na4 Nxd3 19. Qxd3 Bh2+ 20. Kh1 Rcd8 21. Qf3
-Be5 22. Be3 g6 23. Rxd8 Qxd8 24. Rd1 Qc7 25. Nh6+ Kg7 26. Ng4 Nxg4 27. Qxg4 Rd8
-28. b3 Bc8 29. Qf3 Qe7 30. Nc5 h5 31. Qe2 Qh4 32. Rxd8 Qxd8 33. f4 Bc7 34. Qf2
-Qd1+ 35. Kh2 Bd6 36. Qb2+ f6 37. e5 fxe5 38. fxe5 Be7 39. Qf2 Qd5 40. Bd4 Bf5
-41. Na4 c5 42. Nxc5 Bxc5 43. Bxc5 Qxe5+ 44. Kg1 Qa1+ 45. Kh2 Qe5+ 1/2-1/2
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8.
+O-O dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. Rd1 Qc7 12. Bd2 a5 13. Rac1 Rac8 14. e4
+e5 15. h3 exd4 16. Nxd4 Nc5 17. Nf5 b4 18. Na4 Nxd3 19. Qxd3 Bh2+ 20. Kh1
+Rcd8 21. Qf3 Be5 22. Be3 g6 23. Rxd8 Qxd8 24. Rd1 Qc7 25. Nh6+ Kg7 26. Ng4
+Nxg4 27. Qxg4 Rd8 28. b3 Bc8 29. Qf3 Qe7 30. Nc5 h5 31. Qe2 Qh4 32. Rxd8
+Qxd8 33. f4 Bc7 34. Qf2 Qd1+ 35. Kh2 Bd6 36. Qb2+ f6 37. e5 fxe5 38. fxe5
+Be7 39. Qf2 Qd5 40. Bd4 Bf5 41. Na4 c5 42. Nxc5 Bxc5 43. Bxc5 Qxe5+ 44. Kg1
+Qa1+ 45. Kh2 Qe5+ 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -634,11 +640,12 @@ Qd1+ 35. Kh2 Bd6 36. Qb2+ f6 37. e5 fxe5 38. fxe5 Be7 39. Qf2 Qd5 40. Bd4 Bf5
 [White "Nepomniachtchi, Ian"]
 [Black "Tomashevsky, Evgeny"]
 [Result "1-0"]
-[ECO "C45"]
 [WhiteElo "2720"]
 [BlackElo "2699"]
-[PlyCount "101"]
+[ECO "C45"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "101"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -649,16 +656,16 @@ Qd1+ 35. Kh2 Bd6 36. Qb2+ f6 37. e5 fxe5 38. fxe5 Be7 39. Qf2 Qd5 40. Bd4 Bf5
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 bxc6 7. Nc3 d6 8.
-Qg3 Qg6 9. Bd2 Ne7 10. f3 Qxg3+ 11. hxg3 Be6 12. O-O-O f6 13. g4 Ng6 14. Na4
-Bf2 15. Ba6 Ne5 16. b3 Rb8 17. Rhf1 Bb6 18. g5 fxg5 19. Bxg5 O-O 20. Be2 Nd7
-21. Nxb6 axb6 22. Kb2 Nf6 23. Rh1 h6 24. Bd2 b5 25. a3 c5 26. Rh4 c4 27. Bc3
-Nd7 28. Rd2 Ne5 29. Bxe5 dxe5 30. Rh5 b4 31. axb4 cxb3 32. Rxe5 Bf7 33. b5 Rfd8
-34. Rxd8+ Rxd8 35. Bd3 Kf8 36. Rc5 Rd7 37. f4 Ke7 38. Kc3 bxc2 39. Bxc2 Kd8 40.
-f5 Rd6 41. g3 Rb6 42. e5 Be8 43. Ba4 Rb7 44. Kd4 Ke7 45. g4 Kd8 46. Kd5 Ke7 47.
-Ke4 Kd8 48. f6 gxf6 49. exf6 Bf7 50. Rc3 Rb6 51. Kf5 1-0
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 bxc6 7. Nc3
+d6 8. Qg3 Qg6 9. Bd2 Ne7 10. f3 Qxg3+ 11. hxg3 Be6 12. O-O-O f6 13. g4 Ng6
+14. Na4 Bf2 15. Ba6 Ne5 16. b3 Rb8 17. Rhf1 Bb6 18. g5 fxg5 19. Bxg5 O-O
+20. Be2 Nd7 21. Nxb6 axb6 22. Kb2 Nf6 23. Rh1 h6 24. Bd2 b5 25. a3 c5 26.
+Rh4 c4 27. Bc3 Nd7 28. Rd2 Ne5 29. Bxe5 dxe5 30. Rh5 b4 31. axb4 cxb3 32.
+Rxe5 Bf7 33. b5 Rfd8 34. Rxd8+ Rxd8 35. Bd3 Kf8 36. Rc5 Rd7 37. f4 Ke7 38.
+Kc3 bxc2 39. Bxc2 Kd8 40. f5 Rd6 41. g3 Rb6 42. e5 Be8 43. Ba4 Rb7 44. Kd4
+Ke7 45. g4 Kd8 46. Kd5 Ke7 47. Ke4 Kd8 48. f6 gxf6 49. exf6 Bf7 50. Rc3 Rb6
+51. Kf5 1-0
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -667,11 +674,12 @@ Ke4 Kd8 48. f6 gxf6 49. exf6 Bf7 50. Rc3 Rb6 51. Kf5 1-0
 [White "Svidler, Peter"]
 [Black "Karjakin, Sergey"]
 [Result "1/2-1/2"]
-[ECO "C65"]
 [WhiteElo "2722"]
 [BlackElo "2760"]
-[PlyCount "44"]
+[ECO "C65"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "44"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -682,12 +690,11 @@ Ke4 Kd8 48. f6 gxf6 49. exf6 Bf7 50. Rc3 Rb6 51. Kf5 1-0
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. Nbd2 a6 8. Bxc6
-bxc6 9. d4 exd4 10. cxd4 Bb6 11. Qc2 Re8 12. Re1 c5 13. e5 Nd5 14. Nc4 h6 15.
-Bd2 Be6 16. exd6 cxd6 17. Nxb6 Qxb6 18. dxc5 dxc5 19. Ne5 Nb4 20. Qa4 Nd5 21.
-Qc2 Nb4 22. Qa4 Nd5 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. Nbd2 a6 8.
+Bxc6 bxc6 9. d4 exd4 10. cxd4 Bb6 11. Qc2 Re8 12. Re1 c5 13. e5 Nd5 14. Nc4
+h6 15. Bd2 Be6 16. exd6 cxd6 17. Nxb6 Qxb6 18. dxc5 dxc5 19. Ne5 Nb4 20.
+Qa4 Nd5 21. Qc2 Nb4 22. Qa4 Nd5 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -696,11 +703,12 @@ Qc2 Nb4 22. Qa4 Nd5 1/2-1/2
 [White "Vitiugov, Nikita"]
 [Black "Khismatullin, Denis"]
 [Result "1-0"]
-[ECO "E81"]
 [WhiteElo "2709"]
 [BlackElo "2659"]
-[PlyCount "119"]
+[ECO "E81"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "119"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -711,18 +719,17 @@ Qc2 Nb4 22. Qa4 Nd5 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. dxc5 dxc5 8. Qxd8
-Rxd8 9. Bxc5 Nc6 10. Nge2 Nd7 11. Be3 Nde5 12. Nf4 b6 13. Rc1 e6 14. Be2 Ba6
-15. b3 Nb4 16. O-O Ned3 17. Nxd3 Nxd3 18. Rcd1 Nb4 19. Rxd8+ Rxd8 20. Rc1 Bxc3
-21. Rxc3 Nxa2 22. Rc2 Nb4 23. Rc1 Rd7 24. Kf2 Kg7 25. Ra1 Bc8 26. Ra4 Nc2 27.
-Bf4 f6 28. e5 Nd4 29. Bd1 Nc6 30. exf6+ Kxf6 31. Ke1 e5 32. Be3 Nd4 33. h4 Rc7
-34. Ra2 Be6 35. Rd2 Rd7 36. g4 Nc6 37. Rxd7 Bxd7 38. Kd2 h5 39. Kc3 Ke6 40. b4
-Kd6 41. gxh5 gxh5 42. f4 Be8 43. f5 Ne7 44. Bc2 Bf7 45. Be4 Kd7 46. Bg5 Nc6 47.
-Be3 Ne7 48. Bc2 Nc6 49. Bd3 Ne7 50. Be4 Kc7 51. Bf2 Ng8 52. Be3 Ne7 53. Bh6 Kd6
-54. Bf8 Kd7 55. b5 Nc8 56. Bc6+ Kd8 57. f6 Bg6 58. Bb4 Bf7 59. Ba3 Be6 60. Bd5
-1-0
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. dxc5 dxc5 8.
+Qxd8 Rxd8 9. Bxc5 Nc6 10. Nge2 Nd7 11. Be3 Nde5 12. Nf4 b6 13. Rc1 e6 14.
+Be2 Ba6 15. b3 Nb4 16. O-O Ned3 17. Nxd3 Nxd3 18. Rcd1 Nb4 19. Rxd8+ Rxd8
+20. Rc1 Bxc3 21. Rxc3 Nxa2 22. Rc2 Nb4 23. Rc1 Rd7 24. Kf2 Kg7 25. Ra1 Bc8
+26. Ra4 Nc2 27. Bf4 f6 28. e5 Nd4 29. Bd1 Nc6 30. exf6+ Kxf6 31. Ke1 e5 32.
+Be3 Nd4 33. h4 Rc7 34. Ra2 Be6 35. Rd2 Rd7 36. g4 Nc6 37. Rxd7 Bxd7 38. Kd2
+h5 39. Kc3 Ke6 40. b4 Kd6 41. gxh5 gxh5 42. f4 Be8 43. f5 Ne7 44. Bc2 Bf7
+45. Be4 Kd7 46. Bg5 Nc6 47. Be3 Ne7 48. Bc2 Nc6 49. Bd3 Ne7 50. Be4 Kc7 51.
+Bf2 Ng8 52. Be3 Ne7 53. Bh6 Kd6 54. Bf8 Kd7 55. b5 Nc8 56. Bc6+ Kd8 57. f6
+Bg6 58. Bb4 Bf7 59. Ba3 Be6 60. Bd5 1-0
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -731,11 +738,12 @@ Be3 Ne7 48. Bc2 Nc6 49. Bd3 Ne7 50. Be4 Kc7 51. Bf2 Ng8 52. Be3 Ne7 53. Bh6 Kd6
 [White "Zvjaginsev, Vadim"]
 [Black "Malakhov, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "B36"]
 [WhiteElo "2676"]
 [BlackElo "2712"]
-[PlyCount "37"]
+[ECO "B36"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "37"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -746,11 +754,11 @@ Be3 Ne7 48. Bc2 Nc6 49. Bd3 Ne7 50. Be4 Kc7 51. Bf2 Ng8 52. Be3 Ne7 53. Bh6 Kd6
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Be2 Nxd4 8.
-Qxd4 Bg7 9. Bg5 O-O 10. Qd2 Be6 11. Rc1 Qa5 12. f3 Rfc8 13. b3 a6 14. Na4 Qxd2+
-15. Kxd2 Rc6 16. Nc3 Rcc8 17. Na4 Rc6 18. Nc3 Rcc8 19. Na4 1/2-1/2
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Be2 Nxd4
+8. Qxd4 Bg7 9. Bg5 O-O 10. Qd2 Be6 11. Rc1 Qa5 12. f3 Rfc8 13. b3 a6 14.
+Na4 Qxd2+ 15. Kxd2 Rc6 16. Nc3 Rcc8 17. Na4 Rc6 18. Nc3 Rcc8 19. Na4
+1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -759,11 +767,12 @@ Qxd4 Bg7 9. Bg5 O-O 10. Qd2 Be6 11. Rc1 Qa5 12. f3 Rfc8 13. b3 a6 14. Na4 Qxd2+
 [White "Karjakin, Sergey"]
 [Black "Grischuk, Alexander"]
 [Result "1/2-1/2"]
-[ECO "B80"]
 [WhiteElo "2760"]
 [BlackElo "2771"]
-[PlyCount "29"]
+[ECO "B80"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "29"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -774,11 +783,10 @@ Qxd4 Bg7 9. Bg5 O-O 10. Qd2 Be6 11. Rc1 Qa5 12. f3 Rfc8 13. b3 a6 14. Na4 Qxd2+
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 b5 8. Qd2
-Bb7 9. a4 bxa4 10. Rxa4 Nbd7 11. Nb3 Qc7 12. Rc4 Qb8 13. Ra4 Qc7 14. Rc4 Qb8
-15. Ra4 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 b5 8.
+Qd2 Bb7 9. a4 bxa4 10. Rxa4 Nbd7 11. Nb3 Qc7 12. Rc4 Qb8 13. Ra4 Qc7 14.
+Rc4 Qb8 15. Ra4 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -787,11 +795,12 @@ Bb7 9. a4 bxa4 10. Rxa4 Nbd7 11. Nb3 Qc7 12. Rc4 Qb8 13. Ra4 Qc7 14. Rc4 Qb8
 [White "Khismatullin, Denis"]
 [Black "Jakovenko, Dmitrij"]
 [Result "1/2-1/2"]
-[ECO "D45"]
 [WhiteElo "2659"]
 [BlackElo "2726"]
-[PlyCount "51"]
+[ECO "D45"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "51"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -802,13 +811,12 @@ Bb7 9. a4 bxa4 10. Rxa4 Nbd7 11. Nb3 Qc7 12. Rc4 Qb8 13. Ra4 Qc7 14. Rc4 Qb8
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
 1. Nf3 Nf6 2. d4 d5 3. c4 e6 4. Nc3 c6 5. e3 a6 6. b3 Bb4 7. Bd2 O-O 8. Bd3
-Nbd7 9. O-O Bd6 10. Rc1 e5 11. cxd5 cxd5 12. dxe5 Nxe5 13. Nxe5 Bxe5 14. Ne2
-Ne4 15. Bxe4 dxe4 16. Bc3 Bg4 17. Bxe5 Qxd1 18. Rfxd1 Bxe2 19. Rd7 Rac8 20.
-Rdc7 Rxc7 21. Rxc7 f6 22. Bd4 Rf7 23. Rc8+ Rf8 24. Rc7 Rf7 25. Rc8+ Rf8 26. Rc7
-1/2-1/2
+Nbd7 9. O-O Bd6 10. Rc1 e5 11. cxd5 cxd5 12. dxe5 Nxe5 13. Nxe5 Bxe5 14.
+Ne2 Ne4 15. Bxe4 dxe4 16. Bc3 Bg4 17. Bxe5 Qxd1 18. Rfxd1 Bxe2 19. Rd7 Rac8
+20. Rdc7 Rxc7 21. Rxc7 f6 22. Bd4 Rf7 23. Rc8+ Rf8 24. Rc7 Rf7 25. Rc8+ Rf8
+26. Rc7 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -817,11 +825,12 @@ Rdc7 Rxc7 21. Rxc7 f6 22. Bd4 Rf7 23. Rc8+ Rf8 24. Rc7 Rf7 25. Rc8+ Rf8 26. Rc7
 [White "Kurnosov, Igor"]
 [Black "Vitiugov, Nikita"]
 [Result "1/2-1/2"]
-[ECO "C18"]
 [WhiteElo "2676"]
 [BlackElo "2709"]
-[PlyCount "76"]
+[ECO "C18"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "76"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -832,14 +841,14 @@ Rdc7 Rxc7 21. Rxc7 f6 22. Bd4 Rf7 23. Rc8+ Rf8 24. Rc7 Rf7 25. Rc8+ Rf8 26. Rc7
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. h4 Nbc6 8. h5
-Qa5 9. Bd2 Qa4 10. Nf3 cxd4 11. Bd3 dxc3 12. Bxc3 Nf5 13. h6 gxh6 14. Bxf5 exf5
-15. e6 Qe4+ 16. Kf1 Qc4+ 17. Qd3 Qxd3+ 18. cxd3 O-O 19. exf7+ Rxf7 20. Rxh6 d4
-21. Bxd4 Nxd4 22. Nxd4 b6 23. Rd6 Ba6 24. Ke2 Re8+ 25. Kd2 f4 26. a4 Rg7 27. a5
-Bc8 28. axb6 axb6 29. Rg1 Bh3 30. g3 fxg3 31. Rxg3 Rxg3 32. fxg3 Rb8 33. Rd5
-Rb7 34. Ke3 Rd7 35. Rb5 Re7+ 36. Kf4 Bf1 37. Rxb6 Bxd3 38. Nf5 Bxf5 1/2-1/2
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. h4 Nbc6 8.
+h5 Qa5 9. Bd2 Qa4 10. Nf3 cxd4 11. Bd3 dxc3 12. Bxc3 Nf5 13. h6 gxh6 14.
+Bxf5 exf5 15. e6 Qe4+ 16. Kf1 Qc4+ 17. Qd3 Qxd3+ 18. cxd3 O-O 19. exf7+
+Rxf7 20. Rxh6 d4 21. Bxd4 Nxd4 22. Nxd4 b6 23. Rd6 Ba6 24. Ke2 Re8+ 25. Kd2
+f4 26. a4 Rg7 27. a5 Bc8 28. axb6 axb6 29. Rg1 Bh3 30. g3 fxg3 31. Rxg3
+Rxg3 32. fxg3 Rb8 33. Rd5 Rb7 34. Ke3 Rd7 35. Rb5 Re7+ 36. Kf4 Bf1 37. Rxb6
+Bxd3 38. Nf5 Bxf5 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -848,11 +857,12 @@ Rb7 34. Ke3 Rd7 35. Rb5 Re7+ 36. Kf4 Bf1 37. Rxb6 Bxd3 38. Nf5 Bxf5 1/2-1/2
 [White "Malakhov, Vladimir"]
 [Black "Nepomniachtchi, Ian"]
 [Result "1/2-1/2"]
-[ECO "B53"]
 [WhiteElo "2712"]
 [BlackElo "2720"]
-[PlyCount "215"]
+[ECO "B53"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "215"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -863,25 +873,25 @@ Rb7 34. Ke3 Rd7 35. Rb5 Re7+ 36. Kf4 Bf1 37. Rxb6 Bxd3 38. Nf5 Bxf5 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Qd3 g6 7. O-O Bg7 8. c4
-Nf6 9. Nc3 O-O 10. h3 a6 11. Bxc6 Bxc6 12. Be3 Nd7 13. Nd4 Rc8 14. Rac1 Nc5 15.
-Qc2 Ne6 16. Rfd1 Nxd4 17. Bxd4 Bh6 18. Rb1 b5 19. cxb5 axb5 20. Qe2 Qd7 21. b4
-Qb7 22. a4 bxa4 23. b5 Bd7 24. Nxa4 Bg7 25. Bxg7 Kxg7 26. e5 Bf5 27. Rbc1 Qa7
-28. Nc3 Qa3 29. exd6 exd6 30. Qd2 Qb4 31. Qxd6 Qxd6 32. Rxd6 Rc5 33. Rc6 Rc8
-34. Rxc8 Rxc8 35. Ne2 Rb8 36. Nd4 Bd7 37. Kh2 Rb6 38. Kg3 Kf8 39. Rb1 Ke7 40.
-Kf4 Kd6 41. Kg5 h5 42. Nf3 Ke7 43. Nd4 Kd6 44. h4 Kc5 45. Nc6 Be6 46. f3 Bc4
-47. Nd8 Rb8 48. Nc6 Rb6 49. Kh6 Bxb5 50. Nd8 Rf6 51. Kg7 Rf4 52. Nxf7 Rxh4 53.
-Kxg6 Rh2 54. Rg1 Kd4 55. Ng5 Ke3 56. Nh3 Bd7 57. Kg5 Bc6 58. Nf4 Bxf3 59. gxf3
-Kxf3 60. Ra1 h4 61. Kf5 Ke3 62. Ra3+ Kd4 63. Rf3 Rh1 64. Nh3 Re1 65. Kg4 Re4+
-66. Nf4 Re3 67. Rf1 Ke4 68. Nh3 Rg3+ 69. Kxh4 Rg2 70. Nf2+ Kd4 71. Ng4 Ra2 72.
-Kg5 Ra8 73. Kf5 Rf8+ 74. Nf6 Rh8 75. Rd1+ Ke3 76. Ng4+ Ke2 77. Rd7 Re8 78. Ra7
-Rb8 79. Ra4 Re8 80. Ne5 Rf8+ 81. Ke4 Re8 82. Ra2+ Kf1 83. Rb2 Rf8 84. Nd3 Re8+
-85. Ne5 Rf8 86. Nd7 Rf7 87. Nc5 Rf8 88. Ke3 Ra8 89. Rf2+ Kg1 90. Ne4 Ra3+ 91.
-Kf4 Ra8 92. Rb2 Rf8+ 93. Ke3 Ra8 94. Rc2 Ra3+ 95. Nc3 Ra8 96. Nd5 Kf1 97. Nc3
-Kg1 98. Ne4 Ra3+ 99. Kf4 Ra8 100. Nd6 Rf8+ 101. Ke3 Kf1 102. Ne4 Ra8 103. Ng3+
-Kg1 104. Nf5 Rf8 105. Ke4 Kf1 106. Ne3+ Ke1 107. Ng2+ Kd1 108. Ne3+ 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Qd3 g6 7. O-O Bg7
+8. c4 Nf6 9. Nc3 O-O 10. h3 a6 11. Bxc6 Bxc6 12. Be3 Nd7 13. Nd4 Rc8 14.
+Rac1 Nc5 15. Qc2 Ne6 16. Rfd1 Nxd4 17. Bxd4 Bh6 18. Rb1 b5 19. cxb5 axb5
+20. Qe2 Qd7 21. b4 Qb7 22. a4 bxa4 23. b5 Bd7 24. Nxa4 Bg7 25. Bxg7 Kxg7
+26. e5 Bf5 27. Rbc1 Qa7 28. Nc3 Qa3 29. exd6 exd6 30. Qd2 Qb4 31. Qxd6 Qxd6
+32. Rxd6 Rc5 33. Rc6 Rc8 34. Rxc8 Rxc8 35. Ne2 Rb8 36. Nd4 Bd7 37. Kh2 Rb6
+38. Kg3 Kf8 39. Rb1 Ke7 40. Kf4 Kd6 41. Kg5 h5 42. Nf3 Ke7 43. Nd4 Kd6 44.
+h4 Kc5 45. Nc6 Be6 46. f3 Bc4 47. Nd8 Rb8 48. Nc6 Rb6 49. Kh6 Bxb5 50. Nd8
+Rf6 51. Kg7 Rf4 52. Nxf7 Rxh4 53. Kxg6 Rh2 54. Rg1 Kd4 55. Ng5 Ke3 56. Nh3
+Bd7 57. Kg5 Bc6 58. Nf4 Bxf3 59. gxf3 Kxf3 60. Ra1 h4 61. Kf5 Ke3 62. Ra3+
+Kd4 63. Rf3 Rh1 64. Nh3 Re1 65. Kg4 Re4+ 66. Nf4 Re3 67. Rf1 Ke4 68. Nh3
+Rg3+ 69. Kxh4 Rg2 70. Nf2+ Kd4 71. Ng4 Ra2 72. Kg5 Ra8 73. Kf5 Rf8+ 74. Nf6
+Rh8 75. Rd1+ Ke3 76. Ng4+ Ke2 77. Rd7 Re8 78. Ra7 Rb8 79. Ra4 Re8 80. Ne5
+Rf8+ 81. Ke4 Re8 82. Ra2+ Kf1 83. Rb2 Rf8 84. Nd3 Re8+ 85. Ne5 Rf8 86. Nd7
+Rf7 87. Nc5 Rf8 88. Ke3 Ra8 89. Rf2+ Kg1 90. Ne4 Ra3+ 91. Kf4 Ra8 92. Rb2
+Rf8+ 93. Ke3 Ra8 94. Rc2 Ra3+ 95. Nc3 Ra8 96. Nd5 Kf1 97. Nc3 Kg1 98. Ne4
+Ra3+ 99. Kf4 Ra8 100. Nd6 Rf8+ 101. Ke3 Kf1 102. Ne4 Ra8 103. Ng3+ Kg1 104.
+Nf5 Rf8 105. Ke4 Kf1 106. Ne3+ Ke1 107. Ng2+ Kd1 108. Ne3+ 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -890,11 +900,12 @@ Kg1 104. Nf5 Rf8 105. Ke4 Kf1 106. Ne3+ Ke1 107. Ng2+ Kd1 108. Ne3+ 1/2-1/2
 [White "Potkin, Vladimir"]
 [Black "Zvjaginsev, Vadim"]
 [Result "1/2-1/2"]
-[ECO "D37"]
 [WhiteElo "2646"]
 [BlackElo "2676"]
-[PlyCount "75"]
+[ECO "D37"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "75"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -905,14 +916,14 @@ Kg1 104. Nf5 Rf8 105. Ke4 Kf1 106. Ne3+ Ke1 107. Ng2+ Kd1 108. Ne3+ 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8.
 cxd5 exd5 9. Be2 Nc6 10. O-O Be6 11. Rc1 Rc8 12. a3 a6 13. Ne5 Bd6 14. Nxc6
-Rxc6 15. Qd4 Bc5 16. Qd3 Bd6 17. Bxd6 Qxd6 18. Bf3 Qe5 19. Rcd1 Rb6 20. Na4 Rc6
-21. Nc3 Rb6 22. Qe2 Ne4 23. Bxe4 dxe4 24. Rd4 f5 25. Rfd1 Bb3 26. R1d2 Rh6 27.
-h3 b5 28. Rd8 Rhf6 29. Qh5 h6 30. R2d4 Rxd8 31. Rxd8+ Kh7 32. Qe8 Qxe8 33. Rxe8
-Rd6 34. g4 fxg4 35. hxg4 Rd2 36. Ra8 Bc4 37. b3 Bd3 38. Re8 1/2-1/2
+Rxc6 15. Qd4 Bc5 16. Qd3 Bd6 17. Bxd6 Qxd6 18. Bf3 Qe5 19. Rcd1 Rb6 20. Na4
+Rc6 21. Nc3 Rb6 22. Qe2 Ne4 23. Bxe4 dxe4 24. Rd4 f5 25. Rfd1 Bb3 26. R1d2
+Rh6 27. h3 b5 28. Rd8 Rf6 29. Qh5 h6 30. R2d4 Rxd8 31. Rxd8+ Kh7 32. Qe8
+Qxe8 33. Rxe8 Rd6 34. g4 fxg4 35. hxg4 Rd2 36. Ra8 Bc4 37. b3 Bd3 38. Re8
+1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -921,11 +932,12 @@ Rd6 34. g4 fxg4 35. hxg4 Rd2 36. Ra8 Bc4 37. b3 Bd3 38. Re8 1/2-1/2
 [White "Tomashevsky, Evgeny"]
 [Black "Svidler, Peter"]
 [Result "1/2-1/2"]
-[ECO "D93"]
 [WhiteElo "2699"]
 [BlackElo "2722"]
-[PlyCount "53"]
+[ECO "D93"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "53"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -936,13 +948,12 @@ Rd6 34. g4 fxg4 35. hxg4 Rd2 36. Ra8 Bc4 37. b3 Bd3 38. Re8 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 dxc4 8.
-Bxc4 O-O 9. Nf3 Qxc5 10. Bb3 Nc6 11. O-O Qa5 12. h3 Bf5 13. Qe2 Ne4 14. g4 Nxc3
-15. bxc3 Bd7 16. Rfd1 Rad8 17. Rd5 Qa3 18. Rcd1 Be6 19. Rxd8 Nxd8 20. Qb5 a6
-21. Qb6 Bxb3 22. axb3 Ne6 23. Be5 Bxe5 24. Nxe5 Qc5 25. Qxc5 Nxc5 26. b4 Ne4
-27. Rd7 1/2-1/2
+Bxc4 O-O 9. Nf3 Qxc5 10. Bb3 Nc6 11. O-O Qa5 12. h3 Bf5 13. Qe2 Ne4 14. g4
+Nxc3 15. bxc3 Bd7 16. Rfd1 Rad8 17. Rd5 Qa3 18. Rcd1 Be6 19. Rxd8 Nxd8 20.
+Qb5 a6 21. Qb6 Bxb3 22. axb3 Ne6 23. Be5 Bxe5 24. Nxe5 Qc5 25. Qxc5 Nxc5
+26. b4 Ne4 27. Rd7 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -951,11 +962,12 @@ Bxc4 O-O 9. Nf3 Qxc5 10. Bb3 Nc6 11. O-O Qa5 12. h3 Bf5 13. Qe2 Ne4 14. g4 Nxc3
 [White "Grischuk, Alexander"]
 [Black "Tomashevsky, Evgeny"]
 [Result "1/2-1/2"]
-[ECO "C89"]
 [WhiteElo "2771"]
 [BlackElo "2699"]
-[PlyCount "47"]
+[ECO "C89"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "47"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -966,12 +978,11 @@ Bxc4 O-O 9. Nf3 Qxc5 10. Bb3 Nc6 11. O-O Qa5 12. h3 Bf5 13. Qe2 Ne4 14. g4 Nxc3
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
-d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15.
-Qf3 Bg4 16. Qg2 Qh5 17. Be3 Rae8 18. Nd2 Re7 19. Bxd5 cxd5 20. Bf4 Bh3 21. Qf3
-Bg4 22. Qg2 Bh3 23. Qf3 Bg4 24. Qg2 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3
+Qh3 15. Qf3 Bg4 16. Qg2 Qh5 17. Be3 Rae8 18. Nd2 Re7 19. Bxd5 cxd5 20. Bf4
+Bh3 21. Qf3 Bg4 22. Qg2 Bh3 23. Qf3 Bg4 24. Qg2 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -980,11 +991,12 @@ Bg4 22. Qg2 Bh3 23. Qf3 Bg4 24. Qg2 1/2-1/2
 [White "Jakovenko, Dmitrij"]
 [Black "Zvjaginsev, Vadim"]
 [Result "1/2-1/2"]
-[ECO "B09"]
 [WhiteElo "2726"]
 [BlackElo "2676"]
-[PlyCount "60"]
+[ECO "B09"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "60"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -995,13 +1007,12 @@ Bg4 22. Qg2 Bh3 23. Qf3 Bg4 24. Qg2 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8. d5
-Bg4 9. Bc4 Nc7 10. Qd3 a6 11. a4 Bxf3 12. Rxf3 Ng4 13. Ne2 b5 14. axb5 axb5 15.
-Rxa8 Qxa8 16. Bxb5 f5 17. Bc4 fxe4 18. Qxe4 e6 19. Ra3 Qb7 20. h3 Nf6 21. Qf3
-exd5 22. Nc3 Kh8 23. Kh2 g5 24. Nxd5 Nfxd5 25. Rd3 gxf4 26. Bxd5 Nxd5 27. Qxd5
-Qxd5 28. Rxd5 Be5 29. Kg1 f3 30. Be3 fxg2 1/2-1/2
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Na6 7. O-O c5 8.
+d5 Bg4 9. Bc4 Nc7 10. Qd3 a6 11. a4 Bxf3 12. Rxf3 Ng4 13. Ne2 b5 14. axb5
+axb5 15. Rxa8 Qxa8 16. Bxb5 f5 17. Bc4 fxe4 18. Qxe4 e6 19. Ra3 Qb7 20. h3
+Nf6 21. Qf3 exd5 22. Nc3 Kh8 23. Kh2 g5 24. Nxd5 Nfxd5 25. Rd3 gxf4 26.
+Bxd5 Nxd5 27. Qxd5 Qxd5 28. Rxd5 Be5 29. Kg1 f3 30. Be3 fxg2 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1010,11 +1021,12 @@ Qxd5 28. Rxd5 Be5 29. Kg1 f3 30. Be3 fxg2 1/2-1/2
 [White "Khismatullin, Denis"]
 [Black "Kurnosov, Igor"]
 [Result "1/2-1/2"]
-[ECO "D70"]
 [WhiteElo "2659"]
 [BlackElo "2676"]
-[PlyCount "84"]
+[ECO "D70"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "84"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1025,15 +1037,14 @@ Qxd5 28. Rxd5 Be5 29. Kg1 f3 30. Be3 fxg2 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
-Nc6 9. O-O-O f5 10. e5 Nb4 11. a3 N4d5 12. Nh3 Nxc3 13. bxc3 Be6 14. Qc2 Nc4
-15. Bg5 b5 16. d5 Bxd5 17. Bxc4 bxc4 18. Nf4 c6 19. Ne6 Qa5 20. Nxg7 Qxa3+ 21.
-Kd2 Rfd8 22. Ke2 Kxg7 23. Ra1 Qb3 24. Qc1 Rdb8 25. Rd1 Qb2+ 26. Qxb2 Rxb2+ 27.
-Rd2 Rb7 28. Rda2 Kf7 29. Ke3 Rd7 30. h4 Be6 31. Kf2 Rc7 32. Be3 c5 33. Ra5 Bd7
-34. Kg3 Ke8 35. Kf4 Kf7 36. Kg3 Ke8 37. Kf4 Kf7 38. Kg3 Bc8 39. R1a4 Be6 40.
-Ra1 Ke8 41. Kf4 Kf7 42. Kg5 Kg7 1/2-1/2
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8.
+Qd2 Nc6 9. O-O-O f5 10. e5 Nb4 11. a3 N4d5 12. Nh3 Nxc3 13. bxc3 Be6 14.
+Qc2 Nc4 15. Bg5 b5 16. d5 Bxd5 17. Bxc4 bxc4 18. Nf4 c6 19. Ne6 Qa5 20.
+Nxg7 Qxa3+ 21. Kd2 Rfd8 22. Ke2 Kxg7 23. Ra1 Qb3 24. Qc1 Rdb8 25. Rd1 Qb2+
+26. Qxb2 Rxb2+ 27. Rd2 Rb7 28. Rda2 Kf7 29. Ke3 Rd7 30. h4 Be6 31. Kf2 Rc7
+32. Be3 c5 33. Ra5 Bd7 34. Kg3 Ke8 35. Kf4 Kf7 36. Kg3 Ke8 37. Kf4 Kf7 38.
+Kg3 Bc8 39. R1a4 Be6 40. Ra1 Ke8 41. Kf4 Kf7 42. Kg5 Kg7 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1042,11 +1053,12 @@ Ra1 Ke8 41. Kf4 Kf7 42. Kg5 Kg7 1/2-1/2
 [White "Nepomniachtchi, Ian"]
 [Black "Potkin, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "B83"]
 [WhiteElo "2720"]
 [BlackElo "2646"]
-[PlyCount "44"]
+[ECO "B83"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "44"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1057,12 +1069,11 @@ Ra1 Ke8 41. Kf4 Kf7 42. Kg5 Kg7 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 Nf6 7. Be2 Be7 8.
-O-O O-O 9. f4 d6 10. Qe1 Nxd4 11. Bxd4 e5 12. fxe5 dxe5 13. Qg3 Bc5 14. Bxc5
-Qxc5+ 15. Kh1 Kh8 16. Rxf6 gxf6 17. Qh4 Rg8 18. Qxf6+ Rg7 19. Rd1 Be6 20. Rd8+
-Rxd8 21. Qxd8+ Rg8 22. Qf6+ Rg7 1/2-1/2
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 Nf6 7. Be2 Be7
+8. O-O O-O 9. f4 d6 10. Qe1 Nxd4 11. Bxd4 e5 12. fxe5 dxe5 13. Qg3 Bc5 14.
+Bxc5 Qxc5+ 15. Kh1 Kh8 16. Rxf6 gxf6 17. Qh4 Rg8 18. Qxf6+ Rg7 19. Rd1 Be6
+20. Rd8+ Rxd8 21. Qxd8+ Rg8 22. Qf6+ Rg7 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1071,11 +1082,12 @@ Rxd8 21. Qxd8+ Rg8 22. Qf6+ Rg7 1/2-1/2
 [White "Svidler, Peter"]
 [Black "Malakhov, Vladimir"]
 [Result "1-0"]
-[ECO "C67"]
 [WhiteElo "2722"]
 [BlackElo "2712"]
-[PlyCount "81"]
+[ECO "C67"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "81"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1086,15 +1098,14 @@ Rxd8 21. Qxd8+ Rg8 22. Qf6+ Rg7 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6 bxc6 8.
-dxe5 Nb7 9. c4 O-O 10. Nc3 f6 11. Re1 fxe5 12. Qxe5 Bf6 13. Qh5 g6 14. Qh6 Bg7
-15. Qh3 d6 16. Qg3 Qd7 17. h3 Nc5 18. Qh4 Ne6 19. Ng5 Nxg5 20. Bxg5 Rf7 21. Ne4
-Bb7 22. c5 Raf8 23. cxd6 cxd6 24. Rad1 c5 25. Nxd6 Rxf2 26. Qxf2 Rxf2 27. Kxf2
-Bf8 28. Re8 Qg7 29. Kg1 Bc6 30. Rc8 h6 31. Rxc6 hxg5 32. Ne4 Qe5 33. Nf6+ Kh8
-34. Ng4 Qe8 35. Rc7 Bg7 36. Rxc5 Qb8 37. Kh1 Qxb2 38. Rc8+ Kh7 39. Rd7 Qb1+ 40.
-Kh2 Qb6 41. Rf8 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6
+bxc6 8. dxe5 Nb7 9. c4 O-O 10. Nc3 f6 11. Re1 fxe5 12. Qxe5 Bf6 13. Qh5 g6
+14. Qh6 Bg7 15. Qh3 d6 16. Qg3 Qd7 17. h3 Nc5 18. Qh4 Ne6 19. Ng5 Nxg5 20.
+Bxg5 Rf7 21. Ne4 Bb7 22. c5 Raf8 23. cxd6 cxd6 24. Rad1 c5 25. Nxd6 Rxf2
+26. Qxf2 Rxf2 27. Kxf2 Bf8 28. Re8 Qg7 29. Kg1 Bc6 30. Rc8 h6 31. Rxc6 hxg5
+32. Ne4 Qe5 33. Nf6+ Kh8 34. Ng4 Qe8 35. Rc7 Bg7 36. Rxc5 Qb8 37. Kh1 Qxb2
+38. Rc8+ Kh7 39. Rd7 Qb1+ 40. Kh2 Qb6 41. Rf8 1-0
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1103,11 +1114,12 @@ Kh2 Qb6 41. Rf8 1-0
 [White "Vitiugov, Nikita"]
 [Black "Karjakin, Sergey"]
 [Result "1/2-1/2"]
-[ECO "A45"]
 [WhiteElo "2709"]
 [BlackElo "2760"]
-[PlyCount "73"]
+[ECO "A45"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "73"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1118,14 +1130,13 @@ Kh2 Qb6 41. Rf8 1-0
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. e3 c5 5. Bd3 cxd4 6. exd4 Nc6 7. c3 Bf5 8.
-Ne2 e6 9. f3 Nd6 10. Bxd6 Bxd6 11. Bxf5 exf5 12. f4 O-O 13. O-O Re8 14. Nd2 Qc7
-15. g3 Na5 16. Rf2 Nc4 17. Nxc4 dxc4 18. Kf1 Re4 19. Ng1 Rae8 20. Nf3 Qc6 21.
-Kg1 b5 22. Qf1 Re3 23. a4 a6 24. axb5 axb5 25. Rd1 h5 26. Qg2 Qe4 27. Ng5 Re1+
-28. Rxe1 Qxg2+ 29. Kxg2 Rxe1 30. Nf3 Rb1 31. Rd2 g6 32. d5 Ra1 33. Nd4 Ra5 34.
-Nc6 Ra2 35. Nd4 Ra5 36. Nc6 Ra2 37. Nd4 1/2-1/2
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. e3 c5 5. Bd3 cxd4 6. exd4 Nc6 7. c3 Bf5
+8. Ne2 e6 9. f3 Nd6 10. Bxd6 Bxd6 11. Bxf5 exf5 12. f4 O-O 13. O-O Re8 14.
+Nd2 Qc7 15. g3 Na5 16. Rf2 Nc4 17. Nxc4 dxc4 18. Kf1 Re4 19. Ng1 Rae8 20.
+Nf3 Qc6 21. Kg1 b5 22. Qf1 Re3 23. a4 a6 24. axb5 axb5 25. Rd1 h5 26. Qg2
+Qe4 27. Ng5 Re1+ 28. Rxe1 Qxg2+ 29. Kxg2 Rxe1 30. Nf3 Rb1 31. Rd2 g6 32. d5
+Ra1 33. Nd4 Ra5 34. Nc6 Ra2 35. Nd4 Ra5 36. Nc6 Ra2 37. Nd4 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1134,11 +1145,12 @@ Nc6 Ra2 35. Nd4 Ra5 36. Nc6 Ra2 37. Nd4 1/2-1/2
 [White "Karjakin, Sergey"]
 [Black "Khismatullin, Denis"]
 [Result "1/2-1/2"]
-[ECO "C41"]
 [WhiteElo "2760"]
 [BlackElo "2659"]
-[PlyCount "75"]
+[ECO "C41"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "75"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1149,14 +1161,14 @@ Nc6 Ra2 35. Nd4 Ra5 36. Nc6 Ra2 37. Nd4 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 c6 8. Re1
-exd4 9. Nxd4 Ne5 10. Be2 Re8 11. f4 Ng6 12. a5 Bf8 13. Qd3 Bd7 14. Bd2 c5 15.
-Nf3 Bc6 16. Bf1 b5 17. axb6 axb6 18. Rad1 b5 19. Nd5 Bxd5 20. exd5 Rxe1 21.
-Rxe1 c4 22. Qd4 Ne7 23. h3 Ra2 24. g4 Nfxd5 25. f5 Nc7 26. Bg5 h6 27. Bh4 Ne8
-28. b3 d5 29. bxc4 bxc4 30. Bxc4 Rxc2 31. Bxd5 Qxd5 32. Qxd5 Nxd5 33. Rxe8 f6
-34. Nd4 Rc1+ 35. Kh2 Kf7 36. Rd8 Nb6 37. Bg3 Rd1 38. Ne6 1/2-1/2
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 c6 8.
+Re1 exd4 9. Nxd4 Ne5 10. Be2 Re8 11. f4 Ng6 12. a5 Bf8 13. Qd3 Bd7 14. Bd2
+c5 15. Nf3 Bc6 16. Bf1 b5 17. axb6 axb6 18. Rad1 b5 19. Nd5 Bxd5 20. exd5
+Rxe1 21. Rxe1 c4 22. Qd4 Ne7 23. h3 Ra2 24. g4 Nfxd5 25. f5 Nc7 26. Bg5 h6
+27. Bh4 Ne8 28. b3 d5 29. bxc4 bxc4 30. Bxc4 Rxc2 31. Bxd5 Qxd5 32. Qxd5
+Nxd5 33. Rxe8 f6 34. Nd4 Rc1+ 35. Kh2 Kf7 36. Rd8 Nb6 37. Bg3 Rd1 38. Ne6
+1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1165,11 +1177,12 @@ Rxe1 c4 22. Qd4 Ne7 23. h3 Ra2 24. g4 Nfxd5 25. f5 Nc7 26. Bg5 h6 27. Bh4 Ne8
 [White "Kurnosov, Igor"]
 [Black "Jakovenko, Dmitrij"]
 [Result "1-0"]
-[ECO "C84"]
 [WhiteElo "2676"]
 [BlackElo "2726"]
-[PlyCount "71"]
+[ECO "C84"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "71"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1180,14 +1193,13 @@ Rxe1 c4 22. Qd4 Ne7 23. h3 Ra2 24. g4 Nfxd5 25. f5 Nc7 26. Bg5 h6 27. Bh4 Ne8
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Be7 6. c3 O-O 7. Re1 a6 8. Ba4
-b5 9. Bc2 d5 10. Bg5 Bg4 11. Nbd2 d4 12. h3 Be6 13. cxd4 exd4 14. Bb3 Qd7 15.
-Rc1 h6 16. Bh4 Rac8 17. e5 Nd5 18. Rxc6 Qxc6 19. Bxd5 Qxd5 20. Bxe7 Rfe8 21.
-Bh4 Qxa2 22. Qc1 Bf5 23. Ne4 Bxe4 24. Rxe4 f5 25. exf6 Rxe4 26. dxe4 d3 27.
-fxg7 Qe6 28. Qe3 c5 29. Qxd3 c4 30. Qe3 b4 31. Nd4 Qb6 32. e5 c3 33. bxc3 b3
-34. Nxb3 Qxe3 35. fxe3 Kxg7 36. e6 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Be7 6. c3 O-O 7. Re1 a6 8.
+Ba4 b5 9. Bc2 d5 10. Bg5 Bg4 11. Nbd2 d4 12. h3 Be6 13. cxd4 exd4 14. Bb3
+Qd7 15. Rc1 h6 16. Bh4 Rac8 17. e5 Nd5 18. Rxc6 Qxc6 19. Bxd5 Qxd5 20. Bxe7
+Rfe8 21. Bh4 Qxa2 22. Qc1 Bf5 23. Ne4 Bxe4 24. Rxe4 f5 25. exf6 Rxe4 26.
+dxe4 d3 27. fxg7 Qe6 28. Qe3 c5 29. Qxd3 c4 30. Qe3 b4 31. Nd4 Qb6 32. e5
+c3 33. bxc3 b3 34. Nxb3 Qxe3 35. fxe3 Kxg7 36. e6 1-0
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1196,11 +1208,12 @@ fxg7 Qe6 28. Qe3 c5 29. Qxd3 c4 30. Qe3 b4 31. Nd4 Qb6 32. e5 c3 33. bxc3 b3
 [White "Malakhov, Vladimir"]
 [Black "Grischuk, Alexander"]
 [Result "0-1"]
-[ECO "E70"]
 [WhiteElo "2712"]
 [BlackElo "2771"]
-[PlyCount "112"]
+[ECO "E70"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "112"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1211,17 +1224,17 @@ fxg7 Qe6 28. Qe3 c5 29. Qxd3 c4 30. Qe3 b4 31. Nd4 Qb6 32. e5 c3 33. bxc3 b3
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Bd3 d6 6. Nge2 c5 7. d5 e6 8. h3
-exd5 9. exd5 Nfd7 10. f4 f5 11. O-O Re8 12. Bd2 Na6 13. Re1 Nf6 14. Ng3 Rxe1+
-15. Bxe1 Bd7 16. a3 Kh8 17. Bf2 Rc8 18. Qb3 Rb8 19. Re1 b6 20. Nf1 Nc7 21. Nd2
-a6 22. a4 Nh5 23. g3 Be8 24. Nf3 h6 25. Qc2 Bf7 26. Qe2 Bf6 27. Qd2 Qd7 28. b3
-Re8 29. Rxe8+ Bxe8 30. Ne2 b5 31. axb5 axb5 32. Qa5 b4 33. Nh2 Ng7 34. g4 Qe7
-35. Nf3 Qd7 36. g5 Bd8 37. gxh6 Nh5 38. Qa7 Kh7 39. Bh4 Bxh4 40. Nxh4 Qe7 41.
-Ng2 Nxd5 42. Qxe7+ Nxe7 43. Kf2 Bc6 44. Ng3 Nxg3 45. Kxg3 Be4 46. Bxe4 fxe4 47.
-Kf2 Nf5 48. Ne3 Nd4 49. Ng4 Nxb3 50. Nf6+ Kxh6 51. Nxe4 Na5 52. Nxd6 b3 53. Ne4
-Nxc4 54. Nc3 Na3 55. Na4 c4 56. Ke3 Nb5 0-1
+exd5 9. exd5 Nfd7 10. f4 f5 11. O-O Re8 12. Bd2 Na6 13. Re1 Nf6 14. Ng3
+Rxe1+ 15. Bxe1 Bd7 16. a3 Kh8 17. Bf2 Rc8 18. Qb3 Rb8 19. Re1 b6 20. Nf1
+Nc7 21. Nd2 a6 22. a4 Nh5 23. g3 Be8 24. Nf3 h6 25. Qc2 Bf7 26. Qe2 Bf6 27.
+Qd2 Qd7 28. b3 Re8 29. Rxe8+ Bxe8 30. Ne2 b5 31. axb5 axb5 32. Qa5 b4 33.
+Nh2 Ng7 34. g4 Qe7 35. Nf3 Qd7 36. g5 Bd8 37. gxh6 Nh5 38. Qa7 Kh7 39. Bh4
+Bxh4 40. Nxh4 Qe7 41. Ng2 Nxd5 42. Qxe7+ Nxe7 43. Kf2 Bc6 44. Ng3 Nxg3 45.
+Kxg3 Be4 46. Bxe4 fxe4 47. Kf2 Nf5 48. Ne3 Nd4 49. Ng4 Nxb3 50. Nf6+ Kxh6
+51. Nxe4 Na5 52. Nxd6 b3 53. Ne4 Nxc4 54. Nc3 Na3 55. Na4 c4 56. Ke3 Nb5
+0-1
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1230,11 +1243,12 @@ Nxc4 54. Nc3 Na3 55. Na4 c4 56. Ke3 Nb5 0-1
 [White "Potkin, Vladimir"]
 [Black "Svidler, Peter"]
 [Result "1/2-1/2"]
+[WhiteElo "2646"]
+[BlackElo "2722"]
 [ECO "D85"]
-[WhiteElo "2646"]
-[BlackElo "2722"]
+[TimeControl "40/5400+30:1800+30"]
+[EventDate "2010.12.10"]
 [PlyCount "83"]
-[EventDate "2010.12.10"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1245,15 +1259,14 @@ Nxc4 54. Nc3 Na3 55. Na4 c4 56. Ke3 Nb5 0-1
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
-Rc1 Qa5 9. Qd2 O-O 10. Nf3 Rd8 11. d5 e6 12. Bg5 f6 13. Be3 Nc6 14. Bd3 exd5
-15. exd5 c4 16. Bxc4 Be6 17. Rd1 Ne7 18. dxe6 Rxd2 19. Rxd2 Qxc3 20. Bb3 Qc1+
-21. Rd1 Qc3+ 22. Ke2 a5 23. Rd7 a4 24. Rc1 Qb2+ 25. Rc2 Qb1 26. Nd2 axb3 27.
-Nxb1 bxc2 28. Nc3 Nf5 29. Bd2 Re8 30. Kd3 b6 31. g4 Nh6 32. h3 Rxe6 33. Kxc2 f5
-34. g5 Nf7 35. Nd5 Ne5 36. Rb7 Nf3 37. Be3 Rd6 38. Nxb6 f4 39. Rb8+ Kf7 40.
-Rb7+ Kg8 41. Rb8+ Kf7 42. Rb7+ 1/2-1/2
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5
+8. Rc1 Qa5 9. Qd2 O-O 10. Nf3 Rd8 11. d5 e6 12. Bg5 f6 13. Be3 Nc6 14. Bd3
+exd5 15. exd5 c4 16. Bxc4 Be6 17. Rd1 Ne7 18. dxe6 Rxd2 19. Rxd2 Qxc3 20.
+Bb3 Qc1+ 21. Rd1 Qc3+ 22. Ke2 a5 23. Rd7 a4 24. Rc1 Qb2+ 25. Rc2 Qb1 26.
+Nd2 axb3 27. Nxb1 bxc2 28. Nc3 Nf5 29. Bd2 Re8 30. Kd3 b6 31. g4 Nh6 32. h3
+Rxe6 33. Kxc2 f5 34. g5 Nf7 35. Nd5 Ne5 36. Rb7 Nf3 37. Be3 Rd6 38. Nxb6 f4
+39. Rb8+ Kf7 40. Rb7+ Kg8 41. Rb8+ Kf7 42. Rb7+ 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1262,11 +1275,12 @@ Rb7+ Kg8 41. Rb8+ Kf7 42. Rb7+ 1/2-1/2
 [White "Tomashevsky, Evgeny"]
 [Black "Vitiugov, Nikita"]
 [Result "1/2-1/2"]
+[WhiteElo "2699"]
+[BlackElo "2709"]
 [ECO "D39"]
-[WhiteElo "2699"]
-[BlackElo "2709"]
-[PlyCount "63"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "63"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1277,13 +1291,13 @@ Rb7+ Kg8 41. Rb8+ Kf7 42. Rb7+ 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 d5 5. Bg5 dxc4 6. e4 c5 7. Bxc4 cxd4 8.
-Nxd4 Qa5 9. Bb5+ Bd7 10. Bxf6 Bxb5 11. Nb3 Qb6 12. Bxg7 Rg8 13. Bd4 Bxc3+ 14.
-Bxc3 Nc6 15. g3 Bc4 16. Rc1 Rd8 17. Qf3 e5 18. Qe3 Qxe3+ 19. fxe3 Bxb3 20. axb3
-Rg4 21. Ke2 Rxe4 22. Kf3 f5 23. Rhd1 Rxd1 24. Rxd1 Ke7 25. h3 h5 26. Rc1 a6 27.
-Be1 Kd6 28. Rd1+ Ke6 29. Rc1 Kd5 30. Rd1+ Ke6 31. Rc1 Kd5 32. Rd1+ 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 d5 5. Bg5 dxc4 6. e4 c5 7. Bxc4 cxd4
+8. Nxd4 Qa5 9. Bb5+ Bd7 10. Bxf6 Bxb5 11. Nb3 Qb6 12. Bxg7 Rg8 13. Bd4
+Bxc3+ 14. Bxc3 Nc6 15. g3 Bc4 16. Rc1 Rd8 17. Qf3 e5 18. Qe3 Qxe3+ 19. fxe3
+Bxb3 20. axb3 Rg4 21. Ke2 Rxe4 22. Kf3 f5 23. Rhd1 Rxd1 24. Rxd1 Ke7 25. h3
+h5 26. Rc1 a6 27. Be1 Kd6 28. Rd1+ Ke6 29. Rc1 Kd5 30. Rd1+ Ke6 31. Rc1 Kd5
+32. Rd1+ 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1292,11 +1306,12 @@ Be1 Kd6 28. Rd1+ Ke6 29. Rc1 Kd5 30. Rd1+ Ke6 31. Rc1 Kd5 32. Rd1+ 1/2-1/2
 [White "Zvjaginsev, Vadim"]
 [Black "Nepomniachtchi, Ian"]
 [Result "0-1"]
+[WhiteElo "2676"]
+[BlackElo "2720"]
 [ECO "B50"]
-[WhiteElo "2676"]
-[BlackElo "2720"]
+[TimeControl "40/5400+30:1800+30"]
+[EventDate "2010.12.10"]
 [PlyCount "136"]
-[EventDate "2010.12.10"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1307,19 +1322,18 @@ Be1 Kd6 28. Rd1+ Ke6 29. Rc1 Kd5 30. Rd1+ Ke6 31. Rc1 Kd5 32. Rd1+ 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. e5 dxe5 5. Nxe5 a6 6. g3 Nbd7 7. Nc4 b5 8. Bg2
-Rb8 9. Ne3 g6 10. O-O Bg7 11. d3 O-O 12. a4 Bb7 13. Bxb7 Rxb7 14. axb5 axb5 15.
-Qf3 Rb8 16. Ned5 Nxd5 17. Qxd5 e6 18. Qe4 Qb6 19. Re1 Rbc8 20. Be3 b4 21. Nd1
-f5 22. Qg2 b3 23. f4 Nf6 24. c3 Rfd8 25. Qe2 Nd5 26. Bf2 Ra8 27. Rxa8 Rxa8 28.
-Qxe6+ Qxe6 29. Rxe6 Ra1 30. Re1 Rb1 31. Kf1 Bf8 32. Ke2 Nb6 33. d4 c4 34. d5
-Nxd5 35. Bd4 Bg7 36. Bxg7 Kxg7 37. Kd2 Kf7 38. Re5 Nf6 39. Ra5 Ne4+ 40. Ke2 Rc1
-41. Ra7+ Ke6 42. Rxh7 Rc2+ 43. Kf1 Nf6 44. Rc7 Ng4 45. h3 Nh2+ 46. Ke1 Nf3+ 47.
-Kf1 Nd2+ 48. Ke1 Ne4 49. Rc6+ Kf7 50. Ne3 Rxb2 51. Nxc4 Rb1+ 52. Ke2 b2 53. Rb6
-Nxc3+ 54. Kf2 Na4 55. Rb7+ Ke6 56. g4 Kd5 57. Nd2 Rd1 58. Ke3 Rh1 59. Rb5+ Kc6
-60. Rb4 Kc5 61. Rc4+ Kb5 62. Rc8 Rxh3+ 63. Kd4 fxg4 64. Rb8+ Nb6 65. Rg8 Rh2
-66. Nb1 Rh1 67. Nc3+ Ka6 68. Rxg6 Rc1 0-1
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. e5 dxe5 5. Nxe5 a6 6. g3 Nbd7 7. Nc4 b5 8.
+Bg2 Rb8 9. Ne3 g6 10. O-O Bg7 11. d3 O-O 12. a4 Bb7 13. Bxb7 Rxb7 14. axb5
+axb5 15. Qf3 Rb8 16. Ned5 Nxd5 17. Qxd5 e6 18. Qe4 Qb6 19. Re1 Rbc8 20. Be3
+b4 21. Nd1 f5 22. Qg2 b3 23. f4 Nf6 24. c3 Rfd8 25. Qe2 Nd5 26. Bf2 Ra8 27.
+Rxa8 Rxa8 28. Qxe6+ Qxe6 29. Rxe6 Ra1 30. Re1 Rb1 31. Kf1 Bf8 32. Ke2 Nb6
+33. d4 c4 34. d5 Nxd5 35. Bd4 Bg7 36. Bxg7 Kxg7 37. Kd2 Kf7 38. Re5 Nf6 39.
+Ra5 Ne4+ 40. Ke2 Rc1 41. Ra7+ Ke6 42. Rxh7 Rc2+ 43. Kf1 Nf6 44. Rc7 Ng4 45.
+h3 Nh2+ 46. Ke1 Nf3+ 47. Kf1 Nd2+ 48. Ke1 Ne4 49. Rc6+ Kf7 50. Ne3 Rxb2 51.
+Nxc4 Rb1+ 52. Ke2 b2 53. Rb6 Nxc3+ 54. Kf2 Na4 55. Rb7+ Ke6 56. g4 Kd5 57.
+Nd2 Rd1 58. Ke3 Rh1 59. Rb5+ Kc6 60. Rb4 Kc5 61. Rc4+ Kb5 62. Rc8 Rxh3+ 63.
+Kd4 fxg4 64. Rb8+ Nb6 65. Rg8 Rh2 66. Nb1 Rh1 67. Nc3+ Ka6 68. Rxg6 Rc1 0-1
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1328,11 +1342,12 @@ Nxc3+ 54. Kf2 Na4 55. Rb7+ Ke6 56. g4 Kd5 57. Nd2 Rd1 58. Ke3 Rh1 59. Rb5+ Kc6
 [White "Grischuk, Alexander"]
 [Black "Potkin, Vladimir"]
 [Result "1/2-1/2"]
+[WhiteElo "2771"]
+[BlackElo "2646"]
 [ECO "A11"]
-[WhiteElo "2771"]
-[BlackElo "2646"]
-[PlyCount "85"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "85"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1343,15 +1358,14 @@ Nxc3+ 54. Kf2 Na4 55. Rb7+ Ke6 56. g4 Kd5 57. Nd2 Rd1 58. Ke3 Rh1 59. Rb5+ Kc6
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. Qc2 g6 5. b3 Bg7 6. Bb2 O-O 7. Be2 Bf5 8. d3
-dxc4 9. Qxc4 Nbd7 10. O-O c5 11. Nbd2 Rc8 12. Rfd1 a6 13. Qc2 b5 14. h3 Qb6 15.
-Rac1 Rfd8 16. Bf1 Nb8 17. a3 h6 18. Ba1 Nfd7 19. Bxg7 Kxg7 20. Ne4 Kg8 21. Nfd2
-Ne5 22. Qc3 Nbd7 23. b4 cxb4 24. Qxb4 Nc6 25. Qb2 Na5 26. d4 Be6 27. Rc3 Bd5
-28. Rdc1 Bb7 29. Qb4 Nc6 30. Qb2 Na5 31. Qb4 Nc6 32. Qb1 Na5 33. Rxc8 Rxc8 34.
-Rxc8+ Bxc8 35. Qb4 Nc6 36. Qc3 Bb7 37. Bd3 a5 38. Nc5 Nxc5 39. dxc5 b4 40. cxb6
-bxc3 41. Nb1 Ne5 42. Bc2 Nc4 43. Nxc3 1/2-1/2
+1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. Qc2 g6 5. b3 Bg7 6. Bb2 O-O 7. Be2 Bf5 8.
+d3 dxc4 9. Qxc4 Nbd7 10. O-O c5 11. Nbd2 Rc8 12. Rfd1 a6 13. Qc2 b5 14. h3
+Qb6 15. Rac1 Rfd8 16. Bf1 Nb8 17. a3 h6 18. Ba1 Nfd7 19. Bxg7 Kxg7 20. Ne4
+Kg8 21. Nfd2 Ne5 22. Qc3 Nbd7 23. b4 cxb4 24. Qxb4 Nc6 25. Qb2 Na5 26. d4
+Be6 27. Rc3 Bd5 28. Rdc1 Bb7 29. Qb4 Nc6 30. Qb2 Na5 31. Qb4 Nc6 32. Qb1
+Na5 33. Rxc8 Rxc8 34. Rxc8+ Bxc8 35. Qb4 Nc6 36. Qc3 Bb7 37. Bd3 a5 38. Nc5
+Nxc5 39. dxc5 b4 40. cxb6 bxc3 41. Nb1 Ne5 42. Bc2 Nc4 43. Nxc3 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1360,11 +1374,12 @@ bxc3 41. Nb1 Ne5 42. Bc2 Nc4 43. Nxc3 1/2-1/2
 [White "Jakovenko, Dmitrij"]
 [Black "Nepomniachtchi, Ian"]
 [Result "1/2-1/2"]
-[ECO "D99"]
 [WhiteElo "2726"]
 [BlackElo "2720"]
-[PlyCount "84"]
+[ECO "D99"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "84"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1375,15 +1390,15 @@ bxc3 41. Nb1 Ne5 42. Bc2 Nc4 43. Nxc3 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qb3 Nb6 6. d4 Bg7 7. e4 O-O 8.
-Be3 Bg4 9. Rd1 Nc6 10. d5 Ne5 11. Be2 Bxf3 12. gxf3 Qc8 13. f4 Ng4 14. Bc5 Re8
-15. h3 Nh6 16. h4 c6 17. h5 cxd5 18. Bxb6 axb6 19. hxg6 hxg6 20. Nxd5 Qc5 21.
-f5 e6 22. fxg6 exd5 23. Rxh6 Rxe4 24. gxf7+ Kf8 25. Rh5 Rf4 26. Qg3 Rxf7 27.
-Rhxd5 Qc7 28. Qh4 Bf6 29. Qh6+ Bg7 30. Qg5 Bf6 31. Qh6+ Bg7 32. Qh4 Bf6 33.
-Qb4+ Be7 34. Qg4 Qf4 35. Qxf4 Rxf4 36. Kf1 Rxa2 37. R1d2 Bf6 38. Rb5 Bd4 39.
-Bd3 Bc5 40. Kg2 Rg4+ 41. Kf3 Raa4 42. Ke2 Raf4 1/2-1/2
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Qb3 Nb6 6. d4 Bg7 7. e4 O-O
+8. Be3 Bg4 9. Rd1 Nc6 10. d5 Ne5 11. Be2 Bxf3 12. gxf3 Qc8 13. f4 Ng4 14.
+Bc5 Re8 15. h3 Nh6 16. h4 c6 17. h5 cxd5 18. Bxb6 axb6 19. hxg6 hxg6 20.
+Nxd5 Qc5 21. f5 e6 22. fxg6 exd5 23. Rxh6 Rxe4 24. gxf7+ Kf8 25. Rh5 Rf4
+26. Qg3 Rxf7 27. Rhxd5 Qc7 28. Qh4 Bf6 29. Qh6+ Bg7 30. Qg5 Bf6 31. Qh6+
+Bg7 32. Qh4 Bf6 33. Qb4+ Be7 34. Qg4 Qf4 35. Qxf4 Rxf4 36. Kf1 Rxa2 37.
+R1d2 Bf6 38. Rb5 Bd4 39. Bd3 Bc5 40. Kg2 Rg4+ 41. Kf3 Raa4 42. Ke2 Raf4
+1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1392,11 +1407,12 @@ Bd3 Bc5 40. Kg2 Rg4+ 41. Kf3 Raa4 42. Ke2 Raf4 1/2-1/2
 [White "Khismatullin, Denis"]
 [Black "Tomashevsky, Evgeny"]
 [Result "1/2-1/2"]
-[ECO "E48"]
 [WhiteElo "2659"]
 [BlackElo "2699"]
-[PlyCount "96"]
+[ECO "E48"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "96"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1407,16 +1423,15 @@ Bd3 Bc5 40. Kg2 Rg4+ 41. Kf3 Raa4 42. Ke2 Raf4 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Nge2 Re8 8.
-Bd2 Bf8 9. O-O Nc6 10. Ng3 Ne7 11. b4 Ng6 12. b5 Bd6 13. Nf5 Bxf5 14. Bxf5 Nh4
-15. Bh3 Ne4 16. Be1 Qg5 17. g3 Qg6 18. Bg4 Nxc3 19. Bxc3 Re4 20. Bh3 Qh6 21. a3
-Rxe3 22. fxe3 Qxe3+ 23. Kh1 Qe4+ 24. Kg1 Qe3+ 25. Rf2 Qxc3 26. Rb1 Re8 27. Qh5
-Ng6 28. Qxd5 Nf4 29. gxf4 Qxh3 30. Qf3 Qf5 31. Rb3 g6 32. Re3 Rxe3 33. Qxe3
-Qb1+ 34. Kg2 Qxb5 35. f5 Qd7 36. h4 Be7 37. Qe4 Qd6 38. Rf3 Bf6 39. d5 Kg7 40.
-fxg6 hxg6 41. a4 b6 42. Kh3 Qd7+ 43. Kg2 Qd6 44. Kh3 Qe5 45. Re3 Qa1 46. Re1
-Qc3+ 47. Re3 Qa1 48. Re1 Qc3+ 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. Ne2 Re8
+8. Bd2 Bf8 9. O-O Nc6 10. Ng3 Ne7 11. b4 Ng6 12. b5 Bd6 13. Nf5 Bxf5 14.
+Bxf5 Nh4 15. Bh3 Ne4 16. Be1 Qg5 17. g3 Qg6 18. Bg4 Nxc3 19. Bxc3 Re4 20.
+Bh3 Qh6 21. a3 Rxe3 22. fxe3 Qxe3+ 23. Kh1 Qe4+ 24. Kg1 Qe3+ 25. Rf2 Qxc3
+26. Rb1 Re8 27. Qh5 Ng6 28. Qxd5 Nf4 29. gxf4 Qxh3 30. Qf3 Qf5 31. Rb3 g6
+32. Re3 Rxe3 33. Qxe3 Qb1+ 34. Kg2 Qxb5 35. f5 Qd7 36. h4 Be7 37. Qe4 Qd6
+38. Rf3 Bf6 39. d5 Kg7 40. fxg6 hxg6 41. a4 b6 42. Kh3 Qd7+ 43. Kg2 Qd6 44.
+Kh3 Qe5 45. Re3 Qa1 46. Re1 Qc3+ 47. Re3 Qa1 48. Re1 Qc3+ 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1425,11 +1440,12 @@ Qc3+ 47. Re3 Qa1 48. Re1 Qc3+ 1/2-1/2
 [White "Kurnosov, Igor"]
 [Black "Karjakin, Sergey"]
 [Result "0-1"]
-[ECO "C67"]
 [WhiteElo "2676"]
 [BlackElo "2760"]
-[PlyCount "126"]
+[ECO "C67"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "126"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1440,18 +1456,18 @@ Qc3+ 47. Re3 Qa1 48. Re1 Qc3+ 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
-8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Ne2 b6 12. Rd1 Ba6 13. Ned4 Nxd4 14.
-Nxd4 c5 15. Nf5 Be2 16. Rd2 Bc4 17. Ne3 Be6 18. Nd5 Rc8 19. b3 c6 20. Ne3 Rd8
-21. Rxd8+ Kxd8 22. Bb2 g6 23. Rd1+ Kc7 24. f3 Bh6 25. Kf2 a5 26. a4 b5 27. axb5
-cxb5 28. Nd5+ Kc6 29. Nc3 Bf8 30. Rd8 c4 31. Ke2 b4 32. Ne4 cxb3 33. cxb3 Bg7
-34. Rd6+ Kb5 35. Rd3 Bh6 36. Kd1 Ra8 37. Kc2 Rc8+ 38. Kb1 Rc7 39. g4 Bf4 40.
-Nd6+ Ka6 41. Ne8 Rd7 42. Rxd7 Bxd7 43. Nf6 Be6 44. gxh5 Bxb3 45. Bc1 Bxc1 46.
-Kxc1 gxh5 47. f4 a4 48. f5 a3 49. Nd7 Bd5 50. e6 fxe6 51. f6 e5 52. Nxe5 b3 53.
-f7 b2+ 54. Kc2 Be4+ 55. Kd2 b1=Q 56. f8=Q Qc2+ 57. Ke3 a2 58. Qd6+ Kb5 59. Qb8+
-Kc5 60. Nd7+ Kc6 61. Ne5+ Kd5 62. Nf7 Qc3+ 63. Kf4 Qf6+ 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h5 11. Ne2 b6 12. Rd1 Ba6 13. Ned4 Nxd4
+14. Nxd4 c5 15. Nf5 Be2 16. Rd2 Bc4 17. Ne3 Be6 18. Nd5 Rc8 19. b3 c6 20.
+Ne3 Rd8 21. Rxd8+ Kxd8 22. Bb2 g6 23. Rd1+ Kc7 24. f3 Bh6 25. Kf2 a5 26. a4
+b5 27. axb5 cxb5 28. Nd5+ Kc6 29. Nc3 Bf8 30. Rd8 c4 31. Ke2 b4 32. Ne4
+cxb3 33. cxb3 Bg7 34. Rd6+ Kb5 35. Rd3 Bh6 36. Kd1 Ra8 37. Kc2 Rc8+ 38. Kb1
+Rc7 39. g4 Bf4 40. Nd6+ Ka6 41. Ne8 Rd7 42. Rxd7 Bxd7 43. Nf6 Be6 44. gxh5
+Bxb3 45. Bc1 Bxc1 46. Kxc1 gxh5 47. f4 a4 48. f5 a3 49. Nd7 Bd5 50. e6 fxe6
+51. f6 e5 52. Nxe5 b3 53. f7 b2+ 54. Kc2 Be4+ 55. Kd2 b1=Q 56. f8=Q Qc2+
+57. Ke3 a2 58. Qd6+ Kb5 59. Qb8+ Kc5 60. Nd7+ Kc6 61. Ne5+ Kd5 62. Nf7 Qc3+
+63. Kf4 Qf6+ 0-1
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1460,11 +1476,12 @@ Kc5 60. Nd7+ Kc6 61. Ne5+ Kd5 62. Nf7 Qc3+ 63. Kf4 Qf6+ 0-1
 [White "Svidler, Peter"]
 [Black "Zvjaginsev, Vadim"]
 [Result "1/2-1/2"]
-[ECO "C11"]
 [WhiteElo "2722"]
 [BlackElo "2676"]
-[PlyCount "104"]
+[ECO "C11"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "104"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1475,17 +1492,16 @@ Kc5 60. Nd7+ Kc6 61. Ne5+ Kd5 62. Nf7 Qc3+ 63. Kf4 Qf6+ 0-1
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
-Bc5 9. Qd2 O-O 10. O-O-O Bxd4 11. Bxd4 Qa5 12. Kb1 Rb8 13. Be3 b5 14. Ne2 b4
-15. Nd4 Nxd4 16. Qxd4 Ba6 17. f5 Rfc8 18. fxe6 fxe6 19. Qg4 Nf8 20. h4 Rc6 21.
-h5 Rbc8 22. Bh6 R8c7 23. Bd2 Rxc2 24. Qxb4 Qxb4 25. Bxb4 Bxf1 26. Rhxf1 Nd7 27.
-Bd6 Rc8 28. Rc1 Rxc1+ 29. Rxc1 Rxc1+ 30. Kxc1 Kf7 31. b4 Ke8 32. a4 Nb6 33. a5
-Nc4 34. Bc5 a6 35. b5 Kd7 36. bxa6 Kc6 37. Kc2 g6 38. hxg6 hxg6 39. Bd4 Nxa5
-40. Kd3 Kc7 41. Ke3 Nc6 42. Bc3 Kb6 43. Kf4 Kxa6 44. Kg5 d4 45. Bb2 d3 46. Bc1
-Kb5 47. Kxg6 Kc4 48. Kf6 Kd5 49. g4 Nxe5 50. g5 Ng4+ 51. Kf7 Ne5+ 52. Kf6 Ng4+
-1/2-1/2
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8.
+Nxd4 Bc5 9. Qd2 O-O 10. O-O-O Bxd4 11. Bxd4 Qa5 12. Kb1 Rb8 13. Be3 b5 14.
+Ne2 b4 15. Nd4 Nxd4 16. Qxd4 Ba6 17. f5 Rfc8 18. fxe6 fxe6 19. Qg4 Nf8 20.
+h4 Rc6 21. h5 Rbc8 22. Bh6 R8c7 23. Bd2 Rxc2 24. Qxb4 Qxb4 25. Bxb4 Bxf1
+26. Rhxf1 Nd7 27. Bd6 Rc8 28. Rc1 Rxc1+ 29. Rxc1 Rxc1+ 30. Kxc1 Kf7 31. b4
+Ke8 32. a4 Nb6 33. a5 Nc4 34. Bc5 a6 35. b5 Kd7 36. bxa6 Kc6 37. Kc2 g6 38.
+hxg6 hxg6 39. Bd4 Nxa5 40. Kd3 Kc7 41. Ke3 Nc6 42. Bc3 Kb6 43. Kf4 Kxa6 44.
+Kg5 d4 45. Bb2 d3 46. Bc1 Kb5 47. Kxg6 Kc4 48. Kf6 Kd5 49. g4 Nxe5 50. g5
+Ng4+ 51. Kf7 Ne5+ 52. Kf6 Ng4+ 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1494,11 +1510,12 @@ Kb5 47. Kxg6 Kc4 48. Kf6 Kd5 49. g4 Nxe5 50. g5 Ng4+ 51. Kf7 Ne5+ 52. Kf6 Ng4+
 [White "Vitiugov, Nikita"]
 [Black "Malakhov, Vladimir"]
 [Result "0-1"]
-[ECO "D15"]
 [WhiteElo "2709"]
 [BlackElo "2712"]
-[PlyCount "82"]
+[ECO "D15"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "82"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1509,15 +1526,14 @@ Kb5 47. Kxg6 Kc4 48. Kf6 Kd5 49. g4 Nxe5 50. g5 Ng4+ 51. Kf7 Ne5+ 52. Kf6 Ng4+
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 b5 6. c5 g6 7. Ne5 Bg7 8. f4 O-O
-9. Be2 Qc7 10. O-O a5 11. a3 Ne4 12. Nxe4 dxe4 13. a4 b4 14. Qc2 f5 15. Qb3+ e6
-16. Bc4 Qe7 17. g4 Bxe5 18. fxe5 Na6 19. Qd1 Nc7 20. b3 Qg5 21. Ra2 Qxg4+ 22.
-Qxg4 fxg4 23. Rxf8+ Kxf8 24. Rg2 h5 25. h3 g5 26. hxg4 h4 27. Bd2 Ba6 28. Be1
-Kg7 29. Rc2 Rf8 30. Rb2 Rf3 31. Bf2 Kf7 32. Kg2 Ke7 33. Rb1 Kd7 34. Rc1 Kc8 35.
-Rb1 Kb7 36. Rh1 Ka7 37. Re1 Nd5 38. Bxd5 exd5 39. e6 Rf6 40. Bg1 Rxe6 41. Bh2
-Re7 0-1
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 b5 6. c5 g6 7. Ne5 Bg7 8. f4
+O-O 9. Be2 Qc7 10. O-O a5 11. a3 Ne4 12. Nxe4 dxe4 13. a4 b4 14. Qc2 f5 15.
+Qb3+ e6 16. Bc4 Qe7 17. g4 Bxe5 18. fxe5 Na6 19. Qd1 Nc7 20. b3 Qg5 21. Ra2
+Qxg4+ 22. Qxg4 fxg4 23. Rxf8+ Kxf8 24. Rg2 h5 25. h3 g5 26. hxg4 h4 27. Bd2
+Ba6 28. Be1 Kg7 29. Rc2 Rf8 30. Rb2 Rf3 31. Bf2 Kf7 32. Kg2 Ke7 33. Rb1 Kd7
+34. Rc1 Kc8 35. Rb1 Kb7 36. Rh1 Ka7 37. Re1 Nd5 38. Bxd5 exd5 39. e6 Rf6
+40. Bg1 Rxe6 41. Bh2 Re7 0-1
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1526,11 +1542,12 @@ Re7 0-1
 [White "Karjakin, Sergey"]
 [Black "Jakovenko, Dmitrij"]
 [Result "1/2-1/2"]
-[ECO "C67"]
 [WhiteElo "2760"]
 [BlackElo "2726"]
-[PlyCount "94"]
+[ECO "C67"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "94"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1541,16 +1558,15 @@ Re7 0-1
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nf5 8.
-Nf3 d5 9. d4 O-O 10. c3 Bd6 11. Bd3 Nce7 12. Nbd2 Ng6 13. g3 Re8 14. Rxe8+ Qxe8
-15. Nf1 h6 16. Bd2 Nfe7 17. h4 Bf5 18. Qc2 Bxd3 19. Qxd3 Qd7 20. Re1 Qh3 21.
-N1h2 c6 22. Qf1 Qxf1+ 23. Nxf1 h5 24. Ne3 f6 25. Kf1 Kf7 26. Ke2 Nf8 27. Kd3
-Ne6 28. Rh1 Rh8 29. Ng2 Bc7 30. b3 Rd8 31. Ne3 Rh8 32. Ng2 Nf5 33. Ne3 Nxe3 34.
-Bxe3 Rd8 35. Ng1 Rh8 36. Ne2 g5 37. c4 Kg6 38. f3 Ng7 39. Bf2 g4 40. f4 Nf5 41.
-Rc1 Rd8 42. c5 Kf7 43. a3 Ke6 44. Nc3 Kd7 45. Nd1 Re8 46. Ne3 Nxe3 47. Bxe3 f5
-1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1
+Nf5 8. Nf3 d5 9. d4 O-O 10. c3 Bd6 11. Bd3 Nce7 12. Nbd2 Ng6 13. g3 Re8 14.
+Rxe8+ Qxe8 15. Nf1 h6 16. Bd2 Nfe7 17. h4 Bf5 18. Qc2 Bxd3 19. Qxd3 Qd7 20.
+Re1 Qh3 21. N1h2 c6 22. Qf1 Qxf1+ 23. Nxf1 h5 24. Ne3 f6 25. Kf1 Kf7 26.
+Ke2 Nf8 27. Kd3 Ne6 28. Rh1 Rh8 29. Ng2 Bc7 30. b3 Rd8 31. Ne3 Rh8 32. Ng2
+Nf5 33. Ne3 Nxe3 34. Bxe3 Rd8 35. Ng1 Rh8 36. Ne2 g5 37. c4 Kg6 38. f3 Ng7
+39. Bf2 g4 40. f4 Nf5 41. Rc1 Rd8 42. c5 Kf7 43. a3 Ke6 44. Nc3 Kd7 45. Nd1
+Re8 46. Ne3 Nxe3 47. Bxe3 f5 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1559,11 +1575,12 @@ Rc1 Rd8 42. c5 Kf7 43. a3 Ke6 44. Nc3 Kd7 45. Nd1 Re8 46. Ne3 Nxe3 47. Bxe3 f5
 [White "Malakhov, Vladimir"]
 [Black "Khismatullin, Denis"]
 [Result "1/2-1/2"]
-[ECO "B07"]
 [WhiteElo "2712"]
 [BlackElo "2659"]
-[PlyCount "126"]
+[ECO "B07"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "126"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1574,18 +1591,18 @@ Rc1 Rd8 42. c5 Kf7 43. a3 Ke6 44. Nc3 Kd7 45. Nd1 Re8 46. Ne3 Nxe3 47. Bxe3 f5
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. g3 e5 5. Nge2 c6 6. a4 Be7 7. Bg2 b6 8. O-O
-a6 9. h3 h5 10. Be3 Bb7 11. b4 O-O 12. b5 cxb5 13. axb5 axb5 14. Rb1 Ra5 15. d5
-Nc5 16. Nc1 Ra3 17. Bxc5 Rxc3 18. Bb4 Rc4 19. Qe2 h4 20. c3 Rc8 21. Nd3 hxg3
-22. fxg3 Ra8 23. Nf2 Bc8 24. Nd1 Bd7 25. Ne3 g6 26. Rf2 Be8 27. Rbf1 Kg7 28.
-Nc2 Ra2 29. Qd3 Nh5 30. Rf3 Qa8 31. Ne3 Rb2 32. Ng4 Qa2 33. R3f2 Rxf2 34. Rxf2
-Qa7 35. Qe3 Rh8 36. Bf1 f6 37. Kg2 Bd7 38. Bd3 Qa1 39. Qf3 Rf8 40. Qe2 Qc1 41.
-h4 Qa1 42. Ne3 Rh8 43. Nc2 Qa6 44. Na3 Qc8 45. Nxb5 Bh3+ 46. Kh2 Qd7 47. Qe3 g5
-48. Ra2 gxh4 49. gxh4 Nf4 50. Qg3+ Qg4 51. Qxg4+ Bxg4 52. Bf1 f5 53. Ra7 Rxh4+
-54. Kg1 Kf6 55. Nxd6 Bxd6 56. Bxd6 Nh3+ 57. Bxh3 Rxh3 58. Be7+ Kf7 59. Bd8+ Kg6
-60. exf5+ Bxf5 61. c4 Rc3 62. Bxb6 Rxc4 63. d6 Rc6 1/2-1/2
+1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. g3 e5 5. Nge2 c6 6. a4 Be7 7. Bg2 b6 8.
+O-O a6 9. h3 h5 10. Be3 Bb7 11. b4 O-O 12. b5 cxb5 13. axb5 axb5 14. Rb1
+Ra5 15. d5 Nc5 16. Nc1 Ra3 17. Bxc5 Rxc3 18. Bb4 Rc4 19. Qe2 h4 20. c3 Rc8
+21. Nd3 hxg3 22. fxg3 Ra8 23. Nf2 Bc8 24. Nd1 Bd7 25. Ne3 g6 26. Rf2 Be8
+27. Rbf1 Kg7 28. Nc2 Ra2 29. Qd3 Nh5 30. Rf3 Qa8 31. Ne3 Rb2 32. Ng4 Qa2
+33. R3f2 Rxf2 34. Rxf2 Qa7 35. Qe3 Rh8 36. Bf1 f6 37. Kg2 Bd7 38. Bd3 Qa1
+39. Qf3 Rf8 40. Qe2 Qc1 41. h4 Qa1 42. Ne3 Rh8 43. Nc2 Qa6 44. Na3 Qc8 45.
+Nxb5 Bh3+ 46. Kh2 Qd7 47. Qe3 g5 48. Ra2 gxh4 49. gxh4 Nf4 50. Qg3+ Qg4 51.
+Qxg4+ Bxg4 52. Bf1 f5 53. Ra7 Rxh4+ 54. Kg1 Kf6 55. Nxd6 Bxd6 56. Bxd6 Nh3+
+57. Bxh3 Rxh3 58. Be7+ Kf7 59. Bd8+ Kg6 60. exf5+ Bxf5 61. c4 Rc3 62. Bxb6
+Rxc4 63. d6 Rc6 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1594,11 +1611,12 @@ h4 Qa1 42. Ne3 Rh8 43. Nc2 Qa6 44. Na3 Qc8 45. Nxb5 Bh3+ 46. Kh2 Qd7 47. Qe3 g5
 [White "Nepomniachtchi, Ian"]
 [Black "Svidler, Peter"]
 [Result "1-0"]
-[ECO "C45"]
 [WhiteElo "2720"]
 [BlackElo "2722"]
-[PlyCount "77"]
+[ECO "C45"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "77"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1609,14 +1627,14 @@ h4 Qa1 42. Ne3 Rh8 43. Nc2 Qa6 44. Na3 Qc8 45. Nxb5 Bh3+ 46. Kh2 Qd7 47. Qe3 g5
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
-c4 Ba6 9. Nd2 g6 10. Nf3 Qb4+ 11. Kd1 Nb6 12. b3 Bg7 13. Qd2 Qe7 14. Bb2 O-O
-15. Kc2 c5 16. h4 d5 17. exd6 Qxd6 18. Bxg7 Qxd2+ 19. Nxd2 Kxg7 20. Ne4 Nd7 21.
-Rd1 Bb7 22. Nc3 Nf6 23. f3 Rfe8 24. Bd3 a5 25. Rhe1 Bc6 26. Nb5 Rxe1 27. Rxe1
-Re8 28. Rxe8 Nxe8 29. Kb2 Kh6 30. Be2 Ng7 31. Ka3 Nf5 32. Ka4 Nxh4 33. Bf1 Nf5
-34. Kxa5 Ne3 35. Nxc7 Nxf1 36. Kb6 Bd7 37. Nd5 Kg7 38. a4 Bc8 39. Ne7 1-0
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2
+Nd5 8. c4 Ba6 9. Nd2 g6 10. Nf3 Qb4+ 11. Kd1 Nb6 12. b3 Bg7 13. Qd2 Qe7 14.
+Bb2 O-O 15. Kc2 c5 16. h4 d5 17. exd6 Qxd6 18. Bxg7 Qxd2+ 19. Nxd2 Kxg7 20.
+Ne4 Nd7 21. Rd1 Bb7 22. Nc3 Nf6 23. f3 Rfe8 24. Bd3 a5 25. Rhe1 Bc6 26. Nb5
+Rxe1 27. Rxe1 Re8 28. Rxe8 Nxe8 29. Kb2 Kh6 30. Be2 Ng7 31. Ka3 Nf5 32. Ka4
+Nxh4 33. Bf1 Nf5 34. Kxa5 Ne3 35. Nxc7 Nxf1 36. Kb6 Bd7 37. Nd5 Kg7 38. a4
+Bc8 39. Ne7 1-0
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1625,11 +1643,12 @@ Re8 28. Rxe8 Nxe8 29. Kb2 Kh6 30. Be2 Ng7 31. Ka3 Nf5 32. Ka4 Nxh4 33. Bf1 Nf5
 [White "Potkin, Vladimir"]
 [Black "Vitiugov, Nikita"]
 [Result "1/2-1/2"]
-[ECO "B27"]
 [WhiteElo "2646"]
 [BlackElo "2709"]
-[PlyCount "93"]
+[ECO "B27"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "93"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1640,16 +1659,15 @@ Re8 28. Rxe8 Nxe8 29. Kb2 Kh6 30. Be2 Ng7 31. Ka3 Nf5 32. Ka4 Nxh4 33. Bf1 Nf5
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 g6 2. e4 Bg7 3. Nf3 c6 4. c4 d5 5. cxd5 cxd5 6. e5 Bg4 7. Nbd2 Nc6 8. Bb5
-Qb6 9. Qa4 Bd7 10. Bxc6 Bxc6 11. Qa3 Bb5 12. Nb1 Qc6 13. Nc3 Bc4 14. b3 Bd3 15.
-Qa4 b5 16. Qa5 a6 17. Ba3 Nh6 18. Rd1 Be4 19. Nxe4 dxe4 20. d5 Qd7 21. d6 exd6
-22. Rxd6 Qc8 23. Qb4 Nf5 24. Qxe4 Nxd6 25. Bxd6 Qc3+ 26. Ke2 Rc8 27. Nd2 Qc6
-28. Qf4 Qxg2 29. Rd1 h5 30. Nf3 Qg4 31. Qe3 Bf8 32. Rd4 Qf5 33. Rf4 Qc2+ 34.
-Nd2 Rh7 35. h4 Rd8 36. Kf1 Qc1+ 37. Kg2 Be7 38. Qa7 Qc6+ 39. Ne4 Bxd6 40. exd6
-Rxd6 41. Kh2 Re6 42. Qb8+ Ke7 43. Ng5 Re1 44. Qa7+ Ke8 45. Qb8+ Ke7 46. Qa7+
-Ke8 47. Qb8+ 1/2-1/2
+1. d4 g6 2. e4 Bg7 3. Nf3 c6 4. c4 d5 5. cxd5 cxd5 6. e5 Bg4 7. Nbd2 Nc6 8.
+Bb5 Qb6 9. Qa4 Bd7 10. Bxc6 Bxc6 11. Qa3 Bb5 12. Nb1 Qc6 13. Nc3 Bc4 14. b3
+Bd3 15. Qa4 b5 16. Qa5 a6 17. Ba3 Nh6 18. Rd1 Be4 19. Nxe4 dxe4 20. d5 Qd7
+21. d6 exd6 22. Rxd6 Qc8 23. Qb4 Nf5 24. Qxe4 Nxd6 25. Bxd6 Qc3+ 26. Ke2
+Rc8 27. Nd2 Qc6 28. Qf4 Qxg2 29. Rd1 h5 30. Nf3 Qg4 31. Qe3 Bf8 32. Rd4 Qf5
+33. Rf4 Qc2+ 34. Nd2 Rh7 35. h4 Rd8 36. Kf1 Qc1+ 37. Kg2 Be7 38. Qa7 Qc6+
+39. Ne4 Bxd6 40. exd6 Rxd6 41. Kh2 Re6 42. Qb8+ Ke7 43. Ng5 Re1 44. Qa7+
+Ke8 45. Qb8+ Ke7 46. Qa7+ Ke8 47. Qb8+ 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1658,11 +1676,12 @@ Ke8 47. Qb8+ 1/2-1/2
 [White "Tomashevsky, Evgeny"]
 [Black "Kurnosov, Igor"]
 [Result "1/2-1/2"]
-[ECO "D75"]
 [WhiteElo "2699"]
 [BlackElo "2676"]
-[PlyCount "36"]
+[ECO "D75"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "36"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1673,11 +1692,10 @@ Ke8 47. Qb8+ 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. O-O O-O 7. Nc3 Nxc3 8.
-bxc3 c5 9. d4 Be6 10. Qa4 Nc6 11. Ba3 cxd4 12. cxd4 Nxd4 13. Nxd4 Qxd4 14. Qxd4
-Bxd4 15. Rad1 Bf6 16. Bxb7 Rad8 17. Bc5 Bxa2 18. Bxa7 Bb3 1/2-1/2
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. O-O O-O 7. Nc3 Nxc3
+8. bxc3 c5 9. d4 Be6 10. Qa4 Nc6 11. Ba3 cxd4 12. cxd4 Nxd4 13. Nxd4 Qxd4
+14. Qxd4 Bxd4 15. Rad1 Bf6 16. Bxb7 Rad8 17. Bc5 Bxa2 18. Bxa7 Bb3 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1686,11 +1704,12 @@ Bxd4 15. Rad1 Bf6 16. Bxb7 Rad8 17. Bc5 Bxa2 18. Bxa7 Bb3 1/2-1/2
 [White "Zvjaginsev, Vadim"]
 [Black "Grischuk, Alexander"]
 [Result "1/2-1/2"]
-[ECO "B53"]
 [WhiteElo "2676"]
 [BlackElo "2771"]
-[PlyCount "24"]
+[ECO "B53"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "24"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1701,10 +1720,9 @@ Bxd4 15. Rad1 Bf6 16. Bxb7 Rad8 17. Bc5 Bxa2 18. Bxa7 Bb3 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nf6 5. Nc3 Nc6 6. Bb5 Nd7 7. Qa4 Nb6 8.
-Bxc6+ bxc6 9. Qxc6+ Bd7 10. Qb7 Bc8 11. Qc6+ Bd7 12. Qb7 Bc8 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nf6 5. Nc3 Nc6 6. Bb5 Nd7 7. Qa4 Nb6
+8. Bxc6+ bxc6 9. Qxc6+ Bd7 10. Qb7 Bc8 11. Qc6+ Bd7 12. Qb7 Bc8 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1713,11 +1731,12 @@ Bxc6+ bxc6 9. Qxc6+ Bd7 10. Qb7 Bc8 11. Qc6+ Bd7 12. Qb7 Bc8 1/2-1/2
 [White "Grischuk, Alexander"]
 [Black "Nepomniachtchi, Ian"]
 [Result "1/2-1/2"]
-[ECO "A29"]
 [WhiteElo "2771"]
 [BlackElo "2720"]
-[PlyCount "105"]
+[ECO "A29"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "105"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1728,17 +1747,16 @@ Bxc6+ bxc6 9. Qxc6+ Bd7 10. Qb7 Bc8 11. Qc6+ Bd7 12. Qb7 Bc8 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. Nf3 Nc6 7. O-O Be7 8.
-a3 O-O 9. b4 Be6 10. Rb1 f6 11. d3 Nd4 12. Bb2 Nxf3+ 13. Bxf3 c6 14. Ne4 Bd5
-15. Bc3 Rf7 16. Bh5 g6 17. Bf3 Bf8 18. Qc2 a6 19. Rfd1 Qe7 20. a4 Nd7 21. b5
-axb5 22. axb5 Qe6 23. bxc6 Bxc6 24. Rdc1 Bh6 25. Bd2 Ra2 26. Rb2 Rxb2 27. Qxb2
-Bxd2 28. Nxd2 Bxf3 29. Nxf3 Nb8 30. Rc5 Nc6 31. Rb5 Qd7 32. Qb3 Kg7 33. e3 Qc8
-34. Kg2 Rd7 35. Nd2 Ne7 36. Ne4 Qc6 37. Rc5 Qa6 38. Rb5 Qc6 39. h4 Nd5 40. Qc4
-f5 41. Rc5 b5 42. Rxc6 bxc4 43. dxc4 Nxe3+ 44. fxe3 fxe4 45. c5 Rd2+ 46. Kf1
-Rc2 47. g4 Kf7 48. Ke1 Ke7 49. Kd1 Rc4 50. h5 Kd7 51. hxg6 hxg6 52. Rxg6 Rxc5
-53. g5 1/2-1/2
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nb6 6. Nf3 Nc6 7. O-O Be7
+8. a3 O-O 9. b4 Be6 10. Rb1 f6 11. d3 Nd4 12. Bb2 Nxf3+ 13. Bxf3 c6 14. Ne4
+Bd5 15. Bc3 Rf7 16. Bh5 g6 17. Bf3 Bf8 18. Qc2 a6 19. Rfd1 Qe7 20. a4 Nd7
+21. b5 axb5 22. axb5 Qe6 23. bxc6 Bxc6 24. Rdc1 Bh6 25. Bd2 Ra2 26. Rb2
+Rxb2 27. Qxb2 Bxd2 28. Nxd2 Bxf3 29. Nxf3 Nb8 30. Rc5 Nc6 31. Rb5 Qd7 32.
+Qb3 Kg7 33. e3 Qc8 34. Kg2 Rd7 35. Nd2 Ne7 36. Ne4 Qc6 37. Rc5 Qa6 38. Rb5
+Qc6 39. h4 Nd5 40. Qc4 f5 41. Rc5 b5 42. Rxc6 bxc4 43. dxc4 Nxe3+ 44. fxe3
+fxe4 45. c5 Rd2+ 46. Kf1 Rc2 47. g4 Kf7 48. Ke1 Ke7 49. Kd1 Rc4 50. h5 Kd7
+51. hxg6 hxg6 52. Rxg6 Rxc5 53. g5 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1747,11 +1765,12 @@ Rc2 47. g4 Kf7 48. Ke1 Ke7 49. Kd1 Rc4 50. h5 Kd7 51. hxg6 hxg6 52. Rxg6 Rxc5
 [White "Jakovenko, Dmitrij"]
 [Black "Svidler, Peter"]
 [Result "1/2-1/2"]
-[ECO "B07"]
 [WhiteElo "2726"]
 [BlackElo "2722"]
-[PlyCount "78"]
+[ECO "B07"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "78"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1762,15 +1781,14 @@ Rc2 47. g4 Kf7 48. Ke1 Ke7 49. Kd1 Rc4 50. h5 Kd7 51. hxg6 hxg6 52. Rxg6 Rxc5
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. c3 Nf6 5. Bd3 O-O 6. O-O Nc6 7. d5 Nb8 8. c4 c6
-9. Nc3 Bg4 10. h3 Bxf3 11. Qxf3 Na6 12. Be3 Nd7 13. Rfc1 Ne5 14. Qd1 Nxd3 15.
-Qxd3 Nc5 16. Qe2 Nd7 17. Rab1 a5 18. Na4 Rb8 19. b3 Re8 20. Rc2 Qc7 21. Rd1
-Rec8 22. Rcc1 Qd8 23. Ba7 Ra8 24. Be3 Rab8 25. dxc6 Rxc6 26. c5 Qc7 27. cxd6
-exd6 28. Rxc6 bxc6 29. Qd3 Bf8 30. Bf4 Ne5 31. Bxe5 dxe5 32. Qd7 Qxd7 33. Rxd7
-Rb4 34. f3 c5 35. Nb2 a4 36. Nxa4 c4 37. Nc3 cxb3 38. axb3 Rxb3 39. Nd5 h5
-1/2-1/2
+1. Nf3 g6 2. e4 Bg7 3. d4 d6 4. c3 Nf6 5. Bd3 O-O 6. O-O Nc6 7. d5 Nb8 8.
+c4 c6 9. Nc3 Bg4 10. h3 Bxf3 11. Qxf3 Na6 12. Be3 Nd7 13. Rfc1 Ne5 14. Qd1
+Nxd3 15. Qxd3 Nc5 16. Qe2 Nd7 17. Rab1 a5 18. Na4 Rb8 19. b3 Re8 20. Rc2
+Qc7 21. Rd1 Rec8 22. Rcc1 Qd8 23. Ba7 Ra8 24. Be3 Rab8 25. dxc6 Rxc6 26. c5
+Qc7 27. cxd6 exd6 28. Rxc6 bxc6 29. Qd3 Bf8 30. Bf4 Ne5 31. Bxe5 dxe5 32.
+Qd7 Qxd7 33. Rxd7 Rb4 34. f3 c5 35. Nb2 a4 36. Nxa4 c4 37. Nc3 cxb3 38.
+axb3 Rxb3 39. Nd5 h5 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1779,11 +1797,12 @@ Rb4 34. f3 c5 35. Nb2 a4 36. Nxa4 c4 37. Nc3 cxb3 38. axb3 Rxb3 39. Nd5 h5
 [White "Karjakin, Sergey"]
 [Black "Tomashevsky, Evgeny"]
 [Result "1-0"]
-[ECO "C88"]
 [WhiteElo "2760"]
 [BlackElo "2699"]
-[PlyCount "95"]
+[ECO "C88"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "95"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1794,16 +1813,15 @@ Rb4 34. f3 c5 35. Nb2 a4 36. Nxa4 c4 37. Nc3 cxb3 38. axb3 Rxb3 39. Nd5 h5
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
-Bb7 9. d3 d6 10. a3 Qd7 11. Nbd2 Nd8 12. c3 c5 13. d4 exd4 14. cxd4 cxd4 15.
-Nxd4 Re8 16. Bc2 Ne6 17. Nxe6 Qxe6 18. a4 Bf8 19. axb5 axb5 20. Rxa8 Bxa8 21.
-Bd3 Qd7 22. b3 d5 23. e5 Ne4 24. Nf3 Bc6 25. Qc2 Qb7 26. Be3 Bd7 27. Ra1 Rc8
-28. Qe2 Ra8 29. Rc1 Rc8 30. Rc2 b4 31. Nd4 Rxc2 32. Qxc2 g6 33. Bxe4 dxe4 34.
-Qc4 Qc8 35. Qd5 Be6 36. Qxe4 Qd7 37. Nxe6 Qxe6 38. Qa8 Qxe5 39. Bh6 Qe1+ 40.
-Kh2 Qe5+ 41. g3 Qd6 42. Kg2 f5 43. Qxf8+ Qxf8 44. Bxf8 Kxf8 45. Kf3 Ke7 46. Ke3
-Kd6 47. Kd4 g5 48. Kc4 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 d6 10. a3 Qd7 11. Nbd2 Nd8 12. c3 c5 13. d4 exd4 14. cxd4 cxd4
+15. Nxd4 Re8 16. Bc2 Ne6 17. Nxe6 Qxe6 18. a4 Bf8 19. axb5 axb5 20. Rxa8
+Bxa8 21. Bd3 Qd7 22. b3 d5 23. e5 Ne4 24. Nf3 Bc6 25. Qc2 Qb7 26. Be3 Bd7
+27. Ra1 Rc8 28. Qe2 Ra8 29. Rc1 Rc8 30. Rc2 b4 31. Nd4 Rxc2 32. Qxc2 g6 33.
+Bxe4 dxe4 34. Qc4 Qc8 35. Qd5 Be6 36. Qxe4 Qd7 37. Nxe6 Qxe6 38. Qa8 Qxe5
+39. Bh6 Qe1+ 40. Kh2 Qe5+ 41. g3 Qd6 42. Kg2 f5 43. Qxf8+ Qxf8 44. Bxf8
+Kxf8 45. Kf3 Ke7 46. Ke3 Kd6 47. Kd4 g5 48. Kc4 1-0
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1812,11 +1830,12 @@ Kd6 47. Kd4 g5 48. Kc4 1-0
 [White "Khismatullin, Denis"]
 [Black "Potkin, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "D23"]
 [WhiteElo "2659"]
 [BlackElo "2646"]
-[PlyCount "88"]
+[ECO "D23"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "88"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1827,15 +1846,15 @@ Kd6 47. Kd4 g5 48. Kc4 1-0
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 dxc4 5. Qxc4 Bg4 6. Nc3 Nbd7 7. e4 Bxf3 8.
-gxf3 e5 9. Be3 exd4 10. Bxd4 Bd6 11. O-O-O Qc7 12. Ne2 O-O 13. Qc2 Rad8 14. Kb1
-Rfe8 15. Bh3 Nh5 16. Ng3 Ndf6 17. Bg4 Be5 18. Bxe5 Qxe5 19. Bxh5 Nxh5 20. Qb3
-g6 21. Qe3 b6 22. Nxh5 Qxh5 23. Qf4 Qb5 24. Qe3 Qa4 25. b3 Qb5 26. h4 a5 27. a4
-Qe5 28. Qg5 f6 29. Qxe5 fxe5 30. Kc2 Kf7 31. Rd3 Ke6 32. Kd2 Rxd3+ 33. Kxd3
-Rd8+ 34. Ke3 Rd4 35. Rc1 c5 36. f4 exf4+ 37. Kxf4 Rd3 38. Rb1 Kf6 39. f3 h6 40.
-Rb2 Rd1 41. Ke3 Re1+ 42. Kd3 Rf1 43. Ke3 Re1+ 44. Kd3 Rf1 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qc2 dxc4 5. Qxc4 Bg4 6. Nc3 Nbd7 7. e4 Bxf3
+8. gxf3 e5 9. Be3 exd4 10. Bxd4 Bd6 11. O-O-O Qc7 12. Ne2 O-O 13. Qc2 Rad8
+14. Kb1 Rfe8 15. Bh3 Nh5 16. Ng3 Ndf6 17. Bg4 Be5 18. Bxe5 Qxe5 19. Bxh5
+Nxh5 20. Qb3 g6 21. Qe3 b6 22. Nxh5 Qxh5 23. Qf4 Qb5 24. Qe3 Qa4 25. b3 Qb5
+26. h4 a5 27. a4 Qe5 28. Qg5 f6 29. Qxe5 fxe5 30. Kc2 Kf7 31. Rd3 Ke6 32.
+Kd2 Rxd3+ 33. Kxd3 Rd8+ 34. Ke3 Rd4 35. Rc1 c5 36. f4 exf4+ 37. Kxf4 Rd3
+38. Rb1 Kf6 39. f3 h6 40. Rb2 Rd1 41. Ke3 Re1+ 42. Kd3 Rf1 43. Ke3 Re1+ 44.
+Kd3 Rf1 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1844,11 +1863,12 @@ Rb2 Rd1 41. Ke3 Re1+ 42. Kd3 Rf1 43. Ke3 Re1+ 44. Kd3 Rf1 1/2-1/2
 [White "Kurnosov, Igor"]
 [Black "Malakhov, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "C65"]
 [WhiteElo "2676"]
 [BlackElo "2712"]
-[PlyCount "64"]
+[ECO "C65"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "64"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1859,13 +1879,13 @@ Rb2 Rd1 41. Ke3 Re1+ 42. Kd3 Rf1 43. Ke3 Re1+ 44. Kd3 Rf1 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. Bxc6 bxc6 7. Nxe5 d5 8.
-d4 Bb6 9. O-O Nxe4 10. Nxc6 Qd6 11. Nb4 c5 12. dxc5 Bxc5 13. Be3 Bxb4 14. cxb4
-Ba6 15. b5 Bxb5 16. Re1 Rfd8 17. Qd4 Rac8 18. Na3 a6 19. Nxb5 axb5 20. Rad1 h6
-21. h4 Rc4 22. Qb6 Qxb6 23. Bxb6 Rd6 24. Bd4 Rc2 25. Rc1 Rdc6 26. Rxc2 Rxc2 27.
-Rd1 f6 28. f3 Ng3 29. Bc3 Ne2+ 30. Kf1 Ng3+ 31. Kg1 Ne2+ 32. Kf1 Ng3+ 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. Bxc6 bxc6 7. Nxe5 d5
+8. d4 Bb6 9. O-O Nxe4 10. Nxc6 Qd6 11. Nb4 c5 12. dxc5 Bxc5 13. Be3 Bxb4
+14. cxb4 Ba6 15. b5 Bxb5 16. Re1 Rfd8 17. Qd4 Rac8 18. Na3 a6 19. Nxb5 axb5
+20. Rad1 h6 21. h4 Rc4 22. Qb6 Qxb6 23. Bxb6 Rd6 24. Bd4 Rc2 25. Rc1 Rdc6
+26. Rxc2 Rxc2 27. Rd1 f6 28. f3 Ng3 29. Bc3 Ne2+ 30. Kf1 Ng3+ 31. Kg1 Ne2+
+32. Kf1 Ng3+ 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1874,11 +1894,12 @@ Rd1 f6 28. f3 Ng3 29. Bc3 Ne2+ 30. Kf1 Ng3+ 31. Kg1 Ne2+ 32. Kf1 Ng3+ 1/2-1/2
 [White "Vitiugov, Nikita"]
 [Black "Zvjaginsev, Vadim"]
 [Result "1-0"]
-[ECO "E39"]
 [WhiteElo "2709"]
 [BlackElo "2676"]
-[PlyCount "81"]
+[ECO "E39"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "81"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1889,15 +1910,14 @@ Rd1 f6 28. f3 Ng3 29. Bc3 Ne2+ 30. Kf1 Ng3+ 31. Kg1 Ne2+ 32. Kf1 Ng3+ 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 Nc6 8.
-Bf4 Nh5 9. Bg5 Be7 10. h4 f5 11. O-O-O h6 12. Bxe7 Qxe7 13. e4 g6 14. exf5 gxf5
-15. Rg1 Nf6 16. g4 fxg4 17. Nh2 h5 18. f3 Ne5 19. fxg4 hxg4 20. Ne4 Qg7 21. Be2
-d5 22. Nxf6+ Rxf6 23. Nxg4 Rg6 24. h5 Rxg4 25. Bxg4 Nxg4 26. Qg2 e5 27. Qxd5+
-Kh8 28. Qd8+ Kh7 29. Qd3+ Kh8 30. Qd8+ Kh7 31. Rd6 Bf5 32. Qxa8 Qc7 33. Rxg4
-Bxg4 34. Qd8 Qxc4+ 35. Kd2 Qe2+ 36. Kc3 Qe3+ 37. Kb4 Qf4+ 38. Ka5 b6+ 39. Ka6
-Qf7 40. b4 Be2+ 41. b5 1-0
+1. d4 e6 2. c4 Nf6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 O-O 6. a3 Bxc5 7. Nf3 Nc6
+8. Bf4 Nh5 9. Bg5 Be7 10. h4 f5 11. O-O-O h6 12. Bxe7 Qxe7 13. e4 g6 14.
+exf5 gxf5 15. Rg1 Nf6 16. g4 fxg4 17. Nh2 h5 18. f3 Ne5 19. fxg4 hxg4 20.
+Ne4 Qg7 21. Be2 d5 22. Nxf6+ Rxf6 23. Nxg4 Rg6 24. h5 Rxg4 25. Bxg4 Nxg4
+26. Qg2 e5 27. Qxd5+ Kh8 28. Qd8+ Kh7 29. Qd3+ Kh8 30. Qd8+ Kh7 31. Rd6 Bf5
+32. Qxa8 Qc7 33. Rxg4 Bxg4 34. Qd8 Qxc4+ 35. Kd2 Qe2+ 36. Kc3 Qe3+ 37. Kb4
+Qf4+ 38. Ka5 b6+ 39. Ka6 Qf7 40. b4 Be2+ 41. b5 1-0
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1906,11 +1926,12 @@ Qf7 40. b4 Be2+ 41. b5 1-0
 [White "Malakhov, Vladimir"]
 [Black "Karjakin, Sergey"]
 [Result "1-0"]
-[ECO "E36"]
 [WhiteElo "2712"]
 [BlackElo "2760"]
-[PlyCount "133"]
+[ECO "E36"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "133"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1921,19 +1942,19 @@ Qf7 40. b4 Be2+ 41. b5 1-0
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Bg5 c5 8.
-dxc5 d4 9. Qc2 e5 10. e3 h6 11. Bh4 Re8 12. O-O-O Nc6 13. Nf3 b6 14. exd4 exd4
-15. cxb6 axb6 16. Bd3 Qd6 17. Kb1 Bg4 18. h3 Bxf3 19. gxf3 Ne5 20. Bg3 Qc6 21.
-Be4 Nxe4 22. Qxe4 Qxe4+ 23. fxe4 Nxc4 24. Rxd4 Rxe4 25. Rhd1 Rxd4 26. Rxd4
-Nxa3+ 27. bxa3 Rxa3 28. h4 Rf3 29. Kc2 Rf5 30. Kd3 b5 31. Ke4 Rc5 32. Rd5 Rc4+
-33. Kd3 Rb4 34. Kc3 Rb1 35. Kc2 Rb4 36. Rf5 f6 37. Kc3 Rb1 38. Rf4 Kf7 39. Rb4
-Rc1+ 40. Kd4 Rd1+ 41. Ke4 Ra1 42. Rxb5 Ra4+ 43. Kd5 Ra6 44. Rb7+ Kg8 45. Ke4
-Ra5 46. Rd7 Kh7 47. Rd5 Ra4+ 48. Kf3 Kg6 49. h5+ Kf7 50. Rd7+ Kg8 51. Bf4 Kh7
-52. Rc7 Ra5 53. Kg4 Ra2 54. Be3 Ra4+ 55. f4 Ra1 56. Bd4 Ra6 57. Bc5 Kg8 58. Kf5
-Ra2 59. Rc8+ Kh7 60. Bf8 Kg8 61. Be7+ Kh7 62. Ke6 Ra4 63. Kf7 Ra7 64. Rc2 Ra4
-65. Rg2 Rxf4 66. Rxg7+ Kh8 67. Rg6 1-0
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Bg5 c5
+8. dxc5 d4 9. Qc2 e5 10. e3 h6 11. Bh4 Re8 12. O-O-O Nc6 13. Nf3 b6 14.
+exd4 exd4 15. cxb6 axb6 16. Bd3 Qd6 17. Kb1 Bg4 18. h3 Bxf3 19. gxf3 Ne5
+20. Bg3 Qc6 21. Be4 Nxe4 22. Qxe4 Qxe4+ 23. fxe4 Nxc4 24. Rxd4 Rxe4 25.
+Rhd1 Rxd4 26. Rxd4 Nxa3+ 27. bxa3 Rxa3 28. h4 Rf3 29. Kc2 Rf5 30. Kd3 b5
+31. Ke4 Rc5 32. Rd5 Rc4+ 33. Kd3 Rb4 34. Kc3 Rb1 35. Kc2 Rb4 36. Rf5 f6 37.
+Kc3 Rb1 38. Rf4 Kf7 39. Rb4 Rc1+ 40. Kd4 Rd1+ 41. Ke4 Ra1 42. Rxb5 Ra4+ 43.
+Kd5 Ra6 44. Rb7+ Kg8 45. Ke4 Ra5 46. Rd7 Kh7 47. Rd5 Ra4+ 48. Kf3 Kg6 49.
+h5+ Kf7 50. Rd7+ Kg8 51. Bf4 Kh7 52. Rc7 Ra5 53. Kg4 Ra2 54. Be3 Ra4+ 55.
+f4 Ra1 56. Bd4 Ra6 57. Bc5 Kg8 58. Kf5 Ra2 59. Rc8+ Kh7 60. Bf8 Kg8 61.
+Be7+ Kh7 62. Ke6 Ra4 63. Kf7 Ra7 64. Rc2 Ra4 65. Rg2 Rxf4 66. Rxg7+ Kh8 67.
+Rg6 1-0
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1942,11 +1963,12 @@ Ra2 59. Rc8+ Kh7 60. Bf8 Kg8 61. Be7+ Kh7 62. Ke6 Ra4 63. Kf7 Ra7 64. Rc2 Ra4
 [White "Nepomniachtchi, Ian"]
 [Black "Vitiugov, Nikita"]
 [Result "1/2-1/2"]
-[ECO "C11"]
 [WhiteElo "2720"]
 [BlackElo "2709"]
-[PlyCount "89"]
+[ECO "C11"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "89"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1957,15 +1979,15 @@ Ra2 59. Rc8+ Kh7 60. Bf8 Kg8 61. Be7+ Kh7 62. Ke6 Ra4 63. Kf7 Ra7 64. Rc2 Ra4
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 b5 7. a3 cxd4 8. cxd4
-b4 9. a4 Ba6 10. f4 Nc6 11. b3 Be7 12. Nf3 Rc8 13. Ng3 Bxf1 14. Nxf1 f6 15.
-exf6 Bxf6 16. Rb1 O-O 17. Ne3 Qb6 18. Bb2 Ne7 19. O-O Nf5 20. Nxf5 exf5 21. Kh1
-Rc7 22. Qd3 g6 23. Ne5 Rfc8 24. Rbc1 Rxc1 25. Rxc1 Rxc1+ 26. Bxc1 Nf8 27. Be3
-a6 28. Bg1 Bd8 29. Qc2 Bc7 30. a5 Qd6 31. Qa2 Ne6 32. Qa4 Kg7 33. Be3 Qe7 34.
-Qc6 Bxa5 35. Qxd5 Bc7 36. Qc6 a5 37. g3 Nd8 38. Qc4 Bd6 39. d5 Nf7 40. Bd4 Nxe5
-41. Qe2 Qb7 42. Qf3 Qe7 43. Qe2 Qb7 44. Qc4 Qe7 45. Qe2 1/2-1/2
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 b5 7. a3 cxd4 8.
+cxd4 b4 9. a4 Ba6 10. f4 Nc6 11. b3 Be7 12. Nf3 Rc8 13. Ng3 Bxf1 14. Nxf1
+f6 15. exf6 Bxf6 16. Rb1 O-O 17. Ne3 Qb6 18. Bb2 Ne7 19. O-O Nf5 20. Nxf5
+exf5 21. Kh1 Rc7 22. Qd3 g6 23. Ne5 Rfc8 24. Rbc1 Rxc1 25. Rxc1 Rxc1+ 26.
+Bxc1 Nf8 27. Be3 a6 28. Bg1 Bd8 29. Qc2 Bc7 30. a5 Qd6 31. Qa2 Ne6 32. Qa4
+Kg7 33. Be3 Qe7 34. Qc6 Bxa5 35. Qxd5 Bc7 36. Qc6 a5 37. g3 Nd8 38. Qc4 Bd6
+39. d5 Nf7 40. Bd4 Nxe5 41. Qe2 Qb7 42. Qf3 Qe7 43. Qe2 Qb7 44. Qc4 Qe7 45.
+Qe2 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -1974,11 +1996,12 @@ Qc6 Bxa5 35. Qxd5 Bc7 36. Qc6 a5 37. g3 Nd8 38. Qc4 Bd6 39. d5 Nf7 40. Bd4 Nxe5
 [White "Potkin, Vladimir"]
 [Black "Kurnosov, Igor"]
 [Result "1/2-1/2"]
-[ECO "D02"]
 [WhiteElo "2646"]
 [BlackElo "2676"]
-[PlyCount "123"]
+[ECO "D02"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "123"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -1989,18 +2012,18 @@ Qc6 Bxa5 35. Qxd5 Bc7 36. Qc6 a5 37. g3 Nd8 38. Qc4 Bd6 39. d5 Nf7 40. Bd4 Nxe5
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. Nf3 c5 2. c3 d5 3. d4 e6 4. Bf4 Nf6 5. e3 Be7 6. Nbd2 O-O 7. Bd3 Nc6 8. h3
-b6 9. O-O Bb7 10. Qe2 Bd6 11. Bxd6 Qxd6 12. dxc5 bxc5 13. e4 Nd7 14. exd5 exd5
-15. Rfe1 Nf6 16. Nf1 d4 17. Ng3 Rae8 18. Qd2 Ne5 19. Nxe5 Rxe5 20. Rxe5 Qxe5
-21. Bc4 dxc3 22. Qxc3 Qxc3 23. bxc3 Rd8 24. Rb1 Bc6 25. Rb3 a5 26. Nf5 Kf8 27.
-Ne3 Ne4 28. f3 Nd2 29. Rb6 Nxc4 30. Nxc4 Bd5 31. Nxa5 Bxa2 32. c4 Rd1+ 33. Kh2
-Rd2 34. Rb5 g6 35. Rxc5 Rc2 36. Kg3 Ke7 37. Rc7+ Ke6 38. h4 h6 39. Rc6+ Kd7 40.
-Rc5 Kd6 41. Rd5+ Ke6 42. Rc5 Kd6 43. Rc6+ Kd7 44. Kh3 Rc1 45. g4 Rc3 46. Kg3
-Ra3 47. Rc5 Ra4 48. h5 gxh5 49. gxh5 Kd6 50. Nb7+ Kd7 51. Rf5 Ke6 52. Ra5 Rxa5
-53. Nxa5 Ke5 54. f4+ Ke4 55. Nb7 Bxc4 56. Nd6+ Kd5 57. Nxf7 Be2 58. Nxh6 Bxh5
-59. Kh4 Bg6 60. Kg5 Bb1 61. f5 Bxf5 62. Nxf5 1/2-1/2
+1. Nf3 c5 2. c3 d5 3. d4 e6 4. Bf4 Nf6 5. e3 Be7 6. Nbd2 O-O 7. Bd3 Nc6 8.
+h3 b6 9. O-O Bb7 10. Qe2 Bd6 11. Bxd6 Qxd6 12. dxc5 bxc5 13. e4 Nd7 14.
+exd5 exd5 15. Rfe1 Nf6 16. Nf1 d4 17. Ng3 Rae8 18. Qd2 Ne5 19. Nxe5 Rxe5
+20. Rxe5 Qxe5 21. Bc4 dxc3 22. Qxc3 Qxc3 23. bxc3 Rd8 24. Rb1 Bc6 25. Rb3
+a5 26. Nf5 Kf8 27. Ne3 Ne4 28. f3 Nd2 29. Rb6 Nxc4 30. Nxc4 Bd5 31. Nxa5
+Bxa2 32. c4 Rd1+ 33. Kh2 Rd2 34. Rb5 g6 35. Rxc5 Rc2 36. Kg3 Ke7 37. Rc7+
+Ke6 38. h4 h6 39. Rc6+ Kd7 40. Rc5 Kd6 41. Rd5+ Ke6 42. Rc5 Kd6 43. Rc6+
+Kd7 44. Kh3 Rc1 45. g4 Rc3 46. Kg3 Ra3 47. Rc5 Ra4 48. h5 gxh5 49. gxh5 Kd6
+50. Nb7+ Kd7 51. Rf5 Ke6 52. Ra5 Rxa5 53. Nxa5 Ke5 54. f4+ Ke4 55. Nb7 Bxc4
+56. Nd6+ Kd5 57. Nxf7 Be2 58. Nxh6 Bxh5 59. Kh4 Bg6 60. Kg5 Bb1 61. f5 Bxf5
+62. Nxf5 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -2009,11 +2032,12 @@ Ra3 47. Rc5 Ra4 48. h5 gxh5 49. gxh5 Kd6 50. Nb7+ Kd7 51. Rf5 Ke6 52. Ra5 Rxa5
 [White "Svidler, Peter"]
 [Black "Grischuk, Alexander"]
 [Result "1/2-1/2"]
-[ECO "B46"]
 [WhiteElo "2722"]
 [BlackElo "2771"]
-[PlyCount "55"]
+[ECO "B46"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "55"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -2024,13 +2048,12 @@ Ra3 47. Rc5 Ra4 48. h5 gxh5 49. gxh5 Kd6 50. Nb7+ Kd7 51. Rf5 Ke6 52. Ra5 Rxa5
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Nf6 7. Qd2 Bb4 8. f3
-d5 9. O-O-O Qa5 10. Nb3 Bxc3 11. Nxa5 Bxd2+ 12. Bxd2 dxe4 13. Nc4 O-O 14. Nb6
-Rb8 15. Be3 Nd5 16. Nxd5 exd5 17. Bf4 Ra8 18. Rxd5 exf3 19. gxf3 Be6 20. Rd2
-Rfd8 21. Bd6 Rac8 22. b3 b5 23. Bg2 Bf5 24. c3 Nd4 25. Bb4 Nc6 26. Bd6 Nd4 27.
-Bb4 Nc6 28. Bd6 1/2-1/2
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Be3 Nf6 7. Qd2 Bb4
+8. f3 d5 9. O-O-O Qa5 10. Nb3 Bxc3 11. Nxa5 Bxd2+ 12. Bxd2 dxe4 13. Nc4 O-O
+14. Nb6 Rb8 15. Be3 Nd5 16. Nxd5 exd5 17. Bf4 Ra8 18. Rxd5 exf3 19. gxf3
+Be6 20. Rd2 Rfd8 21. Bd6 Rac8 22. b3 b5 23. Bg2 Bf5 24. c3 Nd4 25. Bb4 Nc6
+26. Bd6 Nd4 27. Bb4 Nc6 28. Bd6 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -2039,11 +2062,12 @@ Bb4 Nc6 28. Bd6 1/2-1/2
 [White "Tomashevsky, Evgeny"]
 [Black "Jakovenko, Dmitrij"]
 [Result "1/2-1/2"]
-[ECO "D45"]
 [WhiteElo "2699"]
 [BlackElo "2726"]
-[PlyCount "56"]
+[ECO "D45"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "56"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -2054,13 +2078,12 @@ Bb4 Nc6 28. Bd6 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. c4 e6 2. Nc3 d5 3. d4 c6 4. e3 Nf6 5. Nf3 a6 6. b3 Bb4 7. Bd2 Nbd7 8. Bd3
-O-O 9. O-O Bd6 10. Qc2 h6 11. h3 e5 12. cxd5 cxd5 13. e4 dxe4 14. Nxe4 Nxe4 15.
-Bxe4 exd4 16. Nxd4 Nf6 17. Bf3 Be5 18. Bc3 Qb6 19. Rad1 Bd7 20. Qd2 Rac8 21.
-Ba5 Qa7 22. Qb4 b5 23. Rfe1 Rfe8 24. a4 bxa4 25. bxa4 Rb8 26. Qc4 Rbc8 27. Qb4
-Rb8 28. Qc4 Rbc8 1/2-1/2
+1. c4 e6 2. Nc3 d5 3. d4 c6 4. e3 Nf6 5. Nf3 a6 6. b3 Bb4 7. Bd2 Nbd7 8.
+Bd3 O-O 9. O-O Bd6 10. Qc2 h6 11. h3 e5 12. cxd5 cxd5 13. e4 dxe4 14. Nxe4
+Nxe4 15. Bxe4 exd4 16. Nxd4 Nf6 17. Bf3 Be5 18. Bc3 Qb6 19. Rad1 Bd7 20.
+Qd2 Rac8 21. Ba5 Qa7 22. Qb4 b5 23. Rfe1 Rfe8 24. a4 bxa4 25. bxa4 Rb8 26.
+Qc4 Rbc8 27. Qb4 Rb8 28. Qc4 Rbc8 1/2-1/2
 
 [Event "63rd Russian Championship"]
 [Site "Moscow, Russia"]
@@ -2069,11 +2092,12 @@ Rb8 28. Qc4 Rbc8 1/2-1/2
 [White "Zvjaginsev, Vadim"]
 [Black "Khismatullin, Denis"]
 [Result "1/2-1/2"]
-[ECO "B53"]
 [WhiteElo "2676"]
 [BlackElo "2659"]
-[PlyCount "51"]
+[ECO "B53"]
+[TimeControl "40/5400+30:1800+30"]
 [EventDate "2010.12.10"]
+[PlyCount "51"]
 [EventType "tourn"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -2084,13 +2108,12 @@ Rb8 28. Qc4 Rbc8 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "40/5400+30:1800+30"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3 Nf6 8.
-Bg5 e6 9. O-O-O Be7 10. Bxf6 Bxf6 11. Qxd6 Qxd6 12. Rxd6 Bxc3 13. bxc3 Bxe4 14.
-Ne5 Rc8 15. Rd4 Bd5 16. c4 Bxg2 17. Rg1 f6 18. Nd7 Ke7 19. Rxg2 g6 20. Rg3 Rc7
-21. Rgd3 Rd8 22. Rh4 Rdxd7 23. Rxh7+ Ke8 24. Rh8+ Ke7 25. Rh7+ Ke8 26. Rh8+
-1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Nc3
+Nf6 8. Bg5 e6 9. O-O-O Be7 10. Bxf6 Bxf6 11. Qxd6 Qxd6 12. Rxd6 Bxc3 13.
+bxc3 Bxe4 14. Ne5 Rc8 15. Rd4 Bd5 16. c4 Bxg2 17. Rg1 f6 18. Nd7 Ke7 19.
+Rxg2 g6 20. Rg3 Rc7 21. Rgd3 Rd8 22. Rh4 Rdxd7 23. Rxh7+ Ke8 24. Rh8+ Ke7
+25. Rh7+ Ke8 26. Rh8+ 1/2-1/2
 
 [Event "Rapid Tiebreak"]
 [Site "Moscow, Russia"]
@@ -2099,11 +2122,12 @@ Ne5 Rc8 15. Rd4 Bd5 16. c4 Bxg2 17. Rg1 f6 18. Nd7 Ke7 19. Rxg2 g6 20. Rg3 Rc7
 [White "Karjakin, Sergey"]
 [Black "Nepomniachtchi, Ian"]
 [Result "1/2-1/2"]
-[ECO "B90"]
 [WhiteElo "2760"]
 [BlackElo "2720"]
-[PlyCount "104"]
+[ECO "B90"]
+[TimeControl "900+10"]
 [EventDate "2010.12.22"]
+[PlyCount "104"]
 [EventType "match (rapid)"]
 [EventRounds "2"]
 [EventCountry "RUS"]
@@ -2113,17 +2137,16 @@ Ne5 Rc8 15. Rd4 Bd5 16. c4 Bxg2 17. Rg1 f6 18. Nd7 Ke7 19. Rxg2 g6 20. Rg3 Rc7
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "900+10"]
 
-1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
-O-O 9. O-O Nc6 10. Re1 b5 11. Bb3 Na5 12. Bg5 Nxb3 13. axb3 Bb7 14. Bxf6 Bxf6
-15. Nd5 Rc8 16. c3 g6 17. Qd3 Bg7 18. b4 f5 19. Nd2 Bh6 20. Rad1 Rf7 21. f3 Kg7
-22. Nf1 fxe4 23. Rxe4 Bc6 24. Ree1 Qd7 25. Ng3 Qa7+ 26. Kh1 Kh8 27. Ne4 Rd8 28.
-b3 Rff8 29. c4 Qb7 30. h3 Bg7 31. Re2 Rd7 32. Ra2 Rb8 33. Rda1 bxc4 34. bxc4
-Bxd5 35. Qxd5 Qxd5 36. cxd5 Rxb4 37. Rxa6 Bf8 38. Ra7 Rdb7 39. R1a6 Kg7 40.
-Nxd6 Bxd6 41. Rxb7+ Rxb7 42. Rxd6 Rb1+ 43. Kh2 Rd1 44. g4 Rd2+ 45. Kg3 g5 46.
-h4 gxh4+ 47. Kxh4 h6 48. g5 Rd4+ 49. Kh5 hxg5 50. Kxg5 Rf4 51. Re6 Kf7 52. Rxe5
-Rxf3 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Nxd4 a6 6. Be3 e5 7. Nf3 Be7 8.
+Bc4 O-O 9. O-O Nc6 10. Re1 b5 11. Bb3 Na5 12. Bg5 Nxb3 13. axb3 Bb7 14.
+Bxf6 Bxf6 15. Nd5 Rc8 16. c3 g6 17. Qd3 Bg7 18. b4 f5 19. Nd2 Bh6 20. Rad1
+Rf7 21. f3 Kg7 22. Nf1 fxe4 23. Rxe4 Bc6 24. Ree1 Qd7 25. Ng3 Qa7+ 26. Kh1
+Kh8 27. Ne4 Rd8 28. b3 Rff8 29. c4 Qb7 30. h3 Bg7 31. Re2 Rd7 32. Ra2 Rb8
+33. Rda1 bxc4 34. bxc4 Bxd5 35. Qxd5 Qxd5 36. cxd5 Rxb4 37. Rxa6 Bf8 38.
+Ra7 Rdb7 39. R1a6 Kg7 40. Nxd6 Bxd6 41. Rxb7+ Rxb7 42. Rxd6 Rb1+ 43. Kh2
+Rd1 44. g4 Rd2+ 45. Kg3 g5 46. h4 gxh4+ 47. Kxh4 h6 48. g5 Rd4+ 49. Kh5
+hxg5 50. Kxg5 Rf4 51. Re6 Kf7 52. Rxe5 Rxf3 1/2-1/2
 
 [Event "Rapid Tiebreak"]
 [Site "Moscow, Russia"]
@@ -2132,11 +2155,12 @@ Rxf3 1/2-1/2
 [White "Nepomniachtchi, Ian"]
 [Black "Karjakin, Sergey"]
 [Result "1/2-1/2"]
-[ECO "C45"]
 [WhiteElo "2720"]
 [BlackElo "2760"]
-[PlyCount "58"]
+[ECO "C45"]
+[TimeControl "900+10"]
 [EventDate "2010.12.22"]
+[PlyCount "58"]
 [EventType "match (rapid)"]
 [EventRounds "2"]
 [EventCountry "RUS"]
@@ -2146,13 +2170,12 @@ Rxf3 1/2-1/2
 [BlackTeam "Russia"]
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
-[TimeControl "900+10"]
 
-1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
-c4 Nb6 9. b3 Bb7 10. Bb2 g6 11. Nd2 Bg7 12. Ne4 O-O-O 13. f4 Rhe8 14. O-O-O d5
-15. Nd2 c5 16. cxd5 Nxd5 17. g3 f6 18. Nc4 fxe5 19. Nxe5 Bxe5 20. Bxe5 Nc3 21.
-Bxc3 Bxh1 22. Bh3+ Kb8 23. Rxd8+ Qxd8 24. Qb5+ Ka8 25. Bd7 Re7 26. Bc6+ Bxc6
-27. Qxc6+ Kb8 28. Qb5+ Kc8 29. Qa6+ Kb8 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2
+Nd5 8. c4 Nb6 9. b3 Bb7 10. Bb2 g6 11. Nd2 Bg7 12. Ne4 O-O-O 13. f4 Rhe8
+14. O-O-O d5 15. Nd2 c5 16. cxd5 Nxd5 17. g3 f6 18. Nc4 fxe5 19. Nxe5 Bxe5
+20. Bxe5 Nc3 21. Bxc3 Bxh1 22. Bh3+ Kb8 23. Rxd8+ Qxd8 24. Qb5+ Ka8 25. Bd7
+Re7 26. Bc6+ Bxc6 27. Qxc6+ Kb8 28. Qb5+ Kc8 29. Qa6+ Kb8 1/2-1/2
 
 [Event "Armageddon"]
 [Site "Moscow, Russia"]
@@ -2161,11 +2184,11 @@ Bxc3 Bxh1 22. Bh3+ Kb8 23. Rxd8+ Qxd8 24. Qb5+ Ka8 25. Bd7 Re7 26. Bc6+ Bxc6
 [White "Karjakin, Sergey"]
 [Black "Nepomniachtchi, Ian"]
 [Result "1/2-1/2"]
-[ECO "B45"]
 [WhiteElo "2760"]
 [BlackElo "2720"]
-[PlyCount "148"]
+[ECO "B45"]
 [EventDate "2010.12.22"]
+[PlyCount "148"]
 [EventType "game (blitz)"]
 [EventRounds "1"]
 [EventCountry "RUS"]
@@ -2176,16 +2199,17 @@ Bxc3 Bxh1 22. Bh3+ Kb8 23. Rxd8+ Qxd8 24. Qb5+ Ka8 25. Bd7 Re7 26. Bc6+ Bxc6
 [WhiteTeamCountry "RUS"]
 [BlackTeamCountry "RUS"]
 
-1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Nd5 8.
-Ne4 Qc7 9. f4 Qb6 10. c4 Ne3 11. Qd3 Nxf1 12. Rxf1 c5 13. Bd2 Bb7 14. O-O-O Qc6
-15. Bc3 O-O-O 16. Ng5 Qxg2 17. Nxf7 Be4 18. Qd2 Qxd2+ 19. Kxd2 Be7 20. Ke3 Bf5
-21. Rg1 g6 22. Ba5 Rdf8 23. Nxh8 Rxh8 24. Rd2 Re8 25. a3 h6 26. Kf3 g5 27. Rgd1
-h5 28. Rxd7 Bg4+ 29. Ke4 Bxd1 30. Rxd1 gxf4 31. Rf1 Rg8 32. Rxf4 Rg2 33. Rf7
-Kd7 34. b4 Ke8 35. Rh7 Rxh2 36. Rh8+ Kf7 37. Rh7+ Ke8 38. Bc7 Rh4+ 39. Kd3 Rh3+
-40. Kc2 cxb4 41. axb4 Bxb4 42. Bd6 Rc3+ 43. Kb2 Rxc4 44. Kb3 Bxd6 45. Kxc4 Bxe5
-46. Rxh5 Bd6 47. Rh7 Be7 48. Kd4 Kd7 49. Rh5 Bd6 50. Ra5 Bb8 51. Kc5 Bd6+ 52.
-Kb5 e5 53. Rxa7+ Ke6 54. Kc4 Kf5 55. Kd5 Bb4 56. Rf7+ Kg4 57. Kxe5 Kh3 58. Kf4
-Bd6+ 59. Kf3 Kh2 60. Rh7+ Kg1 61. Rg7+ Kh1 62. Rd7 Bb8 63. Kf2 Be5 64. Rd1+ Kh2
-65. Rd5 Bg3+ 66. Kf3 Bb8 67. Rd7 Be5 68. Re7 Bd6 69. Rg7 Be5 70. Rg2+ Kh1 71.
-Rg5 Bc7 72. Rg6 Bb8 73. Kf2 Ba7+ 74. Kf1 Bb8 1/2-1/2
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Nd5
+8. Ne4 Qc7 9. f4 Qb6 10. c4 Ne3 11. Qd3 Nxf1 12. Rxf1 c5 13. Bd2 Bb7 14.
+O-O-O Qc6 15. Bc3 O-O-O 16. Ng5 Qxg2 17. Nxf7 Be4 18. Qd2 Qxd2+ 19. Kxd2
+Be7 20. Ke3 Bf5 21. Rg1 g6 22. Ba5 Rdf8 23. Nxh8 Rxh8 24. Rd2 Re8 25. a3 h6
+26. Kf3 g5 27. Rgd1 h5 28. Rxd7 Bg4+ 29. Ke4 Bxd1 30. Rxd1 gxf4 31. Rf1 Rg8
+32. Rxf4 Rg2 33. Rf7 Kd7 34. b4 Ke8 35. Rh7 Rxh2 36. Rh8+ Kf7 37. Rh7+ Ke8
+38. Bc7 Rh4+ 39. Kd3 Rh3+ 40. Kc2 cxb4 41. axb4 Bxb4 42. Bd6 Rc3+ 43. Kb2
+Rxc4 44. Kb3 Bxd6 45. Kxc4 Bxe5 46. Rxh5 Bd6 47. Rh7 Be7 48. Kd4 Kd7 49.
+Rh5 Bd6 50. Ra5 Bb8 51. Kc5 Bd6+ 52. Kb5 e5 53. Rxa7+ Ke6 54. Kc4 Kf5 55.
+Kd5 Bb4 56. Rf7+ Kg4 57. Kxe5 Kh3 58. Kf4 Bd6+ 59. Kf3 Kh2 60. Rh7+ Kg1 61.
+Rg7+ Kh1 62. Rd7 Bb8 63. Kf2 Be5 64. Rd1+ Kh2 65. Rd5 Bg3+ 66. Kf3 Bb8 67.
+Rd7 Be5 68. Re7 Bd6 69. Rg7 Be5 70. Rg2+ Kh1 71. Rg5 Bc7 72. Rg6 Bb8 73.
+Kf2 Ba7+ 74. Kf1 Bb8 1/2-1/2
 

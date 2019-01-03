@@ -5,23 +5,23 @@
 [White "Anand, Viswanathan"]
 [Black "Leko, Peter"]
 [Result "1-0"]
-[ECO "C95"]
 [WhiteElo "2791"]
 [BlackElo "2751"]
-[PlyCount "71"]
+[ECO "C95"]
 [EventDate "2009.03.14"]
+[PlyCount "71"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
-d6 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. Bd3 c6 15. b3
-g6 16. Ba3 Qc7 17. Qc2 Bg7 18. Rad1 Rac8 19. Bb2 Nh5 20. Bf1 bxa4 21. bxa4 d5
-22. dxe5 Nxe5 23. Nxe5 Bxe5 24. c4 dxe4 25. c5 Bxb2 26. Qxb2 e3 27. fxe3 Rcd8
-28. Nc4 Rxd1 29. Rxd1 Qe7 30. Nd6 Rd8 31. Qd4 Rf8 32. Bc4 Bc8 33. Rb1 Ng3 34.
-e4 Qg5 35. Bxf7+ Rxf7 36. Qh8+ 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. a4 Bf8 14. Bd3 c6
+15. b3 g6 16. Ba3 Qc7 17. Qc2 Bg7 18. Rad1 Rac8 19. Bb2 Nh5 20. Bf1 bxa4
+21. bxa4 d5 22. dxe5 Nxe5 23. Nxe5 Bxe5 24. c4 dxe4 25. c5 Bxb2 26. Qxb2 e3
+27. fxe3 Rcd8 28. Nc4 Rxd1 29. Rxd1 Qe7 30. Nd6 Rd8 31. Qd4 Rf8 32. Bc4 Bc8
+33. Rb1 Ng3 34. e4 Qg5 35. Bxf7+ Rxf7 36. Qh8+ 1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -30,24 +30,24 @@ e4 Qg5 35. Bxf7+ Rxf7 36. Qh8+ 1-0
 [White "Aronian, Levon"]
 [Black "Ivanchuk, Vassily"]
 [Result "1-0"]
-[ECO "D97"]
 [WhiteElo "2750"]
 [BlackElo "2779"]
-[PlyCount "85"]
+[ECO "D97"]
 [EventDate "2009.03.14"]
+[PlyCount "85"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. Qa4
-Nbd7 9. e5 Nb6 10. exf6 Nxa4 11. fxg7 Re8 12. Nxa4 e5 13. dxe5 Bg4 14. Nc3 Bxf3
-15. gxf3 Rxe5+ 16. Be2 Qe7 17. f4 Re6 18. Kf1 Rd8 19. Bf3 Re1+ 20. Kg2 Rxh1 21.
-Kxh1 Rd3 22. Kg2 c6 23. Ne4 f5 24. Nc3 Kxg7 25. a4 a5 26. Nd1 h5 27. Ne3 h4 28.
-h3 Qe6 29. Kf1 Rd4 30. Be2 Qe4 31. f3 Rxa4 32. fxe4 Rxa1 33. exf5 Rxc1+ 34. Kf2
-Rb1 35. Nc4 a4 36. fxg6 Rxb2 37. Nxb2 a3 38. Bc4 axb2 39. Bd3 c5 40. Ke3 b5 41.
-Bb1 b4 42. Kd3 Kxg6 43. Kc4+ 1-0
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8.
+Qa4 Nbd7 9. e5 Nb6 10. exf6 Nxa4 11. fxg7 Re8 12. Nxa4 e5 13. dxe5 Bg4 14.
+Nc3 Bxf3 15. gxf3 Rxe5+ 16. Be2 Qe7 17. f4 Re6 18. Kf1 Rd8 19. Bf3 Re1+ 20.
+Kg2 Rxh1 21. Kxh1 Rd3 22. Kg2 c6 23. Ne4 f5 24. Nc3 Kxg7 25. a4 a5 26. Nd1
+h5 27. Ne3 h4 28. h3 Qe6 29. Kf1 Rd4 30. Be2 Qe4 31. f3 Rxa4 32. fxe4 Rxa1
+33. exf5 Rxc1+ 34. Kf2 Rb1 35. Nc4 a4 36. fxg6 Rxb2 37. Nxb2 a3 38. Bc4
+axb2 39. Bd3 c5 40. Ke3 b5 41. Bb1 b4 42. Kd3 Kxg6 43. Kc4+ 1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -56,23 +56,23 @@ Bb1 b4 42. Kd3 Kxg6 43. Kc4+ 1-0
 [White "Carlsen, Magnus"]
 [Black "Kamsky, Gata"]
 [Result "1-0"]
-[ECO "D15"]
 [WhiteElo "2776"]
 [BlackElo "2725"]
-[PlyCount "67"]
+[ECO "D15"]
 [EventDate "2009.03.14"]
+[PlyCount "67"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. c5 g6 6. Bf4 Bg7 7. h3 O-O 8. e3 Bf5
-9. Nd2 Nbd7 10. g4 Be6 11. b4 a5 12. b5 Ne4 13. Ndxe4 dxe4 14. Rc1 a4 15. Be2
-Bb3 16. axb3 a3 17. Nxe4 e5 18. Bg5 Qa5+ 19. Kf1 h6 20. bxc6 bxc6 21. Bh4 a2
-22. Kg2 exd4 23. exd4 Qa3 24. Qd2 Rfe8 25. Nd6 Rxe2 26. Qxe2 Qxb3 27. Rhd1 Qd5+
-28. Qe4 Qxe4+ 29. Nxe4 Ra4 30. Ra1 f5 31. gxf5 gxf5 32. Nc3 Rxd4 33. Rxa2 Rxh4
-34. Rxd7 1-0
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. c5 g6 6. Bf4 Bg7 7. h3 O-O 8. e3
+Bf5 9. Nd2 Nbd7 10. g4 Be6 11. b4 a5 12. b5 Ne4 13. Ndxe4 dxe4 14. Rc1 a4
+15. Be2 Bb3 16. axb3 a3 17. Nxe4 e5 18. Bg5 Qa5+ 19. Kf1 h6 20. bxc6 bxc6
+21. Bh4 a2 22. Kg2 exd4 23. exd4 Qa3 24. Qd2 Rfe8 25. Nd6 Rxe2 26. Qxe2
+Qxb3 27. Rhd1 Qd5+ 28. Qe4 Qxe4+ 29. Nxe4 Ra4 30. Ra1 f5 31. gxf5 gxf5 32.
+Nc3 Rxd4 33. Rxa2 Rxh4 34. Rxd7 1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -81,23 +81,24 @@ Bb3 16. axb3 a3 17. Nxe4 e5 18. Bg5 Qa5+ 19. Kf1 h6 20. bxc6 bxc6 21. Bh4 a2
 [White "Karjakin, Sergey"]
 [Black "Wang Yue"]
 [Result "1/2-1/2"]
-[ECO "D19"]
 [WhiteElo "2706"]
 [BlackElo "2739"]
-[PlyCount "77"]
+[ECO "D19"]
 [EventDate "2009.03.14"]
+[PlyCount "77"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Nbd7 8. O-O
-Bb4 9. Qe2 Bg6 10. e4 O-O 11. Bd3 Bh5 12. e5 Nd5 13. Nxd5 cxd5 14. Qe3 Re8 15.
-Ng5 Bg6 16. Bxg6 fxg6 17. a5 Bxa5 18. Qf3 Nf8 19. Qf7+ Kh8 20. Qxb7 Qb6 21.
-Nf7+ Kg8 22. Nd6 Qxb7 23. Nxb7 Bb6 24. Be3 Reb8 25. Nd6 Bd8 26. Ra2 Rb4 27. Rc1
-a5 28. Rc2 Rab8 29. Kf1 g5 30. Ke2 Ng6 31. g3 h6 32. Kd3 Rb3+ 33. Rc3 Rxc3+ 34.
-bxc3 Ne7 35. h3 Bc7 36. Bc1 Bxd6 37. exd6 Nf5 38. d7 Rd8 39. Rxa5 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Nbd7 8.
+O-O Bb4 9. Qe2 Bg6 10. e4 O-O 11. Bd3 Bh5 12. e5 Nd5 13. Nxd5 cxd5 14. Qe3
+Re8 15. Ng5 Bg6 16. Bxg6 fxg6 17. a5 Bxa5 18. Qf3 Nf8 19. Qf7+ Kh8 20. Qxb7
+Qb6 21. Nf7+ Kg8 22. Nd6 Qxb7 23. Nxb7 Bb6 24. Be3 Reb8 25. Nd6 Bd8 26. Ra2
+Rb4 27. Rc1 a5 28. Rc2 Rab8 29. Kf1 g5 30. Ke2 Ng6 31. g3 h6 32. Kd3 Rb3+
+33. Rc3 Rxc3+ 34. bxc3 Ne7 35. h3 Bc7 36. Bc1 Bxd6 37. exd6 Nf5 38. d7 Rd8
+39. Rxa5 1/2-1/2
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -106,11 +107,11 @@ bxc3 Ne7 35. h3 Bc7 36. Bc1 Bxd6 37. exd6 Nf5 38. d7 Rd8 39. Rxa5 1/2-1/2
 [White "Kramnik, Vladimir"]
 [Black "Morozevich, Alexander"]
 [Result "1-0"]
-[ECO "D93"]
 [WhiteElo "2759"]
 [BlackElo "2771"]
-[PlyCount "89"]
+[ECO "D93"]
 [EventDate "2009.03.14"]
+[PlyCount "89"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
@@ -118,12 +119,13 @@ bxc3 Ne7 35. h3 Bc7 36. Bc1 Bxd6 37. exd6 Nf5 38. d7 Rd8 39. Rxa5 1/2-1/2
 [SourceDate "2009.03.14"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 dxc4 8.
-Bxc4 O-O 9. Nf3 Qxc5 10. Bb3 Nc6 11. O-O Qa5 12. h3 Bf5 13. Ng5 Qa6 14. e4 Rad8
-15. Bxf7+ Kh8 16. Qe1 h6 17. exf5 hxg5 18. Bxg5 Rxf7 19. fxg6 Rff8 20. f4 Qd3
-21. f5 Nh5 22. Rf3 Qd4+ 23. Kh1 Bf6 24. Ne4 Kg7 25. Nc5 Rd6 26. Bxf6+ Rdxf6 27.
-Ne6+ Rxe6 28. Qxe6 Rf6 29. Qe3 Rxf5 30. Qxd4+ Nxd4 31. Rxf5 Ng3+ 32. Kh2 Ngxf5
-33. Rc7 Kxg6 34. g4 Nd6 35. Rxe7 Kf6 36. Re3 b5 37. h4 Nc4 38. Re4 Ne6 39. Kg3
-a5 40. b3 Nd6 41. Re1 Nc5 42. g5+ Kf5 43. Rf1+ Ke5 44. Kg4 Nce4 45. h5 1-0
+Bxc4 O-O 9. Nf3 Qxc5 10. Bb3 Nc6 11. O-O Qa5 12. h3 Bf5 13. Ng5 Qa6 14. e4
+Rad8 15. Bxf7+ Kh8 16. Qe1 h6 17. exf5 hxg5 18. Bxg5 Rxf7 19. fxg6 Rff8 20.
+f4 Qd3 21. f5 Nh5 22. Rf3 Qd4+ 23. Kh1 Bf6 24. Ne4 Kg7 25. Nc5 Rd6 26.
+Bxf6+ Rdxf6 27. Ne6+ Rxe6 28. Qxe6 Rf6 29. Qe3 Rxf5 30. Qxd4+ Nxd4 31. Rxf5
+Ng3+ 32. Kh2 Ngxf5 33. Rc7 Kxg6 34. g4 Nd6 35. Rxe7 Kf6 36. Re3 b5 37. h4
+Nc4 38. Re4 Ne6 39. Kg3 a5 40. b3 Nd6 41. Re1 Nc5 42. g5+ Kf5 43. Rf1+ Ke5
+44. Kg4 Nce4 45. h5 1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -132,20 +134,21 @@ a5 40. b3 Nd6 41. Re1 Nc5 42. g5+ Kf5 43. Rf1+ Ke5 44. Kg4 Nce4 45. h5 1-0
 [White "Radjabov, Teimour"]
 [Black "Topalov, Veselin"]
 [Result "1/2-1/2"]
-[ECO "C42"]
 [WhiteElo "2761"]
 [BlackElo "2796"]
-[PlyCount "37"]
+[ECO "C42"]
 [EventDate "2009.03.14"]
+[PlyCount "37"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bd3 Nd7
-8. Be3 Nc5 9. Bxc5 dxc5 10. Qe2 O-O 11. O-O-O Bd6 12. Rhe1 Qf6 13. Kb1 Be6 14.
-Qe3 Rfe8 15. Qg5 Be7 16. Qg3 Bd6 17. Qg5 Be7 18. Qg3 Bd6 19. Qg5 1/2-1/2
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bd3
+Nd7 8. Be3 Nc5 9. Bxc5 dxc5 10. Qe2 O-O 11. O-O-O Bd6 12. Rhe1 Qf6 13. Kb1
+Be6 14. Qe3 Rfe8 15. Qg5 Be7 16. Qg3 Bd6 17. Qg5 Be7 18. Qg3 Bd6 19. Qg5
+1/2-1/2
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -154,11 +157,11 @@ Qe3 Rfe8 15. Qg5 Be7 16. Qg3 Bd6 17. Qg5 Be7 18. Qg3 Bd6 19. Qg5 1/2-1/2
 [White "Ivanchuk, Vassily"]
 [Black "Carlsen, Magnus"]
 [Result "1/2-1/2"]
-[ECO "D37"]
 [WhiteElo "2779"]
 [BlackElo "2776"]
-[PlyCount "64"]
+[ECO "D37"]
 [EventDate "2009.03.14"]
+[PlyCount "64"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
@@ -166,10 +169,11 @@ Qe3 Rfe8 15. Qg5 Be7 16. Qg3 Bd6 17. Qg5 Be7 18. Qg3 Bd6 19. Qg5 1/2-1/2
 [SourceDate "2009.03.14"]
 
 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8.
-cxd5 Nxd5 9. Nxd5 exd5 10. a3 Nc6 11. Bd3 Bb6 12. O-O Bg4 13. h3 Bh5 14. b4 Re8
-15. Rc1 a6 16. Bxa6 Rxa6 17. b5 Rxa3 18. bxc6 bxc6 19. Rxc6 Ra7 20. Qb3 Bxf3
-21. Rxb6 Be2 22. Rb1 Bc4 23. Qc3 Rae7 24. f3 f6 25. Qd4 Qc8 26. e4 dxe4 27. Rc1
-e3 28. Qxc4+ Qxc4 29. Rxc4 e2 30. Bg3 e1=Q+ 31. Bxe1 Rxe1+ 32. Kh2 R1e7 1/2-1/2
+cxd5 Nxd5 9. Nxd5 exd5 10. a3 Nc6 11. Bd3 Bb6 12. O-O Bg4 13. h3 Bh5 14. b4
+Re8 15. Rc1 a6 16. Bxa6 Rxa6 17. b5 Rxa3 18. bxc6 bxc6 19. Rxc6 Ra7 20. Qb3
+Bxf3 21. Rxb6 Be2 22. Rb1 Bc4 23. Qc3 Rae7 24. f3 f6 25. Qd4 Qc8 26. e4
+dxe4 27. Rc1 e3 28. Qxc4+ Qxc4 29. Rxc4 e2 30. Bg3 e1=Q+ 31. Bxe1 Rxe1+ 32.
+Kh2 R1e7 1/2-1/2
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -178,24 +182,25 @@ e3 28. Qxc4+ Qxc4 29. Rxc4 e2 30. Bg3 e1=Q+ 31. Bxe1 Rxe1+ 32. Kh2 R1e7 1/2-1/2
 [White "Kamsky, Gata"]
 [Black "Anand, Viswanathan"]
 [Result "1/2-1/2"]
-[ECO "C88"]
 [WhiteElo "2725"]
 [BlackElo "2791"]
-[PlyCount "88"]
+[ECO "C88"]
 [EventDate "2009.03.14"]
+[PlyCount "88"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4
-Nxd4 9. Bxf7+ Rxf7 10. Nxe5 Rf8 11. Qxd4 c5 12. Qc3 Qc7 13. a4 Bb7 14. axb5
-Nxe4 15. Qb3+ c4 16. Qxc4+ Qxc4 17. Nxc4 axb5 18. Rxa8 Rxa8 19. Ncd2 Ra1 20. f3
-Nxd2 21. Nxd2 Bg5 22. Nb3 Rb1 23. Bd2 Rxe1+ 24. Bxe1 Bd5 25. Nd4 Be3+ 26. Bf2
-Bxd4 27. Bxd4 Ba2 28. h4 Bb1 29. c3 Kf7 30. Kf2 g6 31. Ke3 Ke6 32. Kf4 h5 33.
-Kg5 d5 34. g4 hxg4 35. fxg4 Bc2 36. h5 gxh5 37. gxh5 Bd3 38. Kf4 Kf7 39. Ke5
-Bc4 40. Be3 Kg7 41. Kd4 Kh7 42. Kc5 Kg8 43. h6 Kh7 44. Kb4 Bd3 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+d4 Nxd4 9. Bxf7+ Rxf7 10. Nxe5 Rf8 11. Qxd4 c5 12. Qc3 Qc7 13. a4 Bb7 14.
+axb5 Nxe4 15. Qb3+ c4 16. Qxc4+ Qxc4 17. Nxc4 axb5 18. Rxa8 Rxa8 19. Ncd2
+Ra1 20. f3 Nxd2 21. Nxd2 Bg5 22. Nb3 Rb1 23. Bd2 Rxe1+ 24. Bxe1 Bd5 25. Nd4
+Be3+ 26. Bf2 Bxd4 27. Bxd4 Ba2 28. h4 Bb1 29. c3 Kf7 30. Kf2 g6 31. Ke3 Ke6
+32. Kf4 h5 33. Kg5 d5 34. g4 hxg4 35. fxg4 Bc2 36. h5 gxh5 37. gxh5 Bd3 38.
+Kf4 Kf7 39. Ke5 Bc4 40. Be3 Kg7 41. Kd4 Kh7 42. Kc5 Kg8 43. h6 Kh7 44. Kb4
+Bd3 1/2-1/2
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -204,21 +209,22 @@ Bc4 40. Be3 Kg7 41. Kd4 Kh7 42. Kc5 Kg8 43. h6 Kh7 44. Kb4 Bd3 1/2-1/2
 [White "Kramnik, Vladimir"]
 [Black "Radjabov, Teimour"]
 [Result "1-0"]
-[ECO "B54"]
 [WhiteElo "2759"]
 [BlackElo "2761"]
-[PlyCount "51"]
+[ECO "B54"]
 [EventDate "2009.03.14"]
+[PlyCount "51"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. e4 c5 2. Nf3 Nc6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 e5 6. Nf3 Be6 7. Ng5 Nf6 8.
-Nxe6 fxe6 9. Bc4 Qd7 10. Be3 Rc8 11. Bb3 Be7 12. Qf3 Na5 13. Ba4 Nc6 14. O-O-O
-O-O 15. Qh3 Kh8 16. Rhf1 a6 17. f4 exf4 18. Rxf4 Qc7 19. Qxe6 b5 20. Bb3 Na5
-21. Kb1 Rfe8 22. Bd4 Nxb3 23. Qxb3 Qb7 24. Qf7 Qc6 25. Bxf6 Bxf6 26. Rxf6 1-0
+1. e4 c5 2. Nf3 Nc6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 e5 6. Nf3 Be6 7. Ng5 Nf6
+8. Nxe6 fxe6 9. Bc4 Qd7 10. Be3 Rc8 11. Bb3 Be7 12. Qf3 Na5 13. Ba4 Nc6 14.
+O-O-O O-O 15. Qh3 Kh8 16. Rhf1 a6 17. f4 exf4 18. Rxf4 Qc7 19. Qxe6 b5 20.
+Bb3 Na5 21. Kb1 Rfe8 22. Bd4 Nxb3 23. Qxb3 Qb7 24. Qf7 Qc6 25. Bxf6 Bxf6
+26. Rxf6 1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -227,20 +233,20 @@ O-O 15. Qh3 Kh8 16. Rhf1 a6 17. f4 exf4 18. Rxf4 Qc7 19. Qxe6 b5 20. Bb3 Na5
 [White "Leko, Peter"]
 [Black "Aronian, Levon"]
 [Result "1-0"]
-[ECO "C63"]
 [WhiteElo "2751"]
 [BlackElo "2750"]
-[PlyCount "35"]
+[ECO "C63"]
 [EventDate "2009.03.14"]
+[PlyCount "35"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. Nxf6+ Qxf6 7. Qe2 Be7
-8. Bxc6 dxc6 9. Nxe5 Bf5 10. O-O O-O-O 11. d3 Rhe8 12. f4 Kb8 13. Qf2 Bc8 14.
-Bd2 b6 15. Rae1 Qe6 16. f5 Qd5 17. c4 Qxe5 18. Rxe5 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 Nf6 6. Nxf6+ Qxf6 7. Qe2
+Be7 8. Bxc6 dxc6 9. Nxe5 Bf5 10. O-O O-O-O 11. d3 Rhe8 12. f4 Kb8 13. Qf2
+Bc8 14. Bd2 b6 15. Rae1 Qe6 16. f5 Qd5 17. c4 Qxe5 18. Rxe5 1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -249,26 +255,26 @@ Bd2 b6 15. Rae1 Qe6 16. f5 Qd5 17. c4 Qxe5 18. Rxe5 1-0
 [White "Morozevich, Alexander"]
 [Black "Wang Yue"]
 [Result "1-0"]
-[ECO "C42"]
 [WhiteElo "2771"]
 [BlackElo "2739"]
-[PlyCount "105"]
+[ECO "C42"]
 [EventDate "2009.03.14"]
+[PlyCount "105"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8.
-Re1 Bg4 9. c3 f5 10. Qb3 O-O 11. Nbd2 Na5 12. Qc2 Nc6 13. b4 a6 14. Rb1 Kh8 15.
-a4 Bd6 16. b5 axb5 17. axb5 Ne7 18. Ne5 Bxe5 19. dxe5 Nc5 20. f3 Bh5 21. Nb3
-Ne6 22. Nd4 Qd7 23. Rb3 Bg6 24. Ba3 Rf7 25. Nxe6 Qxe6 26. f4 Nc8 27. Bc5 Nb6
-28. Rbb1 Rd7 29. Ra1 Rb8 30. Bxb6 Qxb6+ 31. Kh1 Qe6 32. c4 dxc4 33. Bxc4 Qe7
-34. Be2 Qb4 35. Red1 Rxd1+ 36. Rxd1 Qxf4 37. Qxc7 Re8 38. b6 h6 39. e6 Qe3 40.
-Bc4 Bh5 41. Rf1 Be2 42. Qf7 Bxc4 43. Qxe8+ Kh7 44. Rg1 Bxe6 45. Qb5 Qd4 46. Qb1
-Qc5 47. Rc1 Qf2 48. Rf1 Qc5 49. h3 Bd7 50. Rc1 Qf2 51. Rc7 Qd4 52. Rxb7 Bc6 53.
-Qxf5+ 1-0
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Bg4 9. c3 f5 10. Qb3 O-O 11. Nbd2 Na5 12. Qc2 Nc6 13. b4 a6 14. Rb1
+Kh8 15. a4 Bd6 16. b5 axb5 17. axb5 Ne7 18. Ne5 Bxe5 19. dxe5 Nc5 20. f3
+Bh5 21. Nb3 Ne6 22. Nd4 Qd7 23. Rb3 Bg6 24. Ba3 Rf7 25. Nxe6 Qxe6 26. f4
+Nc8 27. Bc5 Nb6 28. Rbb1 Rd7 29. Ra1 Rb8 30. Bxb6 Qxb6+ 31. Kh1 Qe6 32. c4
+dxc4 33. Bxc4 Qe7 34. Be2 Qb4 35. Red1 Rxd1+ 36. Rxd1 Qxf4 37. Qxc7 Re8 38.
+b6 h6 39. e6 Qe3 40. Bc4 Bh5 41. Rf1 Be2 42. Qf7 Bxc4 43. Qxe8+ Kh7 44. Rg1
+Bxe6 45. Qb5 Qd4 46. Qb1 Qc5 47. Rc1 Qf2 48. Rf1 Qc5 49. h3 Bd7 50. Rc1 Qf2
+51. Rc7 Qd4 52. Rxb7 Bc6 53. Qxf5+ 1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -277,29 +283,30 @@ Qxf5+ 1-0
 [White "Topalov, Veselin"]
 [Black "Karjakin, Sergey"]
 [Result "1-0"]
-[ECO "C65"]
 [WhiteElo "2796"]
 [BlackElo "2706"]
-[PlyCount "153"]
+[ECO "C65"]
 [EventDate "2009.03.14"]
+[PlyCount "153"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. c3 O-O 6. d4 Bb6 7. a4 a6 8. Bxc6
-dxc6 9. a5 Ba7 10. Bg5 Bg4 11. h3 Bxf3 12. Qxf3 exd4 13. Rd1 h6 14. Bxf6 Qxf6
-15. Qxf6 gxf6 16. cxd4 Rfd8 17. Ra4 f5 18. exf5 Rd5 19. Nc3 Rxf5 20. g4 Rf6 21.
-Rb4 b5 22. axb6 cxb6 23. Ra4 a5 24. Ne4 Rf4 25. Ng3 Rd8 26. Kg2 Rf6 27. Nf5 Bb8
-28. Rc1 Kf8 29. Rac4 Rc8 30. b4 axb4 31. Rxb4 Bc7 32. Ra4 Ke8 33. Ra7 Bf4 34.
-Rb1 b5 35. d5 cxd5 36. Rxb5 Kf8 37. Rxd5 Re8 38. h4 Kg8 39. h5 Bc1 40. Rb7 Ba3
-41. Rbd7 Bf8 42. Rd8 Rfe6 43. Kg3 Re1 44. Ne3 Rxd8 45. Rxd8 Rb1 46. Nf5 Rb6 47.
-Rc8 Rb3+ 48. Kh4 Rb6 49. f4 Ra6 50. g5 hxg5+ 51. Kxg5 Re6 52. h6 Rg6+ 53. Kh5
-Rf6 54. Ne7+ Kh7 55. Rxf8 Rxf4 56. Kg5 Rf1 57. Nf5 Rg1+ 58. Kf6 Rg6+ 59. Kxf7
-Ra6 60. Ke7 Kg6 61. Kd7 Rb6 62. Kc7 Ra6 63. Kb8 Rb6+ 64. Ka7 Re6 65. Kb7 Re1
-66. Kc6 Rc1+ 67. Kd6 Rd1+ 68. Ke5 Re1+ 69. Kf4 Rf1+ 70. Kg3 Rh1 71. Kf3 Rh2 72.
-Kg4 Rg2+ 73. Kf4 Rg1 74. Rg8+ Kh5 75. h7 Rxg8 76. Ng3+ Kh6 77. hxg8=R 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. c3 O-O 6. d4 Bb6 7. a4 a6 8.
+Bxc6 dxc6 9. a5 Ba7 10. Bg5 Bg4 11. h3 Bxf3 12. Qxf3 exd4 13. Rd1 h6 14.
+Bxf6 Qxf6 15. Qxf6 gxf6 16. cxd4 Rfd8 17. Ra4 f5 18. exf5 Rd5 19. Nc3 Rxf5
+20. g4 Rf6 21. Rb4 b5 22. axb6 cxb6 23. Ra4 a5 24. Ne4 Rf4 25. Ng3 Rd8 26.
+Kg2 Rf6 27. Nf5 Bb8 28. Rc1 Kf8 29. Rac4 Rc8 30. b4 axb4 31. Rxb4 Bc7 32.
+Ra4 Ke8 33. Ra7 Bf4 34. Rb1 b5 35. d5 cxd5 36. Rxb5 Kf8 37. Rxd5 Re8 38. h4
+Kg8 39. h5 Bc1 40. Rb7 Ba3 41. Rbd7 Bf8 42. Rd8 Rfe6 43. Kg3 Re1 44. Ne3
+Rxd8 45. Rxd8 Rb1 46. Nf5 Rb6 47. Rc8 Rb3+ 48. Kh4 Rb6 49. f4 Ra6 50. g5
+hxg5+ 51. Kxg5 Re6 52. h6 Rg6+ 53. Kh5 Rf6 54. Ne7+ Kh7 55. Rxf8 Rxf4 56.
+Kg5 Rf1 57. Nf5 Rg1+ 58. Kf6 Rg6+ 59. Kxf7 Ra6 60. Ke7 Kg6 61. Kd7 Rb6 62.
+Kc7 Ra6 63. Kb8 Rb6+ 64. Ka7 Re6 65. Kb7 Re1 66. Kc6 Rc1+ 67. Kd6 Rd1+ 68.
+Ke5 Re1+ 69. Kf4 Rf1+ 70. Kg3 Rh1 71. Kf3 Rh2 72. Kg4 Rg2+ 73. Kf4 Rg1 74.
+Rg8+ Kh5 75. h7 Rxg8 76. Ng3+ Kh6 77. hxg8=R 1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -308,23 +315,23 @@ Kg4 Rg2+ 73. Kf4 Rg1 74. Rg8+ Kh5 75. h7 Rxg8 76. Ng3+ Kh6 77. hxg8=R 1-0
 [White "Anand, Viswanathan"]
 [Black "Carlsen, Magnus"]
 [Result "0-1"]
-[ECO "B51"]
 [WhiteElo "2791"]
 [BlackElo "2776"]
-[PlyCount "68"]
+[ECO "B51"]
 [EventDate "2009.03.14"]
+[PlyCount "68"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Bf1 Bg4 8. d3
-e6 9. Nbd2 Be7 10. h3 Bh5 11. g4 Bg6 12. Nh4 Nd7 13. Ng2 h5 14. f4 hxg4 15.
-hxg4 Qc7 16. Nf3 O-O-O 17. Ne3 Nb6 18. Nc4 Nxc4 19. dxc4 f5 20. exf5 exf5 21.
-g5 Bf7 22. Qc2 g6 23. Qf2 d5 24. cxd5 Bxd5 25. Be3 Bxg5 26. Qg3 Be7 27. Bg2 g5
-28. Nxg5 Bxg5 29. Bxd5 Rxd5 30. Qxg5 Qf7 31. Kf2 Rh2+ 32. Kf1 Rd8 33. Qg3 Qc4+
-34. Kg1 Rxb2 0-1
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 Nf6 6. c3 a6 7. Bf1 Bg4 8.
+d3 e6 9. Nbd2 Be7 10. h3 Bh5 11. g4 Bg6 12. Nh4 Nd7 13. Ng2 h5 14. f4 hxg4
+15. hxg4 Qc7 16. Nf3 O-O-O 17. Ne3 Nb6 18. Nc4 Nxc4 19. dxc4 f5 20. exf5
+exf5 21. g5 Bf7 22. Qc2 g6 23. Qf2 d5 24. cxd5 Bxd5 25. Be3 Bxg5 26. Qg3
+Be7 27. Bg2 g5 28. Nxg5 Bxg5 29. Bxd5 Rxd5 30. Qxg5 Qf7 31. Kf2 Rh2+ 32.
+Kf1 Rd8 33. Qg3 Qc4+ 34. Kg1 Rxb2 0-1
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -333,25 +340,25 @@ g5 Bf7 22. Qc2 g6 23. Qf2 d5 24. cxd5 Bxd5 25. Be3 Bxg5 26. Qg3 Be7 27. Bg2 g5
 [White "Aronian, Levon"]
 [Black "Kamsky, Gata"]
 [Result "1-0"]
-[ECO "A16"]
 [WhiteElo "2750"]
 [BlackElo "2725"]
-[PlyCount "97"]
+[ECO "A16"]
 [EventDate "2009.03.14"]
+[PlyCount "97"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. h4 Bg7 6. h5 Nxc3 7. bxc3 c5 8.
-Qa4+ Qd7 9. Qh4 Bf6 10. Qf4 Qf5 11. g3 g5 12. Qe3 Nc6 13. Bg2 Bd7 14. h6 Rc8
-15. O-O Rg8 16. Ne1 b6 17. Nd3 Qg6 18. a4 Na5 19. Ne5 Bxe5 20. Qxe5 Qxh6 21. d3
-Bc6 22. Qf5 Rd8 23. Bxc6+ Nxc6 24. a5 Nxa5 25. Rxa5 bxa5 26. Be3 Qc6 27. Rb1
-Rg6 28. c4 Rh6 29. f3 Qe6 30. Qxc5 Qh3 31. Qb5+ Kf8 32. Kf2 Re6 33. Rg1 f6 34.
-Qb1 Qf5 35. Qc1 a4 36. Rh1 Kg8 37. d4 Rc6 38. c5 Ra6 39. g4 Qd5 40. Qc2 Qf7 41.
-Rxh7 Qxh7 42. Qc4+ Qf7 43. Qxa6 Qb3 44. c6 Qe6 45. c7 Qxa6 46. cxd8=Q+ Kf7 47.
-d5 Qb5 48. d6 exd6 49. Qxd6 1-0
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. h4 Bg7 6. h5 Nxc3 7. bxc3 c5
+8. Qa4+ Qd7 9. Qh4 Bf6 10. Qf4 Qf5 11. g3 g5 12. Qe3 Nc6 13. Bg2 Bd7 14. h6
+Rc8 15. O-O Rg8 16. Ne1 b6 17. Nd3 Qg6 18. a4 Na5 19. Ne5 Bxe5 20. Qxe5
+Qxh6 21. d3 Bc6 22. Qf5 Rd8 23. Bxc6+ Nxc6 24. a5 Nxa5 25. Rxa5 bxa5 26.
+Be3 Qc6 27. Rb1 Rg6 28. c4 Rh6 29. f3 Qe6 30. Qxc5 Qh3 31. Qb5+ Kf8 32. Kf2
+Re6 33. Rg1 f6 34. Qb1 Qf5 35. Qc1 a4 36. Rh1 Kg8 37. d4 Rc6 38. c5 Ra6 39.
+g4 Qd5 40. Qc2 Qf7 41. Rxh7 Qxh7 42. Qc4+ Qf7 43. Qxa6 Qb3 44. c6 Qe6 45.
+c7 Qxa6 46. cxd8=Q+ Kf7 47. d5 Qb5 48. d6 exd6 49. Qxd6 1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -360,688 +367,696 @@ d5 Qb5 48. d6 exd6 49. Qxd6 1-0
 [White "Karjakin, Sergey"]
 [Black "Kramnik, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "D37"]
 [WhiteElo "2706"]
 [BlackElo "2759"]
-[PlyCount "54"]
+[ECO "D37"]
 [EventDate "2009.03.14"]
+[PlyCount "54"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. Qc2 c5 7. dxc5 Na6 8. e3
-Nxc5 9. Be2 dxc4 10. Bxc4 a6 11. a4 b6 12. O-O Bb7 13. Rfd1 Qc8 14. Qe2 Qc6 15.
-Qf1 Rfc8 16. Ne5 Qe8 17. h3 Ncd7 18. Nxd7 Nxd7 19. e4 Bf6 20. f3 Bxc3 21. bxc3
-Nc5 22. a5 Na4 23. Rd6 b5 24. Bb3 Rxc3 25. Bxa4 bxa4 26. Rb6 Rb3 27. Qc4 e5
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. Qc2 c5 7. dxc5 Na6 8.
+e3 Nxc5 9. Be2 dxc4 10. Bxc4 a6 11. a4 b6 12. O-O Bb7 13. Rfd1 Qc8 14. Qe2
+Qc6 15. Qf1 Rfc8 16. Ne5 Qe8 17. h3 Ncd7 18. Nxd7 Nxd7 19. e4 Bf6 20. f3
+Bxc3 21. bxc3 Nc5 22. a5 Na4 23. Rd6 b5 24. Bb3 Rxc3 25. Bxa4 bxa4 26. Rb6
+Rb3 27. Qc4 e5 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.16"]
+[Round "3"]
+[White "Leko, Peter"]
+[Black "Ivanchuk, Vassily"]
+[Result "1-0"]
+[WhiteElo "2751"]
+[BlackElo "2779"]
+[ECO "B82"]
+[EventDate "2009.03.14"]
+[PlyCount "113"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 Nf6 7. f4 d6 8.
+Qf3 Be7 9. O-O-O O-O 10. Rg1 Nxd4 11. Bxd4 e5 12. fxe5 dxe5 13. Qg3 Rd8 14.
+Be2 Rxd4 15. Rxd4 Bc5 16. Rc4 Be6 17. Rd1 Bxc4 18. Bxc4 Rd8 19. Nd5 Nxd5
+20. Bxd5 Kh8 21. Rf1 f6 22. Kb1 b5 23. Qf3 b4 24. g4 Qb6 25. h4 Be3 26. g5
+Bf4 27. gxf6 Qxf6 28. h5 a5 29. a4 Qg5 30. Qe2 Rf8 31. Rh1 Qe7 32. Qa6 Qc5
+33. Bb3 Rd8 34. Ka2 Bg5 35. Rf1 Bf4 36. Rd1 Qf8 37. Bd5 Qc5 38. Bb3 Qf8 39.
+Rh1 Ra8 40. Qb6 Qd8 41. Qe6 Qe8 42. Qd5 Qd8 43. Qb5 Qe8 44. Qe2 Rd8 45. Qa6
+Ra8 46. Qb7 Rb8 47. Qc7 Qd8 48. Qc4 Qd6 49. Rh3 Rd8 50. Rd3 Qf8 51. Rd5 Ra8
+52. Rd7 Rd8 53. Ra7 Ra8 54. Rf7 Qd6 55. Qb5 Bh6 56. Rd7 Qf6 57. Qd5 1-0
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.16"]
+[Round "3"]
+[White "Radjabov, Teimour"]
+[Black "Morozevich, Alexander"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2771"]
+[ECO "B14"]
+[EventDate "2009.03.14"]
+[PlyCount "70"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 c6 2. c4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. cxd5 Nxd5
+8. Qc2 Nc6 9. a3 Ba5 10. Bd2 Bd7 11. Bd3 Rc8 12. O-O h6 13. b4 Bb6 14. Nxd5
+exd5 15. Rfe1+ Ne7 16. Qb3 O-O 17. a4 Bf5 18. a5 Bxd3 19. Qxd3 Bc7 20. b5
+Bd6 21. Ne5 Bxe5 22. dxe5 Qd7 23. Bb4 Rfd8 24. Bd6 Rc4 25. h3 Qe6 26. Rad1
+Rd7 27. a6 bxa6 28. bxa6 Nf5 29. Qxd5 Qxd5 30. Rxd5 Rc6 31. Red1 Rxa6 32.
+Bc5 Rxd5 33. Rxd5 Ra5 34. Rd8+ Kh7 35. Bd6 Nxd6 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.16"]
+[Round "3"]
+[White "Wang Yue"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[WhiteElo "2739"]
+[BlackElo "2796"]
+[ECO "D30"]
+[EventDate "2009.03.14"]
+[PlyCount "68"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 h6 5. Bxf6 Qxf6 6. e3 c6 7. Nbd2 Nd7 8.
+Bd3 g5 9. h3 Bg7 10. e4 e5 11. O-O O-O 12. Re1 exd4 13. cxd5 cxd5 14. Rc1
+Qd6 15. Bb1 d3 16. Bxd3 Rd8 17. exd5 Nb6 18. Nc4 Nxc4 19. Rxc4 Qxd5 20.
+Re8+ Rxe8 21. Bh7+ Kxh7 22. Qxd5 Be6 23. Qd3+ Kg8 24. Re4 Rad8 25. Qb1 Rd6
+26. Re1 Red8 27. b3 b5 28. Qc2 Bf6 29. Qc5 a6 30. Qc7 Kg7 31. Kh2 R8d7 32.
+Qc5 Rd5 33. Qc2 Bf5 34. Qc7 Rxc7 0-1
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.17"]
+[Round "4"]
+[White "Anand, Viswanathan"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteElo "2791"]
+[BlackElo "2750"]
+[ECO "C88"]
+[EventDate "2009.03.14"]
+[PlyCount "143"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+h3 Bb7 9. d3 d5 10. exd5 Nxd5 11. a4 Nd4 12. Nbd2 Nxb3 13. Nxb3 f6 14. Na5
+Qc8 15. c3 Kh8 16. Qb3 c5 17. Bd2 Rb8 18. Nxb7 Qxb7 19. axb5 axb5 20. Ra2
+Qc6 21. Rea1 c4 22. Qc2 cxd3 23. Qxd3 Nb6 24. Ra6 Rfd8 25. Qe2 Qd5 26. Be3
+Nc4 27. Ba7 Ra8 28. b3 Na3 29. b4 Nc4 30. Ne1 h6 31. Nc2 Qd3 32. Qxd3 Rxd3
+33. Ne3 Nxe3 34. Bxe3 Rxa6 35. Rxa6 Rxc3 36. Rb6 Bxb4 37. Rxb5 Rc4 38. g4
+Kh7 39. Kg2 Kg6 40. Rb7 Bf8 41. Rb8 Kf7 42. Rb7+ Ke6 43. Kf3 Be7 44. Rb6+
+Bd6 45. Rb7 Be7 46. Rb6+ Bd6 47. Rb7 Bf8 48. Rb6+ Kf7 49. Rb7+ Kg6 50. Rb8
+Bd6 51. Rb7 Bc7 52. Ra7 h5 53. Rb7 hxg4+ 54. hxg4 Bd6 55. Rb6 Ba3 56. Rb7
+Bc1 57. Bxc1 Rxc1 58. Kg2 Kh6 59. g5+ fxg5 60. Rb6+ Kh5 61. Rb7 Kg6 62.
+Rb6+ Kf5 63. Rb7 g6 64. Rf7+ Ke6 65. Rf8 Rc3 66. Ra8 g4 67. Rg8 Kf5 68.
+Rf8+ Ke6 69. Re8+ Kf6 70. Rf8+ Ke7 71. Rg8 Rf3 72. Rxg6 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.17"]
+[Round "4"]
+[White "Carlsen, Magnus"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[WhiteElo "2776"]
+[BlackElo "2751"]
+[ECO "B12"]
+[EventDate "2009.03.14"]
+[PlyCount "51"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. a3 Ne7 6. Nbd2 Bg6 7. Nh4 Nf5 8.
+Nxg6 hxg6 9. Nf3 c5 10. dxc5 Bxc5 11. b4 Bb6 12. c4 dxc4 13. Qxd8+ Bxd8 14.
+Bxc4 Nc6 15. Bb2 Nh4 16. Nxh4 Rxh4 17. Bd3 Bb6 18. g3 Rh5 19. f4 O-O-O 20.
+O-O-O Bd4 21. h4 Rhh8 22. Rh2 Rd7 23. Bxd4 Nxd4 24. Be4 Rhd8 25. Kb2 Nf5
+26. Rc2+ 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.17"]
+[Round "4"]
+[White "Kamsky, Gata"]
+[Black "Ivanchuk, Vassily"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2779"]
+[ECO "B90"]
+[EventDate "2009.03.14"]
+[PlyCount "104"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 Nc6 7. Be2 g6 8.
+O-O Bg7 9. Be3 O-O 10. Qd2 Bd7 11. f3 Rc8 12. Rfd1 Re8 13. Bf1 Qc7 14. Qf2
+Na5 15. Ndb5 axb5 16. Bb6 Qb8 17. Bxa5 bxa4 18. Nxa4 Bxa4 19. Rxa4 Rf8 20.
+Bb5 b6 21. Bb4 Qc7 22. c3 Ra8 23. Rda1 Rxa4 24. Rxa4 Nd7 25. Qe2 Nc5 26.
+Ra1 Qb7 27. Bc4 Ra8 28. Rd1 Qc7 29. g3 e6 30. Kg2 Bf6 31. Bb5 Ra7 32. h4 h5
+33. Bc4 Qc6 34. Kh3 Be7 35. Re1 Qa8 36. Rd1 Ra1 37. Ba3 Rxd1 38. Qxd1 Qc8
+39. Bb5 d5 40. exd5 exd5+ 41. Kg2 Qe6 42. Qe2 Kf8 43. Qxe6 Nxe6 44. Bxe7+
+Kxe7 45. Kf2 d4 46. c4 Nc7 47. Ba4 f5 48. Ke2 Na6 49. Bb5 Nb4 50. f4 Kf7
+51. Kd2 Ke7 52. Ke2 Kf7 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.17"]
+[Round "4"]
+[White "Kramnik, Vladimir"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[WhiteElo "2759"]
+[BlackElo "2739"]
+[ECO "D17"]
+[EventDate "2009.03.14"]
+[PlyCount "71"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6
+8. Ne5 a5 9. f3 Nfd7 10. Nxd7 Nxd7 11. e4 Bg6 12. Be2 e6 13. O-O Bb4 14.
+Be3 O-O 15. Qb3 Qb8 16. Kh1 Re8 17. Rad1 f6 18. Na2 Bf8 19. Bc4 Bf7 20. f4
+Re7 21. Nc3 Qe8 22. Bf2 Nb8 23. d5 exd5 24. exd5 Na6 25. Bb6 cxd5 26. Nxd5
+Re4 27. Qg3 Qc6 28. Bb5 Qxd5 29. Rxd5 Bxd5 30. Bxa5 Nc5 31. b4 Ne6 32. Bd3
+Rd4 33. Qe3 Re8 34. Bb5 Rc8 35. Bd7 Re4 36. Qxe4 1-0
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.17"]
+[Round "4"]
+[White "Morozevich, Alexander"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[WhiteElo "2771"]
+[BlackElo "2796"]
+[ECO "E36"]
+[EventDate "2009.03.14"]
+[PlyCount "87"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 dxc4
+8. Qxc4 b6 9. Bg5 Ba6 10. Qc2 h6 11. Bh4 c5 12. e4 Bxf1 13. Rxf1 g5 14. Bg3
+cxd4 15. Rd1 Qc8 16. Qe2 Qa6 17. Bxb8 Qxe2+ 18. Kxe2 Raxb8 19. Rxd4 Rbc8
+20. Rfd1 Rc2+ 21. R1d2 Rfc8 22. Ne5 Rc1 23. Rd8+ Rxd8 24. Rxd8+ Kg7 25. Ra8
+Rc5 26. Nd3 Rc2+ 27. Kd1 Rc7 28. f3 h5 29. Kd2 Nd7 30. b3 h4 31. g3 hxg3
+32. hxg3 Kf6 33. f4 gxf4 34. gxf4 e5 35. Re8 exf4 36. Nxf4 Rc6 37. b4 Kg7
+38. Kd3 Rd6+ 39. Ke3 a6 40. e5 Rh6 41. e6 Ne5 42. e7 Kf6 43. Nd5+ Ke6 44.
+Rd8 1-0
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.17"]
+[Round "4"]
+[White "Radjabov, Teimour"]
+[Black "Karjakin, Sergey"]
+[Result "1-0"]
+[WhiteElo "2761"]
+[BlackElo "2706"]
+[ECO "C55"]
+[EventDate "2009.03.14"]
+[PlyCount "133"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. Bb3 O-O 6. O-O d6 7. c3 d5 8.
+Nbd2 Bg4 9. h3 Bh5 10. Re1 dxe4 11. dxe4 Bc5 12. Qe2 h6 13. Qb5 Qe7 14.
+Qxb7 Na5 15. Qb5 Nxb3 16. Nxb3 Bd6 17. Nh4 a6 18. Qc4 Qd7 19. f3 Qb5 20.
+Qxb5 axb5 21. Be3 Nd7 22. g4 Bg6 23. Red1 Rfb8 24. a3 Kf8 25. Rd5 Ke7 26.
+Rad1 Bh7 27. Kf2 Nb6 28. Bxb6 Rxb6 29. Nf5+ Bxf5 30. exf5 h5 31. Nd2 hxg4
+32. fxg4 Ra4 33. Re1 Rb8 34. Ne4 f6 35. h4 Kd7 36. Kf3 Kc6 37. Red1 Be7 38.
+h5 Rh8 39. R5d2 Raa8 40. Rh2 Rh6 41. Rc2 Ra4 42. Rcd2 Rh8 43. Rd7 Re8 44.
+Ke3 Raa8 45. R7d5 Rh8 46. R5d3 Ra4 47. R3d2 Raa8 48. Rh1 Rh6 49. c4 b4 50.
+axb4 Bxb4 51. Rd5 Ra2 52. Rb1 Rh8 53. Rb5 Be7 54. Nc3 Raa8 55. Nd5 Bd6 56.
+Ke4 Ra4 57. b4 Ra3 58. Ra5 Rg3 59. b5+ Kd7 60. b6 Rxg4+ 61. Kf3 Rd4 62. b7
+Rb8 63. Ra8 c6 64. Nb6+ Kd8 65. c5 Bc7 66. Rg1 Rf4+ 67. Ke2 1-0
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.19"]
+[Round "5"]
+[White "Aronian, Levon"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2776"]
+[ECO "E20"]
+[EventDate "2009.03.14"]
+[PlyCount "55"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 e6 5. g3 Bb4+ 6. Nc3 O-O 7. Bg2 d5
+8. O-O dxc4 9. Nc2 Bxc3 10. bxc3 Qc7 11. Rb1 Nc6 12. Na3 e5 13. Qc2 Rd8 14.
+Qb2 Rb8 15. Nb5 Qa5 16. Bg5 Bf5 17. Rbd1 Rxd1 18. Rxd1 Rd8 19. Rd6 Qb6 20.
+Qd2 Rf8 21. Bxf6 Qxb5 22. Bxc6 bxc6 23. Be7 Re8 24. Rd8 c5 25. f3 h6 26.
+Rxe8+ Qxe8 27. Qd8 Qxd8 28. Bxd8 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.19"]
+[Round "5"]
+[White "Ivanchuk, Vassily"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2779"]
+[BlackElo "2791"]
+[ECO "B19"]
+[EventDate "2009.03.14"]
+[PlyCount "55"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Qa5+ 12. Bd2 Bb4 13. c3 Be7 14. c4
+Qc7 15. O-O-O Ngf6 16. Kb1 Rd8 17. Ne4 O-O 18. g3 b5 19. Bf4 Qb7 20. Nxf6+
+Nxf6 21. Ne5 c5 22. cxb5 Rxd4 23. Qf3 Nd5 24. Nc6 Rxd1+ 25. Rxd1 Bf6 26.
+Qb3 a6 27. Rc1 axb5 28. Rxc5 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.19"]
+[Round "5"]
+[White "Karjakin, Sergey"]
+[Black "Morozevich, Alexander"]
+[Result "0-1"]
+[WhiteElo "2706"]
+[BlackElo "2771"]
+[ECO "B12"]
+[EventDate "2009.03.14"]
+[PlyCount "92"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6 7. Nc3 Nc6 8.
+O-O Qxb2 9. Nb5 c4 10. Nc7+ Kd7 11. Nxa8 Bxc2 12. Qe1 Bb4 13. Bd2 Nge7 14.
+Bxb4 Nxb4 15. Ng5 Rxa8 16. Nxf7 Nec6 17. Nd6 Bg6 18. a3 Nxd4 19. Bxc4 Nbc6
+20. Ra2 Qb6 21. Be2 a6 22. Qc3 Rb8 23. Rd1 Qb3 24. Qxb3 Nxb3 25. f4 b5 26.
+Bg4 Ke7 27. h4 h5 28. Bh3 Nba5 29. Rf2 Nc4 30. Rf3 N4xe5 31. fxe5 Nxe5 32.
+Rg3 Kxd6 33. Re1 Be4 34. Rxg7 a5 35. Ra7 Nc6 36. Ra6 b4 37. axb4 axb4 38.
+Bxe6 b3 39. Rc1 d4 40. Bxb3 Rxb3 41. Rc4 Rd3 42. Kf2 Bd5 43. Rc2 Rc3 44.
+Rd2 Kc5 45. Ra8 Be6 46. Rg8 Bxg8 0-1
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.19"]
+[Round "5"]
+[White "Leko, Peter"]
+[Black "Kamsky, Gata"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2725"]
+[ECO "B00"]
+[EventDate "2009.03.14"]
+[PlyCount "131"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 b6 4. Bd3 Bb7 5. O-O d6 6. c3 e6 7. Re1 Ne7 8.
+Nbd2 Nd7 9. Nf1 a6 10. Ng3 O-O 11. Qe2 c5 12. Be3 h6 13. Rad1 Qc7 14. Bb1
+Rad8 15. Bf4 e5 16. Be3 b5 17. h4 Nf6 18. h5 Ng4 19. Bc1 Bc8 20. a4 Qb6 21.
+axb5 axb5 22. dxe5 dxe5 23. Nh2 Nxh2 24. Kxh2 c4 25. Be3 Qc7 26. Rxd8 Rxd8
+27. hxg6 fxg6 28. Rd1 Be6 29. Bc2 Nc6 30. Rxd8+ Qxd8 31. Kg1 h5 32. Nf1 Bf6
+33. Qd2 Kg7 34. Qxd8 Nxd8 35. Nd2 Nf7 36. b3 Bg5 37. Bxg5 Nxg5 38. bxc4
+Bxc4 39. g3 Kf6 40. Kg2 Ne6 41. Nxc4 bxc4 42. Ba4 Nc5 43. Bc6 Nd3 44. Kf3
+g5 45. Bb5 Nb2 46. Ke2 h4 47. Bd7 Ke7 48. Bf5 Na4 49. Kd2 Kd6 50. Bg4 Kc6
+51. Bf5 Nb2 52. Ke2 Kb5 53. Bd7+ Kc5 54. Be6 Na4 55. Kd2 Kb5 56. Bd7+ Ka5
+57. Be6 Nc5 58. Bxc4 Nxe4+ 59. Ke3 hxg3 60. fxg3 Nxc3 61. Kf3 Kb4 62. Bf1
+Kc5 63. Kg4 Ne4 64. Bg2 Kd4 65. Kf5 Nxg3+ 66. Kxg5 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.19"]
+[Round "5"]
+[White "Topalov, Veselin"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2796"]
+[BlackElo "2759"]
+[ECO "D12"]
+[EventDate "2009.03.14"]
+[PlyCount "90"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. Qb3 Qb6 6. Nc3 e6 7. Nh4 Bh5 8.
+h3 Be7 9. g4 Bg6 10. Nxg6 hxg6 11. Rg1 Qxb3 12. axb3 Bb4 13. Bd2 Nbd7 14.
+Ke2 dxc4 15. bxc4 e5 16. Bg2 exd4 17. exd4 O-O 18. Rgd1 Rfe8+ 19. Kf1 Nb6
+20. b3 a5 21. g5 Nh5 22. c5 Nd7 23. Ne4 Bxd2 24. Rxd2 Nf4 25. Nd6 Reb8 26.
+Bf3 Ra6 27. Bg4 f5 28. Be2 b5 29. h4 a4 30. Bd1 Rba8 31. bxa4 bxa4 32. Ra3
+Nf8 33. Rb2 N8e6 34. Rb4 Nd5 35. Rc4 Rb8 36. Raxa4 Rxa4 37. Bxa4 Rb1+ 38.
+Ke2 Rb2+ 39. Ke1 Nb4 40. Kd1 Nf4 41. Bc2 Kf8 42. Rc3 Nfd5 43. Rc4 Nf4 44.
+Rc3 Nfd5 45. Rc4 Nf4 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.19"]
+[Round "5"]
+[White "Wang Yue"]
+[Black "Radjabov, Teimour"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2761"]
+[ECO "E94"]
+[EventDate "2009.03.14"]
+[PlyCount "34"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Na6 8.
+O-O c6 9. dxe5 dxe5 10. Qxd8 Rxd8 11. h3 Re8 12. Rfd1 Bf8 13. a3 Nc5 14.
+Nd2 Ne6 15. Nf3 Nc5 16. Nd2 Ne6 17. Nf3 Nc5 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.20"]
+[Round "6"]
+[White "Anand, Viswanathan"]
+[Black "Radjabov, Teimour"]
+[Result "1-0"]
+[WhiteElo "2791"]
+[BlackElo "2761"]
+[ECO "B31"]
+[EventDate "2009.03.14"]
+[PlyCount "127"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 b6 7. O-O e5 8.
+a3 a5 9. Be3 Ne7 10. Nbd2 a4 11. b4 axb3 12. Nxb3 f5 13. a4 f4 14. Bd2 Qd6
+15. Bc3 Rb8 16. Qb1 g5 17. Qb2 Ng6 18. Nbd2 b5 19. axb5 cxb5 20. Ra7 Bf6
+21. Ba5 Qc6 22. Rc7 Qd6 23. Nc4 Qe6 24. Rxc5 O-O 25. Bc7 Rb7 26. Na5 Ra7
+27. Qxb5 Bd7 28. Qb6 Qxb6 29. Bxb6 Ra6 30. Nc4 g4 31. hxg4 Bxg4 32. Nfd2
+Rc8 33. Rxc8+ Bxc8 34. Ba5 Be6 35. Rb1 f3 36. g3 Bg5 37. Rb6 Rxa5 38. Nxa5
+Bxd2 39. Rxe6 Bxa5 40. Rf6 Kg7 41. Ra6 Bb4 42. Rc6 h5 43. c3 Be7 44. d4 h4
+45. Kh2 Bg5 46. d5 Be3 47. fxe3 f2 48. Kg2 hxg3 49. Ra6 Nh4+ 50. Kf1 Nf3
+51. Ra1 Kf7 52. c4 Nd2+ 53. Kg2 Nxe4 54. c5 Nxc5 55. Kxg3 Ne4+ 56. Kg2 Ke7
+57. Ra6 Nc5 58. Rc6 Ne4 59. Re6+ Kd7 60. Rxe5 Nf6 61. e4 Ng4 62. Rf5 Kd6
+63. Rxf2 Ke5 64. Kg3 1-0
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.20"]
+[Round "6"]
+[White "Aronian, Levon"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2750"]
+[BlackElo "2706"]
+[ECO "D15"]
+[EventDate "2009.03.14"]
+[PlyCount "103"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nc3 b5 6. b3 Bg4 7. Qd2 Bxf3 8.
+gxf3 Nbd7 9. Bb2 e6 10. c5 a5 11. a4 b4 12. Ne2 g6 13. Nf4 Qc7 14. Nd3 Nh5
+15. f4 Be7 16. O-O-O Bh4 17. Be2 Ng7 18. Kb1 f5 19. Ka2 Nf6 20. f3 Nd7 21.
+Rdg1 Nh5 22. Bd1 O-O-O 23. Be2 Kb8 24. Qc2 Rde8 25. Bc1 Kc8 26. Bd2 Kd8 27.
+Qd1 Ke7 28. Qf1 Kf7 29. Qh3 Qd8 30. Bd1 Qe7 31. Rg2 Ref8 32. Rhg1 Ke8 33.
+Re2 Bf6 34. Rge1 Bh4 35. Rf1 Bf6 36. Be1 Kd8 37. Bf2 Qg7 38. Rfe1 Kc7 39.
+Rc2 Ra8 40. Qf1 Rhe8 41. Ne5 Qe7 42. Qh3 Bg7 43. Rg1 Bf6 44. Be2 Rab8 45.
+Rcc1 Red8 46. Ba6 Rf8 47. Qf1 Bh4 48. Bg3 Nxe5 49. dxe5 Qd8 50. Bd3 Be7 51.
+Bb1 Qc8 52. Rg2 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.20"]
+[Round "6"]
+[White "Carlsen, Magnus"]
+[Black "Morozevich, Alexander"]
+[Result "1-0"]
+[WhiteElo "2776"]
+[BlackElo "2771"]
+[ECO "D97"]
+[EventDate "2009.03.14"]
+[PlyCount "93"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8.
+e5 Nfd7 9. Be3 Nb6 10. Qc5 Bg4 11. Be2 N8d7 12. Qa3 c6 13. h4 h5 14. Qb3
+Be6 15. Qd1 f6 16. Bd3 Qe8 17. Qc2 f5 18. Ng5 Bd5 19. Nxd5 Nxd5 20. Ne6 Rf7
+21. Bd2 Nf8 22. Ng5 Rd8 23. O-O-O Bh6 24. Nxf7 Bxd2+ 25. Rxd2 Qxf7 26. Bc4
+Ne6 27. Kb1 Qe8 28. f3 Kg7 29. g4 hxg4 30. fxg4 fxg4 31. Qe4 Qf7 32. Rf1
+Qg8 33. Bxd5 Rxd5 34. Qxg4 c5 35. Rg2 g5 36. Rgf2 Rxd4 37. Rf7+ Qxf7 38.
+Rxf7+ Kxf7 39. Qf5+ Ke8 40. Qxe6 gxh4 41. Qc8+ Kf7 42. Qf5+ Kg7 43. e6 h3
+44. Qxh3 Kf6 45. Qf3+ Kxe6 46. Qxb7 Rd6 47. Kc2 1-0
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.20"]
+[Round "6"]
+[White "Ivanchuk, Vassily"]
+[Black "Wang Yue"]
+[Result "0-1"]
+[WhiteElo "2779"]
+[BlackElo "2739"]
+[ECO "D15"]
+[EventDate "2009.03.14"]
+[PlyCount "58"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 a6 5. h3 e6 6. e3 c5 7. cxd5 exd5 8.
+Be2 Nc6 9. O-O Be6 10. b3 Rc8 11. Bb2 cxd4 12. Nxd4 Bc5 13. Nxc6 Rxc6 14.
+Rc1 O-O 15. Na4 Ba7 16. Rxc6 bxc6 17. Bxa6 Ne4 18. Qh5 f5 19. Bd3 Bd7 20.
+Rc1 Qe7 21. Rc2 f4 22. exf4 Rxf4 23. Bxe4 Rxe4 24. Bc3 d4 25. Bd2 d3 26.
+Rc3 Re2 27. Rxd3 Rxd2 28. Rxd2 Qe1+ 29. Kh2 Qxd2 0-1
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.20"]
+[Round "6"]
+[White "Kamsky, Gata"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2759"]
+[ECO "D11"]
+[EventDate "2009.03.14"]
+[PlyCount "257"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bg4 5. d4 e6 6. c4 Nbd7 7. Qb3 Qb6 8.
+Nc3 Be7 9. Bf4 O-O 10. Rfd1 Bf5 11. c5 Qxb3 12. axb3 Bc2 13. Rdc1 Bxb3 14.
+Nd2 Bc4 15. Nxc4 dxc4 16. Na4 Nd5 17. Rxc4 b5 18. cxb6 axb6 19. Rcc1 Rfc8
+20. Nc3 Rxa1 21. Rxa1 Nxf4 22. gxf4 Nf6 23. Ra6 Bd8 24. Bf3 Kf8 25. e3 Nd5
+26. Ne4 Be7 27. Nd2 c5 28. Bxd5 exd5 29. Rxb6 cxd4 30. exd4 g6 31. Nf3 f6
+32. Kg2 Kf7 33. h4 h5 34. Ng1 Rc2 35. Kf3 g5 36. fxg5 fxg5 37. hxg5 Bxg5
+38. Rb5 Ke6 39. Rb6+ Kf7 40. Rd6 Bf6 41. Ne2 Rxb2 42. Rxd5 h4 43. Nf4 Rd2
+44. Ke3 Rd1 45. Ke4 Ke7 46. Nd3 Ra1 47. Rh5 Kf7 48. d5 Kg7 49. f3 Ra3 50.
+Nf4 Kf7 51. Rh7+ Kg8 52. Rb7 Bg5 53. Ne6 Bf6 54. f4 h3 55. Kf5 Bh4 56. Rg7+
+Kh8 57. Rg6 Ra7 58. Rg1 Ra5 59. Ke4 h2 60. Rh1 Ra2 61. Nd4 Kg8 62. d6 Kf7
+63. Nf3 Bf6 64. Kf5 Rf2 65. Nxh2 Rd2 66. Ng4 Rxd6 67. Rh6 Rd5+ 68. Ne5+
+Bxe5 69. fxe5 Ra5 70. Rh7+ Kg8 71. Re7 Ra6 72. Re6 Ra1 73. Rf6 Kg7 74. Ke4
+Ra4+ 75. Kd5 Ra5+ 76. Kd4 Ra4+ 77. Kd5 Ra5+ 78. Ke4 Ra4+ 79. Kf5 Ra1 80.
+Rb6 Kf7 81. Rb7+ Ke8 82. Kf6 Re1 83. Ke6 Kf8 84. Rb8+ Kg7 85. Rd8 Re2 86.
+Rd5 Kf8 87. Rc5 Re1 88. Rc8+ Kg7 89. Kd6 Kf7 90. Rc7+ Ke8 91. Ke6 Kf8 92.
+Rf7+ Ke8 93. Rh7 Kf8 94. Rh8+ Kg7 95. Re8 Re2 96. Kd7 Rd2+ 97. Ke7 Re2 98.
+e6 Ra2 99. Rc8 Ra7+ 100. Kd6 Ra6+ 101. Kd7 Ra7+ 102. Rc7 Ra8 103. Ke7 Kg6
+104. Rb7 Kg7 105. Rd7 Kg6 106. Rd2 Ra7+ 107. Kf8 Ra8+ 108. Ke7 Ra7+ 109.
+Kd6 Ra6+ 110. Ke5 Ra5+ 111. Rd5 Ra1 112. Rd8 Ra5+ 113. Kd6 Ra6+ 114. Ke7
+Ra7+ 115. Rd7 Ra8 116. Rd6 Kg7 117. Rc6 Ra7+ 118. Ke8 Ra8+ 119. Ke7 Ra7+
+120. Kd8 Kf8 121. Rc5 Ra8+ 122. Kd7 Ra7+ 123. Kd6 Ra6+ 124. Rc6 Rxc6+ 125.
+Kxc6 Ke7 126. Kd5 Ke8 127. Kd6 Kd8 128. e7+ Ke8 129. Ke6 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.20"]
+[Round "6"]
+[White "Leko, Peter"]
+[Black "Topalov, Veselin"]
+[Result "1-0"]
+[WhiteElo "2751"]
+[BlackElo "2796"]
+[ECO "B19"]
+[EventDate "2009.03.14"]
+[PlyCount "47"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Ne4 Nxe4 14.
+Qxe4 Nf6 15. Qd3 O-O 16. g4 Nxg4 17. Rhg1 f5 18. Qe2 Qd5 19. c4 Qd6 20. Ne5
+Qxd4 21. Nxg4 fxg4 22. Rxg4 Qxf2 23. Qxe6+ Rf7 24. Rf4 1-0
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.21"]
+[Round "7"]
+[White "Karjakin, Sergey"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[WhiteElo "2706"]
+[BlackElo "2791"]
+[ECO "B12"]
+[EventDate "2009.03.14"]
+[PlyCount "66"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 8.
+Nd2 Nbc6 9. N2f3 Be4 10. O-O Ng6 11. c4 Be7 12. Nxc6 bxc6 13. cxd5 Bxd5 14.
+g3 O-O 15. Bd4 Qc7 16. Bc3 Rfd8 17. Qa4 Bc5 18. Rac1 h6 19. Rc2 a5 20. a3
+Bb6 21. Qg4 a4 22. Re1 Qa7 23. Rf1 Qb8 24. Re1 Ba5 25. Bxa5 Rxa5 26. Qb4
+Qxb4 27. axb4 Raa8 28. Rd2 Rdb8 29. Rd4 c5 30. bxc5 Rxb2 31. Rd2 a3 32. Ra1
+Nxe5 33. Rxb2 Nxf3+ 0-1
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.21"]
+[Round "7"]
+[White "Kramnik, Vladimir"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteElo "2759"]
+[BlackElo "2750"]
+[ECO "D85"]
+[EventDate "2009.03.14"]
+[PlyCount "69"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5
+8. Rc1 Qa5 9. Qd2 O-O 10. Nf3 Rd8 11. d5 e6 12. Be2 exd5 13. exd5 Nd7 14.
+O-O Nf6 15. c4 Qxd2 16. Nxd2 b6 17. h3 Re8 18. Bd3 Nd7 19. Rfd1 Ne5 20. Bf1
+Bd7 21. Nb1 f5 22. Nc3 Nf7 23. a4 g5 24. a5 f4 25. Bd2 Nd6 26. axb6 axb6
+27. Rb1 Reb8 28. Re1 Ra3 29. Re7 Bf5 30. Rc1 Rb7 31. Rxb7 Nxb7 32. Nb5 Ra1
+33. Rxa1 Bxa1 34. h4 h6 35. hxg5 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.21"]
+[Round "7"]
+[White "Morozevich, Alexander"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[WhiteElo "2771"]
+[BlackElo "2751"]
+[ECO "A04"]
+[EventDate "2009.03.14"]
+[PlyCount "98"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. g3 c5 2. Bg2 g6 3. Nf3 Bg7 4. d4 cxd4 5. Nxd4 Nc6 6. Nb3 Nf6 7. Nc3 O-O
+8. e4 d6 9. h3 Be6 10. O-O a5 11. a3 a4 12. Nd2 d5 13. exd5 Nxd5 14. Nce4
+Qa5 15. Rb1 Rfd8 16. Qe1 Nd4 17. c3 Nc6 18. b4 Qc7 19. Bb2 Nb6 20. Qe2 Ne5
+21. Rfd1 Ba2 22. Ra1 Bd5 23. Nc5 Bxg2 24. Kxg2 Qc6+ 25. f3 Nbd7 26. Nxd7
+Rxd7 27. c4 Rad8 28. Bxe5 Bxe5 29. Rab1 Rd3 30. h4 Bg7 31. Ne4 Qxc4 32.
+Rbc1 Qd5 33. Rxd3 Qxd3 34. Qxd3 Rxd3 35. Rc8+ Bf8 36. Nc5 Rxa3 37. Nd7 Kg7
+38. Nxf8 Rd3 39. Nxh7 Kxh7 40. Rc7 b6 41. Rxe7 Kg7 42. Rb7 Rd2+ 43. Kh3 Rd6
+44. b5 a3 45. Ra7 Rd3 46. Ra6 Rxf3 47. Rxb6 a2 48. Ra6 Rf2 49. b6 Rb2
 1/2-1/2
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
-[Date "2009.03.16"]
-[Round "3"]
-[White "Leko, Peter"]
-[Black "Ivanchuk, Vassily"]
-[Result "1-0"]
-[ECO "B82"]
-[WhiteElo "2751"]
-[BlackElo "2779"]
-[PlyCount "113"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 Nf6 7. f4 d6 8. Qf3
-Be7 9. O-O-O O-O 10. Rg1 Nxd4 11. Bxd4 e5 12. fxe5 dxe5 13. Qg3 Rd8 14. Be2
-Rxd4 15. Rxd4 Bc5 16. Rc4 Be6 17. Rd1 Bxc4 18. Bxc4 Rd8 19. Nd5 Nxd5 20. Bxd5
-Kh8 21. Rf1 f6 22. Kb1 b5 23. Qf3 b4 24. g4 Qb6 25. h4 Be3 26. g5 Bf4 27. gxf6
-Qxf6 28. h5 a5 29. a4 Qg5 30. Qe2 Rf8 31. Rh1 Qe7 32. Qa6 Qc5 33. Bb3 Rd8 34.
-Ka2 Bg5 35. Rf1 Bf4 36. Rd1 Qf8 37. Bd5 Qc5 38. Bb3 Qf8 39. Rh1 Ra8 40. Qb6 Qd8
-41. Qe6 Qe8 42. Qd5 Qd8 43. Qb5 Qe8 44. Qe2 Rd8 45. Qa6 Ra8 46. Qb7 Rb8 47. Qc7
-Qd8 48. Qc4 Qd6 49. Rh3 Rd8 50. Rd3 Qf8 51. Rd5 Ra8 52. Rd7 Rd8 53. Ra7 Ra8 54.
-Rf7 Qd6 55. Qb5 Bh6 56. Rd7 Qf6 57. Qd5 1-0
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.16"]
-[Round "3"]
+[Date "2009.03.21"]
+[Round "7"]
 [White "Radjabov, Teimour"]
-[Black "Morozevich, Alexander"]
-[Result "1/2-1/2"]
-[ECO "B14"]
-[WhiteElo "2761"]
-[BlackElo "2771"]
-[PlyCount "70"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 c6 2. c4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. cxd5 Nxd5 8.
-Qc2 Nc6 9. a3 Ba5 10. Bd2 Bd7 11. Bd3 Rc8 12. O-O h6 13. b4 Bb6 14. Nxd5 exd5
-15. Rfe1+ Ne7 16. Qb3 O-O 17. a4 Bf5 18. a5 Bxd3 19. Qxd3 Bc7 20. b5 Bd6 21.
-Ne5 Bxe5 22. dxe5 Qd7 23. Bb4 Rfd8 24. Bd6 Rc4 25. h3 Qe6 26. Rad1 Rd7 27. a6
-bxa6 28. bxa6 Nf5 29. Qxd5 Qxd5 30. Rxd5 Rc6 31. Red1 Rxa6 32. Bc5 Rxd5 33.
-Rxd5 Ra5 34. Rd8+ Kh7 35. Bd6 Nxd6 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.16"]
-[Round "3"]
-[White "Wang Yue"]
-[Black "Topalov, Veselin"]
-[Result "0-1"]
-[ECO "D30"]
-[WhiteElo "2739"]
-[BlackElo "2796"]
-[PlyCount "68"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 h6 5. Bxf6 Qxf6 6. e3 c6 7. Nbd2 Nd7 8. Bd3
-g5 9. h3 Bg7 10. e4 e5 11. O-O O-O 12. Re1 exd4 13. cxd5 cxd5 14. Rc1 Qd6 15.
-Bb1 d3 16. Bxd3 Rd8 17. exd5 Nb6 18. Nc4 Nxc4 19. Rxc4 Qxd5 20. Re8+ Rxe8 21.
-Bh7+ Kxh7 22. Qxd5 Be6 23. Qd3+ Kg8 24. Re4 Rad8 25. Qb1 Rd6 26. Re1 Red8 27.
-b3 b5 28. Qc2 Bf6 29. Qc5 a6 30. Qc7 Kg7 31. Kh2 R8d7 32. Qc5 Rd5 33. Qc2 Bf5
-34. Qc7 Rxc7 0-1
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.17"]
-[Round "4"]
-[White "Anand, Viswanathan"]
-[Black "Aronian, Levon"]
-[Result "1/2-1/2"]
-[ECO "C88"]
-[WhiteElo "2791"]
-[BlackElo "2750"]
-[PlyCount "143"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
-Bb7 9. d3 d5 10. exd5 Nxd5 11. a4 Nd4 12. Nbd2 Nxb3 13. Nxb3 f6 14. Na5 Qc8 15.
-c3 Kh8 16. Qb3 c5 17. Bd2 Rb8 18. Nxb7 Qxb7 19. axb5 axb5 20. Ra2 Qc6 21. Rea1
-c4 22. Qc2 cxd3 23. Qxd3 Nb6 24. Ra6 Rfd8 25. Qe2 Qd5 26. Be3 Nc4 27. Ba7 Ra8
-28. b3 Na3 29. b4 Nc4 30. Ne1 h6 31. Nc2 Qd3 32. Qxd3 Rxd3 33. Ne3 Nxe3 34.
-Bxe3 Rxa6 35. Rxa6 Rxc3 36. Rb6 Bxb4 37. Rxb5 Rc4 38. g4 Kh7 39. Kg2 Kg6 40.
-Rb7 Bf8 41. Rb8 Kf7 42. Rb7+ Ke6 43. Kf3 Be7 44. Rb6+ Bd6 45. Rb7 Be7 46. Rb6+
-Bd6 47. Rb7 Bf8 48. Rb6+ Kf7 49. Rb7+ Kg6 50. Rb8 Bd6 51. Rb7 Bc7 52. Ra7 h5
-53. Rb7 hxg4+ 54. hxg4 Bd6 55. Rb6 Ba3 56. Rb7 Bc1 57. Bxc1 Rxc1 58. Kg2 Kh6
-59. g5+ fxg5 60. Rb6+ Kh5 61. Rb7 Kg6 62. Rb6+ Kf5 63. Rb7 g6 64. Rf7+ Ke6 65.
-Rf8 Rc3 66. Ra8 g4 67. Rg8 Kf5 68. Rf8+ Ke6 69. Re8+ Kf6 70. Rf8+ Ke7 71. Rg8
-Rf3 72. Rxg6 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.17"]
-[Round "4"]
-[White "Carlsen, Magnus"]
-[Black "Leko, Peter"]
-[Result "1/2-1/2"]
-[ECO "B12"]
-[WhiteElo "2776"]
-[BlackElo "2751"]
-[PlyCount "51"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. a3 Ne7 6. Nbd2 Bg6 7. Nh4 Nf5 8. Nxg6
-hxg6 9. Nf3 c5 10. dxc5 Bxc5 11. b4 Bb6 12. c4 dxc4 13. Qxd8+ Bxd8 14. Bxc4 Nc6
-15. Bb2 Nh4 16. Nxh4 Rxh4 17. Bd3 Bb6 18. g3 Rh5 19. f4 O-O-O 20. O-O-O Bd4 21.
-h4 Rhh8 22. Rh2 Rd7 23. Bxd4 Nxd4 24. Be4 Rhd8 25. Kb2 Nf5 26. Rc2+ 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.17"]
-[Round "4"]
-[White "Kamsky, Gata"]
-[Black "Ivanchuk, Vassily"]
-[Result "1/2-1/2"]
-[ECO "B90"]
-[WhiteElo "2725"]
-[BlackElo "2779"]
-[PlyCount "104"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 Nc6 7. Be2 g6 8. O-O
-Bg7 9. Be3 O-O 10. Qd2 Bd7 11. f3 Rc8 12. Rfd1 Re8 13. Bf1 Qc7 14. Qf2 Na5 15.
-Ndb5 axb5 16. Bb6 Qb8 17. Bxa5 bxa4 18. Nxa4 Bxa4 19. Rxa4 Rf8 20. Bb5 b6 21.
-Bb4 Qc7 22. c3 Ra8 23. Rda1 Rxa4 24. Rxa4 Nd7 25. Qe2 Nc5 26. Ra1 Qb7 27. Bc4
-Ra8 28. Rd1 Qc7 29. g3 e6 30. Kg2 Bf6 31. Bb5 Ra7 32. h4 h5 33. Bc4 Qc6 34. Kh3
-Be7 35. Re1 Qa8 36. Rd1 Ra1 37. Ba3 Rxd1 38. Qxd1 Qc8 39. Bb5 d5 40. exd5 exd5+
-41. Kg2 Qe6 42. Qe2 Kf8 43. Qxe6 Nxe6 44. Bxe7+ Kxe7 45. Kf2 d4 46. c4 Nc7 47.
-Ba4 f5 48. Ke2 Na6 49. Bb5 Nb4 50. f4 Kf7 51. Kd2 Ke7 52. Ke2 Kf7 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.17"]
-[Round "4"]
-[White "Kramnik, Vladimir"]
-[Black "Wang Yue"]
-[Result "1-0"]
-[ECO "D17"]
-[WhiteElo "2759"]
-[BlackElo "2739"]
-[PlyCount "71"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6 8.
-Ne5 a5 9. f3 Nfd7 10. Nxd7 Nxd7 11. e4 Bg6 12. Be2 e6 13. O-O Bb4 14. Be3 O-O
-15. Qb3 Qb8 16. Kh1 Re8 17. Rad1 f6 18. Na2 Bf8 19. Bc4 Bf7 20. f4 Re7 21. Nc3
-Qe8 22. Bf2 Nb8 23. d5 exd5 24. exd5 Na6 25. Bb6 cxd5 26. Nxd5 Re4 27. Qg3 Qc6
-28. Bb5 Qxd5 29. Rxd5 Bxd5 30. Bxa5 Nc5 31. b4 Ne6 32. Bd3 Rd4 33. Qe3 Re8 34.
-Bb5 Rc8 35. Bd7 Re4 36. Qxe4 1-0
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.17"]
-[Round "4"]
-[White "Morozevich, Alexander"]
-[Black "Topalov, Veselin"]
-[Result "1-0"]
-[ECO "E36"]
-[WhiteElo "2771"]
-[BlackElo "2796"]
-[PlyCount "87"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Nf3 dxc4 8.
-Qxc4 b6 9. Bg5 Ba6 10. Qc2 h6 11. Bh4 c5 12. e4 Bxf1 13. Rxf1 g5 14. Bg3 cxd4
-15. Rd1 Qc8 16. Qe2 Qa6 17. Bxb8 Qxe2+ 18. Kxe2 Raxb8 19. Rxd4 Rbc8 20. Rfd1
-Rc2+ 21. R1d2 Rfc8 22. Ne5 Rc1 23. Rd8+ Rxd8 24. Rxd8+ Kg7 25. Ra8 Rc5 26. Nd3
-Rc2+ 27. Kd1 Rc7 28. f3 h5 29. Kd2 Nd7 30. b3 h4 31. g3 hxg3 32. hxg3 Kf6 33.
-f4 gxf4 34. gxf4 e5 35. Re8 exf4 36. Nxf4 Rc6 37. b4 Kg7 38. Kd3 Rd6+ 39. Ke3
-a6 40. e5 Rh6 41. e6 Ne5 42. e7 Kf6 43. Nd5+ Ke6 44. Rd8 1-0
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.17"]
-[Round "4"]
-[White "Radjabov, Teimour"]
-[Black "Karjakin, Sergey"]
-[Result "1-0"]
-[ECO "C55"]
-[WhiteElo "2761"]
-[BlackElo "2706"]
-[PlyCount "133"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. Bb3 O-O 6. O-O d6 7. c3 d5 8. Nbd2
-Bg4 9. h3 Bh5 10. Re1 dxe4 11. dxe4 Bc5 12. Qe2 h6 13. Qb5 Qe7 14. Qxb7 Na5 15.
-Qb5 Nxb3 16. Nxb3 Bd6 17. Nh4 a6 18. Qc4 Qd7 19. f3 Qb5 20. Qxb5 axb5 21. Be3
-Nd7 22. g4 Bg6 23. Red1 Rfb8 24. a3 Kf8 25. Rd5 Ke7 26. Rad1 Bh7 27. Kf2 Nb6
-28. Bxb6 Rxb6 29. Nf5+ Bxf5 30. exf5 h5 31. Nd2 hxg4 32. fxg4 Ra4 33. Re1 Rb8
-34. Ne4 f6 35. h4 Kd7 36. Kf3 Kc6 37. Red1 Be7 38. h5 Rh8 39. R5d2 Raa8 40. Rh2
-Rh6 41. Rc2 Ra4 42. Rcd2 Rh8 43. Rd7 Re8 44. Ke3 Raa8 45. R7d5 Rh8 46. R5d3 Ra4
-47. R3d2 Raa8 48. Rh1 Rh6 49. c4 b4 50. axb4 Bxb4 51. Rd5 Ra2 52. Rb1 Rh8 53.
-Rb5 Be7 54. Nc3 Raa8 55. Nd5 Bd6 56. Ke4 Ra4 57. b4 Ra3 58. Ra5 Rg3 59. b5+ Kd7
-60. b6 Rxg4+ 61. Kf3 Rd4 62. b7 Rb8 63. Ra8 c6 64. Nb6+ Kd8 65. c5 Bc7 66. Rg1
-Rf4+ 67. Ke2 1-0
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.19"]
-[Round "5"]
-[White "Aronian, Levon"]
-[Black "Carlsen, Magnus"]
-[Result "1/2-1/2"]
-[ECO "E20"]
-[WhiteElo "2750"]
-[BlackElo "2776"]
-[PlyCount "55"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 e6 5. g3 Bb4+ 6. Nc3 O-O 7. Bg2 d5 8.
-O-O dxc4 9. Nc2 Bxc3 10. bxc3 Qc7 11. Rb1 Nc6 12. Na3 e5 13. Qc2 Rd8 14. Qb2
-Rb8 15. Nb5 Qa5 16. Bg5 Bf5 17. Rbd1 Rxd1 18. Rxd1 Rd8 19. Rd6 Qb6 20. Qd2 Rf8
-21. Bxf6 Qxb5 22. Bxc6 bxc6 23. Be7 Re8 24. Rd8 c5 25. f3 h6 26. Rxe8+ Qxe8 27.
-Qd8 Qxd8 28. Bxd8 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.19"]
-[Round "5"]
-[White "Ivanchuk, Vassily"]
-[Black "Anand, Viswanathan"]
-[Result "1/2-1/2"]
-[ECO "B19"]
-[WhiteElo "2779"]
-[BlackElo "2791"]
-[PlyCount "55"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
-Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Qa5+ 12. Bd2 Bb4 13. c3 Be7 14. c4 Qc7 15.
-O-O-O Ngf6 16. Kb1 Rd8 17. Ne4 O-O 18. g3 b5 19. Bf4 Qb7 20. Nxf6+ Nxf6 21. Ne5
-c5 22. cxb5 Rxd4 23. Qf3 Nd5 24. Nc6 Rxd1+ 25. Rxd1 Bf6 26. Qb3 a6 27. Rc1 axb5
-28. Rxc5 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.19"]
-[Round "5"]
-[White "Karjakin, Sergey"]
-[Black "Morozevich, Alexander"]
-[Result "0-1"]
-[ECO "B12"]
-[WhiteElo "2706"]
-[BlackElo "2771"]
-[PlyCount "92"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6 7. Nc3 Nc6 8. O-O
-Qxb2 9. Nb5 c4 10. Nc7+ Kd7 11. Nxa8 Bxc2 12. Qe1 Bb4 13. Bd2 Nge7 14. Bxb4
-Nxb4 15. Ng5 Rxa8 16. Nxf7 Nec6 17. Nd6 Bg6 18. a3 Nxd4 19. Bxc4 Nbc6 20. Ra2
-Qb6 21. Be2 a6 22. Qc3 Rb8 23. Rd1 Qb3 24. Qxb3 Nxb3 25. f4 b5 26. Bg4 Ke7 27.
-h4 h5 28. Bh3 Nba5 29. Rf2 Nc4 30. Rf3 N4xe5 31. fxe5 Nxe5 32. Rg3 Kxd6 33. Re1
-Be4 34. Rxg7 a5 35. Ra7 Nc6 36. Ra6 b4 37. axb4 axb4 38. Bxe6 b3 39. Rc1 d4 40.
-Bxb3 Rxb3 41. Rc4 Rd3 42. Kf2 Bd5 43. Rc2 Rc3 44. Rd2 Kc5 45. Ra8 Be6 46. Rg8
-Bxg8 0-1
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.19"]
-[Round "5"]
-[White "Leko, Peter"]
 [Black "Kamsky, Gata"]
-[Result "1/2-1/2"]
-[ECO "B00"]
-[WhiteElo "2751"]
+[Result "1-0"]
+[WhiteElo "2761"]
 [BlackElo "2725"]
-[PlyCount "131"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 g6 2. d4 Bg7 3. Nf3 b6 4. Bd3 Bb7 5. O-O d6 6. c3 e6 7. Re1 Ne7 8. Nbd2
-Nd7 9. Nf1 a6 10. Ng3 O-O 11. Qe2 c5 12. Be3 h6 13. Rad1 Qc7 14. Bb1 Rad8 15.
-Bf4 e5 16. Be3 b5 17. h4 Nf6 18. h5 Ng4 19. Bc1 Bc8 20. a4 Qb6 21. axb5 axb5
-22. dxe5 dxe5 23. Nh2 Nxh2 24. Kxh2 c4 25. Be3 Qc7 26. Rxd8 Rxd8 27. hxg6 fxg6
-28. Rd1 Be6 29. Bc2 Nc6 30. Rxd8+ Qxd8 31. Kg1 h5 32. Nf1 Bf6 33. Qd2 Kg7 34.
-Qxd8 Nxd8 35. Nd2 Nf7 36. b3 Bg5 37. Bxg5 Nxg5 38. bxc4 Bxc4 39. g3 Kf6 40. Kg2
-Ne6 41. Nxc4 bxc4 42. Ba4 Nc5 43. Bc6 Nd3 44. Kf3 g5 45. Bb5 Nb2 46. Ke2 h4 47.
-Bd7 Ke7 48. Bf5 Na4 49. Kd2 Kd6 50. Bg4 Kc6 51. Bf5 Nb2 52. Ke2 Kb5 53. Bd7+
-Kc5 54. Be6 Na4 55. Kd2 Kb5 56. Bd7+ Ka5 57. Be6 Nc5 58. Bxc4 Nxe4+ 59. Ke3
-hxg3 60. fxg3 Nxc3 61. Kf3 Kb4 62. Bf1 Kc5 63. Kg4 Ne4 64. Bg2 Kd4 65. Kf5
-Nxg3+ 66. Kxg5 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.19"]
-[Round "5"]
-[White "Topalov, Veselin"]
-[Black "Kramnik, Vladimir"]
-[Result "1/2-1/2"]
-[ECO "D12"]
-[WhiteElo "2796"]
-[BlackElo "2759"]
-[PlyCount "90"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. Qb3 Qb6 6. Nc3 e6 7. Nh4 Bh5 8. h3
-Be7 9. g4 Bg6 10. Nxg6 hxg6 11. Rg1 Qxb3 12. axb3 Bb4 13. Bd2 Nbd7 14. Ke2 dxc4
-15. bxc4 e5 16. Bg2 exd4 17. exd4 O-O 18. Rgd1 Rfe8+ 19. Kf1 Nb6 20. b3 a5 21.
-g5 Nh5 22. c5 Nd7 23. Ne4 Bxd2 24. Rxd2 Nf4 25. Nd6 Reb8 26. Bf3 Ra6 27. Bg4 f5
-28. Be2 b5 29. h4 a4 30. Bd1 Rba8 31. bxa4 bxa4 32. Ra3 Nf8 33. Rb2 N8e6 34.
-Rb4 Nd5 35. Rc4 Rb8 36. Raxa4 Rxa4 37. Bxa4 Rb1+ 38. Ke2 Rb2+ 39. Ke1 Nb4 40.
-Kd1 Nf4 41. Bc2 Kf8 42. Rc3 Nfd5 43. Rc4 Nf4 44. Rc3 Nfd5 45. Rc4 Nf4 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.19"]
-[Round "5"]
-[White "Wang Yue"]
-[Black "Radjabov, Teimour"]
-[Result "1/2-1/2"]
-[ECO "E94"]
-[WhiteElo "2739"]
-[BlackElo "2761"]
-[PlyCount "34"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Na6 8. O-O
-c6 9. dxe5 dxe5 10. Qxd8 Rxd8 11. h3 Re8 12. Rfd1 Bf8 13. a3 Nc5 14. Nd2 Ne6
-15. Nf3 Nc5 16. Nd2 Ne6 17. Nf3 Nc5 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.20"]
-[Round "6"]
-[White "Anand, Viswanathan"]
-[Black "Radjabov, Teimour"]
-[Result "1-0"]
-[ECO "B31"]
-[WhiteElo "2791"]
-[BlackElo "2761"]
-[PlyCount "127"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. d3 Bg7 6. h3 b6 7. O-O e5 8. a3
-a5 9. Be3 Ne7 10. Nbd2 a4 11. b4 axb3 12. Nxb3 f5 13. a4 f4 14. Bd2 Qd6 15. Bc3
-Rb8 16. Qb1 g5 17. Qb2 Ng6 18. Nbd2 b5 19. axb5 cxb5 20. Ra7 Bf6 21. Ba5 Qc6
-22. Rc7 Qd6 23. Nc4 Qe6 24. Rxc5 O-O 25. Bc7 Rb7 26. Na5 Ra7 27. Qxb5 Bd7 28.
-Qb6 Qxb6 29. Bxb6 Ra6 30. Nc4 g4 31. hxg4 Bxg4 32. Nfd2 Rc8 33. Rxc8+ Bxc8 34.
-Ba5 Be6 35. Rb1 f3 36. g3 Bg5 37. Rb6 Rxa5 38. Nxa5 Bxd2 39. Rxe6 Bxa5 40. Rf6
-Kg7 41. Ra6 Bb4 42. Rc6 h5 43. c3 Be7 44. d4 h4 45. Kh2 Bg5 46. d5 Be3 47. fxe3
-f2 48. Kg2 hxg3 49. Ra6 Nh4+ 50. Kf1 Nf3 51. Ra1 Kf7 52. c4 Nd2+ 53. Kg2 Nxe4
-54. c5 Nxc5 55. Kxg3 Ne4+ 56. Kg2 Ke7 57. Ra6 Nc5 58. Rc6 Ne4 59. Re6+ Kd7 60.
-Rxe5 Nf6 61. e4 Ng4 62. Rf5 Kd6 63. Rxf2 Ke5 64. Kg3 1-0
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.20"]
-[Round "6"]
-[White "Aronian, Levon"]
-[Black "Karjakin, Sergey"]
-[Result "1/2-1/2"]
-[ECO "D15"]
-[WhiteElo "2750"]
-[BlackElo "2706"]
-[PlyCount "103"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nc3 b5 6. b3 Bg4 7. Qd2 Bxf3 8. gxf3
-Nbd7 9. Bb2 e6 10. c5 a5 11. a4 b4 12. Ne2 g6 13. Nf4 Qc7 14. Nd3 Nh5 15. f4
-Be7 16. O-O-O Bh4 17. Be2 Ng7 18. Kb1 f5 19. Ka2 Nf6 20. f3 Nd7 21. Rdg1 Nh5
-22. Bd1 O-O-O 23. Be2 Kb8 24. Qc2 Rde8 25. Bc1 Kc8 26. Bd2 Kd8 27. Qd1 Ke7 28.
-Qf1 Kf7 29. Qh3 Qd8 30. Bd1 Qe7 31. Rg2 Ref8 32. Rhg1 Ke8 33. Re2 Bf6 34. Rge1
-Bh4 35. Rf1 Bf6 36. Be1 Kd8 37. Bf2 Qg7 38. Rfe1 Kc7 39. Rc2 Ra8 40. Qf1 Rhe8
-41. Ne5 Qe7 42. Qh3 Bg7 43. Rg1 Bf6 44. Be2 Rab8 45. Rcc1 Red8 46. Ba6 Rf8 47.
-Qf1 Bh4 48. Bg3 Nxe5 49. dxe5 Qd8 50. Bd3 Be7 51. Bb1 Qc8 52. Rg2 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.20"]
-[Round "6"]
-[White "Carlsen, Magnus"]
-[Black "Morozevich, Alexander"]
-[Result "1-0"]
-[ECO "D97"]
-[WhiteElo "2776"]
-[BlackElo "2771"]
-[PlyCount "93"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. e5
-Nfd7 9. Be3 Nb6 10. Qc5 Bg4 11. Be2 N8d7 12. Qa3 c6 13. h4 h5 14. Qb3 Be6 15.
-Qd1 f6 16. Bd3 Qe8 17. Qc2 f5 18. Ng5 Bd5 19. Nxd5 Nxd5 20. Ne6 Rf7 21. Bd2 Nf8
-22. Ng5 Rd8 23. O-O-O Bh6 24. Nxf7 Bxd2+ 25. Rxd2 Qxf7 26. Bc4 Ne6 27. Kb1 Qe8
-28. f3 Kg7 29. g4 hxg4 30. fxg4 fxg4 31. Qe4 Qf7 32. Rf1 Qg8 33. Bxd5 Rxd5 34.
-Qxg4 c5 35. Rg2 g5 36. Rgf2 Rxd4 37. Rf7+ Qxf7 38. Rxf7+ Kxf7 39. Qf5+ Ke8 40.
-Qxe6 gxh4 41. Qc8+ Kf7 42. Qf5+ Kg7 43. e6 h3 44. Qxh3 Kf6 45. Qf3+ Kxe6 46.
-Qxb7 Rd6 47. Kc2 1-0
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.20"]
-[Round "6"]
-[White "Ivanchuk, Vassily"]
-[Black "Wang Yue"]
-[Result "0-1"]
-[ECO "D15"]
-[WhiteElo "2779"]
-[BlackElo "2739"]
-[PlyCount "58"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 a6 5. h3 e6 6. e3 c5 7. cxd5 exd5 8. Be2
-Nc6 9. O-O Be6 10. b3 Rc8 11. Bb2 cxd4 12. Nxd4 Bc5 13. Nxc6 Rxc6 14. Rc1 O-O
-15. Na4 Ba7 16. Rxc6 bxc6 17. Bxa6 Ne4 18. Qh5 f5 19. Bd3 Bd7 20. Rc1 Qe7 21.
-Rc2 f4 22. exf4 Rxf4 23. Bxe4 Rxe4 24. Bc3 d4 25. Bd2 d3 26. Rc3 Re2 27. Rxd3
-Rxd2 28. Rxd2 Qe1+ 29. Kh2 Qxd2 0-1
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.20"]
-[Round "6"]
-[White "Kamsky, Gata"]
-[Black "Kramnik, Vladimir"]
-[Result "1/2-1/2"]
-[ECO "D11"]
-[WhiteElo "2725"]
-[BlackElo "2759"]
-[PlyCount "257"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bg4 5. d4 e6 6. c4 Nbd7 7. Qb3 Qb6 8. Nc3
-Be7 9. Bf4 O-O 10. Rfd1 Bf5 11. c5 Qxb3 12. axb3 Bc2 13. Rdc1 Bxb3 14. Nd2 Bc4
-15. Nxc4 dxc4 16. Na4 Nd5 17. Rxc4 b5 18. cxb6 axb6 19. Rcc1 Rfc8 20. Nc3 Rxa1
-21. Rxa1 Nxf4 22. gxf4 Nf6 23. Ra6 Bd8 24. Bf3 Kf8 25. e3 Nd5 26. Ne4 Be7 27.
-Nd2 c5 28. Bxd5 exd5 29. Rxb6 cxd4 30. exd4 g6 31. Nf3 f6 32. Kg2 Kf7 33. h4 h5
-34. Ng1 Rc2 35. Kf3 g5 36. fxg5 fxg5 37. hxg5 Bxg5 38. Rb5 Ke6 39. Rb6+ Kf7 40.
-Rd6 Bf6 41. Ne2 Rxb2 42. Rxd5 h4 43. Nf4 Rd2 44. Ke3 Rd1 45. Ke4 Ke7 46. Nd3
-Ra1 47. Rh5 Kf7 48. d5 Kg7 49. f3 Ra3 50. Nf4 Kf7 51. Rh7+ Kg8 52. Rb7 Bg5 53.
-Ne6 Bf6 54. f4 h3 55. Kf5 Bh4 56. Rg7+ Kh8 57. Rg6 Ra7 58. Rg1 Ra5 59. Ke4 h2
-60. Rh1 Ra2 61. Nd4 Kg8 62. d6 Kf7 63. Nf3 Bf6 64. Kf5 Rf2 65. Nxh2 Rd2 66. Ng4
-Rxd6 67. Rh6 Rd5+ 68. Ne5+ Bxe5 69. fxe5 Ra5 70. Rh7+ Kg8 71. Re7 Ra6 72. Re6
-Ra1 73. Rf6 Kg7 74. Ke4 Ra4+ 75. Kd5 Ra5+ 76. Kd4 Ra4+ 77. Kd5 Ra5+ 78. Ke4
-Ra4+ 79. Kf5 Ra1 80. Rb6 Kf7 81. Rb7+ Ke8 82. Kf6 Re1 83. Ke6 Kf8 84. Rb8+ Kg7
-85. Rd8 Re2 86. Rd5 Kf8 87. Rc5 Re1 88. Rc8+ Kg7 89. Kd6 Kf7 90. Rc7+ Ke8 91.
-Ke6 Kf8 92. Rf7+ Ke8 93. Rh7 Kf8 94. Rh8+ Kg7 95. Re8 Re2 96. Kd7 Rd2+ 97. Ke7
-Re2 98. e6 Ra2 99. Rc8 Ra7+ 100. Kd6 Ra6+ 101. Kd7 Ra7+ 102. Rc7 Ra8 103. Ke7
-Kg6 104. Rb7 Kg7 105. Rd7 Kg6 106. Rd2 Ra7+ 107. Kf8 Ra8+ 108. Ke7 Ra7+ 109.
-Kd6 Ra6+ 110. Ke5 Ra5+ 111. Rd5 Ra1 112. Rd8 Ra5+ 113. Kd6 Ra6+ 114. Ke7 Ra7+
-115. Rd7 Ra8 116. Rd6 Kg7 117. Rc6 Ra7+ 118. Ke8 Ra8+ 119. Ke7 Ra7+ 120. Kd8
-Kf8 121. Rc5 Ra8+ 122. Kd7 Ra7+ 123. Kd6 Ra6+ 124. Rc6 Rxc6+ 125. Kxc6 Ke7 126.
-Kd5 Ke8 127. Kd6 Kd8 128. e7+ Ke8 129. Ke6 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.20"]
-[Round "6"]
-[White "Leko, Peter"]
-[Black "Topalov, Veselin"]
-[Result "1-0"]
-[ECO "B19"]
-[WhiteElo "2751"]
-[BlackElo "2796"]
-[PlyCount "47"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
-Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Ne4 Nxe4 14. Qxe4
-Nf6 15. Qd3 O-O 16. g4 Nxg4 17. Rhg1 f5 18. Qe2 Qd5 19. c4 Qd6 20. Ne5 Qxd4 21.
-Nxg4 fxg4 22. Rxg4 Qxf2 23. Qxe6+ Rf7 24. Rf4 1-0
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.21"]
-[Round "7"]
-[White "Karjakin, Sergey"]
-[Black "Anand, Viswanathan"]
-[Result "0-1"]
-[ECO "B12"]
-[WhiteElo "2706"]
-[BlackElo "2791"]
-[PlyCount "66"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 8. Nd2
-Nbc6 9. N2f3 Be4 10. O-O Ng6 11. c4 Be7 12. Nxc6 bxc6 13. cxd5 Bxd5 14. g3 O-O
-15. Bd4 Qc7 16. Bc3 Rfd8 17. Qa4 Bc5 18. Rac1 h6 19. Rc2 a5 20. a3 Bb6 21. Qg4
-a4 22. Re1 Qa7 23. Rf1 Qb8 24. Re1 Ba5 25. Bxa5 Rxa5 26. Qb4 Qxb4 27. axb4 Raa8
-28. Rd2 Rdb8 29. Rd4 c5 30. bxc5 Rxb2 31. Rd2 a3 32. Ra1 Nxe5 33. Rxb2 Nxf3+
-0-1
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.21"]
-[Round "7"]
-[White "Kramnik, Vladimir"]
-[Black "Aronian, Levon"]
-[Result "1/2-1/2"]
-[ECO "D85"]
-[WhiteElo "2759"]
-[BlackElo "2750"]
-[PlyCount "69"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
-Rc1 Qa5 9. Qd2 O-O 10. Nf3 Rd8 11. d5 e6 12. Be2 exd5 13. exd5 Nd7 14. O-O Nf6
-15. c4 Qxd2 16. Nxd2 b6 17. h3 Re8 18. Bd3 Nd7 19. Rfd1 Ne5 20. Bf1 Bd7 21. Nb1
-f5 22. Nc3 Nf7 23. a4 g5 24. a5 f4 25. Bd2 Nd6 26. axb6 axb6 27. Rb1 Reb8 28.
-Re1 Ra3 29. Re7 Bf5 30. Rc1 Rb7 31. Rxb7 Nxb7 32. Nb5 Ra1 33. Rxa1 Bxa1 34. h4
-h6 35. hxg5 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.21"]
-[Round "7"]
-[White "Morozevich, Alexander"]
-[Black "Leko, Peter"]
-[Result "1/2-1/2"]
-[ECO "A04"]
-[WhiteElo "2771"]
-[BlackElo "2751"]
-[PlyCount "98"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. g3 c5 2. Bg2 g6 3. Nf3 Bg7 4. d4 cxd4 5. Nxd4 Nc6 6. Nb3 Nf6 7. Nc3 O-O 8.
-e4 d6 9. h3 Be6 10. O-O a5 11. a3 a4 12. Nd2 d5 13. exd5 Nxd5 14. Nce4 Qa5 15.
-Rb1 Rfd8 16. Qe1 Nd4 17. c3 Nc6 18. b4 Qc7 19. Bb2 Nb6 20. Qe2 Ne5 21. Rfd1 Ba2
-22. Ra1 Bd5 23. Nc5 Bxg2 24. Kxg2 Qc6+ 25. f3 Nbd7 26. Nxd7 Rxd7 27. c4 Rad8
-28. Bxe5 Bxe5 29. Rab1 Rd3 30. h4 Bg7 31. Ne4 Qxc4 32. Rbc1 Qd5 33. Rxd3 Qxd3
-34. Qxd3 Rxd3 35. Rc8+ Bf8 36. Nc5 Rxa3 37. Nd7 Kg7 38. Nxf8 Rd3 39. Nxh7 Kxh7
-40. Rc7 b6 41. Rxe7 Kg7 42. Rb7 Rd2+ 43. Kh3 Rd6 44. b5 a3 45. Ra7 Rd3 46. Ra6
-Rxf3 47. Rxb6 a2 48. Ra6 Rf2 49. b6 Rb2 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.21"]
-[Round "7"]
-[White "Radjabov, Teimour"]
-[Black "Kamsky, Gata"]
-[Result "1-0"]
 [ECO "B01"]
-[WhiteElo "2761"]
-[BlackElo "2725"]
-[PlyCount "81"]
 [EventDate "2009.03.14"]
+[PlyCount "81"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. e4 d5 2. exd5 Nf6 3. Nf3 Nxd5 4. d4 c6 5. Be2 g6 6. O-O Bg7 7. h3 O-O 8. c4
-Nb6 9. Be3 a5 10. Nc3 Na6 11. Qb3 Bf5 12. a3 Qc7 13. Rac1 h6 14. Rfd1 Rfd8 15.
-Rd2 Nd7 16. Rdd1 Be6 17. Nd5 cxd5 18. cxd5 Bxd5 19. Qxd5 Qb6 20. Qa2 Nc7 21.
-Bc4 e6 22. d5 Qxb2 23. dxe6 Qxa2 24. exf7+ Kh7 25. Bxa2 Nb5 26. Rd3 Nf8 27. Rb3
-Nd6 28. Bf4 g5 29. Bg3 Nxf7 30. Rxb7 Nd6 31. Bxd6 Rxd6 32. Rcc7 Nd7 33. Rxd7
-Rxd7 34. Rxd7 Rc8 35. g3 Rc3 36. Rd3 Rc1+ 37. Kg2 Bf8 38. a4 Bc5 39. Rd7+ Kg6
-40. Ne5+ Kf5 41. Nd3 1-0
+1. e4 d5 2. exd5 Nf6 3. Nf3 Nxd5 4. d4 c6 5. Be2 g6 6. O-O Bg7 7. h3 O-O 8.
+c4 Nb6 9. Be3 a5 10. Nc3 Na6 11. Qb3 Bf5 12. a3 Qc7 13. Rac1 h6 14. Rfd1
+Rfd8 15. Rd2 Nd7 16. Rdd1 Be6 17. Nd5 cxd5 18. cxd5 Bxd5 19. Qxd5 Qb6 20.
+Qa2 Nc7 21. Bc4 e6 22. d5 Qxb2 23. dxe6 Qxa2 24. exf7+ Kh7 25. Bxa2 Nb5 26.
+Rd3 Nf8 27. Rb3 Nd6 28. Bf4 g5 29. Bg3 Nxf7 30. Rxb7 Nd6 31. Bxd6 Rxd6 32.
+Rcc7 Nd7 33. Rxd7 Rxd7 34. Rxd7 Rc8 35. g3 Rc3 36. Rd3 Rc1+ 37. Kg2 Bf8 38.
+a4 Bc5 39. Rd7+ Kg6 40. Ne5+ Kf5 41. Nd3 1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -1050,23 +1065,24 @@ Rxd7 34. Rxd7 Rc8 35. g3 Rc3 36. Rd3 Rc1+ 37. Kg2 Bf8 38. a4 Bc5 39. Rd7+ Kg6
 [White "Topalov, Veselin"]
 [Black "Ivanchuk, Vassily"]
 [Result "1/2-1/2"]
-[ECO "E04"]
 [WhiteElo "2796"]
 [BlackElo "2779"]
-[PlyCount "77"]
+[ECO "E04"]
 [EventDate "2009.03.14"]
+[PlyCount "77"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c6 6. O-O b5 7. Ne5 Bb7 8. a4 a6
-9. axb5 axb5 10. Rxa8 Bxa8 11. Nc3 Be7 12. Nxb5 cxb5 13. Bxa8 O-O 14. Bf3 Nd5
-15. h4 Qc7 16. Bd2 Bf6 17. e4 Bxe5 18. dxe5 Ne7 19. Bb4 Nbc6 20. Bd6 Qb6 21. b3
-Ra8 22. bxc4 bxc4 23. Qc1 Ng6 24. Qxc4 Ncxe5 25. Bxe5 Nxe5 26. Qc3 Qd4 27. Rc1
-g5 28. Kg2 Qxc3 29. Rxc3 g4 30. Be2 Kg7 31. f4 gxf3+ 32. Bxf3 Ra2+ 33. Kf1 Ra4
-34. Kf2 Kf6 35. Ke3 Nc4+ 36. Kd3 Ne5+ 37. Ke3 Nc4+ 38. Kd3 Ne5+ 39. Ke3 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c6 6. O-O b5 7. Ne5 Bb7 8.
+a4 a6 9. axb5 axb5 10. Rxa8 Bxa8 11. Nc3 Be7 12. Nxb5 cxb5 13. Bxa8 O-O 14.
+Bf3 Nd5 15. h4 Qc7 16. Bd2 Bf6 17. e4 Bxe5 18. dxe5 Ne7 19. Bb4 Nbc6 20.
+Bd6 Qb6 21. b3 Ra8 22. bxc4 bxc4 23. Qc1 Ng6 24. Qxc4 Ncxe5 25. Bxe5 Nxe5
+26. Qc3 Qd4 27. Rc1 g5 28. Kg2 Qxc3 29. Rxc3 g4 30. Be2 Kg7 31. f4 gxf3+
+32. Bxf3 Ra2+ 33. Kf1 Ra4 34. Kf2 Kf6 35. Ke3 Nc4+ 36. Kd3 Ne5+ 37. Ke3
+Nc4+ 38. Kd3 Ne5+ 39. Ke3 1/2-1/2
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -1075,11 +1091,11 @@ g5 28. Kg2 Qxc3 29. Rxc3 g4 30. Be2 Kg7 31. f4 gxf3+ 32. Bxf3 Ra2+ 33. Kf1 Ra4
 [White "Wang Yue"]
 [Black "Carlsen, Magnus"]
 [Result "0-1"]
-[ECO "D44"]
 [WhiteElo "2739"]
 [BlackElo "2776"]
-[PlyCount "98"]
+[ECO "D44"]
 [EventDate "2009.03.14"]
+[PlyCount "98"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
@@ -1087,13 +1103,13 @@ g5 28. Kg2 Qxc3 29. Rxc3 g4 30. Be2 Kg7 31. f4 gxf3+ 32. Bxf3 Ra2+ 33. Kf1 Ra4
 [SourceDate "2009.03.14"]
 
 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 dxc4 5. Nc3 c6 6. a4 Bb4 7. e4 Bxc3+ 8.
-bxc3 Qa5 9. e5 Ne4 10. Bd2 Qd5 11. a5 c5 12. Qa4+ Bd7 13. Qxc4 Qxc4 14. Bxc4
-Bc6 15. Ke2 Nd7 16. Rhc1 Ke7 17. Be3 b5 18. Bd3 c4 19. Bb1 f6 20. exf6+ Nexf6
-21. Ne5 Nxe5 22. dxe5 Nd5 23. f3 Nxe3 24. Kxe3 Rad8 25. Bc2 Rd5 26. Be4 Rxe5
-27. Kd4 Kf6 28. Rd1 Bd5 29. a6 Rb8 30. Bxd5 Rxd5+ 31. Ke4 Rbd8 32. Rxd5 Rxd5
-33. f4 Ke7 34. g4 Kd6 35. f5 exf5+ 36. gxf5 Kc5 37. Rg1 Rd7 38. Rg5 Re7+ 39.
-Kf4 Kb6 40. h4 Kxa6 41. h5 h6 42. Rg6+ Ka5 43. Re6 Rd7 44. Ke4 Ka4 45. f6 gxf6
-46. Rxf6 Kb3 47. Rxh6 Kxc3 48. Rg6 b4 49. h6 Rh7 0-1
+bxc3 Qa5 9. e5 Ne4 10. Bd2 Qd5 11. a5 c5 12. Qa4+ Bd7 13. Qxc4 Qxc4 14.
+Bxc4 Bc6 15. Ke2 Nd7 16. Rhc1 Ke7 17. Be3 b5 18. Bd3 c4 19. Bb1 f6 20.
+exf6+ Nexf6 21. Ne5 Nxe5 22. dxe5 Nd5 23. f3 Nxe3 24. Kxe3 Rad8 25. Bc2 Rd5
+26. Be4 Rxe5 27. Kd4 Kf6 28. Rd1 Bd5 29. a6 Rb8 30. Bxd5 Rxd5+ 31. Ke4 Rbd8
+32. Rxd5 Rxd5 33. f4 Ke7 34. g4 Kd6 35. f5 exf5+ 36. gxf5 Kc5 37. Rg1 Rd7
+38. Rg5 Re7+ 39. Kf4 Kb6 40. h4 Kxa6 41. h5 h6 42. Rg6+ Ka5 43. Re6 Rd7 44.
+Ke4 Ka4 45. f6 gxf6 46. Rxf6 Kb3 47. Rxh6 Kxc3 48. Rg6 b4 49. h6 Rh7 0-1
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -1102,22 +1118,22 @@ Kf4 Kb6 40. h4 Kxa6 41. h5 h6 42. Rg6+ Ka5 43. Re6 Rd7 44. Ke4 Ka4 45. f6 gxf6
 [White "Anand, Viswanathan"]
 [Black "Kramnik, Vladimir"]
 [Result "1-0"]
+[WhiteElo "2791"]
+[BlackElo "2759"]
 [ECO "C43"]
-[WhiteElo "2791"]
-[BlackElo "2759"]
+[EventDate "2009.03.14"]
 [PlyCount "59"]
-[EventDate "2009.03.14"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O Bd6 8.
-c4 c6 9. cxd5 cxd5 10. Nc3 Nxc3 11. bxc3 O-O 12. Qh5 g6 13. Qxd5 Qc7 14. Bh6
-Rfd8 15. h4 Be6 16. Qg5 Qxc3 17. Rfd1 Bf8 18. Bxf8 Rd5 19. Qf6 Rxf8 20. Be4 Rh5
-21. Rac1 Qa5 22. f3 Rb5 23. a4 Rb6 24. d5 Bf5 25. d6 Bxe4 26. fxe4 Qxa4 27. h5
-Qxe4 28. Qe7 Qb4 29. h6 Rc6 30. Qf6 1-0
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Nd7 6. Nxd7 Bxd7 7. O-O
+Bd6 8. c4 c6 9. cxd5 cxd5 10. Nc3 Nxc3 11. bxc3 O-O 12. Qh5 g6 13. Qxd5 Qc7
+14. Bh6 Rfd8 15. h4 Be6 16. Qg5 Qxc3 17. Rfd1 Bf8 18. Bxf8 Rd5 19. Qf6 Rxf8
+20. Be4 Rh5 21. Rac1 Qa5 22. f3 Rb5 23. a4 Rb6 24. d5 Bf5 25. d6 Bxe4 26.
+fxe4 Qxa4 27. h5 Qxe4 28. Qe7 Qb4 29. h6 Rc6 30. Qf6 1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -1126,419 +1142,424 @@ Qxe4 28. Qe7 Qb4 29. h6 Rc6 30. Qf6 1-0
 [White "Aronian, Levon"]
 [Black "Radjabov, Teimour"]
 [Result "1-0"]
+[WhiteElo "2750"]
+[BlackElo "2761"]
 [ECO "D71"]
-[WhiteElo "2750"]
-[BlackElo "2761"]
+[EventDate "2009.03.14"]
 [PlyCount "73"]
-[EventDate "2009.03.14"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. c4 g6 2. d4 Nf6 3. Nc3 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nxc3 7. bxc3 c5 8.
-Nf3 Nc6 9. O-O cxd4 10. cxd4 Nxd4 11. Nxd4 Qxd4 12. Rb1 O-O 13. Be3 Qc4 14. Bd5
-Qa6 15. Qb3 Qxe2 16. Bc5 Be6 17. Bxe6 Qxe6 18. Qxe6 fxe6 19. Rxb7 Rf5 20. Rc7
-Be5 21. Rxe7 Bxg3 22. hxg3 Rxc5 23. Rb1 a5 24. Rbb7 Rh5 25. Rxe6 Rd8 26. Ree7
-Rc8 27. Ra7 Rd8 28. Kg2 Rf8 29. a4 Rb8 30. g4 Rh4 31. f3 Rf8 32. Rxa5 h5 33.
-gxh5 Rxh5 34. Rxh5 gxh5 35. a5 Rf6 36. Rb7 h4 37. Rb3 1-0
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.22"]
-[Round "8"]
-[White "Carlsen, Magnus"]
-[Black "Topalov, Veselin"]
-[Result "1-0"]
-[ECO "A33"]
-[WhiteElo "2776"]
-[BlackElo "2796"]
-[PlyCount "137"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. Nc3 cxd4 5. Nxd4 Nc6 6. a3 Be7 7. e4 O-O 8. Nc2
-b6 9. f4 Bb7 10. Bd3 Rc8 11. Qe2 d6 12. O-O Na5 13. Be3 a6 14. Nd4 Qc7 15. Rac1
-Qb8 16. b4 Nc6 17. f5 Nxd4 18. Bxd4 Ba8 19. fxe6 fxe6 20. e5 dxe5 21. Bxe5 Qb7
-22. Bxf6 Bxf6 23. Qxe6+ Kh8 24. Be4 Qc7 25. Nd5 Bd4+ 26. Kh1 Rxf1+ 27. Rxf1
-Qxc4 28. Re1 Rf8 29. Nf4 b5 30. h3 Bf2 31. Qe7 Qc8 32. Ne6 Rg8 33. Ng5 Rf8 34.
-Ne6 Rg8 35. Ng5 Rf8 36. Rd1 Re8 37. Nf7+ Kg8 38. Nh6+ Kh8 39. Nf7+ Kg8 40. Nd6
-Rxe7 41. Nxc8 Re8 42. Bxa8 Rxc8 43. Bd5+ Kh8 44. Bb7 Rb8 45. Bxa6 g6 46. Rd6
-Bg3 47. Rd3 Be5 48. g4 Rb6 49. Bc8 Kg7 50. Kg2 Kf6 51. Kf3 Rb8 52. Bd7 Bb2 53.
-Ke4 Rd8 54. Rf3+ Ke7 55. Bxb5 Rd4+ 56. Ke3 Rd6 57. Ke2 Rf6 58. Rb3 Bd4 59. Kd3
-Rf3+ 60. Kc4 Rxb3 61. Kxb3 Kd6 62. a4 Bf2 63. Kc4 g5 64. Be8 h6 65. Kb5 Be1 66.
-Kb6 Bxb4 67. a5 Bc5+ 68. Kb7 Ke7 69. Bh5 1-0
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.22"]
-[Round "8"]
-[White "Ivanchuk, Vassily"]
-[Black "Morozevich, Alexander"]
-[Result "1-0"]
-[ECO "C93"]
-[WhiteElo "2779"]
-[BlackElo "2771"]
-[PlyCount "99"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
-O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 h6 13. d5 Ne7 14. b3 c6 15. c4
-cxd5 16. cxd5 Nd7 17. g4 Ng6 18. Nf1 Nf4 19. Kh2 Rc8 20. Bd2 h5 21. Ne3 hxg4
-22. hxg4 Nf6 23. Rg1 g6 24. Rc1 Qd7 25. Rg3 Be7 26. Bb1 Rxc1 27. Bxc1 Bd8 28.
-Kg1 Bb6 29. Nh4 Qc7 30. Bd2 Bc8 31. Qf3 Nh7 32. Kf1 Qd8 33. Qh1 Ng5 34. Nf3 Kg7
-35. Nxg5 Qxg5 36. Nf5+ Bxf5 37. gxf5 Qf6 38. Bd3 Rh8 39. Qg1 Qh4 40. Bxf4 exf4
-41. Rxg6+ Kf8 42. Rxd6 Bxf2 43. Qg2 f3 44. Qxf2 Qe7 45. Qg3 Qc7 46. f6 Rg8 47.
-Qf4 Rh8 48. Rc6 Rh1+ 49. Kf2 Qa7+ 50. Kxf3 1-0
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.22"]
-[Round "8"]
-[White "Kamsky, Gata"]
-[Black "Karjakin, Sergey"]
-[Result "1/2-1/2"]
-[ECO "B52"]
-[WhiteElo "2725"]
-[BlackElo "2706"]
-[PlyCount "52"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Qe2 Nc6 7. b3 g6 8.
-Bb2 Bg7 9. c4 Nh5 10. Bxg7 Nxg7 11. Nc3 O-O 12. e5 Nf5 13. Nd5 dxe5 14. Nxe5
-Qe6 15. Rae1 Qxe5 16. Qxe5 Nxe5 17. Rxe5 e6 18. Ne3 b6 19. Nxf5 gxf5 20. Re3
-Kg7 21. Rd1 Rfd8 22. Rg3+ Kf6 23. Rh3 Kg6 24. Rg3+ Kf6 25. Rh3 Kg6 26. Rg3+ Kf6
-1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.22"]
-[Round "8"]
-[White "Leko, Peter"]
-[Black "Wang Yue"]
-[Result "1/2-1/2"]
-[ECO "C67"]
-[WhiteElo "2751"]
-[BlackElo "2739"]
-[PlyCount "138"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
-8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Be7 11. g4 Nh4 12. Nxh4 Bxh4 13. Kg2 h5 14. f3
-Be7 15. Rd1 Be6 16. Be3 a6 17. Ne2 Rd8 18. Nf4 g6 19. Rxd8+ Kxd8 20. Rd1+ Ke8
-21. Nxe6 fxe6 22. f4 Rh7 23. Bf2 Rh8 24. Bg3 Rh7 25. Kf3 Rh8 26. Re1 Rh7 27.
-Re2 Rh8 28. Rh2 Rh7 29. Ke4 Rg7 30. Rd2 Rg8 31. Re2 Rg7 32. Rh2 Kf7 33. Rd2 Ke8
-34. Rg2 Kf7 35. b3 Rg8 36. Rd2 Ke8 37. Rf2 Kf7 38. Rf3 hxg4 39. hxg4 Rh8 40. f5
-gxf5+ 41. gxf5 exf5+ 42. Kxf5 Rh6 43. Rf2 c5 44. Rh2 Rxh2 45. Bxh2 Ke8 46. Bf4
-c4 47. bxc4 Bb4 48. Ke6 Ba5 49. Be3 Bb4 50. Bd4 Bf8 51. c5 Be7 52. Kd5 c6+ 53.
-Ke6 Bf8 54. Be3 Be7 55. Bf2 Bf8 56. Bg1 Be7 57. Kf5 Kf7 58. e6+ Ke8 59. Bd4 Bf8
-60. Ke4 Ke7 61. Kf5 Ke8 62. Be3 Be7 63. Ke5 Bf8 64. Bf2 Be7 65. Kd4 Bf6+ 66.
-Ke4 Be7 67. Be3 Bf8 68. Bd4 Ke7 69. Kf5 Ke8 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.24"]
-[Round "9"]
-[White "Karjakin, Sergey"]
-[Black "Carlsen, Magnus"]
-[Result "1/2-1/2"]
-[ECO "B30"]
-[WhiteElo "2706"]
-[BlackElo "2776"]
-[PlyCount "81"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. d3 Ne7 6. Qe2 f6 7. Nh4 g6 8. f4
-Bg7 9. O-O O-O 10. c4 d6 11. Nc3 Rb8 12. Be3 h6 13. e5 dxe5 14. fxe5 f5 15.
-Bxc5 g5 16. Nf3 Ng6 17. d4 Re8 18. Bxa7 Rb7 19. Bc5 g4 20. Ne1 Bf8 21. Nd3 Bxc5
-22. Nxc5 Qxd4+ 23. Qf2 Qxf2+ 24. Rxf2 Ra7 25. Re2 Rd8 26. g3 h5 27. a3 f4 28.
-gxf4 Nxf4 29. Rc2 Rf7 30. N3e4 Rf5 31. Re1 Kg7 32. Ng3 Rg5 33. Nf1 h4 34. Rd2
-Rf8 35. Re4 g3 36. hxg3 hxg3 37. Ne3 Nh3+ 38. Kg2 Nf4+ 39. Kg1 Nh3+ 40. Kg2
-Nf4+ 41. Kg1 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.24"]
-[Round "9"]
-[White "Kramnik, Vladimir"]
-[Black "Ivanchuk, Vassily"]
-[Result "0-1"]
-[ECO "D82"]
-[WhiteElo "2759"]
-[BlackElo "2779"]
-[PlyCount "146"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 Ne4 8. cxd5
-Nxc3 9. Qd2 Qxa2 10. bxc3 Qa5 11. Bc4 Nd7 12. Nf3 Nxc5 13. Be5 Bxe5 14. Nxe5 f6
-15. Nd3 Ne4 16. Qa2 Qxa2 17. Bxa2 b6 18. f3 Nd6 19. c4 e5 20. dxe6 Bxe6 21. Nf4
-Bf7 22. O-O Rc8 23. Rfd1 Nb7 24. e4 Nc5 25. Nd5 Rc6 26. Rc3 Kf8 27. Ra3 a5 28.
-Rb1 Bxd5 29. cxd5 Rd6 30. Re3 g5 31. e5 fxe5 32. Rxe5 h6 33. Rbe1 Kg7 34. Re7+
-Kf6 35. Rc7 a4 36. Re3 Na6 37. Ra7 b5 38. f4 Nb4 39. fxg5+ hxg5 40. Bb1 Nxd5
-41. Rf3+ Nf4 42. Rf1 Rd2 43. Be4 Ke5 44. Bf3 g4 45. Re1+ Kd6 46. Rd1 Rxd1+ 47.
-Bxd1 Rc8 48. Kf2 Rc3 49. Ra6+ Kc5 50. Bxg4 a3 51. h4 b4 52. h5 Nd3+ 53. Kg1 b3
-54. Rxa3 Rc1+ 55. Kh2 b2 56. Rb3 b1=Q 57. Rxb1 Rxb1 58. Bf5 Rb3 59. h6 Ne5 60.
-h7 Rb8 61. Kg3 Kd6 62. Kf4 Nf7 63. g4 Ke7 64. g5 Kf8 65. g6 Nh8 66. Kg5 Kg7 67.
-Be4 Rc8 68. Kh5 Rc4 69. Bd3 Rc1 70. Be4 Rg1 71. Bf5 Kf6 72. Be4 Rg5+ 73. Kh6
-Rg4 0-1
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.24"]
-[Round "9"]
-[White "Morozevich, Alexander"]
-[Black "Aronian, Levon"]
-[Result "1/2-1/2"]
-[ECO "D15"]
-[WhiteElo "2771"]
-[BlackElo "2750"]
-[PlyCount "95"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 b5 6. c5 g6 7. Bd2 a5 8. Bd3 Bg7
-9. Qc2 Nbd7 10. h3 O-O 11. O-O Re8 12. Ne2 Qc7 13. Rae1 e5 14. Nxe5 Nxe5 15.
-dxe5 Qxe5 16. Bc3 Qe7 17. Bd4 b4 18. a3 Ba6 19. Bxa6 Rxa6 20. axb4 axb4 21. Ra1
-Qa7 22. Rxa6 Qxa6 23. b3 Ra8 24. Ra1 Qxa1+ 25. Bxa1 Rxa1+ 26. Nc1 Ne4 27. g4
-Bf8 28. Kg2 Nc3 29. Nd3 Ra2 30. Qc1 Ne4 31. Qe1 Bxc5 32. Qc1 Ra5 33. h4 Nc3 34.
-Nxc5 Rxc5 35. Qa1 Ne4 36. f3 Rc2+ 37. Kh3 Rc3 38. Qa7 Nd2 39. Qb8+ Kg7 40. Qxb4
-Rd3 41. Kg2 d4 42. exd4 Nxb3 43. Qe7 Nxd4 44. Qe5+ Kg8 45. h5 Ne6 46. h6 g5 47.
-Kf2 Rd8 48. Qf6 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.24"]
-[Round "9"]
-[White "Radjabov, Teimour"]
-[Black "Leko, Peter"]
-[Result "1/2-1/2"]
-[ECO "B18"]
-[WhiteElo "2761"]
-[BlackElo "2751"]
-[PlyCount "48"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nh3 Nf6 7. Nf4 e5 8.
-Nxg6 hxg6 9. dxe5 Qa5+ 10. Bd2 Qxe5+ 11. Qe2 Qxe2+ 12. Bxe2 Nbd7 13. O-O O-O-O
-14. Rad1 Nb6 15. Rfe1 Bd6 16. Nf1 Kc7 17. g3 Ne4 18. Bc1 Bc5 19. Bf4+ Bd6 20.
-Bc1 Bc5 21. Ne3 Nd5 22. Bd3 Nxe3 23. Bxe3 Bxe3 24. Bxe4 Rxd1 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.24"]
-[Round "9"]
-[White "Topalov, Veselin"]
-[Black "Anand, Viswanathan"]
-[Result "1/2-1/2"]
-[ECO "B12"]
-[WhiteElo "2796"]
-[BlackElo "2791"]
-[PlyCount "53"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 8. c4
-Nbc6 9. Nc3 Nxd4 10. Bxd4 dxc4 11. Qa4+ Nc6 12. Rd1 Bd3 13. Bxd3 cxd3 14. Rxd3
-Bc5 15. Ne4 Bxd4 16. Nd6+ Kf8 17. Rxd4 Nxd4 18. Qxd4 Qa5+ 19. Ke2 Ke7 20. Rc1
-Rhd8 21. Qh4+ Kf8 22. Nc4 Qc5 23. Qxh7 b5 24. Qh8+ Ke7 25. Qh4+ Kf8 26. Qh8+
-Ke7 27. Qh4+ 1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.24"]
-[Round "9"]
-[White "Wang Yue"]
-[Black "Kamsky, Gata"]
-[Result "1/2-1/2"]
-[ECO "D10"]
-[WhiteElo "2739"]
-[BlackElo "2725"]
-[PlyCount "117"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 g6 6. Bd3 Bg7 7. O-O O-O 8. Qc2
-Bg4 9. Ne5 Be6 10. c5 Nbd7 11. Nxd7 Bxd7 12. Bd2 Ng4 13. f4 Nh6 14. b4 Bf5 15.
-a4 f6 16. Nd1 Bxd3 17. Qxd3 e5 18. Nf2 Qd7 19. Bc3 exf4 20. exf4 Rfe8 21. Rfe1
-Ng4 22. Rxe8+ Rxe8 23. Re1 Nxf2 24. Kxf2 f5 25. Rxe8+ Qxe8 26. Bd2 Kf7 27. Be3
-Qe4 28. Qd2 h6 29. h4 Qb1 30. g3 Qa1 31. a5 Qb1 32. Kg2 Bf6 33. Kh2 Qf1 34. Bg1
-Qf3 35. Bf2 Bd8 36. Qe3 Qe4 37. Qd2 Qb1 38. Kg2 Bc7 39. Be3 Qe4+ 40. Kf2 Qh1
-41. Qe1 Qh2+ 42. Kf3 Qh3 43. Qg1 Qg4+ 44. Kf2 Kg7 45. Qe1 Kf7 46. Qe2 Bd8 47.
-Qf3 Bf6 48. Kg2 Bg7 49. Kf2 Qh3 50. Qg2 Qg4 51. Qf3 Bf8 52. Kg2 Be7 53. Kf2 g5
-54. Qxg4 fxg4 55. fxg5 hxg5 56. Bxg5 Bxg5 57. hxg5 Kg6 58. Ke3 Kxg5 59. Kd3
-1/2-1/2
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.25"]
-[Round "10"]
-[White "Anand, Viswanathan"]
-[Black "Morozevich, Alexander"]
-[Result "0-1"]
-[ECO "B07"]
-[WhiteElo "2791"]
-[BlackElo "2771"]
-[PlyCount "50"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nge2 Be7 5. g3 c6 6. Bg2 b5 7. O-O O-O 8. a3
-Nbd7 9. h3 Rb8 10. Be3 a5 11. b3 Re8 12. g4 b4 13. axb4 axb4 14. Na4 d5 15.
-dxe5 Nxe4 16. f4 Ba6 17. Bxe4 dxe4 18. Nd4 Qc7 19. Rf2 g6 20. Nb2 Ra8 21. Ne2
-Bh4 22. Rg2 Nb6 23. c4 bxc3 24. Nxc3 Nd5 25. Qxd5 cxd5 0-1
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.25"]
-[Round "10"]
-[White "Aronian, Levon"]
-[Black "Wang Yue"]
-[Result "1-0"]
-[ECO "D12"]
-[WhiteElo "2750"]
-[BlackElo "2739"]
-[PlyCount "133"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. d4 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Be2 dxc4 8. Nxg6
-hxg6 9. Bxc4 Nbd7 10. h3 Be7 11. Bb3 e5 12. O-O exd4 13. exd4 Nb6 14. Bf4 O-O
-15. Qd3 Nfd5 16. Be5 a5 17. a4 Re8 18. f4 Qd7 19. f5 f6 20. Bg3 g5 21. Ne4 Rad8
-22. Nc5 Bxc5 23. dxc5 Nc8 24. Rad1 Qe7 25. Bf2 Qe2 26. Rfe1 Qxd3 27. Rxd3 Kf8
-28. Red1 Re2 29. R1d2 Rxd2 30. Rxd2 Ke8 31. g4 Nf4 32. Rxd8+ Kxd8 33. Be1 Nd3
-34. Bxa5+ Ke8 35. Be6 Ne7 36. b4 Nf4 37. Bc4 Nxh3+ 38. Kf1 Nf4 39. b5 Kd7 40.
-Bd2 Nfd5 41. Bd3 cxb5 42. axb5 b6 43. cxb6 Nxb6 44. Kf2 Ned5 45. Bc1 Kd6 46.
-Ba3+ Ke5 47. Be2 Kd4 48. Ke1 Nf4 49. Bf3 Nfd5 50. Bf8 Nd7 51. Bxg7 Kc5 52. Kf1
-N7b6 53. Be2 Nd7 54. Bf3 N7b6 55. Ke2 Kxb5 56. Kd3 Nb4+ 57. Kd4 Nd7 58. Bd1 Ka5
-59. Bb3 Nc6+ 60. Kd5 Nce5 61. Kd6 Kb5 62. Bd1 Kc4 63. Ke7 Kc5 64. Bxf6 Nxf6 65.
-Kxf6 Kd6 66. Kxg5 Ke7 67. f6+ 1-0
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.25"]
-[Round "10"]
-[White "Carlsen, Magnus"]
-[Black "Kramnik, Vladimir"]
-[Result "0-1"]
-[ECO "E32"]
-[WhiteElo "2776"]
-[BlackElo "2759"]
-[PlyCount "40"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d6 6. Bd3 Nc6 7. Nge2 Ba5 8. O-O
-Bb6 9. d5 Nb4 10. Qd2 exd5 11. cxd5 Ng4 12. Bb1 Qh4 13. Qf4 f5 14. exf5 Bxf5
-15. h3 Bxf2+ 16. Kh1 Bd7 17. Qg5 Bc5 18. Rxf8+ Rxf8 19. Ng1 Rf1 20. Bxh7+ Kh8
-0-1
-
-[Event "18th Melody Amber (blindfold)"]
-[Site "Nice, France"]
-[Date "2009.03.25"]
-[Round "10"]
-[White "Ivanchuk, Vassily"]
-[Black "Radjabov, Teimour"]
-[Result "1-0"]
-[ECO "E69"]
-[WhiteElo "2779"]
-[BlackElo "2761"]
-[PlyCount "54"]
-[EventDate "2009.03.14"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-[SourceDate "2009.03.14"]
-
-1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. d4 d6 6. Nf3 c6 7. O-O Qa5 8. e4 e5
-9. h3 Nbd7 10. Re1 exd4 11. Nxd4 Ne5 12. Bf1 Re8 13. Be3 Be6 14. Nxe6 Rxe6 15.
-Kg2 Rae8 16. Rb1 a6 17. b4 Qc7 18. Rc1 Qb8 19. c5 Rd8 20. cxd6 Rexd6 21. Qc2 b5
-22. Red1 Rxd1 23. Rxd1 Rxd1 24. Nxd1 Qd6 25. Bf4 Qd4 26. f3 Nfd7 27. Qd2 Nc4
+1. c4 g6 2. d4 Nf6 3. Nc3 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nxc3 7. bxc3 c5
+8. Nf3 Nc6 9. O-O cxd4 10. cxd4 Nxd4 11. Nxd4 Qxd4 12. Rb1 O-O 13. Be3 Qc4
+14. Bd5 Qa6 15. Qb3 Qxe2 16. Bc5 Be6 17. Bxe6 Qxe6 18. Qxe6 fxe6 19. Rxb7
+Rf5 20. Rc7 Be5 21. Rxe7 Bxg3 22. hxg3 Rxc5 23. Rb1 a5 24. Rbb7 Rh5 25.
+Rxe6 Rd8 26. Ree7 Rc8 27. Ra7 Rd8 28. Kg2 Rf8 29. a4 Rb8 30. g4 Rh4 31. f3
+Rf8 32. Rxa5 h5 33. gxh5 Rxh5 34. Rxh5 gxh5 35. a5 Rf6 36. Rb7 h4 37. Rb3
 1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
-[Date "2009.03.25"]
-[Round "10"]
-[White "Kamsky, Gata"]
+[Date "2009.03.22"]
+[Round "8"]
+[White "Carlsen, Magnus"]
 [Black "Topalov, Veselin"]
-[Result "0-1"]
-[ECO "B42"]
-[WhiteElo "2725"]
+[Result "1-0"]
+[WhiteElo "2776"]
 [BlackElo "2796"]
-[PlyCount "66"]
+[ECO "A33"]
 [EventDate "2009.03.14"]
+[PlyCount "137"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 d6 6. Bd3 Nf6 7. O-O Be7 8. a4
-Nc6 9. Nb3 b6 10. Be3 O-O 11. f3 Bb7 12. Rf2 Qc7 13. Bf1 Rac8 14. Qe1 Ne5 15.
-Rd2 Nfd7 16. Rad1 Rfe8 17. Kh1 Bf8 18. Qg3 Nc5 19. Nd4 Qb8 20. Rf2 Ncd7 21. Bc1
-Nf6 22. Re2 Ng6 23. Ree1 Be7 24. Qf2 Bd8 25. Nde2 Bc7 26. Qg1 d5 27. exd5 Nxd5
-28. Nxd5 Bxd5 29. Nc3 Bb7 30. Be3 Ne5 31. Be2 Bc6 32. Bxa6 Nxf3 33. gxf3 Bxf3+
-0-1
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. Nc3 cxd4 5. Nxd4 Nc6 6. a3 Be7 7. e4 O-O 8.
+Nc2 b6 9. f4 Bb7 10. Bd3 Rc8 11. Qe2 d6 12. O-O Na5 13. Be3 a6 14. Nd4 Qc7
+15. Rac1 Qb8 16. b4 Nc6 17. f5 Nxd4 18. Bxd4 Ba8 19. fxe6 fxe6 20. e5 dxe5
+21. Bxe5 Qb7 22. Bxf6 Bxf6 23. Qxe6+ Kh8 24. Be4 Qc7 25. Nd5 Bd4+ 26. Kh1
+Rxf1+ 27. Rxf1 Qxc4 28. Re1 Rf8 29. Nf4 b5 30. h3 Bf2 31. Qe7 Qc8 32. Ne6
+Rg8 33. Ng5 Rf8 34. Ne6 Rg8 35. Ng5 Rf8 36. Rd1 Re8 37. Nf7+ Kg8 38. Nh6+
+Kh8 39. Nf7+ Kg8 40. Nd6 Rxe7 41. Nxc8 Re8 42. Bxa8 Rxc8 43. Bd5+ Kh8 44.
+Bb7 Rb8 45. Bxa6 g6 46. Rd6 Bg3 47. Rd3 Be5 48. g4 Rb6 49. Bc8 Kg7 50. Kg2
+Kf6 51. Kf3 Rb8 52. Bd7 Bb2 53. Ke4 Rd8 54. Rf3+ Ke7 55. Bxb5 Rd4+ 56. Ke3
+Rd6 57. Ke2 Rf6 58. Rb3 Bd4 59. Kd3 Rf3+ 60. Kc4 Rxb3 61. Kxb3 Kd6 62. a4
+Bf2 63. Kc4 g5 64. Be8 h6 65. Kb5 Be1 66. Kb6 Bxb4 67. a5 Bc5+ 68. Kb7 Ke7
+69. Bh5 1-0
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.22"]
+[Round "8"]
+[White "Ivanchuk, Vassily"]
+[Black "Morozevich, Alexander"]
+[Result "1-0"]
+[WhiteElo "2779"]
+[BlackElo "2771"]
+[ECO "C93"]
+[EventDate "2009.03.14"]
+[PlyCount "99"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. Bc2 h6 13. d5 Ne7 14. b3 c6
+15. c4 cxd5 16. cxd5 Nd7 17. g4 Ng6 18. Nf1 Nf4 19. Kh2 Rc8 20. Bd2 h5 21.
+Ne3 hxg4 22. hxg4 Nf6 23. Rg1 g6 24. Rc1 Qd7 25. Rg3 Be7 26. Bb1 Rxc1 27.
+Bxc1 Bd8 28. Kg1 Bb6 29. Nh4 Qc7 30. Bd2 Bc8 31. Qf3 Nh7 32. Kf1 Qd8 33.
+Qh1 Ng5 34. Nf3 Kg7 35. Nxg5 Qxg5 36. Nf5+ Bxf5 37. gxf5 Qf6 38. Bd3 Rh8
+39. Qg1 Qh4 40. Bxf4 exf4 41. Rxg6+ Kf8 42. Rxd6 Bxf2 43. Qg2 f3 44. Qxf2
+Qe7 45. Qg3 Qc7 46. f6 Rg8 47. Qf4 Rh8 48. Rc6 Rh1+ 49. Kf2 Qa7+ 50. Kxf3
+1-0
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.22"]
+[Round "8"]
+[White "Kamsky, Gata"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteElo "2725"]
+[BlackElo "2706"]
+[ECO "B52"]
+[EventDate "2009.03.14"]
+[PlyCount "52"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. Qe2 Nc6 7. b3 g6
+8. Bb2 Bg7 9. c4 Nh5 10. Bxg7 Nxg7 11. Nc3 O-O 12. e5 Nf5 13. Nd5 dxe5 14.
+Nxe5 Qe6 15. Rae1 Qxe5 16. Qxe5 Nxe5 17. Rxe5 e6 18. Ne3 b6 19. Nxf5 gxf5
+20. Re3 Kg7 21. Rd1 Rfd8 22. Rg3+ Kf6 23. Rh3 Kg6 24. Rg3+ Kf6 25. Rh3 Kg6
+26. Rg3+ Kf6 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.22"]
+[Round "8"]
+[White "Leko, Peter"]
+[Black "Wang Yue"]
+[Result "1/2-1/2"]
+[WhiteElo "2751"]
+[BlackElo "2739"]
+[ECO "C67"]
+[EventDate "2009.03.14"]
+[PlyCount "138"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 Be7 11. g4 Nh4 12. Nxh4 Bxh4 13. Kg2 h5
+14. f3 Be7 15. Rd1 Be6 16. Be3 a6 17. Ne2 Rd8 18. Nf4 g6 19. Rxd8+ Kxd8 20.
+Rd1+ Ke8 21. Nxe6 fxe6 22. f4 Rh7 23. Bf2 Rh8 24. Bg3 Rh7 25. Kf3 Rh8 26.
+Re1 Rh7 27. Re2 Rh8 28. Rh2 Rh7 29. Ke4 Rg7 30. Rd2 Rg8 31. Re2 Rg7 32. Rh2
+Kf7 33. Rd2 Ke8 34. Rg2 Kf7 35. b3 Rg8 36. Rd2 Ke8 37. Rf2 Kf7 38. Rf3 hxg4
+39. hxg4 Rh8 40. f5 gxf5+ 41. gxf5 exf5+ 42. Kxf5 Rh6 43. Rf2 c5 44. Rh2
+Rxh2 45. Bxh2 Ke8 46. Bf4 c4 47. bxc4 Bb4 48. Ke6 Ba5 49. Be3 Bb4 50. Bd4
+Bf8 51. c5 Be7 52. Kd5 c6+ 53. Ke6 Bf8 54. Be3 Be7 55. Bf2 Bf8 56. Bg1 Be7
+57. Kf5 Kf7 58. e6+ Ke8 59. Bd4 Bf8 60. Ke4 Ke7 61. Kf5 Ke8 62. Be3 Be7 63.
+Ke5 Bf8 64. Bf2 Be7 65. Kd4 Bf6+ 66. Ke4 Be7 67. Be3 Bf8 68. Bd4 Ke7 69.
+Kf5 Ke8 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.24"]
+[Round "9"]
+[White "Karjakin, Sergey"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2706"]
+[BlackElo "2776"]
+[ECO "B30"]
+[EventDate "2009.03.14"]
+[PlyCount "81"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. d3 Ne7 6. Qe2 f6 7. Nh4 g6 8.
+f4 Bg7 9. O-O O-O 10. c4 d6 11. Nc3 Rb8 12. Be3 h6 13. e5 dxe5 14. fxe5 f5
+15. Bxc5 g5 16. Nf3 Ng6 17. d4 Re8 18. Bxa7 Rb7 19. Bc5 g4 20. Ne1 Bf8 21.
+Nd3 Bxc5 22. Nxc5 Qxd4+ 23. Qf2 Qxf2+ 24. Rxf2 Ra7 25. Re2 Rd8 26. g3 h5
+27. a3 f4 28. gxf4 Nxf4 29. Rc2 Rf7 30. N3e4 Rf5 31. Re1 Kg7 32. Ng3 Rg5
+33. Nf1 h4 34. Rd2 Rf8 35. Re4 g3 36. hxg3 hxg3 37. Ne3 Nh3+ 38. Kg2 Nf4+
+39. Kg1 Nh3+ 40. Kg2 Nf4+ 41. Kg1 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.24"]
+[Round "9"]
+[White "Kramnik, Vladimir"]
+[Black "Ivanchuk, Vassily"]
+[Result "0-1"]
+[WhiteElo "2759"]
+[BlackElo "2779"]
+[ECO "D82"]
+[EventDate "2009.03.14"]
+[PlyCount "146"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 c5 6. dxc5 Qa5 7. Rc1 Ne4 8.
+cxd5 Nxc3 9. Qd2 Qxa2 10. bxc3 Qa5 11. Bc4 Nd7 12. Nf3 Nxc5 13. Be5 Bxe5
+14. Nxe5 f6 15. Nd3 Ne4 16. Qa2 Qxa2 17. Bxa2 b6 18. f3 Nd6 19. c4 e5 20.
+dxe6 Bxe6 21. Nf4 Bf7 22. O-O Rc8 23. Rfd1 Nb7 24. e4 Nc5 25. Nd5 Rc6 26.
+Rc3 Kf8 27. Ra3 a5 28. Rb1 Bxd5 29. cxd5 Rd6 30. Re3 g5 31. e5 fxe5 32.
+Rxe5 h6 33. Rbe1 Kg7 34. Re7+ Kf6 35. Rc7 a4 36. Re3 Na6 37. Ra7 b5 38. f4
+Nb4 39. fxg5+ hxg5 40. Bb1 Nxd5 41. Rf3+ Nf4 42. Rf1 Rd2 43. Be4 Ke5 44.
+Bf3 g4 45. Re1+ Kd6 46. Rd1 Rxd1+ 47. Bxd1 Rc8 48. Kf2 Rc3 49. Ra6+ Kc5 50.
+Bxg4 a3 51. h4 b4 52. h5 Nd3+ 53. Kg1 b3 54. Rxa3 Rc1+ 55. Kh2 b2 56. Rb3
+b1=Q 57. Rxb1 Rxb1 58. Bf5 Rb3 59. h6 Ne5 60. h7 Rb8 61. Kg3 Kd6 62. Kf4
+Nf7 63. g4 Ke7 64. g5 Kf8 65. g6 Nh8 66. Kg5 Kg7 67. Be4 Rc8 68. Kh5 Rc4
+69. Bd3 Rc1 70. Be4 Rg1 71. Bf5 Kf6 72. Be4 Rg5+ 73. Kh6 Rg4 0-1
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.24"]
+[Round "9"]
+[White "Morozevich, Alexander"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteElo "2771"]
+[BlackElo "2750"]
+[ECO "D15"]
+[EventDate "2009.03.14"]
+[PlyCount "95"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 a6 5. Nf3 b5 6. c5 g6 7. Bd2 a5 8. Bd3
+Bg7 9. Qc2 Nbd7 10. h3 O-O 11. O-O Re8 12. Ne2 Qc7 13. Rae1 e5 14. Nxe5
+Nxe5 15. dxe5 Qxe5 16. Bc3 Qe7 17. Bd4 b4 18. a3 Ba6 19. Bxa6 Rxa6 20. axb4
+axb4 21. Ra1 Qa7 22. Rxa6 Qxa6 23. b3 Ra8 24. Ra1 Qxa1+ 25. Bxa1 Rxa1+ 26.
+Nc1 Ne4 27. g4 Bf8 28. Kg2 Nc3 29. Nd3 Ra2 30. Qc1 Ne4 31. Qe1 Bxc5 32. Qc1
+Ra5 33. h4 Nc3 34. Nxc5 Rxc5 35. Qa1 Ne4 36. f3 Rc2+ 37. Kh3 Rc3 38. Qa7
+Nd2 39. Qb8+ Kg7 40. Qxb4 Rd3 41. Kg2 d4 42. exd4 Nxb3 43. Qe7 Nxd4 44.
+Qe5+ Kg8 45. h5 Ne6 46. h6 g5 47. Kf2 Rd8 48. Qf6 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.24"]
+[Round "9"]
+[White "Radjabov, Teimour"]
+[Black "Leko, Peter"]
+[Result "1/2-1/2"]
+[WhiteElo "2761"]
+[BlackElo "2751"]
+[ECO "B18"]
+[EventDate "2009.03.14"]
+[PlyCount "48"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nh3 Nf6 7. Nf4 e5
+8. Nxg6 hxg6 9. dxe5 Qa5+ 10. Bd2 Qxe5+ 11. Qe2 Qxe2+ 12. Bxe2 Nbd7 13. O-O
+O-O-O 14. Rad1 Nb6 15. Rfe1 Bd6 16. Nf1 Kc7 17. g3 Ne4 18. Bc1 Bc5 19. Bf4+
+Bd6 20. Bc1 Bc5 21. Ne3 Nd5 22. Bd3 Nxe3 23. Bxe3 Bxe3 24. Bxe4 Rxd1
+1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.24"]
+[Round "9"]
+[White "Topalov, Veselin"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[WhiteElo "2796"]
+[BlackElo "2791"]
+[ECO "B12"]
+[EventDate "2009.03.14"]
+[PlyCount "53"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 8.
+c4 Nbc6 9. Nc3 Nxd4 10. Bxd4 dxc4 11. Qa4+ Nc6 12. Rd1 Bd3 13. Bxd3 cxd3
+14. Rxd3 Bc5 15. Ne4 Bxd4 16. Nd6+ Kf8 17. Rxd4 Nxd4 18. Qxd4 Qa5+ 19. Ke2
+Ke7 20. Rc1 Rhd8 21. Qh4+ Kf8 22. Nc4 Qc5 23. Qxh7 b5 24. Qh8+ Ke7 25. Qh4+
+Kf8 26. Qh8+ Ke7 27. Qh4+ 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.24"]
+[Round "9"]
+[White "Wang Yue"]
+[Black "Kamsky, Gata"]
+[Result "1/2-1/2"]
+[WhiteElo "2739"]
+[BlackElo "2725"]
+[ECO "D10"]
+[EventDate "2009.03.14"]
+[PlyCount "117"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. e3 g6 6. Bd3 Bg7 7. O-O O-O 8.
+Qc2 Bg4 9. Ne5 Be6 10. c5 Nbd7 11. Nxd7 Bxd7 12. Bd2 Ng4 13. f4 Nh6 14. b4
+Bf5 15. a4 f6 16. Nd1 Bxd3 17. Qxd3 e5 18. Nf2 Qd7 19. Bc3 exf4 20. exf4
+Rfe8 21. Rfe1 Ng4 22. Rxe8+ Rxe8 23. Re1 Nxf2 24. Kxf2 f5 25. Rxe8+ Qxe8
+26. Bd2 Kf7 27. Be3 Qe4 28. Qd2 h6 29. h4 Qb1 30. g3 Qa1 31. a5 Qb1 32. Kg2
+Bf6 33. Kh2 Qf1 34. Bg1 Qf3 35. Bf2 Bd8 36. Qe3 Qe4 37. Qd2 Qb1 38. Kg2 Bc7
+39. Be3 Qe4+ 40. Kf2 Qh1 41. Qe1 Qh2+ 42. Kf3 Qh3 43. Qg1 Qg4+ 44. Kf2 Kg7
+45. Qe1 Kf7 46. Qe2 Bd8 47. Qf3 Bf6 48. Kg2 Bg7 49. Kf2 Qh3 50. Qg2 Qg4 51.
+Qf3 Bf8 52. Kg2 Be7 53. Kf2 g5 54. Qxg4 fxg4 55. fxg5 hxg5 56. Bxg5 Bxg5
+57. hxg5 Kg6 58. Ke3 Kxg5 59. Kd3 1/2-1/2
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.25"]
+[Round "10"]
+[White "Anand, Viswanathan"]
+[Black "Morozevich, Alexander"]
+[Result "0-1"]
+[WhiteElo "2791"]
+[BlackElo "2771"]
+[ECO "B07"]
+[EventDate "2009.03.14"]
+[PlyCount "50"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nge2 Be7 5. g3 c6 6. Bg2 b5 7. O-O O-O 8.
+a3 Nbd7 9. h3 Rb8 10. Be3 a5 11. b3 Re8 12. g4 b4 13. axb4 axb4 14. Na4 d5
+15. dxe5 Nxe4 16. f4 Ba6 17. Bxe4 dxe4 18. Nd4 Qc7 19. Rf2 g6 20. Nb2 Ra8
+21. Ne2 Bh4 22. Rg2 Nb6 23. c4 bxc3 24. Nxc3 Nd5 25. Qxd5 cxd5 0-1
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.25"]
+[Round "10"]
+[White "Aronian, Levon"]
+[Black "Wang Yue"]
+[Result "1-0"]
+[WhiteElo "2750"]
+[BlackElo "2739"]
+[ECO "D12"]
+[EventDate "2009.03.14"]
+[PlyCount "133"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. d4 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Be2 dxc4 8.
+Nxg6 hxg6 9. Bxc4 Nbd7 10. h3 Be7 11. Bb3 e5 12. O-O exd4 13. exd4 Nb6 14.
+Bf4 O-O 15. Qd3 Nfd5 16. Be5 a5 17. a4 Re8 18. f4 Qd7 19. f5 f6 20. Bg3 g5
+21. Ne4 Rad8 22. Nc5 Bxc5 23. dxc5 Nc8 24. Rad1 Qe7 25. Bf2 Qe2 26. Rfe1
+Qxd3 27. Rxd3 Kf8 28. Red1 Re2 29. R1d2 Rxd2 30. Rxd2 Ke8 31. g4 Nf4 32.
+Rxd8+ Kxd8 33. Be1 Nd3 34. Bxa5+ Ke8 35. Be6 Ne7 36. b4 Nf4 37. Bc4 Nxh3+
+38. Kf1 Nf4 39. b5 Kd7 40. Bd2 Nfd5 41. Bd3 cxb5 42. axb5 b6 43. cxb6 Nxb6
+44. Kf2 Ned5 45. Bc1 Kd6 46. Ba3+ Ke5 47. Be2 Kd4 48. Ke1 Nf4 49. Bf3 Nfd5
+50. Bf8 Nd7 51. Bxg7 Kc5 52. Kf1 N7b6 53. Be2 Nd7 54. Bf3 N7b6 55. Ke2 Kxb5
+56. Kd3 Nb4+ 57. Kd4 Nd7 58. Bd1 Ka5 59. Bb3 Nc6+ 60. Kd5 Nce5 61. Kd6 Kb5
+62. Bd1 Kc4 63. Ke7 Kc5 64. Bxf6 Nxf6 65. Kxf6 Kd6 66. Kxg5 Ke7 67. f6+ 1-0
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.25"]
+[Round "10"]
+[White "Carlsen, Magnus"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[WhiteElo "2776"]
+[BlackElo "2759"]
+[ECO "E32"]
+[EventDate "2009.03.14"]
+[PlyCount "40"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d6 6. Bd3 Nc6 7. Ne2 Ba5 8.
+O-O Bb6 9. d5 Nb4 10. Qd2 exd5 11. cxd5 Ng4 12. Bb1 Qh4 13. Qf4 f5 14. exf5
+Bxf5 15. h3 Bxf2+ 16. Kh1 Bd7 17. Qg5 Bc5 18. Rxf8+ Rxf8 19. Ng1 Rf1 20.
+Bxh7+ Kh8 0-1
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.25"]
+[Round "10"]
+[White "Ivanchuk, Vassily"]
+[Black "Radjabov, Teimour"]
+[Result "1-0"]
+[WhiteElo "2779"]
+[BlackElo "2761"]
+[ECO "E69"]
+[EventDate "2009.03.14"]
+[PlyCount "54"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. d4 d6 6. Nf3 c6 7. O-O Qa5 8.
+e4 e5 9. h3 Nbd7 10. Re1 exd4 11. Nxd4 Ne5 12. Bf1 Re8 13. Be3 Be6 14. Nxe6
+Rxe6 15. Kg2 Rae8 16. Rb1 a6 17. b4 Qc7 18. Rc1 Qb8 19. c5 Rd8 20. cxd6
+Rexd6 21. Qc2 b5 22. Red1 Rxd1 23. Rxd1 Rxd1 24. Nxd1 Qd6 25. Bf4 Qd4 26.
+f3 Nfd7 27. Qd2 Nc4 1-0
+
+[Event "18th Melody Amber (blindfold)"]
+[Site "Nice, France"]
+[Date "2009.03.25"]
+[Round "10"]
+[White "Kamsky, Gata"]
+[Black "Topalov, Veselin"]
+[Result "0-1"]
+[WhiteElo "2725"]
+[BlackElo "2796"]
+[ECO "B42"]
+[EventDate "2009.03.14"]
+[PlyCount "66"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+[SourceDate "2009.03.14"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 d6 6. Bd3 Nf6 7. O-O Be7 8.
+a4 Nc6 9. Nb3 b6 10. Be3 O-O 11. f3 Bb7 12. Rf2 Qc7 13. Bf1 Rac8 14. Qe1
+Ne5 15. Rd2 Nfd7 16. Rad1 Rfe8 17. Kh1 Bf8 18. Qg3 Nc5 19. Nd4 Qb8 20. Rf2
+Ncd7 21. Bc1 Nf6 22. Re2 Ng6 23. Ree1 Be7 24. Qf2 Bd8 25. Nde2 Bc7 26. Qg1
+d5 27. exd5 Nxd5 28. Nxd5 Bxd5 29. Nc3 Bb7 30. Be3 Ne5 31. Be2 Bc6 32. Bxa6
+Nxf3 33. gxf3 Bxf3+ 0-1
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -1547,22 +1568,22 @@ Nf6 22. Re2 Ng6 23. Ree1 Be7 24. Qf2 Bd8 25. Nde2 Bc7 26. Qg1 d5 27. exd5 Nxd5
 [White "Leko, Peter"]
 [Black "Karjakin, Sergey"]
 [Result "0-1"]
-[ECO "D43"]
 [WhiteElo "2751"]
 [BlackElo "2706"]
-[PlyCount "62"]
+[ECO "D43"]
 [EventDate "2009.03.14"]
+[PlyCount "62"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8. Bd3
-dxc4 9. Bxc4 g6 10. O-O Bg7 11. Rc1 Qe7 12. e4 O-O 13. e5 c5 14. Re1 cxd4 15.
-Qxd4 Nb6 16. Bf1 Bd7 17. Bb5 Rfd8 18. Qe4 a6 19. Bxd7 Rxd7 20. Na4 Nd5 21. Nc5
-Rc7 22. Nd3 Rac8 23. g3 Rxc1 24. Rxc1 Rxc1+ 25. Nxc1 Qc7 26. Nd3 Qc2 27. Kg2 h5
-28. Nfe1 Qc6 29. Kg1 Bh6 30. a3 b5 31. f4 Bf8 0-1
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
+Bd3 dxc4 9. Bxc4 g6 10. O-O Bg7 11. Rc1 Qe7 12. e4 O-O 13. e5 c5 14. Re1
+cxd4 15. Qxd4 Nb6 16. Bf1 Bd7 17. Bb5 Rfd8 18. Qe4 a6 19. Bxd7 Rxd7 20. Na4
+Nd5 21. Nc5 Rc7 22. Nd3 Rac8 23. g3 Rxc1 24. Rxc1 Rxc1+ 25. Nxc1 Qc7 26.
+Nd3 Qc2 27. Kg2 h5 28. Nfe1 Qc6 29. Kg1 Bh6 30. a3 b5 31. f4 Bf8 0-1
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -1571,35 +1592,36 @@ Rc7 22. Nd3 Rac8 23. g3 Rxc1 24. Rxc1 Rxc1+ 25. Nxc1 Qc7 26. Nd3 Qc2 27. Kg2 h5
 [White "Karjakin, Sergey"]
 [Black "Ivanchuk, Vassily"]
 [Result "1-0"]
-[ECO "A61"]
 [WhiteElo "2706"]
 [BlackElo "2779"]
-[PlyCount "221"]
+[ECO "A61"]
 [EventDate "2009.03.14"]
+[PlyCount "221"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. h3 a6 8. a4 Qe7
-9. Bf4 Nbd7 10. e3 Bg7 11. Be2 O-O 12. O-O Ne8 13. Qc2 Ne5 14. a5 Nxf3+ 15.
-Bxf3 Bd7 16. Na4 Bb5 17. Rfe1 Nf6 18. Nc3 Nd7 19. Qb3 Ne5 20. Nxb5 c4 21. Qb4
-axb5 22. Be2 Qd7 23. e4 Rfe8 24. Bg3 h5 25. Ra3 Rac8 26. a6 bxa6 27. Rxa6 Rc5
-28. Bf4 Qc8 29. Rb6 Nd7 30. Bxd6 Nxb6 31. Bxc5 Na4 32. Be3 Qd7 33. Bd1 Rxe4 34.
-Bxa4 bxa4 35. Rd1 f5 36. Qb6 Kh7 37. d6 Re8 38. Bf4 c3 39. bxc3 a3 40. Qa5 Re4
-41. Qc7 Qa4 42. Ra1 Rc4 43. Qe7 Re4 44. Qc7 Rc4 45. Rxa3 Qd1+ 46. Kh2 Qe2 47.
-Ra7 Rxc7 48. dxc7 Qc4 49. Bd6 Qc6 50. c8=Q Qxc8 51. Be5 Qe6 52. Rxg7+ Kh6 53.
-f4 h4 54. Rb7 g5 55. Rb8 Kg6 56. Rd8 Qc4 57. Rd6+ Kh5 58. fxg5 Kxg5 59. Rd4 Qc5
-60. Bf4+ Kh5 61. Rd3 Qc4 62. Rf3 Qc5 63. Kh1 Kg6 64. Bh2 Kg5 65. Bg1 Qc4 66.
-Be3+ Kg6 67. Bd4 Kg5 68. Re3 f4 69. Rf3 Qe2 70. Kh2 Kf5 71. Bc5 Qe6 72. Ba3 Qe1
-73. Bd6 Kg6 74. c4 Qe6 75. c5 Qd5 76. Rxf4 Kh5 77. Rg4 Qe6 78. Rd4 Qd7 79. Re4
-Qc6 80. Re6 Qa4 81. Rf6 Qc6 82. Rf8 Qe4 83. Rc8 Qd4 84. Rd8 Qe4 85. Rh8+ Kg5
-86. Rc8 Qd5 87. Rd8 Kh5 88. Re8 Qc4 89. Rf8 Qd5 90. Rf6 Kg5 91. Rf4 Kh5 92. Rg4
-Qc6 93. Kg1 Qd5 94. Kf2 Qd3 95. Kg1 Qd1+ 96. Kh2 Qd5 97. Rf4 Qc6 98. Rf5+ Kg6
-99. Rf1 Kh5 100. Rc1 Kg5 101. Kh1 Kh5 102. Bh2 Kg6 103. Bg1 Kh5 104. Bf2 Kg5
-105. Rc4 Qd5 106. Rg4+ Kf5 107. Rxh4 Qd2 108. Bg1 Qe1 109. Rg4 Ke6 110. Rd4 Kf5
-111. c6 1-0
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. h3 a6 8. a4
+Qe7 9. Bf4 Nbd7 10. e3 Bg7 11. Be2 O-O 12. O-O Ne8 13. Qc2 Ne5 14. a5 Nxf3+
+15. Bxf3 Bd7 16. Na4 Bb5 17. Rfe1 Nf6 18. Nc3 Nd7 19. Qb3 Ne5 20. Nxb5 c4
+21. Qb4 axb5 22. Be2 Qd7 23. e4 Rfe8 24. Bg3 h5 25. Ra3 Rac8 26. a6 bxa6
+27. Rxa6 Rc5 28. Bf4 Qc8 29. Rb6 Nd7 30. Bxd6 Nxb6 31. Bxc5 Na4 32. Be3 Qd7
+33. Bd1 Rxe4 34. Bxa4 bxa4 35. Rd1 f5 36. Qb6 Kh7 37. d6 Re8 38. Bf4 c3 39.
+bxc3 a3 40. Qa5 Re4 41. Qc7 Qa4 42. Ra1 Rc4 43. Qe7 Re4 44. Qc7 Rc4 45.
+Rxa3 Qd1+ 46. Kh2 Qe2 47. Ra7 Rxc7 48. dxc7 Qc4 49. Bd6 Qc6 50. c8=Q Qxc8
+51. Be5 Qe6 52. Rxg7+ Kh6 53. f4 h4 54. Rb7 g5 55. Rb8 Kg6 56. Rd8 Qc4 57.
+Rd6+ Kh5 58. fxg5 Kxg5 59. Rd4 Qc5 60. Bf4+ Kh5 61. Rd3 Qc4 62. Rf3 Qc5 63.
+Kh1 Kg6 64. Bh2 Kg5 65. Bg1 Qc4 66. Be3+ Kg6 67. Bd4 Kg5 68. Re3 f4 69. Rf3
+Qe2 70. Kh2 Kf5 71. Bc5 Qe6 72. Ba3 Qe1 73. Bd6 Kg6 74. c4 Qe6 75. c5 Qd5
+76. Rxf4 Kh5 77. Rg4 Qe6 78. Rd4 Qd7 79. Re4 Qc6 80. Re6 Qa4 81. Rf6 Qc6
+82. Rf8 Qe4 83. Rc8 Qd4 84. Rd8 Qe4 85. Rh8+ Kg5 86. Rc8 Qd5 87. Rd8 Kh5
+88. Re8 Qc4 89. Rf8 Qd5 90. Rf6 Kg5 91. Rf4 Kh5 92. Rg4 Qc6 93. Kg1 Qd5 94.
+Kf2 Qd3 95. Kg1 Qd1+ 96. Kh2 Qd5 97. Rf4 Qc6 98. Rf5+ Kg6 99. Rf1 Kh5 100.
+Rc1 Kg5 101. Kh1 Kh5 102. Bh2 Kg6 103. Bg1 Kh5 104. Bf2 Kg5 105. Rc4 Qd5
+106. Rg4+ Kf5 107. Rxh4 Qd2 108. Bg1 Qe1 109. Rg4 Ke6 110. Rd4 Kf5 111. c6
+1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -1608,23 +1630,23 @@ Qc6 93. Kg1 Qd5 94. Kf2 Qd3 95. Kg1 Qd1+ 96. Kh2 Qd5 97. Rf4 Qc6 98. Rf5+ Kg6
 [White "Kramnik, Vladimir"]
 [Black "Leko, Peter"]
 [Result "1-0"]
-[ECO "D43"]
 [WhiteElo "2759"]
 [BlackElo "2751"]
-[PlyCount "71"]
+[ECO "D43"]
 [EventDate "2009.03.14"]
+[PlyCount "71"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
-9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. Nxd7 Nxd7 13. Bd6 a6 14. a4 e5 15. Re1
-Qf6 16. Ba3 Bf8 17. Bg4 Rd8 18. axb5 axb5 19. Bxf8 Kxf8 20. Bxd7 Rxd7 21. dxe5
-Qe6 22. Qh5 Qxe5 23. f4 Qxf4 24. Rf1 Qe5 25. Rf5 Qe6 26. Raf1 Kg7 27. Ne2 Rf8
-28. Ng3 c5 29. Rf6 Qxf6 30. Rxf6 Kxf6 31. Qxh6+ Ke7 32. Nf5+ Ke8 33. Nd6+ Ke7
-34. e5 Rg8 35. Qf6+ Kf8 36. e6 1-0
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. Nxd7 Nxd7 13. Bd6 a6 14. a4
+e5 15. Re1 Qf6 16. Ba3 Bf8 17. Bg4 Rd8 18. axb5 axb5 19. Bxf8 Kxf8 20. Bxd7
+Rxd7 21. dxe5 Qe6 22. Qh5 Qxe5 23. f4 Qxf4 24. Rf1 Qe5 25. Rf5 Qe6 26. Raf1
+Kg7 27. Ne2 Rf8 28. Ng3 c5 29. Rf6 Qxf6 30. Rxf6 Kxf6 31. Qxh6+ Ke7 32.
+Nf5+ Ke8 33. Nd6+ Ke7 34. e5 Rg8 35. Qf6+ Kf8 36. e6 1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -1633,31 +1655,31 @@ Qe6 22. Qh5 Qxe5 23. f4 Qxf4 24. Rf1 Qe5 25. Rf5 Qe6 26. Raf1 Kg7 27. Ne2 Rf8
 [White "Morozevich, Alexander"]
 [Black "Kamsky, Gata"]
 [Result "1-0"]
-[ECO "E39"]
 [WhiteElo "2771"]
 [BlackElo "2725"]
-[PlyCount "169"]
+[ECO "E39"]
 [EventDate "2009.03.14"]
+[PlyCount "169"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 c5 6. dxc5 Na6 7. c6 bxc6 8. g3
-Nc5 9. Bd2 d5 10. Bg2 Ba6 11. O-O Rc8 12. Nxd5 cxd5 13. Bxb4 Qb6 14. Ba3 Bxc4
-15. Rac1 Nfd7 16. Ng5 f5 17. b3 Ba6 18. Qd2 Rfe8 19. Bb2 Nf6 20. Bd4 e5 21.
-Bxc5 Rxc5 22. Rxc5 Qxc5 23. Rc1 Qd6 24. e3 e4 25. h4 h6 26. Nh3 Kh7 27. Qd4 Re7
-28. b4 Rc7 29. Rc3 Rxc3 30. Qxc3 Bb5 31. a3 a6 32. Bf1 Bxf1 33. Kxf1 Ng4 34.
-Qc8 Qe5 35. Kg2 Nf6 36. Nf4 d4 37. exd4 Qxd4 38. Qxf5+ Kh8 39. Qc8+ Kh7 40.
-Qxa6 Qc3 41. Qe2 Qxa3 42. b5 Qb3 43. h5 Kh8 44. Ng6+ Kh7 45. Ne7 Qb4 46. Nf5
-Qc5 47. Ne3 Nd5 48. Nxd5 Qxd5 49. b6 Qc6 50. Qe3 Qc4 51. g4 Qb4 52. Kg3 Qd6+
-53. f4 exf3+ 54. Kxf3 Qf6+ 55. Kg3 Qd6+ 56. Kh3 Qd5 57. Qf2 Qb3+ 58. Kh4 Kg8
-59. Qc5 Qb2 60. Kg3 Kh7 61. Kf4 Qh2+ 62. Kf5 Qe2 63. Qc6 Qf2+ 64. Ke5 Qg3+ 65.
-Kd4 Qg1+ 66. Kd5 Qd1+ 67. Kc5 Qc2+ 68. Kd6 Qd2+ 69. Kc7 Qf4+ 70. Qd6 Qc4+ 71.
-Kd8 Qb5 72. Qd4 Qc6 73. Qd3+ Kh8 74. Qg6 Qd5+ 75. Kc7 Qc5+ 76. Qc6 Qe7+ 77. Kb8
-Kh7 78. Qc2+ Kh8 79. b7 Qb4 80. Qc8+ Kh7 81. Qf5+ Kh8 82. Qe5 Kh7 83. Kc7 Qc4+
-84. Kd8 Qd3+ 85. Ke8 1-0
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. Nf3 c5 6. dxc5 Na6 7. c6 bxc6
+8. g3 Nc5 9. Bd2 d5 10. Bg2 Ba6 11. O-O Rc8 12. Nxd5 cxd5 13. Bxb4 Qb6 14.
+Ba3 Bxc4 15. Rac1 Nfd7 16. Ng5 f5 17. b3 Ba6 18. Qd2 Rfe8 19. Bb2 Nf6 20.
+Bd4 e5 21. Bxc5 Rxc5 22. Rxc5 Qxc5 23. Rc1 Qd6 24. e3 e4 25. h4 h6 26. Nh3
+Kh7 27. Qd4 Re7 28. b4 Rc7 29. Rc3 Rxc3 30. Qxc3 Bb5 31. a3 a6 32. Bf1 Bxf1
+33. Kxf1 Ng4 34. Qc8 Qe5 35. Kg2 Nf6 36. Nf4 d4 37. exd4 Qxd4 38. Qxf5+ Kh8
+39. Qc8+ Kh7 40. Qxa6 Qc3 41. Qe2 Qxa3 42. b5 Qb3 43. h5 Kh8 44. Ng6+ Kh7
+45. Ne7 Qb4 46. Nf5 Qc5 47. Ne3 Nd5 48. Nxd5 Qxd5 49. b6 Qc6 50. Qe3 Qc4
+51. g4 Qb4 52. Kg3 Qd6+ 53. f4 exf3+ 54. Kxf3 Qf6+ 55. Kg3 Qd6+ 56. Kh3 Qd5
+57. Qf2 Qb3+ 58. Kh4 Kg8 59. Qc5 Qb2 60. Kg3 Kh7 61. Kf4 Qh2+ 62. Kf5 Qe2
+63. Qc6 Qf2+ 64. Ke5 Qg3+ 65. Kd4 Qg1+ 66. Kd5 Qd1+ 67. Kc5 Qc2+ 68. Kd6
+Qd2+ 69. Kc7 Qf4+ 70. Qd6 Qc4+ 71. Kd8 Qb5 72. Qd4 Qc6 73. Qd3+ Kh8 74. Qg6
+Qd5+ 75. Kc7 Qc5+ 76. Qc6 Qe7+ 77. Kb8 Kh7 78. Qc2+ Kh8 79. b7 Qb4 80. Qc8+
+Kh7 81. Qf5+ Kh8 82. Qe5 Kh7 83. Kc7 Qc4+ 84. Kd8 Qd3+ 85. Ke8 1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -1666,26 +1688,26 @@ Kh7 78. Qc2+ Kh8 79. b7 Qb4 80. Qc8+ Kh7 81. Qf5+ Kh8 82. Qe5 Kh7 83. Kc7 Qc4+
 [White "Radjabov, Teimour"]
 [Black "Carlsen, Magnus"]
 [Result "1-0"]
-[ECO "C54"]
 [WhiteElo "2761"]
 [BlackElo "2776"]
-[PlyCount "107"]
+[ECO "C54"]
 [EventDate "2009.03.14"]
+[PlyCount "107"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. Bb3 d5 7. Nbd2 Be6 8. Qe2
-dxe4 9. dxe4 Qe7 10. O-O Bxb3 11. axb3 a6 12. b4 Ba7 13. Nc4 Qe6 14. Na5 Nxa5
-15. Rxa5 Nd7 16. Rd1 c6 17. Be3 Bxe3 18. Qxe3 Rfd8 19. h3 f6 20. Raa1 Nf8 21.
-Qb6 Rd7 22. Nh4 Rc8 23. Nf5 Rcc7 24. Kh2 h5 25. Qe3 g6 26. Nh4 Kg7 27. Qe2 Qb3
-28. g3 Ne6 29. Rg1 Rd6 30. Ra3 Nd4 31. cxd4 Qxb4 32. dxe5 Rd2 33. exf6+ Kf7 34.
-Qe3 Qxb2 35. Rg2 Re2 36. Qg5 Qxa3 37. Qxg6+ Kf8 38. Qh6+ Kg8 39. Qg5+ Kf8 40.
-Ng6+ Ke8 41. Qe5+ Kd8 42. Nf4 Re1 43. f7 Rxf7 44. Qb8+ Ke7 45. Qxb7+ Ke8 46.
-Qc8+ Ke7 47. e5 Rxe5 48. Ng6+ Kf6 49. Nxe5 Kxe5 50. f4+ Kf6 51. Qh8+ Kg6 52.
-Qg8+ Rg7 53. f5+ Kf6 54. Qe6+ 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. Bb3 d5 7. Nbd2 Be6 8.
+Qe2 dxe4 9. dxe4 Qe7 10. O-O Bxb3 11. axb3 a6 12. b4 Ba7 13. Nc4 Qe6 14.
+Na5 Nxa5 15. Rxa5 Nd7 16. Rd1 c6 17. Be3 Bxe3 18. Qxe3 Rfd8 19. h3 f6 20.
+Raa1 Nf8 21. Qb6 Rd7 22. Nh4 Rc8 23. Nf5 Rcc7 24. Kh2 h5 25. Qe3 g6 26. Nh4
+Kg7 27. Qe2 Qb3 28. g3 Ne6 29. Rg1 Rd6 30. Ra3 Nd4 31. cxd4 Qxb4 32. dxe5
+Rd2 33. exf6+ Kf7 34. Qe3 Qxb2 35. Rg2 Re2 36. Qg5 Qxa3 37. Qxg6+ Kf8 38.
+Qh6+ Kg8 39. Qg5+ Kf8 40. Ng6+ Ke8 41. Qe5+ Kd8 42. Nf4 Re1 43. f7 Rxf7 44.
+Qb8+ Ke7 45. Qxb7+ Ke8 46. Qc8+ Ke7 47. e5 Rxe5 48. Ng6+ Kf6 49. Nxe5 Kxe5
+50. f4+ Kf6 51. Qh8+ Kg6 52. Qg8+ Rg7 53. f5+ Kf6 54. Qe6+ 1-0
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -1694,25 +1716,25 @@ Qg8+ Rg7 53. f5+ Kf6 54. Qe6+ 1-0
 [White "Topalov, Veselin"]
 [Black "Aronian, Levon"]
 [Result "1/2-1/2"]
-[ECO "D43"]
 [WhiteElo "2796"]
 [BlackElo "2750"]
-[PlyCount "92"]
+[ECO "D43"]
 [EventDate "2009.03.14"]
+[PlyCount "92"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8. Bd3
-dxc4 9. Bxc4 g6 10. O-O Bg7 11. Rc1 O-O 12. Bb3 Qe7 13. Na4 Rd8 14. Qc2 Nf8 15.
-Ne5 Bd7 16. Qc5 Qxc5 17. Nxc5 Rab8 18. f4 Be8 19. Rc2 Nh7 20. Rfc1 Nf6 21. a3
-Bf8 22. g3 Kg7 23. Kg2 a5 24. Kf3 b6 25. Nxe6+ fxe6 26. Nxc6 a4 27. Nxd8 axb3
-28. Rc7+ Kg8 29. Nxe6 g5 30. e4 Bd7 31. Nxf8 Bg4+ 32. Ke3 Re8 33. e5 Nd5+ 34.
-Ke4 Nxc7 35. Rxc7 Rxf8 36. d5 Bf5+ 37. Kd4 Bh3 38. fxg5 Rf2 39. e6 Rd2+ 40. Ke5
-Rxb2 41. Rb7 Rb1 42. e7 Re1+ 43. Kf6 Rf1+ 44. Ke5 Re1+ 45. Kf6 Rf1+ 46. Ke5
-Re1+ 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
+Bd3 dxc4 9. Bxc4 g6 10. O-O Bg7 11. Rc1 O-O 12. Bb3 Qe7 13. Na4 Rd8 14. Qc2
+Nf8 15. Ne5 Bd7 16. Qc5 Qxc5 17. Nxc5 Rab8 18. f4 Be8 19. Rc2 Nh7 20. Rfc1
+Nf6 21. a3 Bf8 22. g3 Kg7 23. Kg2 a5 24. Kf3 b6 25. Nxe6+ fxe6 26. Nxc6 a4
+27. Nxd8 axb3 28. Rc7+ Kg8 29. Nxe6 g5 30. e4 Bd7 31. Nxf8 Bg4+ 32. Ke3 Re8
+33. e5 Nd5+ 34. Ke4 Nxc7 35. Rxc7 Rxf8 36. d5 Bf5+ 37. Kd4 Bh3 38. fxg5 Rf2
+39. e6 Rd2+ 40. Ke5 Rxb2 41. Rb7 Rb1 42. e7 Re1+ 43. Kf6 Rf1+ 44. Ke5 Re1+
+45. Kf6 Rf1+ 46. Ke5 Re1+ 1/2-1/2
 
 [Event "18th Melody Amber (blindfold)"]
 [Site "Nice, France"]
@@ -1721,29 +1743,30 @@ Re1+ 1/2-1/2
 [White "Wang Yue"]
 [Black "Anand, Viswanathan"]
 [Result "1/2-1/2"]
-[ECO "D12"]
 [WhiteElo "2739"]
 [BlackElo "2791"]
-[PlyCount "170"]
+[ECO "D12"]
 [EventDate "2009.03.14"]
+[PlyCount "170"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 [SourceDate "2009.03.14"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Be4 7. f3 Bg6 8. Qb3
-Qc7 9. Bd2 Be7 10. Nxg6 hxg6 11. O-O-O Nbd7 12. cxd5 exd5 13. e4 dxe4 14. fxe4
-c5 15. Bc4 cxd4 16. Bxf7+ Kd8 17. Kb1 dxc3 18. Bxc3 Nxe4 19. Bxg7 Nec5 20. Qe3
-Rh4 21. Rhe1 Re4 22. Qh3 Qf4 23. Qh8+ Kc7 24. Qxa8 Rxe1 25. Rxe1 Qxf7 26. Bc3
-Qf5+ 27. Ka1 Bf6 28. Qxa7 Bxc3 29. bxc3 Qf2 30. Qa5+ Kc6 31. Rb1 Qxg2 32. Qb5+
-Kc7 33. Qa5+ b6 34. Qa7+ Nb7 35. Rd1 Qf3 36. Rc1 Qf4 37. Rd1 Ndc5 38. Rb1 Qf6
-39. Qa3 Ne4 40. Qb4 Nbc5 41. Qd4 Qf3 42. Qg7+ Nd7 43. Qd4 g5 44. Rd1 Ndc5 45.
-Rc1 Qf4 46. Rd1 Qxh2 47. Qg7+ Kc6 48. Qg6+ Kb7 49. Qf7+ Qc7 50. Qxc7+ Kxc7 51.
-Rg1 Nd3 52. Kb1 Ndf2 53. Kc2 g4 54. a4 g3 55. Kb3 Kc6 56. Kb4 Nd3+ 57. Kc4 Ne5+
-58. Kb4 Nf3 59. Rxg3 Nxg3 60. a5 bxa5+ 61. Kxa5 Kc5 62. c4 Ne4 63. Ka4 Nd4 64.
-Ka5 Nc3 65. Ka6 Ne6 66. Kb7 Na4 67. Ka6 Nb6 68. Kb7 Nd7 69. Ka6 Nd8 70. Ka5 Nb6
-71. Ka6 Kc6 72. c5 Nc4 73. Ka7 Ne6 74. Kb8 Nd8 75. Ka7 Nb7 76. Kb8 Na3 77. Ka7
-Nb5+ 78. Ka6 Nc3 79. Ka7 Nd5 80. Ka6 Nb4+ 81. Ka7 Kc7 82. c6 Nc5 83. Ka8 Ne4
-84. Ka7 Nd6 85. Ka8 Nxc6 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Be4 7. f3 Bg6 8.
+Qb3 Qc7 9. Bd2 Be7 10. Nxg6 hxg6 11. O-O-O Nbd7 12. cxd5 exd5 13. e4 dxe4
+14. fxe4 c5 15. Bc4 cxd4 16. Bxf7+ Kd8 17. Kb1 dxc3 18. Bxc3 Nxe4 19. Bxg7
+Nc5 20. Qe3 Rh4 21. Rhe1 Re4 22. Qh3 Qf4 23. Qh8+ Kc7 24. Qxa8 Rxe1 25.
+Rxe1 Qxf7 26. Bc3 Qf5+ 27. Ka1 Bf6 28. Qxa7 Bxc3 29. bxc3 Qf2 30. Qa5+ Kc6
+31. Rb1 Qxg2 32. Qb5+ Kc7 33. Qa5+ b6 34. Qa7+ Nb7 35. Rd1 Qf3 36. Rc1 Qf4
+37. Rd1 Nc5 38. Rb1 Qf6 39. Qa3 Ne4 40. Qb4 Nbc5 41. Qd4 Qf3 42. Qg7+ Nd7
+43. Qd4 g5 44. Rd1 Ndc5 45. Rc1 Qf4 46. Rd1 Qxh2 47. Qg7+ Kc6 48. Qg6+ Kb7
+49. Qf7+ Qc7 50. Qxc7+ Kxc7 51. Rg1 Nd3 52. Kb1 Ndf2 53. Kc2 g4 54. a4 g3
+55. Kb3 Kc6 56. Kb4 Nd3+ 57. Kc4 Ne5+ 58. Kb4 Nf3 59. Rxg3 Nxg3 60. a5
+bxa5+ 61. Kxa5 Kc5 62. c4 Ne4 63. Ka4 Nd4 64. Ka5 Nc3 65. Ka6 Ne6 66. Kb7
+Na4 67. Ka6 Nb6 68. Kb7 Nd7 69. Ka6 Nd8 70. Ka5 Nb6 71. Ka6 Kc6 72. c5 Nc4
+73. Ka7 Ne6 74. Kb8 Nd8 75. Ka7 Nb7 76. Kb8 Na3 77. Ka7 Nb5+ 78. Ka6 Nc3
+79. Ka7 Nd5 80. Ka6 Nb4+ 81. Ka7 Kc7 82. c6 Nc5 83. Ka8 Ne4 84. Ka7 Nd6 85.
+Ka8 Nxc6 1/2-1/2
 

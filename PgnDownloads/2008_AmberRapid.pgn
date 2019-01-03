@@ -5,22 +5,22 @@
 [White "Van Wely, Loek"]
 [Black "Aronian, Levon"]
 [Result "0-1"]
-[ECO "D94"]
 [WhiteElo "2681"]
 [BlackElo "2739"]
-[PlyCount "68"]
+[ECO "D94"]
 [EventDate "2008.??.??"]
+[PlyCount "68"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. b4 O-O 6. Qb3 c6 7. Nf3 Bg4 8. h3
-Bxf3 9. gxf3 a5 10. bxa5 Rxa5 11. Bd2 c5 12. Nxd5 Nxd5 13. cxd5 cxd4 14. e4 Nd7
-15. Bb5 d3 16. O-O Bxa1 17. Rxa1 Ra8 18. Qxd3 Ne5 19. Qb3 Qb6 20. Kg2 Nxf3 21.
-Bh6 Qf6 22. Rb1 Nh4+ 23. Kf1 Rfc8 24. Qb2 Rc3 25. Bd2 Raa3 26. Bxc3 Rxc3 27.
-Rc1 Rc5 28. Qd2 Nf3 29. Qe3 Rxc1+ 30. Qxc1 Qd4 31. Qc8+ Kg7 32. Qxb7 Nd2+ 33.
-Ke2 Nxe4 34. Bc6 Qxf2+ 0-1
+Bxf3 9. gxf3 a5 10. bxa5 Rxa5 11. Bd2 c5 12. Nxd5 Nxd5 13. cxd5 cxd4 14. e4
+Nd7 15. Bb5 d3 16. O-O Bxa1 17. Rxa1 Ra8 18. Qxd3 Ne5 19. Qb3 Qb6 20. Kg2
+Nxf3 21. Bh6 Qf6 22. Rb1 Nh4+ 23. Kf1 Rfc8 24. Qb2 Rc3 25. Bd2 Raa3 26.
+Bxc3 Rxc3 27. Rc1 Rc5 28. Qd2 Nf3 29. Qe3 Rxc1+ 30. Qxc1 Qd4 31. Qc8+ Kg7
+32. Qxb7 Nd2+ 33. Ke2 Nxe4 34. Bc6 Qxf2+ 0-1
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -29,23 +29,23 @@ Ke2 Nxe4 34. Bc6 Qxf2+ 0-1
 [White "Morozevich, Alexander"]
 [Black "Mamedyarov, Shakhriyar"]
 [Result "1/2-1/2"]
-[ECO "B07"]
 [WhiteElo "2765"]
 [BlackElo "2760"]
-[PlyCount "83"]
+[ECO "B07"]
 [EventDate "2008.??.??"]
+[PlyCount "83"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. g3 Nf6 2. Bg2 g6 3. e4 d6 4. d4 Bg7 5. Nc3 O-O 6. Nge2 e5 7. h3 exd4 8. Nxd4
-Re8 9. O-O Nbd7 10. Bf4 Ne5 11. b3 c6 12. Re1 Qb6 13. Be3 Qa5 14. Nde2 Qc7 15.
-f4 Ned7 16. Qd3 Nc5 17. Bxc5 dxc5 18. Rad1 Be6 19. e5 Rad8 20. Qe3 Nd5 21. Qxc5
-Bf8 22. Qf2 Qa5 23. Ne4 Bf5 24. Rxd5 cxd5 25. Nf6+ Kh8 26. Nd4 Bc5 27. Rd1 Qc3
-28. Kh2 Be4 29. g4 Kg7 30. Nxe8+ Rxe8 31. Qd2 Qxd2 32. Rxd2 Rc8 33. Bxe4 dxe4
-34. c3 b5 35. Ne2 Be3 36. Rd7 b4 37. c4 Rc6 38. Kg3 Ra6 39. Nd4 Bxd4 40. Rxd4
-Rxa2 41. c5 Rc2 42. Rxb4 1/2-1/2
+1. g3 Nf6 2. Bg2 g6 3. e4 d6 4. d4 Bg7 5. Nc3 O-O 6. Nge2 e5 7. h3 exd4 8.
+Nxd4 Re8 9. O-O Nbd7 10. Bf4 Ne5 11. b3 c6 12. Re1 Qb6 13. Be3 Qa5 14. Nde2
+Qc7 15. f4 Ned7 16. Qd3 Nc5 17. Bxc5 dxc5 18. Rad1 Be6 19. e5 Rad8 20. Qe3
+Nd5 21. Qxc5 Bf8 22. Qf2 Qa5 23. Ne4 Bf5 24. Rxd5 cxd5 25. Nf6+ Kh8 26. Nd4
+Bc5 27. Rd1 Qc3 28. Kh2 Be4 29. g4 Kg7 30. Nxe8+ Rxe8 31. Qd2 Qxd2 32. Rxd2
+Rc8 33. Bxe4 dxe4 34. c3 b5 35. Ne2 Be3 36. Rd7 b4 37. c4 Rc6 38. Kg3 Ra6
+39. Nd4 Bxd4 40. Rxd4 Rxa2 41. c5 Rc2 42. Rxb4 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -54,22 +54,23 @@ Rxa2 41. c5 Rc2 42. Rxb4 1/2-1/2
 [White "Leko, Peter"]
 [Black "Topalov, Veselin"]
 [Result "1/2-1/2"]
-[ECO "B12"]
 [WhiteElo "2753"]
 [BlackElo "2780"]
-[PlyCount "75"]
+[ECO "B12"]
 [EventDate "2008.??.??"]
+[PlyCount "75"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nd2 e6 5. Nb3 Nd7 6. Nf3 Ne7 7. Be2 Nc8 8. O-O
-Ncb6 9. a4 Be7 10. a5 Nc4 11. Bd3 Bg4 12. Qe2 b5 13. axb6 axb6 14. Rxa8 Qxa8
-15. Bxc4 dxc4 16. Qxc4 Bxf3 17. gxf3 b5 18. Qe2 O-O 19. Bd2 Nb6 20. Na5 Rd8 21.
-Qe4 Nd5 22. Ra1 Rd7 23. Nb3 Ra7 24. Rxa7 Qxa7 25. Qe1 h5 26. Qa1 Qb7 27. Nc1 c5
-28. dxc5 Bxc5 29. Nd3 Bb6 30. Qe1 Qc6 31. c3 Qc4 32. Qe4 Qb3 33. Qe2 Qc2 34.
-Kf1 Qb1+ 35. Kg2 Qc2 36. Kf1 Qb1+ 37. Kg2 Qc2 38. Kf1 1/2-1/2
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nd2 e6 5. Nb3 Nd7 6. Nf3 Ne7 7. Be2 Nc8 8.
+O-O Ncb6 9. a4 Be7 10. a5 Nc4 11. Bd3 Bg4 12. Qe2 b5 13. axb6 axb6 14. Rxa8
+Qxa8 15. Bxc4 dxc4 16. Qxc4 Bxf3 17. gxf3 b5 18. Qe2 O-O 19. Bd2 Nb6 20.
+Na5 Rd8 21. Qe4 Nd5 22. Ra1 Rd7 23. Nb3 Ra7 24. Rxa7 Qxa7 25. Qe1 h5 26.
+Qa1 Qb7 27. Nc1 c5 28. dxc5 Bxc5 29. Nd3 Bb6 30. Qe1 Qc6 31. c3 Qc4 32. Qe4
+Qb3 33. Qe2 Qc2 34. Kf1 Qb1+ 35. Kg2 Qc2 36. Kf1 Qb1+ 37. Kg2 Qc2 38. Kf1
+1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -78,23 +79,23 @@ Kf1 Qb1+ 35. Kg2 Qc2 36. Kf1 Qb1+ 37. Kg2 Qc2 38. Kf1 1/2-1/2
 [White "Kramnik, Vladimir"]
 [Black "Anand, Viswanathan"]
 [Result "0-1"]
-[ECO "E15"]
 [WhiteElo "2799"]
 [BlackElo "2799"]
-[PlyCount "86"]
+[ECO "E15"]
 [EventDate "2008.??.??"]
+[PlyCount "86"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
-d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O f5 13. Rc1 Nf6 14. Bb2 Bd6 15.
-Nf3 Qe7 16. Ne5 Rac8 17. Nd3 Rfd8 18. Re1 Qe8 19. e3 g5 20. Rc2 g4 21. Qc1 Qe7
-22. Rd1 Ne4 23. c5 bxc5 24. dxc5 Bb8 25. Ne5 Ng5 26. Qa1 Nf7 27. Nxf7 Kxf7 28.
-a4 h5 29. b4 h4 30. b5 Bb7 31. Rdc1 Kg6 32. Be5 Bxe5 33. Qxe5 Qf6 34. Qd4 e5
-35. Qb4 hxg3 36. hxg3 Rd7 37. Qa5 Rh8 38. Qxa7 f4 39. exf4 exf4 40. gxf4 Rdh7
-41. Qb6 Qxf4 42. bxc6 Qf3 43. cxb7+ Kf5 0-1
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8.
+Bc3 d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O f5 13. Rc1 Nf6 14. Bb2
+Bd6 15. Nf3 Qe7 16. Ne5 Rac8 17. Nd3 Rfd8 18. Re1 Qe8 19. e3 g5 20. Rc2 g4
+21. Qc1 Qe7 22. Rd1 Ne4 23. c5 bxc5 24. dxc5 Bb8 25. Ne5 Ng5 26. Qa1 Nf7
+27. Nxf7 Kxf7 28. a4 h5 29. b4 h4 30. b5 Bb7 31. Rdc1 Kg6 32. Be5 Bxe5 33.
+Qxe5 Qf6 34. Qd4 e5 35. Qb4 hxg3 36. hxg3 Rd7 37. Qa5 Rh8 38. Qxa7 f4 39.
+exf4 exf4 40. gxf4 Rdh7 41. Qb6 Qxf4 42. bxc6 Qf3 43. cxb7+ Kf5 0-1
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -103,24 +104,24 @@ a4 h5 29. b4 h4 30. b5 Bb7 31. Rdc1 Kg6 32. Be5 Bxe5 33. Qxe5 Qf6 34. Qd4 e5
 [White "Karjakin, Sergey"]
 [Black "Gelfand, Boris"]
 [Result "1/2-1/2"]
-[ECO "C24"]
 [WhiteElo "2732"]
 [BlackElo "2737"]
-[PlyCount "92"]
+[ECO "C24"]
 [EventDate "2008.??.??"]
+[PlyCount "92"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
 1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bd6 6. Nc3 dxe4 7. Ng5 O-O 8.
-Ngxe4 Nxe4 9. Nxe4 Bf5 10. Qf3 Bxe4 11. dxe4 Nd7 12. c3 a5 13. a4 Nc5 14. Bc2
-Ne6 15. O-O Qe7 16. Rd1 Rfd8 17. g3 Bc5 18. Bd2 Rd7 19. h4 Rad8 20. Be1 Bb6 21.
-Kg2 g6 22. Rxd7 Rxd7 23. Rd1 h5 24. Bd2 Kg7 25. Bc1 Ba7 26. Bb3 Rxd1 27. Qxd1
-Qf6 28. Qd2 Bb6 29. Qe2 Nc5 30. Bc2 Ne6 31. b3 Kg8 32. Bd3 g5 33. hxg5 Nxg5 34.
-b4 axb4 35. cxb4 Ne6 36. Qf3 Qg6 37. Bc4 Nd4 38. Qe3 Bd8 39. a5 Be7 40. Bd2 h4
-41. Bc3 Bg5 42. Qd3 hxg3 43. fxg3 Bf6 44. a6 bxa6 45. Bxa6 Qg4 46. Bc4 Kg7
-1/2-1/2
+Ngxe4 Nxe4 9. Nxe4 Bf5 10. Qf3 Bxe4 11. dxe4 Nd7 12. c3 a5 13. a4 Nc5 14.
+Bc2 Ne6 15. O-O Qe7 16. Rd1 Rfd8 17. g3 Bc5 18. Bd2 Rd7 19. h4 Rad8 20. Be1
+Bb6 21. Kg2 g6 22. Rxd7 Rxd7 23. Rd1 h5 24. Bd2 Kg7 25. Bc1 Ba7 26. Bb3
+Rxd1 27. Qxd1 Qf6 28. Qd2 Bb6 29. Qe2 Nc5 30. Bc2 Ne6 31. b3 Kg8 32. Bd3 g5
+33. hxg5 Nxg5 34. b4 axb4 35. cxb4 Ne6 36. Qf3 Qg6 37. Bc4 Nd4 38. Qe3 Bd8
+39. a5 Be7 40. Bd2 h4 41. Bc3 Bg5 42. Qd3 hxg3 43. fxg3 Bf6 44. a6 bxa6 45.
+Bxa6 Qg4 46. Bc4 Kg7 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -129,26 +130,27 @@ b4 axb4 35. cxb4 Ne6 36. Qf3 Qg6 37. Bc4 Nd4 38. Qe3 Bd8 39. a5 Be7 40. Bd2 h4
 [White "Ivanchuk, Vassily"]
 [Black "Carlsen, Magnus"]
 [Result "1/2-1/2"]
-[ECO "B22"]
 [WhiteElo "2751"]
 [BlackElo "2733"]
-[PlyCount "123"]
+[ECO "B22"]
 [EventDate "2008.??.??"]
+[PlyCount "123"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 d6 7. Bc4 Nc6 8. O-O
-Be7 9. Bd2 O-O 10. Nc3 dxe5 11. dxe5 Nxc3 12. Bxc3 b6 13. Qe2 Bb7 14. Bd3 Bb4
-15. Bxh7+ Kxh7 16. Qe4+ Kg8 17. Bxb4 Nxb4 18. Qxb7 Qd5 19. Qxd5 Nxd5 20. Rfd1
-Rac8 21. Rd2 Rc4 22. g3 Rfc8 23. Kg2 Kh7 24. h4 b5 25. Re1 Kg6 26. Ng5 Rc2 27.
-Ree2 Rxd2 28. Rxd2 b4 29. Kf3 a5 30. Ne4 a4 31. g4 Kh7 32. Nd6 Rc7 33. Rd4 Kg8
-34. Rc4 Rxc4 35. Nxc4 a3 36. Nxa3 bxa3 37. bxa3 Kf8 38. h5 Ne7 39. a4 Nc6 40.
-Ke4 g5 41. hxg6 fxg6 42. Kf4 Kf7 43. Kg5 Nxe5 44. a5 Nc6 45. a6 e5 46. f3 Kg7
-47. f4 exf4 48. Kxf4 Kf6 49. a3 g5+ 50. Ke4 Ke6 51. Kd3 Kd5 52. Kc3 Kd6 53. Kc4
-Na7 54. Kd4 Nb5+ 55. Ke4 Ke6 56. a4 Nc3+ 57. Kd4 Nxa4 58. a7 Nb6 59. Kc5 Na8
-60. Kc6 Ke5 61. Kb7 Kd6 62. Kxa8 1/2-1/2
+1. e4 c5 2. Nf3 e6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 d6 7. Bc4 Nc6 8.
+O-O Be7 9. Bd2 O-O 10. Nc3 dxe5 11. dxe5 Nxc3 12. Bxc3 b6 13. Qe2 Bb7 14.
+Bd3 Bb4 15. Bxh7+ Kxh7 16. Qe4+ Kg8 17. Bxb4 Nxb4 18. Qxb7 Qd5 19. Qxd5
+Nxd5 20. Rfd1 Rac8 21. Rd2 Rc4 22. g3 Rfc8 23. Kg2 Kh7 24. h4 b5 25. Re1
+Kg6 26. Ng5 Rc2 27. Ree2 Rxd2 28. Rxd2 b4 29. Kf3 a5 30. Ne4 a4 31. g4 Kh7
+32. Nd6 Rc7 33. Rd4 Kg8 34. Rc4 Rxc4 35. Nxc4 a3 36. Nxa3 bxa3 37. bxa3 Kf8
+38. h5 Ne7 39. a4 Nc6 40. Ke4 g5 41. hxg6 fxg6 42. Kf4 Kf7 43. Kg5 Nxe5 44.
+a5 Nc6 45. a6 e5 46. f3 Kg7 47. f4 exf4 48. Kxf4 Kf6 49. a3 g5+ 50. Ke4 Ke6
+51. Kd3 Kd5 52. Kc3 Kd6 53. Kc4 Na7 54. Kd4 Nb5+ 55. Ke4 Ke6 56. a4 Nc3+
+57. Kd4 Nxa4 58. a7 Nb6 59. Kc5 Na8 60. Kc6 Ke5 61. Kb7 Kd6 62. Kxa8
+1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -157,24 +159,24 @@ Na7 54. Kd4 Nb5+ 55. Ke4 Ke6 56. a4 Nc3+ 57. Kd4 Nxa4 58. a7 Nb6 59. Kc5 Na8
 [White "Topalov, Veselin"]
 [Black "Morozevich, Alexander"]
 [Result "1-0"]
-[ECO "E97"]
 [WhiteElo "2780"]
 [BlackElo "2765"]
-[PlyCount "95"]
+[ECO "E97"]
 [EventDate "2008.??.??"]
+[PlyCount "95"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
-Ne7 9. b4 a5 10. bxa5 Rxa5 11. a4 c5 12. Bd2 Ra6 13. Rb1 h6 14. Qc1 Kh7 15. g3
-Ne8 16. Nh4 f5 17. exf5 Nxf5 18. Nxf5 gxf5 19. f3 h5 20. Kh1 Kg8 21. Bg5 Bf6
-22. f4 Bxg5 23. fxg5 Ng7 24. g6 Qe7 25. Qh6 Ne8 26. Bxh5 Qg7 27. Qg5 Qf6 28.
-Qd2 Qh8 29. Be2 Kg7 30. Qg5 Qh6 31. Qe7+ Kg8 32. g4 f4 33. Bd3 Qg7 34. Qg5 Nf6
-35. h3 Qe7 36. Qh6 Qg7 37. g5 Ne8 38. h4 f3 39. Qh5 Qh8 40. Qxh8+ Kxh8 41. Be4
-Ng7 42. Rxf3 Rxf3 43. Bxf3 Nf5 44. h5 Kg7 45. Kh2 b6 46. Be4 Kg8 47. h6 Ne3 48.
-Re1 1-0
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8.
+d5 Ne7 9. b4 a5 10. bxa5 Rxa5 11. a4 c5 12. Bd2 Ra6 13. Rb1 h6 14. Qc1 Kh7
+15. g3 Ne8 16. Nh4 f5 17. exf5 Nxf5 18. Nxf5 gxf5 19. f3 h5 20. Kh1 Kg8 21.
+Bg5 Bf6 22. f4 Bxg5 23. fxg5 Ng7 24. g6 Qe7 25. Qh6 Ne8 26. Bxh5 Qg7 27.
+Qg5 Qf6 28. Qd2 Qh8 29. Be2 Kg7 30. Qg5 Qh6 31. Qe7+ Kg8 32. g4 f4 33. Bd3
+Qg7 34. Qg5 Nf6 35. h3 Qe7 36. Qh6 Qg7 37. g5 Ne8 38. h4 f3 39. Qh5 Qh8 40.
+Qxh8+ Kxh8 41. Be4 Ng7 42. Rxf3 Rxf3 43. Bxf3 Nf5 44. h5 Kg7 45. Kh2 b6 46.
+Be4 Kg8 47. h6 Ne3 48. Re1 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -183,23 +185,23 @@ Re1 1-0
 [White "Mamedyarov, Shakhriyar"]
 [Black "Anand, Viswanathan"]
 [Result "0-1"]
-[ECO "B20"]
 [WhiteElo "2760"]
 [BlackElo "2799"]
-[PlyCount "84"]
+[ECO "B20"]
 [EventDate "2008.??.??"]
+[PlyCount "84"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 c5 2. b3 Nc6 3. Bb2 d6 4. Bb5 Bd7 5. f4 Nf6 6. Qe2 e6 7. Nf3 Be7 8. O-O
-O-O 9. d3 d5 10. Bxc6 Bxc6 11. Ne5 c4 12. Nxc6 bxc6 13. Nd2 cxd3 14. cxd3 a5
-15. f5 exf5 16. Rxf5 a4 17. e5 Ne8 18. e6 f6 19. Rff1 Nc7 20. Nf3 Re8 21. Kh1
-axb3 22. axb3 Rxa1 23. Rxa1 Bf8 24. Qc2 c5 25. d4 Nxe6 26. dxc5 Nxc5 27. Rd1
-Ne4 28. Bd4 Qc8 29. Qa2 Qb7 30. Qc2 Rc8 31. Qd3 Rc3 32. Qf1 Rxb3 33. Ra1 Qc6
-34. Qe1 Rb8 35. Rc1 Qb5 36. Qe3 Re8 37. Qf4 Qd7 38. Rc7 Qd6 39. Qc1 Qe6 40. Ra7
-Rc8 41. Qb1 Qc6 42. Ra1 Bc5 0-1
+1. e4 c5 2. b3 Nc6 3. Bb2 d6 4. Bb5 Bd7 5. f4 Nf6 6. Qe2 e6 7. Nf3 Be7 8.
+O-O O-O 9. d3 d5 10. Bxc6 Bxc6 11. Ne5 c4 12. Nxc6 bxc6 13. Nd2 cxd3 14.
+cxd3 a5 15. f5 exf5 16. Rxf5 a4 17. e5 Ne8 18. e6 f6 19. Rff1 Nc7 20. Nf3
+Re8 21. Kh1 axb3 22. axb3 Rxa1 23. Rxa1 Bf8 24. Qc2 c5 25. d4 Nxe6 26. dxc5
+Nxc5 27. Rd1 Ne4 28. Bd4 Qc8 29. Qa2 Qb7 30. Qc2 Rc8 31. Qd3 Rc3 32. Qf1
+Rxb3 33. Ra1 Qc6 34. Qe1 Rb8 35. Rc1 Qb5 36. Qe3 Re8 37. Qf4 Qd7 38. Rc7
+Qd6 39. Qc1 Qe6 40. Ra7 Rc8 41. Qb1 Qc6 42. Ra1 Bc5 0-1
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -208,22 +210,23 @@ Rc8 41. Qb1 Qc6 42. Ra1 Bc5 0-1
 [White "Leko, Peter"]
 [Black "Kramnik, Vladimir"]
 [Result "0-1"]
-[ECO "A29"]
 [WhiteElo "2753"]
 [BlackElo "2799"]
-[PlyCount "76"]
+[ECO "A29"]
 [EventDate "2008.??.??"]
+[PlyCount "76"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8.
-a3 O-O 9. b4 Be6 10. Rb1 f6 11. d3 Nd4 12. Nd2 c6 13. Nde4 Bf7 14. Be3 a5 15.
-Nc5 axb4 16. axb4 Ra3 17. N3e4 Qc7 18. Bxd4 exd4 19. Bh3 Rfa8 20. Qc1 Nd5 21.
-Qb2 Nc3 22. Nxc3 dxc3 23. Qc2 Qe5 24. Rfc1 b5 25. Ne4 Ba2 26. Ra1 Bxb4 27. Rxa2
-Rxa2 28. Qb3+ Kh8 29. Qxb4 c2 30. Bf1 Qb2 31. Qxb2 Rxb2 32. Nd2 c5 33. f4 c4
-34. Nf3 b4 35. dxc4 Rd8 36. Ne1 b3 37. Kf2 Rd1 38. Nd3 Rxd3 0-1
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7
+8. a3 O-O 9. b4 Be6 10. Rb1 f6 11. d3 Nd4 12. Nd2 c6 13. Nde4 Bf7 14. Be3
+a5 15. Nc5 axb4 16. axb4 Ra3 17. N3e4 Qc7 18. Bxd4 exd4 19. Bh3 Rfa8 20.
+Qc1 Nd5 21. Qb2 Nc3 22. Nxc3 dxc3 23. Qc2 Qe5 24. Rfc1 b5 25. Ne4 Ba2 26.
+Ra1 Bxb4 27. Rxa2 Rxa2 28. Qb3+ Kh8 29. Qxb4 c2 30. Bf1 Qb2 31. Qxb2 Rxb2
+32. Nd2 c5 33. f4 c4 34. Nf3 b4 35. dxc4 Rd8 36. Ne1 b3 37. Kf2 Rd1 38. Nd3
+Rxd3 0-1
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -232,28 +235,28 @@ Rxa2 28. Qb3+ Kh8 29. Qxb4 c2 30. Bf1 Qb2 31. Qxb2 Rxb2 32. Nd2 c5 33. f4 c4
 [White "Gelfand, Boris"]
 [Black "Ivanchuk, Vassily"]
 [Result "0-1"]
-[ECO "D46"]
 [WhiteElo "2737"]
 [BlackElo "2751"]
-[PlyCount "146"]
+[ECO "D46"]
 [EventDate "2008.??.??"]
+[PlyCount "146"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 Bd6 7. e4 dxe4 8. Nxe4
-Nxe4 9. Bxe4 e5 10. O-O exd4 11. Bg5 Nf6 12. Qxd4 h6 13. Bh4 Be7 14. Qe5 Be6
-15. Bc2 O-O 16. Rad1 Qb8 17. Qc3 Qf4 18. Rfe1 Rfe8 19. b3 Qc7 20. h3 Rad8 21.
-Nd4 Bc8 22. Qd3 Kf8 23. Qf3 Qa5 24. Nf5 Rxd1 25. Rxd1 Bxf5 26. Qxf5 Qxa2 27.
-Bxf6 Bxf6 28. Qh7 Qa5 29. Qh8+ Ke7 30. Qh7 Rd8 31. Qe4+ Kf8 32. Rxd8+ Qxd8 33.
-g3 a5 34. Kg2 g6 35. Qe3 Kg7 36. Be4 h5 37. h4 Qe7 38. Bf3 Qb4 39. Qd3 Qb6 40.
-Bd1 Bd4 41. Qd2 Qc5 42. Qe2 Qa3 43. Qd2 Bf6 44. Qc2 Qa1 45. Bf3 Qe1 46. Qe2 Qc3
-47. Qe3 Qb2 48. Bd1 Qb1 49. Qe2 b5 50. cxb5 cxb5 51. Bc2 Qb2 52. Bd3 Qxb3 53.
-Bxb5 Qd5+ 54. Kg1 Bd4 55. Bc4 Qc5 56. Ba2 a4 57. Qf3 Qa7 58. Kg2 a3 59. Qd5
-Bxf2 60. Qe5+ f6 61. Qd5 Bxg3 62. Qg8+ Kh6 63. Qh8+ Qh7 64. Qxf6 Bxh4 65. Qxh4
-Qb7+ 66. Kg1 Qb6+ 67. Kf1 Qb5+ 68. Kg1 Qg5+ 69. Qxg5+ Kxg5 70. Kf2 Kf4 71. Ke2
-h4 72. Kd3 h3 73. Kc3 Ke5 0-1
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 Bd6 7. e4 dxe4 8.
+Nxe4 Nxe4 9. Bxe4 e5 10. O-O exd4 11. Bg5 Nf6 12. Qxd4 h6 13. Bh4 Be7 14.
+Qe5 Be6 15. Bc2 O-O 16. Rad1 Qb8 17. Qc3 Qf4 18. Rfe1 Rfe8 19. b3 Qc7 20.
+h3 Rad8 21. Nd4 Bc8 22. Qd3 Kf8 23. Qf3 Qa5 24. Nf5 Rxd1 25. Rxd1 Bxf5 26.
+Qxf5 Qxa2 27. Bxf6 Bxf6 28. Qh7 Qa5 29. Qh8+ Ke7 30. Qh7 Rd8 31. Qe4+ Kf8
+32. Rxd8+ Qxd8 33. g3 a5 34. Kg2 g6 35. Qe3 Kg7 36. Be4 h5 37. h4 Qe7 38.
+Bf3 Qb4 39. Qd3 Qb6 40. Bd1 Bd4 41. Qd2 Qc5 42. Qe2 Qa3 43. Qd2 Bf6 44. Qc2
+Qa1 45. Bf3 Qe1 46. Qe2 Qc3 47. Qe3 Qb2 48. Bd1 Qb1 49. Qe2 b5 50. cxb5
+cxb5 51. Bc2 Qb2 52. Bd3 Qxb3 53. Bxb5 Qd5+ 54. Kg1 Bd4 55. Bc4 Qc5 56. Ba2
+a4 57. Qf3 Qa7 58. Kg2 a3 59. Qd5 Bxf2 60. Qe5+ f6 61. Qd5 Bxg3 62. Qg8+
+Kh6 63. Qh8+ Qh7 64. Qxf6 Bxh4 65. Qxh4 Qb7+ 66. Kg1 Qb6+ 67. Kf1 Qb5+ 68.
+Kg1 Qg5+ 69. Qxg5+ Kxg5 70. Kf2 Kf4 71. Ke2 h4 72. Kd3 h3 73. Kc3 Ke5 0-1
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -262,21 +265,21 @@ h4 72. Kd3 h3 73. Kc3 Ke5 0-1
 [White "Carlsen, Magnus"]
 [Black "Van Wely, Loek"]
 [Result "1-0"]
-[ECO "D43"]
 [WhiteElo "2733"]
 [BlackElo "2681"]
-[PlyCount "59"]
+[ECO "D43"]
 [EventDate "2008.??.??"]
+[PlyCount "59"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. c4 Nf6 2. d4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
-9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. b3 cxb3 13. axb3 O-O 14. Nxd7 Qxd7 15.
-e5 Nd5 16. Ne4 Qe7 17. Qc1 a5 18. Rd1 b4 19. Bh5 Rfd8 20. Nd6 f5 21. exf6 Bxf6
-22. Nf7 Nc3 23. Re1 Bxd4 24. Nxh6+ Kf8 25. Nf5 Qc5 26. Nxd4 Rxd4 27. Be5 Rf4
-28. Bxf4 gxf4 29. Qxf4+ Qf5 30. Qh6+ 1-0
+1. c4 Nf6 2. d4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. b3 cxb3 13. axb3 O-O 14.
+Nxd7 Qxd7 15. e5 Nd5 16. Ne4 Qe7 17. Qc1 a5 18. Rd1 b4 19. Bh5 Rfd8 20. Nd6
+f5 21. exf6 Bxf6 22. Nf7 Nc3 23. Re1 Bxd4 24. Nxh6+ Kf8 25. Nf5 Qc5 26.
+Nxd4 Rxd4 27. Be5 Rf4 28. Bxf4 gxf4 29. Qxf4+ Qf5 30. Qh6+ 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -285,24 +288,25 @@ e5 Nd5 16. Ne4 Qe7 17. Qc1 a5 18. Rd1 b4 19. Bh5 Rfd8 20. Nd6 f5 21. exf6 Bxf6
 [White "Aronian, Levon"]
 [Black "Karjakin, Sergey"]
 [Result "1-0"]
-[ECO "A29"]
 [WhiteElo "2739"]
 [BlackElo "2732"]
-[PlyCount "101"]
+[ECO "A29"]
 [EventDate "2008.??.??"]
+[PlyCount "101"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8.
-a3 O-O 9. b4 Be6 10. Rb1 f6 11. d3 Nd4 12. Nd2 c6 13. Nde4 Rf7 14. Bd2 Nd5 15.
-e3 Nxc3 16. Nxc3 Nf5 17. Qc2 Bf8 18. Rfd1 a5 19. Na4 axb4 20. Bxb4 Kh8 21. Bxf8
-Qxf8 22. Nc5 Bc8 23. a4 Nd6 24. Rb4 Bf5 25. Qb2 h6 26. h3 Qc8 27. g4 Be6 28. d4
-e4 29. Nxe6 Qxe6 30. d5 cxd5 31. Qd2 Ra5 32. Rd4 b6 33. Rxd5 Nb7 34. Rxa5 bxa5
-35. Qc2 f5 36. gxf5 Qxf5 37. Bxe4 Qg5+ 38. Bg2 Nd8 39. Rd5 Qf6 40. Rxa5 Rf8 41.
-Ra8 Qa1+ 42. Bf1 Qa3 43. Qd2 Nc6 44. Rxf8+ Qxf8 45. Qd5 Qf6 46. Bg2 Qa1+ 47.
-Kh2 Ne5 48. Qd4 Qxd4 49. exd4 Nc4 50. Kg3 g5 51. Kg4 1-0
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7
+8. a3 O-O 9. b4 Be6 10. Rb1 f6 11. d3 Nd4 12. Nd2 c6 13. Nde4 Rf7 14. Bd2
+Nd5 15. e3 Nxc3 16. Nxc3 Nf5 17. Qc2 Bf8 18. Rfd1 a5 19. Na4 axb4 20. Bxb4
+Kh8 21. Bxf8 Qxf8 22. Nc5 Bc8 23. a4 Nd6 24. Rb4 Bf5 25. Qb2 h6 26. h3 Qc8
+27. g4 Be6 28. d4 e4 29. Nxe6 Qxe6 30. d5 cxd5 31. Qd2 Ra5 32. Rd4 b6 33.
+Rxd5 Nb7 34. Rxa5 bxa5 35. Qc2 f5 36. gxf5 Qxf5 37. Bxe4 Qg5+ 38. Bg2 Nd8
+39. Rd5 Qf6 40. Rxa5 Rf8 41. Ra8 Qa1+ 42. Bf1 Qa3 43. Qd2 Nc6 44. Rxf8+
+Qxf8 45. Qd5 Qf6 46. Bg2 Qa1+ 47. Kh2 Ne5 48. Qd4 Qxd4 49. exd4 Nc4 50. Kg3
+g5 51. Kg4 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -311,25 +315,26 @@ Kh2 Ne5 48. Qd4 Qxd4 49. exd4 Nc4 50. Kg3 g5 51. Kg4 1-0
 [White "Morozevich, Alexander"]
 [Black "Leko, Peter"]
 [Result "0-1"]
-[ECO "D45"]
 [WhiteElo "2765"]
 [BlackElo "2753"]
-[PlyCount "112"]
+[ECO "D45"]
 [EventDate "2008.??.??"]
+[PlyCount "112"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. g4 h6 8. Bd2
-dxc4 9. Bxc4 b5 10. Be2 Bb7 11. a3 a6 12. b4 Qe7 13. Rg1 e5 14. h4 e4 15. g5
-hxg5 16. hxg5 exf3 17. gxf6 Nxf6 18. Bxf3 g6 19. e4 Rh3 20. Bg2 Rh4 21. Bg5 Rg4
-22. Bxf6 Qxf6 23. e5 Qe6 24. O-O-O Rxg2 25. Rxg2 Bf8 26. f4 a5 27. d5 Qh3 28.
-e6 Bg7 29. exf7+ Kf8 30. Rd3 Qf5 31. Ne2 axb4 32. Rg5 Qf6 33. Re5 bxa3 34. d6
-Qxf7 35. d7 Rd8 36. Qc5+ Kg8 37. Qd6 a2 38. Kb2 Qc4 39. Nc3 Qf7 40. Qc7 Bf6 41.
-Nxa2 Qc4 42. Nc1 Qxf4 43. Rde3 Rxd7 44. Qb8+ Kg7 45. Kc2 Bxe5 46. Rxe5 Qc4+ 47.
-Kb1 c5 48. Qe8 Qb4+ 49. Ka1 Qd4+ 50. Kb1 Rf7 51. Re7 Bd5 52. Rxf7+ Bxf7 53.
-Qxb5 Qb4+ 54. Qxb4 cxb4 55. Nd3 b3 56. Kb2 Kf6 0-1
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. g4 h6 8.
+Bd2 dxc4 9. Bxc4 b5 10. Be2 Bb7 11. a3 a6 12. b4 Qe7 13. Rg1 e5 14. h4 e4
+15. g5 hxg5 16. hxg5 exf3 17. gxf6 Nxf6 18. Bxf3 g6 19. e4 Rh3 20. Bg2 Rh4
+21. Bg5 Rg4 22. Bxf6 Qxf6 23. e5 Qe6 24. O-O-O Rxg2 25. Rxg2 Bf8 26. f4 a5
+27. d5 Qh3 28. e6 Bg7 29. exf7+ Kf8 30. Rd3 Qf5 31. Ne2 axb4 32. Rg5 Qf6
+33. Re5 bxa3 34. d6 Qxf7 35. d7 Rd8 36. Qc5+ Kg8 37. Qd6 a2 38. Kb2 Qc4 39.
+Nc3 Qf7 40. Qc7 Bf6 41. Nxa2 Qc4 42. Nc1 Qxf4 43. Re3 Rxd7 44. Qb8+ Kg7 45.
+Kc2 Bxe5 46. Rxe5 Qc4+ 47. Kb1 c5 48. Qe8 Qb4+ 49. Ka1 Qd4+ 50. Kb1 Rf7 51.
+Re7 Bd5 52. Rxf7+ Bxf7 53. Qxb5 Qb4+ 54. Qxb4 cxb4 55. Nd3 b3 56. Kb2 Kf6
+0-1
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -338,23 +343,23 @@ Qxb5 Qb4+ 54. Qxb4 cxb4 55. Nd3 b3 56. Kb2 Kf6 0-1
 [White "Kramnik, Vladimir"]
 [Black "Mamedyarov, Shakhriyar"]
 [Result "0-1"]
-[ECO "A52"]
 [WhiteElo "2799"]
 [BlackElo "2760"]
-[PlyCount "78"]
+[ECO "A52"]
 [EventDate "2008.??.??"]
+[PlyCount "78"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nc3 Nc6 5. e3 Ngxe5 6. a3 a5 7. f4 Ng6 8. Bd3
-Bc5 9. Qh5 d6 10. Nf3 a4 11. Bd2 O-O 12. Ne4 Qe8 13. O-O-O f5 14. Nxc5 dxc5 15.
-Kb1 Nge7 16. Qh4 h6 17. Bc3 Be6 18. Rhg1 Rd8 19. Ka1 Rxd3 20. Rxd3 Bxc4 21.
-Bxg7 Kxg7 22. g4 Ng6 23. gxf5 Rxf5 24. Rc3 Bf7 25. Qf2 Qe6 26. b3 axb3 27. Nh4
-Rh5 28. Kb2 Qf6 29. Nxg6 Bxg6 30. e4 c4 31. Qd2 Qd4 32. Qxd4+ Nxd4 33. Rcg3
-Rxh2+ 34. Kb1 Kf7 35. Rxg6 c3 36. Rg7+ Ke8 37. R7g2 Rxg2 38. Rxg2 Nf3 39. Kc1
-Nd2 0-1
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nc3 Nc6 5. e3 Ngxe5 6. a3 a5 7. f4 Ng6 8.
+Bd3 Bc5 9. Qh5 d6 10. Nf3 a4 11. Bd2 O-O 12. Ne4 Qe8 13. O-O-O f5 14. Nxc5
+dxc5 15. Kb1 Nge7 16. Qh4 h6 17. Bc3 Be6 18. Rhg1 Rd8 19. Ka1 Rxd3 20. Rxd3
+Bxc4 21. Bxg7 Kxg7 22. g4 Ng6 23. gxf5 Rxf5 24. Rc3 Bf7 25. Qf2 Qe6 26. b3
+axb3 27. Nh4 Rh5 28. Kb2 Qf6 29. Nxg6 Bxg6 30. e4 c4 31. Qd2 Qd4 32. Qxd4+
+Nxd4 33. Rcg3 Rxh2+ 34. Kb1 Kf7 35. Rxg6 c3 36. Rg7+ Ke8 37. R7g2 Rxg2 38.
+Rxg2 Nf3 39. Kc1 Nd2 0-1
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -363,23 +368,23 @@ Nd2 0-1
 [White "Karjakin, Sergey"]
 [Black "Carlsen, Magnus"]
 [Result "1-0"]
-[ECO "B04"]
 [WhiteElo "2732"]
 [BlackElo "2733"]
-[PlyCount "79"]
+[ECO "B04"]
 [EventDate "2008.??.??"]
+[PlyCount "79"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Be2 Nd7 7. Nf3 N7f6 8.
-O-O Bg4 9. h3 Bxf3 10. Bxf3 e6 11. c4 Nb6 12. b3 Be7 13. Bb2 O-O 14. Nd2 a5 15.
-a3 Qc7 16. Qe2 Rfe8 17. g3 Rad8 18. Bg2 Nbd7 19. Nf3 Qb6 20. Qc2 Nf8 21. Ne5
-Ng6 22. Nd3 h5 23. Rad1 Qc7 24. f4 Bd6 25. Ne5 Ne7 26. c5 Bxe5 27. fxe5 Nfd5
-28. Qe2 Nf5 29. Rd3 h4 30. gxh4 b6 31. Be4 bxc5 32. dxc5 Qe7 33. Bxf5 exf5 34.
-Rxf5 Qxh4 35. Bc1 Qh7 36. Rdf3 Nc3 37. Qc4 Rd1+ 38. Kh2 Qg6 39. Rg5 Qc2+ 40.
-Rg2 1-0
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. Be2 Nd7 7. Nf3 N7f6
+8. O-O Bg4 9. h3 Bxf3 10. Bxf3 e6 11. c4 Nb6 12. b3 Be7 13. Bb2 O-O 14. Nd2
+a5 15. a3 Qc7 16. Qe2 Rfe8 17. g3 Rad8 18. Bg2 Nbd7 19. Nf3 Qb6 20. Qc2 Nf8
+21. Ne5 Ng6 22. Nd3 h5 23. Rad1 Qc7 24. f4 Bd6 25. Ne5 Ne7 26. c5 Bxe5 27.
+fxe5 Nfd5 28. Qe2 Nf5 29. Rd3 h4 30. gxh4 b6 31. Be4 bxc5 32. dxc5 Qe7 33.
+Bxf5 exf5 34. Rxf5 Qxh4 35. Bc1 Qh7 36. Rdf3 Nc3 37. Qc4 Rd1+ 38. Kh2 Qg6
+39. Rg5 Qc2+ 40. Rg2 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -388,27 +393,27 @@ Rg2 1-0
 [White "Ivanchuk, Vassily"]
 [Black "Van Wely, Loek"]
 [Result "0-1"]
-[ECO "D42"]
 [WhiteElo "2751"]
 [BlackElo "2681"]
-[PlyCount "134"]
+[ECO "D42"]
 [EventDate "2008.??.??"]
+[PlyCount "134"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 e6 6. cxd5 Nxd5 7. Bd3 Nc6 8.
-Nf3 Be7 9. O-O O-O 10. Re1 Bf6 11. Be4 Nce7 12. Ne5 Bd7 13. Qd3 h6 14. Qg3 Bc6
-15. Ng4 h5 16. Nxf6+ Nxf6 17. Bxc6 bxc6 18. Rd1 Nf5 19. Qh3 Qb6 20. b3 Nxd4 21.
-Ba3 Rfe8 22. Rd2 e5 23. Rad1 Rad8 24. Qd3 Nd5 25. Na4 Qb5 26. Bc5 Nf4 27. Qe3
-Nd5 28. Qd3 Qxd3 29. Rxd3 Nb5 30. f3 f6 31. h3 Kf7 32. Kh2 g5 33. R1d2 Kg6 34.
-Nb2 Rd7 35. Nc4 Red8 36. Na5 Nd4 37. Bxd4 Nb4 38. Rc3 Rxd4 39. Re2 Rd2 40. Nxc6
-Rxe2 41. Nxd8 Nd5 42. Rc1 Ne3 43. Rg1 Rxa2 44. b4 a6 45. Nc6 h4 46. Kh1 Rc2 47.
-Nb8 Ra2 48. Nc6 Kf5 49. Kh2 Kf4 50. Ne7 Rc2 51. Ng6+ Kf5 52. Nf8 Nd5 53. Rd1
-Nf4 54. Rg1 Rb2 55. Nd7 Rxb4 56. Ra1 Rd4 57. Nc5 Rd2 58. Ne4 Rxg2+ 59. Kh1 Rb2
-60. Rxa6 Nh5 61. Kg1 Rc2 62. Rb6 Kf4 63. Nxf6 Nxf6 64. Rxf6+ Kg3 65. Kf1 Rf2+
-66. Ke1 Rxf3 67. Rg6 Rf5 0-1
+1. c4 c6 2. e4 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 e6 6. cxd5 Nxd5 7. Bd3 Nc6
+8. Nf3 Be7 9. O-O O-O 10. Re1 Bf6 11. Be4 Nce7 12. Ne5 Bd7 13. Qd3 h6 14.
+Qg3 Bc6 15. Ng4 h5 16. Nxf6+ Nxf6 17. Bxc6 bxc6 18. Rd1 Nf5 19. Qh3 Qb6 20.
+b3 Nxd4 21. Ba3 Rfe8 22. Rd2 e5 23. Rad1 Rad8 24. Qd3 Nd5 25. Na4 Qb5 26.
+Bc5 Nf4 27. Qe3 Nd5 28. Qd3 Qxd3 29. Rxd3 Nb5 30. f3 f6 31. h3 Kf7 32. Kh2
+g5 33. R1d2 Kg6 34. Nb2 Rd7 35. Nc4 Red8 36. Na5 Nd4 37. Bxd4 Nb4 38. Rc3
+Rxd4 39. Re2 Rd2 40. Nxc6 Rxe2 41. Nxd8 Nd5 42. Rc1 Ne3 43. Rg1 Rxa2 44. b4
+a6 45. Nc6 h4 46. Kh1 Rc2 47. Nb8 Ra2 48. Nc6 Kf5 49. Kh2 Kf4 50. Ne7 Rc2
+51. Ng6+ Kf5 52. Nf8 Nd5 53. Rd1 Nf4 54. Rg1 Rb2 55. Nd7 Rxb4 56. Ra1 Rd4
+57. Nc5 Rd2 58. Ne4 Rxg2+ 59. Kh1 Rb2 60. Rxa6 Nh5 61. Kg1 Rc2 62. Rb6 Kf4
+63. Nxf6 Nxf6 64. Rxf6+ Kg3 65. Kf1 Rf2+ 66. Ke1 Rxf3 67. Rg6 Rf5 0-1
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -417,25 +422,26 @@ Nf4 54. Rg1 Rb2 55. Nd7 Rxb4 56. Ra1 Rd4 57. Nc5 Rd2 58. Ne4 Rxg2+ 59. Kh1 Rb2
 [White "Gelfand, Boris"]
 [Black "Aronian, Levon"]
 [Result "1-0"]
-[ECO "C03"]
 [WhiteElo "2737"]
 [BlackElo "2739"]
-[PlyCount "109"]
+[ECO "C03"]
 [EventDate "2008.??.??"]
+[PlyCount "109"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
 1. d4 e6 2. e4 d5 3. Nd2 Be7 4. Bd3 c5 5. dxc5 Nf6 6. Qe2 a5 7. Ngf3 Na6 8.
-Bb5+ Bd7 9. Ne5 Nxc5 10. Nxd7 Nfxd7 11. exd5 exd5 12. Qe5 O-O 13. Qxd5 Qb6 14.
-a4 Rad8 15. O-O Qg6 16. Nb3 Qxc2 17. Nxa5 Nb6 18. Qf3 Nd5 19. b4 Nxb4 20. Ba3
-Ne6 21. Qxb7 Bd6 22. Bxb4 Bxb4 23. Nc6 Qd2 24. Nxd8 Rxd8 25. Bc4 Nf4 26. g3 Ne6
-27. Rad1 Qxd1 28. Rxd1 Rxd1+ 29. Kg2 Bf8 30. Bxe6 fxe6 31. a5 Rd5 32. a6 Bc5
-33. a7 Bxa7 34. Qxa7 Kf8 35. h4 h5 36. Kf3 Rf5+ 37. Ke3 Re5+ 38. Kf4 Rf5+ 39.
-Ke4 Rd5 40. f3 Rf5 41. Qd7 Rf6 42. g4 hxg4 43. fxg4 Rf1 44. h5 Kg8 45. Qxe6+
-Kh8 46. Qe8+ Kh7 47. Qg6+ Kh8 48. g5 Rf8 49. Ke5 Ra8 50. h6 gxh6 51. Qxh6+ Kg8
-52. Qe6+ Kh8 53. Kf5 Ra7 54. Qe5+ Rg7 55. g6 1-0
+Bb5+ Bd7 9. Ne5 Nxc5 10. Nxd7 Nfxd7 11. exd5 exd5 12. Qe5 O-O 13. Qxd5 Qb6
+14. a4 Rad8 15. O-O Qg6 16. Nb3 Qxc2 17. Nxa5 Nb6 18. Qf3 Nd5 19. b4 Nxb4
+20. Ba3 Ne6 21. Qxb7 Bd6 22. Bxb4 Bxb4 23. Nc6 Qd2 24. Nxd8 Rxd8 25. Bc4
+Nf4 26. g3 Ne6 27. Rad1 Qxd1 28. Rxd1 Rxd1+ 29. Kg2 Bf8 30. Bxe6 fxe6 31.
+a5 Rd5 32. a6 Bc5 33. a7 Bxa7 34. Qxa7 Kf8 35. h4 h5 36. Kf3 Rf5+ 37. Ke3
+Re5+ 38. Kf4 Rf5+ 39. Ke4 Rd5 40. f3 Rf5 41. Qd7 Rf6 42. g4 hxg4 43. fxg4
+Rf1 44. h5 Kg8 45. Qxe6+ Kh8 46. Qe8+ Kh7 47. Qg6+ Kh8 48. g5 Rf8 49. Ke5
+Ra8 50. h6 gxh6 51. Qxh6+ Kg8 52. Qe6+ Kh8 53. Kf5 Ra7 54. Qe5+ Rg7 55. g6
+1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -444,24 +450,24 @@ Kh8 46. Qe8+ Kh7 47. Qg6+ Kh8 48. g5 Rf8 49. Ke5 Ra8 50. h6 gxh6 51. Qxh6+ Kg8
 [White "Anand, Viswanathan"]
 [Black "Topalov, Veselin"]
 [Result "1/2-1/2"]
-[ECO "B19"]
 [WhiteElo "2799"]
 [BlackElo "2780"]
-[PlyCount "94"]
+[ECO "B19"]
 [EventDate "2008.??.??"]
+[PlyCount "94"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
-Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Qa5+ 12. Bd2 Bb4 13. c3 Be7 14. c4 Qc7 15.
-O-O-O Ngf6 16. Qe2 O-O 17. Kb1 Rfe8 18. Ne4 Nxe4 19. Qxe4 c5 20. Bf4 Nf6 21.
-Qe3 Qb6 22. Be5 Qa6 23. Rc1 Rac8 24. dxc5 Ng4 25. Qd4 Nxe5 26. Nxe5 Bxc5 27.
-Qd7 Rf8 28. Rc2 Qd6 29. Qxd6 Bxd6 30. Nd3 Rfd8 31. b3 Ba3 32. Ne5 Rd6 33. Re2
-Rcd8 34. Kc2 Bb4 35. Nf3 a5 36. Rh4 Rd1 37. Kb2 Be7 38. Rhe4 Rf1 39. Kc2 Ra1
-40. Kb2 Rdd1 41. Re1 Rab1+ 42. Kc2 Rbc1+ 43. Kb2 Bc5 44. R4e2 Rb1+ 45. Kc2
-Rbc1+ 46. Kb2 Rb1+ 47. Kc2 Rbc1+ 1/2-1/2
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8.
+h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Qa5+ 12. Bd2 Bb4 13. c3 Be7 14. c4
+Qc7 15. O-O-O Ngf6 16. Qe2 O-O 17. Kb1 Rfe8 18. Ne4 Nxe4 19. Qxe4 c5 20.
+Bf4 Nf6 21. Qe3 Qb6 22. Be5 Qa6 23. Rc1 Rac8 24. dxc5 Ng4 25. Qd4 Nxe5 26.
+Nxe5 Bxc5 27. Qd7 Rf8 28. Rc2 Qd6 29. Qxd6 Bxd6 30. Nd3 Rfd8 31. b3 Ba3 32.
+Ne5 Rd6 33. Re2 Rcd8 34. Kc2 Bb4 35. Nf3 a5 36. Rh4 Rd1 37. Kb2 Be7 38.
+Rhe4 Rf1 39. Kc2 Ra1 40. Kb2 Rdd1 41. Re1 Rab1+ 42. Kc2 Rbc1+ 43. Kb2 Bc5
+44. R4e2 Rb1+ 45. Kc2 Rbc1+ 46. Kb2 Rb1+ 47. Kc2 Rbc1+ 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -470,38 +476,40 @@ Rbc1+ 46. Kb2 Rb1+ 47. Kc2 Rbc1+ 1/2-1/2
 [White "Van Wely, Loek"]
 [Black "Gelfand, Boris"]
 [Result "1/2-1/2"]
-[ECO "A37"]
 [WhiteElo "2681"]
 [BlackElo "2737"]
-[PlyCount "272"]
+[ECO "A37"]
 [EventDate "2008.??.??"]
+[PlyCount "272"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. Nf3 c5 2. c4 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nc3 e6 6. a3 Nge7 7. b4 b6 8. Rb1
-O-O 9. O-O d5 10. bxc5 bxc5 11. Qa4 Bd7 12. Qa6 Bc8 13. Qa4 Bd7 14. Qa6 Qa5 15.
-Qxa5 Nxa5 16. cxd5 exd5 17. Ne1 Bc6 18. Nd3 d4 19. Ne4 c4 20. Nb4 Rab8 21. d3
-f5 22. Bg5 Bxe4 23. dxe4 Rfe8 24. Rfc1 c3 25. e3 h6 26. Bf4 Rbc8 27. exd4 Bxd4
-28. Bxh6 Nc4 29. Nc2 Bb6 30. Rd1 fxe4 31. Bxe4 Nf5 32. Bxf5 gxf5 33. Kf1 Kf7
-34. h4 Ne5 35. Rb5 Ng4 36. Rxf5+ Ke6 37. Rfd5 Nxf2 38. Rd6+ Kf7 39. Rd7+ Re7
-40. Bg5 Rxd7 41. Rxd7+ Ke6 42. Re7+ Kd5 43. Ke2 Ng4 44. Bf4 Kc4 45. Kf3 Nf6 46.
-g4 Nd5 47. Re4+ Kb3 48. Nb4 Nxf4 49. Rxf4 a5 50. Nd3 c2 51. Rf6 Bd4 52. Rd6 Kc3
-53. Nc1 Bc5 54. Rd5 Rf8+ 55. Kg3 Bf2+ 56. Kh3 Be3 57. Ne2+ Kb2 58. Rb5+ Ka2 59.
-g5 Rf2 60. g6 Bh6 61. Re5 Kxa3 62. Nc1 Rf1 63. Rxa5+ Kb4 64. Ra1 Kb5 65. Kg2
-Rd1 66. Kf3 Kc6 67. h5 Kd6 68. Ra6+ Ke5 69. Ra5+ Kf6 70. Ra6+ Kg5 71. Ra5+ Kh4
-72. Rc5 Rxc1 73. Ke2 Kg4 74. Rc4+ Kxh5 75. Kd3 Kxg6 76. Rxc2 Rg1 77. Rc5 Bg7
-78. Ke4 Re1+ 79. Kd3 Kf6 80. Ra5 Ke6 81. Ra6+ Kf5 82. Ra5+ Be5 83. Ra4 Rd1+ 84.
-Ke3 Rc1 85. Kd2 Rc3 86. Rb4 Rh3 87. Ra4 Ke6 88. Ke2 Kd5 89. Kd2 Bd4 90. Kc2 Ke4
-91. Rc4 Rh2+ 92. Kb3 Kd3 93. Rb4 Bc3 94. Rb5 Rh1 95. Rd5+ Bd4 96. Rb5 Rh2 97.
-Rb4 Bc3 98. Rb5 Kd4 99. Ka4 Kc4 100. Rb4+ Kd3 101. Rb5 Rh8 102. Kb3 Rd8 103.
-Rb7 Bd4 104. Rb5 Rc8 105. Rb4 Rc1 106. Rb5 Bc5 107. Ka4 Kc4 108. Rb4+ Kd5 109.
-Rb2 Ra1+ 110. Kb5 Ra8 111. Rb3 Kd4 112. Rh3 Rb8+ 113. Kc6 Rb6+ 114. Kc7 Rg6
-115. Rh5 Bd6+ 116. Kd7 Be5 117. Rh7 Kd5 118. Rf7 Ra6 119. Re7 Bf6 120. Rf7 Ke5
-121. Ke8 Ke6 122. Re7+ Kf5 123. Rb7 Rd6 124. Rd7 Re6+ 125. Kf7 Ra6 126. Rd5+
-Be5 127. Rd7 Re6 128. Re7 Rh6 129. Rd7 Bd6 130. Kg7 Kg5 131. Kf7 Rf6+ 132. Kg8
-Re6 133. Kf7 Kf5 134. Rb7 Be5 135. Re7 Rh6 136. Rd7 Bd6 1/2-1/2
+1. Nf3 c5 2. c4 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nc3 e6 6. a3 Nge7 7. b4 b6 8.
+Rb1 O-O 9. O-O d5 10. bxc5 bxc5 11. Qa4 Bd7 12. Qa6 Bc8 13. Qa4 Bd7 14. Qa6
+Qa5 15. Qxa5 Nxa5 16. cxd5 exd5 17. Ne1 Bc6 18. Nd3 d4 19. Ne4 c4 20. Nb4
+Rab8 21. d3 f5 22. Bg5 Bxe4 23. dxe4 Rfe8 24. Rfc1 c3 25. e3 h6 26. Bf4
+Rbc8 27. exd4 Bxd4 28. Bxh6 Nc4 29. Nc2 Bb6 30. Rd1 fxe4 31. Bxe4 Nf5 32.
+Bxf5 gxf5 33. Kf1 Kf7 34. h4 Ne5 35. Rb5 Ng4 36. Rxf5+ Ke6 37. Rfd5 Nxf2
+38. Rd6+ Kf7 39. Rd7+ Re7 40. Bg5 Rxd7 41. Rxd7+ Ke6 42. Re7+ Kd5 43. Ke2
+Ng4 44. Bf4 Kc4 45. Kf3 Nf6 46. g4 Nd5 47. Re4+ Kb3 48. Nb4 Nxf4 49. Rxf4
+a5 50. Nd3 c2 51. Rf6 Bd4 52. Rd6 Kc3 53. Nc1 Bc5 54. Rd5 Rf8+ 55. Kg3 Bf2+
+56. Kh3 Be3 57. Ne2+ Kb2 58. Rb5+ Ka2 59. g5 Rf2 60. g6 Bh6 61. Re5 Kxa3
+62. Nc1 Rf1 63. Rxa5+ Kb4 64. Ra1 Kb5 65. Kg2 Rd1 66. Kf3 Kc6 67. h5 Kd6
+68. Ra6+ Ke5 69. Ra5+ Kf6 70. Ra6+ Kg5 71. Ra5+ Kh4 72. Rc5 Rxc1 73. Ke2
+Kg4 74. Rc4+ Kxh5 75. Kd3 Kxg6 76. Rxc2 Rg1 77. Rc5 Bg7 78. Ke4 Re1+ 79.
+Kd3 Kf6 80. Ra5 Ke6 81. Ra6+ Kf5 82. Ra5+ Be5 83. Ra4 Rd1+ 84. Ke3 Rc1 85.
+Kd2 Rc3 86. Rb4 Rh3 87. Ra4 Ke6 88. Ke2 Kd5 89. Kd2 Bd4 90. Kc2 Ke4 91. Rc4
+Rh2+ 92. Kb3 Kd3 93. Rb4 Bc3 94. Rb5 Rh1 95. Rd5+ Bd4 96. Rb5 Rh2 97. Rb4
+Bc3 98. Rb5 Kd4 99. Ka4 Kc4 100. Rb4+ Kd3 101. Rb5 Rh8 102. Kb3 Rd8 103.
+Rb7 Bd4 104. Rb5 Rc8 105. Rb4 Rc1 106. Rb5 Bc5 107. Ka4 Kc4 108. Rb4+ Kd5
+109. Rb2 Ra1+ 110. Kb5 Ra8 111. Rb3 Kd4 112. Rh3 Rb8+ 113. Kc6 Rb6+ 114.
+Kc7 Rg6 115. Rh5 Bd6+ 116. Kd7 Be5 117. Rh7 Kd5 118. Rf7 Ra6 119. Re7 Bf6
+120. Rf7 Ke5 121. Ke8 Ke6 122. Re7+ Kf5 123. Rb7 Rd6 124. Rd7 Re6+ 125. Kf7
+Ra6 126. Rd5+ Be5 127. Rd7 Re6 128. Re7 Rh6 129. Rd7 Bd6 130. Kg7 Kg5 131.
+Kf7 Rf6+ 132. Kg8 Re6 133. Kf7 Kf5 134. Rb7 Be5 135. Re7 Rh6 136. Rd7 Bd6
+1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -510,21 +518,22 @@ Re6 133. Kf7 Kf5 134. Rb7 Be5 135. Re7 Rh6 136. Rd7 Bd6 1/2-1/2
 [White "Topalov, Veselin"]
 [Black "Mamedyarov, Shakhriyar"]
 [Result "1/2-1/2"]
-[ECO "E94"]
 [WhiteElo "2780"]
 [BlackElo "2760"]
-[PlyCount "62"]
+[ECO "E94"]
 [EventDate "2008.??.??"]
+[PlyCount "62"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Nf3 e5 7. O-O exd4 8. Nxd4
-Re8 9. f3 Nc6 10. Be3 Nh5 11. Qd2 Nf4 12. Rfd1 Nxd4 13. Bxd4 Bxd4+ 14. Qxd4
-Nxe2+ 15. Nxe2 b6 16. Nc3 Bb7 17. Nd5 Bxd5 18. cxd5 Qg5 19. Rac1 Re7 20. Rc3 f5
-21. exf5 Qxf5 22. h3 Rf8 23. b4 Qg5 24. Qg4 Qe5 25. Rc4 Qe3+ 26. Kh2 Qe2 27.
-Rdc1 Qxa2 28. Rxc7 Rxc7 29. Rxc7 Qxd5 30. Rxa7 Qe5+ 31. Qg3 Rf4 1/2-1/2
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Nf3 e5 7. O-O exd4 8.
+Nxd4 Re8 9. f3 Nc6 10. Be3 Nh5 11. Qd2 Nf4 12. Rfd1 Nxd4 13. Bxd4 Bxd4+ 14.
+Qxd4 Nxe2+ 15. Nxe2 b6 16. Nc3 Bb7 17. Nd5 Bxd5 18. cxd5 Qg5 19. Rac1 Re7
+20. Rc3 f5 21. exf5 Qxf5 22. h3 Rf8 23. b4 Qg5 24. Qg4 Qe5 25. Rc4 Qe3+ 26.
+Kh2 Qe2 27. Rdc1 Qxa2 28. Rxc7 Rxc7 29. Rxc7 Qxd5 30. Rxa7 Qe5+ 31. Qg3 Rf4
+1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -533,24 +542,24 @@ Rdc1 Qxa2 28. Rxc7 Rxc7 29. Rxc7 Qxd5 30. Rxa7 Qe5+ 31. Qg3 Rf4 1/2-1/2
 [White "Morozevich, Alexander"]
 [Black "Kramnik, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "A03"]
 [WhiteElo "2765"]
 [BlackElo "2799"]
-[PlyCount "95"]
+[ECO "A03"]
 [EventDate "2008.??.??"]
+[PlyCount "95"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. b3 d5 2. Bb2 Nf6 3. e3 c5 4. f4 g6 5. Bb5+ Bd7 6. Bxd7+ Nbxd7 7. c4 dxc4 8.
-bxc4 Bg7 9. Nf3 O-O 10. O-O a6 11. a4 Nb8 12. Nc3 Nc6 13. Rb1 Qd3 14. Ba3 Qxc4
-15. Rxb7 Nd5 16. Qe2 Qxe2 17. Nxe2 Na5 18. Rd7 Rfd8 19. Rxd8+ Rxd8 20. Bxc5 Rc8
-21. Ba3 Rc4 22. Rc1 Rxa4 23. Rc8+ Bf8 24. Bb2 Ra2 25. Nc3 Rxb2 26. Nxd5 Kg7 27.
-Kf2 Nb3 28. Ke2 a5 29. Nc7 a4 30. Ra8 Ra2 31. g4 a3 32. g5 Nc1+ 33. Kd1 Nd3 34.
-Nd4 Nf2+ 35. Ke2 Ne4 36. Nf3 Ra1 37. Ne5 a2 38. Ne8+ Kg8 39. Nd7 Rc1 40. Nef6+
-exf6 41. gxf6 h5 42. Rxf8+ Kh7 43. Rxf7+ Kh6 44. Nf8 Re1+ 45. Kf3 Nxf6 46. Rxf6
-Kg7 47. Ra6 a1=Q 48. Rxa1 1/2-1/2
+1. b3 d5 2. Bb2 Nf6 3. e3 c5 4. f4 g6 5. Bb5+ Bd7 6. Bxd7+ Nbxd7 7. c4 dxc4
+8. bxc4 Bg7 9. Nf3 O-O 10. O-O a6 11. a4 Nb8 12. Nc3 Nc6 13. Rb1 Qd3 14.
+Ba3 Qxc4 15. Rxb7 Nd5 16. Qe2 Qxe2 17. Nxe2 Na5 18. Rd7 Rfd8 19. Rxd8+ Rxd8
+20. Bxc5 Rc8 21. Ba3 Rc4 22. Rc1 Rxa4 23. Rc8+ Bf8 24. Bb2 Ra2 25. Nc3 Rxb2
+26. Nxd5 Kg7 27. Kf2 Nb3 28. Ke2 a5 29. Nc7 a4 30. Ra8 Ra2 31. g4 a3 32. g5
+Nc1+ 33. Kd1 Nd3 34. Nd4 Nf2+ 35. Ke2 Ne4 36. Nf3 Ra1 37. Ne5 a2 38. Ne8+
+Kg8 39. Nd7 Rc1 40. Nef6+ exf6 41. gxf6 h5 42. Rxf8+ Kh7 43. Rxf7+ Kh6 44.
+Nf8 Re1+ 45. Kf3 Nxf6 46. Rxf6 Kg7 47. Ra6 a1=Q 48. Rxa1 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -559,21 +568,21 @@ Kg7 47. Ra6 a1=Q 48. Rxa1 1/2-1/2
 [White "Leko, Peter"]
 [Black "Anand, Viswanathan"]
 [Result "1-0"]
-[ECO "B81"]
 [WhiteElo "2753"]
 [BlackElo "2799"]
-[PlyCount "55"]
+[ECO "B81"]
 [EventDate "2008.??.??"]
+[PlyCount "55"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 e5 8. Nf5
-g6 9. g5 gxf5 10. exf5 d5 11. Qf3 d4 12. O-O-O Nbd7 13. Bc4 Qc7 14. Bxd4 exd4
-15. Rhe1+ Kd8 16. Rxd4 Bc5 17. Rdd1 Re8 18. gxf6 Rxe1 19. Rxe1 Nxf6 20. Rd1+
-Bd7 21. Bxf7 Qxh2 22. Nd5 Rc8 23. Be6 Bxf2 24. c3 Rc7 25. Nxf6 Qh6+ 26. Kb1
-Qxf6 27. Qxf2 Ke8 28. Qg3 1-0
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 e5 8.
+Nf5 g6 9. g5 gxf5 10. exf5 d5 11. Qf3 d4 12. O-O-O Nbd7 13. Bc4 Qc7 14.
+Bxd4 exd4 15. Rhe1+ Kd8 16. Rxd4 Bc5 17. Rdd1 Re8 18. gxf6 Rxe1 19. Rxe1
+Nxf6 20. Rd1+ Bd7 21. Bxf7 Qxh2 22. Nd5 Rc8 23. Be6 Bxf2 24. c3 Rc7 25.
+Nxf6 Qh6+ 26. Kb1 Qxf6 27. Qxf2 Ke8 28. Qg3 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -582,24 +591,25 @@ Qxf6 27. Qxf2 Ke8 28. Qg3 1-0
 [White "Ivanchuk, Vassily"]
 [Black "Karjakin, Sergey"]
 [Result "1-0"]
-[ECO "B87"]
 [WhiteElo "2751"]
 [BlackElo "2732"]
-[PlyCount "97"]
+[ECO "B87"]
 [EventDate "2008.??.??"]
+[PlyCount "97"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Bg5
-Be7 9. Qf3 Qc7 10. e5 Bb7 11. exd6 Bxd6 12. Qe3 Bc5 13. O-O-O Nc6 14. Qxe6+
-fxe6 15. Nxe6 Qe5 16. Nxg7+ Kf8 17. Ne6+ Kf7 18. Rhe1 Qxe1 19. Nxc5+ Kg6 20.
-Rxe1 Kxg5 21. Nxb7 Nd4 22. Nd6 Rhf8 23. f3 b4 24. Nce4+ Nxe4 25. Rxe4 Nxb3+ 26.
-axb3 a5 27. Rg4+ Kf6 28. Ne4+ Ke5 29. Rh4 a4 30. bxa4 Rxa4 31. Nc5 Ra1+ 32. Kd2
-Rg8 33. g3 Rf1 34. Ke2 Rb1 35. Rxb4 Kd5 36. Ne4 Kc6 37. h4 Rh1 38. Rc4+ Kb6 39.
-b4 Rd8 40. Rc5 Ra8 41. c3 Ra2+ 42. Ke3 Re1+ 43. Kf4 Rf1 44. Rh5 Ra8 45. Rh6+
-Kb5 46. Nd6+ Ka4 47. Rxh7 Kb3 48. Rc7 Rd8 49. Nf5 1-0
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8.
+Bg5 Be7 9. Qf3 Qc7 10. e5 Bb7 11. exd6 Bxd6 12. Qe3 Bc5 13. O-O-O Nc6 14.
+Qxe6+ fxe6 15. Nxe6 Qe5 16. Nxg7+ Kf8 17. Ne6+ Kf7 18. Rhe1 Qxe1 19. Nxc5+
+Kg6 20. Rxe1 Kxg5 21. Nxb7 Nd4 22. Nd6 Rhf8 23. f3 b4 24. Nce4+ Nxe4 25.
+Rxe4 Nxb3+ 26. axb3 a5 27. Rg4+ Kf6 28. Ne4+ Ke5 29. Rh4 a4 30. bxa4 Rxa4
+31. Nc5 Ra1+ 32. Kd2 Rg8 33. g3 Rf1 34. Ke2 Rb1 35. Rxb4 Kd5 36. Ne4 Kc6
+37. h4 Rh1 38. Rc4+ Kb6 39. b4 Rd8 40. Rc5 Ra8 41. c3 Ra2+ 42. Ke3 Re1+ 43.
+Kf4 Rf1 44. Rh5 Ra8 45. Rh6+ Kb5 46. Nd6+ Ka4 47. Rxh7 Kb3 48. Rc7 Rd8 49.
+Nf5 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -608,28 +618,23 @@ Kb5 46. Nd6+ Ka4 47. Rxh7 Kb3 48. Rc7 Rd8 49. Nf5 1-0
 [White "Carlsen, Magnus"]
 [Black "Aronian, Levon"]
 [Result "0-1"]
-[ECO "C67"]
 [WhiteElo "2733"]
 [BlackElo "2739"]
-[PlyCount "85"]
+[ECO "C67"]
 [EventDate "2008.??.??"]
+[PlyCount "85"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
-8. Qxd8+ Kxd8 9. Nc3 Bd7 10. b3 Be7 11. Bb2 Kc8 12. Rad1 h6 13. g4 Nh4 14. Nxh4
-Bxh4 15. h3 h5 16. f3 Be7 17. Ne4 Be6 18. Ng3 g6 19. Ne2 a5 20. Nf4 a4 21. Nxe6
-fxe6 22. Kg2 b5 23. f4 hxg4 24. hxg4 axb3 25. axb3 Rh4 26. Kg3 Ra2 27. Rb1 Kb7
-28. Rf2 Rh8 29. Rh2 Rxh2 30. Kxh2 c5 31. Kg3 Kc6 32. c4 bxc4 33. bxc4 Ra4 34.
-Rc1 Rb4 35. Rc2 Rb3+ 36. Bc3 Rb1 37. Bd2 Rg1+ 38. Kf3 Bh4 39. g5 Rg3+ 40. Ke4
-Rg2 41. Kd3 Bg3 42. Rc3 Bf2 43. Ra3 {The game saw a peculiar finish when on
-move 43 Carlsen played his rook to a3 only to realize that this move would
-drop the rook. He "corrected" his mistake by playing the rook to c1, but
-Aronian didn't accept this change and claimed that his opponent had released
-the rook. The arbiter checked the video of the game (all rapid games are taped)
-, confirmed Aronian's version and Carlsen resigned immediately.} 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5
+Nf5 8. Qxd8+ Kxd8 9. Nc3 Bd7 10. b3 Be7 11. Bb2 Kc8 12. Rad1 h6 13. g4 Nh4
+14. Nxh4 Bxh4 15. h3 h5 16. f3 Be7 17. Ne4 Be6 18. Ng3 g6 19. Ne2 a5 20.
+Nf4 a4 21. Nxe6 fxe6 22. Kg2 b5 23. f4 hxg4 24. hxg4 axb3 25. axb3 Rh4 26.
+Kg3 Ra2 27. Rb1 Kb7 28. Rf2 Rh8 29. Rh2 Rxh2 30. Kxh2 c5 31. Kg3 Kc6 32. c4
+bxc4 33. bxc4 Ra4 34. Rc1 Rb4 35. Rc2 Rb3+ 36. Bc3 Rb1 37. Bd2 Rg1+ 38. Kf3
+Bh4 39. g5 Rg3+ 40. Ke4 Rg2 41. Kd3 Bg3 42. Rc3 Bf2 43. Ra3 0-1
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -638,24 +643,25 @@ the rook. The arbiter checked the video of the game (all rapid games are taped)
 [White "Mamedyarov, Shakhriyar"]
 [Black "Leko, Peter"]
 [Result "1/2-1/2"]
-[ECO "E12"]
 [WhiteElo "2760"]
 [BlackElo "2753"]
-[PlyCount "97"]
+[ECO "E12"]
 [EventDate "2008.??.??"]
+[PlyCount "97"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. e3 c5 8. Bb5+
-Bc6 9. Bd3 cxd4 10. Nxd4 Nxc3 11. bxc3 Bb7 12. Bb2 Nd7 13. Qg4 a6 14. Bc2 Nf6
-15. Qe2 Bd6 16. O-O O-O 17. c4 Qc7 18. f4 Rac8 19. Rac1 Be4 20. Bxe4 Nxe4 21.
-Rf3 Qe7 22. Ra1 f5 23. Rff1 Rc7 24. a4 Rfc8 25. a5 Rb7 26. Ra2 Bb4 27. axb6
-Rxb6 28. Ba1 Bc3 29. c5 Qxc5 30. Rxa6 Bxa1 31. Raxa1 Qc4 32. Ra8 Qc7 33. Qa2
-Rxa8 34. Qxa8+ Kf7 35. g4 Qb7 36. Qxb7+ Rxb7 37. gxf5 exf5 38. Nxf5 Rb3 39. Re1
-g5 40. Ng3 Nd2 41. Re2 Nc4 42. Kf2 gxf4 43. exf4 Nb2 44. Rd2 Nd3+ 45. Kf3 Ne5+
-46. Ke4 Ng4 47. Kf5 Nxh2 48. Ne2 Rb5+ 49. Ke4 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. e3 c5 8.
+Bb5+ Bc6 9. Bd3 cxd4 10. Nxd4 Nxc3 11. bxc3 Bb7 12. Bb2 Nd7 13. Qg4 a6 14.
+Bc2 Nf6 15. Qe2 Bd6 16. O-O O-O 17. c4 Qc7 18. f4 Rac8 19. Rac1 Be4 20.
+Bxe4 Nxe4 21. Rf3 Qe7 22. Ra1 f5 23. Rff1 Rc7 24. a4 Rfc8 25. a5 Rb7 26.
+Ra2 Bb4 27. axb6 Rxb6 28. Ba1 Bc3 29. c5 Qxc5 30. Rxa6 Bxa1 31. Raxa1 Qc4
+32. Ra8 Qc7 33. Qa2 Rxa8 34. Qxa8+ Kf7 35. g4 Qb7 36. Qxb7+ Rxb7 37. gxf5
+exf5 38. Nxf5 Rb3 39. Re1 g5 40. Ng3 Nd2 41. Re2 Nc4 42. Kf2 gxf4 43. exf4
+Nb2 44. Rd2 Nd3+ 45. Kf3 Ne5+ 46. Ke4 Ng4 47. Kf5 Nxh2 48. Ne2 Rb5+ 49. Ke4
+1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -664,70 +670,71 @@ g5 40. Ng3 Nd2 41. Re2 Nc4 42. Kf2 gxf4 43. exf4 Nb2 44. Rd2 Nd3+ 45. Kf3 Ne5+
 [White "Kramnik, Vladimir"]
 [Black "Topalov, Veselin"]
 [Result "1-0"]
-[ECO "E94"]
 [WhiteElo "2799"]
 [BlackElo "2780"]
-[PlyCount "65"]
+[ECO "E94"]
 [EventDate "2008.??.??"]
+[PlyCount "65"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Na6 8. Be3
-Ng4 9. Bg5 Qe8 10. Re1 exd4 11. Nd5 d3 12. Bxd3 c6 13. Ne7+ Kh8 14. Nxc8 Rxc8
-15. Bf1 Nc5 16. Qxd6 Nxe4 17. Qa3 f5 18. h3 Ne5 19. Bf4 Nd7 20. Qxa7 Bxb2 21.
-Rab1 Bg7 22. Qxb7 Ndc5 23. Qb6 Rf7 24. Ng5 Rb7 25. Qxb7 Nxb7 26. Rxb7 Kg8 27.
-c5 h6 28. Bc4+ Kh8 29. Be5 hxg5 30. Bxg7+ Kh7 31. Bf8+ Kh8 32. Be7 Rb8 33. Rxe4
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Na6 8.
+Be3 Ng4 9. Bg5 Qe8 10. Re1 exd4 11. Nd5 d3 12. Bxd3 c6 13. Ne7+ Kh8 14.
+Nxc8 Rxc8 15. Bf1 Nc5 16. Qxd6 Nxe4 17. Qa3 f5 18. h3 Ne5 19. Bf4 Nd7 20.
+Qxa7 Bxb2 21. Rab1 Bg7 22. Qxb7 Ndc5 23. Qb6 Rf7 24. Ng5 Rb7 25. Qxb7 Nxb7
+26. Rxb7 Kg8 27. c5 h6 28. Bc4+ Kh8 29. Be5 hxg5 30. Bxg7+ Kh7 31. Bf8+ Kh8
+32. Be7 Rb8 33. Rxe4 1-0
+
+[Event "Amber Rapid section"]
+[Site "NICE"]
+[Date "2008.03.20"]
+[Round "5"]
+[White "Karjakin, Sergey"]
+[Black "Van Wely, Loek"]
+[Result "1-0"]
+[WhiteElo "2732"]
+[BlackElo "2681"]
+[ECO "B81"]
+[EventDate "2008.??.??"]
+[PlyCount "51"]
+[EventType "tourn (rapid)"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[EventCategory "21"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 b5 8.
+Bg2 Bb7 9. O-O b4 10. Nd5 exd5 11. exd5 Be7 12. Nc6 Qc7 13. Nxe7 Kxe7 14.
+g5 Nfd7 15. Re1+ Kf8 16. Qe2 Qd8 17. Bf4 Ne5 18. Bxe5 dxe5 19. Qxe5 h6 20.
+Qf4 a5 21. g6 f6 22. Re6 Bc8 23. Re3 Qb6 24. Rae1 Bd7 25. d6 Ra7 26. Qc4
 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
 [Date "2008.03.20"]
 [Round "5"]
-[White "Karjakin, Sergey"]
-[Black "Van Wely, Loek"]
-[Result "1-0"]
-[ECO "B81"]
-[WhiteElo "2732"]
-[BlackElo "2681"]
-[PlyCount "51"]
-[EventDate "2008.??.??"]
-[EventType "tourn (rapid)"]
-[EventRounds "11"]
-[EventCountry "FRA"]
-[EventCategory "21"]
-
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 b5 8. Bg2
-Bb7 9. O-O b4 10. Nd5 exd5 11. exd5 Be7 12. Nc6 Qc7 13. Nxe7 Kxe7 14. g5 Nfd7
-15. Re1+ Kf8 16. Qe2 Qd8 17. Bf4 Ne5 18. Bxe5 dxe5 19. Qxe5 h6 20. Qf4 a5 21.
-g6 f6 22. Re6 Bc8 23. Re3 Qb6 24. Rae1 Bd7 25. d6 Ra7 26. Qc4 1-0
-
-[Event "Amber Rapid section"]
-[Site "NICE"]
-[Date "2008.03.20"]
-[Round "5"]
 [White "Gelfand, Boris"]
 [Black "Carlsen, Magnus"]
 [Result "1/2-1/2"]
-[ECO "E17"]
 [WhiteElo "2737"]
 [BlackElo "2733"]
-[PlyCount "93"]
+[ECO "E17"]
 [EventDate "2008.??.??"]
+[PlyCount "93"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. Qc2 Na6 8. e4
-d5 9. cxd5 Nb4 10. Qb1 Ba6 11. Bf1 Bxf1 12. Kxf1 exd5 13. e5 Ne4 14. Nxe4 dxe4
-15. Qxe4 f5 16. exf6 Bxf6 17. Bf4 Qd7 18. Kg2 Rae8 19. Be5 c5 20. Rad1 c4 21.
-Rd2 Nxa2 22. h4 Nb4 23. Ng5 g6 24. Re2 Nd3 25. Nf3 b5 26. Ra1 Nb4 27. Nh2 a6
-28. Ng4 Bg7 29. Ne3 Nd3 30. f4 Nb4 31. Kh2 Qf7 32. Qg2 Rd8 33. Qe4 Rfe8 34. Qg2
-Rd7 35. Nc2 Nxc2 36. Rxc2 Qe6 37. Re2 Qb6 38. Bxg7 Rxe2 39. Qxe2 Kxg7 40. Qe5+
-Qf6 41. Rxa6 Qxe5 42. dxe5 Rd2+ 43. Kh3 h5 44. Ra7+ Kf8 45. Ra8+ Kf7 46. Ra7+
-Kf8 47. Ra8+ 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. Qc2 Na6 8.
+e4 d5 9. cxd5 Nb4 10. Qb1 Ba6 11. Bf1 Bxf1 12. Kxf1 exd5 13. e5 Ne4 14.
+Nxe4 dxe4 15. Qxe4 f5 16. exf6 Bxf6 17. Bf4 Qd7 18. Kg2 Rae8 19. Be5 c5 20.
+Rad1 c4 21. Rd2 Nxa2 22. h4 Nb4 23. Ng5 g6 24. Re2 Nd3 25. Nf3 b5 26. Ra1
+Nb4 27. Nh2 a6 28. Ng4 Bg7 29. Ne3 Nd3 30. f4 Nb4 31. Kh2 Qf7 32. Qg2 Rd8
+33. Qe4 Rfe8 34. Qg2 Rd7 35. Nc2 Nxc2 36. Rxc2 Qe6 37. Re2 Qb6 38. Bxg7
+Rxe2 39. Qxe2 Kxg7 40. Qe5+ Qf6 41. Rxa6 Qxe5 42. dxe5 Rd2+ 43. Kh3 h5 44.
+Ra7+ Kf8 45. Ra8+ Kf7 46. Ra7+ Kf8 47. Ra8+ 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -736,24 +743,25 @@ Kf8 47. Ra8+ 1/2-1/2
 [White "Aronian, Levon"]
 [Black "Ivanchuk, Vassily"]
 [Result "1-0"]
-[ECO "D37"]
 [WhiteElo "2739"]
 [BlackElo "2751"]
-[PlyCount "103"]
+[ECO "D37"]
 [EventDate "2008.??.??"]
+[PlyCount "103"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Qc2 dxc4 6. e4 Nc6 7. e5 Nb4 8. Qb1
-Nfd5 9. Bxc4 Nb6 10. Bb3 Bd7 11. a3 N4d5 12. O-O Bc6 13. Ne4 Qd7 14. Nc5 Bxc5
-15. dxc5 Na4 16. Qc2 b6 17. cxb6 axb6 18. Be3 Nxe3 19. fxe3 Bxf3 20. Rxf3 O-O
-21. Rd1 Qb5 22. Rd4 Nc5 23. Bc4 Qa4 24. Qf2 Rfd8 25. Bf1 Qe8 26. h4 Qe7 27. Qg3
-Kh8 28. Bb5 f5 29. exf6 gxf6 30. Qf4 f5 31. b4 Rxd4 32. exd4 Ne4 33. Bc6 Rd8
-34. Bxe4 fxe4 35. Qxe4 Qg7 36. Rf4 Rg8 37. a4 h6 38. a5 Qg3 39. Qe5+ Rg7 40.
-Rf8+ Kh7 41. Qe4+ Qg6 42. Qxg6+ Kxg6 43. a6 c6 44. Rb8 b5 45. Rb7 Rg8 46. a7
-Ra8 47. g4 h5 48. g5 Kf5 49. Kf2 Ke4 50. g6 Kxd4 51. g7 Kc3 52. Rb8 1-0
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Qc2 dxc4 6. e4 Nc6 7. e5 Nb4 8.
+Qb1 Nfd5 9. Bxc4 Nb6 10. Bb3 Bd7 11. a3 N4d5 12. O-O Bc6 13. Ne4 Qd7 14.
+Nc5 Bxc5 15. dxc5 Na4 16. Qc2 b6 17. cxb6 axb6 18. Be3 Nxe3 19. fxe3 Bxf3
+20. Rxf3 O-O 21. Rd1 Qb5 22. Rd4 Nc5 23. Bc4 Qa4 24. Qf2 Rfd8 25. Bf1 Qe8
+26. h4 Qe7 27. Qg3 Kh8 28. Bb5 f5 29. exf6 gxf6 30. Qf4 f5 31. b4 Rxd4 32.
+exd4 Ne4 33. Bc6 Rd8 34. Bxe4 fxe4 35. Qxe4 Qg7 36. Rf4 Rg8 37. a4 h6 38.
+a5 Qg3 39. Qe5+ Rg7 40. Rf8+ Kh7 41. Qe4+ Qg6 42. Qxg6+ Kxg6 43. a6 c6 44.
+Rb8 b5 45. Rb7 Rg8 46. a7 Ra8 47. g4 h5 48. g5 Kf5 49. Kf2 Ke4 50. g6 Kxd4
+51. g7 Kc3 52. Rb8 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -762,22 +770,22 @@ Ra8 47. g4 h5 48. g5 Kf5 49. Kf2 Ke4 50. g6 Kxd4 51. g7 Kc3 52. Rb8 1-0
 [White "Anand, Viswanathan"]
 [Black "Morozevich, Alexander"]
 [Result "1-0"]
-[ECO "C14"]
 [WhiteElo "2799"]
 [BlackElo "2765"]
-[PlyCount "69"]
+[ECO "C14"]
 [EventDate "2008.??.??"]
+[PlyCount "69"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8. Nf3
-c5 9. Qd2 Nc6 10. dxc5 Qxc5 11. Bd3 b5 12. a3 Bb7 13. Qf2 b4 14. Ne2 bxa3 15.
-Qxc5 Nxc5 16. Rxa3 Nb4 17. Ned4 Ke7 18. Kd2 Rhc8 19. Rha1 Rab8 20. Be2 Ne4+ 21.
-Kc1 Nc5 22. Kd2 Ne4+ 23. Kd1 h6 24. Rb3 Ba8 25. Bxa6 Rg8 26. Bb5 g5 27. Rxb4
-gxf4 28. Rba4 Bb7 29. Ra7 Kf8 30. Bf1 Kg7 31. R1a3 Bc8 32. Kc1 Rb4 33. Rc7 Rb6
-34. Rb3 Rxb3 35. cxb3 1-0
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 a6 8.
+Nf3 c5 9. Qd2 Nc6 10. dxc5 Qxc5 11. Bd3 b5 12. a3 Bb7 13. Qf2 b4 14. Ne2
+bxa3 15. Qxc5 Nxc5 16. Rxa3 Nb4 17. Ned4 Ke7 18. Kd2 Rhc8 19. Rha1 Rab8 20.
+Be2 Ne4+ 21. Kc1 Nc5 22. Kd2 Ne4+ 23. Kd1 h6 24. Rb3 Ba8 25. Bxa6 Rg8 26.
+Bb5 g5 27. Rxb4 gxf4 28. Rba4 Bb7 29. Ra7 Kf8 30. Bf1 Kg7 31. R1a3 Bc8 32.
+Kc1 Rb4 33. Rc7 Rb6 34. Rb3 Rxb3 35. cxb3 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -786,27 +794,28 @@ gxf4 28. Rba4 Bb7 29. Ra7 Kf8 30. Bf1 Kg7 31. R1a3 Bc8 32. Kc1 Rb4 33. Rc7 Rb6
 [White "Topalov, Veselin"]
 [Black "Carlsen, Magnus"]
 [Result "1/2-1/2"]
-[ECO "E00"]
 [WhiteElo "2780"]
 [BlackElo "2733"]
-[PlyCount "138"]
+[ECO "E00"]
 [EventDate "2008.??.??"]
+[PlyCount "138"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Nd2 d5 5. Bg2 O-O 6. Qc2 c5 7. dxc5 Bxc5 8.
-Ngf3 Nc6 9. O-O d4 10. Nb3 Be7 11. Rd1 e5 12. e3 Bg4 13. exd4 e4 14. Ng5 Bxd1
-15. Qxd1 a5 16. a4 Re8 17. Nxe4 Nxe4 18. Bxe4 Bf6 19. Bd5 Rc8 20. Bd2 Bxd4 21.
-Nxd4 Nxd4 22. Bxa5 Qxa5 23. Qxd4 Re1+ 24. Rxe1 Qxe1+ 25. Kg2 Qb4 26. Bxf7+ Kh8
-27. Bd5 Qxa4 28. Qg4 Rf8 29. Bxb7 Qb4 30. Bf3 Qxb2 31. c5 Qc3 32. c6 g6 33. h4
-Qf6 34. h5 gxh5 35. Qxh5 Rf7 36. Qg4 Rf8 37. Qe4 Rf7 38. Qe3 Kg7 39. Be4 Qe5
-40. Qe2 Rc7 41. Qg4+ Kf8 42. Qh4 Qd6 43. Qh5 Qf6 44. Qd5 Kg7 45. g4 h6 46. Kg3
-Qc3+ 47. Kg2 Qf6 48. Bf3 Rf7 49. Qd3 Qf4 50. Qc3+ Kh7 51. Qd3+ Kg7 52. Qe2 Qf6
-53. Bd5 Re7 54. Qc4 Qe5 55. Qd3 Qf6 56. Qg3 Qd4 57. Bf3 Qc5 58. Qb8 Qc3 59. Bd5
-Qc5 60. Qg8+ Kf6 61. Qh8+ Kg6 62. Bf3 Qe5 63. Qg8+ Rg7 64. Qh8 Re7 65. Qf8 Rc7
-66. Qd8 Qe7 67. Qg8+ Kf6 68. Qd5 Kg7 69. Be4 Qf6 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Nd2 d5 5. Bg2 O-O 6. Qc2 c5 7. dxc5 Bxc5
+8. Ngf3 Nc6 9. O-O d4 10. Nb3 Be7 11. Rd1 e5 12. e3 Bg4 13. exd4 e4 14. Ng5
+Bxd1 15. Qxd1 a5 16. a4 Re8 17. Nxe4 Nxe4 18. Bxe4 Bf6 19. Bd5 Rc8 20. Bd2
+Bxd4 21. Nxd4 Nxd4 22. Bxa5 Qxa5 23. Qxd4 Re1+ 24. Rxe1 Qxe1+ 25. Kg2 Qb4
+26. Bxf7+ Kh8 27. Bd5 Qxa4 28. Qg4 Rf8 29. Bxb7 Qb4 30. Bf3 Qxb2 31. c5 Qc3
+32. c6 g6 33. h4 Qf6 34. h5 gxh5 35. Qxh5 Rf7 36. Qg4 Rf8 37. Qe4 Rf7 38.
+Qe3 Kg7 39. Be4 Qe5 40. Qe2 Rc7 41. Qg4+ Kf8 42. Qh4 Qd6 43. Qh5 Qf6 44.
+Qd5 Kg7 45. g4 h6 46. Kg3 Qc3+ 47. Kg2 Qf6 48. Bf3 Rf7 49. Qd3 Qf4 50. Qc3+
+Kh7 51. Qd3+ Kg7 52. Qe2 Qf6 53. Bd5 Re7 54. Qc4 Qe5 55. Qd3 Qf6 56. Qg3
+Qd4 57. Bf3 Qc5 58. Qb8 Qc3 59. Bd5 Qc5 60. Qg8+ Kf6 61. Qh8+ Kg6 62. Bf3
+Qe5 63. Qg8+ Rg7 64. Qh8 Re7 65. Qf8 Rc7 66. Qd8 Qe7 67. Qg8+ Kf6 68. Qd5
+Kg7 69. Be4 Qf6 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -815,20 +824,21 @@ Qc5 60. Qg8+ Kf6 61. Qh8+ Kg6 62. Bf3 Qe5 63. Qg8+ Rg7 64. Qh8 Re7 65. Qf8 Rc7
 [White "Morozevich, Alexander"]
 [Black "Van Wely, Loek"]
 [Result "1/2-1/2"]
-[ECO "D13"]
 [WhiteElo "2765"]
 [BlackElo "2681"]
-[PlyCount "51"]
+[ECO "D13"]
 [EventDate "2008.??.??"]
+[PlyCount "51"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Nc6 6. e3 a6 7. Rc1 Bf5 8. Nf3
-Rc8 9. Be2 e6 10. O-O Bd6 11. Bxd6 Qxd6 12. Na4 Nd7 13. Qb3 Rc7 14. Nc5 Nxc5
-15. Rxc5 O-O 16. Rfc1 Bg4 17. Qb6 Bxf3 18. Bxf3 Rd7 19. Kh1 g6 20. g3 Rb8 21.
-R1c3 Kf8 22. Be2 Ne7 23. Qxd6 Rxd6 24. Rb3 Rc6 25. Kg2 Ke8 26. Rxc6 1/2-1/2
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Nc6 6. e3 a6 7. Rc1 Bf5 8.
+Nf3 Rc8 9. Be2 e6 10. O-O Bd6 11. Bxd6 Qxd6 12. Na4 Nd7 13. Qb3 Rc7 14. Nc5
+Nxc5 15. Rxc5 O-O 16. Rfc1 Bg4 17. Qb6 Bxf3 18. Bxf3 Rd7 19. Kh1 g6 20. g3
+Rb8 21. R1c3 Kf8 22. Be2 Ne7 23. Qxd6 Rxd6 24. Rb3 Rc6 25. Kg2 Ke8 26. Rxc6
+1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -837,20 +847,20 @@ R1c3 Kf8 22. Be2 Ne7 23. Qxd6 Rxd6 24. Rb3 Rc6 25. Kg2 Ke8 26. Rxc6 1/2-1/2
 [White "Mamedyarov, Shakhriyar"]
 [Black "Aronian, Levon"]
 [Result "1/2-1/2"]
-[ECO "D47"]
 [WhiteElo "2760"]
 [BlackElo "2739"]
-[PlyCount "45"]
+[ECO "D47"]
 [EventDate "2008.??.??"]
+[PlyCount "45"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
-Bd6 9. Ng5 Bb7 10. Qf3 h6 11. Nge4 Nxe4 12. Nxe4 Be7 13. O-O O-O 14. Rd1 Qb6
-15. Qg3 c5 16. dxc5 Nxc5 17. Nxc5 Bxc5 18. b4 Bd6 19. Bh7+ Kxh7 20. Rxd6 Qxd6
-21. Qxd6 Rfd8 22. Qd2 Rxd2 23. Bxd2 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 Bd6 9. Ng5 Bb7 10. Qf3 h6 11. Nge4 Nxe4 12. Nxe4 Be7 13. O-O O-O 14.
+Rd1 Qb6 15. Qg3 c5 16. dxc5 Nxc5 17. Nxc5 Bxc5 18. b4 Bd6 19. Bh7+ Kxh7 20.
+Rxd6 Qxd6 21. Qxd6 Rfd8 22. Qd2 Rxd2 23. Bxd2 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -859,20 +869,20 @@ Bd6 9. Ng5 Bb7 10. Qf3 h6 11. Nge4 Nxe4 12. Nxe4 Be7 13. O-O O-O 14. Rd1 Qb6
 [White "Leko, Peter"]
 [Black "Ivanchuk, Vassily"]
 [Result "1/2-1/2"]
-[ECO "C10"]
 [WhiteElo "2753"]
 [BlackElo "2751"]
-[PlyCount "41"]
+[ECO "C10"]
 [EventDate "2008.??.??"]
+[PlyCount "41"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 h6 7. Nxf6+ Nxf6
-8. Be3 Bd6 9. Bd3 b6 10. Qe2 Bb7 11. O-O-O Nd5 12. Bd2 Nf4 13. Bxf4 Bxf4+ 14.
-Kb1 O-O 15. h4 Qd5 16. Rhe1 Rad8 17. Qf1 Qa5 18. Be4 Ba6 19. Bd3 Bb7 20. Be4
-Ba6 21. Bd3 1/2-1/2
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 h6 7. Nxf6+
+Nxf6 8. Be3 Bd6 9. Bd3 b6 10. Qe2 Bb7 11. O-O-O Nd5 12. Bd2 Nf4 13. Bxf4
+Bxf4+ 14. Kb1 O-O 15. h4 Qd5 16. Rhe1 Rad8 17. Qf1 Qa5 18. Be4 Ba6 19. Bd3
+Bb7 20. Be4 Ba6 21. Bd3 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -881,24 +891,25 @@ Ba6 21. Bd3 1/2-1/2
 [White "Kramnik, Vladimir"]
 [Black "Gelfand, Boris"]
 [Result "1/2-1/2"]
-[ECO "A37"]
 [WhiteElo "2799"]
 [BlackElo "2737"]
-[PlyCount "100"]
+[ECO "A37"]
 [EventDate "2008.??.??"]
+[PlyCount "100"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. g3 g6 5. Bg2 Bg7 6. a3 a5 7. O-O Nge7 8. Ne1
-d6 9. Nc2 Be6 10. Ne3 O-O 11. d3 f5 12. Ned5 Kh8 13. Rb1 h6 14. Bd2 Rb8 15. b4
-axb4 16. axb4 Nxb4 17. Nxb4 cxb4 18. Rxb4 d5 19. cxd5 Nxd5 20. Rb5 e4 21. Nxd5
-Bxd5 22. dxe4 Bc4 23. Rc5 b5 24. exf5 Rxf5 25. Rxf5 gxf5 26. Bf4 Qxd1 27. Rxd1
-Re8 28. Bc6 Rxe2 29. Bd7 b4 30. Bxf5 Re8 31. h4 b3 32. Rd6 b2 33. Rb6 h5 34.
-Kh2 Bd5 35. Bg6 Ra8 36. Rb5 Bf3 37. Rb3 Bd5 38. Rb6 Bd4 39. Rd6 Kg7 40. Bb1 Ra1
-41. Bh6+ Kg8 42. Rxd5 Rxb1 43. Rxd4 Re1 44. Rb4 b1=Q 45. Rxb1 Rxb1 46. Kg2 Rb3
-47. Be3 Kf7 48. Kf3 Rb4 49. Bd2 Ra4 50. Ke3 Ke6 1/2-1/2
+1. Nf3 c5 2. c4 Nc6 3. Nc3 e5 4. g3 g6 5. Bg2 Bg7 6. a3 a5 7. O-O Nge7 8.
+Ne1 d6 9. Nc2 Be6 10. Ne3 O-O 11. d3 f5 12. Ned5 Kh8 13. Rb1 h6 14. Bd2 Rb8
+15. b4 axb4 16. axb4 Nxb4 17. Nxb4 cxb4 18. Rxb4 d5 19. cxd5 Nxd5 20. Rb5
+e4 21. Nxd5 Bxd5 22. dxe4 Bc4 23. Rc5 b5 24. exf5 Rxf5 25. Rxf5 gxf5 26.
+Bf4 Qxd1 27. Rxd1 Re8 28. Bc6 Rxe2 29. Bd7 b4 30. Bxf5 Re8 31. h4 b3 32.
+Rd6 b2 33. Rb6 h5 34. Kh2 Bd5 35. Bg6 Ra8 36. Rb5 Bf3 37. Rb3 Bd5 38. Rb6
+Bd4 39. Rd6 Kg7 40. Bb1 Ra1 41. Bh6+ Kg8 42. Rxd5 Rxb1 43. Rxd4 Re1 44. Rb4
+b1=Q 45. Rxb1 Rxb1 46. Kg2 Rb3 47. Be3 Kf7 48. Kf3 Rb4 49. Bd2 Ra4 50. Ke3
+Ke6 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -907,23 +918,23 @@ Kh2 Bd5 35. Bg6 Ra8 36. Rb5 Bf3 37. Rb3 Bd5 38. Rb6 Bd4 39. Rd6 Kg7 40. Bb1 Ra1
 [White "Anand, Viswanathan"]
 [Black "Karjakin, Sergey"]
 [Result "1/2-1/2"]
-[ECO "C95"]
 [WhiteElo "2799"]
 [BlackElo "2732"]
-[PlyCount "83"]
+[ECO "C95"]
 [EventDate "2008.??.??"]
+[PlyCount "83"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
-O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 c6 15.
-b3 Qc7 16. Bb2 g6 17. c4 bxc4 18. bxc4 exd4 19. Bxd4 a5 20. Rb1 Bg7 21. Qd2 Ba6
-22. Bd3 Nc5 23. Bxc5 dxc5 24. e5 Nd7 25. e6 fxe6 26. Qe3 Rad8 27. Ne4 Ne5 28.
-Nxe5 Qxe5 29. Rb6 Bc8 30. Rxc6 Bb7 31. Rxc5 Qd4 32. Qxd4 Rxd4 33. Rc7 Ba8 34.
-Bc2 Rb8 35. g3 a4 36. a3 Be5 37. Rc5 Bg7 38. Kf1 Bf8 39. Rc7 Bxe4 40. Rxe4 Rxe4
-41. Bxe4 Bxa3 42. Ra7 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3
+c6 15. b3 Qc7 16. Bb2 g6 17. c4 bxc4 18. bxc4 exd4 19. Bxd4 a5 20. Rb1 Bg7
+21. Qd2 Ba6 22. Bd3 Nc5 23. Bxc5 dxc5 24. e5 Nd7 25. e6 fxe6 26. Qe3 Rad8
+27. Ne4 Ne5 28. Nxe5 Qxe5 29. Rb6 Bc8 30. Rxc6 Bb7 31. Rxc5 Qd4 32. Qxd4
+Rxd4 33. Rc7 Ba8 34. Bc2 Rb8 35. g3 a4 36. a3 Be5 37. Rc5 Bg7 38. Kf1 Bf8
+39. Rc7 Bxe4 40. Rxe4 Rxe4 41. Bxe4 Bxa3 42. Ra7 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -932,26 +943,27 @@ Bc2 Rb8 35. g3 a4 36. a3 Be5 37. Rc5 Bg7 38. Kf1 Bf8 39. Rc7 Bxe4 40. Rxe4 Rxe4
 [White "Van Wely, Loek"]
 [Black "Kramnik, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "A09"]
 [WhiteElo "2681"]
 [BlackElo "2799"]
-[PlyCount "120"]
+[ECO "A09"]
 [EventDate "2008.??.??"]
+[PlyCount "120"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. Nf3 d5 2. c4 d4 3. b4 f6 4. e3 e5 5. c5 a5 6. Nxe5 fxe5 7. Qh5+ Kd7 8. Qf5+
-Ke8 9. Qh5+ Kd7 10. Qf5+ Ke7 11. Qxe5+ Be6 12. Bc4 Qd7 13. b5 c6 14. Na3 Nf6
-15. Bb2 Kf7 16. Bxd4 cxb5 17. Bxe6+ Qxe6 18. Qxe6+ Kxe6 19. Nxb5 Na6 20. Bxf6
-gxf6 21. d4 b6 22. cxb6 Rb8 23. Rc1 Rxb6 24. a4 Kd7 25. Ke2 Bd6 26. Kf3 Bb8 27.
-h4 Nc7 28. Nc3 f5 29. Ne2 Ne6 30. d5 Nd8 31. Nd4 Nf7 32. Rb1 Ne5+ 33. Ke2 Rb4
-34. Nxf5 Rc8 35. Rxb4 axb4 36. Nd4 Ba7 37. Rb1 Rc4 38. Nf3 Nxf3 39. gxf3 Kd6
-40. e4 Bc5 41. Rb3 Ke5 42. h5 Rc2+ 43. Kd3 Rxf2 44. Kc4 Rc2+ 45. Kb5 Bd6 46. a5
-Rc3 47. Ka4 Kd4 48. a6 Bc5 49. d6 Bxd6 50. Rxc3 bxc3 51. a7 c2 52. a8=Q c1=Q
-53. Qd5+ Ke3 54. Qxd6 Kxf3 55. e5 Qf4+ 56. Kb5 Ke4 57. Qc6+ Kxe5 58. Qc7+ Ke4
-59. Qxh7+ Qf5+ 60. Qxf5+ Kxf5 1/2-1/2
+1. Nf3 d5 2. c4 d4 3. b4 f6 4. e3 e5 5. c5 a5 6. Nxe5 fxe5 7. Qh5+ Kd7 8.
+Qf5+ Ke8 9. Qh5+ Kd7 10. Qf5+ Ke7 11. Qxe5+ Be6 12. Bc4 Qd7 13. b5 c6 14.
+Na3 Nf6 15. Bb2 Kf7 16. Bxd4 cxb5 17. Bxe6+ Qxe6 18. Qxe6+ Kxe6 19. Nxb5
+Na6 20. Bxf6 gxf6 21. d4 b6 22. cxb6 Rb8 23. Rc1 Rxb6 24. a4 Kd7 25. Ke2
+Bd6 26. Kf3 Bb8 27. h4 Nc7 28. Nc3 f5 29. Ne2 Ne6 30. d5 Nd8 31. Nd4 Nf7
+32. Rb1 Ne5+ 33. Ke2 Rb4 34. Nxf5 Rc8 35. Rxb4 axb4 36. Nd4 Ba7 37. Rb1 Rc4
+38. Nf3 Nxf3 39. gxf3 Kd6 40. e4 Bc5 41. Rb3 Ke5 42. h5 Rc2+ 43. Kd3 Rxf2
+44. Kc4 Rc2+ 45. Kb5 Bd6 46. a5 Rc3 47. Ka4 Kd4 48. a6 Bc5 49. d6 Bxd6 50.
+Rxc3 bxc3 51. a7 c2 52. a8=Q c1=Q 53. Qd5+ Ke3 54. Qxd6 Kxf3 55. e5 Qf4+
+56. Kb5 Ke4 57. Qc6+ Kxe5 58. Qc7+ Ke4 59. Qxh7+ Qf5+ 60. Qxf5+ Kxf5
+1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -960,22 +972,23 @@ Rc3 47. Ka4 Kd4 48. a6 Bc5 49. d6 Bxd6 50. Rxc3 bxc3 51. a7 c2 52. a8=Q c1=Q
 [White "Karjakin, Sergey"]
 [Black "Mamedyarov, Shakhriyar"]
 [Result "1/2-1/2"]
-[ECO "B09"]
 [WhiteElo "2732"]
 [BlackElo "2760"]
-[PlyCount "71"]
+[ECO "B09"]
 [EventDate "2008.??.??"]
+[PlyCount "71"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8. e6
-Bxb5 9. exf7+ Kf8 10. Nxb5 Qa5+ 11. Nc3 cxd4 12. Nxd4 Kxf7 13. O-O Qc5 14. Qxg4
-Bxd4+ 15. Kh1 Bxc3 16. bxc3 Qf5 17. Qe2 Nd7 18. Rb1 b6 19. Be3 Rhe8 20. Rb5 Nc5
-21. a4 Kg8 22. a5 Rab8 23. axb6 axb6 24. h3 Qe6 25. Re1 Ne4 26. Qf3 Qc4 27. Rb3
-Nxc3 28. f5 Nd5 29. Bh6 Nf6 30. Rc3 Qd5 31. fxg6 Qxf3 32. Rxf3 hxg6 33. Bg5 Kg7
-34. Rxe7+ Rxe7 35. Bxf6+ Kf7 36. Bxe7+ 1/2-1/2
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5 6. Bb5+ Bd7 7. e5 Ng4 8.
+e6 Bxb5 9. exf7+ Kf8 10. Nxb5 Qa5+ 11. Nc3 cxd4 12. Nxd4 Kxf7 13. O-O Qc5
+14. Qxg4 Bxd4+ 15. Kh1 Bxc3 16. bxc3 Qf5 17. Qe2 Nd7 18. Rb1 b6 19. Be3
+Rhe8 20. Rb5 Nc5 21. a4 Kg8 22. a5 Rab8 23. axb6 axb6 24. h3 Qe6 25. Re1
+Ne4 26. Qf3 Qc4 27. Rb3 Nxc3 28. f5 Nd5 29. Bh6 Nf6 30. Rc3 Qd5 31. fxg6
+Qxf3 32. Rxf3 hxg6 33. Bg5 Kg7 34. Rxe7+ Rxe7 35. Bxf6+ Kf7 36. Bxe7+
+1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -984,25 +997,25 @@ Nxc3 28. f5 Nd5 29. Bh6 Nf6 30. Rc3 Qd5 31. fxg6 Qxf3 32. Rxf3 hxg6 33. Bg5 Kg7
 [White "Ivanchuk, Vassily"]
 [Black "Morozevich, Alexander"]
 [Result "1/2-1/2"]
-[ECO "B81"]
 [WhiteElo "2751"]
 [BlackElo "2765"]
-[PlyCount "105"]
+[ECO "B81"]
 [EventDate "2008.??.??"]
+[PlyCount "105"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. Rg1 Be7 8. Be3
-a6 9. h4 d5 10. exd5 Nxd5 11. Nxd5 Qxd5 12. Bg2 Qa5+ 13. c3 Nd7 14. Qe2 Bxh4
-15. Rh1 Be7 16. Rh5 g5 17. O-O-O Nf6 18. Rh3 Bd7 19. Kb1 O-O-O 20. Rdh1 Nd5 21.
-Rxh6 Rxh6 22. Rxh6 Nxe3 23. fxe3 Qb6 24. Be4 Kb8 25. Qf3 Be8 26. Rh8 e5 27. Nb3
-Qb5 28. Rh2 a5 29. Rd2 a4 30. Rxd8+ Bxd8 31. Nd2 f6 32. Qf1 Qxf1+ 33. Nxf1 Bd7
-34. Bf5 Bxf5+ 35. gxf5 Kc7 36. Nh2 e4 37. Ng4 Kd6 38. Kc2 Kd5 39. b3 b5 40. Kd2
-axb3 41. axb3 Be7 42. Ke2 Bd8 43. Ke1 Be7 44. Kf2 Bd8 45. Kg3 Be7 46. Kh3 Bd8
-47. Kg2 Be7 48. Kf2 Bd8 49. Ke2 Be7 50. Kd2 Bd8 51. Kc2 Be7 52. Kb2 Bd8 53. Kc2
-1/2-1/2
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 h6 7. Rg1 Be7 8.
+Be3 a6 9. h4 d5 10. exd5 Nxd5 11. Nxd5 Qxd5 12. Bg2 Qa5+ 13. c3 Nd7 14. Qe2
+Bxh4 15. Rh1 Be7 16. Rh5 g5 17. O-O-O Nf6 18. Rh3 Bd7 19. Kb1 O-O-O 20.
+Rdh1 Nd5 21. Rxh6 Rxh6 22. Rxh6 Nxe3 23. fxe3 Qb6 24. Be4 Kb8 25. Qf3 Be8
+26. Rh8 e5 27. Nb3 Qb5 28. Rh2 a5 29. Rd2 a4 30. Rxd8+ Bxd8 31. Nd2 f6 32.
+Qf1 Qxf1+ 33. Nxf1 Bd7 34. Bf5 Bxf5+ 35. gxf5 Kc7 36. Nh2 e4 37. Ng4 Kd6
+38. Kc2 Kd5 39. b3 b5 40. Kd2 axb3 41. axb3 Be7 42. Ke2 Bd8 43. Ke1 Be7 44.
+Kf2 Bd8 45. Kg3 Be7 46. Kh3 Bd8 47. Kg2 Be7 48. Kf2 Bd8 49. Ke2 Be7 50. Kd2
+Bd8 51. Kc2 Be7 52. Kb2 Bd8 53. Kc2 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1011,23 +1024,23 @@ axb3 41. axb3 Be7 42. Ke2 Bd8 43. Ke1 Be7 44. Kf2 Bd8 45. Kg3 Be7 46. Kh3 Bd8
 [White "Gelfand, Boris"]
 [Black "Leko, Peter"]
 [Result "1/2-1/2"]
-[ECO "E15"]
 [WhiteElo "2737"]
 [BlackElo "2753"]
-[PlyCount "80"]
+[ECO "E15"]
 [EventDate "2008.??.??"]
+[PlyCount "80"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O
-d5 9. Qc2 Nbd7 10. Rd1 O-O 11. a4 c5 12. Na3 Bb7 13. Qb2 Rc8 14. Rac1 Ne4 15.
-Be1 Bf6 16. b4 Qc7 17. bxc5 bxc5 18. Rb1 Bc6 19. Nb5 Bxb5 20. cxb5 c4 21. Bb4
-Rfe8 22. Qc2 Be7 23. Bxe7 Rxe7 24. Ne5 Nxe5 25. dxe5 Qxe5 26. Bxe4 Qxe4 27.
-Qxe4 dxe4 28. Rbc1 f5 29. Rc3 Kf7 30. f3 exf3 31. exf3 Rec7 32. Kf2 Ke7 33. f4
-Rc5 34. Rd4 R8c7 35. Kf3 h6 36. h4 g6 37. Ke3 Rc8 38. Kf3 R8c7 39. Ke3 Rc8 40.
-Kf3 R8c7 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8.
+O-O d5 9. Qc2 Nbd7 10. Rd1 O-O 11. a4 c5 12. Na3 Bb7 13. Qb2 Rc8 14. Rac1
+Ne4 15. Be1 Bf6 16. b4 Qc7 17. bxc5 bxc5 18. Rb1 Bc6 19. Nb5 Bxb5 20. cxb5
+c4 21. Bb4 Rfe8 22. Qc2 Be7 23. Bxe7 Rxe7 24. Ne5 Nxe5 25. dxe5 Qxe5 26.
+Bxe4 Qxe4 27. Qxe4 dxe4 28. Rbc1 f5 29. Rc3 Kf7 30. f3 exf3 31. exf3 Rec7
+32. Kf2 Ke7 33. f4 Rc5 34. Rd4 R8c7 35. Kf3 h6 36. h4 g6 37. Ke3 Rc8 38.
+Kf3 R8c7 39. Ke3 Rc8 40. Kf3 R8c7 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1036,24 +1049,24 @@ Kf3 R8c7 1/2-1/2
 [White "Carlsen, Magnus"]
 [Black "Anand, Viswanathan"]
 [Result "1-0"]
-[ECO "A20"]
 [WhiteElo "2733"]
 [BlackElo "2799"]
-[PlyCount "95"]
+[ECO "A20"]
 [EventDate "2008.??.??"]
+[PlyCount "95"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. c4 e5 2. g3 c6 3. d4 e4 4. d5 Nf6 5. Bg2 Bb4+ 6. Bd2 Qe7 7. Nc3 O-O 8. a3
-Bc5 9. e3 d6 10. Nge2 cxd5 11. Nxd5 Nxd5 12. cxd5 Nd7 13. O-O Nf6 14. Bc3 Bg4
-15. Bxf6 Qxf6 16. b4 Bb6 17. Bxe4 a5 18. bxa5 Rxa5 19. Bxh7+ Kxh7 20. Qb1+ g6
-21. Qxb6 Rfa8 22. Qd4 Qf3 23. Nc3 Re8 24. h3 Bf5 25. Qf6 Kg8 26. Rab1 Rxe3 27.
-Rxb7 Bc8 28. Qd8+ Kg7 29. Qxc8 Rxc3 30. Rxf7+ Kxf7 31. Qd7+ Kf6 32. Qd8+ Kf5
-33. Qxa5 Rxa3 34. Qb4 Ke5 35. Qd2 Rd3 36. Qg5+ Qf5 37. Re1+ Kxd5 38. Qxf5+ gxf5
-39. Kg2 Ra3 40. h4 Kd4 41. h5 d5 42. h6 Ra7 43. Kf3 Rh7 44. Re6 Kc3 45. Rc6+
-Kd3 46. Kf4 Rf7 47. Kg5 Ke2 48. Rd6 1-0
+1. c4 e5 2. g3 c6 3. d4 e4 4. d5 Nf6 5. Bg2 Bb4+ 6. Bd2 Qe7 7. Nc3 O-O 8.
+a3 Bc5 9. e3 d6 10. Nge2 cxd5 11. Nxd5 Nxd5 12. cxd5 Nd7 13. O-O Nf6 14.
+Bc3 Bg4 15. Bxf6 Qxf6 16. b4 Bb6 17. Bxe4 a5 18. bxa5 Rxa5 19. Bxh7+ Kxh7
+20. Qb1+ g6 21. Qxb6 Rfa8 22. Qd4 Qf3 23. Nc3 Re8 24. h3 Bf5 25. Qf6 Kg8
+26. Rab1 Rxe3 27. Rxb7 Bc8 28. Qd8+ Kg7 29. Qxc8 Rxc3 30. Rxf7+ Kxf7 31.
+Qd7+ Kf6 32. Qd8+ Kf5 33. Qxa5 Rxa3 34. Qb4 Ke5 35. Qd2 Rd3 36. Qg5+ Qf5
+37. Re1+ Kxd5 38. Qxf5+ gxf5 39. Kg2 Ra3 40. h4 Kd4 41. h5 d5 42. h6 Ra7
+43. Kf3 Rh7 44. Re6 Kc3 45. Rc6+ Kd3 46. Kf4 Rf7 47. Kg5 Ke2 48. Rd6 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1062,22 +1075,22 @@ Kd3 46. Kf4 Rf7 47. Kg5 Ke2 48. Rd6 1-0
 [White "Aronian, Levon"]
 [Black "Topalov, Veselin"]
 [Result "1-0"]
-[ECO "D45"]
 [WhiteElo "2739"]
 [BlackElo "2780"]
-[PlyCount "69"]
+[ECO "D45"]
 [EventDate "2008.??.??"]
+[PlyCount "69"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. g4 h6 8. Rg1 e5
-9. cxd5 cxd5 10. Bd2 e4 11. Nb5 Bb8 12. Nh4 a6 13. Nf5 O-O 14. Nbd6 Bxd6 15.
-Nxd6 Nb8 16. Qxc8 Qxd6 17. Qf5 g6 18. Qe5 Qb6 19. Qf4 g5 20. Qf5 Qxb2 21. Rd1
-Ne8 22. Qxd5 Nc6 23. Bc4 Nf6 24. Qc5 Kg7 25. Bb3 Nd7 26. Qf5 Rad8 27. h4 Ne7
-28. Qxe4 Ng6 29. hxg5 hxg5 30. Qxb7 Nf6 31. Qxa6 Nh4 32. Qa5 Nf3+ 33. Ke2 Nxg1+
-34. Rxg1 Nh7 35. Rh1 1-0
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. g4 h6 8.
+Rg1 e5 9. cxd5 cxd5 10. Bd2 e4 11. Nb5 Bb8 12. Nh4 a6 13. Nf5 O-O 14. Nbd6
+Bxd6 15. Nxd6 Nb8 16. Qxc8 Qxd6 17. Qf5 g6 18. Qe5 Qb6 19. Qf4 g5 20. Qf5
+Qxb2 21. Rd1 Ne8 22. Qxd5 Nc6 23. Bc4 Nf6 24. Qc5 Kg7 25. Bb3 Nd7 26. Qf5
+Rad8 27. h4 Ne7 28. Qxe4 Ng6 29. hxg5 hxg5 30. Qxb7 Nf6 31. Qxa6 Nh4 32.
+Qa5 Nf3+ 33. Ke2 Nxg1+ 34. Rxg1 Nh7 35. Rh1 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1086,32 +1099,33 @@ Ne8 22. Qxd5 Nc6 23. Bc4 Nf6 24. Qc5 Kg7 25. Bb3 Nd7 26. Qf5 Rad8 27. h4 Ne7
 [White "Topalov, Veselin"]
 [Black "Karjakin, Sergey"]
 [Result "1-0"]
-[ECO "D45"]
 [WhiteElo "2780"]
 [BlackElo "2732"]
-[PlyCount "203"]
+[ECO "D45"]
 [EventDate "2008.??.??"]
+[PlyCount "203"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Bd2 e6 6. Qc2 Nbd7 7. Nc3 c5 8. cxd5
-exd5 9. g3 b5 10. Bg2 Bb7 11. O-O Rc8 12. Qf5 g6 13. Qh3 Bg7 14. Rfd1 O-O 15.
-Ne5 Nb6 16. Ne2 Re8 17. Ba5 Qd6 18. dxc5 Rxc5 19. Nd3 Rc4 20. Nd4 h6 21. Bf3
-Ne4 22. Qg2 Ng5 23. b3 Bxd4 24. exd4 Rxd4 25. Rac1 Nd7 26. h4 Nxf3+ 27. Qxf3
-Rde4 28. Rc7 Ba8 29. Ra7 Nf6 30. Bc7 Qe6 31. Nc5 Re1+ 32. Kg2 Qc6 33. Rxe1 Rxe1
-34. Rxa8+ Qxa8 35. Qxf6 d4+ 36. f3 Re2+ 37. Kf1 d3 38. Nxd3 Re3 39. Ne1 Qe8 40.
-Ng2 Re6 41. Qf4 Qc6 42. Be5 b4 43. Bd4 Qd6 44. Kf2 a5 45. Ne3 Qxf4 46. gxf4 Rd6
-47. Nc2 Rc6 48. Ne1 Rd6 49. Ke3 Rd5 50. Ng2 Kf8 51. Kd3 Ke7 52. Kc4 Rh5 53. Bf2
-Kd6 54. Ne1 Kc6 55. Nc2 Kd6 56. Ne1 Kc6 57. Nd3 f6 58. Nc5 Rf5 59. Nd3 Rh5 60.
-Bg3 Rf5 61. Be1 Rh5 62. Bf2 Rf5 63. Kd4 Rh5 64. Ke4 Kb5 65. Nb2 Kc6 66. Nc4 Rd5
-67. Bd4 f5+ 68. Kd3 Kb5 69. Ne5 Rd6 70. Nf7 Rc6 71. Nxh6 Rc1 72. Nf7 a4 73. Ne5
-Rd1+ 74. Ke3 Rg1 75. bxa4+ Kxa4 76. Nd3 Rh1 77. Bc5 b3 78. axb3+ Kxb3 79. Be7
-Rg1 80. Kf2 Ra1 81. Ne5 Ra6 82. Kg3 Kc3 83. Bg5 Kd4 84. h5 gxh5 85. Kh4 Ke3 86.
-Kxh5 Re6 87. Kh4 Ra6 88. Kg3 Ra1 89. Nc4+ Ke2 90. Kg2 Rf1 91. Nd6 Rf2+ 92. Kg3
-Rxf3+ 93. Kh4 Rf1 94. Nxf5 Kf3 95. Kh5 Rb1 96. Nh4+ Ke4 97. f5 Ke5 98. f6 Rb8
-99. Kh6 Ke6 100. Kg7 Rb7+ 101. Kg6 Rb8 102. Nf5 1-0
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Bd2 e6 6. Qc2 Nbd7 7. Nc3 c5 8.
+cxd5 exd5 9. g3 b5 10. Bg2 Bb7 11. O-O Rc8 12. Qf5 g6 13. Qh3 Bg7 14. Rfd1
+O-O 15. Ne5 Nb6 16. Ne2 Re8 17. Ba5 Qd6 18. dxc5 Rxc5 19. Nd3 Rc4 20. Nd4
+h6 21. Bf3 Ne4 22. Qg2 Ng5 23. b3 Bxd4 24. exd4 Rxd4 25. Rac1 Nd7 26. h4
+Nxf3+ 27. Qxf3 Rde4 28. Rc7 Ba8 29. Ra7 Nf6 30. Bc7 Qe6 31. Nc5 Re1+ 32.
+Kg2 Qc6 33. Rxe1 Rxe1 34. Rxa8+ Qxa8 35. Qxf6 d4+ 36. f3 Re2+ 37. Kf1 d3
+38. Nxd3 Re3 39. Ne1 Qe8 40. Ng2 Re6 41. Qf4 Qc6 42. Be5 b4 43. Bd4 Qd6 44.
+Kf2 a5 45. Ne3 Qxf4 46. gxf4 Rd6 47. Nc2 Rc6 48. Ne1 Rd6 49. Ke3 Rd5 50.
+Ng2 Kf8 51. Kd3 Ke7 52. Kc4 Rh5 53. Bf2 Kd6 54. Ne1 Kc6 55. Nc2 Kd6 56. Ne1
+Kc6 57. Nd3 f6 58. Nc5 Rf5 59. Nd3 Rh5 60. Bg3 Rf5 61. Be1 Rh5 62. Bf2 Rf5
+63. Kd4 Rh5 64. Ke4 Kb5 65. Nb2 Kc6 66. Nc4 Rd5 67. Bd4 f5+ 68. Kd3 Kb5 69.
+Ne5 Rd6 70. Nf7 Rc6 71. Nxh6 Rc1 72. Nf7 a4 73. Ne5 Rd1+ 74. Ke3 Rg1 75.
+bxa4+ Kxa4 76. Nd3 Rh1 77. Bc5 b3 78. axb3+ Kxb3 79. Be7 Rg1 80. Kf2 Ra1
+81. Ne5 Ra6 82. Kg3 Kc3 83. Bg5 Kd4 84. h5 gxh5 85. Kh4 Ke3 86. Kxh5 Re6
+87. Kh4 Ra6 88. Kg3 Ra1 89. Nc4+ Ke2 90. Kg2 Rf1 91. Nd6 Rf2+ 92. Kg3 Rxf3+
+93. Kh4 Rf1 94. Nxf5 Kf3 95. Kh5 Rb1 96. Nh4+ Ke4 97. f5 Ke5 98. f6 Rb8 99.
+Kh6 Ke6 100. Kg7 Rb7+ 101. Kg6 Rb8 102. Nf5 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1120,21 +1134,21 @@ Rxf3+ 93. Kh4 Rf1 94. Nxf5 Kf3 95. Kh5 Rb1 96. Nh4+ Ke4 97. f5 Ke5 98. f6 Rb8
 [White "Morozevich, Alexander"]
 [Black "Gelfand, Boris"]
 [Result "1-0"]
-[ECO "B80"]
 [WhiteElo "2765"]
 [BlackElo "2737"]
-[PlyCount "55"]
+[ECO "B80"]
 [EventDate "2008.??.??"]
+[PlyCount "55"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 b5 8. Qd2
-Nbd7 9. g4 h6 10. O-O-O b4 11. Nce2 Qa5 12. Kb1 Bb7 13. Nf4 e5 14. Nb3 Qc7 15.
-Nd5 Nxd5 16. exd5 Nf6 17. Bg2 a5 18. f4 Nxg4 19. Rhe1 a4 20. Nc1 Be7 21. Bg1
-exf4 22. Qxf4 Ne5 23. Qxb4 Qd7 24. Bd4 Rc8 25. Bxe5 dxe5 26. Rxe5 Kf8 27. d6
-Bf6 28. Qxb7 1-0
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 b5 8.
+Qd2 Nbd7 9. g4 h6 10. O-O-O b4 11. Nce2 Qa5 12. Kb1 Bb7 13. Nf4 e5 14. Nb3
+Qc7 15. Nd5 Nxd5 16. exd5 Nf6 17. Bg2 a5 18. f4 Nxg4 19. Rhe1 a4 20. Nc1
+Be7 21. Bg1 exf4 22. Qxf4 Ne5 23. Qxb4 Qd7 24. Bd4 Rc8 25. Bxe5 dxe5 26.
+Rxe5 Kf8 27. d6 Bf6 28. Qxb7 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1143,23 +1157,24 @@ Bf6 28. Qxb7 1-0
 [White "Mamedyarov, Shakhriyar"]
 [Black "Carlsen, Magnus"]
 [Result "0-1"]
-[ECO "E12"]
 [WhiteElo "2760"]
 [BlackElo "2733"]
-[PlyCount "88"]
+[ECO "E12"]
 [EventDate "2008.??.??"]
+[PlyCount "88"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. e3 g6 8. Bb5+
-c6 9. Bd3 Bg7 10. Na4 Nd7 11. e4 Ne7 12. O-O O-O 13. Qe2 c5 14. dxc5 Nxc5 15.
-Nxc5 bxc5 16. Bg5 h6 17. Bh4 g5 18. Bg3 Ng6 19. Rfd1 g4 20. Nd2 Qg5 21. Rac1
-Rfd8 22. Nc4 Ba6 23. b3 h5 24. Ne5 Bxe5 25. Bxa6 h4 26. Bxe5 Nxe5 27. Kf1 Qf4
-28. Rxd8+ Rxd8 29. Qe3 Qxh2 30. Qg5+ Kh7 31. Qxd8 Qh1+ 32. Ke2 Qxc1 33. Qxh4+
-Kg7 34. Qg3 Qc2+ 35. Ke1 Qxe4+ 36. Be2 Qb1+ 37. Kd2 Qb2+ 38. Kd1 Qd4+ 39. Kc2
-f5 40. a4 a5 41. Qh4 Ng6 42. Qg3 Kf6 43. Bd3 e5 44. f3 Qe3 0-1
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. e3 g6 8.
+Bb5+ c6 9. Bd3 Bg7 10. Na4 Nd7 11. e4 Ne7 12. O-O O-O 13. Qe2 c5 14. dxc5
+Nxc5 15. Nxc5 bxc5 16. Bg5 h6 17. Bh4 g5 18. Bg3 Ng6 19. Rfd1 g4 20. Nd2
+Qg5 21. Rac1 Rfd8 22. Nc4 Ba6 23. b3 h5 24. Ne5 Bxe5 25. Bxa6 h4 26. Bxe5
+Nxe5 27. Kf1 Qf4 28. Rxd8+ Rxd8 29. Qe3 Qxh2 30. Qg5+ Kh7 31. Qxd8 Qh1+ 32.
+Ke2 Qxc1 33. Qxh4+ Kg7 34. Qg3 Qc2+ 35. Ke1 Qxe4+ 36. Be2 Qb1+ 37. Kd2 Qb2+
+38. Kd1 Qd4+ 39. Kc2 f5 40. a4 a5 41. Qh4 Ng6 42. Qg3 Kf6 43. Bd3 e5 44. f3
+Qe3 0-1
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1168,22 +1183,22 @@ f5 40. a4 a5 41. Qh4 Ng6 42. Qg3 Kf6 43. Bd3 e5 44. f3 Qe3 0-1
 [White "Leko, Peter"]
 [Black "Van Wely, Loek"]
 [Result "1/2-1/2"]
-[ECO "B90"]
 [WhiteElo "2753"]
 [BlackElo "2681"]
-[PlyCount "72"]
+[ECO "B90"]
 [EventDate "2008.??.??"]
+[PlyCount "72"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
-O-O 9. O-O Nc6 10. Bg5 Be6 11. Bb3 Nd7 12. Bxe7 Qxe7 13. Nd5 Qd8 14. Qe2 Na5
-15. Rad1 Rc8 16. Rd2 b5 17. Rfd1 Nc5 18. h3 Naxb3 19. axb3 f5 20. exf5 Bxf5 21.
-Ne3 Ne4 22. Rd5 Qf6 23. Nxf5 Qxf5 24. c3 Rf6 25. Qe3 h6 26. b4 Rcf8 27. Re1 Ng5
-28. Nxg5 Qxg5 29. Qxg5 hxg5 30. f3 Rc8 31. Kf2 Kf7 32. Rd3 Ke6 33. Red1 Rc6 34.
-Ke3 Rf8 35. Rd5 Rf7 36. R1d2 Rf8 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8.
+Bc4 O-O 9. O-O Nc6 10. Bg5 Be6 11. Bb3 Nd7 12. Bxe7 Qxe7 13. Nd5 Qd8 14.
+Qe2 Na5 15. Rad1 Rc8 16. Rd2 b5 17. Rfd1 Nc5 18. h3 Naxb3 19. axb3 f5 20.
+exf5 Bxf5 21. Ne3 Ne4 22. Rd5 Qf6 23. Nxf5 Qxf5 24. c3 Rf6 25. Qe3 h6 26.
+b4 Rcf8 27. Re1 Ng5 28. Nxg5 Qxg5 29. Qxg5 hxg5 30. f3 Rc8 31. Kf2 Kf7 32.
+Rd3 Ke6 33. Red1 Rc6 34. Ke3 Rf8 35. Rd5 Rf7 36. R1d2 Rf8 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1192,28 +1207,29 @@ Ke3 Rf8 35. Rd5 Rf7 36. R1d2 Rf8 1/2-1/2
 [White "Kramnik, Vladimir"]
 [Black "Ivanchuk, Vassily"]
 [Result "1/2-1/2"]
-[ECO "A31"]
 [WhiteElo "2799"]
 [BlackElo "2751"]
-[PlyCount "146"]
+[ECO "A31"]
 [EventDate "2008.??.??"]
+[PlyCount "146"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
 1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 g6 5. d4 cxd4 6. Nxd4 d6 7. Bg2 Bd7 8.
-Nxc6 Bxc6 9. e4 Bg7 10. Be3 O-O 11. O-O Qa5 12. a3 Rfc8 13. b4 Qd8 14. Rc1 Bd7
-15. Qe2 Ng4 16. Bg5 h6 17. Bd2 a5 18. f4 axb4 19. axb4 Bxc3 20. Rxc3 Qb6+ 21.
-Kh1 Qxb4 22. Be1 Qb1 23. h3 Ra2 24. Qf3 Rxg2 25. Kxg2 Nf6 26. Rb3 Qa2+ 27. Rf2
-Qa6 28. Kh2 Rxc4 29. Ra3 Qc6 30. e5 Ne4 31. Re2 dxe5 32. fxe5 Ng5 33. Qxc6 Bxc6
-34. g4 Rc1 35. Kg3 Ne4+ 36. Kh2 Ng5 37. Kg3 Ne6 38. Bb4 g5 39. Bxe7 Nf4 40. Rd2
-Rg1+ 41. Kf2 Rh1 42. Rd8+ Kh7 43. Bf6 Rh2+ 44. Ke1 Rh1+ 45. Kd2 Rh2+ 46. Kc1
-Ng6 47. Raa8 Rh1+ 48. Kd2 Rh2+ 49. Kc3 Rxh3+ 50. Kd4 Rg3 51. Rh8+ Nxh8 52.
-Rxh8+ Kg6 53. Rg8+ Kh7 54. Rg7+ Kh8 55. Rxg5+ Kh7 56. Rg7+ Kh8 57. Rxf7+ Kg8
-58. Rg7+ Kf8 59. e6 Rf3 60. Ke5 Re3+ 61. Kd6 Rd3+ 62. Kc7 Re3 63. Rf7+ Ke8 64.
-Re7+ Kf8 65. Kd6 Rd3+ 66. Ke5 Re3+ 67. Kd6 Rd3+ 68. Kc7 Rf3 69. Rf7+ Ke8 70.
-Kd6 Rd3+ 71. Ke5 Re3+ 72. Kd6 Rd3+ 73. Kc7 Re3 1/2-1/2
+Nxc6 Bxc6 9. e4 Bg7 10. Be3 O-O 11. O-O Qa5 12. a3 Rfc8 13. b4 Qd8 14. Rc1
+Bd7 15. Qe2 Ng4 16. Bg5 h6 17. Bd2 a5 18. f4 axb4 19. axb4 Bxc3 20. Rxc3
+Qb6+ 21. Kh1 Qxb4 22. Be1 Qb1 23. h3 Ra2 24. Qf3 Rxg2 25. Kxg2 Nf6 26. Rb3
+Qa2+ 27. Rf2 Qa6 28. Kh2 Rxc4 29. Ra3 Qc6 30. e5 Ne4 31. Re2 dxe5 32. fxe5
+Ng5 33. Qxc6 Bxc6 34. g4 Rc1 35. Kg3 Ne4+ 36. Kh2 Ng5 37. Kg3 Ne6 38. Bb4
+g5 39. Bxe7 Nf4 40. Rd2 Rg1+ 41. Kf2 Rh1 42. Rd8+ Kh7 43. Bf6 Rh2+ 44. Ke1
+Rh1+ 45. Kd2 Rh2+ 46. Kc1 Ng6 47. Raa8 Rh1+ 48. Kd2 Rh2+ 49. Kc3 Rxh3+ 50.
+Kd4 Rg3 51. Rh8+ Nxh8 52. Rxh8+ Kg6 53. Rg8+ Kh7 54. Rg7+ Kh8 55. Rxg5+ Kh7
+56. Rg7+ Kh8 57. Rxf7+ Kg8 58. Rg7+ Kf8 59. e6 Rf3 60. Ke5 Re3+ 61. Kd6
+Rd3+ 62. Kc7 Re3 63. Rf7+ Ke8 64. Re7+ Kf8 65. Kd6 Rd3+ 66. Ke5 Re3+ 67.
+Kd6 Rd3+ 68. Kc7 Rf3 69. Rf7+ Ke8 70. Kd6 Rd3+ 71. Ke5 Re3+ 72. Kd6 Rd3+
+73. Kc7 Re3 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1222,21 +1238,21 @@ Kd6 Rd3+ 71. Ke5 Re3+ 72. Kd6 Rd3+ 73. Kc7 Re3 1/2-1/2
 [White "Anand, Viswanathan"]
 [Black "Aronian, Levon"]
 [Result "1/2-1/2"]
-[ECO "C89"]
 [WhiteElo "2799"]
 [BlackElo "2739"]
-[PlyCount "57"]
+[ECO "C89"]
 [EventDate "2008.??.??"]
+[PlyCount "57"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
-d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Bf5 14. Qf3 Qh4
-15. g3 Qh3 16. Bxd5 cxd5 17. Be3 Bxd3 18. Qxd5 Rad8 19. Qf3 Bc4 20. Nd2 Be6 21.
-Bd4 Bb8 22. Qg2 Qh5 23. f3 Qg6 24. a3 h5 25. Re2 Rd5 26. Rae1 Rfd8 27. Ne4 Bd6
-28. Qf2 Rf5 29. Nxd6 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d3 Bd6 13. Re1 Bf5 14. Qf3
+Qh4 15. g3 Qh3 16. Bxd5 cxd5 17. Be3 Bxd3 18. Qxd5 Rad8 19. Qf3 Bc4 20. Nd2
+Be6 21. Bd4 Bb8 22. Qg2 Qh5 23. f3 Qg6 24. a3 h5 25. Re2 Rd5 26. Rae1 Rfd8
+27. Ne4 Bd6 28. Qf2 Rf5 29. Nxd6 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1245,26 +1261,26 @@ Bd4 Bb8 22. Qg2 Qh5 23. f3 Qg6 24. a3 h5 25. Re2 Rd5 26. Rae1 Rfd8 27. Ne4 Bd6
 [White "Van Wely, Loek"]
 [Black "Mamedyarov, Shakhriyar"]
 [Result "1/2-1/2"]
-[ECO "A52"]
 [WhiteElo "2681"]
 [BlackElo "2760"]
-[PlyCount "118"]
+[ECO "A52"]
 [EventDate "2008.??.??"]
+[PlyCount "118"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 g5 5. Bg3 Nc6 6. h4 Ngxe5 7. e3 g4 8. Nc3
-h5 9. Rc1 Bg7 10. Nd5 Ne7 11. Ne2 Nf5 12. Qc2 d6 13. Bxe5 Bxe5 14. g3 c6 15.
-Ndf4 Qa5+ 16. Nc3 Bxf4 17. exf4 O-O 18. Qd2 Re8+ 19. Be2 Qb6 20. Kf1 Qd4 21.
-Rd1 Qg7 22. Kg2 c5 23. Bd3 Nd4 24. Nb5 Nf3 25. Qc3 Bd7 26. Qxg7+ Kxg7 27. Nxd6
-Bc6 28. Nxe8+ Rxe8 29. Kf1 a6 30. b3 Re7 31. Bb1 a5 32. Bd3 a4 33. bxa4 Bxa4
-34. Be2 Bc6 35. Rd6 Be4 36. Bd3 Nd2+ 37. Ke2 Nxc4 38. Bxc4 Bxh1+ 39. Kd2 Bc6
-40. Bd5 Bb5 41. Kc3 Re2 42. Rb6 Ba6 43. Rb2 Rxb2 44. Kxb2 b6 45. Kc3 Bc8 46. a3
-Kf6 47. Bc6 Ke6 48. Kc4 Kd6 49. Be4 Be6+ 50. Kb5 Kc7 51. f3 Bd7+ 52. Kc4 Kd6
-53. Ba8 b5+ 54. Kc3 Be6 55. Bb7 f6 56. Be4 Bd7 57. Bb7 Kc7 58. Be4 Kd6 59. Bb7
-Kc7 1/2-1/2
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 g5 5. Bg3 Nc6 6. h4 Ngxe5 7. e3 g4 8.
+Nc3 h5 9. Rc1 Bg7 10. Nd5 Ne7 11. Ne2 Nf5 12. Qc2 d6 13. Bxe5 Bxe5 14. g3
+c6 15. Ndf4 Qa5+ 16. Nc3 Bxf4 17. exf4 O-O 18. Qd2 Re8+ 19. Be2 Qb6 20. Kf1
+Qd4 21. Rd1 Qg7 22. Kg2 c5 23. Bd3 Nd4 24. Nb5 Nf3 25. Qc3 Bd7 26. Qxg7+
+Kxg7 27. Nxd6 Bc6 28. Nxe8+ Rxe8 29. Kf1 a6 30. b3 Re7 31. Bb1 a5 32. Bd3
+a4 33. bxa4 Bxa4 34. Be2 Bc6 35. Rd6 Be4 36. Bd3 Nd2+ 37. Ke2 Nxc4 38. Bxc4
+Bxh1+ 39. Kd2 Bc6 40. Bd5 Bb5 41. Kc3 Re2 42. Rb6 Ba6 43. Rb2 Rxb2 44. Kxb2
+b6 45. Kc3 Bc8 46. a3 Kf6 47. Bc6 Ke6 48. Kc4 Kd6 49. Be4 Be6+ 50. Kb5 Kc7
+51. f3 Bd7+ 52. Kc4 Kd6 53. Ba8 b5+ 54. Kc3 Be6 55. Bb7 f6 56. Be4 Bd7 57.
+Bb7 Kc7 58. Be4 Kd6 59. Bb7 Kc7 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1273,28 +1289,29 @@ Kc7 1/2-1/2
 [White "Karjakin, Sergey"]
 [Black "Leko, Peter"]
 [Result "1/2-1/2"]
-[ECO "B12"]
 [WhiteElo "2732"]
 [BlackElo "2753"]
-[PlyCount "150"]
+[ECO "B12"]
 [EventDate "2008.??.??"]
+[PlyCount "150"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. c3 cxd4 8. cxd4
-Nge7 9. Be3 Nc8 10. Nbd2 Be7 11. Ne1 O-O 12. f4 Bg6 13. Ndf3 Nb6 14. b3 a5 15.
-a4 Nb4 16. Nd3 Rc8 17. Nfe1 Nd7 18. Nxb4 Bxb4 19. Bb5 Nb8 20. Nd3 Nc6 21. Rc1
-Ba3 22. Ra1 Be7 23. Nc5 Bxc5 24. dxc5 d4 25. Bf2 d3 26. Ra2 Nb4 27. Rd2 Qd5 28.
-Bc4 Qe4 29. Qg4 Rfd8 30. Re1 Qc6 31. Bb5 Qc7 32. Red1 Be4 33. Qg3 Qe7 34. Qe3
-Bg6 35. Qf3 Rc7 36. h3 h6 37. Kh2 Rcc8 38. Qg4 Rd5 39. Bc4 Qd7 40. Qf3 Qc6 41.
-Bxd5 Qxd5 42. Qxd5 Nxd5 43. g3 Nc3 44. Rc1 Ne4 45. Rb2 d2 46. Rd1 Nxf2 47.
-Rdxd2 Ne4 48. Rd4 Nxc5 49. Rc4 b6 50. b4 axb4 51. Rbxb4 Rd8 52. Rxb6 Rd2+ 53.
-Kg1 Nd3 54. g4 h5 55. Rd6 hxg4 56. hxg4 Rd1+ 57. Kh2 Ra1 58. f5 exf5 59. Rxd3
-Ra2+ 60. Kg1 fxg4 61. Rd8+ Kh7 62. Rxg4 Bf5 63. Rb4 g5 64. Kf1 g4 65. Kg1 Be6
-66. Rd1 Kg6 67. Rf1 Kg5 68. Rf2 Ra1+ 69. Rf1 Ra3 70. Rd4 Ra2 71. Rf2 Ra1+ 72.
-Kg2 Ra3 73. Rf1 Ra2+ 74. Rf2 Ra3 75. Rf1 Ra2+ 1/2-1/2
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. c3 cxd4 8.
+cxd4 Nge7 9. Be3 Nc8 10. Nbd2 Be7 11. Ne1 O-O 12. f4 Bg6 13. Ndf3 Nb6 14.
+b3 a5 15. a4 Nb4 16. Nd3 Rc8 17. Nfe1 Nd7 18. Nxb4 Bxb4 19. Bb5 Nb8 20. Nd3
+Nc6 21. Rc1 Ba3 22. Ra1 Be7 23. Nc5 Bxc5 24. dxc5 d4 25. Bf2 d3 26. Ra2 Nb4
+27. Rd2 Qd5 28. Bc4 Qe4 29. Qg4 Rfd8 30. Re1 Qc6 31. Bb5 Qc7 32. Red1 Be4
+33. Qg3 Qe7 34. Qe3 Bg6 35. Qf3 Rc7 36. h3 h6 37. Kh2 Rcc8 38. Qg4 Rd5 39.
+Bc4 Qd7 40. Qf3 Qc6 41. Bxd5 Qxd5 42. Qxd5 Nxd5 43. g3 Nc3 44. Rc1 Ne4 45.
+Rb2 d2 46. Rd1 Nxf2 47. Rdxd2 Ne4 48. Rd4 Nxc5 49. Rc4 b6 50. b4 axb4 51.
+Rbxb4 Rd8 52. Rxb6 Rd2+ 53. Kg1 Nd3 54. g4 h5 55. Rd6 hxg4 56. hxg4 Rd1+
+57. Kh2 Ra1 58. f5 exf5 59. Rxd3 Ra2+ 60. Kg1 fxg4 61. Rd8+ Kh7 62. Rxg4
+Bf5 63. Rb4 g5 64. Kf1 g4 65. Kg1 Be6 66. Rd1 Kg6 67. Rf1 Kg5 68. Rf2 Ra1+
+69. Rf1 Ra3 70. Rd4 Ra2 71. Rf2 Ra1+ 72. Kg2 Ra3 73. Rf1 Ra2+ 74. Rf2 Ra3
+75. Rf1 Ra2+ 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1303,21 +1320,22 @@ Kg2 Ra3 73. Rf1 Ra2+ 74. Rf2 Ra3 75. Rf1 Ra2+ 1/2-1/2
 [White "Ivanchuk, Vassily"]
 [Black "Anand, Viswanathan"]
 [Result "1-0"]
-[ECO "A29"]
 [WhiteElo "2751"]
 [BlackElo "2799"]
-[PlyCount "65"]
+[ECO "A29"]
 [EventDate "2008.??.??"]
+[PlyCount "65"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. Nd5 Bc5 7. d3 Nxd5 8.
-cxd5 Nd4 9. Nd2 d6 10. e3 Nf5 11. Nc4 a5 12. Bd2 a4 13. b4 axb3 14. axb3 Rxa1
-15. Qxa1 b5 16. Na5 Ne7 17. O-O Bg4 18. Nb7 Qd7 19. Nxc5 dxc5 20. Qxe5 Qd6 21.
-d4 Be2 22. Qxd6 cxd6 23. Re1 Bd3 24. dxc5 dxc5 25. Rc1 c4 26. bxc4 bxc4 27. Bb4
-Re8 28. Bxe7 Rxe7 29. Bf1 Bxf1 30. Kxf1 Re4 31. Ke2 f5 32. f3 Re5 33. d6 1-0
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 Bb4 5. Bg2 O-O 6. Nd5 Bc5 7. d3 Nxd5
+8. cxd5 Nd4 9. Nd2 d6 10. e3 Nf5 11. Nc4 a5 12. Bd2 a4 13. b4 axb3 14. axb3
+Rxa1 15. Qxa1 b5 16. Na5 Ne7 17. O-O Bg4 18. Nb7 Qd7 19. Nxc5 dxc5 20. Qxe5
+Qd6 21. d4 Be2 22. Qxd6 cxd6 23. Re1 Bd3 24. dxc5 dxc5 25. Rc1 c4 26. bxc4
+bxc4 27. Bb4 Re8 28. Bxe7 Rxe7 29. Bf1 Bxf1 30. Kxf1 Re4 31. Ke2 f5 32. f3
+Re5 33. d6 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1326,24 +1344,24 @@ Re8 28. Bxe7 Rxe7 29. Bf1 Bxf1 30. Kxf1 Re4 31. Ke2 f5 32. f3 Re5 33. d6 1-0
 [White "Gelfand, Boris"]
 [Black "Topalov, Veselin"]
 [Result "1/2-1/2"]
-[ECO "E17"]
 [WhiteElo "2737"]
 [BlackElo "2780"]
-[PlyCount "94"]
+[ECO "E17"]
 [EventDate "2008.??.??"]
+[PlyCount "94"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. Qc2 c5 8. d5
-exd5 9. cxd5 Na6 10. Nh4 d6 11. Nf5 Re8 12. Nxe7+ Qxe7 13. O-O b5 14. Bg5 Nc7
-15. Qf5 Qd7 16. Qxd7 Nxd7 17. Ne4 Bxd5 18. Nxd6 Rxe2 19. Nxb5 Nxb5 20. Bxd5 Rb8
-21. Rfe1 Nd4 22. Rxe2 Nxe2+ 23. Kf1 Rxb2 24. Re1 h6 25. Bxh6 gxh6 26. Rxe2 Rb1+
-27. Re1 Rxe1+ 28. Kxe1 Nb6 29. Bb3 Kf8 30. Kd2 Nc8 31. Kd3 Nd6 32. g4 Kg7 33.
-f4 Kg6 34. Bc2 f5 35. h3 Kf6 36. Kc3 Ne4+ 37. Kc4 Nf2 38. Bxf5 Nxh3 39. Bc2
-Nxf4 40. Kxc5 Kg5 41. Bd1 Nd3+ 42. Kb5 Nf2 43. Bf3 Kf4 44. Bb7 Nxg4 45. Ka6 Ke5
-46. Kxa7 Kd6 47. Kb6 Ne5 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. Qc2 c5 8.
+d5 exd5 9. cxd5 Na6 10. Nh4 d6 11. Nf5 Re8 12. Nxe7+ Qxe7 13. O-O b5 14.
+Bg5 Nc7 15. Qf5 Qd7 16. Qxd7 Nxd7 17. Ne4 Bxd5 18. Nxd6 Rxe2 19. Nxb5 Nxb5
+20. Bxd5 Rb8 21. Rfe1 Nd4 22. Rxe2 Nxe2+ 23. Kf1 Rxb2 24. Re1 h6 25. Bxh6
+gxh6 26. Rxe2 Rb1+ 27. Re1 Rxe1+ 28. Kxe1 Nb6 29. Bb3 Kf8 30. Kd2 Nc8 31.
+Kd3 Nd6 32. g4 Kg7 33. f4 Kg6 34. Bc2 f5 35. h3 Kf6 36. Kc3 Ne4+ 37. Kc4
+Nf2 38. Bxf5 Nxh3 39. Bc2 Nxf4 40. Kxc5 Kg5 41. Bd1 Nd3+ 42. Kb5 Nf2 43.
+Bf3 Kf4 44. Bb7 Nxg4 45. Ka6 Ke5 46. Kxa7 Kd6 47. Kb6 Ne5 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1352,27 +1370,27 @@ Nxf4 40. Kxc5 Kg5 41. Bd1 Nd3+ 42. Kb5 Nf2 43. Bf3 Kf4 44. Bb7 Nxg4 45. Ka6 Ke5
 [White "Carlsen, Magnus"]
 [Black "Kramnik, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "C42"]
 [WhiteElo "2733"]
 [BlackElo "2799"]
-[PlyCount "131"]
+[ECO "C42"]
 [EventDate "2008.??.??"]
+[PlyCount "131"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nc4 Nxe4 5. Nc3 Nxc3 6. bxc3 g6 7. d4 Bg7 8.
-Bd3 O-O 9. O-O Nd7 10. Qf3 Nb6 11. Ne3 c5 12. dxc5 dxc5 13. a4 Bd7 14. a5 Na4
-15. Qxb7 Nxc3 16. Bd2 Be6 17. Bxc3 Bxc3 18. Ra4 Qd7 19. Qxd7 Bxd7 20. Ra3 Bb4
-21. Raa1 Bc6 22. a6 Rad8 23. Rfc1 Bc3 24. Rab1 Rfe8 25. Bb5 Re6 26. Bc4 Re4 27.
-Rd1 Rxd1+ 28. Rxd1 Bd4 29. Bd5 Bxd5 30. Nxd5 Re2 31. c3 Bxf2+ 32. Kf1 Ra2 33.
-Rb1 Bh4 34. g3 Bg5 35. h4 Bd2 36. Nf6+ Kg7 37. Ne4 Bh6 38. Rb7 Rxa6 39. Nxc5
-Rc6 40. Ne4 Re6 41. Nc5 Re5 42. Nd7 Re3 43. Rxa7 Rxg3 44. Ne5 Kf6 45. Nxf7 Be3
-46. Rb7 h5 47. Ke2 Bf4 48. c4 Re3+ 49. Kf1 Rc3 50. Nh8 Rxc4 51. Rb6+ Kf5 52.
-Nxg6 Bg3 53. Kg2 Kg4 54. Rb2 Re4 55. Ra2 Bd6 56. Ra5 Re2+ 57. Kf1 Re6 58. Rg5+
-Kf3 59. Rf5+ Kg4 60. Rg5+ Kh3 61. Kf2 Rf6+ 62. Ke2 Bg3 63. Ke3 Re6+ 64. Kf3
-Rf6+ 65. Ke3 Re6+ 66. Kf3 1/2-1/2
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nc4 Nxe4 5. Nc3 Nxc3 6. bxc3 g6 7. d4 Bg7
+8. Bd3 O-O 9. O-O Nd7 10. Qf3 Nb6 11. Ne3 c5 12. dxc5 dxc5 13. a4 Bd7 14.
+a5 Na4 15. Qxb7 Nxc3 16. Bd2 Be6 17. Bxc3 Bxc3 18. Ra4 Qd7 19. Qxd7 Bxd7
+20. Ra3 Bb4 21. Raa1 Bc6 22. a6 Rad8 23. Rfc1 Bc3 24. Rab1 Rfe8 25. Bb5 Re6
+26. Bc4 Re4 27. Rd1 Rxd1+ 28. Rxd1 Bd4 29. Bd5 Bxd5 30. Nxd5 Re2 31. c3
+Bxf2+ 32. Kf1 Ra2 33. Rb1 Bh4 34. g3 Bg5 35. h4 Bd2 36. Nf6+ Kg7 37. Ne4
+Bh6 38. Rb7 Rxa6 39. Nxc5 Rc6 40. Ne4 Re6 41. Nc5 Re5 42. Nd7 Re3 43. Rxa7
+Rxg3 44. Ne5 Kf6 45. Nxf7 Be3 46. Rb7 h5 47. Ke2 Bf4 48. c4 Re3+ 49. Kf1
+Rc3 50. Nh8 Rxc4 51. Rb6+ Kf5 52. Nxg6 Bg3 53. Kg2 Kg4 54. Rb2 Re4 55. Ra2
+Bd6 56. Ra5 Re2+ 57. Kf1 Re6 58. Rg5+ Kf3 59. Rf5+ Kg4 60. Rg5+ Kh3 61. Kf2
+Rf6+ 62. Ke2 Bg3 63. Ke3 Re6+ 64. Kf3 Rf6+ 65. Ke3 Re6+ 66. Kf3 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1381,25 +1399,26 @@ Rf6+ 65. Ke3 Re6+ 66. Kf3 1/2-1/2
 [White "Aronian, Levon"]
 [Black "Morozevich, Alexander"]
 [Result "1-0"]
-[ECO "D15"]
 [WhiteElo "2739"]
 [BlackElo "2765"]
-[PlyCount "117"]
+[ECO "D15"]
 [EventDate "2008.??.??"]
+[PlyCount "117"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nc3 b5 6. c5 g6 7. Bd3 Bf5 8. Bxf5
-gxf5 9. Ne5 e6 10. f3 Rg8 11. O-O Qc7 12. Nd3 a5 13. Bd2 Nbd7 14. Be1 Be7 15.
-Bg3 Qb7 16. Rc1 Rg7 17. Rc2 Kf8 18. Bf4 Kg8 19. Ne5 Nxe5 20. Bxe5 Rg6 21. Ne2
-Nd7 22. Bd6 Bg5 23. Nf4 Bxf4 24. Bxf4 h6 25. Rcf2 Nf6 26. Kh1 Kh7 27. Be5 Rag8
-28. Qc2 Nd7 29. Bd6 f6 30. Re2 Qc8 31. Rfe1 R8g7 32. e4 fxe4 33. fxe4 dxe4 34.
-Qxe4 f5 35. Qf3 Nf6 36. Rxe6 Ne4 37. Rxg6 Rxg6 38. h3 Qe6 39. Kh2 Ng5 40. Qf1
-Ne4 41. Be5 Rg5 42. Qf3 Nd2 43. Qc3 Ne4 44. Qxa5 Qd5 45. Re2 Kg6 46. b3 Kh5 47.
-Qe1 Kg6 48. Qb4 h5 49. Bf4 h4 50. Bxg5 Kxg5 51. a4 bxa4 52. bxa4 Ng3 53. Qd2+
-Kg6 54. Re1 Ne4 55. Qf4 Qxd4 56. Rf1 Qxc5 57. Qxh4 Qd5 58. Qf4 c5 59. a5 1-0
+gxf5 9. Ne5 e6 10. f3 Rg8 11. O-O Qc7 12. Nd3 a5 13. Bd2 Nbd7 14. Be1 Be7
+15. Bg3 Qb7 16. Rc1 Rg7 17. Rc2 Kf8 18. Bf4 Kg8 19. Ne5 Nxe5 20. Bxe5 Rg6
+21. Ne2 Nd7 22. Bd6 Bg5 23. Nf4 Bxf4 24. Bxf4 h6 25. Rcf2 Nf6 26. Kh1 Kh7
+27. Be5 Rag8 28. Qc2 Nd7 29. Bd6 f6 30. Re2 Qc8 31. Rfe1 R8g7 32. e4 fxe4
+33. fxe4 dxe4 34. Qxe4 f5 35. Qf3 Nf6 36. Rxe6 Ne4 37. Rxg6 Rxg6 38. h3 Qe6
+39. Kh2 Ng5 40. Qf1 Ne4 41. Be5 Rg5 42. Qf3 Nd2 43. Qc3 Ne4 44. Qxa5 Qd5
+45. Re2 Kg6 46. b3 Kh5 47. Qe1 Kg6 48. Qb4 h5 49. Bf4 h4 50. Bxg5 Kxg5 51.
+a4 bxa4 52. bxa4 Ng3 53. Qd2+ Kg6 54. Re1 Ne4 55. Qf4 Qxd4 56. Rf1 Qxc5 57.
+Qxh4 Qd5 58. Qf4 c5 59. a5 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1408,22 +1427,22 @@ Kg6 54. Re1 Ne4 55. Qf4 Qxd4 56. Rf1 Qxc5 57. Qxh4 Qd5 58. Qf4 c5 59. a5 1-0
 [White "Topalov, Veselin"]
 [Black "Van Wely, Loek"]
 [Result "1-0"]
-[ECO "D11"]
 [WhiteElo "2780"]
 [BlackElo "2681"]
-[PlyCount "74"]
+[ECO "D11"]
 [EventDate "2008.??.??"]
+[PlyCount "74"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nbd2 Bf5 6. Qb3 Qc7 7. Bd3 e6 8. O-O
-Bd6 9. Re1 Nbd7 10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 Bxe4 13. Rxe4 c5 14. Rg4
-cxd4 15. Rxg7 Be5 16. Nxe5 Qxe5 17. Bh6 Qf6 18. Qh3 O-O-O 19. Qh5 Ne5 20. Rg5
-Nd3 21. Qh4 Qe7 22. Qg3 Nc5 23. Qa3 b6 24. b4 Ne4 25. Re5 Qb7 26. c5 Nc3 27.
-Bd2 Rhg8 28. g3 Nb5 29. Qd3 Kb8 30. a4 Nc7 31. Rc1 f6 32. cxb6 Qxb6 33. Rec5
-Rg7 34. Rc6 Qb7 35. b5 axb5 36. Ba5 Nd5 37. Bxd8 Nb4 1-0
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nbd2 Bf5 6. Qb3 Qc7 7. Bd3 e6 8.
+O-O Bd6 9. Re1 Nbd7 10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 Bxe4 13. Rxe4 c5 14.
+Rg4 cxd4 15. Rxg7 Be5 16. Nxe5 Qxe5 17. Bh6 Qf6 18. Qh3 O-O-O 19. Qh5 Ne5
+20. Rg5 Nd3 21. Qh4 Qe7 22. Qg3 Nc5 23. Qa3 b6 24. b4 Ne4 25. Re5 Qb7 26.
+c5 Nc3 27. Bd2 Rhg8 28. g3 Nb5 29. Qd3 Kb8 30. a4 Nc7 31. Rc1 f6 32. cxb6
+Qxb6 33. Rec5 Rg7 34. Rc6 Qb7 35. b5 axb5 36. Ba5 Nd5 37. Bxd8 Nb4 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1432,26 +1451,27 @@ Rg7 34. Rc6 Qb7 35. b5 axb5 36. Ba5 Nd5 37. Bxd8 Nb4 1-0
 [White "Morozevich, Alexander"]
 [Black "Karjakin, Sergey"]
 [Result "1-0"]
-[ECO "B90"]
 [WhiteElo "2765"]
 [BlackElo "2732"]
-[PlyCount "129"]
+[ECO "B90"]
 [EventDate "2008.??.??"]
+[PlyCount "129"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
-Nbd7 9. Qd2 b5 10. g4 Nb6 11. g5 Nfd7 12. Na5 Rc8 13. O-O-O Qc7 14. Kb1 Be7 15.
-h4 O-O 16. h5 b4 17. Nd5 Nxd5 18. exd5 Bf5 19. Nc6 Nb8 20. Bd3 Bxd3 21. Nxe7+
-Qxe7 22. Qxd3 Nd7 23. f4 Nc5 24. Bxc5 Rxc5 25. Rhe1 a5 26. fxe5 dxe5 27. Qf5 g6
-28. Rxe5 gxf5 29. Rxe7 Rd8 30. h6 Kf8 31. Re5 f4 32. a3 bxa3 33. bxa3 f3 34.
-Rf5 f2 35. Rf1 Rdxd5 36. R5xf2 Rc7 37. Rf5 Rd2 38. Rc1 a4 39. Ra5 Rg2 40. Rb5
-Ke7 41. Re1+ Kd6 42. Rd1+ Ke6 43. Rc1 Kd6 44. c3 Kc6 45. c4 Re7 46. Rc2 Rg3 47.
-Kb2 Ree3 48. Rf2 Ref3 49. Rxf3 Rxf3 50. Ra5 Rb3+ 51. Ka2 Rg3 52. Rf5 Kd6 53.
-Rxf7 Rg2+ 54. Kb1 Rxg5 55. Rxh7 Kc5 56. Rc7+ Kd4 57. h7 Rh5 58. Kc2 Rh2+ 59.
-Kd1 Kc3 60. c5 Kd4 61. Ke1 Ke4 62. Kf1 Rh6 63. Kg2 Kf4 64. Rf7+ Ke5 65. Kg3 1-0
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8.
+Be3 Nbd7 9. Qd2 b5 10. g4 Nb6 11. g5 Nfd7 12. Na5 Rc8 13. O-O-O Qc7 14. Kb1
+Be7 15. h4 O-O 16. h5 b4 17. Nd5 Nxd5 18. exd5 Bf5 19. Nc6 Nb8 20. Bd3 Bxd3
+21. Nxe7+ Qxe7 22. Qxd3 Nd7 23. f4 Nc5 24. Bxc5 Rxc5 25. Rhe1 a5 26. fxe5
+dxe5 27. Qf5 g6 28. Rxe5 gxf5 29. Rxe7 Rd8 30. h6 Kf8 31. Re5 f4 32. a3
+bxa3 33. bxa3 f3 34. Rf5 f2 35. Rf1 Rdxd5 36. R5xf2 Rc7 37. Rf5 Rd2 38. Rc1
+a4 39. Ra5 Rg2 40. Rb5 Ke7 41. Re1+ Kd6 42. Rd1+ Ke6 43. Rc1 Kd6 44. c3 Kc6
+45. c4 Re7 46. Rc2 Rg3 47. Kb2 Ree3 48. Rf2 Ref3 49. Rxf3 Rxf3 50. Ra5 Rb3+
+51. Ka2 Rg3 52. Rf5 Kd6 53. Rxf7 Rg2+ 54. Kb1 Rxg5 55. Rxh7 Kc5 56. Rc7+
+Kd4 57. h7 Rh5 58. Kc2 Rh2+ 59. Kd1 Kc3 60. c5 Kd4 61. Ke1 Ke4 62. Kf1 Rh6
+63. Kg2 Kf4 64. Rf7+ Ke5 65. Kg3 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1460,22 +1480,22 @@ Kd1 Kc3 60. c5 Kd4 61. Ke1 Ke4 62. Kf1 Rh6 63. Kg2 Kf4 64. Rf7+ Ke5 65. Kg3 1-0
 [White "Mamedyarov, Shakhriyar"]
 [Black "Ivanchuk, Vassily"]
 [Result "1/2-1/2"]
-[ECO "E69"]
 [WhiteElo "2760"]
 [BlackElo "2751"]
-[PlyCount "68"]
+[ECO "E69"]
 [EventDate "2008.??.??"]
+[PlyCount "68"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4
-a6 9. h3 c6 10. Be3 Re8 11. dxe5 dxe5 12. c5 Bf8 13. b4 a5 14. a3 b6 15. cxb6
-axb4 16. axb4 Rxa1 17. Qxa1 Nxb6 18. Rd1 Nfd7 19. b5 cxb5 20. Nxb5 Nc4 21. Bg5
-Qb6 22. Nc3 Qb2 23. Qxb2 Nxb2 24. Rb1 Nd3 25. Bf1 N3c5 26. Bb5 Ba6 27. Be3 Bxb5
-28. Rxb5 Rc8 29. Bxc5 Rxc5 30. Rxc5 Nxc5 31. Nxe5 Bg7 32. f4 Bxe5 33. fxe5 Nd3
-34. e6 fxe6 1/2-1/2
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8.
+e4 a6 9. h3 c6 10. Be3 Re8 11. dxe5 dxe5 12. c5 Bf8 13. b4 a5 14. a3 b6 15.
+cxb6 axb4 16. axb4 Rxa1 17. Qxa1 Nxb6 18. Rd1 Nfd7 19. b5 cxb5 20. Nxb5 Nc4
+21. Bg5 Qb6 22. Nc3 Qb2 23. Qxb2 Nxb2 24. Rb1 Nd3 25. Bf1 N3c5 26. Bb5 Ba6
+27. Be3 Bxb5 28. Rxb5 Rc8 29. Bxc5 Rxc5 30. Rxc5 Nxc5 31. Nxe5 Bg7 32. f4
+Bxe5 33. fxe5 Nd3 34. e6 fxe6 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1484,24 +1504,24 @@ Qb6 22. Nc3 Qb2 23. Qxb2 Nxb2 24. Rb1 Nd3 25. Bf1 N3c5 26. Bb5 Ba6 27. Be3 Bxb5
 [White "Leko, Peter"]
 [Black "Carlsen, Magnus"]
 [Result "1/2-1/2"]
-[ECO "B42"]
 [WhiteElo "2753"]
 [BlackElo "2733"]
-[PlyCount "92"]
+[ECO "B42"]
 [EventDate "2008.??.??"]
+[PlyCount "92"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Ne7 6. O-O Nbc6 7. Nb3 Ng6 8.
-Nc3 b5 9. Be3 Be7 10. f4 O-O 11. Qh5 d6 12. Rf3 e5 13. f5 Nf4 14. Bxf4 exf4 15.
-Rxf4 Ne5 16. Nd5 Bg5 17. Rff1 g6 18. Qh3 Bb7 19. Kh1 Rc8 20. a4 Bxd5 21. exd5
-Qb6 22. axb5 axb5 23. Rae1 b4 24. Qg3 Bf6 25. Nd2 Nxd3 26. cxd3 Bxb2 27. Nc4
-Qd4 28. Nxb2 Qxb2 29. Qxd6 b3 30. Qe7 Qd4 31. d6 b2 32. Rb1 Qxd3 33. d7 Rc2 34.
-h3 Qd5 35. Rg1 Rd2 36. f6 h5 37. Qb4 Rd3 38. Kh2 Qe5+ 39. Kh1 Qd5 40. Kh2 Qe5+
-41. Kh1 Rxd7 42. Qxb2 Qg5 43. Rgd1 Rxd1+ 44. Rxd1 Re8 45. Rf1 Qe3 46. Qc2 Qe5
-1/2-1/2
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Ne7 6. O-O Nbc6 7. Nb3 Ng6
+8. Nc3 b5 9. Be3 Be7 10. f4 O-O 11. Qh5 d6 12. Rf3 e5 13. f5 Nf4 14. Bxf4
+exf4 15. Rxf4 Ne5 16. Nd5 Bg5 17. Rff1 g6 18. Qh3 Bb7 19. Kh1 Rc8 20. a4
+Bxd5 21. exd5 Qb6 22. axb5 axb5 23. Rae1 b4 24. Qg3 Bf6 25. Nd2 Nxd3 26.
+cxd3 Bxb2 27. Nc4 Qd4 28. Nxb2 Qxb2 29. Qxd6 b3 30. Qe7 Qd4 31. d6 b2 32.
+Rb1 Qxd3 33. d7 Rc2 34. h3 Qd5 35. Rg1 Rd2 36. f6 h5 37. Qb4 Rd3 38. Kh2
+Qe5+ 39. Kh1 Qd5 40. Kh2 Qe5+ 41. Kh1 Rxd7 42. Qxb2 Qg5 43. Rgd1 Rxd1+ 44.
+Rxd1 Re8 45. Rf1 Qe3 46. Qc2 Qe5 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1510,21 +1530,21 @@ h3 Qd5 35. Rg1 Rd2 36. f6 h5 37. Qb4 Rd3 38. Kh2 Qe5+ 39. Kh1 Qd5 40. Kh2 Qe5+
 [White "Kramnik, Vladimir"]
 [Black "Aronian, Levon"]
 [Result "1/2-1/2"]
-[ECO "E15"]
 [WhiteElo "2799"]
 [BlackElo "2739"]
-[PlyCount "53"]
+[ECO "E15"]
 [EventDate "2008.??.??"]
+[PlyCount "53"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
-d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. e4 c5 14. exd5 exd5
-15. dxc5 dxc4 16. cxb6 Nxb6 17. Re1 cxb3 18. Qxb3 Nd7 19. Nf3 Nc5 20. Qa3 Ne6
-21. Qxa6 Rxc3 22. Qxa7 Bc5 23. Qa4 Qf6 24. Qe4 Ng5 25. Nxg5 Bxf2+ 26. Kh1 Qxg5
-27. Rf1 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8.
+Bc3 d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. e4 c5 14. exd5
+exd5 15. dxc5 dxc4 16. cxb6 Nxb6 17. Re1 cxb3 18. Qxb3 Nd7 19. Nf3 Nc5 20.
+Qa3 Ne6 21. Qxa6 Rxc3 22. Qxa7 Bc5 23. Qa4 Qf6 24. Qe4 Ng5 25. Nxg5 Bxf2+
+26. Kh1 Qxg5 27. Rf1 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1533,24 +1553,24 @@ d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. e4 c5 14. exd5 exd5
 [White "Anand, Viswanathan"]
 [Black "Gelfand, Boris"]
 [Result "0-1"]
-[ECO "D11"]
 [WhiteElo "2799"]
 [BlackElo "2737"]
-[PlyCount "98"]
+[ECO "D11"]
 [EventDate "2008.??.??"]
+[PlyCount "98"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. c4 Nf6 2. Nf3 c6 3. d4 d5 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Nc3 Nbd7 8. Bd3
-Bb4 9. O-O O-O 10. Rd1 Nb6 11. c5 Nbd7 12. a3 Ba5 13. b4 Bc7 14. Bf1 e5 15. b5
-Re8 16. Na2 Ne4 17. Bd3 Nexc5 18. Bxh7+ Kxh7 19. dxc5 Kg8 20. e4 Nxc5 21. exd5
-e4 22. Qg4 cxd5 23. Be3 Nd3 24. Nb4 Qd6 25. Qg3 Qd7 26. f4 d4 27. Nxd3 dxe3 28.
-Ne5 Qxb5 29. Ng4 Qg5 30. fxg5 Bxg3 31. Nxe3 Rad8 32. Nf5 Bf4 33. h4 Rxd1+ 34.
-Rxd1 e3 35. Re1 Re5 36. g4 g6 37. Nh6+ Kg7 38. Kg2 e2 39. Kf3 Bc1 40. a4 f6 41.
-gxf6+ Kxh6 42. g5+ Kh7 43. Rxe2 Rxe2 44. Kxe2 a6 45. Kd3 b5 46. axb5 axb5 47.
-Kc3 Ba3 48. Kd4 Kg8 49. Kd5 Kf7 0-1
+1. c4 Nf6 2. Nf3 c6 3. d4 d5 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Nc3 Nbd7 8.
+Bd3 Bb4 9. O-O O-O 10. Rd1 Nb6 11. c5 Nbd7 12. a3 Ba5 13. b4 Bc7 14. Bf1 e5
+15. b5 Re8 16. Na2 Ne4 17. Bd3 Nexc5 18. Bxh7+ Kxh7 19. dxc5 Kg8 20. e4
+Nxc5 21. exd5 e4 22. Qg4 cxd5 23. Be3 Nd3 24. Nb4 Qd6 25. Qg3 Qd7 26. f4 d4
+27. Nxd3 dxe3 28. Ne5 Qxb5 29. Ng4 Qg5 30. fxg5 Bxg3 31. Nxe3 Rad8 32. Nf5
+Bf4 33. h4 Rxd1+ 34. Rxd1 e3 35. Re1 Re5 36. g4 g6 37. Nh6+ Kg7 38. Kg2 e2
+39. Kf3 Bc1 40. a4 f6 41. gxf6+ Kxh6 42. g5+ Kh7 43. Rxe2 Rxe2 44. Kxe2 a6
+45. Kd3 b5 46. axb5 axb5 47. Kc3 Ba3 48. Kd4 Kg8 49. Kd5 Kf7 0-1
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1559,20 +1579,20 @@ Kc3 Ba3 48. Kd4 Kg8 49. Kd5 Kf7 0-1
 [White "Van Wely, Loek"]
 [Black "Anand, Viswanathan"]
 [Result "1/2-1/2"]
-[ECO "E15"]
 [WhiteElo "2681"]
 [BlackElo "2799"]
-[PlyCount "39"]
+[ECO "E15"]
 [EventDate "2008.??.??"]
+[PlyCount "39"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
-d5 9. Nbd2 Nbd7 10. O-O O-O 11. Re1 c5 12. e4 Nxe4 13. Nxe4 dxe4 14. Rxe4 Bb7
-15. Re1 Bf6 16. Ne5 Bxg2 17. Kxg2 cxd4 18. Bxd4 Nxe5 19. Bxe5 Bxe5 20. Rxe5
-1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8.
+Bc3 d5 9. Nbd2 Nbd7 10. O-O O-O 11. Re1 c5 12. e4 Nxe4 13. Nxe4 dxe4 14.
+Rxe4 Bb7 15. Re1 Bf6 16. Ne5 Bxg2 17. Kxg2 cxd4 18. Bxd4 Nxe5 19. Bxe5 Bxe5
+20. Rxe5 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1581,20 +1601,20 @@ d5 9. Nbd2 Nbd7 10. O-O O-O 11. Re1 c5 12. e4 Nxe4 13. Nxe4 dxe4 14. Rxe4 Bb7
 [White "Karjakin, Sergey"]
 [Black "Kramnik, Vladimir"]
 [Result "1/2-1/2"]
-[ECO "D17"]
 [WhiteElo "2732"]
 [BlackElo "2799"]
-[PlyCount "47"]
+[ECO "D17"]
 [EventDate "2008.??.??"]
+[PlyCount "47"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Na6 7. e3 Nb4 8. Bxc4
-e6 9. O-O Be7 10. f3 Bc2 11. Qe2 O-O 12. Na2 Nxa2 13. Rxa2 Bg6 14. Rd1 c5 15.
-dxc5 Qc7 16. Nxg6 hxg6 17. b4 a5 18. bxa5 Rxa5 19. Bb5 Bxc5 20. Rc2 Qe7 21. Kh1
-Raa8 22. e4 Rfd8 23. Rf1 Ne8 24. Bf4 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Na6 7. e3 Nb4 8.
+Bxc4 e6 9. O-O Be7 10. f3 Bc2 11. Qe2 O-O 12. Na2 Nxa2 13. Rxa2 Bg6 14. Rd1
+c5 15. dxc5 Qc7 16. Nxg6 hxg6 17. b4 a5 18. bxa5 Rxa5 19. Bb5 Bxc5 20. Rc2
+Qe7 21. Kh1 Raa8 22. e4 Rfd8 23. Rf1 Ne8 24. Bf4 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1603,21 +1623,21 @@ Raa8 22. e4 Rfd8 23. Rf1 Ne8 24. Bf4 1/2-1/2
 [White "Ivanchuk, Vassily"]
 [Black "Topalov, Veselin"]
 [Result "1-0"]
-[ECO "B13"]
 [WhiteElo "2751"]
 [BlackElo "2780"]
-[PlyCount "57"]
+[ECO "B13"]
 [EventDate "2008.??.??"]
+[PlyCount "57"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Be6 7. Nf3 h6 8.
-Bxf6 exf6 9. a3 Be7 10. Be2 O-O 11. O-O f5 12. Qc2 Bf6 13. Rad1 g6 14. Rfe1 Kg7
-15. b4 a6 16. Bf1 f4 17. h3 dxc4 18. d5 Bf5 19. Qc1 Na7 20. Nd4 Bd7 21. Ne6+
-Bxe6 22. dxe6 Qc8 23. Rd7 Kh8 24. Qxf4 Bg7 25. Rxf7 Qc6 26. e7 Rxf7 27. Qxf7
-Re8 28. Re6 Qd7 29. Nd5 1-0
+Bxf6 exf6 9. a3 Be7 10. Be2 O-O 11. O-O f5 12. Qc2 Bf6 13. Rad1 g6 14. Rfe1
+Kg7 15. b4 a6 16. Bf1 f4 17. h3 dxc4 18. d5 Bf5 19. Qc1 Na7 20. Nd4 Bd7 21.
+Ne6+ Bxe6 22. dxe6 Qc8 23. Rd7 Kh8 24. Qxf4 Bg7 25. Rxf7 Qc6 26. e7 Rxf7
+27. Qxf7 Re8 28. Re6 Qd7 29. Nd5 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1626,23 +1646,23 @@ Re8 28. Re6 Qd7 29. Nd5 1-0
 [White "Gelfand, Boris"]
 [Black "Mamedyarov, Shakhriyar"]
 [Result "1-0"]
-[ECO "A41"]
 [WhiteElo "2737"]
 [BlackElo "2760"]
-[PlyCount "81"]
+[ECO "A41"]
 [EventDate "2008.??.??"]
+[PlyCount "81"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. Nf3 g6 2. d4 Bg7 3. c4 d6 4. e4 Bg4 5. Be2 Nc6 6. Be3 Bxf3 7. Bxf3 e5 8. d5
-Nd4 9. O-O Ne7 10. Bxd4 exd4 11. Nd2 O-O 12. Be2 c5 13. Bd3 g5 14. g3 Ng6 15.
-Kh1 Kh8 16. Qe2 Qf6 17. Rad1 Rae8 18. Bb1 Bh6 19. Qh5 Ne5 20. f3 a6 21. b3 b5
-22. Rf2 Qg6 23. Qxg6 fxg6 24. Rdf1 Rb8 25. Kg2 Rf7 26. h3 Rbf8 27. Bc2 Rf6 28.
-Bb1 g4 29. f4 gxh3+ 30. Kxh3 g5 31. fxe5 Rxf2 32. Rxf2 Rxf2 33. exd6 g4+ 34.
-Kxg4 Bxd2 35. e5 Kg7 36. d7 Ba5 37. b4 Kf7 38. bxa5 Ke7 39. cxb5 axb5 40. a6
-Rf8 41. Bf5 1-0
+1. Nf3 g6 2. d4 Bg7 3. c4 d6 4. e4 Bg4 5. Be2 Nc6 6. Be3 Bxf3 7. Bxf3 e5 8.
+d5 Nd4 9. O-O Ne7 10. Bxd4 exd4 11. Nd2 O-O 12. Be2 c5 13. Bd3 g5 14. g3
+Ng6 15. Kh1 Kh8 16. Qe2 Qf6 17. Rad1 Rae8 18. Bb1 Bh6 19. Qh5 Ne5 20. f3 a6
+21. b3 b5 22. Rf2 Qg6 23. Qxg6 fxg6 24. Rdf1 Rb8 25. Kg2 Rf7 26. h3 Rbf8
+27. Bc2 Rf6 28. Bb1 g4 29. f4 gxh3+ 30. Kxh3 g5 31. fxe5 Rxf2 32. Rxf2 Rxf2
+33. exd6 g4+ 34. Kxg4 Bxd2 35. e5 Kg7 36. d7 Ba5 37. b4 Kf7 38. bxa5 Ke7
+39. cxb5 axb5 40. a6 Rf8 41. Bf5 1-0
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1651,25 +1671,26 @@ Rf8 41. Bf5 1-0
 [White "Carlsen, Magnus"]
 [Black "Morozevich, Alexander"]
 [Result "1/2-1/2"]
-[ECO "B13"]
 [WhiteElo "2733"]
 [BlackElo "2765"]
-[PlyCount "111"]
+[ECO "B13"]
 [EventDate "2008.??.??"]
+[PlyCount "111"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Ne5 g6 6. Bb5+ Nbd7 7. O-O Bg7 8.
-Nf3 O-O 9. Nc3 Nb8 10. h3 a6 11. Bd3 Nc6 12. a3 Bf5 13. Bxf5 gxf5 14. Ne2 e6
-15. Bg5 Qb6 16. Bxf6 Bxf6 17. Rb1 Kh8 18. c3 Rg8 19. Nf4 Qc7 20. Qd2 Be7 21.
-Kh1 Bd6 22. Nh5 b5 23. Rg1 Qe7 24. Rbe1 Rac8 25. Re2 Na5 26. Nf4 Nc4 27. Qc1
-Qc7 28. Nd3 a5 29. Qe1 Rg7 30. Nfe5 Rcg8 31. f4 Be7 32. g4 Nd6 33. Reg2 fxg4
-34. hxg4 f6 35. Nf3 Ne4 36. Qh4 Qc4 37. Nde1 b4 38. axb4 axb4 39. cxb4 Qxb4 40.
-g5 fxg5 41. fxg5 Bxg5 42. Nxg5 Rxg5 43. Rxg5 Rxg5 44. Rxg5 Nxg5 45. Qxg5 Qxe1+
-46. Kg2 Qe4+ 47. Kg3 Qd3+ 48. Kg2 Qxd4 49. Qd8+ Kg7 50. Qe7+ Kg6 51. Qxe6+ Kg5
-52. Qe7+ Kf4 53. Qh4+ Ke3 54. Qe1+ Kd3 55. Qd1+ Ke4 56. Qg4+ 1/2-1/2
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nf6 5. Ne5 g6 6. Bb5+ Nbd7 7. O-O Bg7
+8. Nf3 O-O 9. Nc3 Nb8 10. h3 a6 11. Bd3 Nc6 12. a3 Bf5 13. Bxf5 gxf5 14.
+Ne2 e6 15. Bg5 Qb6 16. Bxf6 Bxf6 17. Rb1 Kh8 18. c3 Rg8 19. Nf4 Qc7 20. Qd2
+Be7 21. Kh1 Bd6 22. Nh5 b5 23. Rg1 Qe7 24. Rbe1 Rac8 25. Re2 Na5 26. Nf4
+Nc4 27. Qc1 Qc7 28. Nd3 a5 29. Qe1 Rg7 30. Nfe5 Rcg8 31. f4 Be7 32. g4 Nd6
+33. Reg2 fxg4 34. hxg4 f6 35. Nf3 Ne4 36. Qh4 Qc4 37. Nde1 b4 38. axb4 axb4
+39. cxb4 Qxb4 40. g5 fxg5 41. fxg5 Bxg5 42. Nxg5 Rxg5 43. Rxg5 Rxg5 44.
+Rxg5 Nxg5 45. Qxg5 Qxe1+ 46. Kg2 Qe4+ 47. Kg3 Qd3+ 48. Kg2 Qxd4 49. Qd8+
+Kg7 50. Qe7+ Kg6 51. Qxe6+ Kg5 52. Qe7+ Kf4 53. Qh4+ Ke3 54. Qe1+ Kd3 55.
+Qd1+ Ke4 56. Qg4+ 1/2-1/2
 
 [Event "Amber Rapid section"]
 [Site "NICE"]
@@ -1678,18 +1699,19 @@ g5 fxg5 41. fxg5 Bxg5 42. Nxg5 Rxg5 43. Rxg5 Rxg5 44. Rxg5 Nxg5 45. Qxg5 Qxe1+
 [White "Aronian, Levon"]
 [Black "Leko, Peter"]
 [Result "1/2-1/2"]
-[ECO "E05"]
 [WhiteElo "2739"]
 [BlackElo "2753"]
-[PlyCount "52"]
+[ECO "E05"]
 [EventDate "2008.??.??"]
+[PlyCount "52"]
 [EventType "tourn (rapid)"]
 [EventRounds "11"]
 [EventCountry "FRA"]
 [EventCategory "21"]
 
-1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
-Bd7 9. Qxc4 Bc6 10. Bg5 h6 11. Bxf6 Bxf6 12. Nc3 Bxf3 13. Bxf3 c6 14. Qb3 Qc7
-15. Rfd1 a5 16. Rac1 Rd8 17. Ne4 Be7 18. d5 exd5 19. Rxd5 Rxd5 20. Qxd5 Nd7 21.
-Qb3 Qb6 22. Qxb6 Nxb6 23. b3 Nd5 24. Nd2 Bg5 25. Bxd5 Bxd2 26. Rd1 Bg5 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8.
+a4 Bd7 9. Qxc4 Bc6 10. Bg5 h6 11. Bxf6 Bxf6 12. Nc3 Bxf3 13. Bxf3 c6 14.
+Qb3 Qc7 15. Rfd1 a5 16. Rac1 Rd8 17. Ne4 Be7 18. d5 exd5 19. Rxd5 Rxd5 20.
+Qxd5 Nd7 21. Qb3 Qb6 22. Qxb6 Nxb6 23. b3 Nd5 24. Nd2 Bg5 25. Bxd5 Bxd2 26.
+Rd1 Bg5 1/2-1/2
 

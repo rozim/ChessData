@@ -5,24 +5,25 @@
 [White "Cramling, Pia"]
 [Black "Koneru, Humpy"]
 [Result "0-1"]
-[ECO "D38"]
 [WhiteElo "2548"]
 [BlackElo "2621"]
-[PlyCount "100"]
+[ECO "D38"]
 [EventDate "2009.03.06"]
+[PlyCount "100"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 Nbd7 7. e3 c5 8.
-Bd3 c4 9. Bf5 Nb6 10. Bxc8 Rxc8 11. O-O O-O 12. Ne5 Bxc3 13. bxc3 Qd6 14. Bxf6
-Qxf6 15. a4 Rc7 16. Qg4 Qd6 17. Rfb1 f6 18. Nf3 Qc6 19. a5 Nc8 20. Nd2 Nd6 21.
-Qd1 Qd7 22. Qc2 Re8 23. Re1 Qe6 24. Rab1 Rc6 25. h3 Ra6 26. Ra1 Qe7 27. Qa4 b5
-28. Qb4 Rc6 29. Nb1 a6 30. Na3 f5 31. Nc2 Qg5 32. f3 Nf7 33. Qb2 Rce6 34. Nb4
-f4 35. e4 dxe4 36. fxe4 f3 37. Qf2 fxg2 38. e5 Rf8 39. Qxg2 Rg6 40. Qxg5 Nxg5
-41. Rf1 Nxh3+ 42. Kh2 Nf4 43. Kh1 Rh6+ 44. Kg1 Rf5 45. Rf3 Nh3+ 46. Rxh3 Rxh3
-47. Nd5 Kf7 48. Rf1 Rxf1+ 49. Kxf1 g5 50. Nc7 b4 0-1
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 Nbd7 7. e3 c5
+8. Bd3 c4 9. Bf5 Nb6 10. Bxc8 Rxc8 11. O-O O-O 12. Ne5 Bxc3 13. bxc3 Qd6
+14. Bxf6 Qxf6 15. a4 Rc7 16. Qg4 Qd6 17. Rfb1 f6 18. Nf3 Qc6 19. a5 Nc8 20.
+Nd2 Nd6 21. Qd1 Qd7 22. Qc2 Re8 23. Re1 Qe6 24. Rab1 Rc6 25. h3 Ra6 26. Ra1
+Qe7 27. Qa4 b5 28. Qb4 Rc6 29. Nb1 a6 30. Na3 f5 31. Nc2 Qg5 32. f3 Nf7 33.
+Qb2 Rce6 34. Nb4 f4 35. e4 dxe4 36. fxe4 f3 37. Qf2 fxg2 38. e5 Rf8 39.
+Qxg2 Rg6 40. Qxg5 Nxg5 41. Rf1 Nxh3+ 42. Kh2 Nf4 43. Kh1 Rh6+ 44. Kg1 Rf5
+45. Rf3 Nh3+ 46. Rxh3 Rxh3 47. Nd5 Kf7 48. Rf1 Rxf1+ 49. Kxf1 g5 50. Nc7 b4
+0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -31,21 +32,21 @@ f4 35. e4 dxe4 36. fxe4 f3 37. Qf2 fxg2 38. e5 Rf8 39. Qxg2 Rg6 40. Qxg5 Nxg5
 [White "Fierro Baquero, Martha"]
 [Black "Mamedjarova, Zeinab"]
 [Result "1-0"]
-[ECO "C77"]
 [WhiteElo "2403"]
 [BlackElo "2362"]
-[PlyCount "59"]
+[ECO "C77"]
 [EventDate "2009.03.06"]
+[PlyCount "59"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. O-O Bg7 8. Re1
-O-O 9. Nbd2 Nd7 10. Nf1 Nc5 11. Bc2 Ne6 12. Ng3 Qe7 13. Be3 f5 14. exf5 gxf5
-15. Bc1 d5 16. Bb3 e4 17. dxe4 fxe4 18. Nd4 Ncxd4 19. cxd4 c6 20. Be3 Kh8 21.
-Qd2 Qf7 22. Rf1 Bd7 23. f3 exf3 24. Rxf3 Qe7 25. Raf1 Nc7 26. Bc2 Bg4 27. Qd3
-Qh4 28. Bg5 Bxf3 29. Bxh4 Be4 30. Nxe4 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. O-O Bg7 8.
+Re1 O-O 9. Nbd2 Nd7 10. Nf1 Nc5 11. Bc2 Ne6 12. Ng3 Qe7 13. Be3 f5 14. exf5
+gxf5 15. Bc1 d5 16. Bb3 e4 17. dxe4 fxe4 18. Nd4 Ncxd4 19. cxd4 c6 20. Be3
+Kh8 21. Qd2 Qf7 22. Rf1 Bd7 23. f3 exf3 24. Rxf3 Qe7 25. Raf1 Nc7 26. Bc2
+Bg4 27. Qd3 Qh4 28. Bg5 Bxf3 29. Bxh4 Be4 30. Nxe4 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -54,24 +55,24 @@ Qh4 28. Bg5 Bxf3 29. Bxh4 Be4 30. Nxe4 1-0
 [White "Hou, Yifan"]
 [Black "Chiburdanidze, Maia"]
 [Result "1/2-1/2"]
-[ECO "B19"]
 [WhiteElo "2571"]
 [BlackElo "2516"]
-[PlyCount "96"]
+[ECO "B19"]
 [EventDate "2009.03.06"]
+[PlyCount "96"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 e6 8. Ne5
-Bh7 9. Bd3 Bxd3 10. Qxd3 Nd7 11. f4 Nxe5 12. fxe5 c5 13. Be3 cxd4 14. O-O-O Ne7
-15. Qb5+ Qd7 16. Qxd7+ Kxd7 17. Bxd4 Ke8 18. Kb1 Nc6 19. b3 Rd8 20. Bb2 Rxd1+
-21. Rxd1 h5 22. Ne4 Be7 23. g3 Rh6 24. Rf1 Rg6 25. Rf4 Nb8 26. Rf3 Nd7 27. c4
-f5 28. Nf2 f4 29. gxf4 Bxh4 30. Ne4 Rg1+ 31. Kc2 Rg2+ 32. Kb1 Be7 33. Nd6+ Bxd6
-34. exd6 Rg1+ 35. Kc2 Rg2+ 36. Kb1 Rg1+ 37. Kc2 Rg2+ 38. Kb1 h4 39. b4 Nb6 40.
-c5 Nc4 41. Bc1 Rg3 42. Rf1 h3 43. f5 exf5 44. Rd1 Rg4 45. Rh1 Rg3 46. Bf4 Rg4
-47. Bc1 Rg3 48. Bf4 Rg4 1/2-1/2
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 e6 8.
+Ne5 Bh7 9. Bd3 Bxd3 10. Qxd3 Nd7 11. f4 Nxe5 12. fxe5 c5 13. Be3 cxd4 14.
+O-O-O Ne7 15. Qb5+ Qd7 16. Qxd7+ Kxd7 17. Bxd4 Ke8 18. Kb1 Nc6 19. b3 Rd8
+20. Bb2 Rxd1+ 21. Rxd1 h5 22. Ne4 Be7 23. g3 Rh6 24. Rf1 Rg6 25. Rf4 Nb8
+26. Rf3 Nd7 27. c4 f5 28. Nf2 f4 29. gxf4 Bxh4 30. Ne4 Rg1+ 31. Kc2 Rg2+
+32. Kb1 Be7 33. Nd6+ Bxd6 34. exd6 Rg1+ 35. Kc2 Rg2+ 36. Kb1 Rg1+ 37. Kc2
+Rg2+ 38. Kb1 h4 39. b4 Nb6 40. c5 Nc4 41. Bc1 Rg3 42. Rf1 h3 43. f5 exf5
+44. Rd1 Rg4 45. Rh1 Rg3 46. Bf4 Rg4 47. Bc1 Rg3 48. Bf4 Rg4 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -80,27 +81,27 @@ c5 Nc4 41. Bc1 Rg3 42. Rf1 h3 43. f5 exf5 44. Rd1 Rg4 45. Rh1 Rg3 46. Bf4 Rg4
 [White "Sebag, Marie"]
 [Black "Danielian, Elina"]
 [Result "0-1"]
-[ECO "B12"]
 [WhiteElo "2529"]
 [BlackElo "2496"]
-[PlyCount "132"]
+[ECO "B12"]
 [EventDate "2009.03.06"]
+[PlyCount "132"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O h6 7. Nbd2 Ne7 8. Nb3
-Nc8 9. a4 a5 10. Bd2 Be7 11. c4 dxc4 12. Bxc4 O-O 13. Be2 Qb6 14. Bc3 Bb4 15.
-Nfd2 Bxc3 16. bxc3 Rd8 17. Bf3 Qc7 18. Qe2 Ne7 19. Rfc1 b5 20. axb5 a4 21. Nc5
-Nxc5 22. dxc5 Bd3 23. Qe1 cxb5 24. Bxa8 Rxa8 25. Qe3 Rd8 26. Nf3 Nf5 27. Qf4
-Qxc5 28. Qb4 Qxb4 29. cxb4 Be2 30. Rc5 g5 31. h3 Kg7 32. Ra2 Rd1+ 33. Kh2 Bxf3
-34. gxf3 Nd4 35. Kg2 Rb1 36. Ra3 Rxb4 37. Rd3 Nf5 38. Rc7 Rf4 39. Ra7 Nh4+ 40.
-Kg3 Nf5+ 41. Kg2 Nh4+ 42. Kg3 Ng6 43. Re3 Rh4 44. Ra5 Nf4 45. Kh2 Rxh3+ 46. Kg1
-Nd5 47. Rd3 Nf4 48. Re3 Ng6 49. Rxb5 Nh4 50. Ra5 Nxf3+ 51. Kg2 g4 52. Rxa4 h5
-53. Ree4 Nh4+ 54. Kg1 Rd3 55. Kf1 Ng6 56. Ra5 Rf3 57. Kg1 Kh6 58. Ra7 Rf5 59.
-Ra5 Kg5 60. Re3 h4 61. Re4 Rf4 62. Re2 h3 63. Rb5 Nh4 64. Kh1 Rd4 65. Rb1 Nf3
-66. Rc2 Nxe5 0-1
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O h6 7. Nbd2 Ne7 8.
+Nb3 Nc8 9. a4 a5 10. Bd2 Be7 11. c4 dxc4 12. Bxc4 O-O 13. Be2 Qb6 14. Bc3
+Bb4 15. Nfd2 Bxc3 16. bxc3 Rd8 17. Bf3 Qc7 18. Qe2 Ne7 19. Rfc1 b5 20. axb5
+a4 21. Nc5 Nxc5 22. dxc5 Bd3 23. Qe1 cxb5 24. Bxa8 Rxa8 25. Qe3 Rd8 26. Nf3
+Nf5 27. Qf4 Qxc5 28. Qb4 Qxb4 29. cxb4 Be2 30. Rc5 g5 31. h3 Kg7 32. Ra2
+Rd1+ 33. Kh2 Bxf3 34. gxf3 Nd4 35. Kg2 Rb1 36. Ra3 Rxb4 37. Rd3 Nf5 38. Rc7
+Rf4 39. Ra7 Nh4+ 40. Kg3 Nf5+ 41. Kg2 Nh4+ 42. Kg3 Ng6 43. Re3 Rh4 44. Ra5
+Nf4 45. Kh2 Rxh3+ 46. Kg1 Nd5 47. Rd3 Nf4 48. Re3 Ng6 49. Rxb5 Nh4 50. Ra5
+Nxf3+ 51. Kg2 g4 52. Rxa4 h5 53. Ree4 Nh4+ 54. Kg1 Rd3 55. Kf1 Ng6 56. Ra5
+Rf3 57. Kg1 Kh6 58. Ra7 Rf5 59. Ra5 Kg5 60. Re3 h4 61. Re4 Rf4 62. Re2 h3
+63. Rb5 Nh4 64. Kh1 Rd4 65. Rb1 Nf3 66. Rc2 Nxe5 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -109,28 +110,29 @@ Ra5 Kg5 60. Re3 h4 61. Re4 Rf4 62. Re2 h3 63. Rb5 Nh4 64. Kh1 Rd4 65. Rb1 Nf3
 [White "Yildiz, Betul Cemre"]
 [Black "Stefanova, Antoaneta"]
 [Result "0-1"]
-[ECO "B06"]
 [WhiteElo "2214"]
 [BlackElo "2557"]
-[PlyCount "148"]
+[ECO "B06"]
 [EventDate "2009.03.06"]
+[PlyCount "148"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 g6 2. d4 Bg7 3. f3 d5 4. e5 c5 5. c3 Qb6 6. Bd3 Nc6 7. Ne2 h5 8. Bc2 Nh6
-9. dxc5 Qxc5 10. Nf4 Nxe5 11. Qxd5 Qb6 12. Na3 Bd7 13. Qb3 Qa6 14. Nd5 Rc8 15.
-Bg5 f6 16. Bf4 Nd3+ 17. Bxd3 Qxd3 18. Rd1 Qf5 19. Nc7+ Rxc7 20. Bxc7 h4 21. Rd5
-Qe6+ 22. Kf2 Qc6 23. Qc4 Nf7 24. Rc5 Qe6 25. Re1 Qxc4 26. Rxc4 e5 27. Rd4 Bf8
-28. b4 h3 29. g3 Ng5 30. Bd6 Bh6 31. Nc4 Bc6 32. Rd3 Kf7 33. Nd2 Rd8 34. c4 Ne6
-35. Ne4 f5 36. Nc5 e4 37. fxe4 Nxc5 38. bxc5 fxe4 39. Rd4 e3+ 40. Rxe3 Bxe3+
-41. Kxe3 g5 42. Rd2 Re8+ 43. Kf2 Re4 44. Rc2 Kg6 45. Rc3 Kh5 46. Rc2 Kg4 47.
-Rc3 a5 48. Bc7 a4 49. Bd6 Bd7 50. Rc1 Bf5 51. Rc3 Rd4 52. Ke2 Be6 53. a3 Kf5
-54. g4+ Kxg4 55. Ke3 Rd1 56. Ke4 Bf5+ 57. Ke5 Re1+ 58. Kf6 Re6+ 59. Kf7 Re2 60.
-Kf6 Bd7 61. Be5 Rf2+ 62. Kg6 Be8+ 63. Kh6 Kf5 64. Bd6 g4 65. Re3 Bc6 66. Kg7
-Be4 67. Rc3 Rf3 68. Rc1 Bc6 69. Ra1 g3 70. hxg3 Kg4 71. Rd1 Re3 72. Rd4+ Be4
-73. Rd2 Bg2 74. Rd4+ Re4 0-1
+1. e4 g6 2. d4 Bg7 3. f3 d5 4. e5 c5 5. c3 Qb6 6. Bd3 Nc6 7. Ne2 h5 8. Bc2
+Nh6 9. dxc5 Qxc5 10. Nf4 Nxe5 11. Qxd5 Qb6 12. Na3 Bd7 13. Qb3 Qa6 14. Nd5
+Rc8 15. Bg5 f6 16. Bf4 Nd3+ 17. Bxd3 Qxd3 18. Rd1 Qf5 19. Nc7+ Rxc7 20.
+Bxc7 h4 21. Rd5 Qe6+ 22. Kf2 Qc6 23. Qc4 Nf7 24. Rc5 Qe6 25. Re1 Qxc4 26.
+Rxc4 e5 27. Rd4 Bf8 28. b4 h3 29. g3 Ng5 30. Bd6 Bh6 31. Nc4 Bc6 32. Rd3
+Kf7 33. Nd2 Rd8 34. c4 Ne6 35. Ne4 f5 36. Nc5 e4 37. fxe4 Nxc5 38. bxc5
+fxe4 39. Rd4 e3+ 40. Rxe3 Bxe3+ 41. Kxe3 g5 42. Rd2 Re8+ 43. Kf2 Re4 44.
+Rc2 Kg6 45. Rc3 Kh5 46. Rc2 Kg4 47. Rc3 a5 48. Bc7 a4 49. Bd6 Bd7 50. Rc1
+Bf5 51. Rc3 Rd4 52. Ke2 Be6 53. a3 Kf5 54. g4+ Kxg4 55. Ke3 Rd1 56. Ke4
+Bf5+ 57. Ke5 Re1+ 58. Kf6 Re6+ 59. Kf7 Re2 60. Kf6 Bd7 61. Be5 Rf2+ 62. Kg6
+Be8+ 63. Kh6 Kf5 64. Bd6 g4 65. Re3 Bc6 66. Kg7 Be4 67. Rc3 Rf3 68. Rc1 Bc6
+69. Ra1 g3 70. hxg3 Kg4 71. Rd1 Re3 72. Rd4+ Be4 73. Rd2 Bg2 74. Rd4+ Re4
+0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -139,21 +141,21 @@ Be4 67. Rc3 Rf3 68. Rc1 Bc6 69. Ra1 g3 70. hxg3 Kg4 71. Rd1 Re3 72. Rd4+ Be4
 [White "Zhao Xue"]
 [Black "Shen, Yang"]
 [Result "1-0"]
-[ECO "D17"]
 [WhiteElo "2508"]
 [BlackElo "2448"]
-[PlyCount "57"]
+[ECO "D17"]
 [EventDate "2009.03.06"]
+[PlyCount "57"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6 8.
-Ne5 a5 9. e3 h6 10. f3 Nfd7 11. e4 Nxe5 12. exf5 Nec4 13. Qb3 Nd6 14. Bd3 Nd7
-15. Be3 Qb6 16. Qc2 Nf6 17. O-O Rc8 18. Rac1 Qb4 19. Bf2 b5 20. Nxb5 cxb5 21.
-Qxc8+ Nxc8 22. Rxc8+ Kd7 23. Rfc1 e6 24. Bxb5+ Ke7 25. R1c7+ Kd6 26. Bg3+ Kd5
-27. Rd8+ Bd6 28. Rxd6+ Qxd6 29. Bc4+ 1-0
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Nb6
+8. Ne5 a5 9. e3 h6 10. f3 Nfd7 11. e4 Nxe5 12. exf5 Nec4 13. Qb3 Nd6 14.
+Bd3 Nd7 15. Be3 Qb6 16. Qc2 Nf6 17. O-O Rc8 18. Rac1 Qb4 19. Bf2 b5 20.
+Nxb5 cxb5 21. Qxc8+ Nxc8 22. Rxc8+ Kd7 23. Rfc1 e6 24. Bxb5+ Ke7 25. R1c7+
+Kd6 26. Bg3+ Kd5 27. Rd8+ Bd6 28. Rxd6+ Qxd6 29. Bc4+ 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -162,22 +164,23 @@ Qxc8+ Nxc8 22. Rxc8+ Kd7 23. Rfc1 e6 24. Bxb5+ Ke7 25. R1c7+ Kd6 26. Bg3+ Kd5
 [White "Chiburdanidze, Maia"]
 [Black "Zhao Xue"]
 [Result "1/2-1/2"]
-[ECO "E12"]
 [WhiteElo "2516"]
 [BlackElo "2508"]
-[PlyCount "73"]
+[ECO "E12"]
 [EventDate "2009.03.06"]
+[PlyCount "73"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 Ba6 5. Qb3 Be7 6. Nc3 O-O 7. e4 d6 8. Be2
-Nbd7 9. h3 c6 10. e5 Ne8 11. exd6 Bxd6 12. Bg5 Nef6 13. Rd1 h6 14. Be3 Qc7 15.
-Qa4 Bb7 16. Qc2 e5 17. c5 bxc5 18. dxe5 Nxe5 19. Nxe5 Bxe5 20. Bxc5 Rfe8 21.
-O-O Bxc3 22. Bd6 Qa5 23. bxc3 Ne4 24. Bb4 Qb6 25. c4 c5 26. Be1 Ng5 27. f3 Ne6
-28. Bc3 Nf4 29. Rfe1 Nxe2+ 30. Rxe2 Bc6 31. Rxe8+ Rxe8 32. Rd6 Rd8 33. Rxd8+
-Qxd8 34. Qf5 Qd1+ 35. Kh2 Qd6+ 36. Qe5 Qxe5+ 37. Bxe5 1/2-1/2
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 Ba6 5. Qb3 Be7 6. Nc3 O-O 7. e4 d6 8.
+Be2 Nbd7 9. h3 c6 10. e5 Ne8 11. exd6 Bxd6 12. Bg5 Nef6 13. Rd1 h6 14. Be3
+Qc7 15. Qa4 Bb7 16. Qc2 e5 17. c5 bxc5 18. dxe5 Nxe5 19. Nxe5 Bxe5 20. Bxc5
+Rfe8 21. O-O Bxc3 22. Bd6 Qa5 23. bxc3 Ne4 24. Bb4 Qb6 25. c4 c5 26. Be1
+Ng5 27. f3 Ne6 28. Bc3 Nf4 29. Rfe1 Nxe2+ 30. Rxe2 Bc6 31. Rxe8+ Rxe8 32.
+Rd6 Rd8 33. Rxd8+ Qxd8 34. Qf5 Qd1+ 35. Kh2 Qd6+ 36. Qe5 Qxe5+ 37. Bxe5
+1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -186,20 +189,20 @@ Qxd8 34. Qf5 Qd1+ 35. Kh2 Qd6+ 36. Qe5 Qxe5+ 37. Bxe5 1/2-1/2
 [White "Cramling, Pia"]
 [Black "Yildiz, Betul Cemre"]
 [Result "1-0"]
-[ECO "D21"]
 [WhiteElo "2548"]
 [BlackElo "2214"]
-[PlyCount "43"]
+[ECO "D21"]
 [EventDate "2009.03.06"]
+[PlyCount "43"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
 1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. e3 cxd4 5. Bxc4 Qc7 6. Bb3 e6 7. O-O d3 8.
-Qxd3 Nf6 9. Nc3 Nbd7 10. Qe2 a6 11. e4 Nc5 12. Bc2 b5 13. Bd2 Bb7 14. Rfc1 Qd8
-15. b4 Ncd7 16. a4 bxa4 17. Bxa4 Bxb4 18. Nd5 Bd6 19. Nxf6+ gxf6 20. Qd3 Qe7
-21. Rab1 Rb8 22. Rxb7 1-0
+Qxd3 Nf6 9. Nc3 Nbd7 10. Qe2 a6 11. e4 Nc5 12. Bc2 b5 13. Bd2 Bb7 14. Rfc1
+Qd8 15. b4 Ncd7 16. a4 bxa4 17. Bxa4 Bxb4 18. Nd5 Bd6 19. Nxf6+ gxf6 20.
+Qd3 Qe7 21. Rab1 Rb8 22. Rxb7 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -208,21 +211,21 @@ Qxd3 Nf6 9. Nc3 Nbd7 10. Qe2 a6 11. e4 Nc5 12. Bc2 b5 13. Bd2 Bb7 14. Rfc1 Qd8
 [White "Koneru, Humpy"]
 [Black "Danielian, Elina"]
 [Result "1-0"]
-[ECO "A39"]
 [WhiteElo "2621"]
 [BlackElo "2496"]
-[PlyCount "61"]
+[ECO "A39"]
 [EventDate "2009.03.06"]
+[PlyCount "61"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
 1. c4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 g6 5. Bg2 Bg7 6. O-O O-O 7. d4 cxd4 8.
-Nxd4 Nxd4 9. Qxd4 d6 10. Qh4 Rb8 11. h3 Be6 12. Be3 Qa5 13. Rac1 Rfc8 14. b3 a6
-15. Qg5 b5 16. Ba7 Ra8 17. Bd4 h6 18. Qe3 bxc4 19. Bxa8 Rxa8 20. bxc4 Bxh3 21.
-Qxe7 Re8 22. Qxd6 Bxf1 23. Kxf1 Qg5 24. Qf4 Qxf4 25. gxf4 Nd7 26. e3 Rb8 27.
-Nd5 Bf8 28. c5 Bxc5 29. Bxc5 Rb5 30. Ne7+ Kf8 31. Bd6 1-0
+Nxd4 Nxd4 9. Qxd4 d6 10. Qh4 Rb8 11. h3 Be6 12. Be3 Qa5 13. Rac1 Rfc8 14.
+b3 a6 15. Qg5 b5 16. Ba7 Ra8 17. Bd4 h6 18. Qe3 bxc4 19. Bxa8 Rxa8 20. bxc4
+Bxh3 21. Qxe7 Re8 22. Qxd6 Bxf1 23. Kxf1 Qg5 24. Qf4 Qxf4 25. gxf4 Nd7 26.
+e3 Rb8 27. Nd5 Bf8 28. c5 Bxc5 29. Bxc5 Rb5 30. Ne7+ Kf8 31. Bd6 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -231,23 +234,23 @@ Nd5 Bf8 28. c5 Bxc5 29. Bxc5 Rb5 30. Ne7+ Kf8 31. Bd6 1-0
 [White "Mamedjarova, Zeinab"]
 [Black "Hou, Yifan"]
 [Result "0-1"]
-[ECO "A70"]
 [WhiteElo "2362"]
 [BlackElo "2571"]
-[PlyCount "86"]
+[ECO "A70"]
 [EventDate "2009.03.06"]
+[PlyCount "86"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. e4 a6 8. h3 b5
-9. Bd3 Bg7 10. O-O O-O 11. Re1 Nbd7 12. Bf4 Qb6 13. Rc1 c4 14. Bb1 Bb7 15. Qd2
-Rfe8 16. Be3 Qd8 17. Bd4 Rc8 18. a3 Nc5 19. Bc2 Rc7 20. Re2 Rc8 21. Rd1 Qd7 22.
-Qg5 Qe7 23. Rde1 h6 24. Qd2 Qf8 25. Nh2 Re7 26. f4 Rd8 27. Nf3 Qe8 28. Re3 Qd7
-29. Qf2 Qe8 30. R3e2 Rc8 31. Qh4 Ncd7 32. Kh1 Qf8 33. Qf2 Rce8 34. Na2 Nh5 35.
-Bxg7 Qxg7 36. Nh2 Qxb2 37. Bb1 Qf6 38. g3 Bxd5 39. Ng4 Qg7 40. Rd2 Bxe4+ 41.
-Bxe4 Rxe4 42. Rxe4 Rxe4 43. Rxd6 Re2 0-1
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. e4 a6 8. h3
+b5 9. Bd3 Bg7 10. O-O O-O 11. Re1 Nbd7 12. Bf4 Qb6 13. Rc1 c4 14. Bb1 Bb7
+15. Qd2 Rfe8 16. Be3 Qd8 17. Bd4 Rc8 18. a3 Nc5 19. Bc2 Rc7 20. Re2 Rc8 21.
+Rd1 Qd7 22. Qg5 Qe7 23. Rde1 h6 24. Qd2 Qf8 25. Nh2 Re7 26. f4 Rd8 27. Nf3
+Qe8 28. Re3 Qd7 29. Qf2 Qe8 30. R3e2 Rc8 31. Qh4 Ncd7 32. Kh1 Qf8 33. Qf2
+Rce8 34. Na2 Nh5 35. Bxg7 Qxg7 36. Nh2 Qxb2 37. Bb1 Qf6 38. g3 Bxd5 39. Ng4
+Qg7 40. Rd2 Bxe4+ 41. Bxe4 Rxe4 42. Rxe4 Rxe4 43. Rxd6 Re2 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -256,26 +259,27 @@ Bxe4 Rxe4 42. Rxe4 Rxe4 43. Rxd6 Re2 0-1
 [White "Shen, Yang"]
 [Black "Sebag, Marie"]
 [Result "1/2-1/2"]
-[ECO "D48"]
 [WhiteElo "2448"]
 [BlackElo "2529"]
-[PlyCount "123"]
+[ECO "D48"]
 [EventDate "2009.03.06"]
+[PlyCount "123"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
-a6 9. O-O Bb7 10. e4 c5 11. d5 c4 12. Bc2 Qc7 13. dxe6 fxe6 14. Ng5 Nc5 15. e5
-Qxe5 16. Re1 Qd6 17. Qxd6 Bxd6 18. Be3 O-O 19. Rad1 Be7 20. Bxc5 Bxc5 21. Nxe6
-Rfc8 22. h3 Rab8 23. g4 Bf3 24. Rd2 Bb4 25. Re5 Re8 26. Re3 Bb7 27. Rde2 g6 28.
-Kf1 Re7 29. f4 Bxc3 30. Rxc3 Nd5 31. Rg3 Nxf4 32. Nxf4 Rf7 33. Rf2 Rbf8 34. Nd3
-Be4 35. Rxf7 Rxf7+ 36. Ke2 cxd3+ 37. Bxd3 Bd5 38. a3 g5 39. Re3 h6 40. Bf5 Rc7
-41. Re8+ Kg7 42. Rd8 Re7+ 43. Kd2 Be6 44. Bd3 h5 45. gxh5 Rd7 46. Rxd7+ Bxd7
-47. Be4 Bxh3 48. b4 Kh6 49. Bb7 Bd7 50. Ke3 Kxh5 51. Kf2 Kg4 52. Kg2 Kf4 53.
-Kf2 g4 54. Bxa6 Bc6 55. Bc8 g3+ 56. Kg1 Ke3 57. Ba6 Ke4 58. Kf1 Ke5 59. Kg1 Kf4
-60. Kf1 Ke3 61. Kg1 Kd4 62. Bxb5 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8.
+Bd3 a6 9. O-O Bb7 10. e4 c5 11. d5 c4 12. Bc2 Qc7 13. dxe6 fxe6 14. Ng5 Nc5
+15. e5 Qxe5 16. Re1 Qd6 17. Qxd6 Bxd6 18. Be3 O-O 19. Rad1 Be7 20. Bxc5
+Bxc5 21. Nxe6 Rfc8 22. h3 Rab8 23. g4 Bf3 24. Rd2 Bb4 25. Re5 Re8 26. Re3
+Bb7 27. Rde2 g6 28. Kf1 Re7 29. f4 Bxc3 30. Rxc3 Nd5 31. Rg3 Nxf4 32. Nxf4
+Rf7 33. Rf2 Rbf8 34. Nd3 Be4 35. Rxf7 Rxf7+ 36. Ke2 cxd3+ 37. Bxd3 Bd5 38.
+a3 g5 39. Re3 h6 40. Bf5 Rc7 41. Re8+ Kg7 42. Rd8 Re7+ 43. Kd2 Be6 44. Bd3
+h5 45. gxh5 Rd7 46. Rxd7+ Bxd7 47. Be4 Bxh3 48. b4 Kh6 49. Bb7 Bd7 50. Ke3
+Kxh5 51. Kf2 Kg4 52. Kg2 Kf4 53. Kf2 g4 54. Bxa6 Bc6 55. Bc8 g3+ 56. Kg1
+Ke3 57. Ba6 Ke4 58. Kf1 Ke5 59. Kg1 Kf4 60. Kf1 Ke3 61. Kg1 Kd4 62. Bxb5
+1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -284,26 +288,27 @@ Kf2 g4 54. Bxa6 Bc6 55. Bc8 g3+ 56. Kg1 Ke3 57. Ba6 Ke4 58. Kf1 Ke5 59. Kg1 Kf4
 [White "Stefanova, Antoaneta"]
 [Black "Fierro Baquero, Martha"]
 [Result "1/2-1/2"]
-[ECO "C41"]
 [WhiteElo "2557"]
 [BlackElo "2403"]
-[PlyCount "125"]
+[ECO "C41"]
 [EventDate "2009.03.06"]
+[PlyCount "125"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d6 2. e4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Re1 c6 8. a4
-b6 9. Bg5 Bb7 10. Qd2 a6 11. Rad1 b5 12. Bb3 Qc7 13. Nh4 exd4 14. Nf5 Nc5 15.
-Qxd4 Rad8 16. Nh6+ gxh6 17. Bxf6 Ne6 18. Bxe6 fxe6 19. Bxe7 Qxe7 20. e5 d5 21.
-b4 Kh8 22. Ne2 Rf7 23. Qc5 Qh4 24. g3 Qh5 25. Nc1 Rdf8 26. Nd3 Qg4 27. c3 h5
-28. Qd4 Qh3 29. Re3 Rg8 30. Nf4 Qg4 31. Ng2 Qh3 32. Qh4 Qf5 33. Rf1 Rg4 34. Qh3
-bxa4 35. f3 Rc4 36. Qxf5 Rxf5 37. Nf4 Bc8 38. Ra1 c5 39. Rxa4 d4 40. cxd4 cxd4
-41. Re1 h4 42. Kg2 Bb7 43. Kh3 hxg3 44. hxg3 Kg8 45. Ra3 Rxb4 46. Nxe6 Rxf3 47.
-Rxf3 Bxf3 48. Rc1 Bd5 49. Nf4 Bc4 50. Kg4 d3 51. Kf3 d2 52. Rd1 Rb2 53. Ke3 Bb3
-54. Rxd2 Rxd2 55. Kxd2 Kg7 56. Kc3 Bf7 57. Kb4 Kh6 58. e6 Bxe6 59. Nxe6 Kh5 60.
-Nc5 Kg4 61. Ne4 Kf3 62. Ng5+ Kxg3 63. Nxh7 1/2-1/2
+1. d4 d6 2. e4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Re1 c6 8.
+a4 b6 9. Bg5 Bb7 10. Qd2 a6 11. Rad1 b5 12. Bb3 Qc7 13. Nh4 exd4 14. Nf5
+Nc5 15. Qxd4 Rad8 16. Nh6+ gxh6 17. Bxf6 Ne6 18. Bxe6 fxe6 19. Bxe7 Qxe7
+20. e5 d5 21. b4 Kh8 22. Ne2 Rf7 23. Qc5 Qh4 24. g3 Qh5 25. Nc1 Rdf8 26.
+Nd3 Qg4 27. c3 h5 28. Qd4 Qh3 29. Re3 Rg8 30. Nf4 Qg4 31. Ng2 Qh3 32. Qh4
+Qf5 33. Rf1 Rg4 34. Qh3 bxa4 35. f3 Rc4 36. Qxf5 Rxf5 37. Nf4 Bc8 38. Ra1
+c5 39. Rxa4 d4 40. cxd4 cxd4 41. Re1 h4 42. Kg2 Bb7 43. Kh3 hxg3 44. hxg3
+Kg8 45. Ra3 Rxb4 46. Nxe6 Rxf3 47. Rxf3 Bxf3 48. Rc1 Bd5 49. Nf4 Bc4 50.
+Kg4 d3 51. Kf3 d2 52. Rd1 Rb2 53. Ke3 Bb3 54. Rxd2 Rxd2 55. Kxd2 Kg7 56.
+Kc3 Bf7 57. Kb4 Kh6 58. e6 Bxe6 59. Nxe6 Kh5 60. Nc5 Kg4 61. Ne4 Kf3 62.
+Ng5+ Kxg3 63. Nxh7 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -312,26 +317,27 @@ Nc5 Kg4 61. Ne4 Kf3 62. Ng5+ Kxg3 63. Nxh7 1/2-1/2
 [White "Danielian, Elina"]
 [Black "Shen, Yang"]
 [Result "1/2-1/2"]
-[ECO "D11"]
 [WhiteElo "2496"]
 [BlackElo "2448"]
-[PlyCount "127"]
+[ECO "D11"]
 [EventDate "2009.03.06"]
+[PlyCount "127"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 Bg4 5. Nc3 e6 6. h3 Bxf3 7. Qxf3 Bb4 8. Bd3
-Nbd7 9. O-O O-O 10. Bd2 Qe7 11. a3 Bxc3 12. Bxc3 e5 13. Qd1 e4 14. Be2 Rfe8 15.
-Qb3 Nb6 16. Bb4 Qd7 17. cxd5 Nbxd5 18. Bd2 g6 19. Qc2 Kg7 20. a4 Re6 21. b4 a6
-22. b5 axb5 23. axb5 Rxa1 24. Rxa1 cxb5 25. Qc5 Rc6 26. Qxb5 Rc2 27. Qxd7 Nxd7
-28. Rd1 N7b6 29. Bb5 f5 30. Ba5 Nc8 31. Rb1 Nd6 32. Bf1 Kf6 33. Bd8+ Ke6 34.
-Bh4 f4 35. exf4 Nf5 36. Bd8 Nxd4 37. Bb6 Nc3 38. Rb4 Nc6 39. Rb3 Rc1 40. g3 Nd5
-41. Be3 Nxe3 42. fxe3 Ne7 43. Rb6+ Kd5 44. g4 Rc7 45. Rb5+ Kd6 46. Rb4 Nd5 47.
-Rxe4 Rc1 48. Kf2 Nc3 49. Rd4+ Kc5 50. Bd3 b5 51. f5 gxf5 52. gxf5 Nd5 53. Bxb5
-Rh1 54. Bf1 Nxe3 55. Kxe3 Rxf1 56. Rf4 Re1+ 57. Kf3 Kd5 58. f6 Re8 59. Kg4 Ke5
-60. Rf1 Rg8+ 61. Kh5 Ke6 62. Kh6 Rg6+ 63. Kxh7 Rxf6 64. Rxf6+ 1/2-1/2
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 Bg4 5. Nc3 e6 6. h3 Bxf3 7. Qxf3 Bb4 8.
+Bd3 Nbd7 9. O-O O-O 10. Bd2 Qe7 11. a3 Bxc3 12. Bxc3 e5 13. Qd1 e4 14. Be2
+Rfe8 15. Qb3 Nb6 16. Bb4 Qd7 17. cxd5 Nbxd5 18. Bd2 g6 19. Qc2 Kg7 20. a4
+Re6 21. b4 a6 22. b5 axb5 23. axb5 Rxa1 24. Rxa1 cxb5 25. Qc5 Rc6 26. Qxb5
+Rc2 27. Qxd7 Nxd7 28. Rd1 N7b6 29. Bb5 f5 30. Ba5 Nc8 31. Rb1 Nd6 32. Bf1
+Kf6 33. Bd8+ Ke6 34. Bh4 f4 35. exf4 Nf5 36. Bd8 Nxd4 37. Bb6 Nc3 38. Rb4
+Nc6 39. Rb3 Rc1 40. g3 Nd5 41. Be3 Nxe3 42. fxe3 Ne7 43. Rb6+ Kd5 44. g4
+Rc7 45. Rb5+ Kd6 46. Rb4 Nd5 47. Rxe4 Rc1 48. Kf2 Nc3 49. Rd4+ Kc5 50. Bd3
+b5 51. f5 gxf5 52. gxf5 Nd5 53. Bxb5 Rh1 54. Bf1 Nxe3 55. Kxe3 Rxf1 56. Rf4
+Re1+ 57. Kf3 Kd5 58. f6 Re8 59. Kg4 Ke5 60. Rf1 Rg8+ 61. Kh5 Ke6 62. Kh6
+Rg6+ 63. Kxh7 Rxf6 64. Rxf6+ 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -340,28 +346,28 @@ Rh1 54. Bf1 Nxe3 55. Kxe3 Rxf1 56. Rf4 Re1+ 57. Kf3 Kd5 58. f6 Re8 59. Kg4 Ke5
 [White "Fierro Baquero, Martha"]
 [Black "Cramling, Pia"]
 [Result "1-0"]
-[ECO "B48"]
 [WhiteElo "2403"]
 [BlackElo "2548"]
-[PlyCount "147"]
+[ECO "B48"]
 [EventDate "2009.03.06"]
+[PlyCount "147"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8. f3
-h5 9. O-O-O Be7 10. Qf2 d6 11. h3 b5 12. Nxc6 Qxc6 13. Bd3 h4 14. Kb1 b4 15.
-Ne2 e5 16. Bg5 a5 17. Bxh4 Be6 18. Bxf6 Bxf6 19. f4 a4 20. f5 Bd7 21. g4 Bh4
-22. Qe3 f6 23. Qd2 Rb8 24. Ng1 Bg5 25. Qe2 a3 26. Nf3 Bf4 27. Bc4 axb2 28. Qd3
-Ke7 29. h4 Rbc8 30. Bb3 Qc5 31. Rhe1 Bb5 32. Qd5 Qxd5 33. Rxd5 Bc6 34. Ra5 Rc7
-35. Kxb2 Rhc8 36. Re2 Be8 37. Ne1 Bg3 38. Nd3 Rb8 39. h5 Bb5 40. Rg2 Bxd3 41.
-cxd3 Bf4 42. Bc4 Be3 43. Kb3 Rcb7 44. Ra4 Kd8 45. Rc2 Bc5 46. Rg2 Be3 47. Bd5
-Rb5 48. Ra6 Rc5 49. Bc4 Kd7 50. Rc2 Kc7 51. Ra7+ Rb7 52. Ra4 Rc6 53. Rxb4 Rxb4+
-54. Kxb4 Kb6 55. a4 Bc5+ 56. Kb3 Be3 57. Re2 Bd4 58. Rc2 Be3 59. Rh2 Ka5 60.
-Rh1 Rc7 61. Rh3 Bg5 62. Bb5 Bf4 63. Rh1 Be3 64. Rh2 Bf4 65. Rb2 Bc1 66. Rc2 Rc5
-67. Rxc5 dxc5 68. Kc4 Be3 69. Kd5 Kb6 70. Ke6 Ka5 71. Kf7 Bh6 72. Kg6 Kb6 73.
-Bd7 Kc7 74. Be6 1-0
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6
+8. f3 h5 9. O-O-O Be7 10. Qf2 d6 11. h3 b5 12. Nxc6 Qxc6 13. Bd3 h4 14. Kb1
+b4 15. Ne2 e5 16. Bg5 a5 17. Bxh4 Be6 18. Bxf6 Bxf6 19. f4 a4 20. f5 Bd7
+21. g4 Bh4 22. Qe3 f6 23. Qd2 Rb8 24. Ng1 Bg5 25. Qe2 a3 26. Nf3 Bf4 27.
+Bc4 axb2 28. Qd3 Ke7 29. h4 Rbc8 30. Bb3 Qc5 31. Rhe1 Bb5 32. Qd5 Qxd5 33.
+Rxd5 Bc6 34. Ra5 Rc7 35. Kxb2 Rhc8 36. Re2 Be8 37. Ne1 Bg3 38. Nd3 Rb8 39.
+h5 Bb5 40. Rg2 Bxd3 41. cxd3 Bf4 42. Bc4 Be3 43. Kb3 Rcb7 44. Ra4 Kd8 45.
+Rc2 Bc5 46. Rg2 Be3 47. Bd5 Rb5 48. Ra6 Rc5 49. Bc4 Kd7 50. Rc2 Kc7 51.
+Ra7+ Rb7 52. Ra4 Rc6 53. Rxb4 Rxb4+ 54. Kxb4 Kb6 55. a4 Bc5+ 56. Kb3 Be3
+57. Re2 Bd4 58. Rc2 Be3 59. Rh2 Ka5 60. Rh1 Rc7 61. Rh3 Bg5 62. Bb5 Bf4 63.
+Rh1 Be3 64. Rh2 Bf4 65. Rb2 Bc1 66. Rc2 Rc5 67. Rxc5 dxc5 68. Kc4 Be3 69.
+Kd5 Kb6 70. Ke6 Ka5 71. Kf7 Bh6 72. Kg6 Kb6 73. Bd7 Kc7 74. Be6 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -370,29 +376,29 @@ Bd7 Kc7 74. Be6 1-0
 [White "Hou, Yifan"]
 [Black "Stefanova, Antoaneta"]
 [Result "1-0"]
-[ECO "C54"]
 [WhiteElo "2571"]
 [BlackElo "2557"]
-[PlyCount "155"]
+[ECO "C54"]
 [EventDate "2009.03.06"]
+[PlyCount "155"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 Bb6 6. Bb3 d6 7. Nbd2 Ne7 8. h3
-Ng6 9. Nf1 h6 10. Ng3 O-O 11. O-O Nh7 12. d4 c6 13. Be3 Ng5 14. Kh1 Qf6 15. Nh2
-Re8 16. Ng4 Qd8 17. f4 exf4 18. Bxf4 d5 19. e5 Nxf4 20. Rxf4 c5 21. Qf1 cxd4
-22. cxd4 Be6 23. Bc2 Rc8 24. Ne3 Qd7 25. Bd3 a6 26. Nh5 Rc6 27. Nf5 Bxf5 28.
-Bxf5 Qe7 29. h4 Nh7 30. Nxg7 Kxg7 31. Bxh7 Bxd4 32. Rxd4 Kxh7 33. Qf5+ Kh8 34.
-Rf1 Qxe5 35. Qxf7 Rce6 36. Rdf4 Qxb2 37. Qh5 Qg7 38. Qxd5 Re1 39. Rxe1 Rxe1+
-40. Kh2 Qc7 41. Qd4+ Kg8 42. g3 Re2+ 43. Kh3 Re7 44. Qd5+ Kh7 45. Qf5+ Kh8 46.
-Qf8+ Kh7 47. Qf5+ Kh8 48. Qg6 Qc8+ 49. Kg2 Re6 50. Qd3 Qc6+ 51. Kh2 Qe8 52.
-Qc3+ Kh7 53. Qc2+ Kh8 54. Qb2+ Kh7 55. Qxb7+ Kh8 56. Qb2+ Kh7 57. Qc2+ Kh8 58.
-Qc3+ Kh7 59. Qd3+ Kh8 60. Rf2 h5 61. Qf3 Kh7 62. Qf5+ Kh8 63. Kh3 Re1 64. Qf6+
-Kh7 65. Qf5+ Kh8 66. Qd5 Re5 67. Rf8+ Qxf8 68. Qxe5+ Kg8 69. Qg5+ Kh7 70. Qxh5+
-Kg7 71. Qe5+ Kh7 72. Kg4 Qg8+ 73. Kf5 Qxa2 74. Qe7+ Kh8 75. Qf6+ Kh7 76. Qg6+
-Kh8 77. Qh6+ Kg8 78. Qe6+ 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 Bb6 6. Bb3 d6 7. Nbd2 Ne7 8.
+h3 Ng6 9. Nf1 h6 10. Ng3 O-O 11. O-O Nh7 12. d4 c6 13. Be3 Ng5 14. Kh1 Qf6
+15. Nh2 Re8 16. Ng4 Qd8 17. f4 exf4 18. Bxf4 d5 19. e5 Nxf4 20. Rxf4 c5 21.
+Qf1 cxd4 22. cxd4 Be6 23. Bc2 Rc8 24. Ne3 Qd7 25. Bd3 a6 26. Nh5 Rc6 27.
+Nf5 Bxf5 28. Bxf5 Qe7 29. h4 Nh7 30. Nxg7 Kxg7 31. Bxh7 Bxd4 32. Rxd4 Kxh7
+33. Qf5+ Kh8 34. Rf1 Qxe5 35. Qxf7 Rce6 36. Rdf4 Qxb2 37. Qh5 Qg7 38. Qxd5
+Re1 39. Rxe1 Rxe1+ 40. Kh2 Qc7 41. Qd4+ Kg8 42. g3 Re2+ 43. Kh3 Re7 44.
+Qd5+ Kh7 45. Qf5+ Kh8 46. Qf8+ Kh7 47. Qf5+ Kh8 48. Qg6 Qc8+ 49. Kg2 Re6
+50. Qd3 Qc6+ 51. Kh2 Qe8 52. Qc3+ Kh7 53. Qc2+ Kh8 54. Qb2+ Kh7 55. Qxb7+
+Kh8 56. Qb2+ Kh7 57. Qc2+ Kh8 58. Qc3+ Kh7 59. Qd3+ Kh8 60. Rf2 h5 61. Qf3
+Kh7 62. Qf5+ Kh8 63. Kh3 Re1 64. Qf6+ Kh7 65. Qf5+ Kh8 66. Qd5 Re5 67. Rf8+
+Qxf8 68. Qxe5+ Kg8 69. Qg5+ Kh7 70. Qxh5+ Kg7 71. Qe5+ Kh7 72. Kg4 Qg8+ 73.
+Kf5 Qxa2 74. Qe7+ Kh8 75. Qf6+ Kh7 76. Qg6+ Kh8 77. Qh6+ Kg8 78. Qe6+ 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -401,23 +407,23 @@ Kh8 77. Qh6+ Kg8 78. Qe6+ 1-0
 [White "Sebag, Marie"]
 [Black "Chiburdanidze, Maia"]
 [Result "1/2-1/2"]
-[ECO "B12"]
 [WhiteElo "2529"]
 [BlackElo "2516"]
-[PlyCount "85"]
+[ECO "B12"]
 [EventDate "2009.03.06"]
+[PlyCount "85"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. c3 cxd4 8. cxd4
-Nge7 9. Nc3 Bg4 10. h3 Bxf3 11. Bxf3 Nf5 12. Be3 Nxe3 13. fxe3 Be7 14. Be2 Bg5
-15. Rf3 O-O 16. Bd3 f6 17. exf6 Rxf6 18. Qe2 Qe7 19. Raf1 Raf8 20. a3 g6 21. g3
-Kg7 22. Kg2 Rxf3 23. Rxf3 Rxf3 24. Qxf3 Qf7 25. h4 Qxf3+ 26. Kxf3 Bf6 27. Bb5
-Nd8 28. Bd3 Nc6 29. Bb5 Nd8 30. Ba4 a6 31. Ne2 b5 32. Bb3 Nc6 33. Nf4 Nd8 34.
-Bc2 Kf7 35. Bb3 a5 36. Bc2 Nb7 37. a4 bxa4 38. Bxa4 Ke7 39. h5 g5 40. Nd3 h6
-41. b4 axb4 42. Nxb4 Nd6 43. Nc6+ 1/2-1/2
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. c3 cxd4 8.
+cxd4 Nge7 9. Nc3 Bg4 10. h3 Bxf3 11. Bxf3 Nf5 12. Be3 Nxe3 13. fxe3 Be7 14.
+Be2 Bg5 15. Rf3 O-O 16. Bd3 f6 17. exf6 Rxf6 18. Qe2 Qe7 19. Raf1 Raf8 20.
+a3 g6 21. g3 Kg7 22. Kg2 Rxf3 23. Rxf3 Rxf3 24. Qxf3 Qf7 25. h4 Qxf3+ 26.
+Kxf3 Bf6 27. Bb5 Nd8 28. Bd3 Nc6 29. Bb5 Nd8 30. Ba4 a6 31. Ne2 b5 32. Bb3
+Nc6 33. Nf4 Nd8 34. Bc2 Kf7 35. Bb3 a5 36. Bc2 Nb7 37. a4 bxa4 38. Bxa4 Ke7
+39. h5 g5 40. Nd3 h6 41. b4 axb4 42. Nxb4 Nd6 43. Nc6+ 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -426,36 +432,37 @@ Bc2 Kf7 35. Bb3 a5 36. Bc2 Nb7 37. a4 bxa4 38. Bxa4 Ke7 39. h5 g5 40. Nd3 h6
 [White "Yildiz, Betul Cemre"]
 [Black "Koneru, Humpy"]
 [Result "1/2-1/2"]
-[ECO "B30"]
 [WhiteElo "2214"]
 [BlackElo "2621"]
-[PlyCount "244"]
+[ECO "B30"]
 [EventDate "2009.03.06"]
+[PlyCount "244"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. b3 a6 6. Bxc6 Nxc6 7. Bb2 b5 8. a4
-b4 9. d3 d6 10. Nbd2 e5 11. Ne1 Be7 12. f4 exf4 13. Rxf4 O-O 14. Rf1 f5 15.
-Nef3 Be6 16. Qe2 Qd7 17. Rae1 Qa7 18. Nc4 Rae8 19. Qd2 f4 20. Qf2 Qc7 21. Ncd2
-Ne5 22. h3 Bf6 23. Ba1 Bc8 24. d4 cxd4 25. Nxd4 Ng6 26. N4f3 Ne5 27. Nd4 Bb7
-28. Kh1 Ng6 29. N4f3 Bxa1 30. Rxa1 Bxe4 31. Qd4 Bxf3 32. Nxf3 Qxc2 33. Qxb4 d5
-34. Qb7 Ne7 35. Rfe1 Qb2 36. Qxa6 Nf5 37. Rab1 Rxe1+ 38. Rxe1 Ne3 39. Qe6+ Kh8
-40. Rg1 Qxb3 41. Ne5 Qb7 42. a5 Qc7 43. a6 Nc4 44. Nd7 Ra8 45. Re1 Ne3 46. Ne5
-h6 47. Ng6+ Kh7 48. Ne7 Qc2 49. Rg1 Qe4 50. Qxe4+ dxe4 51. Ra1 Nc2 52. Ra2 Nb4
-53. Ra4 Nxa6 54. Rxe4 Re8 55. Ra4 Nc5 56. Rc4 Nd3 57. Nd5 Re1+ 58. Kh2 g5 59.
-h4 Nf2 60. Nxf4 gxf4 61. Rxf4 Ne4 62. g4 Re2+ 63. Kg1 Kg6 64. Rf8 Rc2 65. Rf4
-Ng3 66. Ra4 Ne2+ 67. Kf1 Ng3+ 68. Kg1 Re2 69. Ra6+ Kg7 70. Ra7+ Kf6 71. g5+
-hxg5 72. hxg5+ Kxg5 73. Ra4 Kf5 74. Rb4 Ra2 75. Rc4 Ne4 76. Rb4 Kf4 77. Rb8 Ng3
-78. Rb4+ Kf3 79. Rb3+ Kg4 80. Rb8 Nh5 81. Rb3 Nf4 82. Kf1 Ng2 83. Rc3 Kf4 84.
-Rc8 Kf3 85. Rf8+ Nf4 86. Ke1 Ke3 87. Re8+ Kd4 88. Rd8+ Nd5 89. Kf1 Rb2 90. Re8
-Nf6 91. Rd8+ Ke3 92. Kg1 Ng4 93. Rf8 Nh2 94. Re8+ Kf4 95. Rf8+ Kg3 96. Rg8+ Ng4
-97. Kf1 Ra2 98. Ke1 Kf3 99. Rf8+ Ke4 100. Re8+ Ne5 101. Kf1 Rb2 102. Kg1 Re2
-103. Kf1 Kf3 104. Rf8+ Ke3 105. Re8 Kd2 106. Ra8 Ke3 107. Re8 Rf2+ 108. Kg1 Rf5
-109. Kg2 Ke4 110. Ra8 Rg5+ 111. Kf1 Ke3 112. Re8 Rh5 113. Kg2 Rf5 114. Ra8 Rg5+
-115. Kf1 Nd3 116. Re8+ Kf3 117. Rf8+ Nf4 118. Rf7 Rd5 119. Kg1 Rd1+ 120. Kh2
-Rd8 121. Kg1 Rh8 122. Rf6 Rg8+ 1/2-1/2
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. b3 a6 6. Bxc6 Nxc6 7. Bb2 b5
+8. a4 b4 9. d3 d6 10. Nbd2 e5 11. Ne1 Be7 12. f4 exf4 13. Rxf4 O-O 14. Rf1
+f5 15. Nef3 Be6 16. Qe2 Qd7 17. Rae1 Qa7 18. Nc4 Rae8 19. Qd2 f4 20. Qf2
+Qc7 21. Ncd2 Ne5 22. h3 Bf6 23. Ba1 Bc8 24. d4 cxd4 25. Nxd4 Ng6 26. N4f3
+Ne5 27. Nd4 Bb7 28. Kh1 Ng6 29. N4f3 Bxa1 30. Rxa1 Bxe4 31. Qd4 Bxf3 32.
+Nxf3 Qxc2 33. Qxb4 d5 34. Qb7 Ne7 35. Rfe1 Qb2 36. Qxa6 Nf5 37. Rab1 Rxe1+
+38. Rxe1 Ne3 39. Qe6+ Kh8 40. Rg1 Qxb3 41. Ne5 Qb7 42. a5 Qc7 43. a6 Nc4
+44. Nd7 Ra8 45. Re1 Ne3 46. Ne5 h6 47. Ng6+ Kh7 48. Ne7 Qc2 49. Rg1 Qe4 50.
+Qxe4+ dxe4 51. Ra1 Nc2 52. Ra2 Nb4 53. Ra4 Nxa6 54. Rxe4 Re8 55. Ra4 Nc5
+56. Rc4 Nd3 57. Nd5 Re1+ 58. Kh2 g5 59. h4 Nf2 60. Nxf4 gxf4 61. Rxf4 Ne4
+62. g4 Re2+ 63. Kg1 Kg6 64. Rf8 Rc2 65. Rf4 Ng3 66. Ra4 Ne2+ 67. Kf1 Ng3+
+68. Kg1 Re2 69. Ra6+ Kg7 70. Ra7+ Kf6 71. g5+ hxg5 72. hxg5+ Kxg5 73. Ra4
+Kf5 74. Rb4 Ra2 75. Rc4 Ne4 76. Rb4 Kf4 77. Rb8 Ng3 78. Rb4+ Kf3 79. Rb3+
+Kg4 80. Rb8 Nh5 81. Rb3 Nf4 82. Kf1 Ng2 83. Rc3 Kf4 84. Rc8 Kf3 85. Rf8+
+Nf4 86. Ke1 Ke3 87. Re8+ Kd4 88. Rd8+ Nd5 89. Kf1 Rb2 90. Re8 Nf6 91. Rd8+
+Ke3 92. Kg1 Ng4 93. Rf8 Nh2 94. Re8+ Kf4 95. Rf8+ Kg3 96. Rg8+ Ng4 97. Kf1
+Ra2 98. Ke1 Kf3 99. Rf8+ Ke4 100. Re8+ Ne5 101. Kf1 Rb2 102. Kg1 Re2 103.
+Kf1 Kf3 104. Rf8+ Ke3 105. Re8 Kd2 106. Ra8 Ke3 107. Re8 Rf2+ 108. Kg1 Rf5
+109. Kg2 Ke4 110. Ra8 Rg5+ 111. Kf1 Ke3 112. Re8 Rh5 113. Kg2 Rf5 114. Ra8
+Rg5+ 115. Kf1 Nd3 116. Re8+ Kf3 117. Rf8+ Nf4 118. Rf7 Rd5 119. Kg1 Rd1+
+120. Kh2 Rd8 121. Kg1 Rh8 122. Rf6 Rg8+ 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -464,22 +471,23 @@ Rd8 121. Kg1 Rh8 122. Rf6 Rg8+ 1/2-1/2
 [White "Zhao Xue"]
 [Black "Mamedjarova, Zeinab"]
 [Result "1-0"]
-[ECO "D94"]
 [WhiteElo "2508"]
 [BlackElo "2362"]
-[PlyCount "75"]
+[ECO "D94"]
 [EventDate "2009.03.06"]
+[PlyCount "75"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. b4 a5 7. b5 dxc4 8. Bxc4
-Nbd7 9. O-O Nb6 10. Bd3 Nfd5 11. Nxd5 Nxd5 12. h3 Nb4 13. Bc4 Bf5 14. Qe2 Nc2
-15. g4 Nxa1 16. gxf5 Qd7 17. fxg6 Qxh3 18. gxf7+ Kh8 19. Nh2 e6 20. Kh1 Rxf7
-21. Bb2 Be5 22. dxe5 Rg8 23. Bd5 Rfg7 24. Qf3 Qxf3+ 25. Nxf3 Rf8 26. Bxb7 Nc2
-27. a3 c5 28. Bc6 Rg4 29. Rc1 Rc4 30. b6 Rb8 31. b7 a4 32. Kg2 Kg7 33. Kf1 Kf7
-34. Ke2 Rd8 35. Bb5 Nd4+ 36. exd4 Rxc1 37. Bxc1 cxd4 38. Nxd4 1-0
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. e3 O-O 6. b4 a5 7. b5 dxc4 8.
+Bxc4 Nbd7 9. O-O Nb6 10. Bd3 Nfd5 11. Nxd5 Nxd5 12. h3 Nb4 13. Bc4 Bf5 14.
+Qe2 Nc2 15. g4 Nxa1 16. gxf5 Qd7 17. fxg6 Qxh3 18. gxf7+ Kh8 19. Nh2 e6 20.
+Kh1 Rxf7 21. Bb2 Be5 22. dxe5 Rg8 23. Bd5 Rfg7 24. Qf3 Qxf3+ 25. Nxf3 Rf8
+26. Bxb7 Nc2 27. a3 c5 28. Bc6 Rg4 29. Rc1 Rc4 30. b6 Rb8 31. b7 a4 32. Kg2
+Kg7 33. Kf1 Kf7 34. Ke2 Rd8 35. Bb5 Nd4+ 36. exd4 Rxc1 37. Bxc1 cxd4 38.
+Nxd4 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -488,21 +496,21 @@ Nbd7 9. O-O Nb6 10. Bd3 Nfd5 11. Nxd5 Nxd5 12. h3 Nb4 13. Bc4 Bf5 14. Qe2 Nc2
 [White "Chiburdanidze, Maia"]
 [Black "Danielian, Elina"]
 [Result "0-1"]
-[ECO "D30"]
 [WhiteElo "2516"]
 [BlackElo "2496"]
-[PlyCount "54"]
+[ECO "D30"]
 [EventDate "2009.03.06"]
+[PlyCount "54"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 e6 5. Bd3 dxc4 6. Bxc4 Nbd7 7. O-O Bd6 8.
-Nbd2 O-O 9. Bb3 c5 10. Qe2 cxd4 11. exd4 Nb6 12. Ne4 Nbd5 13. Nxf6+ Nxf6 14.
-Bg5 Bd7 15. Ne5 Be7 16. Qf3 Bb5 17. Rfd1 Qb6 18. a4 Bc6 19. Nxc6 bxc6 20. a5
-Qb5 21. Bh4 Rab8 22. Ba4 Qxb2 23. Bxc6 Rfc8 24. Bxf6 Bxf6 25. Ra4 Qc2 26. Bd7
-Rc7 27. Rb4 Qxd1+ 0-1
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 e6 5. Bd3 dxc4 6. Bxc4 Nbd7 7. O-O Bd6
+8. Nbd2 O-O 9. Bb3 c5 10. Qe2 cxd4 11. exd4 Nb6 12. Ne4 Nbd5 13. Nxf6+ Nxf6
+14. Bg5 Bd7 15. Ne5 Be7 16. Qf3 Bb5 17. Rfd1 Qb6 18. a4 Bc6 19. Nxc6 bxc6
+20. a5 Qb5 21. Bh4 Rab8 22. Ba4 Qxb2 23. Bxc6 Rfc8 24. Bxf6 Bxf6 25. Ra4
+Qc2 26. Bd7 Rc7 27. Rb4 Qxd1+ 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -511,28 +519,28 @@ Rc7 27. Rb4 Qxd1+ 0-1
 [White "Cramling, Pia"]
 [Black "Hou, Yifan"]
 [Result "0-1"]
-[ECO "E12"]
 [WhiteElo "2548"]
 [BlackElo "2571"]
-[PlyCount "146"]
+[ECO "E12"]
 [EventDate "2009.03.06"]
+[PlyCount "146"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. e3 g6 8. Bb5+
-c6 9. Bd3 Bg7 10. Na4 Qc7 11. O-O O-O 12. e4 Nf4 13. Bc2 Nd7 14. Nc3 c5 15. Nb5
-Qb8 16. Be3 cxd4 17. Nfxd4 Rd8 18. Qf3 Nh5 19. Rfd1 a6 20. Nc3 Qc7 21. Qe2 b5
-22. Rac1 Rac8 23. Bb1 Qb8 24. Ba2 Nc5 25. Bb1 Nxe4 26. Ndxb5 Nef6 27. Nd4 Nf4
-28. Bxf4 Qxf4 29. g3 Qh6 30. Nb3 Qh3 31. f3 Bh6 32. Rxd8+ Rxd8 33. Rd1 Rxd1+
-34. Nxd1 Qh5 35. Kg2 Qd5 36. Bc2 Ng4 37. Na1 Qd6 38. Nb3 f5 39. Qd3 Qb6 40. Qd4
-Qc7 41. Qc3 Qd6 42. Nc5 Bd5 43. Nd3 Qd8 44. Nb4 Bd2 45. Qc5 Bxb4 46. Qxb4 Ne5
-47. Ne3 Bxf3+ 48. Kf1 Bc6 49. Qc3 Qd6 50. Bd1 Nd7 51. b4 f4 52. gxf4 Qxf4+ 53.
-Ke1 Qh4+ 54. Kf1 Qe4 55. Ke1 Qh4+ 56. Kf1 Bb5+ 57. Kg1 Qg5+ 58. Kf2 Qf4+ 59.
-Kg1 Qg5+ 60. Kf2 Qf4+ 61. Kg1 Ne5 62. Qc8+ Kg7 63. Qc7+ Bd7 64. Qc3 Kg8 65. Ng2
-Qf6 66. Qc7 Bb5 67. Qb8+ Kg7 68. Qa7+ Nf7 69. Ne3 Qc3 70. Qc5 Qxa3 71. Bg4 Qa1+
-72. Kf2 Qf6+ 73. Ke1 h5 0-1
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. e3 g6 8.
+Bb5+ c6 9. Bd3 Bg7 10. Na4 Qc7 11. O-O O-O 12. e4 Nf4 13. Bc2 Nd7 14. Nc3
+c5 15. Nb5 Qb8 16. Be3 cxd4 17. Nfxd4 Rd8 18. Qf3 Nh5 19. Rfd1 a6 20. Nc3
+Qc7 21. Qe2 b5 22. Rac1 Rac8 23. Bb1 Qb8 24. Ba2 Nc5 25. Bb1 Nxe4 26. Ndxb5
+Nef6 27. Nd4 Nf4 28. Bxf4 Qxf4 29. g3 Qh6 30. Nb3 Qh3 31. f3 Bh6 32. Rxd8+
+Rxd8 33. Rd1 Rxd1+ 34. Nxd1 Qh5 35. Kg2 Qd5 36. Bc2 Ng4 37. Na1 Qd6 38. Nb3
+f5 39. Qd3 Qb6 40. Qd4 Qc7 41. Qc3 Qd6 42. Nc5 Bd5 43. Nd3 Qd8 44. Nb4 Bd2
+45. Qc5 Bxb4 46. Qxb4 Ne5 47. Ne3 Bxf3+ 48. Kf1 Bc6 49. Qc3 Qd6 50. Bd1 Nd7
+51. b4 f4 52. gxf4 Qxf4+ 53. Ke1 Qh4+ 54. Kf1 Qe4 55. Ke1 Qh4+ 56. Kf1 Bb5+
+57. Kg1 Qg5+ 58. Kf2 Qf4+ 59. Kg1 Qg5+ 60. Kf2 Qf4+ 61. Kg1 Ne5 62. Qc8+
+Kg7 63. Qc7+ Bd7 64. Qc3 Kg8 65. Ng2 Qf6 66. Qc7 Bb5 67. Qb8+ Kg7 68. Qa7+
+Nf7 69. Ne3 Qc3 70. Qc5 Qxa3 71. Bg4 Qa1+ 72. Kf2 Qf6+ 73. Ke1 h5 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -541,106 +549,109 @@ Qf6 66. Qc7 Bb5 67. Qb8+ Kg7 68. Qa7+ Nf7 69. Ne3 Qc3 70. Qc5 Qxa3 71. Bg4 Qa1+
 [White "Koneru, Humpy"]
 [Black "Shen, Yang"]
 [Result "1/2-1/2"]
-[ECO "A11"]
 [WhiteElo "2621"]
 [BlackElo "2448"]
-[PlyCount "78"]
+[ECO "A11"]
 [EventDate "2009.03.06"]
+[PlyCount "78"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. Nf3 d5 2. e3 Nf6 3. c4 c6 4. Nc3 a6 5. Qc2 g6 6. b3 Bg7 7. Bb2 O-O 8. Be2
-Re8 9. O-O Bf5 10. Qd1 e5 11. d4 e4 12. Nd2 Nbd7 13. b4 Bf8 14. Qb3 Be6 15. a4
-dxc4 16. Bxc4 b5 17. Bxe6 Rxe6 18. Qc2 Nb6 19. axb5 axb5 20. Rxa8 Qxa8 21.
-Ndxe4 Nxe4 22. Nxe4 Qa4 23. Qd3 Qxb4 24. Bc3 Qc4 25. Qxc4 Nxc4 26. Nc5 Re8 27.
-Ra1 Bxc5 28. dxc5 Rb8 29. Kf1 b4 30. Bd4 f5 31. Ke2 Kf7 32. Ra7+ Ke6 33. Kd3
-Ne5+ 34. Kc2 b3+ 35. Kb1 Nc4 36. Rc7 Kd5 37. Rd7+ Ke6 38. Rc7 Kd5 39. Be5 Kxe5
+1. Nf3 d5 2. e3 Nf6 3. c4 c6 4. Nc3 a6 5. Qc2 g6 6. b3 Bg7 7. Bb2 O-O 8.
+Be2 Re8 9. O-O Bf5 10. Qd1 e5 11. d4 e4 12. Nd2 Nbd7 13. b4 Bf8 14. Qb3 Be6
+15. a4 dxc4 16. Bxc4 b5 17. Bxe6 Rxe6 18. Qc2 Nb6 19. axb5 axb5 20. Rxa8
+Qxa8 21. Ndxe4 Nxe4 22. Nxe4 Qa4 23. Qd3 Qxb4 24. Bc3 Qc4 25. Qxc4 Nxc4 26.
+Nc5 Re8 27. Ra1 Bxc5 28. dxc5 Rb8 29. Kf1 b4 30. Bd4 f5 31. Ke2 Kf7 32.
+Ra7+ Ke6 33. Kd3 Ne5+ 34. Kc2 b3+ 35. Kb1 Nc4 36. Rc7 Kd5 37. Rd7+ Ke6 38.
+Rc7 Kd5 39. Be5 Kxe5 1/2-1/2
+
+[Event "FIDE Women's Grand Prix 2009/2010"]
+[Site "Istanbul, Turkey"]
+[Date "2009.03.10"]
+[Round "4"]
+[White "Mamedjarova, Zeinab"]
+[Black "Sebag, Marie"]
+[Result "0-1"]
+[WhiteElo "2362"]
+[BlackElo "2529"]
+[ECO "D45"]
+[EventDate "2009.03.06"]
+[PlyCount "138"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[EventCategory "10"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. e4 dxe4 8.
+Nxe4 Nxe4 9. Qxe4 Nf6 10. Qh4 Qa5+ 11. Bd2 Qh5 12. Qxh5 Nxh5 13. O-O-O Nf6
+14. h3 b6 15. Bd3 Bb7 16. Rhe1 O-O 17. Bc3 Rfd8 18. Kb1 h6 19. Ne5 c5 20.
+dxc5 Bxc5 21. f3 Nh5 22. Rd2 Nf4 23. Be4 Bxe4+ 24. Rxe4 Rxd2 25. Bxd2 f5
+26. Re1 Nxg2 27. Re2 Nh4 28. Be1 g5 29. Bxh4 gxh4 30. Ng6 Kf7 31. Nxh4 Rd8
+32. Ng2 Rd3 33. Ne1 Rd4 34. b3 Rh4 35. Rh2 Bd6 36. Rh1 Bg3 37. Ng2 Rd4 38.
+Kc2 Kf6 39. Rf1 Bc7 40. f4 Rd8 41. Rf3 Rg8 42. Ne3 Bd6 43. Kc3 a5 44. Nc2
+h5 45. Kd3 h4 46. Ne3 Ba3 47. Ke2 Bc5 48. Kf1 Rd8 49. Ke2 Bb4 50. Nf1 Rd4
+51. Ne3 Rd2+ 52. Kf1 Rxa2 53. Ng2 a4 54. bxa4 Rxa4 55. Nxh4 Ba5 56. Ng2
+Rxc4 57. h4 b5 58. h5 b4 59. Rh3 Rc3 60. Rxc3 bxc3 61. Ne1 Bc7 62. Ke2 Bxf4
+63. Kd3 Bd2 64. Nc2 e5 65. Nb4 Kg5 66. Nc6 e4+ 67. Ke2 Kxh5 68. Nd4 Kg4 69.
+Kf2 f4 0-1
+
+[Event "FIDE Women's Grand Prix 2009/2010"]
+[Site "Istanbul, Turkey"]
+[Date "2009.03.10"]
+[Round "4"]
+[White "Stefanova, Antoaneta"]
+[Black "Zhao Xue"]
+[Result "1/2-1/2"]
+[WhiteElo "2557"]
+[BlackElo "2508"]
+[ECO "E00"]
+[EventDate "2009.03.06"]
+[PlyCount "124"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "TUR"]
+[EventCategory "10"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 c5 5. Bxb4 cxb4 6. Nd2 O-O 7. Bg2 d6
+8. e3 e5 9. Ne2 Nc6 10. d5 Nb8 11. Qb3 a5 12. a3 Na6 13. axb4 axb4 14. O-O
+Qb6 15. h3 Nc5 16. Qc2 Ra6 17. g4 h6 18. Kh1 Bd7 19. f4 exf4 20. exf4 Rxa1
+21. Rxa1 Re8 22. Ng3 b3 23. Qc3 Na4 24. Qf3 Qb4 25. Nxb3 Nxb2 26. c5 dxc5
+27. g5 hxg5 28. fxg5 Nxd5 29. Nxc5 Qxc5 30. Qxd5 Qxd5 31. Bxd5 Bc6 32. Bxc6
+bxc6 33. Rc1 Re6 34. Kh2 g6 35. h4 Nd3 36. Rc4 Ne5 37. Ra4 c5 38. Ra8+ Kg7
+39. Kh3 c4 40. h5 c3 41. Rc8 Rc6 42. h6+ Kh7 43. Rxc6 Nxc6 44. Ne2 c2 45.
+Kg3 Nd8 46. Nc1 Ne6 47. Kg4 Kh8 48. Kh4 Kg8 49. Kg4 Kh7 50. Nd3 f5+ 51.
+gxf6 Kxh6 52. Nc1 Kh7 53. Kf3 g5 54. Ke4 Kg6 55. Kd3 Kxf6 56. Kxc2 Kf5 57.
+Kd2 Ke4 58. Ke2 Nf4+ 59. Kf2 g4 60. Nb3 Nh5 61. Nd2+ Kf4 62. Nf1 Nf6
 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
 [Date "2009.03.10"]
 [Round "4"]
-[White "Mamedjarova, Zeinab"]
-[Black "Sebag, Marie"]
-[Result "0-1"]
-[ECO "D45"]
-[WhiteElo "2362"]
-[BlackElo "2529"]
-[PlyCount "138"]
-[EventDate "2009.03.06"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "TUR"]
-[EventCategory "10"]
-
-1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. e4 dxe4 8. Nxe4
-Nxe4 9. Qxe4 Nf6 10. Qh4 Qa5+ 11. Bd2 Qh5 12. Qxh5 Nxh5 13. O-O-O Nf6 14. h3 b6
-15. Bd3 Bb7 16. Rhe1 O-O 17. Bc3 Rfd8 18. Kb1 h6 19. Ne5 c5 20. dxc5 Bxc5 21.
-f3 Nh5 22. Rd2 Nf4 23. Be4 Bxe4+ 24. Rxe4 Rxd2 25. Bxd2 f5 26. Re1 Nxg2 27. Re2
-Nh4 28. Be1 g5 29. Bxh4 gxh4 30. Ng6 Kf7 31. Nxh4 Rd8 32. Ng2 Rd3 33. Ne1 Rd4
-34. b3 Rh4 35. Rh2 Bd6 36. Rh1 Bg3 37. Ng2 Rd4 38. Kc2 Kf6 39. Rf1 Bc7 40. f4
-Rd8 41. Rf3 Rg8 42. Ne3 Bd6 43. Kc3 a5 44. Nc2 h5 45. Kd3 h4 46. Ne3 Ba3 47.
-Ke2 Bc5 48. Kf1 Rd8 49. Ke2 Bb4 50. Nf1 Rd4 51. Ne3 Rd2+ 52. Kf1 Rxa2 53. Ng2
-a4 54. bxa4 Rxa4 55. Nxh4 Ba5 56. Ng2 Rxc4 57. h4 b5 58. h5 b4 59. Rh3 Rc3 60.
-Rxc3 bxc3 61. Ne1 Bc7 62. Ke2 Bxf4 63. Kd3 Bd2 64. Nc2 e5 65. Nb4 Kg5 66. Nc6
-e4+ 67. Ke2 Kxh5 68. Nd4 Kg4 69. Kf2 f4 0-1
-
-[Event "FIDE Women's Grand Prix 2009/2010"]
-[Site "Istanbul, Turkey"]
-[Date "2009.03.10"]
-[Round "4"]
-[White "Stefanova, Antoaneta"]
-[Black "Zhao Xue"]
-[Result "1/2-1/2"]
-[ECO "E00"]
-[WhiteElo "2557"]
-[BlackElo "2508"]
-[PlyCount "124"]
-[EventDate "2009.03.06"]
-[EventType "tourn"]
-[EventRounds "11"]
-[EventCountry "TUR"]
-[EventCategory "10"]
-
-1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 c5 5. Bxb4 cxb4 6. Nd2 O-O 7. Bg2 d6 8. e3
-e5 9. Ne2 Nc6 10. d5 Nb8 11. Qb3 a5 12. a3 Na6 13. axb4 axb4 14. O-O Qb6 15. h3
-Nc5 16. Qc2 Ra6 17. g4 h6 18. Kh1 Bd7 19. f4 exf4 20. exf4 Rxa1 21. Rxa1 Re8
-22. Ng3 b3 23. Qc3 Na4 24. Qf3 Qb4 25. Nxb3 Nxb2 26. c5 dxc5 27. g5 hxg5 28.
-fxg5 Nxd5 29. Nxc5 Qxc5 30. Qxd5 Qxd5 31. Bxd5 Bc6 32. Bxc6 bxc6 33. Rc1 Re6
-34. Kh2 g6 35. h4 Nd3 36. Rc4 Ne5 37. Ra4 c5 38. Ra8+ Kg7 39. Kh3 c4 40. h5 c3
-41. Rc8 Rc6 42. h6+ Kh7 43. Rxc6 Nxc6 44. Ne2 c2 45. Kg3 Nd8 46. Nc1 Ne6 47.
-Kg4 Kh8 48. Kh4 Kg8 49. Kg4 Kh7 50. Nd3 f5+ 51. gxf6 Kxh6 52. Nc1 Kh7 53. Kf3
-g5 54. Ke4 Kg6 55. Kd3 Kxf6 56. Kxc2 Kf5 57. Kd2 Ke4 58. Ke2 Nf4+ 59. Kf2 g4
-60. Nb3 Nh5 61. Nd2+ Kf4 62. Nf1 Nf6 1/2-1/2
-
-[Event "FIDE Women's Grand Prix 2009/2010"]
-[Site "Istanbul, Turkey"]
-[Date "2009.03.10"]
-[Round "4"]
 [White "Yildiz, Betul Cemre"]
 [Black "Fierro Baquero, Martha"]
 [Result "0-1"]
-[ECO "B36"]
 [WhiteElo "2214"]
 [BlackElo "2403"]
-[PlyCount "102"]
+[ECO "B36"]
 [EventDate "2009.03.06"]
+[PlyCount "102"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nc6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6 8.
-Be2 Bg7 9. Bg5 O-O 10. Qd2 a5 11. Rc1 a4 12. f3 Qa5 13. O-O Be6 14. Nd5 Qxd2
-15. Bxd2 Bxd5 16. cxd5 Nd7 17. Bc3 Rfc8 18. Bxg7 Kxg7 19. Kf2 Nc5 20. Ke3 f5
-21. Rc3 Kf6 22. Rfc1 fxe4 23. fxe4 Ke5 24. b4 axb3 25. axb3 Ra3 26. Bd1 Rca8
-27. Bc2 b5 28. Rb1 Rf8 29. Ke2 Rf4 30. g3 Rf8 31. h4 h6 32. Re3 Ra2 33. Rc1 Na6
-34. Rf3 Rc8 35. Kd1 Nc5 36. Rf7 Rc7 37. h5 gxh5 38. Rf5+ Kd4 39. Rxh5 Rc8 40.
-Rf5 Rg8 41. b4 Nd3 42. Bxd3 Kxd3 43. Rf3+ Kxe4 44. Rcc3 Kxd5 45. Rcd3+ Ke6 46.
-Rde3+ Kd7 47. Rf7 Re8 48. Rh7 Rb2 49. Re4 Rg2 50. g4 d5 51. Rd4 Ra8 0-1
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nc6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6
+8. Be2 Bg7 9. Bg5 O-O 10. Qd2 a5 11. Rc1 a4 12. f3 Qa5 13. O-O Be6 14. Nd5
+Qxd2 15. Bxd2 Bxd5 16. cxd5 Nd7 17. Bc3 Rfc8 18. Bxg7 Kxg7 19. Kf2 Nc5 20.
+Ke3 f5 21. Rc3 Kf6 22. Rfc1 fxe4 23. fxe4 Ke5 24. b4 axb3 25. axb3 Ra3 26.
+Bd1 Rca8 27. Bc2 b5 28. Rb1 Rf8 29. Ke2 Rf4 30. g3 Rf8 31. h4 h6 32. Re3
+Ra2 33. Rc1 Na6 34. Rf3 Rc8 35. Kd1 Nc5 36. Rf7 Rc7 37. h5 gxh5 38. Rf5+
+Kd4 39. Rxh5 Rc8 40. Rf5 Rg8 41. b4 Nd3 42. Bxd3 Kxd3 43. Rf3+ Kxe4 44.
+Rcc3 Kxd5 45. Rcd3+ Ke6 46. Rde3+ Kd7 47. Rf7 Re8 48. Rh7 Rb2 49. Re4 Rg2
+50. g4 d5 51. Rd4 Ra8 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -649,26 +660,27 @@ Rde3+ Kd7 47. Rf7 Re8 48. Rh7 Rb2 49. Re4 Rg2 50. g4 d5 51. Rd4 Ra8 0-1
 [White "Danielian, Elina"]
 [Black "Mamedjarova, Zeinab"]
 [Result "1/2-1/2"]
-[ECO "E09"]
 [WhiteElo "2496"]
 [BlackElo "2362"]
-[PlyCount "126"]
+[ECO "E09"]
 [EventDate "2009.03.06"]
+[PlyCount "126"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. Nf3 d5 2. g3 Nf6 3. Bg2 Nbd7 4. d4 e6 5. O-O Be7 6. c4 O-O 7. Qc2 c6 8. Nbd2
-b6 9. e4 Ba6 10. Re1 Rc8 11. b3 c5 12. exd5 exd5 13. Ba3 Re8 14. cxd5 Nxd5 15.
-Qb2 Nb4 16. Bxb4 cxb4 17. Ne4 Nf6 18. Nxf6+ Bxf6 19. Ne5 Bb5 20. Rac1 Qd6 21.
-Rxc8 Rxc8 22. h4 Rd8 23. Re4 Ba6 24. Re1 g6 25. Qc1 Kg7 26. h5 Bxe5 27. h6+ Kf8
-28. dxe5 Qd2 29. Qxd2 Rxd2 30. Rc1 Ke7 31. Bf3 Kd8 32. Bg2 Ke7 33. Bf3 Kd8 34.
-Kg2 Bb5 35. Bg4 Bd7 36. Bxd7 Kxd7 37. Rc4 Rxa2 38. Rxb4 Re2 39. Rd4+ Ke6 40.
-Rd8 Rxe5 41. Rh8 Rh5 42. Rxh7 Kf6 43. g4 Rh4 44. Kg3 g5 45. f4 Kg6 46. Rg7+
-Kxh6 47. Rxf7 Rh1 48. fxg5+ Kxg5 49. Rg7+ Kf6 50. Rxa7 Rb1 51. Ra3 Ke5 52. Kh4
-b5 53. Ra8 Kd4 54. g5 Kc3 55. Rf8 Rh1+ 56. Kg4 Rg1+ 57. Kh5 Kxb3 58. g6 b4 59.
-Kh6 Kc2 60. Rf2+ Kc3 61. g7 b3 62. Kh7 b2 63. Rxb2 Rxg7+ 1/2-1/2
+1. Nf3 d5 2. g3 Nf6 3. Bg2 Nbd7 4. d4 e6 5. O-O Be7 6. c4 O-O 7. Qc2 c6 8.
+Nbd2 b6 9. e4 Ba6 10. Re1 Rc8 11. b3 c5 12. exd5 exd5 13. Ba3 Re8 14. cxd5
+Nxd5 15. Qb2 Nb4 16. Bxb4 cxb4 17. Ne4 Nf6 18. Nxf6+ Bxf6 19. Ne5 Bb5 20.
+Rac1 Qd6 21. Rxc8 Rxc8 22. h4 Rd8 23. Re4 Ba6 24. Re1 g6 25. Qc1 Kg7 26. h5
+Bxe5 27. h6+ Kf8 28. dxe5 Qd2 29. Qxd2 Rxd2 30. Rc1 Ke7 31. Bf3 Kd8 32. Bg2
+Ke7 33. Bf3 Kd8 34. Kg2 Bb5 35. Bg4 Bd7 36. Bxd7 Kxd7 37. Rc4 Rxa2 38. Rxb4
+Re2 39. Rd4+ Ke6 40. Rd8 Rxe5 41. Rh8 Rh5 42. Rxh7 Kf6 43. g4 Rh4 44. Kg3
+g5 45. f4 Kg6 46. Rg7+ Kxh6 47. Rxf7 Rh1 48. fxg5+ Kxg5 49. Rg7+ Kf6 50.
+Rxa7 Rb1 51. Ra3 Ke5 52. Kh4 b5 53. Ra8 Kd4 54. g5 Kc3 55. Rf8 Rh1+ 56. Kg4
+Rg1+ 57. Kh5 Kxb3 58. g6 b4 59. Kh6 Kc2 60. Rf2+ Kc3 61. g7 b3 62. Kh7 b2
+63. Rxb2 Rxg7+ 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -677,25 +689,26 @@ Kh6 Kc2 60. Rf2+ Kc3 61. g7 b3 62. Kh7 b2 63. Rxb2 Rxg7+ 1/2-1/2
 [White "Fierro Baquero, Martha"]
 [Black "Koneru, Humpy"]
 [Result "0-1"]
-[ECO "C90"]
 [WhiteElo "2403"]
 [BlackElo "2621"]
-[PlyCount "114"]
+[ECO "C90"]
 [EventDate "2009.03.06"]
+[PlyCount "114"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. c3
-O-O 9. Re1 Na5 10. Bc2 c5 11. Nbd2 Nd7 12. Nf1 Nb6 13. Ng3 Nc6 14. h3 Be6 15.
-d4 exd4 16. cxd4 cxd4 17. Ne2 Nb4 18. Bb1 d3 19. Nf4 Bf6 20. Nxe6 fxe6 21. a3
-Nc2 22. Bxc2 dxc2 23. Qxc2 Rc8 24. Qe2 Nc4 25. Rb1 Qa5 26. Rd1 Rfe8 27. Bg5 Qd8
-28. Bxf6 Qxf6 29. Rd4 d5 30. exd5 exd5 31. Qd3 h6 32. h4 Rc6 33. h5 Rce6 34.
-Rg4 Ne5 35. Nxe5 Rxe5 36. Qg6 Rc8 37. Qd3 Ree8 38. Rd4 Rc6 39. Rg4 Rce6 40. Qg6
-Re1+ 41. Rxe1 Rxe1+ 42. Kh2 Qxb2 43. Qxh6 Qa1 44. Qg6 Rh1+ 45. Kg3 Qe5+ 46. Rf4
-Rxh5 47. Kf3 Rh6 48. Qc2 Qh5+ 49. g4 Qh1+ 50. Ke3 Re6+ 51. Kd4 Qe1 52. Kd3 Re8
-53. Qd2 Qb1+ 54. Qc2 Qf1+ 55. Kd4 Qa1+ 56. Qc3 Qd1+ 57. Qd3 Qa4+ 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8.
+c3 O-O 9. Re1 Na5 10. Bc2 c5 11. Nbd2 Nd7 12. Nf1 Nb6 13. Ng3 Nc6 14. h3
+Be6 15. d4 exd4 16. cxd4 cxd4 17. Ne2 Nb4 18. Bb1 d3 19. Nf4 Bf6 20. Nxe6
+fxe6 21. a3 Nc2 22. Bxc2 dxc2 23. Qxc2 Rc8 24. Qe2 Nc4 25. Rb1 Qa5 26. Rd1
+Rfe8 27. Bg5 Qd8 28. Bxf6 Qxf6 29. Rd4 d5 30. exd5 exd5 31. Qd3 h6 32. h4
+Rc6 33. h5 Rce6 34. Rg4 Ne5 35. Nxe5 Rxe5 36. Qg6 Rc8 37. Qd3 Ree8 38. Rd4
+Rc6 39. Rg4 Rce6 40. Qg6 Re1+ 41. Rxe1 Rxe1+ 42. Kh2 Qxb2 43. Qxh6 Qa1 44.
+Qg6 Rh1+ 45. Kg3 Qe5+ 46. Rf4 Rxh5 47. Kf3 Rh6 48. Qc2 Qh5+ 49. g4 Qh1+ 50.
+Ke3 Re6+ 51. Kd4 Qe1 52. Kd3 Re8 53. Qd2 Qb1+ 54. Qc2 Qf1+ 55. Kd4 Qa1+ 56.
+Qc3 Qd1+ 57. Qd3 Qa4+ 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -704,22 +717,23 @@ Rxh5 47. Kf3 Rh6 48. Qc2 Qh5+ 49. g4 Qh1+ 50. Ke3 Re6+ 51. Kd4 Qe1 52. Kd3 Re8
 [White "Hou, Yifan"]
 [Black "Yildiz, Betul Cemre"]
 [Result "1-0"]
-[ECO "C88"]
 [WhiteElo "2571"]
 [BlackElo "2214"]
-[PlyCount "77"]
+[ECO "C88"]
 [EventDate "2009.03.06"]
+[PlyCount "77"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8. a4
-O-O 9. Re1 d6 10. Nbd2 h6 11. Nf1 Re8 12. Bd2 Bf8 13. Ng3 Nb8 14. Qb1 Qd7 15.
-c4 bxc4 16. Bxc4 c5 17. b4 cxb4 18. Bxb4 Nc6 19. Bc3 Rac8 20. h3 Nd8 21. Qa2
-Ne6 22. Rab1 Nc5 23. Ba1 Bc6 24. a5 Bb5 25. Bxb5 axb5 26. Qd2 Ra8 27. Bc3 Qb7
-28. Qe2 Rec8 29. Bd2 Na6 30. d4 b4 31. dxe5 dxe5 32. Nxe5 Qc7 33. Ng4 Nxg4 34.
-Qxg4 Kh7 35. e5 Qxa5 36. e6 Rd8 37. e7 Bxe7 38. Rxe7 Rxd2 39. Qe4+ 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8.
+a4 O-O 9. Re1 d6 10. Nbd2 h6 11. Nf1 Re8 12. Bd2 Bf8 13. Ng3 Nb8 14. Qb1
+Qd7 15. c4 bxc4 16. Bxc4 c5 17. b4 cxb4 18. Bxb4 Nc6 19. Bc3 Rac8 20. h3
+Nd8 21. Qa2 Ne6 22. Rab1 Nc5 23. Ba1 Bc6 24. a5 Bb5 25. Bxb5 axb5 26. Qd2
+Ra8 27. Bc3 Qb7 28. Qe2 Rec8 29. Bd2 Na6 30. d4 b4 31. dxe5 dxe5 32. Nxe5
+Qc7 33. Ng4 Nxg4 34. Qxg4 Kh7 35. e5 Qxa5 36. e6 Rd8 37. e7 Bxe7 38. Rxe7
+Rxd2 39. Qe4+ 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -728,23 +742,23 @@ Qxg4 Kh7 35. e5 Qxa5 36. e6 Rd8 37. e7 Bxe7 38. Rxe7 Rxd2 39. Qe4+ 1-0
 [White "Sebag, Marie"]
 [Black "Stefanova, Antoaneta"]
 [Result "0-1"]
-[ECO "C95"]
 [WhiteElo "2529"]
 [BlackElo "2557"]
-[PlyCount "80"]
+[ECO "C95"]
 [EventDate "2009.03.06"]
+[PlyCount "80"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
-d6 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6 15. b3
-Bg7 16. d5 Rc8 17. c4 c6 18. Rb1 Qc7 19. Bd3 Nc5 20. Bf1 bxc4 21. bxc4 a5 22.
-Bd2 Ba6 23. Rc1 a4 24. Bb4 Bh6 25. Rb1 cxd5 26. cxd5 Bxf1 27. Rxf1 Nfxe4 28.
-Nxe4 Nxe4 29. Qxa4 Nc3 30. Bxc3 Qxc3 31. Rb7 Qc5 32. Rd1 e4 33. Nh2 e3 34. fxe3
-Qxe3+ 35. Kh1 Qe1+ 36. Nf1 Qf2 37. Qd7 Bf8 38. Ne3 Rcd8 39. Qg4 Qxe3 40. Rf1
-Be7 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8.
+c3 d6 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Ng3 g6
+15. b3 Bg7 16. d5 Rc8 17. c4 c6 18. Rb1 Qc7 19. Bd3 Nc5 20. Bf1 bxc4 21.
+bxc4 a5 22. Bd2 Ba6 23. Rc1 a4 24. Bb4 Bh6 25. Rb1 cxd5 26. cxd5 Bxf1 27.
+Rxf1 Nfxe4 28. Nxe4 Nxe4 29. Qxa4 Nc3 30. Bxc3 Qxc3 31. Rb7 Qc5 32. Rd1 e4
+33. Nh2 e3 34. fxe3 Qxe3+ 35. Kh1 Qe1+ 36. Nf1 Qf2 37. Qd7 Bf8 38. Ne3 Rcd8
+39. Qg4 Qxe3 40. Rf1 Be7 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -753,24 +767,24 @@ Be7 0-1
 [White "Shen, Yang"]
 [Black "Chiburdanidze, Maia"]
 [Result "0-1"]
-[ECO "E32"]
 [WhiteElo "2448"]
 [BlackElo "2516"]
-[PlyCount "98"]
+[ECO "E32"]
 [EventDate "2009.03.06"]
+[PlyCount "98"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8.
-f3 d6 9. Nh3 h6 10. Bh4 Nbd7 11. e3 e5 12. Be2 Re8 13. dxe5 Nxe5 14. Bg3 Qe7
-15. O-O Ng6 16. e4 Nh5 17. Rfd1 Bc8 18. Nf2 Qg5 19. Nh1 f5 20. Bd3 Nhf4 21. Nf2
-Nxd3 22. Nxd3 fxe4 23. fxe4 Rxe4 24. Re1 Bb7 25. Nf2 Ree8 26. Qd4 h5 27. Nh3
-Qf5 28. Rf1 Qe4 29. Qxe4 Rxe4 30. Nf4 h4 31. Nxg6 hxg3 32. hxg3 Rae8 33. Rf4
-Rxf4 34. Nxf4 g5 35. Nd5 Re2 36. b4 c6 37. Kf1 Re5 38. Nc3 Ba6 39. b5 cxb5 40.
-cxb5 Bxb5+ 41. Nxb5 Rxb5 42. Rd1 d5 43. Kf2 Kf7 44. Kf3 Rc5 45. Rd3 Kf6 46. Kg4
-Kg6 47. Kf3 Kf5 48. Ke3 Ke5 49. Kf3 Rc4 0-1
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7
+8. f3 d6 9. Nh3 h6 10. Bh4 Nbd7 11. e3 e5 12. Be2 Re8 13. dxe5 Nxe5 14. Bg3
+Qe7 15. O-O Ng6 16. e4 Nh5 17. Rfd1 Bc8 18. Nf2 Qg5 19. Nh1 f5 20. Bd3 Nhf4
+21. Nf2 Nxd3 22. Nxd3 fxe4 23. fxe4 Rxe4 24. Re1 Bb7 25. Nf2 Ree8 26. Qd4
+h5 27. Nh3 Qf5 28. Rf1 Qe4 29. Qxe4 Rxe4 30. Nf4 h4 31. Nxg6 hxg3 32. hxg3
+Rae8 33. Rf4 Rxf4 34. Nxf4 g5 35. Nd5 Re2 36. b4 c6 37. Kf1 Re5 38. Nc3 Ba6
+39. b5 cxb5 40. cxb5 Bxb5+ 41. Nxb5 Rxb5 42. Rd1 d5 43. Kf2 Kf7 44. Kf3 Rc5
+45. Rd3 Kf6 46. Kg4 Kg6 47. Kf3 Kf5 48. Ke3 Ke5 49. Kf3 Rc4 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -779,25 +793,25 @@ Kg6 47. Kf3 Kf5 48. Ke3 Ke5 49. Kf3 Rc4 0-1
 [White "Zhao Xue"]
 [Black "Cramling, Pia"]
 [Result "1-0"]
-[ECO "A41"]
 [WhiteElo "2508"]
 [BlackElo "2548"]
-[PlyCount "105"]
+[ECO "A41"]
 [EventDate "2009.03.06"]
+[PlyCount "105"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. Nc3 Bg4 5. Bg5 c6 6. Qd2 Nd7 7. h3 Bxf3 8. exf3
-Ngf6 9. Be2 d5 10. cxd5 cxd5 11. O-O O-O 12. Rfc1 Nb8 13. Na4 Nc6 14. Bb5 Na5
-15. Nc5 Qb6 16. Bf1 Rfc8 17. Rc3 Nc6 18. Be3 Ne8 19. Rb3 Qa5 20. Qd1 Nd6 21.
-Nxb7 Nxb7 22. Rxb7 Rab8 23. Rxb8 Rxb8 24. Rc1 Nd8 25. Bf4 Ra8 26. a3 Qb6 27. b4
-Qxd4 28. Be3 Qxd1 29. Rxd1 e6 30. Ba6 Bf8 31. Rc1 e5 32. Rc7 d4 33. Bd2 Ne6 34.
-Rd7 Kg7 35. h4 Kf6 36. Kf1 h6 37. Ke2 g5 38. hxg5+ hxg5 39. g3 Be7 40. Bc4 a6
-41. Rb7 Bd8 42. Bd5 Rc8 43. Ra7 a5 44. bxa5 Rc5 45. Bb3 g4 46. a6 gxf3+ 47.
-Kxf3 Rc6 48. Bd5 Rd6 49. Bc4 Ng5+ 50. Bxg5+ Kxg5 51. Rb7 d3 52. a7 d2 53. Rb1
-1-0
+1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. Nc3 Bg4 5. Bg5 c6 6. Qd2 Nd7 7. h3 Bxf3 8.
+exf3 Ngf6 9. Be2 d5 10. cxd5 cxd5 11. O-O O-O 12. Rfc1 Nb8 13. Na4 Nc6 14.
+Bb5 Na5 15. Nc5 Qb6 16. Bf1 Rfc8 17. Rc3 Nc6 18. Be3 Ne8 19. Rb3 Qa5 20.
+Qd1 Nd6 21. Nxb7 Nxb7 22. Rxb7 Rab8 23. Rxb8 Rxb8 24. Rc1 Nd8 25. Bf4 Ra8
+26. a3 Qb6 27. b4 Qxd4 28. Be3 Qxd1 29. Rxd1 e6 30. Ba6 Bf8 31. Rc1 e5 32.
+Rc7 d4 33. Bd2 Ne6 34. Rd7 Kg7 35. h4 Kf6 36. Kf1 h6 37. Ke2 g5 38. hxg5+
+hxg5 39. g3 Be7 40. Bc4 a6 41. Rb7 Bd8 42. Bd5 Rc8 43. Ra7 a5 44. bxa5 Rc5
+45. Bb3 g4 46. a6 gxf3+ 47. Kxf3 Rc6 48. Bd5 Rd6 49. Bc4 Ng5+ 50. Bxg5+
+Kxg5 51. Rb7 d3 52. a7 d2 53. Rb1 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -806,24 +820,24 @@ Kxf3 Rc6 48. Bd5 Rd6 49. Bc4 Ng5+ 50. Bxg5+ Kxg5 51. Rb7 d3 52. a7 d2 53. Rb1
 [White "Cramling, Pia"]
 [Black "Sebag, Marie"]
 [Result "1/2-1/2"]
-[ECO "D43"]
 [WhiteElo "2548"]
 [BlackElo "2529"]
-[PlyCount "94"]
+[ECO "D43"]
 [EventDate "2009.03.06"]
+[PlyCount "94"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8. Qc2
-g6 9. cxd5 exd5 10. Bd3 Bg7 11. O-O O-O 12. b4 Qd6 13. Rab1 Re8 14. Rfc1 a6 15.
-a4 Nf8 16. b5 axb5 17. axb5 c5 18. dxc5 Qxc5 19. b6 Ne6 20. Ne2 Qxc2 21. Bxc2
-Bd7 22. Bb3 Ra5 23. Rd1 Bc6 24. h3 Rea8 25. Ned4 Nxd4 26. exd4 Rb5 27. Bc2 Ra3
-28. Rxb5 Bxb5 29. Ne5 Rc3 30. Rd2 h5 31. f4 Bh6 32. Rf2 Ra3 33. h4 Kg7 34. Kh2
-Ba4 35. Bxa4 Rxa4 36. g3 Rxd4 37. Rc2 Rb4 38. Rc7 Rxb6 39. Nxf7 d4 40. Rd7 d3
-41. Ne5+ Kg8 42. Rxd3 Bg7 43. Rd8+ Kh7 44. Rd7 Kg8 45. Rd8+ Kh7 46. Rd7 Kg8 47.
-Rd8+ Kh7 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 Nd7 8.
+Qc2 g6 9. cxd5 exd5 10. Bd3 Bg7 11. O-O O-O 12. b4 Qd6 13. Rab1 Re8 14.
+Rfc1 a6 15. a4 Nf8 16. b5 axb5 17. axb5 c5 18. dxc5 Qxc5 19. b6 Ne6 20. Ne2
+Qxc2 21. Bxc2 Bd7 22. Bb3 Ra5 23. Rd1 Bc6 24. h3 Rea8 25. Ned4 Nxd4 26.
+exd4 Rb5 27. Bc2 Ra3 28. Rxb5 Bxb5 29. Ne5 Rc3 30. Rd2 h5 31. f4 Bh6 32.
+Rf2 Ra3 33. h4 Kg7 34. Kh2 Ba4 35. Bxa4 Rxa4 36. g3 Rxd4 37. Rc2 Rb4 38.
+Rc7 Rxb6 39. Nxf7 d4 40. Rd7 d3 41. Ne5+ Kg8 42. Rxd3 Bg7 43. Rd8+ Kh7 44.
+Rd7 Kg8 45. Rd8+ Kh7 46. Rd7 Kg8 47. Rd8+ Kh7 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -832,21 +846,22 @@ Rd8+ Kh7 1/2-1/2
 [White "Fierro Baquero, Martha"]
 [Black "Hou, Yifan"]
 [Result "0-1"]
-[ECO "C04"]
 [WhiteElo "2403"]
 [BlackElo "2571"]
-[PlyCount "62"]
+[ECO "C04"]
 [EventDate "2009.03.06"]
+[PlyCount "62"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Be2 f6 7. exf6 Qxf6 8.
-Nf1 Bd6 9. Ne3 O-O 10. O-O Qg6 11. c4 Nf6 12. c5 Be7 13. Bb5 Bd7 14. Bxc6 Bxc6
-15. Ne5 Qe8 16. N3g4 b6 17. cxb6 axb6 18. Nxc6 Qxc6 19. Ne5 Qe8 20. Be3 c5 21.
-Qb3 Rb8 22. Bf4 Ne4 23. Nd3 c4 24. Qd1 Rc8 25. f3 cxd3 26. fxe4 dxe4 27. Qg4
-Qg6 28. Qxg6 hxg6 29. Rae1 Rxf4 30. Rxf4 e3 31. Rxe3 Bg5 0-1
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Be2 f6 7. exf6 Qxf6
+8. Nf1 Bd6 9. Ne3 O-O 10. O-O Qg6 11. c4 Nf6 12. c5 Be7 13. Bb5 Bd7 14.
+Bxc6 Bxc6 15. Ne5 Qe8 16. N3g4 b6 17. cxb6 axb6 18. Nxc6 Qxc6 19. Ne5 Qe8
+20. Be3 c5 21. Qb3 Rb8 22. Bf4 Ne4 23. Nd3 c4 24. Qd1 Rc8 25. f3 cxd3 26.
+fxe4 dxe4 27. Qg4 Qg6 28. Qxg6 hxg6 29. Rae1 Rxf4 30. Rxf4 e3 31. Rxe3 Bg5
+0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -855,23 +870,23 @@ Qg6 28. Qxg6 hxg6 29. Rae1 Rxf4 30. Rxf4 e3 31. Rxe3 Bg5 0-1
 [White "Koneru, Humpy"]
 [Black "Chiburdanidze, Maia"]
 [Result "1-0"]
-[ECO "D38"]
 [WhiteElo "2621"]
 [BlackElo "2516"]
-[PlyCount "83"]
+[ECO "D38"]
 [EventDate "2009.03.06"]
+[PlyCount "83"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qa4+ Nc6 6. e3 O-O 7. a3 Bxc3+ 8.
-bxc3 Bd7 9. Qc2 Na5 10. cxd5 exd5 11. a4 Re8 12. Bd3 b6 13. Ba3 Ne4 14. O-O Bf5
-15. Ne5 f6 16. Nf3 h6 17. Nh4 Bh7 18. f3 Ng5 19. Bxh7+ Nxh7 20. Rae1 Nc4 21.
-Bc1 Qd7 22. e4 c6 23. Re2 Re6 24. Rfe1 Rae8 25. Nf5 Ng5 26. Ng3 Nf7 27. Qd3
-Nfd6 28. Bf4 Nf7 29. Nh5 Qe7 30. Bc1 Qd7 31. Kf1 Ncd6 32. Nf4 dxe4 33. fxe4
-R6e7 34. Kg1 c5 35. h3 Qxa4 36. Kh2 Qc4 37. Qg3 Rxe4 38. Rxe4 Rxe4 39. Nh5 Ng5
-40. Bxg5 hxg5 41. Rxe4 Nxe4 42. Qb8+ 1-0
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qa4+ Nc6 6. e3 O-O 7. a3 Bxc3+
+8. bxc3 Bd7 9. Qc2 Na5 10. cxd5 exd5 11. a4 Re8 12. Bd3 b6 13. Ba3 Ne4 14.
+O-O Bf5 15. Ne5 f6 16. Nf3 h6 17. Nh4 Bh7 18. f3 Ng5 19. Bxh7+ Nxh7 20.
+Rae1 Nc4 21. Bc1 Qd7 22. e4 c6 23. Re2 Re6 24. Rfe1 Rae8 25. Nf5 Ng5 26.
+Ng3 Nf7 27. Qd3 Nfd6 28. Bf4 Nf7 29. Nh5 Qe7 30. Bc1 Qd7 31. Kf1 Ncd6 32.
+Nf4 dxe4 33. fxe4 R6e7 34. Kg1 c5 35. h3 Qxa4 36. Kh2 Qc4 37. Qg3 Rxe4 38.
+Rxe4 Rxe4 39. Nh5 Ng5 40. Bxg5 hxg5 41. Rxe4 Nxe4 42. Qb8+ 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -880,22 +895,22 @@ R6e7 34. Kg1 c5 35. h3 Qxa4 36. Kh2 Qc4 37. Qg3 Rxe4 38. Rxe4 Rxe4 39. Nh5 Ng5
 [White "Mamedjarova, Zeinab"]
 [Black "Shen, Yang"]
 [Result "1-0"]
-[ECO "E15"]
 [WhiteElo "2362"]
 [BlackElo "2448"]
-[PlyCount "73"]
+[ECO "E15"]
 [EventDate "2009.03.06"]
+[PlyCount "73"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 6. Bg2 Bb4+ 7. Bd2 Bd6 8. Bc3
-Ne4 9. Bb2 Nd7 10. Nc3 Nxc3 11. Bxc3 c6 12. Nd2 O-O 13. e4 dxc4 14. e5 Be7 15.
-bxc4 Qc7 16. O-O Rfd8 17. Re1 Rac8 18. a4 Nf8 19. a5 Bb7 20. c5 bxc5 21. a6 Ba8
-22. Ba5 Qd7 23. dxc5 Bxc5 24. Bxd8 Rxd8 25. Nb3 Qe7 26. Qe2 Bb6 27. Red1 Nd7
-28. Rac1 Rc8 29. Nd4 c5 30. Bxa8 Rxa8 31. Qe4 Rf8 32. Nc6 Qe8 33. Nxa7 Nxe5 34.
-Qxe5 Bxa7 35. Qc7 Qa8 36. Rd7 Bb8 37. Qb7 1-0
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 6. Bg2 Bb4+ 7. Bd2 Bd6 8.
+Bc3 Ne4 9. Bb2 Nd7 10. Nc3 Nxc3 11. Bxc3 c6 12. Nd2 O-O 13. e4 dxc4 14. e5
+Be7 15. bxc4 Qc7 16. O-O Rfd8 17. Re1 Rac8 18. a4 Nf8 19. a5 Bb7 20. c5
+bxc5 21. a6 Ba8 22. Ba5 Qd7 23. dxc5 Bxc5 24. Bxd8 Rxd8 25. Nb3 Qe7 26. Qe2
+Bb6 27. Red1 Nd7 28. Rac1 Rc8 29. Nd4 c5 30. Bxa8 Rxa8 31. Qe4 Rf8 32. Nc6
+Qe8 33. Nxa7 Nxe5 34. Qxe5 Bxa7 35. Qc7 Qa8 36. Rd7 Bb8 37. Qb7 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -904,23 +919,23 @@ Qxe5 Bxa7 35. Qc7 Qa8 36. Rd7 Bb8 37. Qb7 1-0
 [White "Stefanova, Antoaneta"]
 [Black "Danielian, Elina"]
 [Result "0-1"]
-[ECO "D46"]
 [WhiteElo "2557"]
 [BlackElo "2496"]
-[PlyCount "82"]
+[ECO "D46"]
 [EventDate "2009.03.06"]
+[PlyCount "82"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 e6 5. b3 Nbd7 6. Bb2 b6 7. Bd3 Bb7 8. O-O
-Be7 9. Nc3 O-O 10. Qc2 c5 11. Ne5 dxc4 12. bxc4 h6 13. Rad1 cxd4 14. exd4 Rc8
-15. f4 a6 16. Qe2 Bb4 17. a3 Bd6 18. Bb1 Qe7 19. Rd3 Rfd8 20. Re1 Nf8 21. Rg3
-Bb8 22. Kh1 b5 23. cxb5 axb5 24. Nxb5 Nd5 25. Rf1 f5 26. a4 Qe8 27. Ba3 Nh7 28.
-Ng6 Rc6 29. Qh5 Nhf6 30. Qh4 Rc4 31. Ne5 Bxe5 32. fxe5 Qh5 33. Qxh5 Nxh5 34.
-Rb3 Rxa4 35. Kg1 Ba6 36. Bd3 Nhf4 37. Rxf4 Nxf4 38. Bf1 Rb8 39. Bd6 Rb7 40. g3
-Nd5 41. g4 Ra1 0-1
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 e6 5. b3 Nbd7 6. Bb2 b6 7. Bd3 Bb7 8.
+O-O Be7 9. Nc3 O-O 10. Qc2 c5 11. Ne5 dxc4 12. bxc4 h6 13. Rad1 cxd4 14.
+exd4 Rc8 15. f4 a6 16. Qe2 Bb4 17. a3 Bd6 18. Bb1 Qe7 19. Rd3 Rfd8 20. Re1
+Nf8 21. Rg3 Bb8 22. Kh1 b5 23. cxb5 axb5 24. Nxb5 Nd5 25. Rf1 f5 26. a4 Qe8
+27. Ba3 Nh7 28. Ng6 Rc6 29. Qh5 Nhf6 30. Qh4 Rc4 31. Ne5 Bxe5 32. fxe5 Qh5
+33. Qxh5 Nxh5 34. Rb3 Rxa4 35. Kg1 Ba6 36. Bd3 Nhf4 37. Rxf4 Nxf4 38. Bf1
+Rb8 39. Bd6 Rb7 40. g3 Nd5 41. g4 Ra1 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -929,24 +944,24 @@ Nd5 41. g4 Ra1 0-1
 [White "Yildiz, Betul Cemre"]
 [Black "Zhao Xue"]
 [Result "0-1"]
-[ECO "B07"]
 [WhiteElo "2214"]
 [BlackElo "2508"]
-[PlyCount "94"]
+[ECO "B07"]
 [EventDate "2009.03.06"]
+[PlyCount "94"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 d6 2. d4 Nf6 3. f3 Nbd7 4. c4 e5 5. Ne2 c6 6. Nbc3 a6 7. a4 a5 8. Be3 Be7
-9. Ng3 g6 10. Be2 h5 11. O-O h4 12. Nh1 Nh5 13. Qd2 O-O 14. Nf2 Re8 15. Ng4
-Ndf6 16. Nxf6+ Bxf6 17. Rad1 exd4 18. Bxd4 Bxd4+ 19. Qxd4 Qg5 20. Rf2 Be6 21.
-Bf1 Rad8 22. Ne2 Qe5 23. Nc3 Qxd4 24. Rxd4 Kf8 25. Rfd2 Ke7 26. Kf2 Nf4 27. Rd1
-Bc8 28. R4d2 Ne6 29. g3 hxg3+ 30. hxg3 Nc5 31. f4 Be6 32. Kf3 Rh8 33. g4 f6 34.
-Kg3 g5 35. f5 Bf7 36. Kf3 Rd7 37. Kg3 Ra8 38. Rh2 Ra6 39. Rhd2 Rb6 40. Rb1 Rb3
-41. Kg2 Rb4 42. Na2 Rxa4 43. b3 Ra3 44. Nc1 a4 45. b4 Nxe4 46. Re2 d5 47. b5
-Rd8 0-1
+1. e4 d6 2. d4 Nf6 3. f3 Nbd7 4. c4 e5 5. Ne2 c6 6. Nbc3 a6 7. a4 a5 8. Be3
+Be7 9. Ng3 g6 10. Be2 h5 11. O-O h4 12. Nh1 Nh5 13. Qd2 O-O 14. Nf2 Re8 15.
+Ng4 Ndf6 16. Nxf6+ Bxf6 17. Rad1 exd4 18. Bxd4 Bxd4+ 19. Qxd4 Qg5 20. Rf2
+Be6 21. Bf1 Rad8 22. Ne2 Qe5 23. Nc3 Qxd4 24. Rxd4 Kf8 25. Rfd2 Ke7 26. Kf2
+Nf4 27. Rd1 Bc8 28. R4d2 Ne6 29. g3 hxg3+ 30. hxg3 Nc5 31. f4 Be6 32. Kf3
+Rh8 33. g4 f6 34. Kg3 g5 35. f5 Bf7 36. Kf3 Rd7 37. Kg3 Ra8 38. Rh2 Ra6 39.
+Rhd2 Rb6 40. Rb1 Rb3 41. Kg2 Rb4 42. Na2 Rxa4 43. b3 Ra3 44. Nc1 a4 45. b4
+Nxe4 46. Re2 d5 47. b5 Rd8 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -955,25 +970,25 @@ Rd8 0-1
 [White "Chiburdanidze, Maia"]
 [Black "Mamedjarova, Zeinab"]
 [Result "1-0"]
-[ECO "D55"]
 [WhiteElo "2516"]
 [BlackElo "2362"]
-[PlyCount "109"]
+[ECO "D55"]
 [EventDate "2009.03.06"]
+[PlyCount "109"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
 1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bf4 c6 8. a3
-Nbd7 9. cxd5 Nxd5 10. Nxd5 exd5 11. Bd3 Nf6 12. Ne5 Bd6 13. Bc2 Ne4 14. f3 Ng5
-15. Qd3 f5 16. h4 Nf7 17. Ng6 Re8 18. O-O-O b5 19. g4 b4 20. a4 b3 21. Bxb3 Rb8
-22. Bc2 Qb6 23. b3 Ba6 24. Qxf5 Ba3+ 25. Kb1 Bc4 26. Rd3 Rb7 27. Ka1 Nd6 28.
-Bxd6 Rf7 29. Bxa3 Rxf5 30. bxc4 dxc4 31. Rc3 Rxf3 32. Rb1 Qa5 33. Bb4 Qa6 34.
-Ne5 Rf2 35. Nxc4 Rb8 36. a5 c5 37. Bxc5 Rxb1+ 38. Bxb1 Rf1 39. Ka2 Qb5 40. Bc2
-Rf2 41. Ba3 Rg2 42. Nd6 Qd7 43. g5 hxg5 44. hxg5 g6 45. e4 Qa4 46. Kb2 Qxa5 47.
-d5 Qb6+ 48. Ka2 Qa5 49. Rc4 Rg3 50. Rc8+ Kh7 51. Nc4 Qa6 52. Rc7+ Kg8 53. Rc6
-Qb5 54. Bb2 Qb7 55. Nd6 1-0
+Nbd7 9. cxd5 Nxd5 10. Nxd5 exd5 11. Bd3 Nf6 12. Ne5 Bd6 13. Bc2 Ne4 14. f3
+Ng5 15. Qd3 f5 16. h4 Nf7 17. Ng6 Re8 18. O-O-O b5 19. g4 b4 20. a4 b3 21.
+Bxb3 Rb8 22. Bc2 Qb6 23. b3 Ba6 24. Qxf5 Ba3+ 25. Kb1 Bc4 26. Rd3 Rb7 27.
+Ka1 Nd6 28. Bxd6 Rf7 29. Bxa3 Rxf5 30. bxc4 dxc4 31. Rc3 Rxf3 32. Rb1 Qa5
+33. Bb4 Qa6 34. Ne5 Rf2 35. Nxc4 Rb8 36. a5 c5 37. Bxc5 Rxb1+ 38. Bxb1 Rf1
+39. Ka2 Qb5 40. Bc2 Rf2 41. Ba3 Rg2 42. Nd6 Qd7 43. g5 hxg5 44. hxg5 g6 45.
+e4 Qa4 46. Kb2 Qxa5 47. d5 Qb6+ 48. Ka2 Qa5 49. Rc4 Rg3 50. Rc8+ Kh7 51.
+Nc4 Qa6 52. Rc7+ Kg8 53. Rc6 Qb5 54. Bb2 Qb7 55. Nd6 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -982,24 +997,24 @@ Qb5 54. Bb2 Qb7 55. Nd6 1-0
 [White "Danielian, Elina"]
 [Black "Cramling, Pia"]
 [Result "1/2-1/2"]
-[ECO "D45"]
 [WhiteElo "2496"]
 [BlackElo "2548"]
-[PlyCount "97"]
+[ECO "D45"]
 [EventDate "2009.03.06"]
+[PlyCount "97"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 a6 6. c5 Nbd7 7. b4 g6 8. Bb2 Bg7
-9. Be2 O-O 10. O-O Qe7 11. Na4 Ne4 12. Ne5 Rb8 13. Nxd7 Qxd7 14. f3 Nf6 15. Qc2
-Qc7 16. Rad1 Nd7 17. e4 b5 18. cxb6 Nxb6 19. Nc5 Qa7 20. e5 Nd7 21. Bc3 Nxc5
-22. bxc5 a5 23. Qa4 Ba6 24. Qxa5 Ra8 25. Rf2 Rfb8 26. Qxa6 Qxa6 27. Bxa6 Rxa6
-28. Rc2 Ra4 29. Kf1 f6 30. exf6 Bxf6 31. Ke2 Rba8 32. Kd3 Rb8 33. Rdd2 Rc4 34.
-Rb2 Ra8 35. Rb4 Rxb4 36. Bxb4 e5 37. dxe5 Bxe5 38. g3 Kf7 39. Re2 Bf6 40. a3 h5
-41. f4 Rb8 42. h3 Rb5 43. g4 hxg4 44. hxg4 Be7 45. Rc2 Bf8 46. Kd4 Bg7+ 47. Kd3
-Bf8 48. Kd4 Bg7+ 49. Kd3 1/2-1/2
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 a6 6. c5 Nbd7 7. b4 g6 8. Bb2
+Bg7 9. Be2 O-O 10. O-O Qe7 11. Na4 Ne4 12. Ne5 Rb8 13. Nxd7 Qxd7 14. f3 Nf6
+15. Qc2 Qc7 16. Rad1 Nd7 17. e4 b5 18. cxb6 Nxb6 19. Nc5 Qa7 20. e5 Nd7 21.
+Bc3 Nxc5 22. bxc5 a5 23. Qa4 Ba6 24. Qxa5 Ra8 25. Rf2 Rfb8 26. Qxa6 Qxa6
+27. Bxa6 Rxa6 28. Rc2 Ra4 29. Kf1 f6 30. exf6 Bxf6 31. Ke2 Rba8 32. Kd3 Rb8
+33. Rdd2 Rc4 34. Rb2 Ra8 35. Rb4 Rxb4 36. Bxb4 e5 37. dxe5 Bxe5 38. g3 Kf7
+39. Re2 Bf6 40. a3 h5 41. f4 Rb8 42. h3 Rb5 43. g4 hxg4 44. hxg4 Be7 45.
+Rc2 Bf8 46. Kd4 Bg7+ 47. Kd3 Bf8 48. Kd4 Bg7+ 49. Kd3 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1008,24 +1023,25 @@ Bf8 48. Kd4 Bg7+ 49. Kd3 1/2-1/2
 [White "Hou, Yifan"]
 [Black "Koneru, Humpy"]
 [Result "1-0"]
-[ECO "C90"]
 [WhiteElo "2571"]
 [BlackElo "2621"]
-[PlyCount "99"]
+[ECO "C90"]
 [EventDate "2009.03.06"]
+[PlyCount "99"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
-Na5 9. Bc2 c5 10. h3 Qc7 11. d4 Bd7 12. b3 O-O 13. d5 Nb7 14. Nbd2 g6 15. Nf1
-Nh5 16. Bh6 Rfc8 17. Ng3 Ng7 18. Nd2 Qd8 19. Nf3 a5 20. a4 c4 21. b4 Ne8 22.
-axb5 Bxb5 23. Be3 axb4 24. cxb4 Nc7 25. Ne2 Bd7 26. Rxa8 Rxa8 27. Nd2 Na6 28.
-Qb1 Rb8 29. Nxc4 Nbc5 30. Bxc5 Nxc5 31. Nc3 Qc8 32. Na2 Na6 33. Qb3 Bb5 34. Na3
-Bd7 35. Rb1 f5 36. Qc4 Qb7 37. b5 Nc5 38. exf5 Ra8 39. Qc3 Qa7 40. b6 Qxa3 41.
-b7 Qxa2 42. b8=Q+ Rxb8 43. Rxb8+ Kg7 44. fxg6 hxg6 45. Bxg6 Qa7 46. Qf3 Qxb8
-47. Qf7+ Kh6 48. Qh7+ Kg5 49. h4+ Kf4 50. Qh6+ 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 Na5 9. Bc2 c5 10. h3 Qc7 11. d4 Bd7 12. b3 O-O 13. d5 Nb7 14. Nbd2 g6
+15. Nf1 Nh5 16. Bh6 Rfc8 17. Ng3 Ng7 18. Nd2 Qd8 19. Nf3 a5 20. a4 c4 21.
+b4 Ne8 22. axb5 Bxb5 23. Be3 axb4 24. cxb4 Nc7 25. Ne2 Bd7 26. Rxa8 Rxa8
+27. Nd2 Na6 28. Qb1 Rb8 29. Nxc4 Nbc5 30. Bxc5 Nxc5 31. Nc3 Qc8 32. Na2 Na6
+33. Qb3 Bb5 34. Na3 Bd7 35. Rb1 f5 36. Qc4 Qb7 37. b5 Nc5 38. exf5 Ra8 39.
+Qc3 Qa7 40. b6 Qxa3 41. b7 Qxa2 42. b8=Q+ Rxb8 43. Rxb8+ Kg7 44. fxg6 hxg6
+45. Bxg6 Qa7 46. Qf3 Qxb8 47. Qf7+ Kh6 48. Qh7+ Kg5 49. h4+ Kf4 50. Qh6+
+1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1034,26 +1050,26 @@ b7 Qxa2 42. b8=Q+ Rxb8 43. Rxb8+ Kg7 44. fxg6 hxg6 45. Bxg6 Qa7 46. Qf3 Qxb8
 [White "Sebag, Marie"]
 [Black "Yildiz, Betul Cemre"]
 [Result "1-0"]
-[ECO "C88"]
 [WhiteElo "2529"]
 [BlackElo "2214"]
-[PlyCount "121"]
+[ECO "C88"]
 [EventDate "2009.03.06"]
+[PlyCount "121"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8. a4
-O-O 9. Re1 d6 10. Nbd2 Nd7 11. c3 Nc5 12. Bc2 Nxa4 13. Bxa4 bxa4 14. Rxa4 Kh8
-15. d4 exd4 16. cxd4 Qd7 17. Nf1 f5 18. exf5 Rxf5 19. Ne3 Rff8 20. d5 Ne5 21.
-Nxe5 dxe5 22. Bd2 Rf4 23. Ra1 Raf8 24. Rf1 Bc5 25. Qb3 Bxe3 26. Bxe3 Bxd5 27.
-Rfd1 Bxb3 28. Rxd7 R4f7 29. Rxf7 Rxf7 30. Rxa6 Bd5 31. h3 Kg8 32. Bd2 Re7 33.
-Ra7 Kf7 34. Bb4 c5 35. Ra5 cxb4 36. Rxd5 Rc7 37. Rxe5 Rc1+ 38. Kh2 Rc2 39. b3
-Rc3 40. Re3 Kf6 41. Kg3 Kf5 42. Kf3 Rc2 43. g4+ Kf6 44. Kg3 g5 45. f4 gxf4+ 46.
-Kxf4 h6 47. h4 Rf2+ 48. Kg3 Rb2 49. Rf3+ Kg6 50. Kf4 Rg2 51. Rd3 Rb2 52. Ke4
-Rg2 53. Rd6+ Kg7 54. Kf4 Rb2 55. Rd3 Kg6 56. Ke5 Re2+ 57. Kd5 Rb2 58. Kc4 Rh2
-59. Rd6+ Kg7 60. h5 Rg2 61. Rg6+ 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8.
+a4 O-O 9. Re1 d6 10. Nbd2 Nd7 11. c3 Nc5 12. Bc2 Nxa4 13. Bxa4 bxa4 14.
+Rxa4 Kh8 15. d4 exd4 16. cxd4 Qd7 17. Nf1 f5 18. exf5 Rxf5 19. Ne3 Rff8 20.
+d5 Ne5 21. Nxe5 dxe5 22. Bd2 Rf4 23. Ra1 Raf8 24. Rf1 Bc5 25. Qb3 Bxe3 26.
+Bxe3 Bxd5 27. Rfd1 Bxb3 28. Rxd7 R4f7 29. Rxf7 Rxf7 30. Rxa6 Bd5 31. h3 Kg8
+32. Bd2 Re7 33. Ra7 Kf7 34. Bb4 c5 35. Ra5 cxb4 36. Rxd5 Rc7 37. Rxe5 Rc1+
+38. Kh2 Rc2 39. b3 Rc3 40. Re3 Kf6 41. Kg3 Kf5 42. Kf3 Rc2 43. g4+ Kf6 44.
+Kg3 g5 45. f4 gxf4+ 46. Kxf4 h6 47. h4 Rf2+ 48. Kg3 Rb2 49. Rf3+ Kg6 50.
+Kf4 Rg2 51. Rd3 Rb2 52. Ke4 Rg2 53. Rd6+ Kg7 54. Kf4 Rb2 55. Rd3 Kg6 56.
+Ke5 Re2+ 57. Kd5 Rb2 58. Kc4 Rh2 59. Rd6+ Kg7 60. h5 Rg2 61. Rg6+ 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1062,20 +1078,20 @@ Rg2 53. Rd6+ Kg7 54. Kf4 Rb2 55. Rd3 Kg6 56. Ke5 Re2+ 57. Kd5 Rb2 58. Kc4 Rh2
 [White "Shen, Yang"]
 [Black "Stefanova, Antoaneta"]
 [Result "1/2-1/2"]
-[ECO "C60"]
 [WhiteElo "2448"]
 [BlackElo "2557"]
-[PlyCount "47"]
+[ECO "C60"]
 [EventDate "2009.03.06"]
+[PlyCount "47"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. c3 d5 5. d3 dxe4 6. dxe4 Qxd1+ 7. Kxd1 f6 8.
-Be3 Bd7 9. Nbd2 O-O-O 10. a4 g5 11. Kc2 h5 12. Rhd1 Bh6 13. g3 h4 14. Nb3 a6
-15. Bc4 Bg4 16. Rxd8+ Nxd8 17. Nfd2 hxg3 18. hxg3 Bf8 19. Nc5 Rh2 20. b4 Bh6
-21. Nd3 Bd7 22. Nc5 Bg4 23. Nd3 Bd7 24. Nc5 1/2-1/2
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. c3 d5 5. d3 dxe4 6. dxe4 Qxd1+ 7. Kxd1
+f6 8. Be3 Bd7 9. Nbd2 O-O-O 10. a4 g5 11. Kc2 h5 12. Rhd1 Bh6 13. g3 h4 14.
+Nb3 a6 15. Bc4 Bg4 16. Rxd8+ Nxd8 17. Nfd2 hxg3 18. hxg3 Bf8 19. Nc5 Rh2
+20. b4 Bh6 21. Nd3 Bd7 22. Nc5 Bg4 23. Nd3 Bd7 24. Nc5 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1084,25 +1100,26 @@ Be3 Bd7 9. Nbd2 O-O-O 10. a4 g5 11. Kc2 h5 12. Rhd1 Bh6 13. g3 h4 14. Nb3 a6
 [White "Zhao Xue"]
 [Black "Fierro Baquero, Martha"]
 [Result "1-0"]
-[ECO "E92"]
 [WhiteElo "2508"]
 [BlackElo "2403"]
-[PlyCount "111"]
+[ECO "E92"]
 [EventDate "2009.03.06"]
+[PlyCount "111"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Be3 e5 7. Nf3 Ng4 8. Bg5
-f6 9. Bc1 exd4 10. Nxd4 f5 11. h3 Nh6 12. exf5 Nxf5 13. Nxf5 Bxf5 14. Be3 Nc6
-15. Qd2 Qh4 16. Nd5 Nd4 17. Bd1 Qe4 18. O-O Rf7 19. Rc1 Qd3 20. Re1 Qxd2 21.
-Bxd2 Nc6 22. Bc3 Ne5 23. Be2 Raf8 24. Rcd1 Be4 25. f3 Bxd5 26. Rxd5 Nc6 27. c5
-Bxc3 28. bxc3 dxc5 29. Bb5 Kg7 30. Bxc6 bxc6 31. Rxc5 Rd8 32. Kf2 Rd5 33. Rxc6
-Ra5 34. Re2 Rd7 35. h4 Kf7 36. g4 Kg7 37. Kg3 Rf7 38. Re4 Rxa2 39. Rec4 Rd2 40.
-Rxc7 Rdd7 41. Rxd7 Rxd7 42. Kf4 Re7 43. Ra4 h6 44. c4 Kf7 45. c5 Rc7 46. Ra5
-Re7 47. g5 hxg5+ 48. hxg5 Ke8 49. Ra6 Kf7 50. c6 Kg7 51. Ra4 Kf7 52. Rc4 Rc7
-53. Ke5 Ke7 54. Kd5 Kd8 55. Kd6 a5 56. Rh4 1-0
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Be3 e5 7. Nf3 Ng4 8.
+Bg5 f6 9. Bc1 exd4 10. Nxd4 f5 11. h3 Nh6 12. exf5 Nxf5 13. Nxf5 Bxf5 14.
+Be3 Nc6 15. Qd2 Qh4 16. Nd5 Nd4 17. Bd1 Qe4 18. O-O Rf7 19. Rc1 Qd3 20. Re1
+Qxd2 21. Bxd2 Nc6 22. Bc3 Ne5 23. Be2 Raf8 24. Rcd1 Be4 25. f3 Bxd5 26.
+Rxd5 Nc6 27. c5 Bxc3 28. bxc3 dxc5 29. Bb5 Kg7 30. Bxc6 bxc6 31. Rxc5 Rd8
+32. Kf2 Rd5 33. Rxc6 Ra5 34. Re2 Rd7 35. h4 Kf7 36. g4 Kg7 37. Kg3 Rf7 38.
+Re4 Rxa2 39. Rec4 Rd2 40. Rxc7 Rdd7 41. Rxd7 Rxd7 42. Kf4 Re7 43. Ra4 h6
+44. c4 Kf7 45. c5 Rc7 46. Ra5 Re7 47. g5 hxg5+ 48. hxg5 Ke8 49. Ra6 Kf7 50.
+c6 Kg7 51. Ra4 Kf7 52. Rc4 Rc7 53. Ke5 Ke7 54. Kd5 Kd8 55. Kd6 a5 56. Rh4
+1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1111,20 +1128,21 @@ Re7 47. g5 hxg5+ 48. hxg5 Ke8 49. Ra6 Kf7 50. c6 Kg7 51. Ra4 Kf7 52. Rc4 Rc7
 [White "Cramling, Pia"]
 [Black "Shen, Yang"]
 [Result "1-0"]
-[ECO "D44"]
 [WhiteElo "2548"]
 [BlackElo "2448"]
-[PlyCount "51"]
+[ECO "D44"]
 [EventDate "2009.03.06"]
+[PlyCount "51"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. a4 Bb4 7. e3 b5 8. Be2
-Bb7 9. O-O a6 10. Ne5 Nbd7 11. f4 Qc7 12. Bf3 Nd5 13. Qe1 Nxc3 14. bxc3 Bd6 15.
-Qh4 O-O 16. Nxd7 Qxd7 17. Bf6 Rfe8 18. Be4 gxf6 19. Qh6 c5 20. Bxh7+ Kh8 21.
-Bc2+ Kg8 22. Bh7+ Kh8 23. Bc2+ Kg8 24. Rf3 Bxf3 25. gxf3 cxd4 26. Kh1 1-0
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. a4 Bb4 7. e3 b5 8.
+Be2 Bb7 9. O-O a6 10. Ne5 Nbd7 11. f4 Qc7 12. Bf3 Nd5 13. Qe1 Nxc3 14. bxc3
+Bd6 15. Qh4 O-O 16. Nxd7 Qxd7 17. Bf6 Rfe8 18. Be4 gxf6 19. Qh6 c5 20.
+Bxh7+ Kh8 21. Bc2+ Kg8 22. Bh7+ Kh8 23. Bc2+ Kg8 24. Rf3 Bxf3 25. gxf3 cxd4
+26. Kh1 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1133,23 +1151,23 @@ Bc2+ Kg8 22. Bh7+ Kh8 23. Bc2+ Kg8 24. Rf3 Bxf3 25. gxf3 cxd4 26. Kh1 1-0
 [White "Fierro Baquero, Martha"]
 [Black "Sebag, Marie"]
 [Result "0-1"]
-[ECO "B33"]
 [WhiteElo "2403"]
 [BlackElo "2529"]
-[PlyCount "80"]
+[ECO "B33"]
 [EventDate "2009.03.06"]
+[PlyCount "80"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
-Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. g3 fxe4 12. Bg2 Bg7 13. Bxe4 Be6 14. Qh5 Ne7
-15. Nxe7 Kxe7 16. O-O b4 17. Bxa8 bxa3 18. Bg2 axb2 19. Rab1 Qb6 20. c4 Qd4 21.
-Rfd1 Qc3 22. Bd5 Bxd5 23. cxd5 Qc2 24. Qh4+ Bf6 25. Qb4 e4 26. Re1 Rc8 27.
-Rxe4+ Kd7 28. Ree1 Qc4 29. Qxc4 Rxc4 30. Kg2 Ra4 31. Re3 Rxa2 32. Rb3 Kc7 33.
-Kf3 a5 34. Ke2 a4 35. Rb5 a3 36. Kd3 Ra1 37. Kc2 a2 38. R1xb2 Bxb2 39. Rxb2
-Rc1+ 40. Kxc1 a1=Q+ 0-1
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6
+8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. g3 fxe4 12. Bg2 Bg7 13. Bxe4 Be6 14.
+Qh5 Ne7 15. Nxe7 Kxe7 16. O-O b4 17. Bxa8 bxa3 18. Bg2 axb2 19. Rab1 Qb6
+20. c4 Qd4 21. Rfd1 Qc3 22. Bd5 Bxd5 23. cxd5 Qc2 24. Qh4+ Bf6 25. Qb4 e4
+26. Re1 Rc8 27. Rxe4+ Kd7 28. Ree1 Qc4 29. Qxc4 Rxc4 30. Kg2 Ra4 31. Re3
+Rxa2 32. Rb3 Kc7 33. Kf3 a5 34. Ke2 a4 35. Rb5 a3 36. Kd3 Ra1 37. Kc2 a2
+38. R1xb2 Bxb2 39. Rxb2 Rc1+ 40. Kxc1 a1=Q+ 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1158,29 +1176,29 @@ Rc1+ 40. Kxc1 a1=Q+ 0-1
 [White "Hou, Yifan"]
 [Black "Zhao Xue"]
 [Result "0-1"]
-[ECO "C92"]
 [WhiteElo "2571"]
 [BlackElo "2508"]
-[PlyCount "158"]
+[ECO "C92"]
 [EventDate "2009.03.06"]
+[PlyCount "158"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
-O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 Na5 13. Bc2 b4 14. cxb4 Nc6 15.
-Nb3 Nxb4 16. Na5 Qb8 17. dxe5 dxe5 18. Bg5 Nd7 19. Bb3 Nc5 20. Bd2 Nxb3 21.
-Qxb3 c5 22. Ng5 Re7 23. Bxb4 cxb4 24. Rad1 Qe8 25. Qxb4 Rb8 26. Qc4 Rc8 27. Qb3
-Ba8 28. Nc4 Rec7 29. Nb6 Rb8 30. a5 Rc5 31. Qg3 Bc6 32. b4 Rb5 33. Nd5 Bxd5 34.
-exd5 Bxb4 35. Rxe5 Qd8 36. Ne4 Qxa5 37. Rg5 Bf8 38. d6 Rxg5 39. Nxg5 Qf5 40.
-Kh2 h6 41. Nf3 Rd8 42. Kg1 Qe6 43. Ra1 Rxd6 44. Qf4 Qb3 45. Qc1 a5 46. Nd2 Qb5
-47. Ne4 Re6 48. Nc3 Qe5 49. Na4 Bd6 50. g3 Qf5 51. Qf1 Bb4 52. Rc1 Rd6 53. Nb2
-Bc5 54. Qe2 Qxf2+ 55. Qxf2 Bxf2+ 56. Kxf2 Rd2+ 57. Kf3 Rxb2 58. Rc8+ Kh7 59.
-Ra8 Rb3+ 60. Kg2 Rb5 61. Ra6 h5 62. h4 Rf5 63. Kh3 g6 64. Ra7 Kg7 65. Ra6 Kf8
-66. Ra7 Ke8 67. Kg2 Rc5 68. Kf3 Kd8 69. Kg2 Rf5 70. g4 hxg4 71. Kg3 Kc8 72.
-Kxg4 Kb8 73. Re7 a4 74. h5 Rxh5 75. Rxf7 a3 76. Rf8+ Kb7 77. Rf7+ Kb6 78. Rf6+
-Kb5 79. Rxg6 Rh1 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 Na5 13. Bc2 b4 14. cxb4 Nc6
+15. Nb3 Nxb4 16. Na5 Qb8 17. dxe5 dxe5 18. Bg5 Nd7 19. Bb3 Nc5 20. Bd2 Nxb3
+21. Qxb3 c5 22. Ng5 Re7 23. Bxb4 cxb4 24. Rad1 Qe8 25. Qxb4 Rb8 26. Qc4 Rc8
+27. Qb3 Ba8 28. Nc4 Rec7 29. Nb6 Rb8 30. a5 Rc5 31. Qg3 Bc6 32. b4 Rb5 33.
+Nd5 Bxd5 34. exd5 Bxb4 35. Rxe5 Qd8 36. Ne4 Qxa5 37. Rg5 Bf8 38. d6 Rxg5
+39. Nxg5 Qf5 40. Kh2 h6 41. Nf3 Rd8 42. Kg1 Qe6 43. Ra1 Rxd6 44. Qf4 Qb3
+45. Qc1 a5 46. Nd2 Qb5 47. Ne4 Re6 48. Nc3 Qe5 49. Na4 Bd6 50. g3 Qf5 51.
+Qf1 Bb4 52. Rc1 Rd6 53. Nb2 Bc5 54. Qe2 Qxf2+ 55. Qxf2 Bxf2+ 56. Kxf2 Rd2+
+57. Kf3 Rxb2 58. Rc8+ Kh7 59. Ra8 Rb3+ 60. Kg2 Rb5 61. Ra6 h5 62. h4 Rf5
+63. Kh3 g6 64. Ra7 Kg7 65. Ra6 Kf8 66. Ra7 Ke8 67. Kg2 Rc5 68. Kf3 Kd8 69.
+Kg2 Rf5 70. g4 hxg4 71. Kg3 Kc8 72. Kxg4 Kb8 73. Re7 a4 74. h5 Rxh5 75.
+Rxf7 a3 76. Rf8+ Kb7 77. Rf7+ Kb6 78. Rf6+ Kb5 79. Rxg6 Rh1 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1189,22 +1207,23 @@ Kb5 79. Rxg6 Rh1 0-1
 [White "Koneru, Humpy"]
 [Black "Mamedjarova, Zeinab"]
 [Result "1-0"]
-[ECO "D36"]
 [WhiteElo "2621"]
 [BlackElo "2362"]
-[PlyCount "75"]
+[ECO "D36"]
 [EventDate "2009.03.06"]
+[PlyCount "75"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 c6 8. Qc2
-h6 9. Bh4 Re8 10. Nge2 Nbd7 11. f3 c5 12. O-O c4 13. Bf5 Nf8 14. Bxc8 Rxc8 15.
-Rad1 Ng6 16. Bxf6 Bxf6 17. e4 dxe4 18. fxe4 Qd7 19. e5 Be7 20. Ng3 Bf8 21. Nf5
-Re6 22. h4 Rc7 23. h5 Ne7 24. Nd6 f6 25. Ncb5 Rc6 26. d5 Rxe5 27. dxc6 Qxc6 28.
-Nxa7 Qb6+ 29. Qf2 Qa6 30. Nab5 Nc6 31. Nc3 Nb4 32. Qd4 Nd3 33. Qxc4+ Qxc4 34.
-Nxc4 Bc5+ 35. Kh2 Rxh5+ 36. Kg3 Nf2 37. Rd5 Ne4+ 38. Kf3 1-0
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 c6 8.
+Qc2 h6 9. Bh4 Re8 10. Nge2 Nbd7 11. f3 c5 12. O-O c4 13. Bf5 Nf8 14. Bxc8
+Rxc8 15. Rad1 Ng6 16. Bxf6 Bxf6 17. e4 dxe4 18. fxe4 Qd7 19. e5 Be7 20. Ng3
+Bf8 21. Nf5 Re6 22. h4 Rc7 23. h5 Ne7 24. Nd6 f6 25. Ncb5 Rc6 26. d5 Rxe5
+27. dxc6 Qxc6 28. Nxa7 Qb6+ 29. Qf2 Qa6 30. Nab5 Nc6 31. Nc3 Nb4 32. Qd4
+Nd3 33. Qxc4+ Qxc4 34. Nxc4 Bc5+ 35. Kh2 Rxh5+ 36. Kg3 Nf2 37. Rd5 Ne4+ 38.
+Kf3 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1213,25 +1232,25 @@ Nxc4 Bc5+ 35. Kh2 Rxh5+ 36. Kg3 Nf2 37. Rd5 Ne4+ 38. Kf3 1-0
 [White "Stefanova, Antoaneta"]
 [Black "Chiburdanidze, Maia"]
 [Result "1/2-1/2"]
-[ECO "E06"]
 [WhiteElo "2557"]
 [BlackElo "2516"]
-[PlyCount "107"]
+[ECO "E06"]
 [EventDate "2009.03.06"]
+[PlyCount "107"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8. Bf4
-b6 9. Nc3 Bb7 10. Rc1 Nh5 11. Be5 Nd7 12. cxd5 cxd5 13. Nb5 Nxe5 14. dxe5 a6
-15. Nbd4 Qd7 16. Qd2 g6 17. Qh6 Rfc8 18. Ng5 Bxg5 19. Qxg5 Qd8 20. Qxd8+ Rxd8
-21. Rc7 Rab8 22. Rfc1 Ng7 23. Nc6 Bxc6 24. R1xc6 Nf5 25. Bf1 Nd4 26. Rc1 a5 27.
-Kg2 Nb5 28. R7c2 Nd4 29. Rc3 Nb5 30. Rd3 Na7 31. Rb3 Rd7 32. e3 Kf8 33. Ba6 Ke7
-34. a4 Kd8 35. Rbc3 d4 36. exd4 Rxd4 37. Rf3 Rd7 38. g4 Ke7 39. Rh3 Rh8 40. g5
-Rd4 41. Rc7+ Rd7 42. Rc4 Rd5 43. Rf3 Rhd8 44. Rcf4 Rf8 45. Rc3 Rfd8 46. Rcc4
-R8d7 47. Rfe4 b5 48. axb5 Nxb5 49. Ra4 Nd4 50. Bc8 Rc7 51. Rexd4 Rxd4 52. Rxd4
-Rxc8 53. b4 axb4 54. Rxb4 1/2-1/2
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8.
+Bf4 b6 9. Nc3 Bb7 10. Rc1 Nh5 11. Be5 Nd7 12. cxd5 cxd5 13. Nb5 Nxe5 14.
+dxe5 a6 15. Nbd4 Qd7 16. Qd2 g6 17. Qh6 Rfc8 18. Ng5 Bxg5 19. Qxg5 Qd8 20.
+Qxd8+ Rxd8 21. Rc7 Rab8 22. Rfc1 Ng7 23. Nc6 Bxc6 24. R1xc6 Nf5 25. Bf1 Nd4
+26. Rc1 a5 27. Kg2 Nb5 28. R7c2 Nd4 29. Rc3 Nb5 30. Rd3 Na7 31. Rb3 Rd7 32.
+e3 Kf8 33. Ba6 Ke7 34. a4 Kd8 35. Rbc3 d4 36. exd4 Rxd4 37. Rf3 Rd7 38. g4
+Ke7 39. Rh3 Rh8 40. g5 Rd4 41. Rc7+ Rd7 42. Rc4 Rd5 43. Rf3 Rhd8 44. Rcf4
+Rf8 45. Rc3 Rfd8 46. Rcc4 R8d7 47. Rfe4 b5 48. axb5 Nxb5 49. Ra4 Nd4 50.
+Bc8 Rc7 51. Rexd4 Rxd4 52. Rxd4 Rxc8 53. b4 axb4 54. Rxb4 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1240,26 +1259,27 @@ Rxc8 53. b4 axb4 54. Rxb4 1/2-1/2
 [White "Yildiz, Betul Cemre"]
 [Black "Danielian, Elina"]
 [Result "0-1"]
-[ECO "B17"]
 [WhiteElo "2214"]
 [BlackElo "2496"]
-[PlyCount "126"]
+[ECO "B17"]
 [EventDate "2009.03.06"]
+[PlyCount "126"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 e6 6. Nf3 Ngf6 7. Nxf6+ Nxf6
-8. O-O Bd6 9. Bg5 Qc7 10. Qe2 Nd5 11. Rfe1 O-O 12. Rad1 b6 13. c3 Bb7 14. Bd3
-Nf4 15. Bxf4 Bxf4 16. Ne5 g6 17. Qg4 Bxe5 18. Rxe5 c5 19. h4 cxd4 20. cxd4 Bd5
-21. b3 Rac8 22. Ba6 Rcd8 23. h5 Qe7 24. Bc4 Bxc4 25. bxc4 Qf6 26. Qe2 Kg7 27.
-Qe3 gxh5 28. Rxh5 Kh8 29. g3 Rg8 30. Kg2 Rg7 31. d5 exd5 32. cxd5 Qg6 33. Rdh1
-Kg8 34. Rh6 Qg5 35. Rd6 Rf8 36. Qe4 Rg6 37. Rd7 Rd8 38. Qa4 Rxd7 39. Qxd7 Qe5
-40. Qc8+ Kg7 41. Qc4 b5 42. Qxb5 Qe4+ 43. Kg1 Rb6 44. Rh4 Qxh4 45. Qxb6 Qxg3+
-46. fxg3 axb6 47. Kf2 Kf6 48. Kf3 Ke5 49. Kg4 Kxd5 50. Kf5 b5 51. Kf6 b4 52.
-Kxf7 Kd4 53. Ke6 h5 54. Kd6 Ke4 55. Kc5 Kf3 56. Kxb4 Kxg3 57. a4 h4 58. Kb5 h3
-59. Kb6 h2 60. a5 h1=Q 61. Ka7 Qh7+ 62. Kb8 Qb1+ 63. Ka7 Qb5 0-1
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bc4 e6 6. Nf3 Ngf6 7. Nxf6+
+Nxf6 8. O-O Bd6 9. Bg5 Qc7 10. Qe2 Nd5 11. Rfe1 O-O 12. Rad1 b6 13. c3 Bb7
+14. Bd3 Nf4 15. Bxf4 Bxf4 16. Ne5 g6 17. Qg4 Bxe5 18. Rxe5 c5 19. h4 cxd4
+20. cxd4 Bd5 21. b3 Rac8 22. Ba6 Rcd8 23. h5 Qe7 24. Bc4 Bxc4 25. bxc4 Qf6
+26. Qe2 Kg7 27. Qe3 gxh5 28. Rxh5 Kh8 29. g3 Rg8 30. Kg2 Rg7 31. d5 exd5
+32. cxd5 Qg6 33. Rdh1 Kg8 34. Rh6 Qg5 35. Rd6 Rf8 36. Qe4 Rg6 37. Rd7 Rd8
+38. Qa4 Rxd7 39. Qxd7 Qe5 40. Qc8+ Kg7 41. Qc4 b5 42. Qxb5 Qe4+ 43. Kg1 Rb6
+44. Rh4 Qxh4 45. Qxb6 Qxg3+ 46. fxg3 axb6 47. Kf2 Kf6 48. Kf3 Ke5 49. Kg4
+Kxd5 50. Kf5 b5 51. Kf6 b4 52. Kxf7 Kd4 53. Ke6 h5 54. Kd6 Ke4 55. Kc5 Kf3
+56. Kxb4 Kxg3 57. a4 h4 58. Kb5 h3 59. Kb6 h2 60. a5 h1=Q 61. Ka7 Qh7+ 62.
+Kb8 Qb1+ 63. Ka7 Qb5 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1268,23 +1288,23 @@ Kxf7 Kd4 53. Ke6 h5 54. Kd6 Ke4 55. Kc5 Kf3 56. Kxb4 Kxg3 57. a4 h4 58. Kb5 h3
 [White "Chiburdanidze, Maia"]
 [Black "Cramling, Pia"]
 [Result "0-1"]
-[ECO "D11"]
 [WhiteElo "2516"]
 [BlackElo "2548"]
-[PlyCount "84"]
+[ECO "D11"]
 [EventDate "2009.03.06"]
+[PlyCount "84"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
 1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 Bg4 5. h3 Bh5 6. Nc3 e6 7. g4 Bg6 8. Ne5
-Nbd7 9. Nxg6 hxg6 10. cxd5 exd5 11. a3 g5 12. Bd3 Be7 13. Bd2 Qc7 14. Qf3 Nb6
-15. Rc1 g6 16. Ne2 Qd7 17. Qg2 O-O-O 18. f3 Kb8 19. Rc2 Nh7 20. Kd1 Nf8 21. b4
-Ne6 22. Nc1 Rhf8 23. Nb3 f5 24. Re1 Nc4 25. Bxc4 dxc4 26. Rxc4 Qd5 27. Qe2 fxg4
-28. fxg4 Qf3 29. Rc3 Qxh3 30. b5 c5 31. dxc5 Nf4 32. Qc4 Qxg4+ 33. Kc2 Qf5+ 34.
-e4 Qf7 35. Qa4 Ng2 36. Rb1 Qf2 37. b6 axb6 38. c6 Bc5 39. Nxc5 Rxd2+ 40. Kb3
-Qf7+ 41. Rc4 bxc5 42. Kc3 Qf3+ 0-1
+Nbd7 9. Nxg6 hxg6 10. cxd5 exd5 11. a3 g5 12. Bd3 Be7 13. Bd2 Qc7 14. Qf3
+Nb6 15. Rc1 g6 16. Ne2 Qd7 17. Qg2 O-O-O 18. f3 Kb8 19. Rc2 Nh7 20. Kd1 Nf8
+21. b4 Ne6 22. Nc1 Rhf8 23. Nb3 f5 24. Re1 Nc4 25. Bxc4 dxc4 26. Rxc4 Qd5
+27. Qe2 fxg4 28. fxg4 Qf3 29. Rc3 Qxh3 30. b5 c5 31. dxc5 Nf4 32. Qc4 Qxg4+
+33. Kc2 Qf5+ 34. e4 Qf7 35. Qa4 Ng2 36. Rb1 Qf2 37. b6 axb6 38. c6 Bc5 39.
+Nxc5 Rxd2+ 40. Kb3 Qf7+ 41. Rc4 bxc5 42. Kc3 Qf3+ 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1293,23 +1313,24 @@ Qf7+ 41. Rc4 bxc5 42. Kc3 Qf3+ 0-1
 [White "Danielian, Elina"]
 [Black "Fierro Baquero, Martha"]
 [Result "1-0"]
-[ECO "E62"]
 [WhiteElo "2496"]
 [BlackElo "2403"]
-[PlyCount "91"]
+[ECO "E62"]
 [EventDate "2009.03.06"]
+[PlyCount "91"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. Nc3 Bf5 8. d5
-Na5 9. Nd2 c6 10. b4 Nxc4 11. dxc6 Nxd2 12. cxb7 Rb8 13. Bxd2 d5 14. Qb3 Rxb7
-15. Rac1 Rd7 16. Bg5 d4 17. Bxf6 Bxf6 18. Ne4 Bg7 19. Nc5 Rc7 20. a4 Qd6 21. a5
-Rb8 22. Qc4 Be6 23. Qa6 Rxb4 24. Qxd6 exd6 25. Nxe6 Rxc1 26. Rxc1 fxe6 27. Bh3
-d3 28. Bxe6+ Kf8 29. exd3 Bd4 30. Rc7 Rb2 31. Rf7+ Ke8 32. Rf4 Bc3 33. a6 Ba5
-34. h4 Rd2 35. Bg8 Rd1+ 36. Kg2 Bd2 37. Re4+ Kf8 38. Bxh7 g5 39. h5 Ba5 40. Bg6
-Re1 41. Rc4 Kg7 42. Be4 Rb1 43. Rc6 Rb2 44. Rxd6 Bb6 45. h6+ Kf7 46. d4 1-0
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. Nc3 Bf5 8.
+d5 Na5 9. Nd2 c6 10. b4 Nxc4 11. dxc6 Nxd2 12. cxb7 Rb8 13. Bxd2 d5 14. Qb3
+Rxb7 15. Rac1 Rd7 16. Bg5 d4 17. Bxf6 Bxf6 18. Ne4 Bg7 19. Nc5 Rc7 20. a4
+Qd6 21. a5 Rb8 22. Qc4 Be6 23. Qa6 Rxb4 24. Qxd6 exd6 25. Nxe6 Rxc1 26.
+Rxc1 fxe6 27. Bh3 d3 28. Bxe6+ Kf8 29. exd3 Bd4 30. Rc7 Rb2 31. Rf7+ Ke8
+32. Rf4 Bc3 33. a6 Ba5 34. h4 Rd2 35. Bg8 Rd1+ 36. Kg2 Bd2 37. Re4+ Kf8 38.
+Bxh7 g5 39. h5 Ba5 40. Bg6 Re1 41. Rc4 Kg7 42. Be4 Rb1 43. Rc6 Rb2 44. Rxd6
+Bb6 45. h6+ Kf7 46. d4 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1318,23 +1339,23 @@ Re1 41. Rc4 Kg7 42. Be4 Rb1 43. Rc6 Rb2 44. Rxd6 Bb6 45. h6+ Kf7 46. d4 1-0
 [White "Mamedjarova, Zeinab"]
 [Black "Stefanova, Antoaneta"]
 [Result "0-1"]
-[ECO "D45"]
 [WhiteElo "2362"]
 [BlackElo "2557"]
-[PlyCount "82"]
+[ECO "D45"]
 [EventDate "2009.03.06"]
+[PlyCount "82"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 a6 6. Qc2 Nbd7 7. e4 dxe4 8. Nxe4
-Nxe4 9. Qxe4 Bb4+ 10. Bd2 Bxd2+ 11. Kxd2 c5 12. Rd1 Qa5+ 13. Kc1 Qxa2 14. Bd3
-a5 15. d5 Nf6 16. Qe2 O-O 17. d6 a4 18. Bb1 Qa1 19. Rd3 a3 20. bxa3 Rxa3 21.
-Rhd1 Rd8 22. Ne5 Bd7 23. Qb2 Qxb2+ 24. Kxb2 Ra6 25. f3 Ne8 26. f4 f6 27. Ng4 e5
-28. Nf2 exf4 29. Ne4 Rb6+ 30. Kc3 Bf5 31. d7 Bxe4 32. dxe8=Q+ Rxe8 33. Rd8 Rbe6
-34. Bxe4 Rxe4 35. R8d7 R8e7 36. R7d5 R4e5 37. Kb3 Re2 38. Rxc5 Rxg2 39. Rf1 g5
-40. h4 Kg7 41. Rd5 Kg6 0-1
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 a6 6. Qc2 Nbd7 7. e4 dxe4 8.
+Nxe4 Nxe4 9. Qxe4 Bb4+ 10. Bd2 Bxd2+ 11. Kxd2 c5 12. Rd1 Qa5+ 13. Kc1 Qxa2
+14. Bd3 a5 15. d5 Nf6 16. Qe2 O-O 17. d6 a4 18. Bb1 Qa1 19. Rd3 a3 20. bxa3
+Rxa3 21. Rhd1 Rd8 22. Ne5 Bd7 23. Qb2 Qxb2+ 24. Kxb2 Ra6 25. f3 Ne8 26. f4
+f6 27. Ng4 e5 28. Nf2 exf4 29. Ne4 Rb6+ 30. Kc3 Bf5 31. d7 Bxe4 32. dxe8=Q+
+Rxe8 33. Rd8 Re6 34. Bxe4 Rxe4 35. R8d7 R8e7 36. R7d5 R4e5 37. Kb3 Re2 38.
+Rxc5 Rxg2 39. Rf1 g5 40. h4 Kg7 41. Rd5 Kg6 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1343,30 +1364,31 @@ Rhd1 Rd8 22. Ne5 Bd7 23. Qb2 Qxb2+ 24. Kxb2 Ra6 25. f3 Ne8 26. f4 f6 27. Ng4 e5
 [White "Sebag, Marie"]
 [Black "Hou, Yifan"]
 [Result "1/2-1/2"]
-[ECO "B85"]
 [WhiteElo "2529"]
 [BlackElo "2571"]
-[PlyCount "177"]
+[ECO "B85"]
 [EventDate "2009.03.06"]
+[PlyCount "177"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 a6 7. O-O Be7 8. a4
-Nc6 9. Be3 Qc7 10. f4 O-O 11. Kh1 Bd7 12. Nb3 b6 13. Bf3 Bc8 14. g4 Bb7 15. g5
-Nd7 16. Bg2 Rfe8 17. Rf3 g6 18. Rh3 Nb4 19. Qd2 Nc5 20. Qf2 f5 21. gxf6 Bxf6
-22. a5 Bxc3 23. Nxc5 bxc5 24. bxc3 Nc6 25. Qh4 Rab8 26. Bf3 Qe7 27. Qh6 Qg7 28.
-Qxg7+ Kxg7 29. Rg3 Ba8 30. Kg1 Ne7 31. Rd1 Red8 32. c4 Nc6 33. e5 dxe5 34. Rxd8
-Rxd8 35. Bxc6 Bxc6 36. fxe5 Be4 37. Bxc5 Rc8 38. Be7 Rxc4 39. Bf6+ Kf7 40. Rg4
-Ke8 41. c3 Kd7 42. Rf4 Kc6 43. Be7 Kd5 44. Bb4 Kxe5 45. Rf7 g5 46. Ra7 Rc6 47.
-Kf2 h5 48. Rb7 Kf5 49. Rg7 Kf6 50. Rd7 Ke5 51. Rg7 Kf6 52. Rd7 Rc8 53. Rd6 Bc6
-54. c4 Kf5 55. Bd2 Be4 56. Rxa6 Rxc4 57. Ra7 Bd5 58. h3 Kg6 59. Rd7 Rd4 60. Be3
-Rh4 61. Rd8 Rxh3 62. Rg8+ Kf5 63. Rxg5+ Ke4 64. Bb6 Kf4 65. Rg7 Rh2+ 66. Kg1
-Ra2 67. Bc7+ Ke3 68. Rg3+ Bf3 69. Bb6+ Ke2 70. Rg5 Ra1+ 71. Kh2 Rh1+ 72. Kg3
-h4+ 73. Kf4 Bd5 74. Re5+ Kf1 75. a6 Rh2 76. Kg4 Rb2 77. Bc5 Rc2 78. Be3 Rc4+
-79. Kh3 Ra4 80. a7 Bg2+ 81. Kh2 Ra2 82. Bb6 Bc6+ 83. Kh3 Ra4 84. Bc5 Bg2+ 85.
-Kh2 Ra6 86. Be7 Ra2 87. Bxh4 Bd5+ 88. Kh3 Bg2+ 89. Kh2 1/2-1/2
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Be2 a6 7. O-O Be7 8.
+a4 Nc6 9. Be3 Qc7 10. f4 O-O 11. Kh1 Bd7 12. Nb3 b6 13. Bf3 Bc8 14. g4 Bb7
+15. g5 Nd7 16. Bg2 Rfe8 17. Rf3 g6 18. Rh3 Nb4 19. Qd2 Nc5 20. Qf2 f5 21.
+gxf6 Bxf6 22. a5 Bxc3 23. Nxc5 bxc5 24. bxc3 Nc6 25. Qh4 Rab8 26. Bf3 Qe7
+27. Qh6 Qg7 28. Qxg7+ Kxg7 29. Rg3 Ba8 30. Kg1 Ne7 31. Rd1 Red8 32. c4 Nc6
+33. e5 dxe5 34. Rxd8 Rxd8 35. Bxc6 Bxc6 36. fxe5 Be4 37. Bxc5 Rc8 38. Be7
+Rxc4 39. Bf6+ Kf7 40. Rg4 Ke8 41. c3 Kd7 42. Rf4 Kc6 43. Be7 Kd5 44. Bb4
+Kxe5 45. Rf7 g5 46. Ra7 Rc6 47. Kf2 h5 48. Rb7 Kf5 49. Rg7 Kf6 50. Rd7 Ke5
+51. Rg7 Kf6 52. Rd7 Rc8 53. Rd6 Bc6 54. c4 Kf5 55. Bd2 Be4 56. Rxa6 Rxc4
+57. Ra7 Bd5 58. h3 Kg6 59. Rd7 Rd4 60. Be3 Rh4 61. Rd8 Rxh3 62. Rg8+ Kf5
+63. Rxg5+ Ke4 64. Bb6 Kf4 65. Rg7 Rh2+ 66. Kg1 Ra2 67. Bc7+ Ke3 68. Rg3+
+Bf3 69. Bb6+ Ke2 70. Rg5 Ra1+ 71. Kh2 Rh1+ 72. Kg3 h4+ 73. Kf4 Bd5 74. Re5+
+Kf1 75. a6 Rh2 76. Kg4 Rb2 77. Bc5 Rc2 78. Be3 Rc4+ 79. Kh3 Ra4 80. a7 Bg2+
+81. Kh2 Ra2 82. Bb6 Bc6+ 83. Kh3 Ra4 84. Bc5 Bg2+ 85. Kh2 Ra6 86. Be7 Ra2
+87. Bxh4 Bd5+ 88. Kh3 Bg2+ 89. Kh2 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1375,24 +1397,25 @@ Kh2 Ra6 86. Be7 Ra2 87. Bxh4 Bd5+ 88. Kh3 Bg2+ 89. Kh2 1/2-1/2
 [White "Shen, Yang"]
 [Black "Yildiz, Betul Cemre"]
 [Result "0-1"]
-[ECO "C84"]
 [WhiteElo "2448"]
 [BlackElo "2214"]
-[PlyCount "104"]
+[ECO "C84"]
 [EventDate "2009.03.06"]
+[PlyCount "104"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8. Nbd2
-O-O 9. Re1 d6 10. a3 Na5 11. Ba2 c5 12. Nf1 h6 13. Ne3 Re8 14. b4 Nc6 15. c3
-Bf8 16. Bb2 Qd7 17. Qb3 a5 18. bxc5 dxc5 19. Qxb5 Ba6 20. Qa4 Reb8 21. Bd5 Bb5
-22. Qd1 Nxd5 23. exd5 Ne7 24. Nxe5 Qc7 25. c4 Ba4 26. Qe2 Rxb2 27. Qxb2 Rb8 28.
-Qc3 Rb3 29. d6 Qxd6 30. Qxa5 Be8 31. Qa8 Rb8 32. Qe4 f6 33. Nf3 Bg6 34. Qg4 f5
-35. Qh4 Bf7 36. Ne5 Qxe5 37. Nd5 Ng6 38. Rxe5 Nxh4 39. Ne7+ Kh7 40. Nxf5 Nxf5
-41. Rxf5 Bg6 42. Rd5 Rb3 43. a4 Bxd3 44. a5 Bxc4 45. Rd7 Bb5 46. Rb7 c4 47. h4
-c3 48. Rc1 Ba3 49. Rc2 Rb1+ 50. Kh2 Ba4 51. Rxb1 Bxc2 52. Rb6 Be4 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Be7 8.
+Nbd2 O-O 9. Re1 d6 10. a3 Na5 11. Ba2 c5 12. Nf1 h6 13. Ne3 Re8 14. b4 Nc6
+15. c3 Bf8 16. Bb2 Qd7 17. Qb3 a5 18. bxc5 dxc5 19. Qxb5 Ba6 20. Qa4 Reb8
+21. Bd5 Bb5 22. Qd1 Nxd5 23. exd5 Ne7 24. Nxe5 Qc7 25. c4 Ba4 26. Qe2 Rxb2
+27. Qxb2 Rb8 28. Qc3 Rb3 29. d6 Qxd6 30. Qxa5 Be8 31. Qa8 Rb8 32. Qe4 f6
+33. Nf3 Bg6 34. Qg4 f5 35. Qh4 Bf7 36. Ne5 Qxe5 37. Nd5 Ng6 38. Rxe5 Nxh4
+39. Ne7+ Kh7 40. Nxf5 Nxf5 41. Rxf5 Bg6 42. Rd5 Rb3 43. a4 Bxd3 44. a5 Bxc4
+45. Rd7 Bb5 46. Rb7 c4 47. h4 c3 48. Rc1 Ba3 49. Rc2 Rb1+ 50. Kh2 Ba4 51.
+Rxb1 Bxc2 52. Rb6 Be4 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1401,27 +1424,27 @@ c3 48. Rc1 Ba3 49. Rc2 Rb1+ 50. Kh2 Ba4 51. Rxb1 Bxc2 52. Rb6 Be4 0-1
 [White "Zhao Xue"]
 [Black "Koneru, Humpy"]
 [Result "1/2-1/2"]
-[ECO "D38"]
 [WhiteElo "2508"]
 [BlackElo "2621"]
-[PlyCount "131"]
+[ECO "D38"]
 [EventDate "2009.03.06"]
+[PlyCount "131"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 Nbd7 7. Qa4 c5 8.
-dxc5 Qa5 9. Qxa5 Bxa5 10. Bd2 Nxc5 11. Rc1 Bb6 12. e3 O-O 13. Be2 Bf5 14. O-O
-Nd3 15. Bxd3 Bxd3 16. Rfd1 Rfc8 17. Be1 Bf5 18. Nd4 Be6 19. f3 a6 20. Nce2 Rxc1
-21. Nxc1 Rc8 22. Nce2 Nd7 23. Bc3 Nb8 24. Kf2 Nc6 25. g4 Nxd4 26. Bxd4 Bd8 27.
-Rd2 Bh4+ 28. Kf1 Kf8 29. Bc3 Bd8 30. Kf2 Bc7 31. h4 f6 32. Bd4 Ba5 33. Rd3 Rc2
-34. Ra3 b6 35. Kf1 Bd7 36. Nc3 Rxb2 37. Nxd5 Bb5+ 38. Kg1 Rb1+ 39. Kh2 Bc4 40.
-e4 Bxd5 41. exd5 Rd1 42. Bc3 Bxc3 43. Rxc3 Rxd5 44. Rc6 Rb5 45. Kg3 a5 46. h5
-h6 47. Rc8+ Kf7 48. Rc7+ Kg8 49. Rb7 Rb4 50. Rb8+ Kh7 51. a4 Rxa4 52. Rxb6 Rb4
-53. Ra6 Rb5 54. f4 f5 55. gxf5 Rxf5 56. Kg4 Rb5 57. Ra7 Rc5 58. Ra6 Rb5 59. Ra7
-Rd5 60. Ra6 Rb5 61. Ra7 Kg8 62. Ra8+ Kf7 63. Ra7+ Kf6 64. Ra6+ Kf7 65. Ra7+ Kf6
-66. Ra6+ 1/2-1/2
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 Nbd7 7. Qa4 c5
+8. dxc5 Qa5 9. Qxa5 Bxa5 10. Bd2 Nxc5 11. Rc1 Bb6 12. e3 O-O 13. Be2 Bf5
+14. O-O Nd3 15. Bxd3 Bxd3 16. Rfd1 Rfc8 17. Be1 Bf5 18. Nd4 Be6 19. f3 a6
+20. Nce2 Rxc1 21. Nxc1 Rc8 22. Nce2 Nd7 23. Bc3 Nb8 24. Kf2 Nc6 25. g4 Nxd4
+26. Bxd4 Bd8 27. Rd2 Bh4+ 28. Kf1 Kf8 29. Bc3 Bd8 30. Kf2 Bc7 31. h4 f6 32.
+Bd4 Ba5 33. Rd3 Rc2 34. Ra3 b6 35. Kf1 Bd7 36. Nc3 Rxb2 37. Nxd5 Bb5+ 38.
+Kg1 Rb1+ 39. Kh2 Bc4 40. e4 Bxd5 41. exd5 Rd1 42. Bc3 Bxc3 43. Rxc3 Rxd5
+44. Rc6 Rb5 45. Kg3 a5 46. h5 h6 47. Rc8+ Kf7 48. Rc7+ Kg8 49. Rb7 Rb4 50.
+Rb8+ Kh7 51. a4 Rxa4 52. Rxb6 Rb4 53. Ra6 Rb5 54. f4 f5 55. gxf5 Rxf5 56.
+Kg4 Rb5 57. Ra7 Rc5 58. Ra6 Rb5 59. Ra7 Rd5 60. Ra6 Rb5 61. Ra7 Kg8 62.
+Ra8+ Kf7 63. Ra7+ Kf6 64. Ra6+ Kf7 65. Ra7+ Kf6 66. Ra6+ 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1430,25 +1453,25 @@ Rd5 60. Ra6 Rb5 61. Ra7 Kg8 62. Ra8+ Kf7 63. Ra7+ Kf6 64. Ra6+ Kf7 65. Ra7+ Kf6
 [White "Cramling, Pia"]
 [Black "Mamedjarova, Zeinab"]
 [Result "1/2-1/2"]
-[ECO "A81"]
 [WhiteElo "2548"]
 [BlackElo "2362"]
-[PlyCount "105"]
+[ECO "A81"]
 [EventDate "2009.03.06"]
+[PlyCount "105"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. b3 Bg7 5. Bb2 d5 6. Nh3 O-O 7. Nd2 c6 8. O-O
-Ne4 9. Nf3 Nd7 10. Nf4 Ndf6 11. Ne5 g5 12. Nfd3 Qe8 13. f3 Nd6 14. c4 Be6 15.
-Qc2 Rd8 16. Nc5 Bc8 17. Rae1 f4 18. e4 fxe3 19. Rxe3 b6 20. Na4 Bf5 21. Qc1
-dxc4 22. bxc4 c5 23. dxc5 Qxa4 24. cxd6 exd6 25. Ra3 Qb4 26. Nd3 Bxd3 27. Rxd3
-Rc8 28. Ba3 Qxc4 29. Qxc4+ Rxc4 30. Bxd6 Rd8 31. Rfd1 Rc2 32. a3 Bf8 33. Bxf8
-Rxd3 34. Rxd3 Kxf8 35. Re3 Kf7 36. Bf1 h6 37. Bd3 Rc1+ 38. Kf2 Nd7 39. Be4 Nc5
-40. Bd5+ Kf6 41. g4 Rd1 42. Be4 Rd2+ 43. Kg3 Ne6 44. Bd3 Nf4 45. Bf1 Rb2 46. h4
-Rb1 47. hxg5+ hxg5 48. Kf2 Rb2+ 49. Kg3 Rb1 50. Kf2 Rb2+ 51. Kg3 Rb1 52. Kf2 b5
-53. Re8 1/2-1/2
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. b3 Bg7 5. Bb2 d5 6. Nh3 O-O 7. Nd2 c6 8.
+O-O Ne4 9. Nf3 Nd7 10. Nf4 Ndf6 11. Ne5 g5 12. Nfd3 Qe8 13. f3 Nd6 14. c4
+Be6 15. Qc2 Rd8 16. Nc5 Bc8 17. Rae1 f4 18. e4 fxe3 19. Rxe3 b6 20. Na4 Bf5
+21. Qc1 dxc4 22. bxc4 c5 23. dxc5 Qxa4 24. cxd6 exd6 25. Ra3 Qb4 26. Nd3
+Bxd3 27. Rxd3 Rc8 28. Ba3 Qxc4 29. Qxc4+ Rxc4 30. Bxd6 Rd8 31. Rfd1 Rc2 32.
+a3 Bf8 33. Bxf8 Rxd3 34. Rxd3 Kxf8 35. Re3 Kf7 36. Bf1 h6 37. Bd3 Rc1+ 38.
+Kf2 Nd7 39. Be4 Nc5 40. Bd5+ Kf6 41. g4 Rd1 42. Be4 Rd2+ 43. Kg3 Ne6 44.
+Bd3 Nf4 45. Bf1 Rb2 46. h4 Rb1 47. hxg5+ hxg5 48. Kf2 Rb2+ 49. Kg3 Rb1 50.
+Kf2 Rb2+ 51. Kg3 Rb1 52. Kf2 b5 53. Re8 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1457,24 +1480,24 @@ Rb1 47. hxg5+ hxg5 48. Kf2 Rb2+ 49. Kg3 Rb1 50. Kf2 Rb2+ 51. Kg3 Rb1 52. Kf2 b5
 [White "Fierro Baquero, Martha"]
 [Black "Shen, Yang"]
 [Result "1-0"]
-[ECO "C90"]
 [WhiteElo "2403"]
 [BlackElo "2448"]
-[PlyCount "97"]
+[ECO "C90"]
 [EventDate "2009.03.06"]
+[PlyCount "97"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
-O-O 9. d3 Na5 10. Bc2 c5 11. Nbd2 Re8 12. Nf1 h6 13. Ng3 Nc6 14. h3 Qc7 15. Nh2
-Be6 16. Qf3 d5 17. Ng4 dxe4 18. Nxf6+ Bxf6 19. Qxe4 Rad8 20. d4 g6 21. dxc5 Bg7
-22. Bb3 Na5 23. Bxe6 Rxe6 24. Qh4 g5 25. Qg4 Qxc5 26. Be3 Qc4 27. Ne4 Rf8 28.
-Qf5 Qc6 29. Bc5 Rb8 30. Rad1 Nb7 31. b4 Rd8 32. Rxd8+ Nxd8 33. Rd1 Nb7 34. Rd3
-Qe8 35. Kh2 Qc6 36. a3 Qe8 37. g3 Qc6 38. h4 f6 39. Qg6 Qc8 40. Rf3 Qc6 41.
-hxg5 hxg5 42. Nxg5 Nxc5 43. Qh7+ Kf8 44. bxc5 Re7 45. Ne4 Rf7 46. Qf5 Qd5 47.
-Qc8+ Ke7 48. Nd6 Rf8 49. Nf5+ 1-0
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. d3 Na5 10. Bc2 c5 11. Nbd2 Re8 12. Nf1 h6 13. Ng3 Nc6 14. h3 Qc7
+15. Nh2 Be6 16. Qf3 d5 17. Ng4 dxe4 18. Nxf6+ Bxf6 19. Qxe4 Rad8 20. d4 g6
+21. dxc5 Bg7 22. Bb3 Na5 23. Bxe6 Rxe6 24. Qh4 g5 25. Qg4 Qxc5 26. Be3 Qc4
+27. Ne4 Rf8 28. Qf5 Qc6 29. Bc5 Rb8 30. Rad1 Nb7 31. b4 Rd8 32. Rxd8+ Nxd8
+33. Rd1 Nb7 34. Rd3 Qe8 35. Kh2 Qc6 36. a3 Qe8 37. g3 Qc6 38. h4 f6 39. Qg6
+Qc8 40. Rf3 Qc6 41. hxg5 hxg5 42. Nxg5 Nxc5 43. Qh7+ Kf8 44. bxc5 Re7 45.
+Ne4 Rf7 46. Qf5 Qd5 47. Qc8+ Ke7 48. Nd6 Rf8 49. Nf5+ 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1483,24 +1506,24 @@ Qc8+ Ke7 48. Nd6 Rf8 49. Nf5+ 1-0
 [White "Hou, Yifan"]
 [Black "Danielian, Elina"]
 [Result "1/2-1/2"]
-[ECO "B18"]
 [WhiteElo "2571"]
 [BlackElo "2496"]
-[PlyCount "92"]
+[ECO "B18"]
 [EventDate "2009.03.06"]
+[PlyCount "92"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Nc5 Nd7 6. Nxb7 Qc7 7. Nc5 Nxc5 8.
-dxc5 e6 9. Nf3 Bxc5 10. Bc4 Nf6 11. O-O h6 12. b3 O-O 13. Bb2 Rfd8 14. Qe2 Nd5
-15. Nh4 Nf4 16. Qf3 Bh7 17. Rad1 e5 18. Qg3 Bxc2 19. Rc1 Bh7 20. Nf3 Bd4 21.
-Nxd4 exd4 22. Rfd1 c5 23. Bf1 Qe5 24. Re1 Qf5 25. b4 cxb4 26. h4 Bg6 27. Rcd1
-Qf6 28. Rd2 Rac8 29. Qb3 a5 30. g3 Ne6 31. Qd1 Rc3 32. Qa4 Rc5 33. a3 bxa3 34.
-Bxa3 Re5 35. Be7 Qxe7 36. Rxe5 d3 37. Qxa5 Qf6 38. Rd5 Rxd5 39. Qxd5 Qc3 40. h5
-Be4 41. Rxd3 Qxd3 42. Qxd3 Bxd3 43. Bxd3 Kf8 44. Kg2 Ke7 45. Kf3 Kf6 46. Kg4
-Nc5 1/2-1/2
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Nc5 Nd7 6. Nxb7 Qc7 7. Nc5
+Nxc5 8. dxc5 e6 9. Nf3 Bxc5 10. Bc4 Nf6 11. O-O h6 12. b3 O-O 13. Bb2 Rfd8
+14. Qe2 Nd5 15. Nh4 Nf4 16. Qf3 Bh7 17. Rad1 e5 18. Qg3 Bxc2 19. Rc1 Bh7
+20. Nf3 Bd4 21. Nxd4 exd4 22. Rfd1 c5 23. Bf1 Qe5 24. Re1 Qf5 25. b4 cxb4
+26. h4 Bg6 27. Rcd1 Qf6 28. Rd2 Rac8 29. Qb3 a5 30. g3 Ne6 31. Qd1 Rc3 32.
+Qa4 Rc5 33. a3 bxa3 34. Bxa3 Re5 35. Be7 Qxe7 36. Rxe5 d3 37. Qxa5 Qf6 38.
+Rd5 Rxd5 39. Qxd5 Qc3 40. h5 Be4 41. Rxd3 Qxd3 42. Qxd3 Bxd3 43. Bxd3 Kf8
+44. Kg2 Ke7 45. Kf3 Kf6 46. Kg4 Nc5 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1509,21 +1532,21 @@ Nc5 1/2-1/2
 [White "Koneru, Humpy"]
 [Black "Stefanova, Antoaneta"]
 [Result "1-0"]
-[ECO "D12"]
 [WhiteElo "2621"]
 [BlackElo "2557"]
-[PlyCount "59"]
+[ECO "D12"]
 [EventDate "2009.03.06"]
+[PlyCount "59"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Qb3 Qb6 8. Nxg6
-hxg6 9. Bd2 Nbd7 10. Qc2 g5 11. O-O-O Be7 12. Kb1 O-O-O 13. cxd5 Nxd5 14. Nxd5
-exd5 15. Qa4 c5 16. Ba5 Qf6 17. Bxd8 Rxd8 18. dxc5 Nxc5 19. Qxa7 Qxf2 20. Rc1
-Qxe3 21. Bb5 Qe4+ 22. Ka1 Qb4 23. Rhe1 Bd6 24. Qb6 Qd4 25. Red1 Qe3 26. Rc3 Qe7
-27. Rdc1 Kb8 28. Rxc5 Bxh2 29. Bd7 Qxd7 30. Ra5 1-0
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Qb3 Qb6 8.
+Nxg6 hxg6 9. Bd2 Nbd7 10. Qc2 g5 11. O-O-O Be7 12. Kb1 O-O-O 13. cxd5 Nxd5
+14. Nxd5 exd5 15. Qa4 c5 16. Ba5 Qf6 17. Bxd8 Rxd8 18. dxc5 Nxc5 19. Qxa7
+Qxf2 20. Rc1 Qxe3 21. Bb5 Qe4+ 22. Ka1 Qb4 23. Rhe1 Bd6 24. Qb6 Qd4 25.
+Red1 Qe3 26. Rc3 Qe7 27. Rdc1 Kb8 28. Rxc5 Bxh2 29. Bd7 Qxd7 30. Ra5 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1532,22 +1555,22 @@ Qxe3 21. Bb5 Qe4+ 22. Ka1 Qb4 23. Rhe1 Bd6 24. Qb6 Qd4 25. Red1 Qe3 26. Rc3 Qe7
 [White "Yildiz, Betul Cemre"]
 [Black "Chiburdanidze, Maia"]
 [Result "0-1"]
-[ECO "B06"]
 [WhiteElo "2214"]
 [BlackElo "2516"]
-[PlyCount "70"]
+[ECO "B06"]
 [EventDate "2009.03.06"]
+[PlyCount "70"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 c6 2. d4 g6 3. c3 Bg7 4. Bd3 d6 5. f4 e5 6. Nf3 exd4 7. Nxd4 Nf6 8. O-O
-O-O 9. Kh1 Nbd7 10. Nb3 Re8 11. Qf3 b6 12. Be3 Bb7 13. N1d2 c5 14. Bg1 Qc7 15.
-Rae1 a6 16. c4 b5 17. cxb5 axb5 18. Bxb5 Rxa2 19. Qd3 Rxb2 20. Nc4 Bxe4 21.
-Rxe4 Nxe4 22. Nxb2 Bxb2 23. Re1 d5 24. Qxd5 Ndf6 25. Qd1 Rb8 26. Bc4 Qxf4 27.
-Qc2 Ng3+ 28. hxg3 Qh6+ 29. Bh2 Ng4 30. Bxf7+ Kg7 31. Qxb2+ Kxf7 32. Re7+ Kxe7
-33. Qe2+ Ne3 34. Nd2 Rb2 35. Qd3 Rxd2 0-1
+1. e4 c6 2. d4 g6 3. c3 Bg7 4. Bd3 d6 5. f4 e5 6. Nf3 exd4 7. Nxd4 Nf6 8.
+O-O O-O 9. Kh1 Nbd7 10. Nb3 Re8 11. Qf3 b6 12. Be3 Bb7 13. N1d2 c5 14. Bg1
+Qc7 15. Rae1 a6 16. c4 b5 17. cxb5 axb5 18. Bxb5 Rxa2 19. Qd3 Rxb2 20. Nc4
+Bxe4 21. Rxe4 Nxe4 22. Nxb2 Bxb2 23. Re1 d5 24. Qxd5 Ndf6 25. Qd1 Rb8 26.
+Bc4 Qxf4 27. Qc2 Ng3+ 28. hxg3 Qh6+ 29. Bh2 Ng4 30. Bxf7+ Kg7 31. Qxb2+
+Kxf7 32. Re7+ Kxe7 33. Qe2+ Ne3 34. Nd2 Rb2 35. Qd3 Rxd2 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1556,26 +1579,27 @@ Qc2 Ng3+ 28. hxg3 Qh6+ 29. Bh2 Ng4 30. Bxf7+ Kg7 31. Qxb2+ Kxf7 32. Re7+ Kxe7
 [White "Zhao Xue"]
 [Black "Sebag, Marie"]
 [Result "0-1"]
-[ECO "D43"]
 [WhiteElo "2508"]
 [BlackElo "2529"]
-[PlyCount "126"]
+[ECO "D43"]
 [EventDate "2009.03.06"]
+[PlyCount "126"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
-9. Be2 Bb7 10. Ne5 h5 11. h4 g4 12. O-O Nbd7 13. Qc2 Nxe5 14. Bxe5 Bg7 15. Bg3
-Qxd4 16. Rad1 Qc5 17. Bd6 Qb6 18. b3 cxb3 19. axb3 a6 20. Qd2 Nd7 21. b4 Rd8
-22. e5 Bh6 23. Qc2 c5 24. bxc5 Nxc5 25. Nxb5 axb5 26. Qxc5 Qxc5 27. Bxc5 Bc6
-28. Ra1 Rd5 29. Bd6 Bf8 30. Rfc1 Bxd6 31. exd6 Kd7 32. Ra7+ Kxd6 33. Rxf7 Ra8
-34. Rb1 Ra2 35. Bf1 Rad2 36. Ra7 Rd1 37. Raa1 Rxb1 38. Rxb1 Kc5 39. Rc1+ Kb6
-40. Kh2 Rc5 41. Rb1 Rc2 42. Kg3 e5 43. Re1 Rc3+ 44. f3 gxf3 45. gxf3 Rxf3+ 46.
-Kh2 Rf4 47. Bxb5 Bxb5 48. Rxe5 Rxh4+ 49. Kg3 Rh1 50. Re6+ Bc6 51. Rh6 Kc5 52.
-Kf4 Rf1+ 53. Kg3 Rf5 54. Kh4 Bf3 55. Re6 Kd4 56. Kg3 Bd5 57. Re7 Re5 58. Rg7
-Ke3 59. Ra7 Re4 60. Rh7 Rg4+ 61. Kh3 Rg1 62. Kh2 Kf2 63. Rf7+ Bxf7 0-1
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8.
+Bg3 b5 9. Be2 Bb7 10. Ne5 h5 11. h4 g4 12. O-O Nbd7 13. Qc2 Nxe5 14. Bxe5
+Bg7 15. Bg3 Qxd4 16. Rad1 Qc5 17. Bd6 Qb6 18. b3 cxb3 19. axb3 a6 20. Qd2
+Nd7 21. b4 Rd8 22. e5 Bh6 23. Qc2 c5 24. bxc5 Nxc5 25. Nxb5 axb5 26. Qxc5
+Qxc5 27. Bxc5 Bc6 28. Ra1 Rd5 29. Bd6 Bf8 30. Rfc1 Bxd6 31. exd6 Kd7 32.
+Ra7+ Kxd6 33. Rxf7 Ra8 34. Rb1 Ra2 35. Bf1 Rad2 36. Ra7 Rd1 37. Raa1 Rxb1
+38. Rxb1 Kc5 39. Rc1+ Kb6 40. Kh2 Rc5 41. Rb1 Rc2 42. Kg3 e5 43. Re1 Rc3+
+44. f3 gxf3 45. gxf3 Rxf3+ 46. Kh2 Rf4 47. Bxb5 Bxb5 48. Rxe5 Rxh4+ 49. Kg3
+Rh1 50. Re6+ Bc6 51. Rh6 Kc5 52. Kf4 Rf1+ 53. Kg3 Rf5 54. Kh4 Bf3 55. Re6
+Kd4 56. Kg3 Bd5 57. Re7 Re5 58. Rg7 Ke3 59. Ra7 Re4 60. Rh7 Rg4+ 61. Kh3
+Rg1 62. Kh2 Kf2 63. Rf7+ Bxf7 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1584,24 +1608,24 @@ Ke3 59. Ra7 Re4 60. Rh7 Rg4+ 61. Kh3 Rg1 62. Kh2 Kf2 63. Rf7+ Bxf7 0-1
 [White "Chiburdanidze, Maia"]
 [Black "Fierro Baquero, Martha"]
 [Result "0-1"]
-[ECO "A58"]
 [WhiteElo "2516"]
 [BlackElo "2403"]
-[PlyCount "92"]
+[ECO "A58"]
 [EventDate "2009.03.06"]
+[PlyCount "92"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 c5 5. d5 b5 6. cxb5 a6 7. bxa6 d6 8. Nc3
-O-O 9. Bg2 Nbd7 10. O-O Nb6 11. Re1 Bxa6 12. Nd2 Qc7 13. Rb1 Qb7 14. b4 Nfd7
-15. bxc5 Nxc5 16. Bb2 Qa7 17. Nb3 Nc4 18. Ba1 Na3 19. Rc1 Rfc8 20. Nxc5 Qxc5
-21. Ne4 Qxc1 22. Qxc1 Rxc1 23. Rxc1 Bxa1 24. Rxa1 Bxe2 25. Re1 Bd3 26. Nd2 Kf8
-27. Re3 Bf5 28. Rb3 Nc2 29. Rb2 Ne1 30. Bf1 Nd3 31. Bxd3 Bxd3 32. Rb3 Bf5 33.
-a3 Ra5 34. Nc4 Rxd5 35. Ne3 Rd2 36. Nxf5 gxf5 37. Rf3 e6 38. Kf1 Ra2 39. Ke1
-Ke7 40. Kd1 d5 41. h3 h5 42. Kc1 Kd6 43. Kb1 Re2 44. Rf4 Kc5 45. Kc1 d4 46. a4
-Kc4 0-1
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 c5 5. d5 b5 6. cxb5 a6 7. bxa6 d6 8.
+Nc3 O-O 9. Bg2 Nbd7 10. O-O Nb6 11. Re1 Bxa6 12. Nd2 Qc7 13. Rb1 Qb7 14. b4
+Nfd7 15. bxc5 Nxc5 16. Bb2 Qa7 17. Nb3 Nc4 18. Ba1 Na3 19. Rc1 Rfc8 20.
+Nxc5 Qxc5 21. Ne4 Qxc1 22. Qxc1 Rxc1 23. Rxc1 Bxa1 24. Rxa1 Bxe2 25. Re1
+Bd3 26. Nd2 Kf8 27. Re3 Bf5 28. Rb3 Nc2 29. Rb2 Ne1 30. Bf1 Nd3 31. Bxd3
+Bxd3 32. Rb3 Bf5 33. a3 Ra5 34. Nc4 Rxd5 35. Ne3 Rd2 36. Nxf5 gxf5 37. Rf3
+e6 38. Kf1 Ra2 39. Ke1 Ke7 40. Kd1 d5 41. h3 h5 42. Kc1 Kd6 43. Kb1 Re2 44.
+Rf4 Kc5 45. Kc1 d4 46. a4 Kc4 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1610,22 +1634,23 @@ Kc4 0-1
 [White "Danielian, Elina"]
 [Black "Zhao Xue"]
 [Result "1-0"]
-[ECO "E14"]
 [WhiteElo "2496"]
 [BlackElo "2508"]
-[PlyCount "75"]
+[ECO "E14"]
 [EventDate "2009.03.06"]
+[PlyCount "75"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. O-O c5 6. c4 Be7 7. Nc3 cxd4 8. exd4
-d6 9. a3 O-O 10. d5 exd5 11. cxd5 Nbd7 12. Re1 Re8 13. Bf4 a6 14. Nd4 Bf8 15.
-Rxe8 Qxe8 16. Nf5 Ne5 17. Bf1 g6 18. Bg5 Ned7 19. Nh6+ Kh8 20. Qd2 Bg7 21. Re1
-Qf8 22. Qf4 Rc8 23. Qxd6 b5 24. Qxf8+ Bxf8 25. Nxf7+ Kg7 26. Ne5 Nxe5 27. Rxe5
-Kf7 28. g3 h6 29. Bxf6 Kxf6 30. Re6+ Kf7 31. Rb6 Ba8 32. Bh3 Rd8 33. Be6+ Kg7
-34. Rxa6 b4 35. Ra7+ Kh8 36. axb4 Bxb4 37. Ne4 Bf8 38. b4 1-0
+1. d4 Nf6 2. Nf3 e6 3. e3 b6 4. Bd3 Bb7 5. O-O c5 6. c4 Be7 7. Nc3 cxd4 8.
+exd4 d6 9. a3 O-O 10. d5 exd5 11. cxd5 Nbd7 12. Re1 Re8 13. Bf4 a6 14. Nd4
+Bf8 15. Rxe8 Qxe8 16. Nf5 Ne5 17. Bf1 g6 18. Bg5 Ned7 19. Nh6+ Kh8 20. Qd2
+Bg7 21. Re1 Qf8 22. Qf4 Rc8 23. Qxd6 b5 24. Qxf8+ Bxf8 25. Nxf7+ Kg7 26.
+Ne5 Nxe5 27. Rxe5 Kf7 28. g3 h6 29. Bxf6 Kxf6 30. Re6+ Kf7 31. Rb6 Ba8 32.
+Bh3 Rd8 33. Be6+ Kg7 34. Rxa6 b4 35. Ra7+ Kh8 36. axb4 Bxb4 37. Ne4 Bf8 38.
+b4 1-0
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1634,25 +1659,25 @@ Kf7 28. g3 h6 29. Bxf6 Kxf6 30. Re6+ Kf7 31. Rb6 Ba8 32. Bh3 Rd8 33. Be6+ Kg7
 [White "Mamedjarova, Zeinab"]
 [Black "Yildiz, Betul Cemre"]
 [Result "1/2-1/2"]
-[ECO "D05"]
 [WhiteElo "2362"]
 [BlackElo "2214"]
-[PlyCount "104"]
+[ECO "D05"]
 [EventDate "2009.03.06"]
+[PlyCount "104"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. Nf3 c5 3. e3 Nf6 4. b3 e6 5. Bd3 b6 6. O-O Nbd7 7. Ne5 Bb7 8. Nd2
-Be7 9. Qf3 O-O 10. Qh3 Ne4 11. f3 Ng5 12. Qg3 f6 13. Nxd7 Qxd7 14. Bb2 b5 15.
-h4 Nf7 16. dxc5 Bxc5 17. Bd4 Rac8 18. Bxc5 Rxc5 19. b4 Rcc8 20. Nb3 Ne5 21. Nc5
-Qc6 22. a4 bxa4 23. Rxa4 Nd7 24. Rxa7 Nxc5 25. bxc5 Ra8 26. Rxa8 Rxa8 27. Rb1
-e5 28. h5 Bc8 29. h6 Ra7 30. hxg7 Rxg7 31. Qh4 e4 32. fxe4 Qxc5 33. exd5 Qxe3+
-34. Qf2 Qe5 35. Re1 Qc3 36. Qe3 Kh8 37. Qe8+ Rg8 38. Qe4 Bf5 39. Qe3 Bxd3 40.
-cxd3 Qb2 41. Qe4 Rg5 42. d4 Qb6 43. Rc1 Re5 44. Rc8+ Kg7 45. Qg4+ Rg5 46. Qd7+
-Kh6 47. Qh3+ Kg7 48. Rc4 Qb1+ 49. Kh2 Qb8+ 50. Kg1 Qb1+ 51. Kh2 Qb8+ 52. Kg1
-Qb1+ 1/2-1/2
+1. d4 d5 2. Nf3 c5 3. e3 Nf6 4. b3 e6 5. Bd3 b6 6. O-O Nbd7 7. Ne5 Bb7 8.
+Nd2 Be7 9. Qf3 O-O 10. Qh3 Ne4 11. f3 Ng5 12. Qg3 f6 13. Nxd7 Qxd7 14. Bb2
+b5 15. h4 Nf7 16. dxc5 Bxc5 17. Bd4 Rac8 18. Bxc5 Rxc5 19. b4 Rcc8 20. Nb3
+Ne5 21. Nc5 Qc6 22. a4 bxa4 23. Rxa4 Nd7 24. Rxa7 Nxc5 25. bxc5 Ra8 26.
+Rxa8 Rxa8 27. Rb1 e5 28. h5 Bc8 29. h6 Ra7 30. hxg7 Rxg7 31. Qh4 e4 32.
+fxe4 Qxc5 33. exd5 Qxe3+ 34. Qf2 Qe5 35. Re1 Qc3 36. Qe3 Kh8 37. Qe8+ Rg8
+38. Qe4 Bf5 39. Qe3 Bxd3 40. cxd3 Qb2 41. Qe4 Rg5 42. d4 Qb6 43. Rc1 Re5
+44. Rc8+ Kg7 45. Qg4+ Rg5 46. Qd7+ Kh6 47. Qh3+ Kg7 48. Rc4 Qb1+ 49. Kh2
+Qb8+ 50. Kg1 Qb1+ 51. Kh2 Qb8+ 52. Kg1 Qb1+ 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1661,24 +1686,24 @@ Qb1+ 1/2-1/2
 [White "Sebag, Marie"]
 [Black "Koneru, Humpy"]
 [Result "0-1"]
-[ECO "C92"]
 [WhiteElo "2529"]
 [BlackElo "2621"]
-[PlyCount "94"]
+[ECO "C92"]
 [EventDate "2009.03.06"]
+[PlyCount "94"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
-O-O 9. h3 a5 10. d3 a4 11. Bc2 Bd7 12. Nbd2 Re8 13. Nf1 h6 14. Ng3 Bf8 15. Nh2
-Ne7 16. Qf3 Ng6 17. Ng4 Nxg4 18. hxg4 Be7 19. Nf5 Bg5 20. g3 Bxc1 21. Raxc1 Qg5
-22. Rcd1 Be6 23. a3 Rad8 24. Ne3 Nf8 25. d4 Nh7 26. Bd3 Bd7 27. Qe2 c6 28. d5
-cxd5 29. Bxb5 Bxb5 30. Qxb5 dxe4 31. Rxd6 Ra8 32. Rd7 Nf6 33. Rb7 h5 34. Qc4
-Rf8 35. gxh5 Qxh5 36. Nd5 Ng4 37. Kf1 Qh2 38. Ke2 Qxf2+ 39. Kd1 Rad8 40. Rb5
-Ne3+ 41. Rxe3 Qxe3 42. Kc2 Qf2+ 43. Kb1 Rfe8 44. Ka2 e3 45. Qb4 Rxd5 46. Rxd5
-e2 47. Qxa4 Rb8 0-1
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 a5 10. d3 a4 11. Bc2 Bd7 12. Nbd2 Re8 13. Nf1 h6 14. Ng3 Bf8
+15. Nh2 Ne7 16. Qf3 Ng6 17. Ng4 Nxg4 18. hxg4 Be7 19. Nf5 Bg5 20. g3 Bxc1
+21. Raxc1 Qg5 22. Rcd1 Be6 23. a3 Rad8 24. Ne3 Nf8 25. d4 Nh7 26. Bd3 Bd7
+27. Qe2 c6 28. d5 cxd5 29. Bxb5 Bxb5 30. Qxb5 dxe4 31. Rxd6 Ra8 32. Rd7 Nf6
+33. Rb7 h5 34. Qc4 Rf8 35. gxh5 Qxh5 36. Nd5 Ng4 37. Kf1 Qh2 38. Ke2 Qxf2+
+39. Kd1 Rad8 40. Rb5 Ne3+ 41. Rxe3 Qxe3 42. Kc2 Qf2+ 43. Kb1 Rfe8 44. Ka2
+e3 45. Qb4 Rxd5 46. Rxd5 e2 47. Qxa4 Rb8 0-1
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1687,25 +1712,26 @@ e2 47. Qxa4 Rb8 0-1
 [White "Shen, Yang"]
 [Black "Hou, Yifan"]
 [Result "1/2-1/2"]
-[ECO "E35"]
 [WhiteElo "2448"]
 [BlackElo "2571"]
-[PlyCount "115"]
+[ECO "E35"]
 [EventDate "2009.03.06"]
+[PlyCount "115"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 c5 7. dxc5 h6 8.
-Bh4 g5 9. Bg3 Ne4 10. e3 Qa5 11. Nge2 Bf5 12. Be5 O-O 13. Nd4 Nxc3 14. Nxf5
-Ne4+ 15. Kd1 Nc6 16. Bd4 Nxd4 17. Nxd4 Rac8 18. c6 Bc5 19. cxb7 Rc7 20. Nb3 Qb6
-21. Rc1 Bd6 22. Qe2 Qxb7 23. f3 Nf6 24. Qb5 Rxc1+ 25. Kxc1 Qe7 26. Qd3 Re8 27.
-Nd4 Qxe3+ 28. Qxe3 Rxe3 29. Bb5 Bf8 30. Kd2 Re7 31. Rc1 Ne8 32. Rc8 Nd6 33. Rb8
-Kg7 34. b3 Rc7 35. Bc6 Be7 36. Bxd5 Rc5 37. Be4 Bf6 38. Ne2 Be5 39. Ra8 Ra5 40.
-a4 Bxh2 41. Bd3 Be5 42. Ke3 h5 43. Bb1 h4 44. f4 Bf6 45. fxg5 Rxg5 46. Kf2 a5
-47. Rb8 Rd5 48. b4 Nc4 49. bxa5 Rxa5 50. Rb4 Nb2 51. Bc2 Rc5 52. Be4 Nd1+ 53.
-Kf3 Nc3 54. Nxc3 Rxc3+ 55. Kf2 Ra3 56. Rc4 Ra2+ 57. Kf3 Ra3+ 58. Kf2 1/2-1/2
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 c5 7. dxc5 h6
+8. Bh4 g5 9. Bg3 Ne4 10. e3 Qa5 11. Ne2 Bf5 12. Be5 O-O 13. Nd4 Nxc3 14.
+Nxf5 Ne4+ 15. Kd1 Nc6 16. Bd4 Nxd4 17. Nxd4 Rac8 18. c6 Bc5 19. cxb7 Rc7
+20. Nb3 Qb6 21. Rc1 Bd6 22. Qe2 Qxb7 23. f3 Nf6 24. Qb5 Rxc1+ 25. Kxc1 Qe7
+26. Qd3 Re8 27. Nd4 Qxe3+ 28. Qxe3 Rxe3 29. Bb5 Bf8 30. Kd2 Re7 31. Rc1 Ne8
+32. Rc8 Nd6 33. Rb8 Kg7 34. b3 Rc7 35. Bc6 Be7 36. Bxd5 Rc5 37. Be4 Bf6 38.
+Ne2 Be5 39. Ra8 Ra5 40. a4 Bxh2 41. Bd3 Be5 42. Ke3 h5 43. Bb1 h4 44. f4
+Bf6 45. fxg5 Rxg5 46. Kf2 a5 47. Rb8 Rd5 48. b4 Nc4 49. bxa5 Rxa5 50. Rb4
+Nb2 51. Bc2 Rc5 52. Be4 Nd1+ 53. Kf3 Nc3 54. Nxc3 Rxc3+ 55. Kf2 Ra3 56. Rc4
+Ra2+ 57. Kf3 Ra3+ 58. Kf2 1/2-1/2
 
 [Event "FIDE Women's Grand Prix 2009/2010"]
 [Site "Istanbul, Turkey"]
@@ -1714,25 +1740,26 @@ Kf3 Nc3 54. Nxc3 Rxc3+ 55. Kf2 Ra3 56. Rc4 Ra2+ 57. Kf3 Ra3+ 58. Kf2 1/2-1/2
 [White "Stefanova, Antoaneta"]
 [Black "Cramling, Pia"]
 [Result "0-1"]
-[ECO "D12"]
 [WhiteElo "2557"]
 [BlackElo "2548"]
-[PlyCount "140"]
+[ECO "D12"]
 [EventDate "2009.03.06"]
+[PlyCount "140"]
 [EventType "tourn"]
 [EventRounds "11"]
 [EventCountry "TUR"]
 [EventCategory "10"]
 
-1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 Bg4 5. Qb3 Qb6 6. Nc3 e6 7. Nh4 Bh5 8. h3 g5
-9. Nf3 h6 10. Bd3 Nbd7 11. Qc2 Rg8 12. Bd2 Qc7 13. cxd5 exd5 14. g4 Bg6 15. Bf5
-Bd6 16. h4 Nxg4 17. hxg5 hxg5 18. Nxg5 Qd8 19. f4 Qf6 20. Bxg6 Rxg6 21. Rf1 Nh2
-22. Rg1 Rxg5 23. fxg5 Nf3+ 24. Kd1 Qh8 25. Rf1 Qh3 26. Qd3 Nxd4 27. Rf2 Qh1+
-28. Be1 Qh5+ 29. Ne2 Ne6 30. Qf5 Ndc5 31. Kc2 Ne4 32. Rg2 Ng7 33. Qg4 Qg6 34.
-Kd1 Nf5 35. Bd2 Ke7 36. Nc3 Nxc3+ 37. bxc3 Rh8 38. Ke2 Rh4 39. Qf3 Be5 40. Rf1
-Nd6 41. Rg4 Rh2+ 42. Rg2 Rxg2+ 43. Qxg2 Qc2 44. Rc1 Qxa2 45. Kf3 Qc4 46. Be1
-Nf5 47. Qc2 Qf1+ 48. Bf2 Qh3+ 49. Ke2 Qg4+ 50. Kd2 Nd6 51. Rg1 Qf3 52. Ke1 Ne4
-53. c4 dxc4 54. g6 Bc3+ 55. Kf1 fxg6 56. Rg2 b5 57. Kg1 g5 58. Rh2 Ke6 59. Rh6+
-Kd5 60. Rh7 Qxf2+ 61. Qxf2 Nxf2 62. Kxf2 a5 63. Kf3 b4 64. e4+ Kc5 65. Rh5 b3
-66. Rxg5+ Kb4 67. Rg1 a4 68. Kf4 a3 69. e5 Bxe5+ 70. Kxe5 a2 0-1
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. e3 Bg4 5. Qb3 Qb6 6. Nc3 e6 7. Nh4 Bh5 8.
+h3 g5 9. Nf3 h6 10. Bd3 Nbd7 11. Qc2 Rg8 12. Bd2 Qc7 13. cxd5 exd5 14. g4
+Bg6 15. Bf5 Bd6 16. h4 Nxg4 17. hxg5 hxg5 18. Nxg5 Qd8 19. f4 Qf6 20. Bxg6
+Rxg6 21. Rf1 Nh2 22. Rg1 Rxg5 23. fxg5 Nf3+ 24. Kd1 Qh8 25. Rf1 Qh3 26. Qd3
+Nxd4 27. Rf2 Qh1+ 28. Be1 Qh5+ 29. Ne2 Ne6 30. Qf5 Ndc5 31. Kc2 Ne4 32. Rg2
+Ng7 33. Qg4 Qg6 34. Kd1 Nf5 35. Bd2 Ke7 36. Nc3 Nxc3+ 37. bxc3 Rh8 38. Ke2
+Rh4 39. Qf3 Be5 40. Rf1 Nd6 41. Rg4 Rh2+ 42. Rg2 Rxg2+ 43. Qxg2 Qc2 44. Rc1
+Qxa2 45. Kf3 Qc4 46. Be1 Nf5 47. Qc2 Qf1+ 48. Bf2 Qh3+ 49. Ke2 Qg4+ 50. Kd2
+Nd6 51. Rg1 Qf3 52. Ke1 Ne4 53. c4 dxc4 54. g6 Bc3+ 55. Kf1 fxg6 56. Rg2 b5
+57. Kg1 g5 58. Rh2 Ke6 59. Rh6+ Kd5 60. Rh7 Qxf2+ 61. Qxf2 Nxf2 62. Kxf2 a5
+63. Kf3 b4 64. e4+ Kc5 65. Rh5 b3 66. Rxg5+ Kb4 67. Rg1 a4 68. Kf4 a3 69.
+e5 Bxe5+ 70. Kxe5 a2 0-1
 
