@@ -4,3 +4,5 @@ shh
 *.err
 *.shh
 ~
+virtual.tmp
+
