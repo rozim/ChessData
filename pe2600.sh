@@ -13,3 +13,11 @@ pgn-extract \
 
 
 # -#1000000 \
+
+
+# Flags:
+# -C -N -V ==> suppress annotations
+# -Z       ==> dedup tmp
+# -D       ==> no dups
+# -s       ==> silent
+
