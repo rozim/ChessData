@@ -5,9 +5,9 @@ rm -f mega2600*.pgn */mega2600*.pgn
 rm -f mega2600*.err */mega2600*.err
 
 for d in RebelSite Convekta Kingbase Britbase PgnMentor ChessNostalgia.com WorldChampionships Corus ChessOk.com PgnDownloads Chessopolis.com Twic Npollock Bundesliga; do
-    echo $d ${d}/mega*.pgn
-    rm -f ${d}/mega*.pgn
-    time ./pe2600.sh ${d}/*.pgn > ${d}/prelim2600.pgn 2> ${d}/prelim2600.err
+    echo $d
+    files=$(ls ${d}/*.pgn | grep -v mega)
+    time ./pe2600.sh ${files} > ${d}/prelim2600.pgn 2> ${d}/prelim2600.err
     # kludge -- want to do elo >= 2600 and elo < 3000
     time ./pe3000.sh ${d}/prelim2600.pgn > ${d}/mega2600.pgn 2> ${d}/mega2600.err
     time python Code/xsplit.py ${d}/mega2600.pgn
