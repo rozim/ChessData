@@ -25,3 +25,5 @@ time python Code/xsplit.py mega2600.pgn */mega2600.pgn
 
 git add mega2600*.pgn */mega2600*.pgn
 git commit -m "mega2600 update" mega2600*.pgn */mega2600*.pgn
+
+rm prelim2600.pgn */prelim2600.pgn
