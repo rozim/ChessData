@@ -88,6 +88,7 @@ def main(argv):
                           flag='c',
                           encode=json.dumps,
                           decode=json.loads)
+
     s = set()
     s.update(list(rdb.keys()))
     print(s)
