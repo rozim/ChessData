@@ -79,40 +79,41 @@ def simplify_fen(board):
 
 def main(argv):
   del argv
-  print(FLAGS.pgn)
   assert os.access(FLAGS.pgn, os.R_OK)
-  print(len(list(gen_games(FLAGS.pgn))))
+
   if FLAGS.reference:
-    assert os.access(FLAGS.reference, os.R_OK)
-    rdb = sqlitedict.open(filename=FLAGS.reference,
-                          flag='c',
-                          encode=json.dumps,
-                          decode=json.loads)
+    assert False, 'not ready'
+  #   assert os.access(FLAGS.reference, os.R_OK)
+  #   rdb = sqlitedict.open(filename=FLAGS.reference,
+  #                         flag='c',
+  #                         encode=json.dumps,
+  #                         decode=json.loads)
 
-    s = set()
-    s.update(list(rdb.keys()))
-    print(s)
-    rdb.close()
+  #   s = set()
+  #   s.update(list(rdb.keys()))
+  #   print(s)
+  #   rdb.close()
 
-  sys.exit(0)
+  # sys.exit(0)
+
   ncache = 0
   nwrite = 0
   engine = chess.engine.SimpleEngine.popen_uci('stockfish')
-  engine.configure({"Clear Hash": None})
   engine.configure({"Hash": HASH})
   engine.configure({"Threads": THREADS})
 
+  print(f'Db: {FLAGS.output}')
   db = sqlitedict.open(FLAGS.output, 'c',
                        encode=json.dumps,
                        decode=json.loads)
 
-  for gnum, game in enumerate(gen_games(FN)):
+  print(f'Open {FLAGS.pgn}')
+  for gnum, game in enumerate(gen_games(FLAGS.pgn)):
     if gnum % COMMIT_FREQ == 0:
       db.commit()
     if MAX_GAMES > 0 and gnum >= MAX_GAMES:
       break
     headers = game.headers
-
 
     t1 = time.time()
     for ply, (move, board) in enumerate(gen_moves(game)):
@@ -130,11 +131,8 @@ def main(argv):
         db[sfen] = list(simplify_multi(multi, board))
         nwrite += 1
 
-      if multi:
-        #print(ply, move, multi[0]['score'].pov(WHITE))
-        pass
     dt = time.time() - t1
-    print(f'{gnum:4d} {headers["White"]:24s} - {headers["Black"]:24s} : {headers["Result"]:7.7s} {dt:.1f}s')
+    print(f'{gnum:4d} {headers["White"]:24s} - {headers["Black"]:24s} : {headers["Result"]:7.7s} ply={ply:3d} dt={dt:.1f}s')
 
   print('Cache: ', ncache)
   print('Write: ', nwrite)
