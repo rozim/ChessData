@@ -18,5 +18,6 @@ def doit(fin, fout):
 
 
 for fn in sys.argv[1:]:
-  rm = doit(file(fn), file('fix-' + fn, 'w'))
-  print fn, rm
+  rm = doit(open(fn, 'r', encoding='utf-8', errors='replace'),
+            open('fix-' + fn, 'w'))
+  print(fn, rm)
