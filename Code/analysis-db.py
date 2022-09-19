@@ -63,13 +63,18 @@ def simplify_score(score, board):
 
 def simplify_multi(multi, board):
   for i, m in enumerate(multi):
+    pv = m.get('pv', [])
+    nodes = m.get('nodes', 0)
+    if 'pv' not in multi:
+      continue
+    assert 'score' in m, (m, 'multi=', multi, 'fen=', board.fen())
     if i == 0: # nodes
       yield {'ev': simplify_score(m['score'], board),
-             'pv': simplify_pv(m['pv']),
-             'nodes': m['nodes']}
+             'pv': simplify_pv(pv),
+             'nodes': nodes}
     else: # leave out nodes
       yield {'ev': simplify_score(m['score'], board),
-             'pv': simplify_pv(m['pv'])}
+             'pv': simplify_pv(pv)}
 
 
 def simplify_fen(board):
@@ -81,36 +86,43 @@ def main(argv):
   del argv
   assert os.access(FLAGS.pgn, os.R_OK)
 
+  reference = set()
   if FLAGS.reference:
-    assert False, 'not ready'
-  #   assert os.access(FLAGS.reference, os.R_OK)
-  #   rdb = sqlitedict.open(filename=FLAGS.reference,
-  #                         flag='c',
-  #                         encode=json.dumps,
-  #                         decode=json.loads)
+    print(f'Reference {FLAGS.reference}')
+    assert os.access(FLAGS.reference, os.R_OK)
+    rdb = sqlitedict.open(filename=FLAGS.reference,
+                          flag='c',
+                          timeout=15,
+                          encode=json.dumps,
+                          decode=json.loads)
 
-  #   s = set()
-  #   s.update(list(rdb.keys()))
-  #   print(s)
-  #   rdb.close()
-
-  # sys.exit(0)
+    reference.update(list(rdb.keys()))
+    print(f'Reference {FLAGS.reference} : {len(reference)} positions/depths')
+    rdb.close()
+    del rdb
 
   ncache = 0
+  ncache_ref = 0
   nwrite = 0
   engine = chess.engine.SimpleEngine.popen_uci('stockfish')
   engine.configure({"Hash": HASH})
   engine.configure({"Threads": THREADS})
+  #t_special = time.time() + 60.0
 
   print(f'Db: {FLAGS.output}')
   db = sqlitedict.open(FLAGS.output, 'c',
                        encode=json.dumps,
-                       decode=json.loads)
+                       decode=json.loads,
+                       timeout=10)
 
   print(f'Open {FLAGS.pgn}')
   for gnum, game in enumerate(gen_games(FLAGS.pgn)):
     if gnum % COMMIT_FREQ == 0:
       db.commit()
+    # if t_special >= time.time():
+    #   print('commit ', ncache, ncache_ref, ' write ', nwrite)
+    #   t_special = time.time() + 60.0
+
     if MAX_GAMES > 0 and gnum >= MAX_GAMES:
       break
     headers = game.headers
@@ -124,7 +136,10 @@ def main(argv):
       multi = None
       for depth in range(FLAGS.depth + 1):
         sfen = f'{simplify_fen(board)}|{depth}'
-        if sfen in db:
+        if sfen in reference:  # In memory
+          ncache_ref += 1
+          continue
+        if sfen in db:  # Hmm, maybe should be in memory
           ncache += 1
           continue
         multi = engine.analyse(board, chess.engine.Limit(depth=depth), multipv=MULTIPV)
@@ -135,6 +150,7 @@ def main(argv):
     print(f'{gnum:4d} {headers["White"]:24s} - {headers["Black"]:24s} : {headers["Result"]:7.7s} ply={ply:3d} dt={dt:.1f}s')
 
   print('Cache: ', ncache)
+  print('Cache: ', ncache_ref, '(reference db)')
   print('Write: ', nwrite)
   db.commit()
   db.close()
