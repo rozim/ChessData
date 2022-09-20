@@ -1,2 +1,6 @@
 *.sqlite
 *.sqlite-journal
+stockfish
+*-out.txt
+*-err.txt
+shh

@@ -13,3 +13,8 @@ sqlite> .output ../Analysis/twic1300.sql
 sqlite> .open twic1300.sqlite
 sqlite> .dump
 sqlite> .quit
+
+-----
+
+rm mega.sqlite
+cat *.sql | sqlite3 mega.sqlite
