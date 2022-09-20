@@ -17,7 +17,10 @@ from absl import flags
 FLAGS = flags.FLAGS
 flags.DEFINE_string('pgn', None, 'Input')
 flags.DEFINE_string('prefix', None, 'Output')
+flags.DEFINE_string('event', None, 'PGN header filter')
+
 flags.DEFINE_integer('n', 10, 'sharding')
+
 flags.mark_flag_as_required('pgn')
 flags.mark_flag_as_required('prefix')
 
@@ -26,7 +29,7 @@ MAX_PLY = 120
 MAX_GAMES = 0
 
 def gen_games(fn):
-  f = open(fn, 'r')
+  f = open(fn, 'r', encoding='utf-8', errors='replace')
   while True:
     g = chess.pgn.read_game(f)
     if g is None:
@@ -54,6 +57,8 @@ def main(argv):
 
   dups = 0
   adds = 0
+  filter_pass = 0
+  filter_fail = 0
 
   fns = [f'{FLAGS.prefix}_{i:d}.txt' for i in range(FLAGS.n)]
   files = [open(fn, 'w') for fn in fns]
@@ -61,6 +66,16 @@ def main(argv):
   for gnum, game in enumerate(gen_games(FLAGS.pgn)):
     if MAX_GAMES > 0 and gnum >= MAX_GAMES:
       break
+
+    headers = game.headers
+    if FLAGS.event:
+      if game.headers['Event'] == FLAGS.event:
+        print(game.headers['White'], '-', game.headers['Black'])
+        filter_pass += 1
+      else:
+        filter_fail += 1
+        continue
+    # [Event "CCCSA Fall GM 2020"]
 
     for ply, (move, board) in enumerate(gen_moves(game)):
       if ply < MIN_PLY or ply > MAX_PLY:
@@ -80,6 +95,8 @@ def main(argv):
   print('Dups: ', dups)
   print('Adds: ', adds)
   print('Games: ', gnum)
+  print('Filter pass: ', filter_pass)
+  print('Filter fail: ', filter_fail)
 
 
 if __name__ == "__main__":
