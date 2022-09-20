@@ -16,5 +16,7 @@ sqlite> .quit
 
 -----
 
+sh ./dump.sh
+git commit -m ... *.sql
 rm mega.sqlite
 cat *.sql | sqlite3 mega.sqlite
