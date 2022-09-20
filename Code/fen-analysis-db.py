@@ -41,7 +41,7 @@ def simplify_multi(multi, board):
   for i, m in enumerate(multi):
     pv = m.get('pv', [])
     nodes = m.get('nodes', 0)
-    if 'pv' not in multi:
+    if 'pv' not in m:
       continue
     assert 'score' in m, (m, 'multi=', multi, 'fen=', board.fen())
     if i == 0: # nodes
@@ -124,6 +124,7 @@ def main(argv):
       multi = engine.analyse(board, chess.engine.Limit(depth=depth), multipv=MULTIPV)
       if len(multi) > 0:
         nodes += multi[0].get('nodes', 0)
+
       db[sfen] = list(simplify_multi(multi, board))
       nwrite += 1
     dt = time.time() - t1
