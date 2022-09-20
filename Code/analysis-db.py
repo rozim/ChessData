@@ -38,7 +38,7 @@ THREADS = 1 # reproducible
 COMMIT_FREQ = 5 # games
 
 def gen_games(fn):
-  f = open(fn, 'r')
+  f = open(fn, 'r', encoding='utf-8', errors='replace'))
   while True:
     g = chess.pgn.read_game(f)
     if g is None:
