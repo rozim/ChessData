@@ -8,3 +8,5 @@ seq 0 9 | time xargs -P 4 -I % -t python -u fen-analysis-db.py --fen=../Analysis
 https://cse.buffalo.edu/~regan/chess/fidelity/data/Niemann/
 
 https://cse.buffalo.edu/~regan/chess/fidelity/data/Niemann/SigemanMay2022cat18_SF15d20-30pv1.sc4
+
+python gen-fen.py --pgn=../Twic/twic1453.pgn --prefix=../Analysis/twic1453
