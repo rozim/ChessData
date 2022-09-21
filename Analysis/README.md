@@ -9,5 +9,10 @@ sqlite> .open twic1300.sqlite sqlite> .dump sqlite> .quit
 
 --------------------------------------------------------------------------------
 
-sh ./dump.sh git commit -m ... *.sql rm mega.sqlite cat *.sql | sed -e 's/INSERT
-INTO/REPLACE INTO/g' | sqlite3 mega.sqlite
+sh ./dump.sh
+
+git commit -m ... *.sql
+
+rm mega.sqlite
+
+cat *.sql | sed -e 's/INSERT INTO/REPLACE INTO/g' | sqlite3 mega.sqlite
