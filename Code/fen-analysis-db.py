@@ -21,7 +21,7 @@ flags.DEFINE_integer('depth', 1, 'Max depth')
 flags.mark_flag_as_required('fen')
 flags.mark_flag_as_required('output')
 
-MULTIPV = 50
+MULTIPV = 1
 
 HASH = 512
 THREADS = 1 # reproducible
@@ -109,11 +109,13 @@ def main(argv):
       t_last_commit = now
 
     t1 = time.time()
-    engine.configure({"Clear Hash": None})
+
     nodes = 0
     board = chess.Board(fen)
 
     for depth in range(FLAGS.depth + 1):
+      # More reproducible if we clear every time through.
+      engine.configure({"Clear Hash": None})
       sfen = f'{fen}|{depth}'
       if sfen in reference:  # In memory
         ncache_ref += 1
