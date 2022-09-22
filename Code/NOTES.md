@@ -10,3 +10,6 @@ https://cse.buffalo.edu/~regan/chess/fidelity/data/Niemann/
 https://cse.buffalo.edu/~regan/chess/fidelity/data/Niemann/SigemanMay2022cat18_SF15d20-30pv1.sc4
 
 python gen-fen.py --pgn=../Twic/twic1453.pgn --prefix=../Analysis/twic1453
+
+
+./run-fen-analysis-db.sh sinqcup22 > sinqcup22.txt
