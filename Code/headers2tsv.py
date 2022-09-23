@@ -3,6 +3,7 @@ import os
 import chess
 import chess.pgn
 from pprint import pprint
+import time
 
 # Event, Site, Date, Round, White, Black and Result.
 
@@ -104,13 +105,14 @@ def munch_game(game, basename, openings):
 
 
 def munch_file(fn, openings):
+  t1 = time.time()
   good = 0
   bad = 0
   base = os.path.basename(fn)
   assert base.endswith('.pgn')
   tsv = base[:-3] + 'tsv'
   out_fn = f'../Headers/{tsv}'
-  print('Out: ', out_fn)
+  #print('Out: ', out_fn)
   out = open(out_fn, 'w')
   with open(fn, 'r', encoding='utf-8', errors='replace') as f:
     while True:
@@ -124,7 +126,8 @@ def munch_file(fn, openings):
       else:
         bad += 1
   out.close()
-  print(fn, ':', base, 'good', good, 'bad', bad)
+  dt = time.time() - t1
+  print(fn, ':', base, out_fn, 'good', good, 'bad', bad, f'{dt:.1f}s')
 
 
 openings = {}
