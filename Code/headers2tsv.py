@@ -113,13 +113,31 @@ def munch_file(fn, openings):
   tsv = base[:-3] + 'tsv'
   out_fn = f'../Headers/{tsv}'
   #print('Out: ', out_fn)
+  if os.access(out_fn, os.R_OK):
+    print('Already: ', out_fn)
+    return
   out = open(out_fn, 'w')
   with open(fn, 'r', encoding='utf-8', errors='replace') as f:
     while True:
-      g = chess.pgn.read_game(f)
-      if g is None:
-        break
-      s = munch_game(g, base, openings)
+      try:
+        g = chess.pgn.read_game(f)
+        if g is None:
+          break
+      except ValueError:
+        print('BAD/1: ', g.headers)
+        bad += 1
+        continue
+
+      try:
+        s = munch_game(g, base, openings)
+      except ValueError:
+        print('BAD/2: ', g.headers)
+        bad += 1
+        continue
+
+      if s is None:
+        bad += 1
+        continue
       out.write(s + '\n')
       if s:
         good += 1
@@ -137,4 +155,7 @@ for ch in ['a', 'b', 'c', 'd', 'e']:
 print('Openings: ', len(openings))
 
 for fn in sys.argv[1:]:
-  munch_file(fn, openings)
+  try:
+    munch_file(fn, openings)
+  except ValueError:
+    print('BAD/0', fn)
