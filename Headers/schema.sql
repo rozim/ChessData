@@ -1,6 +1,6 @@
 CREATE TABLE "h" (
     black TEXT,
-    blackelo TEXT,
+    blackelo INTEGER,
     xdate TEXT,
     eco TEXT,
     event TEXT,
@@ -8,12 +8,13 @@ CREATE TABLE "h" (
     eventdate TEXT,
     eventrounds TEXT,
     eventtype TEXT,
-    plycount TEXT,
+    plycount INTEGER,
     xresult TEXT,
     round TEXT,
     site TEXT,
     timecontrol TEXT,
     white TEXT,
-    whiteelo TEXT,
+    whiteelo INTEGER,
     whiteteam TEXT,
-    xfile TEXT);
+    xfile TEXT,
+    xeco TEXT)

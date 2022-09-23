@@ -2,8 +2,10 @@ Annotator
 Black
 BlackClock
 BlackElo
+BlackFideId
 BlackTeam
 BlackTeamCountry
+BlackTitle
 Date
 ECO
 Event
@@ -11,10 +13,13 @@ EventCountry
 EventDate
 EventRounds
 EventType
+FEN
+Opening
 PlyCount
 Remark
 Result
 Round
+SetUp
 Site
 Source
 SourceDate
@@ -23,8 +28,12 @@ SourceTitle
 SourceVersion
 SourceVersionDate
 TimeControl
+Variant
+Variation
 White
 WhiteClock
 WhiteElo
+WhiteFideId
 WhiteTeam
 WhiteTeamCountry
+WhiteTitle
