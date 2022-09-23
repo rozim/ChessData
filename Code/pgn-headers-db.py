@@ -1,13 +1,14 @@
 import sys
 import chess
 import chess.pgn
+import time
 
-from absl import app
-from absl import flags
+#from absl import app
+#from absl import flags
 
-FLAGS = flags.FLAGS
-flags.DEFINE_string('pgn', None, 'Input')
-flags.mark_flag_as_required('pgn')
+#FLAGS = flags.FLAGS
+#flags.DEFINE_string('pgn', None, 'Input')
+#flags.mark_flag_as_required('pgn')
 
 # FN = 'sinqcup22.pgn'
 
@@ -28,13 +29,18 @@ def main(_argv):
   del _argv
   headers = set()
 
-  for h in gen_headers(FLAGS.pgn):
-    #print(h.get('Variation', '|'), ':', h.get('Event', '|'), ':', h.get('EventType', '|'))
-    headers.update(h.keys())
+  for fn in sys.argv[1:]:
+    t1 = time.time()
+    ng = 0
+    for h in gen_headers(fn):
+      ng += 1
+      headers.update(h.keys())
+    dt = time.time() - t1
+    print(fn, ng, f'{dt:.1f}s', len(headers))
   print()
   for h in sorted(headers):
     print(h)
 
 
 if __name__ == "__main__":
-  app.run(main)
+  main(None)
