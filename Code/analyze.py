@@ -16,8 +16,7 @@ THREADS = 1
 DEPTH = 16
 MULTIPV = 50
 
-
-engine = chess.engine.SimpleEngine.popen_uci('stockfish')
+engine = chess.engine.SimpleEngine.popen_uci('./stockfish')
 engine.configure({'Clear Hash': None})
 engine.configure({'Hash': HASH})
 engine.configure({'Threads': THREADS})
@@ -26,11 +25,13 @@ board = chess.Board(FEN)
 
 print(FEN)
 t1 = time.time()
-for d in range(10, 16+1):
+for d in range(0, 30):
   #engine.configure({'Clear Hash': None})
+  t_begin = time.time()
   multi = engine.analyse(board, chess.engine.Limit(depth=d), multipv=1)
+  dt = time.time() - t_begin
   m = multi[0]
-  print(d, m['nodes'], ':', m['score'].pov(WHITE), ':', [mv.uci() for mv in m['pv']])
+  print(d, f'{dt:.1f}', m['nodes'], ':', m['score'].pov(WHITE), ':', [mv.uci() for mv in m['pv']])
 print()
 dt = time.time() - t1
 print(f'{dt:.1f}s')

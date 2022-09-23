@@ -19,13 +19,16 @@ flags.DEFINE_string('pgn', None, 'Input')
 flags.DEFINE_string('prefix', None, 'Output')
 flags.DEFINE_string('event', None, 'PGN header filter')
 
+flags.DEFINE_integer('min_ply', 20, 'Starting ply')
+flags.DEFINE_integer('max_ply', 120, 'Ending ply')
+
 flags.DEFINE_integer('n', 10, 'sharding')
 
 flags.mark_flag_as_required('pgn')
 flags.mark_flag_as_required('prefix')
 
-MIN_PLY = 20
-MAX_PLY = 120
+#MIN_PLY = 20
+#MAX_PLY = 120
 MAX_GAMES = 0
 
 def gen_games(fn):
@@ -78,7 +81,7 @@ def main(argv):
     # [Event "CCCSA Fall GM 2020"]
 
     for ply, (move, board) in enumerate(gen_moves(game)):
-      if ply < MIN_PLY or ply > MAX_PLY:
+      if ply < FLAGS.min_ply or (FLAGS.max_ply and ply > FLAGS.max_ply):
         continue
       sfen = simplify_fen(board)
       if sfen in already:
