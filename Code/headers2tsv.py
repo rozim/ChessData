@@ -60,11 +60,18 @@ def sanitize(header, s):
   return clean
 
 
-def munch_game(g, basename):
-  h = g.headers
+def munch_game(game, basename):
+  h = game.headers
   if 'FEN' in h or 'SetUp' in h:
     return None
   h['xfile'] = basename
+  board = chess.Board()
+  ply = 0
+  for ply, move in enumerate(game.mainline_moves()):
+    board.push(move)
+
+  if 'PlyCount' not in h:
+    h['PlyCount'] = str(ply)
   ar = [sanitize(header, h.get(header, '')) for header in HEADERS]
   return '\t'.join(ar)
 
