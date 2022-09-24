@@ -40,6 +40,7 @@ HEADERS = [
   #'WhiteTeamCountry',
   'xfile',
   'xeco',
+  'xeco2'
 ]
 
 NUMERIC = [
@@ -56,6 +57,9 @@ NUMERIC = [
 
 def parse_openings(fn):
   op = {}
+  op2 = {}
+  eco_count = {}
+  lines2 = []
   with open(fn, 'r') as f:
     for line in f.readlines():
       ar = line.split('\t')
@@ -71,8 +75,13 @@ def parse_openings(fn):
       game = chess.pgn.read_game(pgn)
       for move in game.mainline_moves():
         board.push(move)
-      op[board.fen().split(' ')[0]] = eco
-  return op
+      sfen = board.fen().split(' ')[0]
+      op[sfen] = eco
+      subvar = eco_count.get(eco, 0)
+      eco_count[eco] = subvar + 1
+      op2[sfen] = f'{eco}.{subvar}'
+      lines2.append((op2[sfen], name, uci))
+  return op, op2, lines2
 
 
 def sanitize(header, s):
@@ -85,7 +94,7 @@ def sanitize(header, s):
   return clean
 
 
-def munch_game(game, basename, openings):
+def munch_game(game, basename, openings, openings2):
   h = game.headers
   if 'FEN' in h or 'SetUp' in h:
     return None
@@ -93,19 +102,23 @@ def munch_game(game, basename, openings):
   board = chess.Board()
   ply = 0
   xeco = '?'
+  xeco2 = '?'
   for ply, move in enumerate(game.mainline_moves()):
     board.push(move)
-    fen = board.fen().split(' ')[0]
-    xeco = openings.get(fen, xeco)
+    sfen = board.fen().split(' ')[0]
+    xeco = openings.get(sfen, xeco)
+    xeco2 = openings2.get(sfen, xeco2)
   h['xeco'] = xeco
+  h['xeco2'] = xeco2
   if 'PlyCount' not in h:
     h['PlyCount'] = str(ply)
   ar = [sanitize(header, h.get(header, '')) for header in HEADERS]
   return '\t'.join(ar)
 
 
-def munch_file(fn, openings):
+def munch_file(fn, openings, openings2):
   t1 = time.time()
+  t_last_status = t1
   good = 0
   bad = 0
   base = os.path.basename(fn)
@@ -117,23 +130,16 @@ def munch_file(fn, openings):
     print('Already: ', out_fn)
     return
   out = open(out_fn, 'w')
-  with open(fn, 'r', encoding='utf-8', errors='replace') as f:
-    while True:
-      try:
-        g = chess.pgn.read_game(f)
-        if g is None:
-          break
-      except ValueError:
-        print('BAD/1: ', g.headers)
-        bad += 1
-        continue
 
-      try:
-        s = munch_game(g, base, openings)
-      except ValueError:
-        print('BAD/2: ', g.headers)
-        bad += 1
-        continue
+  with open(fn, 'r', encoding='utf-8', errors='replace') as f:
+    fsize = f.seek(0, 2)
+    print(fn, fsize)
+    f.seek(0, 0)
+    while True:
+      g = chess.pgn.read_game(f)
+      if g is None:
+        break
+      s = munch_game(g, base, openings, openings2)
 
       if s is None:
         bad += 1
@@ -143,19 +149,32 @@ def munch_file(fn, openings):
         good += 1
       else:
         bad += 1
+      now = time.time()
+
+      if now > (t_last_status + 60.0):
+        pos = f.seek(0, 1)
+        print('Tick', good, bad, pos, f'{100.0*(pos/fsize):.1f}%')
+        t_last_status = now
   out.close()
   dt = time.time() - t1
   print(fn, ':', base, out_fn, 'good', good, 'bad', bad, f'{dt:.1f}s')
 
 
+fo = open(f'../Headers/openings2.tsv', 'w')
 openings = {}
+openings2 = {}
 for ch in ['a', 'b', 'c', 'd', 'e']:
-  openings.update(parse_openings(f'../../chess-openings/{ch}.tsv'))
+  oc, oc2, lines2 = parse_openings(f'../../chess-openings/{ch}.tsv')
+  openings.update(oc)
+  openings2.update(oc2)
+  for tup in lines2:
+    fo.write(' '.join(tup))
 
-print('Openings: ', len(openings))
+print('Openings:   ', len(openings))
+print('Openings/2: ', len(openings2))
 
 for fn in sys.argv[1:]:
   try:
-    munch_file(fn, openings)
+    munch_file(fn, openings, openings2)
   except ValueError:
     print('BAD/0', fn)
