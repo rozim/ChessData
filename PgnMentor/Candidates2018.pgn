@@ -1,0 +1,1473 @@
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.10"]
+[Round "1.1"]
+[White "Kramnik, Vladimir"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2767"]
+[ECO "A48"]
+[Opening "King's Indian"]
+[Variation "East Indian defence"]
+[WhiteFideId "4101588"]
+[BlackFideId "4126025"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. Nf3 g6 3. b3 c5 4. dxc5 Qa5+ 5. Nbd2 Qxc5 6. Bb2 Bg7 7. e3 O-O 8.
+c4 b6 9. Be2 Bb7 10. O-O Qc7 11. Rc1 d6 12. Nb1 Nbd7 13. Nc3 Rac8 14. Rc2 Qb8
+15. Qa1 a6 16. Rd2 Rfe8 17. Rfd1 Ba8 18. Ng5 Rc5 19. Nh3 b5 20. Nf4 bxc4 21.
+Bxc4 Rg5 22. Ncd5 Ne5 23. Be2 Ne4 24. Rd4 Nc5 25. h4 Rf5 26. e4 Rxf4 27. Nxf4
+Nxe4 28. Nd5 Nc5 29. Rb4 Qa7 30. Ne3 a5 31. Rb5 Ne6 32. Rxe5 dxe5 33. Bxe5 Qc5
+34. Bxg7 Nxg7 35. Qd4 Qxd4 36. Rxd4 Bc6 37. Rd2 Rb8 38. Rc2 Be8 39. Rc7 Kf8 40.
+Ra7 a4 41. bxa4 Rb1+ 42. Kh2 Rb4 43. a5 Rxh4+ 44. Kg1 Ra4 45. Bc4 Bc6 46. Rc7
+Be8 47. a6 Nh5 48. Nd5 1-0
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.10"]
+[Round "1.2"]
+[White "Karjakin, Sergey"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2809"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "fianchetto (Smyslov/Barnes) defence"]
+[WhiteFideId "14109603"]
+[BlackFideId "13401319"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 a6 5. Bxc6 dxc6 6. d4 exd4 7. cxd4 Bg4 8.
+Qb3 Bxf3 9. gxf3 Bg7 10. Be3 Ne7 11. Nc3 Bxd4 12. Bxd4 Qxd4 13. Qxb7 O-O 14.
+Qxc7 Rab8 15. O-O Rxb2 16. Qxe7 Qxc3 17. Kg2 Rc2 18. Rad1 Rxa2 19. Rc1 Rc2 20.
+Rxc2 Qxc2 21. Ra1 Qc4 22. Qb7 Qb5 23. Qxa6 Qg5+ 24. Kf1 Qf6 25. Kg2 Rb8 26. Ra5
+Rb3 27. Qc8+ Kg7 28. Qg4 Rb5 29. Rxb5 cxb5 30. Qd7 Qg5+ 31. Kf1 Qe5 32. h4 b4
+33. Qb7 Qc3 34. e5 b3 35. Kg2 Qc4 36. Qb6 h6 37. Kg3 Qd5 38. f4 Kh7 39. Qb8 Qc4
+40. f3 Qc3 41. Qf8 Qc4 42. Qb8 Kg7 43. Qb6 Qd5 44. Qb8 Qd1 45. Qb7 Qg1+ 46. Kh3
+Qe3 47. Kg2 Qe2+ 48. Kg3 Qe1+ 49. Kg2 Qe3 50. Qb4 g5 51. hxg5 hxg5 52. fxg5 Qe2+
+53. Kg3 Qxe5+ 54. Kf2 Qh2+ 55. Ke3 Qg1+ 56. Kf4 Qc1+ 57. Kg4 Qe3 58. Kg3 Qxg5+
+59. Kf2 Qd5 60. Ke3 Kg6 61. Ke2 Kf6 62. Ke3 Ke6 63. Qb6+ Kd7 64. Qa7+ Kc6 65.
+Qa6+ Kc5 66. Qa4 Qc4 67. Qa5+ Kc6 68. Qa1 Kb5 69. Qb2 Kb4 70. Kd2 Qf4+ 71. Ke1
+Qh4+ 0-1
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.10"]
+[Round "1.3"]
+[White "Aronian, Levon"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2794"]
+[BlackElo "2769"]
+[ECO "A18"]
+[Opening "English"]
+[Variation "Mikenas-Carls, Flohr variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "8603677"]
+[EventDate "2018.03.10"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. d4 b6 8. h4
+Bb7 9. Bg5 Qf5 10. Bd3 Qa5 11. Kf1 Nc6 12. Rb1 f6 13. Bd2 O-O-O 14. a4 e5 15. c5
+Bxc5 16. Rb5 Qa6 17. Rh3 Bxd4 18. Be2 Rd6 19. Rb1 Qa5 20. Rb5 Qa6 21. Rb1 Qa5
+22. Rb5 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.10"]
+[Round "1.4"]
+[White "Caruana, Fabiano"]
+[Black "So, Wesley"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2799"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "2020009"]
+[BlackFideId "5202213"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Bg2 d5 6. Nf3 O-O 7. O-O c6 8. Qb3
+Nbd7 9. Bf4 a5 10. Rd1 Nh5 11. Bc1 Nhf6 12. Nbd2 b5 13. c5 b4 14. Qc2 a4 15. Re1
+e5 16. Nxe5 Nxe5 17. dxe5 Nd7 18. Nf3 Bxc5 19. Ng5 g6 20. Bf4 Qb6 21. e4 b3 22.
+axb3 axb3 23. Qe2 Ba6 24. Qf3 Bc4 25. Rxa8 Rxa8 26. e6 dxe4 27. exf7+ Bxf7 28.
+Nxe4 Bd4 29. Nd6 Bd5 30. Qe2 Nf8 31. Bxd5+ cxd5 32. Qf3 Qa5 33. Re7 1-0
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.11"]
+[Round "2.1"]
+[White "Grischuk, Alexander"]
+[Black "So, Wesley"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2799"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "4126025"]
+[BlackFideId "5202213"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. c3 O-O
+9. h3 Bb7 10. Nbd2 Re8 11. Ng5 Rf8 12. Re1 d5 13. exd5 Nxd5 14. Ndf3 Qd7 15. d4
+exd4 16. cxd4 h6 17. Ne4 Rfe8 18. Bd2 Nf6 19. Rc1 Nxe4 20. Rxe4 Bf6 21. Rg4 Kh8
+22. Rc5 Rad8 23. Qc1 Nxd4 24. Nxd4 Re4 25. Rxc7 Qxd4 26. Be3 Rxg4 27. hxg4 Qe4
+28. f3 Qb4 29. Rxb7 Bxb2 30. Qf1 f6 31. Qf2 Be5 32. f4 Bd6 33. g5 Qe4 34. Qf3
+Qb1+ 35. Qf1 Qe4 36. Qf3 Qb1+ 37. Kf2 Bb4 38. Qe2 Qe4 39. Qf3 Qb1 40. Kg3 fxg5
+41. Kh2 Qf5 42. Rf7 Qg6 43. fxg5 Bd6+ 44. Kh3 1-0
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.11"]
+[Round "2.2"]
+[White "Ding, Liren"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2769"]
+[BlackElo "2784"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "8603677"]
+[BlackFideId "2020009"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 b6 8. Ne5
+Qxd4 9. Bxa8 Qxe5 10. Bf3 Nd5 11. Qxc4 Ba6 12. Qb3 Nc6 13. Qa4 Bb7 14. Nc3 Nd4
+15. Bxd5 exd5 16. Bf4 Qf6 17. Rad1 c5 18. Be3 Nf3+ 19. exf3 d4 20. f4 dxc3 21.
+bxc3 Bf3 22. Rd3 Bc6 23. Qb3 Qf5 24. c4 Be4 25. Rd2 Qh5 26. f3 Bxf3 27. f5 Bc6
+28. Qd1 Qh3 29. Rff2 h6 30. Qf1 Qg4 31. Rf4 Qg5 32. Rd3 Qf6 33. Bd2 Ba8 34. h4
+Qc6 35. Kh2 Bd6 36. Rf2 Be5 37. Bc3 Bxc3 38. Rxc3 Re8 39. f6 g6 40. Rcc2 Re4 41.
+Rfe2 Qe6 42. Rxe4 Bxe4 43. Rf2 Bf5 44. Qc1 Kh7 45. Qc3 h5 46. a3 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.11"]
+[Round "2.3"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2794"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "13300474"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 d5 7. Bg5 h6 8.
+Bxf6 Qxf6 9. Nf3 c6 10. g3 Nd7 11. Bh3 b6 12. cxd5 cxd5 13. Qc6 Rb8 14. O-O Rd8
+15. Rfc1 Ba6 16. Bf1 Bc4 17. Qa4 a5 18. b3 b5 19. Qxa5 Bxb3 20. Rc7 Bc4 21. Qa7
+Ra8 22. Qb7 Rab8 23. Qa7 Ra8 24. Qb7 Rab8 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.11"]
+[Round "2.4"]
+[White "Kramnik, Vladimir"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2763"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "14109603"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Ke8 10. Nc3 h5 11. Bf4 Be7 12. Rad1 Be6 13. Ng5 Rh6 14. Rfe1
+Bb4 15. a3 Bxc3 16. bxc3 Ne7 17. Nf3 Rh8 18. Bg5 c5 19. Nd2 Kf8 20. Nf1 Nf5 21.
+g3 Ne7 22. Kg2 Nd5 23. c4 Nb6 24. Ne3 Nxc4 25. Nxc4 Bxc4 26. g4 hxg4 27. hxg4
+Bb5 28. Kg3 Re8 29. f4 b6 30. f5 Ba4 31. Rc1 Kg8 32. c4 Bc6 33. Rcd1 Ba4 34. Rc1
+Bc6 35. Bh4 Ba4 36. Rc3 Bc6 37. Rce3 Rh6 38. Bg5 Rh7 39. R3e2 Ba4 40. Re3 Rh8
+41. Bh4 Rh6 42. e6 fxe6 43. g5 Rh8 44. Rxe6 Rf8 45. R6e5 Bc2 46. f6 gxf6 47.
+gxf6 Rh7 48. Rg5+ Kh8 49. Re7 Rg8 50. Rxh7+ Kxh7 51. Rxg8 Kxg8 52. Kf2 Bb3 53.
+Bg3 Bxc4 54. Bxc7 Bd5 55. Bb8 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.12"]
+[Round "3.1"]
+[White "Caruana, Fabiano"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2809"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "2020009"]
+[BlackFideId "13401319"]
+[EventDate "2018.03.10"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+Be7 9. Qd2 Nbd7 10. g4 O-O 11. g5 Nh5 12. O-O-O b5 13. Nd5 Bxd5 14. exd5 f6 15.
+gxf6 Bxf6 16. Kb1 Nf4 17. Rg1 Kh8 18. Bd3 Bg5 19. Na5 Bh6 20. Nc6 Qh4 21. Qb4
+Rf6 22. a4 Qxh2 23. Be4 Qe2 24. Bxf4 Bxf4 25. Qa5 Nc5 26. Qc7 Bh6 27. Nd8 Nxe4
+28. fxe4 Rf8 29. Nf7+ Rxf7 30. Qxf7 Rc8 31. Rc1 Qxe4 32. Rgf1 Bf4 33. Rg1 Bh6
+34. Rgf1 Rg8 35. Rcd1 bxa4 36. Qe7 Qg6 37. Rf8 Bg5 38. Rxg8+ Kxg8 39. Qd7 h5 40.
+Rg1 e4 41. Qxa4 e3 42. Qxa6 Qf5 43. Qa8+ Kh7 44. Qe8 Bf4 45. Qe6 g6 46. Rf1 Kg7
+47. Qxf5 gxf5 48. c4 Bg3 49. Rg1 h4 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.12"]
+[Round "3.2"]
+[White "So, Wesley"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2769"]
+[ECO "C89"]
+[Opening "Ruy Lopez"]
+[Variation "Marshall counter-attack, 11...c6"]
+[WhiteFideId "5202213"]
+[BlackFideId "8603677"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. Re1 Bd6 13. d3 Bf5 14. Qf3 Qh4 15.
+g3 Qh3 16. Be3 Bxd3 17. Nd2 Qf5 18. Bd4 Rfd8 19. a4 h6 20. h4 Rac8 21. axb5 axb5
+22. Bxd5 cxd5 23. Qxf5 Bxf5 24. Ra5 b4 25. Rxd5 Be6 26. Ra5 bxc3 27. Bxc3 Rb8
+28. Nf1 Bb4 29. Raa1 Bc5 30. Ne3 Rd3 31. Red1 Rbd8 32. Rxd3 Rxd3 33. Rd1 Rxd1+
+34. Nxd1 Bb3 35. Ne3 Bxe3 36. fxe3 Kf8 37. Kf2 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.12"]
+[Round "3.3"]
+[White "Karjakin, Sergey"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2767"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Italian four knights variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "4126025"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 h6 6. h3 d6 7. Na4 Bb6 8. a3 Ne7
+9. b4 Ng6 10. O-O O-O 11. c3 c6 12. Nxb6 axb6 13. Bb3 Re8 14. Re1 Be6 15. Bc2 d5
+16. exd5 Nxd5 17. Bd2 Bf5 18. d4 Bxc2 19. Qxc2 exd4 20. Rxe8+ Qxe8 21. Nxd4 b5
+22. a4 bxa4 23. Rxa4 Rxa4 24. Qxa4 Ngf4 25. Qd1 Qe4 26. Qf1 Ne6 27. f3 Qg6 28.
+Nxe6 Qxe6 29. Qd3 b5 30. c4 bxc4 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.12"]
+[Round "3.4"]
+[White "Aronian, Levon"]
+[Black "Kramnik, Vladimir"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2794"]
+[BlackElo "2800"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[WhiteFideId "13300474"]
+[BlackFideId "4101588"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Qe7 7. h3 Rg8 8.
+Kh1 Nh5 9. c3 g5 10. Nxe5 g4 11. d4 Bd6 12. g3 Bxe5 13. dxe5 Qxe5 14. Qd4 Qe7
+15. h4 c5 16. Qc4 Be6 17. Qb5+ c6 18. Qa4 f5 19. Bg5 Rxg5 20. hxg5 f4 21. Qd1
+Rd8 22. Qc1 fxg3 23. Na3 Rd3 24. Rd1 Bd5 25. f3 gxf3 26. exd5 Qe2 27. Re1 g2+ 0-1
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.14"]
+[Round "4.1"]
+[White "Karjakin, Sergey"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2794"]
+[ECO "D39"]
+[Opening "QGD"]
+[Variation "Ragozin, Vienna variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "13300474"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 dxc4 6. e4 c5 7. Bxc4 cxd4 8.
+Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Nbd7 11. Bxf6 Qxc3+ 12. Kf1 gxf6 13. h4 Qb4 14.
+Rb1 Qd6 15. Rh3 a6 16. Be2 Nc5 17. Rc3 Nxe4 18. Rd3 O-O 19. Qc1 Qe5 20. Bf3 f5
+21. Qh6 Qf6 22. Qxf6 Nxf6 23. Bxb7 Bxb7 24. Rxb7 Rac8 25. Rg3+ Kh8 26. Rgb3 Ne4
+27. Rb2 Rfd8 28. Nb3 Rd1+ 29. Ke2 Nc3+ 30. Ke3 Kg7 31. g3 Kf6 32. Ra7 Rc6 33.
+Kf3 Nb5 34. Ra8 e5 35. Kg2 e4 36. a4 Na3 37. Rd2 Rxd2 38. Nxd2 e3 39. Nf3 Rc2
+40. Rxa6+ Kg7 41. Nd4 Rxf2+ 42. Kg1 Nc2 43. Nxc2 Rxc2 44. Kf1 Rf2+ 45. Ke1 Rg2
+46. Rb6 Rxg3 47. Rb4 Rg2 48. Rf4 Kg6 49. Rf3 Rg4 50. Rxe3 Rxa4 51. Kf2 Rxh4 52.
+Re8 Rg4 53. Kf3 Kg7 54. Re5 Kf6 55. Re8 h5 56. Rh8 Kg6 57. Kf2 Rg5 58. Kf3 Kg7
+59. Ra8 h4 60. Kf2 h3 61. Ra3 Rh5 62. Kg1 Kg6 63. Kh2 f4 64. Ra7 f3 65. Ra1 f2
+66. Rf1 Rf5 67. Kxh3 Kg5 68. Kg3 Rf4 0-1
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.14"]
+[Round "4.2"]
+[White "Grischuk, Alexander"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2769"]
+[ECO "D43"]
+[Opening "QGD semi-Slav"]
+[WhiteFideId "4126025"]
+[BlackFideId "8603677"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Be2 Bb7 10. O-O Nbd7 11. Ne5 Bg7 12. Nxf7 Kxf7 13. e5 Nd5 14. Ne4 Qb6 15.
+Nd6+ Ke7 16. a4 Raf8 17. Bf3 a6 18. Bxd5 cxd5 19. axb5 axb5 20. Kh1 Bc6 21. f4
+gxf4 22. Rxf4 Rxf4 23. Bxf4 Kd8 24. Qg4 Rf8 25. Bd2 Kc7 26. h3 b4 27. Qxg7 Qxd4
+28. Bxb4 Qxb2 29. Ba5+ Kb8 30. Rg1 c3 31. Qe7 c2 32. Bd2 Qxe5 33. Bxh6 Rg8 34.
+Nf7 Qc3 35. Qd6+ Kb7 36. Qxe6 d4 37. Nd6+ Kb6 38. Ne4 Nc5 39. Qxg8 Nxe4 40. Kh2
+d3 41. Be3+ Kb5 42. Qb8+ Kc4 43. Qc7 Qf6 44. Rf1 Qd6+ 45. Qxd6 Nxd6 46. Rf6 Kd5
+47. Rxd6+ Kxd6 48. Kg3 Kd5 49. Kf2 Kc4 50. Bd2 Kb3 51. Ke3 Bxg2 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.14"]
+[Round "4.3"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2799"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[WhiteFideId "13401319"]
+[BlackFideId "5202213"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5 8.
+dxc5 Nc6 9. cxd5 exd5 10. Nf3 Qf6 11. e3 Bg4 12. Be2 O-O 13. O-O Rfe8 14. Bd2 d4
+15. Rad1 Nxd2 16. Rxd2 dxe3 17. Rd6 Re6 18. fxe3 Rxd6 19. cxd6 Bxf3 20. Bxf3
+Qxd6 21. Qb3 Qe7 22. Bd5 Nd8 23. Rc1 Qd7 24. Qc4 Ne6 25. Bxe6 fxe6 26. Qd4 Qxd4
+27. exd4 Rf8 28. Rc7 Rf7 29. Rc8+ Rf8 30. Rc7 Rf7 31. Rc8+ Rf8 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.14"]
+[Round "4.4"]
+[White "Kramnik, Vladimir"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2784"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteFideId "4101588"]
+[BlackFideId "2020009"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. Nc3 Nxc3 7. dxc3 Qxe2+
+8. Bxe2 Nc6 9. Be3 Be7 10. O-O-O O-O 11. Rhe1 Bf6 12. Nd2 Re8 13. Bf3 Ne5 14.
+Bf4 Kf8 15. Bd5 c6 16. Bb3 Bf5 17. h3 g5 18. Bh2 Kg7 19. c4 g4 20. Ne4 Bxe4 21.
+Rxe4 Bg5+ 22. Kb1 gxh3 23. c5 f5 24. Rb4 hxg2 25. Rxb7+ Kh8 26. cxd6 Nf3 27. Ba4
+Nxh2 28. Bxc6 Rad8 29. d7 Re2 30. Bxg2 Rxf2 31. Bc6 Ng4 32. Rxa7 Ne3 33. Rg1 h6
+34. Rc7 Kg7 35. a4 Kf7 36. Bb5 Ke7 37. a5 Rf4 38. c3 Kd6 39. Rb7 Rg4 40. Re1 f4
+41. a6 h5 42. a7 Ra8 43. b4 h4 44. c4 h3 45. c5+ Ke5 46. Rb8 Rxa7 47. Rg8 Bf6
+48. d8=Q Bxd8 49. Rxg4 Bf6 50. Rg6 Rb7 51. Be2 Rxb4+ 52. Ka2 Nc2 53. Rc1 Nd4 54.
+Bd3 Ra4+ 55. Kb1 Nb3 56. Re1+ Kd5 57. Kc2 Nd4+ 58. Kb1 Nf3 59. Rd1 Ra1+ 60. Kc2
+Rxd1 61. Ba6 Rd2+ 62. Kc1 Bb2+ 63. Kb1 Kxc5 64. Bb7 Ne5 65. Rf6 f3 66. Rf5 f2 0-1
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.15"]
+[Round "5.1"]
+[White "Aronian, Levon"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2794"]
+[BlackElo "2767"]
+[ECO "E60"]
+[Opening "King's Indian defence"]
+[WhiteFideId "13300474"]
+[BlackFideId "4126025"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 g6 3. f3 c5 4. d5 d6 5. e4 e6 6. Nc3 exd5 7. cxd5 Bg7 8. Nge2
+Nbd7 9. Ng3 h5 10. Be2 Nh7 11. Bf4 Qe7 12. Qd2 h4 13. Nf1 g5 14. Be3 Ne5 15. g3
+Bd7 16. gxh4 gxh4 17. Rg1 f5 18. f4 Ng4 19. e5 dxe5 20. d6 Qe6 21. Nb5 Rc8 22.
+Nc7+ Rxc7 23. dxc7 exf4 24. Rd1 Ng5 25. c8=Q+ Bxc8 26. Qd8+ Kf7 27. Qc7+ Kg8 28.
+Rd6 Qf7 29. Qd8+ Qf8 30. Bxf4 Ne6 31. Bc4 Qxd8 32. Rxd8+ Kh7 33. Rxh8+ Bxh8 34.
+Bd6 Ng5 35. Rg2 Ne4 36. Bb8 Bd4 37. h3 Ne5 38. Bd5 Nd3+ 39. Ke2 Nc1+ 40. Kd1 Nd3
+41. Nd2 Nf6 42. Bf3 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.15"]
+[Round "5.2"]
+[White "Caruana, Fabiano"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2763"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "2020009"]
+[BlackFideId "14109603"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. Qb3 c6 7. O-O dxc4 8. Qxc4
+b5 9. Qc2 Bb7 10. Nbd2 c5 11. dxc5 Na6 12. Nb3 Be4 13. Qc3 Rc8 14. Be3 Nd5 15.
+Qd2 Bxf3 16. Bxf3 Nxe3 17. Qxe3 Nxc5 18. Nxc5 Bxc5 19. Qb3 Qb6 20. e3 Be7 21.
+Rfd1 Rc7 22. Rac1 Rfc8 23. Rxc7 Rxc7 24. Kg2 g6 25. Rd2 Kg7 26. Rc2 Rxc2 27.
+Qxc2 Qc5 28. Qxc5 Bxc5 29. b3 f5 30. a4 bxa4 31. bxa4 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.15"]
+[Round "5.3"]
+[White "So, Wesley"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2800"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "5202213"]
+[BlackFideId "4101588"]
+[EventDate "2018.03.10"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nd7 12. O-O b6 13. Rad1 Bb7 14. Rfe1
+Rc8 15. Bb3 Re8 16. h3 Nf6 17. Qf4 Nh5 18. Qe5 Nf6 19. Qf4 Nh5 20. Qh2 h6 21. d5
+exd5 22. exd5 Rxe1+ 23. Nxe1 Qf6 24. Nd3 Ba6 25. Qe5 Bxd3 26. Qxh5 Bc2 27. Rc1
+Bf5 28. Rxc8+ Bxc8 29. d6 g5 30. Qd1 Bd7 31. Qd5 Kg7 32. Qb7 Qa1+ 33. Kh2 Qe5+
+34. Kg1 Qxd6 35. Qxa7 h5 36. Qb7 h4 37. Qf3 Qe7 38. Qc3+ f6 39. Qc4 Qe8 40. Qb4
+b5 41. a3 Qe5 42. Bd1 Bc6 43. Bf3 Be8 44. Kf1 Bf7 45. Be2 Be8 46. Bf3 f5 47. Kg1
+Bf7 48. Qd2 Kg6 49. Qc1 Be6 50. Qc6 Kf6 51. Qe8 Qa1+ 52. Kh2 Qxa3 53. Qd8+ Qe7
+54. Qh8+ Qg7 55. Qd8+ Kg6 56. Qe8+ Qf7 57. Qxb5 Qc7+ 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.15"]
+[Round "5.4"]
+[White "Ding, Liren"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2769"]
+[BlackElo "2809"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "8603677"]
+[BlackFideId "13401319"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bf4 Bd6 11. Bg5 Nbd7 12. Nc3 h6 13. Bc1 a5 14. b3 Qe7 15.
+Bb2 Rfd8 16. Rac1 Ba3 17. Bxa3 Qxa3 18. Nb5 Qe7 19. Qc2 Bxf3 20. Bxf3 c6 21. Nc3
+Nb6 22. e3 e5 23. dxe5 Qxe5 24. Rfd1 g6 25. Rd2 Rd7 26. Rxd7 Nbxd7 27. Rd1 h5
+28. Rd4 Nc5 29. h4 Kg7 30. Kg2 Ne6 31. Rd1 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.16"]
+[Round "6.1"]
+[White "So, Wesley"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2794"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "5202213"]
+[BlackFideId "13300474"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. a5 d6 10. d3 Be6 11. Bxe6 fxe6 12. Nbd2 Rb8 13. Nb3 Qc8 14. h3 Nd8 15. Be3
+c5 16. Nbd2 Nc6 17. c3 Rb5 18. d4 exd4 19. cxd4 Nxa5 20. dxc5 dxc5 21. Ra2 Qb7
+22. b3 Kh8 23. Qc2 Nd7 24. Rea1 Bd8 25. Nc4 Nxc4 26. Qxc4 Bf6 27. Rd1 Qc6 28.
+Rad2 Nb6 29. Qc2 Qc7 30. e5 Be7 31. Nd4 Rc8 32. Nxe6 Qxe5 33. Nf4 Rf8 34. Re2
+Qc3 35. Qb1 Qf6 36. Bc1 c4 37. bxc4 Nxc4 38. Re6 Qg5 39. Ng6+ Qxg6 40. Rxg6 hxg6
+41. Qe4 Bf6 42. Qxc4 b3 43. Ba3 Rfb8 44. Rb1 b2 45. h4 Ra5 46. Qd3 Rd8 47. Qb3
+Rc8 48. Qb7 Rd8 49. Qb3 Rc8 50. Qb4 Rb5 51. Qg4 Rc3 52. Bxb2 Rxb2 53. Rxb2 Rc1+
+54. Kh2 Bxb2 55. Qxg6 Ra1 56. g4 a5 57. Qh5+ Kg8 58. Qb5 Ba3 59. Qe5 Rd1 60.
+Qe6+ Kh7 61. Qe4+ Kh8 62. Qa8+ Kh7 63. Qxa5 Bd6+ 64. Kg2 Rd4 65. Qf5+ Kh8 66.
+Qh5+ Kg8 67. g5 Kf8 68. Qg6 Be7 69. Qf5+ Ke8 70. Kh3 Rd6 71. Qh7 Kf7 72. f4 Rd4
+73. Qf5+ Ke8 74. Qe5 Rb4 75. Kg4 Kf8 76. Qf5+ Ke8 77. Qe6 Rd4 78. Qe5 1-0
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.16"]
+[Round "6.2"]
+[White "Ding, Liren"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2769"]
+[BlackElo "2763"]
+[ECO "D73"]
+[Opening "Neo-Gruenfeld, 5.Nf3"]
+[WhiteFideId "8603677"]
+[BlackFideId "14109603"]
+[EventDate "2018.03.10"]
+
+1. Nf3 d5 2. g3 g6 3. d4 Bg7 4. Bg2 Nf6 5. c4 dxc4 6. O-O O-O 7. Na3 c5 8. dxc5
+c3 9. Nb5 Na6 10. Nxc3 Nxc5 11. Nd4 Qb6 12. Be3 Qxb2 13. Ncb5 Ne6 14. Rb1 Qxa2
+15. Ra1 Qb2 16. Rb1 Qa2 17. Ra1 Qb2 18. Rb1 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.16"]
+[Round "6.3"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2800"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange variation"]
+[WhiteFideId "13401319"]
+[BlackFideId "4101588"]
+[EventDate "2018.03.10"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Rb1 Be7 8.
+Bb5+ Bd7 9. Bd3 cxd4 10. cxd4 Nc6 11. Be2 Rc8 12. Nf3 Qa5+ 13. Bd2 Bb4 14. Rb2
+Bxd2+ 15. Qxd2 Qxd2+ 16. Kxd2 Na5 17. Rbb1 Ke7 18. Rhc1 f6 19. h4 Rhd8 20. Bd3
+a6 21. Ke3 b5 22. g4 Be8 23. Ng1 Nc6 24. Ne2 Rd6 25. Rd1 Rcd8 26. Bc2 Na5 27.
+Bd3 Nc6 28. Bc2 h5 29. g5 fxg5 30. e5 R6d7 31. hxg5 h4 32. g6 Na5 33. Rbc1 Rc7
+34. Bd3 Rdc8 35. Rxc7+ Rxc7 36. Rh1 Nc4+ 37. Kf4 Nb2 38. Be4 b4 39. Rxh4 Nd1 40.
+f3 Nc3 41. Nxc3 bxc3 42. Rh2 Rc8 43. Ke3 Bb5 44. f4 Bc4 45. Rh7 Rg8 46. a3 a5
+47. Bc2 Kd7 48. d5 Bxd5 49. Kd4 Ba2 50. Kxc3 Kc6 51. Rh2 Kc5 52. Rd2 Rh8 53. Rd7
+Rh3+ 54. Kb2 Bd5 55. Rxg7 Kd4 56. Rh7 Rg3 57. Rh5 Rg2 58. Rg5 Rf2 59. g7 Be4 60.
+g8=Q Rxc2+ 61. Kb3 Rc3+ 62. Ka4 Rc5 63. Rg2 Bf3 64. Qd8+ 1-0
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.16"]
+[Round "6.4"]
+[White "Caruana, Fabiano"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2767"]
+[ECO "E60"]
+[Opening "King's Indian, 3.Nf3"]
+[WhiteFideId "2020009"]
+[BlackFideId "4126025"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. e3 O-O 5. Be2 c5 6. d5 e6 7. Nc3 exd5 8. cxd5
+d6 9. Nd2 Na6 10. O-O Nc7 11. e4 Re8 12. a4 Rb8 13. f3 a6 14. a5 Bd7 15. Nc4 Bb5
+16. Bg5 Bxc4 17. Bxc4 b5 18. axb6 Rxb6 19. Na4 Rb4 20. b3 Qc8 21. Bf4 Qd7 22.
+Ra2 Nh5 23. Be3 Rbb8 24. Qd2 Nb5 25. g4 Nf6 26. Nb2 Qc8 27. Bf4 Nd7 28. Bxb5
+axb5 29. Bxd6 Rb6 30. Bg3 c4 31. bxc4 bxc4 32. Qe2 Rb4 33. Bd6 Rb6 34. Bg3 Rb4
+35. Bd6 Rb6 36. Bg3 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.18"]
+[Round "7.1"]
+[White "Karjakin, Sergey"]
+[Black "So, Wesley"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2799"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[WhiteFideId "14109603"]
+[BlackFideId "5202213"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nf3 d5 6. Bd2 c5 7. a3 cxd4 8. axb4
+dxc3 9. Bxc3 dxc4 10. Bxc4 Qxd1+ 11. Kxd1 Bd7 12. Ke2 Rc8 13. Bd3 Nd5 14. Ne5
+Be8 15. Bd2 f6 16. Nc4 Rd8 17. Rhc1 Nc6 18. Be4 Ndxb4 19. Bxb4 Nxb4 20. Bxb7
+Rab8 21. Rxa7 Rd7 22. Na5 Nd3 23. Rd1 Nxb2 24. Rxd7 Bxd7 25. Bc6 Bxc6 26. Nxc6
+Re8 27. e4 Nc4 28. Kd3 Nd6 29. f4 Kf8 30. e5 fxe5 31. fxe5 Nf5 32. g4 Nh4 33.
+Kc4 Nf3 34. Ra2 Rc8 35. Kb5 Ke8 36. Kb6 g5 37. h3 Nxe5 38. Nxe5 Rc3 39. Rh2 Ke7
+40. Kb5 Re3 1-0
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.18"]
+[Round "7.2"]
+[White "Aronian, Levon"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2794"]
+[BlackElo "2784"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "4.Nf3"]
+[WhiteFideId "13300474"]
+[BlackFideId "2020009"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 h6 7. Bxf6 Qxf6 8.
+Bxc4 c5 9. O-O cxd4 10. e5 Qd8 11. Ne4 O-O 12. Qe2 Be7 13. Rad1 Qc7 14. Bd3 Nd7
+15. Rc1 Qa5 16. g4 Nxe5 17. Nxe5 Qxe5 18. f4 Qa5 19. g5 Qd8 20. h4 Bd7 21. gxh6
+g6 22. h5 Kh8 23. Kh2 Bc6 24. Rf3 Bd6 25. Qf2 Bc7 26. Kh3 Qe7 27. Ng5 e5 28.
+Rxc6 bxc6 29. Nxf7+ Rxf7 30. hxg6 Rf6 31. g7+ Kg8 32. Bc4+ Kh7 33. Qh4 e4 34.
+Rg3 Bxf4 35. g8=Q+ Rxg8 36. Bxg8+ Kh8 37. Rg7 Qf8 0-1
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.18"]
+[Round "7.3"]
+[White "Grischuk, Alexander"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2809"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "13401319"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 8. Qc2 h5
+9. h3 Nc6 10. e3 Bxc3+ 11. bxc3 Nxg3 12. fxg3 Qd6 13. Qf2 Qa3 14. Qc2 Qd6 15.
+Qf2 Qa3 16. Qc2 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.18"]
+[Round "7.4"]
+[White "Kramnik, Vladimir"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2769"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Capablanca variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "8603677"]
+[EventDate "2018.03.10"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. d3 g6 5. g3 Bg7 6. Bg2 O-O 7. O-O d6 8. b3 Nd4
+9. Nd2 c6 10. e3 Ne6 11. Bb2 Nc5 12. Qc2 a5 13. Rae1 Re8 14. h3 Bf5 15. e4 Bd7
+16. Ne2 b5 17. d4 exd4 18. Nxd4 Rc8 19. N4f3 d5 20. exd5 Rxe1 21. Rxe1 cxd5 22.
+cxb5 Bf5 23. Qd1 Nd3 24. Bd4 Rc1 25. Qxc1 Nxc1 26. Rxc1 Ne4 27. Nf1 Bxd4 28.
+Nxd4 Qb6 29. Bxe4 dxe4 30. Nxf5 gxf5 31. a4 Qe6 32. Ne3 Qxb3 33. Rc4 h5 34. h4
+Kh7 35. Kg2 f6 36. Rd4 Kg6 37. Rc4 Kf7 38. Kh2 Kg6 39. Kg1 Qb1+ 40. Kg2 Qb3 41.
+Rd4 Kf7 42. Rd5 Qxa4 43. Rxf5 Kg6 44. b6 Qb3 45. Rxa5 Qxb6 46. Rd5 Qb2 47. Rf5
+Qa2 48. Rc5 Qe2 49. Rc4 Qa2 50. Rb4 Qa5 51. Rb8 Qa2 52. Rd8 Qa5 53. Rd5 Qa2 54.
+Rf5 Qe6 55. Rd5 Qa6 56. g4 hxg4 57. h5+ Kf7 58. Rd7+ Ke6 59. Rg7 Qe2 60. h6 Qf3+
+61. Kg1 g3 62. Rxg3 Qh5 63. Rg7 f5 64. h7 f4 65. Ng4 Qh3 66. Rg6+ Kf5 67. Rg7
+Ke6 68. Rg6+ Kf5 69. Nh6+ Kxg6 70. h8=Q Qxh6 71. Qe8+ Kf5 72. Qb5+ Kg4 73. Qe2+
+Kf5 74. Qb5+ 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.19"]
+[Round "8.1"]
+[White "So, Wesley"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2784"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Cozio (Lasker) attack"]
+[WhiteFideId "5202213"]
+[BlackFideId "2020009"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. d3 Nf6 7. Nc3 Qxe2+ 8.
+Bxe2 g6 9. Bg5 Bg7 10. O-O-O O-O 11. Rhe1 h6 12. Bh4 Nc6 13. d4 a6 14. a3 Bd7
+15. d5 Na7 16. Nd4 Nc8 17. Nb3 g5 18. Bg3 Re8 19. Na5 b5 20. f3 Nh5 21. Bf2 Nf4
+22. Bf1 Nb6 23. Rxe8+ Rxe8 24. Bxb6 cxb6 25. Nb7 Be5 26. Ne4 Rb8 27. Nexd6 Ng6
+28. g3 Ne7 29. a4 Nf5 30. Nxf5 Bxf5 31. Re1 f6 32. Rxe5 fxe5 33. Nd6 Bd7 34.
+axb5 axb5 35. Bxb5 Bxb5 36. Nxb5 Rf8 37. Kd2 Rxf3 38. Ke2 g4 39. Nd6 h5 40. Nc4
+b5 41. Nxe5 Rf5 42. Ng6 Kf7 43. Nf4 h4 44. Ng2 hxg3 45. hxg3 Rf3 46. Ne3 Rxg3
+47. c4 bxc4 48. d6 Ke6 49. Nxc4 Rf3 50. d7 Rf8 51. Ne3 g3 52. d8=Q Rxd8 53. Kf3
+Rd3 54. Kf4 Rb3 55. Ng2 Kd5 56. Nh4 Kc4 57. Kg4 Rd3 58. b4 Rb3 59. b5 Kd5 60. b6
+Ke4 61. b7 Rxb7 62. Kxg3 Rg7+ 63. Kf2 Rg4 64. Ng2 Rxg2+ 65. Kxg2 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.19"]
+[Round "8.2"]
+[White "Grischuk, Alexander"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2800"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence"]
+[WhiteFideId "4126025"]
+[BlackFideId "4101588"]
+[EventDate "2018.03.10"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 c5 5. e3 dxc4 6. Bxc4 a6 7. Bb3 b5 8. e4
+cxd4 9. Nxd4 Bb7 10. e5 Ne4 11. O-O Nxc3 12. bxc3 Nc6 13. a4 Bc5 14. axb5 axb5
+15. Rxa8 Bxa8 16. Nxb5 O-O 17. Qxd8 Rxd8 18. Bf4 h6 19. h4 Ne7 20. Rd1 Rb8 21.
+Bc4 Bc6 22. Nd4 Be4 23. h5 Nd5 24. Bxd5 Bxd5 25. Be3 Rc8 26. Re1 Bc4 27. Nf3 Ba3
+28. Bd4 Bd3 29. Nd2 Bb2 30. Nf1 Rc4 31. Re3 Bf5 32. Ng3 Bh7 33. Kh2 Bc1 34. Re2
+Bf4 35. Kh3 Ra4 36. Kg4 Bc1 37. Kf3 Bd3 38. Re1 Bb2 39. Ke3 Bc2 40. Kd2 Bb3 41.
+Rb1 Ra2 42. Kd3 Ba4 43. Ne4 Ba3 44. Ke3 Bc2 45. Re1 Bb3 46. g4 Bd5 47. Kd3 Be7
+48. Rb1 Ra8 49. f4 Bh4 50. Rh1 Bd8 51. Rb1 Bc7 52. Ke3 Kh7 53. Nd6 Kg8 54. Rb5
+Bc6 55. Rb4 Bd8 56. Bb6 Bh4 57. Bd4 Bg2 58. Rb2 Bc6 59. Rb6 Bg2 60. Rb2 Bc6 61.
+Rb3 Bg3 62. c4 Bh2 63. f5 exf5 64. Nxf5 Kh7 65. Bb2 Re8 66. Nd6 Re7 67. Rb8 f6
+68. Rc8 Bh1 69. Nf5 Rb7 70. exf6 Rb3+ 71. Bc3 gxf6 72. Kd2 Bf4+ 73. Kc2 Rb8 74.
+Rxb8 Bxb8 75. Ne7 Be4+ 76. Kd2 Bf4+ 77. Ke2 Kg7 78. Nf5+ Kf7 79. Bd2 Be5 80.
+Bxh6 Ke6 81. Be3 Bxf5 82. gxf5+ Kxf5 83. h6 Kg6 84. c5 f5 85. Kf3 Kf7 86. Bf4
+Bd4 87. c6 Ke7 88. c7 Kd7 89. h7 Kc8 90. Ke2 Kd7 91. Kd3 1-0
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.19"]
+[Round "8.3"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2763"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "13401319"]
+[BlackFideId "14109603"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 c6 8. a4 b6
+9. Nbd2 Bb7 10. Nxc4 c5 11. Rd1 Nbd7 12. b3 Rc8 13. dxc5 Bxc5 14. Nfe5 Bxg2 15.
+Kxg2 Qc7 16. Nxd7 Nxd7 17. Qe4 Nf6 18. Qf3 Qc6 19. Qxc6 Rxc6 20. f3 Rfc8 21. e4
+Kf8 22. Bf4 Be7 23. Rd3 Rd8 24. Rxd8+ Bxd8 25. Rd1 Be7 26. Ne5 Rc2+ 27. Rd2 Rc3
+28. Rd3 Rc2+ 29. Rd2 Rc3 30. Rd3 Rc2+ 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.19"]
+[Round "8.4"]
+[White "Ding, Liren"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2769"]
+[BlackElo "2794"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Neo-Catalan accepted"]
+[WhiteFideId "8603677"]
+[BlackFideId "13300474"]
+[EventDate "2018.03.10"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 dxc4 5. Qa4+ Bd7 6. Qxc4 c5 7. d4 Bc6 8.
+dxc5 Nbd7 9. Be3 Bd5 10. Qc2 Be4 11. Qc1 Ng4 12. b4 a5 13. Bg5 f6 14. Bd2 axb4
+15. Bxb4 Nxc5 16. Bxc5 Rc8 17. Qc4 Bxc5 18. Qxe6+ Kf8 19. Qxg4 Bb4+ 20. Nbd2
+Bxd2+ 21. Nxd2 Bxg2 22. Rg1 Bd5 23. Rd1 Qc7 24. Ne4 Rd8 25. f3 Qe5 26. Qf4 Qxf4
+27. gxf4 Kf7 28. Nc3 Bc4 29. a4 Rxd1+ 30. Kxd1 Rd8+ 31. Kc2 Rc8 32. Kd2 Ba6 33.
+Ne4 Kf8 34. f5 Rd8+ 35. Ke3 Rd5 36. Rc1 Rxf5 37. Rc8+ Ke7 38. Rc7+ Kf8 39. Rc8+
+Ke7 40. Rc7+ Kf8 41. Rc8+ 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.20"]
+[Round "9.1"]
+[White "So, Wesley"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2767"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "5202213"]
+[BlackFideId "4126025"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8.
+Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. Bf4 Rxe1 12. Qxe1 Ne8 13. c3 d5 14. Bd3 g6
+15. Qe2 c6 16. Nd2 Ng7 17. Re1 Bf5 18. Bxf5 Nxf5 19. Nf3 Ng7 20. Be5 Ne6 21.
+Bxf6 Qxf6 22. Ne5 Re8 23. g3 Ng7 24. Kg2 Re6 25. Qd1 Qe7 26. Nd3 Rxe1 27. Qxe1
+Qxe1 28. Nxe1 Nf5 29. Nd3 Kf8 30. g4 Nd6 31. h4 h6 32. f3 Ke7 33. Kf2 g5 34.
+hxg5 hxg5 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.20"]
+[Round "9.2"]
+[White "Caruana, Fabiano"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2769"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "2020009"]
+[BlackFideId "8603677"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Bg2 d5 6. Nf3 O-O 7. O-O c6 8. Qb3
+b6 9. Nc3 Ba6 10. cxd5 cxd5 11. Ne5 Bb7 12. Rfc1 Nc6 13. Nxd5 Nxd4 14. Nxe7+
+Qxe7 15. Qc4 Bxg2 16. Qxd4 Rfd8 17. Qf4 Bb7 18. Bb4 Qe8 19. Rc7 Nd5 20. Qxf7+
+Qxf7 21. Rxf7 Ba6 22. Ba3 Bxe2 23. Rc1 Bh5 24. Rb7 Be8 25. Kg2 a5 26. h4 Rdb8
+27. Rxb8 Rxb8 28. g4 b5 29. b3 b4 30. Bb2 a4 31. h5 Ra8 32. Kg3 Kf8 33. Nf3 Bd7
+34. Rc4 Kg8 35. Ne5 Bb5 36. Rc5 Be8 37. Nc4 Bd7 38. Ne5 Be8 39. Bd4 Kf8 40. f3
+Ke7 41. Kh4 Kf8 42. Kg5 h6+ 43. Kh4 Kg8 44. Kg3 Kh7 45. Nd3 Kg8 46. Rc1 axb3 47.
+axb3 Kh7 48. Nc5 Bf7 49. Re1 Ne7 50. Bb2 Nc6 51. f4 Ra2 52. Nd3 e5 53. fxe5 Bxb3
+54. e6 Ra7 55. Nc5 Bc4 56. Nd7 Bb5 57. Nf8+ Kg8 58. Ng6 Ne7 59. Ra1 Nc6 60. Rd1
+Kh7 61. Rd5 Ba4 62. Kf4 Bc2 63. Rc5 Ba4 64. g5 hxg5+ 65. Rxg5 Nd8 66. Re5 Be8
+67. e7 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.20"]
+[Round "9.3"]
+[White "Aronian, Levon"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2794"]
+[BlackElo "2809"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "13300474"]
+[BlackFideId "13401319"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 b6 8. Qxc4
+Bb7 9. Nc3 c5 10. Rd1 Nbd7 11. Ne5 Bxg2 12. Kxg2 Qc8 13. Nxd7 Qxd7 14. dxc5 Qc6+
+15. f3 Qxc5 16. Qxc5 Bxc5 17. Bf4 Rfd8 18. e4 Ne8 19. Kf1 Kf8 20. Ke2 Ke7 21.
+Nb5 Rdc8 22. Rac1 a6 23. Nc3 b5 24. a4 Bd6 25. Be3 Rab8 26. axb5 axb5 27. Ba7
+Rb7 28. Bd4 Rc4 29. e5 Bc5 30. Nd5+ exd5 31. Bxc5+ Ke6 32. b3 Rxc1 33. Rxc1 Kxe5
+34. Kd3 Ke6 35. Bb4 Kd7 36. Kd4 Nc7 37. Ba5 Ne6+ 38. Kxd5 Ra7 39. b4 Ra6 40. f4
+Rd6+ 41. Ke4 Rd4+ 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.20"]
+[Round "9.4"]
+[White "Karjakin, Sergey"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2800"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange variation"]
+[WhiteFideId "14109603"]
+[BlackFideId "4101588"]
+[EventDate "2018.03.10"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Rb1 Be7 8.
+Nf3 O-O 9. h4 cxd4 10. cxd4 Nc6 11. h5 f5 12. exf5 Qa5+ 13. Bd2 Qxf5 14. Bc3 h6
+15. Bd3 Qg4 16. Kf1 e5 17. d5 e4 18. dxc6 exf3 19. gxf3 Rxf3 20. Be2 Rxf2+ 21.
+Kxf2 Bc5+ 22. Kf1 Qf4+ 23. Bf3 bxc6 24. Be1 Be6 25. Bh4 Rf8 26. Kg2 Kh8 27. Rc1
+Rf5 28. Rc3 Rd5 29. Bxd5 Bxd5+ 30. Rf3 Qg4+ 31. Bg3 Bd6 32. Rh3 Be7 33. Qe2 Be4
+34. Qf2 a5 35. a4 c5 36. Rh1 Bf6 37. Re1 Bc6 38. Re3 c4 39. Qe2 Qxh5 40. Qxc4
+Bd7 41. Rd3 1-0
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.22"]
+[Round "10.1"]
+[White "Kramnik, Vladimir"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2794"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Italian four knights variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "13300474"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 a6 6. Nd5 Nxd5 7. Bxd5 d6 8. Be3
+Bxe3 9. fxe3 O-O 10. O-O Nb8 11. b4 Nd7 12. Qd2 c6 13. Bb3 a5 14. a3 Nf6 15. h3
+h6 16. Rab1 b5 17. Qc3 Bd7 18. Rf2 Qb6 19. Re1 Rfe8 20. Nh4 c5 21. Ref1 cxb4 22.
+Qe1 d5 23. axb4 dxe4 24. bxa5 Rxa5 25. Ng6 Be6 26. Nxe5 exd3 27. Rxf6 gxf6 28.
+Rxf6 d2 29. Qg3+ Kf8 30. Rf1 Ra7 31. Ng6+ Kg7 32. Nf4+ Kh8 33. Nh5 f6 34. Nxf6
+Rf8 35. Qf4 Rh7 36. Qe5 Qc7 37. Ne8+ 1-0
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.22"]
+[Round "10.2"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2784"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[WhiteFideId "13401319"]
+[BlackFideId "2020009"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 Nc6 6. O-O Rb8 7. e3 Be7 8. Nfd2
+e5 9. Bxc6+ bxc6 10. dxe5 Ng4 11. Nxc4 Be6 12. Nbd2 h5 13. f3 Qd3 14. fxg4 Bxc4
+15. Nxc4 Qxc4 16. gxh5 Qe6 17. Qf3 Rb5 18. Qf5 Rxe5 19. Qxe6 Rxe6 20. Rf5 Rd6
+21. Kg2 Rd1 22. b3 g6 23. Re5 c5 24. hxg6 fxg6 25. e4 Rh7 26. h4 Rf7 27. Kh3
+Rff1 28. Bg5 Rxa1 29. Rxe7+ Kf8 30. Rxc7 Rxa2 31. Be7+ Kg8 32. Rc8+ Kg7 33. Bxc5
+Re2 34. e5 Rd1 35. Re8 Rd5 36. Bd6 Re3 37. Re7+ Kg8 38. Re8+ Kf7 39. Re7+ Kg8
+40. b4 Rdd3 41. Kg4 Rxg3+ 42. Kf4 Rgf3+ 43. Ke4 Rfe3+ 44. Kf4 Rf3+ 45. Kg5 Rf7
+46. e6 Rd5+ 47. Kxg6 Rxd6 48. Rxf7 Rxe6+ 49. Rf6 Re4 50. b5 Rxh4 51. Ra6 Rh7 52.
+b6 Rg7+ 53. Kh6 Rh7+ 54. Kg5 Rg7+ 55. Kf5 axb6 56. Rxb6 Rf7+ 57. Rf6 Rxf6+ 58.
+Kxf6 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.22"]
+[Round "10.3"]
+[White "Ding, Liren"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2769"]
+[BlackElo "2799"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[WhiteFideId "8603677"]
+[BlackFideId "5202213"]
+[EventDate "2018.03.10"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bf4 O-O 6. e3 b6 7. cxd5 Nxd5 8. Nxd5
+Qxd5 9. Be2 Bb7 10. Bxc7 Qa5+ 11. Kf1 Nd7 12. h4 Rac8 13. Bf4 Rfd8 14. Kg1 Bxf3
+15. Bxf3 e5 16. Bg5 Bxg5 17. hxg5 exd4 18. Qxd4 Qxg5 19. Rh5 Qf6 20. Rd5 Qxd4
+21. Rxd4 Ne5 22. Bd5 Nc6 23. Rdd1 Kf8 24. Bxc6 Rxd1+ 25. Rxd1 Rxc6 26. Rd7 Rc2
+27. Rxa7 Rxb2 28. a4 Ra2 29. Rb7 Ra1+ 30. Kh2 Rxa4 31. Rxb6 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.22"]
+[Round "10.4"]
+[White "Grischuk, Alexander"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2763"]
+[ECO "E00"]
+[Opening "Catalan opening"]
+[WhiteFideId "4126025"]
+[BlackFideId "14109603"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Bg2 d5 6. Nf3 O-O 7. O-O Nbd7 8. Qc2
+c6 9. Rc1 b6 10. a4 Ne4 11. Be1 a5 12. Nbd2 Nxd2 13. Nxd2 Bf6 14. cxd5 cxd5 15.
+e4 Bxd4 16. Nb3 Bf6 17. exd5 exd5 18. Bxd5 Ra7 19. Bg2 h6 20. Bc3 Rc7 21. Bxf6
+Rxc2 22. Bxd8 Rxc1+ 23. Rxc1 Rxd8 24. Rd1 Kf8 25. f4 Ke7 26. Re1+ Kf8 27. Rd1
+Ke7 28. Re1+ Kf8 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.23"]
+[Round "11.1"]
+[White "Caruana, Fabiano"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2800"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav, Marshall gambit"]
+[WhiteFideId "2020009"]
+[BlackFideId "4101588"]
+[EventDate "2018.03.10"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c6 4. e4 dxe4 5. Nxe4 c5 6. Nxc5 Nc6 7. Nf3 Nxd4 8.
+Qxd4 Qxd4 9. Nxd4 Bxc5 10. Nb5 Ke7 11. Bd2 Bd7 12. b4 Bxb5 13. cxb5 Bd6 14. g3
+Rc8 15. Bg2 b6 16. Ke2 Nh6 17. Rac1 Nf5 18. Bc3 f6 19. f4 h5 20. Bc6 Rcd8 21. a4
+h4 22. Kf3 hxg3 23. hxg3 Rxh1 24. Rxh1 Bb8 25. Be4 Kf7 26. Rc1 Ne7 27. Be1 f5
+28. Bb1 Rd4 29. Bc3 Rc4 30. Ba2 Rc8 31. Bb2 Rd8 32. Bc4 Rc8 33. Bb3 Rxc1 34.
+Bxc1 Bd6 35. Bd2 Nd5 36. Bxd5 exd5 37. Bc3 Be7 38. a5 Bf6 39. Bxf6 Kxf6 40. Ke3 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.23"]
+[Round "11.2"]
+[White "Aronian, Levon"]
+[Black "Karjakin, Sergey"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2794"]
+[BlackElo "2763"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Neo-Catalan accepted"]
+[WhiteFideId "13300474"]
+[BlackFideId "14109603"]
+[EventDate "2018.03.10"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ c6 6. Qxc4 b5 7. Qb3 Bb7 8. O-O
+Be7 9. d4 O-O 10. Rd1 Nbd7 11. Ne5 Nxe5 12. dxe5 Nd7 13. Bf4 Qc7 14. Nd2 Rfd8
+15. Rac1 a6 16. Qe3 c5 17. Bxb7 Qxb7 18. Ne4 c4 19. h4 h6 20. Rd4 Nf8 21. b3
+Rxd4 22. Qxd4 Rd8 23. Nd6 Bxd6 24. exd6 f6 25. Be3 e5 26. Qb2 Qc6 27. bxc4 bxc4
+28. Qb4 Rc8 29. f3 h5 30. Kf2 Kf7 31. Rd1 Nd7 32. Qb1 g6 33. g4 Rh8 34. g5 f5
+35. Qc2 Rc8 36. Qc3 Ke6 37. Kg2 Qa4 38. Qd2 Qb5 39. a4 Qc6 40. Qc2 Rb8 41. Bd2
+Rb3 42. Bc3 Qxa4 43. Ra1 Qc6 44. Ra5 Rb5 45. Qa4 Nb6 46. Qa1 Rxa5 47. Qxa5 Qb5
+48. d7 Kxd7 49. Qa3 Nd5 50. Bxe5 Qc6 51. Qf8 Qe6 52. Qb8 c3 53. Qb7+ Ke8 54.
+Qb8+ Kf7 55. Qb7+ Ne7 56. Bxc3 Qxe2+ 57. Kh3 Qb5 58. Qc7 Qc6 59. Qe5 Qxf3+ 60.
+Kh2 Qf2+ 61. Kh1 Qxh4+ 62. Kg1 Qxg5+ 63. Kh2 Qh4+ 64. Kg1 Qe4 65. Qg7+ Ke6 66.
+Bf6 Nd5 67. Bb2 f4 68. Kh2 Kf5 69. Qf8+ Kg5 70. Qd8+ Kg4 71. Qc8+ Kh4 72. Bg7
+Qe2+ 73. Kh1 Qf3+ 74. Kh2 Qg3+ 0-1
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.23"]
+[Round "11.3"]
+[White "Ding, Liren"]
+[Black "Grischuk, Alexander"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2769"]
+[BlackElo "2767"]
+[ECO "A35"]
+[Opening "English"]
+[Variation "symmetrical, four knights system"]
+[WhiteFideId "8603677"]
+[BlackFideId "4126025"]
+[EventDate "2018.03.10"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. e3 e6 5. d4 d5 6. a3 dxc4 7. Bxc4 a6 8. O-O b5
+9. Ba2 Bb7 10. Qe2 Qc7 11. Bd2 Be7 12. Rac1 c4 13. e4 Rd8 14. Be3 Ng4 15. e5 Na5
+16. Bf4 Qb6 17. Rcd1 h5 18. h3 Nh6 19. Bb1 Nb3 20. Be3 Qc7 21. Rfe1 Kf8 22. d5
+exd5 23. e6 fxe6 24. Ng5 Qd7 25. Bg6 Bf6 26. Bb6 Rc8 27. Nxe6+ Kg8 28. Nxd5 Bxd5
+29. Nf4 Nc1 30. Qxh5 Nd3 31. Nxd5 Nf7 32. Qe2 Nfe5 33. Be4 Rh4 34. f4 Rxf4 35.
+Nxf4 Nxf4 36. Bh7+ Kh8 37. Qe4 Qc6 38. Bd4 Nxh3+ 39. Kh2 Ng5 40. Qxc6 Rxc6 41.
+Bc2 Ngf7 42. Bxe5 Nxe5 43. Rd5 Re6 44. Kh3 Kg8 45. b3 Kf7 46. bxc4 Nxc4 47. Rd7+
+Be7 48. Rxe6 Kxe6 49. Ra7 Nxa3 50. Rxa6+ Kd5 51. Bh7 Nc4 52. Kg4 Bf6 53. Ra7 Kd4
+54. Bg8 Nd6 55. Kf3 Kc5 56. Ra8 b4 57. Ke2 Bc3 58. Kd3 Kb6 59. Ke3 Kc6 60. Kf4
+Nb7 61. Kf5 Nc5 62. g4 Kb5 63. g5 b3 64. Kg6 Kb4 65. Bd5 Bd4 66. Kh7 Kc3 67. g6
+b2 68. Ba2 Kc2 69. Rb8 Ne4 70. Rb4 Nc3 71. Be6 Kc1 72. Bf5 Be5 73. Rb7 b1=Q 74.
+Bxb1 Nxb1 75. Rxg7 Nc3 76. Re7 Bd4 77. Rd7 Be5 78. Kh6 Kc2 79. Kg5 Kb3 80. Kf5
+Bh8 81. Rb7+ Kc2 82. Rh7 Bd4 83. Ke6 Kb3 84. Rd7 Bh8 85. Rd8 Bg7 86. Kf7 Be5 87.
+Re8 Bd4 88. Rb8+ Kc2 89. Rb7 Be5 90. Rb6 Bd4 91. Rf6 Bxf6 92. Kxf6 Nd5+ 93. Kf7
+Ne3 94. Kf6 Nd5+ 95. Kf7 Ne3 96. g7 Nf5 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.23"]
+[Round "11.4"]
+[White "So, Wesley"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2809"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "5202213"]
+[BlackFideId "13401319"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 c6 8. Qxc4
+b5 9. Qc2 Bb7 10. Nc3 Nbd7 11. Rd1 Qb6 12. Ne5 Rfd8 13. Be3 Nd5 14. Nxd5 cxd5
+15. Rac1 Rac8 16. Qd3 b4 17. Rxc8 Bxc8 18. Qc2 Nxe5 19. dxe5 d4 20. Bxd4 Rxd4
+21. Qxc8+ Rd8 22. Rxd8+ Qxd8 23. Qxd8+ Bxd8 24. b3 Bc7 25. f4 Bb6+ 26. Kf1 Be3
+27. h4 h5 28. Bh3 Kf8 29. Kg2 Ke7 30. Kf3 Bd2 31. e3 Be1 32. f5 exf5 33. Bxf5 g6
+34. Bd3 Bc3 35. Kf4 Be1 36. Bc4 Bf2 37. Bd5 Be1 38. g4 hxg4 39. Kxg4 Bc3 40. Kf4
+Be1 41. Kg4 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.24"]
+[Round "12.1"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Ding, Liren"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2769"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[WhiteFideId "13401319"]
+[BlackFideId "8603677"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nd7 12. O-O b6 13. Rad1 Bb7 14. Rfe1
+Rc8 15. Bb3 Re8 16. h3 Nf6 17. Qf4 Nh5 18. Qh2 h6 19. Ne5 Nf6 20. Qf4 b5 21. Re3
+Rc7 22. Nd3 Rc3 23. Nc5 Rxe3 24. Qxe3 Bc6 25. Rc1 Qb6 26. f3 Rd8 27. Kf2 a5 28.
+g4 a4 29. Bc2 Nd7 30. Bd3 Nxc5 31. Rxc5 b4 32. Bc4 Bd7 33. g5 hxg5 34. Qxg5 Be8
+35. Qe7 b3 36. axb3 a3 37. b4 Ra8 38. d5 a2 39. dxe6 a1=Q 40. exf7+ Bxf7 41.
+Bxf7+ Kh7 42. Qh4+ Qh6 43. Rh5 Qa7+ 0-1
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.24"]
+[Round "12.2"]
+[White "Grischuk, Alexander"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2794"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[WhiteFideId "4126025"]
+[BlackFideId "13300474"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3
+d6 9. Bd2 Kh8 10. h3 Nd7 11. Nc3 Na5 12. Nd5 Nxb3 13. axb3 Bb7 14. c4 f5 15. Ba5
+Rc8 16. Rc1 bxc4 17. bxc4 fxe4 18. dxe4 Nc5 19. Bc3 Qe8 20. b4 Ne6 21. Bd2 c6
+22. Nxe7 Qxe7 23. Be3 c5 24. bxc5 Nxc5 25. Bxc5 Rxc5 26. Nd2 Bc8 27. Nf1 Be6 28.
+Ne3 Rc6 29. Qa4 Rfc8 30. Rb1 h6 31. Rb8 Rxc4 32. Rxc8+ Rxc8 33. Qxa6 Qc7 34. Rd1
+Rd8 35. Qd3 Qc5 36. Kh2 Qc7 37. Kg1 Qc5 38. Rd2 Qc7 39. Qa3 Qe7 40. Rd1 Kh7 41.
+Qb4 Qc7 42. Rd3 Kg8 43. Qd2 Qe7 44. Kh2 Qf8 45. Kg1 Qe7 46. Qd1 Kh7 47. Rd2 Qf8
+48. Rd3 Qe7 49. Rd2 Qf8 50. Nf1 Rd7 51. Ng3 Qb8 52. Kh2 Qf8 53. Kg1 Qb8 54. Kh2
+Qf8 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.24"]
+[Round "12.3"]
+[White "Karjakin, Sergey"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2784"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Nimzovich attack"]
+[WhiteFideId "14109603"]
+[BlackFideId "2020009"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Nc6 7. Be3 Be7 8.
+Qd2 Be6 9. O-O-O Qd7 10. a3 h6 11. Nd4 Nxd4 12. Bxd4 Rg8 13. Be2 c5 14. Be3 d5
+15. f4 O-O-O 16. Bf3 Bg4 17. Bxd5 Bxd1 18. Rxd1 Qc7 19. c4 Rge8 20. Qf2 b6 21.
+g4 Bf6 22. Kb1 Rd7 23. Rd3 g5 24. Ka2 Ree7 25. Qf3 Kd8 26. Bd2 Kc8 27. Qf1 Rd6
+28. fxg5 Bxg5 29. Bxg5 hxg5 30. Qf5+ Rdd7 31. Qxg5 Qe5 32. Qh6 Kd8 33. g5 Qd6
+34. Qh8+ Re8 35. Qh4 Qg6 36. Qg4 Re5 37. h4 Ke7 38. Rd2 b5 39. Bxf7 Qf5 40.
+Rxd7+ Kxd7 41. Qxf5+ Rxf5 42. g6 Ke7 43. cxb5 Rh5 44. c4 Rxh4 45. a4 Rg4 46. a5
+Kd6 47. a6 Kc7 48. Kb3 1-0
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.24"]
+[Round "12.4"]
+[White "Kramnik, Vladimir"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2799"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Charousek (Petrosian) variation"]
+[WhiteFideId "4101588"]
+[BlackFideId "5202213"]
+[EventDate "2018.03.10"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Be7 4. cxd5 exd5 5. Bf4 c6 6. e3 Bf5 7. g4 Be6 8. Qb3
+Qb6 9. f3 g5 10. Be5 f6 11. Bg3 Qxb3 12. axb3 h5 13. gxh5 Rxh5 14. Bd3 Kf7 15.
+h4 f5 16. Nh3 f4 17. exf4 Bxh3 18. fxg5 Bd7 19. Kf2 Na6 20. Bxa6 bxa6 21. Ne2
+Bd8 22. Be5 Ne7 23. Nf4 Rh7 24. h5 Kg8 25. Rag1 Nf5 26. h6 Be8 27. g6 Rxh6 28.
+Rxh6 Nxh6 29. Rh1 Bg5 30. Ne6 Bxg6 31. Nxg5 Nf7 32. Ne6 Nxe5 33. dxe5 Re8 34.
+Nf4 Bc2 35. Rg1+ Kf7 36. e6+ Kf6 37. Nh5+ Ke5 38. f4+ Kd6 39. Ng7 Rf8 40. Ke3
+d4+ 41. Kf3 Ke7 42. b4 Kf6 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.26"]
+[Round "13.1"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Grischuk, Alexander"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2809"]
+[BlackElo "2767"]
+[ECO "D77"]
+[Opening "Neo-Gruenfeld, 6.O-O"]
+[WhiteFideId "13401319"]
+[BlackFideId "4126025"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. c4 dxc4 7. Na3 c3 8. bxc3
+c5 9. Re1 Nc6 10. Bb2 Nd5 11. Qc2 cxd4 12. Nxd4 Nf6 13. Nxc6 bxc6 14. c4 Bf5 15.
+Qc1 Qc7 16. Nc2 Rab8 17. Bc3 Bxc2 18. Qxc2 Ne8 19. h4 c5 20. Red1 Bxc3 21. Qxc3
+Nf6 22. Bf3 h5 23. Rab1 Rxb1 24. Rxb1 Rb8 25. Rb5 Ne8 26. Qe3 Rxb5 27. cxb5 Nd6
+28. a4 c4 29. Kg2 c3 30. Bc6 Qa5 31. Qc5 a6 32. e4 axb5 33. axb5 Kh7 34. e5 Nxb5
+35. e6 Qa3 36. Qxb5 c2 37. exf7 Kg7 38. Be4 c1=Q 39. Qe8 1-0
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.26"]
+[Round "13.2"]
+[White "Ding, Liren"]
+[Black "Kramnik, Vladimir"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2769"]
+[BlackElo "2800"]
+[ECO "A13"]
+[Opening "English opening"]
+[WhiteFideId "8603677"]
+[BlackFideId "4101588"]
+[EventDate "2018.03.10"]
+
+1. c4 e6 2. Nc3 c5 3. Nf3 Nf6 4. g3 b6 5. e4 Bb7 6. d3 d6 7. Bg2 g6 8. O-O Bg7
+9. Re1 O-O 10. d4 cxd4 11. Nxd4 a6 12. b3 Nbd7 13. Ba3 Nc5 14. b4 Ncd7 15. b5
+Ne8 16. Rc1 Ne5 17. Qe2 axb5 18. Ndxb5 g5 19. h3 f5 20. exf5 Bxg2 21. Kxg2 Rxa3
+22. Nxa3 Qa8+ 23. Qe4 Qxa3 24. fxe6 Nf6 25. Qe2 Qa8+ 26. f3 h5 27. e7 Re8 28.
+Ne4 g4 29. hxg4 hxg4 30. fxg4 Nfxg4 31. Qd1 Bh6 32. Rc3 Rxe7 33. Qd5+ Qxd5 34.
+cxd5 Ra7 35. Re2 Nf7 36. Kh3 Nge5 37. Nxd6 Nxd6 38. Rxe5 Bg7 39. Rg5 Ne4 40.
+Rc8+ Kh7 41. Rh5+ Kg6 42. Rh4 Ng5+ 43. Kg2 Rxa2+ 44. Kf1 Ra1+ 45. Ke2 Ra2+ 46.
+Kf1 Ra1+ 47. Ke2 Ra2+ 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.26"]
+[Round "13.3"]
+[White "So, Wesley"]
+[Black "Karjakin, Sergey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2799"]
+[BlackElo "2763"]
+[ECO "E37"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, main line, 7.Qc2"]
+[WhiteFideId "5202213"]
+[BlackFideId "14109603"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 Ne4 7. Qc2 c5 8.
+dxc5 Nc6 9. Nf3 Qa5+ 10. Bd2 Qxc5 11. e3 Nxd2 12. Nxd2 dxc4 13. b4 Qf5 14. Qxf5
+exf5 15. Bxc4 Ke7 16. Nf3 Be6 17. Bxe6 fxe6 18. Ke2 Rhc8 19. Rhc1 Nd8 20. Ne5
+Nf7 21. Nxf7 Kxf7 22. e4 Kf6 23. Ke3 g5 24. g3 h5 25. h3 g4 26. hxg4 hxg4 27. f3
+gxf3 28. Kxf3 Ke5 29. exf5 exf5 30. Re1+ Kf6 31. Rac1 Rxc1 32. Rxc1 Rd8 33. Rc7
+Rd3+ 34. Kf4 Rxa3 35. Rxb7 Ra4 36. Rb5 a5 37. Rxf5+ Kg7 38. Rg5+ Kf6 39. Rf5+ 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.26"]
+[Round "13.4"]
+[White "Caruana, Fabiano"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2784"]
+[BlackElo "2794"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 7...O-O"]
+[WhiteFideId "2020009"]
+[BlackFideId "13300474"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d3
+d6 9. Bd2 Bg4 10. c3 d5 11. h3 Bh5 12. Qe2 Rb8 13. Bg5 dxe4 14. dxe4 h6 15. Bc1
+Bg6 16. Nbd2 Nh5 17. Nf1 Bc5 18. g3 Kh7 19. Kg2 Qe7 20. Bc2 Rfd8 21. b4 Bb6 22.
+a4 Nf6 23. Nh4 Qe6 24. Bd3 Bh5 25. g4 Bxg4 26. hxg4 Nxg4 27. Nf5 Nxf2 28. Bc2 g6
+29. N1e3 gxf5 30. exf5 Qf6 31. Qxf2 e4 32. Rh1 Rd6 33. Bxe4 Rg8+ 34. Kf1 Ne5 35.
+Qf4 c6 36. axb5 Rg5 37. bxa6 Qd8 38. f6+ Ng6 39. Rxh6+ 1-0
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.27"]
+[Round "14.1"]
+[White "Aronian, Levon"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2794"]
+[BlackElo "2799"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "5202213"]
+[EventDate "2018.03.10"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 g6 4. e3 Nf6 5. d4 cxd4 6. exd4 d5 7. cxd5 Nxd5 8.
+Qb3 Nxc3 9. Bc4 e6 10. bxc3 Bd7 11. Be2 Na5 12. Qc2 Bg7 13. Ba3 Bf8 14. Bb2 Bg7
+15. Ba3 Bf8 16. Bb2 Bg7 17. Ba3 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.27"]
+[Round "14.2"]
+[White "Karjakin, Sergey"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2769"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[WhiteFideId "14109603"]
+[BlackFideId "8603677"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3 O-O
+9. Nc3 Bg4 10. Be3 Nd4 11. Bxd4 exd4 12. Nd5 c5 13. a4 Be6 14. Nxf6+ Bxf6 15.
+Bxe6 fxe6 16. Qe2 Qd7 17. b3 e5 18. Ra2 b4 19. Nd2 Rae8 20. Raa1 Bd8 21. g3 g5
+22. Nc4 Re6 23. a5 Ref6 24. f3 h5 25. Nb6 Qf7 26. Kg2 h4 27. Nd5 h3+ 28. Kg1
+Rxf3 29. g4 Kg7 30. Rxf3 Qxf3 31. Qxf3 Rxf3 32. Rf1 Rxf1+ 33. Kxf1 Bxa5 34. Ne7
+Kf6 35. Nf5 Ke6 36. Ng3 Bd8 37. Nh1 a5 38. Ke2 d5 39. Nf2 Kd6 40. exd5 Kxd5 41.
+Ne4 Kc6 42. Kd2 Be7 43. Kc1 Kb5 44. Kb2 a4 45. Ka2 a3 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.27"]
+[Round "14.3"]
+[White "Kramnik, Vladimir"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2800"]
+[BlackElo "2809"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "4101588"]
+[BlackFideId "13401319"]
+[EventDate "2018.03.10"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Qd6 8. Na3
+Rd8 9. Naxc4 Qa6 10. Qc2 Rxd4 11. Bg5 Nbd7 12. Rfd1 Rxd1+ 13. Rxd1 Nxe5 14. Nxe5
+Qa5 15. Bf4 Nd5 16. Be4 g6 17. Bh6 Qc5 18. Qd2 Qb4 19. Qc2 Qc5 20. Qd3 Qd6 21.
+Nc4 Qc5 22. Qf3 c6 23. Bd3 Nf6 24. e4 e5 25. Be3 Qb4 26. Nxe5 Qxb2 27. Bf4 Be6
+28. Rb1 Qxa2 29. Rxb7 Bc5 30. Kg2 Re8 31. h3 Bxf2 32. Qxf2 Bxh3+ 33. Kg1 Qxf2+
+34. Kxf2 Rxe5 35. Bxe5 Ng4+ 36. Kg1 Nxe5 37. Be2 Kg7 38. Rxa7 Kf6 39. Ra5 Bd7
+40. Kf2 Ke6 41. Ke3 Kd6 42. Ra1 h5 43. Rd1+ Ke7 44. Kd4 f6 45. Kc5 Bh3 46. Ra1
+Bg2 47. Ra4 Ke6 48. Rd4 Nf3 49. Rd8 Ng5 50. Bc4+ Ke7 51. Rg8 Nxe4+ 52. Kxc6 Nd6+
+53. Kc5 Nxc4 54. Kxc4 Kf7 1/2-1/2
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.27"]
+[Round "14.4"]
+[White "Grischuk, Alexander"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2784"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[WhiteFideId "4126025"]
+[BlackFideId "2020009"]
+[EventDate "2018.03.10"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 d5 5. Nbd2 Nxd2 6. Bxd2 Be7 7. Bd3 c5 8.
+c3 Nc6 9. O-O Bg4 10. Re1 Qd7 11. h3 Bh5 12. Bf4 Qe6 13. a3 O-O 14. b4 h6 15.
+Bg3 b6 16. Nd4 Bxd1 17. Nxe6 fxe6 18. Raxd1 c4 19. Bc2 b5 20. a4 a6 21. f3 Bg5
+22. Bf2 Bf4 23. Bc5 Rfd8 24. Bd6 Bg3 25. Re2 g5 26. Kf1 Kf7 27. Bc7 Re8 28. Bd6
+Rac8 29. Ra1 Red8 30. Bb1 Rd7 31. Ra3 d4 32. axb5 axb5 33. cxd4 Nxd4 34. Rea2
+Nc6 35. Be4 Bxe5 36. Bxc6 Rxd6 37. Bxb5 Rd1+ 38. Ke2 Rg1 39. Ke3 Rb1 40. Ra7+
+Kf6 41. Bd7 Bf4+ 42. Ke2 Rd8 43. Rc2 Rxb4 44. Bc6 c3 45. Rd7 Rc8 46. Be4 h5 47.
+Kd3 Rb2 48. Ke2 h4 49. Rd1 Ke5 50. Ra1 Rd8 51. Rd1 Rdb8 52. Ra1 Bd2 53. Ra6 Rd8
+54. Rc6 Rb1 55. Kf2 Ra1 56. Rc4 Rd4 57. Rc8 Rb4 58. Ke2 Kf4 59. Kf2 Rbb1 60.
+Rf8+ Ke5 61. Bd3 Rb2 62. Ke2 Re1+ 63. Kf2 Rc1 64. Rxb2 cxb2 65. Rb8 Bc3 66. Be4
+Bd4+ 67. Ke2 Kf4 68. Rb4 e5 69. Rb7 Kg3 0-1
+
