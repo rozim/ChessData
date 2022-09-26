@@ -12,11 +12,12 @@ from absl import flags
 
 FLAGS = flags.FLAGS
 flags.DEFINE_integer('depth', 1, 'Fixed depth')
+flags.DEFINE_bool('second', True, '')
+flags.DEFINE_integer('close', 50, 'Threshold to be equi-optimal')
+flags.DEFINE_integer('num_matches', 50, 'Number of two game matches to play')
 
 HASH = 512
 THREADS = 1
-DEPTH = 6
-CLOSE = 50
 
 engine1 = chess.engine.SimpleEngine.popen_uci('stockfish')
 engine2 = chess.engine.SimpleEngine.popen_uci('stockfish')
@@ -28,11 +29,11 @@ engine2.configure({'Threads': THREADS})
 
 
 def play_best1(engine, board):
-  return engine.analyse(board, chess.engine.Limit(depth=DEPTH)), 0
+  return engine.analyse(board, chess.engine.Limit(depth=FLAGS.depth)), 0
 
 
 def play_best2(engine, board):
-  multi = engine.analyse(board, chess.engine.Limit(depth=DEPTH), multipv=2)
+  multi = engine.analyse(board, chess.engine.Limit(depth=FLAGS.depth), multipv=2)
   assert len(multi) == 2
   if multi[0]['score'].white().is_mate():
     return multi[0], 0
@@ -40,7 +41,7 @@ def play_best2(engine, board):
   m1 = multi[1]
   s0 = m0['score'].white().score(mate_score=10000)
   s1 = m1['score'].white().score(mate_score=10000)
-  if abs(s0 - s1) < CLOSE:
+  if abs(s0 - s1) < FLAGS.close:
     return m1, 1 # 1=special
   else:
     return m0, 0
@@ -108,10 +109,15 @@ def playthrough(game):
 
 
 def read_opening():
-  return [playthrough(game) for game in gen_games('silversuite.pgn')]
+  return [playthrough(game) for game in gen_games('../Openings/merged.pgn')]
 
 
 def main(_argv):
+  print(f'Depth:    {FLAGS.depth}')
+  print(f'Second:   {FLAGS.second}')
+  print(f'Close:    {FLAGS.close}')
+  print(f'Matches:  {FLAGS.num_matches}')
+  print()
   e1_win, e1_lose, e1_draw = 0, 0, 0
 
   opening_boards = read_opening()
@@ -119,12 +125,17 @@ def main(_argv):
   random.shuffle(opening_boards)
 
   engines = [engine1, engine2]
-  plays = [play_best1, play_best2]
+  if FLAGS.second:
+    plays = [play_best1, play_best2]
+  else:
+    plays = [play_best1, play_best1]
   wwin = ['1-0', '0-1']
 
   flog = open('log.txt', 'w')
-
+  tot_special = 0
   for bnum, opening_board in enumerate(opening_boards):
+    if FLAGS.num_matches and bnum >= FLAGS.num_matches:
+      break
     print(f'Game {bnum:4d} {opening_board.fen()}')
 
     for wflip in [0, 1]:
@@ -136,6 +147,7 @@ def main(_argv):
                                               plays[wflip],
                                               plays[bflip],
                                               flog)
+      tot_special += num_special
       dt = time.time() - t1
 
       result = outcome.result()
@@ -152,13 +164,15 @@ def main(_argv):
   print(f'Win : {e1_win}')
   print(f'Lose: {e1_lose}')
   print(f'Draw: {e1_draw}')
-
-
-
+  print(f'Special: {tot_special}')
+  print()
+  print('quit/1')
+  engine1.quit()
+  print('quit/2')
+  engine2.quit()
+  print('eof')
 
 
 
 if __name__ == "__main__":
   app.run(main)
-  engine1.quit()
-  engine2.quit()
