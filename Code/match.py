@@ -113,6 +113,7 @@ def read_opening():
 
 
 def main(_argv):
+  t0 = time.time()
   print(f'Depth:    {FLAGS.depth}')
   print(f'Second:   {FLAGS.second}')
   print(f'Close:    {FLAGS.close}')
@@ -160,17 +161,26 @@ def main(_argv):
       print(f'Game {bnum:4d}.{wflip:1d} over: {result:8s} #2: {num_special:3d} {dt:4.1f}s | win:{e1_win:3d} lose:{e1_lose:3d} draw:{e1_draw:3d} | {board.fen()}')
 
   flog.close()
+
+  def _pc(a, b):
+    return 100.0 * ((a + 0.0) / (b + 0.0))
+
+  ng = e1_win + e1_lose + e1_draw
   print()
-  print(f'Win : {e1_win}')
-  print(f'Lose: {e1_lose}')
-  print(f'Draw: {e1_draw}')
-  print(f'Special: {tot_special}')
+  print(f'Elapsed:  {time.time() - t0:.1f}s')
+  print(f'Games:    {ng}')
   print()
-  print('quit/1')
+
+
+  print(f'Win :     {e1_win:3d} {_pc(e1_win, ng):.1f}%')
+  print(f'Lose:     {e1_lose:3d} {_pc(e1_lose, ng):.1f}%')
+  print(f'Draw:     {e1_draw:3d} {_pc(e1_draw, ng):.1f}%')
+  print()
+  print(f'Special:  {tot_special}')
+  print()
   engine1.quit()
-  print('quit/2')
   engine2.quit()
-  print('eof')
+  print('finis')
 
 
 
