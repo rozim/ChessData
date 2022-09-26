@@ -1,0 +1,250 @@
+﻿[Event "?"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Ruy Lopez"]
+[Black "Schliemann/Jaenisch gambit"]
+[Result "*"]
+[ECO "C63"]
+[PlyCount "24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6 Qg5
+8. Qe2 Nf6 9. f4 Qxf4 10. Nxa7+ Bd7 11. Bxd7+ Kxd7 12. Qb5+ Ke6 *
+
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Evans gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "C52"]
+[PlyCount "16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O dxc3 8.
+Qb3 Qf6 *
+
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Two Knights"]
+[Black "gambit"]
+[Result "*"]
+[ECO "C59"]
+[PlyCount "17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Be2 h6 9. Nh3 *
+
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Two Knights"]
+[Black "Fried Liver attack"]
+[Result "*"]
+[ECO "C57"]
+[PlyCount "27"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. Nxf7 Kxf7 7. Qf3+ Ke6
+8. Nc3 Ncb4 9. O-O c6 10. d4 Qf6 11. Qe2 Ke7 12. dxe5 Qg6 13. Ne4 Bf5 14. f3 *
+
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Scotch"]
+[Black "Göring gambit"]
+[Result "*"]
+[ECO "C57"]
+[PlyCount "9"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Nxc3 *
+
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "King's gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "C37"]
+[PlyCount "17"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bg7 8. d4
+O-O 9. O-O *
+
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "King's gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "C33"]
+[PlyCount "13"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 Qh4+ 4. Ke2 d5 5. Nxd5 Bg4+ 6. Nf3 Bd6 7. d4 *
+
+[Event "?"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Vienna Game"]
+[Black "Frankenstein-Dracula gambit"]
+[Result "*"]
+[ECO "C27"]
+[PlyCount "20"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Qh5 Nd6 5. Bb3 Nc6 6. Nb5 g6 7. Qf3 f5 8.
+Qd5 Qe7 9. Nxc7+ Kd8 10. Nxa8 b6 *
+
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sicilian"]
+[Black "Wing gambit"]
+[Result "*"]
+[ECO "B20"]
+[PlyCount "21"]
+
+1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Nf3 e5 6. c4 Qe6 7. Bd3 e4 8. O-O
+Qf6 9. Bxe4 Qxa1 10. Qb3 Qf6 11. Re1 *
+
+[Event "?"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "French"]
+[Black "Alekhine gambit"]
+[Result "*"]
+[ECO "C15"]
+[PlyCount "11"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qg4 Nf6 5. Qxg7 Rg8 6. Qh6 c5 *
+
+[Event "?"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caro-Kann"]
+[Black "Fantasy gambit"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "11"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Bc4 *
+
+[Event "?"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Scandinavian"]
+[Black "Portuguese gambit"]
+[Result "*"]
+[ECO "B01"]
+[PlyCount "14"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. f3 Bf5 5. c4 e6 6. dxe6 Nc6 7. Be3 Qe7 *
+
+[Event "?"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Lisitsin gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "A04"]
+[PlyCount "9"]
+
+1. Nf3 f5 2. e4 fxe4 3. Ng5 d5 4. d3 Qd6 5. Nc3 *
+
+[Event "?"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dutch"]
+[Black "Staunton gambit"]
+[Result "*"]
+[ECO "A83"]
+[PlyCount "12"]
+
+1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 Nc6 5. d5 Ne5 *
+
+[Event "?"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dutch"]
+[Black "Korchnoi gambit"]
+[Result "*"]
+[ECO "A80"]
+[PlyCount "6"]
+
+1. d4 f5 2. h3 Nf6 3. g4 *
+
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Semi-Slav"]
+[Black "Marshall gambit"]
+[Result "*"]
+[ECO "D31"]
+[PlyCount "14"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4 Qxe4+ *
+
+[Event "?"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Semi-Slav"]
+[Black "Botwinnik variation"]
+[Result "*"]
+[ECO "D44"]
+[PlyCount "31"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 Qb6 13. Bg2 O-O-O 14. O-O c5 15.
+d5 b4 16. Rb1 *
+
+[Event "?"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Trompovski"]
+[Black "gambit line"]
+[Result "*"]
+[ECO "A45"]
+[PlyCount "17"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. f3 Qa5+ 5. c3 Nf6 6. d5 Qb6 7. e4 Qxb2 8. Nd2
+Qxc3 9. Bc7 *
+
+[Event "?"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Benko gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 e6 6. e4 exd5 7. e5 Qe7 8. Qe2 Ng8
+9. Nc3 Bb7 10. Nh3 c4 *
+
+[Event "Netherlands"]
+[Site "Netherlands"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blumenfeld gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "E10"]
+[PlyCount "14"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nf3 b5 5. dxe6 fxe6 6. cxb5 a6 7. e3 Be7 *

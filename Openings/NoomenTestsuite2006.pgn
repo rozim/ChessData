@@ -1,0 +1,423 @@
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen01"]
+[Black "Sicilian Najdorf 6.Be3"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "28"]
+[EventDate "1998.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+Be7 9. Qd2 O-O 10. O-O-O Nbd7 11. g4 b5 12. g5 b4 13. Ne2 Ne8 14. Kb1 a5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen02"]
+[Black "Sicilian Taimanov"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "21"]
+[EventDate "1998.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8.
+O-O-O Bb4 9. f3 Ne5 10. Nb3 b5 11. Qe1 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen03"]
+[Black "Sicilian Sveshnikov"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "30"]
+[EventDate "1998.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. a4 bxa4 14. Rxa4 a5
+15. Bc4 Rb8 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen04"]
+[Black "Anti-Sicilian 3.Nc3"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "15"]
+[EventDate "1998.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 d6 6. O-O Nf6 7. Ng5 O-O 8. f4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen05"]
+[Black "Ruy Lopez Anti-Marshall"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "26"]
+[EventDate "1998.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d6 10. a3 Na5 11. Ba2 c5 12. Nbd2 Nc6 13. Nf1 Bc8 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen06"]
+[Black "Ruy Lopez Marshall"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "31"]
+[EventDate "1998.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15.
+Re4 g5 16. Qf1 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen07"]
+[Black "Ruy Lopez Chigorin"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "34"]
+[EventDate "1998.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3 a5 15.
+Be3 a4 16. Nbd2 Bd7 17. Rc1 Qb7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen08"]
+[Black "Ruy Lopez Berlin Wall"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "20"]
+[EventDate "1998.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Ne7 10. h3 h6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen09"]
+[Black "Caro-Kann Capablanca"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "27"]
+[EventDate "1998.??.??"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Ngf6 12. O-O-O Be7 13. Kb1 O-O 14. Ne4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen10"]
+[Black "Caro-Kann Karpov system"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "24"]
+[EventDate "1998.??.??"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Ng5 Ngf6 6. Bd3 e6 7. N1f3 Bd6 8.
+Qe2 h6 9. Ne4 Nxe4 10. Qxe4 Qc7 11. Qg4 Kf8 12. O-O c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen11"]
+[Black "Caro-Kann Advance 3.e5"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "12"]
+[EventDate "1998.??.??"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Be3 e6 5. Nd2 Nd7 6. Ngf3 Ne7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen12"]
+[Black "French Steinitz variation"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "17"]
+[EventDate "1998.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2 b5
+9. a3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen13"]
+[Black "French Classical"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "22"]
+[EventDate "1998.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 gxf6 7. Nf3 a6 8.
+g3 b5 9. Bg2 Bb7 10. Qe2 Nd7 11. O-O O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen14"]
+[Black "Pirc Defence"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "12"]
+[EventDate "1998.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2 b5 6. f3 Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen15"]
+[Black "Petroff Defence"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "30"]
+[EventDate "1998.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nb4 9. Be2 O-O 10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 Re8 14. cxd5 Qxd5
+15. Bf4 Rac8 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen16"]
+[Black "Slav Modern Anti-Meran"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "14"]
+[EventDate "1998.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. g4 h6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen17"]
+[Black "Slav 4... a6"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "17"]
+[EventDate "1998.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. c5 Nbd7 6. Bf4 Nh5 7. Bd2 Nhf6 8. Rc1
+g6 9. h3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen18"]
+[Black "Slav Morozevich variation"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "30"]
+[EventDate "1998.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
+g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 g5 12. Ne3 gxf4 13. Nxf5 O-O-O 14. Qc2
+Nc5 15. O-O Ne6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen19"]
+[Black "QGD Tartakower Defence"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "26"]
+[EventDate "1998.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 h6 6. Bh4 O-O 7. e3 b6 8. Be2
+Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. b4 c6 12. O-O a5 13. b5 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen20"]
+[Black "QGA Modern 3.e4"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "17"]
+[EventDate "1998.??.??"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 Nb6 6. Bd3 Nc6 7. Ne2 Bg4 8. f3
+Be6 9. Nbc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen21"]
+[Black "QGA Classical main line"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "23"]
+[EventDate "1998.??.??"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8. Qe2
+cxd4 9. Rd1 Be7 10. exd4 O-O 11. Nc3 Nd5 12. Bb3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen22"]
+[Black "Queen's Indian with Ba6"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "19"]
+[EventDate "1998.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Nc3 O-O 8. Rc1
+d5 9. cxd5 Nxd5 10. Bg2 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen23"]
+[Black "Queen's Indian Petrosian"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "25"]
+[EventDate "1998.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. e3 Be7 8. Bb5+
+c6 9. Bd3 O-O 10. O-O Nxc3 11. bxc3 c5 12. Qe2 Nd7 13. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen24"]
+[Black "Nimzo Indian Classical 4.Qc2"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "22"]
+[EventDate "1998.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8.
+e3 d6 9. f3 Nbd7 10. Bd3 c5 11. Ne2 Rc8 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen25"]
+[Black "Nimzo Indian 4.e3"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "19"]
+[EventDate "1998.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 O-O 7. O-O d5 8. cxd5
+exd5 9. a3 Bd6 10. b4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen26"]
+[Black "Grunfeld with Bc4"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "30"]
+[EventDate "1998.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O Qc7 11. Rc1 Rd8 12. Bf4 Qd7 13. d5 Ne5 14. Bxe5 Bxe5
+15. f4 Bg7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen27"]
+[Black "Grunfeld with Bg5"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "16"]
+[EventDate "1998.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 Bg7 7. cxd5 Qxd5 8.
+e3 c5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen28"]
+[Black "Benko gambit"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "28"]
+[EventDate "1998.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. Nf3 Bg7 10. g3 O-O 11. Kg2 Nbd7 12. Re1 Qb6 13. h3 Rfb8 14. Re2 Qa6
+*
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen29"]
+[Black "Modern Benoni"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "26"]
+[EventDate "1998.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O a6 10. a4 Bg4 11. Bf4 Bxf3 12. Bxf3 Qe7 13. Re1 Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2006.??.??"]
+[Round "?"]
+[White "Noomen30"]
+[Black "English Hedgehog"]
+[Result "*"]
+[Annotator "Noomen-Testsuite 2006"]
+[PlyCount "24"]
+[EventDate "1998.??.??"]
+
+1. c4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 5. O-O e6 6. Nc3 Be7 7. Re1 d6 8. e4 a6
+9. d4 cxd4 10. Nxd4 Qc7 11. Be3 Nbd7 12. Rc1 O-O *
+

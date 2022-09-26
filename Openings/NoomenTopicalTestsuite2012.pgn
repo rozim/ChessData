@@ -1,0 +1,696 @@
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Ruy Lopez"]
+[Black "Breyer"]
+[Result "*"]
+[ECO "C95"]
+[PlyCount "30"]
+[EventDate "2012.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 Re8 13. Nf1 Bf8 14. Bg5 h6 15.
+Bh4 Be7 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Ruy Lopez"]
+[Black "Central Attack"]
+[Result "*"]
+[ECO "C91"]
+[PlyCount "24"]
+[EventDate "2012.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. d4 Bg4 10. Be3 Bh5 11. h3 Bg6 12. Nbd2 Qd7 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Ruy Lopez"]
+[Black "6.d3"]
+[Result "*"]
+[ECO "C84"]
+[PlyCount "15"]
+[EventDate "2012.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c4 O-O 8. h3 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Ruy Lopez"]
+[Black "Berlin 4.Qe2"]
+[Result "*"]
+[ECO "C65"]
+[PlyCount "16"]
+[EventDate "2012.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 Bd6 5. c3 O-O 6. d3 Re8 7. Nbd2 Bf8 8.
+Nf1 d6 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Giuoco Piano"]
+[Black "6... d5!?"]
+[Result "*"]
+[ECO "C50"]
+[PlyCount "18"]
+[EventDate "2012.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O O-O 6. Nbd2 d5 7. exd5 Nxd5 8.
+Re1 Nf6 9. h3 a6 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "French"]
+[Black "Advance Variation"]
+[Result "*"]
+[ECO "C02"]
+[PlyCount "12"]
+[EventDate "2012.??.??"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 f6 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "French"]
+[Black "Tarrasch"]
+[Result "*"]
+[ECO "C06"]
+[PlyCount "31"]
+[EventDate "2012.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qc7 12. g3 O-O 13. Bf4 Ng4 14. Bxd6 Qxd6
+15. Nc3 e5 16. dxe5 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "French"]
+[Black "Tarrasch 2"]
+[Result "*"]
+[ECO "C06"]
+[PlyCount "26"]
+[EventDate "2012.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O O-O 12. Bf4 Nh5 13. Bxd6 Qxd6 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "French"]
+[Black "Winawer 6... Qa5"]
+[Result "*"]
+[ECO "C18"]
+[PlyCount "22"]
+[EventDate "2012.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Qa4 8. Qb1
+c4 9. h4 Nc6 10. h5 Bd7 11. Ne2 O-O-O *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Sicilian"]
+[Black "Dragon Yugoslav Attack"]
+[Result "*"]
+[ECO "B76"]
+[PlyCount "29"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Bxd4 13. Qxd4 Qb6 14. Na4
+Qc7 15. Nc5 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Sicilian"]
+[Black "Dragon Yugoslav Attack 2"]
+[Result "*"]
+[ECO "B76"]
+[PlyCount "21"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. Kb1 Rb8 11. Nb3 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Sicilian"]
+[Black "Dragon Yugoslav Attack 3"]
+[Result "*"]
+[ECO "B76"]
+[PlyCount "28"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. g4 Be6 10. Nxe6 fxe6 11. O-O-O Ne5 12. Be2 Qc8 13. Bh6 Bxh6 14. Qxh6 Qc5
+*
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Sicilian"]
+[Black "Dragon Yugoslav Attack 4"]
+[Result "*"]
+[ECO "B78"]
+[PlyCount "29"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. Kb1 Re8 13. h4 h5 14. Bg5 Rc5 15.
+Rhe1 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Sicilian"]
+[Black "Sveshnikov 13.Nxb5!?"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "29"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bd3 Be6 12. c3 Bg7 13. Nxb5 axb5 14. Bxb5
+Bd7 15. exf5 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Sicilian"]
+[Black "Kan"]
+[Result "*"]
+[ECO "B43"]
+[PlyCount "19"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Qb6 7. Nb3 Qc7 8. O-O
+Bb7 9. Qe2 Nf6 10. f4 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Sicilian"]
+[Black "Taimanov"]
+[Result "*"]
+[ECO "B48"]
+[PlyCount "20"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 Nf6 7. f4 Bb4 8.
+Ndb5 Qa5 9. e5 Nd5 10. Bd2 Nxc3 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Sicilian"]
+[Black "Taimanov 2"]
+[Result "*"]
+[ECO "B48"]
+[PlyCount "23"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 Nf6 7. f4 Bb4 8.
+Ndb5 Qa5 9. e5 Ne4 10. Bd3 Nxc3 11. bxc3 Bxc3+ 12. Kf2 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Sicilian"]
+[Black "Perenyi Attack"]
+[Result "*"]
+[ECO "B81"]
+[PlyCount "27"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 e5 8. Nf5
+g6 9. g5 gxf5 10. exf5 d5 11. Qf3 Ne4 12. Nxe4 dxe4 13. Qxe4 Nc6 14. Bc4 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Sicilian"]
+[Black "Perenyi Attack 2"]
+[Result "*"]
+[ECO "B81"]
+[PlyCount "26"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 e5 8. Nf5
+g6 9. g5 gxf5 10. exf5 d5 11. Qf3 d4 12. O-O-O Nbd7 13. Bd2 Bb4 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Sicilian"]
+[Black "Najdorf English Attack"]
+[Result "*"]
+[ECO "B80"]
+[PlyCount "34"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8. Qd2
+Nbd7 9. g4 b4 10. Nce2 h6 11. O-O-O Qc7 12. h4 d5 13. Bf4 e5 14. Bh2 dxe4 15.
+g5 hxg5 16. hxg5 Rxh2 17. Rxh2 exd4 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Sicilian"]
+[Black "Najdorf Main Line 13... 0-0!?"]
+[Result "*"]
+[ECO "B99"]
+[PlyCount "27"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 O-O 14. Rg1 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Sicilian"]
+[Black "2.c3 d5"]
+[Result "*"]
+[ECO "B22"]
+[PlyCount "11"]
+[EventDate "2012.??.??"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Bf5 6. Be3 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Scandinavian"]
+[Black "Main Line 7... Bb4!?"]
+[Result "*"]
+[ECO "B01"]
+[PlyCount "14"]
+[EventDate "2012.??.??"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Bc4 e6 7. Bd2 Bb4 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Modern Defence"]
+[Black "Classical"]
+[Result "*"]
+[ECO "B06"]
+[PlyCount "15"]
+[EventDate "2012.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 c6 5. Be3 Nd7 6. Bd3 b5 7. Qd2 Bb7 8. O-O *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Caro Kann"]
+[Black "Advance Variation"]
+[Result "*"]
+[ECO "B12"]
+[PlyCount "21"]
+[EventDate "2012.??.??"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 8. Nd2
+Nbc6 9. N2f3 Bg4 10. O-O Bxf3 11. Nxf3 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Slav"]
+[Black "Marshall Gambit 9... Nh6!?"]
+[Result "*"]
+[ECO "D31"]
+[PlyCount "18"]
+[EventDate "2012.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4 Qxe4+
+8. Be2 Na6 9. Bd6 Nh6 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Queen's Gambit"]
+[Black "Vienna Variation"]
+[Result "*"]
+[ECO "D39"]
+[PlyCount "13"]
+[EventDate "2012.??.??"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Bb4 5. a3 Bxc3+ 6. bxc3 dxc4 7. Bg5 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Queen's Pawn"]
+[Black "Trompovsky Variation"]
+[Result "*"]
+[ECO "A45"]
+[PlyCount "16"]
+[EventDate "2012.??.??"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 c5 4. e5 h6 5. Bc1 Nd5 6. c4 Nb6 7. dxc5 Bxc5 8. Qg4
+Kf8 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Queen's Pawn"]
+[Black "London System"]
+[Result "*"]
+[ECO "A48"]
+[PlyCount "16"]
+[EventDate "2012.??.??"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nf3 O-O 5. Be2 d6 6. O-O Nbd7 7. h3 b6 8. a4
+a6 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Queen's Pawn"]
+[Black "Anti-Kings Indian"]
+[Result "*"]
+[ECO "A49"]
+[PlyCount "12"]
+[EventDate "2012.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 c5 5. c3 Qc7 6. O-O O-O *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Queen's Pawn"]
+[Black "Veresov"]
+[Result "*"]
+[ECO "D01"]
+[PlyCount "12"]
+[EventDate "2012.??.??"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 h6 4. Bxf6 exf6 5. e3 c6 6. Bd3 f5 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "King's Indian"]
+[Black "Fianchetto Variation"]
+[Result "*"]
+[ECO "E63"]
+[PlyCount "17"]
+[EventDate "2012.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d6 6. Bg2 Nc6 7. O-O a6 8. b3
+Rb8 9. Nd5 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "King's Indian"]
+[Black "Fianchetto Variation 8.Qd3!?"]
+[Result "*"]
+[ECO "E63"]
+[PlyCount "15"]
+[EventDate "2012.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. g3 d6 6. Bg2 Nc6 7. O-O a6 8. Qd3 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "King's Indian"]
+[Black "Samisch Byrne System"]
+[Result "*"]
+[ECO "E81"]
+[PlyCount "14"]
+[EventDate "2012.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c6 7. Qd2 a6 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "King's Indian"]
+[Black "Makagonov Variation"]
+[Result "*"]
+[ECO "E90"]
+[PlyCount "14"]
+[EventDate "2012.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 e5 7. d5 a5 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "King's Indian"]
+[Black "Main Line 9.b4"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "26"]
+[EventDate "2012.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. a4 f5 11. c5 Nf4 12. Bc4 fxe4 13. Nxe4 Bg4 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "King's Indian"]
+[Black "Main Line 9.b4 Ne8!?"]
+[Result "*"]
+[ECO "E97"]
+[PlyCount "20"]
+[EventDate "2012.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Ne8 10. c5 f5 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Nimzo Indian"]
+[Black "Classical 5.e4"]
+[Result "*"]
+[ECO "E32"]
+[PlyCount "29"]
+[EventDate "2012.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 c5 8. Nf3
+cxd4 9. Nxd4 Nd7 10. Bf4 Ndc5 11. O-O Bxc3 12. bxc3 Bd7 13. Be2 Na4 14. cxd5
+exd5 15. c4 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Nimzo Indian"]
+[Black "Classical 5.e4 (2)"]
+[Result "*"]
+[ECO "E32"]
+[PlyCount "29"]
+[EventDate "2012.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 c5 8. Nf3
+cxd4 9. Nxd4 Nd7 10. Bf4 Ndc5 11. O-O Bxc3 12. bxc3 Nxd3 13. Qxd3 b6 14. cxd5
+exd5 15. Rfd1 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Nimzo Indian"]
+[Black "Classical 4... d5"]
+[Result "*"]
+[ECO "E35"]
+[PlyCount "25"]
+[EventDate "2012.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bh4 c5 8.
+dxc5 g5 9. Bg3 Ne4 10. O-O-O Bxc3 11. f3 Bd2+ 12. Rxd2 Nxd2 13. Qxd2 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Nimzo Indian"]
+[Black "Delayed Samisch"]
+[Result "*"]
+[ECO "E53"]
+[PlyCount "19"]
+[EventDate "2012.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4 8.
+Bxc4 c5 9. Nf3 Qc7 10. Qd3 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Nimzo Indian"]
+[Black "4.e3 b6"]
+[Result "*"]
+[ECO "E43"]
+[PlyCount "18"]
+[EventDate "2012.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 Ne4 7. Qc2 f5 8. O-O
+Bxc3 9. bxc3 O-O *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Dutch Defence"]
+[Black "Leningrad"]
+[Result "*"]
+[ECO "A88"]
+[PlyCount "17"]
+[EventDate "2012.??.??"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. c4 d6 6. O-O O-O 7. Nc3 c6 8. Qb3
+Na6 9. Rd1 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Dutch Defence"]
+[Black "Leningrad 2"]
+[Result "*"]
+[ECO "A88"]
+[PlyCount "30"]
+[EventDate "2012.??.??"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. c4 d6 6. O-O O-O 7. Nc3 c6 8. d5 e5
+9. dxe6 Bxe6 10. b3 Na6 11. Ng5 Qe7 12. Bb2 Rad8 13. Nxe6 Qxe6 14. Qc2 Rfe8 15.
+Rad1 Nc5 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Neo-Catalan"]
+[Black "5.Qa4+ with 7.Qc2"]
+[Result "*"]
+[ECO "A13"]
+[PlyCount "21"]
+[EventDate "2012.??.??"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 dxc4 5. Qa4+ c6 6. Qxc4 b5 7. Qc2 Bb7 8.
+Nc3 Nbd7 9. O-O a6 10. a4 Rc8 11. d3 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Neo-Catalan"]
+[Black "5.Qa4+ with 7.Qb3!?"]
+[Result "*"]
+[ECO "A13"]
+[PlyCount "18"]
+[EventDate "2012.??.??"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 dxc4 5. Qa4+ c6 6. Qxc4 b5 7. Qb3 Bb7 8.
+O-O Nbd7 9. d4 Be7 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Neo-Catalan"]
+[Black "5.Qa4+ Nbd7"]
+[Result "*"]
+[ECO "A13"]
+[PlyCount "17"]
+[EventDate "2012.??.??"]
+
+1. Nf3 d5 2. c4 e6 3. g3 Nf6 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Qb3 c5 8.
+a4 Rb8 9. a5 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Reti"]
+[Black "2... d4 3.b4 f6"]
+[Result "*"]
+[ECO "A09"]
+[PlyCount "8"]
+[EventDate "2012.??.??"]
+
+1. Nf3 d5 2. c4 d4 3. b4 f6 4. e3 e5 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Reti"]
+[Black "Reversed Benko Gambit"]
+[Result "*"]
+[ECO "A09"]
+[PlyCount "11"]
+[EventDate "2012.??.??"]
+
+1. Nf3 d5 2. c4 d4 3. b4 c5 4. e3 dxe3 5. fxe3 cxb4 6. a3 *
+
+[Event "Topical Testsuite 2012"]
+[Site "Apeldoorn"]
+[Date "2012.04.15"]
+[Round "?"]
+[White "Reti"]
+[Black "Reversed Benko Gambit 2"]
+[Result "*"]
+[ECO "A09"]
+[PlyCount "11"]
+[EventDate "2012.??.??"]
+
+1. Nf3 d5 2. c4 d4 3. b4 c5 4. e3 dxe3 5. fxe3 cxb4 6. d4 *
+
