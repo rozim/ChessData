@@ -19,7 +19,7 @@ flags.DEFINE_string('pgn', None, 'Input')
 flags.DEFINE_string('prefix', None, 'Output')
 flags.DEFINE_string('event', None, 'PGN header filter')
 
-flags.DEFINE_integer('min_ply', 20, 'Starting ply')
+flags.DEFINE_integer('min_ply', 19, 'Starting ply')
 flags.DEFINE_integer('max_ply', 120, 'Ending ply')
 
 flags.DEFINE_integer('n', 10, 'sharding')
@@ -27,8 +27,6 @@ flags.DEFINE_integer('n', 10, 'sharding')
 flags.mark_flag_as_required('pgn')
 flags.mark_flag_as_required('prefix')
 
-#MIN_PLY = 20
-#MAX_PLY = 120
 MAX_GAMES = 0
 
 def gen_games(fn):
@@ -87,6 +85,7 @@ def main(argv):
       if sfen in already:
         dups += 1
         continue
+      #print(ply, board.turn, sfen)
       already.add(sfen)
       adds += 1
 
