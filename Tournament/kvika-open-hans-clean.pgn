@@ -1,0 +1,237 @@
+[Event "Kvika Reykjavik Open 2022"]
+[Site "Reykjavik ISL"]
+[Date "2022.04.06"]
+[Round "1.3"]
+[White "Niemann,Hans Moke"]
+[Black "Johansson,CF"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "CM"]
+[WhiteElo "2637"]
+[BlackElo "2221"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[EventDate "2022.04.06"]
+[PlyCount "95"]
+[WhiteFideId "2093596"]
+[BlackFideId "1701576"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 Ngf6 6. Re1 e5 7. c3 Be7 8.
+a4 Nf8 9. Bf1 Ng6 10. d4 Bg4 11. dxc5 dxc5 12. Qxd8+ Rxd8 13. Nbd2 O-O 14.
+h3 Bd7 15. Nc4 Bc6 16. Bg5 h6 17. Bxf6 Bxf6 18. Na5 Ne7 19. b4 cxb4 20.
+cxb4 b5 21. Rac1 Rc8 22. Rc5 Be8 23. axb5 Rxc5 24. bxc5 Bxb5 25. Bxb5 axb5
+26. Rb1 Rb8 27. Kf1 b4 28. Ke2 Ra8 29. Ra1 Nc6 30. Nb3 Ra3 31. Rxa3 bxa3
+32. Ne1 a2 33. Nc2 Bd8 34. Kd3 Kf8 35. Kc4 Ke8 36. Nc1 Nd4 37. Na1 Kd7 38.
+Nxa2 Ba5 39. Nb3 Nxb3 40. Kxb3 g6 41. Nb4 h5 42. Kc4 f5 43. f3 h4 44. Nd3
+Ke6 45. Kb5 Bd8 46. Kc6 f4 47. Kb7 g5 48. Nb2 1-0
+
+[Event "Kvika Reykjavik Open 2022"]
+[Site "Reykjavik ISL"]
+[Date "2022.04.07"]
+[Round "2.3"]
+[White "Sukandar,I"]
+[Black "Niemann,Hans Moke"]
+[Result "0-1"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2386"]
+[BlackElo "2637"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[EventDate "2022.04.06"]
+[PlyCount "74"]
+[WhiteFideId "7101937"]
+[BlackFideId "2093596"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. d3 Bg7 6. Be3 Rb8 7. Nge2 d5
+8. exd5 cxd5 9. Bxc5 d4 10. Ne4 f5 11. N4g3 Qd5 12. b4 Qxg2 13. Qd2 Qd5 14.
+Bxa7 Ra8 15. Bc5 e5 16. c4 Qc6 17. f4 Bh6 18. Rf1 Nf6 19. Qb2 Rb8 20. Ba7
+Rb7 21. fxe5 Ng4 22. Bxd4 Nxh2 23. b5 Qg2 24. Rf2 Qh3 25. c5 Ng4 26. c6 Re7
+27. b6 O-O 28. Qb3+ Be6 29. Qb4 Ree8 30. b7 Qh4 31. c7 Nxf2 32. Kxf2 f4 33.
+Rg1 fxg3+ 34. Ke1 g2+ 35. Kd1 Qg4 36. b8=Q Rf1+ 37. Qe1 Qxe2+ 0-1
+
+[Event "Kvika Reykjavik Open 2022"]
+[Site "Reykjavik ISL"]
+[Date "2022.04.07"]
+[Round "3.2"]
+[White "Niemann,Hans Moke"]
+[Black "Beerdsen,Thomas"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteElo "2637"]
+[BlackElo "2496"]
+[ECO "B51"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[EventDate "2022.04.06"]
+[PlyCount "59"]
+[WhiteFideId "2093596"]
+[BlackFideId "1030108"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 Ngf6 6. Re1 e5 7. a4 Be7 8.
+c3 O-O 9. Bf1 Re8 10. d4 exd4 11. cxd4 cxd4 12. Nxd4 d5 13. exd5 Nb6 14.
+Nc3 Nbxd5 15. Qb3 Bc5 16. Rxe8+ Qxe8 17. Nxd5 Bxd4 18. Nxf6+ Bxf6 19. Be3
+Bd7 20. Qxb7 Bc6 21. Qb4 Rb8 22. Bb6 a5 23. Qxa5 Qe4 24. Rc1 Bxb2 25. Rc4
+Qe6 26. Qc5 Bd5 27. Rc2 Be5 28. a5 Qf5 29. Bc7 Rc8 30. Qxd5 1-0
+
+[Event "Kvika Reykjavik Open 2022"]
+[Site "Reykjavik ISL"]
+[Date "2022.04.08"]
+[Round "4.1"]
+[White "Jarmula,L"]
+[Black "Niemann,Hans Moke"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2434"]
+[BlackElo "2637"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[EventDate "2022.04.06"]
+[PlyCount "113"]
+[WhiteFideId "1160664"]
+[BlackFideId "2093596"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 d4 12. Nb3 d3 13. Nxc5 dxc2 14.
+Qxd8+ Rxd8 15. Nxe6 fxe6 16. Be3 Rd5 17. Rfc1 Nxe5 18. Nxe5 Rxe5 19. Rxc2
+Kf7 20. c4 Bd6 21. g3 Rb8 22. b3 a5 23. Rd1 bxc4 24. bxc4 Rd8 25. c5 Be7
+26. Rb1 Ra8 27. Rb7 Bd8 28. c6 Ra6 29. Ba7 Re1+ 30. Kg2 Ke7 31. Rd2 Rxc6
+32. Rb8 Rd6 33. Bc5 Rc1 34. Bxd6+ cxd6 35. Rdb2 Kd7 36. R2b7+ Bc7 37. Rg8
+Kc6 38. Rb2 d5 39. Re2 e5 40. Rxg7 d4 41. Kf3 Kd5 42. Rb2 e4+ 43. Ke2 Bd6
+44. Rg5+ Kc4 45. Kd2 Rf1 46. Rc2+ Kb4 47. Rd5 Rxf2+ 48. Kc1 Rf1+ 49. Kb2 d3
+50. Rd4+ Kb5 51. a4+ Kb6 52. Rxd6+ Kb7 53. Rg2 Kc7 54. Re6 Re1 55. Rd2 Kd7
+56. Re5 Kd6 57. Rxa5 1-0
+
+[Event "Kvika Reykjavik Open 2022"]
+[Site "Reykjavik ISL"]
+[Date "2022.04.09"]
+[Round "5.4"]
+[White "Niemann,Hans Moke"]
+[Black "Gretarsson,Hj"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2637"]
+[BlackElo "2542"]
+[ECO "B47"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[EventDate "2022.04.06"]
+[PlyCount "73"]
+[WhiteFideId "2093596"]
+[BlackFideId "2302241"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. Nxc6 bxc6
+8. Qd3 d5 9. Qg3 Qxg3 10. hxg3 Nf6 11. g4 Bb4 12. Bd2 O-O 13. e5 Nd7 14. f4
+f6 15. exf6 Nxf6 16. g5 Nd7 17. O-O-O e5 18. Rh4 Be7 19. Bd3 h6 20. Rh2 Nc5
+21. gxh6 Nxd3+ 22. cxd3 exf4 23. hxg7 Kxg7 24. Rdh1 Bg5 25. Rh7+ Kg6 26.
+Rc7 Be6 27. Rxc6 Rf6 28. Re1 Bf7 29. Rxf6+ Bxf6 30. Ne2 Rc8+ 31. Kb1 Bh4
+32. Nxf4+ Kf5 33. Rf1 Kg4 34. Ne2 Bg8 35. Rf4+ Kh5 36. Ra4 Bh7 37. Nf4+ 1-0
+
+[Event "Kvika Reykjavik Open 2022"]
+[Site "Reykjavik ISL"]
+[Date "2022.04.10"]
+[Round "6.3"]
+[White "Hjartarson,J"]
+[Black "Niemann,Hans Moke"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2465"]
+[BlackElo "2637"]
+[ECO "A20"]
+[Opening "English opening"]
+[EventDate "2022.04.06"]
+[PlyCount "53"]
+[WhiteFideId "2300044"]
+[BlackFideId "2093596"]
+
+1. c4 e5 2. g3 c6 3. d4 e4 4. Nc3 d5 5. Nh3 h6 6. cxd5 cxd5 7. Qb3 Nf6 8.
+Nf4 Nc6 9. e3 Bb4 10. Bd2 Bxc3 11. Bxc3 g5 12. Ne2 O-O 13. h3 Rb8 14. g4 b5
+15. Qd1 b4 16. Bd2 Ne7 17. Ng3 Ng6 18. Rc1 Nh4 19. Be2 Qb6 20. Rc5 Ba6 21.
+Qa4 Bxe2 22. Kxe2 Qe6 23. Rhc1 Rb6 24. Rc6 Qd7 25. b3 Rxc6 26. Rxc6 Qd8 27.
+Bxb4 1-0
+
+[Event "Kvika Reykjavik Open 2022"]
+[Site "Reykjavik ISL"]
+[Date "2022.04.10"]
+[Round "7.12"]
+[White "Niemann,Hans Moke"]
+[Black "Hedman,E"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteElo "2637"]
+[BlackElo "2362"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[EventDate "2022.04.06"]
+[PlyCount "71"]
+[WhiteFideId "2093596"]
+[BlackFideId "1702351"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Re1 c6 8.
+a4 h6 9. h3 Re8 10. a5 Qc7 11. Be3 exd4 12. Nxd4 Bf8 13. Bf4 Rb8 14. Re3 b5
+15. axb6 axb6 16. b4 b5 17. Bb3 Ne5 18. Bg3 Bd7 19. Qe2 Qb6 20. Rd1 c5 21.
+bxc5 dxc5 22. Bxe5 Rxe5 23. Nf3 Ree8 24. e5 c4 25. exf6 Rxe3 26. fxe3 Be6
+27. Ba2 Qa5 28. Qe1 b4 29. Qg3 Re8 30. fxg7 Bc5 31. Ne4 Bxe3+ 32. Kh1 Qf5
+33. Qe5 Qxe5 34. Nxe5 Kxg7 35. Nd6 Rd8 36. Nf5+ 1-0
+
+[Event "Kvika Reykjavik Open 2022"]
+[Site "Reykjavik ISL"]
+[Date "2022.04.11"]
+[Round "8.5"]
+[White "Thorfinnsson,Br"]
+[Black "Niemann,Hans Moke"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2419"]
+[BlackElo "2637"]
+[ECO "A04"]
+[Opening "Reti opening"]
+[EventDate "2022.04.06"]
+[PlyCount "119"]
+[WhiteFideId "2300958"]
+[BlackFideId "2093596"]
+
+1. Nf3 c5 2. b3 d6 3. Bb2 e5 4. e3 Nf6 5. Bb5+ Nc6 6. O-O a6 7. Bxc6+ bxc6
+8. d3 a5 9. a4 g6 10. Nbd2 Bg7 11. Nc4 O-O 12. Nfd2 Be6 13. Qe2 Qc7 14.
+Rae1 Rfe8 15. Qd1 Nd7 16. f4 Bxc4 17. Nxc4 d5 18. Nxe5 Nxe5 19. Bxe5 Bxe5
+20. fxe5 Rxe5 21. Rf6 Rae8 22. Qf3 R5e6 23. e4 R8e7 24. Rxe6 Rxe6 25. Rf1
+dxe4 26. dxe4 c4 27. h3 Qe7 28. e5 Qe8 29. bxc4 Rxe5 30. Qf6 Re6 31. Qc3
+Qd8 32. Kh1 h5 33. Qf3 Qe7 34. Qc3 Re5 35. Rb1 Kh7 36. Rf1 Kg8 37. Rd1 Qg5
+38. Qf3 Rc5 39. Qd3 Rf5 40. Qe4 Qf6 41. Qd3 h4 42. Qd8+ Qxd8 43. Rxd8+ Kg7
+44. Rd6 Rf6 45. Rd4 g5 46. Kg1 Rf4 47. Rxf4 gxf4 48. Kf2 Kf6 49. Kf3 Kf5
+50. c5 f6 51. c3 Ke5 52. Kg4 Ke4 53. Kxh4 f3 54. Kg3 fxg2 55. Kxg2 Ke3 56.
+h4 Kf4 57. Kh3 f5 58. c4 Ke3 59. Kg2 Kf4 60. Kh3 1/2-1/2
+
+[Event "Kvika Reykjavik Open 2022"]
+[Site "Reykjavik ISL"]
+[Date "2022.04.12"]
+[Round "9.6"]
+[White "Niemann,Hans Moke"]
+[Black "Thorhallsson,T"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2637"]
+[BlackElo "2422"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[EventDate "2022.04.06"]
+[PlyCount "41"]
+[WhiteFideId "2093596"]
+[BlackFideId "2300109"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 a6 4. e3 b5 5. h4 e6 6. g4 c5 7. g5 Nfd7 8. Bg2
+Nb6 9. Nf3 Nc4 10. b3 Qa5 11. O-O Nd6 12. Nxd5 exd5 13. dxc5 Nb7 14. Ne5
+Ra7 15. Nxf7 Kxf7 16. Bxb8 Bxc5 17. Qxd5+ Ke7 18. Qe5+ Kf8 19. Rad1 Qb6 20.
+Bxa7 Qxa7 21. Bxb7 1-0
+
