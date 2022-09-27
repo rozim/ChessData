@@ -68,6 +68,18 @@ def is_easy(analysis):
   return True
 
 
+# def how_hard(analysis):
+#   """How deep do they have to seach until the best move remains the best."""
+#   best16 = analysis[16]['best']
+#   ev16 = analysis[16]['ev']
+#   streak = True
+#   for depth in range(15, -1, -1):
+#     if streak:
+#       if analysis[depth]['best'] != best16:
+
+#   #return 0, 0
+#   #return depth + 1, (ev16 - analysis[depth]['ev'])
+
 
 @dataclass
 class Stats:
@@ -112,6 +124,7 @@ def study_game(game, db, details):
     played = move.uci()
     match_depth = None
     analysis = list(gen_analysis(db, board))
+    #hard, delta = how_hard(analysis)
     easy = is_easy(analysis)
 
     best16 = analysis[16]['best']
@@ -123,7 +136,13 @@ def study_game(game, db, details):
       if easy:
         color_stats[turn].missed_easy += 1
 
-    details.write(f'{ply}, {played}, {best16}\n')
+    details.write(f'{ply}, {played}, {best16} : {easy}\n')
+    if hard == 16:
+      details.write('\n')
+      details.write(board.fen() + '\n')
+      for ent in analysis:
+        details.write('\t' + str(ent) + '\n')
+      details.write('\n')
 
   wbest = color_stats[WHITE].played_best
   wnum = color_stats[WHITE].num_moves
