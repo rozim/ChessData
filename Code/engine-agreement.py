@@ -2,6 +2,7 @@ import sys
 import os
 import json
 from pprint import pprint
+from dataclasses import dataclass
 
 import time
 import sqlitedict
@@ -23,6 +24,14 @@ flags.DEFINE_integer('max_ply', 120, 'Ending ply')
 
 flags.mark_flag_as_required('pgn')
 
+
+def pc(a, b):
+  assert a >= 0 and b >= 0
+  if b == 0:
+    return 0
+  return int(100.0 * (a / b))
+
+
 def gen_games(fn):
   f = open(fn, 'r', encoding='utf-8', errors='replace')
   while True:
@@ -40,67 +49,93 @@ def gen_moves(game):
     board.push(move)
 
 
+def gen_analysis(db, board):
+  sfen = ' '.join(board.fen().split(' ')[0:4])
+  for depth in range(0, 16 + 1):
+    key = f'{sfen}|{depth}'
+    analysis = db[key][0]
+    ev = analysis['ev']
+    best = analysis['pv'][0]
+    nodes = analysis['nodes']
+    yield {'ev': ev, 'best': best, 'nodes': nodes}
+
+
+def is_easy(analysis):
+  best0 = analysis[0]['best']
+  for cur in analysis[1:]:
+    if best0 != cur['best']:
+      return False
+  return True
+
+
+
+@dataclass
+class Stats:
+  name: str
+  rating: int
+  played_best: int = 0
+  num_moves: int = 0
+  played_easy: int = 0
+  missed_easy: int = 0
+
+  def combine(self, other):
+    self.played_best += other.played_best
+    self.played_easy += other.played_easy
+    self.missed_easy += other.missed_easy
+    self.num_moves += other.num_moves
+
+
 def study_game(game, db, details):
   headers = game.headers
   white = headers['White']
   white_elo = headers['WhiteElo']
   black = headers['Black']
   black_elo = headers['BlackElo']
+
   details.write(f'Game: {white} ({white_elo}) vs {black} ({black_elo})\n')
 
+  color_stats = {WHITE: Stats(name=white,
+                              rating=white_elo),
+                 BLACK: Stats(name=black,
+                              rating=black_elo)}
 
-  sfen = None
-  ply = 0
-  color_played_best = {WHITE: 0, BLACK: 0}
-  color_num_moves = {WHITE: 0, BLACK: 0}
   for ply, move, board in gen_moves(game):
+    turn = board.turn
     if len(list(board.legal_moves)) == 1:
       details.write('FORCED\n')
       continue
     if ply < FLAGS.min_ply or (FLAGS.max_ply and ply > FLAGS.max_ply):
       continue
 
-    sfen = ' '.join(board.fen().split(' ')[0:4])
+    color_stats[turn].num_moves += 1
     matched = []
     played = move.uci()
     match_depth = None
-    best16 = db[f'{sfen}|16'][0]['pv'][0]
+    analysis = list(gen_analysis(db, board))
+    easy = is_easy(analysis)
 
-    color_num_moves[board.turn] += 1
-    for depth in range(0, 16 + 1):
-      key = f'{sfen}|{depth}'
-      analysis = db[key][0]
-      ev = analysis['ev']
-      best = analysis['pv'][0]
-      nodes = analysis['nodes']
-      if best == played:
-        if depth == 16:
-          color_played_best[board.turn] += 1
-        matched.append('*')
-        if match_depth is None:
-          match_depth = depth
-      else:
-        matched.append(' ')
-    if board.turn:
-      wb = 'w'
+    best16 = analysis[16]['best']
+    if best16 == played:
+      color_stats[turn].played_best += 1
+      if easy:
+        color_stats[turn].played_easy += 1
     else:
-      wb = 'b'
+      if easy:
+        color_stats[turn].missed_easy += 1
 
-    details.write(f'{ply}, {wb}, {played}, {best16}, {match_depth}\n')
+    details.write(f'{ply}, {played}, {best16}\n')
 
+  wbest = color_stats[WHITE].played_best
+  wnum = color_stats[WHITE].num_moves
+  bbest = color_stats[BLACK].played_best
+  bnum = color_stats[WHITE].num_moves
 
-  if sfen is None and ply == 0:
-    return
-  wbest = color_played_best[WHITE]
-  wnum = color_num_moves[WHITE]
-  bbest = color_played_best[BLACK]
-  bnum = color_num_moves[BLACK]
   print(f'Game: {white:24s} ({white_elo}) vs {black:24s} ({black_elo}) : {wbest}/{wnum} : {bbest}/{bnum}')
 
-  return {
-    white : (wbest, wnum),
-    black : (bbest, bnum)}
-
+  # A bit of a leaky hack.
+  color_stats[color_stats[WHITE].name] = color_stats[WHITE]
+  color_stats[color_stats[BLACK].name] = color_stats[BLACK]
+  return color_stats
 
 
 def main(argv):
@@ -113,30 +148,35 @@ def main(argv):
                        encode=json.dumps,
                        decode=json.loads)
 
-  xall = {}
+  total_stats = {}
   with open('engine-agreement-details.txt', 'w') as details:
     for game in gen_games(FLAGS.pgn):
-      res = study_game(game, db, details)
-      if res is None:
-        continue
+      res_stats = study_game(game, db, details)
+      white = res_stats[WHITE].name
+      black = res_stats[BLACK].name
 
-      for n, (best, num) in res.items():
-        if n in xall:
-          xall[n]['best'] += best
-          xall[n]['num'] += num
-        else:
-          print('new', n, best, num)
-          xall[n] = {'best': best, 'num': num}
+      if white in total_stats:
+        total_stats[white].combine(res_stats[WHITE])
+      else:
+        total_stats[white] = res_stats[WHITE]
+
+      if black in total_stats:
+        total_stats[black].combine(res_stats[BLACK])
+      else:
+        total_stats[black] = res_stats[BLACK]
+
+
   print()
-  #pprint(xall)
-  for name, d in xall.items():
-    best = d['best']
-    num = d['num']
-    if num == 0:
-      pct = 0
-    else:
-      pct = int(100.0 * (best / num))
-    print(f'{name:24s} {best:4d} {num:4d} {pct:3d}%')
+  for name, stats in total_stats.items():
+    best = stats.played_best
+    played_easy = stats.played_easy
+    missed_easy = stats.missed_easy
+    num = stats.num_moves
+    pct = pc(best, num)
+    pct_easy = pc(played_easy, played_easy + missed_easy)
+    pct_missed_easy = pc(missed_easy, played_easy + missed_easy)
+    rating = stats.rating
+    print(f'{name:24s} ({rating}) {best:4d} {num:4d} {pct:3d}% | easy {pct_easy:3d}% {pct_missed_easy:3d}%')
 
 
 
