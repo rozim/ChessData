@@ -59,16 +59,17 @@ def main(_argv):
     headers = game.headers
     white = headers['White']
     black = headers['Black']
+    result = headers['Result']
     for uci, san, ply, board in gen_moves(game):
       if len(list(board.legal_moves)) == 1:
         continue # Forced, only move
       if ply < FLAGS.min_ply or (FLAGS.max_ply and ply > FLAGS.max_ply):
         continue
 
-      engine.configure({"Clear Hash": None})
       sfen = simplify_fen(board)
 
       for depth in range(FLAGS.min_depth, FLAGS.max_depth):
+        engine.configure({"Clear Hash": None})
         key = f'{sfen}|{depth}'
         try:
           multi = db[key]
@@ -78,10 +79,12 @@ def main(_argv):
 
           db[key] = multi
           n_write += 1
-    dt = time.time() - t0
-    print(f'{gnum:4d} {white:24s} {black:24s} {dt:.1f}s')
+    db.commit()
+    dt = time.time() - t1
+    print(f'{gnum:4d} {white:24s} {black:24s} {result:8s} {dt:.1f}s')
 
   dt = time.time() - t0
+  print()
   print(f'Total {dt:.1f}s')
   print(f'Writes: {n_write}')
 
