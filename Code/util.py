@@ -75,3 +75,8 @@ def simplify_multi2(multi, board):
              'best_san': board.san(pv[0]),
              'pv_san': _to_san(board, pv),
              'pv': simplify_pv(pv)}
+
+
+def simplify_fen(board):
+  #rn2kbnr/ppq2pp1/4p3/2pp2Bp/2P4P/1Q6/P2NNPP1/3RK2R w Kkq - 2 13
+  return ' '.join(board.fen().split(' ')[0:4])
