@@ -59,6 +59,8 @@ def gen_games(fn):
 def play_game(board, white_engine, black_engine, white_play, black_play, flog):
   ply = -1
   num_special = 0
+  nw, nb = 0, 0 # num played
+
   while True:
     ply += 1
     outcome = board.outcome()
@@ -96,9 +98,13 @@ def play_game(board, white_engine, black_engine, white_play, black_play, flog):
       nodes = int(res['nodes'])
       star = [' ', '*'][special]
       flog.write(f'{ply:3d} {which:1d} {board.san(move):8s} {move.uci():6s}, {score:6d}, {nodes:8d}, {board.fen()} {star}\n')
+    if board.turn == WHITE:
+      nw += 1
+    else:
+      nb += 1
     board.push(move)
   flog.flush()
-  return outcome, board, num_special
+  return outcome, board, num_special, nw, nb
 
 
 def playthrough(game):
@@ -134,6 +140,7 @@ def main(_argv):
 
   flog = open('log.txt', 'w')
   tot_special = 0
+  tot_special_possible = 0
   for bnum, opening_board in enumerate(opening_boards):
     if FLAGS.num_matches and bnum >= FLAGS.num_matches:
       break
@@ -142,13 +149,19 @@ def main(_argv):
     for wflip in [0, 1]:
       bflip = 1 - wflip
       t1 = time.time()
-      outcome, board, num_special = play_game(opening_board.copy(),
-                                              engines[wflip],
-                                              engines[bflip],
-                                              plays[wflip],
-                                              plays[bflip],
-                                              flog)
+      outcome, board, num_special, nw, nb = play_game(opening_board.copy(),
+                                                      engines[wflip],
+                                                      engines[bflip],
+                                                      plays[wflip],
+                                                      plays[bflip],
+                                                      flog)
       tot_special += num_special
+      if FLAGS.second:
+        if wflip == 0:
+          tot_special_possible += nb
+        else:
+          tot_special_possible += nw
+
       dt = time.time() - t1
 
       result = outcome.result()
@@ -158,11 +171,15 @@ def main(_argv):
         e1_lose += 1
       else:
         e1_draw += 1
-      print(f'Game {bnum:4d}.{wflip:1d} over: {result:8s} #2: {num_special:3d} {dt:4.1f}s | win:{e1_win:3d} lose:{e1_lose:3d} draw:{e1_draw:3d} | {board.fen()}')
+      print(f'Game {bnum:4d}.{wflip:1d} over: {result:8s} #2: {num_special:3d} {nw:3d}:{nb:3d}:{len(board.move_stack):3d} | {dt:4.1f}s | win:{e1_win:3d} lose:{e1_lose:3d} draw:{e1_draw:3d} | {board.fen()}')
 
   flog.close()
 
   def _pc(a, b):
+    if b == 0:
+      return 0
+    assert b > 0
+    assert a > 0
     return 100.0 * ((a + 0.0) / (b + 0.0))
 
   ng = e1_win + e1_lose + e1_draw
@@ -171,12 +188,17 @@ def main(_argv):
   print(f'Games:    {ng}')
   print()
 
+  e1_points = e1_win + (e1_draw / 2.0)
 
-  print(f'Win :     {e1_win:3d} {_pc(e1_win, ng):.1f}%')
-  print(f'Lose:     {e1_lose:3d} {_pc(e1_lose, ng):.1f}%')
-  print(f'Draw:     {e1_draw:3d} {_pc(e1_draw, ng):.1f}%')
+  print(f'Points:     {e1_points} / {ng} {_pc(e1_points, ng):.1f}%')
+  print(f'Avg points: {e1_points/ng:.1f}')
   print()
-  print(f'Special:  {tot_special}')
+  print(f'Win :       {e1_win:3d} {_pc(e1_win, ng):.1f}%')
+  print(f'Lose:       {e1_lose:3d} {_pc(e1_lose, ng):.1f}%')
+  print(f'Draw:       {e1_draw:3d} {_pc(e1_draw, ng):.1f}%')
+  print()
+  print(f'Special:   {tot_special} {_pc(tot_special, tot_special_possible):.1f}%')
+  print(f'Possible:  {tot_special_possible}')
   print()
   engine1.quit()
   engine2.quit()
