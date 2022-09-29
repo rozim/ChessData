@@ -17,7 +17,6 @@ from absl import flags
 
 FLAGS = flags.FLAGS
 flags.DEFINE_string('pgn', None, 'Input')
-flags.DEFINE_string('output', None, 'Output sqlite')
 flags.DEFINE_string('reference', None, 'Reference sqlite')
 flags.DEFINE_integer('min_ply', 20, 'Starting ply')
 flags.DEFINE_integer('max_ply', 120, 'Ending ply')
@@ -87,13 +86,23 @@ class Stats:
   rating: int
   played_best: int = 0
   num_moves: int = 0
+
   played_easy: int = 0
   missed_easy: int = 0
+
+  played_not_easy: int = 0
+  missed_not_easy: int = 0
+
+  game_pc: int = -1
 
   def combine(self, other):
     self.played_best += other.played_best
     self.played_easy += other.played_easy
     self.missed_easy += other.missed_easy
+
+    self.played_not_easy += other.played_not_easy
+    self.missed_not_easy += other.missed_not_easy
+
     self.num_moves += other.num_moves
 
 
@@ -103,6 +112,8 @@ def study_game(game, db, details):
   white_elo = headers['WhiteElo']
   black = headers['Black']
   black_elo = headers['BlackElo']
+  xround = headers['Round']
+  xresult = headers['Result']
 
   details.write(f'Game: {white} ({white_elo}) vs {black} ({black_elo})\n')
 
@@ -132,24 +143,38 @@ def study_game(game, db, details):
       color_stats[turn].played_best += 1
       if easy:
         color_stats[turn].played_easy += 1
+      else:
+        color_stats[turn].played_not_easy += 1
     else:
       if easy:
         color_stats[turn].missed_easy += 1
+      else:
+        color_stats[turn].missed_not_easy += 1
 
     details.write(f'{ply}, {played}, {best16} : {easy}\n')
-    if hard == 16:
-      details.write('\n')
-      details.write(board.fen() + '\n')
-      for ent in analysis:
-        details.write('\t' + str(ent) + '\n')
-      details.write('\n')
+    # if hard == 16:
+    #   details.write('\n')
+    #   details.write(board.fen() + '\n')
+    #   for ent in analysis:
+    #     details.write('\t' + str(ent) + '\n')
+    #   details.write('\n')
+
+  wbest_not_easy = color_stats[WHITE].played_not_easy
+  wmiss_not_easy = color_stats[WHITE].missed_not_easy
+  wpc_not_easy = pc(wbest_not_easy, wbest_not_easy + wmiss_not_easy)
+  bbest_not_easy = color_stats[BLACK].played_not_easy
+  bmiss_not_easy = color_stats[BLACK].missed_not_easy
+  bpc_not_easy = pc(bbest_not_easy, bbest_not_easy + bmiss_not_easy)
 
   wbest = color_stats[WHITE].played_best
   wnum = color_stats[WHITE].num_moves
+  wpc = pc(wbest, wnum)
   bbest = color_stats[BLACK].played_best
   bnum = color_stats[WHITE].num_moves
-
-  print(f'Game: {white:24s} ({white_elo}) vs {black:24s} ({black_elo}) : {wbest}/{wnum} : {bbest}/{bnum}')
+  bpc = pc(bbest, bnum)
+  color_stats[WHITE].game_pc = wpc
+  color_stats[BLACK].game_pc = bpc
+  print(f'Game: {xround:4s} {xresult:8s} {white:24s} ({white_elo}) vs {black:24s} ({black_elo}) : {wbest:3d}/{wnum:3d} {wpc:3.0f}% : {bbest:3d}/{bnum:3d} {bpc:3.0f}% | not easy {wpc_not_easy:3.0f}% {bpc_not_easy:3.0f}%')
 
   # A bit of a leaky hack.
   color_stats[color_stats[WHITE].name] = color_stats[WHITE]
@@ -190,12 +215,15 @@ def main(argv):
     best = stats.played_best
     played_easy = stats.played_easy
     missed_easy = stats.missed_easy
+    played_not_easy = stats.played_not_easy
+    missed_not_easy = stats.missed_not_easy
     num = stats.num_moves
     pct = pc(best, num)
     pct_easy = pc(played_easy, played_easy + missed_easy)
+    pct_not_easy = pc(played_not_easy, played_not_easy + missed_not_easy)
     pct_missed_easy = pc(missed_easy, played_easy + missed_easy)
     rating = stats.rating
-    print(f'{name:24s} ({rating}) {best:4d} {num:4d} {pct:3d}% | easy {pct_easy:3d}% {pct_missed_easy:3d}%')
+    print(f'{name:24s} ({rating}) {best:4d} {num:4d} {pct:3d}% | not easy {pct_not_easy:3d} | easy {pct_easy:3d}% {pct_missed_easy:3d}%')
 
 
 
