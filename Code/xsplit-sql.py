@@ -2,42 +2,33 @@ import os
 import sys
 
 
-bytes = 25 * 1024 * 1024
-github_limit = 50 * 1024 * 1024
+THRESHOLD = 45 * 1024 * 1024
+
+
+def make_out_fn(fn, chunk):
+  return fn + '-split-' + str(chunk)
+
+
+def munch_file(fn, f):
+  chunk = 0
+  total = 0
+  out_fn = make_out_fn(fn, chunk)
+  print(out_fn)
+
+  fw = open(out_fn, 'w')
+  for line in f.readlines():
+    fw.write(line)
+    total += len(line)
+    if total >= THRESHOLD:
+      fw.close()
+      total = 0
+      chunk += 1
+      out_fn = make_out_fn(fn, chunk)
+      print(out_fn)
+      fw = open(out_fn, 'w')
+  fw.close()
 
 for fn in sys.argv[1:]:
-  assert fn.endswith(".pgn")
-  if "_part" in fn or "_chunk_" in fn:
-    continue
-  if os.stat(fn).st_size < github_limit:
-    print("Pass, small enough: {}".format(fn))
-    continue
   print("Open {}".format(fn))
-  chunk = 1  
-  base = fn[0:-4] # no ext
   with open(fn, 'r') as f:
-    ar, space = [], 0
-    prev_blank = True # 1st line in file is preceeded by a virtual blank line
-    for line in (x.strip() for x in f):
-      if prev_blank:
-        prev_blank = False
-        if space >= bytes:
-          assert space < github_limit, space
-          print "chunk {}, lines {}, bytes {}".format(chunk, len(ar), sum([len(x) for x in ar]))
-          with open("{}_part_{:02d}.pgn".format(base, chunk), 'w') as fw:
-            fw.write('\n'.join(ar))
-            chunk += 1
-          ar, space = [], 0
-      else:
-        prev_blank = (line == "")
-      ar.append(line)
-      space += len(line) + 1
-
-    if len(ar) > 0:
-      print "chunk {}, lines {}, bytes {}".format(chunk, len(ar), sum([len(x) for x in ar]))
-      with open("{}_part_{:02d}.pgn".format(base, chunk), 'w') as fw:
-        fw.write('\n'.join(ar))
-    print("RM {}".format(fn))
-    os.remove(fn)
-
-
+    munch_file(fn, f)
