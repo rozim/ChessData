@@ -14,11 +14,14 @@ import chess.engine
 from absl import app
 from absl import flags
 
+from util import *
+
 FLAGS = flags.FLAGS
 flags.DEFINE_string('fen', None, 'FEN input file')
 flags.DEFINE_string('output', None, 'Output sqlite')
 flags.DEFINE_string('reference', None, 'Reference sqlite')
 flags.DEFINE_integer('depth', 1, 'Max depth')
+flags.DEFINE_bool('debug', False, '')
 
 flags.mark_flag_as_required('fen')
 flags.mark_flag_as_required('output')
@@ -30,31 +33,6 @@ THREADS = 1 # reproducible
 
 COMMIT_FREQ_SECS = 300.0
 
-
-def simplify_pv(pv):
-  return [move.uci() for move in pv]
-
-
-def simplify_score(score, board):
-  return score.pov(WHITE).score()
-
-
-def simplify_multi(multi, board):
-  for i, m in enumerate(multi):
-    pv = m.get('pv', [])
-    nodes = m.get('nodes', 0)
-    if 'pv' not in m:
-      continue
-    assert 'score' in m, (m, 'multi=', multi, 'fen=', board.fen())
-    if i == 0: # nodes
-      yield {'ev': simplify_score(m['score'], board),
-             'pv': simplify_pv(pv),
-             'nodes': nodes}
-    else: # leave out nodes
-      yield {'ev': simplify_score(m['score'], board),
-             'pv': simplify_pv(pv)}
-
-
 def open_engine():
   engine = chess.engine.SimpleEngine.popen_uci('./stockfish')
   engine.configure({"Hash": HASH})
@@ -64,8 +42,9 @@ def open_engine():
 
 def main(argv):
   del argv
-  logging.basicConfig(level=logging.DEBUG)
-  logging.getLogger().setLevel(logging.DEBUG)
+  if FLAGS.debug:
+    logging.basicConfig(level=logging.DEBUG)
+    logging.getLogger().setLevel(logging.DEBUG)
 
   assert os.access(FLAGS.fen, os.R_OK)
 
@@ -112,9 +91,8 @@ def main(argv):
   max_dt = 0.0
   max_nodes = 0
   t_start = time.time()
-  #engine = open_engine()
-  #engine = None
 
+  engine = open_engine()
   for nfen, fen in enumerate(fens):
     if len(fen) == 0:
       continue
@@ -139,17 +117,10 @@ def main(argv):
       if sfen in db:  # Hmm, maybe should be in memory
         ncache += 1
         continue
-      hack = time.time()
-      #print('\t', sfen)
-      # More reproducible if we clear every time through.
-      #if engine is not None:
-      #engine.quit()
-      engine = open_engine()
-      #engine.configure({"Clear Hash": None})
+
+      engine.configure({"Clear Hash": None})
       multi = engine.analyse(board, chess.engine.Limit(depth=depth), multipv=MULTIPV)
-      engine.quit()
-      engine = None
-      #print('\t', sfen, f'{time.time() - hack:.1f}s')
+
       if len(multi) > 0:
         nodes += multi[0].get('nodes', 0)
 
