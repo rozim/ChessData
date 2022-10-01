@@ -1,0 +1,978 @@
+Kasparov,G	2827	2001.05.22	B87	It		2001.05.20			113	0-1	3	Astana KAZ		Morozevich,A	2749		twic342.pgn	B87
+Shirov,A	2722	2001.05.22	D12	It		2001.05.20			109	1/2-1/2	3	Astana KAZ		Kramnik,V	2797		twic342.pgn	D12
+Sadvakasov,D	2585	2001.05.22	D27	It		2001.05.20			78	1-0	3	Astana KAZ		Gelfand,B	2712		twic342.pgn	D27
+Morozevich,A	2749	2001.05.24	D15	It		2001.05.20			70	1-0	4	Astana KAZ		Gelfand,B	2712		twic342.pgn	D15
+Kasparov,G	2827	2001.05.24	D85	It		2001.05.20			58	1/2-1/2	4	Astana KAZ		Kramnik,V	2797		twic342.pgn	D85
+Shirov,A	2722	2001.05.24	C11	It		2001.05.20			32	1/2-1/2	4	Astana KAZ		Sadvakasov,D	2585		twic342.pgn	C11
+Kramnik,V	2797	2001.05.25	D00	It		2001.05.20			53	0-1	5	Astana KAZ		Morozevich,A	2749		twic342.pgn	D02
+Sadvakasov,D	2585	2001.05.25	A29	It		2001.05.20			84	1/2-1/2	5	Astana KAZ		Kasparov,G	2827		twic342.pgn	A29
+Gelfand,B	2712	2001.05.25	C42	It		2001.05.20			73	1/2-1/2	5	Astana KAZ		Shirov,A	2722		twic342.pgn	C42
+Shirov,A	2722	2001.05.26	C11	It		2001.05.20			68	1-0	6	Astana KAZ		Kasparov,G	2827		twic342.pgn	C11
+Kramnik,V	2797	2001.05.26	D58	It		2001.05.20			56	1/2-1/2	6	Astana KAZ		Gelfand,B	2712		twic342.pgn	D58
+Morozevich,A	2749	2001.05.26	B30	It		2001.05.20			95	0-1	6	Astana KAZ		Sadvakasov,D	2585		twic342.pgn	B30
+Sadvakasov,D	2585	2001.05.28	D27	It		2001.05.20			40	1-0	7	Astana KAZ		Kramnik,V	2797		twic342.pgn	D27
+Kasparov,G	2827	2001.05.28	D80	It		2001.05.20			36	1/2-1/2	7	Astana KAZ		Gelfand,B	2712		twic342.pgn	D91
+Shirov,A	2722	2001.05.28	C42	It		2001.05.20			129	1-0	7	Astana KAZ		Morozevich,A	2749		twic342.pgn	C42
+Hernandez,Gi	2567	2001.05.20	A34	II Magistral		2001.05.13			68	1-0	4	Merida MEX		Short,N	2676		twic342.pgn	B40
+Short,N	2676	2001.05.21	C12	II Magistral		2001.05.13			60	1/2-1/2	5	Merida MEX		Khalifman,A	2690		twic342.pgn	C12
+Hernandez,Gi	2567	2001.05.21	B33	II Magistral		2001.05.13			104	1-0	5	Merida MEX		Anand,V	2794		twic342.pgn	B33
+Anand,V	2794	2001.05.22	B11	II Magistral		2001.05.13			54	1/2-1/2	6	Merida MEX		Short,N	2676		twic342.pgn	B11
+Khalifman,A	2690	2001.05.22	B09	II Magistral		2001.05.13			57	1/2-1/2	6	Merida MEX		Hernandez,Gi	2567		twic342.pgn	B09
+Dreev,A	2685	2001.05.21	D10	Bosnia 2001		2001.05.13			27	1/2-1/2	8	Sarajevo BIH		Kurajica,B	2567		twic342.pgn	D10
+Atalik,S	2537	2001.05.21	A10	Bosnia 2001		2001.05.13			159	0-1	8	Sarajevo BIH		Smirin,I	2691		twic342.pgn	A13
+Movsesian,S	2661	2001.05.21	A07	Bosnia 2001		2001.05.13			35	1/2-1/2	8	Sarajevo BIH		Dizdarevic,E	2501		twic342.pgn	A05
+Sokolov,I	2659	2001.05.21	D97	Bosnia 2001		2001.05.13			110	1-0	8	Sarajevo BIH		Kozul,Z	2595		twic342.pgn	D97
+Georgiev,Ki	2676	2001.05.21	D15	Bosnia 2001		2001.05.13			72	1/2-1/2	8	Sarajevo BIH		Topalov,V	2707		twic342.pgn	D15
+Kurajica,B	2567	2001.05.22	E15	Bosnia 2001		2001.05.13			60	1-0	9	Sarajevo BIH		Georgiev,Ki	2676		twic342.pgn	E15
+Topalov,V	2707	2001.05.22	D85	Bosnia 2001		2001.05.13			62	1/2-1/2	9	Sarajevo BIH		Sokolov,I	2659		twic342.pgn	D85
+Kozul,Z	2595	2001.05.22	B85	Bosnia 2001		2001.05.13			129	1/2-1/2	9	Sarajevo BIH		Movsesian,S	2661		twic342.pgn	B85
+Dizdarevic,E	2501	2001.05.22	E61	Bosnia 2001		2001.05.13			146	1-0	9	Sarajevo BIH		Atalik,S	2537		twic342.pgn	A53
+Smirin,I	2691	2001.05.22	D92	Bosnia 2001		2001.05.13			26	1/2-1/2	9	Sarajevo BIH		Dreev,A	2685		twic342.pgn	D92
+Arkhipov,SG	2431	2001.05.13	D94	TCh-RUS		2001.05.13			99	0-1	1	Tomsk RUS		Telnov,V	2401		twic342.pgn	A56
+Arkhipov,SG	2431	2001.05.14	B30	TCh-RUS		2001.05.13			26	1-0	2	Tomsk RUS		Glek,I	2566		twic342.pgn	B30
+Batsanin,D	2435	2001.05.15	D27	TCh-RUS		2001.05.13			68	1/2-1/2	3	Tomsk RUS		Arkhipov,SG	2431		twic342.pgn	D27
+Arkhipov,SG	2431	2001.05.16	B85	TCh-RUS		2001.05.13			72	1-0	4	Tomsk RUS		Brodsky,M	2529		twic342.pgn	B47
+Kotsur,P	2576	2001.05.17	E43	TCh-RUS		2001.05.13			64	1/2-1/2	5	Tomsk RUS		Arkhipov,SG	2431		twic342.pgn	E43
+Ivanov,T	2437	2001.05.19	E54	TCh-RUS		2001.05.13			92	1-0	6	Tomsk RUS		Arkhipov,SG	2431		twic342.pgn	E53
+Galkin,A	2584	2001.05.20	D30	TCh-RUS		2001.05.13			25	1/2-1/2	7	Tomsk RUS		Popov,Val	2545		twic342.pgn	D30
+Loginov,Va	2499	2001.05.20	E92	TCh-RUS		2001.05.13			74	1/2-1/2	7	Tomsk RUS		Malaniuk,V	2511		twic342.pgn	E92
+Beshukov,S	2463	2001.05.20	B47	TCh-RUS		2001.05.13			50	1/2-1/2	7	Tomsk RUS		Shaposhnikov,E	2514		twic342.pgn	B47
+Alekseev,E	2510	2001.05.20	E15	TCh-RUS		2001.05.13			69	0-1	7	Tomsk RUS		Poluljahov,A	2502		twic342.pgn	E15
+Tseshkovsky,V	2555	2001.05.20	B06	TCh-RUS		2001.05.13			160	1-0	7	Tomsk RUS		Klimov,S	2438		twic342.pgn	B06
+Eliseev,A	2471	2001.05.20	B07	TCh-RUS		2001.05.13			115	0-1	7	Tomsk RUS		Brodsky,M	2529		twic342.pgn	B00
+Bologan,V	2676	2001.05.20	E94	TCh-RUS		2001.05.13			28	1/2-1/2	7	Tomsk RUS		Bareev,E	2709		twic342.pgn	E94
+Grischuk,A	2667	2001.05.20	A84	TCh-RUS		2001.05.13			28	1/2-1/2	7	Tomsk RUS		Onischuk,Al	2658		twic342.pgn	D30
+Lastin,A	2627	2001.05.20	A12	TCh-RUS		2001.05.13			35	1/2-1/2	7	Tomsk RUS		Malakhov,V	2623		twic342.pgn	A12
+Rustemov,A	2625	2001.05.20	C18	TCh-RUS		2001.05.13			31	1/2-1/2	7	Tomsk RUS		Motylev,A	2601		twic342.pgn	C18
+Naer,E	2455	2001.05.20	B85	TCh-RUS		2001.05.13			43	1/2-1/2	7	Tomsk RUS		Dolmatov,S	2587		twic342.pgn	B84
+Volzhin,A	2528	2001.05.20	D27	TCh-RUS		2001.05.13			33	1/2-1/2	7	Tomsk RUS		Prokopchuk,E	2508		twic342.pgn	D27
+Svidler,P	2695	2001.05.20	A28	TCh-RUS		2001.05.13			50	1/2-1/2	7	Tomsk RUS		Filippov,V	2632		twic342.pgn	A28
+Vladimirov,E	2612	2001.05.20	E20	TCh-RUS		2001.05.13			42	1-0	7	Tomsk RUS		Sakaev,K	2637		twic342.pgn	E20
+Korchnoi,V	2643	2001.05.20	E57	TCh-RUS		2001.05.13			38	1/2-1/2	7	Tomsk RUS		Landa,K	2610		twic342.pgn	D26
+Pigusov,E	2584	2001.05.20	D55	TCh-RUS		2001.05.13			79	1/2-1/2	7	Tomsk RUS		Volkov,S	2558		twic342.pgn	D31
+Ivanov,Se	2547	2001.05.20	A07	TCh-RUS		2001.05.13			120	1-0	7	Tomsk RUS		Kotsur,P	2576		twic342.pgn	A07
+Makarov,M	2511	2001.05.20	D27	TCh-RUS		2001.05.13			41	1/2-1/2	7	Tomsk RUS		Ionov,S	2505		twic342.pgn	D27
+Iskusnyh,S	2533	2001.05.20	D12	TCh-RUS		2001.05.13			105	1-0	7	Tomsk RUS		Fominyh,A	2571		twic342.pgn	D12
+Erikalov,A	2475	2001.05.20	C02	TCh-RUS		2001.05.13			49	1/2-1/2	7	Tomsk RUS		Balashov,Y	2581		twic342.pgn	C02
+Smikovski,I	2497	2001.05.20	A39	TCh-RUS		2001.05.13			34	1/2-1/2	7	Tomsk RUS		Vekshenkov,N	2449		twic342.pgn	A35
+Chigvintsev,A	2383	2001.05.20	A90	TCh-RUS		2001.05.13			55	0-1	7	Tomsk RUS		Lavrov,S	2438		twic342.pgn	A40
+Arkhipov,SG	2431	2001.05.20	A26	TCh-RUS		2001.05.13			74	0-1	7	Tomsk RUS		Shushpanov,R	2370		twic342.pgn	A05
+Kopylov,A	2211	2001.05.20	C42	TCh-RUS		2001.05.13			107	1/2-1/2	7	Tomsk RUS		Nevostrujev,V	2438		twic342.pgn	C42
+Rublevsky,S	2657	2001.05.20	D11	TCh-RUS		2001.05.13			68	1/2-1/2	7	Tomsk RUS		Burmakin,V	2522		twic342.pgn	A07
+Petukhov,Val	2497	2001.05.20	D36	TCh-RUS		2001.05.13			80	1-0	7	Tomsk RUS		Kharlov,A	2639		twic342.pgn	D35
+Yandemirov,V	2472	2001.05.20	D85	TCh-RUS		2001.05.13			67	0-1	7	Tomsk RUS		Korniushin,N	2470		twic342.pgn	D85
+Bachin,V	2426	2001.05.20	B30	TCh-RUS		2001.05.13			72	1-0	7	Tomsk RUS		Timofeev,Ar	2522		twic342.pgn	B30
+Nizamov,I	2405	2001.05.20	B30	TCh-RUS		2001.05.13			117	0-1	7	Tomsk RUS		Batsanin,D	2435		twic342.pgn	B30
+Ivanov,Al2	2439	2001.05.20	A87	TCh-RUS		2001.05.13			79	1-0	7	Tomsk RUS		Gabdrakhmanov,R	2463		twic342.pgn	A04
+Semeniuk,Al	2474	2001.05.20	B81	TCh-RUS		2001.05.13			60	1-0	7	Tomsk RUS		Ovetchkin,R	2497		twic342.pgn	B81
+Vokarev,S	2498	2001.05.20	D85	TCh-RUS		2001.05.13			16	1/2-1/2	7	Tomsk RUS		Labunskiy,D	2424		twic342.pgn	D85
+Diu,V	2445	2001.05.20	C08	TCh-RUS		2001.05.13			85	0-1	7	Tomsk RUS		Pridorozhni,A	2352		twic342.pgn	C08
+Ozgibcev,A	2459	2001.05.20	B57	TCh-RUS		2001.05.13			95	0-1	7	Tomsk RUS		Kurochkin,V	2448		twic342.pgn	B57
+Telnov,V	2401	2001.05.20	E11	TCh-RUS		2001.05.13			86	1-0	7	Tomsk RUS		Ogloblin,N	2472		twic342.pgn	E11
+Dashevsky,S	2354	2001.05.20	D10	TCh-RUS		2001.05.13			36	1-0	7	Tomsk RUS		Pevzner,L	2357		twic342.pgn	D10
+Bologan,V	2676	2001.05.21	C99	TCh-RUS		2001.05.13			80	1-0	8	Tomsk RUS		Galkin,A	2584		twic342.pgn	C99
+Malaniuk,V	2511	2001.05.21	C87	TCh-RUS		2001.05.13			103	1/2-1/2	8	Tomsk RUS		Onischuk,Al	2658		twic342.pgn	C73
+Lastin,A	2627	2001.05.21	B93	TCh-RUS		2001.05.13			69	1/2-1/2	8	Tomsk RUS		Beshukov,S	2463		twic342.pgn	B93
+Poluljahov,A	2502	2001.05.21	B56	TCh-RUS		2001.05.13			44	1/2-1/2	8	Tomsk RUS		Motylev,A	2601		twic342.pgn	B56
+Naer,E	2455	2001.05.21	B82	TCh-RUS		2001.05.13			39	1/2-1/2	8	Tomsk RUS		Tseshkovsky,V	2555		twic342.pgn	B23
+Brodsky,M	2529	2001.05.21	E15	TCh-RUS		2001.05.13			43	1/2-1/2	8	Tomsk RUS		Prokopchuk,E	2508		twic342.pgn	E15
+Bareev,E	2709	2001.05.21	C11	TCh-RUS		2001.05.13			38	1/2-1/2	8	Tomsk RUS		Svidler,P	2695		twic342.pgn	C11
+Sakaev,K	2637	2001.05.21	C02	TCh-RUS		2001.05.13			99	1/2-1/2	8	Tomsk RUS		Grischuk,A	2667		twic342.pgn	C02
+Malakhov,V	2623	2001.05.21	A84	TCh-RUS		2001.05.13			38	1/2-1/2	8	Tomsk RUS		Korchnoi,V	2643		twic342.pgn	D30
+Volkov,S	2558	2001.05.21	C05	TCh-RUS		2001.05.13			45	1/2-1/2	8	Tomsk RUS		Dolmatov,S	2587		twic342.pgn	C05
+Glek,I	2566	2001.05.21	A85	TCh-RUS		2001.05.13			98	1-0	8	Tomsk RUS		Ivanov,Se	2547		twic342.pgn	A84
+Yemelin,V	2522	2001.05.21	A17	TCh-RUS		2001.05.13			96	1/2-1/2	8	Tomsk RUS		Volzhin,A	2528		twic342.pgn	A17
+Filippov,V	2632	2001.05.21	D29	TCh-RUS		2001.05.13			83	0-1	8	Tomsk RUS		Popov,Val	2545		twic342.pgn	D02
+Loginov,Va	2499	2001.05.21	E18	TCh-RUS		2001.05.13			30	1/2-1/2	8	Tomsk RUS		Vladimirov,E	2612		twic342.pgn	E18
+Landa,K	2610	2001.05.21	B42	TCh-RUS		2001.05.13			36	1/2-1/2	8	Tomsk RUS		Shaposhnikov,E	2514		twic342.pgn	B42
+Alekseev,E	2510	2001.05.21	A35	TCh-RUS		2001.05.13			119	1/2-1/2	8	Tomsk RUS		Pigusov,E	2584		twic342.pgn	A30
+Kotsur,P	2576	2001.05.21	C77	TCh-RUS		2001.05.13			61	1/2-1/2	8	Tomsk RUS		Klimov,S	2438		twic342.pgn	C78
+Eliseev,A	2471	2001.05.21	B38	TCh-RUS		2001.05.13			175	1/2-1/2	8	Tomsk RUS		Makarov,M	2511		twic342.pgn	B38
+Iskusnyh,S	2533	2001.05.21	B31	TCh-RUS		2001.05.13			89	1/2-1/2	8	Tomsk RUS		Rublevsky,S	2657		twic342.pgn	B31
+Kharlov,A	2639	2001.05.21	B25	TCh-RUS		2001.05.13			29	1/2-1/2	8	Tomsk RUS		Balashov,Y	2581		twic342.pgn	B25
+Smikovski,I	2497	2001.05.21	D02	TCh-RUS		2001.05.13			14	1/2-1/2	8	Tomsk RUS		Yandemirov,V	2472		twic342.pgn	A05
+Timofeev,Ar	2522	2001.05.21	E41	TCh-RUS		2001.05.13			79	1/2-1/2	8	Tomsk RUS		Arkhipov,SG	2431		twic342.pgn	E41
+Nevostrujev,V	2438	2001.05.21	A06	TCh-RUS		2001.05.13			74	1-0	8	Tomsk RUS		Hasangatin,R	2463		twic342.pgn	A06
+Gabdrakhmanov,R	2463	2001.05.21	B07	TCh-RUS		2001.05.13			85	0-1	8	Tomsk RUS		Ivakhin,M	2395		twic342.pgn	B00
+Ovetchkin,R	2497	2001.05.21	A60	TCh-RUS		2001.05.13			87	1/2-1/2	8	Tomsk RUS		Burmakin,V	2522		twic342.pgn	A60
+Petukhov,Val	2497	2001.05.21	C66	TCh-RUS		2001.05.13			127	0-1	8	Tomsk RUS		Vokarev,S	2498		twic342.pgn	C47
+Ozgibcev,A	2459	2001.05.21	D34	TCh-RUS		2001.05.13			20	1/2-1/2	8	Tomsk RUS		Korniushin,N	2470		twic342.pgn	E01
+Batsanin,D	2435	2001.05.21	D27	TCh-RUS		2001.05.13			30	1/2-1/2	8	Tomsk RUS		Ivanov,T	2437		twic342.pgn	D27
+Balberov,Alex	2416	2001.05.21	A13	TCh-RUS		2001.05.13			10	1/2-1/2	8	Tomsk RUS		Ivanov,Al2	2439		twic342.pgn	A13
+Kravtsov,S	2391	2001.05.21	D46	TCh-RUS		2001.05.13			90	1/2-1/2	8	Tomsk RUS		Ogloblin,N	2472		twic342.pgn	D11
+Fominyh,A	2571	2001.05.21	A32	TCh-RUS		2001.05.13			27	1/2-1/2	8	Tomsk RUS		Labunskiy,D	2424		twic342.pgn	A34
+Diu,V	2445	2001.05.21	A48	TCh-RUS		2001.05.13			44	1/2-1/2	8	Tomsk RUS		Erikalov,A	2475		twic342.pgn	A48
+Vekshenkov,N	2449	2001.05.21	C42	TCh-RUS		2001.05.13			15	1/2-1/2	8	Tomsk RUS		Kurochkin,V	2448		twic342.pgn	C42
+Telnov,V	2401	2001.05.21	E14	TCh-RUS		2001.05.13			46	1/2-1/2	8	Tomsk RUS		Akselrod,V	2436		twic342.pgn	A46
+Chigvintsev,A	2383	2001.05.21	A25	TCh-RUS		2001.05.13			35	1/2-1/2	8	Tomsk RUS		Gerasimov,V	2341		twic342.pgn	A25
+Volynets,V	2363	2001.05.21		TCh-RUS		2001.05.13			0	1-0	8	Tomsk RUS		Kopylov,A	2211		twic342.pgn	A40
+Palac,M	2605	2001.05.18	B50	Open		2001.05.18			71	0-1	1	Pula CRO		Kolar,Sr	2179		twic342.pgn	B50
+Martic,Z	2247	2001.05.21	B07	Open		2001.05.18			33	1/2-1/2	4	Pula CRO		Panchenko,AN	2377		twic342.pgn	B07
+Rogulj,B	2436	2001.05.21	A35	Open		2001.05.18			42	1/2-1/2	4	Pula CRO		Cvitan,O	2526		twic342.pgn	A35
+Kutuzovic,B	2414	2001.05.21	C55	Open		2001.05.18			80	1-0	4	Pula CRO		Sermek,D	2525		twic342.pgn	C55
+Pavasovic,D	2515	2001.05.21	D02	Open		2001.05.18			56	1-0	4	Pula CRO		Nikolac,J	2437		twic342.pgn	A08
+Zelcic,R	2503	2001.05.21	B19	Open		2001.05.18			113	0-1	4	Pula CRO		Fercec,N	2433		twic342.pgn	B18
+Loncar,R	2433	2001.05.21	B30	Open		2001.05.18			50	1-0	4	Pula CRO		Palac,M	2605		twic342.pgn	B30
+Tratar,M	2410	2001.05.21	E68	Open		2001.05.18			38	1-0	4	Pula CRO		Hulak,K	2564		twic342.pgn	E68
+Sax,G	2563	2001.05.21	D94	Open		2001.05.18			71	1/2-1/2	4	Pula CRO		Novkovic,Mi	2406		twic342.pgn	A56
+Sulava,N	2526	2001.05.21	D04	Open		2001.05.18			105	1/2-1/2	4	Pula CRO		Jovanic,O	2401		twic342.pgn	D04
+Jovanovic,Zo2	2383	2001.05.21	E92	Open		2001.05.18			125	1/2-1/2	4	Pula CRO		Polak,T	2503		twic342.pgn	E92
+Orak,L	2338	2001.05.21	E42	Open		2001.05.18			42	1-0	4	Pula CRO		Zaja,I	2482		twic342.pgn	E42
+Cebalo,M	2465	2001.05.21	A30	Open		2001.05.18			90	1-0	4	Pula CRO		Berkes,F	2393		twic342.pgn	A30
+Ascic,P	2353	2001.05.21	C92	Open		2001.05.18			71	1-0	4	Pula CRO		Rogic,D	2457		twic342.pgn	C88
+Feletar,D	2443	2001.05.21	B84	Open		2001.05.18			74	1-0	4	Pula CRO		Krstic,U	2319		twic342.pgn	B84
+Bukal,V	2439	2001.05.21	D13	Open		2001.05.18			100	1/2-1/2	4	Pula CRO		Brkic,A	2212		twic342.pgn	D10
+Bylino,O	2186	2001.05.21	D33	Open		2001.05.18			56	1-0	4	Pula CRO		Babula,V	2563		twic342.pgn	D33
+Vadla,Z	2252	2001.05.21	A30	Open		2001.05.18			98	1-0	4	Pula CRO		Kovacevic,B	2443		twic342.pgn	A34
+Maras,M	2258	2001.05.21	B06	Open		2001.05.18			159	1/2-1/2	4	Pula CRO		Rukavina,J	2414		twic342.pgn	B06
+Mikac,M	2406	2001.05.21	A04	Open		2001.05.18			30	1/2-1/2	4	Pula CRO		Sutkovic,D	2243		twic342.pgn	A04
+Kos,T	2402	2001.05.21	D76	Open		2001.05.18			39	1/2-1/2	4	Pula CRO		Sudar,B	2223		twic342.pgn	A15
+Lostuzzi,M	2398	2001.05.21	B00	Open		2001.05.18			67	0-1	4	Pula CRO		Licardo,R	2192		twic342.pgn	B00
+Rudolf,A	2057	2001.05.21	C02	Open		2001.05.18			106	1-0	4	Pula CRO		Crepan,M	2289		twic342.pgn	C02
+Macek,V	2234	2001.05.21	C17	Open		2001.05.18			60	1-0	4	Pula CRO		Molnar,Be	2352		twic342.pgn	C17
+Matic,Z	2193	2001.05.21	B07	Open		2001.05.18			114	1/2-1/2	4	Pula CRO		Furlan,M	2326		twic342.pgn	B07
+Saric,Ib	2319	2001.05.21	B06	Open		2001.05.18			95	0-1	4	Pula CRO		Jelica,M	2193		twic342.pgn	B06
+Orel,O	2316	2001.05.21	B85	Open		2001.05.18			20	1/2-1/2	4	Pula CRO		Kekic,A	2187		twic342.pgn	B47
+Kljako,D	2302	2001.05.21	B08	Open		2001.05.18			77	0-1	4	Pula CRO		Tomic,T	2182		twic342.pgn	B06
+Jakupec,D	2191	2001.05.21	A13	Open		2001.05.18			70	1-0	4	Pula CRO		Dumpor,A	2301		twic342.pgn	A13
+Titz,Hei	2301	2001.05.21	A30	Open		2001.05.18			121	1/2-1/2	4	Pula CRO		Makaj,Marko	0		twic342.pgn	A30
+Macsik,T	2184	2001.05.21	A07	Open		2001.05.18			83	1/2-1/2	4	Pula CRO		Brigljevic,M	2293		twic342.pgn	A07
+Makaj,Marko	0	2001.05.22	B50	Open		2001.05.18			68	1-0	5	Pula CRO		Orel,O	2316		twic342.pgn	B50
+Kekic,A	2187	2001.05.22	A11	Open		2001.05.18			184	1-0	5	Pula CRO		Goric,E	2327		twic342.pgn	A00
+Sudar,B	2223	2001.05.22	C64	Open		2001.05.18			53	1/2-1/2	5	Pula CRO		Orak,L	2338		twic342.pgn	C64
+Papp,Ga	2229	2001.05.22	B41	Open		2001.05.18			86	0-1	5	Pula CRO		Ascic,P	2353		twic342.pgn	B41
+Topalovic,Z	2229	2001.05.22	E62	Open		2001.05.18			44	1-0	5	Pula CRO		Velickovic,Z	2367		twic342.pgn	E62
+Panchenko,AN	2377	2001.05.22	B23	Open		2001.05.18			103	0-1	5	Pula CRO		Veleski,R	2234		twic342.pgn	B23
+Gombac,Jan	2230	2001.05.22	B16	Open		2001.05.18			12	1/2-1/2	5	Pula CRO		Kos,T	2402		twic342.pgn	B16
+Piskur,M	2234	2001.05.22	A10	Open		2001.05.18			32	1/2-1/2	5	Pula CRO		Mikac,M	2406		twic342.pgn	A00
+Sutkovic,D	2243	2001.05.22	A30	Open		2001.05.18			96	1-0	5	Pula CRO		Tratar,M	2410		twic342.pgn	A34
+Rukavina,J	2414	2001.05.22	B07	Open		2001.05.18			82	1/2-1/2	5	Pula CRO		Martic,Z	2247		twic342.pgn	B07
+Maras,M	2258	2001.05.22	E90	Open		2001.05.18			66	1-0	5	Pula CRO		Loncar,R	2433		twic342.pgn	E90
+Zufic,M	2274	2001.05.22	E97	Open		2001.05.18			81	1/2-1/2	5	Pula CRO		Feletar,D	2443		twic342.pgn	E97
+Glavas,D	2274	2001.05.22	D18	Open		2001.05.18			62	1-0	5	Pula CRO		Cebalo,M	2465		twic342.pgn	D19
+Jovanic,O	2401	2001.05.22	A37	Open		2001.05.18			84	0-1	5	Pula CRO		Voscilla,A	2272		twic342.pgn	A37
+Furlan,M	2326	2001.05.22	A07	Open		2001.05.18			47	1/2-1/2	5	Pula CRO		Bylino,O	2186		twic342.pgn	A07
+Brkic,A	2212	2001.05.22	C05	Open		2001.05.18			66	1-0	5	Pula CRO		Kutuzovic,B	2414		twic342.pgn	C05
+Fercec,N	2433	2001.05.22	A46	Open		2001.05.18			34	1/2-1/2	5	Pula CRO		Kljako,D	2302		twic342.pgn	A46
+Crepan,M	2289	2001.05.22	A11	Open		2001.05.18			61	1-0	5	Pula CRO		Bukal,V	2439		twic342.pgn	A11
+Kovacevic,B	2443	2001.05.22	C10	Open		2001.05.18			86	1/2-1/2	5	Pula CRO		Jovanovic,Zo2	2383		twic342.pgn	C10
+Polak,T	2503	2001.05.22	E14	Open		2001.05.18			98	1-0	5	Pula CRO		Saric,Ib	2319		twic342.pgn	E14
+Dumpor,A	2301	2001.05.22	B05	Open		2001.05.18			82	1-0	5	Pula CRO		Pavasovic,D	2515		twic342.pgn	B05
+Molnar,Be	2352	2001.05.22	A46	Open		2001.05.18			92	1-0	5	Pula CRO		Sulava,N	2526		twic342.pgn	A40
+Babula,V	2563	2001.05.22	D00	Open		2001.05.18			58	1/2-1/2	5	Pula CRO		Lostuzzi,M	2398		twic342.pgn	D00
+Krstic,U	2319	2001.05.22	C76	Open		2001.05.18			77	1-0	5	Pula CRO		Sax,G	2563		twic342.pgn	C76
+Zaja,I	2482	2001.05.22	C47	Open		2001.05.18			28	1/2-1/2	5	Pula CRO		Rogulj,B	2436		twic342.pgn	C47
+Cvitan,O	2526	2001.05.22	A21	Open		2001.05.18			59	0-1	5	Pula CRO		Berkes,F	2393		twic342.pgn	A10
+Hulak,K	2564	2001.05.22	B85	Open		2001.05.18			24	1/2-1/2	5	Pula CRO		Rogic,D	2457		twic342.pgn	B83
+Nikolac,J	2437	2001.05.22	C92	Open		2001.05.18			37	1/2-1/2	5	Pula CRO		Palac,M	2605		twic342.pgn	C92
+Sermek,D	2525	2001.05.22	C51	Open		2001.05.18			83	0-1	5	Pula CRO		Zelcic,R	2503		twic342.pgn	C51
+Novkovic,Mi	2406	2001.05.22	C12	Open		2001.05.18			104	1-0	5	Pula CRO		Rasic,D	2283		twic342.pgn	C12
+Lostuzzi,M	2398	2001.05.23	A47	Open		2001.05.18			11	1/2-1/2	6	Pula CRO		Kljako,D	2302		twic342.pgn	A47
+Nikolac,J	2437	2001.05.23	C54	Open		2001.05.18			110	1-0	6	Pula CRO		Sermek,D	2525		twic342.pgn	C53
+Hulak,K	2564	2001.05.23	D55	Open		2001.05.18			28	1/2-1/2	6	Pula CRO		Cvitan,O	2526		twic342.pgn	D55
+Palac,M	2605	2001.05.23	D85	Open		2001.05.18			33	1/2-1/2	6	Pula CRO		Bukal,V	2439		twic342.pgn	A16
+Rogic,D	2457	2001.05.23	C99	Open		2001.05.18			72	1-0	6	Pula CRO		Sax,G	2563		twic342.pgn	C99
+Sulava,N	2526	2001.05.23	B13	Open		2001.05.18			19	1/2-1/2	6	Pula CRO		Rogulj,B	2436		twic342.pgn	B13
+Pavasovic,D	2515	2001.05.23	C65	Open		2001.05.18			71	0-1	6	Pula CRO		Kutuzovic,B	2414		twic342.pgn	C64
+Zelcic,R	2503	2001.05.23	A07	Open		2001.05.18			87	0-1	6	Pula CRO		Jovanic,O	2401		twic342.pgn	A05
+Saric,Ib	2319	2001.05.23	D34	Open		2001.05.18			66	1/2-1/2	6	Pula CRO		Zaja,I	2482		twic342.pgn	D34
+Rasic,D	2283	2001.05.23	A68	Open		2001.05.18			78	1-0	6	Pula CRO		Cebalo,M	2465		twic342.pgn	E77
+Velickovic,Z	2367	2001.05.23	A57	Open		2001.05.18			40	1-0	6	Pula CRO		Babula,V	2563		twic342.pgn	A57
+Goric,E	2327	2001.05.23	A54	Open		2001.05.18			151	1-0	6	Pula CRO		Kovacevic,B	2443		twic342.pgn	A53
+Orel,O	2316	2001.05.23	B48	Open		2001.05.18			79	1-0	6	Pula CRO		Fercec,N	2433		twic342.pgn	B48
+Loncar,R	2433	2001.05.23	B32	Open		2001.05.18			69	0-1	6	Pula CRO		Krstic,U	2319		twic342.pgn	B32
+Tratar,M	2410	2001.05.23	C16	Open		2001.05.18			65	0-1	6	Pula CRO		Dabo Peranic,R	2305		twic342.pgn	C16
+Kirbis,Milan	0	2001.05.23	C41	Open		2001.05.18			65	0-1	6	Pula CRO		Papp,C	2120		twic342.pgn	C41
+Berkes,F	2393	2001.05.23	C03	Open		2001.05.18			41	1/2-1/2	6	Pula CRO		Biti,O	2301		twic342.pgn	C03
+Jovanovic,Zo2	2383	2001.05.23	B89	Open		2001.05.18			156	1-0	6	Pula CRO		Papp,Ga	2229		twic342.pgn	B88
+Titz,Hei	2301	2001.05.23	B22	Open		2001.05.18			85	1/2-1/2	6	Pula CRO		Panchenko,AN	2377		twic342.pgn	B30
+Martic,Z	2247	2001.05.23	D38	Open		2001.05.18			58	1-0	6	Pula CRO		Polak,T	2503		twic342.pgn	D38
+Feletar,D	2443	2001.05.23	A08	Open		2001.05.18			81	0-1	6	Pula CRO		Piskur,M	2234		twic342.pgn	C00
+Brkic,A	2212	2001.05.23	E66	Open		2001.05.18			58	1-0	6	Pula CRO		Rukavina,J	2414		twic342.pgn	E66
+Mikac,M	2406	2001.05.23	E90	Open		2001.05.18			53	0-1	6	Pula CRO		Gombac,Jan	2230		twic342.pgn	B27
+Macek,V	2234	2001.05.23	A11	Open		2001.05.18			70	1-0	6	Pula CRO		Novkovic,Mi	2406		twic342.pgn	A09
+Kos,T	2402	2001.05.23	B00	Open		2001.05.18			53	0-1	6	Pula CRO		Jelica,M	2193		twic342.pgn	B00
+Luciani,C	2208	2001.05.23	C77	Open		2001.05.18			102	1-0	6	Pula CRO		Molnar,Be	2352		twic342.pgn	C77
+Orak,L	2338	2001.05.23	B85	Open		2001.05.18			85	1/2-1/2	6	Pula CRO		Brkic,D CRO	2147		twic342.pgn	B47
+Novkovic,J	2170	2001.05.23	A25	Open		2001.05.18			151	1/2-1/2	6	Pula CRO		Osmanbegovic,S	2336		twic342.pgn	A21
+Teofilovic,V	2173	2001.05.23	B85	Open		2001.05.18			62	1-0	6	Pula CRO		Furlan,M	2326		twic342.pgn	B84
+Bylino,O	2186	2001.05.23	A14	Open		2001.05.18			77	0-1	6	Pula CRO		Dumpor,A	2301		twic342.pgn	A13
+Kuljasevic,D	2294	2001.05.23	A11	Open		2001.05.18			54	1-0	6	Pula CRO		Sudar,B	2223		twic342.pgn	A15
+Dabo Peranic,R	2305	2001.05.24	D04	Open		2001.05.18			56	1-0	7	Pula CRO		Macsik,T	2184		twic342.pgn	D04
+Sermek,D	2525	2001.05.24	B02	Open		2001.05.18			16	1/2-1/2	7	Pula CRO		Pavasovic,D	2515		twic342.pgn	B02
+Cvitan,O	2526	2001.05.24	B85	Open		2001.05.18			75	0-1	7	Pula CRO		Zelcic,R	2503		twic342.pgn	B84
+Sax,G	2563	2001.05.24	E42	Open		2001.05.18			89	1/2-1/2	7	Pula CRO		Babula,V	2563		twic342.pgn	E42
+Rogulj,B	2436	2001.05.24	C65	Open		2001.05.18			48	1-0	7	Pula CRO		Palac,M	2605		twic342.pgn	C65
+Fercec,N	2433	2001.05.24	A71	Open		2001.05.18			117	0-1	7	Pula CRO		Hulak,K	2564		twic342.pgn	A71
+Papp,Ga	2229	2001.05.24	A30	Open		2001.05.18			106	1-0	7	Pula CRO		Sulava,N	2526		twic342.pgn	A05
+Zaja,I	2482	2001.05.24	A13	Open		2001.05.18			84	1/2-1/2	7	Pula CRO		Nikolac,J	2437		twic342.pgn	A13
+Cebalo,M	2465	2001.05.24	A48	Open		2001.05.18			68	1-0	7	Pula CRO		Loncar,R	2433		twic342.pgn	A48
+Kovacevic,B	2443	2001.05.24	A90	Open		2001.05.18			28	1/2-1/2	7	Pula CRO		Tratar,M	2410		twic342.pgn	A40
+Bukal,V	2439	2001.05.24	D15	Open		2001.05.18			66	0-1	7	Pula CRO		Saric,Ib	2319		twic342.pgn	D15
+Polak,T	2503	2001.05.24	D42	Open		2001.05.18			79	1-0	7	Pula CRO		Molnar,Be	2352		twic342.pgn	B14
+Furlan,M	2326	2001.05.24	C06	Open		2001.05.18			78	1-0	7	Pula CRO		Rogic,D	2457		twic342.pgn	C06
+Kljako,D	2302	2001.05.24	B06	Open		2001.05.18			64	1-0	7	Pula CRO		Feletar,D	2443		twic342.pgn	B06
+Rukavina,J	2414	2001.05.24	E91	Open		2001.05.18			133	0-1	7	Pula CRO		Titz,Hei	2301		twic342.pgn	E91
+Kutuzovic,B	2414	2001.05.24	B25	Open		2001.05.18			129	0-1	7	Pula CRO		Rasic,D	2283		twic342.pgn	B25
+Biti,O	2301	2001.05.24	A26	Open		2001.05.18			30	1/2-1/2	7	Pula CRO		Mikac,M	2406		twic342.pgn	A26
+Novkovic,Mi	2406	2001.05.24	A07	Open		2001.05.18			74	1/2-1/2	7	Pula CRO		Bylino,O	2186		twic342.pgn	A05
+Tomic,T	2182	2001.05.24	B22	Open		2001.05.18			76	1-0	7	Pula CRO		Kos,T	2402		twic342.pgn	B22
+Jovanic,O	2401	2001.05.24	B32	Open		2001.05.18			117	0-1	7	Pula CRO		Knezevic,K	2152		twic342.pgn	B32
+Sudar,B	2223	2001.05.24	A45	Open		2001.05.18			28	1/2-1/2	7	Pula CRO		Lostuzzi,M	2398		twic342.pgn	A45
+Heyl,T	2053	2001.05.24	A14	Open		2001.05.18			106	1-0	7	Pula CRO		Berkes,F	2393		twic342.pgn	A14
+Panchenko,AN	2377	2001.05.24	B07	Open		2001.05.18			68	1-0	7	Pula CRO		Sebestyen,Ba	2125		twic342.pgn	A45
+Sutkovic,D	2243	2001.05.24	B17	Open		2001.05.18			44	1-0	7	Pula CRO		Jovanovic,Zo2	2383		twic342.pgn	B17
+Brkic,D CRO	2147	2001.05.24	A05	Open		2001.05.18			44	1-0	7	Pula CRO		Velickovic,Z	2367		twic342.pgn	A05
+Kekic,A	2187	2001.05.24	B85	Open		2001.05.18			109	1/2-1/2	7	Pula CRO		Orak,L	2338		twic342.pgn	B85
+Osmanbegovic,S	2336	2001.05.24	B27	Open		2001.05.18			119	1/2-1/2	7	Pula CRO		Vadla,Z	2252		twic342.pgn	B27
+Laco,G	2186	2001.05.24	A00	Open		2001.05.18			96	1-0	7	Pula CRO		Goric,E	2327		twic342.pgn	A00
+Krstic,U	2319	2001.05.24	C60	Open		2001.05.18			68	1-0	7	Pula CRO		Veleski,R	2234		twic342.pgn	C60
+Hummel,M	2173	2001.05.24	B00	Open		2001.05.18			72	0-1	7	Pula CRO		Orel,O	2316		twic342.pgn	B00
+Saric,Husnija	0	2001.05.24	E81	Open		2001.05.18			62	1-0	7	Pula CRO		Brkic,A	2212		twic342.pgn	E81
+Titz,Hei	2301	2001.05.25	B56	Open		2001.05.18			104	1/2-1/2	8	Pula CRO		Jelica,M	2193		twic342.pgn	B56
+Cvitan,O	2526	2001.05.25	B50	Open		2001.05.18			23	1/2-1/2	8	Pula CRO		Sermek,D	2525		twic342.pgn	B50
+Palac,M	2605	2001.05.25	B22	Open		2001.05.18			151	0-1	8	Pula CRO		Pavasovic,D	2515		twic342.pgn	B22
+Sax,G	2563	2001.05.25	E63	Open		2001.05.18			75	0-1	8	Pula CRO		Bukal,V	2439		twic342.pgn	E62
+Sulava,N	2526	2001.05.25	B01	Open		2001.05.18			38	1/2-1/2	8	Pula CRO		Fercec,N	2433		twic342.pgn	B01
+Loncar,R	2433	2001.05.25	B30	Open		2001.05.18			83	1/2-1/2	8	Pula CRO		Zelcic,R	2503		twic342.pgn	B30
+Babula,V	2563	2001.05.25	B33	Open		2001.05.18			80	0-1	8	Pula CRO		Kutuzovic,B	2414		twic342.pgn	B33
+Tratar,M	2410	2001.05.25	A21	Open		2001.05.18			80	1/2-1/2	8	Pula CRO		Zaja,I	2482		twic342.pgn	A41
+Rogic,D	2457	2001.05.25	B22	Open		2001.05.18			77	0-1	8	Pula CRO		Kos,T	2402		twic342.pgn	B40
+Feletar,D	2443	2001.05.25	A09	Open		2001.05.18			103	1/2-1/2	8	Pula CRO		Jovanic,O	2401		twic342.pgn	A09
+Berkes,F	2393	2001.05.25	D35	Open		2001.05.18			77	0-1	8	Pula CRO		Kovacevic,B	2443		twic342.pgn	D35
+Molnar,Be	2352	2001.05.25	A21	Open		2001.05.18			80	1-0	8	Pula CRO		Nikolac,J	2437		twic342.pgn	A21
+Sebestyen,Ba	2125	2001.05.25	A11	Open		2001.05.18			92	1-0	8	Pula CRO		Rukavina,J	2414		twic342.pgn	A09
+Saric,Ib	2319	2001.05.25	D79	Open		2001.05.18			62	1/2-1/2	8	Pula CRO		Hulak,K	2564		twic342.pgn	D79
+Cebalo,M	2465	2001.05.25	B20	Open		2001.05.18			59	0-1	8	Pula CRO		Biti,O	2301		twic342.pgn	B20
+Rogulj,B	2436	2001.05.25	C67	Open		2001.05.18			113	0-1	8	Pula CRO		Zufic,M	2274		twic342.pgn	C67
+Mikac,M	2406	2001.05.25	A38	Open		2001.05.18			79	0-1	8	Pula CRO		Maras,M	2258		twic342.pgn	A37
+Veleski,R	2234	2001.05.25	E61	Open		2001.05.18			143	1/2-1/2	8	Pula CRO		Novkovic,Mi	2406		twic342.pgn	E61
+Lostuzzi,M	2398	2001.05.25	C65	Open		2001.05.18			101	0-1	8	Pula CRO		Papp,Ga	2229		twic342.pgn	C64
+Jovanovic,Zo2	2383	2001.05.25	E94	Open		2001.05.18			20	1/2-1/2	8	Pula CRO		Sudar,B	2223		twic342.pgn	E94
+Velickovic,Z	2367	2001.05.25	A30	Open		2001.05.18			64	1/2-1/2	8	Pula CRO		Bylino,O	2186		twic342.pgn	A04
+Goric,E	2327	2001.05.25	A01	Open		2001.05.18			94	1-0	8	Pula CRO		Hummel,M	2173		twic342.pgn	A01
+Macsik,T	2184	2001.05.25	D30	Open		2001.05.18			68	1-0	8	Pula CRO		Polak,T	2503		twic342.pgn	D11
+Macek,V	2234	2001.05.25	D11	Open		2001.05.18			45	1-0	8	Pula CRO		Panchenko,AN	2377		twic342.pgn	D11
+Brkic,A	2212	2001.05.25	C02	Open		2001.05.18			138	1-0	8	Pula CRO		Ascic,P	2353		twic342.pgn	C02
+Orak,L	2338	2001.05.25	A08	Open		2001.05.18			93	1/2-1/2	8	Pula CRO		Piskur,M	2234		twic342.pgn	B40
+Luciani,C	2208	2001.05.25	E76	Open		2001.05.18			55	1/2-1/2	8	Pula CRO		Osmanbegovic,S	2336		twic342.pgn	E76
+Knezevic,K	2152	2001.05.25	C67	Open		2001.05.18			86	1-0	8	Pula CRO		Furlan,M	2326		twic342.pgn	C67
+Kljako,D	2302	2001.05.25	B06	Open		2001.05.18			70	1-0	8	Pula CRO		Gombac,Jan	2230		twic342.pgn	B06
+Teofilovic,V	2173	2001.05.25	B84	Open		2001.05.18			118	1-0	8	Pula CRO		Crepan,M	2289		twic342.pgn	B84
+Crepan,M	2289	2001.05.26	D11	Open		2001.05.18			66	1-0	9	Pula CRO		Polak,T	2503		twic342.pgn	D11
+Sermek,D	2525	2001.05.26	C74	Open		2001.05.18			40	1/2-1/2	9	Pula CRO		Sax,G	2563		twic342.pgn	C74
+Palac,M	2605	2001.05.26	E60	Open		2001.05.18			16	1/2-1/2	9	Pula CRO		Cvitan,O	2526		twic342.pgn	E60
+Fercec,N	2433	2001.05.26	A70	Open		2001.05.18			34	1/2-1/2	9	Pula CRO		Babula,V	2563		twic342.pgn	A70
+Loncar,R	2433	2001.05.26	E90	Open		2001.05.18			116	1-0	9	Pula CRO		Sulava,N	2526		twic342.pgn	A56
+Rukavina,J	2414	2001.05.26	A00	Open		2001.05.18			55	1-0	9	Pula CRO		Rogic,D	2457		twic342.pgn	B06
+Nikolac,J	2437	2001.05.26	A14	Open		2001.05.18			58	0-1	9	Pula CRO		Berkes,F	2393		twic342.pgn	A15
+Pavasovic,D	2515	2001.05.26	C47	Open		2001.05.18			49	0-1	9	Pula CRO		Rogulj,B	2436		twic342.pgn	C47
+Zelcic,R	2503	2001.05.26	A13	Open		2001.05.18			63	0-1	9	Pula CRO		Tratar,M	2410		twic342.pgn	A13
+Zaja,I	2482	2001.05.26	D02	Open		2001.05.18			36	1-0	9	Pula CRO		Mikac,M	2406		twic342.pgn	A07
+Jovanic,O	2401	2001.05.26	A56	Open		2001.05.18			159	1/2-1/2	9	Pula CRO		Cebalo,M	2465		twic342.pgn	A56
+Hummel,M	2173	2001.05.26	A04	Open		2001.05.18			83	1/2-1/2	9	Pula CRO		Feletar,D	2443		twic342.pgn	A04
+Bukal,V	2439	2001.05.26	D00	Open		2001.05.18			73	0-1	9	Pula CRO		Lostuzzi,M	2398		twic342.pgn	D00
+Hulak,K	2564	2001.05.26	B54	Open		2001.05.18			23	1/2-1/2	9	Pula CRO		Furlan,M	2326		twic342.pgn	B43
+Biti,O	2301	2001.05.26	B07	Open		2001.05.18			60	0-1	9	Pula CRO		Luciani,C	2208		twic342.pgn	B07
+Kovacevic,B	2443	2001.05.26	E11	Open		2001.05.18			57	0-1	9	Pula CRO		Saric,Ib	2319		twic342.pgn	A40
+Kutuzovic,B	2414	2001.05.26	E31	Open		2001.05.18			15	1/2-1/2	9	Pula CRO		Glavas,D	2274		twic342.pgn	E30
+Vadla,Z	2252	2001.05.26	E14	Open		2001.05.18			108	1-0	9	Pula CRO		Novkovic,Mi	2406		twic342.pgn	A46
+Kos,T	2402	2001.05.26	B00	Open		2001.05.18			124	1/2-1/2	9	Pula CRO		Veleski,R	2234		twic342.pgn	B00
+Gombac,Jan	2230	2001.05.26	B16	Open		2001.05.18			59	1-0	9	Pula CRO		Jovanovic,Zo2	2383		twic342.pgn	B16
+Panchenko,AN	2377	2001.05.26	B23	Open		2001.05.18			89	0-1	9	Pula CRO		Rasic,D	2283		twic342.pgn	B23
+Sudar,B	2223	2001.05.26	E63	Open		2001.05.18			82	1/2-1/2	9	Pula CRO		Velickovic,Z	2367		twic342.pgn	E63
+Ascic,P	2353	2001.05.26	B06	Open		2001.05.18			81	0-1	9	Pula CRO		Sebestyen,Ba	2125		twic342.pgn	B07
+Tomic,T	2182	2001.05.26	B01	Open		2001.05.18			120	1-0	9	Pula CRO		Molnar,Be	2352		twic342.pgn	B01
+Bylino,O	2186	2001.05.26	B61	Open		2001.05.18			99	0-1	9	Pula CRO		Orak,L	2338		twic342.pgn	B61
+Osmanbegovic,S	2336	2001.05.26	A43	Open		2001.05.18			89	0-1	9	Pula CRO		Martic,Z	2247		twic342.pgn	A43
+Piskur,M	2234	2001.05.26	A85	Open		2001.05.18			128	1/2-1/2	9	Pula CRO		Goric,E	2327		twic342.pgn	A04
+Topalovic,Z	2229	2001.05.26	C41	Open		2001.05.18			52	1-0	9	Pula CRO		Orel,O	2316		twic342.pgn	C41
+Dabo Peranic,R	2305	2001.05.26	C60	Open		2001.05.18			101	0-1	9	Pula CRO		Papp,Ga	2229		twic342.pgn	C77
+Heyl,T	2053	2001.05.26	D60	Open		2001.05.18			78	1-0	9	Pula CRO		Titz,Hei	2301		twic342.pgn	D43
+Bu Xiangzhi	2558	2001.05.20	B66	Young Masters		2001.05.20			113	0-1	1.1	Lausanne SUI		Kosteniuk,A	2397		twic342.pgn	B66
+Volokitin,A	2493	2001.05.20	E84	Young Masters		2001.05.20			81	1/2-1/2	1.1	Lausanne SUI		Ghaem Maghami,E	2500		twic342.pgn	E84
+Harikrishna,P	2504	2001.05.20	B25	Young Masters		2001.05.20			55	0-1	1.1	Lausanne SUI		Zhao Xue	2428		twic342.pgn	B23
+Jenni,F	2471	2001.05.20	A07	Young Masters		2001.05.20			74	1-0	1.1	Lausanne SUI		Aronian,L	2528		twic342.pgn	A07
+Kosteniuk,A	2397	2001.05.21	D30	Young Masters		2001.05.20			111	0-1	1.2	Lausanne SUI		Bu Xiangzhi	2558		twic342.pgn	D11
+Zhao Xue	2428	2001.05.21	A86	Young Masters		2001.05.20			95	1-0	1.2	Lausanne SUI		Harikrishna,P	2504		twic342.pgn	A86
+Bu Xiangzhi	2558	2001.05.21	B66	Young Masters		2001.05.20			148	1-0	1.3	Lausanne SUI		Kosteniuk,A	2397		twic342.pgn	B66
+Volokitin,A	2493	2001.05.21	E61	Young Masters		2001.05.20			109	0-1	1.3	Lausanne SUI		Ghaem Maghami,E	2500		twic342.pgn	A30
+Kosteniuk,A	2397	2001.05.21	A11	Young Masters		2001.05.20			118	1-0	1.4	Lausanne SUI		Bu Xiangzhi	2558		twic342.pgn	A12
+Ghaem Maghami,E	2500	2001.05.21	B92	Young Masters		2001.05.20			66	1-0	1.4	Lausanne SUI		Volokitin,A	2493		twic342.pgn	B92
+Bu Xiangzhi	2558	2001.05.21	B66	Young Masters		2001.05.20			115	1/2-1/2	1.5	Lausanne SUI		Kosteniuk,A	2397		twic342.pgn	B66
+Kosteniuk,A	2397	2001.05.21	D30	Young Masters		2001.05.20			111	1/2-1/2	1.6	Lausanne SUI		Bu Xiangzhi	2558		twic342.pgn	D11
+Kosteniuk,A	2397	2001.05.21	A07	Young Masters		2001.05.20			76	1-0	1.7	Lausanne SUI		Bu Xiangzhi	2558		twic342.pgn	A07
+Volokitin,A	2493	2001.05.22	E32	Young Masters		2001.05.20			71	1/2-1/2	2.1	Lausanne SUI		Ponomariov,R	2673		twic342.pgn	E32
+Bruzon,L	2589	2001.05.22	D52	Young Masters		2001.05.20			69	1/2-1/2	2.1	Lausanne SUI		Bu Xiangzhi	2558		twic342.pgn	D52
+Sasikiran,K	2611	2001.05.22	E68	Young Masters		2001.05.20			114	1/2-1/2	2.1	Lausanne SUI		Harikrishna,P	2504		twic342.pgn	E68
+Bacrot,E	2627	2001.05.22	A08	Young Masters		2001.05.20			58	1/2-1/2	2.1	Lausanne SUI		Aronian,L	2528		twic342.pgn	A05
+Ponomariov,R	2673	2001.05.23	C87	Young Masters		2001.05.20			90	1-0	2.2	Lausanne SUI		Volokitin,A	2493		twic342.pgn	C77
+Bu Xiangzhi	2558	2001.05.23	A07	Young Masters		2001.05.20			37	1/2-1/2	2.2	Lausanne SUI		Bruzon,L	2589		twic342.pgn	A05
+Harikrishna,P	2504	2001.05.23	D44	Young Masters		2001.05.20			28	1/2-1/2	2.2	Lausanne SUI		Sasikiran,K	2611		twic342.pgn	D44
+Aronian,L	2528	2001.05.23	E11	Young Masters		2001.05.20			40	1/2-1/2	2.2	Lausanne SUI		Bacrot,E	2627		twic342.pgn	E11
+Bu Xiangzhi	2558	2001.05.23	A36	Young Masters		2001.05.20			130	1-0	2.3	Lausanne SUI		Bruzon,L	2589		twic342.pgn	A36
+Sasikiran,K	2611	2001.05.23	A17	Young Masters		2001.05.20			89	1/2-1/2	2.3	Lausanne SUI		Harikrishna,P	2504		twic342.pgn	A34
+Bacrot,E	2627	2001.05.23	D02	Young Masters		2001.05.20			78	1-0	2.3	Lausanne SUI		Aronian,L	2528		twic342.pgn	A07
+Bruzon,L	2589	2001.05.23	D45	Young Masters		2001.05.20			114	1/2-1/2	2.4	Lausanne SUI		Bu Xiangzhi	2558		twic342.pgn	D45
+Harikrishna,P	2504	2001.05.23	A05	Young Masters		2001.05.20			76	1-0	2.4	Lausanne SUI		Sasikiran,K	2611		twic342.pgn	A05
+Aronian,L	2528	2001.05.23	A55	Young Masters		2001.05.20			78	1-0	2.5	Lausanne SUI		Bacrot,E	2627		twic342.pgn	A15
+Bacrot,E	2627	2001.05.23	D02	Young Masters		2001.05.20			78	1-0	2.6	Lausanne SUI		Aronian,L	2528		twic342.pgn	A07
+Bu Xiangzhi	2558	2001.05.24	B66	Young Masters		2001.05.20			72	1-0	3.1	Lausanne SUI		Ponomariov,R	2673		twic342.pgn	B66
+Bruzon,L	2589	2001.05.24	B92	Young Masters		2001.05.20			70	1/2-1/2	3.1	Lausanne SUI		Volokitin,A	2493		twic342.pgn	B92
+Sasikiran,K	2611	2001.05.24	D26	Young Masters		2001.05.20			82	1-0	3.1	Lausanne SUI		Bacrot,E	2627		twic342.pgn	D27
+Aronian,L	2528	2001.05.24	E11	Young Masters		2001.05.20			140	1-0	3.1	Lausanne SUI		Harikrishna,P	2504		twic342.pgn	E11
+Ponomariov,R	2673	2001.05.25	E81	Young Masters		2001.05.20			79	1/2-1/2	3.2	Lausanne SUI		Bu Xiangzhi	2558		twic342.pgn	E81
+Volokitin,A	2493	2001.05.25	C00	Young Masters		2001.05.20			102	1/2-1/2	3.2	Lausanne SUI		Bruzon,L	2589		twic342.pgn	B40
+Bacrot,E	2627	2001.05.25	D97	Young Masters		2001.05.20			70	1/2-1/2	3.2	Lausanne SUI		Sasikiran,K	2611		twic342.pgn	D97
+Harikrishna,P	2504	2001.05.25	B33	Young Masters		2001.05.20			86	1-0	3.2	Lausanne SUI		Aronian,L	2528		twic342.pgn	B33
+Volokitin,A	2493	2001.05.25	A33	Young Masters		2001.05.20			154	1-0	3.3	Lausanne SUI		Bruzon,L	2589		twic342.pgn	A33
+Aronian,L	2528	2001.05.25	E11	Young Masters		2001.05.20			93	1/2-1/2	3.3	Lausanne SUI		Harikrishna,P	2504		twic342.pgn	E11
+Bruzon,L	2589	2001.05.25	B84	Young Masters		2001.05.20			96	1/2-1/2	3.4	Lausanne SUI		Volokitin,A	2493		twic342.pgn	B90
+Harikrishna,P	2504	2001.05.25	A07	Young Masters		2001.05.20			83	1-0	3.4	Lausanne SUI		Aronian,L	2528		twic342.pgn	A05
+Harikrishna,P	2504	2001.05.26	D36	Young Masters		2001.05.20			86	1-0	4.1	Lausanne SUI		Bu Xiangzhi	2558		twic342.pgn	D43
+Bruzon,L	2589	2001.05.26	D36	Young Masters		2001.05.20			144	1/2-1/2	4.1	Lausanne SUI		Bacrot,E	2627		twic342.pgn	D35
+Sasikiran,K	2611	2001.05.26	B92	Young Masters		2001.05.20			79	1/2-1/2	4.1	Lausanne SUI		Volokitin,A	2493		twic342.pgn	B92
+Aronian,L	2528	2001.05.26	C87	Young Masters		2001.05.20			138	1/2-1/2	4.1	Lausanne SUI		Ponomariov,R	2673		twic342.pgn	C87
+Bu Xiangzhi	2558	2001.05.27	A75	Young Masters		2001.05.20			75	1/2-1/2	4.2	Lausanne SUI		Harikrishna,P	2504		twic342.pgn	A75
+Bacrot,E	2627	2001.05.27	B66	Young Masters		2001.05.20			45	1/2-1/2	4.2	Lausanne SUI		Bruzon,L	2589		twic342.pgn	B66
+Volokitin,A	2493	2001.05.27	A48	Young Masters		2001.05.20			79	1-0	4.2	Lausanne SUI		Sasikiran,K	2611		twic342.pgn	A48
+Ponomariov,R	2673	2001.05.27	E66	Young Masters		2001.05.20			68	1-0	4.2	Lausanne SUI		Aronian,L	2528		twic342.pgn	E63
+Bacrot,E	2627	2001.05.27	C92	Young Masters		2001.05.20			134	1-0	4.3	Lausanne SUI		Bruzon,L	2589		twic342.pgn	C92
+Bruzon,L	2589	2001.05.27	D36	Young Masters		2001.05.20			107	1/2-1/2	4.4	Lausanne SUI		Bacrot,E	2627		twic342.pgn	D37
+Baramidze,D	2297	2001.05.22	D86	Master Open		2001.05.20			75	1/2-1/2	1	Lausanne SUI		Graf,A	2649		twic342.pgn	D88
+Fressinet,L	2575	2001.05.22	D45	Master Open		2001.05.20			29	0-1	1	Lausanne SUI		Midoux,S	2252		twic342.pgn	D45
+Schaufelberger,H	2268	2001.05.22	B33	Master Open		2001.05.20			64	1-0	1	Lausanne SUI		Kotsur,P	2576		twic342.pgn	B32
+Sokolov,And	2568	2001.05.22	B80	Master Open		2001.05.20			75	0-1	1	Lausanne SUI		Perruchoud,B	2242		twic342.pgn	B80
+Preiss,M	2242	2001.05.22	A90	Master Open		2001.05.20			90	1-0	1	Lausanne SUI		Hebden,M	2560		twic342.pgn	A40
+Koster,R	2279	2001.05.22	D87	Master Open		2001.05.20			104	1-0	1	Lausanne SUI		Vladimirov,E	2612		twic342.pgn	D87
+Epishin,V	2579	2001.05.22	B00	Master Open		2001.05.20			97	0-1	1	Lausanne SUI		Trabert,B	2269		twic342.pgn	B22
+Tukmakov,V	2604	2001.05.22	A20	Master Open		2001.05.20			89	0-1	1	Lausanne SUI		Patuzzo,F	2277		twic342.pgn	A20
+Bauer,Ch	2612	2001.05.22	B15	Master Open		2001.05.20			52	0-1	1	Lausanne SUI		Sebag,M	2283		twic342.pgn	B15
+Pujos,S	2273	2001.05.22	D91	Master Open		2001.05.20			100	1-0	1	Lausanne SUI		Adianto,U	2589		twic342.pgn	D91
+Shchekachev,A	2543	2001.05.23	A37	Master Open		2001.05.20			101	0-1	2	Lausanne SUI		Loeffler,S	2413		twic342.pgn	A04
+Kotsur,P	2576	2001.05.23	B72	Master Open		2001.05.20			85	0-1	2	Lausanne SUI		Gerber,R	2432		twic342.pgn	B72
+Hebden,M	2560	2001.05.23	E62	Master Open		2001.05.20			47	0-1	2	Lausanne SUI		Berkvens,J	2415		twic342.pgn	E62
+Vladimirov,E	2612	2001.05.23	C77	Master Open		2001.05.20			36	1-0	2	Lausanne SUI		Paehtz,T	2445		twic342.pgn	C77
+Efimenko,Z	2439	2001.05.23	E97	Master Open		2001.05.20			73	1/2-1/2	2	Lausanne SUI		Tukmakov,V	2604		twic342.pgn	E97
+Kosteniuk,A	2397	2001.05.23	B70	Master Open		2001.05.20			79	1/2-1/2	2	Lausanne SUI		Sokolov,And	2568		twic342.pgn	B58
+Cheparinov,I	2444	2001.05.23	D46	Master Open		2001.05.20			90	1/2-1/2	2	Lausanne SUI		Bauer,Ch	2612		twic342.pgn	D11
+Adianto,U	2589	2001.05.23	B19	Master Open		2001.05.20			110	1/2-1/2	2	Lausanne SUI		Belotti,B	2440		twic342.pgn	B19
+Zhao Xue	2428	2001.05.23	A80	Master Open		2001.05.20			113	0-1	2	Lausanne SUI		Epishin,V	2579		twic342.pgn	A80
+Landenbergue,C	2401	2001.05.23	B48	Master Open		2001.05.20			92	1-0	2	Lausanne SUI		Fressinet,L	2575		twic342.pgn	B48
+Fish,G	2497	2001.05.23	A39	Master Open		2001.05.20			43	1/2-1/2	3	Lausanne SUI		Kotsur,P	2576		twic342.pgn	A05
+Lalic,B	2501	2001.05.23	C42	Master Open		2001.05.20			10	1/2-1/2	3	Lausanne SUI		De la Villa Garcia,J	2466		twic342.pgn	C42
+Paehtz,T	2445	2001.05.23	A58	Master Open		2001.05.20			31	1/2-1/2	3	Lausanne SUI		Lazarev,V	2500		twic342.pgn	A58
+Seret,JL	2358	2001.05.23	B06	Master Open		2001.05.20			42	1-0	3	Lausanne SUI		Ghaem Maghami,E	2500		twic342.pgn	B06
+Fressinet,L	2575	2001.05.23	D12	Master Open		2001.05.20			59	0-1	3	Lausanne SUI		Gaprindashvili,V	2486		twic342.pgn	D12
+Ekstroem,R	2492	2001.05.23	D30	Master Open		2001.05.20			84	1/2-1/2	3	Lausanne SUI		Hebden,M	2560		twic342.pgn	D30
+Bauer,Ch	2612	2001.05.23	E01	Master Open		2001.05.20			81	1/2-1/2	3	Lausanne SUI		Raetsky,A	2445		twic342.pgn	E00
+Genov,Peta	2447	2001.05.23	B80	Master Open		2001.05.20			67	0-1	3	Lausanne SUI		Firman,N	2517		twic342.pgn	B90
+Prie,E	2500	2001.05.23	B31	Master Open		2001.05.20			92	1/2-1/2	3	Lausanne SUI		Zhao Xue	2428		twic342.pgn	B31
+Varga,P	2478	2001.05.23	B10	Master Open		2001.05.20			104	0-1	3	Lausanne SUI		Shchekachev,A	2543		twic342.pgn	B10
+Hebden,M	2560	2001.05.24	C86	Master Open		2001.05.20			61	0-1	4	Lausanne SUI		Paehtz,T	2445		twic342.pgn	C77
+Varga,P	2478	2001.05.24	B82	Master Open		2001.05.20			44	1-0	4	Lausanne SUI		Fressinet,L	2575		twic342.pgn	B48
+Simutowe,A	2470	2001.05.24	D46	Master Open		2001.05.20			38	1/2-1/2	4	Lausanne SUI		Tukmakov,V	2604		twic342.pgn	D30
+Cheparinov,I	2444	2001.05.24	E70	Master Open		2001.05.20			82	1-0	4	Lausanne SUI		Lalic,B	2501		twic342.pgn	E70
+Lazarev,V	2500	2001.05.24	B48	Master Open		2001.05.20			79	0-1	4	Lausanne SUI		Zhao Xue	2428		twic342.pgn	B48
+Skembris,S	2450	2001.05.24	A03	Master Open		2001.05.20			67	1/2-1/2	4	Lausanne SUI		Gelashvili,T	2535		twic342.pgn	A03
+De la Villa Garcia,J	2466	2001.05.24	B04	Master Open		2001.05.20			62	1-0	4	Lausanne SUI		Dominguez,L	2556		twic342.pgn	B04
+Kotsur,P	2576	2001.05.24	A33	Master Open		2001.05.20			102	1/2-1/2	4	Lausanne SUI		Ekstroem,R	2492		twic342.pgn	A33
+Adianto,U	2589	2001.05.24	D20	Master Open		2001.05.20			46	1/2-1/2	4	Lausanne SUI		Fish,G	2497		twic342.pgn	D20
+Ghaem Maghami,E	2500	2001.05.24	A59	Master Open		2001.05.20			112	1-0	4	Lausanne SUI		Genov,Peta	2447		twic342.pgn	A59
+Gelashvili,T	2535	2001.05.24	A41	Master Open		2001.05.20			55	0-1	5	Lausanne SUI		Simutowe,A	2470		twic342.pgn	A41
+Tukmakov,V	2604	2001.05.24	C11	Master Open		2001.05.20			32	1/2-1/2	5	Lausanne SUI		Jenni,F	2471		twic342.pgn	C11
+Ekstroem,R	2492	2001.05.24	B19	Master Open		2001.05.20			76	1-0	5	Lausanne SUI		Firman,N	2517		twic342.pgn	B19
+Fressinet,L	2575	2001.05.24	D36	Master Open		2001.05.20			39	1/2-1/2	5	Lausanne SUI		Genov,Peta	2447		twic342.pgn	D43
+Prie,E	2500	2001.05.24	D11	Master Open		2001.05.20			127	1/2-1/2	5	Lausanne SUI		Adianto,U	2589		twic342.pgn	D11
+Lalic,B	2501	2001.05.24	B43	Master Open		2001.05.20			47	0-1	5	Lausanne SUI		Hebden,M	2560		twic342.pgn	B43
+Belotti,B	2440	2001.05.24	E61	Master Open		2001.05.20			58	1-0	5	Lausanne SUI		Ghaem Maghami,E	2500		twic342.pgn	E60
+Dominguez,L	2556	2001.05.24	D46	Master Open		2001.05.20			34	1/2-1/2	5	Lausanne SUI		Lazarev,V	2500		twic342.pgn	D45
+Gaprindashvili,V	2486	2001.05.24	C03	Master Open		2001.05.20			146	1/2-1/2	5	Lausanne SUI		Kotsur,P	2576		twic342.pgn	C03
+Bauer,Ch	2612	2001.05.24	B00	Master Open		2001.05.20			27	1/2-1/2	5	Lausanne SUI		Varga,P	2478		twic342.pgn	A40
+Lazarev,V	2500	2001.05.25	D02	Master Open		2001.05.20			140	1-0	6	Lausanne SUI		Prie,E	2500		twic342.pgn	D02
+Genov,Peta	2447	2001.05.25	A30	Master Open		2001.05.20			62	1/2-1/2	6	Lausanne SUI		Lalic,B	2501		twic342.pgn	A30
+Firman,N	2517	2001.05.25	E00	Master Open		2001.05.20			53	1/2-1/2	6	Lausanne SUI		Fressinet,L	2575		twic342.pgn	D02
+Adianto,U	2589	2001.05.25	D02	Master Open		2001.05.20			58	1/2-1/2	6	Lausanne SUI		Varga,P	2478		twic342.pgn	D02
+Ghaem Maghami,E	2500	2001.05.25	B90	Master Open		2001.05.20			93	1/2-1/2	6	Lausanne SUI		Dominguez,L	2556		twic342.pgn	B90
+Godena,M	2494	2001.05.25	C28	Master Open		2001.05.20			35	0-1	6	Lausanne SUI		Cornette,M	2228		twic342.pgn	C24
+Kotsur,P	2576	2001.05.25	B23	Master Open		2001.05.20			89	0-1	6	Lausanne SUI		Gelashvili,T	2535		twic342.pgn	B23
+Jenni,F	2471	2001.05.25	A49	Master Open		2001.05.20			98	1/2-1/2	6	Lausanne SUI		Bauer,Ch	2612		twic342.pgn	A49
+Vladimirov,E	2612	2001.05.25	E45	Master Open		2001.05.20			135	0-1	6	Lausanne SUI		Gaprindashvili,V	2486		twic342.pgn	E45
+Skembris,S	2450	2001.05.25	D07	Master Open		2001.05.20			90	1/2-1/2	6	Lausanne SUI		Tukmakov,V	2604		twic342.pgn	D07
+Cheparinov,I	2444	2001.05.25	E97	Master Open		2001.05.20			170	1/2-1/2	6	Lausanne SUI		Epishin,V	2579		twic342.pgn	E97
+Tukmakov,V	2604	2001.05.26	E12	Master Open		2001.05.20			86	1-0	7	Lausanne SUI		Cheparinov,I	2444		twic342.pgn	E12
+Fressinet,L	2575	2001.05.26	D13	Master Open		2001.05.20			18	1/2-1/2	7	Lausanne SUI		Lalic,B	2501		twic342.pgn	D10
+Prie,E	2500	2001.05.26	D11	Master Open		2001.05.20			78	1/2-1/2	7	Lausanne SUI		Genov,Peta	2447		twic342.pgn	D11
+Ghaem Maghami,E	2500	2001.05.26	B43	Master Open		2001.05.20			86	1-0	7	Lausanne SUI		Kotsur,P	2576		twic342.pgn	B43
+Dominguez,L	2556	2001.05.26	B22	Master Open		2001.05.20			59	0-1	7	Lausanne SUI		Godena,M	2494		twic342.pgn	B22
+Paehtz,T	2445	2001.05.26	A31	Master Open		2001.05.20			31	1/2-1/2	7	Lausanne SUI		Adianto,U	2589		twic342.pgn	A31
+Firman,N	2517	2001.05.26	A90	Master Open		2001.05.20			96	1-0	7	Lausanne SUI		Vladimirov,E	2612		twic342.pgn	A40
+Fish,G	2497	2001.05.26	A46	Master Open		2001.05.20			102	1-0	7	Lausanne SUI		Hebden,M	2560		twic342.pgn	A46
+Bauer,Ch	2612	2001.05.26	B80	Master Open		2001.05.20			92	1/2-1/2	7	Lausanne SUI		De la Villa Garcia,J	2466		twic342.pgn	B80
+Belotti,B	2440	2001.05.26	A34	Master Open		2001.05.20			58	1-0	7	Lausanne SUI		Shchekachev,A	2543		twic342.pgn	A34
+Hebden,M	2560	2001.05.27	E97	Master Open		2001.05.20			54	1/2-1/2	8	Lausanne SUI		Fressinet,L	2575		twic342.pgn	E97
+Lalic,B	2501	2001.05.27	E60	Master Open		2001.05.20			33	1/2-1/2	8	Lausanne SUI		Vladimirov,E	2612		twic342.pgn	E60
+Kotsur,P	2576	2001.05.27	A46	Master Open		2001.05.20			99	1/2-1/2	8	Lausanne SUI		Prie,E	2500		twic342.pgn	A46
+Cornette,M	2228	2001.05.27	D11	Master Open		2001.05.20			40	1-0	8	Lausanne SUI		Gaprindashvili,V	2486		twic342.pgn	D11
+Genov,Peta	2447	2001.05.27	B81	Master Open		2001.05.20			109	0-1	8	Lausanne SUI		Dominguez,L	2556		twic342.pgn	B90
+Cheparinov,I	2444	2001.05.27	B84	Master Open		2001.05.20			43	1/2-1/2	8	Lausanne SUI		Sokolov,And	2568		twic342.pgn	B84
+Shchekachev,A	2543	2001.05.27	B00	Master Open		2001.05.20			72	1-0	8	Lausanne SUI		Gallagher,Jo	2524		twic342.pgn	B00
+Efimenko,Z	2439	2001.05.27	E71	Master Open		2001.05.20			59	0-1	8	Lausanne SUI		Varga,P	2478		twic342.pgn	E71
+Adianto,U	2589	2001.05.27	B06	Master Open		2001.05.20			150	0-1	8	Lausanne SUI		Masserey,Y	2373		twic342.pgn	B06
+Loeffler,S	2413	2001.05.27	B04	Master Open		2001.05.20			98	1-0	8	Lausanne SUI		Bauer,Ch	2612		twic342.pgn	B04
+De la Villa Garcia,J	2466	2001.05.27	A40	Master Open		2001.05.20			70	1-0	8	Lausanne SUI		Epishin,V	2579		twic342.pgn	A40
+Kosteniuk,A	2397	2001.05.27	D33	Master Open		2001.05.20			43	0-1	8	Lausanne SUI		Ghaem Maghami,E	2500		twic342.pgn	D33
+Eisele,S	2212	2001.05.24	B06	6th Stuttgart Open		2001.05.24			87	0-1	1	Ditzingen GER		Kolb,Roland	0		twic342.pgn	A04
+Bauer,D	2053	2001.05.24	B06	6th Stuttgart Open		2001.05.24			79	1-0	1	Ditzingen GER		Schlosser,P	2493		twic342.pgn	B06
+Meijers,V	2454	2001.05.24	A03	6th Stuttgart Open		2001.05.24			48	1-0	1	Ditzingen GER		Stock,J	2053		twic342.pgn	D00
+Panic,Branko	0	2001.05.24	B12	6th Stuttgart Open		2001.05.24			66	1-0	1	Ditzingen GER		Duppel,M	2455		twic342.pgn	B12
+Zeller,F	2433	2001.05.24	A43	6th Stuttgart Open		2001.05.24			81	0-1	1	Ditzingen GER		Hedler,T	2050		twic342.pgn	A04
+Tsolakidis,P	2049	2001.05.24	B07	6th Stuttgart Open		2001.05.24			105	1/2-1/2	1	Ditzingen GER		Voloshin,L	2420		twic342.pgn	B07
+Ksieski,Z	2415	2001.05.24	B23	6th Stuttgart Open		2001.05.24			35	0-1	1	Ditzingen GER		Klaus,D	2044		twic342.pgn	B23
+Stanescu,C	2041	2001.05.24	B25	6th Stuttgart Open		2001.05.24			82	1-0	1	Ditzingen GER		Haub,TM	2368		twic342.pgn	A05
+Klundt,K	2366	2001.05.24	B35	6th Stuttgart Open		2001.05.24			72	1-0	1	Ditzingen GER		Kotlyar,Dimitri	0		twic342.pgn	B35
+Lausen,B	2037	2001.05.24	D52	6th Stuttgart Open		2001.05.24			68	1/2-1/2	1	Ditzingen GER		Lindemann,St	2358		twic342.pgn	D52
+Reuss,A	2329	2001.05.24	B19	6th Stuttgart Open		2001.05.24			101	0-1	1	Ditzingen GER		Haecker,Alexander	0		twic342.pgn	B18
+Gombos,Janos	0	2001.05.24	C88	6th Stuttgart Open		2001.05.24			75	1-0	1	Ditzingen GER		Gheng,J	2307		twic342.pgn	C88
+Fahnenschmidt,G	2285	2001.05.24	B22	6th Stuttgart Open		2001.05.24			93	0-1	1	Ditzingen GER		Junginger,A	2020		twic342.pgn	B22
+Notter,Felix	0	2001.05.24	E48	6th Stuttgart Open		2001.05.24			93	0-1	1	Ditzingen GER		Meier,T	2283		twic342.pgn	E41
+Wiley,To	2273	2001.05.24	A86	6th Stuttgart Open		2001.05.24			85	0-1	1	Ditzingen GER		Gabriel,R	2292		twic342.pgn	A81
+Feiler,Juergen	0	2001.05.24	C17	6th Stuttgart Open		2001.05.24			54	1-0	1	Ditzingen GER		Christ,R	2271		twic342.pgn	C17
+Hamm,S	2247	2001.05.24	C29	6th Stuttgart Open		2001.05.24			97	0-1	1	Ditzingen GER		Braeunlin,Klaus	0		twic342.pgn	C29
+Strifler,J	2014	2001.05.24	C25	6th Stuttgart Open		2001.05.24			33	1-0	1	Ditzingen GER		Lach,B	2233		twic342.pgn	C25
+Ortmann,D	2227	2001.05.24	B24	6th Stuttgart Open		2001.05.24			161	0-1	1	Ditzingen GER		Metzger,C	2090		twic342.pgn	B24
+Karatsioras,Nikos	0	2001.05.24	B71	6th Stuttgart Open		2001.05.24			75	0-1	1	Ditzingen GER		Schmid,Ha	2226		twic342.pgn	B71
+Christ,R	2271	2001.05.24	B92	6th Stuttgart Open		2001.05.24			95	0-1	2	Ditzingen GER		Fries,A	2055		twic342.pgn	B92
+Schlosser,P	2493	2001.05.24	C02	6th Stuttgart Open		2001.05.24			80	1-0	2	Ditzingen GER		Gelfenboim,J	2168		twic342.pgn	C02
+Duppel,M	2455	2001.05.24	C12	6th Stuttgart Open		2001.05.24			45	0-1	2	Ditzingen GER		Hofrichter,J	2113		twic342.pgn	C12
+Jurasin,M	2169	2001.05.24	B07	6th Stuttgart Open		2001.05.24			48	1-0	2	Ditzingen GER		Zeller,F	2433		twic342.pgn	B06
+Nagelsdiek,M	2154	2001.05.24	E90	6th Stuttgart Open		2001.05.24			56	1-0	2	Ditzingen GER		Ksieski,Z	2415		twic342.pgn	E71
+Haub,TM	2368	2001.05.24	B06	6th Stuttgart Open		2001.05.24			45	0-1	2	Ditzingen GER		Haussler,Frank	0		twic342.pgn	B06
+Jerosch,G	2096	2001.05.24	A04	6th Stuttgart Open		2001.05.24			94	1-0	2	Ditzingen GER		Reuss,A	2329		twic342.pgn	A04
+Gheng,J	2307	2001.05.24	B10	6th Stuttgart Open		2001.05.24			95	0-1	2	Ditzingen GER		Sattler,W	2068		twic342.pgn	A07
+Rau,J	2134	2001.05.24	A32	6th Stuttgart Open		2001.05.24			111	1/2-1/2	2	Ditzingen GER		Fahnenschmidt,G	2285		twic342.pgn	E00
+Heining,T	2082	2001.05.24	E32	6th Stuttgart Open		2001.05.24			56	1-0	2	Ditzingen GER		Wiley,To	2273		twic342.pgn	E32
+Voloshin,L	2420	2001.05.24	E00	6th Stuttgart Open		2001.05.24			103	0-1	2	Ditzingen GER		Lausen,B	2037		twic342.pgn	E00
+Tepluhina,K	2068	2001.05.24	B33	6th Stuttgart Open		2001.05.24			108	1-0	2	Ditzingen GER		Hamm,S	2247		twic342.pgn	B33
+Lach,B	2233	2001.05.24	C60	6th Stuttgart Open		2001.05.24			49	0-1	2	Ditzingen GER		Notter,Felix	0		twic342.pgn	C60
+Stock,J	2053	2001.05.24	A84	6th Stuttgart Open		2001.05.24			81	1-0	2	Ditzingen GER		Ortmann,D	2227		twic342.pgn	A13
+Kotlyar,Dimitri	0	2001.05.24	D87	6th Stuttgart Open		2001.05.24			73	1-0	2	Ditzingen GER		Eisele,S	2212		twic342.pgn	D87
+Karatsioras,Nikos	0	2001.05.24	A00	6th Stuttgart Open		2001.05.24			61	1-0	2	Ditzingen GER		Huettig,M	2197		twic342.pgn	A00
+Klein,HG	2196	2001.05.24	C05	6th Stuttgart Open		2001.05.24			38	1/2-1/2	2	Ditzingen GER		Vesper,Horst	0		twic342.pgn	C05
+Albers,Frank	0	2001.05.24	A90	6th Stuttgart Open		2001.05.24			65	1-0	2	Ditzingen GER		Juhasz,L1	2208		twic342.pgn	A90
+Kiefer,Johannes	0	2001.05.24	A35	6th Stuttgart Open		2001.05.24			68	1-0	2	Ditzingen GER		Gabriel,J	2190		twic342.pgn	A38
+Wittmann,Ral	2185	2001.05.24	E22	6th Stuttgart Open		2001.05.24			79	0-1	2	Ditzingen GER		Behm,Simon	0		twic342.pgn	E22
+Kotlyar,Dimitri	0	2001.05.25	D75	6th Stuttgart Open		2001.05.24			34	1-0	3	Ditzingen GER		Schlosser,P	2493		twic342.pgn	A15
+Hamm,S	2247	2001.05.25	D37	6th Stuttgart Open		2001.05.24			88	1-0	3	Ditzingen GER		Duppel,M	2455		twic342.pgn	D37
+Zeller,F	2433	2001.05.25	B23	6th Stuttgart Open		2001.05.24			72	1/2-1/2	3	Ditzingen GER		Lach,B	2233		twic342.pgn	B23
+Ksieski,Z	2415	2001.05.25	A33	6th Stuttgart Open		2001.05.24			136	1/2-1/2	3	Ditzingen GER		Ortmann,D	2227		twic342.pgn	A33
+Eisele,S	2212	2001.05.25	A04	6th Stuttgart Open		2001.05.24			48	1-0	3	Ditzingen GER		Haub,TM	2368		twic342.pgn	A04
+Reuss,A	2329	2001.05.25	A00	6th Stuttgart Open		2001.05.24			72	0-1	3	Ditzingen GER		Huettig,M	2197		twic342.pgn	A00
+Juhasz,L1	2208	2001.05.25	B17	6th Stuttgart Open		2001.05.24			59	1/2-1/2	3	Ditzingen GER		Gheng,J	2307		twic342.pgn	B17
+Wiley,To	2273	2001.05.25	C02	6th Stuttgart Open		2001.05.24			84	1-0	3	Ditzingen GER		Wittmann,Ral	2185		twic342.pgn	C02
+Gabriel,J	2190	2001.05.25	B06	6th Stuttgart Open		2001.05.24			100	1/2-1/2	3	Ditzingen GER		Christ,R	2271		twic342.pgn	B06
+Gelfenboim,J	2168	2001.05.25	D02	6th Stuttgart Open		2001.05.24			36	1-0	3	Ditzingen GER		Voloshin,L	2420		twic342.pgn	D02
+Weise,Wolfgang	0	2001.05.25	D32	6th Stuttgart Open		2001.05.24			80	1-0	3	Ditzingen GER		Lindemann,St	2358		twic342.pgn	D32
+Fahnenschmidt,G	2285	2001.05.25	B90	6th Stuttgart Open		2001.05.24			110	1/2-1/2	3	Ditzingen GER		Mijatovic,Vladimir	0		twic342.pgn	B90
+Rau,J	2134	2001.05.25	A36	6th Stuttgart Open		2001.05.24			25	1/2-1/2	3	Ditzingen GER		Gerstenberger,H	2205		twic342.pgn	A30
+Herrmann,A	2132	2001.05.25	D75	6th Stuttgart Open		2001.05.24			18	1/2-1/2	3	Ditzingen GER		Klein,HG	2196		twic342.pgn	A39
+Vesper,Horst	0	2001.05.25	D11	6th Stuttgart Open		2001.05.24			120	1-0	3	Ditzingen GER		Kruck,D	2191		twic342.pgn	D11
+Meijers,V	2454	2001.05.25	B41	6th Stuttgart Open		2001.05.24			55	0-1	3	Ditzingen GER		Haecker,Alexander	0		twic342.pgn	B41
+Klundt,K	2366	2001.05.25	B22	6th Stuttgart Open		2001.05.24			107	0-1	3	Ditzingen GER		Junginger,A	2020		twic342.pgn	B22
+Gabriel,R	2292	2001.05.25	E43	6th Stuttgart Open		2001.05.24			52	1-0	3	Ditzingen GER		Meier,T	2283		twic342.pgn	E43
+Blessing,Tobias	0	2001.05.25	B06	6th Stuttgart Open		2001.05.24			28	1-0	3	Ditzingen GER		Klaus,D	2044		twic342.pgn	B06
+Schlemminger,Degenhard	0	2001.05.25	B10	6th Stuttgart Open		2001.05.24			102	1-0	3	Ditzingen GER		Metzger,C	2090		twic342.pgn	B10
+Heining,T	2082	2001.05.25	B45	6th Stuttgart Open		2001.05.24			74	1-0	4	Ditzingen GER		Klundt,K	2366		twic342.pgn	B40
+Duppel,M	2455	2001.05.25	D02	6th Stuttgart Open		2001.05.24			31	1/2-1/2	4	Ditzingen GER		Reuss,A	2329		twic342.pgn	D02
+Haub,TM	2368	2001.05.25	B06	6th Stuttgart Open		2001.05.24			61	0-1	4	Ditzingen GER		Wittmann,Ral	2185		twic342.pgn	B06
+Christ,R	2271	2001.05.25	B86	6th Stuttgart Open		2001.05.24			44	1-0	4	Ditzingen GER		Zeller,F	2433		twic342.pgn	B90
+Voloshin,L	2420	2001.05.25	B23	6th Stuttgart Open		2001.05.24			41	1/2-1/2	4	Ditzingen GER		Lach,B	2233		twic342.pgn	B23
+Kruck,D	2191	2001.05.25	A40	6th Stuttgart Open		2001.05.24			31	1-0	4	Ditzingen GER		Ksieski,Z	2415		twic342.pgn	A40
+Lindemann,St	2358	2001.05.25	A33	6th Stuttgart Open		2001.05.24			63	0-1	4	Ditzingen GER		Juhasz,L1	2208		twic342.pgn	A33
+Gheng,J	2307	2001.05.25	A16	6th Stuttgart Open		2001.05.24			143	1/2-1/2	4	Ditzingen GER		Gabriel,J	2190		twic342.pgn	A16
+Ortmann,D	2227	2001.05.25	B33	6th Stuttgart Open		2001.05.24			86	1-0	4	Ditzingen GER		Meijers,V	2454		twic342.pgn	B33
+Meier,T	2283	2001.05.25	B56	6th Stuttgart Open		2001.05.24			9	1/2-1/2	4	Ditzingen GER		Rau,J	2134		twic342.pgn	B56
+Stock,J	2053	2001.05.25	A84	6th Stuttgart Open		2001.05.24			54	1-0	4	Ditzingen GER		Wiley,To	2273		twic342.pgn	A84
+Mijatovic,Vladimir	0	2001.05.25	B80	6th Stuttgart Open		2001.05.24			50	1-0	4	Ditzingen GER		Hamm,S	2247		twic342.pgn	B90
+Braeunlin,Klaus	0	2001.05.25	D61	6th Stuttgart Open		2001.05.24			30	1-0	4	Ditzingen GER		Eisele,S	2212		twic342.pgn	D61
+Gerstenberger,H	2205	2001.05.25	A47	6th Stuttgart Open		2001.05.24			64	1/2-1/2	4	Ditzingen GER		Herrmann,A	2132		twic342.pgn	A46
+Huettig,M	2197	2001.05.25	C93	6th Stuttgart Open		2001.05.24			127	0-1	4	Ditzingen GER		Hofrichter,J	2113		twic342.pgn	C88
+Klein,HG	2196	2001.05.25	C02	6th Stuttgart Open		2001.05.24			111	0-1	4	Ditzingen GER		Haussler,Frank	0		twic342.pgn	C02
+Jurasin,M	2169	2001.05.25	A12	6th Stuttgart Open		2001.05.24			71	0-1	4	Ditzingen GER		Sattler,W	2068		twic342.pgn	A05
+Loerincz,Andreas	0	2001.05.25	B00	6th Stuttgart Open		2001.05.24			49	1-0	4	Ditzingen GER		Gelfenboim,J	2168		twic342.pgn	B00
+Tepluhina,K	2068	2001.05.25	E92	6th Stuttgart Open		2001.05.24			46	1-0	4	Ditzingen GER		Fahnenschmidt,G	2285		twic342.pgn	E92
+Schlosser,P	2493	2001.05.25	A45	6th Stuttgart Open		2001.05.24			61	0-1	4	Ditzingen GER		Doll,M	2155		twic342.pgn	A45
+Juhasz,L1	2208	2001.05.26	D93	6th Stuttgart Open		2001.05.24			51	0-1	5	Ditzingen GER		Lausen,B	2037		twic342.pgn	D82
+Doll,M	2155	2001.05.26	C18	6th Stuttgart Open		2001.05.24			73	0-1	5	Ditzingen GER		Braeunlin,Klaus	0		twic342.pgn	C18
+Hofrichter,J	2113	2001.05.26	B26	6th Stuttgart Open		2001.05.24			67	0-1	5	Ditzingen GER		Metzger,C	2090		twic342.pgn	B26
+Feiler,Juergen	0	2001.05.26	A24	6th Stuttgart Open		2001.05.24			139	0-1	5	Ditzingen GER		Gerstenberger,H	2205		twic342.pgn	A15
+Herrmann,A	2132	2001.05.26	E91	6th Stuttgart Open		2001.05.24			36	1/2-1/2	5	Ditzingen GER		Ortmann,D	2227		twic342.pgn	E91
+Rau,J	2134	2001.05.26	B84	6th Stuttgart Open		2001.05.24			67	0-1	5	Ditzingen GER		Christ,R	2271		twic342.pgn	B84
+Nagelsdiek,M	2154	2001.05.26	E85	6th Stuttgart Open		2001.05.24			78	1-0	5	Ditzingen GER		Meier,T	2283		twic342.pgn	E80
+Jerosch,G	2096	2001.05.26	B88	6th Stuttgart Open		2001.05.24			94	1-0	5	Ditzingen GER		Schmid,Ha	2226		twic342.pgn	B89
+Haussler,Frank	0	2001.05.26	B44	6th Stuttgart Open		2001.05.24			48	1-0	5	Ditzingen GER		Wettengel,Alexander	0		twic342.pgn	B44
+Vesper,Horst	0	2001.05.26	B18	6th Stuttgart Open		2001.05.24			50	1-0	5	Ditzingen GER		Klaus,D	2044		twic342.pgn	B18
+Wittmann,Ral	2185	2001.05.26	A30	6th Stuttgart Open		2001.05.24			37	1-0	5	Ditzingen GER		Gheng,J	2307		twic342.pgn	A15
+Klundt,K	2366	2001.05.26	A00	6th Stuttgart Open		2001.05.24			60	1-0	5	Ditzingen GER		Huettig,M	2197		twic342.pgn	A00
+Gabriel,J	2190	2001.05.26	A81	6th Stuttgart Open		2001.05.24			71	1-0	5	Ditzingen GER		Voloshin,L	2420		twic342.pgn	A81
+Meijers,V	2454	2001.05.26	B23	6th Stuttgart Open		2001.05.24			57	0-1	5	Ditzingen GER		Eisele,S	2212		twic342.pgn	B23
+Lach,B	2233	2001.05.26	D07	6th Stuttgart Open		2001.05.24			70	1-0	5	Ditzingen GER		Schlosser,P	2493		twic342.pgn	D07
+Reuss,A	2329	2001.05.26	D33	6th Stuttgart Open		2001.05.24			85	1/2-1/2	5	Ditzingen GER		Lindemann,St	2358		twic342.pgn	D33
+Ksieski,Z	2415	2001.05.26	E38	6th Stuttgart Open		2001.05.24			42	1/2-1/2	5	Ditzingen GER		Duppel,M	2455		twic342.pgn	E38
+Zeller,F	2433	2001.05.26	A05	6th Stuttgart Open		2001.05.24			137	0-1	5	Ditzingen GER		Haub,TM	2368		twic342.pgn	A05
+Franke,Willi	0	2001.05.26	B95	6th Stuttgart Open		2001.05.24			41	0-1	5	Ditzingen GER		Torok,Mi	2121		twic342.pgn	B95
+Scherer,H	2272	2001.05.26	D00	6th Stuttgart Open		2001.05.24			34	1-0	5	Ditzingen GER		Schmied,A	2153		twic342.pgn	A48
+Behm,Simon	0	2001.05.26	B21	6th Stuttgart Open		2001.05.24			76	1-0	5	Ditzingen GER		Muth,R	2062		twic342.pgn	B20
+Blessing,Tobias	0	2001.05.26	A00	6th Stuttgart Open		2001.05.24			42	1-0	5	Ditzingen GER		Hedler,T	2050		twic342.pgn	A00
+Kotlyar,Dimitri	0	2001.05.26	D85	6th Stuttgart Open		2001.05.24			45	1/2-1/2	5	Ditzingen GER		Sand,R	2113		twic342.pgn	D85
+Notter,Felix	0	2001.05.26	B22	6th Stuttgart Open		2001.05.24			89	0-1	5	Ditzingen GER		Ladinzon,I	2106		twic342.pgn	B22
+Gabriel,R	2292	2001.05.26	B44	6th Stuttgart Open		2001.05.24			90	1/2-1/2	5	Ditzingen GER		Heining,T	2082		twic342.pgn	B44
+Hamm,S	2247	2001.05.26	C32	6th Stuttgart Open		2001.05.24			73	0-1	5	Ditzingen GER		Gelfenboim,J	2168		twic342.pgn	C31
+Wiley,To	2273	2001.05.26	E22	6th Stuttgart Open		2001.05.24			77	0-1	5	Ditzingen GER		Jurasin,M	2169		twic342.pgn	E22
+Vielwock,Vadim	0	2001.05.26	D05	6th Stuttgart Open		2001.05.24			62	1-0	5	Ditzingen GER		Kruck,D	2191		twic342.pgn	D05
+Fahnenschmidt,G	2285	2001.05.26	A34	6th Stuttgart Open		2001.05.24			80	0-1	5	Ditzingen GER		Klein,HG	2196		twic342.pgn	A30
+Junginger,A	2020	2001.05.26	D35	6th Stuttgart Open		2001.05.24			35	1/2-1/2	6	Ditzingen GER		Krueger,Joern	0		twic342.pgn	D35
+Schlosser,P	2493	2001.05.26	C15	6th Stuttgart Open		2001.05.24			114	1/2-1/2	6	Ditzingen GER		Zeller,F	2433		twic342.pgn	C15
+Gheng,J	2307	2001.05.26	B77	6th Stuttgart Open		2001.05.24			94	1-0	6	Ditzingen GER		Meijers,V	2454		twic342.pgn	B77
+Duppel,M	2455	2001.05.26	D46	6th Stuttgart Open		2001.05.24			111	0-1	6	Ditzingen GER		Fahnenschmidt,G	2285		twic342.pgn	D45
+Voloshin,L	2420	2001.05.26	D78	6th Stuttgart Open		2001.05.24			82	0-1	6	Ditzingen GER		Reuss,A	2329		twic342.pgn	A06
+Huettig,M	2197	2001.05.26	E71	6th Stuttgart Open		2001.05.24			26	1-0	6	Ditzingen GER		Ksieski,Z	2415		twic342.pgn	A56
+Haub,TM	2368	2001.05.26	A92	6th Stuttgart Open		2001.05.24			89	0-1	6	Ditzingen GER		Wiley,To	2273		twic342.pgn	A92
+Lindemann,St	2358	2001.05.26	B76	6th Stuttgart Open		2001.05.24			77	0-1	6	Ditzingen GER		Hamm,S	2247		twic342.pgn	B76
+Meier,T	2283	2001.05.26	D53	6th Stuttgart Open		2001.05.24			73	0-1	6	Ditzingen GER		Feiler,Juergen	0		twic342.pgn	D31
+Schmid,Ha	2226	2001.05.26	C10	6th Stuttgart Open		2001.05.24			26	1/2-1/2	6	Ditzingen GER		Rau,J	2134		twic342.pgn	B29
+Kruck,D	2191	2001.05.26	A84	6th Stuttgart Open		2001.05.24			90	1-0	6	Ditzingen GER		Juhasz,L1	2208		twic342.pgn	A40
+Gelfenboim,J	2168	2001.05.26	C63	6th Stuttgart Open		2001.05.24			39	1/2-1/2	6	Ditzingen GER		Klundt,K	2366		twic342.pgn	C63
+Lach,B	2233	2001.05.26	D07	6th Stuttgart Open		2001.05.24			75	0-1	6	Ditzingen GER		Doll,M	2155		twic342.pgn	D07
+Ortmann,D	2227	2001.05.26	B43	6th Stuttgart Open		2001.05.24			39	0-1	6	Ditzingen GER		Hofrichter,J	2113		twic342.pgn	B43
+Eisele,S	2212	2001.05.26	A40	6th Stuttgart Open		2001.05.24			66	1-0	6	Ditzingen GER		Herrmann,A	2132		twic342.pgn	A40
+Klein,HG	2196	2001.05.26	C00	6th Stuttgart Open		2001.05.24			49	1/2-1/2	6	Ditzingen GER		Tepluhina,K	2068		twic342.pgn	C00
+Klaus,D	2044	2001.05.26	A25	6th Stuttgart Open		2001.05.24			131	0-1	6	Ditzingen GER		Gabriel,J	2190		twic342.pgn	A22
+Wittmann,Ral	2185	2001.05.26	C03	6th Stuttgart Open		2001.05.24			71	0-1	6	Ditzingen GER		Notter,Felix	0		twic342.pgn	C03
+Jurasin,M	2169	2001.05.26	B22	6th Stuttgart Open		2001.05.24			115	0-1	6	Ditzingen GER		Wettengel,Alexander	0		twic342.pgn	B06
+Christ,R	2271	2001.05.26	A29	6th Stuttgart Open		2001.05.24			35	0-1	6	Ditzingen GER		Stanescu,C	2041		twic342.pgn	A29
+Gerstenberger,H	2205	2001.05.26	C17	6th Stuttgart Open		2001.05.24			103	0-1	6	Ditzingen GER		Kotlyar,Dimitri	0		twic342.pgn	C17
+Lausen,B	2037	2001.05.26	A03	6th Stuttgart Open		2001.05.24			81	0-1	6	Ditzingen GER		Pfeifer,W	2172		twic342.pgn	A03
+Gombos,Janos	0	2001.05.26	E14	6th Stuttgart Open		2001.05.24			44	1-0	6	Ditzingen GER		Nagelsdiek,M	2154		twic342.pgn	E14
+Sand,R	2113	2001.05.26	D88	6th Stuttgart Open		2001.05.24			37	1/2-1/2	6	Ditzingen GER		Gabriel,R	2292		twic342.pgn	D88
+Haecker,Alexander	0	2001.05.26	D36	6th Stuttgart Open		2001.05.24			67	1-0	6	Ditzingen GER		Jerosch,G	2096		twic342.pgn	D36
+Heining,T	2082	2001.05.26	A08	6th Stuttgart Open		2001.05.24			62	1-0	6	Ditzingen GER		Franke,Willi	0		twic342.pgn	C00
+Stock,J	2053	2001.05.26	C02	6th Stuttgart Open		2001.05.24			80	1-0	6	Ditzingen GER		Vielwock,Vadim	0		twic342.pgn	C02
+Albers,Frank	0	2001.05.26	A83	6th Stuttgart Open		2001.05.24			120	1-0	6	Ditzingen GER		Panic,Branko	0		twic342.pgn	A83
+Ladinzon,I	2106	2001.05.26	B33	6th Stuttgart Open		2001.05.24			36	1-0	6	Ditzingen GER		Mijatovic,Vladimir	0		twic342.pgn	B33
+Ackermann,Hermann	0	2001.05.26	E62	6th Stuttgart Open		2001.05.24			185	0-1	6	Ditzingen GER		Weise,Wolfgang	0		twic342.pgn	A40
+Schmied,A	2153	2001.05.26	A14	6th Stuttgart Open		2001.05.24			63	0-1	6	Ditzingen GER		Kolb,Roland	0		twic342.pgn	A14
+White,Herbert	0	2001.05.26	B23	6th Stuttgart Open		2001.05.24			44	1-0	6	Ditzingen GER		Haussler,Frank	0		twic342.pgn	B21
+Muth,R	2062	2001.05.26	B77	6th Stuttgart Open		2001.05.24			47	0-1	6	Ditzingen GER		Heisler,Bernhard	0		twic342.pgn	B79
+Lutzei,S	2058	2001.05.26	D40	6th Stuttgart Open		2001.05.24			98	0-1	6	Ditzingen GER		Franke,Michael	0		twic342.pgn	B13
+Haecker,Alexander	0	2001.05.26	C05	6th Stuttgart Open		2001.05.24			39	0-1	6	Ditzingen GER		Vesper,Horst	0		twic342.pgn	C05
+Metzger,C	2090	2001.05.26	A03	6th Stuttgart Open		2001.05.24			30	1/2-1/2	6	Ditzingen GER		Niethammer,Christoph	0		twic342.pgn	A03
+Kiefer,Johannes	0	2001.05.26	B77	6th Stuttgart Open		2001.05.24			68	1-0	6	Ditzingen GER		Kulovic,Edmir	0		twic342.pgn	B77
+Franke,Willi	0	2001.05.27	A46	6th Stuttgart Open		2001.05.24			66	1-0	7	Ditzingen GER		Kruck,D	2191		twic342.pgn	A46
+Meijers,V	2454	2001.05.27	D55	6th Stuttgart Open		2001.05.24			105	1/2-1/2	7	Ditzingen GER		Lindemann,St	2358		twic342.pgn	D60
+Zeller,F	2433	2001.05.27	E12	6th Stuttgart Open		2001.05.24			50	1/2-1/2	7	Ditzingen GER		Duppel,M	2455		twic342.pgn	E12
+Ksieski,Z	2415	2001.05.27	A37	6th Stuttgart Open		2001.05.24			77	1/2-1/2	7	Ditzingen GER		Voloshin,L	2420		twic342.pgn	A37
+Juhasz,L1	2208	2001.05.27	B25	6th Stuttgart Open		2001.05.24			76	1-0	7	Ditzingen GER		Haub,TM	2368		twic342.pgn	A04
+Reuss,A	2329	2001.05.27	D43	6th Stuttgart Open		2001.05.24			99	1/2-1/2	7	Ditzingen GER		Meier,T	2283		twic342.pgn	D43
+Schmid,Ha	2226	2001.05.27	B81	6th Stuttgart Open		2001.05.24			129	1/2-1/2	7	Ditzingen GER		Gheng,J	2307		twic342.pgn	B81
+Fahnenschmidt,G	2285	2001.05.27	A00	6th Stuttgart Open		2001.05.24			21	0-1	7	Ditzingen GER		Huettig,M	2197		twic342.pgn	A00
+Wiley,To	2273	2001.05.27	C02	6th Stuttgart Open		2001.05.24			45	0-1	7	Ditzingen GER		Klaus,D	2044		twic342.pgn	C02
+Hamm,S	2247	2001.05.27	B05	6th Stuttgart Open		2001.05.24			87	0-1	7	Ditzingen GER		Wittmann,Ral	2185		twic342.pgn	B05
+Herrmann,A	2132	2001.05.27	B06	6th Stuttgart Open		2001.05.24			75	0-1	7	Ditzingen GER		Lach,B	2233		twic342.pgn	B06
+Rau,J	2134	2001.05.27	A33	6th Stuttgart Open		2001.05.24			52	1-0	7	Ditzingen GER		Ortmann,D	2227		twic342.pgn	A33
+Klundt,K	2366	2001.05.27	E61	6th Stuttgart Open		2001.05.24			119	1/2-1/2	7	Ditzingen GER		Jurasin,M	2169		twic342.pgn	E61
+Tepluhina,K	2068	2001.05.27	B33	6th Stuttgart Open		2001.05.24			104	1-0	7	Ditzingen GER		Christ,R	2271		twic342.pgn	B33
+Panic,Branko	0	2001.05.27	A26	6th Stuttgart Open		2001.05.24			72	1-0	7	Ditzingen GER		Gerstenberger,H	2205		twic342.pgn	A15
+Feiler,Juergen	0	2001.05.27	D75	6th Stuttgart Open		2001.05.24			29	1/2-1/2	7	Ditzingen GER		Klein,HG	2196		twic342.pgn	A15
+Karatsioras,Nikos	0	2001.05.27	C02	6th Stuttgart Open		2001.05.24			18	1/2-1/2	7	Ditzingen GER		Kuehn,Timo	0		twic342.pgn	C02
+Vielwock,Vadim	0	2001.05.27	C02	6th Stuttgart Open		2001.05.24			59	1-0	7	Ditzingen GER		Gelfenboim,J	2168		twic342.pgn	C02
+Nagelsdiek,M	2154	2001.05.27	E92	6th Stuttgart Open		2001.05.24			50	0-1	7	Ditzingen GER		Lausen,B	2037		twic342.pgn	E92
+Jerosch,G	2096	2001.05.27	B56	6th Stuttgart Open		2001.05.24			115	0-1	7	Ditzingen GER		Mijatovic,Vladimir	0		twic342.pgn	B56
+Notter,Felix	0	2001.05.27	E11	6th Stuttgart Open		2001.05.24			74	1-0	7	Ditzingen GER		Eisele,S	2212		twic342.pgn	E11
+Gabriel,J	2190	2001.05.27	E90	6th Stuttgart Open		2001.05.24			67	0-1	7	Ditzingen GER		Muth,R	2062		twic342.pgn	E90
+Doll,M	2155	2001.05.27	A85	6th Stuttgart Open		2001.05.24			49	0-1	7	Ditzingen GER		Lutzei,S	2058		twic342.pgn	A80
+Haussler,Frank	0	2001.05.27	A01	6th Stuttgart Open		2001.05.24			50	1/2-1/2	7	Ditzingen GER		Loerincz,Andreas	0		twic342.pgn	A01
+Krueger,Joern	0	2001.05.27	B49	6th Stuttgart Open		2001.05.24			22	1-0	7	Ditzingen GER		Heining,T	2082		twic342.pgn	B49
+Tsolakidis,P	2049	2001.05.27	B23	6th Stuttgart Open		2001.05.24			43	0-1	7	Ditzingen GER		Metzger,C	2090		twic342.pgn	B23
+Stanescu,C	2041	2001.05.27	B21	6th Stuttgart Open		2001.05.24			29	1/2-1/2	7	Ditzingen GER		Schulz,Uwe	0		twic342.pgn	B21
+Niethammer,Christoph	0	2001.05.27	E18	6th Stuttgart Open		2001.05.24			26	1/2-1/2	7	Ditzingen GER		Weise,Wolfgang	0		twic342.pgn	E18
+Bauer,D	2053	2001.05.27	B06	6th Stuttgart Open		2001.05.24			52	1-0	7	Ditzingen GER		Scherer,H	2272		twic342.pgn	B06
+Kulovic,Edmir	0	2001.05.27	C06	6th Stuttgart Open		2001.05.24			33	1/2-1/2	7	Ditzingen GER		Vesper,Horst	0		twic342.pgn	C05
+Schlemminger,Degenhard	0	2001.05.27	A00	6th Stuttgart Open		2001.05.24			99	1-0	7	Ditzingen GER		Hedler,T	2050		twic342.pgn	A00
+Behm,Simon	0	2001.05.27	D04	6th Stuttgart Open		2001.05.24			37	1/2-1/2	7	Ditzingen GER		Strifler,J	2014		twic342.pgn	D04
+Fuss,Thomas	0	2001.05.27	E11	6th Stuttgart Open		2001.05.24			42	1-0	7	Ditzingen GER		Florio,Antonio	0		twic342.pgn	E11
+Chuchelov,V	2550	2001.05.24	E39	TCh-NED Playoffs		2001.05.24			47	0-1	1	Breda NED		Ljubojevic,L	2566		twic342.pgn	E39
+Seirawan,Y	2640	2001.05.24	A56	TCh-NED Playoffs		2001.05.24			123	0-1	1	Breda NED		Rogozenko,D	2537		twic342.pgn	A56
+Bolwerk,P	0	2001.05.24	B85	TCh-NED Playoffs		2001.05.24			58	1-0	1	Breda NED		Van den Doel,E	2574		twic342.pgn	B83
+Langeweg,K	2298	2001.05.24	D00	TCh-NED Playoffs		2001.05.24			40	1-0	1	Breda NED		Rogers,I	2528		twic342.pgn	A45
+Hennig,D	2443	2001.05.24	A42	TCh-NED Playoffs		2001.05.24			50	1-0	1	Breda NED		Timman,J	2620		twic342.pgn	A42
+Gurevich,M	2688	2001.05.24	D36	TCh-NED Playoffs		2001.05.24			71	0-1	1	Breda NED		Henrichs,T	2430		twic342.pgn	D43
+Van Wely,L	2670	2001.05.24	A30	TCh-NED Playoffs		2001.05.24			69	0-1	1	Breda NED		Hausrath,D	2441		twic342.pgn	A15
+Kroeze,F	2374	2001.05.24	C42	TCh-NED Playoffs		2001.05.24			86	1-0	1	Breda NED		Movsesian,S	2661		twic342.pgn	C42
+Nijboer,F	2580	2001.05.24	E90	TCh-NED Playoffs		2001.05.24			73	0-1	1	Breda NED		Barsov,A	2519		twic342.pgn	E90
+Douven,R	2408	2001.05.24	E54	TCh-NED Playoffs		2001.05.24			84	1-0	1	Breda NED		Reinderman,D	2539		twic342.pgn	B14
+Glek,I	2566	2001.05.24	E81	TCh-NED Playoffs		2001.05.24			65	1/2-1/2	1	Breda NED		Sadler,M	2633		twic342.pgn	E81
+Lautier,J	2658	2001.05.24	A08	TCh-NED Playoffs		2001.05.24			69	0-1	1	Breda NED		Sielecki,C	2410		twic342.pgn	A08
+Van Wissen,M	2228	2001.05.24	A58	TCh-NED Playoffs		2001.05.24			84	1-0	1	Breda NED		Vaganian,R	2641		twic342.pgn	A58
+De Vreugt,D	2460	2001.05.24	D79	TCh-NED Playoffs		2001.05.24			82	1-0	1	Breda NED		Carlier,B	2392		twic342.pgn	A07
+Feygin,M	2471	2001.05.24	A11	TCh-NED Playoffs		2001.05.24			128	1-0	1	Breda NED		Sokolov,I	2659		twic342.pgn	A05
+Ree,H	2419	2001.05.24	A07	TCh-NED Playoffs		2001.05.24			167	1/2-1/2	1	Breda NED		Piket,Je	2628		twic342.pgn	A00
+Van der Sterren,P	2576	2001.05.24	C47	TCh-NED Playoffs		2001.05.24			170	1/2-1/2	1	Breda NED		Bosch,Je	2443		twic342.pgn	C47
+Afek,Y	2365	2001.05.24	B38	TCh-NED Playoffs		2001.05.24			134	1/2-1/2	1	Breda NED		Kosashvili,Y	2539		twic342.pgn	B38
+Van der Wiel,J	2493	2001.05.24	A45	TCh-NED Playoffs		2001.05.24			123	0-1	1	Breda NED		Ellenbroek,T	2077		twic342.pgn	A45
+Tkachiev,V	2672	2001.05.24	B23	TCh-NED Playoffs		2001.05.24			81	0-1	1	Breda NED		Thesing,M	2436		twic342.pgn	B23
+Hausrath,D	2441	2001.05.25	B38	TCh-NED Playoffs		2001.05.24			67	0-1	2	Breda NED		Van der Sterren,P	2576		twic342.pgn	E91
+Langeweg,K	2298	2001.05.25	B47	TCh-NED Playoffs		2001.05.24			40	1/2-1/2	2	Breda NED		Van der Wiel,J	2493		twic342.pgn	B47
+Bosch,Je	2443	2001.05.25	B52	TCh-NED Playoffs		2001.05.24			53	0-1	2	Breda NED		Timman,J	2620		twic342.pgn	B52
+Sielecki,C	2410	2001.05.25	C11	TCh-NED Playoffs		2001.05.24			42	1-0	2	Breda NED		Nijboer,F	2580		twic342.pgn	C11
+Vaganian,R	2641	2001.05.25	C02	TCh-NED Playoffs		2001.05.24			110	1-0	2	Breda NED		Afek,Y	2365		twic342.pgn	C02
+Rogers,I	2528	2001.05.25	C01	TCh-NED Playoffs		2001.05.24			82	1/2-1/2	2	Breda NED		Bolwerk,P	0		twic342.pgn	C01
+Sadler,M	2633	2001.05.25	A45	TCh-NED Playoffs		2001.05.24			79	0-1	2	Breda NED		Hennig,D	2443		twic342.pgn	A45
+Pliester,L	2367	2001.05.25	C02	TCh-NED Playoffs		2001.05.24			102	1-0	2	Breda NED		Van Wissen,M	2228		twic342.pgn	C02
+Movsesian,S	2661	2001.05.25	E70	TCh-NED Playoffs		2001.05.24			97	1/2-1/2	2	Breda NED		Reinderman,D	2539		twic342.pgn	E70
+Ljubojevic,L	2566	2001.05.25	B22	TCh-NED Playoffs		2001.05.24			60	1-0	2	Breda NED		Feygin,M	2471		twic342.pgn	B22
+Thesing,M	2436	2001.05.25	C01	TCh-NED Playoffs		2001.05.24			96	1/2-1/2	2	Breda NED		Kosashvili,Y	2539		twic342.pgn	C01
+Van den Doel,E	2574	2001.05.25	D30	TCh-NED Playoffs		2001.05.24			107	1/2-1/2	2	Breda NED		Ree,H	2419		twic342.pgn	D30
+Sokolov,I	2659	2001.05.25	D35	TCh-NED Playoffs		2001.05.24			61	0-1	2	Breda NED		Chuchelov,V	2550		twic342.pgn	D37
+Piket,Je	2628	2001.05.25	C68	TCh-NED Playoffs		2001.05.24			121	0-1	2	Breda NED		Kroeze,F	2374		twic342.pgn	C69
+Rogozenko,D	2537	2001.05.25	D10	TCh-NED Playoffs		2001.05.24			50	1/2-1/2	2	Breda NED		Tkachiev,V	2672		twic342.pgn	D10
+Henrichs,T	2430	2001.05.25	D31	TCh-NED Playoffs		2001.05.24			122	1/2-1/2	2	Breda NED		Seirawan,Y	2640		twic342.pgn	D31
+Barsov,A	2519	2001.05.25	E55	TCh-NED Playoffs		2001.05.24			72	1-0	2	Breda NED		Lautier,J	2658		twic342.pgn	E55
+Ellenbroek,T	2077	2001.05.25	C41	TCh-NED Playoffs		2001.05.24			141	1-0	2	Breda NED		De Vreugt,D	2460		twic342.pgn	C41
+Carlier,B	2392	2001.05.25	A21	TCh-NED Playoffs		2001.05.24			110	1-0	2	Breda NED		Gurevich,M	2688		twic342.pgn	A10
+Piesina,G	2389	2001.05.10	A73	ch-LTU		2001.05.10			111	0-1	1	Kaunas LTU		Krivousas,T	2131		twic342.pgn	A73
+Zapolskis,A	2420	2001.05.10	A40	ch-LTU		2001.05.10			99	1/2-1/2	1	Kaunas LTU		Sakalauskas,V	2437		twic342.pgn	A40
+Ruzele,D	2550	2001.05.10	B22	ch-LTU		2001.05.10			46	1/2-1/2	1	Kaunas LTU		Slapikas,V	2448		twic342.pgn	B22
+Malisauskas,V	2518	2001.05.10	C69	ch-LTU		2001.05.10			18	1/2-1/2	1	Kaunas LTU		Kveinys,A	2533		twic342.pgn	C69
+Zagorskis,D	2467	2001.05.10	B97	ch-LTU		2001.05.10			76	1-0	1	Kaunas LTU		Sulskis,S	2530		twic342.pgn	B97
+Labuckas,A	2356	2001.05.10	B40	ch-LTU		2001.05.10			98	1-0	1	Kaunas LTU		Sarakauskas,G	2403		twic342.pgn	B40
+Butnorius,A	2435	2001.05.10	A36	ch-LTU		2001.05.10			59	0-1	1	Kaunas LTU		Mikenas,A	2180		twic342.pgn	A13
+Sarakauskas,G	2403	2001.05.11	D11	ch-LTU		2001.05.10			57	1/2-1/2	2	Kaunas LTU		Zagorskis,D	2467		twic342.pgn	D11
+Butnorius,A	2435	2001.05.11	E21	ch-LTU		2001.05.10			84	1-0	2	Kaunas LTU		Piesina,G	2389		twic342.pgn	E12
+Mikenas,A	2180	2001.05.11	E91	ch-LTU		2001.05.10			96	1-0	2	Kaunas LTU		Labuckas,A	2356		twic342.pgn	A56
+Sulskis,S	2530	2001.05.11	C48	ch-LTU		2001.05.10			153	1/2-1/2	2	Kaunas LTU		Malisauskas,V	2518		twic342.pgn	C48
+Kveinys,A	2533	2001.05.11	D62	ch-LTU		2001.05.10			19	1/2-1/2	2	Kaunas LTU		Ruzele,D	2550		twic342.pgn	D62
+Slapikas,V	2448	2001.05.11	B12	ch-LTU		2001.05.10			90	1-0	2	Kaunas LTU		Zapolskis,A	2420		twic342.pgn	B12
+Sakalauskas,V	2437	2001.05.11	D11	ch-LTU		2001.05.10			90	1-0	2	Kaunas LTU		Krivousas,T	2131		twic342.pgn	D31
+Piesina,G	2389	2001.05.12	E99	ch-LTU		2001.05.10			48	1/2-1/2	3	Kaunas LTU		Sakalauskas,V	2437		twic342.pgn	E98
+Labuckas,A	2356	2001.05.12	E97	ch-LTU		2001.05.10			84	1-0	3	Kaunas LTU		Butnorius,A	2435		twic342.pgn	E97
+Krivousas,T	2131	2001.05.12	B22	ch-LTU		2001.05.10			151	1/2-1/2	3	Kaunas LTU		Slapikas,V	2448		twic342.pgn	B22
+Zapolskis,A	2420	2001.05.12	B31	ch-LTU		2001.05.10			21	1/2-1/2	3	Kaunas LTU		Kveinys,A	2533		twic342.pgn	B31
+Ruzele,D	2550	2001.05.12	B42	ch-LTU		2001.05.10			52	1/2-1/2	3	Kaunas LTU		Sulskis,S	2530		twic342.pgn	B42
+Malisauskas,V	2518	2001.05.12	B92	ch-LTU		2001.05.10			104	1/2-1/2	3	Kaunas LTU		Sarakauskas,G	2403		twic342.pgn	B92
+Zagorskis,D	2467	2001.05.12	B50	ch-LTU		2001.05.10			89	0-1	3	Kaunas LTU		Mikenas,A	2180		twic342.pgn	B50
+Labuckas,A	2356	2001.05.13	B09	ch-LTU		2001.05.10			93	1/2-1/2	4	Kaunas LTU		Piesina,G	2389		twic342.pgn	B09
+Butnorius,A	2435	2001.05.13	A30	ch-LTU		2001.05.10			36	1/2-1/2	4	Kaunas LTU		Zagorskis,D	2467		twic342.pgn	A30
+Mikenas,A	2180	2001.05.13	C00	ch-LTU		2001.05.10			72	1-0	4	Kaunas LTU		Malisauskas,V	2518		twic342.pgn	C00
+Sarakauskas,G	2403	2001.05.13	D45	ch-LTU		2001.05.10			73	1/2-1/2	4	Kaunas LTU		Ruzele,D	2550		twic342.pgn	D45
+Sulskis,S	2530	2001.05.13	B00	ch-LTU		2001.05.10			39	0-1	4	Kaunas LTU		Zapolskis,A	2420		twic342.pgn	B00
+Kveinys,A	2533	2001.05.13	E11	ch-LTU		2001.05.10			65	0-1	4	Kaunas LTU		Krivousas,T	2131		twic342.pgn	E11
+Slapikas,V	2448	2001.05.13	A54	ch-LTU		2001.05.10			86	1/2-1/2	4	Kaunas LTU		Sakalauskas,V	2437		twic342.pgn	A41
+Ruzele,D	2550	2001.05.13	A47	ch-LTU		2001.05.10			79	0-1	5	Kaunas LTU		Mikenas,A	2180		twic342.pgn	A46
+Piesina,G	2389	2001.05.13	B22	ch-LTU		2001.05.10			72	1-0	5	Kaunas LTU		Slapikas,V	2448		twic342.pgn	B22
+Sakalauskas,V	2437	2001.05.13	C06	ch-LTU		2001.05.10			56	1-0	5	Kaunas LTU		Kveinys,A	2533		twic342.pgn	C06
+Krivousas,T	2131	2001.05.13	A17	ch-LTU		2001.05.10			54	1-0	5	Kaunas LTU		Sulskis,S	2530		twic342.pgn	A17
+Zapolskis,A	2420	2001.05.13	C46	ch-LTU		2001.05.10			58	1-0	5	Kaunas LTU		Sarakauskas,G	2403		twic342.pgn	C46
+Malisauskas,V	2518	2001.05.13	D02	ch-LTU		2001.05.10			10	1/2-1/2	5	Kaunas LTU		Butnorius,A	2435		twic342.pgn	A49
+Zagorskis,D	2467	2001.05.13	D37	ch-LTU		2001.05.10			22	1/2-1/2	5	Kaunas LTU		Labuckas,A	2356		twic342.pgn	D37
+Mikenas,A	2180	2001.05.14	C03	ch-LTU		2001.05.10			72	1-0	6	Kaunas LTU		Zapolskis,A	2420		twic342.pgn	C03
+Zagorskis,D	2467	2001.05.14	B25	ch-LTU		2001.05.10			105	1/2-1/2	6	Kaunas LTU		Piesina,G	2389		twic342.pgn	B25
+Labuckas,A	2356	2001.05.14	B08	ch-LTU		2001.05.10			92	1/2-1/2	6	Kaunas LTU		Malisauskas,V	2518		twic342.pgn	B08
+Butnorius,A	2435	2001.05.14	E32	ch-LTU		2001.05.10			29	1/2-1/2	6	Kaunas LTU		Ruzele,D	2550		twic342.pgn	E32
+Kveinys,A	2533	2001.05.14	C03	ch-LTU		2001.05.10			83	1/2-1/2	6	Kaunas LTU		Slapikas,V	2448		twic342.pgn	C03
+Sarakauskas,G	2403	2001.05.14	A89	ch-LTU		2001.05.10			161	0-1	6	Kaunas LTU		Krivousas,T	2131		twic342.pgn	A89
+Sulskis,S	2530	2001.05.14	E32	ch-LTU		2001.05.10			79	0-1	6	Kaunas LTU		Sakalauskas,V	2437		twic342.pgn	E32
+Ruzele,D	2550	2001.05.14	D48	ch-LTU		2001.05.10			86	1/2-1/2	7	Kaunas LTU		Labuckas,A	2356		twic342.pgn	D48
+Zapolskis,A	2420	2001.05.14	A25	ch-LTU		2001.05.10			80	1-0	7	Kaunas LTU		Butnorius,A	2435		twic342.pgn	A25
+Malisauskas,V	2518	2001.05.14	B36	ch-LTU		2001.05.10			20	1/2-1/2	7	Kaunas LTU		Zagorskis,D	2467		twic342.pgn	A15
+Krivousas,T	2131	2001.05.14	A25	ch-LTU		2001.05.10			141	0-1	7	Kaunas LTU		Mikenas,A	2180		twic342.pgn	A25
+Sakalauskas,V	2437	2001.05.14	C06	ch-LTU		2001.05.10			83	1/2-1/2	7	Kaunas LTU		Sarakauskas,G	2403		twic342.pgn	C06
+Slapikas,V	2448	2001.05.14	B12	ch-LTU		2001.05.10			80	1-0	7	Kaunas LTU		Sulskis,S	2530		twic342.pgn	B12
+Piesina,G	2389	2001.05.14	A26	ch-LTU		2001.05.10			74	1-0	7	Kaunas LTU		Kveinys,A	2533		twic342.pgn	A10
+Sulskis,S	2530	2001.05.15	A35	ch-LTU		2001.05.10			132	1-0	8	Kaunas LTU		Kveinys,A	2533		twic342.pgn	A38
+Malisauskas,V	2518	2001.05.15	B23	ch-LTU		2001.05.10			167	1-0	8	Kaunas LTU		Piesina,G	2389		twic342.pgn	B23
+Zagorskis,D	2467	2001.05.15	D37	ch-LTU		2001.05.10			26	1/2-1/2	8	Kaunas LTU		Ruzele,D	2550		twic342.pgn	D37
+Labuckas,A	2356	2001.05.15	B07	ch-LTU		2001.05.10			84	1-0	8	Kaunas LTU		Zapolskis,A	2420		twic342.pgn	B07
+Butnorius,A	2435	2001.05.15	D59	ch-LTU		2001.05.10			91	0-1	8	Kaunas LTU		Krivousas,T	2131		twic342.pgn	D59
+Mikenas,A	2180	2001.05.15	A84	ch-LTU		2001.05.10			97	0-1	8	Kaunas LTU		Sakalauskas,V	2437		twic342.pgn	D31
+Sarakauskas,G	2403	2001.05.15	B22	ch-LTU		2001.05.10			37	1/2-1/2	8	Kaunas LTU		Slapikas,V	2448		twic342.pgn	B22
+Piesina,G	2389	2001.05.15	B27	ch-LTU		2001.05.10			84	1/2-1/2	9	Kaunas LTU		Sulskis,S	2530		twic342.pgn	B27
+Kveinys,A	2533	2001.05.15	C03	ch-LTU		2001.05.10			12	1/2-1/2	9	Kaunas LTU		Sarakauskas,G	2403		twic342.pgn	C03
+Slapikas,V	2448	2001.05.15	B07	ch-LTU		2001.05.10			105	0-1	9	Kaunas LTU		Mikenas,A	2180		twic342.pgn	B07
+Sakalauskas,V	2437	2001.05.15	A34	ch-LTU		2001.05.10			54	1-0	9	Kaunas LTU		Butnorius,A	2435		twic342.pgn	A34
+Krivousas,T	2131	2001.05.15	E12	ch-LTU		2001.05.10			55	1/2-1/2	9	Kaunas LTU		Labuckas,A	2356		twic342.pgn	E12
+Zapolskis,A	2420	2001.05.15	A40	ch-LTU		2001.05.10			62	1-0	9	Kaunas LTU		Zagorskis,D	2467		twic342.pgn	A40
+Ruzele,D	2550	2001.05.15	B17	ch-LTU		2001.05.10			24	1/2-1/2	9	Kaunas LTU		Malisauskas,V	2518		twic342.pgn	B17
+Sarakauskas,G	2403	2001.05.16	B21	ch-LTU		2001.05.10			70	1-0	10	Kaunas LTU		Sulskis,S	2530		twic342.pgn	B21
+Ruzele,D	2550	2001.05.16	B42	ch-LTU		2001.05.10			149	0-1	10	Kaunas LTU		Piesina,G	2389		twic342.pgn	B42
+Malisauskas,V	2518	2001.05.16	B89	ch-LTU		2001.05.10			103	0-1	10	Kaunas LTU		Zapolskis,A	2420		twic342.pgn	B89
+Zagorskis,D	2467	2001.05.16	D65	ch-LTU		2001.05.10			75	0-1	10	Kaunas LTU		Krivousas,T	2131		twic342.pgn	D63
+Labuckas,A	2356	2001.05.16	E99	ch-LTU		2001.05.10			88	1-0	10	Kaunas LTU		Sakalauskas,V	2437		twic342.pgn	E98
+Butnorius,A	2435	2001.05.16	C29	ch-LTU		2001.05.10			46	1-0	10	Kaunas LTU		Slapikas,V	2448		twic342.pgn	C29
+Mikenas,A	2180	2001.05.16	A09	ch-LTU		2001.05.10			74	1-0	10	Kaunas LTU		Kveinys,A	2533		twic342.pgn	A13
+Piesina,G	2389	2001.05.16	B27	ch-LTU		2001.05.10			125	0-1	11	Kaunas LTU		Sarakauskas,G	2403		twic342.pgn	B27
+Sulskis,S	2530	2001.05.16	A34	ch-LTU		2001.05.10			96	1-0	11	Kaunas LTU		Mikenas,A	2180		twic342.pgn	A34
+Kveinys,A	2533	2001.05.16	D60	ch-LTU		2001.05.10			12	1/2-1/2	11	Kaunas LTU		Butnorius,A	2435		twic342.pgn	D60
+Slapikas,V	2448	2001.05.16	A54	ch-LTU		2001.05.10			74	1/2-1/2	11	Kaunas LTU		Labuckas,A	2356		twic342.pgn	A53
+Sakalauskas,V	2437	2001.05.16	A34	ch-LTU		2001.05.10			32	1/2-1/2	11	Kaunas LTU		Zagorskis,D	2467		twic342.pgn	A34
+Krivousas,T	2131	2001.05.16	B33	ch-LTU		2001.05.10			100	1-0	11	Kaunas LTU		Malisauskas,V	2518		twic342.pgn	B33
+Zapolskis,A	2420	2001.05.16	D10	ch-LTU		2001.05.10			52	1-0	11	Kaunas LTU		Ruzele,D	2550		twic342.pgn	D10
+Malisauskas,V	2518	2001.05.17	D85	ch-LTU		2001.05.10			59	1/2-1/2	12	Kaunas LTU		Sakalauskas,V	2437		twic342.pgn	D85
+Zapolskis,A	2420	2001.05.17	A07	ch-LTU		2001.05.10			86	1-0	12	Kaunas LTU		Piesina,G	2389		twic342.pgn	A07
+Ruzele,D	2550	2001.05.17	D30	ch-LTU		2001.05.10			105	0-1	12	Kaunas LTU		Krivousas,T	2131		twic342.pgn	D30
+Zagorskis,D	2467	2001.05.17	B22	ch-LTU		2001.05.10			114	1-0	12	Kaunas LTU		Slapikas,V	2448		twic342.pgn	B40
+Labuckas,A	2356	2001.05.17	B80	ch-LTU		2001.05.10			47	1/2-1/2	12	Kaunas LTU		Kveinys,A	2533		twic342.pgn	B40
+Butnorius,A	2435	2001.05.17	C90	ch-LTU		2001.05.10			46	1-0	12	Kaunas LTU		Sulskis,S	2530		twic342.pgn	C90
+Mikenas,A	2180	2001.05.17	B02	ch-LTU		2001.05.10			78	1-0	12	Kaunas LTU		Sarakauskas,G	2403		twic342.pgn	B02
+Piesina,G	2389	2001.05.18	B06	ch-LTU		2001.05.10			77	0-1	13	Kaunas LTU		Mikenas,A	2180		twic342.pgn	B27
+Krivousas,T	2131	2001.05.18	B31	ch-LTU		2001.05.10			99	1/2-1/2	13	Kaunas LTU		Zapolskis,A	2420		twic342.pgn	B31
+Sarakauskas,G	2403	2001.05.18	D38	ch-LTU		2001.05.10			98	1/2-1/2	13	Kaunas LTU		Butnorius,A	2435		twic342.pgn	D38
+Sulskis,S	2530	2001.05.18	A07	ch-LTU		2001.05.10			46	1/2-1/2	13	Kaunas LTU		Labuckas,A	2356		twic342.pgn	A06
+Kveinys,A	2533	2001.05.18	E11	ch-LTU		2001.05.10			13	1/2-1/2	13	Kaunas LTU		Zagorskis,D	2467		twic342.pgn	E11
+Slapikas,V	2448	2001.05.18	B12	ch-LTU		2001.05.10			100	1-0	13	Kaunas LTU		Malisauskas,V	2518		twic342.pgn	B12
+Sakalauskas,V	2437	2001.05.18	D14	ch-LTU		2001.05.10			21	1/2-1/2	13	Kaunas LTU		Ruzele,D	2550		twic342.pgn	D10
+Banu,T	2039	2001.04.22	B24	Astral Open		2001.04.22			54	1-0	1	Bucharest ROM		Sofronie,I	2405		twic342.pgn	B24
+Lucaci,M	2088	2001.04.22	C14	Astral Open		2001.04.22			86	1-0	1	Bucharest ROM		Moldovan,D	2434		twic342.pgn	C14
+Manolache,M	2426	2001.04.22	B07	Astral Open		2001.04.22			51	0-1	1	Bucharest ROM		Daianu,C	2077		twic342.pgn	B07
+Nanu,C	2417	2001.04.22	A48	Astral Open		2001.04.22			57	0-1	1	Bucharest ROM		Soren,S	0		twic342.pgn	A48
+Nita,S	2060	2001.04.22	B06	Astral Open		2001.04.22			64	1-0	1	Bucharest ROM		Mateuta,G	2416		twic342.pgn	B06
+Vajda,Al	2409	2001.04.22	A31	Astral Open		2001.04.22			83	0-1	1	Bucharest ROM		Ciortan,M	2058		twic342.pgn	A31
+Trajkovic,P	2352	2001.04.22	B85	Astral Open		2001.04.22			73	0-1	1	Bucharest ROM		Craciun,V	0		twic342.pgn	B49
+Grunberg,M	2400	2001.04.22	A04	Astral Open		2001.04.22			75	0-1	1	Bucharest ROM		Stoicescu,H	2023		twic342.pgn	A04
+Georgescu,C	2031	2001.04.22	C26	Astral Open		2001.04.22			84	1-0	1	Bucharest ROM		Szabo,G ROM	2398		twic342.pgn	C26
+Ionescu,D	2397	2001.04.22	E70	Astral Open		2001.04.22			61	0-1	1	Bucharest ROM		Milea,F	2015		twic342.pgn	A56
+Chirila,R	2247	2001.04.22	C43	Astral Open		2001.04.22			38	1-0	1	Bucharest ROM		Miljanic,B	2386		twic342.pgn	C43
+Ardeleanu,A	2375	2001.04.22	E91	Astral Open		2001.04.22			97	0-1	1	Bucharest ROM		Doncea,V	2008		twic342.pgn	E91
+Vioreanu,B	2339	2001.04.23	A36	Astral Open		2001.04.22			58	1-0	2	Bucharest ROM		Osman,M	2144		twic342.pgn	A36
+Bogza,O	2138	2001.04.23	B06	Astral Open		2001.04.22			96	1-0	2	Bucharest ROM		Cosma,I	2467		twic342.pgn	B06
+Ionescu,Co	2515	2001.04.23	B41	Astral Open		2001.04.22			111	1/2-1/2	2	Bucharest ROM		Bondoc,D	2269		twic342.pgn	B40
+Itkis,B	2442	2001.04.23	B10	Astral Open		2001.04.22			61	0-1	2	Bucharest ROM		Berechet,O	2234		twic342.pgn	B10
+Moldovan,D	2434	2001.04.23	B56	Astral Open		2001.04.22			141	0-1	2	Bucharest ROM		Burnoiu,N1	2218		twic342.pgn	B56
+Ardelean,G	2424	2001.04.23	B38	Astral Open		2001.04.22			98	1/2-1/2	2	Bucharest ROM		Wunnink,M	2209		twic342.pgn	B38
+Mosnegutu,M	2220	2001.04.23	B92	Astral Open		2001.04.22			88	1-0	2	Bucharest ROM		Nanu,C	2417		twic342.pgn	B92
+Mateuta,G	2416	2001.04.23	B13	Astral Open		2001.04.22			85	0-1	2	Bucharest ROM		Florescu,P	2197		twic342.pgn	B13
+Sofronie,I	2405	2001.04.23	C78	Astral Open		2001.04.22			83	0-1	2	Bucharest ROM		Salageanu,G	2181		twic342.pgn	C78
+Szabo,G ROM	2398	2001.04.23	B85	Astral Open		2001.04.22			69	0-1	2	Bucharest ROM		Stefan,B	2168		twic342.pgn	B84
+Apostoaie,Li	2173	2001.04.23	A08	Astral Open		2001.04.22			48	1-0	2	Bucharest ROM		Ionescu,D	2397		twic342.pgn	B20
+Miljanic,B	2386	2001.04.23	B22	Astral Open		2001.04.22			58	0-1	2	Bucharest ROM		Stanciu,Ad	2120		twic342.pgn	B22
+Arandjelovic,A	2167	2001.04.23	B31	Astral Open		2001.04.22			58	1-0	2	Bucharest ROM		Ardeleanu,A	2375		twic342.pgn	B31
+Danilov,V	2352	2001.04.23	A59	Astral Open		2001.04.22			88	1/2-1/2	2	Bucharest ROM		Olteanu,F	2153		twic342.pgn	A59
+Panait,M	2161	2001.04.23	A84	Astral Open		2001.04.22			58	1-0	2	Bucharest ROM		Trajkovic,P	2352		twic342.pgn	A80
+Vladescu,F	2150	2001.04.23	E92	Astral Open		2001.04.22			74	1-0	2	Bucharest ROM		Ionescu,M	2338		twic342.pgn	E92
+Jianu,V	2320	2001.04.23	B33	Astral Open		2001.04.22			64	1-0	2	Bucharest ROM		Ionica,I	2141		twic342.pgn	B33
+Economescu,V	2106	2001.04.24	A57	Astral Open		2001.04.22			58	1-0	3	Bucharest ROM		Vioreanu,B	2339		twic342.pgn	A57
+Ardeleanu,A	2375	2001.04.24	A08	Astral Open		2001.04.22			103	1-0	3	Bucharest ROM		Svetushkin,D	2481		twic342.pgn	B20
+Varaciuc,V	2240	2001.04.24	A30	Astral Open		2001.04.22			68	1-0	3	Bucharest ROM		Mateuta,G	2416		twic342.pgn	A13
+Vajda,Al	2409	2001.04.24	B14	Astral Open		2001.04.22			78	1/2-1/2	3	Bucharest ROM		Colin,V	2301		twic342.pgn	A56
+Osman,M	2144	2001.04.24	B12	Astral Open		2001.04.22			126	1-0	3	Bucharest ROM		Sofronie,I	2405		twic342.pgn	B12
+Florean,A	2437	2001.04.24	B90	Astral Open		2001.04.22			111	0-1	3	Bucharest ROM		Butunoi,A	2250		twic342.pgn	B90
+Olteanu,F	2153	2001.04.24	B09	Astral Open		2001.04.22			88	1-0	3	Bucharest ROM		Ardelean,G	2424		twic342.pgn	B09
+Mateuta,G	2416	2001.04.24	D37	Astral Open		2001.04.22			47	1/2-1/2	3	Bucharest ROM		Panait,M	2161		twic342.pgn	D37
+Mosnegutu,M	2220	2001.04.24	B38	Astral Open		2001.04.22			107	0-1	4	Bucharest ROM		Mateuta,G	2416		twic342.pgn	B38
+Grunberg,M	2400	2001.04.25	B02	Astral Open		2001.04.22			18	0-1	5	Bucharest ROM		Svetushkin,D	2481		twic342.pgn	B02
+Varaciuc,V	2240	2001.04.25	C10	Astral Open		2001.04.22			56	1-0	5	Bucharest ROM		Szabo,G ROM	2398		twic342.pgn	C10
+Nevednichy,V	2563	2001.04.25	B57	Astral Open		2001.04.22			65	0-1	5	Bucharest ROM		Radu,M	2203		twic342.pgn	B57
+Cosma,I	2467	2001.04.25	E25	Astral Open		2001.04.22			101	0-1	5	Bucharest ROM		Vioreanu,B	2339		twic342.pgn	E25
+Vajda,Al	2409	2001.04.25	B10	Astral Open		2001.04.22			61	0-1	5	Bucharest ROM		Pessi,E	2236		twic342.pgn	B10
+Grigore,G	2483	2001.04.25	A00	Astral Open		2001.04.22			24	1/2-1/2	5	Bucharest ROM		Moldovan,D	2434		twic342.pgn	A00
+Istratescu,A	2561	2001.04.25	B06	Astral Open		2001.04.22			61	0-1	5	Bucharest ROM		Miljanic,B	2386		twic342.pgn	B06
+Florescu,P	2197	2001.04.25	E20	Astral Open		2001.04.22			60	1-0	5	Bucharest ROM		Jianu,V	2320		twic342.pgn	E20
+Florean,A	2437	2001.04.25	A70	Astral Open		2001.04.22			51	0-1	5	Bucharest ROM		Solcanean,S	2268		twic342.pgn	E60
+Burnoiu,N1	2218	2001.04.25	B26	Astral Open		2001.04.22			59	0-1	5	Bucharest ROM		Ionescu,D	2397		twic342.pgn	B20
+Trajkovic,P	2352	2001.04.25	A30	Astral Open		2001.04.22			117	1/2-1/2	5	Bucharest ROM		Ionescu,Co	2515		twic342.pgn	A30
+David,Va	2192	2001.04.25	A51	Astral Open		2001.04.22			68	0-1	5	Bucharest ROM		Doncea,V	2008		twic342.pgn	A51
+Apostoaie,Li	2173	2001.04.25	E48	Astral Open		2001.04.22			66	1-0	5	Bucharest ROM		Colin,V	2301		twic342.pgn	E47
+Petroaie,Andrei	0	2001.04.25	E70	Astral Open		2001.04.22			58	1-0	5	Bucharest ROM		Cernea,R	2116		twic342.pgn	E70
+Stanciu,An	2167	2001.04.25	B24	Astral Open		2001.04.22			48	1-0	5	Bucharest ROM		Banu,T	2039		twic342.pgn	B23
+Ionescu,M	2338	2001.04.25	C42	Astral Open		2001.04.22			95	1-0	5	Bucharest ROM		Ardelean,G	2424		twic342.pgn	C42
+Sofronie,I	2405	2001.04.25	E92	Astral Open		2001.04.22			40	1/2-1/2	5	Bucharest ROM		Itkis,B	2442		twic342.pgn	E92
+Szabo,G ROM	2398	2001.04.26	A49	Astral Open		2001.04.22			29	1/2-1/2	6	Bucharest ROM		Ionescu,Co	2515		twic342.pgn	A05
+Vioreanu,B	2339	2001.04.26	D31	Astral Open		2001.04.22			79	0-1	6	Bucharest ROM		Arandjelovic,A	2167		twic342.pgn	D31
+Ardelean,G	2424	2001.04.26	B80	Astral Open		2001.04.22			94	1-0	6	Bucharest ROM		Burnoiu,N1	2218		twic342.pgn	B80
+Ionescu,D	2397	2001.04.26	C05	Astral Open		2001.04.22			120	1-0	6	Bucharest ROM		Butunoi,A	2250		twic342.pgn	C05
+Miljanic,B	2386	2001.04.26	E70	Astral Open		2001.04.22			61	0-1	6	Bucharest ROM		Florean,A	2437		twic342.pgn	E70
+Ionica,I	2141	2001.04.26	B23	Astral Open		2001.04.22			92	1-0	6	Bucharest ROM		Florescu,P	2197		twic342.pgn	B23
+Sofronie,I	2405	2001.04.26	E97	Astral Open		2001.04.22			52	1/2-1/2	6	Bucharest ROM		Grigore,G	2483		twic342.pgn	E97
+Manea,A	2314	2001.04.26	B22	Astral Open		2001.04.22			77	1-0	6	Bucharest ROM		Vajda,L	2446		twic342.pgn	B22
+Grunberg,M	2400	2001.04.26	B04	Astral Open		2001.04.22			51	1-0	6	Bucharest ROM		Istratescu,A	2561		twic342.pgn	B04
+Svetushkin,D	2481	2001.04.26	B14	Astral Open		2001.04.22			100	1/2-1/2	6	Bucharest ROM		Murariu,A	2279		twic342.pgn	B14
+Itkis,B	2442	2001.04.26	C02	Astral Open		2001.04.22			106	1/2-1/2	6	Bucharest ROM		Nanu,C	2417		twic342.pgn	C02
+Jianu,V	2320	2001.04.26	B31	Astral Open		2001.04.22			63	1-0	6	Bucharest ROM		Nevednichy,V	2563		twic342.pgn	B31
+Doncea,V	2008	2001.04.26	A68	Astral Open		2001.04.22			66	1-0	6	Bucharest ROM		Olteanu,F	2153		twic342.pgn	E77
+Pessi,E	2236	2001.04.26	C62	Astral Open		2001.04.22			57	1-0	6	Bucharest ROM		Osman,M	2144		twic342.pgn	C46
+Moldovan,D	2434	2001.04.26	E15	Astral Open		2001.04.22			16	1/2-1/2	6	Bucharest ROM		Vajda,Al	2409		twic342.pgn	E15
+Stanciu,An	2167	2001.04.27	C17	Astral Open		2001.04.22			104	1-0	7	Bucharest ROM		Georgescu,C	2031		twic342.pgn	C17
+Bondoc,D	2269	2001.04.27	E44	Astral Open		2001.04.22			103	0-1	7	Bucharest ROM		Cernea,R	2116		twic342.pgn	E46
+Ionescu,Cr	2304	2001.04.27	B42	Astral Open		2001.04.22			84	1-0	7	Bucharest ROM		Colin,V	2301		twic342.pgn	B42
+Manolache,M	2426	2001.04.27	B07	Astral Open		2001.04.22			51	0-1	7	Bucharest ROM		Szabo,G ROM	2398		twic342.pgn	B07
+Vajda,L	2446	2001.04.27	A03	Astral Open		2001.04.22			76	1-0	7	Bucharest ROM		Grunberg,M	2400		twic342.pgn	A02
+Vajda,Al	2409	2001.04.27	A46	Astral Open		2001.04.22			43	1/2-1/2	7	Bucharest ROM		Itkis,B	2442		twic342.pgn	A46
+Olteanu,F	2153	2001.04.27	A84	Astral Open		2001.04.22			66	1-0	7	Bucharest ROM		Jianu,V	2320		twic342.pgn	D30
+Florescu,P	2197	2001.04.27	B76	Astral Open		2001.04.22			54	1-0	7	Bucharest ROM		Manea,A	2314		twic342.pgn	B76
+Grigore,G	2483	2001.04.27	E60	Astral Open		2001.04.22			24	1/2-1/2	7	Bucharest ROM		Miljanic,B	2386		twic342.pgn	A05
+Butunoi,A	2250	2001.04.27	C60	Astral Open		2001.04.22			58	1-0	7	Bucharest ROM		Moldovan,D	2434		twic342.pgn	C60
+Nanu,C	2417	2001.04.27	A39	Astral Open		2001.04.22			89	0-1	7	Bucharest ROM		Sanduleac,V	2457		twic342.pgn	A39
+Cosma,I	2467	2001.04.27	A30	Astral Open		2001.04.22			65	0-1	7	Bucharest ROM		Sofronie,I	2405		twic342.pgn	A34
+Itkis,B	2442	2001.04.28	B08	Astral Open		2001.04.22			101	1/2-1/2	8	Bucharest ROM		Murariu,A	2279		twic342.pgn	B08
+Jianu,V	2320	2001.04.28	A45	Astral Open		2001.04.22			74	1-0	8	Bucharest ROM		Grigore,G	2483		twic342.pgn	A45
+Ardelean,G	2424	2001.04.28	A41	Astral Open		2001.04.22			38	1/2-1/2	8	Bucharest ROM		Grunberg,M	2400		twic342.pgn	A04
+Cosma,I	2467	2001.04.28	B63	Astral Open		2001.04.22			16	1/2-1/2	8	Bucharest ROM		Istratescu,A	2561		twic342.pgn	B63
+Moldovan,D	2434	2001.04.28	A42	Astral Open		2001.04.22			47	1/2-1/2	8	Bucharest ROM		Manolache,M	2426		twic342.pgn	A42
+Svetushkin,D	2481	2001.04.28	A01	Astral Open		2001.04.22			85	0-1	8	Bucharest ROM		Varaciuc,V	2240		twic342.pgn	A01
+Miljanic,B	2386	2001.04.28	A36	Astral Open		2001.04.22			76	1-0	8	Bucharest ROM		Nanu,C	2417		twic342.pgn	A15
+Colin,V	2301	2001.04.28	C55	Astral Open		2001.04.22			90	1-0	8	Bucharest ROM		Nevednichy,V	2563		twic342.pgn	C55
+Manea,A	2314	2001.04.28	A08	Astral Open		2001.04.22			52	1-0	8	Bucharest ROM		Sanduleac,V	2457		twic342.pgn	B40
+Mateuta,G	2416	2001.04.28	B01	Astral Open		2001.04.22			72	1/2-1/2	8	Bucharest ROM		Vajda,Al	2409		twic342.pgn	B01
+Stefansson,H	2570	2001.05.17	E05	XXXVI Capablanca Mem Elite		2001.05.05			42	1/2-1/2	11	Havana CUB		Arencibia,W	2543		twic342.pgn	A14
+Dominguez,L	2556	2001.05.17	B90	XXXVI Capablanca Mem Elite		2001.05.05			46	1/2-1/2	11	Havana CUB		Vallejo Pons,F	2559		twic342.pgn	B90
+Hauchard,A	2526	2001.05.17	D12	XXXVI Capablanca Mem Elite		2001.05.05			18	1/2-1/2	11	Havana CUB		Nogueiras,J	2557		twic342.pgn	D12
+Abreu,A	2480	2001.05.17	B23	XXXVI Capablanca Mem Elite		2001.05.05			51	0-1	11	Havana CUB		Bruzon,L	2589		twic342.pgn	B23
+Luther,T	2568	2001.05.17	C01	XXXVI Capablanca Mem Elite		2001.05.05			38	1/2-1/2	11	Havana CUB		Nataf,IA	2552		twic342.pgn	C01
+Andersson,U	2640	2001.05.17	B50	XXXVI Capablanca Mem Elite		2001.05.05			15	1/2-1/2	11	Havana CUB		Delgado,N	2481		twic342.pgn	B40
+Delgado,N	2481	2001.05.18	B97	XXXVI Capablanca Mem Elite		2001.05.05			104	1-0	12	Havana CUB		Luther,T	2568		twic342.pgn	B97
+Nataf,IA	2552	2001.05.18	B32	XXXVI Capablanca Mem Elite		2001.05.05			108	1/2-1/2	12	Havana CUB		Abreu,A	2480		twic342.pgn	B32
+Bruzon,L	2589	2001.05.18	D35	XXXVI Capablanca Mem Elite		2001.05.05			54	1/2-1/2	12	Havana CUB		Hauchard,A	2526		twic342.pgn	D35
+Nogueiras,J	2557	2001.05.18	C11	XXXVI Capablanca Mem Elite		2001.05.05			35	1/2-1/2	12	Havana CUB		Dominguez,L	2556		twic342.pgn	C11
+Vallejo Pons,F	2559	2001.05.18	A29	XXXVI Capablanca Mem Elite		2001.05.05			45	1/2-1/2	12	Havana CUB		Stefansson,H	2570		twic342.pgn	A29
+Arencibia,W	2543	2001.05.18	D00	XXXVI Capablanca Mem Elite		2001.05.05			14	1/2-1/2	12	Havana CUB		Miles,A	2562		twic342.pgn	D00
+Miles,A	2562	2001.05.20	C47	XXXVI Capablanca Mem Elite		2001.05.05			48	1/2-1/2	13	Havana CUB		Vallejo Pons,F	2559		twic342.pgn	C47
+Stefansson,H	2570	2001.05.20	E18	XXXVI Capablanca Mem Elite		2001.05.05			21	1/2-1/2	13	Havana CUB		Nogueiras,J	2557		twic342.pgn	E18
+Dominguez,L	2556	2001.05.20	B90	XXXVI Capablanca Mem Elite		2001.05.05			64	1/2-1/2	13	Havana CUB		Bruzon,L	2589		twic342.pgn	B90
+Hauchard,A	2526	2001.05.20	B04	XXXVI Capablanca Mem Elite		2001.05.05			17	1/2-1/2	13	Havana CUB		Nataf,IA	2552		twic342.pgn	B04
+Abreu,A	2480	2001.05.20	B52	XXXVI Capablanca Mem Elite		2001.05.05			83	1-0	13	Havana CUB		Delgado,N	2481		twic342.pgn	B52
+Luther,T	2568	2001.05.20	D13	XXXVI Capablanca Mem Elite		2001.05.05			32	1/2-1/2	13	Havana CUB		Andersson,U	2640		twic342.pgn	D13
+Franco Ocampos,Z	2496	2001.05.17	C45	XXXVI Capablanca Mem Premier I		2001.05.05			10	1/2-1/2	11	Havana CUB		Leyva,R	2400		twic342.pgn	C45
+Perez,Rod	2471	2001.05.17	C64	XXXVI Capablanca Mem Premier I		2001.05.05			21	1/2-1/2	11	Havana CUB		Garcia Martinez,S	2378		twic342.pgn	C64
+Valdes,Lu	2413	2001.05.17	A85	XXXVI Capablanca Mem Premier I		2001.05.05			54	1/2-1/2	11	Havana CUB		Mateo,Ra	2420		twic342.pgn	A85
+Gongora,M	2417	2001.05.17	B33	XXXVI Capablanca Mem Premier I		2001.05.05			114	1/2-1/2	11	Havana CUB		Vazquez,R	2393		twic342.pgn	B33
+Reinaldo Castineira,R	2425	2001.05.17	A09	XXXVI Capablanca Mem Premier I		2001.05.05			77	0-1	11	Havana CUB		Pazos Gambarrotti,P	2421		twic342.pgn	A09
+Pecorelli Garcia,H	2430	2001.05.17	D35	XXXVI Capablanca Mem Premier I		2001.05.05			55	0-1	11	Havana CUB		Borges Mateos,J	2436		twic342.pgn	D35
+Szekely,P	2429	2001.05.17	B90	XXXVI Capablanca Mem Premier I		2001.05.05			59	1/2-1/2	11	Havana CUB		Quezada,Y	2474		twic342.pgn	B90
+Szekely,P	2429	2001.05.18	B92	XXXVI Capablanca Mem Premier I		2001.05.05			18	1/2-1/2	12	Havana CUB		Franco Ocampos,Z	2496		twic342.pgn	B92
+Quezada,Y	2474	2001.05.18	A25	XXXVI Capablanca Mem Premier I		2001.05.05			128	1-0	12	Havana CUB		Pecorelli Garcia,H	2430		twic342.pgn	A25
+Borges Mateos,J	2436	2001.05.18	B47	XXXVI Capablanca Mem Premier I		2001.05.05			66	1-0	12	Havana CUB		Reinaldo Castineira,R	2425		twic342.pgn	B47
+Pazos Gambarrotti,P	2421	2001.05.18	B57	XXXVI Capablanca Mem Premier I		2001.05.05			98	1-0	12	Havana CUB		Gongora,M	2417		twic342.pgn	B57
+Vazquez,R	2393	2001.05.18	D02	XXXVI Capablanca Mem Premier I		2001.05.05			17	1/2-1/2	12	Havana CUB		Valdes,Lu	2413		twic342.pgn	A05
+Mateo,Ra	2420	2001.05.18	B60	XXXVI Capablanca Mem Premier I		2001.05.05			24	1/2-1/2	12	Havana CUB		Perez,Rod	2471		twic342.pgn	B60
+Garcia Martinez,S	2378	2001.05.18	B48	XXXVI Capablanca Mem Premier I		2001.05.05			23	1/2-1/2	12	Havana CUB		Leyva,R	2400		twic342.pgn	B48
+Franco Ocampos,Z	2496	2001.05.20	D58	XXXVI Capablanca Mem Premier I		2001.05.05			20	1/2-1/2	13	Havana CUB		Garcia Martinez,S	2378		twic342.pgn	D58
+Leyva,R	2400	2001.05.20	B66	XXXVI Capablanca Mem Premier I		2001.05.05			14	1/2-1/2	13	Havana CUB		Mateo,Ra	2420		twic342.pgn	B66
+Perez,Rod	2471	2001.05.20	C47	XXXVI Capablanca Mem Premier I		2001.05.05			18	1/2-1/2	13	Havana CUB		Vazquez,R	2393		twic342.pgn	C47
+Valdes,Lu	2413	2001.05.20	C92	XXXVI Capablanca Mem Premier I		2001.05.05			16	1/2-1/2	13	Havana CUB		Pazos Gambarrotti,P	2421		twic342.pgn	C92
+Gongora,M	2417	2001.05.20	E14	XXXVI Capablanca Mem Premier I		2001.05.05			77	1/2-1/2	13	Havana CUB		Borges Mateos,J	2436		twic342.pgn	E10
+Reinaldo Castineira,R	2425	2001.05.20	A04	XXXVI Capablanca Mem Premier I		2001.05.05			118	1-0	13	Havana CUB		Quezada,Y	2474		twic342.pgn	C00
+Pecorelli Garcia,H	2430	2001.05.20	E63	XXXVI Capablanca Mem Premier I		2001.05.05			72	1-0	13	Havana CUB		Szekely,P	2429		twic342.pgn	E63
+Herrera,I	2432	2001.05.16	B80	XXXVI Capablanca Mem Premier II		2001.05.05			94	1-0	10	Havana CUB		Gonzalez,Y	2426		twic342.pgn	B90
+De la Paz,F	2437	2001.05.17	C54	XXXVI Capablanca Mem Premier II		2001.05.05			103	1/2-1/2	11	Havana CUB		Garcia,Os	2300		twic342.pgn	C50
+Zapata,A	2492	2001.05.17	A55	XXXVI Capablanca Mem Premier II		2001.05.05			76	1-0	11	Havana CUB		Almeida,O	2426		twic342.pgn	A53
+Perez,Lu	2386	2001.05.17	B56	XXXVI Capablanca Mem Premier II		2001.05.05			93	0-1	11	Havana CUB		Arizmendi Martinez,J	2478		twic342.pgn	B56
+Perez Candelario,M	2397	2001.05.17	A81	XXXVI Capablanca Mem Premier II		2001.05.05			84	1-0	11	Havana CUB		Bellon Lopez,JM	2429		twic342.pgn	A81
+Matamoros Franco,C	2467	2001.05.17	B01	XXXVI Capablanca Mem Premier II		2001.05.05			75	1-0	11	Havana CUB		Herrera,I	2432		twic342.pgn	B01
+Gonzalez,Y	2426	2001.05.17	E09	XXXVI Capablanca Mem Premier II		2001.05.05			70	1-0	11	Havana CUB		Gomez,Fe	2462		twic342.pgn	E06
+Wohl,A	2418	2001.05.17	B04	XXXVI Capablanca Mem Premier II		2001.05.05			68	1-0	11	Havana CUB		Otero,D	2416		twic342.pgn	B04
+Wohl,A	2418	2001.05.18	C41	XXXVI Capablanca Mem Premier II		2001.05.05			14	1-0	12	Havana CUB		De la Paz,F	2437		twic342.pgn	C41
+Otero,D	2416	2001.05.18	C54	XXXVI Capablanca Mem Premier II		2001.05.05			76	1-0	12	Havana CUB		Gonzalez,Y	2426		twic342.pgn	C53
+Gomez,Fe	2462	2001.05.18	A26	XXXVI Capablanca Mem Premier II		2001.05.05			115	0-1	12	Havana CUB		Matamoros Franco,C	2467		twic342.pgn	A20
+Herrera,I	2432	2001.05.18	B25	XXXVI Capablanca Mem Premier II		2001.05.05			78	1-0	12	Havana CUB		Perez Candelario,M	2397		twic342.pgn	B20
+Bellon Lopez,JM	2429	2001.05.18	B22	XXXVI Capablanca Mem Premier II		2001.05.05			81	0-1	12	Havana CUB		Perez,Lu	2386		twic342.pgn	B22
+Arizmendi Martinez,J	2478	2001.05.18	B33	XXXVI Capablanca Mem Premier II		2001.05.05			131	1/2-1/2	12	Havana CUB		Zapata,A	2492		twic342.pgn	B33
+Almeida,O	2426	2001.05.18	B30	XXXVI Capablanca Mem Premier II		2001.05.05			95	0-1	12	Havana CUB		Garcia,Os	2300		twic342.pgn	B30
+De la Paz,F	2437	2001.05.20	D32	XXXVI Capablanca Mem Premier II		2001.05.05			25	1/2-1/2	13	Havana CUB		Almeida,O	2426		twic342.pgn	D32
+Garcia,Os	2300	2001.05.20	B06	XXXVI Capablanca Mem Premier II		2001.05.05			78	1-0	13	Havana CUB		Arizmendi Martinez,J	2478		twic342.pgn	B12
+Zapata,A	2492	2001.05.20	D00	XXXVI Capablanca Mem Premier II		2001.05.05			87	0-1	13	Havana CUB		Bellon Lopez,JM	2429		twic342.pgn	A45
+Perez,Lu	2386	2001.05.20	B07	XXXVI Capablanca Mem Premier II		2001.05.05			15	1/2-1/2	13	Havana CUB		Herrera,I	2432		twic342.pgn	B07
+Perez Candelario,M	2397	2001.05.20	A80	XXXVI Capablanca Mem Premier II		2001.05.05			31	1/2-1/2	13	Havana CUB		Gomez,Fe	2462		twic342.pgn	A80
+Matamoros Franco,C	2467	2001.05.20	C18	XXXVI Capablanca Mem Premier II		2001.05.05			93	1/2-1/2	13	Havana CUB		Otero,D	2416		twic342.pgn	C18
+Gonzalez,Y	2426	2001.05.20	D34	XXXVI Capablanca Mem Premier II		2001.05.05			48	1/2-1/2	13	Havana CUB		Wohl,A	2418		twic342.pgn	D34
+Araque,R	2320	2001.05.05	B01	XXXVI Capablanca Mem Mixto		2001.05.05			147	1/2-1/2	1	Havana CUB		Marrero,Y	2208		twic342.pgn	B01
+Santa Torres,J	2233	2001.05.05	B42	XXXVI Capablanca Mem Mixto		2001.05.05			107	0-1	1	Havana CUB		Delgado Crespo,M	2235		twic342.pgn	B42
+Arribas,M	2325	2001.05.05	A46	XXXVI Capablanca Mem Mixto		2001.05.05			78	1/2-1/2	1	Havana CUB		Frometa,Z	2180		twic342.pgn	A43
+Garcia Castro,P	2269	2001.05.05	C41	XXXVI Capablanca Mem Mixto		2001.05.05			98	1-0	1	Havana CUB		Lopez,B	2397		twic342.pgn	C41
+Sanchez,V	2287	2001.05.05	D05	XXXVI Capablanca Mem Mixto		2001.05.05			48	1-0	1	Havana CUB		Ramon,V	2279		twic342.pgn	A46
+Lucena,L	2245	2001.05.05	B33	XXXVI Capablanca Mem Mixto		2001.05.05			58	1/2-1/2	1	Havana CUB		Fleitas,Y	2226		twic342.pgn	B33
+Pina,S	2275	2001.05.05	B88	XXXVI Capablanca Mem Mixto		2001.05.05			55	1/2-1/2	1	Havana CUB		Collazo,N	2182		twic342.pgn	B88
+Pina,S	2275	2001.05.06	A44	XXXVI Capablanca Mem Mixto		2001.05.05			72	1/2-1/2	2	Havana CUB		Araque,R	2320		twic342.pgn	A44
+Collazo,N	2182	2001.05.06	A39	XXXVI Capablanca Mem Mixto		2001.05.05			133	1/2-1/2	2	Havana CUB		Lucena,L	2245		twic342.pgn	A39
+Fleitas,Y	2226	2001.05.06	B33	XXXVI Capablanca Mem Mixto		2001.05.05			89	0-1	2	Havana CUB		Sanchez,V	2287		twic342.pgn	B33
+Ramon,V	2279	2001.05.06	C55	XXXVI Capablanca Mem Mixto		2001.05.05			89	1/2-1/2	2	Havana CUB		Garcia Castro,P	2269		twic342.pgn	C44
+Lopez,B	2397	2001.05.06	E81	XXXVI Capablanca Mem Mixto		2001.05.05			55	1/2-1/2	2	Havana CUB		Arribas,M	2325		twic342.pgn	E81
+Frometa,Z	2180	2001.05.06	D53	XXXVI Capablanca Mem Mixto		2001.05.05			101	1/2-1/2	2	Havana CUB		Santa Torres,J	2233		twic342.pgn	D53
+Delgado Crespo,M	2235	2001.05.06	C02	XXXVI Capablanca Mem Mixto		2001.05.05			68	1-0	2	Havana CUB		Marrero,Y	2208		twic342.pgn	C02
+Araque,R	2320	2001.05.07	B40	XXXVI Capablanca Mem Mixto		2001.05.05			68	1-0	3	Havana CUB		Delgado Crespo,M	2235		twic342.pgn	B40
+Marrero,Y	2208	2001.05.07	A47	XXXVI Capablanca Mem Mixto		2001.05.05			82	1-0	3	Havana CUB		Frometa,Z	2180		twic342.pgn	A45
+Santa Torres,J	2233	2001.05.07	B42	XXXVI Capablanca Mem Mixto		2001.05.05			106	1-0	3	Havana CUB		Lopez,B	2397		twic342.pgn	B42
+Arribas,M	2325	2001.05.07	A47	XXXVI Capablanca Mem Mixto		2001.05.05			142	1-0	3	Havana CUB		Ramon,V	2279		twic342.pgn	A46
+Garcia Castro,P	2269	2001.05.07	B15	XXXVI Capablanca Mem Mixto		2001.05.05			60	0-1	3	Havana CUB		Fleitas,Y	2226		twic342.pgn	B06
+Sanchez,V	2287	2001.05.07	C18	XXXVI Capablanca Mem Mixto		2001.05.05			52	1/2-1/2	3	Havana CUB		Collazo,N	2182		twic342.pgn	C18
+Lucena,L	2245	2001.05.07	B31	XXXVI Capablanca Mem Mixto		2001.05.05			73	1/2-1/2	3	Havana CUB		Pina,S	2275		twic342.pgn	B31
+Lucena,L	2245	2001.05.08	E09	XXXVI Capablanca Mem Mixto		2001.05.05			133	0-1	4	Havana CUB		Araque,R	2320		twic342.pgn	E09
+Pina,S	2275	2001.05.08	B62	XXXVI Capablanca Mem Mixto		2001.05.05			98	1/2-1/2	4	Havana CUB		Sanchez,V	2287		twic342.pgn	B62
+Collazo,N	2182	2001.05.08	B25	XXXVI Capablanca Mem Mixto		2001.05.05			163	1/2-1/2	4	Havana CUB		Garcia Castro,P	2269		twic342.pgn	B25
+Fleitas,Y	2226	2001.05.08	B30	XXXVI Capablanca Mem Mixto		2001.05.05			36	1/2-1/2	4	Havana CUB		Arribas,M	2325		twic342.pgn	B30
+Ramon,V	2279	2001.05.08	A56	XXXVI Capablanca Mem Mixto		2001.05.05			67	0-1	4	Havana CUB		Santa Torres,J	2233		twic342.pgn	A56
+Lopez,B	2397	2001.05.08	C78	XXXVI Capablanca Mem Mixto		2001.05.05			81	0-1	4	Havana CUB		Marrero,Y	2208		twic342.pgn	C78
+Frometa,Z	2180	2001.05.08	B06	XXXVI Capablanca Mem Mixto		2001.05.05			64	1-0	4	Havana CUB		Delgado Crespo,M	2235		twic342.pgn	B06
+Araque,R	2320	2001.05.10	A45	XXXVI Capablanca Mem Mixto		2001.05.05			87	0-1	5	Havana CUB		Frometa,Z	2180		twic342.pgn	A45
+Delgado Crespo,M	2235	2001.05.10	A08	XXXVI Capablanca Mem Mixto		2001.05.05			66	1-0	5	Havana CUB		Lopez,B	2397		twic342.pgn	B40
+Marrero,Y	2208	2001.05.10	D02	XXXVI Capablanca Mem Mixto		2001.05.05			135	1/2-1/2	5	Havana CUB		Ramon,V	2279		twic342.pgn	D02
+Santa Torres,J	2233	2001.05.10	B42	XXXVI Capablanca Mem Mixto		2001.05.05			54	1-0	5	Havana CUB		Fleitas,Y	2226		twic342.pgn	B42
+Arribas,M	2325	2001.05.10	C18	XXXVI Capablanca Mem Mixto		2001.05.05			76	1-0	5	Havana CUB		Collazo,N	2182		twic342.pgn	C18
+Garcia Castro,P	2269	2001.05.10	C41	XXXVI Capablanca Mem Mixto		2001.05.05			125	1/2-1/2	5	Havana CUB		Pina,S	2275		twic342.pgn	C41
+Sanchez,V	2287	2001.05.10	A13	XXXVI Capablanca Mem Mixto		2001.05.05			105	0-1	5	Havana CUB		Lucena,L	2245		twic342.pgn	A01
+Sanchez,V	2287	2001.05.11	A40	XXXVI Capablanca Mem Mixto		2001.05.05			73	1/2-1/2	6	Havana CUB		Araque,R	2320		twic342.pgn	A40
+Lucena,L	2245	2001.05.11	B26	XXXVI Capablanca Mem Mixto		2001.05.05			66	1-0	6	Havana CUB		Garcia Castro,P	2269		twic342.pgn	B25
+Pina,S	2275	2001.05.11	B51	XXXVI Capablanca Mem Mixto		2001.05.05			87	1/2-1/2	6	Havana CUB		Arribas,M	2325		twic342.pgn	B51
+Collazo,N	2182	2001.05.11	B44	XXXVI Capablanca Mem Mixto		2001.05.05			81	0-1	6	Havana CUB		Santa Torres,J	2233		twic342.pgn	A33
+Fleitas,Y	2226	2001.05.11	B33	XXXVI Capablanca Mem Mixto		2001.05.05			124	1-0	6	Havana CUB		Marrero,Y	2208		twic342.pgn	B33
+Ramon,V	2279	2001.05.11	C49	XXXVI Capablanca Mem Mixto		2001.05.05			141	0-1	6	Havana CUB		Delgado Crespo,M	2235		twic342.pgn	C49
+Lopez,B	2397	2001.05.11	A45	XXXVI Capablanca Mem Mixto		2001.05.05			53	0-1	6	Havana CUB		Frometa,Z	2180		twic342.pgn	A45
+Araque,R	2320	2001.05.12	B09	XXXVI Capablanca Mem Mixto		2001.05.05			41	1/2-1/2	7	Havana CUB		Lopez,B	2397		twic342.pgn	B09
+Frometa,Z	2180	2001.05.12	B15	XXXVI Capablanca Mem Mixto		2001.05.05			161	0-1	7	Havana CUB		Ramon,V	2279		twic342.pgn	B06
+Delgado Crespo,M	2235	2001.05.12	B45	XXXVI Capablanca Mem Mixto		2001.05.05			34	1/2-1/2	7	Havana CUB		Fleitas,Y	2226		twic342.pgn	B40
+Marrero,Y	2208	2001.05.12	C78	XXXVI Capablanca Mem Mixto		2001.05.05			105	1/2-1/2	7	Havana CUB		Collazo,N	2182		twic342.pgn	C78
+Santa Torres,J	2233	2001.05.12	A08	XXXVI Capablanca Mem Mixto		2001.05.05			89	1/2-1/2	7	Havana CUB		Pina,S	2275		twic342.pgn	B40
+Arribas,M	2325	2001.05.12	A25	XXXVI Capablanca Mem Mixto		2001.05.05			78	1-0	7	Havana CUB		Lucena,L	2245		twic342.pgn	A25
+Garcia Castro,P	2269	2001.05.12	B15	XXXVI Capablanca Mem Mixto		2001.05.05			84	1/2-1/2	7	Havana CUB		Sanchez,V	2287		twic342.pgn	B06
+Garcia Castro,P	2269	2001.05.14	A08	XXXVI Capablanca Mem Mixto		2001.05.05			74	1-0	8	Havana CUB		Araque,R	2320		twic342.pgn	A45
+Sanchez,V	2287	2001.05.14	A47	XXXVI Capablanca Mem Mixto		2001.05.05			62	1-0	8	Havana CUB		Arribas,M	2325		twic342.pgn	A40
+Lucena,L	2245	2001.05.14	D58	XXXVI Capablanca Mem Mixto		2001.05.05			50	1-0	8	Havana CUB		Santa Torres,J	2233		twic342.pgn	D58
+Pina,S	2275	2001.05.14	B88	XXXVI Capablanca Mem Mixto		2001.05.05			230	1/2-1/2	8	Havana CUB		Marrero,Y	2208		twic342.pgn	B88
+Collazo,N	2182	2001.05.14	B23	XXXVI Capablanca Mem Mixto		2001.05.05			56	1-0	8	Havana CUB		Delgado Crespo,M	2235		twic342.pgn	B23
+Fleitas,Y	2226	2001.05.14	D00	XXXVI Capablanca Mem Mixto		2001.05.05			12	1-0	8	Havana CUB		Frometa,Z	2180		twic342.pgn	D00
+Ramon,V	2279	2001.05.14	B06	XXXVI Capablanca Mem Mixto		2001.05.05			60	1-0	8	Havana CUB		Lopez,B	2397		twic342.pgn	B06
+Araque,R	2320	2001.05.15	A41	XXXVI Capablanca Mem Mixto		2001.05.05			49	1/2-1/2	9	Havana CUB		Ramon,V	2279		twic342.pgn	A41
+Lopez,B	2397	2001.05.15	C55	XXXVI Capablanca Mem Mixto		2001.05.05			77	0-1	9	Havana CUB		Fleitas,Y	2226		twic342.pgn	C44
+Frometa,Z	2180	2001.05.15	B15	XXXVI Capablanca Mem Mixto		2001.05.05			115	0-1	9	Havana CUB		Collazo,N	2182		twic342.pgn	B06
+Delgado Crespo,M	2235	2001.05.15	C01	XXXVI Capablanca Mem Mixto		2001.05.05			39	1/2-1/2	9	Havana CUB		Pina,S	2275		twic342.pgn	C01
+Marrero,Y	2208	2001.05.15	E09	XXXVI Capablanca Mem Mixto		2001.05.05			149	1/2-1/2	9	Havana CUB		Lucena,L	2245		twic342.pgn	D02
+Santa Torres,J	2233	2001.05.15	B85	XXXVI Capablanca Mem Mixto		2001.05.05			79	1/2-1/2	9	Havana CUB		Sanchez,V	2287		twic342.pgn	B84
+Arribas,M	2325	2001.05.15	A00	XXXVI Capablanca Mem Mixto		2001.05.05			71	0-1	9	Havana CUB		Garcia Castro,P	2269		twic342.pgn	A00
+Arribas,M	2325	2001.05.16	B07	XXXVI Capablanca Mem Mixto		2001.05.05			88	1/2-1/2	10	Havana CUB		Araque,R	2320		twic342.pgn	B06
+Garcia Castro,P	2269	2001.05.16	A52	XXXVI Capablanca Mem Mixto		2001.05.05			93	0-1	10	Havana CUB		Santa Torres,J	2233		twic342.pgn	A52
+Sanchez,V	2287	2001.05.16	C02	XXXVI Capablanca Mem Mixto		2001.05.05			110	1/2-1/2	10	Havana CUB		Marrero,Y	2208		twic342.pgn	C02
+Lucena,L	2245	2001.05.16	C41	XXXVI Capablanca Mem Mixto		2001.05.05			10	1-0	10	Havana CUB		Delgado Crespo,M	2235		twic342.pgn	C41
+Pina,S	2275	2001.05.16	A45	XXXVI Capablanca Mem Mixto		2001.05.05			89	0-1	10	Havana CUB		Frometa,Z	2180		twic342.pgn	A45
+Collazo,N	2182	2001.05.16	B42	XXXVI Capablanca Mem Mixto		2001.05.05			74	1-0	10	Havana CUB		Lopez,B	2397		twic342.pgn	B42
+Fleitas,Y	2226	2001.05.16	D12	XXXVI Capablanca Mem Mixto		2001.05.05			124	1-0	10	Havana CUB		Ramon,V	2279		twic342.pgn	D12
+Araque,R	2320	2001.05.17	B08	XXXVI Capablanca Mem Mixto		2001.05.05			170	1-0	11	Havana CUB		Fleitas,Y	2226		twic342.pgn	B08
+Ramon,V	2279	2001.05.17	C75	XXXVI Capablanca Mem Mixto		2001.05.05			143	0-1	11	Havana CUB		Collazo,N	2182		twic342.pgn	C75
+Lopez,B	2397	2001.05.17	C61	XXXVI Capablanca Mem Mixto		2001.05.05			67	0-1	11	Havana CUB		Pina,S	2275		twic342.pgn	C61
+Frometa,Z	2180	2001.05.17	A90	XXXVI Capablanca Mem Mixto		2001.05.05			141	0-1	11	Havana CUB		Lucena,L	2245		twic342.pgn	D02
+Delgado Crespo,M	2235	2001.05.17	B33	XXXVI Capablanca Mem Mixto		2001.05.05			85	1/2-1/2	11	Havana CUB		Sanchez,V	2287		twic342.pgn	B33
+Marrero,Y	2208	2001.05.17	C55	XXXVI Capablanca Mem Mixto		2001.05.05			87	1/2-1/2	11	Havana CUB		Garcia Castro,P	2269		twic342.pgn	C44
+Santa Torres,J	2233	2001.05.17	B40	XXXVI Capablanca Mem Mixto		2001.05.05			182	1-0	11	Havana CUB		Arribas,M	2325		twic342.pgn	B40
+Santa Torres,J	2233	2001.05.18	A45	XXXVI Capablanca Mem Mixto		2001.05.05			60	1-0	12	Havana CUB		Araque,R	2320		twic342.pgn	A45
+Arribas,M	2325	2001.05.18	C02	XXXVI Capablanca Mem Mixto		2001.05.05			78	1-0	12	Havana CUB		Marrero,Y	2208		twic342.pgn	C02
+Garcia Castro,P	2269	2001.05.18	C62	XXXVI Capablanca Mem Mixto		2001.05.05			114	1/2-1/2	12	Havana CUB		Delgado Crespo,M	2235		twic342.pgn	C41
+Sanchez,V	2287	2001.05.18	E43	XXXVI Capablanca Mem Mixto		2001.05.05			110	1-0	12	Havana CUB		Frometa,Z	2180		twic342.pgn	A45
+Lucena,L	2245	2001.05.18	B61	XXXVI Capablanca Mem Mixto		2001.05.05			54	1-0	12	Havana CUB		Lopez,B	2397		twic342.pgn	B61
+Pina,S	2275	2001.05.18	A22	XXXVI Capablanca Mem Mixto		2001.05.05			10	1/2-1/2	12	Havana CUB		Ramon,V	2279		twic342.pgn	A16
+Collazo,N	2182	2001.05.18	B50	XXXVI Capablanca Mem Mixto		2001.05.05			67	1/2-1/2	12	Havana CUB		Fleitas,Y	2226		twic342.pgn	B40
+Araque,R	2320	2001.05.20	B01	XXXVI Capablanca Mem Mixto		2001.05.05			54	0-1	13	Havana CUB		Collazo,N	2182		twic342.pgn	B01
+Fleitas,Y	2226	2001.05.20	B30	XXXVI Capablanca Mem Mixto		2001.05.05			72	1/2-1/2	13	Havana CUB		Pina,S	2275		twic342.pgn	B30
+Ramon,V	2279	2001.05.20	B10	XXXVI Capablanca Mem Mixto		2001.05.05			104	1-0	13	Havana CUB		Lucena,L	2245		twic342.pgn	B10
+Lopez,B	2397	2001.05.20	C63	XXXVI Capablanca Mem Mixto		2001.05.05			45	0-1	13	Havana CUB		Sanchez,V	2287		twic342.pgn	C63
+Frometa,Z	2180	2001.05.20	B25	XXXVI Capablanca Mem Mixto		2001.05.05			178	1/2-1/2	13	Havana CUB		Garcia Castro,P	2269		twic342.pgn	B25
+Delgado Crespo,M	2235	2001.05.20	B30	XXXVI Capablanca Mem Mixto		2001.05.05			78	1-0	13	Havana CUB		Arribas,M	2325		twic342.pgn	B40
+Marrero,Y	2208	2001.05.20	D13	XXXVI Capablanca Mem Mixto		2001.05.05			221	0-1	13	Havana CUB		Santa Torres,J	2233		twic342.pgn	D10
+Dunworth,C	2287	2001.05.05	B12	4NCL		2001.04.23			97	0-1	9	Birmingham ENG		Deveraux,M	2274		twic342.pgn	A40
