@@ -1,0 +1,249 @@
+[Event "Valencia"]
+[Site "Valencia ESP"]
+[Date "1475.??.??"]
+[EventDate "1475.??.??"]
+[Round "?"]
+[Result "1-0"]
+[White "Francesco di Castellvi"]
+[Black "Narciso Vinyoles"]
+[ECO "B01"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "41"]
+
+1. e4 {This may be the oldest recorded game of chess.} d5
+2. exd5 Qxd5 3. Nc3 Qd8 4. Bc4 Nf6 5. Nf3 Bg4 6. h3 Bxf3
+7. Qxf3 e6 8. Qxb7 Nbd7 9. Nb5 Rc8 10. Nxa7 Nb6 11. Nxc8 Nxc8
+12. d4 Nd6 13. Bb5+ Nxb5 14. Qxb5+ Nd7 15. d5 exd5 16. Be3 Bd6
+17. Rd1 Qf6 18. Rxd5 Qg6 19. Bf4 Bxf4 20. Qxd7+ Kf8 21. Qd8#
+1-0
+
+[Event "London"]
+[Site "London ENG"]
+[Date "1851.06.21"]
+[Round "?"]
+[White "Adolf Anderssen"]
+[Black "Lionel Adalbert Bagration Fel"]
+[Result "1-0"]
+[ECO "C33"]
+[PlyCount "45"]
+[EventDate "1851.??.??"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 b5 5. Bxb5 Nf6 6. Nf3 Qh6 7. d3 Nh5 8.
+Nh4 Qg5 9. Nf5 c6 10. g4 Nf6 11. Rg1 cxb5 12. h4 Qg6 13. h5 Qg5 14. Qf3 Ng8 15.
+Bxf4 Qf6 16. Nc3 {Play of both players might have been improved many times,
+but here White has a decisive advantage} Bc5 17. Nd5 Qxb2 18. Bd6 $2 {This
+move is far from best for White, but if it wasn't player, chess hsitory would
+have been deprived of a brilliant combination} Bxg1 {It is from this move that
+Black's defeat stems. Wilhelm Steinitz suggested in 1879 that a better move
+would be 18... Qxa1+; likely moves to follow are 19. Ke2 Qb2 20. Kd2 Bxg1.} (
+18... Qxa1+ 19. Ke2 Qb2 20. Bxc5 (20. Kd2 Bxg1 21. e5 {Is bad for White}) 20...
+Qxc2+ 21. Kf1 Qxc5 {And White has to find precise moves to hold a balance}) 19.
+e5 Qxa1+ 20. Ke2 Na6 $2 {The decisive mistake, allowing mate in 3} (20... Ba6
+21. Nc7+ Kd8 22. Nxa6 {IS the 21st century way of playing, completely winning
+for White of course}) 21. Nxg7+ Kd8 {[pgndiagram]} 22. Qf6+ $3 {A brilliant
+finish} Nxf6 23. Be7# 1-0
+
+[Event "Warsaw m"]
+[Site "Warsaw"]
+[Date "1844.??.??"]
+[Round "?"]
+[White "F Alexander Hoffmann"]
+[Black "Alexander Petrov"]
+[Result "0-1"]
+[ECO "C54"]
+[PlyCount "40"]
+[EventDate "1844.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 Ne4 7. Bd5 Nxf2 8.
+Kxf2 dxc3+ 9. Kg3 cxb2 10. Bxb2 Ne7 11. Ng5 $2 {A decisive mistake} (11. h3)
+11... Nxd5 12. Nxf7 {[pgndiagram]} O-O $3 {What a sacrifice} 13. Nxd8 Bf2+ 14.
+Kh3 (14. Kg4 Rf4+ {[%emt 0:00:03] Doesn't help. Black mates in}) 14... d6+ 15.
+e6 Nf4+ 16. Kg4 {[pgndiagram]} Nxe6 $1 {I enjoy this non forcing moves alot}
+17. Nxe6 Bxe6+ 18. Kg5 Rf5+ 19. Kg4 h5+ 20. Kh3 Rf3# 0-1
+
+[Event "Berlin GER"]
+[Site "Berlin GER"]
+[Date "1852.??.??"]
+[Round "?"]
+[White "Adolf Anderssen"]
+[Black "Jean Dufresne"]
+[Result "1-0"]
+[ECO "C52"]
+[PlyCount "47"]
+[EventDate "1852.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 {Evans Gambit was at the height of the
+fashion at that time} Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O d3 8. Qb3 Qf6 9. e5 Qg6
+10. Re1 Nge7 11. Ba3 b5 12. Qxb5 Rb8 13. Qa4 Bb6 14. Nbd2 Bb7 15. Ne4 Qf5 16.
+Bxd3 {White is completely winning here} Qh5 {[pgndiagram]} 17. Nf6+ $2 {
+Probably throwing away the win, but once again, who can blame Anderssen for
+being faithfull to his style and the romantic demands of the 19th century} gxf6
+18. exf6 Rg8 19. Rad1 {[pgndiagram] Laying a very subtle trap} Qxf3 $2 {Which
+Black falls for completely} (19... Qh3 {Covering d7, was better. as White is
+unable to repeat the same combination as in the game}) 20. Rxe7+ $1 Nxe7 $2 {
+[pgndiagram] Allowing a thunderous finish} (20... Kd8 {Is what modern
+professional would surely play} 21. Rxd7+ Kc8 22. Rd8+ Kxd8 23. Bf5+ Qxd1+ 24.
+Qxd1+ {With won ending}) 21. Qxd7+ $1 Kxd7 22. Bf5+ Ke8 23. Bd7+ Kf8 24. Bxe7#
+{[pgndiagram] A beautiful and picturesque position} 1-0
+
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1858.??.??"]
+[Round "?"]
+[White "Paul Morphy"]
+[Black "Duke Karl / Count Isouard"]
+[Result "1-0"]
+[ECO "C41"]
+[PlyCount "33"]
+[EventDate "1858.??.??"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 {This is a weak move already.--Fischer // Another
+important example that showes the viability of "Knights before bishops" rule}
+4. dxe5 Bxf3 5. Qxf3 dxe5 6. Bc4 Nf6 7. Qb3 {[pgndiagram] Everything with the
+tempo} Qe7 8. Nc3 c6 9. Bg5 {Black is in what's like a zugzwang position here.
+He can't develop the [Queen's] knight because the pawn is hanging, the bishop
+is blocked because of the Queen.--Fischer} b5 {[pgndiagram]} 10. Nxb5 $1 {It
+begins. One flashy sacrifice after another} cxb5 11. Bxb5+ Nbd7 12. O-O-O Rd8 {
+[pgndiagram]} 13. Rxd7 $1 Rxd7 14. Rd1 Qe6 15. Bxd7+ Nxd7 {[pgndiagram]} 16.
+Qb8+ $3 Nxb8 17. Rd8# {What a game and what a crush!} 1-0
+
+[Event "Lodz1"]
+[Site "Lodz"]
+[Date "1907.??.??"]
+[Round "?"]
+[White "Rotlewi, Georg A"]
+[Black "Rubinstein, Akiba"]
+[Result "0-1"]
+[ECO "D40"]
+[Annotator "ChessBase"]
+[PlyCount "50"]
+[EventDate "1907.??.??"]
+[EventType "tourn"]
+[EventRounds "1"]
+[EventCountry "POL"]
+[Source "ChessBase"]
+[SourceDate "1999.11.16"]
+
+1. d4 d5 2. Nf3 e6 3. e3 c5 4. c4 Nc6 5. Nc3 Nf6 6. dxc5 Bxc5 7. a3 a6 8. b4
+Bd6 9. Bb2 O-O 10. Qd2 (10. cxd5 exd5 11. Be2) (10. Bd3) 10... Qe7 $1 11. Bd3 (
+11. cxd5 $2) 11... dxc4 12. Bxc4 b5 13. Bd3 Rd8 14. Qe2 Bb7 15. O-O Ne5 16.
+Nxe5 Bxe5 17. f4 Bc7 18. e4 Rac8 19. e5 Bb6+ 20. Kh1 {[pgndiagram] You can see
+how Black has every single piece in action and pointing toward White king} Ng4
+$1 21. Be4 (21. Qxg4 $2 Rxd3 {/\ Rc3}) (21. Ne4 Rxd3 $1 22. Qxd3 Bxe4 23. Qxe4
+Qh4 24. h3 Qg3 25. hxg4 Qh4#) (21. Bxh7+ Kxh7 22. Qxg4 Rd2 $19) 21... Qh4 $1
+22. g3 {[pgndiagram]} (22. h3 Rxc3 23. Bxc3 (23. Bxb7 Rxh3+ 24. gxh3 Qxh3+ 25.
+Qh2 Qxh2#) (23. Qxg4 Rxh3+ 24. Qxh3 Qxh3+ 25. gxh3 Bxe4+ 26. Kh2 Rd2+ 27. Kg3
+Rg2+ 28. Kh4 Bd8+ 29. Kh5 Bg6#) 23... Bxe4 24. Qxg4 (24. Qxe4 Qg3 $19) 24...
+Qxg4 25. hxg4 Rd3 26. Kh2 Rxc3 $19) 22... Rxc3 23. gxh4 {[pgndiagram]} (23.
+Bxc3 Bxe4+ 24. Qxe4 Qxh2#) (23. Bxb7 Rxg3 24. Rf3 (24. Bf3 Nxh2 $19) 24... Rxf3
+25. Bxf3 Nf2+ 26. Kg1 (26. Kg2 Qh3+ 27. Kg1 Ne4+ 28. Kh1 Ng3#) 26... Ne4+ 27.
+Kf1 Nd2+ 28. Kg2 Nxf3 29. Qxf3 (29. Kxf3 Qh5+) 29... Rd2+ $19) 23... Rd2 {What
+a position. almost every Black's piece is ?en priese, but the White king is
+the only factor that matters} 24. Qxd2 (24. Qxg4 Bxe4+ 25. Rf3 Rxf3 $19) (24.
+Bxc3 Rxe2 25. Rf2 Bxe4+ 26. Kg1 Bxf2+ 27. Kf1 Bf3 28. Rd1 Nxh2#) (24. Bxb7 Rxe2
+25. Bg2 Rh3 $19) 24... Bxe4+ 25. Qg2 Rh3 $3 {Rubinsteins 'Immortal game'.} (
+25... Rh3 $3 26. Rf3 (26. Rf2 Bxf2 27. Qxe4 Rxh2#) 26... Bxf3 27. Qxf3 Rxh2#)
+0-1
+
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1922.09.21"]
+[Round "10"]
+[White "Efim Bogoljubov"]
+[Black "Alexander Alekhine"]
+[Result "0-1"]
+[ECO "A84"]
+[PlyCount "106"]
+[EventDate "1922.09.10"]
+
+1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Bb4+ 5. Bd2 Bxd2+ 6. Nxd2 Nc6 7. Ngf3 O-O 8.
+O-O d6 9. Qb3 Kh8 10. Qc3 e5 11. e3 a5 12. b3 Qe8 13. a3 Qh5 14. h4 Ng4 15. Ng5
+Bd7 16. f3 Nf6 17. f4 e4 18. Rfd1 h6 19. Nh3 d5 20. Nf1 Ne7 21. a4 Nc6 22. Rd2
+Nb4 23. Bh1 Qe8 24. Rg2 dxc4 25. bxc4 Bxa4 26. Nf2 Bd7 27. Nd2 b5 28. Nd1 Nd3 {
+Black is already winning here (just look at those light squares on the
+kingside, and the bishop and the rook on g2 and h1), but Alekhine does it in
+style} 29. Rxa5 {[pgndiagram]} b4 $1 30. Rxa8 bxc3 $3 31. Rxe8 c2 $3 {
+[pgndiagram] What a position. White's rook has munched through entire Black's
+army of heavy pieces, but a modest pawn on c2 invalidates all his effort} 32.
+Rxf8+ Kh7 33. Nf2 c1=Q+ 34. Nf1 Ne1 35. Rh2 Qxc4 36. Rb8 Bb5 37. Rxb5 Qxb5 38.
+g4 Nf3+ 39. Bxf3 exf3 40. gxf5 Qe2 41. d5 Kg8 42. h5 Kh7 43. e4 Nxe4 44. Nxe4
+Qxe4 45. d6 cxd6 46. f6 gxf6 47. Rd2 {[pgndiagram]} Qe2 {There were simpler
+ways of doing it, but this leads to a winning king and pawn endgame} 48. Rxe2
+fxe2 {For the second time in the game we see the inability of the knight to
+fight against a passed pawn} 49. Kf2 exf1=Q+ 50. Kxf1 Kg7 51. Ke2 Kf7 52. Ke3
+Ke6 53. Ke4 d5+ {What a game!!} 0-1
+
+[Event "Warsaw"]
+[Site "Warsaw POL"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Glucksberg"]
+[Black "Miguel Najdorf"]
+[Result "0-1"]
+[ECO "A85"]
+[PlyCount "44"]
+[EventDate "1929.??.??"]
+
+1. d4 f5 {Another Dutch!} 2. c4 Nf6 3. Nc3 e6 4. Nf3 d5 5. e3 c6 6. Bd3 Bd6 7.
+O-O O-O 8. Ne2 Nbd7 9. Ng5 $2 {[pgndiagram] Quite unnecessary} Bxh2+ $1 10. Kh1
+Ng4 11. f4 Qe8 12. g3 Qh5 13. Kg2 {[pgndiagram]} Bg1 $1 14. Nxg1 Qh2+ 15. Kf3 {
+[pgndiagram]} e5 $3 {Right into it} 16. dxe5 Ndxe5+ 17. fxe5 Nxe5+ 18. Kf4 Ng6+
+19. Kf3 {[pgndiagram]} f4 $3 {Hit me baby one more time} 20. exf4 Bg4+ $1 21.
+Kxg4 {[pgndiagram]} Ne5+ $1 22. fxe5 h5# {Mating with h-pawn is surely a great
+pleasure.} 0-1
+
+[Event "Third Rosenwald Trophy"]
+[Site "New York, NY USA"]
+[Date "1956.10.17"]
+[Round "8"]
+[White "Donald Byrne"]
+[Black "Robert James Fischer"]
+[Result "0-1"]
+[ECO "D97"]
+[PlyCount "82"]
+[EventDate "1956.10.07"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. d4 O-O 5. Bf4 d5 6. Qb3 dxc4 7. Qxc4 c6 8. e4
+Nbd7 9. Rd1 Nb6 10. Qc5 Bg4 11. Bg5 {11. Be2 followed by 12 O-O would have
+been more prudent. The bishop move played allows a sudden crescendo of
+tactical points to be uncovered by Fischer. -- Wade} (11. Be2) 11... Na4 {!}
+12. Qa3 {On 12. Nxa4 Nxe4 and White faces considerable difficulties.} Nxc3 {At
+first glance, one might think that this move only helps White create a
+stronger pawn center; however, Fischer's plan is quite the opposite. By
+eliminating the Knight on c3, it becomes possible to sacrifice the exchange
+via Nxe4 and smash White's center, while the King remains trapped in the
+center.} 13. bxc3 {[pgndiagram]} Nxe4 {The natural continuation of Black's
+plan.} 14. Bxe7 Qb6 15. Bc4 Nxc3 16. Bc5 Rfe8+ 17. Kf1 {[pgndiagram]} Be6 {!!
+If this is the game of the century, then 17...Be6!! must be the counter of the
+century. Fischer offers his queen in exchange for a fierce attack with his
+minor pieces. Declining this offer is not so easy: 18. Bxe6 leads to a
+'Philidor Mate' (smothered mate) with ...Qb5+ 19. Kg1 Ne2+ 20. Kf1 Ng3+ 21.
+Kg1 Qf1+ 22. Rxf1 Ne2#. Other ways to decline the queen also run into trouble:
+e.g., 18. Qxc3 Qxc5} 18. Bxb6 Bxc4+ 19. Kg1 Ne2+ 20. Kf1 {[pgndiagram]} Nxd4+ {
+This tactical scenario, where a king is repeatedly revealed to checks, is
+sometimes called a "windmill."} 21. Kg1 Ne2+ 22. Kf1 Nc3+ 23. Kg1 axb6 24. Qb4
+Ra4 25. Qxb6 Nxd1 26. h3 Rxa2 27. Kh2 Nxf2 28. Re1 Rxe1 29. Qd8+ Bf8 30. Nxe1
+Bd5 31. Nf3 Ne4 32. Qb8 b5 {Every piece and pawn of the black camp is defended.
+The white queen has nothing to do.} 33. h4 h5 34. Ne5 Kg7 35. Kg1 Bc5+ 36. Kf1
+Ng3+ {Now Byrne is hopelessly entangled in Fischer's mating net.} 37. Ke1 Bb4+
+38. Kd1 Bb3+ 39. Kc1 Ne2+ 40. Kb1 Nc3+ 41. Kc1 Rc2# 0-1
+
+[Event "London"]
+[Site "London ENG"]
+[Date "1790.??.??"]
+[Round "6"]
+[White "Andrew Smith"]
+[Black "Francois-Andre Philidor"]
+[Result "0-1"]
+[EventDate "?"]
+[ECO "C24"]
+[WhiteElo ""]
+[BlackElo ""]
+[PlyCount "66"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 b5 7. Bb3 a5 8. a3
+Bc5 9. Nf3 d6 10. Qd2 Be6 11. Bxe6 fxe6 12. O-O g5 13. h3 Nd7 14. Nh2 h5 15. g3
+Ke7 16. Kg2 d5 17. f3 Nf8 18. Ne2 Ng6 19. c3 Rag8 20. d4 Bb6 21. dxe5 Qxe5 22.
+Nd4 Kd7 23. Rae1 h4 24. Qf2 Bc7 25. Ne2 hxg3 26. Qxg3 Qxg3+ 27. Nxg3 Nf4+ 28.
+Kh1 Rxh3 29. Rg1 Rxh2+ 30. Kxh2 Rh8+ 31. Nh5 Rxh5+ 32. Kg3 Nh3+ 33. Kg4 Rh4# 0-1
