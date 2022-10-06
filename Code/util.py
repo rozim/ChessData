@@ -5,12 +5,15 @@ import chess.engine
 
 
 def gen_games(fn):
-  f = open(fn, 'r', encoding='utf-8', errors='replace')
-  while True:
-    g = chess.pgn.read_game(f)
-    if g is None:
-      return
-    yield g
+  with open(fn, 'r', encoding='utf-8', errors='replace') as f:
+    fsize = f.seek(0, 2) # eof
+    f.seek(0, 0) # rewind
+    while True:
+      g = chess.pgn.read_game(f)
+      if g is None:
+        return
+      # 2nd arg is pct
+      yield g, (f.seek(0, 1) / fsize)
 
 
 def gen_moves(game):
@@ -18,6 +21,13 @@ def gen_moves(game):
   for ply, move in enumerate(game.mainline_moves()):
     yield move.uci(), board.san(move), ply, board
     board.push(move)
+
+
+def gen_fens(game):
+  board = game.board()
+  for ply, move in enumerate(game.mainline_moves()):
+    board.push(move)
+    yield board.fen() # FEN after move
 
 
 def simplify_pv(pv):
@@ -80,3 +90,10 @@ def simplify_multi2(multi, board):
 def simplify_fen(board):
   #rn2kbnr/ppq2pp1/4p3/2pp2Bp/2P4P/1Q6/P2NNPP1/3RK2R w Kkq - 2 13
   return ' '.join(board.fen().split(' ')[0:4])
+
+
+def sizeof(obj):
+  size = sys.getsizeof(obj)
+  if isinstance(obj, dict): return size + sum(map(sizeof, obj.keys())) + sum(map(sizeof, obj.values()))
+  if isinstance(obj, (list, tuple, set, frozenset)): return size + sum(map(sizeof, obj))
+  return size

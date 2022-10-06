@@ -16,7 +16,7 @@ for fn in sys.argv[1:]:
   out_f = None
 
   print(f'Read {fn}')
-  with open(fn, 'r') as f:
+  with open(fn, 'r', encoding='utf-8', errors='replace') as f:
     for line in f.readlines():
 
       if out_f is None:

@@ -1,3 +1,6 @@
+# Split up a PGN file into sharded files of FENs so
+# that analysis can be parallelized.
+
 import sys
 import os
 import json

@@ -5,8 +5,9 @@ import chess.pgn
 from pprint import pprint
 import time
 import collections
+from util import *
 
-MIN_PLY = 20
+MIN_PLY = 19
 MAX_PLY = 60
 MIN_FREQ = 10
 
@@ -23,19 +24,18 @@ def munch_game(game):
       continue
     if ply > MAX_PLY:
       break
-    pos.add(board.fen().split(' ')[0])
+    pos.add(simplify_fen(board))
   return pos
 
 
 def munch_file(fn):
   counts = collections.Counter()
   t1 = time.time()
-  with open(fn, 'r', encoding='utf-8', errors='replace') as f:
-    while True:
-      g = chess.pgn.read_game(f)
-      if g is None:
-        break
-      counts.update(munch_game(g))
+  for gnum, (g, pct) in enumerate(gen_games(fn)):
+    counts.update(munch_game(g))
+    if gnum % 25000 == 0:
+      dt = time.time() - t1
+      print(gnum, f'{100.0 * pct:.2f} {dt:.1f}s', len(counts))
   dt = time.time() - t1
   print(fn, len(counts), f'{dt:.1f}s')
   return counts

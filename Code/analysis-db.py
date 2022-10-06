@@ -26,7 +26,7 @@ flags.mark_flag_as_required('output')
 # FEN = 'rn2kbnr/ppq2pp1/4p3/2pp2Bp/2P4P/1Q6/P2NNPP1/3RK2R w Kkq - 2 13'
 
 MULTIPV = 50
-MIN_PLY = 20
+MIN_PLY = 19
 MAX_PLY = 120
 
 # MAX_DEPTH = 12

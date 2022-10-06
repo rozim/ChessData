@@ -1,0 +1,20 @@
+import os
+import sys
+import time
+
+
+import chess
+import chess.pgn
+
+
+from util import *
+
+
+g = 0
+t1 = time.time()
+for fn in sys.argv[1:]:
+  print(fn)
+  for _ in gen_games(fn):
+    g += 1
+dt = time.time() - t1
+print(f'{g} {dt:.1f}s')
