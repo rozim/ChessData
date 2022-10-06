@@ -1,0 +1,6 @@
+
+% sqlite3 headers.sqlite < headers-schema.sql
+
+% sqlite3 headers.sqlite
+sqlite> .mode tabs
+sqlite> .import mega-clean-headers.tsv h
