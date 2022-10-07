@@ -15,6 +15,17 @@ def gen_games(fn):
       # 2nd arg is pct
       yield g, (f.seek(0, 1) / fsize)
 
+def gen_games_pos(fn):
+  with open(fn, 'r', encoding='utf-8', errors='replace') as f:
+    fsize = f.seek(0, 2) # eof
+    f.seek(0, 0) # rewind
+    while True:
+      g = chess.pgn.read_game(f)
+      if g is None:
+        return
+      pos = f.seek(0, 1)
+      yield g, (pos / fsize), pos
+
 
 def gen_moves(game):
   board = game.board()
@@ -97,3 +108,21 @@ def sizeof(obj):
   if isinstance(obj, dict): return size + sum(map(sizeof, obj.keys())) + sum(map(sizeof, obj.values()))
   if isinstance(obj, (list, tuple, set, frozenset)): return size + sum(map(sizeof, obj))
   return size
+
+
+def uci(game):
+  res = []
+  board = chess.Board()
+  for ply, move in enumerate(game.mainline_moves()):
+    res.append(move.uci())
+    board.push(move)
+  return ' '.join(res)
+
+
+def san(game):
+  res = []
+  board = chess.Board()
+  for ply, move in enumerate(game.mainline_moves()):
+    res.append(board.san(move))
+    board.push(move)
+  return ' '.join(res)
