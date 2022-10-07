@@ -67,13 +67,13 @@ def munch_file(fn):
   near_dups = 0
   t0 = time.time()
 
-  for gnum, (game, pos) in enumerate(gen_games(fn)):
+  for gnum, (game, pct, pos) in enumerate(gen_games_pos(fn)):
     sheaders = None
     #print(fn, pos, simplify_headers(game.headers))
     if gnum % 10000 == 0:
       dt = time.time() - t0
       maxrss = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss // 1024 // 1024
-      print(f'{gnum:9d} {dt:6.1f}s {100*pos:4.1f}% {good:8d} {dups:7d} {near_dups:7d} rss={maxrss}')
+      print(f'{gnum:9d} {dt:6.1f}s {100*pct:4.1f}% {good:8d} {dups:7d} {near_dups:7d} rss={maxrss}')
       f_close.flush()
       f_dup.flush()
 
@@ -110,8 +110,11 @@ def munch_file(fn):
       dups += 1
     elif near_dup:
       near_dups += 1
+      f_close.write(f'{fn}:{pos}\n')
+      #f_close.write(f'{xfn}:{xpos}\n')
       f_close.write(headers2s(sheaders))
-      f_close.write(headers2s(xheaders))
+      for ghash in ghashes:
+        f_close.write(str(dict3.get(ghash, '?')) + '\n')
       f_close.write('\n')
     else:
       good += 1
