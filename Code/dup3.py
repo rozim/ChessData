@@ -5,14 +5,14 @@ import sys
 import os
 import chess
 import chess.pgn
-from pprint import pprint
 import time
-import hashlib
-import timeit
 import array
 import numpy as np
 from fuzzywuzzy import fuzz
 from farmhash import FarmHash64
+from util import *
+import resource
+
 
 RATIO = 50
 
@@ -53,16 +53,6 @@ def munch_game(game):
   return last3, ply
 
 
-def gen_games(fn):
-  with open(fn, 'r', encoding='utf-8', errors='replace') as f:
-    while True:
-      pos = f.seek(0, 1)
-      game = chess.pgn.read_game(f)
-      if game is None:
-        return
-      yield game, pos
-
-
 def fuzzy_close(sheaders, xheaders):
   return (fuzz.ratio(sheaders['White'], xheaders['White']) > RATIO and
           fuzz.ratio(sheaders['Black'], xheaders['Black']) > RATIO and
@@ -75,12 +65,15 @@ def munch_file(fn):
   good = 0
   dups = 0
   near_dups = 0
-
+  t0 = time.time()
 
   for gnum, (game, pos) in enumerate(gen_games(fn)):
     sheaders = None
     #print(fn, pos, simplify_headers(game.headers))
-    if gnum % 1000 == 0:
+    if gnum % 10000 == 0:
+      dt = time.time() - t0
+      maxrss = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss // 1024 // 1024
+      print(f'{gnum:9d} {dt:6.1f}s {100*pos:4.1f}% {good:8d} {dups:7d} {near_dups:7d} rss={maxrss}')
       f_close.flush()
       f_dup.flush()
 
