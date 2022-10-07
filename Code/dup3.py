@@ -11,12 +11,28 @@ import hashlib
 import timeit
 import array
 import numpy as np
+from fuzzywuzzy import fuzz
+from farmhash import FarmHash64
+
+RATIO = 50
 
 
-MIN_PLY = 19
-
-all3 = set()
 dict3 = {}
+f_close = None
+f_dup = None
+
+def print_headers(h):
+  print(h['White'], h['Black'], h['Event'], h['Site'])
+
+
+def headers2s(h):
+  return h['White'] + ' | ' + h['Black'] + ' | ' + h['Event'] + ' | ' + h['Site'] + '\n'
+
+
+def simplify_headers(headers):
+  return {name: headers[name]
+          for name in ['White', 'Black', 'Event', 'Site']}
+
 
 def munch_game(game):
   h = game.headers
@@ -26,79 +42,105 @@ def munch_game(game):
   last3 = [0, 0, 0]
   board = chess.Board()
   ply = 0
-  sfen = None
+  uci = []
   for ply, move in enumerate(game.mainline_moves()):
+    uci.append(move.uci())
     board.push(move)
-    sfen = board.fen().split(' ')[0]
-    last3[ply % 3] = hash(sfen)
-  return last3, ply, sfen
+
+  last3[0] = FarmHash64(''.join(uci))
+  last3[1] = FarmHash64(''.join(uci[0:-1]))
+  last3[2] = FarmHash64(''.join(uci[0:-2]))
+  return last3, ply
 
 
 def gen_games(fn):
   with open(fn, 'r', encoding='utf-8', errors='replace') as f:
     while True:
+      pos = f.seek(0, 1)
       game = chess.pgn.read_game(f)
       if game is None:
         return
-      yield game
+      yield game, pos
 
 
-def uci(game):
-  res = []
-  board = chess.Board()
-  for ply, move in enumerate(game.mainline_moves()):
-    res.append(move.uci())
-    board.push(move)
-  return ' '.join(res)
-
-def san(game):
-  res = []
-  board = chess.Board()
-  for ply, move in enumerate(game.mainline_moves()):
-    res.append(board.san(move))
-    board.push(move)
-  return ' '.join(res)
+def fuzzy_close(sheaders, xheaders):
+  return (fuzz.ratio(sheaders['White'], xheaders['White']) > RATIO and
+          fuzz.ratio(sheaders['Black'], xheaders['Black']) > RATIO and
+          fuzz.ratio(sheaders['Event'], xheaders['Event']) > RATIO and
+          fuzz.ratio(sheaders['Site'], xheaders['Site']) > RATIO)
 
 
 def munch_file(fn):
+  global f_close, f_dup
   good = 0
   dups = 0
-  short = 0
-  for game in gen_games(fn):
-    ghashes, ply, final_sfen = munch_game(game)
-    if ply < MIN_PLY:
-      short += 1
-      continue
-    dup = False
+  near_dups = 0
+
+
+  for gnum, (game, pos) in enumerate(gen_games(fn)):
+    sheaders = None
+    #print(fn, pos, simplify_headers(game.headers))
+    if gnum % 1000 == 0:
+      f_close.flush()
+      f_dup.flush()
+
+    ghashes, max_ply = munch_game(game)
+
+    near_dup, dup = False, False
     for ghash in ghashes:
-      if ghash == 0:
+      if dup:
         continue
-      if ghash in all3:
-        dups += 1
-        print('dup: ', ply, game.headers)
-        print(uci(game))
-        print(san(game))
-        print('final: ', final_sfen)
-        print(dict3[ghash])
-        print()
+      if ghash not in dict3:
+        continue
+      near_dup = True
+      if sheaders is None:
+        sheaders = simplify_headers(game.headers)
+
+      xfn, xpos, xheaders = dict3[ghash]
+      if fuzzy_close(sheaders, xheaders):
         dup = True
-      all3.add(ghash)
-      dict3[ghash] = game.headers
+        f_dup.write(f'{fn}:{pos}\n')
+        f_dup.write(f'{xfn}:{xpos}\n')
+        f_dup.write(headers2s(sheaders))
+        f_dup.write(headers2s(xheaders))
+        f_dup.write('\n')
+
+    if sheaders is None:
+      sheaders = simplify_headers(game.headers)
+    for ghash in ghashes:
+      if ghash in dict3:
+        pass
+      else:
+        dict3[ghash] = (fn, pos, sheaders)
+
     if dup:
       dups += 1
+    elif near_dup:
+      near_dups += 1
+      f_close.write(headers2s(sheaders))
+      f_close.write(headers2s(xheaders))
+      f_close.write('\n')
     else:
       good += 1
-  print('good: ', good, 'dups: ', dups, 'short: ', short, 'all3: ', 'all3: ', len(all3))
-
-
+  print('good: ', good)
+  print('dups: ', dups)
+  print('near_dups: ', near_dups)
+  print('dict3: ', len(dict3))
 
 
 def main():
+  global f_close, f_dup
+  f_close = open('dup3-close.txt', 'w')
+  f_dup = open('dup3-dup.txt', 'w')
+
   for fn in sys.argv[1:]:
     t1 = time.time()
     munch_file(fn)
     dt = time.time() - t1
     print(fn, f'{dt:.1f}s')
+
+  f_dup.close()
+  f_close.close()
 
 if __name__ == '__main__':
   main()
