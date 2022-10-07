@@ -1,0 +1,20 @@
+../../../Code/sqlite-dump.sh mega.sqlite
+python ../../../Code/xsplit-sql.py mega.sql
+
+
+/Users/dave/Projects/ChessData/Analysis/nn-ad9b42354671/pv1
+../../../Code/sqlite-dump.sh
+cat *.sql | sed -e 's/INSERT INTO/INSERT OR REPLACE INTO/g' | sqlite3 mega.sqlite
+../../../Code/sqlite-dump.sh  mega.sqlite
+python ../../../Code/xsplit-sql.py mega.sql
+git add mega.sql-split-*
+git commit -m 'periodic' mega.sql-split-*
+rm *.sql
+rm $(ls *.sqlite | grep -v mega.sqlite)
+
+
+
+python gen-fen.py  --pgn=../Tournament/sinqcup22.pgn --prefix=../Analysis/nn-ad9b42354671/pv1/sinqcup22
+seq 0 9 | nice xargs -P 3 -I % -t python -u fen-analysis-db.py --fen=../Analysis/nn-ad9b42354671/pv1/sinqcup22_%.txt --output=../Analysis/nn-ad9b42354671/pv1/sinqcup22_%.sqlite --depth=20 --reference=../Analysis/nn-ad9b42354671/pv1/mega.sqlite >& cup.txt
+
+python gen-fen.py  --pgn=../Twic/twic1453.pgn --prefix=../Analysis/nn-ad9b42354671/pv1/twic1453

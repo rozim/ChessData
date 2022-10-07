@@ -25,3 +25,10 @@ python gen-fen.py --pgn=../Twic/twic1453.pgn --prefix=../Analysis/twic1453
 
 python gen-fen.py --min_ply=0 --max_ply=0 --pgn=../Game/smyslov-browne-1973.pgn
 --prefix=../Analysis/deep/smyslov-browne-1973.txt --n=1
+
+-----
+
+python gen-fen.py --pgn=../Twic/twic1352.pgn --event="CCCSA Fall GM 2020" --prefix=../Analysis/charlotte-gm-2020
+
+cd /Users/dave/Projects/ChessData/Code
+nice time python fen-analysis-db.py --fen=../Analysis/pv1/kvika-open-hans_0.txt --output=../Analysis/pv1/kvika-open-hans.sqlite --reference=../Analysis/pv1/mega.sqlite --depth=16
