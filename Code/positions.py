@@ -42,7 +42,7 @@ def munch_file(fn):
     counts.update(munch_game(g))
     if gnum % 25000 == 0:
       dt = time.time() - t1
-      print(gnum, f'{100.0 * pct:.2f} {dt:.1f}s', len(counts))
+      print('\t', gnum, f'{100.0 * pct:.2f}% {dt:.1f}s', len(counts))
 
   return counts
 
@@ -53,16 +53,15 @@ def main(argv):
     t1 = time.time()
     counts.update(munch_file(fn))
     dt = time.time() - t1
-    print(fn, len(counts), f'{dt:.1f}s')
+    print('fn: ', fn, len(counts), f'{dt:.1f}s')
 
   print('Done: ', len(counts))
   maxrss = resource.getrusage(resource.RUSAGE_SELF).ru_maxrss // 1024 // 1024
   print('RSS: ', maxrss)
 
-  for n, v in counts.items():
-    if v < FLAGS.min_freq:
-      continue
-    print(f'{n},{v}')
+  for n in sorted(counts, key=counts.get, reverse=True):
+    if counts[n] >= FLAGS.min_freq:
+      print(f'{n},{counts[n]}')
 
 
 if __name__ == "__main__":
