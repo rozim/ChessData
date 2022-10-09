@@ -48,6 +48,8 @@ def munch_file(fn):
 
 
 def main(argv):
+  assert FLAGS.max_ply >= FLAGS.min_ply
+
   counts = collections.Counter()
   for fn in argv[1:]:
     t1 = time.time()
