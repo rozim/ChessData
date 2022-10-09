@@ -6,7 +6,7 @@ THRESHOLD = 45 * 1024 * 1024
 
 
 def make_out_fn(fn, chunk):
-  return fn + '-split-' + str(chunk)
+  return f'{fn}-split-{chunk:02d}'
 
 
 def munch_file(fn, f):
