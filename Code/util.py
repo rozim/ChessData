@@ -103,6 +103,11 @@ def simplify_fen(board):
   return ' '.join(board.fen().split(' ')[0:4])
 
 
+def raw_position_fen(board):
+  #rn2kbnr/ppq2pp1/4p3/2pp2Bp/2P4P/1Q6/P2NNPP1/3RK2R w Kkq - 2 13
+  return ' '.join(board.fen().split(' ')[0])
+
+
 def sizeof(obj):
   size = sys.getsizeof(obj)
   if isinstance(obj, dict): return size + sum(map(sizeof, obj.keys())) + sum(map(sizeof, obj.values()))
