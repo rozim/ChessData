@@ -1,11 +1,11 @@
+# gen_games then gen_fens
+
 import os
 import sys
 import time
 
-
 import chess
 import chess.pgn
-
 
 from util import *
 
