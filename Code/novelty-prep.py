@@ -32,7 +32,7 @@ for fn in sys.argv[1:]:
       break
 
 print('Persisting')
-sdb = sqlitedict.open('novelty-dates.sqlite',
+sdb = sqlitedict.open('novelty-prep.sqlite',
                       flag='c',
                       encode=json.dumps,
                       decode=json.loads)
