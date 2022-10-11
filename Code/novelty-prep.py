@@ -2,6 +2,14 @@
 # calculations go faster as then we'll be sorted by date and won't ever
 # have to overwrite any data.
 
+# 4500000 97.0% 6565.9s
+# 4600000 99.2% 6726.5s
+# Persisting
+# 0 6794.1s 15084 15084
+#      6794.26 real      6758.81 user        32.11 sys
+#
+#
+
 import os
 import sys
 import time
@@ -26,10 +34,8 @@ for fn in sys.argv[1:]:
     if len(cur_date) > 10:
       cur_date = cur_date[0:10]
     db[cur_date].append(pos)
-    if gnum % 1000 == 0:
+    if gnum % 100000 == 0:
       print(f'{gnum} {100*pct:.1f}% {time.time()-t0:.1f}s')
-    if gnum > 10000:
-      break
 
 print('Persisting')
 sdb = sqlitedict.open('novelty-prep.sqlite',
