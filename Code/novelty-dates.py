@@ -43,6 +43,7 @@ class NoveltyDb:
 
   def __setitem__(self, key, value, /):
     self.d2[key] = value
+    # only set self.d1 on flush()
 
 
   def flush(self):
@@ -76,8 +77,6 @@ def munch_game(game, novelty_db):
       if cur_date < db_date:
         if sfen == DBG:
           print('IMPROVE ', db_date, cur_date)
-        #if n_improve % 1000 == 0:
-        #print('IMPROVE: ', db_date, cur_date)
         n_improve += 1
         novelty_db[sfen] = cur_date
       else:
@@ -99,6 +98,9 @@ def munch_file(fn, novelty_db):
       n1 = len( novelty_db.d1)
       n2 = len( novelty_db.d2)
       print(f'\t{gnum} {100.0 * pct:.2f}% {dt:.1f}s add={n_add} improve={n_improve} | {n_not_improve} d1={n1} d2={n2}')
+      if n2 > 10000000:
+        print('[flush]')
+        novelty_db.flush()
 
 
 def main(argv):
