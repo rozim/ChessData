@@ -18,6 +18,10 @@ FLAGS = flags.FLAGS
 
 flags.DEFINE_integer('max_ply', 60, 'Ending ply')
 
+flags.DEFINE_string('first_key', '', 'For recovery')
+
+# 2014.11.17
+
 n_improve = 0
 n_not_improve = 0
 n_add = 0
@@ -29,6 +33,7 @@ class NoveltyDb:
   def __init__(self):
     self.d1 = sqlitedict.open('novelty.sqlite',
                               flag='c',
+                              timeout=60,
                               encode=json.dumps,
                               decode=json.loads)
     self.d2 = {}
@@ -93,6 +98,7 @@ def main(argv):
 
   dates_db = sqlitedict.open('novelty-prep.sqlite',
                               flag='r',
+                              timeout=60,
                               encode=json.dumps,
                               decode=json.loads)
 
@@ -104,6 +110,9 @@ def main(argv):
   ng = 0
   dates = sorted(dates_db.keys())
   for di, date in enumerate(dates):
+    if FLAGS.first_key and date < FLAGS.first_key:
+      print(f'SKIP {date}')
+      continue
     if len(date) != 10:
       print('BAD LEN: ', date)
       continue
