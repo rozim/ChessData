@@ -40,6 +40,7 @@ def main(argv):
       if len(fens) < FLAGS.min_ply:
         short += 1
         continue
+      fens = fens[:-1] # final position may be mate so don't pick it
       slot = -1
       if gnum < FLAGS.n:
         slot = gnum
