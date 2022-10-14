@@ -22,6 +22,7 @@ flags.DEFINE_string('output', None, 'Output sqlite')
 flags.DEFINE_string('reference', None, 'Reference sqlite')
 flags.DEFINE_integer('depth', 1, 'Max depth')
 flags.DEFINE_bool('debug', False, '')
+flags.DEFINE_bool('verbose', False, '')
 
 flags.mark_flag_as_required('fen')
 flags.mark_flag_as_required('output')
@@ -66,17 +67,11 @@ def main(argv):
   print(f'Open {FLAGS.fen}')
   fens = open(FLAGS.fen, 'r').read().split('\n')
   fens = [fen.strip() for fen in fens]
-  if True:
-    # Stockfish keeps hanging -- let's mix things up at least.
-    random.shuffle(fens)
   print('FENS: ', len(fens))
 
   ncache = 0
   ncache_ref = 0
   nwrite = 0
-
-
-  #t_special = time.time() + 60.0
 
   print(f'Db: {FLAGS.output}')
   db = sqlitedict.open(FLAGS.output,
@@ -85,7 +80,6 @@ def main(argv):
                        decode=json.loads)
 
   reference.update(list(db.keys()))
-
 
   t_last_commit = time.time()
   max_dt = 0.0
@@ -108,7 +102,6 @@ def main(argv):
     nodes = 0
     board = chess.Board(fen)
 
-
     for depth in range(FLAGS.depth + 1):
       sfen = f'{fen}|{depth}'
       if sfen in reference:  # In memory
@@ -125,6 +118,8 @@ def main(argv):
         nodes += multi[0].get('nodes', 0)
 
       db[sfen] = list(simplify_multi(multi, board))
+      if FLAGS.verbose:
+        print(db[sfen])
       nwrite += 1
     dt = time.time() - t1
     star = ''
