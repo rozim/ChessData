@@ -1,0 +1,1 @@
+python ../../../Code/analysis-db-to-tsv.py deep.sqlite > deep.tsv
