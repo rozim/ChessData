@@ -23,6 +23,7 @@ flags.DEFINE_string('reference', None, 'Reference sqlite')
 flags.DEFINE_integer('depth', 1, 'Max depth')
 flags.DEFINE_bool('debug', False, '')
 flags.DEFINE_bool('verbose', False, '')
+flags.DEFINE_bool('overwrite', False, '')
 
 flags.mark_flag_as_required('fen')
 flags.mark_flag_as_required('output')
@@ -104,12 +105,13 @@ def main(argv):
 
     for depth in range(FLAGS.depth + 1):
       sfen = f'{fen}|{depth}'
-      if sfen in reference:  # In memory
-        ncache_ref += 1
-        continue
-      if sfen in db:  # Hmm, maybe should be in memory
-        ncache += 1
-        continue
+      if not FLAGS.overwrite:
+        if sfen in reference:  # In memory
+          ncache_ref += 1
+          continue
+        if sfen in db:  # Hmm, maybe should be in memory
+          ncache += 1
+          continue
 
       engine.configure({"Clear Hash": None})
       multi = engine.analyse(board, chess.engine.Limit(depth=depth), multipv=MULTIPV)
