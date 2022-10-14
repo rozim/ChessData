@@ -9,21 +9,22 @@ def gen_games(fn):
     fsize = f.seek(0, 2) # eof
     f.seek(0, 0) # rewind
     while True:
+      pos = f.seek(0, 1)
       g = chess.pgn.read_game(f)
       if g is None:
         return
-      # 2nd arg is pct
-      yield g, (f.seek(0, 1) / fsize)
+      yield g, (pos / fsize)
+
 
 def gen_games_pos(fn):
   with open(fn, 'r', encoding='utf-8', errors='replace') as f:
     fsize = f.seek(0, 2) # eof
     f.seek(0, 0) # rewind
     while True:
+      pos = f.seek(0, 1)
       g = chess.pgn.read_game(f)
       if g is None:
         return
-      pos = f.seek(0, 1)
       yield g, (pos / fsize), pos
 
 
@@ -46,7 +47,7 @@ def simplify_pv(pv):
 
 
 def simplify_score(score, board):
-  return score.pov(WHITE).score()
+  return score.pov(WHITE).score(mate_score=10000)
 
 
 def simplify_multi(multi, board):
