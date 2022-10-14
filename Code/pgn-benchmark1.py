@@ -29,6 +29,8 @@ for fn in sys.argv[1:]:
   for gnum, (g, pct) in enumerate(gen_games(fn)):
     if gnum % 10000 == 0:
       print(f'{gnum} {ng} {pct*100:.1f}% {time.time()-t1:.1f}s')
+      if gnum >= 30000:
+        break
     ng += 1
 
 dt = time.time() - t1
