@@ -18,3 +18,7 @@ python gen-fen.py  --pgn=../Tournament/sinqcup22.pgn --prefix=../Analysis/nn-ad9
 seq 0 9 | nice xargs -P 3 -I % -t python -u fen-analysis-db.py --fen=../Analysis/nn-ad9b42354671/pv1/sinqcup22_%.txt --output=../Analysis/nn-ad9b42354671/pv1/sinqcup22_%.sqlite --depth=20 --reference=../Analysis/nn-ad9b42354671/pv1/mega.sqlite >& cup.txt
 
 python gen-fen.py  --pgn=../Twic/twic1453.pgn --prefix=../Analysis/nn-ad9b42354671/pv1/twic1453
+
+---
+
+rm -f novelty.sqlite && nice time python -u novelty-dates.py ../Release/2022-10-05/mega-clean.pgn
