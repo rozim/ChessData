@@ -50,6 +50,21 @@ def simplify_score(score, board):
   return score.pov(WHITE).score(mate_score=10000)
 
 
+def simplify_score2(score, board):
+  mx = 10000
+  lim = 9000
+  res = int(score.pov(WHITE).score(mate_score=10000))
+  if score.is_mate(): # normal, mate
+    assert res > lim or res < -lim, 'mate in 1000 considered unlikely'
+    return True, res
+  elif res > lim: # clamp
+    return False, lim
+  elif res < -lim: # clamp
+    return False, -lim
+  else: # normal, in range
+    return False, res
+
+
 def simplify_multi(multi, board):
   for i, m in enumerate(multi):
     pv = m.get('pv', [])
@@ -58,12 +73,15 @@ def simplify_multi(multi, board):
       continue
     assert 'score' in m, (m, 'multi=', multi, 'fen=', board.fen())
 
+    is_mate, score = simplify_score2(m['score'], board)
     if i == 0: # nodes
-      yield {'ev': simplify_score(m['score'], board),
+      yield {'ev': score,
+             'mate': is_mate,
              'pv': simplify_pv(pv),
              'nodes': nodes}
     else: # leave out nodes
-      yield {'ev': simplify_score(m['score'], board),
+      yield {'ev': score,
+             'mate': is_mate,
              'pv': simplify_pv(pv)}
 
 
