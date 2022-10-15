@@ -19,7 +19,8 @@ FLAGS = flags.FLAGS
 
 flags.DEFINE_integer('n', 10, '')
 flags.DEFINE_integer('min_ply', 2, '')
-flags.DEFINE_integer('root_score', 150, 'Position must be +/- this so they are somewhat balanced')
+flags.DEFINE_integer('min_score', -150, 'Inclusive')
+flags.DEFINE_integer('max_score', 150, 'Inclusive')
 
 HASH = 512
 THREADS = 1 # reproducible
@@ -60,7 +61,7 @@ def main(argv):
     is_mate, score = simplify_score2(m['score'])
     if is_mate:
       continue
-    elif score > FLAGS.root_score or score < -FLAGS.root_score:
+    elif score < FLAGS.min_score or score > FLAGS.max_score:
       continue
     sfen = ' '.join(fen.split(' ')[0:4])
     if sfen not in already:
