@@ -1,1 +1,4 @@
+
+../../../Code/sqlite-dump-stdout.sh /tmp/9092/*.sqlite | sqlite3 deep.sqlite
+
 python ../../../Code/analysis-db-to-tsv.py deep.sqlite > deep.tsv
