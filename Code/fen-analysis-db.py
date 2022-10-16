@@ -56,7 +56,6 @@ def main(argv):
     assert os.access(FLAGS.reference, os.R_OK)
     rdb = sqlitedict.open(filename=FLAGS.reference,
                           flag='c',
-                          timeout=15,
                           encode=json.dumps,
                           decode=json.loads)
 
@@ -68,7 +67,6 @@ def main(argv):
   print(f'Open {FLAGS.fen}')
   fens = open(FLAGS.fen, 'r').read().split('\n')
   fens = [fen.strip() for fen in fens]
-  print('FENS: ', len(fens))
 
   ncache = 0
   ncache_ref = 0
