@@ -4,9 +4,9 @@ from chess import WHITE, BLACK
 import time
 
 FEN = '2rq2k1/pp3p2/1bn1b2p/1B1p2p1/3Nn3/1NP3B1/PP3PPP/3RQ1K1 w - - 8 21'
+FEN = '8/5K2/1bp4p/8/2p5/2k5/PPPPPPPP/qqqqqqqq b - - 5 16'
 HASH = 512
 THREADS = 1 # reproducible
-
 
 engine = chess.engine.SimpleEngine.popen_uci('stockfish')
 engine.configure({"Hash": HASH})
@@ -34,7 +34,7 @@ with engine.analysis(chess.Board(FEN)) as analysis:
       continue
     try:
       depth = int(info.get('depth'))
-      score = int(info.get('score').pov(WHITE).score())
+      score = int(info.get('score').pov(WHITE).score(mate_score=100000))
       pv = info.get('pv')
       pv = ' '.join([move.uci() for move in pv])
       nodes = int(info.get('nodes'))
