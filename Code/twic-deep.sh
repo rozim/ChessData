@@ -6,11 +6,18 @@
 ind=../Release/2022-10-05/
 outd=../Analysis/nn-ad9b42354671/pv1-deep
 depth=30
-python -u fen-analysis-db.py --fen=${ind}/twic-wtm-25-25.txt --output=${outd}/twic-wtm-25-25.sqlite   --reference=${outd}/twic-wtm-25-25.sqlite --depth=${depth} > ${outd}/twic-wtm-25-25b.txt 2>&1 &
-python -u fen-analysis-db.py --fen=${ind}/twic-btm-25-25.txt --output=${outd}/twic-btm-25-25.sqlite   --reference=${outd}/twic-btm-25-25.sqlite  --depth=${depth} > ${outd}/twic-btm-25-25b.txt 2>&1 &
+python -u fen-analysis-db.py --fen=${ind}/twic-wtm-25-25.txt --output=${outd}/twic-wtm-25-25.sqlite   --depth=${depth} > ${outd}/twic-wtm-25-25b.txt 2>&1 &
+python -u fen-analysis-db.py --fen=${ind}/twic-btm-25-25.txt --output=${outd}/twic-btm-25-25.sqlite   --depth=${depth} > ${outd}/twic-btm-25-25b.txt 2>&1 &
 
-python -u fen-analysis-db.py --fen=${ind}/twic-wtm-150-26.txt --output=${outd}/twic-wtm-150-26.sqlite --reference=${outd}/twic-wtm-150-26.sqlite  --depth=${depth} > ${outd}/twic-wtm-150-26b.txt 2>&1 &
-python -u fen-analysis-db.py --fen=${ind}/twic-btm-150-26.txt --output=${outd}/twic-btm-150-26.sqlite --reference=${outd}/twic-btm-150-26.sqlite  --depth=${depth} > ${outd}/twic-btm-150-26b.txt 2>&1
+python -u fen-analysis-db.py --fen=${ind}/twic-wtm-150-26.txt --output=${outd}/twic-wtm-150-26.sqlite --depth=${depth} > ${outd}/twic-wtm-150-26b.txt 2>&1 &
+python -u fen-analysis-db.py --fen=${ind}/twic-btm-150-26.txt --output=${outd}/twic-btm-150-26.sqlite --depth=${depth} > ${outd}/twic-btm-150-26b.txt 2>&1
+
+# python -u fen-analysis-db.py --fen=${ind}/twic-wtm-25-25.txt --output=${outd}/twic-wtm-25-25.sqlite   --reference=${outd}/twic-wtm-25-25.sqlite --depth=${depth} > ${outd}/twic-wtm-25-25b.txt 2>&1 &
+# python -u fen-analysis-db.py --fen=${ind}/twic-btm-25-25.txt --output=${outd}/twic-btm-25-25.sqlite   --reference=${outd}/twic-btm-25-25.sqlite  --depth=${depth} > ${outd}/twic-btm-25-25b.txt 2>&1 &
+
+# python -u fen-analysis-db.py --fen=${ind}/twic-wtm-150-26.txt --output=${outd}/twic-wtm-150-26.sqlite --reference=${outd}/twic-wtm-150-26.sqlite  --depth=${depth} > ${outd}/twic-wtm-150-26b.txt 2>&1 &
+# python -u fen-analysis-db.py --fen=${ind}/twic-btm-150-26.txt --output=${outd}/twic-btm-150-26.sqlite --reference=${outd}/twic-btm-150-26.sqlite  --depth=${depth} > ${outd}/twic-btm-150-26b.txt 2>&1
+
 wait
 wait
 wait
