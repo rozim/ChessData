@@ -74,7 +74,7 @@ def main(argv):
     else:
       n_turn += 1
       continue
-    m = engine.analyse(board, chess.engine.Limit(depth=0))
+    m = engine.analyse(board, chess.engine.Limit(depth=1))
     is_mate, score = simplify_score2(m['score'])
     if is_mate:
       n_mate += 1
