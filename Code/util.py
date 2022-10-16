@@ -50,7 +50,7 @@ def simplify_score(score, board):
   return score.pov(WHITE).score(mate_score=10000)
 
 
-def simplify_score2(score, board):
+def simplify_score2(score):
   mx = 10000
   lim = 9000
   res = int(score.pov(WHITE).score(mate_score=10000))
@@ -73,7 +73,7 @@ def simplify_multi(multi, board):
       continue
     assert 'score' in m, (m, 'multi=', multi, 'fen=', board.fen())
 
-    is_mate, score = simplify_score2(m['score'], board)
+    is_mate, score = simplify_score2(m['score'])
     if i == 0: # nodes
       yield {'ev': score,
              'mate': is_mate,

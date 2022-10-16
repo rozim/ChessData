@@ -19,7 +19,7 @@ from util import *
 
 FLAGS = flags.FLAGS
 flags.DEFINE_string('pgn', None, 'PGN input file')
-flags.DEFINE_string('engine', 'stockfish', '')
+flags.DEFINE_string('engine', './stockfish', '')
 flags.DEFINE_string('db', '', 'Optional database name')
 
 flags.DEFINE_integer('depth', 1, '')

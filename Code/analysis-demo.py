@@ -8,7 +8,7 @@ FEN = '8/5K2/1bp4p/8/2p5/2k5/PPPPPPPP/qqqqqqqq b - - 5 16'
 HASH = 512
 THREADS = 1 # reproducible
 
-engine = chess.engine.SimpleEngine.popen_uci('stockfish')
+engine = chess.engine.SimpleEngine.popen_uci('./stockfish')
 engine.configure({"Hash": HASH})
 engine.configure({"Threads": THREADS})
 

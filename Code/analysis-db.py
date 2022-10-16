@@ -104,7 +104,7 @@ def main(argv):
   ncache = 0
   ncache_ref = 0
   nwrite = 0
-  engine = chess.engine.SimpleEngine.popen_uci('stockfish')
+  engine = chess.engine.SimpleEngine.popen_uci('./stockfish')
   engine.configure({"Hash": HASH})
   engine.configure({"Threads": THREADS})
   #t_special = time.time() + 60.0

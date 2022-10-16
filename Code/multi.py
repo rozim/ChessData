@@ -4,7 +4,7 @@ import time
 
 FEN = '2k4r/4np2/p1p5/8/4B3/1P2P3/P4P2/1K1R4 b - -'
 
-engine = chess.engine.SimpleEngine.popen_uci('stockfish')
+engine = chess.engine.SimpleEngine.popen_uci('./stockfish')
 engine.configure({"Clear Hash": 1})
 engine.configure({"Hash": 256})
 engine.configure({"Threads": 1})

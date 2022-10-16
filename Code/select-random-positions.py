@@ -37,7 +37,7 @@ def main(argv):
 
   n_good, n_mate, n_already, n_range, n_short, n_turn = 0, 0, 0, 0, 0, 0
 
-  engine = chess.engine.SimpleEngine.popen_uci('stockfish')
+  engine = chess.engine.SimpleEngine.popen_uci('./stockfish')
   engine.configure({"Hash": HASH})
   engine.configure({"Threads": THREADS})
 

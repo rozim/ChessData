@@ -19,8 +19,8 @@ flags.DEFINE_integer('num_matches', 50, 'Number of two game matches to play')
 HASH = 512
 THREADS = 1
 
-engine1 = chess.engine.SimpleEngine.popen_uci('stockfish')
-engine2 = chess.engine.SimpleEngine.popen_uci('stockfish')
+engine1 = chess.engine.SimpleEngine.popen_uci('./stockfish')
+engine2 = chess.engine.SimpleEngine.popen_uci('./stockfish')
 
 engine1.configure({'Hash': HASH})
 engine2.configure({'Hash': HASH})
