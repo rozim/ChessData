@@ -26,3 +26,5 @@ rm -f novelty.sqlite && nice time python -u novelty-dates.py ../Release/2022-10-
 -----
 
 python select-random-positions.py --n=1000 --root_score=150 ../Twic/mega-clean.pgn > ../Release/2022-10-05/random-sample-1000-150.txt 2>  ../Release/2022-10-05/random-sample-1000-150.err
+
+python -u select-random-positions.py --n=1000 --root_score=150 ../Twic/mega-clean.pgn > ../Release/2022-10-05/random-sample-1000-150.txt
