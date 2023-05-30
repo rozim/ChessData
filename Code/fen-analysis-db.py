@@ -101,7 +101,7 @@ def main(argv):
     nodes = 0
     board = chess.Board(fen)
 
-    for depth in range(FLAGS.depth + 1):
+    for depth in range(1, FLAGS.depth + 1):
       sfen = f'{fen}|{depth}'
       if not FLAGS.overwrite:
         if sfen in reference:  # In memory

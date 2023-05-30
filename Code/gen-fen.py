@@ -11,7 +11,6 @@ import sqlitedict
 
 import chess
 from chess import WHITE, BLACK
-import chess.engine
 import chess.pgn
 
 from absl import app

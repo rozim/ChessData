@@ -134,7 +134,7 @@ def main(argv):
 
       engine.configure({"Clear Hash": None})
       multi = None
-      for depth in range(FLAGS.depth + 1):
+      for depth in range(1, FLAGS.depth + 1):
         sfen = f'{simplify_fen(board)}|{depth}'
         if sfen in reference:  # In memory
           ncache_ref += 1

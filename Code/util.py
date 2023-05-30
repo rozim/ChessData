@@ -1,4 +1,4 @@
-import chess
+oimport chess
 import chess.pgn
 from chess import WHITE, BLACK
 import chess.engine
