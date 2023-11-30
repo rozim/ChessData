@@ -1,4 +1,4 @@
-oimport chess
+import chess
 import chess.pgn
 from chess import WHITE, BLACK
 import chess.engine
@@ -17,6 +17,7 @@ def gen_games(fn):
 
 
 def gen_games_pos(fn):
+  """Generate file positions of all games."""
   with open(fn, 'r', encoding='utf-8', errors='replace') as f:
     fsize = f.seek(0, 2) # eof
     f.seek(0, 0) # rewind

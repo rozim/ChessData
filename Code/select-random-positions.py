@@ -1,5 +1,8 @@
 # Pick random though unique positions out of PGN files by
 # considering one position for inclusion from every game.
+#
+# Uses engine analysis - see select-random-positions-simple.py for
+# variant.
 
 import logging
 import os
@@ -52,9 +55,12 @@ def main(argv):
 
   already = set()
 
+  # For every game.
   for gnum, (fn, pos) in enumerate(locations):
     if gnum % 1000 == 0:
       sys.stderr.write(f'{gnum} a={len(already)} g={n_good}/{FLAGS.n} m={n_mate} r={n_range} na={n_already} s={n_short}\n')
+
+    # Jump to the game position and read it in.
     f = open(fn, 'r', encoding='utf-8', errors='replace')
     f.seek(pos, 0)
     game = chess.pgn.read_game(f)
