@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in {1491..1516}
+for i in {1517..1518}
 do
     echo wget http://www.theweekinchess.com/zips/twic${i}g.zip
     echo unzip -q twic${i}g.zip

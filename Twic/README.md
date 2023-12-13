@@ -20,3 +20,6 @@ git add *.pgn
 
 git commit -m "periodic update" *.pgn *.md *.sh
 git push origin master
+
+# Note: this is not pushed to github
+time pgn-extract -C -D -N -s -V -Z --fixresulttags --nobadresults --nosetuptags --plycount -o mega-clean.pgn twic*.pgn
