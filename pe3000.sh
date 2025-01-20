@@ -1,5 +1,5 @@
 pgn-extract \
-    -ttags3000.txt \
+    -tfilter/tags3000.txt \
 -C \
 -D \
 -N \
@@ -10,7 +10,3 @@ pgn-extract \
 --nobadresults \
 --nosetuptags \
 	    $*
-
-
-
-

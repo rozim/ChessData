@@ -1,5 +1,5 @@
 pgn-extract \
-    -ttags2600.txt \
+    -tfilter/tags2600.txt \
 -C \
 -D \
 -N \
@@ -20,4 +20,3 @@ pgn-extract \
 # -Z       ==> dedup tmp
 # -D       ==> no dups
 # -s       ==> silent
-
