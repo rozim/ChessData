@@ -29,10 +29,11 @@ def gen_games_pos(fn):
       yield g, (pos / fsize), pos
 
 
-def gen_moves(game):
+# gen_moves returned a board that is a singleton, needs to be duped
+def gen_moves_fixed(game):
   board = game.board()
   for ply, move in enumerate(game.mainline_moves()):
-    yield move.uci(), board.san(move), ply, board
+    yield move.uci(), board.san(move), ply, board.fen()
     board.push(move)
 
 

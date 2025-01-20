@@ -9,7 +9,7 @@ github_limit = 50 * 1024 * 1024
 
 for fn in sys.argv[1:]:
   if os.stat(fn).st_size < github_limit:
-    print(f'Pass, small enough: {fn}')
+    print(f'xsplit-lines Pass, small enough: {fn}')
     continue
 
   chunk = -1

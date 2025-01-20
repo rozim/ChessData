@@ -4,3 +4,6 @@
 % sqlite3 headers.sqlite
 sqlite> .mode tabs
 sqlite> .import mega-clean-headers.tsv h
+
+# opps, not quite right
+awk -F , '{print $2, $1}' mega-clean-common-positions.txt  | sort -rn | awk '{print $2, $1}' | sed -e 's/ /,/g' > mega-clean-common-positions-sorted.txt

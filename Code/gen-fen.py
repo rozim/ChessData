@@ -7,7 +7,6 @@ import json
 import random
 
 import time
-import sqlitedict
 
 import chess
 from chess import WHITE, BLACK

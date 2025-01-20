@@ -1,0 +1,135 @@
+8/5K2/1bp4p/8/2p5/2k5/PPPPPPPP/qqqqqqqq b - - 5 16
+. . . . . . . .
+. . . . . K . .
+. b p . . . . p
+. . . . . . . .
+. . p . . . . .
+. . k . . . . .
+P P P P P P P P
+q q q q q q q q
+INFO: {'string': 'NNUE evaluation using nn-6877cd24400e.nnue enabled'}
+
+[skip]
+INFO: {'depth': 1, 'seldepth': 1, 'multipv': 1, 'score': PovScore(Cp(+9468), BLACK), 'nodes': 5, 'nps': 5000, 'tbhits': 0, 'time': 0.001, 'pv': [Move.from_uci('c3b2')]}
+
+LINE:   0.2s   0.0s  1    -9468        5   |  c3b2
+INFO: {'depth': 2, 'seldepth': 2, 'multipv': 1, 'score': PovScore(Cp(+9326), BLACK), 'nodes': 706, 'nps': 353000, 'tbhits': 0, 'time': 0.002, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('a1a2')]}
+
+LINE:   0.2s   0.0s  2    -9326      706   |  c3b2 f2f3 a1a2
+INFO: {'depth': 3, 'seldepth': 3, 'multipv': 1, 'score': PovScore(Cp(+9355), BLACK), 'nodes': 1047, 'nps': 523500, 'tbhits': 0, 'time': 0.002, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('d1e2')]}
+
+LINE:   0.2s   0.0s  3    -9355     1047   |  c3b2 f2f3 d1e2
+INFO: {'depth': 4, 'seldepth': 4, 'multipv': 1, 'score': PovScore(Cp(+9377), BLACK), 'nodes': 1438, 'nps': 479333, 'tbhits': 0, 'time': 0.003, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('d1e2'), Move.from_uci('f7f8')]}
+
+LINE:   0.2s   0.0s  4    -9377     1438   |  c3b2 f2f3 d1e2 f7f8
+INFO: {'depth': 5, 'seldepth': 5, 'multipv': 1, 'score': PovScore(Cp(+9475), BLACK), 'nodes': 2934, 'nps': 419142, 'tbhits': 0, 'time': 0.007, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('d1e2'), Move.from_uci('g2g3'), Move.from_uci('f1f3'), Move.from_uci('f7g6'), Move.from_uci('a1a2')]}
+
+LINE:   0.2s   0.0s  5    -9475     2934   |  c3b2 f2f3 d1e2 g2g3 f1f3 f7g6 a1a2
+INFO: {'depth': 6, 'seldepth': 6, 'multipv': 1, 'score': PovScore(Cp(+9511), BLACK), 'nodes': 17614, 'nps': 1467833, 'tbhits': 0, 'time': 0.012, 'pv': [Move.from_uci('c3b2'), Move.from_uci('g2g3'), Move.from_uci('h1h2'), Move.from_uci('f2f4')]}
+
+LINE:   0.2s   0.0s  6    -9511    17614   |  c3b2 g2g3 h1h2 f2f4
+INFO: {'depth': 7, 'seldepth': 7, 'multipv': 1, 'score': PovScore(Cp(+9525), BLACK), 'nodes': 23099, 'nps': 1776846, 'tbhits': 0, 'time': 0.013, 'pv': [Move.from_uci('c3b2'), Move.from_uci('g2g3'), Move.from_uci('h1h2'), Move.from_uci('f2f4'), Move.from_uci('d1e2'), Move.from_uci('d2d3'), Move.from_uci('e1g3')]}
+
+LINE:   0.2s   0.0s  7    -9525    23099   |  c3b2 g2g3 h1h2 f2f4 d1e2 d2d3 e1g3
+INFO: {'depth': 8, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Cp(+9675), BLACK), 'nodes': 60939, 'nps': 2649521, 'tbhits': 0, 'time': 0.023, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('d1e2'), Move.from_uci('g2g3'), Move.from_uci('g1h2'), Move.from_uci('g3g4'), Move.from_uci('f1f3'), Move.from_uci('f7g8'), Move.from_uci('f3g4'), Move.from_uci('g8h7'), Move.from_uci('b1c2'), Move.from_uci('d2d3'), Move.from_uci('c4d3')]}
+
+LINE:   0.2s   0.0s  8    -9675    60939   |  c3b2 f2f3 d1e2 g2g3 g1h2 g3g4 f1f3 f7g8 f3g4 g8h7 b1c2 d2d3 c4d3
+INFO: {'depth': 9, 'seldepth': 9, 'multipv': 1, 'score': PovScore(Mate(+7), BLACK), 'nodes': 66761, 'nps': 2670440, 'tbhits': 0, 'time': 0.025, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('d1e2'), Move.from_uci('g2g3'), Move.from_uci('h1h2'), Move.from_uci('f7f8'), Move.from_uci('e2e8'), Move.from_uci('f8g7'), Move.from_uci('e1g3'), Move.from_uci('g7h7')]}
+
+LINE:   0.2s   0.0s  9   -99993    66761   |  c3b2 f2f3 d1e2 g2g3 h1h2 f7f8 e2e8 f8g7 e1g3 g7h7
+INFO: {'depth': 10, 'seldepth': 10, 'multipv': 1, 'score': PovScore(Mate(+6), BLACK), 'nodes': 72049, 'nps': 2771115, 'tbhits': 0, 'time': 0.026, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('d1e2'), Move.from_uci('g2g3'), Move.from_uci('h1h2'), Move.from_uci('f7f8'), Move.from_uci('e2e8'), Move.from_uci('f8g7'), Move.from_uci('e1g3'), Move.from_uci('g7h7'), Move.from_uci('g3g7')]}
+
+LINE:   0.2s   0.0s 10   -99994    72049   |  c3b2 f2f3 d1e2 g2g3 h1h2 f7f8 e2e8 f8g7 e1g3 g7h7 g3g7
+INFO: {'depth': 11, 'seldepth': 11, 'multipv': 1, 'score': PovScore(Mate(+6), BLACK), 'nodes': 74825, 'nps': 2771296, 'tbhits': 0, 'time': 0.027, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('d1e2'), Move.from_uci('g2g3'), Move.from_uci('h1h2'), Move.from_uci('f7f8'), Move.from_uci('e2e8'), Move.from_uci('f8g7'), Move.from_uci('e1g3'), Move.from_uci('g7h7'), Move.from_uci('g3g7')]}
+
+LINE:   0.2s   0.0s 11   -99994    74825   |  c3b2 f2f3 d1e2 g2g3 h1h2 f7f8 e2e8 f8g7 e1g3 g7h7 g3g7
+INFO: {'depth': 12, 'seldepth': 12, 'multipv': 1, 'score': PovScore(Mate(+5), BLACK), 'nodes': 95866, 'nps': 2905030, 'tbhits': 0, 'time': 0.033, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('d1e2'), Move.from_uci('g2g3'), Move.from_uci('e2e8'), Move.from_uci('f7g7'), Move.from_uci('e1e7'), Move.from_uci('g7h6'), Move.from_uci('g1h2')]}
+
+LINE:   0.2s   0.0s 12   -99995    95866   |  c3b2 f2f3 d1e2 g2g3 e2e8 f7g7 e1e7 g7h6 g1h2
+INFO: {'depth': 13, 'seldepth': 10, 'multipv': 1, 'score': PovScore(Mate(+5), BLACK), 'nodes': 102186, 'nps': 3005470, 'tbhits': 0, 'time': 0.034, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('d1e2'), Move.from_uci('g2g3'), Move.from_uci('e2e8'), Move.from_uci('f7g7'), Move.from_uci('e1e7'), Move.from_uci('g7h6'), Move.from_uci('g1h2')]}
+
+LINE:   0.2s   0.0s 13   -99995   102186   |  c3b2 f2f3 d1e2 g2g3 e2e8 f7g7 e1e7 g7h6 g1h2
+INFO: {'depth': 14, 'seldepth': 10, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 114719, 'nps': 3018921, 'tbhits': 0, 'time': 0.038, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 14   -99996   114719   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 15, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 116145, 'nps': 3056447, 'tbhits': 0, 'time': 0.038, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 15   -99996   116145   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 16, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 118234, 'nps': 3111421, 'tbhits': 0, 'time': 0.038, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 16   -99996   118234   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 17, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 120471, 'nps': 3089000, 'tbhits': 0, 'time': 0.039, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 17   -99996   120471   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 18, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 123612, 'nps': 3169538, 'tbhits': 0, 'time': 0.039, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 18   -99996   123612   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 19, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 127769, 'nps': 3194225, 'tbhits': 0, 'time': 0.04, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 19   -99996   127769   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 20, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 133204, 'nps': 3248878, 'tbhits': 0, 'time': 0.041, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 20   -99996   133204   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 21, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 140396, 'nps': 3342761, 'tbhits': 0, 'time': 0.042, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 21   -99996   140396   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 22, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 148365, 'nps': 3450348, 'tbhits': 0, 'time': 0.043, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 22   -99996   148365   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 23, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 157234, 'nps': 3573500, 'tbhits': 0, 'time': 0.044, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 23   -99996   157234   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 24, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 166875, 'nps': 3708333, 'tbhits': 0, 'time': 0.045, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 24   -99996   166875   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 25, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 177480, 'nps': 3858260, 'tbhits': 0, 'time': 0.046, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 25   -99996   177480   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 26, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 189056, 'nps': 4022468, 'tbhits': 0, 'time': 0.047, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 26   -99996   189056   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 27, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 201485, 'nps': 4197604, 'tbhits': 0, 'time': 0.048, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 27   -99996   201485   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 28, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 213793, 'nps': 4363122, 'tbhits': 0, 'time': 0.049, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 28   -99996   213793   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 29, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 226381, 'nps': 4527620, 'tbhits': 0, 'time': 0.05, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 29   -99996   226381   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 30, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 239083, 'nps': 4687901, 'tbhits': 0, 'time': 0.051, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 30   -99996   239083   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 31, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 251854, 'nps': 4843346, 'tbhits': 0, 'time': 0.052, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 31   -99996   251854   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 32, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 264916, 'nps': 4998415, 'tbhits': 0, 'time': 0.053, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 32   -99996   264916   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 33, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 277842, 'nps': 5145222, 'tbhits': 0, 'time': 0.054, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 33   -99996   277842   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 34, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 290874, 'nps': 5288618, 'tbhits': 0, 'time': 0.055, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 34   -99996   290874   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 35, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 303955, 'nps': 5427767, 'tbhits': 0, 'time': 0.056, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 35   -99996   303955   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 36, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 317061, 'nps': 5562473, 'tbhits': 0, 'time': 0.057, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 36   -99996   317061   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 37, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 330012, 'nps': 5689862, 'tbhits': 0, 'time': 0.058, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 37   -99996   330012   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 38, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 343088, 'nps': 5815050, 'tbhits': 0, 'time': 0.059, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 38   -99996   343088   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 39, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 356137, 'nps': 5935616, 'tbhits': 0, 'time': 0.06, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.2s   0.0s 39   -99996   356137   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 40, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 369212, 'nps': 6052655, 'tbhits': 0, 'time': 0.061, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.3s   0.1s 40   -99996   369212   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
+INFO: {'depth': 41, 'seldepth': 8, 'multipv': 1, 'score': PovScore(Mate(+4), BLACK), 'nodes': 382293, 'nps': 6166016, 'tbhits': 0, 'time': 0.062, 'pv': [Move.from_uci('c3b2'), Move.from_uci('f2f3'), Move.from_uci('f1g2'), Move.from_uci('f7e6'), Move.from_uci('d1e2'), Move.from_uci('e6d7'), Move.from_uci('e2e6')]}
+
+LINE:   0.3s   0.0s 41   -99996   382293   |  c3b2 f2f3 f1g2 f7e6 d1e2 e6d7 e2e6
