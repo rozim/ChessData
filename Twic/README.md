@@ -6,8 +6,9 @@ update doit.sh
 # download
 sh ./doit.sh | sh -x
 
-sh ./fixit.sh
+sh ./fixit.sh > shh 2> err
 
+# slow, 5 mins
 ./pgn-cleanup-inplace.sh twic*.pgn
 
 # Older (pre-2023):
