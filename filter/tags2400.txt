@@ -1,0 +1,4 @@
+WhiteElo >= "2400"
+BlackElo >= "2400"
+WhiteElo < "2900"
+BlackElo < "2900"
