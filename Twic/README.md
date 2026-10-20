@@ -23,8 +23,9 @@ git push origin master
 
 # Note: this is not pushed to github
 time pgn-extract -C -D -N -s -V -Z --fixresulttags --nobadresults --nosetuptags --plycount -o mega-clean.pgn twic*.pgn
+# 2026-10-19 time :        550.81 real       347.23 user       197.28 sys
 
-# 2023-12-12 time :  255.36s user 106.16s system 98% cpu 6:06.12 total
-
-# Regenerate mega-2400.pgn - 5 mins
+# Regenerate mega-2400.pgn - 10 mins
 ./do2400.sh
+# Regenerate mega-2600.pgn - 1 min
+./do2600.sh
