@@ -18,7 +18,7 @@ for d in RebelSite Convekta Kingbase Britbase PgnMentor ChessNostalgia.com World
     # fi
     # echo GOOD ${d}/mega2600.pgn `wc -c ${d}/mega2600.pgn`
 
-    time python Code/xsplit.py ${d}/mega2600.pgn
+    time python3 Code/xsplit.py ${d}/mega2600.pgn
     echo " "
 done
 echo " "
@@ -29,7 +29,7 @@ echo FINALb
 time ./pe3000.sh prelim2600.pgn > mega2600.pgn 2> mega2600.err
 
 echo SPLIT
-time python Code/xsplit.py mega2600.pgn */mega2600.pgn
+time python3 Code/xsplit.py mega2600.pgn */mega2600.pgn
 
 git add mega2600*.pgn */mega2600*.pgn
 git commit -m "mega2600 update" mega2600*.pgn */mega2600*.pgn
